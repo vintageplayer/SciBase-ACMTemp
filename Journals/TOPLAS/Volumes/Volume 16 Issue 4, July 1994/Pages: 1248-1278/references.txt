@@ -1,0 +1,49 @@
+Randy Allen , Ken Kennedy, Automatic translation of FORTRAN programs to vector form, ACM Transactions on Programming Languages and Systems (TOPLAS), v.9 n.4, p.491-542, Oct. 1987[doi>10.1145/29873.29875]
+Saman P. Amarasinghe , Monica S. Lam, Communication optimization and code generation for distributed memory machines, Proceedings of the ACM SIGPLAN 1993 conference on Programming language design and implementation, p.126-138, June 21-25, 1993, Albuquerque, New Mexico, United States[doi>10.1145/155090.155102]
+Corinne Ancourt , François Irigoin, Scanning polyhedra with DO loops, Proceedings of the third ACM SIGPLAN symposium on Principles and practice of parallel programming, p.39-50, April 21-24, 1991, Williamsburg, Virginia, United States[doi>10.1145/109625.109631]
+BANERIEE, U. 1990. Unimodular transformations of double loops. In Proceedzngs of the 3rd Workshop on Programrnzng Languages and Cornpzlers for Parallel Computzng (Irvine, Cahf., Aug.), 192-219.
+BANERJEE, U. 1988.An introduction to a formal theory of dependence analysis. J. Supercomput 2, 2, 133-149.
+BERRY. M. ET AL. 1989. The PERFECT Club benchmarks: Effective performance evaluation 04' supercomputers. Int. J. Supercomput. Appl. 3, 3 (Mar.), 5-40.
+T. Brandes, The importance of direct dependences for automatic parallelization, Proceedings of the 2nd international conference on Supercomputing, p.407-417, June 1988, St. Malo, France[doi>10.1145/55364.55404]
+COOPER, D. 1972. Theorem proving in arithmetic with multiphcatmn. In Machtne Intelligence 7, B. Meltzer and D Michie, Eds American Elsewer, New York, 91-99.
+Evelyn Duesterwald , Rajiv Gupta , Mary Lou Soffa, A practical data flow framework for array reference analysis and its use in optimizations, Proceedings of the ACM SIGPLAN 1993 conference on Programming language design and implementation, p.68-77, June 21-25, 1993, Albuquerque, New Mexico, United States[doi>10.1145/155090.155097]
+Rudolf Eigenmann, Toward a methodology of optimizing programs for high-performance computers, Proceedings of the 7th international conference on Supercomputing, p.27-36, July 19-23, 1993, Tokyo, Japan[doi>10.1145/165939.165948]
+EIGENMANN, R. 1992. Toward a methodology of optimizing programs for high-performance computers. CSRD Report 1178. (Aug.). Dept. of Computer Science, Univ. of illinois at Urbana- Champaign.
+Rudolf Eigenmann , Jay Hoeflinger , Z. Li , David A. Padua, Experience in the Automatic Parallelization of Four Perfect-Benchmark Programs, Proceedings of the Fourth International Workshop on Languages and Compilers for Parallel Computing, p.65-83, August 07-09, 1991
+FEAUTRIER, P. 1991. Dataflow analysis of array and scalar references. Int. J. Parallel Program. 20, 1 (Feb.).
+P. Feautrier, Array expansion, Proceedings of the 2nd international conference on Supercomputing, p.429-441, June 1988, St. Malo, France[doi>10.1145/55364.55406]
+Gina Goff , Ken Kennedy , Chau-Wen Tseng, Practical dependence testing, Proceedings of the ACM SIGPLAN 1991 conference on Programming language design and implementation, p.15-29, June 24-28, 1991, Toronto, Ontario, Canada[doi>10.1145/113445.113448]
+T. Gross , P. Steenkiste, Structured dataflow analysis for arrays and its use in an optimizing complier, Software—Practice & Experience, v.20 n.2, p.133-155, February 1990[doi>10.1002/spe.4380200203]
+François Irigoin , Pierre Jouvelot , Rémi Triolet, Semantical interprocedural parallelization: an overview of the PIPS project, Proceedings of the 5th international conference on Supercomputing, p.244-251, June 17-21, 1991, Cologne, West Germany[doi>10.1145/109025.109086]
+Wayne Kelly , William Pugh, A framework for unifying reordering transformations, University of Maryland at College Park, College Park, MD, 1993
+KONG, X., KLAPPHOLZ, D., AND PSARRIS, K. 1990. The I test: A new tst for subscript data dependence. In Proceedings of the 1990 Internattonal Conference on Parallel Processing (Aug.).
+KREISEL, G., AND KREVINE, J. 1967. Elements of Mathematical Logic. North-Holland Publishing Co., Amsterdam, The Netherlands.
+K. G. Kumar , D. Kulkarni , A. Basu, Deriving good transformations for mapping nested loops on hierarchical parallel machines in polynomial time, Proceedings of the 6th international conference on Supercomputing, p.82-92, July 19-24, 1992, Washington, D. C., United States[doi>10.1145/143369.143390]
+J. R. Larus, Loop-Level Parallelism in Numeric and Symbolic Programs, IEEE Transactions on Parallel and Distributed Systems, v.4 n.7, p.812-826, July 1993[doi>10.1109/71.238302]
+Zhiyuan Li, Array privatization for parallel execution of loops, Proceedings of the 6th international conference on Supercomputing, p.313-322, July 19-24, 1992, Washington, D. C., United States[doi>10.1145/143369.143426]
+Lee-Chung Lu , Marina C. Chen, Subdomain dependence test for massive parallelism, Proceedings of the 1990 conference on Supercomputing, p.962-972, October 1990, New York, New York, United States
+Vadim Maslov, Lazy array data-flow dependence analysis, Proceedings of the 21st ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.311-325, January 16-19, 1994, Portland, Oregon, United States[doi>10.1145/174675.177911]
+Vadim Maslov, Delinearization: an efficient way to break multiloop dependence equations, Proceedings of the ACM SIGPLAN 1992 conference on Programming language design and implementation, p.152-161, June 15-19, 1992, San Francisco, California, United States[doi>10.1145/143095.143130]
+Dror Eliezer Maydan, Accurate analysis of array references, Stanford University, Stanford, CA, 1993
+Dror E. Maydan , Saman P. Amarasinghe , Monica S. Lam, Array-data flow analysis and its use in array privatization, Proceedings of the 20th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.2-15, March 1993, Charleston, South Carolina, United States[doi>10.1145/158511.158515]
+Dror E. Maydan , S. Amarsinghe , Monica S. Lam, Data Dependence and Data-Flow Analysis of Arrays, Proceedings of the 5th International Workshop on Languages and Compilers for Parallel Computing, p.434-448, August 03-05, 1992
+MAYDAN, D., HENNESSY, J., AND LAM, S. 1991a. Effectiveness of data dependence analysis. In Proceedings of the NSF-NCRD Workshop on Advanced Compilatwn Techntques for Novel Architectures.
+Dror E. Maydan , John L. Hennessy , Monica S. Lam, Efficient and exact data dependence analysis, Proceedings of the ACM SIGPLAN 1991 conference on Programming language design and implementation, p.1-14, June 24-28, 1991, Toronto, Ontario, Canada[doi>10.1145/113445.113447]
+MCKINLEY, K. 1990. Dependence analysis of arrays subscripted by index arrays. Tech. Rep. RICE COMP TR 91-162. (Dec.). Dept. of Computer Science, Rice Univ., Houston, Tex.
+Paul M. Petersen , David A. Padua, Static and dynamic evaluation of data dependence analysis, Proceedings of the 7th international conference on Supercomputing, p.107-116, July 19-23, 1993, Tokyo, Japan[doi>10.1145/165939.165961]
+William Pugh, Definitions of dependence distance, ACM Letters on Programming Languages and Systems (LOPLAS), v.1 n.3, p.261-265, Sept. 1992[doi>10.1145/151640.151645]
+William Pugh, A practical algorithm for exact array dependence analysis, Communications of the ACM, v.35 n.8, p.102-114, Aug. 1992[doi>10.1145/135226.135233]
+William Pugh, Uniform techniques for loop optimization, Proceedings of the 5th international conference on Supercomputing, p.341-352, June 17-21, 1991, Cologne, West Germany[doi>10.1145/109025.109108]
+William Pugh , David Wonnacott, Going Beyond Integer Programming with the Omega Test to Eliminate False Data Dependences, IEEE Transactions on Parallel and Distributed Systems, v.6 n.2, p.204-211, February 1995[doi>10.1109/71.342135]
+William Pugh , David Wonnacott, An Exact Method for Analysis of Value-based Array Data Dependences, Proceedings of the 6th International Workshop on Languages and Compilers for Parallel Computing, p.546-566, August 12-14, 1993
+William Pugh , David Wonnacott, Eliminating false data dependences using the Omega test, Proceedings of the ACM SIGPLAN 1992 conference on Programming language design and implementation, p.140-151, June 15-19, 1992, San Francisco, California, United States[doi>10.1145/143095.143129]
+William Pugh , David Wonnacott, Eliminating false data dependences using the Omega test, Proceedings of the ACM SIGPLAN 1992 conference on Programming language design and implementation, p.140-151, June 15-19, 1992, San Francisco, California, United States[doi>10.1145/143095.143129]
+RIBAS, H. 1990. Obtaining dependence vectors for nested-loop computations. In Proceedings of 1990 Internatzonal Conference on Parallel Processing (Aug t, II-212-219.
+Carl M. Rosene , Ken W. Kennedy, Incremental dependence analysis, 1990
+V. V. Voevodin, Mathematical Foundation of Parallel Computing, World Scientific Publishing Co., Inc., River Edge, NJ, 1992
+VOEVODIN, V. 1992b. Theory and practice of parallelism detection in sequential programs. Program. Comput. Softw. (Programm~ro van~ye) 18, 3 (May).
+WOLF, M., AND LAM, M. 1990. Maximizing parallelism via loop transformations. In Proceedings of the 3rd Workshop on Languages and Comptlers for Parallel Computing (irvine, Calif., Aug.).
+WOLFE, M. 1991. The tiny loop restructuring research tool. In Proceedzngs of 1991 International Conference on Parallel Processing, II 46-53.
+Michael Joseph Wolfe, Optimizing Supercompilers for Supercomputers, MIT Press, Cambridge, MA, 1990
+M. Wolfe , C. W. Tseng, The Power Test for Data Dependence, IEEE Transactions on Parallel and Distributed Systems, v.3 n.5, p.591-601, September 1992[doi>10.1109/71.159042]
+Hans Zima , Barbara Chapman, Supercompilers for parallel and vector computers, ACM Press, New York, NY, 1990

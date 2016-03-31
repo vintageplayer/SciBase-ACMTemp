@@ -1,0 +1,43 @@
+Armand Navabi , Suresh Jagannathan, Exceptionally Safe Futures, Proceedings of the 11th International Conference on Coordination Models and Languages, June 09-12, 2009, Lisboa, Portugal
+Mitchell Wand , Galen B. Williamson, A Modular, Extensible Proof Method for Small-Step Flow Analyses, Proceedings of the 11th European Symposium on Programming Languages and Systems, p.213-227, April 08-12, 2002
+Jens Palsberg , Patrick O'Keefe, A type system equivalent to flow analysis, ACM Transactions on Programming Languages and Systems (TOPLAS), v.17 n.4, p.576-599, July 1995
+Jens Palsberg, Equality-based flow analysis versus recursive types, ACM Transactions on Programming Languages and Systems (TOPLAS), v.20 n.6, p.1251-1264, Nov. 1998
+Steven Lyde , William E. Byrd , Matthew Might, Control-flow analysis of dynamic languages via pointer analysis, Proceedings of the 11th Symposium on Dynamic Languages, October 27-27, 2015, Pittsburgh, PA, USA
+Paolo Di Blasio , Kathleen Fisher , Carolyn Talcott, A Control-Flow Analysis for a Calculus of Concurrent Objects, IEEE Transactions on Software Engineering, v.26 n.7, p.617-634, July 2000
+Suresh Jagannathan , Peter Thiemann , Stephen Weeks , Andrew Wright, Single and loving it: must-alias analysis for higher-order languages, Proceedings of the 25th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.329-341, January 19-21, 1998, San Diego, California, United States
+Matthew Might , Olin Shivers, Exploiting reachability and cardinality in higher-order flow analysis, Journal of Functional Programming, v.18 n.5-6, p.821-864, September 2008
+Flemming Nielson , Hanne Riis Nielson, Infinitary control flow analysis: a collecting semantics for closure analysis, Proceedings of the 24th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.332-345, January 15-17, 1997, Paris, France
+Wim Vanhoof, Binding-time analysis by constraint solving a modular and higher-order approach for mercury, Proceedings of the 7th international conference on Logic for programming and automated reasoning, November 06-10, 2000, Reunion Island, France
+Cormac Flanagan , Matthias Felleisen, Componential set-based analysis, ACM SIGPLAN Notices, v.32 n.5, p.235-248, May 1997
+Kirsten L. Solberg Gasser , Flemming Nielson , Hanne Riis Nielson, Systematic realisation of control flow analyses for CML, ACM SIGPLAN Notices, v.32 n.8, p.38-51, Aug. 1997
+Anindya Banerjee, A modular, polyvariant and type-based closure analysis, ACM SIGPLAN Notices, v.32 n.8, p.1-10, Aug. 1997
+Matthew Might , David Van Horn, Family of abstract interpretations for static analysis of concurrent higher-order programs, Proceedings of the 18th international conference on Static analysis, p.180-197, September 14-16, 2011, Venice, Italy
+Henry Cejtin , Suresh Jagannathan , Stephen Weeks, Flow-Directed Closure Conversion for Typed Languages, Proceedings of the 9th European Symposium on Programming Languages and Systems, p.56-71, April 02, 2000
+Cormac Flanagan , Matthias Felleisen, Componential set-based analysis, ACM Transactions on Programming Languages and Systems (TOPLAS), v.21 n.2, p.370-416, March 1999
+Philippe Meunier , Robert Bruce Findler , Paul Steckler , Mitchell Wand, Selectors Make Set-Based Analysis Too Hard, Higher-Order and Symbolic Computation, v.18 n.3-4, p.245-269, December  2005
+Radha Jagadeesan , Gopalan Nadathur , Vijay Saraswat, Testing concurrent systems: an interpretation of intuitionistic logic, Proceedings of the 25th international conference on Foundations of Software Technology and Theoretical Computer Science, December 15-18, 2005, Hyderabad, India
+Flemming Nielson , Hanne Riis Nielson, Interprocedural Control Flow Analysis, Proceedings of the 8th European Symposium on Programming Languages and Systems, p.20-39, March 22-28, 1999
+Christian Fecht , Helmut Seidl, Propagating differences: an efficient new fixpoint algorithm for distributive constraint systems, Nordic Journal of Computing, v.5 n.4, p.304-329, Winter 1998
+Max Schäfer , Torbjörn Ekman , Oege Moor, Formalising and Verifying Reference Attribute Grammars in Coq, Proceedings of the 18th European Symposium on Programming Languages and Systems: Held as Part of the Joint European Conferences on Theory and Practice of Software, ETAPS 2009, March 22-29, 2009, York, UK
+Neal Glew , Jens Palsberg, Type-safe method inlining, Science of Computer Programming, v.52 n.1-3, p.281-306, August 2004
+Armand Navabi , Xiangyu Zhang , Suresh Jagannathan, Dependence analysis for safe futures, Science of Computer Programming, v.77 n.6, p.707-726, June, 2012
+David Herman , Philippe Meunier, Improving the static analysis of embedded languages via partial evaluation, ACM SIGPLAN Notices, v.39 n.9, September 2004
+Tarun Prabhu , Shreyas Ramalingam , Matthew Might , Mary Hall, EigenCFA: accelerating flow analysis with GPUs, ACM SIGPLAN Notices, v.46 n.1, January 2011
+Philippe Meunier , Robert Bruce Findler , Matthias Felleisen, Modular set-based analysis from contracts, ACM SIGPLAN Notices, v.41 n.1, p.218-231, January 2006
+Thomas Jensen, Types in program analysis, The essence of computation: complexity, analysis, transformation, Springer-Verlag New York, Inc., New York, NY, 2002
+Jan Midtgaard , Thomas Jensen, A Calculational Approach to Control-Flow Analysis by Abstract Interpretation, Proceedings of the 15th international symposium on Static Analysis, July 16-18, 2008, Valencia, Spain
+Jan Midtgaard , Thomas P. Jensen, Control-flow analysis of function calls and returns by abstract interpretation, Information and Computation, 211, p.49-76, February, 2012
+Murali Krishna Ramanathan , Ananth Grama , Suresh Jagannathan, Static specification inference using predicate mining, ACM SIGPLAN Notices, v.42 n.6, June 2007
+Anindya Banerjee , Nevin Heintze , Jon G. Riecke, Design and Correctness of Program Transformations Based on Control-Flow Analysis, Proceedings of the 4th International Symposium on Theoretical Aspects of Computer Software, p.420-447, October 29-31, 2001
+Jan Midtgaard , Thomas P. Jensen, Control-flow analysis of function calls and returns by abstract interpretation, ACM SIGPLAN Notices, v.44 n.9, September 2009
+V. Krishna Nandivada , Suresh Jagannathan, Dynamic state restoration using versioning exceptions, Higher-Order and Symbolic Computation, v.19 n.1, p.101-124, March     2006
+Jens Palsberg , Christina Pavlopoulou, From polyvariant flow information to intersection and union types, Proceedings of the 25th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.197-208, January 19-21, 1998, San Diego, California, USA
+David Van Horn , Harry G. Mairson, Relating complexity and precision in control flow analysis, ACM SIGPLAN Notices, v.42 n.9, September 2007
+Andrew Tolmach , Dino P. Oliva, From ML to Ada: Strongly-typed language interoperability via source translation, Journal of Functional Programming, v.8 n.4, p.367-412, July 1998
+H. Seidl , M. H. Sørensen, Constraints to stop higher-order deforestation, Proceedings of the 24th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.400-413, January 15-17, 1997, Paris, France
+Andrew K. Wright , Suresh Jagannathan, Polymorphic splitting: an effective polyvariant flow analysis, ACM Transactions on Programming Languages and Systems (TOPLAS), v.20 n.1, p.166-207, Jan. 1998
+Anindya Banerjee , Thomas Jensen, Modular control-flow analysis with rank 2 intersection types, Mathematical Structures in Computer Science, v.13 n.1, p.87-124, February 2003
+Jens Palsberg, Type-based analysis and applications, Proceedings of the 2001 ACM SIGPLAN-SIGSOFT workshop on Program analysis for software tools and engineering, p.20-27, June 2001, Snowbird, Utah, USA
+David A. Schmidt, Trace-Based Abstract Interpretation of Operational Semantics, Lisp and Symbolic Computation, v.10 n.3, p.237-271, May 1998
+Jan Midtgaard, Control-flow analysis of functional programs, ACM Computing Surveys (CSUR), v.44 n.3, p.1-33, June 2012
+Jens Knoop, Optimal interprocedural program optimization: a new framework and its application, Springer-Verlag, Berlin, Heidelberg, 1998

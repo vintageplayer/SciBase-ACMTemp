@@ -1,0 +1,22 @@
+James Edward Burns, Complexity of communication among asynchronous parallel processes, 1981
+James E. Burns , Paul Jackson , Nancy A. Lynch , Michael J. Fischer , Gary L. Peterson, Data Requirements for Implementation ofN-Process Mutual Exclusion Using a Single Shared Variable, Journal of the ACM (JACM), v.29 n.1, p.183-205, Jan. 1982[doi>10.1145/322290.322302]
+CREMERS, A. B., AND HIBBARD, T. N. An algebraic approach to concurrent programming control and related complexity problems. Tech. Rep., University of Southern California, Nov. 1975. (Presented at Symposium on Algorithms and Complexity, Pittsburgh, Pa., April 1976.)
+Armin B. Cremers , Thomas N. Hibbard, Mutual Exclusion of N Processors Using an O(N)-Valued Message Variable (Extended Abstract), Proceedings of the Fifth Colloquium on Automata, Languages and Programming, p.165-176, July 17-21, 1978
+CREMERS, A. S., AND HIBBARD, T.N. Arbitration and queueing under limited shared storage requirements. Tech. Rep. 83, Dept. of Informatics, University of Dortmund, Mar. 1979.
+N. G. de Bruijn, Additional comments on a problem in concurrent programming control, Communications of the ACM, v.10 n.3, p.137-138, March 1967[doi>10.1145/363162.363167]
+E. W. Dijkstra, Solution of a problem in concurrent programming control, Communications of the ACM, v.8 n.9, p.569, Sept. 1965[doi>10.1145/365559.365617]
+Murray A. Eisenberg , Michael R. McGuire, Further comments on Dijkstra's concurrent programming control problem, Communications of the ACM, v.15 n.11, p.999, Nov. 1972[doi>10.1145/355606.361895]
+FISCHER, M. J., LYNCH, N. A., BURNS, J. r., AND BORODIN, A. Resource allocation with immunity to limited process failure. In Proceedings of 20th Annual IEEE Symposium on Foundations of Computer Science (San Juan, P.R., Oct. 1979), IEEE, New York, pp. 234-254.
+Donald E. Knuth, Additional comments on a problem in concurrent programming control, Communications of the ACM, v.9 n.5, p.321-322, May 1966[doi>10.1145/355592.365595]
+Leslie Lamport, A new solution of Dijkstra's concurrent programming problem, Communications of the ACM, v.17 n.8, p.453-455, Aug. 1974[doi>10.1145/361082.361093]
+LAMPORT, r. The synchronization of independent processes. Acta Inf. 7 (1976), 15-34.
+LAMPORT, L. A bug in the bakery algorithm. Tech. Rep. CA-7704-0611, Massachusetts Computer Associates, Inc., Apr. 1977.
+Leslie Lamport, The mutual exclusion problem: part I—a theory of interprocess communication, Journal of the ACM (JACM), v.33 n.2, p.313-326, April 1986[doi>10.1145/5383.5384]
+Leslie Lamport, The mutual exclusion problem: partII—statement and solutions, Journal of the ACM (JACM), v.33 n.2, p.327-348, April 1986[doi>10.1145/5383.5385]
+LYNCH, N. A., AND FISCHER, M.J. On describing the behavior and implementation of distributed systems. TheoL. Comput. Sci. 13 (1981), 17-43.
+LYNCH, N. A., AND FISCHER, M.J. A technique for decomposing algorithms which use a single shared variable. J. Cornput. Syst. Sck 27, 3 (1983), 350-377.
+MORRIS, J.M. A starvation-free solution to the mutual exclusion problem. Inf. Process. Lett. 8, 2 (Feb. 1979), 76-80.
+PETERSON, G.L. New bounds on mutual exclusion problems. Tech. Rep. TR 68, University of Rochester, Rochester, N.Y., Feb. 1980.
+PETERSON, G.r. Myths about the mutual exclusion problem. Inf. Process. Lett. 12, 3 (June 1981),. 115-116.
+Gary L. Peterson , Michael J. Fischer, Economical solutions for the critical section problem in a distributed system (Extended Abstract), Proceedings of the ninth annual ACM symposium on Theory of computing, p.91-97, May 04-04, 1977, Boulder, Colorado, United States[doi>10.1145/800105.803398]
+RIVEST, R. L., AND PRATT, V. R. The mutual exclusion problem for unreliable processes: Preliminary report. In Proceedings of 17th Annual IEEE Symposium on Foundations of Computer Science (1976), IEEE, New York, 1976, 1-8.

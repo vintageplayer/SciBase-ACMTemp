@@ -1,0 +1,47 @@
+Barendregt, H. 1984. The Lambda Calculus---Its Syntax and Semantics. North-Holland, Amsterdam, The Netherlands.
+Bawden, A. 1999. Quasiquotation in Lisp. In Proceedings of the ACM SIGPLAN Workshop on Partial Evaluation and Semantics-Based Program Manipulation, O. Danvy, Ed. Number NS--99--1 in BRICS Note Series. San Antonio, Texas, 4--12.
+Carlson, W. E., Hudak, P., and Jones, M. P. 1993. An experiment using Haskell to prototype 'geometric region servers' for navy command and control. Tech. Rep. 1031, Yale University, New Haven, Conn., Nov.
+R. L. Constable , S. F. Allen , H. M. Bromley , W. R. Cleaveland , J. F. Cremer , R. W. Harper , D. J. Howe , T. B. Knoblock , N. P. Mendler , P. Panangaden , J. T. Sasaki , S. F. Smith, Implementing mathematics with the Nuprl proof development system, Prentice-Hall, Inc., Upper Saddle River, NJ, 1986
+Olivier Danvy , Karoline Malmkjær , Jens Palsberg, Eta-expansion does The Trick, ACM Transactions on Programming Languages and Systems (TOPLAS), v.18 n.6, p.730-751, Nov. 1996[doi>10.1145/236114.236119]
+Danvy, O. and Rhiger, M. 2001. A simple take on typed abstract syntax in Haskell-like languages. In Proceedings of the 5th International Symposium on Functional and Logic Programming (Tokyo, Japan), H. Kuchen and K. Ueda, Eds. Lecture Notes in Computer Science, vol. 2024. Springer-Verlag, New York, 343--358. An extended version is available as the technical report BRICS RS-00-34.
+Olivier Danvy , Morten Rhiger , Kristoffer H. Rose, Normalization by evaluation with typed abstract syntax, Journal of Functional Programming, v.11 n.6, p.673-680, November 2001[doi>10.1017/S0956796801004166]
+R. Davies, A temporal-logic approach to binding-time analysis, Proceedings of the 11th Annual IEEE Symposium on Logic in Computer Science, p.184, July 27-30, 1996
+de Bruijn, N. G. 1972. Lambda calculus notation with nameless dummies. A tool for automatic formula manipulation with application to the Church-Rosser theorem. Ind. Math. 34, 381--392.
+Joëlle Despeyroux , Frank Pfenning , Carsten Schürmann, Primitive Recursion for Higher-Order Abstract Syntax, Proceedings of the Third International Conference on Typed Lambda Calculi and Applications, p.147-163, April 02-04, 1997
+Dowek, G., Felty, A., Herbelin, H., Huet, G., Murthy, C., Parent, C., Paulin-Mohring, C., and Werner, B. 1993. The COQ proof assistant user's guide. Tech. Rep. 154, INRIA, Rocquencourt, France.
+Conal Elliott, Modeling interactive 3D and multimedia animation with an embedded language, Proceedings of the Conference on Domain-Specific Languages on Conference on Domain-Specific Languages (DSL), 1997, p.22-22, October 15-17, 1997, Santa Barbara, California
+Elliott, C., Finne, S., and de Moor, O. 2000. Compiling embedded languages. In Proceedings of the International Workshop on Semantics, Applications, and Implementation of Program Generation (Montreal, Que., Canada), W. Taha, Ed. Lecture Notes in Computer Science, vol. 1924. Springer-Verlag, New York, 9--27.
+Fasel, J. H., Hudak, P., Peyton Jones, S., and Wadler, P. 1992. Haskell special issue. SIGPLAN Not. 27 , 5 (May).
+Andrzej Filinski, A Semantic Account of Type-Directed Partial Evaluation, Proceedings of the International Conference PPDP'99 on Principles and Practice of Declarative Programming, p.378-395, September 29-October 01, 1999
+Sigbjorn Finne , Daan Leijen , Erik Meijer , Simon Peyton Jones, Calling hell from heaven and heaven from hell, Proceedings of the fourth ACM SIGPLAN international conference on Functional programming, p.114-125, September 27-29, 1999, Paris, France[doi>10.1145/317636.317790]
+M. J. C. Gordon , T. F. Melham, Introduction to HOL: a theorem proving environment for higher order logic, Cambridge University Press, New York, NY, 1993
+Harper, R., Honsell, F., and Plotkin, G. 1993. A framework for defining logics. 40, 1, 143--184. A preliminary version appeared in the Proceedings of the 1st IEEE Symposium on Logic in Computer Science (June 1987). IEEE Computer Society Press, Los Alamitos, Calif., 194--204.
+Jason J. Hickey, Nuprl-Light: An Implementation Framework for Higher-Order Logics, Proceedings of the 14th International Conference on Automated Deduction, p.395-399, July 13-17, 1997
+Hickey, J. 1998--2002. Metaprl homepage. http://metaprl.org.
+Martin Hofmann, Semantical Analysis of Higher-Order Abstract Syntax, Proceedings of the 14th Annual IEEE Symposium on Logic in Computer Science, p.204, July 02-05, 1999
+P. Hudak, Modular Domain Specific Languages and Tools, Proceedings of the 5th International Conference on Software Reuse, p.134, June 02-05, 1998
+Hudak, P., Makucevich, T., Gadde, S., and Whong, B. 1996. Haskore music notation---An algebra of music. J. Funct. Prog. 6 , 3, 465--483.
+S. P. Jones , E. Meijer , D. Leijen, Scripting COM Components in Haskell, Proceedings of the 5th International Conference on Software Reuse, p.224, June 02-05, 1998
+P. J. Landin, The next 700 programming languages, Communications of the ACM, v.9 n.3, p.157-166, March 1966[doi>10.1145/365230.365257]
+Daan Leijen , Erik Meijer, Domain specific embedded compilers, Proceedings of the 2nd conference on Domain-specific languages, p.109-122, October 03-06, 1999, Austin, Texas, USA[doi>10.1145/331960.331977]
+Albert R. Meyer , Mitchell Wand, Continuation Semantics in Typed Lambda-Calculi (Summary), Proceedings of the Conference on Logic of Programs, p.219-224, June 17-19, 1985
+Robin Milner , Mads Tofte , David Macqueen, The  Definition of Standard ML, MIT Press, Cambridge, MA, 1997
+John C. Mitchell, Type systems for programming languages, Handbook of theoretical computer science (vol. B): formal models and semantics, MIT Press, Cambridge, MA, 1991
+Nordström, B., Petersson, K., and Smith, J. 1990. Programming in Martin-Löf's Type Theory. International Series on Monographs on Computer Science No. 7. Oxford University Press.
+Paulson, L. C. 1994. Isabelle: A Generic Theorem Prover. Lecture Notes in Computer Science, vol. 828. Springer-Verlag, New York.
+Peterson, J., Hudak, P., and Elliott, C. 1999. Lambda in motion: Controlling robots with Haskell. In Proceedings of the 1st International Symposium on Practical Aspects of Declarative Languages (San Antonio, Tex.), G. Gupta, Ed. Lecture Notes in Computer Science, vol. 1551. Springer-Verlag, New York. 91--105.
+Frank Pfenning, Logic programming in the LF logical framework, Logical frameworks, Cambridge University Press, New York, NY, 1991
+F. Pfenning , C. Elliot, Higher-order abstract syntax, Proceedings of the ACM SIGPLAN 1988 conference on Programming Language design and Implementation, p.199-208, June 20-24, 1988, Atlanta, Georgia, USA[doi>10.1145/53990.54010]
+Pfenning, F. and Schürmann, C. 1999. System description: Twelf---A meta-logical framework for deductive systems. In Proceedings of the 16th International Conference on Automated Deduction (CADE-16) (Trento, Italy), H. Ganzinger, Ed. Lecture Notes in Artificial Intelligence, vol. 1632. Springer-Verlag, 202--206.
+Alastair Reid , John Peterson , Greg Hager , Paul Hudak, Prototyping real-time vision systems: an experiment in DSL design, Proceedings of the 21st international conference on Software engineering, p.484-493, May 16-22, 1999, Los Angeles, California, USA[doi>10.1145/302405.302681]
+Rhiger, M. 2001. Higher-order program generation. Ph.D. dissertation. BRICS Ph.D. School, University of Aarhus, Aarhus, Denmark.
+Morten Rhiger, Compiling Embedded Programs to Byte Code, Proceedings of the 4th International Symposium on Practical Aspects of Declarative Languages, p.120-136, January 19-20, 2002
+Dana S. Scott, A type-theoretical alternative to ISWIM, CUCH, OWHY, Theoretical Computer Science, v.121 n.1-2, p.411-440, Dec. 6, 1993[doi>10.1016/0304-3975(93)90095-B]
+Guy L. Steele, Jr., Growing a Language, Higher-Order and Symbolic Computation, v.12 n.3, p.221-236, October 1999[doi>10.1023/A:1010085415024]
+Joseph E. Stoy, Denotational Semantics: The Scott-Strachey Approach to Programming Language Theory, MIT Press, Cambridge, MA, 1977
+Walid Taha , Zine-El-Abidine Benaissa , Tim Sheard, Multi-Stage Programming: Axiomatization and Type Safety, Proceedings of the 25th International Colloquium on Automata, Languages and Programming, p.918-929, July 13-17, 1998
+Mitchell Wand, Embedding type structure in semantics, Proceedings of the 12th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.1-6, January 14-16, 1985, New Orleans, Louisiana, USA[doi>10.1145/318593.318602]
+Glynn Winskel, The formal semantics of programming languages: an introduction, MIT Press, Cambridge, MA, 1993
+Zhe Yang, Encoding types in ML-like languages, Proceedings of the third ACM SIGPLAN international conference on Functional programming, p.289-300, September 26-29, 1998, Baltimore, Maryland, USA[doi>10.1145/289423.289458]
+Zhe Yang , Benjamin Goldberg , Olivier Danvy, Language support for program generation: reasoning, implementation, and applications, New York University, New York, NY, 2001
+Phillip M. Yelland, A compositional account of the Java virtual machine, Proceedings of the 26th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.57-69, January 20-22, 1999, San Antonio, Texas, USA[doi>10.1145/292540.292548]

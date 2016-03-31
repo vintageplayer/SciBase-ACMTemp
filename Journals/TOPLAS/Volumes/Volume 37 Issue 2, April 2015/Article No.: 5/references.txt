@@ -1,0 +1,73 @@
+Alexandru Amaricai, Mircea Vladutiu, and Oana Boncalo. 2009. Design of floating point units for interval arithmetic. In Proceedings of Ph.D. Research in Microelectronics and Electronics (PRIME’09). 12--15.
+Jalil Asserrhine, Jean-Marie Chesneaux, and Jean-Luc Lamotte. 1995. Estimation of round-off errors on several computer architectures. Journal of Universal Computer Science 1, 7, 455--468.
+Bruno Blanchet , Patrick Cousot , Radhia Cousot , Jérôme Feret , Laurent Mauborgne , Antoine Miné , David Monniaux , Xavier Rival, Design and implementation of a special-purpose static program analyzer for safety-critical real-time embedded software, The essence of computation: complexity, analysis, transformation, Springer-Verlag New York, Inc., New York, NY, 2002
+Richard P. Brent. 1973. Algorithms for Minimization without Derivatives. Courier Dover Publications.
+Hervé Brönnimann , Guillaume Melquiond , Sylvain Pion, The design of the Boost interval arithmetic library, Theoretical Computer Science, v.351 n.1, p.111-118, 14 February 2006[doi>10.1016/j.tcs.2005.09.062]
+Ashley W. Brown, Paul H. J. Kelly, and Wayne Luk. 2007. Profiling floating point value ranges for reconfigurable implementation. In Proceedings of the 1st HiPEAC Workshop on Reconfigurable Computing. 6--16.
+Ashley W. Brown, Paul H. J. Kelly, and Wayne Luk. 2008. Profile-directed speculative optimization of reconfigurable floating point data paths. In Proceedings of the Workshop on Reconfigurable Computing at HiPEAC.
+Roselyne Chotin and Habib Mehrez. 2002. A floating-point unit using stochastic arithmetic compliant with the IEEE-754 standard. In Proceedings of the 9th International Conference on Electronics, Circuits, and Systems. Vol. 2. 603--606.
+George A. Constantinides, Perturbation Analysis for Word-length Optimization, Proceedings of the 11th Annual IEEE Symposium on Field-Programmable Custom Computing Machines, p.81, April 09-11, 2003
+George A. Constantinides, Word-length optimization for differentiable nonlinear systems, ACM Transactions on Design Automation of Electronic Systems (TODAES), v.11 n.1, p.26-43, January 2006[doi>10.1145/1124713.1124716]
+George A. Constantinides , Peter Y. K. Cheung , Wayne Luk, The Multiple Wordlength Paradigm, Proceedings of the the 9th Annual IEEE Symposium on Field-Programmable Custom Computing Machines, p.51-60, April 29-May 02, 2001[doi>10.1109/FCCM.2001.46]
+George A. Constantinides , Peter Y.  K. Cheung , Wayne Luk, Optimum Wordlength Allocation, Proceedings of the 10th Annual IEEE Symposium on Field-Programmable Custom Computing Machines, p.219, September 22-24, 2002
+G. A. Constantinides , P. Y.K. Cheung , W. Luk, Wordlength optimization for linear digital signal processing, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.22 n.10, p.1432-1442, November 2006[doi>10.1109/TCAD.2003.818119]
+Keith D. Cooper, Timothy J. Harvey, and Ken Kennedy. 2002. Iterative data-flow analysis, revisited. In Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI’02).
+Patrick Cousot , Radhia Cousot, Abstract interpretation: a unified lattice model for static analysis of programs by construction or approximation of fixpoints, Proceedings of the 4th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.238-252, January 17-19, 1977, Los Angeles, California[doi>10.1145/512950.512973]
+Patrick Cousot , Radhia Cousot, Systematic design of program analysis frameworks, Proceedings of the 6th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.269-282, January 29-31, 1979, San Antonio, Texas[doi>10.1145/567752.567778]
+Marc Daumas , Guillaume Melquiond, Certification of bounds on expressions involving rounded operators, ACM Transactions on Mathematical Software (TOMS), v.37 n.1, p.1-20, January 2010[doi>10.1145/1644001.1644003]
+Luiz H. de Figueiredo and Jorge Stolfi. 2004. Affine arithmetic: Concepts and applications. Numerical Algorithms 37, 1, 147--158.
+David Delmas , Eric Goubault , Sylvie Putot , Jean Souyris , Karim Tekkal , Franck Védrine, Towards an Industrial Use of FLUCTUAT on Safety-Critical Avionics Software, Proceedings of the 14th International Workshop on Formal Methods for Industrial Critical Systems, November 02-03, 2009, Eindhoven, The Netherlands[doi>10.1007/978-3-642-04570-7_6]
+David Delmas , Jean Souyris, Astrée: from research to industry, Proceedings of the 14th international conference on Static Analysis, August 22-24, 2007, Kongens Lyngby, Denmark
+J. E. Dennis, Jr. , Robert B. Schnabel, Numerical Methods for Unconstrained Optimization and Nonlinear Equations (Classics in Applied Mathematics, 16), Soc for Industrial & Applied Math, 1996
+Alain Deutsch. 2003. Static Verification of Dynamic Properties. PolySpace White Paper.
+Jack J. Dongarra, Piotr Luszczek, and Antoine Petitet. 2003. The LINPACK benchmark: Past, present and future. Concurrency and Computation: Practice and Experience 15, 9, 803--820.
+Floating-Point Working Group. 2008. IEEE standard for floating-point arithmetic. IEEE Standard 754-2008 1--58.
+Ian Foster , Stephen Taylor, A compiler approach to scalable concurrent-program design, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.3, p.577-604, May 1994[doi>10.1145/177492.177612]
+Laurent Fousse , Guillaume Hanrot , Vincent Lefèvre , Patrick Pélissier , Paul Zimmermann, MPFR: A multiple-precision binary floating-point library with correct rounding, ACM Transactions on Mathematical Software (TOMS), v.33 n.2, p.13-es, June 2007[doi>10.1145/1236463.1236468]
+John Fox , Georges Monette, R and S-Plus Companion to Applied Regression, Sage Publications, Inc., Thousand Oaks, CA, 2002
+Michael Frechtling and Philip H. W. Leong. 2013. An FPGA-based floating point unit for rounding error analysis. In Transforming Reconfigurable Systems, W. Luk and G. Constantinides (Eds.). Imperial College Press, Imperial College, London. Retrieved March 2, 2015, from http://www.ee.usyd.edu.au/people/philip.leong/UserFiles/File/papers/mca_icpress13.pdf.
+Altaf Abdul Gaffar , Wayne Luk , Peter Y. K. Cheung , Nabeel Shirazi , James Hwang, Automating Customisation of Floating-Point Designs, Proceedings of the Reconfigurable Computing Is Going Mainstream, 12th International Conference on Field-Programmable Logic and Applications, p.523-533, September 02-04, 2002
+Altaf Abdul Gaffar , Oskar Mencer , Wayne Luk , Peter Y.  K. Cheung, Unifying Bit-Width Optimisation for Fixed-Point and Floating-Point Designs, Proceedings of the 12th Annual IEEE Symposium on Field-Programmable Custom Computing Machines, p.79-88, April 20-23, 2004
+Altaf Abdul Gaffar, Oskar Mencer, Wayne Luk, Peter Y. K. Cheung, and Nabeel Shirazi. 2002b. Floating-point bitwidth analysis via automatic differentiation. In Proceedings of the IEEE International Conference on Field-Programmable Technology (FPT). IEEE, Los Alamitos, CA, 158--165.
+David Goldberg. 1990. Computer arithmetic. Computer Architecture: A Quantitative Approach, D. Patterson and J. L. Hennessy (Eds.). Morgan Kaufmann, Los Altos, CA.
+Frederic Goualard. 2006. GAOL: Not Just Another Interval Arithmetic Library.
+Eric Goubault , Sylvie Putot, Static analysis of numerical algorithms, Proceedings of the 13th international conference on Static Analysis, August 29-31, 2006, Seoul, Korea[doi>10.1007/11823230_3]
+John Michael Hammersley and David Christopher Handscomb. 1964. Monte Carlo methods. Vol. 1. Springer.
+Nicholas J. Higham, The accuracy of floating point summation, SIAM Journal on Scientific Computing, v.14 n.4, p.783-799, July 1993[doi>10.1137/0914050]
+Nicholas J. Higham, Accuracy and Stability of Numerical Algorithms, Society for Industrial and Applied Mathematics, Philadelphia, PA, 1996
+W. E. Howden, Applicability of Software Validation Techniques to Scientific Programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.2 n.3, p.307-320, July 1980[doi>10.1145/357103.357107]
+Peter J. Huber. 1964. Robust estimation of a location parameter. Annals of Mathematical Statistics 35, 1, 73--101.
+François Irigoin , Pierre Jouvelot , Rémi Triolet, Semantical interprocedural parallelization: an overview of the PIPS project, Proceedings of the 5th international conference on Supercomputing, p.244-251, June 17-21, 1991, Cologne, West Germany[doi>10.1145/109025.109086]
+Fabienne Jézéquel and Jean-Marie Chesneaux. 2008. CADNA: A library for estimating round-off error propagation. Computer Physics Communications 178, 12, 933--955.
+W. Kahan, Pracniques: further remarks on reducing truncation errors, Communications of the ACM, v.8 n.1, p.40, Jan. 1965[doi>10.1145/363707.363723]
+William Kahan. 1996. The improbability of probabilistic error analyses for numerical computations. In Proceedings of the UCB Statistics Colloquium, Evans Hall edition. 20.
+William Kahan. 2006. How Futile Are Mindless Assessments of Roundoff in Floating Point Computation. Retrieved March 2, 2015, from http://www.cs.berkeley.edu/∼wkahan/Mindless.pdf
+Gary A. Kildall, A unified approach to global program optimization, Proceedings of the 1st annual ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.194-206, October 01-03, 1973, Boston, Massachusetts[doi>10.1145/512927.512945]
+G. F. Corliss , Rudi Klatte, C-XSC: A C++ Class Library for Extended Scientific Computing, Springer-Verlag New York, Inc., Secaucus, NJ, 1993
+Walter Krämer. 2007. Generalized intervals and the dependency problem. Proceedings in Applied Mathematics and Mechanics 6, 1, 683--684.
+William K. Lam, Hardware Design Verification: Simulation and Formal Method-Based Approaches (Prentice Hall Modern Semiconductor Design Series), Prentice Hall PTR, Upper Saddle River, NJ, 2005
+D. -U. Lee , A. A. Gaffar , R. C.C. Cheung , O. Mencer , W. Luk , G. A. Constantinides, Accuracy-Guaranteed Bit-Width Optimization, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.25 n.10, p.1990-2000, October 2006[doi>10.1109/TCAD.2006.873887]
+Dong-U Lee , Altaf Abdul Gaffar , Oskar Mencer , Wayne Luk, MiniBit: bit-width optimization via affine arithmetic, Proceedings of the 42nd annual Design Automation Conference, June 13-17, 2005, Anaheim, California, USA[doi>10.1145/1065579.1065799]
+Peter Linz, Accurate floating-point summation, Communications of the ACM, v.13 n.6, p.361-362, June 1970[doi>10.1145/362384.362498]
+D. C. Liu , J. Nocedal, On the limited memory BFGS method for large scale optimization, Mathematical Programming: Series A and B, v.45 n.3, p.503-528, Dec. 1989[doi>10.1007/BF01589116]
+Michael A. Malcolm, On accurate floating-point summation, Communications of the ACM, v.14 n.11, p.731-736, Nov. 1971[doi>10.1145/362854.362889]
+David Monniaux, The pitfalls of verifying floating-point computations, ACM Transactions on Programming Languages and Systems (TOPLAS), v.30 n.3, p.1-41, May 2008[doi>10.1145/1353445.1353446]
+Jorge J. Moré , David J. Thuente, Line search algorithms with guaranteed sufficient decrease, ACM Transactions on Mathematical Software (TOMS), v.20 n.3, p.286-307, Sept. 1994[doi>10.1145/192115.192132]
+Jean-Michel Muller , Nicolas Brisebarre , Florent de Dinechin , Claude-Pierre Jeannerod , Vincent Lefèvre , Guillaume Melquiond , Nathalie Revol , Damien Stehlé , Serge Torres, Handbook of Floating-Point Arithmetic, Birkhäuser Basel, 2009
+George C. Necula , Scott McPeak , Shree Prakash Rahul , Westley Weimer, CIL: Intermediate Language and Tools for Analysis and Transformation of C Programs, Proceedings of the 11th International Conference on Compiler Construction, p.213-228, April 08-12, 2002
+Thi Viet Nga Nguyen , François Irigoin, Efficient and effective array bound checking, ACM Transactions on Programming Languages and Systems (TOPLAS), v.27 n.3, p.527-570, May 2005[doi>10.1145/1065887.1065893]
+William G. Osborne, Ray C. C. Cheung, José Gabriel F. Coutinho, Wayne Luk, and Oskar Mencer. 2007. Automatic accuracy-guaranteed bit-width optimization for fixed and floating-point systems. In Proceedings of the International Conference on Field-Programmable Logic and Applications (FPL’07). IEEE, Los Alamitos, CA, 617--620.
+Douglass Stott Parker. 1997. Monte Carlo Arithmetic: Exploiting Randomness in Floating-Point Arithmetic. Computer Science Department, University of California.
+Douglass Stott Parker. 2003. Monte Carlo Arithmetic. Retrieved March 2, 2015, from http://www.cs.ucla.edu/∼stott/mca/.
+William H. Press , Saul A. Teukolsky , William T. Vetterling , Brian P. Flannery, Numerical Recipes 3rd Edition: The Art of Scientific Computing, Cambridge University Press, New York, NY, 2007
+Theodore J. Rivlin. 1990. Chebyshev Polynomials: From Approximation Theory to Algebra and Number Theory (2nd ed.). Pure and Applied Mathematics: A Wiley Series of Texts, Monographs, and Tracts. Wiley-Interscience.
+Howard H. Rosenbrock. 1960. An automatic method for finding the greatest or least value of a function. Computer Journal 3, 3, 175--184.
+Adrian Sandu. November 2000. CSE-690 Home Project 2. Available at http://www.cs.vt.edu/∼asandu/Courses/MTU/CSE690/proj-2.ps.
+Michael J. Schulte , Earl E. Swartzlander, Jr., A Family of Variable-Precision Interval Arithmetic Processors, IEEE Transactions on Computers, v.49 n.5, p.387-397, May 2000[doi>10.1109/12.859535]
+Pat H. Sterbenz. 1974. Floating-Point Computation. Vol. 26. Prentice-Hall, Englewood Cliffs, NJ.
+James E. Stine , Michael J. Schulte, A Combined Interval and Floating Point Multiplier, Proceedings of the Great Lakes Symposium on VLSI '98, p.208, February 19-24, 1998
+Bonnie Toy and Will Menninger. 1994. C Implementation of the LINPACK Benchmark. Retrieved March 2, 2015, from http://www.netlib.org/benchmark/linpackc.new.
+Jean Vignes. 1996. A stochastic approach to the analysis of round-off error propagation. A survey of the CESTAC method. In Proceedings of the 2nd Real Numbers and Computers Conference. 233--251.
+G. William Walster and Dmitri Chiriaev. 2000. Interval Arithmetic Programming Reference: Forte TM Workshop 6 Update 1 C&plus;&plus;. Sun Microsystems Inc.
+James H. Wilkinson, Rounding Errors in Algebraic Processes, Dover Publications, Incorporated, 1994
+Jackson H.C. Yeung , Evangeline F.Y. Young , Philip H.W. Leong, A monte-carlo floating-point unit for self-validating arithmetic, Proceedings of the 19th ACM/SIGDA international symposium on Field programmable gate arrays, February 27-March 01, 2011, Monterey, CA, USA[doi>10.1145/1950413.1950453]

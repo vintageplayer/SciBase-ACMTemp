@@ -1,0 +1,49 @@
+G. N. Buckley , Abraham Silberschatz, An Effective Implementation for the Generalized Input-Output Construct of CSP, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.2, p.223-235, April 1983
+Sandeep Lodha , Punit Chandra , Ajay D. Kshemkalyani , Mayank Rawat, Efficient Synchronization of Asynchronous Processes, Proceedings of the 7th International Euro-Par Conference Manchester on Parallel Processing, p.352-357, August 28-31, 2001
+Andreas Witzel, Symmetric and Synchronous Communication in Peer-to-Peer Networks, Proceedings of the 9th international conference on Mathematics of Program Construction, p.404-421, July 15-18, 2008, Marseille, France
+Baruch Awerbuch, Complexity of network synchronization, Journal of the ACM (JACM), v.32 n.4, p.804-823, Oct. 1985
+Mamoru Maekawa, ANalgorithm for mutual exclusion in decentralized systems, ACM Transactions on Computer Systems (TOCS), v.3 n.2, p.145-159, May 1985
+Gene T.J. Wuu , Arthur J. Bernstein, Efficient solutions to the replicated log and dictionary problems, Proceedings of the third annual ACM symposium on Principles of distributed computing, p.233-242, August 27-29, 1984, Vancouver, British Columbia, Canada
+Phil Kearns , Jeffery E. Payne, Time-based performance evaluation of protocols for distributed systems: an alternative to message counting, Proceedings of the 22nd conference on Winter simulation, p.441-445, December 09-12, 1990, New Orleans, Louisiana, United States
+Leslie Lamport, Using Time Instead of Timeout for Fault-Tolerant Distributed Systems., ACM Transactions on Programming Languages and Systems (TOPLAS), v.6 n.2, p.254-280, April 1984
+Paulo Veríssimo, Design of fault tolerant distributed systems: the fail-controlled approach, Proceedings of the 4th workshop on ACM SIGOPS European workshop, p.1-4, September 03-05, 1990, Bologna, Italy
+Fred B. Schneider, Byzantine generals in action: implementing fail-stop processors, ACM Transactions on Computer Systems (TOCS), v.2 n.2, p.145-154, May 1984
+Divyakant Agrawal , Amr El Abbadi, Reducing Storage for Quorum Consensus Algorithms, Proceedings of the 14th International Conference on Very Large Data Bases, p.419-430, August 29-September 01, 1988
+C. S. Hsieh , R. A. Mata, Decentralized mutual exclusion in the presence of link failures, Proceedings of the 17th conference on ACM Annual Computer Science Conference, p.195-203, February 21-23, 1989, Louisville, Kentucky
+Roberto Baldoni , Bruno Ciciani, A class of high performance Maekawa-type algorithms for distributed systems under heavy demand, Distributed Computing, v.8 n.4, p.171-180, June 1995
+Rajive Bagrodia, Synchronization of asynchronous processes in CSP, ACM Transactions on Programming Languages and Systems (TOPLAS), v.11 n.4, p.585-597, Oct. 1989
+Frank M. Pittelli , Hector Garcia-Molina, Reliable scheduling in a TMR database system, ACM Transactions on Computer Systems (TOCS), v.7 n.1, p.25-60, Feb. 1989
+R. Bagrodia, Process Synchronization: Design and Performance Evaluation of Distributed Algorithms, IEEE Transactions on Software Engineering, v.15 n.9, p.1053-1065, September 1989
+Hector Garcia-Molina , AnneMarie Spauster, Ordered and reliable multicast communication, ACM Transactions on Computer Systems (TOCS), v.9 n.3, p.242-271, Aug. 1991
+Michael L. Powell , David L. Presotto, Publishing: a reliable broadcast communication mechanism, ACM SIGOPS Operating Systems Review, v.17 n.5, p.100-109, October 1983
+M. Mat Deris , Z. Aznida , M. Y. Saman , W. A. Suryani , M. Zarina, Performance modelling of asynchronous replica distribution technique on distributed database systems, International Journal of Computer Mathematics, v.84 n.2, p.183-192, February 2007
+Protocols for Non-Deterministic Communication over Synchronous Channels, Proceedings of the 12th. International Parallel Processing Symposium on International Parallel Processing Symposium, p.24, March 30-April 03, 1998
+Gregory R. Andrews , David P. Dobkin , Peter J. Downey, Distributed allocation with pools of servers, Proceedings of the first ACM SIGACT-SIGOPS symposium on Principles of distributed computing, p.73-83, August 18-20, 1982, Ottawa, Canada
+Claude Kaiser , Christophe Pajault , Jean-François Pradat-Peyre, Modelling remote concurrency with Ada: case study of symmetric non-deterministic rendezvous, Proceedings of the 12th international conference on Reliable software technologies, p.192-207, June 25-29, 2007, Geneva, Switzerland
+Divyakant Agrawal , Amr El Abbadi, An efficient and fault-tolerant solution for distributed mutual exclusion, ACM Transactions on Computer Systems (TOCS), v.9 n.1, p.1-20, Feb. 1991
+D. Agrawal , A. El Abbadi , R. C. Steinke, Epidemic algorithms in replicated databases (extended abstract), Proceedings of the sixteenth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.161-172, May 11-15, 1997, Tucson, Arizona, USA
+K. Birman , T. Joseph, Exploiting virtual synchrony in distributed systems, ACM SIGOPS Operating Systems Review, v.21 n.5, p.123-138, Nov. 1987
+M. Ahuja, An Implementation of F-Channels, IEEE Transactions on Parallel and Distributed Systems, v.4 n.6, p.658-667, June 1993
+D. Agrawal , A. El Abbadi, Storage Efficient Replicated Databases, IEEE Transactions on Knowledge and Data Engineering, v.2 n.3, p.342-352, September 1990
+Richard D. Schlichting , Fred B. Schneider, Fail-stop processors: an approach to designing fault-tolerant computing systems, ACM Transactions on Computer Systems (TOCS), v.1 n.3, p.222-238, August 1983
+Y. K. Tsay , R. L. Bagrodia, Fault-Tolerant Algorithms for Fair Interprocess Synchronization, IEEE Transactions on Parallel and Distributed Systems, v.5 n.7, p.737-748, July 1994
+David Gelernter, Generative communication in Linda, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.1, p.80-112, Jan. 1985
+O. T. Satyanarayanan , D. Agrawal, Efficient Execution of Read-Only Transactions in Replicated Multiversion Databases, IEEE Transactions on Knowledge and Data Engineering, v.5 n.5, p.859-871, October 1993
+D. Agrawal , A. Elabbadi, A Token-Based Fault-Tolerant Distributed Mutual Exclusion Algorithm, Journal of Parallel and Distributed Computing, v.24 n.2, p.164-176, Feb. 1, 1995
+Larry L. Peterson , Nick C. Buchholz , Richard D. Schlichting, Preserving and using context information in interprocess communication, ACM Transactions on Computer Systems (TOCS), v.7 n.3, p.217-246, Aug. 1989
+David R. Jefferson, Virtual time, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.3, p.404-425, July 1985
+Fred B. Schneider, Implementing fault-tolerant services using the state machine approach: a tutorial, ACM Computing Surveys (CSUR), v.22 n.4, p.299-319, Dec. 1990
+Jason Gait, A Kernel for High-Performance Multicast Communications, IEEE Transactions on Computers, v.38 n.2, p.218-226, February 1989
+JoAnne Holliday , Robert Steinke , Divyakant Agrawal , Amr El Abbadi, Epidemic Algorithms for Replicated Databases, IEEE Transactions on Knowledge and Data Engineering, v.15 n.5, p.1218-1238, September 2003
+Tobias Freudenreich , Stefan Appel , Sebastian Frischbier , Alejandro P. Buchmann, ACTrESS: automatic context transformation in event-based software systems, Proceedings of the 6th ACM International Conference on Distributed Event-Based Systems, p.179-190, July 16-20, 2012, Berlin, Germany
+R. J. R. Back , F. Kurki-Suonio, Distributed cooperation with action systems, ACM Transactions on Programming Languages and Systems (TOPLAS), v.10 n.4, p.513-554, Oct. 1988
+D. Agrawal , A. J. Bernstein, A Nonblocking Quorum Consensus Protocol for Replicated Data, IEEE Transactions on Parallel and Distributed Systems, v.2 n.2, p.171-179, April 1991
+André Schiper, Practical impact of group communication theory, Future directions in distributed computing: research and position papers, Springer-Verlag, Berlin, Heidelberg, 2003
+John M. Mellor-Crummey , Michael L. Scott, Algorithms for scalable synchronization on shared-memory multiprocessors, ACM Transactions on Computer Systems (TOCS), v.9 n.1, p.21-65, Feb. 1991
+Pieter Hens , Monique Snoeck , Geert Poels , Manu De Backer, Process fragmentation, distribution and execution using an event-based interaction scheme, Journal of Systems and Software, v.89 n.C, p.170-192, March 2014
+Pieter Hens , Monique Snoeck , Geert Poels , Manu De Backer, Process fragmentation, distribution and execution using an event-based interaction scheme, Journal of Systems and Software, 89, p.170-192, March, 2014
+Devendra Kumar , Saad Harous, An approach towards distributed simulation of timed petri nets, Proceedings of the 22nd conference on Winter simulation, p.428-435, December 09-12, 1990, New Orleans, Louisiana, United States
+Gregory R. Andrews, Paradigms for process interaction in distributed programs, ACM Computing Surveys (CSUR), v.23 n.1, p.49-90, March 1991
+Miguel Castro , Barbara Liskov, Practical byzantine fault tolerance and proactive recovery, ACM Transactions on Computer Systems (TOCS), v.20 n.4, p.398-461, November 2002
+Gregory R. Andrews , Fred B. Schneider, Concepts and Notations for Concurrent Programming, ACM Computing Surveys (CSUR), v.15 n.1, p.3-43, March 1983
+Rajiv Gupta , Scott A. Smolka , Shaji Bhaskar, On randomization in sequential and distributed algorithms, ACM Computing Surveys (CSUR), v.26 n.1, p.7-86, March 1994

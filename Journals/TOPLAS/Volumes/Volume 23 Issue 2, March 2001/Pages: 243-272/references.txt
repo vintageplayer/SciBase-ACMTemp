@@ -1,0 +1,45 @@
+Hassan Aït-Kaci , Robert Boyer , Patrick Lincoln , Roger Nasr, Efficient implementation of lattice operations, ACM Transactions on Programming Languages and Systems (TOPLAS), v.11 n.1, p.115-146, Jan. 1989[doi>10.1145/59287.59293]
+David Francis Bacon , Susan L. Graham, Fast and effective optimization of statically typed object-oriented languages, University of California, Berkeley, 1997
+Marcin Benke, Efficient Type Reconstruction in the Presence of Inheritance, Proceedings of the 18th International Symposium on Mathematical Foundations of Computer Science, p.272-280, August 30-September 03, 1993
+Birkhoff, G. 1995. Lattice Theory , third ed. Colloquium Publications, vol. 25. American Mathematical Society, Providence, RI.
+Yves Caseau, Efficient handling of multiple inheritance hierarchies, Proceedings of the eighth annual conference on Object-oriented programming systems, languages, and applications, p.271-287, September 26-October 01, 1993, Washington, D.C., USA[doi>10.1145/165854.165905]
+Coglio, A., Goldberg, A., and Qian, Z. 1998. Towards a provably-correct implementation of the JVM bytecode veriaer. Tech. Rep. KES.U.98.5, Kestrel Institue. August 1998. Also availabe in Proceedings of the OOPSLA '98 Workshop on the Formal Underpinnings of Java, Vancouver, B.C., October 1998.
+R. Cytron , J. Ferrante , B. K. Rosen , M. N. Wegman , F. K. Zadeck, An efficient method of computing static single assignment form, Proceedings of the 16th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.25-35, January 11-13, 1989, Austin, Texas, USA[doi>10.1145/75277.75280]
+Davey, B. A. and Priestley, H. A. 1990. Introduction to Lattices and Order. Cambridge Mathematical Textbooks, Cambridge University Press.
+Robert Fitzgerald , Todd B. Knoblock , Erik Ruf , Bjarne Steensgaard , David Tarditi, Marmot: an optimizing compiler for Java, Software—Practice & Experience, v.30 n.3, p.199-232, Mar.1.2000[doi>10.1002/(SICI)1097-024X(200003)30:3<199::AID-SPE296>3.0.CO;2-2]
+Freund, S. N. 1998. The costs and benefits of Java bytecode subroutines. In Formal Underpinnings of Java Workshop at OOPSLA. http://ww-dse.doc.ic.ac.edu/ c_sue/ oopsla/cfp.html.
+Stephen N. Freund , John C. Mitchell, A type system for object initialization in the Java bytecode language, Proceedings of the 13th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, p.310-327, October 18-22, 1998, Vancouver, British Columbia, Canada[doi>10.1145/286936.286972]
+Freund, S. N. and Mitchell, J. C. 1999. A type system for Java bytecode subroutines and exceptions. Tech. rep., Stanford Univeristy, Computer Science Department. April.
+Gagnon, E. and Hendren, L. 1999. Intra-procedural inference of static types for Java bytecode. Tech. Rep. 1, McGill University.
+Goldberg, A. 1997. A specification of Java loading and bytecode verification. Tech. Rep. KES.U.92.1, Kestrel Institute. December.
+James Gosling , Bill Joy , Guy L. Steele, The  Java Language Specification, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1996
+My Hoang , John C. Mitchell, Lower bounds on type inference with subtypes, Proceedings of the 22nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.176-185, January 23-25, 1995, San Francisco, California, USA[doi>10.1145/199448.199481]
+IBM. 1998. IBM high performance compiler for Java: An optimizing native code compiler for Java applications. http://www.alphaworks.ibm.com/ graphics.nsf/system/graphics/HPCJ/ $file/highpcj.html.
+Instantiations, Inc. 1998. Jove: Super optimizing deployment environment for Java. http://www.instantiations.com/javaspeed/ jovereport.htm.
+Dexter Kozen , Jens Palsberg , Michael I. Schwartzbach, Efficient inference of partial types, Journal of Computer and System Sciences, v.49 n.2, p.306-324, Oct. 1994[doi>10.1016/S0022-0000(05)80051-0]
+Christopher League , Zhong Shao , Valery Trifonov, Representing Java classes in a typed intermediate language, Proceedings of the fourth ACM SIGPLAN international conference on Functional programming, p.183-196, September 27-29, 1999, Paris, France[doi>10.1145/317636.317798]
+Proceedings of the Second International Workshop on Types in Compilation, March 1998
+Patrick Lincoln , John C. Mitchell, Algorithmic aspects of type inference with subtypes, Proceedings of the 19th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.293-304, January 19-22, 1992, Albuquerque, New Mexico, USA[doi>10.1145/143165.143227]
+Tim Lindholm , Frank Yellin, Java Virtual Machine Specification, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1999
+MacNeille, H. M. 1937. Partially ordered sets. Transactions of the American Mathematical Society 42, 90-96.
+Greg Morrisett , David Walker , Karl Crary , Neal Glew, From System F to Typed Assembly Language (Extended Version), Cornell University, Ithaca, NY, 1997
+Morrisett, J. G. 1995. Compiling with types. Ph.D. thesis, Carnegie Mellon University. Published as CMU Technical Report CMU-CS-95-226.
+NaturalBridge, LLC. 1998. Bullettrain Java compiler technology. http://www.naturalbridge.com/.
+George Ciprian Necula , Peter Lee, Compiling with proofs, Carnegie Mellon University, Pittsburgh, PA, 1998
+Robert O'Callahan, A simple, comprehensive type system for Java bytecode subroutines, Proceedings of the 26th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.70-78, January 20-22, 1999, San Antonio, Texas, USA[doi>10.1145/292540.292549]
+Oheimb, D. v. and Nipkow, T. 1999. Machine-checking the Java specification: Proving typesafety. In Formal Syntax and Semantics of Java, J. Alves-Foss, Ed. LNCS, vol. 1523. Springer- Verlag, 119-156.
+Jens Palsberg , Patrick O'Keefe, A type system equivalent to flow analysis, ACM Transactions on Programming Languages and Systems (TOPLAS), v.17 n.4, p.576-599, July 1995[doi>10.1145/210184.210187]
+Vaughan Pratt , Jerzy Tiuryn, Satisfiability of inequalities in a poset, Fundamenta Informaticae, v.28 n.1-2, p.165-182, Nov. 1996
+Pusch, C. 1999. Proving the soundness of a Java bytecode verifer specification in Isabelle/HOL. In Tools and Algorithms for the Construction and Analysis of Systems (TACAS'99), W.R. Cleaveland, Ed. LNCS, vol. 1579. Springer-Verlag, 89-103.
+Qian, Z. 1998. A formal specication of a large subset of Java virtual machine instructions for objects, methods and subroutines. In Formal Syntax and Semantics of Java, J. Alves-Foss, Ed. Number 1523 in LNCS. Springer-Verlag.
+Qian, Z. 1999. Least types for memory locations in (Java) bytecode. Tech. rep., Kestrel Institute. http://www.kestrel.edu/HTML/people/ qian/pub-list.html.
+Jakob Rehof , Torben Ægidius Mogensen, Tractable constraints in finite semilattices, Science of Computer Programming, v.35 n.2-3, p.191-221, Nov.1.1999[doi>10.1016/S0167-6423(99)00011-8]
+Shivers, O. 1991. Data- ow analysis and type recovery in scheme. In Topics in Advanced Language Implementation, P. Lee, Ed. The MIT Press, Chapter 3, 47-87.
+Raymie Stata , Martín Abadi, A type system for Java bytecode subroutines, Proceedings of the 25th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.149-160, January 19-21, 1998, San Diego, California, USA[doi>10.1145/268946.268959]
+SuperCede, Inc. 1998. SuperCede for Java, Version 2.03, Upgrade Edition. http://www.supercede.com/.
+Syme, D. 1997. Proving JavaS type soundness. Tech. Rep. 427, University of Cambridge Computer Laboratory.
+Tarditi, D. 1996. Design and implementation of code optimizations for a type-directed compiler for standard ml. Ph.D. thesis, Carnegie Mellon University.
+Tarjan, R. E. 1972. Depth first search and linear graph algorithms. SIAM Journal on Computing 1, 2, 146-160.
+Tiuryn, J. 1992. Subtype inequalities. In Proc. 7th Annual IEEE Symp. on Logic in Computer Science (LICS), Santa Cruz, California. IEEE Computer Society Press, 308-315.
+Wand, M. 1987. A simple algorithm and proof for type inference. Fundamenta Informaticae X, 115-12.
+Phillip M. Yelland, A compositional account of the Java virtual machine, Proceedings of the 26th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.57-69, January 20-22, 1999, San Antonio, Texas, USA[doi>10.1145/292540.292548]

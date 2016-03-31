@@ -1,0 +1,25 @@
+Alexander Aiken , Alexandru Nicolau, Loop Quantization: an Analysis and Algorithm, Cornell University, Ithaca, NY, 1987
+ALLEN, F. AND COCKE, J. 1972. A catalogue of optimizing transformations. In Design and Opttmzzation of Compilers. Prentice-Hail, Englewood Cliffs, N.J., 1-30.
+Randy Allen , Ken Kennedy, Automatic translation of FORTRAN programs to vector form, ACM Transactions on Programming Languages and Systems (TOPLAS), v.9 n.4, p.491-542, Oct. 1987[doi>10.1145/29873.29875]
+Preston Briggs, Register allocation via graph coloring, Rice University, Houston, TX, 1992
+David Callahan , Steve Carr , Ken Kennedy, Improving register allocation for subscripted variables, ACM SIGPLAN Notices, v.25 n.6, p.53-65, Jun. 1990[doi>10.1145/93548.93553]
+David Callahan , John Cocke , Ken Kennedy, Estimating interlock and improving balance for pipelined architectures, Journal of Parallel and Distributed Computing, v.5 n.4, p.334-358, August 1988[doi>10.1016/0743-7315(88)90002-0]
+CALLAHAN, D., COOPER, K., HOOD, R., KENNEDY, K., AND TORCZON, L. 1987. ParaScope: A parallel programming environment. In Proceedings of the 1st International Conference on Supercomputing. Springer-Verlag, Berlin.
+Steven Mark Carr, Memory-hierarchy management, Rice University, Houston, TX, 1993
+Steve Carr , Ken Kennedy, Scalar replacement in the presence of conditional control flow, Software—Practice & Experience, v.24 n.1, p.51-77, Jan. 1994[doi>10.1002/spe.4380240104]
+S. Carr , K. Kennedy, Compiler blockability of numerical algorithms, Proceedings of the 1992 ACM/IEEE conference on Supercomputing, p.114-124, November 16-20, 1992, Minneapolis, Minnesota, United States
+CHAITIN, G., AUSLANDER, M., CHANDBA, A., COCKE, J., HOPKINS, M., AND MARKSTEIN, P. 1981. Register allocation via coloring. Comput Lang. 6, 45-57.
+Frederick Chow , John Hennessy, Register allocation by priority-based coloring, ACM SIGPLAN Notices, v.19 n.6, p.222-232, June 1984[doi>10.1145/502949.502896]
+James C. Dehnert , Peter Y.-T. Hsu , Joseph P. Bratt, Overlapped loop support in the Cydra 5, Proceedings of the third international conference on Architectural support for programming languages and operating systems, p.26-38, April 03-06, 1989, Boston, Massachusetts, United States[doi>10.1145/70082.68185]
+Evelyn Duesterwald , Rajiv Gupta , Mary Lou Soffa, A practical data flow framework for array reference analysis and its use in optimizations, ACM SIGPLAN Notices, v.28 n.6, p.68-77, June 1993[doi>10.1145/173262.155097]
+D. Gannon , W. Jalby , K. Gallivan, Strategies for cache and local memory management by global program transformation, Proceedings of the 1st International Conference on Supercomputing, p.229-254, March 1988, Athens, Greece
+Ken Kennedy , Kathryn S. McKinley, Optimizing for parallelism and data locality, Proceedings of the 6th international conference on Supercomputing, p.323-334, July 19-24, 1992, Washington, D. C., United States[doi>10.1145/143369.143427]
+David L. Kuck, Structure of Computers and Computations, John Wiley & Sons, Inc., New York, NY, 1978
+KUCK, D., KUHN, R., LEASURE, B., AND WOLFE, M. 1984. The structure of an advanced retargetable vectorizer. In Supercomputers: Destgn and Apphcattons. IEEE Computer Society Press, Los Alamitos, Calif., 163-178
+Monica D. Lam , Edward E. Rothberg , Michael E. Wolf, The cache performance and optimizations of blocked algorithms, Proceedings of the fourth international conference on Architectural support for programming languages and operating systems, p.63-74, April 08-11, 1991, Santa Clara, California, United States[doi>10.1145/106972.106981]
+MEADOWS, L, NAKAMOTO, S., AND SCHUSTER, V 1992. A vectonzing, sot~ware pipelinmg campller for LIW and superscalar architectures In Proceedings of RISC '92.
+B. Ramakrishna Rau, Data Flow and Dependence Analysis for Instruction Level Parallelism, Proceedings of the Fourth International Workshop on Languages and Compilers for Parallel Computing, p.236-250, August 07-09, 1991
+B. R. Rau , M. Lee , P. P. Tirumalai , M. S. Schlansker, Register allocation for software pipelined loops, ACM SIGPLAN Notices, v.27 n.7, p.283-299, July 1992[doi>10.1145/143103.143141]
+Ravi Sethi , J. D. Ullman, The Generation of Optimal Code for Arithmetic Expressions, Journal of the ACM (JACM), v.17 n.4, p.715-728, Oct. 1970[doi>10.1145/321607.321620]
+Michael E. Wolf , Monica S. Lam, A data locality optimizing algorithm, ACM SIGPLAN Notices, v.26 n.6, p.30-44, June 1991[doi>10.1145/113446.113449]
+Michael Wolfe, Loop skewing: the wavefront method revisited, International Journal of Parallel Programming, v.15 n.4, p.279-293, Oct. 1986[doi>10.1007/BF01407876]

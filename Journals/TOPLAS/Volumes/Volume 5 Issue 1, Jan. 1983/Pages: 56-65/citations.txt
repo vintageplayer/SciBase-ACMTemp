@@ -1,0 +1,18 @@
+Gary L. Peterson, Concurrent Reading While Writing, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.1, p.46-55, Jan. 1983
+Klaus Schneider , Viktor K. Sabelfeld, Introducing Mutual Exclusion in Esterel, Proceedings of the Third International Andrei Ershov Memorial Conference on Perspectives of System Informatics, p.445-459, July 06-09, 1999
+E. Styer , G. L. Peterson, Tight bounds for shared memory symmetric mutual exclusion problems, Proceedings of the eighth annual ACM Symposium on Principles of distributed computing, p.177-191, June 1989, Edmonton, Alberta, Canada
+B. K. Szymanski, A simple solution to Lamport's concurrent programming problem with linear wait, Proceedings of the 2nd international conference on Supercomputing, p.621-626, June 1988, St. Malo, France
+Richard Newman-Wolfe, A protocol for wait-free, atomic, multi-reader shared variables, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.232-248, August 10-12, 1987, Vancouver, British Columbia, Canada
+James H. Anderson, A fine-grained solution to the mutual exclusion problem, Acta Informatica, v.30 n.3, p.249-265, March     1993
+Edward A. Lycklama , Vassos Hadzilacos, A first-come-first-served mutual-exclusion algorithm with small communication variables, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.4, p.558-576, Oct. 1991
+David F. Bacon , Ravi Konuru , Chet Murthy , Mauricio Serrano, Thin locks: featherweight synchronization for Java, ACM SIGPLAN Notices, v.33 n.5, p.258-268, May 1998
+Manhoi Choy , Ambuj K. Singh, Adaptive solutions to the mutual exclusion problem, Proceedings of the twelfth annual ACM symposium on Principles of distributed computing, p.183-194, August 15-18, 1993, Ithaca, New York, United States
+Alex A. Aravind, Simple, space-efficient, and fairness improved FCFS mutual exclusion algorithms, Journal of Parallel and Distributed Computing, v.73 n.8, p.1029-1038, August, 2013
+J.E. Burns , N.A. Lynch, Bounds on Shared Memory for Mutual Exclusion, Information and Computation, v.107 n.2, p.171-184, Dec. 1993
+Leslie Lamport, The mutual exclusion problem: partII—statement and solutions, Journal of the ACM (JACM), v.33 n.2, p.327-348, April 1986
+Manhoi Choy , Ambuj K. Singh, Adaptive solutions to the mutual exclusion problem, Distributed Computing, v.8 n.1, p.1-17, August 1994
+J. E. Burns , G. L. Peterson, The ambiguity of choosing, Proceedings of the eighth annual ACM Symposium on Principles of distributed computing, p.145-157, June 1989, Edmonton, Alberta, Canada
+Florian Kluge , Chenglong Yu , Jörg Mische , Sascha Uhrig , Theo Ungerer, Implementing AUTOSAR scheduling and resource management on an embedded SMT processor, Proceedings of th 12th International Workshop on Software and Compilers for Embedded Systems, April 23-24, 2009, Nice, France
+David F. Bacon , Ravi Konuru , Chet Murthy , Mauricio J. Serrano, Thin locks: featherweight Synchronization for Java, ACM SIGPLAN Notices, v.39 n.4, April 2004
+Prasad Jayanti , Tushar Deepak Chandra , Sam Toueg, Fault-tolerant wait-free shared objects, Journal of the ACM (JACM), v.45 n.3, p.451-500, May 1998
+John M. Mellor-Crummey , Michael L. Scott, Algorithms for scalable synchronization on shared-memory multiprocessors, ACM Transactions on Computer Systems (TOCS), v.9 n.1, p.21-65, Feb. 1991

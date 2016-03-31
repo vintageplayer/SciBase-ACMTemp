@@ -1,0 +1,41 @@
+Adams, J. C., Brainerd, W. S., Martin, J. T., Smith, B. T., and Wagener, J. L. 1992. FORTRAN 90 Handbook. McGraw-Hill, New York.
+Almási, G. 2001. MaJIC: A MATLAB Just-In-Time Compiler. Ph.D. thesis, University of Illinois at Urbana-Champaign.
+George Almási , David Padua, MaJIC: compiling MATLAB for speed and responsiveness, Proceedings of the ACM SIGPLAN 2002 Conference on Programming language design and implementation, June 17-19, 2002, Berlin, Germany[doi>10.1145/512529.512564]
+Corinne Ancourt , Thi Viet Nga Nguyen, Array resizing for scientific code debugging, maintenance and reuse, Proceedings of the 2001 ACM SIGPLAN-SIGSOFT workshop on Program analysis for software tools and engineering, p.32-37, June 2001, Snowbird, Utah, USA[doi>10.1145/379605.379656]
+Utpal K. Banerjee, Loop Transformations for Restructuring Compilers: The Foundations, Kluwer Academic Publishers, Norwell, MA, 1993
+Timothy Budd, An APL compiler, Springer-Verlag New York, Inc., New York, NY, 1988
+Chauveau, S. and Bodin, F. 1998. Menhir: An Environment for high performance MATLAB. In Proceedings of the 4th International Workshop on Languages, Compilers, and Runtime Systems. LNCS, vol. 1511. Springer Verlag, 27--40.
+W-M Ching, Program analysis and code generation in an APL/370 compiler, IBM Journal of Research and Development, v.30 n.6, p.594-602, Nov. 1986[doi>10.1147/rd.306.0594]
+Ron Cytron , Jeanne Ferrante , Barry K. Rosen , Mark N. Wegman , F. Kenneth Zadeck, Efficiently computing static single assignment form and the control dependence graph, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.4, p.451-490, Oct. 1991[doi>10.1145/115372.115320]
+Luiz Antonio De Rose , David Padua, Compiler techniques for matlab programs, University of Illinois at Urbana-Champaign, Champaign, IL, 1996
+Luiz De Rose , David Padua, Techniques for the translation of MATLAB programs into Fortran 90, ACM Transactions on Programming Languages and Systems (TOPLAS), v.21 n.2, p.286-323, March 1999[doi>10.1145/316686.316693]
+Dershowitz, N. and Plaisted, D. A. 2001. Rewriting. In Handbook of Automated Reasoning, A. Robinson and A. Voronkov, eds. vol. 1. Elsevier, Amsterdam, The Netherlands.
+Rajiv Gupta, Optimizing array bound checks using flow analysis, ACM Letters on Programming Languages and Systems (LOPLAS), v.2 n.1-4, p.135-150, March–Dec. 1993[doi>10.1145/176454.176507]
+Hindley, J. R. 1969. The principal type-scheme of an object in combinatory logic. Trans. American Math. Society 146, 29--60.
+C. Barry Jay , Paul Steckler, The Functional Imperative: Shape!, Proceedings of the 7th European Symposium on Programming: Programming Languages and Systems, p.139-153, March 28-April 04, 1998
+Pramod G. Joisha , Prithviraj Banerjee, A type inference system for matlab with applications to code optimization, Northwestern University, Evanston, IL, 2003
+Pramod G. Joisha , U. Nagaraj Shenoy , Prithviraj Banerjee, Computing array shapes in MATLAB, Proceedings of the 14th international conference on Languages and compilers for parallel computing, p.395-410, August 01-03, 2001, Cumberland Falls, KY, USA
+Pramod G. Joisha , Prithviraj Banerjee, Correctly detecting intrinsic type errors in typeless languages such as MATLAB, Proceedings of the 2001 conference on APL: an arrays odyssey, p.7-21, June 25-28, 2001, New Haven, Connecticut[doi>10.1145/570407.570408]
+Joisha, P. G. and Banerjee, P. 2002. Implementing an array shape inference system for MATLAB using Mathematica. Tech. Rep. CPDC--TR--2002--10--003, Northwestern University.
+Pramod G. Joisha , Prithviraj Banerjee, Static array storage optimization in MATLAB, Proceedings of the ACM SIGPLAN 2003 conference on Programming language design and implementation, June 09-11, 2003, San Diego, California, USA[doi>10.1145/781131.781160]
+Pramod G. Joisha , Prithviraj Banerjee, The MAGICA type inference engine for MATLAB ®, Proceedings of the 12th international conference on Compiler construction, April 07-11, 2003, Warsaw, Poland
+Joisha, P. G., Shenoy, U. N., and Banerjee, P. 2000. An approach to array shape determination in MATLAB. Tech. Rep. CPDC--TR--2000--10--010, Northwestern University.
+Marc A. Kaplan , Jeffrey D. Ullman, A general scheme for the automatic inference of variable types, Proceedings of the 5th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.60-75, January 23-25, 1978, Tucson, Arizona[doi>10.1145/512760.512768]
+Kevin Knight, Unification: a multidisciplinary survey, ACM Computing Surveys (CSUR), v.21 n.1, p.93-124, March 1989[doi>10.1145/62029.62030]
+Malishevsky, A. 1998. Implementing a runtime library for a parallel MATLAB compiler. M.S. thesis, Oregon State University.
+McCosh, C. 2003. Type-Based specialization in a telescoping compiler for MATLAB. Tech. Rep. TR03--412, Rice University.
+Milner, R. 1978. A theory of type polymorphism in programming. J. Comput. Syst. Sci. 17, 3 (Dec.), 348--375.
+John C. Mitchell, Foundations of programming languages, MIT Press, Cambridge, MA, 1996
+Steven S. Muchnick, Advanced compiler design and implementation, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1998
+Results from a Parallel MATLAB Compiler, Proceedings of the 12th. International Parallel Processing Symposium on International Parallel Processing Symposium, p.81, March 30-April 03, 1998
+J. A. Robinson, A Machine-Oriented Logic Based on the Resolution Principle, Journal of the ACM (JACM), v.12 n.1, p.23-41, Jan. 1965[doi>10.1145/321250.321253]
+Aaron Melvin Tenenbaum, Type determination for very high level languages., New York University, New York, NY, 1974
+The MathWorks, Inc. 1997. MATLAB: The Language of Technical Computing. The MathWorks, Inc. Using MATLAB (Version 5).
+The MathWorks, Inc. 2002a. Accelerating MATLAB: The MATLAB JIT-Accelerator. At http://www.mathworks.com/company/newsletters/digest/sept02/accel_matlab.pdf.
+The MathWorks, Inc. 2002b. The MathWorks announces release 13 with major new versions of MATLAB and Simulink. At http://www.mathworks.com/company/pressroom/index.shtml/article/332.
+Jean Paul Tremblay , R. Manohar, Discrete Mathematical Structures with Applications to Computer Science, McGraw-Hill, Inc., New York, NY, 1975
+Christoph Walther, Many-sorted unification, Journal of the ACM (JACM), v.35 n.1, p.1-17, Jan. 1988[doi>10.1145/42267.45071]
+Weisstein, E. W. 2005. Hilbert matrix; From MathWorld---A Wolfram web resource. At http://mathworld.wolfram.com/HilbertMatrix.html.
+Clark Wiedmann, Steps toward an APL compiler, Proceedings of the international conference on APL: part 1, p.321-328, May 30-June 01, 1979, New York, New York, USA[doi>10.1145/800136.804481]
+Stephen Wolfram, The Mathematica book (4th edition), Cambridge University Press, New York, NY, 1999
+Hongwei Xi , Frank Pfenning, Eliminating array bound checking through dependent types, Proceedings of the ACM SIGPLAN 1998 conference on Programming language design and implementation, p.249-257, June 17-19, 1998, Montreal, Quebec, Canada[doi>10.1145/277650.277732]

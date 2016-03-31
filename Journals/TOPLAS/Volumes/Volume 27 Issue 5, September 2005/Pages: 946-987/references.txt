@@ -1,0 +1,41 @@
+Utpal K. Banerjee, Dependence Analysis for Supercomputing, Kluwer Academic Publishers, Norwell, MA, 1988
+Belady, L. A. 1966. A study of replacement algorithms for a virtual-storage computer. IBM Syst. J.
+N. Bermudo , X. Vera , A. Gonzalez , J. Llosa, An efficient solver for Cache Miss Equations, Proceedings of the 2000 IEEE International Symposium on Performance Analysis of Systems and Software, p.139-145, April 24-25, 2000
+Michael Butler , Tse-Yu Yeh , Yale Patt , Mitch Alsup , Hunter Scales , Michael Shebanow, Single instruction stream parallelism is greater than two, Proceedings of the 18th annual international symposium on Computer architecture, p.276-286, May 27-30, 1991, Toronto, Ontario, Canada[doi>10.1145/115952.115980]
+S. Carr , K. Kennedy, Compiler blockability of numerical algorithms, Proceedings of the 1992 ACM/IEEE conference on Supercomputing, p.114-124, November 16-20, 1992, Minneapolis, Minnesota, USA
+Steve Carr , Kathryn S. McKinley , Chau-Wen Tseng, Compiler optimizations for improving data locality, Proceedings of the sixth international conference on Architectural support for programming languages and operating systems, p.252-262, October 05-07, 1994, San Jose, California, USA[doi>10.1145/195473.195557]
+Siddhartha Chatterjee , Vibhor V. Jain , Alvin R. Lebeck , Shyam Mundhra , Mithuna Thottethodi, Nonlinear array layouts for hierarchical memory systems, Proceedings of the 13th international conference on Supercomputing, p.444-453, June 20-25, 1999, Rhodes, Greece[doi>10.1145/305138.305231]
+Philippe Clauss, Counting solutions to linear and nonlinear constraints through Ehrhart polynomials: applications to analyze and transform scientific programs, Proceedings of the 10th international conference on Supercomputing, p.278-285, May 25-28, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/237578.237617]
+Stephanie Coleman , Kathryn S. McKinley, Tile size selection using cache organization and data layout, Proceedings of the ACM SIGPLAN 1995 conference on Programming language design and implementation, p.279-290, June 18-21, 1995, La Jolla, California, USA[doi>10.1145/207110.207162]
+M. E. Dyer , A. M. Frieze, On the complexity of computing the volume of a polyhedron, SIAM Journal on Computing, v.17 n.5, p.967-974, October 1988[doi>10.1137/0217060]
+Y. Ermoliev, Numerical techniques for stochastic optimization, Springer-Verlag New York, Inc., New York, NY, 1988
+Fernández, A. 1999. A quantitative analysis of the SPECfp95. Tech. Rep. UPC-DAC-1999-12, Universitat Politècnica de Catalunya. March.
+Dennis Gannon , William Jalby , Kyle Gallivan, Strategies for cache and local memory management by global program transformation, Journal of Parallel and Distributed Computing, v.5 n.5, p.587-616, October 1988[doi>10.1016/0743-7315(88)90014-7]
+Somnath Ghosh , Margaret Martonosi , Sharad Malik, Cache miss equations: a compiler framework for analyzing and tuning memory behavior, ACM Transactions on Programming Languages and Systems (TOPLAS), v.21 n.4, p.703-746, July 1999[doi>10.1145/325478.325479]
+Gill, P. E., Murray, W., and Wright, M. H. 1981. Practical optimization. Academic Press, Orlando, FL.
+Fred Glover , Manuel Laguna, Tabu Search, Kluwer Academic Publishers, Norwell, MA, 1997
+David E. Goldberg, Genetic Algorithms in Search, Optimization and Machine Learning, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1989
+Hansen, P., Jaumard, B., and Mathon, V. 1995. Constrained nonlinear 0-1 programming. ORSA J. Comput.
+John H. Holland, Adaptation in natural and artificial systems, MIT Press, Cambridge, MA, 1992
+Horst, R., Pardalos, P. M., and Thoai, N. V. 1995. Introduction to Global Optimization. Kluwer Academic Publishers.
+Mahmut Kandemir , Alok Choudhary , Nagaraj Shenoy , Prithviraj Banerjee , J. Ramanujam, A Linear Algebra Framework for Automatic Determination of Optimal Data Layouts, IEEE Transactions on Parallel and Distributed Systems, v.10 n.2, p.115-135, February 1999[doi>10.1109/71.752779]
+Kirkpatrick, S., Gelatt, C. D., and Vecchi, M. P. 1983. Optimization by simulated annealing. Science 220.
+Monica D. Lam , Edward E. Rothberg , Michael E. Wolf, The cache performance and optimizations of blocked algorithms, Proceedings of the fourth international conference on Architectural support for programming languages and operating systems, p.63-74, April 08-11, 1991, Santa Clara, California, USA[doi>10.1145/106972.106981]
+McFarling, S. 1993. Combining branch predictors. Tech. Rep. TN-36, Digital Western Researh Lab.
+Kathryn S. McKinley , Steve Carr , Chau-Wen Tseng, Improving data locality with loop transformations, ACM Transactions on Programming Languages and Systems (TOPLAS), v.18 n.4, p.424-453, July 1996[doi>10.1145/233561.233564]
+Kathryn S. McKinley , Olivier Temam, A quantitative analysis of loop nest locality, Proceedings of the seventh international conference on Architectural support for programming languages and operating systems, p.94-104, October 01-04, 1996, Cambridge, Massachusetts, USA[doi>10.1145/237090.237161]
+Zbigniew Michalewicz, Genetic Algorithms Plus Data Structures Equals Evolution Programs, Springer-Verlag New York, Inc., Secaucus, NJ, 1994
+Todd C. Mowry , Monica S. Lam , Anoop Gupta, Design and evaluation of a compiler algorithm for prefetching, Proceedings of the fifth international conference on Architectural support for programming languages and operating systems, p.62-73, October 12-15, 1992, Boston, Massachusetts, USA[doi>10.1145/143365.143488]
+Erez Petrank , Dror Rawitz, The hardness of cache conscious data placement, Proceedings of the 29th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.101-112, January 16-18, 2002, Portland, Oregon[doi>10.1145/503272.503283]
+Gabriel Rivera , Chau-Wen Tseng, Data transformations for eliminating conflict misses, Proceedings of the ACM SIGPLAN 1998 conference on Programming language design and implementation, p.38-49, June 17-19, 1998, Montreal, Quebec, Canada[doi>10.1145/277650.277661]
+Gabriel Rivera , Chau-Wen Tseng, Eliminating conflict misses for high performance architectures, Proceedings of the 12th international conference on Supercomputing, p.353-360, July 1998, Melbourne, Australia[doi>10.1145/277830.277917]
+Rivera, G. and Tseng, C.-W. 1999a. A comparison of compiler tiling algorithms. In Proceedings of the 8th International Conference on Compiler Construction (CC'99).
+Gabriel Rivera , Chau-Wen Tseng, Locality optimizations for multi-level caches, Proceedings of the 1999 ACM/IEEE conference on Supercomputing, p.2-es, November 14-19, 1999, Portland, Oregon, USA[doi>10.1145/331532.331534]
+Harsh Sharangpani , Ken Arora, Itanium Processor Microarchitecture, IEEE Micro, v.20 n.5, p.24-43, September 2000[doi>10.1109/40.877948]
+O. Temam , E. D. Granston , W. Jalby, To copy or not to copy: a compile-time technique for assessing when data copying should be used to eliminate cache conflicts, Proceedings of the 1993 ACM/IEEE conference on Supercomputing, p.410-419, November 15-19, 1993, Portland, Oregon, USA[doi>10.1145/169627.169762]
+Aimo Torn , Antanas Zilinskas, Global optimization, Springer-Verlag New York, Inc., New York, NY, 1989
+Stephen A. Vavasis, Nonlinear optimization: complexity issues, Oxford University Press, Inc., New York, NY, 1991
+Xavier Vera , Nerina Bermudo , Josep Llosa , Antonio González, A fast and accurate framework to analyze and optimize cache memory behavior, ACM Transactions on Programming Languages and Systems (TOPLAS), v.26 n.2, p.263-300, March 2004[doi>10.1145/973097.973099]
+Vera, X., Llosa, J., González, A., and Bermudo, N. 2000. A fast and accurate approach to analyze cache memory behavior. In Proceedings of European Conference on Parallel Computing (Europar'00).
+Michael E. Wolf , Monica S. Lam, A data locality optimizing algorithm, Proceedings of the ACM SIGPLAN 1991 conference on Programming language design and implementation, p.30-44, June 24-28, 1991, Toronto, Ontario, Canada[doi>10.1145/113445.113449]
+Wolfe, M. 1996. Advanced loop interchanging. In Proceedings of International Conference on Parallel Processing (ICPP'96).

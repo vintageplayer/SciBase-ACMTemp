@@ -1,0 +1,21 @@
+In his recent paper, Georgeff [1] considers the evaluation of lambda expres sions (with reducing reflexive types) on a variant of Landin's SECD machine. It is observed that for so-called simple expressions the SECD machine will construct stack-like environment structures, whereas, in general, they are tree-like. Georgeff then explores the idea of transforming any (typed) lambda expression into simple form and then using the SECD machine for these expressions. However, such transformations might be undesirable if the language is going to be interpreted directly. This leads Georgeff to modify the SECD machine such that it constructs stack-like environments for all expressions.Briefly, the idea in this modification is to let the machine construct over-
+applied closures for function-valued expressions in operand positions and to let it apply the closure in situ in the case of function-valued expressions in operator positions. The construction of overapplied closures implies that tree- like environment structures are avoided. Georgeff claims that by applying expressions in operator positions in situ it is avoided that operand values are “needlessly popped from the stack during creation of the overapplied closure, only to be reinstated on entry to the closure” [ 1, p. 620].However, the example of Figure 1 shows that Georgeff's construction does not overcome this problem: the transitions 14, 15, and 16 move the on constant 3 from the stack to the closure and back to the stack. Intuitively, the reason is that the construction does not recognize correctly whether a sub-expression in operator position is in fact “basic-valued.” An expression (or, more precisely, its closure) occurring in operator position will look for its remaining arguments on the current stack and on the stacks of the dump. The prediction of the number of available arguments is important in order to determine whether the expression is
+ “basic-valued,” and should therefore be treated specially.Georgeff suggests the following function for counting the number of avail-
+able arguments on the stacks:
+
+def totapps (ST)
+let (S, E, C, D) = ST
+letn= (napps C)
+ifn= 0 thennelse (+ n (totapps D))
+end
+
+where the function (napps C) returns the number of consecutive apply operators at the beginning of the control C. For the configuration of line 14 of Figure 1 this gives totapps (. . .) = 2 napps (A&aacgr;A) = 1 and totapps (d1) = 1 — this means that the closure [(&bgr;&ggr;), u, (2), e1] can find 2 arguments on the stacks although its functionality is 1! Hence, the predicate, basic-valued, fails, although it ought to succeed.We suggest replacing the function 
+above with 
+
+def totapps (ST)
+let (S, E, C, D) = ST
+letn= (napps C)
+if length C ≠nthen,/B>nelse (+n(totapps D))
+end
+
+where length C is the length of the list C. The intuition behind this suggestion is that, if the control C of some configuration is not just a list of apply symbols, then the subexpression at hand will be turned into operand position before a basic value can be returned. Returning to the example mentioned above, note that we now get totapps (...) = 1 because napps (A&aacgr;A) = 1 and length (A&aacgr;A) ≠ 1, and the needless movements on the stack are avoided.

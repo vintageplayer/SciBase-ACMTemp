@@ -1,0 +1,1 @@
+Jonathan Asuru proposed recently an enhanced method for optimizing array subscript range checks. The proposed method is however unsafe and may generate optimized programs whose behavior is different from the original program. Two main flaws in Asuru's method are described, together with suggested remedies and improvements.

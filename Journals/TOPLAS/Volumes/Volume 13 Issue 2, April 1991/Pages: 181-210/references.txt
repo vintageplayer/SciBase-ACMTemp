@@ -1,0 +1,44 @@
+Alfred V. Aho , Ravi Sethi , Jeffrey D. Ullman, Compilers: principles, techniques, and tools, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+ALLEN, F. E. A catalogue of optimizing transformations. In Design and Optimizat~on of Compilers. R. Rustin, Ed., Prentice Hall, Englewood Cliffs, N.J, 1972, pp. 1-30.
+ALLEN, F.E. Interprocedural data fiow analysis. Inf. Proc. 74 (1974), 398-402.
+ALLEN, F. E., CARTER, J. L., FABRI, J., FERRANTE, J., HARRISON, W. H., LOEWNER, P. G., AND TREVmLYAN, L. H. The experimental compiling system. IBM J. Res. Dev. 24, 6 (Nov. 1980), 695-715.
+B. Alpern , M. N. Wegman , F. K. Zadeck, Detecting equality of variables in programs, Proceedings of the 15th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.1-11, January 10-13, 1988, San Diego, California, United States[doi>10.1145/73560.73561]
+A. W. Appel , T. Jim, Continuation-passing, closure-passing style, Proceedings of the 16th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.293-302, January 11-13, 1989, Austin, Texas, United States[doi>10.1145/75277.75303]
+J. Eugene Ball, Predicting the effects of optimization on a procedure body, Proceedings of the 1979 SIGPLAN symposium on Compiler construction, p.214-220, August 06-10, 1979, Denver, Colorado, United States[doi>10.1145/800229.806972]
+John P. Banning, An efficient way to find the side effects of procedure calls and the aliases of variables, Proceedings of the 6th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.29-41, January 29-31, 1979, San Antonio, Texas[doi>10.1145/567752.567756]
+Jeffrey M. Barth, An interprocedural data flow analysis algorithm, Proceedings of the 4th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.119-131, January 17-19, 1977, Los Angeles, California[doi>10.1145/512950.512962]
+BURKE, M. An interval approach toward interprocedural analysis. Tech. Rep. RC 10640 47724, IBM, July 1984.
+Michael Burke , Ron Cytron, Interprocedural dependence analysis and parallelization, ACM SIGPLAN Notices, v.21 n.7, p.162-175, July 1986[doi>10.1145/13310.13328]
+David Callahan , Keith D. Cooper , Ken Kennedy , Linda Torczon, Interprocedural constant propagation, ACM SIGPLAN Notices, v.21 n.7, p.152-161, July 1986[doi>10.1145/13310.13327]
+Frederick Chi-Tak Chow, A portable machine-independent global optimizer--design and measurements, 1984
+John Cocke, Programming languages and their compilers: Preliminary notes, Courant Institute of Mathematical Sciences, New York University, 1969
+Keith Daniel Cooper, Interprocedural data flow analysis in a programming environment, 1983
+CYTRON, R., FERRANTE, J., ROSEN, B. K., WEGMAN, M. N., AND ZADECK, F.K. Efficiently computing statie single assignment form and the control dependence graph. Tech. Rep. RC 14756, IBM, revised Mar. 1991.
+John R. Ellis, Bulldog: a compiler for vliw architectures (parallel computing, reduced-instruction-set, trace scheduling, scientific), 1985
+ERSHOV, A. P. On the essence of compilation. In IFIP Working Conference on Formal Description of Programming Concepts. (Aug. 1977).
+Jeanne Ferrante , Karl J. Ottenstein, A program form based on data dependency in predicate regions, Proceedings of the 10th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.217-236, January 24-26, 1983, Austin, Texas[doi>10.1145/567067.567089]
+FURTNEY, M. AND PRATT, T.W. Kernel-control tailoring of sequential programs for parallel execution. In Proceedings of the 1982 International Conference on Parallel Processing. (Aug. 1982), pp. 245-247.
+Susan L. Graham , Mark Wegman, A Fast and Usually Linear Algorithm for Global Flow Analysis, Journal of the ACM (JACM), v.23 n.1, p.172-202, Jan. 1976[doi>10.1145/321921.321939]
+HARRISON, W.H. Compiler analysis of the value ranges for variables. IEEE Trans. Softw. Eng. SE-3, 3 (May 1977), 243-250.
+HOLLEY, L. H. AND ROSEN, B.K. Qualified data fiow problems. IEEE Trans. Softw. Eng. SE-7, I (Jan. 1981), 60-78.
+Harold Johnson, Data flow analysis for `intractable' system software, ACM SIGPLAN Notices, v.21 n.7, p.109-117, July 1986[doi>10.1145/13310.13322]
+KAM, J. B. AND ULLMAN, J. D. Monotone data fiow analysis frameworks. Acta Inf. 7 (1977), 305-317.
+Gary A. Kildall, A unified approach to global program optimization, Proceedings of the 1st annual ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.194-206, October 01-03, 1973, Boston, Massachusetts[doi>10.1145/512927.512945]
+E. Morel , C. Renvoise, Global optimization by suppression of partial redundancies, Communications of the ACM, v.22 n.2, p.96-103, Feb. 1979[doi>10.1145/359060.359069]
+MUCSMCK, S. S. AND JONES, N. D, Eds. Program Flow Analysis. Prentice~Hall, Englewood Cliffs, N.J., 1981.
+Eugene M. Myers, A precise inter-procedural data flow algorithm, Proceedings of the 8th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.219-230, January 26-28, 1981, Williamsburg, Virginia[doi>10.1145/567532.567556]
+O~rENSTE~N, K. J. Data-fiow graphs as an intermediate form. Ph.D. thesis, Dept. of Computer Science, Purdue Univ., Aug. 1978.
+PRATT, T. W. Program analysis and optimization through kernel-control decomposition. Acta Inf. 9 (1978), 195-216.
+John H. Reif , Harry R. Lewis, Symbolic evaluation and the global value graph, Proceedings of the 4th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.104-118, January 17-19, 1977, Los Angeles, California[doi>10.1145/512950.512961]
+John H Reif , Harry R Lewis, Efficient symbolic analysis of programs, Journal of Computer and System Sciences, v.32 n.3, p.280-314, June 1986[doi>10.1016/0022-0000(86)90031-0]
+REIF, J. H. AND T~JAN, R.E. Symbolic program analysis in almost linear time. SIAM J. Comput. 11, I (Feb. 1982), 81-93.
+Stephen Richardson , Mahadevan Ganapathi, Interprocedural analysis vs. procedure integration, Information Processing Letters, v.32 n.3, p.137-142, August 24, 1989[doi>10.1016/0020-0190(89)90014-8]
+Stephen Richardson , Mahadevan Ganapathi, Code Optimization Across Procedures, Computer, v.22 n.2, p.42-50, February 1989[doi>10.1109/2.19831]
+Barry K. Rosen, Data Flow Analysis for Procedural Languages, Journal of the ACM (JACM), v.26 n.2, p.322-344, April 1979[doi>10.1145/322123.322135]
+B. K. Rosen , M. N. Wegman , F. K. Zadeck, Global value numbers and redundant computations, Proceedings of the 15th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.12-27, January 10-13, 1988, San Diego, California, United States[doi>10.1145/73560.73562]
+Robert W. Scheifler, An analysis of inline substitution for a structured programming language, Communications of the ACM, v.20 n.9, p.647-654, Sept. 1977[doi>10.1145/359810.359830]
+SsAPmo, R. M. AND SAI~T, H. The representat~on of algorithms. Tech. Rep. CA-7002-1432, Massachusetts Computer Associates, Feb. 1970.
+Aaron Melvin Tenenbaum, Type determination for very high level languages., 1974
+WEaSREIT, B. Property extraction in well-founded property sers IEEE Trans. Softw. Eng SE-l, 3 (Sept 1975), 270-285.
+Mark N. Wegman, General and efficient methods for global code improvement, 1981
+Mark N. Wegman , Frank Kenneth Zadeck, Constant propagation with conditional branches, Proceedings of the 12th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.291-299, January 14-16, 1985, New Orleans, Louisiana, United States[doi>10.1145/318593.318659]

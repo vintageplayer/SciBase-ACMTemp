@@ -1,0 +1,47 @@
+Roberto Barbuti , Roberto Giacobazzi , Giorgio Levi, A general framework for semantics-based bottom-up abstract interpretation of logic programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.15 n.1, p.133-181, Jan. 1993[doi>10.1145/151646.151650]
+Maurice Bruynooghe, A practical framework for the abstract interpretation of logic programs, Journal of Logic Programming, v.10 n.2, p.91-124, Feb. 1991[doi>10.1016/0743-1066(91)80001-T]
+~BRUYNOOGHE, M., AND JANSSENS, G. 1988. An instance of abstract interpretation: Integrating ~type and mode inferencing. In Proceedings of the 5th International Conference on Logic ~Programming. MIT Press, Cambridge, Mass., 669-683.
+~BRUYNOOGHE, M., JANSSENS, G., CALLEBAUT, A., AND DEMOEN, B. 1987. Abstract interpretation: ~Towards the global optimization of Prolog programs. In Proceedings of the 1987 Symposium on ~Logic Programming. IEEE, New York, 192-204.
+J. Gallagher , Michael Codish , E. Y. Shapiro, Using safe approximations of fixed points for analysis of logic programs, Meta-programming in logic programming, MIT Press, Cambridge, MA, 1989
+Christian Codognet , Philippe Codognet , Marc-Michel Corsini, Abstract interpretation for concurrent logic languages, Proceedings of the 1990 North American conference on Logic programming, p.215-232, January 1990, Austin, Texas, United States
+~CORSINI, A., AND FILth, G. 1989. A complete framework for the abstract interpretation of logic ~programs: Theory and applications. Res. Rep., Univ. of Padova, Italy.
+Patrick Cousot , Radhia Cousot, Abstract interpretation: a unified lattice model for static analysis of programs by construction or approximation of fixpoints, Proceedings of the 4th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.238-252, January 17-19, 1977, Los Angeles, California[doi>10.1145/512950.512973]
+Patrick Cousot , Rahida Cousot, Abstract interpretation and application to logic programs, Journal of Logic Programming, v.13 n.2-3, p.103-179, July 1992[doi>10.1016/0743-1066(92)90030-7]
+Saumya Kanti Debray, Global optimization of logic programs (analysis, transformation, compilation), 1986
+Saumya K. Debray , Prateek Mishra, Denotational and operational semantics for Prolog, Journal of Logic Programming, v.5 n.1, p.61-91, March 1988[doi>10.1016/0743-1066(88)90007-6]
+Mehmet Dincbas , Helmut Simonis , Pascal Van Hentenryck, Solving large combinatorial problems in logic programming, Journal of Logic Programming, v.8 n.1-2, p.75-93, Jan./Mar. 1990[doi>10.1016/0743-1066(90)90052-7]
+T. P. Dobry, A  High Performance Architecture for PROLOG, Kluwer Academic Publishers, Norwell, MA, 1990
+~ENGLEBERT, V., AND ROLAND, D. 1992. Abstract interpretation of PROLOG programs: Opti- ~mizations of an implementation. M~moire de licence et maltrise en Informatique, Dept. of ~Computer Science, Univ. of Namur, Belgium.
+Vincent Englebert , Baudouin Le Charlier , Didier Roland , Pascal van Hentenryck, Generic abstract interpretation algorithms for Prolog: two optimization techniques and their experimental evaluation, Software—Practice & Experience, v.23 n.4, p.419-459, April 1993[doi>10.1002/spe.4380230406]
+G. Gambosi , J. Nešetřil , M. Talamo, Posets, Boolean representations and quick path searching, 14th International Colloquium on Automata, languages and programming, p.404-424, July 1987, Karlsruhe, Germany
+M. V. Hermenegildo , R. Warren , S. K. Debray, Global flow analysis as a practical compilation tool, Journal of Logic Programming, v.13 n.4, p.349-366, Aug. 1992[doi>10.1016/0743-1066(92)90053-6]
+Timothy Hickey , Shyam Mudambi, Global compilation of prolog, Journal of Logic Programming, v.7 n.3, p.193-230, Nov. 1989[doi>10.1016/0743-1066(89)90021-6]
+~JACOBS, D., AND LANGEN, A. 1989. Accurate and efficient approximation of variable aliasing in ~logic programs. In Proceedings of the North American Conference on Logic Programming ~(NACLP-89). MIT Press, Cambridge, Mass.
+~JANSSENS, G. 1990. Deriving run time propergiee of logic program8 by meane of abstract ~interpretation. Ph.D. thesis, Dept. Computerwetenschappen, Katholieke Universiteit Leuven, ~Leuven, Belgium.
+Neil D. Jones , Alan Mycroft, Data flow analysis of applicative programs using minimal function graphs, Proceedings of the 13th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.296-306, January 01, 1986, St. Petersburg Beach, Florida[doi>10.1145/512644.512672]
+~JONES, N. D., AND SONDERGAARD, H. 1987. A Semantics-Based Framework for the Abstract ~Interpretatton of Prolog. Ellis Horwood, Chichester, U.K., 123-142.
+~LE CHARLIER, B., AND VAN HENTENRYCK, P. 1992a. Experimental evaluation of a generic ~abstract interpretation algorithm for Prolog. In 4th IEEE International Conference on Com- ~puter Languages ( ICCL'92 ). IEEE, New York.
+~LE CHARLIER, B., AND VAN HENTENRYCK, P. 1992b. On the design of generic abstract interpre- ~tation frameworks. In Workshop on Statw Analysis ( WSA'92 ).
+~LE CHARLIER, B., AND VAN HENTENRYCK, P. 1992c. Reexecution in abstract interpretation of ~Prolog. In Proceedzngs of the International Jotnt Conference and Symposzum on Logzc Pro- ~grammzng ( JICSLP-92 ).
+Baudouin L Charlier , Pascal Van Hentenryck, A Universal Top-Down Fixpoint Algorithm, Brown University, Providence, RI, 1992
+~LE CHARLIER, B., MUSUMBU, K., AND VAN HENTENRYCK, P. 1990. Efficient and accurate algo- ~rithms for the abstract interpretation of Protog programs. Res. Paper RP-90/9, Univ. of ~Namur, Namur, Belgium.
+LE CHARLIER, B. MUSUMBU, K., AND VAN HENTENRYCK, P. 1991. A generic abstract interpreta- ~tion algorithm and its complexity analysis (extended abstract). In 8th Internatwnal Conference ~on Logic Programming (ICLP-91). MIT Press, Cambridge, Mass., 64-78.
+~MARRIOTT, K., AND SONDERGAARD, H. 1988. Bottom-up abstract interpretation of logic pro- ~grams In Proceedings of the 5th International Conference on Logic Programming. MIT Press, ~Cambridge, Mass., 733-748.
+~MARRIOTT, K., AND SONDERGAARD, H. 1989a. Notes for a tutorial on abstract interpretation of ~logic programs. In North American Conference on Logtc Programming.
+~MARRIOTT, K., AND SONDERGAARD, H. 1989b. Semantics-based dataflow analysis of logic pro- ~grams. In Information Processzng-89. 601-606.
+~MELLISH, C. 1981. The automatic generation of mode declarations for Prolog programs. Tech. ~Rep. DAI 163, Dept. of Artificial Intelligence, Univ. of Edinburgh, Scotland.
+~MELLISH, C. 1987. Abstract Interpretatwn of Prolog Programs. Ellis Horwood, Chichester, ~U.K., 181-198.
+Anne Mulkers , William Winsborough , Maurice Bruynooghe, Analysis of shared data structures for compile-time garbage collection in logic programs, Logic programming, MIT Press, Cambridge, MA, 1990
+~MUSUMBU, K. 1990. Interpretation abstraite de programmes Prolog. Ph.D. thesis, Univ. of ~Namur, Belgium.
+MUTHUKUMAR, K., AND HERMENEGILDO, M. 1989. Determination of variable dependence infor- ~mation through abstract interpretation. In Proceedtngs of the North American Conference on ~Logic Programming (NACLP-89). MIT Press, Cambridge, Mass., 166-188.
+~NILSSON, U. 1989. A systematic approach to abstract interpretation of logic programs, Ph.D. ~thesis, Dept. of Computer and Information Science, Linkoping Univ., Linkoping, Sweden.
+H Sondergaard, An application of abstract interpretation of logic programs: occur check reduction, Proc. of the European symposium on programming on ESOP 86, p.327-338, March 1986, Saarbru:9Aicken, Germany
+Leon Sterling , Ehud Shapiro, The art of Prolog: advanced programming techniques, MIT Press, Cambridge, MA, 1986
+~TAMASSIA, R., AND PREPARATA, F. P. 1990. Dynamic maintenance of planar digraphs, with ~applications. Algorithmica 5, 4, 509-527.
+~TAYLOR, A. 1989. Removal of dereferencing and trailing in Prolog compilation. In 6th In terna- ~ttonal Conference on Logic Programming. MIT Press, Cambridge, Mass., 48-62.
+Andrew Taylor, LIPS on MIPS: results from Prolog compiler for a RISC, Logic programming, MIT Press, Cambridge, MA, 1990
+Pascal Van Hentenryck, Constraint satisfaction in logic programming, MIT Press, Cambridge, MA, 1989
+Peter Van Roy , Alvin M. Despain, The benefits of global dataflow analysis for an optimizing Prolog compiler, Proceedings of the 1990 North American conference on Logic programming, p.501-515, January 1990, Austin, Texas, United States
+~WARREN, R., HERMEDEGILDO, M., AND DEBRAY, S. 1988. On the practicality of global flow ~analysis of logic programs. In Proceedings of the 5th International Conference on Logic~ ~Programmzng. MIT Press, Cambridge, Mass., 684-699.
+Will Winsborough, Multiple specialization using minimal-function graph semantics, Journal of Logic Programming, v.13 n.2-3, p.259-290, July 1992[doi>10.1016/0743-1066(92)90033-Y]
+~WINSBOROUGH, W.H. 1987. A minimal function graph semantics for logic programs. Tech. Rep. ~TR-711, Computer Science Dept., Univ. of Wisconsin at Madison.

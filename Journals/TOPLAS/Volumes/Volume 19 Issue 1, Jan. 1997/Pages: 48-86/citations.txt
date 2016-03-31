@@ -1,0 +1,24 @@
+Andrew W. Keep , Alex Hearn , R. Kent Dybvig, Optimizing closures in O(0) time, Proceedings of the 2012 Annual Workshop on Scheme and Functional Programming, p.30-35, September 09-15, 2012, Copenhagen, Denmark
+Adam Fischbach , John Hannan, Specification and Correctness of Lambda Lifting, Proceedings of the International Workshop on Semantics, Applications, and Implementation of Program Generation, p.108-128, September 20, 2000
+Lukasz Ziarek , Stephen Weeks , Suresh Jagannathan, Flattening tuples in an SSA intermediate representation, Higher-Order and Symbolic Computation, v.21 n.3, p.333-358, September 2008
+Mitchell Wand , Igor Siveroni, Constraint systems for useless variable elimination, Proceedings of the 26th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.291-302, January 20-22, 1999, San Antonio, Texas, USA
+Suresh Jagannathan , Peter Thiemann , Stephen Weeks , Andrew Wright, Single and loving it: must-alias analysis for higher-order languages, Proceedings of the 25th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.329-341, January 19-21, 1998, San Diego, California, United States
+John Hannan, A type-based escape analysis for functional languages, Journal of Functional Programming, v.8 n.3, p.239-273, May 1998
+Torben Amtoft , Robert Muller, Inferring annotated types for inter-procedural register allocation with constructor flattening, ACM SIGPLAN Notices, v.38 n.3, March 2003
+John Hannan , Patrick Hicks, Higher-order arity raising, ACM SIGPLAN Notices, v.34 n.1, p.27-38, Jan. 1999
+J. Michael Ashley, The effectiveness of flow analysis for inlining, ACM SIGPLAN Notices, v.32 n.8, p.99-111, Aug. 1997
+Nick Benton, Simple relational correctness proofs for static analyses and program transformations, ACM SIGPLAN Notices, v.39 n.1, p.14-25, January 2004
+J. Ian Johnson , Nicholas Labich , Matthew Might , David Van Horn, Optimizing abstract abstract machines, ACM SIGPLAN Notices, v.48 n.9, September 2013
+John Reppy, Optimizing Nested Loops Using Local CPS Conversion, Higher-Order and Symbolic Computation, v.15 n.2-3, p.161-180, September 2002
+J. Michael Ashley , R. Kent Dybvig, A practical and flexible flow analysis for higher-order languages, ACM Transactions on Programming Languages and Systems (TOPLAS), v.20 n.4, p.845-868, July 1998
+Vasileios Koutavas , Mitchell Wand, Small bisimulations for reasoning about higher-order imperative programs, ACM SIGPLAN Notices, v.41 n.1, p.141-152, January 2006
+David Lacey , Neil D. Jones , Eric Van Wyk , Carl Christian Frederiksen, Proving correctness of compiler optimizations by temporal logic, ACM SIGPLAN Notices, v.37 n.1, p.283-294, Jan. 2002
+John Hannan , Patrick Hicks, Higher-Order UnCurrying, Higher-Order and Symbolic Computation, v.13 n.3, p.179-216, Sept. 2000
+Olivier Danvy , Ulrik Pagh Schultz, Lambda-Lifting in Quadratic Time, Proceedings of the 6th International Symposium on Functional and Logic Programming, p.134-151, September 15-17, 2002
+Allyn Dimock , Ian Westmacott , Robert Muller , Franklyn Turbak , J. B. Wells, Functioning without closure: type-safe customized function representations for standard ML, ACM SIGPLAN Notices, v.36 n.10, October 2001
+Anindya Banerjee , Nevin Heintze , Jon G. Riecke, Design and Correctness of Program Transformations Based on Control-Flow Analysis, Proceedings of the 4th International Symposium on Theoretical Aspects of Computer Software, p.420-447, October 29-31, 2001
+Allyn Dimock , Ian Westmacott , Robert Muller , Franklyn A. Turbak , J. B. Wells , Jeffrey Considine, Program Representation Size in an Intermediate Language with Intersection and Union Types, Selected papers from the Third International Workshop on Types in Compilation, p.27-52, September 21, 2000
+David Lacey , Neil D. Jones , Eric Van Wyk , Carl Christian Frederiksen, Compiler Optimization Correctness by Temporal Logic, Higher-Order and Symbolic Computation, v.17 n.3, p.173-206, September 2004
+Olivier Danvy , Lasse R. Nielsen, Defunctionalization at work, Proceedings of the 3rd ACM SIGPLAN international conference on Principles and practice of declarative programming, p.162-174, September 05-07, 2001, Florence, Italy
+Anindya Banerjee , Thomas Jensen, Modular control-flow analysis with rank 2 intersection types, Mathematical Structures in Computer Science, v.13 n.1, p.87-124, February 2003
+Jan Midtgaard, Control-flow analysis of functional programs, ACM Computing Surveys (CSUR), v.44 n.3, p.1-33, June 2012

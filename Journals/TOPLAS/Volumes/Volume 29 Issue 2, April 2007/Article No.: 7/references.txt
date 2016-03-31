@@ -1,0 +1,47 @@
+Hiralal Agrawal , Joseph R. Horgan, Dynamic program slicing, ACM SIGPLAN Notices, v.25 n.6, p.246-256, Jun. 1990[doi>10.1145/93548.93576]
+Back, R. J. R. 1980. Correctness preserving program refinements. Mathematical Centre Tracts No. 131, Mathematisch Centrum, Amsterdam.
+R. J. R. Back, A calculus of refinements for program derivations, Acta Informatica, v.25 n.6, p.593-624, Aug. 1988[doi>10.1007/BF00291051]
+Back, R. J. R. and von Wright, J. 1990. Refinement concepts formalised in higher-order logic. Formal Aspects Comput. 2, 247--272.
+Balzer, R. 1969. EXDAMS---EXtendable debugging and monitoring system. In Proceedings of the AFIPS SJCC.
+Csaba Faragó, Union Slices for Program Maintenance, Proceedings of the International Conference on Software Maintenance (ICSM'02), p.12, October 03-06, 2002
+Bilardi, G. and Pingali, K. 1999. The static single assignment form and its computation. Tech. Rep., Cornell University, July. http://www.cs.cornell.edu/Info/Projects/Bernoulli/papers/ssa.ps.
+Mark Harman , David Binkley , Sebastian Danicic, Amorphous program slicing, Journal of Systems and Software, v.68 n.1, p.45-64, 15 October 2003[doi>10.1016/S0164-1212(02)00135-8]
+Binkley, D. and Gallagher, K. 1996. A survey of program slicing. In Advances in Computers, M. Zelkowitz, ed. Academic Press, San Diego, CA.
+Corrado Böhm , Giuseppe Jacopini, Flow diagrams, turing machines and languages with only two formation rules, Communications of the ACM, v.9 n.5, p.366-371, May 1966[doi>10.1145/355592.365646]
+Canfora, G., Cimitile, A., and de Lucia, A. 1998. Conditioned program slicing. Inf. Softw. Technol. 40, 595--607.
+Ron Cytron , Jeanne Ferrante , Barry K. Rosen , Mark N. Wegman , F. Kenneth Zadeck, Efficiently computing static single assignment form and the control dependence graph, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.4, p.451-490, Oct. 1991[doi>10.1145/115372.115320]
+Danicic, S. 1999. Dataflow minimal slicing. Ph.D. thesis, London University.
+Andrea De Lucia , Mark Harman , Robert Hierons , Jens Krinke, Unions of Slices Are Not Slices, Proceedings of the Seventh European Conference on Software Maintenance and Reengineering, p.363, March 26-28, 2003
+Edsger Wybe Dijkstra, A  Discipline of Programming, Prentice Hall PTR, Upper Saddle River, NJ, 1997
+Forgacs, I. and Gyimothy, T. 1997. An efficient interprocedural slicing method for large programs. In Proceedings of the SEKE, 9th International Conference on Software Engineering and Knowledge Engineering (Madrid, Spain).
+Mark Harman , Sebastian Danicic, Amorphous Program Slicing, Proceedings of the 5th International Workshop on Program Comprehension (WPC '97), p.70, May 28-30, 1997
+Sebastian Danicic , Chris Fox , Mark Harman , Rob Hierons, ConSIT: A Conditioned Program Slicer, Proceedings of the International Conference on Software Maintenance (ICSM'00), p.216, October 11-14, 2000
+Mark Harman , Lin Hu , Malcolm Munro , Xingyuan Zhang, GUSTT: An Amorphous Slicing System which Combines Slicing and Transformation, Proceedings of the Eighth Working Conference on Reverse Engineering (WCRE'01), p.271, October 02-05, 2001
+Susan Horwitz , Thomas Reps , David Binkley, Interprocedural slicing using dependence graphs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.1, p.26-60, Jan. 1990[doi>10.1145/77606.77608]
+Karp, C. R. 1964. Languages with Expressions of Infinite Length. North-Holland, Amsterdam.
+B. Korel , J. Laski, Dynamic program slicing, Information Processing Letters, v.29 n.3, p.155-163, October 26, 1988[doi>10.1016/0020-0190(88)90054-3]
+Carroll Morgan, Programming from specifications (2nd ed.), Prentice Hall International (UK) Ltd., Hertfordshire, UK, 1994
+Carroll Morgan , Ken Robinson, Specification statements and refinements, IBM Journal of Research and Development, v.31 n.5, p.546-555, Sept. 1987[doi>10.1147/rd.315.0546]
+Keshav Pingali , Gianfranco Bilardi, Optimal control dependence computation and the Roman chariots problem, ACM Transactions on Programming Languages and Systems (TOPLAS), v.19 n.3, p.462-491, May 1997[doi>10.1145/256167.256217]
+Joseph E. Stoy, Denotational Semantics: The Scott-Strachey Approach to Programming Language Theory, MIT Press, Cambridge, MA, 1977
+R. D. Tennent, The denotational semantics of programming languages, Communications of the ACM, v.19 n.8, p.437-453, Aug. 1976[doi>10.1145/360303.360308]
+Tip, F. 1995. A survey of program slicing techniques. J. Program. Lang. 3, (Sept.), 121--189.
+G. A. Venkatesh, The semantic approach to program slicing, ACM SIGPLAN Notices, v.26 n.6, p.107-119, June 1991[doi>10.1145/113446.113455]
+Martin Ward, Proving program refinements and transformations, 1986
+Ward, M. 1990. Derivation of a sorting algorithm. Tech. Rep., Durham University. http://www.cse.dmu.ac.uk/~m-ward/martin/papers/foundation2-t.ps.gz.
+Ward, M. 1993. Abstracting a specification from code. J. Softw. Maintenance Res. Pract. 5, (Jun.), 101--122. http://www.cse.dmu.ac.uk/~m-ward/martin/papers/prog-spec.ps.gz.
+Ward, M. 1994a. Foundations for a practical theory of program refinement and transformation. Tech. Rep., Durham University. http://www.cse.dmu.ac.uk/~m-ward/martin/papers/foundation2-t.ps.gz.
+Ward, M. 1994b. Reverse engineering through formal transformation Knuth's Polynomial Addition algorithm. Comput. J. 37, 795--813. http://www.cse.dmu.ac.uk/~m-ward/martin/papers/poly-t.ps.gz.
+Martin Ward, A definition of abstraction, Journal of Software Maintenance: Research and Practice, v.7 n.6, p.443-450, Nov.-Dec. 1995[doi>10.1002/smr.4360070606]
+Martin Ward, Derivation of Data Intensive Algorithms by Formal Transformation: The Schnorr-Waite Graph Marking Algorithm, IEEE Transactions on Software Engineering, v.22 n.9, p.665-686, September 1996[doi>10.1109/32.541437]
+Martin Ward, Assembler to C Migration Using the FermaT Transformation System, Proceedings of the IEEE International Conference on Software Maintenance, p.67, August 30-September 03, 1999
+M. P. Ward, Reverse Engineering from Assembler to Formal Specifications via Program Transformations, Proceedings of the Seventh Working Conference on Reverse Engineering (WCRE'00), p.11, November 23-25, 2000
+Ward, M. 2001. The formal transformation approach to source code analysis and manipulation. In the IEEE International Workshop on Source Code Analysis and Manipulation (Florence, Italy, Nov. 10).
+M. P. Ward, Pigs from sausages? Reengineering from assembler to C via FermaT transformations, Science of Computer Programming, v.52 n.1-3, p.213-255, August 2004[doi>10.1016/j.scico.2004.03.007]
+Ward, M. and Bennett, K. H. 1995. Formal methods to aid the evolution of software. Int. J. Softw. Eng. Knowl. Eng. 5, 25--47. http://www.cse.dmu.ac.uk/~m-ward/martin/papers/evolution-t.ps.gz.
+M. P. Ward , H. Zedan , T. Hardcastle, Conditioned Semantic Slicing via Abstraction and Refinement in FermaT, Proceedings of the Ninth European Conference on Software Maintenance and Reengineering, p.178-187, March 21-23, 2005[doi>10.1109/CSMR.2005.19]
+Weiser, M. 1984a. Program slicing. IEEE Trans. Softw. Eng. 10, (Jul.), 352--357.
+Mark Weiser, Programmers use slices when debugging, Communications of the ACM, v.25 n.7, p.446-452, July 1982[doi>10.1145/358557.358577]
+Hongji Yang , Martin Ward, Successful Evolution of Software Systems, Artech House, Inc., Norwood, MA, 2003
+Younger, E. J. and Ward, M. 1993. Inverse engineering is a simple real time program. J. Softw. Maintenance Res. Pract. 6, 197--234. http://www.cse.dmu.ac.uk/~m-ward/martin/papers/eddy-t.ps.gz.
+Xingyuan Zhang , Malcolm Munro , Mark Harman , Lin Hu, Mechanized Operational Semantics of WSL, Proceedings of the Second IEEE International Workshop on Source Code Analysis and Manipulation, p.73, October 01-01, 2002

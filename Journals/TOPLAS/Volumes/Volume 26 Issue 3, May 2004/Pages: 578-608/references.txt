@@ -1,0 +1,53 @@
+Klaus E. Schauser , Chris J. Scheiman , Gyung-Leen Park , Behrooz Shirazi , Jeff Marquis, SuperWeb: Towards a Global Web-Based Parallel Computing Infrastructure, Proceedings of the 11th International Symposium on Parallel Processing, p.100-106, April 01-05, 1997
+Gregory R. Andrews, Concurrent programming: principles and practice, Benjamin-Cummings Publishing Co., Inc., Redwood City, CA, 1991
+Andrews, G. R. and Olsson, R. A. 1986. The evolution of the SR language. Distributed Computing 1, 3, 133--149.
+Gregory R. Andrews , Ronald A. Olsson, The SR programming language: concurrency in practice, Benjamin-Cummings Publishing Co., Inc., Redwood City, CA, 1993
+Gregory R. Andrews , Michael Coffin , Irving Elshoff , Kelvin Nilson , Gregg Townsend , Ronald A. Olsson , Titus Purdin, An overview of the SR language and implementation, ACM Transactions on Programming Languages and Systems (TOPLAS), v.10 n.1, p.51-86, Jan. 1988[doi>10.1145/42192.42324]
+M. Stella Atkins, Experiments in SR with different upcall program structures, ACM Transactions on Computer Systems (TOCS), v.6 n.4, p.365-392, Nov. 1988[doi>10.1145/48012.48041]
+M. Stella Athins , Ronald A. Olsson, Performance of multi-tasking and synchronization mechanisms in the programming language SR, Software—Practice & Experience, v.18 n.9, p.879-895, September 1988[doi>10.1002/spe.4380180906]
+Baratloo, A., Karaul, M., Kedem, Z., and Wyckoff, P. 1996. Charlotte: Metacomputing on the web. In Proceedings of the 9th Conference on Parallel and Distributed Computing Systems.
+Jean Bezivin, Some experiments in object-oriented simulation, Conference proceedings on Object-oriented programming systems, languages and applications, p.394-405, October 04-08, 1987, Orlando, Florida, USA[doi>10.1145/38765.38843]
+Andrew P. Black, Supporting distributed applications: experience with Eden, ACM SIGOPS Operating Systems Review, v.19 n.5, p.181-193, Dec. 1-4, 1985[doi>10.1145/323627.323646]
+Tim Brecht , Harjinder Sandhu , Meijuan Shan , Jimmy Talbot, ParaWeb: towards world-wide supercomputing, Proceedings of the 7th workshop on ACM SIGOPS European workshop: Systems support for worldwide applications, September 09-11, 1996, Connemara, Ireland[doi>10.1145/504450.504484]
+Per Brinch Hansen, Java's insecure parallelism, ACM SIGPLAN Notices, v.34 n.4, p.38-45, April 1999[doi>10.1145/312009.312034]
+Briot, J.-P. 1989. Actalk: A testbed for classifying and designing actor languages in the Smalltalk-80 environment. In Proceedings ECOOP'89, S. Cook, Ed. Cambridge University Press, Nottingham, 109--129.
+Jean-Pierre Briot , Rachid Guerraoui , Klaus-Peter Lohr, Concurrency and distribution in object-oriented programming, ACM Computing Surveys (CSUR), v.30 n.3, p.291-329, Sept. 1998[doi>10.1145/292469.292470]
+Christiansen, B. O., Cappello, P., Ionescu, M. F., Neary, M. O., Schauser, K. E., and Wu, D. 1997. Javelin: Internet-based parallel computing using Java. Concurrency: Practice and Experience 9, 11 (Nov.), 1139--1160.
+Cook, P. R. 1980. *mod--a language for distributed programming. IEEE Trans. Soft. Eng. 6, 6 (November), 563--571.
+Edinburgh Parallel Computing Centre. Java Grande Forum Benchmark Suite. http://www.epcc.ed.ac.uk/research/javagrande/benchmarking.html.
+Benoît Garbinato , Pascal Felber , Rachid Guerraoui, Protocol Classes for Designing Reliable Distributed Environments, Proceedings of the 10th European Conference on Object-Oriented Programming, p.316-343, July 08-12, 1996
+Benoît Garbinato , Rachid Guerraoui, Using the strategy design pattern to compose reliable distributed protocols, Proceedings of the 3rd conference on USENIX Conference on Object-Oriented Technologies (COOTS), p.17-17, June 16-20, 1997, Portland, Oregon
+Benoit Garbinato , Rachid Guerraoui, Flexible Protocol Composition in Bast, Proceedings of the The 18th International Conference on Distributed Computing Systems, p.22, May 26-29, 1998
+N. H. Gehani , William D. Roome, Rendezvous Facilities: Concurrent C and the Ada Language, IEEE Transactions on Software Engineering, v.14 n.11, p.1546-1553, November 1988[doi>10.1109/32.9043]
+Narain Gehani , William D. Roome, The concurrent C programming language, Silicon Press, Summit, NJ, 1989
+N. H. Gehani, Message passing in concurrent C, Software—Practice & Experience, v.20 n.6, p.571-592, June 1990[doi>10.1002/spe.4380200605]
+James Gosling , Bill Joy , Guy L. Steele, The  Java Language Specification, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1996
+Rachid Guerraoui , Benoît Garbinato , Karim Mazouni, Garf: A Tool for Programming Reliable Distributed Applications, IEEE Parallel & Distributed Technology: Systems & Technology, v.5 n.4, p.32-39, October 1997
+Stephen J. Hartley, Concurrent programming: the Java programming language, Oxford University Press, Inc., New York, NY, 1998
+Hilderink, G., Broenink, J., Vervoort, W., and Bakkers, A. 1997. Communicating Java Threads. In WoTUG 20. 48--76.
+C. A. R. Hoare, Communicating sequential processes, Communications of the ACM, v.21 n.8, p.666-677, Aug. 1978[doi>10.1145/359576.359585]
+Matthew Izatt , Patrick Chan , Tim Brecht, Ajents: towards an environment for parallel, distributed and mobile Java applications, Proceedings of the ACM 1999 conference on Java Grande, p.15-24, June 12-14, 1999, San Francisco, California, USA[doi>10.1145/304065.304089]
+Kalé, L. V., Bhandarkar, M., and Wilmarth, T. 1997. Design and implementation of parallel Java with global object space. In Proceedings of the International Conference on Parallel and Distributed Processing Techniques and Applications. 235--244.
+Aaron William Keen , Ronald A. Olsson, Integrating concurrency constructs with object-oriented programming languages: a case study, University of California, Davis, 2002
+Aaron W. Keen , Ronald A. Olsson, Exception Handling during Asynchronous Method Invocation (Research Note), Proceedings of the 8th International Euro-Par Conference on Parallel Processing, p.656-660, August 27-30, 2002
+Keen, A. W. and Olsson, R. A. 2003. An inter-entry invocation selection mechanism for concurrent programming languages. In Euro-Par 2003 Parallel Processing, H. Kosch, L. Böszörmény, and H. Hellwagner, Eds. Number 2790 in Lecture Notes in Computer Science. Springer-Verlag, 770--780.
+Barbara Liskov , Maurice Herlihy , Lucy Gilbert, Limitations of synchronous communication with static process structure in languages for distributed computing, Proceedings of the 13th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.150-159, January 01, 1986, St. Petersburg Beach, Florida[doi>10.1145/512644.512658]
+Jason Maassen , Rob van Nieuwpoort , Ronald Veldema , Henri E. Bal , Aske Plaat, An efficient implementation of Java's remote method invocation, Proceedings of the seventh ACM SIGPLAN symposium on Principles and practice of parallel programming, p.173-182, May 04-06, 1999, Atlanta, Georgia, USA[doi>10.1145/301104.301120]
+Satoshi Matsuoka , Akinori Yonezawa, Analysis of inheritance anomaly in object-oriented concurrent programming languages, Research directions in concurrent object-oriented programming, MIT Press, Cambridge, MA, 1993
+Mendis, C. N. 1997. Java-synchronising resources for concurrent and distributed programming. M.S. thesis, University of Warwick.
+Nagaratnam, N., Srinivasan, A., and Lea, D. 1996. Remote objects in Java. In IASTED International Conference on Networks.
+Christian Nester , Michael Philippsen , Bernhard Haumacher, A more efficient RMI for Java, Proceedings of the ACM 1999 conference on Java Grande, p.152-159, June 12-14, 1999, San Francisco, California, USA[doi>10.1145/304065.304117]
+R. A. Olsson, Using SR for discrete event simulation: a study in concurrent programming:, Software—Practice & Experience, v.20 n.12, p.1187-1208, Dec. 1990[doi>10.1002/spe.4380201202]
+Ronald A. Olsson , Gregory D. Benson , Tingjian Ge , Aaron W. Keen, Fairness in shared invocation servicing, Computer Languages, Systems and Structures, v.28 n.4, p.327-351, December, 2002[doi>10.1016/S1477-8424(03)00002-2]
+Olsson, R. A. and Keen, A. W. 2004. The JR Programming Language: Concurrent Programming in an Extended Java. Kluwer Academic Publishing.
+Philippsen, M. and Zenger, M. 1997. JavaParty---transparent remote objects in Java. Concurrency: Practice and Experience 9, 11 (Nov.), 1225--1242.
+Benjamin C. Pierce, Types and programming languages, MIT Press, Cambridge, MA, 2002
+Raje, R., Williams, J., and Boyles, M. 1997. An asynchronous Remote Method Invocation (ARMI) mechanism for Java. Concurrency: Practice and Experience 9, 11 (Nov.), 1207--1211.
+Michael Lee Scott, Messages vs. remote procedures is a false dichotomy, ACM SIGPLAN Notices, v.18 n.5, p.57-62, May 1983[doi>10.1145/948249.948256]
+Michael L. Scott, Language Support for Loosely Coupled Distributed Programs, IEEE Transactions on Software Engineering, v.13 n.1, p.88-103, January 1987[doi>10.1109/TSE.1987.232838]
+Michael L. Scott, The Lynx distributed programming language: motivation, design and experience, Computer Languages, v.16 n.3-4, p.209-233, 1991[doi>10.1016/0096-0551(91)90008-W]
+Sun Microsystems. 1997. Java Remote Method Invocation Specification. Sun Microsystems, Palo Alto, CA.
+Sun Microsystems. 2001. Java Message Service Specification. Sun Microsystems, Palo Alto, CA.
+The Object Management Group. The Common Object Request Broker. The Object Management Group. http://www.omg.org/.
+A. J. Wellings , B. Johnson , B. Sanden , J. Kienzle , T. Wolf , S. Michell, Integrating object-oriented programming and protected objects in Ada 95, ACM Transactions on Programming Languages and Systems (TOPLAS), v.22 n.3, p.506-539, May 2000[doi>10.1145/353926.353938]
+Yu, W. and Cox, A. 1997. Java/DSM: A platform for heterogeneous computing. Concurrency: Practice and Experience 9, 11 (Nov.), 1213--1224.

@@ -1,0 +1,43 @@
+Altenkirch, T. 1993. Constructions, inductive types and strong normalization. Ph.D. dissertation. University of Edinburgh, UK.
+Appel, A. W. and Felten, E. W. 2001. Models for security policies in proof-carrying code. Tech. Rep. CS-TR-636-01, Princeton Univ., Princeton, N.J.
+Andrew W. Appel , Amy P. Felty, A semantic model of types and machine instructions for proof-carrying code, Proceedings of the 27th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.243-253, January 19-21, 2000, Boston, MA, USA[doi>10.1145/325694.325727]
+H. P. Barendregt, Lambda calculi with types, Handbook of logic in computer science (vol. 2): background: computational structures, Oxford University Press, Inc., New York, NY, 1993
+Henk Barendregt , Herman Geuvers, Proof-assistants using dependent type systems, Handbook of automated reasoning, Elsevier Science Publishers B. V., Amsterdam, The Netherlands, 2001
+Gilles Barthe , John Hatcliff , Morten Heine B. Sørensen, CPS Translations and Applications: The Cube and Beyond, Higher-Order and Symbolic Computation, v.12 n.2, p.125-170, September 1999[doi>10.1023/A:1010000206149]
+Burstall, R. and McKinna, J. 1991. Deliverables: An approach to program development in constructions. Tech. Rep. ECS-LFCS-91-133, Univ. of Edinburgh, UK.
+Iliano Cervesato , Frank Pfenning, A Linear Logical Framework, Proceedings of the 11th Annual IEEE Symposium on Logic in Computer Science, p.264, July 27-30, 1996
+Christopher Colby , Peter Lee , George C. Necula , Fred Blau , Mark Plesko , Kenneth Cline, A certifying compiler for Java, Proceedings of the ACM SIGPLAN 2000 conference on Programming language design and implementation, p.95-107, June 18-21, 2000, Vancouver, British Columbia, Canada[doi>10.1145/349299.349315]
+Constable, R. 1985. Constructive mathematics as a programming logic I: Some principles of theory. Ann. Disc. Math. 24.
+Thierry Coquand , Gerard Huet, The calculus of constructions, Information and Computation, v.76 n.2-3, p.95-120, February/March 1988[doi>10.1016/0890-5401(88)90005-3]
+Crary, K. and Vanderwaart, J. 2001. An expressive, scalable type theory for certified code. Tech. Rep. CMU-CS-01-113, School of Computer Science, Carnegie Mellon Univ., Pittsburgh, Pa.
+Karl Crary , David Walker , Greg Morrisett, Typed memory management in a calculus of capabilities, Proceedings of the 26th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.262-275, January 20-22, 1999, San Antonio, Texas, USA[doi>10.1145/292540.292564]
+Karl Crary , Stephanie Weirich, Flexible type analysis, Proceedings of the fourth ACM SIGPLAN international conference on Functional programming, p.233-248, September 27-29, 1999, Paris, France[doi>10.1145/317636.317906]
+Karl Crary , Stephnie Weirich, Resource bound certification, Proceedings of the 27th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.184-198, January 19-21, 2000, Boston, MA, USA[doi>10.1145/325694.325716]
+Karl Crary , Stephanie Weirich , Greg Morrisett, Intensional polymorphism in type-erasure semantics, Proceedings of the third ACM SIGPLAN international conference on Functional programming, p.301-312, September 26-29, 1998, Baltimore, Maryland, USA[doi>10.1145/289423.289459]
+Geuvers, H. 1993. Logics and type systems. Ph.D. thesis, Catholic University of Nijmegen, The Netherlands.
+Girard, J.-Y. 1972. Interprétation fonctionnelle et élimination des coupures dans l'arithmétique d'ordre supérieur. Ph.D. thesis, University of Paris VII.
+Harper, R. 2000. The practice of type theory. Talk presented at 2000 Alan J. Perlis Symposium, Yale University, New Haven, Conn.
+Robert Harper , Mark Lillibridge, Explicit polymorphism and CPS conversion, Proceedings of the 20th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.206-219, March 1993, Charleston, South Carolina, USA[doi>10.1145/158511.158630]
+Robert Harper , Greg Morrisett, Compiling polymorphism using intensional type analysis, Proceedings of the 22nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.130-141, January 23-25, 1995, San Francisco, California, USA[doi>10.1145/199448.199475]
+Susumu Hayashi, Singleton, Union and Intersection Types for Program Extraction, Proceedings of the International Conference on Theoretical Aspects of Computer Software, p.701-730, September 24-27, 1991
+Howard, W. A. 1980. The formulae-as-types notion of constructions. In To H.B.Curry: Essays on Computational Logic, Lambda Calculus and Formalism. Academic Press, Orlando, Fla.
+Huet, G., Paulin-Mohring, C., et al. 2000. The Coq proof assistant reference manual. Part of the Coq system version 6.3.1.
+Yasuhiko Minamide , Greg Morrisett , Robert Harper, Typed closure conversion, Proceedings of the 23rd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.271-283, January 21-24, 1996, St. Petersburg Beach, Florida, USA[doi>10.1145/237721.237791]
+Stefan Monnier , Bratin Saha , Zhong Shao, Principled scavenging, Proceedings of the ACM SIGPLAN 2001 conference on Programming language design and implementation, p.81-91, June 2001, Snowbird, Utah, USA[doi>10.1145/378795.378817]
+Greg Morrisett , David Walker , Karl Crary , Neal Glew, From system F to typed assembly language, Proceedings of the 25th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.85-97, January 19-21, 1998, San Diego, California, USA[doi>10.1145/268946.268954]
+George C. Necula, Proof-carrying code, Proceedings of the 24th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.106-119, January 15-17, 1997, Paris, France[doi>10.1145/263699.263712]
+George Ciprian Necula , Peter Lee, Compiling with proofs, Carnegie Mellon University, Pittsburgh, PA, 1998
+George C. Necula , Peter Lee, Safe kernel extensions without run-time checking, Proceedings of the second USENIX symposium on Operating systems design and implementation, p.229-243, October 29-November 01, 1996, Seattle, Washington, USA[doi>10.1145/238721.238781]
+George C. Necula , Peter Lee, The design and implementation of a certifying compiler, Proceedings of the ACM SIGPLAN 1998 conference on Programming language design and implementation, p.333-344, June 17-19, 1998, Montreal, Quebec, Canada[doi>10.1145/277650.277752]
+Bengt Nordström , Kent Petersson , Jan M. Smith, Programming in Martin-Lo¨f's type theory: an introduction, Clarendon Press, New York, NY, 1990
+C. Paulin-Mohring, Extracting &ohgr;'s programs from proofs in the calculus of constructions, Proceedings of the 16th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.89-104, January 11-13, 1989, Austin, Texas, USA[doi>10.1145/75277.75285]
+Christine Paulin-Mohring, Inductive Definitions in the system Coq - Rules and Properties, Proceedings of the International Conference on Typed Lambda Calculi and Applications, p.328-345, March 16-18, 1993
+Shao, Z. 1997. An overview of the FLINT/ML compiler. In Proceedings of the 1997 ACM SIGPLAN Workshop on Types in Compilation. ACM, New York.
+Zhong Shao , Christopher League , Stefan Monnier, Implementing typed intermediate languages, Proceedings of the third ACM SIGPLAN international conference on Functional programming, p.313-323, September 26-29, 1998, Baltimore, Maryland, USA[doi>10.1145/289423.289460]
+Shao, Z., Saha, B., Trifonov, V., and Papaspyrou, N. 2001. A type system for certified binaries. Tech. Rep. YALEU/DCS/TR-1211, Dept. of Computer Science, Yale University, New Haven, Conn.
+Mark A. Sheldon , David K. Gifford, Static dependent types for first class modules, Proceedings of the 1990 ACM conference on LISP and functional programming, p.20-29, June 27-29, 1990, Nice, France[doi>10.1145/91556.91577]
+Valery Trifonov , Bratin Saha , Zhong Shao, Fully reflexive intensional type analysis, Proceedings of the fifth ACM SIGPLAN international conference on Functional programming, p.82-93, September 2000[doi>10.1145/351240.351248]
+David Walker, A type system for expressive security policies, Proceedings of the 27th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.254-267, January 19-21, 2000, Boston, MA, USA[doi>10.1145/325694.325728]
+Werner, B. 1994. Une théorie des constructions inductives. Ph.D. dissertation. A L'Université Paris 7, Paris, France.
+Andrew K. Wright , Matthias Felleisen, A syntactic approach to type soundness, Information and Computation, v.115 n.1, p.38-94, Nov. 15, 1994[doi>10.1006/inco.1994.1093]
+Hongwei Xi , Frank Pfenning, Dependent types in practical programming, Proceedings of the 26th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.214-227, January 20-22, 1999, San Antonio, Texas, USA[doi>10.1145/292540.292560]

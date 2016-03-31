@@ -1,0 +1,61 @@
+Samson Abramsky, The lazy lambda calculus, Research topics in functional programming, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1990
+Torben Amtoft, Unfold/fold Transformations Preserving Termination Properties, Proceedings of the 4th International Symposium on Programming Language Implementation and Logic Programming, p.187-201, August 26-28, 1992
+AMTOFT, T. 1993. Sharing of computations. Ph.D. thesis, DAIMI, Aarhus Univ., Aarhus, Denmark.
+Zena M. Ariola , John Maraist , Martin Odersky , Matthias Felleisen , Philip Wadler, A call-by-need lambda calculus, Proceedings of the 22nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.233-246, January 23-25, 1995, San Francisco, California, USA[doi>10.1145/199448.199507]
+John Backus, Can programming be liberated from the von Neumann style?: a functional style and its algebra of programs, Communications of the ACM, v.21 n.8, p.613-641, Aug. 1978[doi>10.1145/359576.359579]
+BIRD, R. 1984. Using circular programs to eliminate multiple traversals of data. Acta Informatica 21, 1, 239-250.
+BLOOM, B. 1988. Can LCF be topped7 Flat lattice models of typed lambda calculus. In The 3rd Annual Symposium on Logic in Computer Science. IEEE, New York.
+Annalisa Bossi , Nicoletta Cocco , Sandro Etalle, On Safe Folding, Proceedings of the 4th International Symposium on Programming Language Implementation and Logic Programming, p.172-186, August 26-28, 1992
+Annalisa Bossi , Nicoletta Cocco , Sandro Etalle, Transforming Normal Programs by Replacement, Proceedings of the 3rd International Workshop on Meta-Programming in Logic, p.265-279, June 10-12, 1992
+BOUDOL, G. AND KOTT, L. 1983. Recursion induction principle revisited. Theor. Comput. Sci. 22, 1, 135-173.
+R. M. Burstall , John Darlington, A Transformation System for Developing Recursive Programs, Journal of the ACM (JACM), v.24 n.1, p.44-67, Jan. 1977[doi>10.1145/321992.321996]
+CONSEL, C. AND KHOO, S. 1993. On-line and off-line partial evaluation: Semantic specification and correctness proofs. Tech. rep., Yale Univ., New Haven, Conn. Apr.
+COURCELLE, B. 1979. Infinite trees in normal form and recursive equations having a unique solution. Math. Syst. Theor. 13, 1, 131-180.
+COURCELLE, B. 1986. Equivalences and transformations of regular systems--applications to recursive program schemes and grammars. Theor. Comput. Sci. 42, 1, 1-122.
+FEATHER, M. 1979. A system for assisting program transformations. Ph.D. thesis, Univ. of Edinburgh, Edinburgh.
+Mattias Felleisen , D. P. Friedman , E. Kohlbecker , B. Duba, A syntactic theory of sequential control, Theoretical Computer Science, v.52 n.3, p.205-237, June 1987[doi>10.1016/0304-3975(87)90109-5]
+GARDNER, P. AND SHEPHERDSON, J. 1991. Unfold/fold transformations of logic programs. In Computational Logic: Essays in Honor of Alan Robinson, J.-L. Lassez and G. Plotkin, Eds. HIT Press, Cambridge, Mass.
+Carsten K. Gomard, A self-applicable partial evaluator for the lambda calculus: correctness and pragmatics, ACM Transactions on Programming Languages and Systems (TOPLAS), v.14 n.2, p.147-172, April 1992[doi>10.1145/128861.128864]
+GORDON, A. D. 1995. Bisimilarity as a theory of functional programming. In Proceedings of the 11th Conference on Mathematical Foundations of Programming Semantics, MFPS'95. Electronic Notes in Computer Science, vol. 1. Elsevier Science, Amsterdam.
+D. Howe, Equality in lazy computation systems, Proceedings of the Fourth Annual Symposium on Logic in computer science, p.198-203, June 1989, Pacific Grove, California, USA
+HUET, G. AND LANG, B. 1978. Proving and applying program transformations expressed with second order patterns. Acta Inf. 11, 1 (Jan.), 31-55.
+R. J. M. Hughes, Super-combinators a new implementation method for applicative languages, Proceedings of the 1982 ACM symposium on LISP and functional programming, p.1-10, August 15-18, 1982, Pittsburgh, Pennsylvania, USA[doi>10.1145/800068.802129]
+Neil D. Jones , Carsten K. Gomard , Peter Sestoft, Partial evaluation and automatic program generation, Prentice-Hall, Inc., Upper Saddle River, NJ, 1993
+KANAMORI, T. AND FUJITA, H. 1986. Unfold/fold transformation of logic programs with counters. Tech. Rep. ICOT TR-179, ICOT Research Center, Tokyo.
+T. Kawamura , T. Kanamori, Preservation of stronger equivalence in unfold/fold logic program transformation, Theoretical Computer Science, v.75 n.1-2, p.139-156, Sep. 1990[doi>10.1016/0304-3975(90)90065-P]
+KOTT, L. 1978. About transformation system: A theoretical study. In Program Transformations, B. Robinet, Ed. Dunod, Paris, 232-247.
+Laurent Kott, A System for Proving Equivalences of Recursive Programs, Proceedings of the 5th Conference on Automated Deduction, p.63-69, July 08-11, 1980
+L Kott, Unfold/fold program transformations, Algebraic methods in semantics, Cambridge University Press, New York, NY, 1986
+MAHER, ~/{. 1987. Correctness of a logic program transformation system. Tech. rep., IBM T. J. Watson Research Center, Yorktown Heights, N.Y. Revised 1989.
+MANNA, Z. AND WALDINGER, R. 1979. Synthesis: Dreams =~ programs. ACM Trans. Program. Lang. Syst. 5, 4.
+MCCARTHY, J. 1967. A Basis for a Mathematical Theory of Computation. North-Holland, Aresterdam.
+MILNER, R. 1977. Fully abstract models of the typed ~-cMculus. Theor. Comput. Sci. 4, 1.
+R. Milner, Communication and concurrency, Prentice-Hall, Inc., Upper Saddle River, NJ, 1989
+Robin Milner , Mads Tofte, Co-induction in relational semantics, Theoretical Computer Science, v.87 n.1, p.209-220, Sept. 16, 1991[doi>10.1016/0304-3975(91)90033-X]
+PALSBERG, J. 1993. Correctness of binding time analysis. J. of Funct. Program. 3, 3, 347-364.
+H. Partsch , R. Steinbrüggen, Program Transformation Systems, ACM Computing Surveys (CSUR), v.15 n.3, p.199-236, Sept. 1983[doi>10.1145/356914.356917]
+PETTOROSSI, t. AND PROIETTI, ~/{. 1993. Transformation of logic programs: Foundations and techniques. Tech. Rep. R 369, CNR Istituto di AnMisi dei Sistemi ed Informatica, Rome.
+Simon L. Peyton Jones, The Implementation of Functional Programming Languages (Prentice-Hall International Series in Computer Science), Prentice-Hall, Inc., Upper Saddle River, NJ, 1987
+PLOTKIN, G. D. 1975. CMl-by-name, CMl-by-vMue and the ~-cMculus. Theor. Comput. Sci. 1, 1, 125-159.
+Maurizio Proietti , Alberto Pettorossi, Semantics preserving transformation rules for Prolog, ACM SIGPLAN Notices, v.26 n.9, p.274-284, Sept. 1991[doi>10.1145/115866.115895]
+PROIETTI, ~/{. AND PETTOROSSI, t. 1994. Total correctness of a goal replacement rule based on the unfold-fold proof method. CNR Istituto di AnMisi dei Sistemi ed Informatica, Rome.
+U. S. Reddy, Rewriting techniques for program synthesis, Proceedings of the 3rd international conference on Rewriting Techniques and Applications, p.388-403, January 1989
+Colin Runciman , Mike Firth , Nigel Jagger, Transformation in a Non-Strict Language: An Approach to Instantiation, Proceedings of the 1989 Glasgow Workshop on Functional Programming, p.133-141, August 21-23, 1989
+SANDS, D. 1990. Calculi for time analysis of functional programs. Ph.D. thesis, Dept. of Computing, Imperial College, Univ. of London, London.
+David Sands, Operational Theories of Improvement in Functional Languages (Extended Abstract), Proceedings of the 1991 Glasgow Workshop on Functional Programming, p.298-311, August 12-14, 1991
+SANDS, D. 1993. A n~'fve time analysis and its theory of cost equivalence. TOPPS Rep. D-173, DIKU. Also in Logic and Comput., 5, 4, 495-541.
+David Sands, Higher-order expression procedures, Proceedings of the 1995 ACM SIGPLAN symposium on Partial evaluation and semantics-based program manipulation, p.178-189, June 21-23, 1995, La Jolla, California, USA[doi>10.1145/215465.215587]
+David Sands, Proving the Correctness of Recursion-Based Automatic Program Transformations, Proceedings of the 6th International Joint Conference CAAP/FASE on Theory and Practice of Software Development, p.681-695, May 22-26, 1995
+Taisuke Sato, An Equivalence Preserving First Order Unfold/fold Transformation System, Proceedings of the Second International Conference on Algebraic and Logic Programming, p.173-188, October 01-03, 1990
+William Louis Scherlis, Expression procedures and program derivation, Stanford University, Stanford, CA, 1980
+William L. Scherlis, Program improvement by internal specialization, Proceedings of the 8th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.41-49, January 26-28, 1981, Williamsburg, Virginia[doi>10.1145/567532.567536]
+Hiroshisa Seki, Unfold/fold transformation of stratified programs, Theoretical Computer Science, v.86 n.1, p.107-139, Aug. 18, 1991[doi>10.1016/0304-3975(91)90007-O]
+SEKI, H. 1993. Unfold/fold transformation of general logic programs for the well-founded semantics. J. Logic Program. 16, 1, 5-23.
+TAMAKI~ H. AND SATO~ T. 1984. Unfold/fold transformation of logic programs. In The 2nd International Logic Programming Conference, S. Tarnlund, Ed. MIT Press, Cambridge, Mass., 127-138.
+Valentin F. Turchin, The concept of a supercompiler, ACM Transactions on Programming Languages and Systems (TOPLAS), v.8 n.3, p.292-325, July 1986[doi>10.1145/5956.5957]
+WADLER, P. 19890o. The concatenate vanishes. Univ. of Glasgow, Glasgow, Scotland. Preliminary version circulated on the fp mailing list, 1987.
+Philip Wadler, Theorems for free!, Proceedings of the fourth international conference on Functional programming languages and computer architecture, p.347-359, September 11-13, 1989, Imperial College, London, United Kingdom[doi>10.1145/99370.99404]
+Philip Wadler, Deforestation: transforming programs to eliminate trees, Theoretical Computer Science, v.73 n.2, p.231-248, June 22, 1990[doi>10.1016/0304-3975(90)90147-A]
+WAND~ M. 1993. Specifying the correctness of binding time analysis. J. Funct. Program. 3, 3, 365-387.
+YONQUIANG~ S., RUZHAN~ L., AND XIAORONG~ H. 1987. Termination preserving problem in the transformation of applicative programs. J. Comput. Sci. Tech. 2, 3, 191-201.
+ZHU, H. 1994. How powerful are folding/unfolding transformations? J. Funct. Program. J, 1 (Jan.), 89-112.

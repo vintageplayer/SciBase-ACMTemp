@@ -1,0 +1,59 @@
+Saleh E. Abdullahi , Graem A. Ringwood, Garbage collecting the Internet: a survey of distributed garbage collection, ACM Computing Surveys (CSUR), v.30 n.3, p.330-373, Sept. 1998[doi>10.1145/292469.292471]
+Barras, B., Boutin, S., Cornes, C., Courant, J., Filliatre, J., Giménez, E., Herbelin, H., Huet, G., Muñoz, C., Murthy, C., Parent, C., Paulin, C., Saïbi, A., and Werner, B. 1997. The Coq proof assistant reference manual---version V6.1. Tech. rep. 0203. INRIA, Rocquencon, France.
+Mordechai Ben-Ari, On-the-Fly Garbage Collection: New Algorithms Inspired by Program Proofs, Proceedings of the 9th Colloquium on Automata, Languages and Programming, p.14-22, July 12-16, 1982
+Mordechai Ben-Ari, Algorithms for on-the-fly garbage collection, ACM Transactions on Programming Languages and Systems (TOPLAS), v.6 n.3, p.333-344, July 1984[doi>10.1145/579.587]
+Bevan, D. I. 1987. Distributed garbage collection using reference counting. See de Bakker, et al. {1987}, 176--187.
+Birrell, A., Evers, D., Nelson, G., Owicki, S., and Wobber, E. 1993. Distributed garbage collection for Network Objects. Tech. rep. 116. Digital Systems Research Center, Palo Alto, CA.
+Birrell, A., Nelson, G., Owicki, S., and Wobber, E. 1994a. Network Objects. Tech. rep. 115. Digital Systems Research Center, Palo Alto, CA.
+Andrew Birrell , Greg Nelson , Susan Owicki , Edward Wobber, Network objects, Proceedings of the fourteenth ACM symposium on Operating systems principles, p.217-230, December 05-08, 1993, Asheville, North Carolina, USA[doi>10.1145/168619.168637]
+Andrew Birrell , Greg Nelson , Susan Owicki , Edward Wobber, Network objects, Software—Practice & Experience, v.25 n.S4, p.87-130, Dec. 1995[doi>10.1002/spe.4380251305]
+George E. Collins, A method for overlapping and erasure of lists, Communications of the ACM, v.3 n.12, p.655-657, Dec. 1960[doi>10.1145/367487.367501]
+Corporaal, H., Veldman, T., and van de Goor, A. J. 1990. Efficient, reference weight-based garbage collection method for distributed systems. In Proceedings of PARBASE-90: International Conference on Databases, Parallel Architectures, and Their Applications (Miami Beach). IEEE Press, Los Alamitos, CA, 463--465.
+Volume I: Parallel architectures on PARLE: Parallel Architectures and Languages Europe, March 1987
+Dickman, P. 1992. Optimising weighted reference counts for scalable fault-tolerant distributed object-support systems. Unpublished note.
+Peter Dickman, Diffusion tree restructuring for indirect reference counting, Proceedings of the 2nd international symposium on Memory management, p.167-177, October 15-16, 2000, Minneapolis, Minnesota, USA[doi>10.1145/362422.362485]
+Edsger W. Dijkstra , Leslie Lamport , A. J. Martin , C. S. Scholten , E. F. M. Steffens, On-the-fly garbage collection: an exercise in cooperation, Communications of the ACM, v.21 n.11, p.966-975, Nov. 1978[doi>10.1145/359642.359655]
+Damien Doligez , Georges Gonthier, Portable, unobtrusive garbage collection for multiprocessor systems, Proceedings of the 21st ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.70-83, January 16-19, 1994, Portland, Oregon, USA[doi>10.1145/174675.174673]
+Ian Foster, A multicomputer garbage collector for a single-assignment language, International Journal of Parallel Programming, v.18 n.3, p.181-203, Jun. 1990[doi>10.1007/BF01407898]
+Francez, N. 1978. An application of a method for analysis of cyclic programs. ACM Trans. Softw. Eng. 4, 5 (Sept.), 371--377.
+Goguen, H., Brooksby, R., and Burstall, R. 1998. An abstract formulation of memory management. Available online from http://www.dcs.ed.ac.uk/~hhg/.
+Georges Gonthier, Verifying the Safety of a Practical Concurrent Garbage Collector, Proceedings of the 8th International Conference on Computer Aided Verification, p.462-465, August 03, 1996
+David Gries, An exercise in proving parallel programs correct, Communications of the ACM, v.20 n.12, p.921-930, Dec. 1977[doi>10.1145/359897.359903]
+Havelund, K. and Shankar, N. 1997. A mechanized refinement proof for a garbage collector. Available online from http://www.cs.auc.dk/~havelund/.
+Martin Hirzel , Amer Diwan , Johannes Henkel, On the usefulness of type and liveness accuracy for garbage collection and leak detection, ACM Transactions on Programming Languages and Systems (TOPLAS), v.24 n.6, p.593-624, November 2002[doi>10.1145/586088.586089]
+Paul B. Jackson, Verifying a Garbage Collection Algorithm, Proceedings of the 11th International Conference on Theorem Proving in Higher Order Logics, p.225-244, September 27-October 01, 1998
+Jones, R. E. 1996. Garbage Collection: Algorithms for Automatic Dynamic Memory Management. Wiley, Chichester, U.K. With a chapter on Distributed Garbage Collection by R. Lins.
+Richard E. Jones , Rafael D. Lins, Cyclic Weighted Reference Counting without Delay, Proceedings of the 5th International PARLE Conference on Parallel Architectures and Languages Europe, p.712-715, June 14-17, 1993
+Eric Jul , Henry Levy , Norman Hutchinson , Andrew Black, Fine-grained mobility in the Emerald system, ACM Transactions on Computer Systems (TOCS), v.6 n.1, p.109-133, Feb. 1988[doi>10.1145/35037.42182]
+Kung, H. T. and Song, S. W. 1977. An efficient parallel garbage collection system and its correctness proof. In Proceedings of the IEEE Symposium on Foundations of Computer Science. IEEE Press, Los Alamitos, CA, 120--131.
+Lamport, L. 1991. The temporal logic of actions. Research rep. 79. DEC Systems Research Center, Palo Alto, CA.
+Bernard Lang , Christian Queinnec , José Piquer, Garbage collecting the world, Proceedings of the 19th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.39-50, January 19-22, 1992, Albuquerque, New Mexico, USA[doi>10.1145/143165.143176]
+Fabrice Le Fessant , Ian Piumarta , Marc Shapiro, An implementation of complete, asynchronous, distributed garbage collection, Proceedings of the ACM SIGPLAN 1998 conference on Programming language design and implementation, p.152-161, June 17-19, 1998, Montreal, Quebec, Canada[doi>10.1145/277650.277715]
+Claus-Werner Lermen , Dieter Maurer, A protocol for distributed reference counting, Proceedings of the 1986 ACM conference on LISP and functional programming, p.343-350, August 1986, Cambridge, Massachusetts, USA[doi>10.1145/319838.319875]
+Lins, R. D. and Jones, R. E. 1993. Cyclic weighted reference counting. In Procedings of WP & DP'93 Workshop on Parallel and Distributed Processing (Sofia, Bulgaria), K. Boyanov, Ed. North Holland, Amsterdam, The Netherlands, 369--382. Also published in 1991 under the same title as Computing Laboratory Tech. rep. 95, University of Kent, U.K.
+Umesh Maheshwari , Barbara Liskov, Collecting distributed garbage cycles by back tracing, Proceedings of the sixteenth annual ACM symposium on Principles of distributed computing, p.239-248, August 21-24, 1997, Santa Barbara, California, USA[doi>10.1145/259380.259444]
+L. Mancini , S. K. Shrivastava, Fault-tolerant reference counting for garbage collection in distributed systems, The Computer Journal, v.34 n.6, p.503-513, Dec. 1991[doi>10.1093/comjnl/34.6.503]
+Zohar Manna , Amir Pnueli, The temporal logic of reactive and concurrent systems, Springer-Verlag New York, Inc., New York, NY, 1992
+Luc Moreau, Distributed directory service and message routing for mobile agents, Science of Computer Programming, v.39 n.2-3, p.249-272, March 2001[doi>10.1016/S0167-6423(00)00011-3]
+Luc Moreau, Tree Rerooting in Distributed Garbage Collection: Implementation and Performance Evaluation, Higher-Order and Symbolic Computation, v.14 n.4, p.357-386, December 2001[doi>10.1023/A:1014455931537]
+Luc Moreau, A fault-tolerant directory service for mobile agents based on forwarding pointers, Proceedings of the 2002 ACM symposium on Applied computing, March 11-14, 2002, Madrid, Spain[doi>10.1145/508791.508810]
+Luc Moreau , Jean Duprat, A construction of distributed reference counting, Acta Informatica, v.37 n.8, p.563-595, May 1 2001[doi>10.1007/PL00013315]
+Müller, K. A. G. 1976. On the feasibility of concurrent garbage collection. Ph.D. dissertation, Tech. Hogeschool Delft, Delft, The Netherlands.
+Susan Owicki , Leslie Lamport, Proving Liveness Properties of Concurrent Programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.3, p.455-495, July 1982[doi>10.1145/357172.357178]
+José M. Piquer, Indirect reference counting: a distributed garbage collection algorithm, Proceedings on Parallel architectures and languages Europe : volume I: parallel architectures and algorithms: volume I: parallel architectures and algorithms, p.150-165, June 1991, Eindhoven, The Netherlands
+Pixley, C. 1988. An incremental garbage collection algorithm for multi-mutator systems. Distrib. Comput. 3, 1, 41--50.
+David Plainfossé , Marc Shapiro, A Survey of Distributed Garbage Collection Techniques, Proceedings of the International Workshop on Memory Management, p.211-249, September 27-29, 1995
+Ramesh, S. and Mehndiratta, S. L. 1983. The liveness property of on-the-fly garbage collector---a proof. Inform. Process. Lett. 17, 4 (Nov.), 189--195.
+Helena Rodrigues , Richard Jones, A Cyclic Distributed Garbage Collector for Network Objects, Proceedings of the 10th International Workshop on Distributed Algorithms, p.123-140, October 09-11, 1996
+Helena Rodrigues , Richard Jones, Cyclic Distributed Garbage Collection with Group Merger, Proceedings of the 12th European Conference on Object-Oriented Programming, p.260-284, July 20-24, 1998
+Niklas Röjemo , Colin Runciman, Lag, drag, void and use—heap profiling and space-efficient compilation revisited, Proceedings of the first ACM SIGPLAN international conference on Functional programming, p.34-41, May 24-26, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/232627.232633]
+Russinoff, D. M. 1994. A mechanically verified incremental garbage collector. Form. Asp. Comput. 6, 359--390.
+Ran Shaham , Elliot K. Kolodner , Mooly Sagiv, Estimating the impact of heap liveness information on space consumption in Java, ACM SIGPLAN Notices, v.38 n.2 supplement, February 2003[doi>10.1145/773039.512437]
+Marc Shapiro , Peter Dickman , David Plainfossé, Robust, distributed references and acyclic garbage collection, Proceedings of the eleventh annual ACM symposium on Principles of distributed computing, p.135-146, August 10-12, 1992, Vancouver, British Columbia, Canada[doi>10.1145/135419.135448]
+Shapiro, M., Dickman, P., and Plainfossé, D. 1992b. SSP chains: Robust, distributed references supporting acyclic garbage collection. Rapport de Recherche 1799. INRIA-Rocquencourt, France.
+Shapiro, M., Gruber, O., and Plainfossé, D. 1990. A garbage detection protocol for a realistic distributed object-support system. Rapport de Recherche 1320. Inria-Rocquencourt, Rocquencourt, France.
+Stenning, V. 1976. On-the-fly garbage collection. Unpublished notes, cited by Gries {1977}.
+Sun Microsystems. 1996. Java Remote Method Invocation Specification. Sun Microsystems. Available at http://java.sun.com/products/jdk/rmi/.
+Gerard Tel , Friedemann Mattern, The derivation of distributed termination detection algorithms from garbage collection schemes, ACM Transactions on Programming Languages and Systems (TOPLAS), v.15 n.1, p.1-35, Jan. 1993[doi>10.1145/151646.151647]
+Jan L. A. Van de Snepscheut, "Algorithms for on-the-fly garbage collection" revisited, Information Processing Letters, v.24 n.4, p.211-216, March 1987[doi>10.1016/0020-0190(87)90135-9]
+P Watson , I Watson, An efficient garbage collection scheme for parallel computer architectures, Volume II: Parallel Languages on PARLE: Parallel Architectures and Languages Europe, p.432-443, March 1987, Eindhoven, The Netherlands

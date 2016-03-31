@@ -1,0 +1,38 @@
+Alfred V. Aho , Jeffrey D. Ullman, Principles of Compiler Design (Addison-Wesley series in computer science and information processing), Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1977
+AMMANN, U. On code generation in a PASCAL compiler. Softw. Pract. & Exper. 7, 3 (June 1977), 391-423.
+Marc Auslander , Martin Hopkins, An overview of the PL.8 compiler, Proceedings of the 1982 SIGPLAN symposium on Compiler construction, p.22-31, June 23-25, 1982, Boston, Massachusetts, United States[doi>10.1145/800230.806977]
+John T. Bagwell, Jr., Local optimizations, ACM SIGPLAN Notices, v.5 n.7, p.52-66, July 1970[doi>10.1145/390013.808484]
+C. Gordon Bell , A. C. Newell, Computer structures: Readings and examples (McGraw-Hill computer science series), McGraw-Hill Pub. Co., 1971
+R. G. Cattell, Automatic Derivation of Code Generators from Machine Descriptions, ACM Transactions on Programming Languages and Systems (TOPLAS), v.2 n.2, p.173-190, April 1980[doi>10.1145/357094.357097]
+Jack W. Davidson , Christopher W. Fraser, The Design and Application of a Retargetable Peephole Optimizer, ACM Transactions on Programming Languages and Systems (TOPLAS), v.2 n.2, p.191-202, April 1980[doi>10.1145/357094.357098]
+D^ViOSON, J.W. Simplifying code generation through peephole optimization. Ph.D. dissertation, Dept. of Computer Science, Univ. of Arizona, Tucson 1981.
+Jack W. Davidson , Christopher W. Fraser, Eliminating redundant object code, Proceedings of the 9th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.128-132, January 25-27, 1982, Albuquerque, Mexico[doi>10.1145/582153.582167]
+Christopher W. Fraser, A compact, machine-independent peephole optimizer, Proceedings of the 6th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.1-6, January 29-31, 1979, San Antonio, Texas[doi>10.1145/567752.567753]
+R. A. Freiburghouse, Register allocation via usage counts, Communications of the ACM, v.17 n.11, p.638-642, Nov. 1974[doi>10.1145/361179.361201]
+Mahadevan Ganapathi, Retargetable code generation and optimization using attribute grammars, 1980
+Mahadevan Ganapathi , Charles N. Fischer, Description-driven code generation using attribute grammars, Proceedings of the 9th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.108-119, January 25-27, 1982, Albuquerque, Mexico[doi>10.1145/582153.582165]
+Robert Giegerich, A Formal Framework for the Derivation of Machine-Specific Optimizers, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.3, p.478-498, July 1983[doi>10.1145/2166.357219]
+Robert Steven Glanville, A machine independent algorithm for code generation and its use in retargetable compilers., 1977
+R. Steven Glanville , Susan L. Graham, A new method for compiler code generation, Proceedings of the 5th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.231-254, January 23-25, 1978, Tucson, Arizona[doi>10.1145/512760.512785]
+Susan L. Graham , Robert R. Henry , Robert A. Schulman, An experiment in table driven code generation, Proceedings of the 1982 SIGPLAN symposium on Compiler construction, p.32-43, June 23-25, 1982, Boston, Massachusetts, United States[doi>10.1145/800230.806978]
+David R. Hanson, The Y programming language, ACM SIGPLAN Notices, v.16 n.2, p.59-68, February 1981[doi>10.1145/954269.954278]
+HANSON, D.R. Simple code optimizations. Softw. Pract. Exper. 13, 18 (1983), 745-763.
+William Harrison, A new strategy for code generation: the general purpose optimizing compiler, Proceedings of the 4th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.29-37, January 17-19, 1977, Los Angeles, California[doi>10.1145/512950.512954]
+S. C. Johnson, A portable compiler: theory and practice, Proceedings of the 5th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.97-104, January 23-25, 1978, Tucson, Arizona[doi>10.1145/512760.512771]
+KORNERUP, P., KRISTEN, B.B., ANO MAOSE~, O.L. Interpretation and code generation based on intermediate languages. Softw. Pract. Exper. 10, 8 (Aug. 1980), 635-658.
+LAMB, D.A. Construction of a peephole optimizer. Softw. Pract. Exper. 11, 6 (1981), 638-647.
+W. M. McKeeman, Peephole optimization, Communications of the ACM, v.8 n.7, p.443-444, July 1965[doi>10.1145/364995.365000]
+Thomas M. Morgan , Lawrence A. Rowe, Analyzing exotic instructions for a retargetable code generator, Proceedings of the 1982 SIGPLAN symposium on Compiler construction, p.197-204, June 23-25, 1982, Boston, Massachusetts, United States[doi>10.1145/800230.806995]
+NEWEY, M.C., POOLE, P.C., AND WA~T~., W.M. Abstract machine modelling to produce portable software--A review and evaluation. So{tw. Pract. Exper. 2, 12 (1972), 107-136.
+NORI, K.V., AMMANN, U., JENSEN, g., NAaEL~, H.H., AND JACOBI, C. Pas.cal-P Implementation Notes. In Pascal--The Language and its Implementation, D.W. Barton Ed. Wiley, 1981, 83-123.
+David Lorge Parnas, A generalized control structure and its formal definition, Communications of the ACM, v.26 n.8, p.572-581, Aug. 1983[doi>10.1145/358161.358168]
+PATTERSON, D.A., AND SEQUIN, C.H. A VLSI RISC, IEEE Comput. 15, 19 (Sept. 1982), 8-21.
+George Radin, The 801 minicomputer, Proceedings of the first international symposium on Architectural support for programming languages and operating systems, p.39-47, March 01-03, 1982, Palo Alto, California, United States[doi>10.1145/800050.801824]
+RITCHgE, D.M. A Tour through the UNIX C Compiler. In UNIX Programmer's Manual, Vol. IIB, Bell Laboratories, January 1979.
+STEEL, T.B. A first version of UNCOL, In Western Joint Computer Conference Proceedings, May 1961, 371-378.
+J. Strong , J. Wegstein , A. Tritter , J. Olsztyn , O. Mock , T. Steel, The problem of programming communication with changing machines: a proposed solution, Communications of the ACM, v.1 n.8, p.12-18, Aug. 1958[doi>10.1145/368892.368915]
+Andrew S. Tanenbaum , Hans van Staveren , Johan W. Stevenson, Using Peephole Optimization on Intermediate Code, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.1, p.21-36, Jan. 1982[doi>10.1145/357153.357155]
+WASTE, W:M., AND GOOS, G. Compiler Construction. Springer-Verlag, New York, 1984.
+WIRTH, N. Modula: A language for modular programming. Softw. Pract. Exper. 7, I (1977), 3-35.
+William Allan Wulf , Richard K. Johnsson , Charles B. Weinstock , Steven O. Hobbs , Charles M. Geschke, The  Design of an Optimizing Compiler, Elsevier Science Inc., New York, NY, 1975
+WUL~, W.A. Compilers and computer architecture. IEEE Comput. 14, 7 July 1981, 41-47.

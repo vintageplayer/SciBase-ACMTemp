@@ -1,0 +1,54 @@
+Shail Aditya , Rishiyur S. Nikhil, Incremental polymorphism, Proceedings of the 5th ACM conference on Functional programming languages and computer architecture, p.379-405, June 1991, Cambridge, Massachusetts, USA
+Alexander Aiken , Edward L. Wimmers, Type inclusion constraints and type inference, Proceedings of the conference on Functional programming languages and computer architecture, p.31-41, June 09-11, 1993, Copenhagen, Denmark[doi>10.1145/165180.165188]
+BOEHM, H.-J. 1985. Partial polymorphic type inference is undecidable. In 26th Annual Symposium on Foundations of Computer Science. IEEE, 339-345.
+H.-J. Boehm, Type inference in the presence of type abstraction, Proceedings of the ACM SIGPLAN 1989 Conference on Programming language design and implementation, p.192-206, June 19-23, 1989, Portland, Oregon, USA[doi>10.1145/73141.74835]
+Gilad Bracha , Martin Odersky , David Stoutamire , Philip Wadler, Making the future safe for the past: adding genericity to the Java programming language, ACM SIGPLAN Notices, v.33 n.10, p.183-200, Oct. 1998[doi>10.1145/286942.286957]
+CARDELLI, L. 1990. Notes about F~. Unpublished manuscript.
+CARDELLI, L. 1991. Typeful programming. In Formal Description of Programming Concepts, E. J. Neuhold and M. Paul, Eds. Springer-Verlag. An earlier version appeared as DEC Systems Research Center Research Report ~45, February 1989.
+CARDELLI, L. 1993. An implementation of F<. Research report 97, DEC Systems Research Center. Feb.
+Luca Cardelli , Giuseppe Longo, A semantic basis for quest, Proceedings of the 1990 ACM conference on LISP and functional programming, p.30-43, June 27-29, 1990, Nice, France[doi>10.1145/91556.91586]
+Luca Cardelli , Simone Martini , John C. Mitchell , Andre Scedrov, An extension of systemFwith subtyping, Information and Computation, v.109 n.1-2, p.4-56, Feb. 15/March 1994[doi>10.1006/inco.1994.1013]
+Luca Cardelli , Peter Wegner, On understanding types, data abstraction, and polymorphism, ACM Computing Surveys (CSUR), v.17 n.4, p.471-523, Dec. 1985[doi>10.1145/6041.6042]
+COMPAGNONI, t. B. 1994. Decidability of higher-order subtyping with intersection types. In Computer Science Logic. Kazimierz, Poland. Springer Lecture Notes in Computer Science 933, June 1995. Also available as University of Edinburgh, LFCS technical report ECS-LFCS-94-281, titled "Subtyping in F~ is decidable".
+Pierre-Louis Curien , Giorgio Ghelli, Coherence of subsumption, minimum typing and type-checking in F≤, Theoretical aspects of object-oriented programming: types, semantics, and language design, MIT Press, Cambridge, MA, 1994
+DOWEK, G., HARDIN, T., KIRCHNER, C., AND PFENNING, F. 1996. Unification via explicit substitutions: The case of higher-order patterns. In Proceedings of the Joint International Conference and Symposium on Logic Programming, M. Maher, Ed. MIT Press, Bonn, Germany, 259-273.
+EIFRIG, J., SMITH, S., AND TRIFONOV, V. 1995. Type inference for recursively constrained types and its application to OOP. In Proceedings of the 1995 Mathematical Foundations of Programming Semantics Conference. Electronic Notes in Theoretical Computer Science, vol. 1. Elsevier.
+Cormac Flanagan , Matthias Felleisen, Componential set-based analysis, ACM SIGPLAN Notices, v.32 n.5, p.235-248, May 1997[doi>10.1145/258916.258937]
+Jacques Garrigue , Didier Rémy, Extending ML with Semi-Explicit Higher-Order Polymorphism, Proceedings of the Third International Symposium on Theoretical Aspects of Computer Software, p.20-46, September 23-26, 1997
+GHELLI, G. 1990. Proof theoretic studies about a minimal type system integrating inclusion and parametric polymorphism. Ph.D. thesis, Universit~ di Pisa. Technical report TD-6/90, Dipartimento di Informatica, Universit~ di Pisa.
+Giorgio Ghelli , Benjamin Pierce, Bounded existentials and minimal typing, Theoretical Computer Science, v.193 n.1-2, p.75-96, Feb. 28, 1998[doi>10.1016/S0304-3975(96)00300-3]
+GIRARD, J.-Y. 1972. Interpr6tation fonctionelle et 61imination des coupures de l'arithm6tique d'ordre sup6rieur. Ph.D. thesis, Universit6 Paris VII. A summary appeared in the Proceedings of the Second Scandinavian Logic Symposium (J.E. Fenstad, editor), North-Holland, 1971 (pp. 63- 92).
+Martin Hofmann , Benjamin C. Pierce, A Unifying Type-Theoretic Framework for Objects, Proceedings of the 11th Annual Symposium on Theoretical Aspects of Computer Science, p.251-262, February 24-26, 1994
+HOSOYA, H. AND PIERCE, B. C. 1999. How good is local type inference? Tech. Rep. MS-CIS-99-17, University of Pennsylvania. June. Available from the authors.
+Douglas James Howe, Automating reasoning in an implementation of constructive type theory, Cornell University, Ithaca, NY, 1988
+HUET, G. 1975. A unification algorithm for typed A-calculus. Theoretical Computer Science 1, 27-57.
+Suresh Jagannathan , Andrew K. Wright, Effective Flow Analysis for Avoiding Run-Time Checks, Proceedings of the Second International Symposium on Static Analysis, p.207-224, September 25-27, 1995
+Konstantin Läufer , Martin Odersky, Polymorphic type inference and abstract data types, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.5, p.1411-1430, Sept. 1994[doi>10.1145/186025.186031]
+Dale Miller, Unification under a mixed prefix, Journal of Symbolic Computation, v.14 n.4, p.321-358, Oct. 1992[doi>10.1016/0747-7171(92)90011-R]
+Martin Odersky , Konstantin Läufer, Putting type annotations to work, Proceedings of the 23rd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.54-67, January 21-24, 1996, St. Petersburg Beach, Florida, USA[doi>10.1145/237721.237729]
+Martin Odersky , Philip Wadler, Pizza into Java: translating theory into practice, Proceedings of the 24th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.146-159, January 15-17, 1997, Paris, France[doi>10.1145/263699.263715]
+J. W. O'Toole, Jr. , D. K. Gifford, Type reconstruction with first-class polymorphic values, Proceedings of the ACM SIGPLAN 1989 Conference on Programming language design and implementation, p.207-217, June 19-23, 1989, Portland, Oregon, USA[doi>10.1145/73141.74836]
+PERRY, N. 1990. The implementation of practical functional programming languages. Ph.D. thesis, Imperial College.
+Frank Pfenning, Partial polymorphic type inference and higher-order unification, Proceedings of the 1988 ACM conference on LISP and functional programming, p.153-163, July 25-27, 1988, Snowbird, Utah, USA[doi>10.1145/62678.62697]
+Frank Pfenning, Partial polymorphic type inference and higher-order unification, Proceedings of the 1988 ACM conference on LISP and functional programming, p.153-163, July 25-27, 1988, Snowbird, Utah, USA[doi>10.1145/62678.62697]
+F. Pfening, Elf: a language for logic definition and verified metaprogramming, Proceedings of the Fourth Annual Symposium on Logic in computer science, p.313-322, June 1989, Pacific Grove, California, USA
+Frank Pfenning, On the Undecidability of Partial Polymorphic Type Reconstruction, Carnegie Mellon University, Pittsburgh, PA, 1992
+Frank Pfenning , Peter Lee, Metacircularity in the polymorphic &lgr;-calculus, Theoretical Computer Science, v.89 n.1, p.137-159, Oct. 21, 1991[doi>10.1016/0304-3975(90)90109-U]
+Benjamin Pierce , Martin Steffen, Higher-order subtyping, Theoretical Computer Science, v.176 n.1-2, p.235-282, April 20, 1997[doi>10.1016/S0304-3975(96)00096-5]
+PIERCE, B. C. 1997. Bounded quantification with bottom. Tech. Rep. 492, Computer Science Department, Indiana University.
+PIERCE, B. C. AND TURNER, D. N. 1994. Simple type-theoretic foundations for object-oriented programming. Journal of Functional Programming 4, 2 (Apr.), 207-247. Preliminary version in Principles of Programming Languages (POPL), 1993.
+PIERCE, B. C. AND TURNER, D. N. 1997a. Local type argument synthesis with bounded quantification. Tech. Rep. 495, Computer Science Department, Indiana University. Jan.
+Benjamin C. Pierce , David N. Turner, Pict: a programming language based on the Pi-Calculus, Proof, language, and interaction: essays in honour of Robin Milner, MIT Press, Cambridge, MA, 2000
+POLLACK, R. 1990. Implicit syntax. Informal Proceedings of First Workshop on Logical Frameworks, Antibes.
+François Pottier, Simplifying subtyping constraints, Proceedings of the first ACM SIGPLAN international conference on Functional programming, p.122-133, May 24-26, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/232627.232642]
+D. Rémy, Type checking records and variants in a natural extension of ML, Proceedings of the 16th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.77-88, January 11-13, 1989, Austin, Texas, USA[doi>10.1145/75277.75284]
+Didier Rémy, Programming Objects with ML-ART, an Extension to ML with Abstract and Record Types, Proceedings of the International Conference on Theoretical Aspects of Computer Software, p.321-346, April 19-22, 1994
+Didier Rémy , Jérôme Vouillon, Objective ML: a simple object-oriented extension of ML, Proceedings of the 24th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.40-53, January 15-17, 1997, Paris, France[doi>10.1145/263699.263707]
+John C. Reynolds, Towards a theory of type structure, Programming Symposium, Proceedings Colloque sur la Programmation, p.408-423, April 09-11, 1974
+STEFFEN, M. 1998. Polarized higher-order subtyping. Ph.D. thesis, Universitgt Erlangen- Niirnberg. Forthcoming.
+SULZMANN, M., ODERSKY, M., AND WEHR, M. 1997. Type inference with constrained types. In Fourth International Workshop on Foundations of Object-Oriented Programming (FOOL 4). Full version in Theory and Practice of Object Systems, 1998.
+Valery Trifonov , Scott F. Smith, Subtyping Constrained Types, Proceedings of the Third International Symposium on Static Analysis, p.349-365, September 24-26, 1996
+WAND, M. 1987. Complete type inference for simple objects. In Proceedings of the IEEE Symposium on Logic in Computer Science. Ithaca, NY.
+WAND, M. 1988. Corrigendum: Complete type inference for simple objects. In Proceedings of the IEEE Symposium on Logic in Computer Scienc
+Mitchell Wand, Type inference for objects with instance variables and inheritance, Theoretical aspects of object-oriented programming: types, semantics, and language design, MIT Press, Cambridge, MA, 1994
+WELLS, J. B. 1994. Typability and type checking in the second-order A-calculus are equivalent and undecidable. In Proceedings of the Ninth Annual IEEE Symposium on Logic in Computer Science (LICS). 176-185.

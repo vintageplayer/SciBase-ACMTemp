@@ -1,0 +1,37 @@
+Ian Bayley , Sam Shiel, JVM Bytecode Verification Without Dataflow Analysis, Electronic Notes in Theoretical Computer Science (ENTCS), v.141 n.1, p.203-220, December, 2005
+Antonella Santone , Gigliola Vaglini, Local model checking of Java bytecode, Proceedings of the 14th international conference on Software engineering and knowledge engineering, July 15-19, 2002, Ischia, Italy
+Futoshi Iwama , Naoki Kobayashi, A new type system for JVM lock primitives, Proceedings of the ASIAN symposium on Partial evaluation and semantics-based program manipulation, p.71-82, September 12-14, 2002, Aizu, Japan
+Roberto Barbuti , Stefano Cataudella, Java bytecode verification on Java cards, Proceedings of the 2004 ACM symposium on Applied computing, March 14-17, 2004, Nicosia, Cyprus
+Xavier Leroy, Bytecode verification on Java smart cards, Software—Practice & Experience, v.32 n.4, p.319-340, 10 April 2002
+Roberto Barbuti , Luca Tesei , Cinzia Bernardeschi , Nicoletta De Francesco, Fixing the Java bytecode verifier by a suitable type domain, Proceedings of the 14th international conference on Software engineering and knowledge engineering, July 15-19, 2002, Ischia, Italy
+Einar Broch Johnsen , Thi Mai Thuong Tran , Olaf Owe , Martin Steffen, Safe locking for multi-threaded java, Proceedings of the 4th IPM international conference on Fundamentals of Software Engineering, p.158-173, April 20-22, 2011, Tehran, Iran
+Andreas Gal , Christian W. Probst , Michael Franz, Java bytecode verification via static single assignment form, ACM Transactions on Programming Languages and Systems (TOPLAS), v.30 n.4, p.1-21, July 2008
+Stephen N. Freund , John C. Mitchell, A type system for object initialization in the Java bytecode language, ACM Transactions on Programming Languages and Systems (TOPLAS), v.21 n.6, p.1196-1250, Nov. 1999
+Ando Saabas , Tarmo Uustalu, Type Systems for Optimizing Stack-based Code, Electronic Notes in Theoretical Computer Science (ENTCS), v.190 n.1, p.103-119, July, 2007
+Cosimo Laneve, A type system for JVM threads, Theoretical Computer Science, v.290 n.1, p.741-778, 1 January 2003
+Robert F. Stärk , Joachim Schmid, Completeness of a Bytecode Verifier and a Certifying Java-to-JVM Compiler, Journal of Automated Reasoning, v.30 n.3-4, p.323-361, 2003
+Akihiko Tozawa , Masami Hagiya, Formalization and Analysis of Class Loading in Java, Higher-Order and Symbolic Computation, v.15 n.1, p.7-55, March 2002
+Xavier Leroy, On-Card Bytecode Verification for Java Card, Proceedings of the International Conference on Research in Smart Cards: Smart Card Programming and Security, p.150-164, September 19-21, 2001
+Roberto Barbuti , Cinzia Bernardeschi , Nicoletta De Francesco, Checking security of Java bytecode by abstract interpretation, Proceedings of the 2002 ACM symposium on Applied computing, March 11-14, 2002, Madrid, Spain
+Andreas Gal , Christian W. Probst , Michael Franz, Structural Encoding of Static Single Assignment Form, Electronic Notes in Theoretical Computer Science (ENTCS), v.141 n.2, p.85-102, December, 2005
+Andreas Gal , Christian W. Probst , Michael Franz, Integrated Java Bytecode Verification, Electronic Notes in Theoretical Computer Science (ENTCS), 131, p.27-38, May, 2005
+Ando Saabas , Tarmo Uustalu, Compositional type systems for stack-based low-level languages, Proceedings of the 12th Computing: The Australasian Theroy Symposium, p.27-39, January 16-19, 2006, Hobart, Australia
+Ando Saabas , Tarmo Uustalu, Compositional type systems for stack-based low-level languages, Proceedings of the Twelfth Computing: The Australasian Theory Symposium, January 16-19, 2006, Hobart, Australia
+David Aspinall , Adriana Compagnoni, Heap-Bounded Assembly Language, Journal of Automated Reasoning, v.31 n.3-4, p.261-302, 2003
+Hidehiko Masuhara , Akinori Yonezawa, Run-Time Bytecode Specialization, Proceedings of the Second Symposium on Programs as Data Objects, p.138-154, May 21-23, 2001
+Nicu G. Fruja, Towards proving type safety of .NET CIL, Science of Computer Programming, v.72 n.3, p.176-219, August, 2008
+Johannes Rudolph , Peter Thiemann, Mnemonics: type-safe bytecode generation at run time, Proceedings of the 2010 ACM SIGPLAN workshop on Partial evaluation and program manipulation, January 18-19, 2010, Madrid, Spain
+Xavier Leroy, Java Bytecode Verification: An Overview, Proceedings of the 13th International Conference on Computer Aided Verification, p.265-285, July 18-22, 2001
+David Basin , Stefan Friedrich , Marek Gawkowski, Bytecode Verification by Model Checking, Journal of Automated Reasoning, v.30 n.3-4, p.399-444, 2003
+Hidehiko Masuhara , Akinori Yonezawa, A portable-approach to dynamic optimization in run-time specialization, New Generation Computing, v.20 n.1, p.101-124, January 2002
+Greg Morrisett , Karl Crary , Neal Glew , David Walker, Stack-based typed assembly language, Journal of Functional Programming, v.12 n.1, p.43-88, January 2002
+Gilles Barthe , Guillaume Dufay , Marieke Huisman , Simão Melo de Sousa, Jakarta: A Toolset for Reasoning about JavaCard, Proceedings of the International Conference on Research in Smart Cards: Smart Card Programming and Security, p.2-18, September 19-21, 2001
+Johannes Rudolph , Peter Thiemann, Mnemonics: type-safe bytecode generation at run time, Higher-Order and Symbolic Computation, v.23 n.3, p.371-407, September 2010
+Gilles Barthe , Pierre Courtieu , Guillaume Dufay , Simão Melo de Sousa, Tool-Assisted Specification and Verification of the JavaCard Platform, Proceedings of the 9th International Conference on Algebraic Methodology and Software Technology, p.41-59, September 09-13, 2002
+Philip W. L. Fong, Reasoning about safety properties in a JVM-like environment, Science of Computer Programming, v.67 n.2-3, p.278-300, July, 2007
+Stephen N. Freund , John C. Mitchell, A Type System for the Java Bytecode Language and Verifier, Journal of Automated Reasoning, v.30 n.3-4, p.271-321, 2003
+David W. Price , Algis Rudys , Dan S. Wallach, Garbage Collector Memory Accounting in Language-Based Systems, Proceedings of the 2003 IEEE Symposium on Security and Privacy, p.263, May 11-14, 2003
+Xavier Leroy, Java Bytecode Verification: Algorithms and Formalizations, Journal of Automated Reasoning, v.30 n.3-4, p.235-269, 2003
+Philip W. L. Fong, Pluggable verification modules: an extensible protection mechanism for the JVM, ACM SIGPLAN Notices, v.39 n.10, October 2004
+Gilles Barthe , Guillaume Dufay, Formal methods for smartcard security, Foundations of Security Analysis and Design III: FOSAD 2004/2005 tutorial lectures, Springer-Verlag, Berlin, Heidelberg, 2005
+Pieter H. Hartel , Luc Moreau, Formalizing the safety of Java, the Java virtual machine, and Java card, ACM Computing Surveys (CSUR), v.33 n.4, p.517-558, December 2001

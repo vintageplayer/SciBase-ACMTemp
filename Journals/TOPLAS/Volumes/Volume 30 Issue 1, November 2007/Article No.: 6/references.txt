@@ -1,0 +1,45 @@
+Martín Abadi, On SDSI's linked local name spaces, Journal of Computer Security, v.6 n.1-2, p.3-21, Sept. 1998
+Martín Abadi , Anindya Banerjee , Nevin Heintze , Jon G. Riecke, A core calculus of dependency, Proceedings of the 26th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.147-160, January 20-22, 1999, San Antonio, Texas, USA[doi>10.1145/292540.292555]
+Martín Abadi , Michael Burrows , Butler Lampson , Gordon Plotkin, A calculus for access control in distributed systems, ACM Transactions on Programming Languages and Systems (TOPLAS), v.15 n.4, p.706-734, Sept. 1993[doi>10.1145/155183.155225]
+Johan Agat, Transforming out timing leaks, Proceedings of the 27th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.40-53, January 19-21, 2000, Boston, MA, USA[doi>10.1145/325694.325702]
+David Aspinall, Subtyping with Singleton Types, Selected Papers from the 8th International Workshop on Computer Science Logic, p.1-15, September 25-30, 1994
+Anindya Banerjee , David A. Naumann, Secure Information Flow and Pointer Confinement in a Java-like Language, Proceedings of the 15th IEEE workshop on Computer Security Foundations, p.253, June 24-26, 2002
+Banerjee, A. and Naumann, D. A. 2003. Using access control for secure information flow in a Java-like language. In Proceedings of the 16th IEEE Computer Security Foundations Workshop. IEEE Computer Society Press, Los Alamitos, CA. 155--169.
+Chothia, T., Duggan, D., and Vitek, J. 2003. Type-based distributed access control. In Proceedings of the IEEE Computer Security Foundations Workshop. IEEE Computer Society Press, Los Alamitos, CA. 170.
+Karl Crary , Aleksey Kliger , Frank Pfenning, A monadic analysis of information flow security with mutable state, Journal of Functional Programming, v.15 n.2, p.249-291, March 2005[doi>10.1017/S0956796804005441]
+Karl Crary , David Walker , Greg Morrisett, Typed memory management in a calculus of capabilities, Proceedings of the 26th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.262-275, January 20-22, 1999, San Antonio, Texas, USA[doi>10.1145/292540.292564]
+Karl Crary , Stephanie Weirich , Greg Morrisett, Intensional polymorphism in type-erasure semantics, Journal of Functional Programming, v.12 n.6, p.567-600, November 2002[doi>10.1017/S0956796801004282]
+Cédric Fournet , Andrew D. Gordon, Stack inspection: theory and variants, Proceedings of the 29th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.307-318, January 16-18, 2002, Portland, Oregon[doi>10.1145/503272.503301]
+Gasser, M. and McDermott, E. 1990. An architecture for practical delegation in a distributed system. In Proceedings of the IEEE Symposium on Security and Privacy. IEEE Computer Society Press, Los Alamitos, CA, 20--30.
+Goguen, J. A. and Meseguer, J. 1982. Security policies and security models. In Proceedings of the IEEE Symposium on Security and Privacy. IEEE Computer Society Press, Los Alamitos, CA, 11--20.
+Carl A. Gunter , Trevor Jim, Generalized certificate revocation, Proceedings of the 27th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.316-329, January 19-21, 2000, Boston, MA, USA[doi>10.1145/325694.325736]
+Nevin Heintze , Jon G. Riecke, The SLam calculus: programming with secrecy and integrity, Proceedings of the 25th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.365-377, January 19-21, 1998, San Diego, California, USA[doi>10.1145/268946.268976]
+Jon Howell , David Kotz, End-to-end authorization, Proceedings of the 4th conference on Symposium on Operating System Design & Implementation, p.11-11, October 22-25, 2000, San Diego, California
+Trevor Jim, SD3: A Trust Management System with Certified Evaluation, Proceedings of the 2001 IEEE Symposium on Security and Privacy, p.106, May 14-16, 2001
+Pierre Jouvelot , David Gifford, Algebraic reconstruction of types and effects, Proceedings of the 18th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.303-310, January 21-23, 1991, Orlando, Florida, USA[doi>10.1145/99583.99623]
+Li, P., Mao, Y., and Zdancewic, S. 2003. Information integrity policies. In Proceedings of the Workshop on Formal Aspects in Security & Trust (FAST). 53--70.
+John C. Mitchell, Foundations of programming languages, MIT Press, Cambridge, MA, 1996
+Myers, A. C., Chong, S., Nystrom, N., Zheng, L., and Zdancewic, S. 1999. Jif: Java information flow. http://www.cs.cothell.edu/sit.
+Myers, A. C. and Liskov, B. 1998. Complete, safe information flow with decentralized labels. In Proceedings of the IEEE Symposium on Security and Privacy (Oakland, CA). 186--197.
+Andrew C. Myers , Barbara Liskov, Protecting privacy using the decentralized label model, ACM Transactions on Software Engineering and Methodology (TOSEM), v.9 n.4, p.410-442, Oct. 2000[doi>10.1145/363516.363526]
+Andrew C. Myers , Andrei Sabelfeld , Steve Zdancewic, Enforcing Robust Declassification, Proceedings of the 17th IEEE workshop on Computer Security Foundations, p.172, June 28-30, 2004[doi>10.1109/CSFW.2004.9]
+Andrew C. Myers , Andrei Sabelfeld , Steve Zdancewic, Enforcing robust declassification and qualified robustness, Journal of Computer Security, v.14 n.2, p.157-196, April 2006
+Benjamin C. Pierce, Types and programming languages, MIT Press, Cambridge, MA, 2002
+Andrew M. Pitts, Existential Types: Logical Relations and Operational Equivalence, Proceedings of the 25th International Colloquium on Automata, Languages and Programming, p.309-326, July 13-17, 1998
+François Pottier , Sylvain Conchon, Information flow inference for free, Proceedings of the fifth ACM SIGPLAN international conference on Functional programming, p.46-57, September 2000[doi>10.1145/351240.351245]
+François Pottier , Vincent Simonet, Information flow inference for ML, Proceedings of the 29th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.319-330, January 16-18, 2002, Portland, Oregon[doi>10.1145/503272.503302]
+Pottier, F., Skalka, C., and Smith, S. F. 2001. A systematic approach to static access control. In Proceedings of the European Symposium on Programming. 344--382.
+A. Sabelfeld , A. C. Myers, Language-based information-flow security, IEEE Journal on Selected Areas in Communications, v.21 n.1, p.5-19, September 2006[doi>10.1109/JSAC.2002.806121]
+Andrei Sabelfeld , David Sands, A Per Model of Secure Information Flow in Sequential Programs, Higher-Order and Symbolic Computation, v.14 n.1, p.59-91, March 2001[doi>10.1023/A:1011553200337]
+Simonet, V. 2003. Flow caml in a nutshell. In Proceedings of the 1st APPSEM-II Workshop, G. Hutton, Ed. 152--165.
+Vincent Simonet , François Pottier, A constraint-based approach to guarded algebraic data types, ACM Transactions on Programming Languages and Systems (TOPLAS), v.29 n.1, p.1-es, January 2007[doi>10.1145/1180475.1180476]
+Tse, S. and Zdancewic, S. 2004. Run-time principals in information-flow type systems. In Proceedings of the IEEE Symposium on Security and Privacy.
+Stephen Tse , Steve Zdancewic, A design for a security-typed language with certificate-based declassification, Proceedings of the 14th European conference on Programming Languages and Systems, p.279-294, April 04-08, 2005, Edinburgh, UK[doi>10.1007/978-3-540-31987-0_20]
+Dennis Volpano , Cynthia Irvine , Geoffrey Smith, A sound type system for secure flow analysis, Journal of Computer Security, v.4 n.2-3, p.167-187, Jan. 1996
+Philip Wadler, Theorems for free!, Proceedings of the fourth international conference on Functional programming languages and computer architecture, p.347-359, September 11-13, 1989, Imperial College, London, United Kingdom[doi>10.1145/99370.99404]
+Dan S. Wallach , Andrew W. Appel , Edward W. Felten, SAFKASI: a security mechanism for language-based systems, ACM Transactions on Software Engineering and Methodology (TOSEM), v.9 n.4, p.341-378, Oct. 2000[doi>10.1145/363516.363520]
+Wallach, D. S. and Felten, E. W. 1998. Understanding Java stack inspection. In Proceedings of the IEEE Symposium on Security and Privacy (Oakland, CA). ACM, New York, 52--63.
+Zdancewic, S. 2003. A type system for robust declassification. In Proceedings of the 19th Conference on the Mathematical Foundations of Programming Semantics. Electronic Notes in Theoretical Computer Science.
+Zdancewic, S. and Myers, A. C. 2001. Secure information flow and CPS. In Proceedings of the 10th European Symposium on Programming. Lecture Notes in Computer Science, vol. 2028. Springer Verlag, New York, 46--61.
+Steve Zdancewic , Andrew C. Myers, Secure Information Flow via Linear Continuations, Higher-Order and Symbolic Computation, v.15 n.2-3, p.209-234, September 2002[doi>10.1023/A:1020843229247]
+Zheng, L. and Myers, A. C. 2004. Dynamic security labels and noninterference. In Formal Aspects in Security and Trust.

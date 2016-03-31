@@ -1,0 +1,45 @@
+Architectures and Languages Europe. Lecture Notes in Computer Science, vol. 258. Springer-Verlag, Berlin, 75-93.
+Henri E. Bal, Orca: a language for distributed programming, ACM SIGPLAN Notices, v.25 n.5, p.17-24, May 1990[doi>10.1145/382080.382082]
+Mordechai Ben-Ari, Algorithms for on-the-fly garbage collection, ACM Transactions on Programming Languages and Systems (TOPLAS), v.6 n.3, p.333-344, July 1984[doi>10.1145/579.587]
+D I Bevan, Distributed garbage collection using reference counting, Volume II: Parallel Languages on PARLE: Parallel Architectures and Languages Europe, p.176-187, March 1987, Eindhoven, The Netherlands
+Birrell, A., Evers, D., Nelson, G., Owicki, S., and Wobber, E. 1993. Distributed garbage collection for network objects. Tech. Rep. 116, Digital Equipment Corp. (SRC), Palo Alto, Calif. Dec.
+Alvaro E. Campos , David R. Hanson, Garbage collection in distributed EZ, Proceedings of the 13th international conference on Computer science 2 : research and applications: research and applications, p.243-251, October 1994, La Serena, Chile
+John McCarthy, Recursive functions of symbolic expressions and their computation by machine, Part I, Communications of the ACM, v.3 n.4, p.184-195, April 1960[doi>10.1145/367177.367199]
+K. Mani Chandy , Leslie Lamport, Distributed snapshots: determining global states of distributed systems, ACM Transactions on Computer Systems (TOCS), v.3 n.1, p.63-75, Feb. 1985[doi>10.1145/214451.214456]
+George E. Collins, A method for overlapping and erasure of lists, Communications of the ACM, v.3 n.12, p.655-657, Dec. 1960[doi>10.1145/367487.367501]
+V. Delacour, Allocation Regions & Implementation Contracts, Proceedings of the International Workshop on Memory Management, p.426-439, September 17-19, 1992
+Margaret H. Derbyshire, Mark scan garbage collection on a distributed architecture, Lisp and Symbolic Computation, v.3 n.2, p.135-170, Apr. 1990[doi>10.1007/BF01806256]
+Edsger W. Dijkstra , Leslie Lamport , A. J. Martin , C. S. Scholten , E. F. M. Steffens, On-the-fly garbage collection: an exercise in cooperation, Communications of the ACM, v.21 n.11, p.966-975, Nov. 1978[doi>10.1145/359642.359655]
+Dijkstra, E. W. and Scholten, C. S. 1980. Termination detection for diffusing computations. Inf. Process. Lett. 11, 1 (Aug.), 1-4.
+Robert Joseph Fowler, The complexity of using forwarding addresses for decentralized object finding, Proceedings of the fifth annual ACM symposium on Principles of distributed computing, p.108-120, August 11-13, 1986, Calgary, Alberta, Canada[doi>10.1145/10590.10600]
+Matthew Fuchs, Garbage Collection on an Open Network, Proceedings of the International Workshop on Memory Management, p.251-265, September 27-29, 1995
+B. Goldberg, Generational reference counting: a reduced-communication distributed storage reclamation scheme, ACM SIGPLAN Notices, v.24 n.7, p.313-321, July 1989[doi>10.1145/74818.74846]
+A. Gupta , W. K. Fuchs, Garbage Collection in a Distributed Object-Oriented System, IEEE Transactions on Knowledge and Data Engineering, v.5 n.2, p.257-265, April 1993[doi>10.1109/69.219734]
+Paul Hudak , Robert M. Keller, Garbage collection and task deletion in distributed applicative processing systems, Proceedings of the 1982 ACM symposium on LISP and functional programming, p.168-178, August 15-18, 1982, Pittsburgh, Pennsylvania, USA[doi>10.1145/800068.802147]
+John Hughes, A distributed garbage collection algorithm, Proc. of a conference on Functional programming languages and computer architecture, p.256-272, January 1985, Nancy, France
+Ichisugi, Y. and Yonezawa, A. 1990. Distributed garbage collection using group reference counting. Tech. Rep. 90-014, Dept. of Information Science, Univ. of Tokyo, Japan.
+Ladin, R. and Liskov, B. 1992. Garbage collection of a distributed heap. In ACM Symposium on Principles of Distributed Computing. ACM, New York, 708-715.
+Bernard Lang , Christian Queinnec , José Piquer, Garbage collecting the world, Proceedings of the 19th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.39-50, January 19-22, 1992, Albuquerque, New Mexico, USA[doi>10.1145/143165.143176]
+Claus-Werner Lermen , Dieter Maurer, A protocol for distributed reference counting, Proceedings of the 1986 ACM conference on LISP and functional programming, p.343-350, August 1986, Cambridge, Massachusetts, USA[doi>10.1145/319838.319875]
+Henry M. Levy , Ewan D. Tempero, Modules, objects and distributed programming: issues in RPC and remote object invocation, Software—Practice & Experience, v.21 n.1, p.77-90, Jan. 1991[doi>10.1002/spe.4380210106]
+Mancini, L. V., Rotella, V., and Venosa, S. 1991. Copying garbage collection for distributed object stores. In 10th Symposium on Reliable Distributed Systems. Pisa (Italy) .
+Mattern, F. 1987. Algorithms for distributed termination detection. Distrib. Comput. 2, 161-175.
+Mohammed-Ali, K. A. 1984. Object-oriented storage management and garbage collection in distributed processing systems. Ph.D. thesis, Royal Institute of Technology, Dept. of Computer Systems, Stockholm, Sweden.
+David A. Moon, Garbage collection in a large LISP system, Proceedings of the 1984 ACM Symposium on LISP and functional programming, p.235-246, August 06-08, 1984, Austin, Texas, USA[doi>10.1145/800055.802040]
+José M. Piquer, Indirect reference counting: a distributed garbage collection algorithm, Proceedings on Parallel architectures and languages Europe : volume I: parallel architectures and algorithms: volume I: parallel architectures and algorithms, p.150-165, June 1991, Eindhoven, The Netherlands
+Piquer, J. M. 1991b. Preserving distributed data coherence using asynchronous broadcasts. In 11th International Conference of the Chilean Computer Science Society. Plenum, New York, 283-290.
+José M. Piquer, Indirect Mark and Sweep: A Distributed GC, Proceedings of the International Workshop on Memory Management, p.267-282, September 27-29, 1995
+Piquer, J. M. and Queinnec, C. 1992. TransPive: A distributed Lisp system. La lettre du Transputer, Laboratoire d'Informatique de Besan~con 16 (Dec.), 55-68.
+David Plainfossé , Marc Shapiro, Experience with a Fault-Tolerant Garbage Collector in a Distributed Lisp System, Proceedings of the International Workshop on Memory Management, p.116-133, September 17-19, 1992
+Christian Queinnec , Barbara Beaudoing , Jean-Pierre Queille, Mark DURING Sweep rather than Mark THEN Sweep, Proceedings of the Parallel Architectures and Languages Europe, Volume I: Parallel Architectures, p.224-237, June 12-16, 1989
+Michel Raynal , André Schiper , Sam Toueg, The causal ordering abstraction and a simple way to implement it, Information Processing Letters, v.39 n.6, p.343-350, Sept.  27, 1991[doi>10.1016/0020-0190(91)90008-6]
+Martin Rudalics, Distributed copying garbage collection, Proceedings of the 1986 ACM conference on LISP and functional programming, p.364-372, August 1986, Cambridge, Massachusetts, USA[doi>10.1145/319838.319877]
+Rudalics, M. 1990. Implementation of distributed reference counts. Tech. Rep. 90-40.0, RISC, Johannes Kepler Univ., Linz, Austria.
+André Schiper , Jorge Eggli , Alain Sandoz, A New Algorithm to Implement Causal Ordering, Proceedings of the 3rd International Workshop on Distributed Algorithms, p.219-232, September 26-28, 1989
+Schwarz, R. and Mattern, F. 1992. Detecting causal relationships in distributed computations: In search of the holy grail. Tech. Rep. SFB124 15-92, Dept. of Computer Science, Univ. of Kaiserlautern.
+Marc Shapiro , Peter Dickman , David Plainfossé, Robust, distributed references and acyclic garbage collection, Proceedings of the eleventh annual ACM symposium on Principles of distributed computing, p.135-146, August 10-12, 1992, Vancouver, British Columbia, Canada[doi>10.1145/135419.135448]
+Shapiro, M., Dickman, P., and Plainfoss~e, D. 1992b. SSP chains: Robust, distributed references supporting acyclic garbage collection. Rapport de Recherche 1799, INRIA, Rocquencourt, France. Nov. Also available as Broadcast Technical Report #1.
+Shapiro, M., Gruber, O., and Plainfoss~e, D. 1990. A garbage detection protocol for a realistic distributed object-support system. Rapport de Recherche 1320, INRIA, Rocquencourt, France. Nov.
+Gerard Tel , Friedemann Mattern, The derivation of distributed termination detection algorithms from garbage collection schemes, ACM Transactions on Programming Languages and Systems (TOPLAS), v.15 n.1, p.1-35, Jan. 1993[doi>10.1145/151646.151647]
+Jan L. A. Van de Snepscheut, "Algorithms for on-the-fly garbage collection" revisited, Information Processing Letters, v.24 n.4, p.211-216, March 1987[doi>10.1016/0020-0190(87)90135-9]
+P Watson , I Watson, An efficient garbage collection scheme for parallel computer architectures, Volume II: Parallel Languages on PARLE: Parallel Architectures and Languages Europe, p.432-443, March 1987, Eindhoven, The Netherlands

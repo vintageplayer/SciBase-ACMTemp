@@ -1,0 +1,164 @@
+Silvian Calman , Jianwen Zhu, Increasing the Scope and Resolution of Interprocedural Static Single Assignment, Proceedings of the 16th International Symposium on Static Analysis, August 09-11, 2009, Los Angeles, CA
+Mariano Ceccato , Thomas Roy Dean , Paolo Tonella , Davide Marchignoli, Migrating legacy data structures based on variable overlay to Java, Journal of Software Maintenance and Evolution: Research and Practice, v.22 n.3, p.211-237, April 2010
+V. K. Koshelev , A. O. Izbyshev , I. A. Dudina, Interprocedural taint analysis for LLVM-bitcode, Programming and Computing Software, v.41 n.4, p.237-245, July      2015
+Robert Metzger , Sean Stroud, Interprocedural constant propagation: an empirical study, ACM Letters on Programming Languages and Systems (LOPLAS), v.2 n.1-4, p.213-232, March–Dec. 1993
+Jaejin Lee , Samuel P. Midkiff , David A. Padua, A Constant Propagation Algorithm for Explicitly Parallel Programs, International Journal of Parallel Programming, v.26 n.5, p.563-589, October 1998
+Cliff Click , Keith D. Cooper, Combining analyses, combining optimizations, ACM Transactions on Programming Languages and Systems (TOPLAS), v.17 n.2, p.181-196, March 1995
+Eric Stoltz , Michael Wolfe , Michael P. Gerlek, Constant propagation: a fresh, demand-driven look, Proceedings of the 1994 ACM symposium on Applied computing, p.400-404, March 06-08, 1994, Phoenix, Arizona, United States
+Alexander Sakharov, Propagation of constants and assertions, ACM SIGPLAN Notices, v.29 n.5, p.3-6, May 1994
+Greg Stitt , Frank Vahid, Propagating constants past software to hardware peripherals on fixed-application embedded systems, Compilers and operating systems for low power, Kluwer Academic Publishers, Norwell, MA, 2003
+Frank Vahid , Rilesh Patel , Greg Stitt, Propagating constants past software to hardware peripherals in fixed-application embedded systems, ACM SIGARCH Computer Architecture News, v.29 n.5, December 2001
+Adam Brooks Webber, Program analysis using binary relations, ACM SIGPLAN Notices, v.32 n.5, p.249-260, May 1997
+Alexandre Lenart , Christopher Sadler , Sandeep K. S. Gupta, SSA-based flow-sensitive type analysis: combining constant and type propagation, Proceedings of the 2000 ACM symposium on Applied computing, p.813-817, March 2000, Como, Italy
+Gabriel Dos Reis , Bjarne Stroustrup, General constant expressions for system programming languages, Proceedings of the 2010 ACM Symposium on Applied Computing, March 22-26, 2010, Sierre, Switzerland
+Vladimir Kotlyar , Mayan Moudgill, Detecting overflow detection, Proceedings of the 2nd IEEE/ACM/IFIP international conference on Hardware/software codesign and system synthesis, September 08-10, 2004, Stockholm, Sweden
+A. V. S. Sastry , Roy D. C. Ju, A new algorithm for scalar register promotion based on SSA form, ACM SIGPLAN Notices, v.33 n.5, p.15-25, May 1998
+Sandhya Seshadri , Michael S. Hsiao, An Integrated Approach to Behavioral-Level Design-For-Testability Using Value-Range and Variable Testability Techniques, Proceedings of the 1999 IEEE International Test Conference, p.858, September 28-30, 1999
+Marc M. Brandis , Hanspeter Mössenböck, Single-pass generation of static single-assignment form for structured languages, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.6, p.1684-1698, Nov. 1994
+Harini Srinivasan , James Hook , Michael Wolfe, Static single assignment for explicitly parallel programs, Proceedings of the 20th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.260-272, March 1993, Charleston, South Carolina, United States
+Vugranam C. Sreedhar , Roy Dz-Ching Ju , David M. Gillies , Vatsa Santhanam, Translating Out of Static Single Assignment Form, Proceedings of the 6th International Symposium on Static Analysis, p.194-210, September 22-24, 1999
+Yi Fang , Lenore D. Zuck, Improved Invariant Generation for Tvoc, Electronic Notes in Theoretical Computer Science (ENTCS), v.176 n.3, p.21-35, July, 2007
+François de Ferrière, Improvements to the Psi-SSA representation, Proceedingsof the 10th international workshop on Software & compilers for embedded systems, April 20-20, 2007, Nice, France
+Sandhya Seshadri , Michael S. Hsiao, Formal Value-Range and Variable Testability Techniquesfor High-Level Design-For-Testability, Journal of Electronic Testing: Theory and Applications, v.16 n.1-2, p.131-145, Feb/April 2000
+Daniel Damian , Olivier Danvy, Static transition compression, Proceedings of the 2nd international conference on Semantics, applications, and implementation of program generation, September 06-06, 2001, Florence, Italy
+Tobias Mann , Morgan Deters , Rob LeGrand , Ron K. Cytron, Static determination of allocation rates to support real-time garbage collection, ACM SIGPLAN Notices, v.40 n.7, July 2005
+Dan Grove , Linda Torczon, Interprocedural constant propagation: a study of jump function implementation, ACM SIGPLAN Notices, v.28 n.6, p.90-99, June 1993
+William Landi, Undecidability of static analysis, ACM Letters on Programming Languages and Systems (LOPLAS), v.1 n.4, p.323-337, Dec. 1992
+R. E. Strom , D. M. Yellin, Extending Typestate Checking Using Conditional Liveness Analysis, IEEE Transactions on Software Engineering, v.19 n.5, p.478-485, May 1993
+Thomas J. Marlowe , William G. Landi , Barbara G. Ryder , Jong-Deok Choi , Michael G. Burke , Paul Carini, Pointer-induced aliasing: a clarification, ACM SIGPLAN Notices, v.28 n.9, p.67-70, Sept. 1993
+Sungdo Moon , Mary W. Hall , Brian R. Murphy, Predicated array data-flow analysis for run-time parallelization, Proceedings of the 12th international conference on Supercomputing, p.204-211, July 1998, Melbourne, Australia
+Karthik Gargi, A sparse algorithm for predicated global value numbering, ACM SIGPLAN Notices, v.37 n.5, May 2002
+Glenn Ammons , James R. Larus, Improving data-flow analysis with path profiles, ACM SIGPLAN Notices, v.33 n.5, p.72-84, May 1998
+Daniel Luna , Mikael Pettersson , Konstantinos Sagonas, Efficiently compiling a functional language on AMD64: the HiPE experience, Proceedings of the 7th ACM SIGPLAN international conference on Principles and practice of declarative programming, p.176-186, July 11-13, 2005, Lisbon, Portugal
+Dipanwita Sarkar , Oscar Waddell , R. Kent Dybvig, A nanopass infrastructure for compiler education, ACM SIGPLAN Notices, v.39 n.9, September 2004
+Sumit Gulwani , George C. Necula, A polynomial-time algorithm for global value numbering, Science of Computer Programming, v.64 n.1, p.97-114, January, 2007
+Frank Tip, Infeasible paths in object-oriented programs, Science of Computer Programming, v.97 n.P1, p.91-97, January 2015
+Sumit Gulwani , George C. Necula, Global value numbering using random interpretation, ACM SIGPLAN Notices, v.39 n.1, p.342-352, January 2004
+Ling Fang , Masataka Sassa, Generating Java Compiler Optimizers Using Bidirectional CTL, Electronic Notes in Theoretical Computer Science (ENTCS), v.190 n.4, p.49-63, November, 2007
+Mikhail Sosonkin , Gleb Naumovich , Nasir Memon, Obfuscation of design intent in object-oriented applications, Proceedings of the 3rd ACM workshop on Digital rights management, October 27-27, 2003, Washington, DC, USA
+Ron Cytron , Reid Gershbein, Efficient accommodation of may-alias information in SSA form, ACM SIGPLAN Notices, v.28 n.6, p.36-45, June 1993
+Daniel Luna , Mikael Pettersson , Konstantinos Sagonas, HiPE on AMD64, Proceedings of the 2004 ACM SIGPLAN workshop on Erlang, p.38-47, September 22-22, 2004, Snowbird, Utah, USA
+Peter Vanbroekhoven , Gerda Janssens , Maurice Bruynooghe , Henk Corporaal , Francky Catthoor, Advanced copy propagation for arrays, ACM SIGPLAN Notices, v.38 n.7, July 2003
+Christian Andersson, Register allocation by optimal graph coloring, Proceedings of the 12th international conference on Compiler construction, April 07-11, 2003, Warsaw, Poland
+Shuhan Ding , Soner Önder, Unrestricted code motion: a program representation and transformation algorithms based on future values, Proceedings of the 19th joint European conference on Theory and Practice of Software, international conference on Compiler Construction, March 20-28, 2010, Paphos, Cyprus
+Christoph Erhardt , Simon Kuhnle , Isabella Stilkerich , Wolfgang Schröder-Preikschat, The final Frontier: Coping With Immutable Data in a JVM for Embedded Real-Time Systems, Proceedings of the 12th International Workshop on Java Technologies for Real-time and Embedded Systems, October 13-14, 2014, Niagara Falls, NY, USA
+Ron K. Cytron , Jeanne Ferrante, Efficiently computing Φ-nodes on-the-fly, ACM Transactions on Programming Languages and Systems (TOPLAS), v.17 n.3, p.487-506, May 1995
+Silvian Calman , Jianwen Zhu, Increasing the Scope and Resolution of Interprocedural Static Single Assignment, Proceedings of the 16th International Symposium on Static Analysis, August 09-11, 2009, Los Angeles, CA
+Jong-Deok Choi , R. Cytron , J. Ferrante, On the Efficient Engineering of Ambitious Program Analysis, IEEE Transactions on Software Engineering, v.20 n.2, p.105-114, February 1994
+Arthur Stoutchinin , Francois de Ferriere, Efficient static single assignment form for predication, Proceedings of the 34th annual ACM/IEEE international symposium on Microarchitecture, December 01-05, 2001, Austin, Texas
+Maxime Chevalier-Boisvert , Erick Lavoie , Marc Feeley , Bruno Dufour, Bootstrapping a self-hosted research virtual machine for JavaScript: an experience report, ACM SIGPLAN Notices, v.47 n.2, February 2012
+Péricles Rafael Oliveira Alves , Igor Rafael de Assis Costa , Fernando Magno Quintão Pereira , Eduardo Lage Figueiredo, Parameter based constant propagation, Proceedings of the 16th Brazilian conference on Programming Languages, p.57-71, September 23-28, 2012, Natal, Brazil
+Masataka Sassa , Yo Ito , Masaki Kohama, Comparison and evaluation of back-translation algorithms for static single assignment forms, Computer Languages, Systems and Structures, v.35 n.2, p.173-195, July, 2009
+Arun Lakhotia, Constructing call multigraphs using dependence graphs, Proceedings of the 20th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.273-284, March 1993, Charleston, South Carolina, United States
+Markus Müller-Olm , Oliver Rüthing, On the Complexity of Constant Propagation, Proceedings of the 10th European Symposium on Programming Languages and Systems, p.190-205, April 02-06, 2001
+Shuhan Ding , John Earnest , Soner Önder, Single Assignment Compiler, Single Assignment Architecture: Future Gated Single Assignment Form*; Static Single Assignment with Congruence Classes, Proceedings of Annual IEEE/ACM International Symposium on Code Generation and Optimization, February 15-19, 2014, Orlando, FL, USA
+Tito Autrey , Michael Wolfe, Initial Results for Glacial Variable Analysis, International Journal of Parallel Programming, v.26 n.1, p.43-64, Feb., 1, 1998
+Carl McConnell , Ralph E. Johnson, Using static single assignment form in a code optimizer, ACM Letters on Programming Languages and Systems (LOPLAS), v.1 n.2, p.152-160, June 1992
+Preston Briggs , Keith D. Cooper , Linda Torczon, Rematerialization, ACM SIGPLAN Notices, v.27 n.7, p.311-321, July 1992
+Keith D. Cooper , Nathaniel McIntosh, Enhanced code compression for embedded RISC processors, ACM SIGPLAN Notices, v.34 n.5, p.139-149, May 1999
+Subhajit Roy , Y. N. Srikant, The hot path SSA form: extending the static single assignment form for speculative optimizations, Proceedings of the 19th joint European conference on Theory and Practice of Software, international conference on Compiler Construction, March 20-28, 2010, Paphos, Cyprus
+Robert A. Ballance , Anthony J. Giancola , George F. Luger , Timothy J. Ross, A Framework-Based Environment for Object-Oriented Scientific Codes, Scientific Programming, v.2 n.4, p.111-121, December 1993
+Karina Olmos , Eelco Visser, Composing source-to-source data-flow transformations with rewriting strategies and dependent dynamic rewrite rules, Proceedings of the 14th international conference on Compiler Construction, April 04-08, 2005, Edinburgh, UK
+Hakjoo Oh , Kwangkeun Yi, Access-Based localization with bypassing, Proceedings of the 9th Asian conference on Programming Languages and Systems, December 05-07, 2011, Kenting, Taiwan
+Isabella Mastroeni, Numerical Power Analysis, Proceedings of the Second Symposium on Programs as Data Objects, p.117-137, May 21-23, 2001
+C. Scott Ananian , Martin Rinard, Data size optimizations for java programs, ACM SIGPLAN Notices, v.38 n.7, July 2003
+Keith D. Cooper , Alexander Grosul , Timothy J. Harvey , Steve Reeves , Devika Subramanian , Linda Torczon , Todd Waterman, Exploring the structure of the space of compilation sequences using randomized search algorithms, The Journal of Supercomputing, v.36 n.2, p.135-151, May       2006
+Matthew B. Dwyer , Lori A. Clarke, A flexible architecture for building data flow analyzers, Proceedings of the 18th international conference on Software engineering, p.554-564, March 25-29, 1996, Berlin, Germany
+Paul R. Carini , Michael Hind, Flow-sensitive interprocedural constant propagation, ACM SIGPLAN Notices, v.30 n.6, p.23-31, June 1995
+Viktor Vafeiadis , Chinmay Narayan, Relaxed separation logic: a program logic for C11 concurrency, ACM SIGPLAN Notices, v.48 n.10, October 2013
+Andrew Begel , Steven McCanne , Susan L. Graham, BPF+: exploiting global data-flow optimization in a generalized packet filter architecture, ACM SIGCOMM Computer Communication Review, v.29 n.4, p.123-134, Oct. 1999
+Keith D. Cooper , Philip J. Schielke , Devika Subramanian, Optimizing for reduced code space using genetic algorithms, ACM SIGPLAN Notices, v.34 n.7, p.1-9, July 1999
+Todd L. Veldhuizen , Andrew Lumsdaine, Guaranteed Optimization: Proving Nullspace Properties of Compilers, Proceedings of the 9th International Symposium on Static Analysis, p.263-277, September 17-20, 2002
+Peng Tu , David Padua, Efficient building and placing of gating functions, ACM SIGPLAN Notices, v.30 n.6, p.47-55, June 1995
+Sandhya Seshadri , Michael S. Hsiao, Behavioral-Level DFT via Formal Operator Testability Measures, Journal of Electronic Testing: Theory and Applications, v.18 n.6, p.595-611, December 2002
+Cliff Click , Michael Paleczny, A simple graph-based intermediate representation, ACM SIGPLAN Notices, v.30 n.3, p.35-49, March 1993
+Teck Bok Tok , Samuel Z. Guyer , Calvin Lin, Efficient flow-sensitive interprocedural data-flow analysis in the presence of pointers, Proceedings of the 15th international conference on Compiler Construction, March 30-31, 2006, Vienna, Austria
+Aditya Thakur , R. Govindarajan, Comprehensive path-sensitive data-flow analysis, Proceedings of the 6th annual IEEE/ACM international symposium on Code generation and optimization, April 05-09, 2008, Boston, MA, USA
+Cliff Click, Global code motion/global value numbering, ACM SIGPLAN Notices, v.30 n.6, p.246-257, June 1995
+Peter F. Sweeney , Frank Tip, A study of dead data members in C++ applications, ACM SIGPLAN Notices, v.33 n.5, p.324-332, May 1998
+Bjorn De Sutter , Bruno De Bus , Koen De Bosschere , Saumya Debray, Combining Global Code and Data Compaction, ACM SIGPLAN Notices, v.36 n.8, p.29-38, Aug. 2001
+Allen Leung , Lal George, Static single assignment form for machine code, ACM SIGPLAN Notices, v.34 n.5, p.204-214, May 1999
+Luiz De Rose , David Padua, Techniques for the translation of MATLAB programs into Fortran 90, ACM Transactions on Programming Languages and Systems (TOPLAS), v.21 n.2, p.286-323, March 1999
+Glenn Ammons , James R. Larus, Improving data-flow analysis with path profiles, ACM SIGPLAN Notices, v.39 n.4, April 2004
+Matthew Arnold , Barbara G. Ryder, Thin Guards: A Simple and Effective Technique for Reducing the Penalty of Dynamic Class Loading, Proceedings of the 16th European Conference on Object-Oriented Programming, p.498-524, June 10-14, 2002
+James Ezick, An optimizing compiler for batches of temporal logic formulas, ACM SIGSOFT Software Engineering Notes, v.29 n.4, July 2004
+Sungdo Moon , Byoungro So , Mary W. Hall , Brian R. Murphy, A Case for Combining Compile-Time and Run-Time Parallelization, Selected Papers from the 4th International Workshop on Languages, Compilers, and Run-Time Systems for Scalable Computers, p.91-106, May 28-30, 1998
+Tong Chen , Haibo Lin , Tao Zhang, Orchestrating data transfer for the cell/B.E. processor, Proceedings of the 22nd annual international conference on Supercomputing, June 07-12, 2008, Island of Kos, Greece
+Keith D. Cooper , Alexander Grosul , Timothy J. Harvey , Steven Reeves , Devika Subramanian , Linda Torczon , Todd Waterman, ACME: adaptive compilation made efficient, ACM SIGPLAN Notices, v.40 n.7, July 2005
+Vijay D'Silva , Leopold Haller , Daniel Kroening, Satisfiability solvers are static analysers, Proceedings of the 19th international conference on Static Analysis, September 11-13, 2012, Deauville, France
+Nomair A. Naeem , Ondrej Lhoták, Efficient alias set analysis using SSA form, Proceedings of the 2009 international symposium on Memory management, June 19-20, 2009, Dublin, Ireland
+Siliang Li , Gang Tan, JET: exception checking in the Java native interface, ACM SIGPLAN Notices, v.46 n.10, October 2011
+Preston Briggs , Keith D. Cooper, Effective partial redundancy elimination, ACM SIGPLAN Notices, v.29 n.6, p.159-170, June 1994
+Ron K. Cytron , Jeanne Ferrante , Fran Allen , Michael Burke , Philippe Charles, Author retrospective for PTRAN's analysis and optimization techniques, ACM International Conference on Supercomputing 25th Anniversary Volume, June 10-13, 2014, Munich, Germany
+John Aycock , R. Nigel Horspool, Simple Generation of Static Single-Assignment Form, Proceedings of the 9th International Conference on Compiler Construction, p.110-124, March 25-April 02, 2000
+Michael Wolfe, Beyond induction variables, ACM SIGPLAN Notices, v.27 n.7, p.162-174, July 1992
+Riccardo Pucella , Fred B. Schneider, Independence from obfuscation: A semantic framework for diversity, Journal of Computer Security, v.18 n.5, p.701-749, September 2010
+Benoit Boissinot , Philip Brisk , Alain Darte , Fabrice Rastello, SSI Properties Revisited, ACM Transactions on Embedded Computing Systems (TECS), v.11S n.1, p.1-23, June 2012
+David Callahan , Keith D. Cooper , Ken Kennedy , Linda Torczon, Interprocedural constant propagation, ACM SIGPLAN Notices, v.39 n.4, April 2004
+Richard Johnson , Keshav Pingali, Dependence-based program analysis, ACM SIGPLAN Notices, v.28 n.6, p.78-89, June 1993
+Mackale Joyner , Zoran Budimlić , Vivek Sarkar, Subregion analysis and bounds check elimination for high level arrays, Proceedings of the 20th international conference on Compiler construction: part of the joint European conferences on theory and practice of software, March 26-April 03, 2011, Saarbrücken, Germany
+Nurit Dor , Tal Lev-Ami , Shay Litvak , Mooly Sagiv , Dror Weiss, Customization change impact analysis for erp professionals via program slicing, Proceedings of the 2008 international symposium on Software testing and analysis, July 20-24, 2008, Seattle, WA, USA
+Diogo Nunes Sampaio , Elie Gedeon , Fernando Magno Quintão Pereira , Sylvain Collange, Spill code placement for SIMD machines, Proceedings of the 16th Brazilian conference on Programming Languages, p.12-26, September 23-28, 2012, Natal, Brazil
+Qiming Hou , Kun Zhou , Baining Guo, BSGP: bulk-synchronous GPU programming, ACM Transactions on Graphics (TOG), v.27 n.3, August 2008
+Isabella Stilkerich , Michael Strotz , Christoph Erhardt , Martin Hoffmann , Daniel Lohmann , Fabian Scheler , Wolfgang Schröder-Preikschat, A JVM for soft-error-prone embedded systems, ACM SIGPLAN Notices, v.48 n.5, May 2013
+Nathan Cooprider , John Regehr, Pluggable abstract domains for analyzing embedded software, ACM SIGPLAN Notices, v.41 n.7, July 2006
+Sorin Lerner , David Grove , Craig Chambers, Composing dataflow analyses and transformations, ACM SIGPLAN Notices, v.37 n.1, p.270-282, Jan. 2002
+Claus Brabrand , Márcio Ribeiro , Társis Tolêdo , Paulo Borba, Intraprocedural dataflow analysis for software product lines, Proceedings of the 11th annual international conference on Aspect-oriented Software Development, March 25-30, 2012, Potsdam, Germany
+L. Almagor , Keith D. Cooper , Alexander Grosul , Timothy J. Harvey , Steven W. Reeves , Devika Subramanian , Linda Torczon , Todd Waterman, Finding effective compilation sequences, ACM SIGPLAN Notices, v.39 n.7, July 2004
+Fred Chow , Sun Chan , Robert Kennedy , Shin-Ming Liu , Raymond Lo , Peng Tu, A new algorithm for partial redundancy elimination based on SSA form, ACM SIGPLAN Notices, v.32 n.5, p.273-286, May 1997
+Philip Brisk , Majid Sarrafzadeh, Interference graphs for procedures in static single information form are interval graphs, Proceedingsof the 10th international workshop on Software & compilers for embedded systems, April 20-20, 2007, Nice, France
+Jeffrey Fischer , Ranjit Jhala , Rupak Majumdar, Joining dataflow with predicates, ACM SIGSOFT Software Engineering Notes, v.30 n.5, September 2005
+Henrique Nazare Santos , Pericles Alves , Igor Costa , Fernando Magno Quintao Pereira, Just-in-time value specialization, Proceedings of the 2013 IEEE/ACM International Symposium on Code Generation and Optimization (CGO), p.1-11, February 23-27, 2013
+Jens Knoop , Oliver Rüthing , Bernhard Steffen, Partial dead code elimination, ACM SIGPLAN Notices, v.29 n.6, p.147-158, June 1994
+John Field , G. Ramalingam , Frank Tip, Parametric program slicing, Proceedings of the 22nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.379-392, January 23-25, 1995, San Francisco, California, USA
+Jens Knoop , Oliver Rüthing, Constant Propagation on the Value Graph: Simple Constants and Beyond, Proceedings of the 9th International Conference on Compiler Construction, p.94-109, March 25-April 02, 2000
+Nathan Dean Cooprider , John David Regehr, Offline compression for on-chip ram, ACM SIGPLAN Notices, v.42 n.6, June 2007
+Jason R. C. Patterson, Accurate static branch prediction by value range propagation, ACM SIGPLAN Notices, v.30 n.6, p.67-78, June 1995
+Petrik Clarberg , Robert Toth , Jon Hasselgren , Tomas Akenine-Möller, An optimizing compiler for automatic shader bounding, Proceedings of the 21st Eurographics conference on Rendering, June 28-30, 2010, Saarbrücken, Germany
+Sungdo Moon , Byoungro So , Mary W. Hall, Combining compile-time and run-time parallelization[1], Scientific Programming, v.7 n.3-4, p.247-260, August 1999
+Christoph Erhardt , Michael Stilkerich , Daniel Lohmann , Wolfgang Schröder-Preikschat, Exploiting static application knowledge in a Java compiler for embedded systems: a case study, Proceedings of the 9th International Workshop on Java Technologies for Real-Time and Embedded Systems, September 26-28, 2011, York, United Kingdom
+Helge Bahmann , Nico Reissmann , Magnus Jahre , Jan Christian Meyer, Perfect Reconstructability of Control Flow from Demand Dependence Graphs, ACM Transactions on Architecture and Code Optimization (TACO), v.11 n.4, p.1-25, January 2015
+Preston Briggs , Keith D. Cooper , Linda Torczon, Improvements to graph coloring register allocation, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.3, p.428-455, May 1994
+Sungdo Moon , Mary W. Hall, Evaluation of predicated array data-flow analysis for automatic parallelization, ACM SIGPLAN Notices, v.34 n.8, p.84-95, Aug. 1999
+Jaejin Lee , David A. Padua , Samuel P. Midkiff, Basic compiler algorithms for parallel programs, ACM SIGPLAN Notices, v.34 n.8, p.1-12, Aug. 1999
+Michael Burke , Linda Torczon, Interprocedural optimization: eliminating unnecessary recompilation, ACM Transactions on Programming Languages and Systems (TOPLAS), v.15 n.3, p.367-399, July 1993
+Takaaki Tateishi , Marco Pistoia , Omer Tripp, Path- and index-sensitive string analysis based on monadic second-order logic, Proceedings of the 2011 International Symposium on Software Testing and Analysis, July 17-21, 2011, Toronto, Ontario, Canada
+Isabella Mastroeni, Algebraic Power Analysis by Abstract Interpretation, Higher-Order and Symbolic Computation, v.17 n.4, p.297-345, December  2004
+Keith D. Cooper , Li Xu, An efficient static analysis algorithm to detect redundant memory operations, ACM SIGPLAN Notices, v.38 n.2 supplement, p.97-107, February 2003
+Michael D. Adams , Andrew W. Keep , Jan Midtgaard , Matthew Might , Arun Chauhan , R. Kent Dybvig, Flow-sensitive type recovery in linear-log time, ACM SIGPLAN Notices, v.46 n.10, October 2011
+Robert Kennedy , Sun Chan , Shin-Ming Liu , Raymond Lo , Peng Tu , Fred Chow, Partial redundancy elimination in SSA form, ACM Transactions on Programming Languages and Systems (TOPLAS), v.21 n.3, p.627-676, May 1999
+Stefano Dissegna , Francesco Logozzo , Francesco Ranzato, An Abstract Interpretation-Based Model of Tracing Just-in-Time Compilation, ACM Transactions on Programming Languages and Systems (TOPLAS), v.38 n.2, p.1-50, January 2016
+Varun Srivastava , Michael D. Bond , Kathryn S. McKinley , Vitaly Shmatikov, A security policy oracle: detecting security holes using multiple API implementations, ACM SIGPLAN Notices, v.46 n.6, June 2011
+Esben Andreasen , Anders Møller, Determinacy in static analysis for jQuery, Proceedings of the 2014 ACM International Conference on Object Oriented Programming Systems Languages & Applications, October 20-24, 2014, Portland, Oregon, USA
+Ganesh Sittampalam , Oege de Moor , Ken Friis Larsen, Incremental execution of transformation specifications, ACM SIGPLAN Notices, v.39 n.1, p.26-38, January 2004
+Michael Hind , Anthony Pioli, Which pointer analysis should I use?, ACM SIGSOFT Software Engineering Notes, v.25 n.5, p.113-123, Sept. 2000
+Claus Brabrand , Márcio Ribeiro , Társis Tolêdo , Johnni Winther , Paulo Borba, Intraprocedural dataflow analysis for software product lines, Transactions on Aspect-Oriented Software Development X, Springer-Verlag, Berlin, Heidelberg, 2013
+Claude-Pierre Jeannerod , Christophe Mouilleron , Jean-Michel Muller , Guillaume Revy , Christian Bertin , Jingyan Jourdan-Lu , Hervé Knochel , Christophe Monat, Techniques and tools for implementing IEEE 754 floating-point arithmetic on VLIW integer processors, Proceedings of the 4th International Workshop on Parallel and Symbolic Computation, July 21-23, 2010, Grenoble, France
+Ben Wiedermann , William R. Cook, Extracting queries by static analysis of transparent persistence, ACM SIGPLAN Notices, v.42 n.1, January 2007
+Eric Bodden , Társis Tolêdo , Márcio Ribeiro , Claus Brabrand , Paulo Borba , Mira Mezini, SPLLIFT: statically analyzing software product lines in minutes instead of years, ACM SIGPLAN Notices, v.48 n.6, June 2013
+Arie van Deursen , Leon Moonen, Documenting software systems using types, Science of Computer Programming, v.60 n.2, p.205-220, April 2006
+Takaaki Tateishi , Marco Pistoia , Omer Tripp, Path- and index-sensitive string analysis based on monadic second-order logic, ACM Transactions on Software Engineering and Methodology (TOSEM), v.22 n.4, p.1-33, October 2013
+James Ian Johnson , David Van Horn, Abstracting abstract control, Proceedings of the 10th ACM Symposium on Dynamic languages, October 20-24, 2014, Portland, Oregon, USA
+Saverio Perugini , Naren Ramakrishnan, Program transformations for information personalization, Computer Languages, Systems and Structures, v.36 n.3, p.223-249, October, 2010
+Yuan-Shin Hwang_cor , Joel Saltz, Interprocedural definition-use chains of dynamic pointer-linked data structures, Scientific Programming, v.11 n.1, p.3-37, January 2003
+Hakjoo Oh , Kihong Heo , Wonchan Lee , Woosuk Lee , Kwangkeun Yi, Design and implementation of sparse global analyses for C-like languages, ACM SIGPLAN Notices, v.47 n.6, June 2012
+Sviatoslav Pestov , Daniel Ehrenberg , Joe Groff, Factor: a dynamic stack-based programming language, ACM SIGPLAN Notices, v.45 n.12, December 2010
+Inki Hong , Miodrag Potkonjak , Ramesh Karri, Power optimization using divide-and-conquer techniques for minimization of the number of operations, ACM Transactions on Design Automation of Electronic Systems (TODAES), v.4 n.4, p.405-429, Oct. 1999
+Martin Bravenboer , Arthur van Dam , Karina Olmos , Eelco Visser, Program Transformation with Scoped Dynamic Rewrite Rules, Fundamenta Informaticae, v.69 n.1-2, p.123-178, January 2006
+Martin Bravenboer , Arthur van Dam , Karina Olmos , Eelco Visser, Program Transformation with Scoped Dynamic Rewrite Rules, Fundamenta Informaticae, v.69 n.1-2, p.123-178, January 2006
+Olivier Danvy, A new one-pass transformation into monadic normal form, Proceedings of the 12th international conference on Compiler construction, April 07-11, 2003, Warsaw, Poland
+Hakjoo Oh , Kihong Heo , Wonchan Lee , Woosuk Lee , Daejun Park , Jeehoon Kang , Kwangkeun Yi, Global Sparse Analysis Framework, ACM Transactions on Programming Languages and Systems (TOPLAS), v.36 n.3, p.1-44, September 2014
+Ron Cytron , Jeanne Ferrante , Barry K. Rosen , Mark N. Wegman , F. Kenneth Zadeck, Efficiently computing static single assignment form and the control dependence graph, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.4, p.451-490, Oct. 1991
+Sara Kalvala , Richard Warburton , David Lacey, Program transformations using temporal logic side conditions, ACM Transactions on Programming Languages and Systems (TOPLAS), v.31 n.4, p.1-48, May 2009
+Keith D. Cooper , L. Taylor Simpson , Christopher A. Vick, Operator strength reduction, ACM Transactions on Programming Languages and Systems (TOPLAS), v.23 n.5, p.603-625, September 2001
+Bjorn De Sutter , Bruno De Bus , Koen De Bosschere, Link-time binary rewriting techniques for program compaction, ACM Transactions on Programming Languages and Systems (TOPLAS), v.27 n.5, p.882-945, September 2005
+James Stanier , Des Watson, Intermediate representations in imperative compilers: A survey, ACM Computing Surveys (CSUR), v.45 n.3, p.1-27, June 2013
+Michael Hind , Michael Burke , Paul Carini , Jong-Deok Choi, Interprocedural pointer alias analysis, ACM Transactions on Programming Languages and Systems (TOPLAS), v.21 n.4, p.848-894, July 1999
+Mohammad R. Haghighat , Constantine D. Polychronopoulos, Symbolic analysis for parallelizing compilers, ACM Transactions on Programming Languages and Systems (TOPLAS), v.18 n.4, p.477-518, July 1996
+Oliver Rüthing, Interacting code motion transformations: their impact and their complexity, Springer-Verlag, Berlin, Heidelberg, 1998
+Thomas Fahringer , Bernhard Scholz, Advanced symbolic analysis for compilers: new techniques and algorithms for symbolic program analysis and optimization, Springer-Verlag, Berlin, Heidelberg, 2003
+Charles Consel , Olivier Danvy, Tutorial notes on partial evaluation, Proceedings of the 20th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.493-501, March 1993, Charleston, South Carolina, USA
+Jens Knoop, Optimal interprocedural program optimization: a new framework and its application, Springer-Verlag, Berlin, Heidelberg, 1998
+David F. Bacon , Susan L. Graham , Oliver J. Sharp, Compiler transformations for high-performance computing, ACM Computing Surveys (CSUR), v.26 n.4, p.345-420, Dec. 1994
+Keith Cooper , Linda Torczon, Engineering a Compiler: International Student Edition, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2003
+Matthew M. Huntbach , Graem A. Ringwood, Agent-oriented programming: from prolog to guarded definite clauses, Springer-Verlag, Berlin, Heidelberg, 1999

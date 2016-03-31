@@ -1,0 +1,28 @@
+APPEL, A. W., DUBA, B. F., AND MACQUEEN, D. B. 1988. Profiling in the presence of optimization and garbage collection. Tech. Rep. CS-TR-197-88, Dept. of Computer Science, Princeton Univ., Princeton, N.J.
+Lennart Augustsson, Implementing Haskell overloading, Proceedings of the conference on Functional programming languages and computer architecture, p.65-73, June 09-11, 1993, Copenhagen, Denmark[doi>10.1145/165180.165191]
+L. Augustsson , T. Johnsson, The Chalmers lazy ML-compiler, The Computer Journal, v.32 n.2, p.127-141, April 1989[doi>10.1093/comjnl/32.2.127]
+Jon Louis Bentley, Writing efficient programs, Prentice-Hall, Inc., Upper Saddle River, NJ, 1982
+CLACK, C., CLAYMAN, S., AND PARROTT, D. 1995. Lexical profiling: Theory and practice. J. Funct. Program. 5, 2, 225-277.
+John Fairbairn , Stuart Wray, TIM: A simple, lazy abstract machine to execute supercombinators, Proc. of a conference on Functional programming languages and computer architecture, p.34-45, October 1987, Portland, Oregon, USA
+GRAHAM, S. L., KESSLER, P. B., AND McKuSICK, M.K. 1983. An execution profiler for modular programs. Softw. Pract. F, xper. 13, 8, 671-685.
+Cordelia V. Hall , Kevin Hammond , Simon L. Peyton Jones , Philip Wadler, Type Classes in Haskell, Proceedings of the 5th European Symposium on Programming: Programming Languages and Systems, p.241-256, April 11-13, 1994
+Paul Hudak , Simon Peyton Jones , Philip Wadler , Brian Boutel , Jon Fairbairn , Joseph Fasel , María M. Guzmán , Kevin Hammond , John Hughes , Thomas Johnsson , Dick Kieburtz , Rishiyur Nikhil , Will Partain , John Peterson, Report on the programming language Haskell: a non-strict, purely functional language version 1.2, ACM SIGPLAN Notices, v.27 n.5, p.1-164, May 1992[doi>10.1145/130697.130699]
+HUTTON, G. 1992. Higher-order functions for parsing. J. Funct. Program. 2, 3, 323-343.
+INGALLS, D. 1972. The execution profile as a measurement tool. In Design and Optimization of Compilers, R. Rustin, Ed. Prentice-Hall, Englewood Cliffs, N.J., 107-128.
+JONES, M. P. 1992. Efficient implementation of type class overloading. Dept. of Computer Science, Oxford Univ., Oxford, U.K.
+KNUTH, D. E. 1971. An Empirical Study of FORTRAN Programs. Softw. Pract. Exper. 1, 105- 133.
+Y. Kozato , G. P. Otto, Benchmarking real-life image processing programs in lazy functional languages, Proceedings of the conference on Functional programming languages and computer architecture, p.18-27, June 09-11, 1993, Copenhagen, Denmark[doi>10.1145/165180.165187]
+John Launchbury, A natural semantics for lazy evaluation, Proceedings of the 20th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.144-154, March 1993, Charleston, South Carolina, USA[doi>10.1145/158511.158618]
+MORGAN, R. G. AND JARVIS, S. A. 1995. Profiling large-scale lazy functional programs. In the Proceedings of the High Performance Functional Computing Workshop, A. P. Wim Bohm and J. T. Feo, Eds. Lawrence Livermore National Laboratory, Livermore, Calif., 222-234.
+MORGAN, R. G., GARIOLIANO, R., JARVIS, S. A., AND PARKER, B. S. 1994. Maintenance and development of large scale lazy functional programs. In the Dagstuhl Workshop on Functional Programming in the Real World. Dagstuhl, Saarbriicken, Germany.
+Will Partain, The nofib Benchmark Suite of Haskell Programs, Proceedings of the 1992 Glasgow Workshop on Functional Programming, p.195-202, July 06-08, 1992
+PEYTON JONES, S. L. 1992. Implementing lazy functional languages on stock hardware: The Spineless Tagless G-machine. J. Funct. Program. 2, 2, 127-202.
+PEYTON JONES, S. L., HALL, C. V., HAMMOND, K., PARTAIN, W. D., AND WADLER, P. L. 1993. The Glasgow Haskell compiler: A technical overview. In the Joint Framework for Information Technology (JFIT) Technical Conference Digest. SERC, Swindon, U.K., 249-257.
+Rt~JEMO, N. 1995. Garbage collection and memory efficiency in lazy functional languages. Ph.D. thesis, Dept. of Computing Science, Chalmers Univ., Chalmers, Sweden.
+Niklas Röjemo , Colin Runciman, Lag, drag, void and use—heap profiling and space-efficient compilation revisited, Proceedings of the first ACM SIGPLAN international conference on Functional programming, p.34-41, May 24-26, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/232627.232633]
+RUNCIMAN, C. AND R/SJEMO, N. 1996. New dimensions in heap profiling. J. Funct. Program. 6, 4, 587-620.
+RUNCIMAN, C. AND WAKELING, D. 1993. Heap profiling of lazy functional programs. J. Funct. Program. 3, 2, 217-245.
+SANSOM, P. M. 1994. Time profiling a lazy functional compiler. In Functional Programming, Glasgow 1993, K. Hammond and J. O'Donnell, Eds.,Workshops in Computing. Springer-Verlag, Berlin, 252-264.
+SANTOS, A. 1995. Compilation by transformation in non-strict functional languages. Ph.D. thesis, Res. Rep. FP-1995-17, Dept. of Computing Science, Univ. of Glasgow, Scotland.
+Peter Sestoft, Deriving a lazy abstract machine, Journal of Functional Programming, v.7 n.3, p.231-264, May 1997[doi>10.1017/S0956796897002712]
+P. Wadler , S. Blott, How to make ad-hoc polymorphism less ad hoc, Proceedings of the 16th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.60-76, January 11-13, 1989, Austin, Texas, USA[doi>10.1145/75277.75283]

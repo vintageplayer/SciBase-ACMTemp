@@ -1,0 +1,37 @@
+Alfred V. Aho , Ravi Sethi , Jeffrey D. Ullman, Compilers: principles, techniques, and tools, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+Andrew W. Appel, Compiling with continuations, Cambridge University Press, New York, NY, 1992
+A. W. Appel , T. Jim, Continuation-passing, closure-passing style, Proceedings of the 16th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.293-302, January 11-13, 1989, Austin, Texas, USA[doi>10.1145/75277.75303]
+Lennart Augustsson, A compiler for lazy ML, Proceedings of the 1984 ACM Symposium on LISP and functional programming, p.218-227, August 06-08, 1984, Austin, Texas, USA[doi>10.1145/800055.802038]
+Andrew Edward Ayers, Abstract analysis and optimization of scheme, Massachusetts Institute of Technology, Cambridge, MA, 1993
+Anders Bondorf, Automatic autoprojection of higher order recursive equations, Science of Computer Programming, v.17 n.1-3, p.3-34, Dec. 1991[doi>10.1016/0167-6423(91)90035-V]
+Patrick Cousot , Radhia Cousot, Abstract interpretation: a unified lattice model for static analysis of programs by construction or approximation of fixpoints, Proceedings of the 4th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.238-252, January 17-19, 1977, Los Angeles, California[doi>10.1145/512950.512973]
+FLANAGAN, C. AND FELLEISEN, M. 1995. Set-based analysis for full scheme and its use in softtyping. Tech. Rep. COMP TR95-253, Dept. of Computer Science, Rice Univ., Houston, Tex. Oct.
+FLOY, R. W. 1967. Assigning meanings to programs. In Proceedings of the Symposium on Applied Mathematics. American Mathematical Society, Providence, R.I.
+Pascal Fradet , Daniel Le Métayer, Compilation of functional languages by program transformation, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.1, p.21-51, Jan. 1991[doi>10.1145/114005.102805]
+HANNAN, J. 1995. Type systems for closure conversion. In Participants' Proceedings of the Workshop on Types for Program Analysis. Computer Science Dept., Aarhus Univ., Denmark, 48-62. Available as DAIMI PB-493.
+Nevin Charles Heintze, Set based program analysis, Carnegie Mellon University, Pittsburgh, PA, 1992
+C. A. R. Hoare, An axiomatic basis for computer programming, Communications of the ACM, v.12 n.10, p.576-580, Oct. 1969[doi>10.1145/363235.363259]
+Neil D. Jones, Flow Analysis of Lambda Expressions (Preliminary Version), Proceedings of the 8th Colloquium on Automata, Languages and Programming, p.114-128, July 13-17, 1981
+Neil D. Jones , Steven S. Muchnick, A flexible approach to interprocedural data flow analysis and programs with recursive data structures, Proceedings of the 9th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.66-74, January 25-27, 1982, Albuquerque, New Mexico[doi>10.1145/582153.582161]
+Gary A. Kildall, A unified approach to global program optimization, Proceedings of the 1st annual ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.194-206, October 01-03, 1973, Boston, Massachusetts[doi>10.1145/512927.512945]
+David Andrew Kranz , Paul Hudak, Orbit: an optimizing compiler for scheme, Yale University, New Haven, CT, 1988
+LANDIN, P. J. 1964. The mechanical evaluation of expressions. Comput. J. 6, 4, 308-320.
+Yasuhiko Minamide , Greg Morrisett , Robert Harper, Typed closure conversion, Proceedings of the 23rd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.271-283, January 21-24, 1996, St. Petersburg Beach, Florida, USA[doi>10.1145/237721.237791]
+Flemming Nielson, Program transformations in a denotational setting, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.3, p.359-379, July 1985[doi>10.1145/3916.3917]
+Jens Palsberg , Michael I. Schwartzbach, Object-oriented type systems, John Wiley and Sons Ltd., Chichester, 1994
+Jens Palsberg , Michael I. Schwartzbach, Safety analysis versus type inference, Information and Computation, v.118 n.1, p.128-141, April 1995[doi>10.1006/inco.1995.1058]
+PLOTKIN, G. D. 1975. Call-by-name, call-by-value and the h-calculus. Theor. Comput. Sci. 1, 125-159.
+Amr Sabry , Matthias Felleisen, Is continuation-passing useful for data flow analysis?, Proceedings of the ACM SIGPLAN 1994 conference on Programming language design and implementation, p.1-12, June 20-24, 1994, Orlando, Florida, USA[doi>10.1145/178243.178244]
+SESTOFT, P. 1988. Replacing function parameters by global variables. M.S. thesis, DIKU, Univ. of Copenhagen.
+SESTOFT, P. 1991. Analysis and efficient implementation of functional programs. Ph.D. thesis, DIKU, Univ. of Copenhagen, Denmark.
+SHAO, Z. AND APPEL, A. W. 1994. Space-efficient closure representations. Tech. Rep. CS-TR- 454-94, Princeton Univ., Princeton, N.J. Mar.
+Olin Grigsby Shivers, Control-flow analysis of higher-order languages of taming lambda, Carnegie Mellon University, Pittsburgh, PA, 1991
+STECKLER, P. 1996. Detecting local channels in Distributed Poly/ML. LFCS Rep. ECS-LFCS- 96-340, Univ. of Edinburgh, Scotland. Jan.
+STECKLER, P. AND WAND, M. 1994a. Selective thunkification. In Proceedings of the 1st International Static Analysis Symposium, B. L. Charlier, Ed. Lecture Notes in Computer Science, vol. 864. Springer-Verlag, Berlin, 162-178.
+STECKLER, P. AND WAND, M. 1994b. Tracking available values for lightweight closures (summary). In Proceedings of the Atlantique Workshop on Semantics Based Program Manipulation, N. Jones and C. Talcott, Eds. DIKU, Univ. of Copenhagen, Denmark, 63-70. Available as DIKU Rep. No. 94//12.
+STECKLER, P. t. 1994. Correct higher-order program transformations. Ph.D. thesis, Northeastern Univ., Boston, Mass.
+Guy L. Steele, Jr., Rabbit: A Compiler for Scheme, Massachusetts Institute of Technology, Cambridge, MA, 1978
+Dan Stefanescu , Yuli Zhou, An equational framework for the flow analysis of higher order functional programs, Proceedings of the 1994 ACM conference on LISP and functional programming, p.318-327, June 27-29, 1994, Orlando, Florida, USA[doi>10.1145/182409.182497]
+Mitchell Wand, Correctness of Procedure Representations in Higher-Order Assembly Language, Proceedings of the 7th International Conference on Mathematical Foundations of Programming Semantics, p.294-311, March 25-28, 1991
+WAND, M. 1993. Specifying the correctness of binding-time analysis. J. Funct. Program. 3, 3, 365-387.
+Mitchell Wand , Paul Steckler, Selective and lightweight closure conversion, Proceedings of the 21st ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.435-445, January 16-19, 1994, Portland, Oregon, USA[doi>10.1145/174675.178044]

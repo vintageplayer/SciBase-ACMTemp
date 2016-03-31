@@ -1,0 +1,38 @@
+Ambuj K. Singh , James H. Anderson , Mohamed G. Gouda, The elusive atomic register revisited, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.206-221, August 10-12, 1987, Vancouver, British Columbia, Canada
+Michel Raynal, Sequential consistency as lazy linearizability, Proceedings of the fourteenth annual ACM symposium on Parallel algorithms and architectures, August 10-13, 2002, Winnipeg, Manitoba, Canada
+Ernesto Jiménez , Antonio Fernández , Vicent Cholvi, A parametrized algorithm that implements sequential, causal, and cache memory consistencies, Journal of Systems and Software, v.81 n.1, p.120-131, January, 2008
+Brad Lushman , Gordon V. Cormack, Proof of correctness of Ressel's adOPTed algorithm, Information Processing Letters, v.86 n.6, p.303-310, 30 June 2003
+Ambuj K. Singh, On reasoning with the global time assumption, ACM Letters on Programming Languages and Systems (LOPLAS), v.1 n.1, p.89-103, March 1992
+Yi Zhang , Ling Chen , Gencai Chen, Globally synchronized dead-reckoning with local lag for continuous distributed multiplayer games, Proceedings of 5th ACM SIGCOMM workshop on Network and system support for games, October 30-31, 2006, Singapore
+Jerzy Brzezinski , Dariusz Wawrzyniak, Consistency Requirements of Peterson's Algorithm for Mutual Exclusion of {n} Processes in a Distributed Shared Memory System, Proceedings of the th International Conference on Parallel Processing and Applied Mathematics-Revised Papers, p.202-209, September 09-12, 2001
+Vicent Cholvi , Josep Bernabéu, Relationships between memory models, Information Processing Letters, v.90 n.2, p.53-58, 30 April 2004
+Frank D. Anger, On Lamport's interprocessor communication model, ACM Transactions on Programming Languages and Systems (TOPLAS), v.11 n.3, p.404-417, July 1989
+Amos Israeli , Amnon Shaham, Time and space optimal implementations of atomic multi-writer register, Information and Computation, v.200 n.1, p.62-106, 1 July 2005
+Amos Israeli , Amnon Shaham, Time and space optimal implementations of atomic multi-writer register, Information and Computation, v.200 n.1, p.62-106, 1 July 2005
+Ambuj K. Singh , James H. Anderson , Mohamed G. Gouda, The elusive atomic register, Journal of the ACM (JACM), v.41 n.2, p.311-339, March 1994
+Eric Anderson , Xiaozhou Li , Mehul A. Shah , Joseph Tucek , Jay J. Wylie, What consistency does your key-value store actually provide?, Proceedings of the Sixth international conference on Hot topics in system dependability, p.1-16, October 03, 2010, Vancouver, BC, Canada
+Maurice Herlihy, On beyond registers: wait-free readable objects, Proceedings of the twentieth annual ACM symposium on Principles of distributed computing, p.26-42, August 2001, Newport, Rhode Island, United States
+Yehuda Afek , Geoffrey Brown , Michael Merritt, Lazy caching, ACM Transactions on Programming Languages and Systems (TOPLAS), v.15 n.1, p.182-205, Jan. 1993
+Alvaro E. Campos , Dionel A. Suazo, Data-race and concurrent-write freedom are undecidable, Computer Languages, Systems and Structures, v.29 n.1-2, p.1-13, April, 2003
+Wojciech Golab , Xiaozhou (Steve) Li , Alejandro López-Ortiz , Naomi Nishimura, Computing Weak Consistency in Polynomial Time: [Extended Abstract], Proceedings of the 2015 ACM Symposium on Principles of Distributed Computing, July 21-23, 2015, Donostia-San Sebastián, Spain
+Sibsankar Haldar , K. Vidyasankar, On specification of Read/Write shared variables, Journal of the ACM (JACM), v.54 n.6, p.31-es, December 2007
+Shlomi Dolev , Ted Herman, Dijkstra's Self-Stabilizing Algorithm in Unsupportive Environments, Proceedings of the 5th International Workshop on Self-Stabilizing Systems, p.67-81, October 01-02, 2001
+Reinder J. Bril, On cacheability of lock-variables in tightly coupled multiprocessor systems, ACM SIGARCH Computer Architecture News, v.15 n.3, p.25-32, June 1987
+C. A. Hoare , Bernhard Möller , Georg Struth , Ian Wehrman, Concurrent Kleene Algebra, Proceedings of the 20th International Conference on Concurrency Theory, September 01-04, 2009, Bologna, Italy
+James H. Anderson, Composite registers, Distributed Computing, v.6 n.3, p.141-154, April 1993
+M. P. Herlihy , J. M. Wing, Axioms for concurrent objects, Proceedings of the 14th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.13-26, January 21-23, 1987, Munich, West Germany
+Mustaque Ahamad , Rida A. Bazzi , Ranjit John , Prince Kohli , Gil Neiger, The power of processor consistency, Proceedings of the fifth annual ACM symposium on Parallel algorithms and architectures, p.251-260, June 30-July 02, 1993, Velen, Germany
+Wojciech Golab , Xiaozhou Li , Mehul A. Shah, Analyzing consistency properties for fun and profit, Proceedings of the 30th annual ACM SIGACT-SIGOPS symposium on Principles of distributed computing, June 06-08, 2011, San Jose, California, USA
+Alvaro E. Campos , Juan E. Navarro, A page-coherent, causally consistent protocol for distributed shared memory, Journal of Systems and Software, v.72 n.3, p.305-319, August 2004
+André Schiper, Group communication: from practice to theory, Proceedings of the 32nd conference on Current Trends in Theory and Practice of Computer Science, January 21-27, 2006, Měřín, Czech Republic
+Yehuda Afek , Hagit Attiya , Danny Dolev , Eli Gafni , Michael Merritt , Nir Shavit, Atomic snapshots of shared memory, Journal of the ACM (JACM), v.40 n.4, p.873-890, Sept. 1993
+Divyakant Agrawal , Manhoi Choy , Hong Va Leong , Ambuj K. Singh, Mixed consistency: a model for parallel programming (extended abstract), Proceedings of the thirteenth annual ACM symposium on Principles of distributed computing, p.101-110, August 14-17, 1994, Los Angeles, California, United States
+Yehuda Afek , Danny Dolev , Hagit Attiya , Eli Gafni , Michael Merritt , Nir Shavit, Atomic snapshots of shared memory, Proceedings of the ninth annual ACM symposium on Principles of distributed computing, p.1-13, August 22-24, 1990, Quebec City, Quebec, Canada
+André Schiper, Dependable systems, Dependable Systems: software, computing, networks, Springer-Verlag, Berlin, Heidelberg, 2006
+Hagit Attiya , Jennifer L. Welch, Sequential consistency versus linearizability (extended abstract), Proceedings of the third annual ACM symposium on Parallel algorithms and architectures, p.304-315, July 21-24, 1991, Hilton Head, South Carolina, USA
+James H. Anderson, Multi-writer composite registers, Distributed Computing, v.7 n.4, p.175-195, May 1994
+Mustaque Ahamad , Rammohan Kordale, Scalable Consistency Protocols  for Distributed Services, IEEE Transactions on Parallel and Distributed Systems, v.10 n.9, p.888-903, September 1999
+Lisa Higham , Lillanne Jackson , Jalal Kawash, Specifying memory consistency of write buffer multiprocessors, ACM Transactions on Computer Systems (TOCS), v.25 n.1, p.1-es, February 2007
+Maurice P. Herlihy , Jeannette M. Wing, Linearizability: a correctness condition for concurrent objects, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.3, p.463-492, July 1990
+Wyatt Lloyd , Michael J. Freedman , Michael Kaminsky , David G. Andersen, Don't settle for eventual: scalable causal consistency for wide-area storage with COPS, Proceedings of the Twenty-Third ACM Symposium on Operating Systems Principles, October 23-26, 2011, Cascais, Portugal
+Hagit Attiya , Jennifer L. Welch, Sequential consistency versus linearizability, ACM Transactions on Computer Systems (TOCS), v.12 n.2, p.91-122, May 1994

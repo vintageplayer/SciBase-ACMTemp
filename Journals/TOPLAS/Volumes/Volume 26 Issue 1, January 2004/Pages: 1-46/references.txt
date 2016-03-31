@@ -1,0 +1,47 @@
+Hassan Aït-Kaci, Warren's abstract machine: a tutorial reconstruction, MIT Press, Cambridge, MA, 1991
+James F. Allen, Maintaining knowledge about temporal intervals, Communications of the ACM, v.26 n.11, p.832-843, Nov. 1983[doi>10.1145/182.358434]
+Krzysztof R. Apt, The Rough Guide to Constraint Propagation, Proceedings of the 5th International Conference on Principles and Practice of Constraint Programming, p.1-23, October 11-14, 1999
+Krzysztof R. Apt, The role of commutativity in constraint propagation algorithms, ACM Transactions on Programming Languages and Systems (TOPLAS), v.22 n.6, p.1002-1036, Nov. 2000[doi>10.1145/371880.371884]
+Franz Baader , Klaus U. Schulz, On the Combination of Symbolic Constraints, Solution Domains, and Constraint Solvers, Proceedings of the First International Conference on Principles and Practice of Constraint Programming, p.380-397, September 19-22, 1995
+Barth, P. and Bockmayr, A. 1996. Modelling 0-1 problems in CLP(PB). In 2nd International Conference on the Practical Application of Constraint Technology (PACT'96), M. Wallace, Ed. Prolog Management Group, London, U.K., 1--9.
+Frédéric Benhamou, Interval Constraint Logic Programming, Selected Papers from Constraint Programming: Basics and Trends, p.1-21, May 16-20, 1994
+Frédéric Benhamou , Frédéric Goualard , Laurent Granvilliers , Jean-François Puget, Revising hull and box consistency, Proceedings of the 1999 international conference on Logic programming, p.230-244, November 1999, Las Cruces, New Mexico, USA
+Benhamou, F. and Older, W. 1997. Applying interval arithmetic to real, integer and Boolean constraints. J. Logic Programm. 32, 1 (July), 1--24.
+Birkhoff, G. 1967. Lattice Theory, 3rd ed. Coloquium Publications, vol. XXV. American Mathematical Society, Providence RI.
+Stefano Bistarelli , Ugo Montanari , Francesca Rossi, Constraint solving over semirings, Proceedings of the 14th international joint conference on Artificial intelligence, p.624-630, August 20-25, 1995, Montreal, Quebec, Canada
+Mats Carlsson , Greger Ottosson , Björn Carlson, An Open-Ended Finite Domain Constraint Solver, Proceedings of the9th International Symposium on Programming Languages: Implementations, Logics, and Programs: Including a Special Trach on Declarative Programming Languages in Education, p.191-206, September 03-05, 1997
+Cleary, J. 1987. Logical arithmetic. Fut. Comput. Syst. 2, 2, 125--149.
+Philippe Codognet , Daniel Diaz, Boolean constraint solving using CLP(FD), Proceedings of the 1993 international symposium on Logic programming, p.525-539, December 1993, Vancouver, British Columbia, Canada
+Philippe Codognet , Daniel Diaz, clp(B): Combining Simplicity and Efficiency in Boolean Constraint Solving, Proceedings of the 6th International Symposium on Programming Language Implementation and Logic Programming, p.244-260, September 14-16, 1994
+Codognet, P. and Diaz, D. 1996a. Compiling constraints in clp(FD). J. Logic Programm. 27, 3, 185--226.
+Codognet, P. and Diaz, D. 1996b. A simple and efficient Boolean solver for constraint logic programming. J. Automat. Reason. 17, 1, 97--129.
+Davey, B. and Priestley, H. 1990. Introduction to Lattices and Order. Cambridge University Press, Cambridge, England.
+Daniel Diaz , Philippe Codognet, A minimal extension of the WAM for clp(FD), Proceedings of the tenth international conference on logic programming on Logic programming, p.774-790, August 1993, Budapest, Hungary
+Diaz, D. and Codognet, P. 2001. Design and implementation of the GNU prolog system. J. Funct. Logic Programm. 2001, 6 (Oct.).
+Fernández, A. 2000. clp(L) version 0.21, user manual. Available online at http://www.lcc.uma.es/∼afdez/generic.
+Fernández, A. 2002. A generic, collaborative framework for interval constraint solving. Ph.D. dissertation, E.T.S.I.I., Dpto. Lenguajes y Ciencias de la Computación, University of Málaga, Spain. English version available online at http://www.lcc.uma.es/∼afdez/papers.html.
+Fernández, A. and Hill, P. 1999a. Interval constraint solving over lattices using chaotic iterations. In ERCIM/COMPULOG Workshop on Constraints, K.Apt, A. Kakas, E. Monfroy, and F. Rossi, Eds. Dept., of Computer Science, University of Cyprus, Paphos, Cyprus. Available online at http://www.cwi.nl/ERCIM/WG/Constraints/Workshops/Workshop4/Program.
+Antonio J. Fernández , Patricia M. Hill, An Interval Lattice-Based Constraint Solving Framework for Lattices, Proceedings of the 4th Fuji International Symposium on Functional and Logic Programming, p.194-208, November 11-13, 1999
+Antonio J. Fernández , Patricia M. Hill, A Comparative Study of Eight Constraint Programming LanguagesOver the Boolean and Finite Domains, Constraints, v.5 n.3, p.275-301, July 2000[doi>10.1023/A:1009816801567]
+Frühwirth, T. 1998. Theory and practice of constraint handling rules. J. Logic Programm. 37, 95--138.
+Georget, Y. and Codognet, P. 1998. Compiling semiring-based constraints with clp(FD,S). In 4th International Conference on Principles and Practice of Constraint Programming (CP'98, Pisa, Italy), M. Maher and J.-F. Puget, Eds. Lecture Notes in Computer Science, vol. 1520. Springer-Verlag, Berlin, Germany, 205--219.
+Gervet, C. 1997. Interval propagation to reason about sets: Definition and implementation of a practical language. Constraints 1, 3, 191--244.
+Frédéric Benhamou, Interval Constraint Logic Programming, Selected Papers from Constraint Programming: Basics and Trends, p.1-21, May 16-20, 1994
+Hickey, T. 2000. CLIP: a CLP(Intervals) dialect for metalevel constraint solving. In 2nd International Workshop on Practical Aspects of Declarative Languages (PADL'2000, Boston, Massachusetts), E. Pontelli and V. Costa, Eds. Lecture Notes in Computer Science, vol. 1753. Springer-Verlag, Berlin, Germany, 200--214.
+Hofstedt, P. 2000. Better communication for tighter cooperation. In 1st International Conference on Computational Logic (CL'2000, London, U.K.), J. W. Lloyd, V. Dahl, U. Furbach, M. Kerber, K. Lau, C. Palamidessi, L. Pereira, Y. Sagiv, and P. J. Stuckey, Eds. Lecture Notes in Computer Science, vol. 1861. Springer-Verlag, Berlin, Germany, 342--357.
+If/Prolog. 1994. IF/Prolog V5.0A, Constraints Package. Siemens Nixdorf Informationssysteme AG, Munich, Germany.
+ISO/IEC. 1995. ISO/IEC 13211-1: 1995 Information Technology---Programming Languages---Prolog---Part 1: General Core. International Standard Organization, Geneva, Switzerland.
+Joxan Jaffar , Spiro Michaylov , Peter J. Stuckey , Roland H. C. Yap, The CLP(R) language and system, ACM Transactions on Programming Languages and Systems (TOPLAS), v.14 n.3, p.339-395, July 1992[doi>10.1145/129393.129398]
+Le Provost, T. and Wallace, M. 1993. Generalized constraint propagation over the CLP scheme. J. Logic Programm. 16, 3 (Aug.), 319--359.
+Lee, J. and van Emden, M. 1993. Interval computation as deduction in CHIP. Journal Logic Programm. (Special Issue on Constraint Logic Programming) 16, 3-4, 255--276.
+Moore, R. 1966. Interval Analysis. Prentice Hall, Englewood Cliffs, NJ.
+N'Dong, S. 1997. Prolog IV ou la programmation par contraintes selon PrologIA. In Sixièmes Journées Francophones de Programmation Logique et Programmation par Contraintes (JFPLC'97). Edition HERMES, Orléans, France, 235--238.
+Older, W. 1989. Interval arithmetic specification. Tech. Rep. Bell-Northern, Research Computing Research Laboratory, Ottawa, Ontario, Canada.
+William Older , André Vellino, Constraint arithmetic on real intervals, Constraint logic programming: selected research, MIT Press, Cambridge, MA, 1993
+Refalo, P. and Van Hentenryck, P. 1996. CLP(Rlin) revised. In Joint International Conference and Symposium on Logic Programming (JICSLP'96, Bonn, Germany), M. Maher, Ed. The MIT Press, Cambridge, MA, 22--36.
+Thomas Schiex , Helene Fargier , Gerard Verfaillie, Valued constraint satisfaction problems: hard and easy problems, Proceedings of the 14th international joint conference on Artificial intelligence, p.631-637, August 20-25, 1995, Montreal, Quebec, Canada
+Sicstus Manual. 1994. SICStus Prolog User's Manual, Release 3&num;5. The Intelligent Systems Laboratory, Swedish Institute of Computer Science. Web site: http://www.sics.se.
+Sidebottom, G. and Havens, W. 1992. Hierarchical arc consistency for disjoint real intervals in constraint logic programming. Computat. Intell. 8, 4, 601--623.
+Slavík, V. 1986. A note on the lattice of intervals of a lattice. Algebra Universalis 23, 1, 22--23.
+Van Hentenryck, P., Saraswat, V., and Deville, Y. 1998. Design, implementation and evaluation of the constraint language cc(FD). J. Logic Programm. 37, 1--3 (Oct.), 139--164.
+Walinsky, C. 1989. CLP(Σ*): Constraint logic programming with regular sets. In 6th International Conference on Logic Programming (ICLP'89, Lisbon, Portugal), G. Levi and M. Martelli, Eds. The MIT Press, Cambridge, MA, 181--196.

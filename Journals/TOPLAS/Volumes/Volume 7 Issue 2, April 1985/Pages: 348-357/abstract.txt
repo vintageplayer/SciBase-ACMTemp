@@ -1,0 +1,1 @@
+Given a general arithmetic expression, we find a computation binary tree representation inO(logn) time usingn/lognprocessors on a concurrent-read, exclusive-write, parallel random-access machine.A new algorithm is introduced for this purpose. Unlike previous serial and parallel solutions, it is not based on using a stack.

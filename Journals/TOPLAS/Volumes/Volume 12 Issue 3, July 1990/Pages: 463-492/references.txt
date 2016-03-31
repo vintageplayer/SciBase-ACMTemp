@@ -1,0 +1,46 @@
+AEADI, M., AND LAMPORT, L. The existence of refinement mappings. Tech. Rep. 29, DEC Systems Research Center, Aug. 1988.
+GOGUEN, J. A., THATCHER, J. W., WAGNER, E. G., AND WRIGHT, J.B. Abstract data types as initial algebras and correctness of data representations. In Proceedings of the Conference on Computer Graphics, Pattern Recognition and Data Structures (May 1975). ACM, New York, 1975, 89-93.
+Krzysztof R. Apt , Nissim Francez , Willem P. de Roever, A Proof System for Communicating Sequential Processes, ACM Transactions on Programming Languages and Systems (TOPLAS), v.2 n.3, p.359-385, July 1980[doi>10.1145/357103.357110]
+BAYER, R., AND SCHKOLNICK, M. Concurrency of operations on B-trees. Acta In{. 1, 1 (1977), 1-21.
+BIRKHOFF, G., AND LIPSON, J.D. Heterogeneous algebras. J. Comb. Theor. 8 (1970), 115-133.
+BISWAS, Z., AND BROWNE, J.C. Simultaneous update of priority structures. In Proceedings of the 1987 International Conference on Parallel Processing (St. Charles, Ill., 1987). 124-131.
+Stephen D. Brookes, An Axiomatic Treatment of a Parallel Programming Language, Proceedings of the Conference on Logic of Programs, p.41-60, June 17-19, 1985
+BURSTALL, R. M., AND GOGUEN, J. A. Putting theories together to make specifications. In Fifth International Joint Conference on Artificial Intelligence (Cambridge, Mass., Aug. 1977). 1045-1058. Invited paper.
+DEPARTMENT OF DEFENSE. Reference Manual for the ADA Programming Language. ANSI/ MIL-STD-1815A-1983, 1983.
+Hartmut Ehrig , B. Mahr, Fundamentals of Algebraic Specification I, Springer-Verlag New York, Inc., Secaucus, NJ, 1985
+ELLIS, C.S. Concurrent search and insertion in 2-3 trees. Acta Inf. 14 (1980), 63-86.
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+Ray Ford , Jim Calhoun, Concurrency control mechanisms and the serializability of concurrent tree algorithms, Proceedings of the 3rd ACM SIGACT-SIGMOD symposium on Principles of database systems, April 02-04, 1984, Waterloo, Ontario, Canada[doi>10.1145/588011.588020]
+GERTH, R., AND DEROEVER, W.P. Proving monitors revisited: A first step towards verifying object oriented systems. Fundamental Inf. 9 (1986), 371-400.
+Allan Gottlieb , Boris D. Lubachevsky , Larry Rudolph, Basic Techniques for the Efficient Coordination of Very Large Numbers of Cooperating Sequential Processors, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.2, p.164-189, April 1983[doi>10.1145/69624.357206]
+GUIBAS, L., AND SEDGEWICK, R. A dichromatic framework for balanced trees. In 19th ACM Symposium on Foundations of Computer Science (Providence, R.I., 1978). ACM, New York, 1978, 8-21.
+John Vogel Guttag, The specification and application to programming of abstract data types., 1975
+John V. Guttag , Ellis Horowitz , David R. Musser, Abstract data types and software validation, Communications of the ACM, v.21 n.12, p.1048-1064, Dec. 1978[doi>10.1145/359657.359666]
+GUTTAG, J. V., HORNING, J. Z., AND WING, J.M. Larch in five easy pieces. Tech. Rep. 5, DEC Systems Research Center, July 1985.
+GUTTAG, J. V., HORNING, J. J., AND WING, J.M. The Larch family of specification languages. IEEE Softw. 2, 5 (Sept. 1985), 24-36.
+M. P. Herlihy , J. M. Wing, Axioms for concurrent objects, Proceedings of the 14th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.13-26, January 21-23, 1987, Munich, West Germany[doi>10.1145/41625.41627]
+Maurice Herlihy, Dynamic quorum adjustment for partitioned data, ACM Transactions on Database Systems (TODS), v.12 n.2, p.170-194, June 1987[doi>10.1145/22952.22953]
+Maurice P. Herlihy, Impossibility and universality results for wait-free synchronization, Proceedings of the seventh annual ACM Symposium on Principles of distributed computing, p.276-290, August 15-17, 1988, Toronto, Ontario, Canada[doi>10.1145/62546.62593]
+C. A. R. Hoare, An axiomatic basis for computer programming, Communications of the ACM, v.12 n.10, p.576-580, Oct. 1969[doi>10.1145/363235.363259]
+HOARE, C. A.R. Proof of correctness of data representations. Acta Inf. 1, I (1972), 271-281.
+C. A. R. Hoare, Monitors: an operating system structuring concept, Communications of the ACM, v.17 n.10, p.549-557, Oct. 1974[doi>10.1145/355620.361161]
+C. A. R. Hoare, Communicating sequential processes, Communications of the ACM, v.21 n.8, p.666-677, Aug. 1978[doi>10.1145/359576.359585]
+John H. Howard, Proving monitors, Communications of the ACM, v.19 n.5, p.273-279, May 1976[doi>10.1145/360051.360079]
+Cliff B. Jones, Software Development: A Rigorous Approach, Prentice Hall PTR, Upper Saddle River, NJ, 1980
+Clyde P Kruskal , Larry Rudolph , Marc Snir, Efficient synchronization of multiprocessors with shared memory, Proceedings of the fifth annual ACM symposium on Principles of distributed computing, p.218-228, August 11-13, 1986, Calgary, Alberta, Canada[doi>10.1145/10590.10609]
+LAMPORT, L. How to make a multiprocessor computer that correctly executes multiprocess programs. IEEE Trans. Comput. C-28, 9 (Sept. 1979), 690-691.
+Leslie Lamport, Specifying Concurrent Program Modules, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.2, p.190-222, April 1983[doi>10.1145/69624.357207]
+Philip L. Lehman , s. Bing Yao, Efficient locking for concurrent operations on B-trees, ACM Transactions on Database Systems (TODS), v.6 n.4, p.650-670, Dec. 1981[doi>10.1145/319628.319663]
+Z Manna , Amir Pnueli, Verification of concurrent programs, Part I: The temporal framework, Stanford University, Stanford, CA, 1981
+J. Misra, Axioms for memory access in asynchronous hardware systems, ACM Transactions on Programming Languages and Systems (TOPLAS), v.8 n.1, p.142-153, Jan. 1986[doi>10.1145/5001.5007]
+NAKAJIMA, R., HONDA, M., AND NAKAHARA, H. Hierarchical program specification and verification--A many-sorted logical approach. Acta Inf. 14 (1980), 135-155.
+Susan Owicki , David Gries, Verifying properties of parallel programs: an axiomatic approach, Communications of the ACM, v.19 n.5, p.279-285, May 1976[doi>10.1145/360051.360224]
+OWICKI, S., AND GRIES, D. An axiomatic proof technique for parallel programs. Acta Inf. 6, 4 (1976), 319-340.
+Susan Owicki , Leslie Lamport, Proving Liveness Properties of Concurrent Programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.3, p.455-495, July 1982[doi>10.1145/357172.357178]
+Christos H. Papadimitriou, The serializability of concurrent database updates, Journal of the ACM (JACM), v.26 n.4, p.631-653, Oct. 1979[doi>10.1145/322154.322158]
+David P. Reed, Implementing atomic actions on decentralized data, ACM Transactions on Computer Systems (TOCS), v.1 n.1, p.3-23, Feb. 1983[doi>10.1145/357353.357355]
+Yehoshua Sagiv, Concurrent operations on B-trees with overtaking, Proceedings of the fourth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.28-37, March 25-27, 1985, Portland, Oregon, United States[doi>10.1145/325405.325409]
+STANDISH, W. A. Data structures: An axiomatic approach. Rep. 2639, Bolt, Beranek, and Newman, Cambridge, Mass., Aug. 1973.
+STIRLING, C. A generalization of Owicki-Gries-Hoare logic for a concurrent while language. Tech. Rep., Edinburgh Univ., March 1987.
+HERLIHY, M. P., AND WING, J.M. Axioms for concurrent objects. Tech. Rep. CMU-CS-86-154, Computer Science Dept., Carnegie Mellon Univ., 1986.
+W. E. Weihl, Local atomicity properties: modular concurrency control for abstract data types, ACM Transactions on Programming Languages and Systems (TOPLAS), v.11 n.2, p.249-282, April 1989[doi>10.1145/63264.63518]

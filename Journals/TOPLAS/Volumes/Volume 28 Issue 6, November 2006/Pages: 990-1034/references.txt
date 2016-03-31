@@ -1,0 +1,32 @@
+Martín Abadi , Butler Lampson , Jean-Jacques Lévy, Analysis and caching of dependencies, Proceedings of the first ACM SIGPLAN international conference on Functional programming, p.83-91, May 24-26, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/232627.232638]
+Umut A. Acar , Guy Blelloch , Robert Harper, Self-adjusting computation, Carnegie Mellon University, Pittsburgh, PA, 2005
+Umut A. Acar , Guy E. Blelloch , Robert Harper, Selective memoization, Proceedings of the 30th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.14-25, January 15-17, 2003, New Orleans, Louisiana, USA[doi>10.1145/604131.604133]
+Umut A. Acar , Guy E. Blelloch , Robert Harper , Jorge L. Vittes , Shan Leung Maverick Woo, Dynamizing static algorithms, with applications to dynamic trees and history independence, Proceedings of the fifteenth annual ACM-SIAM symposium on Discrete algorithms, January 11-14, 2004, New Orleans, Louisiana
+Acar, U. A., Blelloch, G. E., Blume, M., Harper, R., and Tangwongsan, K. 2005a. A library for self-adjusting computation. In Proceedings of the ACM SIGPLAN Workshop on ML. ACM, New York.
+Acar, U. A., Blelloch, G. E., and Vittes, J. L. 2005b. An experimental analysis of change propagation in dynamic trees. In Proceedings of the Workshop on Algorithm Engineering and Experimentation. ACM, New York.
+Julien Basch , Leonidas J. Guibas, Data structures for mobile data, Journal of Algorithms, v.31 n.1, p.1-28, April 1999[doi>10.1006/jagm.1998.0988]
+Richard Ernest Bellman, Dynamic Programming, Dover Publications, Incorporated, 2003
+Magnus Carlsson, Monads for incremental computing, Proceedings of the seventh ACM SIGPLAN international conference on Functional programming, p.26-35, October 04-06, 2002, Pittsburgh, PA, USA[doi>10.1145/581478.581482]
+Alan Demers , Thomas Reps , Tim Teitelbaum, Incremental evaluation for attribute grammars with application to syntax-directed editors, Proceedings of the 8th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.105-116, January 26-28, 1981, Williamsburg, Virginia[doi>10.1145/567532.567544]
+P. Dietz , D. Sleator, Two algorithms for maintaining order in a list, Proceedings of the nineteenth annual ACM symposium on Theory of computing, p.365-372, January 1987, New York, New York, USA[doi>10.1145/28395.28434]
+Paul F. Dietz, Fully Persistent Arrays (Extended Array), Proceedings of the Workshop on Algorithms and Data Structures, p.67-74, August 17-19, 1989
+James R. Driscoll , Neil Sarnak , Daniel D. Sleator , Robert E. Tarjan, Making data structures persistent, Journal of Computer and System Sciences, v.38 n.1, p.86-124, February 1989[doi>10.1016/0022-0000(89)90034-2]
+James R. Driscoll , Daniel D. K. Sleator , Robert E. Tarjan, Fully persistent lists with catenation, Journal of the ACM (JACM), v.41 n.5, p.943-959, Sept. 1994[doi>10.1145/185675.185791]
+John Field , Tim Teitelbaum, Incremental reduction in the lambda calculus, Proceedings of the 1990 ACM conference on LISP and functional programming, p.307-322, June 27-29, 1990, Nice, France[doi>10.1145/91556.91679]
+John Henry Field, Incremental reduction in the lambda calculus and related reduction systems, Cornell University, Ithaca, NY, 1991
+Heydon, A., Levin, R., Mann, T., and Yu, Y. 1999. The Vesta approach to software configuration management. Rep. 1999-001, Compaq Systems Research Center.
+Allan Heydon , Roy Levin , Yuan Yu, Caching function calls using precise dependencies, Proceedings of the ACM SIGPLAN 2000 conference on Programming language design and implementation, p.311-320, June 18-21, 2000, Vancouver, British Columbia, Canada[doi>10.1145/349299.349341]
+R. Hoover, Incremental graph evaluation (attribute grammar), Cornell University, Ithaca, NY, 1987
+Yanhong A. Liu , Scott D. Stoller , Tim Teitelbaum, Static caching for incremental computation, ACM Transactions on Programming Languages and Systems (TOPLAS), v.20 n.3, p.546-585, May 1998[doi>10.1145/291889.291895]
+Yanhong Annie Liu, Incremental computation: a semantics-based systematic transformational approach, Cornell University, Ithaca, NY, 1996
+McCarthy, J. 1963. A Basis for a mathematical theory of computation. In Computer Programming and Formal Systems. P. Braffort and D. Hirschberg, Eds., North-Holland, Amsterdam. The Netherlands, pp. 33--70.
+Michie, D. 1968. ‘memo’ functions and machine learning. Nature 21, 8, 19--22.
+Miller, G. L. and Reif, J. H. 1985. Parallel tree contraction and its application. In Proceedings of the 26th Annual IEEE Symposium on Foundations of Computer Science. IEEE Computer Society Press, Los Alamitos, CA, pp. 487--489.
+Frank Pfenning , Rowan Davies, A judgmental reconstruction of modal logic, Mathematical Structures in Computer Science, v.11 n.4, p.511-540, August 2001[doi>10.1017/S0960129501003322]
+Pugh, W. 1988. Incremental computation via function caching. Ph.D. dissertation. Department of Computer Science, Cornell University.
+W. Pugh , T. Teitelbaum, Incremental computation via function caching, Proceedings of the 16th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.315-328, January 11-13, 1989, Austin, Texas, USA[doi>10.1145/75277.75305]
+G. Ramalingam , Thomas Reps, A categorized bibliography on incremental computation, Proceedings of the 20th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.502-510, March 1993, Charleston, South Carolina, USA[doi>10.1145/158511.158710]
+Thomas Reps, Optimal-time incremental semantic analysis for syntax-directed editors, Proceedings of the 9th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.169-176, January 25-27, 1982, Albuquerque, New Mexico[doi>10.1145/582153.582172]
+Daniel D. Sleator , Robert Endre Tarjan, A data structure for dynamic trees, Journal of Computer and System Sciences, v.26 n.3, p.362-391, June 1983[doi>10.1016/0022-0000(83)90006-5]
+R. S. Sundaresh , Paul Hudak, A theory of incremental computation and its application, Proceedings of the 18th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.1-13, January 21-23, 1991, Orlando, Florida, USA[doi>10.1145/99583.99587]
+Daniel M. Yellin , Robert E. Strom, INC: a language for incremental computations, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.2, p.211-236, April 1991[doi>10.1145/103135.103137]

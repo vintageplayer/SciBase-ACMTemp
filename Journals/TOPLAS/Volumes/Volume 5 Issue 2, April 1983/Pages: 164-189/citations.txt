@@ -1,0 +1,106 @@
+B. Rosenburg, Low-synchronization translation lookaside buffer consistency in large-scale shared-memory multiprocessors, ACM SIGOPS Operating Systems Review, v.23 n.5, p.137-146, Dec. 3–6, 1989
+S. Prakash , Yann Hang Lee , T. Johnson, A Nonblocking Algorithm for Shared Queues Using Compare-and-Swap, IEEE Transactions on Computers, v.43 n.5, p.548-559, May 1994
+John O'Donnell , Gudula Rünger, Formal specification of interconnection networks, Proceedings of the 1995 international conference on Functional Programming, p.156-166, July 10-12, 1995, Glasgow, UK
+Albert G. Greenberg , Boris D. Lubachevsky , Andrew M. Odlyzko, Simple, efficient asynchronous parallel algorithms for maximization, Proceedings of the fourth annual ACM symposium on Principles of distributed computing, p.300-308, August 1985, Minaki, Ontario, Canada
+J. Place, FCFS: a novel scheduling policy for tightly-coupled parallel computer systems, Proceedings of the 17th conference on ACM Annual Computer Science Conference, p.188-194, February 21-23, 1989, Louisville, Kentucky
+Maged M. Michael , Michael L. Scott, Simple, fast, and practical non-blocking and blocking concurrent queue algorithms, Proceedings of the fifteenth annual ACM symposium on Principles of distributed computing, p.267-275, May 23-26, 1996, Philadelphia, Pennsylvania, United States
+Moshe Hoffman , Ori Shalev , Nir Shavit, The baskets queue, Proceedings of the 11th international conference on Principles of distributed systems, p.401-414, December 17-20, 2007, Guadeloupe, French West Indies
+Alex Kogan , Maurice Herlihy, The future(s) of shared data structures, Proceedings of the 2014 ACM symposium on Principles of distributed computing, July 15-18, 2014, Paris, France
+David F. Bacon , Ravi Konuru , Chet Murthy , Mauricio Serrano, Thin locks: featherweight synchronization for Java, ACM SIGPLAN Notices, v.33 n.5, p.258-268, May 1998
+Thomas R.W. Scogland , Wu-chun Feng, Design and Evaluation of Scalable Concurrent Queues for Many-Core Architectures, Proceedings of the 6th ACM/SPEC International Conference on Performance Engineering, January 28-February 04, 2015, Austin, Texas, USA
+Harold S. Stone, Database Applications of the FETCH-AND-ADD Instruction, IEEE Transactions on Computers, v.33 n.7, p.604-612, July 1984
+Edith Schonberg , Edmond Schonberg, Highly parallel Ada—Ada on an ultracomputer, ACM SIGAda Ada Letters, v.V n.2, p.58-71, Sep., Oct. 1985
+David Dice , Oleksandr Otenko, Brief announcement: multilane - a concurrent blocking multiset, Proceedings of the 23rd ACM symposium on Parallelism in algorithms and architectures, June 04-06, 2011, San Jose, California, USA
+Susan Flynn Hummel , Edith Schonberg , Lawrence E. Flynn, Factoring: a method for scheduling parallel loops, Communications of the ACM, v.35 n.8, p.90-101, Aug. 1992
+W. Craig Scratchley, Using Smalltalk for wait-free implementation of highly-concurrent objects, ACM SIGPLAN OOPS Messenger, v.4 n.4, p.44-53, Oct. 1993
+Janice M. Stone, A simple and correct shared-queue algorithm using compare-and-swap, Proceedings of the 1990 conference on Supercomputing, p.495-504, October 1990, New York, New York, United States
+A. Norton , A. J. Silberger, Parallelization and Performance Analysis of the Cooley-Tukey FFT Algorithm for Shared-Memory Architectures, IEEE Transactions on Computers, v.36 n.5, p.581-591, May 1987
+Susan Flynn , Edith Schonberg , Edmond Schonberg, The efficient termination of Ada tasks in a multi-processor environment, ACM SIGAda Ada Letters, v.VII n.7, p.55-76, November/December 1987
+Mark Moir , Daniel Nussbaum , Ori Shalev , Nir Shavit, Using elimination to implement scalable and lock-free FIFO queues, Proceedings of the seventeenth annual ACM symposium on Parallelism in algorithms and architectures, July 18-20, 2005, Las Vegas, Nevada, USA
+Albert G. Greenberg , Boris D. Lubachevsky , Andrew M. Odlyzko, Simple, efficient, asynchronous parallel algorithms for maximization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.10 n.2, p.313-337, April 1988
+A. Borodin , J. E. Hopcroft, Routing, merging and sorting on parallel models of computation, Proceedings of the fourteenth annual ACM symposium on Theory of computing, p.338-344, May 05-07, 1982, San Francisco, California, United States
+Srikanta Tirthapura , Costas Busch, Concurrent counting is harder than queuing, Proceedings of the 20th international conference on Parallel and distributed processing, p.92-92, April 25-29, 2006, Rhodes Island, Greece
+Danny Hendler , Nir Shavit , Lena Yerushalmi, A scalable lock-free stack algorithm, Proceedings of the sixteenth annual ACM symposium on Parallelism in algorithms and architectures, June 27-30, 2004, Barcelona, Spain
+R. M. Bryant , H.-Y. Chang , B. S. Rosenburg, Operating system support for parallel programming on RP3, IBM Journal of Research and Development, v.35 n.5-6, p.617-634, Sept./Nov. 1991
+Philip F. Hingston , R. Lyndon While, A dynamic communication algorithm for digital halftoning, Australian Computer Science Communications, v.24 n.1, p.111-118, January-February 2002
+Gurindar S. Sohi , James E. Smith , James R. Goodman, Restricted Fetch and Φ operations for parallel processing, Proceedings of the 3rd international conference on Supercomputing, p.410-416, June 05-09, 1989, Crete, Greece
+Susan Flynn Hummel , Edith Schonberg , Lawrence E. Flynn, Factoring: a practical and robust method for scheduling parallel loops, Proceedings of the 1991 ACM/IEEE conference on Supercomputing, p.610-632, November 18-22, 1991, Albuquerque, New Mexico, United States
+Beng-Hong Lim , Anant Agarwal, Reactive synchronization algorithms for multiprocessors, ACM SIGPLAN Notices, v.29 n.11, p.25-35, Nov. 1994
+B. D. Lubachevsky, Efficient distributed event driven simulations of multiple-loop networks, ACM SIGMETRICS Performance Evaluation Review, v.16 n.1, p.12-24, May 1988
+N. Islam , R. H. Campbell, Design Considerations for Shared Memory Multiprocessor Message Systems, IEEE Transactions on Parallel and Distributed Systems, v.3 n.6, p.702-711, November 1992
+M. P. Herlihy , J. M. Wing, Axioms for concurrent objects, Proceedings of the 14th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.13-26, January 21-23, 1987, Munich, West Germany
+C.C. Williams , P.F. Reynolds, Combining Atomic Actions, Journal of Parallel and Distributed Computing, v.24 n.2, p.152-163, Feb. 1, 1995
+Danny Hendler , Nir Shavit , Lena Yerushalmi, A scalable lock-free stack algorithm, Journal of Parallel and Distributed Computing, v.70 n.1, p.1-12, January, 2010
+Boris D. Lubachevsky, An approach to automating the verification of compact parallel coordination programs. I, Acta Informatica, v.21 n.2, p.125-169, August    1984
+Maurice P. Herlihy, Impossibility and universality results for wait-free synchronization, Proceedings of the seventh annual ACM Symposium on Principles of distributed computing, p.276-290, August 15-17, 1988, Toronto, Ontario, Canada
+Guy E. Blelloch , Perry Cheng , Phillip B. Gibbons, Room synchronizations, Proceedings of the thirteenth annual ACM symposium on Parallel algorithms and architectures, p.122-133, July 2001, Crete Island, Greece
+Maurice Herlihy , Srikanta Tirthapura , Rogert Wattenhofer, Ordered Multicast and Distributed Swap, ACM SIGOPS Operating Systems Review, v.35 n.1, p.85-96, January 1, 2001
+Guy E. Blelloch , Phillip B. Gibbons , S. Harsha Vardhan, Combinable memory-block transactions, Proceedings of the twentieth annual symposium on Parallelism in algorithms and architectures, June 14-16, 2008, Munich, Germany
+Thanasis Mitsolides , Malcolm Harrison, Generators and the replicator control structure in the parallel environment of ALLOY, ACM SIGPLAN Notices, v.25 n.6, p.189-196, Jun. 1990
+William Tsun-Yuk Hsu , Pen-Chung Yew, An effective synchronization network for hot-spot accesses, ACM Transactions on Computer Systems (TOCS), v.10 n.3, p.167-189, Aug. 1992
+G. N. Srinivasa Prasanna , A. Agrawal , B. R. Musicus, Hierarchical Compilation of Macro Dataflow Graphs for Multiprocessors with Local Memory, IEEE Transactions on Parallel and Distributed Systems, v.5 n.7, p.720-736, July 1994
+P. Heidelberger , A. Norton , John T. Robinson, Parallel Quicksort Using Fetch-And-Add, IEEE Transactions on Computers, v.39 n.1, p.133-138, January 1990
+Clyde P Kruskal , Larry Rudolph , Marc Snir, Efficient synchronization of multiprocessors with shared memory, Proceedings of the fifth annual ACM symposium on Principles of distributed computing, p.218-228, August 11-13, 1986, Calgary, Alberta, Canada
+Marios Mavronicolas , Marina Papatriantafilou , Philippas Tsigas, The Impact of Timing on Linearizability in Counting Networks, Proceedings of the 11th International Symposium on Parallel Processing, p.684-688, April 01-05, 1997
+James R. Goodman , Mary K. Vernon , Philip J. Woest, Efficient synchronization primitives for large-scale cache-coherent multiprocessors, ACM SIGARCH Computer Architecture News, v.17 n.2, p.64-75, April 1989
+Zhen Fang , Lixin Zhang , John B. Carter , Ali Ibrahim , Michael A. Parker, Active memory operations, Proceedings of the 21st annual international conference on Supercomputing, June 17-21, 2007, Seattle, Washington
+J. M. Stone, Debugging concurrent processes: a case study, ACM SIGPLAN Notices, v.23 n.7, p.145-153, July 1988
+S. F. Hummel , E. Schonberg, Low-overhead scheduling of nested parallelism, IBM Journal of Research and Development, v.35 n.5-6, p.743-765, Sept./Nov. 1991
+Z. Fan , K. H. Cheng, A Generalized Simultaneous Access Dictionary Machine, IEEE Transactions on Parallel and Distributed Systems, v.2 n.2, p.149-159, April 1991
+J. Biswas , J. C. Browne, Simulation Data Structures for Parallel Resource Management, IEEE Transactions on Software Engineering, v.19 n.7, p.672-686, July 1993
+Clyde P. Kruskal , Larry Rudolph , Marc Snir, Efficient synchronization of multiprocessors with shared memory, ACM Transactions on Programming Languages and Systems (TOPLAS), v.10 n.4, p.579-601, Oct. 1988
+Yehuda Afek , Eytan Weisberger , Hanan Weisman, A completeness theorem for a class of synchronization objects, Proceedings of the twelfth annual ACM symposium on Principles of distributed computing, p.159-170, August 15-18, 1993, Ithaca, New York, United States
+Rogert Wattenhofer , Peter Widmayer, The counting pyramid: an adaptive distributed counting scheme, Journal of Parallel and Distributed Computing, v.64 n.4, p.449-460, April 2004
+Nir Shavit , Asaph Zemach, Combining funnels: a new twist on an old tale…, Proceedings of the seventeenth annual ACM symposium on Principles of distributed computing, p.61-70, June 28-July 02, 1998, Puerto Vallarta, Mexico
+Michael Klugerman , C. Greg Plaxton, Small-depth counting networks, Proceedings of the twenty-fourth annual ACM symposium on Theory of computing, p.417-428, May 04-06, 1992, Victoria, British Columbia, Canada
+Maurice Herlihy, Wait-free synchronization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.1, p.124-149, Jan. 1991
+Nancy Lynch , Nir Shavit , Alex Shvartsman , Dan Touitou, Counting networks are practically linearizable, Proceedings of the fifteenth annual ACM symposium on Principles of distributed computing, p.280-289, May 23-26, 1996, Philadelphia, Pennsylvania, USA
+Maurice Herlihy , Beng-Hong Lim , Nir Shavit, Low contention load balancing on large-scale multiprocessors, Proceedings of the fourth annual ACM symposium on Parallel algorithms and architectures, p.219-227, June 29-July 01, 1992, San Diego, California, United States
+John Greiner , Guy E. Blelloch, A provably time-efficient parallel implementation of full speculation, Proceedings of the 23rd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.309-321, January 21-24, 1996, St. Petersburg Beach, Florida, USA
+Maurice Herlihy , Nir Shavit , Orli Waarts, Linearizable counting networks, Distributed Computing, v.9 n.4, p.193-203, February 1996
+Faith Ellen , Vijaya Ramachandran , Philipp Woelfel, Efficient fetch-and-increment, Proceedings of the 26th international conference on Distributed Computing, October 16-18, 2012, Salvador, Brazil
+James Aspnes , Maurice Herlihy , Nir Shavit, Counting networks and multi-processor coordination, Proceedings of the twenty-third annual ACM symposium on Theory of computing, p.348-358, May 05-08, 1991, New Orleans, Louisiana, United States
+R Cole , U Vishkin, Deterministic coin tossing and accelerating cascades: micro and macro techniques for designing parallel algorithms, Proceedings of the eighteenth annual ACM symposium on Theory of computing, p.206-219, May 28-30, 1986, Berkeley, California, USA
+Eugene Fiume , Alain Fournier , Larry Rudolph, A parallel scan conversion algorithm with anti-aliasing for a general-purpose ultracomputer, ACM SIGGRAPH Computer Graphics, v.17 n.3, p.141-150, July 1983
+Susan R. Dickey , Richard Kenner, Hardware combining and scalability, Proceedings of the fourth annual ACM symposium on Parallel algorithms and architectures, p.296-305, June 29-July 01, 1992, San Diego, California, United States
+Marc S. Orr , Bradford M. Beckmann , Steven K. Reinhardt , David A. Wood, Fine-grain task aggregation and coordination on GPUs, Proceeding of the 41st annual international symposium on Computer architecuture, June 14-18, 2014, Minneapolis, Minnesota, USA
+A. Gottlieb , R. Grishman , C. P. Kruskal , K. P. McAuliffe , L. Rudolph , M. Snir, The NYU Ultracomputer Designing an MIMD Shared Memory Parallel Computer, IEEE Transactions on Computers, v.32 n.2, p.175-189, February 1983
+Julian Shun , Guy E. Blelloch , Jeremy T. Fineman , Phillip B. Gibbons, Reducing contention through priority updates, Proceedings of the 25th ACM symposium on Parallelism in algorithms and architectures, July 23-25, 2013, Montréal, Québec, Canada
+Maurice Herlihy , Beng-Hong Lim , Nir Shavit, Scalable concurrent counting, ACM Transactions on Computer Systems (TOCS), v.13 n.4, p.343-364, Nov. 1995
+Michael Hind , Edmond Schonberg, Efficient loop-level parallelism in Ada, Proceedings of the conference on TRI-Ada '91: today's accomplishments; tomorrow's expectations, p.166-179, October 21-25, 1991, San Jose, California, United States
+M. Herlihy, A methodology for implementing highly concurrent data structures, ACM SIGPLAN Notices, v.25 n.3, p.197-206, Mar. 1990
+Suresh Jagannathan , Stephen Weeks, Analyzing stores and references in a parallel symbolic language, ACM SIGPLAN Lisp Pointers, v.VII n.3, p.294-305, July-Sept. 1994
+Robert Danek, Thek-bakery: local-spink-exclusion using non-atomic reads and writes, Proceedings of the 29th ACM SIGACT-SIGOPS symposium on Principles of distributed computing, July 25-28, 2010, Zurich, Switzerland
+Carl J. Beckmann, Generating Self-Scheduling Code for Nonloop Parallelism, Journal of Parallel and Distributed Computing, v.39 n.2, p.126-145, Dec. 15, 1996
+Jan Edler , Allan Gottlieb , Clyde P. Kruskal , Kevin P. McAuliffe , Larry Rudolph , Marc Snir , Patricia J. Teller , James Wilson, Issues related to MIMD shared-memory computers: the NYU ultracomputer approach, ACM SIGARCH Computer Architecture News, v.13 n.3, p.126-135, June 1985
+C. D. McCrosky , J. J. Glasgow , M. A. Jenkins, Nial: A candidate language for fifth generation computer systems, Proceedings of the 1984 annual conference of the ACM on The fifth generation challenge, p.157-166, January 1984
+Guy E. Blelloch , Perry Cheng, On bounding time and space for multiprocessor garbage collection, ACM SIGPLAN Notices, v.34 n.5, p.104-117, May 1999
+Nir Shavit , Asaph Zemach, Diffracting trees (preliminary version), Proceedings of the sixth annual ACM symposium on Parallel algorithms and architectures, p.167-176, June 27-29, 1994, Cape May, New Jersey, USA
+M. A. Gonzalez-Mesa , Eladio Gutierrez , Emilio L. Zapata , Oscar Plata, Effective Transactional Memory Execution Management for Improved Concurrency, ACM Transactions on Architecture and Code Optimization (TACO), v.11 n.3, p.1-27, August 2014
+Eric Freudenthal , Allan Gottlieb, Process coordination with fetch-and-increment, ACM SIGPLAN Notices, v.26 n.4, p.260-268, Apr. 1991
+Sanjeev Kumar , Daehyun Kim , Mikhail Smelyanskiy , Yen-Kuang Chen , Jatin Chhugani , Christopher J. Hughes , Changkyu Kim , Victor W. Lee , Anthony D. Nguyen, Atomic Vector Operations on Chip Multiprocessors, ACM SIGARCH Computer Architecture News, v.36 n.3, p.441-452, June 2008
+Maurice P. Herlihy , Jeannette M. Wing, Linearizability: a correctness condition for concurrent objects, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.3, p.463-492, July 1990
+James Aspnes , Maurice Herlihy , Nir Shavit, Counting networks, Journal of the ACM (JACM), v.41 n.5, p.1020-1048, Sept. 1994
+James J. Little , Tomaso Poggio , Edward B. Gamble, Seeing in Parallel: the Vision Machine, International Journal of High Performance Computing Applications, v.2 n.4, p.13-28, December  1988
+David F. Bacon , Ravi Konuru , Chet Murthy , Mauricio J. Serrano, Thin locks: featherweight Synchronization for Java, ACM SIGPLAN Notices, v.39 n.4, April 2004
+James H. Anderson , Mark Moir, Using local-spink-exclusion algorithms to improve wait-free object implementations, Distributed Computing, v.11 n.1, p.1-20, December 1997
+Guy E. Blelloch , John Greiner, A provable time and space efficient implementation of NESL, ACM SIGPLAN Notices, v.31 n.6, p.213-225, June 15, 1996
+John Greiner , Guy E. Blelloch, A provably time-efficient parallel implementation of full speculation, ACM Transactions on Programming Languages and Systems (TOPLAS), v.21 n.2, p.240-285, March 1999
+J. J. Little , G. E. Blelloch , T. A. Cass, Algorithmic Techniques for Computer Vision on a Fine-Grained Parallel Machine, IEEE Transactions on Pattern Analysis and Machine Intelligence, v.11 n.3, p.244-257, March 1989
+Perry Cheng , Guy E. Blelloch, A parallel, real-time garbage collector, ACM SIGPLAN Notices, v.36 n.5, p.125-136, May 2001
+Nir Shavit , Asaph Zemach, Scalable concurrent priority queue algorithms, Proceedings of the eighteenth annual ACM symposium on Principles of distributed computing, p.113-122, May 04-06, 1999, Atlanta, Georgia, USA
+Maurice Herlihy, A methodology for implementing highly concurrent data objects, ACM Transactions on Programming Languages and Systems (TOPLAS), v.15 n.5, p.745-770, Nov. 1993
+G. A. Alverson , D. Notkin, Program Structuring for Effective Parallel Portability, IEEE Transactions on Parallel and Distributed Systems, v.4 n.9, p.1041-1059, September 1993
+Guy E. Blelloch , Phillip B. Gibbons , Yossi Matias , Girija J. Narlikar, Space-efficient scheduling of parallelism with synchronization variables, Proceedings of the ninth annual ACM symposium on Parallel algorithms and architectures, p.12-23, June 23-25, 1997, Newport, Rhode Island, USA
+Jason Gait, A Kernel for High-Performance Multicast Communications, IEEE Transactions on Computers, v.38 n.2, p.218-226, February 1989
+G. E. Blelloch, Scans as Primitive Parallel Operations, IEEE Transactions on Computers, v.38 n.11, p.1526-1538, November 1989
+Robert H. Halstead, Jr., MULTILISP: a language for concurrent symbolic computation, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.4, p.501-538, Oct. 1985
+Nir Shavit , Asaph Zemach, Diffracting trees, ACM Transactions on Computer Systems (TOCS), v.14 n.4, p.385-428, Nov. 1996
+Costas Busch , Marios Mavronicolas, A combinatorial treatment of balancing networks, Journal of the ACM (JACM), v.43 n.5, p.794-839, Sept. 1996
+Cynthia Dwork , Maurice Herlihy , Orli Waarts, Contention in shared memory algorithms, Proceedings of the twenty-fifth annual ACM symposium on Theory of computing, p.174-183, May 16-18, 1993, San Diego, California, USA
+Kunal Agrawal , Yuxiong He , Wen Jing Hsu , Charles E. Leiserson, Adaptive scheduling with parallelism feedback, Proceedings of the eleventh ACM SIGPLAN symposium on Principles and practice of parallel programming, March 29-31, 2006, New York, New York, USA
+Cynthia Dwork , Maurice Herlihy , Orli Waarts, Contention in shared memory algorithms, Journal of the ACM (JACM), v.44 n.6, p.779-805, Nov. 1997
+Guy E. Blelloch , Perry Cheng, On bounding time and space for multiprocessor garbage collection, ACM SIGPLAN Notices, v.39 n.4, April 2004
+Thomas Grün , Thomas Rauber , Jochen Röhrig, Support for Efficient Programming on the SB-PRAM, International Journal of Parallel Programming, v.26 n.3, p.209-240, June 1998
+David B. Skillicorn , Domenico Talia, Models and languages for parallel computation, ACM Computing Surveys (CSUR), v.30 n.2, p.123-169, June 1998
+David Culler , Jaswinder Pal Singh , Anoop Gupta, Parallel Computer Architecture: A Hardware/Software Approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1998

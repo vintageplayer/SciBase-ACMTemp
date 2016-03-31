@@ -1,0 +1,46 @@
+A. V. Aho , S. C. Johnson , J. D. Ullman, Deterministic parsing of ambiguous grammars, Communications of the ACM, v.18 n.8, p.441-452, Aug. 1975[doi>10.1145/360933.360969]
+Alfred V. Aho , Ravi Sethi , Jeffrey D. Ullman, Compilers: principles, techniques, and tools, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+Alfred V. Aho , Jeffrey D. Ullman, The  Theory of Parsing, Translation, and Compiling, Prentice Hall Professional Technical Reference, 1972
+John Aycock , R. Nigel Horspool, Faster Generalized LR Parsing, Proceedings of the 8th International Conference on Compiler Construction, Held as Part of the European Joint Conferences on the Theory and Practice of Software, ETAPS'99, p.32-46, March 22-28, 1999
+Sylvie Billot , Bernard Lang, The structure of shared forests in ambiguous parsing, Proceedings of the 27th annual meeting on Association for Computational Linguistics, p.143-151, June 26-29, 1989, Vancouver, British Columbia, Canada[doi>10.3115/981623.981641]
+Peter T. Breuer , Jonathan P. Bowen, A PREttier compiler-compiler: generating higher-order parsers in C, Software—Practice & Experience, v.25 n.11, p.1263-1297, Nov. 1995[doi>10.1002/spe.4380251106]
+Masaru Tomita , Harry C. Bunt, Recent Advances in Parsing Technology, Kluwer Academic Publishers, Norwell, MA, 1996
+DeRemer, F. L. 1969. Practical translators for LR(k) languages. Ph.D. thesis, Massachussetts Institute of Technology.
+Franklin L. DeRemer, SimpleLR(k)grammars, Communications of the ACM, v.14 n.7, p.453-460, July 1971[doi>10.1145/362619.362625]
+Dodd, C. and Maslov, V. 1995. http://compilers.iecc.com/comparch/article/95-03-044.
+Jay Earley, An efficient context-free parsing algorithm, Communications of the ACM, v.13 n.2, p.94-102, Feb 1970[doi>10.1145/362007.362035]
+Eggert, P. 2003. http://compilers.iecc.com/comparch/article/03-01-005.
+Graham, S. L. and Harrison, M. A. 1976. Parsing of general context-free languages. Adv. Comput. 14, 77--185.
+Dick Grune , Ceriel J. H. Jacobs, Parsing techniques: a practical guide, Ellis Horwood, Upper Saddle River, NJ, 1990
+Hanson, D. R. and Proebsting, T. A. 2003. A research C&num; compiler. Tech. Rep. MSR-TR-2003-32, Microsoft Research, Redmond, WA.
+Hays, D. 1967. Introductions to Computational Linguistics. Elsevier, New York.
+Edgar T. Irons, A syntax directed compiler for ALGOL 60, Communications of the ACM, v.4 n.1, p.51-55, Jan. 1961[doi>10.1145/366062.366083]
+Adrian Johnstone , Elizabeth Scott, Generalised Recursive Descent parsing and Fellow-Determinism, Proceedings of the 7th International Conference on Compiler Construction, p.16-30, March 28-April 04, 1998
+A. Johnstone , E. Scott, Generalised Reduction Modified LR Parsing for Domain Specific Language Prototyping, Proceedings of the 35th Annual Hawaii International Conference on System Sciences (HICSS'02)-Volume 9, p.282, January 07-10, 2002
+Adrian Johnstone , Elizabeth Scott, Generalised regular parsers, Proceedings of the 12th international conference on Compiler construction, April 07-11, 2003, Warsaw, Poland
+Johnstone, A., Scott, E., and Economopoulos, G. 2004a. Generalized parsing: Some costs. In Proceedings of the Compiler Construction, 13th International Conference, CC'04, E. Duesterwald, ed. LNCS, vol. 2985. Springer Berlin, 89--103.
+Adrian Johnstone , Elizabeth Scott , Giorgios Economopoulos, The Grammar Tool Box: A Case Study Comparing GLR Parsing Algorithms, Electronic Notes in Theoretical Computer Science (ENTCS), 110, p.97-113, December, 2004[doi>10.1016/j.entcs.2004.06.008]
+Kasami, T. 1965. An efficient recognition and syntax analysis algorithm for context-free languages. Tech. Rep. AFCRL-65-758, Air Force Cambridge Research Laboratory, Bedford, Mass.
+Knuth, D. E. 1965. On the translation of languages from left to right. Inf. Control 8, 6, 607--639.
+Bernard Lang, Deterministic Techniques for Efficient Non-Deterministic Parsers, Proceedings of the 2nd Colloquium on Automata, Languages and Programming, p.255-269, July 29-August 02, 1974
+P. M. Lewis, II , R. E. Stearns, Syntax-Directed Transduction, Journal of the ACM (JACM), v.15 n.3, p.465-488, July 1968[doi>10.1145/321466.321477]
+McPeak, S. and Necula, G. 2004. Elkhound: A fast, practical GLR parser generator. In Proceedings of the Compiler Construction, 13th Internationl. Conference CC'04, E. Duesterwald, ed. LNCS. Springer, Berlin.
+Mark-Jan Nederhof, An optimal tabular parsing algorithm, Proceedings of the 32nd annual meeting on Association for Computational Linguistics, p.117-124, June 27-30, 1994, Las Cruces, New Mexico[doi>10.3115/981732.981749]
+Nederhof, M.-J. and Sarbo, J. J. 1996. Increasing the applicability of LR parsing. In Recent Advances in Parsing Technology, H.Bunt and M. Tomita, eds. Kluwer Academic, Amsterdam, the Netherlands, 35--57.
+Mark-Jan Nederhof , Giorgio Satta, Efficient tabular LR parsing, Proceedings of the 34th annual meeting on Association for Computational Linguistics, p.239-246, June 24-27, 1996, Santa Cruz, California[doi>10.3115/981863.981895]
+Nederhof, M.-J. and Satta, G. 2004. Tabular parsing. In Formal Languages and Applications, Studies in Fuzziness and Soft Computing 148, G. C.Martin-Vide, V.Mitrana, eds. Springer, New York, 529--549.
+Nozohoor-Farshi, R. 1991. GLR parsing for &epsi;-grammars. In Generalized LR Parsing, M. Tomita, ed. Kluwer Academic, Amsterdam, the Netherlands, 60--75.
+Parr, T. J. 1996. Language Translation Using PCCTS and C&plus;&plus;. Automata Publishing.
+Rekers, J. G. 1992. Parser generation for interactive environments. Ph.D. thesis, Universty of Amsterdam.
+Sakai, I. 1962. Syntax in universal translation. In Proceedings of the 1961 International Conference on Machine Translation of Languages and Applied Language Analysis. 593--608.
+Elizabeth Scott , Adrian Johnstone, Reducing non-determinism in right nulled GLR parsers, Acta Informatica, v.40 n.6, p.459-489, May 2004[doi>10.1007/s00236-004-0137-z]
+Scott, E., Johnstone, A., and Hussain, S. S. 2000. Tomita-Style generalized LR parsers. Updated version. Tech. Rep. TR-00-12, Royal Holloway, University of London Dec.
+Sheil, B. 1976. Observations on context-free parsing. In Statistical Methods in Linguistics. 71--109.
+Bjarne Stroustrup, The design and evolution of C++, ACM Press/Addison-Wesley Publishing Co., New York, NY, 1995
+Masaru Tomita, Efficient Parsing for Natural Language: A Fast Algorithm for Practical Systems, Kluwer Academic Publishers, Norwell, MA, 1985
+Stephen H. Unger, A global parser for context-free phrase structure grammars, Communications of the ACM, v.11 n.4, p.240-247, April 1968[doi>10.1145/362991.363001]
+Valiant, L. 1975. General context-free recognition in less than cubic time. J. Comput. Syst. Sci. 10, 308--315.
+Mark G. J. van den Brand , J. Heering , P. Klint , P. A. Olivier, Compiling language definitions: the ASF+SDF compiler, ACM Transactions on Programming Languages and Systems (TOPLAS), v.24 n.4, p.334-368, July 2002[doi>10.1145/567097.567099]
+Visser, E. 1997. Syntax definition for langauge prototyping. Ph.D. thesis, Universty of Amsterdam.
+Visser, E. 2004. Program transformation with Stratego/XT: Rules, strategies, tools, and systems in StrategoXT-0.9. In Domain-Specific Program Generation, C. et al, ed. LNCS, vol. 3016. Springer, Berlin, 216--238.
+Younger, D. H. 1967. Recognition of context-free languages in time n3. Inform. Control 10, 2 (Feb.), 189--208.

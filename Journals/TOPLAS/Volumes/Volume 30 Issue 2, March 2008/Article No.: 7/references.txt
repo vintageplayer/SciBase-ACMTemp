@@ -1,0 +1,29 @@
+Andrew W. Appel, SSA is functional programming, ACM SIGPLAN Notices, v.33 n.4, p.17-20, April 1998[doi>10.1145/278283.278285]
+Christianson, B. 1992. Automatic Hessians by reverse accumulation. IMA J. Numer. Anal. 12, 135--150.
+George Corliss , Christèle Faure , Andreas Griewank , Lauren Hascoët , Uwe Naumann, Automatic differentiation of algorithms: from simulation to optimization, Springer-Verlag New York, Inc., New York, NY, 2000
+Andreas Griewank, Evaluating derivatives: principles and techniques of algorithmic differentiation, Society for Industrial and Applied Mathematics, Philadelphia, PA, 2000
+Andreas Griewank , David Juedes , Jean Utke, Algorithm 755: ADOL-C: a package for the automatic differentiation of algorithms written in C/C++, ACM Transactions on Mathematical Software (TOMS), v.22 n.2, p.131-167, June 1996[doi>10.1145/229473.229474]
+Hascoët, L. and Pascual, V. 2004. Tapenade 2.1 user's guide. Rapport technique 300, INRIA, Sophia Antipolis.
+Jerzy Karczmarczuk, Functional differentiation of computer programs, Proceedings of the third ACM SIGPLAN international conference on Functional programming, p.195-203, September 26-29, 1998, Baltimore, Maryland, USA[doi>10.1145/289423.289442]
+Karczmarczuk, J. 1998b. Lazy differential algebra and its applications. In Workshop, III International Summer School on Advanced Functional Programming (Braga, Portugal).
+Karczmarczuk, J. 1999. Functional coding of differential forms. In Scottish Workshop on FP.
+Karczmarczuk, J. 2000a. Adjoint codes in functional framework. http://users.info.unicaen.fr/~karczma/arpap/revdiff.ps.
+Karczmarczuk, J. 2000b. Lazy time reversal, and automatic differentiation. http://users.info.unicaen.fr/~karczma/arpap/revpearl.pdf.
+Karczmarczuk, J. 2001a. Calcul des adjoints et programmation paresseuse. http://users.info. unicaen.fr/~karczma/arpap/jflarev.pdf.
+Jerzy Karczmarczuk, Functional Differentiation of Computer Programs, Higher-Order and Symbolic Computation, v.14 n.1, p.35-57, March 2001[doi>10.1023/A:1011501232197]
+Gershon Kedem, Automatic Differentiation of Computer Programs, ACM Transactions on Mathematical Software (TOMS), v.6 n.2, p.150-165, June 1980[doi>10.1145/355887.355890]
+H. Abelson , R. K. Dybvig , C. T. Haynes , G. J. Rozas , N. I. Adams Iv , D. P. Friedman , E. Kohlbecker , G. L. Steele, Jr. , D. H. Bartley , R. Halstead , D. Oxley , G. J. Sussman , G. Brooks , C. Hanson , K. M. Pitman , M. Wand, Revised Report on the Algorithmic Language Scheme, Higher-Order and Symbolic Computation, v.11 n.1, p.7-105, August 1998[doi>10.1023/A:1010051815785]
+Richard A. Kelsey, A correspondence between continuation passing style and static single assignment form, ACM SIGPLAN Notices, v.30 n.3, p.13-22, March 1993[doi>10.1145/202530.202532]
+Barak A. Pearlmutter, Fast exact multiplication by the Hessian, Neural Computation, v.6 n.1, p.147-160, Jan. 1994[doi>10.1162/neco.1994.6.1.147]
+Barak A. Pearlmutter , Jeffrey Mark Siskind, Lazy multivariate higher-order forward-mode AD, Proceedings of the 34th annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages, January 17-19, 2007, Nice, France[doi>10.1145/1190216.1190242]
+William H. Press , Saul A. Teukolsky , William T. Vetterling , Brian P. Flannery, Numerical recipes in C (2nd ed.): the art of scientific computing, Cambridge University Press, New York, NY, 1992
+Rall, L. B. 1981. Automatic Differentiation: Techniques and Applications. Lecture Notes in Computer Science, vol. 120. Springer-Verlag, New York.
+Rumelhart, D. E., Hinton, G. E., and Williams, R. J. 1986. Learning representations by back-propagating errors. Nature 323, 533--536.
+Amr Sabry , Matthias Felleisen, Reasoning about programs in continuation-passing style, Lisp and Symbolic Computation, v.6 n.3-4, p.289-360, Nov. 1993[doi>10.1007/BF01019462]
+Siskind, J. M. 1999. Flow-directed lightweight closure conversion. Tech. Rep. 99-190R, NEC Research Institute, Inc.
+Siskind, J. M. and Pearlmutter, B. A. 2005. Perturbation confusion and referential transparency: Correct functional implementation of forward-mode AD. In Implementation and Application of Functional Languages---17th International Workshop, IFL'05, A. Butterfield, Ed. Dublin, Ireland, 1--9. Trinity College Dublin Computer Science Department Tech. Rep. TCD-CS-2005-60.
+Jeffrey Mark Siskind , Barak A. Pearlmutter, Nesting forward-mode AD in a functional framework, Higher-Order and Symbolic Computation, v.21 n.4, p.361-376, December  2008[doi>10.1007/s10990-008-9037-1]
+Bert Speelpenning, Compiling fast partial derivatives of functions given by algorithms, University of Illinois at Urbana-Champaign, Champaign, IL, 1980
+Gerald Jay Sussman , Jack Wisdom, Structure and interpretation of classical mechanics, MIT Press, Cambridge, MA, 2001
+R. E. Wengert, A simple automatic derivative evaluation program, Communications of the ACM, v.7 n.8, p.463-464, Aug. 1964[doi>10.1145/355586.364791]
+Werbos, P. J. 1992. Neural networks, system identification, and control in the chemical process industries. In Handbook of Intelligent Control---Neural, Fuzzy, and Adaptive Approaches, D. A. White and D. A. Sofge, Eds. Van Norstrand Reinhold, Chap. 10. 283--356.

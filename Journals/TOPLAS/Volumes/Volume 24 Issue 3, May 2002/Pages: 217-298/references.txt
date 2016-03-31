@@ -1,0 +1,45 @@
+Aiken, A. 1996. Position statement. Prepared for the Programming Languages Working Group of the ACM Workshop on Strategic Directions in Computing Research (Cambridge, Mass, June 14--15, 1996).
+Assmann, U. and Weinhardt, M. 1993. Interprocedural heap analysis for parallelizing imperative programs. In Programming Models For Massively Parallel Computers, W. K. Giloi, S. Jähnichen, and B. D. Shriver, Eds., IEEE Press, Washington, DC, 74--82.
+Bell, J. and Machover, M. 1977. A Course in Mathematical Logic. North-Holland, Amsterdam.
+Benedikt, M., Reps, T., and Sagiv, M. 1999. A decidable logic for describing linked data structures. In Proceedings of the 1999 European Symposium on Programming, 2--19.
+Luca Cardelli , Andrew D. Gordon, Mobile Ambients, Proceedings of the First International Conference on Foundations of Software Science and Computation Structure, p.140-155, March 28-April 04, 1998
+David R. Chase , Mark Wegman , F. Kenneth Zadeck, Analysis of pointers and structures, Proceedings of the ACM SIGPLAN 1990 conference on Programming language design and implementation, p.296-310, June 1990, White Plains, New York, USA[doi>10.1145/93542.93585]
+Clarke, E. and Jha, S. 1995. Symmetry and induction in model checking. In Computer Science Today: Recent Trends and Developments, J. V. Leeuwen, Ed., Lecture Notes in Computer Science, vol. 1000, Springer-Verlag, New York, 455--470.
+Edmund M. Clarke , Orna Grumberg , Somesh Jha , Yuan Lu , Helmut Veith, Counterexample-Guided Abstraction Refinement, Proceedings of the 12th International Conference on Computer Aided Verification, p.154-169, July 15-19, 2000
+R. L. Constable , S. D. Johnson , C. D. Eichenlaub, An  Introduction to the PL/CV2 Programming Logic, Springer-Verlag New York, Inc., Secaucus, NJ, 1982
+Patrick Cousot , Radhia Cousot, Abstract interpretation: a unified lattice model for static analysis of programs by construction or approximation of fixpoints, Proceedings of the 4th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.238-252, January 17-19, 1977, Los Angeles, California[doi>10.1145/512950.512973]
+Patrick Cousot , Radhia Cousot, Systematic design of program analysis frameworks, Proceedings of the 6th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.269-282, January 29-31, 1979, San Antonio, Texas[doi>10.1145/567752.567778]
+Das, S., Dill, D., and Park, S. 1999. Experience with predicate abstraction. In Proceedings of Computer-Aided Verification, 160--171.
+Deutsch, L. 1973. An interactive program verifier. Ph.D. Thesis, University of California, Berkeley, Calif.
+Edsger Wybe Dijkstra, A  Discipline of Programming, Prentice Hall PTR, Upper Saddle River, NJ, 1997
+Elgaard, J., Møller, A., and Schwartzbach, M. 2000. Compile-time debugging of C programs working on trees. In Proceedings of the 2000 European Symposium on Programming, 119--134.
+E. Allen Emerson , A. Prasad Sistla, Symmetry and Model Checking, Proceedings of the 5th International Conference on Computer Aided Verification, p.463-478, June 28-July 01, 1993
+Ginsberg, M. 1988. Multivalued logics: A uniform approach to inference in artificial intelligence. Comp. Intell. 4, 265--316.
+Susanne Graf , Hassen Saïdi, Construction of Abstract State Graphs with PVS, Proceedings of the 9th International Conference on Computer Aided Verification, p.72-83, June 22-25, 1997
+David Gries, The  Science of Programming, Springer-Verlag New York, Inc., Secaucus, NJ, 1987
+Laurie Jane Hendren, Parallelizing programs with recursive data structures, Cornell University, Ithaca, NY, 1990
+L. J. Hendren , A. Nicolau, Parallelizing Programs with Recursive Data Structures, IEEE Transactions on Parallel and Distributed Systems, v.1 n.1, p.35-47, January 1990[doi>10.1109/71.80123]
+Laurie J. Hendren , Joseph Hummell , Alexandru Nicolau, Abstractions for recursive pointer data structures: improving the analysis and transformation of imperative programs, Proceedings of the ACM SIGPLAN 1992 conference on Programming language design and implementation, p.249-260, June 15-19, 1992, San Francisco, California, USA[doi>10.1145/143095.143138]
+Hoare, C. 1975. Recursive data structures. Int. J. Comput. Inf. Sci. 4, 2, 105--132.
+S. Horwitz , P. Pfeiffer , T. Reps, Dependence analysis for pointer variables, Proceedings of the ACM SIGPLAN 1989 Conference on Programming language design and implementation, p.28-40, June 19-23, 1989, Portland, Oregon, USA[doi>10.1145/73141.74821]
+Jakob L. Jensen , Michael E. Jørgensen , Michael I. Schwartzbach , Nils Klarlund, Automatic verification of pointer programs using monadic second-order logic, Proceedings of the ACM SIGPLAN 1997 conference on Programming language design and implementation, p.226-234, June 16-18, 1997, Las Vegas, Nevada, USA[doi>10.1145/258915.258936]
+Jones, N. and Muchnick, S. 1981. Flow analysis and optimization of Lisp-like structures. In Program Flow Analysis: Theory and Applications, S. Muchnick and N. Jones, Eds., Prentice-Hall, Englewood Cliffs, N.J., Chapter 4, 102--131.
+Neil D. Jones , Steven S. Muchnick, A flexible approach to interprocedural data flow analysis and programs with recursive data structures, Proceedings of the 9th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.66-74, January 25-27, 1982, Albuquerque, New Mexico[doi>10.1145/582153.582161]
+James Cornelius King, A program verifier, Carnegie Mellon University, Pittsburgh, PA, 1970
+Kleene, S. 1987. Introduction to Metamathematics, Second Ed. North-Holland, Amsterdam.
+Kunen, K. 1998. Personal communication.
+J. R. Larus , P. N. Hilfinger, Detecting conflicts between structure accesses, Proceedings of the ACM SIGPLAN 1988 conference on Programming Language design and Implementation, p.24-31, June 20-24, 1988, Atlanta, Georgia, USA[doi>10.1145/53990.53993]
+Lev-Ami, T. 2000. TVLA: A framework for Kleene based static analysis. M.S. Thesis, Tel-Aviv University, Tel-Aviv, Israel.
+Tal Lev-Ami , Shmuel Sagiv, TVLA: A System for Implementing Static Analyses, Proceedings of the 7th International Symposium on Static Analysis, p.280-301, June 29-July 01, 2000
+Tal Lev-Ami , Thomas Reps , Mooly Sagiv , Reinhard Wilhelm, Putting static analysis to work for verification: A case study, Proceedings of the 2000 ACM SIGSOFT international symposium on Software testing and analysis, p.26-38, August 21-24, 2000, Portland, Oregon, USA[doi>10.1145/347324.348031]
+Lifschitz, V. 1998. Personal communication.
+Morris, J. 1982. Assignment and linked data structures. In Theoretical Foundations of Programming Methodology, M. Broy and G. Schmidt, Eds., D. Reidel, Boston, 35--41.
+Nielson, F., Nielson, H., and Sagiv, M. 2000. A Kleene analysis of mobile ambients. In Proceedings of ESOP 2000, G. Smolka, Ed., Lecture Notes in Computer Science, vol. 1782, Springer, New York, 305--319.
+John Plevyak , Andrew A. Chien , Vijay Karamcheti, Analysis of Dynamic Structures for Efficient Parallel Execution, Proceedings of the 6th International Workshop on Languages and Compilers for Parallel Computing, p.37-56, August 12-14, 1993
+Rinetskey, N. and Sagiv, M. 2001. Interprocedural shape analysis for recursive programs. In Proceedings of CC 2001, R. Wilhelm, Ed., Lecture Notes in Computer Science, vol. 2027, Springer, New York, 133--149.
+Mooly Sagiv , Thomas Reps , Reinhard Wilhelm, Solving shape-analysis problems in languages with destructive updating, ACM Transactions on Programming Languages and Systems (TOPLAS), v.20 n.1, p.1-50, Jan. 1998[doi>10.1145/271510.271517]
+Mooly Sagiv , Thomas Reps , Reinhard Wilhelm, Parametric shape analysis via 3-valued logic, Proceedings of the 26th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.105-118, January 20-22, 1999, San Antonio, Texas, USA[doi>10.1145/292540.292552]
+Jan Stransky, A lattice for abstract interpretation of dynamic (LISP-like) structures, Information and Computation, v.101 n.1, p.70-102, Nov. 1992[doi>10.1016/0890-5401(92)90076-R]
+Edward Yan-Bing Wang , Paul N. Hilfinger, Analysis of recursive types in an imperative language, University of California, Berkeley, 1994
+Eran Yahav, Verifying safety properties of concurrent Java programs using 3-valued logic, Proceedings of the 28th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.27-40, January 2001, London, United Kingdom[doi>10.1145/360204.360206]
+Yahav, E., Reps, T., and Sagiv, M. 2001. LTL model checking for systems with unbounded number of dynamically created threads and objects. Tech. Rep. TR-1424, Comp. Sci. Dept., Univ. of Wisconsin, Madison, Wisc. March.

@@ -1,0 +1,36 @@
+Krzysztof R. Apt, From logic programming to Prolog, Prentice-Hall, Inc., Upper Saddle River, NJ, 1996
+Krzysztof R. Apt , Dino Pedreschi, Modular termination proofs for logic and pure PROLOG programs, Advances in logic programming theory, Oxford University Press, Inc., New York, NY, 1995
+Thomas Arts , Hans Zantema, Termination of Logic Programs Using Semantic Unification, Proceedings of the 5th International Workshop on Logic Programming Synthesis and Transformation, p.219-233, September 20-22, 1995
+Bol, R. N. 1993. Loop checking in partial deduction. J. Logic Prog. 16, 25--46.
+Roland N. Bol , Krzysztof R. Apt , Jan Willem Klop, An analysis of loop checking mechanisms for logic programs, Theoretical Computer Science, v.86 n.1, p.35-79, Aug. 18, 1991[doi>10.1016/0304-3975(91)90004-L]
+Clark, K. L. 1979. Predicate logic as a computational formalism. Tech. Rep. Doc 79/59, Logic Programming Group, Imperial College, London.
+Codish, M. and Taboch, C. 1999. A semantic basis for the termination analysis of logic programs. J. Logic Prog. 41, 1, 103--123.
+D. de Schreye , M. Bruynooghe , K. Verschaetse, On the existence of nonterminating queries for a restricted class of PROLOG-clauses, Artificial Intelligence, v.41 n.2, p.237-248, Dec. 1989[doi>10.1016/0004-3702(89)90012-X]
+De Schreye, D. and Decorte, S. 1994. Termination of logic programs: the never-ending story. J. Logic Prog. 19--20, 199--260.
+Danny De Schreye , Kristof Verschaetse , Maurice Bruynooghe, A practical technique for detecting non-terminating queries for a restricted class of Horn clauses, using directed, weighted graphs, Logic programming, MIT Press, Cambridge, MA, 1990
+Deransart, P. and Ferrand, G. 1987. Programmation en logique avec négation: Présentation formelle. Tech. Rep. 87/3, Laboratoire d'Informatique, Département de Mathématiques et d'Informatique, Université d'Orleans.
+Dershowitz, N., Lindenstrauss, N., Sagiv, Y., and Serebrenik, A. 2001. A general framework for automatic termination analysis of logic programs. Applicable Algebra in Engineering,Communication and Computing 12, 1/2, 117--156.
+Devienne, P. 1988. Weighted graphs, a tool for expressing the behavious of recursive rules in logic programming. I. for New Generation Computer Technology (ICOT), Ed. OHMSHA Ltd. Tokyo and Springer-Verlag, 397--404. Proceedings of the International Conference on Fifth Generation Computer Systems 88, Tokyo, Japan.
+P. Devienne, Weighted graphs: a tool for studying the halting problem and time complexity in term rewriting systems and logic programming, Theoretical Computer Science, v.75 n.1-2, p.157-215, Sep. 1990[doi>10.1016/0304-3975(90)90066-Q]
+Philippe Devienne , Patrick Lebègue , Jean-Christophe Routier, Halting Problem of One Binary Horn Clause is Undecidable, Proceedings of the 10th Annual Symposium on Theoretical Aspects of Computer Science, p.48-57, February 25-27, 1993
+Maurizio Gabbrielli , Roberto Giacobazzi, Goal independency and call patterns in the analysis of logic programs, Proceedings of the 1994 ACM symposium on Applied computing, p.394-399, March 06-08, 1994, Phoenix, Arizona, USA[doi>10.1145/326619.326789]
+Genaim, S. and Codish, M. 2001. Inferring termination condition for logic programs using backwards analysis. In Proceedings of Logic for Programming, Artificial intelligence and Reasoning. Lecture Notes in Computer Science. Springer-Verlag, Berlin. TerminWeb can be used online from http://www.cs.bgu.ac.il/~codish.
+Gori, R. and Levi, G. 1997. Finite failure is and-compositional. J. Logic Comput. 7, 6, 753--776.
+J. Jaffar , J.-L. Lassez, Constraint logic programming, Proceedings of the 14th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.111-119, January 21-23, 1987, Munich, West Germany[doi>10.1145/41625.41635]
+Naomi Lindenstrauss , Yehoshua Sagiv , Alexander Serebrenik, TermiLog: A System for Checking Termination of Queries to Logic Programs, Proceedings of the 9th International Conference on Computer Aided Verification, p.444-447, June 22-25, 1997
+J. W. Lloyd, Foundations of logic programming; (2nd extended ed.), Springer-Verlag New York, Inc., New York, NY, 1987
+Moreno Falaschi , Giorgio Levi , Maurizio Martelli , Catuscia Palamidessi, A model-theoretic reconstruction of the operational semantics of logic programs, Information and Computation, v.103 n.1, p.86-113, March 1993[doi>10.1006/inco.1993.1015]
+Mesnard, F. 1996. Inferring left-terminating classes of queries for constraint logic programs by means of approximations. In Proceedings of the 1996 Joint International Conference and Symposium on Logic Programming, M. J. Maher, Ed. MIT Press, 7--21.
+Fred Mesnard , Roberto Bagnara, cTI: a constraint-based termination inference tool for ISO-Prolog, Theory and Practice of Logic Programming, v.5 n.1-2, p.243-257, January 2005[doi>10.1017/S1471068404002017]
+Mesnard, F. and Neumerkel, U. 2000. cTI: a tool for inferring termination conditions of ISO-Prolog. http://www.univ-reunion.fr/~gcc.
+Mesnard, F. and Neumerkel, U. 2001. Applying static analysis techniques for inferring termination conditions of logic programs. In Static Analysis Symposium, P. Cousot, Ed. Lecture Notes in Computer Science, vol. 2126. Springer-Verlag, Berlin, 93--110.
+Frédéric Mesnard , Étienne Payet , Ulrich Neumerkel, Detecting Optimal Termination Conditions of Logic Programs, Proceedings of the 9th International Symposium on Static Analysis, p.509-526, September 17-20, 2002
+Richard A. O'Keefe, The craft of Prolog, MIT Press, Cambridge, MA, 1990
+Payet, E. and Mesnard, F. 2004. nontermination inference of logic programs. In Proceedings of the 11th International Symposium on Static Analysis, R. Giacobazzi, Ed. Lecture Notes in Computer Science, vol. 3148. Springer-Verlag, Berlin.
+Lutz Plümer, Termination proofs for logic programs, Springer-Verlag New York, Inc., New York, NY, 1990
+Dan Sahlin, The Mixtus approach to automatic partial evaluation of full Prolog, Proceedings of the 1990 North American conference on Logic programming, p.377-398, January 1990, Austin, Texas, USA
+Dan Sahlin, Mixtus: an automatic partial evaluator for full Prolog, New Generation Computing, v.12 n.1, p.7-51, 1993[doi>10.1007/BF03038271]
+Manfred Schmidt-Schauss, Implication of clauses is undecidable, Theoretical Computer Science, v.59 n.3, p.287-296, Aug. 1988[doi>10.1016/0304-3975(88)90146-6]
+Yi-Dong Shen, An extended variant of atoms loop check for positive logic programs, New Generation Computing, v.15 n.2, p.187-203, 1997[doi>10.1007/BF03037237]
+Yi-Dong Shen , Jia-Huai You , Li-Yan Yuan , Samuel S. P. Shen , Qiang Yang, A dynamic approach to characterizing termination of general logic programs, ACM Transactions on Computational Logic (TOCL), v.4 n.4, p.417-430, October 2003[doi>10.1145/937555.937556]
+Yi-Dong Shen , Li-Yan Yuan , Jia-Huai You, Loop checks for logic programs with functions, Theoretical Computer Science, v.266 n.1-2, p.441-461, 09/06/2001[doi>10.1016/S0304-3975(00)00197-3]

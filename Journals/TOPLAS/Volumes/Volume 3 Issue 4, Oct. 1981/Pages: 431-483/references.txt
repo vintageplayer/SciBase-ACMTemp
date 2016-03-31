@@ -1,0 +1,56 @@
+APT, K.R. A sound complete Hoare-like system for a fragment of PASCAL. Rep. IW 97/78, Mathematisch Centrum, Amsterdam, 1978.
+APT, K.R., BERGSTRA, J.A., AND MEr. RTENS, L.G.L.T. Recursive assertions are not enough--Or are they? Theor. Comput. Sci. 8 (1979), 73-87.
+Krzysztof R. Apt , J. W. de Bakker, Semantics and Proof Theory of Pascal Procedures, Proceedings of the Fourth Colloquium on Automata, Languages and Programming, p.30-44, July 18-22, 1977
+ArT, K.R., AND DE BAKKER, J.W. Exercises in denotational semantics. In Lecture Notes in Computer Science, vol. 45: Proc. 5th Syrup. Mathematical Foundations of Computer Science. Springer-Verlag, New York, 1976, pp. 1-11.
+BERGSTRA, J.A., AND TUCKER, J.V. Some natural structures which fail to possess a sound and decidable Hoare-like logic for their while-programs. Theor. Comput. Sci., to appear; earlier version appeared as Rep. IW 136/80, Mathematisch Centrum, Amsterdam, 1980.
+BERCSTRA, J.A., AND TUCKER, J.V. Expressiveness and the completeness of Hoare's logic. Rep. IW 149/80, Mathematisch Centrum, Amsterdam, 1980.
+Robert Cartwright , Derek Oppen, Unrestricted procedure calls in Hoare's logic, Proceedings of the 5th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.131-140, January 23-25, 1978, Tucson, Arizona[doi>10.1145/512760.512774]
+CLARKE, E.M., JR. Proving correctness of coroutines without history variables. Acta Inf. 13 (1980), pp. 169-188.
+Edmund Melson Clarke, Jr., Programming Language Constructs for Which It Is Impossible To Obtain Good Hoare Axiom Systems, Journal of the ACM (JACM), v.26 n.1, p.129-147, Jan. 1979[doi>10.1145/322108.322121]
+CLARKE, E.M., JR. Program invariants as fixed points. In Proc. 18th IEEE Symp. Foundations of Computer Science, 1977, pp. 18-29.
+Edmund Melson Clarke, Jr., Completeness and incompleteness theorems for hoare-like axiom systems., 1976
+CLINT, M. Program proving: Coroutines. Acta Inf. 2 (1973), 50-63.
+GLINT, M., AND HOARE, C.A.R. Program proving: Jumps and functions. Acta Inf. 1 (1971), 214-224.
+COOK, S.A. Soundness and completeness of an axiom system for program verification. SIAM J. Comput. 7, i (1978), 70-90.
+J. W. de Bakker, Mathematical Theory of Program Correctness, Prentice-Hall, Inc., Upper Saddle River, NJ, 1980
+Dr~ BAKKER, J.W. Correctness proofs for assignment statements. Rep. IW 55/76, Mathematisch Centrum, Amsterdam, 1976.
+Edsger Wybe Dijkstra, A  Discipline of Programming, Prentice Hall PTR, Upper Saddle River, NJ, 1997
+James Edward Donahue, Complementary Definitions of Programming Language Semantics, Springer-Verlag New York, Inc., Secaucus, NJ, 1976
+FLOYO, R.W. Assigning meanings to programs. In Proc. AMS Syrup. Applied Mathematics, vol. 19. American Mathematical Society, Providence, R.I., 1967, pp. 19-31.
+GORELICK, G.A. A complete axiomatic system for proving assertions about recursive and nonrecursive programs. Tech. Rep. 75, Dep. Computer Science, Univ. Toronto, 1975.
+GRIr~S, D. The multiple assignment statement. IEEE Trans. Softw. Eng. SE-4 (March 1978), 89-93.
+David Gries , Gary Levin, Assignment and Procedure Call Proof Rules, ACM Transactions on Programming Languages and Systems (TOPLAS), v.2 n.4, p.564-579, Oct. 1980[doi>10.1145/357114.357119]
+HARr~L, D. Proving the correctness of regular deterministic programs: A unifying survey using dynamic logic. Theor. Comput. Sci. 12 (1980), 61-81.
+David Harel, First-Order Dynamic Logic, Springer-Verlag New York, Inc., Secaucus, NJ, 1979
+HAREL, D., PNUELI, A., AND STAVI, J. Completeness issues for inductive assertions and Hoare's method. Tech. Rep., Dep. Computer Science, Univ. Tel Aviv, Israel, 1976.
+HOARE, C.A.R. Proof of correctness of data representations. Acta Inf. I (1972), 271-281.
+HOARE, C.A.R. Procedures and parameters: An axiomatic approach. In Lecture Notes in Mathematics, vol. 188: Semantics of Algorithmic Languages. Springer-Verlag, New York, 1971, pp. 102-116.
+C. A. R. Hoare, An axiomatic basis for computer programming, Communications of the ACM, v.12 n.10, p.576-580, Oct. 1969[doi>10.1145/363235.363259]
+HOARE, C.A.R., AND WIRTH, N. An axiomatic definition of the programming language PASCAL. Acta Inf. 2 (1973), 335-355.
+ICARASHI, S., LONDON, R.L., AND LUCKHAM, D.C. Automatic program verification i: A logical basis and its implementation. Acta Inf. 4 (1975), 145-182.
+T. M. V. Janssen , Peter van Emde Boas, On the Proper Treatment or Referencing, Dereferencing and Assignment, Proceedings of the Fourth Colloquium on Automata, Languages and Programming, p.282-300, July 18-22, 1977
+Peter Kandzia, On the Most Recent Property of Algol-Like Programs, Proceedings of the 2nd Colloquium on Automata, Languages and Programming, p.97-111, July 29-August 02, 1974
+LANCMAACX, H. A proof of a theorem of Lipton on Hoare Logic and applications. Ber. 8003, Inst. Inf. Prakt. Math., Univ. Kiel, W. Germany, 1980.
+Hans Langmaack, On a theory of decision problems in programming languages, Proceedings of the International Conference on Mathematical Studies of Information Processing, p.538-558, August 23-26, 1978
+LANGMAACK, H. On termination problems for finitely interpreted ALGOL-like programs. Ber. 7904, Inst. Inf. Prakt. Math., Univ. Kiel, W. Germany, 1980.
+LANGMAACK, H. On correct procedure parameter transmission in higher programming languages. Acta Inf. 2 (1973), 110-142.
+Hans Langmaack , Ernst-Rüdiger Olderog, Present-Day Hoare-Like Systems for Programming Languages with Procedures: Power, Limits and most Likely Expressions, Proceedings of the 7th Colloquium on Automata, Languages and Programming, p.363-373, July 14-18, 1980
+LAUER, P.E. Consistent formal theories of the semantics of programming languages. Tech. Rep. TR.25.121, IBM Lab. Vienna, Austria, 1971.
+LIPTON, R.J. A necessary and sufficient condition for the existence of Hoare Logics. In Proc. 18th IEEE Symp. Foundations of Computer Science, 1977, pp. 1-6.
+LOMAZOVA, I.A. O slo~,nosti induktivnyh uslovii dlja verifikacii arifmetiSeskih programm (On the complexity of inductive assertions for the verification of arithmetical programs). In Materialy Wsesojuznoi Nau5noi Studen~eskoi Konferencii, Matematika, Novosibirsk State Uni{z., Novosibirsk, U.S.S.R., 1978, pp. 85-94.
+LONDON, R.L., GUTTA~, J.V., HORNING, J.J., LAMPSON, B.W., MITCHELL, J.G., AND POPEK, G.J. Proof rules for the programming language Euclid. Acta Inf. 10 (1978), 1-26.
+Clement L. McGowan, The “most recent” error: Its causes and correction, Proceedings of ACM conference on Proving assertions about programs, p.191-202, January 06-07, 1972, Las Cruces, New Mexico, United States[doi>10.1145/800235.807085]
+MANNA, Z., AND PNUELI, A. Axiomatic approach to total correctness of programs. Acta Inf. 3 (1974), 253-263.
+Albert R. Meyer , Rohit Parikh, Definability in Dynamic Logic, Proceedings of the twelfth annual ACM symposium on Theory of computing, p.1-7, April 28-30, 1980, Los Angeles, California, United States[doi>10.1145/800141.804646]
+OLDEROG, E.R. General equivalence of expressivity definitions using strongest postconditions resp. weakest preconditions. Ber. 8007, Inst. Inf. Prakt. Math., Univ. Kiel, West Germany, 1980.
+OLDEROO, E.R. Sound and complete Hoare-like calculi based on copy rules. Ber. 7905, Inst. Inf. Prakt. Math., Univ. Kiel, West Germany, 1980; also Acta Inf., to appear.
+Derek C. Oppen , Stephen A. Cook, Proving assertions about programs that manipulate data structures, Proceedings of seventh annual ACM symposium on Theory of computing, p.107-116, May 05-07, 1975, Albuquerque, New Mexico, United States[doi>10.1145/800116.803758]
+OW~CKI, S., AND GRIES, D. An axiomatic proof technique for parallel programs I. Acta Inf. 6 (1976), 319-340.
+PRATT, V.R. Semantical considerations on Floyd-Hoare logic. Proc. 17th IEEE Symp. Foundations of Computer Science, 1976, pp. 109-121.
+PRESBURGER, M. Uber die VoUst~indigkeit eines gewissen Systems der Arithmetic ganzer Zahlen, in welchen die Addition als einzige Operation hervortritt. In C.R. ler Congr. de Math~maticiens de Pays Slavs, 1929.
+SCOTT, D., AND DE BAKKER, J.W. A theory of programs: Notes of an IBM Vienna seminar, 1969. Unpublished.
+SHOENFIELD, J.R. Mathematical Logic. Addison-Wesley, Reading, Mass., 1967.
+SOKOgOWSKi, S. Axioms for total correctness. Acta inf. 9 (1977), 61-72.
+SOKOr. OWSKI, S. Total correctness for procedures. In Lecture Notes in Computer Science, vol. 53: Proc. 6th Symp. Mathematical Foundations of Computer Science. Springer-Verlag, New York, 1977, pp. 475-483.
+Mitchell Wand, A New Incompleteness Result for Hoare's System, Journal of the ACM (JACM), v.25 n.1, p.168-175, Jan. 1978[doi>10.1145/322047.322062]
+Niklaus Wirth , C. A. R. Hoare, A contribution to the development of ALGOL, Communications of the ACM, v.9 n.6, p.413-432, June 1966[doi>10.1145/365696.365702]

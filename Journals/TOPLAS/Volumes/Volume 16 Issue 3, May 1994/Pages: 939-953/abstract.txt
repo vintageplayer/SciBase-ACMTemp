@@ -1,0 +1,6 @@
+This article presents a solution to thefirst-come, first-enabled&ell;-exclusion
+problem of Fischer et al. [1979]. Unlike their solution, this
+solution does not use powerful read-modify-write synchronization
+primitives and requires only bounded shared memory. Use of theconcurrent timestamp systemof Dolev
+and Shavir [1989] is key in solving the problem within bounded shared
+memory.

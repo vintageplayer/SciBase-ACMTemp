@@ -1,0 +1,71 @@
+A. Agrawal , G. E. Blelloch , R. L. Krawitz , C. A. Phillips, Four vector-matrix primitives, Proceedings of the first annual ACM symposium on Parallel algorithms and architectures, p.292-302, June 18-21, 1989, Santa Fe, New Mexico, USA[doi>10.1145/72935.72966]
+Alfred V. Aho , John E. Hopcroft, The  Design and Analysis of Computer Algorithms, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1974
+Alfred V. Aho , Ravi Sethi , Jeffrey D. Ullman, Compilers: principles, techniques, and tools, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+John Backus, Can programming be liberated from the von Neumann style?: a functional style and its algebra of programs, Communications of the ACM, v.21 n.8, p.613-641, Aug. 1978[doi>10.1145/359576.359579]
+Deb Banerjee, Formal implementation of high-level languages for data-parallel programming, Dartmouth College, Hanover, NH, 1992
+Utpal Banerjee, A theory of loop permutations, Selected papers of the second workshop on Languages and compilers for parallel computing, p.54-74, May 1990, Urbana, Illinois, USA
+David Lionel Black, Scheduling and resource management techniques for multiprocessors, Carnegie Mellon University, Pittsburgh, PA, 1990
+t~LELLOCH, G.E. Preflx sums and Jchelr appllcaGons, rPech, tlep. OMU-Og-90-190, gchool of Computer Science, Carnegie Mellon Univ., Pittsburgh, Pa., Nov. 1990.
+Guy E. Blelloch, Vector models for data-parallel computing, MIT Press, Cambridge, MA, 1990
+BLELLOCH, G. E., AND CHA~TERJEE, S. VCODE: A data-parallel intermediate language. In Proceedings of the 3rd Symposium on the Front~ers of Masszvely Parallel Computat~on (Col}ege Park, Md., Oct 8-10). IEEE, New York, 1990, 471-480
+Guy E. Blelloch , Gary W. Sabot, Compiling collection-oriented languages onto massively parallel computers, Journal of Parallel and Distributed Computing, v.8 n.2, p.119-134, February 1990[doi>10.1016/0743-7315(90)90087-6]
+S. Borkar , R. Cohn , G. Cox , S. Gleason , T. Gross, Warp: an integrated solution of high-speed parallel computing, Proceedings of the 1988 ACM/IEEE conference on Supercomputing, p.330-339, November 12-17, 1988, Orlando, Florida, USA
+Timothy A. Budd, An APL Compiler for a Vector Processor, ACM Transactions on Programming Languages and Systems (TOPLAS), v.6 n.3, p.297-313, July 1984[doi>10.1145/579.357248]
+Budd Timothy A., Composition and Compilation in Functional Programming Languages, Oregon State University, Corvallis, OR, 1988
+Budd Timothy A., A New Approach to Vector Code Generation for Applicative Languages, Oregon State University, Corvallis, OR, 1988
+Michael Burke , Ron Cytron, Interprocedural dependence analysis and parallelization, Proceedings of the 1986 SIGPLAN symposium on Compiler construction, p.162-175, June 25-27, 1986, Palo Alto, California, USA[doi>10.1145/12276.13328]
+Siddhartha Chatterjee, Compiling data-parallel programs for efficient execution on shared-memory multiprocessors, Carnegie Mellon University, Pittsburgh, PA, 1992
+CHATTEP~JEE, S., AND AGRAWAL, P. Connected speech recognition on a multiple processor plpeline. In Proceed~ngs of the 1989 IEEE International Conference on Acoustics, Speech and Signal Processmg (Glasgow~ Scotland, May 23 26). IEEE, New York, 1989, 774-777.
+Siddhartha Chatterjee , Guy E. Blelloch , Marco Zagha, Scan primitives for vector computers, Proceedings of the 1990 ACM/IEEE conference on Supercomputing, p.666-675, October 1990, New York, New York, USA
+CHATTERJEE~ S.~ GILBERT, J. R., SCHREIBER, R., AND TENG, S.-H. Optimal evaluation of array expressions on massively parallel machines. In Proceedtngs of the 2nd Workshop on Languages, Compllers, and Runtime Environments for Distributed Memory Multfprocessors (Boulder, Colo.~ Sept. 30-Oct. 2). ACM, New York, 1992, 68-71.
+W-M Ching, Program analysis and code generation in an APL/370 compiler, IBM Journal of Research and Development, v.30 n.6, p.594-602, Nov. 1986[doi>10.1147/rd.306.0594]
+Wai-Mee Ching, Automatic parallelization of APL-style programs, Conference proceedings on APL 90: for the future, p.76-80, August 13-17, 1990, Copenhagen, Denmark[doi>10.1145/97808.97826]
+COOPER, E. C., AND DRAVES, R.P. C threads Tech. Rep. CMU~CS-88-154, Dept. of Computer Science, Carnegie-Mellon Univ., Pittsburgh, Pa., June 1988.
+Keith Daniel Cooper, Interprocedural data flow analysis in a programming environment, Rice University, Houston, TX, 1983
+COOPER, K. D., AND KENNEDY, K. Interprocedural side effect analysis m linear rime. Tech. Rep. RIC 87-62, Dept. of Computer Science, R~ce Univ., t{ouston, Tex., Oct. 1987.
+COOPER, K. D., KENNEDY, K., AND TORCZON, L. Interprocedural constant propagation. Tech. Rep. RIC 85-29, Dept. of Computer Science, Rice Univ., Houston, Tex., Dec. 1985.
+Ron Cytron , Jim Lipkis , Edith Schonberg, A compiler-assisted approach to SPMD execution, Proceedings of the 1990 ACM/IEEE conference on Supercomputing, p.398-406, October 1990, New York, New York, USA
+R. Cytron , J. Ferrante , B. K. Rosen , M. N. Wegman , F. K. Zadeck, An efficient method of computing static single assignment form, Proceedings of the 16th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.25-35, January 11-13, 1989, Austin, Texas, USA[doi>10.1145/75277.75280]
+DALL~, W. J., CHIEN, A., FISKE, S., HORWAT, W., KEE~, J., LARIVEE, M., LET~IIN, R., NUTH, P., WILLIS, S., CARRICK, P., AND FLYLER, G. The J-Machine: A fine-grained concurrent computer. In Proceedings of the IFIP 11th World Computer Congress (San Francisco, Calif., Aug. 28 Sept. 1). IFIP, Amsterdam, 1989, 1147-1153.
+ENCORE COMPUTER CORPORATION. Multimax Techn~cal Summary. Encore Computer Corporation, Marlboro, Mass., 1988.
+John T. Feo , David C. Cann , Rodney R. Oldehoeft, A report on the Sisal language project, Journal of Parallel and Distributed Computing, v.10 n.4, p.349-366, Dec. 1990[doi>10.1016/0743-7315(90)90035-N]
+G. C. Fox, What have we learnt from using real parallel machines to solve real problems?, Proceedings of the third conference on Hypercube concurrent computers and applications, p.897-955, January 1989, Pasadena, California, USA[doi>10.1145/63047.63048]
+E. Gabber, VMMP: A Practical Tool for the Development of Portable and Efficient Programs for Multiprocessors, IEEE Transactions on Parallel and Distributed Systems, v.1 n.3, p.304-317, July 1990[doi>10.1109/71.80158]
+Michael R. Garey , David S. Johnson, Computers and Intractability: A Guide to the Theory of NP-Completeness, W. H. Freeman & Co., New York, NY, 1979
+Leo J. Guibas , Douglas K. Wyatt, Compilation and delayed evaluation in APL, Proceedings of the 5th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.1-8, January 23-25, 1978, Tucson, Arizona[doi>10.1145/512760.512761]
+Philip J. Hatcher , Anthony J. Lapadula , Robert R. Jones , Michael J. Quinn , Ray J. Anderson, A production-quality C* compiler for Hypercube multicomputers, Proceedings of the third ACM SIGPLAN symposium on Principles and practice of parallel programming, p.73-82, April 21-24, 1991, Williamsburg, Virginia, USA[doi>10.1145/109625.109634]
+Matthew S. Hecht, Flow Analysis of Computer Programs, Elsevier Science Inc., New York, NY, 1977
+Debra Hensgen , Raphael Finkel , Udi Manber, Two algorithms for barrier synchronization, International Journal of Parallel Programming, v.17 n.1, p.1-17, Feb. 1988[doi>10.1007/BF01379320]
+Kenneth E. Iverson, A programming language, John Wiley & Sons, Inc., New York, NY, 1962
+Dz-Ching Ju , Wai-Mee Ching, Exploitation of APL data parallelism on a shared-memory MIMD machine, Proceedings of the third ACM SIGPLAN symposium on Principles and practice of parallel programming, p.61-72, April 21-24, 1991, Williamsburg, Virginia, USA[doi>10.1145/109625.109633]
+Alan H. Karp, Programming for Parallelism, Computer, v.20 n.5, p.43-57, May 1987[doi>10.1109/MC.1987.1663563]
+Kathleen Knobe , Joan D. Lukas , Guy L. Stelle, Jr., Data optimization: allocation of arrays to reduce communication on SIMD machines, Journal of Parallel and Distributed Computing, v.8 n.2, p.102-118, February 1990[doi>10.1016/0743-7315(90)90086-5]
+Donald E. Knuth, The art of computer programming,  volume 3: (2nd ed.) sorting and searching, Addison Wesley Longman Publishing Co., Inc., Redwood City, CA, 1998
+KUNG, H. T. Computational models for parallel computers. Tech. Rep. CMU-CS-88-164, School of Computer Science, Carnegie Mellon Univ., Pittsburgh, Pa., Aug. 1987.
+Richard E. Ladner , Michael J. Fischer, Parallel Prefix Computation, Journal of the ACM (JACM), v.27 n.4, p.831-838, Oct. 1980[doi>10.1145/322217.322232]
+F. Thomson Leighton, Introduction to parallel algorithms and architectures: array, trees, hypercubes, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1991
+MILNER, R. A theory of type polymorphism in programming. J. Comput. Syst. Sci. 17, 3 (Dec. 1978), 348-375.
+Robin Milner , Mads Tofte , Robert Harper, The definition of Standard ML, MIT Press, Cambridge, MA, 1990
+Alexandru Nicolau , Haigeng Wang, Optimal schedules for parallel prefix computation with bounded resources, Proceedings of the third ACM SIGPLAN symposium on Principles and practice of parallel programming, p.1-10, April 21-24, 1991, Williamsburg, Virginia, USA[doi>10.1145/109625.109627]
+NORi, K. V., AMMANN, U., JENSEN, K., NAGELI, H. H., AND JACOBI, C. The PASCAL P compiler: Implementation notes (revised edition). Tech. Rep. 10, ETH, Zurich, Switzerland, Oct. 1976.
+Shlomit S. Pinter , Ron Y. Pinter, Program optimization and parallelization using idioms, Proceedings of the 18th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.79-92, January 21-23, 1991, Orlando, Florida, USA[doi>10.1145/99583.99597]
+Alex Pothen , Horst D. Simon , Kan-Pu Liou, Partitioning sparse matrices with eigenvectors of graphs, SIAM Journal on Matrix Analysis and Applications, v.11 n.3, p.430-452, Jul. 1990[doi>10.1137/0611030]
+Michael J. Quinn , Philip J. Hatcher, Data-Parallel Programming on Multicomputers, IEEE Software, v.7 n.5, p.69-76, September 1990[doi>10.1109/52.57894]
+Michael J. Quinn , Philip J. Hatcher , Karen C. Jourdenais, Compiling C* programs for a hypercube multicomputer, Proceedings of the ACM/SIGPLAN conference on Parallel programming: experience with applications, languages and systems, p.57-65, July 19-21, 1988, New Haven, Connecticut, USA[doi>10.1145/62115.62122]
+RAMAMOORTHY, C. V., CHANDY, K. M., AND GONZALEZ, M. J., JN. Optimal scheduling strategies in a multiprocessor system. IEEE Trans. Comput. C-21, 2 (Feb. 1972), 137-146.
+RASHID, R.F. Threads of a new system. Unix Rev. 4, 8 (Aug. 1986), 37-49.
+ROSE, J. R., AND STEELE, G. L., JR. C~": An extended C language for data parallel programming. In Proceed~ngs of the 2nd International Conference on Supercomput~ng. Vol. 2 (San Francisco, Calif., May 4-7). International Supercomputing Institute, St. Petersburg, Fla., 1987, 2-16.
+Gary W. Sabot, The  Paralation Model: Architecture-Independent Parallel Programming, MIT Press, Cambridge, MA, 1989
+Vivek Sarkar, Partitioning and Scheduling Parallel Programs for Multiprocessors, MIT Press, Cambridge, MA, 1989
+Vivek Sarkar , Guang R. Gao, Optimization of array accesses by collective loop transformations, Proceedings of the 5th international conference on Supercomputing, p.194-205, June 17-21, 1991, Cologne, West Germany[doi>10.1145/109025.109077]
+SIPELSTEIN, J.M. Data representation optimizations for collection-oriented languages. Ph.D. thesis, School of Computer Science, Carnegie Mellon Univ., Pittsburgh, Pa To appear.
+SIPELSTEIN, J. M., AND BLELLOCH, G.E. Collectlon-oriented languages. Proc. IEEE 79, 4 (Apr. 1991), 504-523.
+Guy L. Steele, Jr., Common LISP: the language (2nd ed.), Digital Press, Newton, MA, 1990
+Joseph E. Stoy, Denotational Semantics: The Scott-Strachey Approach to Programming Language Theory, MIT Press, Cambridge, MA, 1977
+Shang-Hua Teng, Points, spheres, and separators: a unified geometric approach to graph partitioning, Carnegie Mellon University, Pittsburgh, PA, 1992
+THINKING MACHINES CORPORATION. C* Programmtng Guide Verszon 6.0 Beta Thinkmg Machines Corp., Cambndge, Mass., Aug. 1990.
+Clifford Walinsky , Deb Banerjee, A functional programming language compiler for massively parallel computers, Proceedings of the 1990 ACM conference on LISP and functional programming, p.131-138, June 27-29, 1990, Nice, France[doi>10.1145/91556.91610]
+Richard C. Waters, Automatic transformation of series expressions into loops, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.1, p.52-98, Jan. 1991[doi>10.1145/114005.102806]
+Skef Wholey, Automatic data mapping for distributed-memory parallel computers, Carnegie Mellon University, Pittsburgh, PA, 1991
+Michael Joseph Wolfe, Optimizing Supercompilers for Supercomputers, MIT Press, Cambridge, MA, 1990
+M. Y. Wu , D. D. Gajski, Hypertool: A Programming Aid for Message-Passing Systems, IEEE Transactions on Parallel and Distributed Systems, v.1 n.3, p.330-343, July 1990[doi>10.1109/71.80160]

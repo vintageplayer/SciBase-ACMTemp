@@ -1,0 +1,43 @@
+Achten, P. 1991. Annotations for load distribution. In Proceedings of the 3rd International Workshop on Parallel Implementation of Fuctional Languages. Tech. Rep. CSTR 91-07, University of Southampton.
+Arvind , Rishiyur S. Nikhil , Keshav Pingali, I-structures: Data structures for parallel computing, Proceedings of the Workshop on Graph Reduction, p.336-369, September 29-October 01, 1986
+Barnes, J. and Hut, P. 1986. A hierarchical O(n log n) force-calculation algorithm. Nature, December.
+Bloss, A. Hudak, P. and Young, J. 1988. Code optimization for lazy evaluation. LISP Symb. Comput. 1, 1, 147--164.
+Broy, M. 1981. A fixed point approach to applicative multi-programming. In Lecture Notes. International Summer School on Theoretical Foundations of Programming Methodology, 1981.
+F. Warren Burton, Annotations to Control Parallelism and Reduction Order in the Distributed Evaluation of Functional Programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.6 n.2, p.159-174, April 1984[doi>10.1145/2993.357241]
+F. W. Burton, Nondeterminism with referential transparency in functional programming languages, The Computer Journal, v.31 n.3, p.243-247, June 1988[doi>10.1093/comjnl/31.3.243]
+Marina Chen , Young-il Choo , Jingke Li, Crystal: theory and pragmatics of generating efficient parallel code, Parallel functional languages and compilers, ACM, New York, NY, 1991[doi>10.1145/107214.129259]
+William Clinger, Nondeterministic call by need is neither lazy nor by name, Proceedings of the 1982 ACM symposium on LISP and functional programming, p.226-234, August 15-18, 1982, Pittsburgh, Pennsylvania, USA[doi>10.1145/800068.802154]
+Clinger, W. et al. 1985. The Revised Report on Scheme, or an UnCommon Lisp. AI Memo 848. Massachusetts Institute of Technology, Cambridge, Mass., (Aug.).
+John Darlington , Mike Reeve, ALICE a multi-processor reduction machine for the parallel evaluation CF applicative languages, Proceedings of the 1981 conference on Functional programming languages and computer architecture, p.65-76, October 18-22, 1981, Portsmouth, New Hampshire, USA[doi>10.1145/800223.806764]
+Fast: Functional programming for arrays of transputers---The collected papers.1993 Tech. Rep. DOC 93/47, Department of Computing, Imperial College.
+Gordon, D. A. 1993. Functional programming and input/output. Ph.D. dissertation. Computer Laboratory, University of Cambridge, (Feb).
+Robert H. Halstead, Jr., MULTILISP: a language for concurrent symbolic computation, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.4, p.501-538, Oct. 1985[doi>10.1145/4472.4478]
+Henderson. P. 1982. Purely functional operating systems. In Functional Programming and Its Applications, J. Darlington, P. Henderson, and D. A. Turner, Eds. Cambridge University Press, Cambridge, Mass., pp. 177--189.
+Paul Hudak , Benjamin Goldberg, Serial combinators: “optimal” grains of parallelism, Proc. of a conference on Functional programming languages and computer architecture, p.382-399, January 1985, Nancy, France
+Paul Hudak , Lauren Smith, Para-functional programming: a paradigm for programming multiprocessor systems, Proceedings of the 13th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.243-254, January 01, 1986, St. Petersburg Beach, Florida[doi>10.1145/512644.512667]
+Paul Hudak, Arrays, non-determinism, side-effects, and parallelism: A functional perspective, Proc. of a workshop on Graph reduction, p.312-327, September 1987, Santa Fe, New Mexico, USA
+Paul Hudak, Denotational semantics of a para-functional programming language, International Journal of Parallel Programming, v.15 n.2, p.103-125, April 1986[doi>10.1007/BF01414441]
+Paul Hudak, Para-Functional Programming, Computer, v.19 n.8, p.60-70, August 1986[doi>10.1109/MC.1986.1663309]
+Hudak, P. 1990. Para-functional programming in Haskell. In Boleslaw K. Szymanski, editor, Parallel Functional Programming Languages and Environments, Series in Supercomputing and Parallel Processing. McGraw-Hill, 1990.
+Suresh Jagannathan , Jim Philbin, A foundation for an efficient multi-threaded scheme system, Proceedings of the 1992 ACM conference on LISP and functional programming, p.345-357, June 22-24, 1992, San Francisco, California, USA[doi>10.1145/141471.141573]
+Paul H. Kelly, Functional Programming for Loosely-Coupled Multiprocessors, MIT Press, Cambridge, MA, 1989
+John M. Kewley , Kevin Glynn, Evaluation Annotations for Hope+, Proceedings of the 1989 Glasgow Workshop on Functional Programming, p.329-337, August 21-23, 1989
+Rajiv Mirani , Paul Hudak, First-class schedules and virtual maps, Proceedings of the seventh international conference on Functional programming languages and computer architecture, p.78-85, June 26-28, 1995, La Jolla, California, USA[doi>10.1145/224164.224185]
+Rajiv Mirani , Paul Hudak, High-level abstractions for parallel functional programming, Yale University, New Haven, CT, 1996
+Moggi, E. 1990. An abstract view of programming languages. Tech. Rep. ECS-LFCS-90-113, Laboratory for Foundations of Computer Science, University of Edinburgh, Edinburgh, Scotland.
+Nikhil, R. S., Arvind, Hicks, J., Aditya, S., Augustsson, L., Maessen, J.-W., and Zhou, Y. 1995. pH language reference manual, version 1.0---preliminary. CSG Memo 369, Laboratory for Computer Science, MIT, Cambridge, Mass.
+Nikhil, R. S. 1991. Id (version 90.1) language reference manual. CSG Memo 284-2, Laboratory for Computer Science, MIT, Cambridge, Mass.
+Papadopoulos, G. M. 1988. Implementation of a General Purpose Dataflow Multiprocessor. Ph.D. dissertation, Laboratory for Computer Science, MIT, Cambridge, Mass.
+Peyton Jones, S. L., Ed. 2003. Haskell 98 Language and Libraries---The Revised Report. Cambridge University Press, Cambridge, England.
+Simon L. Peyton Jones , Philip Wadler, Imperative functional programming, Proceedings of the 20th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.71-84, March 1993, Charleston, South Carolina, USA[doi>10.1145/158511.158524]
+Simon L. Peyton Jones , Chris Clack , John Salkild , Mark Hardie, GRIP—A high-performance architecture for parallel graph reduction, Proc. of a conference on Functional programming languages and computer architecture, p.98-112, October 1987, Portland, Oregon, USA
+James Francis Philbin, The design of an operating system for modern programming languages, Yale University, New Haven, CT, 1993
+Iain B. Robertson, Hope+ on Flagship, Proceedings of the 1989 Glasgow Workshop on Functional Programming, p.296-307, August 21-23, 1989
+Sondergaard, H., and Sestoft, P. 1988. Nondeterminism in functional languages. Tech. Rep. 88/18, Department of Computer Science, University of Melbourne, Melbourne, Australia.
+Stoye, W. 1984. A new scheme for writing functional operating systems. Tech. Rep. 56, Cambridge University Computer Laboratory.
+Philip C. Treleaven , David R. Brownbridge , Richard P. Hopkins, Data-Driven and Demand-Driven Computer Architecture, ACM Computing Surveys (CSUR), v.14 n.1, p.93-143, March 1982[doi>10.1145/356869.356873]
+P. W. Trinder , K. Hammond , H.-W. Loidl , S. L. Peyton Jones, Algorithm + strategy = parallelism, Journal of Functional Programming, v.8 n.1, p.23-60, January 1998[doi>10.1017/S0956796897002967]
+David Turner, Functional Programming and Communicating Processes, Proceedings of the Parallel Architectures and Languages Europe, Volume I, p.54-74, June 15-19, 1987
+Philip Wadler, Theorems for free!, Proceedings of the fourth international conference on Functional programming languages and computer architecture, p.347-359, September 11-13, 1989, Imperial College, London, United Kingdom[doi>10.1145/99370.99404]
+Philip Wadler, The essence of functional programming, Proceedings of the 19th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.1-14, January 19-22, 1992, Albuquerque, New Mexico, USA[doi>10.1145/143165.143169]
+Michał Walicki , Sigurd Meldal, Algebraic approaches to nondeterminism—an overview, ACM Computing Surveys (CSUR), v.29 n.1, p.30-81, March 1997[doi>10.1145/248621.248623]

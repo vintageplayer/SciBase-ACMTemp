@@ -1,0 +1,27 @@
+Bertelsen, P. 1997. Semantics of Java byte code. Available under ftp://ftp.dina.kvl.dk/pub/Staff/Peter.Bertelsen/jvm-semantics.ps.gz.
+B~rger, E. and Schulte, W. 1999. Modular design for the Java virtual machine architecture. ftp://ftp.di.unipi.it/pub/Papers/boerger/jvmarch.ps.
+Coglio, A., Goldberg, A., and Qian, Z. 1998. Towards a provably-correct implementation of the JVM bytecode verifier. In Proc. OOPSLA'98 Workshop Formal Underpinnings of Java. IEEE Computer Society Press.
+Cohen, R. 1997. The Defensive Java Virtual Machine specification. Tech. rep., Computational Logic inc.
+Patrick Cousot , Radhia Cousot, Abstract interpretation: a unified lattice model for static analysis of programs by construction or approximation of fixpoints, Proceedings of the 4th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.238-252, January 17-19, 1977, Los Angeles, California[doi>10.1145/512950.512973]
+Cousot, P. and Cousot, R. 1979. Constructive versions of Tarski's fixed point theorems. Pacific Journal of Mathematics 82, 1, 43-57.
+Stephen N. Freund , John C. Mitchell, A type system for object initialization in the Java bytecode language, Proceedings of the 13th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, p.310-327, October 18-22, 1998, Vancouver, British Columbia, Canada[doi>10.1145/286936.286972]
+Stephen N. Freund , John C. Mitchell, A formal framework for the Java bytecode language and verifier, Proceedings of the 14th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, p.147-166, November 01-05, 1999, Denver, Colorado, USA[doi>10.1145/320384.320397]
+Freund, S. and Mitchell, J. 1999b. Specification and verification of Java bytecode subroutines and exceptions. Tech. rep., Computer Science Department, Stanford University.
+Alfons Geser , Jens Knoop , Gerald Lüttgen , Oliver Rüthing , Bernhard Steffen, Non-monotone Fixpoint Iterations to Resolve Second Order Effects, Proceedings of the 6th International Conference on Compiler Construction, p.106-120, April 24-26, 1996
+Allen Goldberg, A specification of Java loading and bytecode verification, Proceedings of the 5th ACM conference on Computer and communications security, p.49-58, November 02-05, 1998, San Francisco, California, USA[doi>10.1145/288090.288104]
+Hagiya, M. and Tozawa, A. 1998. On a new method for data ow analysis of Java Virtual Machine subroutines. In Proc. 1998 Static Analysis Symposium. Springer-Verlag LNCS.
+Susan Eisenbach, Formal underpinnings of Java, Addendum to the 1998 proceedings of the conference on Object-oriented programming, systems, languages, and applications (Addendum), p.0.35-A35, January 1998, Vancouver, British Columbia, Canada[doi>10.1145/346852.346968]
+Gary A. Kildall, A unified approach to global program optimization, Proceedings of the 1st annual ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.194-206, October 01-03, 1973, Boston, Massachusetts[doi>10.1145/512927.512945]
+Lassez, J.-L., Nguyen, V., and Sonnenberg, E. 1982. Fixed point theorems and semantics: A folk tale. Information Processing Letters 14, 3, 112-116.
+Tim Lindholm , Frank Yellin, Java Virtual Machine Specification, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1999
+J. Gregory Morrisett , Karl Crary , Neal Glew , David Walker, Stack-Based Typed Assembly Language, Proceedings of the Second International Workshop on Types in Compilation, p.28-52, March 25-27, 1998
+Greg Morrisett , David Walker , Karl Crary , Neal Glew, From system F to typed assembly language, Proceedings of the 25th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.85-97, January 19-21, 1998, San Diego, California, USA[doi>10.1145/268946.268954]
+Steven S. Muchnick, Advanced compiler design and implementation, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1998
+Nipkow, T. 2000. Verified bytecode verifiers. Tech. rep., Technische Universit~t M~nchen. http://www.in.tum.de/ nipkow/pubs/bcv2.html.
+O'Callahan, R. 1999a. Private communication.
+Robert O'Callahan, A simple, comprehensive type system for Java bytecode subroutines, Proceedings of the 26th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.70-78, January 20-22, 1999, San Antonio, Texas, USA[doi>10.1145/292540.292549]
+Pusch, C. 1999. Proving the soundness of a Java bytecode verifier specification in Isabelle/HOL. In Proc. 1999 Conf. on Tools and Algorithms for the Construction and Analysis of Systems (TACAS '99). LNCS, vol. 1579. Springer-Verlag, 89-103.
+Qian, Z. 1998. A formal specification of Java virtual machine instructions for objects, methods and subroutines. In Formal Syntax and Semantics of Java, J. Alves-Foss, Ed. LNCS, vol. 1523. Springer-Verlag.
+Smolka, G., Nutt, W., Goguen, J., and Meseguer, J. 1989. Order-sorted equational computation. In Resolution of Equations in Algebraic Structures, volume 2, H. A~t-Kaci and M. Nivat, Eds. Academic Press, 297-367.
+Raymie Stata , Martín Abadi, A type system for Java bytecode subroutines, Proceedings of the 25th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.149-160, January 19-21, 1998, San Diego, California, USA[doi>10.1145/268946.268959]
+Phillip M. Yelland, A compositional account of the Java virtual machine, Proceedings of the 26th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.57-69, January 20-22, 1999, San Antonio, Texas, USA[doi>10.1145/292540.292548]

@@ -1,0 +1,32 @@
+Patricia Anklam , Cutler , Heinen , MacLaren, Engineering a Compiler: VAX-11 Code Generation and Optimization, Butterworth-Heinemann, Newton, MA, 1982
+D. Bernstein , M. Golumbic , y. Mansour , R. Pinter , D. Goldin , H. Krawczyk , I. Nahshon, Spill code minimization techniques for optimizing compliers, ACM SIGPLAN Notices, v.24 n.7, p.258-263, July 1989[doi>10.1145/74818.74841]
+Preston Briggs, Register allocation via graph coloring, Rice University, Houston, TX, 1992
+Preston Briggs , Keith D. Cooper , Linda Torczon, Coloring register pairs, ACM Letters on Programming Languages and Systems (LOPLAS), v.1 n.1, p.3-13, March 1992[doi>10.1145/130616.130617]
+David Callahan , Brian Koblenz, Register allocation via hierarchical graph coloring, ACM SIGPLAN Notices, v.26 n.6, p.192-203, June 1991[doi>10.1145/113446.113462]
+G. J. Chaitin, Register allocation & spilling via graph coloring, Proceedings of the 1982 SIGPLAN symposium on Compiler construction, p.98-105, June 23-25, 1982, Boston, Massachusetts, United States[doi>10.1145/800230.806984]
+~ CHAITIN, G.J. 1986. Register allocal~lon and spilling via graph coloring. United States Patent ~ 4,571,678, Feb.
+~ CHAITIN, a. J., AUSLANDER, M. A., CRANDRA, A K, COOKE, J., HOPKINS, M. E., AND MARKSTEIN, ~ P.W. 1981. Register allocation via coloring. Comput. Lang. 6, 1 (Jan.), 47-57.
+Jong-Deok Choi , Ron Cytron , Jeanne Ferrante, Automatic construction of sparse data flow evaluation graphs, Proceedings of the 18th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.55-66, January 21-23, 1991, Orlando, Florida, United States[doi>10.1145/99583.99594]
+Frederick Chow , John Hennessy, Register allocation by priority-based coloring, Proceedings of the 1984 SIGPLAN symposium on Compiler construction, p.222-232, June 17-22, 1984, Montreal, Canada[doi>10.1145/502874.502896]
+Fred C. Chow , John L. Hennessy, The priority-based coloring approach to register allocation, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.4, p.501-536, Oct. 1990[doi>10.1145/88616.88621]
+COOPER, K. D., HALL, M. W., HOOD, R. T., KENNEDY, K., MCKINLEY, K., MELLOR-CRUMMEY, J., ~TORCZON, L., AND WARREN, S.K. 1993. The ParaScope parallel programming environment. ~Proc. IEEE 81, 2 (Feb.), 244-263.
+Ron Cytron , Jeanne Ferrante , Barry K. Rosen , Mark N. Wegman , F. Kenneth Zadeck, Efficiently computing static single assignment form and the control dependence graph, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.4, p.451-490, Oct. 1991[doi>10.1145/115372.115320]
+ERSHOV, A.P. 1962. Reduction of the problem of memory allocation in programming to the ~problem of coloring the vertices of graphs. Doklady Akademii Nauk S.S.S.R. 142, 4, 785-787. ~(English translation in Soviet Math. 3, 1 (Jan. 1962), 163-165.)
+A. P. Yershov, ALPHA—An Automatic Programming System of High Efficiency, Journal of the ACM (JACM), v.13 n.1, p.17-24, Jan. 1966[doi>10.1145/321312.321314]
+Janet Fabri, Automatic storage optimization, Proceedings of the 1979 SIGPLAN symposium on Compiler construction, p.83-91, August 06-10, 1979, Denver, Colorado, United States[doi>10.1145/800229.806957]
+Todd A. Proebsting , Charles N. Fischer, Probabilistic register allocation, ACM SIGPLAN Notices, v.27 n.7, p.300-310, July 1992[doi>10.1145/143103.143142]
+George E. Forsythe , Michael A. Malcolm , Cleve B. Moler, Computer Methods for Mathematical Computations, Prentice Hall Professional Technical Reference, 1977
+Christopher W. Fraser, A retargetable compiler for ANSI C, ACM SIGPLAN Notices, v.26 n.10, p.29-43, Oct. 1991[doi>10.1145/122616.122621]
+Christopher W. Fraser , David R. Hanson, Simple register spilling in a retargetable compiler, Software—Practice & Experience, v.22 n.1, p.85-99, Jan. 1992[doi>10.1002/spe.4380220105]
+Michael R. Garey , David S. Johnson, Computers and Intractability: A Guide to the Theory of NP-Completeness, W. H. Freeman & Co., New York, NY, 1979
+~GOLUB, G. H., AND REINSCH, C. 1971. Singular value decomposition and least squares solu- ~tions. In Handbook for Automatic Computation, J. H. Wilkinson and C. Reinsch, Eds. ~Springer-Verlag, New York.
+R. Gupta , M. L. Soffa , T. Steele, Register allocation via clique separators, Proceedings of the ACM SIGPLAN 1989 Conference on Programming language design and implementation, p.264-274, June 19-23, 1989, Portland, Oregon, United States[doi>10.1145/73141.74842]
+Mark S. Johnson , Terrence C. Miller, Effectiveness of a machine-level, global optimizer, ACM SIGPLAN Notices, v.21 n.7, p.99-108, July 1986[doi>10.1145/13310.13321]
+Kenneth Wade Kennedy, Jr., Global flow analysis and register allocation for simple code structures, 1971
+James R. Larus , Paul N. Hilfinger, Register allocation in the SPUR Lisp compiler, ACM SIGPLAN Notices, v.21 n.7, p.255-263, July 1986[doi>10.1145/13310.13337]
+~LAVROV, S.S. 1961. Store economy in closed operator schemes. J. Comput. Math. Math. Phys. ~1, 4, 687-701. (English translation in U.S.S.R. Comput. Math. Math. Phys. 1, 3 (1962), ~810-828.
+David W. Matula , Leland L. Beck, Smallest-last ordering and clustering and graph coloring algorithms, Journal of the ACM (JACM), v.30 n.3, p.417-427, July 1983[doi>10.1145/2402.322385]
+Brian R. Nickerson, Graph coloring register allocation for processors with multi-register operands, ACM SIGPLAN Notices, v.25 n.6, p.40-52, Jun. 1990[doi>10.1145/93548.93552]
+~SCHWARTZ, J.T. 1973. On programming: An interim report on the SETL project, Installment ~II: The SETL language and examples of its use. Tech. Rep., Courant Inst., New York Univ., ~New York, Oct.
+~SPEC. 1990. Release 1.2, Standards Performance Evaluation Corp., Freemont, Calif., Sept.
+Mark N. Wegman , F. Kenneth Zadeck, Constant propagation with conditional branches, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.2, p.181-210, April 1991[doi>10.1145/103135.103136]

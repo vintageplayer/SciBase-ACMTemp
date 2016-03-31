@@ -1,0 +1,32 @@
+David Vengerov, Modeling, analysis and throughput optimization of a generational garbage collector, Sun Microsystems, Inc., Mountain View, CA, 2009
+Michael Hicks , Luke Hornof , Jonathan T. Moore , Scott M. Nettles, A study of large object spaces, ACM SIGPLAN Notices, v.34 n.3, p.138-145, March 1999
+David Vengerov, Modeling, analysis and throughput optimization of a generational garbage collector, Proceedings of the 2009 international symposium on Memory management, June 19-20, 2009, Dublin, Ireland
+Jacob Seligmann , Steffen Grarup, Incremental Mature Garbage Collection Using the Train Algorithm, Proceedings of the 9th European Conference on Object-Oriented Programming, p.235-252, August 07-11, 1995
+Yoo C. Chung , Soo-Mook Moon , Kemal Ebcioğlu , Dan Sahlin, Reducing sweep time for a nearly empty heap, Proceedings of the 27th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.378-389, January 19-21, 2000, Boston, MA, USA
+Michael W. Hicks , Jonathan T. Moore , Scott M. Nettles, The measured cost of copying garbage collection mechanisms, ACM SIGPLAN Notices, v.32 n.8, p.292-305, Aug. 1997
+Matthew Hertz , Stephen M Blackburn , J Eliot B Moss , Kathryn S. McKinley , Darko Stefanović, Error-free garbage collection traces: how to cheat and not get caught, ACM SIGMETRICS Performance Evaluation Review, v.30 n.1, June 2002
+David A. Barrett , Benjamin G. Zorn, Garbage collection using a dynamic threatening boundary, ACM SIGPLAN Notices, v.30 n.6, p.301-314, June 1995
+David A. Barrett , Benjamin G. Zorn, Using lifetime predictors to improve memory allocation performance, ACM SIGPLAN Notices, v.28 n.6, p.187-196, June 1993
+Stephen M. Blackburn , Sharad Singhai , Matthew Hertz , Kathryn S. McKinely , J. Eliot B. Moss, Pretenuring for Java, ACM SIGPLAN Notices, v.36 n.11, p.342-352, 11/01/2001
+Jonathan E. Cook , Alexander L. Wolf , Benjamin G. Zorn, Partition selection policies in object database garbage collection, ACM SIGMOD Record, v.23 n.2, p.371-382, June 1994
+Maria Jump , Stephen M. Blackburn , Kathryn S. McKinley, Dynamic object sampling for pretenuring, Proceedings of the 4th international symposium on Memory management, October 24-25, 2004, Vancouver, BC, Canada
+Xiaohua Guan , Witawas Srisa-an , Chenghuan Jia, Investigating the effects of using different nursery sizing policies on performance, Proceedings of the 2009 international symposium on Memory management, June 19-20, 2009, Dublin, Ireland
+Trishul M. Chilimbi , James R. Larus, Using generational garbage collection to implement cache-conscious data placement, ACM SIGPLAN Notices, v.34 n.3, p.37-48, March 1999
+Andreas Sewe , Dingwen Yuan , Jan Sinschek , Mira Mezini, Headroom-based pretenuring: dynamically pretenuring objects that live "long enough", Proceedings of the 8th International Conference on the Principles and Practice of Programming in Java, September 15-17, 2010, Vienna, Austria
+Mark Hills, Memory Representations in Rewriting Logic Semantics Definitions, Electronic Notes in Theoretical Computer Science (ENTCS), v.238 n.3, p.155-172, June, 2009
+Tim Brecht , Eshrat Arjomandi , Chang Li , Hang Pham, Controlling garbage collection and heap growth to reduce the execution time of Java applications, ACM Transactions on Programming Languages and Systems (TOPLAS), v.28 n.5, p.908-941, September 2006
+Darko Stefanović , Kathryn S. McKinley , J. Eliot B. Moss, Age-based garbage collection, ACM SIGPLAN Notices, v.34 n.10, p.370-381, Oct. 1999
+Chris Grzegorczyk , Sunil Soman , Chandra Krintz , Rich Wolski, Isla Vista Heap Sizing: Using Feedback to Avoid Paging, Proceedings of the International Symposium on Code Generation and Optimization, p.325-340, March 11-14, 2007
+Jonathan E. Cook , Alexander L. Wolf , Benjamin G. Zorn, A Highly Effective Partition Selection Policy for Object Database Garbage Collection, IEEE Transactions on Knowledge and Data Engineering, v.10 n.1, p.153-172, January 1998
+Stephen M. Blackburn , Matthew Hertz , Kathryn S. Mckinley , J. Eliot B. Moss , Ting Yang, Profile-based pretenuring, ACM Transactions on Programming Languages and Systems (TOPLAS), v.29 n.1, p.2-es, January 2007
+Samuel Z. Guyer , Kathryn S. McKinley, Finding your cronies: static analysis for dynamic object colocation, ACM SIGPLAN Notices, v.39 n.10, October 2004
+Daniel Clifford , Hannes Payer , Michael Stanton , Ben L. Titzer, Memento mori: dynamic allocation-site-based optimizations, Proceedings of the 2015 ACM SIGPLAN International Symposium on Memory Management, June 14-14, 2015, Portland, OR, USA
+Stephen M Blackburn , Richard Jones , Kathryn S. McKinley , J Eliot B Moss, Beltway: getting around garbage collection gridlock, ACM SIGPLAN Notices, v.37 n.5, May 2002
+William D. Clinger , Lars T. Hansen, Generational garbage collection and the radioactive decay model, ACM SIGPLAN Notices, v.32 n.5, p.97-108, May 1997
+B. Willard , O. Frieder, Autonomous garbage collection: resolving memory leaks in long-running server applications, Computer Communications, v.23 n.10, p.887-900, May, 2000
+Matthew Hertz , Stephen M. Blackburn , J. Eliot B. Moss , Kathryn S. McKinley , Darko Stefanović, Generating object lifetime traces with Merlin, ACM Transactions on Programming Languages and Systems (TOPLAS), v.28 n.3, p.476-516, May 2006
+Martin Hirzel , Johannes Henkel , Amer Diwan , Michael Hind, Understanding the connectivity of heap objects, ACM SIGPLAN Notices, v.38 n.2 supplement, February 2003
+Sunil Soman , Chandra Krintz , David F. Bacon, Dynamic selection of application-specific garbage collectors, Proceedings of the 4th international symposium on Memory management, October 24-25, 2004, Vancouver, BC, Canada
+Yefim Shuf , Manish Gupta , Rajesh Bordawekar , Jaswinder Pal Singh, Exploiting prolific types for memory management and optimizations, ACM SIGPLAN Notices, v.37 n.1, p.295-306, Jan. 2002
+Sunil Soman , Chandra Krintz, Application-specific garbage collection, Journal of Systems and Software, v.80 n.7, p.1037-1056, July, 2007
+Saleh E. Abdullahi , Graem A. Ringwood, Garbage collecting the Internet: a survey of distributed garbage collection, ACM Computing Surveys (CSUR), v.30 n.3, p.330-373, Sept. 1998

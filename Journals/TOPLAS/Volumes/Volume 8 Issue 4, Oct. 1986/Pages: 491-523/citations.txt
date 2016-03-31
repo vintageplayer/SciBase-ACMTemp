@@ -1,0 +1,45 @@
+Barton P. Miller , Jong-Deok Choi, A mechanism for efficient debugging of parallel programs, ACM SIGPLAN Notices, v.24 n.1, p.141-150, Jan. 1989
+R Schooler, Knowing is better than thinking: a simple approach to inter-procedural optimization, ACM SIGPLAN Notices, v.22 n.3, p.121-122, March 1987
+Keith D Cooper , Mary W Hall , Ken Kennedy, A methodology for procedure cloning, Computer Languages, v.19 n.2, p.105-117, April, 1993
+B. P. Miller , Jong-Deok Choi, A mechanism for efficient debugging of parallel programs, ACM SIGPLAN Notices, v.23 n.7, p.135-144, July 1988
+Stephen Richardson , Mahadevan Ganapathi, Code Optimization Across Procedures, Computer, v.22 n.2, p.42-50, February 1989
+Vatsa Santhanam , Daryl Odnert, Register allocation across procedure and module boundaries, ACM SIGPLAN Notices, v.25 n.6, p.28-39, Jun. 1990
+D. E. Perry , G. E. Kaiser, Models of software development environments, Proceedings of the 10th international conference on Software engineering, p.60-68, April 11-15, 1988, Singapore
+Yong-fong Lee , Thomas J. Marlowe , Barbara G. Ryder, Performing data flow analysis in parallel, Proceedings of the 1990 conference on Supercomputing, p.942-951, October 1990, New York, New York, United States
+Kathryn S. McKinley, Evaluating automatic parallelization for efficient execution on shared-memory multiprocessors, Proceedings of the 8th international conference on Supercomputing, p.54-63, July 11-15, 1994, Manchester, England
+David Callahan , Alan Carle , Mary Wolcott Hall , Ken Kennedy, Constructing the Procedure Call Multigraph, IEEE Transactions on Software Engineering, v.16 n.4, p.483-487, April 1990
+Mary Jean Harrold , Mary Lou Soffa, Efficient computation of interprocedural definition-use chains, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.2, p.175-204, March 1994
+P. Briggs , K. D. Cooper , K. Kennedy , L. Torczon, Coloring  heuristics for register allocation, ACM SIGPLAN Notices, v.24 n.7, p.275-284, July 1989
+Michael Burke , Jong-Deok Choi, Precise and efficient integration of interprocedural alias information into data-flow analysis, ACM Letters on Programming Languages and Systems (LOPLAS), v.1 n.1, p.14-21, March 1992
+Vijay Menon , Keshav Pingali , Nikolay Mateev, Fractal symbolic analysis, ACM Transactions on Programming Languages and Systems (TOPLAS), v.25 n.6, p.776-813, November 2003
+Keith D. Cooper , Mary W. Hall , Linda Torczon, Unexpected side effects of inline substitution: a case study, ACM Letters on Programming Languages and Systems (LOPLAS), v.1 n.1, p.22-32, March 1992
+John Mellor-Crummey, Compile-time support for efficient data race detection in shared-memory parallel programs, ACM SIGPLAN Notices, v.28 n.12, p.129-139, Dec. 1993
+Seema Hiranandani , Ken Kennedy , Chau Wen Tseng , Scott Warren, The D editor: a new interactive parallel programming tool, Proceedings of the 1994 ACM/IEEE conference on Supercomputing, November 14-18, 1994, Washington, D.C.
+Preston Briggs , Keith D. Cooper , Linda Torczon, Rematerialization, ACM SIGPLAN Notices, v.27 n.7, p.311-321, July 1992
+S. E. Hudson , R. King, The Cactis Project: Database Support for Software Environments, IEEE Transactions on Software Engineering, v.14 n.6, p.709-719, June 1988
+Scott E. Hudson , Roger King, Cactis: a self-adaptive, concurrent implementation of an object-oriented database management system, ACM Transactions on Database Systems (TODS), v.14 n.3, p.291-321, Sept. 1989
+Scott E. Hudson , Roger King, Object-oriented database support for software environments, ACM SIGMOD Record, v.16 n.3, p.491-503, Dec. 1987
+Aart J. C. Bik , Peter J. H. Brinkhaus , Peter M. W. Knijnenburg , Harry A. G. Wijshoff, The automatic generation of sparse primitives, ACM Transactions on Mathematical Software (TOMS), v.24 n.2, p.190-225, June 1998
+Dewayne E. Perry , Gail E. Kaiser, Models of Software Development Environments, IEEE Transactions on Software Engineering, v.17 n.3, p.283-295, March 1991
+Gagan Agrawal, Interprocedural Partial Redundancy Elimination With Application to Distributed Memory Compilation, IEEE Transactions on Parallel and Distributed Systems, v.9 n.7, p.609-625, July 1998
+Jong-Deok Choi , Barton P. Miller , Robert H. B. Netzer, Techniques for debugging parallel programs with flowback analysis, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.4, p.491-530, Oct. 1991
+Gagan Agrawal , Joel Saltz, Interprocedural compilation of irregular applications for distributed memory machines, Proceedings of the 1995 ACM/IEEE conference on Supercomputing (CDROM), p.48-es, December 04-08, 1995, San Diego, California, United States
+M. W. Hall , S. Hiranandani , K. Kennedy , C.-W. Tseng, Interprocedural compilation of Fortran D for MIMD distributed-memory machines, Proceedings of the 1992 ACM/IEEE conference on Supercomputing, p.522-534, November 16-20, 1992, Minneapolis, Minnesota, USA
+Michael Burke , Ron Cytron , Jeanne Ferrante , Wilson Hsieh , Vivek Sarkar , David Shields, Automatic discovery of parallelism: a tool and an experiment (extended abstract), ACM SIGPLAN Notices, v.23 n.9, p.77-84, Sept. 1988
+H. A. Müller , K. Klashinsky, Rigi-A system for programming-in-the-large, Proceedings of the 10th international conference on Software engineering, p.80-86, April 11-15, 1988, Singapore
+D. Callahan, The program summary graph and flow-sensitive interprocedual data flow analysis, ACM SIGPLAN Notices, v.23 n.7, p.47-56, July 1988
+Mary W. Hall , Ken Kennedy , Kathryn S. McKinley, Interprocedural transformations for parallel code generation, Proceedings of the 1991 ACM/IEEE conference on Supercomputing, p.424-434, November 18-22, 1991, Albuquerque, New Mexico, United States
+Yong-Fong Lee , Barbara G. Ryder, A comprehensive approach to parallel data flow analysis, Proceedings of the 6th international conference on Supercomputing, p.236-247, July 19-24, 1992, Washington, D. C., United States
+Grigori Fursin , Albert Cohen , Michael O'Boyle , Olivier Temam, Quick and Practical Run-Time Evaluation of Multiple Program Optimizations, Transactions on High-Performance Embedded Architectures and Compilers I, Springer-Verlag, Berlin, Heidelberg, 2007
+Grigori Fursin , Albert Cohen , Michael O'Boyle , Olivier Temam, A practical method for quickly evaluating program optimizations, Proceedings of the First international conference on High Performance Embedded Architectures and Compilers, November 17-January 18, 2005, Barcelona, Spain
+V. Balasundaram , K. Kennedy , U. Kremer , K. McKinley , J. Subhlok, The parascope editor: an interactive parallel programming tool, Proceedings of the 1989 ACM/IEEE conference on Supercomputing, p.540-550, November 12-17, 1989, Reno, Nevada, United States
+Michael Burke , Linda Torczon, Interprocedural optimization: eliminating unnecessary recompilation, ACM Transactions on Programming Languages and Systems (TOPLAS), v.15 n.3, p.367-399, July 1993
+Ken Kennedy , Kathryn S. McKinley , Chau-Wen Tseng, Analysis and transformation in the ParaScope editor, Proceedings of the 5th international conference on Supercomputing, p.433-447, June 17-21, 1991, Cologne, West Germany
+K. Kennedy , K. S. McKinley , C. W. Tseng, Interactive Parallel Programming using the ParaScope Editor, IEEE Transactions on Parallel and Distributed Systems, v.2 n.3, p.329-341, July 1991
+Michael Burke, An interval-based approach to exhaustive and incremental interprocedural data-flow analysis, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.3, p.341-395, July 1990
+Jack W. Davidson , Anne M. Holler, Subprogram Inlining: A Study of its Effects on Program Execution Time, IEEE Transactions on Software Engineering, v.18 n.2, p.89-102, February 1992
+Preston Briggs , Keith D. Cooper , Ken Kennedy , Linda Torczon, Coloring heuristics for register allocation, ACM SIGPLAN Notices, v.39 n.4, April 2004
+P. Havlak , K. Kennedy, An Implementation of Interprocedural Bounded Regular Section Analysis, IEEE Transactions on Parallel and Distributed Systems, v.2 n.3, p.350-360, July 1991
+Jens Knoop, Optimal interprocedural program optimization: a new framework and its application, Springer-Verlag, Berlin, Heidelberg, 1998
+G. Ramalingam , Thomas Reps, A categorized bibliography on incremental computation, Proceedings of the 20th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.502-510, March 1993, Charleston, South Carolina, USA
+G. Ramalingam , Thomas Reps, A categorized bibliography on incremental computation, Proceedings of the 20th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.502-510, March 1993, Charleston, South Carolina, USA

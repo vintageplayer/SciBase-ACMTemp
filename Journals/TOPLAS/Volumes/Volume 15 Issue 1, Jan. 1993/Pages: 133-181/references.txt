@@ -1,0 +1,61 @@
+S. Abramsky , C. Hankin, Abstract interpretation of declarative languages, Halsted Press, New York, NY, 1987
+Roberto Barbuti , Michael Codish , Roberto Giacobazzi , Giorgio Levi, Modelling Prolog control, Proceedings of the 19th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.95-104, January 19-22, 1992, Albuquerque, New Mexico, United States[doi>10.1145/143165.143186]
+BARBUTI, R., AND GIACOBAZZI, R. A botton~up polymorphic type inference in log~c programming. Tech. Rep. TR 27/89, Dipartimento di Informatica, Universit~ di Pisa, Pisa, Italy, 1989. To appear in Sci. Comput. Prog.
+BARBUTI, R., AND MARTELLI, A. A structured approach to static semantics correctness. Sc~. Comput. Prog. 3 (1983), 279-311.
+BARBUTI, R., AND MARTELLI, M. Recognizing non-fioundering logSc progTams and goals. Inter. J. Found. Comput. Sci, 1, 2 (1990), 151-163.
+BARBUTI, R., GIACOBAZZI, R., AND LEVI, G. A declarative abstract semantics for logic programs. In Proceedings of the 3rd Italian Conference on Theoretical Computer Science. World Scientific, 1989, pp. 84 96.
+BmK~OFF, G. Lattice theory. In AMS Colloquium Publication. 3rd ed. 1967.
+BRUYNOOGHE, M., AND JANSSENS, G. An instance of abstract interpretation integrating type and mode inferencing. In Proceedings of the 5th International Conference on Log~c Programming. The MIT Press, Cambridge, Mass., 1988, pp. 669-683.
+BRUYNOOGHE, M., JANSSENS, G., DEMOEN, B., AND CALLEBAUT, A. Abstract interpretation: Towards the global optimization of Prolog programs. In Proceedmgs of the 4th IEEE Symposium Logic Programm~ng. IEEE Comp. Soc. Press, Los Alamitos, Calif., 1987, pp. 192-204.
+Michael Codish , Dennis Dams , Eyal Yardeni, Bottom-up abstract interpretation of logic programs, Theoretical Computer Science, v.124 n.1, p.93-125, Feb. 14, 1994[doi>10.1016/0304-3975(94)90055-8]
+CORSINI, M., AND FILE, G. A complete framework for the abstract interpretation of logic programs: Theory and application. Tech. Rep., Universit~ di Padova, Italy, 1989.
+Agostino Cortesi , Gilbert Filé, Abstract interpretation of logic programs: an abstract domain for groundness, sharing, freeness and compoundness analysis, Proceedings of the 1991 ACM SIGPLAN symposium on Partial evaluation and semantics-based program manipulation, p.52-61, June 17-19, 1991, New Haven, Connecticut, United States[doi>10.1145/115865.115872]
+Patrick Cousot , Radhia Cousot, Abstract interpretation: a unified lattice model for static analysis of programs by construction or approximation of fixpoints, Proceedings of the 4th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.238-252, January 17-19, 1977, Los Angeles, California[doi>10.1145/512950.512973]
+Patrick Cousot , Radhia Cousot, Systematic design of program analysis frameworks, Proceedings of the 6th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.269-282, January 29-31, 1979, San Antonio, Texas[doi>10.1145/567752.567778]
+D~:~T, P. On derived dependencies and connected databases. Tech. Rep. No. 87/13, Dept. of Computer Science, Univ. of Melbourne, Australia, 1987.
+S. K. Debray, Efficient dataflow analysis of logic programs, Proceedings of the 15th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.260-273, January 10-13, 1988, San Diego, California, United States[doi>10.1145/73560.73583]
+DEB~Y, S. The mythical free lunch (notes on the complexity/precision tradeoff in datafiow analysis of logic programs). Tech. Rep., Dept. of Computer Science, Univ. of Arizona, Tucson, Ariz., 1991.
+DEBRAY, S., AND P~MA~ISHNAN, R. Generalized horn clause programs. Tech. Rep., Dept. of Computer Science, Univ. of Arizona, Tucson, Ariz., 1991.
+Saumya K. Debray , David S. Warren, Automatic mode inference for logic programs, Journal of Logic Programming, v.5 n.3, p.207-229, Sept. 1988[doi>10.1016/0743-1066(88)90010-6]
+P. Van Roy , B. Demoen , Y. D. Willems, Improving the execution speed of compiled prolog with modes, clause selection, and determinism, II and Colloquium on Functional and Logic Programming and Specifications (CFLP) on TAPSOFT '87: Advanced Seminar on Foundations of Innovative Software Development, p.111-125, March 1987, Pisa, Italy
+Elmar Eder, Properties of substitutions and unifications, Journal of Symbolic Computation, v.1 n.1, p.31-46, March 1985[doi>10.1016/S0747-7171(85)80027-4]
+FALASCHI, M., LEVI, G., MARTELLI, M., AND PALAMIDESSI, C A new declarative semantices for logic languages. In Proceedlngs of the 5th Internat~onal Conference on Loglc Programmmg. The MIT Press, Cambridge, Mass., 1988, pp. 993-1005.
+M. Falaschi , G. Levi , C. Palamidessi , M. Martelli, Declarative modeling of the operational behavior of logic languages, Theoretical Computer Science, v.69 n.3, p.289-318, Dec. 18, 1989[doi>10.1016/0304-3975(89)90070-4]
+FALASCHI, M., LEVI., G., MARTELLI, M., AND PALAMIDESSi, C. A model-theoretic reconstruction of the operatlonal semantics of l"gic programs. Tech. Rep. TR 32/89, Dipartimento di Informatica, Umversit~ dl Pisa, 1989. To appear in Inforrnat~on and Computcltion.
+FITTING, M. A Knpke-Kleene semantics for logic programs J. Logtc Prog. 2, (1985), 295 312
+Maurizio Gabbrielli , Giorgio Levi, On the semantics of logic programs, Proceedings of the 18th international colloquium on Automata, languages and programming, p.1-19, June 1991, Madrid, Spain
+J. Gallagher , M. Codish , E. Shapiro, Specialisation of Prolog and FCP programs using abstract interpretation, New Generation Computing, v.6 n.2-3, p.159-186, March-April 1988[doi>10.1007/BF03037136]
+Roberto Giacobazzi , Laura Ricci, Pipeline optimizations in and-parallelism by abstract interpretation, Logic programming, MIT Press, Cambridge, MA, 1990
+Roberto Giacobazzi , Laura Ricci, Detecting determinate computations by bottom-up abstract interpretation, Symposium proceedings on 4th European symposium on programming, p.167-181, January 1992, Rennes, France
+Manuel V Hermenegildo, An abstract machine for restricted AND-parallel execution of logic programs, Proceedings on Third international conference on logic programming, p.25-39, September 1986, London, United Kingdom
+Manuel V Hermenegildo , Roger I Nasr, Efficient management of backtracking in AND-parallelism, Proceedings on Third international conference on logic programming, p.40-54, September 1986, London, United Kingdom
+HERMENEGILDO, M., AND ROSSI, F On the correctness and efficiency of independent AND- Programming'89. The MIT Press, Cambridge, Mass , 1989, pp. 369 389.
+Horst Herrlich , Miroslav Hušek, Galois connections, Proceedings of the international conference on Mathematical foundations of programming semantics, p.122-134, October 1986, Manhattan
+JACO~S, D., AND LANGEN, A. Accurate and efficient approximation of variable aliasmg m logic programs. In Proceedings of the North American Conference on Log~c Programm~ng'89. The MIT Press, Cambridge, Mass., 1989, pp. 154-165.
+JONES, N. D., AND S~ NDERGAARD, H. A semantics-based framework for the abstract interpretation of Prolog. In Abstract I, terpretation ofDeclarative Languages. Ellis Horwood Ltd, 1987, pp. 123 142.
+K. Horiuchi , T. Kanamori, Polymorphic type inference in Prolog by abstract interpretation, Proceedings of the 6th Conference on Logic programming '87, p.195-214, July 1988, Tokyo, Japan
+R. S. Kemp , G. A. Ringwood, An algebraic framework for abstract interpretation of definite programs, Proceedings of the 1990 North American conference on Logic programming, p.516-530, January 1990, Austin, Texas, United States
+J.-L. Lassez , M. J. Maher , K. Marriott, Unification revisited, Foundations of deductive databases and logic programming, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1988
+J. W. Lloyd, Foundations of logic programming; (2nd extended ed.), Springer-Verlag New York, Inc., New York, NY, 1987
+M. J. Maher, Equivalences of logic programs, Foundations of deductive databases and logic programming, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1988
+MAHER, M. J., AND RAMAKRISHNAN, R. D~j~ vu in fixpoints oflogic programs. In Proceedmgs of the North American Conference on Logic Programming'89. The MIT Press, Cambridge, Mass., 1989, pp. 963-980.
+MANCARELLA, P., AND PEDRESCHI, n. An algebra oflogic programs. In Proceed~ngs ofthe 5th International Conference o~ Logic Programm~ng. The MIT Press, Cambridge, Mass., 1988, pp. 1006-1023.
+MANNmA, H., AND UAEONEN, E. Flow analysis of Prolog programs. In Proceedings of the 4th IEEE Symposium on Logic Programming, IEEE, New York, 1987, pp. 205-214.
+MARRIOTT, K. Finding explicit representations for subsets of the Herbrand Universe. Ph.D. thesis, Univ. of Melbourne, 1988.
+M~RRIOTT, K., AND S~ NDERG~RD, H. Bottom-up abstract interpretation of logic programs. In Proceedings of the 5th Internatwnal Conference on Logic Progrumming. The MIT Press, Cambridge, Mass., 1988, pp. 733-748.
+MARRIOTT, K, AND S~ NDERG~RD, H. Semantics-based datafiow analysis of logic programs. In Information Processing 89. North-Holland, Amsterdam, 1989.
+MELHSH, C. Some Global Optimizations for a Prolog Compiler. J. Logic Prog. 2, (1985), 43-66.
+MELLISH, C. Abstract interpretation of Prolog programs. In Abstract Interpretation of Declarat~ve Languages. Ellis Horwood Ltd, 1987, pp. 181 198.
+A Melton , D A Schmidt , G E Strecker, Galois connections and computer science applications, Proceedings of a tutorial and workshop on Category theory and computer programming, p.299-312, November 1986, Guildford, United Kingdom
+MENDELZON, A.O. Functional dependencies in logic programs. In Proceedings of the 11th International Conference on Very Large Data Bases. 1985, pp. 324-330.
+MUTHUKUMAR, K., AND HERMENEGILDO, M. Determination of variable dependence information through abstract interpretation. In Proceedings of the North American Conference on Logic Programming'89. The MIT Press, Cambridge, Mass., 1989, pp. 166-185.
+MYCROrT, A. Abstract interpretation and optimising transformations for applicative programs. Ph.D. thesis, Univ. of Edinburgh, 1981.
+Alan Mycroft , Richard A. O'Keefe, A polymorphic type system for PROLOG., Artificial Intelligence, v.23 n.3, p.295-307, August 1984[doi>10.1016/0004-3702(84)90017-1]
+ORE, O. Galois connections. In Trans. AMS 55, (1944), 493-513.
+RIccI, L. Compilation of logic programs for massively parallel systems. Ph.D. thesis, Universit~ di Pisa, 1990.
+SATO, T., AND TAMAK~, H. Enumeration of success patterns in logic programs. Theor. Comput. Sc~. 34 (1984), 227-240.
+H Sondergaard, An application of abstract interpretation of logic programs: occur check reduction, Proc. of the European symposium on programming on ESOP 86, p.327-338, March 1986, Saarbru:9Aicken, Germany
+S~ NDERGAARD, H. Semantics-based analysis and transformation of logic programs. Ph.D. thesis, Univ of Melbourne, 1990.
+Joseph E. Stoy, Denotational Semantics: The Scott-Strachey Approach to Programming Language Theory, MIT Press, Cambridge, MA, 1977
+M. H. Van Emden , R. A. Kowalski, The Semantics of Predicate Logic as a Programming Language, Journal of the ACM (JACM), v.23 n.4, p.733-742, Oct. 1976[doi>10.1145/321978.321991]
+ZOSEL, J., AND D~T, P. On logic programs, functional dependencies, and types. Tech. Rep. Univ. of Melbourne, Australia, 1990.

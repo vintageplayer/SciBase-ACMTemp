@@ -1,0 +1,36 @@
+Hassan Aït-Kaci, Warren's abstract machine: a tutorial reconstruction, MIT Press, Cambridge, MA, 1991
+Adrienne Gael Bloss, Path analysis and the optimization of nonstrict functional languages, 1989
+M. Bruynooghe, Compile-time garbage collectionor How to transform programs in an assignment-free language into code with assignments, The IFIP TC2/WG 2.1 Working Conference on Program specification and transformation, p.113-129, June 1987, Bad To:9Ailz, Germany
+Burton, B., Gudjonsson, G., and Winsborough, W. 1992. An algorithm for computing alternating closure. Tech. Rep. CS-92-15, Department of Computer Science, The Pennsylvania State University. June.
+Charlier, B. L., Musumbu, K., and Hentenryck, P. V. 1991. A generic abstract interpretation algorithm and its complexity analysis. In Proceedings 8th International Conference on Logic Programming, K. Furukawa, Ed. MIT Press, 64-78.
+Codish, M., Dams, D., and Yardeni, E. 1991. Derivation and safety of an abstract unification algorithm for groundness and aliasing analysis. In Proceedings 8th International Conference on Logic Programming, K. Furukawa, Ed. MIT Press, 79-93.
+Saumya K. Debray, On copy avoidance in single assignment languages, Proceedings of the tenth international conference on logic programming on Logic programming, p.393-407, August 1993, Budapest, Hungary
+Debray, S. K. 1994. On the complexity of a compile-time memory reuse problem. Tech. rep., University of Arizona. January.
+S. Duvvuru , R. Sundararajan , Evan Tick , A. V. S. Sastry , L. Hansen , X. Zhong, A Compile-Time Memory-Reuse Scheme for Concurrent Logic Programs, Proceedings of the International Workshop on Memory Management, p.264-276, September 17-19, 1992
+Foster, I. and Winsborough, W. 1991. Copy avoidance through compile-time analysis and local reuse. In Proceedings 1991 International Logic Programming Symposium, V. Saraswat and K. Ueda, Eds. MIT Press, 455-469.
+Michael R. Garey , David S. Johnson, Computers and Intractability: A Guide to the Theory of NP-Completeness, W. H. Freeman & Co., New York, NY, 1979
+Groves, R. B. 1992. Transforming Prolog predicates to perform update in place. M.S. thesis, Department of Computer Science, The Pennsylvania State University.
+Gudjon Gudjonsson , William H. Winsborough, Compile-time memory reuse in single-assignment programming languages: updating recursive data structures in place, 1996
+Haygood, R. 1992. Aquarius Prolog User Manual. Advanced Computer Architecture Laboratory, University of Southern California.
+I.-J. Huang , A. M. Despain, High level synthesis of pipelined instruction set processors and back-end compilers, Proceedings of the 29th ACM/IEEE conference on Design automation, p.135-140, June 08-12, 1992, Anaheim, California, United States
+Hudak, P. 1987. A semantic model of reference counting and its abstraction. In Abstract Interpretation of Declarative Languages, S. Abramsky and C. Hankin, Eds. Ellis Horwood, 45-62.
+Paul Hudak , Adrienne Bloss, The aggregate update problem in functional programming systems, Proceedings of the 12th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.300-314, January 14-16, 1985, New Orleans, Louisiana, United States[doi>10.1145/318593.318660]
+Katsuro Inoue , Koji Torii, Implementation and analysis of compile-time garbage collection, New Generation Computing, v.10 n.1, p.101-119, 1991[doi>10.1007/BF03037524]
+Simon B. Jones , Daniel Le Métayer, Compile-time garbage collection by sharing analysis, Proceedings of the fourth international conference on Functional programming languages and computer architecture, p.54-74, September 11-13, 1989, Imperial College, London, United Kingdom[doi>10.1145/99370.99375]
+Kluzniak, F. 1988. Compile-time garbage collection for ground Prolog. In Proceedings 5th International Conference and Symposium on Logic Programming,R. A. Kowalski andK.A. Bowen, Eds. MIT Press, 1490-1505.
+Liblit, B. 1993. Transformation of prolog programs to perform update in place: A prototype code synthesizer. M.S. thesis, Department of Computer Science, The Pennsylvania State University.
+J. W. Lloyd, Foundations of logic programming; (2nd extended ed.), Springer-Verlag New York, Inc., New York, NY, 1987
+Marien, A., Janssens, G., Mulkers, A., and Bruynooghe, M. 1989. The impact of abstract interpretation: An experiment in code generation. In Proceedings 6th International Conference on Logic Programming, G. Levi and M. Martelli, Eds. MIT Press, 33-47.
+Anne Mulkers , William Winsborough , Maurice Bruynooghe, Analysis of shared data structures for compile-time garbage collection in logic programs, Logic programming, MIT Press, Cambridge, MA, 1990
+Anne Mulkers , William Winsborough , Maurice Bruynooghe, Live-structure dataflow analysis for Prolog, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.2, p.205-258, March 1994[doi>10.1145/174662.174664]
+Richard A. O'Keefe, The craft of Prolog, MIT Press, Cambridge, MA, 1990
+Young Gil Park , Benjamin Goldberg, Escape analysis on lists, Proceedings of the ACM SIGPLAN 1992 conference on Programming language design and implementation, p.116-127, June 15-19, 1992, San Francisco, California, United States[doi>10.1145/143095.143125]
+Sterling, L. and Shapiro, E. 1986. The Art of Prolog. MIT Press.
+Sundararajan, R., Sastry, A. V.S.,and Tick, E. 1992. Variable threadedness analysis for concurrent logic programs. In Proceedings Joint International Conference and Symposium on Logic Programming. MIT Press, 493-508.
+Tan, J. 1993. Personal communication.
+Thrainsson, B. R. 1991. A simple approach to shared-structure analysis in logic programs. M.S. thesis, Department of Computer Science, The Pennsylvania State University.
+Evan Tick, Parallel logic programming, MIT Press, Cambridge, MA, 1991
+Peter Lodewijk Van Roy, Can logic programming execute as fast as imperative programming?, University of California at Berkeley, Berkeley, CA, 1991
+Vataja, P. and Ukkonen, E. 1984. Finding temporary terms in Prolog programs. In Proceedings International Conference on 5th Generation Computing Systems. Ohmsha Ltd, Tokyo, 275- 282.
+Warren, D. H. D. 1977. Implementing prolog | compiling predicate logic programs. Tech. Rep. 40, University of Edinburgh. May.
+Will Winsborough, Multiple specialization using minimal-function graph semantics, Journal of Logic Programming, v.13 n.2-3, p.259-290, July 1992[doi>10.1016/0743-1066(92)90033-Y]

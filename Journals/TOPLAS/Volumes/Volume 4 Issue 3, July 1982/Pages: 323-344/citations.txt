@@ -1,0 +1,62 @@
+Kevin Tucker, Debugging highly-optimized Ada with code motion (DHACM), Proceedings of the conference on TRI-Ada '97, p.197-203, November 09-13, 1997, St. Louis, Missouri, USA
+William S. Shu, Inertia—the reluctance of code motion?, ACM SIGSOFT Software Engineering Notes, v.18 n.2, p.106-108, April 1993
+David Wall , Amitabh Srivastava , Fred Templin, A note on Hennessy's “symbolic debugging of optimized code”, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.1, p.176-181, Jan. 1985
+William S. Shu, Adapting a debugger for optimised programs, ACM SIGPLAN Notices, v.28 n.4, p.39-44, April 1993
+Miodrag Potkonjak , Sujit Dey , Kazutoshi Wakabayashi, Design-for-debugging of application specific designs, Proceedings of the 1995 IEEE/ACM international conference on Computer-aided design, p.295-301, November 05-09, 1995, San Jose, California, United States
+Robert Cohn, Source level debugging of automatically parallelized code, ACM SIGPLAN Notices, v.26 n.12, p.132-143, Dec. 1991
+Peter Dencker, Debugging of optimized Ada code, Proceedings of the conference on TRI-Ada '91: today's accomplishments; tomorrow's expectations, p.22-31, October 21-25, 1991, San Jose, California, United States
+Robert L. Blackburn , Donald E. Thomas , Patti M. Koenig, CORAL II: linking behavior and structure in an IC design system, Proceedings of the 25th ACM/IEEE conference on Design automation, p.529-535, June 12-15, 1988, Atlantic City, New Jersey, United States
+Walter Kirchgassner , Jurgen Uhl , Guido Persch , Manfred Dausmann , Sophia Drossopoulou , Hans-Stephan Jansohn , Rudolf Landwehr, Optimization in Ada, ACM SIGAda Ada Letters, v.III n.3, p.45-57, November/Decmeber 1983
+Rohit N. Kundaji , R. K. Shyamasundar, Refinement calculus: a basis for translation validation, debugging and certification, Theoretical Computer Science, v.354 n.1, p.153-168, 21 March 2006
+Le-Chun Wu , Rajiv Mirani , Harish Patil , Bruce Olsen , Wen-mei W. Hwu, A new framework for debugging globally optimized code, ACM SIGPLAN Notices, v.34 n.5, p.181-191, May 1999
+Lo Ko , David B. Whalley , Marion G. Harmon, Supporting user-friendly analysis of timing constraints, ACM SIGPLAN Notices, v.30 n.11, p.99-107, Nov. 1995
+Rajiv Gupta, A fresh look at optimizing array bound checking, ACM SIGPLAN Notices, v.25 n.6, p.272-282, Jun. 1990
+Justin Pombrio , Shriram Krishnamurthi, Hygienic resugaring of compositional desugaring, Proceedings of the 20th ACM SIGPLAN International Conference on Functional Programming, August 31-September 02, 2015, Vancouver, BC, Canada
+Gary Brooks , Gilbert J. Hansen , Steve Simmons, A new approach to debugging optimized code, ACM SIGPLAN Notices, v.27 n.7, p.1-11, July 1992
+Polle T. Zellweger, An interactive high-level debugger for control-flow optimized programs (Summary), Proceedings of the ACM SIGSOFT/SIGPLAN software engineering symposium on High-level debugging, p.159-171, January 1983
+Peter Fritzson, A systematic approach to advanced debugging through incremental compilation (Preliminary Draft), Proceedings of the ACM SIGSOFT/SIGPLAN software engineering symposium on High-level debugging, p.130-139, January 1983
+Max Copperman , Charles E. McDowell, A further note on Hennessy's “Symbolic debugging of optimized code”, ACM Transactions on Programming Languages and Systems (TOPLAS), v.15 n.2, p.357-365, April 1993
+Patricia Prather Pineo , Mary Lou Soffa, Debugging parallelized code using code liberation techniques, ACM SIGPLAN Notices, v.26 n.12, p.108-119, Dec. 1991
+John L. Hennessy , Thomas R. Gross, Code generation and reorganization in the presence of pipeline constraints, Proceedings of the 9th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.120-127, January 25-27, 1982, Albuquerque, New Mexico
+Lori L. Pollock , Mary Lou Soffa, Incremental compilation of optimized code, Proceedings of the 12th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.152-164, January 14-16, 1985, New Orleans, Louisiana, United States
+Ali-Reza Adl-Tabatabai , Thomas Gross, Detection and recovery of endangered variables caused by instruction scheduling, ACM SIGPLAN Notices, v.28 n.6, p.13-25, June 1993
+Peter Fritzson, Symbolic debugging through incremental compilation in an integrated environment, Journal of Systems and Software, v.3 n.4, p.285-294, December, 1983
+Farinaz Koushanfar , Darko Kirovski , Miodrag Potkonjak, Symbolic debugging scheme for optimized hardware and software, Proceedings of the 2000 IEEE/ACM international conference on Computer-aided design, November 05-09, 2000, San Jose, California
+B. B. Chase , R. T. Hood, Selective interpretation as a technique for debugging computationally intensive programs, ACM SIGPLAN Notices, v.22 n.7, p.113-124, July 1987
+Robert L. Blackburn , Donald E. Thomas, Linking the behavioral and structural dominis of representation in a synthesis system, Proceedings of the 22nd ACM/IEEE Design Automation Conference, p.374-380, June 1985, Las Vegas, Nevada, USA
+Naveen Kumar , Bruce Childers , Mary Lou Soffa, Transparent Debugging of Dynamically Optimized Code, Proceedings of the 7th annual IEEE/ACM International Symposium on Code Generation and Optimization, p.275-286, March 22-25, 2009
+Robert Wahbe , Steven Lucco , Susan L. Graham, Practical data breakpoints: design and implementation, ACM SIGPLAN Notices, v.28 n.6, p.1-12, June 1993
+Sukyoung Ryu , Norman Ramsey, Source-Level debugging for multiple languages with modest programming effort, Proceedings of the 14th international conference on Compiler Construction, April 04-08, 2005, Edinburgh, UK
+Stephen Hines , Prasad Kulkarni , David Whalley , Jack Davidson, Using de-optimization to re-optimize code, Proceedings of the 5th ACM international conference on Embedded software, September 18-22, 2005, Jersey City, NJ, USA
+Urs Hölzle , Craig Chambers , David Ungar, Debugging optimized code with dynamic deoptimization, ACM SIGPLAN Notices, v.27 n.7, p.32-43, July 1992
+Roland Wismüller, Debugging of globally optimized programs using data flow analysis, ACM SIGPLAN Notices, v.29 n.6, p.278-289, June 1994
+Bernd Bruegge , Thomas Gross, A program debugger for a systolic array: design and implementation, ACM SIGPLAN Notices, v.24 n.1, p.174-182, Jan. 1989
+Bernd Bruegge, Program development for a systolic array, ACM SIGPLAN Notices, v.23 n.9, p.31-41, Sept. 1988
+Hugo Venturini , Frédéric Riss , Jean-Claude Fernandez , Miguel Santana, A fully-non-transparent approach to the code location problem, Proceedings of the 11th international workshop on Software & compilers for embedded systems, March 13-14, 2008, Munich, Germany
+D. S. Coutant , S. Meloy , M. Ruscetta, DOC: a practical approach to source-level debugging of globally optimized code, ACM SIGPLAN Notices, v.23 n.7, p.125-134, July 1988
+John Lumley , Roger Gimson , Owen Rees, Configurable editing of XML-based variable-data documents, Proceedings of the eighth ACM symposium on Document engineering, September 16-19, 2008, Sao Paulo, Brazil
+Michael Gschwind , Erik R. Altman, Precise Exception Semantics in Dynamic Compilation, Proceedings of the 11th International Conference on Compiler Construction, p.95-110, April 08-12, 2002
+Hugo Venturini , Frederic Riss , Jean-Claude Fernandez , Miguel Santana, Non-transparent debugging for software-pipelined loops, Proceedings of the 2007 international conference on Compilers, architecture, and synthesis for embedded systems, September 30-October 03, 2007, Salzburg, Austria
+D. M. Dhamdhere , K. V. Sankaranarayanan, Dynamic currency determination in optimized programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.20 n.6, p.1111-1130, Nov. 1998
+Ali-Reza Adl-Tabatabai , Thomas Gross, Evicted variables and the interaction of global register allocation and symbolic debugging, Proceedings of the 20th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.371-383, March 1993, Charleston, South Carolina, United States
+Naveen Kumar , Bruce R. Childers , Mary Lou Soffa, Tdb: a source-level debugger for dynamically translated programs, Proceedings of the sixth international symposium on Automated analysis-driven debugging, p.123-132, September 19-21, 2005, Monterey, California, USA
+Z. Aral , I. Gerther , G. Schaffer, Efficient debugging primitives for multiprocessors, ACM SIGARCH Computer Architecture News, v.17 n.2, p.87-95, April 1989
+Clara Jaramillo , Rajiv Gupta , Mary Lou Soffa, Comparison checking: an approach to avoid debugging of optimized code, ACM SIGSOFT Software Engineering Notes, v.24 n.6, p.268-284, Nov. 1999
+Martin Kuhlemann , Martin Sturm, Patching product line programs, Proceedings of the 2nd International Workshop on Feature-Oriented Software Development, p.33-40, October 10-10, 2010, Eindhoven, The Netherlands
+Justin Pombrio , Shriram Krishnamurthi, Resugaring: lifting evaluation sequences through syntactic sugar, Proceedings of the 35th ACM SIGPLAN Conference on Programming Language Design and Implementation, June 09-11, 2014, Edinburgh, United Kingdom
+Andrew P. Tolmach , Andrew W. Appel, Debugging standard ML without reverse engineering, Proceedings of the 1990 ACM conference on LISP and functional programming, p.1-12, June 27-29, 1990, Nice, France
+John L. Hennessy , Thomas Gross, Postpass Code Optimization of Pipeline Constraints, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.3, p.422-448, July 1983
+Shyh-Kwei Chen , W. Kent Fuchs , Jen-Yao Chung, Reversible Debugging Using Program Instrumentation, IEEE Transactions on Software Engineering, v.27 n.8, p.715-727, August 2001
+Karl J. Ottenstein , Linda M. Ottenstein, The program dependence graph in a software development environment, ACM SIGPLAN Notices, v.19 n.5, p.177-184, May 1984
+B. Steensgaard , E. Jul, Object and native code thread mobility among heterogeneous computers (includes sources), ACM SIGOPS Operating Systems Review, v.29 n.5, p.68-77, Dec. 3, 1995
+Zoran Budimlic , Ken Kennedy, JaMake: A Java Compiler Environment, Proceedings of the Third International Conference on Large-Scale Scientific Computing-Revised Papers, p.201-209, June 06-10, 2001
+Max Copperman, Debugging optimized code without being misled, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.3, p.387-427, May 1994
+David W. Wall, Experience with a software-defined machine architecture, ACM Transactions on Programming Languages and Systems (TOPLAS), v.14 n.3, p.299-338, July 1992
+Ali-Reza Adl-Tabatabai , Thomas Gross, Source-level debugging of scalar optimized code, ACM SIGPLAN Notices, v.31 n.5, p.33-43, May 1996
+Tankut Akgul , Vincent J. Mooney III, Assembly instruction level reverse execution for debugging, ACM Transactions on Software Engineering and Methodology (TOSEM), v.13 n.2, p.149-198, April 2004
+Marc Eaddy , Alfred Aho , Weiping Hu , Paddy McDonald , Julian Burger, Debugging aspect-enabled programs, Proceedings of the 6th international conference on Software composition, March 24-25, 2007, Braga, Portugal
+Myoungkyu Song , Eli Tilevich, Enhancing source-level programming tools with an awareness of transparent program transformations, ACM SIGPLAN Notices, v.44 n.10, October 2009
+G. Balakrishnan , T. Reps , D. Melski , T. Teitelbaum, WYSINWYX: What You See Is Not What You eXecute, Verified Software: Theories, Tools, Experiments: First IFIP TC 2/WG 2.3 Conference, VSTTE 2005, Zurich, Switzerland, October 10-13, 2005, Revised Selected Papers and Discussions, Springer-Verlag, Berlin, Heidelberg, 2005
+Dan S. Wallach , Andrew W. Appel , Edward W. Felten, SAFKASI: a security mechanism for language-based systems, ACM Transactions on Software Engineering and Methodology (TOSEM), v.9 n.4, p.341-378, Oct. 2000
+Bill Donkervoet , Gul Agha, Reflecting on aspect-oriented programming, metaprogramming, and adaptive distributed monitoring, Proceedings of the 5th international conference on Formal methods for components and objects, November 07-10, 2006, Amsterdam, The Netherlands
+T. Reps , G. Balakrishnan , J. Lim , T. Teitelbaum, A next-generation platform for analyzing executables, Proceedings of the Third Asian conference on Programming Languages and Systems, November 02-05, 2005, Tsukuba, Japan

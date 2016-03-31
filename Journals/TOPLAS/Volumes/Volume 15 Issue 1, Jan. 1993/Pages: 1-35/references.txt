@@ -1,0 +1,36 @@
+Mordechai Ben-Ari, Algorithms for on-the-fly garbage collection, ACM Transactions on Programming Languages and Systems (TOPLAS), v.6 n.3, p.333-344, July 1984[doi>10.1145/579.587]
+BEVAN, D.I. An efficient reference counting solution to the distributed garbage collection problem. Paral. Comput. 9, 2 (1989), 179-192.
+K. Mani Chandy , Leslie Lamport, Distributed snapshots: determining global states of distributed systems, ACM Transactions on Computer Systems (TOCS), v.3 n.1, p.63-75, Feb. 1985[doi>10.1145/214451.214456]
+K. M. Chandy , Jayadev Misra, How processes learn, Distributed Computing, v.1 n.1, p.40-52, Jan. 1986[doi>10.1007/BF01843569]
+K. Mani Chandy , Jayadev Misra , Laura M. Haas, Distributed deadlock detection, ACM Transactions on Computer Systems (TOCS), v.1 n.2, p.144-156, May 1983[doi>10.1145/357360.357365]
+CHARRON-BOsT, B, TEL, G., AND MATTERN, F. Synchronous and asynchronous commumcation in distributed computations. Tech. Rep. LITP 92.77 Univ. Paris 7, Paris, Oct. 1992.
+S. Chandrasekaran , S. Venkatesan, A message-optimal algorithm for distributed termination detection, Journal of Parallel and Distributed Computing, v.8 n.3, p.245-252, Mar. 1990[doi>10.1016/0743-7315(90)90099-B]
+George E. Collins, A method for overlapping and erasure of lists, Communications of the ACM, v.3 n.12, p.655-657, Dec. 1960[doi>10.1145/367487.367501]
+DIJKSTRA, E. W., AND SCHOLTEN, C.S. Termination detection for diffusing computations. Inf. Proc. Lett. 11, 1 (Aug. 1980), 1-4.
+DIJKSTRA, E. W., FEIJEN, W H. J., AND VAN GASTEREN, A. J.M. Derivation of a termination detection algorithm for distributed computations. Inf. Proc. Lett. 16, 5 (June 1983), 217-219.
+Edsger W. Dijkstra , Leslie Lamport , A. J. Martin , C. S. Scholten , E. F. M. Steffens, On-the-fly garbage collection: an exercise in cooperation, Communications of the ACM, v.21 n.11, p.966-975, Nov. 1978[doi>10.1145/359642.359655]
+European Patent Office. Garbage collection in a computer system. European Patent Application no. 86309082.5.
+Nissim Francez, Distributed Termination, ACM Transactions on Programming Languages and Systems (TOPLAS), v.2 n.1, p.42-55, Jan. 1980[doi>10.1145/357084.357087]
+B. Goldberg, Generational reference counting: a reduced-communication distributed storage reclamation scheme, ACM SIGPLAN Notices, v.24 n.7, p.313-321, July 1989[doi>10.1145/74818.74846]
+IcaIsuGI, Y., AND YONEZAWA, A. Distributed garbage collection usmg group reference counting. Tech. Rep. 90-014, Dept. Information Science, Univ. of Tokyo, 1990.
+Claus-Werner Lermen , Dieter Maurer, A protocol for distributed reference counting, Proceedings of the 1986 ACM conference on LISP and functional programming, p.343-350, August 1986, Cambridge, Massachusetts, USA[doi>10.1145/319838.319875]
+MATTERN, F. Algorithms for distnbuted termination detection. D~strzb. Comput. 2, 3 (1987), 161-175.
+Friedemann Mattern, Global quiescence detection based on credit distribution and recovery, Information Processing Letters, v.30 n.4, p.195-200, February 1989[doi>10.1016/0020-0190(89)90212-3]
+MATTERN, F. Efficient distributed snapshots and global virtual time algorithms for non-FIFO systems. Tech. Rep. SFB124-24/90, Kaiserslautern Univ., 1990.
+MATTERN, F., MEI-IL, Il., SCHOONE, A. A., AND TEL, G. Global virtual time approximation with distributed termination detection algorithms. Tech. Rep. RUU-CS-91-32, Dept. of Computer Science, Univ. of Utrecht, 1991.
+John McCarthy, Recursive functions of symbolic expressions and their computation by machine, Part I, Communications of the ACM, v.3 n.4, p.184-195, April 1960[doi>10.1145/367177.367199]
+Jayadev Misra, Detecting termination of distributed computations using markers, Proceedings of the second annual ACM symposium on Principles of distributed computing, p.290-294, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806729]
+N Natarajan, A distributed scheme for detecting communication deadlocks, IEEE Transactions on Software Engineering, v.12 n.4, p.531-537, April 1986
+José M. Piquer, Indirect reference counting: a distributed garbage collection algorithm, Proceedings on Parallel architectures and languages Europe : volume I: parallel architectures and algorithms: volume I: parallel architectures and algorithms, p.150-165, June 1991, Eindhoven, The Netherlands
+RUDALICS, M. Multiprocessor list memory management. Tech. Rep. RISC-88-87 0, Research Inst. for Symbolic Computation, J. Kepler Univ., Linz, Austria, 1988.
+RUDALICS, M. Implementation of distributed reference counts. Tech. Rep. (forthcoming), Research Inst. for Symbohc Computation, J. Kepler Univ., Lmz, Austria, 1990.
+Pamela Samuelson, Legally speaking: should program algorithms be patented, Communications of the ACM, v.33 n.8, p.23-27, Aug. 1990[doi>10.1145/79173.79175]
+N Shavit , N. Francez, A new approach to detection of locally indicative stability, International Colloquium on Automata, Languages and Programming on Automata, languages and programming, p.344-358, September 1986, Rennes, France
+Guy L. Steele, Jr., Multiprocessing compactifying garbage collection, Communications of the ACM, v.18 n.9, p.495-508, Sept. 1975[doi>10.1145/361002.361005]
+SCHOONE, A. A., AND TEL, G. Transformation of a termination detection algorithm and }ts assertional correctness proof. Tech. Rep. RUU-CS-88-40, Dept. of Computer Science, Univ. of Utrecht, 1988.
+TEL, G. Distributed infimum approximation. Tech. Rep. RUU-CS-86-12, Dept. of Computer Science, Univ. of Utrecht, 1986.
+TEL, G. Total algorithms. Algo. Rev. 1, (Jan. 1990), 13-42.
+G. Tel , R. B. Tan , J. van Leeuwen, The derivation of graph marking algorithms from distributed termination detection protocols, Science of Computer Programming, v.10 n.2, p.107-137, April 1988[doi>10.1016/0167-6423(88)90024-X]
+Jan L. A. Van de Snepscheut, "Algorithms for on-the-fly garbage collection" revisited, Information Processing Letters, v.24 n.4, p.211-216, March 1987[doi>10.1016/0020-0190(87)90135-9]
+K. S. Weng, AN ABSTRACT IMPLEMENTATION FOR A GENERALIZED DATA FLOW LANGUAGE, Massachusetts Institute of Technology, Cambridge, MA, 1980
+P Watson , I Watson, An efficient garbage collection scheme for parallel computer architectures, Volume II: Parallel Languages on PARLE: Parallel Architectures and Languages Europe, p.432-443, March 1987, Eindhoven, The Netherlands

@@ -1,0 +1,72 @@
+Tiziana Margaria , Oliver Rüthing , Bernhard Steffen, ViDoC- visual design of optimizing compilers, Program analysis and compilation, theory and practice: essays dedicated to Reinhard Wilhelm on the occasion of his 60th birthday, Springer-Verlag, Berlin, Heidelberg, 2007
+Todd Millstein, Static reasoning about programs and queries, Proceedings of the Paris C. Kanellakis memorial workshop on Principles of computing & knowledge: Paris C. Kanellakis memorial workshop on the occasion of his 50th birthday, p.28-34, June 08-08, 2003, San Diego, California, USA
+Bassam Tabbara , Abdallah Tabbara , Alberto Sangiovanni-Vincentelli, Task response time optimization using cost-based operation motion, Proceedings of the eighth international workshop on Hardware/software codesign, p.110-114, May 2000, San Diego, California, USA
+Arthur Sorkin, Some comments on Morel and Renvoise's “global optimization by suppression of partial redundancies”, ACM SIGPLAN Notices, v.31 n.12, p.69-72, Dec. 1996
+Tom Vander Aa , Bing-Feng Mei , Bjorn De Sutter, A backtracking instruction scheduler using predicate-based code hoisting to fill delay slots, Proceedings of the 2007 international conference on Compilers, architecture, and synthesis for embedded systems, September 30-October 03, 2007, Salzburg, Austria
+Motohiro Kawahito , Hideaki Komatsu , Toshio Nakatani, Effective null pointer check elimination utilizing hardware trap, ACM SIGPLAN Notices, v.35 n.11, p.139-149, Nov. 2000
+Motohiro Kawahito , Hideaki Komatsu , Toshio Nakatani, Effective null pointer check elimination utilizing hardware trap, ACM SIGOPS Operating Systems Review, v.34 n.5, p.139-149, Dec. 2000
+R. Nigel Horspool , David J. Pereira , Bernhard Scholz, Fast profile-based partial redundancy elimination, Proceedings of the 7th joint conference on Modular Programming Languages, p.362-376, September 13-15, 2006, Oxford, UK
+Jean-Baptiste Tristan , Xavier Leroy, Verified validation of lazy code motion, ACM SIGPLAN Notices, v.44 n.6, June 2009
+Shuhan Ding , Soner Önder, Unrestricted code motion: a program representation and transformation algorithms based on future values, Proceedings of the 19th joint European conference on Theory and Practice of Software, international conference on Compiler Construction, March 20-28, 2010, Paphos, Cyprus
+Sorin Lerner , Todd Millstein , Craig Chambers, Automatically proving the correctness of compiler optimizations, ACM SIGPLAN Notices, v.38 n.5, May 2003
+Motohiro Kawahito , Hideaki Komatsu , Toshio Nakatani, Partial redundancy elimination for access expressions by speculative code motion, Software—Practice & Experience, v.34 n.11, p.1065-1090, September 2004
+V. K. Paleri , Y. N. Srikant , P. Shankar, Partial redundancy elimination: a simple, pragmatic, and provably correct algorithm, Science of Computer Programming, v.48 n.1, p.1-20, July 2003
+Bernhard Scholz , Nigel Horspool , Jens Knoop, Optimizing for space and time usage with speculative partial redundancy elimination, ACM SIGPLAN Notices, v.39 n.7, July 2004
+Jürgen Vollmer, Data flow analysis of parallel programs, Proceedings of the IFIP WG10.3 working conference on Parallel architectures and compilation techniques, p.168-177, June 27-29, 1995, Limassol, Cyprus
+Ando Saabas , Tarmo Uustalu, Proof optimization for partial redundancy elimination, Proceedings of the 2008 ACM SIGPLAN symposium on Partial evaluation and semantics-based program manipulation, January 07-08, 2008, San Francisco, California, USA
+Motohiro Kawahito , Hideaki Komatsu , Toshio Nakatani, Effective sign extension elimination, ACM SIGPLAN Notices, v.37 n.5, May 2002
+Yingchun Zhu , Laurie J. Hendren, Communication optimizations for parallel C programs, ACM SIGPLAN Notices, v.33 n.5, p.199-211, May 1998
+Jens Knoop , Bernhard Steffen, Code motion for explicitly parallel programs, ACM SIGPLAN Notices, v.34 n.8, p.13-24, Aug. 1999
+Saumya K. Debray , William Evans , Robert Muth , Bjorn De Sutter, Compiler techniques for code compaction, ACM Transactions on Programming Languages and Systems (TOPLAS), v.22 n.2, p.378-415, March 2000
+David Lacey , Neil D. Jones , Eric Van Wyk , Carl Christian Frederiksen, Proving correctness of compiler optimizations by temporal logic, ACM SIGPLAN Notices, v.37 n.1, p.283-294, Jan. 2002
+Rei Odaira , Kei Hiraki, Sentinel PRE: Hoisting beyond Exception Dependency with Dynamic Deoptimization, Proceedings of the international symposium on Code generation and optimization, p.328-338, March 20-23, 2005
+Motohiro Kawahito , Hideaki Komatsu , Toshio Nakatani, Effective sign extension elimination for java, ACM Transactions on Programming Languages and Systems (TOPLAS), v.28 n.1, p.106-133, January 2006
+Hucheng Zhou , Wenguang Chen , Fred Chow, An SSA-based algorithm for optimal speculative code motion under an execution profile, ACM SIGPLAN Notices, v.46 n.6, June 2011
+Oliver Rüthing, Bidirectional Data Flow Analysis in Code Motion: Myth and Reality, Proceedings of the 5th International Symposium on Static Analysis, p.1-16, September 14-16, 1998
+Keith D. Cooper , Philip J. Schielke , Devika Subramanian, Optimizing for reduced code space using genetic algorithms, ACM SIGPLAN Notices, v.34 n.7, p.1-9, July 1999
+Motohiro Kawahito , Hideaki Komatsu , Takao Moriyama , Hiroshi Inoue , Toshio Nakatani, Idiom recognition framework using topological embedding, ACM Transactions on Architecture and Code Optimization (TACO), v.10 n.3, p.1-34, September 2013
+Youtao Zhang , Rajiv Gupta, Timestamped whole program path representation and its applications, ACM SIGPLAN Notices, v.36 n.5, p.180-190, May 2001
+Alexandru Nicolau , Guangqiang Li , Arun Kejariwal, Techniques for efficient placement of synchronization primitives, ACM SIGPLAN Notices, v.44 n.4, April 2009
+Phung Hua Nguyen , Jingling Xue, Interprocedural side-effect analysis and optimisation in the presence of dynamic class loading, Proceedings of the Twenty-eighth Australasian conference on Computer Science, p.9-18, January 01, 2005, Newcastle, Australia
+Jingling Xue , Phung Hua Nguyen , John Potter, Interprocedural side-effect analysis for incomplete object-oriented software modules, Journal of Systems and Software, v.80 n.1, p.92-105, January, 2007
+Ran Shaham , Elliot K. Kolodner , Mooly Sagiv, Heap profiling for space-efficient Java, ACM SIGPLAN Notices, v.36 n.5, p.104-113, May 2001
+Riyadh Baghdadi , Albert Cohen , Sven Verdoolaege , Konrad Trifunović, Improved loop tiling based on the removal of spurious false dependences, ACM Transactions on Architecture and Code Optimization (TACO), v.9 n.4, p.1-26, January 2013
+Jens Knoop , Oliver Rüthing , Bernhard Steffen, The power of assignment motion, ACM SIGPLAN Notices, v.30 n.6, p.233-245, June 1995
+Raymond Lo , Fred Chow , Robert Kennedy , Shin-Ming Liu , Peng Tu, Register promotion by sparse partial redundancy elimination of loads and stores, ACM SIGPLAN Notices, v.33 n.5, p.26-37, May 1998
+Bernhard Scholz , Bernd Burgstaller , Jingling Xue, Minimal placement of bank selection instructions for partitioned memory architectures, ACM Transactions on Embedded Computing Systems (TECS), v.7 n.2, p.1-32, February 2008
+David Lacey , Neil D. Jones , Eric Van Wyk , Carl Christian Frederiksen, Compiler Optimization Correctness by Temporal Logic, Higher-Order and Symbolic Computation, v.17 n.3, p.173-206, September 2004
+Jingling Xue , Jens Knoop, A fresh look at PRE as a maximum flow problem, Proceedings of the 15th international conference on Compiler Construction, March 30-31, 2006, Vienna, Austria
+Ali-Reza Adl-Tabatabai , Thomas Gross , Guei-Yuan Lueh, Code reuse in an optimizing compiler, ACM SIGPLAN Notices, v.31 n.10, p.51-68, Oct. 1996
+Phung Hua Nguyen , Jingling Xue, Strength reduction for loop-invariant types, Proceedings of the 27th Australasian conference on Computer science, p.213-222, January 01, 2004, Dunedin, New Zealand
+Max Hailperin, Cost-optimal code motion, ACM Transactions on Programming Languages and Systems (TOPLAS), v.20 n.6, p.1297-1322, Nov. 1998
+Long Li , Bo Huang , Jinquan Dai , Luddy Harrison, Automatic multithreading and multiprocessing of C programs for IXP, Proceedings of the tenth ACM SIGPLAN symposium on Principles and practice of parallel programming, June 15-17, 2005, Chicago, IL, USA
+Oliver Rüthing , Jens Knoop , Bernhard Steffen, Sparse code motion, Proceedings of the 27th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.170-183, January 19-21, 2000, Boston, MA, USA
+Jens Knoop , Oliver Rüthing, Optimization Under the Perspective of Soundness, Completeness, and Reusability, Correct System Design, Recent Insight and Advances, (to Hans Langmaack on the occasion of his retirement from his professorship at the University of Kiel), p.288-315, January 01, 1999
+Ali-Reza Adl-Tabatabai , Thomas Gross, Source-level debugging of scalar optimized code, ACM SIGPLAN Notices, v.31 n.5, p.33-43, May 1996
+David Aspinall , Lennart Beringer , Alberto Momigliano, Optimisation Validation, Electronic Notes in Theoretical Computer Science (ENTCS), v.176 n.3, p.37-59, July, 2007
+Jens Knoop , Bernhard Steffen , Jürgen Vollmer, Parallelism for free: efficient and optimal bitvector analyses for parallel programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.18 n.3, p.268-299, May 1996
+Dhananjay M. Dhamdhere, E-path_PRE: partial redundancy elimination made easy, ACM SIGPLAN Notices, v.37 n.8, August 2002
+Jens Knoop , Oliver Rüthing , Bernhard Steffen, Partial dead code elimination, ACM SIGPLAN Notices, v.29 n.6, p.147-158, June 1994
+Jens Knoop, From DFA-Frameworks to DFA-Generators: A Unifying Multiparadigm Approach, Proceedings of the 5th International Conference on Tools and Algorithms for Construction and Analysis of Systems, p.360-374, March 22-28, 1999
+Fred Chow , Sun Chan , Robert Kennedy , Shin-Ming Liu , Raymond Lo , Peng Tu, A new algorithm for partial redundancy elimination based on SSA form, ACM SIGPLAN Notices, v.32 n.5, p.273-286, May 1997
+Qiong Cai , Jingling Xue, Optimal and efficient speculation-based partial redundancy elimination, Proceedings of the international symposium on Code generation and optimization: feedback-directed and runtime optimization, March 23-26, 2003, San Francisco, California
+Rajkishore Barik , Rashid Kaleem , Deepak Majeti , Brian T. Lewis , Tatiana Shpeisman , Chunling Hu , Yang Ni , Ali-Reza Adl-Tabatabai, Efficient Mapping of Irregular C++ Applications to Integrated GPUs, Proceedings of Annual IEEE/ACM International Symposium on Code Generation and Optimization, February 15-19, 2014, Orlando, FL, USA
+Rastislav Bodík , Rajiv Gupta , Mary Lou Soffa, Complete removal of redundant expressions, ACM SIGPLAN Notices, v.33 n.5, p.1-14, May 1998
+Rastislav Bodík , Rajiv Gupta , Mary Lou Soffa, Load-reuse analysis: design and evaluation, ACM SIGPLAN Notices, v.34 n.5, p.64-76, May 1999
+Motohiro Kawahito , Hideaki Komatsu , Toshio Nakatani, Instruction combining for coalescing memory accesses using global code motion, Proceedings of the 2004 workshop on Memory system performance, June 08-08, 2004, Washington, D.C.
+Jens Knoop , Eduard Mehofer, Distribution Assignment Placement: Effective Optimization of Redistribution Costs, IEEE Transactions on Parallel and Distributed Systems, v.13 n.6, p.628-647, June 2002
+Uwe Assmann, Graph rewrite systems for program optimization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.22 n.4, p.583-637, July 2000
+Robert Kennedy , Sun Chan , Shin-Ming Liu , Raymond Lo , Peng Tu , Fred Chow, Partial redundancy elimination in SSA form, ACM Transactions on Programming Languages and Systems (TOPLAS), v.21 n.3, p.627-676, May 1999
+Bernhard Steffen , Malte Isberner , Stefan Naujokat , Tiziana Margaria , Maren Geske, Property-driven benchmark generation: synthesizing programs of realistic structure, International Journal on Software Tools for Technology Transfer (STTT), v.16 n.5, p.465-479, October   2014
+Rastislav Bodík , Rajiv Gupta , Mary Lou Soffa, Complete removal of redundant expressions, ACM SIGPLAN Notices, v.39 n.4, April 2004
+Jingling Xue , Qiong Cai, A lifetime optimal algorithm for speculative PRE, ACM Transactions on Architecture and Code Optimization (TACO), v.3 n.2, p.115-155, June 2006
+Rastisalv Bodík , Sadun Anik, Path-sensitive value-flow analysis, Proceedings of the 25th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.237-251, January 19-21, 1998, San Diego, California, USA
+Reinhard von Hanxleden , Ken Kennedy, A balanced code placement framework, ACM Transactions on Programming Languages and Systems (TOPLAS), v.22 n.5, p.816-860, Sept. 2000
+M. Kandemir , P. Banerjee , A. Choudhary , J. Ramanujam , N. Shenoy, A global communication optimization technique based on data-flow analysis and linear algebra, ACM Transactions on Programming Languages and Systems (TOPLAS), v.21 n.6, p.1251-1297, Nov. 1999
+Mahmut Kandemir , Alok Choudhary , Prithviraj Banerjee , J. Ramanujam , Nagaraj Shenoy, Minimizing Data and Synchronization Costs in One-Way Communication, IEEE Transactions on Parallel and Distributed Systems, v.11 n.12, p.1232-1251, December 2000
+Uday P. Khedker , Dhananjay M. Dhamdhere, Bidirectional data flow analysis: myths and reality, ACM SIGPLAN Notices, v.34 n.6, June 1999
+Keith D. Cooper , L. Taylor Simpson , Christopher A. Vick, Operator strength reduction, ACM Transactions on Programming Languages and Systems (TOPLAS), v.23 n.5, p.603-625, September 2001
+Uday P. Khedker , Dhananjay M. Dhamdhere , Alan Mycroft, Bidirectional data flow analysis for type inferencing, Computer Languages, Systems and Structures, v.29 n.1-2, p.15-44, April, 2003
+Xavier Leroy, A Formally Verified Compiler Back-end, Journal of Automated Reasoning, v.43 n.4, p.363-446, December  2009
+Oliver Rüthing, Interacting code motion transformations: their impact and their complexity, Springer-Verlag, Berlin, Heidelberg, 1998
+Jens Knoop, Optimal interprocedural program optimization: a new framework and its application, Springer-Verlag, Berlin, Heidelberg, 1998

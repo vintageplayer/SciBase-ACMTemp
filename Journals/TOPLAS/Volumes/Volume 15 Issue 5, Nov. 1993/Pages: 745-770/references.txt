@@ -1,0 +1,43 @@
+Juan Alemany , Edward W. Felten, Performance issues in non-blocking synchronization on shared-memory multiprocessors, Proceedings of the eleventh annual ACM symposium on Principles of distributed computing, p.125-134, August 10-12, 1992, Vancouver, British Columbia, Canada[doi>10.1145/135419.135446]
+T. E. Anderson, The Performance of Spin Lock Alternatives for Shared-Memory Multiprocessors, IEEE Transactions on Parallel and Distributed Systems, v.1 n.1, p.6-16, January 1990[doi>10.1109/71.80120]
+Gregory R. Andrews , Fred B. Schneider, Concepts and Notations for Concurrent Programming, ACM Computing Surveys (CSUR), v.15 n.1, p.3-43, March 1983[doi>10.1145/356901.356903]
+BAYER, R., AND SCHKOLNICK, M. 1977. Concurrency of operations on B-trees A~ta I,f. 1, 1, 1 21.
+BiSWAS, J., AND BROWNE, J.C. 1987. Simultaneous update of priority structures. In Proceedings of the 1987 International Conference o, Paz'allel Processzng. pp 124 131.
+James E. Burns , Gary L. Peterson, Constructing multi-reader atomic values from non-atomic values, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.222-231, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41859]
+Benny Chor , Amos Israeli , Ming Li, On processor coordination using asynchronous hardware, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.86-97, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41848]
+Thomas T. Cormen , Charles E. Leiserson , Ronald L. Rivest, Introduction to algorithms, MIT Press, Cambridge, MA, 1990
+Danny Dolev , Cynthia Dwork , Larry Stockmeyer, On the minimal synchronism needed for distributed consensus, Journal of the ACM (JACM), v.34 n.1, p.77-97, Jan. 1987[doi>10.1145/7531.7533]
+Cynthia Dwork , Nancy Lynch , Larry Stockmeyer, Consensus in the presence of partial synchrony, Journal of the ACM (JACM), v.35 n.2, p.288-323, April 1988[doi>10.1145/42282.42283]
+DWORK, C., SHMOYS, D., AND STOCKMEYER, L. 1986. Flipping persuasively in constant expected time. In The 27th Annual Symposium on Foundatzons of Computer SczeTzce (Oct.). 222-232.
+ELL{S, C. S. 1980. Concurrent search and insertion in 2-3 trees. Acte Inf. 14, i (Apr.), 63-86.
+ENCORE COMPUTER COm~ORAT~ON 1989. Multimax technical summary. Order Number 726-01759, Rev E.
+Michael J. Fischer , Nancy A. Lynch , Michael S. Paterson, Impossibility of distributed consensus with one faulty process, Journal of the ACM (JACM), v.32 n.2, p.374-382, April 1985[doi>10.1145/3149.214121]
+Ray Ford , Jim Calhoun, Concurrency control mechanisms and the serializability of concurrent tree algorithms, Proceedings of the 3rd ACM SIGACT-SIGMOD symposium on Principles of database systems, April 02-04, 1984, Waterloo, Ontario, Canada[doi>10.1145/588011.588020]
+GOTTLIEB, A., GRISHMAN, R., KJ~USKAL, C. P., McAULIFFE, K. P., RUDOLPH, L., AND SNIR, M. 1984. The nyu ultracomputer--designing an MIMD parallel computer. IEEE Trans. Comput. C-32, 2 (Feb.), 175 189.
+Allan Gottlieb , Boris D. Lubachevsky , Larry Rudolph, Basic Techniques for the Efficient Coordination of Very Large Numbers of Cooperating Sequential Processors, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.2, p.164-189, April 1983[doi>10.1145/69624.357206]
+GumAs. L., AND SEDaEWrCK, R. 1978. A dichromatic framework for balanced trees. In 19th ACM Symposium on FoundatioTzs of Computer Science. ACM, New York, pp. 8-21.
+Maurice Herlihy, Wait-free synchronization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.1, p.124-149, Jan. 1991[doi>10.1145/114005.102808]
+M. Herlihy, A methodology for implementing highly concurrent data structures, Proceedings of the second ACM SIGPLAN symposium on Principles & practice of parallel programming, p.197-206, March 14-16, 1990, Seattle, Washington, USA[doi>10.1145/99163.99185]
+Maurice Herlihy , J. Eliot B. Moss, Transactional memory: architectural support for lock-free data structures, Proceedings of the 20th annual international symposium on computer architecture, p.289-300, May 16-19, 1993, San Diego, California, USA[doi>10.1145/165123.165164]
+M. P. Herlihy , J. M. Wing, Axioms for concurrent objects, Proceedings of the 14th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.13-26, January 21-23, 1987, Munich, West Germany[doi>10.1145/41625.41627]
+IBM. System/370 principles of operation Order Number GA22-7000.
+JENSEN, E. H, HAGENSEN, G W., AND BROUGHTON, J M. 1987. A new approach to exclusive data access in shared memory multiprocessors. Tech. Rep. UCRL-97663, Lawrence Livermore National Laboratory, Nov.
+Douglas W. Jones, Concurrent operations on priority queues, Communications of the ACM, v.32 n.1, p.132-137, Jan. 1989[doi>10.1145/63238.63249]
+K~E, G. 1989. MIPS RISC Archttecture. Prentice-Hall, Englewood Cliffs, N.J.
+Brian W. Kernighan , Dennis M. Ritchie, The C programming language, Prentice Hall Press, Upper Saddle River, NJ, 1989
+H. T. Kung , John T. Robinson, On optimistic methods for concurrency control, ACM Transactions on Database Systems (TODS), v.6 n.2, p.213-226, June 1981[doi>10.1145/319566.319567]
+LAMPORT, L. 1986. On interprocess communications, parts i and il. Dlstrlb. Comput. 1, 1 (Apr.), 77-101.
+Leslie Lamport, Specifying Concurrent Program Modules, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.2, p.190-222, April 1983[doi>10.1145/69624.357207]
+L~MPORT, L 1979. How to make a multiprocessor computer that correctly executes multiprocess programs. IEEE Trans. Comput. C-28, 9 (Sept), 690.
+Vladimir Lanin , Dennis Shasha, Concurrent set manipulation without locking, Proceedings of the seventh ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.211-220, March 1988, Austin, Texas, USA[doi>10.1145/308386.308442]
+Philip L. Lehman , s. Bing Yao, Efficient locking for concurrent operations on B-trees, ACM Transactions on Database Systems (TODS), v.6 n.4, p.650-670, Dec. 1981[doi>10.1145/319628.319663]
+Lb M., TROMP, J., AND Vn'~~h P.M. 1991. How to share concurrent wait-free variables. Tech. Rep. CT-91-02, Univ. of Amsterdam, Amsterdam, Netherlands, Mar.
+J. M. Mellor-Crummey , M. L. Scott, Algorithms for Scalable Synchronization on Shared-Memory Multiproceessors, University of Rochester, Rochester, NY, 1990
+Robert M. Metcalfe , David R. Boggs, Ethernet: distributed packet switching for local computer networks, Communications of the ACM, v.19 n.7, p.395-404, July 1976[doi>10.1145/360248.360253]
+Christos H. Papadimitriou, The serializability of concurrent database updates, Journal of the ACM (JACM), v.26 n.4, p.631-653, Oct. 1979[doi>10.1145/322154.322158]
+Gary L. Peterson, Concurrent Reading While Writing, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.1, p.46-55, Jan. 1983[doi>10.1145/357195.357198]
+PETERSON, G. L., AND BURNS, J.E. 1986. Concurrent reading whfie wnting il: The multi-writer case. Tech. Rep. GIT-ICS-86/26, GeorgSa Instltute of Technology, Dec.
+S. A. Plotkin, Sticky bits and universality of consensus, Proceedings of the eighth annual ACM Symposium on Principles of distributed computing, p.159-175, June 1989, Edmonton, Alberta, Canada[doi>10.1145/72981.72992]
+Larry Rudolph , Zary Segall, Dynamic decentralized cache schemes for mimd parallel processors, Proceedings of the 11th annual international symposium on Computer architecture, p.340-347, January 1984[doi>10.1145/800015.808203]
+Richard L. Sites, Alpha architecture reference manual, Digital Press, Newton, MA, 1992
+Daniel Dominic Sleator , Robert Endre Tarjan, Self-adjusting binary trees, Proceedings of the fifteenth annual ACM symposium on Theory of computing, p.235-245, December 1983[doi>10.1145/800061.808752]

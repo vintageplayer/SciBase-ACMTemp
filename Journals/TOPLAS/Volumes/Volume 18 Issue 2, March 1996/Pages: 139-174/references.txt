@@ -1,0 +1,59 @@
+E. Anderson , Z. Bai , C. Bischof , J. Demmel , J. Dongarra , J. Du Croz , A. Greenbaum , S. Hammarling , A. McKenney , S. Ostrouchov , D. Sorensen, LAPACK's user's guide, Society for Industrial and Applied Mathematics, Philadelphia, PA, 1992
+ANSI. 1983. American National Standard Reference Manual for the Ada Programming Language. ANSI/MIL-STD 1815A-1983. American National Standards Institute, New York.
+ANSI. 1995. Americal National Standard for Information Technology--Programming Languages--Ada. ANSI/ISO/IEC 8652-1995. American National Standards Institute, New York.
+APOSTOL, T. M. 1974. Mathematical Analysis, 2d ed. Addison-Wesley, Reading, Mass.
+ASSADULLAH, M. M., DEMMEL, J., FIGUEROA, S., GREENBAUM, A., AND MCI~ENNEY, A. 1992. On finding eigenvalues and singular values by bisection. LAPACK Working Note 19.
+James L. Blue, A Portable Fortran Program to Find the Euclidean Norm of a Vector, ACM Transactions on Mathematical Software (TOMS), v.4 n.1, p.15-23, March 1978[doi>10.1145/355769.355771]
+W. S. Brown, A Simple but Realistic Model of Floating-Point Computation, ACM Transactions on Mathematical Software (TOMS), v.7 n.4, p.445-480, Dec. 1981[doi>10.1145/355972.355975]
+C. W. Clenshaw , F. W. J. Olver, Beyond Floating Point, Journal of the ACM (JACM), v.31 n.2, p.319-328, April 1984[doi>10.1145/62.322429]
+C. W. Clenshaw , F. W. J. Olver, Level-index arithmetic operations, SIAM Journal on Numerical Analysis, v.24 n.2, p.470-485, April 1987[doi>10.1137/0724034]
+CLENSHAW, C. W. AND TURNER, P. R. 1988. The symmetric level-index system. IMA J. Num. Anal. 8, 4 (Oct.), 517-526.
+CODY, W. J. 1981. Analysis of proposals for the floating-point standard. Computer 14, 3 (Mar.), 63-68.
+Jerome Coonen , William Kahan , John Palmer , Tom Pittman , David Stevenson, A proposed standard for binary floating point arthmetic, ACM SIGNUM Newsletter, v.14 n.si-2, p.4-12, October 1979[doi>10.1145/1057520.1057521]
+COONEN, J. T. 1980. An implementation guide to a proposed standard for floating-point arithmetic. Computer 13, 1 (Jan.), 68-79.
+COONEN, J. T. 1981. Underflow and the denormalized numbers. Computer 14, 3 (Mar.), 75-87.
+DEC. 1992. Alpha Architecture Handbook. Digital Equipment Corporation, Maynard, Mass.
+DEMMEL, J. 1981. Effects of underflow on solving linear systems. In Proceedings of the 5th Symposium on Computer Arithmetic. IEEE Computer Society Press, New York, 113-119.
+DEMMEL, J. 1984. Underflow and the reliability of numerical software. SIAM J. Sci. Star. Comput. 5, 4 (Dec.), 887-919.
+James W. Demmel , Inderjit Dhillon , Huan Ren, On the Correctness of Parallel Bisection in Floating Point, University of California at Berkeley, Berkeley, CA, 1994
+DEMMEL, J. W. 1987. On error analysis in arithmetic with varying relative precision. In Proceedings of the 8th Symposium on Computer Arithmetic, M. J. Irwin and R. Stefanelli, Eds. IEEE Computer Society Press, Washington, D.C., 148-152.
+J. W. Demmel , Xiaoye Li, Faster Numerical Algorithms Via Exception Handling, IEEE Transactions on Computers, v.43 n.8, p.983-992, August 1994[doi>10.1109/12.295860]
+DONGARRA, J., BUNCH, J., MOLER, C., AND STEWART, G. W. 1979. LINPACK User's Guide. SIAM, Philadelphia, Pa.
+FELDMAN, S. 1981. Language support for floating point. In Proceedings of the IFIP TC 2 Working Conference on the Relationship between Numerical Computation and Programming Languages, J. K. Reid, Ed. North-Holland, Amsterdam, 263-274.
+FOLLAND, G. B. 1984. Real Analysis: Modern Techniques and Their Applications. John Wiley and Sons, New York.
+Bob Fraley , Steve Walther, Proposal to eliminate denormalized numbers, ACM SIGNUM Newsletter, v.14 n.si-2, p.22-23, October 1979[doi>10.1145/1057520.1057523]
+David Goldberg, What every computer scientist should know about floating-point arithmetic, ACM Computing Surveys (CSUR), v.23 n.1, p.5-48, March 1991[doi>10.1145/103162.103163]
+HAMADA, H. 1987. A new real number representation and its operation. In Proceedings of the 8th Symposium on Computer Arithmetic, M. J. Irwin and R. Stefanelli, Eds. IEEE Computer Society Press, Washington, D.C., 153-157.
+HAUSER, J. R. 1994. Programmed exception handling. M.S. thesis, Univ. of California, Berkeley, Calif.
+David A. Patterson , John L. Hennessy, Computer architecture: a quantitative approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1990
+HOUGH, D. 1981. Applications of the proposed IEEE 754 Standard for floating-point arithmetic. Computer 14, 3 (Mar.), 70-74.
+HULL, T. E. 1981. The use of controlled precision. In Proceedings of the IFIP TC 2 Working Conference on the Relationship between Numerical Computation and Programming Languages, J. K. Reid, Ed. North-Holland, Amsterdam, 71-84.
+T. E. Hull , Thomas F. Fairgrieve , Ping-Tak Peter Tang, Implementing complex elementary functions using exception handling, ACM Transactions on Mathematical Software (TOMS), v.20 n.2, p.215-244, June 1994[doi>10.1145/178365.178404]
+W. W. Hwu , Y. N. Patt, Checkpoint repair for out-of-order execution machines, Proceedings of the 14th annual international symposium on Computer architecture, p.18-26, June 02-05, 1987, Pittsburgh, Pennsylvania, USA[doi>10.1145/30350.30353]
+IEC. 1989. Binary Floating-Point Arithmetic for Microprocessor Systems. IEC 559:1989. International ElectrotechnicM Commission, Geneva.
+IEEE. 1985. IEEE Standard for Binary Floating-Point Arithmetic. ANSI/IEEE Std 754-1985. Institute of Electrical and Electronics Engineers, New York.
+IEEE TASK P754. 1981. A proposed standard for binary floating-point arithmetic. Computer 14, 3 (Mar.), 51-62. With introductory comments by David Stevenson.
+ISO. 1990. Programming Languages--C. ISO/IEC 9899:1990(E). International Standards Organization, Geneva.
+ISO. 1994. Information Technology--Language Independent Arithmetic--Part 1: Integer and Floating Point Arithmetic. ISO/IEC 10967-1:1994(E). International Standards Organization, Geneva.
+ISO. 1995a. Information Technology--Programming Language--Ada. ISO/IEC 8652:1995. International Standards Organization, Geneva.
+ISO. 1995b. Information Technology--Programming Languages, Their Environments and Systern Software Interfaces--Programming Language C++. ISO/IEC CD 14882. International Standards Organization, Geneva.
+JOHNSON, M. 1991. Superscalar Microprocessor Design. Prentice-HM1, Englewood Cliffs, N.J.
+KAHAN, W. 1986. Branch cuts for complex elementary functions; or much ado about nothing's sign bit. In Proceedings of the Joint IMA//SIAM Conference on the State of the Art in Numerical Analysis. Clarendon Press, Oxford, England, 165-211.
+W. Kahan , J. Palmer, On a proposed floating-point standard, ACM SIGNUM Newsletter, v.14 n.si-2, p.13-21, October 1979[doi>10.1145/1057520.1057522]
+KAHAN, W. M. 1980. Interval arithmetic options in the proposed IEEE Floating Point Standard. In Proceedings of the International Symposium on Interval Mathematics. Academic Press, New York, 99-128.
+Donald E. Knuth, Two notes on notation, American Mathematical Monthly, v.99 n.5, p.403-422, May 1992[doi>10.2307/2325085]
+Andrew Koenig , Bjarne Stroustrup, Exception handling for C++, The evolution of C++: language design in the marketplace of ideas, MIT Press, Cambridge, MA, 1993
+LYNCH, T. W. AND SWARTZLANDER, E. E. 1991. A formalization for computer arithmetic. In Proceedings of the 3rd International IMA CS-GAMM Symposium on Computer Arithmetic and Scientific Computing, L. Atanassova and J. Herzberger, Eds. North-Holland, Amsterdam, 137- 145.
+MATSUI, S. AND IRI, M. 1981. An overflow/underflow-free floating-point representation of numbers. J. Inf. Process. g, 3, 123-133.
+OLVER, F. W. J. 1987. A closed computer arithmetic. In Proceedings of the 8th Symposium on Computer Arithmetic, M. J. Irwin and R. Stefanelli, Eds. IEEE Computer Society Press, Washington, D.C., 139-143.
+PARLETT, B. 1979. An open letter to the community of computer users. SIGNUM Newslett. 1~, 2-3. Special issue.
+PAYNE, M. H. 1979. Floating point standardization. In Proceedings of the 19th IEEE Computer Society International Conference. Institute of Electrical and Electronics Engineers, New York, 166-169.
+Richard L. Sites, Alpha AXP architecture, Communications of the ACM, v.36 n.2, p.33-44, Feb. 1993[doi>10.1145/151220.151226]
+SMITH, B. T., BOYLE, J. M., DONGARRA, J. J., GARBOW, B. S., IKEBE, Y., KLEMA, V. C., AND MOLER, C. B. 1976. Matrix Eigensystem Routines: EISPACK Guide. Lecture Notes in Computer Science, vol. 6. Springer-Verlag, Berlin.
+James E. Smith , Andrew R. Pleszkun, Implementation of precise interrupts in pipelined processors, Proceedings of the 12th annual international symposium on Computer architecture, p.36-44, June 17-19, 1985, Boston, Massachusetts, USA
+J. M. Smith , F. W. J. Olver , D. W. Lozier, Extended-Range Arithmetic and Normalized Legendre Polynomials, ACM Transactions on Mathematical Software (TOMS), v.7 n.1, p.93-105, March 1981[doi>10.1145/355934.355940]
+G. S. Sohi , S. Vajapeyam, Instruction issue logic for high-performance, interruptable pipelined processors, Proceedings of the 14th annual international symposium on Computer architecture, p.27-34, June 02-05, 1987, Pittsburgh, Pennsylvania, USA[doi>10.1145/30350.30354]
+STERBENZ, P. H. 1974. Floating-point Computation. Prentice-Hall, Englewood Cliffs, N.J., 39-70.
+Bjarne Stroustrup, The C++ programming language (2nd ed.), Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1991
+TURNER, P. R. 1989. A software implementation of sli arithmetic. In Proceedings of the 9th Symposium on Computer Arithmetic. IEEE Computer Society Press, Washington, D.C., 18-24.
+TURNER, P. R. 1993. Complex SLI arithmetic: Representation, algorithms and analysis. In Proceedings of the 11th Symposium on Computer Arithmetic, E. Swartzlander Jr., M. J. Irwin, and G. Jullian, Eds. IEEE Computer Society Press, Los Alamitos, Calif., 18-25.

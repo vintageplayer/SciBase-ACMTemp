@@ -1,0 +1,44 @@
+Stephen M. Blackburn , Richard L. Hudson , Ron Morrison , J. Eliot B. Moss , David S. Munro , John Zigman, Starting with termination: a methodology for building distributed garbage collection algorithms, Australian Computer Science Communications, v.23 n.1, p.20-28, January-February 2001
+Healfdene Goguen , Richard Brooksby , Rod M. Burstall, Memory Management: An Abstract Formulation of Incremental Tracing, Selected papers from the International Workshop on Types for Proofs and Programs, p.148-161, June 12-16, 1999
+Jan E. Jonker, On-the-fly garbage collection for several mutators, Distributed Computing, v.5 n.4, p.187-199, April 1992
+Gerard Tel , Friedemann Mattern, The derivation of distributed termination detection algorithms from garbage collection schemes, ACM Transactions on Programming Languages and Systems (TOPLAS), v.15 n.1, p.1-35, Jan. 1993
+Christian Ungureanu , Benjamin Goldberg, Formal models of distributed memory management, ACM SIGPLAN Notices, v.32 n.8, p.280-291, Aug. 1997
+Ravi Sharma , Mary Lou Soffa, Parallel generational garbage collection, ACM SIGPLAN Notices, v.26 n.11, p.16-32, Nov. 1991
+B. Goldberg, Generational reference counting: a reduced-communication distributed storage reclamation scheme, ACM SIGPLAN Notices, v.24 n.7, p.313-321, July 1989
+H. Gao , J. F. Groote , W. H. Hesselink, Lock-Free parallel garbage collection, Proceedings of the Third international conference on Parallel and Distributed Processing and Applications, November 02-05, 2005, Nanjing, China
+Leonor Prensa Nieto , Javier Esparza, Verifying Single and Multi-mutator Garbage Collectors with Owicki-Gries in Isabelle/HOL, Proceedings of the 25th International Symposium on Mathematical Foundations of Computer Science, p.619-628, September 01, 2000
+Martin Kero , Johan Nordlander , Per Lindgren, A correct and useful incremental copying garbage collector, Proceedings of the 6th international symposium on Memory management, October 21-22, 2007, Montreal, Quebec, Canada
+Satyaki Das , David L. Dill , Seungjoon Park, Experience with Predicate Abstraction, Proceedings of the 11th International Conference on Computer Aided Verification, p.160-171, July 06-10, 1999
+José M. Piquer, Indirect distributed garbage collection: handling object migration, ACM Transactions on Programming Languages and Systems (TOPLAS), v.18 n.5, p.615-647, Sept. 1996
+Rafael Dueire Lins, New algorithms and applications of cyclic reference counting, Proceedings of the Third international conference on Graph Transformations, September 17-23, 2006, Natal, Rio Grande do Norte, Brazil
+Martin T. Vechev , Eran Yahav , David F. Bacon , Noam Rinetzky, CGCExplorer: a semi-automated search procedure for provably correct concurrent collectors, ACM SIGPLAN Notices, v.42 n.6, June 2007
+Ing-Ray Chen , Sayed A. Banawan, A uniform approach to the stability and performance analysis of concurrent data structure maintenance policies, Proceedings of the 1992 ACM/SIGAPP Symposium on Applied computing: technological challenges of the 1990's, p.160-168, April 1992, Kansas City, Missouri, United States
+Rafael Dueire Lins, An efficient multi-processor architecture for parallel cyclic reference counting, Proceedings of the 5th international conference on High performance computing for computational science, June 26-28, 2002, Porto, Portugal
+Ing-Ray Chen , S. A. Banawan, Modeling and Analysis of Concurrent Maintenance Policies for Data Structures Using Pointers, IEEE Transactions on Software Engineering, v.19 n.9, p.902-911, September 1993
+Andrew McCreight , Zhong Shao , Chunxiao Lin , Long Li, A general framework for certifying garbage collectors and their mutators, ACM SIGPLAN Notices, v.42 n.6, June 2007
+Lars Birkedal , Noah Torp-Smith , John C. Reynolds, Local reasoning about a copying garbage collector, ACM SIGPLAN Notices, v.39 n.1, p.220-231, January 2004
+J. D. Eckart , R. J. LeBlanc, Distributed garbage collection, ACM SIGPLAN Notices, v.22 n.7, p.264-273, July 1987
+David F. Bacon , Perry Cheng , David Grove , Michael Hind , V. T. Rajan , Eran Yahav , Matthias Hauswirth , Christoph M. Kirsch , Daniel Spoonhower , Martin T. Vechev, High-level real-time programming in Java, Proceedings of the 5th ACM international conference on Embedded software, September 18-22, 2005, Jersey City, NJ, USA
+Damien Doligez , Georges Gonthier, Portable, unobtrusive garbage collection for multiprocessor systems, Proceedings of the 21st ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.70-83, January 16-19, 1994, Portland, Oregon, United States
+Maurice P. Herlihy , J. E. B. Moss, Lock-free garbage collection for multiprocessors, Proceedings of the third annual ACM symposium on Parallel algorithms and architectures, p.229-236, July 21-24, 1991, Hilton Head, South Carolina, USA
+B. Lang , F. Dupont, Incremental incrementally compacting garbage collection, ACM SIGPLAN Notices, v.22 n.7, p.253-263, July 1987
+Hezi Azatchi , Yossi Levanoni , Harel Paz , Erez Petrank, An on-the-fly mark and sweep garbage collector based on sliding views, ACM SIGPLAN Notices, v.38 n.11, November 2003
+Tamar Domani , Elliot K. Kolodner , Erez Petrank, A generational on-the-fly garbage collector for Java, ACM SIGPLAN Notices, v.35 n.5, p.274-284, May 2000
+Luc Moreau , Peter Dickman , Richard Jones, Birrell's distributed reference listing revisited, ACM Transactions on Programming Languages and Systems (TOPLAS), v.27 n.6, p.1344-1395, November 2005
+David M. Goldschlag, A Mechanization of Unity in PC-NQTHM-92, Journal of Automated Reasoning, v.23 n.3, p.445-498, November 1999
+Wim H. Hesselink , M. I. Lali, Simple concurrent garbage collection almost without synchronization, Formal Methods in System Design, v.36 n.2, p.148-166, June      2010
+Farokh Bastani , Wael Hilal , Ing-Ray Chen, Performance analysis of concurrent maintenance policies for servers in a distributed environment, Proceedings of 1986 ACM Fall joint computer conference, p.611-619, November 1986, Dallas, Texas, USA
+H. Gao , J. F. Groote , W. H. Hesselink, Lock-free parallel and concurrent garbage collection by mark&sweep;, Science of Computer Programming, v.64 n.3, p.341-374, February, 2007
+Damien Doligez , Xavier Leroy, A concurrent, generational garbage collector for a multithreaded implementation of ML, Proceedings of the 20th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.113-123, March 1993, Charleston, South Carolina, United States
+Erik Österlund , Welf Löwe, Concurrent compaction using a field pinning protocol, Proceedings of the 2015 ACM SIGPLAN International Symposium on Memory Management, June 14-14, 2015, Portland, OR, USA
+Noah Torp-Smith , Lars Birkedal , John C. Reynolds, Local reasoning about a copying garbage collector, ACM Transactions on Programming Languages and Systems (TOPLAS), v.30 n.4, p.1-58, July 2008
+Katherine Barabash , Yoav Ossia , Erez Petrank, Mostly concurrent garbage collection revisited, ACM SIGPLAN Notices, v.38 n.11, November 2003
+Harel Paz , David F. Bacon , Elliot K. Kolodner , Erez Petrank , V. T. Rajan, An efficient on-the-fly cycle collection, ACM Transactions on Programming Languages and Systems (TOPLAS), v.29 n.4, p.20-es, August 2007
+Martin T. Vechev , Eran Yahav , David F. Bacon, Correctness-preserving derivation of concurrent garbage collection algorithms, ACM SIGPLAN Notices, v.41 n.6, June 2006
+N. Bagherzadeh , S. -l. Heng , C. -l. Wu, A Parallel Asynchronous Garbage Collection Algorithm for Distributed Systems, IEEE Transactions on Knowledge and Data Engineering, v.3 n.1, p.100-107, March 1991
+Martin T. Vechev , David F. Bacon , Perry Cheng , David Grove, Derivation and evaluation of concurrent collectors, Proceedings of the 19th European conference on Object-Oriented Programming, July 25-29, 2005, Glasgow, UK
+Nandakumar Sankaran, A bibliography on garbage collection and related topics, ACM SIGPLAN Notices, v.29 n.9, p.149-158, Sept. 1994
+Chun-Xiao Lin , Yi-Yun Chen , Long Li , Bei Hua, Garbage collector verification for proof-carrying code, Journal of Computer Science and Technology, v.22 n.3, p.426-437, May 2007
+M. P. Herlihy , J. E. B. Moss, Lock-Free Garbage Collection for Multiprocessors, IEEE Transactions on Parallel and Distributed Systems, v.3 n.3, p.304-311, May 1992
+Saleh E. Abdullahi , Graem A. Ringwood, Garbage collecting the Internet: a survey of distributed garbage collection, ACM Computing Surveys (CSUR), v.30 n.3, p.330-373, Sept. 1998
+A. Gupta , W. K. Fuchs, Garbage Collection in a Distributed Object-Oriented System, IEEE Transactions on Knowledge and Data Engineering, v.5 n.2, p.257-265, April 1993

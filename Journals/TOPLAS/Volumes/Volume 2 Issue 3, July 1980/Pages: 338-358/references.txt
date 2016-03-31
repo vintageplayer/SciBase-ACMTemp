@@ -1,0 +1,20 @@
+1. AGERWALA, T. A complete model for representing the coordination of asynchronous processes. Computer Research Report 32, Johns Hopkins University, Baltimore, Md., 1974.
+Per Brinch Hansen, Operating system principles, Prentice-Hall, Inc., Upper Saddle River, NJ, 1973
+E. G. Coffman , M. Elphick , A. Shoshani, System Deadlocks, ACM Computing Surveys (CSUR), v.3 n.2, p.67-78, June 1971[doi>10.1145/356586.356588]
+4. CLARKE, E. M. Program invariants as fixed points. 18th Ann. IEEE Symp. on Foundations of Computer Science, Providence, R.I., Nov. 1977, pp. 18-28.
+Edmund Melson Clarke, Jr., Synthesis of resource invariants for concurrent programs, Proceedings of the 6th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.211-221, January 29-31, 1979, San Antonio, Texas[doi>10.1145/567752.567772]
+6. COUSOT, P., AND COUSOT, R. Static determination of dynamic properties of programs. Proc. 2nd Int. Symp. on Programming, B. Robinet, Ed., Dunod, Paris, April 1976.
+Patrick Cousot , Nicolas Halbwachs, Automatic discovery of linear restraints among variables of a program, Proceedings of the 5th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.84-96, January 23-25, 1978, Tucson, Arizona[doi>10.1145/512760.512770]
+8. DIJKSTRA, E. W. Cooperating sequential processes. InProgramming Languages, G. Genuys, Ed., Academic Press, N.Y., 1968, pp. 43-112.
+9. FLON, L., AND SUZUKI, N. Nondeterminism and the correctness of parallel programs. Tech. Rep., Dep. of Computer Science, Carnegie-Mellon Univ., May 1977.
+A. Nico Habermann, Synchronization of communicating processes, Communications of the ACM, v.15 n.3, p.171-176, March 1972[doi>10.1145/361268.361277]
+11. HABERMANN, A. N. Path expressions. Tech. Rep., Dep. of Computer Science, Carnegie-Mellon Univ., June 1975.
+12. HOARE, C. A. R. Towards a theory of parallel programming. InOperating Systems Techniques, C. A. R. Hoare and R. H. Perrot, Eds., Academic Press, N.Y., 1972, pp. 61-71.
+13. KELLER, R. M. Generalized petri nets as models for system verification. Tech. Rep., Computer Science Dep., Univ. of Utah, 1977.
+14. VAN LAMSVEERDE, A., AND SINTZOFF, M. Formal derivation of strongly correct parallel programs. MBLE Research Rep., Brussels, Belgium, 1976.
+Richard J. Lipton, Reduction: a new method of proving properties of systems of processes, Proceedings of the 2nd ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.78-86, January 20-22, 1975, Palo Alto, California[doi>10.1145/512976.512985]
+16. LAMPORT, L. Proving the correctness of multiprocess programs.IEEE Trans. Softw. Eng. 3, 2 (1977), 125-143.
+Susan Owicki , David Gries, Verifying properties of parallel programs: an axiomatic approach, Communications of the ACM, v.19 n.5, p.279-285, May 1976[doi>10.1145/360051.360224]
+18. PNEULI, A. The temporal logic of programs. 18th Ann. IEEE Symp. on Foundations of Computer Science, Providence, R.I., Nov. 1977, pp. 46-57.
+19. ROSEN, B. K. Correctness of parallel programs: The Church-Rosser approach.Theor. Comput. Sci. 2(1976), 183-207.
+20. SCHMID, H. A. On the efficient implementation of conditional critical regions and the construction of monitors.Acta Inf. 6, 3 (1976), 227-249.

@@ -1,0 +1,57 @@
+Anders Bondorf, Automatic autoprojection of higher order recursive equations, Science of Computer Programming, v.17 n.1-3, p.3-34, Dec. 1991[doi>10.1016/0167-6423(91)90035-V]
+BONDORF, A. 1993. Similix 5.0 Manual. DIKU, University of Copenhagen.
+Nigel P. Chapman, LR PARSING theory and practice, Cambridge University Press, New York, NY, 1987
+CHIRICA~ L. AND MARTIN~ D. 1979. An order algebraic definition of Knuthian semantics. Theor. Comp. Sci. 13, 1-27.
+Charles Consel , Olivier Danvy, For a better support of static data flow, Proceedings of the 5th ACM conference on Functional programming languages and computer architecture, p.496-519, June 1991, Cambridge, Massachusetts, USA
+Charles Consel , Olivier Danvy, Tutorial notes on partial evaluation, Proceedings of the 20th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.493-501, March 1993, Charleston, South Carolina, USA[doi>10.1145/158511.158707]
+DANVY~ O. AND FILINSKI~ t. 1992. Representing control: A study of the CPS transformation. Mathematical Structures in Computer Science 2, 361-391.
+Olivier Danvy , Karoline Malmkjær , Jens Palsberg, Eta-expansion does The Trick, ACM Transactions on Programming Languages and Systems (TOPLAS), v.18 n.6, p.730-751, Nov. 1996[doi>10.1145/236114.236119]
+Peter Dencker , Karl Dürre , Johannes Heuft, Optimization of parser tables for portable compilers, ACM Transactions on Programming Languages and Systems (TOPLAS), v.6 n.4, p.546-572, Oct. 1984[doi>10.1145/1780.1802]
+Frank DeRemer , Thomas Pennello, Efficient Computation of LALR(1) Look-Ahead Sets, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.4, p.615-649, Oct. 1982[doi>10.1145/69622.357187]
+DEREMER~ F. L. 1969. Practical translators for LR(k) parsers. Ph.D. thesis, Department of Electrical Engineering, Massachusetts Institute of Technology, Cambridge, Ma.
+Franklin L. DeRemer, SimpleLR(k)grammars, Communications of the ACM, v.14 n.7, p.453-460, July 1971[doi>10.1145/362619.362625]
+DONNELLY~ C. AND STALLMAN~ R. 1995. Bison--The YACC-compatible Parser Generator. Boston, MA: Free Software Foundation. Part of the Bison distribution.
+DYBKJAER~ H. 1985. Parsers and partial evaluation: An experiment. Student Report 85-7-15 (July), DIKU, University of Copenhagen, Denmark.
+A. P. Ershov , B. N. Ostrovski, Controlled mixed computation and its application to systematic development of language-oriented parsers, The IFIP TC2/WG 2.1 Working Conference on Program specification and transformation, p.31-48, June 1987, Bad To:9Ailz, Germany
+Michael J. Fischer, Lambda-calculus schemata, Lisp and Symbolic Computation, v.6 n.3-4, p.259-288, Nov. 1993[doi>10.1007/BF01019461]
+FUTAMURA~ Y. 1971. Partial evaluation of computation process an approach to a compilercompiler. Systems, Computers, Controls 2, 5, 45-50.
+GOMARD~ C. K. AND JONES~ N. D. 1991. A partial evaluator for the untyped lambda-calculus. Journal of Functional Programming 1, 1 (Jan.), 21-70.
+J. Grosch, Lalr—a generator for efficient parsers, Software—Practice & Experience, v.20 n.11, p.1115-1135, Nov. 1990
+Carsten Kehler Holst , Darsten Krogh Gomard, Partial evaluation is fuller laziness, ACM SIGPLAN Notices, v.26 n.9, p.223-233, Sept. 1991[doi>10.1145/115866.115890]
+Proceedings of the 5th ACM conference on Functional programming languages and computer architecture, June 1991
+Graham Hutton, Parsing Using Combinators, Proceedings of the 1989 Glasgow Workshop on Functional Programming, p.353-370, August 21-23, 1989
+IEEE 1991. Standard for the Scheme programming language. Tech. Rep. 1178-1990, Institute of Electrical and Electronic Engineers, Inc., New York.
+Fred Ives, Unifying view of recent LALR(1) lookahead set algorithms, ACM SIGPLAN Notices, v.21 n.7, p.131-135, July 1986[doi>10.1145/13310.13324]
+IVES, F. 1987a. An LALR(1) lookahead set algorithm. Unpublished manuscript.
+Fred Ives, Response to remarks on recent algorithms for LALR lookahead sets, ACM SIGPLAN Notices, v.22 n.8, p.99-104, August 1, 1987[doi>10.1145/35596.35606]
+JOHNSON~ S. C. 1975. Yacc--yet another compiler compiler. Tech. Rep. 32, AT~T Bell Laboratories, Murray Hill, NJ.
+Thomas Johnsson, Lambda lifting: transforming programs to recursive equations, Proc. of a conference on Functional programming languages and computer architecture, p.190-203, January 1985, Nancy, France
+Neil D. Jones , Carsten K. Gomard , Peter Sestoft, Partial evaluation and automatic program generation, Prentice-Hall, Inc., Upper Saddle River, NJ, 1993
+Neil D. Jones , Peter Sestoft , Harald Sondergaard, An experiment in partial evaluation: the generation of a compiler generator, Proc. of the first international conference on Rewriting techniques and applications, p.124-140, May 20-22, 1985, Dijon, France
+H. Abelson , R. K. Dybvig , C. T. Haynes , G. J. Rozas , N. I. Adams Iv , D. P. Friedman , E. Kohlbecker , G. L. Steele, Jr. , D. H. Bartley , R. Halstead , D. Oxley , G. J. Sussman , G. Brooks , C. Hanson , K. M. Pitman , M. Wand, Revised Report on the Algorithmic Language Scheme, Higher-Order and Symbolic Computation, v.11 n.1, p.7-105, August 1998[doi>10.1023/A:1010051815785]
+Brian W. Kernighan , Dennis M. Ritchie, The C programming language, Prentice Hall Press, Upper Saddle River, NJ, 1989
+KNUTH, D. E. 1965. On the translation of languages from left to right. Information and Control 8, 607-639.
+KNUTH, D. E. 1968. Semantics of context-free languages. Mathematical Systems Theory 2, 127- 145.
+KNUTH, D. E. 1971. Semantics of context-free languages. Mathematical Systems Theory 5, 95-96. Correction to {Knuth 1968}.
+LAUNCHBURY, J. AND HOLST, C. K. 1991. Handwriting cogen to avoid problems with static typing. In Draft Proceedings, Fourth Annual Glasgow Workshop on Functional Programming, Skye, Scotland, pp. 210-218. Glasgow University.
+Julia L. Lawall , Olivier Danvy, Continuation-based partial evaluation, Proceedings of the 1994 ACM conference on LISP and functional programming, p.227-238, June 27-29, 1994, Orlando, Florida, USA[doi>10.1145/182409.182483]
+Rene Leermakers, The  Functional Treatment of Parsing, Kluwer Academic Publishers, Norwell, MA, 1993
+Christian Mossin, Partial evaluation of general parsers, Proceedings of the 1993 ACM SIGPLAN symposium on Partial evaluation and semantics-based program manipulation, p.13-21, June 14-16, 1993, Copenhagen, Denmark[doi>10.1145/154630.154632]
+Frank G. Pagan, Partial computation and the construction of language processors, Prentice-Hall, Inc., Upper Saddle River, NJ, 1990
+J C H Park, Remarks on recent algorithms for LALR lookahead sets, ACM SIGPLAN Notices, v.22 n.4, p.30-32, April 1987[doi>10.1145/24714.24717]
+Joseph C.H. Park , K. M. Choe , C. H. Chang, A new analysis of LALR formalisms, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.1, p.159-175, Jan. 1985[doi>10.1145/2363.2527]
+Thomas J. Pennello, Very fast LR parsing, ACM SIGPLAN Notices, v.21 n.7, p.145-151, July 1986[doi>10.1145/13310.13326]
+PLOTKIN, G. 1975. Call-by-name, call-by-value and the A-calculus. Theor. Comp. Sci. 1, 125-159.
+John C. Reynolds, Definitional interpreters for higher-order programming languages, Proceedings of the ACM annual conference, p.717-740, August 01-01, 1972, Boston, Massachusetts, USA[doi>10.1145/800194.805852]
+ROHRICH, J. 1980. Methods for the automatic construction of error correcting parsers. Acta Inf. 13, 115-139.
+G. H. Roberts, Recursive ascent: an LR analog to recursive descent, ACM SIGPLAN Notices, v.23 n.8, p.23-29, August 1988[doi>10.1145/47907.47909]
+Seppo Sippu , E. Soisalon-Soininen, Parsing theory volume 2: LR(K) and LL(K) parsing, Springer-Verlag New York, Inc., New York, NY, 1990
+SPERBER, M. 1994. Attribute-directed functional LR parsing. Unpublished manuscript.
+SPERBER, M. AND THIEMANN, P. 1999. Essence--User Manual. Freiburg, Germany: Universitgt Freiburg. Available from ftp://ftp, informatik, uni-freiburg, de/iif/thiemann/essence/.
+S. Doaitse Swierstra , Luc Duponcheel, Deterministic, Error-Correcting Combinator Parsers, Advanced Functional Programming, Second International School-Tutorial Text, p.184-207, August 26-30, 1996
+Robert Endre Tarjan , Andrew Chi-Chih Yao, Storing a sparse table, Communications of the ACM, v.22 n.11, p.606-611, Nov. 1979[doi>10.1145/359168.359175]
+Peter J. Thiemann, Cogen in six lines, Proceedings of the first ACM SIGPLAN international conference on Functional programming, p.180-189, May 24-26, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/232627.232647]
+THIEMANN, P. 1996b. Towards partial evaluation of full Scheme. In G. KICZALES (Ed.), Reflection'96, San Francisco, CA, USA, pp. 95-106.
+THIEMANN, P. 1999. The PGG System--User Manual. Freiburg, Germany: Universitgt Freiburg. Available from ftp ://ftp. informatik, uni-freiburg, de/iif/thiemann/pgg/.
+V. F. Turchin, A supercompiler system based on the language REFAL, ACM SIGPLAN Notices, v.14 n.2, p.46-54, February 1979[doi>10.1145/954063.954069]
+Renhard Wilhelm , Dieter Maurer , Stephen S. Wilson, Compiler Design, Addison Wesley Longman Publishing Co., Inc., Redwood City, CA, 1995

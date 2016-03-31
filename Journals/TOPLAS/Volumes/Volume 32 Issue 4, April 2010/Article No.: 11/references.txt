@@ -1,0 +1,33 @@
+Alfred V. Aho , Ravi Sethi , Jeffrey D. Ullman, Compilers: principles, techniques, and tools, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+Guido Araujo , Ashok Sudarsanam , Sharad Malik, Instruction Set Design and Optimizations for Address Computation in DSP Architectures, Proceedings of the 9th international symposium on System synthesis, p.105, November 06-08, 1996
+Atri, S. 1999. Improved code optimization techniques for embedded processors. Master's thesis, Department of Electrical and Computer Engineering, Louisiana State University.
+Atri, S., Ramanujam, J., and Kandemir, M. 2000. Improving variable placement for embedded processors. In Proceedings of the Conference on Languages and Compilers for High-Performance Computing.
+David H. Bartley, Optimizing stack frame accesses for processors with restricted addressing modes, Software—Practice & Experience, v.22 n.2, p.101-110, Feb. 1992[doi>10.1002/spe.4380220202]
+Chaitin, G. J., Auslander, M. A., Chandra, A. K., Cocke, J., Hopkins, M. E., and Markstein, P. W. 1981. Register allocation via coloring. Comput. Lang. 6, 1, 47--57.
+G. J. Chaitin, Register allocation & spilling via graph coloring, Proceedings of the 1982 SIGPLAN symposium on Compiler construction, p.98-105, June 23-25, 1982, Boston, Massachusetts, USA[doi>10.1145/800230.806984]
+Jack G. Ganssle, The  Art of Programming Embedded Systems, Academic Press, Inc., Orlando, FL, 1991
+Catherine Gebotys, DSP address optimization using a minimum cost circulation technique, Proceedings of the 1997 IEEE/ACM international conference on Computer-aided design, p.100-103, November 09-13, 1997, San Jose, California, USA
+M. Kandemir , M. J. Irwin , G. Chen , J. Ramanujam, Address register assignment for reducing code size, Proceedings of the 12th international conference on Compiler construction, April 07-11, 2003, Warsaw, Poland
+Chunho Lee , Miodrag Potkonjak , William H. Mangione-Smith, MediaBench: a tool for evaluating and synthesizing multimedia and communicatons systems, Proceedings of the 30th annual ACM/IEEE international symposium on Microarchitecture, p.330-335, December 01-03, 1997, Research Triangle Park, North Carolina, USA
+Leupers, R., Basu, A., and Marwedel, P. 1998. Optimized array index computation in DSP programs. In Proceedings of the Asia and South Pacific Design Automation Conference (ASP-DAC). IEEE.
+Rainer Leupers , Peter Marwedel, Algorithms for address assignment in DSP code generation, Proceedings of the 1996 IEEE/ACM international conference on Computer-aided design, p.109-112, November 10-14, 1996, San Jose, California, USA
+Rainer Leupers , Fabian David, A uniform optimization technique for offset assignment problems, Proceedings of the 11th international symposium on System synthesis, p.3-8, December 02-04, 1998, Hsinchu, Taiwan, China
+Rainer Leupers, Offset assignment showdown: evaluation of DSP address code optimization algorithms, Proceedings of the 12th international conference on Compiler construction, April 07-11, 2003, Warsaw, Poland
+Stan Liao , Srinivas Devadas , Kurt Keutzer , Steve Tjiang , Albert Wang, Storage assignment to decrease code size, Proceedings of the ACM SIGPLAN 1995 conference on Programming language design and implementation, p.186-195, June 18-21, 1995, La Jolla, California, USA[doi>10.1145/207110.207139]
+Stan Liao , Srinivas Devadas , Kurt Keutzer , Steven Tjiang , Albert Wang, Storage assignment to decrease code size, ACM Transactions on Programming Languages and Systems (TOPLAS), v.18 n.3, p.235-253, May 1996[doi>10.1145/229542.229543]
+Motorola, Inc. 2000. Motorola DSP56300 family manual, revision 3.0.
+Motorola, Inc. 2001. SC140 DSP core reference manual, revision 3.0.
+Motorola, Inc. Motorola DSP56300 family optimizing C compiler user's manual. Motorola, Inc.
+Steven S. Muchnick, Advanced compiler design and implementation, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1998
+Ottoni, D., Ottoni, G., Araujo, G., and Leupers, R. 2003. Improving offset assignment through simultaneous variable coalescing. In Proceeding of the International Workshop on Software and Compilers for Embedded Systems (SCOPES).
+Ottoni, G., Rigo, S., Araujo, G., Rajagopalan, S., and Malik, S. 2001. Optimal live range merge for address register allocation in embedded programs. In Proceeding of the International Conference on Compiler Construction (CC).
+Desiree Ottoni , Guilherme Ottoni , Guido Araujo , Rainer Leupers, Offset assignment using simultaneous variable coalescing, ACM Transactions on Embedded Computing Systems (TECS), v.5 n.4, p.864-883, November 2006[doi>10.1145/1196636.1196641]
+Rao, A. 1998. Compiler optimizations for storage assignment on embedded DSPs. M. S. thesis, Department of Electrical and Computer Engineering and Computer Science, University of Cincinnati.
+Amit Rao , Santosh Pande, Storage assignment optimizations to generate compact and efficient code on embedded DSPs, Proceedings of the ACM SIGPLAN 1999 conference on Programming language design and implementation, p.128-138, May 01-04, 1999, Atlanta, Georgia, USA[doi>10.1145/301618.301653]
+Stallman, R. 2002a. Using the GNU compiler collection. In User's Manual. Free Software Foundation. Boston, MA.
+Stallman, R. 2002b. GNU compiler collection internals. In Reference Manual, Free Software Foundation, Boston, MA.
+Ashok Sudarsanam , Stan Liao , Srinivas Devadas, Analysis and evaluation of address arithmetic capabilities in custom DSP architectures, Proceedings of the 34th annual Design Automation Conference, p.287-292, June 09-13, 1997, Anaheim, California, USA[doi>10.1145/266021.266103]
+A. Sudarsanam , S. Malik , S. Tjiang , S. Liao, Optimization of Embedded DSP Programs Using Post-Pass Data-Flow Analysis, Proceedings of the 1997 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP '97) -Volume 1, p.695, April 21-24, 1997
+Sathishkumar Udayanarayanan , Chaitali Chakrabarti, Address code generation for digital signal processors, Proceedings of the 38th annual Design Automation Conference, p.353-358, June 2001, Las Vegas, Nevada, USA[doi>10.1145/378239.378521]
+Zhang, Y. and Yang, J. 2003. Procedural level address offset assignment of DSP applications with loops. In Proceedings of the International Conference on Parallel Processing (ICPP).
+Xiaotong Zhuang , ChokSheak Lau , Santosh Pande, Storage assignment optimizations through variable coalescence for embedded processors, Proceedings of the 2003 ACM SIGPLAN conference on Language, compiler, and tool for embedded systems, June 11-13, 2003, San Diego, California, USA[doi>10.1145/780732.780763]

@@ -1,0 +1,35 @@
+V. Balasundaram , K. Kennedy, A technique for summarizing data access and its use in parallelism enhancing transformations, Proceedings of the ACM SIGPLAN 1989 Conference on Programming language design and implementation, p.41-53, June 19-23, 1989, Portland, Oregon, USA[doi>10.1145/73141.74822]
+Utpal K. Banerjee, Dependence Analysis, Kluwer Academic Publishers, Norwell, MA, 1996
+Berry, M., Chen, D., Koss, P., Kuck, D., Pointer, L., Lo, S., Pang, Y., Roloff, R., Sameh, A., Clementi, E., Chin, S., Schneider, D., Fox, G., Messina, P., Walker, D., Hsiung, C., Schwarzmeier, J., Lue, K., Orszag, S., Seidl, F., Johnson, O., Swanson, G., Goodrum, R., and Martin, J. 1989. The perfect club benchmarks: Effective performance evalution of supercomputers. Int. J. Supercomp. Appl. 3, 3 (Fall), 5--40.
+William Joseph Blume , Rudolf Eigenmann, Symbolic analysis techniques for effective automatic parallelization, University of Illinois at Urbana-Champaign, Champaign, IL, 1995
+William Blume , Ramon Doallo , Rudolf Eigenmann , John Grout , Jay Hoeflinger , Thomas Lawrence , Jaejin Lee , David Padua , Yunheung Paek , Bill Pottenger , Lawrence Rauchwerger , Peng Tu, Parallel Programming with Polaris, Computer, v.29 n.12, p.78-82, December 1996[doi>10.1109/2.546612]
+Michael Burke , Ron Cytron, Interprocedural dependence analysis and parallelization, Proceedings of the 1986 SIGPLAN symposium on Compiler construction, p.162-175, June 25-27, 1986, Palo Alto, California, USA[doi>10.1145/12276.13328]
+David Callahan , Ken Kennedy, Analysis of interprocedural side effects in a parallel programming environment, Journal of Parallel and Distributed Computing, v.5 n.5, p.517-550, October 1988[doi>10.1016/0743-7315(88)90011-1]
+Siddhartha Chatterjee , John R. Gilbert , Fred J. E. Long , Robert Schreiber , Shang-Hua Teng, Generating local addresses and communication sets for data-parallel programs, Journal of Parallel and Distributed Computing, v.26 n.1, p.72-84, April 1, 1995[doi>10.1006/jpdc.1995.1049]
+Cousot, P. 1980. Semantic foundations of program analysis. In Program Flow Analysis, Theory and Applications, Prentice-Hall, Englewood Cliffs, N.J., pp. 303--343.
+Patrick Cousot , Radhia Cousot, Abstract interpretation: a unified lattice model for static analysis of programs by construction or approximation of fixpoints, Proceedings of the 4th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.238-252, January 17-19, 1977, Los Angeles, California[doi>10.1145/512950.512973]
+Cray Research Inc. 1994. SHMEM Technical Note for Fortran.
+Béatrice Creusillet , François Irigoin, Interprocedural Array Region Analyses, Proceedings of the 8th International Workshop on Languages and Compilers for Parallel Computing, p.46-60, August 10-12, 1995
+Béatrice Creusillet , François Irigoin, Exact versus Approximate Array Region Analyses, Proceedings of the 9th International Workshop on Languages and Compilers for Parallel Computing, p.86-100, August 08-10, 1996
+Dantzig, G. and Eaves, B. 1973. Fourier--Motzkin elimination and its dual. J. Combinat. Theory, 288--297.
+Feautrier, P. 1991. Dataflow analysis of array and scalar references. Int. J. Paral. Prog. 20, 1, 23--53.
+Junjie Gu , Zhiyuan Li , Gyungho Lee, Symbolic array dataflow analysis for array privatization and program parallelization, Proceedings of the 1995 ACM/IEEE conference on Supercomputing, p.47-es, December 04-08, 1995, San Diego, California, USA[doi>10.1145/224170.224318]
+P. Havlak , K. Kennedy, An Implementation of Interprocedural Bounded Regular Section Analysis, IEEE Transactions on Parallel and Distributed Systems, v.2 n.3, p.350-360, July 1991[doi>10.1109/71.86110]
+Seema Hiranandani , Ken Kennedy , Chau-Wen Tseng, Evaluating compiler optimizations for Fortran D, Journal of Parallel and Distributed Computing, v.21 n.1, p.27-45, April 1994[doi>10.1006/jpdc.1994.1040]
+Jay Philip Hoeflinger , David A. Padua, Interprocedural parallelization using memory classification analysis, University of Illinois at Urbana-Champaign, Champaign, IL, 1998
+Hoeflinger, J. and Paek, Y. 1999. The access region test. In Lecture Notes in Computer Science. Springer-Verlag, New York.
+Ellis Horowitz , Sartaj Sahni, Fundamentals of Computer Alori, W. H. Freeman & Co., New York, NY, 1978
+Zhiyuan Li , Pen-Chung Yew, Efficient interprocedural analysis for program parallelization and restructuring, Proceedings of the ACM/SIGPLAN conference on Parallel programming: experience with applications, languages and systems, p.85-99, July 19-21, 1988, New Haven, Connecticut, USA[doi>10.1145/62115.62125]
+Dror E. Maydan , Saman P. Amarasinghe , Monica S. Lam, Array-data flow analysis and its use in array privatization, Proceedings of the 20th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.2-15, March 1993, Charleston, South Carolina, USA[doi>10.1145/158511.158515]
+Message Passing Interface Forum 1996. MPI-2: Extensions to the Message-Passing Interface. January 12, 1996.
+Moore, R. 1966. Interval Analysis. Prentice-Hall, Englewood Cliffs, N.J.
+Navarro, A. and Zapata, E. 1999. An automatic iteration/data distribution method based on access descriptors for DSMM. In Lecture Notes in Computer Science. Springer-Verlag, New York.
+Yunheung Paek, Compiling for distributed memory multiprocessors based on access region analysis, University of Illinois at Urbana-Champaign, Champaign, IL, 1997
+Yunheung Paek , Jay Hoeflinger , David Padua, Simplification of array access patterns for compiler optimizations, Proceedings of the ACM SIGPLAN 1998 conference on Programming language design and implementation, p.60-71, June 17-19, 1998, Montreal, Quebec, Canada[doi>10.1145/277650.277664]
+Experimental Study of Compiler Techniques for NUMA Machines, Proceedings of the 12th. International Parallel Processing Symposium on International Parallel Processing Symposium, p.187, March 30-April 03, 1998
+William Pugh, A practical algorithm for exact array dependence analysis, Communications of the ACM, v.35 n.8, p.102-114, Aug. 1992[doi>10.1145/135226.135233]
+Reilly, J. 1995. SPEC95 products and benchmarks. SPEC Newsletter (Sept.).
+Z. Shen , Z. Li , P. C. Yew, An Empirical Study of Fortran Programs for Parallelizing Compilers, IEEE Transactions on Parallel and Distributed Systems, v.1 n.3, p.356-364, July 1990[doi>10.1109/71.80162]
+Rémi Triolet , Francois Irigoin , Paul Feautrier, Direct parallelization of call statements, Proceedings of the 1986 SIGPLAN symposium on Compiler construction, p.176-185, June 25-27, 1986, Palo Alto, California, USA[doi>10.1145/12276.13329]
+Peng Tu, Automatic array privatization and demand-driven symbolic analysis, University of Illinois at Urbana-Champaign, Champaign, IL, 1996
+Yu, H. and Rauchwerger, L. 1999. The aggregate LRPD test. Tech. Rep., Univ. Texas A&M.; June.

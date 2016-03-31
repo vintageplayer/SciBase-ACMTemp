@@ -1,0 +1,37 @@
+A. Agrawal , G. E. Blelloch , R. L. Krawitz , C. A. Phillips, Four vector-matrix primitives, Proceedings of the first annual ACM symposium on Parallel algorithms and architectures, p.292-302, June 18-21, 1989, Santa Fe, New Mexico, United States[doi>10.1145/72935.72966]
+Alfred V. Aho , Ravi Sethi , Jeffrey D. Ullman, Compilers: principles, techniques, and tools, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+A. Aiken , A. Nicolau, Optimal loop parallelization, Proceedings of the ACM SIGPLAN 1988 conference on Programming Language design and Implementation, p.308-317, June 20-24, 1988, Atlanta, Georgia, United States[doi>10.1145/53990.54021]
+~ALLEN, R. AND KENNEDY K. 1987. Automatic translation of FORTRAN programs to vector ~form.
+Frances Allen , Michael Burke , Philippe Charles , Ron Cytron , Jeanne Ferreant, An overview for the PTRAN analysis system for multiprocessing, Journal of Parallel and Distributed Computing, v.5 n.5, p.617-640, October 1988[doi>10.1016/0743-7315(88)90015-9]
+r. Allen , D. Callahan , K. Kennedy, Automatic decomposition of scientific programs for parallel execution, Proceedings of the 14th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.63-76, January 21-23, 1987, Munich, West Germany[doi>10.1145/41625.41631]
+Utpal K. Banerjee, Dependence Analysis for Supercomputing, Kluwer Academic Publishers, Norwell, MA, 1988
+G. E. Blelloch, Scans as Primitive Parallel Operations, IEEE Transactions on Computers, v.38 n.11, p.1526-1538, November 1989[doi>10.1109/12.42122]
+~BRODE, M. 1981. Precompilation of FORTRAN programs to facilitate array processing. Com- ~puter 14, 9 (Sept.), 46-51.
+David Callahan, Recognizing and Parallelizing Bounded Recurrences, Proceedings of the Fourth International Workshop on Languages and Compilers for Parallel Computing, p.169-185, August 07-09, 1991
+Marina C. Chen, A parallel language and its compilation to multiprocessor machines or VLSI, Proceedings of the 13th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.131-139, January 01, 1986, St. Petersburg Beach, Florida[doi>10.1145/512644.512656]
+~CHURCH, A. AND ROSSER, J.B. 1936 Some properties of conversion. Trans. Am. Math Soc. 39, ~472-482.
+R. Cytron , J. Ferrante , B. K. Rosen , M. N. Wegman , F. K. Zadeck, An efficient method of computing static single assignment form, Proceedings of the 16th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.25-35, January 11-13, 1989, Austin, Texas, United States[doi>10.1145/75277.75280]
+~DONGAaRA, J. J., CROZ, J. D., HAMMARLING, S., AND HANSON, R.J. 1988 An extended set of
+Jack J. Dongarra , Jeremy Du Croz , Sven Hammarling , Richard J. Hanson, An extended set of FORTRAN basic linear algebra subprograms, ACM Transactions on Mathematical Software (TOMS), v.14 n.1, p.1-17, March 1988[doi>10.1145/42288.42291]
+Jeanne Ferrante , Karl J. Ottenstein , Joe D. Warren, The program dependence graph and its use in optimization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.9 n.3, p.319-349, July 1987[doi>10.1145/24039.24041]
+M. D. Guzzi , D. A. Padua , J. Hoeflinger , D. H. Lawrie, Cedar Fortran and other vector and parallel Fortran dialects, The Journal of Supercomputing, v.4 n.1, p.37-62, Mar. 1990[doi>10.1007/BF00162342]
+~HUSON, C., MACKE, T., DAVIS, J. R., WOLFE, M. J., AND LEASURE, B. 1986. The KAP/205: An ~advanced source-to-source vectorizer for the Cyber 205 supercomputer. In the Internatzonal ~Conference on Parallel Processzng. CRC Press, Inc., 827-832.
+Pierre Jouvelot , Babak Dehbonei, A unified semantic approach for the vectorization and parallelization of generalized reductions, Proceedings of the 3rd international conference on Supercomputing, p.186-194, June 05-09, 1989, Crete, Greece[doi>10.1145/318789.318810]
+Richard M. Karp , Raymond E. Miller , Shmuel Winograd, The Organization of Computations for Uniform Recurrence Equations, Journal of the ACM (JACM), v.14 n.3, p.563-590, July 1967[doi>10.1145/321406.321418]
+~KOGGE, P. M. AND STONE, H. S. 1973. A parallel algorithm for the efficient solution of a ~general class of recurrence equations. IEEE Trans. Comput. C-22, 8 (Aug.), 786-793.
+D. J. Kuck , R. H. Kuhn , D. A. Padua , B. Leasure , M. Wolfe, Dependence graphs and compiler optimizations, Proceedings of the 8th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.207-218, January 26-28, 1981, Williamsburg, Virginia[doi>10.1145/567532.567555]
+Richard E. Ladner , Michael J. Fischer, Parallel Prefix Computation, Journal of the ACM (JACM), v.27 n.4, p.831-838, Oct. 1980[doi>10.1145/322217.322232]
+Leslie Lamport, The parallel execution of DO loops, Communications of the ACM, v.17 n.2, p.83-93, Feb. 1974[doi>10.1145/360827.360844]
+C. L. Lawson , R. J. Hanson , D. R. Kincaid , F. T. Krogh, Basic Linear Algebra Subprograms for Fortran Usage, ACM Transactions on Mathematical Software (TOMS), v.5 n.3, p.308-323, Sept. 1979[doi>10.1145/355841.355847]
+Gyungho Lee , Clyde P. Kruskal , David J. Kuck, An empirical study of automatic restructuring of nonnumerical programs for parallel processors, IEEE Transactions on Computers, v.34 n.10, p.927-933, Oct. 1985
+O. Lempel , Shlomit S. Pinter , E. Turiel, Parallelizing a C Dialect for Distributed Memory MIMD Machines, Proceedings of the 5th International Workshop on Languages and Compilers for Parallel Computing, p.369-390, August 03-05, 1992
+Stanley Ian Letovsky, Plan analysis of programs, 1988
+~MUNSHI, A. AND SIMONS, B. 1987. Scheduling sequential loops on parallel processors. Tech. ~Rep RJ 5546, IBM Almaden Research Center, San Jose, Calif.
+~PACIFIc-SIERRA RESEARCH. 1990. VAST for RS/6000. Pacific-Sierra Research, Los Angeles, ~Calif.
+Alan J. Perlis , Spencer Rugaber, Programming with idioms in APL, Proceedings of the international conference on APL: part 1, p.232-235, May 30-June 01, 1979, New York, New York, United States[doi>10.1145/800136.804466]
+~PINTER, S. S. AND MIZRACHI, L. 1992. Using the computation dependence graph for compile-time ~optimization and parallelization. In Proceedings of the Workshop on Advanced Compilation ~Technzques for Novel Architectures. Springer-Verlag, New York.
+~POLYCHRONOPOULOS, C. D., KUCK, D. J., AND PADUA, D.A. 1986. Execution of parallel loops on ~parallel processor systems. In the Internatzonal Conference on Parallel Processtng. IEEE, New ~York, 519-527.
+Charles Rich , Richard C. Waters, The Programmer's Apprentice: A Research Overview, Computer, v.21 n.11, p.10-25, November 1988[doi>10.1109/2.86782]
+Manfred Rosendahl , Karl Peter Mankwald, Analysis of Programs by Reduction of Their Structure, Proceedings of the International Workshop on Graph-Grammars and Their Application to Computer Science and Biology, p.409-417, October 30-November 03, 1978
+~THINKING MACHINES CORPORATION. 1987. Connection Machine Model CM-2 technical sum- ~mary. Tech. Rep. HA87-4. Thinking Machines Corp., Cambridge, Mass.
+Michael Joseph Wolfe, Optimizing Supercompilers for Supercomputers, MIT Press, Cambridge, MA, 1990

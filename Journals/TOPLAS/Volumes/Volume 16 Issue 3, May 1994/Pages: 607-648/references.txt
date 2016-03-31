@@ -1,0 +1,61 @@
+S. Abramsky , C. Hankin, Abstract interpretation of declarative languages, Halsted Press, New York, NY, 1987
+Krzysztof R. Apt , M. H. van Emden, Contributions to the Theory of Logic Programming, Journal of the ACM (JACM), v.29 n.3, p.841-862, July 1982[doi>10.1145/322326.322339]
+Maurice Bruynooghe, A practical framework for the abstract interpretation of logic programs, Journal of Logic Programming, v.10 n.2, p.91-124, Feb. 1991[doi>10.1016/0743-1066(91)80001-T]
+BRUYNOOGHE, M. 1987. A framework for the abstract interpretation of logic programs. Rep. CW 62, Dept. of Computer Science, Umv. of Leuven, Belgium.
+G. Janssens , M. Bruynooghe, Deriving descriptions of possible values of program variables by means of abstract interpretation, Journal of Logic Programming, v.13 n.2-3, p.205-258, July 1992[doi>10.1016/0743-1066(92)90032-X]
+BRUYNOOGHE, M., JANSENNS, G., CALLEBAUT, A., AND DEMOEN, g. 1987. Abstract interpretation: Towards the global optimization of Prolog programs. In Proceedtngs of the 4th International Symposzum on Logic Programming (San Francisco, Calif.). IEEE, New York, 192-204
+Randal E. Bryant, Symbolic Boolean manipulation with ordered binary-decision diagrams, ACM Computing Surveys (CSUR), v.24 n.3, p.293-318, Sept. 1992[doi>10.1145/136035.136043]
+Michael Codish , Bart Demoen, Analysing logic programs using “prop”-ositional logic programs and a magic wand, Proceedings of the 1993 international symposium on Logic programming, p.114-129, December 1993, Vancouver, British Columbia, Canada
+CORTESI, A., FILL, G., AND WINSBOROUGH, W. 1991. Prop revisited: Propositmnal formula as abstract domain for groundness analysis. In Proceedillgs of the 6th Annual IEEE Symposium on Logic in Computer Scwnce (Amsterdam, The Netherlands). IEEE, New York, 322-327.
+Patrick Cousot , Rahida Cousot, Abstract interpretation and application to logic programs, Journal of Logic Programming, v.13 n.2-3, p.103-179, July 1992[doi>10.1016/0743-1066(92)90030-7]
+Patrick Cousot , Radhia Cousot, Systematic design of program analysis frameworks, Proceedings of the 6th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.269-282, January 29-31, 1979, San Antonio, Texas[doi>10.1145/567752.567778]
+Patrick Cousot , Radhia Cousot, Abstract interpretation: a unified lattice model for static analysis of programs by construction or approximation of fixpoints, Proceedings of the 4th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.238-252, January 17-19, 1977, Los Angeles, California[doi>10.1145/512950.512973]
+Philip W. Dart, On derived dependencies and connected databases, Journal of Logic Programming, v.11 n.2, p.163-188, Aug. 1991[doi>10.1016/0743-1066(91)90017-J]
+DART, P. 1988. Dependency analysis and query interfaces for deductive databases. Ph.D. thesis, Dept. of Computer Science, The Univ. of Melbourne, Australia.
+S. K. Debray, Efficient dataflow analysis of logic programs, Proceedings of the 15th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.260-273, January 10-13, 1988, San Diego, California, United States[doi>10.1145/73560.73583]
+Saumya Kanti Debray, Global optimization of logic programs (analysis, transformation, compilation), 1986
+Saumya K. Debray , Prateek Mishra, Denotational and operational semantics for Prolog, Journal of Logic Programming, v.5 n.1, p.61-91, March 1988[doi>10.1016/0743-1066(88)90007-6]
+DEBRAY, S. Z., AND RAMAKRISHNAN, R. 1991. Canonical computatmn of logic programs. Draft.
+DONZEAU-GOUGE, V. 1978. Utihsation de la s~mantique d6notatmnelle pour l'~tude d'interprtations non-standard. Res. Rep. 273, IRIA, Le Chesnay, France.
+ERRINGTON, D. L., AND S0NDERGAARD, H. 1992. Absinth: A generic dataflow analyser for logic programs. Tech. Rep. 92/19, Dept. of Computer Science, Univ. of Melbourne, Australia.
+FALASCHI, M., GABBRIELLI, M., MARRIOTT, K., AND PALAMIDESSI, C. 1993. Compositmnal analysis for concurrent constraint programming. In Proceedings of the IEEE Symposium on Logzc ~n Computer Science (Montreal, Canada). IEEE, New York, 210-221.
+Matthew S. Hecht, Flow Analysis of Computer Programs, Elsevier Science Inc., New York, NY, 1977
+M. V. Hermenegildo , R. Warren , S. K. Debray, Global flow analysis as a practical compilation tool, Journal of Logic Programming, v.13 n.4, p.349-366, Aug. 1992[doi>10.1016/0743-1066(92)90053-6]
+Dean Jacobs , Anno Langen, Static analysis of logic programs for independent and parallelism, Journal of Logic Programming, v.13 n.2-3, p.291-314, July 1992[doi>10.1016/0743-1066(92)90034-Z]
+JENSEN, J. 1965. Generation of machine code in Algol compilers. BIT 5, 235-245.
+Neil D. Jones, Flow Analysis of Lambda Expressions (Preliminary Version), Proceedings of the 8th Colloquium on Automata, Languages and Programming, p.114-128, July 13-17, 1981
+JONES, N. D., AND MUCHNICK, S. S. 1981. Flow analysis and optimization of Lisp-hke structures. In Program Flow Analyszs, S. S. Muchnick and N. D. Jones, Eds. Prentice-Hall, Englewood Cliffs, N J., 102-131.
+Neil D. Jones , Alan Mycroft, Data flow analysis of applicative programs using minimal function graphs, Proceedings of the 13th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.296-306, January 01, 1986, St. Petersburg Beach, Florida[doi>10.1145/512644.512672]
+JONES, N. D., AND MYCROFT, A. 1984. A stepwise development of operational and denotational semantics for Prolog. In Proceedings of the 1984 International Symposium on Logic Programm~ng. (Atlantic City, N.J.). IEEE, New York, 289-298.
+JONES N. D., AND S~NDERGAARD, H. 1987. A semantics-based framework for the abstract interpretation of Prolog. In Abstract Interpretation of Declarative Languages, S. Abramsky and C. Hankin, Eds. Ellis Horwood, Chichester, U.K., 123-142.
+Tadashi Kanamori, Abstract interpretation based on Alexander templates, Journal of Logic Programming, v.15 n.1-2, p.31-54, Jan. 1993[doi>10.1016/0743-1066(93)90012-6]
+Tadashi Kanamori , Tadashi Kawamura, Abstract interpretation based on OLDT resolution, Journal of Logic Programming, v.15 n.1-2, p.1-30, Jan. 1993[doi>10.1016/0743-1066(93)90011-5]
+KLEENE, S. C. 1952. Introductton to Metamathematics. North-Holland, Amsterdam, The Netherlands. (Originally published by Van Nostrand, New York.)
+Baudouin Le Charlier , Pascal van Hentenryck, Groundness analysis for Prolog: implementation and evaluation of domainprop, Proceedings of the 1993 ACM SIGPLAN symposium on Partial evaluation and semantics-based program manipulation, p.99-110, June 14-16, 1993, Copenhagen, Denmark[doi>10.1145/154630.154641]
+LE CHARLIER, B., MUSUMBU, K., AND VAN HENTENRYCK, P. 1990. A generic abstract interpretation algorithm and its complexity analysis. In Logic Programming: Proceedings of the 8th International Conference, K Furukawa, Ed. MIT Press, Cambridge, Mass., 64-78.
+J. W. Lloyd, Foundations of logic programming; (2nd extended ed.), Springer-Verlag New York, Inc., New York, NY, 1987
+MANNILA, H., AND UKKONEN, E. 1987. Flow analysis of Prolog programs. In Proceedtngs of the 4th Sympostum on Logzc Programming. (San Francisco, Calif.). IEEE, New York, 205-214.
+Kim Marriott, Frameworks for abstract interpretation, Acta Informatica, v.30 n.2, p.103-129, March 1993[doi>10.1007/BF01178576]
+Kim Marriott , Harald Søndergaard, Precise and efficient groundness analysis for logic programs, ACM Letters on Programming Languages and Systems (LOPLAS), v.2 n.1-4, p.181-196, March–Dec. 1993[doi>10.1145/176454.176519]
+Kim Marriott , Harald Søndergaard, Bottom-up dataflow analysis of normal logic programs, Journal of Logic Programming, v.13 n.2-3, p.181-204, July 1992[doi>10.1016/0743-1066(92)90031-W]
+Kim Marriott , Harald Søndergaard, Analysis of constraint logic programs, Proceedings of the 1990 North American conference on Logic programming, p.531-547, January 1990, Austin, Texas, United States
+MARRIOTT, g., AND SONDERGAARD, H. 1989a. Notes for a tutorial on abstract interpretation of logic programs. Presented to North American Conference Logic Programming (Cleveland, Ohio).
+MARRIOTT, K.~ AND SONDERGAARD, H. 1989b. Semantics-based dataflow analysis of logic programs. In Information Processing 89, G. X. Ritter, Ed. North-Holland, Amsterdam, The Netherlands, 601-606.
+Kimball G. Marriott , Peter J. Stuckey, The 3 R's of optimizing constraint logic programs: refinement, removal and reordering, Proceedings of the 20th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.334-344, March 1993, Charleston, South Carolina, United States[doi>10.1145/158511.158685]
+Kim Marriott , Harald Søndergaard , Philip Dart, A characterization of non-floundering logic programs, Proceedings of the 1990 North American conference on Logic programming, p.661-680, January 1990, Austin, Texas, United States
+MELLISH, C.S. 1987. Abstract interpretation of Prolog programs. In Abstract Interpretation of Declaratwe Languages, S. Abramsky and C. Hankin, Eds. Ellis Horwood, Chichester, U.K., 181-198.
+MELLISH, C.S. 1981. The automatic generation of mode declarations for Protog programs. DAI Res. Pap. 163, Dept. of Artificial Intelligence, Univ. of Edinburgh, Scotland.
+MYCROFT, A. 1981. Abstract Interpretation and Optimising Transformations for Applicative Programs. Ph.D. thesis, Dept. of Computer Science, Univ. of Edinburgh, Scotland.
+NAUR, P. 1963. The design of the Gier Algol compiler, part II. BIT 3, 145-166.
+F. Nielson, Two-level semantics and abstract interpretation, Theoretical Computer Science, v.69 n.2, p.117-242, Dec. 11, 1989[doi>10.1016/0304-3975(89)90091-1]
+Flemming Nielson, Strictness analysis and denotational abstract interpretation, Information and Computation, v.76 n.1, p.29-92, January 1988[doi>10.1016/0890-5401(88)90041-7]
+NIELSON, F. 1982. A denotational framework for data flow analysis. Acta Inf. 18, 265-287.
+NILSSON, U. 1991. Abstract interpretation: A kind of magic. In Programmtng Language Implementation and Logic Programming, J. Maluszy~ski and M Wirsing, Eds. Lecture Notes in Computer Science, vol. 528. Springer-Verlag, New York, 299-309.
+RElOLDS, J.C. 1969. Automatic computation of data set definitions. In Information Processing 68, A Morrelt, Ed. North-Holland, Amsterdam, The Netherlands, 456-461
+David A. Schmidt, Denotational semantics: a methodology for language development, William C. Brown Publishers, Dubuque, IA, 1986
+Michel Sintzoff, Calculating properties of programs by valuations on specific models, Proceedings of ACM conference on Proving assertions about programs, p.203-207, January 06-07, 1972, Las Cruces, New Mexico, United States[doi>10.1145/800235.807086]
+S~NDERGAARD, H. 1989. Semantics-based analysis and transformation of logic programs. Ph.D. thesis, Dept. of Computer Science, Univ. of Copenhagen, Denmark.
+H Sondergaard, An application of abstract interpretation of logic programs: occur check reduction, Proc. of the European symposium on programming on ESOP 86, p.327-338, March 1986, Saarbru:9Aicken, Germany
+Hisao Tamaki , Taisuke Sato, OLD resolution with tabulation, Proceedings on Third international conference on logic programming, p.84-98, September 1986, London, United Kingdom
+William Hale Winsborough , Charles N. Fischer, Automatic, transparent parallelization of logic programs at compile time, 1988
+Will Winsborough, Source-level transforms for multiple specialization of horn clauses (extended abstract), University of Chicago, Chicago, IL, 1988

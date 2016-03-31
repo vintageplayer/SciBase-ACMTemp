@@ -1,0 +1,25 @@
+BEERI, C., AND OBERMARCK, R. A resource class independent deadlock detection algorithm. Res. Rep. RJ3077, IBM Research Laboratory, San Jose, Calif., May 1981.
+BRACHA, G., AND TOUEG, S. A distributed algorithm for generalized deadlock detection. Tech. Rep. TR 83-558, Cornell Univ., Ithaca, June 1983.
+K. M. Chandy , J. Misra, A distributed algorithm for detecting resource deadlocks in distributed systems, Proceedings of the first ACM SIGACT-SIGOPS symposium on Principles of distributed computing, p.157-164, August 18-20, 1982, Ottawa, Canada[doi>10.1145/800220.806693]
+K. Mani Chandy , Jayadev Misra , Laura M. Haas, Distributed deadlock detection, ACM Transactions on Computer Systems (TOCS), v.1 n.2, p.144-156, May 1983[doi>10.1145/357360.357365]
+K. Mani Chandy , Leslie Lamport, Distributed snapshots: determining global states of distributed systems, ACM Transactions on Computer Systems (TOCS), v.3 n.1, p.63-75, Feb. 1985[doi>10.1145/214451.214456]
+CHANG, E. Echo algorithms: Depth parallel operations on general graphs. IEEE Trans. Softw. Eng. SE-8, 4 (July 1982), 391-401.
+Shimon Cohen , Daniel Lehmann, Dynamic systems and their distributed termination, Proceedings of the first ACM SIGACT-SIGOPS symposium on Principles of distributed computing, p.29-33, August 18-20, 1982, Ottawa, Canada[doi>10.1145/800220.806678]
+DIJKSTRA, E. W., AND SCHOLTEN, C.S. Termination detection for diffusing computations. Inf. Process. Lett. I 1, i (Aug. 1980).
+DIJKSTRA, E.W. Distributed termination detection revisited. EWD 828, Plataanstraat 5, 5671 AL Nuenen, The Netherlands.
+DIJKSTRA, E. W., FEIJEN, W. H. J., AND VAN GASTEREN, A. J.M. Derivation of a termination detection algorithm for distributed computations. Inf. Process. Lett. 16 (1983), 217-219.
+Edsger Wybe Dijkstra, A  Discipline of Programming, Prentice Hall PTR, Upper Saddle River, NJ, 1997
+Nissim Francez, Distributed Termination, ACM Transactions on Programming Languages and Systems (TOPLAS), v.2 n.1, p.42-55, Jan. 1980[doi>10.1145/357084.357087]
+N. Frances , Michael Rodeh , Michel Sintzoff, Distributed Termination with Interval Assertions, Proceedings of the International Colloquium on Formalization of Programming Concepts, p.280-291, April 19-25, 1981
+FRANCEZ, N., AND RODEH, M. Achieving distributed termination without freezing. IEEE Trans. So{tw. Eng. SE-8, 3 (May 1982), 287-292.
+GLIGOR, V., AND SHATTUCK, S. On deadlock detection in distributed databases. IEEE Trans. Softw. Eng. SE-6, 5 (Sept. 1980).
+Mohamed G. Gouda, Distributed State Exploration for Protocol Validation, University of Texas at Austin, Austin, TX, 1981
+HAAS, L., AND MOHAN, C. A distributed deadlock detection algorithm for a resource-based system. Res. Rep. RJ3765, IBM Research Laboratory, San Jose, Calif., Jan. 1983.
+HERMAN, T., AND CHAND~, K.M. A distributed procedure to detect AND/OR deadlock. Dept. of Computer Sciences, Univ. of Texas, Austin, Feb. 1983.
+LAMPORT, L. An assertional correctness proof of a distributed algorithm. In Science o{ Computer Programming, 2, North-Holland, Amsterdam, 1982, 175-206.
+Zohar Manna , Amir Pnueli, How to cook a temporal proof system for your pet language, Proceedings of the 10th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.141-154, January 24-26, 1983, Austin, Texas[doi>10.1145/567067.567082]
+MENASCE, D., AND MUNTZ, R. Locking and deadlock detection in distributed databases. IEEE Trans. Softw. Eng. SE-5, 3 (May 1979).
+Jayadev Misra , K. M. Chandy, Termination Detection of Diffusing Computations in Communicating Sequential Processes, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.1, p.37-43, Jan. 1982[doi>10.1145/357153.357156]
+Jayadev Misra, Detecting termination of distributed computations using markers, Proceedings of the second annual ACM symposium on Principles of distributed computing, p.290-294, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806729]
+OEERMARCK, R. Deadlock detection for all resource classes. Res. Rep. RJ2955, IBM Research Laboratory, San Jose, Calif., Oct. 1980.
+Ron Obermarck, Distributed deadlock detection algorithm, ACM Transactions on Database Systems (TODS), v.7 n.2, p.187-208, June 1982[doi>10.1145/319702.319717]

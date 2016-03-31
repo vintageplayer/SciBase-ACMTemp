@@ -1,0 +1,55 @@
+Martín Abadi , Luca Cardelli , Benjamin Pierce , Gordon Plotkin, Dynamic typing in a statically typed language, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.2, p.237-268, April 1991[doi>10.1145/103135.103138]
+Eli Barzilay , John Clements, Laziness without all the hard work: combining lazy and strict languages for teaching, Proceedings of the 2005 workshop on Functional and declarative programming in education, September 25-25, 2005, Tallinn, Estonia[doi>10.1145/1085114.1085118]
+Barzilay, E. and Orlovsky, D. 2004. Foreign interface for PLT Scheme. In Proceedings of the Workshop on Scheme and Functional Programming.
+David M. Beazley, SWIG: an easy to use tool for integrating scripting languages with C and C++, Proceedings of the 4th conference on USENIX Tcl/Tk Workshop, 1996, p.15-15, July 10-13, 1996, Monterey, California
+Beazley, D. 1997. Pointers, constraints, and typemaps. In SWIG 1.1 Users Manual.
+Nick Benton, Embedded interpreters, Journal of Functional Programming, v.15 n.4, p.503-542, July 2005[doi>10.1017/S0956796804005398]
+Nick Benton , Andrew Kennedy, Interlanguage working without tears: blending SML with Java, Proceedings of the fourth ACM SIGPLAN international conference on Functional programming, p.126-137, September 27-29, 1999, Paris, France[doi>10.1145/317636.317791]
+Nick Benton , Andrew Kennedy , Claudio V. Russo, Adventures in interoperability: the SML.NET experience, Proceedings of the 6th ACM SIGPLAN international conference on Principles and practice of declarative programming, p.215-226, August 24-26, 2004, Verona, Italy[doi>10.1145/1013963.1013987]
+Blume, M. 2001. No-longer-foreign: Teaching an ML compiler to speak C “natively”. In Proceedings of the Workshop on Multi-Language Infrastructure and Interoperability (BABEL).
+L Cardelli, Amber, Proc. of the thirteenth spring school of the LITP on Combinators and functional programming languages, p.21-47, October 1986, Val d'Ajol, France
+Chakravarty, M. M. T. 2002. The Haskell 98 foreign function interface 1.0.
+Chambers, C. and The Cecil Group. 2004. The Cecil language: Specification and rationale, version 3.2. Tech. rep., Department of Computer Science and Engineering, University of Washington. February.
+Matthias Felleisen, On the expressive  power of programming languages, Science of Computer Programming, v.17 n.1-3, p.35-75, Dec. 1991[doi>10.1016/0167-6423(91)90036-W]
+Mattias Felleisen , D. P. Friedman , E. Kohlbecker , B. Duba, A syntactic theory of sequential control, Theoretical Computer Science, v.52 n.3, p.205-237, June 1987[doi>10.1016/0304-3975(87)90109-5]
+Felleisen, M. and Hieb, R. 1992. The revised report on the syntactic theories of sequential control and state. Theoret. Comput. Sci. 102, 235--271. Original version in: Technical Report 89-100, Rice University, June 1989.
+Robert Bruce Findler , Matthias Blume, Contracts as pairs of projections, Proceedings of the 8th international conference on Functional and Logic Programming, April 24-26, 2006, Fuji-Susono, Japan[doi>10.1007/11737414_16]
+Robert Bruce Findler , Matthias Felleisen, Contracts for higher-order functions, Proceedings of the seventh ACM SIGPLAN international conference on Functional programming, p.48-59, October 04-06, 2002, Pittsburgh, PA, USA[doi>10.1145/581478.581484]
+Sigbjorn Finne , Daan Leijen , Erik Meijer , Simon Peyton Jones, Calling hell from heaven and heaven from hell, Proceedings of the fourth ACM SIGPLAN international conference on Functional programming, p.114-125, September 27-29, 1999, Paris, France[doi>10.1145/317636.317790]
+Fisher, K., Pucella, R., and Reppy, J. 2001. A framework for interoperability. In Proceedings of the Workshop on Multi-Language Infrastructure and Interoperability (BABEL).
+Cormac Flanagan, Hybrid type checking, Conference record of the 33rd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.245-256, January 11-13, 2006, Charleston, South Carolina, USA[doi>10.1145/1111037.1111059]
+Michael Furr , Jeffrey S. Foster, Checking type safety of foreign function calls, Proceedings of the 2005 ACM SIGPLAN conference on Programming language design and implementation, June 12-15, 2005, Chicago, IL, USA[doi>10.1145/1065010.1065019]
+Michael Furr , Jeffrey S. Foster, Checking type safety of foreign function calls, ACM Transactions on Programming Languages and Systems (TOPLAS), v.30 n.4, p.1-63, July 2008[doi>10.1145/1377492.1377493]
+Jean-Yves Girard , Paul Taylor , Yves Lafont, Proofs and types, Cambridge University Press, New York, NY, 1989
+Andrew D. Gordon , Don Syme, Typing a multi-language intermediate code, Proceedings of the 28th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.248-260, January 2001, London, United Kingdom[doi>10.1145/360204.360228]
+Kathryn E. Gray , Robert Bruce Findler , Matthew Flatt, Fine-grained interoperability through mirrors and contracts, Proceedings of the 20th annual ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, October 16-20, 2005, San Diego, CA, USA[doi>10.1145/1094811.1094830]
+Dan Grossman , Greg Morrisett , Steve Zdancewic, Syntactic type abstraction, ACM Transactions on Programming Languages and Systems (TOPLAS), v.22 n.6, p.1037-1080, Nov. 2000[doi>10.1145/371880.371887]
+Fritz Henglein, Dynamic typing: syntax and proof theory, Science of Computer Programming, v.22 n.3, p.197-230, June 1994[doi>10.1016/0167-6423(94)00004-2]
+Fritz Henglein , Jakob Rehof, Safe polymorphic type inference for a dynamically typed language: translating Scheme to ML, Proceedings of the seventh international conference on Functional programming languages and computer architecture, p.192-203, June 26-28, 1995, La Jolla, California, USA[doi>10.1145/224164.224203]
+R. Ibrahim , C. Szyperski, The COMEL Language, University of Queensland, 1997
+Andrew Kennedy, Securing the .NET programming model, Theoretical Computer Science, v.364 n.3, p.311-317, 8 November 2006[doi>10.1016/j.tcs.2006.08.014]
+Kornstaedt, L. 2001. Alice in the land of Oz - an interoperability-based implementation of a functional language on top of a relational language. In Proceedings of the Workshop on Multi-Language Infrastructure and Interoperability (BABEL).
+Mason, I. and Talcott, C. 1991. Equivalence in functional languages with effects. J. Funct. Program. 1, 287--327.
+Matthews, J. 2008. Equation-preserving multi-language systems. Tech. Rep. TR-2008-06, University of Chicago.
+Jacob Matthews , Amal Ahmed, Parametric polymorphism through run-time sealing or, theorems for low, low prices!, Proceedings of the Theory and practice of software, 17th European conference on Programming languages and systems, March 29-April 06, 2008, Budapest, Hungary
+Jacob Matthews , Robert Bruce Findler, Operational semantics for multi-language programs, Proceedings of the 34th annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages, January 17-19, 2007, Nice, France[doi>10.1145/1190216.1190220]
+Matthews, J., Findler, R. B., Flatt, M., and Felleisen, M. 2004. A visual environment for developing context-sensitive term rewriting systems. In Proceedings of the International Conference on Rewriting Techniques and Applications (RTA).
+Erik Meijer , Nigel Perry , Arjan van Yzendoorn, Scripting .NET Using Mondrian, Proceedings of the 15th European Conference on Object-Oriented Programming, p.150-164, June 18-22, 2001
+Meunier, P. and Silva, D. 2003. From Python to PLT Scheme. In Proceedings of the 4th Workshop on Scheme and Functional Programming. 24--29.
+Odersky, M., Altherr, P., Cremet, V., Emir, B., Micheloud, S., Mihaylov, N., Schinz, M., Stenman, E., and Zenger, M. 2005. An Introduction to Scala. http://scala.epfl.ch/docu/files/ScalaIntro.pdf.
+Atsushi Ohori , Kazuhiko Kato, Semantics for communication primitives in a polymorphic language, Proceedings of the 20th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.99-112, March 1993, Charleston, South Carolina, USA[doi>10.1145/158511.158529]
+Pierce, B. and Sumii, E. 2000. Relating cryptography and polymorphism. Unpublished manuscript.
+Benjamin C. Pierce, Types and programming languages, MIT Press, Cambridge, MA, 2002
+Pinto, P. 2003. Dot-Scheme: A PLT Scheme FFI for the .NET framework. In Proceedings of the Workshop on Scheme and Functional Programming.
+Plotkin, G. D. 1977. LCF considered as a programming language. Theor. Comput. Sci. 223--255.
+Riccardo Pucella, Towards a formalization for COM part i: the primitive calculus, Proceedings of the 17th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, November 04-08, 2002, Seattle, Washington, USA[doi>10.1145/582419.582449]
+Norman Ramsey, Embedding an interpreted language using higher-order functions and types, Proceedings of the 2003 workshop on Interpreters, virtual machines and emulators, p.6-14, June 12-12, 2003, San Diego, California[doi>10.1145/858570.858571]
+Reynolds, J. C. 1983. Types, abstraction and parametric polymorphism. In Proceedings of the IFIP Congress. 513--523.
+Amr Sabry , Matthias Felleisen, Reasoning about programs in continuation-passing style, Lisp and Symbolic Computation, v.6 n.3-4, p.289-360, Nov. 1993[doi>10.1007/BF01019462]
+Paul A. Steckler, MysterX: A Scheme Toolkit for Building Interactive Applications with COM, Proceedings of the Technology of Object-Oriented Languages and Systems, p.364, August 01-05, 1999
+Eijiro Sumii , Benjamin C. Pierce, Logical relation for encryption, Journal of Computer Security, v.11 n.4, p.521-554, July 2003
+Eijiro Sumii , Benjamin C. Pierce, A bisimulation for dynamic sealing, Proceedings of the 31st ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.161-172, January 14-16, 2004, Venice, Italy[doi>10.1145/964001.964015]
+Tait, W. 1967. Intensional interpretations of functionals of finite type I. J. Symb. Log. 32, 2, 198--212.
+Trifonov, V. and Shao, Z. 1999. Safe and principled language interoperation. In Proceedings of the European Symposium on Programming (ESOP). 128--146.
+Andrew K. Wright , Matthias Felleisen, A syntactic approach to type soundness, Information and Computation, v.115 n.1, p.38-94, Nov. 15, 1994[doi>10.1006/inco.1994.1093]
+Steve Zdancewic , Dan Grossman , Greg Morrisett, Principals in programming languages: a syntactic proof technique, Proceedings of the fourth ACM SIGPLAN international conference on Functional programming, p.197-207, September 27-29, 1999, Paris, France[doi>10.1145/317636.317799]

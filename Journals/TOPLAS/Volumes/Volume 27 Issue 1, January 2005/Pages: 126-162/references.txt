@@ -1,0 +1,34 @@
+Martin Abadi , Luca Cardelli, A  Theory of Objects, Springer-Verlag New York, Inc., Secaucus, NJ, 1996
+Alexander Aiken , Edward L. Wimmers, Type inclusion constraints and type inference, Proceedings of the conference on Functional programming languages and computer architecture, p.31-41, June 09-11, 1993, Copenhagen, Denmark[doi>10.1145/165180.165188]
+Marcin Benke, Efficient Type Reconstruction in the Presence of Inheritance, Proceedings of the 18th International Symposium on Mathematical Foundations of Computer Science, p.272-280, August 30-September 03, 1993
+Gilad Bracha , Martin Odersky , David Stoutamire , Philip Wadler, Making the future safe for the past: adding genericity to the Java programming language, Proceedings of the 13th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, p.183-200, October 18-22, 1998, Vancouver, British Columbia, Canada[doi>10.1145/286936.286957]
+Michele Bugliesi , Santiago M. Pericás-Geertsen, Type inference for variant object types, Information and Computation, v.177 n.1, p.2-27, 25 August 2002[doi>10.1006/inco.2002.3091]
+Alexandre Frey, Satisfying Subtype Inequalities in Polynomial Space, Proceedings of the 4th International Symposium on Static Analysis, p.265-277, September 08-10, 1997
+Neal Glew, An efficient class and object encoding, Proceedings of the 15th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, p.311-324, October 2000, Minneapolis, Minnesota, USA[doi>10.1145/353171.353192]
+Henglein, F.1997. Breaking through the n3 barrier: Faster object type inference. In Proceedings of the 4th International Workshop on Foundations of Object-Oriented Languages. http://www.cs.williams.edu/kim/FOOL/index.html.
+My Hoang , John C. Mitchell, Lower bounds on type inference with subtypes, Proceedings of the 22nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.176-185, January 23-25, 1995, San Francisco, California, USA[doi>10.1145/199448.199481]
+Atsushi Igarashi , Naoki Kobayashi, Type reconstruction for linear &pgr;-calculus with I/O subtyping, Information and Computation, v.161 n.1, p.1-44, Aug. 25, 2000[doi>10.1006/inco.2000.2872]
+Atsushi Igarashi , Mirko Viroli, On Variance-Based Subtyping for Parametric Types, Proceedings of the 16th European Conference on Object-Oriented Programming, p.441-469, June 10-14, 2002
+Dexter Kozen , Jens Palsberg , Michael I. Schwartzbach, Efficient inference of partial types, Journal of Computer and System Sciences, v.49 n.2, p.306-324, Oct. 1994[doi>10.1016/S0022-0000(05)80051-0]
+David MacQueen , Gordon Plotkin , Ravi Sethi, An ideal model for recursive polymorphic types, Information and Control, v.71 n.1-2, p.95-130, Oct/Nov. 1986[doi>10.1016/S0019-9958(86)80019-5]
+David McAllester, On the complexity analysis of static analyses, Journal of the ACM (JACM), v.49 n.4, p.512-537, July 2002[doi>10.1145/581771.581774]
+Robin Milner, Operational and algebraic semantics of concurrent processes, Handbook of theoretical computer science (vol. B): formal models and semantics, MIT Press, Cambridge, MA, 1991
+Robin Milner , Mads Tofte, Co-induction in relational semantics, Theoretical Computer Science, v.87 n.1, p.209-220, Sept. 16, 1991[doi>10.1016/0304-3975(91)90033-X]
+Mitchell, J. C.1991. Type inference with simple subtypes. J. Funct. Prog. 1, 245--285.
+Martin Müller , Joachim Niehren , Andreas Podelski, Ordering Constraints over Feature Trees, Constraints, v.5 n.1/2, p.7-41, January 2000[doi>10.1023/A:1009866317252]
+Flemming Nielson, The Typed lambda-Calculus with First-Class Processes, Proceedings of the Parallel Architectures and Languages Europe, Volume II: Parallel Languages, p.357-373, June 12-16, 1989
+Jens Palsberg, Efficient inference of object types, Information and Computation, v.123 n.2, p.198-209, Dec. 1995[doi>10.1006/inco.1995.1168]
+Jens Palsberg , Trevor Jim, Type inference with simple selftypes is NP-complete, Nordic Journal of Computing, v.4 n.3, p.259-286, Fall 1997
+Jens Palsberg , Patrick O'Keefe, A type system equivalent to flow analysis, Proceedings of the 22nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.367-378, January 23-25, 1995, San Francisco, California, USA[doi>10.1145/199448.199533]
+Jens Palsberg , Scott Smith, Constrained types and their expressiveness, ACM Transactions on Programming Languages and Systems (TOPLAS), v.18 n.5, p.519-527, Sept. 1996[doi>10.1145/232706.232715]
+Palsberg, J., Wand, M., and O'Keefe, P. M.1997. Type inference with non-structural subtyping. Form. Asp. Comput. 9, 49--67.
+Pierce, B. and Sangiorgi, D.1993. Typing and subtyping for mobile processes. In Annual Symposium on Logic in Computer Science (LICS'93), pp. 376--385.
+Benjamin C. Pierce, Types and programming languages, MIT Press, Cambridge, MA, 2002
+François Pottier, Simplifying subtyping constraints, Proceedings of the first ACM SIGPLAN international conference on Functional programming, p.122-133, May 24-26, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/232627.232642]
+Didier Rémy, From Classes to Objects via Subtyping, Proceedings of the 7th European Symposium on Programming: Programming Languages and Systems, p.200-220, March 28-April 04, 1998
+Sulzmann, M., Müller, M., and Zenger, C.1999. Hindley/Milner style type systems in constraint form. Tech. Rep. ACRC-99-009. University of South Australia.
+Tang, F. and Hofmann, M.2001. Type inference for objects with base types. Draft.
+Tang, F. and Hofmann, M.2002. Generation of verification conditions for Abadi and Leino's logic of objects. In Proceedings of FOOL'02, Ninth International Workshop on Foundations of Object-Oriented Languages (Portland, Ore., Jan.).
+Tiuryn, J.1992. Subtype inequalities. In Proceedings of the 7th Annual IEEE Symposium on Logic in Computer Science (LICS'92). IEEE Computer Society Press, Los Alamitos, Calif., pp. 308--315.
+Wand, M., O'Keefe, P. M., and Palsberg, J.1995. Strong normalization with non-structural subtyping. Math. Struct. Comput. Sci. 5, 3, 419--430.
+Andrew K. Wright , Matthias Felleisen, A syntactic approach to type soundness, Information and Computation, v.115 n.1, p.38-94, Nov. 15, 1994[doi>10.1006/inco.1994.1093]

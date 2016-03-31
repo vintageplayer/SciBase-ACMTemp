@@ -1,0 +1,1 @@
+In parallel programming languages multityped data structures may be shared by two or more processes. Process I/O to these structures is assumed to be physically interleaved but logically parallel. This article addresses a syntactic mechanism to specify a type for such structures and extends an example language and its type-checking algorithm to these structures.

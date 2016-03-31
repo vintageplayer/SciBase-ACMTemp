@@ -1,0 +1,51 @@
+Abrial, I.-R. and Cansell, D. 2005. Formal construction of a non-blocking concurrent queue algorithm (a case study in atomicity). J. Univ. Comput. Sci. 11, 5, 744--770.
+Daphna Amit , Noam Rinetzky , Thomas Reps , Mooly Sagiv , Eran Yahav, Comparison under abstraction for verifying linearizability, Proceedings of the 19th international conference on Computer aided verification, July 03-07, 2007, Berlin, Germany
+Rosalind Barden , Susan Stepney , David Cooper, Z in practice, Prentice-Hall, Inc., Upper Saddle River, NJ, 1995
+Mike Barnett , K. Rustan M. Leino , Wolfram Schulte, The spec# programming system: an overview, Proceedings of the 2004 international conference on Construction and Analysis of Safe, Secure, and Interoperable Smart Devices, p.49-69, March 10-14, 2004, Marseille, France[doi>10.1007/978-3-540-30569-9_3]
+Bäumler, S., Schellhorn, G., Tofan, B., and Reif, W. 2009. Proving linearizability with temporal logic. Form. Asp. Comput.
+Bayer, R. and Schkolnick, M. 1977. Concurrency of operations on b-trees. Acta Inform. 9, 1--21.
+Cristiano Calcagno , Matthew Parkinson , Viktor Vafeiadis, Modular safety checking for fine-grained concurrency, Proceedings of the 14th international conference on Static Analysis, August 22-24, 2007, Kongens Lyngby, Denmark
+CoFI. 2004. CASL Reference Manual. Lecture Notes in Computer Science, vol. 2960, (IFIP Series). Springer.
+Ernie Cohen , Leslie Lamport, Reduction in TLA, Proceedings of the 9th International Conference on Concurrency Theory, p.317-331, September 08-11, 1998
+Robert Colvin , Simon Doherty , Lindsay Groves, Verifying Concurrent Data Structures by Simulation, Electronic Notes in Theoretical Computer Science (ENTCS), v.137 n.2, p.93-110, July, 2005[doi>10.1016/j.entcs.2005.04.026]
+de Roever, W. and Engelhardt, K. 1998. Data Refinement: Model-Oriented Proof Methods and Their Comparison. Cambridge Tracts in Theoretical Computer Science, vol. 47, Cambridge University Press.
+John Derrick , Eerke Boiten, Refinement in Z and object-Z: foundations and advanced applications, Springer-Verlag, London, UK, 2001
+John Derrick , Gerhard Schellhorn , Heike Wehrheim, Proving linearizability via non-atomic refinement, Proceedings of the 6th international conference on Integrated formal methods, p.195-214, July 02-05, 2007, Oxford, UK
+John Derrick , Gerhard Schellhorn , Heike Wehrheim, Mechanizing a Correctness Proof for a Lock-Free Concurrent Stack, Proceedings of the 10th IFIP WG 6.1 international conference on Formal Methods for Open Object-Based Distributed Systems, June 04-06, 2008, Oslo, Norway[doi>10.1007/978-3-540-68863-1_6]
+John Derrick , Heike Wehrheim, Using coupled simulations in non-atomic refinement, Proceedings of the 3rd international conference on Formal specification and development in Z and B, p.127-147, June 04-06, 2003, Turku, Finland
+John Derrick , Heike Wehrheim, Non-atomic refinement in z and CSP, Proceedings of the 4th international conference on Formal Specification and Development in Z and B, p.24-44, April 13-15, 2005, Guildford, UK[doi>10.1007/11415787_3]
+Dino Distefano , Peter W. O'Hearn , Hongseok Yang, A local shape analysis based on separation logic, Proceedings of the 12th international conference on Tools and Algorithms for the Construction and Analysis of Systems, March 25-April 02, 2006, Vienna, Austria[doi>10.1007/11691372_19]
+Doherty, S., Groves, L., Luchangco, V., and Moir, M. 2004. Formal verification of a practical lock-free queue algorithm. In Proceedings of the 12th International Conference on Formal Techniques for Networked and Distributed Systems. Lecture Notes in Computer Science, vol. 3235, Springer, 97--114.
+William M. Farmer, Theory Interpretation in Simple Type Theory, Selected Papers from the First International Workshop on Higher-Order Algebra, Logic, and Term Rewriting, p.96-123, September 23-24, 1993
+Xinyu Feng , Rodrigo Ferreira , Zhong Shao, On the relationship between concurrent separation logic and assume-guarantee reasoning, Proceedings of the 16th European conference on Programming, March 24-April 01, 2007, Braga, Portugal
+Cormac Flanagan , Shaz Qadeer, Thread-modular model checking, Proceedings of the 10th international conference on Model checking software, p.213-224, May 09-10, 2003, Portland, OR, USA
+H. Gao , W. H. Hesselink, A general lock-free algorithm using compare-and-swap, Information and Computation, v.205 n.2, p.225-241, February, 2007[doi>10.1016/j.ic.2006.10.003]
+Lindsay Groves , Robert Colvin, Derivation of a Scalable Lock-Free Stack Algorithm, Electronic Notes in Theoretical Computer Science (ENTCS), 187, p.55-74, July, 2007[doi>10.1016/j.entcs.2006.08.044]
+Danny Hendler , Nir Shavit , Lena Yerushalmi, A scalable lock-free stack algorithm, Proceedings of the sixteenth annual ACM symposium on Parallelism in algorithms and architectures, June 27-30, 2004, Barcelona, Spain[doi>10.1145/1007912.1007944]
+M. P. Herlihy , J. M. Wing, Axioms for concurrent objects, Proceedings of the 14th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.13-26, January 21-23, 1987, Munich, West Germany[doi>10.1145/41625.41627]
+Maurice P. Herlihy , Jeannette M. Wing, Linearizability: a correctness condition for concurrent objects, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.3, p.463-492, July 1990[doi>10.1145/78969.78972]
+Wim H. Hesselink, Using eternity variables to specify and prove a serializable database interface, Science of Computer Programming, v.51 n.1-2, p.47-85, May 2004[doi>10.1016/j.scico.2003.06.001]
+Wim H. Hesselink, Eternity variables to prove simulation of specifications, ACM Transactions on Computational Logic (TOCL), v.6 n.1, p.175-201, January 2005[doi>10.1145/1042038.1042044]
+Wim H. Hesselink, Refinement verification of the lazy caching algorithm, Acta Informatica, v.43 n.3, p.195-222, September 2006[doi>10.1007/s00236-006-0020-1]
+Wim H. Hesselink, A criterion for atomicity revisited, Acta Informatica, v.44 n.2, p.123-151, April 2007[doi>10.1007/s00236-007-0044-1]
+Bart Jacobs , Jan Smans , Frank Piessens , Wolfram Schulte, A statically verifiable programming model for concurrent object-oriented programs, Proceedings of the 8th international conference on Formal Methods and Software Engineering, November 01-03, 2006, Macao, China[doi>10.1007/11901433_23]
+Jones, C. B. 1983. Specification and design of (parallel) programs. InProceedings of the International Federation for Information Processing (IFIP'83). North-Holland, 321--332.
+KIV. 2009. Web presentation of the linearization case study in KIV. http://www.informatik.uni-augsburg.de/swt/projects/linearizability2.html.
+Leslie Lamport, The temporal logic of actions, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.3, p.872-923, May 1994[doi>10.1145/177492.177726]
+Leslie Lamport , Fred B. Schneider, Pretending Atomicity, Cornell University, Ithaca, NY, 1989
+Richard J. Lipton, Reduction: a method of proving properties of parallel programs, Communications of the ACM, v.18 n.12, p.717-721, Dec. 1975[doi>10.1145/361227.361234]
+Yang Liu , Wei Chen , Yanhong A. Liu , Jun Sun, Model Checking Linearizability via Refinement, Proceedings of the 2nd World Congress on Formal Methods, November 02-06, 2009, Eindhoven, The Netherlands[doi>10.1007/978-3-642-05089-3_21]
+Maged M. Michael , Michael L. Scott, Nonblocking algorithms and preemption-safe locking on multiprogrammed shared memory multiprocessors, Journal of Parallel and Distributed Computing, v.51 n.1, p.1-26, May 25, 1998[doi>10.1006/jpdc.1998.1446]
+Jayadev Misra, A reduction theorem for concurrent object-oriented programs, Programming methodology, Springer-Verlag New York, Inc., New York, NY, 2003
+Owicki, S. S. and Gries, D. 1976. An axiomatic proof technique for parallel programs I. Acta Inform. 6, 319--340.
+Matthew Parkinson , Richard Bornat , Peter O'Hearn, Modular verification of a non-blocking stack, Proceedings of the 34th annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages, January 17-19, 2007, Nice, France[doi>10.1145/1190216.1190261]
+Reif, W., Schellhorn, G., Stenzel, K., and Balser, M. 1998. Structured specifications and interactive proofs with KIV. In Automated Deduction—A Basis for Applications, Vol. II: Systems and Implementation Techniques, W. Bibel and P. Schmitt Eds., Kluwer Academic Publishers, Dordrecht, Chapter 1, 13--39.
+John C. Reynolds, Separation Logic: A Logic for Shared Mutable Data Structures, Proceedings of the 17th Annual IEEE Symposium on Logic in Computer Science, p.55-74, July 22-25, 2002
+J. M. Spivey, The Z notation: a reference manual, Prentice Hall International (UK) Ltd., Hertfordshire, UK, 1992
+Vafeiadis, V. 2008. Modular fine-grained concurrency verification. Tech. rep. UCAM-CL-TR726, Computer Laboratory, University of Cambridge.
+Viktor Vafeiadis , Maurice Herlihy , Tony Hoare , Marc Shapiro, Proving correctness of highly-concurrent linearisable objects, Proceedings of the eleventh ACM SIGPLAN symposium on Principles and practice of parallel programming, March 29-31, 2006, New York, New York, USA[doi>10.1145/1122971.1122992]
+Viktor Vafeiadis , Matthew Parkinson, A marriage of rely/guarantee and separation logic, Proceedings of the 18th international conference on Concurrency Theory, September 03-08, 2007, Lisbon, Portugal
+Martin Vechev , Eran Yahav, Deriving linearizable fine-grained concurrent objects, Proceedings of the 2008 ACM SIGPLAN conference on Programming language design and implementation, June 07-13, 2008, Tucson, AZ, USA[doi>10.1145/1375581.1375598]
+Wang, L. and Stoller, S. D. 2004. Automated verification of programs with non-blocking synchronization. Tech. rep. DAR-04-17, Computer Science Department, SUNY at Stony BroDk. http://www.cs.sunysb.edu/~liqiang/lockfree.html.
+Liqiang Wang , Scott D. Stoller, Static analysis of atomicity for programs with non-blocking synchronization, Proceedings of the tenth ACM SIGPLAN symposium on Principles and practice of parallel programming, June 15-17, 2005, Chicago, IL, USA[doi>10.1145/1065944.1065953]
+Jim Woodcock , Jim Davies, Using Z: specification, refinement, and proof, Prentice-Hall, Inc., Upper Saddle River, NJ, 1996

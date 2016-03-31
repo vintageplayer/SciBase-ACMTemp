@@ -1,0 +1,36 @@
+Martin Abadi , Luca Cardelli, A  Theory of Objects, Springer-Verlag New York, Inc., Secaucus, NJ, 1996
+Aycock, J. and Horspool, R. N. 2002. Practical Earley parsing. The Computer Journal 45, 6, 620--630.
+Bachrach, J. and Playford, K. 1999. D-expressions: Lisp power, Dylan style. http://www.ai.mit.edu/people/jrb/Projects/dexprs.pdf Accessed Nov 22 2006.
+Jonthan Bachrach , Keith Playford, The Java syntactic extender (JSE), Proceedings of the 16th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, p.31-42, October 14-18, 2001, Tampa Bay, FL, USA[doi>10.1145/504282.504285]
+Claus Brabrand , Michael I. Schwartzbach, Growing languages with metamorphic syntax macros, Proceedings of the 2002 ACM SIGPLAN workshop on Partial evaluation and semantics-based program manipulation, p.31-40, January 14-15, 2002, Portland, Oregon[doi>10.1145/503032.503035]
+Martin Bravenboer , Eelco Visser, Concrete syntax for objects: domain-specific language embedding and assimilation without restrictions, Proceedings of the 19th annual ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, October 24-28, 2004, Vancouver, BC, Canada[doi>10.1145/1028976.1029007]
+Pierre Cointe, Metaclasses are first class: The ObjVlisp Model, Conference proceedings on Object-oriented programming systems, languages and applications, p.156-162, October 04-08, 1987, Orlando, Florida, USA[doi>10.1145/38765.38822]
+James R. Cordy, TXL - A Language for Programming Language Tools and Applications, Electronic Notes in Theoretical Computer Science (ENTCS), 110, p.3-31, December, 2004[doi>10.1016/j.entcs.2004.11.006]
+Czarnecki, K., O'Donnell, J., Striegnitz, J., and Taha, W. 2004. DSL implementation in MetaOCaml, Template Haskell, and C++. 3016, 50--71.
+R. Kent Dybvig , Robert Hieb , Carl Bruggeman, Syntactic abstraction in Scheme, Lisp and Symbolic Computation, v.5 n.4, p.295-326, Dec. 1992[doi>10.1007/BF01806308]
+Jay Earley, An efficient context-free parsing algorithm, Communications of the ACM, v.13 n.2, p.94-102, Feb 1970[doi>10.1145/362007.362035]
+Fleutot, F. and Tratt, L. 2007. Contrasting compile-time meta-programming in Metalua and Converge. In Proceedings of the Workshop on Dynamic Languages and Applications.
+Adele Goldberg , David Robson, Smalltalk-80: The Language, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1989
+Grimm, R. 2005. Systems need languages need systems&excl; 2nd ECOOP Workshop on Programming Languages and Operating Systems.
+Ralph E. Griswold , Madge T. Griswold, The  ICON Programming Language, Annabooks, 1996
+P. Hudak, Modular Domain Specific Languages and Tools, Proceedings of the 5th International Conference on Software Reuse, p.134, June 02-05, 1998
+Eugene Kohlbecker , Daniel P. Friedman , Matthias Felleisen , Bruce Duba, Hygienic macro expansion, Proceedings of the 1986 ACM conference on LISP and functional programming, p.151-161, August 1986, Cambridge, Massachusetts, USA[doi>10.1145/319838.319859]
+Mernik, M., Heering, J., and Sloane, A. M. 2003. When and how to develop domain-specific languages. Tech. rep., Centrum voor Wiskundeen Informatica. Dec.
+Schröer, F. W. 2005. The ACCENT Grammar Language. http://accent.compilertools.net/language.html Accessed Jan 25 2005.
+Seefried, S., Chakravarty, M., and Keller, G. 2004. Optimising embedded DSLs using template Haskell. In Proceedings of the 3rd International Conference on Generative Programming and Component Engineering (Vancouver, BC Canada). Springer-Verlag, New York, 186--205.
+Sheard, T. 1998. Using MetaML: A staged programming language. Adv. Funct. Prog., 207--239.
+Tim Sheard, Accomplishments and research challenges in meta-programming, Proceedings of the 2nd international conference on Semantics, applications, and implementation of program generation, September 06-06, 2001, Florence, Italy
+Tim Sheard , Zine-el-abidine Benaissa , Emir Pasalic, DSL implementation using staging and monads, Proceedings of the 2nd conference on Domain-specific languages, p.81-94, October 03-06, 1999, Austin, Texas, USA[doi>10.1145/331960.331975]
+Tim Sheard , Simon Peyton Jones, Template meta-programming for Haskell, Proceedings of the 2002 ACM SIGPLAN workshop on Haskell, p.1-16, October 03, 2002, Pittsburgh, Pennsylvania[doi>10.1145/581690.581691]
+Skalski, K., Moskal, M., and Olszta, P. 2004. Meta-programming in Nemerle. http://nemerle.org/metaprogramming.pdf. Accessed Nov 5 2007.
+Guy L. Steele, Jr., Growing a Language, Higher-Order and Symbolic Computation, v.12 n.3, p.221-236, October 1999[doi>10.1023/A:1010085415024]
+Laurence Tratt, Compile-time meta-programming in a dynamically typed OO language, Proceedings of the 2005 symposium on Dynamic languages, p.49-63, October 18-18, 2005, San Diego, California[doi>10.1145/1146841.1146846]
+Tratt, L. 2005b. The Converge programming language. Tech. Rep. TR-05-01, Department of Computer Science, King's College London.
+Tratt, L. 2005c. The MT model transformation language. Tech. Rep. TR-05-02, Department of Computer Science, King's College London. May.
+Tratt, L. 2007. Converge Reference Manual. http://www.convergepl.org/documentation/Accessed June 3 2008.
+Mark G. J. van den Brand , J. Heering , P. Klint , P. A. Olivier, Compiling language definitions: the ASF+SDF compiler, ACM Transactions on Programming Languages and Systems (TOPLAS), v.24 n.4, p.334-368, July 2002[doi>10.1145/567097.567099]
+Arie van Deursen , Paul Klint , Joost Visser, Domain-specific languages: an annotated bibliography, ACM SIGPLAN Notices, v.35 n.6, p.26-36, June 2000[doi>10.1145/352029.352035]
+van Rossum, G. 2003. Python 2.3 reference manual. http://www.python.org/doc/2.3/ref/ref.html Accessed June 3 2008.
+Walker, K. 1994. The run-time implementation language for Icon. Tech. Rep. IPD261, University of Arizona.
+Daniel Weise , Roger Crew, Programmable syntax macros, Proceedings of the ACM SIGPLAN 1993 conference on Programming language design and implementation, p.156-165, June 21-25, 1993, Albuquerque, New Mexico, USA[doi>10.1145/155090.155105]
+Gregory V. Wilson, Extensible Programming for the 21st Century, Queue, v.2 n.9, December/January 2004-2005[doi>10.1145/1039511.1039534]

@@ -1,0 +1,18 @@
+Alfred V. Aho , Ravi Sethi , Jeffrey D. Ullman, Compilers: principles, techniques, and tools, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+Martin Alt , Florian Martin, Generation of Efficient Interprocedural Analyzers with PAG, Proceedings of the Second International Symposium on Static Analysis, p.33-50, September 25-27, 1995
+Alt, M., Martin, F., and Wilhelm, R. 1995. Generating Dataflow Analyzers with PAG. Tech. rep. A 10/95, Universität des Saarlandes.
+David Callahan , Keith D. Cooper , Ken Kennedy , Linda Torczon, Interprocedural constant propagation, Proceedings of the 1986 SIGPLAN symposium on Compiler construction, p.152-161, June 25-27, 1986, Palo Alto, California, USA[doi>10.1145/12276.13327]
+Maryam Emami , Rakesh Ghiya , Laurie J. Hendren, Context-sensitive interprocedural points-to analysis in the presence of function pointers, Proceedings of the ACM SIGPLAN 1994 conference on Programming language design and implementation, p.242-256, June 20-24, 1994, Orlando, Florida, USA[doi>10.1145/178243.178264]
+Susan L. Graham , Mark Wegman, A fast and usually linear algorithm for global flow analysis, Proceedings of the 2nd ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.22-34, January 20-22, 1975, Palo Alto, California[doi>10.1145/512976.512979]
+Matthew S. Hecht, Flow Analysis of Computer Programs, Elsevier Science Inc., New York, NY, 1977
+Kam, J. B. and Ullman, J. D. 1977. Monotone data flow analysis frameworks. Acta Informatica. 7, 3, 305--318.
+Aditya Kanade , Uday Khedker , Amitabha Sanyal, Heterogeneous fixed points with application to points-to analysis, Proceedings of the Third Asian conference on Programming Languages and Systems, November 02-05, 2005, Tsukuba, Japan[doi>10.1007/11575467_20]
+Khedker, U. P. 2002. Data flow analysis. In The Compiler Design Handbook. CRC Press, 1--59.
+Uday P. Khedker , Dhananjay M. Dhamdhere, A generalized theory of bit vector data flow analysis, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.5, p.1472-1511, Sept. 1994[doi>10.1145/186025.186043]
+Gary A. Kildall, A unified approach to global program optimization, Proceedings of the 1st annual ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.194-206, October 01-03, 1973, Boston, Massachusetts[doi>10.1145/512927.512945]
+Steven S. Muchnick, Advanced compiler design and implementation, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1998
+Eugene M. Myers, A precise inter-procedural data flow algorithm, Proceedings of the 8th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.219-230, January 26-28, 1981, Williamsburg, Virginia[doi>10.1145/567532.567556]
+Pande, H., Landi, W., and Ryder, B. 1992. Interprocedural reaching definitions in the presence of single level pointers. Tech. rep. lost-tr-193, Laboratory for Computer Science Research Rutgers University.
+Thomas Reps , Susan Horwitz , Mooly Sagiv, Precise interprocedural dataflow analysis via graph reachability, Proceedings of the 22nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.49-61, January 23-25, 1995, San Francisco, California, USA[doi>10.1145/199448.199462]
+Sharir, M. and Pnueli, A. 1981. Two approaches to interprocedural data flow analysis. In Program Flow Analysis: Theory and Applications, S. S. Muchnick and N. D. Jones, Eds. Prentice-Hall Inc.
+John Whaley , Monica S. Lam, Cloning-based context-sensitive pointer alias analysis using binary decision diagrams, Proceedings of the ACM SIGPLAN 2004 conference on Programming language design and implementation, June 09-11, 2004, Washington DC, USA[doi>10.1145/996841.996859]

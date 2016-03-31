@@ -1,0 +1,43 @@
+ARMSTRONG, T., MARRIOTT, I~., SCHACHTE, P., AND SONDERGAARD, H. 1994. Boolean functions for dependency analysis: Algebraic properties and efficient representation. In Proceedings of the 1st International Static Analysis Symposium (SAS 'gJ), B. Le Charlier, Ed. Lecture Notes in Computer Science, vol. 864. Springer-Verlag, Berlin, 266-280.
+BIRKHOFF, G. 1967. Lattice Theory. AMS Colloquium Publication, 3rd edition. AMS, Providence, R.I.
+Michael Codish , Anne Mulkers , Maurice Bruynooghe , Maria García de la Banda , Manuel Hermenegildo, Improving abstract interpretations by combining domains, ACM Transactions on Programming Languages and Systems (TOPLAS), v.17 n.1, p.28-44, Jan. 1995[doi>10.1145/200994.200998]
+Marco Comini , Giorgio Levi, An algebraic theory of observables, Proceedings of the 1994 International Symposium on Logic programming, p.172-186, November 1994, Symposia, Melbourne
+Agostino Cortesi , Gilberto Filé , William H. Winsborough, Comparison of Abstract Interpretations, Proceedings of the 19th International Colloquium on Automata, Languages and Programming, p.521-532, July 13-17, 1992
+CORTESI, A., FILI~, G., AND WINSBOROUGH, W. 1996. Optimal groundness analysis using propositionM logic. J. Logic Program. 27, 2, 137-167.
+COUSOT, P. 1978. M6thodes It6ratives de Construction et d'Approximation de Points Fixes d'Op6rateurs Monotones sur un Treillis, Analyse S6mantique des Programmes. Ph.D. thesis, Universit6 Scientifique et M6dicale de Grenoble, Grenoble, France.
+COUSOT, P. AND COUSOT, R. 1976. Static determination of dynamic properties of programs. In Proceedings of the 2nd International Symposium on Programming. Dunod, Paris, 106-130.
+Patrick Cousot , Radhia Cousot, Abstract interpretation: a unified lattice model for static analysis of programs by construction or approximation of fixpoints, Proceedings of the 4th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.238-252, January 17-19, 1977, Los Angeles, California[doi>10.1145/512950.512973]
+Patrick Cousot , Radhia Cousot, Systematic design of program analysis frameworks, Proceedings of the 6th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.269-282, January 29-31, 1979, San Antonio, Texas[doi>10.1145/567752.567778]
+Patrick Cousot , Rahida Cousot, Abstract interpretation and application to logic programs, Journal of Logic Programming, v.13 n.2-3, p.103-179, July 1992[doi>10.1016/0743-1066(92)90030-7]
+Patrick Cousot , Radhia Cousot, Inductive definitions, semantics and abstract interpretations, Proceedings of the 19th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.83-94, January 19-22, 1992, Albuquerque, New Mexico, USA[doi>10.1145/143165.143184]
+COUSOT, P. AND COUSOT, R. 1994. Higher-order abstract interpretation (and application to comportment analysis generalizing strictness, termination, projection and per analysis of functional languages). In Proceedings of the IEEE International Conference on Computer Languages (ICCL 'gJ). IEEE Computer Society Press, Los Alamitos, Calif., 95-112.
+DART, P. 1988. Dependency analysis and query interfaces for deductive databases. Ph.D. thesis, Univ. of Melbourne, Melbourne, Australia.
+Philip W. Dart, On derived dependencies and connected databases, Journal of Logic Programming, v.11 n.2, p.163-188, Aug. 1991[doi>10.1016/0743-1066(91)90017-J]
+DAVEY, B. A. AND PRIESTLEY, H. A. 1990. Introduction to Lattices and Order. Cambridge University Press, Cambridge, U.K.
+DWINGER, P. 1954. On the closure operators of a complete lattice. Indagationes Mathematicae 16, 560-563.
+Gilberto Filé , Roberto Giacobazzi , Francesco Ranzato, A unifying view of abstract domain design, ACM Computing Surveys (CSUR), v.28 n.2, p.333-336, June 1996[doi>10.1145/234528.234742]
+FILI~, G. AND RANZATO, F. 1996. Complementation of abstract domains made easy. In Proceedings of the 1996 Joint International Conference and Symposium on Logic Programming (JICSLP '96), M. Maher, Ed. The MIT Press, Cambridge, Mass., 348-362.
+FRINK, O. 1962. Pseudo-complements in semi-lattices. Duke Math. J. 29, 505-514.
+Roberto Giacobazzi, "Optimal" Collecting Semantics for Analysis in a Hierarchy of Logic Program Semantics, Proceedings of the 13th Annual Symposium on Theoretical Aspects of Computer Science, p.503-514, February 22-24, 1996
+GIACOBAZZI~ R., PALAMIDESSI~ C., AND RANZATO~ F. 1996. Weak relative pseudo-complements of closure operators. Algebra Universalis 36, 3, 405-412.
+Roberto Giacobazzi , Francesco Ranzato, Complementing Logic Program Semantics, Proceedings of the 5th International Conference on Algebraic and Logic Programming, p.238-253, September 25-27, 1996
+GIERZ~ G., HOFMANN~ K. H., KEIMEL~ K., LAWSON~ J. D., MISLOVE~ M., AND SCOTT~ D. S. 1980. A Compendium of Continuous Lattices. Springer-Verlag, Berlin.
+GRXTZER, G. 1978. General Lattice Theory. Birkhguser Verlag, Basel, Switzerland.
+HUNT, S. 1990. PERs generalize projections for strictness analysis. In Proceedings of the 1990 Glasgow Functional Programming Workshop, S. Peyton Jones, G. Hutton, and C. K. Holst, Eds. Workshops in Computing. Springer-Verlag, Berlin, 156-168.
+JACOBS, D. AND LANGEN, A. 1989. Accurate and efficient approximation of variable aliasing in logic programs. In Proceedings of the 1989 North American Conference on Logic Programming (NACLP '89), E. L. Lusk and R. A. Overbeek, Eds. The MIT Press, Cambridge, Mass., 154-165.
+Dean Jacobs , Anno Langen, Static analysis of logic programs for independent and parallelism, Journal of Logic Programming, v.13 n.2-3, p.291-314, July 1992[doi>10.1016/0743-1066(92)90034-Z]
+KAM, J. B. AND ULLMAN, J. D. 1977. Monotone data flow analysis frameworks. Acta Informatica 7, 305-317.
+Gary A. Kildall, A unified approach to global program optimization, Proceedings of the 1st annual ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.194-206, October 01-03, 1973, Boston, Massachusetts[doi>10.1145/512927.512945]
+Elena Marchiori, Prime Factorizations of Abstract Domains Using First Order Logic, Proceedings of the 5th International Conference on Algebraic and Logic Programming, p.209-223, September 25-27, 1996
+Kim Marriott , Harald Søndergaard, Precise and efficient groundness analysis for logic programs, ACM Letters on Programming Languages and Systems (LOPLAS), v.2 n.1-4, p.181-196, March–Dec. 1993[doi>10.1145/176454.176519]
+MORGADO, J. 1962. Note on complemented closure operators of complete lattices. Portugalice- Mathematica 21, 3, 135-142.
+MUTHUKUMAR, K. AND HERMENEGILDO, M. 1991. Combined determination of sharing and freeness of program variables through abstract interpretation. In Proceedings of the 8th International Conference on Logic Programming (ICLP '91 ), K. Furukawa, Ed. The MIT Press, Cambridge, Mass., 49-63.
+Alan Mycroft, The Theory and Practice of Transforming Call-by-need into Call-by-value, Proceedings of the Fourth 'Colloque International sur la Programmation' on International Symposium on Programming, p.269-281, April 22-24, 1980
+MYCROFT, A. 1981. Abstract interpretation and optimising transformations for applicative programs. Ph.D. thesis, CST-15/81, Univ. of Edinburgh, Edinburgh, Scotland.
+Alan Mycroft, Completeness and predicate-based abstract interpretation, Proceedings of the 1993 ACM SIGPLAN symposium on Partial evaluation and semantics-based program manipulation, p.179-185, June 14-16, 1993, Copenhagen, Denmark[doi>10.1145/154630.154648]
+NIELSON, F. 1985. Tensor products generalize the relational data flow analysis method. In Proceedings of the ~th Hungarian Computer Science Conference, M. Aratd, I. K~tai, and L. Varga, Eds. 211-225.
+Renganathan Sundararajan , John S. Conery, An Abstract Interpretation Scheme for Groundedness, Freeness, and Sharing Analysis of Logic Programs, Proceedings of the 12th Conference on Foundations of Software Technology and Theoretical Computer Science, p.203-216, December 18-20, 1992
+VARLET, J. 1963. Contribution ~ l'6tude des treillis pseudo-compl6ment6s et des treillis de Stone. Mdmoires de la Socidtd Royale des Sciences de Liege 8, 4, 1-71.
+Philip Wadler , R. J. M. Hughes, Projections for strictness analysis, Proc. of a conference on Functional programming languages and computer architecture, p.385-407, October 1987, Portland, Oregon, USA
+WARD, ~/{. 1942. The closure operators of a lattice. Ann. Math. 43, 2, 191-196.
+Kwangkeun Yi , Williams Ludwell Harrison, III, Automatic generation and management of interprocedural program analyses, Proceedings of the 20th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.246-259, March 1993, Charleston, South Carolina, USA[doi>10.1145/158511.158642]

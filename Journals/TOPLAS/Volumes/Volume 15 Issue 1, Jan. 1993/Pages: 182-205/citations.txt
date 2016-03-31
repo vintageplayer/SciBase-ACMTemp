@@ -1,0 +1,39 @@
+Marcelo Glusman , Shmuel Katz, Extending Memory Consistency of Finite Prefixes to Infinite Computations, Proceedings of the 12th International Conference on Concurrency Theory, p.411-425, August 20-25, 2001
+Milo M. K. Martin , Daniel J. Sorin , Anastassia Ailamaki , Alaa R. Alameldeen , Ross M. Dickson , Carl J. Mauer , Kevin E. Moore , Manoj Plakal , Mark D. Hill , David H. Wood, Timestamp snooping: an approach for extending SMPs, ACM SIGPLAN Notices, v.35 n.11, p.25-36, Nov. 2000
+Susanne Graf, Characterization of a sequentially consistent memory and verification of a cache memory by abstraction, Distributed Computing, v.12 n.2/3, p.75-90, June 1999
+Harold W. Cain , Mikko H. Lipasti, Edge chasing delayed consistency: pushing the limits of weak memory models, Proceedings of the 2012 ACM workshop on Relaxing synchronization for multicore and manycore scalability, October 21-21, 2012, Tucson, Arizona, USA
+Ivana Filipovi , Peter OHearn , Noam Rinetzky , Hongseok Yang, Abstraction for concurrent objects, Theoretical Computer Science, v.411 n.51-52, p.4379-4398, December, 2010
+Bengt Jonsson , Amir Pnueli , Camilla Rump, Proving refinement using transduction, Distributed Computing, v.12 n.2-3, p.129-149, June 1999
+Milo M. K. Martin , Daniel J. Sorin , Anatassia Ailamaki , Alaa R. Alameldeen , Ross M. Dickson , Carl J. Mauer , Kevin E. Moore , Manoj Plakal , Mark D. Hill , David A. Wood, Timestamp snooping: an approach for extending SMPs, ACM SIGARCH Computer Architecture News, v.28 n.5, p.25-36, Dec. 2000
+Phillip B. Gibbons , Ephraim Korach, On testing cache-coherent shared memories, Proceedings of the sixth annual ACM symposium on Parallel algorithms and architectures, p.177-188, June 27-29, 1994, Cape May, New Jersey, United States
+Amy Felty , Frank Stomp, Cache Coherency in SCI: Specification and a Sketch of Correctness, Formal Aspects of Computing, v.11 n.5, p.475-497, December  1999
+Shaz Qadeer, Verifying Sequential Consistency on Shared-Memory Multiprocessors by Model Checking, IEEE Transactions on Parallel and Distributed Systems, v.14 n.8, p.730-741, August 2003
+Joseph E. Stoy , Xiaowei Shen , Arvind, Proofs of Correctness of Cache-Coherence Protocols, Proceedings of the International Symposium of Formal Methods Europe on Formal Methods for Increasing Software Productivity, p.43-71, March 12-16, 2001
+Wil Janssen , Mannes Poel , Job Zwiers, The compositional approach to sequential consistency and lazy caching, Distributed Computing, v.12 n.2-3, p.105-127, June 1999
+Michael Merritt, Introduction, Distributed Computing, v.12 n.2/3, p.55-56, June 1999
+Ed Brinksma, Cache consistency by design, Distributed Computing, v.12 n.2/3, p.61-74, June 1999
+Gavin Lowe , Jim Davies, Using CSP to verify sequential consistency, Distributed Computing, v.12 n.2/3, p.91-103, June 1999
+Rajnish Ghughal , Abdel Mokkedem , Ratan Nalumasu , Ganesh Gopalakrishnan, Using “test model-checking” to verify the Runway-PA8000 memory model, Proceedings of the tenth annual ACM symposium on Parallel algorithms and architectures, p.231-239, June 28-July 02, 1998, Puerto Vallarta, Mexico
+Rob Gerth, Sequential consistency and the lazy caching algorithm, Distributed Computing, v.12 n.2/3, p.57-59, June 1999
+Jesse D. Bingham , Anne Condon , Alan J. Hu, Toward a decidable notion of sequential consistency, Proceedings of the fifteenth annual ACM symposium on Parallel algorithms and architectures, June 07-09, 2003, San Diego, California, USA
+Phillip B. Gibbons , Michael Merritt, Specifying non-blocking shared memories (extended abstract), Proceedings of the fourth annual ACM symposium on Parallel algorithms and architectures, p.306-315, June 29-July 01, 1992, San Diego, California, United States
+Tamarah Arons, Using Timestamping and History Variables to Verify Sequential Consistency, Proceedings of the 13th International Conference on Computer Aided Verification, p.423-435, July 18-22, 2001
+Wim H. Hesselink, Splitting forward simulations to copewith liveness, Acta Informatica, v.42 n.8-9, p.583-602, April     2006
+Kourosh Gharachorloo , Madhu Sharma , Simon Steely , Stephen Van Doren, Architecture and design of AlphaServer GS320, ACM SIGPLAN Notices, v.35 n.11, p.13-24, Nov. 2000
+Anne E. Condon , Alan J. Hu, Automatable verification of sequential consistency, Proceedings of the thirteenth annual ACM symposium on Parallel algorithms and architectures, p.113-121, July 2001, Crete Island, Greece
+Kourosh Gharachorloo , Madhu Sharma , Simon Steely , Stephen Van Doren, Architecture and design of AlphaServer GS320, ACM SIGARCH Computer Architecture News, v.28 n.5, p.13-24, Dec. 2000
+John Howard , Shmuel Katz, Reconciliations, Proceedings of the thirteenth annual ACM symposium on Principles of distributed computing, p.14-21, August 14-17, 1994, Los Angeles, California, USA
+Ernesto Jiménez , Antonio Fernández , Vicente Cholvi, A parametrized algorithm that implements sequential, causal, and cache memory consistency, Proceedings of the 10th Euromicro conference on Parallel, distributed and network-based processing, January 09-11, 2002, Canary Islands, Spain
+Thomas A. Henzinger , Shaz Qadeer , Sriram K. Rajamani, Verifying Sequential Consistency on Shared-Memory Multiprocessor Systems, Proceedings of the 11th International Conference on Computer Aided Verification, p.301-315, July 06-10, 1999
+Michel Raynal , Matthieu Roy, Allowing atomic objects to coexist with sequentially consistent objects, Proceedings of the 8th international conference on Parallel Computing Technologies, p.59-73, September 05-09, 2005, Krasnoyarsk, Russia
+Roy Friedman, Implementing hybrid consistency with high-level synchronization operations, Distributed Computing, v.9 n.3, p.119-129, December 1995
+Arvind Arvind , Jan-Willem Maessen, Memory Model = Instruction Reordering + Store Atomicity, ACM SIGARCH Computer Architecture News, v.34 n.2, p.29-40, May 2006
+Leslie Lamport, Composition: A Way to Make Proofs Harder, Revised Lectures from the International Symposium on Compositionality: The Significant Difference, p.402-423, September 08-12, 1997
+Hagit Attiya , Jennifer L. Welch, Sequential consistency versus linearizability, ACM Transactions on Computer Systems (TOCS), v.12 n.2, p.91-122, May 1994
+Daniel J. Sorin , Manoj Plakal , Anne E. Condon , Mark D. Hill , Milo M. K. Martin , David A. Wood, Specifying and Verifying a Broadcast and a Multicast Snooping Cache Coherence Protocol, IEEE Transactions on Parallel and Distributed Systems, v.13 n.6, p.556-578, June 2002
+Peter Ladkin , Leslie Lamport , Bryan Olivier , Denis Roegel, Lazy caching in TLA, Distributed Computing, v.12 n.2-3, p.151-174, June 1999
+Alan Fekete , M. Frans Kaashoek , Nancy Lynch, Implementing sequentially consistent shared objects using broadcast and point-to-point communication, Journal of the ACM (JACM), v.45 n.1, p.35-69, Jan. 1998
+Hon F. Li , Gabriel Girard, View consistencies and exact implementations, Parallel Computing, v.29 n.1, p.37-67, January 2003
+Alan Feteke, Formal Models of Communication Services: A Case Study, Computer, v.26 n.8, p.37-47, August 1993
+Ernesto Jiménez , Antonio Fernández , Vicent Cholvi, A parametrized algorithm that implements sequential, causal, and cache memory consistencies, Journal of Systems and Software, v.81 n.1, p.120-131, January, 2008
+M. Rasit Eskicioglu, A comprehensive bibliography of distributed shared memory, ACM SIGOPS Operating Systems Review, v.30 n.1, p.71-96, Jan. 1996

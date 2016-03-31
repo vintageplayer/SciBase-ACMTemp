@@ -1,0 +1,71 @@
+Martin Abadi , Luca Cardelli, A  Theory of Objects, Springer-Verlag New York, Inc., Secaucus, NJ, 1996
+Andrew W. Appel, Compiling with continuations, Cambridge University Press, New York, NY, 1992
+Todd M. Austin , Scott E. Breach , Gurindar S. Sohi, Efficient detection of all pointer and array access errors, Proceedings of the ACM SIGPLAN 1994 conference on Programming language design and implementation, p.290-301, June 20-24, 1994, Orlando, Florida, USA[doi>10.1145/178243.178446]
+Nick Benton , Andrew Kennedy , George Russell, Compiling standard ML to Java bytecodes, Proceedings of the third ACM SIGPLAN international conference on Functional programming, p.129-140, September 26-29, 1998, Baltimore, Maryland, USA[doi>10.1145/289423.289435]
+Bos, H. and Samwel, B. 2002. Safe kernel programming in the OKE. In Proceedings of the 5th IEEE International Conference on Open Architectures and Network Programming (New York, NY). 141--152.
+Didier Le Botlan , Didier Rémy, MLF: raising ML to the power of system F, Proceedings of the eighth ACM SIGPLAN international conference on Functional programming, p.27-38, August 25-29, 2003, Uppsala, Sweden[doi>10.1145/944705.944709]
+Gilad Bracha , Martin Odersky , David Stoutamire , Philip Wadler, Making the future safe for the past: adding genericity to the Java programming language, Proceedings of the 13th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, p.183-200, October 18-22, 1998, Vancouver, British Columbia, Canada[doi>10.1145/286936.286957]
+Kim B. Bruce , Luca Cardelli , Benjamin C. Pierce, Comparing object encodings, Information and Computation, v.155 n.1-2, p.108-133, Nov./Dec. 1999[doi>10.1006/inco.1999.2829]
+Luca Cardelli , Peter Wegner, On understanding types, data abstraction, and polymorphism, ACM Computing Surveys (CSUR), v.17 n.4, p.471-523, Dec. 1985[doi>10.1145/6041.6042]
+Cejtin, H., Jagannathan, S., and Weeks, S. 2000. Flow-directed closure conversion for typed languages. In 9th European Symposium on Programming. Lecture Notes in Computer Science, vol. 1782. Springer-Verlag, Berlin, Germany, 56--71.
+Chailloux, E., Manoury, P., and Pagano, B. 2000. Développement d'Applications avec Objective Caml. O'Reilly, Paris, France. An English translation is currently freely available online at http://caml.inria.fr/oreilly-book/.
+Satish Chandra , Thomas Reps, Physical type checking for C, Proceedings of the 1999 ACM SIGPLAN-SIGSOFT workshop on Program analysis for software tools and engineering, p.66-75, September 06-06, 1999, Toulouse, France[doi>10.1145/316158.316183]
+Jeremy Condit , Matthew Harren , Scott McPeak , George C. Necula , Westley Weimer, CCured in the real world, Proceedings of the ACM SIGPLAN 2003 conference on Programming language design and implementation, June 09-11, 2003, San Diego, California, USA[doi>10.1145/781131.781157]
+Karl Crary, Toward a foundational typed assembly language, Proceedings of the 30th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.198-212, January 15-17, 2003, New Orleans, Louisiana, USA[doi>10.1145/604131.604149]
+Cyclone. 2001. Cyclone user's manual. Tech. rep. 2001-1855. Department of Computer Science, Cornell University, Ithaca, NY. The current version is available online at http://www.cs.cornell.edu/projects/cyclone/.
+Robert DeLine , Manuel Fähndrich, Enforcing high-level protocols in low-level software, Proceedings of the ACM SIGPLAN 2001 conference on Programming language design and implementation, p.59-69, June 2001, Snowbird, Utah, USA[doi>10.1145/378795.378811]
+Glen Jeffrey Ditchfield, Contextual polymorphism, University of Waterloo, Waterloo, Ont., Canada, 1992
+Jacques Garrigue , Didier Rémy, Semi-explicit first-class polymorphism for ML, Information and Computation, v.155 n.1-2, p.134-169, Nov./Dec. 1999[doi>10.1006/inco.1999.2830]
+Jean-Yves Girard , Paul Taylor , Yves Lafont, Proofs and types, Cambridge University Press, New York, NY, 1989
+Dan Grossman, Existential Types for Imperative Languages, Proceedings of the 11th European Symposium on Programming Languages and Systems, p.21-35, April 08-12, 2002
+Daniel Joseph Grossman , Greg Morrisett, Safe programming at the c level of abstraction, Cornell University, Ithaca, NY, 2003
+Dan Grossman, Type-safe multithreading in cyclone, Proceedings of the 2003 ACM SIGPLAN international workshop on Types in languages design and implementation, January 18-18, 2003, New Orleans, Louisiana, USA[doi>10.1145/604174.604177]
+Dan Grossman , Greg Morrisett , Trevor Jim , Michael Hicks , Yanling Wang , James Cheney, Region-based memory management in cyclone, Proceedings of the ACM SIGPLAN 2002 Conference on Programming language design and implementation, June 17-19, 2002, Berlin, Germany[doi>10.1145/512529.512563]
+Dan Grossman , Greg Morrisett , Steve Zdancewic, Syntactic type abstraction, ACM Transactions on Programming Languages and Systems (TOPLAS), v.22 n.6, p.1037-1080, Nov. 2000[doi>10.1145/371880.371887]
+Robert Harper, A simplified account of polymorphic references, Information Processing Letters, v.51 n.4, p.201-206, Aug. 24, 1994[doi>10.1016/0020-0190(94)90120-1]
+Fritz Henglein, Type inference with polymorphic recursion, ACM Transactions on Programming Languages and Systems (TOPLAS), v.15 n.2, p.253-289, April 1993[doi>10.1145/169701.169692]
+Michael Hicks , Greg Morrisett , Dan Grossman , Trevor Jim, Experience with safe manual memory-management in cyclone, Proceedings of the 4th international symposium on Memory management, October 24-25, 2004, Vancouver, BC, Canada[doi>10.1145/1029873.1029883]
+Hicks, M., Nagarajan, A., and van Renesse, R. 2003. User-specified adaptive scheduling in a streaming media network. In Proceedings of the 6th IEEE International Conference on Open Architectures and Network Programming (San Francisco, CA). 87--96.
+ISO. 1999. ISO/IEC 9899:1999, International Standard---Programming Languages---C. International Standards Organization, Geneva, Switzerland.
+Trevor Jim , J. Greg Morrisett , Dan Grossman , Michael W. Hicks , James Cheney , Yanling Wang, Cyclone: A Safe Dialect of C, Proceedings of the General Track of the annual conference on USENIX Annual Technical Conference, p.275-288, June 10-15, 2002
+Jones, R. and Kelly, P. 1997. Backwards-compatible bounds checking for arrays and pointers in C programs. In Proceedings of the AADEBUG'97. Third International Workshop on Automatic Debugging. Linköping Electronic Articles in Computer and Information Science, vol. 2(9). Linköping, Sweden.
+Jones, S. P. and Hughes, J., Eds. 1999. Haskell 98: A Non-Strict, Purely Functional Language. Available online at http://www.haskell.org/onlinereport/.
+A. J. Kfoury , J. Tiuryn , P. Urzyczyn, Type reconstruction in the presence of polymorphic recursion, ACM Transactions on Programming Languages and Systems (TOPLAS), v.15 n.2, p.290-311, April 1993[doi>10.1145/169701.169687]
+Sumant Kowshik , Dinakar Dhurjati , Vikram Adve, Ensuring code safety without runtime checks for real-time control systems, Proceedings of the 2002 international conference on Compilers, architecture, and synthesis for embedded systems, October 08-11, 2002, Grenoble, France[doi>10.1145/581630.581678]
+Läufer, K. 1996. Type classes with existential types. J. Funct. Programm. 6, 3 (May), 485--517.
+Xavier Leroy, Unboxed objects and polymorphic typing, Proceedings of the 19th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.177-188, January 19-22, 1992, Albuquerque, New Mexico, USA[doi>10.1145/143165.143205]
+Leroy, X. 1997. The effectiveness of type-based unboxing. In Proceedings of the Workshop on Types in Compilation (Amsterdam, The Netherlands). Also published as Tech. rep. BCCS-97-03. Computer Science Department, Boston College, Boston, MA.
+Leroy, X. 2002a. The Objective Caml System Release 3.05, Documentation and User's Manual. Available online at http://caml.inria.fr/ocaml/htmlman/index.html.
+Leroy, X. 2002b. Writing efficient numerical code in Objective Caml. Available online at http://caml.inria.fr/ocaml/numerical.html.
+B Liskov , E Moss , A Snyder , R Atkinson , J C. Schaffert , T Bloom , R Scheifler, CLU reference manual, Springer-Verlag New York, Inc., New York, NY, 1984
+Alexey Loginov , Suan Hsi Yong , Susan Horwitz , Thomas W. Reps, Debugging via Run-Time Type Checking, Proceedings of the 4th International Conference on Fundamental Approaches to Software Engineering, p.217-232, April 02-06, 2001
+Robin Milner , Mads Tofte , David Macqueen, The  Definition of Standard ML, MIT Press, Cambridge, MA, 1997
+Yasuhiko Minamide , Greg Morrisett , Robert Harper, Typed closure conversion, Proceedings of the 23rd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.271-283, January 21-24, 1996, St. Petersburg Beach, Florida, USA[doi>10.1145/237721.237791]
+John C. Mitchell, Polymorphic type inference and containment, Information and Computation, v.76 n.2-3, p.211-249, February/March 1988[doi>10.1016/0890-5401(88)90009-0]
+John C. Mitchell , Gordon D. Plotkin, Abstract types have existential type, ACM Transactions on Programming Languages and Systems (TOPLAS), v.10 n.3, p.470-502, July 1988[doi>10.1145/44501.45065]
+Morrisett, G. 1995. Compiling with types. Ph.D. dissertation, Carnegie Mellon University, Pittsburgh, PA.
+Morrisett, G., Crary, K., Glew, N., Grossman, D., Samuels, R., Smith, F., Walker, D., Weirich, S., and Zdancewic, S. 1999a. TALx86: A realistic typed assembly language. In Proceedings of the 2nd ACM Workshop on Compiler Support for System Software (Atlanta, GA). 25--35. Published as INRIA Tech. Rep. 0288. (March 1999), Rocquencourt, France.
+Greg Morrisett , Karl Crary , Neal Glew , David Walker, Stack-based typed assembly language, Journal of Functional Programming, v.12 n.1, p.43-88, January 2002[doi>10.1017/S0956796801004178]
+Greg Morrisett , David Walker , Karl Crary , Neal Glew, From system F to typed assembly language, ACM Transactions on Programming Languages and Systems (TOPLAS), v.21 n.3, p.527-568, May 1999[doi>10.1145/319301.319345]
+George C. Necula , Scott McPeak , Westley Weimer, CCured: type-safe retrofitting of legacy code, Proceedings of the 29th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.128-139, January 16-18, 2002, Portland, Oregon[doi>10.1145/503272.503286]
+Patel, P. and Lepreau, J. 2003. Hybrid resource control of active extensions. In Proceedings of the 6th IEEE International Conference on Open Architectures and Network Programming (San Francisco, CA). 23--31.
+Parveen Patel , Andrew Whitaker , David Wetherall , Jay Lepreau , Tim Stack, Upgrading transport protocols using untrusted mobile code, Proceedings of the nineteenth ACM symposium on Operating systems principles, October 19-22, 2003, Bolton Landing, NY, USA[doi>10.1145/945445.945447]
+Benjamin Crawford Pierce, Programming with intersection types and bounded polymorphism, Carnegie Mellon University, Pittsburgh, PA, 1992
+Benjamin C. Pierce , Davide Sangiorgi, Behavioral equivalence in the polymorphic pi-calculus, Journal of the ACM (JACM), v.47 n.3, p.531-584, May 2000[doi>10.1145/337244.337261]
+Benjamin C. Pierce , David N. Turner, Local type inference, Proceedings of the 25th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.252-265, January 19-21, 1998, San Diego, California, USA[doi>10.1145/268946.268967]
+John C. Reynolds, Towards a theory of type structure, Programming Symposium, Proceedings Colloque sur la Programmation, p.408-423, April 09-11, 1974
+Reynolds, J. 1983. Types, abstraction and parametric polymorphism. In Information Processing 83. Elsevier Science Publishers, Amsterdam, The Netherlands, 513--523.
+Geoffrey Smith , Dennis M. Volpano, Towards an ML-Style Polymorphic Type System for C, Proceedings of the 6th European Symposium on Programming Languages and Systems, p.341-355, April 22-24, 1996
+Geoffrey Smith , Dennis Volpano, A sound polymorphic type system for a dialect of C, Science of Computer Programming, v.32 n.1-3, p.49-72, Sept. 1998[doi>10.1016/S0167-6423(97)00030-0]
+Christopher Strachey, Fundamental Concepts in Programming Languages, Higher-Order and Symbolic Computation, v.13 n.1-2, p.11-49, April 2000[doi>10.1023/A:1010000313106]
+Bjarne Stroustrup, The  C++ Programming Language, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 2000
+Tarditi, D. 1996. Design and implementation of code optimizations for a type-directed compiler for Standard ML. Ph.D. dissertation. Carnegie Mellon University, Pittsburgh, PA.
+The GHC Team. 2003. The Glasgow Haskell Compiler User's Guide, Version 6.0. Available online at http://www.haskell.org/ghc.
+The Hugs 98 User Manual. 2002. The Hugs 98 User Manual. Available online at http://haskell.cs.yale.edu/hugs.
+Mads Tofte, Type inference for polymorphic references, Information and Computation, v.89 n.1, p.1-34, Nov. 1990[doi>10.1016/0890-5401(90)90018-D]
+Philip Wadler, Theorems for free!, Proceedings of the fourth international conference on Functional programming languages and computer architecture, p.347-359, September 11-13, 1989, Imperial College, London, United Kingdom[doi>10.1145/99370.99404]
+David Walker , J. Gregory Morrisett, Alias Types for Recursive Data Structures, Selected papers from the Third International Workshop on Types in Compilation, p.177-206, September 21, 2000
+Wells, J. 1999. Typability and type checking in System F are equivalent and undecidable. Ann. Pure Appl. Logic 98, 1--3 (June), 111--156.
+J. B. Wells , Allyn Dimock , Robert Muller , Franklyn Turbak, A calculus with polymorphic and polyvariant flow types, Journal of Functional Programming, v.12 n.3, p.183-227, May 2002[doi>10.1017/S0956796801004245]
+Andrew K. Wright , Matthias Felleisen, A syntactic approach to type soundness, Information and Computation, v.115 n.1, p.38-94, Nov. 15, 1994[doi>10.1006/inco.1994.1093]
+Hongwei Xi, Imperative Programming with Dependent Types, Proceedings of the 15th Annual IEEE Symposium on Logic in Computer Science, p.375, June 26-29, 2000

@@ -1,0 +1,1 @@
+This paper presents a natural deduction proof of Hoare's logic carried out by the Edinburgh LCF theorem prover. The emphasis is on the way Hoare's theory is presented to the LCF, which looks very much like an exposition of syntax and semantics to human readers; and on the programmable heuristics (tactics). We also discuss some problems and possible improvements to the LCF.

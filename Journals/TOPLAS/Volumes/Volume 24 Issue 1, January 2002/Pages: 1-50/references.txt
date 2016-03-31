@@ -1,0 +1,70 @@
+Vikram Adve , Guohua Jin , John Mellor-Crummey , Qing Yi, High performance Fortran compilation techniques for parallelizing scientific codes, Proceedings of the 1998 ACM/IEEE conference on Supercomputing, p.1-23, November 07-13, 1998, San Jose, CA
+Agarwal, A., Kranz, D., and Natarajan, V. 1993. Automatic partitioning of parallel loops for cache-coherent multiprocessors. In Proceedings of the International Conference on Parallel Processing (St. Charles, Ill.). I--2--11.
+Anant Agarwal , David A. Kranz , Venkat Natarajan, Automatic Partitioning of Parallel Loops and Data Arrays for Distributed Shared-Memory Multiprocessors, IEEE Transactions on Parallel and Distributed Systems, v.6 n.9, p.943-962, September 1995[doi>10.1109/71.466632]
+Randy Allen , Ken Kennedy, Automatic translation of FORTRAN programs to vector form, ACM Transactions on Programming Languages and Systems (TOPLAS), v.9 n.4, p.491-542, Oct. 1987[doi>10.1145/29873.29875]
+Jennifer-Ann Monique Anderson , Monica S. Lam, Automatic computation and data decomposition for multiprocessors, Stanford University, Stanford, CA, 1997
+Rajeev Barua , David Kranz , Anant Agarwal, Communication-Minimal Partitioning of Parallel Loops and Data Arrays for Cache-Coherent Distributed-Memory Multiprocessors, Proceedings of the 9th International Workshop on Languages and Compilers for Parallel Computing, p.350-368, August 08-10, 1996
+Pierre Boulet , Alain Darte , Tanguy Risset , Yves Robert, (Pen)-ultimate tiling?, Integration, the VLSI Journal, v.17 n.1, p.33-51, Aug. 1994[doi>10.1016/0167-9260(94)90019-1]
+Callahan, D. and Kennedy, K. 1988. Compiling programs for distributed-memory multiprocessors. J. Supercomput. 2, 151--169.
+Siddhartha Chatterjee , Robert Schreiber , Thomas J. Sheffler , John R. Gilbert, Array Distribution in Data-Parallel Programs, Proceedings of the 7th International Workshop on Languages and Compilers for Parallel Computing, p.76-91, August 08-10, 1994
+Chatterjee, S., Gilbert, J. R., Schreiber, R., and Sheffler, T. J. 1994b. Modelling data-parallel programs with the alignment-distribution graph. J. Prog. Lang. 2, 227--258.
+Siddhartha Chatterjee , John R. Gilbert , Robert Schreiber , Shang-Hua Teng, Automatic array alignment in data-parallel programs, Proceedings of the 20th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.16-28, March 1993, Charleston, South Carolina, USA[doi>10.1145/158511.158517]
+M. C. Chen, The Generation of a Class of Multipliers: Synthesizing Highly Parallel Algorithms in VLSI, IEEE Transactions on Computers, v.37 n.3, p.329-338, March 1988[doi>10.1109/12.2170]
+T. S. Chen , J. P. Sheu, Communication-Free Data Allocation Techniques for Parallelizing Compilers on Multicomputers, IEEE Transactions on Parallel and Distributed Systems, v.5 n.9, p.924-938, September 1994[doi>10.1109/71.308531]
+Isidoro Couvertier-Reyes , Jagannathan Ramanujam, Automatic data and computation mapping for distributed-memory machines, Louisiana State University and Agricultural & Mechanical College, 1996
+Desprex, F., Dongarra, J., Rastello, F., and Robert, Y. 1998. Determining the idle time of a tiling: New results. J. Inf. Sci. Eng. 14, 1 (Mar.), 167--190.
+Geoffrey C. Fox , Mark A. Johnson , Gregory A. Lyzenga , Steve W. Otto , John K. Salmon , David W. Walker, Solving problems on concurrent processors. Vol. 1: General techniques and regular problems, Prentice-Hall, Inc., Upper Saddle River, NJ, 1988
+Manish Gupta, On Privatization of Variables for Data-Parallel Execution, Proceedings of the 11th International Symposium on Parallel Processing, p.533-541, April 01-05, 1997
+M. Gupta , P. Banerjee, Demonstration of Automatic Data Partitioning Techniques for Parallelizing Compilers on Multicomputers, IEEE Transactions on Parallel and Distributed Systems, v.3 n.2, p.179-193, March 1992[doi>10.1109/71.127259]
+Manish Gupta , Prithviraj Banerjee, A methodology for high-level synthesis of communication on multicomputers, Proceedings of the 6th international conference on Supercomputing, p.357-367, July 19-24, 1992, Washington, D. C., USA[doi>10.1145/143369.143433]
+Gupta, M. and Banerjee, P. 1994. Compile-time estimation of communication costs of programs. J. Prog. Lang. 2, 191--225.
+Gupta, S. K. S. and Krishnamurthy, S. 1998. An interprocedural framework for determining efficient array data redistributions. J. Inf. Sci. Eng. 14, 1 (Mar.), 27--51.
+Seema Hiranandani , Ken Kennedy , Chau-Wen Tseng, Compiling Fortran D for MIMD distributed-memory machines, Communications of the ACM, v.35 n.8, p.66-80, Aug. 1992[doi>10.1145/135226.135230]
+Ching-Tien Ho , Lennart Johnsson, Optimal communication primitives and graph embeddings on hypercubes, Yale University, New Haven, CT, 1990
+Edin Hodzic , Weijia Shang, On Supernode Transformation with Minimized Total Running Time, IEEE Transactions on Parallel and Distributed Systems, v.9 n.5, p.417-428, May 1998[doi>10.1109/71.679213]
+Karin Högstedt , Larry Carter , Jeanne Ferrante, Selecting tile shape for minimal execution time, Proceedings of the eleventh annual ACM symposium on Parallel algorithms and architectures, p.201-211, June 27-30, 1999, Saint Malo, France[doi>10.1145/305619.305641]
+Chua-Huang Huang , Christian Lengauer, The derivation of systolic implementations, Acta Informatica, v.24 n.6, p.595-632, November 1, 1987
+C.-H. Huang , P. Sadayappan, Communication-free hyperplane partitioning of nested loops, Journal of Parallel and Distributed Computing, v.19 n.2, p.90-102, Oct. 1993[doi>10.1006/jpdc.1993.1094]
+Kai Hwang, Advanced Computer Architecture: Parallelism,Scalability,Programmability, McGraw-Hill Higher Education, 1992
+F. Irigoin , R. Triolet, Supernode partitioning, Proceedings of the 15th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.319-329, January 10-13, 1988, San Diego, California, USA[doi>10.1145/73560.73588]
+Mahmut Kandemir , J. Ramanujam, Data Relation Vectors: A New Abstraction for Data Optimizations, Proceedings of the 2000 International Conference on Parallel Architectures and Compilation Techniques, p.227, October 15-19, 2000
+Ken Kennedy , Ulrich Kremer, Automatic data layout for distributed-memory machines, ACM Transactions on Programming Languages and Systems (TOPLAS), v.20 n.4, p.869-916, July 1998[doi>10.1145/291891.291901]
+Charles H. Koelbel , David B. Loveman , Robert S. Schreiber , Guy L. Steele, Jr. , Mary E. Zosel, The high performance Fortran handbook, MIT Press, Cambridge, MA, 1994
+Ulrich Johannes Kremer, Automatic data layout for distributed memory machines, Rice University, Houston, TX, 1996
+Kremer, U. 1998. Fortran RED---A retargetable environment for automatic data layout. In Proceedings of the 11th International Workshop on Languages and Compilers for Parallel Computing. Lecture Notes in Computer Science, vol. 1656. Springer-Verlag, New York, pp. 148--165.
+Kung, H. T. and Leiserson, C. E. 1980. Chapter 8.3, Algorithms for VLSI processor arrays. In Introduction to VLSI Systems. C. Mead and L. Conway, Eds. Addison-Wesley, Reading, Mass.
+Monica Sin-Ling Lam, A systolic array optimizing compiler, Carnegie Mellon University, Pittsburgh, PA, 1987
+Lee, P.-Z. 1995a. Parallel matrix multiplication algorithms on hypercube multicomputers. Int. J. High-Speed Comput. 7, 3 (Sept.), 391--406.
+PeiZong Lee, Techniques for compiling programs on distributed memory multicomputers, Parallel Computing, v.21 n.12, p.1895-1923, Dec. 1995[doi>10.1016/0167-8191(95)00052-6]
+PeiZong Lee, Efficient Algorithms for Data Distribution on Distributed Memory Parallel Computers, IEEE Transactions on Parallel and Distributed Systems, v.8 n.8, p.825-839, August 1997[doi>10.1109/71.605769]
+Lee, P.-Z. and Chen, W. Y. 1997. Generating global name-space communication sets for array assignment statements. Tech. Rep. TR-IIS-97-016, Institute of Information Science, Academia Sinica, Taipei, Taiwan, available via WWW at http://www.iis.sinica.edu.tw/~leepe/PAPER/tr97016.ps.
+P. Lee , Z. M. Kedem, Synthesizing Linear Array Algorithms from Nested FOR Loop Algorithms, IEEE Transactions on Computers, v.37 n.12, p.1578-1598, December 1988[doi>10.1109/12.9735]
+P. Z. Lee , Z. M. Kedem, Mapping Nested Loop Algorithms into Multidimensional Systolic Arrays, IEEE Transactions on Parallel and Distributed Systems, v.1 n.1, p.64-76, January 1990[doi>10.1109/71.80125]
+PeiZong Lee , Zvi M. Kedem, On high-speed computing with a programmable linear array, The Journal of Supercomputing, v.4 n.3, p.223-249, Sep. 1990[doi>10.1007/BF00127833]
+Jingke Li , Marina Chen, Generating explicit communication from shared-memory program references, Proceedings of the 1990 ACM/IEEE conference on Supercomputing, p.865-876, October 1990, New York, New York, USA
+J. Li , M. Chen, Compiling Communication-Efficient Programs for Massively Parallel Machines, IEEE Transactions on Parallel and Distributed Systems, v.2 n.3, p.361-376, July 1991[doi>10.1109/71.86111]
+Jingke Li , Marina Chen, The data alignment phase in compiling programs for distributed-memory machines, Journal of Parallel and Distributed Computing, v.13 n.2, p.213-221, Oct. 1991[doi>10.1016/0743-7315(91)90090-V]
+Amy W. Lim , Gerald I. Cheong , Monica S. Lam, An affine partitioning algorithm to maximize parallelism and minimize communication, Proceedings of the 13th international conference on Supercomputing, p.228-237, June 20-25, 1999, Rhodes, Greece[doi>10.1145/305138.305197]
+Amy Lim , Monica S. Lam, Communication-Free Parallelization via Affine Transformations, Proceedings of the 7th International Workshop on Languages and Compilers for Parallel Computing, p.92-106, August 08-10, 1994
+Amy W. Lim , Monica S. Lam, Maximizing parallelism and minimizing synchronization with affine partitions, Parallel Computing, v.24 n.3-4, p.445-475, May, 1998[doi>10.1016/S0167-8191(98)00021-0]
+Kathryn S. McKinley , Steve Carr , Chau-Wen Tseng, Improving data locality with loop transformations, ACM Transactions on Programming Languages and Systems (TOPLAS), v.18 n.4, p.424-453, July 1996[doi>10.1145/233561.233564]
+Dan I Moldovan , Jose A. B Fortes, Partitioning and Mapping Algorithms into Fixed Size Systolic Arrays, IEEE Transactions on Computers, v.35 n.1, p.1-12, January 1986[doi>10.1109/TC.1986.1676652]
+MPICH. 1996. MPICH, a portable implementation of MPI. Tech. rep., Argonne National Labortory and University of Chicago.
+Ning, Q., Dongen, V. V., and Gao, G. R. 1995. Automatic data and computation decomposition for distributed memory machines. Paral. Proc. Lett. 5, 4, 539--550.
+Daniel Joseph Palermo , Prithviraj Banerjee, Compiler techniques for optimizing communication and data distribution for distributed-memory multicomputers, University of Illinois at Urbana-Champaign, Champaign, IL, 1996
+C. D. Polychronopoulos, Compiler Optimizations for Enhancing Parallelism and Their Impact on Architecture Design, IEEE Transactions on Computers, v.37 n.8, p.991-1004, August 1988[doi>10.1109/12.2249]
+J. Ramanujam , P. Sadayappan, Compile-Time Techniques for Data Distribution in Distributed Memory Machines, IEEE Transactions on Parallel and Distributed Systems, v.2 n.4, p.472-482, October 1991[doi>10.1109/71.97903]
+Ramanujam, J. and Sadayappan, P. 1992. Tiling multidimensional iteration spaces for multicomputers. J. Paral. Distrib. Comput. 16, 108--120.
+Hudson Benedito Ribas, Automatic generation of systolic programs from nested loops, Carnegie Mellon University, Pittsburgh, PA, 1990
+A. Rogers , K. Pingali, Compiling for Distributed Memory Architectures, IEEE Transactions on Parallel and Distributed Systems, v.5 n.3, p.281-298, March 1994[doi>10.1109/71.277789]
+W. Shang , J. A. B. Fortes, On Time Mapping of Uniform Dependence Algorithms into Lower Dimensional Processor Arrays, IEEE Transactions on Parallel and Distributed Systems, v.3 n.3, p.350-363, May 1992[doi>10.1109/71.139208]
+Kuei-Ping Shih , Jang-Ping Sheu , Chua-Huang Huang, Statement-Level Communication-Free Partitioning Techniques for Parallelizing Compilers, Proceedings of the 9th International Workshop on Languages and Compilers for Parallel Computing, p.389-403, August 08-10, 1996
+Strikwerda, J. C. 1989. Chapter 7.3 The Alternating Direction Implicit (ADI) Method. In Finite Difference Schemes and Partial Differential Equations. Wadsworth & Brooks/Cole Advanced Books & Software, Pacific Grove, Calif., pp. 142--153.
+Ping S. Tseng, A  Systolic Array Parallelizing Compiler, Kluwer Academic Publishers, Norwell, MA, 1990
+M. E. Wolf , M. S. Lam, A Loop Transformation Theory and an Algorithm to Maximize Parallelism, IEEE Transactions on Parallel and Distributed Systems, v.2 n.4, p.452-471, October 1991[doi>10.1109/71.97902]
+Michael Joseph Wolfe , Carter Shanklin , Leda Ortega, High Performance Compilers for Parallel Computing, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1995
+Jan-Jan Wu, Optimization and transformation techniques for high performance Fortran, Yale University, New Haven, CT, 1996
+Raja Das , Janet Wu , Joel Saltz , Harry Berryman , Seema Hiranandani, Distributed Memory Compiler Design For Sparse Problems, IEEE Transactions on Computers, v.44 n.6, p.737-753, June 1995[doi>10.1109/12.391186]
+Jingling Xue, Communication-minimal tiling of uniform dependence loops, Journal of Parallel and Distributed Computing, v.42 n.1, p.42-59, April 10, 1997[doi>10.1006/jpdc.1997.1310]
+Hans Zima , Barbara Chapman, Supercompilers for parallel and vector computers, ACM, New York, NY, 1990
+Zima, H. and Chapman, B. 1993. Compiling for distributed-memory systems. Proc. IEEE 81, 2 (Feb.), 264--287.

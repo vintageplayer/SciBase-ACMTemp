@@ -1,0 +1,64 @@
+Hiralal Agrawal , Joseph R. Horgan, Dynamic program slicing, Proceedings of the ACM SIGPLAN 1990 conference on Programming language design and implementation, p.246-256, June 1990, White Plains, New York, USA[doi>10.1145/93542.93576]
+Anderson, P., Binkley, D., Rosay, G., and Teitelbaum, T. 2001. Flow insensitive points-to sets. In Proceedings of the 1st IEEE Workshop on Source Code Analysis and Manipulation (Florence, Italy). IEEE Computer Society Press, Los Alamitos, CA, 79--89.
+Françoise Balmas, Using Dependence Graphs as a Support to Document Programs, Proceedings of the Second IEEE International Workshop on Source Code Analysis and Manipulation, p.145, October 01-01, 2002
+Beszédes, A. and Gyimóthy, T. 2002. Union slices for the approximation of the precise slice. In Proceedings of the IEEE International Conference on Software Maintenance (Montreal, Que, Canada). IEEE Computer Society Press, Los Alamitos, CA, 12--20.
+J. M. Bieman , L. M. Ott, Measuring Functional Cohesion, IEEE Transactions on Software Engineering, v.20 n.8, p.644-657, August 1994[doi>10.1109/32.310673]
+David Binkley , Mark Harman, Forward slices are smaller than backward slices, Proceedings of the Fifth IEEE International Workshop on Source Code Analysis and Manipulation, p.15-24, September 30-October 01, 2005[doi>10.1109/SCAM.2005.28]
+David Binkley , Mark Harman, Locating Dependence Clusters and Dependence Pollution, Proceedings of the 21st IEEE International Conference on Software Maintenance, p.177-186, September 25-30, 2005[doi>10.1109/ICSM.2005.58]
+Binkley, D. W. 1998. The application of program slicing to regression testing. Inf. Softw. Technol. Special Issue on Program Slicing 40, 11 and 12, 583--594.
+Binkley, D. W. and Gallagher, K. B. 1996. Program slicing. In Adv. Comput. 43 Academic Press, Orlando, FL, 1--50.
+David Binkley , Mark Harman, A Large-Scale Empirical Study of Forward and Backward Static Slice Size and Context Sensitivity, Proceedings of the International Conference on Software Maintenance, p.44, September 22-26, 2003
+Binkley, D. W. and Harman, M. 2003b. Results from a large--scale study of performance optimization techniques for source code analyses based on graph reachability algorithms. In Proceedings of the IEEE International Workshop on Source Code Analysis and Manipulation (SCAM 2003) (Amsterdam, The Netherlands). IEEE Computer Society Press, Los Alamitos, CA, 203--212.
+David Binkley , Mark Harman, Analysis and Visualization of Predicate Dependence on Formal Parameters and Global Variables, IEEE Transactions on Software Engineering, v.30 n.11, p.715-735, November 2004[doi>10.1109/TSE.2004.78]
+David Binkley , L. Ross Raszewski , Christopher Smith , Mark Harman, An Empirical Study of Amorphous Slicing as a Program Comprehension Support Tool, Proceedings of the 8th International Workshop on Program Comprehension, p.161, June 10-11, 2000
+David Binkley , Susan Horwitz , Thomas Reps, Program integration for languages with procedure calls, ACM Transactions on Software Engineering and Methodology (TOSEM), v.4 n.1, p.3-35, Jan. 1995[doi>10.1145/201055.201056]
+Sue Black, Computing ripple effect for software maintenance, Journal of Software Maintenance: Research and Practice, v.13 n.4, p.263, July-August 2001
+Gerardo Canfora , Aniello Cimitile , Andrea De Lucia , Giuseppe A. Di Lucca, Software Salvaging Based on Conditions, Proceedings of the International Conference on Software Maintenance, p.424-433, September 01, 1994
+Canfora, G., Cimitile, A., and Munro, M. 1994b. RE<sup>2</sup>: Reverse engineering and reuse re-engineering. J. Softw. Mainten.: Res. Pract. 6, 2, 53--72.
+Trishul M. Chilimbi , Bob Davidson , James R. Larus, Cache-conscious structure definition, Proceedings of the ACM SIGPLAN 1999 conference on Programming language design and implementation, p.13-24, May 01-04, 1999, Atlanta, Georgia, USA[doi>10.1145/301618.301635]
+A. Cimitile , A. De Lucia , M. Munro, Identifying reusable functions using specification driven program slicing: a case study, Proceedings of the International Conference on Software Maintenance, p.124, October 17-20, 1995
+A. Cimitile , A. De Lucia , M. Munro, Qualifying reusable functions using symbolic execution, Proceedings of the Second Working Conference on Reverse Engineering, p.178, July 14-16, 1995
+Building Executable Union Slices using Conditioned Slicing, Proceedings of the 12th IEEE International Workshop on Program Comprehension, p.89, June 24-26, 2004
+T. Eisenbarth , R. Koschke , G. Vogel, Static Trace Extraction, Proceedings of the Ninth Working Conference on Reverse Engineering (WCRE'02), p.128, October 29-November 01, 2002
+Manuel Fähndrich , Jeffrey S. Foster , Zhendong Su , Alexander Aiken, Partial online cycle elimination in inclusion constraint graphs, Proceedings of the ACM SIGPLAN 1998 conference on Programming language design and implementation, p.85-96, June 17-19, 1998, Montreal, Quebec, Canada[doi>10.1145/277650.277667]
+Jeanne Ferrante , Karl J. Ottenstein , Joe D. Warren, The program dependence graph and its use in optimization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.9 n.3, p.319-349, July 1987[doi>10.1145/24039.24041]
+Charles N. Fischer , Richard J. LeBlanc, Jr., Crafting a compiler, Benjamin-Cummings Publishing Co., Inc., Redwood City, CA, 1988
+Backward Conditioning: A New Program Specialisation Technique and Its Application to Program Comprehension, Proceedings of the 9th International Workshop on Program Comprehension, p.89, May 12-13, 2001
+Keith Brian Gallagher , James R. Lyle, Using Program Slicing in Software Maintenance, IEEE Transactions on Software Engineering, v.17 n.8, p.751-761, August 1991[doi>10.1109/32.83912]
+Harman, M. and Danicic, S. 1995. Using program slicing to simplify testing. Softw. Test. Verif. Reliab. 5, 3 (Sept.), 143--162.
+Harman, M. and Hierons, R. M. 2001. An overview of program slicing. Softw. Focus 2, 3, 85--92.
+Mark Harman , Rob Hierons , Chris Fox , Sebastian Danicic , John Howroyd , Mike Laurence, Node Coarsening Calculi for Program Slicing, Proceedings of the Eighth Working Conference on Reverse Engineering (WCRE'01), p.25, October 02-05, 2001
+Nevin Heintze , Olivier Tardieu, Ultra-fast aliasing analysis using CLA: a million lines of C code in a second, Proceedings of the ACM SIGPLAN 2001 conference on Programming language design and implementation, p.254-263, June 2001, Snowbird, Utah, USA[doi>10.1145/378795.378855]
+Hierons, R. M., Harman, M., and Danicic, S. 1999. Using program slicing to assist in the detection of equivalent mutants. Softw. Test. Verif. Reliab. 9, 4, 233--262.
+Hierons, R. M., Harman, M., Fox, C., Ouarbya, L., and Daoudi, M. 2002. Conditioned slicing supports partition testing. Softw. Test., Verif. Reliab. 12, 23--28.
+S. Horwitz , P. Pfeiffer , T. Reps, Dependence analysis for pointer variables, Proceedings of the ACM SIGPLAN 1989 Conference on Programming language design and implementation, p.28-40, June 19-23, 1989, Portland, Oregon, USA[doi>10.1145/73141.74821]
+Susan Horwitz , Jan Prins , Thomas Reps, Integrating noninterfering versions of programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.11 n.3, p.345-387, July 1989[doi>10.1145/65979.65980]
+S. Horwitz , T. Reps , D. Binkley, Interprocedural slicing using dependence graphs, ACM SIGPLAN Notices, v.23 n.7, p.35-46, July 1988[doi>10.1145/960116.53994]
+Susan Horwitz , Thomas Reps , David Binkley, Interprocedural slicing using dependence graphs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.1, p.26-60, Jan. 1990[doi>10.1145/77606.77608]
+Daniel Jackson , Eugene J. Rollins, Chopping: A Generalization of Slicing, Carnegie Mellon University, Pittsburgh, PA, 1994
+Rainer Koschke, An Incremental Semi-Automatic Method for Component Recovery, Proceedings of the Sixth Working Conference on Reverse Engineering, p.256, October 06-08, 1999
+Evaluating Context-Sensitive Slicing and Chopping, Proceedings of the International Conference on Software Maintenance (ICSM'02), p.22, October 03-06, 2002
+Krinke, J. 2003. Advanced slicing of sequential and concurrent programs. Ph.D. dissertation, Universität Passau.
+Yong-Fong Lee , Barbara G. Ryder, Effectively exploiting parallelism in data flow analysis, The Journal of Supercomputing, v.8 n.3, p.233-262, Nov. 1994[doi>10.1007/BF01204730]
+Donglin Liang , Mary Jean Harrold, Efficient points-to analysis for whole-program analysis, Proceedings of the 7th European software engineering conference held jointly with the 7th ACM SIGSOFT international symposium on Foundations of software engineering, p.199-215, September 06-10, 1999, Toulouse, France
+Longworth, H. D., Ott, L. M., and Smith, M. R. 1986. The relationship between program complexity and slice complexity during debugging tasks. In Proceedings of the Computer Software and Applications Conference (COMPSAC'86). 383--389.
+Timothy M. Meyers , David Binkley, Slice-Based Cohesion Metrics and Software Intervention, Proceedings of the 11th Working Conference on Reverse Engineering, p.256-265, November 08-12, 2004
+Markus Mock , Darren C. Atkinson , Craig Chambers , Susan J. Eggers, Improving program slicing with dynamic points-to data, Proceedings of the 10th ACM SIGSOFT symposium on Foundations of software engineering, November 18-22, 2002, Charleston, South Carolina, USA[doi>10.1145/587051.587062]
+H. A. Müller , K. Klashinsky, Rigi-A system for programming-in-the-large, Proceedings of the 10th international conference on Software engineering, p.80-86, April 11-15, 1988, Singapore
+Ott, L. M. 1992. Using slice profiles and metrics during software maintenance. In Proceedings of the 10th Annual Software Reliability Symposium. 16--23.
+Ott, L. M. and Bieman, J. M. 1992. Effects of software changes on module cohesion. In Proceedings of the IEEE Conference on Software Maintenance. IEEE Computer Society Press, Los Alamitos, CA, 345--353.
+Linda M. Ott , Jeffrey J. Thuss, The relationship between slices and module cohesion, Proceedings of the 11th international conference on Software engineering, p.198-204, May 1989, Pittsburgh, Pennsylvania, USA[doi>10.1145/74587.74614]
+Ott, L. M. and Thuss, J. J. 1993. Slice based metrics for estimating cohesion. In Proceedings of the IEEE-CS International Metrics Symposium (Baltimore, MA). IEEE Computer Society Press, Los Alamitos, CA, 71--81.
+Karl J. Ottenstein , Linda M. Ottenstein, The program dependence graph in a software development environment, ACM SIGPLAN Notices, v.19 n.5, p.177-184, May 1984[doi>10.1145/390011.808263]
+A. Podgurski , L. A. Clarke, A Formal Model of Program Dependences and its Implications for Software Testing, Debugging, and Maintenance, IEEE Transactions on Software Engineering, v.16 n.9, p.965-979, September 1990[doi>10.1109/32.58784]
+Reps, T. 1998. Program analysis via graph reachability. Inf. Softw. Tech. Special Issue on Program Slicing 40, 11 and 12, 701--726.
+Thomas Reps , Susan Horwitz , Mooly Sagiv , Genevieve Rosay, Speeding up slicing, Proceedings of the 2nd ACM SIGSOFT symposium on Foundations of software engineering, p.11-20, December 06-09, 1994, New Orleans, Louisiana, USA[doi>10.1145/193173.195287]
+Rilling, J., Seffah, A., and Lukas, J. 2001. MOOSE -- A software comprehension framework. In Proceedings of the 5th World Multi-Conference on Systemics, Cybernetics and Informatics (Orlando, FL). 312--318.
+Atanas Rountev , Satish Chandra, Off-line variable substitution for scaling points-to analysis, ACM SIGPLAN Notices, v.35 n.5, p.47-56, May 2000[doi>10.1145/358438.349310]
+Gregor Snelting , Torsten Robschink , Jens Krinke, Efficient path conditions in dependence graphs for software safety analysis, ACM Transactions on Software Engineering and Methodology (TOSEM), v.15 n.4, p.410-457, October 2006[doi>10.1145/1178625.1178628]
+Tip, F. 1995. A survey of program slicing techniques. J. Prog. Lang. 3, 3 (Sept.), 121--189.
+Mark David Weiser, Program slices: formal, psychological, and practical investigations of an automatic program abstraction method, University of Michigan, Ann Arbor, MI, 1979
+Mark Weiser, Program slicing, Proceedings of the 5th international conference on Software engineering, p.439-449, March 09-12, 1981, San Diego, California, USA
+Mark Weiser, Programmers use slices when debugging, Communications of the ACM, v.25 n.7, p.446-452, July 1982[doi>10.1145/358557.358577]
+Weiser, M. 1984. Program slicing. IEEE Trans. Softw. Engin. 10, 4, 352--357.
+Jianjun Zhao, Slicing Aspect-Oriented Software, Proceedings of the 10th International Workshop on Program Comprehension, p.251, June 27-29, 2002

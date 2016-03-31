@@ -1,0 +1,67 @@
+Stephen E. Paynter , Neil Henderson , James M. Armstrong, Metastability in Asynchronous Wait-Free Protocols, IEEE Transactions on Computers, v.55 n.3, p.292-303, March 2006
+Sebastian Burckhardt , Rajeev Alur , Milo M. K. Martin, Bounded model checking of concurrent data types on relaxed memory models: a case study, Proceedings of the 18th international conference on Computer Aided Verification, August 17-20, 2006, Seattle, WA
+Prasad Jayanti , Srdjan Petrovic, Efficiently implementing a large number of LL/SC objects, Proceedings of the 9th international conference on Principles of Distributed Systems, December 12-14, 2005, Pisa, Italy
+Ambuj K. Singh , James H. Anderson , Mohamed G. Gouda, The elusive atomic register revisited, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.206-221, August 10-12, 1987, Vancouver, British Columbia, Canada
+Bard Bloom, Constructing two-writer atomic registers, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.249-259, August 10-12, 1987, Vancouver, British Columbia, Canada
+S. Haldar , K. Vidyasankar, Buffer-Optimal Constructions of 1-Writer Multireader Multivalued Atomic Shared Variables, Journal of Parallel and Distributed Computing, v.31 n.2, p.174-180, Dec. 1995
+Cynthia Dwork , Orli Waarts, Simple and efficient bounded concurrent timestamping or bounded concurrent timestamp systems are comprehensible!, Proceedings of the twenty-fourth annual ACM symposium on Theory of computing, p.655-666, May 04-06, 1992, Victoria, British Columbia, Canada
+Richard Newman-Wolfe, A protocol for wait-free, atomic, multi-reader shared variables, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.232-248, August 10-12, 1987, Vancouver, British Columbia, Canada
+B. Bloom, Constructing Two-Writer Atomic Registers, IEEE Transactions on Computers, v.37 n.12, p.1506-1514, December 1988
+Shai Ben-David, The global time assumption and semantics for concurrent systems, Proceedings of the seventh annual ACM Symposium on Principles of distributed computing, p.223-231, August 15-17, 1988, Toronto, Ontario, Canada
+Gary L. Peterson , James E. Burns, Concurrent reading while writing II: The multi-writer case, Proceedings of the 28th Annual Symposium on Foundations of Computer Science, p.383-392, October 12-14, 1987
+S. Haldar , K. Vidyasankar, Constructing 1-writer multireader multivalued atomic variables from regular variables, Journal of the ACM (JACM), v.42 n.1, p.186-203, Jan. 1995
+Philippe Stellwag , Wolfgang Schröder-Preikschat , Daniel Lohmann, An asynchronous nonblocking coordination and synchronization protocol for a parallel robotic control kernel, Proceedings of the Second Workshop on Isolation and Integration in Embedded Systems, p.7-12, March 31-31, 2009, Nuremburg, Germany
+James E. Burns , Gary L. Peterson, Constructing multi-reader atomic values from non-atomic values, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.222-231, August 10-12, 1987, Vancouver, British Columbia, Canada
+Marshall K. McKusick , William N. Joy , Samuel J. Leffler , Robert S. Fabry, A fast file system for UNIX, ACM Transactions on Computer Systems (TOCS), v.2 n.3, p.181-197, Aug. 1984
+Ittai Abraham , Gregory Chockler , Idit Keidar , Dahlia Malkhi, Wait-free regular storage from Byzantine components, Information Processing Letters, v.101 n.2, p.60-65, January, 2007
+Vivek Shikaripura , Ajay D. Kshemkalyani, A Simple, Memory-Efficient Bounded Concurrent Timestamping Algorithm, Proceedings of the 13th International Symposium on Algorithms and Computation, p.550-562, November 21-23, 2002
+M. P. Herlihy , J. E. B. Moss, Lock-Free Garbage Collection for Multiprocessors, IEEE Transactions on Parallel and Distributed Systems, v.3 n.3, p.304-311, May 1992
+Yuh-Jzer Joung, Asynchronous group mutual exclusion (extended abstract), Proceedings of the seventeenth annual ACM symposium on Principles of distributed computing, p.51-60, June 28-July 02, 1998, Puerto Vallarta, Mexico
+James Anderson, Composite registers, Proceedings of the ninth annual ACM symposium on Principles of distributed computing, p.15-29, August 22-24, 1990, Quebec City, Quebec, Canada
+Amos Israeli , Ming Li, Bounded time-stamps, Proceedings of the 28th Annual Symposium on Foundations of Computer Science, p.371-382, October 12-14, 1987
+Amos Israeli , Amnon Shaham, Time and space optimal implementations of atomic multi-writer register, Information and Computation, v.200 n.1, p.62-106, 1 July 2005
+Amos Israeli , Amnon Shaham, Time and space optimal implementations of atomic multi-writer register, Information and Computation, v.200 n.1, p.62-106, 1 July 2005
+Rida A. Bazzi , Gil Neiger , Gary L. Peterson, On the use of registers in achieving wait-free consensus, Proceedings of the thirteenth annual ACM symposium on Principles of distributed computing, p.354-362, August 14-17, 1994, Los Angeles, California, United States
+Ambuj K. Singh , James H. Anderson , Mohamed G. Gouda, The elusive atomic register, Journal of the ACM (JACM), v.41 n.2, p.311-339, March 1994
+Cynthia Dwork , Orli Waarts, Simple and efficient bounded concurrent timestamping and the traceable use abstraction, Journal of the ACM (JACM), v.46 n.5, p.633-666, Sept. 1999
+Prasad Jayanti,f-arrays: implementation and applications, Proceedings of the twenty-first annual symposium on Principles of distributed computing, July 21-24, 2002, Monterey, California
+J. E. Burns , G. L. Peterson, The ambiguity of choosing, Proceedings of the eighth annual ACM Symposium on Principles of distributed computing, p.145-157, June 1989, Edmonton, Alberta, Canada
+Danny Dolev , Eli Gafni , Nir Shavit, Toward a non-atomic era: l-exclusion as a test case, Proceedings of the twentieth annual ACM symposium on Theory of computing, p.78-92, May 02-04, 1988, Chicago, Illinois, United States
+Sibsankar Haldar , K. Vidyasankar, On space-optimality of buffer-based conflict-free constructions of 1-writer 1-reader multivalued atomic variables from safe bits, Journal of Parallel and Distributed Computing, v.69 n.1, p.20-27, January, 2009
+Thomas Moscibroda , Rotem Oshman, Resilience of mutual exclusion algorithms to transient memory faults, Proceedings of the 30th annual ACM SIGACT-SIGOPS symposium on Principles of distributed computing, June 06-08, 2011, San Jose, California, USA
+Vassos Hadzilacos, A Quarter-Century of Wait-Free Synchronization, ACM SIGACT News, v.46 n.2, June 2015
+Michel Raynal, Wait-free computing: an introductory lecture, Future Generation Computer Systems, v.21 n.5, p.655-663, May 2005
+T. J. LeBlanc , J. M. Mellor-Crummey, Debugging Parallel Programs with Instant Replay, IEEE Transactions on Computers, v.36 n.4, p.471-482, April 1987
+Yehuda Afek , David S. Greenberg , Michael Merritt , Gadi Taubenfeld, Computing with faulty shared memory, Proceedings of the eleventh annual ACM symposium on Principles of distributed computing, p.47-58, August 10-12, 1992, Vancouver, British Columbia, Canada
+Michel Raynal, Wait-free computing: an introductory lecture, Future Generation Computer Systems, v.21 n.5, p.655-663, May 2005
+J. Aspnes , M. Herlihy, Wait-free data structures in the asynchronous PRAM model, Proceedings of the second annual ACM symposium on Parallel algorithms and architectures, p.340-349, July 02-06, 1990, Island of Crete, Greece
+Maurice P. Herlihy , J. E. B. Moss, Lock-free garbage collection for multiprocessors, Proceedings of the third annual ACM symposium on Parallel algorithms and architectures, p.229-236, July 21-24, 1991, Hilton Head, South Carolina, USA
+Zahra Aghazadeh , Wojciech Golab , Philipp Woelfel, Making objects writable, Proceedings of the 2014 ACM symposium on Principles of distributed computing, July 15-18, 2014, Paris, France
+Phuong Hoai Ha , Philippas Tsigas , Otto J. Anshus, Non-blocking programming on multi-core graphics processors: (extended asbtract), ACM SIGARCH Computer Architecture News, v.36 n.5, December 2008
+Paul M. B. Vitányi, Simple Wait-Free Multireader Registers, Proceedings of the 16th International Conference on Distributed Computing, p.118-132, October 28-30, 2002
+Maurice P. Herlihy, Impossibility and universality results for wait-free synchronization, Proceedings of the seventh annual ACM Symposium on Principles of distributed computing, p.276-290, August 15-17, 1988, Toronto, Ontario, Canada
+Rida A. Bazzi , Gil Neiger , Gary L. Peterson, On the use of registers in achieving wait-free consensus, Distributed Computing, v.10 n.3, p.117-127, April 1997
+H. Attiya , D. Dolev , N. Shavit, Bounded polynomial randomized consensus, Proceedings of the eighth annual ACM Symposium on Principles of distributed computing, p.281-293, June 1989, Edmonton, Alberta, Canada
+Yuh-Jzer Joung, Asynchronous group mutual exclusion, Distributed Computing, v.13 n.4, p.189-206, November 2000
+Hai Huang , Padmanabhan Pillai , Kang G. Shin, Improving Wait-Free Algorithms for Interprocess Communication in Embedded Real-Time Systems, Proceedings of the General Track of the annual conference on USENIX Annual Technical Conference, p.303-316, June 10-15, 2002
+Ming Li , John Tromp , Paul M. B. Vitányi, How to share concurrent wait-free variables, Journal of the ACM (JACM), v.43 n.4, p.723-746, July 1996
+James H. Anderson, Composite registers, Distributed Computing, v.6 n.3, p.141-154, April 1993
+Maurice Herlihy, Wait-free synchronization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.1, p.124-149, Jan. 1991
+Maurice Herlihy, Randomized wait-free concurrent objects (extended abstract), Proceedings of the tenth annual ACM symposium on Principles of distributed computing, p.11-21, August 19-21, 1991, Montreal, Quebec, Canada
+D. Dolev , N. Shavit, Bounded concurrrent time-stamp systems are constructible, Proceedings of the twenty-first annual ACM symposium on Theory of computing, p.454-466, May 14-17, 1989, Seattle, Washington, USA
+Maurice Herlihy, Impossibility results for asynchronous PRAM (extended abstract), Proceedings of the third annual ACM symposium on Parallel algorithms and architectures, p.327-336, July 21-24, 1991, Hilton Head, South Carolina, USA
+P. D.  V. Van Der Stok , A. H.  T. Janssen-Raemaekers, Real-Time Atomic Multicast Algorithms Implemented on a Shared Memory Multiprocessor, Real-Time Systems, v.24 n.1, p.55-91, January 2003
+James H. Anderson , Srikanth Ramamurthy , Kevin Jeffay, Real-time computing with lock-free shared objects, ACM Transactions on Computer Systems (TOCS), v.15 n.2, p.134-165, May 1997
+Yehuda Afek , Hagit Attiya , Danny Dolev , Eli Gafni , Michael Merritt , Nir Shavit, Atomic snapshots of shared memory, Journal of the ACM (JACM), v.40 n.4, p.873-890, Sept. 1993
+Yehuda Afek , Danny Dolev , Hagit Attiya , Eli Gafni , Michael Merritt , Nir Shavit, Atomic snapshots of shared memory, Proceedings of the ninth annual ACM symposium on Principles of distributed computing, p.1-13, August 22-24, 1990, Quebec City, Quebec, Canada
+Panagiota Fatourou , Nikolaos D. Kallimanis, Time-optimal, space-efficient single-scanner snapshots & multi-scanner snapshots using CAS, Proceedings of the twenty-sixth annual ACM symposium on Principles of distributed computing, August 12-15, 2007, Portland, Oregon, USA
+Hagit Brit , Shlomo Moran, Wait-freedom vs. bounded wait-freedom in public data structures (extended abstract), Proceedings of the thirteenth annual ACM symposium on Principles of distributed computing, p.52-60, August 14-17, 1994, Los Angeles, California, United States
+M. Herlihy, A methodology for implementing highly concurrent data structures, ACM SIGPLAN Notices, v.25 n.3, p.197-206, Mar. 1990
+John Tromp , Paul Vitányi, Randomized two-process wait-free test-and-set, Distributed Computing, v.15 n.3, p.127-135, July 2002
+James H. Anderson, Multi-writer composite registers, Distributed Computing, v.7 n.4, p.175-195, May 1994
+Sibsankar Haldar , Paul Vitányi, Bounded concurrent timestamp systems using vector clocks, Journal of the ACM (JACM), v.49 n.1, p.101-126, January 2002
+Yehuda Afek , David S. Greenberg , Michael Merritt , Gadi Taubenfeld, Computing with faulty shared objects, Journal of the ACM (JACM), v.42 n.6, p.1231-1274, Nov. 1995
+Maurice Herlihy, A methodology for implementing highly concurrent data objects, ACM Transactions on Programming Languages and Systems (TOPLAS), v.15 n.5, p.745-770, Nov. 1993
+Hagit Attiya , Nancy Lynch , Nir Shavit, Are wait-free algorithms fast?, Journal of the ACM (JACM), v.41 n.4, p.725-763, July 1994
+James H. Anderson, Lamport on mutual exclusion: 27 years of planting seeds, Proceedings of the twentieth annual ACM symposium on Principles of distributed computing, p.3-12, August 2001, Newport, Rhode Island, USA
+Nancy A. Lynch, Distributed Algorithms, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1996

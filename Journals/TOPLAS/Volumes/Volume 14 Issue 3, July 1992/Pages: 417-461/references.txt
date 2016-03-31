@@ -1,0 +1,36 @@
+ABADI, M., AND LAMPORT, L. The existence of refinement mappings. Tech. Rep. 29, Digital Systems Research Center, Palo Alto, Calif., Aug. 1988.
+R. J. R. Back , R. Kurki-Suonio, Decentralization of process nets with centralized control, Proceedings of the second annual ACM symposium on Principles of distributed computing, p.131-142, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806716]
+R. J. R. Back , F. Kurki-Suonio, Distributed cooperation with action systems, ACM Transactions on Programming Languages and Systems (TOPLAS), v.10 n.4, p.513-554, Oct. 1988[doi>10.1145/48022.48023]
+Arthur Bernstein , Paul K. Harter, Jr., Proving real-time properties of programs with temporal logic, Proceedings of the eighth ACM symposium on Operating systems principles, p.1-11, December 14-16, 1981, Pacific Grove, California, USA[doi>10.1145/800216.806585]
+Mani Chandy , Jayadev Misra, An example of stepwise refinement of distributed programs: quiescence detection, ACM Transactions on Programming Languages and Systems (TOPLAS), v.8 n.3, p.326-343, July 1986[doi>10.1145/5956.5958]
+K. Mani Chandy, Parallel program design: a foundation, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1988
+Edsger Wybe Dijkstra, A  Discipline of Programming, Prentice Hall PTR, Upper Saddle River, NJ, 1997
+DIJKSTRA, E.W. The distribution snapshot of K. M. Chandy and L. Lamport. Tech. Rep. EWD-864, Univ. of Texas at Austin, Nov. 1983.
+DIJKSTRA, E. W. Derivation of a termination detection algorithm for distributed computations. Tech. Rep. EWD-840, Umv. of Texas at Austin.
+DIJKSTRA, E. W., AND SC~OLTEN C. S. Termination detection for diffusing computations. Inf. Process Lett. 11, I (Aug. 1980), 1-4.
+Edsger W. Dijkstra , Leslie Lamport , A. J. Martin , C. S. Scholten , E. F. M. Steffens, On-the-fly garbage collection: an exercise in cooperation, Communications of the ACM, v.21 n.11, p.966-975, Nov. 1978[doi>10.1145/359642.359655]
+HAILPERN, B. T., AND OWICKI, S. S Modular verificatlon of computer communication
+C. A. R. Hoare, Communicating sequential processes, Prentice-Hall, Inc., Upper Saddle River, NJ, 1985
+F Jahanian , A K Mok, Safety analysis of timing properties in real-time systems, IEEE Transactions on Software Engineering, v.12 n.9, p.890-904, Sept. 1986
+KNUTH, D.E. Verification of }ink-level protocols. BIT 21 (1981), 31-36.
+Ron Koymans , R. K. Shyamasundar , Willem P. de Roever , Rob Gerth , S. Arun-Kumar, Compositional Semantics for Real-time Distributed Computing, Proceedings of the Conference on Logic of Programs, p.167-189, June 17-19, 1985
+LAM, S. S., AND SHANKAR, A U. Protocol verification via projections. IEEE Trans. Softw. Eng. SE-IO, 4 (July 1984), 325-342.
+Simon S. Lam , A. Udaya Shankar, A Relational Notation for State Transition Systems, IEEE Transactions on Software Engineering, v.16 n.7, p.755-775, July 1990[doi>10.1109/32.56101]
+Simon S. Lam , A. Udaya Shankar, Specifying modules to satisfy interfaces: a state transition system approach, University of Maryland at College Park, College Park, MD, 1988
+Simon S. Lam , A. Udaya Shankar, A Composition Theorem for Layered Systems, Proceedings of the IFIP WG6.1 International Symposium on Protocol Specification, Testing and Verification XI, p.93-108, June 18-20, 1991
+Leslie Lamport, Specifying Concurrent Program Modules, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.2, p.190-222, April 1983[doi>10.1145/69624.357207]
+Leslie Lamport, What it means for a concurrent program to satisfy a specification: why no one has specified priority, Proceedings of the 12th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.78-83, January 14-16, 1985, New Orleans, Louisiana, USA[doi>10.1145/318593.318616]
+Leslie Lamport, A simple approach to specifying concurrent systems, Communications of the ACM, v.32 n.1, p.32-45, Jan. 1989[doi>10.1145/63238.63240]
+Nancy A. Lynch , Mark R. Tuttle, Hierarchical correctness proofs for distributed algorithms, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.137-151, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41852]
+Zohar Manna , Amir Pnueli, Adequate proof principles for invariance and liveness properties of concurrent programs, Science of Computer Programming, v.4 n.3, p.257-289, Dec. 1984[doi>10.1016/0167-6423(84)90003-0]
+Sandra Lynn Murphy, Service specification and protocol construction for a layered architecture, University of Maryland at College Park, College Park, MD, 1990
+S. L. Murphy , A. U. Shankar, A verified connection management protocol for the transport layer, Proceedings of the ACM workshop on Frontiers in computer communications technology, p.110-125, August 11-13, 1987, Stowe, Vermont, USA[doi>10.1145/55482.55495]
+OwIcKI, S., AND GRms, D. An axiomatic proof technique for parallel programs I. Acta Inf. 6, (1976), 319-340.
+POSTEL, J., ED. Transmission control protocoh DARPA internet program protocol specification. RFC 793, Network Information Center, SRI International, 1981.
+SASNANI, K. An algorithmic procedure for protocol verification. IEEE Trans. Commun. 36, 8 (Aug. 1988).
+A. Udaya Shankar, Verified data transfer protocols with variable flow control, ACM Transactions on Computer Systems (TOCS), v.7 n.3, p.281-316, Aug. 1989[doi>10.1145/65000.65003]
+A. Udaya Shankar, Modular design principles for protocols with an application to the transport layer, University of Maryland at College Park, College Park, MD, 1990
+A. Udaya Shankar , Simon S. Lam, An HDLC protocol specification and its verification using image protocols, ACM Transactions on Computer Systems (TOCS), v.1 n.4, p.331-368, Nov. 1983[doi>10.1145/357377.357384]
+SHANKAR, A. U., SND LAM, S.S. Time-dependent communication protocols. In Principles of Communication and Networking Protocols, S. S. Lam, Ed., IEEE Computer Soc~ety, New York, 1984.
+S~ANKAn, A. U., AND LAM, S. S. Time-dependent distributed systems: proving safety, liveness and real-time properties. Distrib. Comput 2, 2 (1987), 61-79.
+STENNING, N.V. A data transfer protocol. Comput. Networks I (Sept. 1976), 99-110.

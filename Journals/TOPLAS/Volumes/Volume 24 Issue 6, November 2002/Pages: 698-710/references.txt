@@ -1,0 +1,27 @@
+A. V. Aho , S. C. Johnson, LR Parsing, ACM Computing Surveys (CSUR), v.6 n.2, p.99-124, June 1974[doi>10.1145/356628.356629]
+Alfred V. Aho , Ravi Sethi , Jeffrey D. Ullman, Compilers: principles, techniques, and tools, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+Alfred V. Aho , Jeffrey D. Ullman, The  Theory of Parsing, Translation, and Compiling, Prentice Hall Professional Technical Reference, 1972
+S. O. Anderson , R. C. Backhouse, Locally Least-Cost Error Recovery in Earley's Algorithm, ACM Transactions on Programming Languages and Systems (TOPLAS), v.3 n.3, p.318-347, July 1981[doi>10.1145/357139.357145]
+Anderson, S., Backhouse, R., Bugge, E., and Stirling, C. 1983. An assessment of locally least-cost error recovery. Comput. J. 26, 1 (Feb.), 15--24.
+Achyutram Bhamidipaty , Todd A. Proebsting, Very fast YACC-compatible parsers (for very little effort), Software—Practice & Experience, v.28 n.2, p.181-190, Feb. 1998[doi>10.1002/(SICI)1097-024X(199802)28:2<181::AID-SPE139>3.3.CO;2-W]
+Michael G. Burke , Gerald A. Fisher, A practical method for LR and LL syntactic error diagnosis and recovery, ACM Transactions on Programming Languages and Systems (TOPLAS), v.9 n.2, p.164-197, April 1987[doi>10.1145/22719.22720]
+J. A. Dain, A practical minimum distance method for syntax error handling, Computer Languages, v.20 n.4, p.239-252, Nov. 1994[doi>10.1016/0096-0551(94)90006-X]
+Bernard Andre Dion, Locally least-cost error correctors for context-free and context-sensitive parsers., 1978
+Donnelly, C. and Stallman, R. 1990. Bison: the Yacc--compatible parser generator. Free Software Foundation, 675 Mass Ave, Cambridge, MA 0219, USA.
+Charles N. Fischer , Richard J. LeBlanc, Jr., Crafting a compiler, Benjamin-Cummings Publishing Co., Inc., Redwood City, CA, 1988
+Charles N. Fischer , Jon Mauney, A simple, fast, and effective LL(1) error repair algorithm, Acta Informatica, v.29 n.2, p.109-120, April 1992[doi>10.1007/BF01178502]
+Fischer, C., Milton, D., and Quiring, S. 1980. Efficient LL(1) error correction and recovery using only insertions. Acta Inf. 13, 2, 141--154.
+Susan L. Graham , Steven P. Rhodes, Practical syntactic error recovery, Communications of the ACM, v.18 n.11, p.639-650, Nov. 1975[doi>10.1145/361219.361223]
+Grosch, J. 1990. Efficient and comfortable error recovery in recursive descent parsers. Struct. Program. 11, 3, 19--140.
+Allen Holub, Compiler design in C, Prentice-Hall, Inc., Upper Saddle River, NJ, 1990
+John E. Hopcroft , Jeffrey D. Ullman, Introduction To Automata Theory, Languages, And Computation, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1990
+Stephen C. Johnson , Ravi Sethi, Yacc: a parser generator, UNIX Vol. II: research system (10th ed.), W. B. Saunders Company, Philadelphia, PA, 1990
+Lane, A. 1989. Generating parsers with PC--Yacc. Dr. Dobb's Journal of Software Tools 14, 6 (June), 76--77, 79, 81, 110--112.
+Jon Mauney, Least-cost syntactic error repair using extended right context, 1983
+M. Dennis Mickunas , John A. Modry, Automatic error recovery for LR parsers, Communications of the ACM, v.21 n.6, p.459-465, June 1978[doi>10.1145/359511.359519]
+Thomas J. Pennello , Frank DeRemer, A forward move algorithm for LR error recovery, Proceedings of the 5th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.241-254, January 23-25, 1978, Tucson, Arizona[doi>10.1145/512760.512786]
+Plotkin, G. 1981. A structural approach to operational semantics. Tech. Rep. DAIMI FN--19, Computer Science Department, Aarthus University.
+Ripley, G. and Druseikis, F. 1978. A statistical analysis of syntax errors. Comput. Lang. 3, 4, 227--240.
+Röhrich, J. 1980. Methods for the automatic construction of error correcting parsers. Acta Inf. 13, 2 (Feb.), 115--139.
+Seppo Sippu , Eljas Soisalon-Soininen, Practical error recovery in LR parsing, Proceedings of the 9th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.177-184, January 25-27, 1982, Albuquerque, Mexico[doi>10.1145/582153.582173]
+Robert A. Wagner , Michael J. Fischer, The String-to-String Correction Problem, Journal of the ACM (JACM), v.21 n.1, p.168-173, Jan. 1974[doi>10.1145/321796.321811]

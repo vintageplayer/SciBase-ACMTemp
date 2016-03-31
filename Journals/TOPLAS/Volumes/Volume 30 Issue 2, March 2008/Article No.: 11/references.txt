@@ -1,0 +1,40 @@
+Martin Abadi , Luca Cardelli, A  Theory of Objects, Springer-Verlag New York, Inc., Secaucus, NJ, 1996
+Allen, E., Chase, D., Luchangco, V., Maessen, J.-W., Ryu, S., Steele, G. L., and Tobin-Hochstadt, S. 2007. The Fortress Language Specification, version 1.0. http://research.sun.com/projects/plrg/fortress.pdf.
+Allen, E. E., Bannet, J., and Cartwright, R. 2003. Mixins in generic java are sound. Tech. rep., Rice University.
+Davide Ancona , Giovanni Lagorio , Elena Zucca, Jam---designing a Java extension with mixins, ACM Transactions on Programming Languages and Systems (TOPLAS), v.25 n.5, p.641-712, September 2003[doi>10.1145/937563.937567]
+Davide Ancona , Elena Zucca, A calculus of module systems, Journal of Functional Programming, v.12 n.2, p.91-132, March 2002[doi>10.1017/S0956796801004257]
+Davide Ancona , Elena Zucca, A theory of mixin modules: algebraic laws and reduction semantics, Mathematical Structures in Computer Science, v.12 n.6, p.701-737, December 2002[doi>10.1017/S0960129502003687]
+Viviana Bono , Michele Bugliesi , Mariangiola Dezani-Ciancaglini , Luigi Liquori, Subtyping Constraints for Incomplete Objects (Extended Abstract), Proceedings of the 7th International Joint Conference CAAP/FASE on Theory and Practice of Software Development, p.465-477, April 14-18, 1997
+Bono, V., Patel, A., and Shmatikov, V. 1999. A core calculus of classes and mixins. In Proceedings of ECOOP. Lecture Notes in Computer Science, vol. 1628. Springer-Verlag, New York.
+Gilad Bracha, The programming language jigsaw: mixins, modularity and multiple inheritance, University of Utah, Salt Lake City, UT, 1992
+Gilad Bracha , William Cook, Mixin-based inheritance, Proceedings of the European conference on object-oriented programming on Object-oriented programming systems, languages, and applications, p.303-311, September 1990, Ottawa, Canada[doi>10.1145/97945.97982]
+Cardelli, L. 1995. Obliq: A language with distributed scope. Comput. Syst. 8, 1, 27--59.
+Pietro Di Gianantonio , Furio Honsell , Luigi Liquori, A lambda calculus of objects with self-inflicted extension, Proceedings of the 13th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, p.166-178, October 18-22, 1998, Vancouver, British Columbia, Canada[doi>10.1145/286936.286955]
+Stéphane Ducasse , Oscar Nierstrasz , Nathanael Schärli , Roel Wuyts , Andrew P. Black, Traits: A mechanism for fine-grained reuse, ACM Transactions on Programming Languages and Systems (TOPLAS), v.28 n.2, p.331-388, March 2006[doi>10.1145/1119479.1119483]
+Dominic Duggan , Constantinos Sourelis, Mixin modules, ACM SIGPLAN Notices, v.31 n.6, p.262-273, June 15, 1996[doi>10.1145/232629.232654]
+Robert Bruce Findler , Matthew Flatt, Modular object-oriented programming with units and mixins, Proceedings of the third ACM SIGPLAN international conference on Functional programming, p.94-104, September 26-29, 1998, Baltimore, Maryland, USA[doi>10.1145/289423.289432]
+Fisher, K. and Reppy, J. 2004. Statically typed traits. http://www.cs.uchicago.edu/files/tr-authentic/TR-2003-13.pdf. (The early version “A Typed Calculus of Traits” has been presented at FOOL 10.)
+Matthew Flatt , Matthias Felleisen, Units: cool modules for HOT languages, Proceedings of the ACM SIGPLAN 1998 conference on Programming language design and implementation, p.236-248, June 17-19, 1998, Montreal, Quebec, Canada[doi>10.1145/277650.277730]
+Matthew Flatt , Shriram Krishnamurthi , Matthias Felleisen, Classes and mixins, Proceedings of the 25th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.171-183, January 19-21, 1998, San Diego, California, USA[doi>10.1145/268946.268961]
+Adele Goldberg , David Robson, Smalltalk-80: the language and its implementation, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1983
+Hirschowitz, T., Leroy, X., and Wells, J. B. 2004. Call-by-value mixin modules: Reduction semantics, side effects, types. In Proceedings of ESOP. Lecture Notes in Computer Science, 2986, Springer-Verlag, New York, 64--78.
+Atsushi Igarashi , Benjamin C. Pierce , Philip Wadler, Featherweight Java: a minimal core calculus for Java and GJ, ACM Transactions on Programming Languages and Systems (TOPLAS), v.23 n.3, p.396-450, May 2001[doi>10.1145/503502.503505]
+Kiczales, G., Lamping, J., Mendhekar, A., Maeda, C., Lopes, C. V., Loingtier, J.-M., and Irwin, J. 1997. Aspect-oriented programming. In Proceedings of ECOOP. Lecture Notes in Computer Science, 1241, Springer-Verlag, New York, 220--242.
+Liquori, L. 1997. An extended theory of primitive objects: first order system. In Proceedings of ECOOP. Lecture Notes in Computer Science, 1241, Springer-Verlag, New York, 146--169.
+Luigi Liquori, On Object Extension, Proceedings of the 12th European Conference on Object-Oriented Programming, p.498-522, July 20-24, 1998
+Liquori, L. and Spiwack, A. 2004. Featherweight-trait Java : A trait-based extension for FJ. Tech. Rep. RR-5247, INRIA. Juin. http://www.inria.fr/rrrt/rr-5247.html.
+Luigi Liquori , Arnaud Spiwack, Extending FeatherTrait Java with Interfaces, Theoretical Computer Science, v.398 n.1-3, p.243-260, May, 2008[doi>10.1016/j.tcs.2008.01.051]
+Mezini, M. 2002. Towards variational object-oriented programming: The rondo model. Tech. Rep. TUD-ST-2002-02, Software Technology Group, Darmstadt University of Technology.
+Microsoft. The C&num; Home Page. http://msdn.microsoft.com/vcsharp/.
+Robin Milner , Mads Tofte , David Macqueen, The  Definition of Standard ML, MIT Press, Cambridge, MA, 1997
+Moby Team. 2007. The Moby home page. http://moby.cs.uchicago.edu/.
+Nierstrasz, O., Ducasse, S., and Schärli, N. 2006. Flattening traits. J. Obj. Tech. 5, 4, 129--148.
+Quitslund, P. J. 2004. Java traits -- Improving opportunities for reuse. Tech. Rep. CSE-04-005, OGI School of Science and Engineering. http://www.ogi.edu/csee/tech-reports/2004/04-005.pdf.
+Scala Team. 2007. The scala home page. http://scala.epfl.ch/.
+Schärli, N., Ducasse, S., Nierstrasz, O., and Black, A. 2003. Traits: Composable units of behaviour. In Proceedings of ECOOP. Lecture Notes in Computer Science, 2743, Springer-Verlag, New York, 248--274.
+Charles Smith , Sophia Drossopoulou,Chai: traits for Java-like languages, Proceedings of the 19th European conference on Object-Oriented Programming, July 25-29, 2005, Glasgow, UK[doi>10.1007/11531142_20]
+Alan Snyder, Inheritance and the development of encapsulated software systems, Research directions in object-oriented programming, MIT Press, Cambridge, MA, 1987
+Bjarne Stroustrup, The  C++ Programming Language, Third Edition, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1997
+Sun. Java Technology. http://java.sun.com/.
+David Ungar , Randall B. Smith, Self: The power of simplicity, Conference proceedings on Object-oriented programming systems, languages and applications, p.227-242, October 04-08, 1987, Orlando, Florida, USA[doi>10.1145/38765.38828]
+Wells, J. B. and Vestergaard, R. 2000. Equational reasoning for linking with first-class primitive modules. In Proceedings of ESOP. Lecture Notes in Computer Science, vol. 1782. Springer Verlag, New York, 412--428.

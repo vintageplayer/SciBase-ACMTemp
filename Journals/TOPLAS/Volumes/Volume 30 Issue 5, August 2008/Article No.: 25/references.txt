@@ -1,0 +1,50 @@
+Leonard M. Adleman, An Abstract Theory of Computer Viruses, Proceedings of the 8th Annual International Cryptology Conference on Advances in Cryptology, p.354-374, August 21-25, 1988
+Barak, B., Goldreich, O., Impagliazzo, R., Rudich, S., Sahai, A., Vadhan, S., and Yang, K. 2001. On the (im)possibility of obfuscating programs. In Proceedings of the Advances in Cryptology (CRYPTO'01). Lecture Notes in Computer Science, vol. 2139. Springer, 1--18.
+Bergeron, J., Debbabi, M., Desharnais, J., Erhioui, M. M., Lavoie, Y., and Tawbi, N. 2001. Static detection of malicious code in executable programs. Symposium on Requirements Engineering for Information Security. http://www.sreis.org/old/2001/index.html.
+Briesemeister, L., Porras, P. A., and Tiwari, A. 2005. Model checking of worm quarantine and counter-quarantine under a group defense. Tech. rep. SRI-CSL-05-03, Computer Science Laboratory. SRI International.
+Chess, D. and White, S. 2000. An undetectable computer virus. In Proceedings of the Virus Bulletin Conference (VB2000). Virus Bulletin, Orlando, FL.
+Stanley Chow , Yuan Gu , Harold Johnson , Vladimir A. Zakharov, An Approach to the Obfuscation of Control-Flow of Sequential Computer Programs, Proceedings of the 4th International Conference on Information Security, p.144-155, October 01-03, 2001
+Mihai Christodorescu , Somesh Jha, Static analysis of executables to detect malicious patterns, Proceedings of the 12th conference on USENIX Security Symposium, p.12-12, August 04-08, 2003, Washington, DC
+Mihai Christodorescu , Somesh Jha , Christopher Kruegel, Mining specifications of malicious behavior, Proceedings of the the 6th joint meeting of the European software engineering conference and the ACM SIGSOFT symposium on The foundations of software engineering, September 03-07, 2007, Dubrovnik, Croatia[doi>10.1145/1287624.1287628]
+Mihai Christodorescu , Somesh Jha , Sanjit A. Seshia , Dawn Song , Randal E. Bryant, Semantics-Aware Malware Detection, Proceedings of the 2005 IEEE Symposium on Security and Privacy, p.32-46, May 08-11, 2005[doi>10.1109/SP.2005.20]
+Christodorescu, M., Kinder, J., Jha, S., Katzenbeisser, S., and Veith, H. 2005. Malware normalization. Tech. rep. 1539, University of Wisconsin, Madison. WI.
+Clarke Jr. E. M., Grumberg, O., and Peled, D. A. 2001. Model Checking. MIT Press, Cambridge, MA.
+Cohen, F. 1985. Computer viruses. Ph.D. thesis, University of Southern California.
+Fred Cohen, Models of practical defenses against computer viruses, Computers and Security, v.8 n.2, p.149-160, April 1989[doi>10.1016/0167-4048(89)90070-9]
+F. Cohen, Computer viruses: theory and experiments, Computers and Security, v.6 n.1, p.22-35, Feb. 1987[doi>10.1016/0167-4048(87)90122-2]
+Collberg, C., Thomborson, C., and Low, D. 1997. A taxonomy of obfuscating transformations. Tech. rep. 148, Department of Computer Sciences, University of Auckland.
+Christian Collberg , Clark Thomborson , Douglas Low, Manufacturing cheap, resilient, and stealthy opaque constructs, Proceedings of the 25th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.184-196, January 19-21, 1998, San Diego, California, USA[doi>10.1145/268946.268962]
+Patrick Cousot , Radhia Cousot, Abstract interpretation: a unified lattice model for static analysis of programs by construction or approximation of fixpoints, Proceedings of the 4th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.238-252, January 17-19, 1977, Los Angeles, California[doi>10.1145/512950.512973]
+Patrick Cousot , Radhia Cousot, Systematic design of program analysis frameworks, Proceedings of the 6th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.269-282, January 29-31, 1979, San Antonio, Texas[doi>10.1145/567752.567778]
+Cousot, P. and Cousot, R. 1992. Abstract interpretation frameworks. J. Logic Comput. 2, 4 (Aug.), 511--547.
+Patrick Cousot , Radhia Cousot, Systematic design of program transformation frameworks by abstract interpretation, Proceedings of the 29th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.178-190, January 16-18, 2002, Portland, Oregon[doi>10.1145/503272.503290]
+Mila Dalla Preda , Mihai Christodorescu , Somesh Jha , Saumya Debray, A semantics-based approach to malware detection, Proceedings of the 34th annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages, January 17-19, 2007, Nice, France[doi>10.1145/1190216.1190270]
+Mila Dalla Preda , Roberto Giacobazzi, Control Code Obfuscation by Abstract Interpretation, Proceedings of the Third IEEE International Conference on Software Engineering and Formal Methods, p.301-310, September 07-09, 2005[doi>10.1109/SEFM.2005.13]
+Mila Dalla Preda , Roberto Giacobazzi, Semantic-based code obfuscation by abstract interpretation, Proceedings of the 32nd international conference on Automata, Languages and Programming, July 11-15, 2005, Lisbon, Portugal[doi>10.1007/11523468_107]
+Detristan, T., Ulenspiegel, T., Malcom, Y., and von Underduk, M. S. 2003. Polymorphic shellcode engine using spectrum analysis. Phrack 11, 61 http://www.phrack.org.
+Shafi Goldwasser , Yael Tauman Kalai, On the Impossibility of Obfuscation with Auxiliary Input, Proceedings of the 46th Annual IEEE Symposium on Foundations of Computer Science, p.553-562, October 23-25, 2005[doi>10.1109/SFCS.2005.60]
+Gupta, A. and Sekar, R. 2003. An approach for detecting self-propagating email using anomaly detection. In Proceedings of the 6th International Symposium on Recent Advances in Intrusion Detection (RAID'03), G. Vigna, E. Jonsson, and C. Kruegel, Eds. Lecture Notes in Computer Science, vol. 2820. Springer, 55--72.
+Intel Corporation. 2001. IA-32 Intel Architecture Software Developer's Manual. Intel Corporation.
+Jordan, M. 2002. Dealing with metamorphism. Virus Bull. 10, 4--6.
+Johannes Kinder , Stefan Katzenbeisser , Christian Schallhart , Helmut Veith, Detecting malicious code by model checking, Proceedings of the Second international conference on Detection of Intrusions and Malware, and Vulnerability Assessment, July 07-08, 2005, Vienna, Austria[doi>10.1007/11506881_11]
+Jeremy Z. Kolter , Marcus A. Maloof, Learning to detect malicious executables in the wild, Proceedings of the tenth ACM SIGKDD international conference on Knowledge discovery and data mining, August 22-25, 2004, Seattle, WA, USA[doi>10.1145/1014052.1014105]
+Arun Lakhotia , Moinuddin Mohammed, Imposing Order on Program Statements to Assist Anti-Virus Scanners, Proceedings of the 11th Working Conference on Reverse Engineering, p.161-170, November 08-12, 2004
+Lakhotia, A. and Singh, P. K. 2000. Challenges in getting “formal” with viruses. In Virus Bull.
+Lee, W., Nimbalkar, R. A., Yee, K. K., Patil, S. B., Desai, P. H., Tran, T. T., and Stolfo, S. J. 2000. A data mining and CIDF based approach for detecting novel and distributed intrusions. In Proceedings of the 3rd International Workshop on Recent Advances in Intrusion Detection (RAID 2000). Lecture Notes in Computer Sciences, vol. 1907. Springer, 49--65.
+Wenke Lee , Salvatore J. Stolfo, Data mining approaches for intrusion detection, Proceedings of the 7th conference on USENIX Security Symposium, p.6-6, January 26-29, 1998, San Antonio, Texas
+Lee, W., Stolfo, S., and Mok, K. W. 1999. A data mining framework for building intrusion detection models. In Proceedings of the IEEE Symposium on Security and Privacy (S & P'99). IEEE Computer Society, Los Alamitos, CA, USA, 120--132.
+Li, W.-J., Wang, K., Stolfo, S. J., and Herzog, B. 2005. Fileprints: Identifying file types by n-gram analysis. In Proceedings of the 6th Annual IEEE Systems, Man, and Cybernetics (SMC) Workshop on Information Assurance (IAW'05). IEEE Computer Society, 64--71.
+Cullen Linn , Saumya Debray, Obfuscation of executable code to improve resistance to static disassembly, Proceedings of the 10th ACM conference on Computer and communications security, October 27-30, 2003, Washington D.C., USA[doi>10.1145/948109.948149]
+Lo, R. W., Levitt, K. N., and Olsson, R. A. 1995. Mcf: A malicious code filter. Comput. Secur. 14, 541--566.
+McHugh, J. 2001. Intrusion and intrusion detection. Int. J. Inform. Secu. 1, 1, 14--35.
+Morley, P. 2001. Processing virus collections. In Proceedings of the Virus Bulletin Conference (VB2'001). Virus Bulletin, 129--134.
+Carey Nachenberg, Computer virus-antivirus coevolution, Communications of the ACM, v.40 n.1, p.46-51, Jan. 1997[doi>10.1145/242857.242869]
+Rajaat. 1999. Polymorphism. 29A Mag. 1, 3, 1--2.
+Singh, P. and Lakhotia, A. 2003. Static verification of worm and virus behaviour in binary executables using model checking. In Proceedings of the 4th IEEE Information Assurance Workshop. IEEE Computer Society, Los Alamitos, CA, USA.
+Symantec Corporation. 2006. Symantec Internet Security Threat Report: Trends for January 06--June 06. Vol. X. Symantec Corporation, Cupertino, CA.
+Peter Szor, The Art of  Computer Virus Research and Defense, Addison-Wesley Professional, 2005
+Ször, P. and Ferrie, P. 2001. Hunting for metamorphic. In Proceedings of the Virus Bulletin Conference (VB2001). Virus Bulletin, 123--144.
+Andrew Walenstein , Rachit Mathur , Mohamed R. Chouchane , Arun Lakhotia, Normalizing Metamorphic Malware Using Term Rewriting, Proceedings of the Sixth IEEE International Workshop on Source Code Analysis and Manipulation, p.75-84, September 27-29, 2006[doi>10.1109/SCAM.2006.20]
+Hoeteck Wee, On obfuscating point functions, Proceedings of the thirty-seventh annual ACM symposium on Theory of computing, May 22-24, 2005, Baltimore, MD, USA[doi>10.1145/1060590.1060669]
+zombie. 2001a. Automated reverse engineering: Mistfall engine. Published online at http://www.madchat.org//vxdevl/papers/vxers/Z0mbie/autorev.txt (last accessed on Sep. 29, 2006).
+zombie. 2001b. Real Permutating{sic} Engine. Published online at http://vx.netlux.org/vx.php?id=er05.

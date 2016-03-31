@@ -1,0 +1,29 @@
+Alex A. Aravind, Highly-fair bakery algorithm using symmetric tokens, Information Processing Letters, v.110 n.23, p.1055-1060, November, 2010
+Danny Hendler, Book review of synchronization algorithms and concurrent programming by Gadi Taubenfeld (Pearson/Prentice Hall, 2006), ACM SIGACT News, v.40 n.1, March 2009
+Michael Merritt , Gadi Taubenfeld, Computing with Infinitely Many Processes, Proceedings of the 14th International Conference on Distributed Computing, p.164-178, October 04-06, 2000
+Guy E. Blelloch , Perry Cheng , Phillip B. Gibbons, Room synchronizations, Proceedings of the thirteenth annual ACM symposium on Parallel algorithms and architectures, p.122-133, July 2001, Crete Island, Greece
+Vivek Shikaripura , Ajay D. Kshemkalyani, A Simple, Memory-Efficient Bounded Concurrent Timestamping Algorithm, Proceedings of the 13th International Symposium on Algorithms and Computation, p.550-562, November 21-23, 2002
+Patrick Keane , Mark Moir, A simple local-spin group mutual exclusion algorithm, Proceedings of the eighteenth annual ACM symposium on Principles of distributed computing, p.23-32, May 04-06, 1999, Atlanta, Georgia, USA
+Patrick Keane , Mark Moir, A Simple Local-Spin Group Mutual Exclusion Algorithm, IEEE Transactions on Parallel and Distributed Systems, v.12 n.7, p.673-685, July 2001
+Rachid Hadid , Vincent Villain, A New Efficient Tool for the Design of Self-Stabilizing l-Exclusion Algorithms: The Controller, Proceedings of the 5th International Workshop on Self-Stabilizing Systems, p.136-151, October 01-02, 2001
+James H. Anderson , Mark Moir, Usingk-exclusion to implement resilient, scalable shared objects (extended abstract), Proceedings of the thirteenth annual ACM symposium on Principles of distributed computing, p.141-150, August 14-17, 1994, Los Angeles, California, United States
+Maryam Helmi , Lisa Higham , Eduardo Pacheco , Philipp Woelfel, The space complexity of long-lived and one-shot timestamp implementations, Proceedings of the 30th annual ACM SIGACT-SIGOPS symposium on Principles of distributed computing, June 06-08, 2011, San Jose, California, USA
+Gadi Taubenfeld, Tight space bounds for l-exclusion, Proceedings of the 25th international conference on Distributed computing, September 20-22, 2011, Rome, Italy
+Masataka Takamura , Yoshihide Igarashi, Simple Mutual Exclusion Algorithms Based on Bounded Tickets on the Asynchronous Shared Memory Model, Proceedings of the 8th Annual International Conference on Computing and Combinatorics, p.259-268, August 15-17, 2002
+Mitchell Flatebo , Ajoy Kumar Datta , Anneke A. Schoone, Self-stabilizing multi-token rings, Distributed Computing, v.8 n.3, p.133-142, March 1995
+Wolfgang O. Budde , Hans-Georg Keller , Hans-Jürgen Reumerman , Paul van de Wiel, An Asynchronous, High-Speed Packet Switching Component, IEEE Design & Test, v.11 n.2, p.33-42, April 1994
+Deli Zhang , Brendan Lynch , Damian Dechev, Fast and Scalable Queue-Based Resource Allocation Lock on Shared-Memory Multiprocessors, Proceedings of the 17th International Conference on Principles of Distributed Systems, p.266-280, December 16-18, 2013, Nice, France
+Maryam Helmi , Lisa Higham , Eduardo Pacheco , Philipp Woelfel, The Space Complexity of Long-Lived and One-Shot Timestamp Implementations, Journal of the ACM (JACM), v.61 n.1, p.1-25, January 2014
+Yehuda Afek , Danny Dolev , Eli Gafni , Michael Merritt , Nir Shavit, A bounded first-in, first-enabled solution to thel-exclusion problem, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.3, p.939-953, May 1994
+J. E. Burns , G. L. Peterson, The ambiguity of choosing, Proceedings of the eighth annual ACM Symposium on Principles of distributed computing, p.145-157, June 1989, Edmonton, Alberta, Canada
+Glenn A. Elliott , James H. Anderson, An optimal k-exclusion real-time locking protocol motivated by multi-GPU systems, Real-Time Systems, v.49 n.2, p.140-170, March     2013
+Gadi Taubenfeld, Tight space bounds for $$\ell $$ℓ-exclusion, Distributed Computing, v.27 n.3, p.165-179, June      2014
+Robert Danek, Thek-bakery: local-spink-exclusion using non-atomic reads and writes, Proceedings of the 29th ACM SIGACT-SIGOPS symposium on Principles of distributed computing, July 25-28, 2010, Zurich, Switzerland
+Uri Abraham , Shlomi Dolev , Ted Herman , Irit Koll, Self-stabilizing l-exclusion, Theoretical Computer Science, v.266 n.1-2, p.653-692, 09/06/2001
+James H. Anderson , Mark Moir, Using local-spink-exclusion algorithms to improve wait-free object implementations, Distributed Computing, v.11 n.1, p.1-20, December 1997
+Deli Zhang , Brendan Lynch , Damian Dechev, Queue-Based and Adaptive Lock Algorithms for Scalable Resource Allocation on Shared-Memory Multiprocessors, International Journal of Parallel Programming, v.43 n.5, p.721-751, October   2015
+Uri Abraham, Self-stabilizing timestamps, Theoretical Computer Science, v.308 n.1-3, p.449-515, 3 November 2003
+M. J. Fischer , S. Moran , S. Rudich , G. Taubenfeld, The wakeup problem, Proceedings of the twenty-second annual ACM symposium on Theory of computing, p.106-116, May 13-17, 1990, Baltimore, Maryland, USA
+Michael Merritt , Gadi Taubenfeld, Computing with infinitely many processes, Information and Computation, 233, p.12-31, December, 2013
+N. Lynch, A hundred impossibility proofs for distributed computing, Proceedings of the eighth annual ACM Symposium on Principles of distributed computing, p.1-28, June 1989, Edmonton, Alberta, Canada
+Nancy A. Lynch, Distributed Algorithms, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1996

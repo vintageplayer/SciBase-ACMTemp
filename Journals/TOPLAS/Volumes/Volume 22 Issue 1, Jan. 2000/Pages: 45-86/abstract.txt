@@ -1,0 +1,1 @@
+The article introduces a novel notion of lazy rewriting. By annotating argument positions as lazy, redundant rewrite steps are avoided, and the termination behavior of a term-rewriting system can be improved. Some transformations of rewrite rules enable an implementation using the same primitives as an implementation of eager rewriting.

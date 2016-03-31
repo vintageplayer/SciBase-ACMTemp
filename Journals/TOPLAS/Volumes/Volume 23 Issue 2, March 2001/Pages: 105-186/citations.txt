@@ -1,0 +1,38 @@
+Ana Milanova , Atanas Rountev , Barbara G. Ryder, Precise Call Graphs for C Programs with Function Pointers, Automated Software Engineering, v.11 n.1, p.7-26, January 2004
+Vineet Kahlon, Bootstrapping: a technique for scalable flow and context-sensitive pointer alias analysis, ACM SIGPLAN Notices, v.43 n.6, June 2008
+Ji Wang , Xiao-Dong Ma , Wei Dong , Hou-Feng Xu , Wan-Wei Liu, Demand-driven memory leak detection based on flow- and context-sensitive pointer analysis, Journal of Computer Science and Technology, v.24 n.2, p.347-356, March 2009
+Teck Bok Tok , Samuel Z. Guyer , Calvin Lin, Efficient flow-sensitive interprocedural data-flow analysis in the presence of pointers, Proceedings of the 15th international conference on Compiler Construction, March 30-31, 2006, Vienna, Austria
+Fredrik Kjolstad , Danny Dig , Gabriel Acevedo , Marc Snir, Transformation for class immutability, Proceedings of the 33rd International Conference on Software Engineering, May 21-28, 2011, Waikiki, Honolulu, HI, USA
+Hongtao Yu , Jingling Xue , Wei Huo , Xiaobing Feng , Zhaoqing Zhang, Level by level: making flow- and context-sensitive pointer analysis scalable for millions of lines of code, Proceedings of the 8th annual IEEE/ACM international symposium on Code generation and optimization, April 24-28, 2010, Toronto, Ontario, Canada
+Jens Krinke, Effects of context on program slicing, Journal of Systems and Software, v.79 n.9, p.1249-1260, September 2006
+Michelle Mills Strout , John Mellor-Crummey , Paul Hovland, Representation-independent program analysis, ACM SIGSOFT Software Engineering Notes, v.31 n.1, January 2006
+Ana Milanova , Atanas Rountev , Barbara G. Ryder, Parameterized object sensitivity for points-to and side-effect analyses for Java, ACM SIGSOFT Software Engineering Notes, v.27 n.4, July 2002
+Donglin Liang , Mary Jean Harrold, Equivalence analysis and its application in improving the efficiency of program slicing, ACM Transactions on Software Engineering and Methodology (TOSEM), v.11 n.3, p.347-383, July 2002
+Simon Holm Jensen , Anders Møller , Peter Thiemann, Interprocedural analysis with lazy propagation, Proceedings of the 17th international conference on Static analysis, p.320-339, September 14-16, 2010, Perpignan, France
+William Landi , Barbara G. Ryder, A safe approximate algorithm for interprocedural pointer aliasing, ACM SIGPLAN Notices, v.39 n.4, April 2004
+Manu Sridharan , Stephen J. Fink , Rastislav Bodik, Thin slicing, ACM SIGPLAN Notices, v.42 n.6, June 2007
+Markus Mock , Darren C. Atkinson , Craig Chambers , Susan J. Eggers, Program Slicing with Dynamic Points-To Sets, IEEE Transactions on Software Engineering, v.31 n.8, p.657-678, August 2005
+Markus Mock , Darren C. Atkinson , Craig Chambers , Susan J. Eggers, Improving program slicing with dynamic points-to data, ACM SIGSOFT Software Engineering Notes, v.27 n.6, November 2002
+Binxian Tao , Ju Qian , Xiaoyu Zhou, Side-effect analysis with fast escape filter, Proceedings of the ACM SIGPLAN International Workshop on State of the Art in Java Program analysis, p.15-20, June 14-14, 2012, Beijing, China
+Jaime Quinonez , Matthew S. Tschantz , Michael D. Ernst, Inference of Reference Immutability, Proceedings of the 22nd European conference on Object-Oriented Programming, July 07-11, 2008, Paphos, Cypress
+Markus Mock , Darren C. Atkinson , Craig Chambers , Susan J. Eggers, Improving program slicing with dynamic points-to data, Proceedings of the 10th ACM SIGSOFT symposium on Foundations of software engineering, November 18-22, 2002, Charleston, South Carolina, USA
+Yin Liu , Ana Milanova, Ownership and Immutability Inference for UML-Based Object Access Control, Proceedings of the 29th international conference on Software Engineering, p.323-332, May 20-26, 2007
+Joshua Auerbach , David F. Bacon , Perry Cheng , Rodric Rabbah, Lime: a Java-compatible and synthesizable language for heterogeneous architectures, ACM SIGPLAN Notices, v.45 n.10, October 2010
+Anatole Le , Ondřej Lhoták , Laurie Hendren, Using inter-procedural side-effect information in JIT optimizations, Proceedings of the 14th international conference on Compiler Construction, April 04-08, 2005, Edinburgh, UK
+Tong Chen , Jin Lin , Wei-Chung Hsu , Pen-Chung Yew, An empirical study on the granularity of pointer analysis in c programs, Proceedings of the 15th international conference on Languages and Compilers for Parallel Computing, p.157-171, July 25-27, 2002, College Park, MD
+Phung Hua Nguyen , Jingling Xue, Interprocedural side-effect analysis and optimisation in the presence of dynamic class loading, Proceedings of the Twenty-eighth Australasian conference on Computer Science, p.9-18, January 01, 2005, Newcastle, Australia
+Nishant Sinha, Modular bug detection with inertial refinement, Proceedings of the 2010 Conference on Formal Methods in Computer-Aided Design, October 20-23, 2010, Lugano, Switzerland
+Keith D. Cooper , Li Xu, An efficient static analysis algorithm to detect redundant memory operations, ACM SIGPLAN Notices, v.38 n.2 supplement, p.97-107, February 2003
+Jingling Xue , Phung Hua Nguyen , John Potter, Interprocedural side-effect analysis for incomplete object-oriented software modules, Journal of Systems and Software, v.80 n.1, p.92-105, January, 2007
+Shay Artzi , Adam Kiezun , David Glasser , Michael D. Ernst, Combined static and dynamic mutability analysis, Proceedings of the twenty-second IEEE/ACM international conference on Automated software engineering, November 05-09, 2007, Atlanta, Georgia, USA
+Andrew Stone , Michelle Strout , Shweta Behere, May/must analysis and the DFAGen data-flow analysis generator, Information and Software Technology, v.51 n.10, p.1440-1453, October, 2009
+Nurit Dor , Michael Rodeh , Mooly Sagiv, CSSV: towards a realistic tool for statically detecting all buffer overflows in C, ACM SIGPLAN Notices, v.38 n.5, May 2003
+Ana Milanova , Atanas Rountev , Barbara G. Ryder, Parameterized object sensitivity for points-to analysis for Java, ACM Transactions on Software Engineering and Methodology (TOSEM), v.14 n.1, p.1-41, January 2005
+Mariana Sharp , Atanas Rountev, Static Analysis of Object References in RMI-Based Java Software, IEEE Transactions on Software Engineering, v.32 n.9, p.664-681, September 2006
+Lunjin Lu, Path Dependent Analysis of Logic Programs, Higher-Order and Symbolic Computation, v.16 n.4, p.341-377, December 2003
+Shay Artzi , Adam Kieżun , Jaime Quinonez , Michael D. Ernst, Parameter reference immutability: formal definition, inference tool, and comparison, Automated Software Engineering, v.16 n.1, p.145-192, March     2009
+Ondřej Lhoták , Laurie Hendren, Evaluating the benefits of context-sensitive points-to analysis using a BDD-based implementation, ACM Transactions on Software Engineering and Methodology (TOSEM), v.18 n.1, p.1-53, September 2008
+Patrick Cousot , Radhia Cousot, Modular Static Program Analysis, Proceedings of the 11th International Conference on Compiler Construction, p.159-178, April 08-12, 2002
+Barbara G. Ryder , Ben Wiedermann, Language design and analyzability: a retrospective, Software—Practice & Experience, v.42 n.1, p.3-18, January 2012
+Radu Rugina , Martin C. Rinard, Pointer analysis for structured parallel programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.25 n.1, p.70-116, January 2003
+Michael Hind, Pointer analysis: haven't we solved this problem yet?, Proceedings of the 2001 ACM SIGPLAN-SIGSOFT workshop on Program analysis for software tools and engineering, p.54-61, June 2001, Snowbird, Utah, USA

@@ -1,0 +1,34 @@
+Alfred V. Aho , Ravi Sethi , Jeffrey D. Ullman, Compilers: principles, techniques, and tools, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+Frances Allen , Michael Burke , Philippe Charles , Ron Cytron , Jeanne Ferreant, An overview for the PTRAN analysis system for multiprocessing, Journal of Parallel and Distributed Computing, v.5 n.5, p.617-640, October 1988[doi>10.1016/0743-7315(88)90015-9]
+ALLEN, F. E., CARTER, J. L., FABm, J., F~RRANTE, J., HARRISON, W. H., LOEW~ER, P. G., AND TREVlLLYAN, L. H. The experimental compiling system. IBM J. Res. Dev. 24, 6 (Nov. 1980), 695-715.
+ALLEN, F. E., AND COCKE, J. A catalogue of optimizing transformations In Desig, and Opt~mizat~on of Compilers, J. Rustin, Ed. Prentice-Hall, Englewood Cliffs, N.J, 1972
+John P. Banning, An efficient way to find the side effects of procedure calls and the aliases of variables, Proceedings of the 6th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.29-41, January 29-31, 1979, San Antonio, Texas[doi>10.1145/567752.567756]
+Michael Burke, An interval-based approach to exhaustive and incremental interprocedural data-flow analysis, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.3, p.341-395, July 1990[doi>10.1145/78969.78963]
+Michael Burke , Ron Cytron, Interprocedural dependence analysis and parallelization, ACM SIGPLAN Notices, v.21 n.7, p.162-175, July 1986[doi>10.1145/13310.13328]
+D. Callahan, The program summary graph and flow-sensitive interprocedual data flow analysis, Proceedings of the ACM SIGPLAN 1988 conference on Programming Language design and Implementation, p.47-56, June 20-24, 1988, Atlanta, Georgia, United States[doi>10.1145/53990.53995]
+David Callahan , Keith D. Cooper , Ken Kennedy , Linda Torczon, Interprocedural constant propagation, ACM SIGPLAN Notices, v.21 n.7, p.152-161, July 1986[doi>10.1145/13310.13327]
+Alan Carle , Keith D. Cooper , Robert T. Hood , Ken Kennedy , Linda Torczon, A practical environment for scientific programming, Computer, v.20 n.11, p.75-89, Nov. 1987[doi>10.1109/MC.1987.1663418]
+Martin Donald Carroll , Barbara Ryder, Data flow update via dominator and attribute updates, 1988
+Martin Carroll , Barbara G Ryder, An incremental algorithm for software analysis, Proceedings of the second ACM SIGSOFT/SIGPLAN software engineering symposium on Practical software development environments, p.171-179, December 09-11, 1986, Palo Alto, California, United States[doi>10.1145/24208.24228]
+F. C. Chow, Minimizing register usage penalty at procedure calls, Proceedings of the ACM SIGPLAN 1988 conference on Programming Language design and Implementation, p.85-94, June 20-24, 1988, Atlanta, Georgia, United States[doi>10.1145/53990.53999]
+Keith D. Cooper, Analyzing aliases of reference formal parameters, Proceedings of the 12th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.281-290, January 14-16, 1985, New Orleans, Louisiana, United States[doi>10.1145/318593.318658]
+K. D. Cooper , K. Kennedy, Interprocedural side-effect analysis in linear time, Proceedings of the ACM SIGPLAN 1988 conference on Programming Language design and Implementation, p.57-66, June 20-24, 1988, Atlanta, Georgia, United States[doi>10.1145/53990.53996]
+K. D. Cooper , K. Kennedy, Fast interprocedual alias analysis, Proceedings of the 16th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.49-59, January 11-13, 1989, Austin, Texas, United States[doi>10.1145/75277.75282]
+Keith D. Cooper , Ken Kennedy , Linda Lorczon, Interprocedural optimization: eliminating unnecessary recompilation, ACM SIGPLAN Notices, v.21 n.7, p.58-67, July 1986[doi>10.1145/13310.13317]
+Keith D. Cooper , Ken Kennedy , Linda Torczon, The impact of interprocedural analysis and optimization in the Rnprogramming environment, ACM Transactions on Programming Languages and Systems (TOPLAS), v.8 n.4, p.491-523, Oct. 1986[doi>10.1145/6465.6489]
+DONGARRA, J. J., BUNC~t, J. R., MOLER, C. B., AND STEWART, G.W. LINPACK Users' Guide. SIAM, Philadelphia, Pa., 1979.
+FELDMAN, S. Make--a computer program for maintaining computer programs. Softw. Pract. Exper. 9, 4 (1979), 255-265.
+John B. Kam , Jeffrey D. Ullman, Global Data Flow Analysis and Iterative Algorithms, Journal of the ACM (JACM), v.23 n.1, p.158-171, Jan. 1976[doi>10.1145/321921.321938]
+KAM, J., AND ULLMAN, J.D. Monotone data fiow analysis frameworks. Acta Inf. 7, 3 (1977), 305 317.
+Eugene M. Myers, A precise inter-procedural data flow algorithm, Proceedings of the 8th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.219-230, January 26-28, 1981, Williamsburg, Virginia[doi>10.1145/567532.567556]
+Stephen Richardson , Mahadevan Ganapathi, Code Optimization Across Procedures, Computer, v.22 n.2, p.42-50, February 1989[doi>10.1109/2.19831]
+Stephen Richardson , Mahadevan Ganapathi, Interprocedural analysis vs. procedure integration, Information Processing Letters, v.32 n.3, p.137-142, August 24, 1989[doi>10.1016/0020-0190(89)90014-8]
+ROSEN, B. K. Monoids for rapid data fiow analysis. SIAM J. Comput. 9, i (Feb. 1980), 159-196.
+Robert W. Schwanke , Gail E. Kaiser, Smarter recompilation, ACM Transactions on Programming Languages and Systems (TOPLAS), v.10 n.4, p.627-632, Oct. 1988[doi>10.1145/48022.214505]
+SPILLMAN, T. C. Exposing side-effects in a PL/I optimizing compiler. In Proceedings of IFIP Congress 71 (Ljubljana, Yugoslavia, Aug. 1971), North-Holland, Amsterdam, 376 381.
+Robert Endre Tarjan, A Unified Approach to Path Problems, Journal of the ACM (JACM), v.28 n.3, p.577-593, July 1981[doi>10.1145/322261.322272]
+Walter F. Tichy , Mark C. Baker, Smart recompilation, Proceedings of the 12th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.236-244, January 14-16, 1985, New Orleans, Louisiana, United States[doi>10.1145/318593.318648]
+Walter F. Tichy, Smart recompilation, ACM Transactions on Programming Languages and Systems (TOPLAS), v.8 n.3, p.273-291, July 1986[doi>10.1145/5956.5959]
+Linda Marie Torczon, Compilation dependences in an ambitious optimizing compiler (interprocedural, recompilation), 1985
+D. W. Wall, Register windows vs. register allocation, Proceedings of the ACM SIGPLAN 1988 conference on Programming Language design and Implementation, p.67-78, June 20-24, 1988, Atlanta, Georgia, United States[doi>10.1145/53990.53997]
+Mark N. Wegman , F. Kenneth Zadeck, Constant propagation with conditional branches, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.2, p.181-210, April 1991[doi>10.1145/103135.103136]

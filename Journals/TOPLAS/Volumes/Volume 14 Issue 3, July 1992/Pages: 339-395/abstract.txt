@@ -1,0 +1,21 @@
+The CLPRprogramming language is defined, its underlying
+philosophy and programming methodology are discussed, important
+implementation issues are explored in detail, and finally, a prototype
+interpreter is described.CLPRis designed to be an instance of the Constraint Logic
+Programming Scheme, a family of rule-based constraint programming
+languages defined by Jaffar and Lassez. The domain of computationRof this particular instance is the algebraic structure
+consisting of uninterpreted functors over real numbers. An important
+property of CLPRis that the constraints are treated uniformly in the
+sense that they are used to specify the input parameters to a program,
+they are the only primitives used in the execution of a program, and
+they are used to describe the output of a program.Implementation of a CLP language, and of CLPRin particular, raises new problems in the design of a
+constraint-solver. For example, the constraint solver must beincrementalin the sense
+that solving additional constraints must not entail the resolving of old
+constraints. In our system, constraints are filtered through an
+inference engine, an engine/solver interface, an equation solver and an
+inequality solver. This sequence of modules reflects a classification
+and prioritization of the classes of constraints. Modules solving higher
+priority constraints are isolated from the complexities of modules
+solving lower priority constraints. This multiple-phase solving of
+constraints, together with a set of associated algorithms, gives rise to
+a practical system.

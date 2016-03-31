@@ -1,0 +1,62 @@
+Jong-Deok Choi , Harini Srinivasan, Deterministic replay of Java multithreaded applications, Proceedings of the SIGMETRICS symposium on Parallel and distributed tools, p.48-59, August 03-04, 1998, Welches, Oregon, USA
+P. Joshi , K. Sen, Predictive Typestate Checking of Multithreaded Java Programs, Proceedings of the 2008 23rd IEEE/ACM International Conference on Automated Software Engineering, p.288-296, September 15-19, 2008
+Peter Fritzson , Nahid Shahmehri , Mariam Kamkar , Tibor Gyimothy, Generalized algorithmic debugging and testing, ACM Letters on Programming Languages and Systems (LOPLAS), v.1 n.4, p.303-322, Dec. 1992
+Jens Krinke, Static slicing of threaded programs, ACM SIGPLAN Notices, v.33 n.7, p.35-42, July 1998
+Yong-Kee Jun , Kern Koh, On-the-fly detection of access anomalies in nested parallel loops, ACM SIGPLAN Notices, v.28 n.12, p.107-117, Dec. 1993
+Hiroyasu Nishiyama, Detecting data races using dynamic escape analysis based on read barrier, Proceedings of the 3rd conference on Virtual Machine Research And Technology Symposium, p.10-10, May 06-07, 2004, San Jose, California
+Jong-Deok Choi , Sang Lyul Min, Race Frontier: reproducing data races in parallel-program debugging, ACM SIGPLAN Notices, v.26 n.7, p.145-154, July 1991
+John Cleary , Fabian Gomes , Brian Unger , Zhonge Xiao , Raimar Thudt, Cost of state saving & rollback, ACM SIGSIM Simulation Digest, v.24 n.1, p.94-101, July 1994
+Ali Jannesari , Walter F. Tichy, On-the-fly race detection in multi-threaded programs, Proceedings of the 6th workshop on Parallel and distributed systems: testing, analysis, and debugging, p.1-10, July 20-21, 2008, Seattle, Washington
+John G. Cleary , J. A. David McWha , Murray Pearson, Timestamp representations for virtual sequences, ACM SIGSIM Simulation Digest, v.27 n.1, p.98-105, July 1997
+Dieter Kranzlmüller , Nam Thoai , Jens Volkert, Debugging Large-Scale, Long-Running Parallel Programs, Proceedings of the International Conference on Computational Science-Part II, p.913-922, April 21-24, 2002
+Thomas Ball , James R. Larus, Optimally profiling and tracing programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.4, p.1319-1360, July 1994
+Jong-Deok Choi , Jeanne Ferrante, Static slicing in the presence of goto statements, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.4, p.1097-1113, July 1994
+Robert H. B. Netzer , Barton P. Miller, What are race conditions?: Some issues and formalizations, ACM Letters on Programming Languages and Systems (LOPLAS), v.1 n.1, p.74-88, March 1992
+Cormac Flanagan , Stephen N. Freund, FastTrack: efficient and precise dynamic race detection, Communications of the ACM, v.53 n.11, November 2010
+Mark Christiaens , Koen De Bosschere, TRaDe, a topological approach to on-the-fly race detection in java programs, Proceedings of the 2001 Symposium on JavaTMVirtual Machine Research and Technology Symposium, p.15-15, April 23-24, 2001, Monterey, California
+Lúcia Maria de A. Drummond , Valmir C. Barbosa, Distributed Breakpoint Detection in Message-Passing Programs, Journal of Parallel and Distributed Computing, v.39 n.2, p.153-167, Dec. 15, 1996
+Yishai A. Feldman , Haim Schneider, Simulating reactive systems by deduction, ACM Transactions on Software Engineering and Methodology (TOSEM), v.2 n.2, p.128-175, April 1993
+Robert H. B. Netzer , Mark H. Weaver, Optimal tracing and incremental reexecution for debugging long-running programs, ACM SIGPLAN Notices, v.29 n.6, p.313-325, June 1994
+Yuan Yu , Tom Rodeheffer , Wei Chen, RaceTrack: efficient detection of data race conditions via adaptive tracking, ACM SIGOPS Operating Systems Review, v.39 n.5, December 2005
+Jens Krinke, Context-sensitive slicing of concurrent programs, ACM SIGSOFT Software Engineering Notes, v.28 n.5, September 2003
+John Mellor-Crummey, On-the-fly detection of data races for programs with nested fork-join parallelism, Proceedings of the 1991 ACM/IEEE conference on Supercomputing, p.24-33, November 18-22, 1991, Albuquerque, New Mexico, United States
+Rajiv Gupta , Mary Lou Soffa, Hybrid slicing: an approach for refining static slices using dynamic information, ACM SIGSOFT Software Engineering Notes, v.20 n.4, p.29-40, Oct. 1995
+Dieter Kranzlmüller, Scalable Parallel Program Debugging with Process Isolation and Grouping, Proceedings of the 16th International Parallel and Distributed Processing Symposium, p.294, April 15-19, 2002
+J. K. Hollingsworth , B. P. Miller, Parallel program performance metrics: a comprison and validation, Proceedings of the 1992 ACM/IEEE conference on Supercomputing, p.4-13, November 16-20, 1992, Minneapolis, Minnesota, United States
+Bogdan Korel , Satish Yalamanchili, Forward computation of dynamic program slices, Proceedings of the 1994 ACM SIGSOFT international symposium on Software testing and analysis, p.66-79, August 17-19, 1994, Seattle, Washington, United States
+John Field , G. Ramalingam , Frank Tip, Parametric program slicing, Proceedings of the 22nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.379-392, January 23-25, 1995, San Francisco, California, USA
+Satish Narayanasamy , Zhenghao Wang , Jordan Tigani , Andrew Edwards , Brad Calder, Automatically classifying benign and harmful data races using replay analysis, ACM SIGPLAN Notices, v.42 n.6, June 2007
+Dieter Kranzlmüller , Nam Thoai , Jens Volkert, Error detection in large-scale parallel programs with long runtimes, Future Generation Computer Systems, v.19 n.5, p.689-700, July 2003
+Markus Kusano , Chao Wang, Assertion guided abstraction: a cooperative optimization for dynamic partial order reduction, Proceedings of the 29th ACM/IEEE international conference on Automated software engineering, September 15-19, 2014, Vasteras, Sweden
+Rajiv Gupta , Mary Lou Soffa , John Howard, Hybrid slicing: integrating dynamic information with static analysis, ACM Transactions on Software Engineering and Methodology (TOSEM), v.6 n.4, p.370-397, Oct. 1997
+Chen Tian , Vijay Nagarajan , Rajiv Gupta , Sriraman Tallam, Dynamic recognition of synchronization operations for improved data race detection, Proceedings of the 2008 international symposium on Software testing and analysis, July 20-24, 2008, Seattle, WA, USA
+Bowen Alpern , Jong-Deok Choi , Ton Ngo , Manu Sridharan , John M. Vlissides, A Perturbation-Free Replay Platform for Cross-Optimized Multithreaded Applications, Proceedings of the 15th International Parallel & Distributed Processing Symposium, p.23, April 23-27, 2001
+Bogdan Korel, Computation of Dynamic Program Slices for Unstructured Programs, IEEE Transactions on Software Engineering, v.23 n.1, p.17-34, January 1997
+Mayur Naik , Alex Aiken, Conditional must not aliasing for static race detection, ACM SIGPLAN Notices, v.42 n.1, January 2007
+Patrice Godefroid , Robert S. Hanmer , Lalita Jategaonkar Jagadeesan, Model checking without a model: an analysis of the heart-beat monitor of a telephone switch using VeriSoft, ACM SIGSOFT Software Engineering Notes, v.23 n.2, p.124-133, March 1998
+K. Leung , Z. Huang , Q. Huang , P. Werstein, Data race: tame the beast, The Journal of Supercomputing, v.51 n.3, p.258-278, March     2010
+Geoffrey Lefebvre , Brendan Cully , Christopher Head , Mark Spear , Norm Hutchinson , Mike Feeley , Andrew Warfield, Execution mining, ACM SIGPLAN Notices, v.47 n.7, July 2012
+John Mellor-Crummey, Compile-time support for efficient data race detection in shared-memory parallel programs, ACM SIGPLAN Notices, v.28 n.12, p.129-139, Dec. 1993
+Cormac Flanagan , Stephen N. Freund, FastTrack: efficient and precise dynamic race detection, ACM SIGPLAN Notices, v.44 n.6, June 2009
+Sridhar Iyer , S. Ramesh, Apportioning: A Technique for Efficient Reachability Analysis of Concurrent Object-Oriented Programs, IEEE Transactions on Software Engineering, v.27 n.11, p.1037-1056, November 2001
+Daniel Marino , Madanlal Musuvathi , Satish Narayanasamy, LiteRace: effective sampling for lightweight data-race detection, ACM SIGPLAN Notices, v.44 n.6, June 2009
+Cormac Flanagan , Stephen N. Freund, RedCard: redundant check elimination for dynamic race detectors, Proceedings of the 27th European conference on Object-Oriented Programming, July 01-05, 2013, Montpellier, France
+Patrice Godefroid, Software Model Checking: The VeriSoft Approach, Formal Methods in System Design, v.26 n.2, p.77-101, March     2005
+Qi Gao , Feng Qin , Dhabaleswar K. Panda, DMTracker: finding bugs in large-scale parallel programs by detecting anomaly in data movements, Proceedings of the 2007 ACM/IEEE conference on Supercomputing, November 10-16, 2007, Reno, Nevada
+Patrice Godefroid, Model checking for programming languages using VeriSoft, Proceedings of the 24th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.174-186, January 15-17, 1997, Paris, France
+Diganta Goswami , Rajib Mall, Dynamic Slicing of Concurrent Programs, Proceedings of the 7th International Conference on High Performance Computing, p.15-26, December 17-20, 2000
+Chang-Seo Park , Koushik Sen, Randomized active atomicity violation detection in concurrent programs, Proceedings of the 16th ACM SIGSOFT International Symposium on Foundations of software engineering, November 09-14, 2008, Atlanta, Georgia
+Koushik Sen, Race directed random testing of concurrent programs, ACM SIGPLAN Notices, v.43 n.6, June 2008
+Hon F. Li , Juergen Rilling , Dhrubajyoti Goswami, Granularity-Driven Dynamic Predicate Slicing Algorithms for Message Passing Systems, Automated Software Engineering, v.11 n.1, p.63-89, January 2004
+Chang-Seo Park , Koushik Sen , Paul Hargrove , Costin Iancu, Efficient data race detection for distributed memory parallel programs, Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis, November 12-18, 2011, Seattle, Washington
+Chang Seo Park , Koushik Sen , Costin Iancu, Scaling data race detection for partitioned global address space programs, Proceedings of the 27th international ACM conference on International conference on supercomputing, June 10-14, 2013, Eugene, Oregon, USA
+Mayur Naik , Alex Aiken , John Whaley, Effective static race detection for Java, ACM SIGPLAN Notices, v.41 n.6, June 2006
+Cormac Flanagan , Stephen N. Freund, Adversarial memory for detecting destructive races, ACM SIGPLAN Notices, v.45 n.6, June 2010
+Alexander V. Mirgorodskiy , Barton P. Miller, Diagnosing distributed systems with self-propelled instrumentation, Proceedings of the 9th ACM/IFIP/USENIX International Conference on Middleware, December 01-05, 2008, Leuven, Belgium
+Cosmin Radoi , Danny Dig, Effective Techniques for Static Race Detection in Java Parallel Loops, ACM Transactions on Software Engineering and Methodology (TOSEM), v.24 n.4, August 2015
+Max Copperman, Debugging optimized code without being misled, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.3, p.387-427, May 1994
+Cosmin Radoi , Danny Dig, Practical static race detection for Java parallel loops, Proceedings of the 2013 International Symposium on Software Testing and Analysis, July 15-20, 2013, Lugano, Switzerland
+Yung-Chang Chiu , Ce-Kuen Shieh , Tzu-Chi Huang , Tyng-Yeu Liang , Kuo-Chih Chu, Data race avoidance and replay scheme for developing and debugging parallel programs on distributed shared memory systems, Parallel Computing, v.37 n.1, p.11-25, January, 2011
+Weiming Gu , Jeffrey Vetter , Karsten Schwan, An annotated bibliography of interactive program steering, ACM SIGPLAN Notices, v.29 n.9, p.140-148, Sept. 1994
+Cherri M. Pancake , Robert H. B. Netzer, A bibliography of parallel debuggers, 1993 edition, ACM SIGPLAN Notices, v.28 n.12, p.169-186, Dec. 1993
+Baowen Xu , Ju Qian , Xiaofang Zhang , Zhongqiang Wu , Lin Chen, A brief survey of program slicing, ACM SIGSOFT Software Engineering Notes, v.30 n.2, March 2005

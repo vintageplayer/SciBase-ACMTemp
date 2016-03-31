@@ -1,0 +1,25 @@
+Matthew Allen , Susan Horwitz, Slicing java programs that throw and catch exceptions, Proceedings of the 2003 ACM SIGPLAN workshop on Partial evaluation and semantics-based program manipulation, p.44-54, June 07-07, 2003, San Diego, California, USA[doi>10.1145/777388.777394]
+Andersen, L. O. 1994. Program analysis and specialization for the C programming languages. Ph.D. thesis, DIKU, University of Copenhagen, DIKU, Universitetsparken 1, DK-2100, Copenhagen ∅, Denmark.
+Thomas Ball , Susan Horwitz, Slicing Programs with Arbitrary Control-flow, Proceedings of the First International Workshop on Automated and Algorithmic Debugging, p.206-222, May 03-05, 1993
+Gianfranco Bilardi , Keshav Pingali, A framework for generalized control dependence, Proceedings of the ACM SIGPLAN 1996 conference on Programming language design and implementation, p.291-300, May 21-24, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/231379.231435]
+Edmund M. Clarke, Jr. , Orna Grumberg , Doron A. Peled, Model checking, MIT Press, Cambridge, MA, 2000
+James C. Corbett , Matthew B. Dwyer , John Hatcliff , Shawn Laubach , Corina S. Păsăreanu , Robby , Hongjun Zheng, Bandera: extracting finite-state models from Java source code, Proceedings of the 22nd international conference on Software engineering, p.439-448, June 04-11, 2000, Limerick, Ireland[doi>10.1145/337180.337234]
+Jeanne Ferrante , Karl J. Ottenstein , Joe D. Warren, The program dependence graph and its use in optimization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.9 n.3, p.319-349, July 1987[doi>10.1145/24039.24041]
+Margaret Ann Francel , Spencer Rugaber, The Relationship of Slicing and Debugging to Program Understanding, Proceedings of the 7th International Workshop on Program Comprehension, p.106, May 05-07, 1999
+Hatcliff, J., Dwyer, M. B., and Zheng, H. 2000. Slicing software for model construction. J. Higher-Order Symb. Comput. 13, 4, 315--353. A special issue containing selected papers from the 1999 ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation.
+Hatcliff, J., Corbett, J. C., Dwyer, M. B., Sokolowski, S., and Zheng, H. 1999. A formal study of slicing for multi-threaded programs with JVM concurrency primitives. In Proceedings on the International Symposium on Static Analysis (SAS). Lecture Notes in Computer Science, vol. 1694. Springer, 1--18.
+M. S. Hecht , J. D. Ullman, Characterizations of Reducible Flow Graphs, Journal of the ACM (JACM), v.21 n.3, p.367-375, July 1974[doi>10.1145/321832.321835]
+Susan Horwitz , Thomas Reps , David Binkley, Interprocedural slicing using dependence graphs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.1, p.26-60, Jan. 1990[doi>10.1145/77606.77608]
+S. Horwitz , P. Pfeiffer , T. Reps, Dependence analysis for pointer variables, Proceedings of the ACM SIGPLAN 1989 Conference on Programming language design and implementation, p.28-40, June 19-23, 1989, Portland, Oregon, USA[doi>10.1145/73141.74821]
+I. Millett, L. and Teitelbaum, T. 1998. Slicing Promela and its applications to model checking, simulation, and protocol understanding. In Proceedings of the 4th International SPIN Workshop.
+Jayaraman, G., Ranganath, V. P., and Hatcliff, J. 2004. Kaveri: Delivering Indus Java program slicer to Eclipse. http://projects.cis.ksu.edu/docman/?group_id=12.
+Richard Johnson , Keshav Pingali, Dependence-based program analysis, Proceedings of the ACM SIGPLAN 1993 conference on Programming language design and implementation, p.78-89, June 21-25, 1993, Albuquerque, New Mexico, USA[doi>10.1145/155090.155098]
+Jens Krinke, Static slicing of threaded programs, Proceedings of the 1998 ACM SIGPLAN-SIGSOFT workshop on Program analysis for software tools and engineering, p.35-42, June 16-16, 1998, Montreal, Quebec, Canada[doi>10.1145/277631.277638]
+R. Milner, Communication and Concurrency, Prentice-Hall, Inc., Upper Saddle River, NJ, 1989
+Steven S. Muchnick, Advanced compiler design and implementation, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1998
+A. Podgurski , L. A. Clarke, A Formal Model of Program Dependences and its Implications for Software Testing, Debugging, and Maintenance, IEEE Transactions on Software Engineering, v.16 n.9, p.965-979, September 1990[doi>10.1109/32.58784]
+Venkatesh Prasad Ranganath , Torben Amtoft , Anindya Banerjee , Matthew B. Dwyer , John Hatcliff, A new foundation for control-dependence and slicing for modern program structures, Proceedings of the 14th European conference on Programming Languages and Systems, p.77-93, April 04-08, 2005, Edinburgh, UK[doi>10.1007/978-3-540-31987-0_7]
+SAnToS Laboratory. 2007 Indus, a toolkit to customize and adapt Java programs. http://indus. projects.cis.ksu.edu.
+Judith Alyce Stafford , Alexander L. Wolf, A formal, language-independent, and compositional approach to interprocedural control dependence analysis, University of Colorado at Boulder, Boulder, CO, 2000
+Tip, F. 1995. A survey of program slicing techniques. J. Programm. Lang. 3, 121--189.
+Weiser, M. 1984. Program slicing. IEEE Trans. Softw. Eng. 10, 4, 352--357.

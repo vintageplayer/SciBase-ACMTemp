@@ -1,0 +1,57 @@
+Formal Syntax and Semantics of Java, January 1999
+D. Ancona , G. Lagorio , E. Zucca, A core calculus for Java exceptions, Proceedings of the 16th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, p.16-30, October 14-18, 2001, Tampa Bay, FL, USA[doi>10.1145/504282.504284]
+Aspinall, D. 2000. Proof general---A generic tool for proof development. In Proceedings of the Tools and Algorithms for Construction and Analysis of Systems Conference, TACAS 2000, S. Graf and M. Schwartzbach, eds. LNCS, vol. 1785. Springer, New York, 38--42.
+Ballarin, C. 2003. Locales and locale expressions in Isabelle/Isar. In Proceedings of the Types for Proofs and Programs Conference, TYPES 2003, S. Berardi, et al. eds. LNCS, vol. 3085. Springer, New York, 34--50.
+Barthe, G. and Dufay, G. 2004. A tool-assisted framework for certified bytecode verification. In Proceedings of the Conference Fundamental Approaches to Software Engineering, FASE 2004, M. Wermelinger and T. Margaria, eds. LNCS, vol. 2984. Springer, New York, 99--113.
+Barthe, G., Dufay, G., Jakubiec, L., Serpette, B., and de Sousa, S. M. 2001. A formal executable semantics of the JavaCard platform. In Proceedings of the Programming Languages and Systems (ESOP 2001) Conference, D. Sands, ed. LNCS, vol. 2028. Springer, New York, 302--319.
+Berghofer, S. 2003. Proofs, programs and executable specifications in higher order logic. Ph.D. thesis, Institut für Informatik, Technische Universität München.
+Stefan Berghofer , Tobias Nipkow, Executing Higher Order Logic, Selected papers from the International Workshop on Types for Proofs and Programs, p.24-40, December 08-12, 2000
+Bertelsen, P. 1997. Semantics of Java bytecode. Tech. rep., Technical University of Denmark. Mar. http://home.tiscali.dk/petermb/.
+Martin Büchi , Wolfgang Weck, Compound types for Java, Proceedings of the 13th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, p.362-373, October 18-22, 1998, Vancouver, British Columbia, Canada[doi>10.1145/286936.286975]
+Alessandro Coglio, Simple verification technique for complex Java bytecode subroutines: Research Articles, Concurrency and Computation: Practice & Experience, v.16 n.7, p.647-670, June 2004[doi>10.1002/cpe.v16:7]
+Coglio, A., Goldberg, A., and Qian, Z. 2000. Toward a provably-correct implementation of the JVM bytecode verifier. In Proceedings of the DARPA Information Survivability Conference and Exposition (DISCEX'00), vol. 2. IEEE Computer Society Press, Las Alamitos, Calif., 403--410.
+Cohen, R. 1997. The defensive Java virtual machine specification. Tech. rep., Computational Logic Inc. http://www.cli.com/software/djvm/.
+Maulik A. Dave, Compiler verification: a bibliography, ACM SIGSOFT Software Engineering Notes, v.28 n.6, November 2003[doi>10.1145/966221.966235]
+Drossopoulou, S. and Eisenbach, S. 1999. Describing the semantics of Java and proving type soundness. In Formal Syntax and semantics of a Java. LNCS, vol. 1523. Springer, New York 41--82.
+Flatt, M., Krishnamurthi, S., and Felleisen, M. 1999. A programmer's reduction semantics for classes and mixins. In Formal Syntax and semantics of a Java. LNCS, vol. 1523. Springer, New York, 241--269.
+Stephen Neil Freund , John C. Mitchell, Type systems for object-oriented intermediate languages, Stanford University, Stanford, CA, 2000
+Stephen N. Freund , John C. Mitchell, A Type System for the Java Bytecode Language and Verifier, Journal of Automated Reasoning, v.30 n.3-4, p.271-321, 2003[doi>10.1023/A:1025011624925]
+Allen Goldberg, A specification of Java loading and bytecode verification, Proceedings of the 5th ACM conference on Computer and communications security, p.49-58, November 02-05, 1998, San Francisco, California, USA[doi>10.1145/288090.288104]
+Pieter H. Hartel , Luc Moreau, Formalizing the safety of Java, the Java virtual machine, and Java card, ACM Computing Surveys (CSUR), v.33 n.4, p.517-558, December 2001[doi>10.1145/503112.503115]
+Huisman, M. 2001. Reasoning about Java programs in higher order logic with PVS and Isabelle. Ph.D. thesis, Universiteit Nijmegen.
+Hutton, G. and Wright, J. 2004. Compiling exceptions correctly. In Mathematics of Program Construction, MPC 2004, D. Kozen and C. Shankland, eds. LNCS, vol. 3125. Springer, New York, 211--227.
+Atsushi Igarashi , Benjamin C. Pierce , Philip Wadler, Featherweight Java: a minimal core calculus for Java and GJ, ACM Transactions on Programming Languages and Systems (TOPLAS), v.23 n.3, p.396-450, May 2001[doi>10.1145/503502.503505]
+Gary A. Kildall, A unified approach to global program optimization, Proceedings of the 1st annual ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.194-206, October 01-03, 1973, Boston, Massachusetts[doi>10.1145/512927.512945]
+Klein, G. 2003. Verified Java bytecode verification. Ph.D. thesis, Institut für Informatik, Technische Universität München.
+Klein, G. and Nipkow, T. 2001. Verified lightweight bytecode verification. Concurrency and Comput. Practice and Experience 13, 1133--1151.
+Gerwin Klein , Tobias Nipkow, Verified bytecode verifiers, Theoretical Computer Science, v.298 n.3, p.583-626, 11 April 2003[doi>10.1016/S0304-3975(02)00869-1]
+Klein, G. and Strecker, M. 2004. Verified bytecode verification and type-certifying compilation. J. Logic Algebraic Program. 58, 1--2, 27--60.
+G. Klein , M. Wildmoser, Verified Bytecode Subroutines, Journal of Automated Reasoning, v.30 n.3-4, p.363-398, 2003[doi>10.1023/A:1025095122199]
+Christopher League , Zhong Shao , Valery Trifonov, Type-preserving compilation of Featherweight Java, ACM Transactions on Programming Languages and Systems (TOPLAS), v.24 n.2, p.112-152, March 2002[doi>10.1145/514952.514954]
+Xavier Leroy, Java Bytecode Verification: Algorithms and Formalizations, Journal of Automated Reasoning, v.30 n.3-4, p.235-269, 2003[doi>10.1023/A:1025055424017]
+Tim Lindholm , Frank Yellin, Java Virtual Machine Specification, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1999
+Hanbing Liu , J Strother Moore, Executable JVM model for analytical reasoning: a study, Proceedings of the 2003 workshop on Interpreters, virtual machines and emulators, p.15-23, June 12-12, 2003, San Diego, California[doi>10.1145/858570.858572]
+Steven S. Muchnick, Advanced compiler design and implementation, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1998
+Nipkow, T. 1991. Higher-order critical pairs. In Proceedings of the 6th IEEE Symposium on Logic in Computer Science. IEEE Computer Society Press, Los Alamitos, Calif., 342--349.
+Nipkow, T. 2001. Verified bytecode verifiers. In Proceedings of the Foundations of Software Science and Computation Structures Conference, (FOSSACS 2001), F. Honsell, ed. LNCS, vol. 2030. Springer, New York, 347--363.
+Tobias Nipkow, Java Bytecode Verification, Journal of Automated Reasoning, v.30 n.3-4, p.233-233, 2003[doi>10.1023/A:1025086804452]
+Tobias Nipkow, Structured proofs in isar/HOL, Proceedings of the 2002 international conference on Types for proofs and programs, p.259-278, April 24-28, 2002, Berg en Dal, The Netherlands
+Nipkow, T. 2005. Jinja: Towards a comprehensive formal semantics for a Java-like language. In Proof Technology and Computation, Proceedings of the Marktobderdorf Summer School Conference 2003, H. Schwichtenberg and K. Spies, eds. IOS Press Amsterdam, the Netherlands.
+Tobias Nipkow , David von Oheimb, Javalightis type-safe—definitely, Proceedings of the 25th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.161-170, January 19-21, 1998, San Diego, California, USA[doi>10.1145/268946.268960]
+Tobias Nipkow , Markus Wenzel , Lawrence C. Paulson, Isabelle/HOL: a proof assistant for higher-order logic, Springer-Verlag, Berlin, Heidelberg, 2002
+Oheimb, D. v. and Nipkow, T. 1999. Machine-Checking the Java specification: Proving type-safety. In Formal Syntax and semantics of a Java. LNCS, vol. 1523. Springer, New York, 119--156.
+Pusch, C. 1999. Proving the soundness of a Java bytecode verifier specification in Isabelle/HOL. In Proceedings of the Tools and Algorithms for the Construction and Analysis of Systems Conference (TACAS'99), W. Cleaveland, ed. LNCS, vol. 1579. Springer, New York, 89--103.
+Zhenyu Qian, Standard fixpoint iteration for Java bytecode verification, ACM Transactions on Programming Languages and Systems (TOPLAS), v.22 n.4, p.638-672, July 2000[doi>10.1145/363911.363915]
+Rose, E. 2002. Vérification de code d'octet de la machine virtuelle Java. Formalisation et implantation. Ph.D. thesis, Université Paris VII.
+Eva Rose, Lightweight Bytecode Verification, Journal of Automated Reasoning, v.31 n.3-4, p.303-334, 2003[doi>10.1023/B:JARS.0000021015.15794.82]
+Rose, E. and Rose, K. 1998. Lightweight bytecode verification. In Proceedings of the OOPSLA'98 Workshop on Formal Underpinnings of Java.
+Schirmer, N. 2003. Java definite assignment in Isabelle/HOL. In Proceedings of the Formal Techniques for Java-like Programs 2003 Conference, S. Eisenbach et al. eds. Chair of Software Engineering, ETH Zürich. Technical Report 108.
+Norbert Schirmer, Analysing the Java package-access concepts in Isabelle-HOL: Research Articles, Concurrency and Computation: Practice & Experience, v.16 n.7, p.689-706, June 2004[doi>10.1002/cpe.v16:7]
+Stärk, R. and Schmid, J. 2001. The problem of bytecode verification in current implementations of the JVM. Tech. rep., Department of Computer Science, ETH Zürich.
+Robert F. Stark , E. Borger , Joachim Schmid, Java and the Java Virtual Machine: Definition, Verification, Validation with Cdrom, Springer-Verlag New York, Inc., Secaucus, NJ, 2001
+Raymie Stata , Martín Abadi, A type system for Java bytecode subroutines, Proceedings of the 25th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.149-160, January 19-21, 1998, San Diego, California, USA[doi>10.1145/268946.268959]
+Martin Strecker, Formal Verification of a Java Compiler in Isabelle, Proceedings of the 18th International Conference on Automated Deduction, p.63-77, July 27-30, 2002
+Syme, D. 1999. Proving Java type soundness. In Formal Syntax and Semantics of Java. LNCS, vol. 1523. Springer, New York. 83--118.
+Wenzel, M. 2002. Isabelle/Isar---A versatile environment for human-readable formal proof documents. Ph.D. thesis, Institut für Informatik, Technische Universität München. http://tumb1.biblio.tu-muenchen.de/publ/diss/in/2002/wenzel.html.
+Andrew K. Wright , Matthias Felleisen, A syntactic approach to type soundness, Information and Computation, v.115 n.1, p.38-94, Nov. 15, 1994[doi>10.1006/inco.1994.1093]
+William D. Young, A mechanically verified code generator, Journal of Automated Reasoning, v.5 n.4, p.493-518, Dec. 1989

@@ -1,0 +1,67 @@
+Frances Allen , Michael Burke , Philippe Charles , Ron Cytron , Jeanne Ferreant, An overview for the PTRAN analysis system for multiprocessing, Journal of Parallel and Distributed Computing, v.5 n.5, p.617-640, October 1988[doi>10.1016/0743-7315(88)90015-9]
+ALLEN, F. E. Interprocedural data flow analysis. In Proceedings of the IFIP Congress 74 (Stockholm, Aug. 5-10, 1974). North-Holland, Amsterdam, 1974, pp. 398-402.
+F. E. Allen , J. Cocke, A program data flow analysis procedure, Communications of the ACM, v.19 n.3, p.137, March 1976[doi>10.1145/360018.360025]
+ALLEN, F. E., CARTER, J. L., FABR1, J., FERRANTE, J., HARRISON, W. H., LOEWNER, P. G., AND TREVILLYAN, L.H. The experimental compiling system. IBM J. Res. Dev. 24, 6 (Nov. 1980), 695-715.
+John Randal Allen, Dependence analysis for subscripted variables and its application to program transformations, 1983
+r. Allen , D. Callahan , K. Kennedy, Automatic decomposition of scientific programs for parallel execution, Proceedings of the 14th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.63-76, January 21-23, 1987, Munich, West Germany[doi>10.1145/41625.41631]
+BANERJEE, U. Data dependence in ordinary programs. M.S. thesis, Computer Science Dept., Univ. of Illinois at Urbana-Champaign, Urbana, 1976.
+John Phineas Banning, A method for determining the side effects of procedure calls., 1978
+John P. Banning, An efficient way to find the side effects of procedure calls and the aliases of variables, Proceedings of the 6th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.29-41, January 29-31, 1979, San Antonio, Texas[doi>10.1145/567752.567756]
+Jeffrey M. Barth, A practical interprocedural data flow analysis algorithm, Communications of the ACM, v.21 n.9, p.724-736, Sept. 1978[doi>10.1145/359588.359596]
+Jeffrey M. Barth, An interprocedural data flow analysis algorithm, Proceedings of the 4th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.119-131, January 17-19, 1977, Los Angeles, California[doi>10.1145/512950.512962]
+BECKMAN-DAVIES, C.S. Improving parallelism in LINPACK. M.S. thesis, Computer Science Dept., Univ. of Illinois at Urbana-Champaign, Urbana, May 1983.
+BURKE, M. An interval analysis approach toward interprocedural data-flow. IBM Res. Rep. RC10640, IBM Corp., Armonk, N.Y., July 1984.
+BURKE, M. An interval-based approach to exhaustive and incremental interprocedural dataflow analysis. IBM Res. Rep. RC12702, IBM Corp., Armonk, N.Y., Aug. 1987.
+Michael Burke , Ron Cytron, Interprocedural dependence analysis and parallelization, ACM SIGPLAN Notices, v.21 n.7, p.162-175, July 1986[doi>10.1145/13310.13328]
+Michael G. Burke , Barbara G. Ryder, A Critical Analysis of Incremental Iterative Data Flow Analysis Algorithms, IEEE Transactions on Software Engineering, v.16 n.7, p.723-728, July 1990[doi>10.1109/32.56098]
+BURKE, M., COOPER, K. D., KENNEDY, K., AND TORCZON, L. Interprocedural optimization: Eliminating unnecessary recompilation. IBM Res. Rep., IBM, Armonk, N.Y., July 1990.
+D. Callahan, The program summary graph and flow-sensitive interprocedual data flow analysis, Proceedings of the ACM SIGPLAN 1988 conference on Programming Language design and Implementation, p.47-56, June 20-24, 1988, Atlanta, Georgia, United States[doi>10.1145/53990.53995]
+Martin Donald Carroll , Barbara Ryder, Data flow update via dominator and attribute updates, 1988
+Keith Daniel Cooper, Interprocedural data flow analysis in a programming environment, 1983
+Keith D. Cooper, Analyzing aliases of reference formal parameters, Proceedings of the 12th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.281-290, January 14-16, 1985, New Orleans, Louisiana, United States[doi>10.1145/318593.318658]
+Keith D. Cooper , Ken Kennedy, Efficient computation of flow insensitive interprocedural summary information, Proceedings of the 1984 SIGPLAN symposium on Compiler construction, p.247-258, June 17-22, 1984, Montreal, Canada[doi>10.1145/502874.502898]
+COOPER, K. D., AND KENNEDY, K. Complexity of interprocedural side-effect analysis. Tech. Rep. 87-61, Dept. of Computer Science, Rice Univ., Houston, Tex., 1987.
+K. D. Cooper , K. Kennedy, Interprocedural side-effect analysis in linear time, Proceedings of the ACM SIGPLAN 1988 conference on Programming Language design and Implementation, p.57-66, June 20-24, 1988, Atlanta, Georgia, United States[doi>10.1145/53990.53996]
+K. D. Cooper , K. Kennedy, Fast interprocedual alias analysis, Proceedings of the 16th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.49-59, January 11-13, 1989, Austin, Texas, United States[doi>10.1145/75277.75282]
+Keith D. Cooper , Ken Kennedy , Linda Torczon, The impact of interprocedural analysis and optimization in the Rnprogramming environment, ACM Transactions on Programming Languages and Systems (TOPLAS), v.8 n.4, p.491-523, Oct. 1986[doi>10.1145/6465.6489]
+CYTRON, a. Doacross: Beyond veetorization for multiprocessors. In Proceedings of the 1986 International Conference on Parallel Processing (St. Charles, Ill., Aug. 1986). Dept. of Electrical Engineering, Pennsylvania State Univ., University Park, 1986, pp. 836-844.
+EVE, J., AND KURKI-SUONIO, R. On computing the transitive closure of a relation. Acta Inf. 8 (1977), 303-314.
+Stefan M. Freudenberger , Jacob T. Schwartz , Micha Sharir, Experience with the SETL Optimizer, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.1, p.26-45, Jan. 1983[doi>10.1145/357195.357197]
+Vida Ghodssi, Incremental analysis of programs, 1983
+Susan L. Graham , Mark Wegman, A Fast and Usually Linear Algorithm for Global Flow Analysis, Journal of the ACM (JACM), v.23 n.1, p.172-202, Jan. 1976[doi>10.1145/321921.321939]
+Matthew S. Hecht, Flow Analysis of Computer Programs, Elsevier Science Inc., New York, NY, 1977
+HECHT, M. S., AND ULLMAN, J.D. Flow graph reducibility. SIAM J. Comput. 1, 2 (June 1972), 188-202.
+M. S. Hecht , J. D. Ullman, Characterizations of Reducible Flow Graphs, Journal of the ACM (JACM), v.21 n.3, p.367-375, July 1974[doi>10.1145/321832.321835]
+HECHT, M. S., AND ULLMAN, J.D. A simple algorithm for global data-flow analysis problems. SIAMJ. Comput. 4, 4 (Dec. 1975), 519-532.
+HUSON, C.A. An in-line subroutine expander for parafrase. M.S. thesis, Computer Science Dept., Univ. of Illinois at Urbana-Champaign, Urbana, 1982.
+John B. Kam , Jeffrey D. Ullman, Global Data Flow Analysis and Iterative Algorithms, Journal of the ACM (JACM), v.23 n.1, p.158-171, Jan. 1976[doi>10.1145/321921.321938]
+KAM, J. B., AND ULLMAN, J.D. Monotone data-flow analysis frameworks. Acta Inf 7 (1977), 305-317.
+KENNEDY, K. A global flow analysis algorithm. Int. J. Comput. Math. 3 (Dec. 1971), 5-15.
+KENNEDY, K. A comparison of two algorithms for global data flow analysis. SIAM J. Comput. 5, I (Mar. 1976), 158-180.
+Gary A. Kildall, A unified approach to global program optimization, Proceedings of the 1st annual ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.194-206, October 01-03, 1973, Boston, Massachusetts[doi>10.1145/512927.512945]
+D. J. Kuck , R. H. Kuhn , D. A. Padua , B. Leasure , M. Wolfe, Dependence graphs and compiler optimizations, Proceedings of the 8th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.207-218, January 26-28, 1981, Williamsburg, Virginia[doi>10.1145/567532.567555]
+Thomas J. Marlowe , Barbara G. Ryder, Data-flow analysis and incremental iteration, 1989
+Eugene M. Myers, A precise inter-procedural data flow algorithm, Proceedings of the 8th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.219-230, January 26-28, 1981, Williamsburg, Virginia[doi>10.1145/567532.567556]
+PADUA, D., KUCK, D., AND LAWRIE, D. High-speed multiprocessors and compilation techniques. IEEE Trans. Comput. C-29, 9 (Sept. 1980), 763-776.
+S. Richardson , M. Ganapathi, Interprocedual optimization: experimental results, Software—Practice & Experience, v.19 n.2, p.149-169, February 1989[doi>10.1002/spe.4380190205]
+Barry K. Rosen, High-level data flow analysis, Communications of the ACM, v.20 n.10, p.712-724, Oct. 1977[doi>10.1145/359842.359849]
+Barry K. Rosen, Data Flow Analysis for Procedural Languages, Journal of the ACM (JACM), v.26 n.2, p.322-344, April 1979[doi>10.1145/322123.322135]
+ROSEN, B. K. Monoids for rapid data-flow analysis. SlAM J. Comput. 9, i (Feb. 1980), 159-196.
+Barry K. Rosen, Linear cost is sometimes quadratic, Proceedings of the 8th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.117-124, January 26-28, 1981, Williamsburg, Virginia[doi>10.1145/567532.567545]
+ROSEN, B.K. A lubricant for data flow analysis. SIAM J. Comput. 11, 3 (Aug. 1982), 493-511.
+Barbara G. Ryder, Incremental data flow analysis, Proceedings of the 10th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.167-176, January 24-26, 1983, Austin, Texas[doi>10.1145/567067.567084]
+Barbara Gershon Ryder, Incremental data flow analysis based on a unified model of elimination algorithms, 1982
+Martin Carroll , Barbara G Ryder, An incremental algorithm for software analysis, Proceedings of the second ACM SIGSOFT/SIGPLAN software engineering symposium on Practical software development environments, p.171-179, December 09-11, 1986, Palo Alto, California, United States[doi>10.1145/24208.24228]
+Barbara G. Ryder , Marvin C. Paull, Elimination algorithms for data flow analysis, ACM Computing Surveys (CSUR), v.18 n.3, p.277-316, Sept. 1986[doi>10.1145/27632.27649]
+Barbara G. Ryder , Marvin C. Paull, Incremental data-flow analysis algorithms, ACM Transactions on Programming Languages and Systems (TOPLAS), v.10 n.1, p.1-50, Jan. 1988[doi>10.1145/42192.42193]
+B. G. Ryder , T. J. Marlowe , M. C. Paull, Conditions for incremental iteration: examples and counterexamples, Science of Computer Programming, v.11 n.1, p.1-15, Oct. 1988[doi>10.1016/0167-6423(88)90061-5]
+SCHWARTZ, J. T., AND SHARIR, M. A design for optimizations of the bitvectoring class. Courant Computer Science Rep. 17, New York Univ., New York, Sept. 1979.
+TARJAN, R.Depth-first search and linear graph algorithms. SIAM J. Comput. 1, 2 (Sept. 1972), 146-160.
+TARJAN, g. Testing flow graph reducibility. J. Comput. Syst. Sci. 9, 3 (Dec. 1974), 355-365.
+Robert Endre Tarjan, A Unified Approach to Path Problems, Journal of the ACM (JACM), v.28 n.3, p.577-593, July 1981[doi>10.1145/322261.322272]
+Robert Endre Tarjan, Fast Algorithms for Solving Path Problems, Journal of the ACM (JACM), v.28 n.3, p.594-614, July 1981[doi>10.1145/322261.322273]
+ULLMAN, J.D. Fast algorithms for the elimination of common subexpressions. Acta Inf. 2, 3 (1973), 191-213.
+Stephen Warshall, A Theorem on Boolean Matrices, Journal of the ACM (JACM), v.9 n.1, p.11-12, Jan. 1962[doi>10.1145/321105.321107]
+WEGBREIT, B. Property extraction in well-founded property sets. IEEE Trans. Softw. Eng. 1, 3 (Sept. 1975), 270-285.
+Michael Joseph Wolfe, Optimizing supercompilers for supercomputers, 1982
+Frank Kenneth Zadeck, Incremental data flow analysis in a structured program editor, Proceedings of the 1984 SIGPLAN symposium on Compiler construction, p.132-143, June 17-22, 1984, Montreal, Canada[doi>10.1145/502874.502888]

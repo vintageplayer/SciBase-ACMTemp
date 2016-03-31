@@ -1,0 +1,21 @@
+Simon B. Jones , Daniel Le Métayer, Compile-time garbage collection by sharing analysis, Proceedings of the fourth international conference on Functional programming languages and computer architecture, p.54-74, September 11-13, 1989, Imperial College, London, United Kingdom
+Manuel Montenegro , Ricardo Peña , Clara Segura, An Inference Algorithm for Guaranteeing Safe Destruction, Logic-Based Program Synthesis and Transformation: 18th International Symposium, LOPSTR 2008, Valencia, Spain, July 17-18, 2008, Revised Selected Papers, Springer-Verlag, Berlin, Heidelberg, 2009
+Benjamin Goldberg , Michael Gloger, Polymorphic type reconstruction for garbage collection without tags, ACM SIGPLAN Lisp Pointers, v.V n.1, p.53-65, Jan. 1992
+Leena Unnikrishnan , Scott D. Stoller , Yanhong A. Liu, Automatic Accurate Live Memory Analysis for Garbage-Collected Languages, ACM SIGPLAN Notices, v.36 n.8, p.102-111, Aug. 2001
+Young Gil Park , Benjamin Goldberg, Escape analysis on lists, ACM SIGPLAN Notices, v.27 n.7, p.116-127, July 1992
+Mads Tofte , Jean-Pierre Talpin, Implementation of the typed call-by-value λ-calculus using a stack of regions, Proceedings of the 21st ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.188-201, January 16-19, 1994, Portland, Oregon, United States
+David Gay , Bjarne Steensgaard, Fast Escape Analysis and Stack Allocation for Object-Based Programs, Proceedings of the 9th International Conference on Compiler Construction, p.82-93, March 25-April 02, 2000
+Vitaly V. Mikheev , Stanislav A. Fedoseev, Compiler-Cooperative Memory Management in Java, Revised Papers from the 4th International Andrei Ershov Memorial Conference on Perspectives of System Informatics: Akademgorodok, Novosibirsk, Russia, p.511-518, July 02-06, 2001
+Pascal Fradet, Collecting more garbage, ACM SIGPLAN Lisp Pointers, v.VII n.3, p.24-33, July-Sept. 1994
+Henry G. Baker, Unify and conquer, Proceedings of the 1990 ACM conference on LISP and functional programming, p.218-226, June 27-29, 1990, Nice, France
+Ran Shaham , Eran Yahav , Elliot K. Kolodner , Mooly Sagiv, Establishing local temporal heap safety properties with applications to compile-time memory management, Proceedings of the 10th international conference on Static analysis, June 11-13, 2003, San Diego, CA, USA
+Ran Shaham , Eran Yahav , Elliot K. Kolodner , Mooly Sagiv, Establishing local temporal heap safety properties with applications to compile-time memory management, Science of Computer Programming, v.58 n.1-2, p.264-289, October 2005
+Joseph Hummel , Laurie J. Hendren , Alexandru Nicolau, A general data dependence test for dynamic, pointer-based data structures, ACM SIGPLAN Notices, v.29 n.6, p.218-229, June 1994
+Bruno Blanchet, Escape analysis for object-oriented languages: application to Java, ACM SIGPLAN Notices, v.34 n.10, p.20-34, Oct. 1999
+Alan Deutsch, On determining lifetime and aliasing of dynamically allocated data in higher-order functional specifications, Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.157-168, December 1989, San Francisco, California, USA
+Bruno Blanchet, Escape analysis: correctness proof, implementation and experimental results, Proceedings of the 25th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.25-37, January 19-21, 1998, San Diego, California, USA
+Bruno Blanchet, Escape analysis for JavaTM: Theory and practice, ACM Transactions on Programming Languages and Systems (TOPLAS), v.25 n.6, p.713-775, November 2003
+Anne Mulkers , William Winsborough , Maurice Bruynooghe, Live-structure dataflow analysis for Prolog, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.2, p.205-258, March 1994
+Joseph Hummel , Laurie J. Hendren , Alexandru Nicolau, Abstract description of pointer data structures: an approach for improving the analysis and optimization of imperative programs, ACM Letters on Programming Languages and Systems (LOPLAS), v.1 n.3, p.243-260, Sept. 1992
+Henry G. Baker, Lively linear Lisp: “look ma, no garbage!”, ACM SIGPLAN Notices, v.27 n.8, p.89-98, Aug. 1992
+Ole Agesen , David Detlefs , J. Eliot Moss, Garbage collection and local variable type-precision and liveness in Java virtual machines, ACM SIGPLAN Notices, v.33 n.5, p.269-279, May 1998

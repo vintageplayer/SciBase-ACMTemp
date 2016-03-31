@@ -1,0 +1,60 @@
+Alexander Aiken , Edward L. Wimmers, Type inclusion constraints and type inference, Proceedings of the conference on Functional programming languages and computer architecture, p.31-41, June 09-11, 1993, Copenhagen, Denmark[doi>10.1145/165180.165188]
+Richard S. Bird , Lambert G. L. T. Meertens, Nested Datatypes, Proceedings of the Mathematics of Program Construction, p.52-67, June 15-17, 1998
+James Cheney , Ralf Hinze, A lightweight implementation of generics and dynamics, Proceedings of the 2002 ACM SIGPLAN workshop on Haskell, p.90-104, October 03, 2002, Pittsburgh, Pennsylvania[doi>10.1145/581690.581698]
+Cheney, J. and Hinze, R. 2003. First-Class phantom types. Tech. Rep. 1901, Cornell University.
+Hubert Comon , Pierre Lescanne, Equational problems anddisunification, Journal of Symbolic Computation, v.7 n.3-4, p.371-425, March/April 1989[doi>10.1016/S0747-7171(89)80017-3]
+Karl Crary , Stephanie Weirich , Greg Morrisett, Intensional polymorphism in type-erasure semantics, Journal of Functional Programming, v.12 n.6, p.567-600, November 2002[doi>10.1017/S0956796801004282]
+Pavel Curtis, Constrained qualification in polymorphic type analysis, Cornell University, Ithaca, NY, 1990
+Tim Freeman , Frank Pfenning, Refinement types for ML, Proceedings of the ACM SIGPLAN 1991 conference on Programming language design and implementation, p.268-277, June 24-28, 1991, Toronto, Ontario, Canada[doi>10.1145/113445.113468]
+Hanus, M. 1988. Horn clause specifications with polymorphic types. Ph.D. thesis, Fachbereich Informatik, Universität Dortmund.
+Michael Hanus, Horn Clause Programs with Polymorphic Types: Semantics and Resolution, Proceedings of the International Joint Conference on Theory and Practice of Software Development, Volume 2: Advanced Seminar on Foundations of Innovative Software Development II and Colloquium on Current Issues in Programming Languages, p.225-240, March 13-17, 1989
+Fritz Henglein, Type inference with polymorphic recursion, ACM Transactions on Programming Languages and Systems (TOPLAS), v.15 n.2, p.253-289, April 1993[doi>10.1145/169701.169692]
+Hindley, J. R. 1969. The principal type-scheme of an object in combinatory logic. Trans. Am. Math. Soc. 146, 29--60.
+Hinze, R. 2003. Fun with phantom types. In The Fun of Programming, J. Gibbons and O. de Moor, Eds. Palgrave Macmillan, 245--262.
+Mark P. Jones, Qualified types: theory and practice, Cambridge University Press, New York, NY, 1995
+Jones, M. P. 1995. From Hindley-Milner types to first-class structures. Res. Rep. YALEU/DCS/RR-1075, Yale University. June.
+Jones, S. P., Vytiniotis, D., Weirich, S., and Washburn, G. 2005. Simple unification-based type inference for GADTs. Submitted.
+Viktor Kuncak , Martin Rinard, Structural Subtyping of Non-Recursive Types is Decidable, Proceedings of the 18th Annual IEEE Symposium on Logic in Computer Science, p.96, June 22-25, 2003
+Konstantin Läufer , Martin Odersky, Polymorphic type inference and abstract data types, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.5, p.1411-1430, Sept. 1994[doi>10.1145/186025.186031]
+Leroy, X., Doligez, D., Garrigue, J., Rémy, D., and Vouillon, J. 2005. The Objective Caml System.
+Maher, M. J. 1988. Complete axiomatizations of the algebras of finite, rational and infinite trees. In Proceedings of the IEEE Symposium on Logic in Computer Science (LICS). 348--357.
+Milner, R. 1978. A theory of type polymorphism in programming. J. Comput. Syst. Sci. 17, 3 (Dec.), 348--375.
+John C. Mitchell, Coercion and type inference, Proceedings of the 11th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.175-185, January 15-18, 1984, Salt Lake City, Utah, USA[doi>10.1145/800017.800529]
+Martin Odersky , Konstantin Läufer, Putting type annotations to work, Proceedings of the 23rd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.54-67, January 21-24, 1996, St. Petersburg Beach, Florida, USA[doi>10.1145/237721.237729]
+Martin Odersky , Martin Sulzmann , Martin Wehr, Type inference with constrained types, Theory and Practice of Object Systems, v.5 n.1, p.35-55, Jan. 1999[doi>10.1002/(SICI)1096-9942(199901/03)5:1<35::AID-TAPO4>3.0.CO;2-4]
+Paulin-Mohring, C. 1992. Inductive definitions in the system Coq: Rules and properties. Res. Rep. RR1992-49, ENS Lyon.
+Simon L. Peyton Jones, The Implementation of Functional Programming Languages (Prentice-Hall International Series in Computer Science), Prentice-Hall, Inc., Upper Saddle River, NJ, 1987
+Peyton Jones, S., Ed. 2003. Haskell 98 Language and Libraries: The Revised Report. Cambridge University Press, New York.
+Peyton Jones, S. and Shields, M. 2004. Lexically-Scoped type variables. Manuscript.
+Peyton Jones, S., Washburn, G., and Weirich, S. 2004. Wobbly types: Type inference for generalised algebraic data types. Tech. Rep. MS-CIS-05-26, University of Pennsylvania. July.
+Benjamin C. Pierce , David N. Turner, Local type inference, ACM Transactions on Programming Languages and Systems (TOPLAS), v.22 n.1, p.1-44, Jan. 2000[doi>10.1145/345099.345100]
+François Pottier , Nadji Gauthier, Polymorphic typed defunctionalization, Proceedings of the 31st ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.89-98, January 14-16, 2004, Venice, Italy[doi>10.1145/964001.964009]
+François Pottier , Yann Régis-Gianas, Stratified type inference for generalized algebraic data types, Conference record of the 33rd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.232-244, January 11-13, 2006, Charleston, South Carolina, USA[doi>10.1145/1111037.1111058]
+Pottier, F. and Rémy, D. 2005. The essence of ML type inference. In Advanced Topics in Types and Programming Languages, B. C. Pierce, Ed. MIT Press, Cambridge, MA. 389--489.
+Didier Rémy, Programming Objects with ML-ART, an Extension to ML with Abstract and Record Types, Proceedings of the International Conference on Theoretical Aspects of Computer Software, p.321-346, April 19-22, 1994
+Tim Sheard, Languages of the future, Companion to the 19th annual ACM SIGPLAN conference on Object-oriented programming systems, languages, and applications, October 24-28, 2004, Vancouver, BC, CANADA[doi>10.1145/1028664.1028711]
+Sheard, T. 2005. Ωmega.
+Sheard, T. and Pašalić, E. 2004. Meta-Programming with built-in type equality. In Proceedings of the Workshop on Logical Frameworks and Meta-Languages (LFM).
+Vincent Simonet, An extension of HM(X) with bounded existential and universal data-types, Proceedings of the eighth ACM SIGPLAN international conference on Functional programming, p.39-50, August 25-29, 2003, Uppsala, Sweden[doi>10.1145/944705.944710]
+Simonet, V. and Pottier, F. 2005. Constraint-Based type inference for guarded algebraic data types. Res. Rep. 5462, INRIA. Jan.
+Geoffrey S. Smith, Principal type schemes for functional programs with overloading and subtyping, Science of Computer Programming, v.23 n.2-3, p.197-226, Dec. 1994[doi>10.1016/0167-6423(94)00020-4]
+Stuckey, P. J. and Sulzmann, M. 2005. Type inference for guarded recursive data types. Manuscript.
+Martin Franz Sulzmann , Paul Hudak, A general framework for hindley/milner type systems with constraints, Yale University, New Haven, CT, 2000
+Sulzmann, M., Müller, M., and Zenger, C. 1999. Hindley/Milner style type systems in constraint form. Res. Rep. ACRC-99-009, University of South Australia, School of Computer and Information Science. July.
+Valery Trifonov , Scott F. Smith, Subtyping Constrained Types, Proceedings of the Third International Symposium on Static Analysis, p.349-365, September 24-26, 1996
+Tse, S. and Zdancewic, S. 2004. Run-Time principals in information-flow type systems. In Proceedings of the IEEE Symposium on Security and Privacy (S and P).
+Sergei G. Vorobyov, An Improved Lower Bound for the Elementary Theories of Trees, Proceedings of the 13th International Conference on Automated Deduction: Automated Deduction, p.275-287, August 03, 1996
+P. Wadler , S. Blott, How to make ad-hoc polymorphism less ad hoc, Proceedings of the 16th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.60-76, January 11-13, 1989, Austin, Texas, USA[doi>10.1145/75277.75283]
+Warren, D. H. D. 1982. Higher-Order extensions to PROLOG: Are they needed? In Machine Intelligence 10, J. E. Hayes et al., Eds. Ellis Horwood, Upper Saddle River, NJ. 441--454.
+Stephanie Weirich, Type-safe cast: (functional pearl), Proceedings of the fifth ACM SIGPLAN international conference on Functional programming, p.58-67, September 2000[doi>10.1145/351240.351246]
+Werner, B. 1994. Une théorie des constructions inductives. Ph.D. thesis, Université Paris 7.
+Andrew K. Wright , Matthias Felleisen, A syntactic approach to type soundness, Information and Computation, v.115 n.1, p.38-94, Nov. 15, 1994[doi>10.1006/inco.1994.1093]
+Hongwei Xi , Frank Pfenning, Dependent types in practical programming, Carnegie Mellon University, Pittsburgh, PA, 1998
+Xi, H. 1999. Dead code elimination through dependent types. In Proceedings of the International Workshop on Practical Aspects of Declarative Languages (PADL). Lecture Notes in Computer Science, vol. 1551. Springer Verlag, 228--242.
+Xi, H. 2001. Dependent ML.
+Xi, H. 2003. Dependently typed pattern matching. J. Universal Comput. Sci. 9, 8, 851--872.
+Xi, H. 2004. Applied type system. In Proceedings of the TYPES 2003 Conference. Lecture Notes in Computer Science, vol. 3085. Springer Verlag, 394--408.
+Hongwei Xi , Chiyan Chen , Gang Chen, Guarded recursive datatype constructors, Proceedings of the 30th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.224-235, January 15-17, 2003, New Orleans, Louisiana, USA[doi>10.1145/604131.604150]
+Hongwei Xi , Frank Pfenning, Dependent types in practical programming, Proceedings of the 26th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.214-227, January 20-22, 1999, San Antonio, Texas, USA[doi>10.1145/292540.292560]
+Christoph Zenger, Indexed types, Theoretical Computer Science, v.187 n.1-2, p.147-165, Nov. 15, 1997[doi>10.1016/S0304-3975(97)00062-5]
+Zenger, C. 1998. Indizierte typen. Ph.D. thesis, Universität Karlsruhe.

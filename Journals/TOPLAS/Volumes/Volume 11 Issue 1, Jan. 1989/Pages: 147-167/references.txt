@@ -1,0 +1,35 @@
+Bowen Lewis Alpern, Proving temporal properties of concurrent programs: a non-temporal approach, Cornell University, Ithaca, NY, 1986
+Bowen Alpern , Fred B. Schneider, Verifying Temporal Properties without using Temporal Logic, Cornell University, Ithaca, NY, 2001
+Howard Barringer , Ruurd Kuiper , Amir Pnueli, Now you may compose temporal logic specifications, Proceedings of the sixteenth annual ACM symposium on Theory of computing, p.51-63, December 1984[doi>10.1145/800057.808665]
+E. M. Clarke , O. Grumberg, Avoiding the state explosion problem in temporal logic model checking, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.294-303, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41865]
+E. M. Clarke , E. A. Emerson , A. P. Sistla, Automatic verification of finite state concurrent system using temporal logic specifications: a practical approach, Proceedings of the 10th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.117-126, January 24-26, 1983, Austin, Texas[doi>10.1145/567067.567080]
+Samuel Eilenberg, Automata, Languages, and Machines, Academic Press, Inc., Orlando, FL, 1974
+E. Allen Emerson , Chin-Laung Lei, Modalities for model checking (extended abstract): branching time strikes back, Proceedings of the 12th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.84-96, January 14-16, 1985, New Orleans, Louisiana, United States[doi>10.1145/318593.318620]
+E. Allen Emerson , A. Prasad Sistla, Deciding Branching Time Logic: A Triple Exponential Decision Procedure for CTL*, Proceedings of the Carnegie Mellon Workshop on Logic of Programs, p.176-192, June 06-08, 1983
+Nissim Francez, Fairness, Springer-Verlag New York, Inc., New York, NY, 1986
+Rob Gerth, Transition logic: How to reason about temporal properties in a compositional way, Proceedings of the sixteenth annual ACM symposium on Theory of computing, p.39-50, December 1984[doi>10.1145/800057.808664]
+C. A. R. Hoare, An axiomatic basis for computer programming, Communications of the ACM, v.12 n.10, p.576-580, Oct. 1969[doi>10.1145/363235.363259]
+JONES, C.B. Specification and design of (parallel) programs. In Information Processing '83, R. E. A. Mason, Ed. North-Holland, Amsterdam, 1983, pp. 321-332.
+R. P. Kurshan, Complementing deterministic Bu¨chi automata in polynomial time, Journal of Computer and System Sciences, v.35 n.1, p.59-71, Aug. 1987[doi>10.1016/0022-0000(87)90036-5]
+KURSHAN, g. Reducibility in analysis of coordination. In Discrete Event Systems: Models and Applications, Lecture Notes in Control and Information Sciences. IIASA, vol. 103, Springer-Verlag, New York, 1987, pp. 19-39.
+Leslie Lamport, Specifying Concurrent Program Modules, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.2, p.190-222, April 1983[doi>10.1145/69624.357207]
+LAMPORT, L. What good is temporal logic. In Information Processing '83, R. E. A. Mason, Ed. North-Holland, Amsterdam, 1983, pp. 657-668.
+Leslie Lamport , Fred B. Schneider, The ``Hoare Logic'' of CSP, and All That, ACM Transactions on Programming Languages and Systems (TOPLAS), v.6 n.2, p.281-296, April 1984[doi>10.1145/2993.357247]
+Daniel J. Lehmann , Amir Pnueli , Jonathan Stavi, Impartiality, Justice and Fairness: The Ethics of Concurrent Termination, Proceedings of the 8th Colloquium on Automata, Languages and Programming, p.264-277, July 13-17, 1981
+Orna Lichtenstein , Amir Pnueli, Checking that finite state concurrent programs satisfy their linear specification, Proceedings of the 12th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.97-107, January 14-16, 1985, New Orleans, Louisiana, United States[doi>10.1145/318593.318622]
+Zohar Manna , Amir Pnueli, The Modal Logic of Programs, Proceedings of the 6th Colloquium, on Automata, Languages and Programming, p.385-409, July 16-20, 1979
+MANNA, Z., AND PNUELI, A. Verification of concurrent programs: The temporal framework. In The Correctness Problem in Computer Science, R. S. Boyer and J. S. Moore, Eds. International Lecture Series in Computer Science. Academic Press, London, 1981, pp. 141-154.
+Zohar Manna , Amir Pnueli, Verification of Concurrent Programs: Temporal Proof Principles, Logic of Programs, Workshop, p.200-252, May 01, 1981
+Zohar Manna , Amir Pnueli, How to cook a temporal proof system for your pet language, Proceedings of the 10th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.141-154, January 24-26, 1983, Austin, Texas[doi>10.1145/567067.567082]
+MANNA, Z., AND PNUELI, A. Verification of concurrent programs: A temporal proof system. In Foundations of Computer Science IV, Distributed Systems: Part 2, J. W. DeBakkar and J. Van Leuwen, Eds. Mathematical Centre Tracts 159, Amsterdam, 1983, pp. 163-255.
+Zohar Manna , Amir Pnueli, Adequate proof principles for invariance and liveness properties of concurrent programs, Science of Computer Programming, v.4 n.3, p.257-289, Dec. 1984[doi>10.1016/0167-6423(84)90003-0]
+Z. Monna , A. Pnueli, Specification and verification of concurrent programs by A∀automata, Proceedings of the 14th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.1-2, January 21-23, 1987, Munich, West Germany[doi>10.1145/41625.41626]
+J. Misra , K. M. Chandy , Todd Smith, Proving safety and liveness of communicating processes with examples, Proceedings of the first ACM SIGACT-SIGOPS symposium on Principles of distributed computing, p.201-208, August 18-20, 1982, Ottawa, Canada[doi>10.1145/800220.806698]
+Van Nguyen , David Gries , Susan Owicki, A model and temporal proof system for networks of processes, Proceedings of the 12th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.121-131, January 14-16, 1985, New Orleans, Louisiana, United States[doi>10.1145/318593.318624]
+Susan Owicki , Leslie Lamport, Proving Liveness Properties of Concurrent Programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.3, p.455-495, July 1982[doi>10.1145/357172.357178]
+PEWERSON, G.L. Myths about the mutual exclusion problem. Inf. Process. Lett. 12, 3 (June 1981), 115-116.
+PNUELI, A. The temporal logic of programs. In Proceedings of the 18th Symposium on the Foundations of Computer Science (Providence, R.I., Nov. 1977). IEEE, New York, 1977, pp. 46-57.
+SgSTLA, A. P., ANO GERMAN, S. M. Reasoning with many processes. In Proceedings of the Symposium on Logic in Computer Science (Ithaca, N.Y., June 1987). IEEE, New York, 1987, pp. 138-152.
+E. W. Stark, FOUNDATIONS OF A THEORY OF SPECIFICATION FOR DISTRIBUTED SYSTEMS, Massachusetts Institute of Technology, Cambridge, MA, 1984
+VARDI, M. Y., AND WOLPER, P. An automata-theoretic approach to automatic program verification. In Proceedings of the Symposium on Logic in Computer Science (Boston, Mass, June 1986). IEEE, New York, 1986, pp. 332-344.
+WOLPER, P. Temporal logic can be more expressive. Inf. Control 56, 1-2 (1983), 72-99.

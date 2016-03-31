@@ -1,0 +1,259 @@
+AHO, A., HOPCROFT, J., AND ULLMAN, J.D. The Design and Analysis of Computer Algorithms. Addison-Wesley, Reading, Mass., 1976.
+BATCHER, K.E. Sorting networks and their applications. Proc. 1968 Spring JCC, AFIPS Press, Arlington, Va., pp. 307-314.
+BAUDET, G., AND STEVENSOn, D. Optimal sorting algorithms for parallel computers. Tech. Rep., Computer Science Dep., Carnegie-Mellon Univ., Pittsburgh, Pa. See also IEEE Trans. Comput. C-27 (1978), 84-86.
+BE~ES, V.E. Mathematical theory of connecting networks and telephone traffic. Academic Press, New York, 1965.
+CHANORA, A.K. Maximal parallelism in matrix multiplication. Rep. RC-6193, IBM Thomas J. Watson Research Center, Yorktown Heights, N.Y., 1976.
+CLOS, C. A study of nonblocking switching networks. Bell Syst. Tech. J. 32 (1953), 406-424.
+CSANKY, L. Fast parallel matrix inversion algorithms. SIAM J. Cornput. 5 (1976), 618-623. See also Proc. 16th Ann. IEEE Syrup. on Foundations of Computer Science, Berkeley, Calif., 1975, pp. 11-12.
+GOTrLIEB, A. PLUS--A PL/I ultracomputer simulator, I. Ultracomputer Note, Computer Science Dep., New York Univ., New York, N.Y., 1980.
+GOTTLIEB, A. PLUS--A PL/I ultracomputer simulator, II. Ultracomputer Note, Computer Science Dep., New York Univ., New York, N.Y., 1980.
+GOTTLIEB, A., AND KRUSKAL, C.P. MULT--A multitasking ultracomputer language with timing, I. Ultracomputer Note, Computer Science Dep., New York Univ., New York, N.Y., 1980.
+GOTTLIEB, A., AND KRUSKAL, C.P. MULT--A multitasking ultracomputer language with timing, xl 28II. Ultracomputer Note, Computer Science Dep., New York Univ., New York, N.Y., 1980. II. Ultracomputer Note, Computer Science Dep., New York Univ., New York, N.Y., 1980.
+GOTTLIEB, A., AND KRUSKAL, C.P. Supersaturated ultracomputer algorithms. Ultracomputer Note, Computer Science Dep., New York Univ., New York, N.Y., 1980.
+D. S. Hirschberg, Parallel algorithms for the transitive closure and the connected component problems, Proceedings of the eighth annual ACM symposium on Theory of computing, p.55-57, May 03-05, 1976, Hershey, Pennsylvania, USA[doi>10.1145/800113.803631]
+D. S. Hirschberg, Fast parallel sorting algorithms, Communications of the ACM, v.21 n.8, p.657-661, Aug. 1978[doi>10.1145/359576.359582]
+KNU?H, D.E. The Art of Computer Programming, Vol. 3: Sorting and Searching. Addison- Wesley, Reading, Mass., 1972, pp. 232-235.
+H. T. Kung, New Algorithms and Lower Bounds for the Parallel Evaluation of Certain Rational Expressions and Recurrences, Journal of the ACM (JACM), v.23 n.2, p.252-261, April 1976[doi>10.1145/321941.321945]
+K. N. Levitt , W. H. Kautz, Cellular arrays for the solution of graph problems, Communications of the ACM, v.15 n.9, p.789-801, Sept. 1972[doi>10.1145/361573.361576]
+David Nassimi , Sartaj Sahni, Parallel permutation and sorting algorithms and a new generalized connection network, Journal of the ACM (JACM), v.29 n.3, p.642-667, July 1982[doi>10.1145/322326.322329]
+NASSIMI, D., AND SAHNI, S. Bitonic sort on a mesh-connected parallel computer. IEEE Trans. Comput. C-28 (1979), 2-7.
+OPFERMAN, D.C., AND TSAo-Wu, N.T. On a class of rearrangeable switching networks. Bell Syst. Tech. J. 50 (1971), 1579-1618.
+Samuel E. Orcutt, Parallel solution methods for triangular linear systems of equations, Stanford University, Stanford, CA, 1974
+Marshall C. Pease, Matrix Inversion Using Parallel Processing, Journal of the ACM (JACM), v.14 n.4, p.757-764, Oct. 1967[doi>10.1145/321420.321434]
+Marshall C. Pease, An Adaptation of the Fast Fourier Transform for Parallel Processing, Journal of the ACM (JACM), v.15 n.2, p.252-264, April 1968[doi>10.1145/321450.321457]
+PRF. PARATA, F.P. Parallelism in sorting. Proc. 1977 Int. Conf. on Parallel Processing, Detroit, Mich., 1977, pp. 202-206.
+PREPARATA, F.P., AND SARWATE, D.V. An improved parallel processor bound in fast matrix inversion. Inf. Proc. Letters 7 (1978), 178-150.
+SAMr. H, A., AND BRENT, R. Solving triangular systems on a parallel computer. SIAM J. Numer. Anal. (1977), 1101-1113.
+STONr., H.S. Parallel processing with the perfect shuffle. IEEE Trans. Comput. C-20 (1971), 153-161.
+VALIANT, L.G. Parallelism in comparison problems. SIAM J. Cornput. 4 (1975), 348-355.
+Abraham Waksman, A Permutation Network, Journal of the ACM (JACM), v.15 n.1, p.159-163, Jan. 1968[doi>10.1145/321439.321449]
+Several useful surveys of algorithms for parallel numerical and nonnumerical computation have appeared. See Heller (1978), Miranker (1971), Kuck (1975), and Stone (1975b).
+ABRAMSON, N., AND KUO, F.F., EDS. Computer'Communication Networks. Prentice-Hall, Englewood Cliffs, N.J., 1973.
+ADAMS, D.A. A model for parallel computations. In Parallel Processor Systems, Technologies, and Applications, L.C. Hobbs, D.J. Theis, J. Trimble, H. Titus, and I. Highberg, Eds., Spartan Publishers, Washington, D.C., 1970, pp. 311-333.
+AHO, A., AND ULLMAN, J.D. Dynamic memories with rapid random and sequential access. IEEE Trans. Comput. C-23 (1974), 272-276.
+AKERS, S.B. A rectangular logic array. IEEE Trans. Comput. C-21 (1972), 848-857.
+George A. Anderson, Interconnecting a distributed processor system for avionics, Proceedings of the 1st annual symposium on Computer architecture, p.11-16, December 09-11, 1973[doi>10.1145/800123.803966]
+George A. Anderson , E. Douglas Jensen, Computer Interconnection Structures: Taxonomy, Characteristics, and Examples, ACM Computing Surveys (CSUR), v.7 n.4, p.197-213, Dec. 1975[doi>10.1145/356654.356658]
+Eshrat Arjomandi, A study of parallelism in graph theory., 1976
+ARJOMANDI, E., AND CORNF. IL, D.G. Parallel computations in graph theory. Proc. 16th Ann. IEEE Syrup. on Foundations of Computer Science, Berkeley, Calif., 1975, pp. 13-18.
+R. G. Arnold , E. W. Page, A hierarchical, restructurable multi-microprocessor architecture, Proceedings of the 3rd annual symposium on Computer architecture, p.40-45, January 19-21, 1976[doi>10.1145/800110.803547]
+AVRIEL, M., AND WILDE, D.J. Optimal search for a maximum with sequences of simultaneous function evaluations. Manage. Sci. 12 (1966), 722-731.
+BAER, J.L., AND RUSSELL, E.C. Preparation and evaluation of computer programs for parallel processing systems. In Parallel Processor Systems, Technologies, and Applications, L.C. Hobbs, D.J. Theis, J. Trimble, H. Titus, and I. Highberg, Eds., Spartan Publishers, Washington, D.C., 1970, pp. 375-415.
+BANDYOPADHYAY, $., BASU, S., AND CHOUDHARY, A.K. A cellular permuter array. IEEE Trans. Comput. C-21 (1972), 1116-1119.
+BARNES, G.H., BROWN, R., KATO, M., KUCK, D., SLOTNiCK, D., AND STOKES, R. The ILLIAC IV computer. IEEE Trans. Comput. C-17 (1968), 746-757.
+BASSALYGO, L.A., GRUSHKO, I.I., AND NEYMAN, V.I. Asymptotic estimation of the number of switching points in nonblocking circuits. Telecommun. Radio Eng. 24 (1970), 34-39.
+BASSALYG0, L.A., AND PINSKER, M.S. On the complexity of optimal nonblocking switching networks without rearrangement. Probl. Inf. Transm. 9 (1973), 84-87 (translation).
+BATCHER, K.E. The flip network in STARAN. Proc. 1976 Int. Conf. on Parallel Processing, Detroit, Mich., 1976, pp. 65-71.
+BATCHER, K.E. STARAN series E. Proc. 1977 Int. Conf. on Parallel Processing, Wayne State Univ., Detroit, Mich., 1977, pp. 140-143.
+BENES, V.E. Algebraic and topological properties of connecting networks. Bell Syst. Tech. J. 41 (1962), 1249-1273.
+BENES, V.E. Permutation groups, complexes, and rearrangeable connecting networks. Bell Syst. Tech. J. 43 (1964), 1619-1640.
+BENES, V.E. Optimal rearrangeable multistage connecting networks. Bell Syst. Tech. J. 42 (1964), 1641-1656.
+BENES, V.E. Applications of group theory to connecting networks. Bell Syst. Tech. J. 54 (1975), 4O7-42O.
+BERNSTEIN, A. Analysis of programs for parallel processing. IEEE Trans. Electron. Comput. EC-15 (1966), 757-763.
+BOULTIS, R.L., AND FAISS, R.O. STARAN E performance and LACIE algorithms. Proc. 1977 Int. Conf. on Parallel Processing, Wayne State Univ., Detroit, Mich., 1977, pp. 144-152.
+Thomas H. Bredt, A survey of models for parallel computing, Stanford University, Stanford, CA, 1970
+BREDT, T.H., AND MCCLUSKEY, E.J. Analysis and synthesis of control mechanisms for parallel processes. In Parallel Processor Systems, Technologies, and Applications, L.C. Hobbs, D.J. Theis, J. Trimble, H. Titus, and I. Highberg, Eds., Spartan Publishers, Washington, D.C., 1970, pp. 287-296.
+BRENT, R. On the addition of binary numbers. IEEE Trans. Comput. C-19 (1970), 758-759.
+BRENT, R. The parallel evaluation of arithmetic expressions in logarithmic time. In Complexity of Sequential and Parallel Numerical Algorithms, J.F. Traub, Ed., Academic Press, New York, pp. 83- 102.
+Richard P. Brent, The Parallel Evaluation of General Arithmetic Expressions, Journal of the ACM (JACM), v.21 n.2, p.201-206, April 1974[doi>10.1145/321812.321815]
+BRENT, R., KUCK, D., AND MARUYAMA, K. The parallel evaluation of arithmetic expressions without divisions. IEEE Trans. Comput. C-23 (1973), 532-534.
+BRINSFIELD, W.A., AND MILLER, R.E. On the composition of parallel program schemata. Conf. Rec. IEEE 12th Ann. Syrup. on Switching and Automata Theory, East Lansing, Mich., 1971, pp. 20-23.
+BRINSFIELD, W.A., AND MILLER, R.E. Insertion of parallel program schemata. Proc. 7th Ann. Princeton Conf. Information Sciences and Systems, Princeton, N.J., 1973.
+BUDNIK, P., AND KUCK, D.J. The organization and use of parallel memories. IEEE Trans. Comput. C-20 (1971), 1566-1569.
+BUZBEE, B.L. A fast Poisson solver amenable to parallel computation, iEEE Trans. Comput. C-22 (1973), 793-796.
+CALLAHAN, D. Parallel solution of sparse simultaneous linear equations. Tech. Rep., Dep. of Electrical Engineering, Univ. of Michigan, Ann Arbor, Mich., 1973.
+CANTOR, D.G. On nonblocking switching networks. Networks I (1971), 367-377.
+A. B. Carroll , R. T. Wetherald, Application of Parallel Processing to Numerical Weather Prediction, Journal of the ACM (JACM), v.14 n.3, p.591-614, July 1967[doi>10.1145/321406.321419]
+CASTI, J.L., RICHARDSON, M.H., AND LARSON, R.E. Dynamic programming in parallel computers. J. Optim. Theory Appl. 12 (1973), 423-438.
+CHANDRA~ A.K. Independent permutations, as related to a problem of Moser and a theorem of Polya. J. Comb. Theory Series A 16 (1974), 111-120.
+CHAZAN, D., AND MIRANKER, W.L. Chaotic relaxation. Linear Alg. Appl. 2 (1969), 199-222.
+CHAZAN, D., AND MIRANKER, W.L. A nongradient and parallel algorithm for unconstrained minimization. SlAM J. Control 8 (1970), 207-217.
+CHEN, I.N. A cellular data manipulating array. Proc. 1975 Sagamore Conf. on Parallel Processing, Sagamore Lake, N.Y., 1975, p. 114.
+Shyh-Ching Chen, Speedup of iterative programs in multiprocessing systems., University of Illinois at Urbana-Champaign, Champaign, IL, 1975
+CHEN, S.C. Time and parallel processor bounds for linear recurrence systems with constant coefficients. Proc. 1976 Int. Conf. on Parallel Processing, Detroit, Mich., 1976, pp. 196-205.
+CHEN, S.C., AND KUCK, D.J. Time and parallel processor bounds for linear recurrence systems. IEEE Trans. Comput. C-24 (1975), 701-717.
+CHEN, S.C., AND SAMEH, A. On parallel triangular system solvers. Proc. 1975 Sagamore Conf. on Parallel Processing, Sagamore Lake, N.Y., 1975, pp. 237-238.
+CHEN, T.C. Parallelism, pipelining and computer efficiency. Comput. Design 10 (1971), 69-74.
+CHEN, T.C. Unconventional superspeed computer systems. AFIPS Proc. 1971 Spring JCC, Vol. 38, AFIPS Press, Arlington, Va., pp. 365-371.
+CHrN, Y.K., AND FENG, T. A parallel algorithm for the maximum flow problem (summary). Proc. 1973 Sagamore Conf. on Parallel Processing, Sagamore Lake, N.Y., 1973, p. 60.
+COLE, S.N. Real-time computation by n-dimensional arrays of finite-state machines. IEEE Trans. Comput. C-18 (1969), 349-365.
+COPPAOr., S., AND SCHWARTZ, J.T. A fast switch. Amer. Math. Monthly 83 (1976), 711-717.
+CRANE, B.A., AND GiTHF. NS, J.A. Bulk processing in distributed logic memory. IEEE Trans. Electron. Comput. EC-14 (1965), 186-196.
+CSANKY, L. On the parallel complexity of some computational problems. Ph.D. Dissertation, Dep. of Computer Science, Univ. of California, Berkeley, Calif., 1974.
+CYRE, W.R., AND LIPOVSKI, G.J. On generating multipliers for a cellular fast Fourier transform processor. IEEE Trans. Comput. C-21 (1972), 83-87.
+DAVIDSON, I.A., AND FIELD, J.A. Design criteria for a switch for a multiprocessor computing system. Proc. 1975 Sagamore Conf. on Parallel Processing, Sagamore Lake, N.Y., 1975, pp 110-113.
+DENNIS, J.B., AND MISUNAS, D.P. A computer architecture for highly parallel signal processing. Proc. ACM 1974 National Conf., San Diego, Calif., pp. 402-409.
+Jack B. Dennis , David P. Misunas, A preliminary architecture for a basic data-flow processor, Proceedings of the 2nd annual symposium on Computer architecture, p.126-132, January 20-22, 1975[doi>10.1145/642089.642111]
+DONNELLY, J.D. Periodic chaotic relaxation. Linear Alg. Appl. 4 (1971), 117-128.
+DORN, W.S., Hsu, N.C., AND RIVLIN, T~J. Some mathematical aspects of parallel computation. Tech. Rep. RC-647, IBM Thomas J. Watson Research Center, Yorktown Heights, New York, 1962.
+DowNs, R.S. Real-time algorithms and data management on Illiac IV. IEEE Trans. Comput. C-22 (1973), 773-777.
+DRYSDALE, R.L. Sorting networks which generalize Batcher's odd-even merge. Honors Paper, Knox College, Galesburg, Ill., 1973.
+Denise Marie Eckstein, Parallel graph processing using depth-first search and breadth-first search., The University of Iowa, 1977
+ENSLOW, P.H., ED. Multiprocessors and parallel processors. John Wiley & Sons, New York, 1974.
+ERMANN, R.N., A~D GROSKY, W.I. Some computation and systems-theoretic properties of regular processor networks. Proc. 1976 Int. Conf. on Parallel Processing, Detroit, Mich., 1976, pp. 230-234.
+ESTRIN, G., BUSSELL, B., TURN, R., AND BIBB, J. Parallel processing in a restructurable computer system. IEEE Trans. Electron. Comput. EC-12 (1963), 747-755.
+Shimon Even, Parallelism in tape-sorting, Communications of the ACM, v.17 n.4, p.202-204, April 1974[doi>10.1145/360924.360941]
+EVENSEN, A.J., AND TROY, J.L. Introduction to the architecture of a 288-element PEPE. Proc. 1973 Sagamore Conf. on Parallel Processing, Sagamore Lake, N.Y., 1973, pp. 162-169.
+A. D. Falkoff, Algorithms for Parallel-Search Memories, Journal of the ACM (JACM), v.9 n.4, p.488-511, Oct. 1962[doi>10.1145/321138.321147]
+FENG, T.Y. Data manipulating functions in parallel processors and their implementations, iEEE Trans. Comput. C-23 (1964), 309-318.
+FENC, T.Y. A configurable multi-microprocessor organization. In Micro-Architecture of Computer Systems, Proc. Euromicro, Nice Workshop, 1975, R. Hartenstein, Ed., N(irth-Holland, Amsterdam, pp. 207-219.
+FISHER, D. Program analysis for multi-processing. Tech. Rep. TR-67-2, Burroughs Corp., 1967. FLOYD, R.W., AND KNUTH, D.E. The Bose-Nelson sorting problem. CS Rep. 70-177, Stanford Univ., Stanford, Calif., 1976.
+FLYNN, M.J. Very-high-speed computing systems. Proc. IEEE 54 (1966), 1901-1909.
+FLYNN, M.J., PoovIN, A., AND SHIMIZU, K. A multiple instruction stream processor with shared resources. In Parallel Processor Systems, Technologies, and Applications, L.C. Hobbs, D.J. Theis, J. Trimble, H. Titus, and I. Highberg, Eds., Spartan Publishers, Washington, D.C., 1970, pp. 215-286.
+GALE, D., AND KARP, R.K. A phenomenon in the theory of sorting. IEEE Conf. Rec. of llth Ann. Symp. on Switching and Automata Theory, Santa Monica, Calif., 1970, pp. 51-59.
+Fănică Gavril, Merging with parallel processors, Communications of the ACM, v.18 n.10, p.588-591, Oct. 1975[doi>10.1145/361020.361216]
+GENTLEMAN, W.M. Some complexity results for matrix computations on parallel processors. Tech. Rep., Dep. of Computer Science, Univ. of Waterloo, Waterloo, Ontario, Canada, 1976.
+GEORGE, A., POOLE, W.G., AND VOIOHT, R.G. Analysis of dissection algorithms for vector computers. Tech. Rep., Institute for Computer Applications in Science and Engineering, Hampton, Va., 1976.
+GILL, S. Parallel programming. Comput. J. I (1958), 2-10.
+P. A. Gilmore, Structuring of Parallel Algorithms, Journal of the ACM (JACM), v.15 n.2, p.176-192, April 1968[doi>10.1145/321450.321452]
+GILMORE, P.A. Parallel relaxation. Tech. Rep., Goodyear Aerospace Corp., Akron, Ohio, 1971.
+GOKE, R. Connecting networks for partitioning polymorphic systems. Ph.D. Dissertation, Dep. of Electrical Engineering, Univ. of Florida, Gainesville, Fla., 1976.
+L. Rodney Goke , G. J. Lipovski, Banyan networks for partitioning multiprocessor systems, Proceedings of the 1st annual symposium on Computer architecture, p.21-28, December 09-11, 1973[doi>10.1145/800123.803967]
+GOLOMB, S.W. Permutations by cutting and shuffling. SIAM Rev. 3 (1961), 293-297.
+GONZALES, M.J., AND RAMAMOORTHY, C.V. Recognition and representation of parallel processable streams in computer programs. In Parallel Processor Systems, Technologies and Applications, L.C.
+Hobbs, D.J. Theis, J. Trimble, H. Titus, and I. Highberg, Eds., Spartan Publishers, Washington, D.C., 1970, pp. 335-373.
+GONZALES, M.J., AND RAMAMOORTHY, C.V. Program suitability for parallel processing. IEEE Trans. Comput. C-20 (1971), 647-654.
+GREEN, M.W. Some improvements in nonadaptive sorting algorithms. Proc. 6th Ann. Princeton Conf.' on Information Sciences and Systems, Princeton, N.J., 1972, pp. 387-391.
+HARADH, K. Sequential permutation networks. IEEE Trans. Comput. C-21 (1972), 472-479.
+HELLER, D. A determinant theorem with applications to parallel algorithms. Tech. Rep., Dep. of Computer Science, Carnegie-Mellon Univ., Pittsburgh, Pa., 1973.
+HELLER, D. A survey of parallel algorithms in numerical linear algebra. SIAM Rev. 20 (1978), 740- 777. See also Tech. Rep., Dep. of Computer Science, Carnegie-Mellon Univ., Pittsburgh, Pa., 1976.
+John Holland, A universal computer capable of executing an arbitrary number of sub-programs simultaneously, Papers presented at the December 1-3, 1959, eastern joint IRE-AIEE-ACM computer conference, p.108-113, December 01-03, 1959, Boston, Massachusetts[doi>10.1145/1460299.1460311]
+HYAFIL, L., AND KUNC, H.T. Parallel algorithms for solving triangular linear systems. Tech. Rep., Dep. of Computer Science, Carnegie-Mellon Univ., Pittsburgh, Pa., 1974.
+L. Hyafil , H. T. Kung, The complexity of parallel evaluation of linear recurrence, Proceedings of seventh annual ACM symposium on Theory of computing, p.12-22, May 05-07, 1975, Albuquerque, New Mexico, USA[doi>10.1145/800116.803748]
+HYAFIL, L., AND KUNG, H.T. Bounds on the speed-ups of parallel evaluation of recurrences. Proc. 2nd USA-Japan Computer Conf., Tokyo, 1975, pp. 178-182.
+L. Hyafil , H. T. Kung, The Complexity of Parallel Evaluation of Linear Recurrences, Journal of the ACM (JACM), v.24 n.3, p.513-521, July 1977[doi>10.1145/322017.322030]
+JOEL, A.E. On permutation switching networks. Bell Syst. Tech. J. 47 (1968), 813-822.
+KARP, R.M., AND MIRANKER, W. Parallel minimax search for a maximum. J. Comb. Theory 4 (1968), 19-35.
+KAge, R.M., AND MILLER, R.E. Parallel program schemata. J. Comput. Sys. Sci. 3 (1969), 147-195.
+Richard M. Karp , Raymond E. Miller , Shmuel Winograd, The Organization of Computations for Uniform Recurrence Equations, Journal of the ACM (JACM), v.14 n.3, p.563-590, July 1967[doi>10.1145/321406.321418]
+KAUTZ, W.H. Cellular logic-in-memory arrays. IEEE Trans. Comput. C-18 (1969), 719-727.
+KAUTZ, W.H. The design of optimum interconnection networks for multiprocessors. In Structure et Conception des Ordinateurs (Architecture and Design of Digital Computers), Guy Boulaye, Ed., Dunod Publishers, Paris, 1971, pp. 249-278.
+KAUTZ, W.H., LEvn~r, K.N., AND WAKSMAN, A. Cellular interconnection arrays. IEEE Trans. Comput. C-17 (1968), pp. 443-451.
+KAUTZ, W.H., PEASE, M.C., AND GREEN, M.W. Cellular logic-in-memory arrays. Final Rep. Pt. 1, Project 5509, NONR-4833 (00), Stanford Research Institute, Paid Alto, Calif., 1970.
+KELLER, R.M. On maximally parallel schemata. Conf. Rec. llth Ann. IEEE Syrup. on Switching and Automata Theory, Santa Monica, Calif., 1970, pp. 32-50.
+KELLER, R.M. On the decomposition of asynchronous systems. Conf. Rec. 13th Ann. IEEE Symp. on Switching and Automata Theory, Baltimore, Md., 1972, pp. 78-89.
+John C. Knight , William G. Poole, Jr. , Robert G. Voigt, System balance analysis for vector computers, Proceedings of the 1975 annual conference, p.163-168, January 1975[doi>10.1145/800181.810309]
+KOGGE, P.M. Parallel algorithms for the solution of recurrence problems. Tech. Rep., Digital Systems Laboratory, Stanford Univ., Stanford, Calif., 1972.
+KOCGE, P.M. The numerical stability of parallel algorithms for solving recurrence problems. Tech. Rep., Digital Systems Laboratory, Stanford Univ., Stanford, Calif., 1972.
+KOCGE, P.M. Parallel solution of recurrence problems. IBM J. Res. Devel. 18 (1974), 183-184.
+KOCGE, P.M., AND STONE, H.S. A parallel algorithm for the efficient solution of a general class of recurrence equations. IEEE Trans. Comput. C-22 (1973), 786-792.
+V. E. Kotov, Towards automtical construction of parallel programs, Proceedings of the International Sympoisum on Theoretical Programming, p.309-331, August 07-11, 1972
+KoTov, V.E., AND NARINYANI, A.S. On transformation of sequential programs into asynchronous parallel programs. Proc. 1968 IFIP Congress, Edinburgh, pp. 351-357.
+KUCK, D.J. Multioperation machine computational complexity. Proc. of Symp. on Complexity of Sequential and Parallel Numerical Algorithms, J.F. Traub, Ed., Academic Press, New York, pp. 17- 48.
+KUCK, D.J. Parallel processing architecture, a s?vey. Proc. 1975 Sagamore Conf. on Parallel Processing, Sagamore Lake, N.Y., 1975, pp. 15-39.
+KUCK, D.J., I~URIE, D.H., AND MURAOKA, Y. Interconnection networks for processors and memories in large systems. COMPCON 72, San Francisco, Calif., 1972, pp. 131-134.
+KUCK, D.J., AND MARUYAMA, K.M. The parallel evaluation of arithmetic expressions of special forms. Rep. RC4726, IBM Thomas J. Watson Research Center, Yorktown Heights, N.Y., 1973.
+KUCK, D.J., AND MARUYAMA, K.M. Time bounds on the parallel evaluation of arithmetic expressions. SIAM J. Comput. 4 (1974), 147-162.
+KUCK, D.J., AND SAMEH, A.H. Parallel computation of eigenvalues of real matrices. Proc. 1971 IFIP Congress, Vol. II, North-Holland, Amsterdam-London, pp. 1266-1272.
+KUKREJA, N., AND CHEN, I.N. Combinatorial and sequential cellular structures, iEEE Trans. Comput. C-22 (1973), 813-823.
+KUNC, H.T. Synchronous and asynchronous parallel algorithms for multiprocessors. In Algorithms and Complexity, J.F. Traub, Ed., 1967, pp. 153-200.
+LADNER, R.E., AND FISHER, M.J. Parallel prefix computations. Proc. 1977 Int. Conf. on Parallel Processing, Detroit, Mich., 1977, pp. 218-223.
+Jules J. Lambiotte, Jr. , Robert G. Voigt, The Solution of Tridiagonal Linear Systems on the CDC STAR 100 Computer, ACM Transactions on Mathematical Software (TOMS), v.1 n.4, p.308-329, Dec. 1975[doi>10.1145/355656.355658]
+Leslie Lamport, The parallel execution of DO loops, Communications of the ACM, v.17 n.2, p.83-93, Feb. 1974[doi>10.1145/360827.360844]
+LANG, T. Interconnections between memory modules using the shuffle-exchange network. IEEE Trans. Comput. C-25 (1976), 496-503. See also Tech. Rep. 76, Digital Systems Laboratory, Stanford Univ., Stanford, Calif., 1973.
+LANG, T., AND STONE, H.S. A shuffle-exchange network with simplified control. IEEE Trans. Comput. C-25 (1976), 55-65.
+LANGE, R.G. High level language for associative and parallel computation with STARAN. Proc. 1976 Int. Conf. on Parallel Processing, Detroit, Mich., 1976, pp. 170-176.
+LARSON, R.E., RICHARDSON, M.H., AND BREE, D.W. Dynamic programming in parallel computers. 4th Ann. Hawaii Conf. on Systems Science, pp. 256-269.
+LARSON, R.E., RICHARDSON, M.H., AND CASTI, J.L. Dynamic programming with parallel computers for use in Air Force applications. Final Rep., AFOSR Project F44620-70-C0084, SCI Project U956, System Control, Inc., Palo Alto, Calif., 1971.
+LARSON, R.E., AND TSE, E. Modal trajectory estimation and parallel computers. 2nd Syrup. on Nonlinear Estimation Theory, San Diego, Calif., 1971, pp. 188-198.
+LARSON, R.E., AND TSE, E. Parallel computation of the modal trajectory estimate. Joint Automata Control Conf., Stanford, Calif. See also 5th Ann. Hawaii Conf. on System Sciences, Honolulu, 1972, pp. 495-499.
+LARSON, R.E., AND TSE, E. Parallel processing algorithms for the optimal control of nonlinear dynamic systems. IEEE Trans. Comput. C-22 (1973), 777-785.
+Duncan Hamish Lawrie, Memory-processor connection networks, University of Illinois at Urbana-Champaign, Champaign, IL, 1973
+LAWRiE, D.H. Access and alignment of data in an array processor. IEEE Trans. Comput. C-24 (1975), 1145-1155.
+D. H. Lawrie , T. Layman , D. Baer , J. M. Randal, Glypnir—a programming language for Illiac IV, Communications of the ACM, v.18 n.3, p.157-164, March 1975[doi>10.1145/360680.360687]
+LEE, C.C., AND FENC;, T. Sorting algorithms for parallel processing (summary). Proc. 1975 Sagamore Conf. on Parallel Processing, Sagamore Lake, N.Y., 1975, p. 239.
+LEHMAN, M. A survey of problems and prehminary results concerning parallel processing and parallel processors. Proc. IEEE 54 (1966), 1889-1901.
+LEONDES, C., AND RUBINOFF, M. DINA, a digital analyzer for Laplace, Poisson, diffusion and wave equations. AIEE Trans. ( Commun. & Electron.) 71 (1952), 303-309.
+LEVITT, K.N., GREEN, M.W., AND GOLDBERG, J. A study of the data communication problems in a self-repairable multiprocessor. Proc. 1968 Spring JCC, AFIPS Press, Arlington, Va., pp. 515-527.
+LIPOVSKI, G.J. The architecture of a large associative processor. Proc. 1970 Spring JCC, Vol. 37, AFIPS Press, Arlington, Va., pp. 385-395.
+LIPOVSKI, G.J. On a varistructured array of microprocessors. IEEE Trans. Comput. C-26 (1977), 125-138.
+LIPOVSKI, G.J., AND TRIPATHI, i. A reconfigurable varistructure array processor. Proc. 1977 Int. Conf. on Parallel Processing, Detroit, Mich., 1977, pp. 165-173.
+LIU, C.L. Construction of sorting plans. In Theory of Machines and Computation, Z. Kohavi and A. Paz, Eds., Academic Press, New York, 1971, pp. 87-98.
+LIU, J.W.H. The solution of mesh equations on a parallel computer. Tech. Rep., Dep. of Computer Science, Waterloo Univ., Waterloo, Ontario, Canada, 1974.
+MADSEN, N.K., RODRIGUE, G.N., AND KARUSH, J.I. Matrix multiplication by diagonals on a vector/ parallel processor. Inf. Proc. Letters 5 (1976), 41-45.
+MARCUS, M.J. New approaches to the analysis of connecting and sorting networks. Tech. Rep. 486, Research Laboratory of Electronics, M.I.T., Cambridge, Mass., 1972.
+MARUYAMA, K. On the parallel evaluation of polynomials. IEEE Trans. Comput. C.22 (1973), 2-5.
+MARUYAMA, K. The parallel evaluation of matrix expressions. Tech. Rep., IBM Thomas J. Watson Research Center, Yorktown Heights, N.Y., 1973.
+MILLER, J.C.P., AND BROWN, D.J.S. An algorithm for evaluation of remote terms in a linear recurrence relation. Comput. J. 9 (1967), 188-190.
+MILLER, R.E. A comparison of some theoretical models of parallel computation. IEEE Trans. Comput. C-22 (1973), 710-717.
+MIRANKER, W. Parallel methods for evaluating the root of a function. IBM J. Res. Devel. 13 (1967), 297-301.
+MIRANKER, W. A survey of parallelism in numerical analysis. SIAM Rev. 13 (1971), 524-547.
+MIRANKER, W., AND LINIGER, W.M. Parallel methods for the numerical integration of ordinary differential equations. Math. Comp. 21 (1967), 303-320.
+MISUNAS, D.P. A computer architecture for data-flow computation. Master's Thesis, Dep. Electrical Engineering and Computer Science, M.I.T., Cambridge, Mass., 1975.
+David E. Muller , Franco P. Preparata, Bounds to Complexities of Networks for Sorting and for Switching, Journal of the ACM (JACM), v.22 n.2, p.195-201, April 1975[doi>10.1145/321879.321882]
+MUNRO, I., AND PATTERSON, M. Optimal algorithms for parallel polynomial evaluation. J. Comput. Sys. Sci. 7 (1973), 189-198. See also Conf. Rec. 12th Ann. Syrup. on Switching and Automata Theory, East Lansing, Mich., 1971.
+Yoichi Muraoka, Parallelism exposure and exploitation in programs, University of Illinois at Urbana-Champaign, Champaign, IL, 1971
+Yoichi Muraoka , David J. Kuck, On the time required for a sequence of matrix products, Communications of the ACM, v.16 n.1, p.22-26, Jan. 1973[doi>10.1145/361932.361938]
+MURTHA, J.C. Highly parallel information processing systems. Adv. Comput. 7 (1966), 2-116.
+A. S. Narinyani, Looking for an approach to a theory of models for parallel computation, Proceedings of the International Sympoisum on Theoretical Programming, p.247-284, August 07-11, 1972
+NEIMAN, V.I. Structure et commandes optimales des reseaux de connections sans blockage. Ann. Telecommun. 24 (1969), 232-238.
+J. Nievergelt, Parallel methods for integrating ordinary differential equations, Communications of the ACM, v.7 n.12, p.731-733, Dec. 1964[doi>10.1145/355588.365137]
+OKADA, Y., TAJIMA, M., ANO MORI, R. A novel multiprocessor array. 2nd Symp. on Microarchitecture (Euromicro), North-Holland, Amsterdam, 1976.
+ORcu~r, S.E. Computer organization and algorithms for very high-speed computation. Ph.D. Thesis, Stanford Univ., Stanford, Calif., 1974.
+PEASE, M.C. The implicit binary n-cube microprocessor array. IEEE Trans. Comput. Co26 (1975), 153-161.
+PIPP~NGER, N. The complexity theory of switching networks. Tech. Rep., Research Laboratory of Electronics, M.I.T., Cambridge, Mass., 1973.
+PIPPENaER, N. On the complexity of strictly nonblocking concentration networks. IEEE Trans. Commun. COM-22 (1974), 1890-1893.
+PIPPENGER, N. On crossbar switching networks. IEEE Trans. Commun. COM-23 (1975), 646-659.
+Mel Pirtle, Intercommunication of processors and memory, Proceedings of the November 14-16, 1967, fall joint computer conference, November 14-16, 1967, Anaheim, California[doi>10.1145/1465611.1465695]
+PREPARATA, F.P. New parallel-sorting schemes. IEEE Trans. Comput. C-27 (1978), 669-673.
+Raymond Reiter, Scheduling Parallel Computations, Journal of the ACM (JACM), v.15 n.4, p.590-599, Oct. 1968[doi>10.1145/321479.321485]
+J. E. Rodrigues , Jorge E Rodriguez Bezos, A GRAPH MODEL FOR PARALLEL COMPUTATIONS, Massachusetts Institute of Technology, Cambridge, MA, 1969
+RODRiGUEZ, J.E. Parallel processes, schemata, and transformations. IBM Res. Rep. RC 2912, IBM Thomas J. Watson Research Center, Yorktown Heights, N.Y., 1970.
+ROSEN, K.F. An algorithm for random walks on highly parallel machines. Tech. Rep. TR-15, Cooley Electronics Laboratory, Univ. of Michigan, Ann Arbor, Mich., 1964.
+Jack L. Rosenfeld, A case study in programming for parallel-processors, Communications of the ACM, v.12 n.12, p.645-655, Dec. 1969[doi>10.1145/363626.363628]
+ROSENFELO, J.L., AND DRiSCOLL, C.G. Solution of the Dirichlet problem on a simulated parallel processing system. Proc. IFIP Congress 1968, North-Holland, Amsterdam, 1969, pp. 499-507.
+SAMEH, A.H. On Jacobi and Jacobi-like algorithms for a parallel computer. Math. Comp. 25 (1971), 579-590.
+SAMEH, A.H. Linear system solvers for parallel computers. Tech. Rep., Dep. of Computer Science, Univ. of Illinois, Urbana, Ill., 1975.
+SAMEH, A., AND KUCK, D. Linear system solvers for parallel computers. Rep. 701 (NSF-OCS-GJ- 36936-000009), Computer Science Dep., Univ. of Illinois, Urbana, Ill., 1975.
+SAMEH, A., AND KUCK, D. A parallel QR-algorithm for symmetric tridiagonal matrices. IEEE Trans. Comput. C-26 (1977), 147-153.
+A. H. Sameh , D. J. Kuck, On Stable Parallel Linear System Solvers, Journal of the ACM (JACM), v.25 n.1, p.81-91, Jan. 1978[doi>10.1145/322047.322054]
+SAVAGr., C. Parallel algorithms for graph-theoretic problems. Ph.D. Dissertation, Univ. of illinois, Urbana, Ill., 1978.
+J. Schwartz, Large Parallel Computers, Journal of the ACM (JACM), v.13 n.1, p.25-32, Jan. 1966[doi>10.1145/321312.321315]
+S~^NNON, C.E. Memory requirements in a telephone exchange. Bell Syst. Tech. J. 29 (1950), 347- 349.
+SHAPmo, H.D. Storage schemes in parallel memories. Proc. I975 Sagamore Conf. On Parallel Processing, Sagamore Lake, N.Y., 1975, pp. 159-164.
+SHArmo, H.D. Theoretical limitations on the use of parallel memories. Ph.D. Thesis, Computer Science Dep., Univ. of Illinois, Urbana, ill., 1976.
+G. S. Shedler, Parallel numerical methods for the solution of equations, Communications of the ACM, v.10 n.5, p.286-291, May 1967[doi>10.1145/363282.363301]
+SHEVLER, G.S., AND LEHMAN, M. Evaluation of redundancy in a parallel algorithm. IBM Syst. J. 6 (1967), 142-149.
+S~F. GEL, H.J. Single instruction stream--multiple data stream machine interconnection network design. Proc. 1976 Int. Conf. on Parallel Processing, Detroit, Mich., 1976, pp. 272-280.
+SISCEL, H.J. Analysis techniques for SIMD machine interconnection networks and the effects of processor address masks. IEEE Trans. Cornput. C-26 (1977), 153-161. See also Proc. 1975 Sagamore Conf. on Parallel Computing, Sagamore Lake, N.Y., 1975, pp. 106-109.
+Howard Jay Siegel, The universality of various types of SIMD machine interconnection networks, Proceedings of the 4th annual symposium on Computer architecture, p.70-79, March 23-25, 1977[doi>10.1145/800255.810655]
+Howard Jay Siegel , S. Diane Smith, Study of multistage SIMD interconnection networks, Proceedings of the 5th annual symposium on Computer architecture, p.223-229, April 03-05, 1978[doi>10.1145/800094.803052]
+B. J. Smith, AN ANALYSIS OF SORTING NETWORKS, Massachusetts Institute of Technology, Cambridge, MA, 1972
+STONE, H.S. The organization of high-speed memory for parallel block transfer of data. IEEE Trans. Comput. C-19 (1970), 47-53.
+STONE, H.S. A logic-in-memory computer. IEEE Trans. Comput. C-18 (1970), 719-727.
+STONE, H.S. Dynamic memories with enhanced data access. IEEE Trans. Comput. C-21 (1972), 359-366.
+STONE, H.S. Problems of parallel computation. In Complexity of Sequential and Parallel Numerical Algorithms, J.F. Traub, Ed., Academic Press, New York, 1973, pp. 1-17.
+Harold S. Stone, An Efficient Parallel Algorithm for the Solution of a Tridiagonal Linear System of Equations, Journal of the ACM (JACM), v.20 n.1, p.27-38, Jan. 1973[doi>10.1145/321738.321741]
+STONE, H.S. Discrete Mathematical Structures and Their Applications. Science Research Associates, Chicago, II1., 1973.
+Harold S. Stone, Parallel Tridiagonal Equation Solvers, ACM Transactions on Mathematical Software (TOMS), v.1 n.4, p.289-307, Dec. 1975[doi>10.1145/355656.355657]
+STONE, H.S. Parallel computers. In introduction to Computer Architecture, Science Research Associates, Palo Alto, Calif., 1975b, pp. 318-374.
+Herbert Sullivan , T R Bashkow, A large scale, homogeneous, fully distributed parallel machine, I, Proceedings of the 4th annual symposium on Computer architecture, p.105-117, March 23-25, 1977[doi>10.1145/800255.810659]
+SULLIVAN, H., BASHKOW, T.R., AND KLAPPHOLZ, D. High level language constructions in a selforganizing parallel processor. Proc. 1977 Int. Conf. on Parallel Processing, Detroit, Mich., 1977, pp. 163-174.
+Herbert Sullivan , Theodore R. Bashkow , David Klappholz, A Large Scale, Homogenous, Fully Distributed Parallel Machine, II, Proceedings of the 4th annual symposium on Computer architecture, p.118-124, March 23-25, 1977[doi>10.1145/800255.810660]
+SULLIVAN, H., BASHKOW, T.R., KLAPPHOLZ, D., AND COHN, L. The node kernel: resource management in a self organizing parallel processor. Proc. 1977 Int. Conf. on Parallel Processing, Detroit, Mich., 1977, pp. 157-162.
+SWANSON, R.C. Interconnection for parallel memories to unscramble p-ordered vectors. IEEE Trans. Comput. C-23 (1974), 1105-1115.
+THOMPSON, C.D. Generalized connection networks for parallel processor interconnection. IEEE Trans. Comput. C-27 (1978), 1119-1125.
+C. D. Thompson , H. T. Kung, Sorting on a mesh-connected parallel computer, Proceedings of the eighth annual ACM symposium on Theory of computing, p.58-64, May 03-05, 1976, Hershey, Pennsylvania, USA[doi>10.1145/800113.803632]
+THURBER, K.J. Programmable indexing networks. Proc. 1970 Spring JCC, AFIPS Press, Arlington, Va., pp. 51-58.
+THURSER, K.J. Permutation switching networks. Proc. 1971 Computer Designer's Conf., Anaheim, Calif., 1971, pp. 7-24.
+Kenneth J. Thurber, Interconnection networks: a survey and assessment, Proceedings of the May 6-10, 1974, national computer conference and exposition, May 06-10, 1974, Chicago, Illinois[doi>10.1145/1500175.1500346]
+TRAUB, J.F. Iterative solution of tridiagonal system's on parallel and vector computers. In Complexity of Sequential and Parallel Numerical Algorithms, Academic Press, New York, 1973, pp. 49-82.
+TROUT, H.R.G. Parallel techniques. Tech. Rep., Dep. of Computer Science, Univ. of Illinois, Urbana, ill., 1972.
+TSAO-Wu, N.T., AND OPrERMAN, D.C. On permutation algorithms for rearrangeable switching networks. Conf. Rec. 1969 IEEE Int. Conf. on Communications, Boulder, Colo., 1969, pp. 10-29-10-34.
+TsE, E. Parallel computation of the conditional mean state estimate for nonlinear systems. 2nd Symp. on Nonlinear Estimation Theory, San Diego, Calif., 1971, pp. 385-395.
+TsE, E., AND LARSON, R.E. Optimum quantization and parallel algorithms for nonlinear state estimation. 3rd Syrup. on Nonlinear Estimation Theory, San Diego, Calif., 1972.
+TUTTLS, P.G. Implementation of selected eigenvalue algorithms on a vector computer. Master's Thesis, Univ. of Virginia, Charlottesville, Va., 1975.
+VALIANT, L.G. The intrinsic complexity of parallelism in comparison problems. Tech. Rep., Dep. of Computer Science, Carnegie-Mellon Univ., Pittsburgh, Pa., 1974.
+David C. Van Voorhis, A lower bound for sorting networks that use the divide-sort-merge strategy, Stanford University, Stanford, CA, 1971
+David C. Van Voorhis, A generalization of the divide-sort-merge strategy for sorting networks, Stanford University, Stanford, CA, 1971
+David C. Van Voorhis, Large [g,d] sorting networks, Stanford University, Stanford, CA, 1971
+VAN VOORaIS, D.C. Toward a lower bound for sorting networks. In Complexity of Computer Computations, Plenum Publishing, New York, 1972, pp. 119-129.
+VAN Voogms, D.C. An economical construction for sorting networks. Working Paper 16/A45 No. 1, IBM Systems Development Division, Los Gatos, Calif. See also Proc. 1974 NCC, AFIPS Press, Arlington, Va., pp. 921-926.
+WAKSMAN, A. On permutation networks. Proc. Hawaii Int. Conf. on System Sciences, Univ. of Hawaii, Honolulu, 1968, pp. 581-582.
+WAaD, R.C. The QR algorithm and Hyman's method on vector computers. Math. Comput. 30 (1976), 132-142.
+Kuo Yen Wen, Interprocessor connections--capabilities, exploitation and effectiveness., University of Illinois at Urbana-Champaign, Champaign, IL, 1976
+S. Winograd, On the Time Required to Perform Addition, Journal of the ACM (JACM), v.12 n.2, p.277-285, April 1965[doi>10.1145/321264.321279]
+S. Winograd, On the Time Required to Perform Multiplication, Journal of the ACM (JACM), v.14 n.4, p.793-802, Oct. 1967[doi>10.1145/321420.321438]
+Larry D. Wittie, Efficient message routing in Mega-Micro-Computer networks, Proceedings of the 3rd annual symposium on Computer architecture, p.136-140, January 19-21, 1976[doi>10.1145/800110.803570]
+WoNt, C.K., AND YUE, P.C. Anticipatory control on a permutable memory. IEEE Trans. Comput. C-22 (1973), 481-488.
+WULF, W., AND B~.LL, C.G. C.mmpmA multi-mini-processor. Proc. AFIPS 1972 Fall JCC, Vol. 41, AFIPS Press, Arlington, Va., pp. 765-778.

@@ -1,0 +1,54 @@
+Alfred V. Aho , Monica S. Lam , Ravi Sethi , Jeffrey D. Ullman, Compilers: Principles, Techniques, and Tools (2nd Edition), Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 2006
+S. B. Akers, Binary Decision Diagrams, IEEE Transactions on Computers, v.27 n.6, p.509-516, June 1978[doi>10.1109/TC.1978.1675141]
+Andrew W. Appel, Modern Compiler Implementation: In ML, Cambridge University Press, New York, NY, 1998
+Uwe Aßmann, How to Uniformly Specify Program Analysis and Transformation with Graph Rewrite Systems, Proceedings of the 6th International Conference on Compiler Construction, p.121-135, April 24-26, 1996
+U. Assmann, OPTIMIX—a tool for rewriting and optimizing programs, Handbook of graph grammars and computing by graph transformation: vol. 2: applications, languages, and tools, World Scientific Publishing Co., Inc., River Edge, NJ, 1999
+Marc Berndl , Ondrej Lhoták , Feng Qian , Laurie Hendren , Navindra Umanee, Points-to analysis using BDDs, Proceedings of the ACM SIGPLAN 2003 conference on Programming language design and implementation, June 09-11, 2003, San Diego, California, USA[doi>10.1145/781131.781144]
+Boyle, J. M. 1970. A transformational component for programming languages grammar. Tech. rep. ANL-7690, Argonne National Laboratory, Illinois.
+J. M. Boyle, Abstract programming and program transformation—an approach to reusing programs, Software reusability: vol. 1,  concepts and models, ACM, New York, NY, 1989[doi>10.1145/73103.73118]
+Randal E. Bryant, Graph-Based Algorithms for Boolean Function Manipulation, IEEE Transactions on Computers, v.35 n.8, p.677-691, August 1986[doi>10.1109/TC.1986.1676819]
+E. M. Clarke , E. A. Emerson , A. P. Sistla, Automatic verification of finite-state concurrent systems using temporal logic specifications, ACM Transactions on Programming Languages and Systems (TOPLAS), v.8 n.2, p.244-263, April 1986[doi>10.1145/5397.5399]
+Rance Cleaveland , Bernhard Steffen, A Linear-Time Model-Checking Algorithm for the Alternation-Free Modal Mu-Calculus, Proceedings of the 3rd International Workshop on Computer Aided Verification, p.48-58, July 01-04, 1991
+Cordy, J. R., Carmichael, I. H., and Halliday, R. 1995. The TXL programming language, version 8. Legasys Corporation.
+Steven Dawson , C. R. Ramakrishnan , David S. Warren, Practical program analysis using general purpose logic programming systems—a case study, ACM SIGPLAN Notices, v.31 n.5, p.117-126, May 1996[doi>10.1145/249069.231399]
+de Moor, O., Drape, S., Lacey, D., and Sittampalam, G. 2003. Incremental program analyses via language factors. Program Tools Group, Oxford.
+de Moor, O. and Sittampalam, G. 2001. Higher-Order matching for program transformation. Theor. Comput. Sci. 269, 1-2, 135--162.
+Rickard E. Faith , Lars S. Nyland , Jan F. Prins, KHEPERA: a system for rapid implementation of domain specific languages, Proceedings of the Conference on Domain-Specific Languages on Conference on Domain-Specific Languages (DSL), 1997, p.19-19, October 15-17, 1997, Santa Barbara, California
+Fraser, C. W. and Hanson, D. R. 1991. A retargetable compiler for ANSI C. Tech. rep. CS--TR--303--91, Princeton, New Jersey.
+Reinhold Heckmann, A Functional Language for the Specification of Complex Tree Transformations, Proceedings of the 2nd European Symposium on Programming, p.175-190, March 21-24, 1988
+Jones, S. P., Tolmach, A., and Hoare, T. 2001. Playing by the rules: Rewriting as a practical optimization technique in ghc. In Proceedings of the Haskell Workshop, 203--233.
+Aditya Kanade , Amitabha Sanyal , Uday Khedker, A PVS Based Framework for Validating Compiler Optimizations, Proceedings of the Fourth IEEE International Conference on Software Engineering and Formal Methods, p.108-117, September 11-15, 2006[doi>10.1109/SEFM.2006.4]
+Kanade, A., Sanyal, A., and Khedker, U. 2007. Structuring optimizing transformations and proving them sound. In Proceedings of the 5th International Workshop on Compiler Optimization Meets Compiler Verification (COCV'06).
+Marion Klein , Jens Knoop , Dirk Koschützki , Bernhard Steffen, DFA&OPT-METAFrame: A Tool Kit for Program Analysis and Optimazation, Proceedings of the Second International Workshop on Tools and Algorithms for Construction and Analysis of Systems, p.422-426, March 27-29, 1996
+Jens Knoop, Optimal interprocedural program optimization: a new framework and its application, Springer-Verlag, Berlin, Heidelberg, 1998
+Jens Knoop , Oliver Rüthing , Bernhard Steffen, Lazy code motion, Proceedings of the ACM SIGPLAN 1992 conference on Programming language design and implementation, p.224-234, June 15-19, 1992, San Francisco, California, USA[doi>10.1145/143095.143136]
+Kozen, D. 1983. Results on the proposition mu-calculus. Theoret. Comput. Sci. 27.
+Lacey, D. 2003. Program transformation using temporal logic specifications. Ph.D. thesis, Oxford University Computing Laboratory.
+Lacey, D. and de Moor, O. 2001. Imperative program transformation by rewriting. In Compiler Construction, R. Wilhelm, Ed. Lecture Notes in Computer Science, vol. 2027. Springer Verlag, 52--68.
+David Lacey , Neil D. Jones , Eric Van Wyk , Carl Christian Frederiksen, Compiler Optimization Correctness by Temporal Logic, Higher-Order and Symbolic Computation, v.17 n.3, p.173-206, September 2004[doi>10.1023/B:LISP.0000029444.99264.c0]
+William Landi , Barbara G. Ryder, Pointer-induced aliasing: a problem classification, Proceedings of the 18th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.93-103, January 21-23, 1991, Orlando, Florida, USA[doi>10.1145/99583.99599]
+Sorin Lerner , David Grove , Craig Chambers, Composing dataflow analyses and transformations, Proceedings of the 29th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.270-282, January 16-18, 2002, Portland, Oregon[doi>10.1145/503272.503298]
+Sorin Lerner , Todd Millstein , Craig Chambers, Automatically proving the correctness of compiler optimizations, Proceedings of the ACM SIGPLAN 2003 conference on Programming language design and implementation, June 09-11, 2003, San Diego, California, USA[doi>10.1145/781131.781156]
+Sorin Lerner , Todd Millstein , Erika Rice , Craig Chambers, Automated soundness proofs for dataflow analyses and transformations via local rules, Proceedings of the 32nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.364-377, January 12-14, 2005, Long Beach, California, USA[doi>10.1145/1040305.1040335]
+Peter Lipps , Ulrich Möncke , Reinhard Wilhelm, OPTRAN - A Language/System for the Specification of Program Transformations: System Overview and Experiences, Proceedings of the 2nd CCHSC Workshop on Compiler Compilers and High Speed Compilation, p.52-65, October 10-14, 1988
+Kenneth L. McMillan, Symbolic Model Checking, Kluwer Academic Publishers, Norwell, MA, 1993
+Steven S. Muchnick, Advanced compiler design and implementation, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1998
+Müller-Olm, M. and Rüthing, O. 2001. On the complexity of constant propagation. In ESOP, D. Sands, Ed. LNCS, vol. 2028. Springer-Verlag.
+David A. Padua , Michael J. Wolfe, Advanced compiler optimizations for supercomputers, Communications of the ACM, v.29 n.12, p.1184-1201, Dec. 1986[doi>10.1145/7902.7904]
+Robert Paige, Viewing A Program Transformation System At Work, Proceedings of the 6th International Symposium on Programming Language Implementation and Logic Programming, p.5-24, September 14-16, 1994
+L. L. Pollock , M. L. Soffa, An Incremental Version of Iterative Data Flow Analysis, IEEE Transactions on Software Engineering, v.15 n.12, p.1537-1549, December 1989[doi>10.1109/32.58766]
+Oleg Sokolsky , Scott A. Smolka, Incremental Model Checking in the Modal Mu-Calculus, Proceedings of the 6th International Conference on Computer Aided Verification, p.351-363, June 21-23, 1994
+Bernhard Steffen, Data Flow Analysis as Model Checking, Proceedings of the International Conference on Theoretical Aspects of Computer Software, p.346-365, September 24-27, 1991
+Bernhard Steffen, Generating data flow analysis algorithms from modal specifications, Science of Computer Programming, v.21 n.2, p.115-139, Oct. 1993[doi>10.1016/0167-6423(93)90003-8]
+Bernhard Steffen , Andreas Claßen , Marion Klein , Jens Knoop , Tiziana Margaria, The Fixpoint-Analysis Machine, Proceedings of the 6th International Conference on Concurrency Theory, p.72-87, August 21-24, 1995
+Robert Tarjan, Testing flow graph reducibility, Proceedings of the fifth annual ACM symposium on Theory of computing, p.96-107, April 30-May 02, 1973, Austin, Texas, USA[doi>10.1145/800125.804040]
+Steven W. K. Tjiang , John L. Hennessy, Sharlit—a tool for building optimizers, ACM SIGPLAN Notices, v.27 n.7, p.82-93, July 1992[doi>10.1145/143103.143120]
+Raja Vallée-Rai , Phong Co , Etienne Gagnon , Laurie Hendren , Patrick Lam , Vijay Sundaresan, Soot - a Java bytecode optimization framework, Proceedings of the 1999 conference of the Centre for Advanced Studies on Collaborative research, p.13, November 08-11, 1999, Mississauga, Ontario, Canada
+van Engelen, R. 1998. Ctadel: A generator of efficient codes. Ph.D. thesis, Leiden University.
+van Engelen, R. A. 2001. Efficient symbolic analyses for optimizing compilers. In Compiler Construction, R. Wilhelm, Ed. Lecture Notes in Computer Science, vol. 2027. Springer Verlag.
+Eelco Visser , Zine-el-Abidine Benaissa , Andrew Tolmach, Building program optimizers with rewriting strategies, Proceedings of the third ACM SIGPLAN international conference on Functional programming, p.13-26, September 26-29, 1998, Baltimore, Maryland, USA[doi>10.1145/289423.289425]
+Mark N. Wegman , F. Kenneth Zadeck, Constant propagation with conditional branches, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.2, p.181-210, April 1991[doi>10.1145/103135.103136]
+John Whaley , Monica S. Lam, Cloning-based context-sensitive pointer alias analysis using binary decision diagrams, ACM SIGPLAN Notices, v.39 n.6, May 2004[doi>10.1145/996893.996859]
+Deborah Lynn Whitfield, A unifying framework for optimizing transformations, University of Pittsburgh, Pittsburgh, PA, 1992
+Deborah L. Whitfield , Mary Lou Soffa, An approach for exploring code improving transformations, ACM Transactions on Programming Languages and Systems (TOPLAS), v.19 n.6, p.1053-1084, Nov. 1997[doi>10.1145/267959.267960]
+Wankang Zhao , Baosheng Cai , David Whalley , Mark W. Bailey , Robert van Engelen , Xin Yuan , Jason D. Hiser , Jack W. Davidson , Kyle Gallivan , Douglas L. Jones, VISTA: a system for interactive code improvement, Proceedings of the joint conference on Languages, compilers and tools for embedded systems: software and compilers for embedded systems, June 19-21, 2002, Berlin, Germany[doi>10.1145/513829.513857]

@@ -1,0 +1,2 @@
+A previous article presented a technique to compute the least-cost 
+error repair by incrementally generating configurations that result from inserting and deleting tokens a syntactically incorrect input. An additional mechanism to improve the run-time efficiency of this algorithm by pruning some of the configurations was discussed as well. In this communication we show that the pruning mechanism may lead to suboptimal repairs or may blockallrepairs. Certain grammatical errors in a common construct of the Java programming language also lead to the above kind of failure.

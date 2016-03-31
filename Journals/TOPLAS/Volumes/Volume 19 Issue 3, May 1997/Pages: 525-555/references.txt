@@ -1,0 +1,46 @@
+Alfred V. Aho , Ravi Sethi , Jeffrey D. Ullman, Compilers: principles, techniques, and tools, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+ARNOLD, R., MUELLER, F., AND WHALLEY, D. 1994. Bounding worst-case instruction cache performance. In Proceedings of the IEEE Real-Time Systems Symposium. IEEE, New York, 172-181.
+AUDSLEY, N., BURNS, A., RICHARDSON, M., TINDELL, I~., AND WELLINGS, A. 1993. Applying new scheduling theory to static priority preemptive scheduling. IEE//BCS Softw. Eng. J. 8, 5 (Sept.), 284-292.
+Alan Burns, Preemptive priority-based scheduling: an appropriate engineering approach, Advances in real-time systems, Prentice-Hall, Inc., Upper Saddle River, NJ, 1995
+Alan Burns , Ken Tindell , Andy Wellings, Effective Analysis for Engineering Real-Time Fixed Priority Schedulers, IEEE Transactions on Software Engineering, v.21 n.5, p.475-480, May 1995[doi>10.1109/32.387477]
+Ron Cytron , Jeanne Ferrante , Barry K. Rosen , Mark N. Wegman , F. Kenneth Zadeck, Efficiently computing static single assignment form and the control dependence graph, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.4, p.451-490, Oct. 1991[doi>10.1145/115372.115320]
+Ron Cytron , Andy Lowry , F. Kenneth Zadeck, Code motion of control structures in high-level languages, Proceedings of the 13th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.70-85, January 01, 1986, St. Petersburg Beach, Florida[doi>10.1145/512644.512651]
+DASARATHY, B. 1985. Timing constraints of reM-time systems: Constructs for expressing them, method for validating them. IEEE Trans. Softw. Eng. 11, 1 (Jan.), 80-86.
+Jeanne Ferrante , Karl J. Ottenstein , Joe D. Warren, The program dependence graph and its use in optimization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.9 n.3, p.319-349, July 1987[doi>10.1145/24039.24041]
+FISHER, J. 1981. Trace scheduling: A technique for global microcode compaction. IEEE Trans. Comput. 30, 478-490.
+GERBER, R. AND HONG, S. 1993. Semantics-based compiler transformations for enhanced schedulability. In Proceedings of the IEEE Real-Time Systems Symposium. IEEE, New York, 232-242.
+Richard Gerber , Seongsoo Hong, Compiling Real-Time Programs With Timing Constraint Refinement and Structural Code Motion, IEEE Transactions on Software Engineering, v.21 n.5, p.389-404, May 1995[doi>10.1109/32.387469]
+Richard Gerber , Seongsoo Hong , Manas Saksena, Guaranteeing Real-Time Requirements With Resource-Based Calibration of Periodic Processes, IEEE Transactions on Software Engineering, v.21 n.7, p.579-592, July 1995[doi>10.1109/32.392979]
+GOPINATH, P. AND GUPTA, R. 1990. Applying compiler techniques to scheduling in reM-time systems. In Proceedings of the IEEE Real-Time Systems Symposium. IEEE, New York, 247- 256.
+HARMON, M., BAKER, T., AND WHALLEY, D. 1992. A retargetable technique for predicting execution time. In Proceedings of the IEEE Real-Time Systems Symposium. IEEE, New York, 68-77.
+Laurie J. Hendren , Joseph Hummell , Alexandru Nicolau, Abstractions for recursive pointer data structures: improving the analysis and transformation of imperative programs, Proceedings of the ACM SIGPLAN 1992 conference on Programming language design and implementation, p.249-260, June 15-19, 1992, San Francisco, California, USA[doi>10.1145/143095.143138]
+Seongsoo Hong , Richard Gerber, Compiling real-time programs into schedulable code, ACM SIGPLAN Notices, v.28 n.6, p.166-176, June 1993[doi>10.1145/173262.155106]
+Susan Horwitz , Thomas Reps , David Binkley, Interprocedural slicing using dependence graphs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.1, p.26-60, Jan. 1990[doi>10.1145/77606.77608]
+F Jahanian , A K Mok, Safety analysis of timing properties in real-time systems, IEEE Transactions on Software Engineering, v.12 n.9, p.890-904, Sept. 1986
+Kevin Jeffay, The real-time producer/consumer paradigm: a paradigm for the construction of efficient, predictable real-time systems, Proceedings of the 1993 ACM/SIGAPP symposium on Applied computing: states of the art and practice, p.796-804, February 14-16, 1993, Indianapolis, Indiana, USA[doi>10.1145/162754.168703]
+D. I. Katcher , H. Arakawa , J. K. Strosnider, Engineering and Analysis of Fixed Priority Schedulers, IEEE Transactions on Software Engineering, v.19 n.9, p.920-934, September 1993[doi>10.1109/32.241774]
+E Kligerman , A D Stoyenko, Real-time Euclid: a language for reliable real-time systems, IEEE Transactions on Software Engineering, v.12 n.9, p.941-949, Sept. 1986
+KRAUSE~ J. 1991. GN&C domain modeling: Functionality requirements for fixed rate algorithms. Tech. Rip. version 0.2, Honeywell Systems and Research Center, Phoenix, Ariz. Dec.
+LEHOCZKY~ J. 1990. Fixed-priority scheduling of periodic task sets with arbitrary deadlines. In Proceedings of the IEEE Real-Time Systems Symposium. IEEE, New York, 201-209.
+LEHOCZKY~ J., SHA~ L., AND DING~ Y. 1989. The rate monotonic scheduling algorithm: Exact characterization and average case behavior. In Proceedings of the IEEE Real-Time Systems Symposium. IEEE, New York, 166-171.
+LEUNG~ J. AND MERILL~ M. 1980. A note on the preemptive scheduling of periodic, real-time tasks. Inf. Process. Lett. 11, 3 (Nov.), 115-118.
+LIM, S., BAE, Y., JANG, C., RHEE, B., MIN, S., PARK, C., SHIN~ H., PARK, K., AND KIM, C. 1994. An accurate worst case timing analysis for risc processors. In Proceedings of the IEEE Real-Time Systems Symposium. IEEE, New York, 97-108.
+LIN~ K. AND NATARAJAN~ S. 1988. Expressing and maintaining timing constraints in FLEX. In Proceedings of the IEEE Real-Time Systems Symposium. IEEE, New York.
+C. L. Liu , James W. Layland, Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment, Journal of the ACM (JACM), v.20 n.1, p.46-61, Jan. 1973[doi>10.1145/321738.321743]
+Vivek Madhukar Nirkhe, Application of partial evaluation to hard real-time programming, University of Maryland at College Park, College Park, MD, 1992
+Karl J. Ottenstein , Linda M. Ottenstein, The program dependence graph in a software development environment, Proceedings of the first ACM SIGSOFT/SIGPLAN software engineering symposium on Practical software development environments, p.177-184, April 1984[doi>10.1145/800020.808263]
+PARK~ C. AND SHAW~ t. 1990. Experimenting with a program timing tool based on source-level timing schema. In Proceedings of the IEEE Real-Time Systems Symposium. IEEE, New York, 72-81.
+William Pugh , David Wonnacott, Eliminating false data dependences using the Omega test, Proceedings of the ACM SIGPLAN 1992 conference on Programming language design and implementation, p.140-151, June 15-19, 1992, San Francisco, California, USA[doi>10.1145/143095.143129]
+SHA~ L., LEHOCZKY~ J., AND RAJKUMAR~ R. 1986. Solutions for some practical problems in prioritized preemptive scheduling. In Proceedings of the IEEE Real-Time Systems Symposium. IEEE, New York, 181-191.
+L. Sha , R. Rajkumar , J. P. Lehoczky, Priority Inheritance Protocols: An Approach to Real-Time Synchronization, IEEE Transactions on Computers, v.39 n.9, p.1175-1185, September 1990[doi>10.1109/12.57058]
+K. W. Tindell , A. Burns , A. J. Wellings, Allocating hard real-time tasks: an NP-hard problem made easy, Real-Time Systems, v.4 n.2, p.145-165, May 1992[doi>10.1007/BF00365407]
+K. W. Tindell , A. Burns , A. J. Wellings, An extendible approach for analyzing fixed priority hard real-time tasks, Real-Time Systems, v.6 n.2, p.133-151, March 1994[doi>10.1007/BF01088593]
+TIP, F. 1995. A survey of program slicing techniques. J. Program. Lang. 3, 3, 121-189.
+G. A. Venkatesh, The semantic approach to program slicing, Proceedings of the ACM SIGPLAN 1991 conference on Programming language design and implementation, p.107-119, June 24-28, 1991, Toronto, Ontario, Canada[doi>10.1145/113445.113455]
+Mark David Weiser, Program slices: formal, psychological, and practical investigations of an automatic program abstraction method, University of Michigan, Ann Arbor, MI, 1979
+WEISER~ M. 1983. Reconstructing sequential behavior from parallel behavior projections. Inf. Process. Lett. 17, 3 (Oct.), 129-135.
+WEISER~ M. 1984. Program slicing. IEEE Trans. Softw. Eng. 10, 352-357.
+WOLFE~ V., DAVIDSON~ S., AND LEE~ I. 1991. RTC: Language support for real-time concurrency. In Proceedings of the IEEE Real-Time Systems Symposium. IEEE, New York, 43-52.
+Jia Xu , David Lorge Parnas, On satisfying timing constraints in hard-real-time systems, Proceedings of the conference on Software for citical systems, p.132-146, December 04-06, 1991, New Orleans, Louisiana, USA[doi>10.1145/125083.123066]
+YOUNIS~ ~/{., ~/{ARLOWE~ T., AND STOYENKO~ t. 1994. Compiler transformations for speculative execution in a reM-time system. In Proceedings of the IEEE Real-Time Systems Symposium. IEEE, New York, 109-117.
+N. Zhang , A. Burns , M. Nicholson, Pipelined processors and worst case execution times, Real-Time Systems, v.5 n.4, p.319-343, Oct. 1993[doi>10.1007/BF01088834]

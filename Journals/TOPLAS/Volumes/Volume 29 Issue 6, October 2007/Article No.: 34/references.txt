@@ -1,0 +1,44 @@
+Stephan Balev , Patrice Quinton , Sanjay Rajopadhye , Tanguy Risset, Linear programming models for scheduling systems of affine recurrence equations—a comparative study, Proceedings of the tenth annual ACM symposium on Parallel algorithms and architectures, p.250-258, June 28-July 02, 1998, Puerto Vallarta, Mexico[doi>10.1145/277651.277691]
+Denis Barthou , Albert Cohen , Jean-François Collard, Maximal Static Expansion, International Journal of Parallel Programming, v.28 n.3, p.213-243, June 2000[doi>10.1023/A:1007500431910]
+Philippe Clauss, Counting solutions to linear and nonlinear constraints through Ehrhart polynomials: applications to analyze and transform scientific programs, Proceedings of the 10th international conference on Supercomputing, p.278-285, May 25-28, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/237578.237617]
+Albert Cohen, Parallelization via Constrained Storage Mapping Optimization, Proceedings of the Second International Symposium on High Performance Computing, p.83-94, May 26-28, 1999
+Albert Cohen , Vincent Lefebvre, Storage Mapping Optimization for Parallel Programs, Proceedings of the 5th International Euro-Par Conference on Parallel Processing, p.375-382, August 31-September 03, 1999
+Alain Darte, Regular partitioning for synthesizing fixed-size systolic arrays, Integration, the VLSI Journal, v.12 n.3, p.293-304, Dec. 1991[doi>10.1016/0167-9260(91)90026-H]
+Darte, A. 1998. Mathematical tools for loop transformations: From systems of uniform recurrence equations to the polytope model. In Algorithms for Parallel Processing, M. H. Heath, A. Ranade, and R. S. Schreiber, Eds. IMA Volumes in Mathematics and its Applications, vol. 105. Springer-Verlag, 147--183.
+Alain Darte , Yves Robert , Frederic Vivien, Scheduling and Automatic Parallelization, Birkhauser Boston, 2000
+Alain Darte , Robert Schreiber , Gilles Villard, Lattice-Based Memory Allocation, IEEE Transactions on Computers, v.54 n.10, p.1242-1257, October 2005[doi>10.1109/TC.2005.167]
+Darte, A., Silber, G.-A., and Vivien, F. 1997. Combining retiming and scheduling techniques for loop parallelization and loop tiling. Paral. Process. Lett. 7, 4, 379--392.
+Eddy de Greef , Francky Catthoor , Hugo de Man, Array Placement for Storage Size Reduction in Embedded Multimedia Systems, Proceedings of the IEEE International Conference on Application-Specific Systems, Architectures and Processors, p.66, July 14-16, 1997
+Eddy De Greef , Francky Catthoor , Hugo De Man, Memory size reduction through storage order optimization for embedded parallel multimedia applications, Parallel Computing, v.23 n.12, p.1811-1837, Dec. 1997[doi>10.1016/S0167-8191(97)00089-6]
+P. Feautrier, Array expansion, Proceedings of the 2nd international conference on Supercomputing, p.429-441, June 1988, St. Malo, France[doi>10.1145/55364.55406]
+Feautrier, P. 1991. Dataflow analysis of array and scalar references. Int. J. Paral. Program. 20, 1, 23--51.
+Paul Feautrier, Some efficient solutions to the affine scheduling problem: I. One-dimensional time, International Journal of Parallel Programming, v.21 n.5, p.313-348, Oct. 1992[doi>10.1007/BF01407835]
+Paul Feautrier, Some efficient solutions to the affine scheduling problem: I. One-dimensional time, International Journal of Parallel Programming, v.21 n.5, p.313-348, Oct. 1992[doi>10.1007/BF01407835]
+Paul Feautrier, Automatic Parallelization in the Polytope Model, The Data Parallel Programming Model: Foundations, HPF Realization, and Scientific Applications, p.79-103, January 1996
+Feautrier, P. 2001a. Array dataflow analysis. In Compiler Optimizations for Scalable Parallel Systems: Languages, Compilation Techniques, and Run Time Systems, D. P. Agrawal and S. Pande, Eds. Lecture Notes in Computer Science, vol. 1808. Springer, 173--220.
+Feautrier, P. 2001b. The use of Farkas lemma in memory optimization. Unpublished note, June, 2001.
+Feautrier, P., Collard, J.-F., Barreteau, M., Barthou, D., Cohen, A., and Lefebvre, V. 1998. The interplay of expansion and scheduling in PAF. Tech. rep. PRiSM, University of Versailles.
+F. Irigoin , R. Triolet, Supernode partitioning, Proceedings of the 15th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.319-329, January 10-13, 1988, San Diego, California, USA[doi>10.1145/73560.73588]
+Kouache, R. 2002. Durées de vie et compression mémoire. M.S. thesis, Université Louis Pasteur, Strasbourg. (In French).
+Vincent Lefebvre , Paul Feautrier, Automatic storage management for parallel programs, Parallel Computing, v.24 n.3-4, p.649-671, May, 1998[doi>10.1016/S0167-8191(98)00029-5]
+Amy W. Lim , Monica S. Lam, Maximizing parallelism and minimizing synchronization with affine partitions, Parallel Computing, v.24 n.3-4, p.445-475, May, 1998[doi>10.1016/S0167-8191(98)00021-0]
+Amy W. Lim , Shih-Wei Liao , Monica S. Lam, Blocking and array contraction across arbitrarily nested loops using affine partitioning, Proceedings of the eighth ACM SIGPLAN symposium on Principles and practices of parallel programming, p.103-112, June 2001, Snowbird, Utah, USA[doi>10.1145/379539.379586]
+Vincent Loechner , Doran K. Wilde, Parameterized polyhedra and their vertices, International Journal of Parallel Programming, v.25 n.6, p.525-549, Dec. 1997[doi>10.1023/A:1025117523902]
+Dror E. Maydan , Saman P. Amarasinghe , Monica S. Lam, Array-data flow analysis and its use in array privatization, Proceedings of the 20th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.2-15, March 1993, Charleston, South Carolina, USA[doi>10.1145/158511.158515]
+P. K. Murthy , S. S. Bhattacharyya, Shared buffer implementations of signal processing systems using lifetime analysis techniques, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.20 n.2, p.177-198, November 2006[doi>10.1109/43.908427]
+Praveen K. Murthy , Shuvra S. Bhattacharyya, Buffer merging—a powerful technique for reducing memory requirements of synchronous dataflow specifications, ACM Transactions on Design Automation of Electronic Systems (TODAES), v.9 n.2, p.212-237, April 2004[doi>10.1145/989995.989999]
+Needleman, S. B. and Wunsch, C. D. 1970. A general method applicable to the search for similarities in the amino acid sequence of two proteins. J. Mol. Biol. 48, 443--453.
+Geoffrey Roeder Pike , Paul N. Hilfinger, Reordering and storage optimizations for scientific programs, University of California, Berkeley, 2002
+William Pugh, A practical algorithm for exact array dependence analysis, Communications of the ACM, v.35 n.8, p.102-114, Aug. 1992[doi>10.1145/135226.135233]
+Fabien Quilleré , Sanjay Rajopadhye, Optimizing memory usage in the polyhedral model, ACM Transactions on Programming Languages and Systems (TOPLAS), v.22 n.5, p.773-815, Sept. 2000[doi>10.1145/365151.365152]
+Fabien Quilleré , Sanjay Rajopadhye , Doran Wilde, Generation of Efficient Nested Loops from Polyhedra, International Journal of Parallel Programming, v.28 n.5, p.469-498, Oct. 2000[doi>10.1023/A:1007554627716]
+Patrice Quinton, The systematic design of systolic arrays, Centre National de Recherche Scientifique on Automata networks in computer science: theory and applications, p.229-260, October 1987, Paris, France
+Quinton, P. and Dongen, V. V. 1989. The mapping of linear recurrence equations on regular arrays. J. VLSI Sign. Process. 1, 2, 95--113.
+S V Rajopadhye , S Purushothaman , R M Fujimoto, On synthesizing systolic arrays from recurrence equations with linear dependencies, Proc. of the sixth conference on Foundations of software technology and theoretical computer science, p.488-503, December 1986, New Delhi, India
+Saouter, Y. 1992. À propos de systèmes d'équations récurrentes. Ph.D. thesis, Université de Rennes 1.
+Alexander Schrijver, Theory of linear and integer programming, John Wiley & Sons, Inc., New York, NY, 1986
+Jeffrey Sheldon , Walter Lee , Ben Greenwald , Saman Amarasinghe, Strength reduction of integer division and modulo operations, Proceedings of the 14th international conference on Languages and compilers for parallel computing, p.254-273, August 01-03, 2001, Cumberland Falls, KY, USA
+Michelle Mills Strout , Larry Carter , Jeanne Ferrante , Beth Simon, Schedule-independent storage mapping for loops, Proceedings of the eighth international conference on Architectural support for programming languages and operating systems, p.24-33, October 02-07, 1998, San Jose, California, USA[doi>10.1145/291069.291015]
+Wilde, D. and Rajopadhye, S. 1997. Memory reuse analysis in the polyhedral model. Paral. Proces. Lett. 7, 2, 203--215.
+Yiwan Wong, Algorithms for systolic array synthesis, Yale University, New Haven, CT, 1989
+Yiwan Wong , Jean-Marc Delosme, Space-Optimal Linear Processor Allocation for Systolic Arrays Synthesis, Proceedings of the 6th International Parallel Processing Symposium, p.275-282, March 01-26, 1992[doi>10.1109/IPPS.1992.223033]

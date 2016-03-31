@@ -1,0 +1,35 @@
+T. E. Anderson, The Performance of Spin Lock Alternatives for Shared-Memory Multiprocessors, IEEE Transactions on Parallel and Distributed Systems, v.1 n.1, p.6-16, January 1990[doi>10.1109/71.80120]
+Nimar S. Arora , Robert D. Blumofe , C. Greg Plaxton, Thread scheduling for multiprogrammed multiprocessors, Proceedings of the tenth annual ACM symposium on Parallel algorithms and architectures, p.119-129, June 28-July 02, 1998, Puerto Vallarta, Mexico[doi>10.1145/277651.277678]
+Brightwell, R. and Skjellum, A. 1996. MPICH on the T3D: a case study of high performance message passing. Tech. rep., Computer Sci. Dept., Mississippi State Univ.
+Jehoshua Bruck , Danny Dolev , Ching-Tien Ho , Marcel-Cătălin Roşu , Ray Strong, Efficient message passing interface (MPI) for parallel computing on clusters of workstations, Journal of Parallel and Distributed Computing, v.40 n.1, p.19-34, Jan. 10, 1997[doi>10.1006/jpdc.1996.1267]
+Lynn Elliot Cannon, A cellular computer to implement the kalman filter algorithm, Montana State University, Bozeman, MT, 1969
+Crovella, M., Das, P., Dubnicki, C., LeBlanc, T., and Markatos, E. 1991. Multiprogramming on multiprocessors. In Proceedings of the 3rd IEEE Symposium on Parallel and Distributed Processing. IEEE, 590-597.
+David E. Culler , Anoop Gupta , Jaswinder Pal Singh, Parallel Computer Architecture: A Hardware/Software Approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1997
+Feitelson, D. 1997. Job scheduling in multiprogrammed parallel systems. Tech. Rep. Research Report RC 19790, IBM.
+A. J. Ferrari , V. S. Sunderam, TPVM: distributed concurrent computing with lightweight processes, Proceedings of the 4th IEEE International Symposium on High Performance Distributed Computing, p.211, August 02-04, 1995
+Ian Foster , Carl Kesselman , Steven Tuecke, The Nexus approach to integrating multithreading and communication, Journal of Parallel and Distributed Computing, v.37 n.1, p.70-82, Aug. 25, 1996[doi>10.1006/jpdc.1996.0108]
+William Gropp , Ewing Lusk, A high-performance MPI implementation on a shared-memory vector supercomputer, Parallel Computing, v.22 n.11, p.1513-1526, Jan. 1997[doi>10.1016/S0167-8191(96)00062-2]
+William Gropp , Ewing Lusk , Nathan Doss , Anthony Skjellum, A high-performance, portable implementation of the MPI message passing interface standard, Parallel Computing, v.22 n.6, p.789-828, Sept. 1996[doi>10.1016/0167-8191(96)00024-5]
+Maurice Herlihy, Wait-free synchronization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.1, p.124-149, Jan. 1991[doi>10.1145/114005.102808]
+Dongming Jiang , Hongzhang Shan , Jaswinder Pal Singh, Application restructuring and performance portability on shared virtual memory and hardware-coherent multiprocessors, Proceedings of the sixth ACM SIGPLAN symposium on Principles and practice of parallel programming, p.217-229, June 18-21, 1997, Las Vegas, Nevada, USA[doi>10.1145/263764.263792]
+Brian W. Kernighan , Dennis M. Ritchie, The C programming language, Prentice Hall Press, Upper Saddle River, NJ, 1989
+Leonidas I. Kontothanassis , Robert W. Wisniewski , Michael L. Scott, Scheduler-conscious synchronization, ACM Transactions on Computer Systems (TOCS), v.15 n.1, p.3-40, Feb. 1997[doi>10.1145/244764.244765]
+Scott T. Leutenegger , Mary K. Vernon, The performance of multiprogrammed multiprocessor scheduling algorithms, Proceedings of the 1990 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.226-236, April 1990, Univ. of Colorado, Boulder, Colorado, USA[doi>10.1145/98457.98761]
+Managing Concurrent Access for Shared Memory Active Messages, Proceedings of the 12th. International Parallel Processing Symposium on International Parallel Processing Symposium, p.272, March 30-April 03, 1998
+Massalin, H. and Pu, C. 1991. A lock-free multiprocessor OS kernel. Tech. Rep. CUCS-005-91, Computer Science Department, Columbia University. June.
+MPI-Forum. 1999. MPI Forum. http://www.mpi-forum.org.
+NCSA. 1999. NCSA note on SGI Origin 2000 IRIX 6.5. http://www.ncsa.uiuc.edu/SCD/ Consulting/Tips/Scheduler.html.
+NEC. 1999. MPI for NEC Supercomputers. http://www.ccrl-nece.technopark.gmd.de/~mpich/.
+Bradford Nichols , Dick Buttlar , Jacqueline Proulx Farrell, Pthreads programming, O'Reilly & Associates, Inc., Sebastopol, CA, 1996
+Ousterhout, J. 1982. Scheduling techniques for concurrent systems. In Proceedings of the 3rd International Conference of Distributed Computing Systems. IEEE, 22-30.
+David A. Patterson , John L. Hennessy, Computer organization and design (2nd ed.): the hardware/software interface, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1998
+Sundeep Prakash , Rajive L. Bagrodia, MPI-SIM: using parallel simulation to evaluate MPI programs, Proceedings of the 30th conference on Winter simulation, p.467-474, December 13-16, 1998, Washington, D.C., USA
+Protopopov, B. and Skjellum, A. 1998. A multi-threaded message passing interface(MPI) architecture: performance and program issues. Tech. rep., Computer Science Department, Mississippi State Univ.
+Salo, E. 1998. Personal communication.
+Kai Shen , Hong Tang , Tao Yang, Adaptive two-level thread management for fast MPI execution on shared memory machines, Proceedings of the 1999 ACM/IEEE conference on Supercomputing, p.49-es, November 14-19, 1999, Portland, Oregon, USA[doi>10.1145/331532.331581]
+A. Skjellum , B. Protopopov , S. Hebert, A Thread Taxonomy for MPI, Proceedings of the Second MPI Developers Conference, p.50, July 01-02, 1996
+Marc Snir , Steve W. Otto , David W. Walker , Jack Dongarra , Steven Huss-Lederman, MPI: The Complete Reference, MIT Press, Cambridge, MA, 1995
+A. Tucker , A. Gupta, Process control and scheduling issues for multiprogrammed shared-memory multiprocessors, Proceedings of the twelfth ACM symposium on Operating systems principles, p.159-166, November 1989[doi>10.1145/74850.74866]
+Dynamic Processor Allocation with the Solaris Operating System, Proceedings of the 12th. International Parallel Processing Symposium on International Parallel Processing Symposium, p.392, March 30-April 03, 1998
+John Zahorjan , Cathy McCann, Processor scheduling in shared memory multiprocessors, Proceedings of the 1990 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.214-225, April 1990, Univ. of Colorado, Boulder, Colorado, USA[doi>10.1145/98457.98760]
+Zhou, H. and Geist, A. 1997. LPVM: a step towards multithread PVM. Concurrency - Practice and Experience.

@@ -1,0 +1,39 @@
+Alan L. Wendt, Fast code generation using automatically-generated decision trees, ACM SIGPLAN Notices, v.25 n.6, p.9-15, Jun. 1990
+C. W. Fraser , A. L. Wendt, Automatic generation of fast optimizing code generators, ACM SIGPLAN Notices, v.23 n.7, p.79-84, July 1988
+David R. Hanson, The Y programming language, ACM SIGPLAN Notices, v.16 n.2, p.59-68, February 1981
+Peter B. Kessler, Discovering machine-specific code improvements, ACM SIGPLAN Notices, v.21 n.7, p.249-254, July 1986
+Robert Giegerich, Automatic generation of machine specific code optimizers, Proceedings of the 9th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.75-81, January 25-27, 1982, Albuquerque, Mexico
+Christopher W. Fraser , Todd A. Proebsting, Finite-static code generation, ACM SIGPLAN Notices, v.34 n.5, p.270-280, May 1999
+Jack W. Davidson , Christopher W. Fraser, Automatic generation of peephole optimizations, ACM SIGPLAN Notices, v.19 n.6, p.111-116, June 1984
+Y H Shyu, From semi-syntactic lexical analyzer to a new compiler model, ACM SIGPLAN Notices, v.21 n.12, p.149-157, Dec. 1986
+Andrew S. Tanenbaum , Hans van Staveren , Johan W. Stevenson, Using Peephole Optimization on Intermediate Code, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.1, p.21-36, Jan. 1982
+Rajeev Kumar , Amit Gupta , B. S. Pankaj , Mrinmoy Ghosh , P. P. Chakrabarti, Post-compilation optimization for multiple gains with pattern matching, ACM SIGPLAN Notices, v.40 n.12, December 2005
+Ralph E. Johnson , Justin O. Graver , Laurance W. Zurawski, TS: an optimizing compiler for smalltalk, ACM SIGPLAN Notices, v.23 n.11, p.18-26, Nov. 1988
+Jed Marti, An optimizing compiler for LISP for the Z80, Proceedings of the 5th ACM SIGSMALL symposium on Small systems, p.3-8, August 02-04, 1982, Colorado Springs, Colorado, USA
+Robert R. Kessler, Peep: an architectural description driven peephole optimizer, ACM SIGPLAN Notices, v.19 n.6, p.106-110, June 1984
+Jack W. Davidson , Christopher W. Fraser, Automatic generation of peephole optimizations, ACM SIGPLAN Notices, v.39 n.4, April 2004
+Martin L. Griss , Eric Benson , Anthony C. Hearn, Current status of a portable LISP compiler, ACM SIGPLAN Notices, v.17 n.6, p.276-283, June 1982
+Christopher W. Fraser , Alan L. Wendt, Integrating code generation and optimization, ACM SIGPLAN Notices, v.21 n.7, p.242-248, July 1986
+Jack W. Davidson , Christopher W. Fraser, Eliminating redundant object code, Proceedings of the 9th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.128-132, January 25-27, 1982, Albuquerque, Mexico
+M. Ganapathi , J. Hennessy and C. N. Fischer, Surveyor's Forum: Retargetable Code Generators, ACM Computing Surveys (CSUR), v.15 n.3, p.283-284, Sept. 1983
+Ronald Sobczak , Manton Matthews, Automatic code generation for microprocessor based systems, Proceedings of the 1985 ACM SIGSMALL symposium on Small systems, p.64-69, May 1985, Danvers, Massachusetts, USA
+Mahadevan Ganapathi , Charles N. Fischer, Description-driven code generation using attribute grammars, Proceedings of the 9th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.108-119, January 25-27, 1982, Albuquerque, New Mexico
+Daniel Kästner , Stephan Wilhelm, Generic control flow reconstruction from assembly code, ACM SIGPLAN Notices, v.37 n.7, July 2002
+Robert Giegerich, A Formal Framework for the Derivation of Machine-Specific Optimizers, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.3, p.478-498, July 1983
+Jack W. Davidson, A retargetable instruction reorganizer, ACM SIGPLAN Notices, v.21 n.7, p.234-241, July 1986
+Jack W. Davidson , Christopher W. Fraser, Code selection through object code optimization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.6 n.4, p.505-526, Oct. 1984
+Markus Pister , Daniel Kästner, Generic software pipelining at the assembly level, Proceedings of the 2005 workshop on Software and compilers for embedded systems, p.50-61, September 29-October 01, 2005, Dallas, Texas
+Carl McConnell , Ralph E. Johnson, Using static single assignment form in a code optimizer, ACM Letters on Programming Languages and Systems (LOPLAS), v.1 n.2, p.152-160, June 1992
+David G. Bradlee , Robert R. Henry , Susan J. Eggers, The Marion system for retargetable instruction scheduling, ACM SIGPLAN Notices, v.26 n.6, p.229-240, June 1991
+Keith D. Cooper , Alexander Grosul , Timothy J. Harvey , Steven Reeves , Devika Subramanian , Linda Torczon , Todd Waterman, ACME: adaptive compilation made efficient, ACM SIGPLAN Notices, v.40 n.7, July 2005
+João Dias , Norman Ramsey, Automatically generating instruction selectors using declarative machine descriptions, ACM SIGPLAN Notices, v.45 n.1, January 2010
+Keith D. Cooper , Alexander Grosul , Timothy J. Harvey , Steve Reeves , Devika Subramanian , Linda Torczon , Todd Waterman, Exploring the structure of the space of compilation sequences using randomized search algorithms, The Journal of Supercomputing, v.36 n.2, p.135-151, May       2006
+Ravi Sethi, Control flow aspects of semantics directed compiling (Summary), ACM SIGPLAN Notices, v.17 n.6, p.245-260, June 1982
+Mahadevan Ganapathi , Charles N. Fischer, Affix grammar driven code generation, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.4, p.560-599, Oct. 1985
+L. Almagor , Keith D. Cooper , Alexander Grosul , Timothy J. Harvey , Steven W. Reeves , Devika Subramanian , Linda Torczon , Todd Waterman, Finding effective compilation sequences, ACM SIGPLAN Notices, v.39 n.7, July 2004
+Ravi Sethi, Control Flow Aspects of Semantics-Directed Compiling, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.4, p.554-595, Oct. 1983
+Mahadevan Ganapathi , Charles N. Fischer , John L. Hennessy, Retargetable Compiler Code Generation, ACM Computing Surveys (CSUR), v.14 n.4, p.573-592, Dec. 1982
+James Stanier , Des Watson, Intermediate representations in imperative compilers: A survey, ACM Computing Surveys (CSUR), v.45 n.3, p.1-27, June 2013
+Jack W. Davidson , Christopher W. Fraser, Automatic generation of peephole optimizations, ACM SIGPLAN Notices, v.39 n.4, April 2004
+Gert Goossens , Johan Van Praet , Dirk Lanneer , Werner Geurts , Augusli Kifli , Clifford Liem , Pierre G. Paulin, Embedded software in real-time signal processing systems: design technologies, Readings in hardware/software co-design, Kluwer Academic Publishers, Norwell, MA, 2001
+Keith Cooper , Linda Torczon, Engineering a Compiler: International Student Edition, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2003

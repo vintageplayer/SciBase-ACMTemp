@@ -1,0 +1,43 @@
+Martín Abadi , Leslie Lamport, The existence of refinement mappings, Theoretical Computer Science, v.82 n.2, p.253-284, May 31, 1991[doi>10.1016/0304-3975(91)90224-P]
+Bowen Alpern , Fred B. Schneider, Verifying temporal properties without temporal logic, ACM Transactions on Programming Languages and Systems (TOPLAS), v.11 n.1, p.147-167, Jan. 1989[doi>10.1145/59287.62028]
+~ALPERN, B., AND SCHNEIDER, F.B. 1987. Proving boolean combinations of deterministic proper- ~ties. In Proceedings of the 2nd IEEE International Symposium on Logic in Computer Science. ~IEEE, New York.
+R. J. R. Back, Refinement calculus, part II: parallel and reactive programs, Proceedings on Stepwise refinement of distributed systems: models, formalisms, correctness, p.67-93, May 1990, Mook, The Netherlands
+R. J. R. Back , F. Kurki-Suonio, Distributed cooperation with action systems, ACM Transactions on Programming Languages and Systems (TOPLAS), v.10 n.4, p.513-554, Oct. 1988[doi>10.1145/48022.48023]
+~BACK, R. J. R., AND SERE, K. 1991. Stepwlse refinement of action systems. Struct. Program. ~12, 17-30.
+K. Mani Chandy, Parallel program design: a foundation, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1988
+Edsger Wybe Dijkstra, A  Discipline of Programming, Prentice Hall PTR, Upper Saddle River, NJ, 1997
+Nicolien J. Drost , J. van Leeuwen, Assertional verification of a majority consensus algorithm for concurrency control in multiple copy, International Conference on Concurrency on Concurrency 88, p.320-334, October 1988, Hamburg, Germany
+~FLOYD, R. 1967. Assigning meanings to programs. In Proceedzngs of the ACM Symposium on ~Applied Mathematics, vol. 19. ACM, New York, 19-32.
+Nissim Francez, Fairness, Springer-Verlag New York, Inc., New York, NY, 1986
+David Gries, The  Science of Programming, Springer-Verlag New York, Inc., Secaucus, NJ, 1987
+C. A. R. Hoare, Communicating sequential processes, Prentice-Hall, Inc., Upper Saddle River, NJ, 1985
+C. A. R. Hoare, An axiomatic basis for computer programming, Communications of the ACM, v.12 n.10, p.576-580, Oct. 1969[doi>10.1145/363235.363259]
+Kurt Jensen, Coloured Petri Nets: a high level language for system design and analysis, Proceedings on Advances in Petri nets 1990, p.342-416, March 1991
+Bengt Jonsson, Simulations Between Specifications of Distributed Systems, Proceedings of the 2nd International Conference on Concurrency Theory, p.346-360, August 26-29, 1991
+~JONSSON, B. 1987. Compositional verification of distributed systems. Ph.D. thes~s, Dept. of ~Computer Systems, Uppsala Univ, Uppsala, Sweden.
+Bengt Jonsson, A model and proof system for asynchronous networks, Proceedings of the fourth annual ACM symposium on Principles of distributed computing, p.49-58, August 1985, Minaki, Ontario, Canada[doi>10.1145/323596.323601]
+S. S. Lam , A. U. Shankar, Refinement and projection of relational specifications, Proceedings on Stepwise refinement of distributed systems: models, formalisms, correctness, p.454-486, May 1990, Mook, The Netherlands
+~LAM, S. S., AND SHANKAR, A.U. 1984. Protocol verification via projections IEEE Trans. Softw. ~Eng. SE-IO, 4 (July), 325-342.
+~LAMPORT, L. 1991 The temporal logic of actions. Tech. Rep., DEC/SRC.
+Leslie Lamport, A simple approach to specifying concurrent systems, Communications of the ACM, v.32 n.1, p.32-45, Jan. 1989[doi>10.1145/63238.63240]
+Leslie Lamport, Specifying Concurrent Program Modules, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.2, p.190-222, April 1983[doi>10.1145/69624.357207]
+Daniel J. Lehmann , Amir Pnueli , Jonathan Stavi, Impartiality, Justice and Fairness: The Ethics of Concurrent Termination, Proceedings of the 8th Colloquium on Automata, Languages and Programming, p.264-277, July 13-17, 1981
+Nancy A. Lynch , Mark R. Tuttle, Hierarchical correctness proofs for distributed algorithms, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.137-151, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41852]
+Zohar Manna , Amir Pnueli, The temporal logic of reactive and concurrent systems, Springer-Verlag New York, Inc., New York, NY, 1992
+Zohar Manna , Amir Pnueli, The anchored version of the temporal framework, Linear Time, Branching Time and Partial Order in Logics and Models for Concurrency, School/Workshop, p.201-284, May 30-June 03, 1988
+Z. Monna , A. Pnueli, Specification and verification of concurrent programs by A∀automata, Proceedings of the 14th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.1-2, January 21-23, 1987, Munich, West Germany[doi>10.1145/41625.41626]
+Zohar Manna , Amir Pnueli, Adequate proof principles for invariance and liveness properties of concurrent programs, Science of Computer Programming, v.4 n.3, p.257-289, Dec. 1984[doi>10.1016/0167-6423(84)90003-0]
+R. Milner, Communication and concurrency, Prentice-Hall, Inc., Upper Saddle River, NJ, 1989
+~MISRA, J. 1984. Reasoning about networks of communicating processes, in Proceedings of the ~INRIA Advanced Nato Study Institute on Logics and Models for Verification and Specification ~of Concurrent Systems.
+~MISRA, J., AND CHANDY, K.M. 1981. Proofs of networks of processes. IEEE Trans. Softw. Eng. ~SE-7, 4, (July), 417-426.
+Van Nguyen , Alan Demers , David Gries , Susan Owicki, A model and temporal proof system for networks of processes, Distributed Computing, v.1 n.1, p.7-25, Jan. 1986[doi>10.1007/BF01843567]
+Fredrik Orava, Verifying Safety and Deadlock Properties of Networks of Asynchronously Communicating Processes, Proceedings of the IFIP WG6.1 Ninth International Symposium on Protocol Specification, Testing and Verification IX, p.357-371, June 06-09, 1989
+Martin John Ossefort, A unified approach to formal verification of network safety properties, 1982
+Susan Owicki , Leslie Lamport, Proving Liveness Properties of Concurrent Programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.3, p.455-495, July 1982[doi>10.1145/357172.357178]
+A Pnueli, Applications of temporal logic to the specification and verification of reactive systems: a survey of current trends, Current trends in concurrency. Overviews and tutorials, Springer-Verlag New York, Inc., New York, NY, 1986
+Eugene W. Stark, Proving entailment between conceptual state specifications, Theoretical Computer Science, v.56 n.1, p.135-154, Jan. 1988[doi>10.1016/0304-3975(86)90007-1]
+~STARK, E.W. 1984. Foundations of a theory of specification for distributed systems. Ph.D. ~thesis, Massachussetts Inst. of Technology, Cambridge, Mass.
+Robert H. Thomas, A Majority consensus approach to concurrency control for multiple copy databases, ACM Transactions on Database Systems (TODS), v.4 n.2, p.180-209, June 1979[doi>10.1145/320071.320076]
+~VARDI, M. Y., AND WOLPER, P. 1986. An automata-theoretic approach to automatic program ~verification. In Proceedings of the 1st IEEE International Symposium on Logic in Computer ~Science. IEEE, New York, 332-344.
+J. Zwiers, Compositionality, concurrency and partial correctness, Springer-Verlag New York, Inc., New York, NY, 1989
+Job Zwiers , Willem P. de Roever , Peter van Emde Boas, Compositionality and Concurrent Networks: Soundness and Completeness of a Proofsystem, Proceedings of the 12th Colloquium on Automata, Languages and Programming, p.509-519, July 15-19, 1985

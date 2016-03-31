@@ -1,0 +1,23 @@
+Katsuhiro Ueno , Atsushi Ohori , Toshiaki Otomo, An efficient non-moving garbage collector for functional languages, ACM SIGPLAN Notices, v.46 n.9, September 2011
+Hongjin Liang , Xinyu Feng , Ming Fu, A rely-guarantee-based simulation for verifying concurrent program transformations, ACM SIGPLAN Notices, v.47 n.1, January 2012
+Chris Hawblitzel , Erez Petrank, Automated verification of practical garbage collectors, ACM SIGPLAN Notices, v.44 n.1, January 2009
+Michal Wegiel , Chandra Krintz, The mapping collector: virtual memory support for generational, parallel, and concurrent compaction, ACM SIGOPS Operating Systems Review, v.42 n.2, March 2008
+Simon Marlow , Tim Harris , Roshan P. James , Simon Peyton Jones, Parallel generational-copying garbage collection with a block-structured heap, Proceedings of the 7th international symposium on Memory management, June 07-08, 2008, Tucson, AZ, USA
+Haggai Eran , Erez Petrank, A study of data structures with a deep heap shape, Proceedings of the ACM SIGPLAN Workshop on Memory Systems Performance and Correctness, June 16-19, 2013, Seattle, Washington
+Hongjin Liang , Xinyu Feng , Ming Fu, Rely-Guarantee-Based Simulation for Compositional Verification of Concurrent Program Transformations, ACM Transactions on Programming Languages and Systems (TOPLAS), v.36 n.1, p.1-55, March 2014
+Filip Pizlo , Erez Petrank , Bjarne Steensgaard, A study of concurrent real-time garbage collectors, ACM SIGPLAN Notices, v.43 n.6, June 2008
+Qian Zhu , David Vengerov, Adaptive optimization of the Sun Java™ real-time system garbage collector, Sun Microsystems, Inc., Mountain View, CA, 2009
+Ronald Veldema , Michæl Philippsen, Iterative data-parallel mark&sweep on a GPU, ACM SIGPLAN Notices, v.46 n.11, November 2011
+Nachshon Cohen , Erez Petrank, Data structure aware garbage collector, Proceedings of the 2015 ACM SIGPLAN International Symposium on Memory Management, June 14-14, 2015, Portland, OR, USA
+Steven R. Brandt , Hari Krishnan , Gokarna Sharma , Costas Busch, Concurrent, parallel garbage collection in linear time, Proceedings of the 2014 international symposium on Memory management, June 12-12, 2014, Edinburgh, United Kingdom
+Filip Pizlo , Erez Petrank , Bjarne Steensgaard, Path specialization: reducing phased execution overheads, Proceedings of the 7th international symposium on Memory management, June 07-08, 2008, Tucson, AZ, USA
+Wolfgang Puffitsch, Data caching, garbage collection, and the Java memory model, Proceedings of the 7th International Workshop on Java Technologies for Real-Time and Embedded Systems, September 23-25, 2009, Madrid, Spain
+Cosmin E. Oancea , Alan Mycroft , Stephen M. Watt, A new approach to parallelising tracing algorithms, Proceedings of the 2009 international symposium on Memory management, June 19-20, 2009, Dublin, Ireland
+Filip Pizlo , Daniel Frampton , Erez Petrank , Bjarne Steensgaard, Stopless: a real-time garbage collector for multiprocessors, Proceedings of the 6th international symposium on Memory management, October 21-22, 2007, Montreal, Quebec, Canada
+Katherine Barabash , Erez Petrank, Tracing garbage collection on highly parallel platforms, ACM SIGPLAN Notices, v.45 n.8, August 2010
+Gabriel Kliot , Erez Petrank , Bjarne Steensgaard, A lock-free, concurrent, and incremental stack scanning for garbage collectors, Proceedings of the 2009 ACM SIGPLAN/SIGOPS international conference on Virtual execution environments, March 11-13, 2009, Washington, DC, USA
+Gabriel Kliot , Erez Petrank , Bjarne Steensgaard, A lock-free, concurrent, and incremental stack scanning mechanism for garbage collectors, ACM SIGOPS Operating Systems Review, v.43 n.3, July 2009
+Antony L. Hosking, Portable, mostly-concurrent, mostly-copying garbage collection for multi-processors, Proceedings of the 5th international symposium on Memory management, June 10-11, 2006, Ottawa, Ontario, Canada
+Balaji Iyengar , Edward Gehringer , Michael Wolf , Karthikeyan Manivannan, Scalable concurrent and parallel mark, ACM SIGPLAN Notices, v.47 n.11, November 2012
+Stephen M. Blackburn , Kathryn S. McKinley, Immix: a mark-region garbage collector with space efficiency, fast collection, and mutator performance, ACM SIGPLAN Notices, v.43 n.6, June 2008
+Gary H. Sockut , Balakrishna R. Iyer, Online reorganization of databases, ACM Computing Surveys (CSUR), v.41 n.3, p.1-136, July 2009

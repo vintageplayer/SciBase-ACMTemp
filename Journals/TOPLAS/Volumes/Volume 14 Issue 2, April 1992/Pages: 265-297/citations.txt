@@ -1,0 +1,13 @@
+Paul R. Wilson , Michael S. Lam , Thomas G. Moher, Caching considerations for generational garbage collection, ACM SIGPLAN Lisp Pointers, v.V n.1, p.32-42, Jan. 1992
+Nicholas Nethercote , Alan Mycroft, The cache behaviour of large lazy functional programs on stock hardware, ACM SIGPLAN Notices, v.38 n.2 supplement, p.44-55, February 2003
+Urs Hölzle , David Ungar, Do Object-Oriented Languages Need Special Hardware Support?, Proceedings of the 9th European Conference on Object-Oriented Programming, p.283-302, August 07-11, 1995
+Martin Burtscher , Amer Diwan , Matthias Hauswirth, Static load classification for improving the value predictability of data-cache misses, ACM SIGPLAN Notices, v.37 n.5, May 2002
+Mark B. Reinhold, Cache performance of garbage-collected programs, ACM SIGPLAN Notices, v.29 n.6, p.206-217, June 1994
+Amer Diwan , David Tarditi , Eliot Moss, Memory system performance of programs with intensive heap allocation, ACM Transactions on Computer Systems (TOCS), v.13 n.3, p.244-273, Aug. 1995
+Amer Diwan , David Tarditi , Eliot Moss, Memory subsystem performance of programs using copying garbage collection, Proceedings of the 21st ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.1-14, January 16-19, 1994, Portland, Oregon, USA
+Andrew J. Bennett , Paul H. J. Kelly , Ross A. Paterson, Pipelined functional tree accesses and updates: scheduling, synchronization, caching and coherence, Journal of Functional Programming, v.11 n.4, p.359-393, July 2001
+Marcelo J. R. Gonçalves , Andrew W. Appel, Cache performance of fast-allocating programs, Proceedings of the seventh international conference on Functional programming languages and computer architecture, p.293-305, June 26-28, 1995, La Jolla, California, USA
+Andrew J. Bennett , Paul H. J. Kelly, Efficient shared-memory support for parallel graph reduction, Future Generation Computer Systems, v.12 n.6, p.481-503, June, 1997
+Urs Hölzle , David Ungar, Optimizing dynamically-dispatched calls with run-time type feedback, ACM SIGPLAN Notices, v.29 n.6, p.326-336, June 1994
+Urs Hölzle , David Ungar, Reconciling responsiveness with performance in pure object-oriented languages, ACM Transactions on Programming Languages and Systems (TOPLAS), v.18 n.4, p.355-400, July 1996
+Henry G. Baker, Linear logic and permutation stacks—the Forth shall be first, ACM SIGARCH Computer Architecture News, v.22 n.1, p.34-43, March 1994

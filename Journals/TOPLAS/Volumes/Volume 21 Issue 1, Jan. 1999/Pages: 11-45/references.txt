@@ -1,0 +1,54 @@
+Martin Abadi , Luca Cardelli, A  Theory of Objects, Springer-Verlag New York, Inc., Secaucus, NJ, 1996
+Martín Abadi , Luca Cardelli , Benjamin Pierce , Gordon Plotkin, Dynamic typing in a statically typed language, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.2, p.237-268, April 1991[doi>10.1145/103135.103138]
+ABADI, M., CARDELI, L., PIERCE, B., AND REMY, D. 1992. Dynamic typing in polymorphic languages. In P. LEE (Ed.), Proceedings of the ACM SIGPLAN Workshop on ML and its Applications, San Francisco, California. Carnegie-Mellon University Technical Report CMU-CS-93-105.
+Shail Aditya , Alejandro Caro, Compiler-directed type reconstruction for polymorphic languages, Proceedings of the conference on Functional programming languages and computer architecture, p.74-82, June 09-11, 1993, Copenhagen, Denmark[doi>10.1145/165180.165192]
+Alexander Aiken , Edward L. Wimmers , T. K. Lakshman, Soft typing with conditional types, Proceedings of the 21st ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.163-173, January 16-19, 1994, Portland, Oregon, USA[doi>10.1145/174675.177847]
+A. W. Appel, Short communication, Software—Practice & Experience, v.19 n.7, p.703-705, July 1989[doi>10.1002/spe.4380190704]
+Andrew W. Appel, Compiling with continuations, Cambridge University Press, New York, NY, 1992
+Andrew Birrell , Greg Nelson , Susan Owicki , Edward Wobber, Network objects, Proceedings of the fourteenth ACM symposium on Operating systems principles, p.217-230, December 05-08, 1993, Asheville, North Carolina, USA[doi>10.1145/168619.168637]
+G.M. Birtwhistle , O.J. Dahl , B. Myhrhaug , K. Nygaard, Simula Begin, Chartwell-Bratt Ltd, 1979
+BRUCE, I~. 1994. A paradigmatic object-oriented programming language: Design, static typing and semantics. Journal of Functional Programming 4, 127-206.
+Peter Buneman , Atsushi Ohori, Polymorphism and type inference in database programming, ACM Transactions on Database Systems (TODS), v.21 n.1, p.30-76, March 1996[doi>10.1145/227604.227609]
+L Cardelli, Amber, Proc. of the thirteenth spring school of the LITP on Combinators and functional programming languages, p.21-47, October 1986, Val d'Ajol, France
+Robert Cartwright , Mike Fagan, Soft typing, Proceedings of the ACM SIGPLAN 1991 conference on Programming language design and implementation, p.278-292, June 24-28, 1991, Toronto, Ontario, Canada[doi>10.1145/113445.113469]
+Catherine Dubois , François Rouaix , Pierre Weis, Extensional polymorphism, Proceedings of the 22nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.118-129, January 23-25, 1995, San Francisco, California, USA[doi>10.1145/199448.199473]
+DUGGAN, D. 1998a. Finite subtype inference with explicit polymorphism. In Static Analysis Symposium, Pisa, Italy.
+Dominic Duggan, A Type-Based Semantics for User-Defined Marshalling in Polymorphic Languages, Proceedings of the Second International Workshop on Types in Compilation, p.273-297, March 25-27, 1998
+DUGGAN, D. AND OPHEL, J. 1997a. Scoped parametric overloading. Submitted for publication.
+DUGGAN, D. AND OPHEL, J. 1997b. Type-checking multi-parameter type classes. Submitted for publication.
+Tim Freeman , Frank Pfenning, Refinement types for ML, Proceedings of the ACM SIGPLAN 1991 conference on Programming language design and implementation, p.268-277, June 24-28, 1991, Toronto, Ontario, Canada[doi>10.1145/113445.113468]
+Benjamin Goldberg, Tag-free garbage collection for strongly typed programming languages, Proceedings of the ACM SIGPLAN 1991 conference on Programming language design and implementation, p.165-176, June 24-28, 1991, Toronto, Ontario, Canada[doi>10.1145/113445.113460]
+Benjamin Goldberg , Michael Gloger, Polymorphic type reconstruction for garbage collection without tags, Proceedings of the 1992 ACM conference on LISP and functional programming, p.53-65, June 22-24, 1992, San Francisco, California, USA[doi>10.1145/141471.141504]
+GORDON, M. 1980. Adding eval to ml. Private communication to an author of Abadi et al. {1991}.
+James Gosling , Bill Joy , Guy L. Steele, The  Java Language Specification, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1996
+Carl A. Gunter , Elsa L. Gunter , David B. MacQueen, Computing ML equality kinds using abstract interpretation, Information and Computation, v.107 n.2, p.303-323, Dec. 1993[doi>10.1006/inco.1993.1070]
+Cordelia V. Hall , Kevin Hammond , Simon L. Peyton Jones , Philip L. Wadler, Type classes in Haskell, ACM Transactions on Programming Languages and Systems (TOPLAS), v.18 n.2, p.109-138, March 1996[doi>10.1145/227699.227700]
+Robert Harper , John C. Mitchell, On the type structure of standard ML, ACM Transactions on Programming Languages and Systems (TOPLAS), v.15 n.2, p.211-252, April 1993[doi>10.1145/169701.169696]
+Robert Harper , Greg Morrisett, Compiling polymorphism using intensional type analysis, Proceedings of the 22nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.130-141, January 23-25, 1995, San Francisco, California, USA[doi>10.1145/199448.199475]
+HUDAK, P., PEYTON-JONES, S., WADLER, P., BOUTEL, B., FAIRBAIRN, J., FASEL, J., GUZMAN, M. M.,
+Paul Hudak , Simon Peyton Jones , Philip Wadler , Brian Boutel , Jon Fairbairn , Joseph Fasel , María M. Guzmán , Kevin Hammond , John Hughes , Thomas Johnsson , Dick Kieburtz , Rishiyur Nikhil , Will Partain , John Peterson, Report on the programming language Haskell: a non-strict, purely functional language version 1.2, ACM SIGPLAN Notices, v.27 n.5, p.1-164, May 1992[doi>10.1145/130697.130699]
+Jean D. Ichbiah , Bernd Krieg-Brueckner , Brian A. Wichmann , John G. P. Barnes , Olivier Roubine , Jean-Claude Heliard, Rationale for the design of the Ada programming language, ACM SIGPLAN Notices, v.14 n.6b, p.1-261, June 1979[doi>10.1145/956653.956654]
+LAMPSON, B. 1983. A description of the Cedar language. Technical Report CSL-83-15, Xerox Palo Alto Research Center.
+LEROY, X. AND MAUNY, M. 1993. Dynamics in ML. Journal of Functional Programming 3, 4, 431-463.
+B Liskov , E Moss , A Snyder , R Atkinson , J C. Schaffert , T Bloom , R Scheifler, CLU reference manual, Springer-Verlag New York, Inc., New York, NY, 1984
+LONGO, G. 1993. Parametric and type-dependent polymorphism. Technical Report LIENS-93-21 (November), Laboratoire d'Informatique de l'Ecole Normale Sup6rieure. To appear in Fundamenta Informatica.
+Giuseppe Longo , Kathleen Milsted , Sergei Soloviev, The genericity theorem and parametricity in the polymorphic &lgr;-calculus, Theoretical Computer Science, v.121 n.1-2, p.323-349, Dec. 6, 1993[doi>10.1016/0304-3975(93)90093-9]
+Robin Milner , Mads Tofte , Robert Harper, The definition of Standard ML, MIT Press, Cambridge, MA, 1990
+John C. Mitchell , Gordon D. Plotkin, Abstract types have existential type, ACM Transactions on Programming Languages and Systems (TOPLAS), v.10 n.3, p.470-502, July 1988[doi>10.1145/44501.45065]
+MORRISETT, J. G. 1995. Compiling With Types. Ph.D. thesis, Carnegie-Mellon University.
+R. Morrison , A. Dearle , R. C. H. Connor , A. L. Brown, An ad hoc approach to the implementation of polymorphism, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.3, p.342-371, July 1991[doi>10.1145/117009.117017]
+MYCROFT, t. 1983. Dynamic typing in ML. Unpublished technical report.
+Greg Nelson, Systems programming with Modula-3, Prentice-Hall, Inc., Upper Saddle River, NJ, 1991
+Object Management Group 1995. The Common Object Request Broker: Architecture and Specification 2.0. Object Management Group.
+Atsushi Ohori , Kazuhiko Kato, Semantics for communication primitives in a polymorphic language, Proceedings of the 20th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.99-112, March 1993, Charleston, South Carolina, USA[doi>10.1145/158511.158529]
+PEYTON-JONES, S. 1992. Implementing lazy functional languages on stock hardware: the spineless tag-less g-machine. Journal of Functional Programming 2, 2 (July), 127-202.
+Simon L. Peyton Jones , John Launchbury, Unboxed values as first class citizens in a non-strict functional language, Proceedings of the 5th ACM conference on Functional programming languages and computer architecture, p.636-666, June 1991, Cambridge, Massachusetts, USA
+PIERCE, B. AND TURNER, D. 1994. Simple type-theoretic foundations for object-oriented programruing. Journal of Functional Programming g, 2 (April), 207-247.
+ROVNER, P. 1986. On extending Modula-2+ to build large, integrated systems. IEEE Software 3, 6 (November), 46-57.
+D. Tarditi , G. Morrisett , P. Cheng , C. Stone , R. Harper , P. Lee, TIL: a type-directed optimizing compiler for ML, Proceedings of the ACM SIGPLAN 1996 conference on Programming language design and implementation, p.181-192, May 21-24, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/231379.231414]
+Satish Thatte, Type Inference with Partial Types, Proceedings of the 15th International Colloquium on Automata, Languages and Programming, p.615-629, July 11-15, 1988
+Satish Thatte, Quasi-static typing, Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.367-381, December 1989, San Francisco, California, USA[doi>10.1145/96709.96747]
+Satish R. Thatté, Semantics of type classes revisited, Proceedings of the 1994 ACM conference on LISP and functional programming, p.208-219, June 27-29, 1994, Orlando, Florida, USA[doi>10.1145/182409.182459]
+Andrew Tolmach, Tag-free garbage collection using explicit type parameters, Proceedings of the 1994 ACM conference on LISP and functional programming, p.1-11, June 27-29, 1994, Orlando, Florida, USA[doi>10.1145/182409.182411]
+Andrew K. Wright , Robert Cartwright, A practical soft type system for Scheme, Proceedings of the 1994 ACM conference on LISP and functional programming, p.250-262, June 27-29, 1994, Orlando, Florida, USA[doi>10.1145/182409.182485]
+WRIGHT, t. AND FELLEISEN, ~/{. 1991. A syntactic approach to type soundness. Technical Report TR91-160 (April}, Rice University.

@@ -1,0 +1,38 @@
+Bernd Grobauer, Cost recurrences for DML programs, ACM SIGPLAN Notices, v.36 n.10, October 2001
+Pedro B. Vasconcelos , Kevin Hammond, Inferring cost equations for recursive, polymorphic and higher-order functional programs, Proceedings of the 15th international conference on Implementation of Functional Languages, September 08-11, 2003, Edinburgh, UK
+Norman Danner , Daniel R. Licata , Ramyaa Ramyaa, Denotational cost semantics for functional languages with inductive types, Proceedings of the 20th ACM SIGPLAN International Conference on Functional Programming, August 31-September 02, 2015, Vancouver, BC, Canada
+Robert J. Hall, Call path profiling, Proceedings of the 14th international conference on Software engineering, p.296-306, May 11-15, 1992, Melbourne, Australia
+Norman Danner , Jennifer Paykin , James S. Royer, A static cost analysis for a higher-order language, Proceedings of the 7th workshop on Programming languages meets program verification, January 22-22, 2013, Rome, Italy
+Mads Rosendahl, Automatic complexity analysis, Proceedings of the fourth international conference on Functional programming languages and computer architecture, p.144-156, September 11-13, 1989, Imperial College, London, United Kingdom
+Vincent Dornic , Pierre Jouvelot , David K. Gifford, Polymorphic time systems for estimating program complexity, ACM Letters on Programming Languages and Systems (LOPLAS), v.1 n.1, p.33-45, March 1992
+Simon F. Goldsmith , Alex S. Aiken , Daniel S. Wilkerson, Measuring empirical computational complexity, Proceedings of the the 6th joint meeting of the European software engineering conference and the ACM SIGSOFT symposium on The foundations of software engineering, September 03-07, 2007, Dubrovnik, Croatia
+Flemming Nielson , Hanne Riis Nielson, Operational semantics of termination types, Nordic Journal of Computing, v.3 n.2, p.144-187, Summer 1996
+Saumya K. Debray , Nai-Wei Lin , Manuel Hermnegildo, Task granularity analysis in logic programs, ACM SIGPLAN Notices, v.25 n.6, p.174-188, Jun. 1990
+Álvaro J. Rebón Portillo , Kevin Hammond , Hans-Wolfgang Loidl , Pedro Vasconcelos, Cost analysis using automatic size and time inference, Proceedings of the 14th international conference on Implementation of functional languages, p.232-247, September 16-18, 2002, Madrid, Spain
+Sumit Gulwani, SPEED: Symbolic Complexity Bound Analysis, Proceedings of the 21st International Conference on Computer Aided Verification, June 26-July 02, 2009, Grenoble, France
+Elvira Albert , Puri Arenas , Samir Genaim , Germán Puebla, Cost Relation Systems: A Language-Independent Target Language for Cost Analysis, Electronic Notes in Theoretical Computer Science (ENTCS), 248, p.31-46, August, 2009
+Jorge Navas , Edison Mera , Pedro López-García , Manuel V. Hermenegildo, User-definable resource bounds analysis for logic programs, Proceedings of the 23rd international conference on Logic programming, September 08-13, 2007, Porto, Portugal
+Diego Esteban Alonso-Blas , Samir Genaim, On the limits of the classical approach to cost analysis, Proceedings of the 19th international conference on Static Analysis, September 11-13, 2012, Deauville, France
+Leena Unnikrishnan , Scott D. Stoller , Yanhong A. Liu, Optimized Live Heap Bound Analysis, Proceedings of the 4th International Conference on Verification, Model Checking, and Abstract Interpretation, p.70-85, January 09-11, 2002
+Simone Campanoni , Martino Sykora , Giovanni Agosta , Stefano Crespi Reghizzi, Dynamic Look Ahead Compilation: A Technique to Hide JIT Compilation Latencies in Multicore Environment, Proceedings of the 18th International Conference on Compiler Construction: Held as Part of the Joint European Conferences on Theory and Practice of Software, ETAPS 2009, p.220-235, March 22-29, 2009, York, UK
+Leena Unnikrishnan , Scott D. Stoller , Yanhong A. Liu, Automatic Accurate Live Memory Analysis for Garbage-Collected Languages, ACM SIGPLAN Notices, v.36 n.8, p.102-111, Aug. 2001
+Elvira Albert , Puri Arenas , Samir Genaim , Germán Puebla, Automatic Inference of Upper Bounds for Recurrence Relations in Cost Analysis, Proceedings of the 15th international symposium on Static Analysis, July 16-18, 2008, Valencia, Spain
+Lorenz Huelsbergen , James R. Larus , Alexander Aiken, Using the run-time sizes of data structures to guide parallel-thread creation, ACM SIGPLAN Lisp Pointers, v.VII n.3, p.79-90, July-Sept. 1994
+Ralph Benzinger, Automated higher-order complexity analysis, Theoretical Computer Science, v.318 n.1-2, p.79-103, June 2004
+Kyle D. Ross, Towards an automatic complexity analysis for generic programs, Proceedings of the 2006 ACM SIGPLAN workshop on Generic programming, September 16-16, 2006, Portland, Oregon, USA
+Leena Unnikrishnan , Scott D. Stoller, Parametric heap usage analysis for functional programs, Proceedings of the 2009 international symposium on Memory management, June 19-20, 2009, Dublin, Ireland
+Ralph Benzinger, Automated complexity analysis of Nuprl extracted programs, Journal of Functional Programming, v.11 n.1, p.3-31, January 2001
+Saumya K. Debray , Nai-Wei Lin, Cost analysis of logic programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.15 n.5, p.826-875, Nov. 1993
+Brian Reistad , David K. Gifford, Static dependent costs for estimating execution time, ACM SIGPLAN Lisp Pointers, v.VII n.3, p.65-78, July-Sept. 1994
+Gustavo Gómez , Yanhong A. Liu, Automatic time-bound analysis for a higher-order language, ACM SIGPLAN Notices, v.37 n.3, p.75-86, March 2002
+Jeyarajan Thiyagalingam , Simon Walton , Brian Duffy , Anne Trefethen , Min Chen, Complexity plots, Proceedings of the 15th Eurographics Conference on Visualization, June 17-21, 2013, Leipzig, Germany
+Sumit Gulwani , Krishna K. Mehra , Trishul Chilimbi, SPEED: precise and efficient static estimation of program computational complexity, ACM SIGPLAN Notices, v.44 n.1, January 2009
+Yanhong A. Liu , Scott D. Stoller , Michael Gorbovitski , Tom Rothamel , Yanni Ellen Liu, Incrementalization across object abstraction, ACM SIGPLAN Notices, v.40 n.10, October 2005
+Elvira Albert , Samir Genaim , Abu Naser Masud, On the Inference of Resource Usage Upper and Lower Bounds, ACM Transactions on Computational Logic (TOCL), v.14 n.3, p.1-35, August 2013
+Y. A. Liu , G. Gómez, Automatic Accurate Cost-Bound Analysis for High-Level Languages, IEEE Transactions on Computers, v.50 n.12, p.1295-1309, December 2001
+Jorge Navas , Mario Méndez-Lojo , Manuel V. Hermenegildo, User-Definable Resource Usage Bounds Analysis for Java Bytecode, Electronic Notes in Theoretical Computer Science (ENTCS), v.253 n.5, p.65-82, December, 2009
+Steffen Jost , Kevin Hammond , Hans-Wolfgang Loidl , Martin Hofmann, Static determination of quantitative resource usage for higher-order programs, ACM SIGPLAN Notices, v.45 n.1, January 2010
+Elvira Albert , Puri Arenas , Samir Genaim , Germán Puebla, Closed-Form Upper Bounds in Static Cost Analysis, Journal of Automated Reasoning, v.46 n.2, p.161-203, February  2011
+Elvira Albert , Puri Arenas , Samir Genaim , German Puebla , Damiano Zanardini, Cost analysis of object-oriented bytecode programs, Theoretical Computer Science, v.413 n.1, p.142-159, January, 2012
+Jan Hoffmann , Klaus Aehlig , Martin Hofmann, Multivariate amortized resource analysis, ACM Transactions on Programming Languages and Systems (TOPLAS), v.34 n.3, p.1-62, October 2012
+Saumya Debray, Abstract interpretation and low-level code optimization, Proceedings of the 1995 ACM SIGPLAN symposium on Partial evaluation and semantics-based program manipulation, p.111-121, June 21-23, 1995, La Jolla, California, United States

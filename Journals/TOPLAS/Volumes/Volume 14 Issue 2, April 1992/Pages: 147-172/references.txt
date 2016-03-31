@@ -1,0 +1,39 @@
+Andrew W. Appel, Semantics-directed code generation, Proceedings of the 12th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.315-324, January 14-16, 1985, New Orleans, Louisiana, USA[doi>10.1145/318593.318661]
+BECKMAN, L., et al. A partial evaluator, and its use as a programming tool. Artif. Intell. 7, 4 (1976), 319-357.
+A. Bondorf, Automatic autoprojection of higher order recursive equations, Proceedings of the third European symposium on programming on ESOP '90, p.70-87, May 1990, Copenhagen, Denmark
+Anders Bondorf, A Self-Applicable Partial Evaluator for Term Rewriting Systems, Proceedings of the International Joint Conference on Theory and Practice of Software Development, Volume 2: Advanced Seminar on Foundations of Innovative Software Development II and Colloquium on Current Issues in Programming Languages, p.81-95, March 13-17, 1989
+BONDORP, A., AND DANVY, O. Automatic autoprojection of recursive equations with global variables and abstract data types. Tech. Rep. 90/4, DIKU, Univ. of Copenhagen, 1990. Te appear in Science of Computer Programming.
+BONDORF, A., JONES, N. D., MOGENSEN, T., AND SESTOFT, P. Binding time analysis and the taming of self-application. Draft, DIKU, Univ. of Copenhagen, Aug. 1988.
+ONSEL, C. Analyse de programmes, evaluation partielle et g~n~ration de compilateurs. Ph.D. dissertation, Univ. de Paris 6, Paris, June 1989, 109 pp. (in French).
+Charles Consel, New Insights into Partial Evaluation: the SCHISM Experiment, Proceedings of the 2nd European Symposium on Programming, p.236-246, March 21-24, 1988
+Charles Consel , Olivier Danvy, Partial evaluation of pattern matching in strings, Information Processing Letters, v.30 n.2, p.79-86, January 1989[doi>10.1016/0020-0190(89)90113-0]
+ERs~ov, A. P. On the essence of compilation. In Formal Description of Programming Concepts, E. J. Neuhold, Ed., North-Holland, Amsterdam, 1978, 391-420.
+ERSHOV, A. P., AND ITKIN, V.E. Correctness of mixed computation in Algol-like programs. In Mathematical Foundations of Computer Science (Tatransk~ Lomnica, Czechoslovakia), J. Gruska, Ed., Lecture Notes in Computer Science, 53, Springer-Verlag, New York, pp. 59-77.
+D. A. Fuller , S. Abramsky, Mixed computation of Prolog programs, New Generation Computing, v.6 n.2-3, p.119-141, March-April 1988[doi>10.1007/BF03037134]
+FUTAMURA, Y. Partial evaluation of computation process--An approach te a compiler- ~compiler. Syst. Comput. Controls 2, 5 (1971), 45-50.
+GOMARD, C. K., AND JONES, N.D. Compiler generation by partial evaluation: A case study. J. Struct. Program. 12, 3 (July 1991), te appear. Also DIKU Rep. 88/24 and 90/16.
+Carsten K. Gomard, Partial type inference for untyped functional programs, Proceedings of the 1990 ACM conference on LISP and functional programming, p.282-287, June 27-29, 1990, Nice, France[doi>10.1145/91556.91672]
+GOMARD, C. K., AND JONES, N. D. A partial evaluator for the untyped lambda-calculus. J. Func. Program. 1, I (Jan. 1991), 21-69.
+GuzowsKI, M.A. Towards developing a refiexive partial evaluator for an interesting subset of Lisp. Master's Thesis, Dept. of Computer Eng. and Science, Case Western Reserve Univ., Cleveland, Ohio, Jan. 1988.
+John Hannan , Dale Miller, Deriving Mixed Evaluation from Standard Evaluation for a Simple Functional Language, Proceedings of the International Conference on Mathematics of Program Construction, 375th Anniversary of the Groningen University, p.239-255, June 26-30, 1989
+JONES, N.D. Automatic program specialization: a re-examination from basic principles. In Partial Evuluation and Mixed Computation, D. Bj~/rner, A P Ershov, and N D. Jones, Eds., North-Holland, Amsterdam, 1988, pp. 225-282.
+JO~~ES, N. D, GOMARD, C. K., BONDORF, A., DANVY, O., AND MOGENSEN, T. E. A selfapplicable partial evaluator for the lambda calculus. In 1990 International Conference on Computer Languages (New Orteans, LA, March 1990), IEEE Computer Society, New York, 1990, pp. 49-58.
+Neil D. Jones , Peter Sestoft , Harald Sondergaard, An experiment in partial evaluation: the generation of a compiler generator, Proc. of the first international conference on Rewriting techniques and applications, p.124-140, May 20-22, 1985, Dijon, France
+JON~S, N. D., SESTOFT, P., AND SfINDERCAARD, H. Mix: a sel~applicable partial evaluator for experiments in compiler generation. Lisp Symbol~c Comput. 2, i (1989), 9-50.
+Ulrik Jørring , William L. Scherlis, Compilers and staging transformations, Proceedings of the 13th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.86-96, January 01, 1986, St. Petersburg Beach, Florida[doi>10.1145/512644.512652]
+LOMSARDI, L. A. Incremental computation. In Advances Comput. 8, F. L. Alt and M Rubinoff, Eds., 1967, 247-333.
+MessEs, P. SIS--Semant~cs Implem?tation System, Reference Manual and User Guide. DAIMI Rep. MD-30, DAIMI, Univ. of Arhus, Denmark, 1979.
+NmLSON, F. A formal type system for comparing partial evaluators. In Partial Evaluatwn and Mixed Computatwn, D. Bj9/rner, A. P. Ershov, and N. D. Jones, Eds , North-Holland, Amsterdam, 1988, 349-384.
+NmLSON, F., AEND NmLSO~, H. R. The TML-approach te compiler-compilers. Tech. Rep. 1988-47, Dept. of Computer Science, Technical Univ. of Denmark, 1988.
+F. Nielson , R. H. Nielson, Automatic binding time analysis for a typed &lgr;-calculus, Proceedings of the 15th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.98-106, January 10-13, 1988, San Diego, California, USA[doi>10.1145/73560.73569]
+Lawrence Paulson, A semantics-directed compiler generator, Proceedings of the 9th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.224-233, January 25-27, 1982, Albuquerque, New Mexico[doi>10.1145/582153.582178]
+JONES, S. L.P. The Implementation of Functwnal Programming Languages. Prentice-Hall, Englewood Cliffs, N.J., 1987.
+Uwe F. Pleban, Compiler prototyping using formal semantics, ACM SIGPLAN Notices, v.19 n.6, p.94-105, June 1984[doi>10.1145/502949.502883]
+ROMANENKO, S.A. A compiler generator produced by a self-applicable specializer can bave a surprisingly natural and understandable structure. In Partial Evaluatwn and Mixed Computation, D. Bj~/rner, A. P. Ershov, and N. D. Jones, Eds., North-Holland, Amsterdam, 1988, 445-463.
+David A. Schmidt, Detecting global variables in denotational specifications, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.2, p.299-310, April 1985[doi>10.1145/3318.3323]
+R. Schooler, PARTIAL EVALUATION AS A MEANS OF LANGUAGE EXTENSIBILITY, Massachusetts Institute of Technology, Cambridge, MA, 1984
+Peter Sestoft, Replacing function parameters by global variables, Proceedings of the fourth international conference on Functional programming languages and computer architecture, p.39-53, September 11-13, 1989, Imperial College, London, United Kingdom[doi>10.1145/99370.99374]
+Valentin F. Turchin, The Use of Metasystem Transition in Theorem Proving and Program Optimization, Proceedings of the 7th Colloquium on Automata, Languages and Programming, p.645-657, July 14-18, 1980
+Mitchell Wand, A semantic prototyping system, Proceedings of the 1984 SIGPLAN symposium on Compiler construction, p.213-221, June 17-22, 1984, Montreal, Canada[doi>10.1145/502874.502895]
+Mitchell Wand, Semantics-directed machine architecture, Proceedings of the 9th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.234-241, January 25-27, 1982, Albuquerque, New Mexico[doi>10.1145/582153.582179]
+WEIS, P. Le Systeme SAM: Metacompilation tres efficace a l'aide d'operateur semantiques. Ph.D. dissertation, l'Univ. Paris VII, 1987 (in French).

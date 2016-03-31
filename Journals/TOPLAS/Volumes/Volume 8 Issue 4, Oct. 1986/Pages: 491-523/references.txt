@@ -1,0 +1,47 @@
+Alfred V. Aho , John E. Hopcroft, The  Design and Analysis of Computer Algorithms, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1974
+ALLEN, F. E., AND COCKE, J. A catalogue of optimizing transformations. In Design and Optimization of Compilers, R. Rustin, Ed., Prentice Hall, Englewood Cliffs, N.J., 1972, 1-30.
+ALLEN, J. R., AND KENNEDY, K. PFC: A program to convert Fortran to parallel form. In Supercomputers: Design and Applications, K. Hwang, Ed., IEEE Computer Society Press, New York, 1984, 186-205.
+ALLEN, J. R., AND KENNEDY, K. A parallel programming environment. IEEE Softw. 2, 4 (Jul. 1985), 22-29.
+AMERICAN NATIONAL STANDARDS INSTITUTE. American National Standard Programming Language Fortran, X3.9-1978, 1978.
+AMERICAN NATIONAL STANDARDS INSTITUTE. Proposals approved for Fortran 8x. X3J3/S6.80 (1981).
+J. Eugene Ball, Predicting the effects of optimization on a procedure body, Proceedings of the 1979 SIGPLAN symposium on Compiler construction, p.214-220, August 06-10, 1979, Denver, Colorado, United States[doi>10.1145/800229.806972]
+John P. Banning, An efficient way to find the side effects of procedure calls and the aliases of variables, Proceedings of the 6th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.29-41, January 29-31, 1979, San Antonio, Texas[doi>10.1145/567752.567756]
+Jeffrey M. Barth, A practical interprocedural data flow analysis algorithm, Communications of the ACM, v.21 n.9, p.724-736, Sept. 1978[doi>10.1145/359588.359596]
+BURKE, M. Private communication, Nov. 1983.
+BURKE, M. An interval analysis approach toward interprocedural data flow. Rep. RC 10640, IBM T. J. Watson Research Center, Yorktown Heights, N.Y., July 1984.
+David Callahan , Keith D. Cooper , Ken Kennedy , Linda Torczon, Interprocedural constant propagation, Proceedings of the 1986 SIGPLAN symposium on Compiler construction, p.152-161, June 25-27, 1986, Palo Alto, California, United States[doi>10.1145/12276.13327]
+CONRADI, R. Inter-procedural optimization of object code. Tech Rep. 25/83, Univ. of Trondheim, Div. of Computer Science, Trondheim-NTH, Norway, 1983.
+Keith Daniel Cooper, Interprocedural data flow analysis in a programming environment, 1983
+Keith D. Cooper, Analyzing aliases of reference formal parameters, Proceedings of the 12th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.281-290, January 14-16, 1985, New Orleans, Louisiana, United States[doi>10.1145/318593.318658]
+Keith D. Cooper , Ken Kennedy, Efficient computation of flow insensitive interprocedural summary information, Proceedings of the 1984 SIGPLAN symposium on Compiler construction, p.247-258, June 17-22, 1984, Montreal, Canada[doi>10.1145/502874.502898]
+Keith D. Cooper , Ken Kennedy , Linda Lorczon, Interprocedural optimization: eliminating unnecessary recompilation, Proceedings of the 1986 SIGPLAN symposium on Compiler construction, p.58-67, June 25-27, 1986, Palo Alto, California, United States[doi>10.1145/12276.13317]
+DEREMER, F., AND KRON, ~-{. H. Programming-in-the-large versus programming-in-the-small. IEEE Trans. Softw. Eng. SE-2, 2 (June 1976), 80-86.
+DONGARRA, J. LINPACK working note 3: FORTRAN BLAS timing. Tech. Rep. ANL-80-24, Argonne National Laboratory, Feb. 1980.
+DONGARRA, J. J., BUNCH, J. R., MOLER, C. B., AND STEWART, G.W. LINPACK Users' Guide. SIAM, Philadelphia, Pa., 1979.
+A. P. Yershov, ALPHA—An Automatic Programming System of High Efficiency, Journal of the ACM (JACM), v.13 n.1, p.17-24, Jan. 1966[doi>10.1145/321312.321314]
+Janet Fabri, Automatic storage optimization, Proceedings of the 1979 SIGPLAN symposium on Compiler construction, p.83-91, August 06-10, 1979, Denver, Colorado, United States[doi>10.1145/800229.806957]
+FELDMAN, S. Make--a computer program for maintaining computer programs. Softw. Pract. Exper. 9 (1979), 255-265.
+Susan L. Graham , Mark Wegman, A Fast and Usually Linear Algorithm for Global Flow Analysis, Journal of the ACM (JACM), v.23 n.1, p.172-202, Jan. 1976[doi>10.1145/321921.321939]
+HECHT, M. S., AND ULLMAN, J.D. A simple algorithm for global data-flow analysis problems. SIAMJ. Comput. 1, 2 (Dec. 1975), 519-532.
+HOOD, R. T., AND KENNEDY, K. A programming environment for Fortran. In Proceedings of the 18th Annual Hawaii International Conference on Systems Sciences (Jan. 1985), 625-637.
+HOOD, R. T., AND KENNEDY, K. Programming language support for supercomputers. In Frontiers of Supercomputing, Metropolis, Sharp, Worlton, and Ames, Eds., Univ. of California Press, Berkeley, 1986, 282-311.
+John B. Kam , Jeffrey D. Ullman, Global Data Flow Analysis and Iterative Algorithms, Journal of the ACM (JACM), v.23 n.1, p.158-171, Jan. 1976[doi>10.1145/321921.321938]
+KAM, J., AND ULLMAN, J. Monotone data-flow analysis frameworks. Acta Inf. 7 (1977), 305-317.
+KENNEDY, K. A survey of data-flow analysis techniques. In Program Flow Analysis: Theory and Applications, S. S. Muchnick and N. D. Jones, Eds., Prentice-Hall, Englewood Cliffs, N.J., 1981, 5-54.
+Butler W. Lampson , Eric E. Schmidt, Organizing software in a distributed environment, Proceedings of the 1983 ACM SIGPLAN symposium on Programming language issues in software systems, p.1-13, June 27-29, 1983, San Francisco, California, United States[doi>10.1145/800226.806846]
+LERLANG, D. B., AND McLEAN, G. D. Configuration management for large-scale software development efforts. In Workshop on Software Engineering Environments for Programming-inthe-Large (Harwichport, Ma., June 1985).
+MASINTER, L. Global program analysis in an interactive environment. Tech. Rep. SSL-80-1, Xerox Palo Alto Research Center, Paid Alto, Calif., Jan. 1980.
+MITCHELL, J., MAYRURY, W., AND SWEET, R. Mesa language manual. Tech. Rep. CSL-79-3, Xerox Palo Alto Research Center, Paid Alto, Calif., Apr. 1979.
+MYERS, E.W. A precise and efficient algorithm for determining existential summary data-flow information. Tech. Rep. CU-CS-175-80, Univ. of Colorado, Dept. of Computer Science, Boulder, Mar. 1980.
+Eugene M. Myers, A precise inter-procedural data flow algorithm, Proceedings of the 8th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.219-230, January 26-28, 1981, Williamsburg, Virginia[doi>10.1145/567532.567556]
+OSTERWEIL, L. J., AND FOSDICK, L.D. Dave--a validation, error detection and documentation system for FORTRAN programs. Tech. Rep. CU-CS-071-75, Univ. of Colorado, Dept. of Computer Science, Boulder, June 1975.
+REW, J. H., AND LEWIS, H.R. Symbolic evaluation and the global value graph. Tech. Rep. 37-82, Harvard Univ., Aiken Computation Lab., Cambridge, Mass., 1982.
+ROCHKINO, M. J. The source code control system. IEEE Trans. So{tw. Eng. SE-1, 4 (Dec. 1975), 364-370.
+Barry K. Rosen, Data Flow Analysis for Procedural Languages, Journal of the ACM (JACM), v.26 n.2, p.322-344, April 1979[doi>10.1145/322123.322135]
+Robert Endre Tarjan, A Unified Approach to Path Problems, Journal of the ACM (JACM), v.28 n.3, p.577-593, July 1981[doi>10.1145/322261.322272]
+Robert Endre Tarjan, Fast Algorithms for Solving Path Problems, Journal of the ACM (JACM), v.28 n.3, p.594-614, July 1981[doi>10.1145/322261.322273]
+W. F. Tichy, A data model for programming support environments and its application, Trends in information systems, North-Holland Publishing Co., Amsterdam, The Netherlands, 1986
+Walter F. Tichy , Mark C. Baker, Smart recompilation, Proceedings of the 12th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.236-244, January 14-16, 1985, New Orleans, Louisiana, United States[doi>10.1145/318593.318648]
+Linda Marie Torczon, Compilation dependences in an ambitious optimizing compiler (interprocedural, recompilation), 1985
+Mark N. Wegman , Frank Kenneth Zadeck, Constant propagation with conditional branches, Proceedings of the 12th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.291-299, January 14-16, 1985, New Orleans, Louisiana, United States[doi>10.1145/318593.318659]
+Frank Kenneth Zadeck, Incremental data flow analysis in a structured program editor, 1984

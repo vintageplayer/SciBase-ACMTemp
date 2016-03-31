@@ -1,0 +1,136 @@
+Anup Kumar Bandyopadhyay, Modeling of state transition rules and its application, ACM SIGSOFT Software Engineering Notes, v.35 n.2, March 2010
+Jeannette M. Wing, Beyond functional behavior: combining methods to specify different classes of properties of large systems, ACM SIGSOFT Software Engineering Notes, v.10 n.4, August 1985
+Guoping Jia , Guoliang Zheng, Fair transition system specification: an integrated approach, ACM SIGPLAN Notices, v.31 n.3, p.14-21, March 1996
+Moshe Hoffman , Ori Shalev , Nir Shavit, The baskets queue, Proceedings of the 11th international conference on Principles of distributed systems, p.401-414, December 17-20, 2007, Guadeloupe, French West Indies
+Junchang Wang , Haipeng Cheng , Bei Hua , Xinan Tang, Practice of parallelizing network applications on multi-core architectures, Proceedings of the 23rd international conference on Supercomputing, June 08-12, 2009, Yorktown Heights, NY, USA
+Anders Gidenstam , Håkan Sundell , Philippas Tsigas, Cache-aware lock-free queues for multiple producers/consumers and weak memory consistency, Proceedings of the 14th international conference on Principles of distributed systems, December 14-17, 2010, Tozeur, Tunisia
+Philippas Tsigas , Yi Zhang, A simple, fast and scalable non-blocking concurrent FIFO queue for shared memory multiprocessor systems, Proceedings of the thirteenth annual ACM symposium on Parallel algorithms and architectures, p.134-143, July 2001, Crete Island, Greece
+S. Prakash , Yann Hang Lee , T. Johnson, A Nonblocking Algorithm for Shared Queues Using Compare-and-Swap, IEEE Transactions on Computers, v.43 n.5, p.548-559, May 1994
+M. G. Staskauskas, Formal Derivation of Concurrent Programs: An Example from Industry, IEEE Transactions on Software Engineering, v.19 n.5, p.503-528, May 1993
+Thomas Wilke, Classifying discrete temporal properties, Proceedings of the 16th annual conference on Theoretical aspects of computer science, March 04-06, 1999, Trier, Germany
+Rob Strom , Shaula Yemini, The NIL distributed systems programming language: a status report, ACM SIGPLAN Notices, v.20 n.5, May 1985
+He Jifeng , A. McIsaac , G. Barrett, Design and verification of a coherent shared memory, Proceedings of the BCS-FACS 7th conference on Refinement, p.7-7, July 03-05, 1996, Bath, UK
+Ichiro Suzuki, Formal Analysis of the Alternating Bit Protocol by Temporal Petri Nets, IEEE Transactions on Software Engineering, v.16 n.11, p.1273-1281, November 1990
+Leslie Lamport, Reasoning about nonatomic operations, Proceedings of the 10th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.28-37, January 24-26, 1983, Austin, Texas
+Marsha Chechik , Dimitrie O. Paun, Events in Property Patterns, Proceedings of the 5th and 6th International SPIN Workshops on Theoretical and Practical Aspects of SPIN Model Checking, p.154-167, September 21-24, 1999
+Luca de Alfaro , Thomas A. Henzinger , Ranjit Jhala, Compositional Methods for Probabilistic Systems, Proceedings of the 12th International Conference on Concurrency Theory, p.351-365, August 20-25, 2001
+Maged M. Michael , Michael L. Scott, Simple, fast, and practical non-blocking and blocking concurrent queue algorithms, Proceedings of the fifteenth annual ACM symposium on Principles of distributed computing, p.267-275, May 23-26, 1996, Philadelphia, Pennsylvania, United States
+M. Agrawala , D. L. Jain, Comments on 'Temporal Logic-Based Deadlock Analysis for Ada' by G.M. Karam and R.J.A. Burh, IEEE Transactions on Software Engineering, v.19 n.2, p.198-199, February 1993
+Che-Fn Yu , V. D. Gligor, A Specification and Verification Method for Preventing Denial of Service, IEEE Transactions on Software Engineering, v.16 n.6, p.581-592, June 1990
+A. Birrell , J. Guttag , J. Horning , R. Levin, Synchronization primitives for a multiprocessor: a formal specification, ACM SIGOPS Operating Systems Review, v.21 n.5, p.94-102, Nov. 1987
+Yuanming Zhang , Gang Xiao , Takanobu Baba, Accelerating sequential programs on commodity multi-core processors, Journal of Parallel and Distributed Computing, v.74 n.4, p.2257-2265, April, 2014
+Denis Thérien , Thomas Wilke, Nesting Until and Since in Linear Temporal Logic, Proceedings of the 19th Annual Symposium on Theoretical Aspects of Computer Science, p.455-464, March 14-16, 2002
+Leslie Lamport, What it means for a concurrent program to satisfy a specification: why no one has specified priority, Proceedings of the 12th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.78-83, January 14-16, 1985, New Orleans, Louisiana, USA
+Manfred Broy, A Functional Rephrasing of the Assumption/Commitment Specification Style, Formal Methods in System Design, v.13 n.1, p.87-119, May 1, 1998
+Hans Vandierendonck , Kallia Chronaki , Dimitrios S. Nikolopoulos, Deterministic scale-free pipeline parallelism with hyperqueues, Proceedings of SC13:  International Conference for High Performance Computing, Networking, Storage and Analysis, November 17-21, 2013, Denver, Colorado
+Thomas Ridge, Verifying distributed systems: the operational approach, ACM SIGPLAN Notices, v.44 n.1, January 2009
+Martin Schoeberl, ejIP: a TCP/IP stack for embedded Java, Proceedings of the 9th International Conference on Principles and Practice of Programming in Java, August 24-26, 2011, Kongens Lyngby, Denmark
+Nancy Lynch , Hagit Attiya, Using mappings to prove timing properties, Proceedings of the ninth annual ACM symposium on Principles of distributed computing, p.265-280, August 22-24, 1990, Quebec City, Quebec, Canada
+Awadhesh Kumar Singh , Anup Kumar Bandyopadhyay, Verifying mutual exclusion and liveness properties with split preconditions, Journal of Computer Science and Technology, v.19 n.6, p.795-802, November 2004
+Prasad Jayanti , Srdjan Petrovic, Logarithmic-time single deleter, multiple inserter wait-free queues and stacks, Proceedings of the 25th international conference on Foundations of Software Technology and Theoretical Computer Science, December 15-18, 2005, Hyderabad, India
+Rajeev Alur , Thomas A. Henzinger, Reactive Modules, Proceedings of the 11th Annual IEEE Symposium on Logic in Computer Science, p.207, July 27-30, 1996
+Nancy A. Lynch , Mark R. Tuttle, Hierarchical correctness proofs for distributed algorithms, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.137-151, August 10-12, 1987, Vancouver, British Columbia, Canada
+L.E. Moser , P.M. Melliar-Smith , G. Kutty , Y.S. Ramakrishna, Completeness And Soundness Of Axiomatizations For Temporal Logics Without Next, Fundamenta Informaticae, v.21 n.4, p.257-305, December 1994
+Jeannette M. Wing, A Specifier's Introduction to Formal Methods, Computer, v.23 n.9, p.8-23, September 1990
+Mark Moir , Daniel Nussbaum , Ori Shalev , Nir Shavit, Using elimination to implement scalable and lock-free FIFO queues, Proceedings of the seventeenth annual ACM symposium on Parallelism in algorithms and architectures, July 18-20, 2005, Las Vegas, Nevada, USA
+Riccardo Pucella, Logical verification and equational verification, ACM SIGACT News, v.36 n.2, June 2005
+Leslie Lamport, A simple approach to specifying concurrent systems, Communications of the ACM, v.32 n.1, p.32-45, Jan. 1989
+Albert Benveniste , Paul Le Guernic , Pascal Aubry, Compositionality in Dataflow Synchronous Languages: Specification and Code Generation, Revised Lectures from the International Symposium on Compositionality: The Significant Difference, p.61-80, September 08-12, 1997
+Che-Fn Yu , Virgil D. Gligor, A formal specification and verification method for the prevention of denial of service, Proceedings of the 1988 IEEE conference on Security and privacy, April 18-21, 1988, Oakland, California
+James Peters , William Hankley, Proving specifications of tasking systems using Ada/TL, Proceedings of the conference on TRI-ADA '90, p.4-13, December 03-06, 1990, Baltimore, Maryland, United States
+Jennifer L. Welch , Leslie Lamport , Nancy Lynch, A lattice-structured proof of a minimum spanning, Proceedings of the seventh annual ACM Symposium on Principles of distributed computing, p.28-43, August 15-17, 1988, Toronto, Ontario, Canada
+Martín Abadi , Leslie Lamport, Composing specifications, ACM Transactions on Programming Languages and Systems (TOPLAS), v.15 n.1, p.73-132, Jan. 1993
+Joylyn Reed , Raymond T. Yeh, Specification and verification of liveness properties of cyclic, concurrent processes, ACM Transactions on Programming Languages and Systems (TOPLAS), v.10 n.1, p.156-177, Jan. 1988
+Leslie Lamport , Fred B. Schneider, Constraints: a uniform approach to aliasing and typing, Proceedings of the 12th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.205-216, January 14-16, 1985, New Orleans, Louisiana, USA
+John Giacomoni , Tipp Moseley , Manish Vachharajani, FastForward for efficient pipeline parallelism: a cache-optimized concurrent lock-free queue, Proceedings of the 13th ACM SIGPLAN Symposium on Principles and practice of parallel programming, February 20-23, 2008, Salt Lake City, UT, USA
+Howard Barringer , Ruurd Kuiper , Amir Pnueli, A really abstract concurrent model and its temporal logic, Proceedings of the 13th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.173-183, January 01, 1986, St. Petersburg Beach, Florida
+Daniel L. Rosenband , Arvind, Modular scheduling of guarded atomic actions, Proceedings of the 41st annual Design Automation Conference, June 07-11, 2004, San Diego, CA, USA
+Håkan Sundell , Anders Gidenstam , Marina Papatriantafilou , Philippas Tsigas, A lock-free algorithm for concurrent bags, Proceedings of the 23rd ACM symposium on Parallelism in algorithms and architectures, June 04-06, 2011, San Jose, California, USA
+A. Udaya Shankar, Verified data transfer protocols with variable flow control, ACM Transactions on Computer Systems (TOCS), v.7 n.3, p.281-316, Aug. 1989
+Gregor Gössler , Alberto L. Sangiovanni-Vincentelli, Compositional Modeling in Metropolis, Proceedings of the Second International Conference on Embedded Software, p.93-107, October 07-09, 2002
+Leslie Lamport , Fred B. Schneider, The ``Hoare Logic'' of CSP, and All That, ACM Transactions on Programming Languages and Systems (TOPLAS), v.6 n.2, p.281-296, April 1984
+Ling Liu , Robert Meersman, Activity Model: A Declarative Approach for Capturing Communication Behavior in Object-Oriented Databases, Proceedings of the 18th International Conference on Very Large Data Bases, p.481-493, August 23-27, 1992
+Martin Abadi , Gordon Plotkin, A logical view of composition and refinement, Proceedings of the 18th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.323-332, January 21-23, 1991, Orlando, Florida, United States
+Rob Gerth, Transition logic: How to reason about temporal properties in a compositional way, Proceedings of the sixteenth annual ACM symposium on Theory of computing, p.39-50, December 1984
+Leslie Lamport, The mutual exclusion problem: partII—statement and solutions, Journal of the ACM (JACM), v.33 n.2, p.327-348, April 1986
+Shlomi Dolev , Frank Stomp, Safety assurance via on-line monitoring, Distributed Computing, v.16 n.4, p.269-277, December 2003
+Simon S. Lam , A. Udaya Shankar, A Relational Notation for State Transition Systems, IEEE Transactions on Software Engineering, v.16 n.7, p.755-775, July 1990
+Bowen Alpern , Fred B. Schneider, Verifying temporal properties without temporal logic, ACM Transactions on Programming Languages and Systems (TOPLAS), v.11 n.1, p.147-167, Jan. 1989
+M. P. Herlihy , J. E. B. Moss, Lock-Free Garbage Collection for Multiprocessors, IEEE Transactions on Parallel and Distributed Systems, v.3 n.3, p.304-311, May 1992
+Maurice P. Herlihy, Impossibility and universality results for wait-free synchronization, Proceedings of the seventh annual ACM Symposium on Principles of distributed computing, p.276-290, August 15-17, 1988, Toronto, Ontario, Canada
+Bengt Jonsson, Modular verification of asynchronous networks, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.152-166, August 10-12, 1987, Vancouver, British Columbia, Canada
+Cormac Flanagan , Shaz Qadeer , Sanjit A. Seshia, A Modular Checker for Multithreaded Programs, Proceedings of the 14th International Conference on Computer Aided Verification, p.180-194, July 27-31, 2002
+R. K. Shyamsundar , J. W. Thatcher, Language Constructs for Specifying Concurrency in CDL, IEEE Transactions on Software Engineering, v.15 n.8, p.977-993, August 1989
+Peter W. O'Hearn , Noam Rinetzky , Martin T. Vechev , Eran Yahav , Greta Yorsh, Verifying linearizability with hindsight, Proceedings of the 29th ACM SIGACT-SIGOPS symposium on Principles of distributed computing, July 25-28, 2010, Zurich, Switzerland
+Nils Klarlund , Mogens Nielsen , Kim Sunesen, Automated logical verification based on trace abstractions, Proceedings of the fifteenth annual ACM symposium on Principles of distributed computing, p.101-110, May 23-26, 1996, Philadelphia, Pennsylvania, USA
+Maurice P. Herlihy , J. E. B. Moss, Lock-free garbage collection for multiprocessors, Proceedings of the third annual ACM symposium on Parallel algorithms and architectures, p.229-236, July 21-24, 1991, Hilton Head, South Carolina, USA
+Job Zwiers, Compositional Transformational Design for Concurrent Programs, Revised Lectures from the International Symposium on Compositionality: The Significant Difference, p.609-631, September 08-12, 1997
+Albert Benveniste , Benoît Caillaud , Paul Le Guernic, From Synchrony to Asynchrony, Proceedings of the 10th International Conference on Concurrency Theory, p.162-177, August 24-27, 1999
+Oscar Nierstrasz , Michael Papathomas, Viewing object as patterns of communicating agents, ACM SIGPLAN Notices, v.25 n.10, p.38-43, Oct. 1990
+Alex Kogan , Erez Petrank, Wait-free queues with multiple enqueuers and dequeuers, ACM SIGPLAN Notices, v.46 n.8, August 2011
+Nancy A. Lynch , Hagit Attiya, Using mappings to prove timing properties, Distributed Computing, v.6 n.2, p.121-139, September 1992
+Ling Liu , Robert Meersman, The building blocks for specifying communication behavior of complex objects: an activity-driven approach, ACM Transactions on Database Systems (TODS), v.21 n.2, p.157-207, June 1996
+Martin D. Fraser , Kuldeep Kumar , Vijay K. Vaishnavi, Strategies for incorporating formal specifications in software development, Communications of the ACM, v.37 n.10, p.74-86, Oct. 1994
+Changhui Lin , Vijay Nagarajan , Rajiv Gupta, Address-aware fences, Proceedings of the 27th international ACM conference on International conference on supercomputing, June 10-14, 2013, Eugene, Oregon, USA
+Bengt Jonsson , Amir Pnueli , Camilla Rump, Proving refinement using transduction, Distributed Computing, v.12 n.2-3, p.129-149, June 1999
+Gregor Gössler , Joseph Sifakis, Composition for component-based modeling, Science of Computer Programming, v.55 n.1-3, p.161-183, March 2005
+M. P. Herlihy , J. M. Wing, Axioms for concurrent objects, Proceedings of the 14th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.13-26, January 21-23, 1987, Munich, West Germany
+Nalini Venkatasubramanian , Carolyn Talcott, Reasoning about meta level activities in open distributed systems, Proceedings of the fourteenth annual ACM symposium on Principles of distributed computing, p.144-152, August 20-23, 1995, Ottowa, Ontario, Canada
+B. Jonsson, A fully abstract trace model for dataflow networks, Proceedings of the 16th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.155-165, January 11-13, 1989, Austin, Texas, USA
+Manfred Broy, Compositional refinement of interactive systems, Journal of the ACM (JACM), v.44 n.6, p.850-891, Nov. 1997
+C. Huizing , R. Gerth , W. P. deRoever, Full abstraction of a real-time denotational semantics for an OCCAM-like language, Proceedings of the 14th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.223-236, January 21-23, 1987, Munich, West Germany
+Maurice Herlihy, Wait-free synchronization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.1, p.124-149, Jan. 1991
+Daniel Cederman , Bapi Chatterjee , Philippas Tsigas, Understanding the performance of concurrent data structures on graphics processors, Proceedings of the 18th international conference on Parallel Processing, August 27-31, 2012, Rhodes Island, Greece
+Greg Barnes, A method for implementing lock-free shared-data structures, Proceedings of the fifth annual ACM symposium on Parallel algorithms and architectures, p.261-270, June 30-July 02, 1993, Velen, Germany
+Yih-Kuen Tsay, Compositional Verification in Linear-Time Temporal Logic, Proceedings of the Third International Conference on Foundations of Software Science and Computation Structures: Held as Part of the Joint European Conferences on Theory and Practice of Software,ETAPS 2000, p.344-358, March 25-April 02, 2000
+Martín Abadi , Zohar Manna, Nonclausal deduction in first-order temporal logic, Journal of the ACM (JACM), v.37 n.2, p.279-317, April 1990
+Kangkook Jee , Vasileios P. Kemerlis , Angelos D. Keromytis , Georgios Portokalidis, ShadowReplica: efficient parallelization of dynamic data flow tracking, Proceedings of the 2013 ACM SIGSAC conference on Computer & communications security, November 04-08, 2013, Berlin, Germany
+Tim French, Idempotent Transductions for Modal Logics, Proceedings of the 6th international symposium on Frontiers of Combining Systems, September 10-12, 2007, Liverpool, UK
+Yehuda Afek , Dalia Dauber , Dan Touitou, Wait-free made fast, Proceedings of the twenty-seventh annual ACM symposium on Theory of computing, p.538-547, May 29-June 01, 1995, Las Vegas, Nevada, USA
+Gaoyan Xie , Zhe Dang, Testing systems of concurrent black-boxes—an automata-theoretic and decompositional approach, Proceedings of the 5th international conference on Formal Approaches to Software Testing, July 11, 2005, Edinburgh, UK
+Christoph von Praun, Parallel programming: design of an overview class, Proceedings of the 2011 ACM SIGPLAN X10 Workshop, p.1-6, June 04-04, 2011, San Jose, California
+Rajeev Alur , Thomas A. Henzinger, Reactive Modules, Formal Methods in System Design, v.15 n.1, p.7-48, July 1999
+Jungwoo Ha , Matthew Arnold , Stephen M. Blackburn , Kathryn S. McKinley, A concurrent dynamic analysis framework for multicore hardware, ACM SIGPLAN Notices, v.44 n.10, October 2009
+Gaoyan Xie , Zhe Dang, An automata-theoretic approach for model-checking systems with unspecified components, Proceedings of the 4th international conference on Formal Approaches to Software Testing, September 21, 2004, Linz, Austria
+A. Udaya Shankar , Simon S. Lam, A stepwise refinement heuristic for protocol construction, ACM Transactions on Programming Languages and Systems (TOPLAS), v.14 n.3, p.417-461, July 1992
+John Giacomoni , John K. Bennett , Antonio Carzaniga , Douglas C. Sicker , Manish Vachharajani , Alexander L. Wolf, Frame shared memory: line-rate networking on commodity hardware, Proceedings of the 3rd ACM/IEEE Symposium on Architecture for networking and communications systems, December 03-04, 2007, Orlando, Florida, USA
+Leslie Lamport, The temporal logic of actions, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.3, p.872-923, May 1994
+Michael Emmi , Rupak Majumdar , Roman Manevich, Parameterized verification of transactional memories, ACM SIGPLAN Notices, v.45 n.6, June 2010
+Hagit Brit , Shlomo Moran, Wait-freedom vs. bounded wait-freedom in public data structures (extended abstract), Proceedings of the thirteenth annual ACM symposium on Principles of distributed computing, p.52-60, August 14-17, 1994, Los Angeles, California, United States
+Albert Benveniste , Benoît Caillaud , Luca P. Carloni , Paul Caspi , Alberto L. Sangiovanni-Vincentelli, Composing heterogeneous reactive systems, ACM Transactions on Embedded Computing Systems (TECS), v.7 n.4, p.1-36, July 2008
+Arcot Sowmya , S. Ramesh, Extending Statecharts with Temporal Logic, IEEE Transactions on Software Engineering, v.24 n.3, p.216-231, March 1998
+Christel Baier , Marta Kwiatkowska, On Topological Hierarchies of Temporal Properties, Fundamenta Informaticae, v.41 n.3, p.259-294, August 2000
+Bengt Jonsson, Compositional specification and verification of distributed systems, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.2, p.259-303, March 1994
+M. Herlihy, A methodology for implementing highly concurrent data structures, ACM SIGPLAN Notices, v.25 n.3, p.197-206, Mar. 1990
+Jeannette M. Wing , Mark R. Nixon, Extending Ina Jo with Temporal Logic, IEEE Transactions on Software Engineering, v.15 n.2, p.181-197, February 1989
+Orna Kupferman , Moshe Y. Vardi, Modular Model Checking, Revised Lectures from the International Symposium on Compositionality: The Significant Difference, p.381-401, September 08-12, 1997
+Gaoyan Xie, Decompositional Verification of Component-based Systems-A Hybrid Approach, Proceedings of the 19th IEEE international conference on Automated software engineering, p.414-417, September 20-24, 2004
+Christel Baier , Mila Majster-Cederbaum, How To Interpret And Establish Consistency Results For Semantics Of Concurrent Programming Languages, Fundamenta Informaticae, v.29 n.3, p.225-256, August 1997
+Pablo F. Castro , Thomas S. E. Maibaum, Encapsulating deontic and branching time specifications, Theoretical Computer Science, 455, p.98-122, October, 2012
+Guojing Cong , David Bader, Lock-Free parallel algorithms: an experimental study, Proceedings of the 11th international conference on High Performance Computing, December 19-22, 2004, Bangalore, India
+V. Carchiolo , A. Di Stefano , A. Faro , G. Pappalardo, ECCS and LIPS: two languages for OSI systems specification and verification, ACM Transactions on Programming Languages and Systems (TOPLAS), v.11 n.2, p.284-329, April 1989
+Changhui Lin , Vijay Nagarajan , Rajiv Gupta, Fence scoping, Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, November 16-21, 2014, New Orleans, Louisana
+Jacob Brunekreef , Joost-Pieter Katoen , Ron Koymans , Sjouke Mauw, Design and analysis of dynamic leader election protocols in broadcast networks, Distributed Computing, v.9 n.4, p.157-171, February 1996
+Suad Alagic , Svetlana Kouznetsova, Behavioral Compatibility of Self-Typed Theories, Proceedings of the 16th European Conference on Object-Oriented Programming, p.585-608, June 10-14, 2002
+Cristina Videira Lopes , Paul Dourish , David H. Lorenz , Karl Lieberherr, Beyond AOP: toward naturalistic programming, ACM SIGPLAN Notices, v.38 n.12, December 2003
+Orna Kupferman , Moshe Y. Vardi, An automata-theoretic approach to modular model checking, ACM Transactions on Programming Languages and Systems (TOPLAS), v.22 n.1, p.87-128, Jan. 2000
+Cristina Videira Lopes , Paul Dourish , David H. Lorenz , Karl Lieberherr, Beyond AOP: toward naturalistic programming, Companion of the 18th annual ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, October 26-30, 2003, Anaheim, CA, USA
+Clare Dixon, Temporal resolution using a breadth-first search, Annals of Mathematics and Artificial Intelligence, v.22 n.1-2, p.87-115, 1998
+Leo Yuhsiang Liu , R.K Shyamasundar, RT-CDL: A distributed real-time design language and its operational semantics, Computer Languages, v.20 n.1, p.1-23, March, 1994
+Cormac Flanagan , Stephen N. Freund , Shaz Qadeer , Sanjit A. Seshia, Modular verification of multithreaded programs, Theoretical Computer Science, v.338 n.1-3, p.153-183, 10 June 2005
+Christel Baier , Marcus Groesser , Frank Ciesinski, Quantitative Analysis under Fairness Constraints, Proceedings of the 7th International Symposium on Automated Technology for Verification and Analysis, October 14-16, 2009, Macao, China
+Manfred Broy, Functional specification of time-sensitive communicating systems, ACM Transactions on Software Engineering and Methodology (TOSEM), v.2 n.1, p.1-46, Jan. 1993
+Maurice Herlihy, A methodology for implementing highly concurrent data objects, ACM Transactions on Programming Languages and Systems (TOPLAS), v.15 n.5, p.745-770, Nov. 1993
+Hagit Attiya , Rachid Guerraoui , Danny Hendler , Petr Kuznetsov , Maged M. Michael , Martin Vechev, Laws of order: expensive synchronization in concurrent algorithms cannot be eliminated, ACM SIGPLAN Notices, v.46 n.1, January 2011
+Michael Fisher , Clare Dixon , Martin Peim, Clausal temporal resolution, ACM Transactions on Computational Logic (TOCL), v.2 n.1, p.12-56, Jan. 2001
+Hagit Brit , Shlomo Moran , Gadi Taubenfeld, Public data structures: counters as a special case, Theoretical Computer Science, v.289 n.1, p.401-423, 23 October 2002
+Maurice P. Herlihy , Jeannette M. Wing, Linearizability: a correctness condition for concurrent objects, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.3, p.463-492, July 1990
+Theodore Johnson, Characterizing the Performance of Algorithms for Lock-Free Objects, IEEE Transactions on Computers, v.44 n.10, p.1194-1207, October 1995
+Bernhard Möller, Idel Stream Algebra, Proceedings of the ESPRIT Working Group 8533 on Prospects for Hardware Foundations: NADA - New Hardware Design Methods, Survey Chapters, p.69-116, January 1998
+A. Udaya Shankar, An introduction to assertional reasoning for concurrent systems, ACM Computing Surveys (CSUR), v.25 n.3, p.225-262, Sept. 1993
+Shmuel Katz, Rigorous fault tolerance using aspects and formal methods, Rigorous Development of Complex Fault-Tolerant Systems, Springer-Verlag, Berlin, Heidelberg, 2006
+Massimo Franceschet , Angelo Montanari , Maarten De Rijke, Model Checking for Combined Logics with an Application to Mobile Systems, Automated Software Engineering, v.11 n.3, p.289-321, June 2004
+Moshe Y. Vardi, Branching vs. Linear Time: Final Showdown, Proceedings of the 7th International Conference on Tools and Algorithms for the Construction and Analysis of Systems, p.1-22, April 02-06, 2001
+R. Kurki-Suonio, Action systems in incremental and aspect-oriented modeling, Distributed Computing, v.16 n.2-3, p.201-217, September 2003
+Ranjit Jhala , Rupak Majumdar, Software model checking, ACM Computing Surveys (CSUR), v.41 n.4, p.1-54, October 2009
+Nancy A. Lynch, Distributed Algorithms, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1996

@@ -1,0 +1,31 @@
+Alfred V. Aho , Ravi Sethi , Jeffrey D. Ullman, Compilers: principles, techniques, and tools, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+ALLEN, J. R., AND KENNEDY, K. PFC: A program to convert Fortran to parallel form. Tech. Rep. MASC TR82-6, Dept. of Math. Sciences, Rice Univ., Houston, Tex., March 1982.
+John Randal Allen, Dependence analysis for subscripted variables and its application to program transformations, 1983
+John R. Allen , Ken Kennedy, Automatic loop interchange, Proceedings of the 1984 SIGPLAN symposium on Compiler construction, p.233-246, June 17-22, 1984, Montreal, Canada[doi>10.1145/502874.502897]
+BALL, T., HORWITZ, S., AND REPS, T. Correctness of an algorithm for reconstituting a program from a dependence graph. Computer Sciences Dept., Univ. of Wisconsin, Madison. Tech. Rep. in preparation, Spring 1989.
+Utpal Banerjee, Speedup of ordinary programs, 1979
+V Berzins, On merging software extensions, Acta Informatica, v.23 n.6, p.607-619, Nov. 1986[doi>10.1007/BF00264309]
+Edsger Wybe Dijkstra, A  Discipline of Programming, Prentice Hall PTR, Upper Saddle River, NJ, 1997
+DONZEAU-GouGE, V., HUET, G., KAHN, G., AND LANG, B. Programming environments based on structured editors: The MENTOR experience. In Interactive Programming Environments, D. Barstow, E. Sandewall, and H. Shrobe, Eds., McGraw-Hill, New York, 1984, 128-140.
+Jeanne Ferrante , Mary Mace, On linearizing parallel code, Proceedings of the 12th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.179-190, January 14-16, 1985, New Orleans, Louisiana, United States[doi>10.1145/318593.318636]
+Jeanne Ferrante , Karl J. Ottenstein , Joe D. Warren, The program dependence graph and its use in optimization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.9 n.3, p.319-349, July 1987[doi>10.1145/24039.24041]
+A N Habermann , D Notkin, Gandalf: software development environments, IEEE Transactions on Software Engineering, v.12 n.12, p.1117-1127, Dec.1986
+C. A. R. Hoare, An axiomatic basis for computer programming, Communications of the ACM, v.12 n.10, p.576-580, Oct. 1969[doi>10.1145/363235.363259]
+HORWITZ, S., PRINS, J., AND REPS, T. Integrating non-interfering versions of programs. TR- 690, Computer Sciences Dept., Univ. of Wisconsin, Madison, March 1987.
+S. Horwitz , P. Pfeiffer , T. Reps, Dependence analysis for pointer variables, Proceedings of the ACM SIGPLAN 1989 Conference on Programming language design and implementation, p.28-40, June 19-23, 1989, Portland, Oregon, United States[doi>10.1145/73141.74821]
+S. Horwitz , J. Prins , T. Reps, Integrating non-intering versions of programs, Proceedings of the 15th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.133-145, January 10-13, 1988, San Diego, California, United States[doi>10.1145/73560.73572]
+S. Horwitz , J. Prins , T. Reps, On the adequacy of program dependence graphs for representing programs, Proceedings of the 15th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.146-157, January 10-13, 1988, San Diego, California, United States[doi>10.1145/73560.73573]
+HORWITZ, S., PRINS, J., AND REPS, T. On the suitability of dependence graphs for representing programs. Computer Sciences Dept., Univ. of Wisconsin, Madison, Aug. 1988. Submitted for publication.
+S. Horwitz , T. Reps , D. Binkley, Interprocedural slicing using dependence graphs, Proceedings of the ACM SIGPLAN 1988 conference on Programming Language design and Implementation, p.35-46, June 20-24, 1988, Atlanta, Georgia, United States[doi>10.1145/53990.53994]
+JONES, N. D., AND MUCHNICK, S.S. Flow analysis and optimization of Lisp-like structures. In{ Program Flow Analysis: Theory and Applications, S. S. Muchnick and N. D. Jones, Eds., Prentice- Hall, Englewood Cliffs, N.J., 1981.
+KUCK, D. J., MURAOKA, Y., AND CHEN, S.C. On the number of operations simultaneously executable in FORTRAN-like programs and their resulting speed-up. IEEE Trans. Comput. C- 21, 12 (Dec. 1972), 1293-1310.
+D. J. Kuck , R. H. Kuhn , D. A. Padua , B. Leasure , M. Wolfe, Dependence graphs and compiler optimizations, Proceedings of the 8th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.207-218, January 26-28, 1981, Williamsburg, Virginia[doi>10.1145/567532.567555]
+NOTKIN, D., ELLISON, R. J, STAUDT, B. J., KAISER, G. E., KANT, E., HABERMANN, A. N, AMBRIOLA, V., AND MONTANGERO, C. Special issue on the GANDALF project. J. Syst. Softw. 5, 2 (May 1985).
+Karl J. Ottenstein , Linda M. Ottenstein, The program dependence graph in a software development environment, Proceedings of the first ACM SIGSOFT/SIGPLAN software engineering symposium on Practical software development environments, p.177-184, April 1984[doi>10.1145/800020.808263]
+Thomas Reps , Tim Teitelbaum, The synthesizer generator, Proceedings of the first ACM SIGSOFT/SIGPLAN software engineering symposium on Practical software development environments, p.42-48, April 1984[doi>10.1145/800020.808247]
+Thomas W. Reps , Tim Teitelbaum, The synthesizer generator: a system for constructing language-based editors, Springer-Verlag New York, Inc., New York, NY, 1989
+REPS, T., AND YANG, W. The semantics of program slicing. TR-777, Computer Sciences Dept., Univ. of Wisconsin, Madison, June 1988.
+Thomas W. Reps , Wuu Yang, The Semantics of Program Slicing and Program Integration, Proceedings of the International Joint Conference on Theory and Practice of Software Development, Volume 2: Advanced Seminar on Foundations of Innovative Software Development II and Colloquium on Current Issues in Programming Languages, p.360-374, March 13-17, 1989
+Walter F. Tichy, RCS—a system for version control, Software—Practice & Experience, v.15 n.7, p.637-654, July 1985[doi>10.1002/spe.4380150703]
+WEISER, M. Program slicing. IEEE Trans. Softw. Eng. SE-IO, 4 (July 1984), 352-357.
+Michael Joseph Wolfe, Optimizing supercompilers for supercomputers, 1982

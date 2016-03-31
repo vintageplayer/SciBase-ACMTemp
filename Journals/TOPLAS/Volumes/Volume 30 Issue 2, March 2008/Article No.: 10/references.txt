@@ -1,0 +1,44 @@
+Hiralal Agrawal, Towards automatic debugging of computer programs, Purdue University, West Lafayette, IN, 1992
+Hiralal Agrawal , Joseph R. Horgan, Dynamic program slicing, Proceedings of the ACM SIGPLAN 1990 conference on Programming language design and implementation, p.246-256, June 1990, White Plains, New York, USA[doi>10.1145/93542.93576]
+Hiralal Agrawal , Joseph R. Horgan , Edward W. Krauser , Saul London, Incremental Regression Testing, Proceedings of the Conference on Software Maintenance, p.348-357, September 01, 1993
+Tankut Akgul , Vincent J. Mooney III , Santosh Pande, A Fast Assembly Level Reverse Execution Method via Dynamic Slicing, Proceedings of the 26th International Conference on Software Engineering, p.522-531, May 23-28, 2004
+Andersen, L. O. 1994. Program analysis and specialization for the C progranzming language. Ph.D. dissertation, University of Copenhagen.
+Berk, E. J. and Ananian, C. S. 2003. A lexical analyzer generator for Java. website: http://www.cs.princeton.edu/~appel/modern/java/JLex/.
+Dhananjay M. Dhamdhere , K. Gururaja , Prajakta G. Ganu, A compact execution history for dynamic slicing, Information Processing Letters, v.85 n.3, p.145-152, 14 February 2003[doi>10.1016/S0020-0190(02)00322-8]
+Jeanne Ferrante , Karl J. Ottenstein , Joe D. Warren, The program dependence graph and its use in optimization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.9 n.3, p.319-349, July 1987[doi>10.1145/24039.24041]
+Ankit Goel , Abhik Roychoudhury , Tulika Mitra, Compactly representing parallel program executions, Proceedings of the ninth ACM SIGPLAN symposium on Principles and practice of parallel programming, June 11-13, 2003, San Diego, California, USA[doi>10.1145/781498.781530]
+Tibor Gyimóthy , Árpád Beszédes , Istán Forgács, An efficient relevant slicing method for debugging, Proceedings of the 7th European software engineering conference held jointly with the 7th ACM SIGSOFT international symposium on Foundations of software engineering, p.303-321, September 06-10, 1999, Toulouse, France
+Susan Horwitz , Thomas Reps , David Binkley, Interprocedural slicing using dependence graphs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.1, p.26-60, Jan. 1990[doi>10.1145/77606.77608]
+JGF. The Java Grande Forum Benchmark Suite. website: http://www.epcc.ed.ac.uk/javagrande/seq/contents.html.
+Joy, B., Steele, G., Gosling, J., and Bracha, G. 2000. Java(TM) Language Specification (2nd Edition). Prentice Hall, Englewood Cliffs, NJ.
+Kaffe. The Kaffe virtual machine. website: http://www.kaffe.org.
+B. Korel , J. Laski, Dynamic program slicing, Information Processing Letters, v.29 n.3, p.155-163, October 26, 1988[doi>10.1016/0020-0190(88)90054-3]
+Korel, B. and Rilling, J. 1997. Application of dynamic slicing in program debugging. In Proceedings of the International Workshop on Automatic Debugging (Linkoping, Sweden). Springer-Verlag, New York.
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+Loren Larsen , Mary Jean Harrold, Slicing object-oriented software, Proceedings of the 18th international conference on Software engineering, p.495-505, March 25-29, 1996, Berlin, Germany
+J. R. Larus, Abstract execution: a technique for efficiently tracing programs, Software—Practice & Experience, v.20 n.12, p.1241-1258, Dec. 1990[doi>10.1002/spe.4380201205]
+James R. Larus, Whole program paths, Proceedings of the ACM SIGPLAN 1999 conference on Programming language design and implementation, p.259-269, May 01-04, 1999, Atlanta, Georgia, USA[doi>10.1145/301618.301678]
+Levrouw, L. J., Audenaert, K. M. R., and Campenhout, J. M. 1994. A new trace and replay system for shared memory programs based on lamport clocks. In Proceedings of the 2nd Euromicro Workshop on Parallel and Distributed Processing. IEEE Computer Society, ELIS, Universiteit Gent, Belgium, 471--478.
+Lhoták, O. 2002. Spark: A flexible points-to analysis framework for Java. M.S. dissertation, McGill University.
+Tim Lindholm , Frank Yellin, Java Virtual Machine Specification, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1999
+Lucia, A. D. 2001. Program slicing: Methods and applications. In Proceedings of the IEEE International Workshop on Source Code Analysis and Manipulation (Florence, Italy). IEEE Computer Society Press, Los Alamitos, CA, 142--149.
+Ranjit Jhala , Rupak Majumdar, Path slicing, Proceedings of the 2005 ACM SIGPLAN conference on Programming language design and implementation, June 12-15, 2005, Chicago, IL, USA[doi>10.1145/1065010.1065016]
+Craig G. Nevill-Manning , Ian H. Witten, Linear-Time, Incremental Hierarchy Inference for Compression, Proceedings of the  Conference on Data Compression, p.3, March 25-27, 1997
+Fumiaki Ohata , Kouya Hirose , Masato Fujii , Katsuro Inoue, A Slicing Method for Object-Oriented Programs Using Lightweight Dynamic Information, Proceedings of the Eighth Asia-Pacific on Software Engineering Conference, p.273, December 04-07, 2001
+Andrew R. Pleszkun, Techniques for compressing program address traces, Proceedings of the 27th annual international symposium on Microarchitecture, p.32-39, November 30-December 02, 1994, San Jose, California, USA[doi>10.1145/192724.192728]
+Steven P. Reiss , Manos Renieris, Encoding program executions, Proceedings of the 23rd International Conference on Software Engineering, p.221-230, May 12-19, 2001, Toronto, Ontario, Canada
+Michiel Ronsse , Koen De Bosschere, RecPlay: a fully integrated practical record/replay system, ACM Transactions on Computer Systems (TOCS), v.17 n.2, p.133-152, May 1999[doi>10.1145/312203.312214]
+Sazeides, Y. 2003. Instruction isomorphism in program execution. J. Instruction-Level Paral. 5.
+Saurabh Sinha , Mary Jean Harrold, Analysis and Testing of Programs with Exception Handling Constructs, IEEE Transactions on Software Engineering, v.26 n.9, p.849-871, September 2000[doi>10.1109/32.877846]
+SPECjvm98. 1998. Spec JVM98 benchmarks. website: http://www.specbench.org/osg/jvm98/.
+Bjarne Steensgaard, Points-to analysis in almost linear time, Proceedings of the 23rd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.32-41, January 21-24, 1996, St. Petersburg Beach, Florida, USA[doi>10.1145/237721.237727]
+Tip, F. 1995. A survey of program slicing techniques. J. Prog. Lang. 3, 3, 121--189.
+Raja Vallée-Rai , Phong Co , Etienne Gagnon , Laurie Hendren , Patrick Lam , Vijay Sundaresan, Soot - a Java bytecode optimization framework, Proceedings of the 1999 conference of the Centre for Advanced Studies on Collaborative research, p.13, November 08-11, 1999, Mississauga, Ontario, Canada
+Wang, T. and Roychoudhury, A. 2007. Dynamic slicing on Java bytecode traces. Tech. Rep. TRB3/07, National University of Singapore. March. http://www.comp.nus.edu.sg/~abhik/pdf/JSlice-TR.pdf.
+Weiser, M. 1984. Program slicing. IEEE Trans. Softw. Engineering 10, 4, 352--357.
+Baowen Xu , Zhenqiang Chen , Hongji Yang, Dynamic Slicing Object-Oriented Programs for Debugging, Proceedings of the Second IEEE International Workshop on Source Code Analysis and Manipulation, p.115, October 01-01, 2002
+Youtao Zhang , Rajiv Gupta, Timestamped whole program path representation and its applications, Proceedings of the ACM SIGPLAN 2001 conference on Programming language design and implementation, p.180-190, June 2001, Snowbird, Utah, USA[doi>10.1145/378795.378835]
+Xiangyu Zhang , Rajiv Gupta, Whole Execution Traces, Proceedings of the 37th annual IEEE/ACM International Symposium on Microarchitecture, p.105-116, December 04-08, 2004, Portland, Oregon[doi>10.1109/MICRO.2004.37]
+Xiangyu Zhang , Rajiv Gupta , Youtao Zhang, Cost and precision tradeoffs of dynamic data slicing algorithms, ACM Transactions on Programming Languages and Systems (TOPLAS), v.27 n.4, p.631-661, July 2005[doi>10.1145/1075382.1075384]
+Jianjun Zhao, Dependence Analysis of Java Bytecode, 24th International Computer Software and Applications Conference, p.486-491, October 25-28, 2000
+Craig B. Zilles , Gurindar S. Sohi, Understanding the backward slices of performance degrading instructions, Proceedings of the 27th annual international symposium on Computer architecture, p.172-181, June 2000, Vancouver, British Columbia, Canada[doi>10.1145/339647.339676]

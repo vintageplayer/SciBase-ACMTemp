@@ -1,0 +1,53 @@
+Nikhil Swamy , Michael Hicks , Greg Morrisett , Dan Grossman , Trevor Jim, Safe manual memory management in cyclone, Science of Computer Programming, v.62 n.2, p.122-144, 1 October 2006
+Nadeem Abdul Hamid, Certified memory management for proof-carrying code: a region-based type system and runtime library, Proceedings of the 43rd annual Southeast regional conference, March 18-20, 2005, Kennesaw, Georgia
+John Boyland, Checking interference with fractional permissions, Proceedings of the 10th international conference on Static analysis, June 11-13, 2003, San Diego, CA, USA
+John Boyland, Fractional permissions, Aliasing in Object-Oriented Programming: types, analysis, and verification, Springer-Verlag, Berlin, Heidelberg, 2013
+Polyvios Pratikakis , Jeffrey S. Foster , Michael Hicks , Iulian Neamtiu, Formalizing Soundness of Contextual Effects, Proceedings of the 21st International Conference on Theorem Proving in Higher Order Logics, August 18-21, 2008, Montreal, P.Q., Canada
+Nadeem Abdul Hamid, Integrating a certified memory management runtime with proof-carrying code, Proceedings of the 2007 ACM symposium on Applied computing, March 11-15, 2007, Seoul, Korea
+Jonathan Aldrich , Ronald Garcia , Mark Hahnenberg , Manuel Mohr , Karl Naden , Darpan Saini , Sven Stork , Joshua Sunshine , Éric Tanter , Roger Wolff, Permission-based programming languages (NIER track), Proceedings of the 33rd International Conference on Software Engineering, May 21-28, 2011, Waikiki, Honolulu, HI, USA
+Kohei Suenaga , Ryota Fukuda , Atsushi Igarashi, Type-based safe resource deallocation for shared-memory concurrency, ACM SIGPLAN Notices, v.47 n.10, October 2012
+Gérard Boudol, Typing safe deallocation, Proceedings of the Theory and practice of software, 17th European conference on Programming languages and systems, March 29-April 06, 2008, Budapest, Hungary
+Matthew Fluet , Greg Morrisett , Amal Ahmed, Linear regions are all you need, Proceedings of the 15th European conference on Programming Languages and Systems, p.7-21, March 27-28, 2006, Vienna, Austria
+Fritz Henglein , Henning Makholm , Henning Niss, A direct approach to control-flow sensitive region-based memory management, Proceedings of the 3rd ACM SIGPLAN international conference on Principles and practice of declarative programming, p.175-186, September 05-07, 2001, Florence, Italy
+Matthias Neubauer , Peter Thiemann, From sequential programs to multi-tier applications by program transformation, ACM SIGPLAN Notices, v.40 n.1, p.221-232, January 2005
+Oleg Kiselyov , Chung-chieh Shan, Lightweight monadic regions, ACM SIGPLAN Notices, v.44 n.2, February 2009
+Robert DeLine , Manuel Fähndrich, Enforcing high-level protocols in low-level software, ACM SIGPLAN Notices, v.36 n.5, p.59-69, May 2001
+Greg Morrisett , Amal Ahmed , Matthew Fluet, L3: a linear language with locations, Proceedings of the 7th international conference on Typed Lambda Calculi and Applications, April 21-23, 2005, Nara, Japan
+K. Rustan Leino , Peter Müller, A Basis for Verifying Multi-threaded Programs, Proceedings of the 18th European Symposium on Programming Languages and Systems: Held as Part of the Joint European Conferences on Theory and Practice of Software, ETAPS 2009, March 22-29, 2009, York, UK
+Colin S. Gordon , Michael D. Ernst , Dan Grossman, Static lock capabilities for deadlock freedom, Proceedings of the 8th ACM SIGPLAN workshop on Types in language design and implementation, January 28-28, 2012, Philadelphia, Pennsylvania, USA
+Gareth Stoyle , Michael Hicks , Gavin Bierman , Peter Sewell , Iulian Neamtiu, Mutatis mutandis: safe and predictable dynamic software updating, ACM SIGPLAN Notices, v.40 n.1, p.183-194, January 2005
+Futoshi Iwama , Atsushi Igarashi , Naoki Kobayashi, Resource usage analysis for a functional language with exceptions, Proceedings of the 2006 ACM SIGPLAN symposium on Partial evaluation and semantics-based program manipulation, January 09-10, 2006, Charleston, South Carolina
+Karl Crary, Sound and complete elimination of singleton kinds, ACM Transactions on Computational Logic (TOCL), v.8 n.2, p.8-es, April 2007
+Vijay S. Menon , Neal Glew , Brian R. Murphy , Andrew McCreight , Tatiana Shpeisman , Ali-Reza Adl-Tabatabai , Leaf Petersen, A verifiable SSA program representation for aggressive compiler optimization, ACM SIGPLAN Notices, v.41 n.1, p.397-408, January 2006
+Karl Crary , Joseph C. Vanderwaart, An expressive, scalable type theory for certified code, ACM SIGPLAN Notices, v.37 n.9, p.191-205, September 2002
+Atsushi Igarashi , Naoki Kobayashi, Resource usage analysis, ACM SIGPLAN Notices, v.37 n.1, p.331-342, Jan. 2002
+Dan Grossman, Type-safe multithreading in cyclone, ACM SIGPLAN Notices, v.38 n.3, March 2003
+Jeffrey Fischer , Daniel Marino , Rupak Majumdar , Todd Millstein, Fine-Grained Access Control with Object-Sensitive Roles, Proceedings of the 23rd European Conference on ECOOP 2009 --- Object-Oriented Programming, July 06-10, 2009, Italy
+Dan Grossman , Greg Morrisett , Trevor Jim , Michael Hicks , Yanling Wang , James Cheney, Region-based memory management in cyclone, ACM SIGPLAN Notices, v.37 n.5, May 2002
+John Tang Boyland , William Retert, Connecting effects and uniqueness with adoption, ACM SIGPLAN Notices, v.40 n.1, p.283-295, January 2005
+Shuvendu K. Lahiri , Shaz Qadeer , David Walker, Linear maps, Proceedings of the 5th ACM workshop on Programming languages meets program verification, January 29-29, 2011, Austin, Texas, USA
+Hyun-Goo Kang , Youil Kim , Taisook Han , Hwansoo Han, A path sensitive type system for resource usage verification of c like languages, Proceedings of the Third Asian conference on Programming Languages and Systems, November 02-05, 2005, Tsukuba, Japan
+Naoki Kobayashi, Time regions and effects for resource usage analysis, ACM SIGPLAN Notices, v.38 n.3, March 2003
+David Walker , Kevin Watkins, On regions and linear types (extended abstract), ACM SIGPLAN Notices, v.36 n.10, October 2001
+Johannes Borgstrom , Juan Chen , Nikhil Swamy, Verifying stateful programs with substructural state and hoare types, Proceedings of the 5th ACM workshop on Programming languages meets program verification, January 29-29, 2011, Austin, Texas, USA
+Oleg Kiselyov , Chung-chieh Shan, Lightweight Static Capabilities, Electronic Notes in Theoretical Computer Science (ENTCS), v.174 n.7, p.79-104, June, 2007
+Michael Hicks , Greg Morrisett , Dan Grossman , Trevor Jim, Experience with safe manual memory-management in cyclone, Proceedings of the 4th international symposium on Memory management, October 24-25, 2004, Vancouver, BC, Canada
+Daniel Marino , Todd Millstein, A generic type-and-effect system, Proceedings of the 4th international workshop on Types in language design and implementation, January 24-24, 2009, Savannah, GA, USA
+Robert Atkey, Parameterised notions of computation, Journal of Functional Programming, v.19 n.3-4, p.335-376, July 2009
+Yitzhak Mandelbaum , David Walker , Robert Harper, An effective theory of type refinements, ACM SIGPLAN Notices, v.38 n.9, p.213-225, September 2003
+DEREK DREYER, Recursive type generativity, Journal of Functional Programming, v.17 n.4-5, p.433-471, July 2007
+Iulian Neamtiu , Michael Hicks , Jeffrey S. Foster , Polyvios Pratikakis, Contextual effects for version-consistent dynamic software updating and safe concurrent programming, ACM SIGPLAN Notices, v.43 n.1, January 2008
+Gareth Stoyle , Michael Hicks , Gavin Bierman , Peter Sewell , Iulian Neamtiu,Mutatis Mutandis: Safe and predictable dynamic software updating, ACM Transactions on Programming Languages and Systems (TOPLAS), v.29 n.4, p.22-es, August 2007
+Vasco T. Vasconcelos , Simon J. Gay , António Ravara, Type checking a multithreaded functional language with session types, Theoretical Computer Science, v.368 n.1-2, p.64-87, December, 2006
+Amal Ahmed , David Walker, The logical approach to stack typing, ACM SIGPLAN Notices, v.38 n.3, March 2003
+Sophia Drossopoulou , Ferruccio Damiani , Mariangiola Dezani-Ciancaglini , Paola Giannini, More dynamic object reclassification:Fickle&par;, ACM Transactions on Programming Languages and Systems (TOPLAS), v.24 n.2, p.153-191, March 2002
+Atsushi Igarashi , Naoki Kobayashi, Resource usage analysis, ACM Transactions on Programming Languages and Systems (TOPLAS), v.27 n.2, p.264-313, March 2005
+Philipp Haller , Martin Odersky, Capabilities for uniqueness and borrowing, Proceedings of the 24th European conference on Object-oriented programming, June 21-25, 2010, Maribor, Slovenia
+Neelakantan R. Krishnaswami , Aaron Turon , Derek Dreyer , Deepak Garg, Superficially substructural types, ACM SIGPLAN Notices, v.47 n.9, September 2012
+Amal Ahmed , Matthew Fluet , Greg Morrisett, L3: A Linear Language with Locations, Fundamenta Informaticae, v.77 n.4, p.397-449, August 2007
+Amal Ahmed , Matthew Fluet , Greg Morrisett, L$^3$: A Linear Language with Locations, Fundamenta Informaticae, v.77 n.4, p.397-449, December 2007
+Mads Tofte , Lars Birkedal , Martin Elsman , Niels Hallenberg, A Retrospective on Region-Based Memory Management, Higher-Order and Symbolic Computation, v.17 n.3, p.245-265, September 2004
+Simon Helsen, Bisimilarity for the Region Calculus, Higher-Order and Symbolic Computation, v.17 n.4, p.347-394, December  2004
+Edgar G. Daylight , Arnout Vandecappelle , Francky Catthoor, The formalism underlying EASYMAP: A precompiler for refinement-based exploration of hierarchical data organizations, Science of Computer Programming, v.72 n.3, p.71-135, August, 2008
+Peter Sewell , Gareth Stoyle , Michael Hicks , Gavin Bierman , Keith Wansbrough, Dynamic rebinding for marshalling and update, via redex-time and destruct-time reduction, Journal of Functional Programming, v.18 n.4, p.437-502, July 2008
+Michael Hind, Pointer analysis: haven't we solved this problem yet?, Proceedings of the 2001 ACM SIGPLAN-SIGSOFT workshop on Program analysis for software tools and engineering, p.54-61, June 2001, Snowbird, Utah, USA

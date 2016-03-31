@@ -1,0 +1,25 @@
+Averil Meehan, Performance implications of memory management in Java, Proceedings of the 5th WSEAS international conference on Telecommunications and informatics, May 27-29, 2006, Istanbul, Turkey
+Karla Morris , Damian W.I. Rouson , Jim Xia, On the object-oriented design of reference-counted shadow objects, Proceedings of the 4th International Workshop on Software Engineering for Computational Science and Engineering, May 28-28, 2011, Waikiki, Honolulu, HI, USA
+Harel Paz , Erez Petrank, Using prefetching to improve reference-counting garbage collectors, Proceedings of the 16th international conference on Compiler construction, March 26-30, 2007, Braga, Portugal
+Jon Brandvein , Yanhong A. Liu, Removing runtime overhead for optimized object queries, Proceedings of the 2016 ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation, January 18-19, 2016, St. Petersburg, FL, USA
+Thomas Gerlitz , Igor Kalkov , John F. Schommer , Dominik Franke , Stefan Kowalewski, Non-blocking garbage collection for real-time Android, Proceedings of the 11th International Workshop on Java Technologies for Real-time and Embedded Systems, October 09-10, 2013, Karlsruhe, Germany
+Wim H. Hesselink , M. I. Lali, Simple concurrent garbage collection almost without synchronization, Formal Methods in System Design, v.36 n.2, p.148-166, June      2010
+Zachary Anderson , David Gay , Rob Ennals , Eric Brewer, SharC: checking data sharing strategies for multithreaded c, ACM SIGPLAN Notices, v.43 n.6, June 2008
+Chris Hawblitzel , Erez Petrank, Automated verification of practical garbage collectors, ACM SIGPLAN Notices, v.44 n.1, January 2009
+Rifat Shahriyar , Stephen M. Blackburn , Daniel Frampton, Down for the count?  Getting reference counting back in the ring, ACM SIGPLAN Notices, v.47 n.11, November 2012
+J. Morris Chang , Wei-Mei Chen , Paul A. Griffin , Ho-Yuan Cheng, Cyclic reference counting by typed reference fields, Computer Languages, Systems and Structures, v.38 n.1, p.98-107, April, 2012
+Alex Kogan , Erez Petrank, A methodology for creating fast wait-free data structures, ACM SIGPLAN Notices, v.47 n.8, August 2012
+Roger Wolff , Ronald Garcia , Éric Tanter , Jonathan Aldrich, Gradual typestate, Proceedings of the 25th European conference on Object-oriented programming, July 25-29, 2011, Lancaster, UK
+Steven R. Brandt , Hari Krishnan , Gokarna Sharma , Costas Busch, Concurrent, parallel garbage collection in linear time, Proceedings of the 2014 international symposium on Memory management, June 12-12, 2014, Edinburgh, United Kingdom
+Gabriel Kliot , Erez Petrank , Bjarne Steensgaard, A lock-free, concurrent, and incremental stack scanning for garbage collectors, Proceedings of the 2009 ACM SIGPLAN/SIGOPS international conference on Virtual execution environments, March 11-13, 2009, Washington, DC, USA
+Ronald Garcia , Éric Tanter , Roger Wolff , Jonathan Aldrich, Foundations of Typestate-Oriented Programming, ACM Transactions on Programming Languages and Systems (TOPLAS), v.36 n.4, p.1-44, October 2014
+Filip Pizlo , Erez Petrank , Bjarne Steensgaard, Path specialization: reducing phased execution overheads, Proceedings of the 7th international symposium on Memory management, June 07-08, 2008, Tucson, AZ, USA
+Gabriel Kliot , Erez Petrank , Bjarne Steensgaard, A lock-free, concurrent, and incremental stack scanning mechanism for garbage collectors, ACM SIGOPS Operating Systems Review, v.43 n.3, July 2009
+Filip Pizlo , Erez Petrank , Bjarne Steensgaard, A study of concurrent real-time garbage collectors, ACM SIGPLAN Notices, v.43 n.6, June 2008
+Rifat Shahriyar , Stephen Michael Blackburn , Xi Yang , Kathryn S. McKinley, Taking off the gloves with reference counting Immix, ACM SIGPLAN Notices, v.48 n.10, October 2013
+Tyler Clemons , S. M. Faisal , Shirish Tatikonda , Charu Aggarwal , Srinivasan Parthasarathy, One, Two, Hash! Counting Hash Tables for Flash Devices, Proceedings of the 1st IKDD Conference on Data Sciences, p.1-10, March 21-23, 2014, Delhi, India
+Tim Harris , Saša Tomic , Adrián Cristal , Osman Unsal, Dynamic filtering: multi-purpose architecture support for language runtime systems, ACM SIGARCH Computer Architecture News, v.38 n.1, March 2010
+Guy Golan-Gueta , Nathan Bronson , Alex Aiken , G. Ramalingam , Mooly Sagiv , Eran Yahav, Automatic fine-grain locking using shape properties, ACM SIGPLAN Notices, v.46 n.10, October 2011
+Michal Wegiel , Chandra Krintz, The single-referent collector: Optimizing compaction for the common case, ACM Transactions on Architecture and Code Optimization (TACO), v.6 n.4, p.1-26, October 2009
+Harel Paz , David F. Bacon , Elliot K. Kolodner , Erez Petrank , V. T. Rajan, An efficient on-the-fly cycle collection, ACM Transactions on Programming Languages and Systems (TOPLAS), v.29 n.4, p.20-es, August 2007
+Dan Alistarh , William M. Leiserson , Alexander Matveev , Nir Shavit, ThreadScan: Automatic and Scalable Memory Reclamation, Proceedings of the 27th ACM on Symposium on Parallelism in Algorithms and Architectures, June 13-15, 2015, Portland, Oregon, USA

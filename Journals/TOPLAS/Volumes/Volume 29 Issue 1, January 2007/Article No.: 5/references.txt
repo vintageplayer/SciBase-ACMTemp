@@ -1,0 +1,35 @@
+Anderson, H. and Khoo, S. C. 2003. Affine-Based size-change termination. In Proceedings of the 1st Asian Symposium on Programming Languages and Systems (APLAS), A. Ohori, Ed. Lecture Notes in Computer Science, vol. 2895. Springer Verlag, 122--140.
+Anderson, H. and Khoo, S. C. 2005. Bounded size-change termination. Tech. Rep. TRB6/05, National University of Singapore, Singapore.
+Krzysztof R. Apt , Dino Pedreschi, Modular termination proofs for logic and pure PROLOG programs, Advances in logic programming theory, Oxford University Press, Inc., New York, NY, 1995
+Thomas Arts , Jürgen Giesl, Automatically Proving Termination Where Simplification Orderings Fail, Proceedings of the 7th International Joint Conference CAAP/FASE on Theory and Practice of Software Development, p.261-272, April 14-18, 1997
+Avery, J. 2005. The size-change termination principle on non well founded data types. Tech. Rep., Datalogisk Institut Københavns Universitet, Denmark.
+Amir M. Ben-Amram, General size-change termination and lexicographic descent, The essence of computation: complexity, analysis, transformation, Springer-Verlag New York, Inc., New York, NY, 2002
+F. Bueno , M. García de la Banda , M. Hermenegildo, Effectiveness of global analysis in strict independence-based automatic parallelization, Proceedings of the 1994 International Symposium on Logic programming, p.320-336, November 1994, Symposia, Melbourne
+Michael Codish , Vitaly Lagoon , Peter J. Stuckey, Testing for termination with monotonicity constraints, Proceedings of the 21st international conference on Logic Programming, p.326-340, October 02-05, 2005, Sitges, Spain[doi>10.1007/11562931_25]
+Codish, M., Mariott, K., and Taboch, C. 2000. Improving program analyses by structure untupling. J. Logic Program. 43, 3, 251--263.
+Michael Codish , Cohavit Taboch, A Semantic Basis for Termination Analysis of Logic Programs and Its Realization Using Symbolic Norm Constraints, Proceedings of the 6th International Joint Conference on Algebraic and Logic Programming, p.31-45, September 03-05, 1997
+Thomas T. Cormen , Charles E. Leiserson , Ronald L. Rivest, Introduction to algorithms, MIT Press, Cambridge, MA, 1990
+Nachum Dershowitz , Zohar Manna, Proving termination with multiset orderings, Communications of the ACM, v.22 n.8, p.465-476, Aug. 1979[doi>10.1145/359138.359142]
+De Schreye, D. and Decorte, S. 1994. Termination of logic programs: The never-ending story. J. Logic Program. 19--20, 199--260.
+Floyd, R. W. 1967. Assigning meanings to programs. Proceedings of Symposia in Applied Mathematics XIX, 19--32.
+Frederiksen, C. C. 2001. A simple implementation of the size-change principle. Tech. Rep. D-442, Datalogisk Institut Københavns Universitet, Denmark.
+Samir Genaim , Michael Codish , John P. Gallagher , Vitaly Lagoon, Combining Norms to Prove Termination, Revised Papers from the Third International Workshop on Verification, Model Checking, and Abstract Interpretation, p.126-138, January 21-22, 2002
+Jürgen Giesl, Automated Termination Proofs with Measure Functions, Proceedings of the 19th Annual German Conference on Artificial Intelligence: Advances in Artificial Intelligence, p.149-160, September 11-13, 1995
+Glenstrup, A. and Jones, N. 2004. Termination analysis and specialization-point insertion in off-line partial evaluation. Tech. Rep. D-498, Datalogisk Institut Københavns Universitet, Denmark.
+Jones, N. D. and Bohr, N. 2004. Termination analysis of the untyped lambda calculus. In Proceedings of the 15th International Conference on Rewriting Techniques and Applications (RTA). Lecture Notes in Computer Science, vol. 3091. Springer Verlag, 1--23.
+C. S. Lee, Partial Evaluation of the Euclidean Algorithm, Revisited, Higher-Order and Symbolic Computation, v.12 n.2, p.203-212, September 1999[doi>10.1023/A:1010004307057]
+Chin Soon Lee, Program Termination Analysis in Polynomial Time, Proceedings of the 1st ACM SIGPLAN/SIGSOFT conference on Generative Programming and Component Engineering, p.218-235, October 06-08, 2002
+Chin Soon Lee , Neil D. Jones , Amir M. Ben-Amram, The size-change principle for program termination, Proceedings of the 28th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.81-92, January 2001, London, United Kingdom[doi>10.1145/360204.360210]
+Chin Soon Lee, Program Termination Analysis in Polynomial Time, Proceedings of the 1st ACM SIGPLAN/SIGSOFT conference on Generative Programming and Component Engineering, p.218-235, October 06-08, 2002
+Lindenstrauss, N. and Sagiv, Y. 1997a. Automatic termination analysis of logic programs (with detailed experimental results). http://www.cs.huji.ac.il/~naomil/.
+Lindenstrauss, N. and Sagiv, Y. 1997b. Automatic termination analysis of Prolog programs. In Proceedings of the 14th International Conference on Logic Programming (ICLP), L. Naish, Ed. MIT Press, Cambridge, MA. 64--77.
+Robert Paige , Zhe Yang, High level reading and data structure compilation, Proceedings of the 24th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.456-469, January 15-17, 1997, Paris, France[doi>10.1145/263699.263762]
+Péter, R. 1967. Recursive Functions. Academic Press.
+Lutz Plümer, Termination proofs for logic programs, Springer-Verlag New York, Inc., New York, NY, 1990
+Andreas Podelski , Andrey Rybalchenko, Transition predicate abstraction and fair termination, Proceedings of the 32nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.132-144, January 12-14, 2005, Long Beach, California, USA[doi>10.1145/1040305.1040317]
+Sagiv, Y. 1991. A termination test for logic programs. In Proceedings of the International Logic Programming Symposium (ILPS), V. Saraswat and K. Ueda, Eds. MIT Press, Cambridge, MA. 518--532.
+René Thiemann , Jürgen Giesl, Size-change termination for term rewriting, Proceedings of the 14th international conference on Rewriting techniques and applications, June 09-11, 2003, Valencia, Spain
+René Thiemann , Jürgen Giesl, The size-change principle and dependency pairs for termination of term rewriting, Applicable Algebra in Engineering, Communication and Computing, v.16 n.4, p.229-270, September 2005[doi>10.1007/s00200-005-0179-7]
+A. Turing, Checking a large routine, The early British computer conferences, MIT Press, Cambridge, MA, 1989
+Wahlstedt, D. 2000. Detecting termination using size-change in parameter values. Master's thesis, Göteborgs Universitet, Sweden.
+Hongwei Xi, Dependent Types for Program Termination Verification, Higher-Order and Symbolic Computation, v.15 n.1, p.91-131, March 2002[doi>10.1023/A:1019916231463]

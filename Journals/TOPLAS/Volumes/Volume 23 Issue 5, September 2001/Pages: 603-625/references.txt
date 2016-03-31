@@ -1,0 +1,53 @@
+ALLEN, F. E. 1969. Program optimization. Annual Review in Automatic Programming 5, 239-308.
+ALLEN, F. E., COCKE,J.,AND KENNEDY, K. 1981. Reduction of operator strength. In Program Flow Analysis: Theory and Applications, S. S. Muchnick and N. D. Jones, Eds. Prentice-Hall, Englewood Cliffs, NJ, USA.
+B. Alpern , M. N. Wegman , F. K. Zadeck, Detecting equality of variables in programs, Proceedings of the 15th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.1-11, January 10-13, 1988, San Diego, California, USA[doi>10.1145/73560.73561]
+R Bernstein, Multiplication by Integer constants, Software—Practice & Experience, v.16 n.7, p.641-652, July. 1986[doi>10.1002/spe.4380160704]
+Rastislav Bodík , Rajiv Gupta , Mary Lou Soffa, Complete removal of redundant expressions, ACM SIGPLAN Notices, v.33 n.5, p.1-14, May 1998[doi>10.1145/277652.277653]
+Preston Briggs , Keith D. Cooper, Effective partial redundancy elimination, ACM SIGPLAN Notices, v.29 n.6, p.159-170, June 1994[doi>10.1145/773473.178257]
+Preston Briggs , Keith D. Cooper , Timothy J. Harvey , L. Taylor Simpson, Practical improvements to the construction and destruction of static single assignment form, Software—Practice & Experience, v.28 n.8, p.859-881, July 10, 1998[doi>10.1002/(SICI)1097-024X(19980710)28:8<859::AID-SPE188>3.0.CO;2-8]
+Preston Briggs , Keith D. Cooper , L. Taylor Simpson, Value numbering, Software—Practice & Experience, v.27 n.6, p.701-724, June 1997[doi>10.1002/(SICI)1097-024X(199706)27:6<701::AID-SPE104>3.3.CO;2-S]
+Preston Briggs , Keith D. Cooper , Linda Torczon, Improvements to graph coloring register allocation, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.3, p.428-455, May 1994[doi>10.1145/177492.177575]
+BRIGGS,P.AND HARVEY, T. J. 1994. Multiplication by integer constants. This is a "web", a literate programming document. See http://softlib.rice.edu/MSCP.
+Jiazhen Cai , Robert A. Paige, Look ma, no hashing, and no arrays neither, Proceedings of the 18th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.143-154, January 21-23, 1991, Orlando, Florida, USA[doi>10.1145/99583.99605]
+CHAITIN,G.J.,AUSLANDER, M. A., CHANDRA, A. K., COCKE, J., HOPKINS,M.E.,AND MARKSTEIN,P.W. 1981. Register allocation via coloring. Computer Languages 6, 47-57.
+CHASE, D. R. 1988. Personal communication in the form of an unpublished report.
+Jong-Deok Choi , Ron Cytron , Jeanne Ferrante, Automatic construction of sparse data flow evaluation graphs, Proceedings of the 18th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.55-66, January 21-23, 1991, Orlando, Florida, USA[doi>10.1145/99583.99594]
+Cliff Click , Keith D. Cooper, Combining analyses, combining optimizations, ACM Transactions on Programming Languages and Systems (TOPLAS), v.17 n.2, p.181-196, March 1995[doi>10.1145/201059.201061]
+John Cocke , Ken Kennedy, An algorithm for reduction of operator strength, Communications of the ACM, v.20 n.11, p.850-856, Nov. 1977[doi>10.1145/359863.359888]
+COCKE,J.AND MARKSTEIN, P. 1980a. Measurement of program improvement algorithms. In Proceedings of Information Processing 80. North Holland Publishing Company, Tokyo, Japan.
+COCKE,J.AND MARKSTEIN, P. 1980b. Strength reduction for division and modulo with application to a multilevel store. IBM J. Res. Dev. 24, 6, 692-694.
+COCKE,J.AND SCHWARTZ, J. T. 1970. Programming languages and their compilers: Preliminary notes. Tech. rep., Courant Institute of Mathematical Sciences, New York University.
+COOPER,K.D.AND SIMPSON, L. T. 1995. SCC-based value numbering. Tech. Rep. TR95636, Center for Research on Parallel Computation, Rice University. Oct.
+Ron Cytron , Jeanne Ferrante , Barry K. Rosen , Mark N. Wegman , F. Kenneth Zadeck, Efficiently computing static single assignment form and the control dependence graph, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.4, p.451-490, Oct. 1991[doi>10.1145/115372.115320]
+DHAMDHERE, D. M. 1979. On algorithms for operator strength reduction. Communications of the ACM 22, 5 (May), 311-312.
+DHAMDHERE, D. M. 1989. A new algorithm for composite hoisting and strength reduction. Int. J. Comput. Math. 27, 1, 1-14.
+Karl-Heinz Drechsler , Manfred P. Stadel, A variation of Knoop, Rüthing, and Steffen'sLazy Code Motion, ACM SIGPLAN Notices, v.28 n.5, p.29-38, May 1993[doi>10.1145/152819.152823]
+EARLY, J. 1974. High level iterators and a method of automatically designing data structure representation. Tech. Rep. ERL-M416, Computer Science Division, University of California, Berkeley. Feb.
+Amelia C. Fong, Inductively computable constructs in very high level languages, Proceedings of the 6th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.21-28, January 29-31, 1979, San Antonio, Texas[doi>10.1145/567752.567755]
+Amelia C. Fong , Jeffrey D. Ullman, Induction variables in very high level languages, Proceedings of the 3rd ACM SIGACT-SIGPLAN symposium on Principles on programming languages, p.104-112, January 19-21, 1976, Atlanta, Georgia[doi>10.1145/800168.811544]
+GRANLUND, T. 1995. Private communication with P. Briggs. Discussion of his work in building the routine synth mult for the Gnu C Compiler.
+Torbjörn Granlund , Peter L. Montgomery, Division by invariant integers using multiplication, ACM SIGPLAN Notices, v.29 n.6, p.61-72, June 1994[doi>10.1145/773473.178249]
+Rajiv Gupta , David A. Berson , Jesse Z. Fang, Path Profile Guided Partial Redundancy Elimination Using Speculation, Proceedings of the 1998 International Conference on Computer Languages, p.230, May 14-16, 1998
+Paul Havlak, Nesting of reducible and irreducible loops, ACM Transactions on Programming Languages and Systems (TOPLAS), v.19 n.4, p.557-567, July 1997[doi>10.1145/262004.262005]
+ISSAC,J.AND DHAMDHERE, D. M. 1980. A composite algorithm for strength reduction and code movement. Int. J. Comput. Info. Sci. 9, 3, 243-273.
+John B. Kam , Jeffrey D. Ullman, Global Data Flow Analysis and Iterative Algorithms, Journal of the ACM (JACM), v.23 n.1, p.158-171, Jan. 1976[doi>10.1145/321921.321938]
+KENNEDY, K. 1973. Reduction in strength using hashed temporaries. SETL Newsletter 102, Courant Institute of Mathematical Sciences, New York University. Mar.
+KENNEDY, K. 1978. Use-definition chains with applications. Computer Languages 3, 163- 179.
+Jens Knoop , Oliver Rüthing , Bernhard Steffen, Lazy code motion, ACM SIGPLAN Notices, v.27 n.7, p.224-234, July 1992[doi>10.1145/143103.143136]
+KNOOP, J., RUTHING,O.,AND STEFFEN, B. 1993. Lazy strength reduction. J. Program. Lang. 1,1, 71-91.
+Jens Knoop , Oliver Rüthing , Bernhard Steffen, Optimal code motion: theory and practice, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.4, p.1117-1155, July 1994[doi>10.1145/183432.183443]
+Thomas Lengauer , Robert Endre Tarjan, A fast algorithm for finding dominators in a flowgraph, ACM Transactions on Programming Languages and Systems (TOPLAS), v.1 n.1, p.121-141, July 1979[doi>10.1145/357062.357071]
+Yanhong A. Liu , Scott D. Stoller, Loop optimization for aggregate array computations, Proceedings of the 1998 International Conference on Computer Languages, p.262, May 14-16, 1998
+MARKSTEIN,P.W.,MARKSTEIN,V.,AND ZADECK, F. K. 1994. Reassociation and strength reduction. Chapter from an unpublished book, Optimization in Compilers.
+E. Morel , C. Renvoise, Global optimization by suppression of partial redundancies, Communications of the ACM, v.22 n.2, p.96-103, Feb. 1979[doi>10.1145/359060.359069]
+Robert Paige , Shaye Koenig, Finite Differencing of Computable Expressions, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.3, p.402-454, July 1982[doi>10.1145/357172.357177]
+Bob Paige , J. T. Schwartz, Expression continuity and the formal differentiation of algorithms, Proceedings of the 4th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.58-71, January 17-19, 1977, Los Angeles, California[doi>10.1145/512950.512957]
+SANTHANAM, V. 1992. Register reassociation in PA-RISC compilers. Hewlett-Packard Journal 14,6 (June), 33-38.
+SCARBOROUGH,R.G.AND KOLSKY, H. G. 1980. Improved optimization of FORTRAN object programs. IBM J. Res. Dev. 24, 6 (Nov.), 660-676.
+Richard L. Sites, The Compilation of Loop Induction Expressions, ACM Transactions on Programming Languages and Systems (TOPLAS), v.1 n.1, p.50-57, July 1979[doi>10.1145/357062.357065]
+TARJAN, R. E. 1972. Depth first search and linear graph algorithms. SIAM J. Comput. 1, 2 (June), 146-160.
+TARJAN, R. E. 1974. Testing flow graph reducibility. J. Comput. Syst. Sci. 9, 355-365.
+VICK, C. A. 1994. SSA based reduction of operator strength. M.S. dissertation, Rice University, Department of Computer Science.
+Mark N. Wegman , F. Kenneth Zadeck, Constant propagation with conditional branches, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.2, p.181-210, April 1991[doi>10.1145/103135.103136]
+Michael Wolfe, Beyond induction variables, ACM SIGPLAN Notices, v.27 n.7, p.162-174, July 1992[doi>10.1145/143103.143131]
+Youfeng Wu, Strength reduction of multiplications by integer constants, ACM SIGPLAN Notices, v.30 n.2, p.42-48, Feb. 1995[doi>10.1145/199873.199880]

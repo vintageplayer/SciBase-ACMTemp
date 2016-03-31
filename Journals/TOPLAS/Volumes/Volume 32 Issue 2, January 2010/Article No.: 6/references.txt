@@ -1,0 +1,55 @@
+D. L. Parnas, A technique for software module specification with examples, Communications of the ACM, v.15 n.5, p.330-336, May 1972[doi>10.1145/355602.361309]
+M. Abadi , L. Cardelli , B. Pierce , G. Plotkin, Dynamic typing in a statically-typed language, Proceedings of the 16th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.213-227, January 11-13, 1989, Austin, Texas, USA[doi>10.1145/75277.75296]
+Agarwal, R. and Stoller, S. D. 2004. Type inference for parameterized race-free Java. In Proceedings of the Conference on Verification, Model Checking, and Abstract Interpretation. 149--160.
+Alexander Aiken , Edward L. Wimmers , T. K. Lakshman, Soft typing with conditional types, Proceedings of the 21st ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.163-173, January 16-19, 1994, Portland, Oregon, USA[doi>10.1145/174675.177847]
+Lennart Augustsson, Cayenne—a language with dependent types, Proceedings of the third ACM SIGPLAN international conference on Functional programming, p.239-250, September 26-29, 1998, Baltimore, Maryland, USA[doi>10.1145/289423.289451]
+Blei, D., Harrelson, C., Jhala, R., Majumdar, R., Necula, G. C., Rahul, S. P., Weimer, W., and Weitz, D. 2000. Vampyre. http://www-cad.eecs.berkeley.edu/~rupak/Vampyre/.
+Matthias Blume , David McAllester, Sound and complete models of contracts, Journal of Functional Programming, v.16 n.4-5, p.375-414, July 2006[doi>10.1017/S0956796806005971]
+Val Breazu-Tannen , Thierry Coquand , Carl A. Gunter , Andre Scedrov, Inheritance as implicit coercion, Information and Computation, v.93 n.1, p.172-221, July 1991[doi>10.1016/0890-5401(91)90055-7]
+Burdy, L., Cheon, Y., Cok, D., Ernst, M., Kiniry, J., Leavens, G., Leino, K., and Poll, E. 2003. An overview of JML tools and applications. In 8th International Workshop on Formal Methods for Industrial Critical Systems (FMICS '03). Electronic Notes in Theoretical Computer Science, T. Arts and W. Fokkink, Eds., vol. 80. Elsevier. 73--89.
+Cardelli, L. 1988a. Phase distinctions in type theory. Manuscript. http://lucacardelli.name/Papers/PhaseDistinctions.pdf.
+Cardelli, L. 1988b. Typechecking dependent types and subtypes. In Foundations of Logic and Functional Programming. Lecture Notes in Computer Science. Springer, 45--57.
+Rowan Davies , Frank Pfenning, Intersection types and computational effects, Proceedings of the fifth ACM SIGPLAN international conference on Functional programming, p.198-208, September 2000[doi>10.1145/351240.351259]
+Ewen Denney, Refinement types for specification, Proceedings of the IFIP TC2/WG2.2,2.3 International Conference on Programming Concepts and Methods, p.148-166, June 08-12, 1998
+David Detlefs , Greg Nelson , James B. Saxe, Simplify: a theorem prover for program checking, Journal of the ACM (JACM), v.52 n.3, p.365-473, May 2005[doi>10.1145/1066100.1066102]
+Fagan, M. 1990. Soft typing. Ph.D. thesis, Rice University.
+Robert Bruce Findler , Matthias Felleisen, Behavioral software contracts, Rice University, Houston, TX, 2002
+Robert Bruce Findler , Matthias Felleisen, Contracts for higher-order functions, Proceedings of the seventh ACM SIGPLAN international conference on Functional programming, p.48-59, October 04-06, 2002, Pittsburgh, PA, USA[doi>10.1145/581478.581484]
+Cormac Flanagan, Hybrid type checking, Conference record of the 33rd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.245-256, January 11-13, 2006, Charleston, South Carolina, USA[doi>10.1145/1111037.1111059]
+Cormac Flanagan , Matthew Flatt , Shriram Krishnamurthi , Stephanie Weirich , Matthias Felleisen, Catching bugs in the web of program invariants, Proceedings of the ACM SIGPLAN 1996 conference on Programming language design and implementation, p.23-32, May 21-24, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/231379.231387]
+Cormac Flanagan , K. Rustan M. Leino , Mark Lillibridge , Greg Nelson , James B. Saxe , Raymie Stata, Extended static checking for Java, Proceedings of the ACM SIGPLAN 2002 Conference on Programming language design and implementation, June 17-19, 2002, Berlin, Germany[doi>10.1145/512529.512558]
+Tim Freeman , Frank Pfenning, Refinement types for ML, Proceedings of the ACM SIGPLAN 1991 conference on Programming language design and implementation, p.268-277, June 24-28, 1991, Toronto, Ontario, Canada[doi>10.1145/113445.113468]
+Alain Frisch , Giuseppe Castagna , Véronique Benzaken, Semantic Subtyping, Proceedings of the 17th Annual IEEE Symposium on Logic in Computer Science, p.137-146, July 22-25, 2002
+Patrice Godefroid , Nils Klarlund , Koushik Sen, DART: directed automated random testing, Proceedings of the 2005 ACM SIGPLAN conference on Programming language design and implementation, June 12-15, 2005, Chicago, IL, USA[doi>10.1145/1065010.1065036]
+Gomes, B., Stoutamire, D., Vaysman, B., and Klawitter, H. 1996. A language manual for Sather 1.1. http://www.icsi.berkeley.edu/~sather/Documentation/LanguageDescription/webmaker/index.html.
+James Gosling , Bill Joy , Guy L. Steele, The  Java Language Specification, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1996
+Gronski, J. and Flanagan, C. 2007. Unifying hybrid types and contracts. In Trends in Functional Programming.
+Gronski, J., Knowles, K., Tomb, A., Freund, S. N., and Flanagan, C. 2006. Sage: Practical hybrid checking for expressive types and specifications. In Proceedings of the Workshop on Scheme and Functional Programming. 93--104.
+Nicholas Haines , Darrell Kindred , J. Gregory Morrisett , Scott M. Nettles , Jeannette M. Wing, Composing first-class transactions, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.6, p.1719-1736, Nov. 1994[doi>10.1145/197320.197346]
+Fritz Henglein, Dynamic typing: syntax and proof theory, Science of Computer Programming, v.22 n.3, p.197-230, June 1994[doi>10.1016/0167-6423(94)00004-2]
+Herman, D., Tomb, A., and Flanagan, C. 2007. Space-Efficient gradual typing. In Trends in Functional Programming. 404--419.
+Richard C. Holt , James R. Cordy, The Turing programming language, Communications of the ACM, v.31 n.12, p.1410-1423, Dec. 1988[doi>10.1145/53580.53581]
+Kenneth Knowles , Cormac Flanagan, Type reconstruction for general refinement types, Proceedings of the 16th European conference on Programming, March 24-April 01, 2007, Braga, Portugal
+Kölling, M. and Rosenberg, J. 1997. Blue: Language specification, version 0.94.
+Leavens, G. T. and Cheon, Y. 2005. Design by contract with JML. http://www.cs.iastate.edu/~leavens/JML/.
+David C. Luckham, Programming with Specifications: An Introduction to Anna, a Language for Specifying ADA Programs, Springer-Verlag New York, Inc., Secaucus, NJ, 1990
+Yitzhak Mandelbaum , David Walker , Robert Harper, An effective theory of type refinements, Proceedings of the eighth ACM SIGPLAN international conference on Functional programming, p.213-225, August 25-29, 2003, Uppsala, Sweden[doi>10.1145/944705.944725]
+Bertrand Meyer, Object-Oriented Software Construction, Prentice-Hall, Inc., Upper Saddle River, NJ, 1988
+Greg Morrisett , David Walker , Karl Crary , Neal Glew, From system F to typed assembly language, ACM Transactions on Programming Languages and Systems (TOPLAS), v.21 n.3, p.527-568, May 1999[doi>10.1145/319301.319345]
+George C. Necula, Proof-carrying code, Proceedings of the 24th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.106-119, January 15-17, 1997, Paris, France[doi>10.1145/263699.263712]
+George C. Necula , Scott McPeak , Westley Weimer, CCured: type-safe retrofitting of legacy code, Proceedings of the 29th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.128-139, January 16-18, 2002, Portland, Oregon[doi>10.1145/503272.503286]
+Robert O'Callahan , Jong-Deok Choi, Hybrid dynamic data race detection, Proceedings of the ninth ACM SIGPLAN symposium on Principles and practice of parallel programming, June 11-13, 2003, San Diego, California, USA[doi>10.1145/781498.781528]
+Ou, X., Tan, G., Mandelbaum, Y., and Walker, D. 2004. Dynamic typing with dependent types. In Proceedings of the IFIP International Conference on Theoretical Computer Science. 437--450.
+Patrick M. Rondon , Ming Kawaguci , Ranjit Jhala, Liquid types, Proceedings of the 2008 ACM SIGPLAN conference on Programming language design and implementation, June 07-13, 2008, Tucson, AZ, USA[doi>10.1145/1375581.1375602]
+Jeremy Siek , Walid Taha, Gradual Typing for Objects, Proceedings of the 21st European conference on ECOOP 2007: Object-Oriented Programming, July 30-August 03, 2007, Berlin, Germany[doi>10.1007/978-3-540-73589-2_2]
+Siek, J. G. and Taha, W. 2006. Gradual typing for functional languages. In Proceedings of the Workshop on Scheme and Functional Programming.
+Statman, R. 1985. Logical relations and the typed lambda-calculus. Inform. Control 65, 2-3, 85--97.
+D. Tarditi , G. Morrisett , P. Cheng , C. Stone , R. Harper , P. Lee, TIL: a type-directed optimizing compiler for ML, ACM SIGPLAN Notices, v.31 n.5, p.181-192, May 1996[doi>10.1145/249069.231414]
+Satish Thatte, Quasi-static typing, Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.367-381, December 1989, San Francisco, California, USA[doi>10.1145/96709.96747]
+Vitek, J., Jagannathan, S., Welc, A., and Hosking, A. L. 2004. A semantic framework for designer transactions. In Proceedings of the European Symposium on Programming. 249--263.
+Christoph von Praun , Thomas R. Gross, Object race detection, Proceedings of the 16th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, p.70-82, October 14-18, 2001, Tampa Bay, FL, USA[doi>10.1145/504282.504288]
+Wadler, P. and Findler, R. B. 2007. Well-Typed programs can't be blamed. In Proceedings of the Workshop on Scheme and Functional Programming.
+Andrew K. Wright , Robert Cartwright, A practical soft type system for Scheme, Proceedings of the 1994 ACM conference on LISP and functional programming, p.250-262, June 27-29, 1994, Orlando, Florida, USA[doi>10.1145/182409.182485]
+Andrew K. Wright , Matthias Felleisen, A syntactic approach to type soundness, Information and Computation, v.115 n.1, p.38-94, Nov. 15, 1994[doi>10.1006/inco.1994.1093]
+Hongwei Xi, Imperative Programming with Dependent Types, Proceedings of the 15th Annual IEEE Symposium on Logic in Computer Science, p.375, June 26-29, 2000
+Hongwei Xi , Frank Pfenning, Dependent types in practical programming, Proceedings of the 26th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.214-227, January 20-22, 1999, San Antonio, Texas, USA[doi>10.1145/292540.292560]

@@ -1,0 +1,46 @@
+J. E. Allchin , M. S. McKendry, Synchronization and recovery of actions, Proceedings of the second annual ACM symposium on Principles of distributed computing, p.31-44, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806708]
+James Aspnes , Alan Fekete , Nancy A. Lynch , Michael Merritt , William E. Weihl, A Theory of Timestamp-Based Concurrency Control for Nested Transactions, Proceedings of the 14th International Conference on Very Large Data Bases, p.431-444, August 29-September 01, 1988
+C. Beeri , P. A. Bernstein , N. Goodman , M. Y. Lai , D. E. Shasha, A concurrency control theory for nested transactions (Preliminary Report), Proceedings of the second annual ACM symposium on Principles of distributed computing, p.45-62, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806709]
+Philip A. Bernstein , Nathan Goodman, Concurrency Control in Distributed Database Systems, ACM Computing Surveys (CSUR), v.13 n.2, p.185-221, June 1981[doi>10.1145/356842.356846]
+Philip A. Bernstein , Nathan Goodman, Multiversion concurrency control—theory and algorithms, ACM Transactions on Database Systems (TODS), v.8 n.4, p.465-483, Dec. 1983[doi>10.1145/319996.319998]
+BERNSTEIN, P., GOODMAN, N., AND LAI, M.-Y. Analyzing concurrency control when user and system operations differ. IEEE Trans. Softw. Eng. SE-9, 3 (May 1983), 223-239.
+CAREY, M. J., AND MUHANNA, W. A. The performance of multi-version concurrency control algorithms. Tech. Rep. 550, Computer Science Dept., Univ. of Wisconsin at Madison, Aug. 1984.
+CHAN, A., AND GRAY, R. Implementing distributed read-only transactions. IEEE Trans. Softw. Eng. SE-11, 2 (Feb. 1985), 205-212.
+Charles T. Davies, Jr., Recovery semantics for a DB/DC system, Proceedings of the annual conference, p.136-141, August 27-29, 1973, Atlanta, Georgia, United States[doi>10.1145/800192.805694]
+DAVIES, C.T. Data processing spheres of control. IBM Syst. J. 17, 2 (1978), 179-198.
+DuBOURDIEU, D. J. Implementation of distributed transactions. In Proceedings of the 6th Berkeley Workshop on Distributed Data Management and Computer Networks. (Berkeley, Calif., Feb. 16-19, 1982). Lawrence Berkeley Lab., Univ. of California, Berkeley, 1982, pp. 81-94.
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+FEKETE, A., LYNCH, N., MERRIT, M., AND WEIHL, W. Commutativity-based locking for nested transactions. Tech. Rep. MIT-LCS TM-370, Dept. of Computer Science, Massachusetts Institute of Technology, Cambridge, Mass., 1988.
+Jim Gray, Notes on Data Base Operating Systems, Operating Systems, An Advanced Course, p.393-481, January 1978
+Vassos Hadzilacos, A theory of reliability in database systems, Journal of the ACM (JACM), v.35 n.1, p.121-145, Jan. 1988[doi>10.1145/42267.42272]
+Maurice Herlihy, Comparing how atomicity mechanisms support replication, Proceedings of the fourth annual ACM symposium on Principles of distributed computing, p.102-110, August 1985, Minaki, Ontario, Canada[doi>10.1145/323596.323605]
+Maurice Herlihy, Optimistic concurrency control for abstract data types, Proceedings of the fifth annual ACM symposium on Principles of distributed computing, p.206-217, August 11-13, 1986, Calgary, Alberta, Canada[doi>10.1145/10590.10608]
+M. Herlihy, Extending multiversion time-spaning protocols to exploit type information, IEEE Transactions on Computers, v.36 n.4, p.443-448, April 1987[doi>10.1109/TC.1987.1676926]
+Maurice P. Herlihy , William E. Weihl, Hybrid concurrency control for abstract data types, Proceedings of the seventh ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.201-210, March 1988, Austin, Texas, United States[doi>10.1145/308386.308440]
+HERLIHY, M. P., LYNCH, N., MERRITT, m., AND WE1HL, W. On the correctness of orphan elimination algorithms, d. ACM. To be published. (Also available as MIT/LCS/TM-329. A preliminary version was published in the Seventeenth International Symposium on Fault-Tolerant Computing in 1987.)
+Henry Francis Korth, Locking protocols: general lock classes and deadlock freedom, 1981
+KUNG, H. T., AND PAPAD{MITR1OU, C. H. An optimality theory of concurrency control for databases. Acta Inf. 19, 1 (Apr. 1983), 1-11.
+H. T. Kung , John T. Robinson, On optimistic methods for concurrency control, ACM Transactions on Database Systems (TODS), v.6 n.2, p.213-226, June 1981[doi>10.1145/319566.319567]
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+Butler W. Lampson, Atomic Transactions, Distributed Systems - Architecture and Implementation, An Advanced Course, p.246-265, January 1981
+Barbara Liskov , Robert Scheifler, Guardians and Actions: Linguistic Support for Robust, Distributed Programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.3, p.381-404, July 1983[doi>10.1145/2166.357215]
+LISKOV, B., AND WEIHL, W. Specifications of distributed programs. Distrib. Comput. I, 2 (1986), 102-118.
+Barbara Liskov , Stephen Zilles, Programming with abstract data types, Proceedings of the ACM SIGPLAN symposium on Very high level languages, p.50-59, March 28-29, 1974, Santa Monica, California, United States[doi>10.1145/800233.807045]
+LISKOV, B., SCHE{FLER, R., WALKER, E. F., AND WEIHL, W. Orphan detection (extended abstract). In Proceedings of the 17th International Symposium on Fault-Tolerant Computing (Pittsburgh, Pa., July 6-8, 1987). IEEE, New York, 1987, pp. 2-7.
+Nancy A. Lynch, Concurrency control for resilient nested transactions, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia[doi>10.1145/588058.588080]
+N. Lynch , M. Merritt , W. Weihl , A. Fekete, A theory of atomic transactions, Lecture notes in computer science on ICDT '88, p.41-71, October 1988, Bruges, Belgium
+E. B. Moss, NESTED TRANSACTIONS: AN APPROACH TO RELIABLE DISTRIBUTED COMPUTING, Massachusetts Institute of Technology, Cambridge, MA, 1981
+Christos H. Papadimitriou, The serializability of concurrent database updates, Journal of the ACM (JACM), v.26 n.4, p.631-653, Oct. 1979[doi>10.1145/322154.322158]
+Christos H. Papadimitriou , Paris C. Kanellakis, On Concurrency Control by Multiple Versions, ACM Transactions on Database Systems (TODS), v.9 n.1, p.89-99, March 1984[doi>10.1145/348.318588]
+Calton Pu, Superdatabases for Composition of Heterogeneous Databases, Proceedings of the Fourth International Conference on Data Engineering, p.548-555, February 01-05, 1988
+D. P. Reed, NAMING AND SYNCHRONIZATION IN A DECENTRALIZED COMPUTER SYSTEM, Massachusetts Institute of Technology, Cambridge, MA, 1978
+Peter M. Schwarz , Alfred Z. Spector, Synchronizing shared abstract types, ACM Transactions on Computer Systems (TOCS), v.2 n.3, p.223-250, Aug. 1984[doi>10.1145/989.1188]
+Abraham Silberschatz , Zvi Kedem, Consistency in Hierarchical Database Systems, Journal of the ACM (JACM), v.27 n.1, p.72-80, Jan. 1980[doi>10.1145/322169.322176]
+SILBERSCHATZ, A., AND KEDEM, Z. A family of locking protocols for database systems that are modeled by directed graphs. IEEE Trans. Softw. Eng. 8, 6 (Nov. 1982), 558-562.
+SKEEN, M.D. Crash recovery in a distributed database system. Ph.D. thesis, Dept. of Computer Science, Univ. of California at Berkeley, May 1982. (Also available as UCB/ERL M82/45.)
+William E. Weihl, Data-dependent concurrency control and recovery (Extended Abstract), Proceedings of the second annual ACM symposium on Principles of distributed computing, p.63-75, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806710]
+W. E. Weihl, SPECIFICATION AND IMPLEMENTATION OF ATOMIC DATA TYPES, Massachusetts Institute of Technology, Cambridge, MA, 1984
+William E. Weihl, Distributed version management for read-only actions, IEEE Transactions on Software Engineering, v.13 n.1, p.55-64, Jan. 1987[doi>10.1109/TSE.1987.232835]
+W. E. Weihl, Commutativity-Based Concurrency Control for Abstract Data Types, IEEE Transactions on Computers, v.37 n.12, p.1488-1505, December 1988[doi>10.1109/12.9728]
+W. E. Weihl, The impact of recovery on concurrency control, Proceedings of the eighth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.259-269, March 1989, Philadelphia, Pennsylvania, United States[doi>10.1145/73721.73748]
+William Weihl , Barbara Liskov, Implementation of resilient, atomic data types, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.2, p.244-269, April 1985[doi>10.1145/3318.3319]

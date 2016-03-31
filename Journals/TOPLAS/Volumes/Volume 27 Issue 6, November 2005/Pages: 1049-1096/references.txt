@@ -1,0 +1,46 @@
+Apache. 2001. The Apache Software Foundation. http://www.apache.org.
+Appel, A. 1994. Hot-sliding in ML. Unpublished manuscript. http://www.cs.princeton.edu/~appel/papers/hotslide.ps.
+Joe Armstrong , Robert Virding , Claes Wikström , Mike Williams, Concurrent programming in ERLANG (2nd ed.), Prentice Hall International (UK) Ltd., Hertfordshire, UK, 1996
+S. Balasubramaniam , Benjamin C. Pierce, What is a file synchronizer?, Proceedings of the 4th annual ACM/IEEE international conference on Mobile computing and networking, p.98-108, October 25-30, 1998, Dallas, Texas, USA[doi>10.1145/288235.288261]
+Bierman, G., Hicks, M., Sewell, P., and Stoyle, G. 2003. Formalizing dynamic software updating. In Proceedings of the 2nd International Workshop on Unanticipated Software Evolution. Warsaw, Poland (April).
+Bloom, T. 1983. Dynamic Module Replacement in a Distributed Programming System. Ph.D. dissertation, Laboratory for Computer Science, The Massachussets Institute of Technology.
+Bloom, T. and Day, M. 1993. Reconfiguration and module replacement in Argus: Theory and practice. Softw. Eng. J. 8, 2 (Mar.), 102--108.
+Chandrasekhar Boyapati , Barbara Liskov , Liuba Shrira , Chuang-Hue Moh , Steven Richman, Lazy modular upgrades in persistent object stores, Proceedings of the 18th annual ACM SIGPLAN conference on Object-oriented programing, systems, languages, and applications, October 26-30, 2003, Anaheim, California, USA[doi>10.1145/949305.949341]
+Bryan Buck , Jeffrey K. Hollingsworth, An API for Runtime Code Patching, International Journal of High Performance Computing Applications, v.14 n.4, p.317-329, November  2000[doi>10.1177/109434200001400404]
+Dmitriev, M. 2001. Towards flexible and safe technology for runtime evolution of Java language applications. In Proceedings of the Workshop on Engineering Complex Object-Oriented Systems for Evolution. Portland, OR. (Oct.). 14--18.
+Dominic Duggan, Type-based hot swapping of running modules (extended abstract), Proceedings of the sixth ACM SIGPLAN international conference on Functional programming, September 03-05, 2001, Florence, Italy[doi>10.1145/507635.507645]
+Ophir Frieder , Mark E. Segal, On dynamically updating a computer program: from concept to prototype, Journal of Systems and Software, v.14 n.2, p.111-128, Feb. 1991[doi>10.1016/0164-1212(91)90096-O]
+Ben Gamsa , Orran Krieger , Jonathan Appavoo , Michael Stumm, Tornado: maximizing locality and concurrency in a shared memory multiprocessor operating system, Proceedings of the third symposium on Operating systems design and implementation, p.87-100, February 1999, New Orleans, Louisiana, USA
+Barbara J Staudt , Charles W Krueger , David Garlan, A structural approach to the maintenance of structure-oriented environments, Proceedings of the second ACM SIGSOFT/SIGPLAN software engineering symposium on Practical software development environments, p.160-170, December 09-11, 1986, Palo Alto, California, USA[doi>10.1145/24208.24227]
+Gilmore, S., Kirli, D., and Walton, C. 1997. Dynamic ML without Dynamic Types. Tech. Rep. ECS-LFCS-97-378, Laboratory for the Foundations of Computer Science, The University of Edinburgh. December.
+Dan Grossman , J. Gregory Morrisett, Scalable Certification for Typed Assembly Language, Selected papers from the Third International Workshop on Types in Compilation, p.117-146, September 21, 2000
+Gupta, D. 1994. On-line software version change. Ph.D. dissertation, Department of Computer Science and Engineering, Indian Institute of Technology, Kanpur.
+Deepak Gupta , Pankaj Jalote, On line software version change using state transfer between processes, Software—Practice & Experience, v.23 n.9, p.949-964, Sept. 1993[doi>10.1002/spe.4380230903]
+Deepak Gupta , Pankaj Jalote , Gautam Barua, A Formal Framework for On-line Software Version Change, IEEE Transactions on Software Engineering, v.22 n.2, p.120-131, February 1996[doi>10.1109/32.485222]
+Michael William Hicks , Scott M. Nettles, Dynamic software updating, University of Pennsylvania, Philadelphia, PA, 2001
+Michael Hicks , Jonathan T. Moore , Scott Nettles, Dynamic software updating, Proceedings of the ACM SIGPLAN 2001 conference on Programming language design and implementation, p.13-23, June 2001, Snowbird, Utah, USA[doi>10.1145/378795.378798]
+Michael W. Hicks , Stephanie Weirich , Karl Crary, Safe and Flexible Dynamic Linking of Native Code, Selected papers from the Third International Workshop on Types in Compilation, p.147-176, September 21, 2000
+Hjálmtýsson, G. and Gray, R. 1998. Dynamic C&plus;&plus; classes, a lightweight mechanism to update code in a running program. In Proceedings of the USENIX Annual Technical Conference. New Orelands, LA. 65--76.
+Christine Ruth Hofmeister, Dynamic reconfiguration of distributed applications, University of Maryland at College Park, College Park, MD, 1993
+Java 2002. The Java HotSpot virtual machine, v1.4.1, d2. Available at http://java.sun.com/products/hotspot/docs/whitepaper/Java_Hotspot_v1.4.%1/JHS_141_WP_d2a.pdf.
+Jeff Kramer , Jeff Magee, The Evolving Philosophers Problem: Dynamic Change Management, IEEE Transactions on Software Engineering, v.16 n.11, p.1293-1306, November 1990[doi>10.1109/32.60317]
+Insup Lee, Dymos: a dynamic modification system, The University of Wisconsin - Madison, 1983
+Jeff Magee , Morris Sloman, Constructing Distributed Systems in Conic, IEEE Transactions on Software Engineering, v.15 n.6, p.663-675, June 1989[doi>10.1109/32.24720]
+Malabarba, S., Pandey, R., Gragg, J., Barr, E., and Barnes, J. F. 2000. Runtime support for type-safe dynamic Java classes. In Proceedings of the 14th European Conference on Object-Oriented Programming. Sophia Antipolis, France. In Lecture Notes in Computer Science, vol. 1850.
+Morrisett, G., Crary, K., Glew, N., Grossman, D., Samuels, R., Smith, F., Walker, D., Weirich, S., and Zdancewic, S. 1999a. TALx86: A realistic typed assembly language. In Proceedings of the 2nd Workshop on Compiler Support for System Software. Atlanta, GA. 25--35.
+Greg Morrisett , David Walker , Karl Crary , Neal Glew, From system F to typed assembly language, ACM Transactions on Programming Languages and Systems (TOPLAS), v.21 n.3, p.527-568, May 1999[doi>10.1145/319301.319345]
+Mosberger, D. and Jin, T. 1998. HTTPERF: A tool for measuring web server performance. In Proceedings of the 1st Workshop on Internet Server Performance. Madison, WI. ACM, New York, 59--67.
+George C. Necula, Proof-carrying code, Proceedings of the 24th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.106-119, January 15-17, 1997, Paris, France[doi>10.1145/263699.263712]
+M. Oehler , R. Glenn, HMAC-MD5 IP Authentication with Replay Prevention, RFC Editor, 1997
+Vivek S. Pai , Peter Druschel , Willy Zwaenepoel, Flash: an efficient and portable web server, Proceedings of the annual conference on USENIX Annual Technical Conference, p.15-15, June 06-11, 1999, Monterey, California
+Pescovitz, D. 2000. Monsters in a box. Wired 8, 12, 341--347.
+Peterson, J., Hudak, P., and Ling, G. S. 1997. Principled dynamic code improvement. Tech. Rep. YALEU/DCS/RR-1135, Department of Computer Science, Yale University. July.
+Pratt, J. W. and Gibbons, J. D. 1981. Concepts of Nonparametric Theory. Springer-Verlag, New York.
+Balkrishna Ramkumar , Volker Strumpen, Portable Checkpointing for Heterogeneous Archtitectures, Proceedings of the 27th International Symposium on Fault-Tolerant Computing (FTCS '97), p.58, June 25-27, 1997
+Mark E. Segal , Ophir Frieder, On-the-Fly Program Modification: Systems for Dynamic Updating, IEEE Software, v.10 n.2, p.53-65, March 1993[doi>10.1109/52.199735]
+Peter Sewell, Modules, abstract types, and distributed versioning, Proceedings of the 28th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.236-247, January 2001, London, United Kingdom[doi>10.1145/360204.360225]
+Soules, C., Appavoo, J., Hui, K., Wisniewski, R. W., Silva, D. D., Ganger, G. R., Krieger, O., Stumm, M., Auslander, M., Ostrowski, M., Rosenburg, B., and Xenidis, J. 2003. System support for online reconfiguration. In Proceedings of the USENIX. San Antonio, TX. 141--154.
+D. L. Tennenhouse , J. M. Smith , W. D. Sincoskie , D. J. Wetherall , G. J. Minden, A survey of active network research, IEEE Communications Magazine, v.35 n.1, p.80-86, January 1997[doi>10.1109/35.568214]
+Tool Interface Standards Committee. 1995. Executable and Linking Format (ELF) specification.
+Tridgell, A. and Mackerras, P. 1996. The rsync algorithm. Tech. Rep. TR-CS-96-05, Canberra 0200 ACT, Australia. http://samba.anu.edu.au/rsync/.
+Webstone. 2001. Mindcraft---WebStone benchmark information. http://www.mindcraft.com/webstone.

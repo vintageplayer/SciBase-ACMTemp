@@ -1,0 +1,27 @@
+Roy H. Campbell , A. Nico Habermann, The specification of process synchronization by path expressions, Operating Systems, Proceedings of an International Symposium, p.89-102, April 23-25, 1974
+COLLIER, W. Principles of architecture for systems of parallel processes. IBM Tech. Rep. TR00.3100, Mar. 1981.
+DICKEY, S., KENNER, R., AND SN{R, M. An implementation of a combining network for the NYU Ultracomputer, Ultracomputer Note 93, New York University, New York, Jan. 1986.
+DICKEY, S., KENNER, R., SNIR, M., AND SOLWORTH, J. A VLSI combining network for the NYU Ultracomputer. In IEEE Proceedings of the International Con{erence on Computer Design, (Port Chester, N.Y., Oct. 1985). IEEE, New York, 1985, pp. 110-113.
+DIJKSTRA, E.W. Hierarchical ordering of sequential processes. Acta In{. 1 (1971), 115-138.
+DRAUOHON, E., GRISHMAN, R., SCHWARTZ, J., AND STEIN, A. Programming considerations for parallel computers. Rep. IMM 362, Courant Institute of Mathematical Sciences, New York University, New York, 1967.
+GAJSKI, D. D., AND PEIR, J.-K. Essential issues in multiprocessor systems. IEEE Comput. 18, 6 (June 1985), 9-28.
+GOTTLIEB, A., GRISHMAN, R., KRUSKAL, C. P., MCAULIFFE, K. P., RUDOLPH, L., AND SNIR, M. The NYU Ultracomputer--Designing an MIMD parallel computer. IEEE Trans. Comput. C-32, 2 (Feb. 1983), 75-89.
+Allan Gottlieb , Clyde P. Kruskal, Coordinating parallel processors: a partial unification, ACM SIGARCH Computer Architecture News, v.9 n.6, p.16-24, October 1981[doi>10.1145/859515.859517]
+Allan Gottlieb , Boris D. Lubachevsky , Larry Rudolph, Basic Techniques for the Efficient Coordination of Very Large Numbers of Cooperating Sequential Processors, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.2, p.164-189, April 1983[doi>10.1145/69624.357206]
+C. A. R. Hoare, Communicating sequential processes, Communications of the ACM, v.21 n.8, p.666-677, Aug. 1978[doi>10.1145/359576.359585]
+Richard E. Ladner , Michael J. Fischer, Parallel Prefix Computation, Journal of the ACM (JACM), v.27 n.4, p.831-838, Oct. 1980[doi>10.1145/322217.322232]
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+LAMPORT, L. How to make a multiprocessor computer that correctly executes multiprocess programs. IEEE Trans. Comput. C-28, 9 (Sept. 1979), 690-691.
+LAMPORT, L. On interprocess communication. Distrib. Comput. 1, 2 (Apr. 1986), 77-101.
+LEE, G., KRUSKAL, C. P., AND KUCK, D.J. The effectiveness of combining in multistage interconnection networks in the presence of 'hot spots'. In 1986 International Conference on Parallel Processing, (Aug. 1986). IEEE, New York, 1986, pp. 35-41.
+LYNCH, N., AND FISHER, M.J. On describing the behavior and implementation of distributed systems. Theor. Comput. Sci. 13, 1 (Jan. 1981), 17-43.
+James L. Peterson , Abraham Silberschatz, Operating system concepts (2nd ed.), Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1985
+PFISTER, G. H., ET AL. The IBM Research Parallel Processor Prototype (RP3): Introduction and architecture. In 1985 International Con{erence on Parallel Processing. IEEE, New York, 1985, pp. 784-772.
+PFISTER, G. H., ANO NORTON, A. 'Hot spot' contention and combining in multistage intercon-{ nection networks. IEEE Trans. Comput. C-34, 10 (Oct. 1985), 933-938.
+Randall Rettberg , Robert Thomas, Contention is no obstacle to shared-memory multiprocessing, Communications of the ACM, v.29 n.12, p.1202-1212, Dec. 1986[doi>10.1145/7902.7905]
+Lawrence S. Rudolph, Software structures for ultraparallel computing, 1982
+Charles L. Seitz, The cosmic cube, Communications of the ACM, v.28 n.1, p.22-33, Jan. 1985[doi>10.1145/2465.2467]
+Dennis Shasha , Marc Snir, Efficient and correct execution of parallel programs that share memory, ACM Transactions on Programming Languages and Systems (TOPLAS), v.10 n.2, p.282-312, April 1988[doi>10.1145/42190.42277]
+SMITH, B. J. Architectures and applications of the HEP multiprocessor computer system. Real- Time Signal Processing IV, Proceedings o{ SPIE. The International Society for Optical Engineering, 1981, pp. 241-248.
+Herbert Sullivan , T R Bashkow, A large scale, homogeneous, fully distributed parallel machine, I, Proceedings of the 4th annual symposium on Computer architecture, p.105-117, March 23-25, 1977[doi>10.1145/800255.810659]
+Chuan-Qi Zhu , Pen-Chung Yew, A scheme to enforce data dependence on large multiprocessor systems, IEEE Transactions on Software Engineering, v.13 n.6, p.726-739, June 1987[doi>10.1109/TSE.1987.233477]

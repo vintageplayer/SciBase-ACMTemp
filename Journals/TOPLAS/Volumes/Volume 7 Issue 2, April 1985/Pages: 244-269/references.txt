@@ -1,0 +1,31 @@
+Philip A. Bernstein , Nathan Goodman, Concurrency control algorithms for multiversion database systems, Proceedings of the first ACM SIGACT-SIGOPS symposium on Principles of distributed computing, p.209-215, August 18-20, 1982, Ottawa, Canada[doi>10.1145/800220.806699]
+BERNSTEIN, P., GOODMAN, N., AND LAI, M. Two-part proof schema for database concurrency control. In Proceedings of the 5th Berkeley Workshop on Distributed Data Management and Computer Networks, (Feb. 1981), 71-84.
+BEST, E., AND RANDELL, B. A formal model of atomicity in asynchronous systems. Acta Inf. 16 (1981), 93-124.
+DAHL, O.-J., ET AL. The Simula 67 common base language. Publication No. S-22, Norwegian Computing Center, Oslo, 1970.
+Charles T. Davies, Jr., Recovery semantics for a DB/DC system, Proceedings of the annual conference, p.136-141, August 27-29, 1973, Atlanta, Georgia, United States[doi>10.1145/800192.805694]
+DAVIES, C.T. Data processing spheres of control. IBM Syst. J. 17, 2 (1978), 179-198.
+ELLIS, C. Concurrent search and insertion in 2-3 trees. Acta Inf. 14 (1980), 63-86.
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+David K. Gifford, Weighted voting for replicated data, Proceedings of the seventh ACM symposium on Operating systems principles, p.150-162, December 10-12, 1979, Pacific Grove, California, United States[doi>10.1145/800215.806583]
+Jim Gray, Notes on Data Base Operating Systems, Operating Systems, An Advanced Course, p.393-481, January 1978
+Jim Gray , Paul McJones , Mike Blasgen , Bruce Lindsay , Raymond Lorie , Tom Price , Franco Putzolu , Irving Traiger, The Recovery Manager of the System R Database Manager, ACM Computing Surveys (CSUR), v.13 n.2, p.223-242, June 1981[doi>10.1145/356842.356847]
+John V. Guttag , Ellis Horowitz , David R. Musser, Abstract data types and software validation, Communications of the ACM, v.21 n.12, p.1048-1064, Dec. 1978[doi>10.1145/359657.359666]
+M. P. Herlihy, REPLICATION METHODS FOR ABSTRACT DATA TYPES, Massachusetts Institute of Technology, Cambridge, MA, 1984
+C. A. R. Hoare, Monitors: an operating system structuring concept, Communications of the ACM, v.17 n.10, p.549-557, Oct. 1974[doi>10.1145/355620.361161]
+Henry F. Korth, Locking Primitives in a Database System, Journal of the ACM (JACM), v.30 n.1, p.55-79, Jan. 1983[doi>10.1145/322358.322363]
+H. T. Kung , John T. Robinson, On optimistic methods for concurrency control, ACM Transactions on Database Systems (TODS), v.6 n.2, p.213-226, June 1981[doi>10.1145/319566.319567]
+Butler W. Lampson , David D. Redell, Experience with processes and monitors in Mesa, Communications of the ACM, v.23 n.2, p.105-117, Feb. 1980[doi>10.1145/358818.358824]
+Butler W. Lampson, Atomic Transactions, Distributed Systems - Architecture and Implementation, An Advanced Course, p.246-265, January 1981
+Barbara Liskov , Stephen Zilles, Programming with abstract data types, Proceedings of the ACM SIGPLAN symposium on Very high level languages, p.50-59, March 28-29, 1974, Santa Monica, California, United States[doi>10.1145/800233.807045]
+Barbara Liskov , Alan Snyder , Russell Atkinson , Craig Schaffert, Abstraction mechanisms in CLU, Communications of the ACM, v.20 n.8, p.564-576, Aug. 1977[doi>10.1145/359763.359789]
+Barbara Liskov, CLU Reference Manual, Springer-Verlag New York, Inc., Secaucus, NJ, 1983
+Barbara Liskov , Robert Scheifler, Guardians and Actions: Linguistic Support for Robust, Distributed Programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.3, p.381-404, July 1983[doi>10.1145/2166.357215]
+E. B. Moss, NESTED TRANSACTIONS: AN APPROACH TO RELIABLE DISTRIBUTED COMPUTING, Massachusetts Institute of Technology, Cambridge, MA, 1981
+Christos H. Papadimitriou, The serializability of concurrent database updates, Journal of the ACM (JACM), v.26 n.4, p.631-653, Oct. 1979[doi>10.1145/322154.322158]
+William H. Paxton, A client-based transaction system to maintain data integrity, Proceedings of the seventh ACM symposium on Operating systems principles, p.18-23, December 10-12, 1979, Pacific Grove, California, United States[doi>10.1145/800215.806565]
+D. P. Reed, NAMING AND SYNCHRONIZATION IN A DECENTRALIZED COMPUTER SYSTEM, Massachusetts Institute of Technology, Cambridge, MA, 1978
+Peter M. Schwarz , Alfred Z. Spector, Synchronizing shared abstract types, ACM Transactions on Computer Systems (TOCS), v.2 n.3, p.223-250, Aug. 1984[doi>10.1145/989.1188]
+H. Sturgis , J. Mitchell , J. Israel, Issues in the design and use of a distributed file system, ACM SIGOPS Operating Systems Review, v.14 n.3, p.55-69, July 1980[doi>10.1145/850697.850705]
+William Weihl , Barbara Liskov, Specification and implementation of resilient, atomic data types, Proceedings of the 1983 ACM SIGPLAN symposium on Programming language issues in software systems, p.53-64, June 27-29, 1983, San Francisco, California, United States[doi>10.1145/800226.806851]
+William E. Weihl, Data-dependent concurrency control and recovery (Extended Abstract), Proceedings of the second annual ACM symposium on Principles of distributed computing, p.63-75, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806710]
+W. E. Weihl, SPECIFICATION AND IMPLEMENTATION OF ATOMIC DATA TYPES, Massachusetts Institute of Technology, Cambridge, MA, 1984

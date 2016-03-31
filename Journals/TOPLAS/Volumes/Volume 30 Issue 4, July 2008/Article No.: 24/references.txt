@@ -1,0 +1,56 @@
+Shail Aditya , Alejandro Caro, Compiler-directed type reconstruction for polymorphic languages, Proceedings of the conference on Functional programming languages and computer architecture, p.74-82, June 09-11, 1993, Copenhagen, Denmark[doi>10.1145/165180.165192]
+Shail Aditya , Christine H. Flood , James E. Hicks, Garbage collection for strongly-typed languages using run-time type reconstruction, Proceedings of the 1994 ACM conference on LISP and functional programming, p.12-23, June 27-29, 1994, Orlando, Florida, USA[doi>10.1145/182409.182414]
+Amal Ahmed , Limin Jia , David Walker, Reasoning about Hierarchical Storage, Proceedings of the 18th Annual IEEE Symposium on Logic in Computer Science, p.33, June 22-25, 2003
+Andrew W. Appel, Foundational Proof-Carrying Code, Proceedings of the 16th Annual IEEE Symposium on Logic in Computer Science, p.247, June 16-19, 2001
+Appel, A. W. and Gonçalves, M. J. R. 1993. Hash-consing garbage collection. Tech. rep. CS-TR-412-93, Princeton University.
+Mordechai Ben-Ari, Algorithms for on-the-fly garbage collection, ACM Transactions on Programming Languages and Systems (TOPLAS), v.6 n.3, p.333-344, July 1984[doi>10.1145/579.587]
+Josh Berdine , Cristiano Calcagno , Peter W. O’Hearn, Symbolic execution with separation logic, Proceedings of the Third Asian conference on Programming Languages and Systems, November 02-05, 2005, Tsukuba, Japan[doi>10.1007/11575467_5]
+Bodil Biering , Lars Birkedal , Noah Torp-Smith, BI hyperdoctrines and higher-order separation logic, Proceedings of the 14th European conference on Programming Languages and Systems, p.233-247, April 04-08, 2005, Edinburgh, UK[doi>10.1007/978-3-540-31987-0_17]
+Lars Birkedal , Noah Torp-Smith , John C. Reynolds, Local reasoning about a copying garbage collector, Proceedings of the 31st ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.220-231, January 14-16, 2004, Venice, Italy[doi>10.1145/964001.964020]
+Hongseok Yang, Semantics of Separation-Logic Typing and Higher-Order Frame Rules, Proceedings of the 20th Annual IEEE Symposium on Logic in Computer Science, p.260-269, June 26-29, 2005[doi>10.1109/LICS.2005.47]
+Richard Bornat, Proving Pointer Programs in Hoare Logic, Proceedings of the 5th International Conference on Mathematics of Program Construction, p.102-126, July 03-05, 2000
+Bornat, R. 2003. Correctness of copydag via local reasoning. Private Communication.
+Bornat, R., Calcagno, C., and O'Hearn, P. 2004. Local reasoning, separation and aliasing. In Proceedings of the Conference on Semantics, Program Analysis, and Computing Environments (SPACE'04). Venice, Italy.
+Burdy, L. 2001. B vs Coq to prove a garbage collector. In Proceedings of the 14th International Conference on Theorem Proving in Higher Order Logics (TPHOLs'01). Lecture Notes in Computer Science, Vol. 2152. Springer Verlag.
+Cristiano Calcagno , Samin Ishtiaq , Peter W. O'Hearn, Semantic analysis of pointer aliasing, allocation and disposal in Hoare logic, Proceedings of the 2nd ACM SIGPLAN international conference on Principles and practice of declarative programming, p.190-201, September 20-23, 2000, Montreal, Quebec, Canada[doi>10.1145/351268.351291]
+Cristiano Calcagno , Peter O'Hearn , Richard Bornat, Program logic and equivalence in the presence of garbage collection, Theoretical Computer Science, v.298 n.3, p.557-581, 11 April 2003[doi>10.1016/S0304-3975(02)00868-X]
+C. J. Cheney, A nonrecursive list compacting algorithm, Communications of the ACM, v.13 n.11, p.677-678, Nov 1970[doi>10.1145/362790.362798]
+Coupet-Grimal, S. 2003. C. nouvet. J. Logic Comput. 13, 6, 815--833.
+Karl Crary , David Walker , Greg Morrisett, Typed memory management in a calculus of capabilities, Proceedings of the 26th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.262-275, January 20-22, 1999, San Antonio, Texas, USA[doi>10.1145/292540.292564]
+Edsger W. Dijkstra , Leslie Lamport , A. J. Martin , C. S. Scholten , E. F. M. Steffens, On-the-fly garbage collection: an exercise in cooperation, Communications of the ACM, v.21 n.11, p.966-975, Nov. 1978[doi>10.1145/359642.359655]
+Fluet, M. and Wang, D. 2004. Implementation and performance evaluation of a safe runtime system in Cyclone. In Informal Proceedings of the 2nd Workshop on Semantics, Program Analysis and Computing Environments for Memory Management (SPACE'04). Venice, Italy. ACM/SIGPLAN.
+Goto, E. 1974. Monocopy and associative algorithms in extended lisp. Tech. rep. TR 74-03, University of Tokyo.
+David Gries , Gary Levin, Assignment and Procedure Call Proof Rules, ACM Transactions on Programming Languages and Systems (TOPLAS), v.2 n.4, p.564-579, Oct. 1980[doi>10.1145/357114.357119]
+Joshua D. Guttman , John D. Ramsdell , Mitchell Wand, VLISP: a verified implementation of Scheme, Lisp and Symbolic Computation, v.8 n.1-2, p.5-32, March 1995[doi>10.1007/BF01128406]
+Guttmann, J. D., Monk, L. G., Ramsdell, J. D., Farmer, W. M., and Swarup, V. 1992. A guide to VLISP, a verified programming language implementation. Tech. rep. M92B091, The MITRE Corporation.
+Niels Hallenberg , Martin Elsman , Mads Tofte, Combining region inference and garbage collection, Proceedings of the ACM SIGPLAN 2002 Conference on Programming language design and implementation, June 17-19, 2002, Berlin, Germany[doi>10.1145/512529.512547]
+Klaus Havelund, Mechanical Verification of a Garbage Collector, Proceedings of the 11 IPPS/SPDP'99 Workshops Held in Conjunction with the 13th International Parallel Processing Symposium and 10th Symposium on Parallel and Distributed Processing, p.1258-1283, April 12-16, 1999
+Hawblitzel, C., Wei, E., Huang, H., Krupski, E., and Wittie, L. 2004. Low-level linear memory management. In Proceedings of the Conference on Semantics, Program Analysis, and Computing Environments (SPACE'04). Venice, Italy.
+C. A. R. Hoare, An axiomatic basis for computer programming, Communications of the ACM, v.12 n.10, p.576-580, Oct. 1969[doi>10.1145/363235.363259]
+Paul B. Jackson, Verifying a Garbage Collection Algorithm, Proceedings of the 11th International Conference on Theorem Proving in Higher Order Logics, p.225-244, September 27-October 01, 1998
+Trevor Jim , J. Greg Morrisett , Dan Grossman , Michael W. Hicks , James Cheney , Yanling Wang, Cyclone: A Safe Dialect of C, Proceedings of the General Track of the annual conference on USENIX Annual Technical Conference, p.275-288, June 10-15, 2002
+Mehta, F. and Nipkow, T. 2003. Proving pointer programs in higher-order logic. In Proceedings of the Conference on Automated Deduction (CADE-19).
+Monnier, S. and Shao, Z. 2002. Typed regions. Tech. rep. YALEU/DCS/TR-1242, Department of Computer Science, Yale University, New Haven, CT.
+Greg Morrisett , Matthias Felleisen , Robert Harper, Abstract models of memory management, Proceedings of the seventh international conference on Functional programming languages and computer architecture, p.66-77, June 26-28, 1995, La Jolla, California, USA[doi>10.1145/224164.224182]
+Greg Morrisett , David Walker , Karl Crary , Neal Glew, From system F to typed assembly language, ACM Transactions on Programming Languages and Systems (TOPLAS), v.21 n.3, p.527-568, May 1999[doi>10.1145/319301.319345]
+George C. Necula, Proof-carrying code, Proceedings of the 24th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.106-119, January 15-17, 1997, Paris, France[doi>10.1145/263699.263712]
+George C. Necula , Peter Lee, Safe kernel extensions without run-time checking, Proceedings of the second USENIX symposium on Operating systems design and implementation, p.229-243, October 29-November 01, 1996, Seattle, Washington, USA[doi>10.1145/238721.238781]
+O'Hearn, P. W. 2004. Resources, concurrency and local reasoning. In Proceedings of the 15th International Conference on Concurrency Theory (CONCUR'04), Lecture Notes in Computer Science, vol. 3170, 49--67.
+O'Hearn, P. W., Reynolds, J. C., and Yang, H. 2001. Local reasoning about programs that alter data structures. In Proceedings of the Annual Conference of the European Association for Computer Science Logic (CSL'01). Berlin, Germany.
+Owicki, S. and Gries, D. 1976. An axiomatic proof technique for parallel programs. Acta Informatica 6, 4, 319--340.
+Leaf Petersen , Robert Harper , Karl Crary , Frank Pfenning, A type theory for memory allocation and data layout, Proceedings of the 30th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.172-184, January 15-17, 2003, New Orleans, Louisiana, USA[doi>10.1145/604131.604147]
+Pixley, C. 1988. An incremental garbage collection algorithm for multimutator systems. Distrib. Comput. 3, 1, 41--50.
+Pym, D. 2002. The Semantics and Proof Theory of the Logic of Bunched Implications. Applied Logics Series. vol. 26, Kluwer.
+John C. Reynolds, The  Craft of Programming, Prentice Hall PTR, Upper Saddle River, NJ, 1981
+John C. Reynolds, Separation Logic: A Logic for Shared Mutable Data Structures, Proceedings of the 17th Annual IEEE Symposium on Logic in Computer Science, p.55-74, July 22-25, 2002
+Russinoff, D. M. 1994. A mechanically verified incremental garbage collector. Formal Aspects Comput. 6, 359--390.
+Smith, F., Walker, D., and Morrisett, G. 2000. Alias types. In Proceedings of the 9th European Symposium on Programming Languages and Systems (ESOP'00). Berlin, Germany. 366--381.
+Gareth Stoyle , Michael Hicks , Gavin Bierman , Peter Sewell , Iulian Neamtiu, Mutatis mutandis: safe and predictable dynamic software updating, Proceedings of the 32nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.183-194, January 12-14, 2005, Long Beach, California, USA[doi>10.1145/1040305.1040321]
+Swarup, V., Farmer, W. M., Guttmann, J. D., Monk, L. G., and Ramsdell, J. D. 1992. The VLISP byte-code interpreter. Tech. rep. M 92B096, The MITRE Corporation.
+Mads Tofte , Lars Birkedal, A region inference algorithm, ACM Transactions on Programming Languages and Systems (TOPLAS), v.20 n.4, p.724-767, July 1998[doi>10.1145/291891.291894]
+Mads Tofte , Lars Birkedal , Martin Elsman , Niels Hallenberg, A Retrospective on Region-Based Memory Management, Higher-Order and Symbolic Computation, v.17 n.3, p.245-265, September 2004[doi>10.1023/B:LISP.0000029446.78563.a4]
+Mads Tofte , Jean-Pierre Talpin, Implementation of the typed call-by-value λ-calculus using a stack of regions, Proceedings of the 21st ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.188-201, January 16-19, 1994, Portland, Oregon, USA[doi>10.1145/174675.177855]
+Philip L. Wadler, Analysis of an algorithm for real time garbage collection, Communications of the ACM, v.19 n.9, p.491-500, Sept. 1976[doi>10.1145/360336.360338]
+Daniel C. Wang , Andrew W. Appel, Type-preserving garbage collectors, Proceedings of the 28th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.166-178, January 2001, London, United Kingdom[doi>10.1145/360204.360218]
+Weber, T. 2004. Towards mechanized program verification with separation logic. In Proceedings of the Annual Conference of the European Association for Computer Science Logic (CSL'04). Karpacz, Poland.
+Hongseok Yang , Uday S. Reddy, Local reasoning for stateful programs, University of Illinois at Urbana-Champaign, Champaign, IL, 2001

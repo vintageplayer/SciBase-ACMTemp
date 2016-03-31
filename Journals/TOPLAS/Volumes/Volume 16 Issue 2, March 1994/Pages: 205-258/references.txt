@@ -1,0 +1,63 @@
+Jeffrey M. Barth, Shifting garbage collection overhead to compile time, Communications of the ACM, v.20 n.7, p.513-518, July 1977[doi>10.1145/359636.359713]
+~BIM 1990. ProLog by BIM--3.0.--Reference Manual. B-3078, BIM, Everberg, Belgium.
+~BOIZUMAULT, P. 1988. PROLOG L'Implantation Masson, Paris. In French.
+Maurice Bruynooghe, A practical framework for the abstract interpretation of logic programs, Journal of Logic Programming, v.10 n.2, p.91-124, Feb. 1991[doi>10.1016/0743-1066(91)80001-T]
+~BRUYNOOGHE, M., AND JANSSENS, G. 1988. An instance of abstract interpretation integrating ~type and mode inferencing. In Proceedings of the 5th international Conference and Symposium ~on Logic Programming. MIT Press, Cambridge, Mass, 669-683.
+~BRUYNOOGHE, M., AND WINSBOROUGH, W. 1992. Type graph unification. Rep. CW160, Dept. of ~Computer Science, Katholieke Universiteit Leuven, Belgium.
+~BRUYNOOGHE, M., JANSSENS, G., CALLEBAUT, A., AND DEMOEN, B. 1987. Abstract interpretation: ~Towards the global optimization of Prolog programs. In Proceedings of the 4th Symposium on ~Logzc Programming. IEEE Computer Society Press, Los Alamitos, Calif, 192-204.
+~BURTON, B., GUDJONSSON, G., AND WINSBOROUGH, W. 1992. An algorithm for computing alter- ~nating closure. Tech. Rep. CS-92-15, Dept. of Computer Science, The Pennsylvania State Univ, ~University Park, Pa.
+David R. Chase , Mark Wegman , F. Kenneth Zadeck, Analysis of pointers and structures, ACM SIGPLAN Notices, v.25 n.6, p.296-310, Jun. 1990[doi>10.1145/93548.93585]
+~CODISH, M., DAMS, D., AND YARDENI, E. 1991. Derivation and safety of an abstract unification~ ~algorithm for groundness and aliasing analysis. In Proceedings of the 8th International ~Conference on Logic Programmzng. MIT Press, Cambridge, Mass., 79-93.
+~CODISH, M., DAMS, D., AND YARDENI, E. 1990. Abstract unification and a bottom-up analysis to ~detect aliasing in logic programs. Tech. Rep. CS90-10, Dept. of Computer Science. Weizmann ~Institute of Science, Israel.
+~COLMERAUER, A. 1982. Prolog and infinite trees. In Logw Programming. Academic Press, New ~York, 231- 251.
+~CORTESI, A., AND FIL}~, G. 1991 Abstract interpretation of Prolog. The treatment of the ~built-ins. Rapporto Interno 11, Dept. of Mathematics, Univ. of Padoua.
+~CORTESI, n., FIL}~, G., AND WINSBOROUGH, W. 1991. Prop revisited: Propositional formula as ~abstract domain for groundness analysis. In Proceedtngs of the 6th Annual IEEE Symposium ~on Logic in Computer Science. IEEE Computer Society Press, Los Alamltos, Calif., 322-327.
+~Couso% P. 1981. Semantic foundations of program analysis. In Program Flow Analysis: ~Theory and Applications. Prentice-Hall, Englewood Cliffs, N.J., 303-342
+Patrick Cousot , Radhia Cousot, Comparing the Galois Connection and Widening/Narrowing Approaches to Abstract Interpretation, Proceedings of the 4th International Symposium on Programming Language Implementation and Logic Programming, p.269-295, August 26-28, 1992
+Patrick Cousot , Radhia Cousot, Abstract interpretation: a unified lattice model for static analysis of programs by construction or approximation of fixpoints, Proceedings of the 4th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.238-252, January 17-19, 1977, Los Angeles, California[doi>10.1145/512950.512973]
+Saumya K. Debray, Efficient dataflow analysis of logic programs, Journal of the ACM (JACM), v.39 n.4, p.949-984, Oct. 1992[doi>10.1145/146585.146624]
+~DEBRAY, S. K., AND WARREN, D.S. 1986a. Automatic mode inference for Prolog programs. In ~Proceedtngs of the 3rd Symposium on Logic Programming. IEEE Computer Society Press. Los ~Alamitos, Calif., 78-88.
+Saumya K Debray , David S Warren, Detection and optimization of functional computations in Prolog, Proceedings on Third international conference on logic programming, p.490-504, September 1986, London, United Kingdom
+~FOSTER, I. 1989. Copy avoidance through local reuse. Tech. Rep. Preprint MCS-P99-0989, ~Mathematics and Computer Science D~v., Argonne National Lab
+~FOSTER, I., AND WINSBOROUGH, W. 1991. Copy avoidance through compile-time analysis and ~local reuse. In Proceedings of the International Logic Programming Symposium MIT Press~ ~Cambridge, Mass., 455-469.
+GECSEC, F., AND STEINDY, M. 1984. Tree Automata. Akad(Smiai Kiad5.
+S. Horwitz , P. Pfeiffer , T. Reps, Dependence analysis for pointer variables, ACM SIGPLAN Notices, v.24 n.7, p.28-40, July 1989[doi>10.1145/74818.74821]
+~HUDAK, P. 1987. A semantic model for reference counting and its abstraction. In Abstract ~Interpretation of Declarative Languages. Ellis Horwood, Chichester, 45-62.
+Paul Hudak , Adrienne Bloss, The aggregate update problem in functional programming systems, Proceedings of the 12th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.300-314, January 14-16, 1985, New Orleans, Louisiana, United States[doi>10.1145/318593.318660]
+Gérard Huet, Confluent Reductions: Abstract Properties and Applications to Term Rewriting Systems: Abstract Properties and Applications to Term Rewriting Systems, Journal of the ACM (JACM), v.27 n.4, p.797-821, Oct. 1980[doi>10.1145/322217.322230]
+Katsuro Inoue , Koji Torii, Implementation and analysis of compile-time garbage collection, New Generation Computing, v.10 n.1, p.101-119, 1991[doi>10.1007/BF03037524]
+Katsuro Inoue , Hiroyuki Seki , Hikaru Yagi, Analysis of functional programs to detect run-time garbage cells, ACM Transactions on Programming Languages and Systems (TOPLAS), v.10 n.4, p.555-578, Oct. 1988[doi>10.1145/48022.48025]
+~JACOBS, D., AND LANGEN, A. 1989. Accurate and efficient approximation of variable aliasing in ~logic programs. In Proceedings of the North American Conference on Logic Programming. MIT ~Press, Cambridge, Mass., 154-165.
+~JANSSENS, G. 1990. Deriving run time properties of logic programs by means of abstract ~interpretation. Ph.D. thesis, Dept. of Computer Science, Katholieke Univ. Leuven, Belgium.
+G. Janssens , M. Bruynooghe, Deriving descriptions of possible values of program variables by means of abstract interpretation, Journal of Logic Programming, v.13 n.2-3, p.205-258, July 1992[doi>10.1016/0743-1066(92)90032-X]
+~JANSSENS, G., DEMOEN, B., AND WILLEMS, Y. 1987. Execution mechanism for Prolog. Rep. ~CW53, Dept. of Computer Science, Katholieke Univ. Leuven, Belgium.
+T. P. Jensen , T. Æ Mogensen, A backwards analysis for compile-time garbage collection, Proceedings of the third European symposium on programming on ESOP '90, p.227-239, May 1990, Copenhagen, Denmark
+~JONES, N. D., AND MUCHNICK, S.S. 1981. Flow analysis and optimization of LISP-like struc- ~tures. In Program Flow Analysis: Theory and Applications. Prentice-Hall, Englewood Cliffs, ~N.J., 102-131.
+~JONES, N. D., AND SgINDERGAARD, H. 1987. A semantic-based framework for the abstract ~interpretation of Prolog. In Abstract Interpretation of Declarative Languages. Ellis Horwood, ~Chichester, 123-142.
+~KLUZNIAK, F. 1988. Compile-time garbage collection for ground Prolog. In Proceedings of the ~5th International Conference and Symposium on Logic Programming. MIT Press, Cambridge, ~Mass., 1490-1505.
+~KLU~NIAK, F. 1987. Type synthesis for ground Prolog. In Proceedings of the 4th International ~Conference on Logic Programming. MIT Press, Cambridge, Mass., 788-816.
+J. R. Larus , P. N. Hilfinger, Detecting conflicts between structure accesses, Proceedings of the ACM SIGPLAN 1988 conference on Programming Language design and Implementation, p.24-31, June 20-24, 1988, Atlanta, Georgia, United States[doi>10.1145/53990.53993]
+J.-L. Lassez , M. J. Maher , K. Marriott, Unification revisited, Foundations of deductive databases and logic programming, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1988
+~MARI~:N, A., JANSSENS, G., MULKERS, A., AND BRUYNOOGHE, M. 1989. The impact of abstract ~interpretation: An experiment in code generation. In Proceedings of the 6th International ~Conference on Logtc Programmtng. MIT Press, Cambridge, Mass., 33-47.
+~MARRIOTT, K., AND SCtNDERGAARD, H. 1989. Semantics-based dataflow analysis of logic pro- ~grams. In Information Processing 89. North-Holland, New York, 601-606.
+~MELLtSH, C.S. 1987. Abstract interpretation of Prolog programs. In Abstract Interpretation of ~Declarative Languageg. Elli~ I-Iorwood, Chich~t~r, 181-198_
+~MELLiSH, C.S. 1985. Some global optimizations for a Prolog compiler, j. Logic Program. 2, ~43-66.
+~MULKERS, A. 1991. Deriving live data structures in logic programs by means of abstract ~interpretation. Ph.D. thesis, Dept. of Computer Science, Katholieke Univ. Leuven, Belgium. To ~appear in Lecture Notes in Computer Scwnce, vol. 675.
+~MULKERS, A., WlNSBOROUGH, W., AND BRUYNOOGHE, M. 1993. A live-structure data-flow analy- ~sis for Prolog: Theory. Rep. CW167, Dept. of Computer Science, Katholieke Univ. Leuven, ~Belgium.
+~MULKERS, A., WINSBOROUGH, W., AND BRUYNOOGHE, M. 1992. Static analysis of logic programs ~to detect run-time garbage cells. In Proceedings of the Internatmnal Conference on Computer ~Systems and Software Engineering. IEEE Computer Society Press, Los Alamitos, Calif., ~526-531.
+Anne Mulkers , William Winsborough , Maurice Bruynooghe, Analysis of shared data structures for compile-time garbage collection in logic programs, Logic programming, MIT Press, Cambridge, MA, 1990
+~MULKERS, A., WINSBOROUGH, W., AND BRUYNOOGHE, M. 1990b. Analysis of shared data struc- ~tures for compile-time garbage collection in logic programs (extended version). Rep. CWll7, ~Dept. of Computer Science, Katholieke Univ. Leuven, Belgium.
+~MUTHUKUMAR, K., AND HERMENEGILDO, M. 1989. Determination of variable dependence infor- ~mation through abstract interpretation. In Proceedings of the North American Conference on ~Logic Programming. MIT Press, Cambridge, Mass., 166-185.
+Ulf Nilsson, Systematic Semantic Approximations of Logic Programs, Proceedings of the 2nd International Workshop on Programming Language Implementation and Logic Programming, p.293-306, August 20-22, 1990
+Young Gil Park , Benjamin Goldberg, Escape analysis on lists, ACM SIGPLAN Notices, v.27 n.7, p.116-127, July 1992[doi>10.1145/143103.143125]
+~PLAISTED, D.A. 1984. The occur-check problem m Prolog. J. New Gen. Comput. 2, 4, 309-322.
+H Sondergaard, An application of abstract interpretation of logic programs: occur check reduction, Proc. of the European symposium on programming on ESOP 86, p.327-338, March 1986, Saarbru:9Aicken, Germany
+~TARSKL A. 1955. A lattice-theoretical fixpoint theorem and its applications. Paciftc J. Math. 5, ~285-309.
+~TAYLOR, A. 1991. High performance Prolog implementation. Ph.D. thesis, Univ. of Sydney, ~Australia.
+Andrew Taylor, LIPS on MIPS: results from Prolog compiler for a RISC, Logic programming, MIT Press, Cambridge, MA, 1990
+~TAYLOR, A. 1989. Removal of dereferencing and trailing in Prolog compilation. In Proceedzngs ~of the 6th International Conference on Logic Programming. MIT Press, Cambridge, Mass., ~48-60.
+~VAN CANEGHEM, M. 1986. L'Anatomie de Prolog. InterEditions. In French.
+Peter Lodewijk Van Roy, Can logic programming execute as fast as imperative programming?, University of California at Berkeley, Berkeley, CA, 1991
+Peter Van Roy , Alvin M. Despain, The benefits of global dataflow analysis for an optimizing Prolog compiler, Proceedings of the 1990 North American conference on Logic programming, p.501-515, January 1990, Austin, Texas, United States
+VATAJA, P., AND UKKONEN, E. 1984. Finding temporary terms in Prolog programs. In Proceed- ~~ng~ of the International Conference on Fifth Generation Computer Sy~tern~ Ohm~ha, LTD and ~North-Holland, Tokyo/Amsterdam, 275-282.
+WARREN, D. H. D. 1983. An abstract Prolog instruction set. Tech. Rep., SRI International, ~Artificial Intelligence Center, Menlo Park, Calif.

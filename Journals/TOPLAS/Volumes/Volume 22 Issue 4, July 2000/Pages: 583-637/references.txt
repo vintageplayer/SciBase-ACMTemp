@@ -1,0 +1,54 @@
+Martin Alt , Uwe Aßmann , Hans van Someren, Cosy Compiler Phase Embedding with the CoSy Compiler Model, Proceedings of the 5th International Conference on Compiler Construction, p.278-293, April 07-09, 1994
+Martin Alt , Florian Martin, Generation of Efficient Interprocedural Analyzers with PAG, Proceedings of the Second International Symposium on Static Analysis, p.33-50, September 25-27, 1995
+Z. M. Ariola , Arvind, Graph rewriting systems for efficient compilation, Term graph rewriting: theory and practice, John Wiley and Sons Ltd., Chichester, 1993
+Uwe Aßmann, On Edge Addition Rewrite Systems and their Relevance to Program Analysis, Selected papers from the 5th International Workshop on Graph Gramars and Their Application to Computer Science, p.321-335, November 13-18, 1994
+Assmann, U. 1995. Generierung von Programmoptimierungen mit Graphersetzungssystemen. Oldenbourg, M~nchen. GMD-Bericht 262.
+Assmann, U. 1996. OPTIMIX Language Manual (for OPTIMIX 2.0). Tech. Rep. RT-0195, INRIA Rocquencourt. Available at http://www-rocq.inria.fr/doc/ or http://i44www.info.unikarlsruhe.de/~assmann{/optimix.html}.
+Rolf Bahlke , Gregor Snelting, The PSG system: from formal language definitions to interactive programming environments, ACM Transactions on Programming Languages and Systems (TOPLAS), v.8 n.4, p.547-576, Oct. 1986[doi>10.1145/6465.20890]
+J. A. Bergstra , Jan Heering , Paul Klint, Algebraic specification, ACM, New York, NY, 1989
+David Binkley, Interprocedural Constant Propagation using Dependence Graphs and a Data-Flow Model, Proceedings of the 5th International Conference on Compiler Construction, p.374-388, April 07-09, 1994
+Blostein, D., Fahmy, H., and Grbavec, A. 1994a. Practical Use of Graph Rewriting. Technical Report Queens University, Kingston, Ontario.
+Dorothea Blostein , Hoda Fahmy , Ann Grbavec, Issues in the Practical Use of Graph Rewriting, Selected papers from the 5th International Workshop on Graph Gramars and Their Application to Computer Science, p.38-55, November 13-18, 1994
+Stefano Ceri , Georg Gottlob , Letizia Tanca, Logic programming and databases, Springer-Verlag New York, Inc., New York, NY, 1990
+S. Ceri , G. Gottlob , L. Tanca, What You Always Wanted to Know About Datalog (And Never Dared to Ask), IEEE Transactions on Knowledge and Data Engineering, v.1 n.1, p.146-166, March 1989[doi>10.1109/69.43410]
+Fred C. Chow , Sun Chan , Shin-Ming Liu , Raymond Lo , Mark Streich, Effective Representation of Aliases and Indirect Memory Operations in SSA Form, Proceedings of the 6th International Conference on Compiler Construction, p.253-267, April 24-26, 1996
+Steven Dawson , C. R. Ramakrishnan , David S. Warren, Practical program analysis using general purpose logic programming systems—a case study, ACM SIGPLAN Notices, v.31 n.5, p.117-126, May 1996[doi>10.1145/249069.231399]
+Nachum Dershowitz , Jean-Pierre Jouannaud, Rewrite systems, Handbook of theoretical computer science (vol. B): formal models and semantics, MIT Press, Cambridge, MA, 1991
+Heiko Dorr, Efficient Graph Rewriting and Its Implementation, Springer-Verlag New York, Inc., Secaucus, NJ, 1995
+Hartmut Ehrig , Martin Korff , Michael Löwe, Tutorial Introduction to the Algebraic Approach of Graph Grammars Based on Double and Single Pushouts, Proceedings of the 4th International Workshop on Graph-Grammars and Their Application to Computer Science, p.24-37, March 05-09, 1990
+Emmelmann, H. 1992. Code selection by regularly controled term rewriting. In Code Generation - Concepts, Tools, Techniques, R. Giegerich and S. Graham, Eds. Workshops in Computing. Springer Verlag, Heidelberg.
+John Field , G. Ramalingam , Frank Tip, Parametric program slicing, Proceedings of the 22nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.379-392, January 23-25, 1995, San Francisco, California, USA[doi>10.1145/199448.199534]
+Grosch, J. 1992. AG - An Attribute Evaluator Generator. Tech. rep., Gesellschaft fuer Mathematik und Datenverarbeitung, Forschungstelle Karlsruhe. Aug. Language Manual.
+David Harel, On visual formalisms, Communications of the ACM, v.31 n.5, p.514-530, May 1988[doi>10.1145/42411.42414]
+Larry G. Jones, Efficient evaluation of circular attribute grammars, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.3, p.429-462, July 1990[doi>10.1145/78969.78971]
+Jourdan, M. and Parigot, D. 1991. The FNC-2 System User's Guide and Reference Manual. INRIA Rocquencourt.
+J. R. Kennaway , J. W. Klop , M. R. Sleep , F. J. de Vries, On the adequacy of graph rewriting for simulating term rewriting, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.3, p.493-523, May 1994[doi>10.1145/177492.177577]
+Jens Knoop , Oliver Rüthing , Bernhard Steffen, Optimal code motion: theory and practice, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.4, p.1117-1155, July 1994[doi>10.1145/183432.183443]
+Jens Knoop , Bernhard Steffen, The Interprocedural Coincidence Theorem, Proceedings of the 4th International Conference on Compiler Construction, p.125-140, October 05-07, 1992
+Kock, G. 1992. Spezifikation und Verifikation von Optimierungsalgorithmen. GMD Berichte, vol. 201. Oldenbourg, M~nchen.
+T. J. Marlowe , B. G. Ryder, Properties of data flow frameworks: a unified model, Acta Informatica, v.28 n.2, p.121-163, Dec. 1990[doi>10.1007/BF01237234]
+E. Morel , C. Renvoise, Global optimization by suppression of partial redundancies, Communications of the ACM, v.22 n.2, p.96-103, Feb. 1979[doi>10.1145/359060.359069]
+Nagl, M. 1979. Graph-Grammatiken, Theorie, Implementierung, Anwendungen. Vieweg, Braunschweig.
+Newman, M. 1942. On theories with a combinatorial definition of equivalence. Annals of Mathematics 43, 2, 223-243.
+Martin Odersky, Defining context-dependent syntax without using contexts, ACM Transactions on Programming Languages and Systems (TOPLAS), v.15 n.3, p.535-562, July 1993[doi>10.1145/169683.174159]
+Shlomit S. Pinter , Ron Y. Pinter, Program optimization and parallelization using idioms, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.3, p.305-327, May 1994[doi>10.1145/177492.177494]
+Plump, D. 1993a. Evaluation of Functional Expresions by Hypergraph Rewriting. Ph.D. thesis, Universit~t Bremen.
+Detlef Plump, Hypergraph rewriting: critical pairs and undecidability of confluence, Term graph rewriting: theory and practice, John Wiley and Sons Ltd., Chichester, 1993
+Detlef Plump, On Termination of Graph Rewriting, Proceedings of the 21st International Workshop on Graph-Theoretic Concepts in Computer Science, p.88-100, June 20-22, 1995
+Thomas Reps , Susan Horwitz , Mooly Sagiv, Precise interprocedural dataflow analysis via graph reachability, Proceedings of the 22nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.49-61, January 23-25, 1995, San Francisco, California, USA[doi>10.1145/199448.199462]
+Thomas W. Reps , Tim Teitelbaum, The synthesizer generator: a system for constructing language-based editors, Springer-Verlag New York, Inc., New York, NY, 1989
+Sch~rr, A. 1991. Operationales Spezifizieren mit programmierten Graphersetzungssystemen. Ph.D. thesis, Universit~t Aachen, Deutscher Universit~ts-Verlag.
+Andy Schürr , Andreas J. Winter , Albert Zündorf, Graph Grammar Engineering with PROGRES, Proceedings of the 5th European Software Engineering Conference, p.219-234, September 25-28, 1995
+Sharir, M. and Pnueli, A. 1981. Two approaches to interprocedural data flow analysis. In Program Flow Analysis, S. Muchnick and N. Jones, Eds. Prentice Hall, Englewood Cliffs, NJ.
+M. R. Sleep , M. J. Plasmeijer , M. C. J. D. van Eekelen, Term graph rewriting: theory and practice, John Wiley and Sons Ltd., Chichester, 1993
+Bernhard Steffen, Data Flow Analysis as Model Checking, Proceedings of the International Conference on Theoretical Aspects of Computer Software, p.346-365, September 24-27, 1991
+Robert Endre Tarjan, A Unified Approach to Path Problems, Journal of the ACM (JACM), v.28 n.3, p.577-593, July 1981[doi>10.1145/322261.322272]
+Steven W. K. Tjiang , John L. Hennessy, Sharlit—a tool for building optimizers, ACM SIGPLAN Notices, v.27 n.7, p.82-93, July 1992[doi>10.1145/143103.143120]
+Ullman, J. D. 1994. Assigning an appropriate meaning to database logic with negation. In Computers as Our Better Partners, H. Yamada, Y. Kambayashi, and S. Ohta, Eds. World Scientific Press, Singapore, 216-225.
+Marko C. J. D. van Eekelen , Marinus J. Plasmeijer, Constructing Medium Sized Efficient Functional Programs in Clean, Advanced Functional Programming, First International Spring School on Advanced Functional Programming Techniques-Tutorial Text, p.183-227, May 24-30, 1995
+G. A. Venkatesh, A framework for construction and evaluation of high-level specifications for program analysis techniques, Proceedings of the ACM SIGPLAN 1989 Conference on Programming language design and implementation, p.1-12, June 19-23, 1989, Portland, Oregon, USA[doi>10.1145/73141.74819]
+H. H. Vogt , S. D. Swierstra , M. F. Kuiper, Higher order attribute grammars, ACM SIGPLAN Notices, v.24 n.7, p.131-145, July 1989[doi>10.1145/74818.74830]
+Vollmer, J. and Hoffart, R. 1992. Modula-P, a language for parallel programming: Definition and implementation on a transputer network. In Proceedings of the 1992 International Conference on Computer Languages ICCL'92, Oakland, California. IEEE, IEEE Computer Society Press, Los Alamitos, CA, 54-64.
+Vollmer, J., van Someren, H., and Libourel, M. 1993. CCMIR Definition. Tech. rep., COM- PARE Consortium. Contact info@ace.nl.
+Deborah Whitfield , Mary Lou Soffa, Automatic generation of global optimizers, ACM SIGPLAN Notices, v.26 n.6, p.120-129, June 1991[doi>10.1145/113446.113456]
+Z~rndorf, A. 1995. Eine Entwicklungsumgebung f~r PROgrammierte GRaphErsetzungsSysteme. Ph.D. thesis, Universit~t Aachen (RWTH).

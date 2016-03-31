@@ -1,0 +1,14 @@
+We consider integer arithmetic modulo a power of 2 as provided
+by mainstream programming languages like Java or standard
+implementations of C. The difficulty here is that, forw> 1, the ringZmof integers modulom= 2whas zero divisors and thus cannot
+be embedded into a field. Not withstanding that, we present intra-
+and interprocedural algorithms for inferring for every program
+pointuaffine relations between program variables valid atu. If conditional branching is replaced with
+nondeterministic branching, our algorithms are not only sound but
+alsocompletein that they detectallvalid affine
+relations in a natural class of programs. Moreover, they run in
+time linear in the program size and polynomial in the number of
+program variables and can be implemented by using the same modular
+integer arithmetic as the target language to be analyzed. We also
+indicate how our analysis can be extended to deal with equality
+guards, even in an interprocedural setting.
