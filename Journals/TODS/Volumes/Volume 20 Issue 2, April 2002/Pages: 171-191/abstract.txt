@@ -1,0 +1,15 @@
+We present a new algorithm for duplicate document detection that
+uses collection statistics. We compare our approach with the
+state-of-the-art approach using multiple collections. These
+collections include a 30 MB 18,577 web document collection
+developed by Excite@Home and three NIST collections. The first NIST
+collection consists of 100 MB 18,232 LA-Times documents, which is
+roughly similar in the number of documents to the
+Excite&at;Home collection. The other two collections are both 2
+GB and are the 247,491-web document collection and the TREC disks 4
+and 5---528,023 document collection. We show that our approach
+called I-Match, scales in terms of the number of documents and
+works well for documents of all sizes. We compared our solution to
+the state of the art and found that in addition to improved
+accuracy of detection, our approach executed in roughly one-fifth
+the time.

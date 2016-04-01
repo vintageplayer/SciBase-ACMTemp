@@ -1,0 +1,23 @@
+Information derived from the cross-references among the documents
+in a hyperlinked environment, usually referred to as link
+information, is considered important since it can be used to
+effectively improve document retrieval. Depending on the retrieval
+strategy, link information can be local or global. Local link
+information is derived from the set of documents returned as
+answers to the current user query. Global link information is
+derived from all the documents in the collection. In this work, we
+investigate how the use of local link information compares to the
+use of global link information. For the comparison, we run a series
+of experiments using a large document collection extracted from the
+Web. For our reference collection, the results indicate that the
+use of local link information improves precision by 74&percnt;.
+When global link information is used, precision improves by
+35&percnt;. However, when only the first 10 documents in the
+ranking are considered, the average gain in precision obtained with
+the use of global link information is higher than the gain obtained
+with the use of local link information. This is an interesting
+result since it provides insight and justification for the use of
+global link information in major Web search engines, where users
+are mostly interested in the first 10 answers. Furthermore, global
+information can be computed in the background, which allows
+speeding up query processing.
