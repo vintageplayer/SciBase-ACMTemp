@@ -1,0 +1,42 @@
+L. Alvisi , K. Marzullo, Message logging: pessimistic, optimistic, and causal, Proceedings of the 15th International Conference on Distributed Computing Systems, p.229, May 30-June 02, 1995
+Recovery Guarantees for General Multi-Tier Applications, Proceedings of the 18th International Conference on Data Engineering, p.543, February 26-March 01, 2002
+Barga, R., Lomet, D., Agrawal, S. and Baby, T. 2000. Persistent client-server database sessions. In Proceedings (Lecture Notes in Computer Science, 1777) of the 7th International Conference on Extending Database Technology, Constance, Germany, March 2000, C. Zaniolo, P. C. Lockemann, M. H. Scholl and T. Grust, Eds. Springer, Berlin and Heidelberg, Germany, 462--477.
+Roger S. Barga , David B. Lomet, Measuring and Optimizing a System for Persistent Database Sessions, Proceedings of the 17th International Conference on Data Engineering, p.21-30, April 02-06, 2001
+Barga, R., Lomet, D., Paparizos, S., Yu, H., and Chandrasekaran, S. 2003. Persistent applications via automatic recovery. In Proceedings of the 17th International Database Engineering and Applications Symposium, Hong Kong, China, July 2003. IEEE Computer Society, Los Alamitos, CA, 258--267.
+Joel F. Bartlett, A NonStop kernel, Proceedings of the eighth ACM symposium on Operating systems principles, p.22-29, December 14-16, 1981, Pacific Grove, California, USA[doi>10.1145/800216.806587]
+Philip A. Bernstein , Meichun Hsu , Bruce Mann, Implementing recoverable requests using queues, Proceedings of the 1990 ACM SIGMOD international conference on Management of data, p.112-122, May 23-26, 1990, Atlantic City, New Jersey, USA[doi>10.1145/93597.98721]
+Philip Bernstein , Eric Newcomer, Principles of transaction processing: for the systems professional, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1996
+Anita Borg , Wolfgang Blau , Wolfgang Graetsch , Ferdinand Herrmann , Wolfgang Oberle, Fault tolerance under UNIX, ACM Transactions on Computer Systems (TOCS), v.7 n.1, p.1-24, Feb. 1989[doi>10.1145/58564.58565]
+Flavin Cristian, Understanding fault-tolerant distributed systems, Communications of the ACM, v.34 n.2, p.56-78, Feb. 1991[doi>10.1145/102792.102801]
+Debull 2001. IEEE Bulletin of the Technical Committee on Data Engineering 24, 1. Special Issue on Infrastructure for Advanced E-Services.
+Dutta, K., VanderMeer, D., Datta, A., Ramamritham K. 2001. User action recovery in internet SAGAs (iSAGAs). In Proceedings (Lecture Notes in Computer Science 2193) of the 2nd International Workshop on Technologies for E-Services (TES), Rome, Italy, September 2001, F. Casati, D. Georgakopoulos and M.-C. Shan, Eds. Springer, Heidelberg and Berlin, Germany, 132--146.
+E. N. (Mootaz) Elnozahy , Lorenzo Alvisi , Yi-Min Wang , David B. Johnson, A survey of rollback-recovery protocols in message-passing systems, ACM Computing Surveys (CSUR), v.34 n.3, p.375-408, September 2002[doi>10.1145/568522.568525]
+Johann Christoph Freytag , Flaviu Cristian , Bo Kähler, Masking System Crashes in Database Application Programs, Proceedings of the 13th International Conference on Very Large Data Bases, p.407-416, September 01-04, 1987
+Svend Frølund , Rachid Guerraoui, Implementing e-Transactions with Asynchronous Replication, Proceedings of the 2000 International Conference on Dependable Systems and Networks (formerly FTCS-30 and DCCA-8), p.449-458, June 25-28, 2000
+Xiang Fu , Tevfik Bultan , Richard Hull , Jianwen Su, Verification of Vortex Workflows, Proceedings of the 7th International Conference on Tools and Algorithms for the Construction and Analysis of Systems, p.143-157, April 02-06, 2001
+Jim Gray , Andreas Reuter, Transaction Processing: Concepts and Techniques, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1992
+David Harel , Eran Gery, Executable Object Modeling with Statecharts, Computer, v.30 n.7, p.31-42, July 1997[doi>10.1109/2.596624]
+Yennun Huang , Yi-Min Wang, Why Optimistic Message Logging Has Not Been Used in Telecommunications Systems, Proceedings of the Twenty-Fifth International Symposium on Fault-Tolerant Computing, p.459, June 27-30, 1995
+Johnson, D. B. and Zwaenepoel, W. 1987. Sender-based message logging. In Proceedings of the 7th International Symposium on Fault-Tolerant Computing, Pittsburgh, PA, July 1987. IEEE Computer Society, 14--19.
+Won Kim, Highly available systems for database applications, ACM Computing Surveys (CSUR), v.16 n.1, p.71-98, March 1984[doi>10.1145/861.866]
+David B. Lomet, Persistent Applications Using Generalized Redo Recovery, Proceedings of the Fourteenth International Conference on Data Engineering, p.154-163, February 23-27, 1998
+David Lomet , Gerhard Weikum, Efficient transparent application recovery in client-server information systems, Proceedings of the 1998 ACM SIGMOD international conference on Management of data, p.460-471, June 01-04, 1998, Seattle, Washington, USA[doi>10.1145/276304.276345]
+David Lomet , Mark Tuttle, Logical logging to extend recovery to new domains, Proceedings of the 1999 ACM SIGMOD international conference on Management of data, p.73-84, May 31-June 03, 1999, Philadelphia, Pennsylvania, USA[doi>10.1145/304182.304189]
+Luo, M.-Y. and Yang, C.-S. 2001. Constructing zero-loss Web services. In Proceedings IEEE INFOCOM 2001 of the 20th Joint International Conference of the IEEE Computer and Communication Societies on Computer Communications, Anchorage, AK, April 2001. IEEE, Los Alamitos, CA, 1781--1790.
+C. Mohan , Don Haderle , Bruce Lindsay , Hamid Pirahesh , Peter Schwarz, ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging, ACM Transactions on Database Systems (TODS), v.17 n.1, p.94-162, March 1992[doi>10.1145/128765.128770]
+MSDN Library: Persistence. Microsoft Internet Explorer Persistence Overview. http://msdn.microsoft.com/workshop/author/persistence/overview.asp.
+MSDN Library:. Net. NET Remoting Overview. http://msdn.microsoft.com/library/default.asp? url=/library/en-us/cpguide/html/cpconnetremotingoverview.asp.
+MSR Phoenix. Phoenix: Making Applications Robust. http://www.research.microsoft.com/research/db/phoenix/.
+OMG: CORBA 2000. Fault Tolerant CORBA Spec V1.0. http://cgi.omg.org/cgi-bin/doc?ptc/00-04-04.
+OMG: UML 1999. OMG Unified Modeling Language (UML) Version 1.3.http://www.rational.com/uml.
+Cris Pedregal Martin , Krithi Ramamritham, Recovery guarantees in mobile systems, Proceedings of the 1st ACM international workshop on Data engineering for wireless and mobile access, p.22-28, August 20-20, 1999, Seattle, Washington, USA[doi>10.1145/313300.313325]
+Cris Pedregal-Martin , Krithi Ramamritham, Guaranteeing Recoverability in Electronic Commerce, Proceedings of the Third International Workshop on Advanced Issues of E-Commerce and Web-Based Information Systems (WECWIS '01), p.144, June 21-22, 2001
+PHP. PHP Documentation and Downloads. http://www.php.net.
+Popovici, A., Schuldt, H., and Schek, H.-J. 2000. Generation and verification of heterogeneous purchase processes. In Proceedings of the 1st International Workshop on Technologies for E-Services, Cairo, Egypt, September 2000, 5--22.
+Heiko Schuldt , Andrei Popovici , Hans-Jörg Schek, Automatic Generation of Reliable E-Commerce Payment Processes, Proceedings of the First International Conference on Web Information Systems Engineering (WISE'00)-Volume 1, p.434, June 19-20, 2000
+German Shegalov , Gerhard Weikum , Roger Barga , David Lomet, EOS: exactly-once E-service middleware, Proceedings of the 28th international conference on Very Large Data Bases, p.1043-1046, August 20-23, 2002, Hong Kong, China
+Sun 2001. Enterprise Java Beans Specification, Version 2.0, http://java.sun.com/products/ejb/docs.html.
+J. D. Tygar, Atomicity versus Anonymity: Distributed Transactions for Electronic Commerce, Proceedings of the 24rd International Conference on Very Large Data Bases, p.1-12, August 24-27, 1998
+Gerhard Weikum , Gottfried Vossen, Transactional information systems: theory, algorithms, and the practice of concurrency control and recovery, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2001
+Mickey Williams, Microsoft Visual C# (Core Reference), Microsoft Press, Redmond, WA, 2002
+Zend. Zend Engine. http://www.zend.com.

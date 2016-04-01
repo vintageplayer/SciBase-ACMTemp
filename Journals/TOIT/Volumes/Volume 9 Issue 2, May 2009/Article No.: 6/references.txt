@@ -1,0 +1,46 @@
+Micah Adler, Trade-offs in probabilistic packet marking for IP traceback, Journal of the ACM (JACM), v.52 n.2, p.217-244, March 2005[doi>10.1145/1059513.1059517]
+Albrightson, B., Garcia-Luna-Aceves, J., and Boyle, J. 1994. EIGRP—A fast routing protocol based on distance vectors. In Proceedings of the Networld/Interop.
+Tuomas Aura , Pekka Nikander, Stateless connections, Proceedings of the First International Conference on Information and Communication Security, p.87-97, November 11-14, 1997
+Baker, F. 1995. Requirements for IP Version 4 routers. RFC 1812.
+Baker, F. and Savola, P. 2004. Ingress Filtering for Multihomed Networks. RFC 3704.
+Bernstein, D. J. 1996. SYN cookies. http://cr.yp.to/syncookies.html.
+Beverly, R. 2004. A robust classifier for passive TCP/IP fingerprinting. In Proceedings of the Passive and Active Measurement Conference, 158--167.
+Robert Beverly , Steven Bauer, The spoofer project: inferring the extent of source address filtering on the internet, Proceedings of the Steps to Reducing Unwanted Traffic on the Internet on Steps to Reducing Unwanted Traffic on the Internet Workshop, p.8-8, July 07, 2005, Cambridge, MA
+Bremler-Barr, A. and Levy, H. 2005. Spoofing prevention method. In Proceedings of the Annual Joint Conference of the IEEE Computer and Communications Societies (InfoCom).
+chang Feng, W., Kaiser, E. C., chi Feng, W., and Luu, A. 2005. Design and implementation of network puzzles. In Proceedings of the Annual Joint Conference of the IEEE Computer and Communications Societies (InfoCom). 2372--2382.
+Cisco Systems Inc. 2007. Configuring TCP intercept. http://www.cisco.com/en/US/docs/ios/security/configuration/guide/sec_cfg_tcp_intercpt.pdf
+Drew Dean , Matt Franklin , Adam Stubblefield, An algebraic approach to IP traceback, ACM Transactions on Information and System Security (TISSEC), v.5 n.2, p.119-137, May 2002[doi>10.1145/505586.505588]
+Diffie, W. and Hellman, M. E. 1976. New directions in cryptography. IEEE Trans. Inf. Theory 22, 6, 644--654.
+Duan, Z., Yuan, X., and Chandrashekar, J. 2006. Constructing inter-domain packet filters to control IP spoofing based on BGP updates. In Proceedings of the Annual Joint Conference of the IEEE Computer and Communications Societies (InfoCom).
+Ehrenkranz, T. and Li, J. 2007. An incrementally deployable protocol for learning the valid incoming direction of IP packets. Tech. rep. CIS-TR-2007-05, University of Oregon. March.
+Ferguson, P. and Senie, D. 2000. Network ingress filtering: Defeating denial of service attacks which employ IP source address spoofing. RFC 2827.
+Fyodor. 2006. Remote OS detection. http://nmap.org/book/osdetect.html.
+Goodell, G., Aiello, W., Griffin, T., Ioannidis, J., McDaniel, P., and Rubin, A. 2003. Working around BGP: An incremental approach to improving security and accuracy of interdomain routing. In Proceedings of the Network and Distributed System Security Symposium.
+He, Y., Faloutsos, M., and Krishnamurthy, S. V. 2004. Quantifying the routing asymmetry in the Internet at the AS level. In Proceedings of IEEE Conference and Exhibition on Global Telecommunications (GlobeCom).
+He, Y., Faloutsos, M., and Krishnamurthy, S. V. 2005. On routing asymmetry in the Internet. In Proceedings of IEEE Conference and Exhibition on Global Telecommunications (GlobeCom).
+Cheng Jin , Haining Wang , Kang G. Shin, Hop-count filtering: an effective defense against spoofed DDoS traffic, Proceedings of the 10th ACM conference on Computer and communications security, October 27-30, 2003, Washington D.C., USA[doi>10.1145/948109.948116]
+Kent, S. and Seo, K. 2005. Security architecture for the Internet Protocol. RFC 4301.
+Killalea, T. 2000. Recommended Internet service provider security services and procedures. RFC 3013.
+Heejo Lee , Minjin Kwon , Geoffrey Hasker , Adrian Perrig, BASE: an incrementally deployable mechanism for viable IP spoofing prevention, Proceedings of the 2nd ACM symposium on Information, computer and communications security, March 20-22, 2007, Singapore[doi>10.1145/1229285.1229293]
+Li, J., Mirkovic, J., Wang, M., Reiher, P. L., and Zhang, L. 2002. SAVE: Source address validity enforcement protocol. In Proceedings of the Annual Joint Conference of the IEEE Computer and Communications Societies (InfoCom). 1557--1566.
+Xin Liu , Ang Li , Xiaowei Yang , David Wetherall, Passport: secure and adoptable source authentication, Proceedings of the 5th USENIX Symposium on Networked Systems Design and Implementation, p.365-378, April 16-18, 2008, San Francisco, California
+Martin, K. 2006. Stop the bots. Security Focus.
+Messmer, E. 2007. Report says identity thieves working hand in hand with ‘bot herders’. Network World.
+MIT Advanced Network Architecture Group. 2007. ANA Spoofer Project. http://spoofer.csail.mit.edu/.
+Moy, J. 1998. OSPF Version 2. RFC 2328 (Standard).
+Oran, D. 1990. OSI IS-IS Intra-domain Routing Protocol. RFC 1142 (Informational).
+Kihong Park , Heejo Lee, On the effectiveness of route-based packet filtering for distributed DoS attack prevention in power-law internets, Proceedings of the 2001 conference on Applications, technologies, architectures, and protocols for computer communications, p.15-26, August 2001, San Diego, California, USA[doi>10.1145/383059.383061]
+Piscitello, D. M. 2006. Anatomy of a DNS DDoS amplification attack. http://www.watchguard.com/infocenter/editorial/41649.asp.
+Rekhter, Y., Li, T., and Hares, S. 2006. A Border Gateway Protocol 4 (BGP-4). RFC 4271 (Draft Standard).
+J. H. Saltzer , D. P. Reed , D. D. Clark, End-to-end arguments in system design, ACM Transactions on Computer Systems (TOCS), v.2 n.4, p.277-288, Nov. 1984[doi>10.1145/357401.357402]
+Stefan Savage , David Wetherall , Anna Karlin , Tom Anderson, Practical network support for IP traceback, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.295-306, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347560]
+Alex C. Snoeren , Craig Partridge , Luis A. Sanchez , Christine E. Jones , Fabrice Tchakountio , Beverly Schwartz , Stephen T. Kent , W. Timothy Strayer, Single-packet IP traceback, IEEE/ACM Transactions on Networking (TON), v.10 n.6, p.721-734, December 2002[doi>10.1109/TNET.2002.804827]
+Taleck, G. 2003. Ambiguity resolution via passive OS fingerprinting. In Proceedings of the Symposium on Recent Advances in Intrusion Detection, 192--206.
+Templeton, S. J. and Levitt, K. E. 2003. Detecting spoofed packets. In Proceedings of the DARPA Information Survivability Conference and Exposition, vol. 1. 164--175.
+Haining Wang , Cheng Jin , Kang G. Shin, Defense against spoofed IP traffic using hop-count filtering, IEEE/ACM Transactions on Networking (TON), v.15 n.1, p.40-53, February 2007[doi>10.1109/TNET.2006.890133]
+Wu, J., Ren, G., and Li, X. 2007. Source address validation: Architecture and protocol design. In Proceedings of the Annual International Conference on Network Protocols (ICNP'07).
+Abraham Yaar , Adrian Perrig , Dawn Song, Pi: A Path Identification Mechanism to Defend against DDoS Attacks, Proceedings of the 2003 IEEE Symposium on Security and Privacy, p.93, May 11-14, 2003
+A. Yaar , A. Perrig , Dawn Song, StackPi: New Packet Marking and Filtering Mechanisms for DDoS and IP Spoofing Defense, IEEE Journal on Selected Areas in Communications, v.24 n.10, p.1853-1863, October 2006[doi>10.1109/JSAC.2006.877138]
+Zalewski, M. 2001. Strange attractors and TCP/IP sequence number analysis. http://lcamtuf.coredump.cx/oldtcp/.
+Zalewski, M. 2002. Strange attractors and TCP/IP sequence number analysis—One year later. http://lcamtuf.coredump.cx/newtcp/.
+Zalewski, M. 2006. Passive OS fingerprinting tool. http://lcamtuf.coredump.cx/p0f.shtml.

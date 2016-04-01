@@ -1,0 +1,30 @@
+C. Adams , P. Cain , D. Pinkas , R. Zuccherato, Internet X.509 Public Key Infrastructure Time-Stamp Protocol (TSP), RFC Editor, 2001
+N. Asokan , G. Tsudik , M. Waidner, Server-supported signatures, Journal of Computer Security, v.5 n.1, p.91-108, Jan. 1997
+Bellare, M., Canetti, R., and Krawczyk, H. 1996. Keying hash functions for message authen-tication. In Advances in Cryptology---CRYPTO '96, N. Koblitz, Ed. Number 1109 in Lecture Notes in Computer Science. Springer-Verlag, Berlin 1--15.
+Bicakci, K. and Baykal, N. 2000. Server assisted signatures revisited. In Proceedings of RSA Conference' Cryptography Track.
+S. Boeyen , T. Howes , P. Richard, Internet X.509 Public Key Infrastructure Operational Protocols - LDAPv2, RFC Editor, 1999
+Boneh, D., Ding, X., Tsudik, G., and Wong, B. 2001. Instanteneous revocation of security capabilities. In Proceedings of USENIX Security Symposium 2001.
+Ding, X., Mazzocchi, D., and Tsudik, G. 2002. Experimenting with server-aided signatures. In Proceedings of NDSS 2002.
+Xuhua Ding , Gene Tsudik , Shouhuai Xu, Leak-Free Group Signatures with Immediate Revocation, Proceedings of the 24th International Conference on Distributed Computing Systems (ICDCS'04), p.608-615, March 24-26, 2004
+Even, S., Goldreich, O., and Micali, S. 1996. On-line/off-line digital signatures. J. Crypt. 9, 1, 35--67.
+R. Ganesan, Yaksha: augmenting Kerberos with public key cryptography, Proceedings of the 1995 Symposium on Network and Distributed System Security (SNDSS'95), p.132, February 16-17, 1995
+Shafi Goldwasser , Silvio Micali , Ronald L. Rivest, A digital signature scheme secure against adaptive chosen-message attacks, SIAM Journal on Computing, v.17 n.2, p.281-308, April 1988[doi>10.1137/0217017]
+Goodrich, M., Tahassia, R., and Schwbrin, A. 2001. Implementation of an authenticated dictionary with skip lists and commutative hashing. In Proceedings of DARPA DISCEX II.
+Goyal, V. 2004. More efficient server assisted one time signatures. available at http://eprint.iacr.org/S004/135.
+R. Housley , W. Ford , W. Polk , D. Solo, Internet X.509 Public Key Infrastructure Certificate and CRL Profile, RFC Editor, 1999
+Paul C. Kocher, On Certificate Revocation and Validation, Proceedings of the Second International Conference on Financial Cryptography, p.172-177, February 23-25, 1998
+Leslie Lamport, Password authentication with insecure communication, Communications of the ACM, v.24 n.11, p.770-772, Nov. 1981[doi>10.1145/358790.358797]
+Philip MacKenzie , Michael K. Reiter, Networked Cryptographic Devices Resilient to Capture, Proceedings of the 2001 IEEE Symposium on Security and Privacy, p.12, May 14-16, 2001
+MacKenzie, P. and Reiter, M. K. 2001b. Two-party generation of dsa signatures. In Advances in Cryptolosy---CRYPTO '01, J. Kilian, Ed. Number 2139 in Lecture Notes in Computer Science. Springer-Verlag, Berlin Germany, 137--154.
+Ralph C. Merkle, A Digital Signature Based on a Conventional Encryption Function, A Conference on the Theory and Applications of Cryptographic Techniques on Advances in Cryptology, p.369-378, August 16-20, 1987
+S. Micali, Efficient Certificate Revocation, Massachusetts Institute of Technology, Cambridge, MA, 1996
+Modadugu, N., Boneh, D., and Kim, M. 2000. Generating rsa keys on a handheld using an untrusted server. In RSA Conference, Cryptography Track, 2000.
+M. Myers , R. Ankney , A. Malpani , S. Galperin , C. Adams, X.509 Internet Public Key Infrastructure Online Certificate Status Protocol - OCSP, RFC Editor, 1999
+Moni Naor , Kobbi Nissim, Certificate revocation and certificate update, Proceedings of the 7th conference on USENIX Security Symposium, p.17-17, January 26-29, 1998, San Antonio, Texas
+Adrian Perrig, The BiBa one-time signature and broadcast authentication protocol, Proceedings of the 8th ACM conference on Computer and Communications Security, November 05-08, 2001, Philadelphia, PA, USA[doi>10.1145/501983.501988]
+Perrig, A., Canetti, R., Song, D., and Tygar, D. 2001. Efficient and secure source authentication for multicast. In Proceedings of NDSS 2001.
+R. L. Rivest , A. Shamir , L. Adleman, A method for obtaining digital signatures and public-key cryptosystems, Communications of the ACM, v.21 n.2, p.120-126, Feb. 1978[doi>10.1145/359340.359342]
+RSA Laboratory. 2002. PKCS &num;Lv2.1: RSA cryptography standard.
+Claus-Peter Schnorr, Efficient Identification and Signatures for Smart Cards, Proceedings of the 9th Annual International Cryptology Conference on Advances in Cryptology, p.239-252, August 20-24, 1989
+Shamir, A. and Tauman, Y. 2001. Improved online/offline signature schemes. In Advances in Cryptology---CRYPTO '2001. 365--367.
+Xiaoyun Wang , Hongbo Yu, How to break MD5 and other hash functions, Proceedings of the 24th annual international conference on Theory and Applications of Cryptographic Techniques, May 22-26, 2005, Aarhus, Denmark[doi>10.1007/11426639_2]

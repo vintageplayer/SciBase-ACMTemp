@@ -1,0 +1,18 @@
+Service-oriented architectures use loosely coupled software
+services to support the requirements of business processes and
+software users. Several software engineering challenges have to be
+overcome to expose legacy C and C++ applications and specialized
+system resources as XML-based software services. It is critical to
+devise effective bindings between XML and C/C++ data to efficiently
+interoperate with other XML-based services. Binding application
+data to XML has many software solutions, ranging from generic
+document object models to idiosyncratic type mappings. A safe
+binding must conform to XML validation constraints, guarantee type
+safety, and should preserve the structural integrity of
+communicated application data. However, tight XML bindings impose
+mapping constraints that can hamper interoperability between
+services. This paper presents a framework for constructing loosely
+coupled C/C++ services based on a programming model that integrates
+XML bindings into the C and C++ syntax. The concepts behind the
+bindings are generic, which makes the approach applicable to other
+programming languages.

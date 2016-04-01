@@ -1,0 +1,24 @@
+We present the results of the <bigwig> project, which aims
+to design and implement a high-level domain-specific language for
+programming interactive Web services.A fundamental aspect of the development of the World Wide Web
+during the last decade is the gradual change from static to dynamic
+generation of Web pages. Generating Web pages dynamically in dialog
+with the client has the advantage of providing up-to-date and
+tailor-made information. The development of systems for
+constructing such dynamic Web services has emerged as a whole new
+research area.The <bigwig> language is designed by analyzing its
+application domain and identifying fundamental aspects of Web
+services inspired by problems and solutions in existing Web service
+development languages. The core of the design consists of a
+session-centered service model together with a flexible
+template-based mechanism for dynamic Web page construction. Using
+specialized program analyses, certain Web-specific properties are
+verified at compile time, for instance that only valid HTML 4.01 is
+ever shown to the clients. In addition, the design provides
+high-level solutions to form field validation, caching of dynamic
+pages, and temporal-logic based concurrency control, and it
+proposes syntax macros for making highly domain-specific
+languages.The language is implemented via widely available Web
+technologies, such as Apache on the server-side and JavaScript and
+Java Applets on the client-side. We conclude with experience and
+evaluation of the project.
