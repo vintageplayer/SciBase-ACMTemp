@@ -1,0 +1,42 @@
+Thomas Akenine-Möller, Fast 3D triangle-box overlap testing, Journal of Graphics Tools, v.6 n.1, p.29-33, September 2001[doi>10.1080/10867651.2001.10487535]
+John Amanatides, Ray tracing with cones, Proceedings of the 11th annual conference on Computer graphics and interactive techniques, p.129-135, January 1984[doi>10.1145/800031.808589]
+Jon Louis Bentley, Multidimensional binary search trees used for associative searching, Communications of the ACM, v.18 n.9, p.509-517, Sept. 1975[doi>10.1145/361002.361007]
+Cleary, J. G. and Wyvill, G. 1988. Analysis of an algorithm for fast ray tracing using uniform space subdivision. Vis. Comput. 4, 2, 65--83.
+Eberly, D. 2000. Intersection of a line and a cone. http://www. geometrictools.com/Documentation/IntersectionLineCone.pdf
+Henry Fuchs , Zvi M. Kedem , Bruce F. Naylor, On visible surface generation by a priori tree structures, Proceedings of the 7th annual conference on Computer graphics and interactive techniques, p.124-133, July 14-18, 1980, Seattle, Washington, USA[doi>10.1145/800250.807481]
+Akira Fujimoto , Takayuki Tanaka , Kansei Iwata, ARTSccelerated ray-tracing system, IEEE Computer Graphics and Applications, v.6 n.4, p.16-26, April 1986[doi>10.1109/MCG.1986.276715]
+Garanzha, K. and Loop, C. 2010. Fast ray sorting and breadth-first packet traversal for GPU ray tracing. In Proceedings of Eurographics. 289--298.
+Glassner A., S. 1984. Space subdivision for fast ray tracing. IEEE Comput. Graph. Appl. 4, 10, 15--22.
+Gribble, C. P. and Ramani, K. 2008. Coherent ray tracing via stream filtering. In Proceedings of the IEEE Symposium on Interactive Ray Tracing. 59--66.
+Havran., V., Herzog, R., and Seidel H.-P. 2006. On the fast construction of spatial hierarchies for ray tracing. In Proceedings of the IEEE Symposium on Raytracing. 71--80.
+Hunt, W., Mark, W. R. and Stoll, G. 2006. Fast kd-tree construction with an adaptive error-bounded heuristic. In Proceedings of the IEEE Symposium on Raytracing. 81--88.
+Hunt, W., and Mark, W. R. 2008a. Ray-Specialized acceleration structures for ray tracing. In Proceedings of the IEEE/EG Symposium on Raytracing. 3--10.
+Hunt, W., and Mark, W. R. 2008b. Adaptive acceleration structures in perspective space. In Proceedings of the IEEE/EG Symposium on Raytracing. 11--17.
+Thiago Ize , Peter Shirley , Steven Parker, Grid Creation Strategies for Efficient Ray Tracing, Proceedings of the 2007 IEEE Symposium on Interactive Ray Tracing, p.27-32, September 10-12, 2007[doi>10.1109/RT.2007.4342587]
+Henrik Wann Jensen , Stephen R. Marschner , Marc Levoy , Pat Hanrahan, A practical model for subsurface light transport, Proceedings of the 28th annual conference on Computer graphics and interactive techniques, p.511-518, August 2001[doi>10.1145/383259.383319]
+James T. Kajiya, The rendering equation, Proceedings of the 13th annual conference on Computer graphics and interactive techniques, p.143-150, August 1986[doi>10.1145/15922.15902]
+Timothy L. Kay , James T. Kajiya, Ray tracing complex scenes, Proceedings of the 13th annual conference on Computer graphics and interactive techniques, p.269-278, August 1986[doi>10.1145/15922.15916]
+Alexander Keller, Instant radiosity, Proceedings of the 24th annual conference on Computer graphics and interactive techniques, p.49-56, August 1997[doi>10.1145/258734.258769]
+Ares Lagae , Philip Dutré, Compact, fast and robust grids for ray tracing, Proceedings of the Nineteenth Eurographics conference on Rendering, June 23-25, 2008, Sarajevo, Bosnia and Herzegovina[doi>10.1111/j.1467-8659.2008.01262.x]
+Lauterbach, C., Yoon, S. and Manocha, D. 2006. RT-DEFORM: Interactive ray tracing of dynamic scenes using BVHs. In Proceedings of the IEEE Symposium on Interactive Ray Tracing. 39--45.
+Morgan McGuire , David Luebke, Hardware-accelerated global illumination by image space photon mapping, Proceedings of the Conference on High Performance Graphics 2009, August 01-03, 2009, New Orleans, Louisiana[doi>10.1145/1572769.1572783]
+Tomas Möller , Ben Trumbore, Fast, minimum storage ray-triangle intersection, Journal of Graphics Tools, v.2 n.1, p.21-28, 1997[doi>10.1080/10867651.1997.10487468]
+Koji Nakamaru , Yoshio Ohno, Breadth-First Ray Tracing Utilizing Uniform Spatial Subdivision, IEEE Transactions on Visualization and Computer Graphics, v.3 n.4, p.316-328, October 1997[doi>10.1109/2945.646235]
+Ryan Overbeck , Ravi Ramamoorthi , William R. Mark, A real-time beam tracer with application to exact soft shadows, Proceedings of the 18th Eurographics conference on Rendering Techniques, June 25-27, 2007, Grenoble, France[doi>10.2312/EGWR/EGSR07/085-098]
+David Roger , Ulf Assarsson , Nicolas Holzschuch, Whitted ray-tracing for dynamic scenes using a ray-space hierarchy on the GPU, Proceedings of the 18th Eurographics conference on Rendering Techniques, June 25-27, 2007, Grenoble, France[doi>10.2312/EGWR/EGSR07/099-110]
+Alexander Reshetov , Alexei Soupikov , Jim Hurley, Multi-level ray tracing algorithm, ACM SIGGRAPH 2005 Papers, July 31-August 04, 2005, Los Angeles, California[doi>10.1145/1186822.1073329]
+Reshetov, A. 2006. Omnidirectional ray tracing traversal algorithm for kd-trees. In Proceedings of the IEEE/EG Symposium on Raytracing. 57--60.
+Steven M. Rubin , Turner Whitted, A 3-dimensional representation for fast rendering of complex scenes, Proceedings of the 7th annual conference on Computer graphics and interactive techniques, p.110-116, July 14-18, 1980, Seattle, Washington, USA[doi>10.1145/800250.807479]
+Jörg Schmittler , Sven Woop , Daniel Wagner , Wolfgang J. Paul , Philipp Slusallek, Realtime ray tracing of dynamic scenes on an FPGA chip, Proceedings of the ACM SIGGRAPH/EUROGRAPHICS conference on Graphics hardware, August 29-30, 2004, Grenoble, France[doi>10.1145/1058129.1058143]
+Shevtsov, M., Soupikov, A. and Kapustin, A. 2007. Highly parallel fast KD-tree construction for interactive ray tracing of dynamic scenes. In Proceedings of Eurographics. 395--404.
+Tsakok, J. A. 2008. Faster fast ray tracing techniques. Master thesis, Electrical and Computer Engineering. University of Waterloo.
+John A. Tsakok, Faster incoherent rays: Multi-BVH ray stream tracing, Proceedings of the Conference on High Performance Graphics 2009, August 01-03, 2009, New Orleans, Louisiana[doi>10.1145/1572769.1572793]
+Carsten Wächter , Alexander Keller, Instant ray tracing: the bounding interval hierarchy, Proceedings of the 17th Eurographics conference on Rendering Techniques, June 26-28, 2006, Nicosia, Cyprus[doi>10.2312/EGWR/EGSR06/139-149]
+Carsten Wachter , Alexander Keller, Terminating Spatial Hierarchies by A Priori Bounding Memory, Proceedings of the 2007 IEEE Symposium on Interactive Ray Tracing, p.41-46, September 10-12, 2007[doi>10.1109/RT.2007.4342589]
+Wächter, C. and Keller, A. 2009. Efficient ray tracing without acceleration data structure. U.S. Patent Applications Publication No. US 2009/0225081 A1.
+Wald, I., Slusallek, P., Benthin, C. and Wagner, M. 2001. Interactive rendering with coherent ray tracing. In Proceedings of EUROGRAPHICS. 153--164.
+Ingo Wald , Thiago Ize , Andrew Kensler , Aaron Knoll , Steven G. Parker, Ray tracing animated scenes using coherent grid traversal, ACM SIGGRAPH 2006 Papers, July 30-August 03, 2006, Boston, Massachusetts[doi>10.1145/1179352.1141913]
+Ingo Wald , Solomon Boulos , Peter Shirley, Ray tracing deformable scenes using dynamic bounding volume hierarchies, ACM Transactions on Graphics (TOG), v.26 n.1, p.6-es, January 2007[doi>10.1145/1189762.1206075]
+Ingo Wald, On fast Construction of SAH-based Bounding Volume Hierarchies, Proceedings of the 2007 IEEE Symposium on Interactive Ray Tracing, p.33-40, September 10-12, 2007[doi>10.1109/RT.2007.4342588]
+Turner Whitted, An improved illumination model for shaded display, Communications of the ACM, v.23 n.6, p.343-349, June 1980[doi>10.1145/358876.358882]
+Kun Zhou , Qiming Hou , Rui Wang , Baining Guo, Real-time KD-tree construction on graphics hardware, ACM Transactions on Graphics (TOG), v.27 n.5, December 2008[doi>10.1145/1409060.1409079]

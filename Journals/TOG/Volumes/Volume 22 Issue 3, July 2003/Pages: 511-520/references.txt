@@ -1,0 +1,27 @@
+Maneesh Agrawala , Ravi Ramamoorthi , Alan Heirich , Laurent Moll, Efficient image-based methods for rendering soft shadows, Proceedings of the 27th annual conference on Computer graphics and interactive techniques, p.375-384, July 2000[doi>10.1145/344779.344954]
+Tomas Akenine-Möller , Ulf Assarsson, Approximate soft shadows on arbitrary surfaces using penumbra wedges, Proceedings of the 13th Eurographics workshop on Rendering, June 26-28, 2002, Pisa, Italy
+ASSARSSON, U., AND AKENINE-MÖLLER, T. 2003. Interactive Rendering of Soft Shadows using an Optimized and Generalized Penumbra Wedge Algorithm. submitted to the Visual Computer.
+BERGERON, P. 1986. A General Version of Crow's Shadow Volumes. IEEE Computer Graphics and Applications 6, 9 (September), 17--28.
+BRABEC, S., AND SEIDEL, H.-P. 2002. Single Sample Soft Shadows using Depth Maps. In Graphics Interface 2002, 219--228.
+BROTMAN, L. S., AND BADLER, N. I. 1984. Generating Soft Shadows with a Depth Buffer Algorithm. IEEE Computer Graphics and Applications 4, 10 (October), 5--12.
+Michael F. Cohen , John Wallace , Pat Hanrahan, Radiosity and realistic image synthesis, Academic Press Professional, Inc., San Diego, CA, 1993
+Franklin C. Crow, Shadow algorithms for computer graphics, Proceedings of the 4th annual conference on Computer graphics and interactive techniques, p.242-248, July 20-22, 1977, San Jose, California[doi>10.1145/563858.563901]
+George Drettakis , Eugene Fiume, A fast shadow algorithm for area light sources using backprojection, Proceedings of the 21st annual conference on Computer graphics and interactive techniques, p.223-230, July 1994[doi>10.1145/192161.192207]
+EVERITT, C., AND KILGARD, M. 2002. Practical and Robust Stenciled Shadow Volumes for Hardware-Accelerated Rendering. http://developer.nvidia.com/.
+Randima Fernando , Sebastian Fernandez , Kavita Bala , Donald P. Greenberg, Adaptive shadow maps, Proceedings of the 28th annual conference on Computer graphics and interactive techniques, p.387-390, August 2001[doi>10.1145/383259.383302]
+HAINES, E., AND MÖLLER, T. 2001. Real-Time Shadows. In Game Developers Conference, CMP, 335--352.
+Eric Haines, Soft planar shadows using plateaus, Journal of Graphics Tools, v.6 n.1, p.19-27, September 2001[doi>10.1080/10867651.2001.10487534]
+David Hart , Philip Dutré , Donald P. Greenberg, Direct illumination with lazy visibility evaluation, Proceedings of the 26th annual conference on Computer graphics and interactive techniques, p.147-154, July 1999[doi>10.1145/311535.311551]
+HECKBERT, P., AND HERF, M. 1997. Simulating Soft Shadows with Graphics Hardware. Tech. rep., Carnegie Mellon University, CMU-CS-97-104, January.
+HEIDMANN, T. 1991. Real Shadows, Real Time. Iris Universe, 18 (November), 23--31.
+Wolfgang Heidrich , Stefan Brabec , Hans-Peter Seidel, Soft Shadow Maps for Linear Lights, Proceedings of the Eurographics Workshop on Rendering Techniques 2000, p.269-280, June 26-28, 2000
+Jan Kautz , Michael D. McCool, Interactive rendering with arbitrary BRDFs using separable approximations, Proceedings of the 10th Eurographics conference on Rendering, June 21-23, 1999, Granada, Spain[doi>10.2312/EGWR/EGWR99/247-260]
+Lee Markosian , Michael A. Kowalski , Daniel Goldstein , Samuel J. Trychin , John F. Hughes , Lubomir D. Bourdev, Real-time nonphotorealistic rendering, Proceedings of the 24th annual conference on Computer graphics and interactive techniques, p.415-420, August 1997[doi>10.1145/258734.258894]
+PARKER, S., SHIRLEY, P., AND SMITS, B. 1998. Single Sample Soft Shadows. Tech. rep., University of Utah, UUCS-98-019, October.
+William T. Reeves , David H. Salesin , Robert L. Cook, Rendering antialiased shadows with depth maps, Proceedings of the 14th annual conference on Computer graphics and interactive techniques, p.283-291, August 1987[doi>10.1145/37401.37435]
+Mark Segal , Carl Korobkin , Rolf van Widenfelt , Jim Foran , Paul Haeberli, Fast shadows and lighting effects using texture mapping, Proceedings of the 19th annual conference on Computer graphics and interactive techniques, p.249-252, July 1992[doi>10.1145/133994.134071]
+Peter-Pike Sloan , Jan Kautz , John Snyder, Precomputed radiance transfer for real-time rendering in dynamic, low-frequency lighting environments, ACM Transactions on Graphics (TOG), v.21 n.3, July 2002[doi>10.1145/566654.566612]
+Cyril Soler , François X. Sillion, Fast calculation of soft shadow textures using convolution, Proceedings of the 25th annual conference on Computer graphics and interactive techniques, p.321-332, July 1998[doi>10.1145/280814.280927]
+Marc Stamminger , George Drettakis, Perspective shadow maps, ACM Transactions on Graphics (TOG), v.21 n.3, July 2002[doi>10.1145/566654.566616]
+Lance Williams, Casting curved shadows on curved surfaces, Proceedings of the 5th annual conference on Computer graphics and interactive techniques, p.270-274, August 23-25, 1978[doi>10.1145/800248.807402]
+Andrew Woo , Pierre Poulin , Alain Fournier, A Survey of Shadow Algorithms, IEEE Computer Graphics and Applications, v.10 n.6, p.13-32, November 1990[doi>10.1109/38.62693]

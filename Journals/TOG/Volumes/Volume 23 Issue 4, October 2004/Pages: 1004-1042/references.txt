@@ -1,0 +1,80 @@
+Thomas Annen , Jan Kautz , Frédo Durand , Hans-Peter Seidel, Spherical harmonic gradients for mid-range illumination, Proceedings of the Fifteenth Eurographics conference on Rendering Techniques, June 21-23, 2004, Norrköping, Sweden[doi>10.2312/EGWR/EGSR04/331-336]
+James Richard Arvo, Analytic methods for simulated light transport, Yale University, New Haven, CT, 1995
+Basri, R. and Jacobs, D. 2001a. Lambertian reflectance and linear subspaces. In ICCV 01. 383--390.
+Basri, R. and Jacobs, D. 2001b. Photometric stereo with general, unknown lighting. In CVPR 01. II--374--II--381.
+Ronen Basri , David W. Jacobs, Lambertian Reflectance and Linear Subspaces, IEEE Transactions on Pattern Analysis and Machine Intelligence, v.25 n.2, p.218-233, February 2003[doi>10.1109/TPAMI.2003.1177153]
+Peter N. Belhumeur , David J. Kriegman, What Is the Set of Images of an Object Under All Possible Illumination Conditions?, International Journal of Computer Vision, v.28 n.3, p.245-260, July 1, 1998[doi>10.1023/A:1008005721484]
+James F. Blinn , Martin E. Newell, Texture and reflection in computer generated images, Communications of the ACM, v.19 n.10, p.542-547, Oct. 1976[doi>10.1145/360349.360353]
+Brian Cabral , Nelson Max , Rebecca Springmeyer, Bidirectional reflection functions from surface bump maps, Proceedings of the 14th annual conference on Computer graphics and interactive techniques, p.273-281, August 1987[doi>10.1145/37401.37434]
+Brian Cabral , Marc Olano , Philip Nemec, Reflection space image based rendering, Proceedings of the 26th annual conference on Computer graphics and interactive techniques, p.165-170, July 1999[doi>10.1145/311535.311553]
+Cochran, J. 1972. The Analysis of Linear Integral Equations. McGraw-Hill.
+Michael F. Cohen , John Wallace , Pat Hanrahan, Radiosity and realistic image synthesis, Academic Press Professional, Inc., San Diego, CA, 1993
+Kristin J. Dana , Bram van Ginneken , Shree K. Nayar , Jan J. Koenderink, Reflectance and texture of real-world surfaces, ACM Transactions on Graphics (TOG), v.18 n.1, p.1-34, Jan. 1999[doi>10.1145/300776.300778]
+Paul Debevec , Tim Hawkins , Chris Tchou , Haarm-Pieter Duiker , Westley Sarokin , Mark Sagar, Acquiring the reflectance field of a human face, Proceedings of the 27th annual conference on Computer graphics and interactive techniques, p.145-156, July 2000[doi>10.1145/344779.344855]
+Dror, R., Adelson, E., and Willsky, A. 2001. Estimating surface reflectance properties from images under unknown illumination. In SPIE Photonics West: Human Vision and Electronic Imaging VI. 231--242.
+D'Zmura, M. 1991. Computational Models of Visual Processing. MIT Press, Chapter Shading Ambiguity: Reflectance and Illumination, 187--207.
+Epstein, R., Hallinan, P., and Yuille, A. 1995. 5 plus or minus 2 eigenimages suffice: An empirical investigation of low-dimensional lighting models. In IEEE Workshop on Physics-Based Modeling in Computer Vision. 108--116.
+Frolova, D., Simakov, D., and Basri, R. 2004. Accuracy of spherical harmonic approximations for images of lambertian objects under far and near lighting. In ECCV. I--574--I--587.
+Pascal Gautron , Jaroslav Krivanek , Sumanta Pattanaik , Kadi Bouatouch, A novel hemispherical basis for accurate and efficient rendering, Proceedings of the Fifteenth Eurographics conference on Rendering Techniques, June 21-23, 2004, Norrköping, Sweden[doi>10.2312/EGWR/EGSR04/321-330]
+Ned Greene, Environment mapping and other applications of world projections, IEEE Computer Graphics and Applications, v.6 n.11, p.21-29, November 1986[doi>10.1109/MCG.1986.276658]
+Groemer, H. 1996. Geometric Applications of Fourier Series and Spherical Harmonics. Cambridge University Press.
+Hallinan, P. 1994. A low-dimensional representation of human faces for arbitrary lighting conditions. In CVPR 94. 995--999.
+Wolfgang Heidrich , Hans-Peter Seidel, Realistic, hardware-accelerated shading and lighting, Proceedings of the 26th annual conference on Computer graphics and interactive techniques, p.171-178, July 1999[doi>10.1145/311535.311554]
+Jeffrey Ho , Ming-Hsuan Yang , Jongwoo Lim , Kuang-Chih Lee , David Kriegman, Clustering appearances of objects under varying illumination conditions, Proceedings of the 2003 IEEE computer society conference on Computer vision and pattern recognition, p.11-18, June 18-20, 2003, Madison, Wisconsin
+Katsushi Ikeuchi , Kosuke Sato, Determining Reflectance Properties of an Object Using Range and Brightness Images, IEEE Transactions on Pattern Analysis and Machine Intelligence, v.13 n.11, p.1139-1153, November 1991[doi>10.1109/34.103274]
+Inui, T., Tanabe, Y., and Onodera, Y. 1990. Group Theory and its Applications in Physics. Springer Verlag.
+Jackson, J. 1975. Classical Electrodynamics. John Wiley.
+Henrik Wann Jensen , Juan Buhler, A rapid hierarchical rendering technique for translucent materials, ACM Transactions on Graphics (TOG), v.21 n.3, July 2002[doi>10.1145/566654.566619]
+Henrik Wann Jensen , Stephen R. Marschner , Marc Levoy , Pat Hanrahan, A practical model for subsurface light transport, Proceedings of the 28th annual conference on Computer graphics and interactive techniques, p.511-518, August 2001[doi>10.1145/383259.383319]
+James T. Kajiya, The rendering equation, Proceedings of the 13th annual conference on Computer graphics and interactive techniques, p.143-150, August 1986[doi>10.1145/15922.15902]
+Kautz, J. and McCool, M. 2000. Approximation of glossy reflection with prefiltered environment maps. In Graphics Interface. 119--126.
+Jan Kautz , Pere-Pau Vázquez , Wolfgang Heidrich , Hans-Peter Seidel, Unified Approach to Prefiltered Environment Maps, Proceedings of the Eurographics Workshop on Rendering Techniques 2000, p.185-196, June 26-28, 2000
+Koenderink, J. J. and van Doorn, A. J. 1998. Phenomenological description of bidirectional surface reflection. JOSA A 15, 11, 2903--2912.
+Land, E. and McCann, J. 1971. Lightness and retinex theory. J. Optic. Soc. Amer. 61, 1, 1--11.
+Lee, K., Ho, J., and Kriegman, D. 2001. Nine points of light: Acquiring subspaces for face recognition under variable lighting. In CVPR. 519--526.
+Lewis, R. 1993. Making shaders more physically plausible. In Eurographics Workshop on Rendering. 47--62.
+Love, R. 1997. Surface reflection model estimation from naturally illuminated image sequences. Ph.D. thesis, Leeds.
+Lu, R., Koenderink, J., and Kappers, A. 1998. Optical properties (bidirectional reflection distribution functions) of velvet. Applied Optics 37, 25, 5974--5984.
+MacRobert, T. 1948. Spherical Harmonics; an Elementary Treatise on Harmonic Functions, with Applications. Dover Publications.
+Marschner, S. and Greenberg, D. 1997. Inverse lighting for photography. In Fifth Color Imaging Conference. 262--265.
+Marschner, S., Westin, S., Lafortune, E., and Torrance, K. 2000. Image-Based BRDF measurement. Applied Optics 39, 16, 2592--2600.
+McCormick, N. 1992. Inverse radiative transfer problems: a review. Nucl. Sci. Eng. 112, 185--198.
+Miller, G. and Hoffman, C. 1984. Illumination and reflection maps: Simulated objects in simulated and real environments. SIGGRAPH 84 Advanced Computer Graphics Animation seminar notes.
+Narasimhan, S., Ramamoorthi, R., and Nayar, S. 2004. Analytic rendering of multiple scattering in participating media. Submitted to ACM Trans. Graph.
+Nayar, S., Ikeuchi, K., and Kanade, T. 1990. Determining shape and reflectance of hybrid surfaces by photometric sampling. IEEE Trans. Robotics Auto. 6, 4 (Aug), 418--430.
+Ren Ng , Ravi Ramamoorthi , Pat Hanrahan, All-frequency shadows using non-linear wavelet lighting approximation, ACM Transactions on Graphics (TOG), v.22 n.3, July 2003[doi>10.1145/882262.882280]
+Ren Ng , Ravi Ramamoorthi , Pat Hanrahan, Triple product wavelet integrals for all-frequency relighting, ACM Transactions on Graphics (TOG), v.23 n.3, August 2004[doi>10.1145/1015706.1015749]
+Nicodemus, F. E., Richmond, J. C., Hsia, J. J., Ginsberg, I. W., and Limperis, T. 1977. Geometric Considerations and Nomenclature for Reflectance. National Bureau of Standards (US).
+Nillius, P. and Eklundh, J. 2003a. Low-dimensional representations of shaded surfaces under varying illumination. In CVPR 03. II:185--II:192.
+Peter Nillius , Jan-Olof Eklundh, Phenomenological Eigenfunctions for Image Irradiance, Proceedings of the Ninth IEEE International Conference on Computer Vision, p.568, October 13-16, 2003
+Nillius, P. and Eklundh, J. 2004. Classifying materials from their reflectance properties. In ECCV 04. IV:366--IV:376.
+Nimeroff, J., Simoncelli, E., and Dorsey, J. 1994. Efficient re-rendering of naturally illuminated environments. In EGWR 94. 359--373.
+Nishino, K., Zhang, Z., and Ikeuchi, K. 2001. Determining reflectance parameters and illumination distribution from a sparse set of images for view-dependent image synthesis. In ICCV 01. 599--606.
+Preisendorfer, R. 1976. Hydrologic Optics. US Dept Commerce.
+Simon Premože , Michael Ashikhmin , Jerry Tessendorf , Ravi Ramamoorthi , Shree Nayar, Practical rendering of multiple scattering effects in participating media, Proceedings of the Fifteenth Eurographics conference on Rendering Techniques, June 21-23, 2004, Norrköping, Sweden[doi>10.2312/EGWR/EGSR04/363-374]
+Ravi Ramamoorthi, Analytic PCA Construction for Theoretical Analysis of Lighting Variability in Images of a Lambertian Object, IEEE Transactions on Pattern Analysis and Machine Intelligence, v.24 n.10, p.1322-1333, October 2002[doi>10.1109/TPAMI.2002.1039204]
+Ravi Ramamoorthi , Pat Hanrahan, A signal-processing framework for forward and inverse rendering, Stanford University, Stanford, CA, 2002
+Ramamoorthi, R. and Hanrahan, P. 2001a. Analysis of planar light fields from homogeneous convex curved surfaces under distant illumination. In SPIE Photonics West: Human Vision and Electronic Imaging VI. 185--198. http://graphics.stanford. edu/papers/planarlf/.
+Ravi Ramamoorthi , Pat Hanrahan, An efficient representation for irradiance environment maps, Proceedings of the 28th annual conference on Computer graphics and interactive techniques, p.497-500, August 2001[doi>10.1145/383259.383317]
+Ramamoorthi, R. and Hanrahan, P. 2001c. On the relationship between radiance and irradiance: Determining the illumination from images of a convex lambertian object. JOSA A 18, 10, 2448--2459.
+Ravi Ramamoorthi , Pat Hanrahan, A signal-processing framework for inverse rendering, Proceedings of the 28th annual conference on Computer graphics and interactive techniques, p.117-128, August 2001[doi>10.1145/383259.383271]
+Ravi Ramamoorthi , Pat Hanrahan, Frequency space environment map rendering, Proceedings of the 29th annual conference on Computer graphics and interactive techniques, July 23-26, 2002, San Antonio, Texas[doi>10.1145/566570.566611]
+Ramamoorthi, R., Koudelka, M., and Belhumeur, P. 2004. A Fourier theory for cast shadows. In ECCV. I--146--I--162.
+Imari Sato , Takahiro Okabe , Yoichi Sato , Katsushi Ikeuchi, Appearance Sampling for Obtaining A Set of Basis Images for Variable Illumination, Proceedings of the Ninth IEEE International Conference on Computer Vision, p.800, October 13-16, 2003
+Sato, I., Sato, Y., and Ikeuchi, K. 1999. Illumination distribution from brightness in shadows: adaptive estimation of illumination distribution with unknown reflectance properties in shadow regions. In ICCV 99. 875 -- 882.
+Yoichi Sato , Katsushi Ikeuchi, Reflectance Analysis Under Solar Illumination, Carnegie Mellon University, Pittsburgh, PA, 1994
+Yoichi Sato , Mark D. Wheeler , Katsushi Ikeuchi, Object shape and reflectance modeling from observation, Proceedings of the 24th annual conference on Computer graphics and interactive techniques, p.379-387, August 1997[doi>10.1145/258734.258885]
+Françis X. Sillion , James R. Arvo , Stephen H. Westin , Donald P. Greenberg, A global illumination solution for general reflectance distributions, Proceedings of the 18th annual conference on Computer graphics and interactive techniques, p.187-196, July 1991[doi>10.1145/122718.122739]
+Denis Simakov , Darya Frolova , Ronen Basri, Dense Shape Reconstruction of a Moving Object under Arbitrary, Unknown Lighting, Proceedings of the Ninth IEEE International Conference on Computer Vision, p.1202, October 13-16, 2003
+Peter-Pike Sloan , Jan Kautz , John Snyder, Precomputed radiance transfer for real-time rendering in dynamic, low-frequency lighting environments, Proceedings of the 29th annual conference on Computer graphics and interactive techniques, July 23-26, 2002, San Antonio, Texas[doi>10.1145/566570.566612]
+Peter-Pike Sloan , Jesse Hall , John Hart , John Snyder, Clustered principal components for precomputed radiance transfer, ACM Transactions on Graphics (TOG), v.22 n.3, July 2003[doi>10.1145/882262.882281]
+Cyril Soler , François X. Sillion, Fast calculation of soft shadow textures using convolution, Proceedings of the 25th annual conference on Computer graphics and interactive techniques, p.321-332, July 1998[doi>10.1145/280814.280927]
+Thornber, K. and Jacobs, D. 2001. Broadened, specular reflection and linear subspaces. Tech. Rep. TR&num;2001-033, NEC.
+Carlo Tomasi , Takeo Kanade, Shape and motion from image streams under orthography: a factorization method, International Journal of Computer Vision, v.9 n.2, p.137-154, Nov. 1992[doi>10.1007/BF00129684]
+Torrance, K. E. and Sparrow, E. M. 1967. Theory for off-specular reflection from roughened surfaces. JOSA 57, 9, 1105--1114.
+Gregory J. Ward, Measuring and modeling anisotropic reflection, Proceedings of the 19th annual conference on Computer graphics and interactive techniques, p.265-272, July 1992[doi>10.1145/133994.134078]
+Stephen H. Westin , James R. Arvo , Kenneth E. Torrance, Predicting reflectance functions from complex surfaces, Proceedings of the 19th annual conference on Computer graphics and interactive techniques, p.255-264, July 1992[doi>10.1145/133994.134075]
+Yizhou Yu , Paul Debevec , Jitendra Malik , Tim Hawkins, Inverse global illumination: recovering reflectance models of real scenes from photographs, Proceedings of the 26th annual conference on Computer graphics and interactive techniques, p.215-224, July 1999[doi>10.1145/311535.311559]
+Yizhou Yu , Jitendra Malik, Recovering photometric properties of architectural scenes from photographs, Proceedings of the 25th annual conference on Computer graphics and interactive techniques, p.207-217, July 1998[doi>10.1145/280814.280874]
+Li Zhang , Brian Curless , Aaron Hertzmann , Steven M. Seitz, Shape and Motion under Varying Illumination: Unifying Structure from Motion, Photometric Stereo, and Multi-view Stereo, Proceedings of the Ninth IEEE International Conference on Computer Vision, p.618, October 13-16, 2003
+Lei Zhang , Dimitris Samaras, Face recognition under variable lighting using harmonic image exemplars, Proceedings of the 2003 IEEE computer society conference on Computer vision and pattern recognition, p.19-25, June 18-20, 2003, Madison, Wisconsin

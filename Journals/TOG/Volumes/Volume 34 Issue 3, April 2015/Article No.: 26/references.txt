@@ -1,0 +1,38 @@
+I. Ashdown. 1993. Near-field photometry: A new approach. J. Illumin. Engin. Soc. 22, 1, 163--180.
+I. Ashdown. 2001. Thinking photometrically part ii. In Proceedings of the LIGHTFAIR Pre-Conference Workshop. 1--46.
+I. Ashdown and R. Rykowski. 1998. Making near-field photometry practical. J. Illumin. Engin. Soc. North Amer. 27, 1, 67--79.
+Carsten Dachsbacher , Jaroslav Křivánek , Miloš Hašan , Adam Arbree , Bruce Walter , Jan Novák, Scalable Realistic Rendering with Many-Light Methods, Computer Graphics Forum, v.33 n.1, p.88-104, February 2014[doi>10.1111/cgf.12256]
+Thomas Driemeyer, Rendering with mental ray® (mental ray® Handbooks), Springer-Verlag New York, Inc., Secaucus, NJ, 2005
+Iliyan Georgiev , Jaroslav Křivánek , Tomáš Davidovič , Philipp Slusallek, Light transport simulation with vertex connection and merging, ACM Transactions on Graphics (TOG), v.31 n.6, November 2012[doi>10.1145/2366145.2366211]
+Michael Goesele , Xavier Granier , Wolfgang Heidrich , Hans-Peter Seidel, Accurate light source acquisition and rendering, ACM Transactions on Graphics (TOG), v.22 n.3, July 2003[doi>10.1145/882262.882316]
+Steven J. Gortler , Radek Grzeszczuk , Richard Szeliski , Michael F. Cohen, The lumigraph, Proceedings of the 23rd annual conference on Computer graphics and interactive techniques, p.43-54, August 1996[doi>10.1145/237170.237200]
+Xavier Granier , Michael Goesele , Wolfgang Heidrich , Hans-Peter Seidel, Interactive Visualization of Complex Real-World Light Sources, Proceedings of the 11th Pacific Conference on Computer Graphics and Applications, p.59, October 08-10, 2003
+Gene Greger , Peter Shirley , Philip M. Hubbard , Donald P. Greenberg, The Irradiance Volume, IEEE Computer Graphics and Applications, v.18 n.2, p.32-43, March 1998[doi>10.1109/38.656788]
+Toshiya Hachisuka , Henrik Wann Jensen, Stochastic progressive photon mapping, ACM Transactions on Graphics (TOG), v.28 n.5, December 2009[doi>10.1145/1618452.1618487]
+Toshiya Hachisuka , Jacopo Pantaleoni , Henrik Wann Jensen, A path space extension for robust light transport simulation, ACM Transactions on Graphics (TOG), v.31 n.6, November 2012[doi>10.1145/2366145.2366210]
+Miloš Hašan , Jaroslav Křivánek , Bruce Walter , Kavita Bala, Virtual spherical lights for many-light rendering of glossy scenes, ACM Transactions on Graphics (TOG), v.28 n.5, December 2009[doi>10.1145/1618452.1618489]
+W. Heidrich, J. Kautz, P. Slusallek, and H.-P. Seidel. 1998. Canned lightsources. In Proceedings of the EUROGRAPHICS Rendering Techniques Workshop (EGRW'98). 293--300.
+IESNA. 2002. IES LM-63-2002, IESNA Standard File Format for the Electronic Transfer of Photometric Data and Related Information. Illuminating Engineering Society of North America.
+W. Jakob. 2010. Mitsuba renderer. www.mitsuba-renderer.org.
+Wenzel Jakob , Steve Marschner, Manifold exploration: a Markov Chain Monte Carlo technique for rendering scenes with difficult specular transport, ACM Transactions on Graphics (TOG), v.31 n.4, p.1-13, July 2012[doi>10.1145/2185520.2185554]
+A. S. Kaplanyan and C. Dachsbacher. 2013. Path space regularization for holistic and robust light transport. Comput. Graph. Forum 32, 2, 63--72.
+S. Kniep , S. Häring , M. Magnor, Efficient and accurate rendering of complex light sources, Proceedings of the Twentieth Eurographics conference on Rendering, June 29-July 01, 2009, Girona, Spain[doi>10.1111/j.1467-8659.2009.01484.x]
+E. P. Lafortune and Y. D. Willems. 1993. Bi-directional path tracing. In Proceedings of the Computer Graphics Conference. Vol. 93. 145--153.
+Marc Levoy , Pat Hanrahan, Light field rendering, Proceedings of the 23rd annual conference on Computer graphics and interactive techniques, p.31-42, August 1996[doi>10.1145/237170.237199]
+A. Mas, I. Martin, and G. Patow. 2008. Compression and importance sampling of near-field light sources. Comput. Graph. Forum 27, 8, 2013--2027.
+Jonathan T. Moon , Stephen R. Marschner, Simulating multiple scattering in hair using a photon mapping approach, ACM Transactions on Graphics (TOG), v.25 n.3, July 2006[doi>10.1145/1141911.1141995]
+Jonathan T. Moon , Bruce Walter , Steve Marschner, Efficient multiple scattering in hair using spherical harmonics, ACM Transactions on Graphics (TOG), v.27 n.3, August 2008[doi>10.1145/1360612.1360630]
+Jonathan T. Moon , Bruce Walter , Stephen R. Marschner, Rendering discrete random media using precomputed scattering solutions, Proceedings of the 18th Eurographics conference on Rendering Techniques, June 25-27, 2007, Grenoble, France[doi>10.2312/EGWR/EGSR07/231-242]
+J. Muschaweck. 2011. What's in a ray set: Moving towards a unified ray set format. In Illumination Optics II, SPIE.
+Ravi Ramamoorthi, Precomputation-Based Rendering, Foundations and Trends® in Computer Graphics and Vision, v.3 n.4, p.281-369, April 2009[doi>10.1561/0600000021]
+Ravi Ramamoorthi , Pat Hanrahan, An efficient representation for irradiance environment maps, Proceedings of the 28th annual conference on Computer graphics and interactive techniques, p.497-500, August 2001[doi>10.1145/383259.383317]
+M. Rea, Ed. 2000. The IESNA Lighting Handbook: Reference and Application, 9<sup>th</sup> Ed. Illuminating Engineering Society of North America.
+Peter Shirley , Kenneth Chiu, A low distortion map between disk and square, Journal of Graphics Tools, v.2 n.3, p.45-52, 1997[doi>10.1080/10867651.1997.10487479]
+Peter-Pike Sloan , Jan Kautz , John Snyder, Precomputed radiance transfer for real-time rendering in dynamic, low-frequency lighting environments, ACM Transactions on Graphics (TOG), v.21 n.3, July 2002[doi>10.1145/566654.566612]
+E. Veach and L. Guibas. 1995. Bidirectional estimators for light transport. In Proceedings of the Annual ACM SIGGRAPH Conference on Computer Graphics and Interactive Techniques (SIGGRAPH'95). 145--167.
+Channing Verbeck , Donald Greenberg, A Comprehensive Light-Source Description for Computer Graphics, IEEE Computer Graphics and Applications, v.4 n.7, p.66-75, July 1984[doi>10.1109/MCG.1984.275906]
+B. Walter, K. Bala, M. Kulkarni, and K. Pingali. 2008. Fast agglomerative clustering for rendering. In Proceedings of the IEEE Symposium on Interactive Ray Tracing (IRT'08). 81--86.
+Bruce Walter , Sebastian Fernandez , Adam Arbree , Kavita Bala , Michael Donikian , Donald P. Greenberg, Lightcuts: a scalable approach to illumination, ACM Transactions on Graphics (TOG), v.24 n.3, July 2005[doi>10.1145/1073204.1073318]
+Bruce Walter , Stephen R. Marschner , Hongsong Li , Kenneth E. Torrance, Microfacet models for refraction through rough surfaces, Proceedings of the 18th Eurographics conference on Rendering Techniques, June 25-27, 2007, Grenoble, France[doi>10.2312/EGWR/EGSR07/195-206]
+Gregory J. Ward, The RADIANCE lighting simulation and rendering system, Proceedings of the 21st annual conference on Computer graphics and interactive techniques, p.459-472, July 1994[doi>10.1145/192161.192286]
+E. Werness and P. Daniell. 2011. ARB texture compression BPTC. http://www.opengl.org/registry/specs/ARB/texture&lowbar;compression&lowbar;bptc.txt.

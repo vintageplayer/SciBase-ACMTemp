@@ -1,0 +1,30 @@
+Amanatides, J., and Woo, A. 1987. A fast voxel traversal algorithm for ray tracing. InEurographics '87, 3--10.
+Brown, F. B., and Martin, W. R. 2003. Direct sampling of Monte Carlo flight paths in media with continuously varying cross-sections. InProc. of ANS Mathematics & Computation Topical Meeting, 6--11.
+Carter, L. L., Cashwell, E. D., and Taylor, W. M. 1972. Monte Carlo sampling with continuously varying cross sections along flight paths.Nuclear Science and Engineering 48, 4, 403--411.
+Cerezo, E., Pérez, F., Pueyo, X., Seron, F. J., and Sillion, F. X. 2005. A survey on participating media rendering techniques.The Visual Computer 21, 5, 303--328.
+Chandrasekhar, S. 1960.Radiative Transfer. Dover Publications.
+Coleman, W. A. 1968. Mathematical verification of a certain Monte Carlo sampling technique and applications of the technique to radiation transport problems.Nuclear Science and Engineering 32, 1 (Apr.), 76--81.
+Dachsbacher, C., Křivánek, J., Hašan, M., Arbree, A., Walter, B., and Novák, J. 2013. Scalable realistic rendering with many-light methods.Computer Graphics Forum 33, 1, 88--104.
+Galtier, M., Blanco, S., Caliot, C., Coustet, C., Dauchet, J., Hafi, M. E., Eymet, V., Fournier, R., Gautrais, J., Khuong, A., Piaud, B., and Terre, G. 2013. Integral formulation of null-collision Monte Carlo algorithms.Journal of Quantitative Spectroscopy and Radiative Transfer 125(Apr.), 57--68.
+Iliyan Georgiev , Jaroslav Křivánek , Toshiya Hachisuka , Derek Nowrouzezahrai , Wojciech Jarosz, Joint importance sampling of low-order volumetric scattering, ACM Transactions on Graphics (TOG), v.32 n.6, November 2013[doi>10.1145/2508363.2508411]
+Hayakawa, C. K., Spanier, J., and Venugopalan, V. 2014. Comparative analysis of discrete and continuous absorption weighting estimators used in Monte Carlo simulations of radiative transport in turbid media.J. Opt. Soc. Am. A 31, 2, 301--311.
+Hykes, J. M., and Densmore, J. D. 2009. Non-analog Monte Carlo estimators for radiation momentum deposition.Journal of Quantitative Spectroscopy and Radiative Transfer 110, 13, 1097--1110.
+Jakob, W., 2010. Mitsuba renderer. http://www.mitsuba-renderer.org.
+Wojciech Jarosz , Derek Nowrouzezahrai , Robert Thomas , Peter-Pike Sloan , Matthias Zwicker, Progressive photon beams, ACM Transactions on Graphics (TOG), v.30 n.6, December 2011[doi>10.1145/2070781.2024215]
+James T. Kajiya, The rendering equation, ACM SIGGRAPH Computer Graphics, v.20 n.4, p.143-150, Aug. 1986[doi>10.1145/15886.15902]
+Alexander Keller, Instant radiosity, Proceedings of the 24th annual conference on Computer graphics and interactive techniques, p.49-56, August 1997[doi>10.1145/258734.258769]
+Christopher Kulla , Marcos Fajardo, Importance Sampling Techniques for Path Tracing in Participating Media, Computer Graphics Forum, v.31 n.4, p.1519-1528, June 2012[doi>10.1111/j.1467-8659.2012.03148.x]
+Jaroslav Křivánek , Iliyan Georgiev , Toshiya Hachisuka , Petr Vévoda , Martin Šik , Derek Nowrouzezahrai , Wojciech Jarosz, Unifying points, beams, and paths in volumetric light transport simulation, ACM Transactions on Graphics (TOG), v.33 n.4, July 2014[doi>10.1145/2601097.2601219]
+Lafortune, E. P., and Willems, Y. D. 1993. Bi-directional path tracing. InCompugraphics '93, 145--153.
+Leppänen, J. 2010. Performance of Woodcock delta-tracking in lattice physics applications using the Serpent Monte Carlo reactor physics burnup calculation code.Annals of Nuclear Energy 37, 5, 715--722.
+Ken Museth, VDB: High-resolution sparse volumes with dynamic topology, ACM Transactions on Graphics (TOG), v.32 n.3, p.1-22, June 2013[doi>10.1145/2487228.2487235]
+Mark Pauly , Thomas Kollig , Alexander Keller, Metropolis Light Transport for Participating Media, Proceedings of the Eurographics Workshop on Rendering Techniques 2000, p.11-22, June 26-28, 2000
+K. Perlin , E. M. Hoffert, Hypertexture, ACM SIGGRAPH Computer Graphics, v.23 n.3, p.253-262, July 1989[doi>10.1145/74334.74359]
+Matt Pharr , Greg Humphreys, Physically Based Rendering, Second Edition: From Theory To Implementation, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2010
+Raab, M., Seibert, D., and Keller, A. 2008. Unbiased global illumination with participating media. InMonte Carlo and Quasi-Monte Carlo Methods 2006. Springer, 591--606.
+Skullerud, H. R. 1968. The stochastic computer simulation of ion motion in a gas subjected to a constant electric field.Journal of Physics D: Applied Physics 1, 11, 1567--1568.
+Szirmay-Kalos, L., Tóth, B., and Magdics, M. 2011. Free path sampling in high resolution inhomogeneous participating media.Computer Graphics Forum 30, 1, 85--97.
+Veach, E., and Guibas, L. J. 1994. Bidirectional estimators for light transport. InProc. of Eurographics Rendering Workshop 1994, 147--162.
+von Neumann, J. 1951. Various techniques used in connection with random digits.Journal of Research of the National Bureau of Standards, Appl. Math. Series 12, 36--38.
+Woodcock, E., Murphy, T., Hemmings, P., and T. C., L. 1965. Techniques used in the GEM code for Monte Carlo neutronics calculations in reactors and other systems of complex geometry. InApplications of Computing Methods to Reactor Problems, Argonne National Laboratory.
+Yonghao Yue , Kei Iwasaki , Bing-Yu Chen , Yoshinori Dobashi , Tomoyuki Nishita, Unbiased, adaptive stochastic sampling for rendering inhomogeneous participating media, ACM Transactions on Graphics (TOG), v.29 n.6, December 2010[doi>10.1145/1882261.1866199]

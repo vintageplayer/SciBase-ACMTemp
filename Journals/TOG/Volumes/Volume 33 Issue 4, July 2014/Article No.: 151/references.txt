@@ -1,0 +1,28 @@
+Áfra, A. T., and Szirmay-Kalos, L. 2013. Stackless Multi-BVH Traversal for CPU, MIC and GPU Ray Tracing.Computer Graphics Forum, 33, 1, 129--140.
+Barringer, R., and Akenine-Möller, T. 2013. Dynamic Stackless Binary Tree Traversal.Journal of Computer Graphics Techniques, 2, 1 (March), 38--49.
+Carsten Benthin , Ingo Wald , Sven Woop , Manfred Ernst , William R. Mark, Combining Single and Packet-Ray Tracing for Arbitrary Ray Distributions on the Intel MIC Architecture, IEEE Transactions on Visualization and Computer Graphics, v.18 n.9, p.1438-1448, September 2012[doi>10.1109/TVCG.2011.277]
+Boulos, S., Wald, I., and Benthin, C. 2008. Adaptive Ray Packet Reordering. InSymposium on Interactive Ray Tracing, 131--138.
+Holger Dammertz , Johannes Hanika , Alexander Keller, Shallow bounding volume hierarchies for fast SIMD ray tracing of incoherent rays, Proceedings of the Nineteenth Eurographics conference on Rendering, June 23-25, 2008, Sarajevo, Bosnia and Herzegovina[doi>10.1111/j.1467-8659.2008.01261.x]
+Christian Eisenacher , Gregory Nichols , Andrew Selle , Brent Burley, Sorted deferred shading for production path tracing, Proceedings of the Eurographics Symposium on Rendering, June 19-21, 2013, Zaragoza, Spain[doi>10.1111/cgf.12158]
+Ernst, M., and Greiner, G. 2008. Multi Bounding Volume Hierarchies. InIEEE Interactive Ray Tracing, 35--40.
+Garanzha, K., and Loop, C. 2010. Fast Ray Sorting and Breadth-First Packet Traversal for GPU Ray Tracing.Computer Graphics Forum, 29, 2, 289--298.
+Gribble, C. P., and Ramani, K. 2008. Coherent Ray Tracing via Stream Filtering. InSymposium on Interactive Ray Tracing, 59--66.
+P Hanrahan, Using caching and breadth-first search to speed up ray-tracing, Proceedings on Graphics Interface '86/Vision Interface '86, p.56-61, August 1986, Vancouver, British Columbia, Canada
+Michal Hapala , Tomáš Davidovič , Ingo Wald , Vlastimil Havran , Philipp Slusallek, Efficient stack-less BVH traversal for ray tracing, Proceedings of the 27th Spring Conference on Computer Graphics, April 28-30, 2011, Vini&ccaron;né, Slovak Republic[doi>10.1145/2461217.2461219]
+Hennessey, J. L., and Pattersson, D. A. 2011.Computer Architecture: A Quantitative Approach, 5th ed. Morgan Kaufmann.
+David M. Hughes , Ik Soo Lim, Kd-Jump: a Path-Preserving Stackless Traversal for Faster Isosurface Raytracing on GPUs, IEEE Transactions on Visualization and Computer Graphics, v.15 n.6, p.1555-1562, November 2009[doi>10.1109/TVCG.2009.161]
+Ize, T., and Hansen, C. 2011. RTSAH Traversal Order for Occlusion Rays.Computer Graphics Forum, 30, 2, 297--305.
+James T. Kajiya, The rendering equation, Proceedings of the 13th annual conference on Computer graphics and interactive techniques, p.143-150, August 1986[doi>10.1145/15922.15902]
+Samuli Laine , Tero Karras , Timo Aila, Megakernels considered harmful: wavefront path tracing on GPUs, Proceedings of the 5th High-Performance Graphics Conference, July 19-21, 2013, Anaheim, California[doi>10.1145/2492045.2492060]
+Samuli Laine, Restart trail for stackless BVH traversal, Proceedings of the Conference on High Performance Graphics, June 25-27, 2010, Saarbrucken, Germany
+Tomas Möller , Ben Trumbore, Fast, minimum storage ray-triangle intersection, Journal of Graphics Tools, v.2 n.1, p.21-28, 1997[doi>10.1080/10867651.1997.10487468]
+Benjamin Mora, Naive ray-tracing: A divide-and-conquer approach, ACM Transactions on Graphics (TOG), v.30 n.5, p.1-12, October 2011[doi>10.1145/2019627.2019636]
+Pharr, M., and Mark, W. 2012. ispc: A SPMD Compiler for High-Performance CPU Programming. InInnovative Parallel Computing (InPar), 1--13.
+Karthik Ramani , Christiaan P. Gribble , Al Davis, StreamRay: a stream filtering architecture for coherent ray tracing, Proceedings of the 14th international conference on Architectural support for programming languages and operating systems, March 07-11, 2009, Washington, DC, USA[doi>10.1145/1508244.1508282]
+John A. Tsakok, Faster incoherent rays: Multi-BVH ray stream tracing, Proceedings of the Conference on High Performance Graphics 2009, August 01-03, 2009, New Orleans, Louisiana[doi>10.1145/1572769.1572793]
+Wald, I., Slusallek, P., Benthin, C., and Wagner, M. 2001. Interactive Rendering with Coherent Ray Tracing.Computer Graphics Forum, 20, 3, 153--164.
+Wald, I., Gribble, C. P., Boulos, S., and Kensler, A. 2007. SIMD Ray Stream Tracing - SIMD Ray Traversal with Generalized Ray Packets and On-the-fly Re-Ordering. Tech. Rep. UUSCI-2007-012.
+Wald, I., Benthin, C., and Boulos, S. 2008. Getting Rid of Packets - Efficient SIMD Single-Ray Traversal using Multi-Branching BVHs. InIEEE Symposium on Interactive Ray Tracing, 49--57.
+Ingo Wald, On fast Construction of SAH-based Bounding Volume Hierarchies, Proceedings of the 2007 IEEE Symposium on Interactive Ray Tracing, p.33-40, September 10-12, 2007[doi>10.1109/RT.2007.4342588]
+Turner Whitted, An improved illumination model for shaded display, Communications of the ACM, v.23 n.6, p.343-349, June 1980[doi>10.1145/358876.358882]
+Sven Woop , Louis Feng , Ingo Wald , Carsten Benthin, Embree ray tracing kernels for CPUs and the Xeon Phi architecture, ACM SIGGRAPH 2013 Talks, July 21-25, 2013, Anaheim, California[doi>10.1145/2504459.2504515]

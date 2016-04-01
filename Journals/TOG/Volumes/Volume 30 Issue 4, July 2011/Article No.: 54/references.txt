@@ -1,0 +1,33 @@
+Tomas Akenine-Möller , Jacob Munkberg , Jon Hasselgren, Stochastic rasterization using time-continuous triangles, Proceedings of the 22nd ACM SIGGRAPH/EUROGRAPHICS symposium on Graphics hardware, August 04-05, 2007, San Diego, California
+IEEE Computer Graphics and Applications Staff, Hyperbolic Interpolation, IEEE Computer Graphics and Applications, v.12 n.4, p.89-94, July 1992
+Christopher A. Burns , Kayvon Fatahalian , William R. Mark, A lazy object-space shading architecture with decoupled sampling, Proceedings of the Conference on High Performance Graphics, June 25-27, 2010, Saarbrucken, Germany
+Edwin Earl Catmull, A subdivision algorithm for computer display of curved surfaces., The University of Utah, 1974
+Edwin Catmull, A hidden-surface algorithm with anti-aliasing, Proceedings of the 5th annual conference on Computer graphics and interactive techniques, p.6-11, August 23-25, 1978[doi>10.1145/800248.807360]
+Edwin Catmull, An analytic visible surface algorithm for independent pixel processing, Proceedings of the 11th annual conference on Computer graphics and interactive techniques, p.109-115, January 1984[doi>10.1145/800031.808586]
+Robert L. Cook , Thomas Porter , Loren Carpenter, Distributed ray tracing, Proceedings of the 11th annual conference on Computer graphics and interactive techniques, p.137-145, January 1984[doi>10.1145/800031.808590]
+Robert L. Cook , Loren Carpenter , Edwin Catmull, The Reyes image rendering architecture, Proceedings of the 14th annual conference on Computer graphics and interactive techniques, p.95-102, August 1987[doi>10.1145/37401.37414]
+Dally, W. 2009. Power Efficient Supercomputing. Accelerator-based Computing and Manycore Workshop (presentation).
+Kayvon Fatahalian , Edward Luong , Solomon Boulos , Kurt Akeley , William R. Mark , Pat Hanrahan, Data-parallel rasterization of micropolygons with defocus and motion blur, Proceedings of the Conference on High Performance Graphics 2009, August 01-03, 2009, New Orleans, Louisiana[doi>10.1145/1572769.1572780]
+Henry Fuchs , Zvi M. Kedem , Bruce F. Naylor, On visible surface generation by a priori tree structures, Proceedings of the 7th annual conference on Computer graphics and interactive techniques, p.124-133, July 14-18, 1980, Seattle, Washington, USA[doi>10.1145/800250.807481]
+Stephane Grabli , Fredo Durand , Francois X. Sillion, Density Measure for Line-Drawing Simplification, Proceedings of the Computer Graphics and Applications, 12th Pacific Conference, p.309-318, October 06-08, 2004
+Charles W. Grant, Integrated analytic spatial and temporal anti-aliasing for polyhedra in 4-space, Proceedings of the 12th annual conference on Computer graphics and interactive techniques, p.79-84, July 1985[doi>10.1145/325334.325184]
+Ned Greene , Michael Kass , Gavin Miller, Hierarchical Z-buffer visibility, Proceedings of the 20th annual conference on Computer graphics and interactive techniques, p.231-238, August 02-06, 1993, Anaheim, CA[doi>10.1145/166117.166147]
+Carl Johan Gribel , Michael Doggett , Tomas Akenine-Möller, Analytical motion blur rasterization with compression, Proceedings of the Conference on High Performance Graphics, June 25-27, 2010, Saarbrucken, Germany
+Toshiya Hachisuka , Wojciech Jarosz , Richard Peter Weistroffer , Kevin Dale , Greg Humphreys , Matthias Zwicker , Henrik Wann Jensen, Multidimensional adaptive sampling and reconstruction for ray tracing, ACM Transactions on Graphics (TOG), v.27 n.3, August 2008[doi>10.1145/1360612.1360632]
+Paul Haeberli , Kurt Akeley, The accumulation buffer: hardware support for high-quality rendering, Proceedings of the 17th annual conference on Computer graphics and interactive techniques, p.309-318, September 1990, Dallas, TX, USA[doi>10.1145/97879.97913]
+John L. Hennessy , David A. Patterson, Computer Architecture, Fourth Edition: A Quantitative Approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2006
+Thouis R. Jones , Ronald N. Perry, Antialiasing with Line Samples, Proceedings of the Eurographics Workshop on Rendering Techniques 2000, p.197-206, June 26-28, 2000
+Jonathan Korein , Norman Badler, Temporal anti-aliasing in computer generated animation, Proceedings of the 10th annual conference on Computer graphics and interactive techniques, p.377-388, July 25-29, 1983, Detroit, Michigan, USA[doi>10.1145/800059.801168]
+Samuli Laine , Tero Karras, Two methods for fast ray-cast ambient occlusion, Proceedings of the 21st Eurographics conference on Rendering, June 28-30, 2010, Saarbrücken, Germany[doi>10.1111/j.1467-8659.2010.01728.x]
+Manson, J., and Schaefer, S. 2011. Wavelet Rasterization.Computer Graphics Forum, 30, 2, 395--404.
+M. McGuire , E. Enderton , P. Shirley , D. Luebke, Real-time stochastic rasterization on conventional GPU architectures, Proceedings of the Conference on High Performance Graphics, June 25-27, 2010, Saarbrucken, Germany
+Avi C. Naiman, Jagged edges: when is filtering needed?, ACM Transactions on Graphics (TOG), v.17 n.4, p.238-258, Oct. 1998[doi>10.1145/293145.293147]
+Owens, J. D. 2005. Streaming Architectures and Technology Trends. InGPU Gems 2. Addison-Wesley, 457--470.
+Jacopo Pantaleoni , Luca Fascione , Martin Hill , Timo Aila, PantaRay: fast ray-traced occlusion caching of massive scenes, ACM Transactions on Graphics (TOG), v.29 n.4, July 2010[doi>10.1145/1778765.1778774]
+Jonathan Ragan-Kelley , Jaakko Lehtinen , Jiawen Chen , Michael Doggett , Frédo Durand, Decoupled sampling for graphics pipelines, ACM Transactions on Graphics (TOG), v.30 n.3, p.1-17, May 2011[doi>10.1145/1966394.1966396]
+K. Sung , A. Pearce , C. Wang, Spatial-Temporal Antialiasing, IEEE Transactions on Visualization and Computer Graphics, v.8 n.2, p.144-153, April 2002[doi>10.1109/2945.998667]
+Ivan E. Sutherland , Robert F. Sproull , Robert A. Schumacker, A Characterization of Ten Hidden-Surface Algorithms, ACM Computing Surveys (CSUR), v.6 n.1, p.1-55, March 1974[doi>10.1145/356625.356626]
+Kevin Weiler , Peter Atherton, Hidden surface removal using polygon area sorting, Proceedings of the 4th annual conference on Computer graphics and interactive techniques, p.214-222, July 20-22, 1977, San Jose, California[doi>10.1145/563858.563896]
+Daniel Wexler , Larry Gritz , Eric Enderton , Jonathan Rice, GPU-accelerated high-quality hidden surface removal, Proceedings of the ACM SIGGRAPH/EUROGRAPHICS conference on Graphics hardware, July 30-31, 2005, Los Angeles, California[doi>10.1145/1071866.1071868]
+Turner Whitted, An improved illumination model for shaded display, Communications of the ACM, v.23 n.6, p.343-349, June 1980[doi>10.1145/358876.358882]
+Zhukov, S., Iones, A., and Kronin, G. 1998. An Ambient Light Illumination Model. InEurographics Workshop on Rendering, 45--55.

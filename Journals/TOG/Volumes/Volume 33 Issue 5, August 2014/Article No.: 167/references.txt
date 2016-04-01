@@ -1,0 +1,37 @@
+A. Adams, J. Baek, and A. Davis. 2010. Fast high-dimensional filtering using the permutohedral lattice. http://graphics.stanford.edu/papers/permutohedral/permutohedral.pdf.
+Andrew Adams , Natasha Gelfand , Jennifer Dolson , Marc Levoy, Gaussian KD-trees for fast high-dimensional filtering, ACM Transactions on Graphics (TOG), v.28 n.3, August 2009[doi>10.1145/1531326.1531327]
+Gilles Aubert , Pierre Kornprobst, Mathematical Problems in Image Processing: Partial Differential Equations and the Calculus of Variations (Applied Mathematical Sciences), Springer-Verlag New York, Inc., Secaucus, NJ, 2006
+Soonmin Bae , Sylvain Paris , Frédo Durand, Two-scale tone management for photographic look, ACM Transactions on Graphics (TOG), v.25 n.3, July 2006[doi>10.1145/1141911.1141935]
+D. Barash and D. Comaniciu. 2004. A common framework for nonlinear diffusion, adaptive smoothing, bilateral filtering and mean shift. J. Image Video Comput. 22, 73--81.
+M. J. Black , G. Sapiro , D. H. Marimont , D. Heeger, Robust anisotropic diffusion, IEEE Transactions on Image Processing, v.7 n.3, p.421-432, March 1998[doi>10.1109/83.661192]
+A. Buades, B. Coll, and J.-M. Morel. 2005a. Neighborhood filters and PDE's. Tech. rep. 2005-04, CMLA.
+Antoni Buades , Bartomeu Coll , Jean-Michel Morel, A Non-Local Algorithm for Image Denoising, Proceedings of the 2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05) - Volume 2, p.60-65, June 20-26, 2005[doi>10.1109/CVPR.2005.38]
+A. Buades , B. Coll , J. -M. Morel, The staircasing effect in neighborhood filters and its solution, IEEE Transactions on Image Processing, v.15 n.6, p.1499-1505, June 2006[doi>10.1109/TIP.2006.871137]
+Jiawen Chen , Sylvain Paris , Frédo Durand, Real-time edge-aware image processing with the bilateral grid, ACM Transactions on Graphics (TOG), v.26 n.3, July 2007[doi>10.1145/1276377.1276506]
+K. Dabov, A. Foi, V. Katkovnik, and K. Egiazarian. 2006. Image denoising with block-matching and 3D filtering. Proc. SPIE 6064, A30.
+Frédo Durand , Julie Dorsey, Fast bilateral filtering for the display of high-dynamic-range images, ACM Transactions on Graphics (TOG), v.21 n.3, July 2002[doi>10.1145/566654.566574]
+Elmar Eisemann , Frédo Durand, Flash photography enhancement via intrinsic relighting, ACM Transactions on Graphics (TOG), v.23 n.3, August 2004[doi>10.1145/1015706.1015778]
+M. Elad, On the origin of the bilateral filter and ways to improve it, IEEE Transactions on Image Processing, v.11 n.10, p.1141-1151, October 2002[doi>10.1109/TIP.2002.801126]
+Zeev Farbman , Raanan Fattal , Dani Lischinski , Richard Szeliski, Edge-preserving decompositions for multi-scale tone and detail manipulation, ACM Transactions on Graphics (TOG), v.27 n.3, August 2008[doi>10.1145/1360612.1360666]
+Raanan Fattal, Edge-avoiding wavelets and their applications, ACM Transactions on Graphics (TOG), v.28 n.3, August 2009[doi>10.1145/1531326.1531328]
+Raanan Fattal , Maneesh Agrawala , Szymon Rusinkiewicz, Multiscale shape and detail enhancement from multi-light image collections, ACM Transactions on Graphics (TOG), v.26 n.3, July 2007[doi>10.1145/1276377.1276441]
+Raanan Fattal , Dani Lischinski , Michael Werman, Gradient domain high dynamic range compression, ACM Transactions on Graphics (TOG), v.21 n.3, July 2002[doi>10.1145/566654.566573]
+Eduardo S. L. Gastal , Manuel M. Oliveira, Domain transform for edge-aware image and video processing, ACM Transactions on Graphics (TOG), v.30 n.4, July 2011[doi>10.1145/2010324.1964964]
+Eduardo S. L. Gastal , Manuel M. Oliveira, Adaptive manifolds for real-time high-dimensional filtering, ACM Transactions on Graphics (TOG), v.31 n.4, p.1-13, July 2012[doi>10.1145/2185520.2185529]
+Kaiming He , Jian Sun , Xiaoou Tang, Guided image filtering, Proceedings of the 11th European conference on Computer vision: Part I, September 05-11, 2010, Heraklion, Crete, Greece
+Michael Kass , Justin Solomon, Smoothed local histogram filters, ACM Transactions on Graphics (TOG), v.29 n.4, July 2010[doi>10.1145/1778765.1778837]
+Yuanzhen Li , Lavanya Sharan , Edward H. Adelson, Compressing and companding high dynamic range images with subband architectures, ACM Transactions on Graphics (TOG), v.24 n.3, July 2005[doi>10.1145/1073204.1073271]
+P. Mrzek, J. Weickert, and A. Bruhn. 2006. Robust estimation and smoothing with spatial and tonal kernels. In Geometric Properties from Incomplete Data. Springer.
+Sylvain Paris , Frédo Durand, A Fast Approximation of the Bilateral Filter Using a Signal Processing Approach, International Journal of Computer Vision, v.81 n.1, p.24-52, January   2009[doi>10.1007/s11263-007-0110-8]
+Sylvain Paris , Samuel W. Hasinoff , Jan Kautz, Local Laplacian filters: edge-aware image processing with a Laplacian pyramid, ACM Transactions on Graphics (TOG), v.30 n.4, July 2011[doi>10.1145/2010324.1964963]
+Sylvain Paris , Pierre Kornprobst , Jack Tumblin, Bilateral Filtering, Now Publishers Inc., Hanover, MA, 2009
+P. Perona , J. Malik, Scale-Space and Edge Detection Using Anisotropic Diffusion, IEEE Transactions on Pattern Analysis and Machine Intelligence, v.12 n.7, p.629-639, July 1990[doi>10.1109/34.56205]
+Georg Petschnigg , Richard Szeliski , Maneesh Agrawala , Michael Cohen , Hugues Hoppe , Kentaro Toyama, Digital photography with flash and no-flash image pairs, ACM Transactions on Graphics (TOG), v.23 n.3, August 2004[doi>10.1145/1015706.1015777]
+Jonathan Ragan-Kelley , Andrew Adams , Sylvain Paris , Marc Levoy , Saman Amarasinghe , Frédo Durand, Decoupling algorithms from schedules for easy optimization of image processing pipelines, ACM Transactions on Graphics (TOG), v.31 n.4, p.1-12, July 2012[doi>10.1145/2185520.2185528]
+Kartic Subr , Cyril Soler , Frédo Durand, Edge-preserving multiscale image decomposition based on local extrema, ACM Transactions on Graphics (TOG), v.28 n.5, December 2009[doi>10.1145/1618452.1618493]
+Kalyan Sunkavalli , Micah K. Johnson , Wojciech Matusik , Hanspeter Pfister, Multi-scale image harmonization, ACM Transactions on Graphics (TOG), v.29 n.4, July 2010[doi>10.1145/1778765.1778862]
+C. Tomasi , R. Manduchi, Bilateral Filtering for Gray and Color Images, Proceedings of the Sixth International Conference on Computer Vision, p.839, January 04-07, 1998
+Matthew Trentacoste , Ratal Mantiuk , Wolfgang Heidrich , Florian Dufrot, Unsharp Masking, Countershading and Halos: Enhancements or Artifacts?, Computer Graphics Forum, v.31 n.2pt4, p.555-564, May 2012[doi>10.1111/j.1467-8659.2012.03056.x]
+Rein van den Boomgaard , Joost van de Weijer, On the Equivalence of Local-Mode Finding, Robust Estimation and Mean-Shift Analysis as Used in Early Vision Tasks, Proceedings of the 16 th International Conference on Pattern Recognition (ICPR'02) Volume 3, p.30927, August 11-15, 2002
+Li Xu , Cewu Lu , Yi Xu , Jiaya Jia, Image smoothing viaL0gradient minimization, ACM Transactions on Graphics (TOG), v.30 n.6, December 2011[doi>10.1145/2070781.2024208]
+J. Zhong and H. Sun. 2008. Wavelet-based multiscale diffusion with adaptive statistical analysis for image restoration. IEEE Trans. Circ. Syst. 55, 9.

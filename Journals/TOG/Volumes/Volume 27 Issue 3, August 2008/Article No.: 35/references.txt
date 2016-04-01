@@ -1,0 +1,33 @@
+Born, M., and Wolf, E. 1999.Principles of Optics (7th edition). Cambridge University Press.
+Siddhartha Chatterjee , Guy E. Blelloch , Marco Zagha, Scan primitives for vector computers, Proceedings of the 1990 ACM/IEEE conference on Supercomputing, p.666-675, October 1990, New York, New York, USA
+Crane, K., Llamas, I., and Tariq, S. 2007. Real-Time Simulation and Rendering of 3D Fluids. InGPU Gems 3, H. Nguyen, Ed. Addison-Wesley Professional, ch. 30, 633--675.
+Scott T Davis , Chris Wyman, Interactive refractions with total internal reflection, Proceedings of Graphics Interface 2007, May 28-30, 2007, Montreal, Canada[doi>10.1145/1268517.1268548]
+Yoshinori Dobashi , Tsuyoshi Yamamoto , Tomoyuki Nishita, Interactive rendering of atmospheric scattering effects using graphics hardware, Proceedings of the ACM SIGGRAPH/EUROGRAPHICS conference on Graphics hardware, September 01-02, 2002, Saarbrucken, Germany
+Elmar Eisemann , Xavier Décoret, Fast scene voxelization and applications, Proceedings of the 2006 symposium on Interactive 3D graphics and games, March 14-17, 2006, Redwood City, California[doi>10.1145/1111411.1111424]
+Manfred Ernst , Tomas Akenine-Möller , Henrik Wann Jensen, Interactive rendering of caustics using interpolated warped volumes, Proceedings of Graphics Interface 2005, May 09-11, 2005, Victoria, British Columbia
+Fang, S., and Chen, H. 2000. Hardware Accelerated Voxelization.Computers and Graphics 24, 3, 433--442.
+Ronald Fedkiw , Jos Stam , Henrik Wann Jensen, Visual simulation of smoke, Proceedings of the 28th annual conference on Computer graphics and interactive techniques, p.15-22, August 2001[doi>10.1145/383259.383260]
+D. Gutierrez , F. J. Seron , O. Anson , A. Muñoz, Chasing the green flash: a global illumination solution for inhomogeneous media, Proceedings of the 20th spring conference on Computer graphics, April 22-24, 2004, Budmerice, Slovakia[doi>10.1145/1037210.1037225]
+Diego Gutierrez , Adolfo Munoz , Oscar Anson , Francisco J. Seron, Non-linear volume photon mapping, Proceedings of the Sixteenth Eurographics conference on Rendering Techniques, June 29-July 01, 2005, Konstanz, Germany[doi>10.2312/EGWR/EGSR05/291-300]
+Takeo Igarashi , Satoshi Matsuoka , Hidehiko Tanaka, Teddy: a sketching interface for 3D freeform design, Proceedings of the 26th annual conference on Computer graphics and interactive techniques, p.409-416, July 1999[doi>10.1145/311535.311602]
+Ivo Ihrke , Gernot Ziegler , Art Tevs , Christian Theobalt , Marcus Magnor , Hans-Peter Seidel, Eikonal rendering: efficient light transport in refractive objects, ACM Transactions on Graphics (TOG), v.26 n.3, July 2007[doi>10.1145/1276377.1276451]
+Iwasaki, K., Dobashi, Y., and Nishita, T. 2002. An Efficient Method for Rendering Underwater Optical Effects Using Graphics Hardware.Computer Graphics Forum 21, 4, 701--711.
+Henrik Wann Jensen , Per H. Christensen, Efficient simulation of light transport in scences with participating media using photon maps, Proceedings of the 25th annual conference on Computer graphics and interactive techniques, p.311-320, July 1998[doi>10.1145/280814.280925]
+Henrik Wann Jensen, Global illumination using photon maps, Proceedings of the eurographics workshop on Rendering techniques '96, p.21-30, December 1996, Porto, Portugal
+James T. Kajiya , Brian P Von Herzen, Ray tracing volume densities, Proceedings of the 11th annual conference on Computer graphics and interactive techniques, p.165-174, January 1984[doi>10.1145/800031.808594]
+Jens Krüger , Kai Bürger , Rüdiger Westermann, Interactive screen-space accurate photon tracing on GPUs, Proceedings of the 17th Eurographics conference on Rendering Techniques, June 26-28, 2006, Nicosia, Cyprus[doi>10.2312/EGWR/EGSR06/319-329]
+Jonathan T. Moon , Bruce Walter , Stephen R. Marschner, Rendering discrete random media using precomputed scattering solutions, Proceedings of the 18th Eurographics conference on Rendering Techniques, June 25-27, 2007, Grenoble, France[doi>10.2312/EGWR/EGSR07/231-242]
+Patrick Mullen , Alexander McKenzie , Yiying Tong , Mathieu Desbrun, A variational approach to Eulerian geometry processing, ACM Transactions on Graphics (TOG), v.26 n.3, July 2007[doi>10.1145/1276377.1276459]
+Nvidia Corporation. 2007. CUDA Programming Guide. http://developer.nvidia.com/object/cuda.html.
+Manuel M. Oliveira , Maicon Brauwers, Real-time refraction through deformable objects, Proceedings of the 2007 symposium on Interactive 3D graphics and games, April 30-May 02, 2007, Seattle, Washington[doi>10.1145/1230100.1230116]
+Mark Pauly , Richard Keiser , Leif P. Kobbelt , Markus Gross, Shape modeling with point-sampled geometry, ACM Transactions on Graphics (TOG), v.22 n.3, July 2003[doi>10.1145/882262.882319]
+Timothy J. Purcell , Craig Donner , Mike Cammarano , Henrik Wann Jensen , Pat Hanrahan, Photon mapping on programmable graphics hardware, Proceedings of the ACM SIGGRAPH/EUROGRAPHICS conference on Graphics hardware, July 26-27, 2003, San Diego, California
+Jos Stam , Eric Languénou, Ray tracing in non-constant media, Proceedings of the eurographics workshop on Rendering techniques '96, p.225-ff., December 1996, Porto, Portugal
+Bo Sun , Ravi Ramamoorthi , Srinivasa G. Narasimhan , Shree K. Nayar, A practical analytic single scattering model for real time rendering, ACM Transactions on Graphics (TOG), v.24 n.3, July 2005[doi>10.1145/1073204.1073309]
+Szirmay-Kalos, L., Aszódi, B., Lazányi, I., and Premecz, M. 2005. Approximate Ray-Tracing on the GPU with Distance Impostors.Computer Graphics Forum 24, 3, 695--704.
+Weiskopf, D., Schafhitzel, T., and Ertl, T. 2004. GPU-Based Nonlinear Ray Tracing.Computer Graphics Forum 23, 3, 625--633.
+Turner Whitted, An improved illumination model for shaded display, Communications of the ACM, v.23 n.6, p.343-349, June 1980[doi>10.1145/358876.358882]
+Chris Wyman , Scott Davis, Interactive image-space techniques for approximating caustics, Proceedings of the 2006 symposium on Interactive 3D graphics and games, March 14-17, 2006, Redwood City, California[doi>10.1145/1111411.1111439]
+Chris Wyman, An approximate image-space approach for interactive refraction, ACM Transactions on Graphics (TOG), v.24 n.3, July 2005[doi>10.1145/1073204.1073310]
+Long Zhang , Wei Chen , David S. Ebert , Qunsheng Peng, Conservative voxelization, The Visual Computer: International Journal of Computer Graphics, v.23 n.9, p.783-792, August 2007[doi>10.1007/s00371-007-0149-0]
+Ziegler, G., Dimitrov, R., Theobalt, C., and Seidel, H.-P. 2007. Real-Time Quadtree Analysis Using HistoPyramids. InReal-Time Image Processing 2007, vol. 6496.

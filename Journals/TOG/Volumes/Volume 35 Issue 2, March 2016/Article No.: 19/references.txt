@@ -1,0 +1,35 @@
+O. A. Aguilar and J. C. Huegel. 2011. Inverse kinematics solution for robotic manipulators using a CUDA-based parallel genetic algorithm. In Advances in Artificial Intelligence, Ildar Batyrshin and Grigori Sidorov (Eds.). Lecture Notes in Computer Science, Vol. 7094. 490--503.
+AMD. 2013. OpenCL Programming and Optimization. Retrieved from http://free.eol.cn/edu_net/edudown/AMDppt/OpenCLProgrammingandO ptimization-Part II.pdf.
+A. Aristidou and J. Lasenby. 2011. FABRIK: A fast, iterative solver for the inverse kinematics problem. Graphical Models 73, 5 (2011), 243--260.
+P. Baerlocher. 2001. Inverse Kinematics Techniques of the Interactive Posture Control of Articulated Figures. Ph.D. Dissertation. École Polytechnique Fédérale de Lausanne (EPFL).
+J. Baillieul. 1985. Kinematic programming alternatives for redundant manipulators. In Proceedings of the 1985 IEEE International Conference on Robotics and Automation. Proceedings. Vol. 2. 722--728.
+S. R. Buss. 2009. Introduction to Inverse Kinematics with Jacobian Transpose Pseudoinverse and Damped Least Squares Methods. Technical Report. University of California.
+S. R. Buss and J.-S. Kim. 2004. Selectively damped least squares for inverse kinematics. Journal of Graphics Tools 10 (2004), 37--49.
+C. Cao, J. Dongarra, P. Du, M. Gates, P. Luszczek, and S. Tomov. 2014. clMAGMA: High performance dense linear algebra with OpenCL. In Proceedings of the International Workshop on OpenCL 2013 & 2014 (IWOCL’’14). 11--19.
+M. de Lasa, I. Mordatch, and A. Hertzmann. 2010. Feature-based locomotion controllers. ACM Transactions on Graphics 29, 3 (2010), 1--10.
+A. S. Deo and I. D. Walker. 1992. Robot subtask performance with singularity robustness using optimal damped least-squares. In Proceedings of the 1992 IEEE International Conference on Robotics and Automation. 434--441.
+K. L. Doty, C. Melchiorri, and C. Bonivento. 1993. A theory of generalized inverses applied to robotics. International Journal of Robotics Research 12, 1 (1993), 1--19.
+S. Farzan and G. N. DeSouza. 2013. From D-H to inverse kinematics: A fast numerical solution for general robotic manipulators using parallel processing. In Proceedings of the 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS’13). 2507--2513.
+M. Girard and A. A. Maciejewski. 1985. Computational modeling for the computer animation of legged figures. In ACM SIGGRAPH 1985 papers (SIGGRAPH'85). ACM, 263--270.
+G. Golub and W. Kahan. 1965. Calculating the singular values and pseudo-inverse of a matrix. Journal of the Society for Industrial and Applied Mathematics: Series B, Numerical Analysis 2, 2 (1965), 205--224.
+K. Grochow, S. L. Martin, A. Hertzmann, and Z. Popović. 2004. Style-based inverse kinematics. In ACM SIGGRAPH 2004 Papers (SIGGRAPH’04). 522--531.
+M. Harris, S. Sengupta, and J. D. Owens. 2007. Parallel prefix sum (scan) with CUDA. In GPU Gems 3, Hubert Nguyen (Ed.). Addison Wesley.
+D. Hildenbrand, H. Lange, F. Stock, and A. Koch. 2008. Efficient inverse kinematics algorithm based on conformal geometric algebra using reconfigurable hardware. In Proceedings of the International Conference on Computer Graphics Theory and Applications. 300--307.
+S. Lahabar and P. J. Narayanan. 2009. Singular value decomposition on GPU using CUDA. In IEEE International Symposium on Parallel Distributed Processing, 2009 (IPDPS’09). 1--10.
+M. Lampton. 1997. Damping-undamping strategies for the Levenberg-Marquardt nonlinear least-squares method. Computer Physics 11, 1 (1997), 110--115.
+B. Le Callennec. 2006. Interactive Techniques for Motion Deformation of Articulated Figures Using Prioritized Constraints. Ph.D. Dissertation. École Polytechnique Fédérale de Lausanne (EPFL).
+N. H. Lehment, D. Arsic, M. Kaiser, and G. Rigoll. 2010. Automated pose estimation in 3d point clouds applying annealing particle filters and inverse kinematics on a GPU. In 2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops (CVPRW’10). 87--92.
+A. Liégeois. 1977. Automatic supervisory control of the configuration and behavior of multibody mechanisms. IEEE Transactions on Systems, Man and Cybernetics 7, 12 (1977), 868--871.
+H. Ltaief, J. Kurzak, and J. Dongarra. 2010. Parallel two-sided matrix reduction to band bidiagonal form on multicore architectures. IEEE Transactions on Parallel and Distributed Systems 21, 4 (2010), 417--423.
+A. A. Maciejewski. 1990. Dealing with the ill-conditioned equations of motion for articulated figures. IEEE Computer Graphics and Applications 10, 3 (1990), 63--71.
+W. Masinghe, G. Collier, A. Ordys, and T. Nanayakkara. 2012. A novel approach to determine the inverse kinematics of a human upper limb model with 9 degrees of freedom. In Proceedings of the 2012 IEEE EMBS Conference on Biomedical Engineering and Sciences (IECBES’12). 525--530.
+Y. Nakamura, H. Hanafusa, and T. Yoshikawa. 1987. Task-priority based redundancy control of robot manipulators. International Journal of Robotics Research 6, 2 (1987), 3--15.
+C. R. Rao, J. L. Solka, and E. J. Wegman. 2005. Handbook of Statistics: Data Mining and Data Visualization. Elsevier.
+M. Schroder, J. Maycock, H. Ritter, and M. Botsch. 2014. Real-time hand tracking using synergistic inverse kinematics. In Proceedings of the 2014 IEEE International Conference on Robotics and Automation (ICRA’14). 5447--5454.
+R. W. Sumner, M. Zwicker, C. Gotsman, and J. Popović. 2005. Mesh-based inverse kinematics. In ACM SIGGRAPH 2005 Papers (SIGGRAPH’05). ACM, 488--495.
+A. N. Tikhonov. 1963. Solution of incorrectly formulated problems and the regularization method. Doklady Akademii Nauk SSSR 151 (1963), 501--504.
+M. K. Transtrum and J. P. Sethna. 2012. Improvements to the Levenberg-Marquardt algorithm for nonlinear least-squares minimization. http://arxiv.org/abs/1201.5885 (01/ 2012).
+V. Volkov and J. Demmel. 2008. LU, QR and Cholesky Factorizations Using Vector Capabilities of GPUs. Technical Report. EECS Department, University of California, Berkeley.
+R. A. Waltz, J. L. Morales, J. Nocedal, and D. Orban. 2006. An interior algorithm for nonlinear optimization that combines line search and trust region steps. Mathematics Programming 107, 3 (2006), 391--408.
+A. Watt and M. Watt. 1991. Advanced Animation and Rendering Techniques. ACM, New York, NY.
+H. Zhang and R. P. Paul. 1991. A parallel inverse kinematics solution for robot manipulators based on multiprocessing and linear extrapolation. IEEE Transactions on Robotics and Automation 7, 5 (Oct. 1991), 660--669.

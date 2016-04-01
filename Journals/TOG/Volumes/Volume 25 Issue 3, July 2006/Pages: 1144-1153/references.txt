@@ -1,0 +1,38 @@
+Pankaj Agarwal , Leonidas Guibas , An Nguyen , Daniel Russel , Li Zhang, Collision detection for deforming necklaces, Computational Geometry: Theory and Applications, v.28 n.2-3, p.137-163, June 2004[doi>10.1016/j.comgeo.2004.03.008]
+Baraff, D., and Witkin, A. 2001. Physically Based Modeling. ACM SIGGRAPH Course Notes.
+David Baraff , Andrew Witkin , Michael Kass, Untangling cloth, ACM SIGGRAPH 2003 Papers, July 27-31, 2003, San Diego, California[doi>10.1145/1201775.882357]
+Robert Bridson , Ronald Fedkiw , John Anderson, Robust treatment of collisions, contact and friction for cloth animation, Proceedings of the 29th annual conference on Computer graphics and interactive techniques, July 23-26, 2002, San Antonio, Texas[doi>10.1145/566570.566623]
+Jonathan D. Cohen , Ming C. Lin , Dinesh Manocha , Madhav Ponamgi, I-COLLIDE: an interactive and exact collision detection system for large-scale environments, Proceedings of the 1995 symposium on Interactive 3D graphics, p.189-ff., April 09-12, 1995, Monterey, California, USA[doi>10.1145/199404.199437]
+Dobkin, D., Hershberger, J., Kirkpatrick, D., and Suri, S. 1993. Computing the intersection-depth of polyhedra. Algorithmica 9, 518--533.
+Ehmann, S., and Lin, M. C. 2001. Accurate and fast proximity queries between polyhedra using convex surface decomposition. Computer Graphics Forum (Proc. of Eurographics'2001) 20, 3, 500--510.
+Christer Ericson, Real-Time Collision Detection (The Morgan Kaufmann Series in Interactive 3-D Technology) (The Morgan Kaufmann Series in Interactive 3D Technology), Morgan Kaufmann Publishers Inc., San Francisco, CA, 2004
+Fischer, I., and Gotsman, C. 2005. Fast approximation of high order Voronoi diagrams and distance transforms on the GPU. Technical report CS TR-07-05, Harvard University.
+Susan Fisher , Ming C. Lin, Deformed distance fields for simulation of non-penetrating flexible bodies, Proceedings of the Eurographic workshop on Computer animation and simulation, p.99-111, September 02-03, 2001, Manchester, UK
+Naga K. Govindaraju , Stephane Redon , Ming C. Lin , Dinesh Manocha, CULLIDE: interactive collision detection between complex models in large environments using graphics hardware, Proceedings of the ACM SIGGRAPH/EUROGRAPHICS conference on Graphics hardware, July 26-27, 2003, San Diego, California
+Naga K. Govindaraju , David Knott , Nitin Jain , Ilknur Kabul , Rasmus Tamstorf , Russell Gayle , Ming C. Lin , Dinesh Manocha, Interactive collision detection between deformable models using chromatic decomposition, ACM Transactions on Graphics (TOG), v.24 n.3, July 2005[doi>10.1145/1073204.1073301]
+Heidelberger, B., Teschner, M., Keisner, R., Mueller, M., and Gross, M. 2004. Consistent penetration depth estimation for deformable collision response. Proc. of Vision, Modeling and Visualization, 315--322.
+Hoff, K., Zaferakis, A., Lin, M., and Manocha, D. 2002. Fast 3d geometric proximity queries between rigid and deformable models using graphics hardware acceleration. Tech. Rep. TR02-004, Department of Computer Science, University of North Carolina.
+Doug L. James , Dinesh K. Pai, BD-tree: output-sensitive collision detection for reduced deformable models, ACM SIGGRAPH 2004 Papers, August 08-12, 2004, Los Angeles, California[doi>10.1145/1186562.1015735]
+Johnson, D. E., and Cohen, E. 2004. Unified distance queries in a heterogeneous model environment. In ASME DETC.
+Katsuaki Kawachi , Hiromasa Suzuki, Distance Computation between Non-Convex Polyhedra at Short Range Based on Discrete Voronoi Regions, Proceedings of the Geometric Modeling and Processing 2000, p.123, April 10-12, 2000
+Young J. Kim , Miguel A. Otaduy , Ming C. Lin , Dinesh Manocha, Fast penetration depth computation for physically-based animation, Proceedings of the 2002 ACM SIGGRAPH/Eurographics symposium on Computer animation, July 21-22, 2002, San Antonio, Texas[doi>10.1145/545261.545266]
+Knott, D., and Pai, D. K. 2003. CInDeR: Collision and interference detection in real-time using graphics hardware. Proc. of Graphics Interface, 73--80.
+Larsen, E., Gottschalk, S., Lin, M., and Manocha, D. 2000. Distance queries with rectangular swept sphere volumes. Proc. of IEEE Int. Conference on Robotics and Automation, 3719--3726.
+Larsson, T., and Akenine-Möller, T. 2001. Collision detection for continuously deforming bodies. In Eurographics, 325--333.
+Lin, M., and Canny, J. F. 1991. Efficient algorithms for incremental distance computation. In IEEE Conference on Robotics and Automation, 1008--1014.
+Lin, M. C., and Manocha, D. 2004. Collision and proximity queries. In Handbook of Discrete and Computational Geometry, 2nd Ed., J. E. Goodman and J. O'Rourke, Eds. CRC Press LLC, Boca Raton, FL, ch. 35, 787--807.
+Brian Mirtich, V-Clip: fast and robust polyhedral collision detection, ACM Transactions on Graphics (TOG), v.17 n.3, p.177-208, July 1998[doi>10.1145/285857.285860]
+Matthias Müller , Bruno Heidelberger , Matthias Teschner , Markus Gross, Meshless deformations based on shape matching, ACM SIGGRAPH 2005 Papers, July 31-August 04, 2005, Los Angeles, California[doi>10.1145/1186822.1073216]
+Atsuyuki Okabe , Barry Boots , Kokichi Sugihara, Spatial tessellations: concepts and applications of Voronoi diagrams, John Wiley & Sons, Inc., New York, NY, 1992
+Quinlan, S. 1994. Efficient distance computation between non-convex objects. In Proceedings of International Conference on Robotics and Automation, 3324--3329.
+Redon, S., and Lin, M. 2006. A fast method for local penetration depth computation. Journal of Graphics Tools, To Appear.
+Stephane Redon , Young J. Kim , Ming C. Lin , Dinesh Manocha, Fast continuous collision detection for articulated models, Proceedings of the ninth ACM symposium on Solid modeling and applications, June 09-11, 2004, Genoa, Italy
+Christian Sigg , Ronald Peikert , Markus Gross, Signed Distance Transform Using Graphics Hardware, Proceedings of the 14th IEEE Visualization 2003 (VIS'03), p.12, October 22-24, 2003[doi>10.1109/VISUAL.2003.1250358]
+Sud, A., Otaduy, M. A., and Manocha, D. 2004. DiFi: Fast 3D distance field computation using graphics hardware. Computer Graphics Forum (Proc. Eurographics) 23, 3, 557--566.
+Avneesh Sud , Naga Govindaraju , Russell Gayle , Dinesh Manocha, Interactive 3D distance field computation using linear factorization, Proceedings of the 2006 symposium on Interactive 3D graphics and games, March 14-17, 2006, Redwood City, California[doi>10.1145/1111411.1111432]
+Sud, A., Govindaraju, N., Gayle, R., and Manocha, D. 2006. Surface distance maps. Tech. Rep. TR06-011, Dept of Computer Science, University of North Carolina.
+Sundaraj, K., and Laugier, C. 2000. Fast contact localization of moving deformable polyhedra. In Proc. of IEEE Int. Conference on Control, Automation, Robotics and Vision.
+Teschner, M., Heidelberger, B., Muller, M., Pomeranets, D., and Gross, M. 2003. Optimized spatial hashing for collision detection of deformable objects. Proc. of Vision, Modeling and Visualization, 47--54.
+Teschner, M., Kimmerle, S., Heidelberger, B., Zachmann, G., Raghupathi, L., Fuhrmann, A., Cani, M.-P., Faure, F., Magnenat-Thalmann, N., Strasser, W., and Volino, P. 2005. Collision detection for deformable objects. Computer Graphics Forum 19, 1, 61--81.
+Gino van den Bergen, Efficient collision detection of complex deformable models using AABB trees, Journal of Graphics Tools, v.2 n.4, p.1-13, April 1997[doi>10.1080/10867651.1997.10487480]
+Pascal Volino , Nadia Magnenat Thalmann, Accurate Collision Response on Polygonal Meshes, Proceedings of the Computer Animation, p.154, May 03-05, 2000

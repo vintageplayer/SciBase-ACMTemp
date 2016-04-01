@@ -1,0 +1,27 @@
+Abrash, M. 2009. Rasterization on Larrabee.Dr. Dobb's Journal(May). http://www.drdobbs.com/parallel/rasterization-on-larrabee/217200602.
+Timo Aila , Ville Miettinen , Petri Nordlund, Delay streams for graphics hardware, ACM Transactions on Graphics (TOG), v.22 n.3, July 2003[doi>10.1145/882262.882347]
+Akenine-Möller, T., and Aila, T. 2005. Conservative and Tiled Rasterization Using a Modified Triangle Set-Up.Journal of Graphics Tools, 10, 3, 1--8.
+Akenine-Möller, T., Haines, E., and Hoffman, N. 2008.Real-Time Rendering, 3rd ed. AK Peters Ltd.
+Amanatides, J., and Woo, A. 1987. A Fast Voxel Traversal Algorithm for Ray Tracing. InEurographics, 3--10.
+Andersson, J. 2012. Five Major Challenges in Real-Time Rendering. InBeyond Programmable Shading course, SIGGRAPH.
+Auzinger, T., Wimmer, M., and Jeschke, S. 2013. Analytic Visibility on the GPU.to appear in Computer Graphics Forum (Eurographics 2013).
+Rasmus Barringer , Carl Johan Gribel , Tomas Akenine-Möller, High-quality curve rendering using line sampled visibility, ACM Transactions on Graphics (TOG), v.31 n.6, November 2012[doi>10.1145/2366145.2366181]
+Bergeron, P. 1986. A General Version of Crow's Shadow Volumes.IEEE Computer Graphics and Applications, 6, 9, 17--28.
+Loren Carpenter, The A -buffer, an antialiased hidden surface method, Proceedings of the 11th annual conference on Computer graphics and interactive techniques, p.103-108, January 1984[doi>10.1145/800031.808585]
+Edwin Catmull, A hidden-surface algorithm with anti-aliasing, Proceedings of the 5th annual conference on Computer graphics and interactive techniques, p.6-11, August 23-25, 1978[doi>10.1145/800248.807360]
+Franklin C. Crow, Shadow algorithms for computer graphics, Proceedings of the 4th annual conference on Computer graphics and interactive techniques, p.242-248, July 20-22, 1977, San Jose, California[doi>10.1145/563858.563901]
+Franklin C. Crow, The aliasing problem in computer-generated shaded images, Communications of the ACM, v.20 n.11, p.799-805, Nov. 1977[doi>10.1145/359863.359869]
+Kayvon Fatahalian , Solomon Boulos , James Hegarty , Kurt Akeley , William R. Mark , Henry Moreton , Pat Hanrahan, Reducing shading on GPUs using quad-fragment merging, ACM Transactions on Graphics (TOG), v.29 n.4, July 2010[doi>10.1145/1778765.1778804]
+Glaister, A., 2008. Windows Advanced Rasterization Platform (WARP) Guide. MSDN, November.
+Ned Greene , Michael Kass, Error-bounded antialiased rendering of complex environments, Proceedings of the 21st annual conference on Computer graphics and interactive techniques, p.59-66, July 1994[doi>10.1145/192161.192173]
+Ned Greene , Michael Kass , Gavin Miller, Hierarchical Z-buffer visibility, Proceedings of the 20th annual conference on Computer graphics and interactive techniques, p.231-238, August 02-06, 1993, Anaheim, CA[doi>10.1145/166117.166147]
+Ned Greene, Hierarchical polygon tiling with coverage masks, Proceedings of the 23rd annual conference on Computer graphics and interactive techniques, p.65-74, August 1996[doi>10.1145/237170.237207]
+Brian Guenter , Mark Finch , Steven Drucker , Desney Tan , John Snyder, Foveated 3D graphics, ACM Transactions on Graphics (TOG), v.31 n.6, November 2012[doi>10.1145/2366145.2366183]
+Jorge Jimenez , Diego Gutierrez , Jason Yang , Alexander Reshetov , Pete Demoreuille , Tobias Berghoff , Cedric Perthuis , Henry Yu , Morgan McGuire , Timothy Lottes , Hugh Malan , Emil Persson , Dmitry Andreev , Tiago Sousa, Filtering approaches for real-time anti-aliasing, ACM SIGGRAPH 2011 Courses, p.1-329, August 07-11, 2011, Vancouver, British Columbia, Canada[doi>10.1145/2037636.2037642]
+Morein, S. 2000. ATI Radeon HyperZ Technology. InWorkshop on Graphics Hardware, Hot3D Proceedings.
+Piazza, T. 2012. Processor Graphics. InHigh Performance Graphics -- Hot3D Talks.
+Juan Pineda, A parallel algorithm for polygon rasterization, Proceedings of the 15th annual conference on Computer graphics and interactive techniques, p.17-20, June 1988[doi>10.1145/54852.378457]
+Alexander Reshetov, Morphological antialiasing, Proceedings of the Conference on High Performance Graphics 2009, August 01-03, 2009, New Orleans, Louisiana[doi>10.1145/1572769.1572787]
+Pedro V. Sander , Hugues Hoppe , John Snyder , Steven J. Gortler, Discontinuity edge overdraw, Proceedings of the 2001 symposium on Interactive 3D graphics, p.167-174, March 2001[doi>10.1145/364338.364390]
+Warnock, J. W. 1969. A Hidden Surface Algorithm for Computer Generated Halftone Pictures. Tech. rep., Utah University.
+Young, P. 2007. Coverage-Sampled Anti-Aliasing. Tech. rep., NVIDIA.

@@ -1,0 +1,38 @@
+APPEL, A.W. 1985. An efficient program for many-body simulation. SIAM J. Sci. Statist. Comput. 6, 1 (Jan.), 85-103.
+James Arvo , David Kirk, Fast ray tracing by ray classification, ACM SIGGRAPH Computer Graphics, v.21 n.4, p.55-64, July 1987[doi>10.1145/37402.37409]
+Larry Aupperle , Pat Hanrahan, A hierarchical illumination algorithm for surfaces with glossy reflection, Proceedings of the 20th annual conference on Computer graphics and interactive techniques, p.155-162, August 02-06, 1993, Anaheim, CA[doi>10.1145/166117.166137]
+AUPPERLE, L. AND HANRAHAN, P. 1993b. Importance and discrete three point transport. In Proceedings of the Fourth Eurographics Workshop on Rendering (June), 85-94.
+BARNES, J. AND HUT, P. 1986. A hierarchical O(N log N) force-calculation algorithm. Nature 324, 4 (Dec.), 446-449.
+Shenchang Eric Chen , Holly E. Rushmeier , Gavin Miller , Douglass Turner, A progressive multi-pass method for global illumination, ACM SIGGRAPH Computer Graphics, v.25 n.4, p.165-174, July 1991[doi>10.1145/127719.122737]
+Per H. Christensen , Eric J. Stollnitz , David H. Salesin , Tony D. DeRose, Global illumination of glossy environments using wavelets and importance, ACM Transactions on Graphics (TOG), v.15 n.1, p.37-71, Jan. 1996[doi>10.1145/226150.226153]
+CHRISTENSEN, P. H., SALESIN, D. H., AND DEROSE, T.D. 1993. A continuous adjoint formulation for radiance transport. In Proceedings of the Fourth Eurographics Workshop on Rendering (June), 95-104.
+FOURNIER, A. AND POULIN, P. 1993. A ray tracing accelerator based on a hierarchy of 1D sorted lists. In Proceedings of Graphics Interface '93 (May), 53-60.
+Henry Fuchs , Zvi M. Kedem , Bruce F. Naylor, On visible surface generation by a priori tree structures, ACM SIGGRAPH Computer Graphics, v.14 n.3, p.124-133, July 1980[doi>10.1145/965105.807481]
+Andrew S. Glassner, Spacetime Ray Tracing for Animation, IEEE Computer Graphics and Applications, v.8 n.2, p.60-70, March 1988[doi>10.1109/38.504]
+Jeffrey Goldsmith , John Salmon, Automatic Creation of Object Hierarchies for Ray Tracing, IEEE Computer Graphics and Applications, v.7 n.5, p.14-20, May 1987[doi>10.1109/MCG.1987.276983]
+Cindy M. Goral , Kenneth E. Torrance , Donald P. Greenberg , Bennett Battaile, Modeling the interaction of light between diffuse surfaces, Proceedings of the 11th annual conference on Computer graphics and interactive techniques, p.213-222, January 1984[doi>10.1145/800031.808601]
+Steven J. Gortler , Peter Schröder , Michael F. Cohen , Pat Hanrahan, Wavelet radiosity, Proceedings of the 20th annual conference on Computer graphics and interactive techniques, p.221-230, August 02-06, 1993, Anaheim, CA[doi>10.1145/166117.166146]
+GREENGARD, L.F. 1988. The Rapid Evaluation of Potential Fields in Particle Systems. MIT Press, Cambridge, MA.
+HAINES, E.A. 1987. A proposal for standard graphics environments. IEEE Comput. Graph. Appl. 7, 11 (Nov.), 3-5.
+Pat Hanrahan , David Salzman , Larry Aupperle, A rapid hierarchical radiosity algorithm, ACM SIGGRAPH Computer Graphics, v.25 n.4, p.197-206, July 1991[doi>10.1145/127719.122740]
+David S. Immel , Michael F. Cohen , Donald P. Greenberg, A radiosity method for non-diffuse environments, ACM SIGGRAPH Computer Graphics, v.20 n.4, p.133-142, Aug. 1986[doi>10.1145/15886.15901]
+James T. Kajiya, The rendering equation, ACM SIGGRAPH Computer Graphics, v.20 n.4, p.143-150, Aug. 1986[doi>10.1145/15886.15902]
+KOK, A.J. 1993. Grouping of patches in progressive radiosity. In Proceedings of the Fourth Eurographics Workshop on Rendering (June), 221-231.
+Dani Lischinski , Filippo Tampieri , Donald P. Greenberg, Combining hierarchical radiosity and discontinuity meshing, Proceedings of the 20th annual conference on Computer graphics and interactive techniques, p.199-208, August 02-06, 1993, Anaheim, CA[doi>10.1145/166117.166143]
+NICODEMUS, F. E., RICHMOND, J. C., HSIA, J. J., GINSBERG, I. W., AND LIMPERIS, T. 1977. Geometrical considerations and nomenclature for reflectance. NBS Monograph 160, National Bureau of Standards, Washington, DC (Oct.).
+M. Ohta , M. Maekawa, Ray coherence theorem and constant time ray tracing algorithm, CG International '87 on Computer graphics 1987, p.303-314, June 1987, Karuizawa, Japan
+PATTANAIK, S. N. AND BOUATOUCH, K. 1995. Haar wavelet: A solution to global illumination with general surface properties. In Photorealistic Rendering Techniques, G. Sakas and P. Shirley, Eds., Springer-Verlag, Berlin, 281-294.
+PATTANAIK, S. N. AND MUDUR, S. P. 1992. Computation of global illumination by Monte Carlo simulation of the particle model of light. In Proceedings of the Third Eurographics Workshop on Rendering (May), 71-83.
+REICHERT, M.C. 1992. A two-pass radiosity method driven by lights and viewer position. Master's Thesis, Program of Computer Graphics, Cornell University, Ithaca, NY (Jan.).
+RUSHMEIER, H. E., PATTERSON, C., AND VEERASAMY, A. 1993. Geometric simplification for indirect illumination calculations. In Proceedings of Graphics Interface '93 (May), 227-236.
+SCHRODER, P. AND HANRAHAN, P. 1995. Wavelet methods for radiance computations. In Photorealistic Rendering Techniques, G. Sakas and P. Shirley, Eds., Springer-Verlag, Berlin, 310-326.
+P. Shirley, A ray tracing method for illumination calculation in diffuse-specular scenes, Proceedings on Graphics interface '90, p.205-212, June 1990, Halifax, Nova Scotia
+SILLION, F. 1995. Clustering and volume scattering for hierarchical radiosity calculations. In Photorealistic Rendering Techniques, G. Sakas and P. Shirley, Eds., Springer-Verlag, Berlin, 105-118.
+SILLION, F., DRETTAKIS, G., AND SOLER, C. 1995. A clustering algorithm for radiance calculation in general environments. In Rendering Techniques '95, P. M. Hanrahan and W. Purgathofer, Eds., Springer-Verlag, Vienna, 196-205.
+Françis X. Sillion , James R. Arvo , Stephen H. Westin , Donald P. Greenberg, A global illumination solution for general reflectance distributions, ACM SIGGRAPH Computer Graphics, v.25 n.4, p.187-196, July 1991[doi>10.1145/127719.122739]
+Brian Edward Smits, Efficient hierarchical radiosity in complex environments, Cornell University, Ithaca, NY, 1994
+Brian Smits , James Arvo , Donald Greenberg, A clustering algorithm for radiosity in complex environments, Proceedings of the 21st annual conference on Computer graphics and interactive techniques, p.435-442, July 1994[doi>10.1145/192161.192277]
+Brian E. Smits , James R. Arvo , David H. Salesin, An importance-driven radiosity algorithm, ACM SIGGRAPH Computer Graphics, v.26 n.2, p.273-282, July 1992[doi>10.1145/142920.134080]
+Gregory J. Ward, The RADIANCE lighting simulation and rendering system, Proceedings of the 21st annual conference on Computer graphics and interactive techniques, p.459-472, July 1994[doi>10.1145/192161.192286]
+Gregory J. Ward , Francis M. Rubinstein , Robert D. Clear, A ray tracing solution for diffuse interreflection, ACM SIGGRAPH Computer Graphics, v.22 n.4, p.85-92, Aug. 1988[doi>10.1145/378456.378490]
+Xu, H., PENG, Q., AND LIANG, Y. 1989. Accelerated radiosity method for complex environments. In Proceedings of Eurographics '89 (Sept.), 51-61.

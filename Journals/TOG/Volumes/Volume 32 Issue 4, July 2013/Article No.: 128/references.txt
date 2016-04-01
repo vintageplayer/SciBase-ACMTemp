@@ -1,0 +1,49 @@
+Amidror, I., Hersch, R. D., and Ostromoukhov, V. 1994. Spectral analysis and minimization of moiré patterns in color separation.J. Electron. Imaging 3, 295--317.
+Arvo, J. 2001. Stratified sampling of 2-manifolds.SIGGRAPH 2001 Course Notes 29, 2.
+Balakrishnan, A. 1962. On the problem of time jitter in sampling.Information Theory, IRE Transactions on 8, 3 (april), 226--236.
+Bartlett, M. S. 1964. The spectral analysis of two-dimensional point processes.Biometrika 51, 299--311.
+Belcour, L., Soler, C., Subr, K., Holzschuch, N., and Durand, F. 2012. 5d covariance tracing for efficient defocus and motion blur. Tech. Rep. MIT-CSAIL-TR-2012-034, MIT, MA, November 2012.
+John Bowers , Rui Wang , Li-Yi Wei , David Maletz, Parallel Poisson disk sampling with spectrum analysis on surfaces, ACM Transactions on Graphics (TOG), v.29 n.6, December 2010[doi>10.1145/1882261.1866188]
+Brémaud, P., Massoulié, L., and Ridolfi, A. 2003. Power spectra of random spike fields & related processes.Journal of Applied Probability 2002, 1116--1146.
+Robert L. Cook, Stochastic sampling in computer graphics, ACM Transactions on Graphics (TOG), v.5 n.1, p.51-72, Jan. 1986[doi>10.1145/7529.8927]
+Mark A. Z. Dippé , Erling Henry Wold, Antialiasing through stochastic sampling, Proceedings of the 12th annual conference on Computer graphics and interactive techniques, p.69-78, July 1985[doi>10.1145/325334.325182]
+Frédo Durand , Nicolas Holzschuch , Cyril Soler , Eric Chan , François X. Sillion, A frequency analysis of light transport, ACM Transactions on Graphics (TOG), v.24 n.3, July 2005[doi>10.1145/1073204.1073320]
+Durand, F. 2011. A frequency analysis of Monte-Carlo and other numerical integration schemes. Tech. Rep. MIT-CSAIL-TR-2011-052, CSAIL, MIT, MA.
+Kevin Egan , Yu-Ting Tseng , Nicolas Holzschuch , Frédo Durand , Ravi Ramamoorthi, Frequency analysis and sheared reconstruction for rendering motion blur, ACM Transactions on Graphics (TOG), v.28 n.3, August 2009[doi>10.1145/1531326.1531399]
+Fienup, J. R. 1997. Invariant error metrics for image reconstruction.Appl. Opt. 36, 32 (Nov), 8352--8357.
+L. J. Gallaher, A multidimensional Monte Carlo quadrature with adaptive stratified sampling, Communications of the ACM, v.16 n.1, p.49-50, Jan. 1973[doi>10.1145/361932.361947]
+Manuel N. Gamito , Steve C. Maddock, Accurate multidimensional Poisson-disk sampling, ACM Transactions on Graphics (TOG), v.29 n.1, p.1-19, December 2009[doi>10.1145/1640443.1640451]
+Toshiya Hachisuka , Wojciech Jarosz , Richard Peter Weistroffer , Kevin Dale , Greg Humphreys , Matthias Zwicker , Henrik Wann Jensen, Multidimensional adaptive sampling and reconstruction for ray tracing, ACM Transactions on Graphics (TOG), v.27 n.3, August 2008[doi>10.1145/1360612.1360632]
+Alexander Keller , Wolfgang Heidrich, Interleaved Sampling, Proceedings of the 12th Eurographics Workshop on Rendering Techniques, p.269-276, June 25-27, 2001
+Alexander Keller , Stefan Heinrich , Harald Niederreiter, Monte Carlo and Quasi-Monte Carlo Methods 2006, Springer Publishing Company, Incorporated, 2007
+Keller, A. 2002.Stratification by Rank-1-Lattices. Interner Bericht. Universität Kaiserslautern, Fachbereich Informatik.
+Kollig, T., and Keller, A. 2002. Efficient multidimensional sampling.Comput. Graph. Forum (Proc. Eurographics) 21, 3, 557--557.
+Jaroslav Křivánek , Mark Colbert, Real-time shading with filtered importance sampling, Proceedings of the Nineteenth Eurographics conference on Rendering, June 23-25, 2008, Sarajevo, Bosnia and Herzegovina[doi>10.1111/j.1467-8659.2008.01252.x]
+Lagae, A., and Dutré, P. 2008. A comparison of methods for generating poisson disk distributions.Comput. Graph. Forum 27, 1, 114--129.
+Larcher, G., and Pillichshammer, F. 2001. Walsh series analysis of the L2-discrepancy of symmetrisized point sets.Monatshefte für Mathematik 132, 1, 1--18.
+Jaakko Lehtinen , Timo Aila , Samuli Laine , Frédo Durand, Reconstructing the indirect light field for global illumination, ACM Transactions on Graphics (TOG), v.31 n.4, p.1-10, July 2012[doi>10.1145/2185520.2185547]
+Leneman, O. A. 1966. Random sampling of random processes: Impulse processes.Information and Control 9, 4, 347--363.
+Luchini, P. 1994. Fourier analysis of numerical integration formulae.Computer Physics Communications 83, 23, 227--235.
+Machiraju, R., Swan, E., and Yagel, R. 1995. Spatial domain characterization and control of reconstruction errors. InProceedings of the 6th Eurographics Workshop on Rendering, 33--44.
+Matérn, B. 1960. Spatial variation.Meddelanden fran Statens Skogsforskningsinstitut 49, 1--144.
+Matérn, B. 1986.Spatial Variation, 2nd ed. Springer Verlag.
+Don P. Mitchell , Arun N. Netravali, Reconstruction filters in computer-graphics, ACM SIGGRAPH Computer Graphics, v.22 n.4, p.221-228, Aug. 1988[doi>10.1145/378456.378514]
+Don P. Mitchell, Generating antialiased images at low sampling densities, Proceedings of the 14th annual conference on Computer graphics and interactive techniques, p.65-72, August 1987[doi>10.1145/37401.37410]
+Don P. Mitchell, Spectrally optimal sampling for distribution ray tracing, Proceedings of the 18th annual conference on Computer graphics and interactive techniques, p.157-164, July 1991[doi>10.1145/122718.122736]
+Mitchell, D. P. 1992. Ray Tracing and Irregularities of Distribution. InThird Eurographics Workshop on Rendering, 61--69.
+Don P. Mitchell, Consequences of stratified sampling in graphics, Proceedings of the 23rd annual conference on Computer graphics and interactive techniques, p.277-280, August 1996[doi>10.1145/237170.237265]
+Neyman, J. 1934. On the two different aspects of the representative method: the method of stratified sampling and the method of purposive selection.Journal of the Royal Statistical Society 97, 4, 558--625.
+Niederreiter, H. 1992.Quasi-Monte Carlo Methods. John Wiley & Sons, Ltd.
+Victor Ostromoukhov, Sampling with polyominoes, ACM Transactions on Graphics (TOG), v.26 n.3, July 2007[doi>10.1145/1276377.1276475]
+Marc J. Ouellette , Eugene Fiume, On numerical solutions to one-dimensional integration problems with applications to linear light sources, ACM Transactions on Graphics (TOG), v.20 n.4, p.232-279, October 2001[doi>10.1145/502783.502785]
+A. Cengiz Öztireli , Markus Gross, Analysis and synthesis of point distributions based on pair correlation, ACM Transactions on Graphics (TOG), v.31 n.6, November 2012[doi>10.1145/2366145.2366189]
+Matt Pharr , Greg Humphreys, Physically Based Rendering, Second Edition: From Theory To Implementation, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2010
+Ravi Ramamoorthi , Pat Hanrahan, A signal-processing framework for reflection, ACM Transactions on Graphics (TOG), v.23 n.4, p.1004-1042, October 2004[doi>10.1145/1027411.1027416]
+Ravi Ramamoorthi , John Anderson , Mark Meyer , Derek Nowrouzezahrai, A theory of monte carlo visibility sampling, ACM Transactions on Graphics (TOG), v.31 n.5, p.1-16, August 2012[doi>10.1145/2231816.2231819]
+Ripley, B. 1977. Modelling spatial patterns.J. Roy. Statist. Soc. B 39, 172--212.
+Schlömer, T., and Deussen, O. 2011. Accurate spectral analysis of two-dimensional point sets.Journal of Graphics, GPU, and Game Tools 15, 3, 152--160.
+Shirley, P. 1991. Discrepancy as a quality measure for sampling distributions. InProc. Eurographics '91, 183--194.
+Cyril Soler , Kartic Subr , Frédo Durand , Nicolas Holzschuch , François Sillion, Fourier depth of field, ACM Transactions on Graphics (TOG), v.28 n.2, p.1-12, April 2009[doi>10.1145/1516522.1516529]
+Kartic Subr , James Arvo, Statistical Hypothesis Testing for Assessing Monte Carlo Estimators: Applications to Image Synthesis, Proceedings of the 15th Pacific Conference on Computer Graphics and Applications, p.106-115, October 29-November 02, 2007[doi>10.1109/PG.2007.61]
+Li-Yi Wei , Rui Wang, Differential domain analysis for non-uniform sampling, ACM Transactions on Graphics (TOG), v.30 n.4, July 2011[doi>10.1145/2010324.1964945]
+Yahan Zhou , Haibin Huang , Li-Yi Wei , Rui Wang, Point sampling with general noise spectrum, ACM Transactions on Graphics (TOG), v.31 n.4, p.1-11, July 2012[doi>10.1145/2185520.2185572]

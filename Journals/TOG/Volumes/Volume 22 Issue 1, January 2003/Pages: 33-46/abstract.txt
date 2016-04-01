@@ -1,0 +1,1 @@
+We present an example-based method for translating line drawings into different styles. We fit each line as a linear combination of similar lines in a training set, and interpolate between the corresponding training examples in the output style. The synthesized lines preserve the desired stylistic features of the output style.

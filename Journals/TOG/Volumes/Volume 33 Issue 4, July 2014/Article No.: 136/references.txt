@@ -1,0 +1,40 @@
+Bart Adams , Mark Pauly , Richard Keiser , Leonidas J. Guibas, Adaptively sampled particle fluids, ACM Transactions on Graphics (TOG), v.26 n.3, July 2007[doi>10.1145/1276377.1276437]
+Ryoichi Ando , Nils Thurey , Reiji Tsuruno, Preserving Fluid Sheets with Adaptively Sampled Anisotropic Particles, IEEE Transactions on Visualization and Computer Graphics, v.18 n.8, p.1202-1214, August 2012[doi>10.1109/TVCG.2012.87]
+Ryoichi Ando , Nils Thürey , Chris Wojtan, Highly adaptive liquid simulations on tetrahedral meshes, ACM Transactions on Graphics (TOG), v.32 n.4, July 2013[doi>10.1145/2461912.2461982]
+Douglas N. Arnold , Franco Brezzi , Bernardo Cockburn , L. Donatella Marini, Unified Analysis of Discontinuous Galerkin Methods for Elliptic Problems, SIAM Journal on Numerical Analysis, v.39 n.5, p.1749-1779, 2001[doi>10.1137/S0036142901384162]
+Babuska, I., and Guo, B. 1992. The h, p and hp version of the finite element method basic theory and applications.NASA STI/Recon Technical Report N 93, 22550.
+Batty, C., Xenos, S., and Houston, B. 2010. Tetrahedral embedded boundary methods for accurate and flexible adaptive fluids. InProceedings of Eurographics.
+Morten Bojsen-Hansen , Chris Wojtan, Liquid surface tracking with error compensation, ACM Transactions on Graphics (TOG), v.32 n.4, July 2013[doi>10.1145/2461912.2461991]
+Boyd, J. P. 2001.Chebyshev and Fourier spectral methods. Courier Dover Publications.
+Robert Bridson, Fluid Simulation, A. K. Peters, Ltd., Natick, MA, 2008
+Tyson Brochu , Robert Bridson, Robust Topological Operations for Dynamic Explicit Surfaces, SIAM Journal on Scientific Computing, v.31 n.4, p.2472-2493, June 2009[doi>10.1137/080737617]
+Tyson Brochu , Christopher Batty , Robert Bridson, Matching fluid simulation elements to surface geometry and topology, ACM Transactions on Graphics (TOG), v.29 n.4, July 2010[doi>10.1145/1778765.1778784]
+Paul Castillo , Bernardo Cockburn, An A Priori Error Analysis of the Local Discontinuous Galerkin Method for Elliptic Problems, SIAM Journal on Numerical Analysis, v.38 n.5, p.1676-1706, 2000[doi>10.1137/S0036142900371003]
+Paul Castillo, A review of the local discontinuous Galerkin (LDG) method applied to elliptic problems, Applied Numerical Mathematics, v.56 n.10, p.1307-1313, October 2006[doi>10.1016/j.apnum.2006.03.016]
+Nuttapong Chentanez , Matthias Müller, Real-time Eulerian water simulation using a restricted tall cell grid, ACM SIGGRAPH 2011 papers, August 07-11, 2011, Vancouver, British Columbia, Canada[doi>10.1145/1964921.1964977]
+Nuttapong Chentanez , Bryan E. Feldman , François Labelle , James F. O'Brien , Jonathan R. Shewchuk, Liquid simulation on lattice-based tetrahedral meshes, Proceedings of the 2007 ACM SIGGRAPH/Eurographics symposium on Computer animation, August 02-04, 2007, San Diego, California
+Cockburn, B., Kanschat, G., and Schötzau, D. 2005. The local discontinuous Galerkin method for linearized incompressible fluid flow: a review.Computers & fluids 34, 4, 491--506.
+Edwards, E., and Bridson, R. 2012. A high-order accurate particle-in-cell method.International Journal for Numerical Methods in Engineering 90, 9, 1073--1088.
+Eggers, J. 2011. The subtle dynamics of liquid sheets.Journal of Fluid Mechanics 672, 1.
+R. Elliot English , Linhai Qiu , Yue Yu , Ronald Fedkiw, Chimera grids for water simulation, Proceedings of the 12th ACM SIGGRAPH/Eurographics Symposium on Computer Animation, July 19-21, 2013, Anaheim, California[doi>10.1145/2485895.2485897]
+Douglas Enright , Ronald Fedkiw , Joel Ferziger , Ian Mitchell, A hybrid particle level set method for improved interface capturing, Journal of Computational Physics, v.183 n.1, p.83-116, November 20, 2002[doi>10.1006/jcph.2002.7166]
+Nick Foster , Dimitri Metaxas, Realistic animation of liquids, Graphical Models and Image Processing, v.58 n.5, p.471-483, Sept. 1996[doi>10.1006/gmip.1996.0039]
+Geoffrey Irving , Eran Guendelman , Frank Losasso , Ronald Fedkiw, Efficient simulation of large bodies of water by coupling two and three dimensional techniques, ACM Transactions on Graphics (TOG), v.25 n.3, July 2006[doi>10.1145/1141911.1141959]
+Karniadakis, G. E., and Sherwin, S. J. 1999.Spectral/hp element methods for CFD. Oxford University Press.
+Peter Kaufmann , Sebastian Martin , Mario Botsch , Markus Gross, Flexible simulation of deformable models using discontinuous Galerkin FEM, Graphical Models, v.71 n.4, p.153-167, July, 2009[doi>10.1016/j.gmod.2009.02.002]
+Frank Losasso , Frédéric Gibou , Ron Fedkiw, Simulating water and smoke with an octree data structure, ACM Transactions on Graphics (TOG), v.23 n.3, August 2004[doi>10.1145/1015706.1015745]
+Marek Krzysztof Misztal , Jakob Andreas Bærentzen, Topology-adaptive interface tracking using the deformable simplicial complex, ACM Transactions on Graphics (TOG), v.31 n.3, p.1-12, May 2012[doi>10.1145/2167076.2167082]
+Misztal, M., Bridson, R., Erleben, K., Bærentzen, J., and Anton, F. 2010. Optimization-based fluid simulation on unstructured meshes. InProceedings of the 7th Workshop on Virtual Reality Interaction and Physical Simulation (VRIPHYS 2010), SIGGRAPH.
+M. K. Misztal , K. Erleben , A. Bargteil , J. Fursund , B. Bunch Christensen , J. A. Bærentzen , R. Bridson, Multiphase flow of immiscible fluids on unstructured moving meshes, Proceedings of the 11th ACM SIGGRAPH / Eurographics conference on Computer Animation, July 29-31, 2012, Lausanne, Switzerland[doi>10.2312/SCA/SCA12/097-106]
+L. Moresi , F. Dufour , H.-B. Mühlhaus, A Lagrangian integration point finite element method for large deformation modeling of viscoelastic geomaterials, Journal of Computational Physics, v.184 n.2, p.476-497, 20 January 2003[doi>10.1016/S0021-9991(02)00031-1]
+Matthias Müller, Fast and robust tracking of fluid surfaces, Proceedings of the 2009 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, August 01-02, 2009, New Orleans, Louisiana[doi>10.1145/1599470.1599501]
+Osher, S., and Fedkiw, R. 2003.Level set methods and dynamic implicit surfaces, vol. 153. Springer.
+Qin, R., and Krivodonova, L. 2012. A discontinuous Galerkin method for solutions of the Euler equations on Cartesian grids with embedded geometries.Journal of Computational Science.
+Schwab, C. 1998.p-and hp-finite element methods: Theory and applications in solid and fluid mechanics. Clarendon Press Oxford.
+Barbara Solenthaler , Markus Gross, Two-scale particle simulation, ACM Transactions on Graphics (TOG), v.30 n.4, July 2011[doi>10.1145/2010324.1964976]
+Nils Thürey , Chris Wojtan , Markus Gross , Greg Turk, A multiscale approach to mesh-based surface tension flows, ACM SIGGRAPH 2010 papers, July 26-30, 2010, Los Angeles, California[doi>10.1145/1833349.1778785]
+Chris Wojtan , Greg Turk, Fast viscoelastic behavior with thin features, ACM Transactions on Graphics (TOG), v.27 n.3, August 2008[doi>10.1145/1360612.1360646]
+Chris Wojtan , Nils Thürey , Markus Gross , Greg Turk, Deforming meshes that split and merge, ACM Transactions on Graphics (TOG), v.28 n.3, August 2009[doi>10.1145/1531326.1531382]
+Chris Wojtan , Nils Thürey , Markus Gross , Greg Turk, Physics-inspired topology changes for thin fluid features, ACM Transactions on Graphics (TOG), v.29 n.4, July 2010[doi>10.1145/1778765.1778787]
+Chris Wojtan , Matthias Müller-Fischer , Tyson Brochu, Liquid simulation with mesh-based surface tracking, ACM SIGGRAPH 2011 Courses, p.1-84, August 07-11, 2011, Vancouver, British Columbia, Canada[doi>10.1145/2037636.2037644]
+Yongning Zhu , Robert Bridson, Animating sand as a fluid, ACM SIGGRAPH 2005 Papers, July 31-August 04, 2005, Los Angeles, California[doi>10.1145/1186822.1073298]

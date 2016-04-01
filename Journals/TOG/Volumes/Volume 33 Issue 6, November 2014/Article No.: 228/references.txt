@@ -1,0 +1,24 @@
+Timo Aila , Samuli Laine, Understanding the efficiency of ray traversal on GPUs, Proceedings of the Conference on High Performance Graphics 2009, August 01-03, 2009, New Orleans, Louisiana[doi>10.1145/1572769.1572792]
+Jens Breitbart, Static GPU threads and an improved scan algorithm, Proceedings of the 2010 conference on Parallel processing, August 31-September 03, 2010, Ischia, Italy
+Daniel Cederman , Philippas Tsigas, On dynamic load balancing on graphics processors, Proceedings of the 23rd ACM SIGGRAPH/EUROGRAPHICS symposium on Graphics hardware, June 20-21, 2008, Sarajevo, Bosnia and Herzegovina
+Chatterjee, S., Grossman, M., Sbirlea, A., and Sarkar, V. 2011. Dynamic task parallelism with a GPU work-stealing runtime system. InProc. Languages and Compilers for Parallel Computing.
+Chen, L., Villa, O., Krishnamoorthy, S., and Gao, G. 2010. Dynamic load balancing on single- and multi-gpu systems. InIEEE Parallel Distributed Processing.
+Robert L. Cook , Loren Carpenter , Edwin Catmull, The Reyes image rendering architecture, ACM SIGGRAPH Computer Graphics, v.21 n.4, p.95-102, July 1987[doi>10.1145/37402.37414]
+Hargreaves, S. 2005. Generating shaders from HLSL fragments.ShaderX3: Advanced rendering with DirectX and OpenGL.
+Jared Hoberock , Victor Lu , Yuntao Jia , John C. Hart, Stream compaction for deferred shading, Proceedings of the Conference on High Performance Graphics 2009, August 01-03, 2009, New Orleans, Louisiana[doi>10.1145/1572769.1572797]
+Kroes, T., Post, F. H., and Botha, C. P. 2012. Exposure render: An interactive photo-realistic volume rendering framework.PLoS ONE 7, 7 (07).
+Samuli Laine , Tero Karras , Timo Aila, Megakernels considered harmful: wavefront path tracing on GPUs, Proceedings of the 5th High-Performance Graphics Conference, July 19-21, 2013, Anaheim, California[doi>10.1145/2492045.2492060]
+Fang Liu , Meng-Cheng Huang , Xue-Hui Liu , En-Hua Wu, FreePipe: a programmable parallel rendering architecture for efficient multi-fragment effects, Proceedings of the 2010 ACM SIGGRAPH symposium on Interactive 3D Graphics and Games, February 19-21, 2010, Washington, D.C.[doi>10.1145/1730804.1730817]
+Lijuan Luo , Martin Wong , Wen-mei Hwu, An effective GPU implementation of breadth-first search, Proceedings of the 47th Design Automation Conference, June 13-18, 2010, Anaheim, California[doi>10.1145/1837274.1837289]
+NVIDIA. 2012.CUDA Dynamic Parallelism Programming Guide.
+Steven G. Parker , James Bigler , Andreas Dietrich , Heiko Friedrich , Jared Hoberock , David Luebke , David McAllister , Morgan McGuire , Keith Morley , Austin Robison , Martin Stich, OptiX: a general purpose ray tracing engine, ACM Transactions on Graphics (TOG), v.29 n.4, July 2010[doi>10.1145/1778765.1778803]
+Anjul Patney , John D. Owens, Real-time Reyes-style adaptive surface subdivision, ACM Transactions on Graphics (TOG), v.27 n.5, December 2008[doi>10.1145/1409060.1409096]
+Nadathur Satish , Mark Harris , Michael Garland, Designing efficient sorting algorithms for manycore GPUs, Proceedings of the 2009 IEEE International Symposium on Parallel&Distributed; Processing, p.1-10, May 23-29, 2009[doi>10.1109/IPDPS.2009.5161005]
+Markus Steinberger , Bernhard Kainz , Bernhard Kerbl , Stefan Hauswiesner , Michael Kenzel , Dieter Schmalstieg, Softshell: dynamic scheduling on GPUs, ACM Transactions on Graphics (TOG), v.31 n.6, November 2012[doi>10.1145/2366145.2366180]
+Steinberger, M., Kenzel, M., Kainz, B., Müller, J., Wonka, P., and Schmalstieg, D. 2014. Parallel generation of architecture on the GPU. InComputer Graphics Forum, vol. 33, 73--82.
+Jeff A. Stuart , John D. Owens, Message passing on data-parallel architectures, Proceedings of the 2009 IEEE International Symposium on Parallel&Distributed; Processing, p.1-12, May 23-29, 2009[doi>10.1109/IPDPS.2009.5161065]
+Jeremy Sugerman , Kayvon Fatahalian , Solomon Boulos , Kurt Akeley , Pat Hanrahan, GRAMPS: A programming model for graphics pipelines, ACM Transactions on Graphics (TOG), v.28 n.1, p.1-11, January 2009[doi>10.1145/1477926.1477930]
+Stanley Tzeng , Anjul Patney , John D. Owens, Task management for irregular-parallel workloads on the GPU, Proceedings of the Conference on High Performance Graphics, June 25-27, 2010, Saarbrucken, Germany
+Xiao, S., and Feng, W. 2010. Inter-block GPU communication via fast barrier synchronization. InIEEE Parallel Distributed Processing.
+Shengen Yan , Guoping Long , Yunquan Zhang, StreamScan: fast scan algorithms for GPUs without global barrier synchronization, Proceedings of the 18th ACM SIGPLAN symposium on Principles and practice of parallel programming, February 23-27, 2013, Shenzhen, China[doi>10.1145/2442516.2442539]
+Kun Zhou , Qiming Hou , Zhong Ren , Minmin Gong , Xin Sun , Baining Guo, RenderAnts: interactive Reyes rendering on GPUs, ACM Transactions on Graphics (TOG), v.28 n.5, December 2009[doi>10.1145/1618452.1618501]

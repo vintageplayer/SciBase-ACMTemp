@@ -1,0 +1,43 @@
+D. R. Baum , H. E. Rushmeier , J. M. Winget, Improving radiosity solutions through the use of analytically determined form-factors, ACM SIGGRAPH Computer Graphics, v.23 n.3, p.325-334, July 1989[doi>10.1145/74334.74367]
+BEKAERT, P., NEUMANN, L., NEUMANN, A., SBERT, M., AND WILLEMS, Y. 1998. Hierarchical Monte Carlo radiosity. In Rendering Techniques 98, Eurographics 9th Workshop on Rendering (New York, June 1998), G. Drettakis and N. Max, Eds., Eurographics, Springer, Vienna.
+BOUATOUCH, K. AND PATTANAIK, S.N. 1995. Discontinuity meshing and hierarchical multiwavelet radiosity. In Proceedings of Graphics Interface '95 (San Francisco, May), W. A. Davis and P. Prusinkiewicz, Eds., Morgan-Kaufmann, San Mateo, CA, 109-115.
+Per H. Christensen , Eric J. Stollnitz , David H. Salesin , Tony D. DeRose, Global illumination of glossy environments using wavelets and importance, ACM Transactions on Graphics (TOG), v.15 n.1, p.37-71, Jan. 1996[doi>10.1145/226150.226153]
+Leila De Floriani , Enrico Puppo, Hierarchical triangulation for multiresolution surface description, ACM Transactions on Graphics (TOG), v.14 n.4, p.363-411, Oct. 1995[doi>10.1145/225294.225297]
+DRETTAKIS, G. AND FIUME, E. 1993. Accurate and consistent reconstruction of illumination functions using structured sampling. Comput. Graph. Forum (Eurographics '93) 13, 3 (Sept.), 273-284.
+George Drettakis , Eugene Fiume, A fast shadow algorithm for area light sources using backprojection, Proceedings of the 21st annual conference on Computer graphics and interactive techniques, p.223-230, July 1994[doi>10.1145/192161.192207]
+George Drettakis , François Sillion, Accurate visibility and meshing calculations for hierarchical radiosity, Proceedings of the eurographics workshop on Rendering techniques '96, p.269-ff., December 1996, Porto, Portugal
+Frédo Durand , George Drettakis , Claude Puech, The 3D visibility complex: a new approach to the problems of accurate visibility, Proceedings of the eurographics workshop on Rendering techniques '96, p.245-256, December 1996, Porto, Portugal
+Frédo Durand , George Drettakis , Claude Puech, The visibility skeleton: a powerful and efficient multi-purpose global visibility tool, Proceedings of the 24th annual conference on Computer graphics and interactive techniques, p.89-100, August 1997[doi>10.1145/258734.258785]
+James A. Ferwerda , Sumanta N. Pattanaik , Peter Shirley , Donald P. Greenberg, A model of visual adaptation for realistic image synthesis, Proceedings of the 23rd annual conference on Computer graphics and interactive techniques, p.249-258, August 1996[doi>10.1145/237170.237262]
+GIBSON, S. AND HUBBOLD, R.J. 1996. Efficient hierarchical refinement and clustering for radiosity in complex environments. Comput. Graph. Forum 15, 5, 297-310.
+GIBSON, S. AND HUBBOLD, R.J. 1997. Perceptually-driven radiosity. Comput. Graph. Forum 16, 2, 129-141.
+Ziv Gigus , John Canny , Raimund Seidel, Efficiently Computing and Representing Aspect Graphs of Polyhedral Objects, IEEE Transactions on Pattern Analysis and Machine Intelligence, v.13 n.6, p.542-551, June 1991[doi>10.1109/34.87341]
+Steven J. Gortler , Peter Schröder , Michael F. Cohen , Pat Hanrahan, Wavelet radiosity, Proceedings of the 20th annual conference on Computer graphics and interactive techniques, p.221-230, August 02-06, 1993, Anaheim, CA[doi>10.1145/166117.166146]
+Leonidas Guibas , Jorge Stolfi, Primitives for the manipulation of general subdivisions and the computation of Voronoi, ACM Transactions on Graphics (TOG), v.4 n.2, p.74-123, April 1985[doi>10.1145/282918.282923]
+Pat Hanrahan , David Salzman , Larry Aupperle, A rapid hierarchical radiosity algorithm, ACM SIGGRAPH Computer Graphics, v.25 n.4, p.197-206, July 1991[doi>10.1145/127719.122740]
+Stephen Hardt , Seth Teller, High-fidelity radiosity rendering at interactive rates, Proceedings of the eurographics workshop on Rendering techniques '96, p.71-80, December 1996, Porto, Portugal
+HECKBERT, P. 1992. Discontinuity meshing for radiosity. In Proceedings of the Third Eurographics Workshop on Rendering, 203-226.
+David Hedley , Adam D. Worrall , Derek J. Paddon, Selective Culling of Discontinuity Lines, Proceedings of the Eurographics Workshop on Rendering Techniques '97, p.69-80, June 16-18, 1997
+Henrik Wann Jensen, Global illumination using photon maps, Proceedings of the eurographics workshop on Rendering techniques '96, p.21-30, December 1996, Porto, Portugal
+Alexander Keller, Quasi-Monte Carlo radiosity, Proceedings of the eurographics workshop on Rendering techniques '96, p.101-110, December 1996, Porto, Portugal
+Dani Lischinski, Incremental Delaunay triangulation, Graphics gems IV, Academic Press Professional, Inc., San Diego, CA, 1994
+Dani Lischinski , Brian Smits , Donald P. Greenberg, Bounds and error estimates for radiosity, Proceedings of the 21st annual conference on Computer graphics and interactive techniques, p.67-74, July 1994[doi>10.1145/192161.192176]
+Dani Lischinski , Filippo Tampieri , Donald P. Greenberg, Discontinuity Meshing for Accurate Radiosity, IEEE Computer Graphics and Applications, v.12 n.6, p.25-39, November 1992[doi>10.1109/38.163622]
+Dani Lischinski , Filippo Tampieri , Donald P. Greenberg, Combining hierarchical radiosity and discontinuity meshing, Proceedings of the 20th annual conference on Computer graphics and interactive techniques, p.199-208, August 02-06, 1993, Anaheim, CA[doi>10.1145/166117.166143]
+Ignacio Martin , Xavier Pueyo , Dani Tost, An image-space refinement criterion for linear hierarchical radiosity, Proceedings of the conference on Graphics interface '97, p.26-36, May 1997, Kelowna, British Columbia, Canada
+Don P. Mitchell, Consequences of stratified sampling in graphics, Proceedings of the 23rd annual conference on Computer graphics and interactive techniques, p.277-280, August 1996[doi>10.1145/237170.237265]
+Gerald Murch, Color displays and color science, Color and the computer, Academic Press Professional, Inc., San Diego, CA, 1987
+Harry Plantinga , Charles R. Dyer, Visibility, occlusion, and the aspect graph, International Journal of Computer Vision, v.5 n.2, p.137-160, Nov. 1990[doi>10.1007/BF00054919]
+REICHERT, M. C. 1992. A two-pass radiosity method driven by lights and viewer position. Master's Thesis, Program of Computer Graphics, Cornell University.
+A. James Stewart , Sherif Ghali, Fast computation of shadow boundaries using spatial coherence and backprojections, Proceedings of the 21st annual conference on Computer graphics and interactive techniques, p.231-238, July 1994[doi>10.1145/192161.192210]
+Eric J. Stollnitz , Tony D. Derose , David H. Salesin, Wavelets for computer graphics: theory and applications, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1996
+STURZLINGER, W. 1994. Adaptive mesh refinement with discontinuities for the radiosity method. In Proceedings of the Fifth Eurographics Workshop on Rendering (Darmstadt, Germany, June), Springer, Vienna, 239-248.
+Filippo Tampieri, Discontinuity meshing for radiosity image synthesis, Cornell University, Ithaca, NY, 1993
+Seth Teller , Pat Hanrahan, Global visibility algorithms for illumination computations, Proceedings of the 20th annual conference on Computer graphics and interactive techniques, p.239-246, August 02-06, 1993, Anaheim, CA[doi>10.1145/166117.166148]
+Seth J. Teller, Computing the antipenumbra of an area light source, ACM SIGGRAPH Computer Graphics, v.26 n.2, p.139-148, July 1992[doi>10.1145/142920.134029]
+Jack Tumblin , Holly Rushmeier, Tone Reproduction for Realistic Images, IEEE Computer Graphics and Applications, v.13 n.6, p.42-48, November 1993[doi>10.1109/38.252554]
+Carlos Ureña , Juan Carlos Torres, Improved Irradance Computation by Importance Sampling, Proceedings of the Eurographics Workshop on Rendering Techniques '97, p.275-284, June 16-18, 1997
+Eric Veach , Leonidas J. Guibas, Metropolis light transport, Proceedings of the 24th annual conference on Computer graphics and interactive techniques, p.65-76, August 1997[doi>10.1145/258734.258775]
+J. R. Wallace , K. A. Elmquist , E. A. Haines, A Ray tracing algorithm for progressive radiosity, ACM SIGGRAPH Computer Graphics, v.23 n.3, p.315-324, July 1989[doi>10.1145/74334.74366]
+Greg Ward, A contrast-based scalefactor for luminance display, Graphics gems IV, Academic Press Professional, Inc., San Diego, CA, 1994
+Harold R. Zatz, Galerkin radiosity: a higher order solution method  for global illumination, Proceedings of the 20th annual conference on Computer graphics and interactive techniques, p.213-220, August 02-06, 1993, Anaheim, CA[doi>10.1145/166117.166145]

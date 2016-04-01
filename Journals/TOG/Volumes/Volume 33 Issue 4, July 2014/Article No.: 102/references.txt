@@ -1,0 +1,41 @@
+Arvo, J. 1986. Backward ray tracing. InSIGGRAPH Course Notes, 259--263.
+Michael Ashikhmin , Peter Shirley, An anisotropic phong BRDF model, Journal of Graphics Tools, v.5 n.2, p.25-32, Dec. 2000[doi>10.1080/10867651.2000.10487522]
+Bremaud, P. 1999.Markov Chains: Gibbs Fields, Monte Carlo Simulation, and Queues. Springer. ISBN 0-387-98509-3.
+Cappé, O., Guillin, A., Marin, J.-M., and Robert, C. P. 2004. Population Monte Carlo.Journal of Computational and Graphical Statistics 13, 4.
+Jiating Chen , Bin Wang , Jun-Hai Yong, Improved stochastic progressive photon mapping with metropolis sampling, Proceedings of the Twenty-second Eurographics conference on Rendering, June 27-29, 2011, Prague, Czech Republic[doi>10.1111/j.1467-8659.2011.01979.x]
+David Cline , Justin Talbot , Parris Egbert, Energy redistribution path tracing, ACM Transactions on Graphics (TOG), v.24 n.3, July 2005[doi>10.1145/1073204.1073330]
+Dachsbacher, C., Krivánek, J., Hasan, M., Arbree, A., Walter, B., and Novák, J. 2013. Scalable realistic rendering with many-light methods.Computer Graphics Forum DOI: 10.1111/cgf.12256.
+Shaohua Fan , Stephen Chenney , Yu-chi Lai, Metropolis photon sampling with optional user guidance, Proceedings of the Sixteenth Eurographics conference on Rendering Techniques, June 29-July 01, 2005, Konstanz, Germany[doi>10.2312/EGWR/EGSR05/127-138]
+Iliyan Georgiev , Jaroslav Křivánek , Tomáš Davidovič , Philipp Slusallek, Light transport simulation with vertex connection and merging, ACM Transactions on Graphics (TOG), v.31 n.6, November 2012[doi>10.1145/2366145.2366211]
+Toshiya Hachisuka , Henrik Wann Jensen, Robust adaptive photon tracing using photon path visibility, ACM Transactions on Graphics (TOG), v.30 n.5, p.1-11, October 2011[doi>10.1145/2019627.2019633]
+Toshiya Hachisuka , Shinji Ogaki , Henrik Wann Jensen, Progressive photon mapping, ACM Transactions on Graphics (TOG), v.27 n.5, December 2008[doi>10.1145/1409060.1409083]
+Toshiya Hachisuka , Jacopo Pantaleoni , Henrik Wann Jensen, A path space extension for robust light transport simulation, ACM Transactions on Graphics (TOG), v.31 n.6, November 2012[doi>10.1145/2366145.2366210]
+Hanika, J. 2011.Spectral light transport simulation using a precision-based ray tracing architecture. PhD thesis, Ulm University. VTS-ID/7539.
+Hastings, W. K. 1970. Monte Carlo sampling methods using Markov chains and their applications.Biometrika 57, 1, 97--109.
+Homan Igehy, Tracing ray differentials, Proceedings of the 26th annual conference on Computer graphics and interactive techniques, p.179-186, July 1999[doi>10.1145/311535.311555]
+Wenzel Jakob , Steve Marschner, Manifold exploration: a Markov Chain Monte Carlo technique for rendering scenes with difficult specular transport, ACM Transactions on Graphics (TOG), v.31 n.4, p.1-13, July 2012[doi>10.1145/2185520.2185554]
+Jakob, W., 2010. Mitsuba renderer. http://www.mitsuba-renderer.org.
+Jakob, W. 2013.Light transport on path-space manifolds. PhD thesis, Cornell University.
+Henrik Wann Jensen, Global illumination using photon maps, Proceedings of the eurographics workshop on Rendering techniques '96, p.21-30, December 1996, Porto, Portugal
+James T. Kajiya, The rendering equation, Proceedings of the 13th annual conference on Computer graphics and interactive techniques, p.143-150, August 1986[doi>10.1145/15922.15902]
+Anton S. Kaplanyan , Carsten Dachsbacher, Adaptive progressive photon mapping, ACM Transactions on Graphics (TOG), v.32 n.2, p.1-13, April 2013[doi>10.1145/2451236.2451242]
+Kaplanyan, A. S., and Dachsbacher, C. 2013. Path space regularization for holistic and robust light transport.Computer Graphics Forum (Proc. of Eurographics) 32, 2, 63--72.
+Kelemen, C., Szirmay-Kalos, L., Antal, G., and Csonka, F. 2002. A simple and robust mutation strategy for the Metropolis light transport algorithm.Computer Graphics Forum 21, 3, 531--540.
+Alexander Keller, Instant radiosity, Proceedings of the 24th annual conference on Computer graphics and interactive techniques, p.49-56, August 1997[doi>10.1145/258734.258769]
+Claude Knaus , Matthias Zwicker, Progressive photon mapping: A probabilistic approach, ACM Transactions on Graphics (TOG), v.30 n.3, p.1-13, May 2011[doi>10.1145/1966394.1966404]
+Jaroslav Křivánek , Iliyan Georgiev , Anton S. Kaplanyan , Juan Cañada, Recent advances in light transport simulation: theory & practice, ACM SIGGRAPH 2013 Courses, p.1-5, July 21-25, 2013, Anaheim, California[doi>10.1145/2504435.2504439]
+Lafortune, E. P., and Willems, Y. D. 1993. Bi-directional path tracing. InProc. of COMPUGRAPHICS, 145--153.
+Jaakko Lehtinen , Tero Karras , Samuli Laine , Miika Aittala , Frédo Durand , Timo Aila, Gradient-domain metropolis light transport, ACM Transactions on Graphics (TOG), v.32 n.4, July 2013[doi>10.1145/2461912.2461943]
+Metropolis, N., Rosenbluth, A. W., Rosenbluth, M. N., Teller, A. H., and Teller, E. 1953. Equation of state calculations by fast computing machines.The Journal of Chemical Physics 21, 6, 1087--1092.
+Rusinkiewicz, S. 1998. A new change of variables for efficient BRDF representation. InProc. Eurographics Workshop on Rendering, 11--22.
+Mikio Shinya , T. Takahashi , Seiichiro Naito, Principles and applications of pencil tracing, ACM SIGGRAPH Computer Graphics, v.21 n.4, p.45-54, July 1987[doi>10.1145/37402.37408]
+Shirley, P., Wade, B., Hubbard, P. M., Zareski, D., Walter, B., and Greenberg, D. P. 1995. Global illumination via density-estimation. InProc. Eurographics Workshop on Rendering, 219--230.
+Sommerfeld, A., and Runge, J. 1911. Anwendung der Vektorrechnung auf die Grundlagen der geometrischen Optik.Annalen der Physik 340, 277--298.
+Spivak, M. 1965.Calculus on manifolds. Addison-Wesley. ISBN 978-0-81-334612-0.
+Kartic Subr , Jan Kautz, Fourier analysis of stochastic sampling strategies for assessing bias and variance in integration, ACM Transactions on Graphics (TOG), v.32 n.4, July 2013[doi>10.1145/2461912.2462013]
+Veach, E., and Guibas, L. 1994. Bidirectional estimators for light transport. InProc. Eurographics Workshop on Rendering, 147--162.
+Eric Veach , Leonidas J. Guibas, Metropolis light transport, Proceedings of the 24th annual conference on Computer graphics and interactive techniques, p.65-76, August 1997[doi>10.1145/258734.258775]
+Eric Veach , Leonidas J. Guibas, Robust monte carlo methods for light transport simulation, Stanford University, Stanford, CA, 1998
+Bruce Walter , Sebastian Fernandez , Adam Arbree , Kavita Bala , Michael Donikian , Donald P. Greenberg, Lightcuts: a scalable approach to illumination, ACM Transactions on Graphics (TOG), v.24 n.3, July 2005[doi>10.1145/1073204.1073318]
+Bruce Walter , Stephen R. Marschner , Hongsong Li , Kenneth E. Torrance, Microfacet models for refraction through rough surfaces, Proceedings of the 18th Eurographics conference on Rendering Techniques, June 25-27, 2007, Grenoble, France[doi>10.2312/EGWR/EGSR07/195-206]
+Bruce Walter , Pramook Khungurn , Kavita Bala, Bidirectional lightcuts, ACM Transactions on Graphics (TOG), v.31 n.4, p.1-11, July 2012[doi>10.1145/2185520.2185555]

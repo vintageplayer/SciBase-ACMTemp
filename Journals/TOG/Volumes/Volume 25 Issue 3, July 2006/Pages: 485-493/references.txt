@@ -1,0 +1,38 @@
+Thomas Akenine-Möller, Fast 3D triangle-box overlap testing, Journal of Graphics Tools, v.6 n.1, p.29-33, September 2001[doi>10.1080/10867651.2001.10487535]
+Amanatides, J., and Woo, A. 1987. A Fast Voxel Traversal Algorithm for Ray Tracing. In Eurographics '87. Eurographics Association, 3--10.
+Benthin, C., Wald, I., and Slusallek, P. 2003. A Scalable Approach to Interactive Global Illumination. Computer Graphics Forum 22 (3), 621--630. (Proceedings of Eurographics).
+Cazals, F., Drettakis, G., and Puech, C. 1995. Filtering, Clustering and Hierarchy Construction: a new solution for Ray Tracing very Complex Environments. In Proceedings of Eurographics '95.
+Cleary, J., Wyvill, B., Birtwistle, G., and Vatti, R. 1983. A Parallel Ray Tracing Computer. In Proceedings of the Association of Simula Users Conference, 77--80.
+Dmitriev, K., Havran, V., and Seidel, H.-P. 2004. Faster Ray Tracing with SIMD Shaft Culling. Research Report MPI-I-2004-4-006, Max-Planck-Institut für Informatik, Saarbrücken, Germany.
+Tim Foley , Jeremy Sugerman, KD-tree acceleration structures for a GPU raytracer, Proceedings of the ACM SIGGRAPH/EUROGRAPHICS conference on Graphics hardware, July 30-31, 2005, Los Angeles, California[doi>10.1145/1071866.1071869]
+Akira Fujimoto , Takayuki Tanaka , Kansei Iwata, ARTSccelerated ray-tracing system, IEEE Computer Graphics and Applications, v.6 n.4, p.16-26, April 1986[doi>10.1109/MCG.1986.276715]
+Glassner, A. S. 1984. Space subdivision for fast ray tracing. IEEE CG&A; 4 (10), 15--22.
+Andrew S. Glassner, An introduction to ray tracing, Academic Press Ltd., London, UK, 1989
+Günther, J., Friedrich, H., Wald, I., Seidel, H.-P., and Slusallek, P. 2006. Ray tracing animated scenes using motion decomposition. In Proceedings of Eurographics 2006. (to appear).
+Havran, V. 2001. Heuristic Ray Shooting Algorithms. PhD thesis, Faculty of Electrical Engineering, Czech Technical University in Prague.
+Havran, V. 2002. Mailboxing, Yea or Nay? Ray Tracing News 15 (1).
+Paul S. Heckbert , Pat Hanrahan, Beam tracing polygonal objects, Proceedings of the 11th annual conference on Computer graphics and interactive techniques, p.119-127, January 1984[doi>10.1145/800031.808588]
+Jevans, D., and Wyvill, B. 1989. Adaptive voxel subdivision for ray tracing. Proceedings of Graphics Interface '89 (June), 164--172.
+James T. Kajiya, The rendering equation, Proceedings of the 13th annual conference on Computer graphics and interactive techniques, p.143-150, August 1986[doi>10.1145/15922.15902]
+Kirk, D., and Arvo, J. 1991. Improved ray tagging for voxel-based ray tracing. In Graphics Gems II, J. Arvo, Ed. Academic Press, 264--266.
+Krzysztof S. Klimaszewski , Thomas W. Sederberg, Faster Ray Tracing Using Adaptive Grids, IEEE Computer Graphics and Applications, v.17 n.1, p.42-51, January 1997[doi>10.1109/38.576857]
+Lauterbach, C., Yoon, S.-E., Tuft, D., and Manocha, D. 2006. RT-DEFORM: Interactive Ray Tracing of Dynamic Scenes using BVHs. Tech. Rep. 06-010, Department of Computer Science, University of North Carolina at Chapel Hill.
+Lext, J., and Akenine-Möller, T. 2001. Towards rapid reconstruction for animated ray tracing. In Eurographics Short Presentations, 311--318.
+Jeffrey A. Mahovsky, Ray tracing with reduced-precision bounding volume hierarchies, University of Calgary, Calgary, Alta., Canada, 2005
+Minor, B., Fossum, G., and To, V. 2005. TRE: Cell broadband optimized real-time ray-caster. In Proceedings of GPSx.
+Tomas Möller , Ben Trumbore, Fast, minimum storage ray-triangle intersection, Journal of Graphics Tools, v.2 n.1, p.21-28, 1997[doi>10.1080/10867651.1997.10487468]
+Steven Parker , Michael Parker , Yarden Livnat , Peter-Pike Sloan , Charles Hansen , Peter Shirley, Interactive Ray Tracing for Volume Visualization, IEEE Transactions on Visualization and Computer Graphics, v.5 n.3, p.238-250, July 1999[doi>10.1109/2945.795215]
+Steven Parker , William Martin , Peter-Pike J. Sloan , Peter Shirley , Brian Smits , Charles Hansen, Interactive ray tracing, Proceedings of the 1999 symposium on Interactive 3D graphics, p.119-126, April 26-29, 1999, Atlanta, Georgia, USA[doi>10.1145/300523.300537]
+Timothy J. Purcell , Ian Buck , William R. Mark , Pat Hanrahan, Ray tracing on programmable graphics hardware, Proceedings of the 29th annual conference on Computer graphics and interactive techniques, July 23-26, 2002, San Antonio, Texas[doi>10.1145/566570.566640]
+Erik Reinhard , Brian E. Smits , Chuck Hansen, Dynamic Acceleration Structures for Interactive Ray Tracing, Proceedings of the Eurographics Workshop on Rendering Techniques 2000, p.299-306, June 26-28, 2000
+Reshetov, A., Soupikov, A., and Hurley, J. 2005. Multi-level ray tracing algorithm. In Proceedings of SIGGRAPH, 1176--1185.
+Spackman, J., and Willis, P. 1991. The SMART navigation of a ray through an oct-tree. Computers and Graphics 15 (2), 185--194.
+John Neil Spackman, Scene decompositions for accelerated ray tracing, University of Bath (United Kingdom), 1989
+Stoll, G., Mark, W. R., Djeu, P., Wang, R., and Elhassan, I. 2006. Razor: An Architecture for Dynamic Multiresolution Ray Tracing. Tech. Rep. 06-21, University of Texas at Austin Dep. of Comp. Science.
+Stoll, G. 2005. Part II: Achieving Real Time - Optimization Techniques. In SIGGRAPH 2005 Course on Interactive Ray Tracing, P. Slusallek, P. Shirley, I. Wald, G. Stoll, and B. Mark, Eds.
+Wald, I., and Havran, V. 2006. On building good kd-trees for ray tracing, and on doing this in O(N log N). Tech. Rep. UUSCI-2006-009, SCI Institute, University of Utah.
+Wald, I., Slusallek, P., Benthin, C., and Wagner, M. 2001. Interactive Rendering with Coherent Ray Tracing. Computer Graphics Forum 20(3), 153--164. (Proceedings of Eurographics).
+Ingo Wald , Carsten Benthin , Philipp Slusallek, Distributed Interactive Ray Tracing of Dynamic Scenes, Proceedings of the 2003 IEEE Symposium on Parallel and Large-Data Visualization and Graphics, p.11, October 20-21, 2003[doi>10.1109/PVGS.2003.1249045]
+Ingo Wald , Thiago Ize , Andrew Kensler , Aaron Knoll , Steven G. Parker, Ray tracing animated scenes using coherent grid traversal, ACM Transactions on Graphics (TOG), v.25 n.3, July 2006[doi>10.1145/1141911.1141913]
+Wald, I. 2004. Realtime Ray Tracing and Interactive Global Illumination. PhD thesis, Saarland University.
+Sven Woop , Jörg Schmittler , Philipp Slusallek, RPU: a programmable ray processing unit for realtime ray tracing, ACM SIGGRAPH 2005 Papers, July 31-August 04, 2005, Los Angeles, California[doi>10.1145/1186822.1073211]

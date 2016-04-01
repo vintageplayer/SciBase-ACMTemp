@@ -1,0 +1,37 @@
+Anderson, C. R. 1983.Vortex Methods for Flows of Variable Density. PhD thesis, University of California, Berkeley.
+Christopher R Anderson, A method of local corrections for computing the velocity field due to a distribution of vortex blobs, Journal of Computational Physics, v.62 n.1, p.111-123, Jan. 1986[doi>10.1016/0021-9991(86)90102-6]
+Alexis Angelidis , Fabrice Neyret, Simulation of smoke based on vortex filament primitives, Proceedings of the 2005 ACM SIGGRAPH/Eurographics symposium on Computer animation, July 29-31, 2005, Los Angeles, California[doi>10.1145/1073368.1073380]
+Tyson Brochu , Todd Keeler , Robert Bridson, Linear-time smoke animation with vortex sheet meshes, Proceedings of the 11th ACM SIGGRAPH / Eurographics conference on Computer Animation, July 29-31, 2012, Lausanne, Switzerland[doi>10.2312/SCA/SCA12/087-095]
+Brown, G. L., and Roshko, A. 1974. On density effects and large structure in turbulent mixing layers.J. Fluid Mechanics 64, 775--816.
+Chorin, A. J. 1973. Numerical study of slightly viscous flow.Journal of Fluid Mechanics Digital Archive 57, 04, 785--796.
+Jonathan M. Cohen , Sarah Tariq , Simon Green, Interactive fluid-particle simulation using translating Eulerian grids, Proceedings of the 2010 ACM SIGGRAPH symposium on Interactive 3D Graphics and Games, February 19-21, 2010, Washington, D.C.[doi>10.1145/1730804.1730807]
+Cottet, G.-H., and Koumoutsakos, P. 2000.Vortex methods - theory and practice. Cambridge University Press.
+Couet, B., Buneman, O., and Leonard, A. 1981. Simulation of three-dimensional incompressible flows with a vortex-in-cell method.Journal of Computational Physics 39, 2, 305--328.
+Ronald Fedkiw , Jos Stam , Henrik Wann Jensen, Visual simulation of smoke, Proceedings of the 28th annual conference on Computer graphics and interactive techniques, p.15-22, August 2001[doi>10.1145/383259.383260]
+Ferstl, F., Westermann, R., and Dick, C. 2014. Large-scale liquid simulation on adaptive hexahedral grids.Visualization and Computer Graphics, IEEE Transactions on PP, 99, 1--1.
+Green, S. 2008. Cuda particles.nVidia Whitepaper 2, 3.2, 1.
+L. Greengard , V. Rokhlin, A fast algorithm for particle simulations, Journal of Computational Physics, v.73 n.2, p.325-348, December 1, 1987[doi>10.1016/0021-9991(87)90140-9]
+Nail A. Gumerov , Ramani Duraiswami, Fast multipole methods on graphics processors, Journal of Computational Physics, v.227 n.18, p.8290-8313, September, 2008[doi>10.1016/j.jcp.2008.05.023]
+Ronald D. Henderson, Scalable fluid simulation in linear time on shared memory multiprocessors, Proceedings of the Digital Production Symposium, August 04-04, 2012, Glendale, California[doi>10.1145/2370919.2370927]
+M. Herrmann, A Eulerian level set/vortex sheet method for two-phase interface dynamics, Journal of Computational Physics, v.203 n.2, p.539-571, 1 March 2005[doi>10.1016/j.jcp.2004.08.023]
+R. W. Hockney , J. W. Eastwood, Computer simulation using particles, Taylor & Francis, Inc., Bristol, PA, 1988
+Alec Jacobson , Ladislav Kavan , Olga Sorkine-Hornung, Robust inside-outside segmentation using generalized winding numbers, ACM Transactions on Graphics (TOG), v.32 n.4, July 2013[doi>10.1145/2461912.2461916]
+Michael Kazhdan , Matthew Bolitho , Hugues Hoppe, Poisson surface reconstruction, Proceedings of the fourth Eurographics symposium on Geometry processing, June 26-28, 2006, Cagliari, Sardinia, Italy
+Petros Koumoutsakos , Georges-Henri Cottet , Diego Rossinelli, Flow simulations using particles: bridging computer graphics and CFD, ACM SIGGRAPH 2008 classes, August 11-15, 2008, Los Angeles, California[doi>10.1145/1401132.1401166]
+Frank Losasso , Frédéric Gibou , Ron Fedkiw, Simulating water and smoke with an octree data structure, ACM Transactions on Graphics (TOG), v.23 n.3, August 2004[doi>10.1145/1015706.1015745]
+A. McAdams , E. Sifakis , J. Teran, A parallel multigrid Poisson solver for fluids simulation on large grids, Proceedings of the 2010 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, July 02-04, 2010, Madrid, Spain
+Jeroen Molemaker , Jonathan M. Cohen , Sanjit Patel , Jonyong Noh, Low viscosity flow simulations for animation, Proceedings of the 2008 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, July 07-09, 2008, Dublin, Ireland
+Ken Museth , Jeff Lait , John Johanson , Jeff Budsberg , Ron Henderson , Mihai Alden , Peter Cucka , David Hill , Andrew Pearce, OpenVDB: an open-source data structure and toolkit for high-resolution volumes, ACM SIGGRAPH 2013 Courses, p.1-1, July 21-25, 2013, Anaheim, California[doi>10.1145/2504435.2504454]
+Sang Il Park , Myoung Jun Kim, Vortex fluid for gaseous phenomena, Proceedings of the 2005 ACM SIGGRAPH/Eurographics symposium on Computer animation, July 29-31, 2005, Los Angeles, California[doi>10.1145/1073368.1073406]
+Tobias Pfaff , Nils Thuerey , Andrew Selle , Markus Gross, Synthetic turbulence using artificial boundary layers, ACM Transactions on Graphics (TOG), v.28 n.5, December 2009[doi>10.1145/1618452.1618467]
+Tobias Pfaff , Nils Thuerey , Markus Gross, Lagrangian vortex sheets for animating fluids, ACM Transactions on Graphics (TOG), v.31 n.4, p.1-8, July 2012[doi>10.1145/2185520.2185608]
+Andrew Selle , Nick Rasmussen , Ronald Fedkiw, A vortex particle method for smoke, water and explosions, ACM Transactions on Graphics (TOG), v.24 n.3, July 2005[doi>10.1145/1073204.1073282]
+Jos Stam, Stable fluids, Proceedings of the 26th annual conference on Computer graphics and interactive techniques, p.121-128, July 1999[doi>10.1145/311535.311548]
+Teschner, M., Heidelberger, B., Mueller, M., Pomeranets, D., and Gross, M. 2003. Optimized spatial hashing for collision detection of deformable objects. InProc. VMV, 47--54.
+Theuns, T. 1994. Parallel PPPM with exact calculation of short range forces.Computer Physics Commun. 78, 3, 238--246.
+J. H. Walther, An influence matrix particle-particle particle-mesh algorithm with exact particle-particle correction, Journal of Computational Physics, v.184 n.2, p.670-678, 20 January 2003[doi>10.1016/S0021-9991(02)00035-9]
+He Wang , Kirill A. Sidorov , Peter Sandilands , Taku Komura, Harmonic parameterization by electrostatics, ACM Transactions on Graphics (TOG), v.32 n.5, p.1-12, September 2013[doi>10.1145/2503177]
+Steffen Weißmann , Ulrich Pinkall, Filament-based smoke with vortex shedding and variational reconnection, ACM Transactions on Graphics (TOG), v.29 n.4, July 2010[doi>10.1145/1778765.1778852]
+Wu, J.-Z. 1995. A theory of three-dimensional interfacial vorticity dynamics.Physics of Fluids 7, 2375--2395.
+Larry Yaeger , Craig Upson , Robert Myers, Combining physical and visual simulation—creation of the planet Jupiter for the film “2010”, ACM SIGGRAPH Computer Graphics, v.20 n.4, p.85-93, Aug. 1986[doi>10.1145/15886.15895]
+Yongning Zhu , Robert Bridson, Animating sand as a fluid, ACM Transactions on Graphics (TOG), v.24 n.3, July 2005[doi>10.1145/1073204.1073298]

@@ -1,0 +1,34 @@
+Timo Aila , Samuli Laine, Understanding the efficiency of ray traversal on GPUs, Proceedings of the Conference on High Performance Graphics 2009, August 01-03, 2009, New Orleans, Louisiana[doi>10.1145/1572769.1572792]
+Christensen, P. H., Laur, D. M., Fong, J., Wooten, W. L., and Batali, D. 2003. Ray differentials and multiresolution geometry caching for distribution ray tracing in complex scenes. InProceedings of Eurographics 2003, Blackwell Publishers, 543--552.
+Christensen, P., Fong, J., Laur, D., and Batali, D. 2006. Ray tracing for the movie 'cars'. InProceedings of IEEE Symposium on Interactive Ray Tracing, 1--6.
+Christensen, P. H. 2008. Point-based approximate color bleeding. Tech. rep., Pixar Technical Memo #08-01.
+Robert L. Cook , Thomas Porter , Loren Carpenter, Distributed ray tracing, ACM SIGGRAPH Computer Graphics, v.18 n.3, p.137-145, July 1984[doi>10.1145/964965.808590]
+Robert L. Cook , Loren Carpenter , Edwin Catmull, The Reyes image rendering architecture, ACM SIGGRAPH Computer Graphics, v.21 n.4, p.95-102, July 1987[doi>10.1145/37402.37414]
+Cook, R. L., Porter, T. K., and Carpenter, L. C., 1993. Pseudo-random point sampling techniques in computer graphics, US Patent 5239624.
+Robert L. Cook, Stochastic sampling in computer graphics, ACM Transactions on Graphics (TOG), v.5 n.1, p.51-72, Jan. 1986[doi>10.1145/7529.8927]
+Demers, J. 2004. Depth of field: A survey of techniques.GPU Gems, 375--390.
+Kevin Egan , Yu-Ting Tseng , Nicolas Holzschuch , Frédo Durand , Ravi Ramamoorthi, Frequency analysis and sheared reconstruction for rendering motion blur, ACM Transactions on Graphics (TOG), v.28 n.3, August 2009[doi>10.1145/1531326.1531399]
+Kayvon Fatahalian , Edward Luong , Solomon Boulos , Kurt Akeley , William R. Mark , Pat Hanrahan, Data-parallel rasterization of micropolygons with defocus and motion blur, Proceedings of the Conference on High Performance Graphics 2009, August 01-03, 2009, New Orleans, Louisiana[doi>10.1145/1572769.1572780]
+Matthew Fisher , Kayvon Fatahalian , Solomon Boulos , Kurt Akeley , William R. Mark , Pat Hanrahan, DiagSplit: parallel, crack-free, adaptive tessellation for micropolygon rendering, ACM Transactions on Graphics (TOG), v.28 n.5, December 2009[doi>10.1145/1618452.1618496]
+Andrew S. Glassner, Spacetime Ray Tracing for Animation, IEEE Computer Graphics and Applications, v.8 n.2, p.60-70, March 1988[doi>10.1109/38.504]
+Toshiya Hachisuka , Wojciech Jarosz , Richard Peter Weistroffer , Kevin Dale , Greg Humphreys , Matthias Zwicker , Henrik Wann Jensen, Multidimensional adaptive sampling and reconstruction for ray tracing, ACM Transactions on Graphics (TOG), v.27 n.3, August 2008[doi>10.1145/1360612.1360632]
+Paul Haeberli , Kurt Akeley, The accumulation buffer: hardware support for high-quality rendering, Proceedings of the 17th annual conference on Computer graphics and interactive techniques, p.309-318, September 1990, Dallas, TX, USA[doi>10.1145/97879.97913]
+Qiming Hou , Kun Zhou , Baining Guo, BSGP: bulk-synchronous GPU programming, ACM Transactions on Graphics (TOG), v.27 n.3, August 2008[doi>10.1145/1360612.1360618]
+Hsieh, P., 2004. Hash functions. http://www.azillionmonkeys.com/qed/hash.html.
+Philip M. Hubbard, Collision Detection for Interactive Graphics Applications, IEEE Transactions on Visualization and Computer Graphics, v.1 n.3, p.218-230, September 1995[doi>10.1109/2945.466717]
+Ize, T., Wald, I., and Parker, S. G. 2008. Ray tracing with the BSP tree. InProceedings of IEEE Symposium on Interactive Ray Tracing, 159--166.
+Kass, M., Lefohn, A., and Owens, J. 2006. Interactive depth of field. Tech. rep., Pixar Technical Memo #06-01.
+Lauterbach, C., Garland, M., Sengupta, S., Luebke, D., and Manocha, D. 2009. Fast BVH construction on GPUs.Computer Graphics Forum 28, 2, 375--384.
+Sungkil Lee , Elmar Eisemann , Hans-Peter Seidel, Depth-of-field rendering with multiview synthesis, ACM Transactions on Graphics (TOG), v.28 n.5, December 2009[doi>10.1145/1618452.1618480]
+Morton. 1966. A computer oriented geodetic data base and a new technique in file sequencing. Tech. Rep. Ottawa, Ontario, Canada.
+Ryan S. Overbeck , Craig Donner , Ravi Ramamoorthi, Adaptive wavelet rendering, ACM Transactions on Graphics (TOG), v.28 n.5, December 2009[doi>10.1145/1618452.1618486]
+Anjul Patney , John D. Owens, Real-time Reyes-style adaptive surface subdivision, ACM Transactions on Graphics (TOG), v.27 n.5, December 2008[doi>10.1145/1409060.1409096]
+Shevtsov, M., Soupikov, A., and Kapustin, A. 2007. Highly parallel fast kd-tree construction for interactive ray tracing of dynamic scenes. InProceedings of Eurographics '07, 395--404.
+Peter Shirley , Kenneth Chiu, A low distortion map between disk and square, Journal of Graphics Tools, v.2 n.3, p.45-52, 1997[doi>10.1080/10867651.1997.10487479]
+Cyril Soler , Kartic Subr , Frédo Durand , Nicolas Holzschuch , François Sillion, Fourier depth of field, ACM Transactions on Graphics (TOG), v.28 n.2, p.1-12, April 2009[doi>10.1145/1516522.1516529]
+K. Sung , A. Pearce , C. Wang, Spatial-Temporal Antialiasing, IEEE Transactions on Visualization and Computer Graphics, v.8 n.2, p.144-153, April 2002[doi>10.1109/2945.998667]
+Ingo Wald , Solomon Boulos , Peter Shirley, Ray tracing deformable scenes using dynamic bounding volume hierarchies, ACM Transactions on Graphics (TOG), v.26 n.1, p.6-es, January 2007[doi>10.1145/1189762.1206075]
+Ingo Wald, On fast Construction of SAH-based Bounding Volume Hierarchies, Proceedings of the 2007 IEEE Symposium on Interactive Ray Tracing, p.33-40, September 10-12, 2007[doi>10.1109/RT.2007.4342588]
+Weisstein, E. W. Magic square. http://mathworld.wolfram.com/MagicSquare.html.
+Kun Zhou , Qiming Hou , Rui Wang , Baining Guo, Real-time KD-tree construction on graphics hardware, ACM Transactions on Graphics (TOG), v.27 n.5, December 2008[doi>10.1145/1409060.1409079]
+Kun Zhou , Qiming Hou , Zhong Ren , Minmin Gong , Xin Sun , Baining Guo, RenderAnts: interactive Reyes rendering on GPUs, ACM Transactions on Graphics (TOG), v.28 n.5, December 2009[doi>10.1145/1618452.1618501]

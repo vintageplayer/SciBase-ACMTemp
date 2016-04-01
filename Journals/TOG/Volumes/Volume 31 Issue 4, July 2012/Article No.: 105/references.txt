@@ -1,0 +1,33 @@
+Anitescu, M., and Potra, F. A. 1997. Formulating dynamic multi-rigid-body contact problems with friction as solvable linear complementarity problems.Nonlinear Dynamics 14, 231--247.
+David Baraff, Coping with friction for non-penetrating rigid body simulation, Proceedings of the 18th annual conference on Computer graphics and interactive techniques, p.31-41, July 1991[doi>10.1145/122718.122722]
+Robert Bridson , Ronald Fedkiw , John Anderson, Robust treatment of collisions, contact and friction for cloth animation, Proceedings of the 29th annual conference on Computer graphics and interactive techniques, July 23-26, 2002, San Antonio, Texas[doi>10.1145/566570.566623]
+Catto, E. 2005. Iterative dynamics with temporal coherence. Presented at the Game Developers Conference.
+Cline, M. B., and Pai, D. K. 2003. Post-stabilization for rigid body simulation with contact and constraints. InICRA, IEEE, 3744--3751.
+Cottle, R., Pang, J.-S., and Stone, R. 1992.The Linear Complementarity Problem. Academic Press.
+Coumans, E. 2011. Game physics artefacts. Presented at the Game Developers Conference.
+Gilles Daviet , Florence Bertails-Descoubes , Laurence Boissieux, A hybrid iterative solver for robustly capturing coulomb friction in hair dynamics, ACM Transactions on Graphics (TOG), v.30 n.6, December 2011
+Zdeněk Dostál , Joachim Schöberl, Minimizing quadratic functions subject to bound constraints with the rate of convergence and finite termination, Computational Optimization and Applications, v.30 n.1, p.23-43, January 2005[doi>10.1007/s10589-005-4557-7]
+Erleben, K. 2004.Stable, Robust, and Versatile Multibody Dynamics Animation. PhD thesis, University of Copenhagen Copenhagen.
+Eran Guendelman , Robert Bridson , Ronald Fedkiw, Nonconvex rigid bodies with stacking, ACM SIGGRAPH 2003 Papers, July 27-31, 2003, San Diego, California[doi>10.1145/1201775.882358]
+Gustafsson, D. 2010. Understanding game physics artefacts. InGame Physics Pearls. A K Peters, ch. 2.
+Harada, T. 2007. Real-time rigid body simulation on GPUs. InGPU gems 3. Addison-Wesley Professional, ch. 29.
+Harada, T. 2009. Parallelizing the physics pipeline: Physics simulations on the GPU. Presented at the Game Developers Conference.
+Takahiro Harada, A parallel constraint solver for a rigid body simulation, SIGGRAPH Asia 2011 Sketches, December 12-15, 2011, Hong Kong, China[doi>10.1145/2077378.2077406]
+Hans-Christian Hege , Hinnerk Stüben, Vectorization and parallelization of irregular problems via graph coloring, Proceedings of the 5th international conference on Supercomputing, p.47-56, June 17-21, 1991, Cologne, West Germany[doi>10.1145/109025.109042]
+Shu-Wei Hsu , John Keyser, Piles of objects, ACM SIGGRAPH Asia 2010 papers, December 15-18, 2010, Seoul, South Korea[doi>10.1145/1866158.1866181]
+Danny M. Kaufman , Timothy Edmunds , Dinesh K. Pai, Fast frictional dynamics for rigid bodies, ACM SIGGRAPH 2005 Papers, July 31-August 04, 2005, Los Angeles, California[doi>10.1145/1186822.1073295]
+Danny M. Kaufman , Shinjiro Sueda , Doug L. James , Dinesh K. Pai, Staggered projections for frictional contact in multibody systems, ACM SIGGRAPH Asia 2008 papers, December 10-13, 2008, Singapore[doi>10.1145/1457515.1409117]
+Claude Lacoursière, A parallel block iterative method for interactive contacting rigid multibody simulations on multicore PCs, Proceedings of the 8th international conference on Applied parallel computing: state of the art in scientific computing, June 18-21, 2006, Umeå, Sweden
+Lengyel, E. 2011. A jitter-tolerant rigid body sleep condition. InGame Engine Gems 2. A K Peters, ch. 23.
+José Luis Morales , Jorge Nocedal , Mikhail Smelyanskiy, An algorithm for the fast solution of symmetric linear complementarity problems, Numerische Mathematik, v.111 n.2, p.251-266, November 2008[doi>10.1007/s00211-008-0183-5]
+Matthias Müller , Nuttapong Chentanez, Solid simulation with oriented particles, ACM SIGGRAPH 2011 papers, August 07-11, 2011, Vancouver, British Columbia, Canada[doi>10.1145/1964921.1964987]
+Murty, K. G. 1988. Iterative methods for LCPs. InLinear Complementarity, Linear and Non-linear Programming. Helderman Verlag, ch. 9.
+NVIDIA. 2011.NVIDIA PhysX 3.2 user guide.
+Eric G. Parker , James F. O'Brien, Real-time deformation and fracture in a game environment, Proceedings of the 2009 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, August 01-02, 2009, New Orleans, Louisiana[doi>10.1145/1599470.1599492]
+Renouf, M., and Alart, P. 2005. Conjugate gradient type algorithms for frictional multi-contact problems: applications to granular materials.Computer Methods in Applied Mechanics and Engineering 194, 18--20, 2019--2041.
+Morten Silcowitz-Hansen , Sarah Niebe , Kenny Erleben, A nonsmooth nonlinear conjugate gradient method for interactive contact force problems, The Visual Computer: International Journal of Computer Graphics, v.26 n.6-8, p.893-901, June 2010[doi>10.1007/s00371-010-0502-6]
+Stewart, D. E., and Trinkle, J. C. 1996. An implicit time-stepping scheme for rigid body dynamics with inelastic collisions and coulomb friction.International Journal for Numerical Methods in Engineering 39, 15, 2673--2691.
+Tasora, A., Negrut, D., and Anitescu, M. 2008. A GPU-based implementation of a cone convex complementarity approach for simulating rigid body dynamics with frictional contact.ASME Conference Proceedings 2008, 48722, 107--118.
+Tonge, R., Zhang, L., and Sequeira, D. 2004. Method and program solving LCPs for rigid body dynamics. United States Patent 7079145.
+Tonge, R., Wyatt, B., and Nicholson, B. 2010. PhysX GPU rigid bodies in Batman: Arkham Asylum. InGame Programming Gems 8, A. Lake, Ed. Cengage Learning, ch. 7.2, 590--601.
+Vizing, V. G. 1964. On an estimate of the chromatic class of a p-graph.Diskret. Analiz. 3, 25--30.

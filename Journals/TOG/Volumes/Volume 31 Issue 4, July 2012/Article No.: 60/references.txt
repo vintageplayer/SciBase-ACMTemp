@@ -1,0 +1,53 @@
+Timo Aila , Samuli Laine, Understanding the efficiency of ray traversal on GPUs, Proceedings of the Conference on High Performance Graphics 2009, August 01-03, 2009, New Orleans, Louisiana[doi>10.1145/1572769.1572792]
+Arbree, A., Walter, B., and Bala, K. 2008. Single-pass scalable subsurface rendering with lightcuts.Computer Graphics Forum 27, 2.
+Ilya Baran , Jiawen Chen , Jonathan Ragan-Kelley , Frédo Durand , Jaakko Lehtinen, A hierarchical volumetric shadow algorithm for single scattering, ACM Transactions on Graphics (TOG), v.29 n.6, December 2010[doi>10.1145/1882261.1866200]
+Cerezo, E., Perez-Cazorla, F., Pueyo, X., Seron, F., and Sillion, F. 2005. A survey on participating media rendering techniques.The Visual Computer 21.
+Chandrasekar, S. 1960.Radiative Transfer. Dover Publications.
+Dammertz, H., Keller, A., and Lensch, H. P. A. 2010. Progressive point-light-based global illumination.Computer Graphics Forum 29, 8.
+Dong, Z., Grosch, T., Ritschel, T., Kautz, J., and Seidel, H.-P. 2009. Real-time indirect illumination with clustered visibility. InProc. Vision, Modeling, and Visualization Workshop.
+Craig Donner , Henrik Wann Jensen, Light diffusion in multi-layered translucent materials, ACM Transactions on Graphics (TOG), v.24 n.3, July 2005[doi>10.1145/1073204.1073308]
+Thomas Engelhardt , Carsten Dachsbacher, Epipolar sampling for shadows and crepuscular rays in participating media with single scattering, Proceedings of the 2010 ACM SIGGRAPH symposium on Interactive 3D Graphics and Games, February 19-21, 2010, Washington, D.C.[doi>10.1145/1730804.1730823]
+Engelhardt, T., Novák, J., and Dachsbacher, C. 2010. Instant multiple scattering for interactive rendering of heterogeneous participating media. Tech. rep., Karlsruhe Institute of Technology, Dec.
+Iliyan Georgiev , Jaroslav Křivánek , Stefan Popov , Philipp Slusallek, Importance Caching for Complex Illumination, Computer Graphics Forum, v.31 n.2pt3, p.701-710, May 2012[doi>10.1111/j.1467-8659.2012.03049.x]
+Gradshteyn, I. S., and Ryzhik, I. M. 1994.Table of Integrals, Series, and Products, Fifth Edition. Academic Press.
+Toshiya Hachisuka , Henrik Wann Jensen, Stochastic progressive photon mapping, ACM Transactions on Graphics (TOG), v.28 n.5, December 2009[doi>10.1145/1618452.1618487]
+Toshiya Hachisuka , Wojciech Jarosz , Richard Peter Weistroffer , Kevin Dale , Greg Humphreys , Matthias Zwicker , Henrik Wann Jensen, Multidimensional adaptive sampling and reconstruction for ray tracing, ACM Transactions on Graphics (TOG), v.27 n.3, August 2008[doi>10.1145/1360612.1360632]
+Toshiya Hachisuka , Shinji Ogaki , Henrik Wann Jensen, Progressive photon mapping, ACM Transactions on Graphics (TOG), v.27 n.5, December 2008[doi>10.1145/1409060.1409083]
+Vlastimil Havran , Jiří Bittner , Robert Herzog , Hans-Peter Seidel, Ray maps for global illumination, Proceedings of the Sixteenth Eurographics conference on Rendering Techniques, June 29-July 01, 2005, Konstanz, Germany[doi>10.2312/EGWR/EGSR05/043-054]
+Miloš Hašan , Fabio Pellacini , Kavita Bala, Matrix row-column sampling for the many-light problem, ACM Transactions on Graphics (TOG), v.26 n.3, July 2007[doi>10.1145/1276377.1276410]
+Miloš Hašan , Jaroslav Křivánek , Bruce Walter , Kavita Bala, Virtual spherical lights for many-light rendering of glossy scenes, ACM Transactions on Graphics (TOG), v.28 n.5, December 2009[doi>10.1145/1618452.1618489]
+Wolfgang Heidrich , Stefan Brabec , Hans-Peter Seidel, Soft Shadow Maps for Linear Lights, Proceedings of the Eurographics Workshop on Rendering Techniques 2000, p.269-280, June 26-28, 2000
+Herzog, R., Havran, V., Kinuwaki, S., Myszkowski, K., and Seidel, H.-P. 2007. Global illumination using photon ray splatting.Computer Graphics Forum (Proc. of Eurographics) 26, 3.
+Jarosz, W., Zwicker, M., and Jensen, H. W. 2008. The beam radiance estimate for volumetric photon mapping.Computer Graphics Forum (Proc. of Eurographics) 27, 2.
+Wojciech Jarosz , Derek Nowrouzezahrai , Iman Sadeghi , Henrik Wann Jensen, A comprehensive theory of volumetric radiance estimation using photon points and beams, ACM Transactions on Graphics (TOG), v.30 n.1, p.1-19, January 2011[doi>10.1145/1899404.1899409]
+Wojciech Jarosz , Derek Nowrouzezahrai , Robert Thomas , Peter-Pike Sloan , Matthias Zwicker, Progressive photon beams, ACM Transactions on Graphics (TOG), v.30 n.6, December 2011[doi>10.1145/2070781.2024215]
+Henrik Wann Jensen , Per H. Christensen, Efficient simulation of light transport in scences with participating media using photon maps, Proceedings of the 25th annual conference on Computer graphics and interactive techniques, p.311-320, July 1998[doi>10.1145/280814.280925]
+Henrik Wann Jensen , Stephen R. Marschner , Marc Levoy , Pat Hanrahan, A practical model for subsurface light transport, Proceedings of the 28th annual conference on Computer graphics and interactive techniques, p.511-518, August 2001[doi>10.1145/383259.383319]
+Henrik Wann Jensen, Global illumination using photon maps, Proceedings of the eurographics workshop on Rendering techniques '96, p.21-30, December 1996, Porto, Portugal
+Henrik Wann Jensen, Realistic image synthesis using photon mapping, A. K. Peters, Ltd., Natick, MA, 2001
+James T. Kajiya, The rendering equation, Proceedings of the 13th annual conference on Computer graphics and interactive techniques, p.143-150, August 1986[doi>10.1145/15922.15902]
+Alexander Keller, Instant radiosity, Proceedings of the 24th annual conference on Computer graphics and interactive techniques, p.49-56, August 1997[doi>10.1145/258734.258769]
+Claude Knaus , Matthias Zwicker, Progressive photon mapping: A probabilistic approach, ACM Transactions on Graphics (TOG), v.30 n.3, p.1-13, May 2011[doi>10.1145/1966394.1966404]
+Kollig, T., and Keller, A. 2006. Illumination in the presence of weak singularities. InMonte Carlo and Quasi-Monte Carlo Methods 2004.
+Christopher Kulla , Marcos Fajardo, Importance sampling of area lights in participating media, ACM SIGGRAPH 2011 Talks, August 07-11, 2011, Vancouver, British Columbia, Canada[doi>10.1145/2037826.2037899]
+Jaroslav Křivánek , James A. Ferwerda , Kavita Bala, Effects of global illumination approximations on material appearance, ACM Transactions on Graphics (TOG), v.29 n.4, July 2010[doi>10.1145/1778765.1778849]
+Lafortune, E. P., and Willems, Y. D. 1993. Bi-directional path tracing. InCompugraphics '93.
+Eric P. Lafortune , Yves D. Willems, Rendering participating media with bidirectional path tracing, Proceedings of the eurographics workshop on Rendering techniques '96, p.91-100, December 1996, Porto, Portugal
+Samuli Laine , Hannu Saransaari , Janne Kontkanen , Jaakko Lehtinen , Timo Aila, Incremental instant radiosity for real-time indirect illumination, Proceedings of the 18th Eurographics conference on Rendering Techniques, June 25-27, 2007, Grenoble, France[doi>10.2312/EGWR/EGSR07/277-286]
+Lastra, M., Ureña, C., Revelles, J., and Montes, R. 2002. A particle-path based method for monte carlo density estimation. InProc. of Eurographics Workshop on Rendering.
+Jonathan T. Moon , Stephen R. Marschner, Simulating multiple scattering in hair using a photon mapping approach, ACM SIGGRAPH 2006 Papers, July 30-August 03, 2006, Boston, Massachusetts[doi>10.1145/1179352.1141995]
+Jan Novák , Thomas Engelhardt , Carsten Dachsbacher, Screen-space bias compensation for interactive high-quality global illumination with virtual point lights, Symposium on Interactive 3D Graphics and Games, February 18-20, 2011, San Francisco, California[doi>10.1145/1944745.1944765]
+Jiawei Ou , Fabio Pellacini, LightSlice: matrix slice sampling for the many-lights problem, ACM Transactions on Graphics (TOG), v.30 n.6, December 2011[doi>10.1145/2070781.2024213]
+Pegoraro, V., and Parker, S. G. 2009. An analytical solution to single scattering in homogeneous participating media.Computer Graphics Forum (Proc. of Eurographics) 28, 2.
+Vincent Pegoraro , Mathias Schott , Steven G. Parker, An analytical approach to single scattering for anisotropic media and light distributions, Proceedings of Graphics Interface 2009, May 25-27, 2009, Kelowna, British Columbia, Canada
+Vincent Pegoraro , Mathias Schott , Steven G. Parker, A closed-form solution to single scattering for general phase functions and light distributions, Proceedings of the 21st Eurographics conference on Rendering, June 28-30, 2010, Saarbrücken, Germany[doi>10.1111/j.1467-8659.2010.01732.x]
+Raab, M., Seibert, D., and Keller, A. 2008. Unbiased global illumination with participating media. InMonte Carlo and Quasi-Monte Carlo Methods 2006. Springer.
+Reichert, M. C. 1992.A Two-pass Radiosity Method Driven by Lights and Viewer Position. Master's thesis, Cornell University.
+T. Ritschel , T. Grosch , M. H. Kim , H.-P. Seidel , C. Dachsbacher , J. Kautz, Imperfect shadow maps for efficient computation of indirect illumination, ACM Transactions on Graphics (TOG), v.27 n.5, December 2008[doi>10.1145/1409060.1409082]
+Bo Sun , Ravi Ramamoorthi , Srinivasa G. Narasimhan , Shree K. Nayar, A practical analytic single scattering model for real time rendering, ACM Transactions on Graphics (TOG), v.24 n.3, July 2005[doi>10.1145/1073204.1073309]
+Xin Sun , Kun Zhou , Stephen Lin , Baining Guo, Line space gathering for single scattering in large scenes, ACM Transactions on Graphics (TOG), v.29 n.4, July 2010[doi>10.1145/1778765.1778791]
+Veach, E., and Guibas, L. 1994. Bidirectional estimators for light transport. InProc. of Eurographics Rendering Workshop.
+Eric Veach , Leonidas J. Guibas, Robust monte carlo methods for light transport simulation, Stanford University, Stanford, CA, 1998
+Ingo Wald , Thomas Kollig , Carsten Benthin , Alexander Keller , Philipp Slusallek, Interactive global illumination using fast ray tracing, Proceedings of the 13th Eurographics workshop on Rendering, June 26-28, 2002, Pisa, Italy
+Bruce Walter , Sebastian Fernandez , Adam Arbree , Kavita Bala , Michael Donikian , Donald P. Greenberg, Lightcuts: a scalable approach to illumination, ACM Transactions on Graphics (TOG), v.24 n.3, July 2005[doi>10.1145/1073204.1073318]
+Bruce Walter , Adam Arbree , Kavita Bala , Donald P. Greenberg, Multidimensional lightcuts, ACM Transactions on Graphics (TOG), v.25 n.3, July 2006[doi>10.1145/1141911.1141997]

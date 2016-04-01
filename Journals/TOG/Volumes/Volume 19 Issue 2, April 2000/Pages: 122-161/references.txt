@@ -1,0 +1,44 @@
+APPEL, A. 1968. Some techniques for shading machine renderings of solids. In Proceedings of the on AFIPS Spring Joint Computer Conference, AFIPS Press, Arlington, VA, 37-45.
+ARVO, J. R. 1986. Backward ray tracing. In Conference Proceedings on SIGGRAPH '86 (Dallas, TX, Aug. 18-22, 1986), D. C. Evans and R. J. Athay, Eds. ACM Press, New York, NY.
+Mark R. Bolin , Gary W. Meyer, A perceptually based adaptive sampling algorithm, Proceedings of the 25th annual conference on Computer graphics and interactive techniques, p.299-309, July 1998[doi>10.1145/280814.280924]
+Carlos F. Borges, Trichromatic approximation for computer graphics illumination models, ACM SIGGRAPH Computer Graphics, v.25 n.4, p.101-104, July 1991[doi>10.1145/127719.122729]
+Scott Daly, The visible differences predictor: an algorithm for the assessment of image fidelity, Digital images and human vision, MIT Press, Cambridge, MA, 1993
+Paul Joseph Diefenbach, Pipeline rendering: interaction and realism through hardware-based multi-pass rendering, University of Pennsylvania, Philadelphia, PA, 1996
+George Drettakis , François X. Sillion, Interactive update of global illumination using a line-space hierarchy, Proceedings of the 24th annual conference on Computer graphics and interactive techniques, p.57-64, August 1997[doi>10.1145/258734.258772]
+GADDIPATTI, A., MACHIRAJU, R., AND YAGEL, R. 1997. Steering image generation with wavelet based perceptual metric. In Proceedings of the 1997 Eurographics Forum on Computer Graphics, 241-251.
+GIBSON, S. AND HUBBOLD, R.J. 1997. Perceptually-driven radiosity. Comput. Graph. Forum 16, 2, 129-141.
+Donald P. Greenberg , Kenneth E. Torrance , Peter Shirley , James Arvo , Eric Lafortune , James A. Ferwerda , Bruce Walter , Ben Trumbore , Sumanta Pattanaik , Sing-Choong Foo, A framework for realistic image synthesis, Proceedings of the 24th annual conference on Computer graphics and interactive techniques, p.477-494, August 1997[doi>10.1145/258734.258914]
+Paul S. Heckbert, Adaptive radiosity textures for bidirectional ray tracing, ACM SIGGRAPH Computer Graphics, v.24 n.4, p.145-154, Aug. 1990[doi>10.1145/97880.97895]
+David Hedley , Adam D. Worrall , Derek J. Paddon, Selective Culling of Discontinuity Lines, Proceedings of the Eurographics Workshop on Rendering Techniques '97, p.69-80, June 16-18, 1997
+Henrik Wann Jensen , Per H. Christensen, Efficient simulation of light transport in scences with participating media using photon maps, Proceedings of the 25th annual conference on Computer graphics and interactive techniques, p.311-320, July 1998[doi>10.1145/280814.280925]
+Henrik Wann Jensen, Global illumination using photon maps, Proceedings of the eurographics workshop on Rendering techniques '96, p.21-30, December 1996, Porto, Portugal
+James T. Kajiya, The rendering equation, ACM SIGGRAPH Computer Graphics, v.20 n.4, p.143-150, Aug. 1986[doi>10.1145/15886.15902]
+Alexander Keller, Instant radiosity, Proceedings of the 24th annual conference on Computer graphics and interactive techniques, p.49-56, August 1997[doi>10.1145/258734.258769]
+LI, B., MEYER, G., AND KLASSEN, R. 1998. A comparison of two image quality models. In Human Vision and Electronic Imaging III. SPIE Vol. 3299 98-109.
+Dani Lischinski , Brian Smits , Donald P. Greenberg, Bounds and error estimates for radiosity, Proceedings of the 21st annual conference on Computer graphics and interactive techniques, p.67-74, July 1994[doi>10.1145/192161.192176]
+Dani Lischinski , Filippo Tampieri , Donald P. Greenberg, Combining hierarchical radiosity and discontinuity meshing, Proceedings of the 20th annual conference on Computer graphics and interactive techniques, p.199-208, August 02-06, 1993, Anaheim, CA[doi>10.1145/166117.166143]
+LUBIN, J.1995. A visual discrimination model for imaging system design and development. In Vision Models for Target Detection and Recognition World Scientific Publishing Co., Inc., River Edge, NJ, 245-283.
+MARTENS, W. AND MYSZKOWSKI, K. 1998. Psychophysical validation of the Visible Differences Predictor for global illumination applications. In Proceedings of the Conference on Visualization '98. Late Breaking Hot Topics (Research Triangle Park, NC, Oct. 18-23, 1998), T.-M. Rhyne and R. Moorhead, Eds. IEEE Computer Society Press, Los Alamitos, CA.
+Ignacio Martin , Xavier Pueyo , Dani Tost, An image-space refinement criterion for linear hierarchical radiosity, Proceedings of the conference on Graphics interface '97, p.26-36, May 1997, Kelowna, British Columbia, Canada
+Karol Myszkowski, Lighting Reconstruction Using Fast and Adaptive Density Estimation Techniques, Proceedings of the Eurographics Workshop on Rendering Techniques '97, p.251-262, June 16-18, 1997
+MYSZKOWSKI, K. 1998. the Web page with documentation of the VDP validation experiments, http://www.u-aizu.ac.jp/labs/csel/vdp/
+MYSZKOWSKI, K. 1998. The Visible Differences Predictor: Applications to global illumination problems. In Proceedings of the 1998 Eurographics Workshop on Rendering Techniques, G. Drettakis and N. Max, Eds. 223-236.
+Karol Myszkowski , Andrei Khodulev , Edward A. Kopylov, Validating global illumination algorithms and software, ACM SIGGRAPH 97 Visual Proceedings: The art and interdisciplinary programs of SIGGRAPH '97, p.156, August 03-08, 1997, Los Angeles, California, USA[doi>10.1145/259081.259243]
+Karol Myszkowski , Tosiyasu L. Kunii, An Efficient Cluster-Based Hierarchical Progressive Radiosity Algorithm, Proceedings of the Third International Computer Science Conference on Image Analysis Applications and Computer Graphics, p.292-303, December 11-13, 1995
+MYSZKOWSKI, K., WOJDALA, A., AND WICYNSKI, K. 1994. Non-uniform adaptive meshing for global illumination. Mach. Graph. Vision 3, 4, 601-610.
+PRIKRYL, g. AND PURGATHOFER, W. 1998. State of the art in perceptually driven radiosity. In State of the Art Reports. Eurographics '98 Eurographic Seminars, Tutorials and Perspectives in Computer Graphics.
+Mahesh Ramasubramanian , Sumanta N. Pattanaik , Donald P. Greenberg, A perceptually based physical error metric for realistic image synthesis, Proceedings of the 26th annual conference on Computer graphics and interactive techniques, p.73-82, July 1999[doi>10.1145/311535.311543]
+RUSHMEIER, H., WARD, G., PIATKO, C., SANDERS, P., AND RUST, B. 1995. Comparing real and synthetic images: Some ideas about metrics. In Proceedings of the 6th Annual Eurographics Workshop on Rendering (June 1995), 82-91.
+P. Shirley, A ray tracing method for illumination calculation in diffuse-specular scenes, Proceedings on Graphics interface '90, p.205-212, June 1990, Halifax, Nova Scotia
+François X. Sillion, A Unified Hierarchical Algorithm for Global Illumination with Scattering Volumes and Object Clusters, IEEE Transactions on Visualization and Computer Graphics, v.1 n.3, p.240-254, September 1995[doi>10.1109/2945.466719]
+Francois X. Sillion , Claude Puech, Radiosity and Global Illumination, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1994
+SILVERMAN, B. 1985. Density Estimation for Statistics and Data Analysis. Chapman and Hall, Ltd., London, UK.
+Philipp Slusallek , Marc Stamminger , Wolfgang Heidrich , Jan-Christian Popp , Hans-Peter Seidel, Composite Lighting Simulations with Lighting Networks, IEEE Computer Graphics and Applications, v.18 n.2, p.22-31, March 1998[doi>10.1109/38.656787]
+Brian Smits , James Arvo , Donald Greenberg, A clustering algorithm for radiosity in complex environments, Proceedings of the 21st annual conference on Computer graphics and interactive techniques, p.435-442, July 1994[doi>10.1145/192161.192277]
+STAMMINGER, M., SCHIRMACHER, H., SLUSALLEK, P., AND SEIDEL, H.-P. 1998. Getting rid of links in hierarchical radiosity. Comput. Graph. Forum 17, 3, 17-3.
+Robert F. Tobler , Alexander Wilkie , Martin Feda , Werner Purgathofer, A Hierarchcal Subdivision Algorithm for Stochastic Radiosity, Proceedings of the Eurographics Workshop on Rendering Techniques '97, p.193-203, June 16-18, 1997
+Jack Tumblin , Holly Rushmeier, Tone Reproduction for Realistic Images, IEEE Computer Graphics and Applications, v.13 n.6, p.42-48, November 1993[doi>10.1109/38.252554]
+Eric Veach , Leonidas J. Guibas, Robust monte carlo methods for light transport simulation, Stanford University, Stanford, CA, 1998
+VOLEVICH, V., MYSZKOWSKI, K., KHODULEV, A., AND KOPYLOV, E. 1999. Perceptually-informed progressive global illumination solution. Tech. Rep. TR-99-1-002. Aizu University.
+Bruce Jonathan Walter , Donald P. Greenberg, Density estimation techniques for global illumination, Cornell University, Ithaca, NY, 1998
+Bruce Walter , Philip M. Hubbard , Peter Shirley , Donald P. Greenberg, Global illumination using local linear density estimation, ACM Transactions on Graphics (TOG), v.16 n.3, p.217-259, July 1997[doi>10.1145/256157.256158]

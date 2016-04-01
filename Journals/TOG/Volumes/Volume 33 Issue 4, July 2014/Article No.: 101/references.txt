@@ -1,0 +1,52 @@
+James Arvo , David Kirk, Particle transport and image synthesis, Proceedings of the 17th annual conference on Computer graphics and interactive techniques, p.63-66, September 1990, Dallas, TX, USA[doi>10.1145/97879.97886]
+Thomas Bashford-Rogers , Kurt Debattista , Alan Chalmers, A Significance Cache for Accelerating Global Illumination, Computer Graphics Forum, v.31 n.6, p.1837-1851, September 2012[doi>10.1111/j.1467-8659.2012.02099.x]
+Bashford-Rogers, T., Debattista, K., and Chalmers, A. 2013. Importance driven environment map sampling.IEEE Transactions on Visualization and Computer Graphics 19.
+Bingham, C. 1974. An antipodally symmetric distribution on the sphere.The Annals of Statistics 2, 6, pp. 1201--1225.
+Christopher M. Bishop, Pattern Recognition and Machine Learning (Information Science and Statistics), Springer-Verlag New York, Inc., Secaucus, NJ, 2006
+Booth, T. 1985. A sample problem for variance reduction in MCNP. Tech. rep., Los Alamos National Laboratory, Los Alamos, New Mexico 87545.
+Booth, T. E. 2012. Common misconceptions in Monte Carlo particle transport.Applied Radiation and Isotopes 70, 7.
+Budge, B. C., Anderson, J. C., and Joy, K. I. 2008. Caustic forecasting: Unbiased estimation of caustic lighting for global illumination.Computer Graphics Forum 27, 7, 1963--70.
+Cappé, O. 2011.Online Expectation Maximisation. John Wiley & Sons, Ltd, 31--53.
+David Cline , Justin Talbot , Parris Egbert, Energy redistribution path tracing, ACM Transactions on Graphics (TOG), v.24 n.3, July 2005[doi>10.1145/1073204.1073330]
+David Cline , Daniel Adams , Parris Egbert, Table-driven adaptive importance sampling, Proceedings of the Nineteenth Eurographics conference on Rendering, June 23-25, 2008, Sarajevo, Bosnia and Herzegovina[doi>10.1111/j.1467-8659.2008.01249.x]
+Dempster, A. P., Laird, N. M., and Rubin, D. B. 1977. Maximum likelihood from incomplete data via the EM algorithm.Journal of the Royal Statistical Society, Series B 39, 1, 1--38.
+Dutré, P., and Willems, Y. 1994. Importance-driven Monte Carlo light tracing. InEurographics Workshop on Rendering.
+Dutré, P., and Willems, Y. 1995. Potential-driven Monte Carlo particle tracing for diffuse environments with adaptive probability density functions. InEG Workshop on Rendering.
+Philip Dutre , Kavita Bala , Philippe Bekaert , Peter Shirley, Advanced Global Illumination, AK Peters Ltd, 2006
+Fisher, R. 1953. Dispersion on a sphere.Proc. Royal Society of London. Series A. Math. Phys. 217, 1130, 295--305.
+Gauvain, J., and Lee, C.-H. 1994. Maximum a posteriori estimation for multivariate Gaussian mixture observations of Markov chains.IEEE Trans Audio Speech Lang Processing 2, 2, 291--298.
+Iliyan Georgiev , Jaroslav Křivánek , Stefan Popov , Philipp Slusallek, Importance Caching for Complex Illumination, Computer Graphics Forum, v.31 n.2pt3, p.701-710, May 2012[doi>10.1111/j.1467-8659.2012.03049.x]
+Iliyan Georgiev , Jaroslav Křivánek , Tomáš Davidovič , Philipp Slusallek, Light transport simulation with vertex connection and merging, ACM Transactions on Graphics (TOG), v.31 n.6, November 2012[doi>10.1145/2366145.2366211]
+Georgiev, I. 2012. Implementing vertex connection and merging. Tech. rep., Saarland University.
+Toshiya Hachisuka , Shinji Ogaki , Henrik Wann Jensen, Progressive photon mapping, ACM Transactions on Graphics (TOG), v.27 n.5, December 2008[doi>10.1145/1409060.1409083]
+Toshiya Hachisuka , Jacopo Pantaleoni , Henrik Wann Jensen, A path space extension for robust light transport simulation, ACM Transactions on Graphics (TOG), v.31 n.6, November 2012[doi>10.1145/2366145.2366210]
+Haghighat, A., and Wagner, J. C. 2003. Monte Carlo variance reduction with deterministic importance functions.Progress in Nuclear Energy 42, 1, 25--53.
+Heinrich Hey , Werner Purgathofer, Importance sampling with hemispherical particle footprints, Proceedings of the 18th Spring Conference on Computer Graphics, April 24-27, 2002, Budmerice, Slovakia[doi>10.1145/584458.584476]
+Wenzel Jakob , Steve Marschner, Manifold exploration: a Markov Chain Monte Carlo technique for rendering scenes with difficult specular transport, ACM Transactions on Graphics (TOG), v.31 n.4, p.1-13, July 2012[doi>10.1145/2185520.2185554]
+Wenzel Jakob , Christian Regg , Wojciech Jarosz, Progressive expectation-maximization for hierarchical volumetric photon mapping, Proceedings of the Twenty-second Eurographics conference on Rendering, June 27-29, 2011, Prague, Czech Republic[doi>10.1111/j.1467-8659.2011.01988.x]
+Jakob, W., 2010. Mitsuba renderer. http://mitsuba-renderer.org.
+Jensen, H. W. 1995. Importance driven path tracing using the photon map. InEurographics Workshop Rendering, 326--335.
+Karlík, O., 2009. Corona Renderer. http://corona-renderer.com.
+Kelemen, C., Szirmay-Kalos, L., Antal, G., and Csonka, F. 2002. A simple and robust mutation strategy for the Metropolis light transport algorithm.Comp. Graph. Forum (Proc. of Eurographics) 21, 3, 531--540.
+Kent, J. T. 1982. The Fisher-Bingham distribution on the sphere.Journal of the Royal Statistical Society. Series B 44, 1, 71--80.
+Jaroslav Krivanek , Pascal Gautron , Sumanta Pattanaik , Kadi Bouatouch, Radiance Caching for Efficient Global Illumination Computation, IEEE Transactions on Visualization and Computer Graphics, v.11 n.5, p.550-561, September 2005[doi>10.1109/TVCG.2005.83]
+Jaroslav Křivánek , Kadi Bouatouch , Sumanta Pattanaik , Jiří Žára, Making radiance and irradiance caching practical: adaptive caching and neighbor clamping, Proceedings of the 17th Eurographics conference on Rendering Techniques, June 26-28, 2006, Nicosia, Cyprus[doi>10.2312/EGWR/EGSR06/127-138]
+Lafortune, E. P., and Willems, Y. D. 1995. A 5D tree to reduce the variance of Monte Carlo ray tracing. InEurographics Workshop on Rendering. 11--20.
+Jaakko Lehtinen , Tero Karras , Samuli Laine , Miika Aittala , Frédo Durand , Timo Aila, Gradient-domain metropolis light transport, ACM Transactions on Graphics (TOG), v.32 n.4, July 2013[doi>10.1145/2461912.2461943]
+Lepage, G. P. 1978. A new algorithm for adaptive multidimensional integration.Journal of Comp. Physics 27, 192--203.
+Percy Liang , Dan Klein, Online EM for unsupervised models, Proceedings of Human Language Technologies: The 2009 Annual Conference of the North American Chapter of the Association for Computational Linguistics, May 31-June 05, 2009, Boulder, Colorado
+Pegoraro, V., Brownlee, C., Shirley, P. S., and Parker, S. G. 2008. Towards interactive global illumination effects via sequential Monte Carlo adaptation. InIEEE Symposium on Interactive Ray Tracing, 107--114.
+Vincent Pegoraro , Ingo Wald , Steven G. Parker, Sequential monte carlo integration in low-anisotropy participating media, Proceedings of the Nineteenth Eurographics conference on Rendering, June 23-25, 2008, Sarajevo, Bosnia and Herzegovina[doi>10.1111/j.1467-8659.2008.01247.x]
+Peter, I., and Pietrek, G. 1998. Importance driven construction of photon maps. InRendering Techniques, 269--80.
+Matt Pharr , Greg Humphreys, Physically Based Rendering, Second Edition: From Theory To Implementation, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2010
+Masa-Aki Sato , Shin Ishii, On-line EM Algorithm for the Normalized Gaussian Network, Neural Computation, v.12 n.2, p.407-432, February 2000[doi>10.1162/089976600300015853]
+Peter Shirley , Kenneth Chiu, A low distortion map between disk and square, Journal of Graphics Tools, v.2 n.3, p.45-52, 1997[doi>10.1080/10867651.1997.10487479]
+Silverman, B. W. 1986.Density Estimation for Statistics and Data Analysis. Chapman & Hall, London.
+Steinhurst, J., and Lastra, A. 2006. Global importance sampling of glossy surfaces using the photon map. InIEEE Symposium on Interactive Ray Tracing, 133--138.
+Yu-Ting Tsai , Chin-Chen Chang , Qing-Zhen Jiang , Shr-Ching Weng, Importance sampling of products from illumination and BRDF using spherical radial basis functions, The Visual Computer: International Journal of Computer Graphics, v.24 n.7, p.817-826, July 2008[doi>10.1007/s00371-008-0263-7]
+Eric Veach , Leonidas J. Guibas, Metropolis light transport, Proceedings of the 24th annual conference on Computer graphics and interactive techniques, p.65-76, August 1997[doi>10.1145/258734.258775]
+Eric Veach , Leonidas J. Guibas, Robust monte carlo methods for light transport simulation, Stanford University, Stanford, CA, 1998
+Jakob J. Verbeek , Jan R. Nunnink , Nikos Vlassis, Accelerated EM-based clustering of large data sets, Data Mining and Knowledge Discovery, v.13 n.3, p.291-307, November  2006[doi>10.1007/s10618-005-0033-3]
+Gregory J. Ward , Francis M. Rubinstein , Robert D. Clear, A ray tracing solution for diffuse interreflection, Proceedings of the 15th annual conference on Computer graphics and interactive techniques, p.85-92, June 1988[doi>10.1145/54852.378490]
+Gregory J. Ward, Measuring and modeling anisotropic reflection, Proceedings of the 19th annual conference on Computer graphics and interactive techniques, p.265-272, July 1992[doi>10.1145/133994.134078]
+Kun Xu , Wei-Lun Sun , Zhao Dong , Dan-Yong Zhao , Run-Dong Wu , Shi-Min Hu, Anisotropic spherical Gaussians, ACM Transactions on Graphics (TOG), v.32 n.6, November 2013[doi>10.1145/2508363.2508386]

@@ -1,0 +1,48 @@
+Pankaj K. Agarwal , Leonidas J. Guibas , Sariel Har-Peled , Alexander Rabinovitch , Micha Sharir, Penetration depth of two convex polytopes in 3D, Nordic Journal of Computing, v.7 n.3, p.227-240, Fall 2000
+Jérémie Allard , François Faure , Hadrien Courtecuisse , Florent Falipou , Christian Duriez , Paul G. Kry, Volume contact constraints at arbitrary resolution, ACM Transactions on Graphics (TOG), v.29 n.4, July 2010[doi>10.1145/1778765.1778819]
+J. Baumgarte. 1972. Stabilization of constraints and integrals of motion in dynamical systems. Comput. Methods Appl. Mech. Engin. 1, 1, 1--16.
+G. Bergen. 2001. Proximity queries and penetration depth computation on 3d game objects. In Proceedings of the Game Developers Conference.
+S. Cameron. 1997. Enhancing gjk: Computing minimum and penetration distance between convex polyhedra. In Proceedings of the International Conference on Robotics and Automation. 3112--3117.
+S. A. Cameron and R. K. Culley. 1986. Determining the minimum translational distance between two convex polyhedra. In Proceedings of the IEEE International Conference on Robotics and Automation. 591--596.
+E. Catto. 2005. Iterative dynamics with temporal coherence. In Proceedings of the Game Developers Conference.
+D. Dobkin, J. Hershberger, D. Kirkpatrick, and S. Suri. 1993. Computing the intersection-depth of polyhedra. Algorithmica 9, 518--533.
+S. Fisher and M. C. Lin. 2001. Fast penetration depth estimation for elastic bodies using deformed distance fields. In Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems.
+Corey Goldfeder , Matei Ciocarlie , Hao Dang , Peter K. Allen, The Columbia grasp database, Proceedings of the 2009 IEEE international conference on Robotics and Automation, p.3343-3349, May 12-17, 2009, Kobe, Japan
+Peter Hachenberger, Exact Minkowksi Sums of Polyhedra and Exact and Efficient Decomposition of Polyhedra into Convex Pieces, Algorithmica, v.55 n.2, p.329-345, June 2009[doi>10.1007/s00453-008-9219-6]
+G. D. Hart, B. M. Riviere, and G. D. Hart. 2002. A constraint-stabilized time-stepping approach for rigid multibody dynamics with joints, contact and friction. In Proceedings of the International Journal for Numerical Methods in Engineering. 2335--2371.
+Michael Hofer , Helmut Pottmann, Energy-minimizing splines in manifolds, ACM SIGGRAPH 2004 Papers, August 08-12, 2004, Los Angeles, California[doi>10.1145/1186562.1015716]
+K. Hoff, A. Zaferakis, M. Lin, and D. Manocha. 2002. Fast 3d geometric proximity queries between rigid and deformable models using graphics hardware acceleration. Tech. rep. TR02-004. Department of Computer Science, University of North Carolina.
+Changsoo Je , Min Tang , Youngeun Lee , Minkyoung Lee , Young J. Kim, PolyDepth: Real-time penetration depth computation using iterative contact-space projection, ACM Transactions on Graphics (TOG), v.31 n.1, p.1-14, January 2012[doi>10.1145/2077341.2077346]
+F. Jourdan, P. Alart, and M. Jean. 1998. A gauss-seidel like algorithm to solve frictional contact problems. Comput. Methods Appl. Mech. Engin. 155, 1--2, 31--47.
+K. Kazerounian and J. Rastegar. 1992. Object norms: A class of coordinate and metric independent norms for displacement. In Proceedings of the ASME Design Engineering Technical Conference.
+Young J. Kim , Ming C. Lin , Dinesh Manocha, Incremental Penetration Depth Estimation between Convex Polytopes Using Dual-Space Expansion, IEEE Transactions on Visualization and Computer Graphics, v.10 n.2, p.152-163, March 2004[doi>10.1109/TVCG.2004.1260767]
+Young J. Kim , Miguel A. Otaduy , Ming C. Lin , Dinesh Manocha, Fast penetration depth computation for physically-based animation, Proceedings of the 2002 ACM SIGGRAPH/Eurographics symposium on Computer animation, July 21-22, 2002, San Antonio, Texas[doi>10.1145/545261.545266]
+Young J. Kim , Miguel A. Otaduy , Ming C. Lin , Dinesh Manocha, Six-degree-of-freedom haptic rendering using incremental and localized computations, Presence: Teleoperators and Virtual Environments, v.12 n.3, p.277-295, 1 June 2003[doi>10.1162/105474603765879530]
+J. J. Kuffner and S. M. LaValle. 2000. RRT-Connect: An efficient approach to single-query path planning. In Proceedings of the IEEE International Conference on Robotics and Automation.
+E. Larsen, S. Gottschalk, M. C. Lin, and D. Manocha. 2000. Fast proximity queries with swept sphere volumes. In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA'00). 3719--3726.
+Jyh-Ming Lien, Covering Minkowski sum boundary using points with applications, Computer Aided Geometric Design, v.25 n.8, p.652-666, November, 2008[doi>10.1016/j.cagd.2008.06.006]
+J. Lien. 2009. A simple method for computing minkowski sum boundary in 3d using collision detection. In Algorithmic Foundation of Robotics VIII, G. Chirikjian, H. Choset, M. Morales, and T. Murphey, Eds., Springer Tracts in Advanced Robotics, vol. 57, Springer, 401--415.
+Brian Vincent Mirtich, Impulse-based dynamic simulation of rigid body systems, University of California, Berkeley, 1996
+Matthew Moore , Jane Wilhelms, Collision Detection and Response for Computer Animation, Proceedings of the 15th annual conference on Computer graphics and interactive techniques, p.289-298, June 1988[doi>10.1145/54852.378528]
+Georg Nawratil , Helmut Pottmann , Bahram Ravani, Generalized penetration depth computation based on kinematical geometry, Computer Aided Geometric Design, v.26 n.4, p.425-443, May, 2009[doi>10.1016/j.cagd.2009.01.001]
+C. J. Ong. 1993. Penetration distances and their applications to path planning. Ph.D. dissertation, Michigan University, Ann Arbor.
+C. J. Ong and E.G. Gilbert. 1996. Growth distances: New measures for object separation and penetration. IEEE Trans. Robotics Automation 12, 6, 888--903.
+Michael Ortega , Stephane Redon , Sabine Coquillart, A Six Degree-of-Freedom God-Object Method for Haptic Display of Rigid Bodies with Surface Properties, IEEE Transactions on Visualization and Computer Graphics, v.13 n.3, p.458-469, May 2007[doi>10.1109/TVCG.2007.1028]
+M. A. Otaduy, R. Tamstorf, D. Steinemann, and M. Gross. 2009. Implicit contact handling for deformable objects. Comput. Graph. Forum 28, 2.
+J. Pan, L. Zhang, and D. Manocha. 2010. Retraction-based rrt planner for articulated models. In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA'10).
+S. Redon, A. Kheddar, and S. Coquillart. 2002. Gauss' least constraints principle and rigid body simulations. In Proceedings of the IEEE International Conference on Robotics and Automation. 11--15.
+S. Redon and M. Lin. 2005. Practical local planning in the contact space. In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA'05).
+S. Redon and M. C. Lin. 2006. A fast method for local penetration depth computation. J. Graph. Tools 11, 2, 7--50.
+D. C. Ruspini and O. Khatib. 1997. Collision/contact models for the dynamic simulation of complex environments. In Proceedings of the 9<sup>th</sup> International Symposium of Robotics Research.
+H. Schmidl, N. Walker, and M. C. Lin. 2004. CAB: Fast update of obb trees for collision detection between articulated bodies. J. Graph. Tools 9, 1--9.
+Avneesh Sud , Naga Govindaraju , Russell Gayle , Ilknur Kabul , Dinesh Manocha, Fast proximity computation among deformable models using discrete Voronoi diagrams, ACM SIGGRAPH 2006 Papers, July 30-August 03, 2006, Boston, Massachusetts[doi>10.1145/1179352.1142006]
+Min Tang , Young J. Kim , Dinesh Manocha, C2A: controlled conservative advancement for continuous collision detection of polygonal models, Proceedings of the 2009 IEEE international conference on Robotics and Automation, p.356-361, May 12-17, 2009, Kobe, Japan
+Min Tang , Minkyoung Lee , Young J. Kim, Interactive Hausdorff distance computation for general polygonal models, ACM Transactions on Graphics (TOG), v.28 n.3, August 2009[doi>10.1145/1531326.1531380]
+Bin Wang , François Faure , Dinesh K. Pai, Adaptive image-based intersection volume, ACM Transactions on Graphics (TOG), v.31 n.4, p.1-9, July 2012[doi>10.1145/2185520.2185593]
+R. Weller and G. Zachmann. 2009. Inner sphere trees for proximity and penetration queries. In Proceedings of the Robotics: Science and Systems Conference.
+L. Zhang, Y. J. Kim, and D. Manocha. 2007a. A fast and practical algorithm for generalized penetration depth computation. In Proceedings of Robotics: Science and Systems Conference.
+Liangjun Zhang , Young J. Kim , Dinesh Manocha, C-DIST: efficient distance computation for rigid and articulated models in configuration space, Proceedings of the 2007 ACM symposium on Solid and physical modeling, June 04-06, 2007, Beijing, China[doi>10.1145/1236246.1236270]
+L. Zhang, Y. J. Kim, and D. Manocha. 2008. Efficient cell labelling and path non-existence computation using c-obstacle query. Int. J. Robotics Res. 27, 11--12, 1246--1257.
+Liangjun Zhang , Young J. Kim , Gokul Varadhan , Dinesh Manocha, Generalized penetration depth computation, Computer-Aided Design, v.39 n.8, p.625-638, August, 2007[doi>10.1016/j.cad.2007.05.012]
+L. Zhang and D. Manocha. 2008. An efficient retraction-based rrt planner. In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA'08). 3743--3750.
+Xinyu Zhang , Stephane Redon , Minkyoung Lee , Young J. Kim, Continuous collision detection for articulated models using Taylor models and temporal culling, ACM Transactions on Graphics (TOG), v.26 n.3, July 2007[doi>10.1145/1276377.1276396]

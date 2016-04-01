@@ -1,0 +1,1 @@
+Conventional methods for maintaining telepointer consistency in shared windows do not work in the presence of per-user window customizations. This article presents the notion of a “smart telepointer,” which is a telepointer that works correctly in spite of such customizations. Methods for smart-telepointer implementation are discussed.

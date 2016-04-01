@@ -1,0 +1,39 @@
+Timo Aila , Ville Miettinen , Petri Nordlund, Delay streams for graphics hardware, ACM Transactions on Graphics (TOG), v.22 n.3, July 2003[doi>10.1145/882262.882347]
+Kurt Akeley, Reality Engine graphics, Proceedings of the 20th annual conference on Computer graphics and interactive techniques, p.109-116, August 02-06, 1993, Anaheim, CA[doi>10.1145/166117.166131]
+Ricardo S. Avila , Lisa M. Sobierajski , Arie E. Kaufman, Towards a comprehensive volume visualization system, Proceedings of the 3rd conference on Visualization '92, October 19-23, 1992, Boston, Massachusetts
+Bavoil, L., and Myers, K. 2008. Order independent transparency with dual depth peeling. Tech. rep., NVIDIA.
+Louis Bavoil , Steven P. Callahan , Aaron Lefohn , João L. D. Comba , Cláudio T. Silva, Multi-fragment effects on the GPU using thek-buffer, Proceedings of the 2007 symposium on Interactive 3D graphics and games, April 30-May 02, 2007, Seattle, Washington[doi>10.1145/1230100.1230117]
+Borland, D., Clarke, J., Fielding, J., and Taylor, R. 2006. Volumetric depth peeling for medical image display. InProceedings of SPIE Visualization and Data Analysis, 1--11.
+Brecheisen, R., Platel, B., Vilanova, A., and ter Haar Romenij, B. 2008. Flexible GPU-based multi-volume ray-casting. InProceedings of Vision, Modelling and Visualization, 1--6.
+Stefan Bruckner , Soren Grimm , Armin Kanitsar , M. Eduard Groller, Illustrative Context-Preserving Exploration of Volume Data, IEEE Transactions on Visualization and Computer Graphics, v.12 n.6, p.1559-1569, November 2006[doi>10.1109/TVCG.2006.96]
+Steven P. Callahan , Milan Ikits , Joao L. D. Comba , Claudio T. Silva, Hardware-Assisted Visibility Sorting for Unstructured Volume Rendering, IEEE Transactions on Visualization and Computer Graphics, v.11 n.3, p.285-295, May 2005[doi>10.1109/TVCG.2005.46]
+Loren Carpenter, The A -buffer, an antialiased hidden surface method, ACM SIGGRAPH Computer Graphics, v.18 n.3, p.103-108, July 1984[doi>10.1145/964965.808585]
+Nathan Carr , Radomír Měch , Gavin Miller, Coherent layer peeling for transparent high-depth-complexity scenes, Proceedings of the 23rd ACM SIGGRAPH/EUROGRAPHICS symposium on Graphics hardware, June 20-21, 2008, Sarajevo, Bosnia and Herzegovina
+Markus Hadwiger , Joe M. Kniss , Christof Rezk-salama , Daniel Weiskopf , Klaus Engel, Real-time Volume Graphics, A. K. Peters, Ltd., Natick, MA, 2006
+Everitt, C. 2001. Interactive order-independent transparency. Tech. rep., NVIDIA.
+John Eyles , John Austin , Henry Fuchs , Trey Greer , John Poulton, Pixel-Planes 4: A Summary, Advances in Computer Graphics Hardware II (Eurographics'87 Workshop), p.183-207, January 1988
+Eugene Fiume , Alain Fournier , Larry Rudolph, A parallel scan conversion algorithm with anti-aliasing for a general-purpose ultracomputer, ACM SIGGRAPH Computer Graphics, v.17 n.3, p.141-150, July 1983[doi>10.1145/964967.801143]
+Ned Greene, Hierarchical polygon tiling with coverage masks, Proceedings of the 23rd annual conference on Computer graphics and interactive techniques, p.65-74, August 1996[doi>10.1145/237170.237207]
+Grimm, S., Bruckner, S., Kanitsar, A., and Gröller, M. E. 2004. Flexible direct multi-volume rendering in interactive scenes. InProceedings of Vision, Modeling, and Visualization, 386--379.
+Qiming Hou , Kun Zhou , Baining Guo, BSGP: bulk-synchronous GPU programming, ACM Transactions on Graphics (TOG), v.27 n.3, August 2008[doi>10.1145/1360612.1360618]
+Wenqi Huang , Kun He, A new heuristic algorithm for cuboids packing with no orientation constraints, Computers and Operations Research, v.36 n.2, p.425-432, February, 2009[doi>10.1016/j.cor.2007.09.008]
+Krüger, J., and Westermann, R. 2003. Acceleration techniques for GPU-based volume rendering. InProceedings of IEEE Visualization, 287--292.
+Christian Ledergerber , Gaël Guennebaud , Miriah Meyer , Moritz Bächer , Hanspeter Pfister, Volume MLS Ray Casting, IEEE Transactions on Visualization and Computer Graphics, v.14 n.6, p.1372-1379, November 2008[doi>10.1109/TVCG.2008.186]
+Wei Li , Klaus Mueller , Arie Kaufman, Empty Space Skipping and Occlusion Clipping for Texture-based Volume Rendering, Proceedings of the 14th IEEE Visualization 2003 (VIS'03), p.42, October 22-24, 2003[doi>10.1109/VISUAL.2003.1250388]
+Liu, B., Wei, L.-Y., and Xu, Y.-Q. 2006. Multi-layer depth peeling via fragment sort. Tech. Rep. MSR-TR-2006-81, Microsoft Research Asia.
+William E. Lorensen , Harvey E. Cline, Marching cubes: A high resolution 3D surface construction algorithm, ACM SIGGRAPH Computer Graphics, v.21 n.4, p.163-169, July 1987[doi>10.1145/37402.37422]
+William R. Mark , Kekoa Proudfoot, The F-buffer: a rasterization-order FIFO buffer for multi-pass rendering, Proceedings of the ACM SIGGRAPH/EUROGRAPHICS workshop on Graphics hardware, p.57-64, August 2001, Los Angeles, California, USA[doi>10.1145/383507.383527]
+Marsalek, L., Hauber, A., and Slusallek, P. 2008. High-speed volume ray casting with CUDA. InProceedings of IEEE Symposium on Interactive Ray Tracing, 185.
+Steven Molnar , Michael Cox , David Ellsworth , Henry Fuchs, A Sorting Classification of Parallel Rendering, IEEE Computer Graphics and Applications, v.14 n.4, p.23-32, July 1994[doi>10.1109/38.291528]
+David R. Nadeau, Volume scene graphs, Proceedings of the 2000 IEEE symposium on Volume visualization, p.49-56, October 09-10, 2000, Salt Lake City, Utah, USA[doi>10.1145/353888.353898]
+John Nickolls , Ian Buck , Michael Garland , Kevin Skadron, Scalable Parallel Programming with CUDA, Queue, v.6 n.2, March/April 2008[doi>10.1145/1365490.1365500]
+NVIDIA. 2008.NVIDIA CUDA Programming Guide 2.0. NVIDIA Corporation.
+Suryakant Patidar , P. J. Narayanan, Ray Casting Deformable Models on the GPU, Proceedings of the 2008 Sixth Indian Conference on Computer Vision, Graphics & Image Processing, p.481-488, December 16-19, 2008[doi>10.1109/ICVGIP.2008.92]
+John Plate , Thorsten Holtkaemper , Bernd Froehlich, A Flexible Multi-Volume Shader Framework for Arbitrarily Intersecting Multi-Resolution Datasets, IEEE Transactions on Visualization and Computer Graphics, v.13 n.6, p.1584-1591, November 2007[doi>10.1109/TVCG.2007.70534]
+Friedemann Röβler , Ralf P. Botchen , Thomas Ertl, Dynamic Shader Generation for GPU-Based Multi-Volume Ray Casting, IEEE Computer Graphics and Applications, v.28 n.5, p.66-77, September 2008[doi>10.1109/MCG.2008.96]
+Stefan Roettger , Stefan Guthe , Daniel Weiskopf , Thomas Ertl , Wolfgang Strasser, Smart hardware-accelerated volume rendering, Proceedings of the symposium on Data visualisation 2003, p.231-238, May 26-28, 2003, Grenoble, France
+Larry Seiler , Doug Carmean , Eric Sprangle , Tom Forsyth , Michael Abrash , Pradeep Dubey , Stephen Junkins , Adam Lake , Jeremy Sugerman , Robert Cavin , Roger Espasa , Ed Grochowski , Toni Juan , Pat Hanrahan, Larrabee: a many-core x86 architecture for visual computing, ACM Transactions on Graphics (TOG), v.27 n.3, August 2008[doi>10.1145/1360612.1360617]
+Simon Stegmaier , Magnus Strengert , Thomas Klein , Thomas Ertl, A simple and flexible volume rendering framework for graphics-hardware-based raycasting, Proceedings of the Fourth Eurographics / IEEE VGTC conference on Volume Graphics, June 20-21, 2005, New York[doi>10.2312/VG/VG05/187-195]
+Termeer, M., Bescós, J. O., and Telea, A. 2006. Preserving sharp edges with volume clipping. InProceedings of Vision, Modeling and Visualization, 341--348.
+D. Weiskopf , K. Engel , T. Ertl, Interactive clipping techniques for texture-based volume visualization and volume shading, IEEE Transactions on Visualization and Computer Graphics, v.9 n.3, p.298-312, July 2003[doi>10.1109/TVCG.2003.1207438]
+Daniel Wexler , Larry Gritz , Eric Enderton , Jonathan Rice, GPU-accelerated high-quality hidden surface removal, Proceedings of the ACM SIGGRAPH/EUROGRAPHICS conference on Graphics hardware, July 30-31, 2005, Los Angeles, California[doi>10.1145/1071866.1071868]

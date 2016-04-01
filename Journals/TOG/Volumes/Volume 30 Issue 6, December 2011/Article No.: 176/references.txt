@@ -1,0 +1,31 @@
+G. E. Blelloch, Scans as Primitive Parallel Operations, IEEE Transactions on Computers, v.38 n.11, p.1526-1538, November 1989[doi>10.1109/12.42122]
+Blelloch, G. E. 1990. Prefix sums and their applications. Technical Report CMU-CS-90-190, Carnegie Mellon University.
+Blu, T., Thénavaz, P., and Unser, M. 1999. Generalized interpolation: Higher quality at no additional cost. InIEEE International Conference on Image Processing, volume 3, 667--671.
+T. Blu , P. Thcvenaz , M. Unser, MOMS: maximal-order interpolation of minimal support, IEEE Transactions on Image Processing, v.10 n.7, p.1069-1080, July 2001[doi>10.1109/83.931101]
+Franklin C. Crow, Summed-area tables for texture mapping, Proceedings of the 11th annual conference on Computer graphics and interactive techniques, p.207-212, January 1984[doi>10.1145/800031.808600]
+CUDPP library. 2011. URL http://code.google.com/p/cudpp/.
+CUFFT library. 2007. URL http://developer.nvidia.com/cuda-toolkit. NVIDIA Corporation.
+Deriche, R. 1992. Recursively implementing the Gaussian and its derivatives. InProceedings of the 2<sup>nd</sup>Conference on Image Processing, 263--267.
+Yuri Dotsenko , Naga K. Govindaraju , Peter-Pike Sloan , Charles Boyd , John Manferdelli, Fast scan algorithms on graphics processors, Proceedings of the 22nd annual international conference on Supercomputing, June 07-12, 2008, Island of Kos, Greece[doi>10.1145/1375527.1375559]
+Dominik Goddeke , Robert Strzodka, Cyclic Reduction Tridiagonal Solvers on GPUs Applied to Mixed-Precision Multigrid, IEEE Transactions on Parallel and Distributed Systems, v.22 n.1, p.22-32, January 2011[doi>10.1109/TPDS.2010.61]
+Harris, M., Sengupta, S., and Owens, J. D. 2008. Parallel prefix sum (scan) with CUDA. InGPU Gems 3, chapter 39.
+Hensley, J. 2010. Advanced rendering technique with DirectX 11: High-quality depth of field. Gamefest 2010 talk.
+Hensley, J., Scheuermann, T., Coombe, G., Singh, M., and Lastra, A. 2005. Fast summed-area table generation and its applications.Computer Graphics Forum, 24(3):547--555.
+R. W. Hockney , C. R. Jesshope, Parallel Computers Two: Architecture, Programming and Algorithms, IOP Publishing Ltd., Bristol, UK, 1988
+Kenneth E. Iverson, A programming language, John Wiley & Sons, Inc., New York, NY, 1962
+Kass, M., Lefohn, A., and Owens, J. D. 2006. Interactive depth of field using simulated diffusion on a GPU. Technical Report #06-01, Pixar Animation Studios.
+David B. Kirk , Wen-mei W. Hwu, Programming Massively Parallel Processors: A Hands-on Approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2010
+Peter M. Kogge , Harold S. Stone, A Parallel Algorithm for the Efficient Solution of a General Class of Recurrence Equations, IEEE Transactions on Computers, v.22 n.8, p.786-793, August 1973[doi>10.1109/TC.1973.5009159]
+Lamas-Rodrígues, J., Heras, D. B., Bóo, M., and Argüello, F. 2011. Tridiagonal solvers internal report. Technical report, University of Santiago de Compostela.
+Merrill, D. and Grimshaw, A. 2009. Parallel scan for stream architectures. Technical Report CS2009-14, University of Virginia.
+Alan V. Oppenheim , Ronald W. Schafer, Discrete-Time Signal Processing, Prentice Hall Press, Upper Saddle River, NJ, 2009
+Parhi, K. and Messerschmitt, D. 1989. Pipeline interleaving and parallelism in recursive digital filters--Part II: Pipelined incremental block filtering.IEEE Transactions on Acoustics, Speech and Signal Processing, 37(7):1099--1117.
+Podlozhnyuk, V. 2007. Image convolution with CUDA. NVIDIA whitepaper.
+Daniel Ruijters , Philippe Thévenaz, GPU Prefilter for Accurate Cubic B-spline Interpolation, The Computer Journal, v.55 n.1, p.15-20, January 2012[doi>10.1093/comjnl/bxq086]
+Shubhabrata Sengupta , Mark Harris , Yao Zhang , John D. Owens, Scan primitives for GPU computing, Proceedings of the 22nd ACM SIGGRAPH/EUROGRAPHICS symposium on Graphics hardware, August 04-05, 2007, San Diego, California
+H. S. Stone, Parallel Processing with the Perfect Shuffle, IEEE Transactions on Computers, v.20 n.2, p.153-161, February 1971[doi>10.1109/T-C.1971.223205]
+Harold S. Stone, An Efficient Parallel Algorithm for the Solution of a Tridiagonal Linear System of Equations, Journal of the ACM (JACM), v.20 n.1, p.27-38, Jan. 1973[doi>10.1145/321738.321741]
+Sung, W. and Mitra, S. 1986. Efficient multi-processor implementation of recursive digital filters. InIEEE International Conference on Acoustics, Speech and Signal Processing, 257--260.
+W. Sung , S. K. Mitra , B. Jeren, Multiprocessor Implementation of Digital Filtering Algorithms Using a Parallel Block Processing Method, IEEE Transactions on Parallel and Distributed Systems, v.3 n.1, p.110-120, January 1992[doi>10.1109/71.113086]
+Lucas J Van Vliet , Ian T. Young , Piet W. Verbeek, Recursive Gaussian Derivative Filters, Proceedings of the 14th International Conference on Pattern Recognition-Volume 1, p.509, August 16-20, 1998
+Yao Zhang , Jonathan Cohen , John D. Owens, Fast tridiagonal solvers on the GPU, Proceedings of the 15th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, January 09-14, 2010, Bangalore, India[doi>10.1145/1693453.1693472]

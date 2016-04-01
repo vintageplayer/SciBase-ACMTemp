@@ -1,0 +1,48 @@
+Jérémie Allard , François Faure , Hadrien Courtecuisse , Florent Falipou , Christian Duriez , Paul G. Kry, Volume contact constraints at arbitrary resolution, ACM Transactions on Graphics (TOG), v.29 n.4, July 2010[doi>10.1145/1778765.1778819]
+J. W. Banks , D. W. Schwendeman , A. K. Kapila , W. D. Henshaw, A high-resolution Godunov method for compressible multi-material flow on overlapping grids, Journal of Computational Physics, v.223 n.1, p.262-297, April, 2007[doi>10.1016/j.jcp.2006.09.014]
+Adam W. Bargteil , Chris Wojtan , Jessica K. Hodgins , Greg Turk, A finite element method for animating large viscoplastic flow, ACM Transactions on Graphics (TOG), v.26 n.3, July 2007[doi>10.1145/1276377.1276397]
+Philip T. Barton , Dimitris Drikakis, An Eulerian method for multi-component problems in non-linear elasticity with sliding interfaces, Journal of Computational Physics, v.229 n.15, p.5518-5540, August, 2010[doi>10.1016/j.jcp.2010.04.012]
+Christopher Batty , Florence Bertails , Robert Bridson, A fast variational framework for accurate solid-fluid coupling, ACM Transactions on Graphics (TOG), v.26 n.3, July 2007[doi>10.1145/1276377.1276502]
+Bell, N., and Garland, M., 2010. Cusp: Generic parallel algorithms for sparse matrix and graph computations. Version 0.1.0. http://cusp-library.googlecode.com.
+Tyson Brochu , Christopher Batty , Robert Bridson, Matching fluid simulation elements to surface geometry and topology, ACM Transactions on Graphics (TOG), v.29 n.4, July 2010[doi>10.1145/1778765.1778784]
+Mark Carlson , Peter J. Mucha , R. Brooks Van Horn, III , Greg Turk, Melting and flowing, Proceedings of the 2002 ACM SIGGRAPH/Eurographics symposium on Computer animation, July 21-22, 2002, San Antonio, Texas[doi>10.1145/545261.545289]
+Mark Carlson , Peter J. Mucha , Greg Turk, Rigid fluid: animating the interplay between rigid bodies and fluid, ACM Transactions on Graphics (TOG), v.23 n.3, August 2004[doi>10.1145/1015706.1015733]
+Cline, M., and Pai, D. 2003. Post-stabilization for rigid body simulation with contact and constraints. InProc. ICRA'03, vol. 3, 3744--3751.
+Mathieu Desbrun , Marie-Paule Gascuel, Smoothed particles: a new paradigm for animating highly deformable bodies, Proceedings of the Eurographics workshop on Computer animation and simulation '96, p.61-76, December 1996, Poitiers, France
+Douglas Enright , Ronald Fedkiw , Joel Ferziger , Ian Mitchell, A hybrid particle level set method for improved interface capturing, Journal of Computational Physics, v.183 n.1, p.83-116, November 20, 2002[doi>10.1006/jcph.2002.7166]
+Faure, F., Allard, J., and Nesme, M. 2007. Eulerian Contact for Versatile Collision Processing. Research Report RR-6203, INRIA.
+Ronald P. Fedkiw , Tariq Aslam , Barry Merriman , Stanley Osher, A non-oscillatory Eulerian approach to interfaces in multimaterial flows (the ghost fluid method), Journal of Computational Physics, v.152 n.2, p.457-492, July 1, 1999[doi>10.1006/jcph.1999.6236]
+Nick Foster , Dimitri Metaxas, Realistic animation of liquids, Graphical Models and Image Processing, v.58 n.5, p.471-483, Sept. 1996[doi>10.1006/gmip.1996.0039]
+Benjamin Gilles , Guillaume Bousquet , Francois Faure , Dinesh K. Pai, Frame-based elastic models, ACM Transactions on Graphics (TOG), v.30 n.2, p.1-12, April 2011[doi>10.1145/1944846.1944855]
+Tolga G. Goktekin , Adam W. Bargteil , James F. O'Brien, A method for animating viscoelastic fluids, ACM Transactions on Graphics (TOG), v.23 n.3, August 2004[doi>10.1145/1015706.1015746]
+Harris, M., Sengupta, S., and Owens, J. D. 2007. Parallel prefix sum (scan) withCUDA. InGPU Gems 3, H. Nguyen, Ed. Addison Wesley.
+Humphrey, J., Price, D., Spagnoli, K., Paolini, A., and Kelmelis, E. 2010. CULA: hybrid GPU accelerated linear algebra routines. InProc. SPIE, vol. 7705, 1.
+G. Irving , J. Teran , R. Fedkiw, Invertible finite elements for robust simulation of large deformation, Proceedings of the 2004 ACM SIGGRAPH/Eurographics symposium on Computer animation, August 27-29, 2004, Grenoble, France[doi>10.1145/1028523.1028541]
+Kamrin, K., and Nave, J.-C. 2009. An eulerian approach to the simulation of deformable solids: Application to finite-strain elasticity. Submitted (available: http://arxiv.org/PS_cache/arxiv/pdf/0901/0901.3799v2.pdf).
+Danny M. Kaufman , Shinjiro Sueda , Doug L. James , Dinesh K. Pai, Staggered projections for frictional contact in multibody systems, ACM Transactions on Graphics (TOG), v.27 n.5, December 2008[doi>10.1145/1409060.1409117]
+François Labelle , Jonathan Richard Shewchuk, Isosurface stuffing: fast tetrahedral meshes with good dihedral angles, ACM Transactions on Graphics (TOG), v.26 n.3, July 2007[doi>10.1145/1276377.1276448]
+Le Grand, S. 2007. Broad-Phase Collision Detection withCUDA. InGPU Gems 3, H. Nguyen, Ed. Addison-Wesley.
+Bruno Lévy , Yang Liu,LpCentroidal Voronoi Tessellation and its applications, ACM Transactions on Graphics (TOG), v.29 n.4, July 2010[doi>10.1145/1778765.1778856]
+Frank Losasso , Tamar Shinar , Andrew Selle , Ronald Fedkiw, Multiple interacting liquids, ACM Transactions on Graphics (TOG), v.25 n.3, July 2006[doi>10.1145/1141911.1141960]
+Aleka McAdams , Andrew Selle , Kelly Ward , Eftychios Sifakis , Joseph Teran, Detail preserving continuum simulation of straight hair, ACM Transactions on Graphics (TOG), v.28 n.3, August 2009[doi>10.1145/1531326.1531368]
+Mehrotra, S. 1992. On the Implementation of a Primal-Dual Interior Point Method.SIOPT 2, 4, 575--601.
+G. H. Miller , P. Colella, A high-order Eulerian Godunov method for elastic-plastic flow in solids, Journal of Computational Physics, v.167 n.1, p.131-176, Feb. 10, 2001[doi>10.1006/jcph.2000.6665]
+Moreau, J. J. 1966. Quadratic programming in mechanics: One-sided constraints.Journal SIAM Control 4, 1, 153--158.
+M. Müller , R. Keiser , A. Nealen , M. Pauly , M. Gross , M. Alexa, Point based animation of elastic, plastic and melting objects, Proceedings of the 2004 ACM SIGGRAPH/Eurographics symposium on Computer animation, August 27-29, 2004, Grenoble, France[doi>10.1145/1028523.1028542]
+Matthias Muller , Matthias Teschner , Markus Gross, Physically-Based Simulation of Objects Represented by Surface Meshes, Proceedings of the Computer Graphics International, p.26-33, June 16-19, 2004[doi>10.1109/CGI.2004.75]
+Rahul Narain , Abhinav Golas , Ming C. Lin, Free-flowing granular materials with two-way solid coupling, ACM Transactions on Graphics (TOG), v.29 n.6, December 2010[doi>10.1145/1882261.1866195]
+Nocedal, J., and Wright, S. 1999.Numerical Optimization. Springer-Verlag.
+NVIDIA Corporation, 2010.CUDA Programming Guide.
+Osher, S., and Fedkiw, R. 2002.Level set methods and dynamic implicit surfaces. Springer-Verlag.
+Petrovic, L., Henne, M., and Anderson, J. 2005. Volumetric methods for simulation and rendering of hair. Tech. rep., Pixar Animation Studios.
+Avi Robinson-Mosher , R. Elliot English , Ronald Fedkiw, Accurate tangential velocities for solid fluid coupling, Proceedings of the 2009 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, August 01-02, 2009, New Orleans, Louisiana[doi>10.1145/1599470.1599500]
+Roettger, S., 2011. The volume library. http://www9.informatik.uni-erlangen.de/External/vollib/.
+Barbara Solenthaler , Jürg Schläfli , Renato Pajarola, A unified particle model for fluid–solid interactions: Research Articles, Computer Animation and Virtual Worlds, v.18 n.1, p.69-82, February 2007[doi>10.1002/cav.v18:1]
+Sulsky, D., Chen, Z., and Schreyer, H. 1994. A particle method for history-dependent materials.Computer Methods in Applied Mechanics and Engineering 118, 1-2, 179--196.
+Sulsky, D., Zhou, S., and Schreyer, H. 1995. Application of a particle-in-cell method to solid mechanics.Computer Physics Communications 87, 1-2, 236--252.
+J. Teran , S. Blemker , V. Ng Thow Hing , R. Fedkiw, Finite volume methods for the simulation of skeletal muscle, Proceedings of the 2003 ACM SIGGRAPH/Eurographics symposium on Computer animation, July 26-27, 2003, San Diego, California
+Demetri Terzopoulos , John Platt , Alan Barr , Kurt Fleischer, Elastically deformable models, Proceedings of the 14th annual conference on Computer graphics and interactive techniques, p.205-214, August 1987[doi>10.1145/37401.37427]
+L. B. Tran , H. S. Udaykumar, A particle-level set-based sharp interface cartesian grid method for impact, penetration, and void collapse, Journal of Computational Physics, v.193 n.2, p.469-510, 20 January 2004[doi>10.1016/j.jcp.2003.07.023]
+Trangenstein, J. 1994. A second-order Godunov algorithm for two-dimensional solid mechanics.Computational Mechanics 13, 5, 343--359.
+Martin Wicke , Daniel Ritchie , Bryan M. Klingner , Sebastian Burke , Jonathan R. Shewchuk , James F. O'Brien, Dynamic local remeshing for elastoplastic simulation, ACM Transactions on Graphics (TOG), v.29 n.4, July 2010[doi>10.1145/1778765.1778786]
+Yongning Zhu , Robert Bridson, Animating sand as a fluid, ACM Transactions on Graphics (TOG), v.24 n.3, July 2005[doi>10.1145/1073204.1073298]

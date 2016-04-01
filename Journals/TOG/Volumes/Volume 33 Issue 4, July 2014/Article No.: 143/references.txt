@@ -1,0 +1,25 @@
+Timo Aila , Samuli Laine, Understanding the efficiency of ray traversal on GPUs, Proceedings of the Conference on High Performance Graphics 2009, August 01-03, 2009, New Orleans, Louisiana[doi>10.1145/1572769.1572792]
+Carsten Benthin , Ingo Wald, Efficient ray traced soft shadows using multi-frusta tracing, Proceedings of the Conference on High Performance Graphics 2009, August 01-03, 2009, New Orleans, Louisiana[doi>10.1145/1572769.1572791]
+Carsten Benthin , Ingo Wald , Sven Woop , Manfred Ernst , William R. Mark, Combining Single and Packet-Ray Tracing for Arbitrary Ray Distributions on the Intel MIC Architecture, IEEE Transactions on Visualization and Computer Graphics, v.18 n.9, p.1438-1448, September 2012[doi>10.1109/TVCG.2011.277]
+Bigler, J., Stephens, A., and Parker, S. G. 2006. Design for Parallel Interactive Ray Tracing Systems. InProceedings of the IEEE Symposium on Interactive Ray Tracing, 187--196.
+Holger Dammertz , Johannes Hanika , Alexander Keller, Shallow bounding volume hierarchies for fast SIMD ray tracing of incoherent rays, Proceedings of the Nineteenth Eurographics conference on Rendering, June 23-25, 2008, Sarajevo, Bosnia and Herzegovina[doi>10.1111/j.1467-8659.2008.01261.x]
+Ernst, M., and Greiner, G. 2008. Multi Bounding Volume Hierarchies. InProceedings of the IEEE / Eurographics Symposium on Interactive Ray Tracing, 35--40.
+Andrew S. Glassner, An introduction to ray tracing, Academic Press Ltd., London, UK, 1989
+Leonhard Grünschloß , Martin Stich , Sehera Nawaz , Alexander Keller, MSBVH: an efficient acceleration data structure for ray traced motion blur, Proceedings of the ACM SIGGRAPH Symposium on High Performance Graphics, August 05-07, 2011, Vancouver, British Columbia, Canada[doi>10.1145/2018323.2018334]
+Havran, V. 2000.Heuristic Ray Shooting Algorithms. PhD thesis, Department of Computer Science and Engineering, Faculty of Electrical Engineering, Czech Technical University in Prague.
+Tero Karras , Timo Aila, Fast parallel construction of high-quality bounding volume hierarchies, Proceedings of the 5th High-Performance Graphics Conference, July 19-21, 2013, Anaheim, California[doi>10.1145/2492045.2492055]
+Kensler, A., and Shirley, P. 2006. Optimizing Ray-Triangle Intersection via Automated Search. InProceedings of the IEEE Symposium on Interactive Ray Tracing, 33--38.
+Kensler, A. 2008. Tree Rotations for Improving Bounding Volume Hierarchies. InProceedings of the IEEE Symposium on Interactive Ray Tracing, 73--76.
+Samuli Laine , Tero Karras , Timo Aila, Megakernels considered harmful: wavefront path tracing on GPUs, Proceedings of the 5th High-Performance Graphics Conference, July 19-21, 2013, Anaheim, California[doi>10.1145/2492045.2492060]
+Lauterbach, C., Garland, M., Sengupta, S., Luebke, D., and Manocha, D. 2009. Fast BVH Construction on GPUs. InComputer Graphics Forum: Proceedings of Eurographics, 375--384.
+Steven G. Parker , James Bigler , Andreas Dietrich , Heiko Friedrich , Jared Hoberock , David Luebke , David McAllister , Morgan McGuire , Keith Morley , Austin Robison , Martin Stich, OptiX: a general purpose ray tracing engine, ACM SIGGRAPH 2010 papers, July 26-30, 2010, Los Angeles, California[doi>10.1145/1833349.1778803]
+Matt Pharr , Greg Humphreys, Physically Based Rendering: From Theory to Implementation, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2004
+Pharr, M., and Mark, B. 2012. ISPC - A SPMD compiler for high-performance CPU programming. InProceedings of Innovative Parallel Computing, 1--13.
+Alexander Reshetov , Alexei Soupikov , Jim Hurley, Multi-level ray tracing algorithm, ACM SIGGRAPH 2005 Papers, July 31-August 04, 2005, Los Angeles, California[doi>10.1145/1186822.1073329]
+Martin Stich , Heiko Friedrich , Andreas Dietrich, Spatial splits in bounding volume hierarchies, Proceedings of the Conference on High Performance Graphics 2009, August 01-03, 2009, New Orleans, Louisiana[doi>10.1145/1572769.1572771]
+Wald, I., Benthin, C., and Slusallek, P. 2002. OpenRT - A Flexible and Scalable Rendering Engine for Interactive 3D Graphics. Tech. rep., Saarland University. Available at http://graphics.cs.uni-sb.de/Publications.
+Ingo Wald , Carsten Benthin , Philipp Slusallek, Distributed Interactive Ray Tracing of Dynamic Scenes, Proceedings of the 2003 IEEE Symposium on Parallel and Large-Data Visualization and Graphics, p.11, October 20-21, 2003[doi>10.1109/PVGS.2003.1249045]
+Wald, I., Benthin, C., and Boulos, S. 2008. Getting Rid of Packets: Efficient SIMD Single-Ray Traversal using Multi-branching BVHs. InProceedings of the IEEE / Eurographics Symposium on Interactive Ray Tracing, 49--57.
+Wald, I. 2004.Realtime Ray Tracing and Interactive Global Illumination. PhD thesis, Saarland University.
+Ingo Wald, On fast Construction of SAH-based Bounding Volume Hierarchies, Proceedings of the 2007 IEEE Symposium on Interactive Ray Tracing, p.33-40, September 10-12, 2007[doi>10.1109/RT.2007.4342588]
+Ingo Wald, Fast Construction of SAH BVHs on the Intel Many Integrated Core (MIC) Architecture, IEEE Transactions on Visualization and Computer Graphics, v.18 n.1, p.47-57, January 2012[doi>10.1109/TVCG.2010.251]

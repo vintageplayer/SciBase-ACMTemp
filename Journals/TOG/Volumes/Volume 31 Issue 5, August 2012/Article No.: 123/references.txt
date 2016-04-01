@@ -1,0 +1,42 @@
+Barrett, R., Berry, M., Chan, T., Demmel, J., Donato, J., Dongarra, J., Eijkhout, V., Pozo, R., Romine, C., and van der Vorst, H. 1993. Templates for the Solution of Linear Systems: Building Blocks for Iterative Methods. SIAM, Pennsylvania, PA.
+Belytschko, T. and Hsieh, B. 1979. Application of higher order corotational stretch theories to nonlinear finite element analysis. Comput. Struct. 11, 175--182.
+Miklós Bergou , Max Wardetzky , Stephen Robinson , Basile Audoly , Eitan Grinspun, Discrete elastic rods, ACM Transactions on Graphics (TOG), v.27 n.3, August 2008[doi>10.1145/1360612.1360662]
+Mario Botsch , David Bommes , Leif Kobbelt, Efficient linear system solvers for mesh processing, Proceedings of the 11th IMA international conference on Mathematics of Surfaces, p.62-83, September 05-07, 2005, Loughborough, UK[doi>10.1007/11537908_5]
+Robert Bridson , Ronald Fedkiw , Matthias Müller-Fischer, Fluid simulation: SIGGRAPH 2006 course notesFedkiw and Muller-Fischer presenation videos are available from the citation page, ACM SIGGRAPH 2006 Courses, July 30-August 03, 2006, Boston, Massachusetts[doi>10.1145/1185657.1185730]
+R. Bridson , S. Marino , R. Fedkiw, Simulation of clothing with folds and wrinkles, Proceedings of the 2003 ACM SIGGRAPH/Eurographics symposium on Computer animation, July 26-27, 2003, San Diego, California
+Yanqing Chen , Timothy A. Davis , William W. Hager , Sivasankaran Rajamanickam, Algorithm 887: CHOLMOD, Supernodal Sparse Cholesky Factorization and Update/Downdate, ACM Transactions on Mathematical Software (TOMS), v.35 n.3, p.1-14, October 2008[doi>10.1145/1391989.1391995]
+Nuttapong Chentanez , Ron Alterovitz , Daniel Ritchie , Lita Cho , Kris K. Hauser , Ken Goldberg , Jonathan R. Shewchuk , James F. O'Brien, Interactive simulation of surgical needle insertion and steering, ACM Transactions on Graphics (TOG), v.28 n.3, August 2009[doi>10.1145/1531326.1531394]
+Min Gyu Choi , Hyeong-Seok Ko, Modal Warping: Real-Time Simulation of Large Rotational Deformation and Manipulation, IEEE Transactions on Visualization and Computer Graphics, v.11 n.1, p.91-101, January 2005[doi>10.1109/TVCG.2005.13]
+Cholesky, A.-L. 1910. Sur la résolution numérique des systèmes d'équations linéaires. Manuscript. Subsequently published in Bull. de la Sabix 39, 81--95, 2005.
+Courtecuisse, H., Allard, J., Duriez, C., and Cotin, S. 2010. Asynchronous preconditioners for efficient solving of non-linear deformations. In Proceedings of the 7th Workshop on Virtual Reality Interaction and Physical Simulation. 59--68.
+Timothy A. Davis, Direct Methods for Sparse Linear Systems (Fundamentals of Algorithms 2), Society for Industrial and Applied Mathematics, Philadelphia, PA, 2006
+Timothy A. Davis , William W. Hager, Modifying a Sparse Cholesky Factorization, SIAM Journal on Matrix Analysis and Applications, v.20 n.3, p.606-627, July 1999[doi>10.1137/S0895479897321076]
+Timothy A. Davis , William W. Hager, Dynamic Supernodes in Sparse Cholesky Update/Downdate and Triangular Solves, ACM Transactions on Mathematical Software (TOMS), v.35 n.4, p.1-23, February 2009[doi>10.1145/1462173.1462176]
+Olaf Etzmuβ , Michael Keckeisen , Wolfgang Straβer, A Fast Finite Element Solution for Cloth Modelling, Proceedings of the 11th Pacific Conference on Computer Graphics and Applications, p.244, October 08-10, 2003
+Felippa, C. 2007. Introduction to finite element methods. http://www.colorado.edu/engineering/cas/courses.d/NFEM.d.
+George, A. 1973. Nested dissection of a regular finite element mesh. SIAM J. Numer. Anal. 10, 2, 345--363.
+Gibson, S. F. F. and Mirtich, B. 1997. A survey of deformable modeling in computer graphics. Tech. rep. TR97-19, Mitsubishi Electric Research Laboratory. November.
+Gill, P. E., Golub, G. H., Murray, W., and Saunders, M. A. 1974. Methods for modifying matrix factorizations. Math. Comput. 28, 126, 505--535.
+Gene H. Golub , Charles F. Van Loan, Matrix computations (3rd ed.), Johns Hopkins University Press, Baltimore, MD, 1996
+Nicholas I. M. Gould , Jennifer A. Scott , Yifan Hu, A numerical evaluation of sparse direct solvers for the solution of large sparse symmetric linear systems of equations, ACM Transactions on Mathematical Software (TOMS), v.33 n.2, p.10-es, June 2007[doi>10.1145/1236463.1236465]
+Joseph F. Grcar, John von Neumann's Analysis of Gaussian Elimination and the Origins of Modern Numerical Analysis, SIAM Review, v.53 n.4, p.607-682, November 2011[doi>10.1137/080734716]
+Eitan Grinspun , Anil N. Hirani , Mathieu Desbrun , Peter Schröder, Discrete shells, Proceedings of the 2003 ACM SIGGRAPH/Eurographics symposium on Computer animation, July 26-27, 2003, San Diego, California
+Hestenes, M. R. and Stiefel, E. 1952. Methods of conjugate gradients for solving linear systems. J. Res. Nat. Bureau Standards 49, 409--436.
+Horn, B. K. P. 1987. Closed-Form solution of absolute orientation using unit quaternions. J. Opt. Soc. A 4, 4, 629--642.
+G. Irving , J. Teran , R. Fedkiw, Invertible finite elements for robust simulation of large deformation, Proceedings of the 2004 ACM SIGGRAPH/Eurographics symposium on Computer animation, August 27-29, 2004, Grenoble, France[doi>10.1145/1028523.1028541]
+Karypis, G. and Kumar, V. 1995. A fast and high quality multilevel scheme for partitioning irregular graphs. In Proceedings of the International Conference on Parallel Processing. 113--122.
+Li, X. S. and Demmel, J. W. 1999. A scalable sparse direct solver using static pivoting. In Proceedings of the 9th SIAM Conference on Parallel Processing for Scientic Computing. 1--10.
+Lipton, R. J., Rose, D. J., and Tarjan, R. E. 1979. Generalized nested dissection. SIAM J. Numer. Anal. 16, 2, 346--358.
+Sebastian Martin , Peter Kaufmann , Mario Botsch , Eitan Grinspun , Markus Gross, Unified simulation of elastic rods, shells, and solids, ACM Transactions on Graphics (TOG), v.29 n.4, July 2010[doi>10.1145/1778765.1778776]
+Matthias Müller , Julie Dorsey , Leonard McMillan , Robert Jagnow , Barbara Cutler, Stable real-time deformations, Proceedings of the 2002 ACM SIGGRAPH/Eurographics symposium on Computer animation, July 21-22, 2002, San Antonio, Texas[doi>10.1145/545261.545269]
+Matthias Müller , Markus Gross, Interactive virtual materials, Proceedings of Graphics Interface 2004, p.239-246, May 17-19, 2004, London, Ontario, Canada
+Matthias Müller , Bruno Heidelberger , Matthias Teschner , Markus Gross, Meshless deformations based on shape matching, ACM Transactions on Graphics (TOG), v.24 n.3, July 2005[doi>10.1145/1073204.1073216]
+Nealen, A., Müller, M., Keiser, R., Boxerman, E., and Carlson, M. 2006. Physically based deformable models in computer graphics. Comput. Graph. Forum 25, 4, 809--836.
+Nour-Omid, B. and Rankin, C. C. 1991. Finite rotation analysis and consistent linearization using projectors. Comput. Meth. Appl. Mechan. Engin. 93, 353--384.
+Eric G. Parker , James F. O'Brien, Real-time deformation and fracture in a game environment, Proceedings of the 2009 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, August 01-02, 2009, New Orleans, Louisiana[doi>10.1145/1599470.1599492]
+William H. Press , William T. Vetterling , Saul A. Teukolsky , Brian P. Flannery, Numerical Recipes in C++: the art of scientific computing, Cambridge University Press, New York, NY, 2001
+Jonathan R Shewchuk, An Introduction to the Conjugate Gradient Method Without the Agonizing Pain, Carnegie Mellon University, Pittsburgh, PA, 1994
+Olga Sorkine , Daniel Cohen-Or , Dror Irony , Sivan Toledo, Geometry-Aware Bases for Shape Approximation, IEEE Transactions on Visualization and Computer Graphics, v.11 n.2, p.171-180, March 2005[doi>10.1109/TVCG.2005.33]
+Demetri Terzopoulos , John Platt , Alan Barr , Kurt Fleischer, Elastically deformable models, Proceedings of the 14th annual conference on Computer graphics and interactive techniques, p.205-214, August 1987[doi>10.1145/37401.37427]
+Toledo, S. 2003. TAUCS: A library of sparse linear solvers. http://www.tau.ac.il/~stoledo/taucs.
+Yongning Zhu , Eftychios Sifakis , Joseph Teran , Achi Brandt, An efficient multigrid method for the simulation of high-resolution elastic solids, ACM Transactions on Graphics (TOG), v.29 n.2, p.1-18, March 2010[doi>10.1145/1731047.1731054]

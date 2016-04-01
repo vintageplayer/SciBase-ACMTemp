@@ -1,0 +1,1 @@
+A concise, incremental algorithm for raster approximations to ellipses in standard position produces approximations that are good to the last pixel even near octant boundaries or the thin ends of highly eccentric ellipses. The resulting approximations commute with reflection about the diagonal and are mathematically specifiable without reference to details of the algorithm.

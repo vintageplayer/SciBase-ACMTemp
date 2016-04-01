@@ -1,0 +1,37 @@
+György Fekete, Rendering and managing spherical data with sphere quadtrees, Proceedings of the 1st conference on Visualization '90, October 23-26, 1990, San Francisco, California
+William T. Freeman , Edward H. Adelson, The Design and Use of Steerable Filters, IEEE Transactions on Pattern Analysis and Machine Intelligence, v.13 n.9, p.891-906, September 1991[doi>10.1109/34.93808]
+Eduardo S. L. Gastal , Manuel M. Oliveira, Adaptive manifolds for real-time high-dimensional filtering, ACM Transactions on Graphics (TOG), v.31 n.4, p.1-13, July 2012[doi>10.1145/2185520.2185529]
+P. Green, J. Kautz, and F. Durand. 2007. Efficient reflectance and visibility approximations for environment map rendering. Comput. Graph. Forum 26, 495--502.
+Gene Greger , Peter Shirley , Philip M. Hubbard , Donald P. Greenberg, The Irradiance Volume, IEEE Computer Graphics and Applications, v.18 n.2, p.32-43, March 1998[doi>10.1109/38.656788]
+K. M. Grski, E. Hivon, A. J. Banday, B. D. Wandelt, F. K. Hansen, M. Reinecke, and M. Bartelmann. 2005. HealPix: A framework for high-resolution discretization and fast analysis distributed on the sphere. Astrophys. J. 622, 2, 759.
+Charles Han , Bo Sun , Ravi Ramamoorthi , Eitan Grinspun, Frequency domain normal map filtering, ACM Transactions on Graphics (TOG), v.26 n.3, July 2007[doi>10.1145/1276377.1276412]
+Wolfgang Heidrich , Hans-Peter Seidel, Realistic, hardware-accelerated shading and lighting, Proceedings of the 26th annual conference on Computer graphics and interactive techniques, p.171-178, July 1999[doi>10.1145/311535.311554]
+E. Hobson. 1931. The Theory of Spherical and Ellipsoidal Harmonics. The University Press, Chicago.
+J. Kautz, K. Daubert, and H.-P. Seidel. 2004. Advanced environment mapping in VR applications. Comput. Graph. 28, 1, 99--104.
+Jan Kautz , Peter-Pike Sloan , John Snyder, Fast, arbitrary BRDF shading for low-frequency lighting using spherical harmonics, Proceedings of the 13th Eurographics workshop on Rendering, June 26-28, 2002, Pisa, Italy
+Michael Kazhdan , Hugues Hoppe, Metric-aware processing of spherical imagery, ACM SIGGRAPH Asia 2010 papers, December 15-18, 2010, Seoul, South Korea[doi>10.1145/1866158.1866175]
+Michael Kazhdan , Dinoj Surendran , Hugues Hoppe, Distributed gradient-domain processing of planar and spherical images, ACM Transactions on Graphics (TOG), v.29 n.2, p.1-11, March 2010[doi>10.1145/1731047.1731052]
+Jaroslav Křivánek , Mark Colbert, Real-time shading with filtered importance sampling, Proceedings of the Nineteenth Eurographics conference on Rendering, June 23-25, 2008, Sarajevo, Bosnia and Herzegovina[doi>10.1111/j.1467-8659.2008.01252.x]
+C. Lessig , T. de Witt , E. Fiume, Short note: Efficient and accurate rotation of finite spherical harmonics expansions, Journal of Computational Physics, v.231 n.2, p.243-250, January, 2012[doi>10.1016/j.jcp.2011.09.014]
+Wan-Chun Ma , Chun-Tse Hsiao , Ken-Yi Lee , Yung-Yu Chuang , Bing-Yu Chen, Real-time triple product relighting using spherical local-frame parameterization, The Visual Computer: International Journal of Computer Graphics, v.22 n.9, p.682-692, September 2006[doi>10.1007/s00371-006-0064-9]
+Stphane Mallat, A Wavelet Tour of Signal Processing, Third Edition: The Sparse Way, Academic Press, 2008
+K. Mardia and P. Jupp. 2009. Directional Statistics. Wiley Series in Probability and Statistics. Wiley.
+Wojciech Matusik , Hanspeter Pfister , Matt Brand , Leonard McMillan, A data-driven reflectance model, ACM Transactions on Graphics (TOG), v.22 n.3, July 2003[doi>10.1145/882262.882343]
+Michael D. McCool , Jason Ang , Anis Ahmad, Homomorphic factorization of BRDFs for high-performance rendering, Proceedings of the 28th annual conference on Computer graphics and interactive techniques, p.171-178, August 2001[doi>10.1145/383259.383276]
+J. McCormack, K. I. Farkas, R. Perry, and N. P. Jouppi. 1999. Simple and table feline: Fast elliptical lines for anisotropic texture mapping. Res. rep., HP Labs. http://www.hpl.hp.com/techreports/Compaq-DEC/WRL-99-1.pdf.
+G. S. Miller and C. R. Hoffman. 1984. Illumination and reflection maps: Simulated objects in real and simulated environment. http://www.pauldebevec.com/ReflectionMapping/illumap.pdf.
+Ren Ng , Ravi Ramamoorthi , Pat Hanrahan, All-frequency shadows using non-linear wavelet lighting approximation, ACM SIGGRAPH 2003 Papers, July 27-31, 2003, San Diego, California[doi>10.1145/1201775.882280]
+Ren Ng , Ravi Ramamoorthi , Pat Hanrahan, Triple product wavelet integrals for all-frequency relighting, ACM SIGGRAPH 2004 Papers, August 08-12, 2004, Los Angeles, California[doi>10.1145/1186562.1015749]
+Derek Nowrouzezahrai , Patricio Simari , Eugene Fiume, Sparse zonal harmonic factorization for efficient SH rotation, ACM Transactions on Graphics (TOG), v.31 n.3, p.1-9, May 2012[doi>10.1145/2167076.2167081]
+Ravi Ramamoorthi , Pat Hanrahan, An efficient representation for irradiance environment maps, Proceedings of the 28th annual conference on Computer graphics and interactive techniques, p.497-500, August 2001[doi>10.1145/383259.383317]
+Ravi Ramamoorthi , Pat Hanrahan, Frequency space environment map rendering, ACM Transactions on Graphics (TOG), v.21 n.3, July 2002[doi>10.1145/566654.566611]
+Ravi Ramamoorthi , Pat Hanrahan, A signal-processing framework for reflection, ACM Transactions on Graphics (TOG), v.23 n.4, p.1004-1042, October 2004[doi>10.1145/1027411.1027416]
+Peter Schröder , Wim Sweldens, Spherical wavelets: efficiently representing functions on the sphere, Proceedings of the 22nd annual conference on Computer graphics and interactive techniques, p.161-172, September 1995[doi>10.1145/218380.218439]
+P.-P. Sloan. 2008. Stupid spherical harmonics (SH) tricks. http://www.ppsloan.org/publications/StupidSH36.pdf.
+Peter-Pike Sloan , Jan Kautz , John Snyder, Precomputed radiance transfer for real-time rendering in dynamic, low-frequency lighting environments, ACM Transactions on Graphics (TOG), v.21 n.3, July 2002[doi>10.1145/566654.566612]
+Jonathan Stone, Radially-symmetric reflection maps, SIGGRAPH 2009: Talks, p.1-1, August 03-07, 2009, New Orleans, Louisiana[doi>10.1145/1597990.1598014]
+Liang Wan , Tien-Tsin Wong , Chi-Sing Leung, Isocube: Exploiting the Cubemap Hardware, IEEE Transactions on Visualization and Computer Graphics, v.13 n.4, p.720-731, July 2007[doi>10.1109/TVCG.2007.1020]
+Jiaping Wang , Peiran Ren , Minmin Gong , John Snyder , Baining Guo, All-frequency rendering of dynamic, spatially-varying reflectance, ACM Transactions on Graphics (TOG), v.28 n.5, December 2009[doi>10.1145/1618452.1618479]
+Stephen J. Wright , Robert D. Nowak , Mário A. T. Figueiredo, Sparse reconstruction by separable approximation, IEEE Transactions on Signal Processing, v.57 n.7, p.2479-2493, July 2009[doi>10.1109/TSP.2009.2016892]
+Kun Xu , Yun-Tao Jia , Hongbo Fu , Shimin Hu , Chiew-Lan Tai, Spherical Piecewise Constant Basis Functions for All-Frequency Precomputed Radiance Transfer, IEEE Transactions on Visualization and Computer Graphics, v.14 n.2, p.454-467, March 2008[doi>10.1109/TVCG.2007.70442]
+Kun Xu , Wei-Lun Sun , Zhao Dong , Dan-Yong Zhao , Run-Dong Wu , Shi-Min Hu, Anisotropic spherical Gaussians, ACM Transactions on Graphics (TOG), v.32 n.6, November 2013[doi>10.1145/2508363.2508386]

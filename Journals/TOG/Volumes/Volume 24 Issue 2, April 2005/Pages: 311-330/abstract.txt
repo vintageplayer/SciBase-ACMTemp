@@ -1,0 +1,28 @@
+Conformal parameterization of mesh models has numerous applications
+in geometry processing. Conformality is desirable for remeshing,
+surface reconstruction, and many other mesh processing
+applications. Subject to the conformality requirement, these
+applications typically benefit from parameterizations with smaller
+stretch. The Angle Based Flattening (ABF) method, presented a few
+years ago, generates provably valid conformal parameterizations
+with low stretch. However, it is quite time-consuming and becomes
+error prone for large meshes due to numerical error accumulation.
+This work presents ABF&plus;&plus;, a highly efficient
+extension of the ABF method, that overcomes these drawbacks while
+maintaining all the advantages of ABF. ABF++ robustly parameterizes
+meshes of hundreds of thousands and millions of triangles within
+minutes. It is based on three main components: (1) a new numerical
+solution technique that dramatically reduces the dimension of the
+linear systems solved at each iteration, speeding up the solution;
+(2) a new robust scheme for reconstructing the 2D coordinates from
+the angle space solution that avoids the numerical instabilities
+which hindered the ABF reconstruction scheme; and (3) an efficient
+hierarchical solution technique. The speedup with (1) does not come
+at the expense of greater distortion. The hierarchical technique
+(3) enables parameterization of models with millions of faces in
+seconds at the expense of a minor increase in parametric
+distortion. The parameterization computed by ABF++ are provably
+valid, that is they contain no flipped triangles. As a result of
+these extensions, the ABF++ method is extremely suitable for
+robustly and efficiently parameterizing models for
+geometry-processing applications.

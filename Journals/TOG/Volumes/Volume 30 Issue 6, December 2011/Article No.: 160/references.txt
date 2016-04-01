@@ -1,0 +1,44 @@
+Timo Aila , Tero Karras, Architecture considerations for tracing incoherent rays, Proceedings of the Conference on High Performance Graphics, June 25-27, 2010, Saarbrucken, Germany
+Timo Aila , Samuli Laine, Understanding the efficiency of ray traversal on GPUs, Proceedings of the Conference on High Performance Graphics 2009, August 01-03, 2009, New Orleans, Louisiana[doi>10.1145/1572769.1572792]
+Bakhoda, A., Yuan, G., Fung, W., Wong, H., and Aamodt, T. 2009. Analyzing CUDA workloads using a detailed GPU simulator. InProceedings of IEEE International Symposium on Performance Analysis of Systems and Software 2009, 163--174.
+Benthin, C., Wald, I., Scherbaum, M., and Friedrich, H. 2006. Ray tracing on the cell processor. InProceedings of the 2006 IEEE/EG Symposium on Interactive Ray Tracing, 15--23.
+Benthin, C. 2006.Realtime Ray Tracing on Current CPU Architectures. PhD thesis, Sarrland University.
+Caustic Graphics. 2009. Introduction to CausticRT. Tech. rep. http://www.caustic.com/pdf/Introduction to CausticRT.pdf.
+Robert L. Cook , Thomas Porter , Loren Carpenter, Distributed ray tracing, Proceedings of the 11th annual conference on Computer graphics and interactive techniques, p.137-145, January 1984[doi>10.1145/800031.808590]
+Davidovic, T., Marsalek, L., and Slusallek, P. 2011. Performance considerations when using a dedicated ray traversal engine. InWSCG 2011 Full Paper Proceedings, 65--72.
+J. B. Dennis, Data Flow Supercomputers, Computer, v.13 n.11, p.48-56, November 1980[doi>10.1109/MC.1980.1653418]
+Kayvon Fatahalian , Mike Houston, GPUs: A Closer Look, Queue, v.6 n.2, March/April 2008[doi>10.1145/1365490.1365498]
+Garanzha, K., and Loop, C. 2010. Fast ray sorting and breadth-first packet traversal for GPU ray tracing.Computer Graphics Forum 29, 2, 289--298. http://garanzha.com/Documents/GPU-RayTracing.ppt.
+Venkatraman Govindaraju , Peter Djeu , Karthikeyan Sankaralingam , Mary Vernon , William R. Mark, Toward a multicore architecture for real-time ray-tracing, Proceedings of the 41st annual IEEE/ACM International Symposium on Microarchitecture, p.176-187, November 08-12, 2008[doi>10.1109/MICRO.2008.4771789]
+Gribble, C., and Ramani, K. 2008. Coherent ray tracing via stream filtering. InProceedings of the 2008 IEEE/EG Symposium on Interactive Ray Tracing, 59--66.
+Jiri Havel , Adam Herout, Yet Faster Ray-Triangle Intersection (Using SSE4), IEEE Transactions on Visualization and Computer Graphics, v.16 n.3, p.434-438, May 2010[doi>10.1109/TVCG.2009.73]
+Daniel Reiter Horn , Jeremy Sugerman , Mike Houston , Pat Hanrahan, Interactive k-d tree GPU raytracing, Proceedings of the 2007 symposium on Interactive 3D graphics and games, April 30-May 02, 2007, Seattle, Washington[doi>10.1145/1230100.1230129]
+Qiming Hou , Xin Sun , Kun Zhou , Christian Lauterbach , Dinesh Manocha, Memory-Scalable GPU Spatial Hierarchy Construction, IEEE Transactions on Visualization and Computer Graphics, v.17 n.4, p.466-474, April 2011[doi>10.1109/TVCG.2010.88]
+Kensler, A., and Shirley, P. 2006. Optimizing ray-triangle intersection via automated search. InProceedings of the 2006 IEEE/EG Symposium on Interactive Ray Tracing, 33--38.
+Kim, S.-s., Nam, S.-w., Kim, D.-h., and Lee, I.-h. 2007. Hardware-accelerated ray-triangle intersection testing for high-performance collision detection.Journal of WSCG 15, 17--24.
+Kopta, D., Spjut, J., Brunvand, E., and Davis, A. 2010. Efficient MIMD architectures for high-performance ray tracing. InICCD 2010: Proceedings of the 28th IEEE International Conference on Computer Design, 9--16.
+Samuli Laine , Tero Karras, Two methods for fast ray-cast ambient occlusion, Proceedings of the 21st Eurographics conference on Rendering, June 28-30, 2010, Saarbrücken, Germany[doi>10.1111/j.1467-8659.2010.01728.x]
+David J. MacDonald , Kellogg S. Booth, Heuristics for ray tracing using space subdivision, The Visual Computer: International Journal of Computer Graphics, v.6 n.3, p.153-166, 1990[doi>10.1007/BF01911006]
+Aqeel Mahesri , Daniel Johnson , Neal Crago , Sanjay J. Patel, Tradeoffs in designing accelerator architectures for visual computing, Proceedings of the 41st annual IEEE/ACM International Symposium on Microarchitecture, p.164-175, November 08-12, 2008[doi>10.1109/MICRO.2008.4771788]
+Tomas Möller , Ben Trumbore, Fast, minimum storage ray-triangle intersection, Journal of Graphics Tools, v.2 n.1, p.21-28, 1997[doi>10.1080/10867651.1997.10487468]
+Naveen Muralimanohar , Rajeev Balasubramonian , Norm Jouppi, Optimizing NUCA Organizations and Wiring Alternatives for Large Caches with CACTI 6.0, Proceedings of the 40th Annual IEEE/ACM International Symposium on Microarchitecture, p.3-14, December 01-05, 2007[doi>10.1109/MICRO.2007.30]
+Jae-Ho Nah , Jeong-Soo Park , Jin-Woo Kim , Chanmin Park , Tack-Don Han, Ordered depth-first layouts for ray tracing, ACM SIGGRAPH ASIA 2010 Sketches, p.1-2, December 15-18, 2010, Seoul, Republic of Korea[doi>10.1145/1899950.1900005]
+Steven G. Parker , James Bigler , Andreas Dietrich , Heiko Friedrich , Jared Hoberock , David Luebke , David McAllister , Morgan McGuire , Keith Morley , Austin Robison , Martin Stich, OptiX: a general purpose ray tracing engine, ACM Transactions on Graphics (TOG), v.29 n.4, July 2010[doi>10.1145/1778765.1778803]
+Matt Pharr , Greg Humphreys, Physically Based Rendering, Second Edition: From Theory To Implementation, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2010
+Scott Rixner , William J. Dally , Ujval J. Kapasi , Peter Mattson , John D. Owens, Memory access scheduling, Proceedings of the 27th annual international symposium on Computer architecture, p.128-138, June 2000, Vancouver, British Columbia, Canada[doi>10.1145/339647.339668]
+Jörg Schmittler , Sven Woop , Daniel Wagner , Wolfgang J. Paul , Philipp Slusallek, Realtime ray tracing of dynamic scenes on an FPGA chip, Proceedings of the ACM SIGGRAPH/EUROGRAPHICS conference on Graphics hardware, August 29-30, 2004, Grenoble, France[doi>10.1145/1058129.1058143]
+Larry Seiler , Doug Carmean , Eric Sprangle , Tom Forsyth , Michael Abrash , Pradeep Dubey , Stephen Junkins , Adam Lake , Jeremy Sugerman , Robert Cavin , Roger Espasa , Ed Grochowski , Toni Juan , Pat Hanrahan, Larrabee: a many-core x86 architecture for visual computing, ACM Transactions on Graphics (TOG), v.27 n.3, August 2008[doi>10.1145/1360612.1360617]
+Shevtsov, M., Soupikov, A., and Kapustin, A. 2007. Raytriangle intersection algorithm for modern CPU architecture. InProceedings of GraphiCon 2007, 33--39.
+Soupikov, A., Shevtsov, M., and Kapustin, A. 2008. Improving kd-tree quality at a reasonable construction cost. InProceedings of the 2008 IEEE/EG Symposium on Interactive Ray Tracing, 67--72.
+Josef Spjut , Andrew Kensler , Daniel Kopta , Erik Brunvand, TRaX: a multicore hardware architecture for real-time ray tracing, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.28 n.12, p.1802-1815, December 2009[doi>10.1109/TCAD.2009.2028981]
+John A. Tsakok, Faster incoherent rays: Multi-BVH ray stream tracing, Proceedings of the Conference on High Performance Graphics 2009, August 01-03, 2009, New Orleans, Louisiana[doi>10.1145/1572769.1572793]
+Wald, I., Slusallek, P., Benthin, C., and Wagner, M. 2001. Interactive rendering with coherent ray tracing.Computer Graphics Forum (Proceedings of EUROGRAPHICS 2001) 20, 3, 153--164.
+Ingo Wald , Solomon Boulos , Peter Shirley, Ray tracing deformable scenes using dynamic bounding volume hierarchies, ACM Transactions on Graphics (TOG), v.26 n.1, p.6-es, January 2007[doi>10.1145/1189762.1206075]
+Wald, I. 2004.Realtime Ray Tracing and Interactive Global Illumination. PhD thesis, Sarrland University.
+Ingo Wald, Fast Construction of SAH BVHs on the Intel Many Integrated Core (MIC) Architecture, IEEE Transactions on Visualization and Computer Graphics, v.18 n.1, p.47-57, January 2012[doi>10.1109/TVCG.2010.251]
+Turner Whitted, An improved illumination model for shaded display, Communications of the ACM, v.23 n.6, p.343-349, June 1980[doi>10.1145/358876.358882]
+Sven Woop , Jörg Schmittler , Philipp Slusallek, RPU: a programmable ray processing unit for realtime ray tracing, ACM Transactions on Graphics (TOG), v.24 n.3, July 2005[doi>10.1145/1073204.1073211]
+Woop, S., Brunvand, E., and Slusallek, P. 2006. Estimating performance of a ray-tracing ASIC design. InProceedings of the 2006 IEEE/EG Symposium on Interactive Ray Tracing, 7--14.
+Sven Woop , Gerd Marmitt , Philipp Slusallek, B-KD trees for hardware accelerated ray tracing of dynamic scenes, Proceedings of the 21st ACM SIGGRAPH/EUROGRAPHICS symposium on Graphics hardware, September 03-04, 2006, Vienna, Austria[doi>10.1145/1283900.1283912]
+Woop, S. 2004.A Ray Tracing Hardware Architecture for Dynamic Scenes. Master's thesis, Sarrland University.
+Woop, S. 2007.A Programmable Hardware Architecture for Realtime Ray Tracing of Coherent Dynamic Scenes. PhD thesis, Sarrland University.

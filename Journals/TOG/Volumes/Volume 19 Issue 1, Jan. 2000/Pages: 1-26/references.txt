@@ -1,0 +1,33 @@
+Peter Atherton , Kevin Weiler , Donald Greenberg, Polygon shadow generation, Proceedings of the 5th annual conference on Computer graphics and interactive techniques, p.275-281, August 23-25, 1978[doi>10.1145/800248.807403]
+Uwe Behrens , Ralf Ratering, Adding shadows to a texture-based volume renderer, Proceedings of the 1998 IEEE symposium on Volume visualization, p.39-46, October 19-20, 1998, Research Triangle Park, North Carolina, USA[doi>10.1145/288126.288149]
+BERGERON, P. 1985. Shadow volumes for non-planar polygons: Extended abstract. In Proceedings of the Conference on Graphics Interface (May 1985), 417-418.
+BERGERON, P. 1986. A general version of Crow's shadow volumes. IEEE Comput. Graph. Appl. 6, 9 (Sept.), 17-28.
+J. Blinn, Me and My (Fake) Shadow, IEEE Computer Graphics and Applications, v.8 n.1, p.82-86, January 1988
+Jules Bloomenthal, Edge Inference with Applications to Antialiasing, Proceedings of the 10th annual conference on Computer graphics and interactive techniques, p.157-162, July 25-29, 1983, Detroit, Michigan, USA[doi>10.1145/800059.801145]
+BOUKNIGHT, W. AND KELLY, K. 1970. An algorithm for producing half-tone computer graphics presentations with shadows and movable light sources. In Proceedings of on AFIPS Spring Joint Computer Conference, AFIPS Press, Arlington, VA, 1-10.
+J Canny, A Computational Approach to Edge Detection, IEEE Transactions on Pattern Analysis and Machine Intelligence, v.8 n.6, p.679-698, June 1986[doi>10.1109/TPAMI.1986.4767851]
+Shenchang Eric Chen , Lance Williams, View interpolation for image synthesis, Proceedings of the 20th annual conference on Computer graphics and interactive techniques, p.279-288, August 02-06, 1993, Anaheim, CA[doi>10.1145/166117.166153]
+Norman Chin , Steven Feiner, Near real-time shadow generation using BSP trees, ACM SIGGRAPH Computer Graphics, v.23 n.3, p.99-106, July 1989[doi>10.1145/74334.74343]
+Yiorgos Chrysanthou , Mel Slater, Shadow volume BSP trees for computation of shadows in dynamic scenes, Proceedings of the 1995 symposium on Interactive 3D graphics, p.45-50, April 09-12, 1995, Monterey, California, USA[doi>10.1145/199404.199412]
+Franklin C. Crow, Shadow algorithms for computer graphics, Proceedings of the 4th annual conference on Computer graphics and interactive techniques, p.242-248, July 20-22, 1977, San Jose, California[doi>10.1145/563858.563901]
+Paul J. Diefenbach , Norman I. Badler, Multi-pass pipeline rendering: realism for dynamic environments, Proceedings of the 1997 symposium on Interactive 3D graphics, p.59-ff., April 27-30, 1997, Providence, Rhode Island, USA[doi>10.1145/253284.253308]
+George Drettakis , Eugene Fiume, A fast shadow algorithm for area light sources using backprojection, Proceedings of the 21st annual conference on Computer graphics and interactive techniques, p.223-230, July 1994[doi>10.1145/192161.192207]
+Gershon Elber , Elaine Cohen, Adaptive isocurve-based rendering for freeform surfaces, ACM Transactions on Graphics (TOG), v.15 n.3, p.249-263, July 1996[doi>10.1145/231731.231736]
+H. Fuchs , J. Goldfeather , J. P. Hultquist , S. Spach , J. D. Austin , F. P. Brooks, Jr. , J. G. Eyles , J. Poulton, Fast spheres, shadows, textures, transparencies, and image enhancements in pixel, Advances in computer graphics I, Springer-Verlag New York, Inc., New York, NY, 1986
+HAINES, E. AND GREENBERG, D. 1986. The light buffer: A shadow-testing accelerator. IEEE Comput. Graph. Appl. 6, 9 (Sept.), 6-16.
+HEIDRICH, W. 1999. High-quality shading and lighting for hardware-accelerated rendering. Ph.D. Dissertation. University of Erlangen, Erlangen, Germany.
+JANSEN, F. AND VAN DER ZALM, A. 1991. A shadow algorithm for CSG. Comput. Graph. 15, 2, 237-247.
+Alexander Keller, Instant radiosity, Proceedings of the 24th annual conference on Computer graphics and interactive techniques, p.49-56, August 1997[doi>10.1145/258734.258769]
+KILGARD, M. 1997. OpenGL-based real-time shadows, http://reality.sgi.com/mjk_asd/tips/rts/.
+MARR, D. AND HILDRETH, E. 1980. Theory of edge detection. Proc. Roy. Soc. London B207, 187-217.
+William T. Reeves , David H. Salesin , Robert L. Cook, Rendering antialiased shadows with depth maps, ACM SIGGRAPH Computer Graphics, v.21 n.4, p.283-291, July 1987[doi>10.1145/37402.37435]
+ROSSIGNAC, J. AND REQUICHA, A. 1986. Depth-buffering display techniques for constructive solid geometry. IEEE Comput. Graph. Appl. 6, 9 (Sept.), 29-39.
+Mark Segal , Carl Korobkin , Rolf van Widenfelt , Jim Foran , Paul Haeberli, Fast shadows and lighting effects using texture mapping, ACM SIGGRAPH Computer Graphics, v.26 n.2, p.249-252, July 1992[doi>10.1145/142920.134071]
+Cyril Soler , François X. Sillion, Fast calculation of soft shadow textures using convolution, Proceedings of the 25th annual conference on Computer graphics and interactive techniques, p.321-332, July 1998[doi>10.1145/280814.280927]
+A. James Stewart , Sherif Ghali, Fast computation of shadow boundaries using spatial coherence and backprojections, Proceedings of the 21st annual conference on Computer graphics and interactive techniques, p.231-238, July 1994[doi>10.1145/192161.192210]
+Leonard Wanger, The effect of shadow quality on the perception of spatial relationships in computer generated imagery, Proceedings of the 1992 symposium on Interactive 3D graphics, p.39-42, June 1992, Cambridge, Massachusetts, USA[doi>10.1145/147156.147161]
+K. Weiler , P. Atherton, Hidden surface removal using polygon area sorting, Tutorial: computer graphics; image synthesis, Computer Science Press, Inc., New York, NY, 1988
+Rüdiger Westermann , Ove Sommer , Thomas Ertl, Decoupling polygon rendering from geometry using rasterization hardware, Proceedings of the 10th Eurographics conference on Rendering, June 21-23, 1999, Granada, Spain[doi>10.2312/EGWR/EGWR99/045-056]
+WIEGAND, T. 1996. Interactive rendering of CSG models. Comput. Graph. Forum 15, 4, 249-261.
+Andrew Woo, Efficient Shadow Computations in Ray Tracing, IEEE Computer Graphics and Applications, v.13 n.5, p.78-83, September 1993[doi>10.1109/38.232102]
+Andrew Woo , Pierre Poulin , Alain Fournier, A Survey of Shadow Algorithms, IEEE Computer Graphics and Applications, v.10 n.6, p.13-32, November 1990[doi>10.1109/38.62693]

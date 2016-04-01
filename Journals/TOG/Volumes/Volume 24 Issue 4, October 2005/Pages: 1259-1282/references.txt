@@ -1,0 +1,54 @@
+Alliez, P. and Desbrun, M. 2001. Valence-driven connectivity encoding for 3D meshes. Comput. Graph. For. 20, 3, 480--489.
+Alliez, P. and Gotsman, C. 2005. Recent advances in compression of 3D meshes. In Advances in Multiresolution for Geometric Modelling, N. Dodgson, M. Floater, and M. Sabin, Eds. Springer-Verlag, 3--26.
+Owe Axelsson, Iterative solution methods, Cambridge University Press, New York, NY, 1995
+Barret, R., Berry, M., Chan, T., Demmel, J., Donato, J., Dongarra, J., Eijkhout, V., Pozo, R., Romine, C., and van der Vorst, H. 1993. Templates for the Solution of Linear Systems: Building Blocks for Iterative Methods. SIAM, Philadeplphia, PA.
+Mirela Ben-Chen , Craig Gotsman, On the optimality of spectral compression of mesh data, ACM Transactions on Graphics (TOG), v.24 n.1, p.60-80, January 2005[doi>10.1145/1037957.1037961]
+Marshall Bern , John R. Gilbert , Bruce Hendrickson , Nhat Nguyen , Sivan Toledo, Support-Graph Preconditioners, SIAM Journal on Matrix Analysis and Applications, v.27 n.4, p.930-951, 2006[doi>10.1137/S0895479801384019]
+Björck, Å. 1996. Numerical Methods for Least Squares Problems. SIAM, Philadelphia, PA.
+Björck, Å. and Elfving, T. 1979. Accelerated projection methods for computing pseudoinverse solutions of systems of linear equations. BIT 19, 145--163.
+Boman, E. G., Chen, D., Hendrickson, B., and Toledo, S. 2004. Maximum-weight-basis preconditioners. Numer. Linear Algeb. Appl. 11, 695--721.
+Erik G. Boman , Bruce Hendrickson, Support Theory for Preconditioning, SIAM Journal on Matrix Analysis and Applications, v.25 n.3, p.694-717, 2003[doi>10.1137/S0895479801390637]
+Igor Brainman , Sivan Toledo, Nested-Dissection Orderings for Sparse LU with Partial Pivoting, SIAM Journal on Matrix Analysis and Applications, v.23 n.4, p.998-1012, 2001[doi>10.1137/S0895479801385037]
+Brandt, A., McCormick, S. F., and Ruge, J. 1984. Algebraic multigrid (AMG) for sparse matrix equations. In Sparsity and its Applications, D. J. Evans, Ed. Cambridge University Press, Cambridge, UK. 257--284.
+William L. Briggs , Van Emden Henson , Steve F. McCormick, A multigrid tutorial: second edition, Society for Industrial and Applied Mathematics, Philadelphia, PA, 2000
+Chen, D. and Toledo, S. 2003. Vaidya's preconditioners: Implementation and experimental study. Electr. Trans. Numer. Anal. 16, 30--49.
+Peter H. Chou , Teresa H. Meng, Vertex Data Compression through Vector Quantization, IEEE Transactions on Visualization and Computer Graphics, v.8 n.4, p.373-382, October 2002[doi>10.1109/TVCG.2002.1044522]
+Chung, F. R. K. 1997. Spectral Graph Theory. American Methematical Society.
+Craig, E. J. 1955. The n-step iteration procedure. J. Math. Phys. 34, 65--73.
+Timothy A. Davis , John R. Gilbert , Stefan I. Larimore , Esmond G. Ng, A column approximate minimum degree ordering algorithm, ACM Transactions on Mathematical Software (TOMS), v.30 n.3, p.353-376, September 2004[doi>10.1145/1024074.1024079]
+Elfving, T. 1978. On the conjugate gradient method for solving linear least squares problems. Tech. rep. LiTH-MAT-R-78-3, Linköping University, Sweden.
+Fiedler, M. 1973. Algebraic connectivity of graphs. Czech. Math. J. 23, 298--305.
+George, J. A. and Heath, M. T. 1980. Solution of sparse linear least squares problems using Givens rotations. Linear Algeb. Appl. 34, 69--83.
+George, J. A. and Ng, E. G. 1983. On row and column orderings for sparse least squares problems. SIAM J. Numer. Anal. 20, 326--344.
+George, J. A. and Ng, E. G. 1986. Orthogonal reduction of sparse matrices to upper triangular form using Householder transformations. SIAM J. Sci. Statist. Comput. 7, 460--472.
+George, J. A. and Ng, E. G. 1988. On the complexity of sparse QR and LU factorization of finite-element matrices. SIAM J. Sci. Statist. Comput. 9, 849--861.
+Gene H. Golub , Charles F. Van Loan, Matrix computations (3rd ed.), Johns Hopkins University Press, Baltimore, MD, 1996
+Keith D. Gremban , Gary L. Miller , Marco Zagha, Performance evaluation of a new parallel preconditioner, Proceedings of the 9th International Symposium on Parallel Processing, p.65-69, April 25-28, 1995
+Gremban, K. D. 1996. Combinatorial preconditioners for sparse, symmetric, diagonally dominant linear systems. Ph.D. thesis, School of Computer Science, Carnegie Mellon University.
+Stephen Guattery , Gary L. Miller, Graph Embeddings and Laplacian Eigenvalues, SIAM Journal on Matrix Analysis and Applications, v.21 n.3, p.703-723, Feb.-March 2000[doi>10.1137/S0895479897329825]
+Gumhold, S. 2000. New bounds on the encoding of planar triangulations. Technical rep. WSI--2000--1, (Jan.) Wilhelm-Schickard-Institut für Informatik, University of Tübingen, Germany.
+Igor Guskov , Kiril Vidimče , Wim Sweldens , Peter Schröder, Normal meshes, Proceedings of the 27th annual conference on Computer graphics and interactive techniques, p.95-102, July 2000[doi>10.1145/344779.344831]
+Gustafsson, I. 1978. A class of first-order factorization methods. BIT 18, 142--156.
+Heggernes, P. and Matstoms, P. 1996. Finding good column orderings for sparse QR factorizations. Tech. rep. LiTH-MAT-1996-20, Department of Mathematics, Linköping University, Sweden.
+Nicholas J. Higham, Accuracy and Stability of Numerical Algorithms, Society for Industrial and Applied Mathematics, Philadelphia, PA, 2002
+Dror Irony , Gil Shklarski , Sivan Toledo, Parallel and fully recursive multifrontal sparse Cholesky, Future Generation Computer Systems, v.20 n.3, p.425-440, April 2004[doi>10.1016/j.future.2003.07.007]
+Zachi Karni , Craig Gotsman, Spectral compression of mesh geometry, Proceedings of the 27th annual conference on Computer graphics and interactive techniques, p.279-286, July 2000[doi>10.1145/344779.344924]
+George Karypis , Vipin Kumar, A Fast and High Quality Multilevel Scheme for Partitioning Irregular Graphs, SIAM Journal on Scientific Computing, v.20 n.1, p.359-392, Aug. 1998[doi>10.1137/S1064827595287997]
+Andrei Khodakovsky , Pierre Alliez , Mathieu Desbrun , Peter Schröder, Near-optimal connectivity encoding of 2-manifold polygon meshes, Graphical Models, v.64 n.3-4, p.147-168, May/July 2002[doi>10.1006/gmod.2002.0575]
+Andrei Khodakovsky , Peter Schröder , Wim Sweldens, Progressive geometry compression, Proceedings of the 27th annual conference on Computer graphics and interactive techniques, p.271-278, July 2000[doi>10.1145/344779.344922]
+Differential Coordinates for Interactive Mesh Editing, Proceedings of the Shape Modeling International 2004, p.181-190, June 07-09, 2004[doi>10.1109/SMI.2004.30]
+Meijerink, J. A. and van der Vorst H. A. 1977. An iterative solution method for linear systems of which the coefficient matrix is a symmetric M-matrix. Mathe. Computat. 31, 148--162.
+Christopher C. Paige , Michael A. Saunders, Algorithm 583: LSQR: Sparse Linear Equations and Least Squares Problems, ACM Transactions on Mathematical Software (TOMS), v.8 n.2, p.195-209, June 1982[doi>10.1145/355993.356000]
+Christopher C. Paige , Michael A. Saunders, LSQR: An Algorithm for Sparse Linear Equations and Sparse Least Squares, ACM Transactions on Mathematical Software (TOMS), v.8 n.1, p.43-71, March 1982[doi>10.1145/355984.355989]
+Alex Pothen , Horst D. Simon , Kan-Pu Liou, Partitioning sparse matrices with eigenvectors of graphs, SIAM Journal on Matrix Analysis and Applications, v.11 n.3, p.430-452, Jul. 1990[doi>10.1137/0611030]
+Vladimir Rotkin , Sivan Toledo, The design and implementation of a new out-of-core sparse cholesky factorization method, ACM Transactions on Mathematical Software (TOMS), v.30 n.1, p.19-46, March 2004[doi>10.1145/974781.974783]
+Y. Saad, Iterative Methods for Sparse Linear Systems, Society for Industrial and Applied Mathematics, Philadelphia, PA, 2003
+Saunders, M. A. 1995. Solution of sparse rectangular systems using LSQR and CRAIG. BIT 35, 588--604.
+Olga Sorkine , Daniel Cohen-Or , Dror Irony , Sivan Toledo, Geometry-Aware Bases for Shape Approximation, IEEE Transactions on Visualization and Computer Graphics, v.11 n.2, p.171-180, March 2005[doi>10.1109/TVCG.2005.33]
+Olga Sorkine , Daniel Cohen-Or , Sivan Toledo, High-pass quantization for mesh encoding, Proceedings of the 2003 Eurographics/ACM SIGGRAPH symposium on Geometry processing, June 23-25, 2003, Aachen, Germany
+Daniel A. Spielman , Shang-Hua Teng, Solving Sparse, Symmetric, Diagonally-Dominant Linear Systems in Time 0(m1.31), Proceedings of the 44th Annual IEEE Symposium on Foundations of Computer Science, p.416, October 11-14, 2003
+Toledo, S. 2003. Taucs: A Library of Sparse Linear Solvers, version 2.2. Tel-Aviv University, Available at http://www.tau.ac.il/~stoledo/taucs/.
+Touma, C. and Gotsman, C. 1998. Triangle mesh compression. In Graphics Interface. 26--34.
+Trefethen, L. N. and Bau, III, D. 2000. Numerical Linear Algebra. SIAM, Philadelphia, PA.
+Vaidya, P. M. 1991. Solving linear equations with symmetric diagonally dominant matrices by constructing good preconditioners. Unpublished manuscript. Manuscript was presented at the IMA Workshop on Graph Theory and Sparse Matrix Computation, Oct., Minneapolis, MN.
+R. Clint Whaley , David Whalley, Automated empirical optimization of high performance floating point kernels, Florida State University, Tallahassee, FL, 2004

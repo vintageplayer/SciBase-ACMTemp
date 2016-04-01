@@ -1,0 +1,48 @@
+Fabian Aiteanu, Patrick Degener, and Reinhard Klein. 2010. Efficient non-linear editing of large point clouds. In Proceedings of the International Conference on Computer Graphics, Visualization and Computer Vision (WSCG'10).
+Hans C. Andersen. 1983. A velocity version of the shake algorithm for molecular dynamics calculations. J. Comput. Phys. 52, 24--34.
+Stuart S. Antman. 1995. Nonlinear problems of elasticity. Appl. Math. Sci. 107.
+W. E. Arnoldi. 1951. The principle of minimized iterations in the solution of the matrix eigenvalue problem. Quart. Appl. Math. 9, 17--29.
+David Baraff , Andrew Witkin, Large steps in cloth simulation, Proceedings of the 25th annual conference on Computer graphics and interactive techniques, p.43-54, July 1998[doi>10.1145/280814.280821]
+T. Belytschko and B. Hsieh. 1979. Application of higher order corotational stretch theories to nonlinear finite element analysis. Comput. Struct. 10, 175--182.
+Miklós Bergou , Max Wardetzky , Stephen Robinson , Basile Audoly , Eitan Grinspun, Discrete elastic rods, ACM SIGGRAPH 2008 papers, August 11-15, 2008, Los Angeles, California[doi>10.1145/1399504.1360662]
+David Brydon , John Pearson , Michael Marder, Solving stiff differential equations with method of patches, Journal of Computational Physics, v.144 n.2, p.280-298, Aug. 10, 1998[doi>10.1006/jcph.1998.6008]
+J. Certaine. 1960. The solution of ordinary differential equations with large time constants. In Mathematical Methods for Digital Computers, Wiley, New York, 128--132.
+C. F. Curtiss and J. O. Hirschfelder. 1952. Integration of stiff equations. Proc. Nat. Acad. Sci. Unit. Stat. Amer. 38, 3, 235--243.
+P. Deuflhard. 1979. A study of extrapolation methods based on multi-step schemes without parasititc solutions. J. App. Math. Phys. 30, 177--189.
+Bernd Eberhardt, Olaf Etzmuss, and Michael Hauth. 2000. Implicit-explicit schemes for fast animation with particle systems. In Proceedings of the 11<sup>th</sup> EuroGraphics Workshop on Computer Animation and Simulation (EGCAS'00). Springer, New York, 137--151.
+Olaf Etzmuβ , Michael Keckeisen , Wolfgang Straβer, A Fast Finite Element Solution for Cloth Modelling, Proceedings of the 11th Pacific Conference on Computer Graphics and Applications, p.244, October 08-10, 2003
+A. Friedli. 1978. Verallgemeinerte Runge-Kutta verfahren zur losung steifer differentialgleichungen. In Lecture Notes in Mathematics, vol. 631, 214--219.
+B. García-Archilla , J. M. Sanz-Serna , R. D. Skeel, Long-Time-Step Methods for Oscillatory Differential Equations, SIAM Journal on Scientific Computing, v.20 n.3, p.930-963, May 1999[doi>10.1137/S1064827596313851]
+Walter Gautschi. 1961. Numerical integration of ordinary differential equations based on trigonometric polynomials. Numerische Mathematik 3, 381--397.
+Rony Goldenthal , David Harmon , Raanan Fattal , Michel Bercovier , Eitan Grinspun, Efficient simulation of inextensible cloth, ACM SIGGRAPH 2007 papers, August 05-09, 2007, San Diego, California[doi>10.1145/1275808.1276438]
+Michael Griebel , Stephan Knapek , Gerhard Zumbusch, Numerical Simulation in Molecular Dynamics: Numerics, Algorithms, Parallelization, Applications, Springer Publishing Company, Incorporated, 2007
+Volker Grimm and Marlis Hochbruck. 2006. Error analysis of exponential integrators for oscillatory second-order differential equations. J. Phys. A: Math. Gen. 39, 5495--5507.
+Ernst Hairer , Christian Lubich, Long-Time Energy Conservation of Numerical Methods for Oscillatory Differential Equations, SIAM Journal on Numerical Analysis, v.38 n.2, p.414-441, 2000[doi>10.1137/S0036142999353594]
+E. Hairer, C. Lubich, and G. Wanner. 2006. Geometric Numerical Integration: Structure-Preserving Algorithms for Oscillatory Differential Equations. Springer Series in Computational Mathematics.
+Michael Hauth and Olaf Etzmuss. 2001. A high performance solver for the animation of deformable objects using advanced numerical methods. Comput. Graph. Forum 20, 319--328.
+Joseph Hersch. 1958. Contribution a la methode des equations aux differences. Zeitschrift Angewandte Mathematik Physik 9, 129--180.
+Marlis Hochbruck , Christian Lubich, On Krylov Subspace Approximations to the Matrix Exponential Operator, SIAM Journal on Numerical Analysis, v.34 n.5, p.1911-1925, Oct. 1997[doi>10.1137/S0036142995280572]
+Marlis Hochbruck and Christian Lubich. 1999. A gautschi-type method for oscillatory second-order differential equations. Numer. Math. 83, 3, 403-426.
+Marlis Hochbruck , Christian Lubich , Hubert Selhofer, Exponential Integrators for Large Systems of Differential Equations, SIAM Journal on Scientific Computing, v.19 n.5, p.1552-1574, Sept. 1998[doi>10.1137/S1064827595295337]
+Marlis Hochbruck and Alexander Ostermann. 2010. Exponential integrators. Acta Numerica 19, 209--286.
+G. Irving , J. Teran , R. Fedkiw, Invertible finite elements for robust simulation of large deformation, Proceedings of the 2004 ACM SIGGRAPH/Eurographics symposium on Computer animation, August 27-29, 2004, Grenoble, France[doi>10.1145/1028523.1028541]
+Firas Khatib, Frank DiMaio, Seth Cooper, Maciej Kazmierczyk, Miroslaw Gilski, Szymon Krzywda, Helena Zabranska, Iva Pichova, James Thompson, Zoran Popović, Mariusz Jaskolski, and David Baker. 2011. Crystal structure of a monomeric retroviral protease solved by protein folding game players. Nat. Struct. Molec. Biol. 18, 10, 1175--1177.
+J. Lagrange. 1809. Supplement au Memoire sur la Theorie Generale de la Variation des Constantes Arbitraires, dans Tous les Problemes de la Mecanique. Memoires de la Classe des Sciences Mathematiques et Physiques.
+J. Lawson. 1967. Generalized runge-kutta processes for stable systems with large lipschitz constants. SIAM J. Numer. Anal. 4, 370--372.
+R. McLachlan and D. O'Neale. 2007. Implicit-explicit variational integration of highly oscillatory problems. Preprint N107052-HOP.
+Cleve Moler and Charles Van Loan. 1978. Nineteen dubious ways to compute the exponential of a matrix. SIAM Rev. 20, 801--836.
+Cleve Moler and Charles Van Loan. 2003. Nineteen dubious ways to compute the exponential of a matrix, twenty-five years later. SIAM Rev. 45, 1, 3--49.
+Matthias Müller , Julie Dorsey , Leonard McMillan , Robert Jagnow , Barbara Cutler, Stable real-time deformations, Proceedings of the 2002 ACM SIGGRAPH/Eurographics symposium on Computer animation, July 21-22, 2002, San Antonio, Texas[doi>10.1145/545261.545269]
+Andrew Nealen, Matthias Müller, Richard Keiser, Eddy Boxerman, and Mark Carlson. 2006. Physically based deformable models in computer graphics. Comput. Graph. Forum 25, 809--836.
+S. Nørsett. 1969. An a-stable modification of the adams-bashforth methods. In Lecture Notes in Mathematics, vol. 109, 214--219.
+David A. Pope, An exponential method of numerical integration of ordinary differential equations, Communications of the ACM, v.6 n.8, p.491-493, Aug. 1963[doi>10.1145/366707.367592]
+RCSB PDB. 2013. RCSB protein data bank. http://www.rcsb.org/pdb/static.do&quest;p=general_information/news_publications/articles/index.html.
+H. H. Rosenbrock. 1963. Some general implicit processes for the numerical solution of differential equations. Comput. J. 5, 4, 329--330.
+Y. Saad, Analysis of some Krylov subspace approximations to the matrix exponential operator, SIAM Journal on Numerical Analysis, v.29 n.1, p.209-228, Feb. 1992[doi>10.1137/0729014]
+Roger B. Sidje, Expokit: a software package for computing matrix exponentials, ACM Transactions on Mathematical Software (TOMS), v.24 n.1, p.130-156, March 1998[doi>10.1145/285861.285868]
+Stanford University. 2013. The stanford 3D scanning repository. http://graphics.stanford.edu/data/3Dscanrep/.
+Ari Stern and Eitan Grinspun. 2009. Implicit-explicit variational integration of highly oscillatory problems. Multiscale Model. Simul. 7, 1779--1794.
+Jonathan Su , Rahul Sheth , Ronald Fedkiw, Energy Conservation for the Simulation of Deformable Bodies, IEEE Transactions on Visualization and Computer Graphics, v.19 n.2, p.189-200, February 2013[doi>10.1109/TVCG.2012.132]
+Mark C. Surles, An algorithm with linear complexity for interactive, physically-based modeling of large proteins, Proceedings of the 19th annual conference on Computer graphics and interactive techniques, p.221-230, July 1992[doi>10.1145/133994.134065]
+Demetri Terzopoulos , John Platt , Alan Barr , Kurt Fleischer, Elastically deformable models, Proceedings of the 14th annual conference on Computer graphics and interactive techniques, p.205-214, August 1987[doi>10.1145/37401.37427]
+G. Wempner. 1969. Finite elements, finite rotations and small strains of flexible shells. Int. J. Solids Struct. 5, 117--153.

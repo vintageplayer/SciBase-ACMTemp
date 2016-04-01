@@ -1,0 +1,38 @@
+Cgal. Computational geometry algorithms library. http://www.cgal.org.
+GNU MP. the GNU MP bignum library. http://gmplib.org.
+Agarwal, P. and Sharir, M. 1998. Arrangements and their applications. In Handbook of Computational Geometry, Elsevier Science Publishers B.V. North-Holland, 49--119.
+Boris Aronov , Micha Sharir , Boaz Tagansky, The Union of Convex Polyhedra in Three Dimensions, SIAM Journal on Computing, v.26 n.6, p.1670-1688, Dec. 1997[doi>10.1137/S0097539793250755]
+Hichem Barki , Florence Denis , Florent Dupont, Contributing vertices-based Minkowski sum computation of convex polyhedra, Computer-Aided Design, v.41 n.7, p.525-538, July, 2009[doi>10.1016/j.cad.2009.03.008]
+Barki, H., Denis, F., and Dupont, F. 2009b. Contributing vertices-based minkowski sum of a non-convex polyhedron without fold and a convex polyhedron. In Proceedings of the IEEE International Conference on Shape Modeling and Applications (SMI'09). IEEE Computer Society, 73--80.
+Basch, J., Guibas, L., Ramkumar, G., and Ramshaw, L. 1996. Polyhedral tracings and their convolution. In Proceedings of 2nd Workshop on the Algorithmic Foundations of Robotics. 171--184.
+Henk Bekker , J. B. T. M. Roerdink, An Efficient Algorithm to Calculate the Minkowski Sum of Convex 3D Polyhedra, Proceedings of the International Conference on Computational Sciences-Part I, p.619-628, May 28-30, 2001
+Bernard M. Chazelle, Convex decompositions of polyhedra, Proceedings of the thirteenth annual ACM symposium on Theory of computing, p.70-79, May 11-13, 1981, Milwaukee, Wisconsin, USA[doi>10.1145/800076.802459]
+Evans, R., OòConnor, M., and Rossignac, J. 1992. Construction of Minkowski sums and derivatives morphological combinations of arbitrary polyhedra in CAD/CAM systems. US Patent 5159512.
+Fabri, A. and Pion, S. 2006. A generic lazy evaluation scheme for exact geometric computations. In Proceedings of the 2nd Library-Centric Software Design.
+Efi Fogel , Dan Halperin, Exact and efficient construction of Minkowski sums of convex polyhedra with applications, Computer-Aided Design, v.39 n.11, p.929-940, November, 2007[doi>10.1016/j.cad.2007.05.017]
+Fogel, E., Wein, R., Zukerman, B., and Halperin, D. 2008. 2d regularized boolean set-operations. In CGAL User and Reference Manual, 3.4 Ed., C. E. Board, Ed.
+Ghosh, P. 1993. A unified computational framework for Minkowski operations. Comput. Graph. 17, 4, 357--378.
+Guibas, L. and Seidel, R. 1987. Computing convolutions by reciprocal search. Discrete Comput. Geom. 2, 175--193.
+Leo Guibas , Lyle Ramshaw , Jorge Stolfi, A kinetic framework for computational geometry, Proceedings of the 24th Annual Symposium on Foundations of Computer Science, p.100-111, November 07-09, 1983[doi>10.1109/SFCS.1983.1]
+Peter Hachenberger, Exact Minkowksi sums of polyhedra and exact and efficient decomposition of polyhedra in convex pieces, Proceedings of the 15th annual European conference on Algorithms, October 08-10, 2007, Eilat, Israel
+Hachenberger, P. and Kettner, L. 2008. 3d boolean operations on Nef polyhedra. In CGAL User and Reference Manual. 3.4 Ed., C. E. Board, Ed.
+Peter Hachenberger , Lutz Kettner , Kurt Mehlhorn, Boolean operations on 3D selective Nef complexes: Data structure, algorithms, optimized implementation and experiments, Computational Geometry: Theory and Applications, v.38 n.1-2, p.64-99, September, 2007[doi>10.1016/j.comgeo.2006.11.009]
+Halperin, D. 2002. Robust geometric computing in motion. Int. J. Robotics Res. 21, 3, 219--232.
+Stefan Hertel , Kurt Mehlhorn, Fast Triangulation of Simple Polygons, Proceedings of the 1983 International FCT-Conference on Fundamentals of Computation Theory, p.207-218, August 21-27, 1983
+Kaul, A. and Rossignac, J. 1992. Solid-interpolating deformations: construction and animation of PIPs. Comput. Graph. 16, 1, 107--115.
+Lutz Kettner, Using generic programming for designing a data structure for polyhedral surfaces, Computational Geometry: Theory and Applications, v.13 n.1, p.65-90, May 1999[doi>10.1016/S0925-7721(99)00007-3]
+Young J. Kim , Miguel A. Otaduy , Ming C. Lin , Dinesh Manocha, Fast penetration depth estimation using rasterization hardware and hierarchical refinement, Proceedings of the nineteenth annual symposium on Computational geometry, June 08-10, 2003, San Diego, California, USA[doi>10.1145/777792.777856]
+In-Kwon Lee , Myung-Soo Kim , Gershon Elber, Polynomial/rational approximation of Minkowski sum boundary curves, Graphical Models and Image Processing, v.60 n.2, p.136-165, March 1, 1998[doi>10.1006/gmip.1998.0464]
+Jyh-Ming Lien, Point-Based Minkowski Sum Boundary, Proceedings of the 15th Pacific Conference on Computer Graphics and Applications, p.261-270, October 29-November 02, 2007[doi>10.1109/PG.2007.47]
+Lien, J.-M. 2008. A simple method for computing Minkowski sum boundary in 3d using collision detection. In Proceedings of 8th Workshop on the Algorithmic Foundations of Robotics.
+T. Lozano-Perez, Spatial Planning: A Configuration Space Approach, IEEE Transactions on Computers, v.32 n.2, p.108-120, February 1983[doi>10.1109/TC.1983.1676196]
+Tomas Möller, A fast triangle-triangle intersection test, Journal of Graphics Tools, v.2 n.2, p.25-30, 1997[doi>10.1080/10867651.1997.10487472]
+Jean Serra, Image Analysis and Mathematical Morphology, Academic Press, Inc., Orlando, FL, 1983
+Serra, J. 1988. Image Analysis and Mathematical Morphology, vol. 2. Academic Press, New York.
+Tuzikov, A., Roerdink, J., and Heijmans, H. 2000. Similarity measures for convex polyhedra based on Minkowski addition. Patt. Recogn. 33, 979--995.
+Gokul Varadhan , Dinesh Manocha, Accurate Minkowski sum approximation of polyhedral models, Graphical Models, v.68 n.4, p.343-355, July 2006[doi>10.1016/j.gmod.2005.11.003]
+Weibel, C. Minkowski sums. http://roso.epfl.ch/cw/poly/public.php.
+Wein, R., Fogel, E., Zukerman, B., and Halperin, D. 2008. 2d arrangements. In CGAL User and Reference Manual 3.4 ed., C. E. Board, Ed. http://www.cgal.org/Manual/lotest/doc.html/cgal_manual/contents.html
+Wu, Y., Shah, J., and Davidson, J. 2003. Improvements to algorithms for computing the Minkowski sum of 3-polytopes. Comput. Aid. Des. 35, 13, 1181--1192.
+Yvinec, M. 2008. 2d triangulations. In CGAL User and Reference Manual 3.4 Ed., C. E. Board, Ed. http://www.cgal.org/Manual/lotest/doc.html/cgal_manual/contents.html
+Zomorodian, A. and Edelsbrunner, H. 2002. Fast software for box intersections. Int. J. Comput. Geom. Appl. 12, 1-2, 143--172.

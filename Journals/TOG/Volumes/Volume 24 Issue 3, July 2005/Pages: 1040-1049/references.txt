@@ -1,0 +1,33 @@
+Michael Ashikhmin , Peter Shirley, An anisotropic phong BRDF model, Journal of Graphics Tools, v.5 n.2, p.25-32, Dec. 2000[doi>10.1080/10867651.2000.10487522]
+Ronen Basri , David W. Jacobs, Lambertian Reflectance and Linear Subspaces, IEEE Transactions on Pattern Analysis and Machine Intelligence, v.25 n.2, p.218-233, February 2003[doi>10.1109/TPAMI.2003.1177153]
+Biri, V., Michelin, S., and Arques, D. 2004. Real-time single scattering with shadows. In In review http://igm.univ-mlv.fr/~biri/indexCA_en.html.
+James F. Blinn, Light reflection functions for simulation of clouds and dusty surfaces, Proceedings of the 9th annual conference on Computer graphics and interactive techniques, p.21-29, July 26-30, 1982, Boston, Massachusetts, USA[doi>10.1145/800064.801255]
+Chandrasekhar, S. 1960. Radiative Transfer. Oxford Univ. Press.
+Paul Debevec, Rendering synthetic objects into real scenes: bridging traditional and image-based graphics with global illumination and high dynamic range photography, Proceedings of the 25th annual conference on Computer graphics and interactive techniques, p.189-198, July 1998[doi>10.1145/280814.280864]
+Yoshinori Dobashi , Tsuyoshi Yamamoto , Tomoyuki Nishita, Interactive rendering of atmospheric scattering effects using graphics hardware, Proceedings of the ACM SIGGRAPH/EUROGRAPHICS conference on Graphics hardware, September 01-02, 2002, Saarbrucken, Germany
+Pat Hanrahan , Wolfgang Krueger, Reflection from layered surfaces due to subsurface scattering, Proceedings of the 20th annual conference on Computer graphics and interactive techniques, p.165-174, August 02-06, 1993, Anaheim, CA[doi>10.1145/166117.166139]
+Harris, M., and Lastra, A. 2001. Real-time cloud rendering. In Eurographics 2001, 76--84.
+Naty Hoffman , Arcot J. Preetham, Real-time light-atmosphere interactions for outdoor scenes, Graphics programming methods, Charles River Media, Inc., Rockland, MA, 2003
+Henrik Wann Jensen , Stephen R. Marschner , Marc Levoy , Pat Hanrahan, A practical model for subsurface light transport, Proceedings of the 28th annual conference on Computer graphics and interactive techniques, p.511-518, August 2001[doi>10.1145/383259.383319]
+Henrik Wann Jensen, Realistic image synthesis using photon mapping, A. K. Peters, Ltd., Natick, MA, 2001
+James T. Kajiya , Brian P Von Herzen, Ray tracing volume densities, Proceedings of the 11th annual conference on Computer graphics and interactive techniques, p.165-174, January 1984[doi>10.1145/800031.808594]
+Koschmeider, H. 1924. Theorie der horizontalen sichtweite. Beitr. Phys. freien Atm., 12.
+Xinguo Liu , Peter-Pike Sloan , Heung-Yeung Shum , John Snyder, All-frequency precomputed radiance transfer for glossy objects, Proceedings of the Fifteenth Eurographics conference on Rendering Techniques, June 21-23, 2004, Norrköping, Sweden[doi>10.2312/EGWR/EGSR04/337-344]
+Wojciech Matusik , Hanspeter Pfister , Matt Brand , Leonard McMillan, A data-driven reflectance model, ACM Transactions on Graphics (TOG), v.22 n.3, July 2003[doi>10.1145/882262.882343]
+Nelson L. Max, Atmospheric illumination and shadows, Proceedings of the 13th annual conference on Computer graphics and interactive techniques, p.117-124, August 1986[doi>10.1145/15922.15899]
+Max, N. 1994. Efficient light propagation for multiple anisotropic volume scattering. In Eurographics Rendering Workshop 94, 87--104.
+Eihachiro Nakamae , Kazufumi Kaneda , Takashi Okamoto , Tomoyuki Nishita, A lighting model aiming at drive simulators, Proceedings of the 17th annual conference on Computer graphics and interactive techniques, p.395-404, September 1990, Dallas, TX, USA[doi>10.1145/97879.97922]
+Srinivasa G. Narasimhan , Shree K. Nayar, Vision and the Atmosphere, International Journal of Computer Vision, v.48 n.3, p.233-254, July-August 2002[doi>10.1023/A:1016328200723]
+Srinivasa G. Narasimhan , Shree K. Nayar, Shedding light on the weather, Proceedings of the 2003 IEEE computer society conference on Computer vision and pattern recognition, p.665-672, June 18-20, 2003, Madison, Wisconsin
+Tomoyuki Nishita , Yasuhiro Miyawaki , Eihachiro Nakamae, A shading model for atmospheric scattering considering luminous intensity distribution of light sources, Proceedings of the 14th annual conference on Computer graphics and interactive techniques, p.303-310, August 1987[doi>10.1145/37401.37437]
+Pattanaik, S., and Mudur, S. 1993. Computation of global illumination in a participating medium by monte carlo simulation. Journal of Visualization and Computer Animation 4, 3, 133--152.
+A. J. Preetham , Peter Shirley , Brian Smits, A practical analytic model for daylight, Proceedings of the 26th annual conference on Computer graphics and interactive techniques, p.91-100, July 1999[doi>10.1145/311535.311545]
+Simon Premože , Michael Ashikhmin , Jerry Tessendorf , Ravi Ramamoorthi , Shree Nayar, Practical rendering of multiple scattering effects in participating media, Proceedings of the Fifteenth Eurographics conference on Rendering Techniques, June 21-23, 2004, Norrköping, Sweden[doi>10.2312/EGWR/EGSR04/363-374]
+Ravi Ramamoorthi , Pat Hanrahan, A signal-processing framework for inverse rendering, Proceedings of the 28th annual conference on Computer graphics and interactive techniques, p.117-128, August 2001[doi>10.1145/383259.383271]
+Ravi Ramamoorthi , Pat Hanrahan, Frequency space environment map rendering, ACM Transactions on Graphics (TOG), v.21 n.3, July 2002[doi>10.1145/566654.566611]
+Kirk Riley , David S. Ebert , Martin Kraus , Jerry Tessendorf , Charles Hansen, Efficient rendering of atmospheric phenomena, Proceedings of the Fifteenth Eurographics conference on Rendering Techniques, June 21-23, 2004, Norrköping, Sweden[doi>10.2312/EGWR/EGSR04/375-386]
+Holly E. Rushmeier , Kenneth E. Torrance, The zonal method for calculating light intensities in the presence of a participating medium, Proceedings of the 14th annual conference on Computer graphics and interactive techniques, p.293-302, August 1987[doi>10.1145/37401.37436]
+Sakas, G. 1990. Fast rendering of arbitrary distributed volume densities. In Eurographics 90, 519--530.
+Peter-Pike Sloan , Jan Kautz , John Snyder, Precomputed radiance transfer for real-time rendering in dynamic, low-frequency lighting environments, ACM Transactions on Graphics (TOG), v.21 n.3, July 2002[doi>10.1145/566654.566612]
+Stam, J. 1995. Multiple scattering as a diffusion process. In Eurographics Rendering Workshop 95, 41--50.
+Rui Wang , John Tran , David Luebke, All-frequency relighting of non-diffuse objects using separable BRDF approximation, Proceedings of the Fifteenth Eurographics conference on Rendering Techniques, June 21-23, 2004, Norrköping, Sweden[doi>10.2312/EGWR/EGSR04/345-354]

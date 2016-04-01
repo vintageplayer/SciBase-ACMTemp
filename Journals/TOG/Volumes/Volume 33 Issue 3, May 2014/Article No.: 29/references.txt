@@ -1,0 +1,49 @@
+Timo Aila , Tero Karras , Samuli Laine, On quality metrics of bounding volume hierarchies, Proceedings of the 5th High-Performance Graphics Conference, July 19-21, 2013, Anaheim, California[doi>10.1145/2492045.2492056]
+Timo Aila , Samuli Laine, Understanding the efficiency of ray traversal on GPUs, Proceedings of the Conference on High Performance Graphics 2009, August 01-03, 2009, New Orleans, Louisiana[doi>10.1145/1572769.1572792]
+T. Aila, S. Laine, and T. Karras. 2012. Understanding the efficiency of ray traversal on gpus: Kepler and fermi addendum. Tech. rep. NVR-2012-02, NVIDIA Corporation.
+Nathan A. Carr , Jesse D. Hall , John C. Hart, The ray engine, Proceedings of the ACM SIGGRAPH/EUROGRAPHICS conference on Graphics hardware, September 01-02, 2002, Saarbrucken, Germany
+C. Dachsbacher, J. Krivanek, M. Hasan, A. Arbree, B. Walter, and J. Novak. 2013. Scalable realistic rendering with many-light methods. Comput. Graph. Forum 33, 1, 88--104.
+Tim Foley , Jeremy Sugerman, KD-tree acceleration structures for a GPU raytracer, Proceedings of the ACM SIGGRAPH/EUROGRAPHICS conference on Graphics hardware, July 30-31, 2005, Los Angeles, California[doi>10.1145/1071866.1071869]
+I. Georgiev. 2012. Implementing vertex connection and merging. Tech. rep., Saarland University. November.
+Iliyan Georgiev , Jaroslav Křivánek , Tomáš Davidovič , Philipp Slusallek, Light transport simulation with vertex connection and merging, ACM Transactions on Graphics (TOG), v.31 n.6, November 2012[doi>10.1145/2366145.2366211]
+Toshiya Hachisuka , Henrik Wann Jensen, Stochastic progressive photon mapping, ACM Transactions on Graphics (TOG), v.28 n.5, December 2009[doi>10.1145/1618452.1618487]
+Toshiya Hachisuka , Henrik Wann Jensen, Parallel progressive photon mapping on GPUs, ACM SIGGRAPH ASIA 2010 Sketches, p.1-1, December 15-18, 2010, Seoul, Republic of Korea[doi>10.1145/1899950.1900004]
+Toshiya Hachisuka , Shinji Ogaki , Henrik Wann Jensen, Progressive photon mapping, ACM Transactions on Graphics (TOG), v.27 n.5, December 2008[doi>10.1145/1409060.1409083]
+Toshiya Hachisuka , Jacopo Pantaleoni , Henrik Wann Jensen, A path space extension for robust light transport simulation, ACM Transactions on Graphics (TOG), v.31 n.6, November 2012[doi>10.1145/2366145.2366210]
+V. Havran. 2000. Heuristic ray shooting algorithms. Ph.D. thesis, Faculty of Electronic Engineering, Czech Technical University in Prague.
+Qiming Hou , Xin Sun , Kun Zhou , Christian Lauterbach , Dinesh Manocha, Memory-Scalable GPU Spatial Hierarchy Construction, IEEE Transactions on Visualization and Computer Graphics, v.17 n.4, p.466-474, April 2011[doi>10.1109/TVCG.2010.88]
+B. Jenkins. 1997. Hash functions. Dr. Dobbs J. 22, 9.
+Henrik Wann Jensen, Realistic image synthesis using photon mapping, A. K. Peters, Ltd., Natick, MA, 2001
+James T. Kajiya, The rendering equation, Proceedings of the 13th annual conference on Computer graphics and interactive techniques, p.143-150, August 1986[doi>10.1145/15922.15902]
+Javor Kalojanov , Philipp Slusallek, A parallel algorithm for construction of uniform grids, Proceedings of the Conference on High Performance Graphics 2009, August 01-03, 2009, New Orleans, Louisiana[doi>10.1145/1572769.1572773]
+Tero Karras , Timo Aila, Fast parallel construction of high-quality bounding volume hierarchies, Proceedings of the 5th High-Performance Graphics Conference, July 19-21, 2013, Anaheim, California[doi>10.1145/2492045.2492055]
+Timo Aila , Samuli Laine, Understanding the efficiency of ray traversal on GPUs, Proceedings of the Conference on High Performance Graphics 2009, August 01-03, 2009, New Orleans, Louisiana[doi>10.1145/1572769.1572792]
+Alexander Keller, Instant radiosity, Proceedings of the 24th annual conference on Computer graphics and interactive techniques, p.49-56, August 1997[doi>10.1145/258734.258769]
+Claude Knaus , Matthias Zwicker, Progressive photon mapping: A probabilistic approach, ACM Transactions on Graphics (TOG), v.30 n.3, p.1-13, May 2011[doi>10.1145/1966394.1966404]
+Jaroslav Krivanek , Milos Hasan , Adam Arbree , Carsten Dachsbacher , Alexander Keller , Bruce Walter, Optimizing realistic rendering with many-light methods, ACM SIGGRAPH 2012 Courses, p.1-217, August 05-09, 2012, Los Angeles, California[doi>10.1145/2343483.2343490]
+E. LaFortune and Y. D. Willems. 1993. Bi-directional path tracing. In Proceedings of the CompuGraphics Conference.
+Samuli Laine , Tero Karras , Timo Aila, Megakernels considered harmful: wavefront path tracing on GPUs, Proceedings of the 5th High-Performance Graphics Conference, July 19-21, 2013, Anaheim, California[doi>10.1145/2492045.2492060]
+C. Lauterbach, M. Garland, S. Sengupta, D. Luebke, and D. Manocha. 2009. Fast bvh construction on gpus. Comput. Graph. Forum 28, 375--384.
+J. Novak, V. Havran, and C. Dachsbacher. 2010. Path regeneration for interactive path tracing. In Eurographics Short Papers. 61--64.
+NVIDIA. 2011. Fermi compute architecture whitepaper. www.nvidia.com/content/PDF/fermi-white-papers/NVIDIA_Fermi_Compute_Architecture _Whitepaper.pdf.
+NVIDIA. 2012a. CUDA Programming Guide 5.0. NVIDIA.
+NVIDIA. 2012b. NVIDIA geforce gtx 680 whitepaper. www.geforce.com/Active/en_US/pdf/GeForce-GTX-680-Whitepaper-FINAL.pdf.
+A. Pajot, L. Barthe, M. Paulin, and P. Poulin. 2011. Combinatorial bidirectional path-tracing for efficient hybrid cpu/gpu rendering. Comput. Graph. Forum 30, 315--324.
+J. Pantaleoni , D. Luebke, HLBVH: hierarchical LBVH construction for real-time ray tracing of dynamic geometry, Proceedings of the Conference on High Performance Graphics, June 25-27, 2010, Saarbrucken, Germany
+Steven G. Parker , James Bigler , Andreas Dietrich , Heiko Friedrich , Jared Hoberock , David Luebke , David McAllister , Morgan McGuire , Keith Morley , Austin Robison , Martin Stich, OptiX: a general purpose ray tracing engine, ACM Transactions on Graphics (TOG), v.29 n.4, July 2010[doi>10.1145/1778765.1778803]
+S. Popov, J. Gunther, H.-P. Seidel, and P. Slusallek. 2007. Stackless kd-tree traversal for high performance gpu ray tracing. Comput. Graph. Forum 26, 415--424.
+Timothy J. Purcell , Ian Buck , William R. Mark , Pat Hanrahan, Ray tracing on programmable graphics hardware, ACM Transactions on Graphics (TOG), v.21 n.3, July 2002[doi>10.1145/566654.566640]
+Timothy J. Purcell , Craig Donner , Mike Cammarano , Henrik Wann Jensen , Pat Hanrahan, Photon mapping on programmable graphics hardware, Proceedings of the ACM SIGGRAPH/EUROGRAPHICS conference on Graphics hardware, July 26-27, 2003, San Diego, California
+Tobias Ritschel , Carsten Dachsbacher , Thorsten Grosch , Jan Kautz, The State of the Art in Interactive Global Illumination, Computer Graphics Forum, v.31 n.1, p.160-188, February 2012[doi>10.1111/j.1467-8659.2012.02093.x]
+Shubhabrata Sengupta , Mark Harris , Yao Zhang , John D. Owens, Scan primitives for GPU computing, Proceedings of the 22nd ACM SIGGRAPH/EUROGRAPHICS symposium on Graphics hardware, August 04-05, 2007, San Diego, California
+Martin Stich , Heiko Friedrich , Andreas Dietrich, Spatial splits in bounding volume hierarchies, Proceedings of the Conference on High Performance Graphics 2009, August 01-03, 2009, New Orleans, Louisiana[doi>10.1145/1572769.1572771]
+Dietger van Antwerpen, Improving SIMD efficiency for parallel Monte Carlo light transport on the GPU, Proceedings of the ACM SIGGRAPH Symposium on High Performance Graphics, August 05-07, 2011, Vancouver, British Columbia, Canada[doi>10.1145/2018323.2018330]
+D. van Antwerpen. 2011b. Unbiased physically based rendering on the gpu. M.S. thesis, Delft University of Technology, The Netherlands.
+E. Veach and L. Guibas. 1994. Bidirectional estimations for light transport. In Proceedings of the Eurographics Rendering Workshop. 147--162.
+Eric Veach , Leonidas J. Guibas, Optimally combining sampling techniques for Monte Carlo rendering, Proceedings of the 22nd annual conference on Computer graphics and interactive techniques, p.419-428, September 1995[doi>10.1145/218380.218498]
+Jeffrey S. Vitter, Random sampling with a reservoir, ACM Transactions on Mathematical Software (TOMS), v.11 n.1, p.37-57, March 1985[doi>10.1145/3147.3165]
+J. Vorba. 2011. Optimal strategy for connecting light paths in bidirectional methods for global illumination computation. M.S. thesis, Charles University in Prague.
+I. Wald, P. Slusallek, C. Benthin, and M. Wagner. 2001. Interactive rendering with coherent ray tracing. Comput. Graph. Forum 20, 153--165.
+Sven Woop , Louis Feng , Ingo Wald , Carsten Benthin, Embree ray tracing kernels for CPUs and the Xeon Phi architecture, ACM SIGGRAPH 2013 Talks, July 21-25, 2013, Anaheim, California[doi>10.1145/2504459.2504515]
+Fahad Zafar , Marc Olano , Aaron Curtis, GPU random numbers via the tiny encryption algorithm, Proceedings of the Conference on High Performance Graphics, June 25-27, 2010, Saarbrucken, Germany
+Kun Zhou , Qiming Hou , Rui Wang , Baining Guo, Real-time KD-tree construction on graphics hardware, ACM Transactions on Graphics (TOG), v.27 n.5, December 2008[doi>10.1145/1409060.1409079]

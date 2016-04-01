@@ -1,0 +1,49 @@
+Anthony A. Apodaca , Larry Gritz , Brian A. Barsky, Advanced RenderMan: Creating CGI for Motion Picture, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1999
+James Arvo , David Kirk, Particle transport and image synthesis, Proceedings of the 17th annual conference on Computer graphics and interactive techniques, p.63-66, September 1990, Dallas, TX, USA[doi>10.1145/97879.97886]
+Antoine Boudet , Paul Pitot , David Pratmarty , Mathias Paulin, Photon Splatting for participating media, Proceedings of the 3rd international conference on Computer graphics and interactive techniques in Australasia and South East Asia, November 29-December 02, 2005, Dunedin, New Zealand[doi>10.1145/1101389.1101430]
+Cerezo, E., Pérez, F., Pueyo, X., Seron, F. J., and Sillion, F. X. 2005. A survey on participating media rendering techniques. The Vis. Comput. 21, 5.
+Chandrasekar, S. 1960. Radiative Transfer. Dover Publications, New York.
+Coleman, W. 1968. Mathematical verification of a certain Monte Carlo sampling technique and applications of the technique to radiation transport problems. Nucl. Sci. Engin. 32, 76--81.
+Manfred Ernst , Tomas Akenine-Möller , Henrik Wann Jensen, Interactive rendering of caustics using interpolated warped volumes, Proceedings of Graphics Interface 2005, May 09-11, 2005, Victoria, British Columbia
+B. Fabianowski , J. Dingliana, Interactive global photon mapping, Proceedings of the Twentieth Eurographics conference on Rendering, June 29-July 01, 2009, Girona, Spain[doi>10.1111/j.1467-8659.2009.01492.x]
+Vlastimil Havran , Jiří Bittner , Robert Herzog , Hans-Peter Seidel, Ray maps for global illumination, Proceedings of the Sixteenth Eurographics conference on Rendering Techniques, June 29-July 01, 2005, Konstanz, Germany[doi>10.2312/EGWR/EGSR05/043-054]
+Miloš Hašan , Jaroslav Křivánek , Bruce Walter , Kavita Bala, Virtual spherical lights for many-light rendering of glossy scenes, ACM Transactions on Graphics (TOG), v.28 n.5, December 2009[doi>10.1145/1618452.1618489]
+Paul S. Heckbert , Pat Hanrahan, Beam tracing polygonal objects, Proceedings of the 11th annual conference on Computer graphics and interactive techniques, p.119-127, January 1984[doi>10.1145/800031.808588]
+Herzog, R., Havran, V., Kinuwaki, S., Myszkowski, K., and Seidel, H.-P. 2007. Global illumination using photon ray splatting. In Comput. Graph. Forum. 503--513.
+Homan Igehy, Tracing ray differentials, Proceedings of the 26th annual conference on Computer graphics and interactive techniques, p.179-186, July 1999[doi>10.1145/311535.311555]
+Kei Iwasaki , Tomoyuki Nishita , Yoshinori Dobashi, Efficient Rendering of Optical Effects within Water Using Graphics Hardware, Proceedings of the 9th Pacific Conference on Computer Graphics and Applications, p.374, October 16-18, 2001
+Jarosz, W., Zwicker, M., and Jensen, H. W. 2008. The beam radiance estimate for volumetric photon mapping. Comput. Graph. Forum 27, 2, 557--566.
+Henrik Wann Jensen, Realistic image synthesis using photon mapping, A. K. Peters, Ltd., Natick, MA, 2001
+Henrik Wann Jensen , Per H. Christensen, Efficient simulation of light transport in scences with participating media using photon maps, Proceedings of the 25th annual conference on Computer graphics and interactive techniques, p.311-320, July 1998[doi>10.1145/280814.280925]
+James T. Kajiya, The rendering equation, Proceedings of the 13th annual conference on Computer graphics and interactive techniques, p.143-150, August 1986[doi>10.1145/15922.15902]
+Alexander Keller, Instant radiosity, Proceedings of the 24th annual conference on Computer graphics and interactive techniques, p.49-56, August 1997[doi>10.1145/258734.258769]
+Jens Krüger , Kai Bürger , Rüdiger Westermann, Interactive screen-space accurate photon tracing on GPUs, Proceedings of the 17th Eurographics conference on Rendering Techniques, June 26-28, 2006, Nicosia, Cyprus[doi>10.2312/EGWR/EGSR06/319-329]
+Lafortune, E. P. and Willems, Y. D. 1993. Bi-Directional path tracing. In Proceedings of the Compugraphics Conference.
+Eric P. Lafortune , Yves D. Willems, Rendering participating media with bidirectional path tracing, Proceedings of the eurographics workshop on Rendering techniques '96, p.91-100, December 1996, Porto, Portugal
+Lastra, M., Ureña, C., Revelles, J., and Montes, R. 2002. A particle-path based method for monte carlo density estimation. In Proceedings of the Eurographics 13th Workshop on Rendering. EG Association, 7--14.
+Tom Lokovic , Eric Veach, Deep shadow maps, Proceedings of the 27th annual conference on Computer graphics and interactive techniques, p.385-392, July 2000[doi>10.1145/344779.344958]
+David J. MacDonald , Kellogg S. Booth, Heuristics for ray tracing using space subdivision, The Visual Computer: International Journal of Computer Graphics, v.6 n.3, p.153-166, 1990[doi>10.1007/BF01911006]
+Don Mitchell , Pat Hanrahan, Illumination from curved reflectors, Proceedings of the 19th annual conference on Computer graphics and interactive techniques, p.283-291, July 1992[doi>10.1145/133994.134082]
+Jonathan T. Moon , Stephen R. Marschner, Simulating multiple scattering in hair using a photon mapping approach, ACM Transactions on Graphics (TOG), v.25 n.3, July 2006[doi>10.1145/1141911.1141995]
+Nakamaru, K. and Ohno, Y. 2002. Ray tracing for curves primitive. In Proceedings of the International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision. WSCG. 311--316.
+Tomoyuki Nishita , Yasuhiro Miyawaki , Eihachiro Nakamae, A shading model for atmospheric scattering considering luminous intensity distribution of light sources, Proceedings of the 14th annual conference on Computer graphics and interactive techniques, p.303-310, August 1987[doi>10.1145/37401.37437]
+Tomoyuki Nishita , Eihachiro Nakamae, Method of displaying optical effects within water using accumulation buffer, Proceedings of the 21st annual conference on Computer graphics and interactive techniques, p.373-379, July 1994[doi>10.1145/192161.192261]
+Mark Pauly , Thomas Kollig , Alexander Keller, Metropolis Light Transport for Participating Media, Proceedings of the Eurographics Workshop on Rendering Techniques 2000, p.11-22, June 26-28, 2000
+Pegoraro, V. and Parker, S. G. 2009. An analytical solution to single scattering in homogeneous participating media. Comput. Graph. Forum 28, 2, 329--335.
+Matt Pharr , Greg Humphreys, Physically Based Rendering: From Theory to Implementation, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2004
+Raab, M., Seibert, D., and Keller, A. 2008. Unbiased global illumination with participating media. In Monte Carlo and Quasi-Monte Carlo Methods. Springer, 591--606.
+Schjøth, L. 2009. Anisotropic density estimation in global illumination: A journey through time and space. Ph.D. thesis, University of Copenhagen.
+Lars Schjøth , Jeppe Revall Frisvad , Kenny Erleben , Jon Sporring, Photon differentials, Proceedings of the 5th international conference on Computer graphics and interactive techniques in Australia and Southeast Asia, December 01-04, 2007, Perth, Australia[doi>10.1145/1321261.1321293]
+Schjøth, L., Olsen, O. F., and Sporring, J. 2006. Diffusion based photon mapping. In Proceedings of the 1st International Conference on Computer Graphics Theory and Applications (GRAPP'06). 168--175.
+Schjøth, L., Sporring, J., and Olsen, O. F. 2008. Diffusion based photon mapping. Comput. Graph. Forum 27, 8, 2114--2127.
+Silverman, B. 1986. Density Estimation for Statistics and Data Analysis. Monographs on Statistics and Applied Probability. Chapman and Hall, New York.
+Bo Sun , Ravi Ramamoorthi , Srinivasa G. Narasimhan , Shree K. Nayar, A practical analytic single scattering model for real time rendering, ACM Transactions on Graphics (TOG), v.24 n.3, July 2005[doi>10.1145/1073204.1073309]
+Suykens, F. and Willems, Y. D. 2000. Adaptive filtering for progressive monte carlo image rendering. In Visual and Interactive Digital Media.
+Frank Suykens , Yves D. Willems, Path Differentials and Applications, Proceedings of the 12th Eurographics Workshop on Rendering Techniques, p.257-268, June 25-27, 2001
+Eric Veach , Leonidas J. Guibas, Robust monte carlo methods for light transport simulation, Stanford University, Stanford, CA, 1998
+Veach, E. and Guibas, L. 1994. Bidirectional estimators for light transport. In Proceedings of the 5th Eurographics Workshop on Rendering. 147--162.
+Bruce Walter , Adam Arbree , Kavita Bala , Donald P. Greenberg, Multidimensional lightcuts, ACM Transactions on Graphics (TOG), v.25 n.3, July 2006[doi>10.1145/1141911.1141997]
+Bruce Walter , Shuang Zhao , Nicolas Holzschuch , Kavita Bala, Single scattering in refractive media with triangle mesh boundaries, ACM Transactions on Graphics (TOG), v.28 n.3, August 2009[doi>10.1145/1531326.1531398]
+Zhou Wang , A. C. Bovik , H. R. Sheikh , E. P. Simoncelli, Image quality assessment: from error visibility to structural similarity, IEEE Transactions on Image Processing, v.13 n.4, p.600-612, April 2004[doi>10.1109/TIP.2003.819861]
+Mark Watt, Light-water interaction using backward beam tracing, Proceedings of the 17th annual conference on Computer graphics and interactive techniques, p.377-385, September 1990, Dallas, TX, USA[doi>10.1145/97879.97920]
+Zinke, A. and Weber, A. 2006. Efficient ray based global illumination using photon maps. In Proceedings of the Vision, Modeling, and Visualization Conference (VMV'06). 113--120.

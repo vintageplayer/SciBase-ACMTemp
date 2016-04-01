@@ -1,0 +1,6 @@
+We derive a simple output-sensitive algorithm for hidden surface
+removal in a collection ofntriangles in space for which a (partial) depth order is known. Ifkis the combinatorial complexity of
+the outputvisibility map, the method
+runs in timeOnklogn. The method is extended to work for other classes of
+objects as well, sometimes with even improved time bounds. For example,
+we obtain an algorithm that performs hidden surface removal forn(nonintersecting) balls in timeOn3/2logn+k.

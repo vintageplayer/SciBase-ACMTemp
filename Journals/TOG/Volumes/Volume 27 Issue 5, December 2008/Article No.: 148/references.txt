@@ -1,0 +1,39 @@
+Pierre Alliez , David Cohen-Steiner , Olivier Devillers , Bruno Lévy , Mathieu Desbrun, Anisotropic polygonal remeshing, ACM SIGGRAPH 2003 Papers, July 27-31, 2003, San Diego, California[doi>10.1145/1201775.882296]
+Blacker, T., and Stephenson, M. 1991. Paving: A new approach to automated quadrilateral mesh generation.International Journal for Numerical Methods in Engineering(May), 811--847.
+Borden, M., Benzley, S., and Shepherd, J. 2002. Hexahedral sheet extraction. In11th International Meshing Roundtable, 147--152.
+Bremer, P., Porumbescu, S., Joy, K., and Hamann, B. 2002. Automatic semi-regular mesh construction from adaptive distance fields.Curve and Surface Fitting: Saint-Malo.
+Catmull, E., and Clark, J. 1978. Recursively generated b-spline surfaces on arbitrary topological meshes.Computer Aided Design 10, 6, 350--355.
+Cignoni, P., Montani, C., and Scopigno, R. 1998. A comparison of mesh simplification algorithms.Computers and Graphics 22, 1 (February), 37--54.
+David Cohen-Steiner , Pierre Alliez , Mathieu Desbrun, Variational shape approximation, ACM SIGGRAPH 2004 Papers, August 08-12, 2004, Los Angeles, California[doi>10.1145/1186562.1015817]
+Dewey, M. 2008.Automated Quadrilateral Coarsening by Ring Collapse.Master's thesis, Bringham Young University.
+S. Dong , S. Kircher , M. Garland, Harmonic functions for quadrilateral remeshing of arbitrary manifolds, Computer Aided Geometric Design, v.22 n.5, p.392-423, July 2005[doi>10.1016/j.cagd.2005.04.004]
+Shen Dong , Peer-Timo Bremer , Michael Garland , Valerio Pascucci , John C. Hart, Spectral surface quadrangulation, ACM SIGGRAPH 2006 Papers, July 30-August 03, 2006, Boston, Massachusetts[doi>10.1145/1179352.1141993]
+Matthias Eck , Hugues Hoppe, Automatic reconstruction of B-spline surfaces of arbitrary topological type, Proceedings of the 23rd annual conference on Computer graphics and interactive techniques, p.325-334, August 1996[doi>10.1145/237170.237271]
+Herbert Edelsbrunner , M. J. Ablowitz , S. H. Davis , E. J. Hinch , A. Iserles , J. Ockendon , P. J. Olver, Geometry and Topology for Mesh Generation (Cambridge Monographs on Applied and Computational Mathematics), Cambridge University Press, New York, NY, 2006
+Michael Garland , Paul S. Heckbert, Surface simplification using quadric error metrics, Proceedings of the 24th annual conference on Computer graphics and interactive techniques, p.209-216, August 1997[doi>10.1145/258734.258849]
+Igor Guskov , Andrei Khodakovsky , Peter Schröder , Wim Sweldens, Hybrid meshes: multiresolution using regular and irregular refinement, Proceedings of the eighteenth annual symposium on Computational geometry, p.264-272, June 05-07, 2002, Barcelona, Spain[doi>10.1145/513400.513443]
+Hugues Hoppe, New quadric metric for simplifiying meshes with appearance attributes, Proceedings of the conference on Visualization '99: celebrating ten years, p.59-66, October 1999, San Francisco, California, USA
+Kalberer, F., Nieser, M., and Polthier, K. 2007. Quadcover: Surface parameterization using branched coverings.Computer Graphics Forum 26, 3, 375--384.
+Kinney, P. 1997. Cleanup: Improving quadrilateral finite element meshes. In6th International Meshing Roundtable, 437--447.
+Kobbelt, L. 1996. Interpolatory subdivision on open quadrilateral nets with arbitrary topology.Computer Graphics Forum 15, 3, 409--420.
+Venkat Krishnamurthy , Marc Levoy, Fitting smooth surfaces to dense polygon meshes, Proceedings of the 23rd annual conference on Computer graphics and interactive techniques, p.313-324, August 1996[doi>10.1145/237170.237270]
+Yu-Kun Lai , Leif Kobbelt , Shi-Min Hu, An incremental approach to feature aligned quad dominant remeshing, Proceedings of the 2008 ACM symposium on Solid and physical modeling, June 02-04, 2008, Stony Brook, New York[doi>10.1145/1364901.1364921]
+Peter Lindstrom , Cláudio T. Silva, A memory insensitive technique for large model simplification, Proceedings of the conference on Visualization '01, October 21-26, 2001, San Diego, California
+Peter Lindstrom, Out-of-core simplification of large polygonal models, Proceedings of the 27th annual conference on Computer graphics and interactive techniques, p.259-262, July 2000[doi>10.1145/344779.344912]
+David Luebke , Benjamin Watson , Jonathan D. Cohen , Martin Reddy , Amitabh Varshney, Level of Detail for 3D Graphics, Elsevier Science Inc., New York, NY, 2002
+Martin Marinov , Leif Kobbelt, Direct Anisotropic Quad-Dominant Remeshing, Proceedings of the Computer Graphics and Applications, 12th Pacific Conference, p.207-216, October 06-08, 2004
+Marinov, M., and Kobbelt, L. 2006. A robust two-step procedure for quad-dominant remeshing.Computer Graphics Forum 25, 3, 537--546.
+Peter Murdoch , Steven Benzley , Ted Blacker , Scott A. Mitchell, The spatial twist continuum: a connectivity based method for representing all-hexahedral finite element meshes, Finite Elements in Analysis and Design, v.28 n.2, p.137-149, Dec. 15, 1997[doi>10.1016/S0168-874X(97)81956-7]
+Xinlai Ni , Michael Garland , John C. Hart, Fair morse functions for extracting the topological structure of a surface mesh, ACM SIGGRAPH 2004 Papers, August 08-12, 2004, Los Angeles, California[doi>10.1145/1186562.1015769]
+Owen, S., Staten, M., Canann, S., and Saigal, S. 1999. Q-morph: An indirect approach to advancing front quad meshing.International Journal for Numerical Methods in Engineering(March), 1317--1340.
+Jason F. Shepherd , Chris R. Johnson, Topologic and geometric constraint-based hexahedral mesh generation, University of Utah, Salt Lake City, UT, 2007
+Kenji Shimada , David C. Gossard, Bubble mesh: automated triangular meshing of non-manifold geometry by sphere packing, Proceedings of the third ACM symposium on Solid modeling and applications, p.409-419, May 17-19, 1995, Salt Lake City, Utah, USA[doi>10.1145/218013.218095]
+Kenji Shimada, Physically-based mesh generation: automated triangulation of surfaces and volumes via bubble packing, Massachusetts Institute of Technology, Cambridge, MA, 1993
+Shimada, K. 1999. Quadrilateral meshing with directionality control via close packing of square cells.SIAM Conference on Geometric Modeling.
+Jordan Smith , Ioana Boier-Martin, Combining metrics for mesh simplification and parameterization, ACM SIGGRAPH 2005 Sketches, July 31-August 04, 2005, Los Angeles, California[doi>10.1145/1187112.1187275]
+Staten, M. L., and Canann, S. A. 1997. Post refinement element shape improvement for quadrilateral meshes.ASME AMD: Trends in Unstructured Mesh Generation, 9--16.
+Matthew L. Staten , Steven Benzley , Michael Scott, A methodology for quadrilateral finite element mesh coarsening, Engineering with Computers, v.24 n.3, p.241-251, June 2008[doi>10.1007/s00366-008-0097-y]
+Shingo Takeuchi , Hiromasa Suzuki , Fumihiko Kimura , Takashi Kanai , Kenji Shimada, Subdivision Surface Fitting Using QEM-Based Mesh Simplification and Reconstruction of Approximated B-Spline Surfaces, Proceedings of the 8th Pacific Conference on Computer Graphics and Applications, p.202, October 03-05, 2000
+Y. Tong , P. Alliez , D. Cohen-Steiner , M. Desbrun, Designing quadrangulations with discrete harmonic forms, Proceedings of the fourth Eurographics symposium on Geometry processing, June 26-28, 2006, Cagliari, Sardinia, Italy
+Viswanath, N., Shimada, K., and Itoh, T. 2000. Quadrilateral meshing with anisotropy and directionality control via close packing of rectangular cells. In9th International Meshing Roundtable, 227--238.
+Zhang, Y., Bajaj, C., and Guoliang, X. 2005. Surface smoothing and quality improvement of quadrilateral/hexahedral meshes with geometric flow. In 14th International Meshing Roundtable, 449--468.

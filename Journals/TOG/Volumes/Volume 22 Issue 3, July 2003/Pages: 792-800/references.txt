@@ -1,0 +1,49 @@
+3DLABS, 2002. Wildcat: SuperScene antialiasing white paper. http://www.-3dlabs.com/product/technology/superscene_antialiasing.htm.
+Kurt Akeley, Reality Engine graphics, Proceedings of the 20th annual conference on Computer graphics and interactive techniques, p.109-116, August 02-06, 1993, Anaheim, CA[doi>10.1145/166117.166131]
+Tomas Akenine-Moller , Tomas Moller , Eric Haines, Real-Time Rendering, A. K. Peters, Ltd., Natick, MA, 2002
+APPEL, A. 1968. Some techniques for shading machine renderings of solids. In AFIPS Conference Proceedings, vol. 32, 37--45.
+Dirk Bartz , Michael Meißner , Tobias Hüttner, Extending graphics hardware for occlusion queries in OpenGL, Proceedings of the ACM SIGGRAPH/EUROGRAPHICS workshop on Graphics hardware, p.97-ff., August 31-September 01, 1998, Lisbon, Portugal[doi>10.1145/285305.285317]
+Loren Carpenter, The A -buffer, an antialiased hidden surface method, Proceedings of the 11th annual conference on Computer graphics and interactive techniques, p.103-108, January 1984[doi>10.1145/800031.808585]
+Edwin Earl Catmull, A subdivision algorithm for computer display of curved surfaces., The University of Utah, 1974
+CHAUVIN, J. C. 1994. An advanced Z-buffer technology. In Proceedings of the Image VII Conference, 77--85.
+Robert L. Cook , Thomas Porter , Loren Carpenter, Distributed ray tracing, Proceedings of the 11th annual conference on Computer graphics and interactive techniques, p.137-145, January 1984[doi>10.1145/800031.808590]
+Franklin C. Crow, The aliasing problem in computer-generated shaded images, Communications of the ACM, v.20 n.11, p.799-805, Nov. 1977[doi>10.1145/359863.359869]
+Michael Deering , David Naegle, The SAGE graphics architecture, ACM Transactions on Graphics (TOG), v.21 n.3, July 2002[doi>10.1145/566654.566638]
+Michael Deering , Stephanie Winner , Bic Schediwy , Chris Duffy , Neil Hunt, The triangle processor and normal vector shader: a VLSI system for high performance graphics, ACM SIGGRAPH Computer Graphics, v.22 n.4, p.21-30, Aug. 1988[doi>10.1145/378456.378468]
+DELP, E., AND MITCHELL, O. 1979. Image coding using block truncation coding. IEEE Transactions on Communications 27, 9 (September), 1335--1342.
+DIRECTX, 2002. Microsoft DirectX SDK Documentation. http://www.microsoft.com/directx.
+DURAND, F. 1999. 3D Visibility: Analytical Study and Applications. PhD thesis, Université Grenoble I - Joseph Fourier Sciences et Géographie.
+EVERITT, C. 2001. Interactive order-independent transparency. http://www.developer.nvidia.com.
+Henry Fuchs , John Poulton , John Eyles , Trey Greer , Jack Goldfeather , David Ellsworth , Steve Molnar , Greg Turk , Brice Tebbs , Laura Israel, Pixel-planes 5: a heterogeneous multiprocessor graphics system using processor-enhanced memories, ACM SIGGRAPH Computer Graphics, v.23 n.3, p.79-88, July 1989[doi>10.1145/74334.74341]
+Ned Greene , Michael Kass , Gavin Miller, Hierarchical Z-buffer visibility, Proceedings of the 20th annual conference on Computer graphics and interactive techniques, p.231-238, August 02-06, 1993, Anaheim, CA[doi>10.1145/166117.166147]
+Paul Haeberli , Kurt Akeley, The accumulation buffer: hardware support for high-quality rendering, ACM SIGGRAPH Computer Graphics, v.24 n.4, p.309-318, Aug. 1990[doi>10.1145/97880.97913]
+HILLESLAND, K., SALOMON, B., LASTRA, A., AND MANOCHA, D. 2002. Fast and simple occlusion culling using hardware-based depth queries. Tech. Rep. TR02-039, UNC Chapel Hill.
+Hugues Hoppe, Optimization of mesh locality for transparent vertex caching, Proceedings of the 26th annual conference on Computer graphics and interactive techniques, p.269-276, July 1999[doi>10.1145/311535.311565]
+Norman P. Jouppi , Chun-Fa Chang,Z3: an economical hardware technique for high-quality antialiasing and transparency, Proceedings of the ACM SIGGRAPH/EUROGRAPHICS workshop on Graphics hardware, p.85-93, August 08-09, 1999, Los Angeles, California, USA[doi>10.1145/311534.311582]
+James T. Klosowski , Cláudio T. Silva, Efficient Conservative Visibility Culling Using the Prioritized-Layered Projection Algorithm, IEEE Transactions on Visualization and Computer Graphics, v.7 n.4, p.365-379, October 2001[doi>10.1109/2945.965350]
+Rynson W. H. Lau, An Adaptive Supersampling Method, Proceedings of the Third International Computer Science Conference on Image Analysis Applications and Computer Graphics, p.205-214, December 11-13, 1995
+Jin-Aeon Lee , Lee-Sup Kim, Single-pass full-screen hardware accelerated antialiasing, Proceedings of the ACM SIGGRAPH/EUROGRAPHICS workshop on Graphics hardware, p.67-75, August 21-22, 2000, Interlaken, Switzerland[doi>10.1145/346876.348225]
+Abraham Mammen, Transparency and Antialiasing Algorithms Implemented with the Virtual Pixel Maps Technique, IEEE Computer Graphics and Applications, v.9 n.4, p.43-55, July 1989[doi>10.1109/38.31463]
+William R. Mark , Kekoa Proudfoot, The F-buffer: a rasterization-order FIFO buffer for multi-pass rendering, Proceedings of the ACM SIGGRAPH/EUROGRAPHICS workshop on Graphics hardware, p.57-64, August 2001, Los Angeles, California, USA[doi>10.1145/383507.383527]
+MATROX, 2002. 16x Fragment Antialiasing. http://www.matrox.com/mga/products/tech_info/pdfs/parhelia/faa_16x.pdf.
+MEISSNER, M., BARTZ, D., GÜNTHER, R., AND STRASSER, W. 2001. Visibility driven rasterization. Computer Graphics Forum 20, 4, 283--294.
+Steven Molnar , John Eyles , John Poulton, PixelFlow: high-speed rendering using image composition, ACM SIGGRAPH Computer Graphics, v.26 n.2, p.231-240, July 1992[doi>10.1145/142920.134067]
+MOREIN, S., 2000. ATI Radeon - HyperZ Technology. ACM SIG-GRAPH/EUROGRAPHICS workshop on Graphics hardware, Hot3D session.
+Steven S. Muchnick, Advanced compiler design and implementation, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1998
+Dave Shreiner, OpenGL Reference Manual: The Official Reference Document to OpenGL, Version 1.2, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1999
+Mark Peercy , John Airey , Brian Cabral, Efficient bump mapping hardware, Proceedings of the 24th annual conference on Computer graphics and interactive techniques, p.303-306, August 1997[doi>10.1145/258734.258873]
+POWERVR, 2000. PowerVR white paper: 3D graphical processing. http://www.powervr.com/pdf/TBR3D.pdf.
+Pedro V. Sander , Hugues Hoppe , John Snyder , Steven J. Gortler, Discontinuity edge overdraw, Proceedings of the 2001 symposium on Interactive 3D graphics, p.167-174, March 2001[doi>10.1145/364338.364390]
+SAUER, F., MASCLEF, O., ROBERT, Y., AND DELTOUR, P. 1999. Outcast: Programming towards a design aesthetic. In Proceedings of Game Developers Conference, 811--827.
+Andreas Schilling , Wolfgang Straßer, EXACT: algorithm and hardware architecture for an improved A-buffer, Proceedings of the 20th annual conference on Computer graphics and interactive techniques, p.85-91, August 02-06, 1993, Anaheim, CA[doi>10.1145/166117.166128]
+Jörg Schmittler , Ingo Wald , Philipp Slusallek, SaarCOR: a hardware architecture for ray tracing, Proceedings of the ACM SIGGRAPH/EUROGRAPHICS conference on Graphics hardware, September 01-02, 2002, Saarbrucken, Germany
+Jay Torborg , James T. Kajiya, Talisman: commodity realtime 3D graphics for the PC, Proceedings of the 23rd annual conference on Computer graphics and interactive techniques, p.353-363, August 1996[doi>10.1145/237170.237274]
+UPSTILL, S. 1990. The Renderman Companion. Addison Wesley.
+Lee Westover, Footprint evaluation for volume rendering, ACM SIGGRAPH Computer Graphics, v.24 n.4, p.367-376, Aug. 1990[doi>10.1145/97880.97919]
+Turner Whitted, An improved illumination model for shaded display, Communications of the ACM, v.23 n.6, p.343-349, June 1980[doi>10.1145/358876.358882]
+Lance Williams, Pyramidal parametrics, Proceedings of the 10th annual conference on Computer graphics and interactive techniques, p.1-11, July 25-29, 1983, Detroit, Michigan, USA[doi>10.1145/800059.801126]
+Stephanie Winner , Mike Kelley , Brent Pease , Bill Rivard , Alex Yen, Hardware accelerated rendering of antialiasing using a modified a-buffer algorithm, Proceedings of the 24th annual conference on Computer graphics and interactive techniques, p.307-316, August 1997[doi>10.1145/258734.258872]
+Craig M. Wittenbrink, R-buffer: a pointerless A-buffer hardware architecture, Proceedings of the ACM SIGGRAPH/EUROGRAPHICS workshop on Graphics hardware, p.73-80, August 2001, Los Angeles, California, USA[doi>10.1145/383507.383529]
+Feng Xie , Michael Shantz, Adaptive hierarchical visibility in a tiled architecture, Proceedings of the ACM SIGGRAPH/EUROGRAPHICS workshop on Graphics hardware, p.75-84, August 08-09, 1999, Los Angeles, California, USA[doi>10.1145/311534.311581]
+Hansong Zhang , Dinesh Manocha , Tom Hudson , Kenneth E. Hoff, III, Visibility culling using hierarchical occlusion maps, Proceedings of the 24th annual conference on Computer graphics and interactive techniques, p.77-88, August 1997[doi>10.1145/258734.258781]
+Matthias Zwicker , Hanspeter Pfister , Jeroen van Baar , Markus Gross, Surface splatting, Proceedings of the 28th annual conference on Computer graphics and interactive techniques, p.371-378, August 2001[doi>10.1145/383259.383300]

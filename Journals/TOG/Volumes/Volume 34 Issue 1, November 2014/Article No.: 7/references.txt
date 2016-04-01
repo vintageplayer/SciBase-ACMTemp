@@ -1,0 +1,46 @@
+Bart Adams , Mark Pauly , Richard Keiser , Leonidas J. Guibas, Adaptively sampled particle fluids, ACM Transactions on Graphics (TOG), v.26 n.3, July 2007[doi>10.1145/1276377.1276437]
+G. Akinci, N. Akinci, M. Ihmsen, and M. Teschner. 2012a. An efficient surface reconstruction pipeline for particle-based fluids. In Proceedings of the Workshop on Virtual Reality Interaction and Physical Simulation (VRIPHYS'12). 61--68.
+Nadir Akinci , Gizem Akinci , Matthias Teschner, Versatile surface tension and adhesion for SPH fluids, ACM Transactions on Graphics (TOG), v.32 n.6, November 2013[doi>10.1145/2508363.2508395]
+Nadir Akinci , Markus Ihmsen , Gizem Akinci , Barbara Solenthaler , Matthias Teschner, Versatile rigid-fluid coupling for incompressible SPH, ACM Transactions on Graphics (TOG), v.31 n.4, p.1-8, July 2012[doi>10.1145/2185520.2185558]
+B. Andersson, S. Jakobsson, A. Mark, F. Edelvik, and L. Davidson. 2010. Modeling surface tension in SPH by interface reconstruction using radial basis functions. In Proceedings of the 5<sup>th</sup> International SPHERIC Workshop. Vol. 3.
+Ryoichi Ando , Nils Thurey , Reiji Tsuruno, Preserving Fluid Sheets with Adaptively Sampled Anisotropic Particles, IEEE Transactions on Visualization and Computer Graphics, v.18 n.8, p.1202-1214, August 2012[doi>10.1109/TVCG.2012.87]
+Ryoichi Ando , Nils Thürey , Chris Wojtan, Highly adaptive liquid simulations on tetrahedral meshes, ACM Transactions on Graphics (TOG), v.32 n.4, July 2013[doi>10.1145/2461912.2461982]
+Markus Becker , Matthias Teschner, Weakly compressible SPH for free surface flows, Proceedings of the 2007 ACM SIGGRAPH/Eurographics symposium on Computer animation, August 02-04, 2007, San Diego, California
+Haimasree Bhatacharya , Yue Gao , Adam Bargteil, A level-set method for skinning animated particle data, Proceedings of the 2011 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, August 05-07, 2011, Vancouver, British Columbia, Canada[doi>10.1145/2019406.2019409]
+James F. Blinn, A Generalization of Algebraic Surface Drawing, ACM Transactions on Graphics (TOG), v.1 n.3, p.235-256, July 1982[doi>10.1145/357306.357310]
+Tyson Brochu , Christopher Batty , Robert Bridson, Matching fluid simulation elements to surface geometry and topology, ACM Transactions on Graphics (TOG), v.29 n.4, July 2010[doi>10.1145/1778765.1778784]
+J. Cahn and J. Hilliard. 1958. Free energy of a nonuniform system. I. Interfacial free energy. J. Chem. Phys. 28, 258.
+J. K. Chen, J. E. Beraun, and C. J. Jih. 1999. An improvement for tensile instability in smoothed particle hydrodynamics. Comput. Mech. 23, 4, 279--287.
+Pascal Clausen , Martin Wicke , Jonathan R. Shewchuk , James F. O'Brien, Simulating liquids and solid-liquid interactions with lagrangian meshes, ACM Transactions on Graphics (TOG), v.32 n.2, p.1-15, April 2013[doi>10.1145/2451236.2451243]
+J. Gray, J. Monaghan, and R. Swift. 2001. SPH elastic dynamics. Comput. Methods Appl. Mech. Engin. 190, 49, 6641--6662.
+Xiaowei He , Ning Liu , Sheng Li , Hongan Wang , Guoping Wang, Local Poisson SPH For Viscous Incompressible Fluids, Computer Graphics Forum, v.31 n.6, p.1948-1958, September 2012[doi>10.1111/j.1467-8659.2012.03074.x]
+Xiaowei He , Ning Liu , Guoping Wang , Fengjun Zhang , Sheng Li , Songdong Shao , Hongan Wang, Staggered meshless solid-fluid coupling, ACM Transactions on Graphics (TOG), v.31 n.6, November 2012[doi>10.1145/2366145.2366168]
+X. Y. Hu , N. A. Adams, A multi-phase SPH method for macroscopic and mesoscopic flows, Journal of Computational Physics, v.213 n.2, p.844-861, 10 April 2006[doi>10.1016/j.jcp.2005.09.001]
+M. Ihmsen, N. Akinci, M. Becker, and M. Teschner. 2011. A parallel SPH implementation on multi-core cpus. Comput. Graph. Forum 30, 1, 99--112.
+M. Ihmsen, N. Akinci, M. Gissler, and M. Teschner. 2010. Boundary handling and adaptive time-stepping for PCISPH. In Proceedings of the Workshop on Virtual Reality Interaction and Physical Simulation (VRIPHYS'10). 79--88.
+M. Ihmsen, J. Orthmann, B. Solenthaler, A. Kolb, and M. Teschner. 2014. SPH fluids in computer graphics. In Proceedings of the Eurographics 2014-State of the Art Reports. The Eurographics Association, 21--42.
+Geoffrey Irving , Eran Guendelman , Frank Losasso , Ronald Fedkiw, Efficient simulation of large bodies of water by coupling two and three dimensional techniques, ACM Transactions on Graphics (TOG), v.25 n.3, July 2006[doi>10.1145/1141911.1141959]
+Byungmoon Kim , Yingjie Liu , Ignacio Llamas , Xiangmin Jiao , Jarek Rossignac, Simulation of bubbles in foam with the volume control method, ACM Transactions on Graphics (TOG), v.26 n.3, July 2007[doi>10.1145/1276377.1276500]
+Frank Losasso , Frédéric Gibou , Ron Fedkiw, Simulating water and smoke with an octree data structure, ACM Transactions on Graphics (TOG), v.23 n.3, August 2004[doi>10.1145/1015706.1015745]
+J. J. Monaghan, On the problem of penetration in particle methods, Journal of Computational Physics, v.82 n.1, p.1-15, May, 1989[doi>10.1016/0021-9991(89)90032-6]
+J. J. Monaghan, Simulating free surface flows with SPH, Journal of Computational Physics, v.110 n.2, p.399-406, Feb. 1994[doi>10.1006/jcph.1994.1034]
+J. Morris. 2000. Simulating surface tension with smoothed particle hydrodynamics. Int. J. Numer. Methods Fluids 33, 3, 333--353.
+Matthias Müller , David Charypar , Markus Gross, Particle-based fluid simulation for interactive applications, Proceedings of the 2003 ACM SIGGRAPH/Eurographics symposium on Computer animation, July 26-27, 2003, San Diego, California
+Matthias Müller , Barbara Solenthaler , Richard Keiser , Markus Gross, Particle-based fluid-fluid interaction, Proceedings of the 2005 ACM SIGGRAPH/Eurographics symposium on Computer animation, July 29-31, 2005, Los Angeles, California[doi>10.1145/1073368.1073402]
+S. Nugent and H. Posch. 2000. Liquid drops and surface tension with smoothed particle applied mechanics. Phys. Rev. E62, 4, 4968.
+Hagit Schechter , Robert Bridson, Ghost SPH for animating water, ACM Transactions on Graphics (TOG), v.31 n.4, p.1-8, July 2012[doi>10.1145/2185520.2185557]
+Fedir V. Sirotkin , Jack J. Yoh, A new particle method for simulating breakup of liquid jets, Journal of Computational Physics, v.231 n.4, p.1650-1674, February, 2012[doi>10.1016/j.jcp.2011.10.020]
+Barbara Solenthaler , Markus Gross, Two-scale particle simulation, ACM Transactions on Graphics (TOG), v.30 n.4, July 2011[doi>10.1145/2010324.1964976]
+B. Solenthaler , R. Pajarola, Density contrast SPH interfaces, Proceedings of the 2008 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, July 07-09, 2008, Dublin, Ireland
+B. Solenthaler , R. Pajarola, Predictive-corrective incompressible SPH, ACM Transactions on Graphics (TOG), v.28 n.3, August 2009[doi>10.1145/1531326.1531346]
+Mark Sussman , Mitsuhiro Ohta, A Stable and Efficient Method for Treating Surface Tension in Incompressible Two-Phase Flow, SIAM Journal on Scientific Computing, v.31 n.4, p.2447-2471, June 2009[doi>10.1137/080732122]
+J. W. Swegle , D. L. Hicks , S. W. Attaway, Smoothed particle hydrodynamics stability analysis, Journal of Computational Physics, v.116 n.1, p.123-134, Jan. 1995[doi>10.1006/jcph.1995.1010]
+A. Tartakovsky and P. Meakin, 2005. Modeling of surface tension and contact angles with smoothed particle hydrodynamics. Phys. Rev. E72, 2, 026301.
+Nils Thürey , Chris Wojtan , Markus Gross , Greg Turk, A multiscale approach to mesh-based surface tension flows, ACM Transactions on Graphics (TOG), v.29 n.4, July 2010[doi>10.1145/1778765.1778785]
+J. Van Der Waals. 1893. The thermodynamic theory of capillarity under the hypothesis of a continuous variation of density. Z. Phys. Chem. 13, 657.
+Chris Wojtan , Nils Thürey , Markus Gross , Greg Turk, Physics-inspired topology changes for thin fluid features, ACM Transactions on Graphics (TOG), v.29 n.4, July 2010[doi>10.1145/1778765.1778787]
+Jihun Yu , Greg Turk, Reconstructing surfaces of particle-based fluids using anisotropic kernels, Proceedings of the 2010 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, July 02-04, 2010, Madrid, Spain
+Jihun Yu , Chris Wojtan , Greg Turk , Chee Yap, Explicit Mesh Surfaces for Particle Based Fluids, Computer Graphics Forum, v.31 n.2pt4, p.815-824, May 2012[doi>10.1111/j.1467-8659.2012.03062.x]
+Mingyu Zhang, Simulation of surface tension in 2D and 3D with smoothed particle hydrodynamics method, Journal of Computational Physics, v.229 n.19, p.7238-7259, September, 2010[doi>10.1016/j.jcp.2010.06.010]
+Yizhong Zhang , Huamin Wang , Shuai Wang , Yiying Tong , Kun Zhou, A Deformable Surface Model for Real-Time Water Drop Animation, IEEE Transactions on Visualization and Computer Graphics, v.18 n.8, p.1281-1289, August 2012[doi>10.1109/TVCG.2011.141]
+Yongning Zhu , Robert Bridson, Animating sand as a fluid, ACM Transactions on Graphics (TOG), v.24 n.3, July 2005[doi>10.1145/1073204.1073298]

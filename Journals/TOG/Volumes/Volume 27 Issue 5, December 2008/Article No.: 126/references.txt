@@ -1,0 +1,40 @@
+Nathan A. Carr , Jesse D. Hall , John C. Hart, The ray engine, Proceedings of the ACM SIGGRAPH/EUROGRAPHICS conference on Graphics hardware, September 01-02, 2002, Saarbrucken, Germany
+Nathan A. Carr , Jared Hoberock , Keenan Crane , John C. Hart, Fast GPU ray tracing of dynamic meshes using geometry images, Proceedings of Graphics Interface 2006, June 07-09, 2006, Quebec, Canada
+Tim Foley , Jeremy Sugerman, KD-tree acceleration structures for a GPU raytracer, Proceedings of the ACM SIGGRAPH/EUROGRAPHICS conference on Graphics hardware, July 30-31, 2005, Los Angeles, California[doi>10.1145/1071866.1071869]
+Jeffrey Goldsmith , John Salmon, Automatic Creation of Object Hierarchies for Ray Tracing, IEEE Computer Graphics and Applications, v.7 n.5, p.14-20, May 1987[doi>10.1109/MCG.1987.276983]
+William Gropp , Ewing Lusk , Anthony Skjellum, Using MPI: portable parallel programming with the message-passing interface, MIT Press, Cambridge, MA, 1994
+Johannes Günther , Ingo Wald , Philipp Slusallek, Realtime caustics using distributed photon mapping, Proceedings of the Fifteenth Eurographics conference on Rendering Techniques, June 21-23, 2004, Norrköping, Sweden[doi>10.2312/EGWR/EGSR04/111-121]
+Harris, M., Owens, J., Sengupta, S., Zhang, Y., and Davidson, A., 2007. CUDPP homepage. http://www.gpgpu.org/developer/cudpp/.
+Havran, V. 2001.Heuristic Ray Shooting Algorithms.PhD thesis, Czech Technical University in Prague.
+Hugues Hoppe , Tony DeRose , Tom Duchamp , John McDonald , Werner Stuetzle, Surface reconstruction from unorganized points, Proceedings of the 19th annual conference on Computer graphics and interactive techniques, p.71-78, July 1992[doi>10.1145/133994.134011]
+Daniel Reiter Horn , Jeremy Sugerman , Mike Houston , Pat Hanrahan, Interactive k-d tree GPU raytracing, Proceedings of the 2007 symposium on Interactive 3D graphics and games, April 30-May 02, 2007, Seattle, Washington[doi>10.1145/1230100.1230129]
+Hunt, W., Mark, W. R., and Stoll, G. 2006. Fast kd-tree construction with an adaptive error-bounded heuristic. InIEEE Symposium on Interactive Ray Tracing, 81--88.
+Henrik Wann Jensen, Realistic image synthesis using photon mapping, A. K. Peters, Ltd., Natick, MA, 2001
+David J. MacDonald , Kellogg S. Booth, Heuristics for ray tracing using space subdivision, The Visual Computer: International Journal of Computer Graphics, v.6 n.3, p.153-166, 1990[doi>10.1007/BF01911006]
+Manku, G. S., 2002. Fast bit counting routines. http://infolab.stanford.edu/ manku/bitcount/bitcount.html.
+Mount, D. M., and Arya, S., 2006. ANN: A library for approximate nearest neighbor searching. http://www.cs.umd.edu/~mount/ANN/.
+Nicolaychuk, A., 2008. RivaTuner. http://www.guru3d.com/index.php?page=rivatuner.
+NVIDIA, 2007. CUDA programming guide 1.0. http://developer.nvidia.com/object/cuda.html.
+Mark Pauly , Richard Keiser , Leif P. Kobbelt , Markus Gross, Shape modeling with point-sampled geometry, ACM SIGGRAPH 2003 Papers, July 27-31, 2003, San Diego, California[doi>10.1145/1201775.882319]
+Matt Pharr , Greg Humphreys, Physically Based Rendering: From Theory to Implementation, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2004
+Popov, S., Günther, J., Seidel, H.-P., and Slusallek, P. 2006. Experiences with streaming construction of SAH KD-trees. InIEEE Symposium on Interactive Ray Tracing, 89--94.
+Popov, S., Günther, J., Seidel, H.-P., and Slusallek, P. 2007. Stackless kd-tree traversal for high performance GPU ray tracing. InEurographics'07, 415--424.
+Franco P. Preparata , Michael I. Shamos, Computational geometry:  an introduction, Springer-Verlag New York, Inc., New York, NY, 1985
+Timothy J. Purcell , Ian Buck , William R. Mark , Pat Hanrahan, Ray tracing on programmable graphics hardware, ACM Transactions on Graphics (TOG), v.21 n.3, July 2002[doi>10.1145/566654.566640]
+Timothy J. Purcell , Craig Donner , Mike Cammarano , Henrik Wann Jensen , Pat Hanrahan, Photon mapping on programmable graphics hardware, Proceedings of the ACM SIGGRAPH/EUROGRAPHICS conference on Graphics hardware, July 26-27, 2003, San Diego, California
+Alexander Reshetov , Alexei Soupikov , Jim Hurley, Multi-level ray tracing algorithm, ACM SIGGRAPH 2005 Papers, July 31-August 04, 2005, Los Angeles, California[doi>10.1145/1186822.1073329]
+Shubhabrata Sengupta , Mark Harris , Yao Zhang , John D. Owens, Scan primitives for GPU computing, Proceedings of the 22nd ACM SIGGRAPH/EUROGRAPHICS symposium on Graphics hardware, August 04-05, 2007, San Diego, California
+Shevtsov, M., Soupikov, A., and Kapustin, A. 2007. Highly parallel fast kd-tree construction for interactive ray tracing of dynamic scenes. InEurographics'07, 395--404.
+Le-Jeng Shiue , Ian Jones , Jörg Peters, A realtime GPU subdivision kernel, ACM Transactions on Graphics (TOG), v.24 n.3, July 2005[doi>10.1145/1073204.1073304]
+Stoll, G. 2005. Part II: Achieving real time - optimization techniques. InSIGGRAPH 2005 Course on Interactive Ray Tracing.
+Wald, I., and Havran, V. 2006. On building fast kd-trees for ray tracing, and on doing that in O(Nlog N). InProceedings of IEEE Symposium on Interactive Ray Tracing, 61--69.
+Wald, I., Slusallek, P., Benthin, C., and Wagner, M. 2001. Interactive rendering with coherent ray tracing.Computer Graphics Forum 20, 3, 153--164.
+Wald, I., Günther, J., and Slusallek, P. 2004. Balancing considered harmful --faster photon mapping using the voxel volume heuristic. InProceedings of Eurographics'04, 595--603.
+Ingo Wald , Thiago Ize , Andrew Kensler , Aaron Knoll , Steven G. Parker, Ray tracing animated scenes using coherent grid traversal, ACM Transactions on Graphics (TOG), v.25 n.3, July 2006[doi>10.1145/1141911.1141913]
+Ingo Wald , Solomon Boulos , Peter Shirley, Ray tracing deformable scenes using dynamic bounding volume hierarchies, ACM Transactions on Graphics (TOG), v.26 n.1, p.6-es, January 2007[doi>10.1145/1189762.1206075]
+Ingo Wald, On fast Construction of SAH-based Bounding Volume Hierarchies, Proceedings of the 2007 IEEE Symposium on Interactive Ray Tracing, p.33-40, September 10-12, 2007[doi>10.1109/RT.2007.4342588]
+Robert Y. Wang , Kari Pulli , Jovan Popović, Real-time enveloping with rotational regression, ACM Transactions on Graphics (TOG), v.26 n.3, July 2007[doi>10.1145/1276377.1276468]
+Sung-Eui Yoon , Sean Curtis , Dinesh Manocha, Ray tracing dynamic scenes using selective restructuring, Proceedings of the 18th Eurographics conference on Rendering Techniques, June 25-27, 2007, Grenoble, France[doi>10.2312/EGWR/EGSR07/073-084]
+Kun Zhou , Xin Huang , Weiwei Xu , Baining Guo , Heung-Yeung Shum, Direct manipulation of subdivision surfaces on GPUs, ACM Transactions on Graphics (TOG), v.26 n.3, July 2007[doi>10.1145/1276377.1276491]
+Matthias Zwicker , Hanspeter Pfister , Jeroen van Baar , Markus Gross, Surface splatting, Proceedings of the 28th annual conference on Computer graphics and interactive techniques, p.371-378, August 2001[doi>10.1145/383259.383300]
+Matthias Zwicker , Mark Pauly , Oliver Knoll , Markus Gross, Pointshop 3D: an interactive system for point-based surface editing, Proceedings of the 29th annual conference on Computer graphics and interactive techniques, July 23-26, 2002, San Antonio, Texas[doi>10.1145/566570.566584]

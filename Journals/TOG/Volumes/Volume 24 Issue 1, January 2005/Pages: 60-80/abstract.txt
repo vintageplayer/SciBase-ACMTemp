@@ -1,0 +1,16 @@
+Spectral compression of the geometry of triangle meshes achieves
+good results in practice, but there has been little or no
+theoretical support for the optimality of this compression. We show
+that, for certain classes of geometric mesh models, spectral
+decomposition using the eigenvectors of the symmetric Laplacian of
+the connectivity graph is equivalent to principal component
+analysis on that class, when equipped with a natural probability
+distribution. Our proof treats connected one-and two-dimensional
+meshes with fixed convex boundaries, and is based on an asymptotic
+approximation of the probability distribution in the
+two-dimensional case. The key component of the proof is that the
+Laplacian is identical, up to a constant factor, to the inverse
+covariance matrix of the distribution of valid mesh geometries.
+Hence, spectral compression is optimal, in the mean square error
+sense, for these classes of meshes under some natural assumptions
+on their distribution.

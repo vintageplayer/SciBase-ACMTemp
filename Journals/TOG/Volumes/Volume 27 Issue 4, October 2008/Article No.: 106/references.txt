@@ -1,0 +1,41 @@
+Timo Aila , Samuli Laine, Alias-free shadow maps, Proceedings of the Fifteenth Eurographics conference on Rendering Techniques, June 21-23, 2004, Norrköping, Sweden[doi>10.2312/EGWR/EGSR04/161-166]
+Thomas Annen , Tom Mertens , Philippe Bekaert , Hans-Peter Seidel , Jan Kautz, Convolution shadow maps, Proceedings of the 18th Eurographics conference on Rendering Techniques, June 25-27, 2007, Grenoble, France[doi>10.2312/EGWR/EGSR07/051-060]
+Thomas Annen , Tom Mertens , Hans-Peter Seidel , Eddy Flerackers , Jan Kautz, Exponential shadow maps, Proceedings of graphics interface 2008, May 28-30, 2008, Windsor, Ontario, Canada
+Jukka Arvo, Tiled Shadow Maps, Proceedings of the Computer Graphics International, p.240-247, June 16-19, 2004[doi>10.1109/CGI.2004.97]
+Arvo, J. 2007. Alias-free shadow maps using graphics hardware. J. Graph. Tools 12, 1, 47--59.
+Stefan Brabec , Thomas Annen , Hans-Peter Seidel, Practical shadow mapping, Journal of Graphics Tools, v.7 n.4, p.9-18, 12/01/2002[doi>10.1080/10867651.2002.10487567]
+Eric Chan , Frédo Durand, An efficient hybrid shadow rendering algorithm, Proceedings of the Fifteenth Eurographics conference on Rendering Techniques, June 21-23, 2004, Norrköping, Sweden[doi>10.2312/EGWR/EGSR04/185-195]
+Chong, H. 2003. Real-time perspective optimal shadow maps. Senior thesis, Harvard University.
+Hamilton Y. Chong , Steven J. Gortler, A lixel for every pixel, Proceedings of the Fifteenth Eurographics conference on Rendering Techniques, June 21-23, 2004, Norrköping, Sweden[doi>10.2312/EGWR/EGSR04/167-172]
+Chong, H. and Gortler, S. 2007. Scene optimized shadow mapping. Tech. rep. TR-07-07, Harvard University.
+Franklin C. Crow, Shadow algorithms for computer graphics, ACM SIGGRAPH Computer Graphics, v.11 n.2, p.242-248, Summer 1977[doi>10.1145/965141.563901]
+William Donnelly , Andrew Lauritzen, Variance shadow maps, Proceedings of the 2006 symposium on Interactive 3D graphics and games, March 14-17, 2006, Redwood City, California[doi>10.1145/1111411.1111440]
+Engel, W. 2007. Cascaded shadow maps. In ShaderX<sup>5</sup>, W. Engel, Ed. Charles River Media, 197--206.
+Randima Fernando , Sebastian Fernandez , Kavita Bala , Donald P. Greenberg, Adaptive shadow maps, Proceedings of the 28th annual conference on Computer graphics and interactive techniques, p.387-390, August 2001[doi>10.1145/383259.383302]
+Forsyth, T. 2006. Making shadow buffers robust using multiple dynamic frustums. In ShaderX<sup>4</sup>, W. Engel, Ed. Charles River Media, 331--346.
+Markus Giegl , Michael Wimmer, Fitted virtual shadow maps, Proceedings of Graphics Interface 2007, May 28-30, 2007, Montreal, Canada[doi>10.1145/1268517.1268545]
+Markus Giegl , Michael Wimmer, Queried virtual shadow maps, Proceedings of the 2007 symposium on Interactive 3D graphics and games, April 30-May 02, 2007, Seattle, Washington[doi>10.1145/1230100.1230112]
+Hubbard, J. H. and Hubbard, B. B. 2001. Vector Calculus, Linear Algebra, and Differential Forms: A Unified Approach (2nd Ed.). Prentice Hall.
+Johnson, G., Mark, W., and Burns, C. 2004. The irregular z-buffer and its application to shadow mapping. Tech. rep. TR-04-09, Department of Computer Science, The University of Texas at Austin.
+Gregory S. Johnson , Juhyun Lee , Christopher A. Burns , William R. Mark, The irregular Z-buffer: Hardware acceleration for irregular data structures, ACM Transactions on Graphics (TOG), v.24 n.4, p.1462-1482, October 2005[doi>10.1145/1095878.1095889]
+Kozlov, S. 2004. Perspective shadow maps: Care and feeding. In GPU Gems, R. Fernando, Ed. Addison-Wesley, 214--244.
+Andrew Lauritzen , Michael McCool, Layered variance shadow maps, Proceedings of graphics interface 2008, May 28-30, 2008, Windsor, Ontario, Canada
+Aaron E. Lefohn , Shubhabrata Sengupta , John D. Owens, Resolution-matched shadow maps, ACM Transactions on Graphics (TOG), v.26 n.4, p.20-es, October 2007[doi>10.1145/1289603.1289611]
+D. Brandon Lloyd , David Tuft , Sung-eui Yoon , Dinesh Manocha, Warping and partitioning for low error shadow maps, Proceedings of the 17th Eurographics conference on Rendering Techniques, June 26-28, 2006, Nicosia, Cyprus[doi>10.2312/EGWR/EGSR06/215-226]
+D. Brandon Lloyd , Dinesh Manocha, Logarithmic perspective shadow maps, University of North Carolina at Chapel Hill, Chapel Hill, NC, 2007
+D. Brandon Lloyd , Naga K. Govindaraju , Steven E. Molnar , Dinesh Manocha, Practical logarithmic rasterization for low-error shadow maps, Proceedings of the 22nd ACM SIGGRAPH/EUROGRAPHICS symposium on Graphics hardware, August 04-05, 2007, San Diego, California
+Tobias Martin , Tiow-Seng Tan, Anti-aliasing and continuity with trapezoidal shadow maps, Proceedings of the Fifteenth Eurographics conference on Rendering Techniques, June 21-23, 2004, Norrköping, Sweden[doi>10.2312/EGWR/EGSR04/153-160]
+Michael D. McCool , Chris Wales , Kevin Moule, Incremental and hierarchical Hilbert order edge equation polygon rasterizatione, Proceedings of the ACM SIGGRAPH/EUROGRAPHICS workshop on Graphics hardware, p.65-72, August 2001, Los Angeles, California, USA[doi>10.1145/383507.383528]
+William T. Reeves , David H. Salesin , Robert L. Cook, Rendering antialiased shadows with depth maps, Proceedings of the 14th annual conference on Computer graphics and interactive techniques, p.283-291, August 1987[doi>10.1145/37401.37435]
+Salvi, M. 2008. Rendering filtered shadows with exponential shadow maps. In ShaderX<sup>6</sup>, W. Engel, Ed. Charles River Media.
+Daniel Scherzer , Stefan Jeschke , Michael Wimmer, Pixel-correct shadow maps with temporal reprojection and shadow test confidence, Proceedings of the 18th Eurographics conference on Rendering Techniques, June 25-27, 2007, Grenoble, France[doi>10.2312/EGWR/EGSR07/045-050]
+Larry Seiler , Doug Carmean , Eric Sprangle , Tom Forsyth , Michael Abrash , Pradeep Dubey , Stephen Junkins , Adam Lake , Jeremy Sugerman , Robert Cavin , Roger Espasa , Ed Grochowski , Toni Juan , Pat Hanrahan, Larrabee: a many-core x86 architecture for visual computing, ACM Transactions on Graphics (TOG), v.27 n.3, August 2008[doi>10.1145/1360612.1360617]
+Pradeep Sen , Mike Cammarano , Pat Hanrahan, Shadow silhouette maps, ACM Transactions on Graphics (TOG), v.22 n.3, July 2003[doi>10.1145/882262.882301]
+Erik Sintorn , Elmar Eisemann , Ulf Assarsson, Sample based visibility for soft shadows using alias-free shadow maps, Proceedings of the Nineteenth Eurographics conference on Rendering, June 23-25, 2008, Sarajevo, Bosnia and Herzegovina[doi>10.1111/j.1467-8659.2008.01267.x]
+Marc Stamminger , George Drettakis, Perspective shadow maps, Proceedings of the 29th annual conference on Computer graphics and interactive techniques, July 23-26, 2002, San Antonio, Texas[doi>10.1145/566570.566616]
+Katsumi Tadamura , Xueying Qin , Guofang Jiao , Eihachiro Nakamae, Rendering Optimal Solar Shadows Using Plural Sunlight Depth Buffers, Proceedings of the International Conference on Computer Graphics, p.166, June 07-11, 1999
+Lance Williams, Casting curved shadows on curved surfaces, Proceedings of the 5th annual conference on Computer graphics and interactive techniques, p.270-274, August 23-25, 1978[doi>10.1145/800248.807402]
+Michael Wimmer , Daniel Scherzer , Werner Purgathofer, Light space perspective shadow maps, Proceedings of the Fifteenth Eurographics conference on Rendering Techniques, June 21-23, 2004, Norrköping, Sweden[doi>10.2312/EGWR/EGSR04/143-151]
+Fan Zhang , Hanqiu Sun , Leilei Xu , Lee Kit Lun, Parallel-split shadow maps for large-scale virtual environments, Proceedings of the 2006 ACM international conference on Virtual reality continuum and its applications, June 14-April 17, 2006, Hong Kong, China[doi>10.1145/1128923.1128975]
+Fan Zhang , Hanqiu Sun , Chong Zhao , Lifeng Wang, Theory to practice: generalized minimum-norm perspective shadow maps for anti-aliased shadow rendering in 3D computer games, Proceedings of the 6th international conference on Entertainment Computing, September 15-17, 2007, Shanghai, China
+Fan Zhang , Leilei Xu , Chenjun Tao , Hanqiu Sun, Generalized linear perspective shadow map reparameterization, Proceedings of the 2006 ACM international conference on Virtual reality continuum and its applications, June 14-April 17, 2006, Hong Kong, China[doi>10.1145/1128923.1128982]

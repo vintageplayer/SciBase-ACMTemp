@@ -1,0 +1,42 @@
+J. Berg, M. Lin, and D. Manocha. 2008. Reciprocal velocity obstacles for real-time multi-agent navigation. In Proceedings of the International Conference on Robotics and Automation (ICRA'08). IEEE.
+P. Bhattacharya and M. Gavrilova. 2008. Roadmap-based path planning - Using the Voronoi diagram for a clearance-based shortest path. IEEE Robot. Autom. Mag. 15, 2, 58--66.
+Bernard Chazelle, A theorem on polygon cutting with applications, Proceedings of the 23rd Annual Symposium on Foundations of Computer Science, p.339-349, November 03-05, 1982[doi>10.1109/SFCS.1982.58]
+L. Paul Chew, Planning the shortest path for a disc inO(n2logn) time, Proceedings of the first annual symposium on Computational geometry, p.214-220, June 05-07, 1985, Baltimore, Maryland, USA[doi>10.1145/323233.323261]
+Mark de Berg , Otfried Cheong , Marc van Kreveld , Mark Overmars, Computational Geometry: Algorithms and Applications, Springer-Verlag TELOS, Santa Clara, CA, 2008
+D. Demyen. 2007. Efficient triangulation-based pathfinding. https://skatgame.net/mburo/ps/thesis_demyen_2006.pdf.
+Douglas Demyen , Michael Buro, Efficient triangulation-based pathfinding, Proceedings of the 21st national conference on Artificial intelligence, p.942-947, July 16-20, 2006, Boston, Massachusetts
+O. Devillers and S. Pion. 2003. Efficient exact geometric predicates for Delaunay triangulations. In Proceedings of the 5<sup>th</sup> Workshop Algorithm Engineering and Experiments. 37--44.
+Olivier Devillers , Sylvain Pion , Monique Teillaud, Walking in a triangulation, Proceedings of the seventeenth annual symposium on Computational geometry, p.106-114, June 2001, Medford, Massachusetts, USA[doi>10.1145/378583.378643]
+M. L. Gavrilova, H. Ratschek, and J. G. Rokne. 2000. Exact computation of Delaunay and power triangulations. Reliab. Comput. 6, 1, 39--60.
+Russell Gayle , Avneesh Sud , Erik Andersen , Stephen J. Guy , Ming C. Lin , Dinesh Manocha, Interactive Navigation of Heterogeneous Agents Using Adaptive Roadmaps, IEEE Transactions on Visualization and Computer Graphics, v.15 n.1, p.34-48, January 2009[doi>10.1109/TVCG.2008.84]
+R. Geraerts. 2010. Planning short paths with clearance using explicit corridors. In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA'10).
+P. E. Hart, N. J. Nilsson, and B. Raphael. 2007. A formal basis for the heuristic determination of minimum cost paths. IEEE Trans. Syst. Sci. Cybernet. 4, 2, 100--107.
+Martin Held, VRONI: an engineering approach to the reliable and efficient computation of voronoi diagrams of points and line segments, Computational Geometry: Theory and Applications, v.18 n.2, p.95-123, March 2001[doi>10.1016/S0925-7721(01)00003-7]
+John Hershberger , Jack Snoeyink, Computing minimum length paths of a given homotopy class, Computational Geometry: Theory and Applications, v.4 n.2, p.63-97, June 1994[doi>10.1016/0925-7721(94)90010-8]
+John Hershberger , Subhash Suri, An Optimal Algorithm for Euclidean Shortest Paths in the Plane, SIAM Journal on Computing, v.28 n.6, p.2215-2256, Dec. 1999[doi>10.1137/S0097539795289604]
+Kenneth E. Hoff, III , Tim Culver , John Keyser , Ming Lin , Dinesh Manocha, Fast computation of generalized Voronoi diagrams using graphics hardware, Proceedings of the sixteenth annual symposium on Computational geometry, p.375-376, June 12-14, 2000, Clear Water Bay, Kowloon, Hong Kong[doi>10.1145/336154.336226]
+Carl-Johan Jorgensen , Fabrice Lamarche, From geometry to spatial reasoning: automatic structuring of 3d virtual environments, Proceedings of the 4th international conference on Motion in Games, November 13-15, 2011, Edinburgh, UK[doi>10.1007/978-3-642-25090-3_30]
+Marcelo Kallmann, Shortest paths with arbitrary clearance from navigation meshes, Proceedings of the 2010 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, July 02-04, 2010, Madrid, Spain
+M. Kallmann, H. Bieri, and D. Thalmann. 2003. Fully dynamic constrained Delaunay triangulations. In Geometric Modeling for Scientific Visualization, G. Brunnett, B. Hamann, H. Mueller, and L. Linsen, Eds., Springer, 241--257.
+S. Kapoor, S. N. Maheshwari, and J. S. B. Mitchell. 1997. An efficient algorithm for Euclidean shortest paths among polygonal obstacles in the plane. Discr. Comput. Geom. 18, 4, 377--383.
+Sven Koenig , Maxim Likhachev, D*lite, Eighteenth national conference on Artificial intelligence, p.476-483, July 28-August 01, 2002, Edmonton, Alberta, Canada
+James J. Kuffner , Jr , Jean-Claude Latombe, Fast Synthetic Vision, Memory, and Learning Models for Virtual Humans, Proceedings of the Computer Animation, p.118, May 26-28, 1999
+F. Lamarche. 2009. Topoplan: A topological path planner for real time human navigation under floor and ceiling constraints. Comput. Graph. Forum 28, 2, 649--658.
+F. Lamarche and S. Donikian. 2004. Crowd of virtual humans: A new approach for real time navigation in complex and structured environments. Comput. Graph. Forum 23, 3, 509--518.
+D. T. Lee and F. P. Preparata. 1984. Euclidean shortest paths in the presence of rectilinear barriers. Netw. 3, 14, 393--410.
+M. Likhachev, G. Gordon, and S. Thrun. 2003. ARA*: Anytime a* search with provable bounds on sub-optimality. In Neural Information Processing Systems., MIT Press.
+Y. H. Liu and S. Arimoto. 1995. Finding the shortest path of a disk among polygonal obstacles using a radius-independent graph. IEEE Trans. Robot. Autom. 11, 5, 682--691.
+Tomás Lozano-Pérez , Michael A. Wesley, An algorithm for planning collision-free paths among polyhedral obstacles, Communications of the ACM, v.22 n.10, p.560-570, Oct. 1979[doi>10.1145/359156.359164]
+Ronald A. Metoyer , Jessica K. Hodgins, Reactive Pedestrian Path Following from Examples, Proceedings of the 16th International Conference on Computer Animation and Social Agents (CASA 2003), p.149, May 08-09, 2003
+Joseph S. B. Mitchell, Shortest paths among obstacles in the plane, Proceedings of the ninth annual symposium on Computational geometry, p.308-317, May 18-21, 1993, San Diego, California, USA[doi>10.1145/160985.161156]
+Nils J. Nilsson, A mobius automation: an application of artificial intelligence techniques, Proceedings of the 1st international joint conference on Artificial intelligence, p.509-520, May 07-09, 1969, Washington, DC
+H. Noser and D. Thalmann. 1995. Synthetic vision and audition for digital actors. Proc. Eurograph. 14, 3, 326-336.
+R. Oliva , N. Pelechano, Technical Section: NEOGEN: Near optimal generator of navigation meshes for 3D multi-layered environments, Computers and Graphics, v.37 n.5, p.403-412, August, 2013[doi>10.1016/j.cag.2013.03.004]
+M. H. Overmars , E. Welzl, New methods for computing visibility graphs, Proceedings of the fourth annual symposium on Computational geometry, p.164-171, June 06-08, 1988, Urbana-Champaign, Illinois, USA[doi>10.1145/73393.73410]
+Wei Shao , Demetri Terzopoulos, Autonomous pedestrians, Proceedings of the 2005 ACM SIGGRAPH/Eurographics symposium on Computer animation, July 29-31, 2005, Los Angeles, California[doi>10.1145/1073368.1073371]
+Jonathan Richard Shewchuk, Triangle: Engineering a 2D Quality Mesh Generator and Delaunay Triangulator, Selected papers from the Workshop on Applied Computational Geormetry, Towards Geometric Engineering, p.203-222, May 27-28, 1996
+J. R. Shewchuk. 1997. Adaptive precision floating-point arithmetic and fast robust geometric predicates. Discr. Comput. Geom. 18, 3, 305--363.
+Shawn Singh , Mubbasir Kapadia , Petros Faloutsos , Glenn Reinman, SteerBench: a benchmark suite for evaluating steering behaviors, Computer Animation and Virtual Worlds, v.20 n.5&dash;6, p.533-548, September 2009[doi>10.1002/cav.v20:5/6]
+James A. Storer , John H. Reif, Shortest paths in the plane with polygonal obstacles, Journal of the ACM (JACM), v.41 n.5, p.982-1012, Sept. 1994[doi>10.1145/185675.185795]
+Avneesh Sud , Erik Andersen , Sean Curtis , Ming C. Lin , Dinesh Manocha, Real-Time Path Planning in Dynamic Virtual Environments Using Multiagent Navigation Graphs, IEEE Transactions on Visualization and Computer Graphics, v.14 n.3, p.526-538, May 2008[doi>10.1109/TVCG.2008.27]
+Ron Wein , Jur P. van den Berg , Dan Halperin, The visibility-Voronoi complex and its applications, Computational Geometry: Theory and Applications, v.36 n.1, p.66-87, January 2007[doi>10.1016/j.comgeo.2005.11.007]

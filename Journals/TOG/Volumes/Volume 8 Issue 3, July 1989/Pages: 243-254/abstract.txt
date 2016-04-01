@@ -1,0 +1,1 @@
+B-splines are constructed from Bézier curves solely using de Casteljau's construction. Divided differences are not being used, nor is Mansfield's recurrence formula presupposed. Yet, it is shown how to differentiate, subdivide, and evaluate a B-spline. These results are derived from the corresponding techniques of Bézier curves.

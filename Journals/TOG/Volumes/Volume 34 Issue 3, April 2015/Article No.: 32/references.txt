@@ -1,0 +1,69 @@
+V. Acary, F. Cadoux, C. Lemarechal, and J. Malick. 2011. A formulation of the linear discrete Coulomb friction problem via convex optimization. ZAMM- J. Appl. Math. Mechan./Zeitschrift fur Angewandte Mathematik und Mechanik 91, 2, 155--175.
+M. A. Ambroso, C. R. Santore, A. R. Abate, and D. J. Durian. 2005. Penetration depth for shallow impact cratering. Phys. Rev. E71, 051305.
+E. Andersen and K. Andersen. 2000. The mosek interior point optimizer for linear programming: An implementation of the homogeneous algorithm. In High Performance Optimization, H. Frenk, K. Roos, T. Terlaky, and S. Zhang, Eds., Springer, 197--232.
+E. Andersen, C. Roos, and T. Terlaky. 2003. On implementing a primal-dual interior-point method for conic quadratic optimization. Math. Program. 95, 2, 249--277.
+Mihai Anitescu, Optimization-based simulation of nonsmooth rigid multibody dynamics, Mathematical Programming: Series A and B, v.105 n.1, p.113-143, January 2006[doi>10.1007/s10107-005-0590-7]
+M. Anitescu, J. F. Cremer, and F. A. Potra. 1996. Formulating 3D contact dynamics problems. Mechan. Struct. Mach. 24, 4, 405--437.
+M. Anitescu and G. D. Hart. 2004. A constraint-stabilized time-stepping approach for rigid multibody dynamics with joints, contact and friction. Int. J. Numer. Meth. Engin. 60, 14, 2335--2371.
+Mihai Anitescu , Alessandro Tasora, An iterative approach for cone complementarity problems for nonsmooth dynamics, Computational Optimization and Applications, v.47 n.2, p.207-235, October   2010[doi>10.1007/s10589-008-9223-4]
+Amir Beck , Marc Teboulle, A Fast Iterative Shrinkage-Thresholding Algorithm for Linear Inverse Problems, SIAM Journal on Imaging Sciences, v.2 n.1, p.183-202, January 2009[doi>10.1137/080716542]
+S. R. Becker, E. J. Candes, and M. C. Grant. 2011. Templates for convex cone problems with applications to sparse signal recovery. Math. Program. Comput. 3, 3, 165--218.
+Florence Bertails-Descoubes , Florent Cadoux , Gilles Daviet , Vincent Acary, A nonsmooth Newton solver for capturing exact Coulomb friction in fiber assemblies, ACM Transactions on Graphics (TOG), v.30 n.1, p.1-14, January 2011[doi>10.1145/1899404.1899410]
+D. Bertsekas. 1976. On the Goldstein-Levitin-Polyak gradient projection method. IEEE Trans. Autom. Control 21, 2, 174--184.
+Kenneth Bodin , Claude Lacoursiere , Martin Servin, Constraint Fluids, IEEE Transactions on Visualization and Computer Graphics, v.18 n.3, p.516-526, March 2012[doi>10.1109/TVCG.2011.29]
+O. Bonnefon and G. Daviet. 2011. Quartic formulation of Coulomb 3D frictional contact. Tech. rep. Rapport Technique RT-0400, INRIA.
+Robert Bridson , Ronald Fedkiw , John Anderson, Robust treatment of collisions, contact and friction for cloth animation, ACM Transactions on Graphics (TOG), v.21 n.3, July 2002[doi>10.1145/566654.566623]
+N. V. Brilliantov, F. Spahn, J.-M. Hertzsch, and T. Poschel. 1996. Model for collisions in granular gases. Phys. Rev. E53, 5, 5382.
+F. Cadoux. 2009. An optimization-based algorithm for Coulomb's frictional contact. ESAIM: Proc. 27, 54--69.
+Cauchy, A. 1847. Methode generale pour la resolution des systemes d'equations simultanees. Comput. Rend. Sci. Paris 25, 1847, 536--538.
+R. W. Cottle, J.-S. Pang, and R. E. Stone. 2009. The Linear Complementarity Problem. Academic Press, New York.
+P. Cundall. 1971. A computer model for simulating progressive large-scale movements in block rock mechanics. In Proceedings of the International Symposium on Rock Mechanics.
+P. Cundall. 1988. Formulation of a three-dimensional distinct element model-Part I. A scheme to detect and represent contacts in a system composed of many polyhedral blocks. Int. J. Rock Mechan. Mining Sci. Geomechan. Abstr. 25, 3, 107--116.
+P. Cundall and O. Strack. 1979. A discrete element model for granular assemblies. Geotechniq. 29, 47--65.
+Gilles Daviet , Florence Bertails-Descoubes , Laurence Boissieux, A hybrid iterative solver for robustly capturing coulomb friction in hair dynamics, ACM Transactions on Graphics (TOG), v.30 n.6, December 2011[doi>10.1145/2070781.2024173]
+G. De Saxcé , Z. -Q. Feng, The bipotential method: A constructive approach to design the complete contact law with friction and improved numerical algorithms, Mathematical and Computer Modelling: An International Journal, v.28 n.4-8, p.225-245, August, 1998[doi>10.1016/S0895-7177(98)00119-8]
+R. Delannay, M. Louge, P. Richard, N. Taberlet, and A. Valance. 2007. Towards a theoretical picture of dense granular flows down inclines. Nature Mater. 6, 2, 99--108.
+J. W. Demmel. 2011. SuperLu users' guide. http://crd.lbl.gov/∼xiaoye/SuperLU/superlu&lowbar;ug.pdf.
+S. P. Dirkse and M. C. Ferris. 1995. The PATH solver: A nonmonotone stabilization scheme for mixed complementarity problems. Optim. Meth. Softw. 5, 2, 123--156.
+Kenny Erleben, Velocity-based shock propagation for multibody dynamics animation, ACM Transactions on Graphics (TOG), v.26 n.2, p.12-es, June 07[doi>10.1145/1243980.1243986]
+A. Filippov. 1967. Classical solutions of differential equations with multi-valued right-hand side. SIAM J. Control 5, 4, 609--621.
+D. M. Flickinger, J. Williams, and J. Trinkle. 2013. What's wrong with collision detection in multibody dynamic simulation&quest; In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA'13). 959--964.
+C. Glocker and F. Pfeiffer. 2006. An LCP-approach for multibody systems with planar friction. In Proceedings of the International Symposium on Contact Mechanics (CMIS'06). 13--20.
+Eran Guendelman , Robert Bridson , Ronald Fedkiw, Nonconvex rigid bodies with stacking, ACM Transactions on Graphics (TOG), v.22 n.3, July 2003[doi>10.1145/882262.882358]
+E. J. Haug, Computer aided kinematics and dynamics of mechanical systems. Vol. 1: basic methods, Allyn  & Bacon, Inc., Needham Heights, MA, 1989
+T. Heyn. 2013. On the modeling, simulation, and visualization of many-body dynamics problems with friction and contact. Ph.D. thesis. Department of Mechanical Engineering, University of Wisconsin-Madison.
+T. Heyn, M. Anitescu, A. Tasora, and D. Negrut. 2013. Using Krylov subspace and spectral methods for solving complementarity problems in many-body contact dynamics simulation. Int. J. Numer. Meth. Engin. 95, 7, 541--561.
+Intel. 2013. The Intel math kernel library sparse matrix vector multiply format prototype package. http://software.intel.com/en-us/article/the-intel-math-kernel-library-sparse-matrix-vector-multiply-format-prot otype-package.
+H. M. Jaeger, S. R. Nagel, and R. P. Behringer. 1996. Granular solids, liquids, and gases. Rev. Mod. Phys. 68, 1259--1273.
+K. L. Johnson. 1987. Contact Mechanics. Cambridge University Press.
+C. Kane, E. Repetto, M. Ortiz, and J. Marsden. 1999. Finite element analysis of nonsmooth contact. Comput. Meth. Appl. Mechan. Engin. 180, 1, 1--26.
+D. M. Kaufman and D. K. Pai. 2012. Geometric numerical integration of inequality constrained, nonsmooth Hamiltonian systems. SIAM J. Sci. Comput. 34, 5, A2650--A2703.
+A. Li, R. Serban, and D. Negrut. 2013. A SPIKE-based approach for the parallel solution of sparse linear systems on GPU cards. Tech. rep. TR-2013-05, University of Wisconsin-Madison. http://sbel.wisc.edu/documents/TR-2013-05.pdf.
+S. Luding. 2005. Molecular dynamics simulations of granular materials. In The Physics of Granular Media, H. Hinrichsen and D. E. Wolf, Eds., Wiley-VCH, Weinheim, Germany. 299--324.
+H. Mazhar, J. Bollman, E. Forti, A. Praeger, T. Osswald, and D. Negrut, 2013a. Studying the effect of powder geometry of the selective laser sintering process. Tech. rep. TR-2013-03, Simulation-Based Engineering Laboratory, University of Wisconsin-Madison. http://sbel.wisc.edu/documents/TR-2013-03.pdf.
+H. Mazhar, T. Heyn, A. Pazouki, D. Melanz, A. Seidl, A. Bartholomew, A. Tasora, and D. Negrut. 2013b. Chrono: A parallel multi-physics library for rigid-body, flexible-body, and fluid dynamics. Mechan. Sci. 4, 1, 49--64.
+H. Mazhar, D. Melanz, M. Ferris, and D. Negrut. 2014a. An analysis of several methods for handling hard-sphere frictional contact in rigid multibody dynamics. Tech. rep. TR-2014-11, Simulation-Based Engineering Laboratory, University of Wisconsin-Madison. http://sbel.wisc.edu/documents/TR-2014-11.pdf.
+H. Mazhar, J. Schneider, and D. Negrut. 2014b. Preliminary results for helical anchoring project. Tech. rep. TR-2014-10, Simulation-Based Engineering Laboratory. University of Wisconsin-Madison, http://sbel.wisc.edu/documents/TR-2014-10.pdf.
+H. Mazhar, T. Heyn, and D. Negrut. 2011. A scalable parallel method for large collision detection problems. Multibody Syst. Dynam. 26, 37--55.
+J. J. Moreau and M. Jean. 1996. Numerical treatment of contact and friction: The contact dynamics method. In Proceedings of the 3<sup>rd</sup> Biennial Joint Conference on Engineering Systems and Analysis (ESDA'96). 201--208.
+A. Nemirovsky and D. B. Yudin. 1983. Problem Complexity and Method Efficiency in Optimization. John Wiley and Sons.
+Y. Nesterov. 2003. A method of solving a convex programming problem with convergence rate O (1/k<sup>2</sup>). Soviet Math. Doklady 27, 2, 372--376.
+Yurii Nesterov, Introductory Lectures on Convex Optimization: A Basic Course, Springer Publishing Company, Incorporated, 2014
+B. O'Donoghue and E. Candes. 2012. Adaptive restart for accelerated gradient schemes. ArXiv e-prints.
+T. Poschel and T. Schwager. 2005. Computational Granular Dynamics: Models and Algorithms. Springer.
+T. M. Preclik, K. I. Iglberger, and U. Rude. 2009. Iterative rigid multi-body dynamics. In Proceedings of the Thematic Conference on Multibody Dynamics (ECCOMAS'09).
+T. M. Preclik and U. Rude. 2011. Solution existence and non-uniqueness of Coulomb friction. Tech. rep. 4, Friedrich-Alexander University Erlangen-Nurnberg, Institut fur Informatik, Nurnberg, Germany.
+Olaf Schenk , Klaus Gärtner, Solving unsymmetric sparse systems of linear equations with PARDISO, Future Generation Computer Systems, v.20 n.3, p.475-487, April 2004[doi>10.1016/j.future.2003.07.011]
+Zahra Shojaaee , M. Reza Shaebani , Lothar Brendel , János Török , Dietrich E. Wolf, An adaptive hierarchical domain decomposition method for parallel contact dynamics simulations of granular materials, Journal of Computational Physics, v.231 n.2, p.612-628, January, 2012[doi>10.1016/j.jcp.2011.09.024]
+Breannan Smith , Danny M. Kaufman , Etienne Vouga , Rasmus Tamstorf , Eitan Grinspun, Reflections on simultaneous impact, ACM Transactions on Graphics (TOG), v.31 n.4, p.1-12, July 2012[doi>10.1145/2185520.2185602]
+David E. Stewart, Rigid-Body Dynamics with Friction and Impact, SIAM Review, v.42 n.1, p.3-39, March 2000[doi>10.1137/S0036144599360110]
+D. E. Stewart and J. C. Trinkle. 1996. An implicit time-stepping scheme for rigid-body dynamics with inelastic collisions and Coulomb friction. Int. J. Numer. Meth. Engin. 39, 2673--2691.
+Bor-Yiing Su , Kurt Keutzer, clSpMV: A Cross-Platform OpenCL SpMV Framework on GPUs, Proceedings of the 26th ACM international conference on Supercomputing, June 25-29, 2012, San Servolo Island, Venice, Italy[doi>10.1145/2304576.2304624]
+A. Tasora and M. Anitescu. 2013. A complementarity-based rolling friction model for rigid contacts. Meccanica 48, 7, 1643--1659.
+A. Tasora, M. Anitescu, S. Negrini, and D. Negrut. 2013. A compliant visco-plastic particle contact model based on differential variational inequalities. Int. J. Non-Linear Mechan. 53, SI, 2--12.
+A. Tasora, D. Negrut, and M. Anitescu. 2008. Large-scale parallel multi-body dynamics with frictional contact on the graphical processing unit. J. Multi-Body Dynam. 222, 4, 315--326.
+Richard Tonge , Feodor Benevolenski , Andrey Voroshilov, Mass splitting for jitter-free parallel rigid body simulation, ACM Transactions on Graphics (TOG), v.31 n.4, p.1-8, July 2012[doi>10.1145/2185520.2185601]
+J. C. Trinkle. 2003. Formulation of multibody dynamics as complementarity problems. In Proceedings of the 19<sup>th</sup> Biennial Conference on Mechanical Vibration and Noise, Parts A, B, and C (ASME'03). Vol. 5. ASME.
+J. S. Uehara, M. A. Ambroso, R. P. Ojha, and D. J. Durian. 2003. Low-speed impact craters in loose granular media. Phys. Rev. Lett. 90, 194301.
+L. Vu-Quoc , L. Lesburg , X. Zhang, An accurate tangential force-displacement model for granular-flow simulations: contacting spheres with plastic deformation, force-driven formulation, Journal of Computational Physics, v.196 n.1, p.298-326, 1 May 2004[doi>10.1016/j.jcp.2003.10.025]
+L. Vu-Quoc and X. Zhang. 1999. An elastoplastic contact force-displacement model in the normal direction: Displacement-driven version. Proc. Royal Soc. London Series A: Math. Phys. Engin. Sci. 455, 1991, 4013--4044.

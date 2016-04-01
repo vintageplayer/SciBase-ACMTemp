@@ -1,0 +1,45 @@
+Arge, L., Brodal, G. S., and Fagerberg, R. 2005. Cache-Oblivious Data Structures in Handbook of Data Structures. CRC Press.
+Boulos, S., Wald, I., and Benthin, C. 2008. Adaptive ray packet reordering. In Proceedings of the IEEE Symposium on Interactive Ray Tracing. 131--138.
+Budge, B., Bernardin, T., Stuart, J. A., Sengupta, S., Joy, K. I., and Owens, J. D. 2009. Out-of-Core data management for path tracing on hybrid resources. Comput. Graph. Forum 28, 2, 385--396.
+Christensen, P. H., Laur, D. M., Fong, J., Wooten, W. L., and Batali, D. 2003. Ray differentials and multiresolution geometry caching for distribution ray tracing in complex scenes. Comput. Graph. Forum 22, 3, 543--552.
+Cline, D., Steele, K., and Egbert, P. K. 2006. Lightweight bounding volumes for ray tracing. J. Graph. Tools 11, 4, 61--71.
+Robert L. Cook , John Halstead , Maxwell Planck , David Ryu, Stochastic simplification of aggregate detail, ACM Transactions on Graphics (TOG), v.26 n.3, July 2007[doi>10.1145/1276377.1276476]
+David E. DeMarle , Christiaan P. Gribble , Steven G. Parker, Memory-savvy distributed interactive ray tracing, Proceedings of the 5th Eurographics conference on Parallel Graphics and Visualization, June 10-11, 2004, Grenoble, France[doi>10.2312/EGPGV/EGPGV04/093-100]
+P. Diaz-Gutierrez , A. Bhushan , M. Gopi , R. Pajarola, Constrained strip generation and management for efficient interactive 3D rendering, Proceedings of the Computer Graphics International 2005, p.115-121, June 02-04, 2005
+Djeu, P., Hunt, W., Wang, R., Elhassan, I., Stoll, G., and Mark, W. R. 2007. Razor: An architecture for dynamic multiresolution ray tracing. Tech. rep. TR-07-52, The University of Texas at Austin, Department of Computer Sciences. January 24.
+Ernst, M. and Greiner, G. 2008. Multi bounding volume hierarchies. In Proceedings of the IEEE Symposium on Interactive Ray Tracing. 35--40.
+Matteo Frigo , Charles E. Leiserson , Harald Prokop , Sridhar Ramachandran, Cache-Oblivious Algorithms, Proceedings of the 40th Annual Symposium on Foundations of Computer Science, p.285, October 17-18, 1999
+Michael Garland , Paul S. Heckbert, Surface simplification using quadric error metrics, Proceedings of the 24th annual conference on Computer graphics and interactive techniques, p.209-216, August 1997[doi>10.1145/258734.258849]
+Gribble, C. P. and Ramani, K. 2008. Coherent ray tracing via stream filtering. In Proceedings of the IEEE Symposium on Interactive Ray Tracing. 59--66.
+Havran, V. 1997. Cache sensitive representation for the bsp tree. In Proceedings of Compugraphics Conference.
+Paul S. Heckbert , Pat Hanrahan, Beam tracing polygonal objects, Proceedings of the 11th annual conference on Computer graphics and interactive techniques, p.119-127, January 1984[doi>10.1145/800031.808588]
+John L. Hennessy , David A. Patterson, Computer Architecture, Fourth Edition: A Quantitative Approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2006
+Henrik Wann Jensen, Realistic image synthesis using photon mapping, A. K. Peters, Ltd., Natick, MA, 2001
+Kim, T.-J., Byun, Y., Kim, Y., Moon, B., Lee, S., and Yoon, S.-E. 2010a. HCCMeshes: Hierarchical-Culling oriented compact meshes. Comput. Graph. Forum 29, 2. To appear.
+Tae-Joon Kim , Bochang Moon , Duksu Kim , Sung-Eui Yoon, RACBVHs: Random-Accessible Compressed Bounding Volume Hierarchies, IEEE Transactions on Visualization and Computer Graphics, v.16 n.2, p.273-286, March 2010[doi>10.1109/TVCG.2009.71]
+Lauterbach, C., Garland, M., Sengupta, S., Luebke, D., and Manocha, D. 2009b. Fast bvh construction on gpus. Comput. Graph. Forum 28, 2, 375--384.
+Lauterbach, C., Yoon, S.-E., Tang, M., and Manocha, D. 2008. ReduceM: Interactive and memory efficient ray tracing of large models. Comput. Graph. Forum 27, 4, 1313--1321.
+Lauterbach, C., Yoon, S.-E., Tuft, D., and Manocha, D. 2006. RT-DEFORM: Interactive ray tracing of dynamic scenes using bvhs. In Proceedings of the IEEE Symposium on Interactive Ray Tracing. 39--46.
+David Luebke , Benjamin Watson , Jonathan D. Cohen , Martin Reddy , Amitabh Varshney, Level of Detail for 3D Graphics, Elsevier Science Inc., New York, NY, 2002
+Erik Mansson , Jacob Munkberg , Tomas Akenine-Moller, Deep Coherent Ray Tracing, Proceedings of the 2007 IEEE Symposium on Interactive Ray Tracing, p.79-85, September 10-12, 2007[doi>10.1109/RT.2007.4342594]
+Paul Arthur Navratil , Donald S. Fussell , Calvin Lin , William R. Mark, Dynamic Ray Scheduling to Improve Ray Coherence and Bandwidth Utilization, Proceedings of the 2007 IEEE Symposium on Interactive Ray Tracing, p.95-104, September 10-12, 2007[doi>10.1109/RT.2007.4342596]
+Matt Pharr , Greg Humphreys, Physically Based Rendering: From Theory to Implementation, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2004
+Matt Pharr , Craig Kolb , Reid Gershbein , Pat Hanrahan, Rendering complex scenes with memory-coherent ray tracing, Proceedings of the 24th annual conference on Computer graphics and interactive techniques, p.101-108, August 1997[doi>10.1145/258734.258791]
+Alexander Reshetov, Faster Ray Packets - Triangle Intersection through Vertex Culling, Proceedings of the 2007 IEEE Symposium on Interactive Ray Tracing, p.105-112, September 10-12, 2007[doi>10.1109/RT.2007.4342597]
+Alexander Reshetov , Alexei Soupikov , Jim Hurley, Multi-level ray tracing algorithm, ACM Transactions on Graphics (TOG), v.24 n.3, July 2005[doi>10.1145/1073204.1073329]
+Sagan, H. 1994. Space-Filling Curves. Springer-Verlag.
+Peter Shirley , R. Keith Morley, Realistic Ray Tracing, A. K. Peters, Ltd., Natick, MA, 2003
+Silva, C., Chiang, Y.-J., Correa, W., El-Sana, J., and Lindstrom, P. 2002. Out-of-Core algorithms for scientific visualization and computer graphics. In IEEE Visualization Course Notes.
+Joshua Steinhurst , Greg Coombe , Anselmo Lastra, Reordering for cache conscious photon mapping, Proceedings of Graphics Interface 2005, May 09-11, 2005, Victoria, British Columbia
+Abe Stephens , Solomon Boulos , James Bigler , Ingo Wald , Steven Parker, An application of scalable massive model interaction using shared-memory systems, Proceedings of the 6th Eurographics conference on Parallel Graphics and Visualization, May 11-12, 2006, Braga, Portugal[doi>10.2312/EGPGV/EGPGV06/019-026]
+Eric Tabellion , Arnauld Lamorlette, An approximate global illumination system for computer generated films, ACM Transactions on Graphics (TOG), v.23 n.3, August 2004[doi>10.1145/1015706.1015748]
+van Emde Boas, P. 1977. Preserving order in a forest in less than logarithmic time and linear space. Inform. Process. Lett. 6, 80--82.
+Jeffrey Scott Vitter, External memory algorithms and data structures: dealing withmassive data, ACM Computing Surveys (CSUR), v.33 n.2, p.209-271, June 2001[doi>10.1145/384192.384193]
+Ingo Wald , Solomon Boulos , Peter Shirley, Ray tracing deformable scenes using dynamic bounding volume hierarchies, ACM Transactions on Graphics (TOG), v.26 n.1, p.6-es, January 2007[doi>10.1145/1189762.1206075]
+Wald, I., Dietrich, A., and Slusallek, P. 2004. An interactive out-of-core rendering framework for visualizing massively complex models. In Proceedings of the EG Symposium on Rendering. 82--91.
+Wald, I., Mark, W. R., Günther, J., Boulos, S., Ize, T., Hunt, W., Parker, S. G., and Shirley, P. 2007b. State of the art in ray tracing animated scenes. In Eurographics State of the Art Reports.
+Ingo Wald , Philipp Slusallek , Carsten Benthin , Markus Wagner, Interactive Distributed Ray Tracing of Highly Complex Models, Proceedings of the 12th Eurographics Workshop on Rendering Techniques, p.277-288, June 25-27, 2001
+Yoon, S.-E., Gobbetti, E., Kasik, D., and Manocha, D. 2008. Real-Time Massive Model Rendering. Morgan & Claypool.
+Sung-Eui Yoon , Peter Lindstrom, Mesh Layouts for Block-Based Caches, IEEE Transactions on Visualization and Computer Graphics, v.12 n.5, p.1213-1220, September 2006[doi>10.1109/TVCG.2006.162]
+Sung-Eui Yoon , Peter Lindstrom , Valerio Pascucci , Dinesh Manocha, Cache-oblivious mesh layouts, ACM Transactions on Graphics (TOG), v.24 n.3, July 2005[doi>10.1145/1073204.1073278]
+Yoon, S.-E. and Manocha, D. 2006. Cache-Efficient layouts of bounding volume hierarchies. Comput. Graph. Forum 25, 3, 507--516.
