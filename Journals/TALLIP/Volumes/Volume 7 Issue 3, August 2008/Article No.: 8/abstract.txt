@@ -1,0 +1,31 @@
+Internet directories such as Yahoo! are an approach to improve
+the efficacy and efficiency of Information Retrieval (IR) on the
+Web, as pages (documents) are organized into hierarchical
+categories, and similar pages are grouped together. Most of the
+search engines on the Web service find documents that are assigned
+to a single classification hierarchy. Categories in the hierarchy
+are carefully defined by human experts and documents are well
+organized. However, a single hierarchy in one language is often
+insufficient to find all relevant material, as each hierarchy tends
+to have some bias in both defining hierarchical structure and
+classifying documents. Moreover, documents written in a language
+other than the users native language often include large amounts of
+information related to the users request. In this article, we
+propose a method of integrating cross-language (CL) category
+hierarchies, that is, Reuters 96 hierarchy and UDC code hierarchy
+of Japanese by estimating category similarities. The method does
+not simply merge two different hierarchies into one large hierarchy
+but instead extracts sets of similar categories, where each element
+of the sets is relevant with each other. It consists of three
+steps. First, we classify documents from one hierarchy into
+categories with another hierarchy using a cross-language text
+classification (CLTC) technique, and extract category pairs of two
+hierarchies. Next, we applyÇ2statistics
+to these pairs to obtain similar category pairs, and finally we
+apply the generating function of the Apriori algorithm
+(Apriori-Gen) to the category pairs, and find sets of similar
+categories. Moreover, we examined whether integrating hierarchies
+helps to support retrieval of documents with similar contents. The
+retrieval results showed a 42.7% improvement over the baseline
+nonhierarchy model, and a 21.6% improvement over a single
+hierarchy.

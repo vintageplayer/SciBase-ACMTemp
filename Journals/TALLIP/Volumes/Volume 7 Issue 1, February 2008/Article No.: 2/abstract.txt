@@ -1,0 +1,17 @@
+The main issues of practical spoken-language applications for
+human-computer interface are how to overcome speech recognition
+errors and guarantee the reasonable end-performance of
+spoken-language applications. Therefore, handling the erroneously
+recognized outputs is a key in developing robust spoken-language
+systems. To address this problem, we present a method to improve
+the accuracy of speech recognition and performance of
+spoken-language applications. The proposed error corrective
+reranking approach exploits recognition environment characteristics
+and domain-specific semantic information to provide robustness and
+adaptability for a spoken-language system. We demonstrate some
+experiments of spoken dialogue tasks and empirical results that
+show an improvement in accuracy for both speech recognition and
+spoken-language understanding. In our experiment, we show an error
+reduction of up to 9.7% and 16.8%; of word error rate, and 5.5% and
+7.9% of understanding error for the air travel and telebanking
+service domains.

@@ -1,0 +1,22 @@
+This article describes an approach to unsupervised learning of
+morphology from an unannotated corpus for a highly inflectional
+Indo-European language called Assamese spoken by about 30 million
+people. Although Assamese is one of Indias national languages, it
+utterly lacks computational linguistic resources. There exists no
+prior computational work on this language spoken widely in
+northeast India. The work presented is pioneering in this respect.
+In this article, we discuss salient issues in Assamese morphology
+where the presence of a large number of suffixal determiners,
+sandhi, samas, and the propensity to use suffix sequences make
+approximately 50% of the words used in written and spoken text
+inflected. We implement methods proposed by Gaussier and Goldsmith
+on acquisition of morphological knowledge, and obtain F-measure
+performance below 60%. This motivates us to present a method more
+suitable for handling suffix sequences, enabling us to increase the
+F-measure performance of morphology acquisition to almost 70%. We
+describe how we build a morphological dictionary for Assamese from
+the text corpus. Using the morphological knowledge acquired and the
+morphological dictionary, we are able to process small chunks of
+data at a time as well as a large corpus. We achieve approximately
+85% precision and recall during the analysis of small chunks of
+coherent text.

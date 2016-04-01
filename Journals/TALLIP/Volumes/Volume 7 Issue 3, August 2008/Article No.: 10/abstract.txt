@@ -1,0 +1,27 @@
+Tone recognition has been a basic but important task for speech
+recognition and assessment of tonal languages, such as Mandarin
+Chinese. Most previously proposed approaches adopt a two-step
+approach where syllables within an utterance are identified via
+forced alignment first, and tone recognition using a variety of
+classifiers---such as neural networks, Gaussian mixture models
+(GMM), hidden Markov models (HMM), support vector machines
+(SVM)---is then performed on each segmented syllable to predict its
+tone. However, forced alignment does not always generate accurate
+syllable boundaries, leading to unstable voiced-unvoiced detection
+and deteriorating performance in tone recognition. Aiming to
+alleviate this problem, we propose a robust approach called Tone
+Recognition Using Extended Segments (TRUES) for HMM-based
+continuous tone recognition. The proposed approach extracts an
+unbroken pitch contour from a given utterance based on dynamic
+programming over time-domain acoustic features of average magnitude
+difference function (AMDF). The pitch contour of each syllable is
+then extended for tri-tone HMM modeling, such that the influence
+from inaccurate syllable boundaries is lessened. Our experimental
+results demonstrate that the proposed TRUES achieves 49.13%
+relative error rate reduction over that of the recently proposed
+supratone modeling, which is deemed the state of the art of tone
+recognition that outperforms several previously proposed
+approaches. The encouraging improvement demonstrates the
+effectiveness and robustness of the proposed TRUES, as well as the
+corresponding pitch determination algorithm which produces unbroken
+pitch contours.
