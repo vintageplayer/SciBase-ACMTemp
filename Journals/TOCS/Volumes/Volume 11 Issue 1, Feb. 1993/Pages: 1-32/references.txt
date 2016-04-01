@@ -1,0 +1,30 @@
+G. A. Alverson , D. Notkin, Program Structuring for Effective Parallel Portability, IEEE Transactions on Parallel and Distributed Systems, v.4 n.9, p.1041-1059, September 1993[doi>10.1109/71.243530]
+T. E. Anderson , E. D. Lazowska , H. M. Levy, The Performance Implications of Thread Management Alternatives for Shared-Memory Multiprocessors, IEEE Transactions on Computers, v.38 n.12, p.1631-1644, December 1989[doi>10.1109/12.40843]
+Thomas E. Anderson , Brian N. Bershad , Edward D. Lazowska , Henry M. Levy, Scheduler activations: effective kernel support for the user-level management of parallelism, ACM Transactions on Computer Systems (TOCS), v.10 n.1, p.53-79, Feb. 1992[doi>10.1145/146941.146944]
+Brian N. Bershad , Edward D. Lazowska , Henry M. Levy, PRESTO: a system for object-oriented parallel programming, Software—Practice & Experience, v.18 n.8, p.713-732, August 1988[doi>10.1002/spe.4380180802]
+Nicholas Carriero , David Gelernter, How to write parallel programs: a guide to the perplexed, ACM Computing Surveys (CSUR), v.21 n.3, p.323-357, Sep. 1989[doi>10.1145/72551.72553]
+DOEPPNER, T. W., JR. Threads: A system for the support of concurrent programming. Tech. Rep. CS-87-11, Dept. of Computer Science, Brown Univ., 1987.
+DRAVES, R., AND COOPER, E. C threads. Tech. Rep. CMU-CS-88-154, School of Computer Science, Carnegie Mellon Univ., June 1988.
+EAGER, D. L., AND ZAHORJAN, J. Adaptive guided self-scheduling. Tech. Rep. 92-01-01, Dept. of Computer Science and Engineering, Univ. of Washington, Jan. 1992.
+EDLER, J., LIPKrS, J., AND SCHONBERG, E. Process management for highly parallel UNIX systems. Ultracomputer note 136, Courant Inst. of Mathematical Sciences, New York Univ., April 1988.
+JORDAN, H. The Force. Tech. Rep. ECE-87-1-1, Dept. of Electrical and Computer Engineering, Univ. of Colorado, Jan. 1987.
+JORDAN, H., BENTEN, M., ALAGHBAND, G., AND JACOB, R. The Force: A highly portable parallel programming language. In Proceedings of the 1989 International Conference on Parallel Processing (St. Charles, Ill., Aug. 1989), pp. II 112-II 117.
+KALE, L.V. The Chare kernel parallel programming language and system. In Proceedings of the 1990 International Conference on Parallel Processing (Aug. 1990), pp. II 17-II 25.
+Alan H. Karp , Robert G. Babb II, A Comparison of 12 Parallel FORTRAN Dialects, IEEE Software, v.5 n.5, p.52-67, September 1988[doi>10.1109/52.7943]
+Brian D. Marsh , Michael L. Scott , Thomas J. LeBlanc , Evangelos P. Markatos, First-class user-level threads, Proceedings of the thirteenth ACM symposium on Operating systems principles, p.110-121, October 13-16, 1991, Pacific Grove, California, United States[doi>10.1145/121132.344329]
+E. Mohr , D. A. Kranz , R. H. Halstead, Jr., Lazy Task Creation: A Technique for Increasing the Granularity of Parallel Programs, IEEE Transactions on Parallel and Distributed Systems, v.2 n.3, p.264-280, July 1991[doi>10.1109/71.86103]
+MOLLER-NIELSEN, P., AND STAUNSTRUP, J. Problem-heap: A paradigm for multiprocessor algorithms. Parallel Comput. 4, i (Feb. 1987), 63-74.
+Donna Bergmark , Cherri M. Pancake, Do Parallel Languages Respond to the Needs of Scientific Programmers?, Computer, v.23 n.12, p.13-23, December 1990[doi>10.1109/2.62090]
+C. D. Polychronopoulos , D. J. Kuck, Guided self-scheduling: A practical scheduling scheme for parallel supercomputers, IEEE Transactions on Computers, v.36 n.12, p.1425-1439, Dec. 1987[doi>10.1109/TC.1987.5009495]
+POL~CHRONOPOULOS, C. D., GmKAR, M, HAGHmHAT, M. R., LEE, C. L., LEUNG, B., AND SCHOUTEN, D. Parafrase-2: An environment for parallelizing, partitioning, synchronizing, and scheduling programs on multiprocessors. In Proceedings of the 1989 Internatwnal Conference on Parallel Processing (St. Charles, Ill., Aug. 1989), pp. II 39-II 48.
+POLYCHRONOPOULOS, C.D. Auto-scheduling: Control flow and data flow come together. Tech. Rep. CSRD-TR-1058, Center for Supercomputing Research and Development, Univ. of Illinois, Nov. 1990.
+M. Reiser , S. S. Lavenberg, Mean-Value Analysis of Closed Multichain Queuing Networks, Journal of the ACM (JACM), v.27 n.2, p.313-322, April 1980[doi>10.1145/322186.322195]
+TEVANIAN, A., RASHID, R., GOLUB, D., BLACK, D., COOPER, E., ANn YOUNG, M. Mach threads and the UNIX kernel: The battle for control. In Proceedings of the 1987 USENIX Summer Conference (Phoenix, Ariz., 1987), pp. 185 197.
+Charles P. Thacker , Lawrence C. Stewart , Edwin H. Satterthwaite, Jr., Firefly: A Multiprocessor Workstation, IEEE Transactions on Computers, v.37 n.8, p.909-920, August 1988[doi>10.1109/12.2243]
+THOMAS, R. H., AND CROWTHER, W. The uniform system: An approach to runtime support for large scale shared memory parallel processors. In Proceedings of the 1988 International Conference on Parallel Processing (St. Charles, Ill., Aug. 1988), pp. 245-254.
+L. J. Toomey , E. C. Plachy , R. G. Scarborough , R. J. Sahulka , J. F. Shaw, IBM parallel FORTRAN, IBM Systems Journal, v.27 n.4, p.416-435, November 1988[doi>10.1147/sj.274.0416]
+A. Tucker , A. Gupta, Process control and scheduling issues for multiprogrammed shared-memory multiprocessors, Proceedings of the twelfth ACM symposium on Operating systems principles, p.159-166, November 1989[doi>10.1145/74850.74866]
+Mark T. Vandevoorde , Eric S. Roberts, Workcrews: an abstraction for controlling parallelism, International Journal of Parallel Programming, v.17 n.4, p.347-366, Aug. 1988[doi>10.1007/BF01407910]
+M. Weiser , A. Demers , C. Hauser, The portable common runtime approach to interoperability, Proceedings of the twelfth ACM symposium on Operating systems principles, p.114-122, November 1989[doi>10.1145/74850.74862]
+Michael Joseph Wolfe, Optimizing Supercompilers for Supercomputers, MIT Press, Cambridge, MA, 1990
+J. Zahorjan , E. D. Lazowska , D. L. Eager, The Effect of Scheduling Discipline on Spin Overhead in Shared Memory Parallel Systems, IEEE Transactions on Parallel and Distributed Systems, v.2 n.2, p.180-198, April 1991[doi>10.1109/71.89064]

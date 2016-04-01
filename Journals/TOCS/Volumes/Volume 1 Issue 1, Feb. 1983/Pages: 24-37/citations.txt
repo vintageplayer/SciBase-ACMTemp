@@ -1,0 +1,52 @@
+Lee Higbee, Quick and easy cache performance analysis, ACM SIGARCH Computer Architecture News, v.18 n.2, p.33-44, Jun. 1990
+Dominique Thiebaut , Harold S. Stone, Footprints in the cache, ACM Transactions on Computer Systems (TOCS), v.5 n.4, p.305-329, Nov. 1987
+Yarsun Hsu , C. Eric Wu , Yew-Huey Liu, Efficient Stack Simulation for Set-Associative Virtual Address Caches With Real Tags, IEEE Transactions on Computers, v.44 n.5, p.719-723, May 1995
+Alan Jay Smith, Cache evaluation and the impact of workload choice, ACM SIGARCH Computer Architecture News, v.13 n.3, p.64-73, June 1985
+Joel S. Emer , Douglas W. Clark, A Characterization of Processor Performance in the vax-11/780, ACM SIGARCH Computer Architecture News, v.12 n.3, p.301-310, June 1984
+Norman P. Jouppi, Cache write policies and performance, ACM SIGARCH Computer Architecture News, v.21 n.2, p.191-201, May 1993
+D. W. Clark , P. J. Bannon , J. B. Keller, Measuring VAX 8800 performance with a histogram hardware monitor, ACM SIGARCH Computer Architecture News, v.16 n.2, p.176-185, May 1988
+Craig B. Stunkel , Bob Janssens , W. Kent Fuchs, Address Tracing for Parallel Machines, Computer, v.24 n.1, p.31-38, January 1991
+Joel S. Emer , Douglas W. Clark, A characterization of processor performance in the VAX-11/780, 25 years of the international symposia on Computer architecture (selected papers), p.274-283, June 27-July 02, 1998, Barcelona, Spain
+Anthony LaMarca , Richard E. Ladner, The influence of caches on the performance of sorting, Proceedings of the eighth annual ACM-SIAM symposium on Discrete algorithms, p.370-379, January 05-07, 1997, New Orleans, Louisiana, United States
+Niki C. Thornock , J. Kelly Flanagan, Facilitating level three cache studies using set sampling, Proceedings of the 32nd conference on Winter simulation, December 10-13, 2000, Orlando, Florida
+Robert P. Colwell , Edward F. Gehringer , E. Douglas Jensen, Performance effects of architectural complexity in the Intel 432, ACM Transactions on Computer Systems (TOCS), v.6 n.3, p.296-339, Aug. 1988
+Douglas W. Clark , Joel S. Emer, Performance of the VAX-11/780 translation buffer: simulation and measurement, ACM Transactions on Computer Systems (TOCS), v.3 n.1, p.31-62, Feb. 1985
+C. B. Stunkel , W. K. Fuchs, TRAPEDS: producing traces for multicomputers via execution driven simulation, ACM SIGMETRICS Performance Evaluation Review, v.17 n.1, p.70-78, May 1989
+Charlton D. Rose , J. Kelly Flanagan, Constructing instruction traces from cache-filtered address traces (CITCAT), ACM SIGARCH Computer Architecture News, v.24 n.5, p.1-8, Dec. 1996
+Ann Marie Grizzaffi Maynard , Colette M. Donnelly , Bret R. Olszewski, Contrasting characteristics and cache performance of technical and multi-user commercial workloads, ACM SIGPLAN Notices, v.29 n.11, p.145-156, Nov. 1994
+C. E. Wu , Y. Hsu , Y. -H. Liu, A Quantitative Evaluation of Cache Types for High-Performance Computer Systems, IEEE Transactions on Computers, v.42 n.10, p.1154-1162, October 1993
+Niki C. Thornock , J. Kelly Flanagan, Using the BACH trace collection mechanism to characterize the SPEC 2000 integer benchmarks, Workload characterization of emerging computer applications, Kluwer Academic Publishers, Norwell, MA, 2001
+R. L. Lee , P. C. Yew , D. H. Lawrie, Multiprocessor cache design considerations, Proceedings of the 14th annual international symposium on Computer architecture, p.253-262, June 02-05, 1987, Pittsburgh, Pennsylvania, United States
+S. Dwarkadas , J. R. Jump , J. B. Sinclair, Execution-driven simulation of multiprocessors: address and timing analysis, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.4 n.4, p.314-338, Oct. 1994
+Pramod V. Argade , David K. Charles , Craig Taylor, A technique for monitoring run-time dynamics of an operating system and a microprocessor executing user applications, ACM SIGPLAN Notices, v.29 n.11, p.122-131, Nov. 1994
+R. Saavedra-Barrera , D. Culler , T. von Eicken, Analysis of multithreaded architectures for parallel computing, Proceedings of the second annual ACM symposium on Parallel algorithms and architectures, p.169-178, July 02-06, 1990, Island of Crete, Greece
+Jari Ahola, RECET - A Real-Time Cache Evaluation Tool, Proceedings of the 3rd International Workshop on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems, p.376-381, January 10-18, 1995
+Josep Torrellas , Anoop Gupta , John Hennessy, Characterizing the caching and synchronization performance of a multiprocessor operating system, ACM SIGPLAN Notices, v.27 n.9, p.162-174, Sept. 1992
+R. T. Short , H. M. Levy, A simulation study of two-level caches, ACM SIGARCH Computer Architecture News, v.16 n.2, p.81-88, May 1988
+Nathan T. Slingerland , Alan Jay Smith, Cache performance for multimedia applications, Proceedings of the 15th international conference on Supercomputing, p.204-217, June 2001, Sorrento, Italy
+Anant Agarwal , John Hennessy , Mark Horowitz, Cache performance of operating system and multiprogramming workloads, ACM Transactions on Computer Systems (TOCS), v.6 n.4, p.393-431, Nov. 1988
+Jeffrey D. Gee , Mark D. Hill , Dionisios N. Pnevmatikatos , Alan Jay Smith, Cache Performance of the SPEC92 Benchmark Suite, IEEE Micro, v.13 n.4, p.17-27, July 1993
+C. Natarajan , S. Sharma , R. K. Iyer, Measurement-based characterization of global memory and network contention, operating system and parallelization overheads, ACM SIGARCH Computer Architecture News, v.22 n.2, p.71-80, April 1994
+A. J. Smith, Line (block) size choice for CPU cache memories, IEEE Transactions on Computers, v.36 n.9, p.1063-1076, Sept. 1987
+A. Agarwal , J. Hennessy , M. Horowitz, An analytical cache model, ACM Transactions on Computer Systems (TOCS), v.7 n.2, p.184-215, May 1989
+Helen Davis , John Hennessy, Characterizing the synchronization behavior of parallel programs, ACM SIGPLAN Notices, v.23 n.9, p.198-211, Sept. 1988
+D. R. Cheriton , G. A. Slavenburg , P. D. Boyle, Software-controlled caches in the VMP multiprocessor, ACM SIGARCH Computer Architecture News, v.14 n.2, p.366-374, May 1986
+Ilkka J. Haikala, Cache hit ratios with geometric task switch intervals, ACM SIGARCH Computer Architecture News, v.12 n.3, p.364-371, June 1984
+R. E. Kessler , R. Jooss , A. Lebeck , M. D. Hill, Inexpensive implementations of set-associativity, ACM SIGARCH Computer Architecture News, v.17 n.3, p.131-139, June 1989
+Richard Uhlig , David Nagle , Trevor Mudge , Stuart Sechrest, Trap-driven simulation with Tapeworm II, ACM SIGPLAN Notices, v.29 n.11, p.132-144, Nov. 1994
+J. Torrellas , Chun Xia , R. Daigle, Optimizing instruction cache performance for operating system intensive workloads, Proceedings of the 1st IEEE Symposium on High-Performance Computer Architecture, p.360, January 22-25, 1995
+A. Agarwal , R. L. Sites , M. Horowitz, ATUM: a new technique for capturing address traces using microcode, ACM SIGARCH Computer Architecture News, v.14 n.2, p.119-127, May 1986
+S. Laha , J. H. Patel , R. K. Iyer, Accurate Low-Cost Methods for Performance Evaluation of Cache Memory Systems, IEEE Transactions on Computers, v.37 n.11, p.1325-1336, November 1988
+Anthony LaMarca , Richard Ladner, The influence of caches on the performance of heaps, Journal of Experimental Algorithmics (JEA), 1, p.4-es, 1996
+Richard Uhlig , David Nagle , Trevor Mudge , Stuart Sechrest, Trap-driven memory simulation with Tapeworm II, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.7 n.1, p.7-41, Jan. 1997
+W. -m.  W. Hwu , T. M. Conte, Editorial, IEEE Transactions on Computers, v.43 n.9, p.994-1003, September 1994
+Joseph Torrellas , Chun Xia , Russell L. Daigle, Optimizing the Instruction Cache Performance of the Operating System, IEEE Transactions on Computers, v.47 n.12, p.1363-1381, December 1998
+M. D. Hill , A. J. Smith, Evaluating Associativity in CPU Caches, IEEE Transactions on Computers, v.38 n.12, p.1612-1630, December 1989
+David W. Wall, Experience with a software-defined machine architecture, ACM Transactions on Programming Languages and Systems (TOPLAS), v.14 n.3, p.299-338, July 1992
+Umakishore Ramachandran , Joonwon Lee, Cache-Based Synchronization in Shared Memory Multiprocessors, Journal of Parallel and Distributed Computing, v.32 n.1, p.11-27, Jan. 10, 1996
+Janaki Akella , Daniel P. Siewiorek, Modeling and measurement of the impact of Input/Output on system performance, ACM SIGARCH Computer Architecture News, v.19 n.3, p.390-399, May 1991
+J. Bradley Chen , Brian N. Bershad, The impact of operating system structure on memory system performance, ACM SIGOPS Operating Systems Review, v.27 n.5, p.120-133, Dec. 1993
+Niki C. Thornock , J. Kelly Flanagan, A national trace collection and distribution resource, ACM SIGARCH Computer Architecture News, v.29 n.3, p.6-10, June 2001
+Richard Uhlig , David Nagle , Trevor Mudge , Stuart Sechrest , Joel Emer, Instruction fetching: coping with code bloat, ACM SIGARCH Computer Architecture News, v.23 n.2, p.345-356, May 1995
+Alan Jay Smith, Cache Memories, ACM Computing Surveys (CSUR), v.14 n.3, p.473-530, Sept. 1982
+John L. Hennessy , David A. Patterson, Computer Architecture, Fifth Edition: A Quantitative Approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2011

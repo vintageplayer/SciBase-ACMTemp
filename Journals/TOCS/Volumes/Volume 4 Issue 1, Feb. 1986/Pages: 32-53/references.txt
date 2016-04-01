@@ -1,0 +1,33 @@
+Peter A. Alsberg , John D. Day, A principle for resilient sharing of distributed resources, Proceedings of the 2nd international conference on Software engineering, p.562-570, October 13-15, 1976, San Francisco, California, United States
+Philip A. Bernstein , Nathan Goodman, Concurrency Control in Distributed Database Systems, ACM Computing Surveys (CSUR), v.13 n.2, p.185-221, June 1981[doi>10.1145/356842.356846]
+Philip A. Bernstein , Nathan Goodman, The failure and recovery problem for replicated databases, Proceedings of the second annual ACM symposium on Principles of distributed computing, p.114-122, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806714]
+Kenneth P. Birman, Replication and Fault-Tolerance in the ISIS System, Cornell University, Ithaca, NY, 1985
+Andrew D. Birrell , Roy Levin , Michael D. Schroeder , Roger M. Needham, Grapevine: an exercise in distributed computing, Communications of the ACM, v.25 n.4, p.260-274, April 1982[doi>10.1145/358468.358487]
+BLOCH, J. J., DANIELS, D. S., AND SPECTOR, A.Z. Weighted voting for directories: A comprehensive study. Tech. Rep. CMU-CS-84-114, Carnegie-Mellon University, April, 1984.
+Arvola Chan , Stephen Fox , Wen-Te K. Lin , Anil Nori , Daniel R. Ries, The implementation of an integrated concurrency control and recovery scheme, Proceedings of the 1982 ACM SIGMOD international conference on Management of data, June 02-04, 1982, Orlando, Florida[doi>10.1145/582353.582386]
+COOPER, E.C. Circus: A replicated procedure call facility. In Proceedings 4th Symposium on Reliability in Distributed Software and Database Systems (Silver Spring, Md., Oct. 1984), IEEE, NY, 1985, pp. 11-24.
+DUBOURDIEU, D.J. implementation of Distributed Transactions. In Proceedings 1982 Berkeley Workshop on Distributed Data Management and Computer Networks, (Asilomar, Calif., Feb. 16-19), National Technical Information Services, 1982, pp. 81-94.
+Derek L. Eager , Kenneth C. Sevcik, Achieving robustness in distributed database systems, ACM Transactions on Database Systems (TODS), v.8 n.3, p.354-381, Sept. 1983[doi>10.1145/319989.319992]
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+Michael J. Fischer , Alan Michael, Sacrificing serializability to attain high availability of data in an unreliable network, Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database systems, March 29-31, 1982, Los Angeles, California[doi>10.1145/588111.588124]
+Hector Garcia-Molina , Daniel Barbara, How to assign votes in a distributed system, Journal of the ACM (JACM), v.32 n.4, p.841-860, Oct. 1985[doi>10.1145/4221.4223]
+David K. Gifford, Weighted voting for replicated data, Proceedings of the seventh ACM symposium on Operating systems principles, p.150-162, December 10-12, 1979, Pacific Grove, California, United States[doi>10.1145/800215.806583]
+GIFFORD, D.K. Information Storage in a Decentralized Computer System. Tech. Rep. CSL-81- 8, Xerox Corporation, March, 1982.
+Nathan Goodman , Dale Skeen , Arvola Chan , Umeshwar Dayal , Stephen Fox , Daniel Ries, A recovery algorithm for a distributed database system, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia[doi>10.1145/588058.588061]
+Micael Hammer , David Shipman, Reliability mechanisms for SDD-1: a system for distributed databases, ACM Transactions on Database Systems (TODS), v.5 n.4, p.431-466, Dec.  1980[doi>10.1145/320610.320621]
+M. P. Herlihy, REPLICATION METHODS FOR ABSTRACT DATA TYPES, Massachusetts Institute of Technology, Cambridge, MA, 1984
+HERLIHY, M.P. Using type information to enhance the availability of partitioned data. Tech. Rep. CMU-CS-85-119, Carnegie-Mellon University, April, 1985.
+JOHNSON, P. R., AND THOMAS, R.H. The maintenance of duplicate databases. Tech. Rep. RFC 677 NIC 31507, Network Working Group, january, 1975.
+Thomas A. Joseph , Kenneth P. Birman, Low cost management of replicated data in fault-tolerant distributed systems, ACM Transactions on Computer Systems (TOCS), v.4 n.1, p.54-70, Feb. 1986[doi>10.1145/6306.6309]
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+LISKOV, B., AND SNYDER, A. Exception handling in CLU. IEEE Trans. Softw. Eng. 5, 6 (Nov., 1979), 546-558.
+Barbara Liskov , Robert Scheifler, Guardians and Actions: Linguistic Support for Robust, Distributed Programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.3, p.381-404, July 1983[doi>10.1145/2166.357215]
+MINOURA, T., AND WIEDERHOLD, G. Resilient extended true-copy token scheme for a distributed database system. IEEE Trans. Softw. Eng. 8, 3 (May, 1982), 173-188.
+E. B. Moss, NESTED TRANSACTIONS: AN APPROACH TO RELIABLE DISTRIBUTED COMPUTING, Massachusetts Institute of Technology, Cambridge, MA, 1981
+OPPEN, D., AND DALAL, Y.K. The clearinghouse: A decentralized agent for locating named objects in a distributed environment. Tech. Rep. OPD-T8103, Xerox Corporation, October, 1981.
+Christos H. Papadimitriou, The serializability of concurrent database updates, Journal of the ACM (JACM), v.26 n.4, p.631-653, Oct. 1979[doi>10.1145/322154.322158]
+David P. Reed, Implementing atomic actions on decentralized data, ACM Transactions on Computer Systems (TOCS), v.1 n.1, p.3-23, Feb. 1983[doi>10.1145/357353.357355]
+SPECTOR, A. Z., BUTCHER, J., DANIELS, D. S., DUCHAMP, D. J., EPPINGER, J. L., FINEMAN, C. E., HEDDAYA, A., AND SCHWARZ, P.M. Support for distributed transactions in the TABS prototype. TOSE 11, 6 (June, 1985), 520-530.
+THOMAS, R.H. A solution to the concurrency control problem for multiple copy databases. In Proceedings o{ the 16th IEEE Computer Society international Conference (COMPCON) (New York, NY) Spring, 1978.
+Joost S. M. Verhofstad, Recovery Techniques for Database Systems, ACM Computing Surveys (CSUR), v.10 n.2, p.167-195, June 1978[doi>10.1145/356725.356730]
+W. E. Weihl, SPECIFICATION AND IMPLEMENTATION OF ATOMIC DATA TYPES, Massachusetts Institute of Technology, Cambridge, MA, 1984

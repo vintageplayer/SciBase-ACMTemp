@@ -1,0 +1,19 @@
+D. Agrawal , A. El Abbadi, Efficient solution to the distributed mutual exclusion problem, Proceedings of the eighth annual ACM Symposium on Principles of distributed computing, p.193-200, June 1989, Edmonton, Alberta, Canada[doi>10.1145/72981.72994]
+Divyakant Agrawal , Amr El Abbadi, Reducing Storage for Quorum Consensus Algorithms, Proceedings of the 14th International Conference on Very Large Data Bases, p.419-430, August 29-September 01, 1988
+M. Ahamad , M. H. Ammar, Performance Characterization of Quorum-Consensus Algorithms for Replicated Data, IEEE Transactions on Software Engineering, v.15 n.4, p.492-496, April 1989[doi>10.1109/32.16608]
+AHAMAD, M., AMMAR, M. H., AND CHEUNa, S. Y. Optimizing the performance of quorum consensus replica control protocols. In Proceedings of the Workshop on Management of Replicated Data. (Houston, Tex, Nov. 8-9, 1990). IEEE, 1990, pp 102 107.{
+BARBARA, D., AND GARCIA-MOHNA, H. Mutual exclusion in partitioned distributed systems D~strib. Comput. I (1986), 119-132.
+Daniel Barbara , Hector Garcia-Molina , Annemarie Spauster, Increasing availability under mutual exclusion constraints with dynamic vote reassignment, ACM Transactions on Computer Systems (TOCS), v.7 n.4, p.394-426, Nov. 1989[doi>10.1145/75104.75107]
+Philip A. Bernstein , Vassco Hadzilacos , Nathan Goodman, Concurrency control and recovery in database systems, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1987
+S. Y. Cheung , M. Ahamad , M. H. Ammar, Optimizing Vote and Quorum Assignments for Reading and Writing Replicated Data, IEEE Transactions on Knowledge and Data Engineering, v.1 n.3, p.387-397, September 1989[doi>10.1109/69.87983]
+Shun Yan Cheung , Mostafa H. Ammar , Mustaque Ahamad, The Grid Protocol: A High Performance Scheme for Maintaining Replicated Data, Proceedings of the Sixth International Conference on Data Engineering, p.438-445, February 05-09, 1990
+Susan B. Davidson , Hector Garcia-Molina , Dale Skeen, Consistency in a partitioned network: a survey, ACM Computing Surveys (CSUR), v.17 n.3, p.341-370, Sept. 1985[doi>10.1145/5505.5508]
+Derek L. Eager , Kenneth C. Sevcik, Achieving robustness in distributed database systems, ACM Transactions on Database Systems (TODS), v.8 n.3, p.354-381, Sept. 1983[doi>10.1145/319989.319992]
+Hector Garcia-Molina , Daniel Barbara, How to assign votes in a distributed system, Journal of the ACM (JACM), v.32 n.4, p.841-860, Oct. 1985[doi>10.1145/4221.4223]
+David K. Gifford, Weighted voting for replicated data, Proceedings of the seventh ACM symposium on Operating systems principles, p.150-162, December 10-12, 1979, Pacific Grove, California, United States[doi>10.1145/800215.806583]
+Maurice Herlihy, Dynamic quorum adjustment for partitioned data, ACM Transactions on Database Systems (TODS), v.12 n.2, p.170-194, June 1987[doi>10.1145/22952.22953]
+S. Jajodia , David Mutchler, Dynamic voting algorithms for maintaining the consistency of a replicated database, ACM Transactions on Database Systems (TODS), v.15 n.2, p.230-280, June 1990[doi>10.1145/78922.78926]
+KUMAR, A. Performance analysis of a hierarchical quorum consensus algorithm for replicated objects. In Proceedings of the lOth International Conference on Distributed Computing Systems. (Paris, May 28-June 1, 1990). IEEE, 1990, pp. 378-385.
+LAMPORT, L. The implementation of reliable distributed multiprocess systems. Corrtput. Networks. 2, 5 (May 1978), 95-114
+Mamoru Maekawa, ANalgorithm for mutual exclusion in decentralized systems, ACM Transactions on Computer Systems (TOCS), v.3 n.2, p.145-159, May 1985[doi>10.1145/214438.214445]
+Robert H. Thomas, A Majority consensus approach to concurrency control for multiple copy databases, ACM Transactions on Database Systems (TODS), v.4 n.2, p.180-209, June 1979[doi>10.1145/320071.320076]

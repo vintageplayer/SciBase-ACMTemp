@@ -1,0 +1,31 @@
+James H. Anderson , Aaron Block , Anand Srinivasan, Quick-release Fair Scheduling, Proceedings of the 24th IEEE International Real-Time Systems Symposium, p.130, December 03-05, 2003
+James H. Anderson , Srikanth Ramamurthy , Kevin Jeffay, Real-time computing with lock-free shared objects, ACM Transactions on Computer Systems (TOCS), v.15 n.2, p.134-165, May 1997[doi>10.1145/253145.253159]
+James H. Anderson , Anand Srinivasan, Early-release fair scheduling, Proceedings of the 12th Euromicro conference on Real-time systems, June 19-21, 2000, Stockholm, Sweden
+James H. Anderson , A. Srinivasan, Pfair scheduling: beyond periodic task systems, Proceedings of the Seventh International Conference on Real-Time Systems and Applications, p.297, December 12-14, 2000
+James H. Anderson , Anand Srinivasan, Mixed Pfair/ERfair Scheduling of Asynchronous Periodic Tasks, Proceedings of the 13th Euromicro Conference on Real-Time Systems, p.76, June 13-15, 2001
+T. P. Baker, Stack-based scheduling for realtime processes, Real-Time Systems, v.3 n.1, p.67-99, March 1991[doi>10.1007/BF00365393]
+Baruah, S., Cohen, N., Plaxton, C., and Varvel, D. 1996. Proportionate progress: A notion of fairness in resource allocation. Algorithmica 15, 600--625.
+Sanjoy K. Baruah , Johannes Gehrke , C. Greg Plaxton, Fast scheduling of periodic tasks on multiple resources, Proceedings of the 9th International Symposium on Parallel Processing, p.280-288, April 25-28, 1995
+Aaron Block , James H. Anderson , Gary Bishop, Fine-Grained Task Reweighting on Multiprocessors, Proceedings of the 11th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications, p.429-435, August 17-19, 2005[doi>10.1109/RTCSA.2005.53]
+Marco Caccamo , Lui Sha, Aperiodic Servers with Resource Constraints, Proceedings of the 22nd IEEE Real-Time Systems Symposium, p.161, December 03-06, 2001
+Abhishek Chandra , Micah Adler , Pawan Goyal , Prashant Shenoy, Surplus fair scheduling: a proportional-share CPU scheduling algorithm for symmetric multiprocessors, Proceedings of the 4th conference on Symposium on Operating System Design & Implementation, p.4-4, October 22-25, 2000, San Diego, California
+Dionisio de Niz , Luca Abeni , Saowanee Saewong , Ragunathan (Raj) Rajkumar, Resource Sharing in Reservation-Based Systems, Proceedings of the 22nd IEEE Real-Time Systems Symposium, p.171, December 03-06, 2001
+Paolo Gai , Giuseppe Lipari , Marco Di Natale, Minimizing Memory Utilization of Real-Time Task Sets in Single and Multi-Processor Systems-on-a-Chip, Proceedings of the 22nd IEEE Real-Time Systems Symposium, p.73, December 03-06, 2001
+Philip L. Holman , James H. Anderson, On the implementation of pfair-scheduled multiprocessor systems, The University of North Carolina at Chapel Hill, 2004
+Philip Holman , James H. Anderson, Locking in Pfair-Scheduled Multiprocessor Systems, Proceedings of the 23rd IEEE Real-Time Systems Symposium, p.149, December 03-05, 2002
+Philip Holman , James H. Anderson, Object Sharing in Pfair-scheduled Multiprocessor Systems, Proceedings of the 14th Euromicro Conference on Real-Time Systems, p.111, June 19-21, 2002
+Holman, P. and Anderson, J. 2003. Using hierarchal scheduling to improve resource utilization in multiprocessor real-time systems. In Proceedings of the 15th Euromicro Conference on Real-time Systems. 41--50.
+Philip Holman , James H. Anderson, Supporting lock-free synchronization in Pfair-scheduled real-time systems, Journal of Parallel and Distributed Computing, v.66 n.1, p.47-67, January 2006[doi>10.1016/j.jpdc.2005.06.011]
+Gerardo Lamastra , Giuseppe Lipari , Luca Abeni, A Bandwidth Inheritance Algorithm for Real-Time Task Synchronization in Open Systems, Proceedings of the 22nd IEEE Real-Time Systems Symposium, p.151, December 03-06, 2001
+C. L. Liu , James W. Layland, Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment, Journal of the ACM (JACM), v.20 n.1, p.46-61, Jan. 1973[doi>10.1145/321738.321743]
+Lynx Real-time Systems. 1993. LynxOS application writer's guide. Lynx Real-time Systems, Inc.
+Mark Moir , Srikanth Ramamurthy, Pfair Scheduling of Fixed and Migrating Periodic Tasks on Multiple Resources, Proceedings of the 20th IEEE Real-Time Systems Symposium, p.294, December 01-03, 1999
+Mok, A. 1983. Fundamental design problems for the hard real-time environment. Ph.D. thesis, Massachussetts Institute of Technology.
+Rajkumar, R. 1990. Real-time synchronization protocols for shared memory multiprocessors. In Proceedings of the International Conference on Distributed Computing Systems. 116--123.
+Ragunathan Rajkumar, Synchronization in Real-Time Systems: A Priority Inheritance Approach, Kluwer Academic Publishers, Norwell, MA, 1991
+Rajkumar, R., Sha, L., and Lehoczky, J. 1988. Real-time synchronization protocols for multiprocessors. In Proceedings of the Ninth IEEE Real-time Systems Symposium. 259--269.
+Srikanth Ramamurthy , James Anderson, A lock-free approach to object sharing in real-time systems, The University of North Carolina at Chapel Hill, 1997
+L. Sha , R. Rajkumar , J. P. Lehoczky, Priority Inheritance Protocols: An Approach to Real-Time Synchronization, IEEE Transactions on Computers, v.39 n.9, p.1175-1185, September 1990[doi>10.1109/12.57058]
+Anand Srinivasan , James H. Anderson, Optimal rate-based scheduling on multiprocessors, Proceedings of the thiry-fourth annual ACM symposium on Theory of computing, May 19-21, 2002, Montreal, Quebec, Canada[doi>10.1145/509907.509938]
+Srinivasan, A. and Anderson, J. 2003a. Efficient scheduling of soft real-time applications on multiprocessors. In Proceedings of the 15th Euromicro Conference on Real-time Systems. 51--59.
+Srinivasan, A. and Anderson, J. 2003b. Fair scheduling of dynamic task systems on multiprocessors. In 11th International Workshop on Parallel and Distributed Real-time Systems (on CD-ROM).

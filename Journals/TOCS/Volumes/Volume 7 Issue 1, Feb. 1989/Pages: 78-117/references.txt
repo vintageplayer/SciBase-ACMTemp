@@ -1,0 +1,38 @@
+James Archibald , Jean-Loup Baer, Cache coherence protocols: evaluation using a multiprocessor simulation model, ACM Transactions on Computer Systems (TOCS), v.4 n.4, p.273-298, Nov. 1986[doi>10.1145/6513.6514]
+BAER, J.-L., AND SAGER, G. Dynamic improvement of locality in virtual memory systems. IEEE Trans. Softw. Eng. SE-2, 1 (Mar. 1976), 54-62.
+BELADY, L.A. A study of replacement algorithms for virtual storage computers. IBM Syst. J. 5, 2 (1966), 78-101.
+L. A. Belady , R. A. Nelson , G. S. Shedler, An anomaly in space-time characteristics of certain programs running in a paging machine, Communications of the ACM, v.12 n.6, p.349-353, June 1969[doi>10.1145/363011.363155]
+James Cho , Alan J Smith , Howard Sachs, The Memory Architecture and the Cache and Memory Management Unit for, University of California at Berkeley, Berkeley, CA, 1986
+COFFMAN, S. G., AND RANDELL, B. Performance prediction for extended paged memories. Acta Inf. 1, I (1971), 1-13.
+DENNING, P.J. On modeling program behavior. In Proceedings of the Spring Joint Computer Conference (AFIPS) 1972, pp. 937-944.
+EASTON, M.C. Computation of cold-start miss ratios. IEEE Trans. Comput. TC-27, 5 (May 1978), 404-408.
+GECSEI, J. Determining hit ratios in multilevel hierarchies. IBM J. Res. Dev. 18, 4 (July 1974), 316-327.
+James R. Goodman, Using cache memory to reduce processor-memory traffic, Proceedings of the 10th annual international symposium on Computer architecture, p.124-131, June 13-17, 1983, Stockholm, Sweden[doi>10.1145/800046.801647]
+B. Greenberg, AN EXPERIMENTAL ANALYSIS OF PROGRAM REFERENCE PATTERNS IN THE MULTICS VIRTUAL MEMORY, Massachusetts Institute of Technology, Cambridge, MA, 1974
+GROSSMAN, C.P. Cache-DASD storage design for improving system performance. IBM Syst. J. 24, 3/4 (1985), 316-334.
+HILL, M.D. Tech. Rep. UCB/CSD 87/381, Ph.D. dissertation, Univ. of California, Berkeley, Nov. 1987.
+Mark D. Hill , Alan Jay Smith, Experimental evaluation of on-chip microprocessor cache memories, Proceedings of the 11th annual international symposium on Computer architecture, p.158-166, January 1984[doi>10.1145/800015.808178]
+HORSPOOL, R. N., AND HUBERMAN, R. M. Demand prepaging algorithms with the memory inclusion property. In Proceedings of the 16th Annual Hawaii International Conference on System Sciences. 1983, pp. 138-145.
+IEEE P896.1. Draft Standard, Backplane Bus (Futurebus). Nov. 1986.
+R. H. Katz , S. J. Eggers , D. A. Wood , C. L. Perkins , R. G. Sheldon, Implementing a cache consistency protocol, Proceedings of the 12th annual international symposium on Computer architecture, p.276-283, June 17-19, 1985, Boston, Massachusetts, United States[doi>10.1145/327010.327237]
+Christopher Angel Kent, Cache coherence in distributed systems (network, file systems), 1986
+KUBO, H., AND KOBAYASHI, M. A cost-oriented approach to optimal page size. In Proceedings of the 2nd USA-Japan Computer Conference (1975). pp. 258-263.
+W. Hollingsworth , H. Sachs , A. J. Smith, The Clipper processor: instruction set architecture and implementation, Communications of the ACM, v.32 n.2, p.200-219, Feb. 1989[doi>10.1145/63342.63346]
+LmTAY, J.S. Structural aspects of the system/360 Model 85, part II: The cache. IBM Syst. J. 7, 1 (1968), 15-21.
+MATTSON, R. L., GECSEI, J., SLUTZ, D., AND TRAIGER, I.L. Evaluation techniques for storage hierarchies. IBM Syst. J. 9, 2 (1970), 78-117.
+OLKEN, F. Efficient methods for calculating the success function of fixed space replacement policies. Master's thesis, Univ. of California, Berkeley, Calif., May 1981.
+John K. Ousterhout , Hervé Da Costa , David Harrison , John A. Kunze , Mike Kupfer , James G. Thompson, A trace-driven analysis of the UNIX 4.2 BSD file system, Proceedings of the tenth ACM symposium on Operating systems principles, p.15-24, December 1985, Orcas Island, Washington, United States[doi>10.1145/323647.323631]
+David A. Patterson , Phil Garrison , Mark Hill , Dimitris Lioupis , Chris Nyberg , Tim Sippel , Korbin Van Dyke, Architecture of a VLSI instruction cache for a RISC, Proceedings of the 10th annual international symposium on Computer architecture, p.108-116, June 13-17, 1983, Stockholm, Sweden[doi>10.1145/800046.801645]
+SHEDLER, G. S., AND SLUTZ, D.R. Derivation of miss ratios for merged access streams. IBM J. Res. Dev. 20, 5 (Sept. 1976), 505-517.
+Gabriel M. Silberman, Stack processing techniques in delayed-staging storage hierarchies, Communications of the ACM, v.26 n.11, p.999-1007, Nov. 1983[doi>10.1145/182.358467]
+SLUTZ, D. R., AND TRAIGER, I.L. Determination of hit ratios for a class of staging hierarchies. IBM Res. Rep. RJ 1044, May 1972.
+SMITH, A.J. Two methods for the efficient analysis of memory trace data. IEEE Trans. Softw. Eng. SE-3, 1 (Jan. 1977), 94-101.
+SMITH, A. J. Sequential program prefetching in memory hierarchies. Computer 11, 2 (Dec. 1978), 7-21.
+Alan Jay Smith, Characterizing the Storage Process and Its Effect on the Update of Main Memory by Write Through, Journal of the ACM (JACM), v.26 n.1, p.6-27, Jan. 1979[doi>10.1145/322108.322110]
+Alan Jay Smith, Cache Memories, ACM Computing Surveys (CSUR), v.14 n.3, p.473-530, Sept. 1982[doi>10.1145/356887.356892]
+Alan Jay Smith, Cache evaluation and the impact of workload choice, Proceedings of the 12th annual international symposium on Computer architecture, p.64-73, June 17-19, 1985, Boston, Massachusetts, United States[doi>10.1145/327010.327132]
+Alan J. Smith, Disk cache—miss ratio analysis and design considerations, ACM Transactions on Computer Systems (TOCS), v.3 n.3, p.161-203, Aug. 1985[doi>10.1145/3959.3961]
+James G Thompson, Efficient Analysis of Caching Systems, University of California at Berkeley, Berkeley, CA, 1987
+TOKUNAGA, T., HIRAI, Y., AND YAMAMOTO, S. Integrated disk cache systems with file adaptive control. In Proceedings of the IEEE Computer Society Conference (Washington, DC, Sept. 1980). IEEE, New York, 1980, pp. 412-416.
+TRAIGER, I. L., AND SLUTZ, D.R. One pass techniques for the evaluation of memory hierarchies. IBM Res. Rep. RJ 892, Yorktown Heights, N.Y., July 1971.
+Frank Shi-Kong Yu, Modeling the write behavior of computer programs., 1976

@@ -1,0 +1,36 @@
+Arkoudas, K., Zee, K., Kuncak, V., and Rinard, M. 2004. On verifying a file system implementation. Tech. Rep. 946, MIT CSAIL. May.
+Thomas Ball , Sriram K. Rajamani, Automatically validating temporal safety properties of interfaces, Proceedings of the 8th international SPIN workshop on Model checking of software, p.103-122, May 2001, Toronto, Ontario, Canada
+Hans-J. Boehm, Simple garbage-collector-safety, Proceedings of the ACM SIGPLAN 1996 conference on Programming language design and implementation, p.89-98, May 21-24, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/231379.231394]
+Willem Visser , Klaus Havelund , Guillaume Brat , SeungJoon Park, Model Checking Programs, Proceedings of the 15th IEEE international conference on Automated software engineering, p.3, September 11-15, 2000
+William R. Bush , Jonathan D. Pincus , David J. Sielaff, A static analyzer for finding dynamic programming errors, Software—Practice & Experience, v.30 n.7, p.775-802, June 2000[doi>10.1002/(SICI)1097-024X(200006)30:7<775::AID-SPE309>3.0.CO;2-H]
+Edmund M. Clarke, Jr. , Orna Grumberg , Doron A. Peled, Model checking, MIT Press, Cambridge, MA, 2000
+James C. Corbett , Matthew B. Dwyer , John Hatcliff , Shawn Laubach , Corina S. Păsăreanu , Robby , Hongjun Zheng, Bandera: extracting finite-state models from Java source code, Proceedings of the 22nd international conference on Software engineering, p.439-448, June 04-11, 2000, Limerick, Ireland[doi>10.1145/337180.337234]
+Coverity. http://coverity.com. SWAT: the Coverity software analysis toolset.
+Manuvir Das , Sorin Lerner , Mark Seigle, ESP: path-sensitive program verification in polynomial time, Proceedings of the ACM SIGPLAN 2002 Conference on Programming language design and implementation, June 17-19, 2002, Berlin, Germany[doi>10.1145/512529.512538]
+Robert DeLine , Manuel Fähndrich, Enforcing high-level protocols in low-level software, Proceedings of the ACM SIGPLAN 2001 conference on Programming language design and implementation, p.59-69, June 2001, Snowbird, Utah, USA[doi>10.1145/378795.378811]
+David L. Dill , Andreas J. Drexler , Alan J. Hu , C. Han Yang, Protocol Verification as a Hardware Design Aid, Proceedings of the 1991 IEEE International Conference on Computer Design on VLSI in Computer & Processors, p.522-525, October 11-14, 1992
+Dawson Engler , Benjamin Chelf , Andy Chou , Seth Hallem, Checking system rules using system-specific, programmer-written compiler extensions, Proceedings of the 4th conference on Symposium on Operating System Design & Implementation, p.1-1, October 22-25, 2000, San Diego, California
+Engler, D. and Musuvathi, M. 2004. Static analysis versus software model checking for bug finding. In Invited paper: Fifth International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI04). 191--210.
+ext2/ext3. http://e2fsprogs.sourceforge.net. The ext2/ext3 file system.
+Cormac Flanagan , Stephen N. Freund, Type-based race detection for Java, Proceedings of the ACM SIGPLAN 2000 conference on Programming language design and implementation, p.219-232, June 18-21, 2000, Vancouver, British Columbia, Canada[doi>10.1145/349299.349328]
+Cormac Flanagan , K. Rustan M. Leino , Mark Lillibridge , Greg Nelson , James B. Saxe , Raymie Stata, Extended static checking for Java, Proceedings of the ACM SIGPLAN 2002 Conference on Programming language design and implementation, June 17-19, 2002, Berlin, Germany[doi>10.1145/512529.512558]
+Jeffrey S. Foster , Tachio Terauchi , Alex Aiken, Flow-sensitive type qualifiers, Proceedings of the ACM SIGPLAN 2002 Conference on Programming language design and implementation, June 17-19, 2002, Berlin, Germany[doi>10.1145/512529.512531]
+Ganger, G. R. and Patt., Y. N. 1995. Soft updates: A solution to the metadata update problem in file systems. Tech. rep., University of Michigan.
+Patrice Godefroid, Model checking for programming languages using VeriSoft, Proceedings of the 24th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.174-186, January 15-17, 1997, Paris, France[doi>10.1145/263699.263717]
+Gerard J. Holzmann, The Model Checker SPIN, IEEE Transactions on Software Engineering, v.23 n.5, p.279-295, May 1997[doi>10.1109/32.588521]
+Gerard J. Holzmann, From Code to Models, Proceedings of the Second International Conference on Application of Concurrency to System Design, p.3, June 25-29, 2001
+JFS. http://www-124.ibm.com/jfs. The IBM journaling file system for linux.
+K., M. 1993. Symbolic Model Checking. Kluwer Academic Publishers.
+David Lomet , Mark Tuttle, A theory of redo recovery, Proceedings of the 2003 ACM SIGMOD international conference on Management of data, June 09-12, 2003, San Diego, California[doi>10.1145/872757.872806]
+David B. Lomet , Mark R. Tuttle, Redo Recovery after System Crashes, Proceedings of the 21th International Conference on Very Large Data Bases, p.457-468, September 11-15, 1995
+LTP. http://ltp.sourceforge.net. The linux test project.
+Madanlal Musuvathi , Dawson R. Engler, Model checking large network protocol implementations, Proceedings of the 1st conference on Symposium on Networked Systems Design and Implementation, p.12-12, March 29-31, 2004, San Francisco, California
+Madanlal Musuvathi , David Y. W. Park , Andy Chou , Dawson R. Engler , David L. Dill, CMC: a pragmatic approach to model checking real code, Proceedings of the 5th symposium on Operating systems design and implementationCopyright restrictions prevent ACM from being able to make the PDFs for this conference available for downloading, December 09-11, 2002, Boston, Massachusetts[doi>10.1145/1060289.1060297]
+Vijayan Prabhakaran , Lakshmi N. Bairavasundaram , Nitin Agrawal , Haryadi S. Gunawi , Andrea C. Arpaci-Dusseau , Remzi H. Arpaci-Dusseau, IRON file systems, Proceedings of the twentieth ACM symposium on Operating systems principles, October 23-26, 2005, Brighton, United Kingdom[doi>10.1145/1095810.1095830]
+ReiserFS. http://www.namesys.com. The ReiserFS file system.
+Sandberg, R., Goldberg, D., Kleiman, S., Walsh, and Lyon, B. 1985. Design and implementation of the Sun network file system. In Proceedings of the Summer USENIX Conference (Sum). 119--130.
+Muthian Sivathanu , Vijayan Prabhakaran , Florentina I. Popovici , Timothy E. Denehy , Andrea C. Arpaci-Dusseau , Remzi H. Arpaci-Dusseau, Semantically-Smart Disk Systems, Proceedings of the 2nd USENIX Conference on File and Storage Technologies, March 31-31, 2003, San Francisco, CA
+stress. http://weather.ou.edu/~apw/projects/stress. A file system stress testing tool.
+Carl A. Waldspurger, Memory resource management in VMware ESX server, Proceedings of the 5th symposium on Operating systems design and implementationCopyright restrictions prevent ACM from being able to make the PDFs for this conference available for downloading, December 09-11, 2002, Boston, Massachusetts[doi>10.1145/1060289.1060307]
+XFS. http://oss.sgi.com/projects/xfs. A high-performance journaling filesystem.
+Yang, J., Sar, C., and Engler, D. 2006. Explode: A lightweight, general system for finding serious errors in storage systems. In Proceedings of the Seventh Symposium on Operating Systems Design and Implementation.

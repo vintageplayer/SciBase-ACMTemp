@@ -1,0 +1,22 @@
+Scalable management and self-organizational capabilities are
+emerging as central requirements for a generation of large-scale,
+highly dynamic, distributed applications. We have developed an
+entirely new distributed information management system called
+Astrolabe. Astrolabe collects large-scale system state, permitting
+rapid updates and providing on-the-fly attribute aggregation. This
+latter capability permits an application to locate a resource, and
+also offers a scalable way to track system state as it evolves over
+time. The combination of features makes it possible to solve a wide
+variety of management and self-configuration problems. This paper
+describes the design of the system with a focus upon its
+scalability. After describing the Astrolabe service, we present
+examples of the use of Astrolabe for locating resources,
+publish-subscribe, and distributed synchronization in large
+systems. Astrolabe is implemented using a peer-to-peer protocol,
+and uses a restricted form of mobile code based on the SQL query
+language for aggregation. This protocol gives rise to a novel
+consistency model. Astrolabe addresses several security
+considerations using a built-in PKI. The scalability of the system
+is evaluated using both simulation and experiments; these confirm
+that Astrolabe could scale to thousands and perhaps millions of
+nodes, with information propagation delays in the tens of seconds.

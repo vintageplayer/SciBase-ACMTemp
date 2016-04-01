@@ -1,0 +1,10 @@
+The Totem multiple-ring protocol provides reliable totally ordered
+delivery of messages across multiple local-area networks interconnected
+by gateways. This consistent message order is maintained in the presence
+of network partitioning and remerging, and of processor failure and
+recovery. The protocol provides accurate topology change information as
+part of the global total order of messages. It addresses the issue of
+scalability and achieves a latency that increases logarithmically with
+system size by exploiting process group locality and selective
+forwarding of messages through the gateways. Pseudocode for the protocol
+and an evaluation of its performance are given.—Authors' Abstract

@@ -1,0 +1,55 @@
+Aghdaie, N. and Tamir, Y. 2002. Implementation and evaluation of transparent fault-tolerant web service with kernel-level support. In Proceedings of the 11th IEEE International Conference on Computer Communications and Networks (ICCCN), 63--68.
+Aghdaie, N. and Tamir, Y. 2003. Fast transparent failover for reliable web service. In Proceedings of the 15th IASTED International Conference on Parallel and Distributed Computing and Systems (PDCS).
+Alvisi, L., Bressoud, T. C., El-Khashab, A., Marzullo, K., and Zagorodnov, D. 2001. Wrapping server-side TCP to mask connection failures. In Proceedings of the IEEE InfoCom Conference, 329--337.
+Apache. 2005. Apache homepage. http://www.apache.org/.
+Basile, C., Kalbarczyk, Z., and K., I. R. 2003. A preemptive deterministic scheduling algorithm for multithreaded replicas. In Proceedings of the International Conference on Dependable Systems and Networks (DSN), 149--158.
+Basile, C., Kalbarczyk, Z., Whisnant, K., and Iyer, R. K. 2002. Active replication of multithreaded applications. Tech. rep. CRHC-02-01, University of Illinois.
+Bhide, A., Elnozahy, E., and Morgan, S. 1991. A highly available network file server. In Proceedings of the USENIX Winter Technical Conference, 199--205.
+Robert Bradford , Evangelos Kotsovinos , Anja Feldmann , Harald Schiöberg, Live wide-area migration of virtual machines including local persistent state, Proceedings of the 3rd international conference on Virtual execution environments, June 13-15, 2007, San Diego, California, USA[doi>10.1145/1254810.1254834]
+T. C. Bressoud, TFT: A Software System for Application-Transparent Fault Tolerance, Proceedings of the The Twenty-Eighth Annual International Symposium on Fault-Tolerant Computing, p.128, June 23-25, 1998
+Thomas C. Bressoud , Fred B. Schneider, Hypervisor-based fault tolerance, ACM Transactions on Computer Systems (TOCS), v.14 n.1, p.80-107, Feb. 1996[doi>10.1145/225535.225538]
+Budhiraja, N., Marzullo, K., Schneider, F., and Toueg, S. 1992. Primary-Backup protocols: Lower bounds and optimal implementations. In Proceedings of the 3rd IFIP Conference on Dependable Computing for Critical Applications, 187--198.
+HotSwap-Transparent Server Failover for Linux, Proceedings of the 16th USENIX conference on System administration, November 03-08, 2002, Philadelphia, PA
+Christopher Clark , Keir Fraser , Steven Hand , Jacob Gorm Hansen , Eric Jul , Christian Limpach , Ian Pratt , Andrew Warfield, Live migration of virtual machines, Proceedings of the 2nd conference on Symposium on Networked Systems Design & Implementation, p.273-286, May 02-04, 2005
+Brendan Cully , Geoffrey Lefebvre , Dutch Meyer , Mike Feeley , Norm Hutchinson , Andrew Warfield, Remus: high availability via asynchronous virtual machine replication, Proceedings of the 5th USENIX Symposium on Networked Systems Design and Implementation, p.161-174, April 16-18, 2008, San Francisco, California
+Daniel, E. and Choi, G. S. 1999. TMR for off-the-shelf Unix systems. Short presentation at IEEE International Symposium on Fault-Tolerant Computing (FTCS).
+Dolev, D., Malki, D., and Yarom, Y. 1994. Warm backup using snooping. In Proceedings of the 1st International Workshop on Services in Distributed and Networked Environments (SDNE), 60--65.
+DSS. 2005. Homepage. http://developer.apple.com/darwin/projects/streaming/.
+Robust TCP Connections for Fault Tolerant Computing, Proceedings of the 9th International Conference on Parallel and Distributed Systems, p.501, December 17-20, 2002
+E. N. (Mootaz) Elnozahy , Lorenzo Alvisi , Yi-Min Wang , David B. Johnson, A survey of rollback-recovery protocols in message-passing systems, ACM Computing Surveys (CSUR), v.34 n.3, p.375-408, September 2002[doi>10.1145/568522.568525]
+Fetzer, C. and Mishra, S. 1999. Transparent TCP/IP based replication. Short presentation at IEEE International Symposium on Fault-Tolerant Computing (FTCS).
+Christopher Hertel, Implementing CIFS: The Common Internet File System, Prentice Hall Professional Technical Reference, 2003
+V. Jacobson, Congestion avoidance and control, ACM SIGCOMM Computer Communication Review, v.18 n.4, p.314-329, August 1988[doi>10.1145/52325.52356]
+Koch, R. R., Hortikar, S., E., M. L., and M., M.-S. P. 2003. Transparent TCP connection failover. In Proceedings of the IEEE International Conference on Dependable Systems and Networks (DSN), 383--392.
+Luo, M. and Yang, C. 2001. Constructing zero-loss web services. In Proceedings of the IEEE InfoCom, 1781--1790.
+Marwah, M., Mishra, S., and Fetzer, C. 2003. TCP server fault tolerance using connection migration to a backup server. In Proceedings of the IEEE International Conference on Dependable Systems and Networks (DSN), 373--382.
+Manish Marwah , Christof Fetzer, A System Demonstration of ST-TCP, Proceedings of the 2005 International Conference on Dependable Systems and Networks, p.308-313, June 28-July 01, 2005[doi>10.1109/DSN.2005.14]
+Nagle, J. 1984. Congestion control in IP/TCP internetworks. RFC 896, Network Working Group. January.
+Napper, J., Alvisi, L., and Vin, H. 2003. A fault-tolerant Java virtual machine. In Proceedings of the IEEE International Conference on Dependable Systems and Networks (DSN), 425--434.
+Nasika, R. and Dasgupta, P. 2000. Transparent migration of distributed communicating processes. In Proceedings of the 13th ISCA International Conference on Parallel and Distributed Computing Systems (PDCS).
+Maxim Orgiyan , Christof Fetzer, Tapping TCP Streams, Proceedings of the IEEE International Symposium on Network Computing and Applications (NCA'01), p.278, October 08-10, 2001
+Paxson, V. and Allman, M. 2000. Computing TCP's retransmission timer. RFC 2988, Network Working Group. November.
+N. Peyrouze , G. Muller, FT-NFS: an efficient fault-tolerant NFS server designed for off-the-shelf workstations, Proceedings of the The Twenty-Sixth Annual International Symposium on Fault-Tolerant Computing (FTCS '96), p.64, June 25-27, 1996
+Michael L. Powell , David L. Presotto, Publishing: a reliable broadcast communication mechanism, Proceedings of the ninth ACM symposium on Operating systems principles, p.100-109, October 10-13, 1983, Bretton Woods, New Hampshire, USA[doi>10.1145/800217.806618]
+Eric Rescorla , Adam Cain , Brian Korver, SSLACC: A Clustered SSL Accelerator, Proceedings of the 11th USENIX Security Symposium, p.229-246, August 05-09, 2002
+Rijsinghani, A. 1994. Computation of the Internet checksum via incremental update. RFC 1624, Network Working Group. May.
+Rodrigo Rodrigues , Miguel Castro , Barbara Liskov, BASE: using abstraction to improve fault tolerance, Proceedings of the eighteenth ACM symposium on Operating systems principles, October 21-24, 2001, Banff, Alberta, Canada[doi>10.1145/502034.502037]
+Pasi Sarolahti , Alexey Kuznetsov, Congestion Control in Linux TCP, Proceedings of the FREENIX Track: 2002 USENIX Annual Technical Conference, p.49-62, June 10-15, 2002
+Gurudatt Shenoy , Suresh K. Satapati , Riccardo Bettati, HYDRANET-FT: Network Support for Dependable Services, Proceedings of the The 20th International Conference on Distributed Computing Systems ( ICDCS 2000), p.699, April 10-13, 2000
+Joseph G. Slember , Priya Narasimhan, Using Program Analysis to Identify and Compensate for Nondeterminism in Fault-Tolerant, Replicated Systems, Proceedings of the 23rd IEEE International Symposium on Reliable Distributed Systems, p.251-263, October 18-20, 2004
+J. H. Slye , E. N. Elnozahy, Supporting nondeterministic execution in fault-tolerant systems, Proceedings of the The Twenty-Sixth Annual International Symposium on Fault-Tolerant Computing (FTCS '96), p.250, June 25-27, 1996
+SMB. 2005. Samba homepage. http://www.samba.org/.
+Alex C. Snoeren , David G. Andersen , Hari Balakrishnan, Fine-grained failover using connection migration, Proceedings of the 3rd conference on USENIX Symposium on Internet Technologies and Systems, p.19-19, March 26-28, 2001, San Francisco, California
+Srinivasan, K. 2001. M-TCP: Transport layer support for highly available network services. M.S. thesis, Rutgers University. Available as Tech. Rep. DCS-TR-459.
+Srisuresh, P. and Holdrege, M. 1999. IP network address translator (NAT) terminology and considerations. RFC 2663, Network Working Group. August.
+W. Richard Stevens, TCP/IP illustrated (vol. 1): the protocols, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1993
+Florin Sultan , Aniruddha Bohra , Stephen Smaldone , Yufei Pan , Pascal Gallard , Iulian Neamtiu , Liviu Iftode, Recovering Internet Service Sessions from Operating System Failures, IEEE Internet Computing, v.9 n.2, p.17-27, March 2005[doi>10.1109/MIC.2005.45]
+Sultan, F., Bohra, A., and Iftode, L. 2003. Service continuations: An operating system mechanism for dynamic migration of Internet service sessions. In Proceedings of the Symposium Reliable Distributed Systems (SRDS), 177--186.
+Florin Sultan , Kiran Srinivasan , Deepa Iyer , Liviu Iftode, Migratory TCP: Connection Migration for Service Continuity in the Internet, Proceedings of the 22 nd International Conference on Distributed Computing Systems (ICDCS'02), p.469, July 02-05, 2002
+Sultan, F., Srinivasan, K., and Iftode, L. 2001. Transport layer support for highly-available network services. Tech. rep. DCS-TR-429, Rutgers University, May.
+X/Open. 1992. Protocols for X/Open PC Interworking: SMB, Version 2. X/Open Company Ltd. Also available at http://www.opengroup.org/products/publications/catalog/c209.htm.
+Chu-Sing Yang , Mon-Yen Luo, Realizing fault resilience in Web-server cluster, Proceedings of the 2000 ACM/IEEE conference on Supercomputing, p.21-es, November 04-10, 2000, Dallas, Texas, USA
+Dmitrii Zagorodnov , Keith Marzullo, Managing self-inflicted nondeterminism, Proceedings of the First conference on Hot topics in system dependability, p.15-15, June 30, 2005, Yokohama, Japan
+Zagorodnov, D., Marzullo, K., Alvisi, L., and Bressoud, T. 2003. Engineering fault-tolerant TCP/IP servers using FT-TCP. In Proceedings of the IEEE International Conference on Dependable Systems and Networks (DSN), 393--402.
+Victor C. Zandy , Barton P. Miller, Reliable network connections, Proceedings of the 8th annual international conference on Mobile computing and networking, September 23-28, 2002, Atlanta, Georgia, USA[doi>10.1145/570645.570657]
+Zhang, R., Abdelzaher, T. F., and Stankovic, J. A. 2004. Efficient TCP connection failover in web server clusters. In Proceedings of the IEEE InfoCom Conference. Vol. 2, 1219--1228.

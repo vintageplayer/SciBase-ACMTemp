@@ -1,0 +1,48 @@
+Atul Adya , Robert Gruber , Barbara Liskov , Umesh Maheshwari, Efficient optimistic concurrency control using loosely synchronized clocks, Proceedings of the 1995 ACM SIGMOD international conference on Management of data, p.23-34, May 22-25, 1995, San Jose, California, USA[doi>10.1145/223784.223787]
+Amir, Y., Danilov, C., Miskin-Amir, M., Stanton, J., and Tutu, C. 2002. Practical Wide-Area Database Replication. Tech. Rep. CNDS-2002-1, Johns Hopkins University.
+Kenneth Birman , André Schiper , Pat Stephenson, Lightweight causal and atomic group multicast, ACM Transactions on Computer Systems (TOCS), v.9 n.3, p.272-314, Aug. 1991[doi>10.1145/128738.128742]
+T. C. Bressoud , F. B. Schneider, Hypervisor-based fault tolerance, Proceedings of the fifteenth ACM symposium on Operating systems principles, p.1-11, December 03-06, 1995, Copper Mountain, Colorado, USA[doi>10.1145/224056.224058]
+Brent Callaghan, NFS illustrated, Addison-Wesley Longman Ltd., Essex, UK, 2000
+Michael J. Carey , David J. DeWitt , Jeffrey F. Naughton, The 007 Benchmark, Proceedings of the 1993 ACM SIGMOD international conference on Management of data, p.12-21, May 25-28, 1993, Washington, D.C., USA[doi>10.1145/170035.170041]
+Castro, M. 2000. Practical Byzantine fault-tolerance. Ph.D. thesis, Massachusetts Institute of Technology, Cambridge, Massachusetts.
+Miguel Castro , Atul Adya , Barbara Liskov , Andrew C. Myers, HAC: hybrid adaptive caching for distributed storage systems, Proceedings of the sixteenth ACM symposium on Operating systems principles, p.102-115, October 05-08, 1997, Saint Malo, France[doi>10.1145/268998.266666]
+Miguel Castro , Barbara Liskov, Practical Byzantine fault tolerance, Proceedings of the third symposium on Operating systems design and implementation, p.173-186, February 1999, New Orleans, Louisiana, USA
+Miguel Castro , Barbara Liskov, Proactive recovery in a Byzantine-fault-tolerant system, Proceedings of the 4th conference on Symposium on Operating System Design & Implementation, p.19-19, October 22-25, 2000, San Diego, California
+Miguel Castro , Barbara Liskov, Practical byzantine fault tolerance and proactive recovery, ACM Transactions on Computer Systems (TOCS), v.20 n.4, p.398-461, November 2002[doi>10.1145/571637.571640]
+Chen, L. and Avizienis, A. 1978. N-Version Programming: A Fault-Tolerance Approach to Reliability of Software Operation. In Fault Tolerant Computing, FTCS-8. 3--9.
+Peter M. Chen , Edward K. Lee , Garth A. Gibson , Randy H. Katz , David A. Patterson, RAID: high-performance, reliable secondary storage, ACM Computing Surveys (CSUR), v.26 n.2, p.145-185, June 1994[doi>10.1145/176979.176981]
+Eric C. Cooper, Replicated distributed programs, Proceedings of the tenth ACM symposium on Operating systems principles, p.63-78, December 1985, Orcas Island, Washington, USA[doi>10.1145/323647.323635]
+Kyle Geiger, Inside ODBC, Microsoft Press, Redmond, WA, 1995
+Sanjay Ghemawat , Barbara H. Liskov , M. Frans Kaashoek, The modified object buffer: a storage management technique for object-oriented databases, Massachusetts Institute of Technology, 1995
+Jim Gray , Daniel P. Siewiorek, High-Availability Computer Systems, Computer, v.24 n.9, p.39-48, September 1991[doi>10.1109/2.84898]
+Jim Gray , Andreas Reuter, Transaction Processing: Concepts and Techniques, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1992
+Mark Hayden, The Ensemble System, Cornell University, Ithaca, NY, 1998
+M. P. Herlihy , J. M. Wing, Axioms for concurrent objects, Proceedings of the 14th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.13-26, January 21-23, 1987, Munich, West Germany[doi>10.1145/41625.41627]
+John H. Howard , Michael L. Kazar , Sherri G. Menees , David A. Nichols , M. Satyanarayanan , Robert N. Sidebotham , Michael J. West, Scale and performance in a distributed file system, ACM Transactions on Computer Systems (TOCS), v.6 n.1, p.51-81, Feb. 1988[doi>10.1145/35037.35059]
+Nick Kolettis , N. Dudley Fulton, Software Rejuvenation: Analysis, Module and Applications, Proceedings of the Twenty-Fifth International Symposium on Fault-Tolerant Computing, p.381, June 27-30, 1995
+R. Jiménez-Peris , M. Patiño-Martínez , B. Kemme , G. Alonso, Improving the Scalability of Fault-Tolerant Database Clusters, Proceedings of the 22 nd International Conference on Distributed Computing Systems (ICDCS'02), p.477, July 02-05, 2002
+Bettina Kemme , Gustavo Alonso, Don't Be Lazy, Be Consistent: Postgres-R, A New Way to Implement Database Replication, Proceedings of the 26th International Conference on Very Large Data Bases, p.134-143, September 10-14, 2000
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+Liskov, B., Castro, M., Shrira, L., and Adya, A. 1999. Providing persistent objects in distributed systems. In Proceedings of the 13th European Conference on Object-Oriented Programming (ECOOP '99). Lisbon, Portugal, 230--257.
+Barbara Liskov , Sanjay Ghemawat , Robert Gruber , Paul Johnson , Liuba Shrira , Michael Williams, Replication in the harp file system, Proceedings of the thirteenth ACM symposium on Operating systems principles, p.226-238, October 13-16, 1991, Pacific Grove, California, USA[doi>10.1145/121132.121169]
+Barbara Liskov , John Guttag, Program Development in Java: Abstraction, Specification, and Object-Oriented Design, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 2000
+Silvano Maffeis, Adding group communication and fault-tolerance to CORBA, Proceedings of the USENIX Conference on Object-Oriented Technologies on USENIX Conference on Object-Oriented Technologies (COOTS), p.10-10, June 26-29, 1995, Monterey, California
+Marzullo, K. and Schmuck, F. 1988. Supplying high availability with a standard network file system. In Proceedings of the 8th International Conference on Distributed Computing Systems. San Jose, California, 447--453.
+Mills, D. L. 1992. Network Time Protocol (Version 3) Specification, Implementation and Analysis. Network Working Report RFC 1305.
+Minnich, R. 2000. The Linux BIOS Home Page. http://www.acl.lanl.gov/linuxbios.
+L. E. Moser , P. M. Melliar-Smith , P. Narasimhan, Consistent object replication in the eternal system, Theory and Practice of Object Systems, v.4 n.2, p.81-92, April 1998[doi>10.1002/(SICI)1096-9942(1998)4:2<81::AID-TAPO3>3.3.CO;2-M]
+Providing Support for Survivable CORBA Applications with the Immune System, Proceedings of the 19th IEEE International Conference on Distributed Computing Systems, p.507, May 31-June 04, 1999
+Object Management Group. 1999. The Common Object Request Broker: Architecture and Specification. Omg techical committee document formal/98-12-01. June.
+Object Management Group. 2000. Fault Tolerant CORBA. Omg techical committee document orbos/2000-04-04. Mar.
+Ousterhout, J. 1990. Why Aren't Operating Systems Getting Faster as Fast as Hardware? In Proceedings of the Usenix Summer 1990 Technical Conference. Anaheim, California, 247--256.
+M. Pease , R. Shostak , L. Lamport, Reaching Agreement in the Presence of Faults, Journal of the ACM (JACM), v.27 n.2, p.228-234, April 1980[doi>10.1145/322186.322188]
+Balkrishna Ramkumar , Volker Strumpen, Portable Checkpointing for Heterogeneous Archtitectures, Proceedings of the 27th International Symposium on Fault-Tolerant Computing (FTCS '97), p.58, June 25-27, 1997
+RFC-1014 1987. Network working group request for comments: 1014. XDR: External data representation standard.
+RFC-1094 1989. Network working group request for comments: 1094. NFS: Network file system protocol specification.
+Rodrigues, R. 2001. Combining abstraction with Byzantine fault-tolerance. M.S. thesis, Massachusetts Institute of Technology, Cambridge, Massachusetts.
+Romanovsky, A. 2000. Faulty version recovery in object-oriented N-version programming. IEE Proc. Soft. 147, 3 (June), 81--90.
+FrZdZric Salles , Manuel Rodrguez , Jean-Charles Fabre , Jean Arlat, MetaKernels and Fault Containment Wrappers, Proceedings of the Twenty-Ninth Annual International Symposium on Fault-Tolerant Computing, p.22, June 15-18, 1999
+Fred B. Schneider, Implementing fault-tolerant services using the state machine approach: a tutorial, ACM Computing Surveys (CSUR), v.22 n.4, p.299-319, Dec. 1990[doi>10.1145/98163.98167]
+M. Stonebraker , L. A. Rowe , M. Hirohama, The Implementation of POSTGRES, IEEE Transactions on Knowledge and Data Engineering, v.2 n.1, p.125-142, March 1990[doi>10.1109/69.50912]
+Tso, K. and Avizienis, A. 1987. Community error recovery in N-version software: A design study with experimentation. In Digest of Papers: FTCS-17, the Seventeenth Annual Symposium on Fault Tolerant Computing. Pittsburgh, Pennsylvania, 127--133.
+W3C. 2000. Extensible Markup Language (XML) 1.0 (Second Edition). W3C recommendation.

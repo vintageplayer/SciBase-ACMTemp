@@ -1,0 +1,39 @@
+Andrew D. Birrell , Bruce Jay Nelson, Implementing remote procedure calls, ACM Transactions on Computer Systems (TOCS), v.2 n.1, p.39-59, February 1984[doi>10.1145/2080.357392]
+CASEY, L. Remote rendezvous. Tech. Rep., Bell Northern Research, Ottawa, 1985.
+D Cheriton, VMTP: a transport protocol for the next generation of communication systems, Proceedings of the ACM SIGCOMM conference on Communications architectures & protocols, p.406-415, August 05-07, 1986, Stowe, Vermont, USA[doi>10.1145/18172.18217]
+David R. Cheriton , Willy Zwaenepoel, The distributed V kernel and its performance for diskless workstations, ACM SIGOPS Operating Systems Review, v.17 n.5, p.129-140, October 1983[doi>10.1145/773379.806621]
+CLARK, D.D. Window and acknowledgment strategy in TCP. Internet Protocol Implementation Guide, Network Information Center, SRI International, Menlo Park, Calif. (Aug. 1982).
+CLARK, D.D. Modularity and efficiency in protocol implementation. Internet Protocol Implementation Guide, Network Information Center, SRI International, Menlo Park, Calif. (Aug. 1982).
+David D. Clark, The structuring of systems using upcalls, Proceedings of the tenth ACM symposium on Operating systems principles, p.171-180, December 1985, Orcas Island, Washington, USA[doi>10.1145/323647.323645]
+CLARK, D. D., LAMBERT, M. L., AND ZHANG, L. NETBLT: A bulk data transfer protocol. DARPA Network Working Group Request for Comments 969, Network Information Center, SRI International, Menlo Park, Calif. {Dec. 1985).
+Jerome A. Feldman, High level programming for distributed computing, Communications of the ACM, v.22 n.6, p.353-368, June 1979[doi>10.1145/359114.359127]
+FLETCHER, J. G., AND WATSON, R. W. Mechanisms for a reliable timer-based protocol. In Computer Networks 2, North-Holland, Amsterdam, The Netherlands, 1978, pp. 271-290.
+GENTLEMAN, W.M. Message passing between sequential processes: The reply primitive and the administrator concept. Softw. Pract. Exper. 11 (1981), 435-466.
+C. A. R. Hoare, Communicating sequential processes, Communications of the ACM, v.21 n.8, p.666-677, Aug. 1978[doi>10.1145/359576.359585]
+INFORMATION SCIENCES INSTITUTE. DOD Standard Transmission Control Protocol. Information Sciences Institute, Marina del Ray, Calif. (Jan. 1980).
+INTERNATIONAL STANDARDS ORGANIZATION. Information processing systems--open systems interconnection--transport protocol specification. International Standards Organization, ISO/DIS 8073, Rev., ISO/TC 97/SC 16WG 6, June 29, 1984.
+Butler W. Lampson, Atomic Transactions, Distributed Systems - Architecture and Implementation, An Advanced Course, p.246-265, January 1981
+K. A. Lantz , William I. Nowicki , Marvin M. Theimer, An Empirical Study of Distributed Application Performance, IEEE Transactions on Software Engineering, v.11 n.10, p.1162-1174, October 1985[doi>10.1109/TSE.1985.231864]
+LEACH, P. J. ET AL. The architecture of an integrated local network. IEEE J. Select. Areas Comm. SAC-I, 5 {Nov. 1983), 842-837.
+Barbara Liskov, Primitives for distributed computing, Proceedings of the seventh ACM symposium on Operating systems principles, p.33-42, December 10-12, 1979, Pacific Grove, California, USA[doi>10.1145/800215.806567]
+MANNING, E., LIVESEY, N. J., AND TOKUDA, H. Interprocess communication in distributed systems: One view. In Proceedings of IFIP 80.
+MILLER, S., AND SOUZA, R. UNIX and remote procedure calls: A peaceful coexistence? M.I.T. Project Athena Tech. Rep., Massachusetts institute of Technology, Cambridge, Mass. 1985.
+G. Popek , B. Walker , J. Chow , D. Edwards , C. Kline , G. Rudisin , G. Thiel, LOCUS a network transparent, high reliability distributed system, ACM SIGOPS Operating Systems Review, v.15 n.5, p.169-177, December 1981[doi>10.1145/1067627.806605]
+David P. Reed, Implementing atomic actions on decentralized data, ACM Transactions on Computer Systems (TOCS), v.1 n.1, p.3-23, Feb. 1983[doi>10.1145/357353.357355]
+J. H. Saltzer , D. P. Reed , D. D. Clark, End-to-end arguments in system design, ACM Transactions on Computer Systems (TOCS), v.2 n.4, p.277-288, Nov. 1984[doi>10.1145/357401.357402]
+SALTZER, J. H., ET AL. The desktop computer as a network participant. IEEE J. Select. Areas Comm. SAC-3, 3 (May 1985), 468-477.
+SHRIVASTAVA, S. K. Structuring distributed systems for recoverability and crash resistance. IEEE Trans. Softw. Eng. SE-7, 4 (July 1981), 436-447.
+SHRIVASTAVA, S. K., AND PANZIERI, F. The design of a reliable remote procedure call mechanism. IEEE Trans. Comput. C-31, 7 (July 1982), 692-697.
+Lansing Sloan, Mechanisms that enforce bounds on packet lifetimes, ACM Transactions on Computer Systems (TOCS), v.1 n.4, p.311-330, Nov. 1983[doi>10.1145/357377.357382]
+Alfred Z. Spector, Performing remote operations efficiently on a local computer network, Communications of the ACM, v.25 n.4, p.246-260, April 1982[doi>10.1145/358468.358478]
+SUNSHINE, C. A., AND DALAL, K.K. Connection management in transport protocols. Comput. Networks 2, 4/5 (Sept./Oct. 1978).
+Bruce James Walker, Issues of network transparency and file replication in the distributed filesystem component of locus (system), University of California, Los Angeles, 1983
+WATSON, R.W. Timer-based mechanisms in reliable transport protocol connection management. In Computer Networks 5, North-Holland, Amsterdam, The Netherlands 1981, pp. 47-56.
+Richard W. Watson, IPC Interface and End-to-End Protocols, Distributed Systems - Architecture and Implementation, An Advanced Course, p.140-174, January 1981
+WATSON, R.W. Delta-t protocol specification. UCID-19293, Lawrence Livermore Laboratory, Livermore, Calif., {Apr. 1983).
+WATSON, R. W., AND FLETCHER, J.G. An architecture for support of network operating system services. In Computer Networks 4, North-Holland, Amsterdam, The Netherlands 1980, pp. 33-49.
+XEROX. Courier: The remote procedure call protocol. Xerox System Integration Standard, Xerox Corporation, Stamford, Conn., (Dec. 1981).
+XEROX. Internet transport protocols. Xerox System Integration Standard, XSIS028112, Xerox Corporation, Stamford, Conn., (Dec. 1981).
+L Zhang, Why TCP timers don't work well, Proceedings of the ACM SIGCOMM conference on Communications architectures & protocols, p.397-405, August 05-07, 1986, Stowe, Vermont, USA[doi>10.1145/18172.18216]
+ZIMMERMAN, H. OSI reference model--The ISO model of architecture for open systems interconnection. IEEE Trans. Commun. COM-28, 4 (Apr. 1980), 425-432.
+Willy Zwaenepoel, Protocols for large data transfers over local networks, Proceedings of the ninth symposium on Data communications, p.22-32, September 1985, Whistler Moutain, British Columbia, Canada[doi>10.1145/319056.319001]

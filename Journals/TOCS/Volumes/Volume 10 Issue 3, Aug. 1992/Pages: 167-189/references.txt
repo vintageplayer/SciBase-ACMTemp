@@ -1,0 +1,31 @@
+ARENSTORF, N. S., AND JORDAN, H.F. Comparing barrier algorithms. Parallel Comput. 12, (Nov. 1989), 157-170.
+Carl J. Beckmann , Constantine D. Polychronopoulos, Fast barrier synchronization hardware, Proceedings of the 1990 conference on Supercomputing, p.180-189, October 1990, New York, New York, United States
+Eugene D. Brooks, III, The butterfly barrier, International Journal of Parallel Programming, v.15 n.4, p.295-307, Oct. 1986[doi>10.1007/BF01407877]
+COWTHER, W., GOODHUE, J., S?ARR, E., AND THOMAS, R. Performance measurements on a 128-node Butterfly parallel processor. In Internattonal Conference on Parallel Processing (St. Charles, II1., Aug. 1985), pp. 531-540.
+DICKEY, S., GOTTLIEB, A., KENNER, R., AND LIU, Y. Designing VLSI network nodes to reduce memory traffic in a shared memory parallel computer. Ultracomputer Note #125, Courant Institute, New York Univ., Aug. 1986.
+GOTTLIEB, A., GRrSHMAN, R., KRUSKAL, C., McAuLIFFE, K., RUDOLPH, L., AND SNm, M. The NYU ultracomputer designing an MIMD shared memory parallel computer. IEEE Trans. Comput. C-32, 2 (1983), 175-189.
+GAJSK~, D., KucK, D., LAWRm, D., AND SAMEH, A. CEDAR--A large scale multiprocessor. In International Conference on Parallel Processtng (Aug. 1983), pp. 524-529.{
+Allan Gottlieb , Boris D. Lubachevsky , Larry Rudolph, Basic Techniques for the Efficient Coordination of Very Large Numbers of Cooperating Sequential Processors, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.2, p.164-189, April 1983[doi>10.1145/69624.357206]
+Tsun-Yuk Hsu, Multiprocessor communications: design and technology, University of Illinois at Urbana-Champaign, Champaign, IL, 1992
+HWANG, K., AND SHANG, S. Wired-NOR barrier synchronization for designing large sharedmemory multiprocessors. In International Conference on Parallel Processing (St. Charles, Ill., Aug. 1991), pp. 171-175.
+JAYASIMHA, D. Parallel access to synchronization variables. In International Conference on Parallel Processing, (St. Charles, Ill., Aug. 1987), pp. 97-100.
+JAYASIMHA, D. Distributed synchronizers. In International Conference on Parallel Processing (St. Charles, Ill., Aug. 1988), pp. 23-27.
+KUMAR, M., AND PFISTER, G. The onset of hot spot contention. In International Conference on Parallel Processing (St. Charles, Ill., Aug. 1986), pp. 28-34.
+LAWRIE, D. Access and alignment of data in an array processor. IEEE Trans. Comput. (Dec. 1975), 1145 1155.
+LEE, G., KRUSKAL, C., AND KUCK, D. The effectiveness of combining in shared memory parallel computers in the presence of hot spots. In International Conference on Parollel Processing- (St. Charles, Ill., Aug. 1986), pp. 35-41.
+G. J. Lipovski , P. Vaughan, A fetch-and-op implementation for parallel computers, Proceedings of the 15th Annual International Symposium on Computer architecture, p.384-392, May 30-June 02, 1988, Honolulu, Hawaii, United States
+MERLIN, P., AND SCHWEITZER, r. Deadlock avoidance in store-and-forward networks--h store-and-forward deadlock. IEEE Trans. Commun. COM-28, 3 (1980), 345-354.
+John M. Mellor-Crummey , Michael L. Scott, Algorithms for scalable synchronization on shared-memory multiprocessors, ACM Transactions on Computer Systems (TOCS), v.9 n.1, p.21-65, Feb. 1991[doi>10.1145/103727.103729]
+S. P. Midkiff , D. A. Padua, Compiler algorithms for synchronization, IEEE Transactions on Computers, v.36 n.12, p.1485-1495, Dec. 1987[doi>10.1109/TC.1987.5009499]
+MEYER, D., SmGEL, H., SCHWEDERSKI, T., DAWS IV, N., AND KUEHN, J. The PASM parallel system prototype. In IEEE Computer Society Spring Compcon 85 (Feb. 1985), pp. 429-434.
+PFISTER, G., AND NORTON, Y. Hot spot contention and combining in multistage interconnection networks. IEEE Trans. Comput. C-34, 10 (1985), 943-948.
+F. Pittelli , D. Smitley, Analysis of a 3D toroidal network for a shared memory architecture, Proceedings of the 1988 ACM/IEEE conference on Supercomputing, p.42-46, November 12-17, 1988, Orlando, Florida, United States
+C. D. Polychronopoulos, Compiler Optimizations for Enhancing Parallelism and Their Impact on Architecture Design, IEEE Transactions on Computers, v.37 n.8, p.991-1004, August 1988[doi>10.1109/12.2249]
+Lawrence S. Rudolph, Software structures for ultraparallel computing, 1982
+S. L. Scott , G. S. Sohi, The Use of Feedback in Multiprocessors and Its Application to Tree Saturation Control, IEEE Transactions on Parallel and Distributed Systems, v.1 n.4, p.385-398, October 1990[doi>10.1109/71.80178]
+STONE, H. Parallel processing with the perfect shuffle. IEEE Trans. Comput. 20, 2 (1971), 153-161.
+Peiyi Tang , Pen-Chung Yew, Software combining algorithms for distributing hot-spot addressing, Journal of Parallel and Distributed Computing, v.10 n.2, p.130-139, Oct. 1990[doi>10.1016/0743-7315(90)90022-H]
+TZENG, N. An approach to the performance improvement of multistage interconnection networks with nonuniform traffic spots. In International Conference on Parallel Processing (St. Charles, Ill., Aug. 1991), pp. 542-545.
+WOOD, D. Parallel queues and pools, an evaluation. Ultracomputer Note #150, Courant Inst., New York Univ., Jan. 1989.
+YEW, P., PADUA, D., AND LAWRIE, D. Stochastic properties of a multiple-layer single-stage shuffle-exchange network in a message switching environment. J. D~glt. Syst. VI, 4 (Winter 1982), 387-410.
+P.-C. Yew , N.-F. Tzeng , D. H. Lawrie, Distributing hot-spot addressing in large-scale multiprocessors, IEEE Transactions on Computers, v.36 n.4, p.388-395, April 1987[doi>10.1109/TC.1987.1676921]

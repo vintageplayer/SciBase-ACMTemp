@@ -1,0 +1,32 @@
+Houtan Aghili, A practical guide to the design of differential files for recovery of on-line databases, ACM Transactions on Database Systems (TODS), v.7 n.4, p.540-565, Dec. 1982[doi>10.1145/319758.319762]
+BACCELL|, F. Analysis of a service facility with periodic checkpointing. Acta Informatica 15, 1 (Jan. 1981), 67-81.
+András A. Benczúr , A. Krámli, An Example for an Adaptive Control Method Providing Data Based Integrity, Proceedings of the Third International Symposium on Modelling and Performance Evaluation of Computer Systems: Performance of Computer Systems, p.263-276, February 06-08, 1979
+BOUCHET, P., GELENBE, E., AND TUCCI, S. Le Choix d'une Architecture Permettant la Reprise sur Panne danE un Systeme de Gestion de Donnees. RAIRO Computer Science 12, 3 (July 1978), 183-197.
+BROCK, A. An analysis of checkpointing, in Proceedings of the Sixth International Conference on Production Research, (Novi Sad, Jugoslavia, Aug. 24-29, 1981), pp. 707-711.
+CASTILLO, X., MCCONNEL, S. R., AND SIEWIOREK, D. P. Derivation and calibration of a transient error reliability model. IEEE Trans. Comput. 31, 7 (July 1982), 658-671.
+CHANDY, K.M. A survey of analytic models of rollback and recovery strategies. Computer 8, 5 (May 1975), 40-47.
+CHANDY, K. M., BROWNE, J. C., DISSLY, C. W., AND UHRIG, W.R. Analytic models for rollback and recovery strategies in database systems. IEEE Trans. Softw. Eng. I, 1 (Mar. 1975), 100-110.
+C. J. Date, An introduction to database systems: vol. I (4th ed.), Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+DUDA, A. The effects of checkpointing on program execution time. Inf. Process. Lett. 16 (1983), 221-229.
+Andrzej Duda, Performance Analysis of the Checkpoint-Rollback-Recovery System via Diffusion Approximation, Proceedings of the International Workshop on Computer Performance and Reliability, p.315-327, September 26-30, 1983
+Erol Gelenbe, A model of roll-back recovery with multiple checkpoints, Proceedings of the 2nd international conference on Software engineering, p.251-255, October 13-15, 1976, San Francisco, California, USA
+Erol Gelenbe, On the Optimum Checkpoint Interval, Journal of the ACM (JACM), v.26 n.2, p.259-270, April 1979[doi>10.1145/322123.322131]
+E. Gelenbe , D. Derochette, Performance of rollback recovery systems under intermittent failures, Communications of the ACM, v.21 n.6, p.493-499, June 1978[doi>10.1145/359511.359531]
+Jim Gray, Notes on Data Base Operating Systems, Operating Systems, An Advanced Course, p.393-481, January 1978
+Daniel P. Heyman, Mathematical models of database degradation, ACM Transactions on Database Systems (TODS), v.7 n.4, p.615-631, Dec. 1982[doi>10.1145/319758.319771]
+ISHAM, V. The effect of intermittent exposure to risk on failure time distributions. J. Appl. Prob. 11 (1974), 310-319.
+LEWIS, P.A. A branching process model for the analysis of computer failure patterns. J. R. Star. Soc. B-26, 3 (1964), 398-441.
+LINDSAY, B. G., SELINGER: P. G., GALTIERI, C., GRAY, J. N., LORIE, R. A., PRICE, T. G., PUTZOLU, F., TRAIGER, I. L., AND WADE, B.W. Notes on distributed databases. IBM Res. Rep. RJ2571 (1979).
+Guy M. Lohman , John A. Muckstadt, Optimal policy for batch operations: backup, checkpointing, reorganization, and updating, ACM Transactions on Database Systems (TODS), v.2 n.3, p.209-222, Sept. 1977[doi>10.1145/320557.320558]
+Raymond A. Lorie, Physical integrity in a large segmented database, ACM Transactions on Database Systems (TODS), v.2 n.1, p.91-104, March 1977[doi>10.1145/320521.320540]
+MAGAZINE, M. An approximation to the optimum checkpoint interval using integer programming. INRIA Res. Rep. 139 (June 1982).
+MENDELSON, H. AND YECHIALI, U. Optimal policies for data base reorganization. Oper. Res. 29, i (Jan. 1981), 23-36.
+MIKOU, N. AND TUCCI, S. Analyse et Optimisation d'une Procedure de Reprise dans un Systeme de Gestion de Donnees Centralise. Acta Informatica 12, 4 (Oct. 1979), 321-338.
+Victor F. Nicola , F. J. Kylstra, A Model of Checkpointing and Recovery with a Specified Number of Transactions between Checkpoints, Proceedings of the 9th International Symposium on Computer Performance Modelling, Measurement and Evaluation, p.83-99, May 25-27, 1983
+SIEWIOREK, D. P. AND SWARZ, R. S. The Theory and Practice of Reliable System Design. Digital Press, Bedford, Mass., 1982.
+Gary H. Sockut , Robert P. Goldberg, Database Reorganization—Principles and Practice, ACM Computing Surveys (CSUR), v.11 n.4, p.371-395, Dec. 1979[doi>10.1145/356789.356796]
+Asser Nasr-El-Din Tantawi, Performance analysis of rollback recovery systems and breakdown queueing networks, Rutgers University, New Brunswick, NJ, 1982
+TANTAWI, A. AND RUSCHITZKA, M. A general model for rollback and recovery. In preparation.
+VELARDI, P. AND IYER, R.K. Software failures on the MVS operating system at CIT. CRC Tech. Rep., Stanford University (June 1983).
+Joost S. M. Verhofstad, Recovery Techniques for Database Systems, ACM Computing Surveys (CSUR), v.10 n.2, p.167-195, June 1978[doi>10.1145/356725.356730]
+John W. Young, A first order approximation to the optimum checkpoint interval, Communications of the ACM, v.17 n.9, p.530-531, Sept. 1974[doi>10.1145/361147.361115]

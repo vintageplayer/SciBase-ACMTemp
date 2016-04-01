@@ -1,0 +1,63 @@
+Alfred V. Aho , Ravi Sethi , Jeffrey D. Ullman, Compilers: principles, techniques, and tools, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+Apache.2010. Apache Benchmark (AB). http://httpd.apache.org/docs/2.0/programs/ab.html.
+Jean Arlat , Martine Aguera , Louis Amat , Yves Crouzet , Jean-Charles Fabre , Jean-Claude Laprie , Eliane Martins , David Powell, Fault Injection for Dependability Validation: A Methodology and Some Applications, IEEE Transactions on Software Engineering, v.16 n.2, p.166-182, February 1990[doi>10.1109/32.44380]
+Bairavasundaram, L. N., Rungta, M., Agrawal, N., Arpaci-Dusseau, A. C., Arpaci-Dusseau, R. H., and Swift, M. M.2008. Analyzing the effects of disk-pointer corruption. InProceedings of the International Conference on Dependable Systems and Networks.
+R. Barbosa , N. Silva , J. Duraes , H. Madeira, Verification and Validation of (Real Time) COTS Products using Fault Injection Techniques, Proceedings of the Sixth International IEEE Conference on Commercial-off-the-Shelf (COTS)-Based Software Systems, p.233-242, February 26-March 02, 2007[doi>10.1109/ICCBSS.2007.45]
+J. H. Barton , E. W. Czeck , Z. Z. Segall , D. P. Siewiorek, Fault Injection Experiments Using FIAT, IEEE Transactions on Computers, v.39 n.4, p.575-582, April 1990[doi>10.1109/12.54853]
+J. M. Bieman , D. Dreilinger , Lijun Lin, Using fault injection to increase software test coverage, Proceedings of the The Seventh International Symposium on Software Reliability Engineering, p.166, October 30-November 02, 1996
+BIND. 2010a. BIND aborts in dst_api.c. https://lists.isc.org/pipermail/bind-users/2010-January/078493.html.
+BIND.2010b. BIND crashes in statschannel.c. https://lists.isc.org/pipermail/bind-users/2010-January/078428.html.
+Bisolfati, E., Marinescu, P. D., and Candea, G.2010. Studying application--library interaction and behavior with LibTrac. InProceedings of the International Conference on Dependable Systems and Networks.
+Broadwell, P. A., Sastry, N., and Traupman, J.2002. FIG: A prototype tool for online verification of recovery mechanisms. InProceedings of the Workshop on Self-Healing, Adaptive and Self-Managed Systems.
+Cristian Cadar , Daniel Dunbar , Dawson Engler, KLEE: unassisted and automatic generation of high-coverage tests for complex systems programs, Proceedings of the 8th USENIX conference on Operating systems design and implementation, p.209-224, December 08-10, 2008, San Diego, California
+George Candea , Mauricio Delgado , Michael Chen , Armando Fox, Automatic Failure-Path Inference: A Generic Introspection Technique for Internet Applications, Proceedings of the The Third IEEE Workshop on Internet Applications, p.132, June 23-24, 2003
+Miguel Castro , Barbara Liskov, Practical Byzantine fault tolerance, Proceedings of the third symposium on Operating systems design and implementation, p.173-186, February 1999, New Orleans, Louisiana, USA
+Chillarege, R. and Bowen, N. S.1989. Understanding large system failures - a fault injection experiment”. InIntl. Symp. on Fault-Tolerant Computing.
+Vitaly Chipounov , Volodymyr Kuznetsov , George Candea, S2E: a platform for in-vivo multi-path analysis of software systems, Proceedings of the sixteenth international conference on Architectural support for programming languages and operating systems, March 05-11, 2011, Newport Beach, California, USA[doi>10.1145/1950365.1950396]
+William R. Cook, AppleScript, Proceedings of the third ACM SIGPLAN conference on History of programming languages, p.1-1-1-21, June 09-10, 2007, San Diego, California[doi>10.1145/1238844.1238845]
+CPython.2011. http://www.python.org/.
+Timothy W. Curry, Profiling and tracing dynamic library usage via interposition, Proceedings of the USENIX Summer 1994 Technical Conference on USENIX Summer 1994 Technical Conference, p.18-18, June 06-10, 1994, Boston, Massachusetts
+Scott Dawson , Farnam Jahanian , Todd Mitton, Experiments on six commercial TCP implementations using a software fault injection tool, Software—Practice & Experience, v.27 n.12, p.1385-1410, Dec. 1997[doi>10.1002/(SICI)1097-024X(199712)27:12<1385::AID-SPE133>3.0.CO;2-7]
+Mark Dowson, The Ariane 5 software failure, ACM SIGSOFT Software Engineering Notes, v.22 n.2, p.84, March 1997[doi>10.1145/251880.251992]
+ELSA. 2009. http://www.eecs.berkeley.edu/~smcpeak/elkhound/sources/elsa/. (Accessed on 3/09).
+Chen Fu , Barbara G. Ryder , Ana Milanova , David Wonnacott, Testing of java web services for robustness, Proceedings of the 2004 ACM SIGSOFT international symposium on Software testing and analysis, July 11-14, 2004, Boston, Massachusetts, USA[doi>10.1145/1007512.1007516]
+Gcov. 2010. GCC coverage testing tool. http://gcc.gnu.org/onlinedocs/gcc/Gcov.html.
+Git.2010a. Git crashes on make test. http://marc.info/?l=git&m;=125985479417107.
+Git.2010b. Git fails when running commands in wrong environment. http://marc.info/?l=git&m;=125986795807036.
+Git.2010c. Git unchecked malloc’s. http://marc.info/?l=git&m;=126298802319662.
+Haryadi S. Gunawi , Cindy Rubio-González , Andrea C. Arpaci-Dusseau , Remzi H. Arpaci-Dussea , Ben Liblit, EIO: error handling is occasionally correct, Proceedings of the 6th USENIX Conference on File and Storage Technologies, p.1-16, February 26-29, 2008, San Jose, California
+Gunawi, H. S., Do, T., Joshi, P., Hellerstein, J. M., Arpaci-Dusseau, A. C., Arpaci-Dusseau, R. H., and Sen, K.2010. Towards automatically checking thousands of failures with micro-specifications. Tech. rep. UCB/EECS-2010-98, University of California.
+Zhenyu Guo , Xi Wang , Jian Tang , Xuezheng Liu , Zhilei Xu , Ming Wu , M. Frans Kaashoek , Zheng Zhang, R2: an application-level kernel for record and replay, Proceedings of the 8th USENIX conference on Operating systems design and implementation, p.193-208, December 08-10, 2008, San Diego, California
+Hadoop FI.2010. Hadoop Fault Injection framework. http://hadoop.apache.org/hdfs/docs/r0.21.0/faultinject_framework.html.
+Holodeck.2010. Win32 fuzz testing and fault injection. http://www.securityinnovation.com/holodeck/.
+Galen Hunt , Doug Brubacher, Detours: binary interception of Win32 functions, Proceedings of the 3rd conference on USENIX Windows NT Symposium, p.14-14, July 12-15, 1999, Seattle, Washington
+Andréas Johansson , Neeraj Suri , Brendan Murphy, On the Impact of Injection Triggers for OS Robustness Evaluation, Proceedings of the The 18th IEEE International Symposium on Software Reliability, p.127-126, November 05-09, 2007[doi>10.1109/ISSRE.2007.17]
+Ghani A. Kanawati , Nasser A. Kanawati , Jacob A. Abraham, FERRARI: A Flexible Software-Based Fault and Error Injection System, IEEE Transactions on Computers, v.44 n.2, p.248-260, February 1995[doi>10.1109/12.364536]
+Charles Killian , James W. Anderson , Ranjit Jhala , Amin Vahdat, Life, death, and the critical transition: finding liveness bugs in systems code, Proceedings of the 4th USENIX conference on Networked systems design & implementation, p.18-18, April 11-13, 2007, Cambridge, MA
+Koopman, P., Sung, J., Dingman, C., Siewiorek, D., and Marz, T.1997. Comparing operating systems using robustness benchmarks. InProceedings of the International Symposium on Software Reliability Engineering.
+Lcov. 2010. LTP gcov extension. http://ltp.sourceforge.net/coverage/lcov.php.
+Timothy C. Lethbridge , Janice Singer , Andrew Forward, How Software Engineers Use Documentation: The State of the Practice, IEEE Software, v.20 n.6, p.35-39, November 2003[doi>10.1109/MS.2003.1241364]
+Li, X., Martin, R., Nagaraja, K., Nguyen, T. D., and Zhang, B.2002. Mendosus: A san-based fault-injection test-bed for the construction of highly available network services. InProceedings of the Workshop on Novel Uses of System Area Networks.
+Libdwarf.2010. Libdwarf. http://reality.sgiweb.org/davea/dwarf.html.
+Paul D. Marinescu , Radu Banabic , George Candea, An extensible technique for high-precision testing of recovery code, Proceedings of the 2010 USENIX conference on USENIX annual technical conference, p.23-23, June 23-25, 2010, Boston, MA
+MySQL.2009. MySQL crashes due to bus error during shutdown. http://bugs.mysql.com/bug.php?id=42109.
+MySQL. 2010a. MySQL crashes due to double unlock. http://bugs.mysql.com/bug.php?id=53268.
+MySQL. 2010b. MySQL crashes due to error while reading errmsg.sys. http://bugs.mysql.com/bug.php?id=53393.
+MySQL. 2010c. MySQL InnoDB crashes during shutdown. http://bugs.mysql.com/bug.php?id=52546.
+MySQL.2010d. http://www.mysql.com/.
+Wee Teck Ng , Peter M. Chen, The Systematic Improvement of Fault Tolerance in the Rio File Cache, Proceedings of the Twenty-Ninth Annual International Symposium on Fault-Tolerant Computing, p.76, June 15-18, 1999
+Pidgin.2009. Pidgin SIGABRTs on memory alloc. http://developer.pidgin.im/ticket/8672.
+Pidgin.2010. Pidgin. http://www.pidgin.im.
+Vijayan Prabhakaran , Lakshmi N. Bairavasundaram , Nitin Agrawal , Haryadi S. Gunawi , Andrea C. Arpaci-Dusseau , Remzi H. Arpaci-Dusseau, IRON file systems, Proceedings of the twentieth ACM symposium on Operating systems principles, October 23-26, 2005, Brighton, United Kingdom[doi>10.1145/1095810.1095830]
+Prasad, M. and Chiueh, T.2003. A binary rewriting defense against stack-based buffer overflow attacks. InProceedings of the USENIX Annual Technical Conference.
+Cindy Rubio-González , Ben Liblit, Expect the unexpected: error code mismatches between documentation and the real world, Proceedings of the 9th ACM SIGPLAN-SIGSOFT workshop on Program analysis for software tools and engineering, June 05-06, 2010, Toronto, Ontario, Canada[doi>10.1145/1806672.1806687]
+Janice Singer, Practices of Software Maintenance, Proceedings of the International Conference on Software Maintenance, p.139, March 16-19, 1998
+Slowinska, A., Stancescu, T., and Bos, H.2011. Howard: A dynamic excavator for reverse engineering data structures. InProceedings of the Network and Distributed System Security Symposium.
+David T. Stott , Benjamin Floering , Zbigniew Kalbarczyk , Ravishankar K. Iyer, A Framework for Assessing Dependability in Distributed Systems with Lightweight Fault Injectors, Proceedings of the 4th International Computer Performance and Dependability Symposium, p.91, March 27-30, 2000
+Martin Susskraut , Christof Fetzer, Automatically Finding and Patching Bad Error Handling, Proceedings of the Sixth European Dependable Computing Conference, p.13-22, October 18-20, 2006[doi>10.1109/EDCC.2006.3]
+SysBench. 2010. http://sysbench.sourceforge.net.
+TestApi.2010. Library of test and utility APIs. http://testapi.codeplex.com/.
+Timothy K. Tsai , Ravishankar K. Iyer, Measuring Fault Tolerance with the FTAPE Fault Injection Tool, Proceedings of the 8th International Conference on Modelling Techniques and Tools for Computer Performance Evaluation: Quantitative Evaluation of Computing and Communication Systems, p.26-40, September 20-22, 1995
+V8 JavaScript Engine.2011. http://code.google.com/p/v8/.
+Westley Weimer , George C. Necula, Exceptional situations and program reliability, ACM Transactions on Programming Languages and Systems (TOPLAS), v.30 n.2, p.1-51, March 2008[doi>10.1145/1330017.1330019]
+Jingbo Zhang , Rongcai Zhao , Jianmin Pang, Parameter and Return-value Analysis of Binary Executables, Proceedings of the 31st Annual International Computer Software and Applications Conference, p.501-508, July 24-27, 2007[doi>10.1109/COMPSAC.2007.163]

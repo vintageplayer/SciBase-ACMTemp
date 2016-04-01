@@ -1,0 +1,35 @@
+Gregory R. Andrews , Michael Coffin , Irving Elshoff , Kelvin Nilson , Gregg Townsend , Ronald A. Olsson , Titus Purdin, An overview of the SR language and implementation, ACM Transactions on Programming Languages and Systems (TOPLAS), v.10 n.1, p.51-86, Jan. 1988[doi>10.1145/42192.42324]
+Rakesh Agrawal , Michael J. Carey , Miron Livny, Concurrency control performance modeling: alternatives and implications, ACM Transactions on Database Systems (TODS), v.12 n.4, p.609-654, Dec. 1987[doi>10.1145/32204.32220]
+Philip A. Bernstein , Nathan Goodman, Concurrency Control in Distributed Database Systems, ACM Computing Surveys (CSUR), v.13 n.2, p.185-221, June 1981[doi>10.1145/356842.356846]
+BHARGAVA, B., RIEDL, J., AND WEBER, D. An expert system to control an adaptable distributed database system. Tech. Report CSD-TR-693, Purdue Univ., May 1987.
+Bharat Bhargava , John Riedl, The Raid Distributed Database System, IEEE Transactions on Software Engineering, v.15 n.6, p.726-736, June 1989[doi>10.1109/32.24726]
+B. Bhargava , J. Riedl, A Model for Adaptable Systems for Transaction Processing, IEEE Transactions on Knowledge and Data Engineering, v.1 n.4, p.433-449, December 1989[doi>10.1109/69.43419]
+Haran Boral , Israel Gold, Towards a self-adapting centralized concurrency control algorithm, Proceedings of the 1984 ACM SIGMOD international conference on Management of data, June 18-21, 1984, Boston, Massachusetts[doi>10.1145/602259.602263]
+Rakesh Agrawal , Michael J. Carey , Miron Livny, Models for studying concurrency control performance: alternatives and implications, Proceedings of the 1985 ACM SIGMOD international conference on Management of data, p.108-121, May 1985, Austin, Texas, United States[doi>10.1145/318898.318909]
+Michael J. Carey , Waleed A. Muhanna, The performance of multiversion concurrency control algorithms, ACM Transactions on Computer Systems (TOCS), v.4 n.4, p.338-378, Nov. 1986[doi>10.1145/6513.6517]
+COAD~, Y. An investigation of type-specific optimistic, pessimistic, and hybrid concurrency control M.Sc. thesis~ School of Computing Science, Simon Fraser Univ., Dec. 1988.
+CORDON, R., AND GARCIA-MOLINA~ H. The performance of a concurrency control mechanism that exploits semantic knowledge, in Proceedings of the Fifth International Conference on Distributed Computing Science (1985), pp. 350-358.
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+Hector Garcia-Molina, Using semantic knowledge for transaction processing in a distributed database, ACM Transactions on Database Systems (TODS), v.8 n.2, p.186-213, June 1983[doi>10.1145/319983.319985]
+GAWLICK, D. Processing "Hot spots" in high performance systems, in Proceedings IEEE COMPCON Conference (Feb. 1985), pp. 249-251.
+Theo Härder, Observations on optimistic concurrency control schemes, Information Systems, v.9 n.2, p.111-120, 1984[doi>10.1016/0306-4379(84)90020-6]
+Maurice Herlihy, Optimistic concurrency control for abstract data types, Proceedings of the fifth annual ACM symposium on Principles of distributed computing, p.206-217, August 11-13, 1986, Calgary, Alberta, Canada[doi>10.1145/10590.10608]
+M. Herlihy, Apologizing versus asking permission: optimistic concurrency control for abstract data types, ACM Transactions on Database Systems (TODS), v.15 n.1, p.96-124, March 1990[doi>10.1145/77643.77647]
+Maurice P. Herlihy , William E. Weihl, Hybrid concurrency control for abstract data types, Proceedings of the seventh ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.201-210, March 1988, Austin, Texas, United States[doi>10.1145/308386.308440]
+H. T. Kung , John T. Robinson, On optimistic methods for concurrency control, ACM Transactions on Database Systems (TODS), v.6 n.2, p.213-226, June 1981[doi>10.1145/319566.319567]
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+George Lausen, Concurrency control in database systems: A step towards the integration of optimistic methods and locking, Proceedings of the ACM '82 conference, p.64-68, January 1982[doi>10.1145/800174.809759]
+G Lausen, Integrated concurrency control in shared B-trees, Computing, v.33 n.1, p.13-26, 1984[doi>10.1007/BF02243072]
+Barbara Liskov , Robert Scheifler, Guardians and Actions: Linguistic Support for Robust, Distributed Programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.3, p.381-404, July 1983[doi>10.1145/2166.357215]
+D. P. Reed, NAMING AND SYNCHRONIZATION IN A DECENTRALIZED COMPUTER SYSTEM, Massachusetts Institute of Technology, Cambridge, MA, 1978
+John Thomas Riedl, Adaptable distributed transaction systems, Purdue University, West Lafayette, IN, 1990
+John Timothy Robinson, Design of concurrency controls for transaction processing systems, 1982
+Lawrence A. Rowe , Michael Stonebraker, The commercial INGRES epilogue, The INGRES papers: anatomy of a relational database system, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+Peter M. Schwarz , Alfred Z. Spector, Synchronizing shared abstract types, ACM Transactions on Computer Systems (TOCS), v.2 n.3, p.223-250, Aug. 1984[doi>10.1145/989.1188]
+SHETH, A., AND LIu M. Integrating locking and optimistic concurrency control in distributed database systems, in Proceedings of the 6th International Conference on Distributed Computing Systems (May 1986), pp. 89 99.
+SPECTOR, A.Z. Distributed transactions for reliable systems. In Proceedings of the Prtnciples of Distributed Computing Conference (1985).
+SPECTOR, A. Z. Distributed processing and the camelot system. Carnegie-Melon Univ., TR-87-100, Jan. 1987.
+Michael Stonebraker , Lawrence A. Rowe, The design of POSTGRES, Proceedings of the 1986 ACM SIGMOD international conference on Management of data, p.340-355, May 28-30, 1986, Washington, D.C., United States[doi>10.1145/16894.16888]
+W. E. Weihl, SPECIFICATION AND IMPLEMENTATION OF ATOMIC DATA TYPES, Massachusetts Institute of Technology, Cambridge, MA, 1984
+W. E. Weihl, Local atomicity properties: modular concurrency control for abstract data types, ACM Transactions on Programming Languages and Systems (TOPLAS), v.11 n.2, p.249-282, April 1989[doi>10.1145/63264.63518]
+W. E. Weihl, The impact of recovery on concurrency control, Proceedings of the eighth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.259-269, March 1989, Philadelphia, Pennsylvania, United States[doi>10.1145/73721.73748]

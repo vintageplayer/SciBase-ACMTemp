@@ -1,0 +1,64 @@
+Adam Belay , Andrea Bittau , Ali Mashtizadeh , David Terei , David Mazières , Christos Kozyrakis, Dune: safe user-level access to privileged CPU features, Proceedings of the 10th USENIX conference on Operating Systems Design and Implementation, October 08-10, 2012, Hollywood, CA, USA
+Al Bessey , Ken Block , Ben Chelf , Andy Chou , Bryan Fulton , Seth Hallem , Charles Henri-Gros , Asya Kamsky , Scott McPeak , Dawson Engler, A few billion lines of code later: using static analysis to find bugs in the real world, Communications of the ACM, v.53 n.2, February 2010[doi>10.1145/1646353.1646374]
+Sam Blackshear , Shuvendu K. Lahiri, Almost-correct specifications: a modular semantic framework for assigning confidence to warnings, Proceedings of the 34th ACM SIGPLAN Conference on Programming Language Design and Implementation, June 16-19, 2013, Seattle, Washington, USA[doi>10.1145/2491956.2462188]
+Hans-J. Boehm, Threads cannot be implemented as a library, Proceedings of the 2005 ACM SIGPLAN conference on Programming language design and implementation, June 12-15, 2005, Chicago, IL, USA[doi>10.1145/1065010.1065042]
+Robert Brummayer , Armin Biere, Boolector: An Efficient SMT Solver for Bit-Vectors and Arrays, Proceedings of the 15th International Conference on Tools and Algorithms for the Construction and Analysis of Systems: Held as Part of the Joint European Conferences on Theory and Practice of Software, ETAPS 2009,, March 22-29, 2009, York, UK[doi>10.1007/978-3-642-00768-2_16]
+Cristian Cadar , Daniel Dunbar , Dawson Engler, KLEE: unassisted and automatic generation of high-coverage tests for complex systems programs, Proceedings of the 8th USENIX conference on Operating systems design and implementation, p.209-224, December 08-10, 2008, San Diego, California
+Géraud Canet , Pascal Cuoq , Benjamin Monate, A Value Analysis for C Programs, Proceedings of the 2009 Ninth IEEE International Working Conference on Source Code Analysis and Manipulation, p.123-124, September 20-21, 2009[doi>10.1109/SCAM.2009.22]
+Haogang Chen , Yandong Mao , Xi Wang , Dong Zhou , Nickolai Zeldovich , M. Frans Kaashoek, Linux kernel vulnerabilities: state-of-the-art defenses and open problems, Proceedings of the Second Asia-Pacific Workshop on Systems, July 11-12, 2011, Shanghai, China[doi>10.1145/2103799.2103805]
+Chromium 2013. Issue 12079010: Avoid Undefined Behavior When Checking for Pointer Wraparound. Retrieved from https://codereview.chromium.org/12079010/.
+Alessandro Cimatti , Alberto Griggio , Roberto Sebastiani, Computing small unsatisfiable cores in satisfiability modulo theories, Journal of Artificial Intelligence Research, v.40 n.1, p.701-728, January 2011
+Clang. 2014. Clang Compiler User’s Manual: Controlling Code Generation. Retrieved from http://clang.llvm.org/docs/UsersManual.html#controlling-code-generation.
+Jonathan Corbet. 2009. Fun with NULL Pointers, Part 1. (July 2009). http://lwn.net/Articles/342330/.
+Russ Cox. 2008. Re: plan9port build failure on Linux (debian). (March 2008). http://9fans.net/archive/2008/03/89.
+Pascal Cuoq, Matthew Flatt, and John Regehr. 2014. Proposal for a Friendly Dialect of C. Retrieved from http://blog.regehr.org/archives/1180.
+Will Dietz , Peng Li , John Regehr , Vikram Adve, Understanding integer overflow in C/C++, Proceedings of the 34th International Conference on Software Engineering, June 02-09, 2012, Zurich, Switzerland
+Isil Dillig , Thomas Dillig , Alex Aiken, Static error detection using semantic inconsistency inference, Proceedings of the 28th ACM SIGPLAN Conference on Programming Language Design and Implementation, June 10-13, 2007, San Diego, California, USA[doi>10.1145/1250734.1250784]
+Chad R. Dougherty and Robert C. Seacord. 2008. C compilers may silently discard some wraparound checks. Vulnerability Note VU#162289. US-CERT. Retrieved from http://www.kb.cert.org/vuls/id/162289, original version http://www.isspcs.org/render.html&quest;it=9100.
+Chucky Ellison and Grigore Roşu. 2012a. Defining the Undefinedness of C. Technical Report. University of Illinois. Retrieved from http://hdl.handle.net/2142/30780.
+Chucky Ellison , Grigore Rosu, An executable formal semantics of C with applications, Proceedings of the 39th annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages, January 25-27, 2012, Philadelphia, PA, USA[doi>10.1145/2103656.2103719]
+Dawson Engler , David Yu Chen , Seth Hallem , Andy Chou , Benjamin Chelf, Bugs as deviant behavior: a general approach to inferring errors in systems code, Proceedings of the eighteenth ACM symposium on Operating systems principles, October 21-24, 2001, Banff, Alberta, Canada[doi>10.1145/502034.502041]
+GCC. 2006. Bug 27180—Pointer Arithmetic Overflow Handling Broken. Retrieved from http://gcc.gnu.org/bugzilla/show_bug.cgi&quest;id=27180.
+GCC. 2007. Bug 30475—assert(int&plus;100 > int) Optimized Away. Retrieved from http://gcc.gnu.org/bugzilla/show_bug.cgi&quest;id=30475.
+GCC 2011. Bug 49820—Explicit Check for Integer Negative after abs Optimized Away. Retrieved from http://gcc.gnu.org/bugzilla/show_bug.cgi&quest;id=49820.
+GCC. 2013. Bug 53265—Warn When Undefined Behavior Implies Smaller Iteration Count. Retrieved from http://gcc.gnu.org/bugzilla/show_bug.cgi&quest;id=53265.
+Jochen Hoenicke , K. Rustan Leino , Andreas Podelski , Martin Schäf , Thomas Wies, It's Doomed; We Can Prove It, Proceedings of the 2nd World Congress on Formal Methods, November 02-06, 2009, Eindhoven, The Netherlands[doi>10.1007/978-3-642-05089-3_22]
+IBM. 2009. Optimizing C Code at Optimization Level 2. White paper.
+IBM. 2010. Power ISA Version 2.06 Revision B, Book I: Power ISA User Instruction Set Architecture.
+Intel. 2010. Intel Itanium Architecture Software Developer’s Manual, Volume 1: Application Architecture.
+Intel. 2013. Intel 64 and IA-32 Architectures Software Developer’s Manual, Volume 2: Instruction Set Reference, A--Z.
+Intel. 2014. Intel 64 and IA-32 Architectures Software Developer’s Manual.
+ISO/IEC. 2003. Rationale for International Standard - Programming Languages - C.
+ISO/IEC. 2011. ISO/IEC 9899:2011, Programming languages - C.
+Barnaby Jack. 2007. Vector Rewrite Attack: Exploitable NULL Pointer Vulnerabilities on ARM and XScale Architectures. White paper. Juniper Networks.
+Robbert Krebbers and Freek Wiedijk. 2012. Subtleties of the ANSI/ISO C Standard. Document N1639. ISO/IEC.
+Tom Lane. 2005. Anyone for Adding -fwrapv to Our Standard CFLAGS&quest; Retrieved from http://www.postgresql.org/message-id/1689.1134422394@sss.pgh.pa.us.
+Tom Lane. 2009. Re: gcc versus Division-by-Zero Traps. Retrieved from http://www.postgresql.org/message-id/19979.1251998812@sss.pgh.pa.us.
+Chris Lattner. 2011. What Every C Programmer Should Know About Undefined Behavior. Retrieved from http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html.
+Chris Lattner , Vikram Adve, LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation, Proceedings of the international symposium on Code generation and optimization: feedback-directed and runtime optimization, p.75, March 20-24, 2004, Palo Alto, California
+Linux Kernel. 2009. Bug 14287—ext4: Fixpoint Divide Exception at ext4_fill_super. Retrieved from https://bugzilla.kernel.org/show_bug.cgi&quest;id=14287.
+John Lions. 1977. A Commentary on the Sixth Edition UNIX Operating System.
+David MacKenzie, Ben Elliston, and Akim Demaille. 2012. Autoconf: Creating Automatic Configuration Scripts for Version 2.69. Free Software Foundation.
+William M. Miller. 2012. C&plus;&plus; Standard Core Language Defect Reports and Accepted Issues, Issue 1457: Undefined Behavior in Left-Shift. Retrieved from http://www.open-std.org/jtc1/sc22/wg21/docs/cwg_defects.html#1457.
+Bruce Momjian. 2006. Re: Fix for Win32 Division Involving INT_MIN. Retrieved from http://www.postgresql.org/message-id/200606090240.k592eUj23952@candle.pha.pa.us.
+Steven S. Muchnick, Advanced compiler design and implementation, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1998
+Diego Novillo. 2005. A propagation engine for GCC. In Proceedings of the 2005 GCC & GNU Toolchain Developers’’ Summit. 175--184.
+Python. 2013. Issue 17016:_sre: Avoid Relying on Pointer Overflow. Retrieved from http://bugs.python.org/issue17016.
+Silvio Ranise, Cesare Tinelli, and Clark Barrett. 2013. QF_BV logic. Retrieved from http://smtlib.cs.uiowa.edu/logics/QF_BV.smt2.
+John Regehr. 2010. A Guide to Undefined Behavior in C and C&plus;&plus;. Retrieved from http://blog.regehr.org/archives/213.
+John Regehr. 2012. Undefined behavior consequences contest winners. (July 2012). http://blog.regehr.org/archives/767.
+Robert C. Seacord. 2010. Dangerous Optimizations and the Loss of Causality. Retrieved from https://www.securecoding.cert.org/confluence/download/attachments/40402999/Dangerous&plus;Optimizations.pdf.
+Richard M. Stallman and the GCC Developer Community. 2013. Using the GNU Compiler Collection for GCC 4.8.0. Free Software Foundation.
+Mark Stephenson , Jonathan Babb , Saman Amarasinghe, Bidwidth analysis with application to silicon compilation, Proceedings of the ACM SIGPLAN 2000 conference on Programming language design and implementation, p.108-120, June 18-21, 2000, Vancouver, British Columbia, Canada[doi>10.1145/349299.349317]
+Eugene Teo. 2009. {PATCH} Add -fno-delete-null-pointer-checks to gcc CFLAGS. Retrieved from https://lists.ubuntu.com/archives/kernel-team/2009-July/006609.html.
+Julien Tinnes. 2009. Bypassing Linux NULL Pointer Dereference Exploit Prevention (mmap_min_addr). Retrieved from http://blog.cr0.org/2009/06/bypassing-linux-null-pointer.html.
+Aaron Tomb , Cormac Flanagan, Detecting inconsistencies via universal reachability analysis, Proceedings of the 2012 International Symposium on Software Testing and Analysis, July 15-20, 2012, Minneapolis, MN, USA[doi>10.1145/2338965.2336788]
+Linus Torvalds. 2007. Re: {patch} CFS Scheduler, -v8. Retrieved from https://lkml.org/lkml/2007/5/7/213.
+Jean Tourrilhes. 2003. Invalid Compilation without -fno-strict-aliasing. Retrieved from https://lkml.org/lkml/2003/2/25/270.
+Peng Tu , David Padua, Gated SSA-based demand-driven symbolic analysis for parallelizing compilers, Proceedings of the 9th international conference on Supercomputing, p.414-423, July 03-07, 1995, Barcelona, Spain[doi>10.1145/224538.224648]
+Xi Wang , Haogang Chen , Alvin Cheung , Zhihao Jia , Nickolai Zeldovich , M. Frans Kaashoek, Undefined behavior: what happened to my code?, Proceedings of the Asia-Pacific Workshop on Systems, p.1-7, July 23-24, 2012, Seoul, Republic of Korea[doi>10.1145/2349896.2349905]
+Xi Wang , Haogang Chen , Zhihao Jia , Nickolai Zeldovich , M. Frans Kaashoek, Improving integer security for systems with KINT, Proceedings of the 10th USENIX conference on Operating Systems Design and Implementation, October 08-10, 2012, Hollywood, CA, USA
+Xi Wang , Nickolai Zeldovich , M. Frans Kaashoek , Armando Solar-Lezama, Towards optimization-safe systems: analyzing the impact of undefined behavior, Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems Principles, November 03-06, 2013, Farminton, Pennsylvania[doi>10.1145/2517349.2522728]
+Keith Winstein , Hari Balakrishnan, Mosh: an interactive remote shell for mobile clients, Proceedings of the 2012 USENIX conference on Annual Technical Conference, p.15-15, June 13-15, 2012, Boston, MA
+John F. Woods. 1992. Re: Why is This Legal&quest; Retrieved from http://groups.google.com/group/comp.std.c/msg/dfe1ef367547684b.
+Nickolai Zeldovich , Silas Boyd-Wickizer , Eddie Kohler , David Mazières, Making information flow explicit in HiStar, Proceedings of the 7th symposium on Operating systems design and implementation, November 06-08, 2006, Seattle, Washington

@@ -1,0 +1,30 @@
+ACCEq'TA, M., BAROn, R, GOLU~, D., RA~I4ID, R., TEVX~qtX~4, A., A~qD YOUNC, M. Math: A new kernel foundation for UNIX development. Tech. Rep., School of Computer Science, Carnegie Mellon Univ., Pittsburgh, PA, Aug. 1986. Also in Proceedings of the Summer 1986 USENIX Conference (July 1986), pp. 93-112.
+ACM SIGOPS. Proceedings of the Ninth ACM Symposium on Operating Systems Principles (Bretton Woods, N.H., Oct. 1983).
+BmMAN, K., AND COOPER, R. The ISIS project: Real experience with a fault tolerant programming system. European SIGOPS Workshop, Sept. 1990. To appear in Operating Syst. Rev. April 1991; also available as Tech. Rep. TR90-1138, Cornell Univ, Computer Science Dept.
+BmMAN, K. A., COOPER, R., AND GLEESON, B. Programming with process groups: Group and multicast semantics. Tech. Rep. TR91-1185. Cornell Univ., Computer Science Dept., Feb. 1991.
+K. P. Birman , T. A. Joseph, Exploiting replication in distributed systems, Distributed systems, ACM, New York, NY, 1990[doi>10.1145/90417.90751]
+K. Birman , T. Joseph, Exploiting virtual synchrony in distributed systems, Proceedings of the eleventh ACM Symposium on Operating systems principles, p.123-138, November 08-11, 1987, Austin, Texas, USA[doi>10.1145/41457.37515]
+Kenneth P. Birman , Thomas A. Joseph, Reliable communication in the presence of failures, ACM Transactions on Computer Systems (TOCS), v.5 n.1, p.47-76, Feb. 1987[doi>10.1145/7351.7478]
+BmMAN, K. P., JOSEPH, T. A., KANE, K., AND SEHMUCK, F. ISIS-A Distributed Programming Environment User's Grade and Reference Manual, first edition. Dept. of Computer Science, Cornell Univ., March 1988.
+Jo-Mei Chang , N. F. Maxemchuk, Reliable broadcast protocols, ACM Transactions on Computer Systems (TOCS), v.2 n.3, p.251-273, Aug. 1984[doi>10.1145/989.357400]
+COOPER, R., AND BmMAN, K. Supporting large scale applications on networks of workstations. In Proceedings of 2nd Workshop on Workstation Operating Systems (Washington D.C., Sept. 1989), IEEE, Computer Society Press. Order 2003, pp. 25-28.
+CRISTIAN, F., AGHILI, H., STRONG, H. R., AND DOLEV, D. Atomic broadcast: From simple message diffusion to Byzantine agreement. Tech. Rep. RJ5244, IBM Research Laboratory, San Jose, Calif., July 1986. An earlier version appeared in Proceedings of the International Symposium on Fault-Tolerant Computing, 1985.
+DENNING, P. Working sets past and present. IEEE Trans. Softw. Eng. SE-6, 1 (Jan. 1980), 64-84.
+FIDGE, C. Timestamps in message-passing systems that preserve the partial ordering. In Proceedings of the 11tk Australian Computer Science Conference, 1988, pp. 56766.
+GARCIA-MOLINA, H., AND SPAUSTER, A. Message ordering in a multicast environment. In Proceedings 9th International Conference on Distributed Computing Systems (June 1989), IEEE, New York, 1989, pp. 354-361.
+M. Frans Kaashoek , A. S. Tanenbaum , S. F. Hummel, An efficient reliable broadcast protocol, ACM SIGOPS Operating Systems Review, v.23 n.4, p.5-19, Oct. 1989[doi>10.1145/70730.70732]
+Rivka Ladin , Barbara Liskov , Liuba Shrira, Lazy replication: exploiting the semantics of distributed services, Proceedings of the ninth annual ACM symposium on Principles of distributed computing, p.43-57, August 22-24, 1990, Quebec City, Quebec, Canada[doi>10.1145/93385.93399]
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+Keith Ansel Marzullo, Maintaining the time in a distributed system: an example of a loosely-coupled distributed service (synchronization, fault-tolerance, debugging), Stanford University, Stanford, CA, 1984
+MATTERN, F. Time and global states in distributed systems. In Proceedings of the International Workshop on Parallel and Distributed Algorithms. North-Holland, Amsterdam, 1989.
+Larry L. Peterson , Nick C. Buchholz , Richard D. Schlichting, Preserving and using context information in interprocess communication, ACM Transactions on Computer Systems (TOCS), v.7 n.3, p.217-246, Aug. 1989[doi>10.1145/65000.65001]
+L. Peterson , N. Hutchinson , S. O'Malley , M. Abbott, RPC in the x-Kernel: evaluating new design techniques, Proceedings of the twelfth ACM symposium on Operating systems principles, p.91-101, November 1989[doi>10.1145/74850.74860]
+PITELLI, F., AND GARCIA-MOLENA, H. Data processing with triple modular redundancy. Tech. Rep. TR-002-85, Princeton Univ., June 1985.
+Michael L. Powell , David L. Presotto, Publishing: a reliable broadcast communication mechanism, Proceedings of the ninth ACM symposium on Operating systems principles, p.100-109, October 10-13, 1983, Bretton Woods, New Hampshire, USA[doi>10.1145/800217.806618]
+RICCIARDI, A., AND BIRMAN, K.P. Using process groups to implement failure detection in asynchronous environments. Tech. Rep. TR91-1188, Computer Science Dept., Cornetl Univ., Feb. 1991.
+André Schiper , Jorge Eggli , Alain Sandoz, A New Algorithm to Implement Causal Ordering, Proceedings of the 3rd International Workshop on Distributed Algorithms, p.219-232, September 26-28, 1989
+Frank Bernhard Schmuck, The use of efficient broadcast protocols in asynchronous distributed systems, Cornell University, Ithaca, NY, 1988
+T. K. Srikanth , Sam Toueg, Optimal clock synchronization, Journal of the ACM (JACM), v.34 n.3, p.626-645, July 1987[doi>10.1145/28869.28876]
+STEPHENSON, P. Fast causal multicast. PhD thesm, Cornell Univ., Feb. 1991.
+P. Veríssimo , L. Rodrigues , M. Baptista, AMp: a highly parallel atomic multicast protocol, Symposium proceedings on Communications architectures & protocols, p.83-93, September 25-27, 1989, Austin, Texas, USA[doi>10.1145/75246.75256]
+Bruce Walker , Gerald Popek , Robert English , Charles Kline , Greg Thiel, The LOCUS distributed operating system, Proceedings of the ninth ACM symposium on Operating systems principles, p.49-70, October 10-13, 1983, Bretton Woods, New Hampshire, USA[doi>10.1145/800217.806615]

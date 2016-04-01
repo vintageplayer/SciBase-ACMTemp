@@ -1,0 +1,33 @@
+Juan Alemany , Edward W. Felten, Performance issues in non-blocking synchronization on shared-memory multiprocessors, Proceedings of the eleventh annual ACM symposium on Principles of distributed computing, p.125-134, August 10-12, 1992, Vancouver, British Columbia, Canada[doi>10.1145/135419.135446]
+James H. Anderson , Mark Moir, Universal Constructions for Large Objects, Proceedings of the 9th International Workshop on Distributed Algorithms, p.168-182, September 13-15, 1995
+James H. Anderson , Srikanth Ramamurthy, A framework for implementing objects and scheduling tasks in lock-free real-time systems, Proceedings of the 17th IEEE Real-Time Systems Symposium, p.94, December 04-06, 1996
+James H. Anderson , Srikanth Ramamurthy , Rohit Jain, Implementing wait-free objects on priority-based systems, Proceedings of the sixteenth annual ACM symposium on Principles of distributed computing, p.229-238, August 21-24, 1997, Santa Barbara, California, USA[doi>10.1145/259380.259443]
+ANDERSON, g. H., RAMAMURTHY, S., AND JEFFAY, K. 1995. Real-time computing with lock-free objects. Tech. Rep. TR95-021, Dept. of Computer Science, Univ. of North Carolina, Chapel Hill, N.C.
+ANDERSON, J. H., RAMAMURTHY, S., MOIR, M., AND JEFFAY, K. 1997b. Lock-free transactions for real-time systems. In Real-Time Databases: Issues and Applications. Kluwer, Amsterdam.
+T. P. Baker, Stack-based scheduling for realtime processes, Real-Time Systems, v.3 n.1, p.67-99, March 1991[doi>10.1007/BF00365393]
+Sanjoy K. Baruah , Rodney R. Howell , Louis E. Rosier, Feasibility problems for recurring tasks on one processor, Theoretical Computer Science, v.118 n.1, p.3-20, Sept. 13, 1993[doi>10.1016/0304-3975(93)90360-6]
+BERSHAD, B. 1993. Practical considerations for non-blocking concurrent objects. In Proceedings of the 13th International Conference on Distributed Computing Systems. 264-274.
+Min-Ih Chen , Kwei-Jay Lin, Dynamic priority ceilings: a concurrency control protocol for real-time systems, Real-Time Systems, v.2 n.4, p.325-346, Nov. 1990[doi>10.1007/BF01995676]
+GALLMEISTER, B. O. AND LANIER, C. 1991. Early experience with POSIX 1003.4 and POSIX 1003.4a. In Proceedings of the 12th IEEE Real-Time Systems Symposium. IEEE, New York, 190-198.
+Maurice Herlihy, Wait-free synchronization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.1, p.124-149, Jan. 1991[doi>10.1145/114005.102808]
+Maurice Herlihy, A methodology for implementing highly concurrent data objects, ACM Transactions on Programming Languages and Systems (TOPLAS), v.15 n.5, p.745-770, Nov. 1993[doi>10.1145/161468.161469]
+JEFFAY, K. 1992. Scheduling sporadic tasks with shared resources in hard real-time systems. In Proceedings of the 13th IEEE Symposium on Real-Time Systems. IEEE, New York, 89 -98.
+JEFFAY, K., STANAT, D. F., AND MARTEL, C. U. 1991. On non-preemptive scheduling of periodic and sporadic tasks. In Proceedings of the 12th IEEE Symposium on Real-Time Systems. IEEE, New York, 129-139.
+JEFFAY, K. AND STONE, D. 1993. Accounting for interrupt handling costs in dynamic priority task systems. In Proceedings of the 14th IEEE Symposium on Real-Time Systems. IEEE, New York, 212-221.
+Kevin Jeffay , Donald L. Stone , F. Donelson Smith, Kernel support for live digital audio and video, Computer Communications, v.15 n.6, p.388-395, July/Aug. 1992[doi>10.1016/0140-3664(92)90014-6]
+JOHNSON, T. AND HARATHI, K. 1994. Interruptible critical sections. Tech. Rep. TR94-007, Univ. of Florida, Gainesville, Fla.
+D. I. Katcher , H. Arakawa , J. K. Strosnider, Engineering and Analysis of Fixed Priority Schedulers, IEEE Transactions on Software Engineering, v.19 n.9, p.920-934, September 1993[doi>10.1109/32.241774]
+KOPETZ, H. AND REISINGER, g. 1993. The non-blocking write protocol NBW: A solution to a real-time synchronization problem. In Proceedings of the 14th IEEE Symposium on Real- Time Systems. IEEE, New York, 131-137.
+Leslie Lamport, Concurrent reading and writing, Communications of the ACM, v.20 n.11, p.806-811, Nov. 1977[doi>10.1145/359863.359878]
+LAMPORT, L. 1986. On interprocess communication, parts I and II. Distrib. Comput. 1, 77-101.
+LEHOCZKY, J., SHA, L., AND DING, Y. 1989. The rate monotonic scheduling algorithm: Exact characterization and average case behavior. In Proceedings of the l Oth IEEE Symposium on Real-Time Systems. IEEE, New York, 166-171.
+LEUNG, g. Y. T. AND WHITEHEAD, g. 1982. On the complexity of fixed-priority scheduling of periodic, real-time tasks. Perf. Eval. 2, 4, 237-250.
+C. L. Liu , James W. Layland, Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment, Journal of the ACM (JACM), v.20 n.1, p.46-61, Jan. 1973[doi>10.1145/321738.321743]
+Henry Massalin, Synthesis: an efficient implementation of fundamental operating system services, Columbia University, New York, NY, 1992
+Gary L. Peterson, Concurrent Reading While Writing, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.1, p.46-55, Jan. 1983[doi>10.1145/357195.357198]
+Ragunathan Rajkumar, Synchronization in Real-Time Systems: A Priority Inheritance Approach, Kluwer Academic Publishers, Norwell, MA, 1991
+Srikanth Ramamurthy , Mark Moir , James H. Anderson, Real-time object sharing with minimal system support, Proceedings of the fifteenth annual ACM symposium on Principles of distributed computing, p.233-242, May 23-26, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/248052.248098]
+L. Sha , R. Rajkumar , J. P. Lehoczky, Priority Inheritance Protocols: An Approach to Real-Time Synchronization, IEEE Transactions on Computers, v.39 n.9, p.1175-1185, September 1990[doi>10.1109/12.57058]
+Paul Gordon Sorenson, A methodology for real-time system development., 1974
+SORENSEN, P. AND HEMACHAR, V. 1975. A real-time system design methodology. INFOR 13, 1, 1-18.
+Donald L. Stone, Managing the effect of delay jitter on the display of live continuous media, University of North Carolina at Chapel Hill, Chapel Hill, NC, 1996

@@ -1,0 +1,15 @@
+Philip A. Bernstein , Vassco Hadzilacos , Nathan Goodman, Concurrency control and recovery in database systems, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1987
+Roberto De Prisco , Butler W. Lampson , Nancy A. Lynch, Revisiting the Paxos Algorithm, Proceedings of the 11th International Workshop on Distributed Algorithms, p.111-125, September 24-26, 1997
+Edsger W. Dijkstra, Self-stabilizing systems in spite of distributed control, Communications of the ACM, v.17 n.11, p.643-644, Nov. 1974[doi>10.1145/361179.361202]
+Cynthia Dwork , Nancy Lynch , Larry Stockmeyer, Consensus in the presence of partial synchrony, Journal of the ACM (JACM), v.35 n.2, p.288-323, April 1988[doi>10.1145/42282.42283]
+Alan Fekete , Nancy Lynch , Alex Shvartsman, Specifying and using a partitionable group communication service, Proceedings of the sixteenth annual ACM symposium on Principles of distributed computing, p.53-62, August 21-24, 1997, Santa Barbara, California, United States[doi>10.1145/259380.259422]
+Michael J. Fischer , Nancy A. Lynch , Michael S. Paterson, Impossibility of distributed consensus with one faulty process, Journal of the ACM (JACM), v.32 n.2, p.374-382, April 1985[doi>10.1145/3149.214121]
+C. Gray , D. Cheriton, Leases: an efficient fault-tolerant mechanism for distributed file cache consistency, ACM SIGOPS Operating Systems Review, v.23 n.5, p.202-210, Dec. 3–6, 1989[doi>10.1145/74851.74870]
+Idit Keidar , Danny Dolev, Efficient message ordering in dynamic networks, Proceedings of the fifteenth annual ACM symposium on Principles of distributed computing, p.68-76, May 23-26, 1996, Philadelphia, Pennsylvania, United States[doi>10.1145/248052.248062]
+Rivka Ladin , Barbara Liskov , Liuba Shrira , Sanjay Ghemawat, Providing high availability using lazy replication, ACM Transactions on Computer Systems (TOCS), v.10 n.4, p.360-391, Nov. 1992[doi>10.1145/138873.138877]
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+Leslie Lamport, Using Time Instead of Timeout for Fault-Tolerant Distributed Systems., ACM Transactions on Programming Languages and Systems (TOPLAS), v.6 n.2, p.254-280, April 1984[doi>10.1145/2993.2994]
+Butler W. Lampson, How to Build a Highly Available System Using Consensus, Proceedings of the 10th International Workshop on Distributed Algorithms, p.1-17, October 09-11, 1996
+Brian M. Oki , Barbara H. Liskov, Viewstamped replication: a general primary copy, Proceedings of the seventh annual ACM Symposium on Principles of distributed computing, p.8-17, August 15-17, 1988, Toronto, Ontario, Canada[doi>10.1145/62546.62549]
+Fred B. Schneider, Implementing fault-tolerant services using the state machine approach: a tutorial, ACM Computing Surveys (CSUR), v.22 n.4, p.299-319, Dec. 1990[doi>10.1145/98163.98167]
+SKEEN, M.D. 1982. Crash recovery in a distributed database system. Ph.D. thesis. University of California at Berkeley, Berkeley, CA.

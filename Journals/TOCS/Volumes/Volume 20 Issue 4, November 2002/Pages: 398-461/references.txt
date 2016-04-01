@@ -1,0 +1,73 @@
+Peter A. Alsberg , John D. Day, A principle for resilient sharing of distributed resources, Proceedings of the 2nd international conference on Software engineering, p.562-570, October 13-15, 1976, San Francisco, California, USA
+Lorenzo Alvisi , Evelyn Tumlin Pierce , Dahlia Malkhi , Michael K. Reiter , Rebecca N. Wright, Dynamic Byzantine Quorum Systems, Proceedings of the 2000 International Conference on Dependable Systems and Networks (formerly FTCS-30 and DCCA-8), p.283, June 25-28, 2000
+Lorenzo Alvisi , Dahlia Malkhi , Evelyn Pierce , Michael Reiter, Fault Detection for Byzantine Quorum Systems, Proceedings of the conference on Dependable Computing for Critical Applications, p.379, January 06-08, 1999
+Mihir Bellare , Daniele Micciancio, A new paradigm for collision-free hashing: incrementality at reduced cost, Proceedings of the 16th annual international conference on Theory and application of cryptographic techniques, May 11-15, 1997, Konstanz, Germany
+Bellare, M. and Rogaway, P. 1995. Optimal asymmetric encryption---How to encrypt with RSA. In Advances in Cryptology---EUROCRYPT 94, Lecture Notes in Computer Science, vol. 950, A. D. Santis, Ed., Springer-Verlag, Perugia, Italy, 92--111.
+Mihir Bellare , Phillip Rogaway, The exact security of digital signatures-how to sign with RSA and Rabin, Proceedings of the 15th annual international conference on Theory and application of cryptographic techniques, May 12-16, 1996, Saragossa, Spain
+Charles H. Bennett , François Bessette , Gilles Brassard , Louis Salvail , John Smolin, Experimental quantum cryptography, Journal of Cryptology, v.5 n.1, p.3-28, 1992
+Black, J., Halevi, S., Krawczyk, H., Krovetz, T., and Rogaway, P. 1999. UMAC: Fast and secure message authentication. In Advances in Cryptology---CRYPTO'99, Lecture Notes in Computer Science, vol. 1666, M. Wiener, Ed., Springer-Verlag, Santa Barbara, Calif., 216--233.
+Blum, M., Evans, W., Gemmel, P., Kannan, S., and Naor, M. 1994. Checking the correctness of memories. Algorithmica 12, 225--244.
+Gabriel Bracha , Sam Toueg, Asynchronous consensus and broadcast protocols, Journal of the ACM (JACM), v.32 n.4, p.824-840, Oct. 1985[doi>10.1145/4221.214134]
+Christian Cachin , Klaus Kursawe , Victor Shoup, Random oracles in constantipole: practical asynchronous Byzantine agreement using cryptography (extended abstract), Proceedings of the nineteenth annual ACM symposium on Principles of distributed computing, p.123-132, July 16-19, 2000, Portland, Oregon, USA[doi>10.1145/343477.343531]
+Canetti, R. and Rabin, T. 1992. Optimal asynchronous byzantine agreement. Tech. Rep. &num;92-15, Computer Science Department, Hebrew University.
+Ran Canetti , Shai Halevi , Amir Herzberg, Maintaining authenticated communication in the presence of break-ins, Proceedings of the sixteenth annual ACM symposium on Principles of distributed computing, p.15-24, August 21-24, 1997, Santa Barbara, California, USA[doi>10.1145/259380.259411]
+Castro, M. 2001. Practical Byzantine fault tolerance. Tech. Rep. MIT/LCS/TR-817, MIT Laboratory for Computer Science. January.
+M. Castro , B. Liskov, A Correctness Proof for a Practical Byzantine-Fault-Tolerant Replication Algorithm, Massachusetts Institute of Technology, Cambridge, MA, 1999
+Miguel Castro , Barbara Liskov, Practical Byzantine fault tolerance, Proceedings of the third symposium on Operating systems design and implementation, p.173-186, February 1999, New Orleans, Louisiana, USA
+Backoff Protocols for Distributed Mutual Exclusion and Ordering, Proceedings of the The 21st International Conference on Distributed Computing Systems, p.11, April 16-19, 2001
+Cristian, F., Aghili, H., Strong, R., and Dolev, D. 1985. Atomic broadcast: From simple message diffusion to Byzantine agreement. In Proceedings of the Fifteenth International Conference on Fault Tolerant Computing, IEEE Computer Society Press, Ann Arbor, Mich.
+Stephen E. Deering , David R. Cheriton, Multicast routing in datagram internetworks and extended LANs, ACM Transactions on Computer Systems (TOCS), v.8 n.2, p.85-110, May 1990[doi>10.1145/78952.78953]
+Assia Doudou , Rachid Guerraoui , Benoít Garbinato, Abstractions for Devising Byzantine-Resilient State Machine Replication, Proceedings of the 19th IEEE Symposium on Reliable Distributed Systems, p.144, October 16-18, 2000
+Doudou, A., Garbinato, B., Guerraoui, R., and Schiper, A. 1999. Muteness failure detectors: Specification and implementation. In Proceedings of the Third European Dependable Computing Conference (EDCC-3), Lecture Notes in Computer Science, vol. 1667, J. Hlavicka, E. Maehle, and A. Pataricza, Eds., Springer-Verlag, Prague, Czech Republic, 71--87.
+Michael J. Fischer , Nancy A. Lynch , Michael S. Paterson, Impossibility of distributed consensus with one faulty process, Journal of the ACM (JACM), v.32 n.2, p.374-382, April 1985[doi>10.1145/3149.214121]
+Kevin Fu , M. Frans Kaashoek , David Mazières, Fast and secure distributed read-only file system, Proceedings of the 4th conference on Symposium on Operating System Design & Implementation, p.13-13, October 22-25, 2000, San Diego, California
+Juan A. Garay , Yoram Moses, Fully Polynomial Byzantine Agreement for Processors in Rounds, SIAM Journal on Computing, v.27 n.1, p.247-290, Feb. 1998[doi>10.1137/S0097539794265232]
+Juan A. Garay , Rosario Gennaro , Charanjit Jutla , Tal Rabin, Secure distributed storage and retrieval, Theoretical Computer Science, v.243 n.1-2, p.363-389, July 28, 2000[doi>10.1016/S0304-3975(98)00263-1]
+David K. Gifford, Weighted voting for replicated data, Proceedings of the seventh ACM symposium on Operating systems principles, p.150-162, December 10-12, 1979, Pacific Grove, California, USA[doi>10.1145/800215.806583]
+Li Gong, A security risk of depending on synchronized clocks, ACM SIGOPS Operating Systems Review, v.26 n.1, p.49-53, Jan. 1992[doi>10.1145/130704.130709]
+Gray, J. 2000. FT 101. Talk at the University of California at Berkeley.
+M. P. Herlihy , J. M. Wing, Axioms for concurrent objects, Proceedings of the 14th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.13-26, January 21-23, 1987, Munich, West Germany[doi>10.1145/41625.41627]
+Amir Herzberg , Markus Jakobsson , Stanislław Jarecki , Hugo Krawczyk , Moti Yung, Proactive public key and signature systems, Proceedings of the 4th ACM conference on Computer and communications security, p.100-110, April 01-04, 1997, Zurich, Switzerland[doi>10.1145/266420.266442]
+Amir Herzberg , Stanislaw Jarecki , Hugo Krawczyk , Moti Yung, Proactive Secret Sharing Or: How to Cope With Perpetual Leakage, Proceedings of the 15th Annual International Cryptology Conference on Advances in Cryptology, p.339-352, August 27-31, 1995
+John H. Howard , Michael L. Kazar , Sherri G. Menees , David A. Nichols , M. Satyanarayanan , Robert N. Sidebotham , Michael J. West, Scale and performance in a distributed file system, ACM Transactions on Computer Systems (TOCS), v.6 n.1, p.51-81, Feb. 1988[doi>10.1145/35037.35059]
+Katcher, J. 1997. PostMark: A new file system benehmark. Tech. Rep. TR-3022, Network Appliance. October.
+Idit Keidar , Danny Dolev, Efficient message ordering in dynamic networks, Proceedings of the fifteenth annual ACM symposium on Principles of distributed computing, p.68-76, May 23-26, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/248052.248062]
+Idit Keidar , Danny Dolev, Increasing the resilience of distributed and replicated database systems, Journal of Computer and System Sciences, v.57 n.3, p.309-324, Dec. 1998[doi>10.1006/jcss.1998.1566]
+Kim Potter Kihlstrom , L. E. Moser , P. M. Melliar-Smith, The SecureRing Protocols for Securing Group Communication, Proceedings of the Thirty-First Annual Hawaii International Conference on System Sciences, p.317, January 06-09, 1998[doi>10.1109/HICSS.1998.656294]
+Lamport, L. 1977. Proving the correctness of multiprocess programs. IEEE Trans. Softw. Eng. 3, 2 (Nov.), 125--143.
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+Leslie Lamport, Using Time Instead of Timeout for Fault-Tolerant Distributed Systems., ACM Transactions on Programming Languages and Systems (TOPLAS), v.6 n.2, p.254-280, April 1984[doi>10.1145/2993.2994]
+Lamport, L. 1989. The part-time parliament. Research Rep. 49, Digital Equipment Corporation Systems Research Center, Palo Alto, Sept.
+Leslie Lamport , Robert Shostak , Marshall Pease, The Byzantine Generals Problem, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.3, p.382-401, July 1982[doi>10.1145/357172.357176]
+Butler Lampson, The ABCD's of Paxos, Proceedings of the twentieth annual ACM symposium on Principles of distributed computing, p.13, August 2001, Newport, Rhode Island, USA[doi>10.1145/383962.383969]
+Liskov, B. and Zilles, S. 1975. Specification techniques for data abstractions. IEEE Trans. Softw. Eng. SE-1, 1 (Mar.), 7--17.
+Barbara Liskov , Sanjay Ghemawat , Robert Gruber , Paul Johnson , Liuba Shrira , Michael Williams, Replication in the harp file system, Proceedings of the thirteenth ACM symposium on Operating systems principles, p.226-238, October 13-16, 1991, Pacific Grove, California, USA[doi>10.1145/121132.121169]
+Nancy A. Lynch, Distributed Algorithms, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1996
+Umesh Maheshwari , Radek Vingralek , William Shapiro, How to build a trusted database system on untrusted storage, Proceedings of the 4th conference on Symposium on Operating System Design & Implementation, p.10-10, October 22-25, 2000, San Diego, California
+Dalia Malki , Michael Reiter, A High-Throughput Secure Reliable Multicast Protocol, Proceedings of the 9th IEEE workshop on Computer Security Foundations, p.9, March 10-12, 1996
+Dahlia Malkhi , Michael Reiter, Unreliable Intrusion Detection in Distributed Computations, Proceedings of the 10th IEEE workshop on Computer Security Foundations, p.116, June 10-12, 1997
+Dahlia Malkhi , Michael Reiter, Byzantine quorum systems, Distributed Computing, v.11 n.4, p.203-213, October 1998[doi>10.1007/s004460050050]
+Dahlia Malkhi , Michael K. Reiter, Secure and Scalable Replication in Phalanx, Proceedings of the The 17th IEEE Symposium on Reliable Distributed Systems, p.51, October 20-23, 1998
+Dahlia Malkhi , Michael K. Reiter, An Architecture for Survivable Coordination  in Large Distributed Systems, IEEE Transactions on Knowledge and Data Engineering, v.12 n.2, p.187-202, March 2000[doi>10.1109/69.842262]
+Malkhi, D., Reiter, M., and Lynch, N. 1998. A correctness condition for memory shared by Byzantine processes (Submitted).
+David Mazières , Michael Kaminsky , M. Frans Kaashoek , Emmett Witchel, Separating key management from file system security, Proceedings of the seventeenth ACM symposium on Operating systems principles, p.124-139, December 12-15, 1999, Charleston, South Carolina, USA[doi>10.1145/319151.319160]
+Ralph C. Merkle, A Digital Signature Based on a Conventional Encryption Function, A Conference on the Theory and Applications of Cryptographic Techniques on Advances in Cryptology, p.369-378, August 16-20, 1987
+Ron Minnich , James Hendricks , Dale Webster, The linux BIOS, Proceedings of the 4th annual Linux Showcase & Conference, p.21-21, October 10-14, 2000, Atlanta, Georgia
+Murphy, B. and Levidow, B. 2000. Windows 2000 dependability. In Proceedings of IEEE International Conference on Dependable Systems and Networks, IEEE Computer Society Press, New York.
+Brian M. Oki , Barbara H. Liskov, Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems, Proceedings of the seventh annual ACM Symposium on Principles of distributed computing, p.8-17, August 15-17, 1988, Toronto, Ontario, Canada[doi>10.1145/62546.62549]
+Rafail Ostrovsky , Moti Yung, How to withstand mobile virus attacks (extended abstract), Proceedings of the tenth annual ACM symposium on Principles of distributed computing, p.51-59, August 19-21, 1991, Montreal, Quebec, Canada[doi>10.1145/112600.112605]
+Ousterhout, J. 1990. Why aren't operating systems getting faster as fast as hardware? In Proceedings of USENIX Summer Conference, USENIX, Anaheim, Calif., 247--256.
+M. Pease , R. Shostak , L. Lamport, Reaching Agreement in the Presence of Faults, Journal of the ACM (JACM), v.27 n.2, p.228-234, April 1980[doi>10.1145/322186.322188]
+Postel, J. 1980. User datagram protocol. DARPA-Internet RFC-768.
+Michael K. Reiter, Secure agreement protocols: reliable and atomic group multicast in rampart, Proceedings of the 2nd ACM Conference on Computer and communications security, p.68-80, November 1994, Fairfax, Virginia, USA[doi>10.1145/191177.191194]
+Michael K. Reiter, The Rampart Toolkit for Building High-Integrity Services, Selected Papers from the International Workshop on Theory and Practice in Distributed Systems, p.99-110, September 05-09, 1994
+Michael K. Reiter, A Secure Group Membership Protocol, IEEE Transactions on Software Engineering, v.22 n.1, p.31-42, January 1996[doi>10.1109/32.481515]
+Rivest, R. 1992. The MD5 message-digest algorithm. Internet RFC-1321.
+Rodrigo Rodrigues , Miguel Castro , Barbara Liskov, BASE: using abstraction to improve fault tolerance, Proceedings of the eighteenth ACM symposium on Operating systems principles, October 21-24, 2001, Banff, Alberta, Canada[doi>10.1145/502034.502037]
+Sandberg, R., Goldberg, D., Kleiman, S., Walsh, D., and Lyon, B. 1985. Design and implementation of the sun network filesystem. In Proceedings of the Summer 1985 USENIX Conference, USENIX, Portland, Oreo, 119--130.
+Fred B. Schneider, Implementing fault-tolerant services using the state machine approach: a tutorial, ACM Computing Surveys (CSUR), v.22 n.4, p.299-319, Dec. 1990[doi>10.1145/98163.98167]
+Fred B. Schneider, Synchronization in Distributed Programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.2, p.125-148, April 1982[doi>10.1145/357162.357163]
+Schneier, B. 1996. Applied Cryptography. Wiley, New York.
+SHA1 1994. Announcement of Weakness in Secure Hash Standard.
+Wensley, J., Lamport, L., Goldberg, J., Green, M., Levitt, K., Melliar-Smith, M., Shostak, R., and Weinstock, C. 1978. SIFT: Design and analysis of a fault-tolerant computer for aircraft control. Proc. IEEE 66, 10 (Oct.), 1240--1255.
+Lidong Zhou , Fred B. Schneider , Robbert van Renesse, COCA: A Secure Distributed On-line Certification Authority, Cornell University, Ithaca, NY, 2000

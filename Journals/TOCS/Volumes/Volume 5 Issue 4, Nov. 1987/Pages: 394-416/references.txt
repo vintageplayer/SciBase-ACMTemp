@@ -1,0 +1,32 @@
+Özalp Babaoğlu, Stopping times of distributed consensus protocols:  A probabilistic analysis, Information Processing Letters, v.25 n.3, p.163-169, May 29, 1987[doi>10.1016/0020-0190(87)90127-X]
+BABAO~,LU, 0. Distributed consensus in the presence of probabilistic failures. Dept. of Computer Science, Cornell Univ., Ithaca, N. Y. in preparation.
+Michael Ben-Or, Fast asynchronous Byzantine agreement (extended abstract), Proceedings of the fourth annual ACM symposium on Principles of distributed computing, p.149-151, August 1985, Minaki, Ontario, Canada[doi>10.1145/323596.323609]
+G Bracha, An O(lg n) expected rounds randomized Byzantine generals protocol, Proceedings of the seventeenth annual ACM symposium on Theory of computing, p.316-326, May 06-08, 1985, Providence, Rhode Island, USA[doi>10.1145/22145.22180]
+CHOR, B., AND COAN, B.A. A simple and efficient randomized Byzantine Agreement algorithm. IEEE Trans. Softw. Eng. SE-11 (June 1985), 531-538.
+Stephen Cohn, Arpanet Routing, Proceedings of the Asilomar Workshop on Fault-Tolerant Distributed Computing, p.192-200, January 1990
+CRISTIAN, f., AGHILI, H., STRONG, R., AND DOLEV, D. Atomic broadcasts: from simple message diffusion to Byzantine Agreement. In Proceedings of the 15th Symposium on Fault Tolerant Computing (Ann Arbor, Mich., June 1985), IEEE, New York, 1985, 200-206.
+DIrHE, W., AND HELLMAN, M. New directions in cryptography. IEEE Trans. Inf. Theor. IT- 22, 6 (Nov. 1976), 644-654.
+DOLEV, D., REISCHUCK, R., AND STRONG, H. R. 'Eventual' is earlier than 'immediate.' In Proceedings o{ the 23rd Symposium on Foundations o/Computer Science {Chicago, Ill., Nov. 1982), IEEE, New York, 1982, 196-203.
+DOLEV, D., AND STRONG, H. R. Authenticated algorithms for Byzantine agreement. SIAM J. Comput. 12, 4 (Nov. 1983), 656-666.
+DWORK, C., AND MOSES, Y. Knowledge and common knowledge in a Byzantine environment I: Crash failures. Private communication, Jan. 1986.
+FELLER, W. An Introduction to Probability Theory and Its Applications. Wiley, New York, 1971.
+FISCHER, M.J. The consensus problem in unreliable distributed systems (a brief survey). Tech. Rep. YALEU-DCS-RR-273, Dept. of Computer Science, Yale Univ., New Haven, Conn., June 1983.
+FISCHER, M. J., AND LYNCH, N. A lower bound for the time to assure interactive consistency. Inf. Process Lett. 14, 4 (Apr. 1982), 183-186.
+GARCIA-MOLINA, H., PITTELLI, F., AND DAVIDSON, S. Applications of Byzantine agreement in database systems. Tech. Rep. TR 316, Princeton Univ., Princeton, N. J., June 1984.
+Vassos Hadzilacos, Issues of fault tolerance in concurrent computations (databases, reliability, transactions, agreement protocols, distributed computing), Harvard University, Cambridge, MA, 1985
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+Leslie Lamport, Using Time Instead of Timeout for Fault-Tolerant Distributed Systems., ACM Transactions on Programming Languages and Systems (TOPLAS), v.6 n.2, p.254-280, April 1984[doi>10.1145/2993.2994]
+Leslie Lamport , P. M. Melliar-Smith, Synchronizing clocks in the presence of faults, Journal of the ACM (JACM), v.32 n.1, p.52-78, Jan. 1985[doi>10.1145/2455.2457]
+Leslie Lamport , Robert Shostak , Marshall Pease, The Byzantine Generals Problem, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.3, p.382-401, July 1982[doi>10.1145/357172.357176]
+Stephen R. Mahaney , Fred B. Schneider, Inexact agreement: accuracy, precision, and graceful degradation, Proceedings of the fourth annual ACM symposium on Principles of distributed computing, p.237-249, August 1985, Minaki, Ontario, Canada[doi>10.1145/323596.323618]
+M. Pease , R. Shostak , L. Lamport, Reaching Agreement in the Presence of Faults, Journal of the ACM (JACM), v.27 n.2, p.228-234, April 1980[doi>10.1145/322186.322188]
+RABIN, M. Randomized Byzantine Generals. In Proceedings o/the 24th Symposium on Foundations of Computer Science (Tucson, Ariz., Nov. 1983), IEEE, New York, 1983, 403-409.
+Fred B. Schneider, Byzantine generals in action: implementing fail-stop processors, ACM Transactions on Computer Systems (TOCS), v.2 n.2, p.145-154, May 1984[doi>10.1145/190.357399]
+Fred B. Schneider , Leslie Lamport, Paradigms for Distributed Programs, Distributed Systems: Methods and Tools for Specification, An Advanced Course, April 3-12, 1984 and April 16-25, 1985 Munich, p.431-480, January 1985
+SIEWlOREK, D. P., AND SWARZ, R. S. The Theory and Practice of Reliable System Design. Digital Press, Belford, Mass., 1982.
+Alfred Spector , David Gifford, The space shuttle primary computer system, Communications of the ACM, v.27 n.9, p.872-900, Sept. 1984[doi>10.1145/358234.358246]
+STANKOVIC, j.A. A perspective on distributed computer systems. IEEE Trans. Comput. C-33, 12 (Dec. 1984), 1102-1115.
+SRIKANTH, T. K., AND TOUE6, S. Simulating authenticated broadcasts to derive simple faulttolerant algorithms. Tech. Rep. 84-623, Dept. of Computer Science, Cornell Univ., Ithaca, N. Y., July 1984.
+STRONG, H. R., AND DOLEV, D. Byzantine agreement. In Digest of Papers, Spring Compcon 83 (San Francisco, Mar. 1983), 77-81.
+TAY, Y. C. The reliability of (k, n)-resilient distributed systems. In Proceedings of the 4th Symposium on Reliability in Distributed Software and Database Systems (Silver Spring, Md., Oct. 1984), IEEE, New York, 1984, 119-122.
+Sam Toueg , Özalp Babaoğlu, On the optimum checkpoint selection problem, SIAM Journal on Computing, v.13 n.3, p.630-649, August 1984[doi>10.1137/0213039]

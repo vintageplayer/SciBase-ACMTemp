@@ -1,0 +1,39 @@
+Almeida, J., Dabu, M., Manikutty, A., and Cao, P. 1998. Providing differentiated quality-of-service in Web hosting services. In Proceedings of the First Workshop on Internet Server Performance.
+Almesberger, W. 1999. Linux network traffic control---implementation overview. White paper available at http://diffserv.sourceforge.net/.
+Almesberger, W., Salim, J. H., and Kuznetsov, A. 1999. Differentiated services on Linux. White paper available at http://lrcwww.epfl.ch/linux-diffserv/.
+Apache. 2001. Apache web server. http://httpd.apache.org.
+Martin Arlitt , Rich Friedrich , Tai Jin, Workload characterization of a Web proxy in a cable modem environment, ACM SIGMETRICS Performance Evaluation Review, v.27 n.2, p.25-36, 9.1.99[doi>10.1145/332944.332951]
+Gaurav Banga , Peter Druschel, Measuring the capacity of a Web server under realistic loads, World Wide Web, v.2 n.1-2, p.69-83, 1999[doi>10.1023/A:1019292504731]
+Gaurav Bangs , Peter Druschel , Jeffrey C. Mogul, Better operating system features for faster network servers, ACM SIGMETRICS Performance Evaluation Review, v.26 n.3, p.23-30, Dec. 1998[doi>10.1145/306225.306234]
+Nikhil Bansal , Mor Harchol-Balter, Analysis of SRPT scheduling: investigating unfairness, Proceedings of the 2001 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.279-290, June 2001, Cambridge, Massachusetts, USA[doi>10.1145/378420.378792]
+Paul Barford , Mark Crovella, Generating representative Web workloads for network and server performance evaluation, Proceedings of the 1998 ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems, p.151-160, June 22-26, 1998, Madison, Wisconsin, USA[doi>10.1145/277851.277897]
+Michael A. Bender , Soumen Chakrabarti , S. Muthukrishnan, Flow and stretch metrics for scheduling continuous job streams, Proceedings of the ninth annual ACM-SIAM symposium on Discrete algorithms, p.270-279, January 25-27, 1998, San Francisco, California, USA
+A. Bestavros , R. L. Carter , M. E. Crovella , C. R. Cunha , A. Heddaya , S. A. Mirdad, Application-level document caching in the Internet, Proceedings of the 2nd International Workshop on Services in Distributed and Networked Environments, p.166, June 05-08, 1995
+Braun, H. and Claffy, K. 1994. Web traffic characterization: an assessment of the impact of caching documents from NCSA's Web server. In Proceedings of the Second International WWW Conference.
+Cockcroft, A. 1996. Watching your web server. The Unix Insider at http://www.unixinsider.com.
+Mark E. Crovella , Azer Bestavros, Self-similarity in World Wide Web traffic: evidence and possible causes, IEEE/ACM Transactions on Networking (TON), v.5 n.6, p.835-846, Dec. 1997[doi>10.1109/90.650143]
+Mark E. Crovella , Robert Frangioso , Mor Harchol-Balter, Connection scheduling in web servers, Proceedings of the 2nd conference on USENIX Symposium on Internet Technologies and Systems, p.22-22, October 11-14, 1999, Boulder, Colorado
+Mark E. Crovella , Murad S. Taqqu , Azer Bestavros, Heavy-tailed probability distributions in the World Wide Web, A practical guide to heavy tails: statistical techniques and applications, Birkhauser Boston Inc., Cambridge, MA, 1998
+A. B. Downey, A parallel workload model and its implications for processor allocation, Proceedings of the 6th IEEE International Symposium on High Performance Distributed Computing, p.112, August 05-08, 1997
+Peter Druschel , Gaurav Banga, Lazy receiver processing (LRP): a network subsystem architecture for server systems, Proceedings of the second USENIX symposium on Operating systems design and implementation, p.261-275, October 29-November 01, 1996, Seattle, Washington, USA[doi>10.1145/238721.238786]
+Feldmann, A.1999. Web performance characteristics. IETF plenary Nov. http://www.research. att.com/∼anja/feldmann/papers.html.
+J. S. Gwertzman , M. Seltzer, The case for geographical push-caching, Proceedings of the Fifth Workshop on Hot Topics in Operating Systems (HotOS-V), p.51, May 04-05, 1995
+Mor Harchol-Balter , Allen B. Downey, Exploiting process lifetime distributions for dynamic load balancing, ACM Transactions on Computer Systems (TOCS), v.15 n.3, p.253-285, Aug. 1997[doi>10.1145/263326.263344]
+Harchol-Balter, M., Schroeder, B., Bansal, N., and Agrawal, M. 2000. Implementation of SRPT scheduling in web servers. Tech. Rep. CMU-CS-00-170.
+ITA. 2002. The internet traffic archives. Available at http://town.hall.org/Archives/pub/ITA/.
+M. Frans Kaashoek , Dawson R. Engler , Gregory R. Ganger , Deborah A. Wallach, Server operating systems, Proceedings of the 7th workshop on ACM SIGOPS European workshop: Systems support for worldwide applications, September 09-11, 1996, Connemara, Ireland[doi>10.1145/504450.504478]
+Web protocols and practice: HTTP/1.1, Networking protocols, caching, and traffic measurement, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 2001
+Little, J. 1961. A proof of the theorem L = λW. Operations Research 9, 383--387.
+Maggs, B. 2001. Personal communication with Vice President of Research, Akamai Technologies, Bruce Maggs.
+Stephen Manley , Margo Seltzer, Web facts and fantasy, Proceedings of the USENIX Symposium on Internet Technologies and Systems on USENIX Symposium on Internet Technologies and Systems, p.12-12, December 08-11, 1997, Monterey, California
+Microsoft. 2001. The arts and science of Web server tuning with internet information services 5.0. Microsoft TechNet---Insights and Answers for IT Professionals: At http://www.microsoft. com/technet/.
+Mogul, J. C. 1995. Network behavior of a busy Web server and its clients. Tech. Rep. 95/5, Digital Western Research Laboratory. October.
+NISTNet. 2002. National institute of standards and technology. http://snad.ncsl.nist.gov/itg/nistnet/.
+Venkata N. Padmanabhan , Jeffrey C. Mogul, Improving HTTP latency, Computer Networks and ISDN Systems, v.28 n.1-2, p.25-35, Dec. 1995[doi>10.1016/0169-7552(95)00106-1]
+Vivek S. Pai , Peter Druschel , Willy Zwaenepoel, Flash: an efficient and portable web server, Proceedings of the annual conference on USENIX Annual Technical Conference, p.15-15, June 06-11, 1999, Monterey, California
+Radhakrishnan, S. 1999. Linux---advanced networking overview version 1. Available at http://qos.ittc.ukans.edu/howto/.
+Luigi Rizzo, Dummynet: a simple approach to the evaluation of network protocols, ACM SIGCOMM Computer Communication Review, v.27 n.1, p.31-41, Jan. 1997[doi>10.1145/251007.251012]
+Roberts, J. and Massoulie, L. 1998. Bandwidth sharing and admission control for elastic traffic. In ITC Specialist Seminar.
+Schrage, L. E. and Miller, L. W. 1966. The queue M/G/1 with the shortest remaining processing time discipline. Operations Research 14, 670--684.
+Abraham Silberschatz , Peter Baer Galvin , Greg Gagne, Operating System Concepts, John Wiley & Sons, Inc., New York, NY, 2001
+Stallings, W. 2001. Operating Systems, Fourth Edition. Prentice Hall.

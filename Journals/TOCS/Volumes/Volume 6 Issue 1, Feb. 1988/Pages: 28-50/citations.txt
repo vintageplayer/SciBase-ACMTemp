@@ -1,0 +1,53 @@
+Ing-Jye Shyu , Shiuh-Pyng Shieh, Virtual address translation for wide-address architectures, ACM SIGOPS Operating Systems Review, v.29 n.4, p.37-46, Oct. 1995
+William J. Dally, A Fast Translation Method for Paging on Top of Segmentation, IEEE Transactions on Computers, v.41 n.2, p.247-250, February 1992
+Jerry Huck , Jim Hays, Architectural support for translation table management in large address space machines, ACM SIGARCH Computer Architecture News, v.21 n.2, p.39-50, May 1993
+Weihaw Chuang , Satish Narayanasamy , Ganesh Venkatesh , Jack Sampson , Michael Van Biesbrouck , Gilles Pokam , Brad Calder , Osvaldo Colavin, Unbounded page-based transactional memory, ACM SIGPLAN Notices, v.41 n.11, November 2006
+A. Z. Spector, Invited talk: modular architectures for distributed and databases systems, Proceedings of the eighth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.217-224, March 1989, Philadelphia, Pennsylvania, United States
+Hervé A. Jamrozik , Michael J. Feeley , Geoffrey M. Voelker , James Evans, II , Anna R. Karlin , Henry M. Levy , Mary K. Vernon, Reducing network latency using subpages in a global memory environment, ACM SIGPLAN Notices, v.31 n.9, p.258-267, Sept. 1996
+C. Mohan, Commit_LSN: A Novel and Simple Method for Reducing Locking and Latching in Transaction Processing Systems, Proceedings of the 16th International Conference on Very Large Data Bases, p.406-418, August 13-16, 1990
+Richard R. Oehler , Michael W. Blasgen, IBM RISC System/6000: Architecture and Performance, IEEE Micro, v.11 n.3, p.14-17, 56-62, May 1991
+A. Chang , M. F. Mergen , R. K. Rader , J. A. Roberts , S. L. Porter, Evolution of storage facilities in AIX Version 3 for RISC System/6000 processors, IBM Journal of Research and Development, v.34 n.1, p.105-110, Jan. 1990
+Ravi Rajwar , Maurice Herlihy , Konrad Lai, Virtualizing Transactional Memory, ACM SIGARCH Computer Architecture News, v.33 n.2, p.494-505, May 2005
+Alberto R. Cunha , Carlos N. Ribeiro , José A. Marques, The architecture of a memory management unit for object-oriented systems, ACM SIGARCH Computer Architecture News, v.19 n.4, p.109-116, June 1991
+Yasushi Saito , Brian Bershad, A transactional memory service in an extensible operating system, Proceedings of the annual conference on USENIX Annual Technical Conference, p.5-5, June 15-19, 1998, New Orleans, Louisiana
+Bruce Jacob , Trevor Mudge, Uniprocessor Virtual Memory without TLBs, IEEE Transactions on Computers, v.50 n.5, p.482-499, May 2001
+L.-F. Cabrera , J. A. McPherson , P. M. Schwarz , J. C. Wyllie, Implementing Atomicity in Two Systems: Techniques, Tradeoffs, and Experience, IEEE Transactions on Software Engineering, v.19 n.10, p.950-961, October 1993
+S. Iris Chu , Marianne Winslett, Minipage locking support for object-oriented page-server DBMS, Proceedings of the third international conference on Information and knowledge management, p.171-178, November 29-December 02, 1994, Gaithersburg, Maryland, United States
+Luis-Felipe Cabrera , Robert Rees , Wayne Hineman, Applying Database Technology in the ADSM Mass Storage System, Proceedings of the 21th International Conference on Very Large Data Bases, p.597-605, September 11-15, 1995
+H. B. Bakoglu , G. F. Grohoski , R. K. Montoye, The IBM RISC System/6000 processor: hardware overview, IBM Journal of Research and Development, v.34 n.1, p.12-22, Jan. 1990
+A. Braunstein , M. Riley , J. Wilkes, Improving the efficiency of UNIX buffer caches, ACM SIGOPS Operating Systems Review, v.23 n.5, p.71-82, Dec. 3–6, 1989
+Jorge Buenabad-Chávez , Henk L. Muller , Paul W. A. Stallard , David H. D. Warren, Virtual memory on data diffusion architectures, Parallel Computing, v.29 n.8, p.1021-1052, 1 August 2003
+Michel Cekleov , Michel Dubois, Virtual-Address Caches, Part 2: Multiprocessor Issues, IEEE Micro, v.17 n.6, p.69-74, November 1997
+M. Talluri , M. D. Hill , Y. A. Khalidi, A new page table for 64-bit address spaces, ACM SIGOPS Operating Systems Review, v.29 n.5, p.184-200, Dec. 3, 1995
+David E. Lowell , Peter M. Chen, Free transactions with Rio Vista, ACM SIGOPS Operating Systems Review, v.31 n.5, p.92-101, Dec. 1997
+James S. K. Ang , D. W. Conrath, The ITHACA office object model: modeling and implementation, ACM SIGMIS Database, v.24 n.4, p.5-14, Nov. 1993
+Brandon Lucia , Luis Ceze , Karin Strauss, ColorSafe: architectural support for debugging and dynamically avoiding multi-variable atomicity violations, ACM SIGARCH Computer Architecture News, v.38 n.3, June 2010
+Michel Cekleov , Michel Dubois, Virtual-Address Caches Part 1: Problems and Solutions in Uniprocessors, IEEE Micro, v.17 n.5, p.64-71, September 1997
+R. R. Oehler , R. D. Groves, IBM RISC System/6000 processor architecture, IBM Journal of Research and Development, v.34 n.1, p.23-36, Jan. 1990
+Mark Sullivan , Michael Stonebraker, Using Write Protected Data Structures To Improve Software Fault Tolerance in Highly Available Database Management Systems, Proceedings of the 17th International Conference on Very Large Data Bases, p.171-180, September 03-06, 1991
+Nicholas S. Bowen , Dhiraj K. Pradhan, Processor and Memory-Based Checkpoint and Rollback Recovery, Computer, v.26 n.2, p.22-31, February 1993
+M. Satyanarayanan , Henry H. Mashburn , Puneet Kumar , David C. Steere , James J. Kistler, Lightweight recoverable virtual memory, ACM SIGOPS Operating Systems Review, v.27 n.5, p.146-160, Dec. 1993
+S. K. Reinhardt , J. R. Larus , D. A. Wood, Tempest and typhoon: user-level shared memory, ACM SIGARCH Computer Architecture News, v.22 n.2, p.325-336, April 1994
+Steven K. Reinhardt , James R. Larus , David A. Wood, Tempest and typhoon: user-level shared memory, 25 years of the international symposia on Computer architecture (selected papers), p.497-508, June 27-July 02, 1998, Barcelona, Spain
+C. Mohan , Don Haderle , Bruce Lindsay , Hamid Pirahesh , Peter Schwarz, ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging, ACM Transactions on Database Systems (TODS), v.17 n.1, p.94-162, March 1992
+Nicholas S. Bowen , Dhiraj K. Pradhan, A virtual memory translation mechanism to support checkpoint and rollback recovery, Proceedings of the 1991 ACM/IEEE conference on Supercomputing, p.890-899, November 18-22, 1991, Albuquerque, New Mexico, United States
+M. Satyanarayanan , Henry H. Mashburn , Puneet Kumar , David C. Steere , James J. Kistler, Lightweight recoverable virtual memory, ACM Transactions on Computer Systems (TOCS), v.12 n.1, p.33-57, Feb. 1994
+P. Bodorik , D. N. Jutla, Multi-view memory to support OS locking for transaction systems, Proceedings of the 1997 international conference on International database engineering and applications symposium, August 25-27, 1997, Montreal, Canada
+Ioannis Schoinas , Babak Falsafi , Alvin R. Lebeck , Steven K. Reinhardt , James R. Larus , David A. Wood, Fine-grain access control for distributed shared memory, ACM SIGPLAN Notices, v.29 n.11, p.297-306, Nov. 1994
+Nicholas S. Bowen , Dhiraj K. Pradhan, Virtual Checkpoints: Architecture and Performance, IEEE Transactions on Computers, v.41 n.5, p.516-525, May 1992
+Maurice Herlihy , J. Eliot B. Moss, Transactional memory: architectural support for lock-free data structures, ACM SIGARCH Computer Architecture News, v.21 n.2, p.289-300, May 1993
+P. Bodorik , J. Slonim , D. Jutla , A. Agarwal, Locking with Different Granularities for Reads and Writes in an MVM System, Proceedings of the 1999 International Symposium on Database Engineering & Applications, p.311, August 02-04, 1999
+Lixin Su , Mikko H. Lipasti, Speculative optimization using hardware-monitored guarded regions for java virtual machines, Proceedings of the 3rd international conference on Virtual execution environments, June 13-15, 2007, San Diego, California, USA
+Jeffrey S. Chase , Henry M. Levy , Michael J. Feeley , Edward D. Lazowska, Sharing and protection in a single-address-space operating system, ACM Transactions on Computer Systems (TOCS), v.12 n.4, p.271-307, Nov. 1994
+Chandramohan A. Thekkath , Henry M. Levy, Hardware and software support for efficient exception handling, ACM SIGPLAN Notices, v.29 n.11, p.110-119, Nov. 1994
+Rober Haskin , Yoni Malachi , Gregory Chan, Recovery management in QuickSilver, ACM Transactions on Computer Systems (TOCS), v.6 n.1, p.82-108, Feb. 1988
+Eric J. Koldinger , Jeffrey S. Chase , Susan J. Eggers, Architecture support for single address space operating systems, ACM SIGPLAN Notices, v.27 n.9, p.175-186, Sept. 1992
+M. V. Ramakrishna , E. Fu , E. Bahcekapili, Efficient Hardware Hashing Functions for High Performance Computers, IEEE Transactions on Computers, v.46 n.12, p.1378-1381, December 1997
+J. Eliot B. Moss, Design of the Mneme persistent object store, ACM Transactions on Information Systems (TOIS), v.8 n.2, p.103-139, Apr. 1990
+H. Boral , W. Alexander , L. Clay , G. Copeland , S. Danforth , M. Franklin , B. Hart , M. Smith , P. Valduriez, Prototyping Bubba, A Highly Parallel Database System, IEEE Transactions on Knowledge and Data Engineering, v.2 n.1, p.4-24, March 1990
+Haris Volos , Andres Jaan Tack , Michael M. Swift, Mnemosyne: lightweight persistent memory, ACM SIGARCH Computer Architecture News, v.39 n.1, March 2011
+Keith Diefendorff , Rich Oehler , Ron Hochsprung, Evolution of the PowerPC Architecture, IEEE Micro, v.14 n.2, p.34-49, April 1994
+Bruce K. Holmer , Barton Sano , Michael Carlton , Peter Van Roy , Ralph Haygood , William R. Bush , Alvin M. Despain , Joan M. Pendleton , Tep Dobry, Fast Prolog with an extended general purpose architecture, ACM SIGARCH Computer Architecture News, v.18 n.2SI, p.282-291, June 1990
+Kun-Lung Wu , W. Kent Fuchs, Recoverable Distributed Shared Virtual Memory, IEEE Transactions on Computers, v.39 n.4, p.460-469, April 1990
+Håkan Grahn, Transactional memory, Journal of Parallel and Distributed Computing, v.70 n.10, p.993-1008, October, 2010
+Bruce Jacob , Spencer Ng , David Wang, Memory Systems: Cache, DRAM, Disk, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2007

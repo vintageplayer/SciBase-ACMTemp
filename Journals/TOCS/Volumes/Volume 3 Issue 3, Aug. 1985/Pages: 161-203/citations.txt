@@ -1,0 +1,75 @@
+Prabuddha Biswas, Issues in cache management algorithms for commercial software systems, Proceedings of the 1st international workshop on Software and performance, p.76-77, October 12-16, 1998, Santa Fe, New Mexico, USA
+Jongmoo Choi , Sam H. Noh , Sang Lyul Min , Yookun Cho, An implementation study of a detection-based adaptive block replacement scheme, Proceedings of the annual conference on USENIX Annual Technical Conference, p.18-18, June 06-11, 1999, Monterey, California
+G. P. Bozman, VM/XA  SP2 minidisk cache, IBM Systems Journal, v.28 n.1, p.165-174, 1989
+Alan Jay Smith, Cache memory, Encyclopedia of Computer Science, 4th edition, John Wiley and Sons Ltd., Chichester, 2003
+Ramakrishna Karedla , J. Spencer Love , Bradley G. Wherry, Caching strategies to improve disk system performance, Computer, v.27 n.3, p.38-46, March 1994
+P. G. Emma , E. S. Davidson, Characterization of branch and data dependencies on programs for evaluating pipeline performance, IEEE Transactions on Computers, v.36 n.7, p.859-875, July 1987
+Daniel M. Dias , Balakrishna R. Iyer , John T. Robinson , Philip S. Yu, Design and Analysis of Integrated Concurrency-Coherence Controls, Proceedings of the 13th International Conference on Very Large Data Bases, p.463-471, September 01-04, 1987
+Nimrod Megiddo , Dharmendra S. Modha, ARC: a self-tuning, low overhead replacement cache, Proceedings of the 2nd USENIX conference on File and storage technologies, p.9-9, March 31-April 02, 2003, San Francisco, CA
+Nimrod Megiddo , Dharmendra S. Modha, ARC: A Self-Tuning, Low Overhead Replacement Cache, Proceedings of the 2nd USENIX Conference on File and Storage Technologies, March 31-31, 2003, San Francisco, CA
+W. Hsu , A. J. Smith, The performance impact of I/O optimizations and disk improvements, IBM Journal of Research and Development, v.48 n.2, p.255-289, March 2004
+D. M. Dias , B. R. Iyer , John T. Robinson , P. S. Yu, Integrated Concurrency-Coherency Controls for Multisystem Data Sharing, IEEE Transactions on Software Engineering, v.15 n.4, p.437-448, April 1989
+Rabin A. Sugumar , Santosh G. Abraham, Set-associative cache simulation using generalized binomial trees, ACM Transactions on Computer Systems (TOCS), v.13 n.1, p.32-56, Feb. 1995
+A. L. Narasimha Reddy, A study of I/O system organizations, ACM SIGARCH Computer Architecture News, v.20 n.2, p.308-317, May 1992
+Yiqing Huang , Zbigniew Kalbarczyk , Ravishankar K. Iyer, A speculation-based approach for performance and dependability analysis: a case study, Proceedings of the 30th conference on Winter simulation, p.475-482, December 13-16, 1998, Washington, D.C., USA
+John T. Robinson , Murthy V. Devarakonda, Data cache management using frequency-based replacement, ACM SIGMETRICS Performance Evaluation Review, v.18 n.1, p.134-142, May 1990
+P. J. Jalics , D. R. McIntyre, Caching and other disk access avoidance techniques on personal computers, Communications of the ACM, v.32 n.2, p.246-255, Feb. 1989
+Spencer W. Ng, Advances in Disk Technology: Performance Issues, Computer, v.31 n.5, p.75-81, May 1998
+Tian Luo , Siyuan Ma , Rubao Lee , Xiaodong Zhang , Deng Liu , Li Zhou, S-CAVE: effective SSD caching to improve virtual machine storage performance, Proceedings of the 22nd international conference on Parallel architectures and compilation techniques, October 07-07, 2013, Edinburgh, Scotland, UK
+Niki C. Thornock , Xiao-Hong Tu , J. Kelly Flanagan, A stochastic disk I/O simulation technique, Proceedings of the 29th conference on Winter simulation, p.1079-1086, December 07-10, 1997, Atlanta, Georgia, United States
+John F. Cigas, Efficient and realistic simulation of disk cache performance, Proceedings of the 21st annual symposium on Simulation, p.131-141, January 1988, Tampa, Florida, United States
+David W. Jensen , Daniel A. Reed, File archive activity in a supercomputing environment, Proceedings of the 7th international conference on Supercomputing, p.387-396, July 19-23, 1993, Tokyo, Japan
+Ethan L. Miller , Randy H. Katz, Input/output behavior of supercomputing applications, Proceedings of the 1991 ACM/IEEE conference on Supercomputing, p.567-576, November 18-22, 1991, Albuquerque, New Mexico, United States
+Richard T. Hurley , Soon Aun Yeap, File Migration and File Replication: A Symbiotic Relationship, IEEE Transactions on Parallel and Distributed Systems, v.7 n.6, p.578-586, June 1996
+W. Hsu , A. J. Smith, Characteristics of I/O traffic in personal computer and server workloads, IBM Systems Journal, v.42 n.2, p.347-372, April 2003
+John K. Ousterhout , Hervé Da Costa , David Harrison , John A. Kunze , Mike Kupfer , James G. Thompson, A trace-driven analysis of the UNIX 4.2 BSD file system, ACM SIGOPS Operating Systems Review, v.19 n.5, p.15-24, Dec. 1-4, 1985
+R. Cervera , T. Cortes , Y. Becerra, Improving application performance through swap compression, Proceedings of the annual conference on USENIX Annual Technical Conference, p.46-46, June 06-11, 1999, Monterey, California
+Dominique Thiébaut , Harold S. Stone , Joel L. Wolf, Improving Disk Cache Hit-Ratios Through Cache Partitioning, IEEE Transactions on Computers, v.41 n.6, p.665-676, June 1992
+K. S. Grimsrud , J. K. Archibald , B. E. Nelson, Multiple Prefetch Adaptive Disk Caching, IEEE Transactions on Knowledge and Data Engineering, v.5 n.1, p.88-103, February 1993
+Scott D. Carson , Sanjeev Setia, Analysis of the Periodic Update Write Policy for Disk Cache, IEEE Transactions on Software Engineering, v.18 n.1, p.44-54, January 1992
+Michael Wu , Willy Zwaenepoel, eNVy: a non-volatile, main memory storage system, ACM SIGPLAN Notices, v.29 n.11, p.86-97, Nov. 1994
+Kenneth Salem , Sedat Akyürek, Management of Partially Safe Buffers, IEEE Transactions on Computers, v.44 n.3, p.394-407, March 1995
+Prabuddha Biswas , K. K. Ramakrishnan , Don Towsley, Trace driven analysis of write caching policies for disks, ACM SIGMETRICS Performance Evaluation Review, v.21 n.1, p.13-23, June 1993
+Nezer Zaidenberg , Limor Gavish , Yuval Meir, New caching algorithms performance evaluation, Proceedings of the International Symposium on Performance Evaluation of Computer and Telecommunication Systems, p.1-7, July 26-29, 2015, Chicago, Illinois
+H. Seok Jeon , Sam H. Noh, Dynamic buffer cache management scheme based on simple and aggressive prefetching, Proceedings of the 4th annual Linux Showcase & Conference, p.3-3, October 10-14, 2000, Atlanta, Georgia
+Philip Heidelberger, A Performance Comparison of Multimicro and Mainframe Database Architectures, IEEE Transactions on Software Engineering, v.14 n.4, p.522-531, April 1988
+A. Witkowski , K. Chandrakumar , G. Macchio, Concurrent I/O system for the hypercube multiprocessor, Proceedings of the third conference on Hypercube concurrent computers and applications, p.1398-1407, January 1989, Pasadena, California, United States
+Miaoqing Huang , Olivier Serres , Vikram K. Narayana , Tarek El-Ghazawi , Gregory Newby, Efficient cache design for solid-state drives, Proceedings of the 7th ACM international conference on Computing frontiers, May 17-19, 2010, Bertinoro, Italy
+Bruce L. Jacob , Peter M. Chen , Seth R. Silverman , Trevor N. Mudge, An Analytical Model for Designing Memory Hierarchies, IEEE Transactions on Computers, v.45 n.10, p.1180-1194, October 1996
+Luis-Felipe Cabrera , Robert Rees , Wayne Hineman, Applying Database Technology in the ADSM Mass Storage System, Proceedings of the 21th International Conference on Very Large Data Bases, p.597-605, September 11-15, 1995
+H. Seok Jeon , Sam H. Noh, A database disk buffer management algorithm based on prefetching, Proceedings of the seventh international conference on Information and knowledge management, p.167-174, November 02-07, 1998, Bethesda, Maryland, USA
+R. A. Floyd , C. Schlatter Ellis, Directory Reference Patterns in Hierarchical File Systems, IEEE Transactions on Knowledge and Data Engineering, v.1 n.2, p.238-247, June 1989
+Chiung-San Lee , Tai-Ming Parng, Performance Modeling and Evaluation of a Two-Dimensional Disk Array System, Journal of Parallel and Distributed Computing, v.38 n.1, p.16-27, Oct. 10, 1996
+Ming-Chang Yang , Yuan-Hao Chang , Po-Chun Huang , Tei-Wei Kuo, Working-set-based address mapping for ultra-large-scaled flash devices, Proceedings of the eighth IEEE/ACM/IFIP international conference on Hardware/software codesign and system synthesis, October 07-12, 2012, Tampere, Finland
+Erhard Rahm, Performance evaluation of extended storage architectures for transaction processing, ACM SIGMOD Record, v.21 n.2, p.308-317, June 1, 1992
+Jason Gait, A Checkpointing Page Store for Write-Once Optical Disk, IEEE Transactions on Computers, v.39 n.1, p.2-9, January 1990
+André Seifert , Marc H. Scholl, A multi-version cache replacement and prefetching policy for hybrid data delivery environments, Proceedings of the 28th international conference on Very Large Data Bases, p.850-861, August 20-23, 2002, Hong Kong, China
+M Y Kim, Synchronized Disk Interleaving, IEEE Transactions on Computers, v.35 n.11, p.978-988, November 1986
+Kai Li , Karin Petersen, Evaluation of memory system extensions, ACM SIGARCH Computer Architecture News, v.19 n.3, p.84-93, May 1991
+Keith Muller , Joseph Pasquale, A high performance multi-structured file system design, ACM SIGOPS Operating Systems Review, v.25 n.5, p.56-67, Oct. 1991
+Philip D. L. Koch, Disk file allocation based on the buddy system, ACM Transactions on Computer Systems (TOCS), v.5 n.4, p.352-370, Nov. 1987
+Dominique Thiébaut, On the Fractal Dimension of Computer Programs and its Application to the Prediction of the Cache Miss Ratio, IEEE Transactions on Computers, v.38 n.7, p.1012-1026, July 1989
+A. W. Moore , A. J. McGregor , J. W. Breen, A comparison of system monitoring methods, passive network monitoring and kernel instrumentation, ACM SIGOPS Operating Systems Review, v.30 n.1, p.16-38, Jan. 1996
+Valery Soloviev, Prefetching in segmented disk cache for multi-disk systems, Proceedings of the fourth  workshop on I/O in parallel and distributed systems: part of the federated computing research conference, p.69-82, May 27-27, 1996, Philadelphia, Pennsylvania, USA
+Andrew Tomkins , R. Hugo Patterson , Garth Gibson, Informed multi-process prefetching and caching, ACM SIGMETRICS Performance Evaluation Review, v.25 n.1, p.100-114, June 1997
+R. H. Patterson , G. A. Gibson , E. Ginting , D. Stodolsky , J. Zelenka, Informed prefetching and caching, ACM SIGOPS Operating Systems Review, v.29 n.5, p.79-95, Dec. 3, 1995
+R. Hugo Patterson , Garth A. Gibson , M. Satyanarayanan, A status report on research in transparent informed prefetching, ACM SIGOPS Operating Systems Review, v.27 n.2, p.21-34, April 1993
+David C. Steere, Exploiting the non-determinism and asynchrony of set iterators to reduce aggregate file I/O latency, ACM SIGOPS Operating Systems Review, v.31 n.5, p.252-263, Dec. 1997
+James G. Thompson , Alan Jay Smith, Efficient (stack) algorithms for analysis of write-back and sector memories, ACM Transactions on Computer Systems (TOCS), v.7 n.1, p.78-117, Feb. 1989
+Theodore M. Wong , John Wilkes, My Cache or Yours? Making Storage More Exclusive, Proceedings of the General Track of the annual conference on USENIX Annual Technical Conference, p.161-175, June 10-15, 2002
+Yuanyuan Zhou , James Philbin , Kai Li, The Multi-Queue Replacement Algorithm for Second Level Buffer Caches, Proceedings of the General Track: 2002 USENIX Annual Technical Conference, p.91-104, June 25-30, 2001
+Dongli Zhang , Moussa Ehsan , Michael Ferdman , Radu Sion, DIMMer: A case for turning off DIMMs in clouds, Proceedings of the ACM Symposium on Cloud Computing, p.1-8, November 03-05, 2014, Seattle, WA, USA
+W. W. Hsu , A. Jay Smith , H. C. Young, Characteristics of production database workloads and the TPC benchmarks, IBM Systems Journal, v.40 n.3, p.781-802, March 2001
+Yuanyuan Zhou , Zhifeng Chen , Kai Li, Second-Level Buffer Cache Management, IEEE Transactions on Parallel and Distributed Systems, v.15 n.6, p.505-519, June 2004
+Yuhui Deng , Frank Wang , Na Helian, EED: Energy Efficient Disk drive architecture, Information Sciences: an International Journal, v.178 n.22, p.4403-4417, November, 2008
+Yuan-Hao Chang , Ming-Chang Yang , Tei-Wei Kuo , Ren-Hung Hwang, A reliability enhancement design under the flash translation layer for MLC-based flash-memory storage systems, ACM Transactions on Embedded Computing Systems (TECS), v.13 n.1, p.1-28, August 2013
+Yong Woo Lee, A virtual server queueing network method for component based performance modelling of metacomputing, Future Generation Computer Systems, v.20 n.1, p.145-155, January 2004
+D. F. Kotz , C. S. Ellis, Prefetching in File Systems for MIMD Multiprocessors, IEEE Transactions on Parallel and Distributed Systems, v.1 n.2, p.218-230, April 1990
+Mojtaba Tarihi , Hossein Asadi , Hamid Sarbazi-Azad, DiskAccel: Accelerating Disk-Based Experiments by Representative Sampling, ACM SIGMETRICS Performance Evaluation Review, v.43 n.1, June 2015
+Windsor W. Hsu , Alan Jay Smith , Honesty C. Young, The automatic improvement of locality in storage systems, ACM Transactions on Computer Systems (TOCS), v.23 n.4, p.424-473, November 2005
+Trevor Mudge, Strategic directions in computer architecture, ACM Computing Surveys (CSUR), v.28 n.4, p.671-678, Dec. 1996
+Windsor W. Hsu , Alan Jay Smith , Honesty C. Young, I/O reference behavior of production database workloads and the TPC benchmarks—an analysis at the logical level, ACM Transactions on Database Systems (TODS), v.26 n.1, p.96-143, March 2001
+Erhard Rahm, Empirical performance evaluation of concurrency and coherency control protocols for database sharing systems, ACM Transactions on Database Systems (TODS), v.18 n.2, p.333-377, June 1993
+Alexander Thomasian, Performance Analysis of Database Systems, Performance Evaluation: Origins and Directions, p.305-327, January 01, 2000
+Alexander Thomasian , Mario Blaum, Higher reliability redundant disk arrays: Organization, operation, and coding, ACM Transactions on Storage (TOS), v.5 n.3, p.1-59, November 2009
+Bruce Jacob , Spencer Ng , David Wang, Memory Systems: Cache, DRAM, Disk, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2007

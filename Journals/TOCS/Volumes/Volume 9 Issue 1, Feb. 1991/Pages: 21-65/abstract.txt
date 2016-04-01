@@ -1,0 +1,32 @@
+Busy-wait techniques are heavily used for mutual exclusion and
+barrier synchronization in shared-memory parallel programs.
+Unfortunately, typical implementations of busy-waiting tend to produce
+large amounts of memory and interconnect contention, introducing
+performance bottlenecks that become markedly more pronounced as
+applications scale. We argue that this problem is not fundamental, and
+that one can in fact construct busy-wait synchronization algorithms that
+induce no memory or interconnect contention. The key to these algorithms
+is for every processor to spin on separatelocally-accessibleflag variables,
+and for some other processor to terminate the spin with a single remote
+write operation at an appropriate time. Flag variables may be
+ locally-accessible as a   result of coherent caching, or by virtue of
+allocation in the local portion of physically distributed shared
+memory.We present a new scalable algorithm for spin locks that generates 0(1) remote references per lock
+acquisition, independent of the number of processors attempting to
+acquire the lock. Our algorithm provides reasonable latency in the
+absence of contention, requires only a constant amount of space per
+lock, and requires no hardware support other than a swap-with-memory
+instruction. We also present a new scalable barrier algorithm that
+generates 0(1) remote references per
+processor reaching the barrier, and observe that two previously-known
+barriers can likewise be cast  in a form that spins only on
+locally-accessible flag variables.  None of these barrier algorithms
+requires hardware support beyond the usual atomicity of memory reads and
+writes.We compare the performance of our scalable algorithms with other
+software approaches to busy-wait synchronization on both a Sequent
+Symmetry and a BBN Butterfly. Our principal conclusion is thatcontention due to synchronization need not be a problem
+in large-scale shared-memory multiprocessors.The
+existence of scalable algorithms greatly weakens the case for costly
+special-purpose hardware support for synchronization, and provides a
+case against so-called “dance hall” architectures, in which
+shared memory locations are equally far from all  processors.—From the Authors' Abstract

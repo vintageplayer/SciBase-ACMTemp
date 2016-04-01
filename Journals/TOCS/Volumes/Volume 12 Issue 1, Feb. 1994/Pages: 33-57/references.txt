@@ -1,0 +1,40 @@
+ANDRADE, J. M., CARGES, M. T., AND KOVACH, K.R. 1989. Building a transaction processing system on UNIX systems. In UnlForum Conference Proceedings
+BARON, R. V, BLACK, D. L, BOLOSK'Y, W., CHEW, J., GOLUB, D. B., RASHID, R. F., TEVANIAN, A., JR. AND YOUNG, M. W. 1987. Mach Kernel Interface Monual. School of Computer Science, Carnegie Mellon Univ., Pittsburgh, Pa.
+Philip A. Bernstein , Vassco Hadzilacos , Nathan Goodman, Concurrency control and recovery in database systems, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1987
+Brian N. Bershad , Thomas E. Anderson , Edward D. Lazowska , Henry M. Levy, Lightweight remote procedure call, ACM Transactions on Computer Systems (TOCS), v.8 n.1, p.37-55, Feb. 1990[doi>10.1145/77648.77650]
+A. Birrell , M. Jones , E. Wobber, A simple and efficient implementation of a small database, Proceedings of the eleventh ACM Symposium on Operating systems principles, p.149-154, November 08-11, 1987, Austin, Texas, United States[doi>10.1145/41457.37517]
+Albert Chang , Mark F. Mergen, 801 storage: architecture and programming, ACM Transactions on Computer Systems (TOCS), v.6 n.1, p.28-50, Feb. 1988[doi>10.1145/35037.42270]
+Kien-Mien Chew , Jyothy Reddy , Theodore H. Romer , Abraham Silberschatz, Kernel Support for Recoverable-Persistent Virtual Memory, USENIX MACH III Symposium, p.215-234, April 19-21, 1993
+COOPER, E C. AND DRAVES, R. P. 1988. C threads. Tech. Rep. CMU-CS-88-154, Dept. of Computer Science, Carneg-ie Mellon Umv., Pittsburgh, Pa.
+J. L. Eppinger, Virtual memory management for transaction processing systems, Carnegie Mellon University, Pittsburgh, PA, 1989
+EPPINGER, J. L., MUMMERT, L. B., AND SPECTOR, A. Z. 1991. Camelot and Avalon. Morgan Kaufmann, San Mateo, Calif.
+Hector Garcia-Molina , Kenneth Salem, Sagas, Proceedings of the 1987 ACM SIGMOD international conference on Management of data, p.249-259, May 27-29, 1987, San Francisco, California, United States[doi>10.1145/38713.38742]
+GOOD, B.~ HOMAN, P. W., GAWLICK, D. E., AND gAMMER, H. 1985. One thousand transactions per second. In Proceedtngs oflEEE Compcon. IEEE, New York.
+Jim Gray, Notes on Data Base Operating Systems, Operating Systems, An Advanced Course, p.393-481, January 1978
+Jim Gray , Andreas Reuter, Transaction Processing: Concepts and Techniques, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1992
+Rober Haskin , Yoni Malachi , Gregory Chan, Recovery management in QuickSilver, ACM Transactions on Computer Systems (TOCS), v.6 n.1, p.82-108, Feb. 1988[doi>10.1145/35037.35060]
+James J. Kistler , M. Satyanarayanan, Disconnected operation in the Coda File System, ACM Transactions on Computer Systems (TOCS), v.10 n.1, p.3-25, Feb. 1992[doi>10.1145/146941.146942]
+Puneet Kumar , M. Satyanarayanan, Log-based directory resolution in the coda file system, Proceedings of the second international conference on Parallel and distributed information systems, p.202-213, January 1993, San Diego, California, United States
+Butler W. Lampson, Atomic Transactions, Distributed Systems - Architecture and Implementation, An Advanced Course, p.246-265, January 1981
+Butler W. Lampson, Hints for computer system design, Proceedings of the ninth ACM symposium on Operating systems principles, p.33-48, October 10-13, 1983, Bretton Woods, New Hampshire, United States[doi>10.1145/800217.806614]
+LEFFLER, S. L., McKusmK, M. K., KARELS, M. J., AND QUARTERMAN, J.S. 1989. The Design and Implementatmn of the 4.3BSD Unix Operating System. Addison-Wesley, Reading, Mass.
+Barbara Liskov , Robert Scheifler, Guardians and Actions: Linguistic Support for Robust, Distributed Programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.3, p.381-404, July 1983[doi>10.1145/2166.357215]
+MASHBURN, H. AND SATYANARAYANAN, M. 1992. RVM User Manual. School of Computer Science, Carnegie Mellon Univ., Pittsburgh, Pa.
+J. E.B. Moss, Nested transactions:  an approach to reliable distributed computing, Massachusetts Institute of Technology, Cambridge, MA, 1985
+NETTLES, S. M. AND WING, J.M. 1992. Persistence + Undoability Transactions. In Proceedings ofHICSS-25. IEEE Computer Society Press, Los Alamitos, Calif.
+James O'Toole , Scott Nettles , David Gifford, Concurrent compacting garbage collection of a persistent heap, Proceedings of the fourteenth ACM symposium on Operating systems principles, p.161-174, December 05-08, 1993, Asheville, North Carolina, United States[doi>10.1145/168619.168632]
+OUSTERHOUT, J.K. 1990. Why aren't operating systems getting faster as fast as hardware? In Proceedings of the USENIX Summer Conference. USENIX Assomation, Berkeley, Calif.
+David A. Patterson , Garth Gibson , Randy H. Katz, A case for redundant arrays of inexpensive disks (RAID), Proceedings of the 1988 ACM SIGMOD international conference on Management of data, p.109-116, June 01-03, 1988, Chicago, Illinois, United States[doi>10.1145/50202.50214]
+Mendel Rosenblum , John K. Ousterhout, The design and implementation of a log-structured file system, ACM Transactions on Computer Systems (TOCS), v.10 n.1, p.26-52, Feb. 1992[doi>10.1145/146941.146943]
+SATYANARAYANAN, M. 1991. RPC2 User Guide and Reference Manual. School of Computer Science, Carnegie Mellon Univ., Pittsburgh, Pa.
+Mahadev Satyanarayanan , James J. Kistler , Puneet Kumar , Maria E. Okasaki , Ellen H. Siegel , David C. Steere, Coda: A Highly Available File System for a Distributed Workstation Environment, IEEE Transactions on Computers, v.39 n.4, p.447-459, April 1990[doi>10.1109/12.54838]
+M. Satyanarayanan , David C. Steere , Masashi Kudo , Hank Mashburn, Transparent logging as a technique for debugging complex distributed systems, Proceedings of the 5th workshop on ACM SIGOPS European workshop: Models and paradigms for distributed systems structuring, September 21-23, 1992, Mont Saint-Michel, France[doi>10.1145/506378.506421]
+SERLIN, O. 1991. The history of DebitCredit and the TPC. In The Benchmark Handbook. Morgan Kaufman, San Mateo, Calif.
+SPECTOB, A.Z. 1991. The design of Camelot. In Camelot and Avalon. Morgan Kaufmann, San Mateo, Calif.
+STOUT, P. n., JAFFE, E. n., AND SPECTOR, A.g. 1991. Performance of select Camelot functions. In Camelot and Avalon. Morgan Kaufmann, San Mateo, Calif.
+TRANSARC CORP. 1991. Encina Product Overview. Transarc Corp., Pittsburgh, Pa.
+UNIX SYSTEM LABS. 1993. TUXEDO System Product Overvtew. Unix System Laboratories, Summit, N.J.
+WING, J. M. 1991. The Avalon language. In Camelot and Avalon. Morgan Kaufmann, San Mateo, Calif.
+WING, J. M., FAEHNDRICH, M., MORRISETT, G., AND NETTLES, S.M. 1992. Extensions to standard ML to support transactions. In ACM SIGPLAN Workshop on ML and its Applications. ACM, New York.
+Michael Wayne Young, Exporting a user interface to memory management from a communication-oriented operating system, 1989
+YOUNG, M. W., THOMPSON, D. S., AND JAFFE, E. 1991. A modular architecture for distributed transaction processing. In Proceedings of the USENIX Winter Conference. USENIX Association, Berkeley, Calif.

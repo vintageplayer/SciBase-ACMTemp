@@ -1,0 +1,79 @@
+Albert Burger , Vijay Kumar, Performance of multiversion concurrency control mechanism in partitioned and partially replicated databases, Proceedings of the 1992 ACM annual conference on Communications, p.189-195, March 03-05, 1992, Kansas City, Missouri, USA
+David Jefferson , Andrew Witkowski, An approach to performance analysis of timestamp-driven synchronization mechanisms, Proceedings of the third annual ACM symposium on Principles of distributed computing, p.243-253, August 27-29, 1984, Vancouver, British Columbia, Canada
+James Aspnes , Alan Fekete , Nancy A. Lynch , Michael Merritt , William E. Weihl, A Theory of Timestamp-Based Concurrency Control for Nested Transactions, Proceedings of the 14th International Conference on Very Large Data Bases, p.431-444, August 29-September 01, 1988
+Linda M. Null , Johnny Wong, The DIAMOND security policy for object-oriented databases, Proceedings of the 1992 ACM/SIGAPP symposium on Applied computing: technological challenges of the 1990's, p.683-690, March 1992, Kansas City, Missouri, United States
+David P. Reed, "Simultaneous" Considered harmful: modular parallelism (deprecating "locks", "semaphores", serializability, and other sequential thinking), Proceedings of the 4th USENIX conference on Hot Topics in Parallelism, p.6-6, June 07-08, 2012, Berkeley, CA
+George T. Heineman, A transaction manager component for cooperative transaction models, Proceedings of the 1993 conference of the Centre for Advanced Studies on Collaborative research: distributed computing, October 24-28, 1993, Toronto, Ontario, Canada
+Ming-Ling Lo , C. V. Ravishankar, A concurrency control protocol for nested transactions, Proceedings of the 1992 conference of the Centre for Advanced Studies on Collaborative research, November 09-12, 1992, Toronto, Ontario, Canada
+David J DeWitt , Randy H Katz , Frank Olken , Leonard D Shapiro , Michael R Stonebraker , David Wood, Implementation techniques for main memory database systems, ACM SIGMOD Record, v.14 n.2, June 1984
+R. Sun , G. Thomas, Performance results on multiversion timestamp concurrency control with predeclared writesets, Proceedings of the sixth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.177-184, March 23-25, 1987, San Diego, California, USA
+David B. Lomet , Betty Salzberg, Exploiting A History Database for Backup, Proceedings of the 19th International Conference on Very Large Data Bases, p.380-390, August 24-27, 1993
+François Llirbat , Eric Simon , Dimitri Tombroff, Using Versions in Update Transactions: Application to Integrity Checking, Proceedings of the 23rd International Conference on Very Large Data Bases, p.96-105, August 25-29, 1997
+J. H. Saltzer , D. P. Reed , D. D. Clark, End-to-end arguments in system design, ACM Transactions on Computer Systems (TOCS), v.2 n.4, p.277-288, Nov. 1984
+M. Herlihy, Extending Multiversion Time-Stamping Protocols to Exploit Type Information, IEEE Transactions on Computers, v.36 n.4, p.443-448, April 1987
+Calton Pu , Miu K. Tsang , Kun-Lung Wu , Philip S. Yu, Multiversion divergence control of time fuzziness, Proceedings of the third international conference on Information and knowledge management, p.195-202, November 29-December 02, 1994, Gaithersburg, Maryland, United States
+A. El Abbadi , S. Toueg, The Group Paradigm for Concurrency Control Protocols, IEEE Transactions on Knowledge and Data Engineering, v.1 n.3, p.376-386, September 1989
+Amr El Abbadi , Sam Toueg, The group paradigm for concurrency control, ACM SIGMOD Record, v.17 n.3, p.126-134, June 1988
+Bhavani Thuraisingham, Multilevel security issues in distributed database management systems II, Computers and Security, v.10 n.8, p.727-747, December, 1991
+João Cachopo , António Rito-Silva, Versioned boxes as the basis for memory transactions, Science of Computer Programming, v.63 n.2, p.172-185, 1 December 2006
+Maurice P. Herlihy , William E. Weihl, Hybrid concurrency control for abstract data types, Proceedings of the seventh ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.201-210, March 1988, Austin, Texas, United States
+Arif Merchant , Kun-Lung Wu , Philip S. Yu , Ming-Syan Chen, Performance Analysis of Dynamic Finite Versioning Schemes: Storage Cost vs. Obsolescence, IEEE Transactions on Knowledge and Data Engineering, v.8 n.6, p.985-1001, December 1996
+A. Witkowski , K. Chandrakumar , G. Macchio, Concurrent I/O system for the hypercube multiprocessor, Proceedings of the third conference on Hypercube concurrent computers and applications, p.1398-1407, January 1989, Pasadena, California, United States
+Jean-Pierre Banâtre , Michel Banâtre , Guy Lapalme , Florimond Ployette, The design and building of Enchère, a distributed electronic marketing system, Communications of the ACM, v.29 n.1, p.19-29, Jan. 1986
+Hal Berenson , Phil Bernstein , Jim Gray , Jim Melton , Elizabeth O'Neil , Patrick O'Neil, A critique of ANSI SQL isolation levels, ACM SIGMOD Record, v.24 n.2, p.1-10, May 1995
+Kenneth J. Goldman , Nancy Lynch, Quorum consensus in nested-transaction systems, ACM Transactions on Database Systems (TODS), v.19 n.4, p.537-585, Dec. 1994
+Arif Merchant , Kun-Lung Wu , Philip S. Yu , Ming-Syan Chen, Performance analysis of dynamic finite versioning for concurrent transaction and query processing, ACM SIGMETRICS Performance Evaluation Review, v.20 n.1, p.103-114, June 1992
+David K. Garnick , A. Toni Cohen, Locality in distributed computations, Proceedings of the 1988 ACM sixteenth annual conference on Computer science, p.335-344, February 1988, Atlanta, Georgia, United States
+Thomas Neumann , Gerhard Weikum, x-RDF-3X: fast querying, high update rates, and consistency for RDF databases, Proceedings of the VLDB Endowment, v.3 n.1-2, September 2010
+Panduranga Rao Adusumilli , Lawrence J. Osborne, An integrated solution for managing replicated data in distributed systems, Proceedings of the 1993 ACM/SIGAPP symposium on Applied computing: states of the art and practice, p.351-357, February 14-16, 1993, Indianapolis, Indiana, United States
+Ivar Jacobson, Language support for changeable large real time systems, ACM SIGPLAN Notices, v.21 n.11, p.377-384, Nov. 1986
+W. J. Lin , B. Veeravalli, A dynamic object allocation and replication algorithm for distributed systems with centralized control, International Journal of Computers and Applications, v.28 n.1, p.26-34, January 2006
+L. Chiu , M. T. Liu, High level specification of concurrency control in distributed database systems, Proceedings of the 10th international conference on Software engineering, p.309-317, April 11-15, 1988, Singapore
+M. Herlihy , M. S. McKendry, Timestamp-Based Orphan Elimination, IEEE Transactions on Software Engineering, v.15 n.7, p.825-831, July 1989
+Kenneth J. Goldman , Nancy A. Lynch, Quorum consensus in nested transaction systems, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.27-41, August 10-12, 1987, Vancouver, British Columbia, Canada
+Sam S. Stone , Kevin M. Woley , Matthew I. Frank, Address-Indexed Memory Disambiguation and Store-to-Load Forwarding, Proceedings of the 38th annual IEEE/ACM International Symposium on Microarchitecture, p.171-182, November 12-16, 2005, Barcelona, Spain
+Jan Pečiva, Active transaction approach for collaborative virtual environments, Proceedings of the 2006 ACM international conference on Virtual reality continuum and its applications, June 14-April 17, 2006, Hong Kong, China
+Kenneth Salem , Héctor García-Molina , Jeannie Shands, Altruistic locking, ACM Transactions on Database Systems (TODS), v.19 n.1, p.117-165, March 1994
+A. El Abbadi , S. Toueg, Maintaining availability in partitioned replicated databases, ACM Transactions on Database Systems (TODS), v.14 n.2, p.264-290, June 1989
+Richard W. Watson , Sandy A. Mamrak, Gaining efficiency in transport services by appropriate design and implementation choices, ACM Transactions on Computer Systems (TOCS), v.5 n.2, p.97-120, May 1987
+Edwin McKenzie , Richard Snodgrass, Extending the relational algebra to support transaction time, ACM SIGMOD Record, v.16 n.3, p.467-478, Dec. 1987
+Michael J. Carey , David J. DeWitt , Joel E. Richardson , Eugene J. Shekita, Object and File Management in the EXODUS Extensible Database System, Proceedings of the 12th International Conference on Very Large Data Bases, p.91-100, August 25-28, 1986
+Paul M. Bober , Michael J. Carey, Indexing for Multiversion Locking: Alternatives and Performance Evaluation, IEEE Transactions on Knowledge and Data Engineering, v.9 n.1, p.68-84, January 1997
+Hany E. Ramadan , Christopher J. Rossbach , Emmett Witchel, Dependence-aware transactional memory for increased concurrency, Proceedings of the 41st annual IEEE/ACM International Symposium on Microarchitecture, p.246-257, November 08-12, 2008
+Maurice Herlihy, Optimistic concurrency control for abstract data types, Proceedings of the fifth annual ACM symposium on Principles of distributed computing, p.206-217, August 11-13, 1986, Calgary, Alberta, Canada
+Maurice Herlihy, Optimistic concurrency control for abstract data types, ACM SIGOPS Operating Systems Review, v.21 n.2, p.33-44, April 1987
+Michael J. Carey , Waleed A. Muhanna, The performance of multiversion concurrency control algorithms, ACM Transactions on Computer Systems (TOCS), v.4 n.4, p.338-378, Nov. 1986
+David R. Jefferson, Virtual time, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.3, p.404-425, July 1985
+Lin Wujuan , Bharadwaj Veeravalli, Design and analysis of an adaptive object replication algorithm in distributed network systems, Computer Communications, v.31 n.10, p.2005-2015, June, 2008
+Maurice Herlihy, Comparing how atomicity mechanisms support replication, Proceedings of the fourth annual ACM symposium on Principles of distributed computing, p.102-110, August 1985, Minaki, Ontario, Canada
+Xiaoying Liu , John A. Miller , Nilesh R. Parate, Transaction management for object-oriented databases: performance advantages of using multiple versions, Proceedings of the 25th annual symposium on Simulation, p.222-231, April 1992, Orlando, Florida, United States
+Michael J. Carey , Miron Livny, Distributed Concurrency Control Performance: A Study of Algorithms, Distribution, and Replication, Proceedings of the 14th International Conference on Very Large Data Bases, p.13-25, August 29-September 01, 1988
+Maurice Herlihy, Comparing how atomicity mechanisms support replication, ACM SIGOPS Operating Systems Review, v.20 n.3, p.31-39, July, 1986
+Hany E. Ramadan , Indrajit Roy , Maurice Herlihy , Emmett Witchel, Committing conflicting transactions in an STM, ACM SIGPLAN Notices, v.44 n.4, April 2009
+Maurice Herlihy, Dynamic quorum adjustment for partitioned data, ACM Transactions on Database Systems (TODS), v.12 n.2, p.170-194, June 1987
+Toshimi Minoura , S. Sitharama Iyengar, Data and Time Abstraction Techniques for Analyzing Multilevel Concurrent Systems, IEEE Transactions on Software Engineering, v.15 n.1, p.47-59, January 1989
+Maurice Herlihy, A quorum-consensus replication method for abstract data types, ACM Transactions on Computer Systems (TOCS), v.4 n.1, p.32-53, Feb. 1986
+Paul Graunke , Robert Bruce Findler , Shriram Krishnamurthi , Matthias Felleisen, Automatically Restructuring Programs for the Web, Proceedings of the 16th IEEE international conference on Automated software engineering, p.211, November 26-29, 2001
+Justin Levandoski , David Lomet , Sudipta Sengupta , Ryan Stutsman , Rui Wang, Multi-version range concurrency control in Deuteronomy, Proceedings of the VLDB Endowment, v.8 n.13, p.2146-2157, September 2015
+Minwen Ji, Affinity-based management of main memory database clusters, ACM Transactions on Internet Technology (TOIT), v.2 n.4, p.307-339, November 2002
+Michael J. Cahill , Uwe Röhm , Alan D. Fekete, Serializable isolation for snapshot databases, ACM Transactions on Database Systems (TODS), v.34 n.4, p.1-42, December 2009
+Robert L. Bocchino , Vikram S. Adve , Bradford L. Chamberlain, Software transactional memory for large scale clusters, Proceedings of the 13th ACM SIGPLAN Symposium on Principles and practice of parallel programming, February 20-23, 2008, Salt Lake City, UT, USA
+Michael J. Carey , Miron Livny, Parallelism and concurrency control performance in distributed database machines, ACM SIGMOD Record, v.18 n.2, p.122-133, June 1989
+J. Walpole , G. S. Blair , J. Malik , J. R. Nicol, A unifying model for consistent distributed software development environments, ACM SIGPLAN Notices, v.24 n.2, p.183-190, Feb. 1989
+Jacob Matthews , Robert Bruce Findler , Paul Graunke , Shriram Krishnamurthi , Matthias Felleisen, Automatically Restructuring Programs for the Web, Automated Software Engineering, v.11 n.4, p.337-364, October 2004
+Avigdor Gal , John Mylopoulos, Toward Web-Based Application Management Systems, IEEE Transactions on Knowledge and Data Engineering, v.13 n.4, p.683-702, July 2001
+Eric C. Cooper, Replicated procedure call, Proceedings of the third annual ACM symposium on Principles of distributed computing, p.220-232, August 27-29, 1984, Vancouver, British Columbia, Canada
+Dimitrios Georgakopoulos , Marek Rusinkiewicz , Witold Litwin, Chronological scheduling of transactions with temporal dependencies, The VLDB Journal — The International Journal on Very Large Data Bases, v.3 n.1, p.1-28, January 1994
+M. Herlihy, Apologizing versus asking permission: optimistic concurrency control for abstract data types, ACM Transactions on Database Systems (TODS), v.15 n.1, p.96-124, March 1990
+Henry F. Korth, The Double Life of the Transaction Abstraction: Fundamental Principle and Evolving System Concept, Proceedings of the 21th International Conference on Very Large Data Bases, p.2-6, September 11-15, 1995
+Michael J. Carey , Miron Livny, Conflict detection tradeoffs for replicated data, ACM Transactions on Database Systems (TODS), v.16 n.4, p.703-746, Dec. 1991
+M. Herlihy, Concurrency and availability as dual properties of replicated atomic data, Journal of the ACM (JACM), v.37 n.2, p.257-278, April 1990
+B. Bhargava , J. Riedl, A Model for Adaptable Systems for Transaction Processing, IEEE Transactions on Knowledge and Data Engineering, v.1 n.4, p.433-449, December 1989
+Paul F. Reynolds, Jr. , Craig Williams , Raymond R. Wagner, Jr., Isotach Networks, IEEE Transactions on Parallel and Distributed Systems, v.8 n.4, p.337-348, April 1997
+Henry F. Korth , Greg Speegle, Formal aspects of concurrency control in long-duration transaction systems using the NT/PV model, ACM Transactions on Database Systems (TODS), v.19 n.3, p.492-535, Sept. 1994
+Maurice P. Herlihy , Jeannette M. Wing, Linearizability: a correctness condition for concurrent objects, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.3, p.463-492, July 1990
+Marcos K. Aguilera , Joshua B. Leners , Michael Walfish, Yesquel: scalablesqlstorage for web applications, Proceedings of the 25th Symposium on Operating Systems Principles, October 04-07, 2015, Monterey, California
+Liba Svobodova, File servers for network-based distributed systems, ACM Computing Surveys (CSUR), v.16 n.4, p.353-398, Dec. 1984
+Andrew S. Tanenbaum , Robbert Van Renesse, Distributed operating systems, ACM Computing Surveys (CSUR), v.17 n.4, p.419-470, Dec. 1985
+Gregory R. Andrews , Fred B. Schneider, Concepts and Notations for Concurrent Programming, ACM Computing Surveys (CSUR), v.15 n.1, p.3-43, March 1983
+Gerhard Weikum , Gottfried Vossen, Transactional Information Systems: Theory, Algorithms, and the Practice of Concurrency Control and Recovery, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2001

@@ -1,0 +1,19 @@
+AGHILI, H. ET AL. A prototype for a highly available database system. Res. Rep. RJ-3755, IBM Research Laboratories, San Jose, Calif., Jan. 1983.
+CRISTIAN, F., AND STRONG, S. Atomic broadcast: From simple message diffusion to Byzantine agreement. Res. Rep. RJ-4540, IBM Research Laboratories, San Jose, Calif., Dec. 1984.
+DIFFIE, W., AND HELLMAN, M. New directions in cryptography. IEEE Trans. Inf. Theor. IT22 (Nov. 1976), 644-654.
+Joseph Y. Halpern , Barbara Simons , Ray Strong , Danny Dolev, Fault-tolerant clock synchronization, Proceedings of the third annual ACM symposium on Principles of distributed computing, p.89-102, August 27-29, 1984, Vancouver, British Columbia, Canada[doi>10.1145/800222.806739]
+Danny Dolev , H. Raymond Strong, Polynomial algorithms for multiple processor agreement, Proceedings of the fourteenth annual ACM symposium on Theory of computing, p.401-407, May 05-07, 1982, San Francisco, California, United States[doi>10.1145/800070.802215]
+FISCHER, M.J. The consensus problem in unreliable distributed systems (a brief survey). Tech. Rep. YALEU/DCS/RR-273, Dept. of Computer Science, Yale Univ., New Haven, Conn., June 1983.
+Hector Garcia Molina , Frank Pittelli , Susan Davidson, Applications of Byzantine agreement in database systems, ACM Transactions on Database Systems (TODS), v.11 n.1, p.27-47, March 1986[doi>10.1145/5236.5243]
+Leslie Lamport, Using Time Instead of Timeout for Fault-Tolerant Distributed Systems., ACM Transactions on Programming Languages and Systems (TOPLAS), v.6 n.2, p.254-280, April 1984[doi>10.1145/2993.2994]
+Leslie Lamport , P. M. Melliar-Smith, Byzantine clock synchronization, Proceedings of the third annual ACM symposium on Principles of distributed computing, p.68-74, August 27-29, 1984, Vancouver, British Columbia, Canada[doi>10.1145/800222.806737]
+Leslie Lamport , Robert Shostak , Marshall Pease, The Byzantine Generals Problem, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.3, p.382-401, July 1982[doi>10.1145/357172.357176]
+Jennifer Lundelius , Nancy Lynch, A new fault-tolerant algorithm for clock synchronization, Proceedings of the third annual ACM symposium on Principles of distributed computing, p.75-88, August 27-29, 1984, Vancouver, British Columbia, Canada[doi>10.1145/800222.806738]
+LYNCH, N., FISCHER, M., AND FOWLER, R. A simple and efficient Byzantine generals algorithm. In Proceedings of 2nd Annual IEEE Symposium on Reliability in Distributed Software and Database Systems (1982). IEEE, New York, 1982.
+M. Pease , R. Shostak , L. Lamport, Reaching Agreement in the Presence of Faults, Journal of the ACM (JACM), v.27 n.2, p.228-234, April 1980[doi>10.1145/322186.322188]
+Frank M. Pittelli, Experimental analysis of a triple modular redundant database system (reliability, availability, tmr), 1986
+PITTELLI, F., AND GARCIA-MOLINA, H. Recovery in a triple modular redundant database system. In Proceedings of the 7th International Conference on Distributed Computing Systems (Berlin, Sept. 1987). pp. 514-520.
+Richard D. Schlichting , Fred B. Schneider, Fail-stop processors: an approach to designing fault-tolerant computing systems, ACM Transactions on Computer Systems (TOCS), v.1 n.3, p.222-238, August 1983[doi>10.1145/357369.357371]
+Fred B. Schneider, Synchronization in Distributed Programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.2, p.125-148, April 1982[doi>10.1145/357162.357163]
+SIEWIOREK, D. P. ET AL. A Case Study of C.mmp, C.m* and C.vmp--Experiences with faulttolerance in multiprocessor systems. Proc. IEEE 66, 10 (1978), 1978), 1178-1199.
+SIEWIOREK, D. P., AND SWARZ, R.S. The Theory and Practice of Reliable System Design, Digital Press, 1982.

@@ -1,0 +1,38 @@
+United States Department of Defense. Reference Manual for the Ada Programming Language, July 1980.
+A. Agarwal, PERFORMANCE TRADEOFFS IN MULTITHREADED PROCESSORS, Massachusetts Institute of Technology, Cambridge, MA, 1991
+Anant Agarwal , John Hennessy , Mark Horowitz, Cache performance of operating system and multiprogramming workloads, ACM Transactions on Computer Systems (TOCS), v.6 n.4, p.393-431, Nov. 1988[doi>10.1145/48012.48037]
+Anant Agarwal , Beng-Hong Lim , David Kranz , John Kubiatowicz, APRIL: a processor architecture for multiprocessing, ACM SIGARCH Computer Architecture News, v.18 n.2SI, p.104-114, June 1990[doi>10.1145/325096.325119]
+T. E. Anderson , E. D. Lazowska , H. M. Levy, The Performance Implications of Thread Management Alternatives for Shared-Memory Multiprocessors, IEEE Transactions on Computers, v.38 n.12, p.1631-1644, December 1989[doi>10.1109/12.40843]
+ANDERSON, T. E. BERSHAD, B. N., L~ZOWSKA, E. D., AND LEVY, H.M. Efficient user-level thread management for shared memory multiprocessors. Tech. Rep. 90-04-02, Dept. of Computer Science and Engineering, Univ. of Washington, April 1990
+BBN Laboratories. Butterfly Parallel Processor Overview. BBN Labs., Cambridge, Mass., June 1985.
+Brian Nathan Bershad , Edward D. Lazowska , Henry M. Levy, High-performance cross-address space communication, University of Washington, 1990
+Brian N. Bershad , Edward D. Lazowska , Henry M. Levy, PRESTO: a system for object-oriented parallel programming, Software—Practice & Experience, v.18 n.8, p.713-732, August 1988[doi>10.1002/spe.4380180802]
+Brian N. Bershad , Thomas E. Anderson , Edward D. Lazowska , Henry M. Levy, Lightweight remote procedure call, ACM Transactions on Computer Systems (TOCS), v.8 n.1, p.37-55, Feb. 1990[doi>10.1145/77648.77650]
+Andrew D. Birrell , Bruce Jay Nelson, Implementing remote procedure calls, ACM Transactions on Computer Systems (TOCS), v.2 n.1, p.39-59, February 1984[doi>10.1145/2080.357392]
+BmRELL, A. D. An introduction to programming with threads. Tech. Rep. 35, Digital Equipment Corporation Systems Research Center, Palo Alto, Calif., Jan. 1989.
+David L. Black, Scheduling Support for Concurrency and Parallelism in the Mach Operating System, Computer, v.23 n.5, p.35-43, May 1990[doi>10.1109/2.53353]
+F. J. Burkowski , G. V. Cormack , G. D. P. Dueck, Architectural support for synchronous task communication, Proceedings of the third international conference on Architectural support for programming languages and operating systems, p.40-53, April 03-06, 1989, Boston, Massachusetts, USA[doi>10.1145/70082.68186]
+David R. Cheriton , Michael A. Malcolm , Lawrence S. Melen , Gary R. Sager, Thoth, a portable real-time operating system, Communications of the ACM, v.22 n.2, p.105-115, Feb. 1979[doi>10.1145/359060.359074]
+David Cheriton, The V distributed system, Communications of the ACM, v.31 n.3, p.314-333, March 1988[doi>10.1145/42392.42400]
+COOK, D. The evaluation of a protection system. Ph.D. dissertation, Cambridge Univ., Computer Lab., April 1978.
+D. Duchamp, Analysis of transaction management performance, Proceedings of the twelfth ACM symposium on Operating systems principles, p.177-190, November 1989[doi>10.1145/74850.74868]
+EPPIN~ES. J. L. Virtual memory management for transaction processing systems. Ph.D. dissertation, Dept. of Computer Science, Carnegie Mellon Univ., Feb. 1989.
+Anoop Gupta , Andrew Tucker , Shigeru Urushibara, The impact of operating system scheduling policies and synchronization methods of performance of parallel applications, Proceedings of the 1991 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.120-132, May 21-24, 1991, San Diego, California, USA[doi>10.1145/107971.107985]
+Robert H. Halstead, Jr., MULTILISP: a language for concurrent symbolic computation, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.4, p.501-538, Oct. 1985[doi>10.1145/4472.4478]
+HENSGEN, D., AND FINKEL, R. Dynamic server squads m Yackos. Tech. Rep 138-89, Dept of Computer Scmnce, Univ. of Kentucky, 1989.
+Michael B. Jones , Richard F. Rashid, Mach and Matchmaker: kernel and language support for object-oriented distributed systems, Conference proceedings on Object-oriented programming systems, languages and applications, p.67-77, September 29-October 02, 1986, Portland, Oregon, USA[doi>10.1145/28697.28705]
+Paul A. Karger, Using registers to optimize cross-domain call performance, Proceedings of the third international conference on Architectural support for programming languages and operating systems, p.194-204, April 03-06, 1989, Boston, Massachusetts, USA[doi>10.1145/70082.68201]
+Daniel Lenoski , James Laudon , Kourosh Gharachorloo , Anoop Gupta , John Hennessy, The directory-based cache coherence protocol for the DASH multiprocessor, Proceedings of the 17th annual international symposium on Computer Architecture, p.148-159, May 28-31, 1990, Seattle, Washington, USA[doi>10.1145/325164.325132]
+H. M. Levy , R. H. Eckhouse, Computer programming and architecture: The VAX, Digital Press, Newton, MA, 1989
+B. Liskov , L. Shrira, Promises: linguistic support for efficient asynchronous procedure calls in distributed systems, Proceedings of the ACM SIGPLAN 1988 conference on Programming Language design and Implementation, p.260-267, June 20-24, 1988, Atlanta, Georgia, USA[doi>10.1145/53990.54016]
+Barbara Liskov, Distributed programming in Argus, Communications of the ACM, v.31 n.3, p.300-312, March 1988[doi>10.1145/42392.42399]
+B. Liskov , D. Curtis , P. Johnson , R. Scheifer, Implementation of Argus, Proceedings of the eleventh ACM Symposium on Operating systems principles, p.111-122, November 08-11, 1987, Austin, Texas, USA[doi>10.1145/41457.37514]
+NELSON, B J. Remote procedure call. Ph.D. dissertatmm Dept. of Computer Science, Carnegie Mellon Umv., May 198 t
+John Kenneth Ousterhout, Partitioning and cooperation in a distributed multiprocessor operating system: medusa, Carnegie Mellon University, Pittsburgh, PA, 1980
+Dennis M. Ritchie , Ken Thompson, The UNIX time-sharing system, Communications of the ACM, v.17 n.7, p.365-375, July 1974[doi>10.1145/361011.361061]
+ROBERTS, E. S. AND VANDEVOORDE, M. T. WorkCrews: An abstraction for controlling l~arallelism Tech. Rep. 42, Digital Equipment Corporation, Systems Research Center, Palo Alto, Calif., April 1989.
+ROYNER, P, LEWN, R., AN~ WICK, J. On extending Modula-2 for building large, integrated systems. Tech Rep. 3, Digital Equipment Corporation, Systems Research Center, Palo Alto, Calif., Jan, 1985.
+Sequent Computer Systems, Inc. Symmetry Technical Summary, 1988,
+TEVANIAN, A., RASHID, R. F., GOLUB, D. B., BLACK, D. L., COOPER, E , AND YOUNG, M. W Mach threads and the Unix kernel: The battle for control. In Proceedings of the 1987 USENIX Summer Conference. (1987), 185-197.
+Charles P. Thacker , Lawrence C. Stewart , Edwin H. Satterthwaite, Jr., Firefly: A Multiprocessor Workstation, IEEE Transactions on Computers, v.37 n.8, p.909-920, August 1988[doi>10.1109/12.2243]
+M. Weiser , A. Demers , C. Hauser, The portable common runtime approach to interoperability, Proceedings of the twelfth ACM symposium on Operating systems principles, p.114-122, November 1989[doi>10.1145/74850.74862]

@@ -1,0 +1,34 @@
+F. Baker, Requirements for IP Version 4 Routers, RFC Editor, 1995
+S. Blake , D. Black , M. Carlson , E. Davies , Z. Wang , W. Weiss, An Architecture for Differentiated Service, RFC Editor, 1998
+Kenjiro Cho, A framework for alternate queueing: towards traffic management by PC-UNIX based routers, Proceedings of the annual conference on USENIX Annual Technical Conference, p.21-21, June 15-19, 1998, New Orleans, Louisiana
+CISCO CORPORATION. 1999. Distributed WRED. Technical report. http://www.cisco.com/ univercd/cc/td/doc/product/software/ios111/cc111/wred.htm, as of January 2000.
+David D. Clark, The structuring of systems using upcalls, Proceedings of the tenth ACM symposium on Operating systems principles, p.171-180, December 1985, Orcas Island, Washington, USA[doi>10.1145/323647.323645]
+Dan Decasper , Zubin Dittia , Guru Parulkar , Bernhard Plattner, Router plugins: a software architecture for next generation routers, Proceedings of the ACM SIGCOMM '98 conference on Applications, technologies, architectures, and protocols for computer communication, p.229-240, August 31-September 04, 1998, Vancouver, British Columbia, Canada[doi>10.1145/285237.285285]
+DECASPER, D. S. 1999. A software architecture for next generation routers. Ph.D. thesis, Swiss Federal Institute of Technology, Zurich.
+Mikael Degermark , Andrej Brodnik , Svante Carlsson , Stephen Pink, Small forwarding tables for fast routing lookups, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.3-14, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263133]
+DIGITAL EQUIPMENT CORPORATION. 1998. DIGITAL Semiconductor 21140A PCI Fast Ether-net LAN Controller Hardware Reference Manual. http://developer.intel.com/ design/network/manuals.
+Peter Druschel , Larry L. Peterson , Bruce S. Davie, Experiences with a high-speed network adaptor: a software perspective, Proceedings of the conference on Communications architectures, protocols and applications, p.2-13, August 31-September 02, 1994, London, United Kingdom[doi>10.1145/190314.190315]
+ELISCHER,J.AND COBBS, A. 1998. The Netgraph networking system. Technical report (Jan.), Whistle Communications. http://www.elischer.com/netgraph/, as of July 2000.
+Sally Floyd , Van Jacobson, Random early detection gateways for congestion avoidance, IEEE/ACM Transactions on Networking (TON), v.1 n.4, p.397-413, Aug. 1993[doi>10.1109/90.251892]
+Norman C. Hutchinson , Larry L. Peterson, The X-Kernel: An Architecture for Implementing Network Protocols, IEEE Transactions on Software Engineering, v.17 n.1, p.64-76, January 1991[doi>10.1109/32.67579]
+INTEL CORPORATION. 1996. Pentium Pro Family Developer's Manual, Volume 3. http:// developer.intel.com/design/pro/manuals.
+KOHLER, E. 2000. The Click modular router. Ph.D. thesis, Laboratory for Computer Science, Massachusetts Institute of Technology.
+T. V. Lakshman , Arnold Neidhardt , Teunis J. Ott, The drop from front strategy in TCP and in TCP over ATM, Proceedings of the Fifteenth annual joint conference of the IEEE computer and communications societies conference on The conference on computer communications, March 24-28, 1996, San Francisco, California
+MCCANNE,S.AND JACOBSON, V. 1993. The BSD packet filter: A new architecture for user-level packet capture. In Proc. Winter 1993 USENIX Conference (Jan. 1993), pp. 259-269.
+MCKENNEY, P. E. 1990. Stochastic fairness queueing. In Proc. IEEE Infocom, Volume 2 (June 1990), pp. 733-740.
+MILLS, D. L. 1988. The Fuzzball. In Proc. ACM SIGCOMM Conference (SIGCOMM '88) (Aug. 1988), pp. 115-122.
+Jeffrey C. Mogul , K. K. Ramakrishnan, Eliminating receive livelock in an interrupt-driven kernel, ACM Transactions on Computer Systems (TOCS), v.15 n.3, p.217-252, Aug. 1997[doi>10.1145/263326.263335]
+Robert Morris , Eddie Kohler , John Jannotti , M. Frans Kaashoek, The Click modular router, Proceedings of the seventeenth ACM symposium on Operating systems principles, p.217-231, December 12-15, 1999, Charleston, South Carolina, USA[doi>10.1145/319151.319166]
+David Mosberger , Larry L. Peterson, Making paths explicit in the Scout operating system, Proceedings of the second USENIX symposium on Operating systems design and implementation, p.153-167, October 29-November 01, 1996, Seattle, Washington, USA[doi>10.1145/238721.238771]
+Peter Newman , Greg Minshall , Thomas L. Lyon, IP switching—ATM under IP, IEEE/ACM Transactions on Networking (TON), v.6 n.2, p.117-129, April 1998[doi>10.1109/90.664261]
+K. Nichols , S. Blake , F. Baker , D. Black, Definition of the Differentiated Services Field (DS Field) in the IPv4 and IPv6 Headers, RFC Editor, 1998
+Craig Partridge , Philip P. Carvey , Ed Burgess , Isidro Castineyra , Tom Clarke , Lise Graham , Michael Hathaway , Phil Herman , Allen King , Steve Kohalmi , Tracy Ma , John Mcallen , Trevor Mendez , Walter C. Milliken , Ronald Pettyjohn , John Rokosz , Joshua Seeger , Michael Sollins , Steve Storch , Benjamin Tober , Gregory D. Troxel, A 50-Gb/s IP router, IEEE/ACM Transactions on Networking (TON), v.6 n.3, p.237-248, June 1998[doi>10.1109/90.700888]
+Larry L. Peterson , Scott C. Karlin , Kai Li, OS Support for General-Purpose Routers, Proceedings of the The Seventh Workshop on Hot Topics in Operating Systems, p.38, March 28-30, 1999
+POSTEL, J. 1981a. Internet Protocol. RFC 791 (Sept.), Internet Engineering Task Force. ftp://ftp.ietf.org/rfc/rfc0792.txt.
+POSTEL, J. 1981b. Internet Control Message Protocol. RFC 792 (Sept.), Internet Engineer-ing Task Force. ftp://ftp.ietf.org/rfc/rfc0791.txt.
+RITCHIE, D. M. 1984. A stream input-output system. AT&T Bell Laboratories Technical Journal 63, 8 (Oct.), 1897-1910.
+Jonathan M. Smith , Kenneth L. Calvert , Sandra L. Murphy , Hilarie K. Orman , Larry L. Peterson, Activating Networks: A Progress Report, Computer, v.32 n.4, p.32-41, April 1999[doi>10.1109/2.755003]
+D. L. Tennenhouse , J. M. Smith , W. D. Sincoskie , D. J. Wetherall , G. J. Minden, A survey of active network research, IEEE Communications Magazine, v.35 n.1, p.80-86, January 1997[doi>10.1109/35.568214]
+C. A. Waldspurger , E. Weihl. W., Stride Scheduling: Deterministic Proportional- Share Resource Management, Massachusetts Institute of Technology, Cambridge, MA, 1995
+Marcel Waldvogel , George Varghese , Jon Turner , Bernhard Plattner, Scalable high speed IP routing lookups, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.25-36, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263136]
+WROCLAWSKI, J. 1997. Fast PC routers. Technical report (Jan.), MIT LCS Advanced Net-work Architecture Group. http://mercury.lcs.mit.edu/PC-Routers/pcrouter.html, as of July 2000.

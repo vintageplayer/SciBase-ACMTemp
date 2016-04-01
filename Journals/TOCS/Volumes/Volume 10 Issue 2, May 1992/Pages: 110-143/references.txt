@@ -1,0 +1,39 @@
+David Pope Anderson, A grammar-based methodology for protocol specification and implementation, 1985
+Gregory R. Andrews , Michael Coffin , Irving Elshoff , Kelvin Nilson , Gregg Townsend , Ronald A. Olsson , Titus Purdin, An overview of the SR language and implementation, ACM Transactions on Programming Languages and Systems (TOPLAS), v.10 n.1, p.51-86, Jan. 1988[doi>10.1145/42192.42324]
+Brian N. Bershad , Thomas E. Anderson , Edward D. Lazowska , Henry M. Levy, Lightweight remote procedure call, ACM Transactions on Computer Systems (TOCS), v.8 n.1, p.37-55, Feb. 1990[doi>10.1145/77648.77650]
+Kenneth P. Birman , Thomas A. Joseph, Reliable communication in the presence of failures, ACM Transactions on Computer Systems (TOCS), v.5 n.1, p.47-76, Feb. 1987[doi>10.1145/7351.7478]
+Andrew D. Birrell , Bruce Jay Nelson, Implementing remote procedure calls, ACM Transactions on Computer Systems (TOCS), v.2 n.1, p.39-59, February 1984[doi>10.1145/2080.357392]
+BRADEN, R. T. Transactional TCP. Request for Comments XXXX, USC-ISI, 1991.
+J. B. Carter , W. Zwaenepoel, Optimistic implementation of bulk data transfer protocols, Proceedings of the 1989 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.61-69, May 23-26, 1989, Oakland, California, United States[doi>10.1145/75108.75379]
+Jo-Mei Chang , N. F. Maxemchuk, Reliable broadcast protocols, ACM Transactions on Computer Systems (TOCS), v.2 n.3, p.251-273, Aug. 1984[doi>10.1145/989.357400]
+D Cheriton, VMTP: a transport protocol for the next generation of communication systems, Proceedings of the ACM SIGCOMM conference on Communications architectures & protocols, p.406-415, August 05-07, 1986, Stowe, Vermont, United States[doi>10.1145/18172.18217]
+D. R. Cheriton, Exploiting recursion to simplify RPC communication architectures, Symposium proceedings on Communications architectures and protocols, p.76-87, August 16-18, 1988, Stanford, California, United States[doi>10.1145/52324.52333]
+CLARK, D D. Modularity and efficiency in protocol implementation Request for Comments 817, MIT Laboratory for Computer Science, Computer Systems and Communications Group, July 1982.
+David D. Clark, The structuring of systems using upcalls, Proceedings of the tenth ACM symposium on Operating systems principles, p.171-180, December 1985, Orcas Island, Washington, United States[doi>10.1145/323647.323645]
+D. Clark, The design philosophy of the DARPA internet protocols, Symposium proceedings on Communications architectures and protocols, p.106-114, August 16-18, 1988, Stanford, California, United States[doi>10.1145/52324.52336]
+D. D. Clark , D. L. Tennenhouse, Architectural considerations for a new generation of protocols, Proceedings of the ACM symposium on Communications architectures & protocols, p.200-208, September 26-28, 1990, Philadelphia, Pennsylvania, United States[doi>10.1145/99508.99553]
+CROWCROFT, J., WANG, Z., WAKEMANE, I., AND SIROVICA, D. Layering considered harmful. IEEE Networks (Jan. 1992).
+HEMEK, D., AND ANDERSON, D. Efficient automated protocol implementation using RTAG. Tech. Rep. UCB/CSD 89/?, Univ. of California at Berkeley, Aug. 1988.
+Norman C. Hutchinson , Larry L. Peterson, The X-Kernel: An Architecture for Implementing Network Protocols, IEEE Transactions on Software Engineering, v.17 n.1, p.64-76, January 1991[doi>10.1109/32.67579]
+V. Jacobson, Congestion avoidance and control, Symposium proceedings on Communications architectures and protocols, p.314-329, August 16-18, 1988, Stanford, California, United States[doi>10.1145/52324.52356]
+Simon S. Lam , A. U Shankar, Specifying Modules to Satisfy Interfaces: a State Transition System, University of Texas at Austin, Austin, TX, 1990
+MAKPANGOU, M. Protocols de communications et programmation par objects: L'Example de SOS. Ph D. dissertation, L'Universite de Paris-VI, Feb. 1989.
+MISHRA, S., PETERSON, L. L AND SCHLICHTING, R. D Implementing fault-tolerant replicated objects using Psyuc In Eighth Symposium on Reliable Distributed Systems (Seattle, Wash, Oct. 1989), pp 42-52.
+MISHRA, S., PETERSON, L. L , AND SCHLICHTING, R D. A membership protocol based on partial order. In Second Working Conference on Dependable Computzng for Critical Applications (Tucson, Ariz., Feb. 1990), pp. 137-145.
+O'MALLEY,S. W. ABBOTT, M. B , HUTCHINSON. N. C , AND PETERSON, L. L. A transparent blast facility. Jnternetworking 1, 2 (Dec. 1990), 57-75.
+Larry L. Peterson , Nick C. Buchholz , Richard D. Schlichting, Preserving and using context information in interprocess communication, ACM Transactions on Computer Systems (TOCS), v.7 n.3, p.217-246, Aug. 1989[doi>10.1145/65000.65001]
+PLUMMER, DAn Ethernet address resolution protocolRequest for Comments 826, USC Information Sciences Institute, Marina del Ray. Calif., Nov. 1982.
+POSTEL,J. User datagram protocolRequest for Comments 768, USC Information Sciences Institute, Marina del Ray. Calif., Aug1980.
+POSTEL,J Internet protocol. Request for Comments 791, USC Information Sciences Institute, Marina del Ray, Calif. Sept. 1981.
+Pu, C ,MASSALIN, H., AND IOANNIDIS,J The Synthesis kernel CompzLt. Syst. 1, 1 (Winter 1988), 11-32.
+James Purtilo, Polylith: An environment to support management of tool interfaces, Proceedings of the ACM SIGPLAN 85 symposium on Language issues in programming environments, p.12-18, June 25-28, 1985, Seattle, Washington, United States[doi>10.1145/800225.806822]
+RITCHIE, D M A stream input-output system. AT&T Bell Lab. Tech J 63, 8 (Oct 1984) 311-324
+SHAPIRO, M., GOURHANT, Y , HABERT, S. MOSSERI, L., RUFFIN, M., AND VALOT, C. Sos: An object-oriented operating system-assessmentand perspectives.Comput. Syst. 2, 4 (Dec. 1989), 287-338.
+SUNMICROSYSTEMS, INC Remote Procedure Call Programming Guide, Mountain View, Calif, Feb. 1986.
+A. S. Tanenbaum, Computer networks, Prentice-Hall, Inc., Upper Saddle River, NJ, 1988
+TENNENHOUSE, D. LLayered multiplexing considered harmfulIn Protocols of High-speed Networks, H. Rudin and R. Williamson, Eds., Elsevier, New York, 1989.
+USC Transmission control protocol Request for Comments 793. USC Information Sciences Institute, Marina del Ray, Calif. Sept. 1981.
+Robbert van Renesse , Hans van Staveren , Andrew S. Tanenbaum, Performance of the world's fastest distributed operating system, ACM SIGOPS Operating Systems Review, v.22 n.4, p.25-34, Oct. 1988[doi>10.1145/54289.54291]
+Brent B Welch, The Sprite Remote Procedure Call System, University of California at Berkeley, Berkeley, CA, 1986
+ZIMMERMAN, H.Osi reference model-the is0 model of architecture for open systems interconnection. IEEE Trans. Commun. COM-28, 4 (Apr. 1980), 425-432.
+Willy Zwaenepoel, Protocols for large data transfers over local networks, Proceedings of the ninth symposium on Data communications, p.22-32, September 1985, Whistler Moutain, British Columbia, Canada[doi>10.1145/319056.319001]

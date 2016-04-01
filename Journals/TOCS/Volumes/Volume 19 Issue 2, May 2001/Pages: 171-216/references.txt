@@ -1,0 +1,54 @@
+AMIR, Y., CHOKLER,G.V.,DOLEV, D., AND VITENBERG, R. 1997. Efficient state transfer in partitionable environments. In Proceedings of 2nd European Research Seminar on Advances in Distributed Systems (ERSADS'97, Zinal, Switzerland, Mar.). 183-192.
+AMIR, Y., DOLEV, D., KRAMER, S., AND MALKI, D. 1992. Transis: A communication subsystem for high availability. In Proceedings of the 22nd IEEE Symposium on Fault-Tolerant Computing (FTCS, Boston, MA, July). IEEE Press, Piscataway, NJ, 76-84.
+AMIR, Y., DOLEV, D., MELLIAR-SMITH, P., AND MOSER, L. 1994. Robust and efficient replication using group communication. 94-20.
+AMIR, Y., MOSER, L., MELLIAR-SMITH, P., AGRAWAL, D., AND CIARFELLA, P. 1993. Fast message ordering and membership using a logical token-passing ring. In Proceedings of 13th IEEE International Conference on Distributed Computing Systems (May). IEEE Press, Piscat-away, NJ, 551-560.
+Y. Amir , L. E. Moser , P. M. Melliar-Smith , D. A. Agarwal , P. Ciarfella, The Totem single-ring ordering and membership protocol, ACM Transactions on Computer Systems (TOCS), v.13 n.4, p.311-342, Nov. 1995[doi>10.1145/210223.210224]
+O. Babaoglu , R. Davoli , L. -A. Giachini , M. Gray Baker, RELACS: A communications infrastructure for constructing reliable applications in large-scale distributed systems, Proceedings of the 28th Hawaii International Conference on System Sciences, p.612, January 04-07, 1995
+O. Babaoglu , R. Davoli , A. Montresor, Group Membership and View Synchrony in Partitionable Asynchronous Distributed Systems: Specifications, University of Bologna, 1995
+Özalp Babaoglu , Renzo Davoli , Luigi Giachini , Paolo Sabattini, The Inherent Cost of Strong-Partial View-Synchronous Communication, Proceedings of the 9th International Workshop on Distributed Algorithms, p.72-86, September 13-15, 1995
+O. Babaoglu , R. Davoli , A. Montresor, Group Communication in Partitionable Systems: Specification and Algorithms, University of Bologna, 1998
+Kenneth P. Birman, Building Secure and Reliable Network Applications, Prentice Hall PTR, Upper Saddle River, NJ, 1996
+Kenneth P. Briman, A review of experiences with reliable multicast, Software—Practice & Experience, v.29 n.9, p.741-774, July 25, 1999[doi>10.1002/(SICI)1097-024X(19990725)29:9<741::AID-SPE259>3.0.CO;2-I]
+Kenneth P. Birman , Robert V. Renesse , Robbert Van Renesse, Reliable Distributed Computing with the ISIS Toolkit, IEEE Computer Society Press, Los Alamitos, CA, 1994
+Kenneth Birman , André Schiper , Pat Stephenson, Lightweight causal and atomic group multicast, ACM Transactions on Computer Systems (TOCS), v.9 n.3, p.272-314, Aug. 1991[doi>10.1145/128738.128742]
+Tushar Deepak Chandra , Vassos Hadzilacos , Sam Toueg , Bernadette Charron-Bost, On the impossibility of group membership, Proceedings of the fifteenth annual ACM symposium on Principles of distributed computing, p.322-330, May 23-26, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/248052.248120]
+CHEINER,O.AND SHVARTSMAN, A. A. 1999. Implementing and evaluating an eventually-serializable data service as a distributed system building block. In Networks in Distributed Computing. DIMACS Series on Discrete Mathematics and Theoretical Computer Science, vol. 45. 43-71.
+COHEN, J., ED. 1996. Commun. ACM. 39, 4 (Apr.).
+Flaviu Cristian, Synchronous and asynchronous, Communications of the ACM, v.39 n.4, p.88-97, April 1996[doi>10.1145/227210.227231]
+F. Cristian, Group, majority, and strict agreement in timed asynchronous distributed systems, Proceedings of the The Twenty-Sixth Annual International Symposium on Fault-Tolerant Computing (FTCS '96), p.178, June 25-27, 1996
+CRISTIAN,F.AND SCHMUCK, F. 1995. Agreeing on processor group membership in asynchronous distributed systems. CSE95-428.
+Roberto De Prisco , Alan Fekete , Nancy Lynch , Alex Shvartsman, A dynamic view-oriented group communication service, Proceedings of the seventeenth annual ACM symposium on Principles of distributed computing, p.227-236, June 28-July 02, 1998, Puerto Vallarta, Mexico[doi>10.1145/277697.277739]
+DE PRISCO, R., FEKETE, A., LYNCH, N., AND SHVARTSMAN, A. A. 1999. Dynamic primary configuration group communication service. In Proceedings of the 13th International Conference on Distributed Computing (DISC).
+Danny Dolev , Dalia Malki, The Transis approach to high availability cluster communication, Communications of the ACM, v.39 n.4, p.64-70, April 1996[doi>10.1145/227210.227227]
+DOLEV, D., MALKI, D., AND STRONG, R. 1994. A framework for partitionable membership service. TR94-6.
+DOLEV, S., SEGALA, R., AND SHVARTSMAN, A. 1999. Dynamic load balancing with group communication. In Proceedings of the Sixth International Colloquium on Structural Information and Communication Complexity.
+P. D. Ezhilchelvan , R. A. Macedo , S. K. Shrivastava, Newtop: a fault-tolerant group communication protocol, Proceedings of the 15th International Conference on Distributed Computing Systems, p.296, May 30-June 02, 1995
+A. Fekete , M. F. Kaashoek , N. Lynch, Implementing sequentially consistent shared objects using broadcast and point-to-point communication, Proceedings of the 15th International Conference on Distributed Computing Systems, p.439, May 30-June 02, 1995
+Roger I. Khazan , Alan Fekete , Nancy A. Lynch, Multicast Group Communication as a Base for a Load-Balancing Replicated Data Service, Proceedings of the 12th International Symposium on Distributed Computing, p.258-272, September 24-26, 1998
+FRIEDMAN,R.AND VAN RENESSE, R. 1995. Strong and weak virtual synchrony in Horus. Tech Rep. TR-95-1537. Department of Computer Science, Cornell University, Ithaca, NY.
+R. Friedman , A. Vaysburd, Fast Replicated State Machines Over Partitionable Networks, Proceedings of the 16th Symposium on Reliable Distributed Systems, p.130, October 22-24, 1997
+Mark Garland Hayden, The ensemble system, Cornell University, Ithaca, NY, 1998
+Mark Hayden , Robbert vanRenesse, Optimizing Layered Communication Protocols, Cornell University, Ithaca, NY, 1996
+HICKEY, J., LYNCH, N., AND VAN RENESSE, R. 1999. Specifications and proofs of ensemble layers. In Proceedings of the Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS'99).
+HILTUNEN,M.AND SCHLICHTING, R. 1995. Properties of membership services. In Proceedings of the 2nd IEEE Symposium on Autonomous Decentralized Systems (Phoenix, AZ, Apr.). IEEE Press, Piscataway, NJ, 200-207.
+JAHANIAN, F., FAKHOURI, S., AND RAJKUMAR, R. 1993. Processor group membership protocols: Specification, design and implementation. In Proceedings of the 12th IEEE Symposium on Reliable Distributed Systems (Princeton, NJ, Oct.). IEEE Press, Piscataway, NJ, 2-11.
+KEIDAR, I. 1994. A highly available paradigm for consistent object replication. Master's Thesis. See also TR CS95-5 available at http://www.cs.huji.ac.il/ztransis/publications.html.
+Idit Keidar , Danny Dolev, Efficient message ordering in dynamic networks, Proceedings of the fifteenth annual ACM symposium on Principles of distributed computing, p.68-76, May 23-26, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/248052.248062]
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+Nancy A. Lynch, Distributed Algorithms, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1996
+LYNCH,N.A.AND TUTTLE, M. R. 1989. An introduction to input/output automata. CWI Q. 2, 3, 219-246.
+Nancy Lynch , Frits Vaandrager, Forward and backward simulations I.: untimed systems, Information and Computation, v.121 n.2, p.214-233, Sept. 1995[doi>10.1006/inco.1995.1134]
+Nancy Lynch , Frits Vaandrager, Forward and backward simulations II.: timing-based systems, Information and Computation, v.128 n.1, p.1-25, July 10, 1996[doi>10.1006/inco.1996.0060]
+MALLOTH,C.AND SCHIPER, A. 1995. View synchronous communication in large scale networks. In Proceedings of the 2nd Open Workshop on ESPRIT Project BROADCAST (July).
+MISHRA, S., PETERSON,L.L.,AND SCHLICHTING, R. L. 1991. Consul: A communication substrate for fault-tolerant distributed programs. TR 91-32.
+A. Montresor , R. Davoli , O. Babaoglu, Group-Enhanced Remote Method Invocations, University of Bologna, 1999
+MOSER,L.E.,AMIR, Y., MELLIAR-SMITH,P.M.,AND AGARWAL, D. A. 1994. Extended virtual synchrony. In Proceedings of the 14th IEEE International Conference on Distributed Computing Systems (ICDCS '94, Poznan, Poland, June). IEEE Computer Society Press, Los Alamitos, CA, 56-65.
+L. E. Moser , P. M. Melliar-Smith , D. A. Agarwal , R. K. Budhia , C. A. Lingley-Papadopoulos, Totem: a fault-tolerant multicast group communication system, Communications of the ACM, v.39 n.4, p.54-63, April 1996[doi>10.1145/227210.227226]
+Gil Neiger, A new look at membership services (extended abstract), Proceedings of the fifteenth annual ACM symposium on Principles of distributed computing, p.331-340, May 23-26, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/248052.248121]
+RICCIARDI, A. 1992. The group membership problem in asynchronous systems. TR92-1313.
+Aleta M. Ricciardi , Andre Schiper , Kenneth P. Birman, Understanding Partitions and the ``No Partition'''' Assumption, Cornell University, Ithaca, NY, 1993
+Fred B. Schneider, Implementing fault-tolerant services using the state machine approach: a tutorial, ACM Computing Surveys (CSUR), v.22 n.4, p.299-319, Dec. 1990[doi>10.1145/98163.98167]
+Robbert van Renesse , Ken Birman , Mark Hayden , Alexey Vaysburd , David Karr, Building adaptive systems using ensemble, Software—Practice & Experience, v.28 n.9, p.963-979, July 25, 1998[doi>10.1002/(SICI)1097-024X(19980725)28:9<963::AID-SPE179>3.0.CO;2-9]
+Robbert van Renesse , Kenneth P. Birman , Silvano Maffeis, Horus: a flexible group communication system, Communications of the ACM, v.39 n.4, p.76-83, April 1996[doi>10.1145/227210.227229]
+VITENBERG, R., KEIDAR, I., CHOCKLER,G.V.,AND DOLEV, D. 1999. Group communication specifications: A comprehensive study. Tech. Rep. MIT-LCS-TR-790. MIT Laboratory for Computer Science, Cambridge, MA. http://theory.lcs.mit.edu/idish/ftp/gcs-survey-tr.ps.
+Brian Whetten , Todd Montgomery , Simon M. Kaplan, A High Performance Totally Ordered Multicast Protocol, Selected Papers from the International Workshop on Theory and Practice in Distributed Systems, p.33-57, September 05-09, 1994

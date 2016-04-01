@@ -1,0 +1,37 @@
+Allon Adir , Hagit Attiya , Gil Shurek, Information-Flow Models for Shared Memory with an Application to the PowerPC Architecture, IEEE Transactions on Parallel and Distributed Systems, v.14 n.5, p.502-515, May 2003[doi>10.1109/TPDS.2003.1199067]
+Mustaque Ahamad , Rida A. Bazzi , Ranjit John , Prince Kohli , Gil Neiger, The power of processor consistency, Proceedings of the fifth annual ACM symposium on Parallel algorithms and architectures, p.251-260, June 30-July 02, 1993, Velen, Germany[doi>10.1145/165231.165264]
+Ahamad, M., Neiger, G., Burns, J., Kohli, P., and Hutto, P. 1995. Causal memory: Definitions, implementations, and programming. Distrib. Comput. 9, 37--49.
+Frank D. Anger, On Lamport's interprocessor communication model, ACM Transactions on Programming Languages and Systems (TOPLAS), v.11 n.3, p.404-417, July 1989[doi>10.1145/65979.65982]
+Hagit Attiya , Soma Chaudhuri , Roy Friedman , Jennifer L. Welch, Shared Memory Consistency Conditions for Nonsequential Execution: Definitions and Programming Strategies, SIAM Journal on Computing, v.27 n.1, p.65-89, Feb. 1998[doi>10.1137/S0097539794278396]
+Hagit Attiya , Roy Friedman, A correctness condition for high-performance multiprocessors (extended abstract), Proceedings of the twenty-fourth annual ACM symposium on Theory of computing, p.679-690, May 04-06, 1992, Victoria, British Columbia, Canada[doi>10.1145/129712.129778]
+Hagit Attiya , Roy Friedman, Programming DEC-Alpha based multiprocessors the easy way (extended abstract), Proceedings of the sixth annual ACM symposium on Parallel algorithms and architectures, p.157-166, June 27-29, 1994, Cape May, New Jersey, USA[doi>10.1145/181014.192323]
+Compaq Computer Corporation 1998. The Alpha Architecture Handbook. Compaq Computer Corporation. Order number: EC-QD2KC-TE.
+M. Dubois , C. Scheurich , F. Briggs, Memory access buffering in multiprocessors, Proceedings of the 13th annual international symposium on Computer architecture, p.434-442, June 02-05, 1986, Tokyo, Japan
+Roy Friedman, Implementing hybrid consistency with high-level synchronization operations, Distributed Computing, v.9 n.3, p.119-129, December 1995[doi>10.1007/s004460050014]
+Frigo, M. 1998. The weakest reasonable memory model. M.S. dissertation. Department of Electrical Engineering and Computer Science, MIT, Cambridge, MA.
+Phillip B. Gibbons , Michael Merritt, Specifying non-blocking shared memories (extended abstract), Proceedings of the fourth annual ACM symposium on Parallel algorithms and architectures, p.306-315, June 29-July 01, 1992, San Diego, California, USA[doi>10.1145/140901.141895]
+Alex Gontmakher , Assaf Schuster, Java consistency: nonoperational characterizations for Java memory behavior, ACM Transactions on Computer Systems (TOCS), v.18 n.4, p.333-386, Nov. 2000[doi>10.1145/362670.362673]
+Goodman, J. 1989. Cache consistency and sequential consistency. Tech. Rep. 61, IEEE Scalable Coherent Interface Working Group. March.
+Maurice P. Herlihy , Jeannette M. Wing, Linearizability: a correctness condition for concurrent objects, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.3, p.463-492, July 1990[doi>10.1145/78969.78972]
+Lisa Higham , Jalal Kawash, Java: Memory Consistency and Process Coordination, Proceedings of the 12th International Symposium on Distributed Computing, p.201-215, September 24-26, 1998
+Higham, L. and Kawash, J. 2000. Memory consistency and process coordination for SPARC multiprocessors. In Proceedings of the 7th International Conference on High Performance Computing. Lecture Notes in Computer Science, vol. 1970, Springer-Verlag, New York, 355--366.
+Higham, L. and Kawash, J. 2005. Process coordination in the absence of sequential consistency. In Preparation.
+Hoare, C. A. R. 1972. Towards a theory of parallel programming. In Operating System Techniques, C. A. R. Hoare and R. H. Perrott, Eds. Academic Press, Orland, FL.
+Intel Corporation 2002. Intel itanium architecture software developer's manual, Volume 2: System architecture. http://www.intel.com/.
+International Business Machines Corporation 1997. PowerPC microprocessor family: The programming environments for 32-bit microprocessor. http://www-3.ibm.com/chips/techlib/techlib.nsf/productfamilies/PowerPC.
+Jalal Yusef Kawash , Lisa Higham, Limitations and capabilities of weak memory consistency systems, University of Calgary, Calgary, Alta., Canada, 2000
+Kohli, P., Neiger, G., and Ahamad, M. 1993. A characterization of scalable shared memories. In Proceedings of the 1993 International Conference on Parallel Processing.
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+Lamport, L. 1979a. How to make a multiprocessor computer that correctly executes multiprocess programs. IEEE Trans. Comput. C-28, 9 (Sept.), 690--691.
+Leslie Lamport, A New Approach to Proving the Correctness of Multiprocess Programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.1 n.1, p.84-97, July 1979[doi>10.1145/357062.357068]
+Leslie Lamport, The mutual exclusion problem: partII—statement and solutions, Journal of the ACM (JACM), v.33 n.2, p.327-348, April 1986[doi>10.1145/5383.5385]
+Lamport, L. 1986b. On interprocess communication (Parts I and II). Distr. Comput. 1, 2, 77--85 and 86--101.
+Leslie Lamport, How to Make a Correct Multiprocess Program Execute Correctly on a Multiprocessor, IEEE Transactions on Computers, v.46 n.7, p.779-782, July 1997[doi>10.1109/12.599898]
+Nancy A. Lynch, Distributed Algorithms, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1996
+Lynch, N. and Tuttle, M. 1989. An introduction to input/output automata. CWI Quarterly 2, 3 (Sept.), 219--246.
+J. Misra, Axioms for memory access in asynchronous hardware systems, ACM Transactions on Programming Languages and Systems (TOPLAS), v.8 n.1, p.142-153, Jan. 1986[doi>10.1145/5001.5007]
+Susan Owicki , David Gries, Verifying properties of parallel programs: an axiomatic approach, Communications of the ACM, v.19 n.5, p.279-285, May 1976[doi>10.1145/360051.360224]
+Seungjoon Park , David L. Dill, An Executable Specification and Verifier for Relaxed Memory Order, IEEE Transactions on Computers, v.48 n.2, p.227-235, February 1999[doi>10.1109/12.752664]
+CORPORATE SPARC International, Inc., The SPARC architecture manual: version 8, Prentice-Hall, Inc., Upper Saddle River, NJ, 1992
+Sun Microsystems. 2004. http://www.sun.com/processors/whitepapers/us4_whitepaper.pdf.
+Weaver, D. and Germond, T., Eds. 1994--2000. The SPARC Architecture Manual version 9. Prentice-Hall, Englewood Sliffs, NJ. http://developers.sun.com/solaris/articles/sparcv9.pdf.

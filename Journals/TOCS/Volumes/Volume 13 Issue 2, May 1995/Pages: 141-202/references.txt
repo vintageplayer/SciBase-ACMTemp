@@ -1,0 +1,37 @@
+AARSETH, S. J., HENON, M., AND WIELEN, R. 1974. Astronomy Astrophysics 37.
+APPEL, A. A. 1985. An efficient program for many body simulation. SIAM J. Sc#. Star. Comput. 6, 85-93.
+BARNES, J. E. AND HUT, P. 1989. Error analysis of a tree code. Astrophysics J. Suppl. 70, 389-417.
+BARNES, J. E. AND HUT, P. 1986. A hierarchical O(N log N) force calculation algorithm. Nature 324, 4, 446-449.
+David Chaiken , John Kubiatowicz , Anant Agarwal, LimitLESS directories: A scalable cache coherence scheme, Proceedings of the fourth international conference on Architectural support for programming languages and operating systems, p.224-234, April 08-11, 1991, Santa Clara, California, USA[doi>10.1145/106972.106995]
+Tony F. Chan, Hierarchical algorithms and architectures for parallel scientific computing, Proceedings of the 4th international conference on Supercomputing, p.318-329, June 11-15, 1990, Amsterdam, The Netherlands[doi>10.1145/77726.255171]
+C#OR#N, A.J. 1973. Numerical study of slightly viscous flow. J. Fluid Mech. 57, 785-796.
+Peter J. Denning, The working set model for program behavior, Communications of the ACM, v.11 n.5, p.323-333, May 1968[doi>10.1145/363095.363141]
+S. J. Eggers , R. H. Katz, The effect of sharing on the cache and bus performance of parallel programs, Proceedings of the third international conference on Architectural support for programming languages and operating systems, p.257-270, April 03-06, 1989, Boston, Massachusetts, USA[doi>10.1145/70082.68206]
+Fox, G.C. 1988. A graphical approach to load balancing and sparse matrix vector multiplication on the hypercube. In Numerical Algorithms for Modern Parallel Computer Architectures. Springer-Verlag, New York, 37-62.
+Kourosh Gharachorloo , Anoop Gupta , John Hennessy, Performance evaluation of memory consistency models for shared-memory multiprocessors, Proceedings of the fourth international conference on Architectural support for programming languages and operating systems, p.245-257, April 08-11, 1991, Santa Clara, California, USA[doi>10.1145/106972.106997]
+Stephen R. Goldschmidt , Helen Davis, Tango introduction and tutorial, Stanford University, Stanford, CA, 1990
+Leslie Frederick Greengard, The rapid evaluation of potential fields in particle systems, Yale University, New Haven, CT, 1987
+L. Greengard , V. Rokhlin, A fast algorithm for particle simulations, Journal of Computational Physics, v.73 n.2, p.325-348, December 1, 1987[doi>10.1016/0021-9991(87)90140-9]
+GUPTA, A., WEBER, W.-D., AND MOWRY, T. 1990. Reducing memory and traffic requirements for scalable directory-based cache coherence schemes. In Proceedings of the 1990 Internatmnal Conference on Parallel Processing. 312-321.
+GUSTAFSON, J. L., MONTRY, G. R., AND BRENNER, R.E. 1988. Development of parallel methods for a 1024-processor hypercube. SIAM J. Sc#. Stat. Comput. 9, 4 (July), 532-533.
+HAGARSTEN, E., HARIDI, S., AND WARREN, D. H.D. 1990. The cache coherence protocol of the data diffusion machine. In Cache and Interconnect Architectures in Multiprocessors. Kluwer Academic, Amsterdam.
+Pat Hanrahan , David Salzman , Larry Aupperle, A rapid hierarchical radiosity algorithm, Proceedings of the 18th annual conference on Computer graphics and interactive techniques, p.197-206, July 1991[doi>10.1145/122718.122740]
+HERNQUIST, L. 1987. Performance characteristics of tree codes. Astrophysics J. Supp. 64, 715-734.
+HOLT, C. AND SINGH, J. P. 1995. Hierarchical N-body methods on shared address space multiprocessors. In Proceedings of the 7th SIAM Conference on Parallel Processing for Scientific Computing (Feb.). SIAM, Philadelphia, Pa.
+JAMES, D.V. 1989. P1596-SCI coherence overview. Tech. Rep. 27, SCI Committee, Mar.
+Daniel Lenoski , James Laudon , Kourosh Gharachorloo , Anoop Gupta , John Hennessy, The directory-based cache coherence protocol for the DASH multiprocessor, Proceedings of the 17th annual international symposium on Computer Architecture, p.148-159, May 28-31, 1990, Seattle, Washington, USA[doi>10.1145/325164.325132]
+Kai Li , Paul Hudak, Memory coherence in shared virtual memory systems, ACM Transactions on Computer Systems (TOCS), v.7 n.4, p.321-359, Nov. 1989[doi>10.1145/75104.75105]
+ROKHLIN, V. 1985. Rapid solution of integral equations of classical potential theory. J. Comput. Phys. 60, 187-207.
+John K. Salmon, Parallel hierarchical N-body methods, California Institute of Technology, Pasadena, CA, 1992
+SCALES, D. AND LAM, M. 1994. A comparison of shared and distributed memory multiprocessors for performance and programmability. To appear as a Tech. Rep. of the Computer Systems Laboratory, Stanford University.
+SCOTT, S. 1991. A cache coherence mechanism for scalable, shared-memory multiprocessors. In Proceedtngs of the Internattonal Symposium on Shared Memory Multiprocessing (Apr.). 49-59.
+SIMONI, Z. AND HOROWITZ, M. 1991. Dynamic pointer allocation for scalable cache coherence directories. In Proceedings of the International Symposium on Shared Memory Multiprocessmg (Apr.). 72-81.
+Jaswinder Pal Singh, Parallel hierarchical N-body methods and their implications for multiprocessors, Stanford University, Stanford, CA, 1993
+Jaswinder Pal Singh , John L. Hennessy, Finding and exploiting parallelism in an ocean simulation program: experience, results, and implications, Journal of Parallel and Distributed Computing, v.15 n.1, p.27-48, May 1992[doi>10.1016/0743-7315(92)90056-S]
+Jaswinder Pal Singh , Anoop Gupta , Marc Levoy, Parallel Visualization Algorithms: Performance and Architectural Implications, Computer, v.27 n.7, p.45-55, July 1994[doi>10.1109/2.299410]
+Jaswinder Pal Singh , John L. Hennessy , Anoop Gupta, Scaling Parallel Programs for Multiprocessors: Methodology and Examples, Computer, v.26 n.7, p.42-50, July 1993[doi>10.1109/MC.1993.274941]
+Jaswinder Pal Singh , Chris Holt , Takashi Totsuka , Anoop Gupta , John Hennessy, Load balancing and data locality in adaptive hierarchicalN-body methods: Barnes-Hut, fast multipole, and radiosity, Journal of Parallel and Distributed Computing, v.27 n.2, p.118-141, June 1995[doi>10.1006/jpdc.1995.1077]
+Jaswinder P Singh , Wolf Weber , Anoop Gupta, SPLASH: Stanford parallel applications for shared-memory*, Stanford University, Stanford, CA, 1992
+TORRELLAS, J., LAM, M. S., AND HENNESSY, J.L. 1990. Measurement, analysis, and improvement of the cache behavior of shared data in cache coherent multiprocessors. Tech. Rep. CSL-TR-90-412, Stanford Univ., Stanford, Calif.
+M. S. Warren , J. K. Salmon, A parallel hashed Oct-Tree N-body algorithm, Proceedings of the 1993 ACM/IEEE conference on Supercomputing, p.12-21, November 15-19, 1993, Portland, Oregon, USA[doi>10.1145/169627.169640]
+W. Weber , A. Gupta, Analysis of cache invalidation patterns in multiprocessors, Proceedings of the third international conference on Architectural support for programming languages and operating systems, p.243-256, April 03-06, 1989, Boston, Massachusetts, USA[doi>10.1145/70082.68205]

@@ -1,0 +1,47 @@
+Amir, Y., Danilov, C., Miskin-Amir, M., Schultz, J., and Stanton, J. 2004. The spread toolkit: Architecture and performance. Tech. rep., CNDS-2004-1, Johns Hopkins Univ.
+Y. Amir , L. E. Moser , P. M. Melliar-Smith , D. A. Agarwal , P. Ciarfella, The Totem single-ring ordering and membership protocol, ACM Transactions on Computer Systems (TOCS), v.13 n.4, p.311-342, Nov. 1995[doi>10.1145/210223.210224]
+E. Anceaume, A Lightweight Solution to Uniform Atomic Broadcast for Asynchronous Systems, Proceedings of the 27th International Symposium on Fault-Tolerant Computing (FTCS '97), p.292, June 25-27, 1997
+Armstrong, S., Freier, A., and Marzullo, K. 1992. Multicast transport protocol. RFC 1301, IETF.
+Roberto Baldoni , Stefano Cimmino , Carlo Marchetti, A classification of total order specifications and its application to fixed sequencer-based implementations, Journal of Parallel and Distributed Computing, v.66 n.1, p.108-127, January 2006[doi>10.1016/j.jpdc.2005.06.021]
+Ban, B. 2007. JGroups—A Toolkit for Reliable Multicast Communication. http://www.jgroups.org.
+A. Bar-Noy , S. Kipnis, Designing broadcasting algorithms in the Postal Model for message-passing systems, Mathematical Systems Theory, v.27 n.5, p.431-452, Sept./Oct. 1994[doi>10.1007/BF01184933]
+Bar-Noy, A. and Kipnis, S. 1997. Multiple message broadcasting in the postal model. Networks 29, 1, 1--10.
+K. Birman , T. Joseph, Exploiting virtual synchrony in distributed systems, Proceedings of the eleventh ACM Symposium on Operating systems principles, p.123-138, November 08-11, 1987, Austin, Texas, USA[doi>10.1145/41457.37515]
+Kenneth P. Birman , Thomas A. Joseph, Reliable communication in the presence of failures, ACM Transactions on Computer Systems (TOCS), v.5 n.1, p.47-76, Feb. 1987[doi>10.1145/7351.7478]
+Kenneth P. Birman , Robbert Van Renesse, Reliable Distributed Computing with the ISIS Toolkit, IEEE Computer Society Press, Los Alamitos, CA, 1993
+Carr, R. 1985. The tandem global update protocol. Tandem Syst. Rev. 1, 74--85.
+Emmanuel Cecchet , Julie Marguerite , Willy Zwaenepole, C-JDBC: flexible database clustering middleware, Proceedings of the annual conference on USENIX Annual Technical Conference, p.26-26, June 27-July 02, 2004, Boston, MA
+Tushar Deepak Chandra , Sam Toueg, Unreliable failure detectors for reliable distributed systems, Journal of the ACM (JACM), v.43 n.2, p.225-267, March 1996[doi>10.1145/226643.226647]
+Jo-Mei Chang , N. F. Maxemchuk, Reliable broadcast protocols, ACM Transactions on Computer Systems (TOCS), v.2 n.3, p.251-273, Aug. 1984[doi>10.1145/989.357400]
+Cristian, F. 1991. Asynchronous atomic broadcast. IBM Tech. Discl. Bull. 33, 9, 115--116.
+Cristian, F., Mishra, S., and Alvarez, G. 1997. High-performance asynchronous atomic broadcast. Distrib. Syst. Eng. J. 4, 2 (Jun), 109--128.
+David Culler , Richard Karp , David Patterson , Abhijit Sahay , Klaus Erik Schauser , Eunice Santos , Ramesh Subramonian , Thorsten von Eicken, LogP: towards a realistic model of parallel computation, Proceedings of the fourth ACM SIGPLAN symposium on Principles and practice of parallel programming, p.1-12, May 19-22, 1993, San Diego, California, USA[doi>10.1145/155332.155333]
+Défago, X., Schiper, A., and Urbán, P. 2003. Comparative performance analysis of ordering strategies in atomic broadcast algorithms. IEICE Trans. Inf. Syst. E86-D, 12, 2698--2709.
+Xavier Défago , André Schiper , Péter Urbán, Total order broadcast and multicast algorithms: Taxonomy and survey, ACM Computing Surveys (CSUR), v.36 n.4, p.372-421, December 2004[doi>10.1145/1041680.1041682]
+John Dunagan , Nicholas J. A. Harvey , Michael B. Jones , Dejan Kostić , Marvin Theimer , Alec Wolman, FUSE: lightweight guaranteed distributed failure notification, Proceedings of the 6th conference on Symposium on Opearting Systems Design & Implementation, p.11-11, December 06-08, 2004, San Francisco, CA
+Richard Ekwall , Andre Schiper , Peter Urban, Token-based Atomic Broadcast using Unreliable Failure Detectors, Proceedings of the 23rd IEEE International Symposium on Reliable Distributed Systems, p.52-65, October 18-20, 2004
+P. D. Ezhilchelvan , R. A. Macedo , S. K. Shrivastava, Newtop: a fault-tolerant group communication protocol, Proceedings of the 15th International Conference on Distributed Computing Systems, p.296, May 30-June 02, 1995
+Toy Friedman , Robbert Van Renesse, Packing Messages as a Tool for Boosting the Performance of Total Ordering Protocls, Proceedings of the 6th IEEE International Symposium on High Performance Distributed Computing, p.233, August 05-08, 1997
+Udo Fritzke , Philippe Ingels , Achour Mostefaoui , Michel Raynal, Consensus-Based Fault-Tolerant Total Order Multicast, IEEE Transactions on Parallel and Distributed Systems, v.12 n.2, p.147-156, February 2001[doi>10.1109/71.910870]
+Hector Garcia-Molina , AnneMarie Spauster, Ordered and reliable multicast communication, ACM Transactions on Computer Systems (TOCS), v.9 n.3, p.242-271, Aug. 1991[doi>10.1145/128738.128741]
+Ajei S. Gopal , Sam Toueg, Reliable Broadcast in Synchronous and Asynchronous Environments (Preliminary Version), Proceedings of the 3rd International Workshop on Distributed Algorithms, p.110-123, September 26-28, 1989
+Rachid Guerraoui , Dejan Kostic , Ron R. Levy , Vivien Quema, A High Throughput Atomic Storage Algorithm, Proceedings of the 27th International Conference on Distributed Computing Systems, p.19, June 25-27, 2007[doi>10.1109/ICDCS.2007.80]
+Rachid Guerraoui , Ron R. Levy , Bastian Pochon , Vivien Quema, High Throughput Total Order Broadcast for Cluster Environments, Proceedings of the International Conference on Dependable Systems and Networks, p.549-557, June 25-28, 2006[doi>10.1109/DSN.2006.37]
+Vassos Hadzilacos , Sam Toueg, Fault-tolerant broadcasts and related problems, Distributed systems (2nd Ed.), ACM Press/Addison-Wesley Publishing Co., New York, NY, 1993
+Jones, R. 2007. Netperf. http://www.netperf.org/.
+An evaluation of the Amoeba group communication system, Proceedings of the 16th International Conference on Distributed Computing Systems (ICDCS '96), p.436, May 27-30, 1996
+Kim, J. and Kim, C. 1997. A total ordering protocol using a dynamic token-passing scheme. Distrib. Syst. Eng. J. 4, 2, 87--95.
+S. W. Luan , V. D. Gligor, A Fault-Tolerant Protocol for Atomic Broadcast, IEEE Transactions on Parallel and Distributed Systems, v.1 n.3, p.271-285, July 1990[doi>10.1109/71.80156]
+Nancy A. Lynch, Distributed Algorithms, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1996
+Malhis, L., Sanders, W., and Schlichting, R. 1996. Numerical performability evaluation of a group multicast protocol. Distrib. Syst. Enj. J. 3, 1, 39--52.
+Louise E. Moser , P. M. Melliar-Smith , Vivek Agrawala, Asynchronous fault-tolerant total ordering algorithms, SIAM Journal on Computing, v.22 n.4, p.727-750, Aug. 1993[doi>10.1137/0222048]
+Ng, T. 1991. Ordered broadcasts for large applications. In Proceedings of the 10th IEEE International Symposium on Reliable Distributed Systems (SRDS'91). IEEE Computer Society Press, Los Alamitos, CA, 188--197.
+Larry L. Peterson , Nick C. Buchholz , Richard D. Schlichting, Preserving and using context information in interprocess communication, ACM Transactions on Computer Systems (TOCS), v.7 n.3, p.217-246, Aug. 1989[doi>10.1145/65000.65001]
+H. Fonseca, Totally ordered multicast in large-scale systems, Proceedings of the 16th International Conference on Distributed Computing Systems (ICDCS '96), p.503, May 27-30, 1996
+Fred B. Schneider, Implementing fault-tolerant services using the state machine approach: a tutorial, ACM Computing Surveys (CSUR), v.22 n.4, p.299-319, Dec. 1990[doi>10.1145/98163.98167]
+Stanton, J. R. 2002. A Users Guide to Spread. http://www.spread.org/docs/guide/users_guide.pdf.
+Urbán, P., Dfago, X., and Schiper, A. 2000. Contention-aware metrics for distributed algorithms: Comparison of atomic broadcast algorithms. In Proceedings of the 9th IEEE International Conference on Computer Communications and Networks (IC3N2000). IEEE Computer Society Press, Los Alamitos, CA, 582--589.
+Robbert van Renesse , Fred B. Schneider, Chain replication for supporting high throughput and availability, Proceedings of the 6th conference on Symposium on Opearting Systems Design & Implementation, p.7-7, December 06-08, 2004, San Francisco, CA
+Pedro Vicente , Luís Rodrigues, An Indulgent Uniform Total Order Algorithm with Optimistic Delivery, Proceedings of the 21st IEEE Symposium on Reliable Distributed Systems, p.92, October 13-16, 2002
+Brian Whetten , Todd Montgomery , Simon M. Kaplan, A High Performance Totally Ordered Multicast Protocol, Selected Papers from the International Workshop on Theory and Practice in Distributed Systems, p.33-57, September 05-09, 1994
+U. Wilhelm , A. Schiper, A hierarchy of totally ordered multicasts, Proceedings of the 14TH Symposium on Reliable Distributed Systems, p.106, September 13-15, 1995

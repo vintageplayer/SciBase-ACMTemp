@@ -1,0 +1,60 @@
+Keith Adams , Ole Agesen, A comparison of software and hardware techniques for x86 virtualization, Proceedings of the 12th international conference on Architectural support for programming languages and operating systems, October 21-25, 2006, San Jose, California, USA[doi>10.1145/1168857.1168860]
+Agesen, O.2006. Binary translation of returns. InWorkshop on Binary Instrumentation and Applications. 7--14.
+Agesen, O. and Sheldon, J. W.2004. Restricting memory access to protect data when sharing a common address space. U.S. Patent 7,277,999.
+Ole Agesen , Alex Garthwaite , Jeffrey Sheldon , Pratap Subrahmanyam, The evolution of an x86 virtual machine monitor, ACM SIGOPS Operating Systems Review, v.44 n.4, December 2010[doi>10.1145/1899928.1899930]
+AMD Corporation. 1998. Network Products: Ethernet Controllers Books 2.
+Paul Barham , Boris Dragovic , Keir Fraser , Steven Hand , Tim Harris , Alex Ho , Rolf Neugebauer , Ian Pratt , Andrew Warfield, Xen and the art of virtualization, Proceedings of the nineteenth ACM symposium on Operating systems principles, October 19-22, 2003, Bolton Landing, NY, USA[doi>10.1145/945445.945462]
+Ken Barr , Prashanth Bungale , Stephen Deasy , Viktor Gyuris , Perry Hung , Craig Newell , Harvey Tuch , Bruno Zoppis, The VMware mobile virtualization platform: is that a hypervisor in your pocket?, ACM SIGOPS Operating Systems Review, v.44 n.4, December 2010[doi>10.1145/1899928.1899945]
+Fabrice Bellard, QEMU, a fast and portable dynamic translator, Proceedings of the annual conference on USENIX Annual Technical Conference, p.41-41, April 10-15, 2005, Anaheim, CA
+Ravi Bhargava , Benjamin Serebrin , Francesco Spadini , Srilatha Manne, Accelerating two-dimensional page walks for virtualized systems, Proceedings of the 13th international conference on Architectural support for programming languages and operating systems, March 01-05, 2008, Seattle, WA, USA[doi>10.1145/1346281.1346286]
+Andrew D. Birrell , Bruce Jay Nelson, Implementing remote procedure calls, ACM Transactions on Computer Systems (TOCS), v.2 n.1, p.39-59, February 1984[doi>10.1145/2080.357392]
+Bugnion, E.1998. Dynamic binary translator with a system and method for updating and maintaining coherency of a translation cache. U.S. Patent 6,704,925.
+Edouard Bugnion , Scott Devine , Kinshuk Govil , Mendel Rosenblum, Disco: running commodity operating systems on scalable multiprocessors, ACM Transactions on Computer Systems (TOCS), v.15 n.4, p.412-447, Nov. 1997[doi>10.1145/265924.265930]
+Bugnion, E., Devine, S. W., and Rosenblum, M.1998. System and method for virtualizing computer systems. U.S. Patent 6,496,847.
+Chappell, G.1994.DOS Internals. Addisson-Wesley.
+Chen, Y.-H.2009. Dynamic binary translation from x86-32 code to x86-64 code for virtualization. M.S. thesis, Massachusetts Institute of Technology.
+Bob Cmelik , David Keppel, Shade: a fast instruction-set simulator for execution profiling, Proceedings of the 1994 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.128-137, May 16-20, 1994, Nashville, Tennessee, USA[doi>10.1145/183018.183032]
+Compaq, Phoenix, Intel. 1996. BIOS Boot Specification, v1.0.1. http://www.phoenix.com/resources/specs-bbs101.pdf.
+Connectix Corporation. 2001. Connectix Virtual PC for Windows (Press Release). Retrieved on the Internet Archive’s Wayback Machine.
+R. J. Creasy, The origin of the VM/370 time-sharing system, IBM Journal of Research and Development, v.25 n.5, p.483-490, September 1981[doi>10.1147/rd.255.0483]
+Helen Custer, Inside Windows NT, Microcomputer Applications, Suisun City, CA, 1992
+James C. Dehnert , Brian K. Grant , John P. Banning , Richard Johnson , Thomas Kistler , Alexander Klaiber , Jim Mattson, The Transmeta Code Morphing™ Software: using speculation, recovery, and adaptive retranslation to address real-life challenges, Proceedings of the international symposium on Code generation and optimization: feedback-directed and runtime optimization, March 23-26, 2003, San Francisco, California
+Devine, S. W., Bugnion, E., and Rosenblum, M.1998. Virtualization system including a virtual machine monitor for a computer with a segmented architecture. U.S. Patent 6,397,242.
+Jeff Dike, User-mode Linux, Proceedings of the 5th annual Linux Showcase & Conference, p.2-2, November 05-10, 2001, Oakland, California
+Drepper, U. and Molnar, I.2003. The Native POSIX Thread Library for Linux. RedHat White Paper.
+Kemal Ebcioğlu , Erik R. Altman, DAISY: dynamic compilation for 100% architectural compatibility, Proceedings of the 24th annual international symposium on Computer architecture, p.26-37, June 01-04, 1997, Denver, Colorado, USA[doi>10.1145/264107.264126]
+Bryan Ford , Russ Cox, Vx32: lightweight user-level sandboxing on the x86, USENIX 2008 Annual Technical Conference on Annual Technical Conference, p.293-306, June 22-27, 2008, Boston, Massachusetts
+Gelsinger, P.1998. Personal Communication (Intel Corp. CTO).
+Goldberg, R. P.1972. Architectural principles for virtual computer systems. Ph.D. thesis, Harvard University, Cambridge, MA.
+Robert P. Goldberg, Survey of virtual machine research, Computer, v.7 n.9, p.34-45, September 1974[doi>10.1109/MC.1974.6323581]
+IDC. 2009. Server Virtualization Hits Inflection Point as Number of Virtual Machines to Exceed Physical Systems in 2009 (Press Release). http://www.idc.com/about/viewpressrelease.jsp?containerId=prUK21840309.
+Intel Corporation. 2008. Intel Virtualization Technology FlexMigration Application Note. Tech. rep.
+Intel Corporation. 2010.Intel64 and IA-32 Architectures Software Developer’s Manual Volume 2 (2A and 2B).
+International Standards Organization. 1988. Information processing -- Volume and file structure of CD-ROM for information interchange. InISO 9660-1988.
+Neil D. Jones, An introduction to partial evaluation, ACM Computing Surveys (CSUR), v.28 n.3, p.480-503, Sept. 1996[doi>10.1145/243439.243447]
+King, A.1995.Inside Windows 95. Microsoft Press.
+Samuel T. King , George W. Dunlap , Peter M. Chen, Operating system support for virtual machines, Proceedings of the annual conference on USENIX Annual Technical Conference, p.6-6, June 09-14, 2003, San Antonio, Texas
+Kivity, A.2007. KVM: The Linux virtual machine monitor. InProceedings of the 2007 Ottawa Linux Symposium (OLS). 225--230.
+Lim, B.-H., Le, B. C., and Bugnion, E.2000. Deferred shadowing of segment descriptors in a virtual machine monitor for a segmented computer architecture. U.S. Patent 6,785,886.
+Ludloff, C.1996. Sandpile: The world’s leading source for technical x86 processor information. http://www.sandpile.org.
+Meushaw, R. and Simard, D.2000. NetTop: Commercial technology in high assurance applications.NSA Tech Trend Notes 9, 4.
+Microsoft Corporation. 2008. Windows Server 2008R2 Hyper-V. http://www.microsoft.com/en-us/server-cloud/windows-server/hyper-v.aspx.
+Microsoft Corporation. 2009. Windows XP Mode and Windows Virtual PC. http://www.microsoft.com/windows/virtual-pc/.
+Michael Nelson , Beng-Hong Lim , Greg Hutchins, Fast transparent migration for virtual machines, Proceedings of the annual conference on USENIX Annual Technical Conference, p.25-25, April 10-15, 2005, Anaheim, CA
+Parallels Corporation. 2006. Parallels Desktop for the Mac. http://www.parallels.com/products/desktop/.
+Gerald J. Popek , Robert P. Goldberg, Formal requirements for virtualizable third generation architectures, Communications of the ACM, v.17 n.7, p.412-421, July 1974[doi>10.1145/361011.361073]
+John Scott Robin , Cynthia E. Irvine, Analysis of the Intel Pentium's ability to support a secure virtual machine monitor, Proceedings of the 9th conference on USENIX Security Symposium, p.10-10, August 14-17, 2000, Denver, Colorado
+Mendel Rosenblum , Stephen A. Herrod , Emmett Witchel , Anoop Gupta, Complete Computer System Simulation: The SimOS Approach, IEEE Parallel & Distributed Technology: Systems & Technology, v.3 n.4, p.34-43, December 1995[doi>10.1109/88.473612]
+Mendel Rosenblum , Edouard Bugnion , Scott Devine , Stephen A. Herrod, Using the SimOS machine simulator to study complex computer systems, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.7 n.1, p.78-103, Jan. 1997[doi>10.1145/244804.244807]
+Volkmar Sieh , Kerstin Buchacker, UMLinux - A Versatile SWIFI Tool, Proceedings of the 4th European Dependable Computing Conference on Dependable Computing, p.159-171, October 23-25, 2002
+Richard L. Sites , Anton Chernoff , Matthew B. Kirk , Maurice P. Marks , Scott G. Robinson, Binary translation, Communications of the ACM, v.36 n.2, p.69-81, Feb. 1993[doi>10.1145/151220.151227]
+David A. Solomon , Mark Russinovich, Inside Microsoft Windows 2000, Microsoft Press, Redmond, WA, 2000
+Jeremy Sugerman , Ganesh Venkitachalam , Beng-Hong Lim, Virtualizing I/O Devices on VMware Workstation's Hosted Virtual Machine Monitor, Proceedings of the General Track: 2002 USENIX Annual Technical Conference, p.1-14, June 25-30, 2001
+Rich Uhlig , Gil Neiger , Dion Rodgers , Amy L. Santoni , Fernando C. M. Martins , Andrew V. Anderson , Steven M. Bennett , Alain Kagi , Felix H. Leung , Larry Smith, Intel Virtualization Technology, Computer, v.38 n.5, p.48-56, May 2005[doi>10.1109/MC.2005.163]
+Robert Wahbe , Steven Lucco , Thomas E. Anderson , Susan L. Graham, Efficient software-based fault isolation, Proceedings of the fourteenth ACM symposium on Operating systems principles, p.203-216, December 05-08, 1993, Asheville, North Carolina, USA[doi>10.1145/168619.168635]
+Carl A. Waldspurger, Memory resource management in VMware ESX server, Proceedings of the 5th symposium on Operating systems design and implementationCopyright restrictions prevent ACM from being able to make the PDFs for this conference available for downloading, December 09-11, 2002, Boston, Massachusetts[doi>10.1145/1060289.1060307]
+Carl Waldspurger , Mendel Rosenblum, I/O virtualization, Communications of the ACM, v.55 n.1, January 2012[doi>10.1145/2063176.2063194]
+Wheeler, D. A.2001. SLOCCount. http://www.dwheeler.com/sloccount/.
+Andrew Whitaker , Marianne Shaw , Steven D. Gribble, Scale and performance in the Denali isolation kernel, Proceedings of the 5th symposium on Operating systems design and implementationCopyright restrictions prevent ACM from being able to make the PDFs for this conference available for downloading, December 09-11, 2002, Boston, Massachusetts[doi>10.1145/1060289.1060308]
+Emmett Witchel , Mendel Rosenblum, Embra: fast and flexible machine simulation, Proceedings of the 1996 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.68-79, May 23-26, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/233013.233025]
+Bennet Yee , David Sehr , Gregory Dardyk , J. Bradley Chen , Robert Muth , Tavis Ormandy , Shiki Okasaka , Neha Narula , Nicholas Fullagar, Native Client: a sandbox for portable, untrusted x86 native code, Communications of the ACM, v.53 n.1, January 2010[doi>10.1145/1629175.1629203]

@@ -1,0 +1,29 @@
+J. E. Allchin , M. S. McKendry, Synchronization and recovery of actions, Proceedings of the second annual ACM symposium on Principles of distributed computing, p.31-44, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806708]
+BERNSTEIN, P.A., SHIPMAN, D.W., AND WONG, W.S. Formal aspects of serializability in database concurrency control. IEEE Trans. Softw. Eng. SE-5, 3(May 1979), 203-216.
+Philip A. Bernstein , Nathan Goodman, Concurrency Control in Distributed Database Systems, ACM Computing Surveys (CSUR), v.13 n.2, p.185-221, June 1981[doi>10.1145/356842.356846]
+DAHL, O.-J., AND HOARE, C.A.R. Hierarchical program structures. In Structured Programming, C.D.R. Hoare Ed., Academic Press, New York, 1972, ch. 3, pp. 175-220.
+Reference Manual for the Ada Programming Language, July 1982 ed., Department of Defense, Ada Joint Program Office, Washington, D.C., 1982.
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+Hector Garcia-Molina, Using semantic knowledge for transaction processing in a distributed database, ACM Transactions on Database Systems (TODS), v.8 n.2, p.186-213, June 1983[doi>10.1145/319983.319985]
+GRAY, J.N., LORIE, R.A., PUTZOLU, G.R., AND TRAIGER, I.L. Granularity of locks and degrees of consistency in a shared data base. IBM Res. Rept. RJ1654, IBM Research Lab., San Jose, Calif., Sept. 1975.
+GRAY, J. A transaction model. IBM Res. Rept. RJ2895, IBM Research Lab., San Jose, Calif., Aug. 1980.
+Jim Gray , Paul McJones , Mike Blasgen , Bruce Lindsay , Raymond Lorie , Tom Price , Franco Putzolu , Irving Traiger, The Recovery Manager of the System R Database Manager, ACM Computing Surveys (CSUR), v.13 n.2, p.223-242, June 1981[doi>10.1145/356842.356847]
+C. A. R. Hoare, Monitors: an operating system structuring concept, Communications of the ACM, v.17 n.10, p.549-557, Oct. 1974[doi>10.1145/355620.361161]
+Henry F. Korth, Locking Primitives in a Database System, Journal of the ACM (JACM), v.30 n.1, p.55-79, Jan. 1983[doi>10.1145/322358.322363]
+H. T. Kung , C. H. Papadimitriou, An optimality theory of concurrency control for databases, Proceedings of the 1979 ACM SIGMOD international conference on Management of data, May 30-June 01, 1979, Boston, Massachusetts[doi>10.1145/582095.582114]
+Butler W. Lampson, Atomic Transactions, Distributed Systems - Architecture and Implementation, An Advanced Course, p.246-265, January 1981
+LINDSAY, B.G., ET AL. Notes on distributed databases. IBM Res. Rept. RJ2571, IBM Research Lab., San Jose, Calif., July 1979.
+Barbara Liskov , Alan Snyder , Russell Atkinson , Craig Schaffert, Abstraction mechanisms in CLU, Communications of the ACM, v.20 n.8, p.564-576, Aug. 1977[doi>10.1145/359763.359789]
+LISKOV, B. On linguistic support for distributed programs. IEEE Trans. Softw. Eng. SE-8, 3(May 1982), 203-210.
+Barbara Liskov , Robert Scheifler, Guardians and actions: linguistic support for robust, distributed programs, Proceedings of the 9th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.7-19, January 25-27, 1982, Albuquerque, Mexico[doi>10.1145/582153.582155]
+D. B. Lomet, Process structuring, synchronization, and recovery using atomic actions, ACM SIGPLAN Notices, v.12 n.3, p.128-137, March 1977[doi>10.1145/390017.808319]
+Moss, J.E.B. Nested transactions: An approach to reliable distributed computing. Ph.D. dissertation, Massachusetts Institute of Technology, Cambridge, Mass., April 1981.
+PAPADIMITRIOU, C.H., BERNSTEIN, P.A., AND ROTHNIE, J.B. Some computational problems related to database concurrency control. In Proceedings of the Conference on Theoretical Computer Science (Waterloo, Ont., Canada, Aug. 1977).
+REED, D.P. Naming and synchronization in a decentralized computer system. Ph.D. dissertation, Massachusetts Institute of Technology, Cambridge, Mass., Sept. 1978.
+SCHWARZ, P.M. Building systems based on atomic transactions. Ph.D. thesis proposal, Carnegie-Mellon University, Pittsburgh. Pa. (Feb. 1982).
+SCHWARZ, P.M., AND SPECTOR, A.Z. Recovery of shared abstract types. Carnegie-Mellon Rept. CMU-CS-83-151, Carnegie-Mellon University, Pittsburgh, Pa., Oct. 1983.
+Lui Sha , E. Douglas Jensen , Richard F. Rashid , J. Duane Northcutt, Distributed co-operating processes and transactions, Proceedings of the symposium on Communications Architectures & Protocols, March 08-09, 1983, Austin, Texas[doi>10.1145/1035237.1035275]
+William E. Weihl, Data-dependent concurrency control and recovery (Extended Abstract), Proceedings of the second annual ACM symposium on Principles of distributed computing, p.63-75, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806710]
+William Weihl , Barbara Liskov, Specification and implementation of resilient, atomic data types, Proceedings of the 1983 ACM SIGPLAN symposium on Programming language issues in software systems, p.53-64, June 27-29, 1983, San Francisco, California, United States[doi>10.1145/800226.806851]
+W. Wulf , E. Cohen , W. Corwin , A. Jones , R. Levin , C. Pierson , F. Pollack, HYDRA: the kernel of a multiprocessor operating system, Communications of the ACM, v.17 n.6, p.337-345, June 1974[doi>10.1145/355616.364017]
+WULF, W.A., LONDON, R.L., AND SHAW, M. An introduction to the construction and verification of Alphard programs. IEEE Trans. So/tw. Eng. SE-2, 4 (Dec. 1976).
