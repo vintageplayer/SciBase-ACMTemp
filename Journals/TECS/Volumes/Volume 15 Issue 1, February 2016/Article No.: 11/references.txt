@@ -1,0 +1,32 @@
+Amir Ban. 1999. Flash file system optimized for page-mode flash technologies. United States Patent, no. 5,937,425.
+Li-Pin Chang, A Hybrid Approach to NAND-Flash-Based Solid-State Disks, IEEE Transactions on Computers, v.59 n.10, p.1337-1349, October 2010[doi>10.1109/TC.2010.14]
+Yuan-Hao Chang , Tei-Wei Kuo, A Management Strategy for the Reliability and Performance Improvement of MLC-Based Flash-Memory Storage Systems, IEEE Transactions on Computers, v.60 n.3, p.305-320, March 2011[doi>10.1109/TC.2010.126]
+Micron Electronics. 2012. Technical Note: NAND Flash Performance Increase.
+Micron Electronics. 2013a. Micron DDR3 SDRAM Technical Notes. Micron technical report.
+Micron Electronics. 2013b. Micron NAND Flash Memory MT29F64G08CBAA{A/B}, MT29F128G08C{E/F}AAA, MT29F128G08CFAAB. Micron datasheet. Retrieved from http://www.micron.com/parts/nand-flash/mass-storage/mt29f128g08efaaawp.
+Aayush Gupta , Youngjae Kim , Bhuvan Urgaonkar, DFTL: a flash translation layer employing demand-based selective caching of page-level address mappings, Proceedings of the 14th international conference on Architectural support for programming languages and operating systems, March 07-11, 2009, Washington, DC, USA[doi>10.1145/1508244.1508271]
+Jen-Wei Hsieh , Tei-Wei Kuo , Li-Pin Chang, Efficient identification of hot data for flash memory storage systems, ACM Transactions on Storage (TOS), v.2 n.1, p.22-40, February 2006[doi>10.1145/1138041.1138043]
+Jen-Wei Hsieh , Chung-Hsien Wu , Ge-Ming Chiu, MFTL: A Design and Implementation for MLC Flash Memory Storage Systems, ACM Transactions on Storage (TOS), v.8 n.2, p.1-29, May 2012[doi>10.1145/2180905.2180908]
+Yang Hu , Hong Jiang , Dan Feng , Lei Tian , Hao Luo , Shuping Zhang, Performance impact and interplay of SSD parallelism through advanced commands, allocation strategy and data granularity, Proceedings of the international conference on Supercomputing, May 31-June 04, 2011, Tucson, Arizona, USA[doi>10.1145/1995896.1995912]
+Intel. 2013. Intel Labs: Intel-iscsi. Open Storage Toolkit.
+SNIA IOTTA. 2013. SNIA IOTTA Repository. Traces. Retrieved from http://iotta.snia.org.
+Seongwook Jin , Jaehong Kim , Jaegeuk Kim , Jaehyuk Huh , Seungryoul Maeng, Sector log: fine-grained storage management for solid state drives, Proceedings of the 2011 ACM Symposium on Applied Computing, March 21-24, 2011, TaiChung, Taiwan[doi>10.1145/1982185.1982264]
+Dawoon Jung , Jeong-UK Kang , Heeseung Jo , Jin-Soo Kim , Joonwon Lee, Superblock FTL: A superblock-based flash translation layer with a hybrid address translation scheme, ACM Transactions on Embedded Computing Systems (TECS), v.9 n.4, p.1-41, March 2010[doi>10.1145/1721695.1721706]
+Jesung Kim , Jong Min Kim , S. H. Noh , Sang Lyul Min , Yookun Cho, A space-efficient flash translation layer for CompactFlash systems, IEEE Transactions on Consumer Electronics, v.48 n.2, p.366-375, May 2002[doi>10.1109/TCE.2002.1010143]
+Jaegeuk Kim, Jinho Seol, and Seungryoul Maeng. 2010. A buffer management issue in designing SSDs for LFSs. IEICE Transactions on Information and Systems E93-D, 6 (2010), 1644--1647.
+Jae-Hong Kim, Dawoon Jung, Jin-Soo Kim, and Jaehyuk Huh. 2009. A methodology for extracting performance parameters in solid state disks (SSDs). In 17th International Symposium on Modeling, Analysis & Simulation of Computer and Telecommunication Systems (MASCOTS'09). 1--10.
+Jin Hyuk Kim, Sanghyuk Jung, and Yong Ho Song. 2008. Cost and performance analysis of nand mapping algorithms in a shared-bus multi-chip configuration. In The 3rd International Workshop on Software Support for Portable Storage (IWSSPS'08).
+Menahem Lasser and Kohav-Yair. 2003. Method For Fast Wake-up of a Flash Memory System. (2003). United States Patent, no. 6,510,488 B2.
+Sungjin Lee , Dongkun Shin , Young-Jin Kim , Jihong Kim, LAST: locality-aware sector translation for NAND flash memory-based storage systems, ACM SIGOPS Operating Systems Review, v.42 n.6, October 2008[doi>10.1145/1453775.1453783]
+Sang-Won Lee , Dong-Joo Park , Tae-Sun Chung , Dong-Ho Lee , Sangwon Park , Ha-Joo Song, A log buffer-based flash translation layer using fully-associative sector translation, ACM Transactions on Embedded Computing Systems (TECS), v.6 n.3, p.18-es, July 2007[doi>10.1145/1275986.1275990]
+Chanik Park , Wonmoon Cheon , Jeonguk Kang , Kangho Roh , Wonhee Cho , Jin-Soo Kim, A reconfigurable FTL (flash translation layer) architecture for NAND flash-based applications, ACM Transactions on Embedded Computing Systems (TECS), v.7 n.4, p.1-23, July 2008[doi>10.1145/1376804.1376806]
+JungWook Park, Gi-Ho Park, Charles Weems, and ShinDug Kim. 2009. Sub-grouped superblock management for high-performance flash storages. IEICE Electronics Express 6, 6 (2009), 297--303.
+Zhiwei Qin , Yi Wang , Duo Liu , Zili Shao, Demand-based block-level address mapping in large-scale NAND flash storage systems, Proceedings of the eighth IEEE/ACM/IFIP international conference on Hardware/software codesign and system synthesis, October 24-29, 2010, Scottsdale, Arizona, USA[doi>10.1145/1878961.1878991]
+Zhiwei Qin , Yi Wang , Duo Liu , Zili Shao , Yong Guan, MNFTL: an efficient flash translation layer for MLC NAND flash memory storage systems, Proceedings of the 48th Design Automation Conference, June 05-10, 2011, San Diego, California[doi>10.1145/2024724.2024730]
+Mircosoft Research. 2013. MSR Cambridge Traces. I/o traces. Retrieved from http://iotta.snia.org/traces/388.
+Mark Russinovich. 2013. Windows Sysinternals: Diskmon. (2013).
+Moonkyung Ryu , Hyojun Kim , Umakishore Ramachandran, Impact of flash memory on video-on-demand storage: analysis of tradeoffs, Proceedings of the second annual ACM conference on Multimedia systems, February 23-25, 2011, San Jose, CA, USA[doi>10.1145/1943552.1943577]
+Yeonseung Ryu, A Flash Translation Layer for nand Flash-Based Multimedia Storage Devices, IEEE Transactions on Multimedia, v.13 n.3, p.563-572, June 2011[doi>10.1109/TMM.2011.2114333]
+Gyudong Shim , Youngwoo Park , Kyu Ho Park, A hybrid flash translation layer with adaptive merge for SSDs, ACM Transactions on Storage (TOS), v.6 n.4, p.1-27, May 2011[doi>10.1145/1970338.1970339]
+Takayuki Shinohara. 1999. Flash Memory Card with Block Memory Address Arrangement. (1999). United States Patent, no. 5,905,993.
+Florida University. 2013. FIU Traces. I/o traces. Retrieved from http://iotta.snia.org/traces/390.

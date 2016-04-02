@@ -1,0 +1,53 @@
+Martin Alt , Christian Ferdinand , Florian Martin , Reinhard Wilhelm, Cache Behavior Prediction by Abstract Interpretation, Proceedings of the Third International Symposium on Static Analysis, p.52-66, September 24-26, 1996
+Arnold, R., Müeller, F., Whalley, D., and Harmon, M. 1994. Bounding worst-case instruction cache performance. In Proceedings of 15th Real-Time Systems Symposium (RTSS'94). 172--181.
+Basumallick, S. and Nielsen, K. 1994. Cache issues in real-time systems. In Proceedings ACM Workshop on Languages, Compilers and Tools for Real-Time Systems (LCTES'94).
+Alan Burns , Andy J. Wellings , A. D. Hutcheon, The Impact of an Ada Run-Time System's Performance Characteristics on Scheduling Models, Proceedings of the 12th Ada-Europe International Conference, p.240-248, June 14-18, 1993
+Alan Burns , Ken Tindell , Andy Wellings, Effective Analysis for Engineering Real-Time Fixed Priority Schedulers, IEEE Transactions on Software Engineering, v.21 n.5, p.475-480, May 1995[doi>10.1109/32.387477]
+J. V. Busquets-Mataix , J. J. Serrano , R. Ors , P. Gil , A. Wellings, Adding instruction cache effect to schedulability analysis of preemptive real-time systems, Proceedings of the 2nd IEEE Real-Time Technology and Applications Symposium (RTAS '96), p.204, June 10-12, 1996
+Busquets-Mataix, J. V., Serrano, J. J., and Wellings, A. 1997. Hybrid instruction cache partitioning for preemptive real-time systems. In Proceedings of 9th Euromicro Workshop on Real-Time Systems (EUROMICRO-RTS'97).
+Campoy, M., Ivars, A. P., and Busquets-Mataix, J. V. 2001. Static use of locking caches in multitask preemptive real-time systems. In Proceedings of IEEE/IEE Real-Time Embedded Systems Workshop (Satellite of the IEEE Real-Time Systems Symposium).
+Jakob Engblom , Andreas Ermedahl, Pipeline Timing Analysis Using a Trace-Driven Simulator, Proceedings of the Sixth International Conference on Real-Time Computing Systems and Applications, p.88, December 13-15, 1999
+Jakob Engblom , Andreas Ermedahl, Modeling complex flows for worst-case execution time analysis, Proceedings of the 21st IEEE conference on Real-time systems symposium, November 27-30, 2000, Orlando, Florida
+Andreas Ermedahl , Jan Gustafsson, Deriving Annotations for Tight Calculation of Execution Time, Proceedings of the Third International Euro-Par Conference on Parallel Processing, p.1298-1307, August 26-29, 1997
+Paul Feautrier, Automatic Parallelization in the Polytope Model, The Data Parallel Programming Model: Foundations, HPF Realization, and Scientific Applications, p.79-103, January 1996
+Christian Ferdinand , Reinhard Wilhelm, Efficient and Precise Cache Behavior Prediction for Real-TimeSystems, Real-Time Systems, v.17 n.2-3, p.131-181, Nov. 1999[doi>10.1023/A:1008186323068]
+Dennis Gannon , William Jalby , Kyle Gallivan, Strategies for cache and local memory management by global program transformation, Journal of Parallel and Distributed Computing, v.5 n.5, p.587-616, October 1988[doi>10.1016/0743-7315(88)90014-7]
+Somnath Ghosh , Margaret Martonosi , Sharad Malik, Cache miss equations: a compiler framework for analyzing and tuning memory behavior, ACM Transactions on Programming Languages and Systems (TOPLAS), v.21 n.4, p.703-746, July 1999[doi>10.1145/325478.325479]
+Gustafsson, J. 2000. Analyzing execution time of object-oriented programs using abstract interpretation. Ph.D. thesis, Uppsala University.
+C. A. Healy , D. B. Whalley , M. G. Harmon, Integrating the timing analysis of pipelining and instruction caching, Proceedings of the 16th IEEE Real-Time Systems Symposium, p.288, December 05-07, 1995
+John L. Hennessy , David A. Patterson, Computer architecture (2nd ed.): a quantitative approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1996
+IBM Microelectronics Division. 1999. The PowerPC 440 core.
+Integrated Device Technologies. 2001. 79RC64574/RC64575 Data Sheet.
+Jeffay, K. and Stone, D. L. 1993. Accounting for interrupt handling costs in dynamic priority task systems. In Proceedings of 14th Real-Time Systems Symposium (RTSS'93). 212--221.
+Joseph, M. and Pandya, P. 1986. Finding response times in a real-time system. The Computer Journal 29, 5, 390--395.
+D. I. Katcher , H. Arakawa , J. K. Strosnider, Engineering and Analysis of Fixed Priority Schedulers, IEEE Transactions on Software Engineering, v.19 n.9, p.920-934, September 1993[doi>10.1109/32.241774]
+Sung-Kwan Kim , Sang Lyul Min , Rhan Ha, Efficient worst case timing analysis of data caching, Proceedings of the 2nd IEEE Real-Time Technology and Applications Symposium (RTAS '96), p.230, June 10-12, 1996
+Kirk, D. B. 1989. SMART (strategic memory allocation for real-time) cache design. In Proceedings of 10th Real-Time Systems Symposium (RTSS'89).
+Monica D. Lam , Edward E. Rothberg , Michael E. Wolf, The cache performance and optimizations of blocked algorithms, Proceedings of the fourth international conference on Architectural support for programming languages and operating systems, p.63-74, April 08-11, 1991, Santa Clara, California, USA[doi>10.1145/106972.106981]
+Chang-Gun Lee , Joosun Hahn , Yang-Min Seo , Sang Lyul Min , Rhan Ha , Seongsoo Hong , Chang Yun Park , Minsuk Lee , Chong Sang Kim, Analysis of Cache-Related Preemption Delay in Fixed-Priority Preemptive Scheduling, IEEE Transactions on Computers, v.47 n.6, p.700-713, June 1998[doi>10.1109/12.689649]
+Y.-T. S. Li , S. Malik , A. Wolfe, Efficient microarchitecture modeling and path analysis for real-time software, Proceedings of the 16th IEEE Real-Time Systems Symposium, p.298, December 05-07, 1995
+Li, Y. T. S., Malik, S., and Wolfe, A. 1996. Cache modeling and path analysis for real-time software. In Proceedings of 17th Real-Time Systems Symposium (RTSS'96).
+Jochen Liedtke , Hermann Haertig , Michael Hohmuth, OS-Controlled Cache Predictability for Real-Time Systems, Proceedings of the 3rd IEEE Real-Time Technology and Applications Symposium (RTAS '97), p.213, June 09-11, 1997
+Lim, S. S., Bae, Y. H., Jang, G. T., Rhee, B. D., Min, S. L., Park, C. Y., Shin, H., Park, K., and Kim, C. S. 1994. An accurate worst case timing analysis technique for RISC processors. In Proceedings of 15th Real-Time Systems Symposium (RTSS'94). 97--108.
+Thomas Lundqvist , Per Stenström, Integrating Path and Timing Analysis Using Instruction-Level Simulation Techniques, Proceedings of the  ACM SIGPLAN Workshop on Languages, Compilers, and Tools for Embedded Systems, p.1-15, June 01, 1998
+Thomas Lundqvist , Per Stenström, A Method to Improve the Estimated Worst-Case Performance of Data Caching, Proceedings of the Sixth International Conference on Real-Time Computing Systems and Applications, p.255, December 13-15, 1999
+Thomas Lundqvist , Per Stenström, Timing Anomalies in Dynamically Scheduled Microprocessors, Proceedings of the 20th IEEE Real-Time Systems Symposium, p.12, December 01-03, 1999
+MIPS Technologies. 2001. MIPS32 4Kp- Embedded, MIPS Processor Core.
+Motorola Inc. 1996. PowerPC 604e RISC Microprocessor Technical Summary.
+Frank Mueller, Compiler support for software-based cache partitioning, Proceedings of the ACM SIGPLAN 1995 workshop on Languages, compilers, & tools for real-time systems, p.125-133, November 1995, La Jolla, California, USA[doi>10.1145/216636.216677]
+Isabelle Puaut , David Decotigny, Low-Complexity Algorithms for Static Cache Locking in Multitasking Hard Real-Time Systems, Proceedings of the 23rd IEEE Real-Time Systems Symposium, p.114, December 03-05, 2002
+Gabriel Rivera , Chau-Wen Tseng, Data transformations for eliminating conflict misses, Proceedings of the ACM SIGPLAN 1998 conference on Programming language design and implementation, p.38-49, June 17-19, 1998, Montreal, Quebec, Canada[doi>10.1145/277650.277661]
+F. Jesus Sanchez , Antonio Gonzalez , Mateo Valero, Static Locality Analysis for Cache Management, Proceedings of the 1997 International Conference on Parallel Architectures and Compilation Techniques, p.261, November 11-15, 1997
+Sun Microelectronics. 1997. microSPARC-IIep User's Manual.
+K. W. Tindell , A. Burns , A. J. Wellings, An extendible approach for analyzing fixed priority hard real-time tasks, Real-Time Systems, v.6 n.2, p.133-151, March 1994[doi>10.1007/BF01088593]
+Xavier Vera , Jingling Xue, Let's Study Whole-Program Cache Behaviour Analytically, Proceedings of the 8th International Symposium on High-Performance Computer Architecture, p.175, February 02-06, 2002
+Xavier Vera , Jaume Abella , Antonio González , Josep Llosa, Optimizing Program Locality Through CMEs and GAs, Proceedings of the 12th International Conference on Parallel Architectures and Compilation Techniques, p.68, September 27-October 01, 2003
+Xavier Vera , Björn Lisper , Jingling Xue, Data cache locking for higher program predictability, Proceedings of the 2003 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 11-14, 2003, San Diego, CA, USA[doi>10.1145/781027.781062]
+Xavier Vera , Björn Lisper , Jingling Xue, Data Caches in Multitasking Hard Real-Time Systems, Proceedings of the 24th IEEE International Real-Time Systems Symposium, p.154, December 03-05, 2003
+Xavier Vera , Nerina Bermudo , Josep Llosa , Antonio González, A fast and accurate framework to analyze and optimize cache memory behavior, ACM Transactions on Programming Languages and Systems (TOPLAS), v.26 n.2, p.263-300, March 2004[doi>10.1145/973097.973099]
+Randall T. White , Christopher A. Healy , David B. Whalley , Frank Mueller , Marion G. Harmon, Timing Analysis for Data Caches and Set-Associative Caches, Proceedings of the 3rd IEEE Real-Time Technology and Applications Symposium (RTAS '97), p.192, June 09-11, 1997
+Robert Paul Wilson , Monica S. Lam, Efficient, context-sensitive pointer analysis for c programs, Stanford University, Stanford, CA, 1998
+Michael E. Wolf , Monica S. Lam, A data locality optimizing algorithm, Proceedings of the ACM SIGPLAN 1991 conference on Programming language design and implementation, p.30-44, June 24-28, 1991, Toronto, Ontario, Canada[doi>10.1145/113445.113449]
+Wolfe, A. 1993. Software-based cache partitioning for real-time applications. In Proceedings of the 3rd International Workshop on Responsive Computer Systems.
+Jingling Xue, Loop tiling for parallelism, Kluwer Academic Publishers, Norwell, MA, 2000
+Jingling Xue , Chua-Huang Huang, Reuse-driven tiling for improving data locality, International Journal of Parallel Programming, v.26 n.6, p.671-696, Dec. 1998[doi>10.1023/A:1018734612524]

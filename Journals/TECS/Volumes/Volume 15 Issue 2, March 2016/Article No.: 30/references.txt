@@ -1,0 +1,33 @@
+Oliver Jakob Arndt, Daniel Becker, Christian Banz, and Holger Blume. 2013. Parallel implementation of real-time semi-global matching on embedded multi-core architectures. In Embedded Computer Systems: Architectures, Modeling, and Simulation (SAMOS XIII). IEEE, 56--63.
+Mohamed Benazouz, Olivier Marchetti, Alix Munier-Kordon, and Pascal Urard. 2010. A new approach for minimizing buffer capacities with throughput constraint for embedded system design. In 2010 IEEE/ACS Computer Systems and Applications (AICCSA). IEEE, 1--8.
+Joseph Buck, Soonhoi Ha, Edward A. Lee, and David G. Messerschmitt. 1994. Ptolemy: A framework for simulating and prototyping heterogeneous systems. International Journal of Computer Simulation 4 (1994), 155--182.
+C. Sidney Burrus and Peter W. Eschenbacher. 1981. An in-place, in-order prime factor FFT algorithm. IEEE Transactions on Acoustics, Speech and Signal Processing 29, 4 (Aug. 1981), 806--817.
+Loïc Cudennec, Paul Dubrulle, François Galea, Thierry Goubier, and Renaud Sirdey. 2014. Generating code and memory buffers to reorganize data on many-core architectures. Procedia Computer Science 29 (2014), 1123--1133.
+Eddy De Greef, Francky Catthoor, and Hugo De Man. 1997. Array placement for storage size reduction in embedded multimedia systems. In Proceedings of the IEEE International Conference on Application-Specific Systems, Architectures and Processors. IEEE, 66--75.
+Karol Desnos, Maxime Pelcat, Jean-François. Nezan, and Slaheddine Aridhi. 2014. Memory analysis and optimized allocation of dataflow applications on shared-memory MPSoCs. Journal of Signal Processing Systems, Springer US 80 (July 2014), 19--37.
+Karol Desnos, Maxime Pelcat, Jean-François. Nezan, and Slaheddine Aridhi. 2015. Buffer merging technique for minimizing memory footprints of synchronous dataflow specifications. In International Conference on Acoustics, Speech and Signal Processing (ICASSP’15). IEEE, 1111--1115.
+S. El Assad and H. Noura. 2013. Generator of chaotic sequences and corresponding generating system. (Feb. 2013). Patent No. US 8781116 B2, Filed March 28, 2011, Issued Jul. 15, 2014.
+Janet Fabri. 1979. Automatic Storage Optimization. Courant Institute of Mathematical Sciences, NY University.
+Scott Fischaber, Roger Woods, and John McAllister. 2007. SoC memory hierarchy derivation from dataflow graphs. In Workshop on Signal Processing Systems. IEEE, 469--474.
+J. Forget, C. Gensoul, M. Guesdon, C. Lavarenne, C. Macabiau, Y. Sorel, and C. Stentzel. 2013. SynDEx v7 User Manual. INRIA Paris-Rocquencourt. Retrieved from http://www.syndex.org/v7/manual/manual.pdf.
+Viliam Geffert and Jozef Gajdoš. 2011. In-place sorting. In SOFSEM 2011: Theory and Practice of Computer Science, I. Čern, T. Gyimthy, J. Hromkovič, K. Jefferey, R. Krlović, M. Vukolić, and S. Wolf (Eds.). Lecture Notes in Computer Science, Vol. 6543. Springer, Berlin, 248--259.
+Marc Geilen, Twan Basten, and Sander Stuijk. 2005. Minimising buffer requirements of synchronous dataflow graphs with model checking. In Design Automation Conference. ACM, NY, 819--824.
+Chia-Jui Hsu, Ming-Yung Ko, and Shuvra S. Bhattacharyya. 2005. Software synthesis from the dataflow interchange format. In Proceedings of the 2005 Workshop on Software and Compilers for Embedded Systems (SCOPES’05). ACM, 37--49.
+Kalray. 2013. Many-core processors—Dataflow. Retrieved from http://www.kalray.eu/technology/dataflow/.
+Jong T. Kim and Dong R. Shin. 2002. New efficient clique partitioning algorithms for register-transfer synthesis of data paths. Journal of the Korean Physical Society 40 (2002), 754--758.
+Edward A. Lee and David G. Messerschmitt. 1987. Synchronous data flow. Proceedings of the IEEE 75, 9 (Sept. 1987), 1235--1245.
+Edward A. Lee and Thomas M. Parks. 1995. Dataflow process networks. Proceedings of the IEEE 83, 5 (1995), 773--801.
+David P. Magee. 2005. Matlab extensions for the development, testing and verification of real-time DSP software. In Proceedings of the 42nd Annual Design Automation Conference. ACM, NY, 603--606.
+Amith R. Mamidala, Daniel Faraj, Sameer Kumar, Douglas Miller, Michael Blocksome, Thomas Gooding, Philiph Heidelberger, and Gabor Dozsa. 2011. Optimizing MPI collectives using efficient intra-node communication techniques over the Blue Gene/P supercomputer. In International Symposium onParallel and Distributed Processing Workshops and PhD Forum (IPDPSW). IEEE, 771--780.
+Alexandre Mercat, Jean-François Nezan, Daniel Menard, and Jinglin Zhang. 2014. Implementation of a stereo matching algorithm onto a manycore embedded system. In International Symposium on Circuits and Systems. IEEE, 1296--1299.
+Praveen K. Murthy and Shuvra S. Bhattacharyya. 2004. Buffer merging: A powerful technique for reducing memory requirements of synchronous dataflow specifications. Transactions on Design Automation of Electronic Systems 9, 2 (April 2004), 212--237.
+Patrick Niemeyer. 2014. BeanShell website. Retrieved from http://www.beanshell.org.
+Maxime Pelcat, Slaheddine Aridhi, Jonathan Piat, and Jean-François Nezan. 2012. Physical Layer Multi-Core Prototyping: A Dataflow-Based Approach for LTE eNodeB. Springer.
+Maxime Pelcat, Karol Desnos, Julien Heulot, Clement Guy, Jean-François. Nezan, and Slaheddine Aridhi. 2014. PREESM: A dataflow-based rapid prototyping framework for simplifying multicore DSP programming. In EDERC 2014 Proceedings. IEEE, 36.
+Jonathan Piat, Shuvra S. Bhattacharyya, and Mickaël Raulet. 2009. Interface-based hierarchy for synchronous data-flow graphs. In SiPS Proceedings. IEEE, 145--150.
+Russel W. Quong and Shu-Ching Chen. 1993. Register Allocation via Weighted Graph Coloring. ECE Technical Reports. 232.
+Sander Stuijk, Marc Geilen, and Twan Basten. 2006a. Exploring trade-offs in buffer requirements and throughput constraints for synchronous dataflow graphs. In Proceedings of Design Automation Conference. ACM, 899--904.
+Sander Stuijk, Marc Geilen, and Twan Basten. 2006b. SDF3: SDF for free. In Proceeding of the Conference on Application of Concurrency to System Design (ACSD’06). IEEE Computer Society, 276--278.
+Daisuke Takahashi. 2000. High-performance parallel FFT algorithms for the HITACHI SR8000. In Proceedings of High Performance Computing in the Asia-Pacific Region, Vol. 1. IEEE, 192--199.
+Matthieu Wipliez and Mickaël Raulet. 2010. Classification and transformation of dynamic dataflow programs. In Design and Architectures for Signal and Image Processing (DASIP), IEEE, 303--310.
+Yervant Zorian. 2002. Embedded memory test and repair: Infrastructure IP for SOC yield. In Proceedings of the International Test Conference. IEEE, 340--349.

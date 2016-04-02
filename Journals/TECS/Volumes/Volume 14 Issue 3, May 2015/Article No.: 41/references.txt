@@ -1,0 +1,103 @@
+Michel Abdalla, Jee Hea An, Mihir Bellare, and Chanathip Namprempre. 2002. From identification to signatures via the fiat-shamir transform: Minimizing assumptions for security and forward-security. In EUROCRYPT. 418--433.
+Michel Abdalla, Pierre-Alain Fouque, Vadim Lyubashevsky, and Mehdi Tibouchi. 2012. Tightly-secure signatures from lossy identification schemes. In EUROCRYPT. 572--590.
+Shweta Agrawal, Dan Boneh, and Xavier Boyen. 2010. Efficient lattice (H)IBE in the standard model. In EUROCRYPT. 553--572.
+Miklós Ajtai. 1996. Generating hard instances of lattice problems (extended abstract). In STOC. 99--108.
+Miklós Ajtai, Ravi Kumar, and D. Sivakumar. 2001. A sieve algorithm for the shortest lattice vector problem. In STOC. 601--610.
+Joël Alwen and Chris Peikert. 2011. Generating shorter bases for hard random lattices. Theory Comput. Syst. 48, 3 (2011), 535--553.
+Aydin Aysu, Cameron Patterson, and Patrick Schaumont. 2013. Low-cost and area-efficient FPGA implementations of lattice-based cryptography. In HOST. 81--86.
+Shi Bai and Steven D. Galbraith. 2014. An improved compression technique for signatures based on learning with errors. In CT-RSA. 28--47.
+Rachid El Bansarkhani and Johannes Buchmann. 2013. Improvement and efficient implementation of a lattice-based signature scheme. In Selected Areas in Cryptography. 48--67.
+Mihir Bellare and Phillip Rogaway. 1993. Random oracles are practical: A paradigm for designing efficient protocols. In ACM CCS. 62--73.
+Richard E. Blahut. 2010. Fast Algorithms for Signal Processing. Cambridge University Press.
+Dan Boneh, Amit Sahai, and Brent Waters. 2011. Functional encryption: Definitions and challenges. In TCC. Vol. 6597.
+Dan Boneh and Mark Zhandry. 2013. Secure signatures and chosen ciphertext security in a quantum computing world. In CRYPTO (2). 361--379.
+Ahmad Boorghany and Rasool Jalili. 2014. Implementation and comparison of lattice-based identification protocols on smart cards and microcontrollers. IACR Cryptology ePrint Archive 2014 (2014), 78.
+Ahmad Boorghany, Siavash Bayat Sarmadi, and Rasool Jalili. 2014. On constrained implementation of lattice-based cryptographic primitives and schemes on smart cards. IACR Cryptology ePrint Archive 2014 (2014), 514.
+Xavier Boyen. 2010. Lattice mixing and vanishing trapdoors: A framework for fully secure short signatures and more. In PKC. 499--517.
+Xavier Boyen. 2013. Attribute-based functional encryption on lattices. In TCC. 122--142.
+Zvika Brakerski, Adeline Langlois, Chris Peikert, Oded Regev, and Damien Stehlé. 2013. Classical hardness of learning with errors. In STOC. 575--584.
+Johannes Buchmann, Daniel Cabarcas, Florian Göpfert, Andreas Hülsing, and Patrick Weiden. 2013. Discrete ziggurat: A time-memory trade-off for sampling from a gaussian distribution over the integers. In Selected Areas in Cryptography. Springer, 402--417.
+Johannes Buchmann, Richard Lindner, Markus Rückert, and Michael Schneider. 2009. Post-quantum cryptography: lattice signatures. Computing 85, 1--2 (2009), 105--125.
+Jan Camenisch, Gregory Neven, and Markus Rückert. 2012. Fully anonymous attribute tokens from lattices. In SCN. 57--75.
+Donald Donglong Chen, Nele Mentens, Frederik Vercauteren, Sujoy Sinha Roy, Ray C. C. Cheung, Derek Pao, and Ingrid Verbauwhede. 2014. High-speed polynomial multiplication architecture for ring-LWE and SHE cryptosystems. IACR Cryptology ePrint Archive 2014 (2014), 646.
+Lo Sing Cheng, Ali Miri, and Tet Hin Yeap. 2005. Efficient FPGA implementation of FFT based multipliers. In Electrical and Computer Engineering, 2005. 1300--1303.
+Ruan de Clercq, Sujoy Sinha Roy, Frederik Vercauteren, and Ingrid Verbauwhede. 2014. Efficient software implementation of ring-LWE encryption. IACR Cryptology ePrint Archive 2014 (2014), 725.
+James Cooley and John Tukey. 1965. An algorithm for the machine calculation of complex fourier series. Math. Comp. 19, 90 (1965), 297--301.
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. 2009. Introduction to Algorithms (3rd ed.). MIT Press.
+Özgür Dagdelen, Marc Fischlin, and Tommaso Gagliardoni. 2013. The Fiat-Shamir transformation in a quantum world. In ASIACRYPT (2). 62--81.
+Whitfield Diffie and Martin E. Hellman. 1976. New directions in cryptography. IEEE Trans. Inform. Theory 22, 6 (1976), 644--654.
+Irit Dinur, Guy Kindler, Ran Raz, and Shmuel Safra. 2003. Approximating CVP to within almost-polynomial factors is NP-Hard. Combinatorica 23, 2 (April 2003), 205--243.
+Benedikt Driessen, Axel Poschmann, and Christof Paar. 2008. Comparison of innovative signature algorithms for WSNs. In WISEC. 30--35.
+Léo Ducas. 2014. Accelerating Bliss: The geometry of ternary polynomials. IACR Cryptology ePrint Archive 2014 (2014), 874.
+Léo Ducas, Alain Durmus, Tancrède Lepoint, and Vadim Lyubashevsky. 2013. Lattice signatures and bimodal Gaussians. In CRYPTO (1). 40--56. Retrieved from https://eprint.iacr.org/2013/383.pdf.
+Léo Ducas, Vadim Lyubashevsky, and Thomas Prest. 2014. Efficient identity-based encryption over NTRU lattices. In ASIACRYPT. 22--41.
+Léo Ducas and Daniele Micciancio. 2014. Improved short lattice signatures in the standard model. In CRYPTO. 335--352.
+Léo Ducas and Phong Q. Nguyen. 2012a. Faster gaussian lattice sampling using lazy floating-point arithmetic. In ASIACRYPT. 415--432.
+Léo Ducas and Phong Q. Nguyen. 2012b. Learning a zonotope and more: Cryptanalysis of NTRUSign countermeasures. In ASIACRYPT. 433--450.
+Nagarjun C. Dwarakanath and Steven D. Galbraith. 2014. Sampling from discrete Gaussians for lattice-based cryptography on a constrained device. Appl. Algebra Eng. Commun. Comput. 25, 3 (2014), 159--180.
+Pavel Emeliyanenko. 2009. Efficient multiplication of polynomials on graphics hardware. In APPT. 134--149.
+Amos Fiat and Adi Shamir. 1986. How to prove yourself: Practical solutions to identification and signature problems. In CRYPTO. 186--194.
+Steven D. Galbraith. 2012. Mathematics of Public-Key Cryptography. Cambridge University Press. xiv, 452--459.
+Craig Gentry. 2009a. A Fully Homomorphic Encryption Scheme. Ph.D. Dissertation. Stanford University.
+Craig Gentry. 2009b. Fully homomorphic encryption using ideal lattices. In STOC. 169--178.
+Craig Gentry, Jakob Jonsson, Jacques Stern, and Michael Szydlo. 2001. Cryptanalysis of the NTRU signature scheme (NSS). In ASIACRYPT. 1--20.
+Craig Gentry, Chris Peikert, and Vinod Vaikuntanathan. 2008. Trapdoors for hard lattices and new cryptographic constructions. In STOC. 197--206.
+Craig Gentry and Michael Szydlo. 2002. Cryptanalysis of the revised NTRU signature scheme. In EUROCRYPT. 299--320.
+Oded Goldreich, Shafi Goldwasser, and Shai Halevi. 1996. Public-key cryptosystems from lattice reduction problems. Electron. Colloquium Comput. Complexity (ECCC) 3, 56 (1996).
+Shafi Goldwasser, Silvio Micali, and Ronald L. Rivest. 1988. A digital signature scheme secure against adaptive chosen-message attacks. SIAM J. Comput. 17, 2 (April 1988), 281--308.
+Samuel Dov Gordon, Jonathan Katz, and Vinod Vaikuntanathan. 2010. A group signature scheme from lattice assumptions. In ASIACRYPT. 395--412.
+Norman Göttert, Thomas Feller, Michael Schneider, Johannes Buchmann, and Sorin A. Huss. 2012. On the design of hardware building blocks for modern lattice-based encryption schemes. In CHES. 512--529.
+Tim Güneysu, Vadim Lyubashevsky, and Thomas Pöppelmann. 2012. Practical lattice-based cryptography: A signature scheme for embedded systems. In CHES. 530--547.
+Tim Güneysu, Tobias Oder, Thomas Pöppelmann, and Peter Schwabe. 2013. Software speed records for lattice-based signatures. In PQCrypto. 67--82.
+Nils Gura, Arun Patel, Arvinderpal Wander, Hans Eberle, and Sheueling Chang Shantz. 2004. Comparing elliptic curve cryptography and RSA on 8-bit CPUs. In CHES. 119--132.
+Tamas Györfi, Octavian Cret, and Zalan Borsos. 2013. Implementing modular FFTs in FPGAs - A basic block for lattice-based cryptography. In DSD. 305--308.
+Bettina Helfrich. 1985. Algorithms to construct Minkowski reduced and hermite reduced lattice bases. Theor. Comput. Sci. 41, 2--3 (Dec. 1985), 125--139.
+Jeffrey Hoffstein, Nick Howgrave-Graham, Jill Pipher, Joseph H. Silverman, and William Whyte. 2003. NTRUSign: Digital signatures using the NTRU lattice. In CT-RSA. 122--140.
+Jeffrey Hoffstein, Jill Pipher, and Joseph H. Silverman. 1998. NTRU: A ring-based public key cryptosystem. In ANTS. 267--288.
+Jeffrey Hoffstein, Jill Pipher, and Joseph H. Silverman. 2001. NSS: An NTRU lattice-based signature scheme. In EUROCRYPT. 211--228.
+Abdel Alim Kamal and Amr M. Youssef. 2009. An FPGA implementation of the NTRUEncrypt cryptosystem. In ICM. 209--212.
+Anatoly A. Karatsuba and Yuri Petrovich Ofman. 1963. Multiplication of multidigit numbers on automata. Soviet Phys. Doklady 7 (1963), 595--596.
+Neal Koblitz. 1987. Elliptic curve cryptosystems. Math. Comp. 48, 177 (1987), 203--209.
+Paul C. Kocher, Joshua Jaffe, and Benjamin Jun. 1999. Differential power analysis. In CRYPTO. 388--397.
+Fabien Laguillaumie, Adeline Langlois, Benoît Libert, and Damien Stehlé. 2013. Lattice-based group signatures with logarithmic signature size. In ASIACRYPT (2). 41--61.
+Adeline Langlois and Damien Stehlé. 2014. Worst-case to average-case reductions for module lattices. Designs, Codes Cryptogr. (2014), 1--35.
+Richard Lindner and Chris Peikert. 2011. Better key sizes (and attacks) for LWE-based encryption. In CT-RSA. 319--339.
+Vadim Lyubashevsky. 2009. Fiat-Shamir with aborts: Applications to lattice and factoring-based signatures. In ASIACRYPT. 598--616.
+Vadim Lyubashevsky. 2012. Lattice signatures without trapdoors. In EUROCRYPT. 738--755.
+Vadim Lyubashevsky and Daniele Micciancio. 2009. On bounded distance decoding, unique shortest vectors, and the minimum distance problem. In CRYPTO. 577--594.
+Vadim Lyubashevsky, Daniele Micciancio, Chris Peikert, and Alon Rosen. 2008. SWIFFT: A modest proposal for FFT hashing. In FSE. 54--72.
+Vadim Lyubashevsky, Chris Peikert, and Oded Regev. 2010. On ideal lattices and learning with errors over rings. In EUROCRYPT. 1--23.
+Vadim Lyubashevsky, Chris Peikert, and Oded Regev. 2013a. On ideal lattices and learning with errors over rings. J. ACM 60, 6 (2013), 43.
+Vadim Lyubashevsky, Chris Peikert, and Oded Regev. 2013b. A toolkit for ring-LWE cryptography. In EUROCRYPT. 35--54.
+James H. McClellan. 1976. Hardware realization of a Fermat number transform. IEEE Trans. Acoustics, Speech Signal Proc. 24, 3 (June 1976), 216--225.
+Carlos Aguilar Melchor, Xavier Boyen, Jean-Christophe Deneuville, and Philippe Gaborit. 2014. Sealing the leak on classical NTRU signatures. In PQCrypto 2014. 1--21.
+Daniele Micciancio. 2007. Generalized compact knapsacks, cyclic lattices, and efficient one-way functions. Comput. Complex. 16, 4 (Dec. 2007), 365--411.
+Daniele Micciancio. 2008. Efficient reductions among lattice problems. In SODA. 84--93.
+Daniele Micciancio and Petros Mol. 2011. Pseudorandom knapsacks and the sample complexity of LWE search-to-decision reductions. In CRYPTO. 465--484.
+Daniele Micciancio and Chris Peikert. 2012. Trapdoors for lattices: Simpler, tighter, faster, smaller. In EUROCRYPT. 700--718.
+Daniele Micciancio and Chris Peikert. 2013. Hardness of SIS and LWE with small parameters. In CRYPTO (1). 21--39.
+Daniele Micciancio and Oded Regev. 2004. Worst-case to average-case reductions based on Gaussian measures. In FOCS. 372--381.
+Daniele Micciancio and Oded Regev. 2007. Worst-case to average-case reductions based on gaussian measures. SIAM J. Comput. 37, 1 (2007), 267--302.
+Victor S. Miller. 1986. Use of elliptic curves in cryptography. In CRYPTO. 417--426.
+Robert T. Moenck. 1976. Practical fast polynomial multiplication. In SYMSACC. 136--148.
+Phong Q. Nguyen and Oded Regev. 2009. Learning a parallelepiped: Cryptanalysis of GGH and NTRU signatures. J. Cryptol. 22, 2 (2009), 139--160.
+Henri Nussbaumer. 1980. Fast Fourier Transform and Convolution Algorithms. Springer-Verlag.
+Tobias Oder, Thomas Pöppelmann, and Tim Güneysu. 2014. Beyond ECDSA and RSA: Lattice-based digital signatures on constrained devices. In DAC. 1--6.
+Marshall C. Pease. 1968. An adaptation of the fast fourier transform for parallel processing. J. ACM 15, 2 (April 1968), 252--264.
+Chris Peikert. 2008. Public-key cryptosystems from the worst-case shortest vector problem. Electron. Colloquium Comput. Complexity (ECCC) 15, 100 (2008).
+Chris Peikert. 2010. An efficient and parallel gaussian sampler for lattices. In CRYPTO. 80--97.
+John M. Pollard. 1971. The fast fourier transform in a finite field. Math. Comp. 25, 114 (1971), 365--374.
+Thomas Pöppelmann, Léo Ducas, and Tim Güneysu. 2014. Enhanced lattice-based signatures on reconfigurable hardware. In CHES. 353--370. Retrieved from https://eprint.iacr.org/2014/254.pdf.
+Thomas Pöppelmann and Tim Güneysu. 2012. Towards efficient arithmetic for lattice-based cryptography on reconfigurable hardware. In LATINCRYPT. 139--158.
+Thomas Pöppelmann and Tim Güneysu. 2013. Towards practical lattice-based public-key encryption on reconfigurable hardware. In Selected Areas in Cryptography. Springer, 68--85.
+Thomas Pöppelmann and Tim Güneysu. 2014. Area optimization of lightweight lattice-based encryption on reconfigurable hardware. In ISCAS. 2796--2799.
+Oded Regev. 2005. On lattices, learning with errors, random linear codes, and cryptography. In STOC. 84--93.
+Oded Regev. 2009. On lattices, learning with errors, random linear codes, and cryptography. J. ACM 56, 6 (2009), 40.
+Sujoy Sinha Roy, Oscar Reparaz, Frederik Vercauteren, and Ingrid Verbauwhede. 2014. Compact and side channel secure discrete gaussian sampling. IACR Cryptology ePrint Archive 2014 (2014), 591.
+Sujoy Sinha Roy, Frederik Vercauteren, Nele Mentens, Donald Donglong Chen, and Ingrid Verbauwhede. 2014. Compact hardware implementation of ring-LWE cryptosystems. In CHES. 371--391.
+Sujoy Sinha Roy, Frederik Vercauteren, and Ingrid Verbauwhede. 2013. High precision discrete Gaussian sampling on FPGAs. In Selected Areas in Cryptography. Springer, 1--39.
+Markus Rückert and Michael Schneider. 2010. Estimating the security of lattice-based cryptosystems. IACR Cryptology ePrint Archive 2010 (2010), 137.
+Claus-Peter Schnorr. 1989. Efficient identification and signatures for smart cards. In CRYPTO. 239--252.
+Peter W. Shor. 1997. Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer. SIAM J. Comput. 26, 5 (Oct. 1997), 1484--1509.
+Patrick Weiden, Andreas Hülsing, Daniel Cabarcas, and Johannes Buchmann. 2013. Instantiating treeless signature schemes. IACR Cryptology ePrint Archive 2013 (2013), 65.
+Franz Winkler. 1996. Polynomial Algorithms in Computer Algebra (Texts and Monographs in Symbolic Computation). Springer.

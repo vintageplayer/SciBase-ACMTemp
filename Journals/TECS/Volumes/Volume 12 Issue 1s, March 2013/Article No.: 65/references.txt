@@ -1,0 +1,17 @@
+Aumüller, C., Bier, P., Fischer, W., Hofreiter, P., and Seifert, J.-P. 2003. Fault attacks on RSA with CRT: Concrete results and practical countermeasures. In Proceedings of CHES 02. Lecture Notes in Computer Science, vol. 2523, Springer-Verlag, 260--275.
+Johannes Blömer , Martin Otto , Jean-Pierre Seifert, A new CRT-RSA algorithm secure against bellcore attacks, Proceedings of the 10th ACM conference on Computer and communications security, October 27-30, 2003, Washington D.C., USA[doi>10.1145/948109.948151]
+Dan Boneh , Richard A. DeMillo , Richard J. Lipton, On the importance of checking cryptographic protocols for faults, Proceedings of the 16th annual international conference on Theory and application of cryptographic techniques, May 11-15, 1997, Konstanz, Germany
+Boneh, D., Demillo, R. A., and Lipton, R. J. 1998. On the importance of eliminating errors in cryptographic computations. J. Cryptol. 14, 2, 101--119.
+Mariusz Czapski , Maciej Nikodem, Error detection and error correction procedures for the advanced encryption standard, Designs, Codes and Cryptography, v.49 n.1-3, p.217-232, December  2008[doi>10.1007/s10623-008-9192-8]
+Feige, U., Fiat, A., and Shamir, A. 1988. Zero knowledge proofs of identity. J. Cryptol. 1, 2, 77--94.
+Fiat, A. and Shamir, A. 1987. How to prove yourself: practical solution to identification and signature problems. In Proceedings of CRYPTO'86. Lecture Notes in Computer Science, vol. 263, Springer-Verlag, 186--199.
+Christophe Giraud, An RSA Implementation Resistant to Fault Attacks and to Simple Power Analysis, IEEE Transactions on Computers, v.55 n.9, p.1116-1120, September 2006[doi>10.1109/TC.2006.135]
+Joye, M., Lenstra, A., and Quisquater, J.-J. 1999. Chinese remaindering based cryptosystems in the presence of faults. J. Cryptol. 12, 241--245.
+Chong Hee Kim , Jean-Jacques Quisquater, Fault attacks for CRT based RSA: new attacks, new results and new countermeasures, Proceedings of the 1st IFIP TC6 /WG8.8 /WG11.2 international conference on Information security theory and practices: smart cards, mobile and ubiquitous computing systems, May 09-11, 2007, Heraklion, Crete, Greece
+Paul C. Kocher, Timing Attacks on Implementations of Diffie-Hellman, RSA, DSS, and Other Systems, Proceedings of the 16th Annual International Cryptology Conference on Advances in Cryptology, p.104-113, August 18-22, 1996
+PKCS. (Public Key Cryptography Standards). No 1, RSA Cryptography Standard, Ver. 1.5. http://www. rsa.com/rsalabs/pubs/pkcs.
+Rabin, M. 1979. Digitalized signatures and public key functions as intractable as factorization. Tech. rep. MIT/LCS/TR-212, MIT Laboratory for Computer Science.
+Schnorr, C. 1991. Efficient signature generation by smart cards. J. Cryptol. 4, 161--174.
+Shamir, A. 1999. Method and apparatus for protecting public key schemes from timing and fault attacks. US Patent 5991415.
+Artemios G. Voyiatzis , Dimitrios N. Serpanos, The security of the Fiat--Shamir scheme in the presence of transient hardware faults, ACM Transactions on Embedded Computing Systems (TECS), v.7 n.3, p.1-13, April 2008[doi>10.1145/1347375.1347384]
+Sung-Ming Yen , Marc Joye, Checking Before Output May Not Be Enough Against Fault-Based Cryptanalysis, IEEE Transactions on Computers, v.49 n.9, p.967-970, September 2000[doi>10.1109/12.869328]

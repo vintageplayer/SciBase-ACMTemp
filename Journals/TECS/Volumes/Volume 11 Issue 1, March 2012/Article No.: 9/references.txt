@@ -1,0 +1,30 @@
+Nitin Agrawal , Vijayan Prabhakaran , Ted Wobber , John D. Davis , Mark Manasse , Rina Panigrahy, Design tradeoffs for SSD performance, USENIX 2008 Annual Technical Conference on Annual Technical Conference, p.57-70, June 22-27, 2008, Boston, Massachusetts
+Ban, A. 1995. Flash file system. US Patent 5,404,485. M-Systems.
+Ban, A. 2004. Wear leveling of static areas in flash memory. US Patent 6,732,221. M-Systems.
+Brian Carrier, File System Forensic Analysis, Addison-Wesley Professional, 2005
+Li-Pin Chang, On efficient wear leveling for large-scale flash-memory storage systems, Proceedings of the 2007 ACM symposium on Applied computing, March 11-15, 2007, Seoul, Korea[doi>10.1145/1244002.1244248]
+Li-Pin Chang, Hybrid solid-state disks: combining heterogeneous NAND flash in large SSDs, Proceedings of the 2008 Asia and South Pacific Design Automation Conference, January 21-24, 2008, Seoul, Korea
+Li-Pin Chang , Tei-Wei Kuo, An Adaptive Striping Architecture for Flash Memory Storage Systems of Embedded Systems, Proceedings of the Eighth IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS'02), p.187, September 25-27, 2002
+Li-Pin Chang , Tei-Wei Kuo, An efficient management scheme for large-scale flash-memory storage systems, Proceedings of the 2004 ACM symposium on Applied computing, March 14-17, 2004, Nicosia, Cyprus[doi>10.1145/967900.968076]
+Yuan-Hao Chang , Jen-Wei Hsieh , Tei-Wei Kuo, Endurance enhancement of flash-memory storage systems: an efficient static wear leveling design, Proceedings of the 44th annual Design Automation Conference, June 04-08, 2007, San Diego, California[doi>10.1145/1278480.1278533]
+Yuan-Hao Chang , Tei-Wei Kuo, A commitment-based management strategy for the performance and reliability enhancement of flash-memory storage systems, Proceedings of the 46th Annual Design Automation Conference, July 26-31, 2009, San Francisco, California[doi>10.1145/1629911.1630130]
+Hyun Jin Choi , Seung-Ho Lim , Kyu Ho Park, JFTL: A flash translation layer based on a journal remapping for flash memory, ACM Transactions on Storage (TOS), v.4 n.4, p.1-22, January 2009[doi>10.1145/1480439.1480443]
+Yehua Du , Ming Cai , Jinxiang Dong, Adaptive Energy-Aware Design of a Multi-Bank Flash-Memory Storage System, Proceedings of the 11th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications, p.311-316, August 17-19, 2005[doi>10.1109/RTCSA.2005.18]
+Jen-Wei Hsieh , Li-Pin Chang , Tei-Wei Kuo, Efficient on-line identification of hot data for flash-memory management, Proceedings of the 2005 ACM symposium on Applied computing, March 13-17, 2005, Santa Fe, New Mexico[doi>10.1145/1066677.1066870]
+Jen-Wei Hsieh , Tei-Wei Kuo , Po-Liang Wu , Yu-Chung Huang, Energy-efficient and performance-enhanced disks using flash-memory cache, Proceedings of the 2007 international symposium on Low power electronics and design, August 27-29, 2007, Portland, OR, USA[doi>10.1145/1283780.1283851]
+Intel Corporation. FTL logger exchanging data with FTL systems.
+Intel Corporation 1998. Understanding the Flash Translation Layer (FTL) specification, http://developer. intel.com/.
+Yongsoo Joo , Yongseok Choi , Chanik Park , Sung Woo Chung , EuiYoung Chung , Naehyuck Chang, Demand paging for OneNAND™ Flash eXecute-in-place, Proceedings of the 4th international conference on Hardware/software codesign and system synthesis, October 22-25, 2006, Seoul, Korea[doi>10.1145/1176254.1176310]
+Atsuo Kawaguchi , Shingo Nishioka , Hiroshi Motoda, A flash-memory based file system, Proceedings of the USENIX 1995 Technical Conference Proceedings, p.13-13, January 16-20, 1995, New Orleans, Louisiana
+Jian-Hong Lin , Yuan-Hao Chang , Jen-Wei Hsieh , Tei-Wei Kuo , Cheng-Chih Yang, A NOR Emulation Strategy over NAND Flash Memory, Proceedings of the 13th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications, p.95-102, August 21-24, 2007[doi>10.1109/RTCSA.2007.9]
+M-Systems 1998. Flash-Memory translation layer for NAND flash (NFTL). M-Systems.
+Microsoft 2006. Windows ReadyDrive and Hybrid Hard Disk Drives, http://www.microsoft.com/whdc/device/storage/hybrid.mspx.
+Pullen, D. 2006. Flash cache memory puts robson in the middle. Intel.
+Samsung Electronics 2005a. K9NBG08U5M 4G * 8 Bit NAND flash memory data sheet.
+Samsung Electronics 2005b. OneNAND features and performance.
+Samsung Electronics 2006. KFW8G16Q2M-DEBx 512M x 16bit OneNAND flash memory data sheet.
+STMicroelectronics 2005. NAND08Gx3C2A 8Gbit multi-level NAND flash memory.
+Texas Instruments 2006. DaVinci digital media system-on-chip - TMS320DM6446.
+Woodhouse, D. 2001. JFFS: The journalling flash file system. In Proceedings of the Ottawa Linux Symposium.
+Chin-Hsien Wu , Tei-Wei Kuo, An adaptive two-level management for the flash translation layer in embedded systems, Proceedings of the 2006 IEEE/ACM international conference on Computer-aided design, November 05-09, 2006, San Jose, California[doi>10.1145/1233501.1233624]
+Po-Liang Wu , Yuan-Hao Chang , Tei-Wei Kuo, A file-system-aware FTL design for flash-memory storage systems, Proceedings of the Conference on Design, Automation and Test in Europe, April 20-24, 2009, Nice, France

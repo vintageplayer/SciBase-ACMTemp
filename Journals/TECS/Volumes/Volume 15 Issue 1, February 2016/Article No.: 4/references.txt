@@ -1,0 +1,22 @@
+L. Batina, B. Gierlichs, and K. Lemke-Rust. 2008. Comparative evaluation of rank correlation based DPA on an AES prototype chip. In Proceedings of the International Conference on Information Security (ISC’08). Lecture Notes in Computer Science, Vol. 5222. Springer, Berlin, 341--354.
+Sonia Belaid, L. Bettale, E. Dottax, L. Genelle, and F. Rondepierre. 2013. Differential power analysis of HMAC SHA-2 in the hamming weight model. In Proceedings of International Conference on Security and Cryptography (SECRYPT’13). Scitepress, (July 2013), 230--241.
+Mihir Bellare, Ran Canetti, and Hugo Krawczyk. 1996. Keying hash functions for message authentication. In Proceedings of Advances in Cryptology (Crypto’96). Lecture Notes in Computer Science, Vol. 1109. Springer, Berlin, 1--15.
+Eric Brier, Christophe Clavier, and Francis Olivier. 2004. Correlation power analysis with a leakage model. In Proceedings of Cryptographic Hardware and Embedded Systems (CHES’04). Lecture Notes in Computer Science, Vol. 3156. Springer, Berlin, 16--29.
+V. Carlier, H. Chabanne, E. Dottax, and H. Pelletier. 2005. Generalizing square attack using side-channels of an AES implementation on an FPGA. In Proceedings of Field Programmable Logic and Applications (FPL’05). IEEE, 433--37.
+FIPS. 2002. Secure Hash standard, FIPS 180--2, August 2002.
+FIPS. 2008a. Secure Hash standard, FIPS 180--3, 2008.
+FIPS. 2012. Secure Hash standard, FIPS 180--4, March 2012.
+FIPS. 2008b. The keyed-hash message authentication code (HMAC), FIPS Pub 198, July 2008.
+FIPS. 2014. SHA-3 Standard: Permutation-based hash and extendable-output functions. Draft FIPS PUB 202, May 2014.
+Pierre-Alain Fouque, D. Real, F. Valette, and M. Drissi. 2008. The carry leakage on the randomized exponent countermeasure. In Proceedings of Cryptographic Hardware and Embedded Systems (CHES’08). Lecture Notes in Computer Science, Vol. 5154. Springer, Berlin, 198--213.
+Pierre-Alain Fouque, G. Leurent, D. Real, and F. Valette. 2009. Practical electromagnetic template attack on HMAC. In Proceedings of Cryptographic Hardware and Embedded Systems (CHES’09). Lecture Notes in Computer Science, Vol. 5747. Springer, Berlin, 66--80.
+Marcio Juliato and C. Gebotys. 2011. FPGA Implementation of an HMAC Processor Based on the SHA-2 Family of Hash Functions. Center for Applied Cryptographic Research Technical Report CACR 2011-10. University of Waterloo, Waterloo ON Canda.
+Neal Koblitz and A. Menezes. 2013. Another look at HMAC. Journal of Mathematical Cryptology 7, 3 (Sept. 2013), 225--251.
+Paul Kocher, J. Jaffe, and B. Jun. 1999. Differential power analysis. In Proceedings of Advances of Cryptology (Crypto’99). Lecture Notes in Computer Science, Vol. 1666. Springer-Verlag, Berlin, 388--397.
+H. Krawczyk, M. Bellare, and M. Canetti. 1997. HMAC: Keyed-Hashing for Message Authentication. Network Working Group Request for Comments (Feb. 1997) RFC 2104.
+S. Mane, M. Taha, and P. Schaumont. 2012. Efficient and side-channel-secure block cipher implementation with custom instructions on FPGA. In Proceedings of Field Programmable Logic and Applications (FPL’12). IEEE, 20--25.
+Robert McEvoy, M. Tunstall, C. C. Murphy, and W. P. Marnane. 2007. Differential power analysis of HMAC based on SHA-2 and countermeasures. In Proceedings of the 8th International Workshop on Information Security Applications (WISA’07). Lecture Notes in Computer Science, Vol. 4867, Springer, Berlin, 317--332.
+Amir Moradi, D. Oswald, C. Paar, and P. Swierczynski. 2013. Side-channel attacks on the bitstream encryption mechanism of altera stratix II. In Proceedings of FPGA’13. 91--100.
+Pankaj Rohatgi and Mark Marson. 2013. NSA Suite B Crypto, Keys, and Side Channel Attacks. RSA Conference 2013, Session ID DSP-W22, Session Classification: Advanced. Retrieved from https://www.rsaconference.com/writable/presentations/file_upload/dsp-w22.pdf.
+M. Tunstall, N. Hanley, R. P. McEvoy, C. Whelan, C. C. Murphy, and W. P. Marnane. 2007. Correlation power analysis of large word sizes. In Proceedings of the IET Irish Signals and Systems Conference (ISSC’07). IET. 145--150.
+Xiaoyun Wang, Y. L. Yin, and H. Yu. 2005. Finding collisions in the full SHA-1. In Proceedings of the International Cryptology Conference (Crypto’05). Lecture Notes in Computer Science, Vol. 3621, Springer, Berlin, 27--36.

@@ -1,0 +1,39 @@
+aJile. 2000. aj-100 real-time low power Java processor. Preliminary data sheet.
+Austin Armbruster , Jason Baker , Antonio Cunei , Chapman Flack , David Holmes , Filip Pizlo , Edward Pla , Marek Prochazka , Jan Vitek, A real-time Java virtual machine with applications in avionics, ACM Transactions on Embedded Computing Systems (TECS), v.7 n.1, p.1-49, December 2007[doi>10.1145/1324969.1324974]
+David F. Bacon , Perry Cheng , V. T. Rajan, A real-time garbage collector with low overhead and consistent utilization, Proceedings of the 30th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.285-298, January 15-17, 2003, New Orleans, Louisiana, USA[doi>10.1145/604131.604155]
+James Gosling , Greg Bollella, The Real-Time Specification for Java, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 2000
+Alan Burns , Andrew J. Wellings, Real-Time Systems and Programming Languages: ADA 95, Real-Time Java, and Real-Time POSIX, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 2001
+Caska, J.accessed 2009. micro {μ} virtual-machine. http://muvium.com/.
+Andy Chou , Junfeng Yang , Benjamin Chelf , Seth Hallem , Dawson Engler, An empirical study of operating systems errors, ACM SIGOPS Operating Systems Review, v.35 n.5, Dec. 2001[doi>10.1145/502059.502042]
+Michael Golm , Meik Felser , Christian Wawersich , Jürgen Kleinöder, The JX Operating System, Proceedings of the General Track of the annual conference on USENIX Annual Technical Conference, p.45-58, June 10-15, 2002
+Erich Gamma , Richard Helm , Ralph Johnson , John Vlissides, Design patterns: elements of reusable object-oriented software, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1995
+David Gay , Philip Levis , Robert von Behren , Matt Welsh , Eric Brewer , David Culler, ThenesClanguage: A holistic approach to networked embedded systems, Proceedings of the ACM SIGPLAN 2003 conference on Programming language design and implementation, June 09-11, 2003, San Diego, California, USA[doi>10.1145/781131.781133]
+Gerum, P.2004. Xenomai - Implementing a RTOS emulation framework on GNU/Linux. http://www.xenomai.org/documentation/branches/v2.4.x/pdf/xenomai.pdf.
+Group, T. C.2008. Trusted computing. https://www.trustedcomputinggroup.org/.
+Per Brinch Hansen, The architecture of concurrent programs, Prentice-Hall, Inc., Upper Saddle River, NJ, 1977
+John L. Hennessy , David A. Patterson, Computer architecture: a quantitative approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 02
+Henties, T., Hunt, J. J., Locke, D., Nilsen, K., Schoeberl, M., and Vitek, J.2009. Java for safety-critical applications. InProceedings of the 2nd International Workshop on the Certification of Safety-Critical Software Controlled Systems (SafeCert’09).
+Jason Hill , Robert Szewczyk , Alec Woo , Seth Hollar , David Culler , Kristofer Pister, System architecture directions for networked sensors, Proceedings of the ninth international conference on Architectural support for programming languages and operating systems, p.93-104, November 2000, Cambridge, Massachusetts, USA[doi>10.1145/378993.379006]
+Hunt, G., Larus, J. R., Abadi, M., Aiken, M., Barham, P., Fahndrich, M., Hawblitzel, C., Hodson, O., Levi, S., Murphy, N., Steensgaard, B., Tarditi, D., Wobber, T., and Zill, B. D.2005. An overview of the singularity project. Tech. rep. MSR-TR-2005-135, Microsoft Research (MSR).
+Stephan Korsholm , Martin Schoeberl , Anders P. Ravn, Interrupt Handlers in Java, Proceedings of the 2008 11th IEEE Symposium on Object Oriented Real-Time Distributed Computing, p.453-457, May 05-07, 2008[doi>10.1109/ISORC.2008.68]
+Krall, A. and Grafl, R.1997. CACAO -- A 64 bit JavaVM just-in-time compiler. InProceedings of the Workshop on Java for Science and Engineering Computation (PPoPP’97), G. C. Fox and W. Li Eds. ACM.
+Kreuzinger, J., Brinkschulte, U., Pfeffer, M., Uhrig, S., and Ungerer, T.2003. Real-Time event-handling and scheduling on a multithreaded Java microcontroller.Microprocess. Microsyst. 27,1, 19--31.
+Tim Lindholm , Frank Yellin, Java Virtual Machine Specification, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1999
+Lohmeier, S.2005. Jini on the Jnode Java os. http://monochromata.de/jnodejini.html.
+Geoffrey Phipps, Comparing observed bug and productivity rates for Java and C++, Software—Practice & Experience, v.29 n.4, p.345-358, April 10, 1999[doi>10.1002/(SICI)1097-024X(19990410)29:4<345::AID-SPE238>3.0.CO;2-C]
+A. P. Ravn, Device Monitors, IEEE Transactions on Software Engineering, v.6 n.1, p.49-53, January 1980[doi>10.1109/TSE.1980.230462]
+RTJ Computing. 2000. SimpleRTJ a small footprint Java VM for embedded and consumer devices. http://www.rtjcom.com/.
+Schoeberl, M.2005. Jop: A Java optimized processor for embedded real-time systems. Ph.D. thesis, Vienna University of Technology.
+Martin Schoeberl, Real-Time Garbage Collection for Java, Proceedings of the Ninth IEEE International Symposium on Object and Component-Oriented Real-Time Distributed Computing, p.424-432, April 24-26, 2006[doi>10.1109/ISORC.2006.66]
+Martin Schoeberl, A Java processor architecture for embedded real-time systems, Journal of Systems Architecture: the EUROMICRO Journal, v.54 n.1-2, p.265-286, January, 2008[doi>10.1016/j.sysarc.2007.06.001]
+Martin Schoeberl , Jan Vitek, Garbage collection for safety critical Java, Proceedings of the 5th international workshop on Java technologies for real-time and embedded systems, September 26-28, 2007, Vienna, Austria[doi>10.1145/1288940.1288953]
+Martin Schoeberl , Wolfgang Puffitsch, Non-blocking object copy for real-time garbage collection, Proceedings of the 6th international workshop on Java technologies for real-time and embedded systems, September 24-26, 2008, Santa Clara, California[doi>10.1145/1434790.1434802]
+Martin Schoeberl , Christian Thalinger , Stephan Korsholm , Anders P. Ravn, Hardware Objects for Java, Proceedings of the 2008 11th IEEE Symposium on Object Oriented Real-Time Distributed Computing, p.445-452, May 05-07, 2008[doi>10.1109/ISORC.2008.63]
+L. Sha , R. Rajkumar , J. P. Lehoczky, Priority Inheritance Protocols: An Approach to Real-Time Synchronization, IEEE Transactions on Computers, v.39 n.9, p.1175-1185, September 1990[doi>10.1109/12.57058]
+Siebert, F.2002.Hard Realtime Garbage Collection in Modern Object Oriented Programming Languages. aicas Books.
+Doug Simon , Cristina Cifuentes , Dave Cleal , John Daniels , Derek White, Java™ on the bare metal of wireless sensor devices: the squawk Java virtual machine, Proceedings of the 2nd international conference on Virtual execution environments, June 14-16, 2006, Ottawa, Ontario, Canada[doi>10.1145/1134760.1134773]
+Andy Wellings , Martin Schoeberl, Thread-Local Scope Caching for Real-time Java, Proceedings of the 2009 IEEE International Symposium on Object/Component/Service-Oriented Real-Time Distributed Computing, p.275-282, March 17-20, 2009[doi>10.1109/ISORC.2009.13]
+Wilkinson, T.1996. Kaffe -- A virtual machine to run Java code. http://www.kaffe.org.
+Wirth, N.1977. Design and implementation of modula.Softw. Pract. Exper. 7, 3--84.
+N. Wirth, Programming in Modula-2, Springer-Verlag TELOS, Santa Clara, CA, 1983
+Xenomai Developers. 2008. Xenomai: Real-Time framework for Linux. http://www.xenomai.org.

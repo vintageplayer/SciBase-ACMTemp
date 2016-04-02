@@ -1,0 +1,32 @@
+Aamodt, T. 2001. Floating-point to Fixed-Point Compilation and Embedded Architectural Support. M.S. thesis, University of Toronto.
+Tor Aamodt , Paul Chow, Embedded ISA support for enhanced floating-point to fixed-point ANSI-C compilation, Proceedings of the 2000 international conference on Compilers, architecture, and synthesis for embedded systems, p.128-137, November 17-19, 2000, San Jose, California, USA[doi>10.1145/354880.354899]
+Alta Group. 1994. Fixed-Point Optimizer User's Guide. Cadence Design Systems, Inc. Sunnyvale, CA.
+Anspach, K. M., Bomar, B. W., Engels, R. C., and Joseph, R. D. 1996. Minimization of fixed-point roundoff noise in extended state-space digital filters. IEEE Trans. Circuits Syst. II 43, 3 (Mar.).
+Scott A. Bortoff, Approximate state-feedback linearization using spline functions, Automatica (Journal of IFAC), v.33 n.8, p.1449-1458, Aug. 1997[doi>10.1016/S0005-1098(97)00070-8]
+Chung, J.-G. and Parhi, K. K. 1995. Scaled normalized lattice digital filter structures. IEEE Trans. Circuits Syst. II 42, 4 (Apr.).
+Hwang, S. Y. 1977. Minimum uncorrelated unit noise in state-space digital filtering. IEEE Transactions on Accoustics, Speech, and Signal Processing ASSP-25, 273--281.
+Jackson, L. B. 1970a. On the interaction of roundoff noise and dynamic range in digital filters. Bell Syst. Tech. J. 49, 2 (Feb.).
+Jackson, L. B. 1970b. Roundoff-noise analysis for fixed-point digital filters realized in cascade or parallel form. In IEEE Transactions on Audio and Electroacoustics AU-18, 2 (June).
+Kim, S. and Sung, W. 1994. A floating-point to fixed-point assembly program translator for the TMS 320C25. IEEE Trans. Circuits Syst. II 41, 11 (Nov.).
+Kim, S. and Sung, W. 1998. Fixed-point optimization utility for C and C&plus;&plus; based digital signal processing programs. IEEE Trans. Circuits Syst. II 45, 11 (Nov.).
+Ki-Il Kum , Wonyong Sung, Combined word-length optimization and high-level synthesis of digital signal processing systems, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.20 n.8, p.921-930, November 2006[doi>10.1109/43.936374]
+Kum, K.-I., Kang, J., and Sung, W. 1997. A floating-point to fixed-point C converter for fixed-point digital signal processors. In Proceedings of the 2nd SUIF Compiler Workshop.
+Ki-Il Kum , Jiyang Kang , Wonyong Sung, A floating-point to integer C converter with shift reduction for fixed-point digital signal processors, Proceedings of the Acoustics, Speech, and Signal Processing, 1999. on 1999 IEEE International Conference, p.2163-2166, March 15-19, 1999[doi>10.1109/ICASSP.1999.758363]
+Kum, K.-I., Kang, J., and Sung, W. 2000. AUTOSCALER for C: An optimizing floating-point to integer C program converter for fixed-point digital signal processors. IEEE Trans. Circuits Syst. II 47, 9 (Sept.), 840--848.
+Daniel Menard , Daniel Chillet , François Charot , Olivier Sentieys, Automatic floating-point to fixed-point conversion for DSP code generation, Proceedings of the 2002 international conference on Compilers, architecture, and synthesis for embedded systems, October 08-11, 2002, Grenoble, France[doi>10.1145/581630.581674]
+Mullis, C. T. and Roberts, R. A. 1976. Synthesis of minimum roundoff noise fixed-point digital filters. IEEE Transactions on Circuits and Systems CAS-23, 551--561.
+Oppeheim, A. V. 1970. Realization of digital filters using block-floating-point arithmetic. IEEE Transactions on Audio and Electroacoustics AU-18, 2 (June).
+Peng, S. 1999. UTDSP: A VLIW programmable DSP processor in 0.35 μm CMOS. M.S. thesis, University of Toronto. http://www.eecg.utoronto.ca/~speng.
+Pujare, S., Lee, C. G., and Chow, P. 1995. Machine-independent compiler optimizations for the UofT DSP architecture. In Proceedings of the 6th ICSPAT. 860--865.
+Saghir, M. A. 1993. Architectural and compiler support for DSP applications. M.S. thesis, University of Toronto.
+Saghir, M. A. 1998. Application-specific instruction-set architectures for embedded DSP applications. Ph.D. thesis, University of Toronto.
+Saghir, M. A., Chow, P., and Lee, C. G. 1994. Application-driven design of DSP architectures and compilers. In Proceedings of the ICASSP. II--437--II--440.
+Singh, V. 1992. An optimizing C compiler for a general purpose DSP architecture. M.S. thesis, Univeristy of Toronto.
+Spang, H. A. and Schultheiss, P. M. 1962. Reduction of quantization noise by use of feedback. IRE Trans. Commun. CS-10, 373--380.
+Mark G. Stoodley , Corinna G. Lee, Software pipelining loops with conditional branches, Proceedings of the 29th annual ACM/IEEE international symposium on Microarchitecture, p.262-273, December 02-04, 1996, Paris, France
+Karthik Sundaramoorthy , Zach Purser , Eric Rotenburg, Slipstream processors: improving both performance and fault tolerance, Proceedings of the ninth international conference on Architectural support for programming languages and operating systems, p.257-268, November 2000, Cambridge, Massachusetts, USA[doi>10.1145/378993.379247]
+Synopsys 2000a. Press Release: Synopsys Accelerates System-Level C-Based DSP Design With CoCentric Fixed-Point Designer Tool. Synopsys Inc.
+Synopsys 2000b. Synopsys CoCentric Fixed-Point Designer Datasheet. Synopsys Inc.
+Texas Instruments. 1993. TMS320C5x User's Guide.
+M. Willems , V. Biirsgens , T. Grotker , H. Meyr, FRIDGE: An Interactive Code Generation Environment for HW/SW CoDesign, Proceedings of the 1997 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP '97) -Volume 1, p.287, April 21-24, 1997
+Craig Zilles , Gurindar Sohi, Master/slave speculative parallelization, Proceedings of the 35th annual ACM/IEEE international symposium on Microarchitecture, November 18-22, 2002, Istanbul, Turkey

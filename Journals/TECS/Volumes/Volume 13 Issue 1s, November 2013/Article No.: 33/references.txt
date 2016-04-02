@@ -1,0 +1,27 @@
+Ahnesjö, A. 1989. Collapsed cone convolution of radiant energy for photon dose calculation in heterogeneous media. Med. Phys. 16, 577--92.
+Ahnesjö, A. 1997, Cone discretization for the collapsed cone algorithm. In Proceedings of the International Conference on the Use of Computers in Radiation Therapy. 114--116.
+Breitman, K., Rathee, S., et al. 2007. Experimental validation of the Eclipse AAA algorithm. J. Appl. Clinical Med. Phys. 8, 2, 76--92.
+Chauvie, S., Dominonic, M., Marinic, P., Stasia, M., Piab, M. G., and Scielzoa, G. 2003. Monte Carlo dose calculation algorithm on a distributed system. Nuclear Physics 125, 159--163.
+Bowen, M. 1998. Handel-C Language Reference Manual. Celoxica Ltd, Abingdon, UK.
+Chen, Q., Chen, M., and Lu, W. 2011. Ultrafast convolution/superposition using tabulated and exponential kernels on GPU. Med. Phys. 38, 3, 1150--1161.
+Detrey, J. and Dinechin, F. D. 2003. A VHDL library of LNS operators. In Proceedings of the 37th Asilomar Conference on Signals, Systems and Computers. 2227--2231.
+Fraass, B. A., Smathers, J., and Deye, J. 2003. Summary and recommendations of a National Cancer Institute workshop on issues limiting the clinical use of Monte Carlo dose calculation algorithms for megavoltage external beam radiation therapy. Med. Phys. 30, 3206--3216.
+de Greef, M., Crezee, J., van Eijk, J. C., Pool, R., and Bel, A. 2009. Accelerated ray tracing for radiotherapy dose calculations on a GPU. Med. Phys. 36, 9, 4095--4192.
+Zhi Guo , Betul Buyukkurt , Walid Najjar , Kees Vissers, Optimized Generation of Data-Path from C Codes for FPGAs, Proceedings of the conference on Design, Automation and Test in Europe, p.112-117, March 07-11, 2005[doi>10.1109/DATE.2005.234]
+Gu, X., Choi, D., Men, C., Pan, H., Majumdar, A., and Jiang, S. B. 2010. GPU-based ultra-fast dose calculation using a finite size pencil beam model. Phys. Med. Biol., 54, 20, 6287--6297.
+Hissoiny, S., Ozell, B. and Després, P. 2009. Fast convolution-superposition dose calculation on graphics hardware. Med. Phys. 36, 1998--2005.
+Jacques, R., Taylor, R., Wong, J., and Mcnutt, T., 2008. Towards real-time radiation therapy: GPU accelerated superposition/convolution. In Proceedings of the High-Performance Medical Image Computing and Computer Aided Intervention Workshop.
+Lu, W., Olivera, G. H., Chen, M. L., Reckwerdt, P. J., and Mackie, T. R. 2005. Accurate convolution/super-position for multi-resolution dose calculations using cumulative tabulated kernels. Phys. Med. Biol 50, 655--680.
+Jason Luu , Keith Redmond , William Lo , Paul Chow , Lothar Lilge , Jonathan Rose, FPGA-based Monte Carlo Computation of Light Absorption for Photodynamic Cancer Therapy, Proceedings of the 2009 17th IEEE Symposium on Field Programmable Custom Computing Machines, p.157-164, April 05-07, 2009[doi>10.1109/FCCM.2009.24]
+Mackie, T. R., Bielajew, A. F., Rogers, D. W. O., and Battista, J. J. 1988. Generation of photon energy deposition kernels using the EGS Monte Carlo code. Phys. Med. Biol. 33, 1--20.
+Maspradakis, M., Morrison, R. H., Richmond, N., and Steele, A. 2003. Experimental verification of convolution/superposition photon dose calculations for radio therapy treatment planning. Phys. Med. Biol. 48, 2873--2893.
+McGary, J. E. and Boyer, A. L. 1997. An interactive, parallel, three-dimensional fast Fourier transform convolution dose calculation using a supercomputer. Med. Phys. 24, 519--522.
+McNutt, T. R. 1999. Dose calculations collapsed cone convolution and delta pixel beam, White Paper Publication, ADAC Laboratories (Philips), Milpitas, CA.
+Reckwerdt, P. J. and Mackie, T. R. 1992. Superposition/convolution speed improvements using runlength. Med. Phys. 19, 784.
+Wang, C., Luan, S., Tang, G., Chen, D. Z., Earl, M. A., and Yu, C. X. 2008. Arc-modulated radiation therapy (AMRT): A single-arc form of intensity-modulated arc therapy. Phys. Med. Biol. 53, 22, 6291--6303.
+Kevin Whitton , X. Sharon Hu , Cedric X. Yi , Danny Z. Chen, An FPGA Solution for Radiation Dose Calculation, Proceedings of the 14th Annual IEEE Symposium on Field-Programmable Custom Computing Machines, p.227-236, April 24-26, 2006[doi>10.1109/FCCM.2006.23]
+Zhou, B., Hu, X. S., Chen, D. Z., and Yu, C. X. 2007. Hardware acceleration for 3-D radiation dose calculation. In Proceedings of the 18th IEEE International Conference on Application-specific Systems, Architectures and Processors. 290--296.
+Zhou, B., Hu, X. S., Chen, D. Z., and Yu, C. X. 2009. A multi-FPGA accelerator for dose calculation in radiation therapy. In Proceedings of the 51st Annual Meeting of the American Association of Physicists in Medicine.
+Zhou, B., Hu, X. S., Chen, D. Z., and Yu, C. X. 2009. A multi-FPGA accelerator for radiation dose calculation in cancer treatment. In Proceedings of the 7th IEEE Symposium on Application Specific Processors. 70--79.
+Zhou, B., Yu, X. S., Chen, D. Z., and Hu, C. X. 2010. GPU-accelerated Monte Carlo convolution/superposition implementation for dose calculation. Med. Phys. 37, 11, 5593--5603.
+Zhou, B., Hu, X. S., Chen, D. Z., and Yu, C. X. 2010. Dose calculation accelerating: A comparison study of GPU and FPGA based on collapsed cone algorithm. In Proceedings of the 52nd Annual Meeting of the American Association of Physicists in Medicine.

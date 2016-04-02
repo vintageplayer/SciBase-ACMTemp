@@ -1,0 +1,39 @@
+Aggarwal, A. and Gupta, D. 2002. Failure detectors for distributed systems. Tech. rep., Indian Institute of Technology, Kanpur, India. http://resolute.ucsd.edu/diwaker/publications/ds.pdf.
+Marcos Kawazoe Aguilera , Wei Chen , Sam Toueg, Heartbeat: A Timeout-Free Failure Detector for Quiescent Reliable Communication, Proceedings of the 11th International Workshop on Distributed Algorithms, p.126-140, September 24-26, 1997
+A. Arora , S. S. Kulkarni, Detectors and Correctors: A Theory of Fault-Tolerance Components, Proceedings of the The 18th International Conference on Distributed Computing Systems, p.436, May 26-29, 1998
+Algirdas Avizienis , Jean-Claude Laprie , Brian Randell , Carl Landwehr, Basic Concepts and Taxonomy of Dependable and Secure Computing, IEEE Transactions on Dependable and Secure Computing, v.1 n.1, p.11-33, January 2004[doi>10.1109/TDSC.2004.2]
+H. Aydin , R. Melhem , D. Mosse, Optimal scheduling of imprecise computation tasks in the presence of multiple faults, Proceedings of the Seventh International Conference on Real-Time Systems and Applications, p.289, December 12-14, 2000
+Baille, G., Garnier, P., Mathieu, H., and Pissard-Gibollet, R. 1999. Le CyCab de l'Inria Rhne-Alpes. Tech. rep. 0229, Inria, Rocquencourt, France.
+Micah Beck , James S. Plank , Gerry Kingsley, Compiler-Assisted Checkpointing, University of Tennessee, Knoxville, TN, 1994
+Giorgio C. Buttazzo, Rate monotonic vs. EDF: judgment day, Real-Time Systems, v.29 n.1, p.5-26, January 2005[doi>10.1023/B:TIME.0000048932.30002.d9]
+Caspi, P., Mazuet, C., Salem, R., and Weber, D. 1999. Formal design of distributed control systems with Lustre. In Proceedings of International Conference on Computer Safety, Reliabilitiy, and Security (SAFECOMP'99). Lecture Notes in Computer Science, vol. 1698. Springer-Verlag, Berlin. 396--409.
+Tushar Deepak Chandra , Sam Toueg, Unreliable failure detectors for reliable distributed systems, Journal of the ACM (JACM), v.43 n.2, p.225-267, March 1996[doi>10.1145/226643.226647]
+Antoine Colin , Isabelle Puaut, Worst Case Execution Time Analysis for a Processor withBranch Prediction, Real-Time Systems, v.18 n.2/3, p.249-274, May 2000[doi>10.1023/A:1008149332687]
+Flavin Cristian, Understanding fault-tolerant distributed systems, Communications of the ACM, v.34 n.2, p.56-78, Feb. 1991[doi>10.1145/102792.102801]
+Alexander G. Dean , John Paul Shen, Hardware to Software Migration with Real-Time Thread Integration, Proceedings of the 24th Conference on EUROMICRO, p.10243, August 25-27, 1998
+Dumitrescu, E., Girault, A., Marchand, H., and Rutten, E. 2007. Optimal discrete controller synthesis for modeling fault-tolerant distributed systems. In Workshop on Dependable Control of Discrete Systems (DCDS'07). Cachan, France. IFAC, New York. 23--28.
+Dumitrescu, E., Girault, A., and Rutten, E. 2004. Validating fault-tolerant behaviors of synchronous system specifications by discrete controller synthesis. In Workshop on Discrete Event Systems (WODES'04). Reims. France. IFAC, New York.
+Michael J. Fischer , Nancy A. Lynch , Michael S. Paterson, Impossibility of distributed consensus with one faulty process, Journal of the ACM (JACM), v.32 n.2, p.374-382, April 1985[doi>10.1145/3149.214121]
+Alain Girault , Eric Rutten, Modeling Fault-tolerant Distributed Systems for Discrete Controller Synthesis, Electronic Notes in Theoretical Computer Science (ENTCS), 133, p.81-100, May, 2005[doi>10.1016/j.entcs.2004.08.059]
+Girault, A. and Yu, H. 2006. A flexible method to tolerate value sensor failures. In Proceedings of the International Conference on Emerging Technologies and Factory Automation (ETFA'06). Prague, Czech Republic. IEEE, New York. 86--93.
+T. Grandpierre , C. Lavarenne , Y. Sorel, Optimized rapid prototyping for real-time embedded heterogeneous multiprocessors, Proceedings of the seventh international workshop on Hardware/software codesign, p.74-78, March 1999, Rome, Italy[doi>10.1145/301177.301489]
+Thierry Grandpierre , Yves Sorel, From Algorithm and Architecture Specifications to Automatic Generation of Distributed Real-Time Executives: a Seamless Flow of Graphs Transformations, Proceedings of the First ACM and IEEE International Conference on Formal Methods and Models for Co-Design, p.123, June 24-26, 2003
+Pankaj Jalote, Fault tolerance in distributed systems, Prentice-Hall, Inc., Upper Saddle River, NJ, 1994
+Kalaiselvi, S. and Rajaraman, V. 2000. A survey of checkpointing algorithms for parallel and distributed computers. Sadhana 25, 5, 489--510.
+Hermann Kopetz, Real-Time Systems: Design Principles for Distributed Embedded Applications, Kluwer Academic Publishers, Norwell, MA, 1997
+Kulkarni, S. and Arora, A. 2000. Automating the addition of fault-tolerance. In Proceedings of the International Symposium on Formal Techniques in Real-Time and Fault-Tolerant Systems (FTRTFT'00). M. Joseph, Ed. Lecture Notes in Computer Science, vol. 1926, Springer-Verlag, Berlin, 82--93.
+Lisper, B. 2006. Trends in timing analysis. In Proceedings of the IFIP Working Conference on Distributed and Parallel Embedded Systems (DIPES'06). Braga, Portugal. Springer, Berlin, 85--94.
+C. L. Liu , James W. Layland, Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment, Journal of the ACM (JACM), v.20 n.1, p.46-61, Jan. 1973[doi>10.1145/321738.321743]
+Liu, Z. and Joseph, M. 1992. Transformation of programs for fault-tolerance. Formal Aspects Comput. 4, 5, 442--469.
+Robin Milner , Mads Tofte , Robert Harper, The Definition of Standard ML, MIT Press, Cambridge, MA, 1990
+Daniel Mossé , Rami Melhem , Sunondo Ghosh, A Nonpreemptive Real-Time Scheduler with Recovery from Transient Faults and Its Implementation, IEEE Transactions on Software Engineering, v.29 n.8, p.752-767, August 2003[doi>10.1109/TSE.2003.1223648]
+Victor P. Nelson, Fault-Tolerant Computing: Fundamental Concepts, Computer, v.23 n.7, p.19-25, July 1990[doi>10.1109/2.56849]
+Hanne Riis Nielson , Flemming Nielson, Semantics with applications: a formal introduction, John Wiley & Sons, Inc., New York, NY, 1992
+Peter P. Puschner, Transforming Execution-Time Boundable Code into Temporally Predictable Code, Proceedings of the IFIP 17th World Computer Congress - TC10 Stream on Distributed and Parallel Embedded Systems: Design and Analysis of Distributed Embedded Systems, p.163-172, August 25-29, 2002
+Peter Puschner , Alan Burns, Guest Editorial: A Review of Worst-Case Execution-TimeAnalysis, Real-Time Systems, v.18 n.2/3, p.115-128, May 2000[doi>10.1023/A:1008119029962]
+P. J. Ramadge , W. M. Wonham, Supervisory control of a class of discrete event processes, SIAM Journal on Control and Optimization, v.25 n.1, p.206-230, Jan. 1987[doi>10.1137/0325013]
+John M. Rushby, Bus Architectures for Safety-Critical Embedded Systems, Proceedings of the First International Workshop on Embedded Software, p.306-323, October 08-10, 2001
+Sekhavat, S. and Hermosillo, J. 2000. The Cycab robot: A differentially flat system. In Proceedings of the IEEE Conference on Intelligent Robots and Systems (IROS'00). Takamatsu, Japan. IEEE, Los Alamitos, CA.
+L. M. Silva , J. G. Silva, System-Level Versus User-Defined Checkpointing, Proceedings of the The 17th IEEE Symposium on Reliable Distributed Systems, p.68, October 20-23, 1998
+Henrik Theiling , Christian Ferdinand , Reinhard Wilhelm, Fast and Precise WCET Prediction by Separated Cache andPath Analyses, Real-Time Systems, v.18 n.2/3, p.157-179, May 2000[doi>10.1023/A:1008141130870]
+Avi Ziv , Jehoshua Bruck, An On-Line Algorithm for Checkpoint Placement, IEEE Transactions on Computers, v.46 n.9, p.976-985, September 1997[doi>10.1109/12.620479]

@@ -1,0 +1,37 @@
+Anant Agarwal, Analysis of Cache Performance for Operating Systems and Multiprogramming, Kluwer Academic Publishers, Norwell, MA, 1989
+ARM Limited. 1998. “ARM Software Development Toolkit,” ARM JumpStart 3.5 Manuals.
+Belady, L. A. 1966. A study of replacement algorithms for a virtual-storage computer. IBM System Journal 5, 2, 78--101.
+Trishul M. Chilimbi , Mark D. Hill , James R. Larus, Cache-conscious structure layout, Proceedings of the ACM SIGPLAN 1999 conference on Programming language design and implementation, p.1-12, May 01-04, 1999, Atlanta, Georgia, USA[doi>10.1145/301618.301633]
+GCC online documentation. 2004. http://gcc.gnu.org/onlinedocs/.
+Nikolas Gloy , Trevor Blackwell , Michael D. Smith , Brad Calder, Procedure placement using temporal ordering information, Proceedings of the 30th annual ACM/IEEE international symposium on Microarchitecture, p.303-313, December 01-03, 1997, Research Triangle Park, North Carolina, USA
+Antonio González , Carlos Aliagas , Mateo Valero, A data cache with multiple caching strategies tuned to different types of locality, Proceedings of the 9th international conference on Supercomputing, p.338-347, July 03-07, 1995, Barcelona, Spain[doi>10.1145/224538.224622]
+Antonio González , Mateo Valero , Nigel Topham , Joan M. Parcerisa, Eliminating cache conflict misses through XOR-based placement functions, Proceedings of the 11th international conference on Supercomputing, p.76-83, July 07-11, 1997, Vienna, Austria[doi>10.1145/263580.263599]
+Amir H. Hashemi , David R. Kaeli , Brad Calder, Efficient procedure mapping using cache line coloring, Proceedings of the ACM SIGPLAN 1997 conference on Programming language design and implementation, p.171-182, June 16-18, 1997, Las Vegas, Nevada, USA[doi>10.1145/258915.258931]
+M. D. Hill , A. J. Smith, Evaluating Associativity in CPU Caches, IEEE Transactions on Computers, v.38 n.12, p.1612-1630, December 1989[doi>10.1109/12.40842]
+W. W. Hwu , P. P. Chang, Achieving high instruction cache performance with an optimizing compiler, Proceedings of the 16th annual international symposium on Computer architecture, p.242-251, April 1989, Jerusalem, Israel[doi>10.1145/74925.74953]
+Norman P. Jouppi, Improving direct-mapped cache performance by the addition of a small fully-associative cache and prefetch buffers, Proceedings of the 17th annual international symposium on Computer Architecture, p.364-373, May 28-31, 1990, Seattle, Washington, USA[doi>10.1145/325164.325162]
+John Kalamatianos , Alireza Khalafi , David R. Kaeli , Waleed Meleis, Analysis of Temporal-Based Program Behavior for Improved Instruction Cache Performance, IEEE Transactions on Computers, v.48 n.2, p.168-175, February 1999[doi>10.1109/12.752658]
+Mahmut Kandemir , J. Ramanujam , Alok Choudhary, Improving Cache Locality by a Combination of Loop and Data Transformations, IEEE Transactions on Computers, v.48 n.2, p.159-167, February 1999[doi>10.1109/12.752657]
+Philippe Magarshack , Pierre G. Paulin, System-on-chip beyond the nanometer wall, Proceedings of the 40th annual Design Automation Conference, June 02-06, 2003, Anaheim, CA, USA[doi>10.1145/775832.775943]
+Scott McFarling, Procedure merging with instruction caches, Proceedings of the ACM SIGPLAN 1991 conference on Programming language design and implementation, p.71-79, June 24-28, 1991, Toronto, Ontario, Canada[doi>10.1145/113445.113452]
+Abraham Mendlson , Shlomit S. Pinter , Ruth Shtokhamer, Compile time instruction cache optimizations, ACM SIGARCH Computer Architecture News, v.22 n.1, p.44-51, March 1994[doi>10.1145/181993.182001]
+Velijko Milutinovic , Mateo Valero, Guest Editors' Introduction-Cache Memory and Related Problems: Enhancing and Exploiting the Locality, IEEE Transactions on Computers, v.48 n.2, p.97-99, February 1999[doi>10.1109/TC.1999.752650]
+Milutinovic, V., Markovic, B., Tomasevic, M., and Tremblay, M. 1996. The split temporal/spatial cache. In Proceedings of SCIzzL-5, Santa Clara, CA (March). 63--69.
+Preeti Ranjan Panda , Hiroshi Nakamura , Nikil D. Dutt , Alexandru Nicolau, Augmenting Loop Tiling with Data Alignment for Improved Cache Performance, IEEE Transactions on Computers, v.48 n.2, p.142-149, February 1999[doi>10.1109/12.752655]
+Christos H. Papadimitriou , Kenneth Steiglitz, Combinatorial optimization: algorithms and complexity, Prentice-Hall, Inc., Upper Saddle River, NJ, 1982
+Pentium 4 - IA-32 Intel® Architecture Optimization: Reference manual. Intel Corporation. http://developer.intel.com.
+Pereira, F. and Burnett, I. 2003. Universal multimedia experiences for tomorrow. IEEE Signal Processing Magazine 20, 2 (March), 63--73.
+Karl Pettis , Robert C. Hansen, Profile guided code positioning, Proceedings of the ACM SIGPLAN 1990 conference on Programming language design and implementation, p.16-27, June 1990, White Plains, New York, USA[doi>10.1145/93542.93550]
+Vidyadhar Phalke , B. Gopinath, Compression-Based Program Characterization for Improving Cache Memory Performance, IEEE Transactions on Computers, v.46 n.11, p.1174-1186, November 1997[doi>10.1109/12.644292]
+Cosimo Antonio Prete , Marco Graziano , Francesco Lazzarini, The ChARM Tool for Tuning Embedded Systems, IEEE Micro, v.17 n.4, p.67-76, July 1997[doi>10.1109/40.612225]
+Thomas Roberts Puzak, Analysis of cache replacement-algorithms, University of Massachusetts Amherst, 1985
+Alex Ramírez , Josep-L. Larriba-Pey , Carlos Navarro , Josep Torrellas , Mateo Valero, Software trace cache, Proceedings of the 13th international conference on Supercomputing, p.119-126, June 20-25, 1999, Rhodes, Greece[doi>10.1145/305138.305178]
+Eric Rotenberg , Steve Bennett , James E. Smith, A Trace Cache Microarchitecture and Evaluation, IEEE Transactions on Computers, v.48 n.2, p.111-120, February 1999[doi>10.1109/12.752652]
+Jesús Sánchez , Antonio González, A locality sensitive multi-module cache with explicit management, Proceedings of the 13th international conference on Supercomputing, p.51-59, June 20-25, 1999, Rhodes, Greece[doi>10.1145/305138.305158]
+Scales, D. 1998. Efficient dynamic procedure placement. WRL Research Report 98/5, August 1998.
+Smith, A. J. 1977. Two methods for the efficient analysis of memory address trace data. IEEE Transactions on Software Engineering, SE-3(1), 94--101.
+Rabin A. Sugumar , Santosh G. Abraham, Efficient simulation of caches under optimal replacement with applications to miss characterization, ACM SIGMETRICS Performance Evaluation Review, v.21 n.1, p.24-35, June 1993[doi>10.1145/166962.166974]
+Nigel Topham , Antonio González, Randomized Cache Placement for Eliminating Conflicts, IEEE Transactions on Computers, v.48 n.2, p.185-192, February 1999[doi>10.1109/12.752660]
+Joseph Torrellas , Chun Xia , Russell L. Daigle, Optimizing the Instruction Cache Performance of the Operating System, IEEE Transactions on Computers, v.47 n.12, p.1363-1381, December 1998[doi>10.1109/12.737683]
+VXWORKS Compiler, Windriver. http://www.windriver.com/support/.
+Chuanjun Zhang , Frank Vahid , Walid Najjar, A highly configurable cache architecture for embedded systems, Proceedings of the 30th annual international symposium on Computer architecture, June 09-11, 2003, San Diego, California[doi>10.1145/859618.859635]

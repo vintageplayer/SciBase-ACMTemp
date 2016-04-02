@@ -1,0 +1,34 @@
+Abeni, L., Manica, N., and Palopoli, L.2009. Reservation-based scheduling for IRQ threads. InProceedings of the 11th Real-Time Linux Workshop. 179--186.
+Carlsson M., Engblom, J., Ermedahl, A., Lindblad, J., and Lisper, B.2002. Worst-case execution time analysis of disable interrupt regions in a commercial real-time operating system. InProceedings of the 2nd International Workshop on Real-Time Tools.
+Dannowski, U., Skoglund, E., and Uhlig, V.2001. Interrupt handling. InProceedings of the 2nd Workshop on Microkernel-based Systems.
+Tullio Facchinetti , Giorgio Buttazzo , Mauro Marinoni , Giacomo Guidi, Non-Preemptive Interrupt Scheduling for Safe Reuse of Legacy Drivers in Real-Time Systems, Proceedings of the 17th Euromicro Conference on Real-Time Systems, p.98-105, July 06-08, 2005[doi>10.1109/ECRTS.2005.21]
+Ted Hills, Structured interrupts, ACM SIGOPS Operating Systems Review, v.27 n.1, p.51-68, Jan. 1993[doi>10.1145/160551.160556]
+Wanja Hofer , Daniel Lohmann , Fabian Scheler , Wolfgang Schröder-Preikschat, Sloth: Threads as Interrupts, Proceedings of the 2009 30th IEEE Real-Time Systems Symposium, p.204-213, December 01-04, 2009[doi>10.1109/RTSS.2009.18]
+Jeffay, K. and Stone, D. L.1993. Accounting for interrupt handling cost in dynamic priority task systems. InProceedings of the IEEE Real-Time Systems Symposium. 212--221.
+Joseph, M. and Pandya, P.1986. Finding response times in real-time systems.Comput. J. 29, 5, 390--395.
+Steve Kleiman , Joe Eykholt, Interrupts as threads, ACM SIGOPS Operating Systems Review, v.29 n.2, p.21-26, April 1995[doi>10.1145/202213.202217]
+Mark H. Klein , Thomas Ralya , Bill Pollak , Ray Obenza , Michael González Harbour, A practitioner's handbook for real-time analysis, Kluwer Academic Publishers, Norwell, MA, 1993
+Hermann Kopetz , Andreas Damm , Christian Koza , Marco Mulazzani , Wolfgang Schwabl , Christoph Senft , Ralph Zainlinger, Distributed Fault-Tolerant Real-Time Systems: The Mars Approach, IEEE Micro, v.9 n.1, p.25-40, January 1989[doi>10.1109/40.16792]
+Minsub Lee , Juyoung Lee , Andrii Shyshkalov , Jaevaek Seo , Intaek Hong , Insik Shin, On interrupt scheduling based on process priority for predictable real-time behavior, ACM SIGBED Review, v.7 n.1, January 2010[doi>10.1145/1851166.1851174]
+Lehoczky, J., Sha, L., and Ding, Y.1989. The rate monotonic scheduling algorithm: exact characterization and average case behaviour. InProceedings of the IEEE Real-Time Systems Symposium. 166--171.
+Mark Lewandowski , Mark J. Stanovich , Theodore P. Baker , Kartik Gopalan , An-I Andy Wang, Modeling Device Driver Effects in Real-Time Schedulability Analysis: Study of a Network Driver, Proceedings of the 13th IEEE Real Time and Embedded Technology and Applications Symposium, p.57-68, April 03-06, 2007[doi>10.1109/RTAS.2007.18]
+Leyva-del-Foyo, L. E. and Mejia-Alvarez, P.2004. Custom interrupt management for real-time and embedded system kernels. InProceedings of the Embedded Real-Time Systems Implementation Workshop at the 25th IEEE International Real-Time Systems Symposium (RTSS’04).
+Luis E. Leyva-del-Foyo , Pedro Mejia-Alvarez , Dionisio de Niz, Abnormal Events Handling for Dependable Embedded Systems, Proceedings of the Seventh Mexican International Conference on Computer Science, p.81-91, September 18-22, 2006[doi>10.1109/ENC.2006.3]
+Luis E. Leyva-del-Foyo , Pedro Mejia-Alvarez , Dionisio de Niz, Predictable Interrupt Scheduling with Low Overhead for Real-Time Kernels, Proceedings of the 12th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications, p.385-394, August 16-18, 2006[doi>10.1109/RTCSA.2006.51]
+Luis E. Leyva-del-Foyo , Pedro Mejia-Alvarez , Dionisio de Niz, Predictable Interrupt Management for Real Time Kernels over conventional PC Hardware, Proceedings of the 12th IEEE Real-Time and Embedded Technology and Applications Symposium, p.14-23, April 04-07, 2006[doi>10.1109/RTAS.2006.34]
+Jochen Liedtke, Toward real microkernels, Communications of the ACM, v.39 n.9, p.70-77, Sept. 1996[doi>10.1145/234215.234473]
+Miao Liu , Duo Liu , Yi Wang , Meng Wang , Zili Shao, On Improving Real-Time Interrupt Latencies of Hybrid Operating Systems with Two-Level Hardware Interrupts, IEEE Transactions on Computers, v.60 n.7, p.978-991, July 2011[doi>10.1109/TC.2010.119]
+Gabriel Parmer , Richard West, Predictable Interrupt Management and Scheduling in the Composite Component-Based System, Proceedings of the 2008 Real-Time Systems Symposium, p.232-243, November 30-December 03, 2008[doi>10.1109/RTSS.2008.13]
+Regehr, J.2008. Safe and structured use of interrupts in real-time and embedded software. InHandbook of Real-Time and Embedded Systems, I. Lee, J. Y.-T. Leung, and S. H. Son Eds., Chapman & Hall/CRC.
+Paul Regnier , George Lima , Luciano Barreto, Evaluation of interrupt handling timeliness in real-time Linux operating systems, ACM SIGOPS Operating Systems Review, v.42 n.6, October 2008[doi>10.1145/1453775.1453787]
+Rostedt, S. and Hard, D. V.2007. Internals of the RT patch. InProceedings of the Linux Symposium. 161--172.
+Ruocco, S.2006. Real-time programming and L4 microkernels. InProceedings of the Workshop on Operating System Platforms for Embedded Real-Time Applications.
+Fabian Scheler , Wanja Hofer , Benjamin Oechslein , Rudi Pfister , Wolfgang Schröder-Preikschat , Daniel Lohmann, Parallel, hardware-supported interrupt handling in an event-triggered real-time operating system, Proceedings of the 2009 international conference on Compilers, architecture, and synthesis for embedded systems, October 11-16, 2009, Grenoble, France[doi>10.1145/1629395.1629419]
+Brinkley Sprunt, Aperiodic task scheduling for real-time systems, Carnegie Mellon University, Pittsburgh, PA, 1990
+Stewart, D. B.1999. Twenty-five-most commons mistakes with real-time software development. InProceedings of Embedded Systems Conference.
+David B. Stewart , Gaurav Arora, A Tool for Analyzing and Fine Tuning the Real-Time Properties of an Embedded System, IEEE Transactions on Software Engineering, v.29 n.4, p.311-326, April 2003[doi>10.1109/TSE.2003.1191796]
+Daniel Stodolsky , J. Bradley Chen , Brian N. Bershad, Fast Interrupt Priority Management in Operating System Kernels, USENIX Microkernels and Other Kernel Architectures Symposium, p.105-110, September 20-23, 1993
+Ted Baker, Protected records, time management and distribution, ACM SIGAda Ada Letters, v.X n.9, p.17-28, Fall 1990[doi>10.1145/102456.102460]
+Tindell, K. W.1999. RTOS interrupt handling: Common errors and how to avoid them.Embed. Syst. Prog. Eur.
+Zhang, Y.2009. Prediction-based interrupt scheduling. InProceedings of the 30th IEEE International Real-Time Systems Symposium, Work-in-Progress Session.
+Yuting Zhang , Richard West, Process-Aware Interrupt Scheduling and Accounting, Proceedings of the 27th IEEE International Real-Time Systems Symposium, p.191-201, December 05-08, 2006[doi>10.1109/RTSS.2006.37]

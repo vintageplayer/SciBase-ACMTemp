@@ -1,0 +1,32 @@
+AUTOSAR. 2009. AUTOSAR release 4.0 specification. http://www.autosar.org.
+Airlines Electronic Engineering Committee. 2003. ARINC specification 653-1. Aeronautical Radio, INC., Annapolis, MD.
+Björn Andersson, Konstantinos Bletsas, and Sanjoy Baruah. 2008. Scheduling arbitrary-deadline sporadic task systems on multiprocessor. In Proceedings of the IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA). 197--206.
+Theodore P. Baker. 2005. Comparison of empirical success rates of global vs. partitioned fixed-priority and EDF scheduling for hand real time. Tech. rep. TR-050601. Department of Computer Science, Florida State University, Tallahasee.
+Theodore P. Baker , Michele Cirinei, A Necessary and Sometimes Sufficient Condition for the Feasibility of Sets of Sporadic Hard-Deadline Tasks, Proceedings of the 27th IEEE International Real-Time Systems Symposium, p.178-190, December 05-08, 2006[doi>10.1109/RTSS.2006.7]
+Theodore P. Baker , Michele Cirinei , Marko Bertogna, EDZL scheduling analysis, Real-Time Systems, v.40 n.3, p.264-289, December  2008[doi>10.1007/s11241-008-9061-6]
+Sanjoy K. Baruah, Optimal Utilization Bounds for the Fixed-Priority Scheduling of Periodic Task Systems on Identical Multiprocessors, IEEE Transactions on Computers, v.53 n.6, p.781-784, June 2004[doi>10.1109/TC.2004.16]
+Sanjoy Baruah, Techniques for Multiprocessor Global Schedulability Analysis, Proceedings of the 28th IEEE International Real-Time Systems Symposium, p.119-128, December 03-06, 2007[doi>10.1109/RTSS.2007.48]
+S. Baruah, N. K. Cohen, C. G. Plaxton, and D. A. Varvel. 1996. Proportionate progress: A notion of fairness in resource allocation. Algorithmica 15, 6, 600--625.
+Sanjoy Baruah, Aloysius Mok, and Louis Rosier. 1990. Preemptively scheduling hard-real-time sporadic tasks on one processor. In Proceedings of the IEEE Real-Time Systems Symposium (RTSS). 182--190.
+Marko Bertogna , Michele Cirinei, Response-Time Analysis for Globally Scheduled Symmetric Multiprocessor Platforms, Proceedings of the 28th IEEE International Real-Time Systems Symposium, p.149-160, December 03-06, 2007[doi>10.1109/RTSS.2007.41]
+Marko Bertogna , Michele Cirinei , Giuseppe Lipari, Improved Schedulability Analysis of EDF on Multiprocessor Platforms, Proceedings of the 17th Euromicro Conference on Real-Time Systems, p.209-218, July 06-08, 2005[doi>10.1109/ECRTS.2005.18]
+Marko Bertogna , Michele Cirinei , Giuseppe Lipari, Schedulability Analysis of Global Scheduling Algorithms on Multiprocessor Platforms, IEEE Transactions on Parallel and Distributed Systems, v.20 n.4, p.553-566, April 2009[doi>10.1109/TPDS.2008.129]
+Alan Burns and Sanjoy Baruah. 2008. Sustainability in real-time scheduling. J. Comput. Sci. Eng. 2, 1, 74--97.
+S. Cho, S.-K. Lee, S. Ahn, and K.-J. Lin. 2002. Efficient real-time scheduling algorithms for multiprocessor systems. IEICE Trans. Commun. E85--B, 12, 2859--2867.
+Robert I. Davis , Alan Burns, FPZL Schedulability Analysis, Proceedings of the 2011 17th IEEE Real-Time and Embedded Technology and Applications Symposium, p.245-256, April 11-14, 2011[doi>10.1109/RTAS.2011.31]
+Robert I. Davis , Alan Burns, A survey of hard real-time scheduling for multiprocessor systems, ACM Computing Surveys (CSUR), v.43 n.4, p.1-44, October 2011[doi>10.1145/1978802.1978814]
+M. Dertouzos. 1974. Control robotics: The procedural control of physical processors. In Proceedings of the IFIP Congress. 807--813.
+Nan Guan , Martin Stigge , Wang Yi , Ge Yu, New Response Time Bounds for Fixed Priority Multiprocessor Scheduling, Proceedings of the 2009 30th IEEE Real-Time Systems Symposium, p.387-397, December 01-04, 2009[doi>10.1109/RTSS.2009.11]
+Lei Ju , Samarjit Chakraborty , Abhik Roychoudhury, Accounting for cache-related preemption delay in dynamic priority schedulability analysis, Proceedings of the conference on Design, automation and test in Europe, April 16-20, 2007, Nice, France
+Shinpei Kato , Nobuyuki Yamasaki , Yutaka Ishikawa, Semi-partitioned Scheduling of Sporadic Task Systems on Multiprocessors, Proceedings of the 2009 21st Euromicro Conference on Real-Time Systems, p.249-258, July 01-03, 2009[doi>10.1109/ECRTS.2009.22]
+Jinkyu Lee , Arvind Easwaran , Insik Shin, LLF Schedulability Analysis on Multiprocessor Platforms, Proceedings of the 2010 31st IEEE Real-Time Systems Symposium, p.25-36, November 30-December 03, 2010[doi>10.1109/RTSS.2010.13]
+Jinkyu Lee , Arvind Easwaran , Insik Shin, Maximizing Contention-Free Executions in Multiprocessor Scheduling, Proceedings of the 2011 17th IEEE Real-Time and Embedded Technology and Applications Symposium, p.235-244, April 11-14, 2011[doi>10.1109/RTAS.2011.30]
+Jinkyu Lee , Arvind Easwaran , Insik Shin , Insup Lee, Zero-laxity based real-time multiprocessor scheduling, Journal of Systems and Software, v.84 n.12, p.2324-2333, December, 2011[doi>10.1016/j.jss.2011.07.002]
+On-line multiprocessor scheduling algorithms for real-time tasks. In Proceedings of the IEEE Region 10's 9th Annual International Conference. 607--611.
+J. Y. T. Leung and J. Whitehead. 1982. On the complexity of fixed-priority scheduling of periodic real-time tasks. Perform. Eval. 2, 237--250.
+J. Y.-T. Leung. 1989. A new algorithm for scheduling periodic, real-time tasks. Algorithmica 4, 209--219.
+C. L. Liu , James W. Layland, Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment, Journal of the ACM (JACM), v.20 n.1, p.46-61, Jan. 1973[doi>10.1145/321738.321743]
+Aloysius Mok. 1983. Fundamental design problems of distributed systems for the hard-real-time environment. Ph.D. Dissertation, Massachusetts Institute of Technology.
+Minkyu Park , Sangchul Han , Heeheon Kim , Seongje Cho , Yookun Cho, Comparison of Deadline-Based Scheduling Algorithms for Periodic Real-Time Tasks on Multiprocessor*This work is supported in part by Brain Korea 21 project and in part by ICT., IEICE - Transactions on Information and Systems, v.E88-D n.3, p.658-661, March 2005[doi>10.1093/ietisy/e88-d.3.658]
+Anand Srinivasan , Sanjoy Baruah, Deadline-based scheduling of periodic task systems on multiprocessors, Information Processing Letters, v.84 n.2, p.93-98, 31 October 2002[doi>10.1016/S0020-0190(02)00231-4]
+C. H. (Kees) van Berkel, Multi-core for mobile phones, Proceedings of the Conference on Design, Automation and Test in Europe, April 20-24, 2009, Nice, France

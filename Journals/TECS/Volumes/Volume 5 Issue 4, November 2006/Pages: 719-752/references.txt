@@ -1,0 +1,41 @@
+Analysis, S. Ó. S. U. AbsInt Inc. http://www.absint.com/stackanalyzer/.
+Andrew W. Appel , Maia Ginsburg, Modern Compiler Implementation in C, Press Syndicate of the University of Cambridge, 1998
+Kathleen Baynes , Chris Collins , Eric Fiterman , Brinda Ganesh , Paul Kohout , Christine Smit , Tiebing Zhang , Bruce Jacob, The Performance and Energy Consumption of Embedded Real-Time Operating Systems, IEEE Transactions on Computers, v.52 n.11, p.1454-1469, November 2003[doi>10.1109/TC.2003.1244943]
+Rob von Behren , Jeremy Condit , Feng Zhou , George C. Necula , Eric Brewer, Capriccio: scalable threads for internet services, Proceedings of the nineteenth ACM symposium on Operating systems principles, October 19-22, 2003, Bolton Landing, NY, USA[doi>10.1145/945445.945471]
+Daniel G. Bobrow , Ben Wegbreit, A model and stack implementation of multiple environments, Communications of the ACM, v.16 n.10, p.591-603, Oct. 1973[doi>10.1145/362375.362379]
+Brylow, D., Damgaard, N., and Palsberg, J. 2000. Stack-size Estimation for Interrupt-driven Microcontrollers. Tech. rep., Purdue University. June. http://www.brics.dk/~damgaard/Download/zilog-test.pdf.
+Carbone, J. 2004. Efficient memory protection for embedded systems. RTC Magazine. http://www.rtcmagazine.com/home/article.php?id=100120.
+Krishnendu Chatterjee , Di Ma , Rupak Majumdar , Tian Zhao , Thomas A. Henzinger , Jens Palsberg, Stack size analysis for interrupt-driven programs, Proceedings of the 10th international conference on Static analysis, June 11-13, 2003, San Diego, CA, USA
+G. Chen , R. Shetty , M. Kandemir , N. Vijaykrishnan , M. J. Irwin , M. Wolczko, Tuning Garbage Collection in an Embedded Java Environment, Proceedings of the 8th International Symposium on High-Performance Computer Architecture, p.92, February 02-06, 2002
+compiler, T. G. Free Software Foundation. http://gcc.gnu.org/.
+Amer Diwan , J. Eliot B. Moss , Kathryn S. McKinley, Simple and effective analysis of statically-typed object-oriented programs, Proceedings of the 11th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, p.292-305, October 06-10, 1996, San Jose, California, USA[doi>10.1145/236337.236367]
+Durrant, M. 2000. Running Linux on low cost, low power MMU-less processors. http://www.linuxdevices.com/articles/AT6245686197.html.
+J. Engblom, Static Properties of Commercial Embedded Real-Time Programs, and Their Implication for Worst-Case Execution Time Analysis, Proceedings of the Fifth IEEE Real-Time Technology and Applications Symposium, p.46, June 02-04, 1999
+M. R. Guthaus , J. S. Ringenberg , D. Ernst , T. M. Austin , T. Mudge , R. B. Brown, MiBench: A free, commercially representative embedded benchmark suite, Proceedings of the Workload Characterization, 2001. WWC-4. 2001 IEEE International Workshop, p.3-14, December 02-02, 2001[doi>10.1109/WWC.2001.15]
+Hauck, E. and Dent, B. 1968. Burroughs b 6500/b 7500 stack mechanism. In Proceedings of AFIPS, SJCC, Vol. 32. 245--251.
+Reinhold Heckmann , Christian Ferdinand, Verifying Safety-Critical Timing and Memory-Usage Properties of Embedded Software by Abstract Interpretation, Proceedings of the conference on Design, Automation and Test in Europe, p.618-619, March 07-11, 2005[doi>10.1109/DATE.2005.326]
+John L. Hennessy , David A. Patterson, Computer architecture: a quantitative approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 02
+Bruce Jacob , Trevor Mudge, Uniprocessor Virtual Memory without TLBs, IEEE Transactions on Computers, v.50 n.5, p.482-499, May 2001[doi>10.1109/12.926161]
+David Seal, ARM Architecture Reference Manual, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 2000
+Janzen, J. 2001. Calculating Memory System Power for DDR SDRAM. In DesignLine Journal. Vol. 10(2). Micron Technology Inc. http://www.micron.com/publications/designline.html.
+Kleidermacher, D. and Griglock, M. 2001. Safety-Critical Operating Systems. Embedded Systems Programming 14, 10 (Sept.). http://www.embedded.com/story/OEG20010829S0055.
+Rafael C. Krapf , Júlio C. B. Mattos , Gustavo Spellmeier , Luigi Carro, A Study on a Garbage Collector for Embedded Applications, Proceedings of the 15th symposium on Integrated circuits and systems design, p.127, September 09-14, 2002
+Sergei Y. Larin , Thomas M. Conte, Compiler-driven cached code compression schemes for embedded ILP processors, Proceedings of the 32nd annual ACM/IEEE international symposium on Microarchitecture, p.82-92, November 16-18, 1999, Haifa, Israel
+Lea, D. 2000. A Memory Allocator. http://gee.cs.oswego.edu/dl/html/malloc.html.
+micron-datasheet. 2003. 128Mb DDR SDRAM data sheet. (Dual data-rate synchronous DRAM) Micron Technology Inc. http://www.micron.com/products/dram/ddrsdram/.
+George Neville-Neil, Programming Without a Net, Queue, v.1 n.2, April 2003[doi>10.1145/644254.644264]
+Patrik Persson, Live memory analysis for garbage collection in embedded systems, Proceedings of the ACM SIGPLAN 1999 workshop on Languages, compilers, and tools for embedded systems, p.45-54, May 05-05, 1999, Atlanta, Georgia, USA[doi>10.1145/314403.314440]
+project debugger, G. T. G. Free Software Foundation. http://www.gnu.org/software/gdb/gdb.html.
+Red Hat, Inc. Newlib C Library. Red Hat, Inc. http://sources.redhat.com/newlib.
+Regehr, J., Reid, A., and Webb, K. 2003. Eliminating stack overflow by abstract interpretation. In Proceedings of the 3rd international conference on embedded software (EMSOFT). Springer-Verlag, New York.
+Simpson, M., Biswas, S., and Barua, R. 2003. Analysis of Compression Algorithms for Program Data. Tech. rep., U. of Maryland, ECE department. August. http://www.ece.umd.edu/~barua/matt-compress-tr.pdf.
+Matthew Simpson , Bhuvan Middha , Rajeev Barua, Segment protection for embedded systems using run-time checks, Proceedings of the 2005 international conference on Compilers, architectures and synthesis for embedded systems, September 24-27, 2005, San Francisco, California, USA[doi>10.1145/1086297.1086307]
+Amit Sinha , Anantha P. Chandrakasan, JouleTrack: a web based tool for software energy profiling, Proceedings of the 38th annual Design Automation Conference, p.220-225, June 2001, Las Vegas, Nevada, USA[doi>10.1145/378239.378467]
+David Salomon, Data Compression: The Complete Reference, Springer-Verlag New York, Inc., Secaucus, NJ, 2000
+KRISHNAN SUNDARESAN , NIHAR R. MAHAPATRA, Code Compression Techniques for Embedded Systems and Their Effectiveness, Proceedings of the IEEE Computer Society Annual Symposium on VLSI (ISVLSI'03), p.262, February 20-21, 2003
+Sumesh Udayakumaran , Rajeev Barua, Compiler-decided dynamic memory allocation for scratch-pad based embedded systems, Proceedings of the 2003 international conference on Compilers, architecture and synthesis for embedded systems, October 30-November 01, 2003, San Jose, California, USA[doi>10.1145/951710.951747]
+Richard Uhlig , David Nagle , Tim Stanley , Trevor Mudge , Stuart Sechrest , Richard Brown, Design tradeoffs for software-managed TLBs, ACM Transactions on Computer Systems (TOCS), v.12 n.3, p.175-205, Aug. 1994[doi>10.1145/185514.185515]
+Paul R. Wilson , Scott F. Kaplan , Yannis Smaragdakis, The case for compressed caching in virtual memory systems, Proceedings of the annual conference on USENIX Annual Technical Conference, p.8-8, June 06-11, 1999, Monterey, California
+Wind River, Inc. High availability design for embedded systems. Tech. rep., Wind River, Inc. http://www.windriver.com/whitepapers/high_availability_design.html.
+Emmett Witchel , Josh Cates , Krste Asanović, Mondrian memory protection, Proceedings of the 10th international conference on Architectural support for programming languages and operating systems, October 05-09, 2002, San Jose, California[doi>10.1145/605397.605429]
+Youtao Zhang , Rajiv Gupta, Data Compression Transformations for Dynamically Allocated Data Structures, Proceedings of the 11th International Conference on Compiler Construction, p.14-28, April 08-12, 2002

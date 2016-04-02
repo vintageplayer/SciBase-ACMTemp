@@ -1,0 +1,37 @@
+Benveniste, A., Caspi, P., Edwards, S. A., Halbwachs, N., Le Guernic, P., and de Simone, R. 2003. The synchronous languages 12 years later. Proceedings of the IEEE 91, 1, 64--83.
+Benvenistre, A. and Berry, G. 1991. The synchronous approach to reactive and real-time systems. Proceedings of the IEEE 79, 9, 1270--1282.
+Berry, G. 1993. Preemption in concurrent systems. In Proceedings of the 13th Conference on Foundations of Software Technology and Theoretical Computer Science. 72--93.
+Berry, G. 1999. The Constructive Semantics of Pure ESTEREL. Draft book available at http://www.inria.fr/meije/esterel/esterel-eng.html.
+Gerard Berry, Circuit design and verication with Esterel v7 and Esterel Studio, Proceedings of the 2007 IEEE International High Level Design Validation and Test Workshop, p.133-136, November 07-09, 2007[doi>10.1109/HLDVT.2007.4392800]
+Berry, G. and Gonthier, G. 1992. The esterel synchronous programming language: Design, semantics, implementation. Science of Computer Programming 19, 2, 87--152.
+Jens Brandt , Klaus Schneider, Separate compilation for synchronous programs, Proceedings of th 12th International Workshop on Software and Compilers for Embedded Systems, April 23-24, 2009, Nice, France
+Brandt, J., Schneider, K., and Willenbcher, A. 2009. Using IP cores in synchronous languages. In Methoden und Beschreibungssprachen zur Modellierung und Verifikation von Schaltungen und Systemen. University tsbibliothek Berlin, 97--106.
+Brzozowski, J. and Seger, C.-J. 1995. Asynchronous Circuits. Springer-Verlag, Berlin.
+Closse, E., Poize, M., Pulou, J., Venier, P., and Weil, D. 2002. Saxo-rt: Interpreting esterel semantic on a sequential execution structure. Proceedings of Synchronous Languages, Applications, and Programming 65, 5, 80--94.
+Cousot, P. and Cousot, R. 1977. Abstract interpretation: A unified lattice model for static analysis of programs by construction or approximation of fixpoints. In Proceedings of the 4th ACM Symposium on Principles of Programming Languages. 238--252.
+Stephen A. Edwards, Making cyclic circuits acyclic, Proceedings of the 40th annual Design Automation Conference, June 02-06, 2003, Anaheim, CA, USA[doi>10.1145/775832.775874]
+Edwards, S. A. and Zeng, J. 2007. Code generation in the columbia esterel compiler. EURASIP Journal on Embedded Systems 2007, 1--31.
+Esterel-Technologies. 2005. The Esterel v7 Reference Manual Version v7.30, initial IEEE standardization proposal. Esterel-Technologies, 679 av. Dr. J. Lefebvre 06270 Villeneuve-Loubet.
+Halbwachs, N. 1993. Synchronous Programming of Reactive Systems. Kluwer Academic Publishers, Dordrecht.
+Halbwachs, N., Caspi, P., Raymond, P., and Pilaud, D. 1991. The synchronous data flow programming language lustre. Proceedings of the IEEE 79, 9, 1305--1320.
+Kim, C., Yun, J., Kim, S., Choe, K., and Han, T. 2010. Over-approximated control flow graph construction on pure esterel. IEICE Transactions on Information and Systems E93-D, 5, 985--993.
+Malik, S. 1994. Analysis of cyclic combinational circuits. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 13, 7, 950--956.
+Florence Maraninchi , Yann RéMond, Argos: an automaton-based synchronous language, Computer Languages, v.27 n.1-3, p.61-92, April, 2001[doi>10.1016/S0096-0551(01)00016-9]
+Poigne, A. and Holenderski, L. 1995. Boolean automata for implementing pure esterel. Arbeitspapiere der GMD 964, GMD, Sankt Augustin.
+Potop-Butucaru, D. 2002. Optimizations for faster execution of esterel programs. Ph.D. dissertation, Ecole des Mines de Paris.
+Dumitru Potop-Butucaru , Stephen A. Edwards , Gerard Berry, Compiling Esterel, Springer Publishing Company, Incorporated, 2007
+Marc D. Riedel , Jehoshua Bruck, Cyclic Boolean circuits, Discrete Applied Mathematics, v.160 n.13-14, p.1877-1900, September, 2012[doi>10.1016/j.dam.2012.03.039]
+Schneider, K. 2009. The synchronous programming language Quartz. Internal Report 375, Department of Computer Science, University of Kaiserslautern.
+Klaus Schneider , Jens Brandt , Tobias Schuele, A Verified Compiler for Synchronous Programs with Local Declarations, Electronic Notes in Theoretical Computer Science (ENTCS), v.153 n.4, p.71-97, June, 2006[doi>10.1016/j.entcs.2006.02.028]
+Schneider, K., Brandt, J., and Vecchié, E. 2006. Efficient code generation from synchronous programs. In Proceedings of the 2nd ACM-IEEE International Conference on Formal Methods and Models for Codesign. 165--174.
+K. Schneider , M. Wenz, A new method for compiling schizophrenic synchronous programs, Proceedings of the 2001 international conference on Compilers, architecture, and synthesis for embedded systems, November 16-17, 2001, Atlanta, Georgia, USA[doi>10.1145/502217.502226]
+Thomas Robert Shiple , Alberto Sangiovanni-Vincentelli, Formal analysis of synchronous circuits, University of California, Berkeley, 1996
+Stok, L. 1992. False loops through resource sharing. In Proceedings of the IEEE/ACM International Conference on Computer-Aided Design. 345--348.
+Olivier Tardieu , Robert de Simone, Loops in esterel, ACM Transactions on Embedded Computing Systems (TECS), v.4 n.4, p.708-750, November 2005[doi>10.1145/1113830.1113832]
+Olivier Tardieu, A deterministic logical semantics for pure Esterel, ACM Transactions on Programming Languages and Systems (TOPLAS), v.29 n.2, p.8-es, April 2007[doi>10.1145/1216374.1216376]
+Olivier Tardieu , Robert de Simone, Loops in esterel, ACM Transactions on Embedded Computing Systems (TECS), v.4 n.4, p.708-750, November 2005[doi>10.1145/1113830.1113832]
+Tini, S. 2001. An axiomatic semantics for esterel. Theoretical Computer Science 269, 1--2, 231--282.
+Eric Vecchié , Jean-Pierre Talpin , Klaus Schneider, Separate compilation and execution of imperative synchronous modules, Proceedings of the Conference on Design, Automation and Test in Europe, April 20-24, 2009, Nice, France
+Yun, J. 2011. Detecting schizophrenia in imperative synchronous languages. Ph.D. dissertation, KAIST.
+Yun, J. and Han, T. 2010. Detecting schizophrenic parallel loops in esterel. Technical Report CS-TR-2010-335, KAIST.
+Jeong-Han Yun , Chul-Joo Kim , Sunae Seo , Taisook Han , Kwang-Moo Choe, Refining schizophrenia via graph reachability in esterel, Proceedings of the 7th IEEE/ACM international conference on Formal Methods and Models for Codesign, p.18-27, July 13-15, 2009, Cambridge, Massachusetts

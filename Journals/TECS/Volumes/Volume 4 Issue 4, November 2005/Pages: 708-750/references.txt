@@ -1,0 +1,37 @@
+André, C. 1996a. Representation and analysis of reactive behaviors: A synchronous approach. In Proceedings of the IMACS/IEEE SMC Multiconference on Computational Engineering in Systems Applications. IEEE-SMC, Lille, France. 19--29.
+André, C. 1996b. SyncCharts: a visual representation of reactive behaviors. Tech. Rep. RR 95-52, rev. RR 96-56, I3S, Sophia-Antipolis, France.
+Barendregt, H. P. 1981. The Lambda Calculus, Its Syntax and Semantics. Studies in Logics and the Foundations of Mathematics, Vol. 103. North-Holland, Amsterdam, The Netherlands.
+Benveniste, A., Caspi, P., Edwards, S., Halbwachs, N., Le Guernic, P., and de Simone, R. 2003. The synchronous languages twelve years later. Embedded Systems, Proceedings of the IEEE, Special issue 91, 1, 64--83.
+Berry, G. 1999. The constructive semantics of pure Esterel. http://www-sop.inria.fr/esterel.org/.
+Berry, G. 2000a. The Esterel language primer v5_91. http://www-sop.inria.fr/esterel.org/.
+Gérard Berry, The foundations of Esterel, Proof, language, and interaction: essays in honour of Robin Milner, MIT Press, Cambridge, MA, 2000
+Gérard Berry , Laurent Cosserat, The ESTEREL Synchronous Programming Language and its Mathematical Semantics, Seminar on Concurrency, Carnegie-Mellon University, p.389-448, July 09-11, 1984
+Gérard Berry , Georges Gonthier, The ESTEREL synchronous programming language: design, semantics, implementation, Science of Computer Programming, v.19 n.2, p.87-152, Nov. 1992[doi>10.1016/0167-6423(92)90005-V]
+Boussinot, F. and de Simone, R. 1991. The Esterel language. Another Look at Real Time Programming, Proceedings of the IEEE, Special Issue 79, 9, 1293--1304.
+Robert K. Brayton , Gary D. Hachtel , Alberto L. Sangiovanni-Vincentelli , Fabio Somenzi , Adnan Aziz , Szu-Tsung Cheng , Stephen A. Edwards , Sunil P. Khatri , Yuji Kukimoto , Abelardo Pardo , Shaz Qadeer , Rajeev K. Ranjan , Shaker Sarwary , Thomas R. Shiple , Gitanjali Swamy , Tiziano Villa, VIS: A System for Verification and Synthesis, Proceedings of the 8th International Conference on Computer Aided Verification, p.428-432, August 03, 1996
+Dominique Clément , Janet Incerpi, Specifying the Behavior of Graphical Objects Using Esterel, Proceedings of the International Joint Conference on Theory and Practice of Software Development, Volume 2: Advanced Seminar on Foundations of Innovative Software Development II and Colloquium on Current Issues in Programming Languages, p.111-125, March 13-17, 1989
+Closse, E., Poize, M., Pulou, J., Venier, P., and Weil, D. 2002. Saxo-RT: Interpreting Esterel semantics on a sequential execution structure. In Proceedings of the Synchronous Languages, Applications, and Programming Workshop. Electronic Notes in Theoretical Computer Science, Vol. 65. Elsevier, Grenoble, France.
+Patrick Cousot , Radhia Cousot, Abstract interpretation: a unified lattice model for static analysis of programs by construction or approximation of fixpoints, Proceedings of the 4th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.238-252, January 17-19, 1977, Los Angeles, California[doi>10.1145/512950.512973]
+Stephen A. Edwards, Languages for Digital Embedded Systems, Kluwer Academic Publishers, Norwell, MA, 2000
+Edwards, S. A., Kapadia, V., and Halas, M. 2004. Compiling Esterel into static discrete-event code. In Proceedings of the Synchronous Languages, Applications, and Programming Workshop. Electronic Notes in Theoretical Computer Science. Elsevier, Barcelona, Spain.
+Gonthier, G. 1988. Sémantique et modèles d'exécution des langages réactifs synchrones: application à Esterel. Ph.D. thesis, Université d'Orsay.
+Nicolas Halbwachs, Synchronous Programming of Reactive Systems, Kluwer Academic Publishers, Norwell, MA, 1992
+Halbwachs, N., Caspi, P., Raymond, P., and Pilaud, D. 1991. The synchronous dataflow programming language Lustre. Another Look at Real Time Programming, Proceedings of the IEEE, Special Issue 79, 9, 1305--1320.
+Hardin, R., Har'El, Z., and Kurshan, R. 1996. COSPAN. In Proceedings of the Eighth International Conference on Computer Aided Verification. Lecture Notes in Computer Science, Vol. 1102. Springer, New Brunswick, NJ.
+INRIA, ENSMP, and ARMINES. 2000. The Esterel v5_92 Compiler. http://www-sop.inria.fr/esterel.org/.
+Sharad Malik, Analysis of cyclic combinational circuits, Proceedings of the 1993 IEEE/ACM international conference on Computer-aided design, p.618-625, November 07-11, 1993, Santa Clara, California, USA
+Maraninchi, F. 1991. The Argos language: Graphical representation of automata and description of reactive systems. In Proceedings of the IEEE Workshop on Visual Languages. IEEE, Kobe, Japan.
+Kenneth L. McMillan, Symbolic Model Checking, Kluwer Academic Publishers, Norwell, MA, 1993
+Mignard, F. 1994. Compilation du langage Esterel en systèmes d'équations booléen-nes. Ph.D. thesis, Ecole des Mines de Paris.
+Namjoshi, K. S. and Kurshan, R. P. 1999. Efficient analysis of cyclic definitions. In Proceedings of the 11th International Conference on Computer Aided Verification. Lecture Notes in Computer Science, Vol. 1633. Springer, Trento, Italy. 394--405.
+David Park, Concurrency and Automata on Infinite Sequences, Proceedings of the 5th GI-Conference on Theoretical Computer Science, p.167-183, March 23-25, 1981
+Plotkin, G. 1981. A structural approach to operational semantics. Report DAIMI FN-19, Aarhus University, Denmark.
+Potop-Butucaru, D. 2002. Optimizations for faster execution of Esterel programs. Ph.D. thesis, Ecole des Mines de Paris.
+Klaus Schneider, A Verified Hardware Synthesis of Esterel Programs, Proceedings of the IFIP WG10.3/WG10.4/WG10.5 International Workshop on Distributed and Parallel Embedded Systems: Architecture and Design of Distributed Embedded Systems, p.205-214, October 18-19, 2000
+K. Schneider , M. Wenz, A new method for compiling schizophrenic synchronous programs, Proceedings of the 2001 international conference on Compilers, architecture, and synthesis for embedded systems, November 16-17, 2001, Atlanta, Georgia, USA[doi>10.1145/502217.502226]
+Klaus Schneider , Jens Brandt , Tobias Schuele, A Verified Compiler for Synchronous Programs with Local Declarations, Electronic Notes in Theoretical Computer Science (ENTCS), v.153 n.4, p.71-97, June, 2006[doi>10.1016/j.entcs.2006.02.028]
+Thomas R. Shiple , Gerard Berry , Herve Touati, Constructive Analysis of Cyclic Circuits, Proceedings of the 1996 European conference on Design and Test, p.328, March 11-14, 1996
+Tardieu, O. 2004a. Goto and concurrency: Introducing safe jumps in Esterel. In Proceedings of the Synchronous Languages, Applications, and Programming Workshop. Electronic Notes in Theoretical Computer Science. Elsevier, Barcelona, Spain.
+Tardieu, O. 2004b. Loops in Esterel: from operational semantics to formally specified compilers. Ph.D. thesis, Ecole des Mines de Paris. http://olivier.tardieu.free.fr/papers/these.pdf.
+Olivier Tardieu , Robert De Simone, Instantaneous termination in pure Esterel, Proceedings of the 10th international conference on Static analysis, June 11-13, 2003, San Diego, CA, USA
+Tardieu, O. and de Simone, R. 2004. Curing schizophrenia by program rewriting in Esterel. In Proceedings of the Second ACM-IEEE International Conference on Formal Methods and Models for Codesign. IEEE, San Diego, CA.

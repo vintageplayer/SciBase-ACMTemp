@@ -1,0 +1,36 @@
+Andrew W. Appel, Garbage collection can be faster than stack allocation, Information Processing Letters, v.25 n.4, p.275-279, June 17, 1987[doi>10.1016/0020-0190(87)90175-X]
+Andrew W. Appel , Maia Ginsburg, Modern Compiler Implementation in C, Press Syndicate of the University of Cambridge, 1998
+ARM 2003. ARM7TDMI Technical Reference Manual 4th Ed. Document No. ARM DDI0210B.
+Baker, T. 1990. A stack-based resource allocation policy for realtime processes. In Proceedings of the Real-Time Systems Symposium. 191--200.
+Rob von Behren , Jeremy Condit , Feng Zhou , George C. Necula , Eric Brewer, Capriccio: scalable threads for internet services, Proceedings of the nineteenth ACM symposium on Operating systems principles, October 19-22, 2003, Bolton Landing, NY, USA[doi>10.1145/945445.945471]
+M. D. Bennett , N. C. Audsley, Predictable and Efficient Virtual Addressing for Safety-Critical Real-Time Systems, Proceedings of the 13th Euromicro Conference on Real-Time Systems, p.183, June 13-15, 2001
+Surupa Biswas , Thomas Carley , Matthew Simpson , Bhuvan Middha , Rajeev Barua, Memory overflow protection for embedded systems using run-time checks, reuse, and compression, ACM Transactions on Embedded Computing Systems (TECS), v.5 n.4, p.719-752, November 2006[doi>10.1145/1196636.1196637]
+Daniel G. Bobrow , Ben Wegbreit, A model and stack implementation of multiple environments, Communications of the ACM, v.16 n.10, p.591-603, Oct. 1973[doi>10.1145/362375.362379]
+Brylow, D., Damgaard, N., and Palsberg, J. 2000. Stack-size estimation for interrupt-driven microcontrollers. Tech. rep. Purdue University.
+Dennis Brylow , Niels Damgaard , Jens Palsberg, Static checking of interrupt-driven software, Proceedings of the 23rd International Conference on Software Engineering, p.47-56, May 12-19, 2001, Toronto, Ontario, Canada
+Carbone, J. 2004. Efficient memory protection for embedded systems. RTC Magazine.
+Dionne, D. J. 1998. uClinux -- Embedded Linux Microcontroller Project.
+Durrant, M. 2000. Running linux on low cost, low power mmu-less processors. http://www.linuxdevices.com/articles/AT6245686197.html.
+GCC. The GCC Compiler. http://gcc.gnu.org/.
+GDB. GDB: The GNU Project Debugger. http://www.gnu.org/software/gdb/gdb.html.
+Dirk Grunwald , Richard Neves, Whole-program optimization for time and space efficient threads, Proceedings of the seventh international conference on Architectural support for programming languages and operating systems, p.50-59, October 01-04, 1996, Cambridge, Massachusetts, USA[doi>10.1145/237090.237149]
+M. R. Guthaus , J. S. Ringenberg , D. Ernst , T. M. Austin , T. Mudge , R. B. Brown, MiBench: A free, commercially representative embedded benchmark suite, Proceedings of the Workload Characterization, 2001. WWC-4. 2001 IEEE International Workshop, p.3-14, December 02-02, 2001[doi>10.1109/WWC.2001.15]
+Hauck, E. and Dent, B. 1968. Burroughs b 6500/b 7500 stack mechanism. In Proceedings of AFIPS SJCC. 32, 245--251.
+John L. Hennessy , David A. Patterson, Computer architecture: a quantitative approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 02
+Matthew Hertz , Emery D. Berger, Quantifying the performance of garbage collection vs. explicit memory management, ACM SIGPLAN Notices, v.40 n.10, October 2005[doi>10.1145/1103845.1094836]
+Hogen, G. and Loogen, R. 1993. A new stack technique for the management of runtime structures in distributed implementations. Tech. rep., RWTH Aachen, Germany. http://citeseer.ist.psu.edu/hogen93new.html.
+David Seal, ARM Architecture Reference Manual, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 2000
+Kleidermacher, D. and Griglock, M. 2001. Safety-Critical Operating Systems. Embedded Syst. Program. 14, 10. http://www.embedded.com/story/-OEG20010829S0055.
+Middha, B. 2006. MTSS: Multi task stack sharing for embedded systems. M.S. thesis, University of Maryland, College Park, MD.
+Montanaro, J. et al. 1996. A 160MHz, 32b, 0.5W CMOS RISC microprocessor. IEEE J. Solid State Circuit 31, 11, 1703--1714.
+Moore, R. 2001. Unbound stacks and stoppable tasks. http://www.programmersheaven.com/articles/smx/article3.htm.
+P. R. Panda , F. Catthoor , N. D. Dutt , K. Danckaert , E. Brockmeyer , C. Kulkarni , A. Vandercappelle , P. G. Kjeldsberg, Data and memory optimization techniques for embedded systems, ACM Transactions on Design Automation of Electronic Systems (TODAES), v.6 n.2, p.149-206, April 2001[doi>10.1145/375977.375978]
+Pizka, M. 1999. Thread segment stacks. In Proceedings of International Conference on Parallel and Distributed Processing Techniques and Applications.
+Regehr, J., Reid, A., and Webb, K. 2003. Eliminating stack overflow by abstract interpretation. In Proceedings of the 3rd International Conference on Embedded Software. Springer-Verlag, Berlin. 306--322.
+Shantanu Sardesai, D. M. and Dasgupta, P. 1998. Distributed cactus stacks: Runtime stack-sharing support for distributed parallel programs. In Proceedings of the International Conference on Parallel and Distributed Processing Techniques and Applications.
+Abraham Silberschatz, Operating Systems Concepts, John Wiley & Sons, 2005
+Amit Sinha , Anantha P. Chandrakasan, JouleTrack: a web based tool for software energy profiling, Proceedings of the 38th annual Design Automation Conference, p.220-225, June 2001, Las Vegas, Nevada, USA[doi>10.1145/378239.378467]
+Vivek Tiwari , Sharad Malik , Andrew Wolfe, Power analysis of embedded software: a first step towards software power minimization, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, v.2 n.4, p.437-445, Dec. 1994[doi>10.1109/92.335012]
+Yun Wang , Manas Saksena, Scheduling Fixed-Priority Tasks with Preemption Threshold, Proceedings of the Sixth International Conference on Real-Time Computing Systems and Applications, p.328, December 13-15, 1999
+Emmett Witchel , Josh Cates , Krste Asanović, Mondrian memory protection, Proceedings of the 10th international conference on Architectural support for programming languages and operating systems, October 05-09, 2002, San Jose, California[doi>10.1145/605397.605429]
+Kam-Fai Wong , Benoît Dageville, Supporting thousands of threads using a hybrid stack sharing scheme, Proceedings of the 1994 ACM symposium on Applied computing, p.493-498, March 06-08, 1994, Phoenix, Arizona, USA[doi>10.1145/326619.326822]

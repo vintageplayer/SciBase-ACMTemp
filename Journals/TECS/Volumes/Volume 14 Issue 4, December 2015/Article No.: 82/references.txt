@@ -1,0 +1,43 @@
+Nitin Agrawal , Leo Arulraj , Andrea C. Arpaci-Dusseau , Remzi H. Arpaci-Dusseau, Emulating goliath storage systems with David, ACM Transactions on Storage (TOS), v.7 n.4, p.1-21, January 2012[doi>10.1145/2078861.2078862]
+John S. Bucy, Jiri Schindler, Steven W. Schlosser, and Gregory R. Ganger. 2008. The DiskSim Simulation Environment Version 4.0 Reference Manual. CMU-PDL-08-101, Parallel Data Laboratory, Carnegie Mellon University.
+M. D. Canon , D. H. Fritz , J. H. Howard , T. D. Howell , M. F. Mitoma , J. Rodriquez-Rosell, A virtual machine emulator for performance evaluation, Communications of the ACM, v.23 n.2, p.71-80, Feb. 1980[doi>10.1145/358818.358821]
+Li-Pin Chang, A Hybrid Approach to NAND-Flash-Based Solid-State Disks, IEEE Transactions on Computers, v.59 n.10, p.1337-1349, October 2010[doi>10.1109/TC.2010.14]
+Yuan-Hao Chang , Po-Liang Wu , Tei-Wei Kuo , Shih-Hao Hung, An adaptive file-system-oriented FTL mechanism for flash-memory storage systems, ACM Transactions on Embedded Computing Systems (TECS), v.11 n.1, p.1-19, March 2012[doi>10.1145/2146417.2146426]
+In Hwan Doh , Jongmoo Choi , Donghee Lee , Sam H. Noh, Exploiting non-volatile RAM to enhance flash file system performance, Proceedings of the 7th ACM & IEEE international conference on Embedded software, September 30-October 03, 2007, Salzburg, Austria[doi>10.1145/1289927.1289955]
+David Eklov , Nikos Nikoleris , David Black-Schaffer , Erik Hagersten, Cache Pirating: Measuring the Curse of the Shared Cache, Proceedings of the 2011 International Conference on Parallel Processing, p.165-175, September 13-16, 2011[doi>10.1109/ICPP.2011.15]
+Gregory R. Ganger , Yale N. Patt, Using System-Level Models to Evaluate I/O Subsystem Designs, IEEE Transactions on Computers, v.47 n.6, p.667-678, June 1998[doi>10.1109/12.689646]
+Jeff Gibson , Robert Kunz , David Ofelt , Mark Horowitz , John Hennessy , Mark Heinrich, FLASH vs. (Simulated) FLASH: closing the simulation loop, ACM SIGARCH Computer Architecture News, v.28 n.5, p.49-58, Dec. 2000[doi>10.1145/378995.379000]
+Thomas Gleixner and Ingo Molnar. 2006. Hrtimers - subsystem for high-resolution kernel timers. (Jan. 2006). Retrieved July 10, 2013 from https://www.kernel.org/doc/Documentation/timers/hrtimers.txt.
+Thomas Gleixner and Douglas Niehaus. 2006. Hrtimers and beyond: Transforming the Linux time subsystems. In Proceedings of the Linux Symposium. 333--346.
+Thomas Gleixner. 2007. High resolution timers and dynamic ticks design notes. Retrieved July 10, 2013 from https://www.kernel.org/doc/Documentation/timers/highres.txt.
+Intel. 2013. Intel 64 and IA-32 architectures software developer's manual. Order Number: 325462-048US. Intel Corporation.
+Anthony Gutierrez, Joseph Pusdesris, Ronald G. Dreslinski, Trevor Mudge, Chander Sudanthi, Christopher D. Emmons, Mitchell Hayenga, and Nigel Paver. 2014. Sources of error in full-system simulation. In Proceedings of the 2014 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS’14). 23--25. DOI:10.1109/ISPASS.2014.6844457
+Sitaram Iyer , Peter Druschel, Anticipatory scheduling: a disk scheduling framework to overcome deceptive idleness in synchronous I/O, ACM SIGOPS Operating Systems Review, v.35 n.5, Dec. 2001[doi>10.1145/502059.502046]
+John Linwood Griffin , Steven W. Schlosser , Gregory R. Ganger , David F. Nagle, Modeling and performance of MEMS-based storage devices, ACM SIGMETRICS Performance Evaluation Review, v.28 n.1, p.56-65, June 2000[doi>10.1145/345063.339354]
+John Linwood Griffin , Jiri Schindler , Steven W. Schlosser , John S. Bucy , Gregory R. Ganger, Timing-accurate storage emulation, Proceedings of the 1st USENIX conference on File and storage technologies, p.6-6, January 28-30, 2002, Monterey, CA
+Diwaker Gupta , Kenneth Yocum , Marvin McNett , Alex C. Snoeren , Amin Vahdat , Geoffrey M. Voelker, To infinity and beyond: time-warped network emulation, Proceedings of the 3rd conference on Networked Systems Design & Implementation, p.7-7, May 08-10, 2006, San Jose, CA
+Libav. 2014. Open source audio and video processing tools. Retrieved June 2014 from http://libav.org/.
+Linux Kernel. 2013a. Mainline Linux kernel source code. Retrieved from https://www.kernel.org/.
+Linux Kernel. 2013b. Linux kernel archive version 3.10. Retrieved from https://www.kernel.org/pub/linux/kernel/v3.0/linux-3.10.tar.bz2.
+Linux Kernel. 2014. ftrace - Function Tracer. Retrieved from https://www.kernel.org/doc/Documentation/trace/ftrace.txt.
+Hyojun Kim , Nitin Agrawal , Cristian Ungureanu, Revisiting storage for smartphones, ACM Transactions on Storage (TOS), v.8 n.4, p.1-25, November 2012[doi>10.1145/2385603.2385607]
+Ying-Chieh Lee , Chin-Ting Kuo , Li-Pin Chang, Design and Implementation of a Virtual Platform of Solid-State Disks, IEEE Embedded Systems Letters, v.4 n.4, p.90-93, December 2012[doi>10.1109/LES.2012.2213795]
+Linaro. 2014. Linaro 13.11 nano build. Retrieved from http://www.linaro.org/downloads/1311.
+Kaoutar El Maghraoui , Gokul Kandiraju , Joefon Jann , Pratap Pattnaik, Modeling and simulating flash based solid-state disks for operating systems, Proceedings of the first joint WOSP/SIPEW international conference on Performance engineering, January 28-30, 2010, San Jose, California, USA[doi>10.1145/1712605.1712611]
+Mendel Rosenblum , Stephen A. Herrod , Emmett Witchel , Anoop Gupta, Complete Computer System Simulation: The SimOS Approach, IEEE Parallel & Distributed Technology: Systems & Technology, v.3 n.4, p.34-43, December 1995[doi>10.1109/88.473612]
+Mendel Rosenblum , Edouard Bugnion , Scott Devine , Stephen A. Herrod, Using the SimOS machine simulator to study complex computer systems, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.7 n.1, p.78-103, Jan. 1997[doi>10.1145/244804.244807]
+John Stultz, Nishanth Aravamudan, and Darren Hart. 2005. We are not getting any younger: A new approach to time and timers. In Proceedings of the Linux Symposium. 219--232.
+Chandramohan A. Thekkath , John Wilkes , Edward D. Lazowska, Techniques for file system simulation, Software—Practice & Experience, v.24 n.11, p.981-999, Nov. 1994[doi>10.1002/spe.4380241102]
+Avishay Traeger , Erez Zadok , Nikolai Joukov , Charles P. Wright, A nine year study of file system and storage benchmarking, ACM Transactions on Storage (TOS), v.4 n.2, p.1-56, May 2008[doi>10.1145/1367829.1367831]
+S. Y. Wang, C. L. Chou, and C. C. Lin. 2007. The Design and Implementation of the NCTUns Network Simulation Engine. Simul. Model. Pract. Theory, 15 (2007), 57--81. DOI:http://dx.doi.org/10.1016/j.simpat.2006.09.013
+Emmett Witchel , Mendel Rosenblum, Embra: fast and flexible machine simulation, ACM SIGMETRICS Performance Evaluation Review, v.24 n.1, p.68-79, May 1996[doi>10.1145/233008.233025]
+Charles P. Wright , Nikolai Joukov , Devaki Kulkarni , Yevgeniy Miretskiy , Erez Zadok, Auto-pilot: a platform for system software benchmarking, Proceedings of the annual conference on USENIX Annual Technical Conference, p.53-53, April 10-15, 2005, Anaheim, CA
+Charles P. Wright and Erez Zadok. 2007. The Auto-pilot Benchmarking Suite Version 2.4. Retrieved from http://www.filesystems.org/project-autopilot.html.
+Chin-Hsien Wu, A self-adjusting flash translation layer for resource-limited embedded systems, ACM Transactions on Embedded Computing Systems (TECS), v.9 n.4, p.1-26, March 2010[doi>10.1145/1721695.1721697]
+Wikipedia. 2014a. Apple A7. Retrieved from http://en.wikipedia.org/wiki/Apple_A7.
+Wikipedia. 2014b. Noop scheduler. Retrieved from http://en.wikipedia.org/wiki/Noop_scheduler.
+Xilinx. 2013. Zynq-7000 All Programmable SoC Technical Reference Manual UG585 (v1.6.1). Xilinx.
+Xilinx. 2014. The official Linux kernel from Xilinx. Retrieved from https://github.com/xilinx.
+Jinsoo Yoo, Youjip Won, and Joongwoo Hwang. 2013. VSSIM: Virtual machine based SSD simulator. In Proceedings of the IEEE 29th Symposium on Mass Storage Systems and Technologies (MSST’13).
+ZedBoard. 2014. ZedBoard Documentations. Retrieved from http://www.zedboard.org/product/zedboard.
+Omer Zilberberg , Shlomo Weiss , Sivan Toledo, Phase-change memory: An architectural perspective, ACM Computing Surveys (CSUR), v.45 n.3, p.1-33, June 2013[doi>10.1145/2480741.2480746]

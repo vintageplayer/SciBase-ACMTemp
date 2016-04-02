@@ -1,0 +1,31 @@
+Avizienis, A., Laprie, J.-C., and Randell, B. 2001. Fundamental concepts of dependability. Tech. rep. CS-TR-739, Newcastle University.
+Barnes, J. 2005. Rationale for Ada 2005: 4 Tasking and real-time. Ada User J. 26, 3, 1--17.
+Belliardi, R., Brosgol, B., Dibble, P., Holmes, D., and Wellings, A. J. 2004. The Real-Time Specification for Java—Version 1.0.2. Addison-Wesley, Reading, MA.
+Lamine Bougueroua , Laurent George , Serge Midonnet, An execution overrun management mechanism for the temporal robustness of Java real-time systems, Proceedings of the 4th international workshop on Java technologies for real-time and embedded systems, October 11-13, 2006, Paris, France[doi>10.1145/1167999.1168030]
+A. Burns , A. J. Wellings, Measuring, monitoring and enforcing CPU execution time, ACM SIGAda Ada Letters, v.XIII n.2, p.54-64, March/April 1993[doi>10.1145/152827.152831]
+Alan Burns , Andrew J. Wellings, Real-Time Systems and Programming Languages: ADA 95, Real-Time Java, and Real-Time POSIX, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 2001
+A. Corsaro , D. C. Schmidt, The design and performance of real-time Java middleware, IEEE Transactions on Parallel and Distributed Systems, v.14 n.11, p.1155-1167, November 2003[doi>10.1109/TPDS.2003.1247675]
+Paolo Gai , Luca Abeni , Massimiliano Giorgi , Giorgio Buttazzo, A New Kernel Approach for Modular Real-Time Systems Development, Proceedings of the 13th Euromicro Conference on Real-Time Systems, p.199, June 13-15, 2001
+GCJ. 2007. The GNU Compiler for the Java<sup>#8482;</sup> Programming Language. http://gcc.gnu.org/java/.
+Michael González Harbour , Mario Aldea Rivas , J. J. Gutiérrez García , J. C. Palencia Gutiérrez, Implementing and Using Execution Time Clocks in Ada Hard Real-Time Applications, Proceedings of the 1998 Ada-Europe International Conference on Reliable Software Technologies, p.90-101, June 08-12, 1998
+jRate. 2008. Java Real-Time Extension homepage. http://jrate.sourceforge.net/.
+Butler W. Lampson , David D. Redell, Experience with processes and monitors in Mesa, Communications of the ACM, v.23 n.2, p.105-117, Feb. 1980[doi>10.1145/358818.358824]
+Laprie, J.-C. 1985. Dependable computing and fault tolerance: concepts and terminology. In Proceedings of the 15th International Symposium on Fault-Tolerant Computing. IEEE Computer Society Press, Los Alamitos, CA, 2--11.
+P. A. Lee , T. Anderson , J. C. Laprie , A. Avizienis , H. Kopetz, Fault Tolerance: Principles and Practice, Springer-Verlag New York, Inc., Secaucus, NJ, 1990
+Liu, J. W. S. 2000. Real-Time Systems. Prentice-Hall, New York.
+Jeremy Manson , Jason Baker , Antonio Cunei , Suresh Jagannathan , Marek Prochazka , Bin Xin , Jan Vitek, Preemptible Atomic Regions for Real-Time Java, Proceedings of the 26th IEEE International Real-Time Systems Symposium, p.62-71, December 05-08, 2005[doi>10.1109/RTSS.2005.34]
+MaRTE OS. 2008. MaRTE OS homepage. http://marte.unican.es/.
+Damien Masson , Serge Midonnet, Fault tolerance with real-time java, Proceedings of the 20th international conference on Parallel and distributed processing, p.172-172, April 25-29, 2006, Rhodes Island, Greece
+E. Nett , M. Gergeleit , M. Mock, Enhancing O-O Middleware to Become Time-Aware, Real-Time Systems, v.20 n.2, p.211-228, March 2001[doi>10.1023/A:1008146006209]
+POSIX IEEE 1003.13. 2003. IEEE standard for information technology—standardized Application Environment Profile (AEP)—POSIX realtime and embedded application support. IEEE Std. 1003.13-2003.
+POSIX Standard. 2004. Portable Operating System Interface (POSIX)—The Open Group Technical Standard Base Specifications, Issue 6. IEEE Std 1003.1.
+Juan Antonio de la Puente , Juan Zamorano, Execution-time clocks and Ravenscar kernels, ACM SIGAda Ada Letters, v.XXIII n.4, p.82-86, December 2003[doi>10.1145/959221.959237]
+Ragunathan Rajkumar, Synchronization in Real-Time Systems: A Priority Inheritance Approach, Kluwer Academic Publishers, Norwell, MA, 1991
+Mario Aldea Rivas , Michael González Harbour, Extending Ada's real-time systems annex with the POSIX scheduling services, ACM SIGAda Ada Letters, v.XXI n.1, p.20-26, March 2001[doi>10.1145/374369.374376]
+Mario Aldea Rivas, Michael González Harbour: MaRTE OS: An Ada Kernel for Real-Time Embedded Applications, Proceedings of the 6th Ade-Europe International Conference Leuven on Reliable Software Technologies, p.305-316, May 14-18, 2001
+Rivas, M. A. and Harbour, M. G. 2003. Evaluation of new POSIX real-time operating systems services for small embedded platforms. In Proceedings of the 15th Euromicro Conference on Real-Time Systems. IEEE Computer Society Press, Los Alamitos, CA, 161--168.
+Osmar M.  dos Santos , Andy Wellings, Run Time Detection of Blocking Time Violations in Real-Time Systems, Proceedings of the 2008 14th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications, p.347-356, August 25-27, 2008[doi>10.1109/RTCSA.2008.39]
+Osmar Marchi dos Santos , Andy Wellings, Blocking time monitoring in the real-time specification for Java, Proceedings of the 6th international workshop on Java technologies for real-time and embedded systems, September 24-26, 2008, Santa Clara, California[doi>10.1145/1434790.1434811]
+David B. Stewart , Pradeep K. Khosla, Mechanisms for detecting and handling timing errors, Communications of the ACM, v.40 n.1, p.87-93, Jan. 1997[doi>10.1145/242857.242883]
+Crineu Tres , Leandro Buss Becker , Edgar Nett, Real-Time Tasks Scheduling with Value Control to Predict Timing Faults During Overload, Proceedings of the 10th IEEE International Symposium on Object and Component-Oriented Real-Time Distributed Computing, p.354-358, May 07-09, 2007[doi>10.1109/ISORC.2007.52]
+Reinhard Wilhelm , Jakob Engblom , Andreas Ermedahl , Niklas Holsti , Stephan Thesing , David Whalley , Guillem Bernat , Christian Ferdinand , Reinhold Heckmann , Tulika Mitra , Frank Mueller , Isabelle Puaut , Peter Puschner , Jan Staschulat , Per Stenström, The worst-case execution-time problem—overview of methods and survey of tools, ACM Transactions on Embedded Computing Systems (TECS), v.7 n.3, p.1-53, April 2008[doi>10.1145/1347375.1347389]

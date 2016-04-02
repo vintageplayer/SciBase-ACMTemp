@@ -1,0 +1,57 @@
+Frances E. Allen, Control flow analysis, ACM SIGPLAN Notices, v.5 n.7, p.1-19, July 1970[doi>10.1145/390013.808479]
+Y. Bai. 2010. Dependency analysis of synchronous programming languages. M. S. thesis. Department of Computer Science, University of Kaiserslautern, Germany.
+Yu Bai , Jens Brandt , Klaus Schneider, Data-Flow Analysis of Extended Finite State Machines, Proceedings of the 2011 Eleventh International Conference on Application of Concurrency to System Design, p.163-172, June 20-24, 2011[doi>10.1109/ACSD.2011.22]
+A. Benveniste, P. Caspi, S. Edwards, N. Halbwachs, P. Le Guernic, and R. de Simone. 2003. The synchronous languages twelve years later. Proc. IEEE 91, 1, 64--83.
+G. Berry. 1999. The constructive semantics of pure Esterel. http://www-sop.inria.fr/esterel.org/.
+Gérard Berry , Georges Gonthier, The ESTEREL synchronous programming language: design, semantics, implementation, Science of Computer Programming, v.19 n.2, p.87-152, Nov. 1992[doi>10.1016/0167-6423(92)90005-V]
+Roderick Bloem , Harold N. Gabow , Fabio Somenzi, An Algorithm for Strongly Connected Component Analysis in n log n Symbolic Steps, Proceedings of the Third International Conference on Formal Methods in Computer-Aided Design, p.37-54, November 01-03, 2000
+Jens Brandt , Klaus Schneider, Separate compilation for synchronous programs, Proceedings of th 12th International Workshop on Software and Compilers for Embedded Systems, April 23-24, 2009, Nice, France
+Jens Brandt , Klaus Schneider, Static data-flow analysis of synchronous programs, Proceedings of the 7th IEEE/ACM international conference on Formal Methods and Models for Codesign, p.161-170, July 13-15, 2009, Cambridge, Massachusetts
+J. Brandt and K. Schneider. 2011. Separate translation of synchronous programs to guarded actions. Internal report 382/11, Department of Computer Science, University of Kaiserslautern, Kaiserslautern, Germany.
+K. Mani Chandy, Parallel program design: a foundation, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1988
+Rance Cleaveland , Marion Klein , Bernhard Steffen, Faster Model Checking for the Modal Mu-Calculus, Proceedings of the Fourth International Workshop on Computer Aided Verification, p.410-422, June 29-July 01, 1992
+Etienne Closse , Michel Poize , Jacques Pulou , Joseph Sifakis , Patrick Venter , Daniel Weil , Sergio Yovine, TAXYS: A Tool for the Development and Verification of Real-Time Embedded Systems, Proceedings of the 13th International Conference on Computer Aided Verification, p.391-395, July 18-22, 2001
+E. Closse, M. Poize, J. Pulou, P. Venier, and D. Weil. 2002. SAXO-RT: Interpreting Esterel semantics on a sequential execution structure. Electron. Notes Theor. Comput. Sci. 65, 5, 80--94.
+Mads Dam, CTL and ECTL as fragments of the modal &mgr;-calculus, Theoretical Computer Science, v.126 n.1, p.77-96, April 11, 1994[doi>10.1016/0304-3975(94)90269-0]
+J. W. de Bakker. 1976. Least fixed points revisited. Theor. Comput. Sci. 2, 2, 155--181.
+Edsger W. Dijkstra, Guarded commands, nondeterminacy and formal derivation of programs, Communications of the ACM, v.18 n.8, p.453-457, Aug. 1975[doi>10.1145/360933.360975]
+David L. Dill, The Murphi Verification System, Proceedings of the 8th International Conference on Computer Aided Verification, p.390-393, August 03, 1996
+S. A. Edwards, An Esterel compiler for large control-dominated systems, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.21 n.2, p.169-183, November 2006[doi>10.1109/43.980257]
+Stephen A. Edwards , Vimal Kapadia , Michael Halas, Compiling Esterel into Static Discrete-Event Code, Electronic Notes in Theoretical Computer Science (ENTCS), v.153 n.4, p.117-131, June, 2006[doi>10.1016/j.entcs.2006.02.027]
+E. Allen Emerson , Charanjit S. Jutla , A. Prasad Sistla, On Model-Checking for Fragments of µ-Calculus, Proceedings of the 5th International Conference on Computer Aided Verification, p.385-396, June 28-July 01, 1993
+E. Allen Emerson , Charanjit S. Jutla , A. Prasad Sistla, On model checking for the &mgr;-calculus and its fragments, Theoretical Computer Science, v.258 n.1-2, p.491-522, May 2001[doi>10.1016/S0304-3975(00)00034-7]
+Nicolas Halbwachs, Synchronous Programming of Reactive Systems, Kluwer Academic Publishers, Norwell, MA, 1992
+N. Halbwachs, P. Raymond, and C. Ratel. 1991. Generating efficient code from data-flow programs. In Programming Language Implementation and Logic Programming (PLILP), J. Maluszyński and M. Wirsing, Eds., Lecture Notes in Computer Science, vol. 528. Springer, 207--218.
+Matthew S. Hecht , Jeffrey D. Ullman, Analysis of a simple algorithm for global data flow problems, Proceedings of the 1st annual ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.207-217, October 01-03, 1973, Boston, Massachusetts[doi>10.1145/512927.512946]
+M. S. Hecht , J. D. Ullman, Characterizations of Reducible Flow Graphs, Journal of the ACM (JACM), v.21 n.3, p.367-375, July 1974[doi>10.1145/321832.321835]
+Zoltán Herczeg , Ákos Kiss , Daniel Schmidt , Norbert Wehn , Tibor Gyimóthy, XEEMU: an improved xscale power simulator, Proceedings of the 17th international conference on Integrated Circuit and System Design: power and timing modeling, optimization and simulation, September 03-05, 2007, Gothenburg, Sweden
+Bin Jiang, I/O- and CPU-optimal recognition of strongly connected components2, Information Processing Letters, v.45 n.3, p.111-115, March 8, 1993[doi>10.1016/0020-0190(93)90011-W]
+Lei Ju , Bach Khoa Huynh , Samarjit Chakraborty , Abhik Roychoudhury, Context-sensitive timing analysis of Esterel programs, Proceedings of the 46th Annual Design Automation Conference, July 26-31, 2009, San Francisco, California[doi>10.1145/1629911.1630132]
+Lei Ju , Bach Khoa Huynh , Abhik Roychoudhury , Samarjit Chakraborty, Timing analysis of esterel programs on general-purpose multiprocessors, Proceedings of the 47th Design Automation Conference, June 13-18, 2010, Anaheim, California[doi>10.1145/1837274.1837288]
+H. Järvinen and R. Kurki-Suonio. 1990. The DisCo language and temporal logic of actions. Tech. rep. 11. Software Systems Laboratory, Tampere University of Technology.
+D. Kozen. 1983. Results on the propositional μ-calculus. Theor. Comput. Sci. 27, 3, 333--354.
+G. Logothetis , Klaus Schneider, Exact High Level WCET Analysis of Synchronous Programs by Symbolic State Space Exploration, Proceedings of the conference on Design, Automation and Test in Europe, p.10196, March 03-07, 2003
+Leonardo De Moura , Nikolaj Bjørner, Z3: an efficient SMT solver, Proceedings of the Theory and practice of software, 14th international conference on Tools and algorithms for the construction and analysis of systems, March 29-April 06, 2008, Budapest, Hungary
+Dumitru Potop-Butucaru , Robert de Simone, Optimizations for Faster Execution of Esterel Programs, Proceedings of the First ACM and IEEE International Conference on Formal Methods and Models for Co-Design, p.227, June 24-26, 2003
+Dumitru Potop-Butucaru , Stephen A. Edwards , Gerard Berry, Compiling Esterel, Springer Publishing Company, Incorporated, 2007
+Barry K. Rosen, High-level data flow analysis, Communications of the ACM, v.20 n.10, p.712-724, Oct. 1977[doi>10.1145/359842.359849]
+P. Ryamond. 1991. Compilation efficace d'un langage déclaratif synchrone: Le génerateur de code LUSTRE-V3. Ph.D. thesis, Institut national polytechnique de Grénoble, Grenoble, France.
+David A. Schmidt, Data flow analysis is model checking of abstract interpretations, Proceedings of the 25th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.38-48, January 19-21, 1998, San Diego, California, USA[doi>10.1145/268946.268950]
+Klaus Schneider, A Verified Hardware Synthesis of Esterel Programs, Proceedings of the IFIP WG10.3/WG10.4/WG10.5 International Workshop on Distributed and Parallel Embedded Systems: Architecture and Design of Distributed Embedded Systems, p.205-214, October 18-19, 2000
+K. Schneider, Embedding Imperative Synchronous Languages in Interactive Theorem Provers, Proceedings of the Second International Conference on Application of Concurrency to System Design, p.143, June 25-29, 2001
+Klaus Schneider, Improving Automata Generation for Linear Temporal Logic by Considering the Automaton Hierarchy, Proceedings of the Artificial Intelligence on Logic for Programming, p.39-54, December 03-07, 2001
+Klaus Schneider, Proving the Equivalence of Microstep and Macrostep Semantics, Proceedings of the 15th International Conference on Theorem Proving in Higher Order Logics, p.314-331, August 20-23, 2002
+Klaus Schneider, Verification of Reactive Systems: Formal Methods and Algorithms, SpringerVerlag, 2004
+K. Schneider. 2009. The synchronous programming language Quartz. Internal Report 375. Department of Computer Science, University of Kaiserslautern, Kaiserslautern, Germany.
+K. Schneider and J. Brandt. 2008. Performing causality analysis by bounded model checking. In Proceedings of the 8th International Conference on Application of Concurrency to System Design (ACSD). IEEE Computer Society, 78--87.
+K. Schneider , J. Brandt , T. Schuele, Causality analysis of synchronous programs with delayed actions, Proceedings of the 2004 international conference on Compilers, architecture, and synthesis for embedded systems, September 22-25, 2004, Washington DC, USA[doi>10.1145/1023833.1023859]
+Klaus Schneider , Jens Brandt , Tobias Schuele, A Verified Compiler for Synchronous Programs with Local Declarations, Electronic Notes in Theoretical Computer Science (ENTCS), v.153 n.4, p.71-97, June, 2006[doi>10.1016/j.entcs.2006.02.028]
+Tobias Schuele , Klaus Schneider, Abstraction of assembler programs for symbolic worst case execution time analysis, Proceedings of the 41st annual Design Automation Conference, June 07-11, 2004, San Diego, CA, USA[doi>10.1145/996566.996602]
+M. Sharir. 1981. A strong-connectivity algorithm and its application in data flow analysis. Comput. Math. Appl. 7, 1, 67--72.
+Bernhard Steffen, Data Flow Analysis as Model Checking, Proceedings of the International Conference on Theoretical Aspects of Computer Software, p.346-365, September 24-27, 1991
+SYNC98 SYNCHRON. 1998. The common format of synchronous languages - the declarative code DC. Tech. rep. C2A, SYNCHRON project.
+Olivier Tardieu , Robert De Simone, Instantaneous termination in pure Esterel, Proceedings of the 10th international conference on Static analysis, June 11-13, 2003, San Diego, CA, USA
+R. Tarjan. 1972. Depth first search and linear graph algorithms. SIAM J. Comput. 1, 2, 146--160.
+A. Tarski. 1955. A lattice-theoretical fixpoint theorem and its applications. Pacific J. Math. 5, 2, 285--309.
+Aiguo Xie , P. A. Beerel, Implicit enumeration of strongly connected components and an application to formal verification, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.19 n.10, p.1225-1230, November 2006[doi>10.1109/43.875347]
+Jia Zeng , Cristian Soviani , Stephen A. Edwards, Generating fast code from concurrent program dependence graphs, Proceedings of the 2004 ACM SIGPLAN/SIGBED conference on Languages, compilers, and tools for embedded systems, June 11-13, 2004, Washington, DC, USA[doi>10.1145/997163.997188]

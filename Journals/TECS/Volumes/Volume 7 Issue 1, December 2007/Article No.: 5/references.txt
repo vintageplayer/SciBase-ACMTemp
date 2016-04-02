@@ -1,0 +1,46 @@
+AICAS. 2005. The Jamaica Virtual Machine homepage, http://www.aicas.com.
+David F. Bacon , Ravi Konuru , Chet Murthy , Mauricio Serrano, Thin locks: featherweight synchronization for Java, Proceedings of the ACM SIGPLAN 1998 conference on Programming language design and implementation, p.258-268, June 17-19, 1998, Montreal, Quebec, Canada[doi>10.1145/277650.277734]
+Bacon, D. F., Cheng, P., and Rajan, V. 2003. The metronome: A simpler approach to garbage collection in real-time systems. In Workshop on Java Technologies for Real-Time and Embedded Systems (JTRES), OTM Workshops. 466--478.
+William S. Beebee , Martin C. Rinard, An Implementation of Scoped Memory for Real-Time Java, Proceedings of the First International Workshop on Embedded Software, p.289-305, October 08-10, 2001
+Benowitz, E. and Niessner, A. 2003a. Experiences in adopting Real-Time Java for flight-like software. In Workshop on Java Technologies for Real-Time and Embedded Systems (JTRES), OTM Workshops. 490--496.
+Benowitz, E. G. and Niessner, A. 2003b. A patterns catalog for RTSJ software designs. In Workshop on Java Technologies for Real-Time and Embedded Systems (JTRES), OTM Workshops. 497--507.
+Stephen M. Blackburn , Perry Cheng , Kathryn S. McKinley, Oil and Water? High Performance Garbage Collection in Java with MMTk, Proceedings of the 26th International Conference on Software Engineering, p.137-146, May 23-28, 2004
+Bollella, G. and Reinholtz, K. 2002. Scoped memory. In Proceedings of the Fifth International Symposium on Object-Oriented Real-Time Distributed Computing (ISORC02).
+James Gosling , Greg Bollella, The Real-Time Specification for Java, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 2000
+Bollella, G., Loh, K., McKendry, G., and Wozenilek, T. 2003. Experiences and benchmarking with JTime. In Workshop on Java Technologies for Real-Time and Embedded Systems (JTRES), OTM Workshops. 534--549.
+Borg, A. and Wellings, A. J. 2003. Reference objects for RTSJ memory areas. In Workshop on Java Technologies for Real-Time and Embedded Systems (JTRES), OTM Workshops. 397--410.
+Borger, M. and Rajkumar, R. 1989. Implementing priority inheritance algorithms in an Ada runtime system. Tech. Rep. CMU/SEI-89-TR-15, Software Engineering Institute, Carnegie Mellon University (April).
+Asynchronous Transfer of Control in the Real-Time Specification for Java, Proceedings of the Fifth IEEE International Symposium on Object-Oriented Real-Time Distributed Computing, p.101, April 29-May 01, 2002
+Buytaert, D., Arickx, F., and Vos, J. 2002. A profiler and compiler for the Wonka Virtual Machine. In USENIX JVM'02 Work in Progress, San Francisco, CA. USENIX, Berkeley, CA.
+Child, J. 2003. Java proving itself worthy for defense apps. COTS Journal.
+Child, J. 2004. Real-time flavor completes the military Java puzzle. COTS Journal.
+Angelo Corsaro , Ron K. Cytron, Efficient memory-reference checks for real-time java, Proceedings of the 2003 ACM SIGPLAN conference on Language, compiler, and tool for embedded systems, June 11-13, 2003, San Diego, California, USA[doi>10.1145/780732.780740]
+Angelo Corsaro , Douglas C. Schmidt, The Design and Performance of the jRate Real-Time Java Implementation, On the Move to Meaningful Internet Systems, 2002 - DOA/CoopIS/ODBASE 2002 Confederated International Conferences DOA, CoopIS and ODBASE 2002, p.900-921, October 30-November 01, 2002
+Angelo Corsaro , Douglas C. Schmidt, Evaluating Real-Time Java Features and Performance for Real-Time Embedded Systems, Proceedings of the Eighth IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS'02), p.90, September 25-27, 2002
+Dvorak, D., Bollella, G., Canham, T., Carson, V., Champlin, V., Giovannoni, B., Indictor, M., Meyer, K., Murray, A., and Reinholtz, K. 2004. Project Golden Gate: Towards Real-Time Java in Space Missions. In Proceedings of the 7th IEEE International Symposium on Object-Oriented Real-Time Distributed Computing (ISORC 2004), 12--14 May 2004, Vienna, Austria. IEEE Computer Society Press, Los Alamitos, CA. 15--22.
+Flack, C., Hosking, T., and Vitek, J. 2003. Idioms in Ovm. Tech. Rep. CSD-TR-03-017, Purdue University Department of Computer Sciences.
+Fox, J. M. and Welc, A. 2003. Implementation of Real-Time Java scope access checks for JikesRVM. Tech. report, Purdue (May).
+FSF. 2005. Free Software Foundation Inc, GNU Classpath, www.gnu.org/software/classpath.
+Urs Gleim, JaRTS: A Portable Implementation of Real-Time Core Extensions for Java, Proceedings of the 2nd Java Virtual Machine Research and Technology Symposium, p.139-149, August 01-02, 2002
+J. B. Goodenough , L. Sha, The priority ceiling protocol: A method for minimizing the blocking of high priority Ada tasks, ACM SIGAda Ada Letters, v.VIII n.7, p.20-31, June 1-3, 1988[doi>10.1145/59368.59371]
+Analyzing the Performance of Memory Management in RTSJ, Proceedings of the Fifth IEEE International Symposium on Object-Oriented Real-Time Distributed Computing, p.26, April 29-May 01, 2002
+Frédéric Parain, Region-Based Memory Management for Real-Time Java, Proceedings of the Fourth International Symposium on Object-Oriented Real-Time Distributed Computing, p.387, May 02-04, 2001
+Jagun Kwon , Andy Wellings , Steve King, Ravenscar-Java: a high-integrity profile for real-time Java: Research Articles, Concurrency and Computation: Practice & Experience, v.17 n.5-6, p.681-713, April 2005[doi>10.1002/cpe.v17:5/6]
+Kwon, J. and Wellings, A. 2004. Memory management based on method invocation in RTSJ. In Workshop on Java Technologies for Real-Time and Embedded Systems (JTRES), OTM Workshops. 333--345.
+D. Locke , L. Sha , R. Rajikumar , J. Lehoczky , G. Burns, Priority inversion and its control: An experimental investigation, ACM SIGAda Ada Letters, v.VIII n.7, p.39-42, June 1-3, 1988[doi>10.1145/59368.59374]
+Niessner, A. and Benowitz, E. 2003. RTSJ memory areas and their affects on the performance of a flight-like attitude control system. In Workshop on Java Technologies for Real-Time and Embedded Systems (JTRES), OTM Workshops. 508--519.
+Kelvin Nilsen, Adding real-time capabilities to Java, Communications of the ACM, v.41 n.6, p.49-56, June 1998[doi>10.1145/276609.276619]
+Palacz, K. and Vitek, J. 2003. Java subtype tests in real-time. In Proceedings of the European Conference on Object-Oriented Programming (ECOOP 2003). Lecture Notes in Computer Science, vol. 2743. Springer, Darmstadt, Germany. 378--404.
+K. Palacz , J. Baker , C. Flack , C. Grothoff , H. Yamauchi , J. Vitek, Engineering a common intermediate representation for the Ovm framework, Science of Computer Programming, v.57 n.3, p.357-378, September 2005[doi>10.1016/j.scico.2004.08.007]
+Pizlo, F., Fox, J., Holmes, D., and Vitek, J. 2004. Real-time java scoped memory: design patterns and semantics. In Proceedings of the IEEE International Symposium on Object-oriented Real-Time Distributed Computing (ISORC'04). Vienna, Austria.
+Purdue University - S3 Lab. 2005. The Ovm Virtual Machine homepage, http://www.ovmj.org/.
+Wendy Roll, Towards Model-Based and CCM-Based Applications for Real-Time Systems, Proceedings of the Sixth IEEE International Symposium on Object-Oriented Real-Time Distributed Computing, p.75, May 14-16, 2003
+William J. Schmidt , Kelvin D. Nilsen, Performance of a hardware-assisted real-time garbage collector, Proceedings of the sixth international conference on Architectural support for programming languages and operating systems, p.76-85, October 05-07, 1994, San Jose, California, USA[doi>10.1145/195473.195504]
+L. Sha , R. Rajkumar , J. P. Lehoczky, Priority Inheritance Protocols: An Approach to Real-Time Synchronization, IEEE Transactions on Computers, v.39 n.9, p.1175-1185, September 1990[doi>10.1109/12.57058]
+David Sharp, Real-Time Distributed Object Computing: Ready for Mission-Critical Embedded System Applications, Proceedings of the Third International Symposium on Distributed Objects and Applications, p.3, September 17-20, 2001
+David C. Sharp , Edward Pla , Kenn R. Luecke , Ricardo J. Hassan II, Evaluating Real-Time Java for Mission-Critical Large-Scale Embedded Systems, Proceedings of the The 9th IEEE Real-Time and Embedded Technology and Applications Symposium, p.30, May 27-30, 2003
+Fridtjof Siebert, Hard Real-Time Garbage-Collection in the Jamaica Virtual Machine, Proceedings of the Sixth International Conference on Real-Time Computing Systems and Applications, p.96, December 13-15, 1999
+Timesys Inc. 2003. The jTime Virtual Machine, http://www.timesys.com/.
+Tryggvesson, J., Mattsson, T., and Heeb, H. 1999. Jbed: Java for real-time systems. Dr. Dobb's Journal of Software Tools 24, 11 (Nov.), 78, 80, 82--84, 86.
+A. J. Wellings , P. Puschner, Evaluating the Expressive Power of the Real-Time Specification for Java*, Real-Time Systems, v.24 n.3, p.319-359, May 2003[doi>10.1023/A:1022816701710]
+Tian Zhao , Jens Palsberg , Jan Vitek, Lightweight confinement for featherweight java, Proceedings of the 18th annual ACM SIGPLAN conference on Object-oriented programing, systems, languages, and applications, October 26-30, 2003, Anaheim, California, USA[doi>10.1145/949305.949318]

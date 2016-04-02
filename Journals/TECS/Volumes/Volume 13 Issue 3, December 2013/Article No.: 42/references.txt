@@ -1,0 +1,31 @@
+Ahnesj¨, A. 1997. Cone discretization for the collapsed cone algorithm, In Proceedings of the International Conference on the Use of Computers in Radiation Therapy. 114--16.
+Ahnesj¨, A. 1989. Collapsed cone convolution of radiant energy for photon dose calculation in heterogeneous media. Med. Phys. 16, 577--92.
+Ahnesj¨, A. and Aspradakis, M. M. 1999. Dose calculations for external photon beams in radiotherapy, Phys. Med. Biol. 44, 99--155
+Ahunbay, E., Chen, G., Peng, C., Yu, C., Narayanan, S., and Li, X. A. 2007. An on-line adaptive planning strategy for inter-fraction image guidance. Int. J. Radiat. Oncol. Biol. Phys. 69, 3, S23.
+Amanatides, J. and Woo, A. 1987. A fast voxel traversal algorithm for ray tracing. In Proceedings of the European Computer Graphics Conference and Exhibition (Eurographics). 3--10.
+Solomon Boulos , Dave Edwards , J. Dylan Lacewell , Joe Kniss , Jan Kautz , Peter Shirley , Ingo Wald, Packet-based whitted and distribution ray tracing, Proceedings of Graphics Interface 2007, May 28-30, 2007, Montreal, Canada[doi>10.1145/1268517.1268547]
+Cameron, C. 2005. Sweeping-window arc therapy: An implementation of rotational IMRT with automatic beam-weight calculation. Phys. Med. Biol. 50, 4317--4336.
+Chen, Q., Chen, M., and, Lu, W. 2011. Ultrafast convolution/superposition using tabulated and exponential kernels on GPU. Med. Phy. 38, 1150--1161.
+De Greef, M., Crezee, J., van Eijk, J. C., Pool, R., and Bel, A. 2009. Accelerated ray tracing for radiotherapy dose calculations on a GPU. Med. Phys. 36, 9, 4095--4192.
+Klaus Engel , Markus Hadwiger , Joe M. Kniss , Aaron E. Lefohn , Christof Rezk Salama , Daniel Weiskopf, Real-time volume graphics, ACM SIGGRAPH 2004 Course Notes, p.29-es, August 08-12, 2004, Los Angeles, CA[doi>10.1145/1103900.1103929]
+Manfred Ernst , Gunther Greiner, Early Split Clipping for Bounding Volume Hierarchies, Proceedings of the 2007 IEEE Symposium on Interactive Ray Tracing, p.73-78, September 10-12, 2007[doi>10.1109/RT.2007.4342593]
+Feng, Y., Castro-Pareja, C., Shekhar, R., and Yu, C. 2006. Direct aperture deformation—An inter-fraction image guidance strategy. Med. Phys. 33, 12, 4490--4498.
+Markus Hadwiger , Patric Ljung , Christof Rezk Salama , Timo Ropinski, Advanced illumination techniques for GPU volume raycasting, ACM SIGGRAPH ASIA 2008 courses, p.1-166, December 10-13, 2008, Singapore[doi>10.1145/1508044.1508045]
+Hissoiny, S., Ozell, B., and Depres, P. 2009. Fast convolution-superposition dose calculation on graphics hardware. Med. Phys., 36, 6, 1998--2005.
+Jacques, R., Taylor, R., Wong, J., and McNutt, T. 2008. Towards real-time radiation therapy: GPU accelerated superposition/convolution. In Proceedings of the High-Performance Medical Image Computing and Computer Aided Intervention Workshop.
+Jia, X., Gu, X., Sempau, J., Choi, D., Majumdar, A., and Jiang, S. B. 2010. Development of a GPU-based Monte Carlo dose calculation code for coupled electron-photon transport. Phys. Med. Biol. 55, 11, 3077--3086.
+Joe Kniss , Gordon Kindlmann , Charles Hansen, Interactive volume rendering using multi-dimensional transfer functions and direct manipulation widgets, Proceedings of the conference on Visualization '01, October 21-26, 2001, San Diego, California
+Mohan, R., Zhang, X., Wang, H., Kang, Y., Wang, X., Liu, H., Ang, K., Kuban, D., and Dong, L. 2005. Use of deformed intensity distributions for online modification of image-guided IMRT to account for interfractional anatomic changes. Int. J. Radiat. Oncol. Biol. Phys. 61, 4, 1258--1266.
+Steven Parker , Michael Parker , Yarden Livnat , Peter-Pike Sloan , Charles Hansen , Peter Shirley, Interactive Ray Tracing for Volume Visualization, IEEE Transactions on Visualization and Computer Graphics, v.5 n.3, p.238-250, July 1999[doi>10.1109/2945.795215]
+Steven G. Parker , James Bigler , Andreas Dietrich , Heiko Friedrich , Jared Hoberock , David Luebke , David McAllister , Morgan McGuire , Keith Morley , Austin Robison , Martin Stich, OptiX: a general purpose ray tracing engine, ACM Transactions on Graphics (TOG), v.29 n.4, July 2010[doi>10.1145/1778765.1778803]
+Timothy J. Purcell , Ian Buck , William R. Mark , Pat Hanrahan, Ray tracing on programmable graphics hardware, Proceedings of the 29th annual conference on Computer graphics and interactive techniques, July 23-26, 2002, San Antonio, Texas[doi>10.1145/566570.566640]
+Reckwerdt, P. J. and Mackie, T. R. 1992. Superposition/convolution speed improvements using run-length raytracing. Med. Phys. 19, 784.
+Reshetov, A. 2006. Omnidirectional ray tracing traversal algorithm for kd-trees. In Proceedings of the IEEE Symposium on Interactive Ray Tracing. 57--60.
+Spackman, J. and Willis, P. 1991. The SMART navigation of a ray through an oct-tree. Comput. Graphics, 15, 2, 185--194.
+Shepard, D. M., Cao, D., Afghan, M. K. N., and Earl, M. A. 2007. An arc-sequencing algorithm for intensity modulated arc therapy. Med. Phys. 34, 464--470.
+Wald, I., Gribble, C. P., Boulos, S., and Kensler, A. 2007. SIMD Ray Stream Tracing - SIMD Ray Traversal with Generalized Ray Packets and On-the-fly Re-Ordering. Tech. rep., UUSCI-2007-012, Scientific Computing and Imaging Institute, University of Utah.
+Ingo Wald , Solomon Boulos , Peter Shirley, Ray tracing deformable scenes using dynamic bounding volume hierarchies, ACM Transactions on Graphics (TOG), v.26 n.1, p.6-es, January 2007[doi>10.1145/1189762.1206075]
+Ingo Wald , Heiko Friedrich , Gerd Marmitt , Philipp Slusallek , Hans-Peter Seidel, Faster Isosurface Ray Tracing Using Implicit KD-Trees, IEEE Transactions on Visualization and Computer Graphics, v.11 n.5, p.562-572, September 2005[doi>10.1109/TVCG.2005.79]
+Ingo Wald , Thiago Ize , Andrew Kensler , Aaron Knoll , Steven G. Parker, Ray tracing animated scenes using coherent grid traversal, ACM Transactions on Graphics (TOG), v.25 n.3, July 2006[doi>10.1145/1141911.1141913]
+Zhou, B., Yu, C. X., Chen, D. Z., and Hu, X. S. 2010. GPU-accelerated Monte Carlo convolution/superposition implementation for dose calculation. Med. Phys. 37, 11, 5593--5603.
+Bo Zhou , X. Sharon Hu , Danny Z. Chen, Memory-efficient volume ray tracing on GPU for radiotherapy, Proceedings of the 2011 IEEE 9th Symposium on Application Specific Processors, p.46-51, June 05-06, 2011[doi>10.1109/SASP.2011.5941076]

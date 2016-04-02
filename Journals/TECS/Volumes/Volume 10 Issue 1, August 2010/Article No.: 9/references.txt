@@ -1,0 +1,49 @@
+Altera. 2007a. Avalon memory-mapped interface specification (v3.3).
+Altera. 2007b. Nios II Processor Reference Handbook (ver. 7.2).
+Altera. 2007c. Quartus II Handbook, vol. 4: SOPC Builder (ver. 7.2).
+Alexandru Andrei , Petru Eles , Zebo Peng , Jakob Rosen, Predictable Implementation of Real-Time Applications on Multiprocessor Systems-on-Chip, Proceedings of the 21st International Conference on VLSI Design, p.103-110, January 04-08, 2008[doi>10.1109/VLSI.2008.33]
+ARM. 2006. ARM 11, MPcore Processor, Technical Reference Manual. http://www.arm.com.
+ARM. 1999. AMBA specification (rev. 2.0).
+Artieri, A., D'Alto, V., Chesson, R., Hopkins, M., Rossi, M. C., and Peterson, W. D. 2004. Nomadik—Open multimedia platform for next generation mobile devices. Tech. rep. TA305 http://www.st.com.
+Santanu Dutta , Rune Jensen , Alf Rieckmann, Viper: A Multiprocessor SOC for Advanced Set-Top Box and Digital TV Systems, IEEE Design & Test, v.18 n.5, p.21-31, September 2001[doi>10.1109/54.953269]
+Ermedahl, A. and Engblom, J. 2007. Execution time analysis for embedded real-time systems. In Handbook of Real-Time Embedded Systems, S.H.S. Insup Lee and J.Y.-T. Leung Eds., Chapman & Hall/CRC, 35.1--35.17.
+Gaisler, J. and Catovic, E. 2006. Multi-core processor based on LEON3-FT IP core (LEON3-FT-MP). Data Syst. Aerospace. 630, ESA Special Publication.
+John L. Hennessy , David A. Patterson, Computer Architecture, Fourth Edition: A Quantitative Approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2006
+H. Peter Hofstee, Power Efficient Processor Architecture and The Cell Processor, Proceedings of the 11th International Symposium on High-Performance Computer Architecture, p.258-262, February 12-16, 2005[doi>10.1109/HPCA.2005.26]
+IBM. 2007. 32-Bit OPB arbiter core databook, rev. 1.
+IBM. 2001. On-chip peripheral bus architecture specifications, v2.1.
+Joseph, M. and Pandya, P. K. 1986. Finding response times in a real-time system. Comput. J. 29, 5, 390--395.
+Norman P. Jouppi, Improving direct-mapped cache performance by the addition of a small fully-associative cache and prefetch buffers, Proceedings of the 17th annual international symposium on Computer Architecture, p.364-373, May 28-31, 1990, Seattle, Washington, USA[doi>10.1145/325164.325162]
+J. A. Kahle , M. N. Day , H. P. Hofstee , C. R. Johns , T. R. Maeurer , D. Shippy, Introduction to the cell multiprocessor, IBM Journal of Research and Development, v.49 n.4/5, p.589-604, July 2005
+Chetana N. Keltcher , Kevin J. McGrath , Ardsher Ahmed , Pat Conway, The AMD Opteron Processor for Multiprocessor Servers, IEEE Micro, v.23 n.2, p.66-76, March 2003[doi>10.1109/MM.2003.1196116]
+Michael Kistler , Michael Perrone , Fabrizio Petrini, Cell Multiprocessor Communication Network: Built for Speed, IEEE Micro, v.26 n.3, p.10-23, May 2006[doi>10.1109/MM.2006.49]
+Poonacha Kongetira , Kathirgamar Aingaran , Kunle Olukotun, Niagara: A 32-Way Multithreaded Sparc Processor, IEEE Micro, v.25 n.2, p.21-29, March 2005[doi>10.1109/MM.2005.35]
+Hermann Kopetz, Real-Time Systems: Design Principles for Distributed Embedded Applications, Kluwer Academic Publishers, Norwell, MA, 1997
+James Laudon , Lawrence Spracklen, The coming wave of multithreaded chip multiprocessors, International Journal of Parallel Programming, v.35 n.3, p.299-330, June 2007[doi>10.1007/s10766-007-0033-6]
+Yau-Tsun Steven Li , Sharad Malik, Performance analysis of embedded software using implicit path enumeration, Proceedings of the ACM SIGPLAN 1995 workshop on Languages, compilers, & tools for real-time systems, p.88-98, November 1995, La Jolla, California, USA[doi>10.1145/216636.216666]
+Ben Lickly , Isaac Liu , Sungjun Kim , Hiren D. Patel , Stephen A. Edwards , Edward A. Lee, Predictable programming on a precision timed architecture, Proceedings of the 2008 international conference on Compilers, architectures and synthesis for embedded systems, October 19-24, 2008, Atlanta, GA, USA[doi>10.1145/1450095.1450117]
+Tim Lindholm , Frank Yellin, Java Virtual Machine Specification, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1999
+C. L. Liu , James W. Layland, Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment, Journal of the ACM (JACM), v.20 n.1, p.46-61, Jan. 1973[doi>10.1145/321738.321743]
+Martin, G. and Chang, H. 2003. Winning the SOC Revolution. (Kluwer Academic Press, Amsterdam, chapter 5).
+Moore, G. E. 1965. Cramming more components onto integrated circuits. Electronics 38, 8, 114--117.
+Pitter, C. 2009. Time-predictable Java chip-multiprocessor. Ph.D. dissertation, Vienna University of Technology, Austria.
+Christof Pitter, Time-predictable memory arbitration for a Java chip-multiprocessor, Proceedings of the 6th international workshop on Java technologies for real-time and embedded systems, September 24-26, 2008, Santa Clara, California[doi>10.1145/1434790.1434808]
+Pitter, C. and Schoeberl, M. 2008. Performance evaluation of a Java chip-multiprocessor. In Proceedings of the IEEE 3rd Symposium on Industrial Embedded Systems (SIES'08). IEEE, Los Alamitos, CA.
+Pitter, C. and Schoeberl, M. 2007a. Time predictable CPU and DMA shared memory access. In Proceedings of the International Conference on Field-Programmable Logic and its Applications (FPL'07).
+Christof Pitter , Martin Schoeberl, Towards a Java multiprocessor, Proceedings of the 5th international workshop on Java technologies for real-time and embedded systems, September 26-28, 2007, Vienna, Austria[doi>10.1145/1288940.1288962]
+Poletti, F., Bertozzi, D., Benini, L., and Bogliolo, A. 2003. Performance analysis of arbitration policies for SoC communication architectures. Des. Automation Embed. Syst. 8, 189--210.
+Peter Puschner , Alan Burns, Guest Editorial: A Review of Worst-Case Execution-TimeAnalysis, Real-Time Systems, v.18 n.2/3, p.115-128, May 2000[doi>10.1023/A:1008119029962]
+Jakob Rosen , Alexandru Andrei , Petru Eles , Zebo Peng, Bus Access Optimization for Predictable Implementation of Real-Time Applications on Multiprocessor Systems-on-Chip, Proceedings of the 28th IEEE International Real-Time Systems Symposium, p.49-60, December 03-06, 2007[doi>10.1109/RTSS.2007.13]
+Martin Schoeberl, A Java processor architecture for embedded real-time systems, Journal of Systems Architecture: the EUROMICRO Journal, v.54 n.1-2, p.265-286, January, 2008[doi>10.1016/j.sysarc.2007.06.001]
+Schoeberl, M. 2007. SimpCon—A simple and efficient SoC interconnect. In Proceedings of the 15th Austrian Workshop on Microelectronics (Austrochip'07).
+Martin Schoeberl , Rasmus Pedersen, WCET analysis for a Java processor, Proceedings of the 4th international workshop on Java technologies for real-time and embedded systems, October 11-13, 2006, Paris, France[doi>10.1145/1167999.1168033]
+Martin Schoeberl, Design and Implementation of an Efficient Stack Machine, Proceedings of the 19th IEEE International Parallel and Distributed Processing Symposium (IPDPS'05) - Workshop 3, p.159.2, April 04-08, 2005[doi>10.1109/IPDPS.2005.161]
+Schoeberl, M. 2005b. Jop: A Java optimized processor for embedded real-time systems. Ph.D. dissertation, Vienna University of Technology, Austria.
+Schoeberl, M. 2004. A time predictable instruction cache for a Java processor. In Proceedings of the Workshop on Java Technologies for Real-Time and Embedded Systems. Lecture Notes in Computer Science, vol. 3292, Springer, Berlin, 371--382.
+Fridtjof Siebert, JEOPARD: Java environment for parallel real-time development, Proceedings of the 6th international workshop on Java technologies for real-time and embedded systems, September 24-26, 2008, Santa Clara, California[doi>10.1145/1434790.1434804]
+CORPORATE SPARC International, Inc., The SPARC architecture manual: version 8, Prentice-Hall, Inc., Upper Saddle River, NJ, 1992
+Lothar Thiele , Reinhard Wilhelm, Design for Timing Predictability, Real-Time Systems, v.28 n.2-3, p.157-177, November-December 2004[doi>10.1023/B:TIME.0000045316.66276.6e]
+Reinhard Wilhelm , Jakob Engblom , Andreas Ermedahl , Niklas Holsti , Stephan Thesing , David Whalley , Guillem Bernat , Christian Ferdinand , Reinhold Heckmann , Tulika Mitra , Frank Mueller , Isabelle Puaut , Peter Puschner , Jan Staschulat , Per Stenström, The worst-case execution-time problem—overview of methods and survey of tools, ACM Transactions on Embedded Computing Systems (TECS), v.7 n.3, p.1-53, April 2008[doi>10.1145/1347375.1347389]
+Wayne Wolf, High-Performance Embedded Computing: Architectures, Applications, and Methodologies, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2006
+Xilinx. 2007. MicroBlaze Processor Reference Guide, Embedded Development Kit EDK 9.2i. http://www.xilinx.com.
+Xilinx. 2005. OPB Arbiter product specification (v1.10c).

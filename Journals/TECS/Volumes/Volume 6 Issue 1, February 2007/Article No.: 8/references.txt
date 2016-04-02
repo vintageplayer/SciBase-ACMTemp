@@ -1,0 +1,55 @@
+Rajeev Alur , Thao Dang , Franjo Ivancic, Reachability Analysis of Hybrid Systems via Predicate Abstraction, Proceedings of the 5th International Workshop on Hybrid Systems: Computation and Control, p.35-48, March 25-27, 2002
+Rajeev Alur , Thao Dang , Franjo Ivančic, Counter-example guided predicate abstraction of hybrid systems, Proceedings of the 9th international conference on Tools and algorithms for the construction and analysis of systems, April 07-11, 2003, Warsaw, Poland
+Rajeev Alur , George J. Pappas, Hybrid Systems: Computation and Control: 7th International Workshop, Hscc 2004, Philadelphia, Pa, Usa, March 2004: Proceedings (Lecture Notes in Computer Science, 2993), SpringerVerlag, 2004
+Krzysztof R. Apt, The essence of constraint propagation, Theoretical Computer Science, v.221 n.1-2, p.179-210, June 28, 1999[doi>10.1016/S0304-3975(99)00032-8]
+Eugene Asarin , Thao Dang , Oded Maler, The d/dt Tool for Verification of Hybrid Systems, Proceedings of the 14th International Conference on Computer Aided Verification, p.365-370, July 27-31, 2002
+Frédéric Benhamou, Heterogeneous Constraint Solving, Proceedings of the 5th International Conference on Algebraic and Logic Programming, p.62-76, September 25-27, 1996
+Benhamou, F. and Older, W. J. 1997. Applying interval arithmetic to real, integer and Boolean constraints. Journal of Logic Programming 32, 1, 1--24.
+F. Benhamou , D. McAllester , P. van Hentenryck, CLP(intervals) revisited, Proceedings of the 1994 International Symposium on Logic programming, p.124-138, November 1994, Symposia, Melbourne
+Caviness, B. F. and Johnson, J. R., Eds. 1998. Quantifier Elimination and Cylindrical Algebraic Decomposition. Springer, Wien.
+Chutinan, A. and Krogh, B. H. 1999. Verification of polyhedral-invariant hybrid automata using polygonal flow pipe approximations. See Vaandrager and van Schuppen {1999}. 76--90.
+Clarke, E., Fehnker, A., Han, Z., Krogh, B., Ouaknine, J., Stursberg, O., and Theobald, M. 2003a. Abstraction and counterexample-guided refinement in model checking of hybrid systems. Int. Journal of Foundations of Comp. Science 14, 4, 583--604.
+Edmund Clarke , Ansgar Fehnker , Zhi Han , Bruce Krogh , Olaf Stursberg , Michael Theobald, Verification of hybrid systems based on counterexample-guided abstraction refinement, Proceedings of the 9th international conference on Tools and algorithms for the construction and analysis of systems, April 07-11, 2003, Warsaw, Poland
+Edmund Clarke , Orna Grumberg , Somesh Jha , Yuan Lu , Helmut Veith, Counterexample-guided abstraction refinement for symbolic model checking, Journal of the ACM (JACM), v.50 n.5, p.752-794, September 2003[doi>10.1145/876638.876643]
+Cleary, J. G. 1987. Logical arithmetic. Future Computing Systems 2, 2, 125--149.
+George E. Collins , Hoon Hong, Partial Cylindrical Algebraic Decomposition for quantifier elimination, Journal of Symbolic Computation, v.12 n.3, p.299-328, Sept. 1991[doi>10.1016/S0747-7171(08)80152-6]
+Werner Damm , Guilherme Pinto , Stefan Ratschan, Guaranteed termination in the verification of LTL properties of non-linear robust discrete time hybrid systems, Proceedings of the Third international conference on Automated Technology for Verification and Analysis, October 04-07, 2005, Taipei, Taiwan[doi>10.1007/11562948_10]
+Ernest Davis, Constraint propagation with interval labels, Artificial Intelligence, v.32 n.3, p.281-331, July 1987[doi>10.1016/0004-3702(87)90091-9]
+Fehnker, A. and Ivanćić, F. 2004. Benchmarks for hybrid systems verification. See Alur and Pappas {2004}.
+Fränzle, M. 1999. Analysis of hybrid systems: An ounce of realism can save an infinity of states. In Computer Science Logic (CSL'99), J. Flum and M. Rodriguez-Artalejo, Eds. Number 1683 in LNCS. Springer, New York.
+Frehse, G. 2005. PHAVer: Algorithmic verification of hybrid systems past HyTech. See Morari and Thiele {2005}.
+Girard, A. 2005. Reachability of uncertain linear systems using zonotopes. See Morari and Thiele {2005}.
+Thomas A. Henzinger , Peter W. Kopke , Anuj Puri , Pravin Varaiya, What's decidable about hybrid automata?, Journal of Computer and System Sciences, v.57 n.1, p.94-124, Aug. 1998[doi>10.1006/jcss.1998.1581]
+Thomas A. Henzinger , Benjamin Horowitz , Rupak Majumdar , Howard Wong-Toi, Beyond HYTECH: Hybrid Systems Analysis Using Interval Numerical Methods, Proceedings of the Third International Workshop on Hybrid Systems: Computation and Control, p.130-144, March 23-25, 2000
+Hickey, T. and Wittenberg, D. 2004. Rigorous modeling of hybrid systems using interval arithmetic constraints. See Alur and Pappas {2004}.
+Hickey, T. J. smathlib. http://interval.sourceforge.net/interval/prolog/clip/clip/smath/README.%html.
+Timothy J. Hickey, Analytic constraint solving and interval arithmetic, Proceedings of the 27th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.338-351, January 19-21, 2000, Boston, MA, USA[doi>10.1145/325694.325738]
+Hickey, T. J. 2001. Metalevel interval arithmetic and verifiable constraint solving. Journal of Functional and Logic Programming 2001, 7 (Oct.).
+Hickey, T. J., van Emden, M. H., and Wu, H. 1998. A unified framework for interval constraint and interval arithmetic. In CP'98, M. Maher and J. Puget, Eds. Number 1520 in LNCS. Springer, New York. 250--264.
+T. Hickey , Q. Ju , M. H. Van Emden, Interval arithmetic: From principles to implementation, Journal of the ACM (JACM), v.48 n.5, p.1038-1068, September 2001[doi>10.1145/502102.502106]
+Jaulin, L., Kieffer, M., Didrit, O., and Walter, É. 2001. Applied Interval Analysis, with Examples in Parameter and State Estimation, Robust Control and Robotics. Springer, Berlin.
+Kurzhanski, A. and Varaiya, P. 2000. Ellipsoidal techniques for reachability analysis. See Lynch and Krogh {2000}. 202--214.
+Yahia Lebbah , Michel Rueher , Claude Michel, A Global Filtering Algorithm for Handling Systems of Quadratic Equations and Inequations, Proceedings of the 8th International Conference on Principles and Practice of Constraint Programming, p.109-123, September 09-13, 2002
+Lhomme, O. 1993. Consistency techniques for numeric CSPs. In Proc. 13th Intl. Joint Conf. on Artificial Intelligence. Morgan Kaufmann, San Mateo, CA.
+Lhomme, O., Gotlieb, A., and Rueher, M. 1998. Dynamic optimization of interval narrowing algorithms. Journal of Logic Programming 37, 1--3, 165--183.
+Lynch, N. and Krogh, B., Eds. 2000. Proc. HSCC'00. LNCS, vol. 1790. Springer, New York.
+Mackworth, A. K. 1977. Consistency in networks of relations. Artificial Intelligence 8, 99--118.
+Mitchell, I. and Tomlin, C. J. 2000. Level set methods for computation in hybrid systems. See Lynch and Krogh {2000}. 310--323.
+Manfred Morari , Lothar Thiele , Francesca Rossi, Hybrid Systems: Computation and Control: 8th International Workshop, HSCC 2005, Zurich, Switzerland, March 9-11, 2005, Proceedings (Lecture Notes in Computer Science), Springer-Verlag New York, Inc., Secaucus, NJ, 2005
+Neumaier, A. 1990. Interval Methods for Systems of Equations. Cambridge Univ. Press, Cambridge.
+Older, W. and Benhamou, F. 1993. Programming in CLP(BNR). In 1st Workshop on Principles and Practice of Constraint Programming.
+J. Preußig , Stefan Kowalewski , Howard Wong-Toi , Thomas A. Henzinger, An Algorithm for the Approximative Analysis of Rectangular Automata, Proceedings of the 5th International Symposium on Formal Techniques in Real-Time and Fault-Tolerant Systems, p.228-240, September 14-18, 1998
+Jörg Preußig , Olaf Stursberg , Stefan Kowalewski, Reachability Analysis of a Class of Switched Continuous Systems by Integrating Rectangular Approximation and Rectangular Analysis, Proceedings of the Second International Workshop on Hybrid Systems: Computation and Control, p.209-222, March 29-31, 1999
+Puri, A. and Varaiya, P. 1995. Driving safely in smart cars. In Proc. of the 1995 American Control Conference. 3597--3599.
+Stefan Ratschan, Continuous First-Order Constraint Satisfaction, Proceedings of the Joint International Conferences on Artificial Intelligence, Automated Reasoning, and Symbolic Computation, p.181-195, July 01-05, 2002
+Ratschan, S. 2004. RSolver. http://rsolver.sourceforge.net. Software package.
+Ratschan, S. and She, Z. 2004. Hsolver. http://hsolver.sourceforge.net. Software package.
+Ratschan, S. and She, Z. 2005. Safety verification of hybrid systems by constraint propagation based abstraction refinement. See Morari and Thiele {2005}.
+Stursberg, O. and Kowalewski, S. 1999. Approximating switched continuous systems by rectangular automata. In Proc. European Control Conference. Paper-ID: F1014-4.
+Stursberg, O. and Kowalewski, S. 2000. Analysis of controlled hybrid processing systems based on approximation by timed automata using interval arithmetic. In Proceedings of the 8th IEEE Mediterranean Conference on Control and Automation (MED 2000).
+Olaf Stursberg , Stefan Kowalewski , Ingo Hoffmann , Jörg Preußig, Comparing Timed and Hybrid Automata as Approximations of Continuous Systems, Hybrid Systems IV, p.361-377, January 1997
+Stursberg, O., Kowalewski, S., and Engell, S. 2000. On the generation of timed discrete approximations for continuous systems. Mathematical and Computer Models of Dynamical Systems 6, 51--70.
+Ashish Tiwari, Approximate reachability for linear systems, Proceedings of the 6th international conference on Hybrid systems: computation and control, April 03-05, 2003, Prague, Czech Republic
+Ashish Tiwari , Gaurav Khanna, Series of Abstractions for Hybrid Automata, Proceedings of the 5th International Workshop on Hybrid Systems: Computation and Control, p.465-478, March 25-27, 2002
+Proceedings of the 5th International Workshop on Hybrid Systems: Computation and Control, March 2002
+Vaandrager, F. and van Schuppen, J., Eds. 1999. Hybrid Systems: Computation and Control---HSCC'99. Number 1569 in LNCS. Springer, New York.

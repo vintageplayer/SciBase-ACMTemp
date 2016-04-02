@@ -1,0 +1,51 @@
+ARM Limited. 2008. AMBA Specification, Rev 2.0. Retrieved from http://www.arm.com.
+ARM. 2011. AMBA AXI and ACE Protocol Specification.
+Arteris. 2009. From Bus and Crossbar to Network-On-Chip. White Paper.
+Neal K. Bambha and Shuvra S. Bhattacharyya. 2004. Interconnect synthesis for systems on chip. In Proceedings of the 4th IEEE International Workshop on System-on-Chip for Real-Time Applications. IEEE, 263--268.
+Neal K. Bambha and Shuvra S. Bhattacharyya. 2005. Joint application mapping/interconnect synthesis techniques for embedded chip-scale multiprocessors. IEEE Transactions on Parallel and Distributed Systems 16, 2, 99--112.
+Luca Benini and Giovanni De Micheli. 2002. Networks on chips: A new SoC paradigm. Computer 35, 1, 70--78.
+Praveen Bhojwani and Rabi Mahapatra. 2003. Interfacing cores with on-chip packet-switched networks. In Proceedings of the 16th International Conference on VLSI Design. IEEE, 382--387.
+Keki M. Burjorjee. 2013. Explaining optimization in genetic algorithms with uniform crossover. In Proceedings of the 12th Workshop on Foundations of Genetic Algorithms XII (FOGA XII’13). ACM, New York, NY, 37--50. DOI:http://dx.doi.org/10.1145/2460239.2460244
+John Canny. 1986. A computational approach to edge detection. IEEE Transactions on Pattern Analysis and Machine Intelligence 6, 679--698.
+Alessandro Cilardo, Edoardo Fusella, Luca Gallo, and Antonino Mazzeo. 2013. Automated synthesis of FPGA-based heterogeneous interconnect topologies. In Proceedings of the 23rd International Conference on Field Programmable Logic and Applications (FPL’13). IEEE, 1--8.
+Alessandro Cilardo, Edoardo Fusella, Luca Gallo, and Antonino Mazzeo. 2014a. Joint communication scheduling and interconnect synthesis for FPGA-based many-core systems. In Proceedings of the Design, Automation & Test in Europe Conference & Exhibition (DATE), 2014. IEEE.
+A. Cilardo, E. Fusella, L. Gallo, A. Mazzeo, and N. Mazzocca. 2014b. Automated design space exploration for FPGA-based heterogeneous interconnects. Design Automation for Embedded Systems, 1--14.
+William J. Dally and Brian Towles. 2001. Route packets, not wires: On-chip interconnection networks. In Proceedings of the Design Automation Conference, 2001. IEEE, 684--689.
+Giovanni De Micheli and Luca Benini. 2006. Networks on Chips: Technology and Tools. Morgan Kaufmann.
+Nikhil R. Devanur and Uriel Feige. 2011. An O (n log n) algorithm for a load balancing problem on paths. In Algorithms and Data Structures. Springer, New York, 326--337.
+Robert P. Dick, David L. Rhodes, and Wayne Wolf. 1998. TGFF: task graphs for free. In Proceedings of the 6th International Workshop on Hardware/Software Codesign. IEEE Computer Society, 97--101.
+Jack Edmonds. 1968. Optimum Branchings. National Bureau of Standards, Gaithersburg, MD.
+Andreas Gerstlauer, Christian Haubelt, Andy D. Pimentel, Todor P. Stefanov, Daniel D. Gajski, and Jürgen Teich. 2009. Electronic system-level synthesis methodologies. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 28, 10, 1517--1530.
+Andreas Hansson, Kees Goossens, and Andrei Rădulescu. 2007. A unified approach to mapping and routing on a network-on-chip for both best-effort and guaranteed service traffic. VLSI Design 2007.
+Jingcao Hu and Radu Marculescu. 2004. Energy-aware communication and task scheduling for network-on-chip architectures under real-time constraints. In Proceedings of the 2004 Design, Automation and Test in Europe Conference and Exhibition. Vol. 1. IEEE, 234--239.
+Jae Young Hur. 2011. Customizing and Hardwiring On-Chip Interconnects in FPGAs. PhD dissertation, TU Delft, Delft, The Netherlands.
+IBM. 2012. CoreConnect Interconnect Standard. Retrieved from http://www-01.ibm.com/chips/techlib/techlib.nsf/products/CoreConnect&lowbar;PLB6&lowbar;Peripheral_Cores.
+Minje Jun, Deumji Woo, and Eui-Young Chung. 2012. Partial connection-aware topology synthesis for on-chip cascaded crossbar network. IEEE Transactions on Computers, 61, 1, 73--86.
+Minje Jun, Sungjoo Yoo, and Eui-Young Chung. 2009. Topology synthesis of cascaded crossbar switches. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 28, 6, 926--930.
+Kurt Keutzer, A. Richard Newton, Jan M. Rabaey, and Alberto Sangiovanni-Vincentelli. 2000. System-level design: Orthogonalization of concerns and platform-based design. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 19, 12, 1523--1543.
+Sungchan Kim and Soonhoi Ha. 2006. Efficient exploration of bus-based system-on-chip architectures. IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 14, 7, 681--692.
+Kanishka Lahiri, Anand Raghunathan, and Sujit Dey. 2004. Design space exploration for optimizing on-chip communication architectures. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 23, 6, 952--961.
+Vesa Lahtinen, Erno Salminen, Kimmo Kuusilinna, and T. Hamalainen. 2003. Comparison of synthesized bus and crossbar interconnection architectures. In Proceedings of the 2003 International Symposium on Circuits and Systems, 2003 (ISCAS’03). Vol. 5. IEEE, V--433.
+Hyung Gyu Lee, Naehyuck Chang, Umit Y. Ogras, and Radu Marculescu. 2007. On-chip communication architecture exploration: A quantitative evaluation of point-to-point, bus, and network-on-chip approaches. ACM Transactions on Design Automation of Electronic Systems (TODAES), 12, 3, 23.
+R. Duncan Luce and Albert D. Perry. 1949. A method of matrix analysis of group structure. Psychometrika 14, 2, 95--116.
+Martin Lukasiewycz, Michael Glaß, Felix Reimann, and Jürgen Teich. 2011. Opt4J: a modular framework for meta-heuristic optimization. In Proceedings of the 13th Annual Conference on Genetic and Evolutionary Computation (GECCO’11). ACM, New York, NY, 1723--1730. DOI:http://dx.doi.org/10.1145/2001576.2001808
+Radu Marculescu, Umit Y. Ogras, Li-Shiuan Peh, Natalie Enright Jerger, and Yatin Hoskote. 2009. Outstanding research problems in NoC design: system, microarchitecture, and circuit perspectives. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 28, 1, 3--21.
+Aline Mello, Leonel Tedesco, Ney Calazans, and Fernando Moraes. 2005. Virtual channels in networks on chip: implementation and evaluation on Hermes NoC. In Proceedings of the 18th Annual Symposium on Integrated Circuits and System Design. ACM, New York, NY, 178--183.
+Giovanni De Micheli. 1994. Synthesis and Optimization of Digital Circuits. McGraw-Hill Higher Education, New York, NY.
+Fernando Moraes, Ney Calazans, Aline Mello, Leandro Möller, and Luciano Ost. 2004. HERMES: an infrastructure for low area overhead packet-switching networks on chip. INTEGRATION, the VLSI Journal 38, 1, 69--93.
+Egbert Mujuni and Frances Rosamond. 2008. Parameterized complexity of the clique partition problem. In Proceedings of the 14th Symposium on Computing: the Australasian Theory - Volume 77 (CATS’08). Australian Computer Society, Inc., Darlinghurst, Australia, 75--78. http://dl.acm.org/citation.cfm&quest;id=1379361.1379375
+Srinivasan Murali, Luca Benini, and Giovanni De Micheli. 2007. An application-specific design methodology for on-chip crossbar generation. Computer-Aided Design of Integrated Circuits and Systems, IEEE Transactions on 26, 7 (2007), 1283--1296.
+Srinivasan Murali and Giovanni De Micheli. 2004. Bandwidth-constrained mapping of cores onto NoC architectures. In Proceedings of the Conference on Design, Automation and Test in Europe—Volume 2. IEEE Computer Society, 20896.
+Srinivasan Murali, Paolo Meloni, Federico Angiolini, David Atienza, Salvatore Carta, Luca Benini, Giovanni De Micheli, and Luigi Raffo. 2006. Designing application-specific networks on chips with floorplan information. In Proceedings of the 2006 IEEE/ACM International Conference on Computer-Aided Design. ACM, New York, NY, 355--362.
+Umit Y. Ogras, Jingcao Hu, and Radu Marculescu. 2005. Key research problems in NoC design: a holistic perspective. In Proceedings of the 3rd IEEE/ACM/IFIP International Conference on Hardware/Software Codesign and System Synthesis. ACM, New York, NY, 69--74.
+John D. Owens, William J. Dally, Ron Ho, D. N. Jayasimha, Stephen W. Keckler, and Li-Shiuan Peh. 2007. Research challenges for on-chip interconnection networks. IEEE Micro 27, 5, 96.
+Partha Pratim Pande, Cristian Grecu, Michael Jones, André Ivanov, and Res Saleh. 2005a. Effect of traffic localization on energy dissipation in NoC-based interconnect. In Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS’05). IEEE, 1774--1777.
+Partha Pratim Pande, Cristian Grecu, Michael Jones, Andre Ivanov, and Resve Saleh. 2005b. Performance evaluation and design trade-offs for network-on-chip interconnect architectures. IEEE Transactions on Computers, 54, 8, 1025--1040.
+Sudeep Pasricha, Nikil Dutt, and Mohamed Ben-Romdhane. 2006. Constraint-driven bus matrix synthesis for MPSoC. In Proceedings of the 2006 Asia and South Pacific Design Automation Conference. IEEE Press, 30--35.
+Cuong Pham-Quoc, Zaid Al-Ars, and Koen Bertels. 2012. A heuristic-based communication-aware hardware optimization approach in heterogeneous multicore systems. In Proceedings of the 2012 International Conference on Reconfigurable Computing and FPGAs (ReConFig’12). IEEE, 1--6.
+STMicroelectronics. 2007. STBus Communication System: Concepts and Definitions. STMicroelectronics.
+Alexander Strehl and Joydeep Ghosh. 2003. Cluster ensembles—a knowledge reuse framework for combining multiple partitions. The Journal of Machine Learning Research 3, 583--617.
+Vladimir Todorov, Daniel Mueller-Gritschneder, Helmut Reinig, and Ulf Schlichtmann. 2013. A spectral clustering approach to application-specific network-on-chip synthesis. In Proceedings of the Design, Automation & Test in Europe Conference & Exhibition (DATE’& Exhibition (DATE’’13). IEEE, 1783--1788.
+Xilinx. 2012a. LogiCORE IP AXI Interconnect (v1.06.a).
+Xilinx. 2012b. Zynq-7000 All Programmable SoC Overview.
+Junhee Yoo, Sungjoo Yoo, and Kiyoung Choi. 2009. Topology/floorplan/pipeline co-design of cascaded crossbar bus. IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 17, 8, 1034--1047.

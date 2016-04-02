@@ -1,0 +1,44 @@
+Advanced Risc Machines, Ltd. 1995. An introduction to THUMB. http://www.cse.unsw.edu.au/~pcb/LPC210x/Thumb_intro.pdf.
+Advanced Risc Machines, Ltd. 2003. Procedure call standard for the ARM architecture. http://infocenter.arm.com/help/topic/com.arm.doc.ihi0042c/IHI0042C_aapcs.pdf.
+Arnold, J. 1986. Shared libraries on UNIX System V. In Proceedings of the USENIX Summer Conference. USENIX, Berkeley, CA.
+Lan S. Bai , Lei Yang , Robert P. Dick, Automated compile-time and run-time techniques to increase usable memory in MMU-less embedded systems, Proceedings of the 2006 international conference on Compilers, architecture and synthesis for embedded systems, October 22-25, 2006, Seoul, Korea[doi>10.1145/1176760.1176777]
+Sorav Bansal , Dharmendra S. Modha, CAR: Clock with Adaptive Replacement, Proceedings of the 3rd USENIX Conference on File and Storage Technologies, March 31-31, 2004, San Francisco, CA
+David M. Beazley , Brian D. Ward , Ian R. Cooke, The inside story on shared libraries and dynamic loading, Computing in Science and Engineering, v.3 n.5, p.90-97, September/October 2001[doi>10.1109/5992.947112]
+L. Benini , D. Bruni , A. Macii , E. Macii, Hardware-Assisted Data Compression for Energy Minimization in Systems with Embedded Processors, Proceedings of the conference on Design, automation and test in Europe, p.449, March 04-08, 2002
+John A. Bingham, ADSL, VDSL, and Multicarrier Modulation: Wiley Series in Telecommunications and Signal Processing, John Wiley & Sons, Inc., New York, NY, 2000
+Cadenux. 2002. Cadenux XFLAG shared libraries. http://www.cadenux.com/xflat/.
+Jongmoo Choi , Sam H. Noh , Sang Lyul Min , Eun-Yong Ha , Yookun Cho, Design, Implementation, and Performance Evaluation of a Detection-Based Adaptive Block Replacement Scheme, IEEE Transactions on Computers, v.51 n.7, p.793-800, July 2002[doi>10.1109/TC.2002.1017699]
+Choudhuri, S. and Givargis, T. 2005. Software virtual memory management for MMU-less embedded systems. Tech. rep. 05-16. University of California, Irvine.
+Toni Cortes , Yolanda Becerra , Raúl Cervera, Swap compression: resurrecting old ideas, Software—Practice & Experience, v.30 n.5, p.567-587, April 25, 2000[doi>10.1002/(SICI)1097-024X(20000425)30:5<567::AID-SPE312>3.3.CO;2-Q]
+Gingell, R., Lee, M., Dang, X., and Weeks, M. 1987. Shared libraries in SunOS. In Proceedings of the USENIX Conference. USENIX, Berkeley, CA.
+J. R. Goodman , W.-C. Hsu, Code scheduling and register allocation in large basic blocks, Proceedings of the 2nd international conference on Supercomputing, p.442-452, June 1988, St. Malo, France[doi>10.1145/55364.55407]
+Song Jiang , Feng Chen , Xiaodong Zhang, CLOCK-Pro: an effective improvement of the CLOCK replacement, Proceedings of the annual conference on USENIX Annual Technical Conference, p.35-35, April 10-15, 2005, Anaheim, CA
+Donghee Lee , Jongmoo Choi , Jong-Hun Kim , Sam H. Noh , Sang Lyul Min , Yookun Cho , Chong Sang Kim, On the existence of a spectrum of policies that subsumes the least recently used (LRU) and least frequently used (LFU) policies, Proceedings of the 1999 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.134-143, May 01-04, 1999, Atlanta, Georgia, USA[doi>10.1145/301453.301487]
+Jaesoo Lee , Jiyong Park , Seongsoo Hong, Memory Footprint Reduction with Quasi-Static Shared Libraries in MMU-less Embedded Systems, Proceedings of the 12th IEEE Real-Time and Embedded Technology and Applications Symposium, p.24-36, April 04-07, 2006[doi>10.1109/RTAS.2006.26]
+Haris Lekatsas , Jörg Henkel , Wayne Wolf, Code compression for low power embedded system design, Proceedings of the 37th Annual Design Automation Conference, p.294-299, June 05-09, 2000, Los Angeles, California, USA[doi>10.1145/337292.337423]
+John R. Levine, Linkers and Loaders, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1999
+Mahlke, S., Chen, W., Chang, P., and Hwu, W. 1992. Scalar program performance on multiple-instruction-issue processors with a limited number of registers. In Proceedings of the 25th Annual Hawaii International Conference on System Sciences (HICSS'25). IEEE, Los Alamitos, CA, 1--2.
+David McCullough, uCLinux for Linux programmers, Linux Journal, v.2004 n.123, p.7, July 2004
+Nimrod Megiddo , Dharmendra S. Modha, ARC: A Self-Tuning, Low Overhead Replacement Cache, Proceedings of the 2nd USENIX Conference on File and Storage Technologies, March 31-31, 2003, San Francisco, CA
+Microsoft. 2006. Visual studio, microsoft portable executable and common object file format specification, Revision 8.0. http://www.microsoft.com/whdc/system/platform/firmware/PECOFF.mspx.
+Daniel L. Murphy, Storage organization and management in TENEX, Proceedings of the December 5-7, 1972, fall joint computer conference, part I, December 05-07, 1972, Anaheim, California[doi>10.1145/1479992.1479996]
+Elliott I. Organick, The multics system: an examination of its structure, MIT Press, Cambridge, MA, 1972
+Chanik Park , Junghee Lim , Kiwon Kwon , Jaejin Lee , Sang Lyul Min, Compiler-assisted demand paging for embedded systems with flash memory, Proceedings of the 4th ACM international conference on Embedded software, September 27-29, 2004, Pisa, Italy[doi>10.1145/1017753.1017775]
+Chanik Park , Jaeyu Seo , Sunghwan Bae , Hyojun Kim , Shinhan Kim , Bumsoo Kim, A low-cost memory architecture with NAND XIP for mobile embedded systems, Proceedings of the 1st IEEE/ACM/IFIP international conference on Hardware/software codesign and system synthesis, October 01-03, 2003, Newport Beach, CA, USA[doi>10.1145/944645.944684]
+Peacock, C. 2005. uClinux - BFLT binary flat format. http://www.beyondlogic.org/uClinux/bflt.htm.
+Pietrek, M. 2002. An in-depth look into the Win32 portable executable file format. MSDN Mag. 17, 2, 80--90.
+Luigi Rizzo, A very fast algorithm for RAM compression, ACM SIGOPS Operating Systems Review, v.31 n.2, p.36-45, April 1997[doi>10.1145/250007.250012]
+Sumit Roy , Raj Kumar , Milos Prvulovic, Improving System Performance with Compressed Memory, Proceedings of the 15th International Parallel & Distributed Processing Symposium, p.66, April 23-27, 2001
+Sabatella, M. 1990. Issues in shared library design. In Proceedings of the USENIX Summer Conference. USENIX, Berkeley, CA.
+Michael L. Scott, Programming Language Pragmatics, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2005
+Yannis Smaragdakis , Scott Kaplan , Paul Wilson, EELRU: simple and effective adaptive page replacement, Proceedings of the 1999 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.122-133, May 01-04, 1999, Atlanta, Georgia, USA[doi>10.1145/301453.301486]
+Stallman, R. M. 1999. Using and Porting the GNU Compiler Collection. Free Software Foundation.
+Thomas, R. and Reddy, B. 2006. Dynamic linking in Linux and Windows. http://www.securityfocus.com/infocus/1872.
+Tool Interface Standards Committee. 1995. Executable and linking format (ELF) specification version 1.2. Tool Interface Standards Committee.
+R. B. Tremaine , P. A. Franaszek , J. T. Robinson , C. O. Schulz , T. B. Smith , M. E. Wazlowski , P. M. Bland, IBM memory expansion technology (MXT), IBM Journal of Research and Development, v.45 n.2, p.271-285, March 2001[doi>10.1147/rd.452.0271]
+uClinux. uClinux Embedded Linux/Microcontroller Project. http://www.uClinux.org/.
+Verneer, D. 1991. eXecute-in-place. Memory Card Mag.
+Nicholas Wells, BusyBox: A Swiss Army Knife for Linux, Linux Journal, v.2000 n.78es, October 2000
+X. H. Xu , C. T. Clarke , S. R. Jones, High performance code compression architecture for the embedded ARM/THUMB processor, Proceedings of the 1st conference on Computing frontiers, April 14-16, 2004, Ischia, Italy[doi>10.1145/977091.977154]
+Yang, L., Dick, R., Lekatsas, H., and Chakradhar, S. 2006. Online memory compression for embedded systems. ACM Trans. Embed. Comput. Syst. 5, 4, 719--752.
+Zucker, S. and Karhi, K. 1995. System V application binary interface: PowerPC processor supplement. SunSoft, Santa Carla, CA.

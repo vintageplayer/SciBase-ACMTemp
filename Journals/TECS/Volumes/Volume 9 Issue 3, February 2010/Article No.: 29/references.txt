@@ -1,0 +1,41 @@
+Albu, F., Fagan, A., Kadlec, J., and Coleman, N. 2002a. The Gauss-Seidel fast affine projection algorithm. In Proceedings of the Workshop on Signal Processing Systems (SIPS'02). IEEE, 109--114.
+Albu, F., Kadlec, J., Coleman, N., and Fagan, A. 2002b. Pipelined implementations of the a priori error-feedback LSL algorithm using logarithmic arithmetic. In Proceedings of the International Conference on Acoustics, Speech, and Signal Processing (ICASSP'02). IEEE, III--2681--III--2684.
+Albu, F., Kadlec, J., Softley, C., Matousek, R., Hermanek, A., Fagan, A., and Coleman, N. 2001. Implementation of (normalized) RLS lattice on Virtex. In Field-Programmable Logic and Applications. G. J. Brebner and R. Woods, Eds. Lecture Notes in Computer Science. vol. 2147, Springer-Verlag, Berlin.
+Deepak Boppana , Kully Dhanoa , Jesse Kempa, FPGA based Embedded Processing Architecture for the QRD-RLS Algorithm, Proceedings of the 12th Annual IEEE Symposium on Field-Programmable Custom Computing Machines, p.330-331, April 20-23, 2004
+Chew, W. C. and Farhang-Boroujeny, B. 1999. FPGA implementation of acoustic echo cancelling. In Proceedings of the Region 10 Conference TENCON99. Vol. 1. IEEE, 263--266.
+Cioffi, J. and Kailath, T. 1983. Fast, fixed-order, least-squares algorithms for adaptive filtering. In Proceedings of the International Conference on Acoustics, Speech, and Signal Processing (ICASSP'83). Vol. 8. IEEE, 679--682.
+Coleman, J. N. 1995. Simplification of table structure in logarithmic arithmetic. Electro. Lett. 31, 22, 1905--1906.
+J. N. Coleman , E. I. Chester, A 32-Bit Logarithmic Arithmetic Unit and its Performance Compared to Floating-Point, Proceedings of the 14th IEEE Symposium on Computer Arithmetic, p.142, April 14-16, 1999
+J. N. Coleman , E. I. Chester , C. I. Softley , J. Kadlec, Arithmetic on the European Logarithmic Microprocessor, IEEE Transactions on Computers, v.49 n.7, p.702-715, July 2000[doi>10.1109/12.863040]
+John N. Coleman , Christopher I. Softley , Jiri Kadlec , Rudolf Matousek , Milan Tichy , Z. Pohl , Antonin Hermanek , Nico F. Benschop, The European Logarithmic Microprocesor, IEEE Transactions on Computers, v.57 n.4, p.532-546, April 2008[doi>10.1109/TC.2007.70791]
+Heping Ding, A stable fast affine projection adaptation algorithm suitable for low-cost processors, Proceedings of the Acoustics, Speech, and Signal Processing, 2000. on IEEE International Conference, p.360-363, June 05-09, 2000[doi>10.1109/ICASSP.2000.861975]
+Gay, S. L. 1993. A fast converging, low complexity adaptive filtering algorithm. In Proceedings of the Workshop on Applications of Signal Processing to Audio and Acoustics. IEEE, 4--7.
+Gay, S. L. and Tavathia, S. 1995. The fast affine projection algorithm. In Proceedings of the International Conference on Acoustics, Speech, and Signal Processing (ICASSP'95). Vol. 5. IEEE, 3023--3026.
+Hageman, L. A. and Young, D. M. 1981. Applied Iterative Methods. Academic Press, New York.
+Michael Haselman , Michael Beauchamp , Aaron Wood , Scott Hauck , Keith Underwood , K. Scott Hemmert, A Comparison of Floating Point and Logarithmic Number Systems for FPGAs, Proceedings of the 13th Annual IEEE Symposium on Field-Programmable Custom Computing Machines, p.181-190, April 18-20, 2005[doi>10.1109/FCCM.2005.6]
+Haykin, S. 2002. Adaptive Filter Theory 4th Ed. Prentice Hall, Upper Saddle River, NJ.
+Institute of Electrical and Electronics Engineers, Inc. 1985. An American National Standard: IEEE Standard for Binary Floating-Point Arithmetic. Institute of Electrical and Electronics Engineers, Inc., New York. ANSI/IEEE Std 754-1985.
+Jang, S. A., Lee, Y. J., and Moon, D. T. 2002. Design and implementation of an acoustic echo canceller. In Proceedings of the Asia-Pacific Conference on ASIC. IEEE, 299--302.
+Kadlec, J., Matousek, R., Hermanek, A., Licko, M., and Tichy, M. 2002. Lattice for FPGAs using logarithmic arithmetic. Electro. Engin. Des. 74, 906, 53--56.
+Nicholas Kalouptsidis , Sergios Theodoridis, Adaptive system identification and signal processing algorithms, Prentice-Hall, Inc., Upper Saddle River, NJ, 1993
+Kaneda, Y., Tanaka, M., and Kojima, J. 1995. An adaptive algorithm with fast convergence for multi-point sound control. In Proceedings of the Active'95. 993--1004.
+Kikkert, C. 1974. Digital companding techniques. IEEE Trans. Comm. 22, 1, 75--78.
+Israel Koren, Computer Arithmetic Algorithms, A. K. Peters, Ltd., Natick, MA, 2001
+Liu, J., Weaver, B., and White, G. 2006. FPGA implementation of the DCD algorithm. In Proceedings of the London Communications Symposium. University College London, London, UK.
+Liu, Q. G., Champagne, B., and Ho, K. C. 1996. On the use of a modified fast affine projection algorithm in subbands for acoustic echo cancelation. In Proceedings of the 7th Digital Signal Processing Workshop. IEEE, 354--357.
+Luenberger, D. G. 1984. Linear and Nonlinear Programming, 2nd ed. Addison-Wesley, Reading, MA.
+Rudolf Matousek , Milan Tichý , Zdenek Pohl , Jiri Kadlec , Chris Softley , Nick Coleman, Logarithmic Number System and Floating-Point Arithmetics on FPGA, Proceedings of the Reconfigurable Computing Is Going Mainstream, 12th International Conference on Field-Programmable Logic and Applications, p.627-636, September 02-04, 2002
+Ozeki, K. and Umeda, T. 1984. An adaptive filtering algorithm using an orthogonal projection to an affine subspace and its properties. Electron. Comm. Japan 67-A, 5, 126--132.
+Zdenek Pohl , Rudolf Matoušek , Jirí Kadlec , Milan Tichý , Miroslav Lícko, Lattice adaptive filter implementation for FPGA, Proceedings of the 2003 ACM/SIGDA eleventh international symposium on Field programmable gate arrays, February 23-25, 2003, Monterey, California, USA[doi>10.1145/611817.611877]
+Slock, D. T. M. and Kailath, T. 1991. Numerically stable fast transversal filters for recursive least squares adaptive filtering. IEEE Trans. Sign. Proces. 39, 1, 92--114.
+Scheduling of Iterative Algorithms on FPGA with Pipelined Arithmetic Unit, Proceedings of the 10th IEEE Real-Time and Embedded Technology and Applications Symposium, p.404, May 25-28, 2004
+E. E. Swartzlander , A. G. Alexopoulos, The Sign/Logarithm Number System, IEEE Transactions on Computers, v.24 n.12, p.1238-1242, December 1975[doi>10.1109/T-C.1975.224172]
+Tichy, M. 2006. Fast adaptive filtering algorithms and their implementation using reconfigurable hardware and log arithmetic. Ph.D. thesis, Faculty of Electrical Engineering, Czech Technical University in Prague, Czech Republic.
+Tsividis, Y. P., Gopinathan, V., and Toth, L. 1990. Companding in signal processing. Electron. Lett. 26, 1331--1332.
+Keith Underwood, FPGAs vs. CPUs: trends in peak floating-point performance, Proceedings of the 2004 ACM/SIGDA 12th international symposium on Field programmable gate arrays, February 22-24, 2004, Monterey, California, USA[doi>10.1145/968280.968305]
+Whitehouse, H. J. 2006. Implicit sampling analog-to-digital converter. In Proceedings of the 4th Digital Signal Processing Workshop. IEEE, 19--22.
+Bernard Widrow , Samuel D. Stearns, Adaptive signal processing, Prentice-Hall, Inc., Upper Saddle River, NJ, 1985
+Xilinx, Inc. 2005. Virtex-II Platform FPGAs: Complete Data Sheet, v3.4 Ed. Xilinx, Inc. Product Specification.
+Yu, L. K. and Lewis, D. M. 1991. A 30-b integrated logarithmic number system processor. IEEE J. Solid-State Circu. 26, 10, 1433--1440.
+Zakharov, Y. and Albu, F. 2005. Coordinate descent iterations in fast affine projection algorithm. IEEE Sign. Process. Lett. 12, 5, 353--356.
+Zakharov, Y. V., Weaver, B., and Tozer, T. C. 2004. Novel signal processing technique for real-time solution of the least squares problem. In Proceedings of the 2nd International Workshop on Signal Processing for Wireless Communications. 155--159.

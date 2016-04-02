@@ -1,0 +1,29 @@
+Advanced RISC Machines Ltd. 1995. ARM7TDMI Data Sheet. Advanced RISC Machines Ltd.
+Alfred V. Aho , Ravi Sethi , Jeffrey D. Ullman, Compilers: principles, techniques, and tools, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+ARC Cores (http://www.arc.com). The ARCtangent-A5 Processor.
+ARM Limited. ARM Developer Suite Developer Guide.
+ARM Linux Project. http://www.arm.linux.org.uk.
+Thomas Ball , James R. Larus, Efficient path profiling, Proceedings of the 29th annual ACM/IEEE international symposium on Microarchitecture, p.46-57, December 02-04, 1996, Paris, France
+Manuel E. Benitez , Jack W. Davidson, Target-specific Global Code Improvement: Principles and Applications, University of Virginia, Charlottesville, VA, 1994
+Jack W. Davidson , Christopher W. Fraser, Code selection through object code optimization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.6 n.4, p.505-526, Oct. 1984[doi>10.1145/1780.1783]
+Davidson, J. W. and Whalley, D. B. 1991. A design environment for addressing architecture and compiler interactions. Microprocessors and Microsystems 15, 9 (Nov.), 459--472.
+Steve B. Furber, ARM System Architecture, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1996
+Liam Goudge , Simon Segars, Thumb: Reducing the Cost of 32-bit RISC Performance in Portable and Consumer Applications, Proceedings of the 41st IEEE International Computer Conference, p.176, February 25-28, 1996
+M. R. Guthaus , J. S. Ringenberg , D. Ernst , T. M. Austin , T. Mudge , R. B. Brown, MiBench: A free, commercially representative embedded benchmark suite, Proceedings of the Workload Characterization, 2001. WWC-4. 2001 IEEE International Workshop, p.3-14, December 02-02, 2001[doi>10.1109/WWC.2001.15]
+A. Halambi , A. Shrivastava , P. Biswas , N. Dutt , A. Nicolau, An Efficient Compiler Technique for Code Size Reduction Using Reduced Bit-Width ISAs, Proceedings of the conference on Design, automation and test in Europe, p.402, March 04-08, 2002
+Kirner, R. 2003. Extending optimising compilation to support worst-case execution time analysis. Ph.D. thesis, Vienna University of Technology.
+Kissel, K. 1997. MIPS16: High-density MIPS for the embedded market. Tech. rep., Silicon Graphics MIPS Group.
+Arvind Krishnaswamy , Rajiv Gupta, Profile guided selection of ARM and thumb instructions, Proceedings of the joint conference on Languages, compilers and tools for embedded systems: software and compilers for embedded systems, June 19-21, 2002, Berlin, Germany[doi>10.1145/513829.513840]
+Arvind Krishnaswamy , Rajiv Gupta, Enhancing the performance of 16-bit code using augmenting instructions, Proceedings of the 2003 ACM SIGPLAN conference on Language, compiler, and tool for embedded systems, June 11-13, 2003, San Diego, California, USA[doi>10.1145/780732.780767]
+Arvind Krishnaswamy , Rajiv Gupta, Mixed-width instruction sets, Communications of the ACM, v.46 n.8, August 2003[doi>10.1145/859670.859697]
+Chunho Lee , Miodrag Potkonjak , William H. Mangione-Smith, MediaBench: a tool for evaluating and synthesizing multimedia and communicatons systems, Proceedings of the 30th annual ACM/IEEE international symposium on Microarchitecture, p.330-335, December 01-03, 1997, Research Triangle Park, North Carolina, USA
+Lee, S., Lee, J., Min, S. L., Hiser, J., and Davidson, J. W. 2003. Code generation for a dual instruction set processor based on selective code transformation. In Proceedings of the 7th International Workshop on Software and Compilers for Embedded Systems (SCOPES). Vienna. 33--48.
+Lee, S., Lee, J., Park, C. Y., and Min, S. L. 2004. A flexible tradeoff between code size and WCET using a dual instruction set processor. In Proceedings of the 8th International Workshop on Software and Compilers for Embedded Systems (SCOPES). Amsterdam. 244--258.
+Sung-Soo Lim , Young Hyun Bae , Gyu Tae Jang , Byung-Do Rhee , Sang Lyul Min , Chang Yun Park , Heonshik Shin , Kunsoo Park , Soo-Mook Moon , Chong Sang Kim, An Accurate Worst Case Timing Analysis for RISC Processors, IEEE Transactions on Software Engineering, v.21 n.7, p.593-604, July 1995[doi>10.1109/32.392980]
+Sung-Soo Lim , Jihong Kim , Sang Lyul Min, A Worst Case Timing Analysis Technique for Optimized Programs, Proceedings of the 5th International Conference on Real-Time Computing Systems and Applications, p.151, October 27-29, 1998
+Park, C. Y. and Shaw, A. C. 1990. Experiments with a program timing tool based on source-level timing schema. In Proceedings of the 11th Real-Time Systems Symposium (RTSS). 72--81.
+Insik Shin , Insup Lee , Sang Lyul Min, Embedded System Design Framework for Minimizing Code Size and Guaranteeing Real-Time Requirements, Proceedings of the 23rd IEEE Real-Time Systems Symposium, p.201, December 03-05, 2002
+Aviral Shrivastava , Nikil Dutt, Energy efficient code generation exploiting reduced bit-width instruction set architectures (rISA), Proceedings of the 2004 Asia and South Pacific Design Automation Conference, January 27-30, 2004, Yokohama, Japan
+SNU Real-Time Benchmark Suite. http://archi.snu.ac.kr/realtime/benchmark.
+Tamches, A. and Miller, B. P. 2001. Dynamic kernel code optimization. In Proceedings of the 3rd Workshop on Binary Translation. Barcelona.
+Tuning the WCET of Embedded Applications, Proceedings of the 10th IEEE Real-Time and Embedded Technology and Applications Symposium, p.472, May 25-28, 2004

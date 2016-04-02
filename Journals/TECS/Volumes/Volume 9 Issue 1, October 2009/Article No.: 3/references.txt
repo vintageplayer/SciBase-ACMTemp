@@ -1,0 +1,31 @@
+Accel-dsp. AccelWare DSP IP Toolkits. http://www.xilinx.com/ise/dspdesignprod/acceldsp/accelware/.
+Altera-cordic. ALTERA CORDIC reference design. http://www.altera.com/literature/an/an263.pdf.
+Deepak Boppana , Kully Dhanoa , Jesse Kempa, FPGA based Embedded Processing Architecture for the QRD-RLS Algorithm, Proceedings of the 12th Annual IEEE Symposium on Field-Programmable Custom Computing Machines, p.330-331, April 20-23, 2004
+Dohler, R. 1991. Squared Givens rotations. IMA J. Numer. Anal. 1--5.
+Milos D. Ercegovac , Tomás Lang , Jean-Michel Muller , Arnaud Tisserand, Reciprocation, Square Root, Inverse Square Root, and Some Elementary Functions Using Small Multipliers, IEEE Transactions on Computers, v.49 n.7, p.628-637, July 2000[doi>10.1109/12.863031]
+Fitton, M. P., Perry, S., and Jackson, R. 2004. Reconfigurable antenna processing with matrix decomposition using FPGA-based application specific integrated processors. In Proceedings of the Software Defined Radio Technical Conference. ACM, New York.
+Francis, J. G. F. 1962. The QR transformation. Comput. J. 4, 4, 332--345.
+Gay, M. and Phillips, I. 2005. Real-time adaptive beam forming: FPGA implementation using QR decomposition. J. Electron. Defense.
+Gentleman, M. W. and T. Kung, T. H. 1981. Matrix triangularization by systolic arrays. In Proceedings of Real-Time Signal Processing IV, SPIE 298. ACM, New York, 19--26.
+Givens, W. 1958. Computation of plane unitary rotations transforming a general matrix to triangular form. In J. Soc. Indust. Appl. Math. 6, 26--50.
+Golub, G. H. and Van Loan, C. F. 1996. Matrix Computations. Johns Hopkins University Press, Baltimore, MD.
+Hermanek, J. A. and Schier, P. R. 2004. Architecture design for FPGA implementation of finite interval CMA. In Proceedings of the 12th European Signal Processing Conference. ACM, New York, 1--4.
+Alston S. Householder, Unitary Triangularization of a Nonsymmetric Matrix, Journal of the ACM (JACM), v.5 n.4, p.339-342, Oct. 1958[doi>10.1145/320941.320947]
+Yuan Hong , Xiaoyun He , Jaideep Vaidya , Nabil Adam , Vijayalakshmi Atluri, Effective anonymization of query logs, Proceedings of the 18th ACM conference on Information and knowledge management, November 02-06, 2009, Hong Kong, China[doi>10.1145/1645953.1646146]
+Karkooti, M., Cavallaro, J.R., and Dick, C. 2005. FPGA implementation of matrix inversion using QRD-RLS algorithm. In Proceedings of the 39rd Asilomar Conference on Signals, Systems and Computers. IEEE, Los Alamitos, CA, 1625--1629.
+B. Louka, Givens elimination on systolic arrays, Proceedings of the 2nd international conference on Supercomputing, p.638-647, June 1988, St. Malo, France[doi>10.1145/55364.55427]
+Rudolf Matousek , Milan Tichý , Zdenek Pohl , Jiri Kadlec , Chris Softley , Nick Coleman, Logarithmic Number System and Floating-Point Arithmetics on FPGA, Proceedings of the Reconfigurable Computing Is Going Mainstream, 12th International Conference on Field-Programmable Logic and Applications, p.627-636, September 02-04, 2002
+Moon, T. K. and Stirling, W. C. 2000. Mathematical Methods and Algorithms for Signal Processing. Prentice Hall International, Upper Saddle River, NJ, 285--300.
+Northeastern University Floating-Point Library. Northeastern University variable precision floating-point modules. http://www.ece.neu.edu/groups/rcl/projects/floatingpoint/.
+Quixilica-qr. Quixilica Floating-Point QR Processor Core. http://www.eonic.co.kr/data/datasheet/transtech/FPGA/qx qr.pdf.
+Rice, J. R. 1966. Experiments on Gram-Schmidt orthogonalization. Math. Comput. 20, 94, 325--328.
+Schier, J. and Hermanek, A. 2004. Using logarithmic arithmetic to implement the recursive least squares algorithm in FPGA. In Proceedings of the 14th International Conference on Field-Programmable Logic and Applications (FPL'04). Springer, Berlin, 1149--1151.
+Schier, J. and Kadlec, J. 2003. Using logarithmic arithmetic for FPGA implementation of givens rotations. In Proceedings of the 6th Baiona Workshop on Signal Processing in Communications. ACM, New York, 199--204.
+Anatoli Sergyienko , Oleg Maslennikov, Implementation of Givens QR-Decomposition in FPGA, Proceedings of the th International Conference on Parallel Processing and Applied Mathematics-Revised Papers, p.458-465, September 09-12, 2001
+Přemysl Šůcha , Zdeník Hanzálek , Antonín Heřmánek , Jan Schier, Scheduling of Iterative Algorithms with Matrix Operations for Efficient FPGA Design--Implementation of Finite Interval Constant Modulus Algorithm, Journal of VLSI Signal Processing Systems, v.46 n.1, p.35-53, January   2007[doi>10.1007/s11265-006-0004-y]
+Volder, J. 1959. The CORDIC trigonometric computing technique. IRE Trans. Electron. Comput. EC-8, 3, 330--334.
+Walke, R. L., M. Smith, R. W., and Lightbody, G. 1999. Architectures for adaptive weight calculation on ASIC and FPGA. In Proceedings of the 33rd Asilomar Conference on Signals, Systems and Computers. Vol. 2. IEEE, Los Alamitos, CA, 1375--1380.
+Walke, R. L., M. Smith, R. W., and Lightbody, G. 2000. 20 GFLOPS QR processor on a Xilinx Virtex-E FPGA. In Proceedings of the Advanced Signal Processing Algorithms, Architectures, and Implementations X, SPIE. Vol. 4116. 300--310.
+Xiaojun Wang , Sherman Braganza , Miriam Leeser, Advanced Components in the Variable Precision Floating-Point Library, Proceedings of the 14th Annual IEEE Symposium on Field-Programmable Custom Computing Machines, p.249-258, April 24-26, 2006[doi>10.1109/FCCM.2006.21]
+Xilinx. XILINX LogiCORE floating-point operator v3.0. http://www.xilinx.com/bvdocs/ipcenter/data sheet/floatingpointds335.pdf.
+Xilinx-cordic. XILINX LogiCORE CORDIC v3.0. http://www.xilinx.com/bvdocs/ipcenter/datasheet/cordic.pdf.

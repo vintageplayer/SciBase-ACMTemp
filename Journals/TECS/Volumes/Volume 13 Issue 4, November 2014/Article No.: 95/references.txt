@@ -1,0 +1,28 @@
+Cheng-Chun Chang, Yang-Lang Chang, Min-Yu Huang, and Bormin Huang. 2011. Accelerating Regular LDPC code decoders on GPUS. IEEE J. Select. Topics Appl. Earth Observ. Remote Sens. 4, 3, 653--659.
+J. Chen and M. Fossorier. 2002. Density evolution of two improved BP-based algorithms for LDPC decoding. IEEE Commun. Lett. 6, 5, 208--210.
+G. Falcao, J. Andrade, V. Silva, and L. Sousa. 2011a. GPU-based DVB-S2 LDPC decoder with high throughput and fast error floor detection. Electron. Lett. 47, 9, 542--543.
+G. Falcao, J. Andrade, V. Silva, S. Yamagiwa, and L. Sousa. 2013. Stressing the BER simulation of LDPC codes in the error floor region using GPU clusters. In Proceedings of the International Symposium Wireless Communication System (ISWCS).
+Gabriel Falcao , Leonel Sousa , Vitor Silva, Massively LDPC Decoding on Multicore Architectures, IEEE Transactions on Parallel and Distributed Systems, v.22 n.2, p.309-322, February 2011[doi>10.1109/TPDS.2010.66]
+Gabriel Falcão , Shinichi Yamagiwa , Vitor Silva , Leonel Sousa, Parallel LDPC decoding on GPUs using a stream-based computing approach, Journal of Computer Science and Technology, v.24 n.5, p.913-924, September 2009[doi>10.1007/s11390-009-9266-8]
+M. P. C. Fossorier, M. Mihaljevic, and H. Imai. 1999. Reduced complexity iterative decoding of low-density parity check codes based on belief propagation. IEEE Trans. Commun. 47, 5, 673--680.
+R. G. Gallager. 1962. Low density parity check codes. IRE Trans. Inf. Theory 8, 1, 21--28.
+F. Guilloud, E. Boutillon, and J. L. Danger. 2003. λ-min decoding algorithm of regular and irregular LDPC codes. In Proceedings of the 3rd International Symposium on Turbo Codes and Related Topics. 451--454.
+F. Guilloud, E. Boutillon, J. Tousch, and J. L. Danger. 2007. Generic description and synthesis of LDPC Decoders. IEEE Trans. Commun. 55, 11, 2084--2091.
+D. E. Hocevar. 2004. A reduced complexity decoder architecture via layered decoding of LDPC codes. In Proceedings of the IEEE Workshop on Signal Processing Systems (SIPS'04). 107--112.
+Hyunwoo Ji , Junho Cho , Wonyong Sung, Memory Access Optimized Implementation of Cyclic and Quasi-Cyclic LDPC Codes on a GPGPU, Journal of Signal Processing Systems, v.64 n.1, p.149-159, July      2011[doi>10.1007/s11265-010-0547-9]
+Christopher Jones , Esteban Vallés , Michael Smith , John Villasenor, Approximate-min* constraint node updating for LDPC code decoding, Proceedings of the 2003 IEEE conference on Military communications, October 13-16, 2003, Boston, MA
+Soonyoung Kang and Jaekyun Moon. 2012. Parallel LDPC decoder implementation on GPU based on unbalanced memory coalescing. In Proceedings of the IEEE International Conference on Communications (ICC'12). 3692--3697.
+F. R. Kschischang , B. J. Frey , H. -A. Loeliger, Factor graphs and the sum-product algorithm, IEEE Transactions on Information Theory, v.47 n.2, p.498-519, February 2001[doi>10.1109/18.910572]
+Cédric Marchand , Laura Conde-Canencia , Emmanuel Boutillon, Architecture and Finite Precision Optimization for Layered LDPC Decoders, Journal of Signal Processing Systems, v.65 n.2, p.185-197, November  2011[doi>10.1007/s11265-011-0604-z]
+F. J. Martínez-Zaldívar, A. M. Vidal-Maciá, A. Gonzalez, and V. Almenar. 2011. Tridimensional block multiword LDPC decoding on GPUs. J. Supercomput. 58, 3, 314--322.
+P. Murugappa, J. Bazin, A. Baghdadi, and M. Jezequel. 2012. FPGA prototyping and performance evaluation of multi-standard turbo/LDPC encoding and decoding. In Proceedings of the 23rd IEEE International Symposium on Rapid System Prototyping (RSP). 143--148.
+J. D. Owens, D. Luebke, N. Govindaraju, M. Harris, J. Kruger, A. E. Lefohn, and T. J. Purcell. 2007. A survey of general-purpose computation on graphics hardware. Comput. Graphics Forum 26, 1, 80--113.
+Merve Peyic , Hakan Baba , Erdem Guleyuboglu , Ilker Hamzaoglu , Mehmet Keskinoz, A low power multi-rate decoder hardware for IEEE 802.11n LDPC codes, Microprocessors & Microsystems, v.36 n.3, p.159-166, May, 2012[doi>10.1016/j.micpro.2011.12.006]
+Steve Rhoads. 2011. Plasma 32-bit softcore. Tech. rep. http://www.plasmacpu.no-ip.org.
+Kyung-Wook Shin and Hae-Ju Kim. 2012. A Multi-mode LDPC decoder for IEEE 802.16e mobile WiMAX. J. Semiconduct. Technol. Sci. 12, 1, 24--33.
+Guohui Wang, Michael Wu, Yang Sun, and Joseph R. Cavallaro. 2011a. GPU accelerated scalable parallel decoding of LDPC codes. In Proceedings of the IEEE Asilomar Conference on Signals, Systems, and Computers. 2053--2057.
+Guohui Wang , Michael Wu , Yang Sun , Joseph R. Cavallaro, A massively parallel implementation of QC-LDPC decoder on GPU, Proceedings of the 2011 IEEE 9th Symposium on Application Specific Processors, p.82-85, June 05-06, 2011[doi>10.1109/SASP.2011.5941084]
+G. Wang, M. Wu, B. Yin, and J. R. Cavallaro. 2013. High throughput low latency LDPC decoding on GPU for SDR systems. In Proceedings of the IEEE Global Conference on Signal and Information Processing (GlobalSIP).
+S. Wang, S. Cheng, and Q. Wu. 2008. A parallel decoding algorithm of LDPC codes using CUDA. In Proceedings of the 42nd Asilomar Conference on Signals Systems and Computers. 171--175.
+Chen Xiaoheng, Jingyu Kang, Shu Lin, and Venkatesh Akella. 2011. Memory system optimization for FPGA-based implementation of quasi-cyclic LDPC codes decoders. IEEE Trans. Circuits Syst. I: Regular Papers 58, 1, 98--111.
+Yan Ying, Kaidi You, Liyang Zhou, Heng Quan, and Xiaoyang Zeng. 2012. A pure software LDPC decoder on a multi-core processor platform with reduced inter-processor communication cost. In Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS). 2609--2612.

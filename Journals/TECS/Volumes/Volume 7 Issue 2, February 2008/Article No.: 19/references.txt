@@ -1,0 +1,61 @@
+Abeni, L. and Butazzo, G. 1999. QoS guarantee using probabilistic deadlines. In Proceedings of the 11th Euromicro Conference on Real-Time Systems. 242--249.
+C. Alippi , A. Galbusera , M. Stellini, An application-level synthesis methodology for multidimensional embedded processing systems, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.22 n.11, p.1457-1470, November 2006[doi>10.1109/TCAD.2003.818304]
+Audsley, N. C. 1991. Optimal priority assignment and feasibility of static priority tasks with arbitrary start times. Tech. Rep. YCS 164, Department of Computer Science, University of York. (Dec.).
+Audsley, N. C., Burns, A., Davis, R. I., Tindell, K. W., and Wellings, A. J. 1991. Hard real-time scheduling: The deadline monotonic approach. In Proceedings of the 8th IEEE Workshop on Real-Time Operating Systems and Software. 133--137.
+Audsley, N., Burns, A., Richardson, M., Tindell, K., and Wellings, A. 1993a. Applying new scheduling theory to static priority pre-emptive scheduling. Software Engineering Journal 8, 5, 284--292.
+Audsley, N. C., Burns, A., Richardson, M. F., and Wellings, A. J. 1993b. Incorporating unbounded algorithms into predictable real-time systems. Computer Systems Science and Engineering 8, 3, 80--89.
+Guillem Bernat , Antoine Colin , Stefan M. Petters, WCET Analysis of Probabilistic Hard Real-Time Systems, Proceedings of the 23rd IEEE Real-Time Systems Symposium, p.279, December 03-05, 2002
+Enrico Bini , Giorgio Buttazzo , Giuseppe Buttazzo, A Hyperbolic Bound for the Rate Monotonic Algorithm, Proceedings of the 13th Euromicro Conference on Real-Time Systems, p.59, June 13-15, 2001
+Jacek Blazewicz, Scheduling Dependent Tasks with Different Arrival Times to Meet Deadlines, Proceedings of the International Workshop organized by the Commision of the European Communities on Modelling and Performance Evaluation of Computer Systems, p.57-65, October 04-06, 1976
+Bosch. 1991. CAN Specification. Bosch, Robert Bosch GmbH, Postfach 50, D-7000 Stuttgart 1, Germany.
+Ian Broster , Alan Burns , Guillermo Rodríguez-Navas, Probabilistic Analysis of CAN with Faults, Proceedings of the 23rd IEEE Real-Time Systems Symposium, p.269, December 03-05, 2002
+A. Burns , S. Punnekkat , L. Strigini , D. R. Wright, Probabilistic Scheduling Guarantees for Fault-Tolerant Real-Time Systems, Proceedings of the conference on Dependable Computing for Critical Applications, p.361, January 06-08, 1999
+Burns, A., Bernat, G., and Broster, I. 2003. A probabilistic framework for schedulability analysis. In Proceedings of the Third International Embedded Software Conference, EMSOFT, R. Alur and I. Lee, Eds. Number LNCS 2855 in Lecture Notes in Computer Science. 1--15.
+Giorgio C. Buttazzo, Hard Real-Time Computing Systems: Predictable Scheduling Algorithms and Applications, Kluwer Academic Publishers, Norwell, MA, 1997
+Cardoso, R., Kreutz, M., Carro, L., and Susin, A. 2005. Design space exploration on heterogeneous network-on-chip. In Proceedings of the IEEE International Symposium on Circuits and Systems. Vol. 1. 428--431.
+José Luis Díaz , Daniel F. García , Kanghee Kim , Chang-Gun Lee , Lucia Lo Bello , José María López , Sang Lyul Min , Orazio Mirabella, Stochastic Analysis of Periodic Real-Time Systems, Proceedings of the 23rd IEEE Real-Time Systems Symposium, p.289, December 03-05, 2002
+Eles, P., Peng, Z., Kuchcinsky, K., and Doboli, A. 1997. System-level hardware/software partitioning based on simulated annealing and tabu search. Journal on Design Automation for Embedded Systems 2, 5--32.
+European telecommunications standards institute. http://www.etsi.org/.
+Mark K. Gardner , Jane W. Liu, Probabilistic analysis and scheduling of critical soft real-time systems, University of Illinois at Urbana-Champaign, Champaign, IL, 1999
+Mark K. Gardner , Jane W.-S. Liu, Analyzing Stochastic Fixed-Priority Real-Time Systems, Proceedings of the 5th International Conference on Tools and Algorithms for Construction and Analysis of Systems, p.44-58, March 22-28, 1999
+Garey, M. R. and Johnson, D. S. 1979. Computers and Intractability. Freeman, San Francisco, CA.
+Gautama, H. 1998. A probabilistic approach to the analysis of program execution time. Tech. Rep. 1-68340-44(1998)06, Faculty of Information Technology and Systems, Delft University of Technology.
+Hasyim Gautama , Arjan J. C. van Gemund, Static performance prediction of data-dependent programs, Proceedings of the 2nd international workshop on Software and performance, p.216-226, September 2000, Ottawa, Ontario, Canada[doi>10.1145/350391.350435]
+Glover, F. 1989. Tabu search---Part I. ORSA Journal on Computing 1, 3, 190--206.
+González Harbour, M., Klein, M. H., and Lehoczky, J. P. 1991. Fixed priority scheduling of periodic rasks with varying execution priority. In Proceedings of the IEEE Real Time Systems Symposium. 116--128.
+Hajji, O., Brisset, S., and Brochet, P. 2002. Comparing stochastic optimization methods used in electrical engineering. IEEE Transactions on Systems, Man and Cybernetics 7, 6--9, 6.
+Xiaobo Sharon Hu , Tao Zhou , Edwin H.-M. Sha, Estimating probabilistic timing performance for real-time embedded systems, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, v.9 n.6, p.833-844, 12/1/2001[doi>10.1109/92.974897]
+Shaoxiong Hua , Gang Qu , Shuvra S. Bhattacharyya, Exploring the Probabilistic Design Space of Multimedia Systems, Proceedings of the 14th IEEE International Workshop on Rapid System Prototyping (RSP'03), p.233, June 09-11, 2003
+Christopher J. Hughes , Praful Kaul , Sarita V. Adve , Rohit Jain , Chanik Park , Jayanth Srinivasan, Variability in the execution of multimedia applications and implications for architecture, Proceedings of the 28th annual international symposium on Computer architecture, p.254-265, June 30-July 04, 2001, Göteborg, Sweden[doi>10.1145/379240.379270]
+Asawaree Kalavade , Pratyush Moghé, A tool for performance estimation of networked embedded end-systems, Proceedings of the 35th annual Design Automation Conference, p.257-262, June 15-19, 1998, San Francisco, California, USA[doi>10.1145/277044.277116]
+Jong Kim , Kang G. Shin, Execution Time Analysis of Communicating Tasks in Distributed Systems, IEEE Transactions on Computers, v.45 n.5, p.572-579, May 1996[doi>10.1109/12.509908]
+Leonard Kleinrock, Communication nets; stochastic message flow and delay, Dover Publications, Incorporated, 1972
+Krishnamachari, B. and Wicker, S. 2000. Optimization of fixed network design in cellular systems using local search algorithms. In Proceedings of the 52nd Vehicular Technology Conference. Vol. 4. 1632--1638.
+J. P. Lehoczky, Real-Time Queueing Theory, Proceedings of the 17th IEEE Real-Time Systems Symposium, p.186, December 04-06, 1996
+J. P. Lehoczky, Real-time queueing network theory, Proceedings of the 18th IEEE Real-Time Systems Symposium, p.58, December 03-05, 1997
+Lehoczky, J., Sha, L., and Ding, Y. 1989. The rate monotonic scheduling algorithm: Exact characterization and average case behaviour. In Proceedings of the 11th Real-Time Systems Symposium. 166--171.
+Leung, J. Y. T. and Whitehead, J. 1982. On the complexity of fixed-priority scheduling of periodic, real-time tasks. Performance Evaluation 2, 4, 237--250.
+Y. A. Li , J. K. Antonio, Estimating the execution time distribution for a task graph in a heterogeneous computing system, Proceedings of the 6th Heterogeneous Computing Workshop (HCW '97), p.172, April 01-01, 1997
+C. L. Liu , James W. Layland, Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment, Journal of the ACM (JACM), v.20 n.1, p.46-61, Jan. 1973[doi>10.1145/321738.321743]
+Sorin Manolache , Petru Eles , Zebo Peng, Memory and Time-Efficient Schedulability Analysis of Task Sets with Stochastic Execution Time, Proceedings of the 13th Euromicro Conference on Real-Time Systems, p.19, June 13-15, 2001
+Sorin Manolache , Petru Eles , Zebo Peng, Schedulability analysis of multiprocessor real-time applications with stochastic task execution times, Proceedings of the 2002 IEEE/ACM international conference on Computer-aided design, p.699-706, November 10-14, 2002, San Jose, California[doi>10.1145/774572.774675]
+Optimization of Soft Real-Time Systems with Deadline Miss Ratio Constraints, Proceedings of the 10th IEEE Real-Time and Embedded Technology and Applications Symposium, p.562, May 25-28, 2004
+Sorin Manolache , Petru Eles , Zebo Peng, Schedulability analysis of applications with stochastic task execution times, ACM Transactions on Embedded Computing Systems (TECS), v.3 n.4, p.706-735, November 2004[doi>10.1145/1027794.1027797]
+Michel Mouly , Marie-Bernadette Pautet , Thomas Haug, The GSM System for Mobile Communications, Telecom Publishing, 1992
+Ng, J., Leung, K., Wong, W., Lee, V. C., and Hui, C. K. 2002. Quality of service for MPEG video in human perspective. In Proceedings of the 8th International Conference on Real-Time Computing Systems and Applications. 233--241.
+Nissanke, N., Leulseged, A., and Chillara, S. 2002. Probabilistic performance analysis in multiprocessor scheduling. Computing and Control Engineering Journal 13, 4 (Aug.), 171--179.
+J. C. Palencia , M. González Harbour, Schedulability Analysis for Tasks with Static and Dynamic Offsets, Proceedings of the IEEE Real-Time Systems Symposium, p.26, December 02-04, 1998
+S. Pierre , F. Houeto, Assigning cells to switches in cellular mobile networks using taboo search, IEEE Transactions on Systems, Man, and Cybernetics, Part B: Cybernetics, v.32 n.3, p.351-356, June 2002[doi>10.1109/TSMCB.2002.999810]
+Schmitz, M. 2003. Energy minimisation techniques for distributed embedded systems. Ph.D. thesis, Dept. of Computer and Electrical Enginieering, Univ. of Southampton, UK.
+Marco Spuri , John A. Stankovic, How to Integrate Precedence Constraints and Shared Resources in Real-Time Scheduling, IEEE Transactions on Computers, v.43 n.12, p.1407-1412, December 1994[doi>10.1109/12.338100]
+Sun, J. 1997. Fixed-priority end-to-end scheduling in distributed real-time systems. Ph.D. thesis, University of Illinois at Urbana-Champaign.
+Jun Sun , J. W. S. Liu, Bounding the end-to-end response time in multiprocessor real-time systems, Proceedings of the 3rd Workshop on Parallel and Distributed Real-Time Systems, p.91, April 25-25, 1995
+Jun Sun , Mark K. Gardner , Jane W. S. Liu, Bounding Completion Times of Jobs with Arbitrary Release Times, Variable Execution Times, and Resource Sharing, IEEE Transactions on Software Engineering, v.23 n.10, p.603-615, October 1997[doi>10.1109/32.637144]
+T.-S. Tia , Z. Deng , M. Shankar , M. Storch , J. Sun , L.-C. Wu , J. W.-S. Liu, Probabilistic performance guarantee for real-time tasks with varying computation times, Proceedings of the Real-Time Technology and Applications Symposium, p.164, May 15-17, 1995
+Ken Tindell , John Clark, Holistic schedulability analysis for distributed hard real-time systems, Microprocessing and Microprogramming, v.40 n.2-3, p.117-134, April 1994[doi>10.1016/0165-6074(94)90080-9]
+Traferro, S., Capparelli, F., Piazza, F., and Uncini, A. 1999. Efficient allocation of power of two terms in FIR digital filter design using tabu search. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 3, 411--414.
+van Gemund, A. J. 1996. Performance modelling of parallel systems. Ph.D. thesis, Delft University of Technology.
+Arjan J. C. van Gemund, Symbolic Performance Modeling of Parallel Systems, IEEE Transactions on Parallel and Distributed Systems, v.14 n.2, p.154-165, February 2003[doi>10.1109/TPDS.2003.1178879]
+Arjan J. C. van Gemund, Symbolic Performance Modeling of Parallel Systems, IEEE Transactions on Parallel and Distributed Systems, v.14 n.2, p.154-165, February 2003[doi>10.1109/TPDS.2003.1178879]
+Thomas Wild , Jürgen Foag , Nuria Pazos , Winthir Brunnbauer, Mapping and Scheduling for Architecture Exploration of Networking SoCs, Proceedings of the 16th International Conference on VLSI Design, p.376, January 04-08, 2003
+Tao Zhou , Xiaobo (Sharon) Hu , Edwin H.-M. Sha, A probabilistic performance metric for real-time system design, Proceedings of the seventh international workshop on Hardware/software codesign, p.90-94, March 1999, Rome, Italy[doi>10.1145/301177.301494]

@@ -1,0 +1,37 @@
+ARM AMBA Bus Specification. http://www.arm.com/armwww.ns4/html/AMBA?OpenDocument.
+Smita Bakshi , Daniel D. Gajski, A memory selection algorithm for high-performance pipelines, Proceedings of the conference on European design automation, p.124-129, September 18-22, 1995, Brighton, England
+Francky Catthoor , Eddy de Greef , Sven Suytack, Custom Memory Management Methodology: Exploration of Memory Organisation for Embedded Multimedia System Design, Kluwer Academic Publishers, Norwell, MA, 1998
+Hung-Ming Chen , Hai Zhou , F. Y. YOung , D. F. Wong , Hannah H. Yang , Naveed Sherwani, Integrated floorplanning and interconnect planning, Proceedings of the 1999 IEEE/ACM international conference on Computer-aided design, p.354-357, November 07-11, 1999, San Jose, California, USA
+Pai Chou , Ross B. Ortega , Gaetano Borriello, Interface co-synthesis techniques for embedded systems, Proceedings of the 1995 IEEE/ACM international conference on Computer-aided design, p.280-287, November 05-09, 1995, San Jose, California, USA
+Chung, K.-S., Gupta, R., and Liu, C. L. 1996. Interface co-synthesis techniques for embedded systems. In ICCAD.
+Tzi-cker Chiueh, Sunder: a programmable hardware prefetch architecture for numerical loops, Proceedings of the 1994 ACM/IEEE conference on Supercomputing, November 14-18, 1994, Washington, D.C.
+Robert F. Cmelik , David Keppel, Shade: A Fast Instruction Set Simulator for Execution Profiling, Sun Microsystems, Inc., Mountain View, CA, 1993
+Jean-Marc Daveau , Tarek Ben Ismail , Ahmed Amine Jerraya, Synthesis of system-level communication by an allocation-based approach, Proceedings of the 8th international symposium on System synthesis, p.150-155, September 13-15, 1995, Cannes, France[doi>10.1145/224486.224534]
+Yangdong Deng , Wojciech P. Maly, Interconnect characteristics of 2.5-D system integration scheme, Proceedings of the 2001 international symposium on Physical design, p.171-175, April 01-04, 2001, Sonoma, California, USA[doi>10.1145/369691.369763]
+Gaisler Research. www.gaisler.com/leon.html.
+Tony Givargis , Frank Vahid, Interface exploration for reduced power in core-based systems, Proceedings of the 11th international symposium on System synthesis, p.117-122, December 02-04, 1998, Hsinchu, Taiwan, China
+Peter Grun , Nikil Dutt , Alex Nicolau, Memory aware compilation through accurate timing extraction, Proceedings of the 37th Annual Design Automation Conference, p.316-321, June 05-09, 2000, Los Angeles, California, USA[doi>10.1145/337292.337428]
+P. Grun , N. Dutt , A. Nicolau, Access pattern based local memory customization for low power embedded systems, Proceedings of the conference on Design, automation and test in Europe, p.778-784, March 2001, Munich, Germany
+Peter Grun , Nikil Dutt , Alex Nicolau, APEX: access pattern based memory architecture exploration, Proceedings of the 14th international symposium on Systems synthesis, September 30-October 03, 2001, Montréal, P.Q., Canada[doi>10.1145/500001.500007]
+Grun, P., Dutt, N., and Nicolau, A. 2001. Exploring memory architecture through access pattern analysis and clustering. Technical report, &num;2001-14 University of California, Irvine.
+David A. Patterson , John L. Hennessy, Computer architecture: a quantitative approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1990
+Patrick Hicks , Matthew Walnock , Robert Michael Owens, Analysis of power consumption in memory hierarchies, Proceedings of the 1997 international symposium on Low power electronics and design, p.239-242, August 18-20, 1997, Monterey, California, USA[doi>10.1145/263272.263342]
+Joseph Hummel , Alexandru Nicolau , Laurie J. Hendren, A Language for Conveying the Aliasing Properties of Dynamic, Pointer-Based Data Structures, Proceedings of the 8th International Symposium on Parallel Processing, p.208-216, April 01, 1994
+Norman P. Jouppi, Improving direct-mapped cache performance by the addition of a small fully-associative cache and prefetch buffers, Proceedings of the 17th annual international symposium on Computer Architecture, p.364-373, May 28-31, 1990, Seattle, Washington, USA[doi>10.1145/325164.325162]
+Kessler, R., Hill, M., and Wood, D. 1991. A comparison of trace-sampling techniques for multi-megabyte caches. Technical report, University of Wisconsin.
+Kulkarni, C. 2001. Cache optimization for Multimedia Applications. PhD thesis, IMEC.
+Kanishka Lahiri , Anand Raghunathan , Ganesh Lakshminarayana , Sujit Dey, Communication architecture tuners: a methodology for the design of high-performance communication architectures for systems-on-chips, Proceedings of the 37th Annual Design Automation Conference, p.513-518, June 05-09, 2000, Los Angeles, California, USA[doi>10.1145/337292.337561]
+Liu, D. and Svenson, C. 1994. Power consumption estimation in cmos vlsi chips. IEEE J. of Solid stage Circ. 29, 6.
+Seapahn Maguerdichian , Milenko Drinic , Darko Kirovski, Latency-driven design of multi-purpose systems-on-chip, Proceedings of the 38th annual Design Automation Conference, p.27-30, June 2001, Las Vegas, Nevada, USA[doi>10.1145/378239.378258]
+Prabhat Mishra , Peter Grun , Nikil Dutt , Alex Nicolau, Processor-Memory Co-Exploration driven by a Memory-Aware Architecture Description Language, Proceedings of the The 14th International Conference on VLSI Design (VLSID '01), p.70, January 03-07, 2001
+Sanjiv Narayan , Daniel D. Gajski, Protocol generation for communication channels, Proceedings of the 31st annual Design Automation Conference, p.547-551, June 06-10, 1994, San Diego, California, USA[doi>10.1145/196244.196530]
+S. Palacharla , R. E. Kessler, Evaluating stream buffers as a secondary cache replacement, Proceedings of the 21st annual international symposium on Computer architecture, p.24-33, April 18-21, 1994, Chicago, Illinois, USA[doi>10.1145/191995.192014]
+Preeti Ranjan Panda , Alexandru Nicolau , Nikil Dutt, Memory Issues in Embedded Systems-on-Chip: Optimizations and Exploration, Kluwer Academic Publishers, Norwell, MA, 1998
+Ian Parsons , Ron Unrau , Jonathan Schaeffer , Duane Szafron, PI/OT: parallel I/O templates, Parallel Computing, v.23 n.4-5, p.543-570, June 1, 1997[doi>10.1016/S0167-8191(97)00013-6]
+R. H. Patterson , G. A. Gibson , E. Ginting , D. Stodolsky , J. Zelenka, Informed prefetching and caching, Proceedings of the fifteenth ACM symposium on Operating systems principles, p.79-95, December 03-06, 1995, Copper Mountain, Colorado, USA[doi>10.1145/224056.224064]
+Przybylski, S. 1997. Sorting out the new DRAMs. In Hot Chips Tutorial, Stanford, CA.
+Reinman, G. and Jouppi, N. 1999. An integrated cache timing and power model. In Summer Internship Report, COMPAQ Western Research Lab, Palo-Alto.
+Synopsys Design Compiler. www.synopsys.com.
+Alexander V. Veidenbaum , Weiyu Tang , Rajesh Gupta , Alexandru Nicolau , Xiaomei Ji, Adapting cache line size to application behavior, Proceedings of the 13th international conference on Supercomputing, p.145-154, June 20-25, 1999, Rhodes, Greece[doi>10.1145/305138.305188]
+N. Vijaykrishnan , M. Kandemir , M. J. Irwin , H. S. Kim , W. Ye, Energy-driven integrated hardware-software optimizations using SimplePower, Proceedings of the 27th annual international symposium on Computer architecture, p.95-106, June 2000, Vancouver, British Columbia, Canada[doi>10.1145/339647.339659]
+Sven Wuytack , Francky Catthoor , Gjalt de Jong , Bill Lin , Hugo de Man, Flow Graph Balancing for Minimizing the Required Memory Bandwidth, Proceedings of the 9th international symposium on System synthesis, p.127, November 06-08, 1996
