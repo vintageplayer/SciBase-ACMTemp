@@ -1,0 +1,45 @@
+Martin Abadi , Luca Cardelli, A  Theory of Objects, Springer-Verlag New York, Inc., Secaucus, NJ, 1996
+David F Bacon, Fast and Effective Optimization of Statically Typed Object-Oriented, University of California at Berkeley, Berkeley, CA, 1998
+Peter T. Brennan, Observations on program-wide Ada exception propagation, Proceedings of the conference on TRI-Ada '93, p.189-195, September 18-23, 1993, Seattle, Washington, USA[doi>10.1145/170657.170734]
+Peter A. Buhr , W. Y.  Russell Mok, Advanced Exception Handling Mechanisms, IEEE Transactions on Software Engineering, v.26 n.9, p.820-836, September 2000[doi>10.1109/32.877844]
+David Callahan , Keith D. Cooper , Ken Kennedy , Linda Torczon, Interprocedural constant propagation, Proceedings of the 1986 SIGPLAN symposium on Compiler construction, p.152-161, June 25-27, 1986, Palo Alto, California, USA[doi>10.1145/12276.13327]
+Byeong-Mo Chang , Jang-Wu Jo , Soon Hee Her, Visualization of Exception Propagation for Java Using Static Analysis, Proceedings of the Second IEEE International Workshop on Source Code Analysis and Manipulation, p.173, October 01-01, 2002
+Byeong-Mo Chang , Jang-Wu Jo , Kwangkeun Yi , Kwang-Moo Choe, Interprocedural exception analysis for Java, Proceedings of the 2001 ACM symposium on Applied computing, p.620-625, March 2001, Las Vegas, Nevada, USA[doi>10.1145/372202.372786]
+Jong-Deok Choi , David Grove , Michael Hind , Vivek Sarkar, Efficient and precise modeling of exceptions for the analysis of Java programs, Proceedings of the 1999 ACM SIGPLAN-SIGSOFT workshop on Program analysis for software tools and engineering, p.21-31, September 06-06, 1999, Toulouse, France[doi>10.1145/316158.316171]
+Patrick Cousot , Radhia Cousot, Abstract interpretation: a unified lattice model for static analysis of programs by construction or approximation of fixpoints, Proceedings of the 4th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.238-252, January 17-19, 1977, Los Angeles, California[doi>10.1145/512950.512973]
+Jeffrey Dean , David Grove , Craig Chambers, Optimization of Object-Oriented Programs Using Static Class Hierarchy Analysis, Proceedings of the 9th European Conference on Object-Oriented Programming, p.77-101, August 07-11, 1995
+Christophe Dony, Exception handling and object-oriented programming: towards a synthesis, Proceedings of the European conference on object-oriented programming on Object-oriented programming systems, languages, and applications, p.322-330, September 1990, Ottawa, Canada[doi>10.1145/97945.97984]
+Manuel Fahndrich , Jeffrey Foster , Jason Cu , Alexander Aiken, Tracking down Exceptions in Standard ML Programs, University of California at Berkeley, Berkeley, CA, 1998
+Erich Gamma , Richard Helm , Ralph Johnson , John Vlissides, Design patterns: elements of reusable object-oriented software, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1995
+Michel Gauthier, Exception Handling in Ada-94: Initial Users' Requests and Final Features, ACM SIGAda Ada Letters, v.XV n.1, p.70-83, Jan./Feb. 1995[doi>10.1145/199682.569227]
+John B. Goodenough, Exception handling: issues and a proposed notation, Communications of the ACM, v.18 n.12, p.683-696, Dec. 1975[doi>10.1145/361227.361230]
+James Gosling , Bill Joy , Guy L. Steele, The  Java Language Specification, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1996
+Guzmán, J. C. and Suárez, A. 1994. A type system for exceptions. In Proceedings of the 1994 ACM SIGPLAN Workshop on ML and Its Applications (June). ACM, 127--135.
+Halbert, D. C. and O'Brien, P. D. 1987. Using types and inheritance in object-oriented programming. IEEE Softw. 4, 5 (Sep.), 71--79.
+Nevin Charles Heintze, Set based program analysis, Carnegie Mellon University, Pittsburgh, PA, 1992
+Jun Lang , David B. Stewart, A study of the applicability of existing exception-handling techniques to component-based real-time software technology, ACM Transactions on Programming Languages and Systems (TOPLAS), v.20 n.2, p.274-301, March 1998[doi>10.1145/276393.276395]
+Liskov, B. H. and Snyder, A. 1979. Exception handling in CLU. IEEE Trans. Softw. Eng. 5, 6 (Nov.), 546--558.
+Barbara H. Liskov , Jeannette M. Wing, A behavioral notion of subtyping, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.6, p.1811-1841, Nov. 1994[doi>10.1145/197320.197383]
+John D. Litke, A systematic approach for implementing fault tolerant software designs in Ada, Proceedings of the conference on TRI-ADA '90, p.403-408, December 03-06, 1990, Baltimore, Maryland, USA[doi>10.1145/255471.255565]
+Maddison, W. and Maddison, D. 2001. Mesquite: A modular system for evolutionary analysis. http://mesquiteproject.org.
+Miller, R. and Tripathi, A. 1997. Issues with exception handling in object-oriented systems. In Proceedings of the 11th European Conference on Object-Oriented Programming. Lecture Notes in Computer Science (June), vol. 1241. Springer-Verlag, New York, NY, 85--103.
+Robin Milner , Mads Tofte , Robert Harper, The  Definition of Standard ML, MIT Press, Cambridge, MA, 1990
+Takeshi Ogasawara , Hideaki Komatsu , Toshio Nakatani, A study of exception handling and its dynamic optimization in Java, Proceedings of the 16th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, p.83-95, October 14-18, 2001, Tampa Bay, FL, USA[doi>10.1145/504282.504289]
+Jens Palsberg , Michael I. Schwartzbach, Object-oriented type inference, Conference proceedings on Object-oriented programming systems, languages, and applications, p.146-161, October 06-11, 1991, Phoenix, Arizona, USA[doi>10.1145/117954.117965]
+François Pessaux , Xavier Leroy, Type-based analysis of uncaught exceptions, Proceedings of the 26th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.276-290, January 20-22, 1999, San Antonio, Texas, USA[doi>10.1145/292540.292565]
+John Plevyak , Andrew A. Chien, Precise concrete type inference for object-oriented languages, Proceedings of the ninth annual conference on Object-oriented programming systems, language, and applications, p.324-340, October 23-28, 1994, Portland, Oregon, USA[doi>10.1145/191080.191130]
+Martin P. Robillard , Gail C. Murphy, Analyzing exception flow in Java programs, Proceedings of the 7th European software engineering conference held jointly with the 7th ACM SIGSOFT international symposium on Foundations of software engineering, p.322-337, September 06-10, 1999, Toulouse, France
+Martin P. Robillard , Gail C. Murphy, Designing robust Java programs with exceptions, Proceedings of the 8th ACM SIGSOFT international symposium on Foundations of software engineering: twenty-first century applications, p.2-10, November 06-10, 2000, San Diego, California, USA[doi>10.1145/355045.355046]
+Alexander Romanovsky , Bo Sandén, Except for exception handling …, ACM SIGAda Ada Letters, v.XXI n.3, September 2001[doi>10.1145/568671.568678]
+Ryder, B. G., Smith, D., Kremer, U., Gordon, M., and Shah, N. 1999. A static study of Java exceptions using JESP. Tech. Rep. DSC-TR-406 (Oct.). Department of Computer Science, Rutgers University.
+S. Ryu , K. Yi, Exception Analysis for Multithreaded Java Programs, Proceedings of the Second Asia-Pacific Conference on Quality Software, p.23, December 10-11, 2001
+Carl F. Schaefer , Gary N. Bundy, Static analysis of exception handling in Ada, Software—Practice & Experience, v.23 n.10, p.1157-1174, Oct. 1993[doi>10.1002/spe.4380231007]
+Michael L. Scott, Programming language pragmatics, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2000
+Shelekhov, V. I. and Kuksenko, S. V. 1999. Data flow analysis of Java programs in the presence of exceptions. In Proceedings of the third International Andrei Ershov Memorial Conference on Perspectives of System Informatics. Lecture Notes in Computer Science (July), vol. 1755. Springer-Verlag, New York, NY, 389--396.
+Saurabh Sinha , Mary Jean Harrold, Criteria for Testing Exception-Handling Constructs in Java Programs, Proceedings of the IEEE International Conference on Software Maintenance, p.265, August 30-September 03, 1999
+Saurabh Sinha , Mary Jean Harrold, Analysis and Testing of Programs with Exception Handling Constructs, IEEE Transactions on Software Engineering, v.26 n.9, p.849-871, September 2000[doi>10.1109/32.877846]
+Bjarne Stroustrup, The C++ programming language (2nd ed.), Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1991
+Henry Ledgard, Reference Manual for the ADA Programming Language, Springer-Verlag New York, Inc., Secaucus, NJ, 1983
+Shaula Yemini , Daniel M. Berry, A modular verifiable exception handling mechanism, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.2, p.214-243, April 1985[doi>10.1145/3318.3320]
+Kwangkeun Yi, An abstract interpretation for estimating uncaught exceptions in standard ML programs, Science of Computer Programming, v.31 n.1, p.147-173, May 1998[doi>10.1016/S0167-6423(96)00044-5]
+Kwangkeun Yi , Sukyoung Ryu, Towards a Cost-Effective Estimation of Uncaught Exceptions in SML Programs, Proceedings of the 4th International Symposium on Static Analysis, p.98-113, September 08-10, 1997

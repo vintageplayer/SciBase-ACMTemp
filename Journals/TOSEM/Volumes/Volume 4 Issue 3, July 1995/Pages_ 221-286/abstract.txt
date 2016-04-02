@@ -1,0 +1,24 @@
+Software process programming is the coding of software processes in
+executable programming languages. Process programming offers many
+potential benefits, but their realization has been hampered by a lack of
+experience in the design and use of process programming languages.
+APPL/A is a prototype software process programming language developed to
+help gain this experience. It is intended for the coding of programs to
+represent and support software processes including process, product, and
+project management. APPL/A is defined as an extension to Ada, to which
+it adds persistent programmable relations, concurrent triggers on
+relation operations (for reactive control), optionally and dynamically
+enforceable predicates on relations (which may serve as constraints),
+and composite statements that provide alternative combinations of
+serializability, atomicity, and consistency enforcement (for programming
+high-level transactions). APPL/A has been used to code
+engineering-oriented applications, like requirements specification and
+design, as well as management-related activities, such as personnel
+assignment, task scheduling, and project monitoring. APPL/A has also
+enabled us to experiment with process program design techniques and
+architectures, including process state reification, intermittent (or
+persistent) processes, reflexive and metaprocesses, and multiple-process
+systems. Our ability to address a wide range of software processes and
+process characteristics indicates that the APPL/A constructs represent
+important and general capabilities for software process
+programming.—Authors' Abstract

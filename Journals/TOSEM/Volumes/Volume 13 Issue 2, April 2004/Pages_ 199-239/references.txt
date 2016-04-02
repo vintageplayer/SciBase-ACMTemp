@@ -1,0 +1,47 @@
+Hiralal Agrawal , Richard A. DeMillo , Eugene H. Spafford, Dynamic slicing in the presence of unconstrained pointers, Proceedings of the symposium on Testing, analysis, and verification, p.60-73, October 08-10, 1991, Victoria, British Columbia, Canada[doi>10.1145/120807.120813]
+Hiralal Agrawal , Joseph R. Horgan, Dynamic program slicing, Proceedings of the ACM SIGPLAN 1990 conference on Programming language design and implementation, p.246-256, June 1990, White Plains, New York, USA[doi>10.1145/93542.93576]
+Alfred V. Aho , Ravi Sethi , Jeffrey D. Ullman, Compilers: principles, techniques, and tools, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+Andersen, L. O. 1994. Program analysis and specialization for the C programming language. Tech. Rep. 94-19, University of Copenhagen, May.
+Giuliano Antoniol , Roberto Fiutem , G. Lutteri , Paolo Tonella , S. Zanfei , Ettore Merlo, Program Understanding and Maintenance with the CANTO Environment, Proceedings of the International Conference on Software Maintenance, p.72, October 01-03, 1997
+Aristotle Research Group. 2000. Aristotle: Software engineering tools. http://www.cc.gatech.edu/aristotle/.
+Darren C. Atkinson , William G. Griswold, Effective whole-program analysis in the presence of pointers, Proceedings of the 6th ACM SIGSOFT international symposium on Foundations of software engineering, p.46-55, November 01-05, 1998, Lake Buena Vista, Florida, USA[doi>10.1145/288195.288217]
+Boris Beizer, Software testing techniques (2nd ed.), Van Nostrand Reinhold Co., New York, NY, 1990
+Leeann Bent , Darren C. Atkinson , William G. Griswold, A Comparative Study of Two Whole Program Slicers for C, University of California at San Diego, La Jolla, CA, 2001
+Binkley, D. W. 1993. Slicing in the presence of parameter aliasing. In Proceedings of the Software Engineering Research Forum (Orlando, Fla.). 261--268.
+David W. Binkley , James R. Lyle, Application of the pointer state subgraph to static program slicing, Journal of Systems and Software, v.40 n.1, p.17-27, Jan. 1998[doi>10.1016/S0164-1212(97)00016-2]
+Canfora, G., Cimitile, A., and De Lucia, A. 1998. Conditioned program slicing. Inf. Softw. Tech. 40, 11--12 (Nov.), 595--608.
+L. A. Clarke , A. Podgurski , D. J. Richardson , S. J. Zeil, A Formal Evaluation of Data Flow Path Selection Criteria, IEEE Transactions on Software Engineering, v.15 n.11, p.1318-1332, November 1989[doi>10.1109/32.41326]
+P. G. Frankl , S. N. Weiss, An Experimental Comparison of the Effectiveness of Branch Testing and Data Flow Testing, IEEE Transactions on Software Engineering, v.19 n.8, p.774-787, August 1993[doi>10.1109/32.238581]
+P. G. Frankl , E. J. Weyuker, An Applicable Family of Data Flow Testing Criteria, IEEE Transactions on Software Engineering, v.14 n.10, p.1483-1498, October 1988[doi>10.1109/32.6194]
+P. G. Frankl , E. J. Weyuker, Provable Improvements on Branch Testing, IEEE Transactions on Software Engineering, v.19 n.10, p.962-975, October 1993[doi>10.1109/32.245738]
+Mark Harman , Sebastian Danicic, Amorphous Program Slicing, Proceedings of the 5th International Workshop on Program Comprehension (WPC '97), p.70, May 28-30, 1997
+Mary Jean Harrold , Ning Ci, Reuse-driven interprocedural slicing, Proceedings of the 20th international conference on Software engineering, p.74-83, April 19-25, 1998, Kyoto, Japan
+Harrold, M. J. and Rothermel, G. 1997. Aristotle: A system for research on and development of program-analysis-based tools. Tech. Rep. OSU-CISRC-3/97-TR17, The Ohio State University, Mar.
+Mary Jean Harrold , Mary Lou Soffa, Selecting and Using Data for Integration Testing, IEEE Software, v.8 n.2, p.58-65, March 1991[doi>10.1109/52.73750]
+Mary Jean Harrold , Mary Lou Soffa, Efficient computation of interprocedural definition-use chains, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.2, p.175-204, March 1994[doi>10.1145/174662.174663]
+Susan Horwitz, Precise flow-insensitive may-alias analysis is NP-hard, ACM Transactions on Programming Languages and Systems (TOPLAS), v.19 n.1, p.1-6, Jan. 1997[doi>10.1145/239912.239913]
+Susan Horwitz , Thomas Reps , David Binkley, Interprocedural slicing using dependence graphs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.1, p.26-60, Jan. 1990[doi>10.1145/77606.77608]
+B. Korel , J. Laski, Dynamic program slicing, Information Processing Letters, v.29 n.3, p.155-163, October 26, 1988[doi>10.1016/0020-0190(88)90054-3]
+William Landi , Barbara G. Ryder, A safe approximate algorithm for interprocedural aliasing, ACM SIGPLAN Notices, v.27 n.7, p.235-248, July 1992[doi>10.1145/143103.143137]
+Laski, J. W. and Korel, B. 1983. A data flow oriented program testing strategy. IEEE Trans. Softw. Eng. 9, 3 (May), 347--354.
+Donglin Liang , Mary Jean Harrold, Efficient points-to analysis for whole-program analysis, Proceedings of the 7th European software engineering conference held jointly with the 7th ACM SIGSOFT international symposium on Foundations of software engineering, p.199-215, September 06-10, 1999, Toulouse, France
+Donglin Liang , Mary Jean Harrold, Reuse-Driven Interprocedural Slicing in the Presence of Pointers and Recursions, Proceedings of the IEEE International Conference on Software Maintenance, p.421, August 30-September 03, 1999
+Liang, D. and Harrold, M. J. 2001. Efficient computation of parameterized pointer information for interprocedural analyses. In Proceedings of the 8th Static Analysis Symposium (SAS 01) (Paris, France). Lecture Notes in Computer Science, vol. 2126. Springer-Verlag, London, U.K., 279--298.
+Martina Marré , Antonia Bertolino, Using Spanning Sets for Coverage Testing, IEEE Transactions on Software Engineering, v.29 n.11, p.974-984, November 2003[doi>10.1109/TSE.2003.1245299]
+Ettore M. Merlo , Giuliano Antoniol, A static measure of a subset of intra-procedural data flow testing coverage based on node coverage, Proceedings of the 1999 conference of the Centre for Advanced Studies on Collaborative research, p.7, November 08-11, 1999, Mississauga, Ontario, Canada
+Merlo, E. and Antoniol, G. 2000. Pointer sensitive def-use pre-dominance, post-dominance and synchronous dominance relations for unconstrained def-use intraprocedural computation. Tech. Rep. EPM/RT-00/01, Ecole Polytechnique of Montreal, Montreal, Que., Canada, Mar.
+Ntafos, S. 1984. On required elements testing. IEEE Trans. Softw. Eng. 10, 6 (Nov.), 795--803.
+S. C. Ntafos, A Comparison of Some Structural Testing Strategies, IEEE Transactions on Software Engineering, v.14 n.6, p.868-874, June 1988[doi>10.1109/32.6165]
+Orso, A., Liang, D., Sinha, S., and Harrold, M. J. 2002. A framework for understanding data dependences. Tech. Rep. GIT-CC-02-13, College of Computing, Georgia Institute of Technology, Atlanta, Ga., Mar.
+Orso, A., Sinha, S., and Harrold, M. J. 2003. Understanding data dependences in the presence of pointers. Tech. Rep. GIT-CERCS-03-10, College of Computing, Georgia Institute of Technology, Atlanta, Ga., May.
+Thomas J. Ostrand , Elaine J. Weyuker, Data flow-based test adequacy analysis for languages with pointers, Proceedings of the symposium on Testing, analysis, and verification, p.74-86, October 08-10, 1991, Victoria, British Columbia, Canada[doi>10.1145/120807.120814]
+H. D. Pande , W. A. Landi , B. G. Ryder, Interprocedural Def-Use Associations for C Systems with Single Level Pointers, IEEE Transactions on Software Engineering, v.20 n.5, p.385-403, May 1994[doi>10.1109/32.286418]
+Programming Language Research Group. 1998. PROLANGS Analysis Framework. http://www.prolangs.rutgers.edu/, Rutgers University.
+Sandra Rapps , Elaine J. Weyuker, Selecting Software Test Data Using Data Flow Information, IEEE Transactions on Software Engineering, v.11 n.4, p.367-375, April 1985[doi>10.1109/TSE.1985.232226]
+Thomas Reps , Susan Horwitz , Mooly Sagiv , Genevieve Rosay, Speeding up slicing, Proceedings of the 2nd ACM SIGSOFT symposium on Foundations of software engineering, p.11-20, December 06-09, 1994, New Orleans, Louisiana, USA[doi>10.1145/193173.195287]
+Marc Shapiro, II , Susan Horwitz, The Effects of the Precision of Pointer Analysis, Proceedings of the 4th International Symposium on Static Analysis, p.16-34, September 08-10, 1997
+Saurabh Sinha , Mary Jean Harrold , Gregg Rothermel, System-dependence-graph-based slicing of programs with arbitrary interprocedural control flow, Proceedings of the 21st international conference on Software engineering, p.432-441, May 16-22, 1999, Los Angeles, California, USA[doi>10.1145/302405.302675]
+Bjarne Steensgaard, Points-to analysis in almost linear time, Proceedings of the 23rd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.32-41, January 21-24, 1996, St. Petersburg Beach, Florida, USA[doi>10.1145/237721.237727]
+Paolo Tonella, Effects of Different Flow Insensitive Points-to Analyses on DEF/USE Sets, Proceedings of the Third European Conference on Software Maintenance and Reengineering, p.62, March 03-05, 1999
+P. Tonella , G. Antoniol , R. Fiutem , E. Merlo, Variable-precision reaching definitions analysis, Journal of Software Maintenance: Research and Practice, v.11 n.2, p.117-142, March/April 1999[doi>10.1002/(SICI)1096-908X(199903/04)11:2<117::AID-SMR185>3.3.CO;2-G]
+Weiser, M. 1984. Program slicing. IEEE Trans. Softw. Eng. 10, 4 (July), 352--357.

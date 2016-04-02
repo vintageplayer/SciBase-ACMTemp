@@ -1,0 +1,57 @@
+Hiralal Agrawal , Joseph R. Horgan, Dynamic program slicing, ACM SIGPLAN Notices, v.25 n.6, p.246-256, Jun. 1990[doi>10.1145/93548.93576]
+Alfred V. Aho , Ravi Sethi , Jeffrey D. Ullman, Compilers: principles, techniques, and tools, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+~ALLEN, F. E., AND COCKE, J. A catalogue of optimizing transformations. In R. Rustin, editor, ~Design and Opttmization of Compilers. Prentice-Hall, Englewood Cliffs, N J, 1972.
+~ARNOLD, R. S. An introduction to software restructuring. In Tutorial on Software Restruc- ~turing. Society Press (IEEE), Washington~ D.C., 1986.
+~BALZER, R. Automated enhancement of knowledge representations. In Proceedings of the ~9th International Joint Conference on Arttficial Intelligence (Aug. 1985), 203 207.
+David Barstow, On convergence toward a database of program transformations, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.1, p.1-9, Jan. 1985[doi>10.1145/2363.2364]
+~BELADY, L. A., AND LE~MAN, M.M. A model of large program development. IBM Syst. J. 15, ~3 (1976), 225-252.
+M. M. Lehman , L. A. Belady, Program evolution: processes of software change, Academic Press Professional, Inc., San Diego, CA, 1985
+Barry W. Boehm, Software Engineering Economics, Prentice Hall PTR, Upper Saddle River, NJ, 1981
+Corrado Böhm , Giuseppe Jacopini, Flow diagrams, turing machines and languages with only two formation rules, Communications of the ACM, v.9 n.5, p.366-371, May 1966[doi>10.1145/355592.365646]
+R. M. Burstall , John Darlington, A Transformation System for Developing Recursive Programs, Journal of the ACM (JACM), v.24 n.1, p.44-67, Jan. 1977[doi>10.1145/321992.321996]
+E. Cartwright , M. Felleisen, The semantics of program dependence, ACM SIGPLAN Notices, v.24 n.7, p.13-27, July 1989[doi>10.1145/74818.74820]
+L. Cleveland, A program understanding support environment, IBM Systems Journal, v.28 n.2, p.324-344, 1989[doi>10.1147/sj.282.0324]
+~COLLOFELLO, J. S., AND BUCK, J. J. Software quality assurance for maintenance. IEEE ~Comput. (Sept. 1987), 46 51.
+R. Cytron , J. Ferrante , B. K. Rosen , M. N. Wegman , F. K. Zadeck, An efficient method of computing static single assignment form, Proceedings of the 16th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.25-35, January 11-13, 1989, Austin, Texas, United States[doi>10.1145/75277.75280]
+Peter J. Downey , Ravi Sethi, Assignment Commands with Array References, Journal of the ACM (JACM), v.25 n.4, p.652-666, Oct. 1978[doi>10.1145/322092.322104]
+R. Kent Dybvig, The SCHEME programming language, Prentice-Hall, Inc., Upper Saddle River, NJ, 1987
+D. W. Embley , S. N. Woodfield, Assessing the quality of abstract data types written in ADA, Proceedings of the 10th international conference on Software engineering, p.144-153, April 11-15, 1988, Singapore
+~FEATHER, M.S. Specification evolution and program (re)transformation. In Proceedtngs of ~the 5th RADC Knowledge-Based Software Assistant Conference (Sept. 1990).
+Martin S. Feather, A System for Assisting Program Transformation, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.1, p.1-20, Jan. 1982[doi>10.1145/357153.357154]
+~FEDERAL SOFTWARE MANAGEMENT SUPPORT CENTER. Parallel test and productivity evalua- ~tion of a commercially supplied COBOL restructuring tool. Tech. Rep., Office of Software ~Development and Information Technology, Washington, D.C., 1987.
+Jeanne Ferrante , Karl J. Ottenstein , Joe D. Warren, The program dependence graph and its use in optimization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.9 n.3, p.319-349, July 1987[doi>10.1145/24039.24041]
+Keith Brian Gallagher , James R. Lyle, Using Program Slicing in Software Maintenance, IEEE Transactions on Software Engineering, v.17 n.8, p.751-761, August 1991[doi>10.1109/32.83912]
+~GRISWOLD, W G. Program restructuring to aid software maintenance. Ph.D. dissertation, ~Univ. of Washington, Dept. of Computer Science and Engineering, Seattle, Wash., 1991. ~Tech. Rep. No. 91-08-04.
+William G. Griswold , David Notkin, Computer-aided vs. manual program restructuring, ACM SIGSOFT Software Engineering Notes, v.17 n.1, p.33-41, Jan. 1992[doi>10.1145/134292.134294]
+~GRISWOLD, W. G., AND NOTKIN, D. Semantic manipulation of program source. Tech. Rep ~91-08-03, Univ. of Washington, Dept of Computer Science and Engineering, Seattle, Wash., ~1991.
+C. A. R. Hoare , I. J. Hayes , He Jifeng , C. C. Morgan , A. W. Roscoe , J. W. Sanders , I. H. Sorensen , J. M. Spivey , B. A. Sufrin, Laws of programming, Communications of the ACM, v.30 n.8, p.672-686, Aug. 1987[doi>10.1145/27651.27653]
+Susan Horwitz , Thomas Reps , David Binkley, Interprocedural slicing using dependence graphs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.1, p.26-60, Jan. 1990[doi>10.1145/77606.77608]
+Susan Horwitz , Jan Prins , Thomas Reps, Integrating noninterfering versions of programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.11 n.3, p.345-387, July 1989[doi>10.1145/65979.65980]
+S. Horwitz , J. Prins , T. Reps, On the adequacy of program dependence graphs for representing programs, Proceedings of the 15th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.146-157, January 10-13, 1988, San Diego, California, United States[doi>10.1145/73560.73573]
+D. J. Kuck , R. H. Kuhn , D. A. Padua , B. Leasure , M. Wolfe, Dependence graphs and compiler optimizations, Proceedings of the 8th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.207-218, January 26-28, 1981, Williamsburg, Virginia[doi>10.1145/567532.567555]
+James Richard Larus , Paul Hifinger, Restructuring symbolic programs for concurrent execution on multiprocessors, 1989
+M. M. Lehman , L. A. Belady, Program evolution: processes of software change, Academic Press Professional, Inc., San Diego, CA, 1985
+~LEwis, T. IEEE Computer (Jan. 1990). Special Issue on Software Engineering.
+Bennett P. Lientz , E. Burton Swanson, Software Maintenance Management, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1980
+David B. Loveman, Program Improvement by Source-to-Source Transformation, Journal of the ACM (JACM), v.24 n.1, p.121-145, Jan. 1977[doi>10.1145/321992.322000]
+~MORGAN, H. W. Evolution of a software maintenance tool. In Proceedzngs of the 2nd ~National Colzference EDP Software Mozntenance (1984), 268 278.
+~NARAYANASWAMY, K., AND COHEN, D. An assessment of the AP5 programming ~language theory and experience. Tech Rep., Information Sciences Inst., Univ. of Southern ~California, Los Angeles, 1991.
+Harold Ossher, A mechanism for specifying the structure of large, layered systems, Research directions in object-oriented programming, MIT Press, Cambridge, MA, 1987
+~PARNAS, D.L. Designing software for ease of extension and contraction. IEEE Trans. So{tw ~Eng. SE-5, 2 (Mar. 1979), 128 138.
+D. L. Parnas, On the criteria to be used in decomposing systems into modules, Communications of the ACM, v.15 n.12, p.1053-1058, Dec. 1972[doi>10.1145/361598.361623]
+A. Podgurski , L. A. Clarke, A Formal Model of Program Dependences and its Implications for Software Testing, Debugging, and Maintenance, IEEE Transactions on Software Engineering, v.16 n.9, p.965-979, September 1990[doi>10.1109/32.58784]
+Lyle Ramshaw, Eliminating go to's while preserving program structure, Journal of the ACM (JACM), v.35 n.4, p.893-920, Oct. 1988[doi>10.1145/48014.48021]
+Charles Rich , Richard C. Waters, The Programmer's Apprentice: A Research Overview, Computer, v.21 n.11, p.10-25, November 1988[doi>10.1109/2.86782]
+Robert W. Schwanke, An intelligent tool for re-engineering software modularity, Proceedings of the 13th international conference on Software engineering, p.83-92, May 13-17, 1991, Austin, Texas, United States
+~SELKE, R. P. Transforming program dependence graphs. Tech. Rep. TR90-131, Dept. of ~Computer Science, Rice Univ., Houston, Tex., 1990.
+O. Shivers, Control flow analysis in scheme, Proceedings of the ACM SIGPLAN 1988 conference on Programming Language design and Implementation, p.164-174, June 20-24, 1988, Atlanta, Georgia, United States[doi>10.1145/53990.54007]
+~STANKOVIC, J. Good system structure features: Their complexity and execution time cost. ~IEEE Trans. Softw. Eng. SE-8, 4 (July 1982), 306-318.
+John Anthony Stankovic, Structured systems and their performance improvement through vertical migration, 1979
+W. P. Stevens , G. J. Myers , L. L. Constantine, Structured design, IBM Systems Journal, v.38 n.2-3, p.231-256, 1999[doi>10.1147/sj.382.0231]
+Kevin J. Sullivan , David Notkin, Reconciling environment integration and software evolution, ACM Transactions on Software Engineering and Methodology (TOSEM), v.1 n.3, p.229-268, July 1992[doi>10.1145/131736.131744]
+Kevin Sullivan , David Notkin, Reconciling environment integration and component independence, Proceedings of the fourth ACM SIGSOFT symposium on Software development environments, p.22-33, December 03-05, 1990, Irvine, California, United States[doi>10.1145/99277.99281]
+G. A. Venkatesh, The semantic approach to program slicing, ACM SIGPLAN Notices, v.26 n.6, p.107-119, June 1991[doi>10.1145/113446.113455]
+~WEISER, M. Program slicing. IEEE Trans. Softw. Eng. SE-IO, 4 (July 1984), 352-357.
+~WmHAMS, M. H., AND OSSHER, H. L. Conversion of unstructured flow diagrams to struc- ~tured form. Comput. J. 21, 2 (1977), 161-167.
+Wuu Yang , Thomas Reps , Susan Horwitz, A new algorithm for semantics-based program integration, 1990
+~YANG, W., HORWITZ, S., AND REPS, T. Detecting program components with equivalent ~behaviors. Tech. Rep. 840, Computer Sciences Dept., Univ. of Wisconsin, Madison, 1989.

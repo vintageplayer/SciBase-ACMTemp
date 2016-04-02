@@ -1,0 +1,49 @@
+M. Abadi, Two Facets of Authentication, Proceedings of the 11th IEEE workshop on Computer Security Foundations, p.27, June 09-11, 1998
+Martín Abadi , Andrew D. Gordon, A calculus for cryptographic protocols, Information and Computation, v.148 n.1, p.1-70, Jan. 10, 1999[doi>10.1006/inco.1998.2740]
+Martín Abadi , Roger Needham, Prudent Engineering Practice for Cryptographic Protocols, IEEE Transactions on Software Engineering, v.22 n.1, p.6-15, January 1996[doi>10.1109/32.481513]
+Steven M. Bellovin , Michael Merritt, Encrypted Key Exchange: Password-Based Protocols SecureAgainst Dictionary Attacks, Proceedings of the 1992 IEEE Symposium on Security and Privacy, p.72, May 04-06, 1992
+Chiara Bodei , Pierpaolo Degano , Riccardo Focardi , Corrado Priami, Authentication via Localized Names, Proceedings of the 12th IEEE workshop on Computer Security Foundations, p.98, June 28-30, 1999
+Dominique Bolignano, An approach to the formal verification of cryptographic protocols, Proceedings of the 3rd ACM conference on Computer and communications security, p.106-118, March 14-15, 1996, New Delhi, India[doi>10.1145/238168.238196]
+BURROWS, M., ABADI, M., AND NEEDHAM, R. 1989. A logic of authentication. Proc. Roy. Soc. London 426, 1871, 233-271.
+CLARK, J. AND JACOB, J. 1997. A survey of authentication protocol literature: Version 1.0. http://www.cs.york.ac.uk/zjac/papers/drareview.ps.gz.
+DENKER, G. AND MILLEN, J. 1999. CAPSL intermediate language. In Proceedings of the FLoC Workshop on Formal Methods and Security Protocols (Trento, Italy, July).
+Whitfield Diffie , Paul C. Van Oorschot , Michael J. Wiener, Authentication and authenticated key exchanges, Designs, Codes and Cryptography, v.2 n.2, p.107-125, June 1992[doi>10.1007/BF00124891]
+David L. Dill, The Murphi Verification System, Proceedings of the 8th International Conference on Computer Aided Verification, p.390-393, August 03, 1996
+DOLEV, D. AND YAO, A. 1983. On the security of public key protocols. IEEE Trans. Inf. Theor. 29, 2, 198-208.
+DURANTE, A. 1998. Uno strumento automatico per la verifica di protocolli crittografici. Master's Thesis.
+Antonio Durante , Riccardo Focardi , Roberto Gorrieri, CVS: A Compiler for the Analysis of Cryptographic Protocols, Proceedings of the 12th IEEE workshop on Computer Security Foundations, p.203, June 28-30, 1999
+DURANTE, A., FOCARDI, R., AND GORRIERI, R. 2000. CVS at work: A report on new failures upon some cryptographic protocols.
+FOCARDI, R. 1998a. Analysis and automatic detection of information flows in systems and networks. Ph.D. Dissertation.
+FOCARDI, R. 1998b. Using entity locations for the analysis of authentication protocols. In Proceedings of Sixth Italian Conference on Theoretical Computer Science (ICTCS'98, Nov.). 316-327.
+FOCARDI, R. AND GORRIERI, R. 1995. A classification of security properties for process algebras. J. Comput. Secur. 3, 1, 5-33.
+Riccardo Focardi , Roberto Gorrieri, The Compositional Security Checker: A Tool for the Verification of Information Flow Security Properties, IEEE Transactions on Software Engineering, v.23 n.9, p.550-571, September 1997[doi>10.1109/32.629493]
+FOCARDI, R. AND GORRIERI, R. 1998. Analysis of authentication protocols using non-interference. CS98-18 Oct.
+FOCARDI, R. AND MARTINELLI, F. 1999. A uniform approach for the definition of security properties. In Proceedings of World Congress on Formal Methods in the Development of Computing Systems (FM '99, Toulouse, France, Sept.), J. M. Wing, J. Woodcock, and J. Davies, Eds. Springer Lecture Notes in Computer Science. Springer-Verlag, New York, NY, 794-813.
+FOCARDI, R., GHELLI, A., AND GORRIERI, R. 1997. Using non interference for the analysis of security protocols. In Proceedings of the DIMACS Workshop on Design and Formal Verification of Security Protocols (DIMACS, Rutgers University, Sept.), H. Orman and C. Meadows, Eds. http://dimacs.rutgers.edu/Workshops/Security/
+FOCARDI, R., GORRIERI, R., AND MARTINELLI, F. 2000. Non interference for the analysis of cryptographic protocols. In Proceedings on ICALP'00 (ICALP'00, July). Springer-Verlag, New York, NY, 354-372.
+C. A. R. Hoare, Communicating sequential processes, Prentice-Hall, Inc., Upper Saddle River, NJ, 1985
+ISO/IEC. 1990. Entity authentication using symmetric techniques. ISO/IEC JTC1.27.02.2 (20.03.1.2).
+Robert M. Keller, Formal verification of parallel programs, Communications of the ACM, v.19 n.7, p.371-384, July 1976[doi>10.1145/360248.360251]
+Gavin Lowe, Breaking and Fixing the Needham-Schroeder Public-Key Protocol Using FDR, Proceedings of the Second International Workshop on Tools and Algorithms for Construction and Analysis of Systems, p.147-166, March 27-29, 1996
+G. Lowe, Some new attacks upon security protocols, Proceedings of the 9th IEEE workshop on Computer Security Foundations, p.162, March 10-12, 1996
+Gavin Lowe, Casper: a compiler for the analysis of security protocols, Journal of Computer Security, v.6 n.1-2, p.53-84, Sept. 1998
+G. Lowe, Towards a Completeness Result for Model Checking of Security Protocols, Proceedings of the 11th IEEE workshop on Computer Security Foundations, p.96, June 09-11, 1998
+Gavin Lowe , Bill Roscoe, Using CSP to Detect Errors in the TMN Protocol, IEEE Transactions on Software Engineering, v.23 n.10, p.659-669, October 1997[doi>10.1109/32.637148]
+MARRERO, W., CLARKE, E., AND JHA, S. 1997. A model checker for authentication protocols. In Proceedings of the DIMACS Workshop on Design and Formal Verification of Security Protocols (DIMACS, Rutgers University, Sept.), H. Orman and C. Meadows, Eds. http://dimacs.rutgers.edu/Workshops/Security/
+MEADOWS, C. 1996. The NRL protocol analyzer: An overview. J. Logic Program. 26,2, 113-131.
+MEADOWS, C. 1999. Analysis of the Internet key exchange protocol using the NRL protocol analyzer. In Proceedings of the 1999 IEEE Computer Society Symposium on Research in Security and Privacy (Berkeley, CA, May). IEEE Computer Society Press, Los Alamitos, CA, 216-231.
+MILLEN, J. 1997. CAPSL: Common authentication protocol specification language. MP 97B48.
+R. Milner, Communication and concurrency, Prentice-Hall, Inc., Upper Saddle River, NJ, 1989
+J. C. Mitchell , M. Mitchell , U. Stern, Automated analysis of cryptographic protocols using Mur/spl phi/, Proceedings of the 1997 IEEE Symposium on Security and Privacy, p.141, May 04-07, 1997
+Roger M. Needham , Michael D. Schroeder, Using encryption for authentication in large networks of computers, Communications of the ACM, v.21 n.12, p.993-999, Dec. 1978[doi>10.1145/359657.359659]
+Dave Otway , Owen Rees, Efficient and timely mutual authentication, ACM SIGOPS Operating Systems Review, v.21 n.1, p.8-10, Jan. 1987[doi>10.1145/24592.24594]
+Lawrence C. Paulson, The inductive approach to verifying cryptographic protocols, Journal of Computer Security, v.6 n.1-2, p.85-128, Sept. 1998
+ROSCOE, A. W. AND GOLDSMITH, M. H. 1997. The perfect spy for model-checking crytpo-protocols. In Proceedings of the DIMACS Workshop on Design and Formal Verification of Security Protocols (DIMACS, Rutgers University, Sept.), H. Orman and C. Meadows, Eds. http://dimacs.rutgers.edu/Workshops/Security/
+M. Satyanarayanan, Integrating security in a large distributed system, ACM Transactions on Computer Systems (TOCS), v.7 n.3, p.247-280, Aug. 1989[doi>10.1145/65000.65002]
+Dawn Xiaodong Song, Athena: a New Efficient Automatic Checker for Security Protocol Analysis, Proceedings of the 12th IEEE workshop on Computer Security Foundations, p.192, June 28-30, 1999
+SYVERSON, P. 1994. A taxonomy of replay attacks. In Proceedings of the Seventh IEEE Computer Security Foundation Workshop (CSFW'94, Franconia, NH, June), L. Gong, Ed. IEEE Press, Piscataway, NJ.
+Makoto Tatebayashi , Natsume Matsuzaki , David B. Newman, Jr., Key distribution protocol for digital mobile communication systems, Proceedings on Advances in cryptology, p.324-334, July 1989, Santa Barbara, California, USA
+THAYER, F. J., HERZOG, J. C., AND GUTTMAN, J. D. 1998. Strand spaces: Why is a security protocol correct? In Proceedings of the 1998 IEEE Symposium on Security and Privacy (Oakland, CA, May). IEEE Computer Society Press, Los Alamitos, CA, 160-171.
+Thomas Y. C. Woo , Simon S. Lam, Authentication for Distributed Systems, Computer, v.25 n.1, p.39-52, January 1992[doi>10.1109/2.108052]
+Thomas Y. C. Woo , Simon S. Lam, A Semantic Model for Authentication Protocols, Proceedings of the 1993 IEEE Symposium on Security and Privacy, p.178, May 24-26, 1993
+Thomas Y. C. Woo , Simon S. Lam, A lesson on authentication protocol design, ACM SIGOPS Operating Systems Review, v.28 n.3, p.24-37, July 1994[doi>10.1145/182110.182113]

@@ -1,0 +1,37 @@
+~BALDWIN, D, AND SAYWARD, F Heuristics for determining equivalence of program muta- ~tions. Res. Rep. 276, Dept of Computer Science, Yale Umv., New Haven, Conn., 1979.
+Timothy Alan Budd, Mutation analysis of program test data, Yale University, New Haven, CT, 1980
+~BUDD, T A., AND ANGLUIN, D Two notions of correctness and their relatmn to testing. Acta ~Inf. 18, 1 (Nov 1982), 31-45.
+Timothy A. Budd , Richard A. DeMillo , Richard J. Lipton , Frederick G. Sayward, Theoretical and empirical studies on using program mutation to test the functional correctness of programs, Proceedings of the 7th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.220-233, January 28-30, 1980, Las Vegas, Nevada[doi>10.1145/567446.567468]
+~CLARKE, L.A. A system to generate test data and symbohcally execute programs JEEE ~rans Sofiw. E,g. 2, 3 (Sept. 1976), 215 222.
+Lori A. Clarke , Debra J. Richardson, The application of error-sensitive testing strategies to debugging, Proceedings of the ACM SIGSOFT/SIGPLAN software engineering symposium on High-level debugging, p.45-52, January 1983[doi>10.1145/800007.808007]
+Lori A. Clarke , Debra J. Richardson, Applications of symbolic evaluation, Journal of Systems and Software, v.5 n.1, p.15-35, Feb. 1985[doi>10.1016/0164-1212(85)90004-4]
+~CRAFT, W. M Detecting equivalent mutants using compiler optimization techniques. ~Master's thesm, Dept. of Computer Science, Clemson Univ., Clemson, S. Carol., 1989.
+Richard A. DeMillo , A. Jefferson Offutt, Constraint-Based Automatic Test Data Generation, IEEE Transactions on Software Engineering, v.17 n.9, p.900-910, September 1991[doi>10.1109/32.92910]
+~DEMmLo, R. A., GUINDL D S. K~N6, K. N, McCaAcKEN, W. M, AND O~FUTT, A. J. An ~extended overview of the Mothra software testing environment. In Proceedings of the 2nd ~Workshop on Software Testing. Verzfwation, and Analys*s (Banff, Alberta, July 1988). IEEE ~Computer Somety Press, Los Alam~tos, Calif., 142-151.
+~DEMn~LO, R. A, HOCKING, D E., AND MERRITT, M.J. A comparison of some rehable test data ~generation procedures. Tech. Rep. GIT-ICS-81/08, School of Informatmn and Computer ~Science, Georgia Institute of Technology, Atlanta, 1981
+~DEMmLo, R. A., LIPTON, R. J., AND SAYWARD, F.G. Hints on test data selection: Help for the ~practicing programmer. IEEE Con, put. 11, 4 (Apr. 1978), 34 41.
+Lloyd D. Fosdick , Leon J. Osterweil, Data Flow Analysis in Software Reliability, ACM Computing Surveys (CSUR), v.8 n.3, p.305-330, Sept. 1976[doi>10.1145/356674.356676]
+Matthew Geller, Test data as an aid in proving program correctness, Communications of the ACM, v.21 n.5, p.368-375, May 1978[doi>10.1145/359488.359495]
+M. R. Girgis , M. R. Woodward, An integrated system for program testing using weak mutation and data flow analysis, Proceedings of the 8th international conference on Software engineering, p.313-319, August 28-30, 1985, London, England
+~GIRGIS, M. R., AND WOODWARD, M R. An experimental comparison of the error exposing ~ability of program testing criterm. In Proceedings of the Workshop on Software Testing. ~IEEE Computer Society Press, Los Alamitos, Calif., 61-73.
+James Arthur Gosling, Algebraic constraints, Carnegie Mellon University, Pittsburgh, PA, 1983
+~C~OURLAY, J. ~. A nlathematlcal Framework For the investigation of testing. IEEE Trc~n6'. ~Softw. Eng. 9, 6 (Nov. 1983), 686-709.
+C. A. R. Hoare, Proof of a program: FIND, Communications of the ACM, v.14 n.1, p.39-45, Jan. 1971[doi>10.1145/362452.362489]
+~HOWDEN, W.E. Weak mutation testing and completeness of test sets. IEEE Trans Softw ~Eng. 8, 4 (July 1982), 371-379.
+K. N. King , A. Jefferson Offutt, A Fortran language system for mutation-based software testing, Software—Practice & Experience, v.21 n.7, p.685-718, June 1991[doi>10.1002/spe.4380210704]
+Janusz Laski, On data flow guided program testing, ACM SIGPLAN Notices, v.17 n.9, p.62-71, September 1982[doi>10.1145/947955.947963]
+Zohar Manna, Mathematical Theory of Computation, Dover Publications, Incorporated, 2003
+Brian Marick, The weak mutation hypothesis, Proceedings of the symposium on Testing, analysis, and verification, p.190-199, October 08-10, 1991, Victoria, British Columbia, Canada[doi>10.1145/120807.120825]
+Larry Joe Morell, A theory of error-based testing, University of Maryland at College Park, College Park, MD, 1983
+L. J. Morell, A Theory of Fault-Based Testing, IEEE Transactions on Software Engineering, v.16 n.8, p.844-857, August 1990[doi>10.1109/32.57623]
+Simeon C. Ntafos, An evaluation of required element testing strategies, Proceedings of the 7th international conference on Software engineering, p.250-256, March 26-29, 1984, Orlando, Florida, USA
+Andrew Jefferson Offutt, VI , R. A. Demillo, Automatic test data generation, Georgia Institute of Technology, Atlanta, GA, 1988
+~OFFUTT, A. J. An integrated automatic test data generation system. J. Syst. Integr. 1, 3 ~(Nov. 1991), 391 409.
+A. Jefferson Offutt, Investigations of the software testing coupling effect, ACM Transactions on Software Engineering and Methodology (TOSEM), v.1 n.1, p.5-20, Jan. 1992[doi>10.1145/125489.125473]
+A. Jefferson Offutt , Stephen D. Lee, How strong is weak mutation?, Proceedings of the symposium on Testing, analysis, and verification, p.200-213, October 08-10, 1991, Victoria, British Columbia, Canada[doi>10.1145/120807.120826]
+~OFFUT% A. J., AND PRESSLEY, D.L. A data flow oriented approach to the path expression ~constraint generation problem. Tech. Rep. 92-113, Dept. of Computer Science, Clemson ~Univ., Clemson, S. Carol., 1992.
+Paul Walton Purdom, Jr. , Cynthia A. Brown, The analysis of algorithms, Holt, Rinehart & Winston, Austin, TX, 1985
+~RAMAMOORTHY, C. V., Ho, S. F., AND CHEN, V.T. On the automated generation of program ~test data. IEEE Trans. Softw. Eng. 2, 4 (Dec. 1976), 293-300.
+Sandra Rapps , Elaine J. Weyuker, Data flow analysis techniques for test data selection, Proceedings of the 6th international conference on Software engineering, p.272-278, September 13-16, 1982, Tokyo, Japan
+~RICHARDSON, D. J., AND THOMPSON, M. C. The relay model for error detection and its ~application. In Proceedings of the 2nd Workshop on Software Testing, Verification, and ~Analysts (Banff, Alberta, Canada, July 1988). IEEE Computer Society Press. Los A}amltos, ~Calif., 223 230.
+Elaine J. Weyuker, Assessing Test Data Adequacy through Program Inference, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.4, p.641-655, Oct. 1983[doi>10.1145/69575.357231]

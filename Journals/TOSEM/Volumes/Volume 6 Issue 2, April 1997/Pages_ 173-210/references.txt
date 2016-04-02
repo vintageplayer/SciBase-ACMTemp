@@ -1,0 +1,57 @@
+Hiralal Agrawal , Joseph R. Horgan , Edward W. Krauser , Saul London, Incremental Regression Testing, Proceedings of the Conference on Software Maintenance, p.348-357, September 01, 1993
+Alfred V. Aho , Ravi Sethi , Jeffrey D. Ullman, Compilers: principles, techniques, and tools, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+M. Balcer , W. Hasling , T. Ostrand, Automatic generation of test scripts from formal test specifications, Proceedings of the ACM SIGSOFT '89 third symposium on Software testing, analysis, and verification, p.210-218, December 13-15, 1989, Key West, Florida, USA[doi>10.1145/75308.75332]
+Samuel Bates , Susan Horwitz, Incremental program testing using program dependence graphs, Proceedings of the 20th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.384-396, March 1993, Charleston, South Carolina, USA[doi>10.1145/158511.158694]
+Boris Beizer, Software testing techniques (2nd ed.), Van Nostrand Reinhold Co., New York, NY, 1990
+BENEDUSI, P., CIMITILE, A., AND DE CARLINI, U. 1988. Post-maintenance testing based on path change analysis. In Proceedings of the Conference on Software Maintenance--1988. IEEE, New York, 352-361.
+BINKLEY, D. 1992. Using semantic differencing to reduce the cost of regression testing. In Proceedings of the Conference on Software Maintenance--1992. IEEE, New York, 41-50.
+D. Binkley, Reducing the cost of regression testing by semantics guided test case selection, Proceedings of the International Conference on Software Maintenance, p.251, October 17-20, 1995
+BOEHM, B.W. 1976. Software engineering. IEEE Trans. Comput. C-25, 12 (Dec.), 1226- 1241.
+BROWN, P.A. AND HOFFMAN, D. 1990. The application of module regression testing at TRIUMF. Nucl. Instr. Meth. Phys. Res. A293, 1-2 (Aug.), 377-381.
+Yih-Farn Chen , David S. Rosenblum , Kiem-Phong Vo, TestTube: a system for selective regression testing, Proceedings of the 16th international conference on Software engineering, p.211-220, May 16-21, 1994, Sorrento, Italy
+DOGSA, T. AND ROZMAN, I. 1988. CAMOTE--Computer aided module testing and design environment. In Proceedings of the Conference on Software Maintenance--1988. IEEE, New York, 404-408.
+FISCHER, K.F. 1977. A test case selection method for the validation of software maintenance modifications. In Proceedings of COMPSAC '77. IEEE, New York, 421-426.
+FISCHER, K.F., RAJI, F., AND CHRUSCICKI, A. 1981. A methodology for retesting modified software. In Proceedings of the National Telecommunications Conference B-6-3. IEEE, New York, 1-6.
+GUPTA, R., HARROLD, M. g., AND SOFFA, M.L. 1992. An approach to regression testing using slicing. In Proceedings of the Conference on Software Maintenance--1992. IEEE, New York, 299 -308.
+HARROLD, M.g. AND SOFFA, M.L. 1988. An incremental approach to unit testing during maintenance. In Proceedings of the Conference on Software Maintenance--1988. IEEE, New York, 362-367.
+HARROLD, M. g. AND SOFFA, M.L. 1989a. An incremental data flow testing tool. In Proceedings of the 6th International Conference on Testing Computer Software. Frontier Technologies, Annapolis, Md.
+Mary Jean Harrold , Mary Lou Soffa, Interprocedual data flow testing, Proceedings of the ACM SIGSOFT '89 third symposium on Software testing, analysis, and verification, p.158-167, December 13-15, 1989, Key West, Florida, USA[doi>10.1145/75308.75327]
+M. Jean Harrold , Rajiv Gupta , Mary Lou Soffa, A methodology for controlling the size of a test suite, ACM Transactions on Software Engineering and Methodology (TOSEM), v.2 n.3, p.270-285, July 1993[doi>10.1145/152388.152391]
+Mary Jean Harrold , Loren Larsen , John Lloyd , David Nedved , Melanie Page , Gregg Rothermel , Manvinder Singh , Michael Smith, Aristotle: a system for development of program analysis based tools, Proceedings of the 33rd annual on Southeast regional conference, March 17-18, 1995, Clemson, South Carolina[doi>10.1145/1122018.1122038]
+HARTMANN, J. AND ROBSON, D.J. 1989. Revalidation during the software maintenance phase. In Proceedings of the Conference on Software Maintenance--1989. IEEE, New York, 70-79.
+HARTMANN, J. AND ROBSON, D.J. 1990a. RETEST--Development of a selective revalidation prototype environment for use in software maintenance. In Proceedings of the 23rd Hawaii International Conference on System Sciences. IEEE, New York, 92-101.
+Jean Hartmann , David J. Robson, Techniques for Selective Revalidation, IEEE Software, v.7 n.1, p.31-36, January 1990[doi>10.1109/52.43047]
+HOFFMAN, D. 1989. A CASE study in module testing. In Proceedings of the Conference on Software Maintenance--1989. IEEE, New York, 100-105.
+D. Hoffman , C. Brealey, Module test case generation, Proceedings of the ACM SIGSOFT '89 third symposium on Software testing, analysis, and verification, p.97-102, December 13-15, 1989, Key West, Florida, USA[doi>10.1145/75308.75320]
+Monica Hutchins , Herb Foster , Tarak Goradia , Thomas Ostrand, Experiments of the effectiveness of dataflow- and controlflow-based test adequacy criteria, Proceedings of the 16th international conference on Software engineering, p.191-200, May 16-21, 1994, Sorrento, Italy
+LASKI, J. AND SZERMER, W. 1992. Identification of program modifications and its applications in software maintenance. In Proceedings of the Conference on Software Maintenance-- 1992. IEEE, New York, 282-290.
+J. A. N. Lee , Xudong He, A methodology for test selection, Journal of Systems and Software, v.13 n.3, p.177-185, Nov. 1990[doi>10.1016/0164-1212(90)90093-2]
+LEUNG, H. K. N. AND WHITE, L. 1989. Insights into regression testing. In Proceedings of the Conference on Software Maintenance--1989. IEEE, New York, 60-69.
+H. K. N. Leung , L. White, Insights into testing and regression testing global variables, Journal of Software Maintenance: Research and Practice, v.2 n.4, p.209-222, Dec. 1990[doi>10.1002/smr.4360020403]
+LEUNG, H. K. N. AND WHITE, L.g. 1990b. A study of integration testing and software regression at the integration level. In Proceedings of the Conference on Software Maintenance--1990. IEEE, New York, 290-300.
+LEUNG, H. K. N. AND WHITE, L.g. 1991. A cost model to compare regression test strategies. In Proceedings of the Conference on Software Maintenance--1991. IEEE, New York, 201- 208.
+R. Lewis , D. W. Beck , J. Hartmann, Assay - A Tool to Support Regression Testing, Proceedings of the 2nd European Software Engineering Conference, p.487-496, September 11-15, 1989
+Bennett P. Lientz , E. Burton Swanson, Software Maintenance Management, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1980
+B. P. Lientz , E. B. Swanson , G. E. Tompkins, Characteristics of application software maintenance, Communications of the ACM, v.21 n.6, p.466-471, June 1978[doi>10.1145/359511.359522]
+MARTINIG, F. 1996. Software testing: Poor consideration. Testing Tech. Newslett. (Oct.).
+J. T. Nosek , P. Palvia, Software maintenance management: changes in the last decade, Journal of Software Maintenance: Research and Practice, v.2 n.3, p.157-174, Sep. 1990[doi>10.1002/smr.4360020303]
+T. J. Ostrand , M. J. Balcer, The category-partition method for specifying and generating fuctional tests, Communications of the ACM, v.31 n.6, p.676-686, June 1988[doi>10.1145/62959.62964]
+OSTRAND, T. J. AND WEYUKER, E.J. 1988. Using dataflow analysis for regression testing. In the 6th Annual Pacific Northwest Software Quality Conference. Lawrence and Craig, Portland, Oreg., 233-247.
+R S Pressman, Software engineering: a practitioner's approach (2nd ed.), McGraw-Hill, Inc., New York, NY, 1986
+David S. Rosenblum , Elaine J. Weyuker, Predicting the cost-effectiveness of regression testing strategies, Proceedings of the 4th ACM SIGSOFT symposium on Foundations of software engineering, p.118-126, October 16-18, 1996, San Francisco, California, USA[doi>10.1145/239098.239118]
+ROTHERMEL, G. 1996. Efficient, effective regression testing using safe test selection techniques. Tech. Rep. 96-101, Clemson Univ., Clemson, S. Carol.
+Gregg Rothermel , Mary Jean Harrold, A Safe, Efficient Algorithm for Regression Test Selection, Proceedings of the Conference on Software Maintenance, p.358-367, September 01, 1993
+Gregg Rothermel , Mary Jean Harrold, Selecting Regression Tests for Object-Oriented Software, Proceedings of the International Conference on Software Maintenance, p.14-25, September 01, 1994
+Gregg Rothermel , Mary Jean Harrold, Selecting tests and identifying test coverage requirements for modified software, Proceedings of the 1994 ACM SIGSOFT international symposium on Software testing and analysis, p.169-184, August 17-19, 1994, Seattle, Washington, USA[doi>10.1145/186258.187171]
+Gregg Rothermel , Mary Jean Harrold, Analyzing Regression Test Selection Techniques, IEEE Transactions on Software Engineering, v.22 n.8, p.529-551, August 1996[doi>10.1109/32.536955]
+Stephen R. Schach, Software engineering, Aksen Associates, Pacific Palisades, CA, 1990
+David Sharon, Meeting the Challenge of Software Maintenance, IEEE Software, v.13 n.1, p.122-126, January 1996[doi>10.1109/52.476304]
+SHERLUND, B. AND KOREL, B. 1991. Modification oriented software testing. In Conference Proceedings: Quality Week 1991. Software Research Inc., San Francisco, Calif., 1-17.
+SHERLUND, B. AND KOREL, B. 1995. Logical modification oriented software testing. In Proceedings: 12th International Conference on Testing Computer Software. Frontier Technologies, Annapolis, Md.
+TAHA, A. B., THEBAUT, S. M., AND LIU, S.S. 1989. An approach to software fault localization and revalidation based on incremental data flow analysis. In Proceedings of the 13th Annual International Computer Software and Applications Conference. IEEE, New York, 527-534.
+Anneliese von Mayrhauser , Richard T. Mraz , Jeff Walls, Domain Based Regression Testing, Proceedings of the International Conference on Software Maintenance, p.26-35, September 01, 1994
+WHITE, L. J. AND LEUNG, H. K.N. 1992. A firewall concept for both control-flow and dataflow in regression integration testing. In Proceedings of the Conference on Software Maintenance--1992. IEEE, New York, 262-270.
+Lee J. White , Venkatasubramaniam Narayanswamy , Ted Friedman , Marc Kirschenbaum , Paul Piwowarski , Mitsuru Oha, Test Manager: A Regression Testing Tool, Proceedings of the Conference on Software Maintenance, p.338-347, September 01, 1993
+W. Eric Wong , Joseph R. Horgan , Saul London , Aditya P. Mathur, Effect of test set minimization on fault detection effectiveness, Proceedings of the 17th international conference on Software engineering, p.41-50, April 24-28, 1995, Seattle, Washington, USA[doi>10.1145/225014.225018]
+YAU, S. S. AND KISHIMOTO, Z. 1987. A method for revalidating modified programs in the maintenance phase. In COMPSAC '87: The 11th Annual International Computer Software and Applications Conference. IEEE, New York, 272-277.
+ZIEGLER, J., GRASSO, J. M., AND BURGERMEISTER, L.G. 1989. An Ada based real-time closedloop integration and regression test tool. In Proceedings of the Conference on Software Maintenance--1989. IEEE, New York, 81-90.

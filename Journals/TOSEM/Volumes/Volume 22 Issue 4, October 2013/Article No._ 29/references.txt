@@ -1,0 +1,43 @@
+Bayer, U., Kruegel, C., and Kirda, E. 2006. TTAnalyze: A tool for analyzing malware. In Procedings of the 15th European Institute for Computer Antivirus Research Annual Conference (EICAR'06).
+Fabrice Bellard, QEMU, a fast and portable dynamic translator, Proceedings of the annual conference on USENIX Annual Technical Conference, p.41-41, April 10-15, 2005, Anaheim, CA
+Cristian Cadar , Vijay Ganesh , Peter M. Pawlowski , David L. Dill , Dawson R. Engler, EXE: automatically generating inputs of death, Proceedings of the 13th ACM conference on Computer and communications security, October 30-November 03, 2006, Alexandria, Virginia, USA[doi>10.1145/1180405.1180445]
+Brett Daniel , Danny Dig , Kely Garcia , Darko Marinov, Automated testing of refactoring engines, Proceedings of the the 6th joint meeting of the European software engineering conference and the ACM SIGSOFT symposium on The foundations of software engineering, September 03-07, 2007, Dubrovnik, Croatia[doi>10.1145/1287624.1287651]
+DeMott, J. 2006. The evolving art of fuzzing. Def. Con 14.
+Artem Dinaburg , Paul Royal , Monirul Sharif , Wenke Lee, Ether: malware analysis via hardware virtualization extensions, Proceedings of the 15th ACM conference on Computer and communications security, October 27-31, 2008, Alexandria, Virginia, USA[doi>10.1145/1455770.1455779]
+Ferrie, P. 2006. Attacks on virtual machine emulators. Tech. rep., Symantec Advanced Threat Research.
+Garfinkel, T. and Rosenblum, M. 2003. A virtual machine introspection based architecture for intrusion detection. In Proceedings of Network and Distributed Systems Security Symposium (NDSS). The Internet Society, San Diego, CA.
+Godefroid, P., Levin, M. Y., and Molnar, D. 2008. Automated whitebox fuzz testing. In Proceedings of the Network and Distributed System Security Symposium (NDSS). The Internet Society, San Diego, CA.
+Google Inc. 2011. Android emulator. http://code.google.com/android/reference/emulator.html.
+Intel. 2008. Intel 64 and IA-32 Architectures Software Developer's Manual. Intel. Instruction Set Reference.
+Kaksonen, R. 2001. A functional method for assessing protocol implementation security. Tech. rep., VTT Electronics.
+Jack Koziol , David Litchfield , Dave Aitel , Chris Anley , Sinan Eren , Neel Mehta , Riley Hassell, The Shellcoder's Handbook: Discovering and Exploiting Security Holes, John Wiley & Sons, 2004
+Shuvendu K. Lahiri , Kapil Vaswani , C A. R. Hoare, Differential static analysis: opportunities, applications, and challenges, Proceedings of the FSE/SDP workshop on Future of software engineering research, November 07-08, 2010, Santa Fe, New Mexico, USA[doi>10.1145/1882362.1882405]
+Kevin P. Lawton, Bochs: A Portable PC Emulator for Unix/X, Linux Journal, v.1996 n.29es, Sept. 1996
+Lichstein, H. A. 1969. When should you emulate&quest; Datamation 11, 205--210.
+Chi-Keung Luk , Robert Cohn , Robert Muth , Harish Patil , Artur Klauser , Geoff Lowney , Steven Wallace , Vijay Janapa Reddi , Kim Hazelwood, Pin: building customized program analysis tools with dynamic instrumentation, Proceedings of the 2005 ACM SIGPLAN conference on Programming language design and implementation, June 12-15, 2005, Chicago, IL, USA[doi>10.1145/1065010.1065034]
+Peter S. Magnusson , Magnus Christensson , Jesper Eskilson , Daniel Forsgren , Gustav Hållberg , Johan Högberg , Fredrik Larsson , Andreas Moestedt , Bengt Werner, Simics: A Full System Simulation Platform, Computer, v.35 n.2, p.50-58, February 2002[doi>10.1109/2.982916]
+Rupak Majumdar , Koushik Sen, Hybrid Concolic Testing, Proceedings of the 29th international conference on Software Engineering, p.416-426, May 20-26, 2007[doi>10.1109/ICSE.2007.41]
+Lorenzo Martignoni , Roberto Paleari , Giampaolo Fresi Roglia , Danilo Bruschi, Testing CPU emulators, Proceedings of the eighteenth international symposium on Software testing and analysis, July 19-23, 2009, Chicago, IL, USA[doi>10.1145/1572272.1572303]
+Lorenzo Martignoni , Roberto Paleari , Giampaolo Fresi Roglia , Danilo Bruschi, Testing system virtual machines, Proceedings of the 19th international symposium on Software testing and analysis, July 12-16, 2010, Trento, Italy[doi>10.1145/1831708.1831730]
+Lorenzo Martignoni , Elizabeth Stinson , Matt Fredrikson , Somesh Jha , John C. Mitchell, A Layered Architecture for Detecting Malicious Behaviors, Proceedings of the 11th international symposium on Recent Advances in Intrusion Detection, September 15-17, 2008, Cambridge, MA, USA[doi>10.1007/978-3-540-87403-4_5]
+McKeeman, W. M. 1998. Differential testing for software. Digital Tech. J. 10, 1, 100--107.
+Barton P. Miller , Louis Fredriksen , Bryan So, An empirical study of the reliability of UNIX utilities, Communications of the ACM, v.33 n.12, p.32-44, Dec. 1990[doi>10.1145/96267.96279]
+Glenford J. Myers, Art of Software Testing, John Wiley & Sons, Inc., New York, NY, 1979
+netbsd64 2011. NetBSD/amd64. http://www.netbsd.org/ports/amd64/.
+Nethercote, N. 2004. Dynamic binary analysis and instrumentation. Ph.D. thesis, Computer Laboratory, University of Cambridge, UK.
+Oberheide, J. and Miller, C. 2012. Dissecting the Android bouncer. SummerCon, Brooklyn, NY. http://jon. oberheide.org/files/summercon12-bouncer.pdf.
+Ormandy, T. 2007. An empirical study into the security exposure to host of hostile virtualized environments. In Proceedings of CanSecWest Applied Security Conference.
+Roberto Paleari , Lorenzo Martignoni , Giampaolo Fresi Roglia , Danilo Bruschi, N-version disassembly: differential testing of x86 disassemblers, Proceedings of the 19th international symposium on Software testing and analysis, July 12-16, 2010, Trento, Italy[doi>10.1145/1831708.1831741]
+Paleari, R., Martignoni, L., Reina, A., Fresi Roglia, G., and Bruschi, D. 2011. EmuFuzzer Red-Pills Archive. http://security.di.unimi.it/emufuzzer.html.
+Suzette Person , Matthew B. Dwyer , Sebastian Elbaum , Corina S. Pǎsǎreanu, Differential symbolic execution, Proceedings of the 16th ACM SIGSOFT International Symposium on Foundations of software engineering, November 09-14, 2008, Atlanta, Georgia[doi>10.1145/1453101.1453131]
+Preston, I., Newman, R., and Tseng, J. 2007. JPC: The pure Java × 86 PC emulator. http://jpc.sourceforge.net/home_home.html.
+Quist, D. and Smith, V. 2006. Detecting the presence of virtual machines using the local data table. Offensive Computing. http://www.offensivecomputing.net/files/active/0.vm.pdf.
+Thomas Raffetseder , Christopher Kruegel , Engin Kirda, Detecting system emulators, Proceedings of the 10th international conference on Information Security, October 09-12, 2007, Valparaíso, Chile
+John Scott Robin , Cynthia E. Irvine, Analysis of the Intel Pentium's ability to support a secure virtual machine monitor, Proceedings of the 9th conference on USENIX Security Symposium, p.10-10, August 14-17, 2000, Denver, Colorado
+Rutkowska, J. 2004. Red Pill… or how to detect VMM using (almost) one CPU instruction. http://www.ouah.org/Red_&percnt;20Pill.html.
+Raul Santelices , Mary Jean Harrold, Exploiting program dependencies for scalable multiple-path symbolic execution, Proceedings of the 19th international symposium on Software testing and analysis, July 12-16, 2010, Trento, Italy[doi>10.1145/1831708.1831733]
+Koushik Sen , Darko Marinov , Gul Agha, CUTE: a concolic unit testing engine for C, Proceedings of the 10th European software engineering conference held jointly with 13th ACM SIGSOFT international symposium on Foundations of software engineering, September 05-09, 2005, Lisbon, Portugal[doi>10.1145/1081706.1081750]
+Sun Microsystem. 2011. VirtualBox. http://www.virtualbox.org.
+Michael Sutton , Adam Greene , Pedram Amini, Fuzzing: Brute Force Vulnerability Discovery, Addison-Wesley Professional, 2007
+Kunal Taneja , Tao Xie , Nikolai Tillmann , Jonathan de Halleux, eXpress: guided path exploration for efficient regression test generation, Proceedings of the 2011 International Symposium on Software Testing and Analysis, July 17-21, 2011, Toronto, Ontario, Canada[doi>10.1145/2001420.2001422]
+Zhihong Xu , Yunho Kim , Moonzoo Kim , Gregg Rothermel , Myra B. Cohen, Directed test suite augmentation: techniques and tradeoffs, Proceedings of the eighteenth ACM SIGSOFT international symposium on Foundations of software engineering, November 07-11, 2010, Santa Fe, New Mexico, USA[doi>10.1145/1882291.1882330]

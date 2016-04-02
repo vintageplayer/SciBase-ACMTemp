@@ -1,0 +1,1 @@
+We describe the semantics of statecharts as implemented in the STATEMATE system. This was the first executable semantics defined for the language and has been in use for almost a decade. In terms of the controversy around whether changes made in a given step should take effect in the current step or in the next one, this semantics adopts the latter approach.

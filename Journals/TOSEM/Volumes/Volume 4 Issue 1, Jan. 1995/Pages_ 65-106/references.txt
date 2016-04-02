@@ -1,0 +1,57 @@
+Gregory R. Andrews, Concurrent programming: principles and practice, Benjamin-Cummings Publishing Co., Inc., Redwood City, CA, 1991
+Krzysztof R. Apt, A Static Analysis of CSP Programs, Proceedings of the Carnegie Mellon Workshop on Logic of Programs, p.1-17, June 06-08, 1983
+G S Avrunin , L K Dillon , J C Wileden , W E Riddle, Constrained expressions: Adding analysis capabilities to design methods for concurrent software systems, IEEE Transactions on Software Engineering, v.12 n.2, p.278-292, Feb. 1986
+J. C. M. Baeten , R. J. van Glabbeek, Another look at abstraction in process algebra, 14th International Colloquium on Automata, languages and programming, p.84-94, July 1987, Karlsruhe, Germany
+~BERGSTRA, J. A. AND KLOP, J.W. 1984. Process algebra for synchronous communication. Inf. ~Control 60, 109-137.
+S. D. Brookes , C. A. R. Hoare , A. W. Roscoe, A Theory of Communicating Sequential Processes, Journal of the ACM (JACM), v.31 n.3, p.560-599, July 1984[doi>10.1145/828.833]
+R. J. A. Buhr, System design with Ada, Prentice-Hall, Inc., Upper Saddle River, NJ, 1984
+~BURCFC, J. R., CLARKE, E. M., McMmLAN, K. L., DILL, D. L., AND HWANa, L.J. 1990. Symbolic ~model checking: 1020 states and beyond. In Proceedings of the 5th Annual Symposium on Logic ~in Computer Science. IEEE Computer Society Press, Los Alamitos, Calif., 428-439.
+E. M. Clarke , M. C. Browne , E. A. Emersonn , A. P. Sistla, Using temporal logic for automatic verification of finite state systems, Logics and models of concurrent systems, Springer-Verlag New York, Inc., New York, NY, 1989
+E. M. Clarke , E. A. Emerson , A. P. Sistla, Automatic verification of finite-state concurrent systems using temporal logic specifications, ACM Transactions on Programming Languages and Systems (TOPLAS), v.8 n.2, p.244-263, April 1986[doi>10.1145/5397.5399]
+Rance Cleaveland , Joachim Parrow , Bernhard Steffen, A Semantics Based Verification Tool for Finite State Systems, Proceedings of the IFIP WG6.1 Ninth International Symposium on Protocol Specification, Testing and Verification IX, p.287-302, June 06-09, 1989
+Laura K. Dillon , George S. Avrunin , Jack C. Wileden, Constrained expressions: toward broad applicability of analysis methods for distributed software systems, ACM Transactions on Programming Languages and Systems (TOPLAS), v.10 n.3, p.374-402, July 1988[doi>10.1145/44501.44502]
+Jean-Claude Fernandez , Hubert Garavel , Laurent Mounier , Anne Rasse , Carlos Rodriguez , Joseph Sifakis, A toolbox for the verification of LOTOS programs, Proceedings of the 14th international conference on Software engineering, p.246-259, May 11-15, 1992, Melbourne, Australia[doi>10.1145/143062.143124]
+~FORESTER, K. 1991. IRIS-Ada reference manual. Arcadia Tech. Rep. UM-90-07, Univ. of ~Massachusetts, Amherst, Mass.
+Patrice Godefroid , Gerard J. Holzmann , Didier Pirottin, State-Space Caching Revisited, Proceedings of the Fourth International Workshop on Computer Aided Verification, p.178-191, June 29-July 01, 1992
+David P. Helmbold , Charles E. McDowell, Computing reachable states of parallel programs, ACM SIGPLAN Notices, v.26 n.12, p.76-84, Dec. 1991[doi>10.1145/127695.122766]
+Matthew Hennessy, Algebraic theory of processes, MIT Press, Cambridge, MA, 1988
+~HmFINGER, P.N. 1982. Implementation strategSes for Ada tasking idioms In Proceedings of ~the AdaTEC Conference on Ada. ACM, New York, 26-30.
+C. A. R. Hoare, Monitors: an operating system structuring concept, Communications of the ACM, v.17 n.10, p.549-557, Oct. 1974[doi>10.1145/355620.361161]
+Gerard J. Holzmann, Design and validation of computer protocols, Prentice-Hall, Inc., Upper Saddle River, NJ, 1990
+Paris C. Kanellakis , Scott A. Smolka, CCS expressions finite state processes, and three problems of equivalence, Information and Computation, v.86 n.1, p.43-68, May 1990[doi>10.1016/0890-5401(90)90025-D]
+Rudolf K. Keller , Mary Cameron , Richard N. Taylor , Dennis B. Troup, User interface development and software environments: the Chiron-1 system, Proceedings of the 13th international conference on Software engineering, p.208-218, May 13-17, 1991, Austin, Texas, United States
+Richard E. Ladner, The complexity of problems in systems of communicating sequential processes (Extended Abstract), Proceedings of the eleventh annual ACM symposium on Theory of computing, p.214-223, April 30-May 02, 1979, Atlanta, Georgia, United States[doi>10.1145/800135.804415]
+~LAM, S. S. AND SHANKAR, A.U. 1984. Protocol verification via projections. IEEE Trans. Softw. ~Eng. SE-IO, 4 (July), 325-342.
+T. J. LeBlanc , J. M. Mellor-Crummey, Debugging parallel programs with instant replay, IEEE Transactions on Computers, v.36 n.4, p.471-482, April 1987[doi>10.1109/TC.1987.1676929]
+Douglas L. Long , Lori A. Clarke, Task interaction graphs for concurrency analysis, Proceedings of the 11th international conference on Software engineering, p.44-52, May 1989, Pittsburgh, Pennsylvania, United States[doi>10.1145/74587.74592]
+Douglas Long , Lori A. Clarke, Data flow analysis of concurrent systems that use the rendezvous model of synchronization, Proceedings of the symposium on Testing, analysis, and verification, p.21-35, October 08-10, 1991, Victoria, British Columbia, Canada[doi>10.1145/120807.120810]
+D. Mandrioli , R. Zicari , C. Ghezzi , F. Tisato, Modeling the ADA task system by Petri nets, Computer Languages, v.10 n.1, p.43-61, 1985[doi>10.1016/0096-0551(85)90010-4]
+Stephen P. Masticola, Static detection of deadlocks in polynomial time, Rutgers University, New Brunswick, NJ, 1993
+Stephen P. Masticola , Barbara G. Ryder, A model of Ada programs for static deadlock detection in polynomial times, ACM SIGPLAN Notices, v.26 n.12, p.97-107, Dec. 1991[doi>10.1145/127695.122768]
+Charles E. McDowell, A practical algorithm for static analysis of parallel programs, Journal of Parallel and Distributed Computing, v.6 n.3, p.515-536, June 1989[doi>10.1016/0743-7315(89)90004-X]
+R. Milner, Communication and concurrency, Prentice-Hall, Inc., Upper Saddle River, NJ, 1989
+E. Timothy Morgan , Rami R. Razouk, Interactive state-space analysis of concurrent systems, IEEE Transactions on Software Engineering, v.13 n.10, p.1080-1091, October 1, 1987[doi>10.1109/TSE.1987.232850]
+James Lyle Peterson, Petri Net Theory and the Modeling of Systems, Prentice Hall PTR, Upper Saddle River, NJ, 1981
+~RAITHER, B., CAILLET, J.-F., AND DE SEZE, P. 1990. IDEFIX: A tool for debugging Ada tasks in a ~real-time environment. Technique et Science Informatiques 9, 2, 150-156.
+Christophe Ratel , Nicolas Halbwachs , Pascal Raymond, Programming and verifying critical systems by means of the synchronous data-flow language LUSTRE, Proceedings of the conference on Software for citical systems, p.112-119, December 04-06, 1991, New Orleans, Louisiana, United States[doi>10.1145/125083.123062]
+~RAZOUK, R.R. 1987. A guided tour of P-NUT. Tech. Rep. 86-25, Univ. of California, Irvine, ~Calif.
+S. M. Shatz , K. Mai , C. Black , S. Tu, Design and Implementation of a Petri Net Based Toolkit for Ada Tasking Analysis, IEEE Transactions on Parallel and Distributed Systems, v.1 n.4, p.424-441, October 1990[doi>10.1109/71.80172]
+Scott Allen Smolka, Analysis of communicating finite-state processes, 1984
+~SUNSt~INE, C. A., (ED.). 1981. Communication Protocol Modeling. Artech House, Dedham, ~Mass.
+Kuo-Chung Tai , Richard H. Carver , Evelyn E. Obaid, Debugging Concurrent Ada Programs by Deterministic Execution, IEEE Transactions on Software Engineering, v.17 n.1, p.45-63, January 1991[doi>10.1109/32.67578]
+~TAYLOR, R.N. 1983a. Complexity of analyzing the synchronization structure of concurrent ~programs. Acta Informatica 19, 57-84.
+Richard N. Taylor, A general-purpose algorithm for analyzing concurrent programs, Communications of the ACM, v.26 n.5, p.361-376, May 1983[doi>10.1145/69586.69587]
+~TAYLOR, R.N. 1984. Debugging real-time software in a host-target environment. Technique et ~Sctence Informatiques 3, 4, 281-288.
+Richard N. Taylor , Gregory F. Johnson, Separations of concerns in the Chiron-1 user interface development and management system, Proceedings of the SIGCHI conference on Human factors in computing systems, p.367-374, April 24-29, 1993, Amsterdam, The Netherlands[doi>10.1145/169059.169294]
+Richard N. Taylor , David L. Levine , Cheryl D. Kelly, Structural Testing of Concurrent Programs, IEEE Transactions on Software Engineering, v.18 n.3, p.206-215, March 1992[doi>10.1109/32.126769]
+Antti Valmari, A Stubborn Attack On State Explosion, Proceedings of the 2nd International Workshop on Computer Aided Verification, p.156-165, June 18-21, 1990
+~WAMPLER, G.K. 1985. Static concurrency analysis of Ada programs. Master's thesis, Univ. of ~California, Irvine, Calif.
+~WEISS, S. N. 1988. A formal framework for the study of concurrent program testing. In ~Proceedings of the 2nd Workshop on Software Testing, Verification, and Analysis (Banff, ~Canada, July). ACM/SIGSOFT and IEEE-CS Software Engineering Technical Committee.
+Jack C. Wileden , Alexander L. Wolf , Charles D. Fisher , Peri L. Tarr, Pgraphite: an experiment in persistent typed object management, Proceedings of the third ACM SIGSOFT/SIGPLAN software engineering symposium on Practical software development environments, p.130-142, November 28-30, 1988, Boston, Massachusetts, United States[doi>10.1145/64135.65016]
+~YES, W.J. 1993. Controlling state explosion in teachability analysis. Ph.D. thesis, Dept. of ~Computer Sciences, Purdue Univ., West Lafayette, Ind.
+Wei Jen Yeh , Michal Young, Compositional reachability analysis using process algebra, Proceedings of the symposium on Testing, analysis, and verification, p.49-59, October 08-10, 1991, Victoria, British Columbia, Canada[doi>10.1145/120807.120812]
+~YEH, W. J. AND YOUNG, M. 1993. Compositional reachability analysis of Ada programs using ~process algebra. Tech. Rep., Software Engineering Research Center, Dept. of Computer Sci- ~ences, Purdue Univ., West Lafayette, Ind.
+~YEH, W. J. AND YOUNG, M. 1994. Redesigning tasking structures of Ada programs for analysis: ~A case study. Softw. Testzng Verif. Reliab. 4, 223-253.
+~YOUNG, M. 1988. How to leave out details: Error-preserving abstractions of state-space mod- ~els. In Procee&ngs of the 2nd Workshop on Software Testing, Verification, and Analysis ~(Banff, Canada, July). 63 70.
+M. Young , R. M. Taylor, Combining Static Concurrency Analysis with Symbolic Execution, IEEE Transactions on Software Engineering, v.14 n.10, p.1499-1511, October 1988[doi>10.1109/32.6195]
+M. Young , R. Taylor , K. Forester , D. Brodbeck, Integrated concurrency analysis in a software development enviornment, ACM SIGSOFT Software Engineering Notes, v.14 n.8, p.200-209, Dec. 1989[doi>10.1145/75309.75331]

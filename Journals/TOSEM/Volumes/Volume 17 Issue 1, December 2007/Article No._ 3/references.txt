@@ -1,0 +1,60 @@
+Alur, D., Crupi, J., and Malks, D. 2003. Core J2EE Patterns. Sun Microsystems, Inc., USA.
+AspectJ Team. 2003. The AspectJ Programming Guide. Palo Alto Research Center. Version 1.2.
+Lodewijk Bergmans , Mehmet Aksit, Composing crosscutting concerns using composition filters, Communications of the ACM, v.44 n.10, p.51-57, Oct. 2001[doi>10.1145/383845.383857]
+Ted J. Biggerstaff , Bharat G. Mitbander , Dallas E. Webster, Program understanding and the concept assignment problem, Communications of the ACM, v.37 n.5, p.72-82, May 1994[doi>10.1145/175290.175300]
+Dave Binkley , Mariano Ceccato , Mark Harman , Filippo Ricca , Paolo Tonella, Automated Refactoring of Object Oriented Code into Aspects, Proceedings of the 21st IEEE International Conference on Software Maintenance, p.27-36, September 25-30, 2005[doi>10.1109/ICSM.2005.27]
+Silvia Breu , Jens Krinke, Aspect Mining Using Event Traces, Proceedings of the 19th IEEE international conference on Automated software engineering, p.310-315, September 20-24, 2004[doi>10.1109/ASE.2004.12]
+Silvia Breu , Thomas Zimmermann, Mining Aspects from Version History, Proceedings of the 21st IEEE/ACM International Conference on Automated Software Engineering, p.221-230, September 18-22, 2006[doi>10.1109/ASE.2006.50]
+Lionel C. Briand , John W. Daly , Jürgen K. Wüst, A Unified Framework for Coupling Measurement in Object-Oriented Systems, IEEE Transactions on Software Engineering, v.25 n.1, p.91-121, January 1999[doi>10.1109/32.748920]
+Magiel Bruntink , Arie van Deursen , Remco van Engelen , Tom Tourwe, On the Use of Clone Detection for Identifying Crosscutting Concern Code, IEEE Transactions on Software Engineering, v.31 n.10, p.804-818, October 2005[doi>10.1109/TSE.2005.114]
+M. Ceccato , M. Marin , K. Mens , L. Moonen , P. Tonella , T. Tourwé, Applying and combining three different aspect Mining Techniques, Software Quality Control, v.14 n.3, p.209-231, September 2006[doi>10.1007/s11219-006-9217-3]
+Colyer, A., Clement, A., Harley, G., and Webster, M. 2005. Eclipse AspectJ. Pearson Education, Inc., NJ.
+Stephen G. Eick , Joseph L. Steffen , Eric E. Sumner, Jr., Seesoft-A Tool for Visualizing Line Oriented Software Statistics, IEEE Transactions on Software Engineering, v.18 n.11, p.957-968, November 1992[doi>10.1109/32.177365]
+Rudolf Ferenc , Arpad Beszedes , Lajos Fulop , Janos Lele, Design Pattern Mining Enhanced by Machine Learning, Proceedings of the 21st IEEE International Conference on Software Maintenance, p.295-304, September 25-30, 2005[doi>10.1109/ICSM.2005.40]
+Fowler, M. 2004. Inversion of control containers and the dependency injection pattern. http://martinfowler.com/articles/injection.html.
+Refactoring: improving the design of existing code, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1999
+Erich Gamma , Richard Helm , Ralph Johnson , John Vlissides, Design patterns: elements of reusable object-oriented software, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1995
+Goetz, B. 2004. Garbage collection and performance. IBM developersWorks articles. www-136.ibm.com/developerworks/java/.
+Joseph D. Gradecki , Nicholas Lesiecki, Mastering AspectJ: Aspect-Oriented Programming in Java, John Wiley & Sons, Inc., New York, NY, 2003
+William G. Griswold , Jimmy J. Yuan , Yoshikiyo Kato, Exploiting the map metaphor in a tool for software evolution, Proceedings of the 23rd International Conference on Software Engineering, p.265-274, May 12-19, 2001, Toronto, Ontario, Canada
+Gybels, K. and Kellens, A. 2005. Experiences with identifying aspects in smalltalk using unique methods. In Proceedings of the AOSD Workshop on Linking Aspect Technology and Evolution (LATE). CWI, Amsterdam, The Netherlands.
+Hannemann, J. and Kiczales, G. 2001. Overcoming the prevalent decomposition of legacy code. In Proceedings of the ICSE Workshop on Advanced Separation of Concerns. IBM Research, New York.
+Jan Hannemann , Gregor Kiczales, Design pattern implementation in Java and aspectJ, Proceedings of the 17th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, November 04-08, 2002, Seattle, Washington, USA[doi>10.1145/582419.582436]
+Harrison, W., Ossher, H., Sutton S. M., Jr., and Tarr, P. 2004. Concern modeling in the concern manipulation environment. In IBM Research Report RC23344. IBM Thomas J. Watson Research Center, Yorktown Heights, NY.
+Henderson-Sellers, B., Constantine, L. L., and Graham, I. M. 1996. Coupling and cohesion (towards a valid metrics suite for object-oriented analysis and design). Obj. Orient. Syst. 3, 143--158.
+S. Henry , D. Kafura, Software Structure Metrics Based on Information Flow, IEEE Transactions on Software Engineering, v.7 n.5, p.510-518, September 1981[doi>10.1109/TSE.1981.231113]
+Doug Janzen , Kris De Volder, Navigating and querying code without getting lost, Proceedings of the 2nd international conference on Aspect-oriented software development, p.178-187, March 17-21, 2003, Boston, Massachusetts[doi>10.1145/643603.643622]
+Johnson, R. 2003. J2EE Design and Development. Wiley Publishing, Indianapolis, IN.
+Rainer Koschke , Jochen Quante, On dynamic feature location, Proceedings of the 20th IEEE/ACM international Conference on Automated software engineering, November 07-11, 2005, Long Beach, CA, USA[doi>10.1145/1101908.1101923]
+Jens Krinke, Mining Control Flow Graphs for Crosscutting Concerns, Proceedings of the 13th Working Conference on Reverse Engineering, p.334-342, October 23-27, 2006[doi>10.1109/WCRE.2006.37]
+Ramnivas Laddad, Aspect Oriented Refactoring, Addison-Wesley Professional, 2006
+Ramnivas Laddad, AspectJ in Action: Practical Aspect-Oriented Programming, Manning Publications Co., Greenwich, CT, 2003
+Martin Lippert , Cristina Videira Lopes, A study on exception detection and handling using aspect-oriented programming, Proceedings of the 22nd international conference on Software engineering, p.418-427, June 04-11, 2000, Limerick, Ireland[doi>10.1145/337180.337229]
+Marin, M. 2004. Refactoring JHotDraw's Undo concern to AspectJ. In Proceedings of the WCRE Workshop on Aspect Reverse Engineering (WARE). CWI, Amsterdam, The Netherlands.
+Marius Marin , Arie van Deursen , Leon Moonen, Identifying Aspects Using Fan-In Analysis, Proceedings of the 11th Working Conference on Reverse Engineering, p.132-141, November 08-12, 2004
+Marin, M., van Deursen, A., and Moonen, L. 2004b. Identifying aspects using fan-in analysis. Tech. Rep. SEN-R0413, CWI.
+Marin, M., Moonen, L., and van Deursen, A. 2005. A systematic aspect-oriented testing and refactoring process, and its application to JHotDraw. Tech. Rep. SEN-R0507, CWI.
+Marius Marin , Leon Moonen , Arie van Deursen, A common framework for aspect mining based on crosscutting concern sorts, Proceedings of the 13th Working Conference on Reverse Engineering, p.29-38, October 23-27, 2006[doi>10.1109/WCRE.2006.6]
+Ali Mesbah , Arie van Deursen, Crosscutting Concerns in J2EE Applications, Proceedings of the Seventh IEEE International Symposium on Web Site Evolution, p.14-21, September 26-26, 2005[doi>10.1109/WSE.2005.4]
+Monteiro, M. 2004. Catalogue of refactorings for AspectJ. Tech. Rep. UM-DI-GECSD-200401, Universidade do Minho.
+Matthew Moodie, Pro Jakarta Tomcat 5, Apress, Berkely, CA, 2004
+Murali, T., Pawlak, R., and Younessi, H. 2004. Applying aspect orientation to J2EE business tier patterns. In Proceedings of the 3rd AOSD Workshop on Aspects, Components, and Patterns for Infrastructure Software (ACP4IS), Y. Coady and D. Lorenz, Eds. University of Victoria, Victoria, Canada.
+Murphy, G. C., Griswold, W. G., Robillard, M. P., Hannemann, J., and Leong, W. 2005. Design recommendations for concern elaboration tools. In Aspect-Oriented Software Development, R. E. Filman, T. Elrad, S. Clarke, and M. Ak sit, Eds. Addison-Wesley, Boston, 507--530.
+Charles Rich , Linda M. Wills, Recognizing a Program's Design: A Graph-Parsing Approach, IEEE Software, v.7 n.1, p.82-89, January 1990[doi>10.1109/52.43053]
+Martin P. Robillard , Gail C. Murphy, Concern graphs: finding and describing concerns using structural program dependencies, Proceedings of the 24th International Conference on Software Engineering, May 19-25, 2002, Orlando, Florida[doi>10.1145/581339.581390]
+Shepherd, D., Gibson, E., and Pollock, L. 2004. Design and evaluation of an automated aspect mining tool. In Software Engineering Research and Practice. CSREA Press, Las Vegas, NV, 601--607.
+David Shepherd , Jeffrey Palm , Lori Pollock , Mark Chu-Carroll, Timna: a framework for automatically combining aspect mining analyses, Proceedings of the 20th IEEE/ACM international Conference on Automated software engineering, November 07-11, 2005, Long Beach, CA, USA[doi>10.1145/1101908.1101937]
+Ian Sommerville, Software Engineering (7th Edition), Pearson Addison Wesley, 2004
+Sutton, S. M. and Rouvellou, I. 2005. Concern modeling for aspect-oriented software development. In Aspect-Oriented Software Development, R. E. Filman, T. Elrad, S. Clarke, and M. Ak sit, Eds. Addison-Wesley, Boston, Chapter 21, 479--505.
+Tarr, P., Harrison, W., and Ossher, H. 2004. Pervasive Query Support in the Concern Manipulation Environment. Tech. Rep. RC23343 (W0409-135), IBM Research.
+Paolo Tonella , Mariano Ceccato, Aspect Mining through the Formal Concept Analysis of Execution Traces, Proceedings of the 11th Working Conference on Reverse Engineering, p.112-121, November 08-12, 2004
+Paolo Tonella , Mariano Ceccato, Migrating Interface Implementation to Aspects, Proceedings of the 20th IEEE International Conference on Software Maintenance, p.220-229, September 11-14, 2004
+Tom Tourwe , Kim Mens, Mining Aspectual Views using Formal Concept Analysis, Proceedings of the Source Code Analysis and Manipulation, Fourth IEEE International Workshop, p.97-106, September 15-16, 2004[doi>10.1109/SCAM.2004.14]
+van Deursen, A., Marin, M., and Moonen, L. 2005. AJHotDraw: A showcase for refactoring to aspects. In Proceedings of the AOSD Workshop on Linking Aspects and Evolution (LATE05). CWI, Amsterdam, The Netherlands.
+Arie van Deursen , Alex Quilici , Steve Woods, Program plan recognition for year 2000 tools, Science of Computer Programming, v.36 n.2-3, p.303-324, March 2000[doi>10.1016/S0167-6423(99)00040-4]
+Vickers, P. 2002. Why finalizers should (and can) be avoided. IBM developersWorks articles. www-136.ibm.com/developerworks/java/.
+Norman Wilde , Michael C. Scully, Software reconnaissance: mapping program features to code, Journal of Software Maintenance: Research and Practice, v.7 n.1, p.49-62, Jan.-Feb. 1995[doi>10.1002/smr.4360070105]
+L. M. Wills, Automated program recognition: a feasibility demonstration, Artificial Intelligence, v.45 n.1-2, p.113-171, Sep. 1990[doi>10.1016/0004-3702(90)90039-3]
+Xinrong Xie , Denys Poshyvanyk , Andrian Marcus, 3D visualization for concept location in source code, Proceedings of the 28th international conference on Software engineering, May 20-28, 2006, Shanghai, China[doi>10.1145/1134285.1134428]
+Charles Zhang , Hans-Arno. Jacobsen, Quantifying aspects in middleware platforms, Proceedings of the 2nd international conference on Aspect-oriented software development, p.130-139, March 17-21, 2003, Boston, Massachusetts[doi>10.1145/643603.643617]
+Charles Zhang , Hans-Arno Jacobsen, PRISM is research in aSpect mining, Companion to the 19th annual ACM SIGPLAN conference on Object-oriented programming systems, languages, and applications, October 24-28, 2004, Vancouver, BC, CANADA[doi>10.1145/1028664.1028676]
