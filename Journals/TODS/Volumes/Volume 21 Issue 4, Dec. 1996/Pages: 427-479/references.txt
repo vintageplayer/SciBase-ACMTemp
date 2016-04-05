@@ -1,0 +1,14 @@
+Philip A. Bernstein , Vassco Hadzilacos , Nathan Goodman, Concurrency control and recovery in database systems, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1987
+Alan Feteke, Formal Models of Communication Services: A Case Study, Computer, v.26 n.8, p.37-47, August 1993[doi>10.1109/2.223535]
+Alan Fekete , Nancy Lynch , Michael Merritt , William Weihl, Commutativity-based locking for nested transactions, Journal of Computer and System Sciences, v.41 n.1, p.65-156, August 1990[doi>10.1016/0022-0000(90)90034-I]
+Jim Gray , Andreas Reuter, Transaction Processing: Concepts and Techniques, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1992
+Vassos Hadzilacos, A theory of reliability in database systems, Journal of the ACM (JACM), v.35 n.1, p.121-145, Jan. 1988[doi>10.1145/42267.42272]
+Theo Haerder , Andreas Reuter, Principles of transaction-oriented database recovery, ACM Computing Surveys (CSUR), v.15 n.4, p.287-317, December 1983[doi>10.1145/289.291]
+Dean Kuo, Model and Verification of a Data Manager Based on ARIES, Proceedings of the 4th International Conference on Database Theory, p.231-245, October 14-16, 1992
+KUO, D. 1992b. Model and verification of a data manager based on ARIES. Tech. Rep. SSRC ~22.3, Basser Dept. of Computer Science, Univ. of Sydney, Sydney, Australia.
+~KUO,D.AND FEKETE, A. 1992. Model and verification of a data manager. In Proceedings of ~the 15th Australian Computer Science Conference.
+~KUO,D.AND FEKETE, A. 1994. Verification of a recovery algorithm using WAL. Tech. Rep. ~292 (Feb.), Dept. of Computer Science, Univ. of Queensland, St Lucia, Australia.
+~LYNCH, N., MERRITT, M., WEIHL, W., AND FEKETE, A. 1993. Atomic Transactions. Morgan-Kaufmann, ~San Mateo, CA.
+Nancy A. Lynch , Mark R. Tuttle, Hierarchical correctness proofs for distributed algorithms, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.137-151, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41852]
+C. Mohan , Don Haderle , Bruce Lindsay , Hamid Pirahesh , Peter Schwarz, ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging, ACM Transactions on Database Systems (TODS), v.17 n.1, p.94-162, March 1992[doi>10.1145/128765.128770]
+P. Selinger, Chickens and eggs—the interrelationship of systems and theory, Proceedings of the sixth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.250-253, March 23-25, 1987, San Diego, California, United States[doi>10.1145/28659.28686]

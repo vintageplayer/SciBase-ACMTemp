@@ -1,0 +1,44 @@
+S. Abiteboul and N. Bidoit. 1986. Non first normal form relations: An algebra allowing data restructuring. J. Comput. Syst. Sci. 33, 3, 361--393.
+S. Abiteboul, R. Hull, and V. Vianu. 1995. Foundations of Databases. Addison-Wesley.
+S. Agrawal, V. Narasayya, and B. Yang. 2004. Integrating vertical and horizontal partitioning into automated physical database design. In Proceedings of the ACM SIGMOD International Conference on Management of Data (SIGMOD'04). 359--370.
+A. Atserias, M. Grohe, and D. Marx. 2008. Size bounds and query plans for relational joins. In Proceedings of the 49thAnnual IEEE Symposium on Foundations of Computer Science (FOCS'08). 739--748.
+G. Bagan, A. Durand, and E. Grandjean. 2007. On acyclic conjunctive queries and constant delay enumeration. In Proceedings of the 21stInternational Workshop on Computer Science Logic (CSL'07). Lecture Notes in Computer Science, vol. 4646. Springer, 208--222.
+N. Bakibayev, T. Kočiský, D. Olteanu, and J. Závodný. 2013. Aggregation and ordering in factorized databases. Proc. VLDB Endow. 6, 14, 1990--2001.
+N. Bakibayev, D. Olteanu, and J. Závodný. 2012. FDB: A query engine for factorised relational databases. Proc. VLDB Endow. 5, 11, 1232--1243.
+F. Bancilhon, P. Richard, and M. Scholl. 1982. On line processing of compacted relations. In Proceedings of the 8thInternational Conference on Very Large Data Bases (VLDB'82). 263--269.
+D. S. Batory. 1979. On searching transposed files. ACM Trans. Database Syst. 4, 4, 531--544.
+P. A. Boncz, S. Manegold, and M. L. Kersten. 1999. Database architecture optimized for the new bottleneck: Memory access. In Proceedings of the 25thInternational Conference on Very Large Data Bases (VLDB'99). 54--65.
+R. K. Brayton. 1987. Factoring logic functions. IBM J. Res. Devel. 31, 2, 187--198.
+D. Buchfuhrer and C. Umans. 2008. The complexity of Boolean formula minimization. In Proceedings of the 35thInternational Colloquium on Automata, Languages and Programming (ICALP'08). 24--35.
+K. Cattell, M. J. Dinneen, and M. R. Fellows. 1996. A simple linear-time algorithm for finding path-decompositions of small width. Inf. Process. Lett. 57, 4, 197--203.
+L. Cerf, J. Besson, C. Robardet, and J.-F. Boulicaut. 2009. Closed patterns meet n-ary relations. ACM Trans. Knowl. Discov. Data 3, 1, 3.
+H. Chen and M. Grohe. 2010. Constraint satisfaction with succinctly specified relations. J. Comput. Syst. Sci. 76, 8, 847--860.
+P. Cudré-Mauroux, E. Wu, and S. Madden. 2009. The case for Rodentstore: An adaptive, declarative storage system. In Proceedings of the 4thBiennial Conference on Innovative Data Systems Research (CIDR'09).
+N. Dalvi and D. Suciu. 2007. Efficient query evaluation on probabilistic databases. VLDB J. 16, 4, 523--544.
+C. Delobel. 1978. Normalization and hierarchical dependencies in the relational data model. ACM Trans. Database Syst. 3, 3, 201--222.
+F. Geerts, B. Goethals, and T. Mielikäinen. 2004. Tiling databases. In Proceedings of the 7thInternational Conference on Discovery Science (DS'04). Lecture Notes in Computer Science, vol. 3245, Springer, 278--289.
+G. Gottlob. 2012. On minimal constraint networks. Artif. Intell. 191-192, 42--60.
+G. Gottlob, N. Leone, and F. Scarcello. 2000. A comparison of structural CSP decomposition methods. Artif. Intell. 124, 2, 243--282.
+T. J. Green, G. Karvounarakis, and V. Tannen. 2007. Provenance semirings. In Proceedings of the 26thACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems (PODS'07). 31--40.
+M. Grohe and D. Marx. 2006. Constraint solving via fractional edge covers. In Proceedings of the 17thAnnual ACM-SIAM Symposium on Discrete Algorithm (SODA'06). 289--298.
+M. Grund, J. Krüger, H. Plattner, A. Zeier, P. Cudre-Mauroux, and S. Madden. 2010. HYRISE—A main memory hybrid storage engine. Proc. VLDB Endow. 4, 2, 105--116.
+F. Henglein and K. F. Larsen. 2010. Generic multiset programming with discrimination-based joins and symbolic Cartesian products. Higher-Order Symbol. Comput. 23, 3, 337--370.
+T. Imielinski, S. Naqvi, and K. Vadaparty. 1991. Incomplete object-A data model for design and planning applications. In Proceedings of the ACM SIGMOD International Conference on Management of Data (SIGMOD'91). 288--297.
+G. Jaeschke and H. J. Schek. 1982. Remarks on the algebra of non first normal form relations. In Proceedings of the 1stACM SIGACT-SIGMOD Symposium on Principles of Database Systems (PODS'82). 124--138.
+W. Kent. 1983. A simple guide to five normal forms in relational database theory. Comm. ACM 26, 2, 120--125.
+E. Korach and N. Solel. 1993. Tree-width, path-width, and cutwidth. Discr. Appl. Math. 43, 1, 97--101.
+A. Makinouchi. 1977. A consideration on normal form of not-necessarily-normalized relation in the relational data model. In Proceedings of the 3rdInternational Conference on Very Large Data Bases (VLDB'77). Vol. 3. 447--453.
+D. Marx. 2010. Approximating fractional hypertree width. ACM Trans. Algor. 6, 2, 29:1--29:17.
+H. Q. Ngo, D. T. Nguyen, C. Ré, and A. Rudra. 2013. Towards instance optimal join algorithms for data in indexes. http://arxiv.org/abs/1302.0914.
+H. Q. Ngo, E. Porat, C. Ré, and A. Rudra. 2012. Worst-case optimal join algorithms (extended abstract). In Proceedings of the 31stSymposium on Principles of Database Systems (PODS'12). 37--48.
+D. Olteanu and J. Huang. 2008. Using OBDDs for efficient query evaluation on probabilistic databases. In Proceedings of the 2ndInternational Conference on Scalable Uncertainty Management (SUM'08). 326--340.
+D. Olteanu, C. Koch, and L. Antova. 2007. World-set decompositions: Expressiveness and efficient algorithms. In Proceedings of the 11thInternational Conference on Database Theory (ICDT'07). 194--208.
+D. Olteanu and J. Závodný. 2011. On factorisation of provenance polynomials. In Proceedings of the 3rdUSENIX Workshop on the Theory and Practice of Provenance.
+D. Olteanu and J. Závodný. 2012. Factorised representations of query results: Size bounds and readability. In Proceedings of the 15thInternational Conference on Database Theory (ICDT'12). 285--298.
+Z. M. Ozsoyoglu and L.-Y. Yuan. 1987. A new normal form for nested relations. ACM Trans. Database Syst. 12, 1, 111--136.
+J. Pearl. 1989. Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference. Morgan Kaufmann, San Fransisco.
+S. Rendle. 2013. Scaling factorization machines to relational data. Proc. VLDB Endow. 6, 5, 337--348.
+P. Sen, A. Deshpande, and L. Getoor. 2010. Read-once functions and query evaluation in probabilistic databases. Proc. VLDB Endow. 3, 1, 1068--1079.
+J. Shute, R. Vingralek, B. Samwel, B. Handy, C. Whipkey, E. Rollins, M. Oancea, K. Little-Field, D. Menestrina, S. Ellner, J. Cieslewicz, I. Rae, T. Stancescu, and H. Apte. 2013. F1: A distributed SQL database that scales. Proc. VLDB Endow. 6, 11, 1068--1079.
+M. Stonebraker, D. J. Abadi, A. Batkin, X. Chen, M. Cherniack, M. Ferreira, E. Lau, A. Lin, S. Madden, E. O'Neil, P. O'Neil, A. Rasin, N. Tran, and S. Zdonik. 2005. C-store: A column-oriented DBMS. In Proceedings of the 31stInternational Conference on Very Large Data Bases (VLDB'05). 553--564.
+T. L. Veldhuizen. 2014. Triejoin: A simple, worst-case optimal join algorithm. In Proceedings of the 17thInternational Conference on Database Theory (ICDT'14). 96--106.

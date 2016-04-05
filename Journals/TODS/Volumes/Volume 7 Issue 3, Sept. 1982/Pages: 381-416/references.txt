@@ -1,0 +1,35 @@
+TSICHRITZIS, D., AND KLUG, A.C. ANSI/X3/SPARC DBMS Framework. Report of the study group on data base management systems, AFIPS Press, Arlington, Va., 1977.
+ARMSTRONG, W.W. Dependency structures of database relationships. Information Processing 74, North-Holland, Amsterdam, 1974, pp. 580-583.
+Catriel Beeri , Philip A. Bernstein, Computational problems related to the design of normal form relational schemas, ACM Transactions on Database Systems (TODS), v.4 n.1, p.30-59, March 1979[doi>10.1145/320064.320066]
+BEERI, C., BERNSTEIN, P.A., AND GOODMAN, N. A sophisticate's introduction to database normalization theory. In Proc. 4th Int. Conf. on Very Large Databases (Berlin, West Germany, Sept. 1978), 113-124.
+F. Bancilhon , N. Spyratos, Update semantics of relational views, ACM Transactions on Database Systems (TODS), v.6 n.4, p.557-575, Dec. 1981[doi>10.1145/319628.319634]
+CARLSON, C.R., AND ARORA, A.K. The updatability of relational views based on functional dependencies. In Proc. IEEE COMPSAC, IEEE, New York, 1979, pp. 415-420.
+CHAMBERLIN, D.D., GRAY, J.N., AND TRAIGER, I.L. Views, authorization, and locking in a relational database system. In Proc. AFIPS Nat. Computer Conf., Vol. 44, AFIPS Press, Arlington, Va., 1975, pp. 425-430.
+CHAMBERLIN, D.D., ASTRAHAN, M.M., ESWARAN, K.P., GRIFFITHS, P.P., LORIE, R.A., MEHL, J.W., REISNER, P., AND WADS, B.W. SEQUEL 2: A unified approach to data definition, manipulation, and control. IBM J. Res. Dev. (Nov. 1976), 560-575.
+CLEMONS, E.K. An external schema facility to support database update. In Databases, Academic Press, New York, 1978.
+CODD, E.F. Relational completeness of database sublanguages. In Database Systems, Courant Computer Science Symposia 6, R. Rustin, Ed., Prentice-Hall, Englewood-Cliffs, N.J., 1972, pp. 64-98.
+CODD, E.F. Further normalization of the database relational model. In Database Systems, Courant Computer Science Symposia 6, R. Rustin, Ed., Prentice-HaU, Englewood-Cliffs, N.J., 1972, pp. 33-64.
+CODD, E.F. Recent investigations in a relational database system. Information Processing 74, North-Holland, Amsterdam, 1974, pp. 1017-1021.
+CODD, E.F. Understanding relations {Installment #7). FDT Bull. ACM-SIGMOD 7, 3-4 (1975), 23-28.
+E. F. Codd, Extending the database relational model to capture more meaning, ACM Transactions on Database Systems (TODS), v.4 n.4, p.397-434, Dec. 1979[doi>10.1145/320107.320109]
+C. J. Date, An introduction to database systems: vol. I (4th ed.), Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+DAYAL, U. Schema-mapping problems in database systems. Ph.D. dissertation, and Tech. Rep. TR-11-79, Center for Research in Computing Technology, Harvard Univ., Cambridge, Mass., Aug. 1979.
+DAYAL, U., AND BERNSTEIN, P.A. On the updatability of relational views. In Proc. 4th Int. Conf. on Very Large Databases (Berlin, West Germany, Sept. 1978), 368-378.
+DAYAL, U., AND BERNSTEIN, P.A. On the updatability of network views--Extending relational views theory to the Network Model. Inf. Syst. 7, 1 (1982}.
+DROOBY, N. An implementation of the theory of view mappings. M.A. thesis, Univ. of Texas, Austin, May 1981.
+ESWARAN, K.P., AND CHAMBERLIN, D.D. Functional specifications of a subsystem for database integrity. In Proc. 1st Int. Conf. on Very Large Databases (Framingham, Mass.), 1975, pp. 48-68.
+ENDERTON, H.B. A Mathematical Introduction to Logic. Academic Press, New York, 1972.
+Ronald Fagin, A normal form for relational databases that is based on domains and keys, ACM Transactions on Database Systems (TODS), v.6 n.3, p.387-415, Sept. 1981[doi>10.1145/319587.319592]
+FURTADO, A.L., AND SEVCIK, K.C. Permitting updates through views of data bases. Inf. Syst. 4 (1979), 269-283.
+John Guttag, Abstract data types and the development of data structures, Communications of the ACM, v.20 n.6, p.396-404, June 1977[doi>10.1145/359605.359618]
+HAMMER, M.M., AND MCLEOD, D.J. Semantic integrity in a relational database system. In Proc. 1st Int. Conf. on Very Large Databases (Framingham, Mass.), 1975, pp. 25-47.
+HELD, G.D., STONRBRAKER, M.R., AND WONG, E. INGRES--A relational database system. In Proc. AFIPS Nat. Computer Conf., Vol. 44, AFIPS Press, Arlington, Va., 1975, pp. 409-416.
+Anthony Collins Klug, Theory of database mappings., 1978
+Tok-Wang Ling, Improving data base integrity based on functional dependencies., 1978
+OSMAN, I.M. Updating defined relations. In Proc. Nat. Computer Conf. Vol. 48, AFIPS Press, Arlington, Va., June 1979, pp. 733-740.
+P. Paolini , G. Pelagatti, Formal definition of mappings in a data base, Proceedings of the 1977 ACM SIGMOD international conference on Management of data, August 03-05, 1977, Toronto, Ontario, Canada[doi>10.1145/509404.509413]
+PELAGATTI, G., PAOLINI, P:, AND BRACCHI, G. Mapping external views to a common data model. Inf. Syst. 3, 2 (1978), 141-151.
+Lawrence A. Rowe , Kurt A. Shoens, Data abstraction, views and updates in RIGEL, Proceedings of the 1979 ACM SIGMOD international conference on Management of data, May 30-June 01, 1979, Boston, Massachusetts[doi>10.1145/582095.582107]
+SEVCIK, K.C., AND FURTADO, A.L. Complete and compatible sets of update operations. In Int. Conf. on Management of Data (ICMOD), (Milan, italy, June), 1978.
+Michael Stonebraker, Implementation of integrity constraints and views by query modification, Proceedings of the 1975 ACM SIGMOD international conference on Management of data, May 14-16, 1975, San Jose, California[doi>10.1145/500080.500091]
+TODD, S. Automatic constraint maintenance and updating defined relations. Information Processing 77, North-Holland, Amsterdam, 1977, pp. 145-148.

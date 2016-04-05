@@ -1,0 +1,38 @@
+Rakesh Agrawal , Michael J. Carey , Miron Livny, Models for studying concurrency control performance: alternatives and implications, Proceedings of the 1985 ACM SIGMOD international conference on Management of data, p.108-121, May 1985, Austin, Texas, USA[doi>10.1145/318898.318909]
+R. Balter , P. Berard , P. Decitre, Why control of the concurrency level in distributed systems is more fundamental than deadlock management, Proceedings of the first ACM SIGACT-SIGOPS symposium on Principles of distributed computing, p.183-193, August 18-20, 1982, Ottawa, Canada[doi>10.1145/800220.806696]
+Forest Baskett , K. Mani Chandy , Richard R. Muntz , Fernando G. Palacios, Open, Closed, and Mixed Networks of Queues with Different Classes of Customers, Journal of the ACM (JACM), v.22 n.2, p.248-260, April 1975[doi>10.1145/321879.321887]
+BEERI, C., AND OBERMARCK, R. A resource class independent deadlock detection algorithm. In Proceedings of the International Conference on Very Large Data Bases (Cannes, France, Sept. 1981), pp. 166-178.
+Philip A. Bernstein , Nathan Goodman, Concurrency Control in Distributed Database Systems, ACM Computing Surveys (CSUR), v.13 n.2, p.185-221, June 1981[doi>10.1145/356842.356846]
+Michael James Carey, Modeling and evaluation of database concurrency control algorithms, University of California, Berkeley, 1983
+Michael J. Carey , Michael Stonebraker, The Performance of Concurrency Control Algorithms for Database Management Systems, Proceedings of the 10th International Conference on Very Large Data Bases, p.107-118, August 27-31, 1984
+CHAMBERLIN, D. D., BO~CE, R. F., AND TRAIGER, I.L. A deadlock-free scheme for resource allocation in a database environment. In Info. Proc. 74, North-Holland, Amsterdam, 1974, 340-343.
+A. Chesnais , E. Gelenbe , I. Mitrani, On the modeling of parallel access to shared data, Communications of the ACM, v.26 n.3, p.196-202, March 1983[doi>10.1145/358061.358073]
+Joao Eduardo De Rezende Dantas, Performance analysis of distributed database systems, University of California, Los Angeles, 1980
+Peter J. Denning , Jeffrey P. Buzen, The Operational Analysis of Queueing Network Models, ACM Computing Surveys (CSUR), v.10 n.3, p.225-261, Sept. 1978[doi>10.1145/356733.356735]
+DENNING, P. J., KAHN, K. C., LEROUDIER, J., POTIER, D., AND SURI, R. Optimal multiprogramming. Acta In}:. 7, 2 (1976), 197-216.
+DEVOR, C., AND CARLSON, C.a. Structural locking mechanisms and their effect on database management system performance. Inf. Syst. 7, 4 (1982), 345-358.
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+GALLER, B. I., AND BOS, L. A model of transaction blocking in databases. Performance Eval. 3 (1983), 95-122.
+Jim Gray, Notes on Data Base Operating Systems, Operating Systems, An Advanced Course, p.393-481, January 1978
+Jim Gray, A Transaction Model, Proceedings of the 7th Colloquium on Automata, Languages and Programming, p.282-298, July 14-18, 1980
+GRAY, J., HOMAN, P., KORTH, H., AND OBERMARCK, R. A straw man analysis of the probability of waiting and deadlock in a database system. Tech. Rep. RJ3066, IBM Research Lab., San Jose, Calif., Feb. 1981.
+Keki B. Irani , Hing-Lung Lin, Queueing network models for concurrent transaction processing in a database system, Proceedings of the 1979 ACM SIGMOD international conference on Management of data, May 30-June 01, 1979, Boston, Massachusetts[doi>10.1145/582095.582116]
+Werner Kießling , G. Landherr, A Quantitative Comparison of Lockprotocols for Centralized Databases, Proceedings of the 9th International Conference on Very Large Data Bases, p.120-130, October 31-November 02, 1983
+Leonard Kleinrock, Theory, Volume 1, Queueing Systems, Wiley-Interscience, 1975
+Stephen S. Lavenberg, A simple analysis of exclusive and shared lock contention in a database system, Proceedings of the 1984 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.143-148, January 1984[doi>10.1145/800264.809322]
+LIN, W. K., AND NOLTE, J. Performance of two phase locking. In Proceedings of the 6th Berkeley Workshop on Distributed Data Management and Computer Networks (Berkeley, Calif., Feb. 1982), pp. 131-160.
+MITRA, D. Probabilistic models and asymptotic results for concurrent processing with exclusive and non-exclusive locks. SIAM J. Comput. To be published.
+MORRIS, R. J. T., AND WONG, W.S. Performance analysis of locking and optimistic concurrency control algorithms. Tech. Rep., AT&T Bell Lab.
+Rudolf Munz , Gunter Krenz, Concurrency in database systems: a simulation study, Proceedings of the 1977 ACM SIGMOD international conference on Management of data, August 03-05, 1977, Toronto, Ontario, Canada[doi>10.1145/509404.509421]
+D. Potier , Ph. Leblanc, Analysis of locking policies in database management systems, Communications of the ACM, v.23 n.10, p.584-593, Oct. 1980[doi>10.1145/359015.359021]
+Daniel Roland Ries, The effects of concurrency control on the performance of database management systems., University of California, Berkeley, 1979
+Rvu, I. K., AND THOMASIAN, A. Analysis of database performance with dynamic locking. In preparation.
+SEVClK, K.C. Comparison of concurrency control methods using analytic models. In in{o. Proc. 83, R. E. A. Mason, Ed. North-Holland, Amsterdam, 1983, pp. 847-858.
+SHUM, A. W., AND SP|RAKIS, P.G. Performance analysis of concurrency control methods in database systems. Performance 81, F. J. Kylstra, Ed. North-Holland, Amsterdam, 1981, pp. 1- 19.
+SURI, R., AND DIEHL, G.W. A variable buffer-size model and its use in analyzing closed queuing networks with blocking. Submitted for publication.
+Yong Chiang Tay, A mean value performance model for locking in databases, Harvard University, Cambridge, MA, 1984
+TAY, Y. C., GOODMAN, N., AND SUm, R. Performance evaluation of locking in databases: A survey. Tech. Rep. TR 17-84, Aiken Computation Lab., Harvard Univ., Cambridge, Mass., Oct. 1984.
+Y. C. Tay , Rajan Suri , Nathan Goodman, A mean value performance model for locking in databases: the no-waiting case, Journal of the ACM (JACM), v.32 n.3, p.618-651, July 1985[doi>10.1145/3828.3831]
+THOMAS|AN, A. An iterative solution to the queuing network model of a DBMS with dynamic locking. In Proceedings of the 13th Computer Measurement Group Conference (San Diego, Calif., Dec. 1982), pp. 252-261.
+Alexander Thomasian , In Kyung Ryu, A decomposition solution to the queueing network model of the centralized DBMS with static locking, Proceedings of the 1983 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.82-92, August 29-31, 1983, Minneapolis, Minnesota, USA[doi>10.1145/800040.801397]
+S. B. Yao, Approximating block accesses in database organizations, Communications of the ACM, v.20 n.4, p.260-261, April 1977[doi>10.1145/359461.359475]

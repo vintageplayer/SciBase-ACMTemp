@@ -1,0 +1,47 @@
+A. V. Aho , C. Beeri , J. D. Ullman, The theory of joins in relational databases, ACM Transactions on Database Systems (TODS), v.4 n.3, p.297-314, Sept. 1979[doi>10.1145/320083.320091]
+ARMSTRONG, W. 1974. Dependency structures of data base relationships. In Proceedings of the IFIP Congress (Stockholm, Sweden). 580-583.
+Paolo Atzeni , Edward P. F. Chan, Efficient optimization of simple chase join expressions, ACM Transactions on Database Systems (TODS), v.14 n.2, p.212-230, June 1989[doi>10.1145/63500.63520]
+Paolo Atzeni , Valeria De Antonellis, Relational database theory, Benjamin-Cummings Publishing Co., Inc., Redwood City, CA, 1993
+Paolo Atzeni , Nicola M Morfuni, Functional dependencies and constraints on Null values in database relations, Information and Control, v.70 n.1, p.1-31, July 1986[doi>10.1016/S0019-9958(86)80022-5]
+Catriel Beeri , Philip A. Bernstein, Computational problems related to the design of normal form relational schemas, ACM Transactions on Database Systems (TODS), v.4 n.1, p.30-59, March 1979[doi>10.1145/320064.320066]
+Catriel Beeri , Ronald Fagin , David Maier , Mihalis Yannakakis, On the Desirability of Acyclic Database Schemes, Journal of the ACM (JACM), v.30 n.3, p.479-513, July 1983[doi>10.1145/2402.322389]
+BEERI, C. AND HONEYMAN, P. 1981. Preserving functional dependencies. SIAM J. Comput. 10, 647-656.
+Catriel Beeri , Michael Kifer, An integrated approach to logical design of relational database schemes, ACM Transactions on Database Systems (TODS), v.11 n.2, p.134-158, June 1986[doi>10.1145/5922.214291]
+Joachim Biskup , Umeshwar Dayal , Philip A. Bernstein, Synthesizing independent database schemas, Proceedings of the 1979 ACM SIGMOD international conference on Management of data, May 30-June 01, 1979, Boston, Massachusetts[doi>10.1145/582095.582118]
+BISKUP, J., DEMETROVICS, J., LIBKIN, L. O., AND MUCHNIK, I. B. 1991. On relational database schemes having unique minimal key. J. Inf. Process. Cybern. 27, 217-225.
+CODD, E. 1972. Further normalization of the data base relational model. In Data Base Systems, R. Rustin, Ed. Prentice-Hall, Inc., Upper Saddle River, NJ, 33-64.
+E. F. Codd, Extending the database relational model to capture more meaning, ACM Transactions on Database Systems (TODS), v.4 n.4, p.397-434, Dec. 1979[doi>10.1145/320107.320109]
+C. J. Date, An introduction to database systems (7th ed.), Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1999
+C. J. Date , Ronald Fagin, Simple conditions for guaranteeing higher normal forms in relational databases, ACM Transactions on Database Systems (TODS), v.17 n.3, p.465-476, Sept. 1992[doi>10.1145/132271.132274]
+DEMETROVICS, J. AND THI, V. D. 1987. Keys, antikeys and prime attributes. Annales Univ. Sci. Budapest, Sect. Comp. 8, 35-52.
+J. Demetrovics , V. D. Thi, Relations and minimal keys, Acta Cybernetica, v.8 n.3, p.279-285, May, 1988
+Michael R. Garey , David S. Johnson, Computers and Intractability: A Guide to the Theory of NP-Completeness, W. H. Freeman & Co., New York, NY, 1979
+HONEYMAN, P. 1980. Extension joins. In Proceedings of the 6th International Conference on Very Large Data Bases (Montreal, Ont. Canada, Oct. 1-3). ACM Press, New York, NY, 239 -244.
+Tomasz Imieliński , Witold Lipski, Jr., Incomplete Information in Relational Databases, Journal of the ACM (JACM), v.31 n.4, p.761-791, Oct. 1984[doi>10.1145/1634.1886]
+Jou, J. H. AND FISCHER, P. C. 1982. The complexity of recognizing 3NF relation schemes. Inf. Process. Lett. 14, 187-190.
+KANDZIA, P. AND MANGELMANN, M. 1980. On covering Boyce-Codd normal forms. Inf. Process. Lett. 11, 218-223.
+Sukhamay Kundu, An improved algorithm for finding a key of a relation, Proceedings of the fourth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.189-192, March 25-27, 1985, Portland, Oregon, USA[doi>10.1145/325405.325431]
+Mark Levene , George Loizou, Axiomatisation of functional dependencies in incomplete relations, Theoretical Computer Science, v.206 n.1-2, p.283-300, Oct. 6, 1998[doi>10.1016/S0304-3975(98)80029-7]
+LEVENE, M. AND LOIZOU, G. 1997. The additivity problem for functional dependencies in incomplete relations. Acta Inf. 34, 135-149.
+Mark Levene , George Loizou, The additivity Problem for Data Dependencies in Incomplete Relational Databases, Selected Papers from a Workshop on Semantics in Databases, p.136-169, January 1998
+Mark Levene , George Loizou, A  Guided Tour of Relational Databases and Beyond, Springer-Verlag, London, UK, 1999
+Y. Edmund Lien, On the Equivalence of Database Models, Journal of the ACM (JACM), v.29 n.2, p.333-362, April 1982[doi>10.1145/322307.322311]
+LUCCHESI, C. L. AND OSBORN, S. L. 1978. Candidate keys for relations. J. Comput. Syst. Sci. 17, 270-279.
+David Maier, Minimum Covers in Relational Database Model, Journal of the ACM (JACM), v.27 n.4, p.664-674, Oct. 1980[doi>10.1145/322217.322223]
+David Maier, Theory of Relational Databases, Computer Science Pr, 1983
+David Maier , Alberto O. Mendelzon , Yehoshua Sagiv, Testing implications of data dependencies, ACM Transactions on Database Systems (TODS), v.4 n.4, p.455-469, Dec. 1979[doi>10.1145/320107.320115]
+MANNILA, H. AND R AIH A, K.-J. 1983. On the relationship of minimum and optimum covers for a set of functional dependencies. Acta Inf. 20, 143-158.
+Heikki Mannila , Kari-Jouko Räihä, The design of relational databases, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1992
+Jyrki Nummenmaa , Peter Thanisch, Conjectures and refutations in database design and dependency theory, Proceedings of the third international conference on database theory on Database theory, p.215-228, November 1990, Paris, France
+OSBORN, S. L. 1979. Testing for the existence of a covering Boyce-Codd normal form. Inf. Process. Lett. 8, 1, 11-14.
+REITER, R. 1978. On closed world databases. In Logic and Data Bases, H. Gallaire and J. Minker, Eds. Plenum Press, New York, NY, 55-76.
+Jorma Rissanen, Independent components of relations, ACM Transactions on Database Systems (TODS), v.2 n.4, p.317-325, Dec. 1977[doi>10.1145/320576.320580]
+Edward Sciore, Real-world MVD's, Proceedings of the 1981 ACM SIGMOD international conference on Management of data, April 29-May 01, 1981, Ann Arbor, Michigan[doi>10.1145/582318.582337]
+Edward Sciore, Improving database schemes by adding attributes, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia[doi>10.1145/588058.588103]
+V D Thi, The minimal keys and antikeys, Acta Cybernetica, v.7 n.4, p.361-371, August 1986
+Don-Min Tsou , Patrick C. Fischer, Decomposition of a relation scheme into Boyce-Codd Normal Form, ACM SIGACT News, v.14 n.3, p.23-29, Summer 1982[doi>10.1145/990511.990513]
+Jeffrey D. Ullman, Principles of database and knowledge-base systems, Vol. I, Computer Science Press, Inc., New York, NY, 1988
+VARDI, M.Y. 1982. On decomposition of relational databases. In Proceedings of the IEEE Symposium on Foundations of Computer Science (FOCS'82, Chicago, Ill.). IEEE Computer Society Press, Los Alamitos, CA, 176-185.
+Moshe Y. Vardi, A note on lossless database decompositions, Information Processing Letters, v.18 n.5, p.257-260, June 1984[doi>10.1016/0020-0190(84)90004-8]
+VINCENT, M.W. 1994. The semantic justification for normal forms in relational database design. Ph.D. Dissertation. Department of Computer Science, Monash University.
+Li-Yan Yuan , Z. Meral Ozsoyoglu, Design of desirable relational database schemes, Journal of Computer and System Sciences, v.45 n.3, p.435-470, Dec. 1992[doi>10.1016/0022-0000(92)90034-G]

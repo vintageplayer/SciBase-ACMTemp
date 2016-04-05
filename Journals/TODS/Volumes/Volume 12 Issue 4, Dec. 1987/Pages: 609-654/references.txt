@@ -1,0 +1,54 @@
+Rakesh Agrawal, Concurrency control and recovery in multiprocessor database machines: design and performance evaluation, 1983
+Rakesh Agrawal , David J. Dewitt, Integrated concurrency control and recovery mechanisms: design and performance evaluation, ACM Transactions on Database Systems (TODS), v.10 n.4, p.529-564, Dec. 1985[doi>10.1145/4879.4958]
+Rakesh Agrawal , Michael J. Carey , David J. DeWitt, Deadlock detection is cheap, ACM SIGMOD Record, v.13 n.2, p.19-34, January 1983[doi>10.1145/984523.984524]
+Rakesh Agrawal , Michael J. Carey , Lawrence McVoy, The performance of alternative strategies for dealing with deadlocks in database management systems, IEEE Transactions on Software Engineering, v.13 n.12, p.1348-1363, December 1, 1987[doi>10.1109/TSE.1987.233145]
+BADAL, D. Correctness of concurrency control and implications in distributed databases. In Proceedings of the COMPSAC 79 Conference (Chicago, Nov. 1979). IEEE, New York, 1979, pp. 588-593.
+R. Balter , P. Berard , P. Decitre, Why control of the concurrency level in distributed systems is more fundamental than deadlock management, Proceedings of the first ACM SIGACT-SIGOPS symposium on Principles of distributed computing, p.183-193, August 18-20, 1982, Ottawa, Canada[doi>10.1145/800220.806696]
+BERNSTEIN, P., AND GOODMAN, N. Fundamental algorithms for concurrency control in distributed database systems. Tech. Rep., Computer Corporation of America, Cambridge, Mass., 1980.
+BERNSTEIN, P., AND GOODMAN, N. "Timestamp-based algorithms for concurrency control in distributed database systems. In Proceedings of the 6th International Conference on Very Large Data Bases (Montreal, Oct. 1980), pp. 285-300.
+Philip A. Bernstein , Nathan Goodman, Concurrency Control in Distributed Database Systems, ACM Computing Surveys (CSUR), v.13 n.2, p.185-221, June 1981[doi>10.1145/356842.356846]
+Philip A. Bernstein , Nathan Goodman, A Sophisticate's Introduction to Distributed Concurrency Control (Invited Paper), Proceedings of the 8th International Conference on Very Large Data Bases, p.62-76, September 08-10, 1982
+BERNSTEIN, P., SHIPMAN, D., AND WONG, S. Formal aspects in serializability of database concurrency control. IEEE Trans. Softw. Eng. SE-5, 3 (May 1979).
+Michael James Carey, Modeling and evaluation of database concurrency control algorithms, 1983
+Michael J. Carey, An abstract model of database concurrency control algorithms, Proceedings of the 1983 ACM SIGMOD international conference on Management of data, May 23-26, 1983, San Jose, California[doi>10.1145/582192.582211]
+Michael J. Carey , Waleed A. Muhanna, The performance of multiversion concurrency control algorithms, ACM Transactions on Computer Systems (TOCS), v.4 n.4, p.338-378, Nov. 1986[doi>10.1145/6513.6517]
+Michael J. Carey , Michael Stonebraker, The Performance of Concurrency Control Algorithms for Database Management Systems, Proceedings of the 10th International Conference on Very Large Data Bases, p.107-118, August 27-31, 1984
+CASANOVA, M. The concurrency control problem for database systems. Ph.D. dissertation, Computer Sceience Department, Harvard University,Cambridge, Mass 1979
+CERI, S., AND OWlCKI, S. On the use of optimistic methods for concurrency control in distributed databases. In Proceedings of the 6th Berkeley Workshop on Distributed Data Management and Computer Networb.~ (Berkeley, Ca!if., Feb. !982), ACM, IEEE, New York, 1982:
+Klaus Elhardt , Rudolf Bayer, A database cache for high performance and fast restart in database systems, ACM Transactions on Database Systems (TODS), v.9 n.4, p.503-525, Dec. 1984[doi>10.1145/1994.1995]
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+Peter Franaszek , John T. Robinson, Limitations of concurrency in transaction processing, ACM Transactions on Database Systems (TODS), v.10 n.1, p.1-28, March 1985[doi>10.1145/3148.3160]
+Bruce Irving Galler, Concurrency control performance issues, 1982
+Nathan Goodman , Rajan Suri , Y. C. Tay, A simple analytic model for performance of exclusive locking in database systems, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia[doi>10.1145/588058.588084]
+GttA~, J. Notes on database operating systems, in Operating Systems." An Advanced Course, R. Bayer, R. Graham, and G. Seegmuller, Eds. Springer-Verlag, New York, 1979.
+GRAY, J., HOMAN, P., KORTH, H., AND OBERMARCK, R. A straw man analysis of the probability of wairing and deadlock in a database system. Tech. Rep. RJ3066, IBM SanJose Research Laboratory, San Jose, Calif., Feb. 1981.
+Theo Härder , Peter Peinl, Evaluating Multiple Server DBMS in General Purpors Operating System Environments, Proceedings of the 10th International Conference on Very Large Data Bases, p.129-140, August 27-31, 1984
+Keki B. Irani , Hing-Lung Lin, Queueing network models for concurrent transaction processing in a database system, Proceedings of the 1979 ACM SIGMOD international conference on Management of data, May 30-June 01, 1979, Boston, Massachusetts[doi>10.1145/582095.582116]
+H. T. Kung , John T. Robinson, On optimistic methods for concurrency control, ACM Transactions on Database Systems (TODS), v.6 n.2, p.213-226, June 1981[doi>10.1145/319566.319567]
+LIN, W., AND NOLTE, J. Distributed database control and allocation: Semi-annual report. Tech. Rep., Computer Corporation of America, Cambridge, Mass., Jan. 1982.
+L}N, W., AND NOLTE, J. Performance of two phase locking. In Proceedings of the 6th Berkeley Workshop on Distributed Data Management and Computer Networks (Berkeley, Feb. 1982), ACM, IEEE, New York, 1982, pp. 131-160.
+Wen-Te K. Lin , Jerry Nolte, Basic Timestamp, Multiple Version Timestamp, and Two-Phase Locking, Proceedings of the 9th International Conference on Very Large Data Bases, p.109-119, October 31-November 02, 1983
+LINDSAY, B., ET AL. Notes on distributed databases, Tech. Rep. RJ2571, IBM San Jose Research Laboratory, San Jose, Calif., 1979
+MENASCE, D., AND MUNTZ, R. Locking and deadlock detection in distributed databases. In Proceedings of the 3rd Berkeley Workshop on Distributed Data Management and Computer Networks (San Francisco, Aug. 1978). ACM, IEEE, New York, 1978, pp. 215-232.
+Christos H. Papadimitriou, The serializability of concurrent database updates, Journal of the ACM (JACM), v.26 n.4, p.631-653, Oct. 1979[doi>10.1145/322154.322158]
+Peter Peinl , Andreas Reuter, Empirical Comparison of Database Concurrency Schemes, Proceedings of the 9th International Conference on Very Large Data Bases, p.97-108, October 31-November 02, 1983
+D. Potier , Ph. Leblanc, Analysis of locking policies in database management systems, Communications of the ACM, v.23 n.10, p.584-593, Oct. 1980[doi>10.1145/359015.359021]
+REED, D. Naming and synchronization in a decentralized computer system. Ph.D. dissertation, Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, Cambridge, Mass., 1978.
+REUTER, A. An analytic model of transaction interference in database systems. IB 68/83, University of Kaiserslautern, West Germany, 1983.
+Andreas Reuter, Performance analysis of recovery techniques, ACM Transactions on Database Systems (TODS), v.9 n.4, p.526-559, Dec. 1984[doi>10.1145/1994.1996]
+Daniel Roland Ries, The effects of concurrency control on the performance of database management systems., 1979
+Daniel R. Ries , Michael Stonebraker, Effects of locking granularity in a database management system, ACM Transactions on Database Systems (TODS), v.2 n.3, p.233-246, Sept. 1977[doi>10.1145/320557.320566]
+Daniel R. Ries , Michael R. Stonebraker, Locking granularity revisited, ACM Transactions on Database Systems (TODS), v.4 n.2, p.210-227, June 1979[doi>10.1145/320071.320078]
+John Timothy Robinson, Design of concurrency controls for transaction processing systems, 1982
+ROBINSON, J. Experiments with transaction processing on a multi-microprocessor. Tech. Rep. RC9725, IBM Thomas J. Watson Research Center, Yorktown Heights, N.Y., Dec. 1982.
+Daniel J. Rosenkrantz , Richard E. Stearns , Philip M. Lewis, II, System level concurrency control for distributed database systems, ACM Transactions on Database Systems (TODS), v.3 n.2, p.178-198, June 1978[doi>10.1145/320251.320260]
+Lawrence A. Rowe , Michael Stonebraker, The commercial INGRES epilogue, The INGRES papers: anatomy of a relational database system, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+Robert G. Sargent, Statistical analysis of simulation output data, Proceedings of the 4th symposium on Simulation of computer systems, p.39-50, August 10-12, 1976, Boulder, Colorado, United States
+James F. Spitzer, Performance prototyping of data management applications, Proceedings of the annual conference, p.287-291, October 20-22, 1976, Houston, Texas, United States[doi>10.1145/800191.805599]
+STONEBRAKER, M. Concurrency control and consistency of multiple copies of data in distributed INGRES. IEEE Trans. Softw. Eng. 5, 3 (May 1979).
+Michael Stonebraker , Lawrence A. Rowe, The design of POSTGRES, Proceedings of the 1986 ACM SIGMOD international conference on Management of data, p.340-355, May 28-30, 1986, Washington, D.C., United States[doi>10.1145/16894.16888]
+TA~, Y. A mean value performance model for locking in databases. Ph.D. dissertation, Computer Science Department, Harvard University, Cambridge, Mass. Feb. 1984.
+Y. C. Tay , Nathan Goodman , R. Suri, Locking performance in centralized databases, ACM Transactions on Database Systems (TODS), v.10 n.4, p.415-462, Dec. 1985[doi>10.1145/4879.4880]
+Robert H. Thomas, A Majority consensus approach to concurrency control for multiple copy databases, ACM Transactions on Database Systems (TODS), v.4 n.2, p.180-209, June 1979[doi>10.1145/320071.320076]
+Alexander Thomasian , In Kyung Ryu, A decomposition solution to the queueing network model of the centralized DBMS with static locking, Proceedings of the 1983 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.82-92, August 29-31, 1983, Minneapolis, Minnesota, United States[doi>10.1145/800040.801397]
+WULF, W. Compilers and computer architecture. IEEE Computer (July 1981).

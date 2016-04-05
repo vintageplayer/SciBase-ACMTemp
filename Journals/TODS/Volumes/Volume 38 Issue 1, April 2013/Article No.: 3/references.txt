@@ -1,0 +1,36 @@
+ANSI/ISO. Database Language SQL—Part 2: Foundation (SQL/Foundation). ANSI/ISO. IEC 9075.
+Hardik Bati , Leo Giakoumakis , Steve Herbert , Aleksandras Surna, A genetic approach for random testing of database systems, Proceedings of the 33rd international conference on Very large data bases, September 23-27, 2007, Vienna, Austria
+Binnig, C. and Kossmann, D. 2007. Reverse query processing. In Proceedings of the 23rd International Conference on Data Engineering. IEEE, 506--515.
+Nicolas Bruno, Minimizing database repros using language grammars, Proceedings of the 13th International Conference on Extending Database Technology, March 22-26, 2010, Lausanne, Switzerland[doi>10.1145/1739041.1739088]
+Nicolas Bruno , Surajit Chaudhuri , Ravishankar Ramamurthy, Interactive plan hints for query optimization, Proceedings of the 2009 ACM SIGMOD International Conference on Management of data, June 29-July 02, 2009, Providence, Rhode Island, USA[doi>10.1145/1559845.1559976]
+Rafael Caballero , Yolanda García-Ruiz , Fernando Sáenz-Pérez, Declarative debugging of wrong and missing answers for SQL views, Proceedings of the 11th international conference on Functional and Logic Programming, p.73-87, May 23-25, 2012, Kobe, Japan[doi>10.1007/978-3-642-29822-6_9]
+Adriane Chapman , H. V. Jagadish, Why not?, Proceedings of the 2009 ACM SIGMOD International Conference on Management of data, June 29-July 02, 2009, Providence, Rhode Island, USA[doi>10.1145/1559845.1559901]
+James Cheney , Laura Chiticariu , Wang-Chiew Tan, Provenance in Databases: Why, How, and Where, Foundations and Trends in Databases, v.1 n.4, p.379-474, April 2009[doi>10.1561/1900000006]
+Christopher Olston , Shubham Chopra , Utkarsh Srivastava, Generating example data for dataflow programs, Proceedings of the 2009 ACM SIGMOD International Conference on Management of data, June 29-July 02, 2009, Providence, Rhode Island, USA[doi>10.1145/1559845.1559873]
+Embarcadero Technologies. The Embarcadero SQL Debugger. http://www.embarcadero.com/products/debugger.
+Richard A. Ganski , Harry K. T. Wong, Optimization of nested SQL queries revisited, ACM SIGMOD Record, v.16 n.3, p.23-33, Dec. 1987[doi>10.1145/38714.38723]
+Martin Gogolla, A note on the translation of SQL to tuple calculus, ACM SIGMOD Record, v.19 n.1, p.18-22, March 1990[doi>10.1145/382274.382398]
+Torsten Grust , Fabian Kliebhan , Jan Rittinger , Tom Schreiber, True language-level SQL debugging, Proceedings of the 14th International Conference on Extending Database Technology, March 21-24, 2011, Uppsala, Sweden[doi>10.1145/1951365.1951441]
+Torsten Grust , Manuel Mayr , Jan Rittinger , Sherif Sakr , Jens Teubner, A SQL: 1999 code generator for the pathfinder xquery compiler, Proceedings of the 2007 ACM SIGMOD international conference on Management of data, June 11-14, 2007, Beijing, China[doi>10.1145/1247480.1247642]
+Torsten Grust , Jan Rittinger , Jens Teubner, Data-intensive XQuery debugging with instant replay, Proceedings of the 4th international workshop on XQuery implementation, experience and perspectives, p.1-6, June 15-15, 2007, Beijing, China[doi>10.1145/1328158.1328162]
+Naveen Reddy , Jayant R. Haritsa, Analyzing plan diagrams of database query optimizers, Proceedings of the 31st international conference on Very large data bases, August 30-September 02, 2005, Trondheim, Norway
+Melanie Herschel , Mauricio A. Hernández, Explaining missing answers to SPJUA queries, Proceedings of the VLDB Endowment, v.3 n.1-2, September 2010
+H. V. Jagadish , Adriane Chapman , Aaron Elkiss , Magesh Jayapandian , Yunyao Li , Arnab Nandi , Cong Yu, Making database systems usable, Proceedings of the 2007 ACM SIGMOD international conference on Management of data, June 11-14, 2007, Beijing, China[doi>10.1145/1247480.1247483]
+Thomas Johnsson, Lambda lifting: transforming programs to recursive equations, Proc. of a conference on Functional programming languages and computer architecture, p.190-203, January 1985, Nancy, France
+Irvin R. Katz , John R. Anderson, Debugging: an analysis of bug-location strategies, Human-Computer Interaction, v.3 n.4, p.351-399, December 1987[doi>10.1207/s15327051hci0304_2]
+Nodira Khoussainova , Magdalena Balazinska , Dan Suciu, PerfXplain: debugging MapReduce job performance, Proceedings of the VLDB Endowment, v.5 n.7, p.598-609, March 2012
+Won Kim, On optimizing an SQL-like nested query, ACM Transactions on Database Systems (TODS), v.7 n.3, p.443-469, Sept. 1982[doi>10.1145/319732.319745]
+Landin, P. 1964. The mechanical evaluation of expressions. Comput. J. 6, 4, 308--320.
+Liang, R. 2009. What's Changed between my New Query Plan and the Old One&quest; Plan Comparison (built-in function diff_plan_outline()) in Oracle 11gR2. Insights into the working of the Oracle Optimizer, https://blogs.oracle.com/optimizer/entry/whats_changed_between_my_new_query_plan_and_the_old_one.
+Simon Marlow , José Iborra , Bernard Pope , Andy Gill, A lightweight interactive debugger for haskell, Proceedings of the ACM SIGPLAN workshop on Haskell workshop, September 30-30, 2007, Freiburg, Germany[doi>10.1145/1291201.1291204]
+Microsoft Corporation. Transact-SQL (T-SQL) Debugger in Microsoft SQL Server 2008. http://msdn. microsoft.com/en-us/library/cc645997.aspx.
+A Motro, Query generalization: a method for interpreting null answers, Proceedings from the first international workshop on Expert database systems, p.597-616, January 1986, Kiawah Island, South Carolina, USA
+Laurie Murphy , Gary Lewandowski , Renée McCauley , Beth Simon , Lynda Thomas , Carol Zander, Debugging: the good, the bad, and the quirky -- a qualitative analysis of novices' strategies, ACM SIGCSE Bulletin, v.40 n.1, March 2008[doi>10.1145/1352322.1352191]
+Naish, L. 1997. A declarative debugging scheme. J. Funct. Logic Program., 3.
+Olston, C. and Reed, B. 2011. Inspector Gadget: A framework for custom monitoring and debugging of distributed dataflows. Proc. VLDB Endow. 4, 12, 1237--1248.
+Bernard Pope , Lee Naish, Practical aspects of declarative debugging in Haskell 98, Proceedings of the 5th ACM SIGPLAN international conference on Principles and practice of declaritive programming, p.230-240, August 27-29, 2003, Uppsala, Sweden[doi>10.1145/888251.888273]
+Ehud Y. Shapiro, Algorithmic Program DeBugging, MIT Press, Cambridge, MA, 1983
+Josep Silva, A survey on algorithmic debugging strategies, Advances in Engineering Software, v.42 n.11, p.976-991, November, 2011[doi>10.1016/j.advengsoft.2011.05.024]
+Quoc Trung Tran , Chee-Yong Chan, How to ConQueR why-not questions, Proceedings of the 2010 ACM SIGMOD International Conference on Management of data, June 06-10, 2010, Indianapolis, Indiana, USA[doi>10.1145/1807167.1807172]
+Transaction Processing Performance Council. TPC-H, a Decision-Support Benchmark. http://tpc.org/tpch/.
+Victor, B. 2012. Inventing on Principle. In Proceedings of the Canadian University Software Engineering Conference (CUSEC). Montreal, Canada.

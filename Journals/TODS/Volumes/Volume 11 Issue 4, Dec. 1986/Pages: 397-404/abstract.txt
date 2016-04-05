@@ -1,0 +1,1 @@
+A synchronization technique and scheduling strategy is described, which allows us to run a batch process simultaneously with on-line transactions. The batch process and the transactions are serialized in such a way that consistency level 3 is achieved.

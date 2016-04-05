@@ -1,0 +1,27 @@
+ACHIM, F. Data base networks--an overview. Management Informatics 3, 1 (1974), 13-29.
+M. M. Astrahan , M. W. Blasgen , D. D. Chamberlin , K. P. Eswaran , J. N. Gray , P. P. Griffiths , W. F. King , R. A. Lorie , P. R. McJones , J. W. Mehl , G. R. Putzolu , I. L. Traiger , B. W. Wade , V. Watson, System R: relational approach to database management, ACM Transactions on Database Systems (TODS), v.1 n.2, p.97-137, June 1976[doi>10.1145/320455.320457]
+Rudolf Bayer, On the Integrity of Data Bases and Resource Locking, Data Base Systems, Proceedings, 5th Informatik Symposium, p.339-361, September 24-26, 1975
+Lawrence A. Bjork, Recovery scenario for a DB/DC system, Proceedings of the ACM annual conference, p.142-146, August 27-29, 1973, Atlanta, Georgia, USA[doi>10.1145/800192.805695]
+CHAMBEI~IAN, D.D., BOYCE, R.F., AND T}~AIGER, I.L. A deadlock-free scheme for resource locking in a database environment. Information Processing 74, North-Holland Pub. Co., Amsterdam, 1974, pp. 340-343.
+W. W. Chu , G. Ohlmacher, Avoiding deadlock in distributed data bases, Proceedings of the 1974 annual conference, p.156-160, January 1974[doi>10.1145/800182.810396]
+E. G. Coffman , M. Elphick , A. Shoshani, System Deadlocks, ACM Computing Surveys (CSUR), v.3 n.2, p.67-78, June 1971[doi>10.1145/356586.356588]
+P. J. Courtois , F. Heymans , D. L. Parnas, Concurrent control with “readers” and “writers”, Communications of the ACM, v.14 n.10, p.667-668, Oct. 1971[doi>10.1145/362759.362813]
+Charles T. Davies, Jr., Recovery semantics for a DB/DC system, Proceedings of the ACM annual conference, p.136-141, August 27-29, 1973, Atlanta, Georgia, USA[doi>10.1145/800192.805694]
+DEPI'E, M.E., AND F~~, J.P. Distributed data bases--a summary of research. Computer Networks 1 (I976), 130-138.
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+EVEREST, G.C. Concurrent update control and data base integrity. In Data Base Management, J.W. Klimbie and K.L. Koffeman, Eds., North-Holland Pub. Co., Amsterdam, 1974, pp. 241-270.
+Foss(~M, B.M. Database integrity as provided for by a particular data base management system. In Data Base Management, J.W. Klimbie and K.L. Koffeman, Eds., North-Holland Pub. Co., Amsterdam, 1974, pp. 271-288.
+GENEFcAL ELECTRIC RESEARCH AND DEVEI,OPMENT CENTER. MADMAN User Manual. Schenectady, N.Y., I976.
+G{~AY, J. Locking in a decentralized computer system. IBM Res. Rep. RJ i346, IBM Res. Lab., San Jose, Calif., Feb. 1974.
+GJ~AY, J.N., LOE(IE, R.A., AND P{JTZO{.U, G.R. Granularity of locks in a shared data base. Proc. Int. Conf. on Very Large Data Bases, Framingham, Mass., Sept. 1975, pp. 428-451 (available from ACM, New York).
+GREW, I. Formal problem specifications for readers and writers scheduling. Proc. MRI Symp. on Comptr. Software Eng., Polytechnic Inst. of New York, 1976.
+HAWLEY, D.A., KNOWLES, J.S., AND TOZEI~, E.E. Database consistency and the CODASYL DBTG proposals. Computer J. 18, 3 (Aug. 1975), 206-212.
+C. A. R. Hoare, Monitors: an operating system structuring concept, Communications of the ACM, v.17 n.10, p.549-557, Oct. 1974[doi>10.1145/355620.361161]
+JOHNSON, P.R., AND THOMAS, R.H. The maintenance of duplicate databases. Doc. #31507, Network Information Center (NIC), Jan. 1975.
+KING, P.F., AND COLLMEYER, AIJ. Database sharing--an efficient mechanism for supporting concurrent processes. Proc. AFIPS I973 NCC, Vol. 42, AFIPS Press, Montvale, N.J., 1973, pp. 271-275.
+LAMPORT, L. Time clocks and the ordering of events in a distributed system. Massachusetts Computer Associates, Wakefield, Mass., March 1976.
+Philip P. Macri, Deadlock detection and resolution in a CODASYL based data management system, Proceedings of the 1976 ACM SIGMOD international conference on Management of data, June 02-04, 1976, Washington, D.C.
+SCHLAGETEt~, G. Access synchronization and deadlock-analysis in database systems: An implementation-oriented approach. Inform. Syst. 1 (I975), 97-102.
+SEKINO, L.C. Multiple concurrent updates. Proc. Int. Conf. on Very Large Data Bases, Framingham, Mass., Sept. 1975, pp. 505-507 (available from ACM, New York).
+STEAkNS, R.E., LEWIS, P.M. II, AND ROSENKRANTZ, D.J. Concurrency controls for database systems. Proc. 17th Annual Symp. on Foundations of Comptr. Sci., Houston, Tex., Oct. 1976, pp. 19-32 (available from IEEE, Long Beach, Calif.).
+STONEBRAKER, M., AND NEUHOLD, E. A distributed data base version of INGRES. Proc. Second Berkeley Workshop on Distributed Data Manage. and Comptr. Networks, May 1977, pp. 19-36.

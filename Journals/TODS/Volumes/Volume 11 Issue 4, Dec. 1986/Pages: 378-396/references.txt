@@ -1,0 +1,28 @@
+ADIBA, M. Derived relations: A unified mechanism for views, snapshots and distributed data. Res. Rep. RJ2881, IBM, San Jose, Calif., July 1980.
+ADIBA, M., AND LINDSAY, B. Database snapshots. In Proceedings of the 6th International Conference on Very Large Data Bases (Montreal, Oct. 1980). IEEE Press, New York, 1980, 86-91.
+AGRAWAL, R., AND CAREY, M. The performance of concurrency control and recovery algorithms for transaction-oriented database systems. Database Eng. 8, 2 (June 1985), 58--67.
+AGRAWAL, R., CAREY, M., AND McVoY, L. The performance of alternative strategies for dealing with deadlocks in database management systems. Tech. Rep. 590, Dept. of Computer Sciences, Univ. of Wisconsin, Madison, Mar. 1985.
+ASTRAHAN, M., BLASGEN, M., CHAMBERLIN, D., GRAY, J., KING, F., LINDSAY, B., LORIE, R., MEHL, J., PRICE, T., PUTZOLU, F., SCHKOLNICK, M., SELINGER, P., SLUTZ, D., STRONG, R., TIBERIO, P., TRAIGER, I., WADE, B., AND YOST, R. System R: A relational data base management system. Computer 12, 5 (May 1979), 43-48.
+BEERI, C., AND OBERMARCK, R. A resource class-independent deadlock detection algorithm. In Proceedings of the 7th International Conference on Very Large Data Bases (Cannes, Sept. 1981). IEEE Press, New York, 1981, 166-178.
+Elisa Bertino , Laura M. Haas , Bruce G. Lindsay, View Management in Distributed Data Base Systems, Proceedings of the 9th International Conference on Very Large Data Bases, p.376-378, October 31-November 02, 1983
+BoaR, A. Transaction monitoring in ENCOMPASS: Reliable distributed transaction processing. In Proceedings of the 7th International Conference on Very Large Data Bases (Cannes, Sept. 1981). IEEE Press, New York, 1981, 155-165.
+Eric C. Cooper, Analysis of distributed commit protocols, Proceedings of the 1982 ACM SIGMOD international conference on Management of data, June 02-04, 1982, Orlando, Florida[doi>10.1145/582353.582385]
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+GAWLICK, D., AND KINKADE, D. Varieties of concurrency control in IMS/VS fast path. Database Eng. 8, 2 (June 1985), 3-10.
+Jim Gray, Notes on Data Base Operating Systems, Operating Systems, An Advanced Course, p.393-481, January 1978
+GRAY, J. The transaction concept: Virtues and limitations. In Proceedings of the 7th International Conference on Very Large Data Bases (Cannes, Oct. 1981). IEEE Press, New York, 1981, 144-154.
+Jim Gray , Paul McJones , Mike Blasgen , Bruce Lindsay , Raymond Lorie , Tom Price , Franco Putzolu , Irving Traiger, The Recovery Manager of the System R Database Manager, ACM Computing Surveys (CSUR), v.13 n.2, p.223-242, June 1981[doi>10.1145/356842.356847]
+Theo Haerder , Andreas Reuter, Principles of transaction-oriented database recovery, ACM Computing Surveys (CSUR), v.15 n.4, p.287-317, December 1983[doi>10.1145/289.291]
+Micael Hammer , David Shipman, Reliability mechanisms for SDD-1: a system for distributed databases, ACM Transactions on Database Systems (TODS), v.5 n.4, p.431-466, Dec.  1980[doi>10.1145/320610.320621]
+Butler W. Lampson, Atomic Transactions, Distributed Systems - Architecture and Implementation, An Advanced Course, p.246-265, January 1981
+Bruce G. Lindsay , Laura M. Haas , C. Mohan , Paul F. Wilms , Robert A. Yost, Computation and communication in R*: a distributed database manager, ACM Transactions on Computer Systems (TOCS), v.2 n.1, p.24-38, February 1984[doi>10.1145/2080.357390]
+LINDSAY, B., SELINGER, P., GALTIERI, C., GRAY, J., LORIE, R., PUTZOLU, F., TRAIGER, I., AND WADE, B. Single and multi-site recovery facilities. In Distributed Data Bases, I. W. Draffan and F. Poole, Eds. Cambridge University Press, New York, 1980. Also available as Notes on distributed databases. Res. Rep. RJ2571, IBM, San Jose, Calif., July 1979.
+LOHMAN, G., MOHAN, C., HAAS, L., DANIELS, D., LINDSAY, B., SELINGER, P., AND WILMS, P. Query processing in R*. In Query Processing in Database Systems, W. Kim, D. Reiner, and D. Batory, Eds. Springer-Verlag, New York, 1984. Also Res. Rep. RJ4272, IBM, Apr. 1984.
+MACKERT, L., AND LOHMAN, G. Index scans using a finite LRU buffer: A validated I/O model. Res. Rep. RJ4836, IBM, San Jose, Calif., Sept. 1985.
+C. Mohan, Recent Advances in Distributed Data Base Management, IEEE Computer Society Press, Los Alamitos, CA, 1984
+C. Mohan , R. Strong , S. Finkelstein, Method for distributed transaction commit and recovery using Byzantine Agreement within clusters of processors, Proceedings of the second annual ACM symposium on Principles of distributed computing, p.89-103, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806712]
+Ron Obermarck, Distributed deadlock detection algorithm, ACM Transactions on Database Systems (TODS), v.7 n.2, p.187-208, June 1982[doi>10.1145/319702.319717]
+J. B. Rothnie, Jr. , P. A. Bernstein , S. Fox , N. Goodman , M. Hammer , T. A. Landers , C. Reeve , D. W. Shipman , E. Wong, Introduction to a system for distributed databases (SDD-1), ACM Transactions on Database Systems (TODS), v.5 n.1, p.1-17, March 1980[doi>10.1145/320128.320129]
+Dale Skeen, Nonblocking commit protocols, Proceedings of the 1981 ACM SIGMOD international conference on Management of data, April 29-May 01, 1981, Ann Arbor, Michigan[doi>10.1145/582318.582339]
+SKEEN, D. A quorum-based commit protocol. In Proceedings of the 6th Berkeley Workshop on Distributed Data Management and Computer Networks (May 1982). Lawrence Berkeley Laboratories, 1982, 69-90.
+STONEBRAKER, M. Concurrency control and consistency of multiple copies of data in distributed INGRES. IEEE Trans. Softw. Eng. 5, 3 (May 1979), 235-258.

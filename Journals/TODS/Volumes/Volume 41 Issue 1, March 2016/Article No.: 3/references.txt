@@ -1,0 +1,94 @@
+Serge Abiteboul, Daniel Deutch, and Victor Vianu. 2014. Deduction with contradictions in datalog. In ICDT. 143--154.
+Charu Aggarwal. 2009. Managing and Mining Uncertain Data. Advances in Database Systems, Vol. 35. Springer US, Kluwer, Amsterdam, 1--41.
+Parag Agrawal, Omar Benjelloun, Anish Das Sarma, Chris Hayworth, Shubha U. Nabar, Tomoe Sugihara, and Jennifer Widom. 2006. Trio: A system for data, uncertainty, and lineage. In VLDB. 1151--1154.
+Fadi A. Aloul, Igor L. Markov, and Karem A. Sakallah. 2004. MINCE: A static global variable-ordering heuristic for SAT search and BDD manipulation. J. Univers. Comp. Sci. 10, 12 (2004), 1562--1596.
+Y. Amsterdamer, D. Deutch, and V. Tannen. 2011. Provenance for aggregate queries. In PODS. 153--164.
+Lyublena Antova, Christoph Koch, and Dan Olteanu. 2007a. From complete to incomplete information and back. In SIGMOD. 713--724.
+Lyublena Antova, Christoph Koch, and Dan Olteanu. 2007b. Query language support for incomplete information in the MayBMS system. In VLDB. 1422--1425.
+Chitta Baral, Michael Gelfond, and Nelson Rushton. 2009. Probabilistic reasoning with answer sets. Theor. Pract. Log. Program. 9, 1 (2009), 57--144.
+Vince Bárány, Balder ten Cate, Benny Kimelfeld, Dan Olteanu, and Zografoula Vagena. 2016. Declarative probabilistic programming with Datalog. In ICDT.
+Mordechai Ben-Ari. 1990. Principles of Concurrent and Distributed Programming (1 ed.). Prentice-Hall, Upper Saddle River, NJ.
+Jens Bleiholder and Felix Naumann. 2009. Data fusion. ACM Comput. Surv. 41, 1 (2009), 1:1--1:41.
+Beate Bollig and Ingo Wegener. 1996. Improving the variable ordering of OBDDs is NP-complete. IEEE Trans. Comput. 45, 9 (1996), 993--1002.
+George Boole. 1854. An Investigation of the Laws of Thought: On Which Are Founded the Mathematical Theories of Logic and Probabilities. Walton and Maberly.
+Vinayak R. Borkar, Yingyi Bu, Michael J. Carey, Joshua Rosen, Neoklis Polyzotis, Tyson Condie, Markus Weimer, and Raghu Ramakrishnan. 2012. Declarative systems for large-scale machine learning. IEEE Data Eng. Bull. 35, 2 (2012), 24--32.
+Jihad Boulos, Nilesh N. Dalvi, Bhushan Mandhani, Shobhit Mathur, Christopher Ré, and Dan Suciu. 2005. MYSTIQ: A system for finding more answers by using probabilities. In SIGMOD. 891--893.
+Zhuhua Cai, Zografoula Vagena, Luis Perez, Subramanian Arumugam, Peter J. Haas, and Christopher M. Jermaine. 2013. Simulation of database-valued Markov chains using SimSQL. In SIGMOD. 637--648.
+Andrew Carlson, Justin Betteridge, Bryan Kisiel, Burr Settles, Estevam Junior Hruschka, and Tom Mitchell. 2010. Toward an architecture for never-ending language learning. In AAAI.
+Michael Chau, Reynold Cheng, Ben Kao, and Jackey Ng. 2006. Uncertain data mining: An example in clustering location data. In PAKDD. 199--204.
+Yang Chen and Daisy Zhe Wang. 2014. Knowledge expansion over probabilistic knowledge bases. In SIGMOD. 649--660.
+DARPA. 2013. Probabilistic Programming for Advancing Machine Learning. DARPA-BAA-13-31.
+David L. Davies and Donald W. Bouldin. 1979. A cluster separation measure. IEEE Trans. Pattern Anal. Mach. Intell. 1, 2 (1979), 224--227.
+Daniel Deutch, Christoph Koch, and Tova Milo. 2010. On probabilistic fixpoint and Markov chain query languages. In PODS. 215--226.
+L. Devroye, L. Györfi, and G. Lugosi. 1996. A Probabilistic Theory of Pattern Recognition. Stochastic Modelling and Applied Probability. Vol. 31. Springer-Verlag New York.
+Edsger Wiebe Dijkstra. 1965. Solution of a problem in concurrent programming control. CACM 8, 9 (1965).
+Pedro Domingos and Daniel Lowd. 2009. Markov Logic: An Interface Layer for Artificial Intelligence. Morgan & Claypool.
+Xin Dong, Evgeniy Gabrilovich, Geremy Heitz, Wilko Horn, Ni Lao, Kevin Murphy, Thomas Strohmann, Shaohua Sun, and Wei Zhang. 2014. Knowledge vault: A web-scale approach to probabilistic knowledge fusion. In KDD. 601--610.
+Xin Luna Dong, Laure Berti-Equille, and Divesh Srivastava. 2009. Integrating conflicting data: The role of source dependence. PVLDB 2, 1 (2009), 550--561.
+Rolf Drechsler. 1996. Verification of multi-valued logic networks. In ISMVL. 10--15.
+J. C. Dunn. 1973. A fuzzy relative of the ISODATA process and its use in detecting compact well-separated clusters. J. Cybernet. 3, 3 (1973), 32--57.
+Xixuan Feng, Arun Kumar, Benjamin Recht, and Christopher Ré. 2012. Towards a unified architecture for in-RDBMS analytics. In SIGMOD. 325--336.
+Robert Fink, Larisa Han, and Dan Olteanu. 2012. Aggregation in probabilistic databases via knowledge compilation. PVLDB 5, 5 (2012), 490--501.
+Robert Fink, Andrew Hogue, Dan Olteanu, and Swaroop Rath. 2011. SPROUT2: A squared query engine for uncertain web data. In SIGMOD. 1299--1302.
+Robert Fink, Jiewen Huang, and Dan Olteanu. 2013. Anytime approximation in probabilistic databases. VLDB J. 22, 6 (2013), 823--848.
+Norbert Fuhr. 2000. Probabilistic datalog: Implementing logical information retrieval for advanced applications. JASIS 51, 2 (2000), 95--110.
+Masahiro Fujita, Hisanori Fujisawa, and Yusuke Matsunaga. 1993. Variable ordering algorithms for ordered binary decision diagrams and their evaluation. IEEE Trans. CAD Integr. Circuits Syst. 12, 1 (1993), 6--12.
+Carla P. Gomes, Ashish Sabharwal, and Bart Selman. 2006. Model counting: A new strategy for obtaining good bounds. Natl. Conf. AI 21, 1 (2006), 54.
+Carla P. Gomes, Ashish Sabharwal, and Bart Selman. 2009. Model counting. In Handbook of Satisfiability. 633--654.
+Andrew D. Gordon, Thomas A. Henzinger, Aditya V. Nori, and Sriram K. Rajamani. 2014. Probabilistic programming. In FOSE. 167--181.
+Georg Gottlob, Thomas Lukasiewicz, MariaVanina Martinez, and Gerardo Simari. 2013. Query answering under probabilistic uncertainty in Datalog +/- ontologies. Ann. Math. AI 69, 1 (2013), 37--72.
+Todd J. Green, Grigoris Karvounarakis, and Val Tannen. 2007. Provenance semirings. In PODS. 31--40.
+Francesco Gullo, Giovanni Ponti, and Andrea Tagarelli. 2008. Clustering uncertain data via k-medoids. In SUM. 229--242.
+F. Gullo, G. Ponti, and A. Tagarelli. 2010. Minimizing the variance of cluster mixture models for clustering uncertain objects. In ICDM. IOS Press, 839--844.
+F. Gullo, G. Ponti, A. Tagarelli, and S. Greco. 2008. A hierarchical algorithm for clustering uncertain data via an information-theoretic approach. In ICDM. 821--826.
+Francesco Gullo and Andrea Tagarelli. 2012. Uncertain centroid based partitional clustering of uncertain data. PVLDB 5, 7 (2012), 610--621.
+Joseph Hellerstein, Christopher Ré, Florian Schoppmann, Daisy Zhe Wang, Eugene Fratkin, Aleksander Gorajek, Kee Siong Ng, Caleb Welton, Xixuan Feng, Kun Li, and Arun Kumar. 2012. The MADlib analytics library or MAD skills, the SQL. PVLDB 5, 12 (2012), 1700--1711.
+Jiewen Huang, Lyublena Antova, Christoph Koch, and Dan Olteanu. 2009. MayBMS: A probabilistic database management system. In SIGMOD. 1071--1074.
+Ravi Jampani, Fei Xu, Mingxi Wu, Luis Perez, Chris Jermaine, and Peter Haas. 2011. The Monte Carlo database system: Stochastic analysis close to the data. ACM TODS 36, 3 (2011), 1--41.
+Bhargav Kanagal, Jian Li, and Amol Deshpande. 2011. Sensitivity analysis and explanations for robust query evaluation in probabilistic databases. In SIGMOD. 841--852.
+Ben Kao, Sau Dan Lee, Foris K. F. Lee, David Wai-Lok Cheung, and Wai-Shing Ho. 2010. Clustering uncertain data using Voronoi diagrams and R-tree index. IEEE TKDE 22, 9 (2010), 1219--1233.
+Benny Kimelfeld and Pierre Senellart. 2013. Probabilistic XML: Models and complexity. In Advances in Probabilistic Databases for Uncertain Information Management. Studies in Fuzziness and Soft Computing, Vol. 304. 39--66.
+Angelika Kimmig, Bart Demoen, Luc De Raedt, Vitor Santos Costa, and Ricardo Rocha. 2011. On the implementation of the probabilistic logic programming language ProbLog. Theory and Practice of Logic Programming 11 (2011), 235--262.
+Christoph Koch. 2009. A compositional query algebra for second-order logic and uncertain databases. In ICDT. 127--140.
+Christoph Koch and Dan Olteanu. 2008. Conditioning probabilistic databases. PVLDB 1, 1 (2008), 313--325.
+H. Kriegel and M. Pfeifle. 2005. Density-based clustering of uncertain data. In KDD. 672--677.
+Kun Li, Daisy Zhe Wang, Alin Dobra, and Christopher Dudley. 2015. UDA-GIST: An in-database framework to unify data-parallel and state-parallel analytics. PVLDB 8, 5 (2015), 557--568.
+Xiang Lian and Lei Chen. 2010. A generic framework for handling uncertain data with local correlations. PVLDB 4, 1 (2010), 12--21.
+Yucheng Low, Joseph Gonzalez, Aapo Kyrola, Danny Bickson, Carlos Guestrin, and Joseph M. Hellerstein. 2010. GraphLab: A new framework for parallel machine learning. In UAI. 340--349.
+Sharad Malik, Albert R. Wang, Robert. K. Brayton, and Alberto Sangiovanni-Vincentelli. 1988. Logic verification using binary decision diagrams in a logic synthesis environment. In ICCAD. 6--9.
+Matthieu Michel. 2007. Innovative asset management and targeted investments using on-line partial discharge monitoring & mapping techniques. In CIRED.
+Matthieu Michel and Carl Eastham. 2011. Improving the management of MV underground cable circuits using automated on-line cable partial discharge mapping. In CIRED.
+Svilen Mihaylov, Zachary Ives, and Sudipto Guha. 2012. REX: Recursive, delta-based data-centric computation. Proc. VLDB 5, 11 (2012), 1280--1291.
+B. Milch et al. 2005. BLOG: Probabilistic models with unknown objects. In IJCAI. 1352--1359.
+T. Minka, J. M. Winn, J. P. Guiver, and D. A. Knowles. 2012. Infer.NET 2.5. Microsoft Research Cambridge.
+Mohamed F. Mokbel, Chi-Yin Chow, and Walid G. Aref. 2006. The new Casper: Query processing for location services without compromising privacy. In VLDB. 763--774.
+W. K. Ngai, B. Kao, C. K. Chui, R. Cheng, M. Chau, and K. Y. Yip. 2006. Efficient clustering of uncertain data. In ICDM. 436--445.
+Feng Niu, Christopher Ré, AnHai Doan, and Jude W. Shavlik. 2011. Tuffy: Scaling up statistical inference in Markov logic networks using an RDBMS. Proc. VLDB 4, 6 (2011), 373--384.
+Feng Niu, Ce Zhang, Christopher Ré, and Jude W. Shavlik. 2012. DeepDive: Web-scale knowledge-base construction using statistical learning and inference. In International Workshop on Searching and Integrating New Web Data Sources (CEUR Workshop Proceedings), Vol. 884. CEUR-WS.org, 25--28.
+Dan Olteanu, Jiewen Huang, and Christoph Koch. 2009. SPROUT: Lazy vs. eager query plans for tuple-independent probabilistic databases. In ICDE. 640--651.
+Dan Olteanu, Jiewen Huang, and Christoph Koch. 2010. Approximate confidence computation in probabilistic databases. In ICDE. 145--156.
+Dan Olteanu and Sebastiaan J. van Schaik. 2012. DAGger: Clustering correlated uncertain data (to predict asset failure in energy networks). In KDD. 1504--1507.
+Dan Olteanu and Sebastiaan J. van Schaik. 2014. Probabilistic data programming with ENFrame. IEEE Data Eng. Bull. 37, 3 (2014), 18--25.
+Dan Olteanu and Hongkai Wen. 2012. Ranking query answers in probabilistic databases: Complexity and efficient algorithms. In ICDE. 282--293.
+Peter Pacheco. 2011. An Introduction to Parallel Programming (1st ed.). Morgan Kaufmann, San Francisco, CA.
+Judea Pearl. 1989. Probabilistic Reasoning in Intelligent Systems—Networks of Plausible Inference. Morgan Kaufmann.
+David Poole. 2008. The independent choice logic and beyond. In Probabilistic Inductive Logic Programming—Theory and Applications. 222--243.
+J. S. Provan and M. O. Ball. 1983. The complexity of counting cuts and of computing the probability that a graph is connected. SIAM J. Comput. 12, 4 (1983), 777--788.
+W. M. Rand. 1971. Objective criteria for the evaluation of clustering methods. J. ASA 66, 336 (1971), 846--850.
+Michael Rice and Sanjay Kulhari. 2008. A Survey of Static Variable Ordering Heuristics for Efficient BDD/MDD Construction. Technical Report. University of California, Riverside.
+Daniel Roy. 2015. Repository on probabilistic programming languages. Retrieved from www.probabilistic-programming.org.
+Richard Rudell. 1993. Dynamic variable ordering for ordered binary decision diagrams. In ICCAD. 42--47.
+Taisuke Sato and Yoshitaka Kameya. 1997. PRISM: A language for symbolic-statistical modeling. In IJCAI. 1330--1339.
+Prithviraj Sen and Amol Deshpande. 2007. Representing and querying correlated tuples in probabilistic databases. In ICDE. 596--605.
+Prithviraj Sen, Amol Deshpande, and Lise Getoor. 2009. PrDB: Managing and exploiting rich correlations in probabilistic databases. VLDB J. 18, 5 (2009), 1065--1090.
+Claude E. Shannon. 1949. The synthesis of two-terminal switching circuits. Bell Syst. Tech. J. 28, 1 (1949), 59--98.
+Detlef Sieling. 2002. The nonapproximability of OBDD minimization. J. Inf. Comput. 172, 2 (2002), 103--138.
+Dan Suciu, Dan Olteanu, Christopher Ré, and Christoph Koch. 2011. Probabilistic Databases. Morgan & Claypool.
+Liwen Sun, Reynold Cheng, David W. Cheung, and Jiefeng Cheng. 2010. Mining uncertain data with probabilistic guarantees. In KDD. 273--282.
+Gareth A. Taylor, David C. H. Wallom, Sebastien Grenard, Angel Yunta Huete, and Colin J. Axon. 2011. Recent developments towards novel high performance computing and communications solutions for smart distribution network operation. In ISTG. 1--8.
+S. van Dongen. 2000. Graph Clustering by Flow Simulation. Ph.D. Dissertation. University of Utrecht.
+Sebastiaan Johannes van Schaik. 2015. A Framework for Processing Correlated Probabilistic Data. Ph.D. Dissertation. University of Oxford.
+Sebastiaan J. van Schaik, Dan Olteanu, and Robert Fink. 2014. ENFrame: A platform for processing probabilistic data. In EDBT. 355--366.
+Peter Benjamin Volk, Frank Rosenthal, Martin Hahmann, Dirk Habich, and Wolfgang Lehner. 2009. Clustering uncertain data with possible worlds. In ICDE. 1625--1632.
+Wei Wei and Bart Selman. 2005. A new approach to model counting. In SAT. 324--339.
+Jennifer Widom. 2008. Trio: A system for data, uncertainty, and lineage. In Managing and Mining Uncertain Data, Charu Aggarwal (Ed.). Springer-Verlag, Berlin, Chapter 5.

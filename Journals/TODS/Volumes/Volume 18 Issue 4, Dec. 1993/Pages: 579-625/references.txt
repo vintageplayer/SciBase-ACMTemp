@@ -1,0 +1,48 @@
+Rakesh Agrawal , Michael J. Carey , Miron Livny, Concurrency control performance modeling: alternatives and implications, ACM Transactions on Database Systems (TODS), v.12 n.4, p.609-654, Dec. 1987[doi>10.1145/32204.32220]
+B. R. Badrinath , Krithi Ramamritham, Semantics-based concurrency control: beyond commutativity, ACM Transactions on Database Systems (TODS), v.17 n.1, p.163-199, March 1992[doi>10.1145/128765.128771]
+Philip A. Bernstein , Vassco Hadzilacos , Nathan Goodman, Concurrency control and recovery in database systems, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1987
+Michael J. Carey , Sanjay Krishnamurthi , Miron Livny, Load control for locking: the “half-and-half” approach, Proceedings of the ninth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.72-84, April 02-04, 1990, Nashville, Tennessee, United States[doi>10.1145/298514.298543]
+COURTOIS, P.J. Decomposabzhty: Queuezng and Computer System Apphcations. Academic Press, Orlando, Fla., 1977.
+C. J. Date, An introduction to database systems: vol. I (4th ed.), Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+DENNING, P. J. Thrashing: Its causes and prevention. In Proceedings o/' the AFIPS Fall Joint Computer Conference, vo}. 33. AFIPS Press, Arlington, Va., 1968, 915-922.
+Peter Franaszek , John T. Robinson, Limitations of concurrency in transaction processing, ACM Transactions on Database Systems (TODS), v.10 n.1, p.1-28, March 1985[doi>10.1145/3148.3160]
+Peter A. Franaszek , John T. Robinson , Alexander Thomasian, Concurrency control for high contention environments, ACM Transactions on Database Systems (TODS), v.17 n.2, p.304-345, June 1992[doi>10.1145/128903.128906]
+Peter A. Franaszek , John T. Robinson , Alexander Thomasian, Wait Depth Limited Concurrency Control, Proceedings of the Seventh International Conference on Data Engineering, p.92-101, April 08-12, 1991
+Peter A. Franaszek , John T. Robinson , Alexander Thomasian, Access Invariance and Its Use in High Contention Environments, Proceedings of the Sixth International Conference on Data Engineering, p.47-55, February 05-09, 1990
+Hector Garcia-Molina , Kenneth Salem, Sagas, Proceedings of the 1987 ACM SIGMOD international conference on Management of data, p.249-259, May 27-29, 1987, San Francisco, California, United States[doi>10.1145/38713.38742]
+GRAY, J. N. Experience with the System R lock manager. Inter. Memo IBM Research Center, San Jose, Ca., 1980
+Jim Gray , Andreas Reuter, Transaction Processing: Concepts and Techniques, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1992
+GRAY, J. N., HOMAN, P., OBERMARCK, R. L., AND KORTH, H. A straw-man analysis of wa~ting and deadlock. Report RJ 3066 IBM Research Center, San Jose, Ca., 1981
+Hans-Ulrich Heiss, Overload effects and their prevention, Performance Evaluation, v.12 n.4, p.219-235, July 1991[doi>10.1016/0166-5316(91)90002-K]
+Meichun Hsu , Bin Zhang, Performance evaluation of cautious waiting, ACM Transactions on Database Systems (TODS), v.17 n.3, p.477-512, Sept. 1992[doi>10.1145/132271.132275]
+KLEINROCK, L. Queuezng Systems Vol. 1, Theory. John-Wiley, New York, 1975
+KLEINROCK, L., AND LAM, S. S. Packet switching in a muir(access broadcast channel: Performance evaluation IEEE Trans. Cornman. 23, 4 (Apr. 1975), 647 654.
+Stephen S. Lavenberg, Computer Performance Modeling Handbook, Academic Press, Inc., Orlando, FL, 1983
+Axel Mönkeberg , Gerhard Weikum, Performance Evaluation of an Adaptive and Robust Load Control Method for the Avoidance of Data-Contention Thrashing, Proceedings of the 18th International Conference on Very Large Data Bases, p.432-443, August 23-27, 1992
+Axel Mönkeberg , Gerhard Weikum, Conflict-driven Load Control for the Avoidance of Data-Contention Thrashing, Proceedings of the Seventh International Conference on Data Engineering, p.632-639, April 08-12, 1991
+MOHAN, C. Interactions between query optimization and concurrency control In Proceedtrigs of the 2nd Internatzonal Work,~hop on Research Issues on Data Eng~neertng: Transactzon and Query Processing (Tempe, Ariz., Feb. 1992) IEEE Computer Society Press, Los Alamltos, Calif, 26 35.
+C. Mohan , Don Haderle , Bruce Lindsay , Hamid Pirahesh , Peter Schwarz, ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging, ACM Transactions on Database Systems (TODS), v.17 n.1, p.94-162, March 1992[doi>10.1145/128765.128770]
+C. Mohan , Hamid Pirahesh , Raymond Lorie, Efficient and flexible methods for transient versioning of records to avoid locking by read-only transactions, Proceedings of the 1992 ACM SIGMOD international conference on Management of data, p.124-133, June 02-05, 1992, San Diego, California, United States[doi>10.1145/130283.130306]
+Randolph Nelson, Stochastic catastrophe theory in computer performance modeling, Journal of the ACM (JACM), v.34 n.3, p.661-685, July 1987[doi>10.1145/28869.28878]
+PIPES, L. A., AND HARVlLL, L R. Applzed MathematLcs for Engzneers and Scientists, 3rd ed. McGraw-Hfil, New York, 1970.
+Daniel J. Rosenkrantz , Richard E. Stearns , Philip M. Lewis, II, System level concurrency control for distributed database systems, ACM Transactions on Database Systems (TODS), v.3 n.2, p.178-198, June 1978[doi>10.1145/320251.320260]
+In Kyung Ryu , Alexander Thomasian, Analysis of database performance with dynamic locking, Journal of the ACM (JACM), v.37 n.3, p.491-523, July 1990[doi>10.1145/79147.79152]
+In Kyung Ryu , Alexander Thomasian, Performance Analysis of Dynamic Locking with the No-Waiting Policy, IEEE Transactions on Software Engineering, v.16 n.7, p.684-698, July 1990[doi>10.1109/32.56095]
+In Kyung Ryu , Alexander Thomasian, Performance analysis of centralized databases with optimistic concurrency control, Performance Evaluation, v.7 n.3, p.195-211, August 1, 1987[doi>10.1016/0166-5316(87)90040-X]
+Dennis Shasha , Eric Simon , Patrick Valduriez, Simple rational guidance for chopping up transactions, Proceedings of the 1992 ACM SIGMOD international conference on Management of data, p.298-307, June 02-05, 1992, San Diego, California, United States[doi>10.1145/130283.130328]
+Y. C. Tay, Locking performance in centralized databases, Academic Press Professional, Inc., San Diego, CA, 1988
+Y. C. Tay , Nathan Goodman , R. Suri, Locking performance in centralized databases, ACM Transactions on Database Systems (TODS), v.10 n.4, p.415-462, Dec. 1985[doi>10.1145/4879.4880]
+Y. C. Tay , Rajan Suri , Nathan Goodman, A mean value performance model for locking in databases: the no-waiting case, Journal of the ACM (JACM), v.32 n.3, p.618-651, July 1985[doi>10.1145/3828.3831]
+Alexander Thomasian, Thrashing in Two-Phase Locking Revisited, Proceedings of the Eighth International Conference on Data Engineering, p.518-526, February 03-07, 1992
+Alexander Thomasian, Performance analysis of locking policies with limited wait depth, Proceedings of the 1992 ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems, p.115-127, June 01-05, 1992, Newport, Rhode Island, United States[doi>10.1145/133057.133095]
+Alexander Thomasian, On a More Realistic Lock Contention Model and Its Analysis, Proceedings of the Tenth International Conference on Data Engineering, p.2-9, February 14-18, 1994
+Alexander Thomasian, Performance Limits of Two-Phase Locking, Proceedings of the Seventh International Conference on Data Engineering, p.426-435, April 08-12, 1991
+Alexander Thomasian, Centralized concurrency control methods for high-end TP, ACM SIGMOD Record, v.20 n.3, p.106-115, Sept. 1991[doi>10.1145/126482.126495]
+Alexander Thomasian, Performance evaluation of centralized databases with static locking, IEEE Transactions on Software Engineering, v.11 n.4, p.346-355, April 1985[doi>10.1109/TSE.1985.232224]
+Alexander Thomasian , Paul Bay, Analysis of Queueing Network Models with population size constraints and delayed blocked customers, Proceedings of the 1984 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.202-216, January 1984[doi>10.1145/800264.809329]
+Alexander Thomasian , In Kyung Ryu, Performance Analysis of Two-Phase Locking, IEEE Transactions on Software Engineering, v.17 n.5, p.386-402, May 1991[doi>10.1109/32.90443]
+Alexander Thomasian , In Kyung Ryu, A Recursive Solution Method to Analyze the Performance of Static Locking Systems, IEEE Transactions on Software Engineering, v.15 n.10, p.1147-1156, October 1989[doi>10.1109/TSE.1989.559761]
+TaOMASAIA~X, A., AND RYU, I.K. On analyzing lock contention in databases. Rep. RC 12666, IBM, Hawthorne, N.Y., 1987.
+Alexander Thomasian , In Kyung Ryu, A decomposition solution to the queueing network model of the centralized DBMS with static locking, Proceedings of the 1983 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.82-92, August 29-31, 1983, Minneapolis, Minnesota, United States[doi>10.1145/800040.801397]
+John N. Tsitsiklis , Christos H. Papadimitriou , Pierre Humblet, The performance of a precedence-based queuing discipline, Journal of the ACM (JACM), v.33 n.3, p.593-602, July 1986[doi>10.1145/5925.5936]
+Yu, P. S., DIAS, D. M., AN~) LAVENBERG, S.S. On modeling database concurrency control. Rep. RC 15386, IBM, Yorktown Heights, N.Y., 1990.

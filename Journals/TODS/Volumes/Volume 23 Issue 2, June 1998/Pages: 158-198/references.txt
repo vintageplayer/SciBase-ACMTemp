@@ -1,0 +1,47 @@
+Amr El Abbadi , Dale Skeen , Flaviu Cristian, An efficient, fault-tolerant protocol for replicated data management, Proceedings of the fourth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.215-229, March 25-27, 1985, Portland, Oregon, USA[doi>10.1145/325405.325443]
+A. El Abbadi , S. Toueg, Maintaining availability in partitioned replicated databases, ACM Transactions on Database Systems (TODS), v.14 n.2, p.264-290, June 1989[doi>10.1145/63500.63501]
+ADLY, N. 1995. Performance evaluation of HARP: A hierarchical asynchronous replication protocol for large scale systems. Tech. Rep. TR-378 (August), Computer Laboratory, University of Cambridge.
+ADLY, N. AND KUMAR, A. 1994. HPP: A hierarchical propagation protocol for large scale replication in wide area networks. Tech. Rep. TR-331 (March), Computer Laboratory, University of Cambridge.
+ADLY, N., NAGI, M., AND BACON, g. 1993. A hierarchical asynchronous replication protocol for large scale systems. In Proceedings of the IEEE Workshop on Advances in Parallel and Distributed Systems (Princeton, NJ, Oct.), 152-157.
+Divyakant Agrawal , Amr El Abbadi, An efficient and fault-tolerant solution for distributed mutual exclusion, ACM Transactions on Computer Systems (TOCS), v.9 n.1, p.1-20, Feb. 1991[doi>10.1145/103727.103728]
+AGRAWAL, D. AND ABBADI, A.E. 1992. Dynamic logical structures: A position statement for managing replicated data. In Proceedings of the Second Workshop on the Management of Replicated Data (Monterey, CA, Nov. 1992), 26-29.
+Peter A. Alsberg , John D. Day, A principle for resilient sharing of distributed resources, Proceedings of the 2nd international conference on Software engineering, p.562-570, October 13-15, 1976, San Francisco, California, USA
+Anon et al , Dina Bitton , Mark Brown , Rick Catell , Stefano Ceri , Tim Chou , Dave DeWitt , Dieter Gawlick , Hector Garcia-Molina , Bob Good , Jim Gray , Pete Homan , Bob Jolls , Tony Lukes , Ed Lazowska , John Nauman , Mike Pong , Alfred Spector , Kent Trieber , Harald Sammer , Omri Serlin , Mike Stonebraker , Andreas Reuter , Peter Weinberger, A measure of transaction processing power, Datamation, v.31 n.7, p.112-118, April 1, 1985
+BARAK, A. AND KORNATZKY, Y. 1987. Design principles of operating systems for large scale multicomputers. Tech. Rep., IBM Research Division, T. J. Watson Research Center, Yorktown Heights, NY, RC 13220 (#59114).
+Daniel Barbara , Hector Garcia-Molina , Annemarie Spauster, Increasing availability under mutual exclusion constraints with dynamic vote reassignment, ACM Transactions on Computer Systems (TOCS), v.7 n.4, p.394-426, Nov. 1989[doi>10.1145/75104.75107]
+P A Bernstein , N Goodman, Serializability theory for replicated databases, Journal of Computer and System Sciences, v.31 n.3, p.355-374, December 1985[doi>10.1016/0022-0000(85)90058-3]
+Philip A. Bernstein , Vassco Hadzilacos , Nathan Goodman, Concurrency control and recovery in database systems, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1987
+Andrew D. Birrell , Roy Levin , Roger M. Needham , Michael D. Schroeder, Grapevine: An exercise in distributed computing, Proceedings of the eighth ACM symposium on Operating systems principles, p.178-179, December 14-16, 1981, Pacific Grove, California, USA[doi>10.1145/800216.806606]
+BLAZE, M. AND ALONSO, R. 1992. Dynamic hierarchical caching in large-scale distributed file systems. In Proceedings of the Twelfth International Distributed Computing Systems Conference (Yokohama, Japan, June 1992), 521-528.
+Shun Yan Cheung , Mostafa H. Ammar , Mustaque Ahamad, The Grid Protocol: A High Performance Scheme for Maintaining Replicated Data, Proceedings of the Sixth International Conference on Data Engineering, p.438-445, February 05-09, 1990
+Mustaque Ahamad , Mostafa H. Ammar , Shun Yan Cheung, Multidimensional voting, ACM Transactions on Computer Systems (TOCS), v.9 n.4, p.399-431, Nov. 1991[doi>10.1145/118544.118552]
+Dančo Davčev , Walter A. Burkhard, Consistency and recovery control for replicated files, Proceedings of the tenth ACM symposium on Operating systems principles, p.87-96, December 1985, Orcas Island, Washington, USA[doi>10.1145/323647.323637]
+Susan B. Davidson , Hector Garcia-Molina , Dale Skeen, Consistency in a partitioned network: a survey, ACM Computing Surveys (CSUR), v.17 n.3, p.341-370, Sept. 1985[doi>10.1145/5505.5508]
+Hector Garcia-Molina , Gio Wiederhold, Read-only transactions in a distributed database, ACM Transactions on Database Systems (TODS), v.7 n.2, p.209-234, June 1982[doi>10.1145/319702.319704]
+David K. Gifford, Weighted voting for replicated data, Proceedings of the seventh ACM symposium on Operating systems principles, p.150-162, December 10-12, 1979, Pacific Grove, California, USA[doi>10.1145/800215.806583]
+GOLDING, R.A. 1993. Accessing replicated data in a large-scale distributed system. Ph.D. Thesis, Department of Computer Science, University of California, Santa Cruz.
+GOLDING, R. A. AND LONG, D.E. 1991. Accessing replicated data in a large-scale distributed system. Int. J. Comput. Simul. 1, 2 (Jan.), 347-372.
+Jim Gray, Benchmark Handbook: For Database and Transaction Processing Systems, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1992
+Jim Gray , Andreas Reuter, Transaction Processing: Concepts and Techniques, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1992
+GuY, R. G., PAGE, T. W., HEIDEMANN, J. S., AND POPEK, G.J. 1990. Name transparency in very large scale distributed file systems. In Proceedings of the Second IEEE Workshop on Experimental Distributed Systems (Huntsville, AL, Oct. 1990), 20-25.
+Theo Haerder , Andreas Reuter, Principles of transaction-oriented database recovery, ACM Computing Surveys (CSUR), v.15 n.4, p.287-317, December 1983[doi>10.1145/289.291]
+Abdelsalam Ali Helal, Experimental analysis of replication in distributed systems, Purdue University, West Lafayette, IN, 1991
+Abdelsalam A. Helal , Bharat K. Bhargava , Abdelsalam A. Heddaya, Replication Techniques in Distributed Systems, Kluwer Academic Publishers, Norwell, MA, 1996
+Maurice Herlihy, A quorum-consensus replication method for abstract data types, ACM Transactions on Computer Systems (TOCS), v.4 n.1, p.32-53, Feb. 1986[doi>10.1145/6306.6308]
+Sushil Jajodia , David Mutchler, Dynamic voting, Proceedings of the 1987 ACM SIGMOD international conference on Management of data, p.227-238, May 27-29, 1987, San Francisco, California, USA[doi>10.1145/38713.38740]
+KUMAR, A. 1990a. Hierarchical quorum consensus: A new class of algorithms for replicated data. Tech. Rep. (Aug.), Graduate School of Management, Cornell University.
+KUMAR, A. 1990b. Performance analysis of a hierarchical quorum consensus. In Proceedings of the Tenth International Conference on Distributed Computing Systems (Paris, May), 378-385.
+Akhil Kumar , Shun Yan Cheung, A high availabilityNhierarchical grid algorithm for replicated data, Information Processing Letters, v.40 n.6, p.311-316, Dec. 30, 1991[doi>10.1016/0020-0190(91)90199-R]
+Xiangning Liu, Data communication and replication strategies for large scale distributed databases, Purdue University, West Lafayette, IN, 1996
+LIU, X., CHENG, L., BHARGAVA, B., AND ZHAO, Z. 1995a. Experimental study of data communication for scalability in distributed databases. Tech. Rep. CSD-TR-95-046 (July), Department of Computer Sciences, Purdue University.
+LIU, X., PITOURA, E., AND BHARGAVA, B. 1995b. Adapting distributed database systems for high availability. Tech. Rep. CSD-TR-95-013 (Feb.), Department of Computer Sciences, Purdue University.
+Mamoru Maekawa, ANalgorithm for mutual exclusion in decentralized systems, ACM Transactions on Computer Systems (TOCS), v.3 n.2, p.145-159, May 1985[doi>10.1145/214438.214445]
+MINOURA, T. AND WIEDERHOLD, G. 1982. Resilient extended true-copy token scheme for a distributed database system. IEEE Trans. Softw. Eng. 9, 5 (May), 173-189.
+OPPEN, D. C. AND DALAL, Y.K. 1981. The clearinghouse: A decentralized agent for locating named objects in a distributed environment. Tech. Rep. OPD-T8103, Xerox Research Center, Palo Alto, CA.
+Harjinder S. Sandhu , Songnian Zhou, Cluster-based file replication in large-scale distributed systems, Proceedings of the 1992 ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems, p.91-102, June 01-05, 1992, Newport, Rhode Island, USA[doi>10.1145/133057.133092]
+Mahadev Satyanarayanan, Scalable, Secure, and Highly Available Distributed File Access, Computer, v.23 n.5, p.9-18, 20-21, May 1990[doi>10.1109/2.53351]
+Mahadev Satyanarayanan , James J. Kistler , Puneet Kumar , Maria E. Okasaki , Ellen H. Siegel , David C. Steere, Coda: A Highly Available File System for a Distributed Workstation Environment, IEEE Transactions on Computers, v.39 n.4, p.447-459, April 1990[doi>10.1109/12.54838]
+STONEBRAKER, M. 1979. Concurrency control and consistency of multiple copies of data in distributed INGRES. IEEE Trans. Softw. Eng. SE-5, 3 (May), 188-194.
+TRANSACTION PROCESSING PERFORMANCE COUNCIL (TPC). 1992. TPC Benchmark C (Rev. 1.0 ed.). Transaction Processing Performance Council (TPC), San Jose, CA.
+Youngguang Zhang , Bharat Bhargava, Communication experiments for distributed transaction processing: from lan to wan, Purdue University, West Lafayette, IN, 1994
+ZHANG, Y. AND BHARGAVA, B. 1993. WANCE: A wide area network communication emulation system. In Proceedings of the IEEE Workshop on Advances in Parallel and Distributed Systems (Princeton, NJ, Oct.), 40-45.

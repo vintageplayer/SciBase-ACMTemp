@@ -1,0 +1,37 @@
+Serge Abiteboul , Meghyn Bienvenu , Alban Galland , Émilien Antoine, A rule-based language for web data management, Proceedings of the thirtieth ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems, June 13-15, 2011, Athens, Greece[doi>10.1145/1989284.1989320]
+Serge Abiteboul , Richard Hull , Victor Vianu, Foundations of Databases: The Logical Level, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1995
+Serge Abiteboul , Victor Vianu , Brad Fordham , Yelena Yesha, Relational transducers for electronic commerce, Journal of Computer and System Sciences, v.61 n.2, p.236-269, Oct. 2000[doi>10.1006/jcss.2000.1708]
+P. Alvaro, N. Conway, J. Hellerstein, and W. R. Marczak. 2011. Consistency analysis in Bloom: A CALM and collected approach. In Proceedings of the 5<sup>th</sup> Biennial Conference on Innovative Data Systems Research (CIDR'11). 249--260.
+T. J. Ameloot. 2014. Deciding correctness with fairness for simple transducer networks. In Proceedings of the 17<sup>th</sup> International Conference on Database Theory (ICDT'14). 84--95.
+Tom J. Ameloot , Bas Ketsman , Frank Neven , Daniel Zinn, Weaker forms of monotonicity for declarative networking: a more fine-grained answer to the calm-conjecture, Proceedings of the 33rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems, June 22-27, 2014, Snowbird, Utah, USA[doi>10.1145/2594538.2594541]
+Tom J. Ameloot , Frank Neven , Jan Van Den Bussche, Relational transducers for declarative networking, Journal of the ACM (JACM), v.60 n.2, p.1-38, April 2013[doi>10.1145/2450142.2450151]
+Tom J. Ameloot , Jan Van den Bussche, Deciding eventual consistency for a simple class of relational transducer networks, Proceedings of the 15th International Conference on Database Theory, March 26-29, 2012, Berlin, Germany[doi>10.1145/2274576.2274587]
+T. J. Ameloot and J. Van den Bussche. 2013. Deciding eventual consistency for a simple class of relational transducer networks. Hasselt University, Tech. rep. http://hdl.handle.net/1942/14571.
+K. R. Apt, N. Francez, and S. Katz. 1988. Appraising fairness in languages for distributed programming. Distrib. Comput. 2, 4, 226--241.
+Hagit Attiya , Jennifer Welch, Distributed Computing: Fundamentals, Simulations and Advanced Topics, John Wiley & Sons, 2004
+Peter Bailis , Ali Ghodsi, Eventual Consistency Today: Limitations, Extensions, and Beyond, Queue, v.11 n.3, March 2013[doi>10.1145/2460276.2462076]
+Paul Beame , Paraschos Koutris , Dan Suciu, Communication steps for parallel query processing, Proceedings of the 32nd symposium on Principles of database systems, June 22-27, 2013, New York, New York, USA[doi>10.1145/2463664.2465224]
+Mark Cavage, There's Just No Getting around It: You're Building a Distributed System, Queue, v.11 n.4, April 2013[doi>10.1145/2466486.2482856]
+Ashok K. Chandra , Philip M. Merlin, Optimal implementation of conjunctive queries in relational data bases, Proceedings of the ninth annual ACM symposium on Theory of computing, p.77-90, May 04-04, 1977, Boulder, Colorado, USA[doi>10.1145/800105.803397]
+Neil Conway , William R. Marczak , Peter Alvaro , Joseph M. Hellerstein , David Maier, Logic and lattices for distributed programming, Proceedings of the Third ACM Symposium on Cloud Computing, p.1-14, October 14-17, 2012, San Jose, California[doi>10.1145/2391229.2391230]
+Alin Deutsch , Richard Hull , Fabio Patrizi , Victor Vianu, Automatic verification of data-centric business processes, Proceedings of the 12th International Conference on Database Theory, March 23-25, 2009, St. Petersburg, Russia[doi>10.1145/1514894.1514924]
+Alin Deutsch , Liying Sui , Victor Vianu, Specification and verification of data-driven Web applications, Journal of Computer and System Sciences, v.73 n.3, p.442-474, May, 2007[doi>10.1016/j.jcss.2006.10.006]
+Alin Deutsch , Liying Sui , Victor Vianu , Dayou Zhou, Verification of communicating data-driven web services, Proceedings of the twenty-fifth ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems, June 26-28, 2006, Chicago, IL, USA[doi>10.1145/1142351.1142364]
+Nissim Francez, Fairness, Springer-Verlag New York, Inc., New York, NY, 1986
+Stéphane Grumbach , Fang Wang, Netlog, a rule-based language for distributed programming, Proceedings of the 12th international conference on Practical Aspects of Declarative Languages, January 18-19, 2010, Madrid, Spain[doi>10.1007/978-3-642-11503-5_9]
+Joseph M. Hellerstein, The declarative imperative: experiences and conjectures in distributed logic, ACM SIGMOD Record, v.39 n.1, March 2010[doi>10.1145/1860702.1860704]
+Shan Shan Huang , Todd Jeffrey Green , Boon Thau Loo, Datalog and emerging applications: an interactive tutorial, Proceedings of the 2011 ACM SIGMOD International Conference on Management of data, June 12-16, 2011, Athens, Greece[doi>10.1145/1989323.1989456]
+Paraschos Koutris , Dan Suciu, Parallel evaluation of conjunctive queries, Proceedings of the thirtieth ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems, June 13-15, 2011, Athens, Greece[doi>10.1145/1989284.1989310]
+Leslie Lamport, Fairness and hyperfairness, Distributed Computing, v.13 n.4, p.239-245, November 2000[doi>10.1007/PL00008921]
+Boon Thau Loo , Tyson Condie , Minos Garofalakis , David E. Gay , Joseph M. Hellerstein , Petros Maniatis , Raghu Ramakrishnan , Timothy Roscoe , Ion Stoica, Declarative networking: language, execution and optimization, Proceedings of the 2006 ACM SIGMOD international conference on Management of data, June 27-29, 2006, Chicago, IL, USA[doi>10.1145/1142473.1142485]
+A. Nash and B. Ludascher. 2004. Processing unions of conjunctive queries with negation under limited access patterns. In Proceedings of the 9<sup>th</sup> International Conference on Extending Database Technology (EDBT'04). Springer, 422--440.
+Hung Q Ngo , Christopher Ré , Atri Rudra, Skew strikes back: new developments in the theory of join algorithms, ACM SIGMOD Record, v.42 n.4, December 2013[doi>10.1145/2590989.2590991]
+Vivek Nigam , Limin Jia , Boon Thau Loo , Andre Scedrov, Maintaining distributed logic programs incrementally, Computer Languages, Systems and Structures, v.38 n.2, p.158-180, July, 2012[doi>10.1016/j.cl.2012.02.001]
+M. Shapiro, N. M. Preguica, C. Baquero, and M. Zawirski. 2011a. A comprehensive study of convergent and commutative replicated data types. Tech. report RR-7506. INRIA.
+M. Shapiro, N. M. Preguica, C. Baquero, and M. Zawirski. 2011b. Convergent and commutative replicated data types. Bull. EATCS 104, 67--88.
+Marc Spielmann, Verification of relational transducers for electronic commerce, Journal of Computer and System Sciences, v.66 n.1, p.40-65, 01 February 2003[doi>10.1016/S0022-0000(02)00029-6]
+T. L. Veldhuizen. 2014. Triejoin: A simple, worst-case optimal join algorithm. In Proceedings of the 17<sup>th</sup> International Conference on Database Theory (ICDT'14). 96--106.
+Werner Vogels, Eventually consistent, Communications of the ACM, v.52 n.1, January 2009[doi>10.1145/1435417.1435432]
+Michael Wooldridge, An Introduction to MultiAgent Systems, Wiley Publishing, 2009
+Q. Zhang, L. Cheng, and R. Boutaba. 2010. Cloud computing: State-of-the-art and research challenges. J. Internet Services Appl. 1, 1, 7--18.
+Daniel Zinn , Todd J. Green , Bertram Ludäscher, Win-move is coordination-free (sometimes), Proceedings of the 15th International Conference on Database Theory, March 26-29, 2012, Berlin, Germany[doi>10.1145/2274576.2274588]

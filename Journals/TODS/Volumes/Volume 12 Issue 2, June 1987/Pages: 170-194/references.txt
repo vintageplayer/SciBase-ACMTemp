@@ -1,0 +1,33 @@
+Peter A. Alsberg , John D. Day, A principle for resilient sharing of distributed resources, Proceedings of the 2nd international conference on Software engineering, p.562-570, October 13-15, 1976, San Francisco, California, USA
+Philip A. Bernstein , Nathan Goodman, The failure and recovery problem for replicated databases, Proceedings of the second annual ACM symposium on Principles of distributed computing, p.114-122, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806714]
+Philip A. Bernstein , Nathan Goodman, An algorithm for concurrency control and recovery in replicated distributed databases, ACM Transactions on Database Systems (TODS), v.9 n.4, p.596-615, Dec. 1984[doi>10.1145/1994.2207]
+Andrew D. Birrell , Roy Levin , Michael D. Schroeder , Roger M. Needham, Grapevine: an exercise in distributed computing, Communications of the ACM, v.25 n.4, p.260-274, April 1982[doi>10.1145/358468.358487]
+BLOCH, J. J., DANIELS, D. S., AND SPECTOR, A.Z. Weighted voting for directories: A comprehensive study. Tech. Rep. CMU-CS-84-114, Carnegie-Mellon Univ., Pittsburgh, Pa., Apr. 1984.
+Brian A Coan , Brian M Oki , Elliot K Kolodner, Limitations on database availability when networks partition, Proceedings of the fifth annual ACM symposium on Principles of distributed computing, p.187-194, August 11-13, 1986, Calgary, Alberta, Canada[doi>10.1145/10590.10606]
+Susan B. Davidson, Optimism and consistency in partitioned distributed database systems, ACM Transactions on Database Systems (TODS), v.9 n.3, p.456-481, Sept. 1984[doi>10.1145/1270.1499]
+Susan B. Davidson , Hector Garcia-Molina , Dale Skeen, Consistency in a partitioned network: a survey, ACM Computing Surveys (CSUR), v.17 n.3, p.341-370, Sept. 1985[doi>10.1145/5505.5508]
+Derek L. Eager , Kenneth C. Sevcik, Achieving robustness in distributed database systems, ACM Transactions on Database Systems (TODS), v.8 n.3, p.354-381, Sept. 1983[doi>10.1145/319989.319992]
+Amr El Abbadi , Dale Skeen , Flaviu Cristian, An efficient, fault-tolerant protocol for replicated data management, Proceedings of the fourth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.215-229, March 25-27, 1985, Portland, Oregon, USA[doi>10.1145/325405.325443]
+A. El Abbadi , S. Toueg, Availability in partitioned replicated databases, Cornell University, Ithaca, NY, 1985
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+Michael J. Fischer , Alan Michael, Sacrificing serializability to attain high availability of data in an unreliable network, Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database systems, March 29-31, 1982, Los Angeles, California[doi>10.1145/588111.588124]
+GARCIA-MOLINA, H., ALLEN, T., BLAUSTEIN, B., CHILENSKAS, R. M., AND RIES, D. Data- Patch: Inte~ating inconsistent copies of a database after a pa~itiono In Proceedings of the 3rd Symposium on Reliability in Distributed Software and Database Systems (Clearwater Beach, Fla., Oct. 1983), IEEE, New York, 1983, 38-46.
+Hector Garcia-Molina , Daniel Barbara, How to assign votes in a distributed system, Journal of the ACM (JACM), v.32 n.4, p.841-860, Oct. 1985[doi>10.1145/4221.4223]
+David K. Gifford, Weighted voting for replicated data, Proceedings of the seventh ACM symposium on Operating systems principles, p.150-162, December 10-12, 1979, Pacific Grove, California, USA[doi>10.1145/800215.806583]
+Jim Gray, Notes on Data Base Operating Systems, Operating Systems, An Advanced Course, p.393-481, January 1978
+Micael Hammer , David Shipman, Reliability mechanisms for SDD-1: a system for distributed databases, ACM Transactions on Database Systems (TODS), v.5 n.4, p.431-466, Dec.  1980[doi>10.1145/320610.320621]
+HERLmY, M.P. Replication methods for abstract data types. Tech. Pep. MIT/LCS/TR-319, MIT Laboratory for Computer Science, May 1984, Ph.D. dissertation.
+HERLmY. M.F. Availability vs. atomicity: Concurrency control for replicated data. Tech. Rep. CMU-CS-85-108, Carnegie-Mellon Univ., Feb. 1985.
+Maurice Herlihy, Comparing how atomicity mechanisms support replication, Proceedings of the fourth annual ACM symposium on Principles of distributed computing, p.102-110, August 1985, Minaki, Ontario, Canada[doi>10.1145/323596.323605]
+HERLIHY, M.P. Using type information to enhance the availability of partitioned data. Tech.
+Maurice Herlihy, A quorum-consensus replication method for abstract data types, ACM Transactions on Computer Systems (TOCS), v.4 n.1, p.32-53, Feb. 1986[doi>10.1145/6306.6308]
+Walter H. Kohler, A Survey of Techniques for Synchronization and Recovery in Decentralized Computer Systems, ACM Computing Surveys (CSUR), v.13 n.2, p.149-183, June 1981[doi>10.1145/356842.356845]
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+Christos H. Papadimitriou, The serializability of concurrent database updates, Journal of the ACM (JACM), v.26 n.4, p.631-653, Oct. 1979[doi>10.1145/322154.322158]
+G. Popek , B. Walker , J. Chow , D. Edwards , C. Kline , G. Rudisin , G. Thiel, LOCUS a network transparent, high reliability distributed system, Proceedings of the eighth ACM symposium on Operating systems principles, p.169-177, December 14-16, 1981, Pacific Grove, California, USA[doi>10.1145/800216.806605]
+David P. Reed, Implementing atomic actions on decentralized data, ACM Transactions on Computer Systems (TOCS), v.1 n.1, p.3-23, Feb. 1983[doi>10.1145/357353.357355]
+SKEEN, M.D. Crash recovery in a distributed database system. Ph.D. dissertation, Univ. of California, Berkley, May 1982
+Robert H. Thomas, A Majority consensus approach to concurrency control for multiple copy databases, ACM Transactions on Database Systems (TODS), v.4 n.2, p.180-209, June 1979[doi>10.1145/320071.320076]
+Joost S. M. Verhofstad, Recovery Techniques for Database Systems, ACM Computing Surveys (CSUR), v.10 n.2, p.167-195, June 1978[doi>10.1145/356725.356730]
+W. E. Weihl, SPECIFICATION AND IMPLEMENTATION OF ATOMIC DATA TYPES, Massachusetts Institute of Technology, Cambridge, MA, 1984
+WRIGHT, D.D. Managing distributed databases in partitioned networks. Tech. Rep. 83-572, Cornell Univ., Sept. 1983.

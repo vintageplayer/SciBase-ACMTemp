@@ -1,0 +1,47 @@
+AGRAWAL, R. Concurrency control and recovery in multiprocessor database machines: Design and performance evaluation. Computer Sciences Tech. Rep. 510, University of Wisconsin, Madison, Sept. 1983.
+Rakesh Agrawal , Michael J. Carey , David J. DeWitt, Deadlock detection is cheap, ACM SIGMOD Record, v.13 n.2, p.19-34, January 1983[doi>10.1145/984523.984524]
+Philip A. Bernstein , Nathan Goodman, A Sophisticate's Introduction to Distributed Concurrency Control (Invited Paper), Proceedings of the 8th International Conference on Very Large Data Bases, p.62-76, September 08-10, 1982
+Philip A. Bernstein , Nathan Goodman, Concurrency Control in Distributed Database Systems, ACM Computing Surveys (CSUR), v.13 n.2, p.185-221, June 1981[doi>10.1145/356842.356846]
+BERNSTEIN, P. A., AND GOODMAN, N. Fundamental algorithms for concurrency control in distributed database systems. Tech. Rep., Computer Corp. America, Cambridge, Mass., 1980.
+Alfonso F. Cárdenas, Analysis and performance of inverted data base structures, Communications of the ACM, v.18 n.5, p.253-263, May 1975[doi>10.1145/360762.360766]
+Michael James Carey, Modeling and evaluation of database concurrency control algorithms, 1983
+Michael J. Carey , Michael Stonebraker, The Performance of Concurrency Control Algorithms for Database Management Systems, Proceedings of the 10th International Conference on Very Large Data Bases, p.107-118, August 27-31, 1984
+CHANDY, K.M. A survey of analytic models of rollback and recovery strategies. IEEE Comput. 8, 5 (May 1975), 40-47.
+E. G. Coffman , M. Elphick , A. Shoshani, System Deadlocks, ACM Computing Surveys (CSUR), v.3 n.2, p.67-78, June 1971[doi>10.1145/356586.356588]
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+GALLER, B. Concurrency control performance issues. Tech. Rep. CSRG-147, Computer Systems Research Group, University of Toronto, Canada, Sept. 1982.
+Erol Gelenbe, On the Optimum Checkpoint Interval, Journal of the ACM (JACM), v.26 n.2, p.259-270, April 1979[doi>10.1145/322123.322131]
+E. Gelenbe , D. Derochette, Performance of rollback recovery systems under intermittent failures, Communications of the ACM, v.21 n.6, p.493-499, June 1978[doi>10.1145/359511.359531]
+Nathan Goodman , Rajan Suri , Y. C. Tay, A simple analytic model for performance of exclusive locking in database systems, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia[doi>10.1145/588058.588084]
+Jim Gray, Notes on Data Base Operating Systems, Operating Systems, An Advanced Course, p.393-481, January 1978
+GRAY, J.N. Personal communication to D. J. DeWitt, April 1982.
+GRAY, J.N. The transaction concept: Virtues and limitations. In Proc. 7th Int. Con{. Very Large Data Bases (Sept. 1981), 144-154.
+GRAY, J. N., HOMAN, P., KORTH, H., AND OBERMARCK, R. A straw man analysis of the probability of waiting and deadlock in a database system. Rep. ~uvv, l~lw rtesearch Lab., San Jose, Calif., Feb. 1981.
+Jim Gray , Paul McJones , Mike Blasgen , Bruce Lindsay , Raymond Lorie , Tom Price , Franco Putzolu , Irving Traiger, The Recovery Manager of the System R Database Manager, ACM Computing Surveys (CSUR), v.13 n.2, p.223-242, June 1981[doi>10.1145/356842.356847]
+Richard C. Holt, Some Deadlock Properties of Computer Systems, ACM Computing Surveys (CSUR), v.4 n.3, p.179-196, Sept. 1972[doi>10.1145/356603.356607]
+IBM. Reference Manual for IBM 3350 Direct Access Storage, GA26-1638-2, File $370-07, IBM General Products Division, San Jose, Calif., April 1977.
+Keki B. Irani , Hing-Lung Lin, Queueing network models for concurrent transaction processing in a database system, Proceedings of the 1979 ACM SIGMOD international conference on Management of data, May 30-June 01, 1979, Boston, Massachusetts[doi>10.1145/582095.582116]
+Walter H. Kohler, A Survey of Techniques for Synchronization and Recovery in Decentralized Computer Systems, ACM Computing Surveys (CSUR), v.13 n.2, p.149-183, June 1981[doi>10.1145/356842.356845]
+H. T. Kung , John T. Robinson, On optimistic methods for concurrency control, ACM Transactions on Database Systems (TODS), v.6 n.2, p.213-226, June 1981[doi>10.1145/319566.319567]
+LAMPSON, B., AND STURGIS, H. Crash recovery in a distributed data storage system. Computer Science Lab., Xerox PARC, 1979.
+LmN, W. T. K., AND NOLTE, Z. Basic timestamp, multiple version timestamp, and two phase locking. Computer Corp. America, Cambridge, Mass., Jan. 1983.
+LZN, W. T. K., AND NOLTE, J. Performance of two phase locking. In Proc. 6th Berkeley Workshop on Distributed Data Management and Computer Networks (Feb. 1982), 131-160.
+Raymond A. Lorie, Physical integrity in a large segmented database, ACM Transactions on Database Systems (TODS), v.2 n.1, p.91-104, March 1977[doi>10.1145/320521.320540]
+PEINL, P., AND REUTER, A. Empirical comparison of database concurrency control schemes, Universitfit Kaiserslautern, West germany,1983.
+D. Potier , Ph. Leblanc, Analysis of locking policies in database management systems, Communications of the ACM, v.23 n.10, p.584-593, Oct. 1980[doi>10.1145/359015.359021]
+D. P. Reed, NAMING AND SYNCHRONIZATION IN A DECENTRALIZED COMPUTER SYSTEM, Massachusetts Institute of Technology, Cambridge, MA, 1978
+REUTER, A. A, nnAlyt;e rnadpl of t rAn.~A~fion int.grfgrgnrg in dAfAh~.~g ay~t~mQ IR gg-g.2, Universitat Kaiserslautern, West Germany, 1983.
+REUTER, A. Performance analysis of recovery techniques. IB 63-82, Universit~it Kaiserslautern, West Germany, 1982.
+Daniel Roland Ries, The effects of concurrency control on the performance of database management systems., 1979
+Dennis M. Ritchie , Ken Thompson, The UNIX time-sharing system, Communications of the ACM, v.17 n.7, p.365-375, July 1974[doi>10.1145/361011.361061]
+ROBINSON, J.T. Design of concurrency controls for transaction processing systems. Rep. CMU- CS-82-114, Computer Science Dep., Carnegie-Mellon University, Pittsburgh, April 1982.
+Daniel J. Rosenkrantz , Richard E. Stearns , Philip M. Lewis, II, System level concurrency control for distributed database systems, ACM Transactions on Database Systems (TODS), v.3 n.2, p.178-198, June 1978[doi>10.1145/320251.320260]
+Dennis G. Severance , Guy M. Lohman, Differential files: their application to the maintenance of large databases, ACM Transactions on Database Systems (TODS), v.1 n.3, p.256-267, Sept. 1976[doi>10.1145/320473.320484]
+James F. Spitzer, Performance prototyping of data management applications, Proceedings of the annual conference, p.287-291, October 20-22, 1976, Houston, Texas, United States[doi>10.1145/800191.805599]
+Michael Stonebraker, Hypothetical data bases as views, Proceedings of the 1981 ACM SIGMOD international conference on Management of data, April 29-May 01, 1981, Ann Arbor, Michigan[doi>10.1145/582318.582352]
+Michael Stonebraker, Implementation of integrity constraints and views by query modification, Proceedings of the 1975 ACM SIGMOD international conference on Management of data, May 14-16, 1975, San Jose, California[doi>10.1145/500080.500091]
+TAY, Y.C. A mean value performance model for locking in databases. Tech. Rep. 04-84, Harvard University, Cambridge, Mass., Feb. 1984.
+Y. C. Tay , Rajan Suri, Choice and Performance in Locking for Databases, Proceedings of the 10th International Conference on Very Large Data Bases, p.119-128, August 27-31, 1984
+TRAIGER, I. L., GRAY, J. N., GALTIERI, C., AND LINDSAY, B.G. Transactions and consistency in distributed database systems. Rep. RJ2555, IBM Research Lab., San Jose, Calif., June 1979.
+Joost S. M. Verhofstad, Recovery Techniques for Database Systems, ACM Computing Surveys (CSUR), v.10 n.2, p.167-195, June 1978[doi>10.1145/356725.356730]
+S. B. Yao, Approximating block accesses in database organizations, Communications of the ACM, v.20 n.4, p.260-261, April 1977[doi>10.1145/359461.359475]

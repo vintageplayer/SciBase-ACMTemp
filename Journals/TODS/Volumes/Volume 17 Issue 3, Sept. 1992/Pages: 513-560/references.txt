@@ -1,0 +1,34 @@
+Robert Abbott , Hector Garcia-Molina, Scheduling real-time transactions, ACM SIGMOD Record, v.17 n.1, p.71-81, March, 1988[doi>10.1145/44203.44209]
+Robert K. Abbott , Hector Garcia-Molina, Scheduling Real-time Transactions: a Performance Evaluation, Proceedings of the 14th International Conference on Very Large Data Bases, p.1-12, August 29-September 01, 1988
+R. Abbott , H. Garcia-Molina, Scheduling real-time transactions with disk resident data, Proceedings of the 15th international conference on Very large data bases, p.385-395, July 1989, Amsterdam, The Netherlands
+ABBOTT, R., AND GARCIA-MOLINA, H. Scheduling I/O requests with deadlines: A performance evaluation. IEEE Real-Time Syst. Syrup. (Dec. 1990), 113-124.
+BRYANT, R. M. SIMPAS 5.0 User Manual. Computer Sciences Dept., TR-146, Univ. of Wisconsin-Madison, Nov. 1981.
+M. J. Carey , R. Jauhari , M. Livny, Priority in DBMS resource scheduling, Proceedings of the 15th international conference on Very large data bases, p.397-410, July 1989, Amsterdam, The Netherlands
+Edward G. Coffman, Jr. , Peter J. Denning, Operating Systems Theory, Prentice Hall Professional Technical Reference, 1973
+DAVIDSON, S., LEE, I., AND WOLFE, V. A protocol for timed atomic commitment. In the IEEE Internattonal Conference on Distributed Computing Systems (Newport Beach, Calif., June 5-9, 1989), pp. 199 206.
+U. Dayal , B. Blaustein , A. Buchmann , U. Chakravarthy , M. Hsu , R. Ledin , D. McCarthy , A. Rosenthal , S. Sarin , M. J. Carey , M. Livny , R. Jauhari, The HiPAC project: combining active databases and timing constraints, ACM SIGMOD Record, v.17 n.1, p.51-70, March, 1988[doi>10.1145/44203.44208]
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+Hector Garcia-Molina, Using semantic knowledge for transaction processing in a distributed database, ACM Transactions on Database Systems (TODS), v.8 n.2, p.186-213, June 1983[doi>10.1145/319983.319985]
+Theo Haerder , Andreas Reuter, Principles of transaction-oriented database recovery, ACM Computing Surveys (CSUR), v.15 n.4, p.287-317, December 1983[doi>10.1145/289.291]
+Jayant R. Haritsa , Michael J. Carey , Miron Livny, On being optimistic about real-time constraints, Proceedings of the ninth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.331-343, April 02-04, 1990, Nashville, Tennessee, United States[doi>10.1145/298514.298585]
+HARITSA, J., CAREY, M., AND LIVNY, M. Dynamic real-time optimistic concurrency control. IEEE Real-Time Sys. Syrup. (Dec. 1990), 94-103.
+Jiandong Huang , John A. Stankovic, Buffer Management in Real-Time Databases, University of Massachusetts, Amherst, MA, 1990
+Jiandong Huang , John A. Stankovic , Krithi Ramamritham , Don Towsley, On Using Priority Inheritance in Real-Time Databases, University of Massachusetts, Amherst, MA, 1990
+HUANG, J., STANKOVIC, J., TOWSLEY, D., AND RAMARITHAM, K. Experimental evaluation of real-time transaction processing. IEEE Real-Time Syst. Symp. (Dec. 1989), 144 153.
+ISLOOR, S., AND MARS~ND, T. The deadlock problem: An overview. IEEE Comput. (Sept. 1980), 55-78.
+IYER, B., Yu, P., AND LEE, Y. Analysis of recovery protocols in distributed on-line transaction processing systems. IEEE Real-time Syst. Symp. (Dec. 1986), 226-233.
+JAUHARI, R., CAREY, M., AND LiVNY M. Priority hints: An algorithm for priority based buffer management. TR 911, Computer Sciences Dept., Univ. of Wisconsin-Madison, Feb. 1990.
+JENSEN, E., LOCKE, C. D., AND TOKUDA, H. A time-driven scheduling model for real-time operating systems. IEEE Real-Time Syst. Symp. (Dec. 1985), 112-122.
+I. Lee , S. B. Davidson, Adding time to synchronous process communications, IEEE Transactions on Computers, v.36 n.8, p.941-948, Aug. 1987[doi>10.1109/TC.1987.5009517]
+Y.-H. Lee , P. S. Yu , B. R. Iyer, Progressive transaction recovery in distributed DB/DC systems, IEEE Transactions on Computers, v.36 n.8, p.976-987, Aug. 1987[doi>10.1109/TC.1987.5009520]
+Kwei-Jay Lin , Ming-Ju Lin, Enhancing availability in distributed real-time databases, ACM SIGMOD Record, v.17 n.1, p.34-43, March, 1988[doi>10.1145/44203.44206]
+LIN, Y., AND SON, S. Concurrency control in real-time databases by dynamic adjustment of serialization order. IEEE Real-time Syst. Syrup. (Dec. 1990), 104-112.
+C. L. Liu , James W. Layland, Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment, Journal of the ACM (JACM), v.20 n.1, p.46-61, Jan. 1973[doi>10.1145/321738.321743]
+MoK, A. Fundamental design problems of distributed systems for the real-time environment. Ph.D. thesis, Dept. of Electrical Engineering and Computer Science, MIT, Cambridge, Mass., May 1983.
+James L. Peterson , Abraham Silberschatz, Operating system concepts (2nd ed.), Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1985
+Lui Sha , John Lehoczky , E. Douglas Jensen, Modular Concurrency Control and Failure Recovery, IEEE Transactions on Computers, v.37 n.2, p.146-159, February 1988[doi>10.1109/12.2144]
+SHA, L., RAJKUMAR, R., AND LEHOCZKY, J.P. Priority inheritance protocols: An approach to real-time synchronization, CMU-CS-87-181, Dept. of Computer Science, Carnegie-Mellon Univ., Dec. 1987.
+Lui Sha , Ragunathan Rajkumar , John P. Lehooczky, Concurrency control for distributed real-time databases, ACM SIGMOD Record, v.17 n.1, p.82-98, March, 1988[doi>10.1145/44203.44210]
+John A. Stankovic , Wei Zhao, On real-time transactions, ACM SIGMOD Record, v.17 n.1, p.4-18, March, 1988[doi>10.1145/44203.44204]
+STOK, P. VAN DER. The feasibility of a relational database programming language in process control. IEEE Real-Tzme Syst. Syrup. (Dec. 1984), 105-113.
+John Voelcker, The computer plays the market, IEEE Spectrum, v.24 n.12, p.30-33, Dec. 1987

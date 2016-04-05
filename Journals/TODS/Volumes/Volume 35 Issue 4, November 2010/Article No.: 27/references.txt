@@ -1,0 +1,33 @@
+Serge Abiteboul , Oliver M. Duschka, Complexity of answering queries using materialized views, Proceedings of the seventeenth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.254-263, June 01-04, 1998, Seattle, Washington, USA[doi>10.1145/275487.275516]
+Serge Abiteboul , Richard Hull , Victor Vianu, Foundations of Databases: The Logical Level, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1995
+Marcelo Arenas , Leopoldo Bertossi , Jan Chomicki, Consistent query answers in inconsistent databases, Proceedings of the eighteenth ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems, p.68-79, May 31-June 03, 1999, Philadelphia, Pennsylvania, USA[doi>10.1145/303976.303983]
+Carlo Batini , Monica Scannapieco, Data Quality: Concepts, Methodologies and Techniques (Data-Centric Systems and Applications), Springer-Verlag New York, Inc., Secaucus, NJ, 2006
+Loreto Bravo , Wenfei Fan , Shuai Ma, Extending dependencies with conditions, Proceedings of the 33rd international conference on Very large data bases, September 23-27, 2007, Vienna, Austria
+Andrea Calì , Domenico Lembo , Riccardo Rosati, On the decidability and complexity of query answering over inconsistent and incomplete databases, Proceedings of the twenty-second ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems, p.260-271, June 09-11, 2003, San Diego, California[doi>10.1145/773153.773179]
+Diego Calvanese , Giuseppe De Giacomo , Maurizio Lenzerini , Moshe Y. Vardi, View-based query processing: On the relationship between rewriting, answering and losslessness, Theoretical Computer Science, v.371 n.3, p.169-182, February 2007[doi>10.1016/j.tcs.2006.11.006]
+Ashok K. Chandra , Philip M. Merlin, Optimal implementation of conjunctive queries in relational data bases, Proceedings of the ninth annual ACM symposium on Theory of computing, p.77-90, May 04-04, 1977, Boulder, Colorado, USA[doi>10.1145/800105.803397]
+Jan Chomicki, Consistent query answering: five easy pieces, Proceedings of the 11th international conference on Database Theory, January 10-12, 2007, Barcelona, Spain[doi>10.1007/11965893_1]
+Evgeny Dantsin , Andrei Voronkov, Complexity of Query Answering in Logic Databases with Complex Values, Proceedings of the 4th International Symposium on Logical Foundations of Computer Science, p.56-66, July 06-12, 1997
+Alin Deutsch , Bertram Ludäscher , Alan Nash, Rewriting queries using views with access patterns under integrity constraints, Theoretical Computer Science, v.371 n.3, p.200-226, February 2007[doi>10.1016/j.tcs.2006.11.008]
+Dreibelbis, A., Hechler, E., Mathews, B., Oberhofer, M., and Sauter, G. 2007. Master data management architecture patterns. Tech. rep. IBM.
+Charles Elkan, Independence of logic database queries and update, Proceedings of the ninth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.154-160, April 02-04, 1990, Nashville, Tennessee, USA[doi>10.1145/298514.298557]
+Wenfei Fan, Dependencies revisited for improving data quality, Proceedings of the twenty-seventh ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems, June 09-12, 2008, Vancouver, Canada[doi>10.1145/1376916.1376940]
+Wenfei Fan , Floris Geerts, Relative information completeness, Proceedings of the twenty-eighth ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems, June 29-July 01, 2009, Providence, Rhode Island, USA[doi>10.1145/1559795.1559811]
+Wenfei Fan , Floris Geerts, Capturing missing tuples and missing values, Proceedings of the twenty-ninth ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems, June 06-11, 2010, Indianapolis, Indiana, USA[doi>10.1145/1807085.1807109]
+Wenfei Fan , Floris Geerts , Xibei Jia , Anastasios Kementsietsidis, Conditional functional dependencies for capturing data inconsistencies, ACM Transactions on Database Systems (TODS), v.33 n.2, p.1-48, June 2008[doi>10.1145/1366102.1366103]
+Michael R. Garey , David S. Johnson, Computers and Intractability: A Guide to the Theory of NP-Completeness, W. H. Freeman & Co., New York, NY, 1979
+Georg Gottlob , Roberto Zicari, Closed World Databases Opened Through Null Values, Proceedings of the 14th International Conference on Very Large Data Bases, p.50-61, August 29-September 01, 1988
+G. Grahne, Problem of Incomplete Information in Relational Databases, Springer-Verlag New York, Inc., Secaucus, NJ, 1991
+Thomas N. Herzog , Fritz J. Scheuren , William E. Winkler, Data Quality and Record Linkage Techniques, Springer Publishing Company, Incorporated, 2007
+Tomasz Imieliński , Witold Lipski, Jr., Incomplete Information in Relational Databases, Journal of the ACM (JACM), v.31 n.4, p.761-791, Oct. 1984[doi>10.1145/1634.1886]
+Alon Y. Levy, Obtaining Complete Answers from Incomplete Databases, Proceedings of the 22th International Conference on Very Large Data Bases, p.402-412, September 03-06, 1996
+Alon Y. Levy , Yehoshua Sagiv, Queries Independent of Updates, Proceedings of the 19th International Conference on Very Large Data Bases, p.171-181, August 24-27, 1993
+Chen Li, Computing complete answers to queries in the presence of limited access patterns, The VLDB Journal — The International Journal on Very Large Data Bases, v.12 n.3, p.211-227, October 2003[doi>10.1007/s00778-002-0085-6]
+David Loshin, Master Data Management, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2008
+Amihai Motro, Integrity = validity + completeness, ACM Transactions on Database Systems (TODS), v.14 n.4, p.480-502, Dec. 1989[doi>10.1145/76902.76904]
+Papadimitriou, C. H. 1994. Computational Complexity. Addison-Wesley.
+Radcliffe, J. and White, A. 2008. Key issues for master data management. Tech. rep. Gartner.
+Luc Segoufin , Victor Vianu, Views and queries: determinacy and rewriting, Proceedings of the twenty-fourth ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems, June 13-15, 2005, Baltimore, Maryland[doi>10.1145/1065167.1065174]
+Spielmann, M. 2000. Abstract state machines: Verification problems and complexity. Ph.D. thesis, RWTH Aachen.
+Ron van der Meyden, Logical approaches to incomplete information: a survey, Logics for databases and information systems, Kluwer Academic Publishers, Norwell, MA, 1998
+Moshe Vardi, On the integrity of databases with incomplete information, Proceedings of the fifth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.252-266, March 24-26, 1986, Cambridge, Massachusetts, USA[doi>10.1145/6012.15419]

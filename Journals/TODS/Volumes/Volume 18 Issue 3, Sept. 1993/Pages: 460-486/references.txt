@@ -1,0 +1,41 @@
+Serge Abiteboul , Victor Vianu, Transactions and integrity constraints, Proceedings of the fourth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.193-204, March 25-27, 1985, Portland, Oregon, United States[doi>10.1145/325405.325439]
+B. R. Badrinath , Krithi Ramamritham, Semantics-Based Concurrency Control: Beyond Commutativity, Proceedings of the Third International Conference on Data Engineering, p.304-311, February 03-05, 1987
+Catriel Beeri , Philip A. Bernstein , Nathan Goodman, A model for concurrency in nested transactions systems, Journal of the ACM (JACM), v.36 n.2, p.230-269, April 1989[doi>10.1145/62044.62046]
+BERNSTEIN, P. A., SHIPMAN, D. W., AND WONG, W. S. Formal aspects of serializability in database concurrency control. IEEE Trons. Softw. Eng. 5 5 (May 1979), 203-216.
+Stefan Böttcher , Matthias Jarke , Joachim W. Schmidt, Adaptive Predicate Managers in Database Systems, Proceedings of the 12th International Conference on Very Large Data Bases, p.21-29, August 25-28, 1986
+DIJKST~, E.W. A Discipline of Programming. Prentice-Hall, Englewood Cliffs, N.J., 1976.
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+Abdel Aziz Farrag , M. Tamer Özsu, Using semantic knowledge of transactions to increase concurrency, ACM Transactions on Database Systems (TODS), v.14 n.4, p.503-525, Dec. 1989[doi>10.1145/76902.76905]
+A. Fekete , N. Lynch , W. Weihl, HYBRID ATOMICITY FOR NESTED TRANSACTIONS, Massachusetts Institute of Technology, Cambridge, MA, 1992
+Hector Garcia-Molina, Using semantic knowledge for transaction processing in a distributed database, ACM Transactions on Database Systems (TODS), v.8 n.2, p.186-213, June 1983[doi>10.1145/319983.319985]
+G^WLICK, D., AND K~N~E, D. Varieties of concurrency control in IMS/VS Fast Path. IEEE Database Eng. 8, 2 (1985), 3 10.
+GRAY, J.N. The transaction concept: Virtues and limitations. In Proceedings of the 7th Internatmnal Conference on Very Large Data Bases (Sept. 1981), 144-154.
+J V Guttag , J J Horning, Report on the Larch shared language, Science of Computer Programming, v.6 n.2, p.103-134, March 1986
+Thanasis Hadzilacos , Vassos Hadzilacos, Transaction synchronisation in object bases, Journal of Computer and System Sciences, v.43 n.1, p.2-24, Aug. 1991[doi>10.1016/0022-0000(91)90030-9]
+Theo Harder, Handling hot spot data in DB-sharing systems, Information Systems, v.13 n.2, p.155-166, May 1988[doi>10.1016/0306-4379(88)90012-9]
+Maurice Herlihy, A quorum-consensus replication method for abstract data types, ACM Transactions on Computer Systems (TOCS), v.4 n.1, p.32-53, Feb. 1986[doi>10.1145/6306.6308]
+Maurice P. Herlihy , William E. Weihl, Hybrid concurrency control for abstract data types, Journal of Computer and System Sciences, v.43 n.1, p.25-61, Aug. 1991[doi>10.1016/0022-0000(91)90031-Y]
+C. A. R. Hoare, An axiomatic basis for computer programming, Communications of the ACM, v.12 n.10, p.576-580, Oct. 1969[doi>10.1145/363235.363259]
+HOAHE, C. A.R. Proof of correctness of data representations. Acta Inf. I (1972), 271 281.
+Harry B. Hunt , Daniel J. Rosenkrantz, The complexity of testing predicate locks, Proceedings of the 1979 ACM SIGMOD international conference on Management of data, May 30-June 01, 1979, Boston, Massachusetts[doi>10.1145/582095.582115]
+Edgar Knapp, Deadlock detection in distributed databases, ACM Computing Surveys (CSUR), v.19 n.4, p.303-328, Dec. 1987[doi>10.1145/45075.46163]
+Henry F. Korth, Locking Primitives in a Database System, Journal of the ACM (JACM), v.30 n.1, p.55-79, Jan. 1983[doi>10.1145/322358.322363]
+H. K. Korth , G. Speegle, Formal model of correctness without serializabilty, Proceedings of the 1988 ACM SIGMOD international conference on Management of data, p.379-386, June 01-03, 1988, Chicago, Illinois, United States[doi>10.1145/50202.50248]
+Henry F. Korth , Eliezer levy , Abraham Silberschatz, A formal approach to recovery by compensating transactions, Proceedings of the sixteenth international conference on Very large databases, p.95-106, September 1990, Brisbane, Australia
+LAMPOR% L. Towards a theory of correctness for multi-user database systems. Tech. Rep., Massachusetts Computer Assoc., 1976.
+Nancy A. Lynch, Multilevel atomicity—a new correctness criterion for database concurrency control, ACM Transactions on Database Systems (TODS), v.8 n.4, p.484-502, Dec. 1983[doi>10.1145/319996.319999]
+C. Mohan , Don Haderle , Bruce Lindsay , Hamid Pirahesh , Peter Schwarz, ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging, ACM Transactions on Database Systems (TODS), v.17 n.1, p.94-162, March 1992[doi>10.1145/128765.128770]
+Patrick E. O'Neil, The Escrow transactional method, ACM Transactions on Database Systems (TODS), v.11 n.4, p.405-430, Dec. 1986[doi>10.1145/7239.7265]
+Christos H. Papadimitriou, The serializability of concurrent database updates, Journal of the ACM (JACM), v.26 n.4, p.631-653, Oct. 1979[doi>10.1145/322154.322158]
+Andreas Reuter, Concurrency on high-traffic data elements, Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database systems, March 29-31, 1982, Los Angeles, California[doi>10.1145/588111.588126]
+Helmut Wächter , Andreas Reuter, The ConTract model, Database transaction models for advanced applications, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1992
+Peter M. Schwarz , Alfred Z. Spector, Synchronizing shared abstract types, ACM Transactions on Computer Systems (TOCS), v.2 n.3, p.223-250, Aug. 1984[doi>10.1145/989.1188]
+Andrea H. Skarra , Stanley B. Zdonik, Concurrency control and object-oriented databases, Object-oriented concepts, databases, and applications, ACM Press, New York, NY, 1989[doi>10.1145/63320.66511]
+V. Vianu , G. Vossen, Conceptual level concurrency control of relational update transactions, Lecture notes in computer science on ICDT '88, p.353-367, October 1988, Bruges, Belgium
+W. E. Weihl, Commutativity-Based Concurrency Control for Abstract Data Types, IEEE Transactions on Computers, v.37 n.12, p.1488-1505, December 1988[doi>10.1109/12.9728]
+W. E. Weihl, Local atomicity properties: modular concurrency control for abstract data types, ACM Transactions on Programming Languages and Systems (TOPLAS), v.11 n.2, p.249-282, April 1989[doi>10.1145/63264.63518]
+W. E. Weihl, The impact of recovery on concurrency control, Proceedings of the eighth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.259-269, March 1989, Philadelphia, Pennsylvania, United States[doi>10.1145/73721.73748]
+William Weihl , Barbara Liskov, Implementation of resilient, atomic data types, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.2, p.244-269, April 1985[doi>10.1145/3318.3319]
+Gerhard Weikum, A theoretical foundation of multi-level concurrency control, Proceedings of the fifth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.31-43, March 24-26, 1986, Cambridge, Massachusetts, United States[doi>10.1145/6012.15401]
+Gerhard Weikum, Principles and realization strategies of multilevel transaction management, ACM Transactions on Database Systems (TODS), v.16 n.1, p.132-180, March 1991[doi>10.1145/103140.103145]
+Gerhard Weikum , Christof Hasse , Peter Broessler , Peter Muth, Multi-level recovery, Proceedings of the ninth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.109-123, April 02-04, 1990, Nashville, Tennessee, United States[doi>10.1145/298514.298548]

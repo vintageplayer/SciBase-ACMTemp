@@ -1,0 +1,25 @@
+Eric Allman , Michael Stonebraker , Gerald Held, Embedding a relational data sublanguage in a general purpose programming language, Proceedings of the 1976 conference on Data : Abstraction, definition and structure, p.25-35, March 22-24, 1976, Salt Lake City, Utah, United States[doi>10.1145/800237.807115]
+M. M. Astrahan , M. W. Blasgen , D. D. Chamberlin , K. P. Eswaran , J. N. Gray , P. P. Griffiths , W. F. King , R. A. Lorie , P. R. McJones , J. W. Mehl , G. R. Putzolu , I. L. Traiger , B. W. Wade , V. Watson, System R: relational approach to database management, ACM Transactions on Database Systems (TODS), v.1 n.2, p.97-137, June 1976[doi>10.1145/320455.320457]
+BLASGEN, M., AND ESWARAN, K. Storage and access in relational data base systems. IBM Syst. J. (Dec. 1977), 363-377.
+Donald D. Chamberlin , Raymond F. Boyce, SEQUEL: A structured English query language, Proceedings of the 1974 ACM SIGFIDET (now SIGMOD) workshop on Data description, access and control, p.249-264, May 01-03, 1974, Ann Arbor, Michigan[doi>10.1145/800296.811515]
+CODD, E.F. A database sublanguage founded on the relational calculus. Proc. ACM SIGFIDET Workshop on Data Description, Access and Control, San Diego, Calif., Nov. 1971, pp. 35-68.
+Robert Epstein , Michael Stonebraker , Eugene Wong, Distributed query processing in a relational data base system, Proceedings of the 1978 ACM SIGMOD international conference on management of data, May 31-June 02, 1978, Austin, Texas[doi>10.1145/509252.509292]
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+GRAY, J.N., LORIE, R.A., PUTZOLU, G.R., AND TRAIGER, I.L. Granularity of locks and degrees of consistency in a shared data base. Res. Rep. RJ 1849, IBM Research Lab., San Jose, Calif., July 1976.
+GRAY, J. Notes on data base operating systems. Res. Rep. RJ 2188, IBM Research Lab., San Jose, Calif., Feb. 1978.
+Patricia P. Griffiths , Bradford W. Wade, An authorization mechanism for a relational database system, ACM Transactions on Database Systems (TODS), v.1 n.3, p.242-255, Sept. 1976[doi>10.1145/320473.320482]
+Michael Hammer , Arvola Chan, Index selection in a self-adaptive data base management system, Proceedings of the 1976 ACM SIGMOD international conference on Management of data, June 02-04, 1976, Washington, D.C.
+HAWTHORN, P., AND STONEBRAKER, M. Use of technological advances to enhance data base management system performance. Memo No. 79-5, Electronics Res. Lab., U. of California, Berkeley, Calif., Jan. 1979.
+Gerald Held , Michael Stonebraker, B-trees re-examined, Communications of the ACM, v.21 n.2, p.139-143, Feb. 1978[doi>10.1145/359340.359348]
+JOHNSON, S. YACC--yet another compiler-compiler. Comptr. Sci. Tech. Rep. No. 32, Bell Telephone Laboratories, Murray Hill, N. J., July 1975.
+PRENNER, C., AND ROWE, L. Programming languages for relational data base systems. Proc. Nat. Comptr. Conf., Anaheim, Calif., June 1978, pp. 849-855.
+Daniel R. Ries , Michael Stonebraker, Effects of locking granularity in a database management system, ACM Transactions on Database Systems (TODS), v.2 n.3, p.233-246, Sept. 1977[doi>10.1145/320557.320566]
+Daniel R. Ries , Michael R. Stonebraker, Locking granularity revisited, ACM Transactions on Database Systems (TODS), v.4 n.2, p.210-227, June 1979[doi>10.1145/320071.320078]
+Dennis M. Ritchie , Ken Thompson, The UNIX time-sharing system, Communications of the ACM, v.17 n.7, p.365-375, July 1974[doi>10.1145/361011.361061]
+Michael Stonebraker , Eugene Wong, Access control in a relational data base management system by query modification, Proceedings of the 1974 annual conference, p.180-186, January 1974[doi>10.1145/800182.810400]
+Michael Stonebraker, Implementation of integrity constraints and views by query modification, Proceedings of the 1975 ACM SIGMOD international conference on Management of data, May 14-16, 1975, San Jose, California[doi>10.1145/500080.500091]
+Michael Stonebraker , Peter Rubinstein, The INGRES protection system, Proceedings of the annual conference, p.80-84, October 20-22, 1976, Houston, Texas, United States[doi>10.1145/800191.805536]
+Michael Stonebraker , Gerald Held , Eugene Wong , Peter Kreps, The design and implementation of INGRES, ACM Transactions on Database Systems (TODS), v.1 n.3, p.189-222, Sept. 1976[doi>10.1145/320473.320476]
+STONEBRAKER, M. Concurrency control, crash recovery and consistency of multiple copies of data in a distributed data base system. Proc. 3rd Berkeley Workshop on Distributed Data Bases and Computer Networks, San Francisco, Calif., Aug. 1978, pp. 235-258.
+STO~EBRAKER, M. MUFFIN: A distributed data base machine. Proc. First Int. Conf. on Distributed Computing Systems, Huntsville, Ala., Oct. 1979, pp. 459-469.
+Eugene Wong , Karel Youssefi, Decomposition—a strategy for query processing, ACM Transactions on Database Systems (TODS), v.1 n.3, p.223-241, Sept. 1976[doi>10.1145/320473.320479]

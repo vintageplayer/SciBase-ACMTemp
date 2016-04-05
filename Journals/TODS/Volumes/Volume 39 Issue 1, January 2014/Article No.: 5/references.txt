@@ -1,0 +1,43 @@
+H. R. Andersen , T. Hadzic , J. N. Hooker , P. Tiedemann, A constraint store based on multivalued decision diagrams, Proceedings of the 13th international conference on Principles and practice of constraint programming, September 23-27, 2007, Providence, RI, USA
+David Bergman, Andre. A. Cire, Willem-Jan Van Hoeve, and John N. Hooker. 2013. Optimization bounds from binary decision diagrams. INFORMS J. Comput. To appear.
+David Bergman , Willem-Jan van Hoeve , John N. Hooker, Manipulating MDD relaxations for combinatorial optimization, Proceedings of the 8th international conference on Integration of AI and OR techniques in constraint programming for combinatorial optimization problems, p.20-35, May 23-27, 2011, Berlin, Germany
+Mark Chavira , Adnan Darwiche, On probabilistic inference by weighted model counting, Artificial Intelligence, v.172 n.6-7, p.772-799, April, 2008[doi>10.1016/j.artint.2007.11.002]
+Arthur Choi, Mark Chavira, and Adnan Darwiche. 2007. Node Splitting: A scheme for generating upper bounds in bayesian networks. In Proceedings of the 23rd Conference in Uncertainty in Artificial Intelligence (UAI'07). 57--66.
+Arthur Choi and Adnan Darwiche. 2009. Relax then compensate: On max-product belief propagation and more. In Proceedings of the 23rd Annual Conference on Neural Information Processing Systems (NIPS'09). 351--359.
+Arthur Choi , Adnan Darwiche, Relax, compensate and then recover, Proceedings of the 2010 international conference on New Frontiers in Artificial Intelligence, November 18-19, 2010, Tokyo, Japan[doi>10.1007/978-3-642-25655-4_16]
+Arthur Choi and Adnan Darwiche. 2011. Personal communication.
+Yves Crama, Boolean Functions, Cambridge University Press, New York, NY, 2007
+Nilesh Dalvi , Karl Schnaitter , Dan Suciu, Computing query probability with incidence algebras, Proceedings of the twenty-ninth ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems, June 06-11, 2010, Indianapolis, Indiana, USA[doi>10.1145/1807085.1807113]
+Nilesh Dalvi , Dan Suciu, Efficient query evaluation on probabilistic databases, The VLDB Journal — The International Journal on Very Large Data Bases, v.16 n.4, p.523-544, October   2007[doi>10.1007/s00778-006-0004-3]
+Adnan Darwiche , Pierre Marquis, A knowledge compilation map, Journal of Artificial Intelligence Research, v.17 n.1, p.229-264, July 2002
+Rina Dechter , Irina Rish, Mini-buckets: A general scheme for bounded inference, Journal of the ACM (JACM), v.50 n.2, p.107-153, March 2003[doi>10.1145/636865.636866]
+Landon Detwiler , Wolfgang Gatterbauer , Brent Louie , Dan Suciu , Peter Tarczy-Hornoch, Integrating and Ranking Uncertain Scientific Data, Proceedings of the 2009 IEEE International Conference on Data Engineering, p.1235-1238, March 29-April 02, 2009[doi>10.1109/ICDE.2009.209]
+William Feller. 1968. An Introduction to Probability Theory and Its Applications 3rd Ed. Wiley, New York.
+Robert Fink , Dan Olteanu, On the optimal approximation of queries using tractable propositional languages, Proceedings of the 14th International Conference on Database Theory, March 21-24, 2011, Uppsala, Sweden[doi>10.1145/1938551.1938575]
+Brendan J. Frey , David J. C. MacKay, A revolution: belief propagation in graphs with cycles, Proceedings of the 1997 conference on Advances in neural information processing systems 10, p.479-485, July 1998, Denver, Colorado, USA
+Norbert Fuhr , Thomas Rölleke, A probabilistic relational algebra for the integration of information retrieval and database systems, ACM Transactions on Information Systems (TOIS), v.15 n.1, p.32-66, Jan. 1997[doi>10.1145/239041.239045]
+Wolfgang Gatterbauer, Abhay K. Jha, and Dan Suciu. 2010. Dissociation and propagation for efficient query evaluation over probabilistic databases. In Proceedings of the 4th International VLDB workshop on Management of Uncertain Data (MUD'10). 83--97.
+Wolfgang Gatterbauer and Dan Suciu. 2011. Optimal upper and lower bounds for boolean expressions by dissociation. http://arxiv.org/abs/1105.2813arXiv:1105.2813 {cs.AI}.
+Wolfgang Gatterbauer and Dan Suciu. 2013. Dissociation and propagation for efficient query evaluation over probabilistic databases. http://arxiv.org/abs/1310.6257arXiv:1310.6257 {cs.DB}.
+Vibhav Gogate , Rina Dechter, SampleSearch: Importance sampling in presence of determinism, Artificial Intelligence, v.175 n.2, p.694-729, February, 2011[doi>10.1016/j.artint.2010.10.009]
+Vibhav Gogate and Pedro Domingos. 2010. Formula-Based Probabilistic Inference. In Proceedings of the 26th Conference in Uncertainty in Artificial Intelligence (UAI'10). 210--219.
+Vibhav Gogate and Pedro Domingos. 2011. Approximation by quantization. In Proceedings of the 27th Conference in Uncertainty in Artificial Intelligence (UAI'11). 247--255.
+Vibhav Gogate and Pedro Domingos. 2013. Structured message passing. In Proceedings of the 29th Conference in Uncertainty in Artificial Intelligence (UAI'13). 252--261.
+Vladimiar A. Gurvich. 1977. Repetition-free Boolean functions. Uspekhi Mat. Nauk 32, 183--184.
+Ravi Jampani , Fei Xu , Mingxi Wu , Luis Leopoldo Perez , Christopher Jermaine , Peter J. Haas, MCDB: a monte carlo approach to managing uncertain data, Proceedings of the 2008 ACM SIGMOD international conference on Management of data, June 09-12, 2008, Vancouver, Canada[doi>10.1145/1376616.1376686]
+Abhay Jha , Dan Olteanu , Dan Suciu, Bridging the gap between intensional and extensional query evaluation in probabilistic databases, Proceedings of the 13th International Conference on Extending Database Technology, March 22-26, 2010, Lausanne, Switzerland[doi>10.1145/1739041.1739082]
+Oliver Kennedy and Christoph Koch. 2010. PIP: A database system for great and small expectations. In Proceedings of the 26th International Conference on Data Engineering (ICDE'10). 157--168.
+Dan Olteanu , Jiewen Huang, Using OBDDs for Efficient Query Evaluation on Probabilistic Databases, Proceedings of the 2nd international conference on Scalable Uncertainty Management, p.326-340, October 01-03, 2008, Naples, Italy[doi>10.1007/978-3-540-87993-0_26]
+Dan Olteanu , Jiewen Huang , Christoph Koch, SPROUT: Lazy vs. Eager Query Plans for Tuple-Independent Probabilistic Databases, Proceedings of the 2009 IEEE International Conference on Data Engineering, p.640-651, March 29-April 02, 2009[doi>10.1109/ICDE.2009.123]
+Dan Olteanu, Jiewen Huang, and Christoph Koch. 2010. Approximate confidence computation in probabilistic databases. In Proceedings of the 26th International Conference on Data Engineering (ICDE'10). 145--156.
+Knot Pipatsrisawat , Adnan Darwiche, Clone: solving weighted Max-SAT in a reduced search space, Proceedings of the 20th Australian joint conference on Advances in artificial intelligence, December 02-06, 2007, Gold Coast, Australia
+David Poole, Probabilistic Horn abduction and Bayesian networks, Artificial Intelligence, v.64 n.1, p.81-129, Nov. 1993[doi>10.1016/0004-3702(93)90061-F]
+J. Scott Provan and Michael O. Ball. 1983. The complexity of counting cuts and of computing the probability that a graph is connected. SIAM J. Comput. 12, 4, 777--788.
+Miquel Ramírez , Hector Geffner, Structural relaxations by variable renaming and their compilation for solving MinCostSAT, Proceedings of the 13th international conference on Principles and practice of constraint programming, September 23-27, 2007, Providence, RI, USA
+Christopher Re, Nilesh N. Dalvi, and Dan Suciu. 2007. Efficient top-k query evaluation on probabilistic data. In Proceedings of the 23rd International Conference on Data Engineering (ICDE'07). 886--895.
+Dan Roth, On the hardness of approximate reasoning, Artificial Intelligence, v.82 n.1-2, p.273-302, April 1996[doi>10.1016/0004-3702(94)00092-1]
+Prithviraj Sen , Amol Deshpande , Lise Getoor, Read-once functions and query evaluation in probabilistic databases, Proceedings of the VLDB Endowment, v.3 n.1-2, September 2010
+Robert St-Aubin, Jesse Hoey, and Craig Boutilier. 2000. APRICODD: Approximate policy construction using decision diagrams. In Proceedings of the Conference on Advances in Neural Information Processing Systems 13 (NIPS'00). 1089--1095.
+Leslie Valiant. 1982. A scheme for fast parallel communication. SIAM J. Comput. 11, 2, 350--361.
+Leslie G. Valiant. 1979. The complexity of computing the permanent. Theor. Comput. Sci. 8, 189--201.
+Guy Van Den Broeck , Nima Taghipour , Wannes Meert , Jesse Davis , Luc De Raedt, Lifted probabilistic inference by first-order knowledge compilation, Proceedings of the Twenty-Second international joint conference on Artificial Intelligence, p.2178-2185, July 16-22, 2011, Barcelona, Catalonia, Spain[doi>10.5591/978-1-57735-516-8/IJCAI11-363]

@@ -1,0 +1,34 @@
+ALSBERG, P.A., BELFORD, G.G., DAY, J.D., AND GRAPA, E. Multicopy resiliency techniques. In Distributed Data Management, J.B. Rothnie, P.A. Bernstein, and D.W. Shipman, Eds., IEEE, New York, i978, 128-176.
+Peter A. Alsberg , John D. Day, A principle for resilient sharing of distributed resources, Proceedings of the 2nd international conference on Software engineering, p.562-570, October 13-15, 1976, San Francisco, California, USA
+ATTAR, R., BERNSTEIN, P.A., AND GOODMAN, N. Site initialization, recovery, and back-up in a distributed database system. In Proceedings 6th Berkeley Workshop (Feb. 1982), 185-202.
+Philip A. Bernstein , Nathan Goodman, A Sophisticate's Introduction to Distributed Concurrency Control (Invited Paper), Proceedings of the 8th International Conference on Very Large Data Bases, p.62-76, September 08-10, 1982
+BERNSTEIN, P.A., AND GOODMAN, N. Concurrency control and recovery for replicated distributed databases. TR-20-83, Center for Research in Computing Technology, Harvard Univ., July 1983.
+Philip A. Bernstein , Nathan Goodman, Multiversion concurrency control—theory and algorithms, ACM Transactions on Database Systems (TODS), v.8 n.4, p.465-483, Dec. 1983[doi>10.1145/319996.319998]
+BERNSTEIN, P.A., GOODMAN, N., AND HADZILACOS, V. Recovery algorithms for database systems. In Proceedings 9th IFIP Congress (Sept. 1983), 799-801.
+BERNSTEIN, P.A., SHIPMAN, D., AND WONG, W.S. Formal aspects of serializability in database concurrency control. IEEE Trans. Softw. Eng. SE-5, 3 (May 1979).
+H. Breitwieser , M. Leszak, A distributed transaction processing protocol based on majority consensus, Proceedings of the first ACM SIGACT-SIGOPS symposium on Principles of distributed computing, p.224-237, August 18-20, 1982, Ottawa, Canada[doi>10.1145/800220.806701]
+Arvola Chan , Umeshwar Dayal , Stephen Fox , Nathan Goodman , Daniel R. Ries , Dale Skeen, Overview of an Ada compatible distributed database manager, Proceedings of the 1983 ACM SIGMOD international conference on Management of data, May 23-26, 1983, San Jose, California[doi>10.1145/582192.582229]
+Dean Daniels , Alfred Z. Spector, An algorithm, for replicated directories, Proceedings of the second annual ACM symposium on Principles of distributed computing, p.104-113, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806713]
+DOLE'/, D. The Byzantine generals strike again. J. Algorithms 3, 1 (1982).
+EAGER, D.L. Robust concurrency control in a distributed database. TR CSRG U135, Univ. Toronto, Oct. 1981.
+Derek L. Eager , Kenneth C. Sevcik, Achieving robustness in distributed database systems, ACM Transactions on Database Systems (TODS), v.8 n.3, p.354-381, Sept. 1983[doi>10.1145/319989.319992]
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+Michael J. Fischer , Nancy A. Lynch , Michael S. Paterson, Impossibility of distributed consensus with one faulty process, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia[doi>10.1145/588058.588060]
+David K. Gifford, Weighted voting for replicated data, Proceedings of the seventh ACM symposium on Operating systems principles, p.150-162, December 10-12, 1979, Pacific Grove, California, USA[doi>10.1145/800215.806583]
+Nathan Goodman , Dale Skeen , Arvola Chan , Umeshwar Dayal , Stephen Fox , Daniel Ries, A recovery algorithm for a distributed database system, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia[doi>10.1145/588058.588061]
+Jim Gray, Notes on Data Base Operating Systems, Operating Systems, An Advanced Course, p.393-481, January 1978
+Micael Hammer , David Shipman, Reliability mechanisms for SDD-1: a system for distributed databases, ACM Transactions on Database Systems (TODS), v.5 n.4, p.431-466, Dec.  1980[doi>10.1145/320610.320621]
+Bruce G. Lindsay , Laura M. Haas , C. Mohan , Paul F. Wilms , Robert A. Yost, Computation and communication in R*: a distributed database manager, ACM Transactions on Computer Systems (TOCS), v.2 n.1, p.24-38, February 1984[doi>10.1145/2080.357390]
+LINDSAY, B.G., SELINGER, P.G,, GALTIERI, C., GRAY, J.N., LOBIE, R.A., PRICE, T.G., PUTZULO, F., TRAIGER, I.L., AND WADE, B.W. Notes on distributed databases. In Distributed Databases, Drattan and Poole, Eds., Cambridge University Press, New York, 1980, 247-284.
+Christos H. Papadimitriou, The serializability of concurrent database updates, Journal of the ACM (JACM), v.26 n.4, p.631-653, Oct. 1979[doi>10.1145/322154.322158]
+M. Pease , R. Shostak , L. Lamport, Reaching Agreement in the Presence of Faults, Journal of the ACM (JACM), v.27 n.2, p.228-234, April 1980[doi>10.1145/322186.322188]
+David P. Reed, Implementing atomic actions on decentralized data (Extended Abstract), Proceedings of the seventh ACM symposium on Operating systems principles, p.163, December 10-12, 1979, Pacific Grove, California, USA[doi>10.1145/800215.806584]
+Abraham Silberschatz , Zvi Kedem, Consistency in Hierarchical Database Systems, Journal of the ACM (JACM), v.27 n.1, p.72-80, Jan. 1980[doi>10.1145/322169.322176]
+Dale Skeen, Nonblocking commit protocols, Proceedings of the 1981 ACM SIGMOD international conference on Management of data, April 29-May 01, 1981, Ann Arbor, Michigan[doi>10.1145/582318.582339]
+Dale Skeen, Determining the last process to fail, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia[doi>10.1145/588058.588062]
+STEARNS, R.E., LEWIS, P.M., If, AND ROSENKRANTZ, D.J. Concurrency controls for database systems. In Proceedings 17th Symposium on Foundations of Computer Science. IEEE, New York, 1976, 19-32.
+STONEBRAKER, M. Concurrency control and consistency of multiple copies of data in distributed INGRES. IEEE Trans. Softw. Eng. SE-5, 3 (May 1979), 188-194.
+A. S. Tanenbaum, Computer networks, Prentice-Hall, Inc., Upper Saddle River, NJ, 1988
+Robert H. Thomas, A Majority consensus approach to concurrency control for multiple copy databases, ACM Transactions on Database Systems (TODS), v.4 n.2, p.180-209, June 1979[doi>10.1145/320071.320076]
+Irving L. Traiger , Jim Gray , Cesare A. Galtieri , Bruce G. Lindsay, Transactions and consistency in distributed database systems, ACM Transactions on Database Systems (TODS), v.7 n.3, p.323-342, Sept. 1982[doi>10.1145/319732.319734]
+YANNAKAKIS, M., PAPADIMITRIOU, C.H., AND KUNG, H.T. Locking policies: Safety and freedom from deadlock. In Proceedings 20th IEEE Symposium on Foundations of Computer Science (1979), 286-297.

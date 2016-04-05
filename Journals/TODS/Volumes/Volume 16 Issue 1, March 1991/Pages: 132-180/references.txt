@@ -1,0 +1,107 @@
+Rakesh Agrawal , Michael J. Carey , Miron Livny, Concurrency control performance modeling: alternatives and implications, ACM Transactions on Database Systems (TODS), v.12 n.4, p.609-654, Dec. 1987[doi>10.1145/32204.32220]
+M. M. Astrahan , M. W. Blasgen , D. D. Chamberlin , K. P. Eswaran , J. N. Gray , P. P. Griffiths , W. F. King , R. A. Lorie , P. R. McJones , J. W. Mehl , G. R. Putzolu , I. L. Traiger , B. W. Wade , V. Watson, System R: relational approach to database management, ACM Transactions on Database Systems (TODS), v.1 n.2, p.97-137, June 1976[doi>10.1145/320455.320457]
+BANClLHON, F., KIM, W., AND KORTH, H.F. A model of CAD transactions. In Proceedings of the 11th Conference on Very Large Data Bases (Stockholm, Sweden). Morgan Kaufmann, Palo Alto, Calif., Aug. 1985, pp. 25-33.
+Don S. Batory , Alejandro P. Buchmann, Molecular Objects, Abstract Data Types, and Data Models: A Framework, Proceedings of the 10th International Conference on Very Large Data Bases, p.172-184, August 27-31, 1984
+D. S. Batory , Won Kim, Modeling concepts for VLSI CAD objects, ACM Transactions on Database Systems (TODS), v.10 n.3, p.322-346, Sept. 1985[doi>10.1145/3979.4018]
+R. Bayer , H. Heller , A. Reiser, Parallelism and recovery in database systems, ACM Transactions on Database Systems (TODS), v.5 n.2, p.139-156, June 1980[doi>10.1145/320141.320146]
+Catriel Beeri , Philip A. Bernstein , Nathan Goodman, A model for concurrency in nested transactions systems, Journal of the ACM (JACM), v.36 n.2, p.230-269, April 1989[doi>10.1145/62044.62046]
+Catriel Beeri , Hans-Jörg Schek , Gerhard Weikum, Multi-Level Transaction Management, Theoretical Art or Practical Need ?, Proceedings of the International Conference on Extending Database Technology: Advances in Database Technology, p.134-154, March 14-18, 1988
+C. Beeri , P. A. Bernstein , N. Goodman , M. Y. Lai , D. E. Shasha, A concurrency control theory for nested transactions (Preliminary Report), Proceedings of the second annual ACM symposium on Principles of distributed computing, p.45-62, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806709]
+Philip A. Bernstein , Nathan Goodman, Multiversion concurrency control—theory and algorithms, ACM Transactions on Database Systems (TODS), v.8 n.4, p.465-483, Dec. 1983[doi>10.1145/319996.319998]
+BERNSTEIN, P. A., GOODMAN, N., AND LAI, M.-Y. Laying phantoms to rest. In Proceedings of the IEEE COMPSAC Conference. IEEE Computer Society, Washington, D.C., 1981, pp. 140-150.
+BERNSTE~N, P A., GOODMAN, N., AND LAI, M.-Y. Analyzing concurrency control algorithms when user and system operations differ. IEEE Trans. Softw. Eng. SE-9, 3 (Mar. 1983), 233-239.
+Philip A. Bernstein , Vassco Hadzilacos , Nathan Goodman, Concurrency control and recovery in database systems, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1987
+Philip A. Bernstein , David W. Shipman , James B. Rothnie, Jr., Concurrency control in a system for distributed databases (SDD-1), ACM Transactions on Database Systems (TODS), v.5 n.1, p.18-51, March 1980[doi>10.1145/320128.320131]
+BURNSTEIN, P. A., SHIP~AN, D. W., AND WONG, W. S. Formal aspects of serializability in database concurrency control. IEEE Trans Sofiw. Eng. SE-5, 3 (Mar. 1979), 203-216.
+Lawrence A. Bjork, Recovery scenario for a DB/DC system, Proceedings of the annual conference, p.142-146, August 27-29, 1973, Atlanta, Georgia, United States[doi>10.1145/800192.805695]
+Mike Blasgen , Jim Gray , Mike Mitoma , Tom Price, The convoy phenomenon, ACM SIGOPS Operating Systems Review, v.13 n.2, p.20-25, April 1979[doi>10.1145/850657.850659]
+G. N. Buckley , A. Silberschatz, Beyond two-phase locking, Journal of the ACM (JACM), v.32 n.2, p.314-343, April 1985[doi>10.1145/3149.3151]
+Michael J. Carey , David J. DeWitt , Daniel Frank , M. Muralikrishna , Goetz Graefe , Joel E. Richardson , Eugene J. Shekita, The architecture of the EXODUS extensible DBMS, Proceedings on the 1986 international workshop on Object-oriented database systems, p.52-65, September 23-26, 1986, Pacific Grove, California, United States
+CASANOVA, M. C., AND BERNSTEIN, P.A. General purpose schedulers for database systems. Acta. Inf. 14 (1980), 195-220.
+Arvola Chan , Stephen Fox , Wen-Te K. Lin , Anil Nori , Daniel R. Ries, The implementation of an integrated concurrency control and recovery scheme, Proceedings of the 1982 ACM SIGMOD international conference on Management of data, June 02-04, 1982, Orlando, Florida[doi>10.1145/582353.582386]
+G. Copeland , T. Keller , R. Krishnamurthy , M. Smith, The case for safe RAM, Proceedings of the 15th international conference on Very large data bases, p.327-335, July 1989, Amsterdam, The Netherlands
+DADAM, P., P~STOR, P., AND SCHEK, H.-J. A predicate oriented locking approach for integrated information systems. In Proceedings of the IFIP Congress (Paris, France, Sept. 1983). North-Holland, Amsterdam, 1983, pp. 763-768.
+DADAM, P., LUM, V , PRAEDEL, U., AND SCHLAGETER, G. Selective deferred index maintenance and concurrency control in integrated information systems. In Proceedings of the 11th Conference on Very Large Data Bases (Stockholm, Sweden, Aug. 1985). Morgan Kau~mann, Palo Alto, Calif., 1985, pp. 142-150.
+Charles T. Davies, Jr., Recovery semantics for a DB/DC system, Proceedings of the annual conference, p.136-141, August 27-29, 1973, Atlanta, Georgia, United States[doi>10.1145/800192.805694]
+DAVIES, C.T. Data processing spheres of control. IBM Syst. J. 17, 2 (1978), 179-198.
+DELEor~, M. Sequential correctness, atomicity and persistency in database systems--A model and a proof paradigm. M.S. thesis (in Hebrew), The Hebrew Univ. at Jerusalem, Dept. of Computer Science 1987.
+DEPPISCH, U., OBERMEIT, V., PAUL, H.-B., SCHEK, H.-J., SCHOLL, M., AND WE1KUM, G. The storage component of a database kernel system (in German). In Proceedings of the 1st GI Conference on Database Systems for Office, Engineering and Scientific Applications (Karlsruhe, West Germany, Mar. 1985). Springer-Verlag, Berlin, 1985, pp. 421-440.
+David J DeWitt , Randy H Katz , Frank Olken , Leonard D Shapiro , Michael R Stonebraker , David Wood, Implementation techniques for main memory database systems, Proceedings of the 1984 ACM SIGMOD international conference on Management of data, June 18-21, 1984, Boston, Massachusetts[doi>10.1145/602259.602261]
+DEY, T., AND GEORG, H. Simulation of multi-level transaction management strategies. M.S. thesis (in German), Tech. Univ. of Darmstadt, Dept. of Computer Science, West Germany, 1986.
+Margaret H. Eich, Main memory database recovery, Proceedings of 1986 ACM Fall joint computer conference, p.1226-1232, November 1986, Dallas, Texas, United States
+Klaus Elhardt , Rudolf Bayer, A database cache for high performance and fast restart in database systems, ACM Transactions on Database Systems (TODS), v.9 n.4, p.503-525, Dec. 1984[doi>10.1145/1994.1995]
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+FEKETE, A., LYNCH, N., MERRITT, M., AND WEIHL, W. Commutativity-based locking for nested transactions. Tech. Rep. MIT/LCS/TM-370, MIT, Laboratory for Computer Science, Cambridge, Mass., 1988.
+Hector Garcia-Molina, Using semantic knowledge for transaction processing in a distributed database, ACM Transactions on Database Systems (TODS), v.8 n.2, p.186-213, June 1983[doi>10.1145/319983.319985]
+Hector Garcia-Molina , Kenneth Salem, Sagas, Proceedings of the 1987 ACM SIGMOD international conference on Management of data, p.249-259, May 27-29, 1987, San Francisco, California, United States[doi>10.1145/38713.38742]
+GAWLICK, D., AND KINKADE, D. Varieties ofconcurrecy control in IMS/VS fast path. IEEE Database Eng. 8, 2 (June 1985), 3-10.
+David Gifford , Alfred Spector, The TWA reservation system, Communications of the ACM, v.27 n.7, p.650-665, July 1984[doi>10.1145/358105.358192]
+Marc H. Graham , Nancy Griffeth , Barbara Smith-Thomas, Reliable scheduling of database transactions for unreliable systems, Proceedings of the 3rd ACM SIGACT-SIGMOD symposium on Principles of database systems, April 02-04, 1984, Waterloo, Ontario, Canada[doi>10.1145/588011.588055]
+GRAY, J. The transaction concept: Virtues and limitations. In Proceedings of the 7th Conference on Very Large Data Bases (Cannes, France, Sept. 1981). ACM, New York, pp. 144-154.
+Jim Gray , Paul McJones , Mike Blasgen , Bruce Lindsay , Raymond Lorie , Tom Price , Franco Putzolu , Irving Traiger, The Recovery Manager of the System R Database Manager, ACM Computing Surveys (CSUR), v.13 n.2, p.223-242, June 1981[doi>10.1145/356842.356847]
+Jim Gray, Notes on Data Base Operating Systems, Operating Systems, An Advanced Course, p.393-481, January 1978
+GRIFFETIt, N., AND MILLER, J.A. Performance modeling of database recovery protocols. In Proceedings of the 4th Symposium on Reliability in Distributed Software and Database Systems (Silver Spring, Md., Oct. 1984). IEEE Computer Society, Washington, D.C., 1984, pp. 75-81.
+GUNAWAN, E., AND RAUTH, U. Two-level transaction management algorithms for DASDBS. M.S. thesis (in German), Tech. Univ. of Darmstadt, Dept. of Computer Science, West Germany, 1985.
+Thanasis Hadzilacos , Vassos Hadzilacos, Transaction synchronisation in object bases, Proceedings of the seventh ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.193-200, March 1988, Austin, Texas, United States[doi>10.1145/308386.308438]
+Vassos Hadzilacos, Issues of fault tolerance in concurrent computations (databases, reliability, transactions, agreement protocols, distributed computing), 1985
+Vassos Hadzilacos, A theory of reliability in database systems, Journal of the ACM (JACM), v.35 n.1, p.121-145, Jan. 1988[doi>10.1145/42267.42272]
+Theo Härder, Observations on optimistic concurrency control schemes, Information Systems, v.9 n.2, p.111-120, 1984[doi>10.1016/0306-4379(84)90020-6]
+Theo Haerder , Andreas Reuter, Principles of transaction-oriented database recovery, ACM Computing Surveys (CSUR), v.15 n.4, p.287-317, December 1983[doi>10.1145/289.291]
+T Härder , Ch Hübel , B Mitschang, Use of inherent parallelism in database operations, Proc. of the conference on algorithms and hardware for parallel processing on CONPAR 86, p.385-392, November 1986, Aachen, Germany
+HASSE, C., AND MUTH, P. Design, implementation, and evaluation of a high performance multi-level recovery strategy for the Darmstadt database kernel system. M.S. thesis (in German), Tech. Univ. of Darmstadt, Dept. of Computer Science, West Germany, 1988.
+R. H. Katz, Information management for engineering design, Springer-Verlag New York, Inc., New York, NY, 1985
+Zvi M. Kedem , Abraham Silberschatz, Locking Protocols: From Exclusive to Shared Locks, Journal of the ACM (JACM), v.30 n.4, p.787-804, Oct. 1983[doi>10.1145/2157.322406]
+P. Klahold , G. Schlageter , R. Unland , W. Wilkes, A transaction model supporting complex applications in integrated information systems, Proceedings of the 1985 ACM SIGMOD international conference on Management of data, p.388-401, May 1985, Austin, Texas, United States[doi>10.1145/318898.318989]
+Henry F. Korth, Locking Primitives in a Database System, Journal of the ACM (JACM), v.30 n.1, p.55-79, Jan. 1983[doi>10.1145/322358.322363]
+Akhil Kumar , Michael Stonebraker, Performance Evaluation of an Operating System Transaction Manager, Proceedings of the 13th International Conference on Very Large Data Bases, p.473-481, September 01-04, 1987
+H. T. Kung , John T. Robinson, On optimistic methods for concurrency control, ACM Transactions on Database Systems (TODS), v.6 n.2, p.213-226, June 1981[doi>10.1145/319566.319567]
+Georg Lausen , Eljas Soisalon-Soininen , Peter Widmayer, Towards online schedulers based on pre-analysis locking, Proceedings on International conference on database theory, p.242-259, December 1986, Rome, Italy
+LINDSAY, B. G., SELINGER, P. G., GALTIERI, C., GRAY, J. N., LORIE, R. A., PRICE, T. G., PUTZOLU, F., AND WADE, B.W. Notes on distributed databases. Res. Rep. RJ2671, IBM, San Jose, Calif., 1979.
+Nancy Lynch , Michael Merritt, Introduction to the theory of nested transactions, Proceedings on International conference on database theory, p.278-305, December 1986, Rome, Italy
+Nancy A. Lynch, Multilevel atomicity—a new correctness criterion for database concurrency control, ACM Transactions on Database Systems (TODS), v.8 n.4, p.484-502, Dec. 1983[doi>10.1145/319996.319999]
+MARTIN, B.E. Modeling concurrent activities with nested objects. In Proceedings of the 7th International Conference on Distributed Computing Systems (Berlin). IEEE Computer Society, Washington, D.C., 1987.
+Bruce Elliott Martin , Walter A. Burkhard, Concurrent nested object computations, 1988
+MOHAN, C., FUSSELL, D., KEDEM, Z. M., AND SLLBERSCHATZ, A. Lock conversion in non-two-phase locking protocols. IEEE Trans. Softw. Eng. SE-11, 1 (Jan 1985), 15-22.
+MOHAN, C., HADERLE, D., LINDSAY, B., PmAHESH, H., AND SCHWARZ, P. ARIES: A transaction recovery method supporting fine-granularity locking and partial rollbacks using writeahead logging. Res. Rep. RJ6649, IBM, San Jose, Calif., 1989.
+J. E.B. Moss, Nested transactions:  an approach to reliable distributed computing, Massachusetts Institute of Technology, Cambridge, MA, 1985
+J. Eliot B Moss , Nancy D. Griffeth , Marc H. Graham, Abstraction in recovery management, Proceedings of the 1986 ACM SIGMOD international conference on Management of data, p.72-83, May 28-30, 1986, Washington, D.C., United States[doi>10.1145/16894.16862]
+J. E.B. Moss , N. D. Griffeth , M. H. Graham, Abstraction in Concurrency Control and Recovery Management, University of Massachusetts, Amherst, MA, 1986
+J. Eliot B. Moss , Bruce Leban , Panos K. Chrysanthis, Finer Grained Concurrency for the Database Cache, Proceedings of the Third International Conference on Data Engineering, p.96-103, February 03-05, 1987
+NETT, E., KAISER, J., AND KROEGER, R. Providing recoverability in a transaction oriented distributed operating system. In Proceedings of the 6th International Conference on Distributed Computing Systems (Cambridge, Mass.). IEEE Computer Society, Washington, D.C., 1986, pp. 590-597.
+Patrick E. O'Neil, The Escrow transactional method, ACM Transactions on Database Systems (TODS), v.11 n.4, p.405-430, Dec. 1986[doi>10.1145/7239.7265]
+Kee S. Ong, Synapse approach to database recovery, Proceedings of the 3rd ACM SIGACT-SIGMOD symposium on Principles of database systems, April 02-04, 1984, Waterloo, Ontario, Canada[doi>10.1145/588011.588024]
+Christos Papadimitriou, The theory of database concurrency control, Computer Science Press, Inc., New York, NY, 1986
+PAUL, H.-B., SOEDER, A., SCHEK, H.-J., AND WE1KUM, G. Database system support for the office filing and retrieval service (in German). In Proceedings of the 2nd GI Conference on Database Systems for Office, Engineering and Scientific Applications (Darmstadt, West Germany, Apr. 1987). Springer-Verlag, Berlin, 1987, pp. 196-211.
+H. B. Paul , H. J. Schek , M. H. Scholl, Architecture and implementation of the Darmstadt database kernel system, Proceedings of the 1987 ACM SIGMOD international conference on Management of data, p.196-207, May 27-29, 1987, San Francisco, California, United States[doi>10.1145/38713.38737]
+RANDELL, B. System structure for software fault tolerance. IEEE Trans. Softw. Eng. SE-1, 2 (Feb. 1975), 220-232.
+Andreas Reuter, Concurrency on high-traffic data elements, Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database systems, March 29-31, 1982, Los Angeles, California[doi>10.1145/588111.588126]
+REUTER, A., DUPPEL, N., PEINL, P., SCHmLE, G., AND ZELLER. H. An outlook on PROSPECT. Tech. Rep., Univ. of Stuttgart, Dept. of Computer Science, West Germany, 1986.
+Daniel J. Rosenkrantz , Richard E. Stearns , Philip M. Lewis, II, System level concurrency control for distributed database systems, ACM Transactions on Database Systems (TODS), v.3 n.2, p.178-198, June 1978[doi>10.1145/320251.320260]
+SCHEI~, H.-J., AND WEIKUM, G. DASDBS: Concepts and architecture of a database system for advanced applications (in German). Inf. Forschung Entwicklung 2, 2 (1987), 105-121.
+Peter M. Schwarz , Alfred Z. Spector, Synchronizing shared abstract types, ACM Transactions on Computer Systems (TOCS), v.2 n.3, p.223-250, Aug. 1984[doi>10.1145/989.1188]
+SHASHA, D. What good are concurrent search structure algorithms for databases anyway? IEEE Database Eng. 8, 2 (June 1985), 84-90.
+Dennis Shasha , Nathan Goodman, Concurrent search structure algorithms, ACM Transactions on Database Systems (TODS), v.13 n.1, p.53-90, March 1988[doi>10.1145/42201.42204]
+Dennis Elliott Shasha, Concurrent algorithms for search structures (parallel, database), 1984
+SmBERSCHATZ, A. A case for non-two-phase locking protocols that ensure atomicity. IEEE Trans. Softw. Eng. SE-9, 4 (Apr. 1983), 533-538.
+Alfred Z. Spector , Jeffrey L. Eppinger , Dean S. Daniels , Richard Draves , Joshua J. Bloch , Dan Duchamp , Randy F. Pausch , Dean S. Thompson, High Performance Distributed Transaction Processing in a General Purpose Computing Environment, Proceedings of the 2nd International Workshop on High Performance Transaction Systems, p.220-242, September 28-30, 1987
+Michael Stonebraker, Operating system support for database management, Communications of the ACM, v.24 n.7, p.412-418, July 1981[doi>10.1145/358699.358703]
+STON}~BRAKI~R, M. The case for shared nothing. IEEE Database Eng. 9, 1 (Mar. 1986), 4-9.
+Michael Stonebraker , Lawrence A. Rowe, The design of POSTGRES, Proceedings of the 1986 ACM SIGMOD international conference on Management of data, p.340-355, May 28-30, 1986, Washington, D.C., United States[doi>10.1145/16894.16888]
+Michael Stonebraker , Deborah DuBourdieux , William Edwards, Problems in supporting data base transactions in an operating system transaction manager, ACM SIGOPS Operating Systems Review, v.19 n.1, p.6-14, January 1985[doi>10.1145/1041490.1041491]
+Irving L. Traiger, Virtual memory management for database systems, ACM SIGOPS Operating Systems Review, v.16 n.4, p.26-48, October 1982[doi>10.1145/850726.850729]
+TRAIGER, I. L Trends in systems aspects of database management. In Proceedings of the 2nd International Conference on Databases (Cambridge, U K.) Wiley Heyden, London, 1983, pp. 1-21.
+UDS. Universal Database System Rev. 4.0. Reference Manuals. Siemens AG, Munich, West Germany, 1984.
+V~HOFSTAD, J. S.M. Recovery based on types. In Proceedings of the IFIP Conference on Data Base Architecture. North-Holland, Amsterdam, 1979, pp. 125-139.
+WALTER, B. Multi-level synchronization and nested transactions in advanced information systems. In Proceedings of the 1st GI Conference on Database Systems for Office, Engineering and Scientific Applications (Karlsruhe, West Germany, Mar. 1985). Springer-Verlag, Berlin, 1985, pp. 336-355.
+William E. Weihl, Data-dependent concurrency control and recovery (Extended Abstract), Proceedings of the second annual ACM symposium on Principles of distributed computing, p.63-75, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806710]
+W. E. Weihl, Commutativity-Based Concurrency Control for Abstract Data Types, IEEE Transactions on Computers, v.37 n.12, p.1488-1505, December 1988[doi>10.1109/12.9728]
+W. E. Weihl, The impact of recovery on concurrency control, Proceedings of the eighth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.259-269, March 1989, Philadelphia, Pennsylvania, United States[doi>10.1145/73721.73748]
+Gerhard Weikum, A theoretical foundation of multi-level concurrency control, Proceedings of the fifth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.31-43, March 24-26, 1986, Cambridge, Massachusetts, United States[doi>10.1145/6012.15401]
+Gerhard Weikum, Pros and cons of operating system transactions for data base systems, Proceedings of 1986 ACM Fall joint computer conference, p.1219-1225, November 1986, Dallas, Texas, United States
+WEIKUM, G. Transaction management in database systems with layered architecture. Ph.D. thesis (in German), Tech. Univ. of Darmstadt, Dept. of Computer Science, West Germany, 1986.
+WEIKUM. G. Transactions in Database Systems (in German). Addison-Wesley, Reading, Mass., 1988.
+Gerhard Weikum, Enhancing Concurrency in Layered Systems, Proceedings of the 2nd International Workshop on High Performance Transaction Systems, p.200-219, September 28-30, 1987
+Gerhard Weikum , Hans-Jörg Schek, Architectural Issues of Transaction Management in Multi-Layered Systems, Proceedings of the 10th International Conference on Very Large Data Bases, p.454-465, August 27-31, 1984
+Gerhard Weikum , Christof Hasse , Peter Broessler , Peter Muth, Multi-level recovery, Proceedings of the ninth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.109-123, April 02-04, 1990, Nashville, Tennessee, United States[doi>10.1145/298514.298548]
+Mihalis Yannakakis, Serializability by Locking, Journal of the ACM (JACM), v.31 n.2, p.227-244, April 1984[doi>10.1145/62.322425]
+ZABBACK, P. Realization of the log manager of the DASDBS multi-level transaction architecture. M.S. thesis (m German), Tech. Univ. of Darmstadt, Dept. of Computer Science, West Germany, 1987.

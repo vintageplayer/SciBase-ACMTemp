@@ -1,0 +1,38 @@
+APERS, P. M. G., HEVNER, A. R., AND YAO, S. B Optimization algorithms for distributed queries. IEEE Trans. Softw. Eng. SE~9, 1 (Jan. 1983), 57-68.
+E. Babb, Implementing a relational database by means of specialzed hardware, ACM Transactions on Database Systems (TODS), v.4 n.1, p.1-29, March 1979[doi>10.1145/320064.320065]
+Philip A. Bernstein , Nathan Goodman , Eugene Wong , Christopher L. Reeve , James B. Rothnie, Jr., Query processing in a system for distributed databases (SDD-1), ACM Transactions on Database Systems (TODS), v.6 n.4, p.602-625, Dec. 1981[doi>10.1145/319628.319650]
+Dina Bitton , Haran Boral , David J. DeWitt , W. Kevin Wilkinson, Parallel algorithms for the execution of relational database operations, ACM Transactions on Database Systems (TODS), v.8 n.3, p.324-353, Sept. 1983[doi>10.1145/319989.319991]
+Arbee L. P. Chen , Victor O. K. Li, An optimal algorithm for processing distributed star queries, IEEE Transactions on Software Engineering, v.11 n.10, p.1097-1107, Oct. 1985[doi>10.1109/TSE.1985.231857]
+Dah-Ming Chiu , Philip A. Bernstein , Yu-Chi Ho, Optimizing chain queries in a distributed database system., SIAM Journal on Computing, v.13 n.1, p.116-134, Feb. 1984[doi>10.1137/0213009]
+D. M. Chiu , Y. C. Ho, A methodology for interpreting tree queries into optimal semi-join expressions, Proceedings of the 1980 ACM SIGMOD international conference on Management of data, May 14-16, 1980, Santa Monica, California[doi>10.1145/582250.582277]
+E. F. Codd, Extending the database relational model to capture more meaning, ACM Transactions on Database Systems (TODS), v.4 n.4, p.397-434, Dec. 1979[doi>10.1145/320107.320109]
+George Copeland , William Alexander , Ellen Boughter , Tom Keller, Data placement in Bubba, Proceedings of the 1988 ACM SIGMOD international conference on Management of data, p.99-108, June 01-03, 1988, Chicago, Illinois, United States[doi>10.1145/50202.50213]
+DEWITT, D. J., AND GERBER, R. Multiprocessor hash-based join algorithms. In Proceedings of the 11th International Conference on Very Large Data Bases (Stockholm, Aug. 1985), pp. 151-164.
+David J. DeWitt , Robert H. Gerber , Goetz Graefe , Michael L. Heytens , Krishna B. Kumar , M. Muralikrishna, GAMMA - A High Performance Dataflow Database Machine, Proceedings of the 12th International Conference on Very Large Data Bases, p.228-237, August 25-28, 1986
+DEWITT, D. J., SMITH, M., AND BORAL, I~. A single user performance evaluation of the Teradata Database Machine. MCC Tech. Rep. DB-081-87, 1987.
+Danièle Grady , Claude Puech, On the effect of join operations on relation sizes, ACM Transactions on Database Systems (TODS), v.14 n.4, p.574-603, Dec. 1989[doi>10.1145/76902.76907]
+Michael R. Garey , David S. Johnson, Computers and Intractability: A Guide to the Theory of NP-Completeness, W. H. Freeman & Co., New York, NY, 1979
+Bezalel Gavish , Arie Segev, Set query optimization in distributed database systems, ACM Transactions on Database Systems (TODS), v.11 n.3, p.265-293, Sept. 1986[doi>10.1145/6314.6488]
+Nathan Goodman , Oded Shmueli, Tree queries: a simple class of relational queries, ACM Transactions on Database Systems (TODS), v.7 n.4, p.653-677, Dec. 1982[doi>10.1145/319758.319775]
+Won Kim, A new way to compute the product and join of relations, Proceedings of the 1980 ACM SIGMOD international conference on Management of data, May 14-16, 1980, Santa Monica, California[doi>10.1145/582250.582278]
+Masaru Kitsuregawa , Hidehiko Tanaka , Tohru Moto-Oka, Relational Algebra Machine GRACE, Proceedings of RIMS Symposium on Software Science and Engineering, p.191-214, January 1983
+KITSUREGAWA, M., ET AL. Application of hash to data base machine and its architecture. New Generation Comput. I (1983), 62-74.
+KRUS~AL, J. B., JR. On the shortest spanning subtree of a graph and the traveling salesman problem. Proc. Amer. Math. Soc. 7, I (1956), 48-50.
+Richard J. Lipton , Jeffrey F. Naughton, Query size estimation by adaptive sampling (extended abstract), Proceedings of the ninth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.40-46, April 02-04, 1990, Nashville, Tennessee, United States[doi>10.1145/298514.298540]
+S. Pramanik , D. Vineyard, Optimizing Join Queries in Distributed Databases, IEEE Transactions on Software Engineering, v.14 n.9, p.1319-1326, September 1988[doi>10.1109/32.6175]
+PRIM, R. C. Shortest connection networks and some generalizations. Bell Syst. Tech. J. (1957), 1389-1401.
+Giovanni Maria Sacco, Fragmentation: a technique for efficient query processing, ACM Transactions on Database Systems (TODS), v.11 n.2, p.113-133, June 1986[doi>10.1145/5922.5638]
+Arie Segev, Optimization of join operations in horizontally partitioned database systems, ACM Transactions on Database Systems (TODS), v.11 n.1, p.48-80, March 1986[doi>10.1145/5236.5241]
+P. Griffiths Selinger , M. M. Astrahan , D. D. Chamberlin , R. A. Lorie , T. G. Price, Access path selection in a relational database management system, Proceedings of the 1979 ACM SIGMOD international conference on Management of data, May 30-June 01, 1979, Boston, Massachusetts[doi>10.1145/582095.582099]
+Leonard D. Shapiro, Join processing in database systems with large main memories, ACM Transactions on Database Systems (TODS), v.11 n.3, p.239-264, Sept. 1986[doi>10.1145/6314.6315]
+SHASHA, D. Query processing in a symmetric parallel environment. In Proceedings of the Advanced Database Symposium (Tokyo, Japan, Aug. 1986), pp. 183-192.
+D. Shasha , P. Spirakis, Fast parallel algorithms for processing of joins, Proceedings of the 1st International Conference on Supercomputing, p.939-953, March 1988, Athens, Greece
+STAMOS, J. W., AND YOUNG, H. C A symmetric fragment and replicate algorithm for distributed joins. Res. Rep RJ7188, IBM Corp., San Jose, Dec 1989.
+STONEBRAKER, M., AND NEUHOLD, E. A distributed database version of INGRES In Proceed~ngs of the 3rd Berkeley Workshop on D~strzbuted Data Management and Computer Networks (May 1977).
+SUN, W., MENG, W , AND YU, C. Query optimization in object-oriented database systems Unpublished manuscript, Department of Electrical Engineering and Computer Science, University of Illinois at Chicago, 1990.
+TERADATA CORPORATION. Database computer system concepts and facilities. Document C02-0001-01, Teradata Corporation, Los Angeles, Oct. 1984
+Patrick Valduriez , Georges Gardarin, Join and Semijoin Algorithms for a Multiprocessor Database Machine, ACM Transactions on Database Systems (TODS), v.9 n.1, p.133-161, March 1984[doi>10.1145/348.318590]
+WILLIAM, R., ET AL. R*: An overview of the architecture Res. Rep. RJ3325, IBM Corp., San Jose, Dec. 1981.
+WONG, E. Dynamic rematenalization: Processing distributed queries using redundant data IEEE Trans Softw. Eng. SE-9, 3 (May 1983), 228-232.
+Clement T. Yu , Z. Meral Ozsoyoglu , K. Lam, Optimization of distributed tree queries, Journal of Computer and System Sciences, v.29 n.3, p.409-445, Dec. 1984[doi>10.1016/0022-0000(84)90007-2]
+C. T. Yu , K.-C. Guh , W. Zhang , M. Templeton , D. Brill , A.L.P. Chen, Algorithms to process distributed queries in fast local networks, IEEE Transactions on Computers, v.36 n.10, p.1153-1164, Oct. 1987[doi>10.1109/TC.1987.1676856]

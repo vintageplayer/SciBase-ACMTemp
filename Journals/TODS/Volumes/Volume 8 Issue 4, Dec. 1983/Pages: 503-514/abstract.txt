@@ -1,0 +1,1 @@
+We describe and prove correct a programming technique using a linked list of pages for managing the free disk pages of a file system where shadowing is the recovery technique. Our technique requires a window of only two pages of main memory for accessing and maintaining the free list, and avoids wholesale copying of free-list pages during acheckpointorrecoveroperation.

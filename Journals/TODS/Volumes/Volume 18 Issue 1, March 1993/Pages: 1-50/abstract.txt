@@ -1,0 +1,24 @@
+New applications such as CAD, AI, and hypermedia require direct
+representation and flexible use of complex objects, behavioral
+knowledge, and multimedia data. To this end, we have devised a knowledge
+base management system called Jasmine. An object-oriented approach in a
+programming language also seems promising for use in Jasmine. Jasmine
+extends the current object-oriented approach and provides the following
+features. Our object model is based on functional data models and
+well-established set theory. Attributes or functions composing objects
+can represent both structural and behavioral knowledge. The object model
+can represent incomplete and generic knowledge. The model can support
+the basic storage and operations of multimedia data. The facets of
+attributes can flexibly  represent  constraints and triggers. The object
+manipulation language can support associative access of objects. The
+structural and behavioral knowledge can be uniformly treated to allow
+the user to specify complex object operations in a compact manner. The
+user-defined and system-defined attributes can be uniformly specified to
+ease user customization of the language. The classes and instances can
+be uniformly accessed. Incomplete knowledge can be flexibly accessed.
+The system has a layered architecture. Objects are stored in nested
+relations provided by extensive DBMS as a sublayer. User query of
+objects is compiled into relational operations such as select and join,
+which can be efficiently processed using hashing. The behavioral
+knowledge is compiled into predicate and manipulation  function 
+interfaces that can directly access tuples in a buffer.—Authors' Abstract

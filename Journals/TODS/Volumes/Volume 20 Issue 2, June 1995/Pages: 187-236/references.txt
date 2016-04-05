@@ -1,0 +1,33 @@
+M. M. Astrahan , M. W. Blasgen , D. D. Chamberlin , K. P. Eswaran , J. N. Gray , P. P. Griffiths , W. F. King , R. A. Lorie , P. R. McJones , J. W. Mehl , G. R. Putzolu , I. L. Traiger , B. W. Wade , V. Watson, System R: relational approach to database management, ACM Transactions on Database Systems (TODS), v.1 n.2, p.97-137, June 1976[doi>10.1145/320455.320457]
+Dina Bitton , David J. DeWitt, Duplicate record elimination in large data files, ACM Transactions on Database Systems (TODS), v.8 n.2, p.255-265, June 1983[doi>10.1145/319983.319987]
+Kjell Bratbergsengen, Hashing Methods and Relational Algebra Operations, Proceedings of the 10th International Conference on Very Large Data Bases, p.323-333, August 27-31, 1984
+John V. Carlis, HAS, a Relational Algebra Operator or Divide is not Enough to Conquer, Proceedings of the Second International Conference on Data Engineering, p.254-261, February 05-07, 1986
+CHENG, J., LOOSELY, C., SHIBAMIYA, A., AND WORTHINGTON, P. 1985. IBM database 2 performance: design, implementation, and tuning. IBM Syst. J. 23, 2.
+CODD, E. F. 1972. Relatwnal Completeness of Database Sublanguages. Prentice-Hall, New York.
+C. J. Date, A guide to the SQL standard (2nd ed.), Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1989
+David J DeWitt , Randy H Katz , Frank Olken , Leonard D Shapiro , Michael R Stonebraker , David Wood, Implementation techniques for main memory database systems, Proceedings of the 1984 ACM SIGMOD international conference on Management of data, June 18-21, 1984, Boston, Massachusetts[doi>10.1145/602259.602261]
+DEWITT, D. J., AND GERBER, R. H. 1985. Multiprocessor hash-based join algorithms. Proc. lnt'l. Conf. on Very Large Data Banes (Stockholm, Sweden, August) VLDB Endowment, 151.
+David J. DeWitt , Goetz Graefe , Krishna B. Kumar , Robert H. Gerber , Michael L. Heytens , M. Muralikrishna, GAMMA—a high performance dataflow database machine, Readings in database systems, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1988
+D. J. Dewitt , S. Ghandeharizadeh , D. A. Schneider , A. Bricker , H. -I. Hsiao , R. Rasmussen, The Gamma Database Machine Project, IEEE Transactions on Knowledge and Data Engineering, v.2 n.1, p.44-62, March 1990[doi>10.1109/69.50905]
+EPSTEIN, R. 1979. Techniques for processing of aggregates in relational database systems. Univ. of California at Berkeley, UCB/ERL Memorandum M79/8, (February).
+Shinya Fushimi , Masaru Kitsuregawa , Hidehiko Tanaka, An Overview of The System Software of A Parallel Relational Database Machine GRACE, Proceedings of the 12th International Conference on Very Large Data Bases, p.209-219, August 25-28, 1986
+Goetz Graefe, Relational Division: Four Algorithms and Their Performance, Proceedings of the Fifth International Conference on Data Engineering, p.94-101, February 06-10, 1989
+Goetz Graefe , Shreekant S. Thakkar, Tuning a parallel database algorithm on a shared-memory multiprocessor, Software—Practice & Experience, v.22 n.7, p.495-517, July 1992[doi>10.1002/spe.4380220702]
+Goetz Graefe, Query evaluation techniques for large databases, ACM Computing Surveys (CSUR), v.25 n.2, p.73-169, June 1993[doi>10.1145/152610.152611]
+G. Graefe , D. L. Davison, Encapsulation of Parallelism and Architecture-Independence in Extensible Database Query Execution, IEEE Transactions on Software Engineering, v.19 n.8, p.749-764, August 1993[doi>10.1109/32.238579]
+G. Graefe, Volcano An Extensible and Parallel Query Evaluation System, IEEE Transactions on Knowledge and Data Engineering, v.6 n.1, p.120-135, February 1994[doi>10.1109/69.273032]
+G. Graefe , A. Linville , L. D. Shapiro, Sort vs. Hash Revisited, IEEE Transactions on Knowledge and Data Engineering, v.6 n.6, p.934-944, December 1994[doi>10.1109/69.334883]
+FATSUREGAWA, M., TANAKA, H, AND MOTOOKA, T. 1983. Application of hash to data base machine and its architecture. New Generation Comput. 1, 1 63.
+M. Kitsuregawa , M. Nakayama , M. Takagi, The effect of bucket size tuning in the dynamic hybrid GRACE hash join method, Proceedings of the 15th international conference on Very large data bases, p.257-266, July 1989, Amsterdam, The Netherlands
+Donald E. Knuth, The art of computer programming,  volume 3: (2nd ed.) sorting and searching, Addison Wesley Longman Publishing Co., Inc., Redwood City, CA, 1998
+David Maier, Theory of Relational Databases, Computer Science Pr, 1983
+Masaya Nakayama , Masaru Kitsuregawa , Mikio Takagi, Hash-Partitioned Join Method Using Dynamic Destaging Strategy, Proceedings of the 14th International Conference on Very Large Data Bases, p.468-478, August 29-September 01, 1988
+O'NEIL, P. E. 1994 Introducaon to Relational Databases. Morgan Kaufmann, San Marco, Cahf.
+Giovanni Maria Sacco, Fragmentation: a technique for efficient query processing, ACM Transactions on Database Systems (TODS), v.11 n.2, p.113-133, June 1986[doi>10.1145/5922.5638]
+Betty Salzberg , Alex Tsukerman , Jim Gray , Michael Stuewart , Susan Uren , Bonnie Vaughan, FastSort: a distributed single-input single-output external sort, Proceedings of the 1990 ACM SIGMOD international conference on Management of data, p.94-101, May 23-26, 1990, Atlantic City, New Jersey, United States[doi>10.1145/93597.98719]
+Donovan A. Schneider , David J. DeWitt, A performance evaluation of four parallel join algorithms in a shared-nothing multiprocessor environment, Proceedings of the 1989 ACM SIGMOD international conference on Management of data, p.110-121, June 1989, Portland, Oregon, United States[doi>10.1145/67544.66937]
+Leonard D. Shapiro, Join processing in database systems with large main memories, ACM Transactions on Database Systems (TODS), v.11 n.3, p.239-264, Sept. 1986[doi>10.1145/6314.6315]
+John Miles Smith , Philip Yen-Tang Chang, Optimizing the performance of a relational algebra database interface, Communications of the ACM, v.18 n.10, p.568-579, Oct. 1975[doi>10.1145/361020.361025]
+STONEBKAK~R, M. 1986. The case for shared-nothing. IEEE Data Eng. Bull. 9, 1 (March).
+Kyu-Young Whang , Ashok Malhotra , Gary H. Sockut , Luanne M. Burns, Supporting Universal Quantification in a Two-Dimensional Database Query Language, Proceedings of the Sixth International Conference on Data Engineering, p.68-75, February 05-09, 1990
+Hansjorrg Zeller , Jim Gray, An adaptive hash join algorithm for multiuser environments, Proceedings of the sixteenth international conference on Very large databases, p.186-197, September 1990, Brisbane, Australia

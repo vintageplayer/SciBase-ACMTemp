@@ -1,0 +1,43 @@
+Shan-hoi Ng , Sheung-lun Hung, Multigranularity locking in multiple job classes transaction processing system, ACM SIGMOD Record, v.24 n.1, p.27-32, March 1995
+J. R. Jordan , J. Banerjee , R. B. Batman, Precision locks, Proceedings of the 1981 ACM SIGMOD international conference on Management of data, April 29-May 01, 1981, Ann Arbor, Michigan
+Ming-Syan Chen , Philip S. Yu, Optimal Design of Multiple Hash Tables for Concurrency Control, IEEE Transactions on Knowledge and Data Engineering, v.9 n.3, p.384-390, May 1997
+Suh-Yin Lee , Ruey-Long Liou, A Multi-Granularity Locking Model for Concurrency Control in Object-Oriented Database Systems, IEEE Transactions on Knowledge and Data Engineering, v.8 n.1, p.144-156, February 1996
+Haran Boral , David J DeWitt, A methodology for database system performance evaluation, ACM SIGMOD Record, v.14 n.2, June 1984
+John T. Robinson, A fast general-purpose hardware synchronization mechanism, ACM SIGMOD Record, v.14 n.4, p.122-130, May 1985
+Ming-Syan Chen , Philip S. Yu , Tao-Heng Yang, On Coupling Multiple Systems With A Global Buffer, IEEE Transactions on Knowledge and Data Engineering, v.8 n.2, p.339-344, April 1996
+Anna Hác, A survey of techniques for the modeling of serialization delays in computer systems, ACM SIGMETRICS Performance Evaluation Review, v.12 n.4, p.54-56, Winter 1984-1985
+In Kyung Ryu , Alexander Thomasian, Performance analysis of dynamic locking, Proceedings of 1986 ACM Fall joint computer conference, p.698-708, November 1986, Dallas, Texas, USA
+Y. -F. Huang , Y. -H. Chin, A New Methodology to Evaluate Locking Protocols, IEEE Transactions on Knowledge and Data Engineering, v.2 n.4, p.431-435, December 1990
+Abdelsalam Helal , Tung-Hui Ku , Ramez Elmasri , Sourav Mukherjee, Adaptive transaction scheduling, Proceedings of the second international conference on Information and knowledge management, p.704-713, November 01-05, 1993, Washington, D.C., USA
+D. Potier , Ph. Leblanc, Analysis of locking policies in database management systems, Communications of the ACM, v.23 n.10, p.584-593, Oct. 1980
+Debasis Mitra , P. J. Weinberger, Probabilistic Models of Database Locking: Solutions, Computational Algorithms, and Asymptotics, Journal of the ACM (JACM), v.31 n.4, p.855-878, Oct. 1984
+Walter H. Kohler , Kenneth C. Wilner , John A. Stankovic, An experimental comparison of locking policies in a testbed database system, ACM SIGMOD Record, v.13 n.4, May 1983
+Ji-Woong Chang , Kyu-Young Whang , Young-Koo Lee , Jae-Heon Yang , Yong-Chul Oh, A formal approach to lock escalation, Information Systems, v.30 n.2, p.151-166, April 2005
+E. Omiecinski , L. Lee , P. Scheuermann, Performance Analysis of a Concurrent File Reorganization Algorithm for Record Clustering, IEEE Transactions on Knowledge and Data Engineering, v.6 n.2, p.248-257, April 1994
+Carl S. Hartzman, The Delay Due to Dynamic Two-Phase Locking, IEEE Transactions on Software Engineering, v.15 n.1, p.72-82, January 1989
+Abdelsalam Helal , Tung-Hui Ku , Jud Fortner, Quasi-dynamic two-phase locking, Proceedings of the third international conference on Information and knowledge management, p.211-218, November 29-December 02, 1994, Gaithersburg, Maryland, United States
+Werner Kießling , G. Landherr, A Quantitative Comparison of Lockprotocols for Centralized Databases, Proceedings of the 9th International Conference on Very Large Data Bases, p.120-130, October 31-November 02, 1983
+Alexander Thomasian , In Kyung Ryu, A decomposition solution to the queueing network model of the centralized DBMS with static locking, Proceedings of the 1983 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.82-92, August 29-31, 1983, Minneapolis, Minnesota, USA
+Anna Ha, Modelling parallel access to shared resources in a distributed file system using queueing networks, Journal of Systems and Software, v.6 n.1-2, p.61-69, May, 1986
+Peter Peinl , Andreas Reuter, Empirical Comparison of Database Concurrency Schemes, Proceedings of the 9th International Conference on Very Large Data Bases, p.97-108, October 31-November 02, 1983
+In Kyung Ryu , Alexander Thomasian, Analysis of database performance with dynamic locking, Journal of the ACM (JACM), v.37 n.3, p.491-523, July 1990
+Michael Stonebraker, Retrospection on a database system, ACM Transactions on Database Systems (TODS), v.5 n.2, p.225-240, June 1980
+Jan Lindström, Multiversion repeatable read isolation level: theory and practice, Proceedings of the Fourth IASTED International Conference on Advances in Computer Science and Technology, April 02-04, 2008, Langkawi, Malaysia
+Michael J. Carey, Granularity hierarchies in concurrency control, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia
+Pierangelo Di Sanzo , Roberto Palmieri , Bruno Ciciani , Francesco Quaglia , Paolo Romano, Analytical modeling of lock-based concurrency control with arbitrary transaction data access patterns, Proceedings of the first joint WOSP/SIPEW international conference on Performance engineering, January 28-30, 2010, San Jose, California, USA
+Thomas W. Page, Jr. , Matthew J. Weinstein , Gerald J. Popek, Genesis: a distributed database operating system, ACM SIGMOD Record, v.14 n.4, p.374-387, May 1985
+Y. C. Tay , Rajan Suri , Nathan Goodman, A mean value performance model for locking in databases: the no-waiting case, Journal of the ACM (JACM), v.32 n.3, p.618-651, July 1985
+Vigyan Singhal , Alan Jay Smith, Analysis of locking behavior in three real database systems, The VLDB Journal — The International Journal on Very Large Data Bases, v.6 n.1, p.40-52, February 1997
+Michael J. Carey , Waleed A. Muhanna, The performance of multiversion concurrency control algorithms, ACM Transactions on Computer Systems (TOCS), v.4 n.4, p.338-378, Nov. 1986
+Pentti A. Honkanen, Concurrency control and integrity preservation for the `RIM' DBMS, ACM SIGMIS Database, v.15 n.3, p.34-39, Spring 1984
+Michael J. Carey, An abstract model of database concurrency control algorithms, ACM SIGMOD Record, v.13 n.4, May 1983
+Walt Kohler , Bao-Chyuan Jenq, CARAT: a testbed for the performance evaluation of distributed database systems, Proceedings of 1986 ACM Fall joint computer conference, p.1169-1178, November 1986, Dallas, Texas, USA
+Bao-Chyuan Jenq , Walter H. Kohler , Don Towsley, A Queueing Network Model for a Distributed Database Testbed System, IEEE Transactions on Software Engineering, v.14 n.7, p.908-921, July 1988
+T. J. Lehman , B. G. Lindsay, The Starburst long field manager, Proceedings of the 15th international conference on Very large data bases, p.375-383, July 1989, Amsterdam, The Netherlands
+Rakesh Agrawal , Michael J. Carey , Miron Livny, Models for studying concurrency control performance: alternatives and implications, ACM SIGMOD Record, v.14 n.4, p.108-121, May 1985
+Pierangelo Di Sanzo , Bruno Ciciani , Roberto Palmieri , Francesco Quaglia , Paolo Romano, On the analytical modeling of concurrency control algorithms for Software Transactional Memories: The case of Commit-Time-Locking, Performance Evaluation, v.69 n.5, p.187-205, May, 2012
+Michael J. Carey , Michael Stonebraker, The Performance of Concurrency Control Algorithms for Database Management Systems, Proceedings of the 10th International Conference on Very Large Data Bases, p.107-118, August 27-31, 1984
+Rakesh Agrawal , Michael J. Carey , Miron Livny, Concurrency control performance modeling: alternatives and implications, ACM Transactions on Database Systems (TODS), v.12 n.4, p.609-654, Dec. 1987
+Anna Hac, Modeling distributed file systems, ACM SIGMETRICS Performance Evaluation Review, v.19 n.4, p.22-27, May 1992
+Walter H. Kohler, A Survey of Techniques for Synchronization and Recovery in Decentralized Computer Systems, ACM Computing Surveys (CSUR), v.13 n.2, p.149-183, June 1981
+Kenneth C. Sevcik, Data base system performance prediction using an analytical model (invited paper), Proceedings of the seventh international conference on Very Large Data Bases, p.182-198, September 09-11, 1981, Cannes, France

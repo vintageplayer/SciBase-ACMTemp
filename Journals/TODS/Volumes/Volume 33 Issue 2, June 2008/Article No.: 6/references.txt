@@ -1,0 +1,51 @@
+Serge Abiteboul , Richard Hull , Victor Vianu, Foundations of Databases: The Logical Level, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1995
+Marcelo Arenas , Leopoldo Bertossi , Jan Chomicki, Answer sets for consistent query answering in inconsistent databases, Theory and Practice of Logic Programming, v.3 n.4, p.393-424, July 2003[doi>10.1017/S1471068403001832]
+Armstrong, W. W. 1974. Dependency structures of data base relationships. In Proceedings of the IFIP World Computer Congress. 580--583.
+Marianne Baudinet , Jan Chomicki , Pierre Wolper, Constraint-generating dependencies, Journal of Computer and System Sciences, v.59 n.1, p.94-115, Aug. 1999[doi>10.1006/jcss.1999.1632]
+Catriel Beeri , Philip A. Bernstein, Computational problems related to the design of normal form relational schemas, ACM Transactions on Database Systems (TODS), v.4 n.1, p.30-59, March 1979[doi>10.1145/320064.320066]
+Catriel Beeri , Moshe Y. Vardi, A Proof Procedure for Data Dependencies, Journal of the ACM (JACM), v.31 n.4, p.718-741, Oct. 1984[doi>10.1145/1634.1636]
+Bertossi, L. and Chomicki, J. 2003. Query answering in inconsistent databases. In Logics for Emerging Applications of Databases. 43--83.
+Philip Bohannon , Wenfei Fan , Michael Flaster , Rajeev Rastogi, A cost-based model and effective heuristic for repairing constraints by value modification, Proceedings of the 2005 ACM SIGMOD international conference on Management of data, June 14-16, 2005, Baltimore, Maryland[doi>10.1145/1066157.1066175]
+Bohannon, P., Fan, W., Geerts, F., Jia, X., and Kementsietsidis, A. 2007. Conditional functional dependencies for data cleaning. In Proceedings of the International Conference on Data Engineering (ICDE). 746--755.
+Paul De Bra , Jan Paredaens, Conditional Dependencies for Horizontal Decompositions, Proceedings of the 10th Colloquium on Automata, Languages and Programming, p.67-82, July 18-22, 1983
+Loreto Bravo , Leopoldo Bertossi, Logic programs for consistently querying data integration systems, Proceedings of the 18th international joint conference on Artificial intelligence, p.10-15, August 09-15, 2003, Acapulco, Mexico
+Loreto Bravo , Wenfei Fan , Floris Geerts , Shuai Ma, Increasing the Expressivity of Conditional Functional Dependencies without Extra Complexity, Proceedings of the 2008 IEEE 24th International Conference on Data Engineering, p.516-525, April 07-12, 2008[doi>10.1109/ICDE.2008.4497460]
+Loreto Bravo , Wenfei Fan , Shuai Ma, Extending dependencies with conditions, Proceedings of the 33rd international conference on Very large data bases, September 23-27, 2007, Vienna, Austria
+Renato Bruni , Antonio Sassano, Errors Detection and Correction in Large Scale Data Collecting, Proceedings of the 4th International Conference on Advances in Intelligent Data Analysis, p.84-94, September 13-15, 2001
+Andrea Calì , Domenico Lembo , Riccardo Rosati, On the decidability and complexity of query answering over inconsistent and incomplete databases, Proceedings of the twenty-second ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems, p.260-271, June 09-11, 2003, San Diego, California[doi>10.1145/773153.773179]
+Andrea Cali , Domenico Lembo , Riccardo Rosati, Query rewriting and answering under constraints in data integration systems, Proceedings of the 18th international joint conference on Artificial intelligence, p.16-21, August 09-15, 2003, Acapulco, Mexico
+Jan Chomicki , Jerzy Marcinkowski, Minimal-change integrity maintenance using tuple deletions, Information and Computation, v.197 n.1/2, p.90-121, February 25, 2005/March 15, 2005[doi>10.1016/j.ic.2004.04.007]
+Jan Chomicki , Jerzy Marcinkowski, On the computational complexity of minimal-change integrity maintenance in relational databases, Inconsistency Tolerance, Springer-Verlag, Berlin, Heidelberg, 2004
+Codd, E. F. 1972. Relational completeness of data base sublanguages. In Database Systems: Courant Computer Science Symposia Series 6. Prentice-Hall, 65--98.
+Gao Cong , Wenfei Fan , Floris Geerts , Xibei Jia , Shuai Ma, Improving data quality: consistency and accuracy, Proceedings of the 33rd international conference on Very large data bases, September 23-27, 2007, Vienna, Austria
+Eckerson, W. W. 2002. Data quality and the bottom line: Achieving business success through a commitment to high quality data. Tech. rep., The Data Warehousing Institute. http://www.tdwi.org/research/display.aspx?ID=6064.
+Fellegi, I. and Holt, D. 1976. A systematic approach to automatic edit and imputation. J. Amer. Statist. Assn. 71, 353, 17--35.
+Fellegi, I. P. and Sunter, A. B. 1969. A theory for record linkage. J. Amer. Statist. Assn. 64, 328, 1183--1210.
+Franconi, E., Palma, A. L., Leone, N., Perri, S., and Scarcello, F. 2001. Census data repair: a challenging application of disjunctive logic programming. In Proceedings of the Artificial Intelligence on Logic for Programming (LPAR). 561--578.
+Helena Galhardas , Daniela Florescu , Dennis Shasha , Eric Simon, AJAX: an extensible data cleaning tool, Proceedings of the 2000 ACM SIGMOD international conference on Management of data, p.590, May 15-18, 2000, Dallas, Texas, USA[doi>10.1145/342009.336568]
+Helena Galhardas , Daniela Florescu , Dennis Shasha , Eric Simon , Cristian-Augustin Saita, Declarative Data Cleaning: Language, Model, and Algorithms, Proceedings of the 27th International Conference on Very Large Data Bases, p.371-380, September 11-14, 2001
+Michael R. Garey , David S. Johnson, Computers and Intractability: A Guide to the Theory of NP-Completeness, W. H. Freeman & Co., New York, NY, 1979
+R. S. Garfinkel , A. S. Kunnathur , G. E. Liepins, Optimal imputation of erroneous data:  Categorical data, general edits, Operations Research, v.34 n.5, p.744-751, Sept.-Oct. 1986[doi>10.1287/opre.34.5.744]
+Gertz, M. and Lipeck, U. 1995. A diagnostic approach to repairing constraint violations in databases. In Proceedings of the International Workshop on Principles of Diagnosis (DX). 65--72.
+G. Grahne, Problem of Incomplete Information in Relational Databases, Springer-Verlag New York, Inc., Secaucus, NJ, 1991
+Gianluigi Greco , Sergio Greco , Ester Zumpano, A Logical Framework for Querying and Repairing Inconsistent Databases, IEEE Transactions on Knowledge and Data Engineering, v.15 n.6, p.1389-1408, November 2003[doi>10.1109/TKDE.2003.1245280]
+Mauricio A. Hernández , Salvatore J. Stolfo, Real-world Data is Dirty: Data Cleansing and The Merge/Purge Problem, Data Mining and Knowledge Discovery, v.2 n.1, p.9-37, January 1998[doi>10.1023/A:1009761603038]
+Tomasz Imieliński , Witold Lipski, Jr., Incomplete Information in Relational Databases, Journal of the ACM (JACM), v.31 n.4, p.761-791, Oct. 1984[doi>10.1145/1634.1886]
+Ee-Peng Lim , Jaideep Srivastava , Satya Prabhakar , James Richardson, Entity identification in database integration, Information Sciences: an International Journal, v.89 n.1-2, p.1-38, Feb. 1996[doi>10.1016/0020-0255(95)00185-9]
+Michael J. Maher, Constrained dependencies, Theoretical Computer Science, v.173 n.1, p.113-149, Feb. 1997[doi>10.1016/S0304-3975(96)00193-4]
+Michael J. Maher , Divesh Srivastava, Chasing constrained tuple-generating dependencies, Proceedings of the fifteenth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.128-138, June 04-06, 1996, Montreal, Quebec, Canada[doi>10.1145/237661.237693]
+David Maier, Minimum Covers in Relational Database Model, Journal of the ACM (JACM), v.27 n.4, p.664-674, Oct. 1980[doi>10.1145/322217.322223]
+David Maier, Theory of Relational Databases, Computer Science Pr, 1983
+Maletic, J. I. and Marcus, A. 2000. Data cleansing: Beyond integrity analysis. In Proceedings of the Conference on Information Quality (IQ). 200--209.
+Monge, A. E. 2000. Matching algorithms within a duplicate detection system. IEEE Data Eng. Bull. 23, 4, 14--20.
+Papadimitriou, C. H. 1994. Computational Complexity. Addison Wesley.
+Rahm, E. and Do, H. H. 2000. Data cleaning: Problems and current approaches. IEEE Data Eng. Bull. 23, 4, 3--13.
+Vijayshankar Raman , Joseph M. Hellerstein, Potter's Wheel: An Interactive Data Cleaning System, Proceedings of the 27th International Conference on Very Large Data Bases, p.381-390, September 11-14, 2001
+Fereidoon Sadri, Data dependencies in the relational model of databases: a generalization, Princeton University, Princeton, NJ, 1980
+Fereidoon Sadri , Jeffrey D. Ullman, Template Dependencies: A Large Class of Dependencies in Relational Databases and Its Complete Axiomatization, Journal of the ACM (JACM), v.29 n.2, p.363-372, April 1982[doi>10.1145/322307.322312]
+Shilakes, C. C. and Tylman, J. 1998. Enterprise information portals. Tech. rep., Merrill Lynch, Inc., New York, NY.
+Vijay V. Vazirani, Approximation algorithms, Springer-Verlag New York, Inc., New York, NY, 2001
+Jef Wijsen, Database repairing using updates, ACM Transactions on Database Systems (TODS), v.30 n.3, p.722-768, September 2005[doi>10.1145/1093382.1093385]
+Winkler, W. E. 1994. Advanced methods for record linkage. Tech. rep., Statistical Research Division, U.S. Bureau of the Census.
+Winkler, W. E. 1997. Set-covering and editing discrete data. In Proceedings of the American Statistical Association. Section on Survey Research Methods. 564--569.
+William E. Winkler, Methods for evaluating and creating data quality, Information Systems, v.29 n.7, p.531-550, October 2004[doi>10.1016/j.is.2003.12.003]

@@ -1,0 +1,61 @@
+Anastassia Ailamaki, Database Architectures for New Hardware, Proceedings of the 21st International Conference on Data Engineering, p.1148, April 05-08, 2005[doi>10.1109/ICDE.2005.45]
+Anastassia Ailamaki , David J. DeWitt , Mark D. Hill , Marios Skounakis, Weaving Relations for Cache Performance, Proceedings of the 27th International Conference on Very Large Data Bases, p.169-180, September 11-14, 2001
+Anastassia Ailamaki , David J. DeWitt , Mark D. Hill , David A. Wood, DBMSs on a Modern Processor: Where Does Time Go?, Proceedings of the 25th International Conference on Very Large Data Bases, p.266-277, September 07-10, 1999
+AMD Corp. 2005. Software Optimization Guide for AMD64 Processors.
+J. Baulier , P. Bohannon , S. Gogate , C. Gupta , S. Haldar, DataBlitz storage manager: main-memory database performance for critical applications, Proceedings of the 1999 ACM SIGMOD international conference on Management of data, p.519-520, May 31-June 03, 1999, Philadelphia, Pennsylvania, USA[doi>10.1145/304182.304239]
+M. A. Bender , E. D. Demaine , M. Farach-Colton, Cache-oblivious B-trees, Proceedings of the 41st Annual Symposium on Foundations of Computer Science, p.399, November 12-14, 2000
+Michael A. Bender , Ziyang Duan , John Iacono , Jing Wu, A locality-preserving cache-oblivious dynamic dictionary, Journal of Algorithms, v.53 n.2, p.115-136, November 2004[doi>10.1016/j.jalgor.2004.04.014]
+Michael A. Bender , Martin Farach-Colton , Bradley C. Kuszmaul, Cache-oblivious string B-trees, Proceedings of the twenty-fifth ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems, June 26-28, 2006, Chicago, IL, USA[doi>10.1145/1142351.1142385]
+Berrendorf, R., Ziegler, H., and Mohr, B. 2002. PCL: Performance Counter Library. http://www.fz-juelich.de/zam/PCL/.
+Philip Bohannon , Peter Mcllroy , Rajeev Rastogi, Main-memory index structures with fixed-size partial keys, Proceedings of the 2001 ACM SIGMOD international conference on Management of data, p.163-174, May 21-24, 2001, Santa Barbara, California, USA[doi>10.1145/375663.375681]
+Peter A. Boncz , Stefan Manegold , Martin L. Kersten, Database Architecture Optimized for the New Bottleneck: Memory Access, Proceedings of the 25th International Conference on Very Large Data Bases, p.54-65, September 07-10, 1999
+Gerth Stølting Brodal , Rolf Fagerberg, Cache Oblivious Distribution Sweeping, Proceedings of the 29th International Colloquium on Automata, Languages and Programming, p.426-438, July 08-13, 2002
+Gerth Stølting Brodal , Rolf Fagerberg , Riko Jacob, Cache oblivious search trees via binary trees of small height, Proceedings of the thirteenth annual ACM-SIAM symposium on Discrete algorithms, p.39-48, January 06-08, 2002, San Francisco, California
+Brodal, G. S., Fagerberg, R., and Vinther, K. 2004. Engineering a cache-oblivious sorting algorithm. In ALENEX/ANALC. 4--17.
+Shimin Chen , Anastassia Ailamaki , Phillip B. Gibbons , Todd C. Mowry, Improving Hash Join Performance through Prefetching, Proceedings of the 20th International Conference on Data Engineering, p.116, March 30-April 02, 2004
+Trishul M. Chilimbi , Mark D. Hill , James R. Larus, Cache-conscious structure layout, Proceedings of the ACM SIGPLAN 1999 conference on Programming language design and implementation, p.1-12, May 01-04, 1999, Atlanta, Georgia, USA[doi>10.1145/301618.301633]
+Rezaul Alam Chowdhury , Vijaya Ramachandran, The cache-oblivious gaussian elimination paradigm: theoretical framework, parallelization and experimental evaluation, Proceedings of the nineteenth annual ACM symposium on Parallel algorithms and architectures, June 09-11, 2007, San Diego, California, USA[doi>10.1145/1248377.1248392]
+Douglas Comer, Ubiquitous B-Tree, ACM Computing Surveys (CSUR), v.11 n.2, p.121-137, June 1979[doi>10.1145/356770.356776]
+George P. Copeland , Setrag N. Khoshafian, A decomposition storage model, Proceedings of the 1985 ACM SIGMOD international conference on Management of data, p.268-279, May 1985, Austin, Texas, USA[doi>10.1145/318898.318923]
+Demaine, E. D. 2002. Cache-oblivious algorithms and data structures. Lecture Notes from the EEF Summer School on Massive Data Sets, BRICS.
+David J DeWitt , Randy H Katz , Frank Olken , Leonard D Shapiro , Michael R Stonebraker , David A. Wood, Implementation techniques for main memory database systems, Proceedings of the 1984 ACM SIGMOD international conference on Management of data, June 18-21, 1984, Boston, Massachusetts[doi>10.1145/602259.602261]
+Chen Ding , Yutao Zhong, Predicting whole-program locality through reuse distance analysis, Proceedings of the ACM SIGPLAN 2003 conference on Programming language design and implementation, June 09-11, 2003, San Diego, California, USA[doi>10.1145/781131.781159]
+FastDB. 2002. http://www.ispras.ru/~knizhnik/fastdb.html.
+Matteo Frigo , Charles E. Leiserson , Harald Prokop , Sridhar Ramachandran, Cache-Oblivious Algorithms, Proceedings of the 40th Annual Symposium on Foundations of Computer Science, p.285, October 17-18, 1999
+Philip Garcia , Henry F. Korth, Database hash-join algorithms on multithreaded computer architectures, Proceedings of the 3rd conference on Computing frontiers, May 03-05, 2006, Ischia, Italy[doi>10.1145/1128022.1128055]
+H. Garcia-Molina , K. Salem, Main Memory Database Systems: An Overview, IEEE Transactions on Knowledge and Data Engineering, v.4 n.6, p.509-516, December 1992[doi>10.1109/69.180602]
+Richard A. Hankins , Jignesh M. Patel, Data morphing: an adaptive, cache-conscious storage technique, Proceedings of the 29th international conference on Very large data bases, p.417-428, September 09-12, 2003, Berlin, Germany
+Hardavellas, N., Pandis, I., Johnson, R., Mancheril, N., Harizopoulos, S., Ailamaki, A., and Falsafi, B. 2007. Database servers on chip multiprocessors: Limitations and opportunities. In Proceedings of the 3rd International Conference on Innovative Data Systems Research (CIDR '07). Asilomar, CA.
+Stavros Harizopoulos , Anastassia Ailamaki, Improving instruction cache performance in OLTP, ACM Transactions on Database Systems (TODS), v.31 n.3, p.887-920, September 2006[doi>10.1145/1166074.1166079]
+Bingsheng He , Yinan Li , Qiong Luo , Dongqing Yang, EaseDB: a cache-oblivious in-memory query processor, Proceedings of the 2007 ACM SIGMOD international conference on Management of data, June 11-14, 2007, Beijing, China[doi>10.1145/1247480.1247607]
+Bingsheng He , Qiong Luo, Cache-oblivious nested-loop joins, Proceedings of the 15th ACM international conference on Information and knowledge management, November 06-11, 2006, Arlington, Virginia, USA[doi>10.1145/1183614.1183717]
+He, B. and Luo, Q. 2007. Cache-oblivious query processing. In Proceedings of the 3rd International Conference on Innovative Data Systems Research (CIDR '07). Asilomar, CA.
+Bingsheng He , Qiong Luo , Byron Choi, Cache-Conscious Automata for XML Filtering, IEEE Transactions on Knowledge and Data Engineering, v.18 n.12, p.1629-1644, December 2006[doi>10.1109/TKDE.2006.184]
+Bingsheng He , Qiong Luo , Byron Choi, Adaptive Index Utilization in Memory-Resident Structural Joins, IEEE Transactions on Knowledge and Data Engineering, v.19 n.6, p.772-788, June 2007[doi>10.1109/TKDE.2007.190602]
+John L. Hennessy , David A. Patterson, Computer architecture: a quantitative approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 02
+Intel Corp. 2004. Intel(R) Itanium(R) 2 Processor Reference Manual for Software Development and Optimization.
+Intel Corp. 2007. Intel vtune performance analyzer. http://www3.intel.com/cd/software/products/asmo-na/eng/239144.htm.
+Seongbeom Kim , Dhruba Chandra , Yan Solihin, Fair Cache Sharing and Partitioning in a Chip Multiprocessor Architecture, Proceedings of the 13th International Conference on Parallel Architectures and Compilation Techniques, p.111-122, September 29-October 03, 2004[doi>10.1109/PACT.2004.15]
+Donald Ervin Knuth, The  Art of Computer Programming, 2nd Ed. (Addison-Wesley Series in Computer Science and Information, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1978
+Anthony LaMarca , Richard E. Ladner, The influence of caches on the performance of sorting, Proceedings of the eighth annual ACM-SIAM symposium on Discrete algorithms, p.370-379, January 05-07, 1997, New Orleans, Louisiana, USA
+Tobin J. Lehman , Michael J. Carey, Query processing in main memory database management systems, Proceedings of the 1986 ACM SIGMOD international conference on Management of data, p.239-250, May 28-30, 1986, Washington, D.C., USA[doi>10.1145/16894.16878]
+Tobin J. Lehman , Michael J. Carey, A Study of Index Structures for Main Memory Database Management Systems, Proceedings of the 12th International Conference on Very Large Data Bases, p.294-303, August 25-28, 1986
+Manegold, S. 2004. The Calibrator (v0.9e), a cache-memory and TLB calibration tool. http://www. cwi.nl/~manegold/Calibrator/.
+Stefan Manegold , Peter Boncz , Martin L. Kersten, Generic database cost models for hierarchical memory systems, Proceedings of the 28th international conference on Very Large Data Bases, p.191-202, August 20-23, 2002, Hong Kong, China
+Marr, D. T., Binns, F., Hill, D. L., Hinton, G., Koufaty, D. A., Miller, J. A., and Upton, M. 2002. Hyper-Threading Technology Architecture and Microarchitecture. Intel Technol. J. 6, 1.
+MonetDB. 2006. http://monetdb.cwi.nl/.
+Raghu Ramakrishnan , Johannes Gehrke, Database Management Systems, McGraw-Hill, Inc., New York, NY, 1999
+Jun Rao , Kenneth A. Ross, Cache Conscious Indexing for Decision-Support in Main Memory, Proceedings of the 25th International Conference on Very Large Data Bases, p.78-89, September 07-10, 1999
+Jun Rao , Kenneth A. Ross, Making B+- trees cache conscious in main memory, Proceedings of the 2000 ACM SIGMOD international conference on Management of data, p.475-486, May 15-18, 2000, Dallas, Texas, USA[doi>10.1145/342009.335449]
+Philippe Bonnet, Making CSB+-Trees processor conscious, Proceedings of the 1st international workshop on Data management on new hardware, June 12-12, 2005, Baltimore, Maryland[doi>10.1145/1114252.1114259]
+P. Griffiths Selinger , M. M. Astrahan , D. D. Chamberlin , R. A. Lorie , T. G. Price, Access path selection in a relational database management system, Proceedings of the 1979 ACM SIGMOD international conference on Management of data, May 30-June 01, 1979, Boston, Massachusetts[doi>10.1145/582095.582099]
+Minglong Shao , Anastassia Ailamaki , Babak Falsafi, DBmbench: fast and accurate database workload representation on modern microarchitecture, Proceedings of the 2005 conference of the Centre for Advanced Studies on Collaborative research, p.254-267, October 17-20, 2005, Toranto, Ontario, Canada
+Ambuj Shatdal , Chander Kant , Jeffrey F. Naughton, Cache Conscious Algorithms for Relational Query Processing, Proceedings of the 20th International Conference on Very Large Data Bases, p.510-521, September 12-15, 1994
+Mike Stonebraker , Daniel J. Abadi , Adam Batkin , Xuedong Chen , Mitch Cherniack , Miguel Ferreira , Edmond Lau , Amerson Lin , Sam Madden , Elizabeth O'Neil , Pat O'Neil , Alex Rasin , Nga Tran , Stan Zdonik, C-store: a column-oriented DBMS, Proceedings of the 31st international conference on Very large data bases, August 30-September 02, 2005, Trondheim, Norway
+Sun Corp. 1997. UltraSPARC (R) III Cu Users Manual.
+TimesTen. 2006. http://www.oracle.com/timesten/index.html.
+TPC. 2004. http://www.tpc.org/.
+van Emde Boas, P., Kaas, R., and Zijlstra, E. 1977. Design and implementation of an efficient priority queue. Math. Syst. Theory 10, 99--127.
+Sung-Eui Yoon , Peter Lindstrom, Mesh Layouts for Block-Based Caches, IEEE Transactions on Visualization and Computer Graphics, v.12 n.5, p.1213-1220, September 2006[doi>10.1109/TVCG.2006.162]
+Jingren Zhou , John Cieslewicz , Kenneth A. Ross , Mihir Shah, Improving database performance on simultaneous multithreading processors, Proceedings of the 31st international conference on Very large data bases, August 30-September 02, 2005, Trondheim, Norway
+Jingren Zhou , Kenneth A. Ross, Buffering accesses to memory-resident index structures, Proceedings of the 29th international conference on Very large data bases, p.405-416, September 09-12, 2003, Berlin, Germany

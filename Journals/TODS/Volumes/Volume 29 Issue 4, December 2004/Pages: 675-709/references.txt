@@ -1,0 +1,34 @@
+D. Agrawal , A. El Abbadi , A. Singh , T. Yurek, Efficient view maintenance at data warehouses, ACM SIGMOD Record, v.26 n.2, p.417-427, June 1997
+D. Agrawal , S. Sengupta, Modular synchronization in multiversion databases: version control and concurrency control, ACM SIGMOD Record, v.18 n.2, p.408-417, June 1989
+Philip A. Bernstein , Vassco Hadzilacos , Nathan Goodman, Concurrency control and recovery in database systems, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1987
+Chan, A. and Gray, R. 1985. Implementing distributed read-only transactions. IEEE Trans. on Softw. Eng. 11, 205--212.
+Jun Chen , Songting Chen , Elke A. Rundensteiner, A Transactional Model for Data Warehouse Maintenance, Proceedings of the 21st International Conference on Conceptual Modeling, p.247-262, October 07-11, 2002
+Jun Chen , Xin Zhang , Songting Chen , Andreas Koeller , Elke A. Rundensteiner, DyDa: data warehouse maintenance in fully concurrent environments, ACM SIGMOD Record, v.30 n.2, p.619, June 2001
+Songting Chen , Jun Chen , Xin Zhang , Elke A. Rundensteiner, Detection and Correction of Conflicting Source Updates for View Maintenance, Proceedings of the 20th International Conference on Data Engineering, p.436, March 30-April 02, 2004
+Latha S. Colby , Timothy Griffin , Leonid Libkin , Inderpal Singh Mumick , Howard Trickey, Algorithms for deferred view maintenance, ACM SIGMOD Record, v.25 n.2, p.469-480, June 1996
+Jim Gray , Andreas Reuter, Transaction Processing: Concepts and Techniques, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1992
+Gupta, A. and Mumick, I. 1995. Maintenance of materialized views: Problems, techniques, and applications. IEEE Data Eng. Bull. 18, 2, 3--19.
+Ashish Gupta , Inderpal S. Mumick , Kenneth A. Ross, Adapting materialized views after redefinitions, ACM SIGMOD Record, v.24 n.2, p.211-222, May 1995
+Amy J. Lee , Anisoara Nica , Elke A. Rundensteiner, The EVE Approach: View Synchronization in Dynamic Distributed Environments, IEEE Transactions on Knowledge and Data Engineering, v.14 n.5, p.931-954, September 2002[doi>10.1109/TKDE.2002.1033766]
+Bin Liu , Songting Chen , Elke A. Rundensteiner, A Transactional Approach to Parallel Data Warehouse Maintenance, Proceedings of the 4th International Conference on Data Warehousing and Knowledge Discovery, p.307-316, September 04-06, 2002
+Bin Liu , Songting Chen , Elke A. Rundensteiner, Batch data warehouse maintenance in dynamic environments, Proceedings of the eleventh international conference on Information and knowledge management, November 04-09, 2002, McLean, Virginia, USA[doi>10.1145/584792.584807]
+David Lomet , Betty Salzberg, Access methods for multiversion data, ACM SIGMOD Record, v.18 n.2, p.315-324, June 1989
+James J. Lu , Guido Moerkotte , Joachim Schue , V. S. Subrahmanian, Efficient maintenance of materialized mediated views, ACM SIGMOD Record, v.24 n.2, p.340-351, May 1995
+Jayant Madhavan , Philip A. Bernstein , Erhard Rahm, Generic Schema Matching with Cupid, Proceedings of the 27th International Conference on Very Large Data Bases, p.49-58, September 11-14, 2001
+Marche, S. 1993. Measuring the stability of data models. European J. Inform. Syst. 2, 1, 37--47.
+Renée J. Miller , Laura M. Haas , Mauricio A. Hernández, Schema Mapping as Query Discovery, Proceedings of the 26th International Conference on Very Large Data Bases, p.77-88, September 10-14, 2000
+C. Mohan , Hamid Pirahesh , Raymond Lorie, Efficient and flexible methods for transient versioning of records to avoid locking by read-only transactions, ACM SIGMOD Record, v.21 n.2, p.124-133, June 1, 1992
+Anisoara Nica , Amy J. Lee , Elke A. Rundensteiner, The CVS Algorithm for View Synchronization in Evolvable Large-Scale Information Systems, Proceedings of the 6th International Conference on Extending Database Technology: Advances in Database Technology, p.359-373, March 23-27, 1998
+Anisoara Nica , Elke A. Rundensteiner, View Maintenance after View Synchronization, Proceedings of the 1999 International Symposium on Database Engineering & Applications, p.215, August 02-04, 1999
+Dallan Quass , Ashish Gupta , Inderpal Singh Mumick , Jennifer Widom, Making views self-maintainable for data warehousing, Proceedings of the fourth international conference on on Parallel and distributed information systems, p.158-169, December 18-20, 1996, Miami Beach, Florida, USA
+Dallan Quass , Jennifer Widom, On-line warehouse view maintenance, ACM SIGMOD Record, v.26 n.2, p.393-404, June 1997
+Kenneth Salem , Kevin Beyer , Bruce Lindsay , Roberta Cochrane, How to roll a join: asynchronous incremental view maintenance, ACM SIGMOD Record, v.29 n.2, p.129-140, June 2000
+Sjoberg, D. 1993. Quantifying schema evolution. Inform. Softw. Tech. 35, 1, 35--54.
+Aparna S. Varde , Elke A. Rundensteiner, MEDWRAP: Consistent View Maintenance over Distributed Multi-relation Sources, Proceedings of the 13th International Conference on Database and Expert Systems Applications, p.341-350, September 02-06, 2002
+Yannis Velegrakis , Renée J. Miller , Lucian Popa, Mapping adaptation under evolving schemas, Proceedings of the 29th international conference on Very large data bases, p.584-595, September 09-12, 2003, Berlin, Germany
+Jennifer Widom, Research problems in data warehousing, Proceedings of the fourth international conference on Information and knowledge management, p.25-30, November 29-December 02, 1995, Baltimore, Maryland, USA[doi>10.1145/221270.221319]
+Carlo Zaniolo , Stefano Ceri , Christos Faloutsos , Richard Thomas Snodgrass , V. S. Subrahmanian , Roberto Zicari, Advanced database systems, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1997
+Xin Zhang , Lingli Ding , Elke A. Rundensteiner, Parallel multisource view maintenance, The VLDB Journal — The International Journal on Very Large Data Bases, v.13 n.1, p.22-48, January 2004[doi>10.1007/s00778-003-0086-0]
+Xin Zhang , Elke A. Rundensteiner, DyDa: Dynamic Data Warehouse Maintenance in a Fully Concurrent Environment, Proceedings of the Second International Conference on Data Warehousing and Knowledge Discovery, p.94-103, September 04-06, 2000
+Yue Zhuge , Héctor García-Molina , Joachim Hammer , Jennifer Widom, View maintenance in a warehousing environment, ACM SIGMOD Record, v.24 n.2, p.316-327, May 1995
+Yue Zhuge , Hector Garcia-Molina , Janet L. Wiener, The Strobe algorithms for multi-source warehouse consistency, Proceedings of the fourth international conference on on Parallel and distributed information systems, p.146-157, December 18-20, 1996, Miami Beach, Florida, USA

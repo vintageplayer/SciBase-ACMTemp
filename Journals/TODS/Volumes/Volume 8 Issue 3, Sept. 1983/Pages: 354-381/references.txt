@@ -1,0 +1,28 @@
+ATTAR, R., BERNSTEIN, P. A., AND GOODMAN, N. Site initialization, recovery, and back-up in a distributed database system. Tech. Rep. TR-13-81, Aiken Computation Lab., Harvard Univ., Cambridge, Mass., Aug. 1981.
+BADAL, D. Z., A~D POPEK, G.J. A proposal for distributed concurrency control for partially redundant distributed database systems. In Proc. 3rd. Berkeley Conf. Distributed Data Management and Computer Networks (Berkeley, Calif., Aug. 1978) Lawrence Berkeley Lab., Univ. of California, pp. 273-285.
+Philip A. Bernstein , Nathan Goodman, Concurrency Control in Distributed Database Systems, ACM Computing Surveys (CSUR), v.13 n.2, p.185-221, June 1981[doi>10.1145/356842.356846]
+Philip A. Bernstein , David W. Shipman , James B. Rothnie, Jr., Concurrency control in a system for distributed databases (SDD-1), ACM Transactions on Database Systems (TODS), v.5 n.1, p.18-51, March 1980[doi>10.1145/320128.320131]
+BERNSTEIN, P. A., SHIPMAN, D. W., AND WONG W. S. Formal aspects of serializability in database concurrency control. IEEE Trans. Softw. Eng. SE-5, 3 (May 1979), 203-216.
+EAGER, D. L. Robust concurrency control in distributed databases. M.Sc. thesis, Tech. Rep. CSRG 135, Computer Systems Research Group, Univ. of Toronto, Toronto, Ont., Oct. 198I.
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+Bruce Irving Galler, Concurrency control performance issues, 1982
+GARCIA-MOLINA, S. Performance comparison of two update algorithms for distributed databases, in Proc. 3rd. Berkeley Conf. Distributed Data Management and Computer Networks, (Berkeley, Calif., Aug. 1978) Lawrence Berkeley Lab., Univ. of California, pp. 108-119.
+GARCIA-MOLINA, H. A concurrency control mechanism for distributed databases which uses centralized locking controllers. In Proc. 4th Berkeley Conf. Distributed Data Management and Computer Networks, (Berkeley, Calif., Aug. 1979) Lawrence Berkeley Lab., Univ. of California, pp. 113-125.
+GELENBE, E., AND SEVCIK, K. Analysis of update synchronization for multiple copy databases. IEEE Trans. Comput. C-28, 10 (Oct. 1979), 737-747.
+David K. Gifford, Weighted voting for replicated data, Proceedings of the seventh ACM symposium on Operating systems principles, p.150-162, December 10-12, 1979, Pacific Grove, California, USA[doi>10.1145/800215.806583]
+GRAY, J. Notes on database operating systems. Tech. Rep. RJ2188, IBM, New York, Feb. 1978.
+Micael Hammer , David Shipman, Reliability mechanisms for SDD-1: a system for distributed databases, ACM Transactions on Database Systems (TODS), v.5 n.4, p.431-466, Dec.  1980[doi>10.1145/320610.320621]
+HsIAO, D. K., AND OZSU, T.M. A survey of concurrency control mechanisms for centralized and distributed databases. Tech. Rep. CISRC-81-1, Ohio State Univ., Columbus, Ohio, Feb. 1981.
+H. T. Kung , C. H. Papadimitriou, An optimality theory of concurrency control for databases, Proceedings of the 1979 ACM SIGMOD international conference on Management of data, May 30-June 01, 1979, Boston, Massachusetts[doi>10.1145/582095.582114]
+LAMPSON, B. W., AND STURGIS, H.E. Crash recovery in a distributed data storage system. Xerox PARC Report, Xerox Palo Alto Research Center, Palo Alto, Calif., April 1979.
+Wen-Te K. Lin, Performance evaluation of two concurrency control mechanisms in a distributed database system, Proceedings of the 1981 ACM SIGMOD international conference on Management of data, April 29-May 01, 1981, Ann Arbor, Michigan[doi>10.1145/582318.582331]
+Daniel A. Menasce , Gerald J. Popek , Richard R. Muntz, A locking protocol for resource coordination in distributed databases, ACM Transactions on Database Systems (TODS), v.5 n.2, p.103-138, June 1980[doi>10.1145/320141.320143]
+W. A. Montgomery, ROBUST CONCURRENCY CONTROL FOR A DISTRIBUTED INFORMATION SYSTEM, Massachusetts Institute of Technology, Cambridge, MA, 1979
+RIES, D. The effect of concurrency control on the performance of a distributed data management system. In Proc. 4th Berkeley Conf. Distributed Data Management and Computer Networks, (Berkeley, Calif., Aug. 1979) Lawrence Berkeley Lab., Univ. of California, pp. 221-234.
+Daniel J. Rosenkrantz , Richard E. Stearns , Philip M. Lewis, II, System level concurrency control for distributed database systems, ACM Transactions on Database Systems (TODS), v.3 n.2, p.178-198, June 1978[doi>10.1145/320251.320260]
+Dale Skeen, Nonblocking commit protocols, Proceedings of the 1981 ACM SIGMOD international conference on Management of data, April 29-May 01, 1981, Ann Arbor, Michigan[doi>10.1145/582318.582339]
+Dale Skeen, A Quorum-Based Commit Protocol, Cornell University, Ithaca, NY, 1982
+Richard E. Stearns , Daniel J. Rosenkrantz, Distributed database concurrency controls using before-values, Proceedings of the 1981 ACM SIGMOD international conference on Management of data, April 29-May 01, 1981, Ann Arbor, Michigan[doi>10.1145/582318.582330]
+STONEBRAKER, M. Concurrency control and consistency of multiple copies of data in distributed INGRES. IEEE Trans. Softw. Eng. SE-5, 3 (May 1979), 188-194.
+M. J. Stucki , J. R. Cox, Jr. , G. C. Roman , P. N. Turcu, Coordinating concurrent access in a distributed database architecture, Proceedings of the fourth workshop on Computer architecture for non-numeric processing, p.60-64, August 01-04, 1978, Blue Mountain Lake, New York, USA[doi>10.1145/800128.804168]
+Robert H. Thomas, A Majority consensus approach to concurrency control for multiple copy databases, ACM Transactions on Database Systems (TODS), v.4 n.2, p.180-209, June 1979[doi>10.1145/320071.320076]

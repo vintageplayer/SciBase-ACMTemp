@@ -1,0 +1,43 @@
+Alfred V. Aho , John E. Hopcroft, The  Design and Analysis of Computer Algorithms, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1974
+J. E. Allchin , M. S. McKendry, Synchronization and recovery of actions, Proceedings of the second annual ACM symposium on Principles of distributed computing, p.31-44, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806708]
+C. Beeri , P. A. Bernstein , N. Goodman , M. Y. Lai , D. E. Shasha, A concurrency control theory for nested transactions (Preliminary Report), Proceedings of the second annual ACM symposium on Principles of distributed computing, p.45-62, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806709]
+Jon Louis Bentley , Jerome H. Friedman, Data Structures for Range Searching, ACM Computing Surveys (CSUR), v.11 n.4, p.397-409, Dec. 1979[doi>10.1145/356789.356797]
+Philip A. Bernstein , Nathan Goodman, Concurrency Control in Distributed Database Systems, ACM Computing Surveys (CSUR), v.13 n.2, p.185-221, June 1981[doi>10.1145/356842.356846]
+BERNSTEIN, P. A., GOODMAN, N., AND LAI, M. Y. A two-part proof schema for database concurrency control. In Proceedings o{ 1981 Berkeley Workshop on Distributed Databases and Computer Networks {Berkeley, Calif., Mar. 1981). IEEE, New York, 1981, 42-53.
+BAYER, R., AND SCHKOLNICK, M. Concurrency of operations on B-trees. Acta In{. 9 {1977), 1-21.
+Marco Antonio Casanova, Concurrency Control Problem for Database Systems, Springer-Verlag New York, Inc., Secaucus, NJ, 1981
+Douglas Comer, Ubiquitous B-Tree, ACM Computing Surveys (CSUR), v.11 n.2, p.121-137, June 1979[doi>10.1145/356770.356776]
+ELLIS, C.S. Concurrent search and inserts in 2-3 trees. Acta Lnf. ~4, I (~su), ~-~.
+ELLIS, C.S. Extendible hashing for concurrent operations and distributed data. ACM SIGMOD, 1982, 106-115.
+Carla Schlatter Ellis, Concurrency and linear hashing, Proceedings of the fourth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.1-7, March 25-27, 1985, Portland, Oregon, USA[doi>10.1145/325405.325406]
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+Ray Ford , Jim Calhoun, Concurrency control mechanisms and the serializability of concurrent tree algorithms, Proceedings of the 3rd ACM SIGACT-SIGMOD symposium on Principles of database systems, April 02-04, 1984, Waterloo, Ontario, Canada[doi>10.1145/588011.588020]
+Hector Garcia-Molina, Using semantic knowledge for transaction processing in a distributed database, ACM Transactions on Database Systems (TODS), v.8 n.2, p.186-213, June 1983[doi>10.1145/319983.319985]
+GOODMAN, J. R., AND SEQUIN, C.H. HYPERTREE: a multiprocessor interconnection topology. IEEE Trans. Comput. 30, 12 (1981), 981-993.
+Nathan Goodman , Dennis Shasha, Semantically-based concurrancy control for search structures, Proceedings of the fourth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.8-19, March 25-27, 1985, Portland, Oregon, USA[doi>10.1145/325405.325407]
+GOTTLIEB, A., GRISHMAN, R., KRUSKAL, C. K., MCAULIFFE, K. P., RUDOLPH, L. AND SNIR, M. The NYU Ultracomputer-desining a MIMD, shared-emmory parallel computer. IEEE Trans. Comput. C-32 (1983), 175-189.
+GUIBAS, L. J., AND SEDGEWICK, R. A dichromatic framework for balanced trees. In Proceedings o{ 19th Annual Symposium o{ Foundations of Computer Science (Ann Arbor, Mich., Oct. 1978}. IEEE, New York, 1978, 8-21.
+HOLT, R.C. Concurrent Euclid, The Unix System, and Tunis. Addison-Wesley, Reading, Mass., 1983.
+H. T. Kung , Philip L. Lehman, Concurrent manipulation of binary search trees, ACM Transactions on Database Systems (TODS), v.5 n.3, p.354-382, Sept. 1980[doi>10.1145/320613.320619]
+KUNG, H. T., AND PAPADIMITR{OU, C. H. An optimality theory of concurrency control for databases. Acta ~nl. 1~, t (t~s~), t-tt.
+Zvi M. Kedem , Abraham Silberschatz, Locking Protocols: From Exclusive to Shared Locks, Journal of the ACM (JACM), v.30 n.4, p.787-804, Oct. 1983[doi>10.1145/2157.322406]
+KWONG, Y.S., AND WOOD, d> Method for concurrency in B-trees. IEEE Trans. Softw. Enf. SE-8, 3 (1982), 211-223.
+LAN~N, V., AND SHASHA, D. A symmetric concurrent B tree algorithm. Computer Science Dept., New York University Tech. Rep. 210, April 1986.
+Philip L. Lehman , s. Bing Yao, Efficient locking for concurrent operations on B-trees, ACM Transactions on Database Systems (TODS), v.6 n.4, p.650-670, Dec. 1981[doi>10.1145/319628.319663]
+Barbara Liskov , Robert Scheifler, Guardians and actions: linguistic support for robust, distributed programs, Proceedings of the 9th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.7-19, January 25-27, 1982, Albuquerque, New Mexico[doi>10.1145/582153.582155]
+David B. Lomet, Bounded index exponential hashing, ACM Transactions on Database Systems (TODS), v.8 n.1, p.136-165, March 1983[doi>10.1145/319830.319837]
+Udi Manber , Richard E. Ladner, Concurrency control in a dynamic search structure, Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database systems, March 29-31, 1982, Los Angeles, California[doi>10.1145/588111.588156]
+MILLER, R. E., AND SNYDER, L. Multiple access to B-trees (preliminary version). In Proceedings of the 1978 Conference on Information Sciences and Systems (Johns Hopkins Univ., Baltimore, Md., 1978), Johns Hopkins Univ., Baltimore, Md., 1978, 30-38.
+MOND, Y., AND RAZ, Y. Concurrency control in B+ trees using preparatory operations. In 11th International Conference on Very Large Data Bases (Stockholm, Aug. 1985), 331-334.
+Christos H. Papadimitriou, The serializability of concurrent database updates, Journal of the ACM (JACM), v.26 n.4, p.631-653, Oct. 1979[doi>10.1145/322154.322158]
+PFISTER, G. F., BRANTLEY, W. C., GEORGE, D. A., HARVEY, S. L., KLEINFELDER, W. J., MCAULIFFE, K. P., MELTON, E. A., NORTON, V. A., AND WEISS, J. The IBM Research Parallel Processor Prototype (RP3): introduction and architecture. In Proceedings of IEEE 1985 Conference on Parallel Processing. IEEE, New York, 1985, 764-771.
+Yehoshua Sagiv, Concurrent operations on B-trees with overtaking, Proceedings of the fourth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.28-37, March 25-27, 1985, Portland, Oregon, USA[doi>10.1145/325405.325409]
+SAMADI, B. B-trees in a system with multiple users. Inf. Process. Lett. 5 (Oct. 1976), 107-112.
+Gunter Schlageter, Process synchronization in database systems, ACM Transactions on Database Systems (TODS), v.3 n.3, p.248-271, Sept. 1978[doi>10.1145/320263.320279]
+SCHWARZ, P., AND SPECTOR, A. Synchronizing shared abstract data types. Tech. Rep. CMU- CS-82-128, Computer Science Dept., Carnegie-Mellon University, Sept. 1982.
+Dennis Elliott Shasha, Concurrent algorithms for search structures (parallel, database), Harvard University, Cambridge, MA, 1984
+SHASHA, D. What good are concurrent search structure algorithms for databases anyway? Database Eng. 8, 2 (June 1985), 84-90.
+Alexander Tuzhilin , Paul G. Spirakis, A semantic approach to correctness of concurrent transaction executions, Proceedings of the fourth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.85-95, March 25-27, 1985, Portland, Oregon, USA[doi>10.1145/325405.325416]
+William E. Weihl, Data-dependent concurrency control and recovery (Extended Abstract), Proceedings of the second annual ACM symposium on Principles of distributed computing, p.63-75, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806710]
+WEmL, W.E. Specification and implementation of atomic data types, Ph.D. thesis, MIT/LCS/ TR-314, MIT, 1984.
+Gerhard Weikum, A theoretical foundation of multi-level concurrency control, Proceedings of the fifth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.31-43, March 24-26, 1986, Cambridge, Massachusetts, USA[doi>10.1145/6012.15401]

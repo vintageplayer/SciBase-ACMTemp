@@ -1,0 +1,66 @@
+Martin Reiman , Paul E. Wright, Performance analysis of concurrent-read exclusive-write, ACM SIGMETRICS Performance Evaluation Review, v.19 n.1, p.168-177, May 1991
+Shan-hoi Ng , Sheung-lun Hung, Multigranularity locking in multiple job classes transaction processing system, ACM SIGMOD Record, v.24 n.1, p.27-32, March 1995
+B. -C. Jenq , B. C. Twichell , T. W. Keller, Locking Performance in a Shared Nothing Parallel Database Machine, IEEE Transactions on Knowledge and Data Engineering, v.1 n.4, p.530-543, December 1989
+Abbas Asadi-Arbabi , Sayed A. Banawan, On the performance of the immediate restart concurrency control policy, Proceedings of the 23rd conference on Winter simulation, p.669-676, December 08-11, 1991, Phoenix, Arizona, United States
+Zakil Koo , Songchun Moon, Effects of broadcast errors on concurrency control in wireless broadcasting environments, Information Processing Letters, v.86 n.1, p.13-21, 15 April 2003
+Theodore Johnson, Approximate analysis of reader and writer access to a shared resource, ACM SIGMETRICS Performance Evaluation Review, v.18 n.1, p.106-114, May 1990
+Peng Liu , Jie Li , Sushil Jajodia , Paul Ammann, Can-Follow Concurrency Control, IEEE Transactions on Computers, v.56 n.10, p.1425-1430, October 2007
+Hans-Ulrich Heiss , Roger Wagner, Adaptive Load Control in Transaction Processing Systems, Proceedings of the 17th International Conference on Very Large Data Bases, p.47-54, September 03-06, 1991
+Asit Dan , Daniel M. Dias , Philip S. Yu, The Effect of Skewed Data Access on Buffer Hits and Data Contention an a Data Sharing Environment, Proceedings of the 16th International Conference on Very Large Data Bases, p.419-431, August 13-16, 1990
+R. Sun , G. Thomas, Performance results on multiversion timestamp concurrency control with predeclared writesets, Proceedings of the sixth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.177-184, March 23-25, 1987, San Diego, California, USA
+Yong Jiang , Jie Li , Shoichi Nishimura, A General Stochastic Model for Dynamic Locking in Database Systems, IEEE Transactions on Computers, v.53 n.3, p.308-319, March 2004
+Carl S. Hartzman, The Delay Due to Dynamic Two-Phase Locking, IEEE Transactions on Software Engineering, v.15 n.1, p.72-82, January 1989
+Rashmi Srinivasa , Craig Williams , Paul F. Reynolds, Jr., A New Look at Timestamp Ordering Concurrency Control, Proceedings of the 12th International Conference on Database and Expert Systems Applications, p.943-952, September 03-05, 2001, Munich, Germany
+Samuel Kounev , Alejandro Buchmann, Improving data access of J2EE applications by exploiting asynchronous messaging and caching services, Proceedings of the 28th international conference on Very Large Data Bases, p.574-585, August 20-23, 2002, Hong Kong, China
+Shalab Goel , Bharat K. Bhargava , Sanjay Kumar Madria, An Adaptable Constrained Locking Protocol for High Data Contention Environments, Proceedings of the Sixth International Conference on Database Systems for Advanced Applications, p.321-328, April 19-21, 1999
+In Kyung Ryu , Alexander Thomasian, Performance analysis of dynamic locking, Proceedings of 1986 ACM Fall joint computer conference, p.698-708, November 1986, Dallas, Texas, USA
+In Kyung Ryu , Alexander Thomasian, Performance Analysis of Dynamic Locking with the No-Waiting Policy, IEEE Transactions on Software Engineering, v.16 n.7, p.684-698, July 1990
+P. A. Franaszek , J. R. Haritsa , J. T. Robinson , A. Thomasian, Distributed Concurrency Control Based on Limited Wait-Depth, IEEE Transactions on Parallel and Distributed Systems, v.4 n.11, p.1246-1264, November 1993
+Alexander Thomasian , In Kyung Ryu, Performance Analysis of Two-Phase Locking, IEEE Transactions on Software Engineering, v.17 n.5, p.386-402, May 1991
+Jie Li , Jiahong Wang , Hisao Kameda, Performance Studies of Shared-Nothing Parallel Transaction Processing Systems, Proceedings of the 5th International Conference on Parallel Computing Technologies, p.235-247, September 06-10, 1999
+Meichun Hsu , Bin Zhang, Performance evaluation of cautious waiting, ACM Transactions on Database Systems (TODS), v.17 n.3, p.477-512, Sept. 1992
+M. Singhal, Analysis of the Probability of Transaction Abort and Throughput of Two Timestamp Ordering Algorithms for Database Systems, IEEE Transactions on Knowledge and Data Engineering, v.3 n.2, p.261-266, June 1991
+Michael J. Carey , Sanjay Krishnamurthi , Miron Livny, Load control for locking: the “half-and-half” approach, Proceedings of the ninth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.72-84, April 02-04, 1990, Nashville, Tennessee, United States
+Alexander Thomasian, Performance analysis of locking policies with limited wait depth, ACM SIGMETRICS Performance Evaluation Review, v.20 n.1, p.115-127, June 1992
+Duane Buck , Mukesh Singhal, An Analytic Study of Caching in Computer Systems, Journal of Parallel and Distributed Computing, v.32 n.2, p.205-214, Feb. 1, 1996
+Michael J. Carey , Michael J. Franklin , Markos Zaharioudakis, Fine-grained sharing in a page server OODBMS, ACM SIGMOD Record, v.23 n.2, p.359-370, June 1994
+Alexander Thomasian, Checkpointing for Optimistic Concurrency Control Methods, IEEE Transactions on Knowledge and Data Engineering, v.7 n.2, p.332-339, April 1995
+Y. C. Tay , K. C. Chua, A capacity analysis for the IEEE 802.11 MAC protocol, Wireless Networks, v.7 n.2, p.159-171, March/April 2001
+In Kyung Ryu , Alexander Thomasian, Analysis of database performance with dynamic locking, Journal of the ACM (JACM), v.37 n.3, p.491-523, July 1990
+Markos Zaharioudakis , Michael J. Carey, Hierarchical, Adaptive Cache Consistency in a Page Server OODBMS, IEEE Transactions on Computers, v.47 n.4, p.427-444, April 1998
+Paul M. Bober , Michael J. Carey, Multiversion Query Locking, Proceedings of the 18th International Conference on Very Large Data Bases, p.497-510, August 23-27, 1992
+Theodore Johnson, Approximate Analysis of Reader/Writer Queues, IEEE Transactions on Software Engineering, v.21 n.3, p.209-218, March 1995
+P. S. Yu , H. -U. Heiss , D. M. Dias, Modeling and Analysis of a Time-Stamp History Based Certification Protocol for Concurrency Control, IEEE Transactions on Knowledge and Data Engineering, v.3 n.4, p.525-537, December 1991
+Alexander Thomasian, A Performance Comparison of Locking Methods with Limited Wait Depth, IEEE Transactions on Knowledge and Data Engineering, v.9 n.3, p.421-434, May 1997
+B. R. Badrinath , Krithi Ramamritham, Performance evaluation of semantics-based multilevel concurrency control protocols, ACM SIGMOD Record, v.19 n.2, p.163-172, Jun. 1990
+Axel Mönkeberg , Gerhard Weikum, Performance Evaluation of an Adaptive and Robust Load Control Method for the Avoidance of Data-Contention Thrashing, Proceedings of the 18th International Conference on Very Large Data Bases, p.432-443, August 23-27, 1992
+Theodore Johnson , Dennis Shasha, A framework for the performance analysis of concurrent B-tree algorithms, Proceedings of the ninth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.273-287, April 02-04, 1990, Nashville, Tennessee, USA
+B. Ciciani , D. M. Dias , P. S. Yu, Analysis of Replication in Distributed Database Systems, IEEE Transactions on Knowledge and Data Engineering, v.2 n.2, p.247-261, June 1990
+Vigyan Singhal , Alan Jay Smith, Analysis of locking behavior in three real database systems, The VLDB Journal — The International Journal on Very Large Data Bases, v.6 n.1, p.40-52, February 1997
+B. R. Badrinath , Krithi Ramamritham, Semantics-based concurrency control: beyond commutativity, ACM Transactions on Database Systems (TODS), v.17 n.1, p.163-199, March 1992
+Philip S. Yu , Daniel M. Dias, Analysis of Hybrid Concurrency Control Schemes for a High Data Contention Environment, IEEE Transactions on Software Engineering, v.18 n.2, p.118-129, February 1992
+Diego Didona , Paolo Romano , Sebastiano Peluso , Francesco Quaglia, Transactional auto scaler: elastic scaling of in-memory transactional data grids, Proceedings of the 9th international conference on Autonomic computing, September 18-20, 2012, San Jose, California, USA
+Sharma Chakravarthy , Dong-Kweon Hong , Theodore Johnson, Real-Time Transaction Scheduling: A Framework for SynthesizingStatic and Dynamic Factors, Real-Time Systems, v.14 n.2, p.135-170, March 1, 1998
+Bao-Chyuan Jenq , Walter H. Kohler , Don Towsley, A Queueing Network Model for a Distributed Database Testbed System, IEEE Transactions on Software Engineering, v.14 n.7, p.908-921, July 1988
+D. Agrawal , A. El Abbadi , R. Jeffers, An approach to eliminate transaction blocking in locking protocols, Proceedings of the eleventh ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.223-235, June 02-05, 1992, San Diego, California, United States
+Markos Zaharioudakis , Michael J. Carey , Michael J. Franklin, Adaptive, fine-grained sharing in a client-server OODBMS: a callback-based approach, ACM Transactions on Database Systems (TODS), v.22 n.4, p.570-627, Dec. 1997
+M. J. Carey , R. Jauhari , M. Livny, On Transaction Boundaries in Active Databases: A Performance Perspective, IEEE Transactions on Knowledge and Data Engineering, v.3 n.3, p.320-336, September 1991
+Alexander Thomasian, Two-phase locking performance and its thrashing behavior, ACM Transactions on Database Systems (TODS), v.18 n.4, p.579-625, Dec. 1993
+A. Dan , P. S. Yu, Performance Analysis of Buffer Coherency Policies in a Multisystem Data Sharing Environment, IEEE Transactions on Parallel and Distributed Systems, v.4 n.3, p.289-305, March 1993
+Kam-Yiu Lam , Sheung-Lun Hung , Sang H. Son, On Using Real-Time Static Locking Protocols for DistributedReal-Time Databases, Real-Time Systems, v.13 n.2, p.141-166, Sept. 1997
+Philip S. Yu , Daniel M. Dias , Stephen S. Lavenberg, On the analytical modeling of database concurrency control, Journal of the ACM (JACM), v.40 n.4, p.831-872, Sept. 1993
+Diego Didona , Paolo Romano , Sebastiano Peluso , Francesco Quaglia, Transactional Auto Scaler: Elastic Scaling of Replicated In-Memory Transactional Data Grids, ACM Transactions on Autonomous and Adaptive Systems (TAAS), v.9 n.2, p.1-32, July 2014
+Alexander Thomasian, Distributed Optimistic Concurrency Control Methods for High-Performance Transaction Processing, IEEE Transactions on Knowledge and Data Engineering, v.10 n.1, p.173-189, January 1998
+P. S. Yu , D. M. Dias, Performance Analysis of Concurrency Control Using Locking with Deferred Blocking, IEEE Transactions on Software Engineering, v.19 n.10, p.982-996, October 1993
+Sameh Elnikety , Erich Nahum , John Tracey , Willy Zwaenepoel, A method for transparent admission control and request scheduling in e-commerce web sites, Proceedings of the 13th international conference on World Wide Web, May 17-20, 2004, New York, NY, USA
+John A. Miller , Nancy D. Griffeth, Performance modeling of database and simulation protocols: design choices for query driven simulation, Proceedings of the 24th annual symposium on Simulation, p.205-216, April 1991, New Orleans, Louisiana, United States
+Gerhard Weikum , Axel Moenkeberg , Christof Hasse , Peter Zabback, Self-tuning database technology and information services: from wishful thinking to viable engineering, Proceedings of the 28th international conference on Very Large Data Bases, p.20-31, August 20-23, 2002, Hong Kong, China
+Prithwish Kangsabanik , D. S. Yadav , R. Mall , A. K. Majumdar, Performance analysis of long-lived cooperative transactions in active DBMS, Data & Knowledge Engineering, v.62 n.3, p.547-577, September, 2007
+Theodore Johnson , Dennis Sasha, The performance of current B-tree algorithms, ACM Transactions on Database Systems (TODS), v.18 n.1, p.51-101, March 1993
+Rakesh Agrawal , Michael J. Carey , Miron Livny, Concurrency control performance modeling: alternatives and implications, ACM Transactions on Database Systems (TODS), v.12 n.4, p.609-654, Dec. 1987
+Theodore Johnson, Characterizing the Performance of Algorithms for Lock-Free Objects, IEEE Transactions on Computers, v.44 n.10, p.1194-1207, October 1995
+Alexander Thomasian, Performance Analysis of Concurrency Control Methods, Performance Evaluation: Origins and Directions, p.329-354, January 01, 2000
+Matthias Nicola , Matthias Jarke, Performance Modeling of Distributed and Replicated Databases, IEEE Transactions on Knowledge and Data Engineering, v.12 n.4, p.645-672, July 2000
+Alexander Thomasian, Concurrency control: methods, performance, and analysis, ACM Computing Surveys (CSUR), v.30 n.1, p.70-119, March 1998
+Udai Shanker , Manoj Misra , Anil K. Sarje, Distributed real time database systems: background and literature review, Distributed and Parallel Databases, v.23 n.2, p.127-149, April     2008
+Gerhard Weikum , Gottfried Vossen, Transactional Information Systems: Theory, Algorithms, and the Practice of Concurrency Control and Recovery, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2001

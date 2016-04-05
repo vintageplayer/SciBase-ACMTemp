@@ -1,0 +1,22 @@
+Generalized Isolation Level Definitions, Proceedings of the 16th International Conference on Data Engineering, p.67, February 28-March 03, 2000
+Todd Anderson , Yuri Breitbart , Henry F. Korth , Avishai Wool, Replication, consistency, and practicality: are these mutually exclusive?, Proceedings of the 1998 ACM SIGMOD international conference on Management of data, p.484-495, June 01-04, 1998, Seattle, Washington, USA[doi>10.1145/276304.276347]
+Hal Berenson , Phil Bernstein , Jim Gray , Jim Melton , Elizabeth O'Neil , Patrick O'Neil, A critique of ANSI SQL isolation levels, Proceedings of the 1995 ACM SIGMOD international conference on Management of data, p.1-10, May 22-25, 1995, San Jose, California, USA[doi>10.1145/223784.223785]
+Berge, C. 1976. Graphs and Hypergraphs (2nd edition). North-Holland Mathematical Library, Volume 6.
+Philip A. Bernstein , Vassco Hadzilacos , Nathan Goodman, Concurrency control and recovery in database systems, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1987
+Semantic Conditions for Correctness at Different Isolation Levels, Proceedings of the 16th International Conference on Data Engineering, p.57, February 28-March 03, 2000
+Yuri Breitbart , Raghavan Komondoor , Rajeev Rastogi , S. Seshadri , Avi Silberschatz, Update propagation protocols for replicated databates, Proceedings of the 1999 ACM SIGMOD international conference on Management of data, p.97-108, May 31-June 03, 1999, Philadelphia, Pennsylvania, USA[doi>10.1145/304182.304191]
+Donald D. Chamberlin , Morton M. Astrahan , Michael W. Blasgen , James N. Gray , W. Frank King , Bruce G. Lindsay , Raymond Lorie , James W. Mehl , Thomas G. Price , Franco Putzolu , Patricia Griffiths Selinger , Mario Schkolnick , Donald R. Slutz , Irving L. Traiger , Bradford W. Wade , Robert A. Yost, A history and evaluation of System R, Communications of the ACM, v.24 n.10, p.632-646, Oct. 1981[doi>10.1145/358769.358784]
+Elnikety, S., Pedone, F., and Zwaenepoel, W. 2004. Generalized snapshot isolation and a prefix-consistent implementation. Tech. Rep. IC/2004/21, EPFL, Mar.
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+Fekete, A. 1999. Serializability and snapshot isolation. In Proceedings of the Australian Database Conference (Auckland, New Zealand, Jan.). 201--210.
+Alan Fekete , Elizabeth O'Neil , Patrick O'Neil, A read-only transaction anomaly under snapshot isolation, ACM SIGMOD Record, v.33 n.3, September 2004[doi>10.1145/1031570.1031573]
+Gray, J. (Ed.). 1993. The Benchmark Handbook (2nd edition). Morgan-Kaufmann, San Francisco, Calif.
+Jim Gray , Andreas Reuter, Transaction Processing: Concepts and Techniques, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1992
+Jim Gray , Pat Helland , Patrick O'Neil , Dennis Shasha, The dangers of replication and a solution, Proceedings of the 1996 ACM SIGMOD international conference on Management of data, p.173-182, June 04-06, 1996, Montreal, Quebec, Canada[doi>10.1145/233269.233330]
+Jacobs, K., Bamford, R., Doherty, G., Haas, K., Holt, M., Putzolu, F., and Quigley, B. 1995. Concurrency Control: Transaction Isolation and Serializability in SQL92 and Oracle7. Oracle White Paper, Part No. A33745 (July).
+Dimitrios Liarokapis , Elizabeth O'Neil, Testing isolation levels of relational database management systems, University of Massachusetts Boston, 2001
+Christos Papadimitriou, The theory of database concurrency control, Computer Science Press, Inc., New York, NY, 1986
+Dennis Shasha , Philippe Bonnet, Database tuning: principles, experiments, and troubleshooting techniques, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2002
+Dennis Shasha , Francois Llirbat , Eric Simon , Patrick Valduriez, Transaction chopping: algorithms and performance studies, ACM Transactions on Database Systems (TODS), v.20 n.3, p.325-363, Sept. 1995[doi>10.1145/211414.211427]
+Ralf Schenkel , Gerhard Weikum, Integrating Snapshot Isolation into Transactional Federation, Proceedings of the 7th International Conference on Cooperative Information Systems, p.90-101, September 06-08, 2000
+TPC-C Benchmark Specification, available at http://www.tpc.org/tpcc/.

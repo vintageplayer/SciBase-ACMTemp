@@ -1,0 +1,31 @@
+Rudolf Bayer, The Universal B-Tree for Multidimensional Indexing: general Concepts, Proceedings of the International Conference on Worldwide Computing and Its Applications, p.198-209, March 10-11, 1997
+Bayer, B. and McCreight, E. M. 1972. Organization and maintenance of large ordered indices. Acta Inform. 1, 173--189.
+Bayer, R. and Schkolnick, M. 1977. Concurrency of operations on B-trees. Acta Inform. 9, 1--21.
+Rudolf Bayer , Karl Unterauer, PrefixB-trees, ACM Transactions on Database Systems (TODS), v.2 n.1, p.11-26, March 1977[doi>10.1145/320521.320530]
+Philip A. Bernstein , Vassco Hadzilacos , Nathan Goodman, Concurrency control and recovery in database systems, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1987
+Douglas Comer, Ubiquitous B-Tree, ACM Computing Surveys (CSUR), v.11 n.2, p.121-137, June 1979[doi>10.1145/356770.356776]
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+Gawlick, D. and Kinkade, D. 1985. Varieties of concurrency control in IMS/VS fast path. IEEE Datab. Engin. Bull. 8, 2, 3--10.
+Graefe, G. 2007. Hierarchical locking in B-tree indexes. In Proceedings of the BTW Conference. 18--42.
+Goetz Graefe , Michael Zwilling, Transaction support for indexed summary views, Proceedings of the 2004 ACM SIGMOD international conference on Management of data, June 13-18, 2004, Paris, France[doi>10.1145/1007568.1007606]
+Jim Gray , Andreas Reuter, Transaction Processing: Concepts and Techniques, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1992
+Ibrahim Jaluta , Seppo Sippu , Eljas Soisalon-Soininen, Concurrency control and recovery for balanced B-link trees, The VLDB Journal — The International Journal on Very Large Data Bases, v.14 n.2, p.257-277, April 2005[doi>10.1007/s00778-004-0140-6]
+J. R. Jordan , J. Banerjee , R. B. Batman, Precision locks, Proceedings of the 1981 ACM SIGMOD international conference on Management of data, April 29-May 01, 1981, Ann Arbor, Michigan[doi>10.1145/582318.582340]
+Henry F. Korth, Locking Primitives in a Database System, Journal of the ACM (JACM), v.30 n.1, p.55-79, Jan. 1983[doi>10.1145/322358.322363]
+H. T. Kung , John T. Robinson, On optimistic methods for concurrency control, ACM Transactions on Database Systems (TODS), v.6 n.2, p.213-226, June 1981[doi>10.1145/319566.319567]
+Jim Larus , Ravi Rajwar, Transactional Memory (Synthesis Lectures on Computer Architecture), Morgan & Claypool Publishers, 2007
+Philip L. Lehman , s. Bing Yao, Efficient locking for concurrent operations on B-trees, ACM Transactions on Database Systems (TODS), v.6 n.4, p.650-670, Dec. 1981[doi>10.1145/319628.319663]
+David B. Lomet, Key Range Locking Strategies for Improved Concurrency, Proceedings of the 19th International Conference on Very Large Data Bases, p.655-664, August 24-27, 1993
+David Lomet, Simple, Robust and Highly Concurrent B-trees with Node Deletion, Proceedings of the 20th International Conference on Data Engineering, p.18, March 30-April 02, 2004
+Gang Luo , Jeffrey F. Naughton , Curt J. Ellmann , Michael W. Watzke, Locking Protocols for Materialized Aggregate Join Views, IEEE Transactions on Knowledge and Data Engineering, v.17 n.6, p.796-807, June 2005[doi>10.1109/TKDE.2005.96]
+C. Mohan, ARIES/KVL: a key-value locking method for concurrency control of multiaction transactions operating on B-tree indexes, Proceedings of the sixteenth international conference on Very large databases, p.392-405, September 1990, Brisbane, Australia
+C. Mohan , Frank Levine, ARIES/IM: an efficient and high concurrency index management method using write-ahead logging, Proceedings of the 1992 ACM SIGMOD international conference on Management of data, p.371-380, June 02-05, 1992, San Diego, California, USA[doi>10.1145/130283.130338]
+Moss, J. E. B. 2006. Open nested transactions: Semantics and support. In Proceedings of the Workshop on Memory Performance Issues (WMPI'06).
+Yang Ni , Vijay S. Menon , Ali-Reza Adl-Tabatabai , Antony L. Hosking , Richard L. Hudson , J. Eliot B. Moss , Bratin Saha , Tatiana Shpeisman, Open nesting in software transactional memory, Proceedings of the 12th ACM SIGPLAN symposium on Principles and practice of parallel programming, March 14-17, 2007, San Jose, California, USA[doi>10.1145/1229428.1229442]
+Patrick E. O'Neil, The Escrow transactional method, ACM Transactions on Database Systems (TODS), v.11 n.4, p.405-430, Dec. 1986[doi>10.1145/7239.7265]
+Frank Ramsak , Volker Markl , Robert Fenk , Martin Zirkel , Klaus Elhardt , Rudolf Bayer, Integrating the UB-Tree into a Database System Kernel, Proceedings of the 26th International Conference on Very Large Data Bases, p.263-272, September 10-14, 2000
+V. Srinivasan , Michael J. Carey, Performance of B-tree concurrency control algorithms, Proceedings of the 1991 ACM SIGMOD international conference on Management of data, p.416-425, May 29-31, 1991, Denver, Colorado, USA[doi>10.1145/115790.115860]
+Gerhard Weikum, Principles and realization strategies of multilevel transaction management, ACM Transactions on Database Systems (TODS), v.16 n.1, p.132-180, March 1991[doi>10.1145/103140.103145]
+Gerhard Weikum , Hans-J. Schek, Concepts and applications of multilevel transactions and open nested transactions, Database transaction models for advanced applications, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1992
+Gerhard Weikum , Gottfried Vossen, Transactional information systems: theory, algorithms, and the practice of concurrency control and recovery, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2001
+Chendong Zou , Betty Salzberg, On-line reorganization of sparsely-populated B+-trees, Proceedings of the 1996 ACM SIGMOD international conference on Management of data, p.115-124, June 04-06, 1996, Montreal, Quebec, Canada[doi>10.1145/233269.233325]

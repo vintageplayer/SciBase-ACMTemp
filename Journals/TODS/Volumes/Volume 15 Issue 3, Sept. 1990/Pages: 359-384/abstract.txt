@@ -1,0 +1,12 @@
+Currently, a variety of information retrieval systems are available
+to potential users.… While in many cases these systems are
+accessed from personal computers, typically no advantage is taken of the
+computing resources of those machines (such as local processing and
+storage). In this paper we explore the possibility of using the user's
+local storage capabilities to cache data at the user's site. This would
+improve the response time of user queries albeit at the cost of
+incurring the overhead required in maintaining multiple copies. In order
+to reduce this overhead it may be appropriate to allow copies to diverge
+in a controlled fashion.… Thus, we introduce the notion ofquasi-copies, which embodies the
+ideas sketched above. We also define the types of deviations that seem
+useful, and discuss the available implementation strategies.—From the Authors' Abstract

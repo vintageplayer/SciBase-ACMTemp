@@ -1,0 +1,29 @@
+Alfred V. Aho , John E. Hopcroft, The  Design and Analysis of Computer Algorithms, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1974
+Peter A. Alsberg , John D. Day, A principle for resilient sharing of distributed resources, Proceedings of the 2nd international conference on Software engineering, p.562-570, October 13-15, 1976, San Francisco, California, USA
+BERNSTEIN, P.A., ROTHNIE, J.B., GOODMAN, N., AND PAPADIMITRIOU, C.A. The concurrency control mechanism of SDD-I: A system for distributed databases (the fully redundant case). IEEE Trans. So{tw. Eng. 4, 3 (May 1978), 154-167.
+BERNSTEIN, P.A., SHIPMAN, D.W., AND WONG, W.S. Formal aspects of serializability in database concurrency control. IEEE Trans. Softw. Eng. 5, 3 (May 1979), 203-216.
+DAVIDSON, S.B., GARCIA-MOLINA, H., AND SKEEN, D. Consistency in the face of partition failures: A survey. Tech. Rep. TR#84-4, Dept. of Computer and Information Sciences, Univ. of Pennsylvania, Feb. 1984.
+Susan B. Davidson, An optimistic protocol for partitioned distributed database systems, Princeton University, Princeton, NJ, 1982
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+Michael R. Garey , David S. Johnson, Computers and Intractability: A Guide to the Theory of NP-Completeness, W. H. Freeman & Co., New York, NY, 1979
+GARCIA-MOLINA, H. Elections in a distributed computing system. IEEE Trans. Comput. C-31, 1 (Jan. 1982), 48-59.
+Hector Garcia-Molina, Using semantic knowledge for transaction processing in a distributed database, ACM Transactions on Database Systems (TODS), v.8 n.2, p.186-213, June 1983[doi>10.1145/319983.319985]
+David K. Gifford, Weighted voting for replicated data, Proceedings of the seventh ACM symposium on Operating systems principles, p.150-162, December 10-12, 1979, Pacific Grove, California, USA[doi>10.1145/800215.806583]
+Micael Hammer , David Shipman, Reliability mechanisms for SDD-1: a system for distributed databases, ACM Transactions on Database Systems (TODS), v.5 n.4, p.431-466, Dec.  1980[doi>10.1145/320610.320621]
+HOPCROFT, J.E., AND KARP, R.M. An n25 algorithm for maximum matching in bipartite graphs. J. SIAM Comput 2 (1973), 225-231.
+JOHNSON, D.B. Finding all the elementary circuits of a directed graph. SIAM J. Comput. 4 (1975), 77-84.
+KARP, R.M. Reducibility among combinatorial problems. In Complexity of Computer Computations, R.E. Miller and J.W. Thatcher, Eds., Plenum Press, New York, 85-103.
+LAWLER, E.L. Combinatorial Optimization: Networks and Matroids. Holt, Rinehart and Winston, New York, 1976.
+Witold Lipski, Jr., On semantic issues connected with incomplete information databases, ACM Transactions on Database Systems (TODS), v.4 n.3, p.262-296, Sept. 1979[doi>10.1145/320083.320088]
+Nancy A. Lynch, Multilevel atomicity—a new correctness criterion for database concurrency control, ACM Transactions on Database Systems (TODS), v.8 n.4, p.484-502, Dec. 1983[doi>10.1145/319996.319999]
+MINOtJRA, T., AND WEIDERHOLD, G. Resilient extended true-copy token scheme for a distributed database system. IEEE Trans. Softw. Eng. SE8, 3 (May 1982), 173-189.
+Christos H. Papadimitriou, The serializability of concurrent database updates, Journal of the ACM (JACM), v.26 n.4, p.631-653, Oct. 1979[doi>10.1145/322154.322158]
+Christos H. Papadimitriou , Kenneth Steiglitz, Combinatorial optimization: algorithms and complexity, Prentice-Hall, Inc., Upper Saddle River, NJ, 1982
+PARKER, D.S., POPEK, G.J., RUDISIN, G., STOUGHTON, A., WALKER, B., WALTON, E., CHOW, J., EDWARDS, D., KISER, S., AND KLINE, C. Detection of mutual inconsistency in distributed systems. In Proceedings 5th Berkeley Workshop on Distributed Data Management and Computer Networks (Feb. 1981), 172-183.
+PARKER, D.S., AND RAMOS, R.A. A distributed file system architecture supporting high availability. In Proceedings 6th Berkeley Workshop on Distributed Data Management and Computer Networks (1982), 161-183.
+Edward M. Reingold , Jurg Nievergelt , Narsingh Deo, Combinatorial Algorithms: Theory and Practice, Prentice Hall College Div, 1977
+ROTHNIE, J.B., AND GOODMAN, N. A survey of research and development in distributed database management. In Proceedings 3rd International Conference on Very Large Databases (Tokyo, Oct. 1977), 48-61.
+STEARNS, R.E., LEWIS, P.M., II, AND ROSENKRANTZ, D.J. Concurrency control for database systems. In Foundations of Computer Science (1976), 19-32.
+THOMAS, R.H. A solution to the concurrency control problem for multiple copy databases. In IEEE Compcon {Spring 1978), 56-62.
+TRAIGER, I.L., GRAY, J.N., GALTIERI, C.A., AND LINDSAY, B.G. Transactions and consistency in distributed database systems. IBM Res. Rep. RJ2555 33155, June 5, 1979.
+David D. Wright , Dale Skeen, Merging Partitioned Databases, Cornell University, Ithaca, NY, 1983

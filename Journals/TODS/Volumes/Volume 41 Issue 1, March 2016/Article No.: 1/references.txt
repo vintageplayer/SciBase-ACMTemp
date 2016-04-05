@@ -1,0 +1,27 @@
+Serge Abiteboul and Oliver Duschka. 1998. Complexity of answering queries using materialized views. In Proceedings of the ACM Symposium on Principles of Database Systems (PODS). 254--263.
+Serge Abiteboul, Richard Hull, and Victor Vianu. 1995. Foundations of Databases. Addison-Wesley.
+Serge Abiteboul, P. Kanellakis, and G. Grahne. 1991. On the representation and querying of sets of possible worlds. Theoretical Computer Science 78, 1 (1991), 158--187.
+Marcelo Arenas, Pablo Barceló, Leonid Libkin, and Filip Murlak. 2014. Foundations of Data Exchange. Cambridge University Press.
+Andrea Calì, Georg Gottlob, and Thomas Lukasiewicz. 2012. A general datalog-based framework for tractable query answering over ontologies. Journal of Web Semantics 14 (2012), 57--83.
+Diego Calvanese, Giuseppe De Giacomo, Domenico Lembo, Maurizio Lenzerini, and Riccardo Rosati. 2007. Tractable reasoning and efficient query answering in description logics: The DL-Lite family. Journal of Automated Reasoning 39, 3 (2007), 385--429.
+Kevin Compton. 1983. Some useful preservation theorems. Journal of Symbolic Logic 48, 2 (1983), 427--440.
+Hugh Darwen and Chris J. Date. 1995. The third manifesto. SIGMOD Record 24, 1 (1995), 39--49.
+Chris J. Date. 2005. Database in Depth: Relational Theory for Practitioners. O’Reilly. I--XVIII, 1--208.
+Chris J. Date and Hugh Darwen. 1996. A Guide to the SQL Standard. Addison-Wesley.
+G. H. Gessert. 1990. Four valued logic for relational database systems. SIGMOD Record 19, 1 (1990), 29--35.
+Amélie Gheerbrant, Leonid Libkin, and Cristina Sirangelo. 2014. Naïve evaluation of queries over incomplete databases. ACM Transactions on Database Systems 39, 4 (2014), 31:1--31:42.
+Amélie Gheerbrant, Leonid Libkin, and Tony Tan. 2012. On the complexity of query answering over incomplete XML documents. In Proceedings of the International Conference on Database Theory (ICDT). 169--181.
+Laura M. Haas, Mauricio A. Hernández, Howard Ho, Lucian Popa, and Mary Roth. 2005. Clio grows up: From research prototype to industrial tool. In SIGMOD. 805--810.
+Tomasz Imielinski and Witold Lipski. 1984. Incomplete information in relational databases. Journal of the ACM 31, 4 (1984), 761--791.
+Hans-Joachim Klein. 1994. How to modify SQL queries in order to guarantee sure answers. SIGMOD Record 23, 3 (1994), 14--20.
+Hans-Joachim Klein. 1999. On the use of marked nulls for the evaluation of queries against incomplete relational databases. In Fundamentals of Information Systems, Torsten Polle, Torsten Ripke, and Klaus-Dieter Schewe (Eds.). Kluwer, 81--98.
+Maurizio Lenzerini. 2002. Data integration: A theoretical perspective. In Proceedings of the ACM Symposium on Principles of Database Systems (PODS). 233--246.
+Leonid Libkin. 2014a. Certain answers as objects and knowledge. In Principles of Knowledge Representation and Reasoning (KR). 328--337.
+Leonid Libkin. 2014b. Incomplete information: What went wrong and how to fix it. In Proceedings of the ACM Symposium on Principles of Database Systems (PODS). 1--13.
+W. Lipski. 1979. On semantic issues connected with incomplete information databases. ACM Transactions on Database Systems 4, 3 (1979), 262--296.
+Witold Lipski. 1984. On relational algebra with marked nulls. In Proceedings of the ACM Symposium on Principles of Database Systems (PODS). 201--203.
+Bruno Marnette, Giansalvatore Mecca, Paolo Papotti, Salvatore Raunich, and Donatello Santoro. 2011. ++Spicy: An opensource tool for second-generation schema mapping and data exchange. PVLDB 4, 12 (2011), 1438--1441.
+Mike Paterson and Mark N. Wegman. 1978. Linear unification. Journal of Computer and System Sciences 16, 2 (1978), 158--167.
+R. Reiter. 1977. On closed world data bases. In Logic and Data Bases. 55--76.
+R. Reiter. 1986. A sound and sometimes complete query evaluation algorithm for relational databases with null values. Journal of the ACM 33, 2 (1986), 349--347.
+Kwok-bun Yue. 1991. A more general model for handling missing information in relational databases using a 3-valued logic. SIGMOD Record 20, 3 (1991), 43--49.

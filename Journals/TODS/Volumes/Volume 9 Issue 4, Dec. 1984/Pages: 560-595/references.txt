@@ -1,0 +1,26 @@
+Özalp Babaoglu , William Joy, Converting a swap-based system to do paging in an architecture lacking page-referenced bits, Proceedings of the eighth ACM symposium on Operating systems principles, p.78-86, December 14-16, 1981, Pacific Grove, California, United States[doi>10.1145/800216.806595]
+BELADY, L.A. A study of replacement algorithms for virtual storage computers. IBM Syst. J. 5, 2 (1966), 78-101.
+Richard S. Brice , Stephen W. Sherman, An extension of the performance of a database manager in a virtual memory system using partially locked virtual buffers, ACM Transactions on Database Systems (TODS), v.2 n.2, p.196-207, June 1977[doi>10.1145/320544.320556]
+Richard W. Carr , John L. Hennessy, WSCLOCK—a simple and effective algorithm for virtual memory management, Proceedings of the eighth ACM symposium on Operating systems principles, p.87-95, December 14-16, 1981, Pacific Grove, California, United States[doi>10.1145/800216.806596]
+CHU, W.W., AND OPDERBECK, H. Program behavior and the page fault frequency replacement algorithm. Computer 9, 11 (1976), 29-38.
+Peter J. Denning, The working set model for program behavior, Communications of the ACM, v.11 n.5, p.323-333, May 1968[doi>10.1145/363095.363141]
+DENNING, P.J. Thrashing: Its causes and prevention. In AFIPS Conference Proceedings, Vol. 33, FJCC, 1968, 915-922.
+DENNING, P.J. Working sets past and present. IEEE Trans. Softw. Eng. SE-6, 1 (1980), 64-84.
+EFFELSBERG, W. Buffer management in database systems. Dissertation, Fachbereich Informatik, Technische Hochschule Darmstadt, 1981, (in German).
+FERNANDEZ, E.B., LANG, T., AND WOOD, C. Effect of replacement algorithms on a paged buffer database system. IBM J. Res. DeF. 22, 2 (1978), 185-196.
+FERRARI, D. The improvement of program behavior. Computer 9, 11 (1976), 39-47.
+HA~RDER, T. Embedding a database system in an operating system environment. In Datenbanktechnologie, J. Niedereichholz, Ed. Proceedings II/79 of the German Chapter of the ACM, Teubner-Verlag, Stuttgart, 1979, 9-24, (in German).
+HOWARD, J.H. Virtual memory buffering, IBM Res. Rep., San Jose, Calif., 1980, (in preparation).
+Tomás Lang , Christopher Wood , Eduardo B. Fernández, Database buffer paging in virtual storage systems, ACM Transactions on Database Systems (TODS), v.2 n.4, p.339-351, Dec. 1977[doi>10.1145/320576.320585]
+MATTSON, R.L., GECSEX, J., SLUTZ, D.R,, AND TRAIGER, I.L. Evaluation techniques for storage hierarchies. IBM Syst. J. 9, 2 (1970), 78-117.
+REXTER, A. A study of buffer management policies for data management systems. Tech. Summary Rep. No. 1619, Mathematics Research Center, Univ. of Wisconsin, Madison, Mar. 1976.
+Juan Rodriguez-Rosell , Jean-Pierre Dupuy, The design, implementation, and evaluation of a working set dispatcher, Communications of the ACM, v.16 n.4, p.247-253, April 1973[doi>10.1145/362003.362032]
+RODRIGUEZ-ROSELL, J. Empirical data reference behavior in database systems. Computer 9, 11 (1976), 9-13.
+Giovanni Maria Sacco , Mario Schkolnick, A Mechanism for Managing the Buffer Pool in a Relational Database System Using the Hot Set Model, Proceedings of the 8th International Conference on Very Large Data Bases, p.257-262, September 08-10, 1982
+Stephen W. Sherman , Richard S. Brice, Performance of a database manager in a virtual memory system, ACM Transactions on Database Systems (TODS), v.1 n.4, p.317-343, Dec. 1976[doi>10.1145/320493.320494]
+Alan Jay Smith, Sequentiality and prefetching in database systems, ACM Transactions on Database Systems (TODS), v.3 n.3, p.223-247, Sept. 1978[doi>10.1145/320263.320276]
+SPIRN, J. Distance string models for program behavior. Computer 9, 11 (1976), 14-20.
+SPIRN, J.R., AND DENNING, P.J. Experiments with program locality. In AFIPS Con/erence Proceedings, Vol. 41, FJCC, 1972, 611-621.
+Michael Stonebraker, Operating system support for database management, Communications of the ACM, v.24 n.7, p.412-418, July 1981[doi>10.1145/358699.358703]
+TUEL, W.G. An analysis of buffer paging in virtual storage systems. IBM J. Res. DeF. 20, 5 (1976), 518-520.
+Rollins Turner , Bill Strecker, Use of the LRU stack depth distribution for simulation of paging behavior, Communications of the ACM, v.20 n.11, p.795-798, Nov. 1977[doi>10.1145/359863.359868]

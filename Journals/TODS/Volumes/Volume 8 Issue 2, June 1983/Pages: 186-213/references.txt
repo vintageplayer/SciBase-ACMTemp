@@ -1,0 +1,28 @@
+BERNSTEIN, P.A., SHIPMAN, D.W., AND WONG, W.S. Formal aspects of serializability in database concurrency control. IEEE Trans. Softw. Eng. SE-5, 3 (May 1979), 203-216.
+Philip A. Bernstein , David W. Shipman , James B. Rothnie, Jr., Concurrency control in a system for distributed databases (SDD-1), ACM Transactions on Database Systems (TODS), v.5 n.1, p.18-51, March 1980[doi>10.1145/320128.320131]
+Philip A. Bernstein , Nathan Goodman, Concurrency Control in Distributed Database Systems, ACM Computing Surveys (CSUR), v.13 n.2, p.185-221, June 1981[doi>10.1145/356842.356846]
+CASANOVA, M.A., AND BERNSTEIN, P.A. General purpose schedulers for database systems. Acta Inf. 4 (1980), 195-220.
+Lawrence A. Bjork, Recovery scenario for a DB/DC system, Proceedings of the annual conference, p.142-146, August 27-29, 1973, Atlanta, Georgia, United States[doi>10.1145/800192.805695]
+CLARK, D. Oral presentation at the Fifth Berkeley Workshop on Distributed Data Management and Computer Networks (Emeryville, Calif., February 3-5), Lawrence Berkeley Laboratory of the University of California at Berkeley, Berkeley, Calif., 1981.
+Charles T. Davies, Jr., Recovery semantics for a DB/DC system, Proceedings of the annual conference, p.136-141, August 27-29, 1973, Atlanta, Georgia, United States[doi>10.1145/800192.805694]
+Clarence A. Ellis, Consistency and correctness of duplicate database systems, Proceedings of the sixth ACM symposium on Operating systems principles, p.67-84, November 16-18, 1977, West Lafayette, Indiana, United States[doi>10.1145/800214.806548]
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+G~AY, J.N., LORIE, R.A., AND PUTZGLU, G.R. Granularity of locks in a shared data base. In Proc. Int. Conf. Very Large Data Bases (Framingham, Mass., Sept. 22-24), ACM, New York, 1975, pp. 428-451.
+Jim Gray, Notes on Data Base Operating Systems, Operating Systems, An Advanced Course, p.393-481, January 1978
+GRAY, J.N. A transaction model. Unpublished IBM Research Memo (Feb. 1980).
+GI~A~, J.N. The transaction concept: virtues and limitations. In Proc. Seventh Int. Conf. Very Large Data Bases {Cannes, France, Sept. 9-I1}, ACM, New York, 1981, pp. 144-154.
+Henry Francis Korth, Locking protocols: general lock classes and deadlock freedom, 1981
+H. T. Kung , C. H. Papadimitriou, An optimality theory of concurrency control for databases, Proceedings of the 1979 ACM SIGMOD international conference on Management of data, May 30-June 01, 1979, Boston, Massachusetts[doi>10.1145/582095.582114]
+Richard J. Lipton , Robert Sedgewick , Jacobo Valdes, Programming aspects of VLSI: (preliminary version), Proceedings of the 9th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.57-65, January 25-27, 1982, Albuquerque, Mexico[doi>10.1145/582153.582160]
+FISCHER, J.M., GRIFFETH, N.D., AND LYNCh, N.A. Global states of a distributed system. IEEE Trans. Softw. Eng. SE-8, 3 (May 1982), 198-202.
+Carver Mead , Lynn Conway, Introduction to VLSI Systems, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1979
+Daniel A. Menasce , Gerald J. Popek , Richard R. Muntz, A locking protocol for resource coordination in distributed databases, ACM Transactions on Database Systems (TODS), v.5 n.2, p.103-138, June 1980[doi>10.1145/320141.320143]
+Ron Obermarck, Distributed deadlock detection algorithm, ACM Transactions on Database Systems (TODS), v.7 n.2, p.187-208, June 1982[doi>10.1145/319702.319717]
+Christos H. Papadimitriou, The serializability of concurrent database updates, Journal of the ACM (JACM), v.26 n.4, p.631-653, Oct. 1979[doi>10.1145/322154.322158]
+Daniel J. Rosenkrantz , Richard E. Stearns , Philip M. Lewis, II, System level concurrency control for distributed database systems, ACM Transactions on Database Systems (TODS), v.3 n.2, p.178-198, June 1978[doi>10.1145/320251.320260]
+ROTHNIE, J.B., AND GOODMAN, i. A survey of research and development in distributed database management. In Proc. Third Int. Conf. Very Large Data Bases (Tokyo, Japan, Oct. 6-8), ACM, New York, 1977, pp. 48-62.
+SKEEN, D., ASD STONEBRAKER, M. A formal model of crash recovery in a distributed system. In Proc. Fifth Berkeley Workshop on Distributed Data Management and Computer Networks Lawrence Berkeley Laboratory of the University of California at Berkeley, Berkeley, Calif., 1981, pp. 129-140.
+STONEBRAKER, M. Concurrency control and consistency of multiple copies of data in distributed INGRES. IEEE Trans. Softw. Eng. SE-5, 3 (May 1979), 188-194.
+STRON, B.I. Consistency of redundant databases in a weakly coupled distributed computer conferencing system. In Proc. Fifth Berkeley Workshop on Dgstributed Data Management and Computer Networks (Emeryville, Calif., February 8-5), Lawrence Berkeley Laboratory of the University of California at Berkeley, Berkeley, Calif., 1981, pp. 143-153.
+Robert H. Thomas, A Majority consensus approach to concurrency control for multiple copy databases, ACM Transactions on Database Systems (TODS), v.4 n.2, p.180-209, June 1979[doi>10.1145/320071.320076]
+TRAIGER, I.L., GRAY, J.N., GALTIERI, C.A., AND LINDSAY, B.G. Transactions and consistency in distributed database systems. IBM Tech. Rep. RJ 2555 (June 1979).

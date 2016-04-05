@@ -1,0 +1,25 @@
+ADABAS User Manual. Software AG, Hilpertstrasse 20, 6100 Darmstadt, West Germany.
+BAYER, R. Database system design for high performance. In Proceedings IFIP 9th World Computer Congress (Paris, 1983), 147-155.
+CHANDY, K.M., BROWNE, J.C., DISSLY, C.W., AND UHRIG, W.R. Analytic models for rollback and recovery strategies in database systems. IEEE Trans. So#w. Eng. SE-1, 1 (Mar. 1975), 100- 110.
+EFFELSBERG, W., AND HAERDER, T. Principles of database buffer management. Res. Rep., Univ. of Kaiserslautern, 1982.
+ELHARDT, K. Das Datenbank-Cache. Ph.D. dissertation, Techn. Univ. of Munich, Dept. of Computer Sciences, Munich, 1982 (in German).
+FossuM, B.M. Database integrity as provided for by a particular database management system. In Data Base Management, J.W. Klimbie and K.L. Koffeman, Eds., North-Holland Publ. Co., 1974, 271-288.
+E. Gelenbe , D. Derochette, Performance of rollback recovery systems under intermittent failures, Communications of the ACM, v.21 n.6, p.493-499, June 1978[doi>10.1145/359511.359531]
+Nicholas J. Giordano , Marvin S. Schwartz, Data base recovery at CMIC, Proceedings of the 1976 ACM SIGMOD international conference on Management of data, June 02-04, 1976, Washington, D.C.
+Jim Gray, Notes on Data Base Operating Systems, Operating Systems, An Advanced Course, p.393-481, January 1978
+Jim Gray , Paul McJones , Mike Blasgen , Bruce Lindsay , Raymond Lorie , Tom Price , Franco Putzolu , Irving Traiger, The Recovery Manager of the System R Database Manager, ACM Computing Surveys (CSUR), v.13 n.2, p.223-242, June 1981[doi>10.1145/356842.356847]
+HAERDER, T., AND REUTER, A. Optimization of logging and recovery in a database system, in Data Base Architecture, North Holland Publ. Co., New York, 1979, 151-168.
+HAERDER, T., AND REUTER, A. Principles of transaction-oriented database recovery. IB 50/82, Dept. of Computer Sciences, Univ. of Kaiserslautern. Submitted for publication.
+IMS/VS Version i, Application Programming Reference Manual. No. SH20-9026-6, 1978.
+W. Frank King, III, Relational Database Systems: Where We Stand Today, GI - 10. Jahrestagung, p.15-44, September 30-October 02, 1980
+LAMPSON, B.W., AND STURGIS, H.E. Crash recovery in a distributed data storage system. XEROX Res. Rep., Palo Alto, Calif., April 1979. Submitted for publication.
+LINDSA~, B.G., SELINGER, P.G., GALTIERI, C., GRAY, J.N., LORIE, R., PRICE, T.G., PUTZOLU, F., TRAINER, I.L., AND WADE, B.W. Notes on distributed databases. IBM Res. Rep. RJ2571, San Jose, Calif., 1979.
+Raymond A. Lorie, Physical integrity in a large segmented database, ACM Transactions on Database Systems (TODS), v.2 n.1, p.91-104, March 1977[doi>10.1145/320521.320540]
+REUTER, A. A fast transaction-oriented logging scheme for UNDO recovery. IEEE Trans. Softw. Eng. SE-6 (July 1980).
+REUTER, A. Schnelle Datenbankrecovery mit Hilfe eines hardware-gestuetzten Schattenspeicher-Algorithmus. In German Chapter of the ACM, Berichte Nr. 6, B.G. Teubner-Verlag, Stuttgart, 1980, 258-272. (In German)
+REUTER, A. Fehlerbehandlung in Datenbanksystemen. Carl Hanser Verlag, Munich, 1981.
+Dennis G. Severance , Guy M. Lohman, Differential files: their application to the maintenance of large databases, ACM Transactions on Database Systems (TODS), v.1 n.3, p.256-267, Sept. 1976[doi>10.1145/320473.320484]
+SPIRN, J.R., AND DENNING, P.G. Experiments with program locality. In AFIPS Conference Proceedings, Vol. 41, FJCC, 1972, 611-621.
+Universal Database Management System, UDS-V3, Reference Manual Package. Siemens AG, Munich.
+Joost S. M. Verhofstad, Recovery Techniques for Database Systems, ACM Computing Surveys (CSUR), v.10 n.2, p.167-195, June 1978[doi>10.1145/356725.356730]
+VERHOFSTAD, J.S.M. Recovery based on types. In Data Base Architecture, North-Holland Publ. Co., New York, 1979, 125-139.

@@ -1,0 +1,53 @@
+S. Y. Cheung , M. Ahamad , M. H. Ammar, Optimizing Vote and Quorum Assignments for Reading and Writing Replicated Data, IEEE Transactions on Knowledge and Data Engineering, v.1 n.3, p.387-397, September 1989
+Brian A Coan , Brian M Oki , Elliot K Kolodner, Limitations on database availability when networks partition, Proceedings of the fifth annual ACM symposium on Principles of distributed computing, p.187-194, August 11-13, 1986, Calgary, Alberta, Canada
+Amitanand Aiyer , Lorenzo Alvisi , Rida A. Bazzi, On the availability of non-strict quorum systems, Proceedings of the 19th international conference on Distributed Computing, September 26-29, 2005, Cracow, Poland
+Kenneth J. Goldman , Nancy Lynch, Quorum consensus in nested-transaction systems, ACM Transactions on Database Systems (TODS), v.19 n.4, p.537-585, Dec. 1994
+M. Ahamad , M. H. Ammar, Performance Characterization of Quorum-Consensus Algorithms for Replicated Data, IEEE Transactions on Software Engineering, v.15 n.4, p.492-496, April 1989
+Rizwan Mithani, An object-oriented data model for partition processing in distributed databases, Proceedings of the 1990 ACM SIGSMALL/PC symposium on Small systems, p.271-279, March 28-30, 1990, Crystal City, Virginia, United States
+Rizwan Mithani, An object-oriented data model for partition processing in distributed databases, ACM SIGSMALL/PC Notes, v.17 n.1, p.18-26, Spring 1991
+S. Y. Cheung , M. H. Ammar , M. Ahamad, The Grid Protocol: A High Performance Scheme for Maintaining Replicated Data, IEEE Transactions on Knowledge and Data Engineering, v.4 n.6, p.582-592, December 1992
+Ada Wai-Chee Fu , David Wai-Lok Cheung, A Transaction Replication Scheme for a Replicated Database with Node Autonomy, Proceedings of the 20th International Conference on Very Large Data Bases, p.214-225, September 12-15, 1994
+A. El Abbadi , S. Toueg, The Group Paradigm for Concurrency Control Protocols, IEEE Transactions on Knowledge and Data Engineering, v.1 n.3, p.376-386, September 1989
+Amr El Abbadi , Sam Toueg, The group paradigm for concurrency control, ACM SIGMOD Record, v.17 n.3, p.126-134, June 1988
+Jian Tang, On multilevel voting, Distributed Computing, v.8 n.1, p.39-58, August 1994
+Peter Triantafillou, Independent Recovery in Large-Scale Distributed Systems, IEEE Transactions on Software Engineering, v.22 n.11, p.812-826, November 1996
+Akhil Kumar, Hierarchical Quorum Consensus: A New Algorithm for Managing Replicated Data, IEEE Transactions on Computers, v.40 n.9, p.996-1004, September 1991
+D.B. Johnson , L. Raab, A Tight Upper Bound on the Benefits of Replica Control Protocols, Journal of Computer and System Sciences, v.51 n.2, p.168-176, Oct. 1995
+Sushil Jajodia , David Mutchler, A Pessimistic Consistency Control Algorithm for Replicated Files Which Achieves High Availability, IEEE Transactions on Software Engineering, v.15 n.1, p.39-46, January 1989
+Dale Skeen , David D. Wright, Increasing availability in partitioned database systems, Proceedings of the 3rd ACM SIGACT-SIGMOD symposium on Principles of database systems, April 02-04, 1984, Waterloo, Ontario, Canada
+Kenneth J. Goldman , Nancy A. Lynch, Quorum consensus in nested transaction systems, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.27-41, August 10-12, 1987, Vancouver, British Columbia, Canada
+Amr El Abbadi , Sam Toueg, Availability in partitioned replicated databases, Proceedings of the fifth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.240-251, March 24-26, 1986, Cambridge, Massachusetts, United States
+Divyakant Agrawal , Amr El Abbadi, The Tree Quorum Protocol: An Efficient Approach for Managing Replicated Data, Proceedings of the 16th International Conference on Very Large Data Bases, p.243-254, August 13-16, 1990
+Donald B. Johnson , Larry Raab, A tight upper bound on the benefits of replication and consistency control protocols, Proceedings of the tenth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.75-81, May 29-31, 1991, Denver, Colorado, United States
+Danco Davcev, A Dynamic Voting Scheme in Distributed Systems, IEEE Transactions on Software Engineering, v.15 n.1, p.93-97, January 1989
+Sang Hyuk Son, Replicated data management in distributed database systems, ACM SIGMOD Record, v.17 n.4, p.62-69, Dec. 1988
+Akhil Kumar , Arie Segev, Cost and availability tradeoffs in replicated data concurrency control, ACM Transactions on Database Systems (TODS), v.18 n.1, p.102-131, March 1993
+Peter Triantafillou , David J. Taylor, VELOS: A New Approach for Efficiently Achieving High Availability in Partitioned Distributed Systems, IEEE Transactions on Knowledge and Data Engineering, v.8 n.2, p.305-321, April 1996
+D. Agrawal , A. El Abbadi, The generalized tree quorum protocol: an efficient approach for managing replicated data, ACM Transactions on Database Systems (TODS), v.17 n.4, p.689-717, Dec. 1992
+Maurice Herlihy, Comparing how atomicity mechanisms support replication, Proceedings of the fourth annual ACM symposium on Principles of distributed computing, p.102-110, August 1985, Minaki, Ontario, Canada
+Maurice Herlihy, Dynamic quorum adjustment for partitioned data, ACM Transactions on Database Systems (TODS), v.12 n.2, p.170-194, June 1987
+Ouri Wolfson , Yixiu Huang, Competitive Analysis of Caching in Distributed Databases, IEEE Transactions on Parallel and Distributed Systems, v.9 n.4, p.391-409, April 1998
+A. B. Stephens , Y. Yesha , K. Humenik, Optimal Allocation for Partially Replicated Database Systems on Ring Networks, IEEE Transactions on Knowledge and Data Engineering, v.6 n.6, p.975-982, December 1994
+Maurice Herlihy, Comparing how atomicity mechanisms support replication, ACM SIGOPS Operating Systems Review, v.20 n.3, p.31-39, July, 1986
+A. El Abbadi , S. Toueg, Maintaining availability in partitioned replicated databases, ACM Transactions on Database Systems (TODS), v.14 n.2, p.264-290, June 1989
+George Coucopoulos , Nishith Goel , Amiya Nayak , Nicola Santoro, Order and balance in continuously-fault-tolerant distributions of objects, Proceedings of the 24th IASTED international conference on Parallel and distributed computing and networks, p.198-203, February 14-16, 2006, Innsbruck, Austria
+Vassos Hadzilacos, A theory of reliability in database systems, Journal of the ACM (JACM), v.35 n.1, p.121-145, Jan. 1988
+Maurice Herlihy, Concurrency versus availability: atomicity mechanisms for replicated data, ACM Transactions on Computer Systems (TOCS), v.5 n.3, p.249-274, Aug. 1987
+Maurice Herlihy, A quorum-consensus replication method for abstract data types, ACM Transactions on Computer Systems (TOCS), v.4 n.1, p.32-53, Feb. 1986
+Divyakant Agrawal , Amr El Abbadi, Resilient Logical Structures for Efficient Management of Replicated Data, Proceedings of the 18th International Conference on Very Large Data Bases, p.151-162, August 23-27, 1992
+Sushil Jajodia , David Mutchler, Dynamic voting, ACM SIGMOD Record, v.16 n.3, p.227-238, Dec. 1987
+Mustaque Ahamad , Mostafa H. Ammar , Shun Yan Cheung, Multidimensional voting, ACM Transactions on Computer Systems (TOCS), v.9 n.4, p.399-431, Nov. 1991
+Brian M. Oki , Barbara H. Liskov, Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems, Proceedings of the seventh annual ACM Symposium on Principles of distributed computing, p.8-17, August 15-17, 1988, Toronto, Ontario, Canada
+Susan B. Davidson , Hector Garcia-Molina , Dale Skeen, Consistency in a partitioned network: a survey, ACM Computing Surveys (CSUR), v.17 n.3, p.341-370, Sept. 1985
+Calton Pu , Jerre D. Noe , Andrew Proudfoot, Regeneration of Replicated Objects: A Technique and its Eden Implementation, IEEE Transactions on Software Engineering, v.14 n.7, p.936-945, July 1988
+Sampath Rangarajan , Sanjeev Setia , Satish K. Tripathi, A Fault-Tolerant Algorithm for Replicated Data Management, IEEE Transactions on Parallel and Distributed Systems, v.6 n.12, p.1271-1282, December 1995
+M. Herlihy, Concurrency and availability as dual properties of replicated atomic data, Journal of the ACM (JACM), v.37 n.2, p.257-278, April 1990
+Philip A. Bernstein , Nathan Goodman, An algorithm for concurrency control and recovery in replicated distributed databases, ACM Transactions on Database Systems (TODS), v.9 n.4, p.596-615, Dec. 1984
+N. R. Adam, A New Dynamic Voting Algorithm for Distributed Database Systems, IEEE Transactions on Knowledge and Data Engineering, v.6 n.3, p.470-478, June 1994
+Yixiu Huang , Prasad Sistla , Ouri Wolfson, Data replication for mobile computers, ACM SIGMOD Record, v.23 n.2, p.13-24, June 1994
+Mukesh Singhal, Update Transport: A New Technique for Update Synchronization in Replicated Database Systems, IEEE Transactions on Software Engineering, v.16 n.12, p.1325-1336, December 1990
+A. Prasad Sistla , Ouri Wolfson , Yixiu Huang, Minimization of Communication Cost Through Caching in Mobile Environments, IEEE Transactions on Parallel and Distributed Systems, v.9 n.4, p.378-390, April 1998
+S. Jajodia , David Mutchler, Dynamic voting algorithms for maintaining the consistency of a replicated database, ACM Transactions on Database Systems (TODS), v.15 n.2, p.230-280, June 1990
+Michael J. Carey , Miron Livny, Conflict detection tradeoffs for replicated data, ACM Transactions on Database Systems (TODS), v.16 n.4, p.703-746, Dec. 1991
+Daniel T. Lee, Decision support in a distributed environment, Proceedings of the July 9-12, 1984, national computer conference and exposition, July 09-12, 1984, Las Vegas, Nevada
+Ricardo Jiménez-Peris , M. Patiño-Martínez , Gustavo Alonso , Bettina Kemme, Are quorums an alternative for data replication?, ACM Transactions on Database Systems (TODS), v.28 n.3, p.257-294, September 2003

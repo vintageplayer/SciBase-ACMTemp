@@ -1,0 +1,31 @@
+Rakesh Agrawal , Michael J. Carey , Miron Livny, Concurrency control performance modeling: alternatives and implications, ACM Transactions on Database Systems (TODS), v.12 n.4, p.609-654, Dec. 1987[doi>10.1145/32204.32220]
+B. R. Badrinath , Krithi Ramamritham, Concurrency control in complex information systems: a semantics-based approach, 1989
+B. R. Badrinath , Krithi Ramamritham, Semantics-Based Concurrency Control: Beyond Commutativity, Proceedings of the Third International Conference on Data Engineering, p.304-311, February 03-05, 1987
+B. R. Badrinath , Krithi Ramamritham, Performance evaluation of semantics-based multilevel concurrency control protocols, Proceedings of the 1990 ACM SIGMOD international conference on Management of data, p.163-172, May 23-26, 1990, Atlantic City, New Jersey, United States[doi>10.1145/93597.98726]
+C. Beeri , P. A. Bernstein , N. Goodman , M. Y. Lai , D. E. Shasha, A concurrency control theory for nested transactions (Preliminary Report), Proceedings of the second annual ACM symposium on Principles of distributed computing, p.45-62, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806709]
+Philip A. Bernstein , Vassco Hadzilacos , Nathan Goodman, Concurrency control and recovery in database systems, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1987
+BmMAr% K. P., JOSEPS, T. A. RAEUCHLE, T., AND EL-ABBAD~, A. Implementing fault-tolerant distributed objects. IEEE Trans. Softw. Eng. 11, 6 (June 1985), 520-530
+Gabriel Bracha , Sam Toueg, A distributed algorithm for generalized deadlock detection, Proceedings of the third annual ACM symposium on Principles of distributed computing, p.285-301, August 27-29, 1984, Vancouver, British Columbia, Canada[doi>10.1145/800222.806756]
+G. N. Buckley , A. Silberschatz, Beyond two-phase locking, Journal of the ACM (JACM), v.32 n.2, p.314-343, April 1985[doi>10.1145/3149.3151]
+Marco Antonio Casanova, Concurrency Control Problem for Database Systems, Springer-Verlag New York, Inc., Secaucus, NJ, 1981
+CORDON, C. AND GARCIA-MOLINA, H. The performance of a concurrency mechanism that exploits semantic knowledge. In Fifth International Conference on Distributed Computing Systems (Denver, Colo., May 13-17, 1985), pp. 350-358.
+David J DeWitt , Randy H Katz , Frank Olken , Leonard D Shapiro , Michael R Stonebraker , David Wood, Implementation techniques for main memory database systems, Proceedings of the 1984 ACM SIGMOD international conference on Management of data, June 18-21, 1984, Boston, Massachusetts[doi>10.1145/602259.602261]
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+Hector Garcia-Molina, Using semantic knowledge for transaction processing in a distributed database, ACM Transactions on Database Systems (TODS), v.8 n.2, p.186-213, June 1983[doi>10.1145/319983.319985]
+HADZmACOS, V. Issues of fault tolerance in concurrent computations. Tech. Rep. 11-84, Harvard University, Aiken Computation Laboratory, Cambridge, Mass., June 1984.
+M. Herlihy, Apologizing versus asking permission: optimistic concurrency control for abstract data types, ACM Transactions on Database Systems (TODS), v.15 n.1, p.96-124, March 1990[doi>10.1145/77643.77647]
+Maurice P. Herlihy , William E. Weihl, Hybrid concurrency control for abstract data types, Proceedings of the seventh ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.201-210, March 1988, Austin, Texas, United States[doi>10.1145/308386.308440]
+Henry F. Korth, Locking Primitives in a Database System, Journal of the ACM (JACM), v.30 n.1, p.55-79, Jan. 1983[doi>10.1145/322358.322363]
+H. T. Kung , John T. Robinson, On optimistic methods for concurrency control, ACM Transactions on Database Systems (TODS), v.6 n.2, p.213-226, June 1981[doi>10.1145/319566.319567]
+Moss, J. E.B. Nested Transactions: An approach to reliable distributed computing. Ph.D. thesis 260, MIT Cambridge, Mass., April 1981.
+J. Eliot B Moss , Nancy D. Griffeth , Marc H. Graham, Abstraction in recovery management, Proceedings of the 1986 ACM SIGMOD international conference on Management of data, p.72-83, May 28-30, 1986, Washington, D.C., United States[doi>10.1145/16894.16862]
+Brian M. Oki , Barbara H. Liskov , Robert W. Scheifler, Reliable object storage to support atomic actions, Proceedings of the tenth ACM symposium on Operating systems principles, p.147-159, December 1985, Orcas Island, Washington, United States[doi>10.1145/323647.323642]
+Christos H. Papadimitriou, The serializability of concurrent database updates, Journal of the ACM (JACM), v.26 n.4, p.631-653, Oct. 1979[doi>10.1145/322154.322158]
+Peter M. Schwarz , Alfred Z. Spector, Synchronizing shared abstract types, ACM Transactions on Computer Systems (TOCS), v.2 n.3, p.223-250, Aug. 1984[doi>10.1145/989.1188]
+SINHA, M. AND NATARAJAN, N. A priority based distributed deadlock detection algorithm. IEEE Trans. Sofiw. Eng. 11, I (Jan. 1985), 67-80.
+Michael Stonebraker , Randy H. Katz , David A. Patterson , John K. Ousterhout, The Design of XPRS, Proceedings of the 14th International Conference on Very Large Data Bases, p.318-330, August 29-September 01, 1988
+Y. C. Tay , Rajan Suri , Nathan Goodman, A mean value performance model for locking in databases: the no-waiting case, Journal of the ACM (JACM), v.32 n.3, p.618-651, July 1985[doi>10.1145/3828.3831]
+Y. C. Tay , Nathan Goodman , R. Suri, Locking performance in centralized databases, ACM Transactions on Database Systems (TODS), v.10 n.4, p.415-462, Dec. 1985[doi>10.1145/4879.4880]
+WmHL, W. Specification and implementation of atomic data types. Ph.D. Thesis MIT/LCS/TR-314, MIT, 545 Technology Square, Cambridge, Mass., March 1984.
+W. E. Weihl, Commutativity-Based Concurrency Control for Abstract Data Types, IEEE Transactions on Computers, v.37 n.12, p.1488-1505, December 1988[doi>10.1109/12.9728]
+William Weihl , Barbara Liskov, Implementation of resilient, atomic data types, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.2, p.244-269, April 1985[doi>10.1145/3318.3319]

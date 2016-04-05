@@ -1,0 +1,27 @@
+D. Agrawal , A. El Abbadi, Efficient solution to the distributed mutual exclusion problem, Proceedings of the eighth annual ACM Symposium on Principles of distributed computing, p.193-200, June 1989, Edmonton, Alberta, Canada[doi>10.1145/72981.72994]
+D. Agrawal , A. El Abbadi, Exploiting logical structures in replicated databases, Information Processing Letters, v.33 n.5, p.255-260, January 1990[doi>10.1016/0020-0190(90)90194-3]
+Divyakant Agrawal , Amr El Abbadi, Locks with constrained sharing (extended abstract), Proceedings of the ninth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.85-93, April 02-04, 1990, Nashville, Tennessee, United States[doi>10.1145/298514.298545]
+D. Agrawal , A. El Abbadi, The tree quorum protocol: an efficient approach for managing replicated data, Proceedings of the sixteenth international conference on Very large databases, p.243-254, September 1990, Brisbane, Australia
+M. Ahamad , M. H. Ammar, Performance Characterization of Quorum-Consensus Algorithms for Replicated Data, IEEE Transactions on Software Engineering, v.15 n.4, p.492-496, April 1989[doi>10.1109/32.16608]
+BERNSTEIN, P. A., AND GOODMAN, N. A proof technique for concurrency control and recovery algorithms for replicated databases. In Distributed Comput. 2, 1 (Jan. 1987), 32-44.
+Dančo Davčev , Walter A. Burkhard, Consistency and recovery control for replicated files, Proceedings of the tenth ACM symposium on Operating systems principles, p.87-96, December 1985, Orcas Island, Washington, United States[doi>10.1145/323647.323637]
+Susan B. Davidson , Hector Garcia-Molina , Dale Skeen, Consistency in a partitioned network: a survey, ACM Computing Surveys (CSUR), v.17 n.3, p.341-370, Sept. 1985[doi>10.1145/5505.5508]
+Derek L. Eager , Kenneth C. Sevcik, Achieving robustness in distributed database systems, ACM Transactions on Database Systems (TODS), v.8 n.3, p.354-381, Sept. 1983[doi>10.1145/319989.319992]
+Amr El Abbadi , Dale Skeen , Flaviu Cristian, An efficient, fault-tolerant protocol for replicated data management, Proceedings of the fourth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.215-229, March 25-27, 1985, Portland, Oregon, United States[doi>10.1145/325405.325443]
+A. El Abbadi , S. Toueg, Maintaining availability in partitioned replicated databases, ACM Transactions on Database Systems (TODS), v.14 n.2, p.264-290, June 1989[doi>10.1145/63500.63501]
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+Hector Garcia-Molina , Daniel Barbara, How to assign votes in a distributed system, Journal of the ACM (JACM), v.32 n.4, p.841-860, Oct. 1985[doi>10.1145/4221.4223]
+David K. Gifford, Weighted voting for replicated data, Proceedings of the seventh ACM symposium on Operating systems principles, p.150-162, December 10-12, 1979, Pacific Grove, California, United States[doi>10.1145/800215.806583]
+Jim Gray, Notes on Data Base Operating Systems, Operating Systems, An Advanced Course, p.393-481, January 1978
+Maurice Herlihy, A quorum-consensus replication method for abstract data types, ACM Transactions on Computer Systems (TOCS), v.4 n.1, p.32-53, Feb. 1986[doi>10.1145/6306.6308]
+Maurice Herlihy, Dynamic quorum adjustment for partitioned data, ACM Transactions on Database Systems (TODS), v.12 n.2, p.170-194, June 1987[doi>10.1145/22952.22953]
+S. Jajodia , David Mutchler, Dynamic voting algorithms for maintaining the consistency of a replicated database, ACM Transactions on Database Systems (TODS), v.15 n.2, p.230-280, June 1990[doi>10.1145/78922.78926]
+KUMAR, A. PeWormance analysis of a hierarchical quorum consensus algorithm for replicated objects. In Proceedings of the Tenth International Conference on Dtstrlbuted Computing Systems (Paris, May 1990), pp. 320-327.
+H. T. Kung , John T. Robinson, On optimistic methods for concurrency control, ACM Transactions on Database Systems (TODS), v.6 n.2, p.213-226, June 1981[doi>10.1145/319566.319567]
+Mamoru Maekawa, ANalgorithm for mutual exclusion in decentralized systems, ACM Transactions on Computer Systems (TOCS), v.3 n.2, p.145-159, May 1985[doi>10.1145/214438.214445]
+Stephen R. Mahaney , Fred B. Schneider, Inexact agreement: accuracy, precision, and graceful degradation, Proceedings of the fourth annual ACM symposium on Principles of distributed computing, p.237-249, August 1985, Minaki, Ontario, Canada[doi>10.1145/323596.323618]
+Jehan-François Pâris , Darrell D. E. Long, Efficient Dynamic Voting Algorithms, Proceedings of the Fourth International Conference on Data Engineering, p.268-275, February 01-05, 1988
+D. P. Reed, NAMING AND SYNCHRONIZATION IN A DECENTRALIZED COMPUTER SYSTEM, Massachusetts Institute of Technology, Cambridge, MA, 1978
+Richard D. Schlichting , Fred B. Schneider, Fail-stop processors: an approach to designing fault-tolerant computing systems, ACM Transactions on Computer Systems (TOCS), v.1 n.3, p.222-238, August 1983[doi>10.1145/357369.357371]
+Abraham Silberschatz , Zvi Kedem, Consistency in Hierarchical Database Systems, Journal of the ACM (JACM), v.27 n.1, p.72-80, Jan. 1980[doi>10.1145/322169.322176]
+Robert H. Thomas, A Majority consensus approach to concurrency control for multiple copy databases, ACM Transactions on Database Systems (TODS), v.4 n.2, p.180-209, June 1979[doi>10.1145/320071.320076]

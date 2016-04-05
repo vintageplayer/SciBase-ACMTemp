@@ -1,0 +1,41 @@
+Serge Abiteboul , Eric Simon , Victor Vianu, Non-deterministic languages to express deterministic transformations, Proceedings of the ninth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.218-229, April 02-04, 1990, Nashville, Tennessee, United States[doi>10.1145/298514.298575]
+Serge Abiteboul , Victor Vianu, Procedural languages for database queries and updates, Journal of Computer and System Sciences, v.41 n.2, p.181-229, Oct. 1990[doi>10.1016/0022-0000(90)90036-K]
+Serge Abiteboul , Victor Vianu, Datalog extensions for database queries and updates, Journal of Computer and System Sciences, v.43 n.1, p.62-124, Aug. 1991[doi>10.1016/0022-0000(91)90032-Z]
+K. R. Apt , H. A. Blair , A. Walker, Towards a theory of declarative knowledge, Foundations of deductive databases and logic programming, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1988
+~BOCCA, J. 1986a. EDUCE:a marriage of convenience: Prolog and a relational DBMS. In ~Proceedings of the Third IEEE Symposium on Logic Programming, 36-45.
+Jorge Bocca, On the evaluation strategy of EDUCE, Proceedings of the 1986 ACM SIGMOD international conference on Management of data, p.368-378, May 28-30, 1986, Washington, D.C., United States[doi>10.1145/16894.16890]
+Stefano Ceri , Jennifer Widom, Deriving production rules for constraint maintenance, Proceedings of the sixteenth international conference on Very large databases, p.566-577, September 1990, Brisbane, Australia
+~DEMOLOMBE, R. 1982. Syntactical characterization of a subset of domain independent ~formulas. Tech. Rep., ONERA-CERT, Toulouse.
+L. M.L. Delcambre , J. N. Etheredge, A self-controlling interpreter for the relational production language, Proceedings of the 1988 ACM SIGMOD international conference on Management of data, p.396-403, June 01-03, 1988, Chicago, Illinois, United States[doi>10.1145/50202.50250]
+~FAGIN, R., KUPER, G., ULLMAN,J.D.,AND VARDI, M. Y. 1986. Updating logical databases. In ~Advances in Computing Research, 3, P. Kanellakis, Ed. JAI Press, 1-18.
+~FORGY, C. L. 1981. OPS5 User's Manual. Tech. Rep. CMU-CS-81-135, Carnegie-Mellon ~Univ.
+~FORGY, C. L. 1982. Rete: A fast algorithm for the many pattern/many object pattern match ~problem. Artif. Intell. 19.
+~GELFOND,M.AND LIFSCHITZ, V. 1988. The stable model semantics for logic programming. In ~Proceedings of the Fifth International Conference and Symposium on Logic (Seattle, WA, ~Aug. 15-19), 1070-1080.
+Douglas N. Gordin , Alexander J. Pasik, Set-oriented constructs: from Rete rule bases to database systems, Proceedings of the 1991 ACM SIGMOD international conference on Management of data, p.60-67, May 29-31, 1991, Denver, Colorado, United States[doi>10.1145/115790.115797]
+A. Gupta , C. Forgy , A. Newell, High-speed implementations of rule-based systems, ACM Transactions on Computer Systems (TOCS), v.7 n.2, p.119-146, May 1989[doi>10.1145/63404.63405]
+Frederick Hayes-Roth, Rule-based systems, Communications of the ACM, v.28 n.9, p.921-932, Sept. 1985[doi>10.1145/4284.4286]
+Madhur Kohli , Mark E. Giuliano , Jack Minker, An overview of the PRISM project, ACM SIGARCH Computer Architecture News, v.15 n.1, p.35-42, March 1987[doi>10.1145/25372.25376]
+~KOWALSKI,R.AND SADRI, F. 1989. Knowledge representation without integrity constraints. ~Tech. Rep., Dept. of Computing, Imperial College of Science and Technology.
+Robert A. kowalski , Fariba Sadri, Logic programs with exceptions, Logic programming, MIT Press, Cambridge, MA, 1990
+Jorge Lobo , Jack Minker, Semantics for normal disjunctive logic programs, 1990
+Christophe de Maindreville , Eric Simon, Modelling Non Deterministic Queries and Updates in Deductive Databases, Proceedings of the 14th International Conference on Very Large Data Bases, p.395-406, August 29-September 01, 1988
+S. Manchanda , D. S. Warren, A logic-based language for database updates, Foundations of deductive databases and logic programming, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1988
+~MIRANKER, D. P. 1987. TREAT: A better match algorithm for AI production systems. In ~Proceedings of the National Conference on Artificial Intelligence.
+J. Minker, Foundations of deductive databases and logic programming, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1988
+Katherine Morris , Jeffrey D Ullman , Allen Van Gelder, Design overview of the NAIL] system, Proceedings on Third international conference on logic programming, p.554-568, September 1986, London, United Kingdom
+Shamim Naqvi , Ravi Krishnamurthy, Database updates in logic programming, Proceedings of the seventh ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.251-262, March 1988, Austin, Texas, United States[doi>10.1145/308386.308451]
+~NICOLAS, J. M. 1982. Logic for improving integrity checking in relational data bases. Acta ~Informatica 18, 3, 227-253.
+~NICOLAS,J.M.AND DEMOLOMBE, R. 1983. On the stability of relational queries. Tech. Rep., ~ONERA-CERT, Toulouse.
+~PANG,P.AND RASCHID, L. 1994. Bottom-up magic evaluation techniques for stratified ~production rules in a DBMS. Tech. Rep., Univ. of Maryland Institute for Advanced ~Computer Studies.
+~RASCHID, L. 1990. Maintaining consistency in a stratified production system program. In ~Proceedings of the AAAI National Conference on Artificial Intelligence, 284-289.
+~RASCHID, L. 1994. A semantics for a class of stratified production system programs. J. Logic ~Program. 21, 1, 31-57.
+~RASCHID,L.AND LOBO, J. 1994. A Semantics for a class of non-deterministic and causal ~production system programs. J. Autom. Reasoning 12, (Dec.) 305-349.
+T. Sellis , C. C. Lin , L. Raschid, Implementing large production systems in a DBMS environment: concepts and algorithms, Proceedings of the 1988 ACM SIGMOD international conference on Management of data, p.404-423, June 01-03, 1988, Chicago, Illinois, United States[doi>10.1145/50202.50251]
+T. Sellis , C.-C. Lin , L. Raschid, Coupling Production Systems and Database Systems: A Homogeneous Approach, IEEE Transactions on Knowledge and Data Engineering, v.5 n.2, p.240-256, April 1993[doi>10.1109/69.219733]
+E. Simon de Maindreville, Deciding whether a production rule is relational computable, Lecture notes in computer science on ICDT '88, p.205-222, October 1988, Bruges, Belgium
+Michael Stonebraker , Eric N. Hanson , Spyros Potamianos, The POSTGRES Rule Manager, IEEE Transactions on Software Engineering, v.14 n.7, p.897-907, July 1988[doi>10.1109/32.42733]
+Shalom Tsur , Carlo Zaniolo, LDL: A Logic-Based Data Language, Proceedings of the 12th International Conference on Very Large Data Bases, p.33-41, August 25-28, 1986
+Jeffrey D. Ullman, Implementation of logical query languages for databases, ACM Transactions on Database Systems (TODS), v.10 n.3, p.289-321, Sept. 1985[doi>10.1145/3979.3980]
+M. H. Van Emden , R. A. Kowalski, The Semantics of Predicate Logic as a Programming Language, Journal of the ACM (JACM), v.23 n.4, p.733-742, Oct. 1976[doi>10.1145/321978.321991]
+~WIDOM, J. 1991. Deduction in the Starburst production rule system. IBM Res. Rep. RJ ~8135, IBM Research Div., Yorktown Heights, NY.
+Jennifer Widom , S. J. Finkelstein, Set-oriented production rules in relational database systems, Proceedings of the 1990 ACM SIGMOD international conference on Management of data, p.259-270, May 23-26, 1990, Atlantic City, New Jersey, United States[doi>10.1145/93597.98735]

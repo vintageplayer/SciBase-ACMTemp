@@ -1,0 +1,1 @@
+A “divide and conquer” strategy to compute natural joins by sequential scans on unordered relations is described. This strategy is shown to always he better than merging SCBIIS when both relations must he sorted before joining, and generally better in practical cases when only the largest relation mutt be sorted.

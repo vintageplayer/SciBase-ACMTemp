@@ -1,0 +1,86 @@
+Anant Agarwal , John Hennessy , Mark Horowitz, Cache performance of operating system and multiprogramming workloads, ACM Transactions on Computer Systems (TOCS), v.6 n.4, p.393-431, Nov. 1988[doi>10.1145/48012.48037]
+AIM / SRCF Functtons and Faczht,es. Facom OS Tech. Manual 78SP4900E, Fujitsu, 1986
+A measure of transaction processing power, Datamation, v.31 n.7, p.112-118, March 15, 1985
+Matthew Bellew , Meichun Hsu , Va-On Tam, Update Propagation in Distributed Memory Hierarchy, Proceedings of the Sixth International Conference on Data Engineering, p.521-528, February 05-09, 1990
+Philip A. Bernstein , Vassco Hadzilacos , Nathan Goodman, Concurrency control and recovery in database systems, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1987
+Anupam Bhide, An Analysis of Three Transaction Processing Architectures, Proceedings of the 14th International Conference on Very Large Data Bases, p.339-350, August 29-September 01, 1988
+BLACK, D. L., GUPTA, A., AND WEBER, W. Competitive management of d~stnbuted shared memory. In Procee&ngs of the IEEE Sprzng CompCon (1989), 184-190.
+Volker Bohn , Theo Härder , Erhard Rahm, Extended Memory Support for High Performance Transaction Systems, Messung, Modellierung und Bewertung von Rechensystemen, 6. GI/ITG-Fachtagung, p.92-108, September 18-20, 1991
+H. Boral , W. Alexander , L. Clay , G. Copeland , S. Danforth , M. Franklin , B. Hart , M. Smith , P. Valduriez, Prototyping Bubba, A Highly Parallel Database System, IEEE Transactions on Knowledge and Data Engineering, v.2 n.1, p.4-24, March 1990[doi>10.1109/69.50903]
+BORn, A. Transaction monitoring m Encompass: A non shared-memory multi-processor approach. In Proceedings of the 7th International Conference on Very Large Data Bases (1981), 155-165.
+BURKES, D. L., AND TREIBER, a.K. Design approaches for real-time transaction processing remote site recovery In Proceedings of the IEEE Spring CompCon (1990), 568 572.
+Michael J. Carey , Michael J. Franklin , Miron Livny , Eugene J. Shekita, Data caching tradeoffs in client-server DBMS architectures, Proceedings of the 1991 ACM SIGMOD international conference on Management of data, p.357-366, May 29-31, 1991, Denver, Colorado, United States[doi>10.1145/115790.115854]
+Michael J. Carey , Hongjun Lu, Load balancing in a locally distributed DB system, Proceedings of the 1986 ACM SIGMOD international conference on Management of data, p.108-119, May 28-30, 1986, Washington, D.C., United States[doi>10.1145/16894.16865]
+CHENG, J. M., LOOSLEY, C R. SHIBAMIYA, A., AND WORTHINGTON, P S. IBM Database 2 performance: design, implementation, and tuning. IBM Syst. J. 23, 2 (1984), 189-210.
+Asit Dan , Daniel M. Dias , Philip S. Yu, The effect of skewed data access on buffer hits and data contention in a data sharing environment, Proceedings of the sixteenth international conference on Very large databases, p.418-431, September 1990, Brisbane, Australia
+D. J. Dewitt , S. Ghandeharizadeh , D. A. Schneider , A. Bricker , H. -I. Hsiao , R. Rasmussen, The Gamma Database Machine Project, IEEE Transactions on Knowledge and Data Engineering, v.2 n.1, p.44-62, March 1990[doi>10.1109/69.50905]
+D. M. Dias , B. R. Iyer , John T. Robinson , P. S. Yu, Integrated Concurrency-Coherency Controls for Multisystem Data Sharing, IEEE Transactions on Software Engineering, v.15 n.4, p.437-448, April 1989[doi>10.1109/32.16604]
+Michel, Dubois , Christoph Scheurich , Fayé A. Briggs, Synchronization, Coherence, and Event Ordering in Multiprocessors, Computer, v.21 n.2, p.9-21, February 1988[doi>10.1109/2.15]
+Wolfgang Effelsberg , Theo Haerder, Principles of database buffer management, ACM Transactions on Database Systems (TODS), v.9 n.4, p.560-595, Dec. 1984[doi>10.1145/1994.2022]
+Klaus Elhardt , Rudolf Bayer, A database cache for high performance and fast restart in database systems, ACM Transactions on Database Systems (TODS), v.9 n.4, p.503-525, Dec. 1984[doi>10.1145/1994.1995]
+Peter A. Franaszek , John T. Robinson , Alexander Thomasian, Access Invariance and Its Use in High Contention Environments, Proceedings of the Sixth International Conference on Data Engineering, p.47-55, February 05-09, 1990
+GARCIA-MOLXNA, H., AND ABBOTT, R. K. Reliable distributed database management. Proc. IEEE 75, 5 (1987), 601-620.
+GOLDSTEIN, A.C. The design and implementation of a distributed file system. Digital Tech. J. 5 (Sept. 1987), 45-55.
+GRAY, J., ET AL. One thousand transactions per second. In Proceedings of the IEEE Spr~ng CompCon (1985), 96-101.
+Jim Gray, Benchmark Handbook: For Database and Transaction Processing Systems, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1992
+GRAY, J. N., LORIE, R. A. PUTZOLU, G. R., AND TRAIGER, I. Granularity of locks and degrees of consistency in a shared data base. In Proceedings of the IFIP Working Conference on Modelling in Data Base Management Systems, North-Holland, 1976, '365-394.
+Theo Härder, Observations on optimistic concurrency control schemes, Information Systems, v.9 n.2, p.111-120, 1984[doi>10.1016/0306-4379(84)90020-6]
+Theo Harder, Handling hot spot data in DB-sharing systems, Information Systems, v.13 n.2, p.155-166, May 1988[doi>10.1016/0306-4379(88)90012-9]
+HARDER, T., PEINL, P., AND REUTER, A. Performance analysis of synchronization and recovery schemes. IEEE Database Eng. 8, 2 (1985), 50-57.
+HARDER, T., PEINL, P., AND REUTER, A. Optimistic concurrency control in a shared database environment. Tech. Rep., Computer Science Dept., Univ. of Kaiserslautern, 1985.
+Theo Härder , Erhard Rahm, Quantitative Analyse eines Synchronisationsalgorithmus für DB-Sharing, Messung, Modellierung und Bewertung von Rechensystemen, 3. GI/NTG-Fachtagung, p.186-201, October 01-03, 1985
+HARDER, T., AND RAHM, E. Multiprocessor database systems for high performance transaction systems. Informationstechnik 28, 4 (1986), 214-225 (in German).
+Theo Haerder , Andreas Reuter, Principles of transaction-oriented database recovery, ACM Computing Surveys (CSUR), v.15 n.4, p.287-317, December 1983[doi>10.1145/289.291]
+H~4RDER, T., SCH6NING, H., AND SI~LER, A. Evaluation of hardware architectures for parallel execution of complex database operations. In Proceedings of the 3rd Annual Parallel Processing Symposzum (1989), 564-578.
+Pat Helland , Harald Sammer , Jim Lyon , Richard Carr , Phil Garrett , Andreas Reuter, Group Commit Timers and High Volume Transaction Systems, Proceedings of the 2nd International Workshop on High Performance Transaction Systems, p.301-329, September 28-30, 1987
+Hsu, Y.-P. Performance evaluation of data sharing transaction processing systems. Master's Thesis, Dept. of Electrical and Computer Eng., Univ. of Mass. at Amherst, 1988.
+B. R. Iyer , P. S. Yu , L. Donatiello, Analysis of fault tolerant multiprocessor architectures for lock engine design, Computer Systems Science and Engineering, v.2 n.2, p.59-75, April 1987
+Ashok M. Joshi, Adaptive Locking Strategies in a Multi-node Data Sharing Environment, Proceedings of the 17th International Conference on Very Large Data Bases, p.181-191, September 03-06, 1991
+JOSHI, A. M., AND RODWELL, K.E. A relational database management system for production applications. Digital Tech. J., 8 (Feb. 1989), 99-109.
+KENT, C.A. Cache coherence in distributed systems. Res. Rep. 87/4, DEC Western Research Lab., 1987.
+Richard P. King , Nagui Halim , Hector Garcia-Molina , Christos A. Polyzois, Management of a remote backup copy for disaster recovery, ACM Transactions on Database Systems (TODS), v.16 n.2, p.338-368, June 1991[doi>10.1145/114325.103715]
+Nancy P. Kronenberg , Henry M. Levy , William D. Strecker, VAXcluster: a closely-coupled distributed system, ACM Transactions on Computer Systems (TOCS), v.4 n.2, p.130-146, May 1986[doi>10.1145/214419.214421]
+H. T. Kung , John T. Robinson, On optimistic methods for concurrency control, ACM Transactions on Database Systems (TODS), v.6 n.2, p.213-226, June 1981[doi>10.1145/319566.319567]
+Kai Li , Paul Hudak, Memory coherence in shared virtual memory systems, ACM Transactions on Computer Systems (TOCS), v.7 n.4, p.321-359, Nov. 1989[doi>10.1145/75104.75105]
+LITTLE, J.D. A proof of the queuing formulate L AW. Oper. Res. 9 (1961), 383-387.
+LYON, J. Tandem's remote data facility. In Proceedings of the IEEE Spring CompCon (1990), 562-567.
+C. Mohan , Inderpal Narang, Recovery and Coherency-Control Protocols for Fast Intersystem Page Transfer and Fine-Granularity Locking in a Shared Disks Transaction Environment, Proceedings of the 17th International Conference on Very Large Data Bases, p.193-207, September 03-06, 1991
+MOHAN, C., NARANG, I., AND PALMER, J. A case study of problems in migrating to distributed computing: data base recovery using multiple logs in the shared disks environment. IBM Res. Rep. RJ 7343, San Jose, Calif., 1990.
+MOHAN, C., NARANG, I., AND SILEN, S. So}utions to hot spot problems in a shared disks transaction environment. In Proceedings of the 4th Internatzonal Workshop on High Performance Transaction Systems (Asilomar, 1991).
+NECHES, P.M. The anatomy of a database computer--revisited. In Proceedings of the IEEE CompCon Spring Conference (1986), 374 377.
+Michael N. Nelson , Brent B. Welch , John K. Ousterhout, Caching in the Sprite network file system, ACM Transactions on Computer Systems (TOCS), v.6 n.1, p.134-154, Feb. 1988[doi>10.1145/35037.42183]
+Bill Nitzberg , Virginia Lo, Distributed Shared Memory: A Survey of Issues and Algorithms, Computer, v.24 n.8, p.52-60, August 1991[doi>10.1109/2.84877]
+Oracle for masswely parallel systems--technology overvzew. Oracle Corp., part 50577-0490, 1990.
+David A. Patterson , Garth Gibson , Randy H. Katz, A case for redundant arrays of inexpensive disks (RAID), Proceedings of the 1988 ACM SIGMOD international conference on Management of data, p.109-116, June 01-03, 1988, Chicago, Illinois, United States[doi>10.1145/50202.50214]
+Hamid Pirahesh , C. Mohan , Josephine Cheng , T. S. Liu , Pat Selinger, Parallelism in relational data base systems: architectural issues and design approaches, Proceedings of the second international symposium on Databases in parallel and distributed systems, p.4-29, July 02-04, 1990, Dublin, Ireland[doi>10.1145/319057.319060]
+QUENON, M., AND VORIS, D. IMS VS data sharing guidelines. IBM Tech. Bull. 6320-0590, 1987.
+Erhard Rahm, Primary copy synchronization for DB-sharing, Information Systems, v.11 n.4, p.275-286, Oct. 1986[doi>10.1016/0306-4379(86)90008-6]
+RAHM, E. Integrated solutions to concurrency control and buffer lnvahdation in database sharing systems. In Proceedings of the 2nd IEEE International Conference on Computers and Applications (1987), 410-417.
+RAHM, E. Design of optimistic methods for concurrency control in database sharing systems. In Proceedings of the 7th IEEE Internatmnal Conference on Distrzbuted Computing Systems (1987), 154-161
+RAHM, E Concurrency control in multiprocessor database systems--Concepts, reahzation strategies and quantitative evaluation. Doctoral dissertation (in German), Informatik- Fachberichte, vol. 186, Springer-Verlag, 1988.
+RAHM, E., ET AL. Goal-oriented workload management in locally distributed transaction systems. IBM Res. Rep. RC 14712, Yorktown Heights, N.Y., 1989.
+Erhard Rahm, A framework for workload allocation in distributed transaction processing systems, Journal of Systems and Software, v.18 n.2, p.171-190, May 1992[doi>10.1016/0164-1212(92)90126-5]
+RAHM, E Recovery concepts for data sharing systems Computer Science Dept., Univ. of Kaiserslautern, Tech. Rep. 14/89, 1989. A shorter version of this paper appeared in Proceedings of the 21st Internatzonal SymposLum on Fault-Tolerant Computing (Montreal, June 1991), IEEE Computer Society Press, 368-375.
+RAHM, E. Use of global extended memory for distributed transaction processing. In Proceedrags of the 4th Internatmnal Workshop on High Performance Transactzon Systems (Asilomar, 1991).
+RAHM, E. Concurrency and coherency control in database sharing systems. Computer Science Dept., Univ. of Kaiserslautern, Tech. Rep. 3/91, 1991.
+RENGARAJAN, T. K., SPIRO, P. M., AND WRIC~HT, W.A. High availability mechanisms of VAX DBMS software. Digital Tech. J. 8 (Feb. 1989), 88-98.
+Andreas Reuter, Load Control and Load Balancing in a Shared Database Management System, Proceedings of the Second International Conference on Data Engineering, p.188-197, February 05-07, 1986
+REUTER, A., AND SHOENS, K. Synchronization in a data sharing environment. IBM San Jose Research Lab., Tech. Rep., 1984.
+John T. Robinson, A fast general-purpose hardware synchronization mechanism, Proceedings of the 1985 ACM SIGMOD international conference on Management of data, p.122-130, May 1985, Austin, Texas, United States[doi>10.1145/318898.318910]
+Domenico Sacca , Gio Wiederhold, Database partitioning in a cluster of processors, ACM Transactions on Database Systems (TODS), v.10 n.1, p.29-56, March 1985[doi>10.1145/3148.3161]
+SCRUTCHIN JR., T.W. TPF: Performance, capacity, availability. In Proceedings of the IEEE Spring CompCon (1987), 158-160.
+SEKINO, A., ET AL. The DSC--a new approach to multisystem data sharing. In Proceedings of the National Computer Conference (1984), 59-68.
+SHOENS, K., ET AL. The AMOEBA project. In Proceedings 1EEE Spring CompCon (1985), 102-105.
+SHOENS, K. Data sharing vs. partitioning for capacity and availability. IEEE Database Eng. 9, i (1986), 10-16.
+Alan J. Smith, Disk cache—miss ratio analysis and design considerations, ACM Transactions on Computer Systems (TOCS), v.3 n.3, p.161-203, Aug. 1985[doi>10.1145/3959.3961]
+Sang Hyuk Son, Synchronization of replicated data in distributed systems, Information Systems, v.12 n.2, p.191-202, June 1987[doi>10.1016/0306-4379(87)90043-3]
+STONEBRAKER, M. Concurrency control and consistency of multiple copies in distributed INGRES. IEEE Trans. Softw. Eng. 5, 3 (1979), 188-194.
+STONEBRAKER, M. The case for shared nothing. IEEE Database Eng. 9, I (1986), 4-9.
+STRICt~LAND, J. P., UHROWCZlK, P. P., AND WATTS, V.L. IMS/VS: An evolving system. IBM Syst. J. 21, 4 (1982), 490-510.
+Tandem Database Group - NonStop SQL: A Distributed, High-Performance, High-Availability Implementation of SQL, Proceedings of the 2nd International Workshop on High Performance Transaction Systems, p.60-104, September 28-30, 1987
+TPF2 General Information. IBM Manual, GH20-7540, 1988.
+TRAIGER, I. Trends in systems aspects of database management. In Proceedlr,gs of the 2nd International Conference on Databases (ICOD-2), (1983), 1-20.
+Yongdong Wang , Lawrence A. Rowe, Cache consistency and concurrency control in a client/server DBMS architecture, Proceedings of the 1991 ACM SIGMOD international conference on Management of data, p.367-376, May 29-31, 1991, Denver, Colorado, United States[doi>10.1145/115790.115855]
+WEST, J. C., ISMAN, M. A., AND HANNAFORD, S. G. PERPOS fault-tolerant transaction processing. In Proceedings 3rd IEEE Symposium on Reliability ~n Distributed Software and Database Systems (1983), 189 194.
+YEN, W. C., YEN, D. W. L., AND FU, K. Data coherence problem in a multicache system. IEEE Trans. Comput. 34, i (1985), 56-65.
+Yu, P. S., ET AL. On coupling multi-systems through data sharing. Proc. IEEE 75, 5 (1987), 573-587.

@@ -1,0 +1,17 @@
+The integration of knowledge for multiple sources is an important
+aspect of automated reasoning systems. When different knowledge bases
+are used to store knowledge provided by multiple sources, we are faced
+with the  problem of integrating multiple knowledge bases: Under these
+circumstances, we are also confronted with the prospect of
+inconsistency. In this paper we present a uniform theoretical framework,
+based onannotated logics, for
+amalgamating multiple knowledge bases when these knowledge bases
+(possibly) contain inconsistencies, uncertainties, and nonmonotonic
+modes of negation. We show that annotated logics may be used, with some
+modifications, tomediatebetween
+different knowledge bases. The multiple knowledge bases are amalgamated
+by a transformation of the individual knowledge bases into new annotated
+logic programs, together with the addition of a new axiom scheme. We
+characterize the declarative semantics of such amalgamated knowledge
+bases and study how the semantics of the amalgam is related to the
+semantics of the individual knowledge bases being combined.—Author's Abstract

@@ -1,0 +1,63 @@
+Meichun Hsu , Arvola Chan, Partitioned two-phase locking, ACM Transactions on Database Systems (TODS), v.11 n.4, p.431-446, Dec. 1986
+Partha Dasgupta , Zvi M. Kedem, Thefive colorconcurrency control protocol: non-two-phase locking in general databases, ACM Transactions on Database Systems (TODS), v.15 n.2, p.281-307, June 1990
+Michael L. Brodie, On modelling behavioural semantics of databases, Proceedings of the seventh international conference on Very Large Data Bases, p.32-42, September 09-11, 1981, Cannes, France
+Tei-Wei Kuo , Yuan-Ting Kao , Chin-Fu Kuo, Two-Version Based Concurrency Control and Recovery in Real-Time Client/Server Databases, IEEE Transactions on Computers, v.52 n.4, p.506-524, April 2003
+F. Bukhari , S. L. Osborn, Two Fully Distributed Concurrency Control Algorithms, IEEE Transactions on Knowledge and Data Engineering, v.5 n.5, p.872-881, October 1993
+Christos H. Papadimitriou , Paris C. Kanellakis, On concurrency control by multiple versions, Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database systems, March 29-31, 1982, Los Angeles, California
+Mukul K Sinha, Constraints: consistency and integrity, ACM SIGMOD Record, v.13 n.2, p.60-63, January 1983
+T. Ibaraki , Tiko Kameda , Naoki Katoh, Multiversion Cautious Schedulers for Database Concurrency Control, IEEE Transactions on Software Engineering, v.16 n.3, p.302-315, March 1990
+Joachim W. Schmidt, Parallel processing of relations: a single-assignment approach, Proceedings of the fifth international conference on Very Large Data Bases, p.398-408, October 03-05, 1979, Rio de Janeiro, Brazil
+Albert Burger , Vijay Kumar, Performance of multiversion concurrency control mechanism in partitioned and partially replicated databases, Proceedings of the 1992 ACM annual conference on Communications, p.189-195, March 03-05, 1992, Kansas City, Missouri, USA
+Rudolf Bayer , Klaus Elhardt , Hans Heller , Angelika Reiser, Distributed concurrency control in database systems, Proceedings of the sixth international conference on Very Large Data Bases, p.275-284, October 01-03, 1980, Montreal, Quebec, Canada
+C. Pu , C. H. Hong , J. M. Wha, Performance evaluation of global reading of entire databases, Proceedings of the first international symposium on Databases in parallel and distributed systems, p.167-176, December 05-07, 1988, Austin, Texas, United States
+Christos H. Papadimitriou , Paris C. Kanellakis, On Concurrency Control by Multiple Versions, ACM Transactions on Database Systems (TODS), v.9 n.1, p.89-99, March 1984
+Bharat Bhargava , Leszek Lilien, Feature analysis of selected database recovery techniques, Proceedings of the May 4-7, 1981, national computer conference, May 04-07, 1981, Chicago, Illinois
+Thanasis Hadzilacos , Mihalis Yannakakis, Deleting completed transactions, Proceedings of the fifth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.43-46, March 24-26, 1986, Cambridge, Massachusetts, USA
+Arvola Chan , Stephen Fox , Wen-Te K. Lin , Anil Nori , Daniel R. Ries, The implementation of an integrated concurrency control and recovery scheme, Proceedings of the 1982 ACM SIGMOD international conference on Management of data, June 02-04, 1982, Orlando, Florida
+Rudolf Bayer, Consistency of transactions and random batch, ACM Transactions on Database Systems (TODS), v.11 n.4, p.397-404, Dec. 1986
+Michael J. Carey, Granularity hierarchies in concurrency control, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia
+Meichun Hsu , Stuart E. Madnick, Hierarchical database decomposition: a technique for database concurrency control, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia
+Arif Merchant , Kun-Lung Wu , Philip S. Yu , Ming-Syan Chen, Performance analysis of dynamic finite versioning for concurrent transaction and query processing, ACM SIGMETRICS Performance Evaluation Review, v.20 n.1, p.103-114, June 1992
+Haran Boral , Israel Gold, Towards a self-adapting centralized concurrency control algorithm, ACM SIGMOD Record, v.14 n.2, June 1984
+Philip A. Bernstein , Nathan Goodman, Multiversion concurrency control—theory and algorithms, ACM Transactions on Database Systems (TODS), v.8 n.4, p.465-483, Dec. 1983
+C. Mohan , Hamid Pirahesh , Raymond Lorie, Efficient and flexible methods for transient versioning of records to avoid locking by read-only transactions, ACM SIGMOD Record, v.21 n.2, p.124-133, June 1, 1992
+I. Widya , T. G. R. van Leuken , P. van der Wolf, Concurrency control in a VLSI design database, Proceedings of the 25th ACM/IEEE Design Automation Conference, p.357-362, June 12-15, 1988, Atlantic City, New Jersey, USA
+Catriel Beeri , Philip A. Bernstein , Nathan Goodman, A model for concurrency in nested transactions systems, Journal of the ACM (JACM), v.36 n.2, p.230-269, April 1989
+Calton Pu, On-the-fly, incremental, consistent reading of entire databases, Proceedings of the 11th international conference on Very Large Data Bases, p.369-375, August 21-23, 1985, Stockholm, Sweden
+Ugur Halici , Asuman Dogac, Concurrency control for distributed multiversion databases through time intervals, Proceedings of the 19th annual conference on Computer Science, p.365-374, April 1991, San Antonio, Texas, USA
+Richard E. Stearns , Daniel J. Rosenkrantz, Distributed database concurrency controls using before-values, Proceedings of the 1981 ACM SIGMOD international conference on Management of data, April 29-May 01, 1981, Ann Arbor, Michigan
+Michael J. Carey , Waleed A. Muhanna, The performance of multiversion concurrency control algorithms, ACM Transactions on Computer Systems (TOCS), v.4 n.4, p.338-378, Nov. 1986
+Philip A. Bernstein , Nathan Goodman, Concurrency control algorithms for multiversion database systems, Proceedings of the first ACM SIGACT-SIGOPS symposium on Principles of distributed computing, p.209-215, August 18-20, 1982, Ottawa, Canada
+S. Pilarski , T. Kameda, Checkpointing for Distributed Databases: Starting from the Basics, IEEE Transactions on Parallel and Distributed Systems, v.3 n.5, p.602-610, September 1992
+C. Beeri , P. A. Bernstein , N. Goodman , M. Y. Lai , D. E. Shasha, A concurrency control theory for nested transactions (Preliminary Report), Proceedings of the second annual ACM symposium on Principles of distributed computing, p.45-62, August 17-19, 1983, Montreal, Quebec, Canada
+Klaus Elhardt , Rudolf Bayer, A database cache for high performance and fast restart in database systems, ACM Transactions on Database Systems (TODS), v.9 n.4, p.503-525, Dec. 1984
+Peter Peinl , Andreas Reuter, Empirical Comparison of Database Concurrency Schemes, Proceedings of the 9th International Conference on Very Large Data Bases, p.97-108, October 31-November 02, 1983
+Michael J. Carey, An abstract model of database concurrency control algorithms, ACM SIGMOD Record, v.13 n.4, May 1983
+Xiaoying Liu , John A. Miller , Nilesh R. Parate, Transaction management for object-oriented databases: performance advantages of using multiple versions, Proceedings of the 25th annual symposium on Simulation, p.222-231, April 1992, Orlando, Florida, United States
+Klaus R. Dittrich , Raymond A. Lorie, Version Support for Engineering Database Systems, IEEE Transactions on Software Engineering, v.14 n.4, p.429-437, April 1988
+Abdel Aziz Farrag , M. Tamer Özsu, Using semantic knowledge of transactions to increase concurrency, ACM Transactions on Database Systems (TODS), v.14 n.4, p.503-525, Dec. 1989
+Shih-Hao Hung , Jeng-Peng Shieh , Chen-Pang Lee, Migrating Android Applications to the Cloud, International Journal of Grid and High Performance Computing, v.3 n.2, p.14-28, April 2011
+Paul Ammann , Sushil Jajodia , Padmaja Mavuluri, On-The-Fly Reading of Entire Databases, IEEE Transactions on Knowledge and Data Engineering, v.7 n.5, p.834-838, October 1995
+H. V. Jagadish , Oded Shmueli, Proclamation-Based Model for Cooperating Transactions, Proceedings of the 18th International Conference on Very Large Data Bases, p.265-276, August 23-27, 1992
+Peng Liu , Jie Li , Sushil Jajodia , Paul Ammann, Can-Follow Concurrency Control, IEEE Transactions on Computers, v.56 n.10, p.1425-1430, October 2007
+Peter Dadam , Vincent Y. Lum , H.-D. Werner, Integration of Time Versions into a Relational Database System, Proceedings of the 10th International Conference on Very Large Data Bases, p.509-522, August 27-31, 1984
+Werner Kießling , G. Landherr, A Quantitative Comparison of Lockprotocols for Centralized Databases, Proceedings of the 9th International Conference on Very Large Data Bases, p.120-130, October 31-November 02, 1983
+Jerre D. Noe , David B. Wagner, Measured Performance of Time Interval Concurrency Control Techniques, Proceedings of the 13th International Conference on Very Large Data Bases, p.359-367, September 01-04, 1987
+Subhash Bhalla , Stuart E. Madnick, Parallel on-the-fly reading of an entire database copy, Practical parallel computing, Nova Science Publishers, Inc., Commack, NY, 2001
+Michael J. Carey , Michael Stonebraker, The Performance of Concurrency Control Algorithms for Database Management Systems, Proceedings of the 10th International Conference on Very Large Data Bases, p.107-118, August 27-31, 1984
+Werner Kießling , G. Landherr, A Quantitative Comparison of Lockprotocols for Centralized Databases, Proceedings of the 9th International Conference on Very Large Data Bases, p.120-130, October 31-November 02, 1983
+Rajeev Rastogi , S. Seshadri , Philip Bohannon , Dennis Leinbaugh , Avi Silberschatz , S. Sudarshan, Improving Predictability of Transaction Execution Timesin Real-time Databases, Real-Time Systems, v.19 n.3, p.283-302, Nov. 2000
+Paul M. Bober , Michael J. Carey, Indexing for Multiversion Locking: Alternatives and Performance Evaluation, IEEE Transactions on Knowledge and Data Engineering, v.9 n.1, p.68-84, January 1997
+Subhash Bhalla , Stuart E. Madnick, Asynchronous Backup and Initialization of a Database Server for Replicated Database Systems, The Journal of Supercomputing, v.27 n.1, p.69-89, January 2004
+Shalab Goel , Bharat K. Bhargava , Sanjay Kumar Madria, An Adaptable Constrained Locking Protocol for High Data Contention Environments, Proceedings of the Sixth International Conference on Database Systems for Advanced Applications, p.321-328, April 19-21, 1999
+Philip A. Bernstein , Nathan Goodman, A Sophisticate's Introduction to Distributed Concurrency Control (Invited Paper), Proceedings of the 8th International Conference on Very Large Data Bases, p.62-76, September 08-10, 1982
+Gerhard Weikum, Principles and realization strategies of multilevel transaction management, ACM Transactions on Database Systems (TODS), v.16 n.1, p.132-180, March 1991
+Dallan Quass , Jennifer Widom, On-line warehouse view maintenance, ACM SIGMOD Record, v.26 n.2, p.393-404, June 1997
+D. Agrawal , A. El Abbadi , R. Jeffers, Using delayed commitment in locking protocols for real-time databases, ACM SIGMOD Record, v.21 n.2, p.104-113, June 1, 1992
+Philip A. Bernstein , Nathan Goodman, Concurrency Control in Distributed Database Systems, ACM Computing Surveys (CSUR), v.13 n.2, p.185-221, June 1981
+Abraham Silberschatz, A multi-version concurrency scheme with no rollbacks, Proceedings of the first ACM SIGACT-SIGOPS symposium on Principles of distributed computing, p.216-223, August 18-20, 1982, Ottawa, Canada
+D. Agrawal , A. El Abbadi , R. Jeffers, An approach to eliminate transaction blocking in locking protocols, Proceedings of the eleventh ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.223-235, June 02-05, 1992, San Diego, California, United States
+Andreas Reuter, Concurrency on high-traffic data elements, Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database systems, March 29-31, 1982, Los Angeles, California
+Arif Merchant , Kun-Lung Wu , Philip S. Yu , Ming-Syan Chen, Performance Analysis of Dynamic Finite Versioning Schemes: Storage Cost vs. Obsolescence, IEEE Transactions on Knowledge and Data Engineering, v.8 n.6, p.985-1001, December 1996
+Divyakant Agrawal , Amr El Abbadi , Richard Jeffers , Lijing Lin, Ordered shared locks for real-time databases, The VLDB Journal — The International Journal on Very Large Data Bases, v.4 n.1, p.87-126, January 1995
+Gerhard Weikum , Gottfried Vossen, Transactional Information Systems: Theory, Algorithms, and the Practice of Concurrency Control and Recovery, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2001

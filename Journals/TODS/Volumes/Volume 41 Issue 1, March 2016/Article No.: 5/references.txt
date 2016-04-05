@@ -1,0 +1,78 @@
+Arvind Arasu, Venkatesh Ganti, and Raghav Kaushik. 2006. Efficient exact set-similarity joins. In VLDB.
+V. L. Arlazarov, E. A. Dinic, M. A. Kronrod, and I. A. Faradžev. 1970. On economical construction of the transitive closure of a directed graph. Soviet Math.—Doklady 11, 5 (1970), 1209--1210.
+Ricardo A. Baeza-Yates, Carlos A. Hurtado, and Marcelo Mendoza. 2007. Improving search engines by query clustering. JASIST 58, 12 (2007), 1793--1804.
+Ziv Bar-Yossef and Naama Kraus. 2011. Context-sensitive query auto-completion. In WWW. 107--116.
+Hannah Bast and Björn Buchhold. 2013. An index for efficient semantic full-text search. In CIKM. 369--378.
+Hannah Bast and Marjan Celikik. 2013. Efficient fuzzy search in large text collections. ACM Trans. Inf. Syst. 31, 2 (2013), 10.
+Holger Bast, Debapriyo Majumdar, and Ingmar Weber. 2007. Efficient interactive query expansion with complete search. In CIKM. 857--860.
+Holger Bast and Ingmar Weber. 2006. Type less, find more: Fast autocompletion search with a succinct index. In SIGIR.
+Roberto J. Bayardo, Yiming Ma, and Ramakrishnan Srikant. 2007. Scaling up all pairs similarity search. In WWW.
+Sumit Bhatia, Debapriyo Majumdar, and Prasenjit Mitra. 2011. Query suggestions in the absence of query logs. In SIGIR. ACM, 795--804.
+Leonid Boytsov. 2011. Indexing methods for approximate dictionary searching: Comparative analysis. ACM J. Exper. Algorithmics 16, 1 (2011), 1.1--1.91.
+Eric Brill and Robert C. Moore. 2000. An improved error model for noisy channel spelling correction. In ACL.
+Andrei Z. Broder, Peter Ciccolo, Evgeniy Gabrilovich, Vanja Josifovski, Donald Metzler, Lance Riedel, and Jeffrey Yuan. 2009. Online expansion of rare queries for sponsored search. In WWW.
+Inci Cetindil, Jamshid Esmaelnezhad, Taewoo Kim, and Chen Li. 2014. Efficient instant-fuzzy search with proximity ranking. In ICDE.
+Surajit Chaudhuri, Venkatesh Ganti, and Raghav Kaushik. 2006. A primitive operator for similarity joins in data cleaning. In ICDE.
+Surajit Chaudhuri and Raghav Kaushik. 2009. Extending autocompletion to tolerate errors. In SIGMOD.
+Silviu Cucerzan and Eric Brill. 2004. Spelling correction as an iterative process that exploits the collective knowledge of web users. In EMNLP. 293--300.
+Dong Deng, Guoliang Li, and Jianhua Feng. 2014. A pivotal prefix based filtering algorithm for string similarity search. In SIGMOD. 673--684.
+Dong Deng, Guoliang Li, Jianhua Feng, and Wen-Syan Li. 2013. Top-K string similarity search with edit-distance constraints. In ICDE.
+Huizhong Duan and Bo-June (Paul) Hsu. 2011. Online spelling correction for query completion. In WWW. 117--126.
+Jianhua Feng, Jiannan Wang, and Guoliang Li. 2012. Trie-join: A trie-based method for efficient string similarity joins. VLDB J. 21, 4 (2012), 437--461.
+Luis Gravano, Panagiotis G. Ipeirotis, H. V. Jagadish, Nick Koudas, S. Muthukrishnan, and Divesh Srivastava. 2001. Approximate string joins in a database (almost) for free. In VLDB.
+David Hawking and Kathy Griffiths. 2013. An enterprise search paradigm based on extended query auto-completion. Do we still need search and navigation?. In ADCS.
+Qi He, Daxin Jiang, Zhen Liao, Steven C. H. Hoi, Kuiyu Chang, Ee-Peng Lim, and Hang Li. 2009. Web query recommendation via sequential query prediction. In ICDE. 1443--1454.
+Bo-June (Paul) Hsu and Giuseppe Ottaviano. 2013. Space-efficient data structures for top-k completion. In WWW. 583--594.
+Heikki Hyyrö. 2008. Improving the bit-parallel NFA of Baeza-Yates and Navarro for approximate string matching. Inf. Process. Lett. 108, 5 (2008), 313--319.
+Shengyue Ji, Guoliang Li, Chen Li, and Jianhua Feng. 2009. Efficient interactive fuzzy keyword search. In WWW. 371--380.
+Chen Li, Jiaheng Lu, and Yiming Lu. 2008. Efficient merging and filtering algorithms for approximate string searches. In ICDE.
+Chen Li, Bin Wang, and Xiaochun Yang. 2007. VGRAM: Improving performance of approximate queries on string collections using variable-length grams. In VLDB.
+Guoliang Li, Dong Deng, Jiannan Wang, and Jianhua Feng. 2011. PASS-JOIN: A partition-based method for similarity joins. PVLDB 5, 3 (2011), 253--264.
+Guoliang Li, Jianhua Feng, and Jing Xu. 2012b. DESKS: Direction-aware spatial keyword search. In ICDE. 474--485.
+Guoliang Li, Shengyue Ji, Chen Li, and Jianhua Feng. 2009. Efficient type-ahead search on relational data: A TASTIER approach. In SIGMOD. 695--706.
+Guoliang Li, Shengyue Ji, Chen Li, and Jianhua Feng. 2011. Efficient fuzzy full-text type-ahead search. VLDB J. 20, 4 (2011), 617--640.
+Guoliang Li, Jiannan Wang, Chen Li, and Jianhua Feng. 2012. Supporting efficient top-k queries in type-ahead search. In SIGIR.
+Yanen Li, Huizhong Duan, and ChengXiang Zhai. 2012a. CloudSpeller: Query spelling correction by using a unified hidden markov model with web-scale resources. In WWW (Companion Volume). 561--562.
+Yinan Li, Jignesh M. Patel, and Allison Terrell. 2012. WHAM: A high-throughput sequence alignment method. ACM Trans. Database Syst. 37, 4 (2012), 28.
+William J. Masek and Mike Paterson. 1980. A faster algorithm computing string edit distances. J. Comput. Syst. Sci. 20, 1 (1980), 18--31.
+Stoyan Mihov and Klaus U. Schulz. 2004. Fast approximate search in large dictionaries. Comput. Linguistics 30, 4 (2004), 451--477.
+Petar Mitankin, Stoyan Mihov, and Klaus U. Schulz. 2011. Deciding word neighborhood with universal neighborhood automata. Theor. Comput. Sci. 412, 22 (2011), 2340--2355.
+Gene Myers. 1999. A fast bit-vector algorithm for approximate string matching based on dynamic programming. J. ACM 46, 3 (1999), 395--415.
+Arnab Nandi and H. V. Jagadish. 2007a. Assisted querying using instant-response interfaces. In SIGMOD.
+Arnab Nandi and H. V. Jagadish. 2007b. Effective phrase prediction. In VLDB. 219--230.
+Gonzalo Navarro. 1997. A partial deterministic automaton for approximate string matching. In WSP’. 112--124.
+Gonzalo Navarro. 2001a. A guided tour to approximate string matching. ACM Comput. Surv. 33, 1 (2001), 31--88.
+Gonzalo Navarro. 2001b. NR-grep: A fast and flexible pattern-matching tool. Softw. Pract. Exper. 31, 13 (2001), 1265--1312.
+Saul B. Needleman and Christian D. Wunsch. 1970. A general method applicable to the search for similarities in the amino acid sequence of two proteins. J. Mol. Biol. 48, 3 (1970), 443--453.
+Greg Pass, Abdur Chowdhury, and Cayley Torgeson. 2006. A picture of search. In Infoscale. 1.
+Jianbin Qin, Wei Wang, Yifei Lu, Chuan Xiao, and Xuemin Lin. 2011. Efficient exact edit similarity query processing with the asymmetric signature scheme. In SIGMOD. 1033--1044.
+Jianbin Qin, Wei Wang, Chuan Xiao, Yifei Lu, Xuemin Lin, and Haixun Wang. 2013. Asymmetric signature schemes for efficient exact edit similarity query processing. ACM Trans. Database Syst. 38, 3 (2013), 16.
+Senjuti Basu Roy and Kaushik Chakrabarti. 2011. Location-aware type ahead search on spatial databases: Semantics and efficiency. In SIGMOD. 361--372.
+Eldar Sadikov, Jayant Madhavan, Lu Wang, and Alon Y. Halevy. 2010. Clustering query refinements by user intent. In WWW. 841--850.
+Sunita Sarawagi and Alok Kirpal. 2004. Efficient set joins on similarity predicates. In SIGMOD.
+Klaus U. Schulz and Stoyan Mihov. 2002. Fast string correction with Levenshtein automata. IJDAR 5, 1 (2002), 67--85.
+Peter H. Sellers. 1974. On the theory and computation of evolutionary distances. SIAM J. Appl. Math. 26, 4 (1974), 787--793.
+Christian Sengstock and Michael Gertz. 2011. CONQUER: A system for efficient context-aware query suggestions. In WWW.
+Milad Shokouhi. 2013. Learning to personalize query auto-completion. In SIGIR. 103--112.
+Milad Shokouhi and Kira Radinsky. 2012. Time-sensitive query auto-completion. In SIGIR. 601--610.
+B. Stiller, T. Bocek, and E. Hunt. 2007. Fast Similarity Search in Large Dictionaries. Technical Report ifi-2007.02. Department of Informatics, University of Zurich.
+Sarah K. Tyler and Jaime Teevan. 2010. Large scale query log analysis of re-finding. In WSDM. 191--200.
+Esko Ukkonen. 1985a. Algorithms for approximate string matching. Inf. Control 64, 1--3 (1985), 100--118.
+Esko Ukkonen. 1985b. Finding approximate patterns in strings. J. Algorithms 6, 1 (1985), 132--137.
+T. K. Vintsyuk. 1968. Speech discrimination by dynamic programming. Cybernetics 4, 1 (1968), 52--57. Russian Kibernetika 4, 1, (1968), 81--88.
+Robert A. Wagner and Michael J. Fischer. 1974. The string-to-string correction problem. J. ACM 21, 1 (Jan. 1974), 168--173.
+Jin Wang, Guoliang Li, Dong Deng, Yong Zhang, and Jianhua Feng. 2015. Two birds with one stone: An efficient hierarchical framework for top-k and threshold-based string similarity search. In ICDE. 519--530.
+Jiannan Wang, Guoliang Li, and Jianhua Feng. 2012. Can we beat the prefix filtering? An adaptive framework for similarity join and search. In SIGMOD. ACM, 85--96.
+Wei Wang, Jianbin Qin, Chuan Xiao, Xuemin Lin, and Heng Tao Shen. 2013. VChunkJoin: An efficient algorithm for edit similarity joins. IEEE Trans. Knowl. Data Eng. 25, 8 (2013), 1916--1929.
+Wei Wang, Chuan Xiao, Xuemin Lin, and Chengqi Zhang. 2009. Efficient approximate entity extraction with edit constraints. In SIMGOD. 759--770.
+Xiaoli Wang, Xiaofeng Ding, Anthony K. H. Tung, and Zhenjie Zhang. 2013. Efficient and effective KNN sequence search with approximate n-grams. PVLDB 7, 1 (2013), 1--12.
+Ryen W. White and Gary Marchionini. 2007. Examining the effectiveness of real-time query expansion. Inf. Process. Manage. 43, 3 (2007), 685--704.
+Chuan Xiao, Jianbin Qin, Wei Wang, Yoshiharu Ishikawa, Koji Tsuda, and Kunihiko Sadakane. 2013. Efficient error-tolerant query autocompletion. PVLDB 6, 6 (2013), 373--384.
+Chuan Xiao, Wei Wang, and Xuemin Lin. 2008a. Ed-Join: An efficient algorithm for similarity joins with edit distance constraints. PVLDB 1, 1 (2008), 933--944.
+Chuan Xiao, Wei Wang, Xuemin Lin, and Jeffrey Xu Yu. 2008b. Efficient similarity joins for near duplicate detection. In WWW. 131--140.
+Xiaochun Yang, Bin Wang, and Chen Li. 2008. Cost-based variable-length-gram selection for string collections to support approximate queries efficiently. In SIGMOD. ACM, 353--364.
+Xiaochun Yang, Yaoshu Wang, Bin Wang, and Wei Wang. 2015. Local filtering: Improving the performance of approximate queries on string collections. In SIGMOD. 377--392.
+Xiaoyang Zhang, Jianbin Qin, Wei Wang, Yifang Sun, and Jiaheng Lu. 2013. HmSearch: An efficient hamming distance query processing algorithm. In SSDBM. 19:1--19:12.
+Zhenjie Zhang, Marios Hadjieleftheriou, Beng Chin Ooi, and Divesh Srivastava. 2010. Bed-tree: An all-purpose index structure for string similarity search based on edit distance. In SIGMOD. ACM, 915--926.
+Yuxin Zheng, Zhifeng Bao, Lidan Shou, and Anthony K. H. Tung. 2014. MESA: A map service to support fuzzy type-ahead search over geo-textual data. PVLDB 7, 13 (2014), 1545--1548.
+Ruicheng Zhong, Ju Fan, Guoliang Li, Kian-Lee Tan, and Lizhu Zhou. 2012. Location-aware instant search. In CIKM. 385--394.

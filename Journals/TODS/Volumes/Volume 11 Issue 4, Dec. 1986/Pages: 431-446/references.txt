@@ -1,0 +1,22 @@
+R. Bayer , H. Heller , A. Reiser, Parallelism and recovery in database systems, ACM Transactions on Database Systems (TODS), v.5 n.2, p.139-156, June 1980[doi>10.1145/320141.320146]
+Philip A. Bernstein , Nathan Goodman, Concurrency Control in Distributed Database Systems, ACM Computing Surveys (CSUR), v.13 n.2, p.185-221, June 1981[doi>10.1145/356842.356846]
+Philip A. Bernstein , Nathan Goodman, Multiversion concurrency control—theory and algorithms, ACM Transactions on Database Systems (TODS), v.8 n.4, p.465-483, Dec. 1983[doi>10.1145/319996.319998]
+Philip A. Bernstein , David W. Shipman , James B. Rothnie, Jr., Concurrency control in a system for distributed databases (SDD-1), ACM Transactions on Database Systems (TODS), v.5 n.1, p.18-51, March 1980[doi>10.1145/320128.320131]
+Michael J. Carey , Waleed A. Muhanna, The performance of multiversion concurrency control algorithms, ACM Transactions on Computer Systems (TOCS), v.4 n.4, p.338-378, Nov. 1986[doi>10.1145/6513.6517]
+CHAN, A., AND GRAY, R. Implementing distributed read-only transactions. IEEE Trans. Softw. Eng. SE-I I, 2 (Feb. 1985), 205-212.
+CHAN, A., DAYAL, U., AND HSU, M. Providing database management capabilities for mission critical applications. Presented at the International Workshop on High Performance Transaction Systems (Asilomar, Calif., Sept. 23-25, 1985), ACM, New York, 1985.
+Arvola Chan , Stephen Fox , Wen-Te K. Lin , Anil Nori , Daniel R. Ries, The implementation of an integrated concurrency control and recovery scheme, Proceedings of the 1982 ACM SIGMOD international conference on Management of data, June 02-04, 1982, Orlando, Florida[doi>10.1145/582353.582386]
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+Hector Garcia-Molina , Gio Wiederhold, Read-only transactions in a distributed database, ACM Transactions on Database Systems (TODS), v.7 n.2, p.209-234, June 1982[doi>10.1145/319702.319704]
+Jim Gray, Notes on Data Base Operating Systems, Operating Systems, An Advanced Course, p.393-481, January 1978
+HARDER, T., AND PETRY, E. Evaluation of a multiple version scheme for concurrency control. Tech. Rep. 156/86. Dept. of Computer Science, Univ. Kaiserslautern, West Germany, Jan. 1986.
+Hsu, M. The hierarchical database decomposition approach to database concurrency control. Ph.D. thesis, M.I.T. Sloan School, Cambridge, Mass., Oct. 1983.
+Meichun Hsu , Stuart E. Madnick, Hierarchical database decomposition: a technique for database concurrency control, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia[doi>10.1145/588058.588081]
+KEDEM, Z., AND SILBERSCHATZ, A. Non-two-phase locking protocols with shared and exclusive locks. In Proceedings of VLDB. (Montreal, Oct. 1-3, 1980), VLDB Endowment, 1980, pp. 309-317.
+Zvi M. Kedem , Abraham Silberschatz, Locking Protocols: From Exclusive to Shared Locks, Journal of the ACM (JACM), v.30 n.4, p.787-804, Oct. 1983[doi>10.1145/2157.322406]
+H. T. Kung , C. H. Papadimitriou, An optimality theory of concurrency control for databases, Proceedings of the 1979 ACM SIGMOD international conference on Management of data, May 30-June 01, 1979, Boston, Massachusetts[doi>10.1145/582095.582114]
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+Christos H. Papadimitriou , Paris C. Kanellakis, On Concurrency Control by Multiple Versions, ACM Transactions on Database Systems (TODS), v.9 n.1, p.89-99, March 1984[doi>10.1145/348.318588]
+Abraham Silberschatz , Zvi Kedem, Consistency in Hierarchical Database Systems, Journal of the ACM (JACM), v.27 n.1, p.72-80, Jan. 1980[doi>10.1145/322169.322176]
+SILBERSCHATZ, A., AND KEDEM, Z. A family of locking protocols for database systems that are modeled by directed graphs. IEEE Trans. Softw. Eng. 8, 6 (Nov. 1982), 558-562.
+Richard E. Stearns , Daniel J. Rosenkrantz, Distributed database concurrency controls using before-values, Proceedings of the 1981 ACM SIGMOD international conference on Management of data, April 29-May 01, 1981, Ann Arbor, Michigan[doi>10.1145/582318.582330]

@@ -1,0 +1,55 @@
+Dale Skeen, Determining the last process to fail, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia
+Dale Skeen, Determining the last process to fail, ACM Transactions on Computer Systems (TOCS), v.3 n.1, p.15-30, Feb. 1985
+Marek Rusinkiewicz , Dimitrios Georgakopoulos, REQUEST II — a distributed database system for local area networks, Proceedings of 1986 ACM Fall joint computer conference, p.1179-1188, November 1986, Dallas, Texas, USA
+Jung K. Kim , Geneva G. Belford, A protocol for failure and recovery detection to support partitioned operation in distributed database systems, Proceedings of 1986 ACM Fall joint computer conference, p.1189-1196, November 1986, Dallas, Texas, United States
+B Walter, A turnable protocol for symmetric surveillance in distributed systems, ACM SIGCOMM Computer Communication Review, v.16 n.3, p.368-376, Aug. 5, 1986
+C. P. Wang , V. O. K. Li, The precedence-assignment model for distributed databases concurrency control algorithms, Proceedings of the sixth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.119-128, March 23-25, 1987, San Diego, California, United States
+Sushil V. Pillai , Ramanatham Gudipati , Leszek Lilien, Design issues and an architecture for a heterogenous multidatabase system, Proceedings of the 15th annual conference on Computer Science, p.74-79, February 1987, St. Louis, Missouri, United States
+P. Krishna Reddy , Masaru Kitsuregawa, Blocking Reduction in Two-phase Commit Protocol with Multiple Backup Sites, Proceedings of the International Workshop on Databases in Networked Information Systems, p.200-215, December 04-06, 2000
+Eric C. Cooper, Analysis of distributed commit protocols, Proceedings of the 1982 ACM SIGMOD international conference on Management of data, June 02-04, 1982, Orlando, Florida
+Herbert Kuss, Logical design of a reliable transaction management in a distributed multiple processor system, Proceedings of the 1983 ACM SIGSMALL symposium on Personal and small computers, p.109-116, December 07-09, 1983, San Diego, California, USA
+P. Krishna Reddy , Masaru Kitsuregawa, Reducing the blocking in two-phase commit with backup sites, Information Processing Letters, v.86 n.1, p.39-47, 15 April 2003
+S. H. Son, An Adaptive Checkpointing Scheme for Distributed Databases with Mixed Types of Transactions, IEEE Transactions on Knowledge and Data Engineering, v.1 n.4, p.450-458, December 1989
+Herbert Kuss, On totally ordering checkpoints in distributed data bases, Proceedings of the 1982 ACM SIGMOD international conference on Management of data, June 02-04, 1982, Orlando, Florida
+Vassos Hadzilacos, An operational model for database system reliability, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia
+S. H. Son , J. L. Pfaltz, Reliability mechanisms for ADAMS, Proceedings of the third conference on Hypercube concurrent computers and applications, p.1390-1397, January 1989, Pasadena, California, United States
+C. Mohan , B. Lindsay, Efficient commit protocols for the tree of processes model of distributed transactions, ACM SIGOPS Operating Systems Review, v.19 n.2, p.40-52, April 1985
+A. I. Kistijantoro , G. Morgan , S. K. Shrivastava, Transaction manager failover: a case study using JBOSS application server, Proceedings of the 2006 international conference on On the Move to Meaningful Internet Systems: AWeSOMe, CAMS, COMINF, IS, KSinBIT, MIOS-CIAO, MONET, October 29-November 03, 2006, Montpellier, France
+Michael L. Powell , David L. Presotto, Publishing: a reliable broadcast communication mechanism, ACM SIGOPS Operating Systems Review, v.17 n.5, p.100-109, October 1983
+Michael J. Fischer , Alan Michael, Sacrificing serializability to attain high availability of data in an unreliable network, Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database systems, March 29-31, 1982, Los Angeles, California
+C. Mohan , B. Lindsay, Efficient commit protocols for the tree of processes model of distributed transactions, Proceedings of the second annual ACM symposium on Principles of distributed computing, p.76-88, August 17-19, 1983, Montreal, Quebec, Canada
+Francis Chin , K. V. S. Ramarao, Optimal termination protocols for network partitioning, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia
+Sang Hyuk Son , Ashok K. Agrawala, Distributed Checkpointing for Globally Consistent States of Databases, IEEE Transactions on Software Engineering, v.15 n.10, p.1157-1167, October 1989
+Hector Garcia-Molina , Kenneth Salem, Sagas, ACM SIGMOD Record, v.16 n.3, p.249-259, Dec. 1987
+Philip A. Bernstein , Nathan Goodman, Timestamp-based algorithms for concurrency control in distributed database systems, Proceedings of the sixth international conference on Very Large Data Bases, p.285-300, October 01-03, 1980, Montreal, Quebec, Canada
+H. Breitwieser , M. Leszak, A distributed transaction processing protocol based on majority consensus, Proceedings of the first ACM SIGACT-SIGOPS symposium on Principles of distributed computing, p.224-237, August 18-20, 1982, Ottawa, Canada
+C. Mohan , R. Strong , S. Finkelstein, Method for distributed transaction commit and recovery using Byzantine Agreement within clusters of processors, ACM SIGOPS Operating Systems Review, v.19 n.3, p.29-43, July 1985
+C. Mohan , R. Strong , S. Finkelstein, Method for distributed transaction commit and recovery using Byzantine Agreement within clusters of processors, Proceedings of the second annual ACM symposium on Principles of distributed computing, p.89-103, August 17-19, 1983, Montreal, Quebec, Canada
+Mukesh Singhal, Issues and approaches to design of real-time database systems, ACM SIGMOD Record, v.17 n.1, p.19-33, March, 1988
+Pentti A. Honkanen, Concurrency control and integrity preservation for the `RIM' DBMS, ACM SIGMIS Database, v.15 n.3, p.34-39, Spring 1984
+Peter Triantafillou, Independent Recovery in Large-Scale Distributed Systems, IEEE Transactions on Software Engineering, v.22 n.11, p.812-826, November 1996
+Susan B. Davidson, Optimism and consistency in partitioned distributed database systems, ACM Transactions on Database Systems (TODS), v.9 n.3, p.456-481, Sept. 1984
+Maurice Herlihy, Comparing how atomicity mechanisms support replication, Proceedings of the fourth annual ACM symposium on Principles of distributed computing, p.102-110, August 1985, Minaki, Ontario, Canada
+Arvola Chan , Umeshwar Dayal , Stephen Fox , Nathan Goodman , Daniel R. Ries , Dale Skeen, Overview of an Ada compatible distributed database manager, ACM SIGMOD Record, v.13 n.4, May 1983
+Maurice Herlihy, Comparing how atomicity mechanisms support replication, ACM SIGOPS Operating Systems Review, v.20 n.3, p.31-39, July, 1986
+Philip A. Bernstein , Nathan Goodman, The failure and recovery problem for replicated databases, Proceedings of the second annual ACM symposium on Principles of distributed computing, p.114-122, August 17-19, 1983, Montreal, Quebec, Canada
+Jo-Mei Chang, Simplifying distributed database systems design by using a broadcast network, ACM SIGMOD Record, v.14 n.2, June 1984
+Derek L. Eager , Kenneth C. Sevcik, Achieving robustness in distributed database systems, ACM Transactions on Database Systems (TODS), v.8 n.3, p.354-381, Sept. 1983
+Philip A. Bernstein , Nathan Goodman , Eugene Wong , Christopher L. Reeve , James B. Rothnie, Jr., Query processing in a system for distributed databases (SDD-1), ACM Transactions on Database Systems (TODS), v.6 n.4, p.602-625, Dec. 1981
+D. Duchamp, Analysis of transaction management performance, ACM SIGOPS Operating Systems Review, v.23 n.5, p.177-190, Dec. 3–6, 1989
+C. Mohan , B. Lindsay , R. Obermarck, Transaction management in the R* distributed database management system, ACM Transactions on Database Systems (TODS), v.11 n.4, p.378-396, Dec. 1986
+Maurice Herlihy, Concurrency versus availability: atomicity mechanisms for replicated data, ACM Transactions on Computer Systems (TOCS), v.5 n.3, p.249-274, Aug. 1987
+Maurice Herlihy, A quorum-consensus replication method for abstract data types, ACM Transactions on Computer Systems (TOCS), v.4 n.1, p.32-53, Feb. 1986
+Yousef J. Al-Houmaily, Atomic commit protocols, their integration, and their optimisations in distributed database systems, International Journal of Intelligent Information and Database Systems, v.4 n.4, p.373-412, September 2010
+Maurice Herlihy, Dynamic quorum adjustment for partitioned data, ACM Transactions on Database Systems (TODS), v.12 n.2, p.170-194, June 1987
+Shamkant Navathe , Stefano Ceri , Gio Wiederhold , Jinglie Dou, Vertical partitioning algorithms for database design, ACM Transactions on Database Systems (TODS), v.9 n.4, p.680-710, Dec. 1984
+J. Baumann , F. Hohl , K. Rothermel , M. Straßer, Mole – Concepts of a mobile agent system, World Wide Web, v.1 n.3, p.123-137, 1998
+M. Herlihy, Concurrency and availability as dual properties of replicated atomic data, Journal of the ACM (JACM), v.37 n.2, p.257-278, April 1990
+Philip A. Bernstein , Nathan Goodman, An algorithm for concurrency control and recovery in replicated distributed databases, ACM Transactions on Database Systems (TODS), v.9 n.4, p.596-615, Dec. 1984
+Ramez Elmasri , Cory Devor , Said Rahimi, Notes on DDTS: an apparatus for experimental research in distributed database management systems, ACM SIGMOD Record, v.11 n.4, p.32-49, July 1981
+Daniel T. Lee, Decision support in a distributed environment, Proceedings of the July 9-12, 1984, national computer conference and exposition, July 09-12, 1984, Las Vegas, Nevada
+Susan B. Davidson , Hector Garcia-Molina , Dale Skeen, Consistency in a partitioned network: a survey, ACM Computing Surveys (CSUR), v.17 n.3, p.341-370, Sept. 1985
+Nathan Goodman , Dale Skeen , Arvola Chan , Umeshwar Dayal , Stephen Fox , Daniel Ries, A recovery algorithm for a distributed database system, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia
+Philip A. Bernstein , Nathan Goodman, A Sophisticate's Introduction to Distributed Concurrency Control (Invited Paper), Proceedings of the 8th International Conference on Very Large Data Bases, p.62-76, September 08-10, 1982
+Philip A. Bernstein , Nathan Goodman, Concurrency Control in Distributed Database Systems, ACM Computing Surveys (CSUR), v.13 n.2, p.185-221, June 1981
+Liba Svobodova, File servers for network-based distributed systems, ACM Computing Surveys (CSUR), v.16 n.4, p.353-398, Dec. 1984

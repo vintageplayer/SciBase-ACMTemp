@@ -1,0 +1,34 @@
+ANSI. 1992. Working draft of SQL2/SQL3. Tech. Rep., American National Standards Institute.
+Gautam Bhargava , Piyush Goel , Bala Iyer, Hypergraph based reorderings of outer join queries with complex predicates, Proceedings of the 1995 ACM SIGMOD international conference on Management of data, p.304-315, May 22-25, 1995, San Jose, California, United States[doi>10.1145/223784.223847]
+Arbee L. P. Chen, Outerjoin optimization in multidatabase systems, Proceedings of the second international symposium on Databases in parallel and distributed systems, p.211-218, July 02-04, 1990, Dublin, Ireland[doi>10.1145/319057.319101]
+E. F. Codd, Extending the database relational model to capture more meaning, ACM Transactions on Database Systems (TODS), v.4 n.4, p.397-434, Dec. 1979[doi>10.1145/320107.320109]
+C. J. Date, An introduction to database systems: vol. I (4th ed.), Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+Michael M. David, Advanced capabilities of the outer join, ACM SIGMOD Record, v.21 n.1, p.65-70, March 1992[doi>10.1145/130868.133746]
+Umeshwar Dayal, Processing queries with quantifiers a horticultural approach, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia[doi>10.1145/588058.588075]
+Umeshwar Dayal, Of Nests and Trees: A Unified Approach to Processing Queries That Contain Nested Subqueries, Aggregates, and Quantifiers, Proceedings of the 13th International Conference on Very Large Data Bases, p.197-208, September 01-04, 1987
+DAYAL, U. AND HWANG, H. 1984. View definition and generalization for database integration in a multidatabase system. IEEE Trans. Softw. Eng. 10, 6 (Nov.), 628-645.
+GALINDO-LEGARIA, C.A. 1987. Rule-based optimization of database queries. Master's thesis, CINVESTAV-IPN, Mexico City (Sept.). In Spanish.
+Cesar Alejandro Galindo-Legaria, Algebraic optimization of outerjoin queries, Harvard University, Cambridge, MA, 1992
+César A. Galindo-Legaria, Outerjoins as disjunctions, Proceedings of the 1994 ACM SIGMOD international conference on Management of data, p.348-358, May 24-27, 1994, Minneapolis, Minnesota, United States[doi>10.1145/191839.191908]
+César A. Galindo-Legaria , Arnon Rosenthal, How to Extend a Conventional Optimizer to Handle One- and Two-Sided Outerjoin, Proceedings of the Eighth International Conference on Data Engineering, p.402-409, February 03-07, 1992
+GRAEFE, G. 1990. Volcano, an extensible and parallel query evaluation system. Tech. Rep. CU-CS-481-90, Univ. of Colorado, Boulder.
+Goetz Graefe , David J. DeWitt, The EXODUS optimizer generator, Proceedings of the 1987 ACM SIGMOD international conference on Management of data, p.160-172, May 27-29, 1987, San Francisco, California, United States[doi>10.1145/38713.38734]
+L. M. Haas , W. Chang , G. M. Lohman , J. McPherson , P. F. Wilms , G. Lapis , B. Lindsay , H. Pirahesh , M. J. Carey , E. Shekita, Starburst Mid-Flight: As the Dust Clears, IEEE Transactions on Knowledge and Data Engineering, v.2 n.1, p.143-160, March 1990[doi>10.1109/69.50910]
+Won Kim, On optimizing an SQL-like nested query, ACM Transactions on Database Systems (TODS), v.7 n.3, p.443-469, Sept. 1982[doi>10.1145/319732.319745]
+M. Lacroix , A. Pirotte, Generalized joins, ACM SIGMOD Record, v.8 n.3, p.14-15, September 1976[doi>10.1145/984378.984379]
+B. S. Lee , G. Wiederhold, Outer Joins and Filters for Instantiating Objects from Relational Databases Through Views, IEEE Transactions on Knowledge and Data Engineering, v.6 n.1, p.108-119, February 1994[doi>10.1109/69.273031]
+Jim Melton , Alan R. Simon, Understanding the new SQL: a complete guide, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1993
+M. Muralikrishna, Optimization and dataflow algorithms for nested tree queries, Proceedings of the 15th international conference on Very large data bases, p.77-85, July 1989, Amsterdam, The Netherlands
+Kiyoshi Ono , Guy M. Lohman, Measuring the complexity of join enumeration in query optimization, Proceedings of the sixteenth international conference on Very large databases, p.314-325, September 1990, Brisbane, Australia
+Gultekin Özsoyoğlu , Victor Matos , Meral Özsoyoğlu, Query processing techniques in the summary-table-by-example database query language, ACM Transactions on Database Systems (TODS), v.14 n.4, p.526-573, Dec. 1989[doi>10.1145/76902.76906]
+Arnon Rosenthal , Cesar Galindo-Legaria, Query graphs, implementing trees, and freely-reorderable outerjoins, Proceedings of the 1990 ACM SIGMOD international conference on Management of data, p.291-299, May 23-26, 1990, Atlantic City, New Jersey, United States[doi>10.1145/93597.98738]
+ROSENTHAL, A. AND HELMAN, P. 1986. Understanding and extending transformation-based optimizers. Database Eng. Bull. 9, 4 (Dec.), 44-51.
+M. A. Roth , H. F. Korth , A. Silberschatz, Null values in nested relational databases, Acta Informatica, v.26 n.7, p.615-642, Sep. 1989[doi>10.1007/BF00288974]
+Arnon Rosenthal , David S. Reiner, Extending the Algebraic Framework of Query Processing to Handle Outerjoins, Proceedings of the 10th International Conference on Very Large Data Bases, p.334-343, August 27-31, 1984
+P. Griffiths Selinger , M. M. Astrahan , D. D. Chamberlin , R. A. Lorie , T. G. Price, Access path selection in a relational database management system, Proceedings of the 1979 ACM SIGMOD international conference on Management of data, May 30-June 01, 1979, Boston, Massachusetts[doi>10.1145/582095.582099]
+SHETH, A. P. ED. 1991. ACM SIGMOD Record Special Issue on Semantic Issues in Multidatabase Systems. 20, 4 (Dec.).
+Amit P. Sheth , James A. Larson, Federated database systems for managing distributed, heterogeneous, and autonomous databases, ACM Computing Surveys (CSUR), v.22 n.3, p.183-236, Sept. 1990[doi>10.1145/96602.96604]
+Marc H. Scholl , H.-Bernhard Paul , Hans-Jörg Schek, Supporting Flat Relations by a Nested Relational Kernel, Proceedings of the 13th International Conference on Very Large Data Bases, p.137-146, September 01-04, 1987
+Y. C. Tay, On the optimality of strategies for multiple joins, Proceedings of the ninth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.124-131, April 02-04, 1990, Nashville, Tennessee, United States[doi>10.1145/298514.298550]
+Jeffrey D. Ullman, Principles of Database Systems, W. H. Freeman & Co., New York, NY, 1983
+Y. Richard Wang , Stuart E. Madnick, A polygon model for heterogeneous database systems: the source tagging perspective, Proceedings of the sixteenth international conference on Very large databases, p.519-533, September 1990, Brisbane, Australia

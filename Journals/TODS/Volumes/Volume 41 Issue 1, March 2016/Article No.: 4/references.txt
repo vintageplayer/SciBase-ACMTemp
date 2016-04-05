@@ -1,0 +1,40 @@
+Serge Abiteboul, Richard Hull, and Victor Vianu. 1995. Foundations of Databases. Addison-Wesley, Reading, MA.
+Serge Abiteboul, Paris Kanellakis, and Gösta Grahne. 1991. On the representation and querying of sets of possible worlds. Theor. Comput. Sci. 78, 1 (1991), 158--187.
+Vince Bárány, Balder ten Cate, and Martin Otto. 2012. Queries with guarded negation. Proc. VLDB 5, 11 (2012), 1328--1339.
+Paul Beame, Guy Van den Broeck, Eric Gribkoff, and Dan Suciu. 2015. Symmetric weighted first-order model counting. In Proc. PODS. 313--328.
+Andrew Carlson, Justin Betteridge, Bryan Kisiel, Burr Settles, Estevam Junior Hruschka, and Tom Mitchell. 2010. Toward an architecture for never-ending language learning. In AAAI.
+Nilesh Dalvi and Dan Suciu. 2004. Efficient query evaluation on probabilistic databases. In VLDB 864--875.
+Nilesh Dalvi and Dan Suciu. 2007a. Efficient query evaluation on probabilistic databases. VLDB J. 16, 4 (2007), 523--544.
+Nilesh Dalvi and Dan Suciu. 2007b. Management of probabilistic data: Foundations and challenges. In Proc. PODS. 1--12.
+Nilesh N. Dalvi and Dan Suciu. 2012. The dichotomy of probabilistic inference for unions of conjunctive queries. J. ACM 59, 6 (2012), 30.
+Guy Van den Broeck. 2011. On the completeness of first-order knowledge compilation for lifted probabilistic inference. In NIPS. 1386--1394.
+Xin Luna Dong, Evgeniy Gabrilovich, Geremy Heitz, Wilko Horn, Ni Lao, Kevin Murphy, Thomas Strohmann, Shaohua Sun, and Wei Zhang. 2014. Knowledge vault: A web-scale approach to probabilistic knowledge fusion. In SIGKDD. 601--610.
+Robert Fink, Larisa Han, and Dan Olteanu. 2012. Aggregation in probabilistic databases via knowledge compilation. Proc. VLDB 5, 5 (2012), 490--501.
+Robert Fink, Jiewen Huang, and Dan Olteanu. 2013. Anytime approximation in probabilistic databases. VLDB J. 22, 6 (2013), 823--848.
+Robert Fink and Dan Olteanu. 2014. A dichotomy for non-repeating queries with negation in probabilistic databases. In PODS. 144--155.
+Robert Fink, Dan Olteanu, and Swaroop Rath. 2011. Providing support for full relational algebra queries in probabilistic databases. In ICDE. 315--326.
+Erich Grädel, Yuri Gurevich, and Colin Hirsch. 1998. The complexity of query reliability. In Proc. PODS. 227--234.
+Todd J. Green, Grigoris Karvounarakis, and Val Tannen. 2007. Provenance semirings. In PODS. 31--40.
+Eric Gribkoff, Guy Van den Broeck, and Dan Suciu. 2014a. Understanding the complexity of lifted inference and asymmetric weighted model counting. In UAI. 280--289.
+Eric Gribkoff, Dan Suciu, and Guy Van den Broeck. 2014b. Lifted probabilistic inference: A guide for the database researcher. IEEE Data Eng. Bull. 37, 3 (2014), 6--17.
+M. Grohe, Y. Gurevich, D. Leinders, N. Schweikardt, J. Tyszkiewicz, and J. V. den Bussche. 2009. Database query processing using finite cursor machines. Theor. Comput. Syst. 44, 4 (2009), 533--560.
+Jiewen Huang, Lyublena Antova, Christoph Koch, and Dan Olteanu. 2009. MayBMS: A probabilistic database management system. In Proc. SIGMOD. 1071--1074.
+T. Imielinski and W. Lipski. 1984. Incomplete information in relational databases. J. ACM 31, 4 (1984), 761--791.
+Abhay Kumar Jha and Dan Suciu. 2012. On the tractability of query compilation and bounded treewidth. In Proc. ICDT. 249--261.
+Abhay Kumar Jha and Dan Suciu. 2013. Knowledge compilation meets database theory: Compiling queries to decision diagrams. Theor. Comput. Syst. 52, 3 (2013), 403--440.
+Sanjeev Khanna, Sudeepa Roy, and Val Tannen. 2011. Queries with difference on probabilistic databases. Proc. VLDB 4, 11 (2011), 1051--1062.
+Paraschos Koutris and Dan Suciu. 2011. Parallel evaluation of conjunctive queries. In Proc. PODS. 223--234.
+Dan Olteanu and Jiewen Huang. 2008. Using OBDDs for efficient query evaluation on probabilistic databases. In Proc. SUM. 326--340.
+Dan Olteanu and Jiewen Huang. 2009. Secondary-storage confidence computation for conjunctive queries with inequalities. In Proc. SIGMOD. 389--402.
+Dan Olteanu and Hongkai Wen. 2012. Ranking query answers in probabilistic databases: Complexity and efficient algorithms. In ICDE. 282--293.
+Dan Olteanu and Jakub Závodný. 2012. Factorised representations of query results: Size bounds and readability. In Proc. ICDT. 285--298.
+Dan Olteanu and Jakub Závodný. 2015. Size bounds for factorised representations of query results. ACM Trans. Database Syst. 40, 1 (2015), 2.
+J. Scott Provan and Michael O. Ball. 1983. The complexity of counting cuts and of computing the probability that a graph is connected. SIAM J. Comput. 12, 4 (1983), 777--788.
+Ralf Rantzau. 2004. Frequent itemset discovery with SQL using universal quantification. In Database Support Data Mining Appl. 194--213.
+Sudhir Rao, Antonio Badia, and Dirk Van Gucht. 1996. Providing better support for a class of decision support queries. In Proc. SIGMOD. 217--227.
+Christopher Ré and Dan Suciu. 2009. The trichotomy of HAVING queries on a probabilistic database. VLDB J. 18, 5 (2009), 1091--1116.
+Omer Reingold. 2008. Undirected connectivity in log-space. J. ACM 55, 4 (2008), 17.
+Dan Suciu, Dan Olteanu, Christopher Ré, and Christoph Koch. 2011. Probabilistic Databases. Morgan & Claypool Publishers.
+Leslie Valiant. 1979. The complexity of enumeration and reliability problems. SIAM J. Comput. 8 (1979), 410--421.
+Ting-You Wang, Christopher Ré, and Dan Suciu. 2008. Implementing NOT EXISTS predicates over a probabilistic database. In QDB/MUD. 73--86.
+Ingo Wegener. 2004. BDDs--design, analysis, complexity, and applications. Discrete Appl. Math. 138, 1--2 (2004), 229--251.

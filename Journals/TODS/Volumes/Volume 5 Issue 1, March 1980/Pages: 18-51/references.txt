@@ -1,0 +1,25 @@
+Peter A. Alsberg , John D. Day, A principle for resilient sharing of distributed resources, Proceedings of the 2nd international conference on Software engineering, p.562-570, October 13-15, 1976, San Francisco, California, USA
+ALSBERG, P.A., ET AL. Synchronization and deadlock. CAC Doc. 185, CCTC-WAD Doc. 6503, Center for Advanced Computation, U. of Illinois, Urbana, Ill., 1975.
+BF.RNSTEIN, P.A., AND GOODMAN, N. Approaches to concurrency control in distributed database systems. Proc. AFIPS 1979 NCC, Vol. 48, AFIPS Press, Arlington, Va., pp. 813-820.
+Philip A. Bernstein , David W. Shipman, The correctness of concurrency control mechanisms in a system for distributed databases (SDD-1), ACM Transactions on Database Systems (TODS), v.5 n.1, p.52-68, March 1980[doi>10.1145/320128.320133]
+BERNSTEIN, P,A., ROTHNIE, J.B., GOODMAN, N., AND PAPADIMITRIOU, C.H. The concurrency control mechanism of SDD-I: A system for distributed databases (the fully redundant case). IEEE Trans. Software Eng. SE-4, 3 (May 1978), 154-168.
+BERNSTEIN, P.A., SHIPMAN, D.W., AND WONG, W.S. Formal aspects of serializability in database concurrency control mechanisms. IEEE Trans. Software Eng. SE-5, 3 (May 1979), 203-215.
+CHAMBERLIN, D.D., BOYCE, R.F., AND TRAIGER, I.L. A deadlock-free scheme for resource locking in a database environment. Information Processing 74, North-Holland Pub. Co., Amsterdam, 1974, pp. 340-343.
+COMPUTER CORPORATION OF AMERICA. Datacomputer Version 5 User Manual, Cambridge, Mass., July 1978.
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+GOODMAN, N., BERNSTEIN, P.A., REEVE, C., ROTHNIE, J.B., AND WONG, E. Query processing in SDD-I: A system for distributed databases. Submitted for publication.
+GRAY, J.N,, LORIE, R.A., AND PUTZOLU, G.R. Granularity of locks and degrees of consistency in a shared database. Proc. Int. Conf. on Very Large Databases, ACM, N.Y., Sept. 1975, pp. 428-451.
+HAMMER, M.M., AND SHIPMAN, D.W. The reliability mechanisms in SDD-I: A system for distributed databases. Submitted for publication.
+KING, P.F., AND COLLMEYER, A.J. Database sharing--an efficient method for supporting concurrent processes. Proc. AFIPS 1973 NCC, Vol. 42, AFIPS Press, Arlington, Va., pp. 271-275.
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+Daniel A. Menasce , Gerald J. Popek , Richard R. Muntz, A locking protocol for resource coordination in distributed databases, ACM Transactions on Database Systems (TODS), v.5 n.2, p.103-138, June 1980[doi>10.1145/320141.320143]
+PAPADIMITRIOU, C.H., BERNSTEIN, P.A., AND I~OTHNIE, J.B. Some computational problems related to database concurrency control. Proc. Conf. on Theoretical Computer Science, U. of Waterloo, Waterloo, Ont., Canada, Aug. 1977, pp. 275-282.
+D. P. Reed, NAMING AND SYNCHRONIZATION IN A DECENTRALIZED COMPUTER SYSTEM, Massachusetts Institute of Technology, Cambridge, MA, 1978
+Daniel R. Ries , Michael Stonebraker, Effects of locking granularity in a database management system, ACM Transactions on Database Systems (TODS), v.2 n.3, p.233-246, Sept. 1977[doi>10.1145/320557.320566]
+Daniel J. Rosenkrantz , Richard E. Stearns , Philip M. Lewis, II, System level concurrency control for distributed database systems, ACM Transactions on Database Systems (TODS), v.3 n.2, p.178-198, June 1978[doi>10.1145/320251.320260]
+ROTHNIE, J.B., AND GOODMAN, N. An overview of the preliminary design of SDD-I: A system for distributed databases. Proc. 1977 Berkeley Workshop on Distributed Data Management and Computer Networks, Lawrence Berkeley Lab., U. of California, Berkeley Calif., May 1977, pp. 39- 57.
+J. B. Rothnie, Jr. , P. A. Bernstein , S. Fox , N. Goodman , M. Hammer , T. A. Landers , C. Reeve , D. W. Shipman , E. Wong, Introduction to a system for distributed databases (SDD-1), ACM Transactions on Database Systems (TODS), v.5 n.1, p.1-17, March 1980[doi>10.1145/320128.320129]
+STEARNS, R.E., LEWIS, P.M., II, AND ROSENKRANTZ, D.J. Concurrency controls for database systems. Proc. 17th Ann. Symp. on Foundations of Computer Science, IEEE, N.Y., 1976, pp. 19- 32.
+M. Stonebraker, Concurrency Control and Consistency of Multiple Copies of Data in Distributed Ingres, IEEE Transactions on Software Engineering, v.5 n.3, p.188-194, May 1979[doi>10.1109/TSE.1979.234180]
+Robert H. Thomas, A Majority consensus approach to concurrency control for multiple copy databases, ACM Transactions on Database Systems (TODS), v.4 n.2, p.180-209, June 1979[doi>10.1145/320071.320076]
+WONt, E. Retrieving dispersed data from SDD-I: A system for distributed databases. Proc. 1977 Berkeley Workshop on Distributed Data Management and Computer Networks, Lawrence Berkeley Lab., U. of California, Berkeley Calif., May 1977, pp. 217-235.

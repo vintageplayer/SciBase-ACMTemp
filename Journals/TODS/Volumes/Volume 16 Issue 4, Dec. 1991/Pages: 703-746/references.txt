@@ -1,0 +1,45 @@
+Rakesh Agrawal , Michael J. Carey , Miron Livny, Concurrency control performance modeling: alternatives and implications, ACM Transactions on Database Systems (TODS), v.12 n.4, p.609-654, Dec. 1987[doi>10.1145/32204.32220]
+BADAL, D. Correctness of concurrency control and implications in distributed databases. In Proceedings of the COMPSAC '79 Conference (Chicago, Nov. 1979).
+R. Balter , P. Berard , P. Decitre, Why control of the concurrency level in distributed systems is more fundamental than deadlock management, Proceedings of the first ACM SIGACT-SIGOPS symposium on Principles of distributed computing, p.183-193, August 18-20, 1982, Ottawa, Canada[doi>10.1145/800220.806696]
+BERNSTmN, P., AND GOODMAN, N. Fundamental algorithms for concurrency control in distributed database systems. Tech. Rep, Computer Corportion of America, Cambridge, Mass., 1980.
+BERNSTEIN, P., AND GOODMAN, N. Timestamp-based algorithms for concurrency control in distributed database systems. In Proceedings of the 6th VLDB Conference (Mexico City, Oct. 1980).
+Philip A. Bernstein , Nathan Goodman, Concurrency Control in Distributed Database Systems, ACM Computing Surveys (CSUR), v.13 n.2, p.185-221, June 1981[doi>10.1145/356842.356846]
+Philip A. Bernstein , Nathan Goodman, An algorithm for concurrency control and recovery in replicated distributed databases, ACM Transactions on Database Systems (TODS), v.9 n.4, p.596-615, Dec. 1984[doi>10.1145/1994.2207]
+Philip A. Bernstein , Vassco Hadzilacos , Nathan Goodman, Concurrency control and recovery in database systems, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1987
+BHARGAVA, B. Performance evaluation of the optimistic approach to distributed database systems and its comparison to locking. In Proceedings of the 3rd International Conference on Distributed Computing Systems (Miami, Fla., Oct. 1982).
+Anupam Bhide, An Analysis of Three Transaction Processing Architectures, Proceedings of the 14th International Conference on Very Large Data Bases, p.339-350, August 29-September 01, 1988
+Michael J. Carey , Miron Livny, Distributed Concurrency Control Performance: A Study of Algorithms, Distribution, and Replication, Proceedings of the 14th International Conference on Very Large Data Bases, p.13-25, August 29-September 01, 1988
+Michael J. Carey , Miron Livny, Parallelism and concurrency control performance in distributed database machines, Proceedings of the 1989 ACM SIGMOD international conference on Management of data, p.122-133, June 1989, Portland, Oregon, United States[doi>10.1145/67544.66938]
+Michael J. Carey , Hongjun Lu, Load balancing in a locally distributed DB system, Proceedings of the 1986 ACM SIGMOD international conference on Management of data, p.108-119, May 28-30, 1986, Washington, D.C., United States[doi>10.1145/16894.16865]
+Michael J. Carey , Michael Stonebraker, The Performance of Concurrency Control Algorithms for Database Management Systems, Proceedings of the 10th International Conference on Very Large Data Bases, p.107-118, August 27-31, 1984
+CEm, S., AND OWICKI, S. On the use of optimistic methods for concurrency control in distributed databases. In Proceedings of the 6th Berkeley Workshop on Distributed Data Management and Computing Networks (Feb. 1982).
+Stefano Ceri , Giuseppe Pelagatti, Distributed databases principles and systems, McGraw-Hill, Inc., New York, NY, 1984
+CHEN% J., ET AL. IBM Database 2 performance: Design, implementation, and tuning. IBM Syst. J. 23, 2 (1984).
+David J. DeWitt , Robert H. Gerber , Goetz Graefe , Michael L. Heytens , Krishna B. Kumar , M. Muralikrishna, GAMMA - A High Performance Dataflow Database Machine, Proceedings of the 12th International Conference on Very Large Data Bases, p.228-237, August 25-28, 1986
+Derek L. Eager , Kenneth C. Sevcik, Achieving robustness in distributed database systems, ACM Transactions on Database Systems (TODS), v.8 n.3, p.354-381, Sept. 1983[doi>10.1145/319989.319992]
+Amr El Abbadi , Dale Skeen , Flaviu Cristian, An efficient, fault-tolerant protocol for replicated data management, Proceedings of the fourth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.215-229, March 25-27, 1985, Portland, Oregon, United States[doi>10.1145/325405.325443]
+Bruce Irving Galler, Concurrency control performance issues, 1982
+Hector Garcia-Molina, Performance of update algorithms for replicated data in a distributed database., 1979
+Jim Gray, Notes on Data Base Operating Systems, Operating Systems, An Advanced Course, p.393-481, January 1978
+KOHLER, W., AND JENQ, B. Performance evaluation of integrated concurrency control and recovery algorithms using a distributed transaction processing testbed. Tech. Rep. CS-85-133, Dept. of Electrical and Computer Engineering, Univ. of Massachusetts, Amherst, 1985.
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+Edward D. Lazowska , John Zahorjan , David R. Cheriton , Willy Zwaenepoel, File access performance of diskless workstations, ACM Transactions on Computer Systems (TOCS), v.4 n.3, p.238-268, Aug. 1986[doi>10.1145/6420.6423]
+V. O. K. Li, Performance models of timestamp-ordering concurrency control algorithms in distributed databases, IEEE Transactions on Computers, v.36 n.9, p.1041-1051, Sept. 1987[doi>10.1109/TC.1987.5009535]
+LIN, W., AND NOLTE, J. Performance of two phase locking. In Proceedings of the 6th Berkeley Workshop on D~stributed Data Management and Computer Networks (Feb. 1982)
+Wen-Te K. Lin , Jerry Nolte, Basic Timestamp, Multiple Version Timestamp, and Two-Phase Locking, Proceedings of the 9th International Conference on Very Large Data Bases, p.109-119, October 31-November 02, 1983
+LIVN~, M. DeNet user's guide. Version I 0, Computer Science Dept, Univ. of Wisconsin, Madison, 1988.
+MEr4ASCE, D., AND M~NTZ, R Locking and deadlock detection in distributed databases. In Proceedings of the 3rd Berkeley Workshop on Distributed Data Management and Computer Networks (Aug. 1978).
+C. Mohan , B. Lindsay , R. Obermarck, Transaction management in the R* distributed database management system, ACM Transactions on Database Systems (TODS), v.11 n.4, p.378-396, Dec. 1986[doi>10.1145/7239.7266]
+Jerre D. Noe , David B. Wagner, Measured Performance of Time Interval Concurrency Control Techniques, Proceedings of the 13th International Conference on Very Large Data Bases, p.359-367, September 01-04, 1987
+M. T. Ozsu, Modeling and analysis of distributed database concurrency control algorithms using an extended petri net formalism, IEEE Transactions on Software Engineering, v.11 n.10, p.1225-1240, Oct. 1985[doi>10.1109/TSE.1985.231870]
+David P. Reed, Implementing atomic actions on decentralized data, ACM Transactions on Computer Systems (TOCS), v.1 n.1, p.3-23, Feb. 1983[doi>10.1145/357353.357355]
+Rms, D. The effects of concurrency control on the performance of a distributed data management system In Proceedings of the 4tb Berkeley Workshop on Dzstr~buted Data Management and Computer Networks (Aug. 1979).
+Daniel J. Rosenkrantz , Richard E. Stearns , Philip M. Lewis, II, System level concurrency control for distributed database systems, ACM Transactions on Database Systems (TODS), v.3 n.2, p.178-198, June 1978[doi>10.1145/320251.320260]
+Robert G. Sargent, Statistical analysis of simulation output data, Proceedings of the 4th symposium on Simulation of computer systems, p.39-50, August 10-12, 1976, Boulder, Colorado, United States
+SCHLAGETER, G. Optimistic methods for concurrency control m d~stributed database systems. In Proceedings of the 7th VLDB Conference (Cannes, Sept. 1981).
+Mukul K. Sinha , P. D. Nandikar , S. L. Mehndiratta, Timestamp based certification schemes for transactions in distributed database systems, Proceedings of the 1985 ACM SIGMOD international conference on Management of data, p.402-411, May 1985, Austin, Texas, United States[doi>10.1145/318898.318990]
+STONEBRAKER, M. Concurrency control and consistency of multiple copies of data in distributed INGRES. IEEE Trans. Sofiw. Eng. SE-5, 3 (May 1979).
+TERADATA CORPORATION. Teradata DBC/1012 data base computer concepts and facilities Doc C02-0001-00, Teradata Corp , 1983.
+Robert H. Thomas, A Majority consensus approach to concurrency control for multiple copy databases, ACM Transactions on Database Systems (TODS), v.4 n.2, p.180-209, June 1979[doi>10.1145/320071.320076]
+Irving L. Traiger , Jim Gray , Cesare A. Galtieri , Bruce G. Lindsay, Transactions and consistency in distributed database systems, ACM Transactions on Database Systems (TODS), v.7 n.3, p.323-342, Sept. 1982[doi>10.1145/319732.319734]
+Philip S. Yu , Douglas W. Cornell , Daniel M. Dias , Balakrishna R. Iyer, Analysis of affinity based routing in multi-system data sharing, Performance Evaluation, v.7 n.2, p.87-109, June 1, 1987[doi>10.1016/0166-5316(87)90025-3]

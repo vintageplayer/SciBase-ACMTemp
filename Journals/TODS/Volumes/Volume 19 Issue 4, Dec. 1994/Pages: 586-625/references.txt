@@ -1,0 +1,55 @@
+D. Agrawal , A. Malpani, Efficient dissemination of information in computer networks, The Computer Journal, v.34 n.6, p.534-541, Dec. 1991[doi>10.1093/comjnl/34.6.534]
+Rafael Alonso , Daniel Barbará , Hector Garcia-Molina , Soraya Abad, Quasi-Copies: Efficient Data Sharing for Information Retrieval Systems, Proceedings of the International Conference on Extending Database Technology: Advances in Database Technology, p.443-468, March 14-18, 1988
+Daniel Barbará , Hector Garcia-Molina, The Demarcation Protocol: A Technique for Maintaining Linear Arithmetic Constraints in Distributed Database Systems, Proceedings of the 3rd International Conference on Extending Database Technology: Advances in Database Technology, p.373-388, March 23-27, 1992
+Philip A. Bernstein , Vassco Hadzilacos , Nathan Goodman, Concurrency control and recovery in database systems, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1987
+BIRMAN, K., SCHIPER, A., AND STEPHENSON, r. 1991. Light causal and atomic multicast. Tech. Rep. TR-91-1192, Cornell Univ., Ithaca, N. Y.
+Andrew D. Birrell , Roy Levin , Michael D. Schroeder , Roger M. Needham, Grapevine: an exercise in distributed computing, Communications of the ACM, v.25 n.4, p.260-274, April 1982[doi>10.1145/358468.358487]
+DURFEE, ~. H., LESSER, V. R. AND CORKILL, D.D. 1987. Cooperation through communication in a distributed problem solving network. In Dtstributed Artificial Intelltgence, M. N. Huhns, Ed. Research Notes in Artificial Intelligence. Morgan Kaufmann, San Mateo, Calif.
+ELMAGARMID, A., ED. 1991. Data Eng. Bull. 14, 1 (Mar.).
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+FAnRACL A. A. AND OZSU, M T 1990. Usmg semantic knowledge of transactions to increase concurrency. ACM Trans Database 5(~st. 15, 2 (Mar.), 484 502.
+Michael J. Fischer , Alan Michael, Sacrificing serializability to attain high availability of data in an unreliable network, Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database systems, March 29-31, 1982, Los Angeles, California[doi>10.1145/588111.588124]
+Hector Garcia-Molina, Using semantic knowledge for transaction processing in a distributed database, ACM Transactions on Database Systems (TODS), v.8 n.2, p.186-213, June 1983[doi>10.1145/319983.319985]
+Hector Garcia-Molina , Dieter Gawlick , Johannes Klein , Karl Kleissner , Kenneth Salem, Modeling long-running activities as nested  sagas, Data Engineering, v.14 n.1, p.14-18, March 1991
+GOLDING, R.A. 1992. The timestamped anti-entropy weak-consistency group communication protocol Tech Rap UCSC-CRL-92-29, Univ, of California, Santa Cruz, Calif.
+Jim Gray, Notes on Data Base Operating Systems, Operating Systems, An Advanced Course, p.393-481, January 1978
+A. Heddaya , M. Hsu , W. Weihl, Two phase gossip: managing distributed event histories, Information Sciences: an International Journal, v.49 n.1-3, p.35-57, Oct.-Dec. 1989[doi>10.1016/0020-0255(89)90023-6]
+M. Herlihy, Apologizing versus asking permission: optimistic concurrency control for abstract data types, ACM Transactions on Database Systems (TODS), v.15 n.1, p.96-124, March 1990[doi>10.1145/77643.77647]
+Maurice Herlihy, Concurrency versus availability: atomicity mechanisms for replicated data, ACM Transactions on Computer Systems (TOCS), v.5 n.3, p.249-274, Aug. 1987[doi>10.1145/24068.27643]
+Maurice P. Herlihy , William E. Weihl, Hybrid concurrency control for abstract data types, Proceedings of the seventh ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.201-210, March 1988, Austin, Texas, USA[doi>10.1145/308386.308440]
+Maurice P. Herlihy , Jeanette M. Wing, Specifying graceful degradation in distributed systems, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.167-177, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41854]
+HERMAN, D. 1983. Towards a systematic approach to implement distributed control of synchromzatmn. In Distributed Computing Sysierns~ Y Paker, and J.-P. Veljus, Eds. Academic Press, New York, 3 22
+David R. Jefferson, Virtual time, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.3, p.404-425, July 1985[doi>10.1145/3916.3988]
+June Hyoung Kim , Kyu Ho Park , Myunghwan Kim, A model of distributed control: dependency and uncertainty, Information Processing Letters, v.30 n.2, p.73-77, January 1989[doi>10.1016/0020-0190(89)90112-9]
+H. K. Korth , G. Speegle, Formal model of correctness without serializabilty, Proceedings of the 1988 ACM SIGMOD international conference on Management of data, p.379-386, June 01-03, 1988, Chicago, Illinois, USA[doi>10.1145/50202.50248]
+Henry F. Korth , Won Kim , François Bancilhon, On long-duration CAD transactions, Information Sciences: an International Journal, v.46 n.1-2, p.73-107, Oct.-Nov. 1988[doi>10.1016/0020-0255(88)90019-9]
+Henry F. Korth , Eliezer levy , Abraham Silberschatz, A formal approach to recovery by compensating transactions, Proceedings of the sixteenth international conference on Very large databases, p.95-106, September 1990, Brisbane, Australia
+Narayanan Krishnakumar, Increasing concurrency and autonomy in replicated database systems, State University of New York at Stony Brook, Stony Brook, NY, 1992
+KmSHNAKUMAn, N. 1991. On computing serial dependency relations. Tech. Rep. SUSB-TR-91- 10, State Umv. of New York, Stony Brook, N, Y. To appear m J Cornput. Syst Sca
+Narayanan Krishnakumar , Arthur J. Bernstein, High Throughput Escrow Algorithms for Replicated Databases, Proceedings of the 18th International Conference on Very Large Data Bases, p.175-186, August 23-27, 1992
+KRISHNAKUMAR, N. AND BERNSTEIN, A J. 1990 Bounded ignorance in replicated systems Tech. Rep SUSB-TR-90-29, State Umv. of New York, Stony Brook, N. Y.
+Rivka Ladin , Barbara Liskov , Liuba Shrira, Lazy replication: exploiting the semantics of distributed services, Proceedings of the ninth annual ACM symposium on Principles of distributed computing, p.43-57, August 22-24, 1990, Quebec City, Quebec, Canada[doi>10.1145/93385.93399]
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+Eliezer Levy , Henry F. Korth , Abraham Silberschatz, A theory of relaxed atomicity (extended abstract), Proceedings of the tenth annual ACM symposium on Principles of distributed computing, p.95-110, August 19-21, 1991, Montreal, Quebec, Canada[doi>10.1145/112600.112610]
+Rivka Ladin , Barbara Liskov , Liuba Shrira, A technique for constructing highly available services, Algorithmica, v.3 n.3, p.393-420, 1988
+Nancy A. Lynch, Multilevel atomicity—a new correctness criterion for database concurrency control, ACM Transactions on Database Systems (TODS), v.8 n.4, p.484-502, Dec. 1983[doi>10.1145/319996.319999]
+Nancy Lynch , Barbara Blaustein , Michael Siegel, Correctness conditions for highly available replicated databases, Proceedings of the fifth annual ACM symposium on Principles of distributed computing, p.11-28, August 11-13, 1986, Calgary, Alberta, Canada[doi>10.1145/10590.10592]
+Patrick E. O'Neil, The Escrow transactional method, ACM Transactions on Database Systems (TODS), v.11 n.4, p.405-430, Dec. 1986[doi>10.1145/7239.7265]
+R. Paige, Symbolic finite differencing, part I (invited lecture), Proceedings of the third European symposium on programming on ESOP '90, p.36-56, May 1990, Copenhagen, Denmark
+Pu, C. AND LEFF, A. 1991. Execution autonomy m distributed transaction processing. Tech. Rep. CUCS-024-91 Columbia Univ., New York.
+Xiaolei Qian , Gio Wiederhold, Knowledge-based Integrity Constraint Validation, Proceedings of the 12th International Conference on Very Large Data Bases, p.3-12, August 25-28, 1986
+Andreas Reuter , Helmut Wächter, The Contract Model, Data Engineering, v.14 n.1, p.39-43, March 1991
+Marek Rusinkiewicz , Amit Sheth, Polytransactions for managing interdependent data, Data Engineering, v.14 n.1, p.44-48, March 1991
+RUSiNKmW~CZ, M., SHETH, A., AND I~R^B^?IS, G. 1991. Specifying interdatabase dependencies in multidatabase environments. Tech. Rep. TM-STS-018609/1, Bellcore, Morristown, N J.
+SARIN, S. K. 1986. Robust application design in highly available distributed databases. In Proceedings of the 5th Symposium on Reliability in Distributed Software and Database Systems. IEEE, New York, 87-94.
+SARIN, S. K., DEWITT, M., AND ROSENBURG, R. 1988. Overview of SHARD: A system for highly available replicated data. Tech. Rep. CCA-88-01, Computer Corp. of America, Boston, Mass.
+Sunil K. Sarin , Charles W. Kaufman , Janet E. Somers, Using History Information to Process Delayed Database Updates, Proceedings of the 12th International Conference on Very Large Data Bases, p.71-78, August 25-28, 1986
+Lui Sha , John Lehoczky , E. Douglas Jensen, Modular Concurrency Control and Failure Recovery, IEEE Transactions on Computers, v.37 n.2, p.146-159, February 1988[doi>10.1109/12.2144]
+SHETH, A, LEU, Y., AND ELMAGARMiD, A. 1991. Maintaining consistency of interdependent data in multidatabase systems. Tech. Rep. TM-STS-019409/1, Bellcore, Mornstown, N. J.
+SKEEN, M.D. 1!)82. Crash recovery in a distributed database system. Ph.D. thesis, Univ. of California, Berkeley, Calif.
+VER,JUS, J.-P. 1983. Synchronization in distributed systems. In Dtstrtbuted Computtng Systems, Y. Paker and J.-P Verjus, Eds. Academic Press, New York, 3 22.
+W. E. Weihl, Local atomicity properties: modular concurrency control for abstract data types, ACM Transactions on Programming Languages and Systems (TOPLAS), v.11 n.2, p.249-282, April 1989[doi>10.1145/63264.63518]
+W. E. Weihl, Commutativity-Based Concurrency Control for Abstract Data Types, IEEE Transactions on Computers, v.37 n.12, p.1488-1505, December 1988[doi>10.1109/12.9728]
+Gerhard Weikum , Hans-J. Schek, Multi-level transactions and open nested transactions, Data Engineering, v.14 n.1, p.60-64, March 1991
+M. H. Wong , D. Agrawal, Tolerating bounded inconsistency for increasing concurrency in database systems, Proceedings of the eleventh ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.236-245, June 02-05, 1992, San Diego, California, USA[doi>10.1145/137097.137880]
+Gene T.J. Wuu , Arthur J. Bernstein, Efficient solutions to the replicated log and dictionary problems, Proceedings of the third annual ACM symposium on Principles of distributed computing, p.233-242, August 27-29, 1984, Vancouver, British Columbia, Canada[doi>10.1145/800222.806750]

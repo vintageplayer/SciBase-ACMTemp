@@ -1,0 +1,49 @@
+Rakesh Agrawal , Michael J. Carey , Miron Livny, Concurrency control performance modeling: alternatives and implications, ACM Transactions on Database Systems (TODS), v.12 n.4, p.609-654, Dec. 1987[doi>10.1145/32204.32220]
+M. M. Astrahan , M. W. Blasgen , D. D. Chamberlin , K. P. Eswaran , J. N. Gray , P. P. Griffiths , W. F. King , R. A. Lorie , P. R. McJones , J. W. Mehl , G. R. Putzolu , I. L. Traiger , B. W. Wade , V. Watson, System R: relational approach to database management, ACM Transactions on Database Systems (TODS), v.1 n.2, p.97-137, June 1976[doi>10.1145/320455.320457]
+Oleg Ivanovich Aven , E. G. Coffman, Jr. , Y. A. Kogan, Stochastic Analysis of Computer Storage, Kluwer Academic Publishers, Norwell, MA, 1987
+BAYER, R., AND MCCREIGHT, E.M. Organization and maintenance of large ordered indices. Acta Inf. 1, 3 (May 1972), 173-189.
+BAYER, R., AND SCHKOLNICK, M. Concurrency of operations on B-trees. Acta Inf. 9, i (Feb. 1977), 1-21.
+BERNSTEXN, P. A., GOODMAN, N., AND HADZII~COS, V. Recovery algorithms for database systems. In Proceedings of the IFIP Congress. 1983.
+BILIRIS, A. A model for the evaluation of concurrency control algorithms on B-trees: Experimental comparisons of four locking protocols. Tech. Rep. 85-015, Computer Science Dept., Boston University, Boston, Mass., 1985.
+A. Biliris, Operation specific locking in B-trees, Proceedings of the sixth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.159-169, March 23-25, 1987, San Diego, California, USA[doi>10.1145/28659.28676]
+ELLIS, C.S. Concurrent search and inserts in 2 3 trees. Acta Inf. 14, i (Feb. 1980), 63-86.
+GRAY, J., ET AL. One thousand transactions per second. In IEEE Compcon (San Francisco, Feb. 1985), IEEE, New York, 1985, pp. 96-101.
+FAGIN, R. Asymptotic miss ratios over independent references. J. Cornput. Syst. Sci. 14, 21 (Apr. 1977), 222 250.
+FORD, R., JIPPING, M., AND SCHULTZ, R. On the performance of concurrent tree algorithms. Tech. Rep. 85-07, Univ. of Iowa, Iowa City, 1985.
+FORD, R.,, lIPPING, M., SCHULTZ, R., AND WENHARDT, B. On the performance of concurrent tree algorithms Submitted for publication.
+Nathan Goodman , Dennis Shasha, Semantically-based concurrancy control for search structures, Proceedings of the fourth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.8-19, March 25-27, 1985, Portland, Oregon, USA[doi>10.1145/325405.325407]
+GUIBAS, L., AND SEDGEWICK, R. A dichromatic framework for balanced trees. In Proceedings of the 19th Annual Symposium of Foundations of Computer Science. ACM, New York, 1978, pp. 8-21.
+Theo Haerder , Andreas Reuter, Principles of transaction-oriented database recovery, ACM Computing Surveys (CSUR), v.15 n.4, p.287-317, December 1983[doi>10.1145/289.291]
+Theodore Johnson, Approximate analysis of reader and writer access to a shared resource, Proceedings of the 1990 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.106-114, April 1990, Univ. of Colorado, Boulder, Colorado, USA[doi>10.1145/98457.98517]
+Theodore J. Johnson , Dennis E. Shasha, The performance of concurrent data structure algorithms, New York University, New York, NY, 1990
+JOHNSON, T., AND SHASHA, D. Random B-trees with inserts and deletes. Tech. Rep. 453, Dept. of Computer Science, New York Univ., New York, 1989.
+T. Johnson , D. Shasha, Utilization of B-trees with inserts, deletes and modifies, Proceedings of the eighth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.235-246, March 1989, Philadelphia, Pennsylvania, USA[doi>10.1145/73721.73745]
+Theodore Johnson , Dennis Shasha, A framework for the performance analysis of concurrent B-tree algorithms, Proceedings of the ninth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.273-287, April 02-04, 1990, Nashville, Tennessee, USA[doi>10.1145/298514.298580]
+Theodore Johnson , Dennis Shasha,B-trees with inserts and deletes: why free-at-empty is better than merge-at-half, Journal of Computer and System Sciences, v.47 n.1, p.45-76, Aug. 1993[doi>10.1016/0022-0000(93)90020-W]
+KERSTEN, M., AND TEBRA, H. Application of an optimistic concurrency control method. Softw. Pract Exper. 14, 2 (Feb. 1984), 153 168.
+I~NG, W. F. Analysis of demand paging algorithms. In Internatwnal Federation for Informatton Processzng Conference Proceedings (Ljubljana, Yugoslavia). 1972, pp. 485-490.
+Leonard Kleinrock, Communication nets; stochastic message flow and delay, Dover Publications, Incorporated, 1972
+KLEINROCK, L. Queuing Systems. Vol. 1. Wiley, New York, 1975.
+KLEINROCK, L. Queuing Systems. Vol. 2. Wiley, New York, 1976.
+H. T. Kung , John T. Robinson, On optimistic methods for concurrency control, ACM Transactions on Database Systems (TODS), v.6 n.2, p.213-226, June 1981[doi>10.1145/319566.319567]
+KWONG, Y. S., AND WOOD, D. A new method for concurrency in B-trees. IEEE Trans. Softw. Eng. SE-8, 3 (1982). 211-222.
+Vladimir Lanin , Dennis Shasha, A symmetric concurrent B-tree algorithm, Proceedings of 1986 ACM Fall joint computer conference, p.380-389, November 1986, Dallas, Texas, USA
+G Lausen, Integrated concurrency control in shared B-trees, Computing, v.33 n.1, p.13-26, 1984[doi>10.1007/BF02243072]
+Philip L. Lehman , s. Bing Yao, Efficient locking for concurrent operations on B-trees, ACM Transactions on Database Systems (TODS), v.6 n.4, p.650-670, Dec. 1981[doi>10.1145/319628.319663]
+LITTLE, J. D. C. A proof of the queuing formula, l = Aw. Oper. Res 9, 3 (May 1961), 383-387.
+METZGER, J.K. Managing simultaneous operations in large ordered indexes. Tech. Rept., Institut fur Informatick, Technische Universitat Munchen, Germany 1975.
+MILLER, R.E. Multiple access to B-trees. In Proceedings of the 1978 Conference on Information Sciences and Systems. Johns Hopkins Univ., Baltimore, Md., 1978, pp. 400-408.
+MOH~, C., AND LEVtNE, F. ARIES//IM: An efficient and high concurrency index management method using write-ahead logging. Res. Rep. RJ 6864, IBM, Armonk, N.Y., 1989.
+Mo~n, Y., AND RAZ, Y. Concurrency control in B+-trees databases using preparatory operations. In 11th International Conference on Very Large Data Bases (Brighton, U.K., Aug. 1985), pp. 331-334.
+In Kyung Ryu , Alexander Thomasian, Performance analysis of centralized databases with optimistic concurrency control, Performance Evaluation, v.7 n.3, p.195-211, August 1, 1987[doi>10.1016/0166-5316(87)90040-X]
+Yehoshua Sagiv, Concurrent operations on B-trees with overtaking, Proceedings of the fourth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.28-37, March 25-27, 1985, Portland, Oregon, USA[doi>10.1145/325405.325409]
+S~t, B. B-trees in a system with multiple users. Inf. Proc. Lett. 5, 4 (1976), 107-112.
+SHAS~, D. What good are concurrent search structure algorithms for databases anyway? Database Eng. 8, 4 (Mar. 1985), 84-90.
+Dennis Shasha , Nathan Goodman, Concurrent search structure algorithms, ACM Transactions on Database Systems (TODS), v.13 n.1, p.53-90, March 1988[doi>10.1145/42201.42204]
+SI~SHA, D., LAN~N, V., AND SCHMIDT, J. An analytical model for the performance of concurrent B-tree algorithms. Ultracomputer Note 311, Dept. of Computer Science, New York Univ., New York, 1987.
+Jeffrey R. Spirn , Shalom Tsur, Memory management for B-trees, Performance Evaluation, v.5 n.3, p.159-174, Aug. 1985[doi>10.1016/0166-5316(85)90010-0]
+V. Srinivasan , Michael J. Carey, Performance of B-tree concurrency control algorithms, Proceedings of the 1991 ACM SIGMOD international conference on Management of data, p.416-425, May 29-31, 1991, Denver, Colorado, USA[doi>10.1145/115790.115860]
+SRINIVASAN, V., AND CAREY, M. Performance of B-tree concurrency control algorithms. Computer Sciences Tech. Rep. 999, Dept. of Computer Science, Univ. of Wisconson-Madison, Madison, 1991.
+Y. C. Tay , Nathan Goodman , R. Suri, Locking performance in centralized databases, ACM Transactions on Database Systems (TODS), v.10 n.4, p.415-462, Dec. 1985[doi>10.1145/4879.4880]
+WEDEKIND, H. On the selection of access paths in a data base system. In Database Management, J. W. Klimbie and K. L. Koffeman, Eds. North-Holland, Amsterdam, 1974, pp. 385 397.
+WEIHL, W. E., AND WANG, P. Multi-version memory: Software cache management for concurrent B-trees. In Proceedings of the 2nd IEEE Symposium on Parallel and Distributed Processing. IEEE, New York, 1990, pp. 650-655.

@@ -1,0 +1,35 @@
+Jean-Loup Baer , Tien-Fu Chen, An effective on-chip preloading scheme to reduce data access penalty, Proceedings of the 1991 ACM/IEEE conference on Supercomputing, p.176-186, November 18-22, 1991, Albuquerque, New Mexico, USA[doi>10.1145/125826.125932]
+Peter A. Boncz , Stefan Manegold , Martin L. Kersten, Database Architecture Optimized for the New Bottleneck: Memory Access, Proceedings of the 25th International Conference on Very Large Data Bases, p.54-65, September 07-10, 1999
+Shimin Chen , Anastassia Ailamaki , Todd C. Mowry, Redesigning database systems in light of cpu cache prefetching, Carnegie Mellon University, Pittsburgh, PA, 2005
+Shimin Chen , Anastassia Ailamaki , Phillip B. Gibbons , Todd C. Mowry, Improving Hash Join Performance through Prefetching, Proceedings of the 20th International Conference on Data Engineering, p.116, March 30-April 02, 2004
+Shimin Chen , Anastassia Ailamaki , Phillip B. Gibbons , Todd C. Mowry, Inspector joins, Proceedings of the 31st international conference on Very large data bases, August 30-September 02, 2005, Trondheim, Norway
+Shimin Chen , Phillip B. Gibbons , Todd C. Mowry, Improving index performance through prefetching, Proceedings of the 2001 ACM SIGMOD international conference on Management of data, p.235-246, May 21-24, 2001, Santa Barbara, California, USA[doi>10.1145/375663.375688]
+Shimin Chen , Phillip B. Gibbons , Todd C. Mowry , Gary Valentin, Fractal prefetching B+-Trees: optimizing both cache and disk performance, Proceedings of the 2002 ACM SIGMOD international conference on Management of data, June 03-06, 2002, Madison, Wisconsin[doi>10.1145/564691.564710]
+Brian Gold , Anastassia Ailamaki , Larry Huston , Babak Falsafi, Accelerating database operators using a network processor, Proceedings of the 1st international workshop on Data management on new hardware, June 12-12, 2005, Baltimore, Maryland[doi>10.1145/1114252.1114260]
+Goetz Graefe, Query evaluation techniques for large databases, ACM Computing Surveys (CSUR), v.25 n.2, p.73-169, June 1993[doi>10.1145/152610.152611]
+Hepkin, D. 2006. Guide to multiple page size support on AIX 5L version 5.3. http://www-03.ibm.com/servers/aix/whitepapers/multiple_page.pdf.
+IBM Corporation. 2004. IBM DB2 Universal Database Administration Guide Version 8.2.
+Intel Corporation. 2004. Intel Itanium 2 Processor Reference Manual For Software Development and Optimization. Intel Corporation. Order Number: 251110-003.
+Intel Corporation. 2006. IA-32 Intel Architecture Software Developer's Manual (Volumn 3A and 3B): System Programming Guide. Intel Corporation.
+J. A. Kahle , M. N. Day , H. P. Hofstee , C. R. Johns , T. R. Maeurer , D. Shippy, Introduction to the cell multiprocessor, IBM Journal of Research and Development, v.49 n.4/5, p.589-604, July 2005
+Ron Kalla , Balaram Sinharoy , Joel M. Tendler, IBM Power5 Chip: A Dual-Core Multithreaded Processor, IEEE Micro, v.24 n.2, p.40-47, March 2004[doi>10.1109/MM.2004.1289290]
+Ken Kennedy , Kathryn S. McKinley, Loop distribution with arbitrary control flow, Proceedings of the 1990 ACM/IEEE conference on Supercomputing, p.407-416, October 1990, New York, New York, USA
+Kitsuregawa, M., Tanaka, H., and Moto-Oka, T. 1983. Application of hash to data base machine and its architecture. New Generation Comput. 1, 1, 63--74.
+Monica Sin-Ling Lam, A systolic array optimizing compiler, Carnegie Mellon University, Pittsburgh, PA, 1987
+Lindsay, B. 2002. Hash joins in DB2 UDB: The inside story. Carnegie Mellon DB Seminar.
+Chi-Keung Luk , Todd C. Mowry, Compiler-based prefetching for recursive data structures, Proceedings of the seventh international conference on Architectural support for programming languages and operating systems, p.222-233, October 01-04, 1996, Cambridge, Massachusetts, USA[doi>10.1145/237090.237190]
+Chi-Keung Luk , Todd C. Mowry, Automatic Compiler-Inserted Prefetching for Pointer-Based Applications, IEEE Transactions on Computers, v.48 n.2, p.134-141, February 1999[doi>10.1109/12.752654]
+Stefan Manegold , Peter A. Boncz , Martin L. Kersten, What Happens During a Join? Dissecting CPU and Memory Optimization Effects, Proceedings of the 26th International Conference on Very Large Data Bases, p.339-350, September 10-14, 2000
+McDougall, R. 2004. Supporting multiple page sizes in the solaris operating system. http://www.sun.com/blueprints/0304/817-5917.pdf.
+McFarling, S. 1993. Combining branch predictors. Tech. Rep. WRL Technical Note TN-36, Digital Equipment Corporation (June).
+Todd Carl Mowry, Tolerating latency through software-controlled data prefetching, Stanford University, Stanford, CA, 1995
+Todd C. Mowry , Monica S. Lam , Anoop Gupta, Design and evaluation of a compiler algorithm for prefetching, Proceedings of the fifth international conference on Architectural support for programming languages and operating systems, p.62-73, October 12-15, 1992, Boston, Massachusetts, USA[doi>10.1145/143365.143488]
+Masaya Nakayama , Masaru Kitsuregawa , Mikio Takagi, Hash-Partitioned Join Method Using Dynamic Destaging Strategy, Proceedings of the 14th International Conference on Very Large Data Bases, p.468-478, August 29-September 01, 1988
+Perfmon Project. http://www.hpl.hp.com/research/linux/perfmon/index.php4.
+Ashley Saulsbury , Fredrik Dahlgren , Per Stenström, Recency-based TLB preloading, Proceedings of the 27th annual international symposium on Computer architecture, p.117-127, June 2000, Vancouver, British Columbia, Canada[doi>10.1145/339647.339666]
+Leonard D. Shapiro, Join processing in database systems with large main memories, ACM Transactions on Database Systems (TODS), v.11 n.3, p.239-264, Sept. 1986[doi>10.1145/6314.6315]
+Ambuj Shatdal , Chander Kant , Jeffrey F. Naughton, Cache Conscious Algorithms for Relational Query Processing, Proceedings of the 20th International Conference on Very Large Data Bases, p.510-521, September 12-15, 1994
+Sun Microsystems. UltraSPARC IV Processor Architecture Overview. Sun Microsystems. Technical Whitepaper, Version 1.0, Feb. 2004.
+TPC Benchmarks. http://www.tpc.org/.
+Hansjorrg Zeller , Jim Gray, An adaptive hash join algorithm for multiuser environments, Proceedings of the sixteenth international conference on Very large databases, p.186-197, September 1990, Brisbane, Australia
+Jingren Zhou , John Cieslewicz , Kenneth A. Ross , Mihir Shah, Improving database performance on simultaneous multithreading processors, Proceedings of the 31st international conference on Very large data bases, August 30-September 02, 2005, Trondheim, Norway

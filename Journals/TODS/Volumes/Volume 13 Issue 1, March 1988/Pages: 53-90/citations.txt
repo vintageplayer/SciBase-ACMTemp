@@ -1,0 +1,48 @@
+Sungchae Lim , Myoung Ho Kim, Restructuring the concurrent B+-tree with non-blocked search operations, Information Sciences—Informatics and Computer Science: An International Journal, v.147 n.1-4, p.123-142, November 2002
+Sungchae Lim , Yoon-Joon Lee , Myoung-Ho Kim, A Restructuring Method for the Concurrent B+-Tree Based on Semantic Consistency, Proceedings of the Sixth International Conference on Database Systems for Advanced Applications, p.229-236, April 19-21, 1999
+Johannes Schneider , Roger Wattenhofer, Brief announcement: tree decomposition for faster concurrent data structures, Proceedings of the 29th ACM SIGACT-SIGOPS symposium on Principles of distributed computing, July 25-28, 2010, Zurich, Switzerland
+Sung-Chae Lim , Joonseon Ahn , Myoung Ho Kim, A concurrent Blink-tree algorithm using a cooperative locking protocol, Proceedings of the 20th British national conference on Databases, July 15-17, 2003, Coventry, UK
+Adrian Colbrook , Eric A. Brewer , Chrysanthos N. Dellarocas , William E. Weihl, Algorithms for Search Trees on Message-Passing Architectures, IEEE Transactions on Parallel and Distributed Systems, v.7 n.2, p.97-108, February 1996
+John Turek , Dennis Shasha , Sundeep Prakash, Locking without blocking: making lock based concurrent data structure algorithms nonblocking, Proceedings of the eleventh ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.212-222, June 02-05, 1992, San Diego, California, United States
+Heng Yu , Grant E. Weddell, Investigations in tree locking for compiled database applications, Proceedings of the 2004 conference of the Centre for Advanced Studies on Collaborative research, p.217-231, October 04-07, 2004, Markham, Ontario, Canada
+S. Prakash , Yann Hang Lee , T. Johnson, A Nonblocking Algorithm for Shared Queues Using Compare-and-Swap, IEEE Transactions on Computers, v.43 n.5, p.548-559, May 1994
+David B. Lomet , Betty Salzberg, Exploiting A History Database for Backup, Proceedings of the 19th International Conference on Very Large Data Bases, p.380-390, August 24-27, 1993
+David Taniar , J. Wenny Rahayu, Global parallel index for multi-processors database systems, Information Sciences: an International Journal, v.165 n.1-2, p.103-127, 3 September 2004
+Jayant R. Haritsa , S. Seshadri, Real-time index concurrency control, ACM SIGMOD Record, v.25 n.1, p.13-17, March 1996
+Rajeev Rastogi , S. Seshadri , Philip Bohannon , Dennis W. Leinbaugh , Abraham Silberschatz , S. Sudarshan, Logical and Physical Versioning in Main Memory Databases, Proceedings of the 23rd International Conference on Very Large Data Bases, p.86-95, August 25-29, 1997
+Eleanna Kafeza , Thanasis Hadzilacos, Transaction synchronization in structures for point data, Proceedings of the 5th ACM international workshop on Advances in geographic information systems, p.44-49, November 10-14, 1997, Las Vegas, Nevada, United States
+Heejin Park , Kunsoo Park , Yookun Cho, Deleting Keys of B-trees in Parallel, Proceedings of the 16th International Parallel and Distributed Processing Symposium, p.112, April 15-19, 2002
+A. Fu , T. Kameda, Concurrency control of nested transactions accessing B-trees, Proceedings of the eighth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.270-285, March 1989, Philadelphia, Pennsylvania, United States
+Markos Zaharioudakis , Michael J. Carey, Highly concurrent cache consistency for indices in client-server database systems, ACM SIGMOD Record, v.26 n.2, p.50-61, June 1997
+Theodore Johnson , Padmashree Krishna, Lazy updates for distributed search structure, ACM SIGMOD Record, v.22 n.2, p.337-346, June 1, 1993
+David Taniar , J. Wenny Rahayu, A Taxonomy of Indexing Schemes for Parallel Database Systems, Distributed and Parallel Databases, v.12 n.1, p.73-106, July 2002
+C. Mohan , Frank Levine, ARIES/IM: an efficient and high concurrency index management method using write-ahead logging, ACM SIGMOD Record, v.21 n.2, p.371-380, June 1, 1992
+David Lomet , Betty Salzberg, Access method concurrency with recovery, ACM SIGMOD Record, v.21 n.2, p.351-360, June 1, 1992
+Carla Schlatter Ellis, Concurrency in linear hashing, ACM Transactions on Database Systems (TODS), v.12 n.2, p.195-217, June 1987
+David Lomet, Simple, Robust and Highly Concurrent B-trees with Node Deletion, Proceedings of the 20th International Conference on Data Engineering, p.18, March 30-April 02, 2004
+Seppo Sippu , Eljas Soisalon-Soininen, A Theory of Transactions on Recoverable Search Trees, Proceedings of the 8th International Conference on Database Theory, p.83-98, January 04-06, 2001
+Georgios Evangelidis , David B. Lomet , Betty Salzberg, The hBP-tree: A Modified hB-tree Supporting Concurrency, Recovery and Node Consolidation, Proceedings of the 21th International Conference on Very Large Data Bases, p.551-561, September 11-15, 1995
+David Lomet , Betty Salzberg, Concurrency and recovery for index trees, The VLDB Journal — The International Journal on Very Large Data Bases, v.6 n.3, p.224-240, August 1997
+Brajesh Goyal , Jayant R. Haritsa , S. Seshadri , V. Srinivasan, Index Concurrency Control in Firm Real-Time Database Systems, Proceedings of the 21th International Conference on Very Large Data Bases, p.146-157, September 11-15, 1995
+Baruch Awerbuch , Christian Scheideler, The hyperring: a low-congestion deterministic data structure for distributed environments, Proceedings of the fifteenth annual ACM-SIAM symposium on Discrete algorithms, January 11-14, 2004, New Orleans, Louisiana
+Kerttu Pollari-Malmi , Eljas Soisalon-Soininen , Tatu Ylönen, Concurrency Control in B-Trees with Batch Updates, IEEE Transactions on Knowledge and Data Engineering, v.8 n.6, p.975-984, December 1996
+C. Mohan, ARIES/KVL: A Key-Value Locking Method for Concurrency Control of Multiaction Transactions Operating on B-Tree Indexes, Proceedings of the 16th International Conference on Very Large Data Bases, p.392-405, August 13-16, 1990
+Ittai Abraham , James Aspnes , Jian Yuan, Skip b-trees, Proceedings of the 9th international conference on Principles of Distributed Systems, December 12-14, 2005, Pisa, Italy
+Marcel Kornacker , C. Mohan , Joseph M. Hellerstein, Concurrency and recovery in generalized search trees, ACM SIGMOD Record, v.26 n.2, p.62-72, June 1997
+Gerhard Weikum , Christof Hasse , Peter Broessler , Peter Muth, Multi-level recovery, Proceedings of the ninth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.109-123, April 02-04, 1990, Nashville, Tennessee, United States
+Stavros S. Cosmadakis , Kleoni Ioannidou , Stergios Stergiou, View Serializable Updates of Concurrent Index Structures, Revised Papers from the  8th International Workshop on Database Programming Languages, p.247-262, September 08-10, 2001
+Georgios Evangelidis , David Lomet , Betty Salzberg, The hB $^\Pi$-tree: a multi-attribute index supporting concurrency, recovery and node consolidation, The VLDB Journal — The International Journal on Very Large Data Bases, v.6 n.1, p.1-25, February 1997
+Jayant R. Haritsa , S. Seshadri, Real-Time Index Concurrency Control, IEEE Transactions on Knowledge and Data Engineering, v.12 n.3, p.429-447, May 2000
+Rajeev Rastogi , S. Seshadri , Philip Bohannon , Dennis Leinbaugh , Avi Silberschatz , S. Sudarshan, Improving Predictability of Transaction Execution Timesin Real-time Databases, Real-Time Systems, v.19 n.3, p.283-302, Nov. 2000
+Christof Hasse , Gerhard Weikum, A Performance Evaluation of Multi-Level Transaction Management, Proceedings of the 17th International Conference on Very Large Data Bases, p.55-66, September 03-06, 1991
+K.P. Birman, Integrating Runtime Consistency Models for Distributed Computing, Journal of Parallel and Distributed Computing, v.23 n.2, p.158-176, Nov. 1994
+M. Herlihy, Apologizing versus asking permission: optimistic concurrency control for abstract data types, ACM Transactions on Database Systems (TODS), v.15 n.1, p.96-124, March 1990
+Theodore Johnson , Dennis Sasha, The performance of current B-tree algorithms, ACM Transactions on Database Systems (TODS), v.18 n.1, p.51-101, March 1993
+Theodore Johnson, Characterizing the Performance of Algorithms for Lock-Free Objects, IEEE Transactions on Computers, v.44 n.10, p.1194-1207, October 1995
+Marcos K. Aguilera , Joshua B. Leners , Michael Walfish, Yesquel: scalablesqlstorage for web applications, Proceedings of the 25th Symposium on Operating Systems Principles, October 04-07, 2015, Monterey, California
+Gerhard Weikum , Christof Hasse, Multi-level transaction management for complex objects: implementation, performance, parallelism, The VLDB Journal — The International Journal on Very Large Data Bases, v.2 n.4, p.407-454, October 1993
+M. F. Khan , Ray Paul , Ishfaq Ahmed , Arif Ghafoor, Intensive Data Management in Parallel Systems: A Survey, Distributed and Parallel Databases, v.7 n.4, p.383-414, Oct. 1999
+Gerhard Weikum, Principles and realization strategies of multilevel transaction management, ACM Transactions on Database Systems (TODS), v.16 n.1, p.132-180, March 1991
+C. Mohan , Don Haderle , Bruce Lindsay , Hamid Pirahesh , Peter Schwarz, ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging, ACM Transactions on Database Systems (TODS), v.17 n.1, p.94-162, March 1992
+Gary H. Sockut , Balakrishna R. Iyer, Online reorganization of databases, ACM Computing Surveys (CSUR), v.41 n.3, p.1-136, July 2009
+Gerhard Weikum , Gottfried Vossen, Transactional Information Systems: Theory, Algorithms, and the Practice of Concurrency Control and Recovery, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2001

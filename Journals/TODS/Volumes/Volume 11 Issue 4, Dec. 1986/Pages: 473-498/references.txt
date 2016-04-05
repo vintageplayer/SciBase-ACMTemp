@@ -1,0 +1,37 @@
+M. M. Astrahan , M. W. Blasgen , D. D. Chamberlin , K. P. Eswaran , J. N. Gray , P. P. Griffiths , W. F. King , R. A. Lorie , P. R. McJones , J. W. Mehl , G. R. Putzolu , I. L. Traiger , B. W. Wade , V. Watson, System R: relational approach to database management, ACM Transactions on Database Systems (TODS), v.1 n.2, p.97-137, June 1976[doi>10.1145/320455.320457]
+BAYER, R. Database system design for high performance. In Information Processing 83, Mason, Ed. Elsevier North-Holland, New York, 1983, 147-155.
+BAYER, R., AND MCCREIGHT, C. Organization and maintenance of large ordered indexes. Acta Inf. I, 3 (1972), 173-189.
+Philip A. Bernstein , Nathan Goodman , Eugene Wong , Christopher L. Reeve , James B. Rothnie, Jr., Query processing in a system for distributed databases (SDD-1), ACM Transactions on Database Systems (TODS), v.6 n.4, p.602-625, Dec. 1981[doi>10.1145/319628.319650]
+BLASGEN, M. W., AND ESWARAN, K.P. Storage access in relational databases. IBM Syst. J. 16 (1977).
+Haran Boral , David J DeWitt, A methodology for database system performance evaluation, Proceedings of the 1984 ACM SIGMOD international conference on Management of data, June 18-21, 1984, Boston, Massachusetts[doi>10.1145/602259.602283]
+CHAMBERLIN, D. Do, ET AL. Sequel 2: A unified approach to data definition, manipulation, and control. IBM J. Res. Dev. 20, 6 (1976).
+CHOU, H., AND DEWITT, D.J. An evaluation of buffer management strategies for relational database systems. In Proceedings of the l Ith Conference on Very Large Data Bases (Stockholm, 1985), 127-141.
+S. Christodoulakis, Implications of certain assumptions in database performance evauation, ACM Transactions on Database Systems (TODS), v.9 n.2, p.163-186, June 1984[doi>10.1145/329.318578]
+E. F. Codd, A relational model of data for large shared data banks, Communications of the ACM, v.13 n.6, p.377-387, June 1970[doi>10.1145/362384.362685]
+Edward G. Coffman, Jr. , Peter J. Denning, Operating Systems Theory, Prentice Hall Professional Technical Reference, 1973
+Douglas Comer, Ubiquitous B-Tree, ACM Computing Surveys (CSUR), v.11 n.2, p.121-137, June 1979[doi>10.1145/356770.356776]
+Peter J. Denning, The working set model for program behavior, Communications of the ACM, v.11 n.5, p.323-333, May 1968[doi>10.1145/363095.363141]
+Wolfgang Effelsberg , Theo Haerder, Principles of database buffer management, ACM Transactions on Database Systems (TODS), v.9 n.4, p.560-595, Dec. 1984[doi>10.1145/1994.2022]
+Wolfgang Effelsberg , Mary E. S. Loomis, Logical, internal, and physical reference behavior in CODASYL database systems, ACM Transactions on Database Systems (TODS), v.9 n.2, p.187-213, June 1984[doi>10.1145/329.331]
+FERNANDEZ, E. B., ET AL. Effect of replacement algorithms on a paged buffer database system. IBM J. Res. Dev. 22, 2 (1978), 185-196.
+GHANEM, M.Z. Dynamic partitioning of the main memory using the working set concept. IBM J. Res. Dev. {1975), 445-450.
+Jim Gray, Notes on Data Base Operating Systems, Operating Systems, An Advanced Course, p.393-481, January 1978
+KAPLAN, J. Buffer management policies in a database system. M.S. thesis, Univ. of California, Berkeley, 1980.
+Won Kim, A new way to compute the product and join of relations, Proceedings of the 1980 ACM SIGMOD international conference on Management of data, May 14-16, 1980, Santa Monica, California[doi>10.1145/582250.582278]
+Donald E. Knuth, The art of computer programming,  volume 3: (2nd ed.) sorting and searching, Addison Wesley Longman Publishing Co., Inc., Redwood City, CA, 1998
+Tomás Lang , Christopher Wood , Eduardo B. Fernández, Database buffer paging in virtual storage systems, ACM Transactions on Database Systems (TODS), v.2 n.4, p.339-351, Dec. 1977[doi>10.1145/320576.320585]
+Raymond A. Lorie, Physical integrity in a large segmented database, ACM Transactions on Database Systems (TODS), v.2 n.1, p.91-104, March 1977[doi>10.1145/320521.320540]
+W. S. Luk, On estimating block accesses in database organizations, Communications of the ACM, v.26 n.11, p.945-947, Nov. 1983[doi>10.1145/182.358456]
+MATTSON, R. L., ET AL. Evaluation strategies for storage hierarchies. IBM Syst. J. 9, 2 (1970), 78-117.
+OBERMARK, R. Global deadlock detection algorithms. IBM Res. Rep. RJ2845, 1980.
+David D. Redell , Yogen K. Dalal , Thomas R. Horsley , Hugh C. Lauer , William C. Lynch , Paul R. McJones , Hal G. Murray , Stephen C. Purcell, Pilot: an operating system for a personal computer, Communications of the ACM, v.23 n.2, p.81-92, Feb. 1980[doi>10.1145/358818.358822]
+SAcco, G.M. Fragmentation: A technique for efficient query processing. TR 20/11/82, Dip. Informatica, Univ. of Torino, Turin, Nov. 20, 1982 (revised: Aug. 26, 1983).
+Giovanni Maria Sacco, Fragmentation: a technique for efficient query processing, ACM Transactions on Database Systems (TODS), v.11 n.2, p.113-133, June 1986[doi>10.1145/5922.5638]
+SACCO, G. M., AND BALBO, G. On the estimation of join result cardinalities. TR 24/2/83, Dip. Informatica, Univ. Torino, Turin, Feb. 24, 1983.
+Giovanni Maria Sacco , Mario Schkolnick, A Mechanism for Managing the Buffer Pool in a Relational Database System Using the Hot Set Model, Proceedings of the 8th International Conference on Very Large Data Bases, p.257-262, September 08-10, 1982
+SACCO, G. M., AND SCHKOLNICK, M. Thrashing reduction in demand accessing of a data base through an LRU paging buffer pool. U.S. Patent 4.422.145, Dec. 20, 1983.
+P. Griffiths Selinger , M. M. Astrahan , D. D. Chamberlin , R. A. Lorie , T. G. Price, Access path selection in a relational database management system, Proceedings of the 1979 ACM SIGMOD international conference on Management of data, May 30-June 01, 1979, Boston, Massachusetts[doi>10.1145/582095.582099]
+Michael Stonebraker , Gerald Held , Eugene Wong , Peter Kreps, The design and implementation of INGRES, ACM Transactions on Database Systems (TODS), v.1 n.3, p.189-222, Sept. 1976[doi>10.1145/320473.320476]
+Michael Stonebraker, Operating system support for database management, Communications of the ACM, v.24 n.7, p.412-418, July 1981[doi>10.1145/358699.358703]
+Kyu-Young Whang , Gio Wiederhold , Daniel Sagalowicz, Estimating block accesses in database organizations: a closed noniterative formula, Communications of the ACM, v.26 n.11, p.940-944, Nov. 1983[doi>10.1145/182.358452]
+S. B. Yao, Approximating block accesses in database organizations, Communications of the ACM, v.20 n.4, p.260-261, April 1977[doi>10.1145/359461.359475]

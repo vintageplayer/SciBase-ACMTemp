@@ -1,0 +1,35 @@
+Timothy C. Bell , Alistair Moffat , Craig G. Nevill-Manning , Ian H. Witten , Justin Zobel, Data compression in full-text retrieval systems, Journal of the American Society for Information Science, v.44 n.9, p.508-531, Oct. 1993[doi>10.1002/(SICI)1097-4571(199310)44:9<508::AID-ASI2>3.0.CO;2-A]
+Alfonso F. Cárdenas, Analysis and performance of inverted data base structures, Communications of the ACM, v.18 n.5, p.253-263, May 1975[doi>10.1145/360762.360766]
+J. W. Chang , J. H. Lee , Y. J. Lee, Multikey access methods based on term discrimination and signature clustering, Proceedings of the 12th annual international ACM SIGIR conference on Research and development in information retrieval, p.176-185, June 25-28, 1989, Cambridge, Massachusetts, United States[doi>10.1145/75334.75353]
+Paulo Ciaccia , Pavel Zezula, Estimating accesses in partitioned signature file organizations, ACM Transactions on Information Systems (TOIS), v.11 n.2, p.133-142, April 1993[doi>10.1145/130226.145014]
+Paolo Ciaccia , Paolo Tiberio , Pavel Zezula, Declustering of key-based partitioned signature files, ACM Transactions on Database Systems (TODS), v.21 n.3, p.295-338, Sept. 1996[doi>10.1145/232753.232755]
+W. Bruce Croft , Pasquale Savino, Implementing ranking strategies using text signatures, ACM Transactions on Information Systems (TOIS), v.6 n.1, p.42-62, Jan. 1988[doi>10.1145/42279.45947]
+Chris Faloutsos, Access methods for text, ACM Computing Surveys (CSUR), v.17 n.1, p.49-74, March 1985[doi>10.1145/4078.4080]
+Christos Faloutsos, Signature files, Information retrieval: data structures and algorithms, Prentice-Hall, Inc., Upper Saddle River, NJ, 1992
+Christos Faloutsos , H. V. Jagadish, Hybrid Index Organizations for Text Databases, Proceedings of the 3rd International Conference on Extending Database Technology: Advances in Database Technology, p.310-327, March 23-27, 1992
+Donna Harman , R. Baeza-Yates , Edward Fox , W. Lee, Inverted files, Information retrieval: data structures and algorithms, Prentice-Hall, Inc., Upper Saddle River, NJ, 1992
+GOLOMB, S. 1966. Run-length encodings. IEEE Trans. Inf. Theor. IT-12, 3 (July), 399-401.
+Patrick A. V. Hall , Geoff R. Dowling, Approximate String Matching, ACM Computing Surveys (CSUR), v.12 n.4, p.381-402, Dec. 1980[doi>10.1145/356827.356830]
+HARMAN, D., ED. 1992a. Proceedings of the TREC Text Retrieval Conference (Washington, D.C., November). National Institute of Standards Special Publication 500-207.
+Donna Harman, Ranking algorithms, Information retrieval: data structures and algorithms, Prentice-Hall, Inc., Upper Saddle River, NJ, 1992
+HARMAN, D. AND CANDELA, G. 1990. Retrieving records from a gigabyte of text on a minicomputer using statistical ranking. J. Am. Soc. Inf. Sci. 41, 8, 581-589.
+HASKIN, R. 1981. Special purpose processors for text retrieval. Database Eng. 4, 1, 16-29.
+KENT, A. J., SACKS-DAVIS, R., AND RAMAMOHANARAO, K. 1990. A signature file scheme based on multiple organisations for indexing very large text databases. J. Am. Soc. Inf. Sci. 41, 7, 508-534.
+KWOK, K., PAPADOPOULOS, L., AND KWAN, K. 1992. Retrieval experiments with a large collection using PIRCS. In Proceedings of the TREC Text Retrieval Conference (Washington, D.C., November). D. Harman, Ed., National Institute of Standards Special Publication 500-207, 153-172.
+Dik Kun Lee , Liming Ren, Document ranking on weight-partitioned signature files, ACM Transactions on Information Systems (TOIS), v.14 n.2, p.109-137, April 1996[doi>10.1145/226163.226164]
+Gordon Linoff , Craig Stanfill, Compression of indexes with full positional information in very large text databases, Proceedings of the 16th annual international ACM SIGIR conference on Research and development in information retrieval, p.88-95, June 27-July 01, 1993, Pittsburgh, Pennsylvania, United States[doi>10.1145/160688.160699]
+LOVINS, J. 1968. Development of a stemming algorithm. Mech. Transl. Comput. 11, 1-2, 22-31.
+MANBER, U. AND WU, S. 1994. GLIMPSE: A tool to search through entire file systems. In Proceedings of the USENIX Winter 1994 Technical Conference (San Francisco, Calif., January). 23-32.
+MOFFAT, A. 1992. Economical inversion of large text files. Comput. Syst. 5, 2 (Spring), 125-139.
+Alistair Moffat , Timothy A. H. Bell,In situgeneration of compressed inverted files, Journal of the American Society for Information Science, v.46 n.7, p.537-550, Aug. 1995[doi>10.1002/(SICI)1097-4571(199508)46:7<537::AID-ASI7>3.0.CO;2-P]
+Alistair Moffat , Justin Zobel, Self-indexing inverted files for fast text retrieval, ACM Transactions on Information Systems (TOIS), v.14 n.4, p.349-379, Oct. 1996[doi>10.1145/237496.237497]
+R. Sacks-Davis , A. Kent , K. Ramamohanarao, Multikey access methods based on superimposed coding techniques, ACM Transactions on Database Systems (TODS), v.12 n.4, p.655-696, Dec. 1987[doi>10.1145/32204.32222]
+Ron Sacks-Davis , Alan Kent , Kotagiri Ramamohanarao , James Thom , Justin Zobel, Atlas: A Nested Relational Database System for Text Applications, IEEE Transactions on Knowledge and Data Engineering, v.7 n.3, p.454-470, June 1995[doi>10.1109/69.390250]
+Gerard Salton , Michael J. McGill, Introduction to Modern Information Retrieval, McGraw-Hill, Inc., New York, NY, 1986
+Gerard Salton , Edward A. Fox , Harry Wu, Extended Boolean information retrieval, Communications of the ACM, v.26 n.11, p.1022-1036, Nov. 1983[doi>10.1145/182.358466]
+Ian H. Witten , Alistair Moffat , Timothy C. Bell, Managing gigabytes (2nd ed.): compressing and indexing documents and images, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1999
+P. Zezula , F. Rabitti , P. Tiberio, Dynamic partitioning of signature files, ACM Transactions on Information Systems (TOIS), v.9 n.4, p.336-367, Oct. 1991[doi>10.1145/119311.119313]
+Justin Zobel , Alistair Moffat, Adding compression to a full-text retrieval system, Software—Practice & Experience, v.25 n.8, p.891-903, Aug. 1995[doi>10.1002/spe.4380250804]
+Justin Zobel , Alistair Moffat , Kotagiri Ramamohanarao, Guidelines for presentation and comparison of indexing techniques, ACM SIGMOD Record, v.25 n.3, p.10-15, Sept. 1996[doi>10.1145/234889.234891]
+Justin Zobel , Alistair Moffat , Ron Sacks-Davis, An Efficient Indexing Technique for Full Text Databases, Proceedings of the 18th International Conference on Very Large Data Bases, p.352-362, August 23-27, 1992
+ZOBEL, J., MOFFAT, A., AND SACKS-DAVIS, R. 1993. Storage management for files of dynamic records. In Proceedings of the Australian Database Conference (Brisbane, Australia, February). M. Orlowska and M. Papazoglou, Eds., World Scientific, Singapore, 26-38.

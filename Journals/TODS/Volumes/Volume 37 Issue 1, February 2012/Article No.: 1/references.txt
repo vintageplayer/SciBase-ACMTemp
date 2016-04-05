@@ -1,0 +1,42 @@
+Bayer, B. and McCreight, E. M. 1972. Organization and maintenance of large ordered indices. Acta Inf. 1, 173--189.
+Rudolf Bayer , Karl Unterauer, PrefixB-trees, ACM Transactions on Database Systems (TODS), v.2 n.1, p.11-26, March 1977[doi>10.1145/320521.320530]
+Michael A. Bender , Martin Farach-Colton , Miguel A. Mosteiro, Insertion Sort is O(n log n), Theory of Computing Systems, v.39 n.3, p.391-397, June 2006[doi>10.1007/s00224-005-1237-z]
+Michael A. Bender , Haodong Hu, An adaptive packed-memory array, ACM Transactions on Database Systems (TODS), v.32 n.4, p.26-es, November 2007[doi>10.1145/1292609.1292616]
+Philip A. Bernstein , Vassco Hadzilacos , Nathan Goodman, Concurrency control and recovery in database systems, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1987
+Luis-Felipe Cabrera , Robert Rees , Wayne Hineman, Applying Database Technology in the ADSM Mass Storage System, Proceedings of the 21th International Conference on Very Large Data Bases, p.597-605, September 11-15, 1995
+Lyman Do , Pamela Drew , Wei Jin , Vish Jumani , David Van Rossum, Issues in Developing Very Large Data Warehouses, Proceedings of the 24rd International Conference on Very Large Data Bases, p.633-636, August 24-27, 1998
+Graefe, G. 2003. Sorting and indexing with partitioned B-trees. In Proceedings of the CIDR Conference.
+Goetz Graefe, Write-optimized B-trees, Proceedings of the Thirtieth international conference on Very large data bases, p.672-683, August 31-September 03, 2004, Toronto, Canada
+Goetz Graefe, B-tree indexes, interpolation search, and skew, Proceedings of the 2nd international workshop on Data management on new hardware, June 25-25, 2006, Chicago, Illinois[doi>10.1145/1140402.1140409]
+Goetz Graefe, The five-minute rule 20 years later (and how flash memory changes the rules), Communications of the ACM, v.52 n.7, July 2009[doi>10.1145/1538788.1538805]
+Goetz Graefe, A survey of B-tree locking techniques, ACM Transactions on Database Systems (TODS), v.35 n.3, p.1-26, July 2010[doi>10.1145/1806907.1806908]
+Goetz Graefe , Per-Åke Larson, B-Tree Indexes and CPU Caches, Proceedings of the 17th International Conference on Data Engineering, p.349-358, April 02-06, 2001
+Jim Gray, Notes on Data Base Operating Systems, Operating Systems, An Advanced Course, p.393-481, January 1978
+Jim Gray , Paul McJones , Mike Blasgen , Bruce Lindsay , Raymond Lorie , Tom Price , Franco Putzolu , Irving Traiger, The Recovery Manager of the System R Database Manager, ACM Computing Surveys (CSUR), v.13 n.2, p.223-242, June 1981[doi>10.1145/356842.356847]
+Jim Gray , Andreas Reuter, Transaction Processing: Concepts and Techniques, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1992
+Theo Haerder , Andreas Reuter, Principles of transaction-oriented database recovery, ACM Computing Surveys (CSUR), v.15 n.4, p.287-317, December 1983[doi>10.1145/289.291]
+Pat Helland , Harald Sammer , Jim Lyon , Richard Carr , Phil Garrett , Andreas Reuter, Group Commit Timers and High Volume Transaction Systems, Proceedings of the 2nd International Workshop on High Performance Transaction Systems, p.301-329, September 28-30, 1987
+Vijay Kumar , Meichun Hsu, Recovery mechanisms in database systems, Prentice-Hall, Inc., Upper Saddle River, NJ, 1998
+Philip L. Lehman , s. Bing Yao, Efficient locking for concurrent operations on B-trees, ACM Transactions on Database Systems (TODS), v.6 n.4, p.650-670, Dec. 1981[doi>10.1145/319628.319663]
+Harry Leslie , Rohit Jain , Dave Birdsall , Hedieh Yaghmai, Efficient Search of Multi-Dimensional B-Trees, Proceedings of the 21th International Conference on Very Large Data Bases, p.710-719, September 11-15, 1995
+Lomet, D. B. 1998. Advanced recovery techniques in practice. In Recovery Mechanisms in Database Systems, Kumar and Hsu, 697--710.
+David Lomet, The evolution of effective B-tree: page organization and techniques: a personal account, ACM SIGMOD Record, v.30 n.3, September 2001[doi>10.1145/603867.603878]
+David Lomet , Betty Salzberg, Access method concurrency with recovery, Proceedings of the 1992 ACM SIGMOD international conference on Management of data, p.351-360, June 02-05, 1992, San Diego, California, USA[doi>10.1145/130283.130336]
+David Lomet , Betty Salzberg, Concurrency and recovery for index trees, The VLDB Journal — The International Journal on Very Large Data Bases, v.6 n.3, p.224-240, August 1997[doi>10.1007/s007780050042]
+David B. Lomet , Mark R. Tuttle, Redo Recovery after System Crashes, Proceedings of the 21th International Conference on Very Large Data Bases, p.457-468, September 11-15, 1995
+David Lomet , Mark Tuttle, A theory of redo recovery, Proceedings of the 2003 ACM SIGMOD international conference on Management of data, June 09-12, 2003, San Diego, California[doi>10.1145/872757.872806]
+C. Mohan, ARIES/KVL: A Key-Value Locking Method for Concurrency Control of Multiaction Transactions Operating on B-Tree Indexes, Proceedings of the 16th International Conference on Very Large Data Bases, p.392-405, August 13-16, 1990
+C. Mohan, Repeating History Beyond ARIES, Proceedings of the 25th International Conference on Very Large Data Bases, p.1-17, September 07-10, 1999
+C. Mohan , Don Haderle , Bruce Lindsay , Hamid Pirahesh , Peter Schwarz, ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging, ACM Transactions on Database Systems (TODS), v.17 n.1, p.94-162, March 1992[doi>10.1145/128765.128770]
+C. Mohan , Hamid Pirahesh, ARIES-RRH: Restricted Repeating of History in the ARIES Transaction Recovery Method, Proceedings of the Seventh International Conference on Data Engineering, p.718-727, April 08-12, 1991
+J. Eliot B. Moss, Working with Persistent Objects: To Swizzle or Not to Swizzle, IEEE Transactions on Software Engineering, v.18 n.8, p.657-673, August 1992[doi>10.1109/32.153378]
+Moss, J. E. B. 2006. Open nested transactions: Semantics and support. In Workshop on Memory Performance Issues (WMPI).
+Patrick O'Neil , Edward Cheng , Dieter Gawlick , Elizabeth O'Neil, The log-structured merge-tree (LSM-tree), Acta Informatica, v.33 n.4, p.351-385, 1996[doi>10.1007/s002360050048]
+Obermarck, R. 1998. Logging and recovery in commercial systems. In Recovery Mechanisms in Database Systems, Kumar and Hsu, 711--720.
+Russell Sears , Mark Callaghan , Eric Brewer,Rose: compressed, log-structured replication, Proceedings of the VLDB Endowment, v.1 n.1, August 2008
+Xiaowei Sun , Rui Wang , Betty Salzberg , Chendong Zou, Online B-tree merging, Proceedings of the 2005 ACM SIGMOD international conference on Management of data, June 14-16, 2005, Baltimore, Maryland[doi>10.1145/1066157.1066196]
+Peter Tucker , David Maier , Tim Sheard , Paul Stephens, Using Punctuation Schemes to Characterize Strategies for Querying over Data Streams, IEEE Transactions on Knowledge and Data Engineering, v.19 n.9, p.1227-1240, September 2007[doi>10.1109/TKDE.2007.1052]
+Gerhard Weikum, Principles and realization strategies of multilevel transaction management, ACM Transactions on Database Systems (TODS), v.16 n.1, p.132-180, March 1991[doi>10.1145/103140.103145]
+Gerhard Weikum , Hans-J. Schek, Concepts and applications of multilevel transactions and open nested transactions, Database transaction models for advanced applications, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1992
+Gerhard Weikum , Gottfried Vossen, Transactional information systems: theory, algorithms, and the practice of concurrency control and recovery, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2001
+Chendong Zou , Betty Salzberg, On-line reorganization of sparsely-populated B+-trees, Proceedings of the 1996 ACM SIGMOD international conference on Management of data, p.115-124, June 04-06, 1996, Montreal, Quebec, Canada[doi>10.1145/233269.233325]

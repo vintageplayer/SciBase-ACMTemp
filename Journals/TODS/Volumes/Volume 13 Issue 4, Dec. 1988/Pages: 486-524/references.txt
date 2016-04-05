@@ -1,0 +1,46 @@
+Serge Abiteboul , Victor Vianu, Transactions and integrity constraints, Proceedings of the fourth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.193-204, March 25-27, 1985, Portland, Oregon, United States[doi>10.1145/325405.325439]
+Serge Abiteboul , Victor Vianu, Equivalence and optimization of relational transactions, Journal of the ACM (JACM), v.35 n.1, p.70-120, Jan. 1988[doi>10.1145/42267.42271]
+ARORA, A. K., AND CARLSON, C. R. The Information Preserving Properties of Relational Database Transformations. In Proceedings VLDB 1978.
+M. M. Astrahan , M. W. Blasgen , D. D. Chamberlin , K. P. Eswaran , J. N. Gray , P. P. Griffiths , W. F. King , R. A. Lorie , P. R. McJones , J. W. Mehl , G. R. Putzolu , I. L. Traiger , B. W. Wade , V. Watson, System R: relational approach to database management, ACM Transactions on Database Systems (TODS), v.1 n.2, p.97-137, June 1976[doi>10.1145/320455.320457]
+BANCILHON, F., AND SPYRATOS, N. Independent Components of Databases. In Proceedings of 7th VLDB Conference (Sept. 1981).
+F. Bancilhon , N. Spyratos, Update semantics of relational views, ACM Transactions on Database Systems (TODS), v.6 n.4, p.557-575, Dec. 1981[doi>10.1145/319628.319634]
+BERNSTEIN, P. A., GOODMAN, N., AND LAI, M-Y. On analysing concurrency control algorithms when user and system operations differ, IEEE-TSE SE 9, 3 (1983).
+Marco A. Casanova , Philip A. Bernstein, The logic of a relational data manipulation language, Proceedings of the 6th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.101-109, January 29-31, 1979, San Antonio, Texas[doi>10.1145/567752.567762]
+Marco R. Casanova , Phillip A. Bernstein, A Formal System for Reasoning about Programs Accessing a Relational Database, ACM Transactions on Programming Languages and Systems (TOPLAS), v.2 n.3, p.386-414, July 1980[doi>10.1145/357103.357111]
+Edward P. F. Chan , Alberto O. Mendelzon, Independent and separable database schemes, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia[doi>10.1145/588058.588091]
+CLAYBROOK, B. G., CLAYBROOK, A. M., AND WILLIAMS, J. Defining database views as data abstractions, IEEE-TSE SE-11, 1 (Jan. 1985).
+Stavros S. Cosmadakis , Christos H. Papadimitriou, Updates of Relational Views, Journal of the ACM (JACM), v.31 n.4, p.742-760, Oct. 1984[doi>10.1145/1634.1887]
+Chris Date, A  Guide to DB2, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1984
+DAYAL, U., AND BERNSTEIN, P.A. On the updatability of relational views. In Proceedings of 4th VLDB (West Berlin, 1978).
+Umeshwar Dayal , Philip A. Bernstein, On the correct translation of update operations on relational views, ACM Transactions on Database Systems (TODS), v.7 n.3, p.381-416, Sept. 1982[doi>10.1145/319732.319740]
+DAYAL, U., AND BERNSTEIN, P.A. On the updatability of network views--extending relational view theory to the network model. Inf. Syst. 7, 1 {1982).
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+Ronald Fagin , Jeffrey D. Ullman , Moshe Y. Vardi, On the semantics of updates in databases, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia[doi>10.1145/588058.588100]
+FURTADO, A., AND CASANOVA, M. Updating relational views. In Query Processing in Database Systems, Kim, Rainer, and Batory, Eds. Springer-Verlag, Berlin, Heidelberg, 1985.
+Antonio L. Furtado , Larry Kerschberg, An algebra of quotient relations, Proceedings of the 1977 ACM SIGMOD international conference on Management of data, August 03-05, 1977, Toronto, Ontario, Canada[doi>10.1145/509404.509406]
+FURTADO, A., SEVCIK, K. C., AND DOS SANTOS, C. S. Permitting updates through views of databases, inf. Syst. 4, 4, 1979.
+GOGUEN, J. A., THATCHER, J. W., WAGNER, E. G., AND WRIGHT, J. B. An initial algebra approach to the specification, correctness, and implementation of abstract data types. In Data Structuring (Current Trends in Programming Methodology, vol. 4), R. Yeh, Ed. Prentice-Hall, Englewood Cliffs, N.J., 1978.
+G. Gottlob , P. Paolini , Roberto Zicari, Properties and Update Semantics of Consistent Views, University of California at Berkeley, Berkeley, CA, 1986
+David Harel, First-Order Dynamic Logic, Springer-Verlag New York, Inc., Secaucus, NJ, 1979
+Stephen J. Hegner, Algebraic aspects of relational database decomposition, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia[doi>10.1145/588058.588106]
+Stephen J. Hegner, Canonical view update support through boolean algebras of components, Proceedings of the 3rd ACM SIGACT-SIGMOD symposium on Principles of database systems, April 02-04, 1984, Waterloo, Ontario, Canada[doi>10.1145/588011.588034]
+Arthur M. Keller, Algorithms for translating view updates to database updates for views involving selections, projections, and joins, Proceedings of the fourth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.154-163, March 25-27, 1985, Portland, Oregon, United States[doi>10.1145/325405.325423]
+Arthur Michael Keller, Updating relational databases through views (complements, mappings, select, project, join), 1985
+Arthur M. Keller, Comment on Bancilhon and Spyratos' “Update semantics and relational views”, ACM Transactions on Database Systems (TODS), v.12 n.3, p.521-523, Sept. 1987[doi>10.1145/27629.214296]
+Arthur M Keller , Jeffrey D Ullman, On complementary and independent mappings on databases, Proceedings of the 1984 ACM SIGMOD international conference on Management of data, June 18-21, 1984, Boston, Massachusetts[doi>10.1145/602259.602279]
+Peter C. Lockemann , Heinrich C. Mayr , Wolfgang H. Weil , Wolfgang H. Wohlleber, Data abstractions for database systems, ACM Transactions on Database Systems (TODS), v.4 n.1, p.60-75, March 1979[doi>10.1145/320064.320067]
+Yoshifumi Masunaga, A Relational Database View Update Translation Mechanism, Proceedings of the 10th International Conference on Very Large Data Bases, p.309-320, August 27-31, 1984
+Claudia Maria Bauzer Medeiros, A validation tool for designing database views that permit updates, 1985
+MEDEIROS, C. M. B., AND TOMPA, F. W. Understanding the implications of view update policies. In Proceedings of VLDB 1985 {Stockholm, 1985).
+P. Paolini , G. Pelagatti, Formal definition of mappings in a data base, Proceedings of the 1977 ACM SIGMOD international conference on Management of data, August 03-05, 1977, Toronto, Ontario, Canada[doi>10.1145/509404.509413]
+PAOLINI, P. Verification of views and applications programs. Workshop on Formal Bases for Databases (Toulouse, France, Dec. 1979).
+PAOLINI, P., AND ZICARI, R. Properties of views and their implementation. In Advances in Database Theory, vol. 2, J. Minker, et al. Eds., Plenum Press, New York, 1984.
+Christos Papadimitriou, The theory of database concurrency control, Computer Science Press, Inc., New York, NY, 1986
+Lawrence A. Rowe , Kurt A. Shoens, Data abstraction, views and updates in RIGEL, Proceedings of the 1979 ACM SIGMOD international conference on Management of data, May 30-June 01, 1979, Boston, Massachusetts[doi>10.1145/582095.582107]
+SIKLOSS~, L. Updating views: a constructive approach. In Proceedings of Workshop on Logical Bases for Databases (Toulouse, Dec. 1982).
+N. Spyratos, An operational approach to data bases, Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database systems, March 29-31, 1982, Los Angeles, California[doi>10.1145/588111.588147]
+Michael Stonebraker , Gerald Held , Eugene Wong , Peter Kreps, The design and implementation of INGRES, ACM Transactions on Database Systems (TODS), v.1 n.3, p.189-222, Sept. 1976[doi>10.1145/320473.320476]
+Luiz Tucherman , Antonio L. Furtado , Marco A. Casanova, A Pragmatic Approach to Structured Database Design, Proceedings of the 9th International Conference on Very Large Data Bases, p.219-231, October 31-November 02, 1983
+V. Vianu , G. Vossen, Conceptual level concurrency control of relational update transactions, Lecture notes in computer science on ICDT '88, p.353-367, October 1988, Bruges, Belgium
+WEBER, H. A software engineering view of database systems. In Proceedings of VLDB (Sept. 1978).
+ZLOOF, M.M. Query-by-example: A database language. IBM Syst. J. 16, 4 (1977).

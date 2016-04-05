@@ -1,0 +1,33 @@
+AGHILI, H., ET AL. A prototype for a highly available database system. Res. Rep. RJ-3755, IBM Research Laboratories, Jan. 1983.
+BERLEKAMP, E. Algebraic Coding Theory. McGraw-Hill, New York, 1968.
+BERNSTEIN, P.A. What can we expect from database theory? Invited talk, ACM SIGMOD Conference (May 1983).
+C. J. Date, An introduction to database systems: vol. I (4th ed.), Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+DIFFIE, W., AND HELLMAN, M. New directions in cryptography. IEEE Trans. Inf. Theor. IT 22 (Nov. 1976), 644-654.
+Danny Dolev , H. Raymond Strong, Polynomial algorithms for multiple processor agreement, Proceedings of the fourteenth annual ACM symposium on Theory of computing, p.401-407, May 05-07, 1982, San Francisco, California, United States[doi>10.1145/800070.802215]
+DOLEV, D., AND STRONG, H.R. Authenticated algorithms for Byzantine agreement. IBM Res. Rep. RJ3416, IBM Research Laboratory, Mar. 1982.
+DOLEV, D., AND STRONG, H.R. Distributed commit with bounded waiting. In Proceedings 2nd Symposium on Reliability in Distributed Software and Database Systems (July 1982), 53-60.
+DOLEV, D., REISCHUG, R., AND STRONG, R. Early stopping in Byzantine agreement. IBM Tech. Rep. RJ3915, June 1983.
+Joseph Y. Halpern , Barbara Simons , Ray Strong , Danny Dolev, Fault-tolerant clock synchronization, Proceedings of the third annual ACM symposium on Principles of distributed computing, p.89-102, August 27-29, 1984, Vancouver, British Columbia, Canada[doi>10.1145/800222.806739]
+M. J. Fischer , N. A. Lynch , M. S. Paterson, IMPOSSIBILITY OF DISTRIBUTED CONSENSUS WITH ONE FAULTY PROCESS, Massachusetts Institute of Technology, Cambridge, MA, 1982
+FISCHER, M.J. The consensus problem in unreliable~listributed systems (a brief survey). Tech. Rep. YALEU/DCS/RR-273, Dept. of Computer Science, Yale Univ., June 1983.
+GARCIA-MOLINA, H. Elections in a distributed computing system. IEEE Trans. Comput. C-31, I (Jan. 1982).
+Jim Gray, Notes on Data Base Operating Systems, Operating Systems, An Advanced Course, p.393-481, January 1978
+LAMPORT, L. The implementation of reliable distributed multiprocess systems. Comput. Netw. 2 (1978), 95-114.
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+Leslie Lamport , Robert Shostak , Marshall Pease, The Byzantine Generals Problem, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.3, p.382-401, July 1982[doi>10.1145/357172.357176]
+L. Lamport, The Weak Byzantine Generals Problem, Journal of the ACM (JACM), v.30 n.3, p.668-676, July 1983[doi>10.1145/2402.322398]
+Leslie Lamport, Using Time Instead of Timeout for Fault-Tolerant Distributed Systems., ACM Transactions on Programming Languages and Systems (TOPLAS), v.6 n.2, p.254-280, April 1984[doi>10.1145/2993.2994]
+Leslie Lamport , P. M. Melliar-Smith, Byzantine clock synchronization, Proceedings of the third annual ACM symposium on Principles of distributed computing, p.68-74, August 27-29, 1984, Vancouver, British Columbia, Canada[doi>10.1145/800222.806737]
+LAMPSON, B., AND STURGiS, H. Crash recovery in a distributed data storage system. Xerox Res. Memo, Apr. 1979.
+Jennifer Lundelius , Nancy Lynch, A new fault-tolerant algorithm for clock synchronization, Proceedings of the third annual ACM symposium on Principles of distributed computing, p.75-88, August 27-29, 1984, Vancouver, British Columbia, Canada[doi>10.1145/800222.806738]
+LYNCH, N., FISCHER, M., AND FOWLER, R. A simple and efficient Byzantine generals algorithm. In Proceedings 2nd Annual IEEE Symposium on Reliability in Distributed Software and Database Systems (1982), IEEE, New York.
+MOHAN, C., STRONG, H. R., AND FINKELSTEIN, S. Method for distributed transaction commit and recovery using Byzantine agreement within clusters of processors. Res. Rep. RJ-3882, IBM Research Laboratories, June 1983.
+M. Pease , R. Shostak , L. Lamport, Reaching Agreement in the Presence of Faults, Journal of the ACM (JACM), v.27 n.2, p.228-234, April 1980[doi>10.1145/322186.322188]
+J. B. Rothnie, Jr. , P. A. Bernstein , S. Fox , N. Goodman , M. Hammer , T. A. Landers , C. Reeve , D. W. Shipman , E. Wong, Introduction to a system for distributed databases (SDD-1), ACM Transactions on Database Systems (TODS), v.5 n.1, p.1-17, March 1980[doi>10.1145/320128.320129]
+Richard D. Schlichting , Fred B. Schneider, Fail-stop processors: an approach to designing fault-tolerant computing systems, ACM Transactions on Computer Systems (TOCS), v.1 n.3, p.222-238, August 1983[doi>10.1145/357369.357371]
+SCHNEIDER, F. Comparison of the fail-stop processor and state machine approaches to faulttolerance. Tech. Rep. TR 82-533, Dept. of Computer Science, Cornell Univ., Nov. 1982.
+SIEWIOREK, D. P., AND SWARZ, R. S. The Theory and Practice of Reliable System Design. Digital Press, Bedford, Mass., 1982.
+SKEEN, D. Crash recovery in a distributed database system. Ph.D. thesis, Memo. UCBfERL M82/45, Univ. of California, Berkeley, May 1982.
+STONEBRAKER, M. Concurrency control and consistency of multiple copies of data in distributed INGRES. IEEE Trans. Softw. Eng. SE-5 (May 1979), 188-194.
+TAY, Y.C. Byzantine agreement in shortlived: Reliability of K-resilient distributed protocols. Tech. Rep. TR-18-83, Center for Research in Computing Technology, Harvard Univ., June 1983.
+WILLIAMS, R., ET AL. R*: An overview of the architecture. In Proceedings International Conference on Database Systems (Jerusalem, June 1982).

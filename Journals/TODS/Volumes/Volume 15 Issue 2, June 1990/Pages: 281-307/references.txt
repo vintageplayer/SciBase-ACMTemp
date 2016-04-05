@@ -1,0 +1,35 @@
+R. Bayer , H. Heller , A. Reiser, Parallelism and recovery in database systems, ACM Transactions on Database Systems (TODS), v.5 n.2, p.139-156, June 1980[doi>10.1145/320141.320146]
+Philip A. Bernstein , Nathan Goodman, Concurrency control algorithms for multiversion database systems, Proceedings of the first ACM SIGACT-SIGOPS symposium on Principles of distributed computing, p.209-215, August 18-20, 1982, Ottawa, Canada[doi>10.1145/800220.806699]
+Philip A. Bernstein , Nathan Goodman, Concurrency Control in Distributed Database Systems, ACM Computing Surveys (CSUR), v.13 n.2, p.185-221, June 1981[doi>10.1145/356842.356846]
+Philip A. Bernstein , Nathan Goodman, Multiversion concurrency control—theory and algorithms, ACM Transactions on Database Systems (TODS), v.8 n.4, p.465-483, Dec. 1983[doi>10.1145/319996.319998]
+Philip A. Bernstein , Vassco Hadzilacos , Nathan Goodman, Concurrency control and recovery in database systems, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1987
+Philip A. Bernstein , David W. Shipman , James B. Rothnie, Jr., Concurrency control in a system for distributed databases (SDD-1), ACM Transactions on Database Systems (TODS), v.5 n.1, p.18-51, March 1980[doi>10.1145/320128.320131]
+BERNSTEIN, P. A., SHIPMAN, D. W., AND WONG, W.S. Formal aspects of serializability in database concurrency control. IEEE Trans. Softw. Eng., BSE-5, 3 (1979), 203-216.
+Gael N. Buckley , Abraham Silberschatz, Obtaining Progressive Protocols for a Simple Multiversion Database Model, Proceedings of the 9th International Conference on Very Large Data Bases, p.74-80, October 31-November 02, 1983
+Marco Antonio Casanova, Concurrency Control Problem for Database Systems, Springer-Verlag New York, Inc., Secaucus, NJ, 1981
+C. J. Date, An introduction to database systems: vol. I (4th ed.), Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+Partha Dasgupta, Database concurrency control: versatile approaches to improve performance (protocols, locking, simulation), 1984
+Partha Dasgupta , Zvi M. Kedem, A Non-Two-Phase Locking Protocol for Concurrency Control in General Databases, Proceedings of the 9th International Conference on Very Large Data Bases, p.92-94, October 31-November 02, 1983
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+Michael J. Fischer , Alan Michael, Sacrificing serializability to attain high availability of data in an unreliable network, Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database systems, March 29-31, 1982, Los Angeles, California[doi>10.1145/588111.588124]
+Hector Garcia-Molina, Using semantic knowledge for transaction processing in a distributed database, ACM Transactions on Database Systems (TODS), v.8 n.2, p.186-213, June 1983[doi>10.1145/319983.319985]
+Hector Garcia-Molina , Gio Wiederhold, Read-only transactions in a distributed database, ACM Transactions on Database Systems (TODS), v.7 n.2, p.209-234, June 1982[doi>10.1145/319702.319704]
+GRAY, J.N. Notes on database operating systems. Rep. RJ2188, IBM Research, 1978.
+GRAY, J., HOMAN, P., KORTH, H., AND OBERKARJ, R.L. A straw man analysis of the probability of waiting and deadlock in a database system. Tech. Rep. RJ 3066, IBM, San Jose, Calif., 1981.
+GRAY, J., LORIE, R. A., PUTZOLU, F., AND TRAIGER, I. In Granularities of locks and de~ees of consistency in a shared database. In Modeling in Data Base Management Systems, G. M. Nijssen, Ed. North-Holland, New York, 1976.
+HAVENDER, J.W. Avoiding deadlocks in multiuser systems. IBM Syst. J. 7, 2 (1968), 74-84.
+KANELLAKIS, P. C., AND PAPADIMITRIOU, C. H. The complexity of distributed concurrency control. In Proceedings of the 22nd FOCS, 1981, pp. 185-197.
+KEDEM, Z., AND SILBERSCHATZ, A. A family of locking protocols modeled by directed acyclic graphs. IEEE Trans. Softw. Eng. (1982), 558-562.
+KEDEM, Z., AND SILBERSCHATZ, A. A non-two-phase locking protocol with shared and exclusive locks. In Proceedings of the Conference on Very Large Data Bases, Oct. 1981.
+KEDEM, Z., AND SILBERSCHATZ, A. Controlling concurrency using locking protocols. In Proceedings of the 20th FOCS, 1979, pp. 274-285.
+Henry F. Korth, Locking Primitives in a Database System, Journal of the ACM (JACM), v.30 n.1, p.55-79, Jan. 1983[doi>10.1145/322358.322363]
+H. T. Kung , John T. Robinson, On optimistic methods for concurrency control, ACM Transactions on Database Systems (TODS), v.6 n.2, p.213-226, June 1981[doi>10.1145/319566.319567]
+LINDSAY, B. G. et al. Notes on distributed database systbms. Tech. Rep. RJ2571(33471), IBM Research, Aug. 14, 1979.
+Christos H. Papadimitriou, The serializability of concurrent database updates, Journal of the ACM (JACM), v.26 n.4, p.631-653, Oct. 1979[doi>10.1145/322154.322158]
+PAPADIMITRIOU, C. n., BERNSTEIN, P., AND ROTHNm, J.B. Computational problems related to database concurrency control. In Proceedings of the Conference on Theoretical Computer Science {Waterloo, Ont., Canada, 1977), pp. 275-282.
+Christos H. Papadimitriou , Paris C. Kanellakis, On concurrency control by multiple versions, Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database systems, March 29-31, 1982, Los Angeles, California[doi>10.1145/588111.588125]
+Daniel J. Rosenkrantz , Richard E. Stearns , Philip M. Lewis, II, System level concurrency control for distributed database systems, ACM Transactions on Database Systems (TODS), v.3 n.2, p.178-198, June 1978[doi>10.1145/320251.320260]
+Abraham Silberschatz , Zvi Kedem, Consistency in Hierarchical Database Systems, Journal of the ACM (JACM), v.27 n.1, p.72-80, Jan. 1980[doi>10.1145/322169.322176]
+STEARNS, R. E., AND ROSENKRANTZ, D.J. Distributed database concurrency controls using before values. In Proceedings of the Conference on Very Large Data Bases, Oct: 1981.
+Jeffrey D. Ullman, Principles of Database Systems, W. H. Freeman & Co., New York, NY, 1983
+Mihalis Yannakakis, A Theory of Safe Locking Policies in Database Systems, Journal of the ACM (JACM), v.29 n.3, p.718-740, July 1982[doi>10.1145/322326.322333]

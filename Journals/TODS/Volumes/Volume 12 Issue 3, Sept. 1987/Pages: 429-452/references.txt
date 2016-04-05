@@ -1,0 +1,21 @@
+Alfred V. Aho , John E. Hopcroft, The  Design and Analysis of Computer Algorithms, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1974
+BERNSTEIN, P. A., SHIPMAN, D. W., AND WONG, S.W. Formal aspects of serializability in database concurrency control. IEEE Trans. Softw. Eng. SE-5, 3 (May 1979), 203-216.
+Philip A. Bernstein , Nathan Goodman, Multiversion concurrency control—theory and algorithms, ACM Transactions on Database Systems (TODS), v.8 n.4, p.465-483, Dec. 1983[doi>10.1145/319996.319998]
+EKANADHAM, K., AND NIGAM, A. On serializability. Rep. RC 9257, IBM T. J. Watson Research Center, Yorktown Heights, N.Y., Dec. 1981.
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+Michael R. Garey , David S. Johnson, Computers and Intractability: A Guide to the Theory of NP-Completeness, W. H. Freeman & Co., New York, NY, 1979
+Thanasis Hadzilacos , Christos H. Papadimitriou, Algorithmic aspects of multiversion concurrency control, Proceedings of the fourth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.96-104, March 25-27, 1985, Portland, Oregon, USA[doi>10.1145/325405.325417]
+IBARAKI, W., KAMEDA, T., AND MINOURA, T. Serializability made simple. CMPT TR82-12, Dept. of Computer Science, Simon Fraser Univ., Dec. 1982.
+IBARAKI, T., AND KAMEDA, T. Multi-version vs. single-version serializability. LCCR TR83-1, Laboratory for Computer and Communications Research, Simon Fraser Univ., 1983.
+Toshihide Ibaraki , Tiko Kameda , Toshimi Minoura, Disjoint-Interval Topological Sort: A Useful Concept in Serializability Theory (Extended Abstract), Proceedings of the 9th International Conference on Very Large Data Bases, p.89-91, October 31-November 02, 1983
+IBARAKI, T., KAMEDA, T., AND KATOH, N. Cautious transaction schedulers for multiversion database systems. LCCR TR86-12, Laboratory for Computer and Communications Research,
+Toshihide Ibaraki , Tiko Kameda , Naoki Katoh, Cautious Transaction Schedulers for Database Concurrency Control, IEEE Transactions on Software Engineering, v.14 n.7, p.997-1009, July 1988[doi>10.1109/32.42740]
+Naoki Katoh , Toshihide Ibaraki , Tiko Kameda, Cautious transaction schedulers with admission control, ACM Transactions on Database Systems (TODS), v.10 n.2, p.205-229, June 1985[doi>10.1145/3857.3860]
+KATOH, N., KAMEDA, T., AND IBARAKI, T. A cautious scheduler for multistep transactions. Algorithmica 2, 1 (1987), 1-26.
+Shojiro Muro , Tiko Kameda , Toshimi Minoura, Multi-version concurrency control scheme for a database system, Journal of Computer and System Sciences, v.29 n.2, p.207-224, Oct. 1984[doi>10.1016/0022-0000(84)90031-X]
+Christos H. Papadimitriou, The serializability of concurrent database updates, Journal of the ACM (JACM), v.26 n.4, p.631-653, Oct. 1979[doi>10.1145/322154.322158]
+Christos H. Papadimitriou , Paris C. Kanellakis, On Concurrency Control by Multiple Versions, ACM Transactions on Database Systems (TODS), v.9 n.1, p.89-99, March 1984[doi>10.1145/348.318588]
+SETHI, R. A model of concurrent database transactions, in Proceedings of the 22na l~.~ Symposium on the Foundations of Computer Science (Oct. 1981), IEEE, New York, 1981, 175-184.
+Ravi Sethi, Useless Actions Make a Difference: Strict Serializability of Database Updates, Journal of the ACM (JACM), v.29 n.2, p.394-403, April 1982[doi>10.1145/322307.322314]
+STEARNS, R. E., LEWIS, P. M. I., AND ROSENKRANTZ, D.J. Concurrency control for database systems. In Proceedings of the 17th IEEE Symposium on the Foundations of Computer Science (Oct. 1976), IEEE, New York, 1976, 19-32.
+Mihalis Yannakakis, Issues of correctness in database concurrency control by locking, Proceedings of the thirteenth annual ACM symposium on Theory of computing, p.363-367, May 11-13, 1981, Milwaukee, Wisconsin, USA[doi>10.1145/800076.802490]

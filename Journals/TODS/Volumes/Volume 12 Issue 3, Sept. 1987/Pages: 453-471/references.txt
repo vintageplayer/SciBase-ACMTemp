@@ -1,0 +1,16 @@
+Rakesh Agrawal , Michael J. Carey , Miron Livny, Models for studying concurrency control performance: alternatives and implications, Proceedings of the 1985 ACM SIGMOD international conference on Management of data, p.108-121, May 1985, Austin, Texas, United States[doi>10.1145/318898.318909]
+Philip A. Bernstein , Nathan Goodman, Concurrency Control in Distributed Database Systems, ACM Computing Surveys (CSUR), v.13 n.2, p.185-221, June 1981[doi>10.1145/356842.356846]
+BERNSTEIN, P. A., AND GOODMAN, N. Fundamental algorithms for concurrency control in distributed database systems. Computer Corp. of America Tech. Rep. CCA-80-05, (1981).
+Philip A. Bernstein , Vassco Hadzilacos , Nathan Goodman, Concurrency control and recovery in database systems, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1987
+Stefano Ceri , Giuseppe Pelagatti, Distributed databases principles and systems, McGraw-Hill, Inc., New York, NY, 1984
+Cynthia Dwork , Dale Skeen, The inherent cost of nonblocking commitment, Proceedings of the second annual ACM symposium on Principles of distributed computing, p.1-11, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806705]
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+Jim Gray, Notes on Data Base Operating Systems, Operating Systems, An Advanced Course, p.393-481, January 1978
+H~VENDER, J.W. Avoiding deadlock in multitasking systems. IBM Syst. J. 7, 2 (1968), 74-84.
+KANELLAKIS, P. C., AND PAPADIMITRIOU, C. H. The complexity of distributed concurrency control. In Proceedings o{ the 2d IEEE Symposium on the Foundations of Computer Science (Nashville, Tenn., Oct. 28-30, 1981), IEEE, New York, 1981, 185-197.
+KANELLAKIS, P. C., AND PAPADIMITRIOU, C.H. Is distributed locking harder? J. Comput. Syst. Sci. 28 (1984), 103-120.
+LIN, W. K., AND NOLTE, J. Performance of distributed concurrency control. In Distributed Database Control and Allocation: Performance Analysis of Concurrency Algorithms. Rome Air Development Center, Tech. Rep. 83-226, Vol. II (of three) (1983), 79-103.
+SILBERSCHATZ, A. A case for non-two-phase locking protocols that ensure atomicity. IEEE Trans. Softw. Eng. 9, 4 (1983), 535-538.
+Abraham Silberschatz , Zvi Kedem, Consistency in Hierarchical Database Systems, Journal of the ACM (JACM), v.27 n.1, p.72-80, Jan. 1980[doi>10.1145/322169.322176]
+Jeffrey D. Ullman, Principles of Database Systems, W. H. Freeman & Co., New York, NY, 1983
+Ouri Wolfson , Mihalis Yannakakis, Deadlock-freedom (and saftey) of transactions in a distributed database, Proceedings of the fourth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.105-112, March 25-27, 1985, Portland, Oregon, United States[doi>10.1145/325405.325418]

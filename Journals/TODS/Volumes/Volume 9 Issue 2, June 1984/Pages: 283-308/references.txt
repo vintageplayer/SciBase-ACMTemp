@@ -1,0 +1,52 @@
+AHO, A.V. Private communication.
+A. V. Aho , C. Beeri , J. D. Ullman, The theory of joins in relational databases, ACM Transactions on Database Systems (TODS), v.4 n.3, p.297-314, Sept. 1979[doi>10.1145/320083.320091]
+A. V. Aho , Y. Sagiv , J. D. Ullman, Efficient optimization of a class of relational expressions, ACM Transactions on Database Systems (TODS), v.4 n.4, p.435-454, Dec. 1979[doi>10.1145/320107.320112]
+ARAZ}-GONCZAROWSKI, Z. A high-level interface for naive users in a relational database. Report, Dept. of Computer Science, Hebrew Univ., Jerusalem, 1981.
+Paolo Atzeni , D. Stott Parker, Jr., Assumptions in relational database theory, Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database systems, March 29-31, 1982, Los Angeles, California[doi>10.1145/588111.588113]
+E. Babb, Joined normal form: a storage encoding for relational databasess, ACM Transactions on Database Systems (TODS), v.7 n.4, p.588-614, Dec. 1982[doi>10.1145/319758.319768]
+BEERI, C., BERNSTEIN, P.A., AND GOODMAN, N. A sophisticate's introduction to database normalization theory. In Proceedings International Conference on Very Large Data Bases (1978), 113-124.
+BEErtI, C., AND R}SSANEN, J. Faithful representation on relational database schemes. IBM Res. Rep., IBM Research Laboratory, San Jose, Calif., 1980.
+Catriel Beeri , Moshe Y. Vardi, A Proof Procedure for Data Dependencies, Journal of the ACM (JACM), v.31 n.4, p.718-741, Oct. 1984[doi>10.1145/1634.1636]
+Philip A. Bernstein, Synthesizing third normal form relations from functional dependencies, ACM Transactions on Database Systems (TODS), v.1 n.4, p.277-298, Dec. 1976[doi>10.1145/320493.320489]
+C. Robert Carlson , Robert S. Kaplan, A generalized access path model and its application to a relational data base system, Proceedings of the 1976 ACM SIGMOD international conference on Management of data, June 02-04, 1976, Washington, D.C.
+E. F. Codd, A relational model of data for large shared data banks, Communications of the ACM, v.13 n.6, p.377-387, June 1970[doi>10.1145/362384.362685]
+E. F. Codd, Relational database: a practical foundation for productivity, Communications of the ACM, v.25 n.2, p.109-117, Feb 1982[doi>10.1145/358396.358400]
+CODD, E.F., ARNOLD, R.S., CADIOU, J.M., CHANG, C.L., AND ROUSSOPOULOS, N. Rendezvous version I: An experimental English language query formulation system for casual users of relational databases. RJ2144, IBM, San Jose, Calif., 1978.
+Ronald Fagin, Horn clauses and database dependencies, Journal of the ACM (JACM), v.29 n.4, p.952-985, Oct. 1982[doi>10.1145/322344.322347]
+Ronald Fagin , Alberto O. Mendelzon , Jeffrey D. Ullman, A simplied universal relation assumption and its properties, ACM Transactions on Database Systems (TODS), v.7 n.3, p.343-360, Sept. 1982[doi>10.1145/319732.319735]
+Herve Gallaire , Jack Minker, Logic and Data Bases, Perseus Publishing, 1978
+Marc H. Graham , Alberto O. Mendelzon, Notions of dependency satisfaction, Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database systems, March 29-31, 1982, Los Angeles, California[doi>10.1145/588111.588142]
+Marc H. Graham , Moshe Y. Vardi, On the complexity and axiomatizability of consistent database states, Proceedings of the 3rd ACM SIGACT-SIGMOD symposium on Principles of database systems, April 02-04, 1984, Waterloo, Ontario, Canada[doi>10.1145/588011.588052]
+Peter Honeyman, Testing satisfaction of functional dependencies, Journal of the ACM (JACM), v.29 n.3, p.668-677, July 1982[doi>10.1145/322326.322330]
+HONEYMAN, P., LADNER, R.E., AND YANNAKAKIS, M. Testing the universal instance assumption. Inf. Process. Lett. 10, 1 (1980), 14-19.
+IMIELINSKI, T., AND LIPSKI, W. On representing incomplete information in a relational database. In Proceedings International Conference on Very Large Data Bases (1981), 388-397.
+W. Kent, Consequences of assuming a universal relation, ACM Transactions on Database Systems (TODS), v.6 n.4, p.539-556, Dec. 1981[doi>10.1145/319628.319630]
+KORTH, H.F., KUPER, G.M., AND ULLMAN, J.D. System/U: A database system based on the universal relation assumption. Res. Rep. STAN-CS-82-944, Stanford Univ., Jan. 1983.
+KOWALSKI, R. Logic as a database language. Report, Dept. of Computing, Imperial College, London, 1981.
+Sharon McCure Kuck , Yehoshua Sagiv, A universal relation database system implemented via the network model, Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database systems, March 29-31, 1982, Los Angeles, California[doi>10.1145/588111.588135]
+Eliezer L. Lozinskii, Construction of relations in relational databases, ACM Transactions on Database Systems (TODS), v.5 n.2, p.208-224, June 1980[doi>10.1145/320141.320155]
+David Maier, Theory of Relational Databases, Computer Science Pr, 1983
+MAIER, D. Discarding the universal instance assumption. In Proceedings XP/I Workshop (Stony Brook, N.Y., June, 1980).
+MAIER, D., MENDELZON, A.O., SADRI, F., AND ULLMAN, J.D. Adequacy of decompositions in relational databases. J. Cornput. Syst. Sci. 21, 3 (1980), 368-380.
+David Maier , Alberto O. Mendelzon , Yehoshua Sagiv, Testing implications of data dependencies, ACM Transactions on Database Systems (TODS), v.4 n.4, p.455-469, Dec. 1979[doi>10.1145/320107.320115]
+David Maier , David Rozenshtein , David S. Warren, Windows on the world, Proceedings of the 1983 ACM SIGMOD international conference on Management of data, May 23-26, 1983, San Jose, California[doi>10.1145/582192.582207]
+D. Maier , D. Rozenshtein , S. Salveter , J. Stein , D. S. Warren, Toward logical data independence: a relational query language without relations, Proceedings of the 1982 ACM SIGMOD international conference on Management of data, June 02-04, 1982, Orlando, Florida[doi>10.1145/582353.582362]
+David Maier , Jeffrey D. Ullman, Maximal objects and the semantics of universal relation databases, ACM Transactions on Database Systems (TODS), v.8 n.1, p.1-14, March 1983[doi>10.1145/319830.319831]
+MAIER, D., ULLMAN, J.D., AND VARDX, M.Y. Beyond representative instances. Manuscript, in preparation, Stanford Univ., Stanford, Calif.
+David Maier , David S. Warren, Specifying connections for a universal relation scheme database, Proceedings of the 1982 ACM SIGMOD international conference on Management of data, June 02-04, 1982, Orlando, Florida[doi>10.1145/582353.582355]
+Alberto O. Mendelzon, Database states and their tableaux, ACM Transactions on Database Systems (TODS), v.9 n.2, p.264-282, June 1984[doi>10.1145/329.318579]
+J. M. Nicolas, First order logic formalization for functional, multivalued and mutual dependencies, Proceedings of the 1978 ACM SIGMOD international conference on management of data, May 31-June 02, 1978, Austin, Texas[doi>10.1145/509252.509269]
+OSBORN, S.L. Towards a universal relation interface. In Proceedings International Conference on Very Large Data Bases (1979), 52-60.
+REITER, R. Towards a logical reconstruction of relational database theory. Report, Dept. of Computer Science, Univ. of British Columbia, 1981. Also in On Conceptual Modelling: Perspectives from Artificial Intelligence, Databases, and Programming Languages. M. L. Brodie, J. Mylopoulous, and J. Schmidt, Eds., Springer Verlag, 1984, 191-233.
+Jorma Rissanen, Independent components of relations, ACM Transactions on Database Systems (TODS), v.2 n.4, p.317-325, Dec. 1977[doi>10.1145/320576.320580]
+Fereidoon Sadri , Jeffrey D. Ullman, Template Dependencies: A Large Class of Dependencies in Relational Databases and Its Complete Axiomatization, Journal of the ACM (JACM), v.29 n.2, p.363-372, April 1982[doi>10.1145/322307.322312]
+Yehoshua Sagiv, Can we use the universal instance assumption without using nulls?, Proceedings of the 1981 ACM SIGMOD international conference on Management of data, April 29-May 01, 1981, Ann Arbor, Michigan[doi>10.1145/582318.582336]
+Yehoshua Sagiv, A characterization of globally consistent databases and their correct access paths, ACM Transactions on Database Systems (TODS), v.8 n.2, p.266-286, June 1983[doi>10.1145/319983.319988]
+Kathryn L. Schenk , James R. Pinkert, An algorithm for servicing multi-relational queries, Proceedings of the 1977 ACM SIGMOD international conference on Management of data, August 03-05, 1977, Toronto, Ontario, Canada[doi>10.1145/509404.509408]
+Jeffrey D. Ullman, Principles of Database Systems, W. H. Freeman & Co., New York, NY, 1983
+Jeffrey D. Ullman, The U. R. strikes back, Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database systems, March 29-31, 1982, Los Angeles, California[doi>10.1145/588111.588114]
+ULLMAN, J.D. Universal relation interface for database systems. In Proceedings IFIP 1983, R.E.A. Mason, Ed., North-Holland, 243-252.
+VARDI, M.Y. On decomposition of relational databases. In Proceedings IEEE 23rd Annual Symposium on Foundations of Computer Science (Nov. 1982), IEEE, New York, 176-183.
+VARm, M.Y. Axiomatization of functional and join dependencies in the relational model. M. Sc. Thesis, Dept. of Applied Math., Weizmann Institute of Science, Rehovot, Israel, 1980.
+YANNAKAKIS, M. Algorithms for acyclic database schemes. In Proceedings International Conference on Very Large Data Bases {1981), 82-94.
+YANNAKAKIS, M., AND PAPADIMITRIOU, C.H. Algebraic dependencies. J. Comput. Syst. Sci. 25 (1982), 2-41.

@@ -1,0 +1,31 @@
+Eric Allman , Michael Stonebraker , Gerald Held, Embedding a relational data sublanguage in a general purpose programming language, Proceedings of the 1976 conference on Data : Abstraction, definition and structure, p.25-35, March 22-24, 1976, Salt Lake City, Utah, USA[doi>10.1145/800237.807115]
+M. M. Astrahan , M. W. Blasgen , D. D. Chamberlin , K. P. Eswaran , J. N. Gray , P. P. Griffiths , W. F. King , R. A. Lorie , P. R. McJones , J. W. Mehl , G. R. Putzolu , I. L. Traiger , B. W. Wade , V. Watson, System R: relational approach to database management, ACM Transactions on Database Systems (TODS), v.1 n.2, p.97-137, June 1976[doi>10.1145/320455.320457]
+BorcE, R., ~T AL. Specifying queries as relational expessions: SQUARE. Rep. Rj 1291, IBM Res. Lab., San Jose, Calif., Oct. 1973.
+Donald D. Chamberlin , Raymond F. Boyce, SEQUEL: A structured English query language, Proceedings of the 1974 ACM SIGFIDET (now SIGMOD) workshop on Data description, access and control, p.249-264, May 01-03, 1974, Ann Arbor, Michigan[doi>10.1145/800296.811515]
+CHAMBERLIN, D., (}RAY, J.~}'., AND TRAI(}ER, I.L. Views, authorization and locking in a relational data base system. Proc. AFIPS 1975 NCC, ~ot. 44, AFIPS Press, Montvale, N.J., May 1975, pp. 425-430.
+Comm. on Data Systems Languages. CODASYL Data Base Task Group Rep., ACM, New York, 1971.
+E. F. Codd, A relational model of data for large shared data banks, Communications of the ACM, v.13 n.6, p.377-387, June 1970[doi>10.1145/362384.362685]
+CODD, E.F. A data base sublanguage founded on the relational calculus. Proc. 1971 ACM- SIGFIDET Workshop on Data Description, Access and Control, San Diego, Calif., Nov. 1971, pp. 35-68.
+CODD, E.F. R e}ational completeness of data base sublanguages. Courant Computer Science Symp. 6, May 1971, Prentice-Hall, Englewood Cliffs, N.J., pp. 65-90.
+E. F. Codd , C. J. Date, Interactive support for non-programmers: The relational and network approaches, Proceedings of the 1974 ACM SIGFIDET (now SIGMOD) workshop on Data description, access and control: Data models: Data-structure-set versus relational, p.11-41, May 01-03, 0074, Ann Arbor, Michigan[doi>10.1145/800297.811529]
+C. J. Date , E. F. Codd, The relational and network approaches: Comparison of the application programming interfaces, Proceedings of the 1974 ACM SIGFIDET (now SIGMOD) workshop on Data description, access and control: Data models: Data-structure-set versus relational, p.83-113, May 01-03, 0074, Ann Arbor, Michigan[doi>10.1145/800297.811532]
+GRAY, J.N., LORIE, R.A., and PUTZOLU, G.R. Granularity of Locks in a Shared Data Base. Proc. Int. Conf. of Very Large Data Bases, Framingham, Mass., Sept. 1975, pp. 428-451. (Available from ACM, New York.)
+Go, A., STONEBRAKER, M., AND WILLIAMS, C. An approach to implementing a geo-data system. Proc. ACM SIGGRAPH/SIGMOD Conf. for Data Bases in Interactive Design, Waterloo, Ont., Canada, Sept. 1975, pp. 67-77.
+GO~TLIEB, D., ET AL. A classification of compression methods and their usefulness in a large data processing center. Proc. AFIPS 1975 NCC, Vol. 44, AFIPS Press, Montvale, N.J., May 1975, pp. 453-458.
+HELD, G.D., STONEBRAKER, M., AND WONG, E. INGRES--A relational data base management system. Proc. AFIPS 1975 NCC, Vol. 44, AFIPS Press, Montvale, N.J., 1975, pp. 409-416.
+Gerald David Held, Storage structures for relational data base management systems., University of California, Berkeley, 1975
+HELD, G., AND STONEBRAKER, M. B-trees re-examined. Submitted to a technical journal.
+IBM CoaP. OS ISAM logic. GY28-6618, IBM Corp., White Plains, N.Y., 1966.
+JOHNSON, S.C. YACC, yet another compiler-compiler. UNIX Programmer's Manual, Bell Telephone Labs, Murray Hill, N.J., July 1974.
+MCDONALD, N., AND STONEBRAKER, M. Cupid--The friendly query language. Proc. ACM- Pacific-75, San Francisco, Calif., April 1975, pp. 127-131.
+Nancy Harriet Mcdonald, Cupid: a graphics oriented facility for support of non-programmer interactions with a data base., University of California, Berkeley, 1975
+Dennis M. Ritchie , Ken Thompson, The UNIX time-sharing system, Communications of the ACM, v.17 n.7, p.365-375, July 1974[doi>10.1145/361011.361061]
+SCHOENBER% I. Implementation of integrity constraints in the relational data base management system, INGRES. 1V{.S. Th., Dep. of Electrical Eng. and Computer Science, U. of California, Berkeley, Calif., 1975.
+Michael Stonebraker, A functional view of data independence, Proceedings of the 1974 ACM SIGFIDET (now SIGMOD) workshop on Data description, access and control, p.63-81, May 01-03, 1974, Ann Arbor, Michigan[doi>10.1145/800296.811505]
+Michael Stonebraker , Eugene Wong, Access control in a relational data base management system by query modification, Proceedings of the 1974 annual conference, p.180-186, January 1974[doi>10.1145/800182.810400]
+STONEBRAKER, M. High level integrity assurance in relational data base systems. ERI Mem. No. M473, Electronics Res. Lab., U. of California, Berkeley, Calif., Aug. 1974.
+Michael Stonebraker, Implementation of integrity constraints and views by query modification, Proceedings of the 1975 ACM SIGMOD international conference on Management of data, May 14-16, 1975, San Jose, California[doi>10.1145/500080.500091]
+Michael Stonebraker , Peter Rubinstein, The INGRES protection system, Proceedings of the 1976 annual conference, p.80-84, October 20-22, 1976, Houston, Texas, USA[doi>10.1145/800191.805536]
+TSICHaITZIS, D. A network framework for relational implementation. Rep. CSRG-51, Computer Systems Res. Group, U. of Toronto, Toronto, Ont., Canada, Feb. 1975.
+Eugene Wong , Karel Youssefi, Decomposition—a strategy for query processing, ACM Transactions on Database Systems (TODS), v.1 n.3, p.223-241, Sept. 1976[doi>10.1145/320473.320479]
+LooK, W., }:T AL. INGRES--Reference manual, 5. ERL Mem. No. M585, Electronics Res. Lab., U. of California, Berkeley, Calif., April 1976.

@@ -1,0 +1,58 @@
+Dipankar Sarma , Paul E. McKenney, Making RCU safe for deep sub-millisecond response realtime applications, Proceedings of the annual conference on USENIX Annual Technical Conference, p.32-32, June 27-July 02, 2004, Boston, MA
+H. T. Kung , C. H. Papadimitriou, An optimality theory of concurrency control for databases, Acta Informatica, v.19 n.1, p.1-11, April     1983
+Udi Manber, On maintaining dynamic information in a concurrent environment, Proceedings of the sixteenth annual ACM symposium on Theory of computing, p.273-278, December 1984
+Ray Ford , Duangkaew Sawamiphakdi, A greedy concurrent approach to incremental code generation, Proceedings of the 12th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.165-178, January 14-16, 1985, New Orleans, Louisiana, United States
+Ray Ford, Concurrent Algorithms for Real-Time Memory Management, IEEE Software, v.5 n.5, p.10-23, September 1988
+H. T. Kung , John T. Robinson, On optimistic methods for concurrency control, ACM Transactions on Database Systems (TODS), v.6 n.2, p.213-226, June 1981
+Udi Manbar , Richard E. Ladner, Concurrency control in a dynamic search structure, ACM Transactions on Database Systems (TODS), v.9 n.3, p.439-455, Sept. 1984
+John Turek , Dennis Shasha , Sundeep Prakash, Locking without blocking: making lock based concurrent data structure algorithms nonblocking, Proceedings of the eleventh ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.212-222, June 02-05, 1992, San Diego, California, United States
+Ray Ford , Jim Calhoun, Concurrency control mechanisms and the serializability of concurrent tree algorithms, Proceedings of the 3rd ACM SIGACT-SIGMOD symposium on Principles of database systems, April 02-04, 1984, Waterloo, Ontario, Canada
+Gaël Patin , Mihaela Sighireanu , Tayssir Touili, SPADE: verification of multithreaded dynamic and recursive programs, Proceedings of the 19th international conference on Computer aided verification, July 03-07, 2007, Berlin, Germany
+Otto Nurmi , Eljas Soisalon-Soininen, Uncoupling updating and rebalancing in chromatic binary search trees, Proceedings of the tenth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.192-198, May 29-31, 1991, Denver, Colorado, United States
+Heejin Park , Kunsoo Park , Yookun Cho, Deleting Keys of B-trees in Parallel, Proceedings of the 16th International Parallel and Distributed Processing Symposium, p.112, April 15-19, 2002
+Udi Manber , Richard E. Ladner, Concurrency control in a dynamic search structure, Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database systems, March 29-31, 1982, Los Angeles, California
+Ing-Ray Chen , Salah Hassan, Performance analysis of a periodic data reorganization algorithm for concurrentBlink-trees in database systems, Proceedings of the 1995 ACM symposium on Applied computing, p.40-45, February 26-28, 1995, Nashville, Tennessee, United States
+Otto Nurmi , Eljas Soisalon-Soininen, Chromatic binary search trees, Acta Informatica, v.33 n.5, p.547-557, August    1996
+Eleanna Kafeza , Thanasis Hadzilacos, Transaction synchronization in structures for point data, Proceedings of the 5th ACM international workshop on Advances in geographic information systems, p.44-49, November 10-14, 1997, Las Vegas, Nevada, United States
+Carla Schlatter Ellis, Concurrency in linear hashing, ACM Transactions on Database Systems (TODS), v.12 n.2, p.195-217, June 1987
+Rajeev Rastogi , S. Seshadri , Philip Bohannon , Dennis W. Leinbaugh , Abraham Silberschatz , S. Sudarshan, Logical and Physical Versioning in Main Memory Databases, Proceedings of the 23rd International Conference on Very Large Data Bases, p.86-95, August 25-29, 1997
+Philip L. Lehman , s. Bing Yao, Efficient locking for concurrent operations on B-trees, ACM Transactions on Database Systems (TODS), v.6 n.4, p.650-670, Dec. 1981
+A. Fu , T. Kameda, Concurrency control of nested transactions accessing B-trees, Proceedings of the eighth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.270-285, March 1989, Philadelphia, Pennsylvania, United States
+O. Nurmi , E. Soisalon-Soininen , D. Wood, Concurrency control in database structures with relaxed balance, Proceedings of the sixth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.170-176, March 23-25, 1987, San Diego, California, United States
+Vladimir Lanin , Dennis Shasha, Concurrent set manipulation without locking, Proceedings of the seventh ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.211-220, March 1988, Austin, Texas, United States
+David L. Detlefs , Paul A. Martin , Mark Moir , Guy L. Steele, Jr., Lock-free reference counting, Proceedings of the twentieth annual ACM symposium on Principles of distributed computing, p.190-199, August 2001, Newport, Rhode Island, USA
+J. Biswas , J. C. Browne, Simulation Data Structures for Parallel Resource Management, IEEE Transactions on Software Engineering, v.19 n.7, p.672-686, July 1993
+Marcel Kornacker , C. Mohan , Joseph M. Hellerstein, Concurrency and recovery in generalized search trees, ACM SIGMOD Record, v.26 n.2, p.62-72, June 1997
+Paul E. McKenney, Structured Deferral: Synchronization via Procrastination, Queue, v.11 n.5, May 2013
+Vladimir Lanin , Dennis Shasha, A symmetric concurrent B-tree algorithm, Proceedings of 1986 ACM Fall joint computer conference, p.380-389, November 1986, Dallas, Texas, United States
+Z. Fan , K. H. Cheng, A Generalized Simultaneous Access Dictionary Machine, IEEE Transactions on Parallel and Distributed Systems, v.2 n.2, p.149-159, April 1991
+Paul E. McKenney, Structured deferral: synchronization via procrastination, Communications of the ACM, v.56 n.7, July 2013
+Amitabha Roy , Steven Hand , Tim Harris, A runtime system for software lock elision, Proceedings of the 4th ACM European conference on Computer systems, April 01-03, 2009, Nuremberg, Germany
+Tomohiro Yoshihara , Dai Kobayashi , Haruo Yokota, A concurrency control protocol for parallel B-tree structures without latch-coupling for explosively growing digital content, Proceedings of the 11th international conference on Extending database technology: Advances in database technology, March 25-29, 2008, Nantes, France
+Justin Levandoski , David Lomet , Sudipta Sengupta, LLAMA: a cache/storage subsystem for modern hardware, Proceedings of the VLDB Endowment, v.6 n.10, p.877-888, August 2013
+Stavros S. Cosmadakis , Kleoni Ioannidou , Stergios Stergiou, View Serializable Updates of Concurrent Index Structures, Revised Papers from the  8th International Workshop on Database Programming Languages, p.247-262, September 08-10, 2001
+Aleksandar Prokopec , Nathan Grasso Bronson , Phil Bagwell , Martin Odersky, Concurrent tries with efficient non-blocking snapshots, ACM SIGPLAN Notices, v.47 n.8, August 2012
+Mohsen Lesani , Antonio Lain, Semantics-preserving sharing actors, Proceedings of the 2013 workshop on Programming based on actors, agents, and decentralized control, October 27-27, 2013, Indianapolis, Indiana, USA
+Theodore Johnson , Dennis Shasha, A framework for the performance analysis of concurrent B-tree algorithms, Proceedings of the ninth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.273-287, April 02-04, 1990, Nashville, Tennessee, USA
+Gabriel Tanase , Chidambareswaran Raman , Mauro Bianco , Nancy M. Amato , Lawrence Rauchwerger, Associative Parallel Containers in STAPL, Languages and Compilers for Parallel Computing: 20th International Workshop, LCPC 2007, Urbana, IL, USA, October 11-13, 2007, Revised Selected Papers, Springer-Verlag, Berlin, Heidelberg, 2007
+David L. Detlefs , Paul A. Martin , Mark Moir , Guy L. Steele, Jr., Lock-free reference counting, Distributed Computing, v.15 n.4, p.255-271, December 2002
+Faith Ellen , Panagiota Fatourou , Eric Ruppert , Franck van Breugel, Non-blocking binary search trees, Proceedings of the 29th ACM SIGACT-SIGOPS symposium on Principles of distributed computing, July 25-28, 2010, Zurich, Switzerland
+V. Srinivasan , Michael J. Carey, Performance of B+tree concurrency control algorithms, The VLDB Journal — The International Journal on Very Large Data Bases, v.2 n.4, p.361-406, October 1993
+Paul E. McKenney , Jonathan Walpole, Introducing technology into the Linux kernel: a case study, ACM SIGOPS Operating Systems Review, v.42 n.5, p.4-17, July 2008
+Pentti A. Honkanen, Concurrency control and integrity preservation for the `RIM' DBMS, ACM SIGMIS Database, v.15 n.3, p.34-39, Spring 1984
+A. Biliris, Operation specific locking in B-trees, Proceedings of the sixth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.159-169, March 23-25, 1987, San Diego, California, USA
+Gadi Taubenfeld, Contention-sensitive data structures and algorithms, Proceedings of the 23rd international conference on Distributed computing, September 23-25, 2009, Elche, Spain
+Dennis Shasha , Nathan Goodman, Concurrent search structure algorithms, ACM Transactions on Database Systems (TODS), v.13 n.1, p.53-90, March 1988
+Trevor Brown , Faith Ellen , Eric Ruppert, A general technique for non-blocking trees, Proceedings of the 19th ACM SIGPLAN symposium on Principles and practice of parallel programming, February 15-19, 2014, Orlando, Florida, USA
+Dejvuth Suwimonteerabuth , Javier Esparza , Stefan Schwoon, Symbolic Context-Bounded Analysis of Multithreaded Java Programs, Proceedings of the 15th international workshop on Model Checking Software, August 10-12, 2008, Los Angeles, CA, USA
+Rajeev Rastogi , S. Seshadri , Philip Bohannon , Dennis Leinbaugh , Avi Silberschatz , S. Sudarshan, Improving Predictability of Transaction Execution Timesin Real-time Databases, Real-Time Systems, v.19 n.3, p.283-302, Nov. 2000
+Baruch Awerbuch , Christian Scheideler, Consistent and compact data management in distributed storage systems, Proceedings of the sixteenth annual ACM symposium on Parallelism in algorithms and architectures, June 27-30, 2004, Barcelona, Spain
+Philip Bohannon , Daniel Lieuwen , Rajeev Rastogi , Avi Silberschatz , S. Seshadri , S. Sudarshan, The Architecture of the Dalí Main-Memory Storage Manager, Multimedia Tools and Applications, v.4 n.2, p.115-151, March 1997
+S. Chaki , E. Clarke , N. Kidd , T. Reps , T. Touili, Verifying concurrent message-passing c programs with recursive calls, Proceedings of the 12th international conference on Tools and Algorithms for the Construction and Analysis of Systems, March 25-April 02, 2006, Vienna, Austria
+Peter W. OHearn, Resources, concurrency, and local reasoning, Theoretical Computer Science, v.375 n.1-3, p.271-307, April, 2007
+Keir Fraser , Tim Harris, Concurrent programming without locks, ACM Transactions on Computer Systems (TOCS), v.25 n.2, p.5-es, May 2007
+Theodore Johnson, Characterizing the Performance of Algorithms for Lock-Free Objects, IEEE Transactions on Computers, v.44 n.10, p.1194-1207, October 1995
+Marcos K. Aguilera , Joshua B. Leners , Michael Walfish, Yesquel: scalablesqlstorage for web applications, Proceedings of the 25th Symposium on Operating Systems Principles, October 04-07, 2015, Monterey, California
+M. F. Khan , Ray Paul , Ishfaq Ahmed , Arif Ghafoor, Intensive Data Management in Parallel Systems: A Survey, Distributed and Parallel Databases, v.7 n.4, p.383-414, Oct. 1999
+Gary H. Sockut , Balakrishna R. Iyer, Online reorganization of databases, ACM Computing Surveys (CSUR), v.41 n.3, p.1-136, July 2009
+Gerhard Weikum , Gottfried Vossen, Transactional Information Systems: Theory, Algorithms, and the Practice of Concurrency Control and Recovery, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2001

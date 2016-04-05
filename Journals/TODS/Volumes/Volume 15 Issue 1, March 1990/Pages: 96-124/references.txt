@@ -1,0 +1,44 @@
+Rakesh Agrawal, Concurrency control and recovery in multiprocessor database machines: design and performance evaluation, 1983
+AGRAWAL, D., BERNSTEIN, A. J., GUPTA, P., AND SENGUPTA, S. Distributed optimistic concurrency control with reduced rollback. Distributed Syst. 2, 1 (1987).
+Rakesh Agrawal , Michael J. Carey , Miron Livny, Models for studying concurrency control performance: alternatives and implications, Proceedings of the 1985 ACM SIGMOD international conference on Management of data, p.108-121, May 1985, Austin, Texas, United States[doi>10.1145/318898.318909]
+BADAL, D.Z. Concurrency control overhead or closer look at blocking vs. non-blocking concurrency control mechanisms. In Proceedings of the 5th Berkeley Workshop, 1981, pp. 55-103.
+Philip A. Bernstein , Nathan Goodman, The failure and recovery problem for replicated databases, Proceedings of the second annual ACM symposium on Principles of distributed computing, p.114-122, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806714]
+BERNSTEIN, P. A., GOODMAN, N., AND LAI, M. Y. Two-part proof schema for database concurrency control. In Proceedings of the 5th Berkeley Workshop on Distributed Data Management and Computer Networks, 1981.
+Haran Boral , Israel Gold, Towards a self-adapting centralized concurrency control algorithm, Proceedings of the 1984 ACM SIGMOD international conference on Management of data, June 18-21, 1984, Boston, Massachusetts[doi>10.1145/602259.602263]
+Michael James Carey, Modeling and evaluation of database concurrency control algorithms, 1983
+CERI, S,, AND OWICKI, S. On the use of optimistic methods for concurrency control in distributed databases. In Proceedings of the 6th Berkeley Workshop, of the 1982, pp. 117-130.
+Arvola Chan , Stephen Fox , Wen-Te K. Lin , Anil Nori , Daniel R. Ries, The implementation of an integrated concurrency control and recovery scheme, Proceedings of the 1982 ACM SIGMOD international conference on Management of data, June 02-04, 1982, Orlando, Florida[doi>10.1145/582353.582386]
+DUBOURDIEU, D. J. Implementation of distributed transactions. In Proceedings of the 1982 Berkeley Workshop on Distributed Data Management and Computer Networks, 1982, pp. 81-94.
+Cynthia Dwork , Dale Skeen, The inherent cost of nonblocking commitment, Proceedings of the second annual ACM symposium on Principles of distributed computing, p.1-11, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806705]
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+Peter Franaszek , John T. Robinson, Limitations of concurrency in transaction processing, ACM Transactions on Database Systems (TODS), v.10 n.1, p.1-28, March 1985[doi>10.1145/3148.3160]
+Michael R. Garey , David S. Johnson, Computers and Intractability: A Guide to the Theory of NP-Completeness, W. H. Freeman & Co., New York, NY, 1979
+GAWLICK, D. Processing "not spots" in high performance systems. In Proceedings COMPCON '85, 1985.
+David K. Gifford, Weighted voting for replicated data, Proceedings of the seventh ACM symposium on Operating systems principles, p.150-162, December 10-12, 1979, Pacific Grove, California, United States[doi>10.1145/800215.806583]
+Jim Gray, Notes on Data Base Operating Systems, Operating Systems, An Advanced Course, p.393-481, January 1978
+Theo Härder, Observations on optimistic concurrency control schemes, Information Systems, v.9 n.2, p.111-120, 1984[doi>10.1016/0306-4379(84)90020-6]
+Maurice Herlihy, A quorum-consensus replication method for abstract data types, ACM Transactions on Computer Systems (TOCS), v.4 n.1, p.32-53, Feb. 1986[doi>10.1145/6306.6308]
+Maurice Herlihy, Concurrency versus availability: atomicity mechanisms for replicated data, ACM Transactions on Computer Systems (TOCS), v.5 n.3, p.249-274, Aug. 1987[doi>10.1145/24068.27643]
+M. Herlihy, Extending multiversion time-spaning protocols to exploit type information, IEEE Transactions on Computers, v.36 n.4, p.443-448, April 1987[doi>10.1109/TC.1987.1676926]
+HERLIHY, M. P., LYNCH, N. A., MERRITT, M., AND WEIHL, W.E. On the correctness of orphan elimination algorithms. In Proceedings of the 17th Symposium on Fault-Tolerant Computer Systems (FTCS) (July 1987).
+Maurice P. Herlihy , William E. Weihl, Hybrid concurrency control for abstract data types, Proceedings of the seventh ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.201-210, March 1988, Austin, Texas, United States[doi>10.1145/308386.308440]
+JACOBSON, D.M. A protocol for optimistic transactions on abstract data types. Tech. Rep. TR 83-12-04, Department of Computer Science, University of Washington, Seattle, 1984.
+Henry F. Korth, Locking Primitives in a Database System, Journal of the ACM (JACM), v.30 n.1, p.55-79, Jan. 1983[doi>10.1145/322358.322363]
+H. T. Kung , John T. Robinson, On optimistic methods for concurrency control, ACM Transactions on Database Systems (TODS), v.6 n.2, p.213-226, June 1981[doi>10.1145/319566.319567]
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+George Lausen, Concurrency control in database systems: A step towards the integration of optimistic methods and locking, Proceedings of the ACM '82 conference, p.64-68, January 1982[doi>10.1145/800174.809759]
+LAUSEN, G. Formal aspects of optimistic concurrency control in a multiversion data base system. Inform. Syst. 8, 4 (1983), 291-301.
+MENASCE, D. A., AND NAKANISHI, N. Optimistic versus pessimistic concurrency control mechanisms in data base management systems. Inform. Syst. 7, 1 (1982), 13-27.
+E. B. Moss, NESTED TRANSACTIONS: AN APPROACH TO RELIABLE DISTRIBUTED COMPUTING, Massachusetts Institute of Technology, Cambridge, MA, 1981
+Christos H. Papadimitriou, The serializability of concurrent database updates, Journal of the ACM (JACM), v.26 n.4, p.631-653, Oct. 1979[doi>10.1145/322154.322158]
+David P. Reed, Implementing atomic actions on decentralized data, ACM Transactions on Computer Systems (TOCS), v.1 n.1, p.3-23, Feb. 1983[doi>10.1145/357353.357355]
+Manuel Reimer, Solving the Phantom Problem by Predicative Optimistic Concurrency Control, Proceedings of the 9th International Conference on Very Large Data Bases, p.81-88, October 31-November 02, 1983
+Andreas Reuter, Concurrency on high-traffic data elements, Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database systems, March 29-31, 1982, Los Angeles, California[doi>10.1145/588111.588126]
+Peter M. Schwarz , Alfred Z. Spector, Synchronizing shared abstract types, ACM Transactions on Computer Systems (TOCS), v.2 n.3, p.223-250, Aug. 1984[doi>10.1145/989.1188]
+Dennis Shasha , Nathan Goodman, Concurrent search structure algorithms, ACM Transactions on Database Systems (TODS), v.13 n.1, p.53-90, March 1988[doi>10.1145/42201.42204]
+Mukul K. Sinha , P. D. Nandikar , S. L. Mehndiratta, Timestamp based certification schemes for transactions in distributed database systems, Proceedings of the 1985 ACM SIGMOD international conference on Management of data, p.402-411, May 1985, Austin, Texas, United States[doi>10.1145/318898.318990]
+TAY, Y. C., GOODMAN, N., AND SURf, R. Performance evaluation of locking in databases: A survey. Tech. Rep. TR-17-84, Harvard Aiken Laboratory, Cambridge, Mass., 1984.
+Robert H. Thomas, A Majority consensus approach to concurrency control for multiple copy databases, ACM Transactions on Database Systems (TODS), v.4 n.2, p.180-209, June 1979[doi>10.1145/320071.320076]
+W. E. Weihl, Commutativity-based concurrency control for abstract data types, Proceedings of the Twenty-First Annual Hawaii International Conference on Software Track, p.205-214, January 1988, Kailua-Kona, Hawaii, United States
+W. E. Weihl, Local atomicity properties: modular concurrency control for abstract data types, ACM Transactions on Programming Languages and Systems (TOPLAS), v.11 n.2, p.249-282, April 1989[doi>10.1145/63264.63518]
+W. E. Weihl, SPECIFICATION AND IMPLEMENTATION OF ATOMIC DATA TYPES, Massachusetts Institute of Technology, Cambridge, MA, 1984
