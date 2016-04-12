@@ -1,0 +1,24 @@
+"The network simulator--ns-2," 2012 [Online]. Available: http://www.isi.edu/nsnam/ns/
+Jon C. R. Bennett , Hui Zhang, Hierarchical packet fair queueing algorithms, IEEE/ACM Transactions on Networking (TON), v.5 n.5, p.675-689, Oct. 1997
+Jon C. R. Bennett , Hui Zhang, WF2Q: worst-case fair weighted fair queueing, Proceedings of the Fifteenth annual joint conference of the IEEE computer and communications societies conference on The conference on computer communications, March 24-28, 1996, San Francisco, California
+Marta Carbone , Luigi Rizzo, Dummynet revisited, ACM SIGCOMM Computer Communication Review, v.40 n.2, April 2010
+F. Checconi, P. Valente, and L. Rizzo, "QFQ: Efficient packet scheduling with tight bandwidth distribution guarantees (full paper and experimental code)," 2012 [Online]. Available: http://info.iet.unipi.it/ ~luigi/qfq/
+Guo Chuanxiong, SRR: An O(1) time complexity packet scheduler for flows in multi-service packet networks, Proceedings of the 2001 conference on Applications, technologies, architectures, and protocols for computer communications, p.211-222, August 2001, San Diego, California, USA
+C. Guo, "G-3:An time complexity packet scheduler that provides bounded end-to-end delay," inProc. IEEE INFOCOMM, May 2007, pp. 1109-1117.
+M. Karsten, "SI-WF2Q: WF2Q approximation with small constant execution overhead," inProc. IEEE INFOCOM, Apr. 2006, pp. 1-12.
+Martin Karsten, Approximation of generalized processor sharing with interleaved stratified timer wheels, IEEE/ACM Transactions on Networking (TON), v.18 n.3, p.708-721, June 2010
+A. Kortebi , L. Muscariello , S. Oueslati , J. Roberts, Evaluating the number of active flows in a scheduler realizing fair statistical bandwidth sharing, ACM SIGMETRICS Performance Evaluation Review, v.33 n.1, June 2005
+Luciano Lenzini , Enzo Mingozzi , Giovanni Stea, Tradeoffs between low complexity, low latency, and fairness with deficit round-robin schedulers, IEEE/ACM Transactions on Networking (TON), v.12 n.4, p.681-693, August 2004
+Larry L. Peterson , Bruce S. Davie, Computer Networks, Fifth Edition: A Systems Approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2011
+Sriram Ramabhadran , Joseph Pasquale, The Stratified Round Robin scheduler: design, analysis and implementation, IEEE/ACM Transactions on Networking (TON), v.14 n.6, p.1362-1373, December 2006
+Luigi Rizzo, Revisiting network I/O APIs: the netmap framework, Communications of the ACM, v.55 n.3, March 2012
+M. Shreedhar , George Varghese, Efficient fair queueing using deficit round-robin, IEEE/ACM Transactions on Networking (TON), v.4 n.3, p.375-385, June 1996
+S. J. Golestani, "A self-clocked fair queueing scheme for broadband applications," inProc. IEEE INFOCOM, Jun. 1994, pp. 636-646.
+D. C. Stephens , J. C.R. Bennett , Hui Zhang, Implementing scheduling algorithms in high-speed networks, IEEE Journal on Selected Areas in Communications, v.17 n.6, p.1145-1158, September 2006
+Dimitrios Stiliadis , Anujan Varma, General Methodology for Designing Efficient Traffic Scheduling and Shaping Algorithms, Proceedings of the INFOCOM '97. Sixteenth Annual Joint Conference of the IEEE Computer and Communications Societies. Driving the Information Revolution, p.326, April 09-11, 1997
+I. Stoica , H. Abdel-Wahab, Earliest Eligible Virtual Deadline First : A Flexible and Accurate Mechanism for Proportional Share Resource Allocation, Old Dominion University, Norfolk, VA, 1995
+Subhash Suri , George Varghese , Girish Chandranmenon, Leap Forward Virtual Clock: A New Fair Queuing Scheme with Guaranteed Delay and Throughput Fairness, Proceedings of the INFOCOM '97. Sixteenth Annual Joint Conference of the IEEE Computer and Communications Societies. Driving the Information Revolution, p.557, April 09-11, 1997
+Paolo Valente, Exact GPS simulation and optimal fair scheduling with logarithmic complexity, IEEE/ACM Transactions on Networking (TON), v.15 n.6, p.1454-1466, December 2007
+Paolo Valente, Extending WF^2 Q+ to Support a Dynamic Traffic Mix, Proceedings of the First International Workshop on Advanced Architectures and Algorithms for Internet Delivery and Applications, p.26-33, June 15-15, 2005
+Jun Xu , Richard J. Lipton, On fundamental tradeoffs between delay bounds and computational complexity in packet scheduling algorithms, IEEE/ACM Transactions on Networking (TON), v.13 n.1, p.15-28, February 2005
+Xin Yuan , Zhenhai Duan, Fair Round-Robin: A Low Complexity Packet Schduler with Proportional and Worst-Case Fairness, IEEE Transactions on Computers, v.58 n.3, p.365-379, March 2009

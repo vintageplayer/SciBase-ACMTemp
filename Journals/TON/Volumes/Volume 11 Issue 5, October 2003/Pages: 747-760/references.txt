@@ -1,0 +1,44 @@
+{1} A. Markopoulou, F. Tobagi, and M. Karam, "Assessment of VoIP quality over Internet backbones," in Proc. IEEE INFOCOM, New York, NY, June 2002, pp. 150-159.
+{2} K. Sriram and W. Whitt, "Characterizing superposition arrival processes in packet multiplexers for voice and data," IEEE J. Select. Areas Commun., vol. SAC-4, pp. 833-846, Sept. 1986.
+{3} P. Brady, "A technique for investigating on/off patterns of speech," Bell Labs Tech. J., vol. 44, no. 1, pp. 1-22, Jan. 1965.
+{4} W. Jiang and H. Schulzrinne, "Analysis of on-off patterns in VoIP and their effect on voice traffic aggregation," in Proc. IEEE Int. Conf. Computer Communication Networks, Las Vegas, NV, Oct. 2000, pp. 82-87.
+R. V. Cox, Three new speech coders from the ITU cover a range of applications, IEEE Communications Magazine, v.35 n.9, p.40-47, September 1997[doi>10.1109/35.620524]
+{6} R. Ramjee, J. Kurose, D. Towsley, and H. Schulzrinne, "Adaptive playout mechanisms for packetized audio applications in wide-area networks," in Proc. IEEE INFOCOM, Toronto, Canada, June 1994, pp. 680-688.
+Sue B. Moon , Jim Kurose , Don Towsley, Packet audio playout delay adjustment: performance bounds and algorithms, Multimedia Systems, v.6 n.1, p.17-28, Jan. 1998[doi>10.1007/s005300050073]
+P. DeLeon , C. J. Sreenan, An adaptive predictor for media playout buffering, Proceedings of the Acoustics, Speech, and Signal Processing, 1999. on 1999 IEEE International Conference, p.3097-3100, March 15-19, 1999[doi>10.1109/ICASSP.1999.757496]
+C. J. Sreenan , Jyh-Cheng Chen , P. Agrawal , B. Narendran, Delay reduction techniques for playout buffering, IEEE Transactions on Multimedia, v.2 n.2, p.88-100, June 2000[doi>10.1109/6046.845013]
+Y. J. Liang , N. Farber , B. Girod, Adaptive playout scheduling using time-scale modification in packet voice communications, Proceedings of the Acoustics, Speech, and Signal Processing, 2001. on IEEE International Conference, p.1445-1448, May 07-11, 2001[doi>10.1109/ICASSP.2001.941202]
+Isidor Kouvelas , Vicky Hardman, Overcoming workstation scheduling problems in a real-time audio tool, Proceedings of the annual conference on USENIX Annual Technical Conference, p.18-18, January 06-10, 1997, Anaheim, California
+C. Perkins , O. Hodson , V. Hardman, A survey of packet loss recovery techniques for streaming audio, IEEE Network: The Magazine of Global Internetworking, v.12 n.5, p.40-48, September 1998[doi>10.1109/65.730750]
+{13} Dept. Comput. Sci., UCL. Robust Audio Tool (RAT). {Online}. Available: http://ww-mice.cs.ucl.ac.uk/multimedia/software/rat/
+T. J. Kostas , M. S. Borella , I. Sidhu , G. M. Schuster , J. Grabiec , J. Mahler, Real-time voice over packet-switched networks, IEEE Network: The Magazine of Global Internetworking, v.12 n.1, p.18-27, January 1998[doi>10.1109/65.660003]
+{15} "Methods for subjective determination of transmission quality," ITU-T Recommendation P.800, Aug. 1996.
+{16} "The Emodel: A computational model for use in transmission planning," ITU-T Recommendation G.107, Dec. 1998.
+{17} "Definition of categories of speech transmission quality," ITU-T Recommendation G.109, Sept. 1999.
+Anne Watson , M. Angela Sasse, Measuring perceived quality of speech and video in multimedia conferencing applications, Proceedings of the sixth ACM international conference on Multimedia, p.55-60, September 13-16, 1998, Bristol, United Kingdom[doi>10.1145/290747.290755]
+{19} J. Gruber and L. Strawczynski, "Subjective effects of variable delay and speech clipping in dynamically managed voice systems," IEEE Trans. Commun., vol. COM-33, pp. 801-808, Aug. 1985.
+{20} R. Cox and M. Perkins, "Results of a subjective listening test for G.711 with frame erasure concealment," AT&T; Contr. to T1A1.7/99-016, May 1999.
+M. E. Perkins , K. Evans , D. Pascal , L. A. Thorpe, Characterizing the subjective performance of the ITU-T 8 kb/s speech coding algorithm-ITU-T G.729, IEEE Communications Magazine, v.35 n.9, p.74-81, September 1997[doi>10.1109/35.620528]
+Henning Sanneck , Nguyen Tuong Long Le , Adam Wolisz , Georg Carle, Intra-flow loss recovery and control for VoIP, Proceedings of the ninth ACM international conference on Multimedia, September 30-October 05, 2001, Ottawa, Canada[doi>10.1145/500141.500206]
+{23} S. Voran, "Perception of temporal discontinuity impairments in coded speech--A proposal for objective estimators and some subjective test results," in Proc. 2nd Int. Conf. Measurement of Speech and Audio Quality in Networks (MESAQIN), Prague, Czech Republic, May 2003, pp. 37-46.
+{24} "Application of the Emodel: A planning guide," ITU-T Recommendation G.108, Sept. 1998.
+{25} "Transmission impairments due to speech processing," ITU-T Recommendation G.113, Feb. 2001.
+{26} "Actual measurements of network and terminal characteristics and performance parameters in TIPHON networks and their influence on voice quality," ETSI, TIPHON project, TR 101 329-6, July 2000.
+{27} "One Way Transmission Time," ITU-T Recommendation G.114, May 2000.
+{28} N. Kitawaki and K. Itoh, "Pure delay effects on speech quality in telecommunications," IEEE J. Select. Areas Commun., vol. 9, pp. 586-593, May 1991.
+R. G. Cole , J. H. Rosenbluth, Voice over IP performance monitoring, ACM SIGCOMM Computer Communication Review, v.31 n.2, April 2001[doi>10.1145/505666.505669]
+{30} V. Vleeschauwer, J. Janssen, G. Petit, and F. Poppe, "Quality bounds for packetized voice transport," Alcatel, Tech. Rep., 1st Quarter 2000.
+{31} A. Clark, "Modeling the effects of burst packet loss and recency on subjective voice quality," in Proc. IP Telephony Workshop, Mar. 2001.
+{32} "Continuous assessment of time-varying subjective vocal quality and its relationship with overall subjective quality," France Telecom R&D;, ITU ST 12, Contr. COM 12-94-E, July 1999.
+{33} "Study of the relationship between instantaneous and overall subjective speech quality for time-varying quality speech sequences: Influence of the recency effect," France Telecom R&D;, ITU Study Group 12, Contribution D.139, May 2000.
+{34} A. Clark and R. Liu, "Comparison of TS 101 329-5 Annex E With PAMS and PSQM," TIPHON#23, Temp. Doc. 061, July 2001.
+{35} A. Clark, "Comparison of TS101 329-5 Annex E With Emodel," TIPHON#23, Temp. Doc. 062, July 2001.
+{36} A. Markopoulou, "Assessing the quality of multimedia communications over Internet backbones," Ph.D. dissertation, Stanford Univ., Stanford, CA, Oct. 2002.
+{37} F. Tobagi, A. Markopoulou, and M. Karam, "Is the Internet ready for VoIP?," in Proc. IWDC, Capri, Italy, Sept. 2002, pp. 49-57.
+Jean-Chrysotome Bolot, End-to-end packet delay and loss behavior in the internet, Conference proceedings on Communications architectures, protocols and applications, p.289-298, September 13-17, 1993, San Francisco, California, USA[doi>10.1145/166237.166265]
+Jean-Chrysostome Bolot , Hugues Crépin , Andrés Vega-García, Analysis of Audio Packet Loss in the Internet, Proceedings of the 5th International Workshop on Network and Operating System Support for Digital Audio and Video, p.154-165, April 19-21, 1995
+{40} M. Yajnik, S. Moon, J. Kurose, and D. Towsley, "Measurement and modeling of the temporal dependence in packet loss," in Proc. IEEE INFOCOM , Mar. 1999, pp. 345-352.
+{41} D. Loguinov and H. Radha, "End-to-end Internet video traffic dynamics: Statistical study and analysis," in Proc. IEEE INFOCOM, New York, NY, June 2002, pp. 723-732.
+Catherine Boutremans , Gianluca Iannaccone , Christophe Diot, Impact of link failures on VoIP performance, Proceedings of the 12th international workshop on Network and operating systems support for digital audio and video, May 12-14, 2002, Miami, Florida, USA[doi>10.1145/507670.507680]
+Gianluca Iannaccone , Chen-nee Chuah , Richard Mortier , Supratik Bhattacharyya , Christophe Diot, Analysis of link failures in an IP backbone, Proceedings of the 2nd ACM SIGCOMM Workshop on Internet measurment, November 06-08, 2002, Marseille, France[doi>10.1145/637201.637238]
+{44} W. Jiang and H. Schulzrinne, "QoS measurement of real time multimedia services in the Internet," Columbia Univ., New York, NY, Rep. CUCS-015-99, 1999.

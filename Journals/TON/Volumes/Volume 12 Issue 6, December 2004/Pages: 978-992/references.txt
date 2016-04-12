@@ -1,0 +1,32 @@
+{1} K. G. Anagnostakis, M. B. Greenwald, and R. S. Ryger, "Cing: measuring network-internal delays using only existing infrastructure," in Proc. IEEE INFOCOM, San Francisco, CA, Apr. 2003, pp. 2112-2121.
+{2} J. Bolot, "Characterizing end-to-end packet delay and loss in the Internet," J. High-Speed Networks, vol. 2, no. 3, pp. 289-298, Dec. 1993.
+R. Caceres , N. G. Duffield , J. Horowitz , D. F. Towsley, Multicast-based inference of network-internal loss characteristics, IEEE Transactions on Information Theory, v.45 n.7, p.2462-2480, November 1999[doi>10.1109/18.796384]
+{4} R. Caceres, N. G. Duffield, J. Horowitz, D. Towsley, and T. Bu, "Multicast-based inference of network internal loss characteristics: accuracy of packet estimation," in Proc. IEEE INFOCOM, New York, Mar. 1999, pp. 371-379.
+{5} R. Caceres, N. G. Duffield, and T. Friedman, "Impromptu measurement infrastructures using RTP," in Proc. IEEE INFOCOM, New York, June 2002, pp. 1490-1499.
+{6} K. Claffy, G. Polyzos, and H.-W. Braun, "Measurements considerations for assessing unidirectional latencies," Internetworking: Res. Experience, vol. 4, no. 3, pp. 121-132, Sept. 1993.
+{7} M. J. Coates and R. Nowak, "Network loss inference using unicast end-to-end measurement," in Proc. ITC Conf. IP Traffic, Modeling and Management, Monterey, CA, Sept. 2000, pp. 28-1-28-9.
+{8} M. J. Coates and R. Nowak, "Network delay distribution inference from end-to-end unicast measurement," in IEEE Int. Conf. Acoustics, Speech, and Signal Processing, Salt Lake City, UT, May 2001.
+{9} R. L. Carter and M. E. Crovella, "Measuring bottleneck link speed in packet-switched networks," in Proc. PERFORMANCE '96, Lausanne, Switzerland, Oct. 1996.
+Allen B. Downey, Using pathchar to estimate Internet link characteristics, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.241-250, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316228]
+{11} N. G. Duffield, J. Horowitz, F. Lo Presti, and D. Towsley, "Network delay tomography from end-to-end unicast measurements," in Proc. Tyrrhenian Int. Workshop Digital Communications, Taormina, Italy, Sept. 2001.
+{12} N. G. Duffield and F. Lo Presti, "Multicast inference of packet delay variance at interior network links," in Proc. IEEE INFOCOM, Tel Aviv, Israel, Mar. 2000, pp. 1351-1360.
+{13} N. G. Duffield and F. Lo Presti, "Network Tomography From Measured End-to-End Delay Covariance," Computer Science Dept., Università dell'Aquila, Tech. Rep. 010-2004, Mar. 2004.
+{14} N. G. Duffield, F. Lo Presti, V. Paxson, and D. Towsley, "Inferring link loss using striped unicast probes," in Proc. IEEE INFOCOM, Anchorage, AK, Apr. 2001, pp. 915-923.
+N. G. Duffield , J. Horowitz , F. Lo Presti , D. Towsley, Multicast topology inference from measured end-to-end loss, IEEE Transactions on Information Theory, v.48 n.1, p.26-45, January 2002[doi>10.1109/18.971737]
+Sally Floyd , Van Jacobson, Random early detection gateways for congestion avoidance, IEEE/ACM Transactions on Networking (TON), v.1 n.4, p.397-413, Aug. 1993[doi>10.1109/90.251892]
+{17} K. Almeroth, R. Cole, N. G. Duffield, K. Hedayat, K. Sarac, and M. Westerlund, "RTP Control Protocol Extended Reports (RTCP XR),", RFC 3611, T. Friedman, R. Caceres, and A. Clark, Eds., Nov. 2003.
+Francesco Lo Presti , N. G. Duffield , Joe Horowitz , Don Towsley, Multicast-based inference of network-internal delay distributions, IEEE/ACM Transactions on Networking (TON), v.10 n.6, p.761-775, December 2002[doi>10.1109/TNET.2002.805026]
+F. LoPresti , N. G. Duffield , J. Horowitz , D. Towsley, Multicast-Based Inference of Network-Internal Delay Distributions TITLE2:, University of Massachusetts, Amherst, MA, 1999
+V. Paxson , J. Mahdavi , A. Adams , M. Mathis, An architecture for large scale Internet measurement, IEEE Communications Magazine, v.36 n.8, p.48-54, August 1998[doi>10.1109/35.707817]
+{21} M. Mathis and J. Mahdavi, "Diagnosing Internet congestion with a transport layer performance tool," in Proc. INET, Montreal, ON, Canada, June 1996.
+{22} R. J. Muirhead, Aspects of Multivariate Statistical Theory. New York: Wiley, 1982.
+{23} A. Mukherjee, "On the dynamics and significance of low frequency components of Internet load," Internetworking: Res. Experience, vol. 5, pp. 163-205, Dec. 1994.
+S. Paul , K. K. Sabnani , J. C.-H. Lin , S. Bhattacharyya, Reliable multicast transport protocol (RMTP), IEEE Journal on Selected Areas in Communications, v.15 n.3, p.407-421, September 2006[doi>10.1109/49.564138]
+Vern Paxson, End-to-end routing behavior in the Internet, Conference proceedings on Applications, technologies, architectures, and protocols for computer communications, p.25-38, August 28-30, 1996, Palo Alto, California, USA[doi>10.1145/248156.248160]
+Vern Paxson, End-to-end Internet packet dynamics, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.139-152, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263155]
+Vern Paxson, Automated packet trace analysis of TCP implementations, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.167-179, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263160]
+{28} S. Ratnasamy and S. McCanne, "Inference of multicast routing tree topologies and bottleneck bandwidths using end-to-end measurements," in Proc. IEEE INFOCOM, New York, Mar. 1999, pp. 353-360.
+{29} M. J. Schervish, Theory of Statistics. New York: Springer, 1995.
+{30} RTP: A Transport Protocol for Real-Time Applications, January 1996.
+Yin Zhang , Nick Duffield, On the constancy of internet path properties, Proceedings of the 1st ACM SIGCOMM Workshop on Internet Measurement, November 01-02, 2001, San Francisco, California, USA[doi>10.1145/505202.505228]
+{32} N. G. Duffield and F. Lo Presti, "Multicast inference of packet delay variance at interior network links," in Proc. IEEE INFOCOM, Tel Aviv, Israel, Mar. 2000, pp. 1351-1360.

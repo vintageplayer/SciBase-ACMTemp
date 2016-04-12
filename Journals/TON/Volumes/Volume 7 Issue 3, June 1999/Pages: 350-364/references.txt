@@ -1,0 +1,36 @@
+R. Cherukuri, D. Dykeman (Eds.), and M. Goguen (chair), "PNNI draft specification," ATM Forum 94-0471, Nov. 1995.
+G. Apostolopoulos , S. Kama , D. Williams , R. Guerin , A. Orda , T. Przygienda, QoS Routing Mechanisms and OSPF Extensions, RFC Editor, 1999
+R. Gurrin, S. Kamat, and S. Herzog, "QoS path management with RSVP," in Proc. GLOBECOM, Phoenix, AZ, Nov. 1997, pp. 1914-1918.
+T. E. Tedijanto , R. O. Onvural , D. C. Verma , L. Gün , R. A. Guérin, NBBS path selection framework, IBM Systems Journal, v.34 n.4, p.629-639, 1995[doi>10.1147/sj.344.0629]
+A. Shaikh, J. Rexford, and K. Shin, "Dynamics of quality-of-service routing with inaccurate link-state information," Univ. of Michigan, Ann Arbor, MI, Tech. Rep. CSE-TR-350-97, Nov. 1997.
+George Apostolopoulos , Roch Guérin , Sanjay Kamat , Satish K. Tripathi, Quality of service based routing: a performance perspective, Proceedings of the ACM SIGCOMM '98 conference on Applications, technologies, architectures, and protocols for computer communication, p.17-28, August 31-September 04, 1998, Vancouver, British Columbia, Canada[doi>10.1145/285237.285251]
+S. Shenker , C. Partridge , R. Guerin, Specification of Guaranteed Quality of Service, RFC Editor, 1997
+S. Sathaye, "ATM forum traffic management specification version 4.0," ATM Forum 95-0013, Dec. 1995.
+P. Samudra, "ATM user-network interface (UNI) signalling specification version 4.0," ATM Forum 95-1434, Dec. 1995.
+G. Apostolopoulos, R. Gurrin, and S. Kamat, "Implementation and performance measurements of QoS routing extensions to OSPF," in Proc. INFOCOM, New York, NY, Mar. 1999, pp. 680-688.
+J. Moy, OSPF version 2, Request For Comments (Standard) RFC 2178, Internet Engineering Task Force, July 1997.
+R. Gurrin, A. Orda, and D. Williams, "QoS routing mechanisms and OSPF extensions," in Proc. GLOBECOM, Phoenix, AZ, Nov. 1997, pp. 1903-1908.
+G. Apostolopoulos, R. Gurrin, S. Kamat, and S. Tripathi, "Improving QoS routing performance under inaccurate link state information," in Proc. ITC'16, pp. 1351-1362, June 1999.
+Dean H. Lorenz , Ariel Orda, QoS routing in networks with uncertain parameters, IEEE/ACM Transactions on Networking (TON), v.6 n.6, p.768-778, Dec. 1998[doi>10.1109/90.748088]
+Dean H. Lorenz , Ariel Orda, Optimal partition of QoS requirements on unicast paths and multicast trees, IEEE/ACM Transactions on Networking (TON), v.10 n.1, p.102-114, February 2002[doi>10.1109/90.986559]
+L. Kleinrock and F. Kamoun, "Hierarchical routing for large networksmPerformance evaluation and optimization," Comput. Networks, vol. 1, pp. 82-92, 1977.
+A. Bar-Noy , M. Gopal, Topology distribution cost vs. efficient routing in large networks, Proceedings of the ACM symposium on Communications architectures & protocols, p.242-252, September 26-28, 1990, Philadelphia, Pennsylvania, USA[doi>10.1145/99508.99560]
+W. C. Lee, "Topology aggregation for hierarchical routing in ATM networks," in Proc. SIGCOMM, pp. 82-92, Apr. 1995.
+W. C. Lee, Spanning tree method for link state aggregation in large communication networks, Proceedings of the Fourteenth Annual Joint Conference of the IEEE Computer and Communication Societies (Vol. 1)-Volume, p.297, April 02-06, 1995
+U. Gremmelmaier, J. Puschner, M. Winter, and P. Jocher, "Performance evaluation of the PNNI routing protocol using and emulation tool," in Proc. ISS, Toronto, ON, Canada, Sept. 1997, vol. 1, pp. 401-408.
+Baruch Awerbuch , Bonnie Berger , Lenore Cowen , David Peleg, Fast network decomposition, Proceedings of the eleventh annual ACM symposium on Principles of distributed computing, p.169-177, August 10-12, 1992, Vancouver, British Columbia, Canada[doi>10.1145/135419.135456]
+B. Awerbuch, B. Berger, L. Cowen, and D. Peleg, "Near linear cost sequential and distributed constructions of sparse neighborhood covers," in Proc. 34th Annu. Symp. Foundations of Computer Science, Palo Alto, CA, Nov. 1993, pp. 638-647.
+N. Linial and M. Saks, "Low diameter graph decompositions," Combinatorica, vol. 13, no. 4, pp. 441-454, 1993.
+Y. Bartal, Probabilistic approximation of metric spaces and its algorithmic applications, Proceedings of the 37th Annual Symposium on Foundations of Computer Science, p.184, October 14-16, 1996
+Baruch Awerbuch , Bonnie Berger , Lenore Cowen , David Peleg, Fast distributed network decompositions and covers, Journal of Parallel and Distributed Computing, v.39 n.2, p.105-114, Dec. 15, 1996[doi>10.1006/jpdc.1996.0159]
+R. Gutrin and A. Orda, "QoS-based routing in networks with inaccurate information: Theory and algorithms," IBM, T. J. Watson Research Center, Yorktown Heights, NY, Res. Rep. RC 20515, July 1996.
+Abhay K. Parekh , Robert G. Gallagher, A generalized processor sharing approach to flow control in integrated services networks: the multiple node case, IEEE/ACM Transactions on Networking (TON), v.2 n.2, p.137-150, April 1994[doi>10.1109/90.298432]
+Leonidas Georgiadis , Roch Guérin , Vinod Peris , Kumar N. Sivarajan, Efficient network QoS provisioning based on per node traffic shaping, IEEE/ACM Transactions on Networking (TON), v.4 n.4, p.482-501, Aug. 1996[doi>10.1109/90.532860]
+M. R. Garey and D. S. Johnson, Computers and Intractability. San Francisco, CA: Freeman, 1979.
+J. B. Rosen , S. -Z. Sun , G. -L. Xue, Algorithms for the quickest path problem and the enumeration of quickest paths, Computers and Operations Research, v.18 n.6, p.579-584, Sept. 1991[doi>10.1016/0305-0548(91)90063-W]
+Ariel Orda, Routing with end-to-end QoS guarantees in broadband networks, IEEE/ACM Transactions on Networking (TON), v.7 n.3, p.365-374, June 1999[doi>10.1109/90.779205]
+Thomas T. Cormen , Charles E. Leiserson , Ronald L. Rivest, Introduction to algorithms, MIT Press, Cambridge, MA, 1990
+R. K. Ahuja, T. L. Magnanti, and J. B. Orlin, Networks Flows. Englewood Cliffs, NJ: Prentice-Hall, 1993.
+E. L. Lawler, Combinatorial Optimization: Networks and Matroids. New York: Holt, Rinehart and Winston, 1976.
+N. Megiddo, "Combinatorial optimization with rational objective functions," Math. Oper. Res., vol. 4, pp. 414-424, 1979.
+R. K. Ahuja, J. L. Batra, and S. K. Gupta, "Combinatorial optimization with rational objective functions: A communication," Math. Oper. Res., vol. 4, p. 314, 1983.

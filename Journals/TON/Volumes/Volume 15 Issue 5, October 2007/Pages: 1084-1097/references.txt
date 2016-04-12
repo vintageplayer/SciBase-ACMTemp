@@ -1,0 +1,44 @@
+Yan Chen , David Bindel , Randy H. Katz, Tomography-based overlay network monitoring, Proceedings of the 3rd ACM SIGCOMM conference on Internet measurement, October 27-29, 2003, Miami Beach, FL, USA[doi>10.1145/948205.948233]
+David Andersen , Hari Balakrishnan , Frans Kaashoek , Robert Morris, Resilient overlay networks, Proceedings of the eighteenth ACM symposium on Operating systems principles, October 21-24, 2001, Banff, Alberta, Canada[doi>10.1145/502034.502048]
+{3} T. S. E. Ng and H. Zhang, "Predicting Internet network distance with coordinates-based approaches," inProc. IEEE INFOCOM, 2002.
+{4} S. Ratnasamy, "Topologically-aware overlay construction and server selection," inProc. IEEE INFOCOM, 2002.
+Paul Francis , Sugih Jamin , Cheng Jin , Yixin Jin , Danny Raz , Yuval Shavitt , Lixia Zhang, IDMaps: a global internet host distance estimation service, IEEE/ACM Transactions on Networking (TON), v.9 n.5, p.525-540, October 2001[doi>10.1109/90.958323]
+Yan Chen , Khian Hao Lim , Randy H. Katz , Chris Overton, On the stability of network distance estimation, ACM SIGMETRICS Performance Evaluation Review, v.30 n.2, September 2002[doi>10.1145/588160.588164]
+{7} M. Coates, A. Hero, R. Nowak, and B. Yu, "Internet tomography,"IEEE Signal Process. Mag., vol. 19, no. 3, pp. 47-65, 2002.
+Tian Bu , Nick Duffield , Francesco Lo Presti , Don Towsley, Network tomography on general topologies, Proceedings of the 2002 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 15-19, 2002, Marina Del Rey, California[doi>10.1145/511334.511338]
+{9} V. Padmanabhan, L. Qiu, and H. Wang, "Server-based inference of Internet link lossiness," inProc. IEEE INFOCOM, 2003.
+Dan Rubenstein , Jim Kurose , Don Towsley, Detecting shared congestion of flows via end-to-end measurement, IEEE/ACM Transactions on Networking (TON), v.10 n.3, p.381-395, June 2002[doi>10.1109/TNET.2002.1012369]
+{11} Y. Shavitt, X. Sun, A. Wool, and B. Yener, "Computing the unmeasured: An algebraic approach to Internet mapping," inProc. IEEE INFOCOM, 2001.
+H. Cenk Ozmutlu , Natarajan Gautam , Russell Barton, Managing End-to-End Network Performance via Optimized Monitoring Strategies, Journal of Network and Systems Management, v.10 n.1, p.107-126, March 2002[doi>10.1023/A:1014457726450]
+Chiping Tang , Philip K. McKinley, On the Cost-Quality Tradeoff in Topology-Aware Overlay Path Probing, Proceedings of the 11th IEEE International Conference on Network Protocols, p.268, November 04-07, 2003
+Ratul Mahajan , Neil Spring , David Wetherall , Thomas Anderson, User-level internet path diagnosis, Proceedings of the nineteenth ACM symposium on Operating systems principles, October 19-22, 2003, Bolton Landing, NY, USA[doi>10.1145/945445.945456]
+{15} K. Anagnostakis, M. Greenwald, and R. Ryger, "Cing: Measuring network-internal delays using only existing infrastructure," inProc. IEEE INFOCOM, 2003.
+Yan Chen , Randy H. Katz, Towards a scalable, adaptive and network-aware content distribution network, University of California, Berkeley, 2003
+R. Caceres , N. G. Duffield , J. Horowitz , D. F. Towsley, Multicast-based inference of network-internal loss characteristics, IEEE Transactions on Information Theory, v.45 n.7, p.2462-2480, November 1999[doi>10.1109/18.796384]
+Sally Floyd , Van Jacobson, Random early detection gateways for congestion avoidance, IEEE/ACM Transactions on Networking (TON), v.1 n.4, p.397-413, Aug. 1993[doi>10.1109/90.251892]
+N. G. Duffield , J. Horowitz , D. Towsley , Wei Wei , T. Friedman, Multicast-based loss inference with missing data, IEEE Journal on Selected Areas in Communications, v.20 n.4, p.700-713, September 2006[doi>10.1109/JSAC.2002.1003037]
+{20} G. H. Golub and C. F. Van Loan,Matrix Computations. Baltimore, MD: The Johns Hopkins Univ. Press, 1989.
+E. Anderson , Z. Bai , C. Bischof , L. S. Blackford , J. Demmel , Jack J. Dongarra , J. Du Croz , S. Hammarling , A. Greenbaum , A. McKenney , D. Sorensen, LAPACK Users' guide (third ed.), Society for Industrial and Applied Mathematics, Philadelphia, PA, 1999
+Yin Zhang , Nick Duffield, On the constancy of internet path properties, Proceedings of the 1st ACM SIGCOMM Workshop on Internet Measurement, November 01-02, 2001, San Francisco, California, USA[doi>10.1145/505202.505228]
+James W. Demmel, Applied numerical linear algebra, Society for Industrial and Applied Mathematics, Philadelphia, PA, 1997
+Hongsuda Tangmunarunkit , Ramesh Govindan , Sugih Jamin , Scott Shenker , Walter Willinger, Network topology generators: degree-based vs. structural, Proceedings of the 2002 conference on Applications, technologies, architectures, and protocols for computer communications, August 19-23, 2002, Pittsburgh, Pennsylvania, USA[doi>10.1145/633025.633040]
+Michalis Faloutsos , Petros Faloutsos , Christos Faloutsos, On power-law relationships of the Internet topology, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.251-262, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316229]
+Alberto Medina , Ibrahim Matta , John Byers, On the origin of power laws in Internet topologies, ACM SIGCOMM Computer Communication Review, v.30 n.2, April 2000[doi>10.1145/505680.505683]
+{27} R. Govindan and H. Tangmunarunkit, "Heuristics for Internet map discovery," inProc. IEEE INFOCOM, 2000.
+Neil Spring , Ratul Mahajan , David Wetherall, Measuring ISP topologies with rocketfuel, Proceedings of the 2002 conference on Applications, technologies, architectures, and protocols for computer communications, August 19-23, 2002, Pittsburgh, Pennsylvania, USA[doi>10.1145/633025.633039]
+{29} L. Subrmanian, S. Agarwal, J. Rexford, and R. H. Katz, "Characterizing the Internet hierarchy from multiple vantage points," inProc. IEEE INFOCOM, 2002.
+{30} G. W. Stewart,Matrix Algorithms: Basic Decompositions. Philadelphia, PA: SIAM, 1998.
+Vern Paxson, End-to-end routing behavior in the Internet, IEEE/ACM Transactions on Networking (TON), v.5 n.5, p.601-615, Oct. 1997[doi>10.1109/90.649563]
+{32} Y. Zhang, V. Paxson, and S. Shenker, "The stationarity of internet path properties: Routing, loss, and throughput," ACIRI Tech. Rep., May 2000.
+T. Wiegand , G. J. Sullivan , G. Bjontegaard , A. Luthra, Overview of the H.264/AVC video coding standard, IEEE Transactions on Circuits and Systems for Video Technology, v.13 n.7, p.560-576, July 2003[doi>10.1109/TCSVT.2003.815165]
+Steven Gringeri , Roman Egorov , Khaled Shuaib , Arianne Lewis , Bert Basch, Robust compression and transmission of MPEG-4 video, Proceedings of the seventh ACM international conference on Multimedia (Part 1), p.113-120, October 30-November 05, 1999, Orlando, Florida, USA[doi>10.1145/319463.319478]
+{35}Winamp, {Online}. Available: http://www.winamp.com, Nullsoft.
+{36}Shoutcast, {Online}. Available: http://www.shoutcast.com, Nullsoft.
+{37}PlanetLab, {Online}. Available: http://www.planet-lab.org.
+{38}PacketShaper: Bandwidth Control and IP Management, {Online}. Available: http://www.bandwidth-management.org, Workgroup Solutions.
+{39}Pre-processing and Encoding: Making the Most of Your Bandwidth, {Online}. Available: http://service.real.corn/learnnav/ppthl.html, RealOne Player.
+Vern Paxson, End-to-end Internet packet dynamics, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.139-152, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263155]
+{41} R. Barrett,Templates for the Solution of Linear Systems: Building Blocks for Iterative Methods, 2nd ed. Philadelphia, PA: SIAM, 1994.
+{42} N. Spring, D. Wetherall, and T. Anderson, "Scriptroute: A facility for distributed Internet measurement," inProc. USITS, 2003.
+{43} D. B. Chua, E. D. Kolaczyk, and M. Crovella, "Efficient monitoring of end-to-end network properties," inProc. IEEE INFOCOM, 2005.
+Yao Zhao , Yan Chen , David Bindel, Towards deterministic network diagnosis, Proceedings of the joint international conference on Measurement and modeling of computer systems, June 26-30, 2006, Saint Malo, France[doi>10.1145/1140277.1140333]

@@ -1,0 +1,23 @@
+J. H. Saltzer , D. P. Reed , D. D. Clark, End-to-end arguments in system design, ACM Transactions on Computer Systems (TOCS), v.2 n.4, p.277-288, Nov. 1984
+M. Allman, V. Paxson, and E. Blanton, "TCP congestion control," RFC 5681, Sep. 2009.
+A. Demers , S. Keshav , S. Shenker, Analysis and simulation of a fair queueing algorithm, Symposium proceedings on Communications architectures & protocols, p.1-12, September 25-27, 1989, Austin, Texas, USA
+Sally Floyd , Van Jacobson, Random early detection gateways for congestion avoidance, IEEE/ACM Transactions on Networking (TON), v.1 n.4, p.397-413, Aug. 1993
+S. Floyd, R. Gummadi, and S. Shenker, "Adaptive RED: An algorithm for increasing the robustness of RED's active queue management," Tech. Rep., 2001.
+S. Keshav, An engineering approach to computer networking: ATM networks, the Internet, and the telephone network, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1997
+A. Kortebi , L. Muscariello , S. Oueslati , J. Roberts, Evaluating the number of active flows in a scheduler realizing fair statistical bandwidth sharing, Proceedings of the 2005 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 06-10, 2005, Banff, Alberta, Canada
+B. Suter , T. V. Lakshman , D. Stiliadis , A. K. Choudhury, Buffer management schemes for supporting TCP in gigabit routers with per-flow queueing, IEEE Journal on Selected Areas in Communications, v.17 n.6, p.1159-1169, September 2006
+Addisu Eshete , Yuming Jiang, Approximate fairness through limited flow list, Proceedings of the 23rd International Teletraffic Congress, September 06-09, 2011, San Francisco, California
+C. Hu, Y. Tang, X. Chen, and B. Liu, "Per-flow queueing by dynamic queue sharing," inProc. IEEE INFOCOM, 2007, pp. 1613-1621.
+Dong Lin , Robert Morris, Dynamics of random early detection, ACM SIGCOMM Computer Communication Review, v.27 n.4, p.127-137, Oct. 1997
+Controlling High-Bandwidth Flows at the Congested Router, Proceedings of the Ninth International Conference on Network Protocols, p.192, November 11-14, 2001
+R. Pan, B. Prabhakar, and K. Psounis, "CHOKe--A stateless active queue management scheme for approximating fair bandwidth allocation," inProc. IEEE INFOCOM, 2000, pp. 942-951.
+Ao Tang , Jiantao Wang , Steven H. Low, Understanding CHOKe: throughput and spatial characteristics, IEEE/ACM Transactions on Networking (TON), v.12 n.4, p.694-707, August 2004
+Jiantao Wang , Ao Tang , Steven H. Low, Maximum and asymptotic UDP throughput under CHOKe, Proceedings of the 2003 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 11-14, 2003, San Diego, CA, USA
+R. Pan, C. Nair, B. Yang, and B. Prabhakar, "Packet dropping schemes, some examples and analysis," inProc. Allerton Conf. Commun., Contro, Comput., 2001, pp. 563-572.
+Hao Jiang , Constantinos Dovrolis, Why is the internet traffic bursty in short time scales?, Proceedings of the 2005 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 06-10, 2005, Banff, Alberta, Canada
+F. Baccelli and D. Hong, "AIMD, fairness and fractal scaling of TCP traffic," inProc. IEEE INFOCOM, 2002, pp. 229-238.
+Mark E. Crovella , Azer Bestavros, Self-similarity in World Wide Web traffic: evidence and possible causes, Proceedings of the 1996 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.160-169, May 23-26, 1996, Philadelphia, Pennsylvania, USA
+Addisu Eshete , Yuming Jiang, Generalizing the CHOKe flow protection, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.57 n.1, p.147-161, January, 2013
+Ao Tang , Lachlan L. H. Andrew , Krister Jacobsson , Karl H. Johansson , Håkan Hjalmarsson , Steven H. Low, Queue dynamics with window flow control, IEEE/ACM Transactions on Networking (TON), v.18 n.5, p.1422-1435, October 2010
+Robert Shorten , Fabian Wirth , Douglas Leith, A positive systems model of TCP-like congestion control: asymptotic results, IEEE/ACM Transactions on Networking (TON), v.14 n.3, p.616-629, June 2006
+A. Tang, L. L. H. Andrew, K. Jacobsson, K. H. Johansson, S. H. Low, and H. Hjalmarsson, "Window flow control: Macroscopic properties from microscopic factors," inProc. IEEE INFOCOM, 2008, pp. 91-95.

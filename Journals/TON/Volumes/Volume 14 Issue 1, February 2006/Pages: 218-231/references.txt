@@ -1,0 +1,39 @@
+{1} "Synchronous Optical Networks (SONET)," ANSI T1X1.5, 2001-062, Jan. 2001.
+{2} "Metro Ethernet Networks--A Technical Overview," Metro Ethernet Forum white paper, Jul. 2002.
+{3} "Link Capacity Adjustment Scheme (LCAS) for Virtual Concatenated Signals," ITU-T Rec. G.7042/Y.1305, Nov. 2001.
+{4} "Network Node Interface for the Synchronous Digital Hierarchy (SDH)," ITU-T Rec. G.707, Apr. 2002.
+Ravindra K. Ahuja , Thomas L. Magnanti , James B. Orlin, Network flows: theory, algorithms, and applications, Prentice-Hall, Inc., Upper Saddle River, NJ, 1993
+{6} E. Bouillet, J.-F. Labourdette, R. Ramamurthy, and S. Chaudhuri, "Enhanced algorithm cost model to control tradeoffs in provisioning shared mesh restored lightpaths," presented at the Optical Fiber Communication Conf., Anaheim, CA, Mar. 2002, paper Th W2.
+{7} E. Bouillet, J.-F. Labourdette, G. Ellinas, R. Ramamurthy, and S. Chaudhuri, "Stochastic approaches to compute shared mesh restored lightpaths in optical network architectures," inProc. IEEE INFOCOM, Jun. 2002, pp. 801-807.
+{8} B. T. Doshi, S. Dravida, P. Harshavardhana, O. Hauser, and Y. Wang, "Optical network design and restoration,"Bell Labs Tech. J., vol. 4, pp. 58-84, Jan.-Mar. 1999.
+{9} S. Fortune, J. E. Hopcroft, and J. Wyllie, "The directed subgraph homeomorphism problem,"J. Theoretical Comput. Sci., vol. 10, no. 2, pp. 111-121, 1980.
+Andrea Fumagalli , Isabella Cerutti , Marco Tacca, Optimal design of survivable mesh networks based on line switched WDM self-healing rings, IEEE/ACM Transactions on Networking (TON), v.11 n.3, p.501-512, June 2003[doi>10.1109/TNET.2003.813039]
+A. Fumagalli , L. Valcarenghi, IP restoration vs. WDM protection: is there an optimal choice?, IEEE Network: The Magazine of Global Internetworking, v.14 n.6, p.34-41, November 2000[doi>10.1109/65.885668]
+Michael R. Garey , David S. Johnson, Computers and Intractability: A Guide to the Theory of NP-Completeness, W. H. Freeman & Co., New York, NY, 1979
+O. Gerstel , R. Ramaswami, Optical layer survivability: a services perspective, IEEE Communications Magazine, v.38 n.3, p.104-113, March 2000[doi>10.1109/35.825647]
+{14} M. Goyal, G. Li, and J. Yates, "Shared mesh restoration: a simulation study," inProc. OFC, Mar. 2002, pp. 489-490.
+{15} W. Grover and D. Stamatelakis, "Cycle-oriented distributed preconfiguration: ring-like speed with mesh-like capacity for self-planning network restoration," inProc. IEEE ICC, vol. 1, 1998, pp. 537-543.
+{16} O. Hauser, M. Kodialam, and T. V. Lakshman, "Capacity design of fast path restorable optical networks," inProc. IEEE INFOCOM, vol. 2, Jun. 2002, pp. 817-826.
+E. Hernandez-Valencia , M. Scholten , Zhenyu Zhu, The generic framing procedure (GFP): an overview, IEEE Communications Magazine, v.40 n.5, p.63-71, May 2002[doi>10.1109/35.1000215]
+{18} S. Koo and S. Subramaniam, "Trade-offs between speed, capacity, and restorability in optical mesh network restoration," inProc. OFC, Mar. 2002, pp. 487-489.
+Murali Kodialam , T. V. Lakshman, Dynamic routing of restorable bandwidth-guaranteed tunnels using aggregated network resource usage information, IEEE/ACM Transactions on Networking (TON), v.11 n.3, p.399-410, June 2003[doi>10.1109/TNET.2003.813044]
+{20} G. Li, D. Wang, C. Kalmanek, and R. Doverspike, "Efficient distributed path selection for shared restoration connections," inProc. IEEE INFOCOM, Jun. 2002, pp. 140-149.
+{21} Y. Liu, D. Tipper, and P. Siripongwutikorn, "Approximating optimal spare capacity allocation by successive survivable routing," inProc. IEEE INFOCOM, vol. 2, Apr. 2001, pp. 699-708.
+{22} R. MacDonald, L.-P. Chen, C.-X. Shi, and B. Faer, "Requirements of optical layer network restoration," inProc. OFC, Mar. 2000, pp. 68-70.
+Muriel Médard , Richard A. Barry , Steven G. Finn , Wenbo He , Steven S. Lumetta, Generalized loop-back recovery in optical mesh networks, IEEE/ACM Transactions on Networking (TON), v.10 n.1, p.153-164, February 2002[doi>10.1109/90.986592]
+E. Modiano , A. Narula-Tam, Survivable lightpath routing: a new approach to the design of WDM-based networks, IEEE Journal on Selected Areas in Communications, v.20 n.4, p.800-809, September 2006[doi>10.1109/JSAC.2002.1003045]
+G. Mohan , C. Siva Ram Murthy , Arun K. Somani, Efficient algorithms for routing dependable connections in WDM optical networks, IEEE/ACM Transactions on Networking (TON), v.9 n.5, p.553-566, October 2001[doi>10.1109/90.958325]
+{26} B. Mukherjee,Optical Communication Networks. New York: Mc-Graw-Hill, 1997.
+{27} C. Ou, J. Zhang, H. Zang, L. Sahasrabuddhe, and B. Mukherjee, "New and improved approaches for shared-path protection in WDM mesh networks,"J. Lightw. Technol., vol. 22, no. 5, pp. 1223-1232, May 2004.
+{28} S. Ramamurthy, L. Sahasrabuddhe, and B. Mukherjee, "Survivable WDM mesh networks,"J. Lightw. Technol., vol. 21, no. 4, pp. 870-883, Apr. 2003.
+Neil Robertson , P. D. Seymour, Graph minors. XIII: the disjoint paths problem, Journal of Combinatorial Theory Series B, v.63 n.1, p.65-110, Jan. 1995[doi>10.1006/jctb.1995.1006]
+L. Sahasrabuddhe , S. Ramamurthy , B. Mukherjee, Fault management in IP-over-WDM networks: WDM protection versus IP restoration, IEEE Journal on Selected Areas in Communications, v.20 n.1, p.21-33, September 2006[doi>10.1109/49.974659]
+{31} P. Sebos, J. Yates, G. Hjlmtsson, and A. Greenberg, "Auto-discovery of shared risk link groups," inProc. OFC, vol. 3, 2001, pp. WDD3-1-WDD3-3.
+{32} S. Stanley, "Making SONET Ethernet-Friendly," Lightreading report, Mar. 2003.
+J. Strand , A. L. Chiu , R. Tkach, Issues for routing in the optical layer, IEEE Communications Magazine, v.39 n.2, p.81-87, February 2001[doi>10.1109/35.900635]
+{34} C. Su and X. Su, "Protection path routing on WDM networks," inProc. OFC, vol. 2, Mar. 2001, pp. TuO2-T1-TuO2-T3.
+{35} X. Su and C. Su, "An online distributed protection algorithm in WDM networks," inProc. IEEE ICC, vol. 5, Jun. 2001, pp. 1571-1575.
+{36} Y. Xiong, D. Xu, and C. Qiao, "Achieving fast and bandwidth-efficient shared-path protection,"J. Lightw. Technol., vol. 21, no. 2, pp. 365-371, Feb. 2003.
+{37} D. Xu, Y. Xiong, C. Qiao, and G. Li, "Trap avoidance and protection schemes in networks with shared risk link groups,"J. Lightw. Technol., vol. 21, no. 11, pp. 2683-2693, Nov. 2003.
+Hui Zang , Canhui Ou , Biswanath Mukherjee, Path-protection routing and wavelength assignment (RWA) in WDM mesh networks under duct-layer constraints, IEEE/ACM Transactions on Networking (TON), v.11 n.2, p.248-258, April 2003[doi>10.1109/TNET.2003.810313]
+{39} K. Zhu, H. Zang, and B. Mukherjee, "Exploiting the benefit of virtual concatenation technique to the optical transport networks," inProc. OFC, Mar. 2003, pp. 363-364.

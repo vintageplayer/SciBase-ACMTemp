@@ -1,0 +1,47 @@
+F. Baker, Requirements for IP Version 4 Routers, RFC Editor, 1995
+Gaurav Banga , Peter Druschel , Jeffrey C. Mogul, Resource containers: a new facility for resource management in server systems, Proceedings of the third symposium on Operating systems design and implementation, p.45-58, February 1999, New Orleans, Louisiana, USA
+S. M. Bellovin, Security problems in the TCP/IP protocol suite, ACM SIGCOMM Computer Communication Review, v.19 n.2, p.32-48, April 1, 1989[doi>10.1145/378444.378449]
+S. M. Bellovin, "ICMP traceback messages,", Internet Draft: draft-bellovin-itrace-00.txt, 2000.
+R. Braden, "Requirements for internet hosts---Communication layers,", RFC 1122, 1989.
+Hal Burch, Tracing Anonymous Packets to Their Approximate Source, Proceedings of the 14th USENIX conference on System administration, December 03-08, 2000, New Orleans, Louisiana
+Robert L. Carter , Mark E. Crovella, Server Selection Using Dynamic Path Characterization in Wide-Area Networks, Proceedings of the INFOCOM '97. Sixteenth Annual Joint Conference of the IEEE Computer and Communications Societies. Driving the Information Revolution, p.1014, April 09-11, 1997
+Internet Mapping Project, B. Cheswick and H. Burch. (2000). {Online}. Available: http://cm.bell-labs.com/who/ches/map/index.html
+"Configuring TCP intercept (prevent denial-of-service attacks), Cisco IOS Documentation," Cisco Systems, 1997.
+K. Claffy and S. McCreary, private communication, Jan. 2000.
+CERT Advisory CA-96.26 Denial-of-service attack via pings (1996, Dec.). {Online}. Available: http://www.cert.org/advisories/CA-96.26. ping.html
+CERT Advisory CA-97.28 IP Denial-of-service attacks (1997, Dec.). {Online}. Available: http://www.cert.org/advisories/CA-97.28.smurf. html
+CERT Advisory CA-98.01 "smurf' IP Denial-of-service attacks (1998, Jan.). {Online}. Available: http://www.cert.org/advisories/CA-97.01. smurf.html
+CERT Advisory CA-2000--01 Denial-of-service developments (2000, Jan.). {Online}. Available: http://www.cert.org/advisories/CA-2000-01. html
+CERT Incident Note IN-20004)4 Denial-of-service attacks using nameservers (2000, Apr.). {Online}. Available: http://www.cert.org/incident_notes/IN-200-04.html
+Computer Security Institute and Federal Bureau of Investigation, "1999 CSI/FBI Computer Crime and Security Survey," Computer Security Institute publication, Mar. 1999.
+Skitter analysis (2000). {Online}. Available: http://www.caida.org/ Tools/Skitter/Summary/
+D. Dean, M. Franklin, and A. Stubblefield, "An algebraic approach to IP traceback," in Proc. 2001 Network and Distributed System Security Symp., Feb. 2001.
+S. Deering, "Interuet Protocol, Version 6 IPv6,", RFC 2460, 1998.
+W. Feller, An Introduction to Probability Theory and Its Applications, 2nd ed. New York: Wiley, 1966, vol. 1.
+P. Ferguson , D. Senie, Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing, RFC Editor, 2000
+J. Glave. (1998) Smurfing cripples ISPs. Wired Technology News. IOn- 9506.html
+I. Goldberg and A. Shostack, Freedom Network 1.0 Architecture and Protocols. Zero-Knowledge Systems White Paper, Nov. 1999.
+R, Govindan and H. Tangmunarunkit, "Heuristics for Internet map discovery," in Proc. 1EEE INFOCOM, vol. 3, Mar. 2000, pp. 1371-1380.
+L. T. Heberlein and M. Bishop, "Attack class: Address spoofing," in Natl. Information Systems Security Conf., Oct. 1996, pp. 371-378.
+John Douglas Howard, An analysis of security incidents on the Internet 1989-1995, Carnegie Mellon University, Pittsburgh, PA, 1998
+E Kam and W. Simpson, "Photuris: Session-key management protocol,", RFC 2522, 1999.
+C. A. Kent , J. C. Mogul, Fragmentation considered harmful, Proceedings of the ACM workshop on Frontiers in computer communications technology, p.390-401, August 11-13, 1987, Stowe, Vermont, USA[doi>10.1145/55482.55524]
+S. Kent , R. Atkinson, Security Architecture for the Internet Protocol, RFC Editor, 1998
+Catherine Meadows, A Formal Framework and Evaluation Method for Network Denial of Service, Proceedings of the 12th IEEE workshop on Computer Security Foundations, p.4, June 28-30, 1999
+J. Mogul and S. Deering, "Path MTU discovery,", RFC 1191, 1990.
+R. T. Morris, "A weakness in the 4.2BSD Unix TCP/IP Software," AT&T Bell Labs, Tech. Rep. Comput. Sci. 117, 1985.
+Vern Paxson, End-to-end routing behavior in the Internet, IEEE/ACM Transactions on Networking (TON), v.5 n.5, p.601-615, Oct. 1997[doi>10.1109/90.649563]
+C. Perkins, "IP mobility support,", RFC 2002, 1996.
+J. Postel, "Internet protocol,", RFC 791, 1981.
+M. G. Reed , P. F. Syverson , D. M. Goldschlag, Anonymous connections and onion routing, IEEE Journal on Selected Areas in Communications, v.16 n.4, p.482-494, September 2006[doi>10.1109/49.668972]
+MPLS label stack encoding, Jan. 2001.
+G. Sager, "Security Fun with OCxmon and cflowd," presented at the Internet 2 Working Group, Nov. 1998.
+D. Song and A. Perrig, "Advanced and authenticated marking schemes for IP traceback," in Proc. IEEE INFOCOM, vol. 2, Apr. 2001, pp. 878-886.
+Oliver Spatscheck , Larry L. Peterson, Defending against denial of service attacks in Scout, Proceedings of the third symposium on Operating systems design and implementation, p.59-72, February 1999, New Orleans, Louisiana, USA
+S. Staniford-Chen , L. T. Heberlein, Holding intruders accountable on the Internet, Proceedings of the 1995 IEEE Symposium on Security and Privacy, p.39, May 08-10, 1995
+Ion Stoica , Hui Zhang, Providing guaranteed services without per flow management, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.81-94, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316208]
+Robert Stone, Centertrack: an IP overlay network for tracking DoS floods, Proceedings of the 9th conference on USENIX Security Symposium, p.15-15, August 14-17, 2000, Denver, Colorado
+W. Theilmann and K. Rothermel, "Dynamic distance maps of the Internet," in Proc. IEEE INFOCOM, vol. 1, Mar. 2000, pp. 275-284.
+C. Villamizar, private communication, Feb. 2000.
+Marco de Vivo , Eddy Carrasco , Germinal Isern , Gabriela O. de Vivo, A review of port scanning techniques, ACM SIGCOMM Computer Communication Review, v.29 n.2, April 1999[doi>10.1145/505733.505737]
+Y. Zhang and V. Paxson, "Stepping stone detection," in Proc. USENIX Security Symp., July 2000, pp. 171-183.

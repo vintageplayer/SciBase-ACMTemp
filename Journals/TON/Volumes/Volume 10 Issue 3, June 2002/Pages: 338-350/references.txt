@@ -1,0 +1,22 @@
+V. Jacobson, Congestion avoidance and control, Symposium proceedings on Communications architectures and protocols, p.314-329, August 16-18, 1988, Stanford, California, USA[doi>10.1145/52324.52356]
+W. R. Stevens, TCP/IP Illustrated. Reading, MA: Addison-Wesley, 1994, vol. 1.
+Sally Floyd , Van Jacobson, Random early detection gateways for congestion avoidance, IEEE/ACM Transactions on Networking (TON), v.1 n.4, p.397-413, Aug. 1993[doi>10.1109/90.251892]
+S. Floyd and V. Jacobson, "On traffic phase effects in packet-switched gateways," Internetworking: Research and Experience, vol. 3, no. 3, pp. 115-156, Sept. 1992.
+A. Romanow , S. Floyd, Dynamics of TCP traffic over ATM networks, IEEE Journal on Selected Areas in Communications, v.13 n.4, p.633-641, September 2006[doi>10.1109/49.382154]
+L. Kalampoukas and A. Varma, "Performance of TCP over multihop ATM networks: A comparative study of ATM layer congestion control schemes," in Proc. ICC, June 1995, pp. 1472-1477.
+B. J. Ewy , J. B. Evans , V. S. Frost , G. J. Minden, TCP/ATM experiences in the MAGIC testbed, Proceedings of the 4th IEEE International Symposium on High Performance Distributed Computing, p.87, August 02-04, 1995
+Sally Floyd, TCP and explicit congestion notification, ACM SIGCOMM Computer Communication Review, v.24 n.5, p.8-23, Oct. 1994[doi>10.1145/205511.205512]
+M. Mathis , J. Mahdavi , S. Floyd , A. Romanow, TCP Selective Acknowledgement Options, RFC Editor, 1996
+S. Floyd , T. Henderson, The NewReno Modification to TCP's Fast Recovery Algorithm, RFC Editor, 1999
+L. S. Brakmo , L. L. Peterson, TCP Vegas: end to end congestion avoidance on a global Internet, IEEE Journal on Selected Areas in Communications, v.13 n.8, p.1465-1480, September 2006[doi>10.1109/49.464716]
+B. Suter , T. V. Lakshman , D. Stiliadis , A. K. Choudhury, Buffer management schemes for supporting TCP in gigabit routers with per-flow queueing, IEEE Journal on Selected Areas in Communications, v.17 n.6, p.1159-1169, September 2006[doi>10.1109/49.772451]
+E. L. Hahne , C. R. Kalmanek , S. P. Morgan, Dynamic window flow control on a high-speed wide-area data network, Computer Networks and ISDN Systems, v.26 n.1, p.29-41, Sept. 1993[doi>10.1016/0169-7552(93)90035-3]
+R. Jain, "Myths about congestion management in high-speed networks," Internetworking: Research and Experience, vol. 3, no. 3, pp. 101-113, Sept. 1992.
+T. V. Lakshman , Upamanyu Madhow, Performance Analysis of Window-based Flow Control Using TCP/IP: Effect of High Bandwidth-Delay Products and Random Loss, Proceedings of the IFIP TC6/WG6.4 Fifth International Conference on High Performance Networking V, p.135-149, June 27-July 01, 1994
+R. Cole , D. Shur , C. Villamizar, IP over ATM: A Framework Document, RFC Editor, 1996
+L. Kalampoukas, A. Varma, and K. K. Ramakrishnan, "Dynamics of an explicit rate allocation algorithm for ATM networks," in Proc. IFIP-IEEE Int. Broadband Communications Conf., Apr. 1996, pp. 111-122.
+R. Muthukrishnan, A. Varma, S. Dasgupta, L. Kalampoukas, and K. K. Ramakrishnan, "Design, implementation and evaluation of an explicit-rate allocation algorithm in an ATM switch," in Proc. IEEE INFOCOM, vol. 3, Apr. 2000, pp. 1313-1322.
+D. Mitra, "Asymptotically optimal design of congestion control for high speed data networks," IEEE Trans. Commun., vol. 40, pp. 301-311, Feb. 1992.
+Abhijit K. Choudhury , Ellen L. Hahne, Dynamic queue length thresholds in a shared memory ATM switch, Proceedings of the Fifteenth annual joint conference of the IEEE computer and communications societies conference on The conference on computer communications, March 24-28, 1996, San Francisco, California
+H. T. Kung , Trevor Blackwell , Alan Chapman, Credit-based flow control for ATM networks: credit update protocol, adaptive credit allocation and statistical multiplexing, Proceedings of the conference on Communications architectures, protocols and applications, p.101-114, August 31-September 02, 1994, London, United Kingdom[doi>10.1145/190314.190324]
+Sally Floyd, Connections with multiple congested gateways in packet-switched networks part 1: one-way traffic, ACM SIGCOMM Computer Communication Review, v.21 n.5, p.30-47, Oct. 1991[doi>10.1145/122431.122434]

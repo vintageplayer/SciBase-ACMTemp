@@ -1,0 +1,41 @@
+Mark Allman, A web server's view of the transport layer, ACM SIGCOMM Computer Communication Review, v.30 n.5, October 2000[doi>10.1145/505672.505674]
+Eitan Altman , Konstantin Avrachenkov , Chadi Barakat, A stochastic model of TCP/IP with stationary random losses, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.231-242, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347549]
+Martin F. Arlitt , Carey L. Williamson, Internet Web servers: workload characterization and performance implications, IEEE/ACM Transactions on Networking (TON), v.5 n.5, p.631-645, Oct. 1997[doi>10.1109/90.649565]
+D. Bansal and H. Balakrishnan, "Binomial congestion control algorithms," inProc. IEEE INFOCOM, Anchorage, AK, Apr. 2001, pp. 631-640.
+Lawrence S. Brakmo , Sean W. O'Malley , Larry L. Peterson, TCP Vegas: new techniques for congestion detection and avoidance, Proceedings of the conference on Communications architectures, protocols and applications, p.24-35, August 31-September 02, 1994, London, United Kingdom[doi>10.1145/190314.190317]
+N. Cardwell, S. Savage, and T. Anderson, "Modeling TCP latency," inProc. IEEE INFOCOM, Tel-Aviv, Israel, Mar. 2000, pp. 1742-1751.
+Kevin Fall , Sally Floyd, Simulation-based comparisons of Tahoe, Reno and SACK TCP, ACM SIGCOMM Computer Communication Review, v.26 n.3, p.5-21, July 1996[doi>10.1145/235160.235162]
+V. Firoiu and M. Borden, "A study of active queue management for congestion control," inProc. IEEE INFOCOM, Tel-Aviv, Israel, Mar. 2000, vol. 3, pp. 1435-1444.
+Sally Floyd, Connections with multiple congested gateways in packet-switched networks part 1: one-way traffic, ACM SIGCOMM Computer Communication Review, v.21 n.5, p.30-47, Oct. 1991[doi>10.1145/122431.122434]
+Sally Floyd , Kevin Fall, Promoting the use of end-to-end congestion control in the Internet, IEEE/ACM Transactions on Networking (TON), v.7 n.4, p.458-472, Aug. 1999[doi>10.1109/90.793002]
+S. Floyd, R. Gummadi, and S. Shenker, "Adaptive RED: An algorithms for increasing the robustness of RED's active queue management," Tech. Rep., Aug. 2001.
+Sally Floyd , Mark Handley , Jitendra Padhye , Jörg Widmer, Equation-based congestion control for unicast applications, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.43-56, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347397]
+S. Floyd, T. Henderson, and A. Gurtov, "The NewReno modification to TCP's fast recovery algorithm," RFC 3782, Apr. 2004.
+S. Floyd and V. Jacobson, "On traffic phase effects in packet-switched gateways,"Internetw.: Res. Exper., vol. 3, no. 3, pp. 115-156, Sep. 1992.
+Sally Floyd , Eddie Kohler, Internet research needs better models, ACM SIGCOMM Computer Communication Review, v.33 n.1, p.29-34, January 2003[doi>10.1145/774763.774767]
+M. Goyal, R. Guerin, and R. Rajan, "Predicting TCP throughput from non-invasive network sampling," inProc. IEEE INFOCOM, Hiroshima, Japan, Mar. 2002, vol. 1, pp. 180-189.
+Qi He , Constantine Dovrolis , Mostafa Ammar, On the predictability of large transfer TCP throughput, Proceedings of the 2005 conference on Applications, technologies, architectures, and protocols for computer communications, August 22-26, 2005, Philadelphia, Pennsylvania, USA[doi>10.1145/1080091.1080110]
+V. Jacobson, Congestion avoidance and control, Symposium proceedings on Communications architectures and protocols, p.314-329, August 16-18, 1988, Stanford, California, USA[doi>10.1145/52324.52356]
+V. Jacobson, "Berkeley TCP evolution from 4.3-Tahoe to 4.3 Reno," inProc. 18th IETF, Vancouver, Canada, Aug. 1990.
+Hao Jiang , Constantinos Dovrolis, Passive estimation of TCP round-trip times, ACM SIGCOMM Computer Communication Review, v.32 n.3, p.75-88, July 2002[doi>10.1145/571697.571725]
+Dejan Kostić , Adolfo Rodriguez , Jeannie Albrecht , Amin Vahdat, Bullet: high bandwidth data dissemination using an overlay mesh, Proceedings of the nineteenth ACM symposium on Operating systems principles, October 19-22, 2003, Bolton Landing, NY, USA[doi>10.1145/945445.945473]
+Anurag Kumar, Comparative performance analysis of versions of TCP in a local network with a lossy link, IEEE/ACM Transactions on Networking (TON), v.6 n.4, p.485-498, Aug. 1998[doi>10.1109/90.720921]
+T. V. Lakshman , Upamanyu Madhow, The performance of TCP/IP for networks with high bandwidth-delay products and random loss, IEEE/ACM Transactions on Networking (TON), v.5 n.3, p.336-350, June 1997[doi>10.1109/90.611099]
+Anirban Mahanti , Derek L. Eager , Mary K. Vernon, Improving multirate congestion control using a TCP Vegas throughput model, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.48 n.2, p.113-136, June, 2005[doi>10.1016/j.comnet.2004.04.005]
+Matthew Mathis , Jeffrey Semke , Jamshid Mahdavi , Teunis Ott, The macroscopic behavior of the TCP congestion avoidance algorithm, ACM SIGCOMM Computer Communication Review, v.27 n.3, p.67-82, July 1997[doi>10.1145/263932.264023]
+Alberto Medina , Mark Allman , Sally Floyd, Measuring the evolution of transport protocols in the internet, ACM SIGCOMM Computer Communication Review, v.35 n.2, April 2005[doi>10.1145/1064413.1064418]
+A. Misra and T. Ott, "The window distribution for idealized TCP congestion avoidance with variable packet loss," inProc. IEEE INFOCOM, New York, Mar. 1999, pp. 1564-1572.
+V. Misra, W. Gong, and D. Towsley, "Stochastic differential equation modeling and analysis of TCP-windowsize behavior," presented at the IFIP Perform., Istanbul, Turkey, Oct. 1999.
+Jitendra Padhye , Victor Firoiu , Don Towsley , Jim Kurose, Modeling TCP throughput: a simple model and its empirical validation, Proceedings of the ACM SIGCOMM '98 conference on Applications, technologies, architectures, and protocols for computer communication, p.303-314, August 31-September 04, 1998, Vancouver, British Columbia, Canada[doi>10.1145/285237.285291]
+Jitendra Pahdye , Sally Floyd, On inferring TCP behavior, Proceedings of the 2001 conference on Applications, technologies, architectures, and protocols for computer communications, p.287-298, August 2001, San Diego, California, USA[doi>10.1145/383059.383083]
+N. Parvez, A. Mahanti, and C.Williamson, "TCP NewReno: Slow-but-steady or impatient?," inProc. IEEE ICC, Istanbul, Turkey, Jun. 2006, pp. 716-722.
+Vern Paxson, Empirically derived analytic models of wide-area TCP connections, IEEE/ACM Transactions on Networking (TON), v.2 n.4, p.316-336, Aug. 1994[doi>10.1109/90.330413]
+J. Postel, "Transmission control protocol," RFC 793, Sep. 1980.
+Luigi Rizzo, Dummynet and forward error correction, Proceedings of the annual conference on USENIX Annual Technical Conference, p.31-31, June 15-19, 1998, New Orleans, Louisiana
+Charalampos (Babis) Samios , Mary K. Vernon, Modeling the throughput of TCP Vegas, Proceedings of the 2003 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 11-14, 2003, San Diego, CA, USA[doi>10.1145/781027.781037]
+Biplab Sikdar , S. Kalyanaraman , Kenneth S. Vastola, An integrated model for the latency and steady-state throughput of TCP connections, Performance Evaluation, v.46 n.2-3, p.139-154, October 2001[doi>10.1016/S0166-5316(01)00048-7]
+Biplab Sikdar , Shivkumar Kalyanaraman , Kenneth S. Vastola, Analytic models for the latency and steady-state throughput of TCP tahoe, Reno, and SACK, IEEE/ACM Transactions on Networking (TON), v.11 n.6, p.959-971, 01 December 2003[doi>10.1109/TNET.2003.820427]
+Rob Simmonds , Russell Bradford , Brian Unger, Applying parallel discrete event simulation to network emulation, Proceedings of the fourteenth workshop on Parallel and distributed simulation, p.15-22, May 28-31, 2000, Bologna, Italy
+W. Richard Stevens, TCP/IP illustrated (vol. 1): the protocols, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1993
+W. Richard Stevens , Gary R. Wright, TCP/IP illustrated (vol. 2): the implementation, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1995
+M. Yajnik, S. Moon, J. Kurose, and D. Towsley, "Measurement and modeling of the temporal dependence in packet loss," inProc. IEEE INFOCOM, New York, Mar. 1999, pp. 345-352.

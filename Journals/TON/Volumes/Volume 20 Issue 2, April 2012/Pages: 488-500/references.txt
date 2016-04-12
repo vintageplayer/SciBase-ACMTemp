@@ -1,0 +1,31 @@
+Karthik Lakshminarayanan , Anand Rangarajan , Srinivasan Venkatachary, Algorithms for advanced packet classification with ternary CAMs, Proceedings of the 2005 conference on Applications, technologies, architectures, and protocols for computer communications, August 22-26, 2005, Philadelphia, Pennsylvania, USA[doi>10.1145/1080091.1080115]
+"Content addressable memory," Integrated Device Technology, Inc., San Jose, CA {Online}. Available: http://www.idt.com/
+David E. Taylor, Survey and taxonomy of packet classification techniques, ACM Computing Surveys (CSUR), v.37 n.3, p.238-275, September 2005[doi>10.1145/1108956.1108958]
+B. Agrawal and T. Sherwood, "Modeling tcam power for next generation network devices," inProc. IEEE Int. Symp. Perform. Anal. Syst. Softw., 2006, pp. 120-129.
+C. Lambiri, "Senior staff architect at IDT, private communication," 2008.
+Panos Lekkas, Network Processors, McGraw-Hill, Inc., New York, NY, 2003
+Fang Yu , T. V. Lakshman , Martin Austin Motoyama , Randy H. Katz, SSA: a power and memory efficient scheme to multi-match packet classification, Proceedings of the 2005 ACM symposium on Architecture for networking and communications systems, October 26-28, 2005, Princeton, NJ, USA[doi>10.1145/1095890.1095905]
+R. Draves, C. King, S. Venkatachary, and B. Zill, "Constructing optimal IP routing tables," inProc. IEEE INFOCOM, 1999, pp. 88-97.
+S. Suri, T. Sandholm, and P. Warkhede, "Compressing two-dimensional routing tables,"Algorithmica, vol. 35, pp. 287-300, 2003.
+David A. Applegate , Gruia Calinescu , David S. Johnson , Howard Karloff , Katrina Ligett , Jia Wang, Compressing rectilinear pictures and minimizing access control lists, Proceedings of the eighteenth annual ACM-SIAM symposium on Discrete algorithms, p.1066-1075, January 07-09, 2007, New Orleans, Louisiana
+Qunfeng Dong , Suman Banerjee , Jia Wang , Dheeraj Agrawal , Ashutosh Shukla, Packet classifiers in ternary CAMs can be smaller, Proceedings of the joint international conference on Measurement and modeling of computer systems, June 26-30, 2006, Saint Malo, France[doi>10.1145/1140277.1140313]
+Alex X. Liu , Mohamed G. Gouda, Complete Redundancy Removal for Packet Classifiers in TCAMs, IEEE Transactions on Parallel and Distributed Systems, v.21 n.4, p.424-437, April 2010[doi>10.1109/TPDS.2008.216]
+Alex X. Liu , Chad R. Meiners , Eric Torng, TCAM Razor: a systematic approach towards minimizing packet classifiers in TCAMs, IEEE/ACM Transactions on Networking (TON), v.18 n.2, p.490-500, April 2010[doi>10.1109/TNET.2009.2030188]
+Alex X. Liu , Mohamed G. Gouda, Complete redundancy detection in firewalls, Proceedings of the 19th annual IFIP WG 11.3 working conference on Data and Applications Security, p.193-206, August 07-10, 2005, Storrs, CT[doi>10.1007/11535706_15]
+A. X. Liu, C. R. Meiners, and Y. Zhou, "All-match based complete redundancy removal for packet classifiers in TCAMs," inProc. 27th Annu. IEEE INFOCOM, Apr. 2008, pp. 111-115.
+R. McGeer and P. Yalagandula, "Minimizing rulesets for TCAM implementation," inProc. IEEE INFOCOM, 2009, pp. 1314-1322.
+Chad R. Meiners , Alex X. Liu , Eric Torng, Topological transformation approaches to optimizing TCAM-based packet classification systems, Proceedings of the eleventh international joint conference on Measurement and modeling of computer systems, June 15-19, 2009, Seattle, WA, USA[doi>10.1145/1555349.1555359]
+A. Bremler-Barr and D. Hendler, "Space-efficient TCAM-based classification using gray coding," inProc. 26th Annu. IEEE INFOCOM, May 2007, pp. 1388-1396.
+Huan Liu, Efficient Mapping of Range Classifier into Ternary-CAM, Proceedings of the 10th Symposium on High Performance Interconnects HOT Interconnects, p.95, August 21-23, 2002
+J. van Lunteren , T. Engbersen, Fast and scalable packet classification, IEEE Journal on Selected Areas in Communications, v.21 n.4, p.560-571, September 2006[doi>10.1109/JSAC.2003.810527]
+D. Pao, P. Zhou, B. Liu, and X. Zhang, "Enhanced prefix inclusion coding filter-encoding algorithm for packet classification with ternary content addressable memory,"Comput. Digital Tech., vol. 1, pp. 572-580, Apr. 2007.
+Hao Che , Zhijun Wang , Kai Zheng , Bin Liu, DRES: Dynamic Range Encoding Scheme for TCAM Coprocessors, IEEE Transactions on Computers, v.57 n.7, p.902-915, July 2008[doi>10.1109/TC.2007.70838]
+A. Bremler-Barr, D. Hay, D. Hendler, and B. Farber, "Layered interval codes for TCAM based classification," inProc. IEEE INFOCOM, 2009, pp. 1305-1313.
+Ed Spitznagel , David Taylor , Jonathan Turner, Packet Classification Using Extended TCAMs, Proceedings of the 11th IEEE International Conference on Network Protocols, p.120, November 04-07, 2003
+Kai Zheng , Chengchen Hu , Hongbin Lu , Bin Liu, A TCAM-based distributed parallel IP lookup scheme and performance analysis, IEEE/ACM Transactions on Networking (TON), v.14 n.4, p.863-875, August 2006[doi>10.1109/TNET.2006.880171]
+Kai Zheng , Hao Che , Zhijun Wang , Bin Liu , Xin Zhang, DPPC-RE: TCAM-Based Distributed Parallel Packet Classification with Range Encoding, IEEE Transactions on Computers, v.55 n.8, p.947-961, August 2006[doi>10.1109/TC.2006.123]
+C. R. Meiners, A. X. Liu, and E. Torng, "TCAM razor: A systematic approach towards minimizing packet classifiers in TCAMs," inProc. 15th IEEE ICNP, Oct. 2007, pp. 266-275.
+R. W. Hamming, "Error detecting and correcting codes,"Bell Syst. Tech. J., vol. 29, pp. 147-160, Apr. 1950.
+Chad R. Meiners , Alex X. Liu , Eric Torng, Algorithmic approaches to redesigning tcam-based systems, Proceedings of the 2008 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 02-06, 2008, Annapolis, MD, USA[doi>10.1145/1375457.1375524]
+Sumeet Singh , Florin Baboescu , George Varghese , Jia Wang, Packet classification using multidimensional cutting, Proceedings of the 2003 conference on Applications, technologies, architectures, and protocols for computer communications, August 25-29, 2003, Karlsruhe, Germany[doi>10.1145/863955.863980]
+D. E. Taylor and J. S. Turner, "Classbench: A packet classification benchmark," inProc. IEEE INFOCOM, Mar. 2005, vol. 3, pp. 2068-2079.

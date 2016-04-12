@@ -1,0 +1,39 @@
+"AMR" {Online}. Available: http://en.wikipedia.org/wiki/Adaptive_ multi-rate_compression
+"NIST Net" {Online}. Available: http://www-x.antd.nist.gov/nistnet/
+"SRI and ISI traffic generator" {Online}. Available: http://www.postel. org/tg/tg.html
+M. Allman, "TCP congestion control with appropriate byte counting (ABC)," RFC 3465 (Experimental), Feb. 2003.
+M. Allman, H. Balakrishnan, and S. Floyd, "Enhancing TCP's loss recovery using limited transmit," RFC 3042, Jan. 2001.
+M. Allman, S. Floyd, and C. Patridge, "Increasing TCP's initial window," RFC 3390, Oct. 2002.
+M. Allman, V. Paxson, and W. Stevens, "TCP congestion control," RFC 2581, Apr. 1999.
+S. A. Baset and H. Schulzrinne, "An analysis of the Skype peer-to-peer Internet telephony protocol," inProc. IEEE INFOCOM, Barcelona, Spain, Apr. 2006.
+K. Beomjoon, C. Yong-Hoon, and L. Jaiyong, "An extended model for TCP loss recovery latency with random packet losses,"IEICE Trans. Commun., vol. 89, no. 1, pp. 28-37, Jan. 2006.
+Eli Brosh , Salman Abdul Baset , Dan Rubenstein , Henning Schulzrinne, The delay-friendliness of TCP, Proceedings of the 2008 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 02-06, 2008, Annapolis, MD, USA[doi>10.1145/1375457.1375464]
+E. Brosh, S. A. Baset, V. Misra, D. Rubenstein, and H. Schulzrinne, "The delay-friendliness of TCP," Department of Computer Science, Columbia University, New York, Tech. Rep. CUCS-014-08, Mar. 2008.
+N. Cardwell, S. Savage, and T. Anderson, "Modeling TCP latency," inProc. IEEE INFOCOM, Tel-Aviv, Israel, Mar. 2000, vol. 3, pp. 1742-1751.
+Kuan-Ta Chen , Chun-Ying Huang , Polly Huang , Chin-Laung Lei, An empirical evaluation of TCP performance in online games, Proceedings of the 2006 ACM SIGCHI international conference on Advances in computer entertainment technology, June 14-16, 2006, Hollywood, California[doi>10.1145/1178823.1178830]
+Kuan-Ta Chen , Chun-Ying Huang , Polly Huang , Chin-Laung Lei, Quantifying Skype user satisfaction, Proceedings of the 2006 conference on Applications, technologies, architectures, and protocols for computer communications, September 11-15, 2006, Pisa, Italy[doi>10.1145/1159913.1159959]
+S. Floyd, T. Henderson, and A. Gurtov, "The NewReno modification to TCP's fast recovery algorithm," RFC 3782, Apr. 2004.
+S. Floyd and E. Kohler, "TCP friendly rate control (TFRC): The small-packet (SP) variant," RFC 4828 (Experimental), Apr. 2007.
+A. Goel, C. Krasic, K. Li, and J. Walpole, "Supporting low-latency TCP based media streams," inProc. IWQoS, Miami, FL, May 2002, pp. 193-203.
+Lei Guo , Enhua Tan , Songqing Chen , Zhen Xiao , Oliver Spatscheck , Xiaodong Zhang, Delving into internet streaming media delivery: a quality and resource utilization perspective, Proceedings of the 6th ACM SIGCOMM conference on Internet measurement, October 25-27, 2006, Rio de Janeriro, Brazil[doi>10.1145/1177080.1177108]
+M. Handley, S. Floyd, J. Padhye, and J. Widmer, "TCP friendly rate control (TFRC): Protocol specification," RFC 3448, Jan. 2003.
+M. Handley, J. Padhye, and S. Floyd, "TCP congestion window validation," RFC 2861 (Experimental), Jun. 2000.
+T. Kim and M. H. Ammar, "Receiver buffer requirement for video streaming over TCP," inProc. SPIE, San Jose, CA, Jan. 2006, p. 607718.
+Eddie Kohler , Mark Handley , Sally Floyd, Designing DCCP: congestion control without reliability, Proceedings of the 2006 conference on Applications, technologies, architectures, and protocols for computer communications, September 11-15, 2006, Pisa, Italy[doi>10.1145/1159913.1159918]
+J. Lazzaro, "Framing real-time transport protocol (RTP) and RTP control protocol (RTCP) packets over connection-oriented transport," RFC 4571, Jul. 2006.
+D. McCreary, K. Li, S. A. Watterson, and D. K. Lowenthal, "TCP-RC: A receiver-centered TCP protocol for delay-sensitive applications," inProc. MMCN, San Jose, CA, Jan. 2005, pp. 126-130.
+Alberto Medina , Mark Allman , Sally Floyd, Measuring the evolution of transport protocols in the internet, ACM SIGCOMM Computer Communication Review, v.35 n.2, April 2005[doi>10.1145/1064413.1064418]
+A. Mondal and A. Kuzmanovic, "When TCP friendliness becomes harmful," inProc. IEEE INFOCOM, Anchorage, AK, May 2007, pp. 152-160.
+B. Mukherjee , T. Brecht, Time-lined TCP for the TCP-friendly delivery of streaming media, Proceedings of the 2000 International Conference on Network Protocols, p.165, November 14-17, 2000
+Songun Na , Seungwha Yoo, Allowable Propagation Delay for VoIP Calls of Acceptable Quality, Proceedings of the First International Workshop on Advanced Internet Services and Applications, p.47-56, August 01-02, 2002
+J. Nagle, "Congestion control in IP/TCP Internetworks," RFC 896, Jan. 1984.
+J. Olsen, "Stochastic modeling and simulation of the TCP protocol," Ph.D. dissertation, Uppsala University, Uppsala, Sweden, Oct. 2003.
+Jitendra Padhye , Victor Firoiu , Don Towsley , Jim Kurose, Modeling TCP throughput: a simple model and its empirical validation, Proceedings of the ACM SIGCOMM '98 conference on Applications, technologies, architectures, and protocols for computer communication, p.303-314, August 31-September 04, 1998, Vancouver, British Columbia, Canada[doi>10.1145/285237.285291]
+H. Schulzrinne, S. Casner, R. Frederick, and V. Jacobson, "RTP: A transport protocol for real-time applications," RFC 3550, Jul. 2003.
+W. R. Stevens,TCP/IP Illustrated. Reading, MA: Addison-Wesley, Nov. 1994, vol. 1.
+Shu Tao , John Apostolopoulos , Roch Guérin, Real-time monitoring of video quality in IP networks, Proceedings of the international workshop on Network and operating systems support for digital audio and video, June 13-14, 2005, Stevenson, Washington, USA[doi>10.1145/1065983.1066013]
+Bing Wang , Jim Kurose , Prashant Shenoy , Don Towsley, Multimedia streaming via TCP: an analytic performance study, Proceedings of the 12th annual ACM international conference on Multimedia, October 10-16, 2004, New York, NY, USA[doi>10.1145/1027527.1027735]
+Bing Wang , Wei Wei , Zheng Guo , Don Towsley, Multipath live streaming via TCP: scheme, performance and benefits, Proceedings of the 2007 ACM CoNEXT conference, December 10-13, 2007, New York, New York[doi>10.1145/1364654.1364668]
+A. Wierman, T. Osogami, and J. Olsen, "A unified framework for modeling TCP-Vegas, TCP-SACK, and TCP-Reno," inProc. MASCOTS, Orlando, FL, Oct. 2003, pp. 269-278.
+R. W. Wolff,Stochastic Modeling and Theory of Queues. New York: Prentice-Hall, 1989.
+X. Zhang and H. Schulzrinne, "Voice over TCP and UDP" Department of Computer Science, Columbia University, Tech. Rep. CUCS-033-04, Sep. 2004.

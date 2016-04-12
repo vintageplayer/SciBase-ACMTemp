@@ -1,0 +1,36 @@
+J. C. R. Bennett , D. C. Stephens , Hui Zhang, High speed, scalable, and accurate implementation of packet fair queueing algorithms in ATM networks, Proceedings of the 1997 International Conference on Network Protocols (ICNP '97), p.7, October 28-31, 1997
+Jon C. R. Bennett , Hui Zhang, WF2Q: worst-case fair weighted fair queueing, Proceedings of the Fifteenth annual joint conference of the IEEE computer and communications societies conference on The conference on computer communications, March 24-28, 1996, San Francisco, California
+B. Braden, D. Clark, J. Crowcroft, B. Davie, S. Deering, D. Estrin, S. Floyd, V. Jacobson, G. Minshall, C. Partridge, L. Peterson, K. K. Ramakrishnan, S. Shenker, and J. Wroclawski. (1998) Recommendations on queue management and congestion avoidance in the Internet. LBL Network Research Group. {Online}. Available: http://ftp.ee.lbl.gov/nrgother.html
+R. Callon, P. Doolan, N. Feldman, A. Fredette, G. Swallow, and A. Viswanathan. (1997) A framework for multiprotocol label switching. IETF. {Online}draft-ietf-mpls-framework-02.txt
+Z. Cao, Z. Wang, and E. Zegura, "Rainbow fair queueing: Fair bandwidth sharing without per-flow state," in Proc. INFOCOM, Tel-Aviv, Israel, Mar. 2000, pp. 922--931.
+A. Charny, "An algorithm for rate allocation in a packet-switching network with feedback," Master's thesis, Massachusetts Inst. Technol., Comput. Sci. Div., Cambridge, MA, 1994.
+A. Clerget and W. Dabbous, "Tag-based unified fairness," in Proc. IEEE INFOCOM, Anchorage, AK, Apr. 2001, pp. 498--507.
+Mark E. Crovella , Azer Bestavros, Self-similarity in World Wide Web traffic: evidence and possible causes, Proceedings of the 1996 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.160-169, May 23-26, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/233013.233038]
+A. Demers, S. Keshav, and S. Shenker, "Analysis and simulation of a fair queueing algorithm," J. Internetw. Res. Experience, pp. 3--26, Oct. 1990.
+S. Fahmy, R. Jain, S. Kalyanaraman, R. Goyal, and B. Vandalore, "On determining the fair bandwidth share for ABR connections in ATM networks," in Proc. IEEE Int. Conf. Communications (ICC), vol. 3, Atlanta, GA, June 1998, pp. 1485--1491.
+Sally Floyd , Kevin Fall, Promoting the use of end-to-end congestion control in the Internet, IEEE/ACM Transactions on Networking (TON), v.7 n.4, p.458-472, Aug. 1999[doi>10.1109/90.793002]
+Sally Floyd , Van Jacobson, Random early detection gateways for congestion avoidance, IEEE/ACM Transactions on Networking (TON), v.1 n.4, p.397-413, Aug. 1993[doi>10.1109/90.251892]
+Sally Floyd , Van Jacobson, Link-sharing and resource management models for packet networks, IEEE/ACM Transactions on Networking (TON), v.3 n.4, p.365-386, Aug. 1995[doi>10.1109/90.413212]
+S. Golestani, "A self-clocked fair queueing scheme for broadband applications," in Proc. IEEE INFOCOM, Toronto, ON, Canada, June 1994, pp. 636--646.
+Pankaj Gupta , Nick McKeown, Packet classification on multiple fields, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.147-160, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316217]
+V. Jacobson, Congestion avoidance and control, Symposium proceedings on Communications architectures and protocols, p.314-329, August 16-18, 1988, Stanford, California, USA[doi>10.1145/52324.52356]
+J. Jaffe, "Bottleneck flow control," IEEE Trans. Commun., vol. 29, pp. 954--962, July 1981.
+R. Jain, S. Kalyanaraman, R. Goyal, S. Fahmy, and R. Viswanathan, "ERICA switch algorithm: A Complete description," ATM Forum, 96--1172, 1996.
+T. V. Lakshman , D. Stiliadis, High-speed policy-based packet forwarding using efficient multi-dimensional range matching, Proceedings of the ACM SIGCOMM '98 conference on Applications, technologies, architectures, and protocols for computer communication, p.203-214, August 31-September 04, 1998, Vancouver, British Columbia, Canada[doi>10.1145/285237.285283]
+Dong Lin , Robert Morris, Dynamics of random early detection, ACM SIGCOMM Computer Communication Review, v.27 n.4, p.127-137, Oct. 1997[doi>10.1145/263109.263154]
+Controlling High-Bandwidth Flows at the Congested Router, Proceedings of the Ninth International Conference on Network Protocols, p.192, November 11-14, 2001
+Steven Ray Mccanne , Martin Vetterli, Scalable compression and transmission of internet multicast video, University of California, Berkeley, 1996
+J. Nagle, "On packet switches with infinite storage," IEEE Trans. Commun., vol. 35, pp. 435--438, Apr. 1987.
+Ucb/lbnl/vint Network Simulator---ns (Version 2) {Online}. Available: http://www-mash.cs.berkeley.edu/ns/
+R. Pan, B. Prabhakar, and K. Psounis, "CHOKe---A stateless active queue management scheme for approximating fair bandwidth allocation," in Proc. IEEE INFOCOM, Tel Aviv, Israel, Mar. 2000, pp. 942--951.
+Abhay K. Parekh , Robert G. Gallager, A generalized processor sharing approach to flow control in integrated services networks: the single-node case, IEEE/ACM Transactions on Networking (TON), v.1 n.3, p.344-357, June 1993[doi>10.1109/90.234856]
+L. Roberts, "Enhanced PRCA (proportional rate control algorithm)," ATM Forum, 94-0735R1, 1994.
+Scott Shenker, Making greed work in networks: a game-theoretic analysis of switch service disciplines, Proceedings of the conference on Communications architectures, protocols and applications, p.47-57, August 31-September 02, 1994, London, United Kingdom[doi>10.1145/190314.190319]
+M. Shreedhar , George Varghese, Efficient fair queueing using deficit round robin, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.231-242, August 28-September 01, 1995, Cambridge, Massachusetts, USA[doi>10.1145/217382.217453]
+K.Y. Siu and H. Y. Tzeng, "Intelligent congestion control for ABR service in ATM networks," Dept. Electr. Comput. Eng., Univ. California, Irvine, CA, Tech. Rep. 1102, 1994.
+V. Srinivasan , S. Suri , G. Varghese, Packet classification using tuple space search, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.135-146, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316216]
+V. Srinivasan , G. Varghese , S. Suri , M. Waldvogel, Fast and scalable layer four switching, Proceedings of the ACM SIGCOMM '98 conference on Applications, technologies, architectures, and protocols for computer communication, p.191-202, August 31-September 04, 1998, Vancouver, British Columbia, Canada[doi>10.1145/285237.285282]
+Dimitrios Stiliadis , Anujan Varma, Efficient fair queueing algorithms for packet-switched networks, IEEE/ACM Transactions on Networking (TON), v.6 n.2, p.175-185, April 1998[doi>10.1109/90.664266]
+I. Stoica, S. Shenker, and H. Zhang, "Core-stateless fair queueing: Achieving approximately fair bandwidth allocations in high speed networks," Carnegie Mellon Univ., Pittsburgh, PA, Tech. Rep. CMU-CS-98-136, 1998.
+N. Venkitaraman, J. Mysore, R. Srikant, and R. Barnes, "Stateless prioritized fair queueing," SPFQ, draft-venkitaraman-diffserv-spfq-00.txt, 2000.
+Z. Wang, "User-share differentiation (USD) scalable bandwidth allocation for differentiated services," IETF, draft-wang-diff-serv-usd-00.txt, 1998.

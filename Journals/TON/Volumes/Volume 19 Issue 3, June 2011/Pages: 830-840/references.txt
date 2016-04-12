@@ -1,0 +1,35 @@
+Cisco, "How does load balancing work?," San Jose, CA, Doc. ID 5212, Aug. 2005 {Online}. Available: http://www.cisco.com/en/US/ tech/tk365/technologies_tech_note09186a0080094820.shtml
+Juniper, "Configuring load-balance per-packet action," Sunnyvale, CA, Aug. 2010 {Online}. Available: http://www.juniper. net/techpubs/software/junos/junos70/swconfig70-policy/html/policyactions-config11.html
+Fabien Viger , Brice Augustin , Xavier Cuvellier , Clémence Magnien , Matthieu Latapy , Timur Friedman , Renata Teixeira, Detection, understanding, and prevention of traceroute measurement artifacts, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.52 n.5, p.998-1018, April, 2008[doi>10.1016/j.comnet.2007.11.017]
+D. Veitch, B. Augustin, T. Friedman, and R. Teixeira, "Failure control in multipath route tracing," inProc. IEEE INFOCOM, Apr. 2009, pp. 1395-1403.
+David Andersen , Hari Balakrishnan , Frans Kaashoek , Robert Morris, Resilient overlay networks, Proceedings of the eighteenth ACM symposium on Operating systems principles, October 21-24, 2001, Banff, Alberta, Canada[doi>10.1145/502034.502048]
+PlanetLab, "PlanetLab: An open platform for developing, deploying, and accessing planetary-scale services," Aug. 2010 {Online}. Available: http://www.planet-lab.org/
+Brice Augustin , Timur Friedman , Renata Teixeira, Measuring load-balanced paths in the internet, Proceedings of the 7th ACM SIGCOMM conference on Internet measurement, October 24-26, 2007, San Diego, California, USA[doi>10.1145/1298306.1298329]
+Brice Augustin , Timur Friedman , Renata Teixeira, Exhaustive path tracing with Paris traceroute, Proceedings of the 2006 ACM CoNEXT conference, December 04-07, 2006, Lisboa, Portugal[doi>10.1145/1368436.1368494]
+R. Bonica, D. Gan, D. Tappan, and C. Pignataro, "ICMP extensions for multiprotocol label switching," IETF RFC 4950, Aug. 2007.
+B. Yao, R. Viswanathan, F. Chang, and D. Waddington, "Topology inference in the presence of anonymous routers," inProc. IEEE INFOCOM, Apr. 2003, vol. 1, pp. 353-363.
+Vern Paxson, End-to-end routing behavior in the Internet, IEEE/ACM Transactions on Networking (TON), v.5 n.5, p.601-615, Oct. 1997[doi>10.1109/90.649563]
+S. Banerjee, T. G. Griffin, and M. Pias, "The interdomain connectivity of PlanetLab nodes," inProc. PAM, May 2004, pp. 73-82.
+Matthew Luckie , Young Hyun , Bradley Huffaker, Traceroute probe method and forward IP path inference, Proceedings of the 8th ACM SIGCOMM conference on Internet measurement, October 20-22, 2008, Vouliagmeni, Greece[doi>10.1145/1452520.1452557]
+Cisco, "Cisco 7600 series routers command references," San Jose, CA, Aug. 2010 {Online}. Available: http://www.cisco.com/en/ US/products/hw/routers/ps368/prod_command_reference_list.html
+John Bellardo , Stefan Savage, Measuring packet reordering, Proceedings of the 2nd ACM SIGCOMM Workshop on Internet measurment, November 06-08, 2002, Marseille, France[doi>10.1145/637201.637216]
+Y. Schwartz, Y. Shavitt, and U. Weinsberg, "On the diversity, stability and symmetry of end-to-end Internet routes," inProc. Global Internet, Mar. 2010, pp. 1-6.
+R. Callon, "Use of OSI IS-IS for routing in TCP/IP and dual environments," IETF RFC 1195, Dec. 1990.
+J. Moy, "OSPF version 2," IETF RFC 2328, Apr. 1998.
+Y. Rekhter, T. Li, and S. Hares, "A Border Gateway Protocol 4 (BGP- 4)," IETF RFC 4271, Jan. 2006.
+Juniper, "Configuring BGP to select multiple BGP paths," Sunnyvale, CA, Aug. 2010 {Online}. Available: http://www.juniper.net/techpubs/ software/junos/junos94/swconfig-routing/configuring-bgp-to-select-multiple-bgp-paths.html
+Cisco, "BGP best path selection algorithm," San Jose, CA, Doc. ID 13753, May 2006 {Online}. Available: http://www.cisco.com/en/US/ tech/tk365/technologies_tech_note09186a0080094431.shtml
+Team Cymru, "IP to BGP ASN lookup and prefix mapping services," Burr Ridge, IL, Aug. 2010 {Online}. Available: http://www.teamcymru.org/Services/ip-to-asn.html
+Z. M. Mao, D. Johnson, J. Rexford, J. Wang, and R. H. Katz, "Scalable and accurate identification of AS-level forwarding paths," inProc. IEEE INFOCOM, Mar. 2004, vol. 3, pp. 1605-1615.
+Neil Spring , Ratul Mahajan , David Wetherall, Measuring ISP topologies with rocketfuel, Proceedings of the 2002 conference on Applications, technologies, architectures, and protocols for computer communications, August 19-23, 2002, Pittsburgh, Pennsylvania, USA[doi>10.1145/633025.633039]
+Zhuoqing Morley Mao , Jennifer Rexford , Jia Wang , Randy H. Katz, Towards an accurate AS-level traceroute tool, Proceedings of the 2003 conference on Applications, technologies, architectures, and protocols for computer communications, August 25-29, 2003, Karlsruhe, Germany[doi>10.1145/863955.863996]
+S. F. Shamim, "How does unequal cost path load balancing (variance) work in IGRP and EIGRP?," Cisco, San Jose, CA, Doc. ID 13677, Jul. 2007 {Online}. Available: https://learningnetwork.cisco.com/servlet/ JiveServlet/previewBody/3204-102-1-8463/How%20Does%20Un- equal%20Cost%20Path%20Load%20Balancing.pdf
+Srikanth Kandula , Dina Katabi , Bruce Davie , Anna Charny, Walking the tightrope: responsive yet stable traffic engineering, Proceedings of the 2005 conference on Applications, technologies, architectures, and protocols for computer communications, August 22-26, 2005, Philadelphia, Pennsylvania, USA[doi>10.1145/1080091.1080122]
+S. Sinha, S. Kandula, and D. Katabi, "Harnessing TCPs burstiness using flowlet switching," inProc. 3rd ACM SIGCOMM HotNets, Nov. 2004, pp. 253-264.
+A. Elwalid, C. Jin, S. H. Low, and I. Widjaja, "MATE: MPLS adaptive traffic engineering," inProc. IEEE INFOCOM, Apr. 2001, vol. 3, pp. 1300-1309.
+F. Giroire, A. Nucci, N. Taft, and C. Diot, "Increasing the robustness of IP backbones in the absence of optical level protection," inProc. IEEE INFOCOM, Mar. 2003, vol. 1, pp. 1-11.
+Renata Teixeira , Keith Marzullo , Stefan Savage , Geoffrey M. Voelker, Characterizing and measuring path diversity of internet topologies, Proceedings of the 2003 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 11-14, 2003, San Diego, CA, USA[doi>10.1145/781027.781069]
+Renata Teixeira , Keith Marzullo , Stefan Savage , Geoffrey M. Voelker, In search of path diversity in ISP networks, Proceedings of the 3rd ACM SIGCOMM conference on Internet measurement, October 27-29, 2003, Miami Beach, FL, USA[doi>10.1145/948205.948247]
+Bradley Huffak r , Daniel Plummer , David Moore , and k. Claffy, Topology Discovery by Active Probing, Proceedings of the 2002 Symposium on Applications and the Internet (SAINT) Workshops, p.90, January 28-February 01, 2002
+Rob Sherwood , Neil Spring, Touring the internet in a TCP sidecar, Proceedings of the 6th ACM SIGCOMM conference on Internet measurement, October 25-27, 2006, Rio de Janeriro, Brazil[doi>10.1145/1177080.1177093]
+Rob Sherwood , Adam Bender , Neil Spring, Discarte: a disjunctive internet cartographer, Proceedings of the ACM SIGCOMM 2008 conference on Data communication, August 17-22, 2008, Seattle, WA, USA[doi>10.1145/1402958.1402993]

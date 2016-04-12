@@ -1,0 +1,32 @@
+J. Bolot, "Characterizing end-to-end packet delay and loss in the internet," J. High-Speed Network, vol. 2, no. 3, pp. 289-298, Dec. 1993.
+R. Caceres, N. G. Duffield, and T. Friedman, "Impromptu measurement infrastructures using RTP," Proc. IEEE Infocom '02, pp. 23-27, June 2002.
+R. Caceres , N. G. Duffield , J. Horowitz , D. F. Towsley, Multicast-based inference of network-internal loss characteristics, IEEE Transactions on Information Theory, v.45 n.7, p.2462-2480, November 1999[doi>10.1109/18.796384]
+R. Caceres, N. G. Duffield, J. Horowitz, D. Towsley, and T. Bu, "Multicast-based inference of network internal loss characteristics: Accuracy of packet estimation," Proc. IEEE Infocom '99, pp. 23-25, Mar. 1999.
+R. Caceres, N. G. Duffield, J. Horowitz, F. Lo Presti, and D. Towsley, "Loss-based inference of multicast network topology," Proc. 1999 IEEE Conf. Decision and Control, pp. 3065-3070, Dec. 1999.
+M. Coates and R. Nowak, "Network loss inference using unicast end-to-end measurement," in Proc. ITC Conf. IP Traffic, Modeling and Management, Monterey, CA, Sept. 2000, pp. 28.1-28.9.
+M. J. Coates and R. Nowak, "Network tomography for Internet delay estimation," Proc. IEEE Int. Conf. Acoustics, Speech, and Signal Processing, pp. 3409-3412, May 2001.
+Robert L. Carter , Mark E. Crovella, Measuring bottleneck link speed in packet-switched networks, Performance Evaluation, 27-28, p.297-318, Oct. 1996[doi>10.1016/0166-5316(96)00036-3]
+Allen B. Downey, Using pathchar to estimate Internet link characteristics, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.241-250, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316228]
+N. Duffield, J. Horowitz, F. Lo Presti, and D. Towsley, "Network delay tomography from end-to-end unicast measurments," in Proc. 2001 Tyrrhenian Int. Workshop on Digital Communications, Taormina, Italy, Sept. 2001, pp. 576-595.
+N. G. Duffield, F. Lo Presti, V. Paxson, and D. Towsley, "Inferring link loss using striped unicast probes," Proc. IEEE Infocom 2001, pp. 915-923, Apr. 2001.
+Felix: Independent Monitoring for Network Survivability {Online}. Available: ftp://ftp.bellcore.com/pub/mwg/felix/index.html
+GT-ITM Georgia Tech Internetwork Topology Models {Online}. Available: http://www.cc.gatech.edu/fac/Ellen.Zegura/graphs.html
+IPMA: Internet Performance Measurement and Analysis {Online}. Available: http://www.merit.edu/ipma
+V. Jacobson. Pathchar -- A Tool to Infer Characteristics of Internet Paths. {Online}. Available: ftp://ftp.ee.lbl.gov/pathchar
+C. Lawson and R. Hanson, Solving Least Squares Problems. Philadelphia, PA: SIAM, 1995.
+F. LoPresti , N. G. Duffield , J. Horowitz , D. Towsley, Multicast-Based Inference of Network-Internal Delay Distributions TITLE2:, University of Massachusetts, Amherst, MA, 1999
+'J. Mahdavi, V. Paxson, A. Adams, and M. Mathis, "Creating a scalable architecture for internet measurement," in Proc. INET '98, Geneva, Switzerland, July 1998.
+M. Mathis and J. Mahdavi, "Diagnosing internet congestion with a transport layer performance tool," in Proc. INET '96, Montreal, ON, Canada, June 1996, pp. 86-91.
+D. Mills, "Network Time Protocol (Version 3): Specification, Implementation and Analysis," SRI International, Network Information Center, Menlo Park, CA, RFC 1305, 1992.
+S. Moon, P. Skelly, and D. Towsley, "Estimation and removal of clock skew from network delay measurements," in Proc. Infocom '99, New York, Mar. 1999, pp. 227-234.
+mtrace -- Print Multicast Path from a Source to a Receiver {Online}. Available: ftp://ftp.parc.xerox.com/pub/net-research/ipmulti
+A. Mukherjee, "On the dynamics and significance of low frequency components of internet load," Internetworking: Research and Experience, vol. 5, pp. 163-205, Dec. 1994.
+ns -- Network Simulator {Online}. Available: http://www-mash.cs.berkeley.edu/ns/ns.html
+Vern Paxson, End-to-end routing behavior in the Internet, Conference proceedings on Applications, technologies, architectures, and protocols for computer communications, p.25-38, August 28-30, 1996, Palo Alto, California, USA[doi>10.1145/248156.248160]
+Vern Paxson, End-to-end Internet packet dynamics, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.139-152, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263155]
+Vern Paxson, Automated packet trace analysis of TCP implementations, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.167-179, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263160]
+Vern Paxson, On calibrating measurements of packet transit times, Proceedings of the 1998 ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems, p.11-21, June 22-26, 1998, Madison, Wisconsin, USA[doi>10.1145/277851.277865]
+S. Ratnasamy and S. McCanne, "Inference of multicast routing tree topologies and bottleneck bandwidths using end-to-end measurements," Proc. Infocom' 99, pp. 353-360, Mar. 1999.
+M. J. Schervish, Theory of Statistics. New York: Springer, 1995.
+H. Schulzrinne, S. Casner, R. Frederick, and V. Jacobson, "RTP: A transport protocol for real-time applications," IETF RFC 1889, Jan. 1996.
+Surveyor {Online}. Available: http://io.advanced.org/surveyor/

@@ -1,0 +1,25 @@
+W. Jiang, Q. Wang, and V. K. Prasanna, "Beyond TCAMs: An SRAM-based parallel multi-pipeline architecture for terabit IP lookup," inProc. IEEE INFOCOM, 2008, pp. 2458-2466.
+G. Xie, P. He, H. Guan, Z. Li, Y. Xie, L. Luo, J. Zhang, Y. Wang, and K. Salamatian, "PEARL: A programmable virtual router platform,"IEEE Commun. Mag., vol. 49, no. 7, pp. 71-77, 2011.
+Zhijun Wang , Hao Che , Mohan Kumar , Sajal K. Das, CoPTUA: Consistent Policy Table Update Algorithm for TCAM without Locking, IEEE Transactions on Computers, v.53 n.12, p.1602-1614, December 2004
+Devavrat Shah , Pankaj Gupta, Fast Updating Algorithms for TCAMs, IEEE Micro, v.21 n.1, p.36-47, January 2001
+G. Wang and N. F. Tzeng, "TCAM-based forwarding engine with minimum independent prefix set (MIPS) for fast updating," inProc. IEEE ICC, 2006, pp. 103-109.
+V. Srinivasan , G. Varghese, Fast address lookups using controlled prefix expansion, ACM Transactions on Computer Systems (TOCS), v.17 n.1, p.1-40, Feb. 1999
+Sandeep Sikka , George Varghese, Memory-efficient state lookups with fast updates, ACM SIGCOMM Computer Communication Review, v.30 n.4, p.335-347, October 2000
+W. Jiang and V. K. Prasanna, "Towards practical architectures for SRAM-based pipelined lookup engines," inProc. IEEE INFOCOM Work-in-Progress Track, 2010, pp. 1-5.
+Florin Baboescu , Dean M. Tullsen , Grigore Rosu , Sumeet Singh, A Tree Based Router Search Engine Architecture with Single Port Memories, Proceedings of the 32nd annual international symposium on Computer Architecture, p.123-133, June 04-08, 2005
+Sailesh Kumar , Michela Becchi , Patrick Crowley , Jonathan Turner, CAMP: fast and efficient IP lookup architecture, Proceedings of the 2006 ACM/IEEE symposium on Architecture for networking and communications systems, December 03-05, 2006, San Jose, California, USA
+Weirong Jiang , Viktor K. Prasanna, A Memory-Balanced Linear Pipeline Architecture for Trie-based IP Lookup, Proceedings of the 15th Annual IEEE Symposium on High-Performance Interconnects, p.83-90, August 22-24, 2007
+N. Futamura, R. Sangireddy, S. Aluru, and A. K. Somani, "Scalable, memory efficient, high-speed lookup and update algorithms for IP routing," inProc. ICCCN, 2003, pp. 257-263.
+Rama Sangireddy , Natsuhiko Futamura , Srinivas Aluru , Arun K. Somani, Scalable, memory efficient, high-speed IP lookup algorithms, IEEE/ACM Transactions on Networking (TON), v.13 n.4, p.802-812, August 2005
+Hoang Le , Thilan Ganegedara , Viktor K. Prasanna, Memory-efficient and scalable virtual routers using FPGA, Proceedings of the 19th ACM/SIGDA international symposium on Field programmable gate arrays, February 27-March 01, 2011, Monterey, CA, USA
+Anindya Basu , Girija Narlikar, Fast incremental updates for pipelined forwarding engines, IEEE/ACM Transactions on Networking (TON), v.13 n.3, p.690-703, June 2005
+Jahangir Hasan , T. N. Vijaykumar, Dynamic pipelining: making IP-lookup truly scalable, Proceedings of the 2005 conference on Applications, technologies, architectures, and protocols for computer communications, August 22-26, 2005, Philadelphia, Pennsylvania, USA
+"The BGP instability report," [Online]. Available: http://bgpupdates. potaroo.net/instability/bgpupd.html
+Xilinx, San Jose, CA, USA, "Xilinx FPGA," [Online]. Available: http://www.xilinx.com/
+Jing Fu , Jennifer Rexford, Efficient IP-address lookup with a shared forwarding table for multiple virtual routers, Proceedings of the 2008 ACM CoNEXT Conference, p.1-12, December 09-12, 2008, Madrid, Spain
+RIPE NCC, Amsterdam, The Netherlands, "RIPE RIS raw data," 2011 [Online]. Available: http://www.ripe.net/data-tools/stats/ris/ris-raw-data
+Spirent, Crawley, U.K., "Spirent TestCenter," [Online]. Available: http://www.spirent.com/Solutions-Directory/Spirent-TestCenter/
+NetLogic, New York, NY, USA, "NL9000 RA knowledge-based processors," 2009.
+Huan Liu, Routing Table Compaction in Ternary CAM, IEEE Micro, v.22 n.1, p.58-64, January 2002
+Layong Luo , Gaogang Xie , Steve Uhlig , Laurent Mathy , Kavé Salamatian , Yingke Xie, Towards TCAM-based scalable virtual routers, Proceedings of the 8th international conference on Emerging networking experiments and technologies, December 10-13, 2012, Nice, France
+Haoyu Song , Murali Kodialam , Fang Hao , T. V. Lakshman, Building scalable virtual routers with trie braiding, Proceedings of the 29th conference on Information communications, p.1442-1450, March 14-19, 2010, San Diego, California, USA

@@ -1,0 +1,40 @@
+Vern Paxson, End-to-end internet packet dynamics, IEEE/ACM Transactions on Networking (TON), v.7 n.3, p.277-292, June 1999[doi>10.1109/90.779192]
+C. Fraleigh , S. Moon , B. Lyles , C. Cotton , M. Khan , D. Moll , R. Rockell , T. Seely , S. C. Diot, Packet-level traffic measurements from the Sprint IP backbone, IEEE Network: The Magazine of Global Internetworking, v.17 n.6, p.6-16, November 2003[doi>10.1109/MNET.2003.1248656]
+G. Almes , S. Kalidindi , M. Zekauskas, A One-way Delay Metric for IPPM, RFC Editor, 1999
+David L. Mills, Improved algorithms for synchronizing computer network clocks, IEEE/ACM Transactions on Networking (TON), v.3 n.3, p.245-254, June 1995[doi>10.1109/90.392384]
+{5} D.L. Mills, "Network Time Protocol (Version 3) Specification, Implementation and Analysis," Univ. Delaware, Newark, Network Working Group Report RFC-1305, 1992.
+Darryl Veitch , Satish Babu , Attila Pàsztor, Robust synchronization of software clocks across the internet, Proceedings of the 4th ACM SIGCOMM conference on Internet measurement, October 25-27, 2004, Taormina, Sicily, Italy[doi>10.1145/1028788.1028817]
+Omer Gurewitz , Israel Cidon , Moshe Sidi, Network Time Synchronization Using Clock Offset Optimization, Proceedings of the 11th IEEE International Conference on Network Protocols, p.212, November 04-07, 2003
+{8} J. Elson, R. Karp, C. Papadimitriou, and S. Shenker, "Global synchronization in sensornets," inProc. 6th Latin American Symp. Theoretical Informatics (LATIN'04), Buenos Aires, Argentina, Apr. 2004, pp. 609-624.
+{9} Measuring Delay, Jitter, and Packet Loss With Cisco IOS SAA and RTTMON. {Online}. Available: http://www.cisco.com/warp/public/126/ saa.html
+{10} E. A. Zeitoun, C. N. Chuah, S. Bhattacharrya, and C. Diot, "An as-level study of internet path delay characteristics," inProc. IEEE GLOBECOM 2004, vol. 3, Dallas, TX, Nov. 2004, pp. 1480-1484.
+Francesco Lo Presti , N. G. Duffield , Joe Horowitz , Don Towsley, Multicast-based inference of network-internal delay distributions, IEEE/ACM Transactions on Networking (TON), v.10 n.6, p.761-775, December 2002[doi>10.1109/TNET.2002.805026]
+Y. Shavitt , Xiaodong Sun , A. Wool , B. Yener, Computing the unmeasured: an algebraic approach to Internet mapping, IEEE Journal on Selected Areas in Communications, v.22 n.1, p.67-78, September 2006[doi>10.1109/JSAC.2003.818796]
+Hal Burch , Bruce Maggs , Gary L. Miller, Measuring an ip network in situ, Carnegie Mellon University, Pittsburgh, PA, 2005
+{14} O. Gurewitz and M. Sidi, "Estimating one-way delays from cyclic-path delay measurements," inProc. IEEE INFOCOM 2001, Anchorage, AK, Apr. 2001, pp. 1038-1044.
+Vern Paxson, On calibrating measurements of packet transit times, Proceedings of the 1998 ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems, p.11-21, June 22-26, 1998, Madison, Wisconsin, USA[doi>10.1145/277851.277865]
+{16} S. Moon, P. Skelley, and D. Towsley, "Estimation and removal of clock skew from network delay measurements," inProc. IEEE INFOCOM 1999, New York, NY, Mar. 1999.
+{17} L. Zhang, Z. Liu, and C. H. Xia, "Clock synchronization algorithms for network measurements," inProc. IEEE INFOCOM 2002, New York, NY, Jun. 2002, pp. 160-169.
+Attila Pásztor , Darryl Veitch, PC based precision timing without GPS, ACM SIGMETRICS Performance Evaluation Review, v.30 n.1, June 2002[doi>10.1145/511399.511336]
+Michele Garetto , Don Towsley, Modeling, simulation and measurements of queuing delay under long-tail internet traffic, Proceedings of the 2003 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 11-14, 2003, San Diego, CA, USA[doi>10.1145/781027.781034]
+{20} S. Kalidindi and M. J. Zekauskas, "Surveyor: An infrastructure for internet performance measurements," inProc. 9th Internet Soc. Conf. (INET), San Jose, CA, 1999.
+Vern Edward Paxson, Measurements and analysis of end-to-end Internet dynamics, University of California at Berkeley, Berkeley, CA, 1998
+{22} C. Fraleigh, C. Diot, B. Lyles, S. Moon, P. Owezarski, D. Papagiannaki, and F. Tobagi, "Design and deployment of a passive monitoring infrastructure," inProc. In Passive and Active Measurement Workshop, Amsterdam, The Netherlands, Apr. 2001.
+{23} D. Papagiannaki, S. Moon, C. Fraleigh, P. Thiran, F. Tobagi, and C. Diot, "Analysis of measured single-hop delay from an operational backbone network," inProc. IEEE INFOCOM, vol. 2, New York, NY, Jun. 2002, pp. 535-544.
+{24} F. Harary,Graph Theory. Reading, MA: Addison Wesley, 1994.
+{25} T. J. McCabe, "A complexity measure,"IEEE Trans. Softw. Eng., vol. SE-2, pp. 308-320, 1976.
+{26} P. C. Kainen, "On robust cycle bases," inGraph Theory, Combinatorics, Algorithms, and Applications, Y. Alavi, D. M. Jones, D. R. Lick, and J. Liu, Eds. Amsterdam, The Netherlands: Elsevier, Jul. 2000, Electronic Notes in Discrete Mathematics 11, pp. 439-437.
+{27} C. Shannon, "A mathematical theory of communication,"Bell Syst. Tech. J., vol. 27, pp. 398-403, 1948.
+{28} E. T. Jaynes, "Information theory and statistical mechanics i,"Phys. Rev., vol. 106, pp. 620-630, 1957.
+{29} E.T. Jaynes, "On the rationale of maximum-entropy methods,"Proc IEEE, vol. 70, no. 9, pp. 939-952, Sep. 1982.
+{30} E.T. Jaynes,Probability Theory: The Logic of Science. St. Louis, MO: Washington Univ. Press, 1996.
+{31} C. T. Kelley,Iterative Methods for Linear and Nonlinear Equations. Philadelphia, PA: SIAM, 1995.
+Stephen Boyd , Lieven Vandenberghe, Convex Optimization, Cambridge University Press, New York, NY, 2004
+{33} D. Kazakos and P. Papantoni-Kazakos,Detection and Estimation. Rockville, MD: Computer Sci., 1990.
+Richard O. Duda , Peter E. Hart , David G. Stork, Pattern Classification (2nd Edition), Wiley-Interscience, 2000
+{35} A. Mukherjee, "On the dynamics and significance of low frequency components of internet load,"Internetworking: Research and Experience, vol. 5, no. 4, pp. 163-205, 1994.
+{36} N. L. Johnson and S. Kotz,Continuous Univariate Distributions-1. New York: Wiley, 1970.
+Ellen W. Zegura , Kenneth L. Calvert , Samrat Bhattacharjee, How to model an internetwork, Proceedings of the Fifteenth annual joint conference of the IEEE computer and communications societies conference on The conference on computer communications, March 24-28, 1996, San Francisco, California
+{38} N. Minar. (1999) A Survey of the NTP network. {Online}. Available: http://www.media.mit.edu/nelson/research/ntp-survey99/
+{39} A. Papoulis,Probability, Random Variables and Stochastic Processes, 3rd ed. New York: McGraw-Hill, 1991.
+{40}Cisco IOS Configuration Fundamentals Configuration Guide, 2003.

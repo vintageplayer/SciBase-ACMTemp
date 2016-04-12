@@ -1,0 +1,44 @@
+G. Y. Lazarou, X. Xiangdong, and V. S. Frost, "Internet traffic modeling using the index of variability," inProc. IASTED Int. Conf. Modeling and Simulation, Banff, AB, Canada, Jul. 2-4, 2003, pp. 31-37.
+D. Duffy, A. McIntosh, M. Rosenstein, and D. Wilson, "Statistical analysis of CCSN/SS7 traffic data from working CCS subnetworks,"IEEE J. Sel. Areas Commun., vol. 12, no. 3, pp. 544-551, Apr. 1994.
+H. J. Fowler and W. Leland, "Local area network traffic characteristics, with implication for network congestion management,"IEEE J. Sel. Areas Commun., vol. 9, no. 7, pp. 1139-1149, Sept. 1991.
+Will E. Leland , Murad S. Taqqu , Walter Willinger , Daniel V. Wilson, On the self-similar nature of Ethernet traffic (extended version), IEEE/ACM Transactions on Networking (TON), v.2 n.1, p.1-15, Feb. 1994[doi>10.1109/90.282603]
+Vern Paxson , Sally Floyd, Wide area traffic: the failure of Poisson modeling, IEEE/ACM Transactions on Networking (TON), v.3 n.3, p.226-244, June 1995[doi>10.1109/90.392383]
+Ashok Erramilli , Onuttom Narayan , Walter Willinger, Experimental queueing analysis with long-range dependent packet traffic, IEEE/ACM Transactions on Networking (TON), v.4 n.2, p.209-223, April 1996[doi>10.1109/90.491008]
+Matthias Grossglauser , Jean-Chrysostome Bolot, On the relevance of long-range dependence in network traffic, IEEE/ACM Transactions on Networking (TON), v.7 n.5, p.629-640, Oct. 1999[doi>10.1109/90.803379]
+K. R. Krishnan, A. L. Neidhardt, and A. Erramilli, "Scaling analysis in traffic management of self-similar processes," inProc. 15th ITC, 1997, pp. 1087-1096.
+Arnold L. Neidhardt , Jonathan L. Wang, The concept of relevant time scales and its application to queuing analysis of self-similar traffic (or is Hurst naughty or nice?), Proceedings of the 1998 ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems, p.222-232, June 22-26, 1998, Madison, Wisconsin, USA[doi>10.1145/277851.277923]
+Kihong Park , Walter Willinger, Self-Similar Network Traffic and Performance Evaluation, John Wiley & Sons, Inc., New York, NY, 2000
+J. Beran,Statistics for Long-Memory Processes. Monographs on Statistics and Applied Probability. New York: Chapman & Hall, 1994.
+M. Taqqu, V. Teverovsky, and W. Willinger, "Estimators for longrange dependence: An emperical study,"Fractals, vol. 3, no. 4, pp. 785-798, 1995.
+D. Veitch , P. Abry, A wavelet-based joint estimator of the parameters of long-range dependence, IEEE Transactions on Information Theory, v.45 n.3, p.878-897, April 1999[doi>10.1109/18.761330]
+A. Baiocchi, N. Melazzi, M. Listanti, A. Roveri, and R. Winkler, "Modeling isssues on an ATM multiplexer within a bursty traffic environment," inProc. IEEE INFOCOM, 1991, pp. 83-91.
+I. Norros, "A storage model with self-similar input,"Queueing Syst., vol. 16, pp. 387-396, 1994.
+W. Leland and D. Wilson, "High time-resolution measurement and analysis of LAN traffic: Implication for LAN interconnection," inProc. IEEE INFOCOM, 1991, pp. 1360-1366.
+N. G. Duffield, J. T. Lewis, N. O'Connel, R. Russell, and F. Toomey, "Statistical issues raised by the Bellcore data," inProc. 11th Teletraffic Symp. Perform. Eng. Telecommun. Netw., 1994, pp. 1-8.
+N. G. Duffield, J. T. Lewis, N. O'Connel, R. Russell, and F. Toomey, "Predicting quality of service for traffic with long-range fluctuations," inProc. IEEE ICC, 1995, pp. 473-477.
+K. R. Krishnan, "A new class of performance results for a fractional brownian traffic model,"Queueing Syst., vol. 22, pp. 277-285, 1996.
+Q. Li and D. Mills, "Investigating the scaling behavior, crossover and anti-persistence of Internet packet delay dynamics," inProc. IEEE Globecom, 1999, pp. 1843-1852.
+V. J. Ribeiro, R. Riedi, and R. G. Baraniuk, "Wavelets and multifractals for network traffic modeling and inference," inProc. IEEE ICASSP, 2001, pp. 3429-3432.
+P. Abry, R. Baraniuk, P. Flandrin, R. Riedi, and D. Veitch, "Multiscale nature of network traffic,"IEEE Signal Process. Mag., vol. 19, no. 3, pp. 28-46, May 2002.
+K. Kant, "On aggregate traffic generation with multifractal properties," inProc. IEEE Globecom, 1999, pp. 801-804.
+Cesar Augusto Viana Melo , Nelson Luís Saldanha da Fonseca, Envelope process and computation of the equivalent bandwidth of multifractal flows, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.48 n.3, p.351-375, 21 June 2005[doi>10.1016/j.comnet.2004.11.010]
+R. H. Riedi , M. S. Crouse , V. J. Ribeiro , R. G. Baraniuk, A multifractal wavelet model with application to network traffic, IEEE Transactions on Information Theory, v.45 n.3, p.992-1018, April 1999[doi>10.1109/18.761337]
+A Multiplicative Multifractal Model for TCP Traffic, Proceedings of the Sixth IEEE Symposium on Computers and Communications, p.714, July 03-05, 2001
+A. C. Gilbert , W. Willinger , A. Feldmann, Scaling analysis of conservative cascades, with applications to network traffic, IEEE Transactions on Information Theory, v.45 n.3, p.971-991, April 1999[doi>10.1109/18.761336]
+M. Taqqu, V. Teverovsky, and W. Willinger, "Is network traffic selfsimilar or multifractal?,"Fractals, vol. 5, pp. 63-73, 1997.
+A. Horvath and M. Telek, "A Markovian point process exhibiting multifractal behaviour and its application to traffic modeling," inProc. 4th Int. Conf. Matrix Anal. Methods in Stochastic Models, 2002, pp. 183-208.
+D. Veitch , P. Abry , P. Flandrin , P. Chainais, Infinitely divisible cascade analysis of network traffic data, Proceedings of the Acoustics, Speech, and Signal Processing, 2000. on IEEE International Conference, p.245-248, June 05-09, 2000[doi>10.1109/ICASSP.2000.861931]
+W. Willinger, V. Paxson, R. Riedi, and M. Taqqu, "Long-range dependence and data network traffic," inLong-Range Dependence: Theory and Applications, P. Doukhan, G. Oppenheim, and M. Taqqu, Eds. Cambridge, MA: Birkhauser, 2002.
+H. Heffes and D. M. Lucantoni, "A Markov modulated characterization of packetized voice and data traffic and related statistical multiplexer performance,"IEEE J. Sel. Areas Commun., vol. SAC-4, no. 6, pp. 856-868, Sep. 1986.
+Anja Feldmann , Ward Whitt, Fitting mixtures of exponentials to long-tail distributions to analyze network performance models, Performance Evaluation, v.31 n.3-4, p.245-279, Jan. 1998[doi>10.1016/S0166-5316(97)00003-5]
+R. Gusella, "Characterizing the variability of arrival processes with indexes of dispersion,"IEEE J. Sel. Areas Commun., vol. 9, no. 2, pp. 203-211, Feb. 1991.
+M. Greiner, M. Jobmann, and L. Lipsky, "The importance of power-tail distributions for telecommunications traffic modeling," Inst. für Informatik, Technische Univ. München, München, Germany, Tech. Rep., 1995.
+D. R. Cox,Renewal Theory. London, U.K.: Wiley, 1962.
+Georgios Y. Lazarou , Victor S. Frost, On the variability of internet traffic, University of Kansas, Lawrence, KS, 2000
+Leonard Kleinrock, Theory, Volume 1, Queueing Systems, Wiley-Interscience, 1975
+J. Micheel, "NLANR PMA: Special traces archive," 2005 {Online}. Available: http://pma.nlanr.net/Traces/long/
+R. L. Burden and J. D. Faires,Numerical Analysis, 7th ed. Pacific Grove, CA: Brooks/Cole, 2001.
+C. M. Reinsch, "Smoothing by spline functions,"Numerische Mathematik, vol. 10, pp. 177-183, 1967.
+R. L. Eubank,Spline Smoothing and Nonparametric Regression. New York: Marcel Dekker, 1988.
+J. Fox,Nonparametric Simple Regression: Smoothing Scatterplots. Newbury Park, CA: Sage, Thousand Oaks, 2000.
+Behzad Shahraray , David J. Anderson, Optimal Estimation of Contour Properties by Cross-Validated Regularization, IEEE Transactions on Pattern Analysis and Machine Intelligence, v.11 n.6, p.600-610, June 1989[doi>10.1109/34.24794]

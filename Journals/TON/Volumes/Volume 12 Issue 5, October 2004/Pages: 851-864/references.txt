@@ -1,0 +1,45 @@
+{1} G. Apostolopoulos, D. Williams, S. Kamat, R. Guerin, A. Orda, and T. Przygienda, "QoS routing mechanisms and OSPF extensions," RFC 2676, Network Working Group, Aug. 1999.
+{2} The ATM Forum, Private Network-to-Network Interface Specification Version 1.0 (PNNI 1.0), Mar. 1996. af-pnni-0055.000.
+{3} B. Bollobás, Random Graphs, 2nd ed. Cambridge, MA: Cambridge Univ. Press, 2001.
+{4} S. Chen and K. Nahrstedt, "On finding multi-constrained paths," in Proc. IC Conf., New York, NY, 1998, pp. 874-879.
+Boris V. Cherkassky , Andrew V. Goldberg , Tomasz Radzik, Shortest paths algorithms: theory and experimental evaluation, Mathematical Programming: Series A and B, v.73 n.2, p.129-174, May 31, 1996[doi>10.1007/BF02592101]
+Boris V. Cherkassky , Andrew V. Goldberg , Craig Silverstein, Buckets, Heaps, Lists, and Monotone Priority Queues, SIAM Journal on Computing, v.28 n.4, p.1326-1346, Aug. 1999[doi>10.1137/S0097539796313490]
+{7} E. I. Chong, S. Maddila, and S. Morley, "On finding single-source single-destination k shortest paths," J. Comput. Inform., pp. 40-47, 1995.
+Thomas T. Cormen , Charles E. Leiserson , Ronald L. Rivest, Introduction to algorithms, MIT Press, Cambridge, MA, 1990
+{9} G. Dantzig, "On the shortest route through a network," Management Sci., vol. 6, pp. 187-190, 1960.
+H. De Neve , P. Van Mieghem, TAMCRA: a tunable accuracy multiple constraints routing algorithm, Computer Communications, v.23 n.7, p.667-679, March, 2000[doi>10.1016/S0140-3664(99)00225-X]
+Michael R. Garey , David S. Johnson, Computers and Intractability: A Guide to the Theory of NP-Completeness, W. H. Freeman & Co., New York, NY, 1979
+{12} B. Fortz and M. Thorup, "Internet traffic engineering by optimizing OSPF weights," in Proc. IEEE INFOCOM, vol. 2, 2000, pp. 519-528.
+{13} G. H. Golub and C. F. Van Loan, Matrix Computations. Oxford, U.K.: North Oxford Academic, 1983.
+{14} R. Guerin and A. Orda, "Networks with advance reservations: The routing perspective," in Proc. IEEE INFOCOM, Mar. 26-30, 2000.
+Search Space Reduction in QoS Routing, Proceedings of the 19th IEEE International Conference on Distributed Computing Systems, p.142, May 31-June 04, 1999
+Refael Hassin, Approximation schemes for the restricted shortest path problem, Mathematics of Operations Research, v.17 n.1, p.36-42, Feb. 1992[doi>10.1287/moor.17.1.36]
+{17} M. I. Henig, "The shortest path problem with two objective functions," Eur. J. Oper. Res., vol. 25, pp. 281-291, 1985.
+{18} A. Iwata, R. Izmailov, D.-S. Lee, B. Sengupta, G. Ramamurthy, and H. Suzuki, "ATM routing algorithms with multiple QoS requirements for multimedia internetworking," in IEICE Trans. Commun. E79-B, vol. 8, 1996, pp. 999-1006.
+{19} J. M. Jaffe, "Algorithms for finding paths with multiple constraints," Networks, vol. 14, pp. 95-116, 1984.
+{20} A. Juttner, B. Szviatovszki, I. Mecs, and Z. Rajko, "Lagrange relaxation based method for the QoS routing problem," in Proc. IEEE INFOCOM, vol. 2, Apr. 2001, pp. 859-868.
+{21} M. Kodialam and T.V. Lakshman, "Dynamic routing of bandwidth guaranteed tunnels with restoration," in Proc. IEEE INFOCOM, 2000, pp. 902-911.
+Turgay Korkmaz , Marwan Krunz, A randomized algorithm for finding a path subject to multiple QoS requirements, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.36 n.2-3, p.251-268, July 2001[doi>10.1016/S1389-1286(00)00209-7]
+{23} T. Korkmaz and M. Krunz, "Multi-constrained optimal path selection," in Proc. IEEE INFOCOM, vol. 2, 2001, pp. 834-843.
+{24} F. A. Kuipers, "Hop-by-Hop destination based routing with quality of service constraints," M.Sc. thesis, Delft Univ. Technol., June 2000.
+Fernando Kuipers , Piet Van Mieghem, MAMCRA: a constrained-based multicast routing algorithm, Computer Communications, v.25 n.8, p.802-811, May, 2002[doi>10.1016/S0140-3664(01)00402-9]
+F. Kuipers , P. Van Mieghem , T. Korkmaz , M. Krunz, An overview of constraint-based path selection algorithms for QoS routing, IEEE Communications Magazine, v.40 n.12, p.50-55, December 2002[doi>10.1109/MCOM.2002.1106159]
+{27} F. A. Kuipers and P. Van Mieghem, "The impact of correlated link weights on QoS routing," in Proc. IEEE INFOCOM, vol. 2, 2003, pp. 1425-1434.
+{28} F. A. Kuipers and P. Van Mieghem, "Bi-directional search in QoS routing," in Proc. 4th Int. Workshop Quality of Future Internet Services (QoIS2003), Stockholm, Sweden, Oct. 2003, pp. 102-111.
+{29} S. Lin, "Computer solutions of the traveling salesman problem," Bell Syst. Tech. J., vol. 44, no. 10, pp. 2245-2269, 1965.
+{30} G. Liu and K. G. Ramakrishnan, "A*Prune: An algorithm for finding K shortest paths subject to multiple constraints," in Proc. IEEE INFOCOM, vol. 2, 2001, pp. 743-749.
+{31} Q. Ma and P. Steenkiste, "Quality-of-service routing for traffic with performance guarantees," in Proc. 5th Int. IFIP Workshop on QoS, May 1997, pp. 115-126.
+{32} A. Newell and G. Ernst, "The search for generality," in Proc. IFIP Congr., vol. 1, 1965, pp. 17-24.
+{33} T. Nicholson, "Finding the shortest route between two points in a network," Computer J., vol. 9, pp. 275-280, 1966.
+Ariel Orda, Routing with end-to-end QoS guarantees in broadband networks, IEEE/ACM Transactions on Networking (TON), v.7 n.3, p.365-374, June 1999[doi>10.1109/90.779205]
+{35} A. Orda and A. Sprintson, "QoS routing: The precomputation perspective," Proc. IEEE INFOCOM, pp. 128-136, 2000.
+Douglas S. Reeves , Hussein F. Salama, A distributed algorithm for delay-constrained unicast routing, IEEE/ACM Transactions on Networking (TON), v.8 n.2, p.239-250, April 2000[doi>10.1109/90.842145]
+{37} H. L. Royden, Real Analysis, 3rd ed. New York: Macmillan, 1988.
+{38} N. Taft-Plotkin, B. Bellur, and R. Ogier, "Quality-of-service routing using maximally disjoint paths," in Proc. 7th Int. Workshop Quality of Service, London, U.K., May/June 1999, pp. 119-128.
+Piet Van Mieghem , Hans De Neve , Fernando Kuipers, Hop-by-hop quality of service routing, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.37 n.3-4, p.407-423, November 5, 2001[doi>10.1016/S1389-1286(01)00222-5]
+{40} P. Van Mieghem and H. De Neve, "Aspects of quality of service routing," Proc. SPIE, no. 1-6, Nov. 1998.
+P. Van Mieghem , F. A. Kuipers, On the complexity of QoS routing, Computer Communications, v.26 n.4, p.376-387, March, 2003[doi>10.1016/S0140-3664(02)00156-1]
+Piet Van Mieghem, PATHS IN THE SIMPLE RANDOM GRAPH AND THE WAXMAN GRAPH, Probability in the Engineering and Informational Sciences, v.15 n.4, p.535-555, October 2001
+{43} P. Van Mieghem, G. Hooghiemstra, and R. W. van der Hofstad. (2000) "Scaling law for the hopcount." Delft Univ. Technol. {Online}. Available: http://wwwtvs.et.tudelft.nl/people/piet/telconference
+Zheng Wang , J. Crowcroft, Quality-of-service routing for supporting multimedia applications, IEEE Journal on Selected Areas in Communications, v.14 n.7, p.1228-1234, September 2006[doi>10.1109/49.536364]
+Xin Yuan, Heuristic algorithms for multiconstrained quality-of-service routing, IEEE/ACM Transactions on Networking (TON), v.10 n.2, April 2002

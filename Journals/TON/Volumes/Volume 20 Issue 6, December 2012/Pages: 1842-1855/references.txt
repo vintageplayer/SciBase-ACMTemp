@@ -1,0 +1,49 @@
+D. Oran, "OSI IS-IS intra-domain routing protocol," RFC 1142, 1990.
+J. Moy, "OSPF version 2," RFC 2328, 1998.
+Gonzalo Gomez Herrero , Jan Anton Bernal van der Ven, Network Mergers and Migrations: Junos Design and Implementation, Wiley Publishing, 2010
+V. Gill and M. Jon, "AOL backbone OSPF-ISIS migration," NANOG29 Presentation, 2003.
+North American Network Operators Group, "IPv6: IS-IS or OSPFv3, NANOG thread," 2008 {Online}. Available: http://mailman.nanog.org/pipermail/nanog/2008-December/006194.html
+North American Network Operators Group, "OSPF -vs- ISIS, NANOG thread," 2005 {Online}. Available: http://www.merit.edu/mail.archives/nanog/2005-06/msg00406.html
+GEANT IPv6 Task Force, "Results of the GEANT OSPF to ISIS migration," presented at the GEANT IPv6 Task Force Meeting 2003.
+B. Decraene, J. L. Roux, and I. Minei, "LDP extension for inter-area label switched paths (LSPs)," RFC 5283, 2008.
+Tom Thomas, OSPF Network Design Solutions, Pearson Education, 2003
+J.-L. L. Roux, J.-P. Vasseur, and J. Boyle, "Requirements for inter-area MPLS traffic engineering," RFC 4105, 2005.
+N. Leymann, B. Decraene, C. Filsfils, M. Konstantynowicz, and D. Steinberg, "Seamless MPLS architecture," Internet draft, 2011.
+P. Templin, "Small network operator--Lessons learned," NANOG45 Presentation, 2009.
+Laurent Vanbever , Stefano Vissicchio , Cristel Pelsser , Pierre Francois , Olivier Bonaventure, Seamless network-wide IGP migrations, Proceedings of the ACM SIGCOMM 2011 conference, August 15-19, 2011, Toronto, Ontario, Canada[doi>10.1145/2018436.2018473]
+Stefano Iasi , Pierre François , Steve Uhlig, Forwarding deflection in multi-area OSPF, Proceedings of the 2005 ACM conference on Emerging network experiment and technology, October 24-27, 2005, Toulouse, France[doi>10.1145/1095921.1095967]
+G. Iannaccone , Chen-Nee Chuah , S. Bhattacharyya , C. Diot, Feasibility of IP restoration in a tier 1 backbone, IEEE Network: The Magazine of Global Internetworking, v.18 n.2, p.13-19, March 2004[doi>10.1109/MNET.2004.1276606]
+Jennifer Rexford , Jia Wang , Zhen Xiao , Yin Zhang, BGP routing stability of popular destinations, Proceedings of the 2nd ACM SIGCOMM Workshop on Internet measurment, November 06-08, 2002, Marseille, France[doi>10.1145/637201.637232]
+S. Raza, Y. Zhu, and C.-N. Chuah, "Graceful network operations," inProc. IEEE INFOCOM, 2009, pp. 289-297.
+Pierre Francois , Olivier Bonaventure, Avoiding transient loops during the convergence of link-state routing protocols, IEEE/ACM Transactions on Networking (TON), v.15 n.6, p.1280-1292, December 2007[doi>10.1109/TNET.2007.902686]
+P. Francois, M. Shand, and O. Bonaventure, "Disruption-free topology reconfiguration in OSPF networks," inProc. IEEE INFOCOM, 2007, pp. 89-97.
+Jing Fu , P. Sjodin , G. Karlsson, Loop-free updates of forwarding tables, IEEE Transactions on Network and Service Management, v.5 n.1, p.22-35, March 2008[doi>10.1109/TNSM.2008.080103]
+Lei Shi , Jing Fu , Xiaoming Fu, Loop-free forwarding table updates with minimal link overflow, Proceedings of the 2009 IEEE international conference on Communications, p.2091-2096, June 14-18, 2009, Dresden, Germany
+Hitesh Ballani , Paul Francis , Tuan Cao , Jia Wang, Making routers last longer with ViAggre, Proceedings of the 6th USENIX symposium on Networked systems design and implementation, p.453-466, April 22-24, 2009, Boston, Massachusetts
+Cisco, "IP routing protocol-independent commands," Cisco IOS IP Command Reference, 2006, vol. 2 of 3, Routing Protocols.
+Juniper Networks, Inc., "Configuring OSPF routing policy," 2010.
+Pierre Francois , Clarence Filsfils , John Evans , Olivier Bonaventure, Achieving sub-second IGP convergence in large IP networks, ACM SIGCOMM Computer Communication Review, v.35 n.3, July 2005[doi>10.1145/1070873.1070877]
+C. Filsfils, P. Mohapatra, J. Bettink, P. Dharwadkar, P. D. Vriendt, Y. Tsier, V. V. D. Schrieck, O. Bonaventure, and P. Francois, "BGP Prefix Independent Convergence (PIC)," Cisco, San Jose, CA, Tech. Rep., 2011.
+M. R. Garey and D. S. Johnson,Computers and Intractability: A Guide to the Theory of NP-Completeness. New York: Freeman, 1990.
+C. Filsfils, P. Francois, M. Shand, B. Decraene, J. Uttaro, N. Leymann, and M. Horneffer, "LFA applicability in SP networks," Internet Draft, May 2011.
+Stefano Vissicchio , Luca Vergantini , Luca Cittadini , Valerio Mezzapesa , Maurizio Pizzonia , Maria Luisa Papagni, Beyond the best: real-time non-invasive collection of BGP messages, Proceedings of the 2010 internet network management conference on Research on enterprise networking, p.9-9, April 27, 2010, San Jose, CA
+L. Vanbever, G. Pardoen, and O. Bonaventure, "Towards validated network configurations with NCGuard," inProc. IEEE INM, 2008, pp. 1-6.
+Neil Spring , Ratul Mahajan , David Wetherall, Measuring ISP topologies with rocketfuel, Proceedings of the 2002 conference on Applications, technologies, architectures, and protocols for computer communications, August 19-23, 2002, Pittsburgh, Pennsylvania, USA[doi>10.1145/633025.633039]
+J. Yu, Scalable Routing Design Principles, RFC Editor, 2000
+GEANT, "GEANT backbone topology," 2010 {Online}. Available: http://www.geant.net/network/networktopology/pages/home.aspx
+INL, UCL, "Seamless network-wide IGP migrations," 2011 {Online}. Available: http://inl.info.ucl.ac.be/softwares/seamless-network-migration
+Athina Markopoulou , Gianluca Iannaccone , Supratik Bhattacharyya , Chen-Nee Chuah , Yashar Ganjali , Christophe Diot, Characterization of failures in an operational IP backbone network, IEEE/ACM Transactions on Networking (TON), v.16 n.4, p.749-762, August 2008[doi>10.1109/TNET.2007.902727]
+S. Mirtorabi, P. Psenak, A. Lindem, and A. Oswal, "OSPF multiarea adjacency," RFC 5185, 2008.
+Aman Shaikh , Rohit Dube , Anujan Varma, Avoiding instability during graceful shutdown of multiple OSPF routers, IEEE/ACM Transactions on Networking (TON), v.14 n.3, p.532-542, June 2006[doi>10.1109/TNET.2006.876152]
+J. Moy , P. Pillay-Esnault , A. Lindem, Graceful OSPF Restart, RFC Editor, 2003
+M. Shand and L. Ginsberg, "Restart signaling for IS-IS," RFC 5306, 2008.
+I. Pepelnjak, "Changing the routing protocol in your network," 2007.
+Saqib Raza , Yuanbo Zhu , Chen-Nee Chuah, Graceful network state migrations, IEEE/ACM Transactions on Networking (TON), v.19 n.4, p.1097-1110, August 2011[doi>10.1109/TNET.2010.2097604]
+M. Kaminski, P. Medvedev, and M. Milanic, "Shortest paths between shortest paths,"Theor. Comp. Sci., vol. 412, no. 39, pp. 5205-5210, 2011.
+Ram Keralapura , Chen-Nee Chuah , Yueyue Fan, Optimal strategy for graceful network upgrade, Proceedings of the 2006 SIGCOMM workshop on Internet network management, p.83-88, September 11-15, 2006, Pisa, Italy[doi>10.1145/1162638.1162652]
+Xu Chen , Z. Morley Mao , Jacobus Van der Merwe, PACMAN: a platform for automated and controlled network operations and configuration management, Proceedings of the 5th international conference on Emerging networking experiments and technologies, December 01-04, 2009, Rome, Italy[doi>10.1145/1658939.1658971]
+Richard Alimi , Ye Wang , Y. Richard Yang, Shadow configuration as a network management primitive, Proceedings of the ACM SIGCOMM 2008 conference on Data communication, August 17-22, 2008, Seattle, WA, USA[doi>10.1145/1402958.1402972]
+Yi Wang , Eric Keller , Brian Biskeborn , Jacobus van der Merwe , Jennifer Rexford, Virtual routers on the move: live router migration as a network-management primitive, Proceedings of the ACM SIGCOMM 2008 conference on Data communication, August 17-22, 2008, Seattle, WA, USA[doi>10.1145/1402958.1402985]
+Eric Keller , Jennifer Rexford , Jacobus Van Der Merwe, Seamless BGP migration with router grafting, Proceedings of the 7th USENIX conference on Networked systems design and implementation, p.16-16, April 28-30, 2010, San Jose, California
+Mark Reitblatt , Nate Foster , Jennifer Rexford , David Walker, Consistent updates for software-defined networks: change you can believe in!, Proceedings of the 10th ACM Workshop on Hot Topics in Networks, p.1-6, November 14-15, 2011, Cambridge, Massachusetts[doi>10.1145/2070562.2070569]
+Franck Le , Geoffrey G. Xie , Hui Zhang, Theory and new primitives for safely connecting routing protocol instances, Proceedings of the ACM SIGCOMM 2010 conference, August 30-September 03, 2010, New Delhi, India[doi>10.1145/1851182.1851210]

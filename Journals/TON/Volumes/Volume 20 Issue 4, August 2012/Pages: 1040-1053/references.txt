@@ -1,0 +1,40 @@
+Haiquan (Chuck) Zhao , Hao Wang , Bill Lin , Jun (Jim) Xu, Design and performance analysis of a DRAM-based statistics counter array architecture, Proceedings of the 5th ACM/IEEE Symposium on Architectures for Networking and Communications Systems, October 19-20, 2009, Princeton, New Jersey[doi>10.1145/1882486.1882512]
+Devavrat Shah , Sundar Iyer , Balaji Prabhakar , Nick McKeown, Maintaining Statistics Counters in Router Line Cards, IEEE Micro, v.22 n.1, p.76-81, January 2002[doi>10.1109/40.988692]
+Sriram Ramabhadran , George Varghese, Efficient implementation of a statistics counter architecture, ACM SIGMETRICS Performance Evaluation Review, v.31 n.1, June 2003[doi>10.1145/885651.781060]
+Qi Zhao , Jun Xu , Zhen Liu, Design of a novel statistics counter architecture with optimal space and time efficiency, ACM SIGMETRICS Performance Evaluation Review, v.34 n.1, June 2006[doi>10.1145/1140103.1140314]
+M. Roeder and B. Lin, "Maintaining exact statistics counters with a multi-level counter memory," inProc. IEEE GLOBECOM, Nov. 2004, vol. 2, pp. 576-581.
+Robert Morris, Counting large numbers of events in small registers, Communications of the ACM, v.21 n.10, p.840-842, Oct. 1978[doi>10.1145/359619.359627]
+Andrej Cvetkovski, An algorithm for approximate counting using limited memory resources, ACM SIGMETRICS Performance Evaluation Review, v.35 n.1, June 2007[doi>10.1145/1269899.1254903]
+R. Stanojevic, "Small active counters," inProc. IEEE INFOCOM, 2007, pp. 2153-2161.
+Yi Lu , Andrea Montanari , Balaji Prabhakar , Sarang Dharmapurikar , Abdul Kabbani, Counter braids: a novel counter architecture for per-flow measurement, ACM SIGMETRICS Performance Evaluation Review, v.36 n.1, June 2008[doi>10.1145/1384529.1375472]
+Nan Hua , Bill Lin , Jun (Jim) Xu , Haiquan (Chuck) Zhao, BRICK: a novel exact active statistics counter architecture, Proceedings of the 4th ACM/IEEE Symposium on Architectures for Networking and Communications Systems, November 06-07, 2008, San Jose, California[doi>10.1145/1477942.1477956]
+Chengchen Hu , Bin Liu , Hongbo Zhao , Kai Chen , Yan Chen , Chunming Wu , Yu Cheng, DISCO: Memory Efficient and Accurate Flow Statistics for Network Measurement, Proceedings of the 2010 IEEE 30th International Conference on Distributed Computing Systems, p.665-674, June 21-25, 2010[doi>10.1109/ICDCS.2010.57]
+P. Indyk, Stable distributions, pseudorandom generators, embeddings and data stream computation, Proceedings of the 41st Annual Symposium on Foundations of Computer Science, p.189, November 12-14, 2000
+Haiquan (Chuck) Zhao , Ashwin Lall , Mitsunori Ogihara , Oliver Spatscheck , Jia Wang , Jun Xu, A data streaming algorithm for estimating entropies of od flows, Proceedings of the 7th ACM SIGCOMM conference on Internet measurement, October 24-26, 2007, San Diego, California, USA[doi>10.1145/1298306.1298345]
+Sung I. Hong , Sally A. McKee , Maximo H. Salinas , Robert H. Klenke , James H. Aylor , Wm. A. Wulf, Access Order and Effective Bandwidth for Streams on a Direct Rambus Memory, Proceedings of the 5th International Symposium on High Performance Computer Architecture, p.80, January 09-12, 1999
+Wi-fen Lin, Reducing DRAM Latencies with an Integrated Memory Hierarchy Design, Proceedings of the 7th International Symposium on High-Performance Computer Architecture, p.301, January 20-24, 2001
+F. Ware and C. Hampel, "Improving power and data efficiency with threaded memory modules," inProc. IEEE ICCD, Oct. 2006, pp. 417-424.
+F. A. Ware and C. Hampel, "Micro-threaded row and column operations in a DRAM core," Rambus, Inc., Sunnyvale, CA, White Paper, Mar. 2005.
+Michael Gschwind , H. Peter Hofstee , Brian Flachs , Martin Hopkins , Yukio Watanabe , Takeshi Yamazaki, Synergistic Processing in Cell's Multicore Architecture, IEEE Micro, v.26 n.2, p.10-24, March 2006[doi>10.1109/MM.2006.41]
+"XDR datasheet," Rambus, Inc., Sunnyvale, CA, 2005-2006.
+"XDR-2 datasheet," Rambus, Inc., Sunnyvale, CA, 2008-2009.
+"Intel IXP 465 network processor product brief," Intel Corporation, Santa Clara, CA, 2006.
+C. Pandit and S. Meyn, "Worst-case large-deviation asymptotics with application to queueing and information theory,"Stochastic Process. Appl., vol. 116, no. 5, pp. 724-756, 2006.
+Cristian Estan , Ken Keys , David Moore , George Varghese, Building a better NetFlow, Proceedings of the 2004 conference on Applications, technologies, architectures, and protocols for computer communications, August 30-September 03, 2004, Portland, Oregon, USA[doi>10.1145/1015467.1015495]
+C. Semeria and J. Gredler, "Juniper Networks solutions for network accounting," Juniper Networks, Sunnyvale, CA, White Paper no. 20010-001, 2001.
+Cristian Estan , George Varghese, New directions in traffic measurement and accounting, Proceedings of the 2002 conference on Applications, technologies, architectures, and protocols for computer communications, August 19-23, 2002, Pittsburgh, Pennsylvania, USA[doi>10.1145/633025.633056]
+Hao Wang , Haiquan Zhao , Bill Lin , Jun Xu, Design and analysis of a robust pipelined memory system, Proceedings of the 29th conference on Information communications, p.1541-1549, March 14-19, 2010, San Diego, California, USA
+Banit Agrawal , Timothy Sherwood, High-bandwidth network memory system through virtual pipelines, IEEE/ACM Transactions on Networking (TON), v.17 n.4, p.1029-1041, August 2009[doi>10.1109/TNET.2008.2008646]
+S. Iyer and N. Mckeown, "Designing buffers for router line cards," Stanford University, Stanford, CA, Tech. Rep. TR02-HPNG-031001, Mar. 2002.
+H. Wang and B. Lin, "Block-based packet buffer with deterministic packet departures," inProc. 11th HPSR, 2010, pp. 38-43.
+B. Lin and J. Xu, "DRAM is plenty fast for wirespeed statistics counting," inProc. 1st HotMetrics, Jun. 2008, pp. 45-50.
+John L. Hennessy , David A. Patterson, Computer architecture (2nd ed.): a quantitative approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1996
+B. Ramakrishna Rau, Pseudo-randomly interleaved memory, Proceedings of the 18th annual international symposium on Computer architecture, p.74-83, May 27-30, 1991, Toronto, Ontario, Canada[doi>10.1145/115952.115961]
+G. Shrimali and N. McKeown, "Building packet buffers using interleaved memories," inProc. 6th HPSR, May 2005, pp. 1-5.
+Rajeev Motwani , Prabhakar Raghavan, Randomized algorithms, Cambridge University Press, New York, NY, 1995
+S. M. Ross,Low-Density Parity-Check Codes, 2nd ed. New York: Wiley, 1995.
+A. W. Marshall and I. Olkin,Inequalities: Theory of Majorization and Its Applications. New York: Academic, 1979.
+A. Muller and D. Stoyan,Comparison Methods for Stochastic Models and Risks. New York: Wiley, 2002.
+Ronald L. Graham , Donald E. Knuth , Oren Patashnik, Concrete Mathematics: A Foundation for Computer Science, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1994
+W. Hoeffding, "Probability inequalities for sums of bounded random variables,"J. Amer. Statist. Assoc., vol. 58, no. 301, pp. 13-30, 1963.
+"Intel Lynnfield processor," Intel Corporation, Santa Clara, CA {Online}. Available: http://www.intel.com

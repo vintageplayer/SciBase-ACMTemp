@@ -1,0 +1,79 @@
+M. Allman , V. Paxson , W. Stevens, TCP Congestion Control, RFC Editor, 1999
+{2} D. Bertsekas,Nonlinear Programming. Belmont, MA: Athena, 1995.
+L. S. Brakmo , L. L. Peterson, TCP Vegas: end to end congestion avoidance on a global Internet, IEEE Journal on Selected Areas in Communications, v.13 n.8, p.1465-1480, September 2006[doi>10.1109/49.464716]
+{4} H. Bullot, R. L. Cottrell, and R. Hughes-Jones, "Evaluation of advanced TCP stacks on fast long-distance production networks,"J. Grid Computing, vol. 1, no. 4, pp. 345-359, Aug. 2004.
+Claudio Casetti , Mario Gerla , Saverio Mascolo , M. Y. Sanadidi , Ren Wang, TCP westwood: end-to-end congestion control for wired/wireless networks, Wireless Networks, v.8 n.5, p.467-479, September 2002[doi>10.1023/A:1016590112381]
+Cheng-Shang Chang , Zhen Liu, A bandwidth sharing theory for a large number of HTTP-like connections, IEEE/ACM Transactions on Networking (TON), v.12 n.5, p.952-962, October 2004[doi>10.1109/TNET.2004.836118]
+Dah-Ming Chiu , Raj Jain, Analysis of the increase and decrease algorithms for congestion avoidance in computer networks, Computer Networks and ISDN Systems, v.17 n.1, p.1-14, June 10, 1989[doi>10.1016/0169-7552(89)90019-6]
+{8} H. Choe and S. H. Low, "Stabilized Vegas," inAdvances in Communication Control Networks, Lecture Notes in Control and Information Sciences, S. Tarbouriech, C. Abdallah, and J. Chiasson, Eds. New York: Springer Press, 2004.
+{9} J.-Y. Choi, K. Koo, J. S. Lee, and S. H. Low, "Global stability of FAST TCP in single-link single-source network," inProc. IEEE Conf. Decision and Control, Dec. 2005, pp. 1837-1841.
+{10} T. Dunigan, Floyd's TCP Slow-Start and AIMDMods {Online}. Available: http://www.csm.ornl.gov/~dunigan/net100/floyd.html
+{11} X. Fan, M. Arcak, and J. T. Wen, "Robustness of network flow control against disturbances and time-delay,"Syst. Contr. Lett., vol. 53, no. 11, pp. 13-29, 2004.
+W. Feng , S. Vanichpun, Enabling Compatibility Between TCP Reno and TCP Vegas, Proceedings of the 2003 Symposium on Applications and the Internet, p.301, January 27-31, 2003
+Sally Floyd , Mark Handley , Jitendra Padhye , Jörg Widmer, Equation-based congestion control for unicast applications, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.43-56, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347397]
+S. Floyd , T. Henderson, The NewReno Modification to TCP's Fast Recovery Algorithm, RFC Editor, 1999
+S. Floyd, HighSpeed TCP for Large Congestion Windows, RFC Editor, 2003
+{16} C. P. Fu and S. C. Liew, "A remedy for performance degradation of TCP Vegas in asymmetric networks,"IEEE Commun. Lett., vol. 7, no. 1, pp. 42-44, Jan. 2003.
+{17} S. Hegde, D. Lapsley, J. Lindheim, B. Wydrowski, D. Wei, C. Jin, and S. H. Low, "FAST TCP in high-speed networks: an experimental study," presented at the GridNets 2004, San Jose, CA.
+Janey C. Hoe, Improving the start-up behavior of a congestion control scheme for TCP, Conference proceedings on Applications, technologies, architectures, and protocols for computer communications, p.270-280, August 28-30, 1996, Palo Alto, California, USA[doi>10.1145/248156.248180]
+{19} C. V. Hollot, V. Misra, D. Towsley, and W. B. Gong, "Analysis and design of controllers for AQM routers supporting TCP flows,"IEEE Trans. Autom. Contr., vol. 47, no. 6, pp. 945-959, Jun. 2002.
+V. Jacobson, Congestion avoidance and control, Symposium proceedings on Communications architectures and protocols, p.314-329, August 16-18, 1988, Stanford, California, USA[doi>10.1145/52324.52356]
+{21} V. Jacobson, R. Braden, and D. Borman, "TCP extensions for high performance," RFC 1323, May 1992.
+{22} R. Jain,The Art of Computer Systems Performance Analysis: Techniques for Experimental Design, Measurement, Simulation and Modeling. New York: Wiley, 1991.
+R. Jain, A delay-based approach for congestion avoidance in interconnected heterogeneous computer networks, ACM SIGCOMM Computer Communication Review, v.19 n.5, p.56-71, Oct. 1989[doi>10.1145/74681.74686]
+{24} C. Jin, D. X. Wei, and S. H. Low, "FAST TCP: Motivation, architecture, algorithms, performance," Caltech, Tech. Rep. CSTR: 2003.010, Dec. 2003 {Online}. Available: http://netlab.caltech.edu/FAST
+{25} C. Jin, D. X. Wei, and S. H. Low, "TCP FAST: motivation, architecture, algorithms, performance," inProc. IEEE INFOCOM, Mar. 2004, pp. 2490-2501 {Online}. Available: http://netlab.caltech.edu
+Cheng Jin , D. Wei , S. H. Low , J. Bunn , H. D. Choe , J. C. Doylle , H. Newman , S. Ravot , S. Singh , F. Paganini , G. Buhrmaster , L. Cottrell , O. Martin , Wu-chun Feng, FAST TCP: from theory to experiments, IEEE Network: The Magazine of Global Internetworking, v.19 n.1, p.4-11, January 2005[doi>10.1109/MNET.2005.1383434]
+Shudong Jin , Liang Guo , Ibrahim Matta , Azer Bestavros, A spectrum of TCP-friendly window-based congestion control algorithms, IEEE/ACM Transactions on Networking (TON), v.11 n.3, p.341-355, June 2003[doi>10.1109/TNET.2003.813046]
+Dina Katabi , Mark Handley , Charlie Rohrs, Congestion control for high bandwidth-delay product networks, Proceedings of the 2002 conference on Applications, technologies, architectures, and protocols for computer communications, August 19-23, 2002, Pittsburgh, Pennsylvania, USA[doi>10.1145/633025.633035]
+{29} F. P. Kelly, "Mathematical modelling of the internet," inMathematics Unlimited--2001 and Beyond, B. Engquist and W. Schmid, Eds. Berlin, Germany: Springer-Verlag, 2001, pp. 685-702.
+{30} F. P. Kelly, "Fairness and stability of end-to-end congestion control,"Eur. J. Control, vol. 9, pp. 159-176, 2003.
+{31} F. P. Kelly, A. Maulloo, and D. Tan, "Rate control for communication networks: shadow prices, proportional fairness and stability,"J. Oper. Res. Soc., vol. 49, no. 3, pp. 237-252, Mar. 1998.
+Tom Kelly, Scalable TCP: improving performance in highspeed wide area networks, ACM SIGCOMM Computer Communication Review, v.33 n.2, April 2003[doi>10.1145/956981.956989]
+{33} S. Kunniyur and R. Srikant, "Designing AVQ parameters for a general topology network," presented at the Asian Control Conf. Singapore, Sep. 2002.
+{34} S. Kunniyur and R. Srikant, "A time-scale decomposition approach to adaptive explicit congestion notification (ECN) marking,"IEEE Trans. Autom. Contr., vol. 47, no. 6, pp. 882-894, Jun. 2002.
+Srisankar Kunniyur , R. Srikant, End-to-end congestion control schemes: utility functions, random losses and ECN marks, IEEE/ACM Transactions on Networking (TON), v.11 n.5, p.689-702, October 2003[doi>10.1109/TNET.2003.818183]
+{36} A. Kuzmanovic and E. Knightly, "TCP-LP: a distributed algorithm for low priority data transfer," inProc. IEEE INFOCOM, 2003, pp. 1691-1701.
+T. V. Lakshman , Upamanyu Madhow, The performance of TCP/IP for networks with high bandwidth-delay products and random loss, IEEE/ACM Transactions on Networking (TON), v.5 n.3, p.336-350, June 1997[doi>10.1109/90.611099]
+{38} Y. Li, Implementing high-speed TCP. {Online}. Available: http://www. hep.ucl.ac.uk/~ytl/tcpip/hstcp/index.html
+Steven H. Low , Fernando Paganini , Jiantao Wang , John C. Doyle, Linear stability of TCP/RED and a scalable control, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.43 n.5, p.633-647, 5 December 2003[doi>10.1016/S1389-1286(03)00304-9]
+{40} S. H. Low and R. Srikant, "A mathematical framework for designing a low-loss, low-delay internet,"Networks and Spatial Economics, Special Issue on Crossovers Between Transportation Planning and Telecommunications, vol. 4, pp. 75-101, Mar. 2004.
+Steven H. Low, A duality model of TCP and queue management algorithms, IEEE/ACM Transactions on Networking (TON), v.11 n.4, p.525-536, August 2003[doi>10.1109/TNET.2003.815297]
+Steven H. Low , David E. Lapsley, Optimization flow control—I: basic algorithm and convergence, IEEE/ACM Transactions on Networking (TON), v.7 n.6, p.861-874, Dec. 1999[doi>10.1109/90.811451]
+{43} S. H. Low, F. Paganini, and J. C. Doyle, "Internet congestion control,"IEEE Contr. Syst. Mag., vol. 22, no. 1, pp. 28-43, Feb. 2002.
+Steven H. Low , Larry L. Peterson , Limin Wang, Understanding TCP Vegas: a duality model, Journal of the ACM (JACM), v.49 n.2, p.207-235, March 2002[doi>10.1145/506147.506152]
+Jim Martin , Arne Nilsson , Injong Rhee, Delay-based congestion avoidance for TCP, IEEE/ACM Transactions on Networking (TON), v.11 n.3, p.356-369, June 2003[doi>10.1109/TNET.2003.813038]
+Laurent Massoulié , James Roberts, Bandwidth sharing: objectives and algorithms, IEEE/ACM Transactions on Networking (TON), v.10 n.3, p.320-328, June 2002[doi>10.1109/TNET.2002.1012364]
+M. Mathis , J. Mahdavi , S. Floyd , A. Romanow, TCP Selective Acknowledgement Options, RFC Editor, 1996
+Matthew Mathis , Jeffrey Semke , Jamshid Mahdavi , Teunis Ott, The macroscopic behavior of the TCP congestion avoidance algorithm, ACM SIGCOMM Computer Communication Review, v.27 n.3, p.67-82, July 1997[doi>10.1145/263932.264023]
+{49} J. Mo, R. La, V. Anantharam, and J. Walrand, "Analysis and comparison of TCP Reno and Vegas," inProc. IEEE INFOCOM'99, pp. 1556-1563.
+Jeonghoon Mo , Jean Walrand, Fair end-to-end window-based congestion control, IEEE/ACM Transactions on Networking (TON), v.8 n.5, p.556-567, Oct. 2000[doi>10.1109/90.879343]
+{51} F. Paganini, J. C. Doyle, and S. H. Low, "Scalable laws for stable network congestion control," inProc. Conf. Decision and Control, Dec. 2001 {Online}. Available: http://www.ee.ucla.edu/~paganini
+Fernando Paganini , Zhikui Wang , John C. Doyle , Steven H. Low, Congestion control for high performance, stability, and fairness in general networks, IEEE/ACM Transactions on Networking (TON), v.13 n.1, p.43-56, February 2005[doi>10.1109/TNET.2004.842216]
+{53} F. Paganini, Z. Wang, S. H. Low, and J. C. Doyle, "A new TCP/AQM for stable operation in fast networks," inProc. IEEE INFOCOM 2003, pp. 96-105 {Online}. Available: http://www.ee.ucla.edu/~paganini
+Attila Pásztor , Darryl Veitch, PC based precision timing without GPS, Proceedings of the 2002 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 15-19, 2002, Marina Del Rey, California[doi>10.1145/511334.511336]
+{55} L. Rizzo, Dummynet. {Online}. Available: http://info.iet.unipi.it/ ~luigi/ip_dummynet/
+{56} R. Shorten, D. Leith, J. Foy, and R. Kilduff, "Analysis and design of congestion control in synchronised communication networks," inProc. 12th Yale Workshop on Adaptive and Learning Systems, Yale, Univ., New Haven, CT, May 2003 {Online}. Available: http://www. hamilton.ie/doug_leith.htm
+Rayadurgam Srikant, The Mathematics of Internet Congestion Control (Systems and Control: Foundations and Applications), SpringerVerlag, 2004
+W. Stevens, TCP Slow Start, Congestion Avoidance, Fast Retransmit, and Fast Recovery Algorithms, RFC Editor, 1997
+{59} L. Tan, C. Yuan, and M. Zukerman, "FAST TCP: fairness and queuing issues,"IEEE Commun. Lett., vol. 9, no. 8, pp. 762-764, Aug. 2005.
+{60} A. Tang, J. Wang, S. Hegde, and S. H. Low, "Equilibrium and fairness of networks shared by TCP Reno and FAST,"Telecommun. Syst., vol. 30, no. 4, pp. 417-439, Dec. 2005.
+{61} A. Tang, J.Wang, S. H. Low, and M. Chiang, "Equilibrium of heterogeneous congestion control protocols," inProc. IEEE INFOCOM 2005, pp. 1338-1349.
+Darryl Veitch , Satish Babu , Attila Pàsztor, Robust synchronization of software clocks across the internet, Proceedings of the 4th ACM SIGCOMM conference on Internet measurement, October 25-27, 2004, Taormina, Sicily, Italy[doi>10.1145/1028788.1028817]
+{63} G. Vinnicombe, "On the stability of networks operating TCP-like congestion control," inProc. IFAC World Congress on Automatic Control, Barcelona, Spain, 2002.
+{64} G. Vinnicombe, "Robust congestion control for the Internet", Tech. Rep., Univ. Cambridge, 2002.
+{65} J. Wang, A. Tang, and S. H. Low, "Local stability of FAST TCP," inProc. IEEE Conf. Decision and Control, Dec. 2004, pp. 1023-1028.
+{66} J. Wang, D. X. Wei, and S. H. Low, "Modeling and stability of FAST TCP," in Proc.IEEE INFOCOM 2005, pp. 938-948.
+{67} J. Wang, D. X. Wei, and S. H. Low, "Modeling and stability of FAST TCP," inIMA Volumes in Mathematics and its Applications, Vol. 143, Wireless Communications, P. Agrawal, M. Andrews, P. J. Fleming, G. Yin, and L. Zhang, Eds. New York: Springer Science, 2006.
+Ren Wang , Massimo Valla , M. Y. Sanadidi , Mario Gerla, Using Adaptive Rate Estimation to Provide Enhanced and Robust Transport over Heterogeneous Networks, Proceedings of the 10th IEEE International Conference on Network Protocols, p.206-215, November 12-15, 2002
+Zheng Wang , Jon Crowcroft, Eliminating periodic packet losses in the 4.3-Tahoe BSD TCP congestion control algorithm, ACM SIGCOMM Computer Communication Review, v.22 n.2, p.9-16, April 1992[doi>10.1145/141800.141801]
+{70} D. X. Wei, "Congestion control algorithms for high speed long distance TCP connections" Masters thesis, California Inst. Technol., Pasadena, CA, Jun. 2004 {Online}. Available: http://netlab.caltech.edu/pub/projects/FAST/msthesis-dwei
+{71} D. X. Wei, S. H. Low, and S. Hegde, "A burstiness control for TCP," presented at the Workshop on Protocols for Fast Long-Distance Networks (PFLDnet'2005) Lyon, France, Feb. 2005.
+Eric Weigle , Wu-chun Feng, A Case for TCP Vegas in High-Performance Computational Grids, Proceedings of the 10th IEEE International Symposium on High Performance Distributed Computing, p.158, August 07-09, 2001
+{73} J. T. Wen and M. Arcak, "A unifying passivity framework for network flow control,"IEEE Trans. Autom. Contr., vol. 49, no. 2, pp. 162-174, Feb. 2004.
+{74} B. Wydrowski, High-resolution one-way delay measurement using RFC1323, Preprint, Aug. 2004.
+{75} L. Xu, K. Harfoush, and I. Rhee, "Binary increase congestion control (BIC) for fast long-distance networks," inProc. IEEE INFOCOM 2004, pp. 2514-2524.
+Haïkel Yaïche , Ravi R. Mazumdar , Catherine Rosenberg, A game theoretic framework for bandwidth allocation and pricing in broadband networks, IEEE/ACM Transactions on Networking (TON), v.8 n.5, p.667-678, Oct. 2000[doi>10.1109/90.879352]
+{77} The Network Simulator--ns-2. {Online}. Available: http://www.isi. edu/nsnam/ns/
+{78} FAST TCP Simulator Module for ns-2. CUBIN Lab {Online}. Available: http://www.cubinlab.ee.mu.oz.au/ns2fasttcp/
+{79} Caltech ns-2 Simulation Results of FAST. NetLab {Online}. Available: http://netlab.caltech.edu/pub/projects/FAST/ns2-test

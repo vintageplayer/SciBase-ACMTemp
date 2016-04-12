@@ -1,0 +1,56 @@
+The QoSMIC Implementation Web-Site {Online}. Available: www.cs.ucr.edu/-michalis/qosmic.html
+S. Aggrawal and S. Paul, "A flexible protocol architecture for multiparty conferencing," in Proc. 5th Int. Conf. Computer Communications and Networking, 1996.
+____, "A flexible multicast routing protocol for group communication," Computer Networks, vol. 32, no. 1, 2000.
+R. Albert, H. Jeong, and A. Barabasi, "Attack and error tolerance of complex networks," Nature, p. 406, July 2000.
+K. Almeroth, "A long-term analysis of growth and usage patterns in the multicast backbone," in Proc. IEEE INFOCOM, Israel, 2000, pp. 824-833.
+K. Almeroth and M. Ammar, "Collection and modeling of the join/leave behavior of multicast group members in the mbone," IEEE Trans. Commun., vol. 45, pp. 224-229, June 1997.
+S. Angelopoulos, "Efficient online algorithms for multicasting with bandwidth and delay guarantees," Master's thesis, Dep. Computer Science, Univ. of Toronto, 1999.
+Tony Ballardie , Paul Francis , Jon Crowcroft, Core based trees (CBT), Conference proceedings on Communications architectures, protocols and applications, p.85-95, September 13-17, 1993, San Francisco, California, USA[doi>10.1145/166237.166246]
+____, "Core based trees (CBT Version 2) multicast routing,", IETF RFC 2201, 1997.
+T. Billhartz , J. B. Cain , E. Farrey-Goudreau , D. Fieg , S. G. Batsell, Performance and resource cost comparisons for the CBT and PIM multicast routing protocols, IEEE Journal on Selected Areas in Communications, v.15 n.3, p.304-315, September 2006[doi>10.1109/49.564130]
+S. Blake , D. Black , M. Carlson , E. Davies , Z. Wang , W. Weiss, An Architecture for Differentiated Service, RFC Editor, 1998
+Ken Carlberg , Jon Crowcroft, Building shared trees using a one-to-many joining mechanism, ACM SIGCOMM Computer Communication Review, v.27 n.1, p.5-11, Jan. 1997[doi>10.1145/251007.251008]
+S. Casner. (1994) Major MBONE routers and links. {Online} Available: ftp.isi.edu:mbone/mbone-topology.ps
+S. Chen, K. Nahrstedt, and Y. Shavitt, "A QoS-aware multicast routing protocol," Proc. IEEE INFOCOM, 2000.
+David D. Clark , Scott Shenker , Lixia Zhang, Supporting real-time applications in an Integrated Services Packet Network: architecture and mechanism, Conference proceedings on Communications architectures & protocols, p.14-26, August 17-20, 1992, Baltimore, Maryland, USA[doi>10.1145/144179.144199]
+E. Crawley , R. Nair , B. Rajagopalan , H. Sandick, A Framework for QoS-based Routing in the Internet, RFC Editor, 1998
+Stephen Deering , Deborah L. Estrin , Dino Farinacci , Van Jacobson , Ching-Gung Liu , Liming Wei, The PIM architecture for wide-area multicast routing, IEEE/ACM Transactions on Networking (TON), v.4 n.2, p.153-162, April 1996[doi>10.1109/90.490743]
+D. Estrin , D. Farinacci , A. Helmy , D. Thaler , S. Deering , M. Handley , V. Jacobson , C. Liu , P. Sharma , L. Wei, Protocol Independent Multicast-Sparse Mode (PIM-SM): Protocol Specification, RFC Editor, 1998
+D. Estrin, J. Postel, and Y. Rekhter, "Routing arbiter architecture," ConneXions, vol. 8, no. 8, 1994.
+Michalis Faloutsos, The greedy, the naive, and the optimal multicast routing: from theory to internet protocols, University of Toronto, Toronto, Ont., Canada, 1999
+M. Faloutsos, A. Banerjea, and R. Pankaj, "Designing QoSMIC: A QoS multicast internet protocol," Univ. of Toronto,, Tech. Rep. CSRI 372, 1998.
+____, "QoSMIC: A QoS multicast internet protocol," in Proc. ACM SIGCOMM, Vancouver, BC, Canada, Sept. 2-4, 1998.
+A. Fei and M. Gerla, "Receiver-initiated multicasting with multiple QoS constraints," Proc. IEEE INFOCOM, 2000.
+W. Fenner, Domain wide multicast group membership reports, in Distributed in the IDMR Mailing List, 1997. To appear as a Working Draft.
+M. Handley and V. Jacobson, SDP: Session description protocol, in Internet Draft. Work in Progress, 1995.
+Source-Specific Multicast for IP. Internet-Draft: Draft-Holbrook-ssm-00.txt, H. Holbrook and B. Cain. (2000). {Online}. Available: ftp://ftp.ietf.org/internet-drafts/
+Hugh W. Holbrook , David R. Cheriton, IP multicast channels: EXPRESS support for large-scale single-source applications, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.65-78, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316207]
+S. Keshav , S. Paul, Centralized Multicast, Proceedings of the Seventh Annual International Conference on Network Protocols, p.59, October 31-November 03, 1999
+Vachaspathi P. Kompella , Joseph C. Pasquale , George C. Polyzos, Multicast routing for multimedia communication, IEEE/ACM Transactions on Networking (TON), v.1 n.3, p.286-292, June 1993[doi>10.1109/90.234851]
+Satish Kumar , Pavlin Radoslavov , David Thaler , Cengiz Alaettinoğlu , Deborah Estrin , Mark Handley, The MASC/BGMP architecture for inter-domain multicast routing, Proceedings of the ACM SIGCOMM '98 conference on Applications, technologies, architectures, and protocols for computer communication, p.93-104, August 31-September 04, 1998, Vancouver, British Columbia, Canada[doi>10.1145/285237.285264]
+J. Moy, "Multicast Extensions to OSPF,", IETF RFC 1584, 1994.
+John Moy, Multicast routing extensions for OSPF, Communications of the ACM, v.37 n.8, p.61-ff., Aug. 1994[doi>10.1145/179606.179654]
+Chrysostomos L. Nikias , Min Shao, Signal processing with alpha-stable distributions and applications, Wiley-Interscience, New York, NY, 1995
+(1999) IT Professionals. {Online}. Available: http://www.research.att.com/amo
+C. Palmer, G. Siganos, M. Faloutsos, C. Faloutsos, and P. Gibbons, "The connectivity and fault-tolerance of the Internet topology," presented at the ACM SIGMOD/PODS Workshop on Network-Related Data Management (NRDM 2001), Santa Barbara, CA, 2001.
+M. Parsa , J. J. Garcia-Luna-Aceves, A protocol for scalable loop-free multicast routing, IEEE Journal on Selected Areas in Communications, v.15 n.3, p.316-331, September 2006[doi>10.1109/49.564131]
+(1999) Internet-Draft: Draft-Perlman-Simple-Multicast-02.txt. {Online} Available: ftp://ftp.ietf.org/internet-drafts/
+P. Radoslavov, D. Estrin, and R. Govindan, Exploiting the bandwidth---memory tradeoff in multicast state aggregation, Computer Science Dept., Univ. of Southern California, Los Angeles, 1999.
+H. F. Salama , D. S. Reeves , Y. Viniotis, Evaluation of multicast routing algorithms for real-time communication on high-speed networks, IEEE Journal on Selected Areas in Communications, v.15 n.3, p.332-345, September 2006[doi>10.1109/49.564132]
+C. Sheilds and J. J. Garcia-Luna-Aceves, "The ordered core based tree protocol," Proc. IEEE INFOCOM, Apr. 7-11, 1997.
+Clay Shields , J. J. Garcia-Luna-Aceves, The HIP protocol for hierarchical multicast routing, Proceedings of the seventeenth annual ACM symposium on Principles of distributed computing, p.257-266, June 28-July 02, 1998, Puerto Vallarta, Mexico[doi>10.1145/277697.277744]
+H. Takahashi and A. Matsuyama, "An approximate solution for the Steiner problem in graphs," Math. Japonica, vol. 24, no. 6, pp. 573-577, 1980.
+S. L. Tauro and M. Faloutsos, "Fault-tolerance and robustness of the internet topology," presented at the PRDC 2000, Los Angeles, CA, 2000.
+D. Thaler and M. Handley, "On the aggregatability of multicast forwarding state," Proc. IEEE INFOCOM, 2000.
+H.-Y. Tyan, J. Hou, and B. Wang, "QoS-enhanced core-based multicast routing," in IEEE 20th Real-Time System Symp. (RTSS'99), Dec. 1999.
+S. Verma, R. K. Pankaj, and A. Leon-Garcia, "Performance of QoS based multicast routing algorithms for real-time communications," in Proc. SPIE Symp. Voice, Video and Data Communications, Nov. 1997.
+B. M. Waxman, "Routing of multipoint connections," IEEE J. Select. Areas Commun., pp. 1617-1622, 1988.
+L. Wei and D. Estrin, "The tradeoffs of multicast trees and algorithms," presented at the Int. Conf. Computer Communications and Networks, 1994.
+Multicast routing in dense and sparse modes: simulation study of tradeoffs and dynamics, Proceedings of the 4th International Conference on Computer Communications and Networks, p.150, September 20-23, 1995
+Beau Williamson, Developing IP Multicast Networks, Cisco Press, 1999
+Tina Wong , R. Katz, An analysis of multicast forwarding state scalability, Proceedings of the 2000 International Conference on Network Protocols, p.105, November 14-17, 2000
+S. Yan, "Implementation and evaluation of QoSMIC---A new internet multicast routing protocol," Master's thesis, Dept. of Elect. Eng., Univ. of Toronto, 1999.
+S. Yan, M. Faloutsos, and A. Banerjea, "QoS-sensitive routing for real-time multicasting," in Real-Time Internet Applications Workshop (RTAW'99), Vancouver, BC, Canada, June 1999, pp. 36-42.
+D. Zappala, "Alternate path routing for multicast," in Proc. IEEE INFOCOM, Israel, 2000.
+Ellen W. Zegura , Kenneth L. Calvert , Michael J. Donahoo, A quantitative comparison of graph-based models for Internet topology, IEEE/ACM Transactions on Networking (TON), v.5 n.6, p.770-783, Dec. 1997[doi>10.1109/90.650138]
+Qing Zhu , M. Parsa , J. J. Garcia-Luna-Aceves, A source-based algorithm for delay-constrained minimum-cost multicasting, Proceedings of the Fourteenth Annual Joint Conference of the IEEE Computer and Communication Societies (Vol. 1)-Volume, p.377, April 02-06, 1995

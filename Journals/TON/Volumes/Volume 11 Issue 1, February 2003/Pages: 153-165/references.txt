@@ -1,0 +1,35 @@
+C. Diot , B. N. Levine , B. Lyles , H. Kassem , D. Balensiefen, Deployment issues for the IP multicast service and architecture, IEEE Network: The Magazine of Global Internetworking, v.14 n.1, p.78-88, January 2000[doi>10.1109/65.819174]
+A. Fei, J. Cui, M. Gerla, and M. Faloutsos, "Aggregated multicast: An approach to reduce multicast state," in Proc. IEEE Global Internet (GLOBECOM'01), San Antonio, TX, Nov. 2001.
+Suvo Mittra, Iolus: a framework for scalable secure multicasting, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.277-288, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263179]
+C. R. Palmer and J. G. Steffan, "Generating network topologies that obey power laws," in Proc. IEEE Global Internet (GLOBECOM'00), San Francisco, CA, Nov. 2000.
+K. C. Almeroth, The evolution of multicast: from the MBone to interdomain multicast to Internet2 deployment, IEEE Network: The Magazine of Global Internetworking, v.14 n.1, p.10-20, January 2000[doi>10.1109/65.819167]
+P. Rajvaidya and K. Almeroth, "Analysis of routing characteristics in the multicast infrastructure," University of California, Santa Barbara, Tech. Rep., Jan. 2002.
+Multicast routing in dense and sparse modes: simulation study of tradeoffs and dynamics, Proceedings of the 4th International Conference on Computer Communications and Networks, p.150, September 20-23, 1995
+Core selection methods for multicast routing, Proceedings of the 4th International Conference on Computer Communications and Networks, p.638, September 20-23, 1995
+K. Almeroth, "A long-term analysis of growth and usage patterns in the multicast backbone (MBone)," in Proc. IEEE Conf. Computer Communications (INFOCOM'00), Tel Aviv, Israel, Mar. 2000.
+M. Handley, "An examination of MBone performance," USC/ISI, Marina del Rey, CA, Tech. Rep., Jan. 1997.
+M. Yajnik, J. Kurose, and D. Towsley, "Packet loss correlation in the MBone multicast network," in Proc. IEEE Global Internet Conf. (GLOBECOM'96), London, U.K., Nov. 1996.
+Michalis Faloutsos , Petros Faloutsos , Christos Faloutsos, On power-law relationships of the Internet topology, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.251-262, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316229]
+A.L. Barabasi, R. Albert, and H. Jeong, "Scale-free characteristics of random networks: The topology of the World-Wide Web," Physica A, vol. 281, no. 1--4, pp. 69--77, June 2000.
+Alberto Medina , Ibrahim Matta , John Byers, On the origin of power laws in Internet topologies, ACM SIGCOMM Computer Communication Review, v.30 n.2, April 2000[doi>10.1145/505680.505683]
+William Aiello , Fan Chung , Linyuan Lu, Random evolution in massive graphs, Handbook of massive data sets, Kluwer Academic Publishers, Norwell, MA, 2002
+Q. Chen, H. Chang, R. Govindan, S. Jamin, S. J. Shenker, and W. Willinger, "The origin of power laws in Internet topologies revisited," in Proc. IEEE Conf. Computer Communications (INFOCOM'02), New York, June 2002.
+Jean-Jacques Pansiot , Dominique Grad, On routes and multicast trees in the Internet, ACM SIGCOMM Computer Communication Review, v.28 n.1, p.41-50, Jan. 1998[doi>10.1145/280549.280555]
+J. Chuang and M. Sirbu, "Pricing multicast communication: A cost based approach," in Proc. INET'98, Geneva, Switzerland, July 1998.
+Graham Phillips , Scott Shenker , Hongsuda Tangmunarunkit, Scaling of multicast trees: comments on the Chuang-Sirbu scaling law, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.41-51, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316205]
+Piet Van Mieghem , Gerard Hooghiemstra , Remco van der Hofstad, On the efficiency of multicast, IEEE/ACM Transactions on Networking (TON), v.9 n.6, p.719-732, December 2001[doi>10.1109/90.974526]
+David B. Makofske , Kevin C. Almeroth, Real-time multicast tree visualization and monitoring, Software—Practice & Experience, v.30 n.9, p.1047-1065, July 25 2000[doi>10.1002/1097-024X(20000725)30:9<1047::AID-SPE327>3.0.CO;2-C]
+H. Schulzrinne , S. Casner , R. Frederick , V. Jacobson, RTP: A Transport Protocol for Real-Time Applications, RFC Editor, 2003
+W. Fenner and S. Casner, "A 'traceroute' facility for IP multicast," Internet Engineering Task Force (IETF), Reston, VA, Tech. Rep. draft-ietfidmrtraceroute-ipm-*.txt, Aug. 1998.
+Cooperative Association for Internet Data Analysis (CAIDA). CoralReef. {Online}. Available: http://www.caida.org/tools/measure-ment/coralreef/.
+H. Chang, S. Jamin, and W. Willinger, "Inferring AS-level internet topology from router-level path traces," in Proc. SPIE ITCom'01, Denver, CO, Aug. 2001.
+University of Oregon. Route Views Project. Univ. of Oregon, Eugene. {Online}. Available: http://www.routeviews.org.
+R. Chalmers and K. Almeroth, "Developing a multicast metric," in Proc. IEEE Global Internet (GLOBECOM'00), San Francisco, CA, Nov. 2000.
+---, "On modeling the branching characteristics and efficiency gains of global multicast trees," in Proc. IEEE Conf. Computer Communications (INFOCOM'01), Anchorage, AK, Apr. 2001.
+M. B. Doar and I. Leslie, "How bad is naive multicast routing," in Proc. IEEE Conf. Computer Communications (INFOCOM'93), San Francisco, CA, Mar. 1993.
+V. Jacobson. (1989, Feb.) Traceroute. Lawrence Berkeley Lab. (LBL), Berkeley, CA. {Online}. Available: ftp://ee.lbl.gov/traceroute.tar.Z.
+I. Stoica, T. S. E. Ng, and H. Zhang, "REUNITE: A recursive unicast approach to multicast," in Proceedings of IEEE Conference on Computer Communications (INFOCOM'00), Tel Aviv, Israel, Mar. 2000.
+C. Jin, Q. Chen, and S. Jamin, "Inet: Internet Topology Generator," University of Michigan, Department of EECS, Ann Arbor, Tech. Rep. UM-CSE-TR-433-00, 2000.
+Alberto Medina , Anukool Lakhina , Ibrahim Matta , John Byers, BRITE: An Approach to Universal Topology Generation, Proceedings of the Ninth International Symposium in Modeling, Analysis and Simulation of Computer and Telecommunication Systems, p.346, August 15-18, 2001
+Ellen W. Zegura , Kenneth L. Calvert , Michael J. Donahoo, A quantitative comparison of graph-based models for Internet topology, IEEE/ACM Transactions on Networking (TON), v.5 n.6, p.770-783, Dec. 1997[doi>10.1109/90.650138]
+A. Legout, J. Nonnenmacher, and E. W. Biersack, "Bandwidth allocation policy for unicast and multicast flows," in Proc. IEEE Conf. Computer Commun. (INFOCOM'99), New York, Mar. 1999.

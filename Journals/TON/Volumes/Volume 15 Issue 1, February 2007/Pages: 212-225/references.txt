@@ -1,0 +1,27 @@
+{1} M. Karol, M. Hluchyj, and S. Morgan, "Input versus output queueing on a space-division packet switch,"IEEE Trans. Commun., vol. COM-35, no. 12, pp. 1347-1356, Dec. 1987.
+Thomas E. Anderson , Susan S. Owicki , James B. Saxe , Charles P. Thacker, High-speed switch scheduling for local-area networks, ACM Transactions on Computer Systems (TOCS), v.11 n.4, p.319-352, Nov. 1993[doi>10.1145/161541.161736]
+Nick McKeown , Venkat Anantharam , Jean Walrand, Achieving 100% throughput in an input-queued switch, Proceedings of the Fifteenth annual joint conference of the IEEE computer and communications societies conference on The conference on computer communications, March 24-28, 1996, San Francisco, California
+{4} A. Mekkittikul and N. McKeown, "A practical scheduling algorithm to achieve 100% throughput in input-queued switches," inProc. IEEE INFOCOM, 1998, pp. 792-799.
+A. C. Kam , Kai-Yeung Siu, Linear-complexity algorithms for QoS support in input-queued switches with no speedup, IEEE Journal on Selected Areas in Communications, v.17 n.6, p.1040-1056, September 2006[doi>10.1109/49.772432]
+Nick McKeown, The iSLIP scheduling algorithm for input-queued switches, IEEE/ACM Transactions on Networking (TON), v.7 n.2, p.188-201, April 1999[doi>10.1109/90.769767]
+D. Stiliadis , A. Varma, Providing bandwidth guarantees in an input-buffered crossbar switch, Proceedings of the Fourteenth Annual Joint Conference of the IEEE Computer and Communication Societies (Vol. 3)-Volume, p.960, April 02-06, 1995
+A. Hung, ATM Input-Buffered Switches with the Guaranteed-Rate Property, Proceedings of the Third IEEE Symposium on Computers & Communications, p.331, June 30-July 02, 1998
+T. T. Lee , C. H. Lam, Path switching-a quasi-static routing scheme for large-scale ATM packet switches, IEEE Journal on Selected Areas in Communications, v.15 n.5, p.914-924, September 2006[doi>10.1109/49.594852]
+Shang-Tse Chuang , A. Goel , N. McKeown , B. Prabhakar, Matching output queueing with a combined input/output-queued switch, IEEE Journal on Selected Areas in Communications, v.17 n.6, p.1030-1039, September 2006[doi>10.1109/49.772430]
+{11} I. Stoica and H. Zhang, "Exact emulation of an output queueing switch by a combined input output queueing switch," inProc. IWQoS 1998, pp. 218-224.
+{12} A. Charny, P. Krishna, N. Patel, and R. Simcoe, "Algorithms for providing bandwidth and delay guarantees in input-buffered crossbars with speedup," inProc. IWQoS 1998, pp. 235-244.
+{13} T. Inukai, "An efficient SS/TDMA time slot assignment algorithm,"IEEE Trans. Commun., vol. COM-27, no. 10, pp. 1449-1455, Oct. 1979.
+{14} S. Li and N. Ansari, "Input-queued switching with QoS guarantees," inProc. IEEE INFOCOM, 1999, pp. 1152-1159.
+{15} C. Chang, W. Chen, and H. Huang, "Birkhoff-von Neumann input buffered crossbar switches," inProc. IEEE INFOCOM, 2000, pp. 1614-1623.
+Ravindra K. Ahuja , Thomas L. Magnanti , James B. Orlin, Network flows: theory, algorithms, and applications, Prentice-Hall, Inc., Upper Saddle River, NJ, 1993
+Maurizio A. Bonuccelli , M. Claudia Clò, Scheduling of real-time messages in optical broadcast-and-select networks, IEEE/ACM Transactions on Networking (TON), v.9 n.5, p.541-552, October 2001[doi>10.1109/90.958324]
+C. L. Liu , James W. Layland, Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment, Journal of the ACM (JACM), v.20 n.1, p.46-61, Jan. 1973[doi>10.1145/321738.321743]
+Shimon Even, Graph Algorithms, W. H. Freeman & Co., New York, NY, 1979
+{20} I. R. Philp and J. W. Liu, "A switching problem for real time periodic messages," Real-Time Systems Lab., Univ. Illinois, Urbana-Champaign. {Online}. Available: http://www-rtsl.cs.uiuc.edu/papers
+Vahid Tabatabaee , Leonidas Georgiadis , Leandros Tassiulas, QoS provisioning and tracking fluid policies in input queueing switches, IEEE/ACM Transactions on Networking (TON), v.9 n.5, p.605-617, October 2001[doi>10.1109/90.958329]
+{22} J. Giles and B. Hajek, "Scheduling multirate periodic traffic in a packet switch," inProc. 1997 Conf. Information Sciences and Systems at John Hopkins Univ., Baltimore, MD, Mar. 1997, pp. 691-703.
+Andrew V. Goldberg , Robert E. Tarjan, A new approach to the maximum-flow problem, Journal of the ACM (JACM), v.35 n.4, p.921-940, Oct. 1988[doi>10.1145/48014.61051]
+{24} M. Andrews and L. Zhang, "Achieving stability in networks of input-queued switches," inProc. IEEE INFOCOM, 2001, pp. 1673-1679.
+{25} M. A. Marsan, E. Leonardi, M. Mellia, and F. Neri, "On the throughput achievable by isolated and interconnected input-queueing switches under multiclass traffic," inProc. IEEE INFOCOM, 2002, pp. 1605-1614.
+{26} A. Bianco, P. Giaccone, E. Leonardi, and F. Neri, "A framework for differential frame-based matching algorithms in input-queued switches," inProc. IEEE INFOCOM, 2004, pp. 1147-1157.
+Z. -L. Zhang , Z. Duan , Y. T. Hou, Virtual time reference system: a unifying scheduling framework for scalable support of guaranteed services, IEEE Journal on Selected Areas in Communications, v.18 n.12, p.2684-2695, September 2006[doi>10.1109/49.898750]

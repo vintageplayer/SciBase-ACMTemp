@@ -1,0 +1,31 @@
+Sally Floyd , Van Jacobson, Random early detection gateways for congestion avoidance, IEEE/ACM Transactions on Networking (TON), v.1 n.4, p.397-413, Aug. 1993[doi>10.1109/90.251892]
+{2} F. Kelly, "Mathematical modeling of the Internet," inMathematics Unlimited-2001 and Beyond, B. Engquist and W. Schmid, Eds. Berlin, Germany: Springer-Verlag, 2001, pp. 685-702.
+{3} S. H. Low, F. Paganini, and J. C. Doyle, "Internet congestion control,"IEEE Control Syst. Mag., vol. 22, no. 1, pp. 28-43, Feb. 2002.
+{4} S. Deb, S. Shakkottai, and R. Srikant, "Stability and convergence of TCP-like congestion controllers in a many-flows," inProc. INFOCOM, San Francisco, CA, 2003, pp. 884-894.
+{5} S. Low, F. Paganini, J. Wang, S. Adlakha, and J. C. Doyle, "Dynamics of TCP/RED and a scalable control," inProc. IEEE INFOCOM, New York, 2002, vol. 1, pp. 239-248.
+{6} S. Shakkottai and R. Srikant, "How good are deterministic fluid models of Internet congestion control?," inProc. IEEE INFOCOM, New York, Jun. 2002, vol. 2, pp. 497-505.
+Vishal Misra , Wei-Bo Gong , Don Towsley, Fluid-based analysis of a network of AQM routers supporting TCP flows with an application to RED, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.151-160, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347421]
+{8} S. Kunniyur and R. Srikant, "End-to-end congestion control: Utility functions, random losses and ECN marks," inProc. IEEE INFOCOM, Tel Aviv, Israel, Mar. 2000, vol. 3, pp. 1323-1332.
+Srisankar Kunniyur , R. Srikant, Analysis and design of an adaptive virtual queue (AVQ) algorithm for active queue management, Proceedings of the 2001 conference on Applications, technologies, architectures, and protocols for computer communications, p.123-134, August 2001, San Diego, California, USA[doi>10.1145/383059.383069]
+S. Athuraliya , S. H. Low , V. H. Li , Qinghe Yin, REM: active queue management, IEEE Network: The Magazine of Global Internetworking, v.15 n.3, p.48-53, May 2001[doi>10.1109/65.923940]
+{11} P. Tinnakornsrisuphap and A. Makowski, "Limit behavior of ECN/RED gateways under a large number of TCP flows," inProc. IEEE INFOCOM, San Francisco, CA, Apr. 2003, pp. 873-883.
+{12} J. Cao and K. Ramanan, "A poisson limit for buffer overflow probabilities," inProc. IEEE INFOCOM, New York, Jun. 2002, vol. 2, pp. 994-1003.
+Michel Mandjes , Jeong Han Kim, Large Deviations for Small Buffers: An Insensitivity Result, Queueing Systems: Theory and Applications, v.37 n.4, p.349-362, March-April 2001[doi>10.1023/A:1010837416603]
+{14} F. P. Kelly, "Models for a self-managed Internet,"Philos. Trans. Roy. Soc. A, vol. 358, pp. 2335-2348, 2000.
+Supratim Deb , R. Srikant, Rate-based versus queue-based models of congestion control, Proceedings of the joint international conference on Measurement and modeling of computer systems, June 10-14, 2004, New York, NY, USA[doi>10.1145/1005686.1005717]
+{16}Ns-2, {Online}. Available: http://www.isi.edu/nsnam/ns/
+{17} Parallel and Distributed NS PDNS {Online}. Available: http://www.cc. gatech.edu/computing/compass/pdns/
+{18}GloMoSim, {Online}. Available: http://pcl.cs.ucla.edu/projects/glomosim/
+{19}QualNet, {Online}. Available: http://www.scalable-networks.com
+Ramesh Johari , David Kim Hong Tan, End-to-end congestion control for the internet: delays and stability, IEEE/ACM Transactions on Networking (TON), v.9 n.6, p.818-832, December 2001[doi>10.1109/90.974534]
+{21} D. Daley and D. Vere-Jones,An Introduction to the Theory of Point Processes. New York: Springer-Verlag, 1988.
+S. Shakkottai , R. Srikant, Mean FDE models for Internet congestion control under a many-flows regime, IEEE Transactions on Information Theory, v.50 n.6, p.1050-1072, June 2004[doi>10.1109/TIT.2004.828063]
+{23} P. Billingsley,Convergence of Probability Measures. New York: Wiley-Interscience, 1999.
+{24} W. L. Smith, "Regenerative stochastic processes," inProc. Roy. Soc. London A, 1955, vol. 232, pp. 6-31.
+Sidney I. Resnick, Adventures in stochastic processes, Birkhauser Verlag, Basel, Switzerland, 1992
+{26} R. W. Wolff,Stochastic Modeling and the Theory of Queues. Englewood Cliffs, NJ: Prentice-Hall, 1989.
+{27} U. M. J. Roberts and J. Virtamo, Broadband Network Teletraffic, Final Report of Action COST 242 Birkhauser, Boston, MA, 1992.
+{28} J. Virtamo, "Numerical evaluation of the distribution of unfinished work in an M/D/1 system,"Electron. Lett., vol. 31, no. 7, pp. 531-532, 1995.
+{29} S. Floyd, "Thoughts on the evolution of TCP in the Internet," inProc. 2nd Int. Workshop Protocols for Fast Long-Distance Networks, 2004.
+{30} C. V. Hollot, Y. Liu, V. Misra, and D. Towsley, "Unresponsive flows and AQM performance," inProc. INFOCOM, San Francisco, CA, Apr. 2003, vol. 1, pp. 85-95.
+{31} H. Kim and J. C. Hou, "Network calculus based simulation for TCP congestion control: Theorems, implementation and evaluation," inProc. IEEE INFOCOM, Mar. 2004, vol. 4, pp. 2844-2855.

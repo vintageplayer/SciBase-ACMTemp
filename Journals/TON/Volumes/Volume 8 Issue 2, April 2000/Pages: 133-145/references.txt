@@ -1,0 +1,23 @@
+J. Bolliger, T. Gross, and U. Hengartner, "Bandwidth modeling for network-aware applications," in Proc. INFOCOMM'99, 1999.
+N. Cardwell, "Modeling the performance of short TCP connections," unpublished.
+Kevin Fall , Sally Floyd, Simulation-based comparisons of Tahoe, Reno and SACK TCP, ACM SIGCOMM Computer Communication Review, v.26 n.3, p.5-21, July 1996[doi>10.1145/235160.235162]
+Sally Floyd , Van Jacobson, Random early detection gateways for congestion avoidance, IEEE/ACM Transactions on Networking (TON), v.1 n.4, p.397-413, Aug. 1993[doi>10.1109/90.251892]
+M. Handley and S. Floyd, "TCP-friendly simulations," unpublished.
+V. Jacobson, "Modified TCP congestion avoidance algorithm," note sent to end2end-interest mailing list, 1990.
+T. V. Lakshman , Upamanyu Madhow, The performance of TCP/IP for networks with high bandwidth-delay products and random loss, IEEE/ACM Transactions on Networking (TON), v.5 n.3, p.336-350, June 1997[doi>10.1109/90.611099]
+J. Mahdavi and S. Floyd, "TCP-friendly unicast rate-based flow control," note sent to end2end-interest mailing list, Jan. 1997.
+Matthew Mathis , Jeffrey Semke , Jamshid Mahdavi , Teunis Ott, The macroscopic behavior of the TCP congestion avoidance algorithm, ACM SIGCOMM Computer Communication Review, v.27 n.3, p.67-82, July 1997[doi>10.1145/263932.264023]
+S. McCanne and S. Floyd. (1997) ns-LBL network simulator. {Online}. Available: http://www-nrg.ee.lbnl.gov/ns/
+S. McCanne and S. Ostermann. (1996) tcptrace: tcpdump file analysis tooE http://jarok.cs.ohiou.edu/software/tcptrace/. {Online}
+T. Ott, J. Kemperman, and M. Mathis. The stationary behavior of ideal TCP congestion avoidance. {Online}. Available: ftp://ftp.bellcore.com/pub/tjo/TCPwindow.ps
+J. Padhye , V. Firoiu , D. Towsley, A Stochastic Model of TCP Reno Congestion Avoidence and Control, University of Massachusetts, Amherst, MA, 1999
+Vern Paxson, Automated packet trace analysis of TCP implementations, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.167-179, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263160]
+Vern Paxson, End-to-end Internet packet dynamics, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.139-152, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263155]
+Vern Paxson , Sally Floyd, Why we don't know how to simulate the Internet, Proceedings of the 29th conference on Winter simulation, p.1037-1044, December 07-10, 1997, Atlanta, Georgia, USA[doi>10.1145/268437.268737]
+Lili Qiu , Yin Zhang , Srinivasan Keshav, On Individual and Aggregate TCP Performance, Cornell University, Ithaca, NY, 1999
+W. Stevens, TCP Slow Start, Congestion Avoidance, Fast Retransmit, and Fast Recovery Algorithms, RFC Editor, 1997
+~, TCP/IP Illustrated, Vol. 1 The Protocols, 10th ed. Reading, MA: Addison-Wesley, 1997.
+K. Thompson , G. J. Miller , R. Wilder, Wide-area Internet traffic patterns and characteristics, IEEE Network: The Magazine of Global Internetworking, v.11 n.6, p.10-23, November 1997[doi>10.1109/65.642356]
+T. Turletti, S. Parisis, and J. Bolot, "Experiments with a layered transmission scheme over the Interne.t," INRIA, Sophia Antipolis, France, Tech. Rep. RR-3296, Nov. 1997.
+L. Vicisano, L. Rizzo, and J. Crowcroft, "TCP-like congestion control for layered multicast data transfer," in Proc. INFOCOMM'98, 1998.
+M. Yajnik, S. Moon, J. Kurose, and D. Towsley, "Measurement and modeling of the temporal dependence in packet loss," in Proc. INFO- COMM'99, 1999.

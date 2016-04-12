@@ -1,0 +1,69 @@
+William J. Dally , Brian Towles, Route packets, not wires: on-chip inteconnection networks, Proceedings of the 38th annual Design Automation Conference, p.684-689, June 2001, Las Vegas, Nevada, USA
+Luca Benini , Giovanni De Micheli, Networks on Chips: A New SoC Paradigm, Computer, v.35 n.1, p.70-78, January 2002
+Tobias Bjerregaard , Shankar Mahadevan, A survey of research and practices of Network-on-chip, ACM Computing Surveys (CSUR), v.38 n.1, p.1-es, 2006
+D. A. B. Miller, "Device requirements for optical interconnects to silicon chips,"Proc. IEEE, vol. 97, no. 7, pp. 1166-1185, Jul. 2009.
+A. W. Topol , D. C. La Tulipe, Jr. , L. Shi , D. J. Frank , K. Bernstein , S. E. Steen , A. Kumar , G. U. Singco , A. M. Young , K. W. Guarini , M. Ieong, Three-dimensional integrated circuits, IBM Journal of Research and Development, v.50 n.4/5, p.491-506, July 2006
+Brett Stanley Feero , Partha Pratim Pande, Networks-on-Chip in a Three-Dimensional Environment: A Performance Evaluation, IEEE Transactions on Computers, v.58 n.1, p.32-45, January 2009
+E. Socher , M. -C.F. Chang, Can RF Help CMOS Processors? [Topics in Circuits for Communications], IEEE Communications Magazine, v.45 n.8, p.104-111, August 2007
+R. G. Beausoleil, P. J. Kuekes, G. S. Snider, S.-Y. Wang, and R. S. Williams, "Nanoelectronic and nanophotonic interconnect,"Proc. IEEE, vol. 96, no. 2, pp. 230-247, Feb. 2008.
+Dana Vantrease , Robert Schreiber , Matteo Monchiero , Moray McLaren , Norman P. Jouppi , Marco Fiorentino , Al Davis , Nathan Binkert , Raymond G. Beausoleil , Jung Ho Ahn, Corona: System Implications of Emerging Nanophotonic Technology, ACM SIGARCH Computer Architecture News, v.36 n.3, p.153-164, June 2008
+Nevin Kirman , José F. Martínez, A power-efficient all-optical on-chip interconnect using wavelength-based oblivious routing, ACM SIGPLAN Notices, v.45 n.3, March 2010
+M.-C. Frank Chang , Eran Socher , Sai-Wang Tam , Jason Cong , Glenn Reinman, RF interconnects for communications on-chip, Proceedings of the 2008 international symposium on Physical design, April 13-16, 2008, Portland, Oregon, USA
+Assaf Shacham , Keren Bergman , Luca P. Carloni, Photonic Networks-on-Chip for Future Generations of Chip Multiprocessors, IEEE Transactions on Computers, v.57 n.9, p.1246-1260, September 2008
+K. K. Oet al., "On-chip antennas in silicon ICs and their application,"IEEE Trans. Electron Devices, vol. 52, no. 7, pp. 1312-1323, 2005.
+S. Abadal, E. Alarcón, M. C. Lemme, M. Nemirovsky, and A. Cabellos-Aparicio, "Graphene-enabled wireless communication for massive multicore architectures,"IEEE Commun. Mag., vol. 51, no. 11, pp. 137-143, Nov. 2013.
+S. Deb, A. Ganguly, P. P. Pande, B. Belzer, and D. Heo, "Wireless NoC as interconnection backbone for multicore chips : Promises and challenges,"IEEE J. Emerg. Sel. Topics Circuits Syst., vol. 2, no. 2, pp. 228-239, Jun. 2012.
+Andrew B. Kahng , Bin Li , Li-Shiuan Peh , Kambiz Samadi, ORION 2.0: a fast and accurate NoC power and area model for early-stage design space exploration, Proceedings of the Conference on Design, Automation and Test in Europe, April 20-24, 2009, Nice, France
+Natalie Enright Jerger , Li-Shiuan Peh , Mikko Lipasti, Virtual Circuit Tree Multicasting: A Case for On-Chip Hardware Multicast Support, Proceedings of the 35th Annual International Symposium on Computer Architecture, p.229-240, June 21-25, 2008
+Mario Lodde , Jose Flich , Manuel E. Acacio, Heterogeneous NoC Design for Efficient Broadcast-based Coherence Protocol Support, Proceedings of the 2012 IEEE/ACM Sixth International Symposium on Networks-on-Chip, p.59-66, May 09-11, 2012
+Tushar Krishna , Li-Shiuan Peh , Bradford M. Beckmann , Steven K. Reinhardt, Towards the ideal on-chip fabric for 1-to-many and many-to-1 communication, Proceedings of the 44th Annual IEEE/ACM International Symposium on Microarchitecture, December 03-07, 2011, Porto Alegre, Brazil
+Samuel Rodrigo , Jose Flich , Jose Duato , Mark Hummel, Efficient unicast and multicast support for CMPs, Proceedings of the 41st annual IEEE/ACM International Symposium on Microarchitecture, p.364-375, November 08-12, 2008
+Faizal A. Samman , Thomas Hollstein , Manfred Glesner, Multicast parallel pipeline router architecture for network-on-chip, Proceedings of the conference on Design, automation and test in Europe, March 10-14, 2008, Munich, Germany
+Ran Manevich , Isask'har Walter , Israel Cidon , Avinoam Kolodny, Best of both worlds: A bus enhanced NoC (BENoC), Proceedings of the 2009 3rd ACM/IEEE International Symposium on Networks-on-Chip, p.173-182, May 10-13, 2009
+Johnnie Chan , Gilbert Hendry , Aleksandr Biberman , Keren Bergman , Luca P. Carloni, PhoenixSim: a simulator for physical-layer analysis of chip-scale photonic interconnection networks, Proceedings of the Conference on Design, Automation and Test in Europe, March 08-12, 2010, Dresden, Germany
+George Kurian , Jason E. Miller , James Psota , Jonathan Eastep , Jifeng Liu , Jurgen Michel , Lionel C. Kimerling , Anant Agarwal, ATAC: a 1000-core cache-coherent processor with on-chip optical network, Proceedings of the 19th international conference on Parallel architectures and compilation techniques, September 11-15, 2010, Vienna, Austria
+W.-H. Chenet al., "A 6-Gb/s wireless inter-chip data link using 43-GHz transceivers and bond-wire antennas,"IEEE J. Solid-State Circuits, vol. 44, no. 10, pp. 2711-2721, Oct. 2009.
+H. Wang, M.-H. Hung, Y.-C. Yeh, and J. Lee, "A 60-GHz FSK transceiver with automatically-calibrated demodulator in 90-nm CMOS," inProc. IEEE VLSIC, 2010, pp. 95-96.
+K. Kawasakiet al., "A millimeter-wave intra-connect solution,"IEEE J. Solid-State Circuits, vol. 45, no. 12, pp. 2655-2666, Dec. 2010.
+X. Yuet al., "A wideband body-enabled millimeter-wave transceiver for wireless network-on-chip," inProc. 54th IEEE MWSCAS, Aug. 2011, pp. 1-4.
+K. Okada, K. Kondou, M. Miyahara, M. Shinagawa, and H. Asada, "Full four-channel 6.3-Gb/s 60-GHz CMOS TRX with low-power analog and digital baseband circuitry,"IEEE J. Solid-State Circuits, vol. 48, no. 1, pp. 46-65, Jan. 2013.
+S. Kawaiet al., "Direct-conversion transceiver in 65-nm CMOS," inProc. IEEE RFIC, 2013, no. 1, pp. 137-140.
+Y. P. Zhang, Z. M. Chen, and M. Sun, "Propagation mechanisms of radio waves over intra-chip channels with integrated antennas: Frequency-domain measurements and time-domain analysis,"IEEE Trans. Antennas Propag., vol. 55, no. 10, pp. 2900-2906, Oct. 2007.
+P. Nenzi, F. Tripaldi, V. Varlamava, F. Palma, and M. Balucani, "On-chip THz 3D antennas," inProc. 62nd IEEE ECTC, 2012, pp. 102-108.
+Amlan Ganguly , Kevin Chang , Sujay Deb , Partha Pratim Pande , Benjamin Belzer , Christof Teuscher, Scalable Hybrid Wireless Network-on-Chip Architectures for Multicore Systems, IEEE Transactions on Computers, v.60 n.10, p.1485-1502, October 2011
+Chifeng Wang , Wen-Hsiang Hu , Nader Bagherzadeh, A Wireless Network-on-Chip Design for Multicore Platforms, Proceedings of the 2011 19th International Euromicro Conference on Parallel, Distributed and Network-Based Processing, p.409-416, February 09-11, 2011
+Suk-Bok Lee , Sai-Wang Tam , Ioannis Pefkianakis , Songwu Lu , M. Frank Chang , Chuanxiong Guo , Glenn Reinman , Chunyi Peng , Mishali Naik , Lixia Zhang , Jason Cong, A scalable micro wireless interconnect structure for CMPs, Proceedings of the 15th annual international conference on Mobile computing and networking, September 20-25, 2009, Beijing, China
+D. Matolaket al., "Wireless networks-on-chips: Architecture, wireless channel, and devices,"IEEE Wireless Commun., vol. 19, no. 5, pp. 58-65, Oct. 2012.
+S. Sankaranet al., "Towards terahertz operation of CMOS," inProc. Int. Solid-State Circuits Conf., 2009, pp. 202-204.
+E. Seok, D. Shim, and C. Mao, "Progress and challenges towards tera-hertz CMOS integrated circuits,"IEEE J. Solid-State Circuits, vol. 45, no. 8, pp. 1554-1564, Aug. 2010.
+I. Llatseret al., "Graphene-based nano-patch antenna for terahertz radiation,"Photon. Nanostruct., Fund. Appl., vol. 10, no. 4, pp. 353-358, 2012.
+J. M. Jornet and I. F. Akyildiz, "Graphene-based plasmonic nano-antenna for terahertz band communication in nanonetworks,"IEEE J. Sel. Areas Commun., vol. 31, no. 12, pp. 685-694, Dec. 2013.
+N. Onoet al., "135 GHz 98 mW 10 Gbps ASK transmitter and receiver chipset in 40 nm CMOS," inProc. IEEE VLSIC, 2012, pp. 50-51.
+E. Laskin, P. Chevalier, B. Sautreuil, and S. Voinigescu, "A 140-GHz double-sideband transceiver with amplitude and frequency modulation operating over a few meters," inProc. IEEE BCTM, 2009, pp. 178-181.
+S. Huet al., "A SiGe BiCMOS TX/RX chipset with on-chip SIW antennas for Terahertz applications,"IEEE J. Solid-State Circuits, vol. 47, no. 11, pp. 2654-2664, Nov. 2012.
+J.-D. Park, S. Kang, S. Thyagarajan, E. Alon, and A. Niknejad, "A 260 GHz fully integrated CMOS transceiver for wireless chip-to-chip communication," inProc. IEEE VLSIC, 2012, pp. 48-49.
+B. Khamaisi, S. Jameson, E. Socher, and S. Member, "A 210 227 GHz transmitter with integrated on-chip antenna in 90 nm CMOS technology,"IEEE Trans. Terahertz Sci. Technol., vol. 3, no. 2, pp. 141-150, Mar. 2013.
+A. Lisauskas, S. Boppel, M. Mundt, V. Krozer, and H. G. Roskos, "Subharmonic mixing with field-effect transistors: Theory and experiment at 639 GHz high above fT,"IEEE Sensors J., vol. 13, no. 1, pp. 124-132, Jan. 2013.
+R. Han and E. Afshari, "A high-power broadband passive terahertz frequency doubler in CMOS,"IEEE Trans. Microw. Theory Tech., vol. 61, no. 3, pp. 1150-1160, Mar. 2013.
+F. Golcuk, O. D. Gurbuz, and G. M. Rebeiz, "A 0.390.44 THz 2×4 amplifier-quadrupler array with peak EIRP of 34 dBm,"IEEE Trans. Microw. Theory Tech., vol. 61, no. 12, pp. 4483-4491, Dec. 2013.
+H. Rucker, B. Heinemann, and A. Fox, "Half-terahertz SiGe BiCMOS technology," inProc. 12th IEEE SiRF, 2012, pp. 133-136.
+E. Öjefors, J. Grzyb, B. Heinemann, B. Tillack, and U. R. Pfeiffer, "A 820 GHz SiGe chipset for terahertz active imaging applications," inProc. IEEE ISSCC, 2011, pp. 224-225.
+R. A. Hadi, J. Grzyb, B. Heinemann, and U. R. Pfeiffer, "A terahertz detector array in a SiGe HBT technology,"IEEE J. Solid-State Circuits, vol. 48, no. 9, pp. 2002-2010, Sep. 2013.
+U. R. Pfeiffer, J. Grzyb, H. Sherry, A. Cathelin, and A. Kaiser, "Toward low-NEP room-temperature THz MOSFET direct detectors in CMOS technology," inProc. 38th IRMMW-THz, Sep. 2013, pp. 1-2.
+T. Abe, Y. Yuan, H. Ishikuro, and T. Kuroda, "A 2 Gb/s 150 mW UWB direct-conversion coherent transceiver with IQ-switching carrier recovery scheme," inProc. IEEE ISSCC, 2012, pp. 442-444.
+S. Koeniget al., "Wireless sub-THz communication system with high data rate,"Nature Photon., vol. 7, no. 12, pp. 977-981, Oct. 2013.
+L. Zhouet al., "A 2 Gbps RF-correlation-based impulseradio UWB transceiver front-end in 130 nm CMOS," inProc. IEEE RFIC, 2009, pp. 65-68.
+I. Sarkaset al., "An 18-Gb/s, direct QPSK modulation SiGe BiCMOS transceiver for last mile links in the 7080 GHz band,"IEEE J. Solid-State Circuits, vol. 45, no. 10, pp. 1968-1980, Oct. 2010.
+C. Wagner, H.-P. Forstner, G. Haider, A. Stelzer, and H. Jager, "A 79-GHz radar transceiver with switchable TX and LO feedthrough in SiGe," inProc. Bipolar/BiCMOS Circuits Technol. Meeting, 2008, pp. 105-108.
+I. Sarkas, J. Hasch, A. Balteanu, and S. Voinigescu, "A fundamental frequency 120-GHz SiGe BiCMOS distance sensor with integrated antenna,"IEEE Trans. Microw. Theory Tech., vol. 60, no. 3, pp. 795-812, Mar. 2012.
+Y. Zhao, E. Ojefors, K. Aufinger, T. Meister, and U. Pfeiffer, "A 160-GHz subharmonic transmitter and receiver chipset in an SiGe HBT technology,"IEEE Trans. Microw. Theory Tech., vol. 60, no. 10, pp. 3286-3299, Oct. 2012.
+S. Abadalet al., "Area and laser power scalability analysis in photonic networks-on-chip," inProc. 17th ONDM, 2013, pp. 131-136.
+J. Gorisse, D. Morche, and J. Jantunen, "Wireless transceivers for gigabit-per-second communications," inProc. 10th IEEE Int. NEWCAS Conf., Jun. 2012, pp. 545-548.
+C. Chen and A. Joshi, "Runtime management of laser power in silicon-photonic multibus NoC architecture,"IEEE J. Sel. Topics Quantum Electron., vol. 19, no. 2, p. 3700713, Mar.-Apr. 2013.
+J. Ahnet al., "Devices and architectures for photonic chip-scale integration,"Appl. Phys. A, vol. 95, no. 4, pp. 989-997, Feb. 2009.
+J. Cardenas, C. Poitras, and J. Robinson, "Low loss etchless silicon photonic waveguides,"Opt. Exp., vol. 17, no. 6, pp. 4752-4757, 2009.
+A. K. Geim and K. S. Novoselov, "The rise of graphene,"Nature Mater., vol. 6, no. 3, pp. 183-191, Mar. 2007.
+Y. Wuet al., "State-of-the-art graphene high-frequency electronics.,"Nano Lett., vol. 12, no. 6, pp. 3062-3067, Jun. 2012.
+Y. Wu, D. B. Farmer, F. Xia, and P. Avouris, "Graphene electronics: Materials, devices, and circuits,"Proc. IEEE, vol. 101, no. 7, pp. 1620-1637, Jul. 2013.
+S.-J. Han, A. V. Garcia, S. Oida, K. A. Jenkins, and W. Haensch, "Graphene radio frequency receiver integrated circuit,"Nature Commun., vol. 5, p. 3086, 2014.
+Dan Zhao , Yi Wang, SD-MAC: Design and Synthesis of a Hardware-Efficient Collision-Free QoS-Aware MAC Protocol for Wireless Network-on-Chip, IEEE Transactions on Computers, v.57 n.9, p.1230-1245, September 2008

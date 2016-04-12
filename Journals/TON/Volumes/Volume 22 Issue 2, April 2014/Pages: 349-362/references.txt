@@ -1,0 +1,40 @@
+Thomas Bonald , Laurent Massoulié, Impact of fairness on Internet performance, Proceedings of the 2001 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.82-91, June 2001, Cambridge, Massachusetts, USA
+Stephen Boyd , Lieven Vandenberghe, Convex Optimization, Cambridge University Press, New York, NY, 2004
+Bob Briscoe, Flow rate fairness: dismantling a religion, ACM SIGCOMM Computer Communication Review, v.37 n.2, April 2007
+M. Chen and A. Zakhor, "Flow control over wireless network and application layer implementation," inProc. IEEE INFOCOM, Apr. 2006, pp. 1-12.
+M. Chen and A. Zakhor, "Rate control for streaming video over wireless," inProc. IEEE INFOCOM, Mar. 2004, vol. 2, pp. 1181-1190.
+M. Chiang, S. H. Low, A. R. Calderbank, and J. C. Doyle, "Layering as optimization decomposition: A mathematical theory of network architectures,"Proc. IEEE, vol. 95, no. 1, pp. 255-312, Jan. 2007.
+G. de Veciana, T.-J. Lee, and T. Konstantopoulos, "Stability and performance analysis of networks supporting services with rate control-- Could the internet be unstable?," inProc. IEEE INFOCOM, 1999, pp. 802-810.
+Diego Feijer , Fernando Paganini, Stability of primal-dual gradient dynamics and applications to network optimization, Automatica (Journal of IFAC), v.46 n.12, p.1974-1981, December, 2010
+A. Ferragut, "Resource allocation in networks from a connection level perspective," Ph.D. dissertation, Universidad de la República, Montevideo, Uruguay, 2011.
+A. Ferragut and F. Paganini, "Achieving network stability and user fairness through admission control of TCP connections," inProc. Conf. Inf. Sci. Syst., 2008, pp. 1195-1200.
+Andrés Ferragut , Fernando Paganini, User-centric network fairness through connection-level control, Proceedings of the 29th conference on Information communications, p.411-415, March 14-19, 2010, San Diego, California, USA
+R. D. Foley and D. R. McDonald, "Join the shortest queue: Stability and exact asymptotics,"Ann. Appl. Probab., vol. 11, no. 3, pp. 569-607, 2001.
+Thomas J. Hacker , Brian D. Athey , Brian Noble, The End-to-End Performance Effects of Parallel TCP Sockets on a Lossy Wide-Area Network, Proceedings of the 16th International Parallel and Distributed Processing Symposium, p.314, April 15-19, 2002
+Huaizhong Han , Srinivas Shakkottai , C. V. Hollot , R. Srikant , Don Towsley, Multi-path TCP: a joint congestion control and routing scheme to exploit path diversity in the internet, IEEE/ACM Transactions on Networking (TON), v.14 n.6, p.1260-1271, December 2006
+M. Jonckheere , J. Virtamo, Optimal insensitive routing and bandwidth sharing in simple data networks, Proceedings of the 2005 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 06-10, 2005, Banff, Alberta, Canada
+F. P. Kelly , P. B. Key , S. Zachary, Distributed admission control, IEEE Journal on Selected Areas in Communications, v.18 n.12, p.2617-2628, September 2006
+F. Kelly, A. Maulloo, and D. Tan, "Rate control in communication networks: Shadow prices, proportional fairness and stability,"J. Oper. Res. Soc., vol. 39, pp. 237-252, 1998.
+Frank Kelly , Thomas Voice, Stability of end-to-end algorithms for joint routing and rate control, ACM SIGCOMM Computer Communication Review, v.35 n.2, April 2005
+F. P. Kelly and R. Williams, "Fluid model for a network operating under a fair bandwidth sharing policy,"Ann. Appl. Probab., vol. 14, no. 3, pp. 1055-1083, 2004.
+Peter Key , Laurent Massoulié, Fluid models of integrated traffic and multipath routing, Queueing Systems: Theory and Applications, v.53 n.1-2, p.85-98, June      2006
+P. Key, L. Massoulié, and D. Towsley, "Path selection and multi-path congestion control," inProc. IEEE INFOCOM, Mar. 2007, pp. 143-151.
+H. K. Khalil,Nonlinear Systems. Upper Saddle River, NJ, USA: Prentice-Hall, 1996.
+Ramin Khalili , Nicolas Gast , Miroslav Popovic , Utkarsh Upadhyay , Jean-Yves Le Boudec, MPTCP is not pareto-optimal: performance issues and a possible solution, Proceedings of the 8th international conference on Emerging networking experiments and technologies, December 10-13, 2012, Nice, France
+Xiaojun Lin , N. B. Shroff , R. Srikant, On the Connection-Level Stability of Congestion-Controlled Communication Networks, IEEE Transactions on Information Theory, v.54 n.5, p.2317-2338, May 2008
+X. Lin and N. B. Shroff, "Utility maximization for communication networks with multi-path routing,"IEEE/ACM Trans. Autom. Control, vol. 51, no. 5, pp. 766-781, May 2006.
+L. Massoulié, "Structural properties of proportional fairness: Stability and insensitivity,"Ann. Appl. Probab., vol. 17, no. 3, pp. 809-839, 2007.
+L. Massoulié and J. Roberts, "Arguments in favour of admission control of TCP flows," inProc. Int. Teletraffic Conf. 16, Jun. 1999, pp. 33-44.
+S. McCanne and S. Floyd, "ns network simulator," 2000 [Online]. Available: http://www.isi.edu/nsnam/ns/
+Jeonghoon Mo , Jean Walrand, Fair end-to-end window-based congestion control, IEEE/ACM Transactions on Networking (TON), v.8 n.5, p.556-567, Oct. 2000
+Jitendra Padhye , Victor Firoiu , Don Towsley , Jim Kurose, Modeling TCP throughput: a simple model and its empirical validation, ACM SIGCOMM Computer Communication Review, v.28 n.4, p.303-314, Oct. 1998
+Fernando Paganini , Enrique Mallada, A unified approach to congestion control and node-based multipath routing, IEEE/ACM Transactions on Networking (TON), v.17 n.5, p.1413-1426, October 2009
+F. Paganini, K. Tang, A. Ferragut, and L. Andrew, "Stability of networks under general file size distribution and alpha fair bandwidth allocation,"IEEE Trans. Autom. Control, vol. 57, no. 3, pp. 579-591, Mar. 2012.
+C. Raiciu, M. Handley, and D. Wischik, "Coupled congestion control for multi-path transport protocols," RFC 6356, Oct. 2011 [Online]. Available: http://www.ietf.org/rfc/rfc6356.txt
+P. Robert,Stochastic Networks and Queues, ser. Stochastic Modelling and Applied Probability Series. New York, NY, USA: Springer-Verlag, 2003.
+Rayadurgam Srikant, The Mathematics of Internet Congestion Control (Systems and Control: Foundations and Applications), SpringerVerlag, 2004
+Thomas Voice, Stability of multi-path dual congestion control algorithms, Proceedings of the 1st international conference on Performance evaluation methodolgies and tools, October 11-13, 2006, Pisa, Italy
+Thomas Voice, Stability of multi-path dual congestion control algorithms, IEEE/ACM Transactions on Networking (TON), v.15 n.6, p.1231-1239, December 2007
+J. Wang, J. Wen, J. Zhang, and Y. Han, "TCP-FIT: An improved TCP congestion control algorithm and its performance," inProc. IEEE INFOCOM, Mar. 2011, pp. 2894-2902.
+Damon Wischik , Costin Raiciu , Adam Greenhalgh , Mark Handley, Design, implementation and evaluation of congestion control for multipath TCP, Proceedings of the 8th USENIX conference on Networked systems design and implementation, March 30-April 01, 2011, Boston, MA
+Honggang Zhang , Don Towsley , Weibo Gong, TCP Connection Game: A Study on the Selfish Behavior of TCP Users, Proceedings of the 13TH IEEE International Conference on Network Protocols, p.301-310, November 06-09, 2005

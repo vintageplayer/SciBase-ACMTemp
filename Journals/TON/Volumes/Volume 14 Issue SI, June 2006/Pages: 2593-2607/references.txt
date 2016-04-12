@@ -1,0 +1,35 @@
+{1} N. Abramson, "The ALOHA system - Another alternative for computer communication," inProc. AFIPS Conf., vol. 37, Houston, TX, Nov. 1970, pp. 281-285.
+{2} L. Roberts, "Aloha Packet System With and Without Slots and Capture," Stanford Res. Inst., Advanced Research Projects Agency, Network Information Center, Stanford, CA, Tech. Rep. ASS Note 8, 1972.
+{3} N. Abramson, "Packet switching with satellites," inProc. AFIPS Conf., vol. 42, New York, Jun. 1973, pp. 695-702.
+{4} R. Gallager, "A perspective on multiaccess channels,"IEEE Trans. Inf. Theory, vol. IT-31, no. 2, pp. 124-142, Mar. 1985.
+Dimitri Bertsekas , Robert Gallager, Data networks (2nd ed.), Prentice-Hall, Inc., Upper Saddle River, NJ, 1992
+{6} B. Tsybakov and W. Mikhailov, "Ergodicity of slotted ALOHA system,"Probl. Pered. Inform., vol. 15, pp. 73-87, 1979.
+{7} R. Rao and A. Ephremides, "On the stability of interacting queues in a multiple-access system,"IEEE Trans. Inf. Theory, vol. 34, no. 5, pp. 918-930, Sep. 1988.
+{8} W. Szpankowski, "Stability conditions for some distributed systems: Buffered random access systems,"Adv. Appl. Probab., vol. 26, pp. 498-515, 1994.
+Wei Luo , A. Ephremides, Stability of N interacting queues in random-access systems, IEEE Transactions on Information Theory, v.45 n.5, p.1579-1587, July 1999[doi>10.1109/18.771161]
+Y. Yu , G. B. Giannakis, Opportunistic medium access for wireless networking adapted to decentralized CSI, IEEE Transactions on Wireless Communications, v.5 n.6, p.1445-1455, June 2006[doi>10.1109/TWC.2006.1638665]
+P. Gupta , P. R. Kumar, The capacity of wireless networks, IEEE Transactions on Information Theory, v.46 n.2, p.388-404, March 2000[doi>10.1109/18.825799]
+Wei Luo , A. Ephremides, Power levels and packet lengths in random multiple access, IEEE Transactions on Information Theory, v.48 n.1, p.46-58, January 2002[doi>10.1109/18.971738]
+Jeetendra Sant , Vinod Sharma, Performance analysis of a slotted-ALOHA protocol on a capture  channel with fading, Queueing Systems: Theory and Applications, v.34 n.1/4, p.1-35, 2000[doi>10.1023/A:1019192600091]
+{14} S. Ghez, S. Verdú, and S. Schwartz, "Stability properties of slotted ALOHA with multipacket reception capability,"IEEE Trans. Autom. Control, vol. 33, no. 7, pp. 640-649, Jul. 1988.
+{15} S. Ghez, S. Verdú, and S. Schwartz, "Optimal decentralized control in the random access multipacket channel,"IEEE Trans. Autom. Control, vol. 34, no. 11, pp. 1153-1163, Nov. 1989.
+V. Naware , G. Mergen , L. Tong, Stability and delay of finite-user slotted ALOHA with multipacket reception, IEEE Transactions on Information Theory, v.51 n.7, p.2636-2656, July 2005[doi>10.1109/TIT.2005.850060]
+A. Ephremides , B. Hajek, Information theory and communication networks: an unconsummated union, IEEE Transactions on Information Theory, v.44 n.6, p.2416-2434, October 1998[doi>10.1109/18.720543]
+{18} R. Gallager, "Basic limits on protocol information in data communication networks,"IEEE Trans. Inf. Theory, vol. IT-22, no. 4, pp. 385-399, Jul. 1976.
+V. Anantharam , S. Verdu, Bits through queues, IEEE Transactions on Information Theory, v.42 n.1, p.4-18, January 1996[doi>10.1109/18.481773]
+{20} J. Massey and P. Mathys, "The collision channel without feedback,"IEEE Trans. Inf. Theory, vol. IT-31, no. 2, pp. 192-204, Mar. 1985.
+{21} V. Anantharam, "The stability region of the finite-user slotted ALOHA protocol,"IEEE Trans. Inf. Theory, vol. 37, no. 3, pp. 535-540, May 1991.
+{22} J. Hui, "Multiple accessing for the collision channel without feedback,"IEEE J. Sel. Areas Commun., vol. SAC-2, no. 4, pp. 575-582, Jul. 1984.
+{23} S. Tinguely, M. Rezaeian, and A. Grant, "Improvements to random accessing using multiuser detection," inProc. 2004 Int. Zurich Seminar on Communications, Zurich, Switzerland, Feb. 2004, pp. 112-115.
+S. Tinguely , M. Rezaeian , A. J. Grant, The collision channel with recovery, IEEE Transactions on Information Theory, v.51 n.10, p.3631-3638, October 2005[doi>10.1109/TIT.2005.855600]
+M. Medard , Jianyi Huang , A. J. Goldsmith , S. P. Meyn , T. P. Coleman, Capacity of time-slotted ALOHA packetized multiple-access systems over the AWGN channel, IEEE Transactions on Wireless Communications, v.3 n.2, p.486-499, March 2004[doi>10.1109/TWC.2003.821175]
+{26} P. Gupta, Y. Sankarasubramaniam, and A. Stolyar, "Random-access scheduling with service differentiation in wireless networks," Bell Labs., Tech. Rep., May 2004.
+Zhenghong Wang , Ruby B. Lee, Capacity Estimation of Non-Synchronous Covert Channels, Proceedings of the Second International Workshop on Security in Distributed Computing Systems (SDCS) (ICDCSW'05), p.170-176, June 06-10, 2005[doi>10.1109/ICDCSW.2005.47]
+{28} R. Loynes, "The stability of a queue with nonindependent interarrival and service times," inProc. Camb., Philos. Soc., vol. 58, pp. 497-520.
+{29} S. Meyn and R. Tweedie, "Criteria for stability of Markovian process I: Discrete time chains,"Adv. Appl. Probab., vol. 24, pp. 542-574.
+{30} T. Harris, "A correlation inequality for Markov processes in partially ordered state spaces,"Ann. Probab., vol. 5, no. 3, pp. 451-454, 1977.
+{31} T. Liggett,Interacting Particle Systems. New York: Springer-Verlag, 1985.
+{32} X. Cao and H. Chen, "Perturbation realization, potentials, and sensitivity analysis of Markov processes,"IEEE Trans. Autom. Control, vol. 42, no. 10, pp. 1382-1393, Oct. 1997.
+{33} X. Cao and Y. Wan, "Algorithms for sensitivity analysis of Markov systems through potentials and perturbation realization,"IEEE Trans. Contr. Syst. Technol., vol. 6, no. 4, pp. 482-494, Jul. 1998.
+{34} T. Liggett, "Stochastic interacting systems: Contact, voter and exclusion processes," inGrund. für Math. Wissen. New York: Springer-Verlag, 1999, vol. 324.
+{35} G. Grimmett,Percolation, 2nd ed. Berlin, Germany: Springer-Verlag, 1999.

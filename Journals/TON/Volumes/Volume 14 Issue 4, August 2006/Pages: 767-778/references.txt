@@ -1,0 +1,37 @@
+{1} "Next Steps in Signaling (nsis)," IETF Transport Area Working Group {Online}. Available: http://www.ietf.org/html.charters/nsis-charter. html
+R. Braden , L. Zhang , S. Berson , S. Herzog , S. Jamin, Resource ReSerVation Protocol (RSVP) -- Version 1 Functional Specification, RFC Editor, 1997
+D. Durham , J. Boyle , R. Cohen , S. Herzog , R. Rajan , A. Sastry, The COPS (Common Open Policy Service) Protocol, RFC Editor, 2000
+{4} L. Zhang, S. Deering, D. Estrin, S. Shenker, and D. Zappala, "RSVP: A new resource ReSerVation protocol,"IEEE Network Mag., vol. 7, no. 5, pp. 8-18, Sep. 1993.
+{5} P. White and J. Crowcroft, "Integrated services in the Internet: State of the art,"Proc. IEEE, vol. 85, no. 12, pp. 1934-1946, Dec. 1997.
+{6} J. Boyle, "RSVP extensions for CIDR aggregated data flows," 1997 {Online}. Available: http://www.watersprings.org/pub/id/draft-ietf-rsvp-cidr-ext-01.txt
+A. Terzis , J. Krawczyk , J. Wroclawski , L. Zhang, RSVP Operation Over IP Tunnels, RFC Editor, 2000
+F. Baker , C. Iturralde , F. Le Faucheur , B. Davie, Aggregation of RSVP for IPv4 and IPv6 Reservations, RFC Editor, 2001
+D. Awduche , L. Berger , D. Gan , T. Li , V. Srinivasan , G. Swallow, RSVP-TE: Extensions to RSVP for LSP Tunnels, RFC Editor, 2001
+{10} P. Pan, E. Hahne, and H. Schulzrinne, "BGRP: A tree-based aggregation protocol for inter-domain reservations,"J. Commun. Netw., vol. 2, no. 2, pp. 157-167, Jun. 2000.
+L. Berger , D. Gan , G. Swallow , P. Pan , F. Tommasi , S. Molendini, RSVP Refresh Overhead Reduction Extensions, RFC Editor, 2001
+R. Braden , L. Zhang, Resource ReSerVation Protocol (RSVP) -- Version 1 Message Processing Rules, RFC Editor, 1997
+{13} M. Karsten, "Design and implementation of RSVP based on object-relationships," inProc. Networking 2000, Paris, France, May 2000, vol. 1815, Springer LNCS, pp. 325-336.
+G. Varghese , T. Lauck, Hashed and hierarchical timing wheels: data structures for the efficient implementation of a timer facility, ACM SIGOPS Operating Systems Review, v.21 n.5, p.25-38, Nov. 1987[doi>10.1145/37499.37504]
+{15} P. Pan and H. Schulzrinne, "Staged refresh timers for RSVP," inProc. Global Internet'97, Phoenix, AZ, Nov. 1997.
+{16} L. Mathy, D. Hutchison, S. Schmid, and S. Simpson, "REDO RSVP: Efficient signalling for multimedia in the Internet," inProc. IDMS'99, Oct. 1999, vol. 1718, Springer LNCS.
+{17} D. Zappala and J. Kann, "RSRR: A routing interface for RSVP," 1998 {Online}. Available: http://www.watersprings.org/pub/id/draft-ietf-rsvp-routing-02.txt
+{18} K. Fraser and P. Quiney, "MPLS on Linux," 2000 {Online}. Available: http://www.cl.cam.ac.uk/Research/SRG/netos/netx/index.html
+{19} J. R. Leu, "MPLS for Linux," 2005 {Online}. Available: http://source-forge.net/projects/mpls-linux
+{20}The Network Simulator-ns-2, {Online}. Available: http://www.isi.edu/ nsnam/ns/
+{21} M. Karsten, J. Schmitt, and R. Steinmetz, "Implementation and evaluation of the KOMRSVP engine," inProc. IEEE INFOCOM, Anchorage, AK, Apr. 2001, pp. 1290-1299.
+{22} RSVP Software. USC Information Sciences Inst. {Online}. Available: http://www.isi.edu/div7/rsvp/release.html
+Martin Karsten, Experimental Extensions to RSVP - Remote Client and One-Pass Signalling, Proceedings of the 9th International Workshop on Quality of Service, p.269-274, June 06-08, 2001
+{24} R. J. Gibbens and F. P. Kelly, "Distributed connection acceptance control for a connectionless network," presented at the 16th Int. Teletraffic Congr. (ITC 16), Edinburgh, U.K., Jun. 1999.
+Tom Kelly, An ECN probe-based connection acceptance control, ACM SIGCOMM Computer Communication Review, v.31 n.3, July 2001[doi>10.1145/505659.505662]
+{26} B. Briscoe, G. Corliano, P. Eardley, P. Hovell, A. Jacquet, and D. Songhurst, "An architecture for edge-to-edge controlled load service using distributed measurement-based admission control," {Online}. Available: draft-briscoe-tsvwg-cl-architecture-00
+{27} M. Karsten and J. Schmitt, "Packet marking for integrated load control," inProc. IFIP/IEEE IM 2005, Nice, France, May 2005, pp. 499-512.
+{28} M. Karsten and J. Schmitt, Admission control based on packet marking and feedback signalling-mechanisms, implementation and experiments Darmstadt Univ. Technology, Germany, Tech. Rep. TR-KOM-2002-03, 2002.
+RSVP as Firewall Signalling Protocol, Proceedings of the Sixth IEEE Symposium on Computers and Communications, p.57, July 03-05, 2001
+{30} M. Shore, "Towards a network-friendlier midcom," 2002 {Online}. Available: http://www.watersprings.org/pub/id/draft-shore-friendly-midcom-01.txt
+{31} M. Stiemerling, H. Tschofenig, and C. Aoun, "NAT/Firewall NSIS Signaling Layer Protocol (NSLP)," 2005 {Online}. Available: draft-ietf-nsis-nslp-natfw-07
+A. Neogi , T. Chiueh , P. Stirpe, Performance analysis of an RSVP-capable router, IEEE Network: The Magazine of Global Internetworking, v.13 n.5, p.56-63, September 1999[doi>10.1109/65.793693]
+{33} I. Cselenyi, G. Feher, and K. Nemeth, "Benchmarking of signaling based resource reservation in the Internet," inProc. Networking 2000, Paris, France, May 2000, vol. 1815, Springer LNCS, pp. 643-654.
+E. Basturk , A. Birman , G. Delp , R. Guérin , R. Haas , S. Kamat , D. Kandlur , P. Pan , D. Pendarakis , V. Peris , R. Rajan , D. Saha , D. Williams, Design and implementation of a QoS capable switch-router, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.31 n.1-2, p.19-32, Jan. 14, 1999[doi>10.1016/S0169-7552(98)00227-X]
+Ping Pan , Henning Schulzrinne, YESSIR: a simple reservation mechanism for the Internet, ACM SIGCOMM Computer Communication Review, v.29 n.2, April 1999[doi>10.1145/505733.505740]
+{36} P. Pan and H. Schulzrinne, "Processing overhead studies in resource reservation protocols," presented at the 17th Int. Teletraffic Congr. (ITC), Salvador, Brazil, Sep. 2001.
+{37} J. Manner and X. Fu, Analysis of existing quality-of-service signaling protocols RFC 4094, May 2005.

@@ -1,0 +1,35 @@
+V. Jacobson, Congestion avoidance and control, Symposium proceedings on Communications architectures and protocols, p.314-329, August 16-18, 1988, Stanford, California, USA[doi>10.1145/52324.52356]
+R. Jain, A delay-based approach for congestion avoidance in interconnected heterogeneous computer networks, ACM SIGCOMM Computer Communication Review, v.19 n.5, p.56-71, Oct. 1989[doi>10.1145/74681.74686]
+A. Tang, J. Wang, S. Low, and M. Chiang, "Equilibrium of heterogeneous congestion control protocols," inProc. 24th IEEE INFOCOM, Mar. 2005, vol. 2, pp. 1338-1349.
+Lawrence S. Brakmo , Sean W. O'Malley , Larry L. Peterson, TCP Vegas: new techniques for congestion detection and avoidance, Proceedings of the conference on Communications architectures, protocols and applications, p.24-35, August 31-September 02, 1994, London, United Kingdom[doi>10.1145/190314.190317]
+L. S. Brakmo , L. L. Peterson, TCP Vegas: end to end congestion avoidance on a global Internet, IEEE Journal on Selected Areas in Communications, v.13 n.8, p.1465-1480, September 2006[doi>10.1109/49.464716]
+Zheng Wang , Jon Crowcroft, Eliminating periodic packet losses in the 4.3-Tahoe BSD TCP congestion control algorithm, ACM SIGCOMM Computer Communication Review, v.22 n.2, p.9-16, April 1992[doi>10.1145/141800.141801]
+W. Feng , S. Vanichpun, Enabling Compatibility Between TCP Reno and TCP Vegas, Proceedings of the 2003 Symposium on Applications and the Internet, p.301, January 27-31, 2003
+K. Srijith, L. Jacob, and A. Ananda, "TCP Vegas-A: Solving the fairness and rerouting issues of TCP Vegas," inProc. 22nd IEEE IPCCC, Apr. 2003, pp. 309-316.
+U. Hengartner, J. Bolliger, and T. Gross, "TCP Vegas revisited," inProc. 19th IEEE INFOCOM, 2000, pp. 1546-1555.
+H. Choe and S. Low, "Stabilized Vegas," inProc. 22nd IEEE INFOCOM, 2003, vol. 3, pp. 2290-2300.
+Steven H. Low , Larry L. Peterson , Limin Wang, Understanding TCP Vegas: a duality model, Journal of the ACM (JACM), v.49 n.2, p.207-235, March 2002[doi>10.1145/506147.506152]
+R. Jain and K. Ramakrishnan, "Congestion avoidance in computer networks with a connectionless network layer: Concepts, goals and methodology," inProc. Comput. Netw. Symp., 1988, pp. 134-143.
+J. Wang, D. X. Wei, and S. Low, "Modelling and stability of FAST TCP," inProc. 24th IEEE INFOCOM, 2005, vol. 2, pp. 938-948.
+K. Tan, J. Song, Q. Zhang, and M. Sridharan, "A compound TCP approach for high-speed and long distance networks," Microsoft Research, Redmond, WA, Tech. Rep. MSR-TR-2005-86, 2005.
+D. Leith, J. Heffner, R. Shorten, and G. McCullagh, "Delay-based AIMD congestion control," inProc. 5th PFLDnet, 2007, pp. 1-6.
+D. Leith, R. Shorten, G. McCoullagh, L. Dunne, and F. Baker, "Making available base RTT for use in congestion control applications,"IEEE Commun. Lett., vol. 12, no. 6, pp. 429-431, Jun. 2008.
+Sumitha Bhandarkar , A. L. Narasimha Reddy , Yueping Zhang , Dimitri Loguinov, Emulating AQM from end hosts, ACM SIGCOMM Computer Communication Review, v.37 n.4, October 2007[doi>10.1145/1282427.1282420]
+K. Kotla and A. Reddy, "Making a delay-based protocol adaptive to heterogeneous environments," inProc. 16th IWQoS, Jun. 2008, pp. 100-109.
+M. Podlesny and C. Williamson, "Providing fairness between TCP NewReno and TCP Vegas with RD network services," inProc. 18th IWQoS, 2010, pp. 1-9.
+Jim Martin , Arne Nilsson , Injong Rhee, Delay-based congestion avoidance for TCP, IEEE/ACM Transactions on Networking (TON), v.11 n.3, p.356-369, June 2003[doi>10.1109/TNET.2003.813038]
+R. Prasad, M. Jain, and C. Dovrolis, "On the effectiveness of delay-based congestion avoidance," inProc. 2nd PFLDnet, 2004, pp. 1-2.
+G. McCullagh, "Exploring delay based TCP congestion control," Master's thesis, Hamilton Institute, NUI Maynooth, Maynooth, Ireland, 2008.
+C. Kellett, R. Shorten, and D. Leith, "A review of delay-based congestion control," Cisco, San Jose, CA, 2006.
+Łukasz Budzisz , Rade Stanojevic , Robert Shorten , Fred Baker, A strategy for fair coexistence of loss and delay-based congestion control algorithms, IEEE Communications Letters, v.13 n.7, p.555-557, July 2009[doi>10.1109/LCOMM.2009.090305]
+Ł Budzisz, R. Stanojevic, A. Schlote, R. Shorten, and F. Baker, "On the fair coexistence of loss- and delay-based TCP," inProc. 17th IWQoS, 2009, pp. 1-9.
+Ao Tang , Jiantao Wang , Steven H. Low , Mung Chiang, Equilibrium of heterogeneous congestion control: existence and uniqueness, IEEE/ACM Transactions on Networking (TON), v.15 n.4, p.824-837, August 2007[doi>10.1109/TNET.2007.893885]
+Ao Tang , Xiaoliang Wei , Steven H. Low , Mung Chiang, Equilibrium of heterogeneous congestion control: optimality and stability, IEEE/ACM Transactions on Networking (TON), v.18 n.3, p.844-857, June 2010[doi>10.1109/TNET.2009.2034963]
+David, A.  Hayes David , Armitage, Grenville Armitage, Improved coexistence and loss tolerance for delay based TCP congestion control, Proceedings of the 2010 IEEE 35th Conference on Local Computer Networks, p.24-31, October 10-14, 2010[doi>10.1109/LCN.2010.5735714]
+"The Network Simulator ns-2," {Online}. Available: http://www.isi. edu/nsnam/ns/
+D. Hinrichsen and A. Pritchard,Mathematical Systems Theory I. Modelling, State Space Analysis, Stability and Robustness. Berlin, Germany: Springer-Verlag, 2004, vol. 48.
+D. Bauso, L. Giarre, and G. Neglia, "AQM stability in multiple bottleneck networks," inProc. IEEE ICC, Jun. 2004, vol. 4, pp. 2267-2271.
+Lijun Wang , Lin Cai , Xinzhi Liu , Xuemin (Sherman) Shen , Junshan Zhang, Stability analysis of multiple-bottleneck networks, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.53 n.3, p.338-352, February, 2009[doi>10.1016/j.comnet.2008.10.009]
+A. Schlote, "Stability of TCP models," Diplomarbeit, Julius-Maximilians, Universität Würzburg, Würzburg, Germany, 2009.
+Steven H. Low , Fernando Paganini , Jiantao Wang , John C. Doyle, Linear stability of TCP/RED and a scalable control, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.43 n.5, p.633-647, 5 December 2003[doi>10.1016/S1389-1286(03)00304-9]
+S. Floyd, HighSpeed TCP for Large Congestion Windows, RFC Editor, 2003

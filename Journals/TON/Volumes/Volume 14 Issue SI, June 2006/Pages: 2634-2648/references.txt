@@ -1,0 +1,26 @@
+Yin Zhang , Matthew Roughan , Carsten Lund , David Donoho, An information-theoretic approach to traffic matrix estimation, Proceedings of the 2003 conference on Applications, technologies, architectures, and protocols for computer communications, August 25-29, 2003, Karlsruhe, Germany[doi>10.1145/863955.863990]
+Konstantina Papagiannaki , Nina Taft , Anukool Lakhina, A distributed approach to measure IP traffic matrices, Proceedings of the 4th ACM SIGCOMM conference on Internet measurement, October 25-27, 2004, Taormina, Sicily, Italy[doi>10.1145/1028788.1028808]
+Anders Gunnar , Mikael Johansson , Thomas Telkamp, Traffic matrix estimation on a large IP backbone: a comparison on real data, Proceedings of the 4th ACM SIGCOMM conference on Internet measurement, October 25-27, 2004, Taormina, Sicily, Italy[doi>10.1145/1028788.1028807]
+{4} J. Cao, D. Davis, S. V. Wiel, and B. Yu, "Time-varying network tomography: Router link data,"J. Amer. Stat. Assoc., vol. 95, pp. 1063-1075, 2000.
+{5} Y. Vardi, "Network tomography: Estimating source-destination traffic intensities from link data,"J. Amer. Statist. Assoc., vol. 91, pp. 365-377, 1996.
+{6} S. Vaton and A. Gravey, "Network tomography: An iterative bayesian analysis," inProc. ITC 18, Aug. 2003.
+{7} G. Liang and B. Yu, "Pseudo likelihood estimation in network tomography," inProc. IEEE INFOCOM 2003, San Francisco, CA, Apr. 2003.
+Augustin Soule , Anukool Lakhina , Nina Taft , Konstantina Papagiannaki , Kave Salamatian , Antonio Nucci , Mark Crovella , Christophe Diot, Traffic matrices: balancing measurements, inference and modeling, Proceedings of the 2005 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 06-10, 2005, Banff, Alberta, Canada[doi>10.1145/1064212.1064259]
+Augustin Soule , Antonio Nucci , Rene Cruz , Emilio Leonardi , Nina Taft, How to identify and estimate the largest traffic matrix elements in a dynamic environment, ACM SIGMETRICS Performance Evaluation Review, v.32 n.1, June 2004[doi>10.1145/1012888.1005698]
+Yin Zhang , Matthew Roughan , Nick Duffield , Albert Greenberg, Fast accurate computation of large-scale IP traffic matrices from link loads, Proceedings of the 2003 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 11-14, 2003, San Diego, CA, USA[doi>10.1145/781027.781053]
+Gang Liang , Bin Yu, Maximum pseudo likelihood estimation in network tomography, IEEE Transactions on Signal Processing, v.51 n.8, p.2043-2053, August 2003[doi>10.1109/TSP.2003.814464]
+{12} G. Liang, B. Yu, and N. Taft, "Maximum entorpy models: Convergence rates and applications in dynamic system monitoring," inProc. Int. Symp. Information Theory, Chicago, IL, Jun./Jul. 2004, p. 168.
+{13} M. Hanke and P. Hansen, "Regularization methods for large-scale problems,"Surveys on Mathematics for Industry, vol. 3, pp. 253-315, 1993.
+{14} G. Wahba,Spline Models for Observational Data.Philadelphia, PA: SIAM, 1990.
+{15} C. Shannon, "A mathematical theory of communication,"Bell Syst. Tech. J., vol. 27, no. 3, pp. 623-656, Oct. 1948.
+{16} R. McDougall, "Entropy theory and ras are friends," inCenter Global Trade Analisis, 1999, GTAP Working Papers 300.
+{17} I. Csisz´r, "I-divergence geometry of probability distributions and minimization problems,"Ann. Probab., vol. 3, no. 1, pp. 146-158, 1975.
+{18} W. Deming and F. Stephan, "On a least square adjustment of a sampled frequency table when the expected marginal totals are known,"Ann. Math. Statist., no. 11, pp. 427-444, 1940.
+{19} J. Darroch and D. Ratcliff, "Generalized iterative scaling for log-linear models,"Ann. Math. Statist., vol. 43, no. 5, pp. 1470-1480, 1972.
+Stephen Della Pietra , Vincent Della Pietra , John Lafferty, Inducing Features of Random Fields, IEEE Transactions on Pattern Analysis and Machine Intelligence, v.19 n.4, p.380-393, April 1997[doi>10.1109/34.588021]
+Michael H. Schneider , Stavros A. Zenios, A comparative study of algorithms for matrix balancing, Operations Research, v.38 n.3, p.439-455, May/June 1990[doi>10.1287/opre.38.3.439]
+{22} P. Bickel and E. Levina, "Some theory for Fisher's linear discriminant function, 'naive bayes', and some alternatives when there are many more variables than observations,"Bernoulli, vol. 10, no. 6, pp. 989-1010, 2004.
+Anukool Lakhina , Konstantina Papagiannaki , Mark Crovella , Christophe Diot , Eric D. Kolaczyk , Nina Taft, Structural analysis of network traffic flows, Proceedings of the joint international conference on Measurement and modeling of computer systems, June 10-14, 2004, New York, NY, USA[doi>10.1145/1005686.1005697]
+{24} J. Rice,Mathematical Statistics and Data Analysis. Belmont, CA: Duxbury, 1988.
+{25} A. Soule, K. Salamatian, and N. Taft, "Traffic matrix tracking using kalman filters," inProc. Large Scale Network Inf. Worksh. ACM Sigmetrics, Jun. 2005.
+{26} R. Ihaka and R. Gentleman, "R: A language for data analysis and graphics,"J. Comput. Graph. Statist., vol. 5, no. 3, pp. 299-314, 1996.

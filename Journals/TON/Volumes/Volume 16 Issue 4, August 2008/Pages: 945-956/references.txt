@@ -1,0 +1,35 @@
+Sally Floyd, TCP and explicit congestion notification, ACM SIGCOMM Computer Communication Review, v.24 n.5, p.8-23, Oct. 1994[doi>10.1145/205511.205512]
+Guido Appenzeller , Isaac Keslassy , Nick McKeown, Sizing router buffers, Proceedings of the 2004 conference on Applications, technologies, architectures, and protocols for computer communications, August 30-September 03, 2004, Portland, Oregon, USA[doi>10.1145/1015467.1015499]
+J. Sun, M. Zukerman, K. Ko, G. Chen, and S. Chan, "Effect of large buffers on TCP Queueing behavior," inProc. IEEE INFOCOM, Hong Kong, Mar. 2004.
+A. Dhamdhere, H. Jiang, and C. Dovrolis, "Buffer sizing for congested Internet links," inProc. IEEE INFOCOM, Miami, FL, Mar. 2005.
+G. Raina and D. Wischik, "Buffer sizes for large multiplexers: TCP queueing theory and instability," inEuroNGI, Rome, Italy, Apr. 2005.
+Damon Wischik , Nick McKeown, Part I: buffer sizes for core routers, ACM SIGCOMM Computer Communication Review, v.35 n.3, July 2005[doi>10.1145/1070873.1070884]
+Gaurav Raina , Don Towsley , Damon Wischik, Part II: control theory for buffer sizing, ACM SIGCOMM Computer Communication Review, v.35 n.3, July 2005[doi>10.1145/1070873.1070885]
+M. Enachescu, Y. Ganjali, A. Goel, N. McKeown, and T. Roughgarden, "Routers with very small buffers," inProc. IEEE INFOCOM, Barcelona, Spain, Apr. 2006.
+Curtis Villamizar , Cheng Song, High performance TCP in ANSNET, ACM SIGCOMM Computer Communication Review, v.24 n.5, p.45-60, Oct. 1994[doi>10.1145/205511.205520]
+Steven H. Low , Fernando Paganini , Jiantao Wang , John C. Doyle, Linear stability of TCP/RED and a scalable control, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.43 n.5, p.633-647, 5 December 2003[doi>10.1016/S1389-1286(03)00304-9]
+Supratim Deb , R. Srikant, Rate-based versus queue-based models of congestion control, Proceedings of the joint international conference on Measurement and modeling of computer systems, June 10-14, 2004, New York, NY, USA[doi>10.1145/1005686.1005717]
+D. Hong and D. Lebedev, "Many TCP user asymptotic analysis of the AIMD model," INRIA Tech. Rep. RR-42292001.
+P. Tinnakornsrisuphap and A. M. Makowski, "Limit behavior of ECN/RED gateways under a large number of TCP flows," inProc. IEEE INFOCOM, San Francisco, CA, Apr. 2003.
+S. Deb and R. Srikant, "Global stability of congestion controllers for the Internet,"IEEE Trans. Autom. Contr., vol. 48, no. 6, pp. 1055-1060, Jun. 2003.
+S. Shakkottai , R. Srikant, Mean FDE models for Internet congestion control under a many-flows regime, IEEE Transactions on Information Theory, v.50 n.6, p.1050-1072, June 2004[doi>10.1109/TIT.2004.828063]
+F. P. Kelly, "Models for a self-managed Internet,"Philos. Trans. Roy. Soc. A358, pp. 2335-2348, 2000.
+P. E. Lassila and J. T. Virtamo, "Modeling the dynamics of the RED algorithm," inProc. QofIS, Berlin, Germany, 2000.
+S. Deb, S. Shakkottai, and R. Srikant, "Stability and convergence of TCP-like congestion controllers in a many-flows regime," inProc. IEEE INFOCOM, San Francisco, CA, Apr. 2003.
+Peerapol Tinnakornsrisuphap , Richard J. La, Characterization of queue fluctuations in probabilistic AQM mechanisms, Proceedings of the joint international conference on Measurement and modeling of computer systems, June 10-14, 2004, New York, NY, USA[doi>10.1145/1005686.1005721]
+F. Baccelli , D. R. McDonald , J. Reynier, A mean-field model for multiple TCP connections through a buffer implementing RED, Performance Evaluation, v.49 n.1-4, p.77-97, September 2002[doi>10.1016/S0166-5316(02)00136-0]
+D. R. McDonald and J. Reynier, "Mean field convergence of a rate model of multiple TCP connections throughput a buffer implementing red,"Ann. Appl. Probab., vol. 16, no. 1, pp. 244-294, 2006.
+P. Kuusela, P. E. Lassila, and J. T. Virtamo, "Modeling RED with idealized TCP source," inProc. IFIP ATM & IP, 2001.
+V. Sharma , J. Virtamo , P. Lassila, PERFORMANCE ANALYSIS OF THE RANDOM EARLY DETECTION ALGORITHM, Probability in the Engineering and Informational Sciences, v.16 n.3, p.367-388, July 2002[doi>10.1017.S0269964802163078]
+S. M. Ross,Stochastic Processes, 2nd ed. New York: Wiley, 1996.
+P. Brémaud,Point Processes and Queues: Martingale Dynamics. New York: Springer-Verlag, 1981.
+D. J. Daley and D. Vere-Jones,An Introduction to the Theory of Point Processes. New York: Springer-Verlag, 1988.
+J. Cao and K. Ramanan, "A Poisson limit for buffer overflow probabilities," inProc. IEEE INFOCOM, New York, NY, 2002.
+Yin Zhang , Nick Duffield, On the constancy of internet path properties, Proceedings of the 1st ACM SIGCOMM Workshop on Internet Measurement, November 01-02, 2001, San Francisco, California, USA[doi>10.1145/505202.505228]
+Hao Jiang , Constantinos Dovrolis, Why is the internet traffic bursty in short time scales?, Proceedings of the 2005 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 06-10, 2005, Banff, Alberta, Canada[doi>10.1145/1064212.1064240]
+R. Morris and D. Lin, "Variance of aggregated web traffic," inProc. IEEE INFOCOM, Tel-Aviv, Israel, Apr. 2000.
+T. Karagiannis, M. Molle, M. Faloutsos, and A. Broido, "A nonstationary Poisson view of Internet traffic," inProc. IEEE INFOCOM, Hong Kong, Mar. 2004.
+P. Brémaud,Markov Chains: Gibbs Fields, Monte Carlo Simulation, and Queues. New York: Springer-Verlag, 1999.
+T. Lindvall,Lectures on the cOupling Method. New York: Dover, 2002.
+D. Y. Eun and X. Wang, "Achieving 100% throughput in TCP/AQM under aggressive packet marking with small buffer," North Carolina State Univ., Raleigh, NC, Tech. Rep., Aug. 2006 {Online}. Available: http://www4.ncsu.edu~dyeun/pub/techrep06-smallbuffer.pdf
+ns-2 - The Network Simulator. ISI, 2004 {Online}. Available: http:// www.isi.edunsnamns

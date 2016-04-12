@@ -1,0 +1,35 @@
+M. Allman , S. Floyd , C. Partridge, Increasing TCP's Initial Window, RFC Editor, 1998
+Mark Allman , Vern Paxson, On estimating end-to-end network path properties, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.263-274, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316230]
+{3} F. Anjum and L. Tassiulas, "Fair bandwidth sharing among adaptive and non-adaptive flows in the Internet," inProc. IEEE INFOCOM, New York, NY, Mar. 1999, pp. 1412-1420.
+Robert L. Carter , Mark E. Crovella, Measuring bottleneck link speed in packet-switched networks, Performance Evaluation, 27-28, p.297-318, Oct. 1996[doi>10.1016/0166-5316(96)00036-3]
+{5} A. Demers, S. Keshav, and S. Shenker, "Analysis and simulation of a fair queueing algorithm,"J. Internetworking: Res. Exp., vol. 1, pp. 3-26, Sep. 1990.
+{6} C. Dovrolis, P. Ramanathan, and D. Moore, "What do packet dispersion techniques measure?," inProc. IEEE INFOCOM, Anchorage, AK, Apr. 2001, pp. 905-914.
+F. Ertemalp, Using Dynamic Buffer Limiting to Protect against Belligerent Flows in High-Speed Networks, Proceedings of the Ninth International Conference on Network Protocols, p.230, November 11-14, 2001
+Cristian Estan , George Varghese, New directions in traffic measurement and accounting, Proceedings of the 2002 conference on Applications, technologies, architectures, and protocols for computer communications, August 19-23, 2002, Pittsburgh, Pennsylvania, USA[doi>10.1145/633025.633056]
+Kevin Fall , Sally Floyd, Simulation-based comparisons of Tahoe, Reno and SACK TCP, ACM SIGCOMM Computer Communication Review, v.26 n.3, p.5-21, July 1996[doi>10.1145/235160.235162]
+Anja Feldmann , Anna C. Gilbert , Polly Huang , Walter Willinger, Dynamics of IP traffic: a study of the role of variability and the impact of control, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.301-313, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316235]
+{11} W. Feng, D. Kandlur, D. Saha, and K. Shin, "Stochastic fair BLUE: A queue management algorithm for enforcing fairness," inProc. IEEE INFOCOM, Anchorage, AK, Jun. 2001, pp. 1520-1529.
+{12} S. Floyd and V. Jacobson, "On traffic phase effects in packet-switched gateways,"J. Internetworking: Res. Exp., vol. 3, no. 3, pp. 115-156, Sep. 1992.
+Sally Floyd , Van Jacobson, Random early detection gateways for congestion avoidance, IEEE/ACM Transactions on Networking (TON), v.1 n.4, p.397-413, Aug. 1993[doi>10.1109/90.251892]
+{14} S. Floyd and E. Kohler, "Internet research needs better models," inProc. HOTNETS, Princeton, NJ, Oct. 2002, pp. 29-34.
+S. Floyd , J. Mahdavi , M. Mathis , M. Podolsky, An Extension to the Selective Acknowledgement (SACK) Option for TCP, RFC Editor, 2000
+Janey C. Hoe, Improving the start-up behavior of a congestion control scheme for TCP, Conference proceedings on Applications, technologies, architectures, and protocols for computer communications, p.270-280, August 28-30, 1996, Palo Alto, California, USA[doi>10.1145/248156.248180]
+V. Jacobson, Congestion avoidance and control, ACM SIGCOMM Computer Communication Review, v.18 n.4, p.314-329, August 1988[doi>10.1145/52325.52356]
+{18} V. Jacobson, "Pathchar: A tool to infer characteristics of Internet paths," 1997 {Online}. Available: ftp://ftp.ee.lbl.gov/pathchar/
+Manish Jain , Constantinos Dovrolis, End-to-end available bandwidth: measurement methodology, dynamics, and relation with TCP throughput, Proceedings of the 2002 conference on Applications, technologies, architectures, and protocols for computer communications, August 19-23, 2002, Pittsburgh, Pennsylvania, USA[doi>10.1145/633025.633054]
+Hao Jiang , Constantinos Dovrolis, Passive estimation of TCP round-trip times, ACM SIGCOMM Computer Communication Review, v.32 n.3, p.75-88, July 2002[doi>10.1145/571697.571725]
+Phil Karn , Craig Partridge, Improving round-trip time estimates in reliable transport protocols, ACM Transactions on Computer Systems (TOCS), v.9 n.4, p.364-373, Nov. 1991[doi>10.1145/118544.118549]
+Aleksandar Kuzmanovic , Edward W. Knightly, Low-rate TCP-targeted denial of service attacks: the shrew vs. the mice and elephants, Proceedings of the 2003 conference on Applications, technologies, architectures, and protocols for computer communications, August 25-29, 2003, Karlsruhe, Germany[doi>10.1145/863955.863966]
+Kevin Lai , Mary Baker, Measuring link bandwidths using a deterministic model of packet delay, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.283-294, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347557]
+Dong Lin , Robert Morris, Dynamics of random early detection, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.127-137, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263154]
+Jun Liu , Mark Crovella, Using loss pairs to discover network properties, Proceedings of the 1st ACM SIGCOMM Workshop on Internet Measurement, November 01-02, 2001, San Francisco, California, USA[doi>10.1145/505202.505219]
+Controlling High-Bandwidth Flows at the Congested Router, Proceedings of the Ninth International Conference on Network Protocols, p.192, November 11-14, 2001
+{27} T. J. Ott, T. V. Lakshman, and L. Wong, "SRED: stabilized RED," inProc. IEEE INFOCOM, New York, NY, Mar. 1999, pp. 1346-1355.
+{28} R. Pain, B. Prabhakar, and K. Psounis, "CHOKe, a stateless active queue management scheme for approximating fair bandwidth allocation," inProc. IEEE INFOCOM, Tel Aviv, Israel, Mar. 2000, pp. 942-951.
+{29} A. Pasztor and D. Veitch, "High precision active probing for Internet measurement," inProc. INET, Stockholm, Sweden, 2001.
+{30} A. Pasztor and D. Veitch, "The packet size dependence of packet pair like methods," inProc. IWQoS, Miami, FL, May 2002, pp. 204-213.
+Vern Paxson, End-to-end internet packet dynamics, IEEE/ACM Transactions on Networking (TON), v.7 n.3, p.277-292, June 1999[doi>10.1109/90.779192]
+V. Paxson , M. Allman, Computing TCP's Retransmission Timer, RFC Editor, 2000
+Anand Rangarajan , Anurag Acharya, ERUF: Early Regulation of Unresponsive Best-Effort Traffic, Proceedings of the Seventh Annual International Conference on Network Protocols, p.117, October 31-November 03, 1999
+Alex C. Snoeren , Craig Partridge , Luis A. Sanchez , Christine E. Jones , Fabrice Tchakountio , Stephen T. Kent , W. Timothy Strayer, Hash-based IP traceback, Proceedings of the 2001 conference on Applications, technologies, architectures, and protocols for computer communications, p.3-14, August 2001, San Diego, California, USA[doi>10.1145/383059.383060]
+Lixia Zhang , Scott Shenker , Daivd D. Clark, Observations on the dynamics of a congestion control algorithm: the effects of two-way traffic, Proceedings of the conference on Communications architecture & protocols, p.133-147, September 03-06, 1991, Zurich, Switzerland[doi>10.1145/115992.116006]

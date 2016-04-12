@@ -1,0 +1,30 @@
+V. Jacobson, Congestion avoidance and control, ACM SIGCOMM Computer Communication Review, v.18 n.4, p.314-329, August 1988[doi>10.1145/52325.52356]
+Rayadurgam Srikant, The Mathematics of Internet Congestion Control (Systems and Control: Foundations and Applications), SpringerVerlag, 2004
+S. Low, F. Paganini, and J. C. Doyle, "Internet congestion control,"IEEE Control Syst., vol. 22, no. 1, pp. 28--43, Feb. 2002.
+D. Mitra, "Stochastic theory of a fluid model of producers and consumers coupled by a buffer,"Adv. Appl. Probab., vol. 20, no. 3, pp. 646--676, 1988.
+R. Johari and D. Tan, "End-to-end congestion control for the Internet: Delay and stability," Statistical Laboratory, University of Cambridge, Cambridge, U.K., Tech. Rep., 2000.
+C. Hollot, V. Misra, D. Towsley, and W. B. Gong, "A control theoretic analysis of RED," inProc. 20th IEEE INFOCOM, Tel-Aviv, Israel, 2001, pp. 1510--1519.
+G. Vinnicombe, "On the stability of networks operating TCP-like congestion control," inProc. 15th IFAC World Congress, Barcelona, Spain, 2002, pp. 217--222.
+F. Pagaganini, J. C. Doyle, and S. Low, "A control theoretical look at Internet congestion control," inMultidisciplinary Research in Control, L. Giarré and B. Bamieh, Eds. Berlin, Germany: Springer, 2003, vol. 289, Lecture Notes in Control and Information Sciences, pp. 17--31.
+K. Jacobsson, "Dynamic modeling of Internet congestion control," Ph.D. dissertation, KTH School of Electrical Engineering, Stockholm, Sweden, 2008.
+D. V. Lindley, "The theory of queues with a single server,"Math. Proc. Cambridge Philos. Soc., vol. 48, pp. 277--289, 1952.
+Vishal Misra , Wei-Bo Gong , Don Towsley, Fluid-based analysis of a network of AQM routers supporting TCP flows with an application to RED, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.151-160, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347421]
+G. Vinnicombe, "On the stability of end-to-end congestion control for the Internet," University of Cambridge, Cambridge, U.K., Tech. rep. CUED/F-INFENG/TR 398, 2000.
+C. Ohta and F. Ishizaki, "Output processes of shaper and switch with self-similar traffic in ATM networks,"IEICE Trans. Commun., vol. E81-B, no. 10, pp. 1936--1940, 1998.
+João Hespanha , Stephan Bohacek , Katia Obraczka , Junsoo Lee, Hybrid Modeling of TCP Congestion Control, Proceedings of the 4th International Workshop on Hybrid Systems: Computation and Control, p.291-304, March 28-30, 2001
+D. Färnqvist, K. Strandemar, K. H. Johansson, and J. P. Hespanha, "Hybrid modeling of communication networks using modelica," inProc. RVK, 2002.
+Yong Liu , Francesco L. Presti , Vishal Misra , Donald F. Towsley , Yu Gu, Scalable fluid models and simulations for large-scale IP networks, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.14 n.3, p.305-324, July 2004[doi>10.1145/1010621.1010625]
+C. Briat, H. Hjalmarsson, K. H. Johansson, G. Karlsson, U. T. Jönsson, and H. Sandberg, "Nonlinear state-dependent delay modeling and stability analysis of Internet congestion control," inProc. 49th IEEE Conf. Decision Control, Atlanta, GA, USA, 2010, pp. 1484--1491.
+Yueping Zhang , Yong Xiong , Steve Liu , Dmitri Loguinov, Queuing dynamics and single-link stability of delay-based window congestion control, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.54 n.10, p.1543-1553, July, 2010[doi>10.1016/j.comnet.2009.10.011]
+N. Möller, "Window-based congestion control," Doctoral dissertation, KTH, Stockholm, Sweden, 2008.
+K. Jacobsson, L. Andrew, A. Tang, S. Low, and H. Hjalmarsson, "An improved link model for window flow control and its application to FAST TCP,"IEEE Trans. Autom. Control, vol. 54, no. 3, pp. 551--564, Mar. 2009.
+K. Jacobsson, L. Andrew, A. Tang, K. H. Johansson, H. Hjalmarsson, and S. Low, "ACK-clock dynamics: Modeling the interaction between ACK-clock and network," inProc. 27th IEEE INFOCOM, Phoenix, AZ, USA, 2008, pp. 181--185.
+Ao Tang , Lachlan L. H. Andrew , Krister Jacobsson , Karl H. Johansson , Håkan Hjalmarsson , Steven H. Low, Queue dynamics with window flow control, IEEE/ACM Transactions on Networking (TON), v.18 n.5, p.1422-1435, October 2010[doi>10.1109/TNET.2010.2047951]
+J. K. Hale and S. M. V. Lunel,Introduction to Functional Differential Equations.New York, NY, USA: Springer-Verlag, 1991.
+J. Wang, D. X. Wei, and S. H. Low, "Modelling and stability of FAST TCP," inProc. 28th IEEE INFOCOM, 2005, pp. 938--948.
+C. Briat, H. Hjalmarsson, K. H. Johansson, G. Karlsson, U. T. Jönsson, H. Sandberg, and E. A. Yavuz, "An axiomatic fluid-flow model for congestion control analysis," inProc. 50th IEEE Conf. Decision Control, Orlando, FL, USA, 2011, pp. 3122--3129.
+Hao Jiang , Constantinos Dovrolis, Why is the internet traffic bursty in short time scales?, Proceedings of the 2005 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 06-10, 2005, Banff, Alberta, Canada[doi>10.1145/1064212.1064240]
+Ramesh Johari , David Kim Hong Tan, End-to-end congestion control for the internet: delays and stability, IEEE/ACM Transactions on Networking (TON), v.9 n.6, p.818-832, December 2001[doi>10.1109/90.974534]
+Fernando Paganini , Zhikui Wang , John C. Doyle , Steven H. Low, Congestion control for high performance, stability, and fairness in general networks, IEEE/ACM Transactions on Networking (TON), v.13 n.1, p.43-56, February 2005[doi>10.1109/TNET.2004.842216]
+A. Tang, K. Jacobsson, L. L. H. Andrew, and S. H. Low, "An accurate link model and its application to stability analysis of FAST TCP," inProc. 26th IEEE INFOCOM, Anchorage, AK, USA, 2007, pp. 161--169.
+Robert Shorten , Fabian Wirth , Douglas Leith, A positive systems model of TCP-like congestion control: asymptotic results, IEEE/ACM Transactions on Networking (TON), v.14 n.3, p.616-629, June 2006[doi>10.1109/TNET.2006.876178]

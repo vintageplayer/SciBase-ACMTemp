@@ -1,0 +1,46 @@
+Nicolas Christin , Jorg Liebeherr, Quantifiable service differentiation for packet networks, University of Virginia, Charlottesville, VA, 2003
+{2} N. Christin, J. Liebeherr, and T. F. Abdelzaher, "A quantitative assured forwarding service," inProc. IEEE INFOCOM'02, New York, Jun. 2002, vol. 2, pp. 864-873.
+R. Braden , L. Zhang , S. Berson , S. Herzog , S. Jamin, Resource ReSerVation Protocol (RSVP) -- Version 1 Functional Specification, RFC Editor, 1997
+K. Nichols , V. Jacobson , L. Zhang, A Two-bit Differentiated Services Architecture for the Internet, RFC Editor, 1999
+David D. Clark , Wenjia Fang, Explicit allocation of best-effort packet delivery service, IEEE/ACM Transactions on Networking (TON), v.6 n.4, p.362-373, Aug. 1998[doi>10.1109/90.720870]
+S. Blake , D. Black , M. Carlson , E. Davies , Z. Wang , W. Weiss, An Architecture for Differentiated Service, RFC Editor, 1998
+B. Davie , A. Charny , J. C. R. Bennet , K. Benson , J. Y. Le Boudec , W. Courtney , S. Davari , V. Firoiu , D. Stiliadis, An Expedited Forwarding PHB (Per-Hop Behavior), RFC Editor, 2002
+J. Heinanen , F. Baker , W. Weiss , J. Wroclawski, Assured Forwarding PHB Group, RFC Editor, 1999
+{9} C. Dovrolis and P. Ramanathan, "Proportional differentiated services, Part II: Loss rate differentiation and packet dropping," inProc. IWQoS'00, Pittsburgh, PA, Jun. 2000, pp. 52-61.
+Constantinos Dovrolis , Dimitrios Stiliadis , Parameswaran Ramanathan, Proportional differentiated services: delay differentiation and packet scheduling, IEEE/ACM Transactions on Networking (TON), v.10 n.1, p.12-26, February 2002[doi>10.1109/90.986503]
+P. Hurley , J. -Y. Le Boudec , P. Thiran , M. Kara, ABE: providing a low-delay service within best effort, IEEE Network: The Magazine of Global Internetworking, v.15 n.3, p.60-69, May 2001[doi>10.1109/65.923942]
+Raymond R.-F. Liao , Andrew T. Campbell, Dynamic Core Provisioning for Quantitative Differentiated Service, Proceedings of the 9th International Workshop on Quality of Service, p.9-26, June 06-08, 2001
+Jörg Liebeherr , Nicolas Christin, JoBS: Joint Buffer Management and Scheduling for Differentiated Services, Proceedings of the 9th International Workshop on Quality of Service, p.404-418, June 06-08, 2001
+Kenjiro Cho, A framework for alternate queueing: towards traffic management by PC-UNIX based routers, Proceedings of the annual conference on USENIX Annual Technical Conference, p.21-21, June 15-19, 1998, New Orleans, Louisiana
+{15} The KAME Project. {Online}. Available: http://www.kame.net
+Constantinos Dovrolis , Dimitrios Stiliadis , Parameswaran Ramanathan, Proportional differentiated services: delay differentiation and packet scheduling, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.109-120, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316211]
+{17} H. Saito, C. Lukovszki, and I. Moldován, "Local optimal proportional differentiated services scheduler for relative differentiated services," inProc. IEEE ICCCN'00, Las Vegas, NV, Oct. 2000, pp. 554-550.
+{18} T. Nandagopal, N. Venkitaraman, R. Sivakumar, and V. Barghavan, "Delay differentiation and adaptation in core stateless networks," inProc. IEEE INFOCOM'00, Tel-Aviv, Israel, Apr. 2000, pp. 421-430.
+{19} Y. Moret and S. Fdida, "A proportional queue control mechanism to provide differentiated services," inProc. ISCIS'98, Belek, Turkey, Oct. 1998, pp. 17-24.
+{20} S. Bodamer, "A scheduling algorithm for relative delay differentiation," inProc. IEEE HPSR'00, Heidelberg, Germany, Jun. 2000, pp. 357-364.
+Ulf Bodin , Andreas Jonsson , Olov Schelén, On Creating Proportional Loss-Rate Differentiation: Predictability and Performance, Proceedings of the 9th International Workshop on Quality of Service, p.372-388, June 06-08, 2001
+A Striegel , G Manimaran, Packet scheduling with delay and loss differentiation, Computer Communications, v.25 n.1, p.21-31, January, 2002[doi>10.1016/S0140-3664(01)00337-1]
+Dimitrios Stiliadis , Anujan Varma, Latency-rate servers: a general model for analysis of traffic scheduling algorithms, IEEE/ACM Transactions on Networking (TON), v.6 n.5, p.611-624, Oct. 1998[doi>10.1109/90.731196]
+{24} R. Cruz, "A calculus for network delay, part I: Network elements in isolation,"IEEE Trans. Inf. Theory, vol. 37, no. 1, pp. 114-131, Jan. 1991.
+{25} R. Cruz, "A calculus for network delay, part II: Network analysis,"IEEE Trans. Inf. Theory, vol. 37, no. 1, pp. 132-141, Jan. 1991.
+M. K. H. Leung , J. C. Lui , D. K. Y. Yau, Characterization and performance evaluation for proportional delay differentiated services, Proceedings of the 2000 International Conference on Network Protocols, p.295, November 14-17, 2000
+{27} C. V. Hollot, V. Misra, D. Towsley, and W. Gong, "On designing improved controllers for AQM routers supporting TCP flows," inProc. IEEE INFOCOM'01, Anchorage, AK, Apr. 2001, vol. 3, pp. 1726-1734.
+Chenyang Lu , John A. Stankovic , Sang H. Son , Gang Tao, Feedback Control Real-Time Scheduling: Framework, Modeling, and Algorithms*, Real-Time Systems, v.23 n.1/2, p.85-126, July-September 2002[doi>10.1023/A:1015398403337]
+Differentiated Caching Services; A Control-Theoretical Approach, Proceedings of the The 21st International Conference on Distributed Computing Systems, p.615, April 16-19, 2001
+S. Parekh , N. Gandhi , J. Hellerstein , D. Tilbury , T. Jayram , J. Bigus, Using Control Theory to Achieve Service Level Objectives In Performance Management, Real-Time Systems, v.23 n.1/2, p.127-141, July-September 2002[doi>10.1023/A:1015350520175]
+{31} K. Åström and B. Wittenmark,Adaptive Control. Reading, MA: Addison-Wesley, 1995.
+Gene F. Franklin , Michael L. Workman , Dave Powell, Digital Control of Dynamic Systems, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1997
+{33} The FreeBSD Project. {Online}. Available: http://www.freebsd.org
+{34} The QoSbox. {Online}. Available: http://www.qosbox.cs.virginia.edu/ software.html
+Nicolas Christin , Jörg Liebeherr, The QoSbox: quantitative service differentiation in BSD routers, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.50 n.17, p.3353-3374, 5 December 2006[doi>10.1016/j.comnet.2006.01.002]
+K. Nichols , S. Blake , F. Baker , D. Black, Definition of the Differentiated Services Field (DS Field) in the IPv4 and IPv6 Headers, RFC Editor, 1998
+Lixia Zhang, VirtualClock: a new traffic control algorithm for packet-switched networks, ACM Transactions on Computer Systems (TOCS), v.9 n.2, p.101-124, May 1991[doi>10.1145/103720.103721]
+Abhay K. Parekh , Robert G. Gallager, A generalized processor sharing approach to flow control in integrated services networks: the single-node case, IEEE/ACM Transactions on Networking (TON), v.1 n.3, p.344-357, June 1993[doi>10.1109/90.234856]
+M. Shreedhar , George Varghese, Efficient fair queueing using deficit round-robin, IEEE/ACM Transactions on Networking (TON), v.4 n.3, p.375-385, June 1996[doi>10.1109/90.502236]
+{40} R. Jones,netperf: A benchmark for measuring network performance--Revision 2.0. Information Networks Division, Hewlett-Packard Company, Feb. 1995 {Online}. Available: http://www.netperf.org
+{41} ns-2 Network Simulator. {Online}. Available: http://www.isi.edu/ nsnam/ns/
+{42} Packet Sizes and Sequencing. CAIDA, May 2001. {Online}. Available: http://www.caida.org/outreach/resources/learn/packetsizes
+M. Allman , V. Paxson , W. Stevens, TCP Congestion Control, RFC Editor, 1999
+S. Floyd , T. Henderson, The NewReno Modification to TCP's Fast Recovery Algorithm, RFC Editor, 1999
+Nicolas Christin , Jörg Liebeherr, Marking algorithms for service differentiation of TCP traffic, Computer Communications, v.28 n.18, p.2058-2069, November, 2005[doi>10.1016/j.comcom.2004.07.031]
+E. Rosen , A. Viswanathan , R. Callon, Multiprotocol Label Switching Architecture, RFC Editor, 2001

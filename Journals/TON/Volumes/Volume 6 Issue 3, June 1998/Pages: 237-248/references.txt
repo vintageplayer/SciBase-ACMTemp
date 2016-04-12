@@ -1,0 +1,34 @@
+"Alpha 21164 Microprocessor," Hardware Reference Manual, Digital Equipment Corporation, Burlington, MA, Apr. 1995.
+A. Asthana, C. Delph, H. V. Jagadish, and P. Krzyzanowski, "Toward a gigabit IP router," J. High Speed Networks, vol. 1, no. 4, pp. 281-288, 1992.
+F. Baker, Requirements for IP Version 4 Routers, RFC Editor, 1995
+B. Braden, D. Borman, and C. Partridge, "Computing the internet checksum; RFC 1071," Internet Request for Comments, vol. 1071, Sept. 1988.
+Scott O. Bradner , Allison Mankin, IPng: Internet protocol next generation, Addison Wesley Longman Publishing Co., Inc., Redwood City, CA, 1996
+Mikael Degermark , Andrej Brodnik , Svante Carlsson , Stephen Pink, Small forwarding tables for fast routing lookups, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.3-14, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263133]
+N. Chiappa, "Data packet switch using a primary processing unit to designate one of a plurality of data stream control circuits to selectively handle the header processing of incoming packets in one data packet stream," US Patent 5 249 292, Sept. 28, 1993.
+S. Deering , R. Hinden, Internet Protocol, Version 6 (IPv6) Specification, RFC Editor, 1995
+A. Demers, S. Keshav, and S. Shenker, "Analysis and simulation of a lair queueing algorithm," in internetwork: Research and Experience, vol. 1, no. 1. New York: Wiley, Sept. 1990, pp. 3-6.
+M. Fedor, "Gated: A multi-routing protocol daemon for UNIX," in Proc. I988 Summer USENIX Conj'., San Francisco, CA, 1988, pp. 365-376.
+D.C. Feldmeier, "Improving gateway performance with a routing-table cache," in Proc. 1EEE 1NFOCOM'88, New Orleans, LA, Mar. 1988, pp. 298-307.
+Sally Floyd , Van Jacobson, Random early detection gateways for congestion avoidance, IEEE/ACM Transactions on Networking (TON), v.1 n.4, p.397-413, Aug. 1993[doi>10.1109/90.251892]
+S. A. Heimlich, "Traffic characterization of the NSFNET national backbone," in Proc. Winter 1990 USENIX Conf., Washington, DC, Jan. 1990, pp. 207-227.
+R. Jain, "A comparison of hashing schemes for address lookup in computer networks," IEEE Trans. Commun., vol. 40, pp. 1570-1573, Oct. 1992.
+R. Jain , S. Routhier, Packet Trains--Measurements and a New Model for Computer Network Traffic, IEEE Journal on Selected Areas in Communications, v.4 n.6, p.986-995, September 2006[doi>10.1109/JSAC.1986.1146410]
+Richard O. LaMaire , Dimitrios N. Serpanos, Two-dimensional round-robin schedulers for packet switches with multiple input queues, IEEE/ACM Transactions on Networking (TON), v.2 n.5, p.471-482, Oct. 1994[doi>10.1109/90.336324]
+Harry R. Lewis , Larry Denenberg, Data Structures and Their Algorithms, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1997
+T. Mallory and A. Kullberg, "Incremental updating of the Internet checksum; RFC- 1141," Internet Requests for Comments, vol. 1141,/an. 1990.
+Nick McKeown , Martin Izzard , Adisak Mekkittikul , William Ellersick , Mark Horowitz, Tiny Tera: A Packet Switch Core, IEEE Micro, v.17 n.1, p.26-33, January 1997[doi>10.1109/40.566194]
+M. J. Karol, M. G. Hluchyj, and S. P. Morgan, "Input versus output queueing on a space-division packet switch," IEEE Trans. Commun., vol. COM-35, pp. 1347-1356, Dec, 1987.
+Nick McKeown , Venkat Anantharam , Jean Walrand, Achieving 100% throughput in an input-queued switch, Proceedings of the Fifteenth annual joint conference of the IEEE computer and communications societies conference on The conference on computer communications, March 24-28, 1996, San Francisco, California
+J. C. Mogul and S, E. Deering, "Path MTU discovery; RFC-1191," lnternet Request for Comments, vol, 1191, Nov. 1990.
+B. Prabhakar , N. McKeown , R. Ahuja, Multicast scheduling for input-queued switches, IEEE Journal on Selected Areas in Communications, v.15 n.5, p.855-866, September 2006[doi>10.1109/49.594847]
+P. Newman , G. Minshall , T. Lyon , L. Huston, IP switching and gigabit routers, IEEE Communications Magazine, v.35 n.1, p.64-69, January 1997[doi>10.1109/35.568212]
+Craig Partridge, How slow is one gigabit per second?, ACM SIGCOMM Computer Communication Review, v.20 n.1, p.44-53, Jan. 1990[doi>10.1145/86587.86589]
+Craig Partridge, Gigabit networking, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1994
+Guru Parulkar , Douglas C. Schmidt , Jonathan S. Turner, aItPm: a strategy for integrating IP with ATM, ACM SIGCOMM Computer Communication Review, v.25 n.4, p.49-59, Oct. 1995[doi>10.1145/217391.217409]
+D. Plummer, "Ethernet address resolution protocol: Or converting network protocol addresses to 48.bit Ethernet address for transmission on ethernet hardware," Internet Request for Comments, vol. 826, Nov. 1992.
+A. Rijsinghani, "Computation of the Internet checksum via incremental update; RFC-1624," lnternet Request for Comments, vol. 1624, May 1994.
+J. Robinson, "The Monet switch," in Internet Research Steering Group Workshop Architectures for Very-High-Speed Networks'; RFC-I152, Cambridge, MA, Jan. 24-26, 1990, p. 15.
+Richard L. Sites, Alpha architecture reference manual, Digital Press, Newton, MA, 1992
+Y. Tamir , H. C. Chi, Symmetric Crossbar Arbiters for VLSI Communication Switches, IEEE Transactions on Parallel and Distributed Systems, v.4 n.1, p.13-27, January 1993[doi>10.1109/71.205650]
+Ahmed N. Tantawy , Martina Zitterbart, Multiprocessing in High Performance IP Routers, Proceedings of the IFIP WG6.1/WG6.4 Third International Workshop on Protocols for High-Speed Networks III, p.235-254, May 13-15, 1992
+Marcel Waldvogel , George Varghese , Jon Turner , Bernhard Plattner, Scalable high speed IP routing lookups, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.25-36, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263136]

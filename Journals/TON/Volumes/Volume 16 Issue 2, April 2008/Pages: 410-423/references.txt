@@ -1,0 +1,41 @@
+{1} R. Branden, D. Clark, and S. Shenker, "Integrated services in the Internet architecture: an overview," IETF RFC 1633, Jun. 1994.
+S. Blake , D. Black , M. Carlson , E. Davies , Z. Wang , W. Weiss, An Architecture for Differentiated Service, RFC Editor, 1998
+Abhijit Bose , Mohamed El Gendy , Kang G. Shin, Sapphire: Statistical Characterization and Model-Based Adaptation of Networked Applications, IEEE Transactions on Parallel and Distributed Systems, v.17 n.12, p.1512-1525, December 2006[doi>10.1109/TPDS.2006.177]
+{4} E. Lochin, L. Dairaine, and G. Jourjon, "gTFRC, a TCP friendly QoS-aware rate control for DiffServ assured service,"Telecommun. Syst., vol. 33, no. 1-3, pp. 3-21, Dec. 2006.
+Sugih Jamin , Peter B. Danzig , Scott J. Shenker , Lixia Zhang, A measurement-based admission control algorithm for integrated service packet networks, IEEE/ACM Transactions on Networking (TON), v.5 n.1, p.56-70, Feb. 1997[doi>10.1109/90.554722]
+Lee Breslau , Edward W. Knightly , Scott Shenker , Ion Stoica , Hui Zhang, Endpoint admission control: architectural issues and performance, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.57-69, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347400]
+F. P. Kelly , P. B. Key , S. Zachary, Distributed admission control, IEEE Journal on Selected Areas in Communications, v.18 n.12, p.2617-2628, September 2006[doi>10.1109/49.898741]
+{8} S. Crosbyet al., "Statistical properties of a near-optimal measurement-based CAC algorithm," inProc. IEEE ATM'97, May 1997, pp. 103-112.
+Zbigniew Dziong , Marek Juda , Lorne G. Mason, A framework for bandwidth management in ATM networks—aggregate equivalent bandwidth estimation approach, IEEE/ACM Transactions on Networking (TON), v.5 n.1, p.134-147, Feb. 1997[doi>10.1109/90.554728]
+{10} S. Floyd, "Comments on "Measurement-based admission control for controlled-load services"," Lawrence Berkeley Lab., Tech. Rep., Jul. 1997.
+{11} R. Gibbens and F. Kelly, "Measurement-based connection admission control," in15th Int. Teletraffic Congr., Jun. 1997.
+R. J. Gibbens , F. P. Kelly , P. B. Key, A decision-theoretic approach to call admission control in ATM networks, IEEE Journal on Selected Areas in Communications, v.13 n.6, p.1101-1114, September 2006[doi>10.1109/49.400665]
+Matthias Grossglauser , David Tse, A framework for robust measurement-based admission control, ACM SIGCOMM Computer Communication Review, v.27 n.4, p.237-248, Oct. 1997[doi>10.1145/263109.263173]
+{14} M. Grossglauser and D. Tse, "A time-scale decomposition approach to measurement-based admission control," inProc. IEEE INFOCOM, Mar. 1999, vol. 3, pp. 1539-1547.
+Claudio Casetti , James F. Kurose , Donald F. Towsley, A new algorithm for measurement-based admission control in integrated services packet networks, Proceedings of the TC6 WG6.1/6.4 Fifth International Workshop on Protocols for High-Speed Networks V, p.13-28, October 28-30, 1996
+Sugih Jamin , Scott J. Shenker , Peter B. Danzig, Comparison of Measurement-based Admission Control Algorithms for Controlled-Load Service, Proceedings of the INFOCOM '97. Sixteenth Annual Joint Conference of the IEEE Computer and Communications Societies. Driving the Information Revolution, p.973, April 09-11, 1997
+{17} L. Breslau and S. Jamin, "Comments on the performance of measurement-based admission control algorithms," inProc. IEEE INFOCOM, Mar. 2000, vol. 3, pp. 1233-1242.
+{18} R. Guerin, H. Ahmadi, and M. Naghshineh, "Equivalent capacity and its application to bandwidth allocation in high-speed networks,"IEEE J. Sel. Areas Commun., vol. 9, no. 7, pp. 968-981, Sep. 1991.
+A. Elwalid , D. Mitra , R. H. Wentworth, A new approach for allocating buffers and bandwidth to heterogeneous, regulated traffic in an ATM node, IEEE Journal on Selected Areas in Communications, v.13 n.6, p.1115-1127, September 2006[doi>10.1109/49.400666]
+{20} F. P. Kelly, "Note on effective bandwidth," inStochastic Networks: Theory and Applications, ser. Royal Statistical Society Lecture Notes, F. P. Kelly, S. Zachary, and I. B. Ziedins, Eds. London, U.K.: Oxford Univ. Press, 1996, vol. 4, pp. 141-168.
+Sunggon Kim , Seung Yeob Nam , Dan Keun Sung, Effective bandwidth for a single server queueing system with fractional Brownian input, Performance Evaluation, v.61 n.2-3, p.203-223, July 2005[doi>10.1016/j.peva.2004.11.007]
+{22} J. Beran, R. Sherman, M. S. Taqqu, and W. Willinger, "Long-range dependence in variable bit rate video traffic,"IEEE Trans. Commun., vol. 43, no. 2/3/4, pp. 1566-1579, Feb./Mar./Apr. 1995.
+Mark W. Garrett , Walter Willinger, Analysis, modeling and generation of self-similar VBR video traffic, Proceedings of the conference on Communications architectures, protocols and applications, p.269-280, August 31-September 02, 1994, London, United Kingdom[doi>10.1145/190314.190339]
+{24} S. Kim, J. Y. Lee, and D. K. Sung, "A shifted gamma distribution model for long-range dependent Internet traffic,"IEEE Commun. Lett., vol. 7, no. 3, pp. 124-126, Mar. 2003.
+{25} N. G. Duffield and N. O'Connell, "Large deviations and overflow probabilities for the general single-server queue, with applications,"Math. Proc. Cambridge Philos. Soc., vol. 118, pp. 363-374, 1995.
+J. R. Gallardo , D. Makrakis , M. Angulo, Dynamic resource management considering the real behavior of aggregate traffic, IEEE Transactions on Multimedia, v.3 n.2, p.177-185, June 2001[doi>10.1109/6046.923817]
+K. Ramakrishnan , S. Floyd, A Proposal to add Explicit Congestion Notification (ECN) to IP, RFC Editor, 1999
+C. Cetinkaya , V. Kanodia , E. W. Knightly, Scalable services via egress admission control, IEEE Transactions on Multimedia, v.3 n.1, p.69-81, March 2001[doi>10.1109/6046.909595]
+{29} S. Y. Nam, S. Kim, and D. K. Sung, "Estimation of available bandwidth for an unidentified queueing system," KAIST, Daejeon, Korea, Tech. rep. KAIST-CNR-06-01, 2006.
+{30} S. Y. Nam, S. Kim, J. Kim, and D. K. Sung, "Probing-based estimation of end-to-end available bandwidth,"IEEE Commun. Lett., vol. 8, no. 6, pp. 400-402, Jun. 2004.
+{31} S. Y. Nam, "Available bandwidth estimation and measurement-based admission control in IP networks," Ph.D. thesis, Dept. EECS, KAIST, Daejeon, Korea, 2004.
+{32} S. Karlin and H. M. Taylor,A First Course in Stochastic Processes, 2nd ed. New York: Academic, 1975.
+{33}One-Way Transmission Time, ITU-T Recommendation G.114, May 2000.
+{34} A. Shriram and J. Kaur, "Empirical study of the impact of sampling timescales and strategies on measurement of available bandwidth," inProc. Passive and Active Measurement (PAM) Conf., Mar. 2006.
+{35} B. Melander, M. Bjorkman, and P. Gunningberg, "A new end-to-end probing and analysis method for estimating bandwidth bottlenecks," inProc. IEEE Globecom, Nov. 2000, pp. 415-421.
+{36} M. Jain and C. Dovrolis, "Pathload: A measurement tool for end-to-end available bandwidth," inProc. Passive and Active Measurements (PAM) Workshop, Mar. 2002.
+Ningning Hu , P. Steenkiste, Evaluation and characterization of available bandwidth probing techniques, IEEE Journal on Selected Areas in Communications, v.21 n.6, p.879-894, September 2006[doi>10.1109/JSAC.2003.814505]
+R. H. Riedi , M. S. Crouse , V. J. Ribeiro , R. G. Baraniuk, A multifractal wavelet model with application to network traffic, IEEE Transactions on Information Theory, v.45 n.3, p.992-1018, April 1999[doi>10.1109/18.761337]
+{39}Services and Service Capabilities, 3GPP Technical Specification 22.105.
+{40}Quality of Service (QoS) Concept and Architecture, 3GPP Technical Specification 23.107.
+{41} R. W. Wolff,Stochastic Modeling and the Theory of Queues. Englewood Cliffs, NJ: Prentice-Hall, 1989.

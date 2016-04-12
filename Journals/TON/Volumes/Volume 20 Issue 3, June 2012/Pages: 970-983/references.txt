@@ -1,0 +1,34 @@
+Mike Fisk , George Varghese, Fast Content-Based Packet Handling for Intrusion Detection, University of California at San Diego, La Jolla, CA, 2001
+"Port80," Port80 Software, San Diego, CA {Online}. Available: http:// www.port80software.com/surveys/top1000compression
+"Website Optimization, LLC," Website Optimization, LLC, Ann Arbor, MI {Online}. Available: http://www.websiteoptimization.com
+P. Deutsch, "Gzip file format specification," RFC 1952, May 1996 {Online}. Available: http://www.ietf.org/rfc/rfc1952.txt
+P. Deutsch, "Deflate compressed data format specification," RFC 1951, May 1996 {Online}. Available: http://www.ietf.org/rfc/rfc1951.txt
+J. Ziv , A. Lempel, A universal algorithm for sequential data compression, IEEE Transactions on Information Theory, v.23 n.3, p.337-343, May 1977[doi>10.1109/TIT.1977.1055714]
+D. Huffman, "A method for the construction of minimum-redundancy codes,"Proc. IRE, vol. 40, no. 9, pp. 1098-1101, Sep. 1952.
+"Zlib," {Online}. Available: http://www.zlib.net
+Alfred V. Aho , Margaret J. Corasick, Efficient string matching: an aid to bibliographic search, Communications of the ACM, v.18 n.6, p.333-340, June 1975[doi>10.1145/360825.360855]
+Robert S. Boyer , J. Strother Moore, A fast string searching algorithm, Communications of the ACM, v.20 n.10, p.762-772, Oct. 1977[doi>10.1145/359842.359859]
+"Snort," Snort, Jul. 2008 {Online}. Available: http://www.snort.org
+T. Song, W. Zhang, D. Wang, and Y. Xue, "A memory efficient multiple pattern matching architecture for network security," inProc. IEEE INFOCOM, Apr. 2008, pp. 166-170.
+J. van Lunteren, "High-performance pattern-matching for intrusion detection," inProc. IEEE INFOCOM, Apr. 2006, pp. 1-13.
+V. Dimopoulos, I. Papaefstathiou, and D. Pnevmatikatos, "A memory-efficient reconfigurable Aho-Corasick FSM implementation for intrusion detection systems," inProc. IC-SAMOS, Jul. 2007, pp. 186-193.
+N. Tuck, T. Sherwood, B. Calder, and G. Varghese, "Deterministic memory-efficient string matching algorithms for intrusion detection," inProc. IEEE INFOCOM, 2004, vol. 4, pp. 2628-2639.
+Mansoor Alicherry , M. Muthuprasanna , Vijay Kumar, High Speed Pattern Matching for Network IDS/IPS, Proceedings of the Proceedings of the 2006 IEEE International Conference on Network Protocols, p.187-196, November 12-15, 2006[doi>10.1109/ICNP.2006.320212]
+Yehuda Afek , Anat Bremler-Barr , Yaron Koral, Efficient processing of multi-connection compressed web traffic, Proceedings of the 10th international IFIP TC 6 conference on Networking, May 09-13, 2011, Valencia, Spain
+Amihood Amir , Gary Benson , Martin Farach, Let sleeping files lie: pattern matching in Z-compressed files, Proceedings of the fifth annual ACM-SIAM symposium on Discrete algorithms, p.705-714, January 23-25, 1994, Arlington, Virginia, USA
+Takuya Kida , Masayuki Takeda , Ayumi Shinohara , Setsuo Arikawa, Shift-And Approach to Pattern Matching in LZW Compressed Text, Proceedings of the 10th Annual Symposium on Combinatorial Pattern Matching, p.1-13, July 22-24, 1999
+Gonzalo Navarro , Mathieu Raffinot, A General Practical Approach to Pattern Matching over Ziv-Lempel Compressed Text, Proceedings of the 10th Annual Symposium on Combinatorial Pattern Matching, p.14-36, July 22-24, 1999
+Gonzalo Navarro , Jorma Tarhio, Boyer-Moore String Matching over Ziv-Lempel Compressed Text, Proceedings of the 11th Annual Symposium on Combinatorial Pattern Matching, p.166-180, June 21-23, 2000
+Shmuel T. Klein , Dana Shapira, A New Compression Method for Compressed Matching, Proceedings of the Conference on Data Compression, p.400, March 28-30, 2000
+Martin Farach , Mikkel Thorup, String matching in Lempel-Ziv compressed strings, Proceedings of the twenty-seventh annual ACM symposium on Theory of computing, p.703-712, May 29-June 01, 1995, Las Vegas, Nevada, USA[doi>10.1145/225058.225288]
+Leszek Gasieniec , Marek Karpinski , Wojciech Plandowski , Wojciech Rytter, Efficient Algorithms for Lempel-Zip Encoding (Extended Abstract), Proceedings of the 5th Scandinavian Workshop on Algorithm Theory, p.392-403, July 03-05, 1996
+Udi Manber, A text compression scheme that allows fast searching directly in the compressed file, ACM Transactions on Information Systems (TOIS), v.15 n.2, p.124-136, April 1997[doi>10.1145/248625.248639]
+M. Takeda, Y. Shibata, T. Matsumoto, T. Kida, A. Shinohara, S. Fukamachi, T. Shinohara, and S. Arikawa, "Speeding up string pattern matching by text compression. The dawn of a new era.,"Trans. Inf. Process. Soc. Jpn., vol. 42, no. 3, pp. 370-384, 2001.
+Nivio Ziviani , Edleno Silva de Moura , Gonzalo Navarro , Ricardo Baeza-Yates, Compression: A Key for Next-Generation Text Retrieval Systems, Computer, v.33 n.11, p.37-44, November 2000[doi>10.1109/2.881693]
+Thomas H. Cormen , Charles E. Leiserson , Ronald L. Rivest , Clifford Stein, Introduction to algorithms, MIT Press, Cambridge, MA, 2001
+"Alexa," Alexa, Jul. 2009 {Online}. Available: http://www.alexa.com
+"ModSecurity," ModSecurity, Jul. 2008 {Online}. Available: http://www.modsecurity.org,
+N. Sertac Artan and H. Chao, "Tribica: Trie bitmap content analyzer for high-speed network intrusion detection," inProc. 26th IEEE INFOCOM, May 2007, pp. 125-133.
+S. Kumar, J. Turner, P. Crowley, and M. Mitzenmacher, "Hexa: Compact data structures for faster packet processing," inProc. IEEE ICNP, 2007, pp. 246-255.
+Lin Tan , Timothy Sherwood, A High Throughput String Matching Architecture for Intrusion Detection and Prevention, Proceedings of the 32nd annual international symposium on Computer Architecture, p.112-122, June 04-08, 2005[doi>10.1109/ISCA.2005.5]
+Michela Becchi , Patrick Crowley, An improved algorithm to accelerate regular expression evaluation, Proceedings of the 3rd ACM/IEEE Symposium on Architecture for networking and communications systems, December 03-04, 2007, Orlando, Florida, USA[doi>10.1145/1323548.1323573]

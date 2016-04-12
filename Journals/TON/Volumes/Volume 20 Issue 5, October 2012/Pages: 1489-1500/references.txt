@@ -1,0 +1,30 @@
+Nick Feamster , Lixin Gao , Jennifer Rexford, How to lease the internet in your spare time, ACM SIGCOMM Computer Communication Review, v.37 n.1, January 2007[doi>10.1145/1198255.1198265]
+"Global Environment for Network Innovations," GENI, 2006 {Online}. Available: http://www.geni.net
+Jonathan S. Turner, A proposed architecture for the GENI backbone platform, Proceedings of the 2006 ACM/IEEE symposium on Architecture for networking and communications systems, December 03-05, 2006, San Jose, California, USA[doi>10.1145/1185347.1185349]
+Andy Bavier , Nick Feamster , Mark Huang , Larry Peterson , Jennifer Rexford, In VINI veritas: realistic and controlled network experimentation, Proceedings of the 2006 conference on Applications, technologies, architectures, and protocols for computer communications, September 11-15, 2006, Pisa, Italy[doi>10.1145/1159913.1159916]
+J. Curran, "IPv4 depletion and migration to IPv6," 2008 {Online}. Available: http://www.rmv6tf.org/
+E. Nordmark and R. Gilligan, RFC 4213: Basic Transition Mechanisms for IPv6 Hosts and Routers 2005 {Online}. Available: http://www.ietf.org
+E. Rosen , Y. Rekhter, BGP/MPLS VPNs, RFC Editor, 1999
+Changhoon Kim , Alexandre Gerber , Carsten Lund , Dan Pei , Subhabrata Sen, Scalable VPN routing via relaying, Proceedings of the 2008 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 02-06, 2008, Annapolis, MD, USA[doi>10.1145/1375457.1375465]
+"Intelligent logical router service," Juniper Networks, Sunnyvale, CA, 2004 {Online}. Available: http://www.juniper.net/solutions/literature/white_papers
+"Route Views project," Univ. Oregon, Eugene, OR, 2011 {Online}. Available: http://www.routeviews.org/
+Jing Fu , Jennifer Rexford, Efficient IP-address lookup with a shared forwarding table for multiple virtual routers, Proceedings of the 2008 ACM CoNEXT Conference, p.1-12, December 09-12, 2008, Madrid, Spain[doi>10.1145/1544012.1544033]
+Mikael Degermark , Andrej Brodnik , Svante Carlsson , Stephen Pink, Small forwarding tables for fast routing lookups, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.3-14, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263133]
+S. Nilsson , G. Karlsson, IP-address lookup using LC-tries, IEEE Journal on Selected Areas in Communications, v.17 n.6, p.1083-1092, September 2006[doi>10.1109/49.772439]
+V. Srinivasan , George Varghese, Faster IP lookups using controlled prefix expansion, Proceedings of the 1998 ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems, p.1-10, June 22-26, 1998, Madison, Wisconsin, USA[doi>10.1145/277851.277863]
+Will Eatherton , George Varghese , Zubin Dittia, Tree bitmap: hardware/software IP lookups with incremental updates, ACM SIGCOMM Computer Communication Review, v.34 n.2, April 2004[doi>10.1145/997150.997160]
+Haoyu Song , Jonathan Turner , John Lockwood, Shape Shifting Tries for Faster IP Route Lookup, Proceedings of the 13TH IEEE International Conference on Network Protocols, p.358-367, November 06-09, 2005[doi>10.1109/ICNP.2005.36]
+Jahangir Hasan , T. N. Vijaykumar, Dynamic pipelining: making IP-lookup truly scalable, Proceedings of the 2005 conference on Applications, technologies, architectures, and protocols for computer communications, August 22-26, 2005, Philadelphia, Pennsylvania, USA[doi>10.1145/1080091.1080116]
+Sailesh Kumar , Michela Becchi , Patrick Crowley , Jonathan Turner, CAMP: fast and efficient IP lookup architecture, Proceedings of the 2006 ACM/IEEE symposium on Architecture for networking and communications systems, December 03-05, 2006, San Jose, California, USA[doi>10.1145/1185347.1185355]
+W. Jiang and V. K. Prasanna, "Beyond TCAMs: An SRAM-based parallel multi-pipeline architecture for terabit IP lookup," inProc. IEEE INFOCOM, 2008, pp. 1786-1794.
+P. Gupta and N. McKeown, "Packet classification using hierarchical intelligent cuttings," inProc. IEEEHot Interconnects, 1999, pp. 34-41.
+Sumeet Singh , Florin Baboescu , George Varghese , Jia Wang, Packet classification using multidimensional cutting, Proceedings of the 2003 conference on Applications, technologies, architectures, and protocols for computer communications, August 25-29, 2003, Karlsruhe, Germany[doi>10.1145/863955.863980]
+Pankaj Gupta , Nick McKeown, Packet classification on multiple fields, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.147-160, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316217]
+T. V. Lakshman , D. Stiliadis, High-speed policy-based packet forwarding using efficient multi-dimensional range matching, Proceedings of the ACM SIGCOMM '98 conference on Applications, technologies, architectures, and protocols for computer communication, p.203-214, August 31-September 04, 1998, Vancouver, British Columbia, Canada[doi>10.1145/285237.285283]
+Gabriel Valiente, Algorithms on Trees and Graphs, Springer-Verlag New York, Inc., Secaucus, NJ, 2002
+Wuu Yang, Identifying syntactic differences between two programs, Software—Practice & Experience, v.21 n.7, p.739-755, June 1991[doi>10.1002/spe.4380210706]
+Alfred V. Aho , John E. Hopcroft, The  Design and Analysis of Computer Algorithms, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1974
+S. Selkow, "The tree-to-tree editing problem,"Inf. Process. Lett., vol. 6, no. 6, pp. 184-186, 1977.
+Mei Wang , S. Deering , T. Hain , L. Dunn, Non-random generator for IPv6 tables, Proceedings of the High Performance Interconnects, 2004. on Proceedings. 12th Annual IEEE Symposium, p.35-40, August 05-07, 2004[doi>10.1109/CONECT.2004.1375198]
+D. Taylor and J. Turner, "ClassBench: A packet classification benchmark," inProc. IEEE INFOCOM, 2005, vol. 3, pp. 2068-2079.
+P. Gupta , N. McKeown, Algorithms for packet classification, IEEE Network: The Magazine of Global Internetworking, v.15 n.2, p.24-32, March 2001[doi>10.1109/65.912717]

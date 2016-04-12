@@ -1,0 +1,44 @@
+Curtis Villamizar , Cheng Song, High performance TCP in ANSNET, ACM SIGCOMM Computer Communication Review, v.24 n.5, p.45-60, Oct. 1994[doi>10.1145/205511.205520]
+Guido Appenzeller , Isaac Keslassy , Nick McKeown, Sizing router buffers, Proceedings of the 2004 conference on Applications, technologies, architectures, and protocols for computer communications, August 30-September 03, 2004, Portland, Oregon, USA[doi>10.1145/1015467.1015499]
+Guido Appenzeller , Nick Mckeown, Sizing router buffers, Stanford University, Stanford, CA, 2005
+Damon Wischik , Nick McKeown, Part I: buffer sizes for core routers, ACM SIGCOMM Computer Communication Review, v.35 n.3, July 2005[doi>10.1145/1070873.1070884]
+Mihaela Enachescu , Yashar Ganjali , Ashish Goel , Nick McKeown , Tim Roughgarden, Part III: routers with very small buffers, ACM SIGCOMM Computer Communication Review, v.35 n.3, July 2005[doi>10.1145/1070873.1070886]
+M. Enachescu, Y. Ganjali, A. Goel, N. McKeown, and T. Rough-garden, "Routers with very small buffers," inProc. IEEE INFOCOM, Barcelona, Spain, Apr. 2006, pp. 1-11.
+Yashar Ganjali , Nick McKeown, Update on buffer sizing in internet routers, ACM SIGCOMM Computer Communication Review, v.36 n.5, October 2006[doi>10.1145/1163593.1163605]
+N. Hohn , D. Veitch , K. Papagiannaki , C. Diot, Bridging router performance and queuing theory, Proceedings of the joint international conference on Measurement and modeling of computer systems, June 10-14, 2004, New York, NY, USA[doi>10.1145/1005686.1005728]
+Gaurav Raina , Don Towsley , Damon Wischik, Part II: control theory for buffer sizing, ACM SIGCOMM Computer Communication Review, v.35 n.3, July 2005[doi>10.1145/1070873.1070885]
+Ravi S. Prasad , Constantine Dovrolis , Marina Thottan, Router buffer sizing revisited: the role of the output/input capacity ratio, Proceedings of the 2007 ACM CoNEXT conference, December 10-13, 2007, New York, New York[doi>10.1145/1364654.1364674]
+A. Lakshmikantha, R. Srikant, and C. Beck, "Impact of file arrivals and departures on buffer sizing in core routers," inProc. IEEE INFOCOM, Phoenix, AZ, Apr. 2008, pp. 86-90.
+Amogh Dhamdhere , Constantine Dovrolis, Open issues in router buffer sizing, ACM SIGCOMM Computer Communication Review, v.36 n.1, January 2006[doi>10.1145/1111322.1111342]
+G. Vu-Brugier , R. S. Stanojevic , D. J. Leith , R. N. Shorten, A critique of recently proposed buffer-sizing strategies, ACM SIGCOMM Computer Communication Review, v.37 n.1, January 2007[doi>10.1145/1198255.1198262]
+Mei Wang , Yashar Ganjali, The effects of fairness in buffer sizing, Proceedings of the 6th international IFIP-TC6 conference on Ad Hoc and sensor networks, wireless networks, next generation internet, May 14-18, 2007, Atlanta, GA, USA
+Neda Beheshti , Yashar Ganjali , Monia Ghobadi , Nick McKeown , Geoff Salmon, Experimental study of router buffer sizing, Proceedings of the 8th ACM SIGCOMM conference on Internet measurement, October 20-22, 2008, Vouliagmeni, Greece[doi>10.1145/1452520.1452545]
+Arun Vishwanath , Vijay Sivaraman , Marina Thottan, Perspectives on router buffer sizing: recent results and open problems, ACM SIGCOMM Computer Communication Review, v.39 n.2, April 2009[doi>10.1145/1517480.1517487]
+N. Beheshti, Y. Ganjali, R. Rajaduray, D. Blumenthal, and N. McKeown, "Buffer sizing in all-optical packet switches," inProc. IEEE/OSA OFC, Mar. 2006, Paper OThF8.
+D. Hunter, M. Chia, and I. Andonovic, "Buffering in optical packet switches,"J. Lightw. Technol., vol. 16, no. 12, pp. 2081-2094, Dec. 1998.
+Shun Yao , B. Mukherjee , S. Dixit, Advances in photonic packet switching: an overview, IEEE Communications Magazine, v.38 n.2, p.84-94, February 2000[doi>10.1109/35.819900]
+H. Park, E. F. Burmeister, S. Bjorlin, and J. E. Bowers, "40-Gb/s optical buffer design and simulations," inProc. NUSOD, Aug. 2004, pp. 19-20.
+E. F. Burmeister, J. P. Mack, H. N. Poulsen, J. Klamkin, L. A. Coldren, D. J. Blumenthal, and J. E. Bowers, "SOA gate array recirculating buffer for optical packet switching," inProc. IEEE/OSA OFC, Feb. 2008, Paper OWE4.
+J. D. LeGrange, J. E. Simsarian, P. Bernasconi, D. T. Neilson, L. Buhl, and J. Gripp, "Demonstration of an integrated buffer for an all-optical packet router," inProc. IEEE/OSA OFC, Mar. 2009, Paper OMU5.
+Y. Zhang and D. Loguinov, "ABS: Adaptive buffer sizing for heterogeneous networks," inProc. IEEE IWQoS, Enschede, The Netherlands, Jun. 2008, pp. 90-99.
+R. Stanojevic, R. Shorten, and C. Kellet, "Adaptive tuning of drop-tail buffers for reducing queueing delays,"IEEE Commun. Lett., vol. 10, pp. 570-572, Jul. 2006.
+"The network simulator--ns-2," {Online}. Available: http://www.isi. edu/nsnam/ns/
+Wu-chang Feng , Francis Chang , Wu-chi Feng , Jonathan Walpole, Provisioning on-line games: a traffic analysis of a busy counter-strike server, Proceedings of the 2nd ACM SIGCOMM Workshop on Internet measurment, November 06-08, 2002, Marseille, France[doi>10.1145/637201.637223]
+Wu-chang Feng , Francis Chang , Wu-chi Feng , Jonathan Walpole, A traffic characterization of popular on-line games, IEEE/ACM Transactions on Networking (TON), v.13 n.3, p.488-500, June 2005[doi>10.1109/TNET.2005.850221]
+"Packet traces from measurement and analysis on the WIDE Internet backbone," {Online}. Available: http://tracer.csl.sony.co.jp/mawi
+Velibor Markovski , Fei Xue , Ljiljana Trajković, Simulation and Analysis of Packet Loss in User Datagram Protocol Transfers, The Journal of Supercomputing, v.20 n.2, p.175-196, September 2001[doi>10.1023/A:1011134903609]
+"Video traffic traces for performance evaluation," Arizona State Univ., Tempe {Online}. Available: http://trace.eas.asu.edu/TRACE/ltvt.html
+P. Bernasconi, J. Gripp, D. Neilson, J. Simsarian, D. Stiliadis, A. Varma, and M. Zirngibl, "Architecture of an integrated router interconnected spectrally (IRIS)," inProc. IEEE High Perform. Switching Routing, Jun. 2006, pp. 71-78.
+L. Andrew, T. Cui, J. Sun, M. Zukerman, K. Ho, and S. Chan, "Buffer sizing for nonhomogeneous TCP sources,"IEEE Commun. Lett., vol. 9, no. 6, pp. 567-569, Jun. 2005.
+G. Raina and D. Wischik, "Buffer sizes for large multiplexers: TCP queueing theory and instability analysis," inProc. Next Generation Internet Netw., Rome, Italy, Apr. 2005, pp. 173-180.
+J. Cao and K. Ramanan, "A Poisson limit for buffer overflow probabilities," inProc. IEEE INFOCOM, New York, Jun. 2002, vol. 2, pp. 994-1003.
+J. Cruise, "Poisson convergence, in large deviations, for the superposition of independent point processes,"Ann. Oper. Res., vol. 170, no. 1, pp. 79-94, Sep. 2009.
+A. Vishwanath and V. Sivaraman, "Routers with very small buffers: Anomalous loss performance for mixed real-time and TCP traffic," inProc. IEEE IWQoS, Enschede, The Netherlands, Jun. 2008, pp. 80-89.
+R. Sinha, C. Papadopoulos, and J. Heidemann, "Internet packet size distributions: Some observations," USC/Information Sciences Institute, Marina del Rey, CA, Tech. Rep. ISI-TR-2007-643, 2007 {Online}. Available: http://www.isi.edu/~johnh/PAPERS/Sinha07a.html
+"CAIDA Internet packet size distribution," CAIDA, La Jolla, CA, 2010 {Online}. Available: http://www.caida.org/research/ traffic-analysis/pkt_size_distribution/graphs.xml
+A. Vishwanath, V. Sivaraman, and G. N. Rouskas, "Considerations for sizing buffers in optical packet switched networks," inProc. IEEE INFOCOM, Rio de Janeiro, Brazil, Apr. 2009, pp. 1323-1331.
+V. Sivaraman, H. ElGindy, D. Moreland, and D. Ostry, "Packet pacing in short buffer optical packet switched networks," inProc. IEEE INFOCOM, Barcelona, Spain, Apr. 2006, pp. 1-11.
+Vijay Sivaraman , Hossam Elgindy , David Moreland , Diethelm Ostry, Packet pacing in small buffer optical packet switched networks, IEEE/ACM Transactions on Networking (TON), v.17 n.4, p.1066-1079, August 2009[doi>10.1109/TNET.2008.2005622]
+D. I. Ostry, Synthesis of accurate fractional Gaussian noise by filtering, IEEE Transactions on Information Theory, v.52 n.4, p.1609-1623, April 2006[doi>10.1109/TIT.2006.871036]
+Bianca Schroeder , Adam Wierman , Mor Harchol-Balter, Open versus closed: a cautionary tale, Proceedings of the 3rd conference on Networked Systems Design & Implementation, p.18-18, May 08-10, 2006, San Jose, CA
+Walter Willinger , Murad S. Taqqu , Robert Sherman , Daniel V. Wilson, Self-similarity through high-variability: statistical analysis of ethernet LAN traffic at the source level, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.100-113, August 28-September 01, 1995, Cambridge, Massachusetts, USA[doi>10.1145/217382.217418]

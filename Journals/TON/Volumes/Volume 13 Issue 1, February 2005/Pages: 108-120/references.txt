@@ -1,0 +1,28 @@
+L. S. Brakmo , L. L. Peterson, TCP Vegas: end to end congestion avoidance on a global Internet, IEEE Journal on Selected Areas in Communications, v.13 n.8, p.1465-1480, September 2006[doi>10.1109/49.464716]
+{2} M. Mathis et al., "TCP Selective Acknowledgment Options," Network Working Group, RFC 2018, 1996.
+{3} S. Floyd. (2000) A Report on Some Recent Developments in TCP Congestion Control. {Online}. Available: http://www.aciri.org/
+Janey C. Hoe, Improving the start-up behavior of a congestion control scheme for TCP, Conference proceedings on Applications, technologies, architectures, and protocols for computer communications, p.270-280, August 28-30, 1996, Palo Alto, California, USA[doi>10.1145/248156.248180]
+{5} S. Mascolo et al., "TCP Westwood: Congestion Control with Faster Recovery," Univ. California, Los Angeles, Tech. Rep. CSD TR #200017, 2000.
+Sally Floyd , Van Jacobson, Random early detection gateways for congestion avoidance, IEEE/ACM Transactions on Networking (TON), v.1 n.4, p.397-413, Aug. 1993[doi>10.1109/90.251892]
+{7} T. Bonald et al., "Analytic evaluation of RED performance," in Proc. IEEE INFOCOM, Mar. 2000.
+Mikkel Christiansen , Kevin Jeffay , David Ott , F. Donelson Smith, Tuning RED for Web traffic, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.139-150, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347418]
+{9} V. Firoiu and M. Borden, "A study of active queue management for congestion control," in Proc. IEEE INFOCOM, Mar. 2000.
+Sally Floyd, TCP and explicit congestion notification, ACM SIGCOMM Computer Communication Review, v.24 n.5, p.8-23, Oct. 1994[doi>10.1145/205511.205512]
+{11} K. Pentikousis and H. Badr, "An evaluation of TCP with explicit congestion notification," Ann. Telecommun., 2003, to be published.
+{12} T. Ott. (1999, May) ECN protocols and TCP paradigm. {Online}. Available: http://www.icir.org/floyd/ecn.html
+{13} S. Athuraliya et al., "Random early marking," Proc. QoflS, Sep. 2000.
+Sanjay Shakkottai , Anurag Kumar , Aditya Karnik , Ajit Anvekar, TCP performance over end-to-end rate control and stochastic available capacity, IEEE/ACM Transactions on Networking (TON), v.9 n.4, p.377-391, August 2001[doi>10.1109/90.944337]
+{15} P. Narvaez and K.-Y. Siu, "An acknowledgment bucket scheme for regulating TCP flow over ATM," in Proc. IEEE, Nov. 1998.
+{16} L. Kalampoukas et al., "Explicit window adaptation: A method to enhance TCP performance," in Proc. IEEE INFOCOM, Mar. 1998.
+{17} R. Satyavolu et al., "Explicit Rate Control of TCP Applications," ATM Forum, Doc. No. ATM-Forum/98-0152R1, 1998.
+Shrikrishna Karandikar , Shivkumar Kalyanaraman , Prasad Bagal , Bob Packer, TCP rate control, ACM SIGCOMM Computer Communication Review, v.30 n.1, January 2000[doi>10.1145/505688.505694]
+Steven H. Low , David E. Lapsley, Optimization flow control—I: basic algorithm and convergence, IEEE/ACM Transactions on Networking (TON), v.7 n.6, p.861-874, Dec. 1999[doi>10.1109/90.811451]
+Santosh Paul Abraham , Anurag Kumar, A new approach for asynchronous distributed rate control of elastic sessions in integrated packet networks, IEEE/ACM Transactions on Networking (TON), v.9 n.1, p.15-30, Feb., 2001[doi>10.1109/90.909021]
+{21} A. Karnik, "Performance of TCP Congestion Control with Rate Feedback: TCP/ABR and Rate Adaptive TCP/IP," M.Eng. thesis, Indian Institute of Science, Bangalore, 1999.
+{22} A. Anvekar. (2000) WALE: A Wide Area Link Emulator on a Linux PC. ERNET Project, IISC Tech. Rep. {Online}. Available: http://ece.iisc. ernet.in/netlab/
+{23} M. Allman et al., "Ongoing TCP Research Related to Satellites," Network Working Group, RFC 2760, 2000.
+{24} J. Mo et al., "Analysis and comparison of TCP reno and vegas," in Proc. IEEE INFOCOM, Mar. 1999.
+Mark Allman , Vern Paxson, On estimating end-to-end network path properties, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.263-274, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316230]
+{26} A. Ewerlid, "Reliable communication over wireless links," in Nordic Radio Symp. (NRS), Sweden, Apr. 2001.
+Anurag Kumar, Comparative performance analysis of versions of TCP in a local network with a lossy link, IEEE/ACM Transactions on Networking (TON), v.6 n.4, p.485-498, Aug. 1998[doi>10.1109/90.720921]
+T. V. Lakshman , Upamanyu Madhow, The performance of TCP/IP for networks with high bandwidth-delay products and random loss, IEEE/ACM Transactions on Networking (TON), v.5 n.3, p.336-350, June 1997[doi>10.1109/90.611099]

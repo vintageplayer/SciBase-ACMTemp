@@ -1,0 +1,38 @@
+S. Shenker, Fundamental design issues for the future Internet, IEEE Journal on Selected Areas in Communications, v.13 n.7, p.1176-1188, September 2006[doi>10.1109/49.414637]
+{2} IP Monitoring Project. Sprint Corp. {Online}. Available: http://ipmon. sprintlabs.com
+N. Brownlee , C. Mills , G. Ruth, Traffic Flow Measurement: Architecture, RFC Editor, 1999
+{4} NetFlow. Cisco Systems, Inc. {Online}. Available: http://www. cisco.com
+{5} sFlow. sFlow.org {Online}. Available: http://www.sflow.org
+{6} Argus. QoSient, llc {Online}. Available: http://www.qosient.com/argus
+Cristian Estan , George Varghese, New directions in traffic measurement and accounting, Proceedings of the 1st ACM SIGCOMM Workshop on Internet Measurement, November 01-02, 2001, San Francisco, California, USA[doi>10.1145/505202.505212]
+Nick Duffield , Carsten Lund , Mikkel Thorup, Properties and prediction of flow statistics from sampled packet streams, Proceedings of the 2nd ACM SIGCOMM Workshop on Internet measurment, November 06-08, 2002, Marseille, France[doi>10.1145/637201.637225]
+Stefan Savage , Neal Cardwell , Tom Anderson, The Case for Informed Transport Protocols, Proceedings of the The Seventh Workshop on Hot Topics in Operating Systems, p.58, March 28-30, 1999
+K. Harfoush , A. Bestavros , J. Byers, Robust identification of shared losses using end-to-end unicast probes, Proceedings of the 2000 International Conference on Network Protocols, p.22, November 14-17, 2000
+Dan Rubenstein , Jim Kurose , Don Towsley, Detecting shared congestion of flows via end-to-end measurement, IEEE/ACM Transactions on Networking (TON), v.10 n.3, p.381-395, June 2002[doi>10.1109/TNET.2002.1012369]
+Min Sik Kim , Taekhyun Kim , YongJune Shin , Simon S. Lam , Edward J. Powers, A wavelet-based approach to detect shared congestion, Proceedings of the 2004 conference on Applications, technologies, architectures, and protocols for computer communications, August 30-September 03, 2004, Portland, Oregon, USA[doi>10.1145/1015467.1015500]
+{13} M. Rabbat, R. Nowak, and M. Coates, "Network tomography and the identification of shared infrastructure," inProc. IEEE Asilomar Conf. Signals, Systems and Computers, Nov. 2002, pp. 34-38.
+{14} D. Katabi, I. Bazzi, and X. Yang, "A passive approach for detecting shared bottlenecks," inProc. IEEE Int. Conf. Computer Communications and Networks, 2001, pp. 174-181.
+{15} D. Arifler, G. de Veciana, and B. L. Evans, "Network tomography based on flow level measurements," inProc. IEEE Int. Conf. Acoustics, Speech, and Signal Processing, May 2004, vol. 2, pp. 437-440.
+{16} D. Arifler, G. de Veciana, and B. L. Evans, "Inferring path sharing based on flow level TCP measurements," inProc. IEEE Conf. Communications, Jun. 2004, vol. 4, pp. 2054-2059.
+{17} D. Arifler and B. L. Evans, "Factor analysis of network flow throughput measurements for inferring congestion sharing," inProc. 13th Eur. Signal Processing Conf., Antalya, Turkey, Sep. 2005.
+{18} L. Massoulié and J. W. Roberts, "Bandwidth sharing and admission control for elastic traffic,"Telecommun. Syst., vol. 15, pp. 185-201, Jun. 2000.
+{19} A. A. Kherani and A. Kumar, "Stochastic models for throughput analysis of randomly arriving elastic flows in the Internet," inProc. IEEE INFOCOM, 2002, vol. 2, pp. 1014-1023.
+Yin Zhang , Lee Breslau , Vern Paxson , Scott Shenker, On the characteristics and origins of internet flow rates, Proceedings of the 2002 conference on Applications, technologies, architectures, and protocols for computer communications, August 19-23, 2002, Pittsburgh, Pennsylvania, USA[doi>10.1145/633025.633055]
+Dah-Ming Chiu , Raj Jain, Analysis of the increase and decrease algorithms for congestion avoidance in computer networks, Computer Networks and ISDN Systems, v.17 n.1, p.1-14, June 10, 1989[doi>10.1016/0169-7552(89)90019-6]
+S. Ben Fred , T. Bonald , A. Proutiere , G. Régnié , J. W. Roberts, Statistical bandwidth sharing: a study of congestion at flow level, Proceedings of the 2001 conference on Applications, technologies, architectures, and protocols for computer communications, p.111-122, August 2001, San Diego, California, USA[doi>10.1145/383059.383068]
+{23} P. J. Brockwell and R. A. Davis,Introduction to Time Series and Forecasting, 2nd ed. New York: Springer-Verlag, 2002.
+Eitan Altman , François Baccelli , Jean-Chrysostome Bolot, Discrete-Time Analysis of Adaptive Rate Control Mechanisms, Proceedings of the IFIP TC6 Task Force/WG6.4 Fifth International Conference on Data Communication Systems and their Performance: High Speed Networks and Their Performance, p.121-140, October 26-18, 1993
+{25} E. Altman, T. Basar, and R. Srikant, "Robust rate control for ABR sources," inProc. IEEE INFOCOM, 1998, vol. 1, pp. 166-173.
+{26} D. Arifler, "Network tomography based on flow level measurements," Ph.D. dissertation, The University of Texas, Austin, 2004.
+Mark E. Crovella , Azer Bestavros, Self-similarity in World Wide Web traffic: evidence and possible causes, IEEE/ACM Transactions on Networking (TON), v.5 n.6, p.835-846, Dec. 1997[doi>10.1109/90.650143]
+Allen B. Downey, The Structural Cause of File Size Distributions, Proceedings of the Ninth International Symposium in Modeling, Analysis and Simulation of Computer and Telecommunication Systems, p.361, August 15-18, 2001
+{29} M. Mitzenmacher, "A brief history of generative models for power law and lognormal distributions," inProc. Allerton Conf. Communications, Control, and Computing, Oct. 2001, pp. 182-191.
+{30} A. C. Rencher,Multivariate Statistical Inference and Applications. New York: Wiley, 1998.
+{31} H. F. Kaiser, "The application of electronic computers to factor analysis,"Educ. Psychol. Meas., vol. 20, pp. 141-151, 1960.
+{32} S. J. Devlin, R. Gnanadesikan, and J. R. Kettenring, "Robust estimation of dispersion matrices and principal components,"J. Amer. Statist. Assoc., vol. 76, no. 374, pp. 354-362, Jun. 1981.
+{33} S. J. Devlin, R. Gnanadesikan, and J. R. Kettenring, "Robust estimation and outlier detection with correlation coefficients,"Biometrika, vol. 62, no. 3, pp. 531-545, 1975.
+{34} D. Efron and R. J. Tibshirani,An Introduction to the Bootstrap. London, U.K.: Chapman & Hall, 1993.
+{35} OPNET Modeler 9.0. OPNET Technologies, Inc. {Online}. Available: http://www.opnet.com
+Vern Paxson, End-to-end routing behavior in the Internet, IEEE/ACM Transactions on Networking (TON), v.5 n.5, p.601-615, Oct. 1997[doi>10.1109/90.649563]
+N. Brownlee , K. C. Claffy, Understanding Internet traffic streams: dragonflies and tortoises, IEEE Communications Magazine, v.40 n.10, p.110-117, October 2002[doi>10.1109/MCOM.2002.1039865]
+{38} Z. V. Lambert, A. R. Wildt, and R. M. Durand, "Approximating confidence intervals for factor loadings,"Multivariate Behavioral Res., vol. 26, no. 3, pp. 421-434, 1991.

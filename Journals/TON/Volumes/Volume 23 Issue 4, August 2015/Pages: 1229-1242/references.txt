@@ -1,0 +1,38 @@
+A. Atlas, Ed., "U-turn alternates for IP/LDP Fast-Reroute," IETF, Internet-Draft, 2006.
+A. Atlas and A. Zinin, Eds., "Basic specification for IP Fast Reroute: Loop-free alternates," IETF, RFC 5286, 2008.
+E. B. Basch, R. Egorov, S. Gringeri, and S. Elby, "Architectural tradeoffs for reconfigurable dense wavelength-division multiplexing systems,"IEEE J. Sel. Topics Quantum Electron., vol. 12, no. 4, pp. 615--626, Jul.--Aug. 2006.
+L. Berger, I. Bryskin, A. Zinin, and R. Coltun, "The OSPF opaque LSA option," IETF, RFC 5250, 2008.
+S. Bryant, C. Filsfils, S. Previdi, and M. Shand, "IP Fast Reroute tunnels," IETF, Internet-Draft, 2007.
+"Cisco IOS XR Routing Configuration Guide,"Cisco Systems, San Jose, CA, USA, 2008.
+Thomas H. Cormen , Charles E. Leiserson , Ronald L. Rivest , Clifford Stein, Introduction to Algorithms, Third Edition, The MIT Press, 2009
+G. Enyedi, P. Szilágyi, G. Rétvári, and A. Császár, "IP fast reroute: Lightweight not-via without additional addresses," inProc. IEEE INFOCOM, 2009, pp. 2771--2775.
+C. Filsfils and P. Francois, "LFA applicability in SP networks," IETF, Internet-Draft, 2011.
+Pierre Francois , Olivier Bonaventure, Avoiding transient loops during the convergence of link-state routing protocols, IEEE/ACM Transactions on Networking (TON), v.15 n.6, p.1280-1292, December 2007[doi>10.1109/TNET.2007.902686]
+P. Francois, O. Bonaventure, M. Shand, S. Bryant, and C. Filsfils, "Loop-free convergence using oFIB," IETF, Internet-Draft, 2011.
+Pierre Francois , Clarence Filsfils , John Evans , Olivier Bonaventure, Achieving sub-second IGP convergence in large IP networks, ACM SIGCOMM Computer Communication Review, v.35 n.3, July 2005[doi>10.1145/1070873.1070877]
+M. Gjoka, V. Ram, and X. Yang, "Evaluation of IP fast reroute proposals," inProc. IEEE COMSWARE, 2007, pp. 1--8.
+M. Goyalet al., "Improving convergence speed and scalability in OSPF: A survey,"IEEE Commun. Surveys Tuts., vol. 14, no. 2, pp. 443--463, 2nd Quart., 2011.
+Jonathan Gross , Jay Yellen, Graph theory and its applications, CRC Press, Inc., Boca Raton, FL, 1999
+"Junos OS Routing Protocols Configuration Guide,"Juniper Networks, Sunnyvale, CA, USA, 2009.
+Shrinivasa Kini , Srinivasan Ramasubramanian , Amund Kvalbein , Audun Fosselie Hansen, Fast recovery from dual-link or single-node failures in IP networks using tunneling, IEEE/ACM Transactions on Networking (TON), v.18 n.6, p.1988-1999, December 2010[doi>10.1109/TNET.2010.2055887]
+P. Lapukhov, "OSPF fast convergence," 2010 {Online}. Available: http://blog.ine.com/2010/06/02/ospf-fast-convergenc
+Ang Li , Xiaowei Yang , David Wetherall, SafeGuard: safe forwarding during route changes, Proceedings of the 5th international conference on Emerging networking experiments and technologies, December 01-04, 2009, Rome, Italy[doi>10.1145/1658939.1658974]
+Michael Menth , Matthias Hartmann , Rüdiger Martin , Tarik ičić , Amund Kvalbein, Loop-free alternates and not-via addresses: A proper combination for IP fast reroute?, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.54 n.8, p.1300-1315, June, 2010[doi>10.1016/j.comnet.2009.10.020]
+Srihari Nelakuditi , Sanghwan Lee , Yinzhe Yu , Zhi-Li Zhang , Chen-Nee Chuah, Fast local rerouting for handling transient link failures, IEEE/ACM Transactions on Networking (TON), v.15 n.2, p.359-372, April 2007[doi>10.1109/TNET.2007.892851]
+Alex Raj , Oliver C. Ibe, A survey of IP and multiprotocol label switching fast reroute schemes, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.51 n.8, p.1882-1907, June, 2007[doi>10.1016/j.comnet.2006.09.010]
+G. Rétvári, J. Tapolcai, G. Enyedi, and A. Császár, "IP fast reroute: Loop free alternates revisited," inProc. IEEE INFOCOM, 2011, pp. 2948--2956.
+G. Robertson, J. Bedenbaugh, and S. Nelakuditi, "Fast convergence with fast reroute in IP networks," inProc. IEEE HPSR, 2010, pp. 100--106.
+Department of Computer Science & Engineering, University of Washington, Seattle, WA, USA, "Rocketfuel: An ISP topology mapping engine," 2003 {Online}. Available: http://www.cs.washington.edu/research/networking/rocketfuel/
+M. Shand and S. Bryant, "IP fast reroute framework," RFC 5714, 2010.
+M. Shand, S. Bryant, and S. Previdi, "IP fast reroute using not-via addresses," IETF, Internet-Draft, 2011.
+J. W. Suurballe, "Disjoint paths in a network,"Networks, vol. 4, no. 2, pp. 125--145, 1974.
+J. W. Suurballe and R. E. Tarjan, "A quick method for finding shortest pairs of disjoint paths,"Networks, vol. 14, pp. 325--336, 1984.
+D. Thaler , C. Hopps, Multipath Issues in Unicast and Multicast Next-Hop Selection, RFC Editor, 2000
+K. Tse, "AT&T's photonic network," inProc. NFOEC, 2008.
+Junling Wang , Srihari Nelakuditi, IP fast reroute with failure inferencing, Proceedings of the 2007 SIGCOMM workshop on Internet network management, August 27-31, 2007, Kyoto, Japan[doi>10.1145/1321753.1321764]
+K. Wang, M. Ali, and J. Deogun, "Multicast routing in 40 Gb/s heterogeneous optical networks," inProc. IEEE ICC, May 2005, vol. 3, pp. 1620--1624.
+K. Xi and H. J. Chao, "IP fast rerouting for single-link/node failure recovery," inProc. IEEE BroadNets, 2007, pp. 142--151.
+Kang Xi , H. Jonathan Chao, IP fast reroute for double-link failure recovery, Proceedings of the 28th IEEE conference on Global telecommunications, p.1035-1042, November 30-December 04, 2009, Honolulu, Hawaii, USA
+Yijun Xiong , Lorne G. Mason, Restoration strategies and spare capacity requirements in self-healing ATM networks, IEEE/ACM Transactions on Networking (TON), v.7 n.1, p.98-110, Feb. 1999[doi>10.1109/90.759330]
+Xiaowei Yang , David Wetherall, Source selectable path diversity via routing deflections, Proceedings of the 2006 conference on Applications, technologies, architectures, and protocols for computer communications, September 11-15, 2006, Pisa, Italy[doi>10.1145/1159913.1159933]
+Z. Zhonget al., "Failure inferencing based fast rerouting for handling transient link and node failures," inProc. IEEE Global Internet Symp., 2005.

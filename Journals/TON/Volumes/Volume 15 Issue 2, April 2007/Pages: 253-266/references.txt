@@ -1,0 +1,21 @@
+{1} Y. Rekhter, T. Li, and S. Hares, "A Border Gateway Protocol 4 (BGP- 4)," RFC 4271, Jan. 2006.
+{2} J. Moy, "OSPF Version 2," RFC 1583, Mar. 1994.
+{3} D. Oran, "OSI IS-IS Intra-Domain Routing Protocol," Internet Engineering Task Force, RFC 1142, Feb. 1990.
+Nick Feamster , Jay Borkenhagen , Jennifer Rexford, Guidelines for interdomain traffic engineering, ACM SIGCOMM Computer Communication Review, v.33 n.5, October 2003[doi>10.1145/963985.963988]
+{5} BGP simulator for ns-2. BGP++ Home Page. Georgia Inst. Technol., Atlanta, 2007 {Online}. Available: http://www.ece.gatech.edu/research/labs/MANIACS/BGP++
+{6} B. Quoitin, C-BGP--An efficient BGP simulator. Université Catholique de Louvain, Belgium, 2007 {Online}. Available: http://cbgp.info.ucl.ac.be/
+{7} Modeling the Global Internet. SSFNet. Renesys, 2007 {Online}. Available: http://www.ssfnet.org/
+Tao Ye , Shivkumar Kalyanaraman, A recursive random search algorithm for large-scale network parameter configuration, Proceedings of the 2003 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 11-14, 2003, San Diego, CA, USA[doi>10.1145/781027.781052]
+{9} How BGP Routers Use the Multi-Exit Discriminator for Best Path Selection. Cisco, 2007 {Online}. Available: http://www.cisco.com/warp/ public/459/37.html
+{10} N. Feamster and J. Rexford, "Network-Wide Prediction of BGP Routes," Georgia Inst. Technol., Atlanta, Tech. Rep. GT-CSS-2006-003.
+Nicholas Greer Feamster , Hari Balakrishnan, Proactive techniques for correct and predictable internet routing, Massachusetts Institute of Technology, Cambridge, MA, 2006
+Nick Feamster , Jared Winick , Jennifer Rexford, A model of BGP routing for network engineering, Proceedings of the joint international conference on Measurement and modeling of computer systems, June 10-14, 2004, New York, NY, USA[doi>10.1145/1005686.1005726]
+Craig Labovitz , Abha Ahuja , Farnam Jahanian, Experimental Study of Internet Stability and Backbone Failures, Proceedings of the Twenty-Ninth Annual International Symposium on Fault-Tolerant Computing, p.278, June 15-18, 1999
+Jennifer Rexford , Jia Wang , Zhen Xiao , Yin Zhang, BGP routing stability of popular destinations, Proceedings of the 2nd ACM SIGCOMM Workshop on Internet measurment, November 06-08, 2002, Marseille, France[doi>10.1145/637201.637232]
+Timothy G. Griffin , Gordon Wilfong, On the correctness of IBGP configuration, Proceedings of the 2002 conference on Applications, technologies, architectures, and protocols for computer communications, August 19-23, 2002, Pittsburgh, Pennsylvania, USA[doi>10.1145/633025.633028]
+{16} N. Feamster and H. Balakrishnan, "Correctness properties for Internet routing," presented at the 43rd Annu. Allerton Conf. Communication, Control, and Computing, Monticello, Il, Sep. 2005.
+Timothy G. Griffin , F. Bruce Shepherd , Gordon Wilfong, The stable paths problem and interdomain routing, IEEE/ACM Transactions on Networking (TON), v.10 n.2, April 2002
+Nick Feamster , Hari Balakrishnan, Detecting BGP configuration faults with static analysis, Proceedings of the 2nd conference on Symposium on Networked Systems Design & Implementation, p.43-56, May 02-04, 2005
+Nick Feamster , Ramesh Johari , Hari Balakrishnan, Implications of autonomy for the expressiveness of policy routing, Proceedings of the 2005 conference on Applications, technologies, architectures, and protocols for computer communications, August 22-26, 2005, Philadelphia, Pennsylvania, USA[doi>10.1145/1080091.1080096]
+Lixin Gao , Jennifer Rexford, Stable internet routing without global coordination, IEEE/ACM Transactions on Networking (TON), v.9 n.6, p.681-692, December 2001[doi>10.1109/90.974523]
+Anja Feldmann , Albert Greenberg , Carsten Lund , Nick Reingold , Jennifer Rexford , Fred True, Deriving traffic demands for operational IP networks: methodology and experience, IEEE/ACM Transactions on Networking (TON), v.9 n.3, p.265-280, June 2001[doi>10.1109/90.929850]

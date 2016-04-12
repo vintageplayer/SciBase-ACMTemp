@@ -1,0 +1,26 @@
+"Traffic management specification version 4.0," ATM Forum, Apr. 1996.
+S. P. Abraham and A. Kumar, "Max-Min fair rate control of ABR connections with nonzero MCRs," in Proc. IEEE Globecom, 1997, pp. 498-502.
+--, "A stochastic approximation approach for max-min fair adaptive rate control of ABR sessions with MCRs," presented at the IEEE Infocom, San Francisco, CA, Mar.-Apr. 1998.
+--, "A simulation study of an adaptive distributed algorithm for max-min fair rate control of ABR sessions," in Proc. CCBR, Ottawa, Canada, June 1998.
+S. P. Abraham, "Asynchronous distributed rate control algorithms for best-effort sessions in integrated services networks with minimum rate guarantees," Ph.D. dissertation, Elect. Commun. Eng. Dept., Indian Inst. of Science, Bangalore, India, Oct. 1998.
+Dimitri Bertsekas , Robert Gallager, Data networks, Prentice-Hall, Inc., Upper Saddle River, NJ, 1987
+F. Bonomi , K. W. Fendick, The rate-based flow control framework for the available bit rate ATM service, IEEE Network: The Magazine of Global Internetworking, v.9 n.2, p.25-39, March 1995[doi>10.1109/65.372653]
+Vivek S. Borkar, Asynchronous Stochastic Approximations, SIAM Journal on Control and Optimization, v.36 n.3, p.840-851, May 1998[doi>10.1137/S0363012995282784]
+A. Charny, "An algorithm for rate allocation in a packet-switching, network with feedback," Master's thesis, Massachusetts Inst. of Technology, Cambridge, May 1994.
+C. Courcoubetis, G. Kesidis, A. Ridder, J. Walrand, and R. Weber, "Admission control and routing in ATM networks using inferences from measured buffer occupancy," IEEE Trans. Commun., vol. 43, pp. 1774-1784, Apr. 1995.
+N.G. Duffield and N. O'ConneU, "Large deviations and overflow probabilities for the general single-server queue, with applications," Proc. Camb. Phil. Soc., vol. 118, pp. 363-374, 1995.
+Anwar I. Elwalid , Debasis Mitra, Effective bandwidth of general Markovian traffic sources and admission control of high speed networks, IEEE/ACM Transactions on Networking (TON), v.1 n.3, p.329-343, June 1993[doi>10.1109/90.234855]
+C. Fulton, S.-Q. Li, and C. S. Lim, "UT: ABR feedback control with tracking," in Proc. IEEE INFOCOM, Apr. 1994, pp. 806-815.
+E.M. Gafni and D. P. Bertsekas, "Dynamic control of session input rates 1EEE/ACM TRANSACTIONS ON NETWORKING, VOL. 9, NO. 1, FEBRUARY 2001
+H. E Hayden, "Voice flow control in integrated packet networks," Master's thesis, Dept. Elect. Eng. Comput. Sci., Massachussetts Inst. of Technology, Cambridge, June 1981.
+Y. T. Hou, H. H.-Y. Tzeng, and V. E Kumar, "On fair rate allocation policies with minimum cell rate guarantees for ABR service in ATM networks," in Proc. ITC'15, Washington, DC, June 1997, pp. 1269-1280.
+Shivkumar Kalyanaraman , Raj Jain , Sonia Fahmy , Rohit Goyal , Bobby Vandalore, The ERICA switch algorithm for ABR traffic management in ATM networks, IEEE/ACM Transactions on Networking (TON), v.8 n.1, p.87-98, Feb. 2000[doi>10.1109/90.836480]
+L. Kalampoukas, A. Varma, and K. K. Ramakrishnan, "An efficient rate allocation algorithm for packet-switched networks providing max-miu fairness,", Prepfint.
+George Kesidis , Jean Walrand , Cheng-Shang Chang, Effective bandwidths for multiclass Markov fluids and other ATM sources, IEEE/ACM Transactions on Networking (TON), v.1 n.4, p.424-428, Aug. 1993[doi>10.1109/90.251894]
+Aleksandar Kolarov , G. Ramamurthy, A Control Theoretic Approach to the Design of Closed Loop Rate Based Flow Control for High Speed ATM Networks, Proceedings of the INFOCOM '97. Sixteenth Annual Joint Conference of the IEEE Computer and Communications Societies. Driving the Information Revolution, p.293, April 09-11, 1997
+Aleksandar Kolarov , G. Ramamurthy, A control-theoretic approach to the design of an explicit rate controller for ABR service, IEEE/ACM Transactions on Networking (TON), v.7 n.5, p.741-753, Oct. 1999[doi>10.1109/90.803387]
+A. Kumar, Adaptive Load Control of the Central Processor in a Distributed System with a Star Topology, IEEE Transactions on Computers, v.38 n.11, p.1502-1512, November 1989[doi>10.1109/12.42120]
+H. J. Kushner and D. S. Clark, Stochastic Approximation Methods for Constrained and Unconstrained Systems. New York: Springer-Verlag, 1978.
+J. Mosley, "Asynchronous distributed flow control algorithms," Ph.D. dissertation, Dept. Elect. Eng. Comput. Sci., Massachusetts Inst. of Technology, Cambridge, June 1984.
+G. de Veciana and J. Walrand, "Effective bandwidths: Call admission, traffic policing and filtering for ATM networks," in Queueing Systems, Theory and Applications: QUESTA, Aug. 1993.
+T.-J. Lee and G. de Veciana, "A decentralised framework to achieve max-min fair bandwidth allocation for ATM networks," in Proc. IEEE Globecom, vol. 3, Sydney, Australia, Nov. 1998, pp. 1515-1520.

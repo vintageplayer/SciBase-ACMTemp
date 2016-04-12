@@ -1,0 +1,26 @@
+David E. Taylor, Survey and taxonomy of packet classification techniques, ACM Computing Surveys (CSUR), v.37 n.3, p.238-275, September 2005[doi>10.1145/1108956.1108958]
+V. Paxson , G. Almes , J. Mahdavi , M. Mathis, Framework for IP Performance Metrics, RFC Editor, 1998
+S. Bradner , J. McQuaid, Benchmarking Methodology for Network Interconnect Devices, RFC Editor, 1999
+{4} G. Trotter, "Methodology for forwarding information base (FIB) based router performance," Internet Draft, Jan. 2002.
+B. Hickman , D. Newman , S. Tadjudin , T. Martin, Benchmarking Methodology for Firewall Performance, RFC Editor, 2003
+{6} P. Chandra, F. Hady, and S. Y. Lim, "Framework for benchmarking network processors," inProc. Netw. Process. Forum, 2002.
+Pankaj Gupta , Nick McKeown, Packet classification on multiple fields, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.147-160, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316217]
+{8} A. Feldmann and S. Muthukrishnan, "Tradeoffs for packet classification," inProc. IEEE INFOCOM, Mar. 2000, pp. 1193-1202.
+{9} P. Gupta and N. McKeown, "Packet classification using hierarchical intelligent cuttings," inProc. Hot Interconnects VII, Aug. 1999, pp. 27-31.
+{10} P. Warkhede, S. Suri, and G. Varghese, "Fast packet classification for 2-D conflict-free filters," inProc. IEEE INFOCOM, 2001, pp. 1434-1443.
+Florin Baboescu , George Varghese, Scalable packet classification, Proceedings of the 2001 conference on Applications, technologies, architectures, and protocols for computer communications, p.199-210, August 2001, San Diego, California, USA[doi>10.1145/383059.383075]
+Florin Baboescu , George Varghese, Fast and Scalable Conflict Detection for Packet Classifiers, Proceedings of the 10th IEEE International Conference on Network Protocols, p.270-279, November 12-15, 2002
+{13} F. Baboescu, S. Singh, and G. Varghese, "Packet classification for core routers: Is there an alternative to CAMs?," inProc. IEEE INFOCOM, 2003, pp. 53-63.
+{14} T. Y. C. Woo, "A modular approach to packet classification: Algorithms and results," inProc. IEEE INFOCOM, Mar. 2000, pp. 1213-1222.
+Comparative Evaluation of Software Implementation of Layer-4 Packet Classification Schemes, Proceedings of the Ninth International Conference on Network Protocols, p.220, November 11-14, 2001
+{16} J. Balkman and P. Gupta, PALAC:Packet Lookup and Classification Simulator, User's Manual, ver. 4, Rev. 1 Oct. 2000.
+{17} D. E. Taylor and J. S. Turner, "ClassBench: A packet classification benchmark," Dept. Comp. Sci. Eng., Washington Univ., St. Louis, Tech. Rep. WUCSE-2004-28, May 2004.
+{18} Cisco, CiscoWorks VPN/Security Management Solution, Cisco Systems, Inc., 2004, Tech. Rep.
+{19} Lucent, Lucent Security Management Server: Security, VPN, and QoS Management Solution, Lucent Technologies Inc., 2004, Tech. Rep.
+{20} K. Park, G. Kim, and M. Crovella, "On the effect of traffic self-similarity on network performance," inProc. 1997 SPIE Int. Conf. Perform. Contr. Netw. Syst., pp. 989-996.
+{21} D. E. Taylor and J. S. Turner, "Scalable packet classification using distributed crossproducting of field labels," inProc. IEEE INFOCOM, Mar. 2005, pp. 269-280.
+Ed Spitznagel , David Taylor , Jonathan Turner, Packet Classification Using Extended TCAMs, Proceedings of the 11th IEEE International Conference on Network Protocols, p.120, November 04-07, 2003
+{23} D. E. Taylor and E. W. Spitznagel, "On using content addressable memory for packet classification," Dept. Comp. Sci. Eng., Washington Univ., Saint Louis, Tech. Rep. WUCSE-2005-9, Mar. 2005.
+{24} Intel Corp., IXP2400 Network Processor, Product Brief, Tech. Rep., 2002.
+Sumeet Singh , Florin Baboescu , George Varghese , Jia Wang, Packet classification using multidimensional cutting, Proceedings of the 2003 conference on Applications, technologies, architectures, and protocols for computer communications, August 25-29, 2003, Karlsruhe, Germany[doi>10.1145/863955.863980]
+V. Srinivasan , S. Suri , G. Varghese, Packet classification using tuple space search, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.135-146, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316216]

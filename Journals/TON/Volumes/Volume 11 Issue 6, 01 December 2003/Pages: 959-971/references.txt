@@ -1,0 +1,20 @@
+{1} R. Braden and V. Jacobson, "TCP extensions for long delay paths," in RFC 1072, Oct. 1988.
+{2} R. Braden, V. Jacobson, and L. Zhang, "TCP extensions for high-speed paths," in RFC 1185, Oct. 1990.
+{3} N. Cardwell, S. Savage, and T. Anderson, "Modeling TCP latency," in Proc. IEEE INFOCOM, Tel Aviv, Israel, Mar. 2000, pp. 1742-1751.
+{4} C. Casetti and M. Meo, "A new approach to model the stationary behavior of TCP connections," in Proc. IEEE INFOCOM, Tel Aviv, Israel, March 2000, pp. 367-375.
+Kevin Fall , Sally Floyd, Simulation-based comparisons of Tahoe, Reno and SACK TCP, ACM SIGCOMM Computer Communication Review, v.26 n.3, p.5-21, July 1996[doi>10.1145/235160.235162]
+S. Floyd , J. Mahdavi , M. Mathis , M. Podolsky, An Extension to the Selective Acknowledgement (SACK) Option for TCP, RFC Editor, 2000
+John Heidemann , Katia Obraczka , Joe Touch, Modeling the performance of HTTP over several transport protocols, IEEE/ACM Transactions on Networking (TON), v.5 n.5, p.616-630, Oct. 1997[doi>10.1109/90.649564]
+V. Jacobson, Congestion avoidance and control, Symposium proceedings on Communications architectures and protocols, p.314-329, August 16-18, 1988, Stanford, California, USA[doi>10.1145/52324.52356]
+{9} V. Jacobson, Modified TCP Congestion Avoidance Algorithm. {Online}. Available: ftp://ftp.ee.lbl.gov/email/vanj.90apr30.txt
+Anurag Kumar, Comparative performance analysis of versions of TCP in a local network with a lossy link, IEEE/ACM Transactions on Networking (TON), v.6 n.4, p.485-498, Aug. 1998[doi>10.1109/90.720921]
+T. V. Lakshman , Upamanyu Madhow, The performance of TCP/IP for networks with high bandwidth-delay products and random loss, IEEE/ACM Transactions on Networking (TON), v.5 n.3, p.336-350, June 1997[doi>10.1109/90.611099]
+Steven H. Low , Larry L. Peterson , Limin Wang, Understanding TCP Vegas: a duality model, Journal of the ACM (JACM), v.49 n.2, p.207-235, March 2002[doi>10.1145/506147.506152]
+Matthew Mathis , Jeffrey Semke , Jamshid Mahdavi , Teunis Ott, The macroscopic behavior of the TCP congestion avoidance algorithm, ACM SIGCOMM Computer Communication Review, v.27 n.3, p.67-82, July 1997[doi>10.1145/263932.264023]
+Matthew Mathis , Jamshid Mahdavi, Forward acknowledgement: refining TCP congestion control, Conference proceedings on Applications, technologies, architectures, and protocols for computer communications, p.281-291, August 28-30, 1996, Palo Alto, California, USA[doi>10.1145/248156.248181]
+M. Mathis , J. Mahdavi , S. Floyd , A. Romanow, TCP Selective Acknowledgement Options, RFC Editor, 1996
+{16} R. Morris, "Scalable TCP congestion control," in Proc. IEEE INFOCOM , Tel-Aviv, Israel, Mar. 2000, pp. 1176-1183.
+{17} T. Ott, J. H. B. Kemperman, and M. Mathis. (1996) The Stationary Behavior of Ideal TCP Congestion Avoidance. {Online}. Available: ftp://ftp.bellcore.com/pub/tjo/TCPwindow.ps
+Jitendra Padhye , Victor Firoiu , Donald F. Towsley , James F. Kurose, Modeling TCP Reno performance: a simple model and its empirical validation, IEEE/ACM Transactions on Networking (TON), v.8 n.2, p.133-145, April 2000[doi>10.1109/90.842137]
+Biplab Sikdar , S. Kalyanaraman , Kenneth S. Vastola, An integrated model for the latency and steady-state throughput of TCP connections, Performance Evaluation, v.46 n.2-3, p.139-154, October 2001[doi>10.1016/S0166-5316(01)00048-7]
+{20} W. R. Stevens, TCP/IP Illustrated. Reading, MA: Addison-Wesley, 1994, vol. 1.

@@ -1,0 +1,23 @@
+C. Alaettinoglu , C. Villamizar , E. Gerich , D. Kessens , D. Meyer , T. Bates , D. Karrenberg , M. Terpstra, Routing Policy Specification Language (RPSL), RFC Editor, 1999
+{2} Randy Bush, May 2004, private communication.
+{3} N. Feamster and H. Balakrishnan, "Correctness properties for Internet routing," presented at the 43rd Annu. Allerton Conf. Communication, Control, and Computing, Monticello, IL, Sep. 2005.
+Nick Feamster , Jay Borkenhagen , Jennifer Rexford, Guidelines for interdomain traffic engineering, ACM SIGCOMM Computer Communication Review, v.33 n.5, October 2003[doi>10.1145/963985.963988]
+{5} N. Feamster, R. Johari, and H. Balakrishnan, "Stable policy routing with provider independence," Mass. Inst. of Technol., Tech. Rep. MITLCS-TR-981, Feb. 2005 {Online}. Available: http://www.lcs.mit.edu/ publications/specpub.php?id=1715
+Nick Feamster , Ramesh Johari , Hari Balakrishnan, Implications of autonomy for the expressiveness of policy routing, ACM SIGCOMM Computer Communication Review, v.35 n.4, October 2005[doi>10.1145/1090191.1080096]
+Joan Feigenbaum , Rahul Sami , Scott Shenker, Mechanism design for policy routing, Proceedings of the twenty-third annual ACM symposium on Principles of distributed computing, July 25-28, 2004, St. John's, Newfoundland, Canada[doi>10.1145/1011767.1011770]
+{8} L Gao, T. G. Griffin, and J. Rexford, "Inherently safe backup routing with BGP," inProc. IEEE INFOCOM, Anchorage, AK, Apr. 2001, pp. 547-556.
+Lixin Gao , Jennifer Rexford, Stable internet routing without global coordination, IEEE/ACM Transactions on Networking (TON), v.9 n.6, p.681-692, December 2001[doi>10.1109/90.974523]
+Mohamed G. Gouda , Marco Schneider, Maximizable routing metrics, IEEE/ACM Transactions on Networking (TON), v.11 n.4, p.663-675, August 2003[doi>10.1109/TNET.2003.815294]
+R. Govindan , C. Alaettinoglu , G. Eddy , D. Kessens , S. Kumar , Wee-San Lee, An architecture for stable, analyzable Internet routing, IEEE Network: The Magazine of Global Internetworking, v.13 n.1, p.29-35, January 1999[doi>10.1109/65.750447]
+Ramesh Govindan , Cengiz Alaettinoğlu , Kannan Varadhan , Deborah Estrin, Route servers for inter-domain routing, Computer Networks and ISDN Systems, v.30 n.12, p.1157-1174, July 13, 1998[doi>10.1016/S0169-7552(98)00008-7]
+Timothy G. Griffin , Aaron D. Jaggard , Vijay Ramachandran, Design principles of policy languages for path vector protocols, Proceedings of the 2003 conference on Applications, technologies, architectures, and protocols for computer communications, August 25-29, 2003, Karlsruhe, Germany[doi>10.1145/863955.863964]
+Timothy G. Griffin , F. Bruce Shepherd , Gordon Wilfong, The stable paths problem and interdomain routing, IEEE/ACM Transactions on Networking (TON), v.10 n.2, April 2002
+Timothy G. Griffin , Joäo Luís Sobrinho, Metarouting, Proceedings of the 2005 conference on Applications, technologies, architectures, and protocols for computer communications, August 22-26, 2005, Philadelphia, Pennsylvania, USA[doi>10.1145/1080091.1080094]
+{16} T. Griffin and G. Wilfong, "A safe path vector protocol," inProc. IEEE INFOCOM, Tel Aviv, Israel, Mar. 2000, pp. 490-499.
+Timothy G. Griffin , Gordon Wilfong, On the correctness of IBGP configuration, Proceedings of the 2002 conference on Applications, technologies, architectures, and protocols for computer communications, August 19-23, 2002, Pittsburgh, Pennsylvania, USA[doi>10.1145/633025.633028]
+Aaron D. Jaggard , Vijay Ramachandran, Robustness of Class-Based Path-Vector Systems, Proceedings of the 12th IEEE International Conference on Network Protocols, p.84-93, October 05-08, 2004
+{19} S. Machiraju and R. Katz, "Verifying global invariants in multiprovider distributed systems," inProc. 3rd ACM Workshop on Hot Topics in Networks (Hotnets-III), San Diego, CA, Nov. 2004, pp. 149-154.
+João Luis Sobrinho, Network routing with path vector protocols: theory and applications, Proceedings of the 2003 conference on Applications, technologies, architectures, and protocols for computer communications, August 25-29, 2003, Karlsruhe, Germany[doi>10.1145/863955.863963]
+João Luís Sobrinho, An algebraic theory of dynamic network routing, IEEE/ACM Transactions on Networking (TON), v.13 n.5, p.1160-1173, October 2005[doi>10.1109/TNET.2005.857111]
+{22} K. Varadhan, R. Govindan, and D. Estrin, "Persistent route oscillations in inter-domain routing," USC/ISI, Tech. Rep. 96-631, Feb. 1996.
+{23} K. Varadhan, R. Govindan, and D. Estrin, "Persistent route oscillations in inter-domain routing,"Computer Networks, vol. 32, no. 1, pp. 1-16, 2000.

@@ -1,0 +1,36 @@
+A. Mondal and A. Kuzmanovic, "When TCP friendliness becomes harmful," inProc. IEEE INFOCOM, Anchorage, AK, May 2007, pp. 152-160.
+The War between Mice and Elephants, Proceedings of the Ninth International Conference on Network Protocols, p.180, November 11-14, 2001
+V. Paxson and M. Allman, "Computing TCP's retransmission timer," Internet RFC 2988, 2000.
+Long Le , Jay Aikat , Kevin Jeffay , F. Donelson Smith, Differential Congestion Notification: Taming the Elephants, Proceedings of the 12th IEEE International Conference on Network Protocols, p.118-128, October 05-08, 2004
+W. Noureddine and F. Tobagi, "Improving the performance of interactive TCP applications using service differentiation," inProc. IEEE INFOCOM, New York, Jun. 2002, vol. 1, pp. 31-40.
+"Which ports are used by computer games?," {Online}. Available: http://www.u.arizona.edu/ trw/games/ports.htm
+R. Fielding, J. Gettys, J. Mogul, H. Frystyk, L. Masinter, P. Leach, and T. Berners-Lee, "Hypertext transfer protocol--HTTP/1.1," Internet RFC 2616, 1999.
+M. Handley, J. Padhye, and S. Floyd, "TCP congestion window validation," Internet RFC 2861, 2000.
+Peter A. Dinda , Gokhan Memik , Robert P. Dick , Bin Lin , Arindam Mallik , Ashish Gupta , Samuel Rossoff, The user in experimental computer systems research, Proceedings of the 2007 workshop on Experimental computer science, p.10-es, June 13-14, 2007, San Diego, California[doi>10.1145/1281700.1281710]
+S. McCreary and K. Claffy, "Trends in wide area IP traffic patterns--A viewfrom Ames Internet exchange," inProc. 13th ITC Special Seminar Internet Traffic Meas. Model., 2000 {Online}. Available: http://www. caida.org/publications/papers/2000/AIX0005/
+Thomas Karagiannis , Konstantina Papagiannaki , Michalis Faloutsos, BLINC: multilevel traffic classification in the dark, Proceedings of the 2005 conference on Applications, technologies, architectures, and protocols for computer communications, August 22-26, 2005, Philadelphia, Pennsylvania, USA[doi>10.1145/1080091.1080119]
+Parveen Patel , Andrew Whitaker , David Wetherall , Jay Lepreau , Tim Stack, Upgrading transport protocols using untrusted mobile code, Proceedings of the nineteenth ACM symposium on Operating systems principles, October 19-22, 2003, Bolton Landing, NY, USA[doi>10.1145/945445.945447]
+Controlling High-Bandwidth Flows at the Congested Router, Proceedings of the Ninth International Conference on Network Protocols, p.192, November 11-14, 2001
+Aleksandar Kuzmanovic , Edward W. Knightly, A Performance vs. Trust Perspective in the Design of End-Point Congestion Control Protocols, Proceedings of the 12th IEEE International Conference on Network Protocols, p.96-107, October 05-08, 2004
+E. Brosh, G. Lubetzky-Sharon, and Y. Shavitt, "Spatial-temporal analysis of passive TCP measurements," inProc. IEEE INFOCOM, Miami, FL, Mar. 2005, vol. 2, pp. 949-959.
+N. Cardwell, S. Savage, and T. Anderson, "Modeling TCP latency," inProc. IEEE INFOCOM, Tel Aviv, Israel, Mar. 2000, vol. 3, pp. 1742-1751.
+B. Kim and J. Lee, "Retransmission loss recovery by duplicate acknowledgement counting,"IEEE Commun. Lett., vol. 8, no. 1, pp. 69-71, Jan. 2004.
+Jitendra Padhye , Victor Firoiu , Donald F. Towsley , James F. Kurose, Modeling TCP Reno performance: a simple model and its empirical validation, IEEE/ACM Transactions on Networking (TON), v.8 n.2, p.133-145, April 2000[doi>10.1109/90.842137]
+Mark Allman , Vern Paxson, On estimating end-to-end network path properties, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.263-274, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316230]
+Long Le , Jay Aikat , Kevin Jeffay , F. Donelson Smith, The effects of active queue management on web performance, Proceedings of the 2003 conference on Applications, technologies, architectures, and protocols for computer communications, August 25-29, 2003, Karlsruhe, Germany[doi>10.1145/863955.863986]
+Aleksandar Kuzmanovic, The power of explicit congestion notification, Proceedings of the 2005 conference on Applications, technologies, architectures, and protocols for computer communications, August 22-26, 2005, Philadelphia, Pennsylvania, USA[doi>10.1145/1080091.1080100]
+R. Morris, TCP behavior with many flows, Proceedings of the 1997 International Conference on Network Protocols (ICNP '97), p.205, October 28-31, 1997
+F. Donelson Smith , Félix Hernández Campos , Kevin Jeffay , David Ott, What TCP/IP protocol headers can tell us about the web, Proceedings of the 2001 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.245-256, June 2001, Cambridge, Massachusetts, USA[doi>10.1145/378420.378789]
+Johannes Färber, Network game traffic modelling, Proceedings of the 1st workshop on Network and system support for games, p.53-57, April 16-17, 2002, Braunschweig, Germany[doi>10.1145/566500.566508]
+P. Danzig and S. Jamin, "tcplib: A Library of Internetwork Traffic Characteristics," USC Comput. Sci. Dept., USC Tech. Rep. CS-SYS-91-01, 1991.
+V. Jacobson, Congestion avoidance and control, Symposium proceedings on Communications architectures and protocols, p.314-329, August 16-18, 1988, Stanford, California, USA[doi>10.1145/52324.52356]
+M. Allman, S. Floyd, and C. Partridge, "Increasing TCP's initial window," Internet RFC 3390, 2002.
+Marco Mellia , Michela Meo , Claudio Casetti, TCP smart framing: a segmentation algorithm to reduce TCP latency, IEEE/ACM Transactions on Networking (TON), v.13 n.2, p.316-329, April 2005[doi>10.1109/TNET.2005.846901]
+Wesley M. Eddy , Mark Allman, A comparison of RED's byte and packet modes, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.42 n.2, p.261-280, 5 June 2003[doi>10.1016/S1389-1286(03)00195-6]
+Vern Paxson, End-to-end internet packet dynamics, IEEE/ACM Transactions on Networking (TON), v.7 n.3, p.277-292, June 1999[doi>10.1109/90.779192]
+M. Allman, H. Balakrishnan, and S. Floyd, "Enhancing TCP's loss recovery using limited retransmit," Internet RFC 3042, 2001.
+M. Allman, K. Avrachenkov, U. Ayesta, and J. Blanton, "Early retransmit for TCP and STCP," IETF Internet Draft, 2006.
+Venkata Narayana Padmanabhan , Randy H. Katz, Addressing the challenges of web data transport, University of California, Berkeley, 1998
+S. Yang and G. de Veciana, "Size-based adaptive bandwidth allocation: Optimizing the average QoS for elastic flows," inProc. IEEE INFOCOM, New York, Jun. 2002, vol. 2, pp. 657-666.
+Stefan Savage , Neal Cardwell , Tom Anderson, The Case for Informed Transport Protocols, Proceedings of the The Seventh Workshop on Hot Topics in Operating Systems, p.58, March 28-30, 1999
+Thomas Anderson , Andrew Collins , Arvind Krishnamurthy , John Zahorjan, PCP: efficient endpoint congestion control, Proceedings of the 3rd conference on Networked Systems Design & Implementation, p.15-15, May 08-10, 2006, San Jose, CA

@@ -1,0 +1,38 @@
+V. Jacobson, "Traceroute," 2000 [Online]. Available: ftp://ftp.ee.lbl. gov/traceroute.tar.gz
+K. Claffy, T. Monk, and D. McRobb, "Internet tomography,"Nature Web Matters, Jan. 1999 [Online]. Available: http://www.nature.com/ nature/webmatters/tomog/tomog.html
+Neil Spring , David Wetherall , Tom Anderson, Scriptroute: a public internet measurement facility, Proceedings of the 4th conference on USENIX Symposium on Internet Technologies and Systems, p.17-17, March 26-28, 2003, Seattle, WA
+Neil Spring , Ratul Mahajan , David Wetherall, Measuring ISP topologies with rocketfuel, Proceedings of the 2002 conference on Applications, technologies, architectures, and protocols for computer communications, August 19-23, 2002, Pittsburgh, Pennsylvania, USA
+Yuval Shavitt , Eran Shir, DIMES: let the internet measure itself, ACM SIGCOMM Computer Communication Review, v.35 n.5, October 2005
+Jean-Jacques Pansiot , Dominique Grad, On routes and multicast trees in the Internet, ACM SIGCOMM Computer Communication Review, v.28 n.1, p.41-50, Jan. 1998
+M. H. Gunes and K. Sarac, "Importance of IP alias resolution in sampling Internet topologies," inProc. IEEE Global Internet Symp., May 2007, pp. 19-24.
+Bradley Huffaker , Amogh Dhamdhere , Marina Fomenkov , Kc Claffy, Toward topology dualism: improving the accuracy of AS annotations for routers, Proceedings of the 11th international conference on Passive and active measurement, p.101-110, April 07-09, 2010, Zurich, Switzerland
+B. Huffaker, M. Fomenkov, and K. Claffy, "Geocompare: A comparison of public and commercial geolocation databases," inProc. NMMC, May 2011 [Online]. Available: http://www.caida. org/publications/papers/2011/geocompare-tr/
+K. Keys, "IP alias resolution techniques," 2008 [Online]. Available: http://www.caida.org/publications/papers/2008/ alias_resolution_techreport/
+R. Govindan and H. Tangmunarunkit, "Heuristics for Internet map discovery," inProc. IEEE INFOCOM, Mar. 2000, vol. 3, pp. 1371-1380.
+K. Keys, "iffinder tool," 2000 [Online]. Available: http://www.caida. org/tools/measurement/iffinder/
+N. Spring, M. Dontcheva, M. Rodrig, and D. Wetherall, "How to resolve IP aliases," 2004.
+M. H. Gunes and K. Sarac, "Analytical IP alias resolution," inProc. IEEE ICC, Jun. 2006, vol. 1, pp. 459-464.
+M.H. Gunes and K. Sarac, "Resolving IP aliases in building traceroute-based Internet maps," 2006.
+Rob Sherwood , Adam Bender , Neil Spring, Discarte: a disjunctive internet cartographer, Proceedings of the ACM SIGCOMM 2008 conference on Data communication, August 17-22, 2008, Seattle, WA, USA
+Adam Bender , Rob Sherwood , Neil Spring, Fixing ally's growing pains with velocity modeling, Proceedings of the 8th ACM SIGCOMM conference on Internet measurement, October 20-22, 2008, Vouliagmeni, Greece
+Justine Sherry , Ethan Katz-Bassett , Mary Pimenova , Harsha V. Madhyastha , Thomas Anderson , Arvind Krishnamurthy, Resolving IP aliases with prespecified timestamps, Proceedings of the 10th ACM SIGCOMM conference on Internet measurement, November 01-30, 2010, Melbourne, Australia
+P. Mérindol, B. Donnet, J. Pansiot, M. Luckie, and Y. Hyun, "MERLIN: MEasure the Router Level of the INternet," inProc. Conf. Next Generation Internet, Jun. 2011, pp. 85-92.
+Jean-Jacques Pansiot , Pascal Mérindol , Benoit Donnet , Olivier Bonaventure, Extracting intra-domain topology from mrinfo probing, Proceedings of the 11th international conference on Passive and active measurement, p.81-90, April 07-09, 2010, Zurich, Switzerland
+Y. Hyun, "Archipelago measurement infrastructure," 2012 [Online]. Available: http://www.caida.org/projects/ark/
+"Scriptroute source code," 2007 [Online]. Available: http://www.scriptroute. org/source/scriptroute-0.4.8.tar.gz
+R. Elz , R. Bush, Serial Number Arithmetic, RFC Editor, 1996
+"RadarGun source code," [Online]. Available: http://www.cs.umd.edu/ ~bender/radargun/radargun-0.3.tgz
+Brice Augustin , Xavier Cuvellier , Benjamin Orgogozo , Fabien Viger , Timur Friedman , Matthieu Latapy , Clémence Magnien , Renata Teixeira, Avoiding traceroute anomalies with Paris traceroute, Proceedings of the 6th ACM SIGCOMM conference on Internet measurement, October 25-27, 2006, Rio de Janeriro, Brazil
+J. Aweya, "IP router architectures: an overview,"Int. J. Commun. Syst., pp. 447-475, 2001.
+Cisco, San Jose, CA, "Cisco IOS release 12.0 network protocols command reference," 1992 [Online]. Available: http://www. cisco.com/en/US/docs/ios/12_0/np1/command/reference/1rip. html#wp1028904
+Darryl Veitch , Julien Ridoux , Satish Babu Korada, Robust synchronization of absolute and difference clocks over networks, IEEE/ACM Transactions on Networking (TON), v.17 n.2, p.417-430, April 2009
+Julien Ridoux , Darryl Veitch, Principles of robust timing over the internet, Communications of the ACM, v.53 n.5, May 2010
+CAIDA, San Diego, CA, "The IPv4 routed /24 topology dataset," 2011 [Online]. Available: http://www.caida.org/data/active/ ipv4_routed_24_topology_dataset.xml
+"CaNET," 2011 [Online]. Available: https://amidala.canet4.net/cgibin/reports.pl
+D. Newcomb,Private Communication.2011, CENIC, La Mirada, CA.
+GÉANT, Cambridge, U.K., "GÉANT tools portal," [Online]. Available: http://stats.geant2.net/lg/
+"I-Light router proxy," 2011 [Online]. Available: http://routerproxy. grnoc.iu.edu/ilight/
+"Internet2 router proxy," 2011 [Online]. Available: http://routerproxy. grnoc.iu.edu/internet2/
+"NLR router proxy," 2011 [Online]. Available: http:// routerproxy.grnoc.iu.edu/nlr/
+CAIDA, San Diego, CA, "Macroscopic Internet topology data kit (ITDK)," 2011 [Online]. Available: http://www.caida.org/ data/active/internet-topology-data-kit/
+CAIDA, San Diego, CA, "MIDAR," 2011 [Online]. Available: http:// www.caida.org/tools/measurement/midar/

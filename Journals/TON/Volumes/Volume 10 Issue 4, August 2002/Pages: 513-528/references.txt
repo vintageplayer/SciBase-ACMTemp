@@ -1,0 +1,34 @@
+S. Athuraliya , S. H. Low , V. H. Li , Qinghe Yin, REM: active queue management, IEEE Network: The Magazine of Global Internetworking, v.15 n.3, p.48-53, May 2001[doi>10.1109/65.923940]
+Burton H. Bloom, Space/time trade-offs in hash coding with allowable errors, Communications of the ACM, v.13 n.7, p.422-426, July 1970[doi>10.1145/362686.362692]
+B. Braden , D. Clark , J. Crowcroft , B. Davie , S. Deering , D. Estrin , S. Floyd , V. Jacobson , G. Minshall , C. Partridge , L. Peterson , K. Ramakrishnan , S. Shenker , J. Wroclawski , L. Zhang, Recommendations on Queue Management and Congestion Avoidance in the Internet, RFC Editor, 1998
+K. Cho, "A framework for alternate queueing: Toward traffic management by PC-UNIX based routers," in USENIX Annu. Tech. Conf., June 1998, pp. 247-258.
+Israel Cidon , Roch Guérin , Asad Khamisy, On protective buffer policies, IEEE/ACM Transactions on Networking (TON), v.2 n.3, p.240-246, June 1994[doi>10.1109/90.311616]
+S. Doran, "RED experience and differentiated queueing," presented at the North American Network Operators' Group (NANOG) Meeting, Dearborn, MI, June 1998.
+K. Fall and S. Floyd. (1997, Feb.) Router mechanisms to support end-to-end congestion control. {Online}. Available: ftp://ftp.ee.lbl.gov/papers/collapse.ps
+W. Feng, D. Kandlur, D. Saha, and K. G. Shin, "Techniques for eliminating packet loss in congested TCP/IP networks," Univ. Michigan, Ann Arbor, MI, Tech. Rep. UM CSE-TR-349-97, Oct. 1997.
+W. Feng, "A self-configuring RED gateway," in Proc. IEEE INFOCOM, Mar. 1999, pp. 1320-1328.
+W. Feng, D. Kandlur, D. Saha, and K. G. Shin, "Blue: A new class of active queue management algorithms," Univ. Michigan, Ann Arbor, MI, Tech. Rep. UM CSE-TR-387-99, Apr. 1999.
+W. Feng, "Stochastic fair BLUE: A queue management algorithm for enforcing fairness," in Proc. IEEE INFOCOM, Apr. 2001, pp. 1520-1529.
+Sally Floyd, TCP and explicit congestion notification, ACM SIGCOMM Computer Communication Review, v.24 n.5, p.8-23, Oct. 1994[doi>10.1145/205511.205512]
+S. Floyd and V. Jacobson, "On traffic phase effects in packet-switched gateways," Internetworking: Research and Experience, vol. 3, no. 3, pp. 115-156, Sept. 1992.
+Sally Floyd , Van Jacobson, Random early detection gateways for congestion avoidance, IEEE/ACM Transactions on Networking (TON), v.1 n.4, p.397-413, Aug. 1993[doi>10.1109/90.251892]
+Sally Floyd , Van Jacobson, Link-sharing and resource management models for packet networks, IEEE/ACM Transactions on Networking (TON), v.3 n.4, p.365-386, Aug. 1995[doi>10.1109/90.413212]
+R. Guérin , S. Kamat , V. Peris , R. Rajan, Scalable QoS provision through buffer management, Proceedings of the ACM SIGCOMM '98 conference on Applications, technologies, architectures, and protocols for computer communication, p.29-40, August 31-September 04, 1998, Vancouver, British Columbia, Canada[doi>10.1145/285237.285254]
+C. Hollot, V. Misra, D. Towsley, and W. Gong, "On designing improved controllers for aqm routers supporting TCP flows," in Proc. IEEE INFOCOM, Apr. 2001, pp. 1726-1734.
+IEEE 802.11 Standard, June 1997.
+V. Jacobson, Congestion avoidance and control, Symposium proceedings on Communications architectures and protocols, p.314-329, August 16-18, 1988, Stanford, California, USA[doi>10.1145/52324.52356]
+Srisankar Kunniyur , R. Srikant, Analysis and design of an adaptive virtual queue (AVQ) algorithm for active queue management, Proceedings of the 2001 conference on Applications, technologies, architectures, and protocols for computer communications, p.123-134, August 2001, San Diego, California, USA[doi>10.1145/383059.383069]
+Will E. Leland , Murad S. Taqqu , Walter Willinger , Daniel V. Wilson, On the self-similar nature of Ethernet traffic (extended version), IEEE/ACM Transactions on Networking (TON), v.2 n.1, p.1-15, Feb. 1994[doi>10.1109/90.282603]
+Dong Lin , Robert Morris, Dynamics of random early detection, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.127-137, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263154]
+S. McCanne and S. Floyd. (1996) ns-LBNL Network Simulator. {Online}. Available: http://www.-nrg.ee.lbl.gov/ns/
+P. McKenney, "Stochastic fairness queueing," in Proc. IEEE INFOCOM, Mar. 1990, pp. 733-740.
+R. Morris, TCP behavior with many flows, Proceedings of the 1997 International Conference on Network Protocols (ICNP '97), p.205, October 28-31, 1997
+(1998). Netperf. {Online}. Available: http://www.netperf.org/
+T. Ott, T. Lakshman, and L. Gong, "SRED: Stabilized RED," in Proc. IEEE INFOCOM, Mar. 1999, pp. 1346-1355.
+Vern Paxson, End-to-end Internet packet dynamics, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.139-152, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263155]
+Vern Paxson , Sally Floyd, Wide-area traffic: the failure of Poisson modeling, Proceedings of the conference on Communications architectures, protocols and applications, p.257-268, August 31-September 02, 1994, London, United Kingdom[doi>10.1145/190314.190338]
+K. K. Ramakrishnan , Raj Jain, A binary feedback scheme for congestion avoidance in computer networks, ACM Transactions on Computer Systems (TOCS), v.8 n.2, p.158-181, May 1990[doi>10.1145/78952.78955]
+K. Ramakrishnan , S. Floyd, A Proposal to add Explicit Congestion Notification (ECN) to IP, RFC Editor, 1999
+B. Suter, T. V. Lakshman, D. Stiliadis, and A. Choudhury, "Design considerations for supporting TCP with per-flow queueing," in Proc. IEEE INFOCOM, Mar. 1998, pp. 299-306.
+Vijay K. Garg , Kenneth Smolik , Joseph E. Wilkes, Applications of CDMA in wireless/personal communications, Prentice-Hall, Inc., Upper Saddle River, NJ, 1997
+Curtis Villamizar , Cheng Song, High performance TCP in ANSNET, ACM SIGCOMM Computer Communication Review, v.24 n.5, p.45-60, Oct. 1994[doi>10.1145/205511.205520]

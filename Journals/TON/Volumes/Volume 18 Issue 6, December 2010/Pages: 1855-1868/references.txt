@@ -1,0 +1,47 @@
+A. Perrig, R. Canetti, D. Song, and J. Tygar, "Efficient and secure source authentication for multicast," inProc. NDSS, 2001, pp. 35-46.
+A. Perrig, D. Song, R. Canetti, J. D. Tygar, and B. Briscoe, "Timed efficient stream loss-tolerant authentication (TESLA): Multicast source authentication transform introduction," RFC 4082, June 2005.
+Chung Kei Wong , Simon S. Lam, Digital signatures for flows and multicasts, IEEE/ACM Transactions on Networking (TON), v.7 n.4, p.502-513, Aug. 1999[doi>10.1109/90.793005]
+N. Kang and C. Ruland, "DiffSig: Differentiated digital signature for real-time multicast packet flows," inProc. Trust Privacy Digital Business, 2004, LNCS 3184, pp. 251-260.
+David J. Malan , Matt Welsh , Michael D. Smith, Implementing public-key infrastructure for sensor networks, ACM Transactions on Sensor Networks (TOSN), v.4 n.4, p.1-23, August 2008[doi>10.1145/1387663.1387668]
+D. Berbecaru, "On measuring SSL-based secure data transfer with handheld devices," inProc. 2nd Int. Symp. Wireless Commun. Syst., Sep. 2005, pp. 409-413.
+European Network of Excellence in Cryptology II, "ECRYPT2 yearly report on algorithms and keysizes (2008-2009)," Jul. 31, 2009 {Online}. Available: http://www.ecrypt.eu.org/documents/D.SPA.7.pdf
+Dan Boneh , Glenn Durfee , Matthew K. Franklin, Lower Bounds for Multicast Message Authentication, Proceedings of the International Conference on the Theory and Application of Cryptographic Techniques: Advances in Cryptology, p.437-452, May 06-10, 2001
+R. Canetti, J. Garay, G. Itkis, D. Micciancio, M. Naor, and B. Pinkas, "Multicast security: A taxonomy and some efficient constructions," inProc. IEEE INFOCOM, Mar. 1999, vol. 2, pp. 708-716.
+Adrian Perrig , J. D. Tygar , Dawn Song , Ran Canetti, Efficient Authentication and Signing of Multicast Streams over Lossy Channels, Proceedings of the 2000 IEEE Symposium on Security and Privacy, p.56, May 14-17, 2000
+P. Golle and N. Modadugu, "Authenticating streamed data in the presence of random packet loss," inProc. NDSS, 2001, pp. 13-22.
+Sara Miner , Jessica Staddon, Graph-Based Authentication of Digital Streams, Proceedings of the 2001 IEEE Symposium on Security and Privacy, p.232, May 14-16, 2001
+Rosario Gennaro , Pankaj Rohatgi, How to Sign Digital Streams, Proceedings of the 17th Annual International Cryptology Conference on Advances in Cryptology, p.180-197, August 17-21, 1997
+Pankaj Rohatgi, A compact and fast hybrid signature scheme for multicast packet authentication, Proceedings of the 6th ACM conference on Computer and communications security, p.93-100, November 01-04, 1999, Kent Ridge Digital Labs, Singapore[doi>10.1145/319709.319722]
+A. Pannetrat and R. Molva, "Efficient multicast packet authentication," inProc. NDSS, 2003.
+Jung Min Park , Edwin K.  P. Chong , Howard Jay Siegel, Efficient Multicast Packet Authentication Using Signature Amortization, Proceedings of the 2002 IEEE Symposium on Security and Privacy, p.227, May 12-15, 2002
+Adrian Perrig, The BiBa one-time signature and broadcast authentication protocol, Proceedings of the 8th ACM conference on Computer and Communications Security, November 05-08, 2001, Philadelphia, PA, USA[doi>10.1145/501983.501988]
+Q. Wang, H. Khurana, Y. Huang, and K. Nahrstedt, "Time valid one-time signature for time-critical multicast data authentication," inProc. IEEE INFOCOM, 2009, pp. 1233-1241.
+Mihir Bellare , Sara K. Miner, A Forward-Secure Digital Signature Scheme, Proceedings of the 19th Annual International Cryptology Conference on Advances in Cryptology, p.431-448, August 15-19, 1999
+Michel Abdalla , Leonid Reyzin, A New Forward-Secure Digital Signature Scheme, Proceedings of the 6th International Conference on the Theory and Application of Cryptology and Information Security: Advances in Cryptology, p.116-129, December 03-07, 2000
+Gene Itkis , Leonid Reyzin, Forward-Secure Signatures with Optimal Signing and Verifying, Proceedings of the 21st Annual International Cryptology Conference on Advances in Cryptology, p.332-354, August 19-23, 2001
+Tal Malkin , Daniele Micciancio , Sara K. Miner, Efficient Generic Forward-Secure Signatures with an Unbounded Number Of Time Periods, Proceedings of the International Conference on the Theory and Applications of Cryptographic Techniques: Advances in Cryptology, p.400-417, May 02, 2002
+R. L. Rivest , A. Shamir , L. Adleman, A method for obtaining digital signatures and public-key cryptosystems, Communications of the ACM, v.21 n.2, p.120-126, Feb. 1978[doi>10.1145/359340.359342]
+Xavier Boyen , Hovav Shacham , Emily Shen , Brent Waters, Forward-secure signatures with untrusted update, Proceedings of the 13th ACM conference on Computer and communications security, October 30-November 03, 2006, Alexandria, Virginia, USA[doi>10.1145/1180405.1180430]
+Benoît Libert , Jean-Jacques Quisquater , Moti Yung, Forward-secure signatures in untrusted update environments: efficient and generic constructions, Proceedings of the 14th ACM conference on Computer and communications security, November 02-October 31, 2007, Alexandria, Virginia, USA[doi>10.1145/1315245.1315279]
+Digital Signature Standard (DSS), NIST FIPS 186-3, 2006.
+"Public key cryptography for the financial services industry, the Elliptic Curve Digital Signature Algorithm (ECDSA) ANSI X9.62, 2005.
+Ralph Charles Merkle, Secrecy, authentication, and public key systems., Stanford University, Stanford, CA, 1979
+Eric Cronin , Sugih Jamin , Tal Malkin , Patrick McDaniel, On the performance, feasibility, and use of forward-secure signatures, Proceedings of the 10th ACM conference on Computer and communications security, October 27-30, 2003, Washington D.C., USA[doi>10.1145/948109.948130]
+E. Cronin, "Libfss 0.2.0 library" {Online}. Available: http://fuji.cis. upenn.edu/wiki/Main/Signatures
+"OpenSSL library" {Online}. Available: http://www.openssl.org
+Secure Hash Standard (SHS), NIST FIPS 180-2, 2004.
+Diana Berbecaru , Luca Albertalli, An Optimized Double Cache Technique for Efficient Use of Forward-secure Signature Schemes, Proceedings of the 16th Euromicro Conference on Parallel, Distributed and Network-Based Processing (PDP 2008), p.581-589, February 13-15, 2008[doi>10.1109/PDP.2008.64]
+Diana Berbecaru , Luca Albertalli, On the Performance and Use of a Space-Efficient Merkle Tree Traversal Algorithm in Real-Time Applications for Wireless and Sensor Networks, Proceedings of the 2008 IEEE International Conference on Wireless & Mobile Computing, Networking & Communication, p.234-240, October 12-14, 2008[doi>10.1109/WiMob.2008.14]
+M. Szydlo, "Merkle tree traversal in log space and time," 2003 {Online}. Available: http://www.szydlo.com/logspacetime03.pdf, preprint version.
+M. Szydlo, "Merkle tree traversal in log space and time," inProc. Eurocrypt, 2004, LNCS 3027, pp. 541-554.
+Markus Jakobsson , Tom Leighton , Silvio Micali , Michael Szydlo, Fractal Merkle tree representation and traversal, Proceedings of the 2003 RSA conference on The cryptographers' track, April 13-17, 2003, San Francisco, CA, USA
+R. Rivest, "The MD5 message digest algorithm," RFC 1321, Apr. 1992.
+Adi Shamir, How to share a secret, Communications of the ACM, v.22 n.11, p.612-613, Nov. 1979[doi>10.1145/359168.359176]
+H. Orman and P. Hoffman, "Determining strengths for public keys used for exchanging symmetric keys," RFC 3766, Apr. 2004.
+NIST, "TWIRL and RSA key size," RSA Laboratories, Tech. Rep., May 2006 {Online}. Available: http://csrc.nist.gov/groups/ST/ toolkit/key_management.html
+B. Weis, "The use of RSA/SHA-1 signatures within encapsulating security payload (ESP) and authentication header (AH)," RFC 4359, Jan. 2006.
+Adi Shamir, Factoring Large Numbers with the Twinkle Device (Extended Abstract), Proceedings of the First International Workshop on Cryptographic Hardware and Embedded Systems, p.2-12, August 12-13, 1999
+B. Kaliski, "TWIRL and RSA key size," RSA Laboratories, Tech. Rep., May 6, 2003 {Online}. Available: http://www.rsa.com/rsalabs/ node.asp?id=2004
+M. J. Moyer , J. R. Rao , P. Rohatgi, A survey of security issues in multicast communications, IEEE Network: The Magazine of Global Internetworking, v.13 n.6, p.12-23, November 1999[doi>10.1109/65.806981]
+A. Lysyanskaya, R. Tamassia, and N. Triandopoulos, "Multicast authentication in fully adversarial networks," inProc. IEEE Security Privacy, May 9-12, 2004, pp. 241-253.
+Alain Pannetrat , Réfik Molva, Authenticating Real Time Packet Streams and Multicasts, Proceedings of the Seventh International Symposium on Computers and Communications (ISCC'02), p.490, July 01-04, 2002

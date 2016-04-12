@@ -1,0 +1,38 @@
+Ethan Blanton , Mark Allman, On making TCP more robust to packet reordering, ACM SIGCOMM Computer Communication Review, v.32 n.1, p.20-30, January 2002[doi>10.1145/510726.510728]
+Vern Paxson, End-to-end routing behavior in the Internet, Conference proceedings on Applications, technologies, architectures, and protocols for computer communications, p.25-38, August 28-30, 1996, Palo Alto, California, USA[doi>10.1145/248156.248160]
+Jon C. R. Bennett , Craig Partridge , Nicholas Shectman, Packet reordering is not pathological network behavior, IEEE/ACM Transactions on Networking (TON), v.7 n.6, p.789-798, Dec. 1999[doi>10.1109/90.811445]
+{4} L. Cottrell, "Packet reordering," {Online}. Available: http://www-iepm. slac.stanford.edu/monitoring/reorder/
+Feng Wang , Yongguang Zhang, Improving TCP performance over mobile ad-hoc networks with out-of-order detection and response, Proceedings of the 3rd ACM international symposium on Mobile ad hoc networking & computing, June 09-11, 2002, Lausanne, Switzerland[doi>10.1145/513800.513827]
+Thomas D. Dyer , Rajendra V. Boppana, A comparison of TCP performance over three routing protocols for mobile ad hoc networks, Proceedings of the 2nd ACM international symposium on Mobile ad hoc networking & computing, October 04-05, 2001, Long Beach, CA, USA[doi>10.1145/501422.501425]
+Gavin Holland , Nitin Vaidya, Analysis of TCP performance over mobile ad hoc networks, Proceedings of the 5th annual ACM/IEEE international conference on Mobile computing and networking, p.219-230, August 15-19, 1999, Seattle, Washington, USA[doi>10.1145/313451.313540]
+S. Blake , D. Black , M. Carlson , E. Davies , Z. Wang , W. Weiss, An Architecture for Differentiated Service, RFC Editor, 1998
+{9} D. Bertsekas,Network Optimization: Continuous and Discrete Models. Belmont, MA: Athena Scientific, 1998.
+{10} N. Taft-Plotkin, B. Bellur, and R. Ogier, "Quality-of-service routing using maximally disjoint paths," inProc. IEEE/IFIP IWQoS'99, Jun. 1999, pp. 119-128.
+{11} S. Bohacek, J. Hespanha, K. Obraczka, J. Lee, and C. Lim, "Secure stochastic routing," presented at the ICCCN'02, Miami, FL, 2002.
+Renata Teixeira , Keith Marzullo , Stefan Savage , Geoffrey M. Voelker, Characterizing and measuring path diversity of internet topologies, Proceedings of the 2003 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 11-14, 2003, San Diego, CA, USA[doi>10.1145/781027.781069]
+{13} A. Nasipuri and S. Das, "Demand multipath routing for mobile ad hoc networks," presented at the ICCCN'99, Boston, MA, Oct. 1999.
+Marc R. Pearlman , Zygmunt J. Haas , Peter Sholander , Siamak S. Tabrizi, On the impact of alternate path routing for load balancing in mobile ad hoc networks, Proceedings of the 1st ACM international symposium on Mobile ad hoc networking & computing, November 20, 2000, Boston, Massachusetts
+Reiner Ludwig , Randy H. Katz, The Eifel algorithm: making TCP robust against spurious retransmissions, ACM SIGCOMM Computer Communication Review, v.30 n.1, January 2000[doi>10.1145/505688.505692]
+S. Floyd , J. Mahdavi , M. Mathis , M. Podolsky, An Extension to the Selective Acknowledgement (SACK) Option for TCP, RFC Editor, 2000
+{17} N. Zhang, B. Karp, S. Floyd, and L. Peterson, RR-TCP: A reordering-robust TCP With DSACK. ICSI, Berkeley, CA, Tech. Rep. TR-02-006, Jul. 2002.
+Vern Paxson, End-to-end Internet packet dynamics, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.139-152, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263155]
+Sumitha Bhandarkar , Nauzad Erach Sadry , A. L.  Narasimha Reddy , Nitin H. Vaidya, TCP-DCR: A Novel Protocol for Tolerating Wireless Channel Errors, IEEE Transactions on Mobile Computing, v.4 n.5, p.517-529, September 2005[doi>10.1109/TMC.2005.72]
+Biplab Sikdar , Shivkumar Kalyanaraman , Kenneth S. Vastola, Analytic models for the latency and steady-state throughput of TCP tahoe, Reno, and SACK, IEEE/ACM Transactions on Networking (TON), v.11 n.6, p.959-971, 01 December 2003[doi>10.1109/TNET.2003.820427]
+V. Paxson , M. Allman, Computing TCP's Retransmission Timer, RFC Editor, 2000
+{22} S. Bohacek, "A stochastic model of TCP and fair video transmission," inProc. IEEE INFOCOM, 2003, pp. 1134-1144.
+{23} R. Braden, "Requirements for Internet Hostsdoctype-communication layers," RFC 1122, Oct. 1989.
+V. Jacobson, Congestion avoidance and control, ACM SIGCOMM Computer Communication Review, v.18 n.4, p.314-329, August 1988[doi>10.1145/52325.52356]
+Mark Allman , Vern Paxson, On estimating end-to-end network path properties, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.263-274, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316230]
+{26} The VINT Project, a collaboration between researchers at UC Berkeley, LBL, USC/ISI, and Xerox PARC,The ns Manual (formerly ns Notes and Documentation). {Online}. Available: http://www.isi.edu/nsnam/ns/ns-documentation.html, Oct. 2000.
+M. Mathis , J. Mahdavi , S. Floyd , A. Romanow, TCP Selective Acknowledgement Options, RFC Editor, 1996
+Sally Floyd , Mark Handley , Jitendra Padhye , Jörg Widmer, Equation-based congestion control for unicast applications, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.43-56, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347397]
+Sally Floyd, Connections with multiple congested gateways in packet-switched networks part 1: one-way traffic, ACM SIGCOMM Computer Communication Review, v.21 n.5, p.30-47, Oct. 1991[doi>10.1145/122431.122434]
+{30} D. Katabi, M. Handley, and C. Rohrs, "Internet congestion control for future high bandwidth-delay product environments," presented at the ACM SIGCOMM, Pittsburgh, PA, 2002.
+F. Hernández-Campos , J. S. Marron , F. D. Smith , G. Samorodnitsky, Variable Heavy Tailed Durations in Internet Traffic, Part I: Understanding Heavy Tails, Proceedings of the 10th IEEE International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunications Systems, p.43, October 11-16, 2002
+{32} S. Floyd, Scripts for Adaptive Red Simulations. {Online}. Available: http://www.icir.org/floyd/adaptivered/papersims/single1.tcl
+Dah-Ming Chiu , Raj Jain, Analysis of the increase and decrease algorithms for congestion avoidance in computer networks, Computer Networks and ISDN Systems, v.17 n.1, p.1-14, June 10, 1989[doi>10.1016/0169-7552(89)90019-6]
+{34} S. Bohacek, J. Hespanha, K. Obraczka, and J. Lee, "Analysis of a TCP hybrid model," inProc. 39th Annu. Allerton Conf. Communication, Control and Computing, Monticello, IL, 2001.
+M. Allman , H. Balakrishnan , S. Floyd, Enhancing TCP's Loss Recovery Using Limited Transmit, RFC Editor, 2001
+{36} J. Hespanha and S. Bohacek, "Preliminary results in routing games," presented at the American Control Conf., Arlington, VA, Jun. 2001.
+{37} The TCP-PR Web Page. {Online}. Available: http://eecis.udel.edu/bohacek/tcp-pr.htm
+B. Davie , A. Charny , J. C. R. Bennet , K. Benson , J. Y. Le Boudec , W. Courtney , S. Davari , V. Firoiu , D. Stiliadis, An Expedited Forwarding PHB (Per-Hop Behavior), RFC Editor, 2002

@@ -1,0 +1,48 @@
+US Environmental Protection Agency, Washington, DC, USA, "EPA report on server and data center energy efficiency," Tech. Rep., 2007.
+The Climate Group, "SMART 2020: Enabling the low carbon economy in the information age," Tech. Rep., 2008.
+F. Yao , A. Demers , S. Shenker, A scheduling model for reduced CPU energy, Proceedings of the 36th Annual Symposium on Foundations of Computer Science, p.374, October 23-25, 1995
+Nikhil Bansal , Kirk Pruhs , Cliff Stein, Speed scaling for weighted flow time, Proceedings of the eighteenth annual ACM-SIAM symposium on Discrete algorithms, p.805-813, January 07-09, 2007, New Orleans, Louisiana
+Nikhil Bansal , Ho-Leung Chan , Kirk Pruhs, Speed scaling with an arbitrary power function, Proceedings of the twentieth Annual ACM-SIAM Symposium on Discrete Algorithms, p.693-701, January 04-06, 2009, New York, New York
+A. Wierman, L. L. H. Andrew, and A. Tang, "Power-aware speed scaling in processor sharing systems," inProc. IEEE INFOCOM, Rio de Janeiro, Brazil, Apr. 2009, pp. 2007-2015.
+Lachlan L.H. Andrew , Minghong Lin , Adam Wierman, Optimality, fairness, and robustness in speed scaling designs, Proceedings of the ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 14-18, 2010, New York, New York, USA
+Minghong Lin , Adam Wierman , Lachlan L. H. Andrew , Eno Thereska, Dynamic right-sizing for power-proportional data centers, IEEE/ACM Transactions on Networking (TON), v.21 n.5, p.1378-1391, October 2013
+Flavio Bonomi, On Job Assignment for a Parallel System of Processor Sharing Queues, IEEE Transactions on Computers, v.39 n.7, p.858-869, July 1990
+Valeria Cardellini , Emiliano Casalicchio , Michele Colajanni , Philip S. Yu, The state of the art in locally distributed Web-server systems, ACM Computing Surveys (CSUR), v.34 n.2, p.263-311, June 2002
+Varun Gupta , Karl Sigman , Mor Harchol-Balter , Ward Whitt, Insensitivity for PS server farms with JSQ routing, ACM SIGMETRICS Performance Evaluation Review, v.35 n.2, September 2007
+Varun Gupta , Mor Harchol Balter , Karl Sigman , Ward Whitt, Analysis of join-the-shortest-queue routing for web server farms, Performance Evaluation, v.64 n.9-12, p.1062-1081, October, 2007
+E. Altman, U. Ayesta, and B. J. Prabhu, "Load balancing in processor sharing systems,"Telecommun. Syst., vol. 47, pp. 35-48, Jun. 2011.
+Yi Lu , Qiaomin Xie , Gabriel Kliot , Alan Geller , James R. Larus , Albert Greenberg, Join-Idle-Queue: A novel load balancing algorithm for dynamically scalable web services, Performance Evaluation, v.68 n.11, p.1056-1071, November, 2011
+Mark E. Crovella , Azer Bestavros, Self-similarity in World Wide Web traffic: evidence and possible causes, IEEE/ACM Transactions on Networking (TON), v.5 n.6, p.835-846, Dec. 1997
+T. Bonald , A. Proutière, Insensitivity in processor-sharing networks, Performance Evaluation, v.49 n.1-4, p.193-209, September 2002
+T. Bonald , A. Proutière, Insensitive Bandwidth Sharing in Data Networks, Queueing Systems: Theory and Applications, v.44 n.1, p.69-100, May 2003
+V. B. Iversen,Teletraffic Engineering and Network Planning. Kgs. Lyngby, Denmark: Tech. Univ. Denmark Press, 2010.
+John Ousterhout , Parag Agrawal , David Erickson , Christos Kozyrakis , Jacob Leverich , David Mazières , Subhasish Mitra , Aravind Narayanan , Guru Parulkar , Mendel Rosenblum , Stephen M. Rumble , Eric Stratmann , Ryan Stutsman, The case for RAMClouds: scalable high-performance storage entirely in DRAM, ACM SIGOPS Operating Systems Review, v.43 n.4, January 2010
+Adrian M. Caulfield , Laura M. Grupp , Steven Swanson, Gordon: using flash memory to build fast, power-efficient clusters for data-intensive applications, ACM SIGPLAN Notices, v.44 n.3, March 2009
+Urs Hoelzle , Luiz Andre Barroso, The Datacenter as a Computer: An Introduction to the Design of Warehouse-Scale Machines, Morgan and Claypool Publishers, 2009
+F. A. Haight, "Two queues in parallel,"Biometrika, vol. 45, pp. 401-410, Dec. 1958.
+W. Winston, "Optimality of the shortest line discipline,"J. Appl. Probab., vol. 14, no. 1, pp. 181-189, Mar. 1977.
+R. R. Weber, "On the optimal assignment of customers to parallel servers,"J. Appl. Probab., vol. 15, no. 2, pp. 406-413, Jun. 1978.
+Ward Whitt, Deciding which queue to join: Some counterexamples, Operations Research, v.34 n.1, p.55-62, Jan./Feb. 1986
+Z. Liu and D. Towsley, "Optimality of the round-robin routing policy,"J. Appl. Probab., vol. 31, no. 2, pp. 466-475, Jun. 1994.
+E. Hyytiä , A. Penttinen , S. Aalto , J. Virtamo, Dispatching problem with fixed size jobs and processor sharing discipline, Proceedings of the 23rd International Teletraffic Congress, September 06-09, 2011, San Francisco, California
+Esa Hyytiä , Jorma Virtamo , Samuli Aalto , Aleksi Penttinen, M/M/1-PS queue and size-aware task assignment, Performance Evaluation, v.68 n.11, p.1136-1148, November, 2011
+E. Koenigsberg, "On jockeying in queues,"Manage. Sci., vol. 12, no. 5, pp. 412-436, Jan. 1966.
+Y. Zhao and W. K. Grassmann, "The shortest queue model with jockeying,"Naval Res. Logistics, vol. 37, no. 5, pp. 773-787, Oct. 1990.
+I. Adan, J. Wessels, and W. Zijm, "Analysis of the asymmetric shortest queue problem with threshold jockeying,"Stochastic Models, vol. 7, no. 4, pp. 615-627, 1991.
+I. J. B. F. Adan , J. Wessels , W. H. M. Zijm, Matrix-geometric analysis of the shortest queue problem with threshold jockeying, Operations Research Letters, v.13 n.2, p.107-112, March, 1993
+Y. Zhao and W. K. Grassmann, "Queueing analysis of a jockeying model,"Oper. Res., vol. 43, no. 3, pp. 520-529, May-Jun. 1995.
+Yutaka Sakuma, Asymptotic behavior for MAP/PH/c queue with shortest queue discipline and jockeying, Operations Research Letters, v.38 n.1, p.7-10, January, 2010
+Maury Bramson , Yi Lu , Balaji Prabhakar, Randomized load balancing with general service time distributions, Proceedings of the ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 14-18, 2010, New York, New York, USA
+Susanne Albers , Hiroshi Fujiwara, Energy-efficient algorithms for flow time minimization, ACM Transactions on Algorithms (TALG), v.3 n.4, p.49-es, November 2007
+F. P. Kelly, "Networks of queues,"Adv. Appl. Probab., vol. 8, no. 2, pp. 416-432, Jun. 1976.
+A. D. Barbour, "Networks of queues and the method of stages,"Adv. Appl. Probab., vol. 8, no. 3, pp. 584-591, Sep. 1976.
+Dimitri P. Bertsekas, Dynamic Programming and Optimal Control, Athena Scientific, 1995
+S. Stidham Jr. and R. R. Weber, "Monotonic and insensitive optimal policies for control of queues with undiscounted costs,"Oper. Res., vol. 37, no. 4, pp. 611-625, Jul.-Aug. 1989.
+Jennifer M. George , J. Michael Harrison, Dynamic Control of a Queue with Adjustable Service Rate, Operations Research, v.49 n.5, p.720-731, September 2001
+S. A. Lippman, "Applying a new device in the optimization of exponential queuing systems,"Oper. Res., vol. 23, no. 4, pp. 687-710, Jul.-Aug. 1975.
+Jacob Wijngaard , Shaler Stidham, Jr., Forward recursion for Markov decision processes with skip-free-to-the-right transitions. Part I. Theory and algorithm, Mathematics of Operations Research, v.11 n.2, p.295-308, May 1986
+K. Matthes, "Zur theorie der bedienungsprozesse," inProc. 3rd Prague Conf. Inf. Theory, Statist. Decision Functions, Random Process., Prague, Czech Republic, 1962, pp. 513-528.
+R. Schassberger, "Insensitivity of steady-state distributions of generalized semi-Markov processes. Part I,"Ann. Probab., vol. 5, no. 1, pp. 87-99, Feb. 1977.
+R. Schassberger, "Insensitivity of steady-state distributions of generalized semi-Markov processes. Part II,"Ann. Probab., vol. 6, no. 1, pp. 85-93, Feb. 1978.
+W. Whitt, "Continuity of generalized semi-Markov processes,"Math. Oper. Res., vol. 5, no. 4, pp. 494-501, Nov. 1980.
+R. Schassberger, "Two remarks on insensitive stochastic models,"Adv. Appl. Probab., vol. 18, no. 3, pp. 791-814, Sep. 1986.

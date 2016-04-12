@@ -1,0 +1,31 @@
+{1} The Apache Web-Server. {Online}. Available: http://httpd.apache.org
+{2} D. Bansal and H. Balakrishnan, "Binomial congestion control algorithms," in Proc. IEEE INFOCOM, 2001, pp. 631-640.
+Paul Barford , Mark Crovella, Generating representative Web workloads for network and server performance evaluation, Proceedings of the 1998 ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems, p.151-160, June 22-26, 1998, Madison, Wisconsin, USA[doi>10.1145/277851.277897]
+{4} T. Bonalds, A. Prutiere, G. Gegnie, and J. Roberts, "Insensitivity results in statistical bandwidth sharing," in Teletraffic Engineering in the Internet Era, Proc. ITC-17, Sep. 2001, pp. 125-136.
+{5} Cisco. NetFlow services and applications. White paper (2000). {Online}. Available: http://cisco.com/warp/public/cc/pd/iosw/ioft/neflet/tech/napps_wp.htm.
+Kimberly C. Claffy , George C. Polyzos , Hans-Werner Braun, Application of sampling methodologies to network traffic characterization, Conference proceedings on Communications architectures, protocols and applications, p.194-203, September 13-17, 1993, San Francisco, California, USA[doi>10.1145/166237.166256]
+Cristian Estan , George Varghese, New directions in traffic measurement and accounting, Proceedings of the 2002 conference on Applications, technologies, architectures, and protocols for computer communications, August 19-23, 2002, Pittsburgh, Pennsylvania, USA[doi>10.1145/633025.633056]
+{8} W. Fang and L. Peterson, "Inter-AS traffic patterns and their implications," in Proc. Global Telecommunications Conf. (GLOBECOM), 1999, pp. 1859-1868.
+A. Feldmann , A. C. Gilbert , W. Willinger, Data networks as cascades: investigating the multifractal nature of Internet WAN traffic, Proceedings of the ACM SIGCOMM '98 conference on Applications, technologies, architectures, and protocols for computer communication, p.42-55, August 31-September 04, 1998, Vancouver, British Columbia, Canada[doi>10.1145/285237.285256]
+{10} P. Fernando, W. Zhikui, S. Low, and J. Doyle, "A new TCP/AQM for stable operation in fast networks," in Proc. IEEE INFOCOM, 2003, pp. 96-105.
+Sally Floyd , Van Jacobson, Random early detection gateways for congestion avoidance, IEEE/ACM Transactions on Networking (TON), v.1 n.4, p.397-413, Aug. 1993[doi>10.1109/90.251892]
+{12} Fluid Models for Large, Heterogeneous Networks. {Online}. Available: http://www-net.cs.umass.edu/fluid/
+{13} C. Fraleigh, C. Diot, B. Lyles, S. Moon, P. Owezarski, D. Papagiannaki, and F. Tobagi, "Design and deployment of a passive monitoring infrastructure," in Proc. Workshop Passive and Active Measurements (PAM2001), Amsterdam, The Netherlands, Apr. 2001.
+{14} C. Fraleigh, S. Moon, C. Diot, B. Lyles, and F. Tobagi, "Packet-Level Traffic Measurements From a Tier-1 IP Backbone,", Tech. Rep. TR01- ATL-110101, Sprint ATL Tech. Rep., Nov. 2001.
+S. Ben Fred , T. Bonald , A. Proutiere , G. Régnié , J. W. Roberts, Statistical bandwidth sharing: a study of congestion at flow level, Proceedings of the 2001 conference on Applications, technologies, architectures, and protocols for computer communications, p.111-122, August 2001, San Diego, California, USA[doi>10.1145/383059.383068]
+{16} R. Gibbens and F. Kelly, "Distributed connection acceptance control for a connectionless network," in Proc. 16th Int. Teletraffic Congress (ITC16), Edinburgh, Scotland, 1999, pp. 941-952.
+{17} C. V. Hollot, V. Misra, D. Towlsey, and W. Gong, "On designing improved controllers for AQM routers supporting TCP flow," in Proc. IEEE INFOCOM, 2001, pp. 1726-1734.
+{18} C. V. Hollot, V. Misra, D. Towlsey, and W. Gong, "A control theoretic analysis of RED," in Proc. IEEE INFOCOM, 2001, pp. 1510-1519.
+Srisankar Kunniyur , R. Srikant, Analysis and design of an adaptive virtual queue (AVQ) algorithm for active queue management, Proceedings of the 2001 conference on Applications, technologies, architectures, and protocols for computer communications, p.123-134, August 2001, San Diego, California, USA[doi>10.1145/383059.383069]
+Vishal Misra , Wei-Bo Gong , Don Towsley, Fluid-based analysis of a network of AQM routers supporting TCP flows with an application to RED, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.151-160, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347421]
+{21} The Network Simulator - ns-2. {Online}. Available: http://www.isi.edu/ nsnam/ns.
+{22} C. J. Nuzman, I. Saniee, W. Sweldens, and A. Weiss, "A compound model for TCP connection arrivals," in Proc. ITC Seminar IP Traffic Modeling, Monterey, CA, Sep. 2000.
+{23} T. Ott, T. Lakshman, and L. Wong, "SRED: Stabilized RED," in Proc. IEEE INFOCOM, 1999, pp. 1346-1355.
+{24} R. Pan, "Randomized algorithms for bandwidth partitioning and performance prediction in the Internet," Ph.D. dissertation, Stanford Univ., Stanford, CA, Sep. 2002.
+{25} R. Pan, B. Prabhakar, K. Psounis, and M. Sharma, "A study of the applicability of a scaling hypothesis," in Proc. 4th Asia Control Conf., Singapore, 2002.
+Vern Paxson , Sally Floyd, Wide area traffic: the failure of Poisson modeling, IEEE/ACM Transactions on Networking (TON), v.3 n.3, p.226-244, June 1995[doi>10.1109/90.392383]
+{27} K. Psounis, "Probabilistic methods for web caching and performance prediction of IP networks and web farms," Ph.D. dissertation, Stanford Univ., Stanford, CA, Dec. 2002.
+{28} S. Shakkottai and R. Srikant, "How good are deterministic fluid models of internet congestion control," in Proc. IEEE INFOCOM, 2002, pp. 497-505.
+{29} P. Tinnakornsrisuphap and A. Makowski, "Limit behavior of ECN/RED gateways under a large number of TCP flows," in Proc. IEEE INFOCOM , 2003, pp. 873-883.
+Jean Walrand, A Transaction-Level Tool for Predicting TCP Performance and for Network Engineering, Proceedings of the 8th International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems, p.106, August 29-September 01, 2000
+Walter Willinger , Murad S. Taqqu , Robert Sherman , Daniel V. Wilson, Self-similarity through high-variability: statistical analysis of Ethernet LAN traffic at the source level, IEEE/ACM Transactions on Networking (TON), v.5 n.1, p.71-86, Feb. 1997[doi>10.1109/90.554723]

@@ -1,0 +1,33 @@
+"ARIN number resource policy manual (NRPM)," American Registry for Internet Numbers, Chantilly, VA, Sep. 2009 {Online}. Available: https://www.arin.net/policy/nrpm.html#ipv6
+Yossi Azar , Andrei Z. Broder , Anna R. Karlin , Eli Upfal, Balanced allocations (extended abstract), Proceedings of the twenty-sixth annual ACM symposium on Theory of computing, p.593-602, May 23-25, 1994, Montreal, Quebec, Canada[doi>10.1145/195058.195412]
+"BGP table data," Jan. 2011 {Online}. Available: http://bgp.potaroo. net/indx-bgp.html
+Burton H. Bloom, Space/time trade-offs in hash coding with allowable errors, Communications of the ACM, v.13 n.7, p.422-426, July 1970[doi>10.1145/362686.362692]
+A. Broder and M. Mitzenmacher, "Using multiple Hash functions to improve IP lookups," inProc. 20th IEEE INFOCOM, Apr. 2001, pp. 1454-1463.
+B. Carret al., "IPv6 address allocation and assignment policy," Sep. 2009 {Online}. Available: http://www.ripe.net/ripe/docs/ipv6policy. html
+Mikael Degermark , Andrej Brodnik , Svante Carlsson , Stephen Pink, Small forwarding tables for fast routing lookups, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.3-14, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263133]
+Sarang Dharmapurikar , Praveen Krishnamurthy , David E. Taylor, Longest prefix matching using bloom filters, Proceedings of the 2003 conference on Applications, technologies, architectures, and protocols for computer communications, August 25-29, 2003, Karlsruhe, Germany[doi>10.1145/863955.863979]
+Willibald Doeringer , Günter Karjoth , Mehdi Nassehi, Routing on longest-matching prefixes, IEEE/ACM Transactions on Networking (TON), v.4 n.1, p.86-97, Feb. 1996[doi>10.1109/90.503764]
+Jahangir Hasan , Srihari Cadambi , Venkatta Jakkula , Srimat Chakradhar, Chisel: A Storage-efficient, Collision-free Hash-based Network Processing Architecture, Proceedings of the 33rd annual international symposium on Computer Architecture, p.203-215, June 17-21, 2006[doi>10.1109/ISCA.2006.14]
+W. Jiang and V. Prasanna, "Parallel IP lookup using multiple SRAM-based pipelines," inProc. IEEE IPDPS, Apr. 2008, pp. 1-14.
+Adam Kirsch , Michael Mitzenmacher, Simple summaries for hashing with choices, IEEE/ACM Transactions on Networking (TON), v.16 n.1, p.218-231, February 2008[doi>10.1109/TNET.2007.899058]
+S. Kumar, J. Turner, and P. Crowley, "Peacock hashing: Deterministic and updatable hashing for high performance networking," inProc. 27th IEEE INFOCOM, Apr. 2008, pp. 101-105.
+S. Nilsson , G. Karlsson, IP-address lookup using LC-tries, IEEE Journal on Selected Areas in Communications, v.17 n.6, p.1083-1092, September 2006[doi>10.1109/49.772439]
+Fong Pong, Fast and Robust TCP Session Lookup by Digest Hash, Proceedings of the 12th International Conference on Parallel and Distributed Systems, p.507-514, July 12-15, 2006[doi>10.1109/ICPADS.2006.46]
+Fong Pong , Nian-Feng Tzeng, SUSE: superior storage-efficiency for routing tables through prefix transformation and aggregation, IEEE/ACM Transactions on Networking (TON), v.18 n.1, p.81-94, February 2010[doi>10.1109/TNET.2009.2022085]
+Ravikumar V.C. , Rabi N. Mahapatra, TCAM Architecture for IP Lookup Using Prefix Properties, IEEE Micro, v.24 n.2, p.60-69, March 2004[doi>10.1109/MM.2004.1289292]
+R. Rivest, "TheMD5 message-digest algorithm," Internet Engineering Task Force, RFC 1321, Apr. 1992.
+R. L. Rivest , A. Shamir , L. Adleman, A method for obtaining digital signatures and public-key cryptosystems, Communications of the ACM, v.21 n.2, p.120-126, Feb. 1978[doi>10.1145/359340.359342]
+"Routing information service," RIPE, Amsterdam, The Netherlands {Online}. Available: http://www.ripe.net/
+Bruce Schneier, Applied cryptography (2nd ed.): protocols, algorithms, and source code in C, John Wiley & Sons, Inc., New York, NY, 1995
+Haoyu Song , Sarang Dharmapurikar , Jonathan Turner , John Lockwood, Fast hash table lookup using extended bloom filter: an aid to network processing, Proceedings of the 2005 conference on Applications, technologies, architectures, and protocols for computer communications, August 22-26, 2005, Philadelphia, Pennsylvania, USA[doi>10.1145/1080091.1080114]
+H. Song, F. Hao, M. Kodialam, and T. V. Lakshman, "IPv6 lookups using distributed and load balanced bloom filters for 100 Gbps core router line cards," inProc. 28th IEEE INFOCOM, Apr. 2009, pp. 2518-2526.
+H. Song, M. Kodialam, F. Hao, and T. V. Lakshman, "Scalable IP lookups using shape graphs," inPro. 17th IEEE ICNP, Oct. 2009, pp. 73-82.
+V. Srinivasan , George Varghese, Faster IP lookups using controlled prefix expansion, Proceedings of the 1998 ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems, p.1-10, June 22-26, 1998, Madison, Wisconsin, USA[doi>10.1145/277851.277863]
+V. Srinivasan , G. Varghese, Fast address lookups using controlled prefix expansion, ACM Transactions on Computer Systems (TOCS), v.17 n.1, p.1-40, Feb. 1999[doi>10.1145/296502.296503]
+Berthold Vöcking, How Asymmetry Helps Load Balancing, Proceedings of the 40th Annual Symposium on Foundations of Computer Science, p.131, October 17-18, 1999
+Marcel Waldvogel , George Varghese , Jon Turner , Bernhard Plattner, Scalable high speed IP routing lookups, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.25-36, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263136]
+G. Wang and N.-F. Tzeng, "TCAM-based forwarding engine with minimum independent prefix set (MIPS) for fast updating," inProc. IEEE ICC, Jun. 2006, pp. 103-109.
+H. Yu, R. Mahapatra, and L. Bhuyan, "A Hash-based scalable IP lookup using bloom and fingerprint filters," inProc. 17th IEEE ICNP, Oct. 2009, pp. 264-273.
+Will Eatherton , George Varghese , Zubin Dittia, Tree bitmap: hardware/software IP lookups with incremental updates, ACM SIGCOMM Computer Communication Review, v.34 n.2, April 2004[doi>10.1145/997150.997160]
+Masanori Bando , H. Jonathan Chao, Flashtrie: hash-based prefix-compressed trie for IP route lookup beyond 100Gbps, Proceedings of the 29th conference on Information communications, p.821-829, March 14-19, 2010, San Diego, California, USA
+"QDR-II+ SRAM overview," Cypress Semiconductor Corporation, San Jose, CA {Online}. Available: http://www.cypress.com/?id=108

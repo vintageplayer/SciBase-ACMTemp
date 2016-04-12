@@ -1,0 +1,25 @@
+{1} M. Allman, V. Paxson, and W. Stevens, "TCP congestion control," Internet Engineering Task Force, RFC 2581 (Standards Track), Apr. 1999.
+{2} D. Bansal and H. Balakrishnan, "Binomial congestion control algorithms," in Proc. IEEE INFOCOM, Apr. 2001, pp. 631-640.
+Deepak Bansal , Hari Balakrishnan , Sally Floyd , Scott Shenker, Dynamic behavior of slowly-responsive congestion control algorithms, Proceedings of the 2001 conference on Applications, technologies, architectures, and protocols for computer communications, p.263-274, August 2001, San Diego, California, USA[doi>10.1145/383059.383080]
+{4} B. Braden, D. Clark, J. Crowcroft, B. Davie, S. Deering, D. Estrin, and S. Floyd, "Recommendations on queue management and congestion avoidance in the Internet," Internet Engineering Task Force, RFC 2309 (Informational), Apr. 1998.
+Dah-Ming Chiu , Raj Jain, Analysis of the increase and decrease algorithms for congestion avoidance in computer networks, Computer Networks and ISDN Systems, v.17 n.1, p.1-14, June 10, 1989[doi>10.1016/0169-7552(89)90019-6]
+Jon Crowcroft , Philippe Oechslin, Differentiated end-to-end Internet services using a weighted proportional fair sharing TCP, ACM SIGCOMM Computer Communication Review, v.28 n.3, p.53-69, July 1998[doi>10.1145/293927.293930]
+{7} S. Floyd, M. Handley, and J. Padhye. (2000, May) A comparison of equation-based and AIMD congestion control. {Online}. Available: http://www.aciri.org/tfrc
+Sally Floyd , Mark Handley , Jitendra Padhye , Jörg Widmer, Equation-based congestion control for unicast applications, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.43-56, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347397]
+V. Jacobson, Congestion avoidance and control, ACM SIGCOMM Computer Communication Review, v.18 n.4, p.314-329, August 1988[doi>10.1145/52325.52356]
+{10} R. Jain, D.-M. Chiu, and W. Hawe, "A quantitative measure of fairness and discrimination for resource allocation in shared computer systems," Digital Equipment Corporation, DEC Research Report, Tech. Rep. TR-301, Sep. 1984.
+Raj Jain , K. K. Ramakrishnan , Dah-Ming Chiu, Congestion avoidance in computer networks with a connectionless network layer, Innovations in Internetworking, Artech House, Inc., Norwood, MA, 1988
+TCP-Friendly SIMD Congestion Control and Its Convergence Behavior, Proceedings of the Ninth International Conference on Network Protocols, p.156, November 11-14, 2001
+{13} L. Kalampoukas, A. Varma, and K. K. Ramakrishnan, "Explicit window adaptation: a method to enhance TCP performance," in Proc. IEEE INFOCOM, San Francisco, CA, Mar./Apr. 1998, pp. 242-251.
+Controlling High-Bandwidth Flows at the Congested Router, Proceedings of the Ninth International Conference on Network Protocols, p.192, November 11-14, 2001
+{15} J. Mahdavi and S. Floyd. (1997, Jan.) TCP-friendly unicast rate-based flow control. {Online}. Available: http://www.psc.edu/networking/papers/tcp_friendly.html
+{16} J. Mahdavi and S. Floyd. (1999, Jun.) The TCP-friendly web-site. {On-line}. Available: http://www.psc.edu/networking/tcp_ friendly.html
+{17} K. K. Ramakrishnan, S. Floyd, and D. Black, "The addition of Explicit Congestion Notification (ECN) to IP," Internet Engineering Task Force, RFC 3168 (Standards Track), Sep. 2001.
+K. K. Ramakrishnan , Raj Jain, A binary feedback scheme for congestion avoidance in computer networks, ACM Transactions on Computer Systems (TOCS), v.8 n.2, p.158-181, May 1990[doi>10.1145/78952.78955]
+Reza Rejaie , Mark Handley , Deborah Estrin, Quality adaptation for congestion controlled video playback over the Internet, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.189-200, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316222]
+{20} R. Rejaie, M. Handley, and D. Estrin, "RAP: an end-to-end rate-based congestion control mechanism for realtime streams in the Internet," in Proc. IEEE INFOCOM, Mar. 1999, pp. 1337-1345.
+{21} I. Rhee, V. Ozdemir, and Y. Yi, "TEAR: TCP Emulation at Receivers--Flow Control for Multimedia Streaming," North Carolina State Univ., Raleigh, NC, Technical Report, Apr. 2000.
+{22} D. Sisalem and H. Schulzrinne, "The loss-delay based adjustment algorithm: a TCP-friendly adaptation scheme," presented at the 8th Int. Workshop on Network and Operating System Support for Digital Audio and Video (NOSSDAV), Cambridge, U.K., 1998.
+W. Richard Stevens , Gary R. Wright, TCP/IP illustrated (vol. 2): the implementation, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1995
+{24} Y. R. Yang, M. S. Kim, and S. S. Lam, "Transient behaviors of TCP-friendly congestion control protocols," in Proc. IEEE INFOCOM, Anchorage,AK, Apr. 2001, pp. 1716-1725.
+Y. R. Yang , S. S. Lam, General AIMD congestion control, Proceedings of the 2000 International Conference on Network Protocols, p.187, November 14-17, 2000

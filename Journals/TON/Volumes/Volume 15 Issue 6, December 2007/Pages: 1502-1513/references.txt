@@ -1,0 +1,34 @@
+{1} R. T. Morris, "A weakness in the 4.2 BSD UNIX TCP/IP software," AT&T; Bell Laboratories, Murray Hill, NJ, Computing Science Tech. Rep. 117, Feb. 1985.
+Charlie Kaufman , Radia Perlman , Bill Sommerfeld, DoS protection for UDP-based protocols, Proceedings of the 10th ACM conference on Computer and communications security, October 27-30, 2003, Washington D.C., USA[doi>10.1145/948109.948113]
+{3} S. Kent, "IP authentication header," Internet Engineering Task Force, RFC 4302, Dec. 2005.
+{4} S. Kent, "IP Encapsulating Security Payload (ESP)," Internet Engi neering Task Force, RFC 4303, Dec. 2005.
+{5} S. Kent and K. Seo, "Security architecture for the Internet protocol," Internet Engineering Task Force, RFC 4301, Dec. 2005.
+D. Piper, The Internet IP Security Domain of Interpretation for ISAKMP, RFC Editor, 1998
+D. Harkins , D. Carrel, The Internet Key Exchange (IKE), RFC Editor, 1998
+D. Maughan , M. Schertler , M. Schneider , J. Turner, Internet Security Association and Key Management Protocol (ISAKMP), RFC Editor, 1998
+Jari Arkko , Pekka Nikander, Limitations of IPsec policy mechanisms, Proceedings of the 11th international conference on Security Protocols, p.241-251, April 02-04, 2003, Cambridge, UK[doi>10.1007/11542322_29]
+{10} J. Ioannidis, "Why don't we still have IPsec, dammit," Invited Talk at USENIX Security Symp.'02, Aug. 2002.
+XiaoFeng Wang , Michael K. Reiter, Mitigating bandwidth-exhaustion attacks using congestion puzzles, Proceedings of the 11th ACM conference on Computer and communications security, October 25-29, 2004, Washington DC, USA[doi>10.1145/1030083.1030118]
+{12} M. Baugher, R. Canetti, L. Dondeti, and F. Lindholm, "Multicast Security (MSEC) group key management architecture," Internet Engineering Task Force, RFC 4046, Apr. 2005.
+{13} H. Harney, U. Meth, A. Colegrove, and G. Gross, "Group secure association key management protocol," Internet Engineering Task Force, RFC 4535, Jun. 2006.
+{14} C. Kaufman, "The Internet Key Exchange (IKEv2) protocol," Internet Engineering Task Force, RFC 4306, Dec. 2005.
+{15} W. Sommerfeld, "Requirements for an IPsec API," Internet Engineering Task Force, Internet Draft, Jun. 2003.
+{16} M. Litvin, R. Shamir, and T. Zegman, "A hybrid authentication mode for IKE," Internet Engineering Task Force, Internet Draft, Jun. 2001.
+{17} S. Beaulieu and R. Pereira, "Extended Authentication with IKE (XAUTH)," Internet Engineering Task Force, Internet Draft, Oct. 2001.
+William Aiello , Steven M. Bellovin , Matt Blaze , John Ioannidis , Omer Reingold , Ran Canetti , Angelos D. Keromytis, Efficient, DoS-resistant, secure key exchange for internet protocols, Proceedings of the 9th ACM conference on Computer and communications security, November 18-22, 2002, Washington, DC, USA[doi>10.1145/586110.586118]
+{19} D. McDonald, "A simple IP security API extension to BSD sockets," Internet Engineering Task Force, Internet Draft, Nov. 1996.
+{20} C. L. Wu, S. Wu, and R. Narayan, "IPSEC/PHIL (packet header information list): Design, implementation, and evaluation," inProc. IEEE Int. Conf. Computer Communication and Networks '01, Scottsdale, AZ, Oct. 2001, pp. 206-211.
+{21} IPsec2k Library. {Online}. Available: http://sourceforge.net/projects/ ipsec2k
+{22} IP Security Policy Working Group. IETF {Online}. Available: http:// www.ietf.org/html.charters/ipsp-charter.html
+{23} M. Condell, C. Lynn, and J. Zao, Security policy specification language Internet Engineering Task Force, Internet Draft, Oct. 1998.
+Trust management for IPsec, ACM Transactions on Information and System Security (TISSEC), v.5 n.2, p.95-118, May 2002[doi>10.1145/505586.505587]
+{25} Opportunistic Encryption. {Online}. Available: http://www.freeswan. org
+Stefan Miltchev , Sotiris Ioannidis , Angelos D. Keromytis, A Study of the Relative Costs of Network Security Protocols, Proceedings of the FREENIX Track: 2002 USENIX Annual Technical Conference, p.41-48, June 10-15, 2002
+{27} Stunnel-Universal ssl Wrapper. {Online}. Available: http://www. stunnel.org
+{28} KAME Project. {Online}. Available: http://www.kame.net.
+{29} PF_KEY Extensions for IPsec Policy Management in KAME Stack. {Online}. Available: http://www.kame.net/newsletter/20021210
+{30} C. Metz and B. Phan, "PF_KEY key management API version 2," Internet Engineering Task Force, RFC 2367, Oct. 2001.
+Gaurav Banga , Peter Druschel , Jeffrey C. Mogul, Resource containers: a new facility for resource management in server systems, Proceedings of the third symposium on Operating systems design and implementation, p.45-58, February 1999, New Orleans, Louisiana, USA
+Oliver Spatscheck , Larry L. Peterson, Defending against denial of service attacks in Scout, Proceedings of the third symposium on Operating systems design and implementation, p.59-72, February 1999, New Orleans, Louisiana, USA
+{33} IPsec Tools. {Online}. Available: http://ipsec-tools.sourceforge.net
+Stefan Saroiu , Krishna P. Gummadi , Richard J. Dunn , Steven D. Gribble , Henry M. Levy, An analysis of internet content delivery systems, Proceedings of the 5th symposium on Operating systems design and implementationCopyright restrictions prevent ACM from being able to make the PDFs for this conference available for downloading, December 09-11, 2002, Boston, Massachusetts[doi>10.1145/1060289.1060319]

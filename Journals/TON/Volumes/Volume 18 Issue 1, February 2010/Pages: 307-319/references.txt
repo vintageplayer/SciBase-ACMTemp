@@ -1,0 +1,25 @@
+Nick Feamster , Hari Balakrishnan , Jennifer Rexford , Aman Shaikh , Jacobus van der Merwe, The case for separating routing from routers, Proceedings of the ACM SIGCOMM workshop on Future directions in network architecture, August 30-30, 2004, Portland, Oregon, USA[doi>10.1145/1016707.1016709]
+A. Shankar, C. Alaettinoglu, K. Dussa-Zieger, and I. Matta, "Transient and steady-state performance of routing protocols: Distance-vector versus link-state,"Internetw.: Res. Exper., vol. 6, no. 2, pp. 59-87, Jun. 1995.
+A. Myers, E. Ng, and H. Zhang, "Rethinking the service model: Scaling Ethernet to a million nodes," presented at the ACM SIGCOMM Hot-Nets, San Diego, CA, 2004.
+Y. Ohba, Issues on loop prevention in MPLS networks, IEEE Communications Magazine, v.37 n.12, p.64-68, December 1999[doi>10.1109/35.809387]
+P. Francois and O. Bonaventure, "Avoiding transient loops during IGP convergence in IP networks," inProc. IEEE INFOCOM, Miami, FL, Mar. 2005, vol. 1, pp. 237-247.
+J. Moy, "OSPF version 2," Internet Engineering Task Force, RFC 2328, 1998 {Online}. Available: http://www.rfc-editor.org/rfc/rfc2328.txt
+Aman Shaikh , Albert Greenberg, Experience in black-box OSPF measurement, Proceedings of the 1st ACM SIGCOMM Workshop on Internet Measurement, November 01-02, 2001, San Francisco, California, USA[doi>10.1145/505202.505218]
+G. Malkin, "RIP version 2," Internet Engineering Task Force, RFC 2453, 1998 {Online}. Available: http://www.rfc-editor.org/rfc/ rfc2453.txt
+R. Albrightson, J. J. Garcia-Luna-Aceves, and J. Boyle, "EIGRP - A fast routing protocol based on distance vectors," presented at the Netw./ Interop. 1994.
+E. Gafni and D. Bertsekas, "Distributed algorithms for generating loop-free routes in networks with frequently changing topology,"IEEE Trans. Commun., vol. COM-29, no. 1, pp. 11-18, Jan. 1981.
+P. M. Merlin and A. Segall, "A failsafe distributed routing protocol,"IEEE Trans. Commun., vol. COM-27, pp. 1280-1288, Sep. 1979.
+J. M. Jaffe and F. M. Moss, "A responsive routing algorithm for computer networks,"IEEE Trans. Commun., vol. 30, pp. 1768-1762, Jul. 1982.
+J. J. Garcia-Lunes-Aceves, Loop-free routing using diffusing computations, IEEE/ACM Transactions on Networking (TON), v.1 n.1, p.130-141, Feb. 1993[doi>10.1109/90.222913]
+Srinivas Vutukury , J. J. Garcia-Luna-Aceves, A simple approximation to minimum-delay routing, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.227-238, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316227]
+S. Vutukury and J. J. Garcia-Luna-Aceves, "MDVA: A distance-vector multipath routing protocol," inProc. IEEE INFOCOM, Anchorage, AK, Apr. 2001, vol. 1, pp. 557-564.
+K. Elmeleegy, A. L. Cox, and T. S. E. Ng, "On count-to-infinity induced forwarding loops in Ethernet networks," inProc. IEEE INFOCOM, 2006, pp. 1-13.
+"Transparent interconnection of lots of links (trill)," {Online}. Available: http://www.postel.org/rbridge/
+"802.1aq--Shortest path bridging," {Online}. Available: http://www. ieee802.org/1/pages/802.1aq.html
+Dimitri Bertsekas , Robert Gallager, Data networks (2nd ed.), Prentice-Hall, Inc., Upper Saddle River, NJ, 1992
+William T. Zaumen , J. J. Garcia-Luna Aceves, Dynamics of distributed shortest-path routing algorithms, Proceedings of the conference on Communications architecture & protocols, p.31-42, September 03-06, 1991, Zurich, Switzerland[doi>10.1145/115992.115997]
+P. Humblet, "Another adaptive distributed shortest-path algorithm,"IEEE Trans. Commun., vol. 39, no. 6, pp. 995-1003, Jun. 1991.
+E. W. Dijkstra and C. S. Scholten, "Termination detection for diffusing computations,"Inf. Process. Lett., vol. 11, no. 1, pp. 1-4, Aug. 1980.
+Vincent D. Park , M. Scott Corson, A Highly Adaptive Distributed Routing Algorithm for Mobile Wireless Networks, Proceedings of the INFOCOM '97. Sixteenth Annual Joint Conference of the IEEE Computer and Communications Societies. Driving the Information Revolution, p.1405, April 09-11, 1997
+A.-L. Barabási and R. Albert, "Emergence of scaling in random networks,"Science, vol. 286, pp. 509-512, 1999.
+B. Fortz and M. Thorup, "Internet traffic engineering by optimizing OSPF weights," inProc. IEEE INFOCOM, 2000, vol. 2, pp. 519-528.

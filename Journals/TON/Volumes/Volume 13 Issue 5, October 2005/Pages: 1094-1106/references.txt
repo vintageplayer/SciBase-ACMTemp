@@ -1,0 +1,33 @@
+{1} B. Awerbuch, Y. Azar, and S. Plotkin, "Throughput-competitive on-line routing," in Proc. 34th IEEE Symp. Foundations of Computer Science, vol. 30, 1993, pp. 32-40.
+{2} ns2 Network Simulator {Online}. Available: http://www.isi.edu/ nsnam/ns/.
+{3} Spread Group Communication System {Online}. Available: http://www. spread.org/.
+Brian White , Jay Lepreau , Leigh Stoller , Robert Ricci , Shashi Guruprasad , Mac Newbold , Mike Hibler , Chad Barb , Abhijeet Joglekar, An integrated experimental environment for distributed systems and networks, Proceedings of the 5th symposium on Operating systems design and implementationCopyright restrictions prevent ACM from being able to make the PDFs for this conference available for downloading, December 09-11, 2002, Boston, Massachusetts[doi>10.1145/1060289.1060313]
+{5} Cairn Network (2001). {Online}. Available: http://www.cairn.net/
+Sally Floyd , Van Jacobson, Random early detection gateways for congestion avoidance, IEEE/ACM Transactions on Networking (TON), v.1 n.4, p.397-413, Aug. 1993[doi>10.1109/90.251892]
+V. Jacobson, Congestion avoidance and control, Symposium proceedings on Communications architectures and protocols, p.314-329, August 16-18, 1988, Stanford, California, USA[doi>10.1145/52324.52356]
+K. K. Ramakrishnan , Raj Jain, A binary feedback scheme for congestion avoidance in computer networks with a connectionless network layer, Symposium proceedings on Communications architectures and protocols, p.303-313, August 16-18, 1988, Stanford, California, USA[doi>10.1145/52324.52355]
+Sally Floyd, TCP and explicit congestion notification, ACM SIGCOMM Computer Communication Review, v.24 n.5, p.8-23, Oct. 1994[doi>10.1145/205511.205512]
+K. Ramakrishnan , S. Floyd, A Proposal to add Explicit Congestion Notification (ECN) to IP, RFC Editor, 1999
+{11} R. G. Gallager and S. J. Golestaani, "Flow control and routing algorithms for data networks," in Proc. 5th Int. Conf. Computers and Communication , 1980, pp. 779-784.
+R. J. Gibbens , F. P. Kelly, Resource pricing and the evolution of congestion control, Automatica (Journal of IFAC), v.35 n.12, p.1969-1985, December, 1999[doi>10.1016/S0005-1098(99)00135-1]
+{13} S. J. Golestani and S. Bhatacharyya, "End-to-end congestion control for the Internet: A global optimization framework," in Proc. Int. Conf. Network Protocols, Oct. 1998, pp. 137-150.
+{14} F. P. Kelly, A. K. Maulloo, and D. K. H. Tan, "Rate control for communication networks: Shadow prices, proportional fairness and stability," J. Oper. Res. Soc., vol. 49, no. 3, pp. 237-252, Mar. 1998.
+{15} D. Lapsley and S. Low, "An IP implemention of optimization flow control," in Proc. IEEE GLOBECOM, 1998, pp. 3023-3028.
+{16} D. E. Lapsley and S. Low, "Random early marking for Internet congestion control," in Proc. IEEE GLOBECOM, vol. 3, 1999, pp. 1747-1752.
+Yair Amir , Baruch Awerbuch , Amnon Barak , R. Sean Borgstrom , Arie Keren, An Opportunity Cost Approach for Job Assignment in a Scalable Computing Cluster, IEEE Transactions on Parallel and Distributed Systems, v.11 n.7, p.760-768, July 2000[doi>10.1109/71.877834]
+{18} Y. Amir, B. Awerbuch, C. Danilov, and J. Stanton, "Global flow control for wide area overlay networks: A cost-benefit approach," in Proc. IEEE Openarch, Jun. 2002, pp. 155-166.
+Idit Keidar , Jeremy Sussman , Keith Marzullo , Danny Dolev, A Client-Server Oriented Algorithm for Virtually Synchronous Group Membership in WANs, Proceedings of the The 20th International Conference on Distributed Computing Systems ( ICDCS 2000), p.356, April 10-13, 2000
+Idit Keidar , Roger I. Khazan, A Client-Server Approach to Virtually Synchronous Group Multicast: Specifications and Algorithms, Proceedings of the The 20th International Conference on Distributed Computing Systems ( ICDCS 2000), p.344, April 10-13, 2000
+D. A. Agarwal , L. E. Moser , P. M. Melliar-Smith , R. K. Budhia, The Totem multiple-ring ordering and topology maintenance protocol, ACM Transactions on Computer Systems (TOCS), v.16 n.2, p.93-132, May 1998[doi>10.1145/279227.279228]
+Yair Amir , Claudiu Danilov , Jonathan Robert Stanton, A Low Latency, Loss Tolerant Architecture and Protocol for Wide Area Group Communication, Proceedings of the 2000 International Conference on Dependable Systems and Networks (formerly FTCS-30 and DCCA-8), p.327-336, June 25-28, 2000
+Takako M. Hickey , Robbert Van Renesse, Incorporating System Resource Information into Flow Control, Cornell University, Ithaca, NY, 1995
+Dan Rubenstein , Jim Kurose , Don Towsley, The impact of multicast layering on network fairness, ACM SIGCOMM Computer Communication Review, v.29 n.4, p.27-38, Oct. 1999[doi>10.1145/316194.316203]
+Thomas Bonald , Laurent Massoulié, Impact of fairness on Internet performance, Proceedings of the 2001 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.82-91, June 2001, Cambridge, Massachusetts, USA[doi>10.1145/378420.378438]
+{26} R. C. Chalmers and K. C. Almeroth, "Developing a multicast metric," in Proc. IEEE GLOBECOM, vol. 1, 2000, pp. 382-386.
+Huayan Amy Wang , Mischa Schwartz, Achieving bounded fairness for multicast and TCP traffic in the Internet, Proceedings of the ACM SIGCOMM '98 conference on Applications, technologies, architectures, and protocols for computer communication, p.81-92, August 31-September 04, 1998, Vancouver, British Columbia, Canada[doi>10.1145/285237.285263]
+Luigi Rizzo, pgmcc: a TCP-friendly single-rate multicast congestion control scheme, ACM SIGCOMM Computer Communication Review, v.30 n.4, p.17-28, October 2000[doi>10.1145/347057.347390]
+{29} T. Montgomery, "A Loss Tolerant Rate Controller for Reliable Multicast," West Virginia Univ., Tech. Rep. NASA-IVV-97-011, Aug. 1997.
+{30} S. Chang, H. J. Chao, and X. Guo, "TCP-friendly window congestion control with dynamic grouping for reliable multicast," in Proc. IEEE GLOBECOM, vol. 1, 2000, pp. 538-547.
+{31} Y. Amir and J. Stanton, "Spread Wide Area Group Communication System," Johns Hopkins Univ. Dept. Comput. Sci., Tech. Rep. 98-4, 1998.
+{32} L. E. Moser, Y. Amir, P. M. Melliar-Smith, and D. A. Agarwal, "Extended virtual synchrony," in Proc. IEEE 14th Int. Conf. Distributed Computing Systems, Jun. 1994, pp. 56-65.
+{33} R. Vitenberg, I. Keidar, G. V. Chockler, and D. Dolev, "Group Communication Specifications: A Comprehensive Study," Inst. Comput. Sci., The Hebrew Univ. of Jerusalem, Tech. Rep. CS99-31, 1999.

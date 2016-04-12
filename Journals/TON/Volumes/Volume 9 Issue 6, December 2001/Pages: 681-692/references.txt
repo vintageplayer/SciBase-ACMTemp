@@ -1,0 +1,29 @@
+Christian Huitema, Routing in the Internet (2nd ed.), Prentice Hall PTR, Upper Saddle River, NJ, 1999
+Y. Rekhter , T. Li, A Border Gateway Protocol 4 (BGP-4), RFC Editor, 1995
+John W. Stewart, III, BGP4: Inter-Domain Routing in the Internet, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1998
+Timothy G. Griffin , Gordon Wilfong, An analysis of BGP convergence properties, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.277-288, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316231]
+K. Varadhan, R. Govindan, and D. Estrin, "Persistent route oscillations in inter-domain routing," Univ. of Southern California Information Sciences Inst., Los Angeles, Tech. Rep. 96-631, Feb. 1996.
+D. Meyer , J. Schmitz , C. Orange , M. Prior , C. Alaettinoglu, Using RPSL in Practice, RFC Editor, 1999
+Lixin Gao , Jennifer Rexford, Stable Internet routing without global coordination, Proceedings of the 2000 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.307-317, June 18-21, 2000, Santa Clara, California, USA[doi>10.1145/339331.339426]
+C. Alaettinoglu, "Scalable router configuration for the Internet," in Proc. 1EEE IC3N, Oct. 1996.
+G. Huston, "Interconnection, peering, and settlements," in Proc. INET, June 1999.
+Lixin Gao, On inferring autonomous system relationships in the internet, IEEE/ACM Transactions on Networking (TON), v.9 n.6, p.733-745, December 2001[doi>10.1109/90.974527]
+L. Subramanian, S. Agarwal, J. Rexford, and R. H. Katz, "Characterizing the Intemet hierarchy from multiple vantage points," presented at the IEEE Infocom, June 2002.
+Sam Halabi , Danny McPherson, Internet Routing Architectures, Second Edition, Cisco Systems, 2000
+R. Govindan , A. Reddy, An Analysis of Internet Inter-Domain Topology and Route Stability, Proceedings of the INFOCOM '97. Sixteenth Annual Joint Conference of the IEEE Computer and Communications Societies. Driving the Information Revolution, p.850, April 09-11, 1997
+Craig Labovitz , Abha Ahuja , Farnam Jahanian, Experimental Study of Internet Stability and Backbone Failures, Proceedings of the Twenty-Ninth Annual International Symposium on Fault-Tolerant Computing, p.278, June 15-18, 1999
+Craig Labovitz , G. Robert Malan , Farnam Jahanian, Internet routing instability, IEEE/ACM Transactions on Networking (TON), v.6 n.5, p.515-528, Oct. 1998[doi>10.1109/90.731185]
+---, "Origins of pathological Intemet routing instability," in Proc. IEEEINFOCOM, vol. 1, Mar. 1999, pp. 218-226.
+Craig Labovitz , Abha Ahuja , Abhijit Bose , Farnam Jahanian, Delayed Internet routing convergence, IEEE/ACM Transactions on Networking (TON), v.9 n.3, p.293-306, June 2001[doi>10.1109/90.929852]
+R. Govindan , C. Alaettinoglu , G. Eddy , D. Kessens , S. Kumar , Wee-San Lee, An architecture for stable, analyzable Internet routing, IEEE Network: The Magazine of Global Internetworking, v.13 n.1, p.29-35, January 1999[doi>10.1109/65.750447]
+T. Griffin and G. Wilfong, "A safe path vector protocol," in Proc. IEEE INFOCOM, vol. 2, Mar. 2000, pp. 490-499.
+Timothy G. Griffin , F. Bruce Shepherd , Gordon Wilfong, Policy Disputes in Path-Vector Protocols, Proceedings of the Seventh Annual International Conference on Network Protocols, p.21, October 31-November 03, 1999
+C. Alaettinoglu , C. Villamizar , E. Gerich , D. Kessens , D. Meyer , T. Bates , D. Karrenberg , M. Terpstra, Routing Policy Specification Language (RPSL), RFC Editor, 1999
+Ramesh Govindan , Cengiz Alaettinoğlu , Kannan Varadhan , Deborah Estrin, Route servers for inter-domain routing, Computer Networks and ISDN Systems, v.30 n.12, p.1157-1174, July 13, 1998[doi>10.1016/S0169-7552(98)00008-7]
+D. McPherson, V. Gill, D. Walton, and A. Retana. (2001, Mar.) BGP persistent route oscillation condition. IETF, Work in progress, Intemet Draft. {Online}. Available: http://www.ietf.org/intemet-drafts/draft-ietf-idr-route-oscillation-00.txt
+Thomas T. Cormen , Charles E. Leiserson , Ronald L. Rivest, Introduction to algorithms, MIT Press, Cambridge, MA, 1990
+H. Chang, R. Govindan, S. Jamin, S. Shenker, and W. Willinger, "On inferring AS-level connectivity from BGP routing tables,", 2001, submitted for publication.
+Michalis Faloutsos , Petros Faloutsos , Christos Faloutsos, On power-law relationships of the Internet topology, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.251-262, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316229]
+E. Chen , T. Bates, An Application of the BGP Community Attribute in Multi-home Routing, RFC Editor, 1996
+L. Gao, T. G. Griffin, and J. Rexford, "Inherently safe backup routing with BGP," in Proc. 1EEE INFOCOM, vol. 1, Apr. 2001, pp. 547-556.
+A. Feldmann , J. Rexford, IP network configuration for intradomain traffic engineering, IEEE Network: The Magazine of Global Internetworking, v.15 n.5, p.46-57, September 2001[doi>10.1109/65.953233]

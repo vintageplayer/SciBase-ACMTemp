@@ -1,0 +1,44 @@
+{1} S. Kota and M. Marchese, "Quality of service for satellite IP networks: A survey,"Int. J. Satell. Commun. Netw., vol. 21, no. 4-5, pp. 303-348, Jul.-Oct. 2003.
+H. Jonathan Chao , Xiaolei Guo, Quality of Service Control in High-Speed Networks, John Wiley & Sons, Inc., New York, NY, 2001
+Fatih Alagöz , David Walters , Amina AlRustamani , Branimir Vojcic , Raymond Pickholtz, Adaptive rate control and QoS provisioning in direct broadcast satellite networks, Wireless Networks, v.7 n.3, p.269-281, 05/01/2001[doi>10.1023/A:1016678122925]
+S. Shakkottai , T. S. Rappaport , P. C. Karlsson, Cross-layer design for wireless networks, IEEE Communications Magazine, v.41 n.10, p.74-80, October 2003[doi>10.1109/MCOM.2003.1235598]
+V. Kawadia , P. R. Kumar, A cautionary perspective on cross-layer design, IEEE Wireless Communications, v.12 n.1, p.3-11, February 2005[doi>10.1109/MWC.2005.1404568]
+{6} S. Ebrahimi-Taghizadeh, A. Helmy, and S. Gupta, "TCP versus TCP: A systematic study of adverse impact of short-lived TCP flows on long-lived TCP flows," inProc. IEEE INFOCOM, Miami, FL, Mar. 2005, vol. 2, pp. 2436-2446.
+Selma Yilmaz , Ibrahim Matta, On Class-based Isolation of UDP, Short-lived and Long-lived TCP Flows, Boston University, Boston, MA, 2001
+I. Matta , Liang Guo, Differentiated predictive fair service for TCP flows, Proceedings of the 2000 International Conference on Network Protocols, p.49, November 14-17, 2000
+{9} V. Laatu, J. Harju, and P. Loula, "Evaluating performance among different TCP flows in a differentiated services enabled network," inProc. 10th Int. Conf. Telecommun., Tahiti, French Polynesia, Feb. 2003, pp. 701-715.
+Marco Mellia , Ion Stoica , Hui Zhang, TCP-aware packet marking in networks with DiffServ support, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.42 n.1, p.81-100, 15 May 2003[doi>10.1016/S1389-1286(02)00467-X]
+{11} K. Papagiannaki, N. Taft, and C. Diot, "Impact of flow dynamics on traffic engineering design principles," inProc. IEEE INFOCOM, Hong Kong, Mar. 2004, vol. 4, pp. 2295-2306.
+L. S. Brakmo , L. L. Peterson, TCP Vegas: end to end congestion avoidance on a global Internet, IEEE Journal on Selected Areas in Communications, v.13 n.8, p.1465-1480, September 2006[doi>10.1109/49.464716]
+Ian F. Akyildiz , Giacomo Morabito , Sergio Palazzo, TCP-Peach: a new congestion control scheme for satellite IP networks, IEEE/ACM Transactions on Networking (TON), v.9 n.3, p.307-321, June 2001[doi>10.1109/90.929853]
+{14} M. Gerla, A. M. Y. Sanadidi, R. Wang, A. Zanella, C. Casetti, and S. Mascolo, "TCP Westwood: Congestion control using bandwidth estimation," inProc. IEEE GLOBECOM, San Antonio, TX, Nov. 2001, vol. 3, pp. 1698-1702.
+{15} A. Dell'Aera, L. A. Grieco, and S. Mascolo, "LINUX 2.4 implementation of Westwood+ TCP with rate-halving: A performance evaluation over the Internet," inProc. IEEE Int. Conf. Commun., Paris, France, Jun. 2004, pp. 2092-2096.
+J. Border , M. Kojo , J. Griner , G. Montenegro , Z. Shelby, Performance Enhancing Proxies Intended to Mitigate Link-Related Degradations, RFC Editor, 2001
+Chadi Barakat , Eitan Altman, Bandwidth tradeoff between TCP and link-level FEC, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.39 n.2, p.133-150, 5 June 2002[doi>10.1016/S1389-1286(01)00305-X]
+{18} D. Barman, I. Matta, E. Altman, and R. El Azouzi, "TCP optimization through FEC, ARQ, and transmission power tradeoffs," inProc. 2nd Int. Conf. Wired-Wireless Internet Commun. (WWIC'04), Frankfurt (Oder), Germany, Feb. 2004, pp. 87-98.
+{19} L. Galluccio, G. Morabito, and S. Palazzo, "An analytical study of a tradeoff between transmission power and FEC for TCP optimization in wireless networks," inProc. IEEE INFOCOM, San Francisco, CA, Mar. 2003, vol. 3, pp. 1765-1773.
+{20} M. Kojo, D. Astuti, L. Daniel, A. Nyrhinen, and K. Raatikainen, "Improving TCP performance over wireless WANs using TCP/IP-friendly link layer," inProc. 1st Int. Conf. E-Business Telecommun. Networks (ICETE 2004), Setúbal, Portugal, Aug. 2004, pp. 420-429.
+{21} J. Zhu and S. Roy, "Performance of land mobile satellite communication (LMSC) channel with hybrid FEC/ARQ," inProc. IEEE GLOBECOM, Taipei, Taiwan, Nov. 2002, vol. 3, pp. 2851-2854.
+{22} N. Celandroni and F. Potortì, "Maximising single connection TCP goodput by trading bandwidth for BER,"Int. J. Commun. Syst., vol. 16, no. 1, pp. 63-79, Feb. 2003.
+{23} N. Celandroni, E. Ferro, and F. Potortì, "Goodput optimisation of long-lived TCP connections in a faded satellite channel," inProc. 59th IEEE Veh. Technol. Conf., Milan, Italy, May 2004, pp. 2901-2905.
+Haïkel Yaïche , Ravi R. Mazumdar , Catherine Rosenberg, A game theoretic framework for bandwidth allocation and pricing in broadband networks, IEEE/ACM Transactions on Networking (TON), v.8 n.5, p.667-678, Oct. 2000[doi>10.1109/90.879352]
+T. V. Lakshman , Upamanyu Madhow, The performance of TCP/IP for networks with high bandwidth-delay products and random loss, IEEE/ACM Transactions on Networking (TON), v.5 n.3, p.336-350, June 1997[doi>10.1109/90.611099]
+{26} The Network Simulator--ns2. Documentation and Source Code From the Home Page {Online}. Available: http://www.isi.edu/nsnam/ns
+Jitendra Padhye , Victor Firoiu , Donald F. Towsley , James F. Kurose, Modeling TCP Reno performance: a simple model and its empirical validation, IEEE/ACM Transactions on Networking (TON), v.8 n.2, p.133-145, April 2000[doi>10.1109/90.842137]
+{28} Q1401:K= 7 Rate 1/2 Single-Chip Viterbi Decoder Technical Data Sheet. Qualcomm, Inc., 1987.
+{29} N. Celandroni, F. Davoli, E. Ferro, and A. Gotta, "A dynamic cross-layer control strategy for resource partitioning in a rain faded satellite channel with long-lived TCP connections," inNetwork Control and Engineering for QoS, Security and Mobility, III, D. Gaïti, S. Galmés, and R. Puigjaner, Eds. New York: Springer-Verlag, 2004, pp. 83-96.
+Dah-Ming Chiu , Raj Jain, Analysis of the increase and decrease algorithms for congestion avoidance in computer networks, Computer Networks and ISDN Systems, v.17 n.1, p.1-14, June 10, 1989[doi>10.1016/0169-7552(89)90019-6]
+Keith W. Ross , Peter J. Hancock, Multiservice Loss Models for Broadband Telecommunication Networks, Springer-Verlag New York, Inc., Secaucus, NJ, 1995
+{32} N. Celandroni, F. Davoli, and E. Ferro, "Static and dynamic resource allocation in a multiservice satellite network with fading,"Int. J. Satell. Commun. Network., vol. 21, no. 4-5, pp. 469-487, Jul.-Oct. 2003.
+{33} C. Touati, E. Altman, and J. Galtier, "On Fairness in Bandwidth Allocation." INRIA, Sophia Antipolis, France, Res. Rep. 4296, 2001.
+Peter Marbach, Priority service and max-min fairness, IEEE/ACM Transactions on Networking (TON), v.11 n.5, p.733-746, October 2003[doi>10.1109/TNET.2003.818196]
+Peter Marbach, Analysis of a static pricing scheme for priority services, IEEE/ACM Transactions on Networking (TON), v.12 n.2, p.312-325, April 2004[doi>10.1109/TNET.2004.826275]
+{36} F. P. Kelly, "Charging and rate control for elastic traffic,"Eur. Trans. Telecommun., vol. 8, pp. 33-37, 1998.
+{37} F. P. Kelly, A. Maulloo, and D. Tan, "Rate control in communication networks: Shadow prices, proportional fairness and stability,"J. Oper. Res. Soc., vol. 49, pp. 237-252, 1998.
+Jeonghoon Mo , Jean Walrand, Fair end-to-end window-based congestion control, IEEE/ACM Transactions on Networking (TON), v.8 n.5, p.556-567, Oct. 2000[doi>10.1109/90.879343]
+{39} R. Mazumdar, L. G. Mason, and C. Douligeris, "Fairness in network optimal flow control: Optimality of product forms,"IEEE Trans. Commun., vol. 39, no. 5, pp. 75-782, May 1991.
+Richard J. La , Venkat Anantharam, Utility-based rate control in the Internet for elastic traffic, IEEE/ACM Transactions on Networking (TON), v.10 n.2, April 2002
+Nedo Celandroni , Franco Davoli , Erina Ferro , Alberto Gotta, Adaptive bandwidth partitioning among TCP elephant connections over multiple rain-faded satellite channels, Proceedings of the Third international conference on Quality of Service in Multiservice IP Networks, February 02-04, 2005, Catania, Italy[doi>10.1007/978-3-540-30573-6_44]
+{42} N. Celandroni and F. Potortì, "Fade countermeasure using signal degradation estimation for demand-assignment satellite systems,"J. Commun. Networks, vol. 2, no. 3, pp. 230-238, Sep. 2000.
+Nedo Celandroni , Franco Davoli , Erina Ferro , Alberto Gotta, Adaptive cross-layer bandwidth allocation in a rain-faded satellite environment: Research Articles, International Journal of Communication Systems, v.19 n.5, p.509-530, June 2006[doi>10.1002/dac.v19:5]
+{44} M. Biddiscombe, "Proportional Fairness--A Query." {Online}. Available: http://www.priatel.co.uk/martin/work/propfair.pdf

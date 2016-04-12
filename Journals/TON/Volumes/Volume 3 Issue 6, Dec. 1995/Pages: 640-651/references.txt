@@ -1,0 +1,16 @@
+R. Black, "Fast CRC32 in software," in ATM Document Collection 3 (The Blue Book). Cambridge, England: University of Cambridge Computer Laboratory, 1994, ch. 21,
+R. Braden, D. Borman, and C. Partridge, "Computing the Internet checksum," DARPA Network Working Group, RFC 107 i, Sept. 1988.
+A. Cockburn, Efficient implementation of the OSI transport protocol checksum algorithm using 8/16-bit arithmetic, ACM SIGCOMM Computer Communication Review, v.17 n.3, p.13-20, July/Aug. 1987[doi>10.1145/36727.36730]
+J. G. Fletcher, "An arithmetic checksum for serial transmissions," IEEE Trans. Commun., vol. COM-30, pp. 247-252, Jan. 1982.
+Georgia Griffiths , G. Carlyle Stones, The tea-leaf reader algorithm: an efficient implementation of CRC-16 and CRC-32, Communications of the ACM, v.30 n.7, p.617-620, July 1987[doi>10.1145/28569.28572]
+David A. Patterson , John L. Hennessy, Computer architecture: a quantitative approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1990
+A. K. Lenstra, "Documentation of LIP," Technical Memorandum TM- 24936, Bellcore, 1993.
+A. J. McAuley, Weighted sum codes for error detection and their comparison with existing codes, IEEE/ACM Transactions on Networking (TON), v.2 n.1, p.16-22, Feb. 1994[doi>10.1109/90.282604]
+Anastase Nakassis, Fletcher's error detection algorithm: how to implement it efficiently and how toavoid the most common pitfalls, ACM SIGCOMM Computer Communication Review, v.18 n.5, p.63-88, October 1988[doi>10.1145/53644.53648]
+A. Perez, "Byte-wise CRC calculations," IEEE Micro Mag., pp. 40-50, June 1983.
+W. W. Peterson and D. T. Brown, "Cyclic codes for error detection," in Proc. IRE, vol. 49, pp. 228-235, Jan. 1961.
+Tenkasi V. Ramabadran , Sunil S. Gaitonde, A Tutorial on CRC Computations, IEEE Micro, v.8 n.4, p.62-75, July 1988[doi>10.1109/40.7773]
+D. V. Sarwate, Computation of cyclic redundancy checks via table look-up, Communications of the ACM, v.31 n.8, p.1008-1013, Aug. 1988[doi>10.1145/63030.63037]
+K. Sklower, Improving the efficiency of the OSI checksum calculation, ACM SIGCOMM Computer Communication Review, v.19 n.5, p.32-43, Oct. 1989[doi>10.1145/74681.74684]
+CORPORATE SPARC International, Inc., The SPARC architecture manual: version 8, Prentice-Hall, Inc., Upper Saddle River, NJ, 1992
+W. Timothy Strayer , Bert J. Dempsey , Alfred C. Weaver, XTP: the Xpress Transfer Protocol, Addison Wesley Longman Publishing Co., Inc., Redwood City, CA, 1992

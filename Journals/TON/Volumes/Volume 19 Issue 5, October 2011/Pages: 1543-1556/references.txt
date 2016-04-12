@@ -1,0 +1,28 @@
+A. Atlas and A. Zinin, "Basic specification for IP fast reroute: Loopfree alternates," IETF RFC 5286, Sep. 2008.
+A.-L. Barabási and R. Albert, "Emergence of scaling in random networks,"Science, vol. 286, no. 5439, pp. 509-512, Oct. 1999.
+Supratik Bhattacharyya , Christophe Diot , Jorjeta Jetcheva, Pop-level and access-link-level traffic dynamics in a tier-1 POP, Proceedings of the 1st ACM SIGCOMM Workshop on Internet Measurement, November 01-02, 2001, San Francisco, California, USA[doi>10.1145/505202.505209]
+B. Bollobas,Random Graphs, 2nd ed. Cambridge, U.K.: Cambridge Univ. Press, 2001.
+T. Cicic , A. F. Hansen , A. Kvalbein , M. Hartmann , R. Martin , M. Menth , S. Gjessing , O. Lysne, Relaxed multiple routing configurations: IP fast reroute for single and correlated failures, IEEE Transactions on Network and Service Management, v.6 n.1, p.1-14, March 2009[doi>10.1109/TNSM.2009.090301]
+R. Diestel,Graph Theory, 3rd ed. New York: Springer, 2005.
+Nick Feamster , Hari Balakrishnan , Jennifer Rexford , Aman Shaikh , Jacobus van der Merwe, The case for separating routing from routers, Proceedings of the ACM SIGCOMM workshop on Future directions in network architecture, August 30-30, 2004, Portland, Oregon, USA[doi>10.1145/1016707.1016709]
+B. Fortz and M. Thorup, "Internet traffic engineering by optimizing OSPF weights," inProc. IEEE INFOCOM, 2000, vol. 2, pp. 519-528.
+Albert Greenberg , Gisli Hjalmtysson , David A. Maltz , Andy Myers , Jennifer Rexford , Geoffrey Xie , Hong Yan , Jibin Zhan , Hui Zhang, A clean slate 4D approach to network control and management, ACM SIGCOMM Computer Communication Review, v.35 n.5, October 2005[doi>10.1145/1096536.1096541]
+A. Kvalbein, A. F. Hansen, T. Cicic, S. Gjessing, and O. Lysne, "Fast IP network recovery using multiple routing configurations," inProc. IEEE INFOCOM, 2006, pp. 1-11.
+Kin Wah Kwong , Roch Guérin , Anees Shaikh , Shu Tao, Improving service differentiation in IP networks through dual topology routing, Proceedings of the 2007 ACM CoNEXT conference, December 10-13, 2007, New York, New York[doi>10.1145/1364654.1364675]
+K.-W. Kwong, L. Gao, R. Guérin, and Z.-L. Zhang, "On the feasibility and efficacy of protection routing in IP networks," Univ. Pennsylvania, Tech. rep., Jul. 2009.
+Kin-Wah Kwong , Lixin Gao , Roch Guérin , Zhi-Li Zhang, On the feasibility and efficacy of protection routing in IP networks, Proceedings of the 29th conference on Information communications, p.1235-1243, March 14-19, 2010, San Diego, California, USA
+Karthik Lakshminarayanan , Matthew Caesar , Murali Rangan , Tom Anderson , Scott Shenker , Ion Stoica, Achieving convergence-free routing using failure-carrying packets, Proceedings of the 2007 conference on Applications, technologies, architectures, and protocols for computer communications, August 27-31, 2007, Kyoto, Japan[doi>10.1145/1282380.1282408]
+A. Medina , N. Taft , K. Salamatian , S. Bhattacharyya , C. Diot, Traffic matrix estimation: existing techniques and new directions, Proceedings of the 2002 conference on Applications, technologies, architectures, and protocols for computer communications, August 19-23, 2002, Pittsburgh, Pennsylvania, USA[doi>10.1145/633025.633041]
+Michael Menth , Matthias Hartmann , Rüdiger Martin , Tarik ičić , Amund Kvalbein, Loop-free alternates and not-via addresses: A proper combination for IP fast reroute?, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.54 n.8, p.1300-1315, June, 2010[doi>10.1016/j.comnet.2009.10.020]
+Antonio Nucci , Supratik Bhattacharyya , Nina Taft , Christophe Diot, IGP link weight assignment for operational Tier-1 backbones, IEEE/ACM Transactions on Networking (TON), v.15 n.4, p.789-802, August 2007[doi>10.1109/TNET.2007.893878]
+Y. Ohara, S. Imahori, and R. V. Meter, "MARA: Maximum alternative routing algorithm," inProc. IEEE INFOCOM, 2009, pp. 298-306.
+Haldane Peterson , Soumya Sen , Jaideep Chandrashekar , Lixin Gao , Roch Guerin , Zhi-Li Zhang, Message-efficient dissemination for loop-free centralized routing, ACM SIGCOMM Computer Communication Review, v.38 n.3, July 2008[doi>10.1145/1384609.1384616]
+Saikat Ray , Roch Guérin , Kin-Wah Kwong , Rute Sofia, Always acyclic distributed path computation, IEEE/ACM Transactions on Networking (TON), v.18 n.1, p.307-319, February 2010[doi>10.1109/TNET.2009.2025374]
+Christoph Reichert , Yuri Glickmann, Two Routing Algorithms for Failure Protection in IP Networks, Proceedings of the 10th IEEE Symposium on Computers and Communications, p.97-102, June 27-30, 2005[doi>10.1109/ISCC.2005.150]
+C. Reichert and T. Magedanz, "Topology requirements for resilient IP networks," inProc. 12th GI/ITG Conf. Meas., Mod. Eval. Comput. Commun. Syst., 2004, pp. 379-388.
+"Rocketfuel project," Univ. Washington, Seattle, WA {Online}. Available: www.cs.washington.edu/research/networking/rocketfuel
+G. Schollmeier, J. Charzinski, A. Kirstädter, C. Reichert, K. Schrodi, Y. Glickman, and C. Winkler, "Improving the resilience in IP networks," inProc. HPSR, 2003, pp. 91-96.
+M. Shand and S. Bryant, "IP fast reroute rramework," Internet Draft (work in progress), Jun. 2009.
+M. Shand, S. Bryant, and S. Previdi, "IP fast reroute using NotVia addresses," Internet draft (work in progress), Jul. 2009.
+Hong Yan , David A. Maltz , T. S. Eugene Ng , Hemant Gogineni , Hui Zhang , Zheng Cai, Tesseract: a 4D network control plane, Proceedings of the 4th USENIX conference on Networked systems design & implementation, p.27-27, April 11-13, 2007, Cambridge, MA
+Z. Zhong, S. Nelakuditi, Y. Yu, S. Lee, J. Wang, and C.-N. Chuah, "Failure inferencing based fast rerouting for handling transient link and node failures," inProc. IEEE INFOCOM, 2005, vol. 4, pp. 2859-2863.

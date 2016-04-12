@@ -1,0 +1,42 @@
+F. M. Chiussi , J. G. Kneuer , V. P. Kumar, Low-cost scalable switching solutions for broadband networking: the ATLANTA architecture and chipset, IEEE Communications Magazine, v.35 n.12, p.44-53, December 1997[doi>10.1109/MCOM.1997.642833]
+{2} J. Turner and N. Yamanaka, "Architectural choices in large scale ATM switches,"IEICE Trans. Commun., vol. E81-B, no. 2, pp. 120-137, 1998.
+{3} J. Bolaria and B. Wheeler,A Guide To Switch Fabrics. Mountain View, CA: The Linley Group, 2002.
+Jose Duato , Sudhakar Yalamanchili , Ni Lionel, Interconnection Networks: An Engineering Approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2002
+{5}Standard for Local and Metropolitan Area Networks: Overview and Architecture, IEEE Std 802-2001, LAN/MAN Standards Committee, IEEE Computer Society, Feb. 2002.
+Sally Floyd , Vern Paxson, Difficulties in simulating the internet, IEEE/ACM Transactions on Networking (TON), v.9 n.4, p.392-403, August 2001[doi>10.1109/90.944338]
+{7}Infiniband Architecture, Specification 1.0.a, Jun. 19, 2001.
+F. Baker, Requirements for IP Version 4 Routers, RFC Editor, 1995
+{9} C. Berger, M. Kossel, C. Menolfi, T. Morf, T. Toifl, and M. Schmatz, "High-density optical interconnects within large-scale systems,"Proc. SPIE, vol. 4942, pp. 222-235, 2003.
+{10} W. Ng, P. Galloway, and M. Annand, "Copper cabling for multigigabit serial links for inter-cabinet connections," inProc. High Performance System Design Conf. (DesignCon2002), Santa Clara, CA, Jan. 2002.
+{11} P. Chiang, W. J. Dally, and M.-J. E. Lee, "A 20 Gb/s 0.13 µm CMOS serial link," inProc. Hot Chips 2002, 14th Symp. High Performance Chips, Palo Alto, CA, Aug. 2002.
+{12} R. Ronen, A. Mendelson, K. Lai, S.-L. Lu, F. Pollack, and J. P. Shen, "Coming challenges in microarchitecture and architecture,"Proc. IEEE, vol. 89, no. 3, pp. 325-340, Mar. 2001.
+H. C.B. Chan , H. M. Alnuweiri , V. C.M. Leung, A framework for optimizing the cost and performance of next-generation IP routers, IEEE Journal on Selected Areas in Communications, v.17 n.6, p.1013-1029, September 2006[doi>10.1109/49.772427]
+{14} F. M. Chiussi and A. Francini, "Providing QoS guarantees in packet switches," inProc. GLOBECOM '99, Rio de Janeireo, Brazil, Dec. 1999, pp. 1582-1590.
+{15} F. M. Chiussi, A. Francini, D. A. Khotimsky, and S. Krishnan, "Feedback control in a distributed scheduling architecture," inProc. GLOBECOM 2000, San Francisco, CA, Nov. 2000, pp. 525-531.
+S. Blake , D. Black , M. Carlson , E. Davies , Z. Wang , W. Weiss, An Architecture for Differentiated Service, RFC Editor, 1998
+William Dally , Brian Towles, Principles and Practices of Interconnection Networks, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2003
+V. Fineberg, A practical architecture for implementing end-to-end QoS in an IP network, IEEE Communications Magazine, v.40 n.1, p.122-130, January 2002[doi>10.1109/35.978059]
+Abhay K. Parekh , Robert G. Gallager, A generalized processor sharing approach to flow control in integrated services networks: the single-node case, IEEE/ACM Transactions on Networking (TON), v.1 n.3, p.344-357, June 1993[doi>10.1109/90.234856]
+D. C. Stephens , J. C.R. Bennett , Hui Zhang, Implementing scheduling algorithms in high-speed networks, IEEE Journal on Selected Areas in Communications, v.17 n.6, p.1145-1158, September 2006[doi>10.1109/49.772449]
+Y. Tamir , G. L. Frazier, High-performance multi-queue buffers for VLSI communications switches, Proceedings of the 15th Annual International Symposium on Computer architecture, p.343-354, May 30-June 02, 1988, Honolulu, Hawaii, USA
+Nick McKeown, The iSLIP scheduling algorithm for input-queued switches, IEEE/ACM Transactions on Networking (TON), v.7 n.2, p.188-201, April 1999[doi>10.1109/90.769767]
+{23} C. Minkenberg, "Performance of i-SLIP scheduling with large round-trip latency," inProc. IEEE Workshop on High-Performance Switching and Routing (HPSR 2003), Torino, Italy, Jun. 2003, pp. 49-54.
+F. M. Chiussi , A. Francini, A distributed scheduling architecture for scalable packet switches, IEEE Journal on Selected Areas in Communications, v.18 n.12, p.2665-2683, September 2006[doi>10.1109/49.898749]
+Shang-Tse Chuang , A. Goel , N. McKeown , B. Prabhakar, Matching output queueing with a combined input/output-queued switch, IEEE Journal on Selected Areas in Communications, v.17 n.6, p.1030-1039, September 2006[doi>10.1109/49.772430]
+P. Krishna , N. S. Patel , A. Charny , R. J. Simcoe, On the speedup required for work-conserving crossbar switches, IEEE Journal on Selected Areas in Communications, v.17 n.6, p.1057-1066, September 2006[doi>10.1109/49.772435]
+{27} I. Stoica and H. Zhang, "Exact emulation of an output queueing switch by a combined input output queueing switch," inProc. 6th Int. Workshop on Quality of Service (IWQoS 98), Napa, CA, 1998, pp. 218-224.
+C. Minkenberg , T. Engbersen, A combined input and output queued packet switched system based on PRIZMA switch on a chip technology, IEEE Communications Magazine, v.38 n.12, p.70-77, December 2000[doi>10.1109/35.888260]
+{29} M. Katevenis, D. Serpanos, and E. Spyridakis, "Switching fabrics with internal backpressure using the ATLAS I single-chip ATM switch," inProc. GLOBECOM '97, Phoenix, AZ, Nov. 1997, pp. 242-246.
+{30} R. Rojas-Cessa, E. Oki, and H. J. Chao, "CIXOB-k: Combined input-crosspoint-output buffered packet switch," inProc. GLOBECOM '01, 2001, vol. 4, pp. 2654-2660.
+{31} D. C. Stephens and H. Zhang, "Implementing distributed packet fair queueing in a scalable switch architecture," inProc. IEEE INFOCOM '98, San Francisco, CA, 1998, vol. 1, pp. 282-290.
+{32} M. Nabeshima, "Performance evaluation of a combined input- and crosspoint-queued switch,"IEICE Trans. Commun., vol. E83-B, no. 3, pp. 737-74, Mar. 2000.
+{33} T. Javidi, R. Magill, and T. Hrabik, "A high-throughput scheduling algorithm for a buffered crossbar switch fabric," inProc. ICC 2001, Helsinki, Finland, Jun. 2001, vol. 5, pp. 1586-1591.
+{34} H. J. Chao, S. Y. Liew, and Z. Jing, "A dual-level matching algorithm for 3-stage closed-network packet switches," inProc. Hot Interconnects 2003, Stanford, CA, Aug. 2003, pp. 38-43.
+François Abel , Cyriel Minkenberg , Ronald P. Luijten , Mitchell Gusat , Ilias Iliadis, 10 A Four-Terabit Packet Switch Supporting Long Round-Trip Times, IEEE Micro, v.23 n.1, p.10-24, January 2003[doi>10.1109/MM.2003.1179894]
+{36} J. W. Causey and H. S. Kim, "Comparison of buffer allocation schemes in ATM switches: Complete sharing, partial sharing, and dedicated allocation," inProc. ICC '94, New Orleans, LA, 1994, pp. 1164-1168.
+{37} F. Le Maut and G. Garcia, "A scalable switch fabric to multi-terabit: Architecture and challenges," inProc. Hot Chips 2002, 14th Symp. High Performance Chips, Palo Alto, CA, Aug. 2002.
+N. T. Kung , R. Morris, Credit-based flow control for ATM networks, IEEE Network: The Magazine of Global Internetworking, v.9 n.2, p.40-48, March 1995[doi>10.1109/65.372658]
+{39} F. Gramsamer, M. Gusat, and R. Luijten, "Flow control scheduling,"J. Microprocess. Microsyst., vol. 27, no. 5-6, pp. 233-241, Jun. 2003.
+{40} M. Katevenis, "Buffer requirements of credit-based flow control when a minimum draining rate is guaranteed," inProc. HPCS '97, Chaldiki, Greece, 1997, pp. 168-178.
+{41} R. P. Luijten, C. Minkenberg, and M. Gusat, "Reducing memory size in buffered crossbars with large internal flow control latency," inProc. GLOBECOM 2003, San Francisco, CA, Dec. 2003, vol. 7, pp. 3683-3687.
+Sally Floyd , Van Jacobson, Link-sharing and resource management models for packet networks, IEEE/ACM Transactions on Networking (TON), v.3 n.4, p.365-386, Aug. 1995[doi>10.1109/90.413212]

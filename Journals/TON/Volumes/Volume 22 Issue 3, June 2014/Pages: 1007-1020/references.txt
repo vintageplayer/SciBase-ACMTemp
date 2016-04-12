@@ -1,0 +1,43 @@
+Nick McKeown , Tom Anderson , Hari Balakrishnan , Guru Parulkar , Larry Peterson , Jennifer Rexford , Scott Shenker , Jonathan Turner, OpenFlow: enabling innovation in campus networks, ACM SIGCOMM Computer Communication Review, v.38 n.2, April 2008
+B. Salisbury, "TCAMs and OpenFlow--What every SDN practitioner must know," SDN Central, 2012 [Online]. Available: http://www.sdncentral.com/products-technologies/sdn-open-flow-tcam-need-to-know/2012/07/
+B. Heller, "OpenFlow switch specification," OpenFlow Consortium, 2008 [Online]. Available: http://www.openflowswitch.org/documents/openflow-spec-v0.8.9.pdf
+P. Gupta, S. Lin, and N. McKeown, "Routing lookups in hardware at memory access speeds," inProc. 17th Annu. IEEE INFOCOM, 1998, vol. 3, pp. 1240-1247.
+H. H.-Y. Tzeng , T. Przygienda, On fast address-lookup algorithms, IEEE Journal on Selected Areas in Communications, v.17 n.6, p.1067-1082, September 2006
+J. van Lunteren , T. Engbersen, Fast and scalable packet classification, IEEE Journal on Selected Areas in Communications, v.21 n.4, p.560-571, September 2006
+J. Liao, "SDN system performance," 2012 [Online]. Available: http://pica8.org/blogs/?p=201
+R. Ozdag, "Intel ethernet switch FM6000 series--Software defined neworking," Intel Corporation, 2012, p. 8.
+Arista Networks, Inc., Santa Clara, CA, USA, "7150 series 1/10 GbE SFP ultra low latency switch," 2012.
+Cisco Systems, Inc., San Jose, CA, USA, "Cisco Nexus 3548 switch architecture," 2012.
+Dimitrios Serpanos , Tilman Wolf, Architecture of Network Systems, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2011
+P. Gupta , N. McKeown, Algorithms for packet classification, IEEE Network: The Magazine of Global Internetworking, v.15 n.2, p.24-32, March 2001
+David E. Taylor, Survey and taxonomy of packet classification techniques, ACM Computing Surveys (CSUR), v.37 n.3, p.238-275, September 2005
+George Nychis , Chris Fallin , Thomas Moscibroda , Onur Mutlu, Next generation on-chip networks: what kind of congestion control do we need?, Proceedings of the 9th ACM SIGCOMM Workshop on Hot Topics in Networks, p.1-6, October 20-21, 2010, Monterey, California
+Cyriel Minkenberg , Mitchell Gusat , German Rodriguez, Adaptive Routing in Data Center Bridges, Proceedings of the 2009 17th IEEE Symposium on High Performance Interconnects, p.33-41, August 25-27, 2009
+R. Jain , S. Routhier, Packet Trains--Measurements and a New Model for Computer Network Traffic, IEEE Journal on Selected Areas in Communications, v.4 n.6, p.986-995, September 2006
+C. Partridge, "Locality and route caches," 1996 [Online]. Available: http://www.caida.org/outreach/isma/9602/positions/partridge.html
+D. C. Feldmeier, "Improving gateway performance with a routing-table cache," inProc. 7th Annu. IEEE INFOCOM, 1988, pp. 298-307.
+P. Newman , G. Minshall , T. Lyon , L. Huston, IP switching and gigabit routers, IEEE Communications Magazine, v.35 n.1, p.64-69, January 1997
+Theophilus Benson , Ashok Anand , Aditya Akella , Ming Zhang, Understanding data center traffic characteristics, Proceedings of the 1st ACM workshop on Research on enterprise networking, August 21-21, 2009, Barcelona, Spain
+A. Partow, "General purpose hash function algorithms," 2013 [Online]. Available: http://www.partow.net/programming/hashfunctions/index.html
+Ganesh Ananthanarayanan , Randy H. Katz, Greening the switch, Proceedings of the 2008 conference on Power aware computing and systems, p.7-7, December 07, 2008, San Diego, California
+Priya Mahadevan , Puneet Sharma , Sujata Banerjee , Parthasarathy Ranganathan, A Power Benchmarking Framework for Network Devices, Proceedings of the 8th International IFIP-TC 6 Networking Conference, May 11-15, 2009, Aachen, Germany
+Hang-Sheng Wang , Li-Shiuan Peh , Sharad Malik, A Power Model for Routers: Modeling Alpha 21364 and InfiniBand Routers, IEEE Micro, v.23 n.1, p.26-35, January 2003
+Terry Tao Ye , Giovanni De Micheli , Luca Benini, Analysis of power consumption on switch fabrics in network routers, Proceedings of the 39th annual Design Automation Conference, June 10-14, 2002, New Orleans, Louisiana, USA
+K. Le, "SerDes power minimization allows SoC solutions,"EE Times, 2002.
+A. D. Bovopoulos, "Dune fabric power," Davis, CA, USA, 2009.
+N. Jouppi, "CACTI," HPLabs, 2008 [Online]. Available: http://www. hpl.hp.com/research/cacti/
+B. Agrawal and T. Sherwood, "Modeling TCAM power for next generation network devices," inProc. IEEE Int. Symp. Perform. Anal. Syst. Softw., 2006, pp. 120-129.
+Z. Kai, H. Chengchen, L. Hongbin, and L. Bin, "An ultra high throughput and power efficient TCAM-based IP lookup engine," inProc. 23rd IEEE INFOCOM, 2004, vol. 3, pp. 1984-1994.
+V. C. Ravikumar , Rabi N. Mahapatra , Laxmi Narayan Bhuyan, EaseCAM: An Energy and Storage Efficient TCAM-Based Router Architecture for IP Lookup, IEEE Transactions on Computers, v.54 n.5, p.521-533, May 2005
+F. Zane, N. Girija, and A. Basu, "Coolcams: Power-efficient TCAMs for forwarding engines," inProc. 22nd IEEE INFOCOM, 2003, vol. 1, pp. 42-52.
+John L. Hennessy , David A. Patterson, Computer Architecture, Fourth Edition: A Quantitative Approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2006
+Ruoming Pang , Mark Allman , Mike Bennett , Jason Lee , Vern Paxson , Brian Tierney, A first look at modern enterprise traffic, Proceedings of the 5th ACM SIGCOMM conference on Internet Measurement, p.2-2, October 19-21, 2005, Berkeley, CA
+D. Bailey, T. Harris, W. Saphir, and R. van der Wijngaart, "The NAS parallel benchmarks 2.0," NASA Ames Research Center, Moffett Field, CA, USA, Rep. NAS95-020, 1995.
+Paul Congdon , Matthew Farrens , Prasant Mohapatra, Packet prediction for speculative cut-through switching, Proceedings of the 4th ACM/IEEE Symposium on Architectures for Networking and Communications Systems, November 06-07, 2008, San Jose, California
+Rina Panigrahy , Samar Sharma, Reducing TCAM Power Consumption and Increasing Throughput, Proceedings of the 10th Symposium on High Performance Interconnects HOT Interconnects, p.107, August 21-23, 2002
+Jeffrey C. Mogul , Jean Tourrilhes , Praveen Yalagandula , Puneet Sharma , Andrew R. Curtis , Sujata Banerjee, DevoFlow: cost-effective flow management for high performance enterprise networks, Proceedings of the 9th ACM SIGCOMM Workshop on Hot Topics in Networks, p.1-6, October 20-21, 2010, Monterey, California
+Soraya Kasnavi , Paul Berube , Vincent C. Gaudet , José Nelson Amaral, A multizone pipelined cache for IP routing, Proceedings of the 4th IFIP-TC6 international conference on Networking Technologies, Services, and Protocols; Performance of Computer and Communication Networks; Mobile and Wireless Communication Systems, May 02-06, 2005, Waterloo, Canada
+Tsutomu Yoshinaga , Shojiro Kamakura , Michihiro Koibuchi, Predictive Switching in 2-D Torus Routers, Proceedings of the International Workshop on Innovative Architecture for Future Generation High Performance Processors and Systems, p.65-72, January 23-25, 2006
+Z. Ding , R. Hoare , A. Jones , D. Li , S. Shao , S. Tung , J. Zheng , R. Melhem, Switch Design to Enable Predictive Multiplexed Switching in Multiprocessor Networks, Proceedings of the 19th IEEE International Parallel and Distributed Processing Symposium (IPDPS'05) - Papers, p.100.1, April 04-08, 2005
+Li-Shiuan Peh , William J. Dally, A Delay Model and Speculative Architecture for Pipelined Routers, Proceedings of the 7th International Symposium on High-Performance Computer Architecture, p.255, January 20-24, 2001
+G. Surendra , S. Banerjee , S. K. Nandy, On the effectiveness of flow aggregation in improving instruction reuse in network processing applications, International Journal of Parallel Programming, v.31 n.6, p.469-487, December 2003

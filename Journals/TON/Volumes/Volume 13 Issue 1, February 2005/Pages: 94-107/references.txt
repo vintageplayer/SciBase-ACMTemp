@@ -1,0 +1,56 @@
+Christos H. Papadimitriou , John N. Tsitsiklis, The Complexity of Optimal Queuing Network Control, Mathematics of Operations Research, v.24 n.2, p.293-305, February 1999[doi>10.1287/moor.24.2.293]
+V. Jacobson, Congestion avoidance and control, Symposium proceedings on Communications architectures and protocols, p.314-329, August 16-18, 1988, Stanford, California, USA[doi>10.1145/52324.52356]
+{3} W. Stevens, "TCP Slow Start, Congestion Avoidance, Fast Retransmit and Fast Recovery Algorithms," Network Working Group, RFC 2001, 1997.
+P. Karn , C. Partridge, Improving round-trip time estimates in reliable transport protocols, Proceedings of the ACM workshop on Frontiers in computer communications technology, p.2-7, August 11-13, 1987, Stowe, Vermont, USA[doi>10.1145/55482.55484]
+W. Richard Stevens, TCP/IP illustrated (vol. 1): the protocols, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1993
+{6} V. Jacobson, R. Braden, and D. Borman, "TCP Extensions for High Performance," Network Working Group, RFC 1323, 1992.
+L. S. Brakmo , L. L. Peterson, TCP Vegas: end to end congestion avoidance on a global Internet, IEEE Journal on Selected Areas in Communications, v.13 n.8, p.1465-1480, September 2006[doi>10.1109/49.464716]
+{8} "Traffic Management Specification Version 4.0," ATM Forum, Tech. Rep. AF-TM-0056.000, 1996.
+{9} L. Roberts, "Enhanced PRCA (Proportional Rate Control Algorithm)," ATM Forum, Tech. Rep. AF-TM 94-0735R1, 1994.
+{10} R. Jain, S. Kalyanaraman, R. Goyal, S. Fahmy, and R. Viswanathan, "Erica Switch Algorithm, A Complete Description," ATM Forum, AF/96-1172, 1996.
+{11} P. Newman, "Backward explicit congestion notification for ATM local area networks," in Proc. GLOBECOM'93, 1993, pp. 719-723.
+Scott Shenker , Lixia Zhang , David D. Clark, Some observations on the dynamics of a congestion control algorithm, ACM SIGCOMM Computer Communication Review, v.20 n.5, p.30-39, Oct 1 1990[doi>10.1145/381906.381931]
+{13} J. Martin and A. Nilsson, "The Evolution of Congestion Control in TCP/IP: From Reactive Windows to Preventive Flow Control," North Carolina State Univ., TR-97/11, 1997.
+T. V. Lakshman , Upamanyu Madhow, The performance of TCP/IP for networks with high bandwidth-delay products and random loss, IEEE/ACM Transactions on Networking (TON), v.5 n.3, p.336-350, June 1997[doi>10.1109/90.611099]
+A. Feldmann , A. C. Gilbert , W. Willinger, Data networks as cascades: investigating the multifractal nature of Internet WAN traffic, Proceedings of the ACM SIGCOMM '98 conference on Applications, technologies, architectures, and protocols for computer communication, p.42-55, August 31-September 04, 1998, Vancouver, British Columbia, Canada[doi>10.1145/285237.285256]
+Anja Feldmann , Anna C. Gilbert , Polly Huang , Walter Willinger, Dynamics of IP traffic: a study of the role of variability and the impact of control, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.301-313, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316235]
+{17} C. E. Rohrs, R. A. Berry, and S. J. O'Halek, "A control engineer's look at ATM congestion avoidance," in Proc. GLOBECOM'95, 1995.
+{18} A. Segall, "The modeling of adaptive routing in data communication networks," IEEE Trans. Commun., vol. 25, no. 1, pp. 85-95, Jan. 1977.
+S. Keshav, A control-theoretic approach to flow control, ACM SIGCOMM Computer Communication Review, v.25 n.1, p.188-201, Jan. 1995[doi>10.1145/205447.205463]
+Lotfi Benmohamed , Semyon M. Meerkov, Feedback control of congestion in packet switching networks: the case of a single congested node, IEEE/ACM Transactions on Networking (TON), v.1 n.6, p.693-708, Dec. 1993[doi>10.1109/90.266057]
+{21} L. Benmohamed and Y. T. Yang, "A control-theoretic ABR explicit rate algorithm for ATM switches with per-vc queueing," in Proc. IEEE INFOCOM, vol. 1, 1998, pp. 183-191.
+Aleksandar Kolarov , G. Ramamurthy, A control-theoretic approach to the design of an explicit rate controller for ABR service, IEEE/ACM Transactions on Networking (TON), v.7 n.5, p.741-753, Oct. 1999[doi>10.1109/90.803387]
+{23} A. Pitsillides and J. Lambert, "Adaptive connection admission and flow control: Quality of service with high utilization," in Proc. IEEE INFOCOM, vol. 1, 1994, pp. 1083-1091.
+Andreas Pitsillides , Jim Lambert, Research: Adaptive congestion control in ATM based networks: quality of service and high utilisation, Computer Communications, v.20 n.14, p.1239-1258, December, 1997[doi>10.1016/S0140-3664(97)00128-X]
+A. Pitsillides , Y. A. Sekercioglu , G. Ramamurthy, Effective control of traffic flow in ATM networks using fuzzy explicit rate marking (FERM), IEEE Journal on Selected Areas in Communications, v.15 n.2, p.209-225, February 1997[doi>10.1109/49.552071]
+Y. -C. Liu , C. Douligeris, Rate regulation with feedback controller in ATM networks-a neural network approach, IEEE Journal on Selected Areas in Communications, v.15 n.2, p.200-208, February 1997[doi>10.1109/49.552070]
+{27} A. Pitsillides and A. Sekercioglu, Congestion Control in Computational Intelligence in Telecommunications Networks, W. Pedrycz and A. V. Vasilakos, Eds. Cleveland, OH: CRC Press, 2000, pp. 109-158.
+{28} A. Pitsillides and P. Ioannou, "Combined nonlinear control of flow rate and bandwidth for virtual paths in ATM based networks," in Proc. 3rd IEEE Mediterranean Symp. New Directions in Control and Automation, Limassol, Cyprus, Jul. 1995.
+Andreas Pitsillides , Petros Ioannou , David Tipper, Integrated control of connection admission, flow rate, and bandwidth for ATM based networks, Proceedings of the Fifteenth annual joint conference of the IEEE computer and communications societies conference on The conference on computer communications, March 24-28, 1996, San Francisco, California
+A Simulation Study on the Performance of Integrated Switching Strategy for Traffic Management in ATM Networks, Proceedings of the Third IEEE Symposium on Computers & Communications, p.13, June 30-July 02, 1998
+Petros A. Ioannou , Jing Sun, Robust adaptive control, Prentice-Hall, Inc., Upper Saddle River, NJ, 1995
+{32} R. Braden, V. Jacobson, and S. Shenker, "Integrated Services in the Internet Architecture: An Overview," Network Working Group, RFC 1633, 1994.
+{33} D. Black, S. Blake, M. Carlson, E. Davies, Z. Wang, and W. Weiss, "An Architecture for Differentiated Services," Network Working Group, RFC 2475, 1998.
+James F. Kurose , Keith Ross, Computer Networking: A Top-Down Approach Featuring the Internet, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 2002
+{35} D. Black et al., "Recommendations on Queue Management and Congestion Avoidance in the Internet," Network Working Group, RFC 2309, 1998.
+Sally Floyd , Van Jacobson, Random early detection gateways for congestion avoidance, IEEE/ACM Transactions on Networking (TON), v.1 n.4, p.397-413, Aug. 1993[doi>10.1109/90.251892]
+{37} K. K. Ramakrishnan and S. Floyd. (1998) A Proposal to Add Explicit Congestion Notification (ECN) to IP. Internet Engineering Task Force. {Online}. Available: draft-kksjf-ecn-03.txt
+{38} K. K. Ramakrishnan, B. Davie, and S. Floyd. (1999) A Proposal to Incorporate ECN in MPLS. Internet Engineering Task Force. {Online}. Available: draft-mpls-ecn-00.txt
+Sally Floyd , Kevin Fall, Promoting the use of end-to-end congestion control in the Internet, IEEE/ACM Transactions on Networking (TON), v.7 n.4, p.458-472, Aug. 1999[doi>10.1109/90.793002]
+C. V. Hollot , V. Misra , D. Towsley , W. Gong, A Control Theoretic Analysis of RED TITLE2:, University of Massachusetts, Amherst, MA, 2000
+{41} V. Jacobson, K. Nichols, and K. Poduri, "An Expedited Forwarding PHB," Network Working Group, RFC 2598, 1999.
+{42} J. Heinamen, F. Baker, W. Weiss, and J. Wroclawski, "Assured Forwarding PHB Group," Network Working Group, RFC 2597, 1999.
+{43} R. Satyavolu, K. Duvedi, and S. Kalyanaraman, "Explicit Rate Control of TCP Applications," ATM Forum, ATM Forum/98-0152R1, 1998.
+{44} A. Almeida and C. Belo, "Explicit rate congestion control with binary notifications," in Proc. 10th IEEE Workshop on Local and Metropolitan Area Networks (LANMAN), Sydney, Australia, Nov. 1999.
+{45} D. Tipper and M. K. Sundareshan, "Numerical methods for modeling computer networks under nonstationary conditions," IEEE J. Select. Areas Commun., vol. 8, no. 6, pp. 1682-1695, Dec. 1990.
+{46} C. Agnew, "Dynamic modeling and control of congestion-prone systems," Oper. Res., vol. 24, no. 3, pp. 400-419, 1976.
+{47} J. Filipiak, Modeling and Control of Dynamic Flows in Communication Networks. New York: Springer-Verlag, 1988.
+{48} S. Sharma and D. Tipper, "Approximate models for the study of non-stationary queues and their application to communication networks," in Proc. IEEE Int. Conf. Communications (ICC'93), May 1993, pp. 352-358.
+XueDao Gu , Kazem Sohraby , Dhadesugoor R. Vaman, Control and Performance in Packet, Circuit, and ATM Networks, Kluwer Academic Publishers, Norwell, MA, 1995
+{50} D. Anick, D. Mitra, and M. Sondhi, "Stochastic theory of data handling system and multiple sources," Bell Syst. Tech. J., vol. 61, pp. 1871-1894, 1982.
+{51} Y. Wardi and B. Melamed, "Continuous flow models: Modeling simulation and continuity properties," in Proc. 38th Conf. Decision and Control, vol. 1, Dec. 1999, pp. 34-39.
+{52} L. Rossides, A. Pitsillides, and P. Ioannou, "Non-Linear Congestion Control: Comparison of a Fluid-Flow Based Model with OPNET," Univ. Cyprus, TR-99-1, 1999.
+Jean-Chrysostome Bolot , A. Udaya Shankar, Analysis of a fluid approximation to flow control dynamics, Proceedings of the eleventh annual joint conference of the IEEE computer and communications societies on One world through communications (Vol. 3), p.2398-2407, May 1992, Florence, Italy
+Design and Analysis of Queue Control Functions for Explicit Rate Switch Schemes, Proceedings of the International Conference on Computer Communications and Networks, p.780, October 12-15, 1998
+K. Kawahara , Y. Oie , M. Murata , H. Miyahara, Performance analysis of reactive congestion control for ATM networks, IEEE Journal on Selected Areas in Communications, v.13 n.4, p.651-661, September 2006[doi>10.1109/49.382156]
+{56} B. Maglaris, D. Anastassiou, P. Sen, G. Karlsson, and J. Robbins, "Performance models of statistical multiplexing in packet video communications," IEEE Trans. Commun., vol. 36, no. 7, pp. 834-844, Jul. 1988.

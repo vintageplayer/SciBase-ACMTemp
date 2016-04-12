@@ -1,0 +1,43 @@
+Dina Katabi , Mark Handley , Charlie Rohrs, Congestion control for high bandwidth-delay product networks, Proceedings of the 2002 conference on Applications, technologies, architectures, and protocols for computer communications, August 19-23, 2002, Pittsburgh, Pennsylvania, USA[doi>10.1145/633025.633035]
+I. Rhee and L. Xu, "CUBIC: A new TCP-friendly high-speed TCP variant," inProc. PFLDNet, 2005.
+C. Jin, D. Wei, and S. Low, "FAST TCP: Motivation, architecture, algorithms and performance," inProc. IEEE INFOCOM, 2004, vol. 4, pp. 2490-2501.
+V. Konda and J. Kaur, "RAPID: Shrinking the congestion-control timescale," inProc. IEEE INFOCOM, 2009, pp. 1-9.
+K. Tan, J. Song, Q. Zhang, and M. Sridharan, "A compound TCP approach for high-speed and long distance networks," inProc. IEEE INFOCOM, 2006, pp. 1-12.
+Nandita Dukkipati , Masayoshi Kobayashi , Rui Zhang-Shen , Nick McKeown, Processor sharing flows in the internet, Proceedings of the 13th international conference on Quality of Service, June 21-23, 2005, Passau, Germany[doi>10.1007/11499169_22]
+Shivkumar Kalyanaraman , Raj Jain , Sonia Fahmy , Rohit Goyal , Bobby Vandalore, The ERICA switch algorithm for ABR traffic management in ATM networks, IEEE/ACM Transactions on Networking (TON), v.8 n.1, p.87-98, Feb. 2000[doi>10.1109/90.836480]
+A. Falk, D. Katabi, and Y. Pryadkin, "Specification for the Explicit Control Protocol (XCP)," draft-falk-xcp-03.txt, 2007.
+C.-H. Tai, J. Zhu, and N. Dukkipati, "Making large scale deployment of RCP practical for real networks," inProc. IEEE INFOCOM, 2008, pp. 2180-2188.
+S. H. Gunderson, "IPv6 deployment," RIPE 57, 2008.
+Sally Floyd , Van Jacobson, Random early detection gateways for congestion avoidance, IEEE/ACM Transactions on Networking (TON), v.1 n.4, p.397-413, Aug. 1993[doi>10.1109/90.251892]
+K. Ramakrishnan , S. Floyd , D. Black, The Addition of Explicit Congestion Notification (ECN) to IP, RFC Editor, 2001
+Yong Xia , Lakshminarayanan Subramanian , Ion Stoica , Shivkumar Kalyanaraman, One more bit is enough, Proceedings of the 2005 conference on Applications, technologies, architectures, and protocols for computer communications, August 22-26, 2005, Philadelphia, Pennsylvania, USA[doi>10.1145/1080091.1080098]
+Ihsan Ayyub Qazi , Taieb Znati, On the design of load factor based congestion control protocols for next-generation networks, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.55 n.1, p.45-60, January, 2011[doi>10.1016/j.comnet.2010.07.010]
+F. Kelly, "Charging and rate control for elastic traffic,"Eur. Trans. Telecommun., vol. 8, pp. 33-37, 1997.
+S. Athuraliya , S. H. Low , V. H. Li , Qinghe Yin, REM: active queue management, IEEE Network: The Magazine of Global Internetworking, v.15 n.3, p.48-53, May 2001[doi>10.1109/65.923940]
+M. Sharma, D. Katabi, R. Pan, and P. Prabhakar, "An in-band easy-to-deploy mechanism for network-to-transport signaling," inProc. IEEE GLOBECOM, 2004, vol. 2, pp. 1278-1283.
+M. Adler, J. yi Cai, J. K. Shapiro, and D. Towsley, "Estimation of congestion price using probabilistic packet marking," inProc. IEEE INFOCOM, 2003, vol. 3, pp. 2068-2078.
+Richard W. Thommes , Mark J. Coates, Deterministic packet marking for time-varying congestion price estimation, IEEE/ACM Transactions on Networking (TON), v.14 n.3, p.592-602, June 2006[doi>10.1109/TNET.2006.876191]
+L. L. H. Andrew, S. V. Hanly, S. Chan, and T. Cui, "Adaptive deterministic packet marking,"IEEE Commun. Lett., vol. 10, no. 11, pp. 790-792, Nov. 2006.
+L. L. H. Andrew and S. V. Hanly, "The estimation error of adaptive deterministic packet marking," inProc. Allerton Conf. Commun., Control, Comput., 2006.
+H.-K. Ryu and S. Chong, "Deterministic packet marking for max-min flow control,"IEEE Commun. Letters, vol. 9, no. 9, pp. 856-858, Sep. 2005.
+M. Mathis , J. Mahdavi , S. Floyd , A. Romanow, TCP Selective Acknowledgement Options, RFC Editor, 1996
+Nedeljko Vasic , Srinidhi Kuntimaddi , Dejan Kostic, One bit is enough: a framework for deploying explicit feedback congestion control protocols, Proceedings of the First international conference on COMmunication Systems And NETworks, p.503-511, January 05-10, 2009, Bangalore, India
+Xiaolong Li , Homayoun Yousefi'zadeh, MPCP: multi packet congestion-control protocol, ACM SIGCOMM Computer Communication Review, v.39 n.5, October 2009[doi>10.1145/1629607.1629609]
+Srisankar Kunniyur , R. Srikant, Analysis and design of an adaptive virtual queue (AVQ) algorithm for active queue management, Proceedings of the 2001 conference on Applications, technologies, architectures, and protocols for computer communications, p.123-134, August 2001, San Diego, California, USA[doi>10.1145/383059.383069]
+X. D. Wei, "Microscopic behavior of Internet congestion control," Ph.D. dissertation, California Institute of Technology, Pasadena, CA, 2007.
+Vern Paxson, End-to-end Internet packet dynamics, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.139-152, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263155]
+Jay Aikat , Jasleen Kaur , F. Donelson Smith , Kevin Jeffay, Variability in TCP round-trip times, Proceedings of the 3rd ACM SIGCOMM conference on Internet measurement, October 27-29, 2003, Miami Beach, FL, USA[doi>10.1145/948205.948241]
+Robert Shorten , Fabian Wirth , Douglas Leith, A positive systems model of TCP-like congestion control: asymptotic results, IEEE/ACM Transactions on Networking (TON), v.14 n.3, p.616-629, June 2006[doi>10.1109/TNET.2006.876178]
+Wai-Tian Tan , A. Zakhor, Real-time Internet video using error resilient scalable compression and TCP-friendly transport protocol, IEEE Transactions on Multimedia, v.1 n.2, p.172-186, June 1999[doi>10.1109/6046.766738]
+Lei Guo , Enhua Tan , Songqing Chen , Zhen Xiao , Oliver Spatscheck , Xiaodong Zhang, Delving into internet streaming media delivery: a quality and resource utilization perspective, Proceedings of the 6th ACM SIGCOMM conference on Internet measurement, October 25-27, 2006, Rio de Janeriro, Brazil[doi>10.1145/1177080.1177108]
+K. K. Ramakrishnan , Raj Jain, A binary feedback scheme for congestion avoidance in computer networks, ACM Transactions on Computer Systems (TOCS), v.8 n.2, p.158-181, May 1990[doi>10.1145/78952.78955]
+Martin Corless , Robert Shorten, Deterministic and stochastic convergence properties of AIMD algorithms with nonlinear back-off functions, Automatica (Journal of IFAC), v.48 n.7, p.1291-1299, July, 2012[doi>10.1016/j.automatica.2012.03.014]
+Françis Baccelli , Sridhar Machiraju , Darryl Veitch , Jean Bolot, The role of PASTA in network measurement, IEEE/ACM Transactions on Networking (TON), v.17 n.4, p.1340-1353, August 2009[doi>10.1109/TNET.2008.2011129]
+S. Ha and I. Rhee, "Hybrid slow start for high-bandwidth and longdistance networks," inProc. PFLDnet, 2008.
+S. H. Low, L. L. H. Andrew, and B. P. Wydrowski, "Understanding XCP: Equilibrium and fairness," inProc. IEEE INFOCOM, 2005, vol. 2, pp. 1025-1036.
+X. Li and H. Yousefi'zadeh, "DCP-EW: Distributed congestion-control protocol for encrypted wireless networks," inProc. IEEE WCNC, 2010, pp. 1-6.
+D. Papadimitriou, M.Welzl, M. Scharf, and B. Briscoe, "Open research issues in internet congestion control," RFC 6077, Feb. 2011.
+M. Suchara, L. L. H. Andrew, R. Witt, K. Jacobsson, B. P. Wydrowski, and S. H. Low, "Implementation of provably stable maxnet," inProc. BROADNETS, 2008, pp. 561-568.
+R. Fonseca, G. M. Porter, R. H. Katz, S. Shenker, and I. Stoica, "IP options are not an option," UC Berkeley, Berkeley, CA, 2005.
+I. A. Qazi, L. L. H. Andrew, and T. Znati, "Incremental deployment of new ECN-compatible congestion control," inProc. PFLDNeT, 2009.
+I. A. Qazi, L. L.H. Andrew, and T. Znati, "Congestion control using efficient explicit feedback," inProc. IEEE INFOCOM, 2009, pp. 10-18.

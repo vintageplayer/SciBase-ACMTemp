@@ -1,0 +1,27 @@
+D. L. Mills, "Network time protocol (Version 3) specification, implementation and analysis," IEFT, Network Working Group, RFC-1305, Mar. 1992, p. 113.
+D. L. Mills, "The network computer as precision timekeeper," inProc. PTTI Appl. Planning Meeting, Reston, VA, Dec. 1996, pp. 96-108.
+John C. Eidson, Measurement, Control, and Communication Using IEEE 1588 (Advances in Industrial Control), Springer-Verlag New York, Inc., Secaucus, NJ, 2006
+"The Precision Time protocol (PTP), ptpd," 2010 {Online}. Available: http://ptpd.sourceforge.net/
+K. Correll, N. Barendt, and M. Branicky, "Design considerations for software only implementations of the IEEE 1588 precision time protocol," presented at the ISPCS Zurich, Switzerland, Oct. 10-12, 2005, 6 pages.
+D. L. Mills, "A kernel model for precision timekeeping," IEFT, Network Working Group, RFC-1589, 1994.
+A. Pásztor and D. Veitch, "A precision infrastructure for active probing," inProc. PAM, Amsterdam, The Netherlands, Apr. 23-24, 2001, pp. 33-44.
+Attila Pásztor , Darryl Veitch, PC based precision timing without GPS, Proceedings of the 2002 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 15-19, 2002, Marina Del Rey, California[doi>10.1145/511334.511336]
+Darryl Veitch , Satish Babu , Attila Pàsztor, Robust synchronization of software clocks across the internet, Proceedings of the 4th ACM SIGCOMM conference on Internet measurement, October 25-27, 2004, Taormina, Sicily, Italy[doi>10.1145/1028788.1028817]
+E. Corell, P. Saxholm, and D. Veitch, "A user friendly TSC clock," inProc. PAM, Adelaide, Australia, Mar. 30-31, 2006, pp. 141-150.
+Darryl Veitch , Julien Ridoux , Satish Babu Korada, Robust synchronization of absolute and difference clocks over networks, IEEE/ACM Transactions on Networking (TON), v.17 n.2, p.417-430, April 2009[doi>10.1109/TNET.2008.926505]
+J. Ridoux and D. Veitch, "Ten microseconds over LAN, for free," inProc. ISPCS, Vienna, Austria, Oct. 1-3, 2007, pp. 105-109.
+J. Ridoux and D. Veitch, "Ten microseconds over LAN, for free (Extended),"IEEE Trans. Instrum. Meas., vol. 58, no. 6, pp. 1841-1848, Jun. 2009.
+J. Ridoux and D. Veitch, "The cost of variability," inProc. ISPCS, Ann Arbor, Michigan, Sep. 24-26, 2008, pp. 29-32.
+T. Broomhead, J. Ridoux, and D. Veitch, "Counter availability and characteristics for feed-forward based synchronization," inProc. ISPCS, Brescia, Italy, Oct. 12-16, 2009, pp. 29-34.
+N. Chongning, D. Obradovic, R. Scheiterer, G. Steindl, and F.-J. Goetz, "Synchronization performance of the precision time protocol," inProc. ISPCS, Vienna, Austria, Oct. 1-3, 2007, pp. 25-32.
+G. Giorgi and C. Narduzzi, "Modeling and simulation analysis of PTP clock servo," inProc. ISPCS, Vienna, Austria, Oct. 1-3, 2007, pp. 155-161.
+David L. Mills, Computer Network Time Synchronization: The Network Time Protocol, CRC Press, Inc., Boca Raton, FL, 2006
+D. L. Mills and P.-H. Kamp, "The nanokernel," inProc. 32nd Annu. PTTI, Reston, VA, Nov. 2000, pp. 423-430.
+Julien Ridoux , Darryl Veitch, Principles of robust timing over the internet, Communications of the ACM, v.53 n.5, May 2010[doi>10.1145/1735223.1735241]
+J. Ridoux and D. Veitch, "A methodology for clock benchmarking," presented at the Tridentcom, Orlando, FL, May 21-23, 2007, 10 pages.
+"Endace measurement systems," Endace, Auckland, New Zealand {Online}. Available: http://www.endace.com/
+Timothy Broomhead , Laurence Cremean , Julien Ridoux , Darryl Veitch, Virtualize everything but time, Proceedings of the 9th USENIX conference on Operating systems design and implementation, p.1-6, October 04-06, 2010, Vancouver, BC, Canada
+P. H. Kamp, "Timecounters: Efficient and precise timekeeping in SMP kernels," presented at the BSDCon Eur., Amsterdam, The Netherlands, Nov. 15-17, 2002, 10 pages.
+P. Ohly, D. N. Lombard, and K. B. Stanton, "Hardware assisted precision time protocol. Design and case study," inProc. LCI Int. Conf. High-Perform. Clustered Comput., Urbana, IL, Apr. 2008, pp. 121-131.
+Takanori Watanabe, ACPI Implementation on FreeBSD, Proceedings of the FREENIX Track: 2002 USENIX Annual Technical Conference, p.121-131, June 10-15, 2002
+J. Mogul, D. Mills, J. Brittenson, J. Stone, and U. Windl, "Pulse-persecond API for UNIX-like operating systems, version 1.0," IETF, Tech. rep., 2000.

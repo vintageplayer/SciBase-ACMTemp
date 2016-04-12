@@ -1,0 +1,32 @@
+{1} V. Ribeiro, R. Riedi, M. S. Crouse, and R. G. Baraniuk, "Multiscale queueing analysis of long-range-dependent network traffic," inProc. IEEE INFOCOM, Mar. 2000, pp. 1026-1035.
+{2} K. Papagiannaki, S. Moon, C. Fraleigh, P. Thiran, F. Tobagi, and C. Diot, "Analysis of measured single-hop delay from an operational backbone network," inProc. IEEE INFOCOM, Jun. 2002, pp. 535-544.
+{3} L. Breslau, S. Jamin, and S. Shenker, "Comments on the performance of measurement-based admission control," inProc. IEEE INFOCOM, Mar. 2000, pp. 1233-1242.
+{4} C. Fraleigh, F. Tobagi, and C. Diot, "Provisioning IP backbone networks to support latency sensitive traffic," inProc. IEEE INFOCOM, Apr. 2003, pp. 375-385.
+Will E. Leland , Murad S. Taqqu , Walter Willinger , Daniel V. Wilson, On the self-similar nature of Ethernet traffic (extended version), IEEE/ACM Transactions on Networking (TON), v.2 n.1, p.1-15, Feb. 1994[doi>10.1109/90.282603]
+{6} I. Norros, "A storage model with self-similar input,"Queueing Syst., vol. 16, pp. 387-396, 1994.
+{7} N. Duffield and N. O'Connell, "Large deviations and overflow probabilities for the general single-server queue, with applications,"Math. Proc. Cambr. Phil. Soc, vol. 118, pp. 363-374, 1995.
+{8} J. Hüsler and V. Piterbarg, "Extremes of a certain class of Gaussian processes,"Stochastic Process. Applicat., vol. 83, pp. 257-271, 1999.
+Arnold L. Neidhardt , Jonathan L. Wang, The concept of relevant time scales and its application to queuing analysis of self-similar traffic (or is Hurst naughty or nice?), Proceedings of the 1998 ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems, p.222-232, June 22-26, 1998, Madison, Wisconsin, USA[doi>10.1145/277851.277923]
+M. Grossglauser , J.-C. Bolot, On the relevance of long-range dependence in network traffic, ACM SIGCOMM Computer Communication Review, v.26 n.4, p.15-24, Oct. 1996[doi>10.1145/248157.248159]
+{11} J. Choe and N. B. Shroff, "Queueing analysis of high-speed multiplexers including long-range dependent arrival processes," inProc. IEEE INFOCOM, Mar. 1999, pp. 617-624.
+{12} A. Erramilli, O. Narayan, A. Neidhardt, and I. Sanjee, "Performance impacts of multi-scaling in wide area TCP/IP traffic," inProc. IEEE INFOCOM, Mar. 2000, pp. 352-359.
+Krzysztof Dębicki , Tomasz Rolski, A Note on Transient Gaussian Fluid Models, Queueing Systems: Theory and Applications, v.41 n.4, p.321-342, August 2002[doi>10.1023/A:1016283330996]
+Bruce Hajek , Linhai He, On variations of queue response for inputs with the same mean and autocorrelation function, IEEE/ACM Transactions on Networking (TON), v.6 n.5, p.588-598, Oct. 1998[doi>10.1109/90.731194]
+{15} S. Ma and C. Ji, "Modeling video traffic in the wavelet domain," inProc. IEEE INFOCOM, Mar. 1998, pp. 201-208.
+{16} S. Ma, "Network Traffic Modeling and Analyisis," Ph.D. dissertation, Rensselaer Polytechnic Inst., Troy, NY, 1998.
+R. H. Riedi , M. S. Crouse , V. J. Ribeiro , R. G. Baraniuk, A multifractal wavelet model with application to network traffic, IEEE Transactions on Information Theory, v.45 n.3, p.992-1018, April 1999[doi>10.1109/18.761337]
+{18} D. Fan, "The distribution of the product of independent beta variables,"Commun. Statist.-Theory Meth., vol. 20, no. 12, pp. 4043-4052, 1991.
+{19} O. Narayan, "Exact asymptotic queue length distribution for fractional brownian traffic,"Adv. Perform. Anal., vol. 1, no. 1, pp. 39-63, 1998.
+{20} L. Massoulié and A. Simonian, "Large buffer asymptitocs for the queue with fBm input,"J. Appl. Probabil., vol. 36, no. 3, pp. 894-906, 1999.
+Kihong Park , Walter Willinger, Self-Similar Network Traffic and Performance Evaluation, John Wiley & Sons, Inc., New York, NY, 2000
+{22} Auckland-II Trace Archive. NLANR, Trace 20000125-143640, corresponding to 3:11:28 hours of mostly TCP traffic. {Online}. Available: http://moat.nlanr.net/Traces/Kiwitraces/
+{23} M. Crouse and R. G. Baraniuk, "Fast, exact synthesis of Gaussian and non-Gaussian long-range dependent processes,"IEEE Trans. Inf. Theory, submitted for publication.
+Ashok Erramilli , Onuttom Narayan , Walter Willinger, Experimental queueing analysis with long-range dependent packet traffic, IEEE/ACM Transactions on Networking (TON), v.4 n.2, p.209-223, April 1996[doi>10.1109/90.491008]
+Daniel P. Heyman , T. V. Lakshman, What are the implications of long-range dependence for VBR-video traffic engineering?, IEEE/ACM Transactions on Networking (TON), v.4 n.3, p.301-317, June 1996[doi>10.1109/90.502230]
+Minothi Parulekar , Armand M. Makowski, Tail probabilities for a multiplexer with self-similar traffic, Proceedings of the Fifteenth annual joint conference of the IEEE computer and communications societies conference on The conference on computer communications, March 24-28, 1996, San Francisco, California
+Bong K. Ryu , Anwar Elwalid, The importance of long-range dependence of VBR video traffic in ATM traffic engineering: myths and realities, Conference proceedings on Applications, technologies, architectures, and protocols for computer communications, p.3-14, August 28-30, 1996, Palo Alto, California, USA[doi>10.1145/248156.248158]
+{28} O. Rose, Statistical properties of MPEG video traffic and their impact on traffic modeling in ATM systems, Univ. Wuerzburg, Inst. Computer Science Research Report Series, Tech. Rep. 101, 1995.
+Youngmi Joo , Vinay Ribeiro , Anja Feldmann , Anna C. Gilbert , Walter Willinger, TCP/IP traffic dynamics and network performance: a lesson in workload modeling, flow control, and trace-driven simulations, ACM SIGCOMM Computer Communication Review, v.31 n.2, April 2001[doi>10.1145/505666.505670]
+{30} R. J. Adler,An Introduction to Continuity, Extrema, and Related Topics for General Gaussian Processes. Institute of Mathematical Statistics, 1990, IMS Lecture Notes--Monograph Series.
+{31} P. Billingsley,Probability and Measure. New York: Wiley Interscience, 1995.
+{32} V. I. Piterbarg, "Asymptotic methods in the theory of Gaussian processes and fields," inTranslations of Mathematical Monographs. Providence, RI: American Mathematical Society, 1996, vol. 148.

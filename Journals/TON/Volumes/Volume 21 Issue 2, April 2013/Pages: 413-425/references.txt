@@ -1,0 +1,27 @@
+D. S. M. Jager and R. Hulsermann, "Comparison of resilience mechanisms for dynamic services in intelligent optical networks," inProc. IEEE/VDE DRCN, 2003, pp. 106-113.
+G. Shen and W. D. Grover, "Design and performance of protected working capacity envelopes based onp-cycles for dynamic provisioning of survivable services,"J. Opt. Netw., vol. 4, pp. 361-390, Jul. 2005.
+K. Yang and K. Silvalingam, "Routing in SONET/VCAT based optical WDM networks," inProc. Int. Conf. Broadband Netw., Sep. 2009, pp. 1-8.
+W. D. Grover and D. Stamatelakis, "Cycle-oriented distributed preconfiguration: Ring-like speed with mesh-like capacity for self-planning network restoration," inProc. IEEE ICC, Jun. 1998, pp. 537-543.
+W. He and A. Somani, "Comparison of protection mechanisms: Capacity efficiency and recovery time," inProc. IEEE ICC, 2007, pp. 2218-2223.
+W. Zhong and Z. Zhang, "p-cycles-based dynamic protection provisioning in optical WDM networks,"IEICE Trans. Commun., vol. 88, no. 5, pp. 1921-1926, 2005.
+Z. Zhang, W. Zhong, and B. Mukherjee, "A heuristic method for design of survivable WDM networks withp-cycles,"IEEE Commun. Lett., vol. 8, no. 7, pp. 467-469, Jul. 2004.
+W. Grover,Mesh-Based Survivable Networks. Upper Saddle River, NJ: Prentice-Hall, 2004.
+L. Ruan and F. Tang, "Dynamic establishment of restorable connections usingp-cycle protection in WDM networks," inProc. Int. Conf. Broadband Netw., Oct. 2005, vol. 1, pp. 137-144.
+Weiyi Zhang , Xiaojiang Du , Kendall Nygard , Tie Wang, Self-protecting networking using dynamic p-cycle construction within link capacity constraint, Proceedings of the 2009 IEEE international conference on Communications, p.2265-2270, June 14-18, 2009, Dresden, Germany
+A. Metnani and B. Jaumard, "Directedp-cycle protection in dynamic WDM networks," inProc. IEEE RNDM, St. Petersburg, Russia, Oct. 2009, pp. 1-6.
+B. Jaumard and A. Metnani, "Stability ofp-cycles under dynamic traffic," inProc. IEEE GLOBECOM, Dec. 2010, pp. 1-5.
+A. Metnani and B. Jaumard, "Dynamic provisioning and stability of -cycles in WDM networks,"J. Opt. Commun. Netw., vol. 3, pp. 713-724, Sep. 2011.
+A. Metnani and B. Jaumard, "Dynamic protection provisioning with FIPPp-cycles in WDM networks," inProc. IEEE ONDM, Bologna, Italy, Feb. 2011, pp. 1-6.
+Nortel, Mississauga, Canada, "Delivering dynamic and efficient wavelength networking with eROADM technology," White Paper, 2006.
+S. Perrin, "The need for next generation ROADM networks," Heavy Reading, White Paper, Sep. 2012.
+P. Pavon-Marino and M. Bueno-Delgado, "Dimensioning the add/drop contention factor of directionless ROADMs,"J. Lightw. Technol., vol. 29, no. 21, pp. 3265-3274, Nov. 2011.
+A. Kodian and W. Grover, "Failure-independent path-protectingp-cycles efficient and simple fully preconnected optical-path protection,"J. Lightw. Technol., vol. 23, no. 10, pp. 3241-3259, Oct. 2005.
+C. Rocha and B. Jaumard, "Efficient computation of FIPPp-cycles,"Telecommun. Syst., 2012, accepted for publication.
+B. Jaumard, C. Rocha, D. Baloukov, and W. D. Grover, "A column generation approach for design of networks using path-protectingp-cycles," inProc. IEEE/VDE DRCN, Oct. 2007, pp. 1-8.
+Biswanath Mukherjee, Optical WDM Networks (Optical Networks), Springer-Verlag New York, Inc., Secaucus, NJ, 2006
+L. Lasdon,Optimization Theory for Large Systems. New York: MacMillan, 1970.
+V. Chvatal,Linear Programming. San Francisco, CA: Freeman, 1983.
+G. Nemhauser and L. Wolsey,Integer and Combinatorial Optimization. New York: Wiley, 1999.
+Cynthia Barnhart , Ellis L. Johnson , George L. Nemhauser , Martin W. P. Savelsbergh , Pamela H. Vance, Branch-And-Price: Column Generation for Solving Huge Integer Programs, Operations Research, v.46 n.3, p.316-329, March 1998
+IBM ILOG CPLEX 11.0 Optimization Studio. IBM, Armonk, NY, 2011.
+Daniel Brélaz, New methods to color the vertices of a graph, Communications of the ACM, v.22 n.4, p.251-256, April 1979

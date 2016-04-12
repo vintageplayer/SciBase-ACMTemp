@@ -1,0 +1,42 @@
+{1} J. McQuillan, "Adaptive routing algorithms for distributed computer networks," Bolt Beranek and Newman Inc., Cambridge, MA, BBN Rep. 2831, May 1974.
+W. T. Tsai , C. V. Ramamoorthy , W. K. Tsai , O. Nishiguchi, An Adaptive Hierarchical Routing Protocol, IEEE Transactions on Computers, v.38 n.8, p.1059-1075, August 1989[doi>10.1109/12.30862]
+Shree Murthy , J. J. Garcia-Luna-Aceves, Loop-Free Internet Routing Using Hierarchical Routing Trees, Proceedings of the INFOCOM '97. Sixteenth Annual Joint Conference of the IEEE Computer and Communications Societies. Driving the Information Revolution, p.101, April 09-11, 1997
+{4} J. Behrens and J. J. Garcia-Luna-Aceves, "Hierarchical routing using link vectors," inProc. IEEE INFOCOM'98, Apr. 1998, pp. 702-710.
+{5} D. J. Baker and A. Ephremides, "The architectural organization of a mobile radio network via a distributed algorithm,"IEEE Trans. Commun., vol. 29, pp. 1694-1701, Nov. 1981.
+{6} A. Ephremides, J. E. Wieselthier, and D. J. Baker, "A design concept for reliable mobile radio networks with frequency hopping signaling,"Proc. IEEE, vol. 75, no. 1, pp. 56-73, Jan. 1987.
+Mario Gerla , Jack Tzu-Chieh Tsai, Multicluster, mobile, multimedia radio network, Wireless Networks, v.1 n.3, p.255-265, 1995[doi>10.1007/BF01200845]
+{8} A. K. Parekh, "Selecting routers in ad hoc wireless networks," inProc. SBT/IEEE Int. Telecommun. Symp., Aug. 1994, pp. 420-424.
+P. Krishna , N. H. Vaidya , M. Chatterjee , D. K. Pradhan, A cluster-based approach for routing in dynamic networks, ACM SIGCOMM Computer Communication Review, v.27 n.2, p.49-64, Apr. 1997[doi>10.1145/263876.263885]
+{10} D. Kim, S. Ha, and Y. Choi, "K-hop cluster-based dynamic source routing in wireless ad hoc packet radio networks," inProc. IEEE Trans. Veh. Technol. Conf., 1998, pp. 224-228.
+{11} A. D. Amis, R. Prakash, T. H. P. Vuong, and D. T. Huynh, "Max-min D-cluster formation in wireless ad hoc networks," inProc. IEEE INFOCOM 2000, 2000, pp. 32-41.
+Mainak Chatterjee , Sajal K. Das , Damla Turgut, WCA: A Weighted Clustering Algorithm for Mobile Ad Hoc Networks, Cluster Computing, v.5 n.2, p.193-204, April 2002[doi>10.1023/A:1013941929408]
+{13} F. Garcia, J. Solano, and I. Stojmenovic, "Connectivity based k-hop clustering in wireless networks,"Telecommun. Syst., vol. 22, pp. 205-220, 2003.
+{14} S. Bandyopadhyay and E. J. Coyle, "An energy efficient hierarchical clustering algorithm for wireless sensor networks," inProc. IEEE INFOCOM 2003, Apr. 2003, pp. 1713-1723.
+{15} L. Kleinrock and F. Kamoun, "Hierarchical routing for large networks: Performance evaluation and optimization,"Comput. Netw., vol. 1, pp. 155-174, 1977.
+J. Lian , S. Naik , G. B. Agnew, Optimal solution of total routing table size for hierarchical networks, Proceedings of the Ninth International Symposium on Computers and Communications 2004 Volume 2 (ISCC"04), p.834-839, June 28-July 01, 2004
+{17} D. B. Johnson and D. A. Maltz, "Dynamic source routing in ad hoc wireless networks,"Mobile Comput., pp. 153-181, 1996.
+Charles E. Perkins , Pravin Bhagwat, Highly dynamic Destination-Sequenced Distance-Vector routing (DSDV) for mobile computers, Proceedings of the conference on Communications architectures, protocols and applications, p.234-244, August 31-September 02, 1994, London, United Kingdom[doi>10.1145/190314.190336]
+Charles E. Perkins , Elizabeth M. Royer, Ad-hoc On-Demand Distance Vector Routing, Proceedings of the Second IEEE Workshop on Mobile Computer Systems and Applications, p.90, February 25-26, 1999
+{20} J. Lian, G. Agnew, and K. Naik, "A variable-degree based clustering algorithm for networks," inProc. IEEE ICCCN, Nov. 2003, pp. 465-470.
+{21} R. Boppana and S. Konduru, "An adaptive distance vector routing algorithm for mobile, ad hoc networks," inProc. IEEE INFOCOM, Apr. 2001, pp. 1753-1762.
+{22} P. Jacquet, P. Muhlethaler, and A. Quayyum, "Optimized link state routing protocol (OLSR)," IETF MANET Working Group Internet Draft, Nov. 2001.
+{23} C. Hedrick, "Routing information protocol," RFC 1058, 1988.
+Richard Ernest Bellman, Dynamic Programming, Dover Publications, Incorporated, 2003
+R. Sivakumar , P. Sinha , V. Bharghavan, CEDAR: a core-extraction distributed ad hoc routing algorithm, IEEE Journal on Selected Areas in Communications, v.17 n.8, p.1454-1465, September 2006[doi>10.1109/49.779926]
+Josh Broch , David A. Maltz , David B. Johnson , Yih-Chun Hu , Jorjeta Jetcheva, A performance comparison of multi-hop wireless ad hoc network routing protocols, Proceedings of the 4th annual ACM/IEEE international conference on Mobile computing and networking, p.85-97, October 25-30, 1998, Dallas, Texas, USA[doi>10.1145/288235.288256]
+S. -J. Lee , M. Gerla , C. -K. Toh, A simulation study of table-driven and on-demand routing protocols for mobile ad hoc networks, IEEE Network: The Magazine of Global Internetworking, v.13 n.4, p.48-54, July 1999[doi>10.1109/65.777441]
+Per Johansson , Tony Larsson , Nicklas Hedman , Bartosz Mielczarek , Mikael Degermark, Scenario-based performance analysis of routing protocols for mobile ad-hoc networks, Proceedings of the 5th annual ACM/IEEE international conference on Mobile computing and networking, p.195-206, August 15-19, 1999, Seattle, Washington, USA[doi>10.1145/313451.313535]
+{29} M. Jiang, J. Li, and Y. C. Yay, "The cluster based routing protocol (CBRP) functional specification," IETF MANET Working Group Internet Draft, Aug. 1999.
+Richard Draves , Jitendra Padhye , Brian Zill, Comparison of routing metrics for static multi-hop wireless networks, Proceedings of the 2004 conference on Applications, technologies, architectures, and protocols for computer communications, August 30-September 03, 2004, Portland, Oregon, USA[doi>10.1145/1015467.1015483]
+{31} G. G. Finn, "Routing and addressing problems in large metropolitan internetworks," ISI Research Report ISU/RR-87-180, 1987.
+Prosenjit Bose , Pat Morin , Ivan Stojmenović , Jorge Urrutia, Routing with guaranteed delivery in ad hoc wireless networks, Wireless Networks, v.7 n.6, p.609-616, November 2001[doi>10.1023/A:1012319418150]
+Brad Karp , H. T. Kung, GPSR: greedy perimeter stateless routing for wireless networks, Proceedings of the 6th annual international conference on Mobile computing and networking, p.243-254, August 06-11, 2000, Boston, Massachusetts, USA[doi>10.1145/345910.345953]
+Fabian Kuhn , Rogert Wattenhofer , Yan Zhang , Aaron Zollinger, Geometric ad-hoc routing: of theory and practice, Proceedings of the twenty-second annual symposium on Principles of distributed computing, p.63-72, July 13-16, 2003, Boston, Massachusetts[doi>10.1145/872035.872044]
+Michele Zorzi , Ramesh R. Rao, Geographic Random Forwarding (GeRaF) for Ad Hoc and Sensor Networks: Multihop Performance, IEEE Transactions on Mobile Computing, v.2 n.4, p.337-348, October 2003[doi>10.1109/TMC.2003.1255648]
+Sanjit Biswas , Robert Morris, ExOR: opportunistic multi-hop routing for wireless networks, Proceedings of the 2005 conference on Applications, technologies, architectures, and protocols for computer communications, August 22-26, 2005, Philadelphia, Pennsylvania, USA[doi>10.1145/1080091.1080108]
+{37} J. Lian, K. Naik, and G. Agnew, "A framework for evaluating the performance of cluster algorithms for hierarchical networks," Dept. Elect. Comp. Eng., Univ. Waterloo, Waterloo, ON, Canada, Tech. Rep. TR-2007-03, Jan. 2007.
+{38}Gnutella. {Online}. Available: http://www.the-gdf.org/
+{39}KaZaA. {Online}. Available: http://www.kazaa.com/us/index.htm
+Balachander Krishnamurthy , Jia Wang , Yinglian Xie, Early measurements of a cluster-based architecture for P2P systems, Proceedings of the 1st ACM SIGCOMM Workshop on Internet Measurement, November 01-02, 2001, San Francisco, California, USA[doi>10.1145/505202.505216]
+Ben Y. Zhao , Yitao Duan , Ling Huang , Anthony D. Joseph , John Kubiatowicz, Brocade: Landmark Routing on Overlay Networks, Revised Papers from the First International Workshop on Peer-to-Peer Systems, p.34-44, March 07-08, 2002
+Robbert van Renesse , Adrian Bozdog, Willow: DHT, aggregation, and publish/subscribe in one protocol, Proceedings of the Third international conference on Peer-to-Peer Systems, February 26-27, 2004, La Jolla, CA[doi>10.1007/978-3-540-30183-7_17]

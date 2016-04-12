@@ -1,0 +1,22 @@
+Eitan Altman , Konstantin Avrachenkov , Chadi Barakat, TCP in presence of bursty losses, Proceedings of the 2000 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.124-133, June 18-21, 2000, Santa Clara, California, USA[doi>10.1145/339331.350541]
+{2} F. Baccelli, D. R. McDonald, and J. Reynier, "A mean-field model for multiple TCP connections through a buffer implementing RED," INRIA, Sophia Antipolis, France, Tech. Rep., Apr. 2002.
+Mark E. Crovella , Azer Bestavros, Self-similarity in World Wide Web traffic: evidence and possible causes, Proceedings of the 1996 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.160-169, May 23-26, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/233013.233038]
+{4} A. Durresi, M. Sridharan, C. Liu, M. Goyal, and R. Jain, "Multilevel early congestion notification," inProc. 5th World Multiconf. Systemics, Cybernetics and Informatics, Orlando, FL, Jul. 2001, pp. 12-17.
+Sally Floyd , Van Jacobson, Random early detection gateways for congestion avoidance, IEEE/ACM Transactions on Networking (TON), v.1 n.4, p.397-413, Aug. 1993[doi>10.1109/90.251892]
+{6} C. V. Hollot, V. Misra, D. Towsley, and W.-B. Gong, "A control theoretic analysis of RED," inProc. IEEE INFOCOM, Apr. 2001, pp. 1510-1519.
+{7} C. V. Hollot, Y. Liu, V. Misra, and D. Towsley, "Unresponsive flows and AQM performance," inProc. IEEE INFOCOM, Apr. 2003, pp. 85-95.
+{8} V. Jacobson, "Congestion avoidance and control," inProc. ACM SIGCOMM, Aug. 1988, pp. 314-332.
+{9} A. Kherani and A. Kumar, "Stochastic models for throughput analysis of randomly arriving elastic flows in the Internet," inProc. IEEE INFOCOM, 2002, pp. 1014-1023.
+Matthew Mathis , Jeffrey Semke , Jamshid Mahdavi , Teunis Ott, The macroscopic behavior of the TCP congestion avoidance algorithm, ACM SIGCOMM Computer Communication Review, v.27 n.3, p.67-82, July 1997[doi>10.1145/263932.264023]
+{11} M. Mellia, I. Stoica, and H. Zhang, "TCP model for short lived flows,"IEEE Commun. Lett., vol. 6, no. 2, pp. 85-87, Feb. 2002.
+Jitendra Padhye , Victor Firoiu , Donald F. Towsley , James F. Kurose, Modeling TCP Reno performance: a simple model and its empirical validation, IEEE/ACM Transactions on Networking (TON), v.8 n.2, p.133-145, April 2000[doi>10.1109/90.842137]
+Kihong Park , Walter Willinger, Self-Similar Network Traffic and Performance Evaluation, John Wiley & Sons, Inc., New York, NY, 2000
+Vern Paxson , Sally Floyd, Wide area traffic: the failure of Poisson modeling, IEEE/ACM Transactions on Networking (TON), v.3 n.3, p.226-244, June 1995[doi>10.1109/90.392383]
+Priya Ranjan , Eyad H. Abed , Richard J. La, Nonlinear instabilities in TCP-RED, IEEE/ACM Transactions on Networking (TON), v.12 n.6, p.1079-1092, December 2004[doi>10.1109/TNET.2004.838600]
+{16} S. Shakkottai and R. Srikant, "How good are deterministic fluid models of Internet congestion control?," inProc. IEEE INFOCOM, Jun. 2002, pp. 497-505.
+{17} P. Tinnakornsrisuphap and R. J. La, "Asymptotic behavior of heterogeneous TCP flows and RED gateways," Inst. Syst. Res., Univ. Maryland, College Park, MD, Tech. Rep., 2003.
+{18} P. Tinnakornsrisuphap and R. J. La, "Limiting model of ECN/RED under a large number of heterogeneous TCP flows," Inst. Syst. Res., Univ. Maryland, College Park, MD, Tech. Rep., 2003.
+Peerapol Tinnakornsrisuphap , Richard J. La, Characterization of queue fluctuations in probabilistic AQM mechanisms, ACM SIGMETRICS Performance Evaluation Review, v.32 n.1, June 2004[doi>10.1145/1012888.1005721]
+{20} P. Tinnakornsrisuphap and A. M. Makowski, "Limit behavior of ECN/RED gateways under a large number of TCP flows," inProc. IEEE INFOCOM, Apr. 2003, pp. 873-883.
+{21} A. W. van der Vaart,Asymptotic Statistics. Cambridge, U.K.: Cambridge Univ. Press, 1998.
+{22} L. Zhang, S. Shenker, and D. Clark, "Observations on the dynamics of a congestion control algorithm: the effects of two-way traffic," inProc. ACM SIGCOMM, Sep. 1991, pp. 133-145.

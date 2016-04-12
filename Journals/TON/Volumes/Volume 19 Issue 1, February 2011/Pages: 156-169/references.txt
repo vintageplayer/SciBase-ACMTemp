@@ -1,0 +1,35 @@
+International Standard for Information Technology-Local and Metropolitan Area Networks, Part 11: Wireless LAN MAC and PHY Specifications, IEEE 802.11 WG, 1999.
+Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications: Medium Access Control (MAC) Quality of Service (QoS) Enhancements, IEEE 802.11e/D8.0, Feb. 2004.
+S. A. Mujtabaet al., "TGn Sync proposal technical specification," IEEE 802.11-04/889r6, May 2005 {Online}. Available: www.tgnsync.org
+"The MadWifi project," {Online}. Available: http://madwifi-project.org
+Guido Appenzeller , Isaac Keslassy , Nick McKeown, Sizing router buffers, Proceedings of the 2004 conference on Applications, technologies, architectures, and protocols for computer communications, August 30-September 03, 2004, Portland, Oregon, USA[doi>10.1145/1015467.1015499]
+Neda Beheshti , Yashar Ganjali , Monia Ghobadi , Nick McKeown , Geoff Salmon, Experimental study of router buffer sizing, Proceedings of the 8th ACM SIGCOMM conference on Internet measurement, October 20-22, 2008, Vouliagmeni, Greece[doi>10.1145/1452520.1452545]
+J. Bicket, "Bit-rate selection in wireless networks," M.Sc. thesis, Dept. Elect. Eng. Comput. Sci., MIT, Cambridge, MA, 2005.
+C. Chatfield,The Analysis of Time Series, An Introduction. Boca Raton, FL: CRC Press, 2004.
+Amogh Dhamdhere , Constantine Dovrolis, Open issues in router buffer sizing, ACM SIGCOMM Computer Communication Review, v.36 n.1, January 2006[doi>10.1145/1111322.1111342]
+M. Enachescu, Y. Ganjali, A. Goel, N. McKeown, and T. Roughgarden, "Routers with very small buffers," inProc. IEEE INFOCOM, 2006, pp. 1-11.
+Do Young Eun , Xinbing Wang, Achieving 100% throughput in TCP/AQM under aggressive packet marking with small buffer, IEEE/ACM Transactions on Networking (TON), v.16 n.4, p.945-956, August 2008[doi>10.1109/TNET.2007.904000]
+C. Kellett, R. Shorten, and D. Leith, "Sizing internet router buffers, active queue management, and the Lur'e problem," inProc. IEEE CDC, 2006, pp. 650-654.
+Krishnan Kumaran , Michel Mandjes , Alexander Stolyar, Convexity properties of loss and overflow functions, Operations Research Letters, v.31 n.2, p.95-100, March, 2003[doi>10.1016/S0167-6377(02)00191-8]
+A. Lakshmikantha, R. Srikant, and C. Beck, "Impact of file arrivals and departures on buffer sizing in core routers," inProc. IEEE INFOCOM, Apr. 2008, pp. 86-90.
+D. Leith, P. Clifford, D. Malone, and A. Ng, "TCP fairness in 802.11e WLANs,"IEEE Commun. Lett., vol. 9, no. 11, pp. 964-966, Nov. 2005.
+T. Li and D. Leith, "Buffer sizing for TCP flows in 802.11e WLANs,"IEEE Commun. Lett., vol. 12, no. 3, pp. 216-218, Mar. 2008.
+T. Li and D. Leith, "Adaptive buffer sizing for TCP flows in 802.11e WLANs," inProc. Chinacom, 2008, pp. 7-11.
+Tianji Li , Qiang Ni , David Malone , Douglas Leith , Yang Xiao , Thierry Turletti, Aggregation with fragment retransmission for very high-speed WLANs, IEEE/ACM Transactions on Networking (TON), v.17 n.2, p.591-604, April 2009[doi>10.1109/TNET.2009.2014654]
+David Malone , Ken Duffy , Doug Leith, Modeling the 802.11 distributed coordination function in nonsaturated heterogeneous conditions, IEEE/ACM Transactions on Networking (TON), v.15 n.1, p.159-172, February 2007[doi>10.1109/TNET.2006.890136]
+D. Malone, D. J. Leith, A. Aggarwal, and I. Dangerfield, "Spurious TCP timeouts in 802.11 networks," inProc. WiNMee, Apr. 2008, pp. 43-49.
+D. Malone, P. Clifford, and D. J. Leith, "On buffer sizing for voice in 802.11 WLANs,"IEEE Commun. Lett., vol. 10, no. 10, pp. 701-703, Oct. 2006.
+Vern Paxson , Sally Floyd, Wide area traffic: the failure of Poisson modeling, IEEE/ACM Transactions on Networking (TON), v.3 n.3, p.226-244, June 1995[doi>10.1109/90.392383]
+S. Pilosofet al., "Understanding TCP fairness over wireless LAN," inProc. IEEE INFOCOM, 2003, vol. 2, pp. 863-872.
+Ravi S. Prasad , Constantine Dovrolis , Marina Thottan, Router buffer sizing for TCP traffic and the role of the output/input capacity ratio, IEEE/ACM Transactions on Networking (TON), v.17 n.5, p.1645-1658, October 2009[doi>10.1109/TNET.2009.2014686]
+G. Raina and D. Wischik, "Buffer sizes for large multiplexers: TCP queueing theory and instability analysis," inProc. EuroNGI, Jul. 2005, pp. 173-180.
+Robert Shorten , Fabian Wirth , Douglas Leith, A positive systems model of TCP-like congestion control: asymptotic results, IEEE/ACM Transactions on Networking (TON), v.14 n.3, p.616-629, June 2006[doi>10.1109/TNET.2006.876178]
+R. Stanojevic, C. Kellett, and R. Shorten, "Adaptive tuning of drop-tail buffers for reducing queueing delays,"IEEE Commun. Lett., vol. 10, no. 7, pp. 570-572, Jul. 2006.
+Diane Tang , Mary Baker, Analysis of a local-area wireless network, Proceedings of the 6th annual international conference on Mobile computing and networking, p.1-10, August 06-11, 2000, Boston, Massachusetts, USA[doi>10.1145/345910.345912]
+Marina Thottan , Michele C. Weigle, Impact of 802.11e EDCA on mixed TCP-based applications, Proceedings of the 2nd annual international workshop on Wireless internet, p.26-es, August 02-05, 2006, Boston, Massachusetts[doi>10.1145/1234161.1234187]
+O. Tickoo , B. Sikdar, On the impact of IEEE 802.11 MAC on traffic characteristics, IEEE Journal on Selected Areas in Communications, v.21 n.2, p.189-203, September 2006[doi>10.1109/JSAC.2002.807346]
+Curtis Villamizar , Cheng Song, High performance TCP in ANSNET, ACM SIGCOMM Computer Communication Review, v.24 n.5, p.45-60, Oct. 1994[doi>10.1145/205511.205520]
+G. Vu-Brugier , R. S. Stanojevic , D. J. Leith , R. N. Shorten, A critique of recently proposed buffer-sizing strategies, ACM SIGCOMM Computer Communication Review, v.37 n.1, January 2007[doi>10.1145/1198255.1198262]
+Damon Wischik , Nick McKeown, Part I: buffer sizes for core routers, ACM SIGCOMM Computer Communication Review, v.35 n.3, July 2005[doi>10.1145/1070873.1070884]
+Y. Zhang and D. Loguinov, "ABS: Adaptive buffer sizing for heterogeneous networks," inProc. IWQos, Jun. 2008, pp. 90-99.
+Zhili Zhao , Swaroop Darbha , A. L. Narasimha Reddy, A method for estimating the proportion of nonresponsive traffic at a router, IEEE/ACM Transactions on Networking (TON), v.12 n.4, p.708-718, August 2004[doi>10.1109/TNET.2004.833149]

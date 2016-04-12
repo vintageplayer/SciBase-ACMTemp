@@ -1,0 +1,35 @@
+R. Agrawal and R. Rajan, "Performance bounds for guaranteed and adaptive services," IBM Research Division, Yorktown Heights, NY, Tech. Rep. RC 20649, 1996.
+Jon C. R. Bennett , Hui Zhang, Hierarchical packet fair queueing algorithms, Conference proceedings on Applications, technologies, architectures, and protocols for computer communications, p.143-156, August 28-30, 1996, Palo Alto, California, USA[doi>10.1145/248156.248170]
+C.-S. Chang, "Stability, queue length, and delay of deterministic and stochastic queuing networks," IEEE Trans. Automat. Contr., vol. 39, pp. 913-93 I, May 1994.
+Cheng-Shang Chang, On deterministic traffic regulation and service guarantees: a systematic approach by filtering, IEEE Transactions on Information Theory, v.44 n.3, p.1097-1110, May 1998[doi>10.1109/18.669173]
+R. L. Cruz, "A calculus for network delay, Part h Network elements in isolation," IEEE Trans. Inform. Theory, vol. 37, pp. 114-131, Jan. 1991.
+~, "A calculus for network delay, Part Ii: Network analysis," IEEE Trans. Inform. Theory, vol. 37, pp. 132-141, Jan. 1991.
+~, "Service burstiness and dynamic burstiness measures: A framework," J. High-Speed Networks, vol. 1, no. 2, pp. 105-127, 1992.
+R. L. Cruz, Quality of service guarantees in virtual circuit switched networks, IEEE Journal on Selected Areas in Communications, v.13 n.6, p.1048-1056, September 2006[doi>10.1109/49.400660]
+-----, "SCED+: Efficient management of quality of service guarantees," in Proc. INFOCOM'98. San Francisco, CA: IEEE Computer Society Press, Mar. 1998.
+R. L. Cruz and C. M. Okino, "Service guarantees for window flow control," presented at the 34th Allerton Conf. on Communication, Control, and Computing, Monticello, IL, Oct. 1996.
+L. Georgiadis , R. Guerin , A. Parekh, Optimal multiplexing on a single link: delay and buffer requirements, IEEE Transactions on Information Theory, v.43 n.5, p.1518-1535, September 1997[doi>10.1109/18.623149]
+L. Georgiadis , R. Guérin , V. Peris , R. Rajan, Efficient support of delay and rate guarantees in an internet, Conference proceedings on Applications, technologies, architectures, and protocols for computer communications, p.106-116, August 28-30, 1996, Palo Alto, California, USA[doi>10.1145/248156.248167]
+S. J. Golestani, "Congestion-free communication in high-speed packet networks," IEEE Trans. Commun., vol. 39, pp. 1802-1812, Dec. 1991.
+"A self-clocked fair queuing scheme for broadband applications," in Proc. IEEE INFOCOM'94, Toronto, Canada, pp. 636-646.
+Pawan Goyal , Simon S. Lam , Harrick M. Vin, Determining end-to-end delay bounds in heterogeneous networks, Multimedia Systems, v.5 n.3, p.157-163, May 1997[doi>10.1007/s005300050052]
+E.L. Hahne, "Round robin scheduling for fair flow control in data communication networks," Ph.D. dissertation LIDS-TH-1631, Lab. Inform. Decision Syst., MIT, Cambridge, MA, Dec. 1986.
+Anthony Hung , George Kesidis, Bandwidth scheduling for wide-area ATM networks using virtual finishing times, IEEE/ACM Transactions on Networking (TON), v.4 n.1, p.49-54, Feb. 1996[doi>10.1109/90.503761]
+H. T. Kung , Trevor Blackwell , Alan Chapman, Credit-based flow control for ATM networks: credit update protocol, adaptive credit allocation and statistical multiplexing, Proceedings of the conference on Communications architectures, protocols and applications, p.101-114, August 31-September 02, 1994, London, United Kingdom[doi>10.1145/190314.190324]
+Takis Konstantopoulos , Venkat Anantharam, Optimal flow control schemes that regulate the burstiness of traffic, IEEE/ACM Transactions on Networking (TON), v.3 n.4, p.423-432, Aug. 1995[doi>10.1109/90.413216]
+J. -Y. Le Boudec, Application of network calculus to guaranteed service networks, IEEE Transactions on Information Theory, v.44 n.3, p.1087-1096, May 1998[doi>10.1109/18.669170]
+Jörg Liebeherr , Dallas E. Wrege , Domenico Ferrari, Exact admission control for networks with a bounded delay service, IEEE/ACM Transactions on Networking (TON), v.4 n.6, p.885-901, Dec. 1996[doi>10.1109/90.556345]
+A. K. Parekh, "A generalized processor sharing approach to flow control in integrated services networks," Ph.D. dissertation LIDS-TH-2089, Lab. Inform. Decision Syst., MIT, Cambridge, MA, Feb. 1992.
+Abhay K. Parekh , Robert G. Gallager, A generalized processor sharing approach to flow control in integrated services networks: the single-node case, IEEE/ACM Transactions on Networking (TON), v.1 n.3, p.344-357, June 1993[doi>10.1109/90.234856]
+Abhay K. Parekh , Robert G. Gallagher, A generalized processor sharing approach to flow control in integrated services networks: the multiple node case, IEEE/ACM Transactions on Networking (TON), v.2 n.2, p.137-150, April 1994[doi>10.1109/90.298432]
+S. Shenker , C. Partridge , R. Guerin, Specification of Guaranteed Quality of Service, RFC Editor, 1997
+Scheduling for quality of service guarantees via service curves, Proceedings of the 4th International Conference on Computer Communications and Networks, p.512, September 20-23, 1995
+Hanrijanto Sariowan , Rene L. Cruz , George C. Polyzos, A service-curve approach to performance guarantees in integrated-service networks, University of California, San Diego, 1996
+Dimitrios Stiliadis , Anujan Varma, Latency-rate servers: a general model for analysis of traffic scheduling algorithms, IEEE/ACM Transactions on Networking (TON), v.6 n.5, p.611-624, Oct. 1998[doi>10.1109/90.731196]
+Ion Stoica , Hui Zhang , T. S. Eugene Ng, A hierarchical fair service curve algorithm for link-sharing, real-time and priority services, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.249-262, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263175]
+B. Suter, T. V. Lakshman, D. Stiliadis, and A. K. Choudhury, "Design considerations for supporting TCP with per-flow queueing," in Proc. INFOCOM'98, pp. 299-306.
+J. Turner, "New directions in communications (or Which way to the information age?)," IEEE Commun. Mag., vol. 24, Oct. 1986.
+J. Wroclawski, Specification of the Controlled-Load Network Element Service, RFC Editor, 1997
+H. Zhang and D. Ferrari, "Rate-controlled static priority queueing," in Proc. IEEE INFOCOM'93, San Francisco, CA, pp. 227-236.
+~, "Rate-controlled service disciplines," J. High-Speed Networks, vol. 3, no. 4, pp. 389-412, 1994.
+L. Zhang, Virtual clock: a new traffic control algorithm for packet switching networks, Proceedings of the ACM symposium on Communications architectures & protocols, p.19-29, September 26-28, 1990, Philadelphia, Pennsylvania, USA[doi>10.1145/99508.99525]

@@ -1,0 +1,42 @@
+Damon Wischik , Costin Raiciu , Adam Greenhalgh , Mark Handley, Design, implementation and evaluation of congestion control for multipath TCP, Proceedings of the 8th USENIX conference on Networked systems design and implementation, March 30-April 01, 2011, Boston, MA
+Sébastien Barré , Christoph Paasch , Olivier Bonaventure, MultiPath TCP: from theory to practice, Proceedings of the 10th international IFIP TC 6 conference on Networking, May 09-13, 2011, Valencia, Spain
+A. Ford, C. Raiciu, M. Handley, and O. Bonaventure, "TCP extensions [Online]. Available: http://tools.ietf.org/html/rfc6824.
+Costin Raiciu , Christoph Paasch , Sebastien Barre , Alan Ford , Michio Honda , Fabien Duchene , Olivier Bonaventure , Mark Handley, How hard can it be? designing and implementing a deployable multipath TCP, Proceedings of the 9th USENIX conference on Networked Systems Design and Implementation, April 25-27, 2012, San Jose, CA
+Hung-Yun Hsieh , Raghupathy Sivakumar, A transport layer approach for achieving aggregate bandwidths on multi-homed mobile hosts, Wireless Networks, v.11 n.1-2, p.99-114, January 2005
+Kyu-Han Kim , Yujie Zhu , Raghupathy Sivakumar , Hung-Yun Hsieh, A receiver-centric transport protocol for mobile hosts with heterogeneous wireless interfaces, Wireless Networks, v.11 n.4, p.363-382, July 2005
+D. MacKay, "Fountain codes,"IEE Proc., Commun., vol. 152, no. 6, pp. 1062-1068, 2005.
+M. Luby, A. Shokrollahi, M. Watson, T. Stockhammer, and L. Minder, "Raptorq forward error correction scheme for object delivery," RFC6330, 2011 [Online]. Available: http://tools.ietf.org/html/rfc6330.
+Janardhan R. Iyengar , Paul D. Amer , Randall Stewart, Concurrent multipath transfer using SCTP multihoming over independent end-to-end paths, IEEE/ACM Transactions on Networking (TON), v.14 n.5, p.951-964, October 2006
+T. Dreibholz, M. Becke, H. Adhari, and E. Rathgeb, "On the impact of congestion control for concurrent multipath transfer on the transport layer," inProc. 11th IEEE ConTEL, 2011, pp. 397-404.
+Yu Cao , Mingwei Xu , Xiaoming Fu, Delay-based congestion control for multipath TCP, Proceedings of the 2012 20th IEEE International Conference on Network Protocols (ICNP), p.1-10, October 30-November 02, 2012
+Yu Cao , Mingwei Xu , Xiaoming Fu , Enhuan Dong, Explicit multipath congestion control for data center networks, Proceedings of the ninth ACM conference on Emerging networking experiments and technologies, December 09-12, 2013, Santa Barbara, California, USA
+M. Becke, T. Dreibholz, H. Adhari, and E. Rathgeb, "On the fairness of transport protocols in a multi-path environment," inProc. IEEE ICC, Ottawa, ON, Canada, 2012, pp. 2666-2672.
+Yong Cui , Xiao Ma , Hongyi Wang , Ivan Stojmenovic , Jiangchuan Liu, A Survey of Energy Efficient Wireless Transmission and Modeling in Mobile Cloud Computing, Mobile Networks and Applications, v.18 n.1, p.148-155, February  2013
+Chengdi Lai , Ka-Cheong Leung , Victor O. K.Li, Enhancing wireless TCP: a serialized-timer approach, Proceedings of the 29th conference on Information communications, p.391-395, March 14-19, 2010, San Diego, California, USA
+Saverio Mascolo , Claudio Casetti , Mario Gerla , M. Y. Sanadidi , Ren Wang, TCP westwood: Bandwidth estimation for enhanced transport over wireless links, Proceedings of the 7th annual international conference on Mobile computing and networking, p.287-297, July 2001, Rome, Italy
+Y. Huang, M. Ghaderi, D. Towsley, and W. Gong, "TCP performance in coded wireless mesh networks," inProc. 5th Annu. IEEE SECON, 2008, pp. 179-187.
+Y. Li, Y. Zhang, L. Qiu, and S. Lam, "Smarttunnel: Achieving reliability in the Internet," inProc. 26th IEEE INFOCOM, 2007, pp. 830-838.
+J. Sundararajan, D. Shah, M. Médard, M. Mitzenmacher, and J. Barros, "Network coding meets TCP," inProc. IEEE INFOCOM, 2009, pp. 280-288.
+Y. Lee, I. Park, and Y. Choi, "Improving TCP performance in multipath packet forwarding networks,"J. Commun. Netw., vol. 4, no. 2, pp. 148-157, 2002.
+J. Chen, K. Xu, and M. Gerla, "Multipath TCP in lossy wireless environment," inProc. 3rd Annu. IFIP Med-Hoc-Net, 2004, pp. 263-270.
+G. Kwon and J. W. Byers, "ROMA: Reliable overlay multicast with loosely coupled TCP connections," inProc. 23rd Annu. IEEE INFOCOM, 2004, vol. 1.
+Huaizhong Han , Srinivas Shakkottai , C. V. Hollot , R. Srikant , Don Towsley, Multi-path TCP: a joint congestion control and routing scheme to exploit path diversity in the internet, IEEE/ACM Transactions on Networking (TON), v.14 n.6, p.1260-1271, December 2006
+R. Stewart, "Stream control transmission protocol," RFC4960, 2007.
+Michio Honda , Yoshifumi Nishida , Costin Raiciu , Adam Greenhalgh , Mark Handley , Hideyuki Tokuda, Is it still possible to extend TCP?, Proceedings of the 2011 ACM SIGCOMM conference on Internet measurement conference, November 02-04, 2011, Berlin, Germany
+A. Ford, C. Raiciu, M. Handley, S. Barré, and J. Iyengar, "Architectural guidelines for multipath TCP development," RFC 6182, 2011.
+Christopher Pluntke , Lars Eggert , Niko Kiukkonen, Saving mobile device energy with multipath TCP, Proceedings of the sixth international workshop on MobiArch, June 28-28, 2011, Bethesda, Maryland, USA
+Costin Raiciu , Sebastien Barre , Christopher Pluntke , Adam Greenhalgh , Damon Wischik , Mark Handley, Improving datacenter performance and robustness with multipath TCP, ACM SIGCOMM Computer Communication Review, v.41 n.4, August 2011
+Costin Raiciu , Dragos Niculescu , Marcelo Bagnulo , Mark James Handley, Opportunistic mobility with multipath TCP, Proceedings of the sixth international workshop on MobiArch, June 28-28, 2011, Bethesda, Maryland, USA
+Janardhan R. Iyengar , Paul D. Amer , Randall Stewart, Performance implications of a bounded receive buffer in concurrent multipath transfer, Computer Communications, v.30 n.4, p.818-829, February, 2007
+T. Dreibholz, R. Seggelmann, M. Tüxen, and E. Rathgeb, "Transmission scheduling optimizations for concurrent multipath transfer," inProc. PFLDNeT, Nov. 2010.
+T. Dreibholz, M. Becke, E. Rathgeb, and M. Tuxen, "On the use of concurrent multipath transfer over asymmetric paths," inProc. IEEE GLOBECOM, 2010, pp. 1-6.
+V. Sharma, S. Kalyanaraman, K. Kar, K. Ramakrishnan, and V. Subramanian, "MPLOT: A transport protocol exploiting multipath diversity using erasure codes," inProc. 27th IEEE INFOCOM, 2008, pp. 121-125.
+Younghak Hwang , Brownson O. Obele , Hyuk Lim, Multipath transport protocol for heterogeneous multi-homing networks, Proceedings of the ACM CoNEXT Student Workshop, November 30-30, 2010, Philadelphia, Pennsylvania
+Peter Anthony Iannucci , Jonathan Perry , Hari Balakrishnan , Devavrat Shah, No symbol left behind: a link-layer protocol for rateless codes, Proceedings of the 18th annual international conference on Mobile computing and networking, August 22-26, 2012, Istanbul, Turkey
+Yong Cui , Xin Wang , Hongyi Wang , Guangjin Pan , Yining Wang, FMTCP: A Fountain Code-Based Multipath Transmission Control Protocol, Proceedings of the 2012 IEEE 32nd International Conference on Distributed Computing Systems, p.366-375, June 18-21, 2012
+Michael Luby, LT Codes, Proceedings of the 43rd Symposium on Foundations of Computer Science, p.271, November 16-19, 2002
+A. Shokrollahi, Raptor codes, IEEE Transactions on Information Theory, v.52 n.6, p.2551-2567, June 2006
+T. J. Richardson , M. A. Shokrollahi , R. L. Urbanke, Design of capacity-approaching irregular low-density parity-check codes, IEEE Transactions on Information Theory, v.47 n.2, p.619-637, February 2001
+T. J. Richardson , R. L. Urbanke, Efficient encoding of low-density parity-check codes, IEEE Transactions on Information Theory, v.47 n.2, p.638-656, February 2001
+M. Luby, A. Shokrollahi, M. Watson, and T. Stockhammer, "Raptor forward error correction scheme for object delivery," RFC5053, 2007 [Online]. Available: http://tools.ietf.org/html/rfc5053.
+Jitendra Padhye , Victor Firoiu , Don Towsley , Jim Kurose, Modeling TCP throughput: a simple model and its empirical validation, ACM SIGCOMM Computer Communication Review, v.28 n.4, p.303-314, Oct. 1998

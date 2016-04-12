@@ -1,0 +1,36 @@
+{1} R. Agrawal, R. L. Cruz, C. M. Okino, and R. Rajan, "A framework for adaptive service guarantees," inproc. Allerton Conf. Commun., Control, Comput., Monticello, IL, Sep. 1998.
+Jon C. R. Bennett , Kent Benson , Anna Charny , William F. Courtney , Jean-Yves Le Boudec, Delay jitter bounds and packet scale rate guarantee for expedited forwarding, IEEE/ACM Transactions on Networking (TON), v.10 n.4, p.529-540, August 2002[doi>10.1109/TNET.2002.801404]
+Jon C. R. Bennett , Hui Zhang, WF2Q: worst-case fair weighted fair queueing, Proceedings of the Fifteenth annual joint conference of the IEEE computer and communications societies conference on The conference on computer communications, March 24-28, 1996, San Francisco, California
+Jon C. R. Bennett , Hui Zhang, Hierarchical packet fair queueing algorithms, IEEE/ACM Transactions on Networking (TON), v.5 n.5, p.675-689, Oct. 1997[doi>10.1109/90.649568]
+S. Blake , D. Black , M. Carlson , E. Davies , Z. Wang , W. Weiss, An Architecture for Differentiated Service, RFC Editor, 1998
+A. Charny , J. Bennet , K. Benson , J. Boudec , A. Chiu , W. Courtney , S. Davari , V. Firoiu , C. Kalmanek , K. Ramakrishnan, Supplemental Information for the New Definition of the EF PHB (Expedited Forwarding Per-Hop Behavior), RFC Editor, 2002
+{7} A. Charny and J.-Y. Le Boudec, "Delay bounds in a network with aggregate scheduling," inProc. 1st Int. Workshop Quality Future Internet Services (QOFIS'2000), 2000, vol. 1922, LNCS , pp. 1-13.
+Jorge Arturo Cobb, Preserving quality of service guarantees in spite of flow aggregation, IEEE/ACM Transactions on Networking (TON), v.10 n.1, p.43-53, February 2002[doi>10.1109/90.986522]
+{9} R. L. Cruz, "SCED+: Efficient management of quality of service guarantees," inProc. IEEE INFOCOM, 1998, pp. 625-634.
+B. Davie , A. Charny , J. C. R. Bennet , K. Benson , J. Y. Le Boudec , W. Courtney , S. Davari , V. Firoiu , D. Stiliadis, An Expedited Forwarding PHB (Per-Hop Behavior), RFC Editor, 2002
+F. Le Faucheur , L. Wu , B. Davie , S. Davari , P. Vaananen , R. Krishnan , P. Cheval , J. Heinanen, Multi-Protocol Label Switching (MPLS) Support of Differentiated Services, RFC Editor, 2002
+Pawan Goyal , Harrick M. Vin, Packet scheduling algorithms for integrated services networks, The University of Texas at Austin, 1997
+Pawan Goyal , Simon S. Lam , Harrick M. Vin, Determining end-to-end delay bounds in heterogeneous networks, Multimedia Systems, v.5 n.3, p.157-163, May 1997[doi>10.1007/s005300050052]
+Pawan Goyal , Harrick M. Vin, Generalized guaranteed rate scheduling algorithms: a framework, IEEE/ACM Transactions on Networking (TON), v.5 n.4, p.561-571, Aug. 1997[doi>10.1109/90.649514]
+Pawan Goyal , Harrick M. Vin , Haichen Cheng, Start-time fair queueing: a scheduling algorithm for integrated services packet switching networks, IEEE/ACM Transactions on Networking (TON), v.5 n.5, p.690-704, Oct. 1997[doi>10.1109/90.649569]
+Guo Chuanxiong, SRR: An O(1) time complexity packet scheduler for flows in multi-service packet networks, Proceedings of the 2001 conference on Applications, technologies, architectures, and protocols for computer communications, p.211-222, August 2001, San Diego, California, USA[doi>10.1145/383059.383076]
+J. Heinanen , F. Baker , W. Weiss , J. Wroclawski, Assured Forwarding PHB Group, RFC Editor, 1999
+V. Jacobson , K. Nichols , K. Poduri, An Expedited Forwarding PHB, RFC Editor, 1999
+Yuming Jiang, Delay bounds for a network of guaranteed rate servers with FIFO aggregation, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.40 n.6, p.683-694, 20 December 2002[doi>10.1016/S1389-1286(02)00297-9]
+Yuming Jiang, Relationship between guaranteed rate server and latency rate server, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.43 n.3, p.307-315, 22 October 2003[doi>10.1016/S1389-1286(03)00276-7]
+Yuming Jiang, Delay bound and packet scale rate guarantee for some expedited forwarding networks, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.50 n.1, p.15-28, 16 January 2006[doi>10.1016/j.comnet.2005.03.002]
+Jean-Yves Le Boudec , Anna Charny, Packet scale rate guarantee for non-FIFO nodes, IEEE/ACM Transactions on Networking (TON), v.11 n.5, p.810-820, October 2003[doi>10.1109/TNET.2003.818188]
+Jean-Yves Le Boudec , Patrick Thiran, Network calculus: a theory of deterministic queuing systems for the internet, Springer-Verlag, Berlin, Heidelberg, 2001
+{24} J. F. Lee, M. C. Chen, and Y. Sun, "WF<sup>2</sup> Q-M: A worst-case fair weighted fair queueing with maximum rate control," inProc. IEEE GLOBECOM, 2002, pp. 1576-1580.
+Kam Lee, Performance bounds in communication networks with variable-rate links, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.126-136, August 28-September 01, 1995, Cambridge, Massachusetts, USA[doi>10.1145/217382.217422]
+{26} N. Matsufuru and R. Aibara, "Efficient fair queueing for ATM networks using uniform round robin," inProc. IEEE INFOCOM, 1999, pp. 389-397.
+K. Nichols , B. Carpenter, Definition of Differentiated Services Per Domain Behaviors and Rules for their Specification, RFC Editor, 2001
+Abhay K. Parekh , Robert G. Gallager, A generalized processor sharing approach to flow control in integrated services networks: the single-node case, IEEE/ACM Transactions on Networking (TON), v.1 n.3, p.344-357, June 1993[doi>10.1109/90.234856]
+E. Rosen , A. Viswanathan , R. Callon, Multiprotocol Label Switching Architecture, RFC Editor, 2001
+M. Shreedhar , George Varghese, Efficient fair queueing using deficit round-robin, IEEE/ACM Transactions on Networking (TON), v.4 n.3, p.375-385, June 1996[doi>10.1109/90.502236]
+Dimitrios Stiliadis , Anujan Varma, Latency-rate servers: a general model for analysis of traffic scheduling algorithms, IEEE/ACM Transactions on Networking (TON), v.6 n.5, p.611-624, Oct. 1998[doi>10.1109/90.731196]
+Ion Stoica , Hui Zhang , T. S. Eugene Ng, A hierarchical fair service curve algorithm for link-sharing, real-time, and priority services, IEEE/ACM Transactions on Networking (TON), v.8 n.2, p.185-199, April 2000[doi>10.1109/90.842141]
+{33} M. Vojnovic and J. Y. Le Boudec, "Stochastic bound on delay for guaranteed rate nodes,"IEEE Commun. Leet., vol. 6, no. 10, pp. 449-451, Oct. 2002.
+Qinghe Yin , Yuming Jiang , Shengming Jiang , Peng Yong Kong, Analysis on Generalized Stochastically Bounded Bursty Traffic for Communication Networks, Proceedings of the 27th Annual IEEE Conference on Local Computer Networks, p.141-149, November 06-08, 2002
+Z. -L. Zhang , Z. Duan , Y. T. Hou, Virtual time reference system: a unifying scheduling framework for scalable support of guaranteed services, IEEE Journal on Selected Areas in Communications, v.18 n.12, p.2684-2695, September 2006[doi>10.1109/49.898750]
+Fundamental Trade-offs in Aggregate Packet Scheduling, Proceedings of the Ninth International Conference on Network Protocols, p.129, November 11-14, 2001

@@ -1,0 +1,41 @@
+{1} M. Allman, H. Balakrishnan, and S. Floyd, "Enhancing TCP's loss recovery using limited transmit," RFC 3042, Jan. 2001.
+Eitan Altman , Konstantin Avrachenkov , Chadi Barakat, TCP in presence of bursty losses, Performance Evaluation, v.42 n.2-3, p.129-147, Oct. 2000[doi>10.1016/S0166-5316(00)00027-4]
+Eitan Altman , Konstantin Avrachenkov , Chadi Barakat, A stochastic model of TCP/IP with stationary random losses, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.231-242, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347549]
+{4} E. Altman, K. Avranchenkov, and C. Barakat, and R. N. Queija, "State-dependent M/G/1 type queueing analysis for congestion control in data networks," in IEEE INFOCOM, vol. 3, Apr. 2001, pp. 1350-1359.
+{5} E. Altman, K. Avrachenkov, C. Barakat, and R. N. Queija, "TCP modeling in the presence of nonlinear window growth," presented at the Int. Teletraffic Congr. (ITC-17), Salvador da Bahia, Brazil, 2001, pp. 883-894.
+{6} S. Asmussen and G. Koole, "Marked point processes as limits of Markovian arrival streams," J. Appl. Prob., vol. 30, pp. 365-372, 1993.
+{7} F. Baccelli and P. Bremaud, Elements of Queueing Theory: Palm-Martingale Calculus and Stochastic Recurrences. New York: Springer-Verlag, 1994.
+C. Barakat, TCP/IP modeling and validation, IEEE Network: The Magazine of Global Internetworking, v.15 n.3, p.38-47, May 2001[doi>10.1109/65.923939]
+Chadi Barakat , Alaeddine Al Fawal, Analysis of link-level hybrid FEC/ARQ-SR for wireless links and long-lived TCP traffic, Performance Evaluation, v.57 n.4, p.453-476, August 2004[doi>10.1016/j.peva.2004.03.002]
+Richard Bellman, Introduction to matrix analysis (2nd ed.), Society for Industrial and Applied Mathematics, Philadelphia, PA, 1997
+{11} A. A. Borovkov and S. G. Foss, "Stochastically recursive sequences and their generalizations," Siberian Adv. Math., vol. 2, no. 1, pp. 16-81, 1992.
+{12} A. Brandt, "The stochastic equation Yn+1 = An Yn + Bn with stationary coefficients," Adv. Appl. Prob., vol. 18, pp. 211-220, 1986.
+Kevin Fall , Sally Floyd, Simulation-based comparisons of Tahoe, Reno and SACK TCP, ACM SIGCOMM Computer Communication Review, v.26 n.3, p.5-21, July 1996[doi>10.1145/235160.235162]
+Wolfgang Fischer , Kathleen Meier-Hellstern, The Markov-modulated Poisson process (MMPP) cookbook, Performance Evaluation, v.18 n.2, p.149-171, Sept. 1993[doi>10.1016/0166-5316(93)90035-S]
+Sally Floyd, Connections with multiple congested gateways in packet-switched networks part 1: one-way traffic, ACM SIGCOMM Computer Communication Review, v.21 n.5, p.30-47, Oct. 1991[doi>10.1145/122431.122434]
+Sally Floyd , Kevin Fall, Promoting the use of end-to-end congestion control in the Internet, IEEE/ACM Transactions on Networking (TON), v.7 n.4, p.458-472, Aug. 1999[doi>10.1109/90.793002]
+Sally Floyd , Mark Handley , Jitendra Padhye , Jörg Widmer, Equation-based congestion control for unicast applications, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.43-56, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347397]
+{18} P. Glasserman and D. D. Yao, "Stochastic vector difference equations with stationary coefficients," J. Appl. Prob., vol. 32, pp. 851-866, 1995.
+{19} J. J. Hunter, "On the moments of Markov renewal processes," Adv. Appl. Prob., vol. 1, pp. 188-210, 1969.
+{20} "Allowable Error Performance for a Hypothetical Reference Digital Path Operating at or Above the Primary Rate," ITU-R, Recommendation S.1062-1, 1994-1995.
+V. Jacobson, Congestion avoidance and control, Symposium proceedings on Communications architectures and protocols, p.314-329, August 16-18, 1988, Stanford, California, USA[doi>10.1145/52324.52356]
+{22} S. H. Kang, Y. H. Kim, D. K. Sung, and B. D. Choi, "An application of Markovian Arrival Process (MAP) to modeling superposed ATM cell streams," IEEE Trans. Commun., vol. 50, no. 4, pp. 633-642, Apr. 2002.
+Anurag Kumar, Comparative performance analysis of versions of TCP in a local network with a lossy link, IEEE/ACM Transactions on Networking (TON), v.6 n.4, p.485-498, Aug. 1998[doi>10.1109/90.720921]
+T. V. Lakshman , Upamanyu Madhow, The performance of TCP/IP for networks with high bandwidth-delay products and random loss, IEEE/ACM Transactions on Networking (TON), v.5 n.3, p.336-350, June 1997[doi>10.1109/90.611099]
+{25} R. Loynes, "The stability of a queue with nonindependent interarrival and service times," Proc. Cambr. Phil. Soc., vol. 58, no. 3, pp. 497-520, 1962.
+{26} D. M. Lucantoni, K. S. Meier-Hellstern, and M. F. Neuts, "A single-server queue with server vacations and a class of nonrenewal arrival processes," Adv. Appl. Prob., vol. 22, pp. 676-705, 1990.
+{27} M. Mathis, J. Mahdavi, S. Floyd, and A. Romanow, "TCP Selective Acknowledgment Options," RFC 2018, Oct. 1996.
+Matthew Mathis , Jeffrey Semke , Jamshid Mahdavi , Teunis Ott, The macroscopic behavior of the TCP congestion avoidance algorithm, ACM SIGCOMM Computer Communication Review, v.27 n.3, p.67-82, July 1997[doi>10.1145/263932.264023]
+{29} A. Misra, T. Ott, and J. Baras, "The window distribution of multiple TCPs with random queues," in Proc. IEEE GLOBECOM, vol. 3, Dec. 1999, pp. 1714-1726.
+{30} V. Mistra, W.-B. Gong, and D. Towsley, "Stochastic differential equation modeling and analysis of TCP-windowsize behavior," presented at the Performance'99 Conf., Istanbul, Turkey, Oct. 1999.
+{31} J. Nagle, "Congestion control in IP/TCP internetworks," RFC 896, Jan. 1984.
+{32} M. F. Neuts, "A versatile Markovian point process," J. Appl. Prob., vol. 16, pp. 764-779, 1979.
+{33} M. F. Neuts, Structured Stochastic Matrices of M/G/1 Type and Their Applications. New York: Marcel Dekker, 1989.
+{34} T. Ott, J. Kemperman, and M. Mathis. (1996, Aug) The stationary behavior of ideal TCP congestion avoidance {Online} Available: ftp://ftp.research.telcordia.com/pub/tjo/TCPwindow.ps.
+Jitendra Padhye , Victor Firoiu , Donald F. Towsley , James F. Kurose, Modeling TCP Reno performance: a simple model and its empirical validation, IEEE/ACM Transactions on Networking (TON), v.8 n.2, p.133-145, April 2000[doi>10.1109/90.842137]
+{36} LBNL's tcpdump Tool. {Online} Available: http://www-nrg.ee.lbl.gov
+{37} S. Savari and E. Telatar, "The behavior of certain stochastic processes arising in window protocols," in Proc. IEEE GLOBECOM, vol. 1B, Dec. 1999, pp. 791-795.
+{38} W. Stevens, "TCP slow start, congestion avoidance, fast retransmit, and fast recovery algorithms," RFC 2001, Jan. 1997.
+K. Thompson , G. J. Miller , R. Wilder, Wide-area Internet traffic patterns and characteristics, IEEE Network: The Magazine of Global Internetworking, v.11 n.6, p.10-23, November 1997[doi>10.1109/65.642356]
+Milan VojnoviΕ , Jean-Yves Le Boudec, On the long-run behavior of equation-based rate control, Proceedings of the 2002 conference on Applications, technologies, architectures, and protocols for computer communications, August 19-23, 2002, Pittsburgh, Pennsylvania, USA[doi>10.1145/633025.633036]
+Yin Zhang , Nick Duffield, On the constancy of internet path properties, Proceedings of the 1st ACM SIGCOMM Workshop on Internet Measurement, November 01-02, 2001, San Francisco, California, USA[doi>10.1145/505202.505228]

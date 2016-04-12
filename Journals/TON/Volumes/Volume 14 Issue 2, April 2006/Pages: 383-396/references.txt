@@ -1,0 +1,36 @@
+James F. Kurose , Keith Ross, Computer Networking: A Top-Down Approach Featuring the Internet, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 2002
+Mark Allman , Vern Paxson, On estimating end-to-end network path properties, ACM SIGCOMM Computer Communication Review, v.29 n.4, p.263-274, Oct. 1999[doi>10.1145/316194.316230]
+Reiner Ludwig , Randy H. Katz, The Eifel algorithm: making TCP robust against spurious retransmissions, ACM SIGCOMM Computer Communication Review, v.30 n.1, January 2000[doi>10.1145/505688.505692]
+Qiong Li , David L. Mills, Jitter-based delay-boundary prediction of wide-area networks, IEEE/ACM Transactions on Networking (TON), v.9 n.5, p.578-590, October 2001[doi>10.1109/90.958327]
+V. Jacobson, Congestion avoidance and control, Symposium proceedings on Communications architectures and protocols, p.314-329, August 16-18, 1988, Stanford, California, USA[doi>10.1145/52324.52356]
+{6} A. Mukherjee, "On the dynamics and significance of low frequency components of Internet load,"Internetworking: Research and Experience, vol. 5, pp. 163-205, Dec. 1994.
+Qiong Li , David L. Mills, Delay characterization and performance control of wide-area networks, University of Delaware, Newark, DE, 2000
+{8} W. R. Stevens,TCP/IP Illustrated. Reading, MA: Addison-Wesley Longman, Inc., 1994, vol. 1.
+{9} V. Jacobson, R. Braden, and D. Borman, "TCP extensions for high performance," RFC 1323, May 1992.
+V. Paxson , M. Allman, Computing TCP's Retransmission Timer, RFC Editor, 2000
+{11} J. Bolot, "Characterizing end-to-end packet delay and loss in the Internet,"J. High-Speed Netw., vol. 2, pp. 305-323, Dec. 1993.
+Tamas Elteto , Sandor Molnar, On the Distribution of Round-Trip Delays in TCP/IP Networks, Proceedings of the 24th Annual IEEE Conference on Local Computer Networks, p.172, October 17-20, 1999
+{13} M. Evans, N. Hastings, and B. Peacock,Statistical Distributions, 3rd ed. New York: John Wiley & Sons, Inc., Jun. 2000.
+Hao Jiang , Constantinos Dovrolis, Passive estimation of TCP round-trip times, ACM SIGCOMM Computer Communication Review, v.32 n.3, p.75-88, July 2002[doi>10.1145/571697.571725]
+Larry L. Peterson , Bruce S. Davie, Computer networks: a systems approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2000
+{16} T. Karagiannis, M. Molle, M. Faloutsos, and A. Broido, "A nonstationary Poisson view of Internet traffic," inProc. IEEE INFOCOM, Hong Kong, Mar. 2004, pp. 1558-1569.
+Leonard Kleinrock, Theory, Volume 1, Queueing Systems, Wiley-Interscience, 1975
+Jon Crowcroft , Steven Hand , Richard Mortier , Timothy Roscoe , Andrew Warfield, QoS's downfall: at the bottom, or not at all!, Proceedings of the ACM SIGCOMM workshop on Revisiting IP QoS: What have we learned, why do we care?, August 25-27, 2003, Karlsruhe, Germany[doi>10.1145/944592.944594]
+C. Fraleigh , S. Moon , B. Lyles , C. Cotton , M. Khan , D. Moll , R. Rockell , T. Seely , S. C. Diot, Packet-level traffic measurements from the Sprint IP backbone, IEEE Network: The Magazine of Global Internetworking, v.17 n.6, p.6-16, November 2003[doi>10.1109/MNET.2003.1248656]
+{20} Ethereal network protocol analyzer. {Online}. Available: http://www. ethereal.com
+{21} tcptrace. {Online}. Available: http://www.tcptrace.org
+{22} TCP RTT Data and Programs. {Online}. Available: http://www.ece. udel.edu/~lma/rtt.html
+Vern Edward Paxson, Measurements and analysis of end-to-end Internet dynamics, University of California at Berkeley, Berkeley, CA, 1998
+Jim Martin , Arne Nilsson , Injong Rhee, The incremental deployability of RTT-based congestion avoidance for high speed TCP Internet connections, Proceedings of the 2000 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.134-144, June 18-21, 2000, Santa Clara, California, USA[doi>10.1145/339331.339408]
+{25} R. Christensen,Data Distributions: A Statistical Handbook. Lincoln, MA: Entropy Ltd., 1984.
+{26} R. Spira, "Calculation of the gamma function by Stirling's formula,"Mathematics of Computation, vol. 25, pp. 317-322, Apr. 1971.
+{27} J. E. Kolassa,Series Approximation Methods in Statistics, ser. Lecture Notes in Statistics, 2nd ed. New York: Springer, 1997, ch. 6, pp. 96-111.
+Jitendra Padhye , Victor Firoiu , Don Towsley , Jim Kurose, Modeling TCP throughput: a simple model and its empirical validation, Proceedings of the ACM SIGCOMM '98 conference on Applications, technologies, architectures, and protocols for computer communication, p.303-314, August 31-September 04, 1998, Vancouver, British Columbia, Canada[doi>10.1145/285237.285291]
+{29} H. CramérCramer,Mathematical Methods of Statistics. Princeton, NJ: Princeton Univ. Press, 1946.
+{30} J. Aitchison and J. A. C. Brown,The Lognormal Distribution. London, U.K.: Dept. Appl. Economics Monographs, Univ. Cambridge, Syndics of the Cambridge Univ. Press, 1957.
+{31} J. C. Kapteyn and M. J. V. Uven,Skew Frequency Curves in Biology and Statistics, 2nd ed. Groningen: Astronomical Lab. Groningen, 1916.
+{32} M. Kalecki, "On the Gibrat distribution,"Econometrica, vol. 13, pp. 161-170, Apr. 1945.
+{33} L. Ma, K. Barner, and G. Arce, "Lognormal distribution of the exponential weighted moving average (EWMA)," Univ. Delaware, Newark, DE, Tech. Rep., 2005.
+Liangping Ma , Gonzalo R. Arce , Kenneth E. Barner, Signal processing analysis and algorithms for internet congestion control, University of Delaware, Newark, DE, 2005
+Simon Haykin, Adaptive filter theory (2nd ed.), Prentice-Hall, Inc., Upper Saddle River, NJ, 1991
+{36} W. T. Thomson,Laplace Transformation: Theory and Engineering Applications. Upper Saddle River: Prentice-Hall, 1950.

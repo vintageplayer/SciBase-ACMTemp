@@ -1,0 +1,42 @@
+D. L. Mills, "Internet time synchronization: the network time protocol,"IEEE Trans. Commun., vol. 39, no. 10, pp. 1482-1493, Oct. 1991.
+David L. Mills, Improved algorithms for synchronizing computer network clocks, IEEE/ACM Transactions on Networking (TON), v.3 n.3, p.245-254, June 1995[doi>10.1109/90.392384]
+Cheng Liao , Margaret Martonosi , Douglas W. Clark, Experience with an adaptive globally-synchronizing clock algorithm, Proceedings of the eleventh annual ACM symposium on Parallel algorithms and architectures, p.106-114, June 27-30, 1999, Saint Malo, France[doi>10.1145/305619.305631]
+Darryl Veitch , Satish Babu , Attila Pàsztor, Robust synchronization of software clocks across the internet, Proceedings of the 4th ACM SIGCOMM conference on Internet measurement, October 25-27, 2004, Taormina, Sicily, Italy[doi>10.1145/1028788.1028817]
+Attila Pásztor , Darryl Veitch, PC based precision timing without GPS, ACM SIGMETRICS Performance Evaluation Review, v.30 n.1, June 2002[doi>10.1145/511399.511336]
+IEEE Std. 1588-2002 IEEE Standard for a Precision Clock Synchronization Protocol for Networked Measurement and Control Systems, IEEE Std 1588-2002, 2002, pp. i-144.
+S. B. Moon, P. Skelly, and D. Towsley, "Estimation and removal of clock skew from network delay measurements," inProc. IEEE INFOCOM, Mar. 1999, vol. 1, pp. 227-234.
+L. Zhang, Z. Liu, and C. H. Xia, "Clock synchronization algorithms for network measurements," inProc. IEEE INFOCOM, 2002, vol. 1, pp. 160-169.
+G. J. Pottie , W. J. Kaiser, Wireless integrated network sensors, Communications of the ACM, v.43 n.5, p.51-58, May 2000[doi>10.1145/332833.332838]
+J. R. Vig, "Introduction to quartz frequency standards," Army Research Laboratory, Adelphi, MD, Tech. Rep. SLCET-TR-92-1 (Rev. 1), Oct. 1992.
+J. Phillips and K. Kundert, "Noise in mixers, oscillators, samplers, and logic: An introduction to cyclostationary noise," inProc. IEEE CICC, May 2000, pp. 431-438.
+Jeremy Elson , Lewis Girod , Deborah Estrin, Fine-grained network time synchronization using reference broadcasts, ACM SIGOPS Operating Systems Review, v.36 n.SI, Winter 2002[doi>10.1145/844128.844143]
+Michael Mock , Reiner Frings , Edgar Nett , Spiro Trikaliotis, Continuous Clock Synchronization in Wireless Real-Time Applications, Proceedings of the 19th IEEE Symposium on Reliable Distributed Systems, p.125, October 16-18, 2000
+Santashil PalChaudhuri , Amit Kumar Saha , David B. Johnson, Adaptive clock synchronization in sensor networks, Proceedings of the 3rd international symposium on Information processing in sensor networks, April 26-27, 2004, Berkeley, California, USA[doi>10.1145/984622.984672]
+Weilian Su , Ian F. Akyildiz, Time-diffusion synchronization protocol for wireless sensor networks, IEEE/ACM Transactions on Networking (TON), v.13 n.2, p.384-397, April 2005[doi>10.1109/TNET.2004.842228]
+Kay Römer, Time synchronization in ad hoc networks, Proceedings of the 2nd ACM international symposium on Mobile ad hoc networking & computing, October 04-05, 2001, Long Beach, CA, USA[doi>10.1145/501436.501440]
+Saurabh Ganeriwal , Ram Kumar , Mani B. Srivastava, Timing-sync protocol for sensor networks, Proceedings of the 1st international conference on Embedded networked sensor systems, November 05-07, 2003, Los Angeles, California, USA[doi>10.1145/958491.958508]
+Miklós Maróti , Branislav Kusy , Gyula Simon , Ákos Lédeczi, The flooding time synchronization protocol, Proceedings of the 2nd international conference on Embedded networked sensor systems, November 03-05, 2004, Baltimore, MD, USA[doi>10.1145/1031495.1031501]
+M. Sichitiu and C. Veerarittiphan, "Simple, accurate time synchronization for wireless sensor networks," inProc. IEEE WCNC, 2003, vol. 2, pp. 1266-1273.
+Q. Li and D. Rus, "Global clock synchronization in sensor networks," inProc. IEEE INFOCOM, Mar. 2004, vol. 1, pp. 564-574.
+D. Zhou and T. Lai, "A scalable and adaptive clock synchronization protocol for ieee 802.11-based multihop ad hoc networks," inProc. IEEE Int. Conf. Mobile Adhoc Sensor Syst., Nov. 2005, pp. 1-8.
+Y. Wu, Q. Chaudhari, and E. Serpedin, "Clock synchronization of wireless sensor networks,"IEEE Signal Process. Mag., vol. 28, no. 1, pp. 124-138, Jan. 2011.
+K. Noh, Q. M. Chaudhari, E. Serpedic, and B. W. Suter, "Novel clock phase offset and skew estimation using two-way timing message exchanges for wireless sensor networks,"IEEE Trans. Commun., vol. 55, no. 4, pp. 766-777, Apr. 2007.
+M. Leng and Y. Wu, "On clock synchronization algorithms for wireless sensor networks under unknown delay,"IEEE Trans. Veh. Technol., vol. 59, no. 1, pp. 182-190, Jan. 2010.
+K. Kim and B. Lee, "KALP: A Kalman filter-based adaptive clock method with low-pass prefiltering for packet networks use,"IEEE Trans. Commun., vol. 48, no. 7, pp. 1217-1225, Jul. 2000.
+A. Bletsas, "Evaluation of Kalman filtering for network time keeping,"IEEE Trans. Ultrason., Ferroelectr., Freq. Control, vol. 52, no. 9, pp. 1452-1460, Sep. 2005.
+L. Auler and R. d'Amore, "Adaptive Kalman filter for time synchronization over packet-switched networks (an heuristic approach)," inProc. IEEE COMSWARE, Jan. 2007, pp. 1-7.
+Benjamin R. Hamilton , Xiaoli Ma , Qi Zhao , Jun Xu, ACES: adaptive clock estimation and synchronization using Kalman filtering, Proceedings of the 14th ACM international conference on Mobile computing and networking, September 14-19, 2008, San Francisco, California, USA[doi>10.1145/1409944.1409963]
+"Clock oscillator stability," Cardinal Components Inc., Wayne, NJ, Applications Brief No. A.N. 1006 {Online}. Available: http://www.cardinalxtal.com/docs/notes/cardinal_clock_stability.pdf
+B. Sundararaman, U. Buy, and A. Kshemkalyani, "Clock synchronization for wireless sensor networks: A survey,"Ad Hoc Netw., vol. 3, no. 3, pp. 281-323, Feb. 2005.
+R.H. Jones and F. Boadi-Boateng, "Unequally spaced longitudinal data with AR(1) serial correlation,"Biometrics, vol. 47, no. 1, pp. 161-175, Mar. 1991.
+G. Kitagawa and W. Gersch,Smoothness Priors Analysis of Time Series, 1st ed. New York: Springer, 1996.
+P. Stoica and Y. Selen, "Model-order selection: A review of information criterion rules,"IEEE Signal Process. Mag., vol. 21, no. 4, pp. 36-47, Jul. 2004.
+A. Barron , J. Rissanen , Bin Yu, The minimum description length principle in coding and modeling, IEEE Transactions on Information Theory, v.44 n.6, p.2743-2760, October 1998[doi>10.1109/18.720554]
+Monson H. Hayes, Statistical Digital Signal Processing and Modeling, John Wiley & Sons, Inc., New York, NY, 1996
+Steven M. Kay, Fundamentals of statistical signal processing: estimation theory, Prentice-Hall, Inc., Upper Saddle River, NJ, 1993
+"Mica2 datasheet," MEMSIC, Inc., Andover, MA {Online}. Available: http://www.mem sic.com/products/wireless-sensor-networks/ wireless-modules.html
+F. D. Ridder, R. Pintelon, J. Schoukens, and D. P. Gillikin, "Modified AIC and MDL model selection criteria for short data records,"IEEE Trans. Instrum. Meas., vol. 54, no. 1, pp. 144-150, Feb. 2005.
+R. Tibshirani, "Regression shrinkage and selection via the lasso,"J. Roy. Statist. Soc. B, vol. 58, no. 1, pp. 267-288, 1996.
+Yin Zhang , Zihui Ge , Albert Greenberg , Matthew Roughan, Network anomography, Proceedings of the 5th ACM SIGCOMM conference on Internet Measurement, p.30-30, October 19-21, 2005, Berkeley, CA
+J. Friedman, T. Hastie, H. Hofling, and R. Tibshirani, "Pathwise coordinate optimization,"Ann. Appl. Statist., vol. 1, no. 2, pp. 302-332, 2007.
+H. Zhu, G. B. Giannakis, and G. Leus, "Weighted and structured sparse total least squares for perturbed compressive sampling," inProc. Int. Conf. Acoust., Speech, Signal Process., May 2011, pp. 3792-3795.

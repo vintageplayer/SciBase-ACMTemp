@@ -1,0 +1,2 @@
+Saha, Mukherjee, and Tripathi [1] present and analyze an ATM cell 
+scheduling algorithm called carry-over round robin. Unfortunately, one of the basic lemmas in their paper, related to the performance of this algorithm, does not hold. This adversely affects the delay and fairness properties that they subsequently derive. To substantiate this, we briefly describe carry-over round robin and present a counterexample to the lemma. We end with some concluding remarks.

@@ -1,0 +1,36 @@
+S. Kent , R. Atkinson, Security Architecture for the Internet Protocol, RFC Editor, 1998
+{2} A. Freier, P. Karlton, and P. Kocher, "The SSL protocol, version 3.0," Netscape Communications, Internet-Draft, 1996.
+{3} L. Zhang, S. Deering, D. Estrin, S. Shenker, and D. Zappala, "RSVP: a new resource ReSerVation Protocol,"IEEE Network, vol. 7, no. 5, pp. 8-18, Sep. 1993.
+{4} H. Schulzrinne, S. Casner, R. Frederick, and V. Jacobson, "RTP: A transport protocol for real-time applications," RFC 1889, 1996.
+R. X. Wu , A. A. Chien, GTP: group transport protocol for lambda-Grids, Proceedings of the 2004 IEEE International Symposium on Cluster Computing and the Grid, p.228-238, April 19-22, 2004
+E. Weigle , A. A. Chien, The Composite Endpoint Protocol (CEP): scalable endpoints for terabit flows, Proceedings of the Fifth IEEE International Symposium on Cluster Computing and the Grid (CCGrid'05) - Volume 2, p.1126-1134, May 09-12, 2005
+R. Stewart , Q. Xie , K. Morneault , C. Sharp , H. Schwarzbauer , T. Taylor , I. Rytina , M. Kalla , L. Zhang , V. Paxson, Stream Control Transmission Protocol, RFC Editor, 2000
+Matti A. Hiltunen , Richard D. Schlichting , Xiaonan Han , Melvin M. Cardozo , Rajsekhar Das, Real-Time Dependable Channels: Customizing QoS Attributes for Distributed Systems, IEEE Transactions on Parallel and Distributed Systems, v.10 n.6, p.600-612, June 1999[doi>10.1109/71.774909]
+Norman C. Hutchinson , Larry L. Peterson, The X-Kernel: An Architecture for Implementing Network Protocols, IEEE Transactions on Software Engineering, v.17 n.1, p.64-76, January 1991[doi>10.1109/32.67579]
+{10} M. Hiltunen, "Configuration management for highly-customizable software,"IEE Proc.: Software, vol. 145, no. 5, pp. 180-188, 1998.
+Constructing Adaptive Software in Distributed Systems, Proceedings of the The 21st International Conference on Distributed Computing Systems, p.635, April 16-19, 2001
+Patrick Glen Bridges , Richard D. Schlichting, Composing and coordinating adaptations in cholla, The University of Arizona, 2002
+J. Appavoo , K. Hui , C. A. N. Soules , R. W. Wisniewski , D. M. Da Silva , O. Krieger , M. A. Auslander , D. J. Edelsohn , B. Gamsa , G. R. Ganger , P. McKenney , M. Ostrowski , B. Rosenburg , M. Stumm , J. Xenidis, Enabling autonomic behavior in systems software with hot swapping, IBM Systems Journal, v.42 n.1, p.60-76, January 2003[doi>10.1147/sj.421.0060]
+Luigi Rizzo, Effective erasure codes for reliable computer communication protocols, ACM SIGCOMM Computer Communication Review, v.27 n.2, p.24-36, Apr. 1997[doi>10.1145/263876.263881]
+V. Jacobson, Congestion avoidance and control, Symposium proceedings on Communications architectures and protocols, p.314-329, August 16-18, 1988, Stanford, California, USA[doi>10.1145/52324.52356]
+Sally Floyd , Mark Handley , Jitendra Padhye , Jörg Widmer, Equation-based congestion control for unicast applications, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.43-56, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347397]
+{17} S. Cen, C. Pu, and J. Walpole, "Flow and congestion control for Internet streaming applications," presented at the ACM/SPIE Multimedia Computing and Networking Conf. (MMCN98), San Jose, CA, Jan. 1998.
+{18} G. T. Wong, M. A. Hiltunen, and R. D. Schlichting, "A configurable and extensible transport protocol," inProc. IEEE INFOCOM 2001, Anchorage, AK, Apr. 2001, pp. 319-328.
+Mohan Rajagopalan , Saumya K. Debray , Matti A. Hiltunen , Richard D. Schlichting, Profile-directed optimization of event-based programs, Proceedings of the ACM SIGPLAN 2002 Conference on Programming language design and implementation, June 17-19, 2002, Berlin, Germany[doi>10.1145/512529.512543]
+{20} C. Chambers, S. Eggers, J. Auslander, M. Philipose, M. Mock, and P. Pardyak, "Automatic dynamic compilation support for event dispatching in extensible systems," presented at the 1st Workshop on Compiler Support for Systems Software (WCSSS'96), Tucson, AZ, Feb. 1996.
+R. X. Wu , A. A. Chien , M. A. Hiltunen , R. D. Schlichting , S. Sen, A high performance configurable transport protocol for grid computing, Proceedings of the Fifth IEEE International Symposium on Cluster Computing and the Grid (CCGrid'05) - Volume 2, p.1117-1125, May 09-12, 2005
+{22} "Xpress transport protocol specification, revision 4.0," XTP Forum, Santa Barbara, CA, Mar. 1995.
+{23} D. Feldmeier, "An Overview of the TP++ Transport Protocol Project," inHigh Performance Networks, Frontiers and Experience. Boston, MA: Kluwer Academic, 1994, pp. 157-176.
+S. Ganje , S. Vallabhaneni, Composite Protocols for Innovative Active Services, Proceedings of the 2002 DARPA Active Networks Conference and Exposition, p.157, May 29-30, 2002
+{25} D. Ritchie, "A stream input-output system,"AT&T; Bell Labs Tech. J., vol. 63, no. 8, pp. 311-324, 1984.
+Robbert van Renesse , Ken Birman , Mark Hayden , Alexey Vaysburd , David Karr, Building adaptive systems using ensemble, Software—Practice & Experience, v.28 n.9, p.963-979, July 25, 1998[doi>10.1002/(SICI)1097-024X(19980725)28:9<963::AID-SPE179>3.0.CO;2-9]
+William Allcock , John Bresnahan , Rajkumar Kettimuthu , Joseph Link, The Globus eXtensible Input/Output System (XIO): A Protocol Independent IO System for the Grid, Proceedings of the 19th IEEE International Parallel and Distributed Processing Symposium (IPDPS'05) - Workshop 4, p.179.1, April 04-08, 2005[doi>10.1109/IPDPS.2005.429]
+Gerard Parr , Kevin Curran, A paradigm shift in the distribution of multimedia, Communications of the ACM, v.43 n.6, p.103-109, June 2000[doi>10.1145/336460.336486]
+{29} R. Braden, T. Faber, and M. Handley, "From protocol stack to protocol heap-Role-based architecture," presented at the 1st Workshop on Hot Topics in Networks (HotNets-I), Princeton, NJ, Oct. 2002.
+Nina T. Bhatti , Matti A. Hiltunen , Richard D. Schlichting , Wanda Chiu, Coyote: a system for constructing fine-grain configurable communication services, ACM Transactions on Computer Systems (TOCS), v.16 n.4, p.321-366, Nov. 1998[doi>10.1145/292523.292524]
+{31} D. Schmidt, D. Box, and T. Suda, "ADAPTIVE: A dynamically assembled protocol transformation, integration, and evaluation environment,"Concurrency: Practice and Experience, vol. 5, no. 4, pp. 269-286, 1993.
+{32} D. Velten, R. Hinden, and J. Sax, "Reliable Data Protocol," RFC 908, 1984.
+{33} D. Cheriton, "VMTP: Versatile Message Transaction Protocol," RFC 1045, 1988.
+Rahmi Marasli , Paul D. Amer , Phillip T. Conrad, Partially Reliable Transport Service, Proceedings of the 2nd IEEE Symposium on Computers and Communications (ISCC '97), p.648, July 01-03, 1997
+M. Mathis , J. Mahdavi , S. Floyd , A. Romanow, TCP Selective Acknowledgement Options, RFC Editor, 1996
+{36} R. Braden, "T/TCP-TCP extensions for transactions," RFC 1644, 1994.

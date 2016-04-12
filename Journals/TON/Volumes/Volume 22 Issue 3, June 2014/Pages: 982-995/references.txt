@@ -1,0 +1,37 @@
+Karthik Lakshminarayanan , Anand Rangarajan , Srinivasan Venkatachary, Algorithms for advanced packet classification with ternary CAMs, Proceedings of the 2005 conference on Applications, technologies, architectures, and protocols for computer communications, August 22-26, 2005, Philadelphia, Pennsylvania, USA
+Miad Faezipour , Mehrdad Nourani, Wire-Speed TCAM-Based Architectures for Multimatch Packet Classification, IEEE Transactions on Computers, v.58 n.1, p.5-17, January 2009
+M. Faezipour and M. Nourani, "Cam01-1: a customized TCAM architecture for multi-match packet classification," inProc. IEEE GLOBECOM, Dec. 2006, pp. 1-5.
+Fang Yu , Randy H. Katz , T. V. Lakshman, Efficient Multimatch Packet Classification and Lookup with TCAM, IEEE Micro, v.25 n.1, p.50-59, January 2005
+Fang Yu , T. V. Lakshman , Martin Austin Motoyama , Randy H. Katz, SSA: a power and memory efficient scheme to multi-match packet classification, Proceedings of the 2005 ACM symposium on Architecture for networking and communications systems, October 26-28, 2005, Princeton, NJ, USA
+Snort, "A free lightweight network intrusion detection system for UNIX and Windows," 2013 [Online]. Available: http://www.snort.org
+Sailesh Kumar , Jonathan Turner , John Williams, Advanced algorithms for fast and scalable deep packet inspection, Proceedings of the 2006 ACM/IEEE symposium on Architecture for networking and communications systems, December 03-05, 2006, San Jose, California, USA
+Sailesh Kumar , Sarang Dharmapurikar , Fang Yu , Patrick Crowley , Jonathan Turner, Algorithms to accelerate multiple regular expressions matching for deep packet inspection, Proceedings of the 2006 conference on Applications, technologies, architectures, and protocols for computer communications, September 11-15, 2006, Pisa, Italy
+P. Gupta , N. McKeown, Algorithms for packet classification, IEEE Network: The Magazine of Global Internetworking, v.15 n.2, p.24-32, March 2001
+H. Jonathan Chao , Bin Liu, High Performance Switches and Routers, Wiley-IEEE Press, 2007
+Pankaj Gupta , Nick McKeown, Classifying Packets with Hierarchical Intelligent Cuttings, IEEE Micro, v.20 n.1, p.34-41, January 2000
+Sumeet Singh , Florin Baboescu , George Varghese , Jia Wang, Packet classification using multidimensional cutting, Proceedings of the 2003 conference on Applications, technologies, architectures, and protocols for computer communications, August 25-29, 2003, Karlsruhe, Germany
+T. V. Lakshman , D. Stiliadis, High-speed policy-based packet forwarding using efficient multi-dimensional range matching, Proceedings of the ACM SIGCOMM '98 conference on Applications, technologies, architectures, and protocols for computer communication, p.203-214, August 31-September 04, 1998, Vancouver, British Columbia, Canada
+V. Srinivasan , G. Varghese , S. Suri , M. Waldvogel, Fast and scalable layer four switching, ACM SIGCOMM Computer Communication Review, v.28 n.4, p.191-202, Oct. 1998
+Balajee Vamanan , Gwendolyn Voskuilen , T. N. Vijaykumar, EffiCuts: optimizing packet classification for memory and throughput, Proceedings of the ACM SIGCOMM 2010 conference, August 30-September 03, 2010, New Delhi, India
+Huan Liu, Efficient Mapping of Range Classifier into Ternary-CAM, Proceedings of the 10th Symposium on High Performance Interconnects HOT Interconnects, p.95, August 21-23, 2002
+A. Liu, C. Meiners, and Y. Zhou, "All-match based complete redundancy removal for packet classifiers in TCAMs," inProc. 27th IEEE INFOCOM, Apr. 2008, pp. 111-115.
+Balajee Vamanan , T. N. Vijaykumar, TreeCAM: decoupling updates and lookups in packet classification, Proceedings of the Seventh COnference on emerging Networking EXperiments and Technologies, p.1-12, December 06-09, 2011, Tokyo, Japan
+J. van Lunteren , T. Engbersen, Fast and scalable packet classification, IEEE Journal on Selected Areas in Communications, v.21 n.4, p.560-571, September 2006
+Y.-K. Chang, C.-I. Lee, and C.-C. Su, "Multi-field range encoding for packet classification in TCAM,"Proc. IEEE INFOCOM, pp. 196-200, Apr. 2011.
+A. Bremler-Barr, D. Hay, and D. Hendler, "Layered interval codes for TCAM-based classification,"Proc. IEEE INFOCOM, pp. 1305-1313, Apr. 2009.
+R. McGeer and P. Yalagandula, "Minimizing rulesets for TCAM implementation,"Proc. IEEE INFOCOM, pp. 1314-1322, Apr. 2009.
+R. Wei, Y. Xu, and H. Chao, "Block permutations in boolean space to minimize TCAM for packet classification,"Proc. IEEE INFOCOM, pp. 2561-2565, Mar. 2012.
+Yadi Ma , Suman Banerjee, A smart pre-classifier to reduce power consumption of TCAMs for multi-dimensional packet classification, ACM SIGCOMM Computer Communication Review, v.42 n.4, October 2012
+D. Pao, Y. K. Li, and P. Zhou, "An encoding scheme for TCAM-based packet classification," inProc. 8th ICACT, Feb. 2006, vol. 1, pp. 470-475.
+I. Papaefstathiou and V. Papaefstathiou, "Memory-efficient 5D packet classification at 40 Gbps," inProc. 26th IEEE INFOCOM, May 2007, pp. 1370-1378.
+I. Papaefstathiou and V. Papaefstathiou, "An innovative low-cost classification scheme for combined multi-gigabit IP and Ethernet networks," inProc. IEEE ICC, Jun. 2006, vol. 1, pp. 211-216.
+Mikael Degermark , Andrej Brodnik , Svante Carlsson , Stephen Pink, Small forwarding tables for fast routing lookups, ACM SIGCOMM Computer Communication Review, v.27 n.4, p.3-14, Oct. 1997
+George Varghese, Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices (The Morgan Kaufmann Series in Networking), Morgan Kaufmann Publishers Inc., San Francisco, CA, 2004
+Xuehong Sun , Sartaj K. Sahni , Yiqiang Q. Zhao, Packet classification consuming small amount of memory, IEEE/ACM Transactions on Networking (TON), v.13 n.5, p.1135-1145, October 2005
+N. S. Artan and H. Chao, "Tribica: Trie bitmap content analyzer for high-speed network intrusion detection,"Proc. IEEE INFOCOM, pp. 125-133, May 2007.
+Rasmus Pagh , Flemming Friche Rodler, Cuckoo Hashing, Proceedings of the 9th Annual European Symposium on Algorithms, p.121-133, August 28-31, 2001
+S. Kumar, J. Turner, and P. Crowley, "Peacock hashing: Deterministic and updatable hashing for high performance networking,"Proc. IEEE INFOCOM, pp. 101-105, Apr. 2008.
+G. L. Heileman and W. Luo, "How caching affects hashing," inProc. 7th ALENEX, 2005, pp. 141-154.
+David E. Taylor , Jonathan S. Turner, ClassBench: a packet classification benchmark, IEEE/ACM Transactions on Networking (TON), v.15 n.3, p.499-511, June 2007
+H. Song, "Multidimensional cuttings (hypercuts)," 2006 [Online]. Available: http://www.arl.wustl.edu/~hs1/project/hypercuts.htm
+Kai Zheng , Chengchen Hu , Hongbin Lu , Bin Liu, A TCAM-based distributed parallel IP lookup scheme and performance analysis, IEEE/ACM Transactions on Networking (TON), v.14 n.4, p.863-875, August 2006

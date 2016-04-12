@@ -1,0 +1,35 @@
+Jussara M. Almeida , Virgilio Almeida , David J. Yates, Measuring the behavior of a World-Wide Web server, Proceedings of the IFIP TC6 seventh international conference on High performance netwoking VII, p.57-72, May 1997, White Plains, New York, USA
+Martin F. Arlitt , Carey L. Williamson, Internet Web servers: workload characterization and performance implications, IEEE/ACM Transactions on Networking (TON), v.5 n.5, p.631-645, Oct. 1997[doi>10.1109/90.649565]
+Gaurav Banga , Peter Druschel, Measuring the capacity of a web server, Proceedings of the USENIX Symposium on Internet Technologies and Systems on USENIX Symposium on Internet Technologies and Systems, p.6-6, December 08-11, 1997, Monterey, California
+Gaurav Banga , Jeffrey C. Mogul, Scalable kernel performance for internet servers under realistic loads, Proceedings of the annual conference on USENIX Annual Technical Conference, p.1-1, June 15-19, 1998, New Orleans, Louisiana
+D. Banks and M. Prudence, "A high-performance network architecture for a PA-RISC workstation," IEEE J. Select Areas Commun., vol. 11, pp. 191-202, Feb. 1993.
+Paul Barford , Mark Crovella, Generating representative Web workloads for network and server performance evaluation, Proceedings of the 1998 ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems, p.151-160, June 22-26, 1998, Madison, Wisconsin, USA[doi>10.1145/277851.277897]
+R. Braden, "Requirements for internet hosts---Communication layers," Network Inform. Center, RFC 1122, Oct. 1989.
+D. D. Clark, "Window and acknowledgment strategy in TCP," Network Inform. Center, RFC 813, July 1982.
+The Standard Performance Evaluation Corporation {Online}. Available: http://www.spec.org/osg/web96
+Mark E. Crovella , Azer Bestavros, Self-similarity in World Wide Web traffic: evidence and possible causes, Proceedings of the 1996 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.160-169, May 23-26, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/233013.233038]
+C. Dalton, G. Watson, D. Banks, C. Clamvokis, A. Edwards, and J. Lumley, "Afterburner," IEEE/ACM Trans. Networking, vol. 11, pp. 36-43, July 1993.
+P. Druschel , V. Pai , W. Zwaenepoel, Extensible Kernels are Leading OS Research Astray, Proceedings of the 6th Workshop on Hot Topics in Operating Systems (HotOS-VI), p.38, May 05-06, 1997
+Peter Druschel , Larry L. Peterson , Bruce S. Davie, Experiences with a high-speed network adaptor: a software perspective, Proceedings of the conference on Communications architectures, protocols and applications, p.2-13, August 31-September 02, 1994, London, United Kingdom[doi>10.1145/190314.190315]
+John Heidemann, Performance interactions between P-HTTP and TCP implementations, ACM SIGCOMM Computer Communication Review, v.27 n.2, p.65-73, Apr. 1997[doi>10.1145/263876.263886]
+J. C. Hu, S. Mungee, and D. C. Schmidt, "Techniques for developing and measuring high-performance web servers over ATM networks," in Proc. IEEE Conf. Comput. Commun., San Francisco, CA, Mar. 1998.
+J. C. Hu, I. Pyarali, and D. C. Schmidt, "Measuring the impact of event dispatching and concurrency models on web server performance over high-speed networks," in Proc. 2nd Global Internet Conf., Phoenix, AZ, Nov. 1997.
+Y. Hu, A. Nanda, and Q. Yang, "Measurement, analysis, and performance improvement of the Apache Web server," Dept. Elect. Comput. Eng., Univ. Rhode Island, Kingston, RI, Tech. Rep. 1097-0001, Oct. 1997.
+Zeus Inc. The Zeus WWW server. {Online}. Available: http://www.zeus.co.uk
+V. Jacobson, "4BSD header prediction," ACM Comput. Commun. Rev., vol. 20, no. 2, pp. 13-15, Apr. 1990.
+V. Jacobson, C. Leres, and S. McCanne. tcpdump. {Online}. Available: ftp://ftp.ee.lbnl.gov/tcpdump.tar.Z
+M. Frans Kaashoek , Dawson R. Engler , Gregory R. Ganger , Hector M. Briceño , Russell Hunt , David Mazières , Thomas Pinckney , Robert Grimm , John Jannotti , Kenneth Mackenzie, Application performance and flexibility on exokernel systems, Proceedings of the sixteenth ACM symposium on Operating systems principles, p.52-65, October 05-08, 1997, Saint Malo, France[doi>10.1145/268998.266644]
+M. Frans Kaashoek , Dawson R. Engler , Gregory R. Ganger , Deborah A. Wallach, Server operating systems, Proceedings of the 7th workshop on ACM SIGOPS European workshop: Systems support for worldwide applications, September 09-11, 1996, Connemara, Ireland[doi>10.1145/504450.504478]
+Jonathan Kay , Joseph Pasquale, Profiling and reducing processing overheads in TCP/IP, IEEE/ACM Transactions on Networking (TON), v.4 n.6, p.817-828, Dec. 1996[doi>10.1109/90.556340]
+S. J. Leffler, M. K. McKusick, M. J. Karels, and J. S. Quarterman, The Design and Implementation of the 4.3BSD UNIX Operating System. Reading, MA: Addison-Wesley, 1989.
+J. C. Mogul, "Network behavior of a busy Web server and its clients," Western Res. Lab., Digital Equip. Corporation, Palo Alto, CA, Tech. Rep. 95/5, Oct. 1995.
+____, "Operating systems support for busy internet servers," in Proc. 5th Workshop Hot Topics Operat. Syst., Orcas Island, WA, May 1995.
+D. Mosberger and T. Jin, "Httperf---A tool for measuring web server performance," in Proc. Workshop Internet Server Perform., Madison, WI, June 1998.
+J. Nagle, "Congestion control in IP/TCP internetworks," Network Inform. Center, RFC 896, Jan. 1984.
+The Netcraft WWW server survey {Online}. Available: http://www. netcraft.co.uk/Survey
+Henrik Frystyk Nielsen , James Gettys , Anselm Baird-Smith , Eric Prud'hommeaux , Håkon Wium Lie , Chris Lilley, Network performance effects of HTTP/1.1, CSS1, and PNG, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.155-166, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263157]
+V. S. Pai, P. Druschel, and W. Zwaenepoel, "I/O Lite: A copy-free UNIX I/O system," presented at the 3rd USENIX Syrup. Operating Syst. Design Implement., New Orleans, LA, Feb. 1999.
+J. Postel, "Transmission Control Protocol," Network Inform. Center, RFC 793, Sept. 1981.
+W. Stevens, TCP Slow Start, Congestion Avoidance, Fast Retransmit, and Fast Recovery Algorithms, RFC Editor, 1997
+WebStone: The first generation in HTTP server benchmarking, G. Trent and M. Sake. {Online}. Available: http://www.sgi.com/Products/Web-FORCE/WebStone
+David J. Yates , Virgilio Almeida , Jussara M. Almeida, On the Interaction Between an Operating System and Web Server, Boston University, Boston, MA, 1997

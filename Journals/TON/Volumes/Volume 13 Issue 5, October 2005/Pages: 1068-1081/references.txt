@@ -1,0 +1,37 @@
+{1} T. Alpcan and T. Basar, "A game-theoretic framework for congestion control in general topology networks," presented at the 41th IEEE Conf. Decision and Control, Las Vegas, NV, Dec. 2002.
+S. Athuraliya , S. H. Low , V. H. Li , Qinghe Yin, REM: active queue management, IEEE Network: The Magazine of Global Internetworking, v.15 n.3, p.48-53, May 2001[doi>10.1109/65.923940]
+{3} D. Bertsekas, Nonlinear Programming, 2nd ed. Belmont, MA: Athena Scientific, 1999.
+Supratim Deb , R. Srikant, Rate-based versus queue-based models of congestion control, Proceedings of the joint international conference on Measurement and modeling of computer systems, June 10-14, 2004, New York, NY, USA[doi>10.1145/1005686.1005717]
+{5} C. A. Desoer and Y. T. Wang, "On the generalized Nyquist stability criterion," IEEE Trans. Autom. Contr., vol. 25, no. 2, pp. 187-196, Apr. 1980.
+Wu-chang Feng , Kang G. Shin , Dilip D. Kandlur , Debanjan Saha, TheBLUEactive queue management algorithms, IEEE/ACM Transactions on Networking (TON), v.10 n.4, p.513-528, August 2002[doi>10.1109/TNET.2002.801399]
+Sally Floyd , Van Jacobson, Random early detection gateways for congestion avoidance, IEEE/ACM Transactions on Networking (TON), v.1 n.4, p.397-413, Aug. 1993[doi>10.1109/90.251892]
+S. Floyd, HighSpeed TCP for Large Congestion Windows, RFC Editor, 2003
+R. J. Gibbens , F. P. Kelly, Resource pricing and the evolution of congestion control, Automatica (Journal of IFAC), v.35 n.12, p.1969-1985, December, 1999[doi>10.1016/S0005-1098(99)00135-1]
+{10} H. Han, C. V. Hollot, Y. Chait, and V. Misra, "TCP network stabilized by buffer-based AQMs," presented at the IEEE INFOCOM, Hong Kong, Mar. 2004.
+{11} C. V. Hollot, V. Misra, D. Towsley, and W. Gong, "A control theoretic analysis of RED," presented at the IEEE INFOCOM, Anchorage, AK, Apr. 2001.
+{12} C. V. Hollot, V. Misra, D. Towsley, and W. Gong, "Analysis and design of controllers for AQM routers supporting TCP flows," IEEE Trans. Autom. Contr., vol. 47, no. 6, pp. 945-959, Jun. 2002.
+Ramesh Johari , David Kim Hong Tan, End-to-end congestion control for the internet: delays and stability, IEEE/ACM Transactions on Networking (TON), v.9 n.6, p.818-832, December 2001[doi>10.1109/90.974534]
+{14} F. Kelly, "Fairness and stability of end-to-end congestion control," Eur. J. Control, pp. 149-165, 2003.
+{15} F. P. Kelly, A. Maulloo, and D. Tan, "Rate control in communication networks: shadow prices, proportional fairness and stability," J. Oper. Res. Soc., vol. 49, pp. 237-252, 1998.
+{16} F. P. Kelly, "Charging and rate control for elastic traffic," Eur. Trans. Telecommun., vol. 8, pp. 33-37, 1997.
+{17} F. P. Kelly, "Models for a self-managed Internet," in Phil. Trans. Roy. Soc., 2000, vol. A358, pp. 2335-2348.
+{18} T. Kelly. (2002, Dec.) Scalable TCP: Improving performance in high speed wide area networks. {Online}. Available: http://www-lce.eng.cam.ac.uk/ctk21/papers/.
+{19} S. Kunniyur and R. Srikant, "End-to-end congestion control: utility functions, random losses and ECN marks," presented at the IEEE INFOCOM, Tel Aviv, Israel, Mar. 2000.
+Srisankar Kunniyur , R. Srikant, Analysis and design of an adaptive virtual queue (AVQ) algorithm for active queue management, Proceedings of the 2001 conference on Applications, technologies, architectures, and protocols for computer communications, p.123-134, August 2001, San Diego, California, USA[doi>10.1145/383059.383069]
+{21} S. Kunniyur and R. Srikant, "Designing AVQ parameters for a general topology network," presented at the Asian Control Conf., Singapore, Sep. 2002.
+{22} S. Kunniyur and R. Srikant, "Note on the stability of the AVQ scheme," presented at the Conf. Information Sciences and Systems, Princeton, NJ, Mar. 2002.
+{23} S. Kunniyur and R. Srikant, "A time-scale decomposition approach to adaptive ECN marking," IEEE Trans. Autom. Contr., vol. 47, no. 6, pp. 882-894, Jun. 2002.
+{24} S. Liu, T. Basar, and R. Srikant, "Controlling the Internet: a survey and some new results," presented at the IEEE Conf. Decision and Control, Maui, HI, Dec. 2003.
+Steven H. Low , David E. Lapsley, Optimization flow control—I: basic algorithm and convergence, IEEE/ACM Transactions on Networking (TON), v.7 n.6, p.861-874, Dec. 1999[doi>10.1109/90.811451]
+{26} S. Low, F. Paganini, J. Wang, S. Adlakha, and J. Doyle, "Dynamics of TCP/RED and a scalable control," presented at the IEEE INFOCOM, New York, Jun. 2002.
+Vishal Misra , Wei-Bo Gong , Don Towsley, Fluid-based analysis of a network of AQM routers supporting TCP flows with an application to RED, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.151-160, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347421]
+Jeonghoon Mo , Jean Walrand, Fair end-to-end window-based congestion control, IEEE/ACM Transactions on Networking (TON), v.8 n.5, p.556-567, Oct. 2000[doi>10.1109/90.879343]
+{29} F. Paganini, J. Doyle, and S. Low, "Scalable laws for stable network congestion control," presented at the IEEE Conf. Decision and Control, Orlando, FL, Dec. 2001.
+{30} F. Paganini, Z. Wang, J. Doyle, and S. Low, "A new TCP/AQM for stable operation in fast networks," presented at the IEEE INFOCOM, San Francisco, CA, Apr. 2003.
+Rayadurgam Srikant, The Mathematics of Internet Congestion Control (Systems and Control: Foundations and Applications), SpringerVerlag, 2004
+{32} G. Vinnicombe. (2001) On the stability of end-to-end congestion control for the Internet. University of Cambridge Tech. Report CUED/F-INFENG/TR.398. {Online}. Available: http://www.eng.cam.ac.uk/~gv.
+{33} G. Vinnicombe, "On the stability of networks operating TCP-like congestion control," presented at the IFAC World Congress, Barcelona, Catalonia, Spain, 2002, {Online.} Available: http://www.eng.cam.ac.uk/~gv.
+{34} G. Vinnicombe, (2002) Robust Congestion Control for the Internet. University of Cambridge Tech. Report. {Online}. Available: http://www.eng.cam.ac.uk/~gv.
+{35} J. T. Wen and M. Arcak, "A unifying passivity framework for network flow control," IEEE Trans. Autom. Contr., vol. 49, no. 2, pp. 162-174, 2004.
+Haïkel Yaïche , Ravi R. Mazumdar , Catherine Rosenberg, A game theoretic framework for bandwidth allocation and pricing in broadband networks, IEEE/ACM Transactions on Networking (TON), v.8 n.5, p.667-678, Oct. 2000[doi>10.1109/90.879352]
+{37} L. Ying, G. Dullerud, and R. Srikant, "Global stability of Internet congestion controllers with heterogeneous delays," presented at the American Control Conf., Boston, MA, Jun. 2004.

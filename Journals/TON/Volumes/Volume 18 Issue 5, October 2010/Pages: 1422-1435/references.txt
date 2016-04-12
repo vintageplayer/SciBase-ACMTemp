@@ -1,0 +1,45 @@
+T. Alpcan and T. Basar, "Global stability analysis of an end-to-end congestion control scheme for general topology networks with delay," inProc. IEEE Conf. Decision Control, 2003, pp. 1092-1097.
+François Baccelli , Dohy Hong, TCP is max-plus linear and what it tells us on its throughput, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.219-230, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347548]
+L. S. Brakmo , L. L. Peterson, TCP Vegas: end to end congestion avoidance on a global Internet, IEEE Journal on Selected Areas in Communications, v.13 n.8, p.1465-1480, September 2006[doi>10.1109/49.464716]
+Thomas Bonald , Laurent Massoulié, Impact of fairness on Internet performance, Proceedings of the 2001 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.82-91, June 2001, Cambridge, Massachusetts, USA[doi>10.1145/378420.378438]
+H. Choe and S. H. Low, "Stabilized Vegas," inProc. IEEE INFOCOM, 2003, pp. 2290-2300.
+S. Deb and R. Srikant, "Global stability of congestion controllers for the Internet,"IEEE Trans. Autom. Control, vol. 48, no. 6, pp. 1055-1060, Jun. 2003.
+G. E. Dullerud and F. Paganini,A Course in Robust Control Theory. New York: Springer, 2000.
+M. Gerla and L. Kleinrock, "Flow control: A comparative survey,"IEEE Trans. Commun., vol. COMM-28, no. 4, pp. 553-574, Apr. 1980.
+C. V. Hollot , V. Misra , D. Towsley , W. Gong, A Control Theoretic Analysis of RED TITLE2:, University of Massachusetts, Amherst, MA, 2000
+C. Hollot and Y. Chait, "Nonlinear stability analysis for a class of TCP/AQM schemes," inProc. IEEE Conf. Decision Control, 2001, pp. 2309-2314.
+V. Jacobson, Congestion avoidance and control, Symposium proceedings on Communications architectures and protocols, p.314-329, August 16-18, 1988, Stanford, California, USA[doi>10.1145/52324.52356]
+K. Jacobsson, L. L. H. Andrew, A. Tang, S. H. Low, and H. Hjalmarsson, "An improved link model for window flow control and its application to FAST TCP,"IEEE Trans. Autom. Control, vol. 54, no. 3, pp. 551-564, Mar. 2009.
+K. Jacobsson, L. L. H. Andrew, A. Tang, K. H. Johansson, H. Hjalmarsson, and S. H. Low, "ACK-clocking dynamics: Modeling the interaction between windows and the network," inProc. IEEE INFOCOM, 2008, pp. 2146-2152.
+K. Jacobsson, "Dynamic modeling of internet congestion control," Ph.D. dissertation, Royal Institute of Technology (KTH), Stockholm, Sweden, 2008.
+R. Jain, "Congestion control in computer networks: Issues and trends,"IEEE Network, vol. 4, no. 3, pp. 24-30, May 1990.
+Hao Jiang , Constantinos Dovrolis, Why is the internet traffic bursty in short time scales?, Proceedings of the 2005 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 06-10, 2005, Banff, Alberta, Canada[doi>10.1145/1064212.1064240]
+Ramesh Johari , David Kim Hong Tan, End-to-end congestion control for the internet: delays and stability, IEEE/ACM Transactions on Networking (TON), v.9 n.6, p.818-832, December 2001[doi>10.1109/90.974534]
+F. Kelly, A. Maulloo, and D. Tan, "Rate control for communication networks: Shadow prices, proportional fairness and stability,"J. Opt. Res. Soc., vol. 49, no. 3, pp. 237-252, Mar. 1998.
+K. Kim, A. Tang, and S. H. Low, "Design of AQM in supporting TCP based on the well-known AIMD model,"Proc. IEEE Globecom, pp. 3226-3230, 2003.
+K. Kim, A. Tang, and S. H. Low, "A stabilizing AQM based on virtual queue dynamics in supporting TCP with arbitrary delays,"Proc. IEEE CDC, pp. 3665-3670, 2003.
+Srisankar Kunniyur , R. Srikant, End-to-end congestion control schemes: utility functions, random losses and ECN marks, IEEE/ACM Transactions on Networking (TON), v.11 n.5, p.689-702, October 2003[doi>10.1109/TNET.2003.818183]
+Jean-Yves Le Boudec , Patrick Thiran, Network calculus: a theory of deterministic queuing systems for the internet, Springer-Verlag, Berlin, Heidelberg, 2001
+G. S. Lee, L. L. H. Andrew, A. Tang, and S. H. Low, "WAN-in-Lab: Motivation, deployment and experiments," inProc. PFLDnet, Marina Del Rey, CA, 2007, pp. 85-90.
+S. Liu, T. Basar, and R. Srikant, "Pitfalls in the fluid modeling of RTT variations in window-based congestion control,"Proc. IEEE INFOCOM, pp. 1002-1012, 2005.
+Steven H. Low , David E. Lapsley, Optimization flow control—I: basic algorithm and convergence, IEEE/ACM Transactions on Networking (TON), v.7 n.6, p.861-874, Dec. 1999[doi>10.1109/90.811451]
+S. H. Low, F. Paganini, and J. C. Doyle, "Internet congestion control,"IEEE Control Syst. Mag., vol. 22, no. 1, pp. 28-43, Feb. 2002.
+Steven H. Low , Fernando Paganini , Jiantao Wang , John C. Doyle, Linear stability of TCP/RED and a scalable control, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.43 n.5, p.633-647, 5 December 2003[doi>10.1016/S1389-1286(03)00304-9]
+L. Massoulié, "Stability of distributed congestion control with heterogeneous feedback delays,"IEEE Trans. Autom. Control, vol. 47, no. 6, pp. 895-902, Jun. 2002.
+Laurent Massoulié , James Roberts, Bandwidth sharing: objectives and algorithms, IEEE/ACM Transactions on Networking (TON), v.10 n.3, p.320-328, June 2002[doi>10.1109/TNET.2002.1012364]
+J. Mo, R. La, V. Anantharam, and J. Walrand, "Analysis and comparison of TCP Reno and TCP Vegas,"Proc. IEEE INFOCOM, pp. 1556-1563, 1999.
+Jeonghoon Mo , Jean Walrand, Fair end-to-end window-based congestion control, IEEE/ACM Transactions on Networking (TON), v.8 n.5, p.556-567, Oct. 2000[doi>10.1109/90.879343]
+Fernando Paganini , Zhikui Wang , John C. Doyle , Steven H. Low, Congestion control for high performance, stability, and fairness in general networks, IEEE/ACM Transactions on Networking (TON), v.13 n.1, p.43-56, February 2005[doi>10.1109/TNET.2004.842216]
+A. Tang, L. L. H. Andrew, K. Jacobsson, K. H. Johansson, S. H. Low, and H. Hjalmarsson, "Window flow control: Macroscopic properties from microscopic factors,"Proc. IEEE INFOCOM, pp. 91-95, 2008.
+A. Tang, K. Jacobsson, L. L. H. Andrew, and S. H. Low, "An accurate link model and its application to stability analysis of FAST TCP,"Proc. IEEE INFOCOM, pp. 161-169, 2007.
+Ao Tang , Jiantao Wang , Steven H. Low, Counter-intuitive throughput behaviors in networks under end-to-end control, IEEE/ACM Transactions on Networking (TON), v.14 n.2, p.355-368, April 2006[doi>10.1109/TNET.2006.872552]
+Ao Tang , Jiantao Wang , Steven H. Low , Mung Chiang, Equilibrium of heterogeneous congestion control: existence and uniqueness, IEEE/ACM Transactions on Networking (TON), v.15 n.4, p.824-837, August 2007[doi>10.1109/TNET.2007.893885]
+Zheng Wang , Jon Crowcroft, Eliminating periodic packet losses in the 4.3-Tahoe BSD TCP congestion control algorithm, ACM SIGCOMM Computer Communication Review, v.22 n.2, p.9-16, April 1992[doi>10.1145/141800.141801]
+G. Vinnicombe, "On the stability of networks operating TCP-like protocols," inProc. IFAC, 2002.
+Milan Vojnović , Jean-Yves Le Boudec, On the long-run behavior of equation-based rate control, IEEE/ACM Transactions on Networking (TON), v.13 n.3, p.568-581, June 2005[doi>10.1109/TNET.2005.850199]
+J. Wang, D. X. Wei, and S. H. Low, "Modeling and stability of FAST TCP," inIMA Volumes in Mathematics and Its Applications, P. Agrawal, M. Andrews, P. J. Fleming, G. Yin, and L. Zhang, Eds. New York: Springer Science, 2006, vol. 143, Wireless Communications.
+Z. Wang and F. Paganini, "Global stability with time-delay in network congestion control," inProc. IEEE Conf. Decision Control, 2002, pp. 3632-3637.
+D. Wei, "Microscopic behavior of Internet congestion control," Ph.D. dissertation, California Institute of Technology, Pasadena, CA, 2007.
+David X. Wei , Cheng Jin , Steven H. Low , Sanjay Hegde, FAST TCP: motivation, architecture, algorithms, performance, IEEE/ACM Transactions on Networking (TON), v.14 n.6, p.1246-1259, December 2006[doi>10.1109/TNET.2006.886335]
+Haïkel Yaïche , Ravi R. Mazumdar , Catherine Rosenberg, A game theoretic framework for bandwidth allocation and pricing in broadband networks, IEEE/ACM Transactions on Networking (TON), v.8 n.5, p.667-678, Oct. 2000[doi>10.1109/90.879352]
+Lei Ying , Geir E. Dullerud , R. Srikant, Global stability of internet congestion controllers with heterogeneous delays, IEEE/ACM Transactions on Networking (TON), v.14 n.3, p.579-591, June 2006[doi>10.1109/TNET.2006.876164]

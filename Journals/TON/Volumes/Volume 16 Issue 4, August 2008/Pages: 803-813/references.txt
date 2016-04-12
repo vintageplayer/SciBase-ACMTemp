@@ -1,0 +1,39 @@
+Manuel Blum , Silvio Micali, How to generate cryptographically strong sequences of pseudo-random bits, SIAM Journal on Computing, v.13 n.4, p.850-864, Nov. 1984[doi>10.1137/0213053]
+C. Blundo, L. A. F. Mattos, and D. R. Stinson, "Trade-offs between communication and storage in unconditionally secure schemes for broadcast encryption and interactive key distribution," inProc. Adv. Cryptol.--CRYPTO, N. Koblitz, Ed., Aug. 1996, vol. 1109, Lecture Notes in Comput. Sci., pp. 387-400.
+D. Boneh, G. Durfee, and M. Franklin, "Lower bounds for multicast message authentication," inProc. Adv. Cryptol.--Eurocrypt, B. Pfitzmann, Ed., May 2001, vol. 2045, Lecture Notes in Comput. Sci., pp. 437-452.
+Dan Boneh , Craig Gentry , Brent Waters, Collusion resistant broadcast encryption with short ciphertexts and private keys, Proceedings of the 25th annual international conference on Advances in Cryptology, p.258-275, August 14-18, 2005, Santa Barbara, California[doi>10.1007/11535218_16]
+R. Canetti, J. Garay, G. Itkis, D. Micciancio, M. Naor, and B. Pinkas, "Multicast security: A taxonomy and some efficient constructions," inProc. lNFOCOM, New York, Mar. 1999, vol. 2, pp. 708-716, IEEE.
+Ran Canetti , Tal Malkin , Kobbi Nissim, Efficient communication-storage tradeoffs for multicast encryption, Proceedings of the 17th international conference on Theory and application of cryptographic techniques, May 02-06, 1999, Prague, Czech Republic
+I. Chang, R. Engel, D. Kandlur, D. Pen-darakis, and D. Saha, "Key management for secure internet multicast using Boolean function minimization techniques," inProc. INFOCOM, New York, Mar. 1999, vol. 2, pp. 689-698.
+J. H. Cheon, N. S. Jho, M.-H. Kim, and E. S. Yoo, "Skipping, cascade, and combined chain schemes for broadcast encryption," Cryptology ePrint Archive, Rep. 2005/136, 2005.
+Y. Dodis and N. Fazio, "Public-key broadcast encryption for statless receivers," inProc. Digit. Rights Manag., Feb. 2002, vol. 2696, Lecture Notes Comput. Sci., pp. 61-80.
+D. Dolev and A. C. Yao, "On the security of public-key protocols,"IEEE Trans. Inf. Theory, vol. 29, no. 2, pp. 198-208, Mar. 1983.
+L. R. Dondeti , S. Mukherjee , A. Samal, Scalable secure one-to-many group communication using dual encryption, Computer Communications, v.23 n.17, p.1681-1701, November, 2000[doi>10.1016/S0140-3664(00)00255-3]
+J. Fan, P. Judge, and M. H. Ammar, "Hysor: Group key management with collusion-scalability tradeoffs using a hybrid structuring of receivers," inProc. IEEE Int. Conf. Comput. Commun. Netw., 2002, pp. 196-201.
+Amos Fiat , Moni Naor, Broadcast encryption, Proceedings of the 13th annual international cryptology conference on Advances in cryptology, p.480-491, January 1994, Santa Barbara, California, USA
+E. Gafni, J. Staddon, and Y. L. Yin, "Efficient methods for integrating traceability and broadcast encryption," inProc. Adv. Cryptol.--CRYPTO, M. Wiener, Ed., Aug. 1999, vol. 1666, Lecture Notes Comput. Sci., pp. 372-387.
+J. Garay, J. Staddon, and A. Wool, "Long-lived broadcast encryption," inProc. Adv. Cryptol.--CRYPTO, M. Bellare, Ed., Aug. 2000, vol. 1880, Lecture Notes Comput. Sci., pp. 333-352.
+Rosario Gennaro, A Protocol to Achieve Independence in Constant Rounds, IEEE Transactions on Parallel and Distributed Systems, v.11 n.7, p.636-647, July 2000[doi>10.1109/71.877748]
+M. Goodrich, J. Sun, and R. Tamassia, "Efficient tree-based revocation in groups of low-state devices," inProc. Adv. Cryptol.--CRYPTO, M. Franklin, Ed., Aug. 2004, vol. 3152, Lecture Notes Comput. Sci., pp. 511-527.
+Dani Halevy , Adi Shamir, The LSD Broadcast Encryption Scheme, Proceedings of the 22nd Annual International Cryptology Conference on Advances in Cryptology, p.47-60, August 18-22, 2002
+H. Harney , C. Muckenhirn, Group Key Management Protocol (GKMP) Architecture, RFC Editor, 1997
+H. Harney , C. Muckenhirn, Group Key Management Protocol (GKMP) Specification, RFC Editor, 1997
+M. Luby and J. Staddon, "Combinatorial bounds for broadcast encryption," inProc. Adv. Cryptol.--Eurocrypt, K. Nyberg, Ed., May 1998, vol. 1403, Lecture Notes Comput. Sci., pp. 512-526.
+Alan T. Sherman , David A. McGrew, Key Establishment in Large Dynamic Groups Using One-Way Function Trees, IEEE Transactions on Software Engineering, v.29 n.5, p.444-458, May 2003[doi>10.1109/TSE.2003.1199073]
+D. Micciancio and S. Panjwani, "Optimal communication complexity of generic multicast key distribution," inProc. Adv. Cryptol.--Eurocrypt, C. Cachin and J. Camenisch, Eds., May 2-6, 2004, vol. 3027, Lecture Notes Comput. Sci., pp. 153-170.
+Daniele Micciancio , Saurabh Panjwani, Corrupting one vs. corrupting many: the case of broadcast and multicast encryption, Proceedings of the 33rd international conference on Automata, Languages and Programming, July 10-14, 2006, Venice, Italy[doi>10.1007/11787006_7]
+Suvo Mittra, Iolus: a framework for scalable secure multicasting, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.277-288, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263179]
+D. Naor, M. Naor, and J. Lotspiech, "Revocation and tracing schemes for stateless receivers," inProc. Adv. Cryptol.--CRYPTO, J. Kilian, Ed., Aug. 2001, vol. 2139, Lecture Notes Comput. Sci., pp. 41-62.
+Moni Naor , Benny Pinkas, Efficient Trace and Revoke Schemes, Proceedings of the 4th International Conference on Financial Cryptography, p.1-20, February 20-24, 2000
+A. Perrig, R. Canetti, D. Song, and D. Tygar, "Efficient and secure source authentication for multicast," inProc. Netw. Distrib. Syst. Security Symp., Feb. 2001, pp. 35-36.
+Adrian Perrig , Dawn Song , J. D. Tygar, ELK, a New Protocol for Efficient Large-Group Key Distribution, Proceedings of the 2001 IEEE Symposium on Security and Privacy, p.247, May 14-16, 2001
+Rei Safavi-Naini , Huaxiong Wang, New constructions for multicast re-keying schemes using perfect hash families, Proceedings of the 7th ACM conference on Computer and communications security, p.228-234, November 01-04, 2000, Athens, Greece[doi>10.1145/352600.352637]
+Adi Shamir, How to share a secret, Communications of the ACM, v.22 n.11, p.612-613, Nov. 1979[doi>10.1145/359168.359176]
+Jack Snoeyink , Subhash Suri , George Varghese, A lower bound for multicast key distribution, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.47 n.3, p.429-441, February, 2005[doi>10.1016/j.comnet.2004.09.001]
+Jessica Staddon , Sara Miner , Matt Franklin , Dirk Balfanz , Michael Malkin , Drew Dean, Self-Healing Key Distribution with Revocation, Proceedings of the 2002 IEEE Symposium on Security and Privacy, p.241, May 12-15, 2002
+Roberto Tamassia , Nikos Triandopoulos, Computational bounds on hierarchical data processing with applications to information security, Proceedings of the 32nd international conference on Automata, Languages and Programming, July 11-15, 2005, Lisbon, Portugal[doi>10.1007/11523468_13]
+D. Wallner , E. Harder , R. Agee, Key Management for Multicast: Issues and Architectures, RFC Editor, 1999
+Chung Kei Wong , Mohamed Gouda , Simon S. Lam, Secure group communications using key graphs, IEEE/ACM Transactions on Networking (TON), v.8 n.1, p.16-30, Feb. 2000[doi>10.1109/90.836475]
+Yang Richard Yang , X. Steve Li , X. Brian Zhang , Simon S. Lam, Reliable group rekeying: a performance analysis, Proceedings of the 2001 conference on Applications, technologies, architectures, and protocols for computer communications, p.27-38, August 2001, San Diego, California, USA[doi>10.1145/383059.383062]
+Y. R Yang , Simon S. Lam, A Secure Group Key Management Communication Lower Bound, University of Texas at Austin, Austin, TX, 2000
+Andrew C. Yao, Theory and application of trapdoor functions, Proceedings of the 23rd Annual Symposium on Foundations of Computer Science, p.80-91, November 03-05, 1982[doi>10.1109/SFCS.1982.95]

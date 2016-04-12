@@ -1,0 +1,26 @@
+Abhay K. Parekh , Robert G. Gallager, A generalized processor sharing approach to flow control in integrated services networks: the single-node case, IEEE/ACM Transactions on Networking (TON), v.1 n.3, p.344-357, June 1993[doi>10.1109/90.234856]
+M. Karol, M. Hluchyj, and S. Morgan, "Input versus output queueing on a space-division switch,"IEEE Trans. Commun., vol. COM-35, no. 12, pp. 1347-1356, Dec. 1987.
+Shang-Tse Chuang , A. Goel , N. McKeown , B. Prabhakar, Matching output queueing with a combined input/output-queued switch, IEEE Journal on Selected Areas in Communications, v.17 n.6, p.1030-1039, September 2006[doi>10.1109/49.772430]
+P. Krishna , N. S. Patel , A. Charny , R. J. Simcoe, On the speedup required for work-conserving crossbar switches, IEEE Journal on Selected Areas in Communications, v.17 n.6, p.1057-1066, September 2006[doi>10.1109/49.772435]
+R. B. Magill , C. E. Rohrs , R. L. Stevenson, Output-queued switch emulation by fabrics with limited memory, IEEE Journal on Selected Areas in Communications, v.21 n.4, p.606-615, September 2006[doi>10.1109/JSAC.2003.810532]
+Paolo Giaccone , Emilio Leonardi , Balaji Prabhakar , Devavrat Shah, Delay bounds for combined input-output switches with low speedup, Performance Evaluation, v.55 n.1-2, p.113-128, January 2004[doi>10.1016/S0166-5316(03)00103-2]
+C. Minkenberg, "Work-conservingness of CIOQ packet switches with limited output buffers,"IEEE Commun. Lett., vol. 6, pp. 452-454, Oct. 2002.
+Cisco 12000 Series-Internet Routers. 2004 {Online}. Available: http:// www.cisco.com
+Craig Partridge , Philip P. Carvey , Ed Burgess , Isidro Castineyra , Tom Clarke , Lise Graham , Michael Hathaway , Phil Herman , Allen King , Steve Kohalmi , Tracy Ma , John Mcallen , Trevor Mendez , Walter C. Milliken , Ronald Pettyjohn , John Rokosz , Joshua Seeger , Michael Sollins , Steve Storch , Benjamin Tober , Gregory D. Troxel, A 50-Gb/s IP router, IEEE/ACM Transactions on Networking (TON), v.6 n.3, p.237-248, June 1998[doi>10.1109/90.700888]
+Lucent Technologies, Inc., Holmdel, NJ, 2004 {Online}. Available: http://www.lucent.com
+Avici Systems, Inc., Billercia, MA, 2004 {Online}. Available: http:// www.avici.com
+Nick McKeown, The iSLIP scheduling algorithm for input-queued switches, IEEE/ACM Transactions on Networking (TON), v.7 n.2, p.188-201, April 1999[doi>10.1109/90.769767]
+N. McKeown, A. Mekkittikul, V. Anantharam, and J. Walrand, "Achieving 100% throughput in an input-queued switch,"IEEE Trans. Commun., vol. 47, no. 8, pp. 1260-1267, Aug. 1999.
+Vahid Tabatabaee , Leonidas Georgiadis , Leandros Tassiulas, QoS provisioning and tracking fluid policies in input queueing switches, IEEE/ACM Transactions on Networking (TON), v.9 n.5, p.605-617, October 2001[doi>10.1109/90.958329]
+M. Rosenblum, M. X. Goemans, and V. Tarokh, "Universal bounds on buffer size for packetizing fluid policies in input queued, crossbar switches," inProc. IEEE INFOCOM, Mar. 2004, pp. 1126-1134.
+Ted H. Szymanski, Design Principles for Practical Self-Routing Nonblocking Switching Networks with O(N · log N) Bit-Complexity, IEEE Transactions on Computers, v.46 n.10, p.1057-1069, October 1997[doi>10.1109/12.628391]
+Ravindra K. Ahuja , Thomas L. Magnanti , James B. Orlin, Network flows: theory, algorithms, and applications, Prentice-Hall, Inc., Upper Saddle River, NJ, 1993
+I. Keslassy and N. McKeown, "Analysis of scheduling algorithms that provide 100% throughput in input-queued switches," presented at the 39th Annu. Allerton Conf. Commun., Control, Comput., Oct. 2001.
+J. G. Dai and B. Prabhakar, "The throughput of data switches with and without speedup," inProc. IEEE INFOCOM, Tel Aviv, Israel, Mar. 2000, pp. 556-564.
+E. Leonardi, M. Mellia, F. Neri, and M. A. Marsan, "Bounds on average delays and queue size averages and variances in input-queued cell-based switches," inProc. IEEE INFOCOM, Alaska, Apr. 2001, pp. 1095-1103.
+Emilio Leonardi , Marco Mellia , Fabio Neri , Marco Ajmone Marsan, Bounds on delays and queue lengths in input-queued cell switches, Journal of the ACM (JACM), v.50 n.4, p.520-550, July 2003[doi>10.1145/792538.792544]
+A. Mekkittikul and N. McKeown, "A practical scheduling algorithm to achieve 100% throughput in input-queued switches," inPrco. IEEE INFOCOM, 1998, pp. 792-799.
+Adisak Mekkittikul , Nicholas W. Mckeown, Scheduling nonuniform traffic in high speed packet switches and routers, Stanford University, Stanford, CA, 1999
+Matthew Andrews , Lisa Zhang, Achieving stability in networks of input-queued switches, IEEE/ACM Transactions on Networking (TON), v.11 n.5, p.848-857, October 2003[doi>10.1109/TNET.2003.818186]
+Thomas E. Anderson , Susan S. Owicki , James B. Saxe , Charles P. Thacker, High-speed switch scheduling for local-area networks, ACM Transactions on Computer Systems (TOCS), v.11 n.4, p.319-352, Nov. 1993[doi>10.1145/161541.161736]
+P. R. Kumar and S. P. Meyn, "Stability of queueing networks and scheduling policies,"IEEE Trans. Autom. Control, vol. 40, no. 2, pp. 251-260, Feb. 1995.

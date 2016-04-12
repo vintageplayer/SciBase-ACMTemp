@@ -1,0 +1,35 @@
+{1} R. Braden, D. Clark, and S. Shenker, "Integrated Services in the Internet Architecture: An Overview," IETF, RFC 1633, June 1994.
+{2} H. Zhang, "Service disciplines for guaranteed performance service in packet-switching networks," Proc. IEEE, vol. 83, no. 10, pp. 1374-1396, Oct. 1995.
+S. Blake , D. Black , M. Carlson , E. Davies , Z. Wang , W. Weiss, An Architecture for Differentiated Service, RFC Editor, 1998
+B. Davie , A. Charny , J. C. R. Bennet , K. Benson , J. Y. Le Boudec , W. Courtney , S. Davari , V. Firoiu , D. Stiliadis, An Expedited Forwarding PHB (Per-Hop Behavior), RFC Editor, 2002
+{5} A. Charny and J.-Y. Le Boudec, "Delay bounds in a network with aggregate scheduling," in Proc. QofIS, Oct. 2000, pp. 1-13.
+F. Baker , C. Iturralde , F. Le Faucheur , B. Davie, Aggregation of RSVP for IPv4 and IPv6 Reservations, RFC Editor, 2001
+{7} J. Ehrensberger, "Resource demand of aggregated resource reservations," in Proc. ECUMN, Oct. 2000, pp. 56-61.
+{8} O. Schelén and S. Pink, "Aggregating resource reservation over multiple routing domains," in Proc. IEEE IWQoS, May 1998, pp. 29-32.
+{9} A. Terzis, L. Zhang, and E. L. Hahne, "Reservations for aggregate traffic: Experiences from an RSVP tunnels implementation," in Proc. IEEE IWQoS, May 1998, pp. 23-25.
+Byung-Kyu Choi, Scalable QoS Guaranteed Communication Services for Real-Time Applications, Proceedings of the The 20th International Conference on Distributed Computing Systems ( ICDCS 2000), p.180, April 10-13, 2000
+Huirong Fu , Edward W. Knightly, Aggregation and Scalable QoS: A Performance Study, Proceedings of the 9th International Workshop on Quality of Service, p.307-324, June 06-08, 2001
+{12} S. Berson and S. Vincent, "Aggregation of internet integrated services state," in Proc. IEEE IWQoS, May 1998, pp. 26-28.
+Hui Zhang , Srinivasan Keshav, Comparison of rate-based service disciplines, Proceedings of the conference on Communications architecture & protocols, p.113-121, September 03-06, 1991, Zurich, Switzerland[doi>10.1145/115992.116004]
+T. Li , Y. Rekhter, A Provider Architecture for Differentiated Services and Traffic Engineering (PASTE), RFC Editor, 1998
+Preserving Quality of Service Guarantees in Spite of Flow Aggregation, Proceedings of the Sixth International Conference on Network Protocols, p.90, October 13-16, 1998
+Jorge Arturo Cobb, Preserving quality of service guarantees in spite of flow aggregation, IEEE/ACM Transactions on Networking (TON), v.10 n.1, p.43-53, February 2002[doi>10.1109/90.986522]
+Pawan Goyal , Simon S. Lam , Harrick M. Vin, Determining End-to-End Delay Bounds in Heterogeneous Networks, Proceedings of the 5th International Workshop on Network and Operating System Support for Digital Audio and Video, p.273-284, April 19-21, 1995
+Dimitrios Stiliadis , Anujan Varma, Latency-rate servers: a general model for analysis of traffic scheduling algorithms, IEEE/ACM Transactions on Networking (TON), v.6 n.5, p.611-624, Oct. 1998[doi>10.1109/90.731196]
+Abhay K. Parekh , Robert G. Gallager, A generalized processor sharing approach to flow control in integrated services networks: the single-node case, IEEE/ACM Transactions on Networking (TON), v.1 n.3, p.344-357, June 1993[doi>10.1109/90.234856]
+Lixia Zhang, VirtualClock: a new traffic control algorithm for packet-switched networks, ACM Transactions on Computer Systems (TOCS), v.9 n.2, p.101-124, May 1991[doi>10.1145/103720.103721]
+{21} W. Sun and K. G. Shin, "End-to-End Delay Bounds for Traffic Aggregates Under Guaranteed Rate Scheduling Algorithms," Dept. Elect. Eng. Comput. Sci., Univ. of Michigan, Ann Arbor, Tech. Rep. CSE-TR- 484-03, 2003.
+{22} S. Vutukury and J. Garcia-Luna-Aceves, "A scalable architecture for providing deterministic guarantees," in Proc. IEEE IC3N, Oct. 1999, pp. 534-539.
+Jon C. R. Bennett , Hui Zhang, Hierarchical packet fair queueing algorithms, Conference proceedings on Applications, technologies, architectures, and protocols for computer communications, p.143-156, August 28-30, 1996, Palo Alto, California, USA[doi>10.1145/248156.248170]
+Jon C. R. Bennett , Hui Zhang, WF2Q: worst-case fair weighted fair queueing, Proceedings of the Fifteenth annual joint conference of the IEEE computer and communications societies conference on The conference on computer communications, March 24-28, 1996, San Francisco, California
+J. -Y. Le Boudec, Application of network calculus to guaranteed service networks, IEEE Transactions on Information Theory, v.44 n.3, p.1087-1096, May 1998[doi>10.1109/18.669170]
+{26} H. Zhang and D. Ferrari, "Rate-controlled service disciplines," J. High Speed Networks, vol. 3, no. 4, pp. 389-412, 1994.
+S. Keshav, An engineering approach to computer networking: ATM networks, the Internet, and the telephone network, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1997
+{28} K. Dolzer, W. Payer, and M. Eberspächer, "A simulation study on traffic aggregation in multi-service networks," in Proc. IEEE Conf. High Performance Switching and Routing, Jun. 2000, pp. 157-165.
+{29} ns2 Simulator {Online}. Available: http://www.isi.edu/nsnam/ns/
+{30} A. Popescu, "Traffic Self-Similarity," Blekinge Institute of Technology, Karlskrona, Sweden, white paper, 1999.
+{31} R. Jain, The Art of Computer Systems Performance Analysis. New York: Wiley, 1991.
+F. H.P. Fitzek , M. Reisslein, MPEG-4 and H.263 video traces for network performance evaluation, IEEE Network: The Magazine of Global Internetworking, v.15 n.6, p.40-54, November 2001[doi>10.1109/65.967596]
+Jennifer L. Rexford , Albert G. Greenberg , Flavio G. Bonomi, Hardware-efficient fair queueing architectures for high-speed networks, Proceedings of the Fifteenth annual joint conference of the IEEE computer and communications societies conference on The conference on computer communications, March 24-28, 1996, San Francisco, California
+J. C. R. Bennett , D. C. Stephens , Hui Zhang, High speed, scalable, and accurate implementation of packet fair queueing algorithms in ATM networks, Proceedings of the 1997 International Conference on Network Protocols (ICNP '97), p.7, October 28-31, 1997
+{35} J. Schmitt et al., "Aggregation of guaranteed service flows," in Proc. IEEE IWQoS, Jun. 1999, pp. 147-155.

@@ -1,0 +1,31 @@
+R. Madanagopal, N. U. Rani, and T. A. Gonsalves, "Path computation algorithms for dynamic service provisioning in SDH networks," inProc. 10th IFIP/IEEE IM, May 2007, pp. 206-215.
+W. Fawaz , B. Daheb , O. Audouin , M. Du-Pond , G. Pujolle, Service level agreement and provisioning in optical networks, IEEE Communications Magazine, v.42 n.1, p.36-43, January 2004[doi>10.1109/MCOM.2004.1262160]
+"Network node interface for the synchronous digital hierarchy (SDH)," ITU-T, Recommendation G.707/Y.1322, 2000.
+"Physical/electrical characteristics of hierarchical digital interfaces," ITU-T, Recommendation G.703, 2001.
+"Types and characteristics of SDH network protection architectures," ITU-T, Recommendation G.841, 1998.
+Asuman E. Ozdaglar , Dimitri P. Bertsekas, Routing and wavelength assignment in optical networks, IEEE/ACM Transactions on Networking (TON), v.11 n.2, p.259-272, April 2003[doi>10.1109/TNET.2003.810321]
+Hui Zang , Canhui Ou , Biswanath Mukherjee, Path-protection routing and wavelength assignment (RWA) in WDM mesh networks under duct-layer constraints, IEEE/ACM Transactions on Networking (TON), v.11 n.2, p.248-258, April 2003[doi>10.1109/TNET.2003.810313]
+X. Chu, B. Li, and Z. Zhang, "A dynamic RWA algorithm in a wavelength-routed all-optical network with wavelength converters," inProc. IEEE INFOCOM, Apr. 2003, pp. 1795-1804.
+Murat Alanyali , Ender Ayanoglu, Provisioning algorithms for WDM optical networks, IEEE/ACM Transactions on Networking (TON), v.7 n.5, p.767-778, Oct. 1999[doi>10.1109/90.803389]
+Sethuraman Janardhanan , Ambuj Mahanti , Debashis Saha , Samir K. Sadhukhan, A Routing and Wavelength Assignment (RWA) Technique to Minimize the Number of SONET ADMs in WDM Rings, Proceedings of the 39th Annual Hawaii International Conference on System Sciences, p.32.3, January 04-07, 2006[doi>10.1109/HICSS.2006.28]
+G. Shen and W. D. Grover, "Performance of protected working capacity envelopes based on p-cycles: Fast, simple, and scalable dynamic service provisioning of survivable services,"Proc. SPIE, vol. 5626, pp. 519-533, Feb. 2005.
+M. Kodialam and T. V. Lakshman, "Dynamic routing of bandwidth guaranteed tunnels with restoration," inProc. IEEE INFOCOM, Mar. 2000, pp. 902-911.
+J. Q. Hu, "Diverse routing in optical mesh networks,"IEEE Trans. Commun., vol. 51, no. 3, pp. 489-494, Mar. 2003.
+A. Todimala and B. Ramamurthy, "IMSH: An iterative heuristic for SRLG diverse routing in WDM mesh networks," inProc. 13th ICCCN, Oct. 2004, pp. 199-204.
+A. Todimala and B. Ramamurthy, "A heuristic with bounded guaranteed to compute diverse paths under shared protection in WDM mesh networks," inProc. IEEE GLOBECOM, Nov. 2005, pp. 1915-1919.
+P.-H. Ho, J. Tapolcai, and H. T. Mouftah, "Diverse routing for shared protection in survivable optical networks," inProc. IEEE GLOBECOM, Dec. 2003, pp. 2519-2523.
+D. Xu, Y. Xiong, and C. Qiao, "A new PROMISE algorithm in networks with shared risk link groups," inProc. IEEE GLOBECOM, Dec. 2003, pp. 2536-2540.
+Lu Shen , Xi Yang , Byrav Ramamurthy, Shared risk link group (SRLG)-diverse path provisioning under hybrid service level agreements in wavelength-routed optical mesh networks, IEEE/ACM Transactions on Networking (TON), v.13 n.4, p.918-931, August 2005[doi>10.1109/TNET.2005.852879]
+N. Ansari, G. Cheng, S. Israel, Y. Luo, J. Ma, and L. Zhu, "QoS provision with path protection for next generation SONET," inProc. IEEE ICC, Apr. 2002, pp. 2152-2156.
+A. Todimala, B. Ramamurthy, and N. V. Vinodchandran, "On computing disjoint paths with dependent cost structure in optical networks," inProc. 2nd BROADNETS, Oct. 2005, pp. 155-164.
+Canhui Ou , Keyao Zhu , Hui Zang , L. H. Sahasrabuddhe , B. Mukherjee, Traffic grooming for survivable WDM networks - shared protection, IEEE Journal on Selected Areas in Communications, v.21 n.9, p.1367-1383, September 2006[doi>10.1109/JSAC.2003.818233]
+S. Balasubramanian and A. K. Somani, "Dynamic survivable network design for path level traffic grooming in WDM optical networks," inProc. IEEE GLOBECOM, Nov. 2007, pp. 2359-2363.
+Canhui Ou , Laxman H. Sahasrabuddhe , Keyao Zhu , Charles U. Martel , Biswanath Mukherjee, Survivable virtual concatenation for data over SONET/SDH in optical transport networks, IEEE/ACM Transactions on Networking (TON), v.14 n.1, p.218-231, February 2006[doi>10.1109/TNET.2005.863462]
+J. W. Suurballe and R. E. Tarjan, "A quick method for finding shortest pairs of disjoint paths,"Networks, vol. 14, no. 2, pp. 325-336, 1984.
+Y. Guo, F. Kuipers, and P. V. Mieghem, "Link-disjoint paths for reliable QoS routing,"Int. J. Commun. Syst., vol. 16, no. 9, pp. 779-798, Nov. 2003.
+R. Bhandari, "Optimal diverse routing in telecommunication fiber networks," inProc. IEEE INFOCOM, Jun. 1994, pp. 1498-1508.
+S. Z. Shaikh, Span-disjoint paths for physical diversity in networks, Proceedings of the IEEE Symposium on Computers and Communications (ISCC'95), p.127, June 27-29, 1995
+J. Y. Yen, "Finding the K shortest loopless paths in a network,"Manag. Sci., vol. 17, no. 11, pp. 712-716, Jul. 1971.
+E. Q. V. Martins and M. M. B. Pascoal, "A new implementation of Yen's ranking loopless paths algorithm,"4OR, Quarter. J. Oper. Res., vol. 1, no. 2, pp. 121-133, Jun. 2003.
+"70 node network diagram (Network 1)," {Online}. Available: http://www.lantana.tenet.res.in/website_files/projects/NMS/nwdia- gram1.jpg
+"VSNL network diagram (Network 3)," {Online}. Available: http://www.lantana.tenet.res.in/website_files/projects/NMS/nwdi- agram3.jpg

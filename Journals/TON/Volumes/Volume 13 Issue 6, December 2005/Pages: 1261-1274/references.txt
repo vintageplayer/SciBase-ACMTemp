@@ -1,0 +1,37 @@
+V. Jacobson, Congestion avoidance and control, Symposium proceedings on Communications architectures and protocols, p.314-329, August 16-18, 1988, Stanford, California, USA[doi>10.1145/52324.52356]
+{2} F. P. Kelly, "Charging and rate control for elastic traffic," Eur. Trans. Telecommunications, vol. 8, pp. 33-37, Jan. 1997.
+{3} F. Kelly, A. Maulloo, and D. Tan, "Rate control in communication networks: Shadow prices, proportional fairness and stability," J. Oper. Res. Soc., vol. 49, pp. 237-252, 1998.
+Rayadurgam Srikant, The Mathematics of Internet Congestion Control (Systems and Control: Foundations and Applications), SpringerVerlag, 2004
+Jeonghoon Mo , Jean Walrand, Fair end-to-end window-based congestion control, IEEE/ACM Transactions on Networking (TON), v.8 n.5, p.556-567, Oct. 2000[doi>10.1109/90.879343]
+{6} R. J. La and V. Anantharam, "Charge-sensitive TCP and rate control in the Internet," in Proc. IEEE INFOCOM, 2000, pp. 1166-1175.
+Steven H. Low , David E. Lapsley, Optimization flow control—I: basic algorithm and convergence, IEEE/ACM Transactions on Networking (TON), v.7 n.6, p.861-874, Dec. 1999[doi>10.1109/90.811451]
+{8} S. Deb and R. Srikant, "Global stability of congestion controllers for the Internet," IEEE Trans. Automat. Contr., vol. 48, no. 6, pp. 1055-1060, Jun. 2003.
+{9} S. Kunniyur and R. Srikant, "A time-scale decomposition approach to adaptive explicit congestion notification (ECN) marking," IEEE Trans. Automat. Contr., vol. 47, no. 6, pp. 882-894, Jun. 2002.
+{10} G. Vinnicombe, "On the stability of networks operating TCP-like congestion control," in Proc. 15th IFAC World Congr. Automatic Control, Barcelona, Spain, Jul. 2002.
+{11} L. Massoulie, "Stability of distributed congestion control with heterogeneous feedback delays," IEEE Trans. Automat. Contr., vol. 47, no. 6, pp. 895-902, Jun. 2002.
+Ramesh Johari , David Kim Hong Tan, End-to-end congestion control for the internet: delays and stability, IEEE/ACM Transactions on Networking (TON), v.9 n.6, p.818-832, December 2001[doi>10.1109/90.974534]
+{13} A. Elwalid, "Analysis of adaptive rate-based congestion control for high-speed wide-area networks," in Proc. IEEE Int. Conf. Communications (ICC), vol. 3, Seattle, WA, Jun. 1995, pp. 1948-1953.
+{14} S. Liu, T. Basar, and R. Srikant, "Controlling the Internet: A survey and some new results," in Proc. 42nd IEEE Conf. Decision and Control , Maui, HI, Dec. 2003, pp. 3048-3057.
+{15} J. Wen and M. Arcak, "A unifying passivity framework for network flow control," in Proc. IEEE INFOCOM, San Francisco, CA, Apr. 2003, pp. 1156-1166.
+Sally Floyd , Kevin Fall, Promoting the use of end-to-end congestion control in the Internet, IEEE/ACM Transactions on Networking (TON), v.7 n.4, p.458-472, Aug. 1999[doi>10.1109/90.793002]
+{17} T. Basar and G. J. Olsder, Dynamic Noncooperative Game Theory, 2nd ed. Philadelphia, PA: SIAM, 1999.
+Haïkel Yaïche , Ravi R. Mazumdar , Catherine Rosenberg, A game theoretic framework for bandwidth allocation and pricing in broadband networks, IEEE/ACM Transactions on Networking (TON), v.8 n.5, p.667-678, Oct. 2000[doi>10.1109/90.879352]
+{19} E. Altman, T. Basar, T. Jimenez, and N. Shimkin, "Competitive routing in networks with polynomial costs," IEEE Trans. Automat. Contr., vol. 47, no. 1, pp. 92-96, Jan. 2002.
+{20} E. Altman and T. Basar, "Multi-user rate-based flow control," IEEE Trans. Commun., vol. 46, no. 7, pp. 940-949, Jul. 1998.
+Ariel Orda , Raphael Rom , Nahum Shimkin, Competitive routing in multiuser communication networks, IEEE/ACM Transactions on Networking (TON), v.1 n.5, p.510-521, Oct. 1993[doi>10.1109/90.251910]
+{22} T. Alpcan and T. Basar, "A variable rate model with QoS guarantees for real-time Internet traffic," in Proc. SPIE Int. Symp. Information Technologies, Internet Performance and Control of Networked Systems, vol. 2411, Boston, MA, Nov. 2000.
+{23} T. Alpcan and T. Basar, "A game-theoretic framework for congestion control in general topology networks," in Proc. 41st IEEE Conf. Decision and Control, Las Vegas, NV, Dec. 2002, pp. 1218-1224.
+{24} T. Alpcan and T. Basar, "Global stability analysis of an end-to-end congestion control scheme for general topology networks with delay," in Proc. 42nd IEEE Conf. Decision and Control, Maui, HI, Dec. 2003, pp. 1092-1097.
+{25} T. Alpcan and T. Basar, "A utility-based congestion control scheme for Internet-style networks with delay," in Proc. IEEE INFOCOM, San Francisco, CA, Apr. 2003, pp. 2039-2048.
+L. S. Brakmo , L. L. Peterson, TCP Vegas: end to end congestion avoidance on a global Internet, IEEE Journal on Selected Areas in Communications, v.13 n.8, p.1465-1480, September 2006[doi>10.1109/49.464716]
+{27} J. Mo, R. J. La, V. Anantharam, and J. C. Walrand, "Analysis and comparison of TCP Reno and Vegas," in Proc. IEEE INFOCOM, 1999, pp. 1556-1563.
+J. Widmer , R. Denda , M. Mauve, A survey on TCP-friendly congestion control, IEEE Network: The Magazine of Global Internetworking, v.15 n.3, p.28-37, May 2001[doi>10.1109/65.923938]
+Richard J. La , Venkat Anantharam, Utility-based rate control in the Internet for elastic traffic, IEEE/ACM Transactions on Networking (TON), v.10 n.2, April 2002
+{30} T. Basar and R. Srikant, "Revenue-maximizing pricing and capacity expansion in a many-users regime," in Proc. IEEE INFOCOM, New York, Jun. 2002, pp. 294-301.
+{31} H. K. Khalil, Nonlinear Systems, 2nd ed. Upper Saddle River, NJ: Prentice Hall, 1996.
+{32} J. K. Hale and S. M. V. Lunel, Introduction to Functional Differential Equations, ser. Applied Mathematical Sciences. New York: Springer Verlag, 1993, vol. 99.
+{33} T. A. Burton, Stability and Periodic Solutions of Ordinary and Functional Differential Equations, ser. Mathematics in Science and Engineering. Orlando, FL: Academic Press, 1985, vol. 178.
+{34} D. Liberzon, Switching in Systems and Control. Boston, MA: Birkhauser, 2003.
+{35} Network Simulator ns (Version 2). UCB, LBNL, and VINT. {Online}. Available: http://www.isi.edu/nsnam/ns/
+Andrew S. Tanenbaum, Computer networks (3rd ed.), Prentice-Hall, Inc., Upper Saddle River, NJ, 1996
+Sally Floyd , Mark Handley , Jitendra Padhye , Jörg Widmer, Equation-based congestion control for unicast applications, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.43-56, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347397]

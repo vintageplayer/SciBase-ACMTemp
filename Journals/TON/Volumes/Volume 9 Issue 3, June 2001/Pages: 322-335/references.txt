@@ -1,0 +1,26 @@
+ATM Forum Traffic Management Specification, Version 4.0 (1996, Apr.). {Online}. Available: ftp://ftp.atmforum.com/pub/approved-specs/ af-tm-0056.00.ps
+F. Bonomi , K. W. Fendick, The rate-based flow control framework for the available bit rate ATM service, IEEE Network: The Magazine of Global Internetworking, v.9 n.2, p.25-39, March 1995[doi>10.1109/65.372653]
+E. Hernandez-Valencia, L. Benmohamed, R. Nagarajan, and S. Chong, "Rate-control algorithms for the ATM ABR service," Eur. Trans. Telecommun., vol. 8, no. 1, pp. 7-20, 1997.
+Lotfi Benmohamed , Semyon M. Meerkov, Feedback control of congestion in packet switching networks: the case of a single congested node, IEEE/ACM Transactions on Networking (TON), v.1 n.6, p.693-708, Dec. 1993[doi>10.1109/90.266057]
+---, "Feedback control of congestion in packet-switching networks: The case of multiple congested nodes," Int. J. Commun. Syst., vol. 10, no. 5, pp. 227-246, 1997.
+Aleksandar Kolarov , G. Ramamurthy, A control-theoretic approach to the design of an explicit rate controller for ABR service, IEEE/ACM Transactions on Networking (TON), v.7 n.5, p.741-753, Oct. 1999[doi>10.1109/90.803387]
+Ching-Fong Su , Gustavo de Veciana , Jean Walrand, Explicit rate flow control for ABR services in ATM networks, IEEE/ACM Transactions on Networking (TON), v.8 n.3, p.350-361, June 2000[doi>10.1109/90.851981]
+M. K. Wong and E Bonomi, "A novel explicit rate congestion control algorithm," in Proc. IEEE GLOBECOM, vol. 4, 1998, pp. 2432-2439.
+Y. Choi, S. Kang, and S. Chong, An efficient ABR service engine for ATM switch, 2000. preprint.
+Dimitri Bertsekas , Robert Gallager, Data networks, Prentice-Hall, Inc., Upper Saddle River, NJ, 1987
+S. E Abraham and A. Kumar, "MAX-MIN fair rate control of ABR connections with nonzero MCRs," in Proc. IEEE GLOBECOM, 1997, pp. 498-502.
+--, "A Stochastic approximation approach for MAX-MIN fair adaptive rate control of ABR sessions with MCRs," in Proc. IEEE 1NFOCOM, 1998, pp. 1358-1365.
+L. Kalampoukas, A. Varma, and K. K. Ramakrishnan, "An efficient rate allocation algorithm for ATM networks providing MAX-MIN fairness," Computer Engineering Dept., Univ. of California, Santa Cruz, CA, Tech. Rep. UCSC-CRL-95-29, June 1995.
+Anna Charny , K. K. Ramakrishnan , Anthony Lauck, Time scale analysis scalability issues for explicit rate allocation in ATM networks, IEEE/ACM Transactions on Networking (TON), v.4 n.4, p.569-581, Aug. 1996[doi>10.1109/90.532866]
+Shivkumar Kalyanaraman , Raj Jain , Sonia Fahmy , Rohit Goyal , Bobby Vandalore, The ERICA switch algorithm for ABR traffic management in ATM networks, IEEE/ACM Transactions on Networking (TON), v.8 n.1, p.87-98, Feb. 2000[doi>10.1109/90.836480]
+Nasir Ghani , Jon W. Mark, Enhanced distributed explicit rate allocation for ABR services in ATM networks, IEEE/ACM Transactions on Networking (TON), v.8 n.1, p.71-86, Feb. 2000[doi>10.1109/90.836479]
+Cathy Fulton , San-qi Li , Chang Soo Lim, An ABR Feedback Control Scheme with Tracking, Proceedings of the INFOCOM '97. Sixteenth Annual Joint Conference of the IEEE Computer and Communications Societies. Driving the Information Revolution, p.805, April 09-11, 1997
+F. Bonomi , D. Mitra , J. B. Seery, Adaptive algorithms for feedback-based flow control in high-speed, wide-area ATM networks, IEEE Journal on Selected Areas in Communications, v.13 n.7, p.1267-1283, September 2006[doi>10.1109/49.414645]
+K. K. Ramakrishnan , Raj Jain, A binary feedback scheme for congestion avoidance in computer networks with a connectionless network layer, Symposium proceedings on Communications architectures and protocols, p.303-313, August 16-18, 1988, Stanford, California, USA[doi>10.1145/52324.52355]
+R. Bellman and K. L. Cooke, Differential-Difference Equations. New York: Academic, 1963.
+G. Strpin, Retarded Dynamical Systems: Stability and Characteristic Functions. White Plains, NY: Longman, 1989.
+S.J. Bhatt and C. S. Hsu, "Stability criteria for second-order dynamical systems with time lag," J. Appl. Mech., pp. 113-118, 1966.
+E Brauer, "Decay rates for solutions of a class of differential-difference equations," SIAMJ. Math. Anal., vol. 10, no. 4, pp. 783-788, 1979.
+Karl J. Astrom , Bjorn Wittenmark, Computer Controlled Systems: Theory and Design, Prentice Hall Professional Technical Reference, 1984
+The N1ST ATM Network Simulator, NIST, 1995.
+(2001). {Online}. Available: http:/lwww-info3.informatik.uniwuerzburg.de/rose

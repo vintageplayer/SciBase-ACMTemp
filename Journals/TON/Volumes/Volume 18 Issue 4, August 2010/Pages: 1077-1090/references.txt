@@ -1,0 +1,37 @@
+D. Pao, N. H. Liu, A. Wu, K. L. Yeung, and K. S. Chan, "Efficient hardware architecture for fast IP address lookup,"IEE Proc. Comput. Digital Tech., vol. 150, no. 1, pp. 43-52, Jan. 2003.
+Y. Tamir , G. L. Frazier, High-performance multi-queue buffers for VLSI communications switches, Proceedings of the 15th Annual International Symposium on Computer architecture, p.343-354, May 30-June 02, 1988, Honolulu, Hawaii, USA
+Nick McKeown , Venkat Anantharam , Jean Walrand, Achieving 100% throughput in an input-queued switch, Proceedings of the Fifteenth annual joint conference of the IEEE computer and communications societies conference on The conference on computer communications, March 24-28, 1996, San Francisco, California
+Thomas E. Anderson , Susan S. Owicki , James B. Saxe , Charles P. Thacker, High-speed switch scheduling for local-area networks, ACM Transactions on Computer Systems (TOCS), v.11 n.4, p.319-352, Nov. 1993[doi>10.1145/161541.161736]
+Nicholas William McKeown, Scheduling algorithms for input-queued cell switches, University of California at Berkeley, Berkeley, CA, 1996
+Nick McKeown, The iSLIP scheduling algorithm for input-queued switches, IEEE/ACM Transactions on Networking (TON), v.7 n.2, p.188-201, April 1999[doi>10.1109/90.769767]
+Y. Li, S. Panwar, and H. J. Chao, "On the performance of a dual round-robin switch," inProc. IEEE INFOCOM, Apr. 2001, vol. 3, pp. 1688-1697.
+Cheng-Shang Chang , Duan-Shin Lee , Yi-Shean Jou, Load balanced Birkhoff-von Neumann switches, part I: one-stage buffering, Computer Communications, v.25 n.6, p.611-622, April, 2002[doi>10.1016/S0140-3664(01)00427-3]
+Cheng-Shang Chang , Duan-Shin Lee , Ching-Ming Lien, Load balanced Birkhoff-von Neumann switches, part II: multi-stage buffering, Computer Communications, v.25 n.6, p.623-634, April, 2002[doi>10.1016/S0140-3664(01)00428-5]
+Y. Shen, S. Jiang, S. S. Panwar, and H. J. Chao, "Byte-focal: A practical load-balanced switch," inProc. IEEE HPSR, Hong Kong, May 2005, pp. 6-12.
+X. L. Wang, Y. Cai, S. Xiao, and W. B. Gong, "A three-stage loadbalancing switch," inProc. IEEE INFOCOM, Phoenix, AZ, Apr. 2008, pp. 1993-2001.
+I. Keslassy and N. McKeown, "Maintaining packet order in two-stage switches," inProc. IEEE INFOCOM, New York, Jun. 2002, vol. 2, pp. 1032-1041.
+Isaac Keslassy , Nick Mckeown, The load-balanced router, Stanford University, Stanford, CA, 2004
+Isaac Keslassy , Shang-Tse Chuang , Kyoungsik Yu , David Miller , Mark Horowitz , Olav Solgaard , Nick McKeown, Scaling internet routers using optics, Proceedings of the 2003 conference on Applications, technologies, architectures, and protocols for computer communications, August 25-29, 2003, Karlsruhe, Germany[doi>10.1145/863955.863978]
+Juan José Jaramillo , Fabio Milan , R. Srikant, Padded frames: a novel algorithm for stable scheduling in load-balanced switches, IEEE/ACM Transactions on Networking (TON), v.16 n.5, p.1212-1225, October 2008[doi>10.1109/TNET.2007.906654]
+C. L. Yu, C. S. Chang, and D. S. Lee, "CR switch: A load-balanced switch with contention and reservation," inProc. IEEE INFOCOM, Anchorage, AK, May 2007, pp. 1361-1369.
+C. S. Chang, D. S. Lee, and Y. J. Shih, "Mailbox switch: A scalable two-stage switch architecture for conflict resolution of ordered packets," inProc. IEEE INFOCOM, Hong Kong, Mar. 2004, vol. 3, pp. 1995-2006.
+B. Lin and I. Keslassy, "The concurrent matching switch architecture," inProc. IEEE INFOCOM, Barcelona, Spain, Apr. 2006, pp. 1-12.
+H. I. Lee, "A two-stage switch with load balancing scheme maintaining packet sequence,"IEEE Commun. Lett., vol. 10, no. 4, pp. 290-292, Apr. 2006.
+J. R. Nechvatal, "Asymptotic enumeration of generalised latin rectangles,"Util. Math., vol. 20, pp. 273-292, 1981.
+B. Hu and K. L. Yeung, "On joint sequence design for feedback-based two-stage switch architecture," inProc. IEEE HPSR, Shanghai, China, May 2008, pp. 110-115.
+Pankaj Gupta , Nick McKeown, Designing and Implementing a Fast Crossbar Scheduler, IEEE Micro, v.19 n.1, p.20-28, January 1999[doi>10.1109/40.748793]
+Y. S. Lin and C. B. Shung, "Quasi-pushout cell discarding,"IEEE Commun. Lett., vol. 1, no. 5, pp. 146-148, Sep. 1997.
+K. L. Yeung, "Efficient time slot assignment algorithms for TDM hierarchical and non-hierarchical switching systems,"IEEE Trans. Commun., vol. 49, no. 2, pp. 351-359, Feb. 2001.
+Bin Wu , Kwan L. Yeung , Mounir Hamdi , Xin Li, Minimizing internal speedup for performance guaranteed switches with optical fabrics, IEEE/ACM Transactions on Networking (TON), v.17 n.2, p.632-645, April 2009[doi>10.1109/TNET.2008.926501]
+Cyriel Minkenberg , Ronald P. Luijten , François Abel , Wolfgang Denzel , Mitchell Gusat, Current issues in packet switch design, ACM SIGCOMM Computer Communication Review, v.33 n.1, p.119-124, January 2003[doi>10.1145/774763.774782]
+A. Scicchitano, A. Bianco, P. Giaccone, E. Leonardi, and E. Schiattarella, "Distributed scheduling in input queued switches," inProc. IEEE ICC, Glasgow, Scotland, Jun. 2007, pp. 6330-6335.
+J. G. Dai and B. Prabhakar, "The throughput of data switches with and without speedup," inProc. IEEE INFOCOM, Tel Aviv, Israel, Mar. 2000, vol. 2, pp. 556-564.
+M. Berger, "Delivering 100% throughput in a buffered crossbar with round robin scheduling," inProc. IEEE HPSR, Poznan, Poland, Jun. 2006, pp. 403-407.
+Y. Shen, S. S. Panwar, and H. J. Chao, "Providing 100% throughput in a buffered crossbar switch," inProc. IEEE HPSR, New York, Jun. 2007, pp. 1-9.
+X. Wang and K. L. Yeung, "Load balanced two-stage switches using arrayed waveguide grating routers," inProc. IEEE HPSR, New York, Jun. 2007, pp. 1-6.
+A. Bianco, D. Cuda, J. Finochietto, and F. Neri, "Multi-metaring protocol: Fairness in optical packet ring networks," inProc. IEEE ICC, Glasgow, Scotland, Jun. 2007, pp. 2348-2352.
+A. E. Tan, "IEEE 1588 precision time protocol time synchronization performance," National Semiconductor, Application Note 1728, Oct. 2007.
+Ravi Palaniappan , Yanyan Wang , Thomas Clarke , Brian Goldiez, Simulation of a ultra-wide band enhanced time difference of arrival system, Proceedings of the 19th IASTED International Conference on Parallel and Distributed Computing and Systems, November 19-21, 2007, Cambridge, Massachusetts
+A. Smiljanic, R. Fan, and G. Ramamurthy, "RRGS-round-robin greedy scheduling for electronic/optical terabitswitches," inProc. IEEE GLOBECOM, Rio de Janeiro, Brazil, Dec. 1999, vol. 2, pp. 1244-1250.
+E. Oki, R. Rojas-Cessa, and H. J. Chao, "PMM: A pipelined maximalsized matching scheduling approach for input-buffered switches," inProc. IEEE GLOBECOM, San Antonio, TX, Nov. 2001, vol. 1, pp. 35-39.
+B. Wu, K. L. Yeung, P.-H. Ho, and X. Jiang, "Minimum delay scheduling for performance guaranteed switches with optical fabrics,"J. Lightw. Technol., vol. 27, no. 16, pp. 3453-3465, Aug. 2009.

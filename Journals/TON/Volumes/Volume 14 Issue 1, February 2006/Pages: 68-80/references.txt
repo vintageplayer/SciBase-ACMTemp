@@ -1,0 +1,45 @@
+Nicolas Hohn , Darryl Veitch, Inverting sampled traffic, Proceedings of the 3rd ACM SIGCOMM conference on Internet measurement, October 27-29, 2003, Miami Beach, FL, USA[doi>10.1145/948205.948235]
+{2} Cisco Netflow {Online}. Available: http://www.cisco.com
+{3} sFlow Accuracy and Billing, Inmon Corp. {Online}. Available: http://www.inmon.com/PDF/sFlowBilling.pdf
+{4} Cisco Sampled NetFlow {Online}. Available: http://www.cisco.com
+Gianluca Iannaccone , Christophe Diot , Ian Graham , Nick McKeown, Monitoring very high speed links, Proceedings of the 1st ACM SIGCOMM Workshop on Internet Measurement, November 01-02, 2001, San Francisco, California, USA[doi>10.1145/505202.505235]
+K. C. Claffy , H. -W. Braun , G. C. Polyzos, A parameterizable methodology for Internet traffic flow profiling, IEEE Journal on Selected Areas in Communications, v.13 n.8, p.1481-1494, September 2006[doi>10.1109/49.464717]
+{7} B. Ryu, D. Cheney, and H. Braun, "Internet flow characterization: adaptive timeout strategy and statistical modeling," inProc. Passive and Active Measurement Workshop, 2001, pp. 94-105.
+Kimberly C. Claffy , George C. Polyzos , Hans-Werner Braun, Application of sampling methodologies to network traffic characterization, Conference proceedings on Communications architectures, protocols and applications, p.194-203, September 13-17, 1993, San Francisco, California, USA[doi>10.1145/166237.166256]
+J. Drobisz , K. J. Christensen, Adaptive Sampling Methods to Determine Network Traffic Statistics including the Hurst Parameter, Proceedings of the 23rd Annual IEEE Conference on Local Computer Networks, p.238, October 11-14, 1998
+{10} B.-Y. Choi, J. Park, and Z.-L. Zhang, "Adaptive random sampling for total load estimation," inProc. IEEE Int. Conf. Communications, 2003, pp. 1552-1556.
+{11} G. Cheng and J. Gong, "Traffic behavior analysis with Poisson sampling on high-speed network," inProc. ICII, 2001, pp. 158-163.
+{12} Y. Huang and J. M. Pullen, "Countering denial-of-service attacks using congestion triggered packet sampling and filtering," inProc. Int. Conf. Comput. Commun. Netw., 2001, pp. 490-494.
+N. Duffield , C. Lund , M. Thorup, Learn more, sample less: control of volume and variance in network measurement, IEEE Transactions on Information Theory, v.51 n.5, p.1756-1775, May 2005[doi>10.1109/TIT.2005.846400]
+{14} W. Cochran,Sampling Techniques. New York: Wiley, 1987.
+Nick Duffield , Carsten Lund , Mikkel Thorup, Properties and prediction of flow statistics from sampled packet streams, Proceedings of the 2nd ACM SIGCOMM Workshop on Internet measurment, November 06-08, 2002, Marseille, France[doi>10.1145/637201.637225]
+Nick Duffield , Carsten Lund , Mikkel Thorup, Estimating flow distributions from sampled flow statistics, Proceedings of the 2003 conference on Applications, technologies, architectures, and protocols for computer communications, August 25-29, 2003, Karlsruhe, Germany[doi>10.1145/863955.863992]
+{17} P. Brémaud, L. Massoullié, and A. Ridolfi, "Power spectra of random spike fields and related processes," Adv. Appl. Probabil., vol. 37, no. 4, pp. 1116-1146, 2005, submitted for publication.
+{18} D. J. Daley and D. Vere-Jones,Introduction to the Theory of Point Processes, 2nd ed. New York: Springer-Verlag, 2002.
+{19} N. H. Bingham, C. M. Goldie, and J. L. Teugels,Regular Variation. Cambridge, U.K.: Cambridge Univ. Press, 1987.
+{20} J. Riordan,Combinatorial Identities. New York: Wiley, 1968.
+Joseph Abate , Ward Whitt, The Fourier-series method for inverting transforms of probability distributions, Queueing Systems: Theory and Applications, v.10 n.1-2, p.5-88, Jan. 1992[doi>10.1007/BF01158520]
+{22} J. Daigle, "Queue length distributions from probability generating functions via Fourier transforms,"Oper. Res. Lett., no. 8, pp. 229-236, 1989.
+{23} M. Roughan, D. Veitch, and M. Rumsewicz, "Computing queue length distributions for power-law queues," inProc. IEEE INFOCOM, 1998, pp. 356-363.
+{24} H. Amindavar and J. Ritchey, "Padé approximations of probability density functions,"IEEE Trans. Aerosp. Electron. Syst., vol. 30, no. 2, pp. 416-424, Apr. 1994.
+{25} K. Miller, "Stabilized numerical analytic prolongation with poles,"SIAM J. Appl. Math., vol. 183, no. 2, pp. 346-363, 1970.
+{26} P. A. W. Lewis, "A branching Poisson process model for the analysis of computer failures,"J. Roy. Statist. Soc., vol. 26, no. 3, pp. 398-456, 1964.
+{27} N. Hohn, D. Veitch, and P. Abry, "The impact of the flow arrival process in Internet traffic," inProc. IEEE ICASSP, Hong Kong, Apr. 2003, pp. VI 37-VI 40.
+Nicolas Hohn , Darryl Veitch , Patrice Abry, Does fractal scaling at the IP level depend on TCP flow arrival processes?, Proceedings of the 2nd ACM SIGCOMM Workshop on Internet measurment, November 06-08, 2002, Marseille, France[doi>10.1145/637201.637208]
+{29} Waikato Applied Network Dynamics. {Online}. Available: http://wand.cs.waikato.ac.nz/wand/wits/
+{30} National Laboratory for Applied Network Research (NLANR). {On-line}. Available: http://www.nlanr.net/
+{31} P. Abry, P. Flandrin, M. S. Taqqu, and D. Veitch, "Wavelets for the analysis, estimation, and synthesis of scaling data," inSelf-Similar Network Traffic and Performance Evaluation, K. Park and W. Willinger, Eds. New York: Wiley, 2000, pp. 39-88.
+Claudine Chaffy, The analytic continuation process: from computer algebra to numerical analysis, Proceedings of the 1995 international symposium on Symbolic and algebraic computation, p.216-222, July 10-12, 1995, Montreal, Quebec, Canada[doi>10.1145/220346.220373]
+{33} P. Henrici,Applied and Computational Complex Analysis. New York: Wiley, 1974, vol. 1.
+Robert J. Adler , Raisa E. Feldman , Murad S. Taqqu, A practical guide to heavy tails: statistical techniques and applications, Birkhauser Boston Inc., Cambridge, MA, 1998
+N. Hohn , D. Veitch , P. Abry, Cluster processes: a natural language for network traffic, IEEE Transactions on Signal Processing, v.51 n.8, p.2229-2244, August 2003[doi>10.1109/TSP.2003.814460]
+{36} D. R. Cox and V. Isham,Point Processes. London, U.K.: Chapman & Hall, 1980.
+{37} Internet Protocol Flow Information eXport (IPFIX), IETF Working Group. {Online}. Available: http://www.ietf.org/html.charters/ipfix-charter.html
+{38} Packet Sampling, IETF Working Group. {Online}. Available: http://www.ietf.org/html.charters/psamp-charter.html
+Cristian Estan , George Varghese , Mike Fisk, Bitmap algorithms for counting active flows on high speed links, Proceedings of the 3rd ACM SIGCOMM conference on Internet measurement, October 27-29, 2003, Miami Beach, FL, USA[doi>10.1145/948205.948225]
+Abhishek Kumar , Jun (Jim) Xu , Li Li , Jia Wang, Space-code bloom filter for efficient traffic flow measurement, Proceedings of the 3rd ACM SIGCOMM conference on Internet measurement, October 27-29, 2003, Miami Beach, FL, USA[doi>10.1145/948205.948226]
+Cristian Estan , Ken Keys , David Moore , George Varghese, Building a better NetFlow, Proceedings of the 2004 conference on Applications, technologies, architectures, and protocols for computer communications, August 30-September 03, 2004, Portland, Oregon, USA[doi>10.1145/1015467.1015495]
+N. G. Duffield , M. Grossglauser, Trajectory sampling for direct traffic observation, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.271-282, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347555]
+Anja Feldmann , Jennifer Rexford , Ramón Cáceres, Efficient policies for carrying Web traffic over flow-switched networks, IEEE/ACM Transactions on Networking (TON), v.6 n.6, p.673-685, Dec. 1998[doi>10.1109/90.748081]
+{44} A. Feldmann, R. Cáceres, F. Douglis, G. Glass, and M. Rabinovich, "Performance of web proxy caching in heterogeneous bandwidth environments," inProc. IEEE INFOCOM, vol. 1, 1999, pp. 107-116.
+{45} D. A. Drabold and J. L. Jones, "Maximum-entropy approach to series extrapolation and analytic continuation,"J. Phys. A: Math. Gen., vol. 24, pp. 4705-4714, 1991.

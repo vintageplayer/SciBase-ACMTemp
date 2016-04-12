@@ -1,0 +1,32 @@
+A. Adams , Tian Bu , T. Friedman , J. Horowitz , D. Towsley , R. Caceres , N. Duffield , F. L. Presti , S. B. Moon , V. Paxson, The use of end-to-end multicast measurements for characterizing internal network behavior, IEEE Communications Magazine, v.38 n.5, p.152-159, May 2000[doi>10.1109/35.841840]
+{2} BRITE: Boston University Representative Internet Topology GEnerator. {Online}. Available: http://www.cs.bu.edu/brite/
+R. Caceres , N. G. Duffield , J. Horowitz , D. F. Towsley, Multicast-based inference of network-internal loss characteristics, IEEE Transactions on Information Theory, v.45 n.7, p.2462-2480, November 1999[doi>10.1109/18.796384]
+{4} R. Caceres, N. G. Duffield, S. B. Moon, and D. Towsley, "Inferring link-level performance from end-to-end multicast measurements," presented at the Global Internet Symp., Rio de Janiero, Brazil, 1999.
+Robert L. Carter , Mark E. Crovella, Measuring bottleneck link speed in packet-switched networks, Performance Evaluation, 27-28, p.297-318, Oct. 1996[doi>10.1016/0166-5316(96)00036-3]
+{6} M. Coates and R. Nowak, "Network loss inference using unicast end-to-end measurement," inProc. ITC Conf. IP Traffic, Modeling and Management, Monterey, CA, Sep. 2000, pp. 28-1-28-9.
+{7} M. J. Coates and R. Nowak, "Network tomography for internal delay estimation," inProc. IEEE Int. Conf. Acoustics, Speech, and Signal Processing, May 2001, pp. 3409-3412.
+Allen B. Downey, Using pathchar to estimate Internet link characteristics, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.241-250, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316228]
+N. G. Duffield , J. Horowitz , D. Towsley , Wei Wei , T. Friedman, Multicast-based loss inference with missing data, IEEE Journal on Selected Areas in Communications, v.20 n.4, p.700-713, September 2006[doi>10.1109/JSAC.2002.1003037]
+N. G. Duffield , J. Horowitz , F. Lo Presti , D. Towsley, Multicast topology inference from measured end-to-end loss, IEEE Transactions on Information Theory, v.48 n.1, p.26-45, January 2002[doi>10.1109/18.971737]
+{11} N. G. Duffield and F. Lo Presti, "Multicast inference of packet delay variance at interior network links," inProc. IEEE INFOCOM, Tel Aviv, Israel, Mar. 2000, pp. 1351-1360.
+{12} S. Floyd and V. Jacobson, "On traffic phase effects in packet-switched gateways,"Internetworking: Research and Experience, vol. 3, pp. 115-156, 1992.
+{13} S. Floyd, "Simulator tests," July 1995, revised May 1997 {Online}. Available: http://www.icir.org/floyd/papers/simtests.ps.Z
+Sally Floyd , Van Jacobson, Random early detection gateways for congestion avoidance, IEEE/ACM Transactions on Networking (TON), v.1 n.4, p.397-413, Aug. 1993[doi>10.1109/90.251892]
+{15} GT-ITM Georgia Tech Internetwork Topology Models. {Online}. Available: http://www.cc.gatech.edu/fac/Ellen.Zegura/graphs.html
+K. Harfoush , A. Bestavros , J. Byers, Robust identification of shared losses using end-to-end unicast probes, Proceedings of the 2000 International Conference on Network Protocols, p.22, November 14-17, 2000
+{17} G. He and J. C. Hou, "On exploiting long range dependence of network traffic in measuring cross traffic on an end-to-end basis," inProc. IEEE INFOCOM, Apr. 2003, pp. 1858-1868.
+V. Jacobson, Congestion avoidance and control, Symposium proceedings on Communications architectures and protocols, p.314-329, August 16-18, 1988, Stanford, California, USA[doi>10.1145/52324.52356]
+{19} V. Jacobson, Pathchar--A Tool to Infer Characteristics of Internet Paths. {Online}. Available: ftp://ftp.ee.lbl.gov/pathchar
+Srinivasan Keshav, A control-theoretic approach to flow control, Proceedings of the conference on Communications architecture & protocols, p.3-15, September 03-06, 1991, Zurich, Switzerland[doi>10.1145/115992.115995]
+Kevin Lai , Mary Baker, Measuring link bandwidths using a deterministic model of packet delay, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.283-294, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347557]
+{22} B. N. Levine, S. Paul, and J. J. Garcia-Luna-Aceves, "Organizing multicast receivers deterministically according to packet-loss correlation," Univ. California, Santa Cruz, Preprint.
+Francesco Lo Presti , N. G. Duffield , Joe Horowitz , Don Towsley, Multicast-based inference of network-internal delay distributions, IEEE/ACM Transactions on Networking (TON), v.10 n.6, p.761-775, December 2002[doi>10.1109/TNET.2002.805026]
+{24} mtrace--Print multicast path from a source to a receiver. {Online}. Available: ftp://ftp.parc.xerox.com/pub/net-research/ipmulti
+{25} ns--network simulator. {Online}. Available: http://www-mash.cs. berkeley.edu/ns/ns.html
+Vern Paxson, End-to-end Internet packet dynamics, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.139-152, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263155]
+V. Paxson , J. Mahdavi , A. Adams , M. Mathis, An architecture for large scale Internet measurement, IEEE Communications Magazine, v.36 n.8, p.48-54, August 1998[doi>10.1109/35.707817]
+{28} M. J. Schervish,Theory of Statistics. New York: Springer, 1995.
+{29} V. Ribeiro, M. Coates, R. Riedi, S. Sarvotham, B. Hendricks, and R. Baraniuk, "Multifractal cross-traffic estimation," presented at the ITC Specialist Seminar on IP Traffic Measurement, Modeling, and Management, Monterey, CA, Sep. 2000.
+Dan Rubenstein , Jim Kurose , Don Towsley, Detecting shared congestion of flows via end-to-end measurement, Proceedings of the 2000 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.145-155, June 18-21, 2000, Santa Clara, California, USA[doi>10.1145/339331.339410]
+Y. Tsang , M. Coates , R. Nowak, Passive network tomography using EM algorithms, Proceedings of the Acoustics, Speech, and Signal Processing, 2001. on IEEE International Conference, p.1469-1472, May 07-11, 2001[doi>10.1109/ICASSP.2001.941208]
+Yin Zhang , Nick Duffield, On the constancy of internet path properties, Proceedings of the 1st ACM SIGCOMM Workshop on Internet Measurement, November 01-02, 2001, San Francisco, California, USA[doi>10.1145/505202.505228]

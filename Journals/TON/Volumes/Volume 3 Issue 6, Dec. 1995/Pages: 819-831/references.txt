@@ -1,0 +1,36 @@
+A. Bovopoulos and A. Lazar, "Decentralized algorithms for flow control," in Proc. 25th Allerton Conf. Commun., Control. and Computing, 1987.
+E. Coffman Jr. and I. Mitrani, "A characterization of waiting time performance realizable by single server queues," Operations Res., part I1, vol. 28, no. 3 , May-June 1980.
+A. Demers, S. Keshav, and S. Shenker, "Analysis and simulation of a fair queueing algorithm," Internetworking: Research and Experience, vol. I, pp. 3-26, 1990.
+C. Douligeris and R. Mazumdar, "A game theoretic approach to flow control in an integrated environment," J. Franklin Inst., vol. 329, no. 3. pp. 383--402, Mar. 1992.
+C. Douligeris and R. Mazumdar, "On pareto optimal flow control in a multiclass environment," in Proc. 25th Allerton Conf Commun. Control, and Computing, 1987.
+C. Douligeris and R. Mazumdar, "More on pareto optimal flow control," in Proc. 25th Allerton Conf Commun., Control, and Computing, 1988.
+D. Ferguson, C. Nikolaou, and Y. Yemini, "An economy for flow control in computer networks," presented at IEEE INFOCOM, 1989.
+E. Friedman and S. Shenker, "Learning by distributed automata," preprint, 1993 (available from parcftp.parc.xerox.com as pub/net -- research/learning, ps).
+E. Hahne, "Round-robin scheduling for max-min fairness in data networks," IEEEJ. Select. Areas Commun., vol. 9, pp. 1024-1039, 1991.
+Man-tung T. Hsiao , Aurel A. Lazar, A Game Theoretic Approach to Decentralized Flow Control of Markovian Queueing Networks, Proceedings of the 12th IFIP WG 7.3 International Symposium on Computer Performance Modelling, Measurement and Evaluation, p.55-73, December 07-09, 1987
+V. Jacobson, Congestion avoidance and control, Symposium proceedings on Communications architectures and protocols, p.314-329, August 16-18, 1988, Stanford, California, USA[doi>10.1145/52324.52356]
+J. laffe, "Bottleneck flow control," IEEE Trans. Commun., vol. 29, no. 7, pp. 954-962, July 1981.
+R. lain and K. K. Ramakrishnan, "Congestion avoidance in computer networks with a connectionless network layer: concepts, goals, and alternatives," in Proc. Comp. Networking Symp., pp. 134-143, 1988.
+R. Jain, A delay-based approach for congestion avoidance in interconnected heterogeneous computer networks, ACM SIGCOMM Computer Communication Review, v.19 n.5, p.56-71, Oct. 1989[doi>10.1145/74681.74686]
+M. Katevenis, "Fast switching and fair control of congested flow in broadband networks," IEEE J. Select. Areas Commun., vol. 5, pp. 1315-1326, 1987.
+S. Keshav, "A mechanism for congestion control in computer networks," preprint, 1989 (available from research.att.com as di st/qos/mechani sm. ps).
+Y. Korilis and A. Lazar, "Why is flow control hard: optimality, fairness, partial and delayed information," preprint, 1992 (available from ftp.ctr.columbia.edu as CTR-Research/ comet/public/papers/92/KOR92 .ps. z).
+Y. Korilis and A. Lazar, "on the existence of equilibria in noncooperative optimal flow control," in Proc. ITC Workshop, pp. 243-251, 1993 (also available from ftp.ctr.columbia.edu as CTR-Research/comet/publ ic/papers / 93/KOR93 .ps .gz).
+E. Maskin, "The theory of implementation in nash equilibrium," in Social Goals and Organization: Essays in Memory of Elisha Pazner, Hurwicz, Schmeidler, and Sonnenscheim Eds. Cambridge, UK: Cambridge University Press, 1985.
+M. Miller and K. Drexler, "Markets and computation: agoric open systems,'' in The Ecology of Computation, B. Huberman, Ed. Amsterdam: North-Holland, 1988.
+H. Moulin, "Joint ownership of a convex technology: comparison of three solutions," Rev. Economic Studies, vol. 57, pp, 439-452, 1990,
+H. Moulin, "Uniform externalities: two axioms for uniform allocation," J. Public Economics, vol. 43, pp. 305-326, 1990.
+H. Moulin and S. Shenker, "Serial cost sharing," Econometrica, vol. 60, pp. 1{X)9-1037.
+H. Moulin and S. Shenker, "Average cost pricing versus ~rial cost sharing: an axiomatic comparison," J. Economic Theor)., vol, 64, no. I, pp. 178-201, 1994.
+H. Moulin, "Cost sharing under increasing returns," Games and Economic Behavior, forthcoming.
+J. Nagle, "On packet switches with infinite storage," IEEE Trans. Commun., vol. 35, pp. 435-438, 1987.
+K. K. Ramakrishnan , Raj Jain, A binary feedback scheme for congestion avoidance in computer networks, ACM Transactions on Computer Systems (TOCS), v.8 n.2, p.158-181, May 1990[doi>10.1145/78952.78955]
+J. Regnier, "Priority assignment in integrated services networks," Laboratory for Information and Decision Systems, Massachusetts Institute of Technology, Cambridge, MA, Report LIDS-TH-I565, Dec., 1986, Econometrica, vol. 49, no. 6.
+Berverly A. Sanders, An Asynchronous, Distributed Flow Control Algorithm for Rate Allocation in Computer Networks, IEEE Transactions on Computers, v.37 n.7, p.779-787, July 1988[doi>10.1109/12.2223]
+B. A. Sanders, An Incentive Compatible Flow Control Algorithm for Rate Allocation in Computer Networks, IEEE Transactions on Computers, v.37 n.9, p.1067-1072, September 1988[doi>10.1109/12.2257]
+M. Sattert~'.waite and H. Sonnenschein, "Strategy-proof allocation mechanisms at differentiable points," Rev. Economic Studies, vol. 48, pp. 587-597, 1981.
+S. Shenker, A theoretical analysis of feedback flow control, Proceedings of the ACM symposium on Communications architectures & protocols, p.156-165, September 26-28, 1990, Philadelphia, Pennsylvania, USA[doi>10.1145/99508.99547]
+Scott Shenker, Efficient Network Allocations with Selfish Users, Proceedings of the 14th IFIP WG 7.3 International Symposium on Computer Performance Modelling, Measurement and Evaluation, p.279-285, September 12-14, 1990
+S. Shenker. "on the strategy-proof and smooth allocation of private goods in a production economy." preprint, 1993 (available from pare f tp. pare. xerox, com as pub/net-research/ ~tss. ps).
+S. Shenker, "Some technical results on continuity, strategy-proofness, and related strategic concepts," preprint, 1993. (available from parcftp.parc.xerox.com as pub/net-research/str.ps).
+W. Thomson and H. Marian, 'q'heories of justice based on symmetry," in Social Goals and Organization: Essays in Mernoo, of Elisha Pazner, Hurwicz. Schmeidler, and Sonnenschein, Eds. Cambridge, UK: Cambridge University Press, 1985.

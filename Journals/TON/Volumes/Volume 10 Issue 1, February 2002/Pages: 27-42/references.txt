@@ -1,0 +1,56 @@
+M. Andrews, "Probabilistic end-to-end delay bounds for earliest deadline first scheduling," in Proc. IEEE Infocom, Tel Aviv, Israel, Mar. 2000, pp. 603-612.
+R. R. Boorstyn , A. Burchard , J. Liebeherr , C. Oottamakorn, Statistical service assurances for traffic scheduling algorithms, IEEE Journal on Selected Areas in Communications, v.18 n.12, p.2651-2664, September 2006[doi>10.1109/49.898747]
+C.-S. Chang, "Stability, queue length and delay of deterministic and stochastic networks," IEEE Trans. Automat. Contr., vol. 39, pp. 913-931, May 1994.
+Cheng-Shang Chang, Performance Guarantees in Communication Networks, Springer-Verlag, London, UK, 2000
+David D. Clark , Scott Shenker , Lixia Zhang, Supporting real-time applications in an Integrated Services Packet Network: architecture and mechanism, Conference proceedings on Communications architectures & protocols, p.14-26, August 17-20, 1992, Baltimore, Maryland, USA[doi>10.1145/144179.144199]
+Thomas T. Cormen , Charles E. Leiserson , Ronald L. Rivest, Introduction to algorithms, MIT Press, Cambridge, MA, 1990
+R. Cruz, "A calculus for network delay---Part I: Network elements in isolation," IEEE Trans. Inform. Theory, vol. 37, pp. 114-131, Jan. 1991.
+____, "A calculus for network delay, part II: Network analysis," IEEE Trans. Inform. Theory, vol. 37, pp. 132-141, Jan. 1991.
+R. L. Cruz, Quality of service guarantees in virtual circuit switched networks, IEEE Journal on Selected Areas in Communications, v.13 n.6, p.1048-1056, September 2006[doi>10.1109/49.400660]
+R. L. Cruz, "Quality of service management in integrated services networks," in Proc. 1st Semi-Annual Research Review, June 1996.
+B. T. Doshi, "Deterministic rule based traffic descriptors for broadband ISDN: Worst case behavior and its impact on connection acceptance control," Int. J. Commun. Syst., vol. 8, pp. 91-109, 1995.
+A. Elwalid and D. Mitra, "Design of generalized processor sharing schedulers which statistically multiplex heterogeneous QoS classes," in Proc. IEEE Infocom, New York, Mar. 1999, pp. 1220-1230.
+A. Elwalid , D. Mitra , R. H. Wentworth, A new approach for allocating buffers and bandwidth to heterogeneous, regulated traffic in an ATM node, IEEE Journal on Selected Areas in Communications, v.13 n.6, p.1115-1127, September 2006[doi>10.1109/49.400666]
+D. Y. Eun and N. B. Shroff, "The impact of aggregation in simplifying network analysis," Dept. of ECE, Purdue Univ., Tech. Rep., July 2001.
+CORPORATE The ATM Forum, ATM user-network interface specification (version 3.0), Prentice-Hall, Inc., Upper Saddle River, NJ, 1994
+Leonidas Georgiadis , Roch Guérin , Vinod Peris , Kumar N. Sivarajan, Efficient network QoS provisioning based on per node traffic shaping, IEEE/ACM Transactions on Networking (TON), v.4 n.4, p.482-501, Aug. 1996[doi>10.1109/90.532860]
+I. Hsu and J. Walrand, "Admission control for ATM networks," presented at the IMA Workshop Stochastic Networks, Minneapolis, MN, Mar. 1994.
+Edward W. Knightly, H-BIND: a new approach to providing statistical performance guarantees to VBR traffic, Proceedings of the Fifteenth annual joint conference of the IEEE computer and communications societies conference on The conference on computer communications, March 24-28, 1996, San Francisco, California
+Hui Zhang , Edward W. Knightly, Providing end-to-end statistical performance guarantees with bounding interval dependent stochastic models, Proceedings of the 1994 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.211-220, May 16-20, 1994, Nashville, Tennessee, USA[doi>10.1145/183018.183042]
+Jim Kurose, On computing per-session performance bounds in high-speed multi-hop computer networks, Proceedings of the 1992 ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems, p.128-139, June 01-05, 1992, Newport, Rhode Island, USA[doi>10.1145/133057.133097]
+J. Y. LeBoudec and P. Thiran, Network Calculus, Lecture Notes in Computer Science. New York: Springer-Verlag, 2001.
+J. -Y. Le Boudec, Application of network calculus to guaranteed service networks, IEEE Transactions on Information Theory, v.44 n.3, p.1087-1096, May 1998[doi>10.1109/18.669170]
+Tsern-Huei Lee , Kuen-Chu Lai , Shii-Tyng Duann, Design of a real-time call admission controller for ATM networks, IEEE/ACM Transactions on Networking (TON), v.4 n.5, p.758-765, Oct. 1996[doi>10.1109/90.541323]
+Chengzhi Li , E. W. Knightly, Coordinated network scheduling: a framework for end-to-end services, Proceedings of the 2000 International Conference on Network Protocols, p.69, November 14-17, 2000
+Jorg Liebeherr , Stephen Patek , Almut Burchard, A Calculus for End-to-end Statistical Service Guarantees, University of Virginia, Charlottesville, VA, 2001
+Jörg Liebeherr , Dallas E. Wrege, Traffic characterization algorithms for VBR video in multimedia networks, Multimedia Systems, v.6 n.4, p.271-283, July 1998[doi>10.1007/s005300050093]
+Jörg Liebeherr , Dallas E. Wrege , Domenico Ferrari, Exact admission control for networks with a bounded delay service, IEEE/ACM Transactions on Networking (TON), v.4 n.6, p.885-901, Dec. 1996[doi>10.1109/90.556345]
+Francesco Lo Presti , Zhi-Li Zhang , Jim Kurose , Don Towsley, Source time scale and optimal buffer/bandwidth tradeoff for heterogeneous regulated traffic in a network node, IEEE/ACM Transactions on Networking (TON), v.7 n.4, p.490-501, Aug. 1999[doi>10.1109/90.793004]
+Abhay K. Parekh , Robert G. Gallager, A generalized processor sharing approach to flow control in integrated services networks: the single-node case, IEEE/ACM Transactions on Networking (TON), v.1 n.3, p.344-357, June 1993[doi>10.1109/90.234856]
+Abhay K. Parekh , Robert G. Gallagher, A generalized processor sharing approach to flow control in integrated services networks: the multiple node case, IEEE/ACM Transactions on Networking (TON), v.2 n.2, p.137-150, April 1994[doi>10.1109/90.298432]
+J. Qiu and E. Knightly, "Inter-class resource sharing using statistical service envelopes," in Proc. IEEE Infocom'99, New York, Mar. 1999.
+Srini Rajagopal , Martin Reisslein , Keith W. Ross, Packet multiplexers with adversarial regulated traffic, Computer Communications, v.25 n.3, p.239-253, February, 2002[doi>10.1016/S0140-3664(01)00359-0]
+R. Ramjee, J. Kurose, D. Towsley, and H. Schulzrinne, "Adaptive playout mechanisms for packetized audio applications in wide-area networks," in Proc. IEEE Infocom, San Francisco, CA, Apr. 1994, pp. 680-688.
+M. Reisslein, "Measurement-based admission control for bufferless multiplexers," Int. J. Commun. Syst., vol. 14, no. 8, pp. 735-761, Oct. 2001.
+M. Reisslein , K. W. Ross, Call admission for prerecorded sources with packet loss, IEEE Journal on Selected Areas in Communications, v.15 n.6, p.1167-1180, September 2006[doi>10.1109/49.611166]
+M. Reisslein, K. W. Ross, and S. Rajagopal, "Guaranteeing statistical QoS to regulated traffic: The multiple node case," in Proc. 37th IEEE Conf. Decision and Control (CDC), Tampa, FL, Dec. 1998, pp. 531-538.
+____, "Guaranteeing statistical QoS to regulated traffic: The single node case," in Proc. IEEE Infocom, New York, 1999, pp. 1060-1071.
+____, (2001, Sept.) A framework for guaranteeing statistical QoS (extended version). Dept. of Electrical Engineering, Arizona State Univ., Tempe, AZ. {Online}. Available: http://www.eas.asu.edu-mre and http://www.eurecom.fr/-ross
+J. Roberts, U. Mocci, and J. Virtamo, Eds., Broadband Network Traffic: Performance Evaluation and Design of Broadband Multiservice Networks, Final Report of Action COST 242, (Lecture Notes in Computer Science, Vol. 1155). New York: Springer Verlag, 1996.
+James W. Roberts, Realizing quality of service guarantees in multiservice networks, Proceedings of the IFIP TC6 / WG6.3 & WG7.3 International Conference on the Performance and Management of Complex Communication Networks, p.277-293, November 17-21, 1997
+O. Rose, "Statistical properties of MPEG video traffic and their impact on traffic modeling in ATM systems," Univ. of Wuerzburg, Wuerzburg, Germany, Tech. Rep. 101, Feb. 1995.
+Keith W. Ross , Peter J. Hancock, Multiservice Loss Models for Broadband Telecommunication Networks, Springer-Verlag New York, Inc., Secaucus, NJ, 1995
+S. Shenker , C. Partridge , R. Guerin, Specification of Guaranteed Quality of Service, RFC Editor, 1997
+S. Shenker , J. Wroclawski, General Characterization Parameters for Integrated Service Network Elements, RFC Editor, 1997
+V. Sivaraman and F. M. Chiussi, "Providing end-to-end statistical delay guarantees with earliest deadline first scheduling and per-hop traffic shaping," in Proc. IEEE Infocom, Tel Aviv, Israel, Mar. 2000, pp. 631-640.
+V. Sivaraman, F. M. Chiussi, and M. Gerla, "End-to-end statistical delay service under GPS and EDF scheduling: A comparison study," in Proc IEEE Infocom, Anchorage, AK, Apr. 2001, pp. 1113-1122.
+D. Starobinski and M. Sidi, "Stochastically bounded burstiness for communication networks," in Proc. IEEE Infocom, New York, Mar. 1999, pp. 36-42.
+D. Stoyan, Comparison Methods for Queues and Other Stochastic Models. New York: Wiley, 1983.
+Y. Wang and Q. Zhu, "Error control and concealment for video communication: A review," Proc. IEEE, vol. 86, pp. 974-997, May 1998.
+Dallas E. Wrege , Edward W. Knightly , Hui Zhang , Jörg Liebeherr, Deterministic delay bounds for VBR video in packet-switching networks: fundamental limits and practical trade-offs, IEEE/ACM Transactions on Networking (TON), v.4 n.3, p.352-362, June 1996[doi>10.1109/90.502234]
+T. Wu , E. Knightly, Enforceable and efficient service provisioning, Computer Communications, v.23 n.14-15, p.1377-1388, August, 2000[doi>10.1016/S0140-3664(00)00183-3]
+____, "Buffering vs. smoothing for end-to-end QoS: Fundamental issues and comparison," in Proc. Performance'99, Istanbul, Turkey, Aug. 1999
+Hui Zhang, Providing end-to-end performance guarantees using non-work-conserving disciplines, Computer Communications, v.18 n.10, p.769-781, October, 1995[doi>10.1016/0140-3664(95)98489-R]
+H. Zhang and D. Ferrari, "Rate-controlled service disciplines," J. High Speed Networks, vol. 3. no. 4, pp. 389-412, 1994.
+Seok-Kyu Kweon , Kang G. Shin, Real-Time Transport of MPEG Video with a Statistically Guaranteed Loss Ratio in ATM Networks, IEEE Transactions on Parallel and Distributed Systems, v.12 n.4, p.387-403, April 2001[doi>10.1109/71.920588]
+Seok-Kyu Kweon , Kang G. Shin, Traffic-controlled rate-monotonic priority scheduling of ATM cells, Proceedings of the Fifteenth annual joint conference of the IEEE computer and communications societies conference on The conference on computer communications, March 24-28, 1996, San Francisco, California

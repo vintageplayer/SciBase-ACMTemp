@@ -1,0 +1,26 @@
+V. Jacobson, Congestion avoidance and control, Symposium proceedings on Communications architectures and protocols, p.314-329, August 16-18, 1988, Stanford, California, USA[doi>10.1145/52324.52356]
+C. Hollot, V. Misra, D. Towsley, and W. Gong, "Analysis and design of controllers for AQM routers supporting TCP flows,"IEEE Trans. Autom. Control, vol. 47, no. 6, pp. 945-959, Jun. 2002.
+Steven H. Low , Fernando Paganini , Jiantao Wang , John C. Doyle, Linear stability of TCP/RED and a scalable control, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.43 n.5, p.633-647, 5 December 2003[doi>10.1016/S1389-1286(03)00304-9]
+Claudio Casetti , Mario Gerla , Saverio Mascolo , M. Y. Sanadidi , Ren Wang, TCP westwood: end-to-end congestion control for wired/wireless networks, Wireless Networks, v.8 n.5, p.467-479, September 2002[doi>10.1023/A:1016590112381]
+S. Floyd, "High-speed TCP for large congestion windows," IETF, RFC 3649, Dec. 2003.
+David X. Wei , Cheng Jin , Steven H. Low , Sanjay Hegde, FAST TCP: motivation, architecture, algorithms, performance, IEEE/ACM Transactions on Networking (TON), v.14 n.6, p.1246-1259, December 2006[doi>10.1109/TNET.2006.886335]
+I. Rhee and L. Xu, "CUBIC: A new TCP-friendly high-speed TCP variant," presented at the PFLDnet, 2005.
+D. Leith and R. Shorten, "H-TCP: TCP for high-speed and long-distance networks," presented at the PFLDnet, Argonne, IL, 2004, inProc..
+Dina Katabi , Mark Handley , Charlie Rohrs, Congestion control for high bandwidth-delay product networks, Proceedings of the 2002 conference on Applications, technologies, architectures, and protocols for computer communications, August 19-23, 2002, Pittsburgh, Pennsylvania, USA[doi>10.1145/633025.633035]
+A. Falk, D. Katabi, and Y. Pryadkin, "Specification for the Explicit Control Protocol (XCP)," draft-falk-xcp-03.txt, 2007.
+Y. Zhang and M. Ahmed, "A control theoretic analysis of XCP," inProc. IEEE GLOBECOM, Mar. 2005, pp. 2831-2835.
+Filipe Abrantes , Manuel Ricardo, XCP for shared-access multi-rate media, ACM SIGCOMM Computer Communication Review, v.36 n.3, July 2006[doi>10.1145/1140086.1140091]
+Y. Sakumoto, H. Ohsaki, and M. Imase, "On XCP stability in a heterogeneous network," inProc. Int. Symp. Comput. Commun., 2007, pp. 531-537.
+C. Wilson, C. Coakley, and B. Y. Zhao, "Fairness attacks in the explicit control protocol," inProc. IEEE IWQoS, 2007, pp. 21-28.
+Y. Zhang and T. Henderson, "An implementation and experimental study of the explicit control protocol (XCP)," inProc. IEEE INFOCOM, Miami, FL, 2005, pp. 1037-1048.
+B. Wydrowski and M. Zukerman, "MaxNet: A congestion control architecture for max-min fairness,"IEEE Commun. Lett., vol. 6, no. 11, pp. 512-514, Nov. 2002.
+B. Wydrowski, L. L. H. Andrew, and M. Zukerman, "MaxNet: A congestion control architecture for scalable networks,"IEEE Commun. Lett., vol. 7, no. 10, pp. 511-513, Oct. 2003.
+H. Balakrishnan, N. Dukkipati, N. McKeown, and C. J. Tomlin, "Stability analysis of explicit congestion control protocols,"IEEE Commun. Lett., vol. 11, no. 10, pp. 823-825, Oct. 2007.
+S. Low, L. Andrew, and B.Wydrowski, "Understanding XCP: Equilibrium and fairness," inProc. IEEE INFOCOM, 2005, pp. 1025-1036.
+P. Wang and D. L. Mills, "Further analysis of XCP equilibrium performance," inProc. IEEE Globecom, 2006, pp. 1-5.
+J. M. Jaffe, "Bottleneck flow control,"IEEE Trans. Commun., vol. COM-29, no. 7, pp. 954-962, Jul. 1981.
+S. Athuraliya , S. H. Low , V. H. Li , Qinghe Yin, REM: active queue management, IEEE Network: The Magazine of Global Internetworking, v.15 n.3, p.48-53, May 2001[doi>10.1109/65.923940]
+Dimitri Bertsekas , Robert Gallager, Data networks (2nd ed.), Prentice-Hall, Inc., Upper Saddle River, NJ, 1992
+E. M. Gafni and D. P. Bertsekas, "Dynamic control of session input rates in communication networks,"IEEE Trans. Autom. Control, vol. AC-29, no. 1, pp. 1009-1016, Jan. 1984.
+NS Network Simulator, {Online}. Available: http://www.isi.edu/ nsnam/ns/
+L. L. H. Andrew, B. P. Wydrowski, and S. H. Low, "An example of instability in XCP," {Online}. Available: http://netlab.caltech. edu/lachlan/abstract/xcpInstability.pdf, unpublished.

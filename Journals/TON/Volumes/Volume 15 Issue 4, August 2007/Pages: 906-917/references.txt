@@ -1,0 +1,36 @@
+S. Blake , D. Black , M. Carlson , E. Davies , Z. Wang , W. Weiss, An Architecture for Differentiated Service, RFC Editor, 1998
+Pankaj Gupta , Nick McKeown, Packet classification on multiple fields, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.147-160, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316217]
+Florin Baboescu , George Varghese, Scalable packet classification, Proceedings of the 2001 conference on Applications, technologies, architectures, and protocols for computer communications, p.199-210, August 2001, San Diego, California, USA[doi>10.1145/383059.383075]
+P. Gupta , N. McKeown, Algorithms for packet classification, IEEE Network: The Magazine of Global Internetworking, v.15 n.2, p.24-32, March 2001[doi>10.1109/65.912717]
+V. P. Kumar , T. V. Lakshman , D. Stiliadis, Beyond best effort: router architectures for the differentiated services of tomorrow's Internet, IEEE Communications Magazine, v.36 n.5, p.152-164, May 1998[doi>10.1109/35.668286]
+V. Srinivasan , S. Suri , G. Varghese, Packet classification using tuple space search, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.135-146, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316216]
+J. van Lunteren , T. Engbersen, Fast and scalable packet classification, IEEE Journal on Selected Areas in Communications, v.21 n.4, p.560-571, September 2006[doi>10.1109/JSAC.2003.810527]
+Huan Liu, Efficient Mapping of Range Classifier into Ternary-CAM, Proceedings of the 10th Symposium on High Performance Interconnects HOT Interconnects, p.95, August 21-23, 2002
+V. Srinivasan , G. Varghese , S. Suri , M. Waldvogel, Fast and scalable layer four switching, Proceedings of the ACM SIGCOMM '98 conference on Applications, technologies, architectures, and protocols for computer communication, p.191-202, August 31-September 04, 1998, Vancouver, British Columbia, Canada[doi>10.1145/285237.285282]
+T. V. Lakshman , D. Stiliadis, High-speed policy-based packet forwarding using efficient multi-dimensional range matching, Proceedings of the ACM SIGCOMM '98 conference on Applications, technologies, architectures, and protocols for computer communication, p.203-214, August 31-September 04, 1998, Vancouver, British Columbia, Canada[doi>10.1145/285237.285283]
+{11} A. Feldmann and S. Muthukrishnan, "Tradeoffs for packet classification," inProc. IEEE INFOCOM, Mar. 2000, pp. 1193-1202.
+{12} T. Woo, "A modular approach to packet classification: Algorithms and results," inProc. IEEE INFOCOM, Mar. 2000, pp. 1213-1222.
+{13} P. Gupta and N. McKeown, "Packet classification using hierarchical intelligent cuttings," presented at the Hot Interconnects VII, Aug. 1999.
+{14} F. Baboescu, S. Singh, and G. Varghese, "Packet classification for core routers: Is there an alternative to CAMS?," inProc. IEEE INFOCOM, Mar. 2003, pp. 53-63.
+Milind M. Buddhikot , Subhash Suri , Marcel Waldvogel, Space Decomposition Techniques for Fast Layer-4 Switching, Proceedings of the IFIP TC6 WG6.1 & WG6.4 / IEEE ComSoc TC on on Gigabit Networking Sixth International Workshop on Protocols for High Speed Networks VI, p.25-42, August 25-27, 1999
+Comparative Evaluation of Software Implementation of Layer-4 Packet Classification Schemes, Proceedings of the Ninth International Conference on Network Protocols, p.220, November 11-14, 2001
+Sumeet Singh , Florin Baboescu , George Varghese , Jia Wang, Packet classification using multidimensional cutting, Proceedings of the 2003 conference on Applications, technologies, architectures, and protocols for computer communications, August 25-29, 2003, Karlsruhe, Germany[doi>10.1145/863955.863980]
+Marcel Waldvogel , George Varghese , Jon Turner , Bernhard Plattner, Scalable high speed IP routing lookups, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.25-36, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263136]
+V. Srinivasan , G. Varghese, Fast address lookups using controlled prefix expansion, ACM Transactions on Computer Systems (TOCS), v.17 n.1, p.1-40, Feb. 1999[doi>10.1145/296502.296503]
+{20} P. Gupta, S. Lin, and N. McKeown, "Routing lookups in hardware at memory access speeds," inProc. IEEE INFOCOM, Mar. 1999, pp. 1240-1247.
+S. Nilsson , G. Karlsson, IP-address lookup using LC-tries, IEEE Journal on Selected Areas in Communications, v.17 n.6, p.1083-1092, September 2006[doi>10.1109/49.772439]
+Pi-Chung Wang , Chia-Tai Chan , Shuo-Cheng Hu , Chun-Liang Lee , Wei-Chun Tseng, High-speed packet classification for differentiated services in next-generation networks, IEEE Transactions on Multimedia, v.6 n.6, p.925-935, December 2004[doi>10.1109/TMM.2004.837263]
+{23} P. Warkhede, S. Suri, and G. Varghese, "Fast packet classification for two-dimensional conflict-free filters," inProc. IEEE INFOCOM, Mar. 2001, pp. 1434-1443.
+F. Baboescu , G. Varghese, Fast and scalable conflict detection for packet classifiers, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.42 n.6, p.717-735, 21 August 2003[doi>10.1016/S1389-1286(03)00213-5]
+Mikael Degermark , Andrej Brodnik , Svante Carlsson , Stephen Pink, Small forwarding tables for fast routing lookups, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.3-14, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263133]
+Yehuda Afek , Omer Ben-Shalom , Anat Bremler-Barr, On the structure and application of BGP policy atoms, Proceedings of the 2nd ACM SIGCOMM Workshop on Internet measurment, November 06-08, 2002, Marseille, France[doi>10.1145/637201.637234]
+{27} M. E. Kounavis, A. Kumar, H. Vin, R. Yavatkar, and A. T. Campbell, "Directions in packet classification for network processors," inProc. 2nd Workshop on Network Processors, Feb. 2003.
+{28} D. E. Taylor and J. S. Turner, "ClassBench: A packet classification benchmark," inProc. IEEE INFOCOM, Mar. 2005.
+{29} S. Bradner, "Next generation routers. Overview,"Networld Interop., 1997.
+{30} P. C. Wang, C. T. Chan, and Y. C. Chen, "A fast IP routing lookup scheme,"IEEE Commun. Lett., vol. 5, pp. 125-127, Mar. 2001.
+Haoyu Song , Sarang Dharmapurikar , Jonathan Turner , John Lockwood, Fast hash table lookup using extended bloom filter: an aid to network processing, Proceedings of the 2005 conference on Applications, technologies, architectures, and protocols for computer communications, August 22-26, 2005, Philadelphia, Pennsylvania, USA[doi>10.1145/1080091.1080114]
+{32} Abilene NetFlow Nightly Rep., 2002, {Online}. Available: http://www. itec.oar.net/abilene-netflow/.
+{33} Abilene Network, 2004, {Online}. Available: http://abilene.internet2. edu/.
+{34} NLANR Project Nat. Lab. Appl. Netw. Res., 2004, {Online}. Available: http://www.nlanr.net
+{35} S. Singh and F. Baboescu, Packet Classification Repository, 2004, {On-line}. Available: http://ial.ucsd.edu/classification.
+{36} P. Gupta, Research Interests, Talks and Publications, 2004, {Online}. Available: http://klamath.stanford.edu/ pankaj/research.html.

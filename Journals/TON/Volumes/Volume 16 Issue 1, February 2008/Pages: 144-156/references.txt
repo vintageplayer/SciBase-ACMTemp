@@ -1,0 +1,35 @@
+{1} E. C. Chow, J. Bicknell, S. McCaughey, and S. Syed, "A fast distributed network restoration algorithm," inProc. Computers and Communications, Tempe, AZ, Mar. 1993, pp. 261-267.
+{2} H. Komine, T. Chujo, T. Ogura, K. Miyazaki, and T. Soejima, "A distributed restoration algorithm for multiple-link and node failures of transport networks," inProc. IEEE GLOBECOM, San Diego, CA, Dec. 1990, vol. 1, pp. 459-463.
+{3} R. R. Iraschko, W. Grover, and M. MacGregor, "A distributed real time path restoration protocol with performance close to centralized multi-commodity max flow," inProc. 1st Int. Conf. Design of Reliable Communication Networks, Brugge, Belgium, May 1998, paper O9.
+{4} B. T. Doshi, S. Dravida, P. Harshavardhana, O. Hauser, and Y. Wang, "Optical network design and restoration,"Bell Labs. Tech. J., vol. 4, no. 1, pp. 58-84, Jan./Mar. 1999.
+{5} J. Anderson, B. Doshi, S. Dravida, and P. Harshavardhana, "Fast restoration of ATM networks,"IEEE J. Sel. Areas Commun., vol. 12, no. 1, pp. 128-138, Jan. 1994.
+{6} S. S. Lumetta, M. Médard, and Y.-C. Tseng, "Capacity versus robustness: A tradeoff for link restoration in mesh networks,"J. Lightw. Technol., vol. 18, no. 12, pp. 1765-1775, Dec. 2000.
+S. Venkatesan , Maulin Patel , Neeraj Mittal, A Distributed Algorithm for Path Restoration in Circuit Switched Communication Networks, Proceedings of the 24th IEEE Symposium on Reliable Distributed Systems, p.226-236, October 26-28, 2005[doi>10.1109/RELDIS.2005.5]
+Yijun Xiong , Lorne G. Mason, Restoration strategies and spare capacity requirements in self-healing ATM networks, IEEE/ACM Transactions on Networking (TON), v.7 n.1, p.98-110, Feb. 1999[doi>10.1109/90.759330]
+P. Demeester , M. Gryseels , A. Autenrieth , C. Brianza , L. Castagna , G. Signorelli , R. Clemenfe , M. Ravera , A. Jajszczyk , D. Janukowicz , K. Van Doorselaere , Y. Harada, Resilience in multilayer networks, IEEE Communications Magazine, v.37 n.8, p.70-76, August 1999[doi>10.1109/35.783128]
+W. Lai , D. McDysan, Network Hierarchy and Multilayer Survivability, RFC Editor, 2002
+Lu Shen , Xi Yang , Byrav Ramamurthy, Shared risk link group (SRLG)-diverse path provisioning under hybrid service level agreements in wavelength-routed optical mesh networks, IEEE/ACM Transactions on Networking (TON), v.13 n.4, p.918-931, August 2005[doi>10.1109/TNET.2005.852879]
+Dahai Xu , Yizhi Xiong , Chunming Qiao , Guangzhi Li, Failure protection in layered networks with shared risk link groups, IEEE Network: The Magazine of Global Internetworking, v.18 n.3, p.36-41, May 2004[doi>10.1109/MNET.2004.1301021]
+{13} V. Jain, S. Alagar, S. I. Baig, and S. Venkatesan, "Optimal quasi-path restoration in telecom backbone networks," inProc. 13th Int. Conf. Systems Engineering, Las Vegas, NV, Aug. 1999, pp. CS-175-CS-180.
+{14} R. R. Iraschko, M. H. MacGregor, and W. D. Grover, "Optimal capacity placement for path restoration in mesh survivable network," inProc. IEEE Int. Conf. Communications (ICC), Dallas, TX, Jun. 1996, vol. 3, pp. 1568-1574.
+{15} K. Murakami and H. S. Kim, "Joint optimization of capacity and flow assignment for self-healing ATM networks," inProc. IEEE Int. Conf. Communications (ICC), Seattle, WA, Jun. 1995, vol. 1, pp. 216-220.
+Andrew V. Goldberg , Robert E. Tarjan, A new approach to the maximum-flow problem, Journal of the ACM (JACM), v.35 n.4, p.921-940, Oct. 1988[doi>10.1145/48014.61051]
+{17} S. Even, A. Itai, and A. Shamir, "On the complexity of timetable and multi-commodity flow problems,"SIAM J. Comput., vol. 5, no. 4, pp. 691-703, 1976.
+{18} D. A. Dunn, W. D. Grover, and M. H. MacGregor, "Comparison of k-shortest paths and maximum flow routing for network facility restoration,"IEEE J. Sel. Areas Commun., vol. 12, no. 1, pp. 88-99, Jan. 1994.
+{19} G. Shen and W. D. Grover, "Segment-based approaches to survivable translucent network design under various ultra-long-haul system reach capabilities,"OSA J. Opt. Netw., vol. 3, no. 1, pp. 1-24, Jan. 2004.
+Krishna Phani Gummadi , Madhavarapu Jnana Pradeep , C. Siva Ram Murthy, An efficient primary-segmented backup scheme for dependable real-time communication in multihop networks, IEEE/ACM Transactions on Networking (TON), v.11 n.1, p.81-94, February 2003[doi>10.1109/TNET.2002.808405]
+Pin-Han Ho , János Tapolcai , Tibor Cinkler, Segment shared protection in mesh communications networks with bandwidth guaranteed tunnels, IEEE/ACM Transactions on Networking (TON), v.12 n.6, p.1105-1118, December 2004[doi>10.1109/TNET.2004.838592]
+Dahai Xu , Yizhi Xiong , Chunming Qiao, Novel algorithms for shared segment protection, IEEE Journal on Selected Areas in Communications, v.21 n.8, p.1320-1331, September 2006[doi>10.1109/JSAC.2003.816624]
+Meir Herzberg , Stephen J. Bye , Anthony Utano, The hop-limit approach for spare-capacity assignment in survivable networks, IEEE/ACM Transactions on Networking (TON), v.3 n.6, p.775-784, Dec. 1995[doi>10.1109/90.477723]
+{24} M. Herzberg, D. Wells, and A. Herschtal, "Optimal resource allocation for path restoration in mesh-type self-healing networks," inProc. 15th Int. Teletraffic Congr., Washington, DC, Jun. 1997, vol. 15, pp. 351-360.
+Rainer R. Iraschko , M. H. MacGregor , Wayne D. Grover, Optimal capacity placement for path restoration in STM or ATM mesh-survivable networks, IEEE/ACM Transactions on Networking (TON), v.6 n.3, p.325-336, June 1998[doi>10.1109/90.700896]
+{26} T. H. Oh, T. M. Chen, and J. L. Kennington, "Fault restoration and spare capacity allocation with QoS constraints for MPLS networks," inProc. IEEE Global Communications Conf., San Francisco, CA, Nov. 2000, pp. 1731-1735.
+{27} D. Medhi and D. Tipper, "Some approaches to solving a multihour broadband network capacity design problem with single-path routing,"Telecommun. Syst., vol. 13, no. 2, pp. 269-291, 2000.
+B. Van Caenegem , W. Van Parys , F. De Turck , P. M. Demeester, Dimensioning of survivable WDM networks, IEEE Journal on Selected Areas in Communications, v.16 n.7, p.1146-1157, September 2006[doi>10.1109/49.725185]
+{29} Y. Liu, D. Tipper, and P. Siripongwutikorn, "Approximating optimal spare capacity allocation by successive survivable routing," inProc. IEEE INFOCOM, Anchorage, AK, Apr. 2001, vol. 2, pp. 699-708.
+Sebastian Orlowski , Roland Wessäly, Comparing Restoration Concepts Using Optimal Network Configurations with Integrated Hardware and Routing Decisions, Journal of Network and Systems Management, v.13 n.1, p.99-118, March     2005[doi>10.1007/s10922-005-1864-3]
+{31} T. C. Hu, "Multi-commodity network flows,"Oper. Res., vol. 11, pp. 344-360, May/Jun. 1963.
+Alon Itai, Two-Commodity Flow, Journal of the ACM (JACM), v.25 n.4, p.596-611, Oct. 1978[doi>10.1145/322092.322100]
+{33} B. Awerbuch, "Reducing complexities of the distributed max-flow and breadth-first-search algorithms by means of network synchronization,"Networks, vol. 15, no. 4, pp. 425-437, 1985.
+{34} Digital cross-connect systems in transport network survivability Bellcore, Special Report SR-NWT-002514, Jan. 1993, Issue 1.
+{35}Using the CPLEX Callable Library. Incline Village, NV: ILOG Inc., 1997.

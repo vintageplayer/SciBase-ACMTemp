@@ -1,0 +1,30 @@
+R. Callon, P. Doolan, N. Feldman, A. Fredette, and G. Swallow, "A framework for multiprotocol label switching," Internet Engineering Task Force, IETF Tech. Rep. draft-ietf-mpls-framework-02.txt, Nov. 1997.
+Girish P. Chandranmenon , George Varghese, Trading packet headers for packet processing, IEEE/ACM Transactions on Networking (TON), v.4 n.2, p.141-152, April 1996[doi>10.1109/90.490742]
+G. Cheung and S. McCanne, "Optimal routing table design for ip address lookups under memory constraints," in Proc. IEEE INFOCOM, Mar. 1999, pp. 1437-1444.
+T. C. Chiueh and P. Pradhan, "High performance IP routing table lookup using CPU caching," in Proc. IEEE1NFOCOM, Mar. 1999, pp. 1421-1428.
+B. Davie, P. Doolan, and Y. Rekhter, Switching in IP Networks. San Mateo, CA: Morgan Kaufmann, 1998.
+Mikael Degermark , Andrej Brodnik , Svante Carlsson , Stephen Pink, Small forwarding tables for fast routing lookups, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.3-14, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263133]
+R. P. Draves, C. King, S. Venkatachary, and B. D. Zill, "Constructing optimal IP routing tables," in Proc. IEEE INFOCOM, Mar. 1999, pp. 88-97.
+Timothy G. Griffin , Gordon Wilfong, An analysis of BGP convergence properties, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.277-288, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316231]
+P. Gupta, S. Lin, and N. McKeown, "Routing lookups in hardware at memory access speeds," in Proc. 1EEE INFOCOM, Apr. 1998, pp. 1240-1247.
+Bassam Halabi, Internet Routing Architectures, Cisco Press, 1997
+N. F. Huang, S. M. Zhao, J. Y. Pan, and C. A. Su, "A fast IP routing lookup scheme for gigabit switching routers," in Proc. IEEEINFOCOM, Mar. 1999, pp. 1429-1436.
+Craig Labovitz , G. Robert Malan , Farnam Jahanian, Internet routing instability, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.115-126, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263151]
+---, "Origins of Internet routing instability," in Proc. IEEE IN- FOCOM, Mar. 1999, pp. 218-226. AFEK et al.: ROUTING WITH A CLUE
+T. V. Lakshman , D. Stiliadis, High-speed policy-based packet forwarding using efficient multi-dimensional range matching, Proceedings of the ACM SIGCOMM '98 conference on Applications, technologies, architectures, and protocols for computer communication, p.203-214, August 31-September 04, 1998, Vancouver, British Columbia, Canada[doi>10.1145/285237.285283]
+B. Lampson, V. Srinivasan, and G. Varghese, "IP lookups using multiway and multicolumn search," in Proc. IEEE INFOCOM, Mar. 1998, pp. 1248-1256.
+A. McAuley and "?. Francis, "Fast routing table lookup using CAMs," in Proc. IEEE INFOCOM, Mar. 1993, pp. 1382-1391.
+A. J. McAuley, P. F. Tsuchiya, and D. V. Wilson, "Fast multilevel hierachical routing table using content-addressable memory," U.S. Patent 034444, Jan. 1955.
+IPMA statistics. {Online}. Available: http://nic.merit.edu/ipma.
+Tim Moors , Antonio Cantoni, Cascading Content-Addressable Memories, IEEE Micro, v.12 n.3, p.56-66, May 1992[doi>10.1109/40.141603]
+P. Newman , G. Minshall , T. Lyon , L. Huston, IP switching and gigabit routers, IEEE Communications Magazine, v.35 n.1, p.64-69, January 1997[doi>10.1109/35.568212]
+S. Nilsson , G. Karlsson, Fast address look-up for internet routers, Proceedings of the IFIP TC6/WG6.2 Fourth International Conference on Broadband Communications: The future of telecommunications, p.11-22, April 01-03, 1998
+C. Partridge, "Lccality and route caches," in NFS Workshop lnternet Statistics Measurement and Analysis, Feb. 1996.
+Radia Perlman, Interconnections: bridges and routers, Addison Wesley Longman Publishing Co., Inc., Redwood City, CA, 1992
+Y. Rekhter , B. Davie , D. Katz , E. Rosen , G. Swallow, Cisco Systems' Tag Switching Architecture Overview, RFC Editor, 1997
+E. Rosen , A. Viswanathan , R. Callon, Multiprotocol Label Switching Architecture, RFC Editor, 2001
+M. Karels, S. Leffler, M. McKusick, and J. Quarterman, The Design and Implementation qrthe 4.3 BSD UNIX. Reading, MA: Addison-Wesley, 1988.
+K. Sklower, "'A tree-based routing table for Berkeley Unix," Univ. of California, Berkeley, Tech. Rep., 1993.
+V. Srinivasan , George Varghese, Faster IP lookups using controlled prefix expansion, Proceedings of the 1998 ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems, p.1-10, June 22-26, 1998, Madison, Wisconsin, USA[doi>10.1145/277851.277863]
+V. Srinivasan , G. Varghese , S. Suri , M. Waldvogel, Fast and scalable layer four switching, Proceedings of the ACM SIGCOMM '98 conference on Applications, technologies, architectures, and protocols for computer communication, p.191-202, August 31-September 04, 1998, Vancouver, British Columbia, Canada[doi>10.1145/285237.285282]
+Marcel Waldvogel , George Varghese , Jon Turner , Bernhard Plattner, Scalable high speed IP routing lookups, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.25-36, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263136]

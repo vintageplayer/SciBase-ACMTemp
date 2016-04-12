@@ -1,0 +1,66 @@
+Peng Yang , Wen Luo , Lisong Xu , Jitender Deogun , Ying Lu, TCP Congestion Avoidance Algorithm Identification, Proceedings of the 2011 31st International Conference on Distributed Computing Systems, p.310-321, June 20-24, 2011
+V. Jacobson, Congestion avoidance and control, Symposium proceedings on Communications architectures and protocols, p.314-329, August 16-18, 1988, Stanford, California, USA
+Dah-Ming Chiu , Raj Jain, Analysis of the increase and decrease algorithms for congestion avoidance in computer networks, Computer Networks and ISDN Systems, v.17 n.1, p.1-14, June 10, 1989
+Ao Tang , Jiantao Wang , Steven H. Low , Mung Chiang, Equilibrium of heterogeneous congestion control: existence and uniqueness, IEEE/ACM Transactions on Networking (TON), v.15 n.4, p.824-837, August 2007
+K. Munir, M. Welzl, and D. Damjanovic, "Linux beats Windows!--Or the worrying evolution of TCP in common operating systems," inProc. PFLDNet, Marina Del Rey, CA, USA, Feb. 2007, pp. 1-6.
+Michele C. Weigle , Pankaj Sharma , Jesse R. Freeman, Performance of competing high-speed TCP flows, Proceedings of the 5th international IFIP-TC6 conference on Networking Technologies, Services, and Protocols; Performance of Computer and Communication Networks; Mobile and Wireless Communications Systems, May 15-19, 2006, Coimbra, Portugal
+I. Rhee and L. Xu, "CUBIC: A new TCP-friendly high-speed TCP variant," inProc. PFLDNet, Feb. 2005, pp. 1-6.
+K. Tan, J. Song, Q. Zhang, and M. Sridharan, "A compound TCP approach for high-speed and long distance networks," inProc. IEEE INFOCOM, Barcelona, Spain, Apr. 2006, pp. 1-12.
+E. Kohler, M. Handley, and S. Floyd, "Datagram congestion control protocol (DCCP)," RFC 4340, Mar. 2006.
+R. Stewart, "Stream control transmission protocol," RFC 4960, Sep. 2007.
+Guido Appenzeller , Isaac Keslassy , Nick McKeown, Sizing router buffers, Proceedings of the 2004 conference on Applications, technologies, architectures, and protocols for computer communications, August 30-September 03, 2004, Portland, Oregon, USA
+L. Xu, K. Harfoush, and I. Rhee, "Binary increase congestion (BIC) control for fast long-distance networks," inProc. IEEE INFOCOM, Hong Kong, Mar. 2004, pp. 2514-2524.
+Sangtae Ha , Injong Rhee , Lisong Xu, CUBIC: a new TCP-friendly high-speed TCP variant, ACM SIGOPS Operating Systems Review, v.42 n.5, p.64-74, July 2008
+S. Floyd, HighSpeed TCP for Large Congestion Windows, RFC Editor, 2003
+R. N. Shorten and D. J. Leith, "H-TCP: TCP for high-speed and long-distance networks," inProc. PFLDNet, Argonne, IL, Feb. 2004, pp. 1-6.
+C. Caini and R. Firrincieli, "TCP-Hybla: A TCP enhancement for heterogeneous networks,"Int. J. Satell. Commun. Netw., vol. 22, no. 5, pp. 547-566, Sep. 2004.
+Shao Liu , Tamer Başar , R. Srikant, TCP-Illinois: a loss and delay-based congestion control algorithm for high-speed networks, Proceedings of the 1st international conference on Performance evaluation methodolgies and tools, October 11-13, 2006, Pisa, Italy
+A. Kuzmanovic and E. W. Knightly, "TCP-LP: A distributed algorithm for low priority data transfer," inProc. IEEE INFOCOM, San Francisco, CA, USA, Apr. 2003, pp. 1691-1701.
+Tom Kelly, Scalable TCP: improving performance in highspeed wide area networks, ACM SIGCOMM Computer Communication Review, v.33 n.2, April 2003
+Lawrence S. Brakmo , Sean W. O'Malley , Larry L. Peterson, TCP Vegas: new techniques for congestion detection and avoidance, Proceedings of the conference on Communications architectures, protocols and applications, p.24-35, August 31-September 02, 1994, London, United Kingdom
+Cheng Peng Fu , S. C. Liew, TCP Veno: TCP enhancement for transmission over wireless access networks, IEEE Journal on Selected Areas in Communications, v.21 n.2, p.216-228, September 2006
+Saverio Mascolo , Claudio Casetti , Mario Gerla , M. Y. Sanadidi , Ren Wang, TCP westwood: Bandwidth estimation for enhanced transport over wireless links, Proceedings of the 7th annual international conference on Mobile computing and networking, p.287-297, July 2001, Rome, Italy
+A. Baiocchi, A. Castellani, and F. Vacirca, "YeAH-TCP: Yet another highspeed TCP," inProc. PFLDNET, Los Angeles, CA, USA, Feb. 2007, pp. 1-6.
+Ipoque, Leipzig, Germany, "Internet study 2008/2009," 2009 [Online]. Available: http://www.ipoque.com/en/resources/internet-studies
+Sandvine, Inc., Waterloo, ON, Canada, "Global Internet phenomena report," 2012 [Online]. Available: http://www.sandvine.com/news/ global_broadband_trends.asp
+M. Allman , V. Paxson , W. Stevens, TCP Congestion Control, RFC Editor, 1999
+M. Allman , S. Floyd , C. Partridge, Increasing TCP's Initial Window, RFC Editor, 2002
+Nandita Dukkipati , Tiziana Refice , Yuchung Cheng , Jerry Chu , Tom Herbert , Amit Agarwal , Arvind Jain , Natalia Sutin, An argument for increasing TCP's initial congestion window, ACM SIGCOMM Computer Communication Review, v.40 n.3, July 2010
+S. Floyd, Limited Slow-Start for TCP with Large Congestion Windows, RFC Editor, 2004
+S. Ha and I. Rhee, "Hybrid slow start for high-bandwidth and long-distance networks," inProc. PFLDNET, Manchester, U.K., Mar. 2008, pp. 1-6.
+M. Allman, V. Paxson, and E. Blanton, "TCP congestion control," RFC 5681, Sep. 2009.
+S. Floyd , T. Henderson , A. Gurtov, The NewReno Modification to TCP's Fast Recovery Algorithm, RFC Editor, 2004
+M. Mathis , J. Mahdavi , S. Floyd , A. Romanow, TCP Selective Acknowledgement Options, RFC Editor, 1996
+S. Floyd , J. Mahdavi , M. Mathis , M. Podolsky, An Extension to the Selective Acknowledgement (SACK) Option for TCP, RFC Editor, 2000
+Jitendra Pahdye , Sally Floyd, On inferring TCP behavior, Proceedings of the 2001 conference on Applications, technologies, architectures, and protocols for computer communications, p.287-298, August 2001, San Diego, California, USA
+Junpei Oshio , Shingo Ata , Ikuo Oka, Identification of Different TCP Versions Based on Cluster Analysis, Proceedings of the 2009 Proceedings of 18th International Conference on Computer Communications and Networks, p.1-6, August 03-06, 2009
+S. Feyzabadi and J. Schonwalder, "Identifying TCP congestion control algorithms using active probing," presented at the PAM, Zurich, Switzerland, Apr. 2010, Poster.
+P. Yang, W. Luo, and L. Xu, "Towards measuring the deployment information of different TCP congestion control algorithms: The multiplicative decrease parameter," inProc. IEEE GLOBECOM, Miami, FL, USA, Dec. 2010, pp. 1-5.
+Douglas E. Comer , John C. Lin, Probing TCP implementations, Proceedings of the USENIX Summer 1994 Technical Conference on USENIX Summer 1994 Technical Conference, p.17-17, June 06-10, 1994, Boston, Massachusetts
+Alberto Medina , Mark Allman , Sally Floyd, Measuring the evolution of transport protocols in the internet, ACM SIGCOMM Computer Communication Review, v.35 n.2, April 2005
+"Network Mapper (NMAP)," [Online]. Available: http://nmap.org/
+Vern Paxson, Automated packet trace analysis of TCP implementations, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.167-179, September 14-18, 1997, Cannes, France
+Yin Zhang , Lee Breslau , Vern Paxson , Scott Shenker, On the characteristics and origins of internet flow rates, Proceedings of the 2002 conference on Applications, technologies, architectures, and protocols for computer communications, August 19-23, 2002, Pittsburgh, Pennsylvania, USA
+S. Jaiswal, G. Iannaccone, C. Diot, J. Kurose, and D. Towsley, "Inferring TCP connection characteristics through passive measurements," inProc. IEEE INFOCOM, Hong Kong, Mar. 2004, pp. 1582-1592.
+S. Rewaskar, J. Kaur, and F. Smith, "A performance study of loss detection/ recovery in real-world TCP implementations," inProc. IEEE ICNP, Beijing, China, Oct. 2007, pp. 256-265.
+Feng Qian , Alexandre Gerber , Zhuoqing Morley Mao , Subhabrata Sen , Oliver Spatscheck , Walter Willinger, TCP revisited: a fresh look at TCP in the wild, Proceedings of the 9th ACM SIGCOMM conference on Internet measurement conference, November 04-06, 2009, Chicago, Illinois, USA
+N. Seddigh and M. Devetsikiotis, "Studies of TCP's retransmission timeout mechanism," inProc. IEEE ICC, Helsinki, Finland, Jun. 2001, pp. 1834-1840.
+Pasi Sarolahti , Alexey Kuznetsov, Congestion Control in Linux TCP, Proceedings of the FREENIX Track: 2002 USENIX Annual Technical Conference, p.49-62, June 10-15, 2002
+D. Wei, S. Hegdesan, and S. Low, "A burstiness control for TCP," inProc. PFLDNet, Feb. 2005, pp. 1-6.
+P. Sarolahti, M. Kojo, K. Yamamoto, and M. Hata, "Forward RTO-recovery (F-RTO): An algorithm for detecting spurious retransmission timeouts with TCP," RFC 5682, Sep. 2009.
+"HTTrack website copier," 2013 [Online]. Available: http://www.httrack.com/
+PlanetLab, "An open platform for developing, deploying, and accessing planetary-scale service," 2002 [Online]. Available: http://www.planet-lab.org/
+H. Perros, "Computer simulation techniques--The definitive introduction," 2003 [Online]. Available: http://www.csc.ncsu. edu/faculty/perros/simulation.pdf
+The University of Waikato, Hamilton, New Zealand, "Weka 3: Data mining software in Java," 2013 [Online]. Available: http://www.cs. waikato.ac.nz/ml/weka/
+J. Shao, "Identification of TCP algorithms," Master thesis, Department of Computer Science and Engineering, University of Nebraska-Lincoln, Lincoln, NE, USA, Dec. 2012.
+Leo Breiman, Random Forests, Machine Learning, v.45 n.1, p.5-32, October 1 2001
+S. Hemminger, "Network emulation with NetEm," inProc. 6th Australia's Nat. Linux Conf., Apr. 2005, pp. 1-9.
+"Tcpdump," 2010 [Online]. Available: http://www.tcpdump.org/
+Alexa Internet, Inc., "Top 500 global sites," 2013 [Online]. Available: http://www.alexa.com/topsites
+Department of Energy, Energy Sciences Network, Berkeley, CA, USA, "Linux tuning," 2012 [Online]. Available: http://fasterdata.es.net/hosttuning/ linux/
+TestMy Net, LLC, "How to setup a speed test server," 2013 [Online]. Available: http://testmy.net/make-a-speed-test
+Naimul Basher , Aniket Mahanti , Anirban Mahanti , Carey Williamson , Martin Arlitt, A comparative analysis of web and peer-to-peer traffic, Proceedings of the 17th international conference on World Wide Web, April 21-25, 2008, Beijing, China
+C. Jin, D. X. Wei, and S. H. Low, "Fast TCP: motivation, architecture, algorithms, performance," inProc. IEEE INFOCOM, Hong Kong, Mar. 2004, pp. 2490-2501.
+Dina Katabi , Mark Handley , Charlie Rohrs, Congestion control for high bandwidth-delay product networks, Proceedings of the 2002 conference on Applications, technologies, architectures, and protocols for computer communications, August 19-23, 2002, Pittsburgh, Pennsylvania, USA
+Yong Xia , Lakshminarayanan Subramanian , Ion Stoica , Shivkumar Kalyanaraman, One more bit is enough, Proceedings of the 2005 conference on Applications, technologies, architectures, and protocols for computer communications, August 22-26, 2005, Philadelphia, Pennsylvania, USA
+Sumitha Bhandarkar , A. L. Narasimha Reddy , Yueping Zhang , Dimitri Loguinov, Emulating AQM from end hosts, Proceedings of the 2007 conference on Applications, technologies, architectures, and protocols for computer communications, August 27-31, 2007, Kyoto, Japan

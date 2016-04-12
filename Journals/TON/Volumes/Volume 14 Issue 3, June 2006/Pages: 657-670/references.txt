@@ -1,0 +1,32 @@
+S. Blake , D. Black , M. Carlson , E. Davies , Z. Wang , W. Weiss, An Architecture for Differentiated Service, RFC Editor, 1998
+K. Nichols , V. Jacobson , L. Zhang, A Two-bit Differentiated Services Architecture for the Internet, RFC Editor, 1999
+{3} A. Terzis, L. Wang, J. Ogawa, and L. Zhang, "A two-tier resource management model for the Internet," inProc. IEEE GLOBECOM, 1999, vol. 3, pp. 1779-1791.
+Zhi-Li Zhang , Zhenhai Duan , Lixin Gao , Yiwei Thomas Hou, Decoupling QoS control from core routers: a novel bandwidth broker architecture for scalable support of guaranteed services, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.71-83, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347403]
+Xipeng Xiao , A. Hannan , B. Bailey , L. M. Ni, Traffic engineering with MPLS in the Internet, IEEE Network: The Magazine of Global Internetworking, v.14 n.2, p.28-33, March 2000[doi>10.1109/65.826369]
+D. Awduche , J. Malcolm , J. Agogbua , M. O'Dell , J. McManus, Requirements for Traffic Engineering Over MPLS, RFC Editor, 1999
+F. P. Kelly , P. B. Key , S. Zachary, Distributed admission control, IEEE Journal on Selected Areas in Communications, v.18 n.12, p.2617-2628, September 2006[doi>10.1109/49.898741]
+E. Mykoniati , C. Charalampous , P. Georgatsos , T. Damilatis , D. Goderis , P. Trimintzios , G. Pavlou , D. Griffin, Admission control for providing QoS in DiffServ IP networks: the TEQUILA approach, IEEE Communications Magazine, v.41 n.1, p.38-44, January 2003[doi>10.1109/MCOM.2003.1166652]
+{9} Y. Cheng and W. Zhuang, "Effective bandwidth of multiclass Markovian traffic sources and admission control with dynamic buffer partitioning,"IEEE Trans. Commun., vol. 51, no. 9, pp. 1524-1535, Sep. 2003.
+G. Armitage, MPLS: the magic behind the myths [multiprotocol label switching], IEEE Communications Magazine, v.38 n.1, p.124-131, January 2000[doi>10.1109/35.815462]
+G. Swallow, MPLS advantages for traffic engineering, IEEE Communications Magazine, v.37 n.12, p.54-57, December 1999[doi>10.1109/35.809385]
+E. Bouillet , D. Mitra , K. G. Ramakrishnan, The structure and management of service level agreements in networks, IEEE Journal on Selected Areas in Communications, v.20 n.4, p.691-699, September 2006[doi>10.1109/JSAC.2002.1003036]
+P. Trimintzios , I. Andrikopoulos , G. Pavlou , P. Flegkas , D. Griffin , P. Georgatsos , D. Goderis , Y. T'Joens , L. Georgiadis , C. Jacquenet , R. Egan, A management and control architecture for providing IP differentiated services in MPLS-based networks, IEEE Communications Magazine, v.39 n.5, p.80-88, May 2001[doi>10.1109/35.920861]
+{14} S. Wang, D. Xuan, R. Bettati, and W. Zhao, "Providing absolute differentiated services for real-time applications in static-priority scheduling networks," inProc. IEEE INFOCOM, 2001, vol. 2, pp. 669-678.
+Chie Dou , Fang-Ching Ou, Performance Study of Bandwidth Reallocation Algorithms for Dynamic Provisioning in Differential Services Networks, Proceedings of the The 15th International Conference on Information Networking, p.700, January 31-February 02, 2001
+{16} J. Qiu and E. W. Knightly, "Inter-class resource sharing using statistical service envelopes," inProc. IEEE INFOCOM, 1999, vol. 3, pp. 1404-1411.
+R. R. Boorstyn , A. Burchard , J. Liebeherr , C. Oottamakorn, Statistical service assurances for traffic scheduling algorithms, IEEE Journal on Selected Areas in Communications, v.18 n.12, p.2651-2664, September 2006[doi>10.1109/49.898747]
+C. Cetinkaya , V. Kanodia , E. W. Knightly, Scalable services via egress admission control, IEEE Transactions on Multimedia, v.3 n.1, p.69-81, March 2001[doi>10.1109/6046.909595]
+Jingyu Qiu , Edward W. Knightly, Measurement-based admission control with aggregate traffic envelopes, IEEE/ACM Transactions on Networking (TON), v.9 n.2, p.199-210, April 2001[doi>10.1109/90.917076]
+S. C. Borst , D. Mitra, Virtual partitioning for robust resource sharing: computational techniques for heterogeneous traffic, IEEE Journal on Selected Areas in Communications, v.16 n.5, p.668-678, September 2006[doi>10.1109/49.700904]
+{21} R. Garg and H. Saran, "Fair bandwidth sharing among virtual networks: A capacity resizing approach," inProc. IEEE INFOCOM, 2000, vol. 1, pp. 255-264.
+Arthur W. Berger , Ward Whitt, Effective bandwidths with priorities, IEEE/ACM Transactions on Networking (TON), v.6 n.4, p.447-460, Aug. 1998[doi>10.1109/90.720887]
+R. J. Gibbens , F. P. Kelly, Network programming methods for loss networks, IEEE Journal on Selected Areas in Communications, v.13 n.7, p.1189-1198, September 2006[doi>10.1109/49.414638]
+{24} P. B. Key, "Optimal control and trunk reservation in loss networks,"Prob. Eng. Info. Sci., vol. 4, pp. 203-242, 1990.
+P. Flegkas , P. Trimintzios , G. Pavlou, A policy-based quality of service management system for IP DiffServ networks, IEEE Network: The Magazine of Global Internetworking, v.16 n.2, p.50-56, March 2002[doi>10.1109/65.993223]
+V. Jacobson , K. Nichols , K. Poduri, An Expedited Forwarding PHB, RFC Editor, 1999
+J. Heinanen , F. Baker , W. Weiss , J. Wroclawski, Assured Forwarding PHB Group, RFC Editor, 1999
+{28} D. Mitra and K. G. Ramakrishnan, "A case study of multiservice, multipriority traffic engineering design for data networks," inProc. IEEE GLOBECOM, 1999, vol. 1B, pp. 1077-1083.
+Yu Cheng , Weihua Zhuang, DiffServ resource allocation for fast handoff in wireless mobile Internet, IEEE Communications Magazine, v.40 n.5, p.130-136, May 2002[doi>10.1109/35.1000224]
+Vern Paxson , Sally Floyd, Wide area traffic: the failure of Poisson modeling, IEEE/ACM Transactions on Networking (TON), v.3 n.3, p.226-244, June 1995[doi>10.1109/90.392383]
+A. Feldmann , A. C. Gilbert , W. Willinger , T. G. Kurtz, The changing nature of network traffic: scaling phenomena, ACM SIGCOMM Computer Communication Review, v.28 n.2, p.5-29, Apr. 1998[doi>10.1145/279345.279346]
+Sugih Jamin , Peter B. Danzig , Scott J. Shenker , Lixia Zhang, A measurement-based admission control algorithm for integrated service packet networks, IEEE/ACM Transactions on Networking (TON), v.5 n.1, p.56-70, Feb. 1997[doi>10.1109/90.554722]

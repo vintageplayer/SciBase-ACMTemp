@@ -1,0 +1,39 @@
+R. Ramaswamy , Ning Weng , T. Wolf, Analysis of Network Processing Workloads, Proceedings of the IEEE International Symposium on Performance Analysis of Systems and Software, 2005, p.226-235, March 20-22, 2005[doi>10.1109/ISPASS.2005.1430577]
+{2} P. Crowley, M. E. Fiuczynski, J.-L. Baer, and B. N. Bershad, "Workloads for programmable network interfaces," inWorkload Characterization for Computer System Design. Boston, MA: Kluwer Academic, 2000, ch. 7.
+{3} Y. Gottlieb and L. Peterson, "A comparative study of extensible routers," inProc. IEEE Open Architectures and Network Programming (OPENARCH), Jun. 2002, pp. 51-62.
+Andrew T. Campbell , Herman G. De Meer , Michael E. Kounavis , Kazuho Miki , John B. Vicente , Daniel Villela, A survey of programmable networks, ACM SIGCOMM Computer Communication Review, v.29 n.2, April 1999[doi>10.1145/505733.505735]
+{5} A. Barbir, R. Penno, R. Chen, M. Hofmann, and H. Orman, "An architecture for Open Pluggable Edge Services (OPES)," IETF RFC 3835, 2004.
+{6} B. Falchuk, J. Chiang, A. Hafid, Y.-H. Cheng, N. Natarjan, F. J. Lin, and H. Cheng, "An open service platform for deploying and managing services at network edges," inProc. IEEE Open Architectures and Network Programming (OPENARCH), San Francisco, CA, 2003.
+{7} S. Chong, M. Shin, J. Mo, and H.-W. Lee, "Flow control with processing constraint,"IEEE Commun. Lett., vol. 9, no. 10, pp. 957-959, Oct. 2005.
+A. Demers , S. Keshav , S. Shenker, Analysis and simulation of a fair queueing algorithm, ACM SIGCOMM Computer Communication Review, v.19 n.4, p.1-12, Sep. 1989[doi>10.1145/75247.75248]
+M. Shreedhar , George Varghese, Efficient fair queueing using deficit round robin, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.231-242, August 28-September 01, 1995, Cambridge, Massachusetts, USA[doi>10.1145/217382.217453]
+Sally Floyd , Van Jacobson, Random early detection gateways for congestion avoidance, IEEE/ACM Transactions on Networking (TON), v.1 n.4, p.397-413, Aug. 1993[doi>10.1109/90.251892]
+S. Athuraliya , S. H. Low , V. H. Li , Qinghe Yin, REM: active queue management, IEEE Network: The Magazine of Global Internetworking, v.15 n.3, p.48-53, May 2001[doi>10.1109/65.923940]
+{12} C. V. Hollot, V. Misra, D. Towsley, and W. B. Gong, "On designing improved controllers for AQM routers supporting TCP flows," inProc. IEEE INFOCOM, Anchorage, AK, Apr. 2001, pp. 1726-1734.
+Ion Stoica , Scott Shenker , Hui Zhang,Core-stateless fair queueing: achieving approximately fair bandwidth allocations in high speed networks, Proceedings of the ACM SIGCOMM '98 conference on Applications, technologies, architectures, and protocols for computer communication, p.118-130, August 31-September 04, 1998, Vancouver, British Columbia, Canada[doi>10.1145/285237.285273]
+{14} Z. Cao, Z. Wang, and E. W. Zegura, "Rainbow fair queueing: Fair bandwidth sharing without per-flow state," inProc. IEEE INFOCOM, Tel Aviv, Israel, Mar. 2000, pp. 922-931.
+{15} P. Pappu and T. Wolf, "Scheduling processing resources in programmable routers," inProc. IEEE INFOCOM, New York, Jun. 2002, pp. 104-112.
+F. Sabrina , C. D. Nguyen , S. Jha , D. Platt , F. Safaei, Processing resource scheduling in programmable networks, Computer Communications, v.28 n.6, p.676-687, April, 2005[doi>10.1016/j.comcom.2004.08.011]
+T. Wolf , M. Franklin, CommBench-a telecommunications benchmark for network processors, Proceedings of the 2000 IEEE International Symposium on Performance Analysis of Systems and Software, p.154-162, April 24-25, 2000
+Gokhan Memik , William H. Mangione-Smith , Wendong Hu, NetBench: a benchmarking suite for network processors, Proceedings of the 2001 IEEE/ACM international conference on Computer-aided design, November 04-08, 2001, San Jose, California
+{19} M. Tsai, C. Kulkarni, C. Sauer, N. Shah, and K. Keutzer, "A benchmarking methodology for network processors," inProc. 1st Network Processor Workshop, 8th Int. Symp. High Performance Computer Architectures (HPCA), Cambridge, MA, Feb. 2002.
+{20} F. P. Kelly, A. K. Maulloo, and D. K. H. Tan, "Rate control in communication networks: Shadow prices, proportional fairness and stability,"J. Oper. Res. Soc., vol. 49, pp. 237-252, Apr. 1998.
+Steven H. Low , David E. Lapsley, Optimization flow control—I: basic algorithm and convergence, IEEE/ACM Transactions on Networking (TON), v.7 n.6, p.861-874, Dec. 1999[doi>10.1109/90.811451]
+{22} D. P. Bertsekas,Nonlinear Programming, 2nd ed. Belmont, MA: Athena Scientific, 1999.
+Steven H. Low, A duality model of TCP and queue management algorithms, IEEE/ACM Transactions on Networking (TON), v.11 n.4, p.525-536, August 2003[doi>10.1109/TNET.2003.815297]
+{24} F. P. Kelly, "Mathematical modelling of the internet," inMathematics Unlimited--2001 and Beyond, B. Engquist and W. Schmid, Eds. Berlin, Germany: Springer Verlag, 2001, pp. 685-702.
+Vishal Misra , Wei-Bo Gong , Don Towsley, Fluid-based analysis of a network of AQM routers supporting TCP flows with an application to RED, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.151-160, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347421]
+Yong Liu , Francesco Lo Presti , Vishal Misra , Don Towsley , Yu Gu, Fluid models and solutions for large-scale IP networks, Proceedings of the 2003 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 11-14, 2003, San Diego, CA, USA[doi>10.1145/781027.781039]
+{27} C. V. Hollot, V. Misra, D. Towsley, and W.-B. Gong, "A control theoretic analysis of RED," inProc. IEEE INFOCOM, Anchorage, AK, Apr. 2001, pp. 1510-1519.
+Steven H. Low , Fernando Paganini , Jiantao Wang , John C. Doyle, Linear stability of TCP/RED and a scalable control, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.43 n.5, p.633-647, 5 December 2003[doi>10.1016/S1389-1286(03)00304-9]
+{29} Internet End-to-End Performance Monitoring Group (IEPM) 2006 {Online}. Available: http://www-iepm.slac.stanford.edu/
+K. Ramakrishnan , S. Floyd, A Proposal to add Explicit Congestion Notification (ECN) to IP, RFC Editor, 1999
+K. Ramakrishnan , S. Floyd , D. Black, The Addition of Explicit Congestion Notification (ECN) to IP, RFC Editor, 2001
+{32} H. Han, C. V. Hollot, Y. Chait, and V. Misra, "TCP networks stabilized by buffer-based AQMs," inProc. IEEE INFOCOM, Hong Kong, Mar. 2004, pp. 964-974.
+{33} ns-2 Network Simulator. 2000 {Online}. Available: http://www.isi.edu/ nsnam/ns/
+{34} S. Floyd, "Recommendations on using the Gentle variant of RED," Mar. 2000 {Online}. Available: http://www.aciri.org/floyd/red/gentle. html
+Jay Aikat , Jasleen Kaur , F. Donelson Smith , Kevin Jeffay, Variability in TCP round-trip times, Proceedings of the 3rd ACM SIGCOMM conference on Internet measurement, October 27-29, 2003, Miami Beach, FL, USA[doi>10.1145/948205.948241]
+Paul Barford , Mark Crovella, Generating representative Web workloads for network and server performance evaluation, Proceedings of the 1998 ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems, p.151-160, June 22-26, 1998, Madison, Wisconsin, USA[doi>10.1145/277851.277897]
+Vern Paxson , Sally Floyd, Wide area traffic: the failure of Poisson modeling, IEEE/ACM Transactions on Networking (TON), v.3 n.3, p.226-244, June 1995[doi>10.1109/90.392383]
+Kihong Park , Walter Willinger, Self-Similar Network Traffic and Performance Evaluation, John Wiley & Sons, Inc., New York, NY, 2000
+Hao Jiang , Constantinos Dovrolis, Passive estimation of TCP round-trip times, ACM SIGCOMM Computer Communication Review, v.32 n.3, p.75-88, July 2002[doi>10.1145/571697.571725]

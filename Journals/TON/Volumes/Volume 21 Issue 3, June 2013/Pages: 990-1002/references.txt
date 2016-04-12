@@ -1,0 +1,41 @@
+Y. Rekhter, T. Li, and S. Hares, "A Border Gateway Protocol 4 (BGP- 4)," RFC 4271, 2006.
+Laurent Vanbever , Stefano Vissicchio , Cristel Pelsser , Pierre Francois , Olivier Bonaventure, Seamless network-wide IGP migrations, Proceedings of the ACM SIGCOMM 2011 conference, August 15-19, 2011, Toronto, Ontario, Canada
+B. Fortz , M. Thorup, Optimizing OSPF/IS-IS weights in a changing world, IEEE Journal on Selected Areas in Communications, v.20 n.4, p.756-767, September 2006
+Timothy G. Griffin , Gordon Wilfong, On the correctness of IBGP configuration, Proceedings of the 2002 conference on Applications, technologies, architectures, and protocols for computer communications, August 19-23, 2002, Pittsburgh, Pennsylvania, USA
+S. Vissicchio, L. Cittadini, L. Vanbever, and O. Bonaventure, "iBGP deceptions: More sessions, fewer routes," inProc. IEEE INFOCOM, 2012, pp. 2122-2130.
+Simon Balon , Guy Leduc, Combined intra- and inter-domain traffic engineering using hot-potato aware link weights optimization, Proceedings of the 2008 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 02-06, 2008, Annapolis, MD, USA
+M. Brown, C. Hepner, and A. Popescu, "Internet captivity and de-peering," presented at the NANOG 45, 2009.
+S. Lee, T. Wong, and H. Kim, "To automate or not to automate: On the complexity of network configuration," inProc. IEEE ICC, Beijing, China, May 2008, pp. 5726-5731.
+P. Smith, "BGP techniques for service providers," presented at the NANOG 50, 2010.
+Gonzalo Gomez Herrero , Jan Anton Bernal van der Ven, Network Mergers and Migrations: Junos Design and Implementation, Wiley Publishing, 2010
+Randy Zhang , Micah Bartell, BGP Design and Implementation, Cisco Press, 2003
+Equinix, Inc., Redwood City, CA, "Equinix Direct," [Online]. Available: http://www.equinix.com/solutions/regional-solutions/ americas/equinix-direct/
+T. Bates, E. Chen, and R. Chandra, "BGP route reflection: An alternative to full mesh internal BGP (iBGP)," RFC 4456, 2006.
+Nick Feamster , Hari Balakrishnan, Detecting BGP configuration faults with static analysis, Proceedings of the 2nd conference on Symposium on Networked Systems Design & Implementation, p.43-56, May 02-04, 2005
+Timothy G. Griffin , F. Bruce Shepherd , Gordon Wilfong, The stable paths problem and interdomain routing, IEEE/ACM Transactions on Networking (TON), v.10 n.2, April 2002
+Timothy Griffin , Gordon T. Wilfong, Analysis of the MED Oscillation Problem in BGP, Proceedings of the 10th IEEE International Conference on Network Protocols, p.90-99, November 12-15, 2002
+Marc-Olivier Buob , Steve Uhlig , Mickael Meulle, Designing optimal iBGP route-reflection topologies, Proceedings of the 7th international IFIP-TC6 networking conference on AdHoc and sensor networks, wireless networks, next generation internet, May 05-09, 2008, Singapore
+C. Villamizar , R. Chandra , R. Govindan, BGP Route Flap Damping, RFC Editor, 1998
+S. Vissicchio, "Governing routing in the evolving Internet" Ph.D. dissertation, Roma Tre Univ., Rome, Italy, 2012 [Online]. Available: http://www.dia.uniroma3.it/~compunet/www/docs/vissicchio-thesis-text.pdf
+B. Quoitin , S. Uhlig, Modeling the routing of an autonomous system with C-BGP, IEEE Network: The Magazine of Global Internetworking, v.19 n.6, p.12-19, November 2005
+Craig Labovitz , Scott Iekel-Johnson , Danny McPherson , Jon Oberheide , Farnam Jahanian, Internet inter-domain traffic, Proceedings of the ACM SIGCOMM 2010 conference, August 30-September 03, 2010, New Delhi, India
+Steve Uhlig , Sébastien Tandel, Quantifying the BGP routes diversity inside a tier-1 network, Proceedings of the 5th international IFIP-TC6 conference on Networking Technologies, Services, and Protocols; Performance of Computer and Communication Networks; Mobile and Wireless Communications Systems, May 15-19, 2006, Coimbra, Portugal
+Cisco Systems, Inc., San Jose, CA, "Configuring virtual routing and forwarding," Official Cisco Documentation, 2010 [Online]. Available: http://www.cisco.com
+Vytautas Valancius , Nick Feamster, Multiplexing BGP sessions with BGP-Mux, Proceedings of the 2007 ACM CoNEXT conference, December 10-13, 2007, New York, New York
+P. Francois, B. Decraene, C. Pelsser, K. Patel, and C. Filsfils, "Graceful BGP session shutdown," Internet-Draft, Dec. 2011.
+DANTE, Cambridge, U.K., "GEANT backbone topology," 2011 [On-line]. Available: http://www.geant.net
+"Seamless BGP reconfigurations," 2012 [Online]. Available: http://inl. info.ucl.ac.be/softwares/
+Hitesh Ballani , Paul Francis , Tuan Cao , Jia Wang, Making routers last longer with ViAggre, Proceedings of the 6th USENIX symposium on Networked systems design and implementation, p.453-466, April 22-24, 2009, Boston, Massachusetts
+RIPE NCC, Amsterdam, The Netherlands, "RIPE routing information service (RIS)," [Online]. Available: http://www.ripe.net/ris
+Matthew Caesar , Donald Caldwell , Nick Feamster , Jennifer Rexford , Aman Shaikh , Jacobus van der Merwe, Design and implementation of a routing control platform, Proceedings of the 2nd conference on Symposium on Networked Systems Design & Implementation, p.15-28, May 02-04, 2005
+Ruichuan Chen , Aman Shaikh , Jia Wang , Paul Francis, Address-based route reflection, Proceedings of the Seventh COnference on emerging Networking EXperiments and Technologies, p.1-12, December 06-09, 2011, Tokyo, Japan
+Ratul Mahajan , David Wetherall , Tom Anderson, Understanding BGP misconfiguration, Proceedings of the 2002 conference on Applications, technologies, architectures, and protocols for computer communications, August 19-23, 2002, Pittsburgh, Pennsylvania, USA
+Anuj Rawat , Mark A. Shayman, Preventing persistent oscillations and loops in IBGP configuration with route reflection, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.50 n.18, p.3642-3665, 21 December 2006
+M. Vutukuru, P. Valiant, S. Kopparty, and H. Balakrishnan, "How to construct a correct and scalable iBGP configuration," inProc. IEEE INFOCOM, 2006, pp. 1-12.
+Timothy G. Griffin , Joäo Luís Sobrinho, Metarouting, Proceedings of the 2005 conference on Applications, technologies, architectures, and protocols for computer communications, August 22-26, 2005, Philadelphia, Pennsylvania, USA
+Richard Alimi , Ye Wang , Y. Richard Yang, Shadow configuration as a network management primitive, Proceedings of the ACM SIGCOMM 2008 conference on Data communication, August 17-22, 2008, Seattle, WA, USA
+E. Chen, Route Refresh Capability for BGP-4, RFC Editor, 2000
+Yi Wang , Eric Keller , Brian Biskeborn , Jacobus van der Merwe , Jennifer Rexford, Virtual routers on the move: live router migration as a network-management primitive, Proceedings of the ACM SIGCOMM 2008 conference on Data communication, August 17-22, 2008, Seattle, WA, USA
+Eric Keller , Jennifer Rexford , Jacobus Van Der Merwe, Seamless BGP migration with router grafting, Proceedings of the 7th USENIX conference on Networked systems design and implementation, p.16-16, April 28-30, 2010, San Jose, California
+Mark Reitblatt , Nate Foster , Jennifer Rexford , David Walker, Consistent updates for software-defined networks: change you can believe in!, Proceedings of the 10th ACM Workshop on Hot Topics in Networks, p.1-6, November 14-15, 2011, Cambridge, Massachusetts
+Saqib Raza , Yuanbo Zhu , Chen-Nee Chuah, Graceful network state migrations, IEEE/ACM Transactions on Networking (TON), v.19 n.4, p.1097-1110, August 2011

@@ -1,0 +1,41 @@
+E. Rosen , A. Viswanathan , R. Callon, Multiprotocol Label Switching Architecture, RFC Editor, 2001
+D. Awduche , L. Berger , D. Gan , T. Li , V. Srinivasan , G. Swallow, RSVP-TE: Extensions to RSVP for LSP Tunnels, RFC Editor, 2001
+B. Jamoussi , L. Andersson , R. Callon , R. Dantu , L. Wu , P. Doolan , T. Worster , N. Feldman , A. Fredette , M. Girish , E. Gray , J. Heinanen , T. Kilty , A. Malis, Constraint-Based LSP Setup using LDP, RFC Editor, 2002
+K. Nahrstedt and S. Chen, "Coexistence of QoS and best effort flows-routing and scheduling analysis," inProc. 10th IEEE Tyrrhenian Int. Workshop Digit. Commun.: Multimedia Commun., Ischia, Italy, Sep. 1998.
+Q. Ma and P. Steenkiste, "Supporting dynamic inter-class resource sharing: A multi-class QoS routing algorithm," inProc. IEEE INFOCOM, 1999, pp. 649-660.
+OSPF Design Guide {Online}. Available: http://www.cisco.com/warp/ public/104/1.html
+A. Ephremides and S. Verdu, "Control and optimization methods in communication network problems,"IEEE Trans. Automat. Contr., vol. 34, no. 9, pp. 930-942, Sep. 1989.
+K. Kar , M. Kodialam , T. V. Lakshman, Minimum interference routing of bandwidth guaranteed tunnels with MPLS traffic engineering applications, IEEE Journal on Selected Areas in Communications, v.18 n.12, p.2566-2579, September 2006[doi>10.1109/49.898737]
+A. Demers , S. Keshav , S. Shenker, Analysis and simulation of a fair queueing algorithm, Symposium proceedings on Communications architectures & protocols, p.1-12, September 25-27, 1989, Austin, Texas, USA[doi>10.1145/75246.75248]
+M. Shreedhar , George Varghese, Efficient fair queueing using deficit round robin, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.231-242, August 28-September 01, 1995, Cambridge, Massachusetts, USA[doi>10.1145/217382.217453]
+D. Mitra and K. G. Ramakrishnan, "A case study of multiservice, multipriority traffic engineering design for data networks," inProc. IEEE GLOBECOM, Dec. 1999, pp. 1077-1083.
+G. de Veciana , G. Kesidis , J. Walrand, Resource management in wide-area ATM networks using effective bandwidths, IEEE Journal on Selected Areas in Communications, v.13 n.6, p.1081-1090, September 2006[doi>10.1109/49.400663]
+George Kesidis , Jean Walrand , Cheng-Shang Chang, Effective bandwidths for multiclass Markov fluids and other ATM sources, IEEE/ACM Transactions on Networking (TON), v.1 n.4, p.424-428, Aug. 1993[doi>10.1109/90.251894]
+F. P. Kelly, "Notes on effective bandwidths," inStochastic Networks, F. P. Kelly, S. Zachary, and I. Ziedins, Eds. Oxford: Clarendon Press, 1996, pp. 141-168.
+F. P. Kelly, Effective bandwidths at multi-class queues, Queueing Systems: Theory and Applications, v.9 n.1-2, p.5-16, Oct. 1991[doi>10.1007/BF01158789]
+E. W. Knightly , N. B. Shroff, Admission control for statistical QoS: theory and practice, IEEE Network: The Magazine of Global Internetworking, v.13 n.2, p.20-29, March 1999[doi>10.1109/65.768485]
+C. Li, A. Burchard, and J. Liebeherr, "A network calculus with effective bandwidth," Univ. of Virginia, 2003 {Online}. Available: http://www.cs.virginia.edu/\simtechrep/CS-2003-20.pdf
+D. N.C. Tse , R. G. Gallager , J. N. Tsitsiklis, Statistical multiplexing of multiple time-scale Markov streams, IEEE Journal on Selected Areas in Communications, v.13 n.6, p.1028-1038, September 2006[doi>10.1109/49.400658]
+W. Whitt, "Tail probability with statistical multiplexing and effective bandwidths in multi-class queues,"Telecommun. Syst., vol. 2, pp. 71-107, 1993.
+Anwar I. Elwalid , Debasis Mitra, Effective bandwidth of general Markovian traffic sources and admission control of high speed networks, IEEE/ACM Transactions on Networking (TON), v.1 n.3, p.329-343, June 1993[doi>10.1109/90.234855]
+Chen-Shang Chang , J. A. Thomas, Effective bandwidth in high-speed digital networks, IEEE Journal on Selected Areas in Communications, v.13 n.6, p.1091-1100, September 2006[doi>10.1109/49.400664]
+C. Courcoubetis, V. A. Siris, and G. Stamoulis, "Application of the many sources asymptotic and effective bandwidths for traffic engineering,"Telecommun. Syst., vol. 12, pp. 167-191, 1999.
+A. Elwalid, C. Jin, S. Low, and I. Widjaja, "MATE: MPLS adaptive traffic engineering," inProc. IEEE INFOCOM, Apr. 2001, pp. 1300-1309.
+Dimitri Bertsekas , Robert Gallager, Data networks, Prentice-Hall, Inc., Upper Saddle River, NJ, 1987
+Muckai K. Girish , Bei Zhou , Jian-Qiang Hu, Formulation of the Traffic Engineering Problems in MPLS Based IP Networks, Proceedings of the Fifth IEEE Symposium on Computers and Communications (ISCC 2000), p.214, July 04-06, 2000
+Y. Seok, Y. Lee, Y. Choi, and C. Kim, "Dynamic constrained multipath routing for MPLS networks," inProc. IEEE ICCCN, Oct. 2001.
+Roch Guérin , Ariel Orda, Computing shortest paths for any number of hops, IEEE/ACM Transactions on Networking (TON), v.10 n.5, p.613-620, October 2002[doi>10.1109/TNET.2002.803917]
+Thomas H. Cormen , Clifford Stein , Ronald L. Rivest , Charles E. Leiserson, Introduction to Algorithms, McGraw-Hill Higher Education, 2001
+S. Rai, O. Deshpande, C. Ou, and B. Mukherjee, "Reliable multi-path provisioning for high-capacity optical backbone mesh networks," inProc. IEEE ICC, May 2005, pp. 1741-1745.
+V. Siris, Large Deviation Techniques for Traffic Engineering {Online}. Available: http://www.ics.forth.gr/netgroup/msa/
+K. G. Coffman and A. Odlyzko, "The size and growth rate of the internet,"First Monday, vol. 3, no. 10, Oct. 1998.
+K. G. Coffman and A. M. Odlyzko, I. Kaminow and T. Li, Eds., "Growth of the internet," inProc. SPIE Optical Fiber Telecommun. IV B: Syst. Impairments, 2002, pp. 17-56.
+A. Kantawala and J. Turner, "Queue management for short-lived TCP flows in backbone routers," inProc. IEEE GLOBECOM, 2002, pp. 2380-2384.
+Murali Kodialam , T. V. Lakshman, Dynamic routing of restorable bandwidth-guaranteed tunnels using aggregated network resource usage information, IEEE/ACM Transactions on Networking (TON), v.11 n.3, p.399-410, June 2003[doi>10.1109/TNET.2003.813044]
+H. Kochkar, T. Ikenaga, and Y. Oie, "QoS routing algorithm based on multiclasses traffic load," inProc. IEEE GLOBECOM, 2001, pp. 2193-2198.
+Y.-W. Chen and R.-H. Hwang, "QoS routing algorithms for multiple traffic classes," inProc. IEEE ICC, 2002, pp. 2217-2221.
+J. Wang and K. Nahrstedt, "Hop-by-hop routing algorithms for premium-class traffic in diffserv networks," inProc. IEEE INFOCOM, Jun. 2002, pp. 705-714.
+Y. G. Kim, A. Shiravi, and P. S. Min, "Congestion prediction of self-similar network through parameter estimation," inProc. 10th IEEE/ IFIP Netw.Oper. Manag. Symp., Apr. 2006, pp. 1-4.
+Changcheng Huang , V. Sharma , K. Owens , S. Makam, Building reliable MPLS networks using a path protection mechanism, IEEE Communications Magazine, v.40 n.3, p.156-162, March 2002[doi>10.1109/35.989779]
+Xiaojun Lin , Ness B. Shroff, Simplification of network dynamics in large systems, IEEE/ACM Transactions on Networking (TON), v.13 n.4, p.813-826, August 2005[doi>10.1109/TNET.2005.852886]
+Steven H. Low, A duality model of TCP and queue management algorithms, IEEE/ACM Transactions on Networking (TON), v.11 n.4, p.525-536, August 2003[doi>10.1109/TNET.2003.815297]

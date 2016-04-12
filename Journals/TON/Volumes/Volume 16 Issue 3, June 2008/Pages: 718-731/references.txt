@@ -1,0 +1,44 @@
+François Abel , Cyriel Minkenberg , Ronald P. Luijten , Mitchell Gusat , Ilias Iliadis, 10 A Four-Terabit Packet Switch Supporting Long Round-Trip Times, IEEE Micro, v.23 n.1, p.10-24, January 2003[doi>10.1109/MM.2003.1179894]
+M. Ajmone-Marsan, P. Giaccone, E. Leonardi, and F. Neri, "Local scheduling policies in networks of packet switches with input queues," inProc. IEEE INFOCOM, 2003.
+Thomas E. Anderson , Susan S. Owicki , James B. Saxe , Charles P. Thacker, High-speed switch scheduling for local-area networks, ACM Transactions on Computer Systems (TOCS), v.11 n.4, p.319-352, Nov. 1993[doi>10.1145/161541.161736]
+H. Balakrishnan, S. Devadas, D. Ehlert, and Arvind, "Rate guarantees and overload protection in input-queued switches," inProc. IEEE IN-FOCOM, Mar. 2004.
+C.-S. Chang, W.-J. Chen, and H.-Y. Huang, "Birkhoff-von Neumann input buffered crossbar switches," inProc. IEEE INFOCOM, 2000.
+Cheng-Shang Chang , Duan-Shin Lee , Yi-Shean Jou, Load balanced Birkhoff-von Neumann switches, part I: one-stage buffering, Computer Communications, v.25 n.6, p.611-622, April, 2002[doi>10.1016/S0140-3664(01)00427-3]
+J. Chao, Saturn: a terabit packet switch using dual round robin, IEEE Communications Magazine, v.38 n.12, p.78-84, December 2000[doi>10.1109/35.888261]
+F. M. Chiussi , A. Francini, Scalable electronic packet switches, IEEE Journal on Selected Areas in Communications, v.21 n.4, p.486-500, September 2006[doi>10.1109/JSAC.2003.810497]
+N. Chrysos and M. Katevenis, "Scheduling in non-blocking buffered three-stage switching fabrics," inProc. IEEE INFOCOM, 2006.
+Shang-Tse Chuang , A. Goel , N. McKeown , B. Prabhakar, Matching output queueing with a combined input/output-queued switch, IEEE Journal on Selected Areas in Communications, v.17 n.6, p.1030-1039, September 2006[doi>10.1109/49.772430]
+S.-T. Chuang, S. Iyer, and N. McKeown, "Practical algorithms for performance guarantees in buffered crossbars," inProc. IEEE INFOCOM, 2005.
+J. G. Dai and B. Prabhakar, "The throughput of data switches with and without speedup," inProc. IEEE INFOCOM, 2000, pp. 556-564.
+Q. Duan and J. N. Daigle, "Resource allocation for quality of service provision in buffered crossbar switches," inProc. 11th ICCCN, Oct. 2002, pp. 509-513.
+P. Giaccone, E. Leonardi, and D. Shah, "On the maximal throughput of networks with finite buffers and its application to buffered crossbar," inProc. IEEE INFOCOM, 2005.
+T. Inukai, "An efficient SS/TDMA time slot assignment algorithm,"IEEE Trans. Commun., vol. 27, no. 10, pp. 1449-1455, Oct. 1979.
+K. G. I. Harteros, "Fast parallel comparison circuits for scheduling," Inst. Comput. Sci., FORTH, Heraklion, Crete, Greece, Tech. Rep. FORTH-ICS/TR-304.
+Madhusudan Hosaagrahara , Harish Sethu, Max-Min Fair Scheduling in Input-Queued Switches, IEEE Transactions on Parallel and Distributed Systems, v.19 n.4, p.462-475, April 2008[doi>10.1109/TPDS.2007.70746]
+Joseph Yu Hui, Switching and Traffic Theory for Integrated Broadband Networks, Kluwer Academic Publishers, Norwell, MA, 1990
+T. Javidi, R. B. Magil, and T. Hrabik, "A high-throughput scheduling algorithm for a buffered crossbar switch fabric," inProc. IEEE ICC, Jun. 2001, pp. 1586-1591.
+M. Katevenis, G. Passas, D. Simos, I. Papaefstathiou, and N. Chrysos, "Variable packet size buffered crossbar (CICQ) switches," inProc. IEEE ICC, Jun. 2004.
+I. Keslassy, M. Kodialam, T. V. Lakshman, and D. Siliadis, "On guaranteed smooth scheduling for input-queued switches," inProc. IEEE INFOCOM, 2003.
+P. Krishna , N. S. Patel , A. Charny , R. J. Simcoe, On the speedup required for work-conserving crossbar switches, IEEE Journal on Selected Areas in Communications, v.17 n.6, p.1057-1066, September 2006[doi>10.1109/49.772435]
+N. T. Kung , R. Morris, Credit-based flow control for ATM networks, IEEE Network: The Magazine of Global Internetworking, v.9 n.2, p.40-48, March 1995[doi>10.1109/65.372658]
+Emilio Leonardi , Marco Mellia , Fabio Neri , Marco Ajmone Marsan, Bounds on delays and queue lengths in input-queued cell switches, Journal of the ACM (JACM), v.50 n.4, p.520-550, July 2003[doi>10.1145/792538.792544]
+Y. Li, S. Panwar, and H. J. Chao, "On the performance of a dual round-robin switch," inProc. IEEE INFOCOM, 2001, pp. 1688-1697.
+R. B. Magill , C. E. Rohrs , R. L. Stevenson, Output-queued switch emulation by fabrics with limited memory, IEEE Journal on Selected Areas in Communications, v.21 n.4, p.606-615, September 2006[doi>10.1109/JSAC.2003.810532]
+Nicholas William McKeown, Scheduling algorithms for input-queued cell switches, University of California at Berkeley, Berkeley, CA, 1996
+N. W. McKeown, V. Anantharam, and J. Walrand, "Achieving 100% throughput in an input-queued switch,"IEEE Trans. Commun., vol. 47, no. 8, pp. 1260-1267, Aug. 1999.
+L. Mhamdi and M. Hamdi, "CBF: A high-performance scheduling algorithm for buffered crossbar switches," inProc. HPSR, Jun. 2003, pp. 67-72.
+C. Minkenberg, "Work-conservingness of CIOQ packet switches with limited output buffers,"IEEE Commun. Lett., vol. 6, no. 10, pp. 452-454, Oct. 2002.
+Cyriel Minkenberg , Ronald P. Luijten , François Abel , Wolfgang Denzel , Mitchell Gusat, Current issues in packet switch design, ACM SIGCOMM Computer Communication Review, v.33 n.1, p.119-124, January 2003[doi>10.1145/774763.774782]
+C. Minkenberg, "Performance of i-SLIP scheduling with large round-trip latency," inProc. HPSR, 2003, pp. 49-54.
+M. Nabeshima, "Performance evaluation of a combined input- and crosspoint-queued switch,"IEICE Trans. Commun., vol. E83-B, no. 3, pp. 737-741, Mar. 2000.
+Deng Pan , Yuanyuan Yang, Localized asynchronous packet scheduling for buffered crossbar switches, Proceedings of the 2006 ACM/IEEE symposium on Architecture for networking and communications systems, December 03-05, 2006, San Jose, California, USA[doi>10.1145/1185347.1185368]
+Prashanth Pappu , Jonathan Turner , Ken Wong, Work-conserving distributed schedulers for Terabit routers, Proceedings of the 2004 conference on Applications, technologies, architectures, and protocols for computer communications, August 30-September 03, 2004, Portland, Oregon, USA[doi>10.1145/1015467.1015496]
+T. Rodeheffer and J. B. Saxe, "Smooth scheduling in a cell-based switching network," Digital Systems Research Ctr., Palo Alto, CA, SRC Research Report 150, Feb. 1998.
+R. Rojas-Cessa, E. Oki, Z. Jing, and H. Chao, "CIXB-1: Combined input-one-cell-crosspoint buffered switch," inProc. IEEE HPSR, 2001, pp. 324-329.
+R. Rojas-Cessa, E. Oki, and H. J. Chao, "On the combined input-crosspoint buffered switch with round-robin arbitration,"IEEE Trans. Commun., vol. 53, no. 11, pp. 1945-1951, Nov. 2005.
+D. N. Serpanos and P. I. Antoniadis, "FIRM: A class of distributed scheduling algorithms for high-speed atm switches with multiple input queues," inProc. IEEE INFOCOM, 2000, pp. 548-555.
+D. C. Stephens and H. Zhang, "Implementing dsitributed packet fair queueing in a scalable switch architecture," inProc. IEEE INFOCOM, 1998, pp. 282-290.
+John A. Stankovic , Krithi Ramamritham , Marco Spuri, Deadline Scheduling for Real-Time Systems: Edf and Related Algorithms, Kluwer Academic Publishers, Norwell, MA, 1998
+J. Turner, "Strong performance guarantees for asynchronous crossbar schedulers," inProc. IEEE INFOCOM, 2006.
+K. Yoshigoe , K. J. Christensen, An evolution to crossbar switches with virtual output queuing and buffered cross points, IEEE Network: The Magazine of Global Internetworking, v.17 n.5, p.48-56, September 2003[doi>10.1109/MNET.2003.1233917]
+H. Zhang, "Service disciplines for guaranteed performance service in packet-switching networks,"Proc. IEEE, vol. 83, no. 10, pp. 1374-1396, Oct. 1995.

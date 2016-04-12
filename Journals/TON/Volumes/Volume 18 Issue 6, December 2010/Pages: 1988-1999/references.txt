@@ -1,0 +1,32 @@
+S. Kini, S. Ramasubramanian, A. Kvalbein, and A. Hansen, "Fast recovery from dual link failures in IP networks," inProc. IEEE INFOCOM, 2009, pp. 1368-1376.
+M. Shand, S. Bryant, and S. Previdi, "IP fast reroute using not-via addresses," Internet Draft draft-ietf-rtgwg-ipfrr-notvia-addresses-05, Mar. 2010.
+A. Kvalbein, A. F. Hansen, T. Čičic, S. Gjessing, and O. Lysne, "Fast IP network recovery using multiple routing configurations," inProc. IEEE INFOCOM, Apr. 2006.
+S. Lee, Y. Yu, S. Nelakuditi, Z.-L. Zhang, and C.-N. Chuah, "Proactive vs. reactive approaches to failure resilient routing," inProc. IEEE INFOCOM, Mar. 2004, vol. 1, pp. 176-186.
+Srinivasan Ramasubramanian , Mithun Harkara , Marwan Krunz, Linear time distributed construction of colored trees for disjoint multipath routing, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.51 n.10, p.2854-2866, July, 2007[doi>10.1016/j.comnet.2006.11.029]
+G. Schollmeier, J. Charzinski, A. Kirstädter, C. Reichert, K. J. Schrodi, Y. Glickman, and C. Winkler, "Improving the resilience in IP networks," inProc. HPSR, Torino, Italy, Jun. 2003, pp. 91-96.
+D. Ward and D. Katz, "Bidirectional forwarding detection," Internet Draft draft-ietf-bfd-base-11.txt, Jan. 2010, work in progress.
+Pierre Francois , Clarence Filsfils , John Evans , Olivier Bonaventure, Achieving sub-second IGP convergence in large IP networks, ACM SIGCOMM Computer Communication Review, v.35 n.3, July 2005[doi>10.1145/1070873.1070877]
+A. Markopoulou, G. Iannaccone, S. Bhattacharyya, C.-N. Chuah, and C. Diot, "Characterization of failures in an IP backbone network," inProc. IEEE INFOCOM, Mar. 2004, vol. 4, pp. 2307-2317.
+C. Perkins, "IP encapsulation within IP," RFC 2003, Oct. 1996.
+Intermediate System to Intermediate System Routing Information Exchange Protocol for Use in Conjunction With the Protocol for Providing the Connectionless-Mode Network Service (ISO 8473), ISO/IEC 10589:2002, ISO, Nov. 2002.
+International Standard, iso/iec 10589, 2002.
+A. Atlas and A. Zinin, "Basic specification for IP fast reroute: Loop-free alternates," RFC5286, Sep. 2008.
+A. Iselt, A. Kirstadter, A. Pardigon, and T. Schwabe, "Resilient routing using MPLS and ECMP," inProc. HPSR, Phoenix, AZ, Apr. 2004, pp. 345-349.
+P. Narvaez and K. Y. Siu, "Efficient algorithms for multi-path link state routing," inProc. ISCOM, 1999.
+R. Rabbat and K.-Y. Siu, "Restoration methods for traffic engineered networks for loop-free routing guarantees," inProc. IEEE ICC, Helsinki, Finland, Jun. 2001, vol. 5, pp. 1566-1570.
+Christoph Reichert , Yuri Glickmann, Two Routing Algorithms for Failure Protection in IP Networks, Proceedings of the 10th IEEE Symposium on Computers and Communications, p.97-102, June 27-30, 2005[doi>10.1109/ISCC.2005.150]
+M. Shand and S. Bryant, "IP fast reroute framework," RFC 5714, Jan. 2010.
+Srihari Nelakuditi , Sanghwan Lee , Yinzhe Yu , Zhi-Li Zhang, Failure insensitive routing for ensuring service availability, Proceedings of the 11th international conference on Quality of service, June 02-04, 2003, Berkeley, CA, USA
+A. F. Hansen, O. Lysne, T. Čičic, and S. Gjessing, "Fast proactive recovery from concurrent failures," inProc. IEEE ICC, Jun. 2007, pp. 115-122.
+S. Hanks, T. Li, D. Farinacci, and P. Traina, "Generic router encapsulation (GRE)," RFC 1701, Oct. 1994.
+J. Lau, M. Townsley, and I. Goyret, "Layer 2 tunnelling protocol--Version 3 (L2TPv3)," RFC 3931, Mar. 2005.
+Ang Li , Pierre Francois , Xiaowei Yang, On improving the efficiency and manageability of NotVia, Proceedings of the 2007 ACM CoNEXT conference, December 10-13, 2007, New York, New York[doi>10.1145/1364654.1364688]
+S. Bryant and M. Shand, "IPFRR in the presence of multiple failures," Oct. 2008 {Online}. Available: http://tools.ietf.org/html/draft-bryant-shand-ipfrr-multi-01
+Srinivasan Ramasubramanian , Mithun Harkara , Marwan Krunz, Distributed linear time construction of colored trees for disjoint multipath routing, Proceedings of the 5th international IFIP-TC6 conference on Networking Technologies, Services, and Protocols; Performance of Computer and Communication Networks; Mobile and Wireless Communications Systems, May 15-19, 2006, Coimbra, Portugal[doi>10.1007/11753810_85]
+Giridhar Jayavelu , Srinivasan Ramasubramanian , Ossama Younis, Maintaining colored trees for disjoint multipath routing under node failures, IEEE/ACM Transactions on Networking (TON), v.17 n.1, p.346-359, February 2009[doi>10.1109/TNET.2008.919323]
+J. Hopcroft and R. E. Tarjan, "Dividing a graph into triconnected components,"SIAM J. Comput., vol. 2, no. 3, pp. 135-158, 1973.
+S. M. Lane, "A structural characterization of planar combinatorial graphs,"Duke Math J., vol. 3, no. 3, pp. 460-472, 1937.
+Zvi Galil , Giuseppe F. Italiano, Maintaining the 3-edge-connected components of a graph on-line, SIAM Journal on Computing, v.22 n.1, p.11-28, Feb. 1993[doi>10.1137/0222002]
+Guoliang Xue , Li Chen , K. Thulasiraman, Quality-of-service and quality-of-protection issues in preplanned recovery schemes using redundant trees, IEEE Journal on Selected Areas in Communications, v.21 n.8, p.1332-1345, September 2006[doi>10.1109/JSAC.2003.816597]
+R. Balasubramanian and S. Ramasubramanian, "Minimizing average path delay in colored trees for multipath routing," inProc. IEEE ICCCN--Sensors Ad Hoc Netw. Symp., Arlington, VA, Oct. 2006, pp. 566-569.
+Thomas H. Cormen , Clifford Stein , Ronald L. Rivest , Charles E. Leiserson, Introduction to Algorithms, McGraw-Hill Higher Education, 2001

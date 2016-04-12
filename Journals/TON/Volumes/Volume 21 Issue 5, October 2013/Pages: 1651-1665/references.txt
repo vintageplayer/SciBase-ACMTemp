@@ -1,0 +1,28 @@
+M. Allman, V. Paxon, and E. Blanton, "TCP congestion control," RFC 5681, Sep. 2009.
+F. P. Kelly, "Mathematical modelling of the Internet," inMathematics Unlimited--2001 and Beyond. Berlin, Germany: Springer-Verlag, 2001, pp. 685-702.
+F. P. Kelly, A. K. Maulloo, and D. K. H. Tan, "Rate control for communication networks: Shadow prices, proportional fairness and stability,"J. Oper. Res. Soc., vol. 49, pp. 237-252, 1998.
+Frank Kelly , Thomas Voice, Stability of end-to-end algorithms for joint routing and rate control, ACM SIGCOMM Computer Communication Review, v.35 n.2, April 2005
+Huaizhong Han , Srinivas Shakkottai , C. V. Hollot , R. Srikant , Don Towsley, Multi-path TCP: a joint congestion control and routing scheme to exploit path diversity in the internet, IEEE/ACM Transactions on Networking (TON), v.14 n.6, p.1260-1271, December 2006
+Wei-Hua Wang , Marimuthu Palaniswami , Steven H. Low, Optimal flow control and routing in multi-path networks, Performance Evaluation, v.52 n.2-3, p.119-132, April 2003
+Costin Raiciu , Sebastien Barre , Christopher Pluntke , Adam Greenhalgh , Damon Wischik , Mark Handley, Improving datacenter performance and robustness with multipath TCP, Proceedings of the ACM SIGCOMM 2011 conference, August 15-19, 2011, Toronto, Ontario, Canada
+Damon Wischik , Mark Handley , Costin Raiciu, Control of Multipath TCP and Optimization of Multipath Routing in the Internet, Proceedings of the 3rd Euro-NF Conference on Network Control and Optimization, November 23-25, 2009, Eindhoven, The Netherlands
+Damon Wischik , Costin Raiciu , Adam Greenhalgh , Mark Handley, Design, implementation and evaluation of congestion control for multipath TCP, Proceedings of the 8th USENIX conference on Networked systems design and implementation, March 30-April 01, 2011, Boston, MA
+C. Raiciu, M. Handly, and D. Wischik, "Coupled congestion control for multipath transport protocols," RFC 6356 (Experimental), 2011.
+UCL, Louvain-la-Neuve, Belgium, "MultiPath TCP--Linux kernel implementation," 2013 [Online]. Available: http://mptcp.info.ucl.ac.be/
+Y.-C. Chen, Y.-S. Lim, R. J. Gibbens, E.M. Nahum, R. Khalili, and D. Towsley, "A measurement-based study of multipath TCP performance over wireless networks," Univ. Massachusetts, Tech. Rep. UM-CS- 2013-018, 2013.
+"Multipath TCP (mptcp)," 2013 [Online]. Available: http://datatracker.ietf.org/wg/mptcp/
+A. Ford, C. Raiciu, M. Handley, S. Barre, and J. Iyengar, "Architectural guidelines for multipath TCP development," RFC 6182 (Informational), 2011.
+A. Ford, C. Raiciu, M. Handley, and O. Bonaventure, "TCP extensions for multipath operation with multiple addresses," IETF Internet Draft, 2011.
+Damon Wischik , Mark Handley , Marcelo Bagnulo Braun, The resource pooling principle, ACM SIGCOMM Computer Communication Review, v.38 n.5, October 2008
+C. Raiciu, D. Wischik, and M. Handley, "Practical congestion control for multipath transport protocols," Univ. College London, London, U.K., Tech. Rep., 2009.
+C. Cetinkaya and E. W. Knightly, "Opportunistic traffic scheduling over multiple network paths," inProc. IEEE INFOCOM, 2004, pp. 1928-1937.
+Ming Zhang , Junwen Lai , Arvind Krishnamurthy , Larry Peterson , Randolph Wang, A transport layer approach for improving end-to-end performance and robustness using redundant paths, Proceedings of the annual conference on USENIX Annual Technical Conference, p.8-8, June 27-July 02, 2004, Boston, MA
+M. Honda, Y. Nishida, L. Eggert, P. Sarolahti, and H. Tokuda, "Multipath congestion control for shared bottleneck," inProc. PFLDNeT Workshop, 2009.
+Eddie Kohler , Robert Morris , Benjie Chen , John Jannotti , M. Frans Kaashoek, The click modular router, ACM Transactions on Computer Systems (TOCS), v.18 n.3, p.263-297, Aug. 2000
+Vishal Misra , Wei-Bo Gong , Don Towsley, Fluid-based analysis of a network of AQM routers supporting TCP flows with an application to RED, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.151-160, August 28-September 01, 2000, Stockholm, Sweden
+V. Jacobson, Congestion avoidance and control, ACM SIGCOMM Computer Communication Review, v.18 n.4, p.314-329, August 1988
+Nicolas Gast , Bruno Gaujal, Mean field limit of non-smooth systems and differential inclusions, ACM SIGMETRICS Performance Evaluation Review, v.38 n.2, September 2010
+Nicolas Gast , Bruno Gaujal, Markov chains with discontinuous drifts have differential inclusion limits, Performance Evaluation, v.69 n.12, p.623-642, December, 2012
+Sangtae Ha , Injong Rhee , Lisong Xu, CUBIC: a new TCP-friendly high-speed TCP variant, ACM SIGOPS Operating Systems Review, v.42 n.5, p.64-74, July 2008
+Tom Kelly, Scalable TCP: improving performance in highspeed wide area networks, ACM SIGCOMM Computer Communication Review, v.33 n.2, April 2003
+Srisankar Kunniyur , R. Srikant, End-to-end congestion control schemes: utility functions, random losses and ECN marks, IEEE/ACM Transactions on Networking (TON), v.11 n.5, p.689-702, October 2003

@@ -1,0 +1,33 @@
+Jonathan W. Hui , David Culler, The dynamic behavior of a data dissemination protocol for network programming at scale, Proceedings of the 2nd international conference on Embedded networked sensor systems, November 03-05, 2004, Baltimore, MD, USA[doi>10.1145/1031495.1031506]
+Weiyao Xiao , David Starobinski, Exploiting multi-Channel diversity to speed up over-the-air programming of wireless sensor networks, Proceedings of the 3rd international conference on Embedded networked sensor systems, November 02-04, 2005, San Diego, California, USA[doi>10.1145/1098918.1098960]
+David Starobinski , Weiyao Xiao, Asymptotically optimal data dissemination in multichannel wireless sensor networks: single radios suffice, IEEE/ACM Transactions on Networking (TON), v.18 n.3, p.695-707, June 2010[doi>10.1109/TNET.2009.2032230]
+Andrew Hagedorn , David Starobinski , Ari Trachtenberg, Rateless Deluge: Over-the-Air Programming of Wireless Sensor Networks Using Random Linear Codes, Proceedings of the 7th international conference on Information processing in sensor networks, p.457-466, April 22-24, 2008[doi>10.1109/IPSN.2008.9]
+P. Levis, N. Patel, S. Shenker, and D. Culler, "Trickle: A self-regulating algorithmfor code propagation andmaintenance in wireless sensor networks," University of California, Berkeley, Tech. Rep., 2004.
+Jörg Nonnenmacher , Ernst W. Biersack, Scalable feedback for large groups, IEEE/ACM Transactions on Networking (TON), v.7 n.3, p.375-386, June 1999[doi>10.1109/90.779206]
+N. Shacham and P. McKenney, "Packet recovery in high-speed networks using coding and buffer management," inProc. IEEE INFOCOM, Jun. 1990, vol. 1, pp. 124-131.
+Michael Luby, LT Codes, Proceedings of the 43rd Symposium on Foundations of Computer Science, p.271, November 16-19, 2002
+A. Hagedorn, S. Agarwal, D. Starobinski, and A. Trachtenberg, "Rateless coding with feedback," inProc. IEEE INFOCOM, Apr. 2009, pp. 1791-1799.
+D. He, N. Akhtar, R. Tafazolli, A.-L. Burness, and P. Eardley, "Online packet loss rate estimation," inProc. PIMRC, 2005, vol. 3, pp. 1570-1574.
+L. de Haan and A. Ferreira, Extreme Value Theory, An Introduction. New York: Springer, 2006.
+Sentilla, "Data center analytics software," 2010 {Online}. Available: http://www.sentilla.com/
+Philip Levis , Nelson Lee , Matt Welsh , David Culler, TOSSIM: accurate and scalable simulation of entire TinyOS applications, Proceedings of the 1st international conference on Embedded networked sensor systems, November 05-07, 2003, Los Angeles, California, USA[doi>10.1145/958491.958506]
+Amos Beimel , Shlomi Dolev , Noam Singer, RT oblivious erasure correcting, IEEE/ACM Transactions on Networking (TON), v.15 n.6, p.1321-1332, December 2007[doi>10.1109/TNET.2007.896540]
+Christian Huitema, The case for packet level FEC, Proceedings of the TC6 WG6.1/6.4 Fifth International Workshop on Protocols for High-Speed Networks V, p.109-120, October 28-30, 1996
+Jörg Nonnenmacher , Ernst Biersack , Don Towsley, Parity-based loss recovery for reliable multicast transmission, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.289-300, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263181]
+M. Ghaderi, D. Towsley, and J. Kurose, "Reliability gain of network coding in lossy wireless networks," inProc. IEEE INFOCOM, Apr. 2008, pp. 2171-2179.
+M. Mosko , J. J. Garcia-Luna-Aceves, An analysis of packet loss correlation in FEC-enhanced multicast trees, Proceedings of the 2000 International Conference on Network Protocols, p.151, November 14-17, 2000
+A. Eryilmaz, A. Ozdaglar, and M. Medard, "On delay performance gains from network coding," inProc. CISS, 2006, pp. 864-870.
+Weiyao Xiao , David Starobinski, Extreme value FEC for reliable broadcasting in wireless networks, IEEE Journal on Selected Areas in Communications, v.28 n.7, p.1180-1189, September 2010[doi>10.1109/JSAC.2010.100922]
+M. Ghaderi, D. Towsley, and J. Kurose, "Network coding performance for reliable multicast," inProc. IEEE MILCOM, Oct. 2007, pp. 1-7.
+J. W. Byers, Feedback-Free Multicast Prefix Protocols, Proceedings of the Third IEEE Symposium on Computers & Communications, p.135, June 30-July 02, 1998
+Luigi Rizzo , Lorenzo Vicisano, RMDP: an FEC-based reliable multicast protocol for wireless environments, ACM SIGMOBILE Mobile Computing and Communications Review, v.2 n.2, p.23-31, April 1998[doi>10.1145/584017.584020]
+S. Fahmy and R.M. Jegadeesan, "Recovery performance of PGM with redundancy estimation for proactive FEC," Purdue University, West Lafayette, IN, Tech. rep. CSD-TR-03-019, 2003.
+T. Dielman, C. Lowry, and R. Pfaffenberger, "A comparison of quantile estimators,"Commun. Statist., Simulat. Comput., vol. 23, no. 2, pp. 355-371, 1994.
+M. J. Schervish,Theory of Statistics. New York: Springer, 1996.
+A. L. M. Dekkers, J. H. J. Einmahl, and L. De Haan, "A moment estimator for the index of an extreme-value distribution,"Ann. Statist., vol. 17, no. 4, pp. 1833-1855, 1989.
+B. M. Hill, "A simple general approach to inference about the tail of a distribution,"Ann. Statist., vol. 3, no. 5, pp. 1163-1174, 1975.
+H. Drees, A. Ferreira, and L. de Haan, "On maximum likelihood estimation of the extreme value index,"Ann. Appl. Probab., vol. 14, no. 3, pp. 1179-1201, 2004.
+L. L. Cam, "Maximum likelihood: An introduction,"Int. Statist. Rev., vol. 58, no. 2, pp. 153-171, Aug. 1990.
+S. D. Grimshaw, "Computing maximum likelihood estimates for the generalized Pareto distribution,"Technometrics, vol. 35, no. 2, pp. 185-191, 1993.
+F. Caeiro and M. I. Gomes, "Minimum-variance reduced-bias tail index and high quantile estimation,"REVSTAT, Statist. J., vol. 6, no. 1, pp. 1-20, Mar. 2008.
+Victor Shnayder , Mark Hempstead , Bor-rong Chen , Geoff Werner Allen , Matt Welsh, Simulating the power consumption of large-scale sensor network applications, Proceedings of the 2nd international conference on Embedded networked sensor systems, November 03-05, 2004, Baltimore, MD, USA[doi>10.1145/1031495.1031518]

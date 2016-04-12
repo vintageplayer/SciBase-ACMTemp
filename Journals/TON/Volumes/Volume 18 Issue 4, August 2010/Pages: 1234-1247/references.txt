@@ -1,0 +1,42 @@
+C. E. Landwehr and D. M. Goldschlag, "Security issues in networks with internet access,"Proc. IEEE, vol. 85, no. 12, pp. 2034-2051, Dec. 1997.
+Daniel Bleichenbacher, Chosen Ciphertext Attacks Against Protocols Based on the RSA Encryption Standard PKCS #1, Proceedings of the 18th Annual International Cryptology Conference on Advances in Cryptology, p.1-12, August 23-27, 1998
+David Brumley , Dan Boneh, Remote timing attacks are practical, Proceedings of the 12th conference on USENIX Security Symposium, p.1-1, August 04-08, 2003, Washington, DC
+"OpenSSH PAM timing attacks," 2006 {Online}. Available: http://securityvulns. com/news2789.html
+S. P. Joglekar and S. R. Tate, "ProtoMon: Embedded monitors for cryptographic protocol intrusion detection and prevention,"J. Universal Comput. Sci., vol. 11, no. 1, pp. 83-103, Jan. 2005.
+Z. M. Fadlullah, T. Taleb, N. Ansari, K. Hashimoto, Y. Miyake, Y. Nemoto, and N. Kato, "Combating against attacks on encrypted protocols," inProc. IEEE ICC, Glasgow, Scotland, Jun. 24-28, 2007, pp. 1211-1216.
+Haining Wang , Danlu Zhang , Kang G. Shin, Change-Point Monitoring for the Detection of DoS Attacks, IEEE Transactions on Dependable and Secure Computing, v.1 n.4, p.193-208, October 2004[doi>10.1109/TDSC.2004.34]
+J. P. Anderson,Computer Security Threat Monitoring and Surveillance. Fort Washington, PA: Anderson, 1980.
+A. Bivens, C. Palagiri, R. Smith, B. Szymanski, and M. Embrechts, "Network-based intrusion detection using neural networks," inProc. ANNIE, St. Louis, MO, Nov. 2002, pp. 10-13.
+"Smurf IP denial-of-service attacks," CERT Advisory CA-1998-01, 1998 {Online}.Available: http://www.cert.org/advisories/CA-1998-01. html
+"Ping of death," 1997 {Online}. Available: http://insecure.org/sploits/ ping-o-death.html
+B. Canvel, A. Hiltgen, S. Vaudenay, and M. Vuagnoux, "Password interception in a SSL/TLS channel," inProc. Crypto 2003, Santa Barbara, CA, Feb. 2003, vol. 2729, LNCS, pp. 583-599.
+David Wagner , Bruce Schneier, Analysis of the SSL 3.0 protocol, Proceedings of the 2nd conference on Proceedings of the Second USENIX Workshop on Electronic Commerce, p.4-4, November 18-21, 1996, Oakland, California
+"OpenSSL servers contain a buffer overflow during the SSL2 handshake process," CERT Vulnerability Note #102795, Jul. 2002.
+"OpenSSL servers contain a remotely exploitable buffer overflow vulnerability during the SSL3 handshake process," CERT Vulnerability Note #561275, Jul. 2002.
+F. Perriot and P. Szor, "An analysis of the slapper worm exploit," Symantec Security Response, Symantec White Paper, Apr. 2003.
+S. McClure and J. Scambray, "Once-promising intrusion detection systems stumble over a myriad of problems,"Info World, vol. 22, p. 58, Dec. 2000.
+"SSLDump," {Online}. Available: http://www.rtfm.com/ssldump SSLDump
+Akira Yamada , Yutaka Miyake , Keisuke Takemori , Ahren Studer , Adrian Perrig, Intrusion Detection for Encrypted Web Accesses, Proceedings of the 21st International Conference on Advanced Information Networking and Applications Workshops, p.569-576, May 21-23, 2007[doi>10.1109/AINAW.2007.212]
+Angelos Stavrou , Debra L. Cook , William G. Morein , Angelos D. Keromytis , Vishal Misra , Dan Rubenstein, WebSOS: an overlay-based system for protecting web servers from denial of service attacks, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.48 n.5, p.781-807, 5 August 2005[doi>10.1016/j.comnet.2005.01.005]
+Rolf Oppliger , Ralf Hauser , David Basin, SSL/TLS session-aware user authentication - Or how to effectively thwart the man-in-the-middle, Computer Communications, v.29 n.12, p.2238-2246, August, 2006[doi>10.1016/j.comcom.2006.03.004]
+J. Haggerty , Qi Shi , M. Merabti, Early detection and prevention of denial-of-service attacks: a novel mechanism with propagated traced-back attack blocking, IEEE Journal on Selected Areas in Communications, v.23 n.10, p.1994-2002, September 2006[doi>10.1109/JSAC.2005.854123]
+D. Song and A. Perrig, "Advanced and authenticated marking schemes for IP traceback," inProc. IEEE INFOCOM, Anchorage, AK, Apr. 2001, vol. 2, pp. 878-886.
+W. Lee and K. Park, "On the effectiveness of probabilistic packet marking for IP traceback under denial of service attack," inProc. IEEE INFOCOM, Anchorage, AK, Apr. 2001, vol. 1, pp. 338-347.
+S. Bellovin, "ICMP traceback messages," IETF Internet Draft, Mar. 2000.
+A. Belenky , N. Ansari, On IP traceback, IEEE Communications Magazine, v.41 n.7, p.142-153, July 2003[doi>10.1109/MCOM.2003.1215651]
+Terence K. T. Law , John C. S. Lui , David K. Y. Yau, You Can Run, But You Can't Hide: An Effective Statistical Methodology to Trace Back DDoS Attackers, IEEE Transactions on Parallel and Distributed Systems, v.16 n.9, p.799-813, September 2005[doi>10.1109/TPDS.2005.114]
+Zhiqiang Gao , N. Ansari, Tracing cyber attacks from the practical perspective, IEEE Communications Magazine, v.43 n.5, p.123-131, May 2005[doi>10.1109/MCOM.2005.1453433]
+Han-Ching Wu , Shou-Hsuan Stephen Huang, Detecting Stepping-Stone with Chaff Perturbations, Proceedings of the 21st International Conference on Advanced Information Networking and Applications Workshops, p.85-90, May 21-23, 2007[doi>10.1109/AINAW.2007.151]
+Stefan Savage , David Wetherall , Anna Karlin , Tom Anderson, Practical network support for IP traceback, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.295-306, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347560]
+Xinyuan Wang , Douglas S. Reeves , Shyhtsun Felix Wu, Inter-Packet Delay Based Correlation for Tracing Encrypted Connections through Stepping Stones, Proceedings of the 7th European Symposium on Research in Computer Security, p.244-263, October 14-16, 2002
+S. C. Lee and C. Shields, "Tracing the source of network attack: A technical, legal and societal problem," inProc. 2001 IEEE Workshop Inf. Assurance Security, New York, Jun. 2001, pp. 239-246.
+A. Blum, D. Song, and S. Venkataraman, "Detection of interactive stepping stones: Algorithms and confidence bounds," inRAID 2004, E. Jonsson, A. Valdes, and M. Almgren, Eds., Heidelberg, 2004, vol. 3224, LNCS, no. 5, pp. 258-277.
+Glenn Mansfield , Kohei Ohta , Y. Takei , N. Kato , Y. Nemoto, Towards trapping wily intruders in the large, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.34 n.4, p.659-670, Oct. 2000[doi>10.1016/S1389-1286(00)00135-3]
+Tarik Taleb , Zubair Md. Fadlullah , Kazuo Hashimoto , Yoshiaki Nemoto , Nei Kato, Tracing back attacks against encrypted protocols, Proceedings of the 2007 international conference on Wireless communications and mobile computing, August 12-16, 2007, Honolulu, Hawaii, USA[doi>10.1145/1280940.1280966]
+"TCPDUMP/LIBPCAP public repository," {Online}. Available: http:// www.tcpdump.org/
+Michèle Basseville , Igor V. Nikiforov, Detection of abrupt changes: theory and application, Prentice-Hall, Inc., Upper Saddle River, NJ, 1993
+Song Luo , Gerald A. Marin, Realistic internet traffic simulation through mixture modeling and a case study, Proceedings of the 37th conference on Winter simulation, December 04-07, 2005, Orlando, Florida
+"The network simulator: NS-2," {Online}. Available: http://www.isi. edu/nsnam/ns/
+"CAIDA: The Cooperative Association for Internet Data Analysis," {Online}. Available: http://www.caida.org/home/
+K. Sakaguchi, K. Ohta, Y. Waizumi, N. Kato, and Y. Nemoto, "Tracing DDoS attacks by comparing traffic patterns based on quadratic programming methods," (in Japanese)Trans. IEICE B, vol. J85-B, no. 8, pp. 1295-1303, 2002.
+"BRITE topology generator for NS-2," {Online}. Available: http://www.cs.bu.edu/brite/

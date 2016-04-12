@@ -1,0 +1,52 @@
+Y. Amir, D. Dolev, S. Kramer, and D. Malki, "Transis: A communication sub-system for high availability," in IEEE 22nd Int. Symp. on Fault-Tolerant Computing, July 1992, pp. 76-84.
+Kenneth P. Birman , Robbert Van Renesse, Reliable Distributed Computing with the ISIS Toolkit, IEEE Computer Society Press, Los Alamitos, CA, 1993
+Robbert Van Renesse , Takako M. Hickey , Kenneth P. Birman, Design and Performance of Horus: A Lightweight Group Communications System, Cornell University, Ithaca, NY, 1994
+Guerney Douglass Holloway Hunt, Multicast flow control on local area networks, Cornell University, Ithaca, NY, 1996
+X.-M. Chen, "Gigabit Network Multicast Protocols. Chap 4, Flow Control Techniques," Ph.D. dissertation, Dept. ECE, Univ. of California, Santa Barbara, 1996.
+A. P. Naryan, "Reliable transfer of data in a local area network with multicast distribution," in IEEE Proc. 15th Conf. Local Computer Networks, Sept. 1990, pp. 310-319.
+B. J. Dempsey, J. C. Fenton, and A. C. Weaver, "The multidriver: A reliable multicast service using Xpress transfer protocol," in IEEE Proc. 15th Conf. Local Computer Networks, Sept. 1990, pp. 351-358.
+S. Armstrong, A. Freier, and K. Marzullo, "Multicast transport protocol," Xerox, Apple, Cornell Univ., RFC 1301, 1992.
+R. Braudes and S. Zabele, "Requirements for multicast protocols," TSAC, RFC 1458, 1993.
+John C. Lin , Sanjoy Paul, RMTP: a reliable multicast transport protocol, Proceedings of the Fifteenth annual joint conference of the IEEE computer and communications societies conference on The conference on computer communications, March 24-28, 1996, San Francisco, California
+Rajendra Yavatkar , James Griffoen , Madhu Sudan, A reliable dissemination protocol for interactive collaborative applications, Proceedings of the third ACM international conference on Multimedia, p.333-344, November 05-09, 1995, San Francisco, California, USA[doi>10.1145/217279.215288]
+Reliable multicast transport (RMT) {Online}. Available: http://research.ivv.nasa.gov/RMP/Docs/index.html
+C. Kenneth Miller, Reliable Multicast Protocols: A Practical View, Proceedings of the 22nd Annual IEEE Conference on Local Computer Networks, p.369-378, November 02-05, 1997
+Sally Floyd , Van Jacobson , Ching-Gung Liu , Steven McCanne , Lixia Zhang, A reliable multicast framework for light-weight sessions and application level framing, IEEE/ACM Transactions on Networking (TON), v.5 n.6, p.784-803, Dec. 1997[doi>10.1109/90.650139]
+Hugh W. Holbrook , Sandeep K. Singhal , David R. Cheriton, Log-based receiver-reliable multicast for distributed interactive simulation, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.328-341, August 28-September 01, 1995, Cambridge, Massachusetts, USA[doi>10.1145/217382.217468]
+Traffic Management Specification Version 4.0, Mar. 1996.
+D. Cavendish, S. Mascolo, and M. Gerla, "Rate-based congestion control for multicast ABR traffic," in Proc. GLOBECOM, London, U.K., Nov. 1996, pp. 1114-1118.
+Arup Acharya , B. R. Badrinath, A framework for delivering multicast message in networks with mobile hosts, Mobile Networks and Applications, v.1 n.2, p.199-219, Oct. 1996[doi>10.1007/BF01193337]
+Carey L. Williamson , Tim G. Harrison , Wayne L. Mackrell , Richard B. Bunt, Performance evaluation of the MoM mobile multicast protocol, Mobile Networks and Applications, v.3 n.2, p.189-201, Aug. 1998[doi>10.1023/A:1019172615092]
+Alberto Bartoli, Group-based multicast and dynamic membership in wireless networks with incomplete spatial coverage, Mobile Networks and Applications, v.3 n.2, p.175-188, Aug. 1998[doi>10.1023/A:1019120631022]
+Mario Gerla , Ching-Chuan Chiang , Lixia Zhang, Tree multicast strategies in mobile, multishop wireless networks, Mobile Networks and Applications, v.4 n.3, p.193-207, Oct 1999[doi>10.1023/A:1019150932356]
+S. Basagni, I. Chlamtac, and V. R. Syrotiuk, "Location aware one-to-many communication in mobile multi-hop wireless networks," in IEEE Vehicular Technology Conf., 2000, pp. 288-292.
+Shivakant Mishra , Lei Wu, An evaluation of flow control in group communication, IEEE/ACM Transactions on Networking (TON), v.6 n.5, p.571-587, Oct. 1998[doi>10.1109/90.731193]
+H. Wang , M. Schwartz, Performance analysis of multicast flow control algorithms over combined wired/wireless networks, IEEE Journal on Selected Areas in Communications, v.15 n.7, p.1349-1363, September 2006[doi>10.1109/49.622917]
+Steven McCanne , Van Jacobson , Martin Vetterli, Receiver-driven layered multicast, Conference proceedings on Applications, technologies, architectures, and protocols for computer communications, p.117-130, August 28-30, 1996, Palo Alto, California, USA[doi>10.1145/248156.248168]
+X. Li, S. Paul, and M. Ammar, "Layered video multicast with retransmissions (LVMR): Evaluation of hierarchical rate control," in Proc. IEEE INFOCOM, 1998.
+L. Vicisano, J. Crowcroft, and L. Rizzo, "TCP-like congestion control for layered multicast data transfer," in Proc. IEEE INFOCOM, 1998.
+Mostafa H. Ammar , Li-Ran Wu, Improving the throughput of point-to-multipoint ARQ protocols through destination set splitting, Proceedings of the eleventh annual joint conference of the IEEE computer and communications societies on One world through communications (Vol. 1), p.262-271, May 1992, Florence, Italy
+Nachum Sacham, Multipoint communication by hierarchically encoded data, Proceedings of the eleventh annual joint conference of the IEEE computer and communications societies on One world through communications (Vol. 3), p.2107-2114, May 1992, Florence, Italy
+S. Bhattacharyya, J. F. Kurose, D. Towsley, and R. Nagarajan, "Efficient rate-controlled bulk data transfer using multiple multicast groups," in Proc. IEEE INFOCOM, 1998.
+Christopher Rose , Roy Yates, Minimizing the average cost of paging under delay constraints, Wireless Networks, v.1 n.2, p.211-219, 1995[doi>10.1007/BF01202543]
+Joseph S. M. Ho , Ian F. Akyildiz, Mobile user location update and paging under delay constraints, Wireless Networks, v.1 n.4, p.413-425, 1995[doi>10.1007/BF01985754]
+A. Ballardie, Core Based Trees (CBT version 2) Multicast Routing -- Protocol Specification --, RFC Editor, 1997
+Tony Ballardie , Paul Francis , Jon Crowcroft, Core based trees (CBT), Conference proceedings on Communications architectures, protocols and applications, p.85-95, September 13-17, 1993, San Francisco, California, USA[doi>10.1145/166237.166246]
+S. E. Deering, Multicast routing in internetworks and extended LANs, ACM SIGCOMM Computer Communication Review, v.18 n.4, p.55-64, August 1988[doi>10.1145/52325.52331]
+____, "Host extension for IP multicasting,", RFC 1112, Aug. 1989.
+Stephen Deering , Deborah Estrin , Dino Farinacci , Van Jacobson , Ching-Gung Liu , Liming Wei, An architecture for wide-area multicast routing, Proceedings of the conference on Communications architectures, protocols and applications, p.126-135, August 31-September 02, 1994, London, United Kingdom[doi>10.1145/190314.190326]
+Stephen Deering , Deborah L. Estrin , Dino Farinacci , Van Jacobson , Ching-Gung Liu , Liming Wei, The PIM architecture for wide-area multicast routing, IEEE/ACM Transactions on Networking (TON), v.4 n.2, p.153-162, April 1996[doi>10.1109/90.490743]
+J. Moy, "Multicast extensions to OSPF,", RFC-1584, Mar. 1994.
+D. Thaler, D. Estrin, and D. Meyer, Border Multicast Routing Protocol (BGMP): Protocol Specification, Apr. 1998. Internet Draft, draft-ietfidmrgum-01.txt.
+S. Keshav , S. Paul, Centralized Multicast, Proceedings of the Seventh Annual International Conference on Network Protocols, p.59, October 31-November 03, 1999
+B. Krishnamachari, R.-H. Gau, S. B. Wicker, and Z. J. Haas, "Optimal sequential paging in cellular networks,", submitted for publication.
+John W. Byers , Michael Luby , Michael Mitzenmacher , Ashutosh Rege, A digital fountain approach to reliable distribution of bulk data, Proceedings of the ACM SIGCOMM '98 conference on Applications, technologies, architectures, and protocols for computer communication, p.56-67, August 31-September 04, 1998, Vancouver, British Columbia, Canada[doi>10.1145/285237.285258]
+J. Gemmell, "ECSRM---Erasure correcting scalable reliable multicast," Microsoft Research, Tech. Rep. MS-TR-97-20, June 1997.
+Christian Huitema, The case for packet level FEC, Proceedings of the TC6 WG6.1/6.4 Fifth International Workshop on Protocols for High-Speed Networks V, p.109-120, October 28-30, 1996
+Jörg Nonnenmacher , Ernst Biersack, Reliable multicast: where to use FEX, Proceedings of the TC6 WG6.1/6.4 Fifth International Workshop on Protocols for High-Speed Networks V, p.134-148, October 28-30, 1996
+____, "Asynchronous multicast push: AMP," in Proc. Int. Conf. Computer Communications, Cannes, France, Nov. 1997.
+Jörg Nonnenmacher , Ernst Biersack , Don Towsley, Parity-based loss recovery for reliable multicast transmission, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.289-300, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263181]
+L. Rizzo and L. Vicisano, "A reliable multicast data distribution protocol based on software FEC techniques," in Proc. HPCS, Greece, June 1997.
+E. Schooler and J. Gemmell, "Using multicast FEC to solve the midnight madness problem," Microsoft Research, Tech. Rep. MS-TR-97-25, Sept. 1997.
+S. Acharya, M. Franklin, and S. Zdonik, "Dissemination-based data delivery using broadcast disks," IEEE Person. Common., pp. 50-60, Dec. 1995.
+Thomas T. Cormen , Charles E. Leiserson , Ronald L. Rivest, Introduction to algorithms, MIT Press, Cambridge, MA, 1990

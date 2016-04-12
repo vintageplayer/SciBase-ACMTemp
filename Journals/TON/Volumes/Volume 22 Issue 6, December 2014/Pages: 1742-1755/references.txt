@@ -1,0 +1,41 @@
+Roger Dingledine , Nick Mathewson , Paul Syverson, Tor: the second-generation onion router, Proceedings of the 13th conference on USENIX Security Symposium, p.21-21, August 09-13, 2004, San Diego, CA
+George Danezis , Roger Dingledine , Nick Mathewson, Mixminion: Design of a Type III Anonymous Remailer Protocol, Proceedings of the 2003 IEEE Symposium on Security and Privacy, p.2, May 11-14, 2003
+U. Moeller, L. Cottrell, P. Palfrader, and L. Sassaman, "IETF draft: Mixmaster protocol version 2," 2004 [Online]. Available: http://tools. ietf.org/html/draft-sassaman-mixmaster-03
+Damon Mccoy , Kevin Bauer , Dirk Grunwald , Tadayoshi Kohno , Douglas Sicker, Shining Light in Dark Places: Understanding the Tor Network, Proceedings of the 8th international symposium on Privacy Enhancing Technologies, p.63-76, July 23-25, 2008, Leuven, Belgium
+R. Snader and N. Borisov, "A tune-up for Tor: Improving security and performance in the Tor network," inProc. NDSS, 2008.
+Micah Sherr , Matt Blaze , Boon Thau Loo, Scalable Link-Based Relay Selection for Anonymous Routing, Proceedings of the 9th International Symposium on Privacy Enhancing Technologies, August 05-07, 2009, Seattle, WA
+Andriy Panchenko , Johannes Renner, Path Selection Metrics for Performance-Improved Onion Routing, Proceedings of the 2009 Ninth Annual International Symposium on Applications and the Internet, p.114-120, July 20-24, 2009
+Mashael AlSabah , Kevin Bauer , Ian Goldberg , Dirk Grunwald , Damon McCoy , Stefan Savage , Geoffrey M. Voelker, DefenestraTor: throwing out windows in Tor, Proceedings of the 11th international conference on Privacy enhancing technologies, p.134-154, July 27-29, 2011, Waterloo, ON, Canada
+Nick Feamster , Roger Dingledine, Location diversity in anonymity networks, Proceedings of the 2004 ACM workshop on Privacy in the electronic society, October 28-28, 2004, Washington DC, USA
+Matthew Edman , Paul Syverson, As-awareness in Tor path selection, Proceedings of the 16th ACM conference on Computer and communications security, November 09-13, 2009, Chicago, Illinois, USA
+Z. Morley Mao , Lili Qiu , Jia Wang , Yin Zhang, On AS-level path inference, ACM SIGMETRICS Performance Evaluation Review, v.33 n.1, June 2005
+Harsha V. Madhyastha , Tomas Isdal , Michael Piatek , Colin Dixon , Thomas Anderson , Arvind Krishnamurthy , Arun Venkataramani,iPlane: an information plane for distributed services, Proceedings of the 7th symposium on Operating systems design and implementation, November 06-08, 2006, Seattle, Washington
+Harsha V. Madhyastha , Ethan Katz-Bassett , Thomas Anderson , Arvind Krishnamurthy , Arun Venkataramani, iPlane Nano: path prediction for peer-to-peer applications, Proceedings of the 6th USENIX symposium on Networked systems design and implementation, p.137-152, April 22-24, 2009, Boston, Massachusetts
+"The Tor Project, Inc.," [Online]. Available: http://www.torproject.org
+M. G. Reed , P. F. Syverson , D. M. Goldschlag, Anonymous connections and onion routing, IEEE Journal on Selected Areas in Communications, v.16 n.4, p.482-494, September 2006
+Matthew Wright , Micah Adler , Brian N. Levine , Clay Shields, Defending Anonymous Communications Against Passive Logging Attacks, Proceedings of the 2003 IEEE Symposium on Security and Privacy, p.28, May 11-14, 2003
+"Quantcast," [Online]. Available: http://www.quantcast.com/top-sites-1
+"PlanetLab," [Online]. Available: http://www.planet-lab.org
+"MaxMind-GeoLite City," [Online]. Available: http://www.maxmind. com/app/geolitecity
+Matthew Edman , Bülent Yener, On anonymity in an electronic society: A survey of anonymous communication systems, ACM Computing Surveys (CSUR), v.42 n.1, p.1-35, December 2009
+Nicholas Hopper , Eugene Y. Vasserman , Eric Chan-TIN, How much anonymity does network latency leak?, ACM Transactions on Information and System Security (TISSEC), v.13 n.2, p.1-28, February 2010
+Nick Mathewson , Roger Dingledine, Practical traffic analysis: extending and resisting statistical disclosure, Proceedings of the 4th international conference on Privacy Enhancing Technologies, p.17-34, May 26-28, 2004, Toronto, Canada
+Steven J. Murdoch , Piotr Zieliński, Sampled traffic analysis by internet-exchange-level adversaries, Proceedings of the 7th international conference on Privacy enhancing technologies, p.167-183, June 20-22, 2007, Ottawa, Canada
+R. Dingledine and N. Mathewson, "Tor path specification," 2013 [Online]. Available: https://gitweb.torproject.org/torspec. git?a=blob_plain;hb=HEAD;f=path-spec.txt
+A. Broido and K. Claffy, "Analysis of RouteViews BGP data: Policy atoms," inProc. Netw. Resource Data Manage. Workshop, 2001.
+"Tor Metrics Portal: Users," [Online]. Available: https://metrics.torproject. org/users.html
+D. Meyer, "RouteViews," [Online]. Available: http://www. routeviews.org
+RIPE NCC, Amsterdam, The Netherlands, "RIPE Routing Information Service," 2013 [Online]. Available: http://www.ripe.net/ris/
+Rupa Krishnan , Harsha V. Madhyastha , Sridhar Srinivasan , Sushant Jain , Arvind Krishnamurthy , Thomas Anderson , Jie Gao, Moving beyond end-to-end path information to optimize CDN performance, Proceedings of the 9th ACM SIGCOMM conference on Internet measurement conference, November 04-06, 2009, Chicago, Illinois, USA
+Prateek Mittal , Ahmed Khurshid , Joshua Juen , Matthew Caesar , Nikita Borisov, Stealthy traffic analysis of low-latency anonymous communication using throughput fingerprinting, Proceedings of the 18th ACM conference on Computer and communications security, October 17-21, 2011, Chicago, Illinois, USA
+C. Gini, "Measurement of inequality of incomes,"Econ. J., vol. 31, no. 121, pp. 124-126, Mar. 1921.
+DK Lee , Keon Jang , Changhyun Lee , Gianluca Iannaccone , Sue Moon, Scalable and systematic Internet-wide path and delay estimation from existing measurements, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.55 n.3, p.838-855, February, 2011
+J. Qiu and L. Gao, "AS path inference by exploiting known AS paths," inProc. IEEE GLOBECOM, 2006, pp. CAM04-4:1-CAM04-4:5.
+CAIDA, La Jolla, CA, USA, "Archipelago measurement infrastructure," 2013 [Online]. Available: http://www.caida.org/projects/ark/
+Lixin Gao, On inferring autonomous system relationships in the internet, IEEE/ACM Transactions on Networking (TON), v.9 n.6, p.733-745, December 2001
+University of Washington, Seattle, WA, USA, "iPlane: Datasets," [Online]. Available: http://iplane.cs.washington.edu/data/data.html
+"Tor directory protocol, version 3," 2013 [Online]. Available: https:// gitweb.torproject.org/torspec.git?a=blob_plain;hb=HEAD;f=dirspec.txt
+H. V. Madhyastha, T. Anderson, A. Krishnamurthy, and A. Venkataramani, "iPlane: Measurements and query interface," 2007 [Online]. Available: http://iplane.cs.washington.edu/iplane_interface.pdf
+Micah Sherr , Boon Thau Loo , Matt Blaze, Towards application-aware anonymous routing, Proceedings of the 2nd USENIX workshop on Hot topics in security, p.1-5, August 07, 2007, Boston, MA
+S. Le-Blond, P. Manils, C. Abdelberi, M. A. Kâafar, C. Castelluccia, A. Legout, and W. Dabbous, "One bad apple spoils the bunch: Exploiting P2P applications to trace and profile tor users,"CoRR, 2011.
+Karsten Loesing , Steven J. Murdoch , Roger Dingledine, A case study on measuring statistical data in the tor anonymity network, Proceedings of the 14th international conference on Financial cryptograpy and data security, p.203-215, January 25-28, 2010, Tenerife, Canary Islands, Spain

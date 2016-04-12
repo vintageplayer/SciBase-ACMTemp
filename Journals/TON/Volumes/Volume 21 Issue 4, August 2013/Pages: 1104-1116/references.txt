@@ -1,0 +1,33 @@
+D. E. Knuth, J. H. Morris, and V. R. Pratt, "Fast pattern matching in strings," Stanford University, Stanford, CA, TR CS-74-440, 1974.
+Robert S. Boyer , J. Strother Moore, A fast string searching algorithm, Communications of the ACM, v.20 n.10, p.762-772, Oct. 1977
+Alfred V. Aho , Margaret J. Corasick, Efficient string matching: an aid to bibliographic search, Communications of the ACM, v.18 n.6, p.333-340, June 1975
+Y. Sugawara, M. Inaba, and K. Hiraki, "Over 10 Gbps string matching mechanismfor multi-stream packet scanning systems,"Field Program. Logic Appl., vol. 3203, pp. 484-493, Sep. 2004.
+Lin Tan , Timothy Sherwood, A High Throughput String Matching Architecture for Intrusion Detection and Prevention, Proceedings of the 32nd annual international symposium on Computer Architecture, p.112-122, June 04-08, 2005
+T. H. Lee and C. C. Liang, "A high-performance memory-efficient pattern matching algorithm and its implementation," inProc. IEEE TENCON, 2006, pp. 1-4.
+"Snort," [Online]. Available: http://www.snort.org/
+Martin Roesch, Snort - Lightweight Intrusion Detection for Networks, Proceedings of the 13th USENIX conference on System administration, November 07-12, 1999, Seattle, Washington
+"Clam AntiVirus (ClamAV)," [Online]. Available: http://www.clamav.net/
+N. Tuck, T. Sherwood, B. Calder, and G. Varghese, "Deterministic memory-efficient string matching algorithms for intrusion detection," inProc. IEEE INFOCOM, 2004, vol. 4, pp. 2628-2639.
+M. Norton, "Optimizing pattern matching for intrusion detection," Sourcefire, Inc., Columbia, MD, Sep. 2004.
+A. Bremler-Barr, Y. Harchol, and D. Hay, "Space-time tradeoffs in software-based deep packet inspection," inProc. IEEE HPSR, 2011, pp. 1-8.
+S. Wu and U. Manber, "A fast algorithm for multi-pattern searching," TR-94-17, 1994.
+Burton H. Bloom, Space/time trade-offs in hash coding with allowable errors, Communications of the ACM, v.13 n.7, p.422-426, July 1970
+A. Broder and M. Mitzenmacher, "Network applications of bloom filters: A survey,"Internet Math., vol. 1, no. 4, pp. 485-509, 2004.
+Sarang Dharmapurikar , Praveen Krishnamurthy , Todd S. Sproull , John W. Lockwood, Deep Packet Inspection using Parallel Bloom Filters, IEEE Micro, v.24 n.1, p.52-61, January 2004
+Michael Attig , Sarang Dharmapurikar , John Lockwood, Implementation Results of Bloom Filters for String Matching, Proceedings of the 12th Annual IEEE Symposium on Field-Programmable Custom Computing Machines, p.322-323, April 20-23, 2004
+Sarang Dharmapurikar , John Lockwood, Fast and scalable pattern matching for content filtering, Proceedings of the 2005 ACM symposium on Architecture for networking and communications systems, October 26-28, 2005, Princeton, NJ, USA
+S. Dharmapurikar , J. W. Lockwood, Fast and Scalable Pattern Matching for Network Intrusion Detection Systems, IEEE Journal on Selected Areas in Communications, v.24 n.10, p.1781-1792, October 2006
+Sarang Dharmapurikar , Praveen Krishnamurthy , David E. Taylor, Longest prefix matching using bloom filters, Proceedings of the 2003 conference on Applications, technologies, architectures, and protocols for computer communications, August 25-29, 2003, Karlsruhe, Germany
+Sarang Dharmapurikar , Praveen Krishnamurthy , David E. Taylor, Longest prefix matching using bloom filters, IEEE/ACM Transactions on Networking (TON), v.14 n.2, p.397-409, April 2006
+N. S. Artan and H. J. Chao, "Multi-packet signature detection using prefix bloom filters," inProc. IEEE GLOBECOM, 2005, vol. 3, pp. 1811-1816.
+N. S. Artan and H. J. Chao, "TriBiCa--Trie bitmap content analyzer for high-speed network intrusion detection," inProc. IEEE INFOCOM, May 2007, pp. 125-133.
+N. S. Artan, K. Sinkar, J. Patel, and H. J. Chao, "Aggregated bloom filters for intrusion detection and prevention hardware," inProc. IEEE GLOBECOM, Nov. 2007, pp. 349-354.
+N. S. Artan, R. Ghosh, G. Yanchuan, and H. J. Chao, "A 10-Gbps high-speed single-chip network intrusion detection and prevention system," inProc. IEEE GLOBECOM, Nov. 2007, pp. 343-348.
+N. S. Artan, M. Bando, and H. J. Chao, "Boundary hash for memory-efficient deep packet inspection," inProc. IEEE ICC, May 2008, pp. 1732-1737.
+M. Bando, N. S. Artan, and H. J. Chao, "Highly memory-efficient loglog hash for deep packet inspection," inProc. IEEE GLOBECOM, 2008, pp. 1-6.
+N. S. Artan, Y. Haowei, and H. J. Chao, "A dynamic load-balanced hashing scheme for networking applications," inProc. IEEE GLOBECOM, 2008, pp. 1-6.
+O. Yigit, "sdbm--substitute dbm," 1990 [Online]. Available: http://search.cpan.org/src/NWCLARK/perl-5.8.4/ext/SDBM_File/sdbm
+O. Erdogan and P. Cao, "Hash-AV: Fast virus signature scanning by cache-resident filters," inProc. IEEE GLOBECOM, 2005, vol. 3, pp. 1767-1772.
+GNU, "hashlib.c--Functions to manage and access hash tables for bash," 1991 [Online]. Available: http://www.opensource.apple.com/ darwinsource/10.3/bash-29/bash/hashlib.c
+Yi-Hua E. Yang , Hoang Le , Viktor K. Prasanna, High performance dictionary-based string matching for deep packet inspection, Proceedings of the 29th conference on Information communications, p.86-90, March 14-19, 2010, San Diego, California, USA
+Junchen Jiang , Yi Tang , Bin Liu , Xiaofei Wang , Yang Xu, SPC-FA: synergic parallel compact finite automaton to accelerate multi-string matching with low memory, Proceedings of the 5th ACM/IEEE Symposium on Architectures for Networking and Communications Systems, October 19-20, 2009, Princeton, New Jersey

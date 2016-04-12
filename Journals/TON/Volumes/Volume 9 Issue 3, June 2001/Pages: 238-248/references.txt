@@ -1,0 +1,41 @@
+M. Allman , S. Floyd , C. Partridge, Increasing TCP's Initial Window, RFC Editor, 1998
+Jussara M. Almeida , Virgilio Almeida , David J. Yates, Measuring the behavior of a World-Wide Web server, Proceedings of the IFIP TC6 seventh international conference on High performance netwoking VII, p.57-72, May 1997, White Plains, New York, USA
+Martin F. Arlitt , Carey L. Williamson, Internet Web servers: workload characterization and performance implications, IEEE/ACM Transactions on Networking (TON), v.5 n.5, p.631-645, Oct. 1997[doi>10.1109/90.649565]
+Mohit Aron , Darren Sanders , Peter Druschel , Willy Zwaenepoel, Scalable content-aware request distribution in cluster-based networks servers, Proceedings of the annual conference on USENIX Annual Technical Conference, p.26-26, June 18-23, 2000, San Diego, California
+H. Balakrishnan, V. Padmanabhan, S. Seshan, M. Stemm, and R. Katz, "TCP behavior of a busy Internet server: Analysis and improvements," in Proc. IEEEINFOCOM, San Francisco, CA, Mar. 1998, pp. 252-262.
+Gaurav Banga , Jeffrey C. Mogul, Scalable kernel performance for internet servers under realistic loads, Proceedings of the annual conference on USENIX Annual Technical Conference, p.1-1, June 15-19, 1998, New Orleans, Louisiana
+Paul Barford , Mark Crovella, Generating representative Web workloads for network and server performance evaluation, Proceedings of the 1998 ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems, p.151-160, June 22-26, 1998, Madison, Wisconsin, USA[doi>10.1145/277851.277897]
+Paul Barford , Mark Crovella, A performance evaluation of hyper text transfer protocols, Proceedings of the 1999 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.188-197, May 01-04, 1999, Atlanta, Georgia, USA[doi>10.1145/301453.301560]
+Distributed Packet Rewriting and its Application to Scalable Server Architectures, Proceedings of the Sixth International Conference on Network Protocols, p.290, October 13-16, 1998
+Jean-Chrysotome Bolot, End-to-end packet delay and loss behavior in the internet, Conference proceedings on Communications architectures, protocols and applications, p.289-298, September 13-17, 1993, San Francisco, California, USA[doi>10.1145/166237.166265]
+L. Brakmo, S. O'Malley, and L. Peterson, "TCP Vegas: New techniques for congestion detection and avoidance," in Proc. ACM SIGMETRICS, Philadelphia, PA, May 1996.
+N. Cardwell, S. Savage, and T. Anderson, "Modeling TCP latency," in Proc. 2000 IEEE Infocom Conf., Tel-Aviv, Israel, Mar. 2000, pp. 1742-1751.
+Mark E. Crovella , Azer Bestavros, Self-similarity in World Wide Web traffic: evidence and possible causes, IEEE/ACM Transactions on Networking (TON), v.5 n.6, p.835-846, Dec. 1997[doi>10.1109/90.650143]
+P. Druschel, V. Pai, and W. Zwaenepoel, "Flash: An efficient and portable web server," in Proc. USENIX 1999 Annual Technical Conf., Monterey, CA, June 1999, pp. 199-212.
+R. Fielding , J. Gettys , J. Mogul , H. Frystyk , T. Berners-Lee, Hypertext Transfer Protocol -- HTTP/1.1, RFC Editor, 1997
+Henrik Frystyk Nielsen , James Gettys , Anselm Baird-Smith , Eric Prud'hommeaux , Håkon Wium Lie , Chris Lilley, Network performance effects of HTTP/1.1, CSS1, and PNG, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.155-166, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263157]
+J. K. Hollingsworth , B. P. Miller, Parallel program performance metrics: a comprison and validation, Proceedings of the 1992 ACM/IEEE conference on Supercomputing, p.4-13, November 16-20, 1992, Minneapolis, Minnesota, USA
+C. Huitema, "Internet quality of service assessment,", ftp.telcordia.com/pub/huitema/stats/quality_today.html, 2000.
+Keynote Systems lnc, http://www.keynote.com, 1998.
+Lucent NetCare Inc, net.medic.http://www.ins.com/software/medic/ datasheet/index.asp, 1997.
+V. Jacobson, Congestion avoidance and control, Symposium proceedings on Communications architectures and protocols, p.314-329, August 16-18, 1988, Stanford, California, USA[doi>10.1145/52324.52356]
+Balachander Krishnamurthy , Craig E. Wills, Analyzing factors that influence end-to-end Web performance, Proceedings of the 9th international World Wide Web conference on Computer networks : the international journal of computer and telecommunications netowrking, p.17-32, June 2000, Amsterdam, The Netherlands
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+D. Lin and H. T. Kung, "TCP fast recovery strategies: Analysis and improvements," in Proc. IEEE INFOCOM, San Francisco, CA, Mar. 1998, pp. 263-271.
+K. G. Lockyer, Introduction to Critical Path Analysis. New York: Pitman, 1964.
+Matthew Mathis , Jeffrey Semke , Jamshid Mahdavi , Teunis Ott, The macroscopic behavior of the TCP congestion avoidance algorithm, ACM SIGCOMM Computer Communication Review, v.27 n.3, p.67-82, July 1997[doi>10.1145/263932.264023]
+B. P. Miller , M. Clark , J. Hollingsworth , S. Kierstead , S. S. Lim , T. Torzewski, IPS-2: The Second Generation of a Parallel Program Measurement System, IEEE Transactions on Parallel and Distributed Systems, v.1 n.2, p.206-217, April 1990[doi>10.1109/71.80132]
+D. Mills, "Network time protocol (version 3): Specification, implementation and analysis," Network Information Center, SRI International, Menlo Park, CA, RFC 1305, 1992.
+J. Mogul, "The case for persistent-connection HTTE" DEC Western Research Laboratory, Palo Alto, CA, WRL 95/4, 1995.
+Jeffrey C. Mogul , Fred Douglis , Anja Feldmann , Balachander Krishnamurthy, Potential benefits of delta encoding and data compression for HTTP, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.181-194, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263162]
+Jitendra Padhye , Victor Firoiu , Don Towsley , Jim Kurose, Modeling TCP throughput: a simple model and its empirical validation, Proceedings of the ACM SIGCOMM '98 conference on Applications, technologies, architectures, and protocols for computer communication, p.303-314, August 31-September 04, 1998, Vancouver, British Columbia, Canada[doi>10.1145/285237.285291]
+V. Padmanabhan and R. Katz, "TCP fast start: A technique for speeding up web transfers," in Proc. 1EEE GLOBECOM, Nov. 1998, pp. 41-t6.
+Vern Paxson, Automated packet trace analysis of TCP implementations, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.167-179, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263160]
+Vern Paxson, End-to-end Internet packet dynamics, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.139-152, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263155]
+Vern Edward Paxson, Measurements and analysis of end-to-end Internet dynamics, University of California at Berkeley, Berkeley, CA, 1998
+Apache HTTP Server Project, http://www.apache.org, 1998.
+M. Schroeder , M. Burrows, Performance of Firefly RPC, Proceedings of the twelfth ACM symposium on Operating systems principles, p.83-90, November 1989[doi>10.1145/74850.74859]
+T. Shepard, "TCP packet trace analysis," Master's thesis, Massachusetts Inst. of Technology, Cambridge, 1990.
+W. Stevens, TCP Slow Start, Congestion Avoidance, Fast Retransmit, and Fast Recovery Algorithms, RFC Editor, 1997
+W. R. Stevens, TCP/1P Illustrated. Reading, MA: Addison-Wesley, 1994, vol. 1, The Protocols.
+C.-Q. Yang and B. Miller, "Critical path analysis for the execution of parallel and distributed programs," in Proc. 8th Int. Conf. Distributed Computing Systems, San Jose, CA, June 1997, pp. 366-373.

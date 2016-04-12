@@ -1,0 +1,51 @@
+S. Blake , D. Black , M. Carlson , E. Davies , Z. Wang , W. Weiss, An Architecture for Differentiated Service, RFC Editor, 1998
+J. Wroclawski, Specification of the Controlled-Load Network Element Service, RFC Editor, 1997
+P. Eardley, (Ed.), "RFC5559: Pre-congestion notification (PCN) architecture," Jun. 2009.
+P. Eardley, (Ed.), "RFC5670: Metering and marking behaviour of PCN nodes," Nov. 2009.
+M. Menth , F. Lehrieder , B. Briscoe , P. Eardley , T. Moncaster , J. Babiarz , A. Charny , Xinyang Zhang , T. Taylor , Kwok-Ho Chan , D. Satoh , R. Geib , G. Karagiannis, A Survey of PCN-Based Admission Control and Flow Termination, IEEE Communications Surveys & Tutorials, v.12 n.3, p.357-375, July 2010[doi>10.1109/SURV.2010.040710.00078]
+A. Charny, F. Huang, G. Karagiannis, M. Menth, and T. Taylor, "PCN boundary node behavior for the controlled load (CL) mode of operation," Internet draft, Jun. 2011.
+A. Charny, J. Zhang, G. Karagiannis, M. Menth, and T. Taylor, "PCN boundary node behavior for the single-marking (SM) mode of operation," Internet draft, Jun. 2011.
+Michael Menth , Frank Lehrieder, PCN-based measured rate termination, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.54 n.13, p.2099-2116, September, 2010[doi>10.1016/j.comnet.2010.01.012]
+J. Rosenberg , H. Schulzrinne , G. Camarillo , A. Johnston , J. Peterson , R. Sparks , M. Handley , E. Schooler, SIP: Session Initiation Protocol, RFC Editor, 2002
+R. Braden , L. Zhang , S. Berson , S. Herzog , S. Jamin, Resource ReSerVation Protocol (RSVP) -- Version 1 Functional Specification, RFC Editor, 1997
+Y. Bernet , P. Ford , R. Yavatkar , F. Baker , L. Zhang , M. Speer , R. Braden , B. Davie , J. Wroclawski , E. Felstaine, A Framework for Integrated Services Operation over Diffserv Networks, RFC Editor, 2000
+B. Briscoe, T. Moncaster, and M. Menth, "Encoding 3 PCN-states in the IP header using a single DSCP," Internet draft, Aug. 2011.
+T. Moncaster, B. Briscoe, and M. Menth, "RFC5696: Baseline encoding and transport of pre-congestion information," Nov. 2009.
+M. Menth, "Efficient admission control and routing in resilient communication networks," Ph.D. dissertation, Univ. Würzburg, Würzburg, Germany, Jul. 2004.
+Sally Floyd , Van Jacobson, Random early detection gateways for congestion avoidance, IEEE/ACM Transactions on Networking (TON), v.1 n.4, p.397-413, Aug. 1993[doi>10.1109/90.251892]
+B. Braden , D. Clark , J. Crowcroft , B. Davie , S. Deering , D. Estrin , S. Floyd , V. Jacobson , G. Minshall , C. Partridge , L. Peterson , K. Ramakrishnan , S. Shenker , J. Wroclawski , L. Zhang, Recommendations on Queue Management and Congestion Avoidance in the Internet, RFC Editor, 1998
+K. Ramakrishnan , S. Floyd , D. Black, The Addition of Explicit Congestion Notification (ECN) to IP, RFC Editor, 2001
+N. Spring , D. Wetherall , D. Ely, Robust Explicit Congestion Notification (ECN) Signaling with Nonces, RFC Editor, 2003
+K. Nichols , S. Blake , F. Baker , D. Black, Definition of the Differentiated Services Field (DS Field) in the IPv4 and IPv6 Headers, RFC Editor, 1998
+S. Floyd, "RFC4774: Specifying alternate semantics for the explicit congestion notification (ECN) field," Feb. 2007.
+Werner Almesberger , Tiziana Ferrari , Jean-Yves Le Boudec, SRP: a scalable resource reservation protocol for the Internet, Computer Communications, v.21 n.14, p.1200-1211, September, 1998[doi>10.1016/S0140-3664(98)00183-2]
+Ion Stoica , Hui Zhang, Providing guaranteed services without per flow management, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.81-94, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316208]
+R. Szábó, T. Henk, V. Rexhepi, and G. Karagiannis, "Resource management in differentiated services (RMD) IP networks," inProc. ICETA, Oct. 2001, pp. 1-8.
+R. J. Gibbens , F. P. Kelly, Resource pricing and the evolution of congestion control, Automatica (Journal of IFAC), v.35 n.12, p.1969-1985, December, 1999[doi>10.1016/S0005-1098(99)00135-1]
+R. J. Gibbens and F. P. Kelly, "Distributed connection acceptance control for a connectionless network," inProc. 16th ITC, Edinburgh, U.K., Jun. 1999, pp. 941-952.
+F. P. Kelly , P. B. Key , S. Zachary, Distributed admission control, IEEE Journal on Selected Areas in Communications, v.18 n.12, p.2617-2628, September 2006[doi>10.1109/49.898741]
+M. Karsten and J. Schmitt, "Admission control based on packet marking and feedback signalling--Mechanisms, implementation and experiments," Darmstadt University of Technology, Darmstadt, Germany, Tech. Rep. 03/2002, Mar. 2002.
+M. Karsten and J. Schmitt, "Packet marking for integrated load control," inProc. IFIP/IEEE IM, 2005, pp. 499-512.
+Lee Breslau , Edward W. Knightly , Scott Shenker , Ion Stoica , Hui Zhang, Endpoint admission control: architectural issues and performance, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.57-69, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347400]
+Ignacio Más Ivars , Gunnar Karlsson, PBAC: Probe-Based Admission Control, Proceedings of the Second International Workshop on Quality of Future Internet Services, p.97-109, September 24-26, 2001
+Ignacio Más , Gunnar Karlsson, A model for endpoint admission control based on packet loss, Proceedings of the 7th international IFIP-TC6 networking conference on AdHoc and sensor networks, wireless networks, next generation internet, May 05-09, 2008, Singapore
+O. Hagsand, I. Más, I. Marsh, and G. Karlsson, "Self-admission control for IP telephony using early quality estimation," inProc. IFIP Netw., 2004, pp. 381-391.
+Michael Menth , Rüdiger Martin , Joachim Charzinski, Capacity overprovisioning for networks with resilience requirements, Proceedings of the 2006 conference on Applications, technologies, architectures, and protocols for computer communications, September 11-15, 2006, Pisa, Italy[doi>10.1145/1159913.1159925]
+S. Iyer, S. Bhattacharyya, N. Taft, and C. Diot, "An approach to alleviate link overload as observed on an IP backbone," inProc. IEEE INFOCOM, San Francisco, CA, Apr. 2003, vol. 1, pp. 406-416.
+X. Zhang and A. Charny, "Performance evaluation of precongestion notification," inProc. IWQoS, 2008, pp. 204-208.
+S. Latre, B. De Vleeschauwer, W. Van de Meerssche, S. Perrault, F. De Turck, P. Demeester, K. De Schepper, C. Hublet, W. Rogiest, S. Custers, and W. Van Leekwijck, "An autonomic PCN based admission control mechanism for video services in access networks," inProc. IEEE ACNM, 2009, pp. 161-168.
+Steven Latré , Bart De Vleeschauwer , Wim Van De Meerssche , Filip De Turck , Piet Demeester , Koen De Schepper , Christian Hublet , Wouter Rogiest , Stefan Custers , Werner Van Leekwijck, Design and configuration of PCN based admission control in multimedia aggregation networks, Proceedings of the 28th IEEE conference on Global telecommunications, p.5136-5143, November 30-December 04, 2009, Honolulu, Hawaii, USA
+M. Menth and F. Lehrieder, "Performance evaluation of PCN-based admission control," inProc. IWQoS, 2008, pp. 110-120.
+M. Arumaithurai, R. Geib, R. Rex, and X. Fu, "Pre-congestion notification-based flow management in MPLS-based DiffServ networks," inProc. IEEE IPCCC, 2009, pp. 57-64.
+Michael Menth , Matthias Hartmann, Threshold configuration and routing optimization for PCN-based resilient admission control, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.53 n.11, p.1771-1783, July, 2009[doi>10.1016/j.comnet.2009.01.013]
+Michael Menth , Andreas Binzenhöfer , Stefan Mühleck, Source models for speech traffic revisited, IEEE/ACM Transactions on Networking (TON), v.17 n.4, p.1042-1051, August 2009[doi>10.1109/TNET.2008.2006222]
+S. Andersen, A. Duric, H. Astrom, R. Hagen, W. Kleijn, and J. Linden, "RFC3951: Internet low bit rate codec (iLBC)," Dec. 2004.
+S. Mühleck, "Modelling and performance evaluation of periodic real-time traffics," Master's Thesis, Univ. Würzburg, Würzburg, Germany, 2007.
+Jaeyeon Jung , Balachander Krishnamurthy , Michael Rabinovich, Flash crowds and denial of service attacks: characterization and implications for CDNs and web sites, Proceedings of the 11th international conference on World Wide Web, May 07-11, 2002, Honolulu, Hawaii, USA[doi>10.1145/511446.511485]
+I. Ari, B. Hong, E. L. Miller, S. A. Brandt, and D. D. E. Long, "Managing flash crowds on the Internet," inProc. IEEE/ACM MASCOTS, 2003, pp. 246-249.
+Xuan Chen , John Heidemann, Flash crowd mitigation via adaptive admission control based on application-level observations, ACM Transactions on Internet Technology (TOIT), v.5 n.3, p.532-569, August 2005[doi>10.1145/1084772.1084776]
+D. S. Seibel, "American Idol outrage: Your vote doesn't count,"Broadcast. CableMay 2004 {Online}. Available: http://www.broadcastingcable. com/article/CA417981.html
+P. Eardley, "Traffic matrix scenario," Oct. 2007 {Online}. Available: http://www.ietf.org/mail-archive/web/pcn/current/msg00831.html
+B. Briscoe, P. Eardley, D. Songhurst, F. Le Faucheur, A. Charny, J. Babiarz, K. Chan, S. Dudley, G. Karagiannis, A. Bader, and L. Westberg, "An edge-to-edge deployment model for pre-congestion notification: Admission control over a DiffServ region," Internet draft, Oct. 2006.
+Joel Sommers , Paul Barford , Nick Duffield , Amos Ron, Improving accuracy in end-to-end packet loss measurement, Proceedings of the 2005 conference on Applications, technologies, architectures, and protocols for computer communications, August 22-26, 2005, Philadelphia, Pennsylvania, USA[doi>10.1145/1080091.1080111]
+Frank Lehrieder , Michael Menth, PCN-based flow termination with multiple bottleneck links, Proceedings of the 2009 IEEE international conference on Communications, p.2218-2223, June 14-18, 2009, Dresden, Germany

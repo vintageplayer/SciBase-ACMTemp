@@ -1,0 +1,26 @@
+Guido Appenzeller , Isaac Keslassy , Nick McKeown, Sizing router buffers, Proceedings of the 2004 conference on Applications, technologies, architectures, and protocols for computer communications, August 30-September 03, 2004, Portland, Oregon, USA[doi>10.1145/1015467.1015499]
+Arthur W. Berger , Yaakov Kogan, Dimensioning bandwidth for elastic traffic in high-speed data networks, IEEE/ACM Transactions on Networking (TON), v.8 n.5, p.643-654, Oct. 2000[doi>10.1109/90.879350]
+Gunter Bolch , Stefan Greiner , Hermann de Meer , Kishor Shridharbhai Trivedi, Queueing Networks and Markov Chains, Wiley-Interscience, 2005
+Mark Carson , Darrin Santay, NIST Net: a Linux-based network emulation tool, ACM SIGCOMM Computer Communication Review, v.33 n.3, July 2003[doi>10.1145/956993.957007]
+T. Daniels and C. Blondia, "Tail transitions in queues with long range dependent input," inProc. IFIP Netw., 2000, pp. 264-274.
+A. Dhamdhere, H. Jiang, and C. Dovrolis, "Buffer sizing for congested Internet links," inProc. IEEE INFOCOM, 2005, pp. 1072-1083.
+Amogh Dhamdhere , Constantine Dovrolis, Open issues in router buffer sizing, ACM SIGCOMM Computer Communication Review, v.36 n.1, January 2006[doi>10.1145/1111322.1111342]
+Mihaela Enachescu , Yashar Ganjali , Ashish Goel , Nick McKeown , Tim Roughgarden, Part III: routers with very small buffers, ACM SIGCOMM Computer Communication Review, v.35 n.3, July 2005[doi>10.1145/1070873.1070886]
+Yashar Ganjali , Nick McKeown, Update on buffer sizing in internet routers, ACM SIGCOMM Computer Communication Review, v.36 n.5, October 2006[doi>10.1145/1163593.1163605]
+Hao Jiang , Constantinos Dovrolis, Why is the internet traffic bursty in short time scales?, Proceedings of the 2005 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 06-10, 2005, Banff, Alberta, Canada[doi>10.1145/1064212.1064240]
+Han S. Kim , Ness B. Shroff, Loss probability calculations and asymptotic analysis for finite buffer multiplexers, IEEE/ACM Transactions on Networking (TON), v.9 n.6, p.755-768, December 2001[doi>10.1109/90.974529]
+A. Lakshmikantha, R. Srikant, and C. Beck, "Impact of file arrivals and departures on buffer sizing in core routers," inProc. IEEE INFOCOM, 2008, pp. 86-90.
+Will E. Leland , Murad S. Taqqu , Walter Willinger , Daniel V. Wilson, On the self-similar nature of Ethernet traffic (extended version), IEEE/ACM Transactions on Networking (TON), v.2 n.1, p.1-15, Feb. 1994[doi>10.1109/90.282603]
+Matthew Mathis , Jeffrey Semke , Jamshid Mahdavi , Teunis Ott, The macroscopic behavior of the TCP congestion avoidance algorithm, ACM SIGCOMM Computer Communication Review, v.27 n.3, p.67-82, July 1997[doi>10.1145/263932.264023]
+M. Mellia, I. Stocia, and H. Zhang, "TCP model for short lived flows,"IEEE Commun. Lett., vol. 6, pp. 85-87, 2002.
+R. Morris, TCP behavior with many flows, Proceedings of the 1997 International Conference on Network Protocols (ICNP '97), p.205, October 28-31, 1997
+R. Morris, "Scalable TCP congestion control," inProc. IEEE INFOCOM, 2000, pp. 1176-1183.
+Ravi S. Prasad , Constantine Dovrolis, Measuring the congestion responsiveness of internet traffic, Proceedings of the 8th international conference on Passive and active network measurement, April 05-06, 2007, Louvain-la-Neuve, Belgium
+Ravi S. Prasad , Constantine Dovrolis, Beyond the Model of Persistent TCP Flows: Open-Loop vs Closed-Loop Arrivals of Non-persistent Flows, Proceedings of the 41st Annual Simulation Symposium (anss-41 2008), p.121-130, April 13-16, 2008[doi>10.1109/ANSS-41.2008.16]
+Gaurav Raina , Don Towsley , Damon Wischik, Part II: control theory for buffer sizing, ACM SIGCOMM Computer Communication Review, v.35 n.3, July 2005[doi>10.1145/1070873.1070885]
+B. Schroeder, A. Wierman, and M. Harchol-Balter, "Closed versus open: A cautionary tale," inProc. USENIX NSDI, 2006, pp. 239-252.
+Joel Sommers , Paul Barford, Self-configuring network traffic generation, Proceedings of the 4th ACM SIGCOMM conference on Internet measurement, October 25-27, 2004, Taormina, Sicily, Italy[doi>10.1145/1028788.1028798]
+Curtis Villamizar , Cheng Song, High performance TCP in ANSNET, ACM SIGCOMM Computer Communication Review, v.24 n.5, p.45-60, Oct. 1994[doi>10.1145/205511.205520]
+G. Vu-Brugier , R. S. Stanojevic , D. J. Leith , R. N. Shorten, A critique of recently proposed buffer-sizing strategies, ACM SIGCOMM Computer Communication Review, v.37 n.1, January 2007[doi>10.1145/1198255.1198262]
+Walter Willinger , Murad S. Taqqu , Robert Sherman , Daniel V. Wilson, Self-similarity through high-variability: statistical analysis of ethernet LAN traffic at the source level, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.100-113, August 28-September 01, 1995, Cambridge, Massachusetts, USA[doi>10.1145/217382.217418]
+Damon Wischik , Nick McKeown, Part I: buffer sizes for core routers, ACM SIGCOMM Computer Communication Review, v.35 n.3, July 2005[doi>10.1145/1070873.1070884]

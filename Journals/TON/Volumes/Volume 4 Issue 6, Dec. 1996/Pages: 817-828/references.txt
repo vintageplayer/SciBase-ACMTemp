@@ -1,0 +1,37 @@
+D. Banks and } M. Prudence, "A high-performance network architecture for a PA-RISC workstation," IEEE J. Select. Areas Commun., pp. 191-202, Feb. 1993.
+R. T. Braden, D. A. Borman, and C. Partridge, "Computing the Internet checksum," Internet RFC 1071, Sept. 1988.
+R. T. Braden, Ed., "Requirements for internet hosts~ommunication Layers," lnternet RFC 1122, Oct. 1989.
+L. F. Cabrera , E. Hunter , M. J. Karels , D. A. Mosher, User-Process Communication Performance in Networks of Computers, IEEE Transactions on Software Engineering, v.14 n.1, p.38-53, January 1988[doi>10.1109/32.4621]
+Ramón Cáceres , Peter B. Danzig , Sugih Jamin , Danny J. Mitzel, Characteristics of wide-area TCP/IP conversations, Proceedings of the conference on Communications architecture & protocols, p.101-112, September 03-06, 1991, Zurich, Switzerland[doi>10.1145/115992.116003]
+S. Carl-Mitchell and J. Quarterman, "Using ARP to implement transparent subnet gateways," Internet RFC 1027, Oct. 1987.
+Kimberly Claire Claffy, Internet traffic characterization, University of California at San Diego, La Jolla, CA, 1994
+D. D. Clark, "Modularity and efficiency in protocol implementation," Interuet RFC 817, 1982.
+David D. Clark, The structuring of systems using upcalls, Proceedings of the tenth ACM symposium on Operating systems principles, p.171-180, December 1985, Orcas Island, Washington, United States[doi>10.1145/323647.323645]
+D. D. Clark, V. Jacobson, J. Romkey, and H. Salwen, "An analysis of TCP processing overhead," IEEE Commun. Mag., pp. 23-29, June 1989.
+D. D. Clark , D. L. Tennenhouse, Architectural considerations for a new generation of protocols, Proceedings of the ACM symposium on Communications architectures & protocols, p.200-208, September 26-28, 1990, Philadelphia, Pennsylvania, United States[doi>10.1145/99508.99553]
+P. Desnoyers, "Re: bypassing TCP checksum," comp.protocols.tcp-ip, Usenet, June 1993.
+R. Gusella, "A measurement study of diskless workstation traffic on an Ethemet," IEEE Trans. Commun., vol. 38, no. 9, pp. 1557-1568, Sept. 1990.
+ANSI/IEEE, Std 802.1d, "Information processing systems--local and metropolitan area networks--Part ld," ANSFIEEE Std 802.1d, 1992.
+V. Jacobson, "BSD TCP Etheruet Throughput," comp.protocols.tcp-ip, Usenet, 1988.
+"Some design issues for high-speed networks," in Networkshop '93, Nov. 1993.
+H. Kanakia , D. Cheriton, The VMP network adapter board (NAB): high-performance network communication for multiprocessors, Symposium proceedings on Communications architectures and protocols, p.175-187, August 16-18, 1988, Stanford, California, United States[doi>10.1145/52324.52343]
+J. Kay and J. Pasquale, "Measurement, analysis, and improvement of UDP/IP throughput for the DECstation 5000," in Proc. Winter 1993 USENIX Conf., 1993, pp. 249-258.
+Marshall Kirk McKusick , Keith Bostic , Michael J. Karels , John S. Quarterman, The design and implementation of the 4.4BSD operating system, Addison Wesley Longman Publishing Co., Inc., Redwood City, CA, 1996
+Paul E. McKenney , Ken F. Dove, Efficient demultiplexing of incoming TCP packets, Conference proceedings on Communications architectures & protocols, p.269-279, August 17-20, 1992, Baltimore, Maryland, United States[doi>10.1145/144179.144299]
+Jeffrey C. Mogul, Network locality at the scale of processes, Proceedings of the conference on Communications architecture & protocols, p.273-284, September 03-06, 1991, Zurich, Switzerland[doi>10.1145/115992.116017]
+Jeffrey C. Mogul, The case for persistent-connection HTTP, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.299-313, August 28-September 01, 1995, Cambridge, Massachusetts, United States[doi>10.1145/217382.217465]
+J. Mogul and S. Deering, "Path MTU discovery," Internet RFC 1191, Nov. 1990.
+J. Ousterhout, "Why aren't operating systems geuing faster as fast as hardware," in Proc. Summer 1990 USENIX Conf., 1990, pp. 247-256.
+Craig Partridge , Jim Hughes , Jonathan Stone, Performance of checksums and CRCs over real data, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.68-76, August 28-September 01, 1995, Cambridge, Massachusetts, United States[doi>10.1145/217382.217413]
+Craig Partridge , Stephen Pink, A faster UDP, IEEE/ACM Transactions on Networking (TON), v.1 n.4, p.429-440, Aug. 1993[doi>10.1109/90.251895]
+B. Pawlowski, C. Juszczak, P. Staubach, C. Smith, D. Lebel, and D. Hitz, "NFS Version 3 design and implementation," in Proc. Summer 1994 USENIX Conf., 1994.
+D. C. Plummer, "Ethernet address resolution protocol: or converting network protocol addresses to 48.bit Ethernet address for transmission on Ethernet hardware," Internet RFC 826, Nov. 1982.
+J. Postel, "User datagram protocol," Internet RFC 768, Aug. 1980.
+"Transmission control protocol," Internet RFC 793, Sept. 1981.
+V. J. Schryver, "Re: bypassing TCP checksum," comp.protocols.tcp-ip, Usenet, June 1993.
+Alfred Z. Spector, Performing remote operations efficiently on a local computer network, Communications of the ACM, v.25 n.4, p.246-260, April 1982[doi>10.1145/358468.358478]
+Sun Microsystems, Inc., "NFS: Network File System Protocol Specification,'' Internet RFC 1094, Mar. 1989.
+Chandramohan A. Thekkath , Henry M. Levy, Limits to low-latency communication on high-speed networks, ACM Transactions on Computer Systems (TOCS), v.11 n.2, p.179-203, May 1993[doi>10.1145/151244.151247]
+Thorsten von Eicken , David E. Culler , Seth Copen Goldstein , Klaus Erik Schauser, Active messages: a mechanism for integrated communication and computation, Proceedings of the 19th annual international symposium on Computer architecture, p.256-266, May 19-21, 1992, Queensland, Australia[doi>10.1145/139669.140382]
+Richard W. Watson , Sandy A. Mamrak, Gaining efficiency in transport services by appropriate design and implementation choices, ACM Transactions on Computer Systems (TOCS), v.5 n.2, p.97-120, May 1987[doi>10.1145/13677.13678]
+J. Zweig and C. Partridge, ''TCP alternate checksum options," !nternet RFC 1146, Mar. 1991.

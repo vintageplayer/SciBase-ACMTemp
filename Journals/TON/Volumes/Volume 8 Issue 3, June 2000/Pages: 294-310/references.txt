@@ -1,0 +1,35 @@
+Mostafa H. Ammar , Li-Ran Wu, Improving the throughput of point-to-multipoint ARQ protocols through destination set splitting, Proceedings of the eleventh annual joint conference of the IEEE computer and communications societies on One world through communications (Vol. 1), p.262-271, May 1992, Florence, Italy
+Tony Ballardie , Paul Francis , Jon Crowcroft, Core based trees (CBT), Conference proceedings on Communications architectures, protocols and applications, p.85-95, September 13-17, 1993, San Francisco, California, USA[doi>10.1145/166237.166246]
+P. Bhagawat, P. P. Mishra, and S. K. Tripathi, "Effect of topology in performance of reliable multicast communication," in Proc. IEEE Infocom, June 1994, pp. 602-609.
+D. Cheriton, "End-to-End mailing list," unpublished, Sept. 1994.
+S.Y. Cheung, M. H. Ammar, and X. Li, "On the use of destination set grouping to improve fairness in multicast video distribution," Georgia Institute of Technology, Atlanta, GA, Tech. Rep. GIT-CC-95-25, July 1995.
+J. Crowcroft, "End-to-End mailing list," unpublished, Sept. 1994.
+Stephen Edward Deering, Multicast routing in a datagram internetwork, Stanford University, Stanford, CA, 1992
+Institute for Simulation and Training, "Standard for distributed interactive simulation--Application protocols," Univ. Central Florida, Orlando, FL, Tech. Rep. IST-CR-94-50, 1994.
+Sally Floyd , Van Jacobson , Ching-Gung Liu , Steven McCanne , Lixia Zhang, A reliable multicast framework for light-weight sessions and application level framing, IEEE/ACM Transactions on Networking (TON), v.5 n.6, p.784-803, Dec. 1997[doi>10.1109/90.650139]
+G. Hj~ilmt2~sson and S. Bhattacharjee, "Control-on-demand," AT&T, Tech. Memo., I997.
+M. Hofmann, "Enabling group communication in global networks," in Proc. Global Networking'97, Calgary, Alberta, Canada, Nov. 1996.
+Hugh W. Holbrook , Sandeep K. Singhal , David R. Cheriton, Log-based receiver-reliable multicast for distributed interactive simulation, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.328-341, August 28-September 01, 1995, Cambridge, Massachusetts, USA[doi>10.1145/217382.217468]
+S. Deering, "Host extensions for IP multicasting,", RFC 1112, Aug. 1989.
+W. Fenner, Internet Group Management Protocol, Version 2, RFC Editor, 1997
+Jonathan Kay , Joseph Pasquale, The importance of non-data touching processing overheads in TCP/IP, Conference proceedings on Communications architectures, protocols and applications, p.259-268, September 13-17, 1993, San Francisco, California, USA[doi>10.1145/166237.166262]
+Sneha K. Kasera , Jim Kurose , Don Towsley, Scalable reliable multicast using multiple multicast groups, Proceedings of the 1997 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.64-74, June 15-18, 1997, Seattle, Washington, USA[doi>10.1145/258612.258676]
+--, "A comparison of server-based and receiver-based local recovery approaches for scalable reliable multicast," in Proc. IEEE lnfocom, March 1998, pp. 988-995.
+L. Lehman, S. Garland, and D. Tennenhouse, "Active reliable multicast," in Proc. IEEE Infocom, Mar. 1998, pp. 581-588.
+B. N. Levine and J. Garcia-Luna-Aceves, "A comparison of known classes of reliable multicast protocols," in Proc. IEEE ICCC, Nov. 1996.
+Brian Neil Levine , David B. Lavo , J. J. Garcia-Luna-Aceves, The case for reliable concurrent multicasting using shared ACK trees, Proceedings of the fourth ACM international conference on Multimedia, p.365-376, November 18-22, 1996, Boston, Massachusetts, USA[doi>10.1145/244130.244237]
+B. N. Levine , J. J. Garcia-Luna-Aceves, Improving Internet multicast with routing labels, Proceedings of the 1997 International Conference on Network Protocols (ICNP '97), p.241, October 28-31, 1997
+John C. Lin , Sanjoy Paul, RMTP: a reliable multicast transport protocol, Proceedings of the Fifteenth annual joint conference of the IEEE computer and communications societies conference on The conference on computer communications, March 24-28, 1996, San Francisco, California
+Steven McCanne , Van Jacobson , Martin Vetterli, Receiver-driven layered multicast, Conference proceedings on Applications, technologies, architectures, and protocols for computer communications, p.117-130, August 28-30, 1996, Palo Alto, California, USA[doi>10.1145/248156.248168]
+Jörg Nonnenmacher , Ernst W. Biersack , Don Towsley, Parity-based loss recovery for reliable multicast transmission, IEEE/ACM Transactions on Networking (TON), v.6 n.4, p.349-361, Aug. 1998[doi>10.1109/90.720869]
+Craig Partridge , Stephen Pink, A faster UDP, IEEE/ACM Transactions on Networking (TON), v.1 n.4, p.429-440, Aug. 1993[doi>10.1109/90.251895]
+C. Papadopoulos, G. Parulkar, and G. Varghese, "An error control scheme for large-scale multicast applications," in Proc. IEEE Infocom, Mar. 1998, pp. 1188-1195.
+Sridhar Pingali , Don Towsley , James F. Kurose, A comparison of sender-initiated and receiver-initiated reliable multicast protocols, Proceedings of the 1994 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.221-230, May 16-20, 1994, Nashville, Tennessee, USA[doi>10.1145/183018.183043]
+T. Speakman, D. Farinacci, S. Lin, and A. Tweedly, Pragmatic general multicast, Internet Draft, Aug. 1998.
+L. Rizzo, "Fast group management in IGMP," presented at the HIP- PARCH'98 Workshop, June 1998.
+D. Towsley , J. Kurose , S. Pingali, A comparison of sender-initiated and receiver-initiated reliable multicast protocols, IEEE Journal on Selected Areas in Communications, v.15 n.3, p.398-406, September 2006[doi>10.1109/49.564137]
+D. Towsley, "An analysis of a point-to-multipoint channel using a go-back-N error control protocol," IEEE Trans. Commun., vol. 33, pp. 282-285, Mar. 1985.
+L. Vicisano, L. Rizzo, and J. Crowcroft, "TCP-like congestion control for layered multicast data transfer," in Proc. IEEE Infocom, Mar. 1998, pp. 996--1003.
+Rajendra Yavatkar , James Griffoen , Madhu Sudan, A reliable dissemination protocol for interactive collaborative applications, Proceedings of the third ACM international conference on Multimedia, p.333-344, November 05-09, 1995, San Francisco, California, USA[doi>10.1145/217279.215288]
+M. Yajnik, J. Kurose, and D. Towsley, "Packet loss correlation in the MBone multicast network," in IEEE Global Internet Conf., Nov. 1996, pp. 94-99.
+M. Yajnik, S. Moon, J. Kurose, and D. Towsley, "Measurement and modeling of the temporal dependence in packet loss," in Proc. IEEE Infocom, Mar. 1999, pp. 345-352.

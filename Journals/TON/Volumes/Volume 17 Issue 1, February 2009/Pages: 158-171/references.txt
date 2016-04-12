@@ -1,0 +1,65 @@
+D. Clark, The design philosophy of the DARPA internet protocols, Symposium proceedings on Communications architectures and protocols, p.106-114, August 16-18, 1988, Stanford, California, USA[doi>10.1145/52324.52336]
+R. Braden, D. D. Clark, and S. Shenker, "Integrated services in the Internet architecture: An overview,"Internet Engineering Task Force, RFC 1633, Jun. 1994.
+B. E. Carpenter and S. Brim, "Middleboxes: Taxonomy and issues,"Internet Engineering Task Force, RFC 3234, Feb. 2002.
+Marjory S. Blumenthal , David D. Clark, Rethinking the design of the Internet: the end-to-end arguments vs. the brave new world, ACM Transactions on Internet Technology (TOIT), v.1 n.1, p.70-109, Aug. 2001[doi>10.1145/383034.383037]
+J. Kempf and R. Austein, "The rise of the middle and the future of end-to-end: Reflections on the evolution of the Internet architecture Internet engineering task force,"Internet Engineering Task Force, RFC 3724, Mar. 2004.
+L. Zhang, S. Deering, D. Estrin, S. Shen, and D. Zappala, "RSVP: A new resource reservation protocol,"IEEE Network, vol. 7, no. 5, pp. 8-18, Sep. 1993.
+R. Braden, L. Zhang, S. Berson, S. Herzog, and S. Jamin, "Resource reservation protocol (RSVP)-Version 1 functional specification,"In-ternet Engineering Task Force, RFC 2205, Sep. 1997.
+J. Wroclawski, "The use of RSVP with IETF integrated services,"In-ternet Engineering Task Force, RFC 2210, Sep. 1997.
+S. Blake, D. L. Black, M. Carlson, E. Davies, Z. Wang, and W. Weiss, "An architecture for differentiated service,"Internet Engineering Task Force, RFC 2475, Dec. 1998.
+T. Chiueh , A. Neogi , P. Stirpe, Performance Analysis of an RSVP-Capable Router, Proceedings of the Fourth IEEE Real-Time Technology and Applications Symposium, p.39, June 03-05, 1998
+M. Karsten, J. Schmitt, and R. Steinmetz, "Implementation and eval-uation of the KOM RSVP engine," presented at the IEEE INFOCOM, Anchorage, AK, Apr. 2001.
+L. Berger, D. Gan, G. Swallow, P. Pan, F. Tommasi, and S. Molendini, "RSVP refresh overhead reduction extensions,"Internet Engineering Task Force RFC 2961, Apr. 2001.
+P. Pan, E. Hahne, and H. Schulzrinne, "BGRP: A tree-based aggre-gation protocol for inter-domain reservations,"J. Commun. Networks, vol. 2, no. 2, pp. 157-167, June 2000.
+P. Pan and H. Schulzrinne, "YESSIR: A simple reservation mechanism for the Internet," presented at the ACM NOSSDAV, Cambridge, U.K., Jul. 1998.
+G. Feher, K. Nemeth, M. Maliosz, I. Cselenyi, J. Bergkvist, D. Ahlard, and T. Engborg, "Boomerang-A simple protocol for resource reser-vation in IP networks," presented at the IEEE RTAS, Vancouver, BC, Canada, Jun. 1999.
+P. Chandra, A. Fisher, and P. Steenkiste, "A signaling protocol for structured resource allocation," presented at the IEEE INFOCOM, New York, NY, Mar. 1999.
+Anup Kumar Talukdar , B. R. Badrinath , Arup Acharya, MRSVP: a resource reservation protocol for an integrated services network with mobile hosts, Wireless Networks, v.7 n.1, p.5-19, 2001[doi>10.1023/A:1009035929952]
+Seoung-Bum Lee , Gahng-Seop Ahn , Xiaowei Zhang , Andrew T. Capbell, INSIGNIA: an IP-based quality of service framework for mobile ad Hoc networks, Journal of Parallel and Distributed Computing, v.60 n.4, p.374-406, April 2000[doi>10.1006/jpdc.1999.1613]
+W.-T. Chen and L.-C. Huang, "RSVP mobility support: A signaling protocol for integrated services Internet with mobile hosts," presented at the IEEE INFOCOM 2000, Tel-Aviv, Israel, Mar. 2000.
+J. Manner and X. Fu, "Analysis of existing quality-of-service signaling protocols Internet engineering task force,"IETF RFC 4094, May 2005.
+The IETF Next Steps in Signaling (NSIS) Working Group {Online}. Available: http://www.ietf.org/html.charters/nsis-charter.html
+B. Braden and B. Lindell, "A two-level architecture for Internet sig-naling,"Internet Draft (Draft-Braden-2Level-Signaling-01), Work in Progress, Oct. 2002.
+H. Schulzrinne, H. Tschofenig, X. Fu, and A. McDonald, "CASP-Cross-application signaling protocol,"Internet Draft (Draft-Schulzrinne-Nsis-Casp-01), Work in Progress, Mar. 2003.
+Xiaoming Fu , Hannes Tschofenig , Dieter Hogrefe, Beyond QoS signaling: a new generic IP signaling framework, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.50 n.17, p.3416-3433, 5 December 2006[doi>10.1016/j.comnet.2006.01.006]
+H. Schulzrinne and R. Hancock, "GIST: General Internet sig-naling transport,"Internet Draft (Draft-Ietf-NSIS-NTLP-15), Work in Progress, Feb. 2008.
+R. Hancock, G. Karagiannis, J. Loughney, and S. Van den Bosch, "Next steps in signaling (NSIS): Framework,"Internet Engineering Task Force, RFC 4080, Jun. 2005.
+R. Stewart, "Stream control transmission protocol,"Internet Engi-neering Task Force, RFC 4960, Sep. 2007.
+E. Kohler, M. Handley, and S. Floyd, "Datagram congestion control protocol (DCCP),"Internet Engineering Task Force, RFC 4340, Mar. 2006.
+X. Fu, C. Dickmann, and J. Crowcroft, "General Internet signaling transport (GIST) over SCTP,"Internet Draft (Draft-Ietf-NSIS-NTLP-SCTP-04), Work in Progress, Feb. 2008.
+J. Manner, G. Karagiannis, and A. McDonald, "NSLP for quality-of-service signaling,"Internet Draft (Draft-IETF-NSIS-QOS-NSLP-16), Work in Progress, Feb. 2008.
+M. Stiemerling, H. Tschofenig, C. Aoun, and E. Davies, "NAT/firewall NSIS signaling layer protocol (NSLP),"Internet Draft (Draft-IETF-NSIS-NSLP-NATFW-16), Work in Progress, Feb. 2008.
+A. Fessi, G. Carle, F. Dressler, J. Quittek, C. Kappler, and H. Tschofenig, "NSLP for metering configuration signaling,"Internet Draft (Draft-Dressler-NSIS-Metering-NSLP-05), Work in Progress, Mar. 2007.
+D. D. Katz, "IP router alert option,"Internet Engineering Task Force, RFC 2113, Feb. 1997.
+T. Tsenov, H. Tschofenig, X. Fu, C. Aoun, and E. Davies, "GIST state machine,"Internet Draft (Draft-IETF-NSIS-NTLP-Statemachine-05), Work in Progress, Feb. 2008.
+C. Aoun, E. Davies, and H. Tschofenig, "Securing middlebox dis-covery for path-directed signaling in the Internet," presented at the IEEE ASWN 2005 Workshop, Paris, France, Jul. 2005.
+P. Pan and H. Schulzrinne, "Staged refresh timers for RSVP," presented at the IEEE Global Internet, Phoenix, AZ, Nov. 1997.
+Lan Wang , Andreas Terzis , Lixia Zhang, A New Proposal for RSVP Refreshes, Proceedings of the Seventh Annual International Conference on Network Protocols, p.163, October 31-November 03, 1999
+L.-E. Jonsson, G. Pelletier, and K. Sandlund, "The robust header com-pression (ROHC) framework Internet engineering task force,"IETF RFC 4995, July 2007.
+C. Dickmann, I. Juchem, S. Willert, and X. Fu, "A stateless ping tool for simple tests of GIST implementations,"Internet Draft (Draft-Juchem-NSIS-Ping-Tool-02), Work in Progress, Jul. 2005.
+OpenNSIS Implementation. University of Göttingen, Göttingen, Germany {Online}. Available: http://user.informatik.uni-goet-tingen.de/~nsis
+The eXtensible Open Router Platform (XORP). {Online}. Available: http://www.xorp.org/
+P. Marques, Kernel ISDN Subsystem and Device Drivers. {On-line}. Available: http://kernel.org/pub/linux/kernel/people/marcelo/ linux-2.4/drivers/isdn/
+Ethereal Dissector for GIST. {Online}. Available: http://user.infor-matik.uni-goettingen.de/~nsis/ethereal.html
+G. Varghese , T. Lauck, Hashed and hierarchical timing wheels: data structures for the efficient implementation of a timer facility, ACM SIGOPS Operating Systems Review, v.21 n.5, p.25-38, Nov. 1987[doi>10.1145/37499.37504]
+Suchitra Raman , Steven McCanne, A model, analysis, and protocol framework for soft state-based communication, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.15-25, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316202]
+Ping Ji , Zihui Ge , Jim Kurose , Don Towsley, A comparison of hard-state and soft-state signaling protocols, Proceedings of the 2003 conference on Applications, technologies, architectures, and protocols for computer communications, August 25-29, 2003, Karlsruhe, Germany[doi>10.1145/863955.863984]
+Y. Bernet, P. Ford, R. Yavatkar, F. Baker, L. Zhang, M. Speer, R. Braden, and B. S. Davie, "A framework for integrated services opera-tion over diffserv networks Internet engineering task force,"IETF RFC 2998, Nov. 2000.
+F. Baker, C. Iturralde, F. L. Faucheur, and B. Davie, "Aggregation of RSVP for IPv4 and IPv6 reservations,"Internet Engineering Task Force RFC 3175, Sep. 2001.
+Zhi-Li Zhang , Zhenhai Duan , Lixin Gao , Yiwei Thomas Hou, Decoupling QoS control from core routers: a novel bandwidth broker architecture for scalable support of guaranteed services, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.71-83, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347403]
+A. Mankin, F. Baker, B. Braden, S. Bradner, M. O'Dell, A. Ro-manow, A. Weinrib, and L. Zhang, "Resource reservation protocol (RSVP)-Version 1 applicability statement, some guidelines on deployment,"Internet Engineering Task Force, RFC 2208, Sep. 1997.
+D. Awduche, L. Berger, D. Gan, T. Li, V. Srinivasan, and G. Swallow, "RSVP-TE: Extensions to RSVP for LSP tunnels,"Internet Engi-neering Task Force, RFC 3209, Dec. 2001.
+A. Terzis, J. Krawczyk, J. Wroclawski, and L. Zhang, "RSVP operation over IP tunnels,"Internet Engineering Task Force RFC 2746, Jan. 2000.
+D. Mitzel, D. Estrin, S. Shenker, and L. Zhang, "An architectural comparison of ST-II and RSVP," presented at the IEEE INFOCOM, Toronto, ON, Canada, Jun. 1994.
+T.-L. Wu, S. F. Wu, Z. Fu, H. Huang, and F.-M. Gong, "Securing QoS: Threats to RSVP messages and their countermeasures," presented at the IWQoS, London, U.K., Jun. 1999.
+M. Shore, "The NSIS transport layer protocol (NTLP),"Internet Draft (Draft-Shore-NTLP-00), Work in Progress, May 2003.
+Srihari Nelakuditi , Sanghwan Lee , Yinzhe Yu , Zhi-Li Zhang, Failure insensitive routing for ensuring service availability, Proceedings of the 11th international conference on Quality of service, June 02-04, 2003, Berkeley, CA, USA
+P. Pan and H. Schulzrinne, "Processing overhead studies in resource reservation protocols," presented at the Int. Teletraffic Congr. (ITC), Salvador, Brazil, Sep. 2001.
+Xiaoming Fu , Dieter Hogrefe , Sebastian Willert, Implementation and Evaluation of the Implementation and Evaluation of the, Proceedings of the 12th IEEE International Conference on Network Protocols, p.61-71, October 05-08, 2004
+T. Sanda, X. Fu, S. Jeong, J. Manner, and H. Tschofenig, "Applica-bility statement of NSIS protocols in mobile environments,"Internet Draft (Draft-IETF-NSIS-Applicability-Mobility-Signaling-09) Work in Progress, Feb. 2008.
+J. B. Postel, "Transmission control protocol,"Internet Engineering Task Force, RFC 793, Sep. 1981.
+J. Touch, "TCP control block interdependence,"Internet Engineering Task Force, RFC 2140, Apr. 1997.
+H. Balakrishnan and S. Seshan, "The congestion manager,"Internet Engineering Task Force, RFC 3124, Jun. 2001.
+R. Braden and L. Zhang, "Resource ReSerVation Protocol (RSVP)-Version 1 message processing rules,"Internet Engineering Task Force, RFC 2209, Sep. 1997.
+L. Andersson, P. Doolan, N. Feldman, A. Fredette, and B. Thomas, "LDP Specification,"Internet Engineering Task Force, RFC 3036, Jan. 2001.
+X. Fu, H. Schulzrinne, H. Tschofenig, C. Dickmann, and D. Hogrefe, "Overhead and performance study of the general Internet signaling transport (GIST) protocol," presented at the IEEE INFOCOM, Barcelona, Spain, Apr. 2006.
