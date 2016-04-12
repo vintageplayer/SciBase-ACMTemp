@@ -1,0 +1,10 @@
+This article describes two simulations which, together, are
+intended to help students make the leap from writing programs in a
+simple high-level language to understanding how such programs come
+to be translated and executed on a simple computer. The first
+program simulates the compilation of an assignment statement from a
+typical programming language into a mock assembly language. The
+second program simulates the fetch-execute cycle on a computer
+built expressly to process that same assembly language. We describe
+the design and use of each simulator, and conclude with anecdotes
+about our experiences using these tools in class.

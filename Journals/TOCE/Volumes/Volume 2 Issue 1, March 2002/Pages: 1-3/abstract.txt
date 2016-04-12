@@ -1,0 +1,109 @@
+Welcome to this special issue of theJournal of Educational
+Resources in Computing(JERiC), which is focused on the topic
+ofspecializedcomputer architecture simulators, and is part
+of back-to-back JERiC issues describing the state-of-the-art in
+computer architecture simulators for educational purposes. JERiC is
+a unique forum, in that the simulation software corresponding to
+each of the articles in this issue is available for download and
+execution.The guest editorial in the previous issue of JERiC described how
+these back-to-back special issues came to be dedicated to computer
+architecture simulators. In this issue I would like to focus on
+promoting creativity as an important part of being an educator.
+While the general von Neumann architecture still predominates as it
+has for the last halfcentury, there are clearly new, advanced
+technologies on the horizon. While part of our role as educators is
+to help students master existing technology, we must also nurture
+the seeds of creativity that may someday break the current
+paradigms. While it is unclear what the future may hold -- perhaps
+biological, molecular, or quantum computing -- some clues can be
+found in current advanced, specialized research. Just as it is
+recursive to teach how a computer works by simulating a virtual
+computer on a computer, we can also learn from past and present
+specialized areas to begin developing the future.In this issue we present interactive simulation tools for
+teaching the specialized areas of computer architecture. The
+articles span from digital logic simulators (Logisim) to historic
+machine simulators (Atari-6502, PDP-8), to a real machine simulator
+(DEC Alpha/KScalar), to an embedded system (LegoSim), to parallel
+computer architectures (High Performance Computer Architecture and
+Algorithm Simulator). Although these simulators are clearly useful
+for teaching general computer architecture, they are perhaps most
+valuable for specialized topics in advanced or elective
+courses.This issue begins with Logisim, a visual simulator for building
+and testing digital logic circuits. While general computer
+architecture survey courses have abstracted away from lower-level
+digital logic circuits, this teaching tool is invaluable for
+computer engineering or electrical engineering courses that focus
+specifically on logic design. Logisim can be used hierarchically,
+and is powerful; the author notes that he has successfully created
+a simple 8-bit CPU in the system.The use of computer simulators provides a number of secondary
+benefits -- the most pertinent is highlighted in the next article
+on the PDP-8 Emulator. Simulators make it feasible to interact with
+computers that no longer exist physically (except possibly in a
+museum). Thus, obsolescence is no longer the dominant obstacle in
+teaching computer architecture. An extinct machine is oftentimes
+the best example of an architectural concept or may have the best
+educational documentation. A perfect example of an historic
+architecture to study is the PDP-8. The PDP-8 was a breakthrough
+12-bit machine in 1965, to which many of our modern architectural
+features can be traced. Through this emulator, students can now
+interact with a virtual PDP-8, instead of simply reading about it
+in a textbook.The next two articles are related because they both supplement
+seminal textbooks in the field by Hennessy and Patterson [1996] and
+Patterson and Hennessy [1997]. While the DLX, MIPS, and SPIM series
+of simulators are well documented, SLOOP-SMOK and KScalar are new
+simulators that complement these established tools. The SLOOP-SMOK
+toolkit emulates an Atari 6502 (a good choice for student
+motivation) integrated with a machine organization simulator. The
+KScalar simulator simulates the DEC Alpha with a wide range of
+possible scalar performance enhancements such as pipelining,
+caching, and speculative execution.LegoSim is an important contribution because it focuses on the
+simulation of an embedded system. Embedded systems, defined as a
+component in a larger system that relies on its own processor, have
+been around for decades. However, it was not until the early 1980s,
+when 16-bit processors performing sophisticated specialized
+applications began to appear in automobiles, that designers
+realized the embedded system's almost limitless possibilities for
+ubiquitous everyday products [Wolf 2002]. However, at present,
+almost all of our educational focus is still on general-purpose
+computers, even though the number of specialized embedded systems
+currently dwarfs traditional computing machines by orders of
+magnitude (a fact that we have ignored in part), and this gap is
+increasing. A recent study by the National Academy of Science
+documents this development [Computer Science and Telecommunications
+Board 2001]. It is my hope that LegoSim will be the first in a long
+line of teaching tools for this rapidly expanding area of
+study.The final article in this issue simulates the tradeoffs of
+efficiency and performance inherent in parallel architectures. The
+High-Performance Computer Architecture and Algorithm Simulator
+allows students to design and interact with different forms of
+parallelism such as multiple pipelines, multiple processors,
+clustered computer systems, and distributed computing systems.
+While the promise of parallel computing has yet to be realized on a
+commercial scale (to be fair, parallel programming is at least
+equally to blame), research continues, and students who learn by
+using this tool may make the difference.The underlying thread weaving through all these articles is the
+interaction with the details of computer architecture: how a
+computer processes bits at the lowest level (LogiSim), why
+computers developed the way they did (KScalar, PDP-8, SLOOP-SMOK),
+the future capabilities of embedded processors (LegoSim), and how
+to make computers work together (High-Performance Computer
+Architecture and Algorithm Simulator). In this issue it is our
+intent that the specialized computer architecture simulators
+described here provide powerful teaching tools to facilitate and
+enhance student creativity for developing the next paradigms of
+computer architecture.Finally, I have very much enjoyed serving JERiC and ACM in my
+capacity as guest editor, and I would like to repeat some
+acknowledgements from my previous guest editorial, lest anyone
+think I assembled this issue myself. I would like to thank JERiC
+Co-Editors-in- Chief Lillian (Boots) Cassel and Ed Fox, Deborah
+Knox of the Computer Science Teaching Center
+(http://www.cstc.org/), and Jono Hardjowirogo of the ACM Press. I
+would also like to especially thank the many authors and
+peer-reviewers with whom I have traded email (about 60 people);
+they have been responsive, patient, and accommodating. This issue
+would not have been possible without them.A special word to the authors of the articles and simulators we
+declined: acceptance decisions were particularly difficult (60% of
+submissions were declined). But I encourage you to persevere - this
+is truly a growth area and your contributions are needed. Again, I
+W. Yurcik hope you enjoy what we have assembled and that it
+inspires many ideas for teaching and research!

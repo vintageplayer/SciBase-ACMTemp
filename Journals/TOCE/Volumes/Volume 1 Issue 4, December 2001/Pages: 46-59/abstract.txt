@@ -1,0 +1,14 @@
+CPU Sim 3.1 is an educational software package written in Java for
+use in CS3 courses. CPU Sim provides students an active learning
+environment in which they can design, modify, and compare various
+computer architectures at the register-transfer level and higher.
+They can run assembly language or machine language programs for
+those architectures through simulation. CPU Sim is a complete
+development environment, including dialog boxes for designing the
+CPU architecture, a text editor for editing assembly language
+programs, an assembler, several display windows for viewing the
+registers and RAMs during the execution of programs, and many
+debugging features such as the ability to step forward or backward
+during execution, inspecting and optionally changing the values in
+the registers and RAMs after each step. These features and
+suggested uses of CPU Sim in CS3 classes are discussed.
