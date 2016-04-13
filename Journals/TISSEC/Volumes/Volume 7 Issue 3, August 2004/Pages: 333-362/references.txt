@@ -1,0 +1,43 @@
+Micah Adler, Tradeoffs in probabilistic packet marking for IP traceback, Proceedings of the thiry-fourth annual ACM symposium on Theory of computing, May 19-21, 2002, Montreal, Quebec, Canada[doi>10.1145/509907.509969]
+Barros, C. 2000. {LONG} A Proposal for ICMP Traceback Messages. Available at http://www.research.att.com/lists/ietf-itrace/2000/09/msg00044.html.
+Bellare, M. and Yee, B. 1997. Forward integrity for secure audit logs. Tech. rep. (Nov.), Computer Science and Engineering Department, University of California at San Diego.
+Bellovin, S. 2000. ICMP Traceback Messages. Tech. rep., draft-bellovin-itrace-00.txt (Mar.), IETF Internet draft.
+Florian P. Buchholz , Clay Shields, Providing Process Origin Information to Aid in Network Traceback, Proceedings of the General Track of the annual conference on USENIX Annual Technical Conference, p.261-274, June 10-15, 2002
+Hal Burch, Tracing Anonymous Packets to Their Approximate Source, Proceedings of the 14th USENIX conference on System administration, December 03-08, 2000, New Orleans, Louisiana
+Carrier, B. 2001. A Recursive Session Token Protocol For Use in Forensics and TCP Traceback. Master's thesis, CERIAS, Purdue University.
+Carrier, B. and Shields, C. 2002. A recursive session token protocol for use in computer forensics and TCP traceback. In Proceedings of the IEEE Infocomm 2002.
+Chang, H. Y., Narayan, R., Wu, S. F., Vetter, B. M., Wang, X., Brown, M., Yuill, J. J., Sargor, C., Jou, F., and Gong., F. 1999. Deciduous: Decentralized source identification for network-based intrusions. In Proceedings of International Symposium on Integrated Network Management. 701--714.
+Cisco Systems Inc. 2003. Characterizing and Tracing Packet Floods Using Cisco Routers. Available at http://www.cisco.com/warp/public/707/22.html.
+Computer Science Laboratory, SRI International, Menlo 1995. Secure hash standard. Federal Information Processing Standards Publication (FIPS PUB) 180-1.
+Dean, D., Franklin, M., and Stubblefield, A. 2001. An algebraic approach to IP traceback. In Proceedings of the 2001 Network and Distributed System Security Symposium, San Diego, CA.
+Thomas W. Doeppner , Philip N. Klein , Andrew Koyfman, Using router stamping to identify the source of IP packets, Proceedings of the 7th ACM conference on Computer and communications security, p.184-189, November 01-04, 2000, Athens, Greece[doi>10.1145/352600.352627]
+David L. Donoho , Ana Georgina Flesia , Umesh Shankar , Vern Paxson , Jason Coit , Stuart Staniford, Multiscale stepping-stone detection: detecting pairs of jittered interactive streams by exploiting maximum tolerable delay, Proceedings of the 5th international conference on Recent advances in intrusion detection, October 16-18, 2002, Zurich, Switzerland
+Eriksson, P. 2000. pidentd ident daemon v3.0.12. Available at http://www2.lysator.liu.se/∼pen/pidentd/.
+Ferguson, P. and Senie, D. 1998. Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing. Technical Report RFC 2267 (Jan.), Internet Society. Available at ftp://ftp.isi.edu/in-notes/rfc2267.txt.
+Ferguson, P. and Senie, D. 2000. Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing. Technical Report RFC 2827 (May), Internet Society.
+Gligor, V. 1993. A guide to understanding covert channel analysis of trusted systems. Technical Report NCSC-TG-030 (Nov.), National Computer Security Center, Ft. George G. Meade, Maryland. Approved for public release: distribution unlimited.
+Goldsmith, D. 1996. ident-scan. Email post to Bugtraq Mailing List. Available at http://lists.insecure.org/bugtraq/1996/Feb/0024.html.
+Hobbit. 1996. netcat v1.10. Available at http://www.l0pht.com/weld/netcat/.
+Ioannidis, J. and Bellovin, S. M. 2002. Implementing pushback: Router-based defense against DDoS attacks. In Proceedings of Network and Distributed System Security Symposium. The Internet Society.
+Johns, M. S. 1985. Authentication server. RFC 931, TPSC.
+Johns, M. S. 1993. Identification protocol. RFC 1413, US Department of Defense.
+Jung, H. T., Kim, H. L., Seo, Y. M., Choe, G., Min, S. L., Kim, C. S., and Koh, K. 1993. Caller identification system in the Internet environment. In UNIX Security Symposium IV Proceedings. 69--78.
+Lee, S. C. and Shields, C. 2001. Tracing the source of network attack: A technical, legal, and societal problem. In Proceedings of the 2001 IEEE Workshop on Information Assurance and Security, West Point, NY.
+Mankin, A., Massey, D., Wu, C. L., Wu, S. F., and Zhang, L. 2001. On design and evaluation of intention-driven ICMP traceback. In Proceedings of the IEEE International Conference on Computer Communication and Networks.
+McCabe, R. 2000. oidentd ident daemon v1.7.1. Available at http://ojnk.sourceforge.net/.
+Morgan, R. 1998. Sident: Security extensions for the ident protocol. Available at http:// globecom.net/ietf/draft/draft-morgan-ident-ext-04.html.
+Park, K. and Lee, H. 2001a. On the effectiveness of probabilistic packet marking for IP traceback under denial of service attack. In Proceedings IEEE INFOCOM 2001. 338--347.
+Kihong Park , Heejo Lee, On the effectiveness of route-based packet filtering for distributed DoS attack prevention in power-law internets, Proceedings of the 2001 conference on Applications, technologies, architectures, and protocols for computer communications, p.15-26, August 2001, San Diego, California, USA[doi>10.1145/383059.383061]
+Vern Paxson, An analysis of using reflectors for distributed denial-of-service attacks, ACM SIGCOMM Computer Communication Review, v.31 n.3, July 2001[doi>10.1145/505659.505664]
+Stefan Savage , David Wetherall , Anna Karlin , Tom Anderson, Practical network support for IP traceback, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.295-306, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347560]
+Joel Scambray , Stuart McClure , George Kurtz, Hacking Exposed, McGraw-Hill Professional, 2000
+Bruce Schneier , John Kelsey, Secure audit logs to support computer forensics, ACM Transactions on Information and System Security (TISSEC), v.2 n.2, p.159-176, May 1999[doi>10.1145/317087.317089]
+Alex C. Snoeren , Craig Partridge , Luis A. Sanchez , Christine E. Jones , Fabrice Tchakountio , Stephen T. Kent , W. Timothy Strayer, Hash-based IP traceback, Proceedings of the 2001 conference on Applications, technologies, architectures, and protocols for computer communications, p.3-14, August 2001, San Diego, California, USA[doi>10.1145/383059.383060]
+Song, D. X. and Perrig, A. 2001. Advanced and authenticated marking schemes for IP traceback. In Proceedings of the IEEE Infocomm 2001.
+S. Staniford-Chen , L. T. Heberlein, Holding intruders accountable on the Internet, Proceedings of the 1995 IEEE Symposium on Security and Privacy, p.39, May 08-10, 1995
+Robert Stone, Centertrack: an IP overlay network for tracking DoS floods, Proceedings of the 9th conference on USENIX Security Symposium, p.15-15, August 14-17, 2000, Denver, Colorado
+Venema, W. 1992. TCP wrapper: Network monitoring, access control, and booby traps. In Proceedings USENIX UNIX Security Symposium III.
+Xinyuan Wang , Douglas S. Reeves , S. Felix Wu , Jim Yuill, Sleepy watermark tracing: an active network-based intrusion response framework, Proceedings of the 16th international conference on Information security: Trusted information: the new decade challenge, June 11-13, 2001, Paris, France
+Abraham Yaar , Adrian Perrig , Dawn Song, Pi: A Path Identification Mechanism to Defend against DDoS Attacks, Proceedings of the 2003 IEEE Symposium on Security and Privacy, p.93, May 11-14, 2003
+Kunikazu Yoda , Hiroaki Etoh, Finding a Connection Chain for Tracing Intruders, Proceedings of the 6th European Symposium on Research in Computer Security, p.191-205, October 04-06, 2000
+Yin Zhang , Vern Paxson, Detecting stepping stones, Proceedings of the 9th conference on USENIX Security Symposium, p.13-13, August 14-17, 2000, Denver, Colorado

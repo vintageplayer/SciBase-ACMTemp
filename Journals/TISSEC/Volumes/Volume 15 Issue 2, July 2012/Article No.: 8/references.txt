@@ -1,0 +1,41 @@
+Martín Abadi, Protection in Programming-Language Translations, Proceedings of the 25th International Colloquium on Automata, Languages and Programming, p.868-883, July 13-17, 1998
+Martín Abadi, Secrecy by typing in security protocols, Journal of the ACM (JACM), v.46 n.5, p.749-786, Sept. 1999[doi>10.1145/324133.324266]
+Martin Abadi , Phillip Rogaway, Reconciling Two Views of Cryptography (The Computational Soundness of Formal Encryption), Journal of Cryptology, v.20 n.3, p.395-395, July 2007[doi>10.1007/s00145-007-0203-0]
+Martín Abadi , Mihai Budiu , Úlfar Erlingsson , Jay Ligatti, Control-flow integrity principles, implementations, and applications, ACM Transactions on Information and System Security (TISSEC), v.13 n.1, p.1-40, October 2009[doi>10.1145/1609956.1609960]
+Anonymous. 2002. Bypassing PaX ASLR protection.Phrack 11, 59.
+Michael Backes , Dennis Hofheinz , Dominique Unruh, CoSP: a general framework for computational soundness proofs, Proceedings of the 16th ACM conference on Computer and communications security, November 09-13, 2009, Chicago, Illinois, USA[doi>10.1145/1653662.1653672]
+Elena Gabriela Barrantes , David H. Ackley , Stephanie Forrest , Darko Stefanović, Randomized instruction set emulation, ACM Transactions on Information and System Security (TISSEC), v.8 n.1, p.3-40, February 2005[doi>10.1145/1053283.1053286]
+Gilles Barthe , Tamara Rezk , Amitabh Basu, Security types preserving compilation, Computer Languages, Systems and Structures, v.33 n.2, p.35-59, July, 2007[doi>10.1016/j.cl.2005.05.002]
+Emery D. Berger , Benjamin G. Zorn, DieHard: probabilistic memory safety for unsafe languages, Proceedings of the 2006 ACM SIGPLAN conference on Programming language design and implementation, June 11-14, 2006, Ottawa, Ontario, Canada[doi>10.1145/1133981.1134000]
+Sandeep Bhatkar , Daniel C. DuVarney , R. Sekar, Address obfuscation: an efficient approach to combat a board range of memory error exploits, Proceedings of the 12th conference on USENIX Security Symposium, p.8-8, August 04-08, 2003, Washington, DC
+Sandeep Bhatkar , R. Sekar , Daniel C. DuVarney, Efficient techniques for comprehensive protection from memory error exploits, Proceedings of the 14th conference on USENIX Security Symposium, p.17-17, July 31-August 05, 2005, Baltimore, MD
+Shuo Chen , Jun Xu , Emre C. Sezer , Prachi Gauriar , Ravishankar K. Iyer, Non-control-data attacks are realistic threats, Proceedings of the 14th conference on USENIX Security Symposium, p.12-12, July 31-August 05, 2005, Baltimore, MD
+Hubert Comon-Lundh , Véronique Cortier, Computational soundness of observational equivalence, Proceedings of the 15th ACM conference on Computer and communications security, October 27-31, 2008, Alexandria, Virginia, USA[doi>10.1145/1455770.1455786]
+Denning, D. E.1982.Cryptography and Data Security. Addison-Wesley, Reading, Mass.
+Druschel, P. and Peterson, L. L.1992. High-performance cross-domain data transfer. Tech. rep. TR 92-11, Department of Computer Science, The University of Arizona.
+Úlfar Erlingsson, Low-level software security: attacks and defenses, Foundations of security analysis and design IV, Springer-Verlag, Berlin, Heidelberg, 2007
+Felleisen, M. and Friedman, D. P.1986. Control operators, the secd-machine, and the lambda-calculus. InProceedings of the 3rd Working Conference on the Formal Description of Programming Concepts. 193--219.
+S. Forrest , A. Somayaji , D. Ackley, Building Diverse Computer Systems, Proceedings of the 6th Workshop on Hot Topics in Operating Systems (HotOS-VI), p.67, May 05-06, 1997
+Cédric Fournet , Tamara Rezk, Cryptographically sound implementations for typed information-flow security, Proceedings of the 35th annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages, January 07-12, 2008, San Francisco, California, USA[doi>10.1145/1328438.1328478]
+Cédric Fournet , Gurvan Le Guernic , Tamara Rezk, A security-preserving compiler for distributed programs: from information-flow policies to cryptographic mechanisms, Proceedings of the 16th ACM conference on Computer and communications security, November 09-13, 2009, Chicago, Illinois, USA[doi>10.1145/1653662.1653715]
+Masahito Hasegawa , Yoshihiko Kakutani, Axioms for Recursion in Call-by-Value, Higher-Order and Symbolic Computation, v.15 n.2-3, p.235-264, September 2002[doi>10.1023/A:1020895213317]
+Howard, M. and Thomlinson, M.2007. Windows Vista ISV security. http://msdn2.microsoft.com/en-us/library/bb430720.aspx.
+Gaurav S. Kc , Angelos D. Keromytis , Vassilis Prevelakis, Countering code-injection attacks with instruction-set randomization, Proceedings of the 10th ACM conference on Computer and communications security, October 27-30, 2003, Washington D.C., USA[doi>10.1145/948109.948146]
+Vladimir Kiriansky , Derek Bruening , Saman P. Amarasinghe, Secure Execution via Program Shepherding, Proceedings of the 11th USENIX Security Symposium, p.191-206, August 05-09, 2002
+Ricardo Hugo Medel , Adriana Compagnoni, Typed assembly languages for software security, Stevens Institute of Technology, Hoboken, NJ, 2007
+John C. Mitchell, Foundations of programming languages, MIT Press, Cambridge, MA, 1996
+E. Moggi, Computational lambda-calculus and monads, Proceedings of the Fourth Annual Symposium on Logic in computer science, p.14-23, June 1989, Pacific Grove, California, USA
+Eugenio Moggi, Notions of computation and monads, Information and Computation, v.93 n.1, p.55-92, July 1991[doi>10.1016/0890-5401(91)90052-4]
+James H. Morris, Jr., Protection in programming languages, Communications of the ACM, v.16 n.1, p.15-21, Jan. 1973[doi>10.1145/361932.361937]
+Greg Morrisett , David Walker , Karl Crary , Neal Glew, From system F to typed assembly language, ACM Transactions on Programming Languages and Systems (TOPLAS), v.21 n.3, p.527-568, May 1999[doi>10.1145/319301.319345]
+Gene Novark , Emery D. Berger, DieHarder: securing the heap, Proceedings of the 17th ACM conference on Computer and communications security, October 04-08, 2010, Chicago, Illinois, USA[doi>10.1145/1866307.1866371]
+Gene Novark , Emery D. Berger , Benjamin G. Zorn, Exterminator: Automatically correcting memory errors with high probability, Communications of the ACM, v.51 n.12, December 2008[doi>10.1145/1409360.1409382]
+Karthik Pattabiraman , Vinod Grover , Benjamin G. Zorn, Samurai: protecting critical data in unsafe languages, Proceedings of the 3rd ACM SIGOPS/EuroSys European Conference on Computer Systems 2008, April 01-04, 2008, Glasgow, Scotland UK[doi>10.1145/1352592.1352616]
+PaX Project. 2004. The PaX project. http://pax.grsecurity.net/.
+Benjamin C. Pierce, Types and programming languages, MIT Press, Cambridge, MA, 2002
+Riccardo Pucella , Fred B. Schneider, Independence From Obfuscation: A Semantic Framework for Dive, Proceedings of the 19th IEEE workshop on Computer Security Foundations, p.230-241, July 05-07, 2006[doi>10.1109/CSFW.2006.15]
+Hovav Shacham , Matthew Page , Ben Pfaff , Eu-Jin Goh , Nagendra Modadugu , Dan Boneh, On the effectiveness of address-space randomization, Proceedings of the 11th ACM conference on Computer and communications security, October 25-29, 2004, Washington DC, USA[doi>10.1145/1030083.1030124]
+Sotirov, A. and Dowd, M.2008. Bypassing browser memory protections: Setting back browser security by 10 years. http://taossa.com/archive/bh08sotirovdowd.pdf.
+Ana Nora Sovarel , David Evans , Nathanael Paul, Where's the FEEB? the effectiveness of instruction set randomization, Proceedings of the 14th conference on USENIX Security Symposium, p.10-10, July 31-August 05, 2005, Baltimore, MD
+Dennis Volpano , Cynthia Irvine , Geoffrey Smith, A sound type system for secure flow analysis, Journal of Computer Security, v.4 n.2-3, p.167-187, Jan. 1996
+Curtis Yarvin , Richard Bukowski , Thomas Anderson, Anonymous RPC: low-latency protection in a 64-bit address space, Proceedings of the USENIX Summer 1993 Technical Conference on Summer technical conference, p.1-12, June 21-25, 1993, Cincinnati, Ohio

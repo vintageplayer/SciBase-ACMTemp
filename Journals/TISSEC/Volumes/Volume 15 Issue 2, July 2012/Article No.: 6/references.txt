@@ -1,0 +1,71 @@
+Advanced Network Architecture Group.2011.ANA Spoofer Project.http://spoofer.csail.mit.edu/index.php.
+Aharoni, M. and Hidalgo, W. M.2005. Cisco SNMP configuration attack with a GRE tunnel. InSecurity Focus. http://www.securityfocus.com/infocus/1847.
+William Aiello , John Ioannidis , Patrick McDaniel, Origin authentication in interdomain routing, Proceedings of the 10th ACM conference on Computer and communications security, October 27-30, 2003, Washington D.C., USA[doi>10.1145/948109.948133]
+Tom Anderson , Timothy Roscoe , David Wetherall, Preventing Internet denial-of-service with capabilities, ACM SIGCOMM Computer Communication Review, v.34 n.1, January 2004[doi>10.1145/972374.972382]
+Katerina Argyraki , David R. Cheriton, Active internet traffic filtering: real-time response to denial-of-service attacks, Proceedings of the annual conference on USENIX Annual Technical Conference, p.10-10, April 10-15, 2005, Anaheim, CA
+Argyraki, K. and Cheriton, D.2005b. Network capabilities: The good, the bad and the ugly. InProceedings of the 4th Workshop on Hot Topics in Networks.
+Gal Badishi , Amir Herzberg , Idit Keidar, Keeping Denial-of-Service Attackers in the Dark, IEEE Transactions on Dependable and Secure Computing, v.4 n.3, p.191-204, July 2007[doi>10.1109/TDSC.2007.70209]
+Gal Badishi , Amir Herzberg , Idit Keidar , Oleg Romanov , Avital Yachin, An Empirical Study of Denial of Service Mitigation Techniques, Proceedings of the 2008 Symposium on Reliable Distributed Systems, p.115-124, October 06-08, 2008[doi>10.1109/SRDS.2008.27]
+F. Baker , P. Savola, Ingress Filtering for Multihomed Networks, RFC Editor, 2004
+Bellovin, S.2003. ICMP traceback messages. http://tools.ietf.org/html/draft-ietf-itrace-04.
+Bernstein, D.1996. TCP SYN cookies. http://cr.yp.to/syncookies.html.
+Robert Beverly , Steven Bauer, The spoofer project: inferring the extent of source address filtering on the internet, Proceedings of the Steps to Reducing Unwanted Traffic on the Internet on Steps to Reducing Unwanted Traffic on the Internet Workshop, p.8-8, July 07, 2005, Cambridge, MA
+Bremler-Barr, A. and Levy, H.2005. Spoofing Prevention Method. InProceedings of the Annual Joint Conference of the IEEE Computer and Communications Societies (INFOCOM).536--547.
+R. K.C. Chang, Defending against flooding-based distributed denial-of-service attacks: a tutorial, IEEE Communications Magazine, v.40 n.10, p.42-51, October 2002[doi>10.1109/MCOM.2002.1039856]
+Cisco Systems. 2007. Pre-Fragmentation for IPsec VPNs. http://www.ciscosystems.cd/en/US/docs/ios/sec_secure_connectivity/configuration/guide/sec_pre_frag_vpns.pdf.
+Joan Daemen , Vincent Rijmen, The  Design of Rijndael, Springer-Verlag New York, Inc., Secaucus, NJ, 2002
+Drew Dean , Matt Franklin , Adam Stubblefield, An algebraic approach to IP traceback, ACM Transactions on Information and System Security (TISSEC), v.5 n.2, p.119-137, May 2002[doi>10.1145/505586.505588]
+G. Dommety, Key and Sequence Number Extensions to GRE, RFC Editor, 2000
+Eddy, W.2007. TCP SYN flooding attacks and common mitigations. RFC 4987 (Informational). The Internet Society.
+Ehrenkranz, T., Li, J., and McDaniel, P.2010. Realizing a source authentic Internet. InProceedings of the International ICST Conference on Security and Privacy in Communication Networks (SecureComm).217--234.
+D. Farinacci , T. Li , S. Hanks , D. Meyer , P. Traina, Generic Routing Encapsulation (GRE), RFC Editor, 2000
+P. Ferguson , D. Senie, Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing, RFC Editor, 2000
+Yossi Gilad , Amir Herzberg, Lightweight opportunistic tunneling (LOT), Proceedings of the 14th European conference on Research in computer security, September 21-23, 2009, Saint-Malo, France
+Yossi Gilad , Amir Herzberg, Fragmentation considered vulnerable: blindly intercepting and discarding fragments, Proceedings of the 5th USENIX conference on Offensive technologies, p.2-2, August 08, 2011, San Francisco, CA
+Gilad, Y. and Herzberg, A.2011b. Lightweight opportunistic tunneling. Tech. rep. http://u.cs.biu.ac.il/~herzbea/security/TR/11_02.pdf.
+Gilmore, J.2003. FreeS/WAN Project. www.freeswan.org.
+Oded Goldreich, Foundations of Cryptography: Basic Tools, Cambridge University Press, New York, NY, 2000
+B. Harris , R. Hunt, Review: TCP/IP security threats and attack methods, Computer Communications, v.22 n.10, p.885-897, June, 1999[doi>10.1016/S0140-3664(99)00064-X]
+A. Heffernan, Protection of BGP Sessions via the TCP MD5 Signature Option, RFC Editor, 1998
+Heffner, J., Mathis, M., and Chandler, B.2007. IPv4 reassembly errors at high data rates. RFC 4963 (Informational). The Internet Society.
+Hoffman, P.2005. Cryptographic suites for IPsec. RFC 4308 (Proposed Standard). The Internet Society.
+Felipe Huici , Mark Handley, An edge-to-edge filtering architecture against DoS, ACM SIGCOMM Computer Communication Review, v.37 n.2, April 2007[doi>10.1145/1232919.1232924]
+IANA, Special-Use IPv4 Addresses, RFC Editor, 2002
+Ioannidis, J. and Bellovin, S. M.2002. Implementing Pushback: Router-based defense against DDoS attacks. In NDSS. The Internet Society.
+G. Jiang, Multiple vulnerabilities in SNMP, Computer, v.35 n.4, p.2-4, April 2002[doi>10.1109/MC.2002.1012421]
+Kaminsky, D.2008. It’s the end of the cache as we know it. InProceedings of the Black Hat Conference.http://www.doxpara.com/DMK_BO2K8.ppt.
+Josh Karlin , Stephanie Forrest , Jennifer Rexford, Pretty Good BGP: Improving BGP by Cautiously Adopting Routes, Proceedings of the Proceedings of the 2006 IEEE International Conference on Network Protocols, p.290-299, November 12-15, 2006[doi>10.1109/ICNP.2006.320179]
+Kaufman, C.2005. Internet key exchange (IKEv2) protocol. RFC 4306 (Proposed Standard). Updated by RFC 5282. The Internet Society.
+Charlie Kaufman , Radia Perlman , Bill Sommerfeld, DoS protection for UDP-based protocols, Proceedings of the 10th ACM conference on Computer and communications security, October 27-30, 2003, Washington D.C., USA[doi>10.1145/948109.948113]
+Kent, C. A. and Mogul, J. C.1987. Fragmentation Considered Harmful. Res. rep. 87/3, Western Research Laboratory.
+Kent, S. and Seo, K.2005. Security architecture for the Internet protocol. RFC 4301 (Proposed Standard). The Internet Society.
+S. Kent , C. Lynn , K. Seo, Secure Border Gateway Protocol (S-BGP), IEEE Journal on Selected Areas in Communications, v.18 n.4, p.582-592, September 2006[doi>10.1109/49.839934]
+T. Killalea, Recommended Internet Service Provider Security Services and Procedures, RFC Editor, 2000
+Klein, A.2007. BIND 9 DNS cache poisoning. Tech. rep., Trusteer, Ltd.
+Mohit Lad , Dan Massey , Dan Pei , Yiguo Wu , Beichuan Zhang , Lixia Zhang, PHAS: a prefix hijack alert system, Proceedings of the 15th conference on USENIX Security Symposium, July 31-August 04, 2006, Vancouver, B.C., Canada
+Karthik Lakshminarayanan , Daniel Adkins , Adrian Perrig , Ion Stoica, Taming IP packet flooding attacks, ACM SIGCOMM Computer Communication Review, v.34 n.1, January 2004[doi>10.1145/972374.972383]
+Jonathan Lemon, Resisting SYN flood DoS attacks with a SYN cache, Proceedings of the BSD Conference 2002 on BSD Conference, p.10-10, February 11-14, 2002, San Francisco, California
+Jun Li , Jelena Mirkovic , Toby Ehrenkranz , Mengqiu Wang , Peter Reiher , Lixia Zhang, Learning the valid incoming direction of IP packets, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.52 n.2, p.399-417, February, 2008[doi>10.1016/j.comnet.2007.09.024]
+Mogul, J. and Deering, S.1990. Path MTU discovery. RFC 1191 (Draft Standard). The Internet Society.
+David Moore , Geoffrey M. Voelker , Stefan Savage, Inferring internet denial-of-service activity, Proceedings of the 10th conference on USENIX Security Symposium, p.2-2, August 13-17, 2001, Washington, D.C.
+Ruoming Pang , Vinod Yegneswaran , Paul Barford , Vern Paxson , Larry Peterson, Characteristics of internet background radiation, Proceedings of the 4th ACM SIGCOMM conference on Internet measurement, October 25-27, 2004, Taormina, Sicily, Italy[doi>10.1145/1028788.1028794]
+Kihong Park , Heejo Lee, On the effectiveness of route-based packet filtering for distributed DoS attack prevention in power-law internets, Proceedings of the 2001 conference on Applications, technologies, architectures, and protocols for computer communications, p.15-26, August 2001, San Diego, California, USA[doi>10.1145/383059.383061]
+Vern Paxson, An analysis of using reflectors for distributed denial-of-service attacks, ACM SIGCOMM Computer Communication Review, v.31 n.3, July 2001[doi>10.1145/505659.505664]
+Tao Peng , Christopher Leckie , Kotagiri Ramamohanarao, Survey of network-based defense mechanisms countering the DoS and DDoS problems, ACM Computing Surveys (CSUR), v.39 n.1, p.3-es, 2007[doi>10.1145/1216370.1216373]
+Postel, J.1981a. Internet control message protocol. RFC 792 (Standard). Updated by RFCs 950, 4884. The Internet Society.
+Postel, J.1981b. Internet protocol. RFC 791 (Standard). Updated by RFC 1349. The Internet Society.
+Richardson, M.2005. A method for storing IPsec keying material in DNS. RFC 4025 (Proposed Standard). The Internet Society.
+Richardson, M. and Redelmeier, D.2005. Opportunistic encryption using the Internet Key Exchange (IKE). RFC 4322 (Informational). The Internet Society.
+Stefan Savage , David Wetherall , Anna Karlin , Tom Anderson, Practical network support for IP traceback, Proceedings of the conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, p.295-306, August 28-September 01, 2000, Stockholm, Sweden[doi>10.1145/347059.347560]
+Rob Sherwood , Bobby Bhattacharjee , Ryan Braud, Misbehaving TCP receivers can cause internet-wide congestion collapse, Proceedings of the 12th ACM conference on Computer and communications security, November 07-11, 2005, Alexandria, VA, USA[doi>10.1145/1102120.1102170]
+Alex C. Snoeren , Craig Partridge , Luis A. Sanchez , Christine E. Jones , Fabrice Tchakountio , Stephen T. Kent , W. Timothy Strayer, Hash-based IP traceback, Proceedings of the 2001 conference on Applications, technologies, architectures, and protocols for computer communications, p.3-14, August 2001, San Diego, California, USA[doi>10.1145/383059.383060]
+Song, D. X. and Perrig, A.2001. Advanced and authenticated marking schemes for IP traceback. InProceedings of the Annual Joint Conference of the IEEE Computer and Communications Societies (INFOCOM).878--886.
+P. Srisuresh , K. Egevang, Traditional IP Network Address Translator (Traditional NAT), RFC Editor, 2001
+Ahren Studer , Adrian Perrig, The Coremelt attack, Proceedings of the 14th European conference on Research in computer security, September 21-23, 2009, Saint-Malo, France
+Touch, J., Black, D., and Wang, Y.2008. Problem and applicability statement for Better-Than-Nothing Security (BTNS). RFC 5387 (Informational). The Internet Society.
+Haining Wang , Cheng Jin , Kang G. Shin, Defense against spoofed IP traffic using hop-count filtering, IEEE/ACM Transactions on Networking (TON), v.15 n.1, p.40-53, February 2007[doi>10.1109/TNET.2006.890133]
+Lan Wang , Qishi Wu , Dung Dinh Luong, Engaging Edge Networks in Preventing and Mitigating Undesirable Network Traffic, Proceedings of the 2007 3rd IEEE Workshop on Secure Network Protocols, p.1-6, October 16-16, 2007[doi>10.1109/NPSEC.2007.4371617]
+White, R.2003. Securing BGP through secure origin BGP.Internet Protocol J. 6,15--22.
+Williams, N. and Richardson, M.2008. Better-Than-Nothing security: An unauthenticated mode of IPsec. RFC 5386 (Proposed Standard). The Internet Society.
+Yaar, A., Perrig, A., and Song, D. X.2004. SIFF: A stateless Internet flow filter to mitigate DDoS flooding attacks. InProceedings of the IEEE Symposium on Security and Privacy. 130--143.
+Xiaowei Yang , David Wetherall , Thomas Anderson, TVA: a DoS-limiting network architecture, IEEE/ACM Transactions on Networking (TON), v.16 n.6, p.1267-1280, December 2008[doi>10.1109/TNET.2007.914506]

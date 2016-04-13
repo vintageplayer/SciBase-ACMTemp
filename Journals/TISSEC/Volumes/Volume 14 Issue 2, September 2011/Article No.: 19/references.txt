@@ -1,0 +1,33 @@
+Athey, J., Ashworth, C., Mayer, F., and Miner, D.2007. Towards intuitive tools for managing SELinux: Hiding the details but retaining the power. InProceedings of the Security Enhanced Linux Symposium.
+L. Badger , D. F. Sterne , D. L. Sherman , K. M. Walker , S. A. Haghighat, Practical Domain and Type Enforcement for UNIX, Proceedings of the 1995 IEEE Symposium on Security and Privacy, p.66, May 08-10, 1995
+Bangor, A., Kortum, P. T., and Miller, J. T.2008. An empirical evaluation of the system usability scale.Int. J. Hum.-Comput. Interact. 24, 6, 574--594.
+Andrew Berman , Virgil Bourassa , Erik Selberg, TRON: process-specific file protection for the UNIX operating system, Proceedings of the USENIX 1995 Technical Conference Proceedings, p.14-14, January 16-20, 1995, New Orleans, Louisiana
+Brooke, J.1996. SUS: A quick and dirty usability scale. InUsability Evaluation in Industry, P. W. Jordan, B. Thomas, B. A. Weerdmeester, and I. L. McClelland Eds. Taylor & Francis, London, 189--194.
+Crispin Cowan , Steve Beattie , Greg Kroah-Hartman , Calton Pu , Perry Wagle , Virgil Gligor, SubDomain: Parsimonious Server Security, Proceedings of the 14th USENIX conference on System administration, December 03-08, 2000, New Orleans, Louisiana
+Lorrie Cranor , Simson Garfinkel, Security and Usability, O'Reilly Media, Inc., 2005
+Alexander J. DeWitt , Jasna Kuljis, Aligning usability and security: a usability study of Polaris, Proceedings of the second symposium on Usable privacy and security, July 12-14, 2006, Pittsburgh, Pennsylvania[doi>10.1145/1143120.1143122]
+Garfinkel, T.2003. Traps and pitfalls: Practical problems in system call interposition based security tools. InProceedings of the 10th Network and Distributed System Security Symposium.
+Greenwald, A. G.1976. Within-subjects designs: To use or not to use.Psych. Bull. 83, 2, 314--320.
+Hitchings, J.1995. Deficiencies of the traditional approach to information security and the requirements for a new methodology.Comput. Sec. 14, 5, 377--383.
+Kamp, P.-H. and Watson, R.2000. Jails: Confining the omnipotent root. InProceedings of the 2nd International System Administration and Networking Conference (SANE’00).
+Ivan Krstić , Simson L. Garfinkel, Bitfrost: the one laptop per child security model, Proceedings of the 3rd symposium on Usable privacy and security, July 18-20, 2007, Pittsburgh, Pennsylvania[doi>10.1145/1280680.1280697]
+James R. Lewis , Jeff Sauro, The Factor Structure of the System Usability Scale, Proceedings of the 1st International Conference on Human Centered Design: Held as Part of HCI International 2009, July 19-24, 2009, San Diego, CA[doi>10.1007/978-3-642-02806-9_12]
+Zhenkai Liang , Weiqing Sun , V. N. Venkatakrishnan , R. Sekar, Alcatraz: An Isolated Environment for Experimenting with Untrusted Software, ACM Transactions on Information and System Security (TISSEC), v.12 n.3, p.1-37, January 2009[doi>10.1145/1455526.1455527]
+Stuart E. Madnick , John J. Donovan, Application and analysis of the virtual machine approach to information system security and isolation, Proceedings of the workshop on virtual computer systems, p.210-224, March 26-27, 1973, Cambridge, Massachusetts, USA[doi>10.1145/800122.803961]
+Mark S. Miller , Bill Tulloh , Jonathan S. Shapiro, The structure of authority: why security is not a separable concern, Proceedings of the Second international conference on Multiparadigm Programming in Mozart/Oz, October 07-08, 2004, Charleroi, Belgium[doi>10.1007/978-3-540-31845-3_2]
+Yuichi Nakamura , Yoshiki Sameshima , Toshihiro Tabata, SEEdit: SELinux security policy configuration system with higher level language, Proceedings of the 23rd conference on Large installation system administration, p.8-8, November 01-06, 2009, Baltimore, MD
+Novell AppArmor and SELinux Comparison. http://www.novell.com/linux/security/apparmor/selinux_comparison.html.
+Ott, A.2002. The Role Compatibility Security Model.
+Shaya Potter , Jason Nieh , Matt Selsky, Secure isolation of untrusted legacy applications, Proceedings of the 21st conference on Large Installation System Administration Conference, p.1-14, November 11-16, 2007, Dallas
+Niels Provos, Improving host security with system call policies, Proceedings of the 12th conference on USENIX Security Symposium, p.18-18, August 04-08, 2003, Washington, DC
+Rubin, J. and Chisnell, D.2004. How to plan, design and conduct effective tests. InHandbook of Usability Testing. Wiley India Pvt. Ltd., 129.
+Saltzer, J. H. and Schroeder, M. D.1975. The protection of information in computer systems.Proc. IEEE 63, 9 1278--1308.
+Schreuders, Z. C. and Payne, C.2008a. Functionality-based application confinement: parameterised hierarchical application restrictions. InProceedings of the International Conference on Security and Cryptography (SECRYPT’08). INSTICC Press.
+Z. Cliffe Schreuders , Christian Payne, Reusability of Functionality-Based Application Confinement Policy Abstractions, Proceedings of the 10th International Conference on Information and Communications Security, October 20-22, 2008, Birmingham, UK[doi>10.1007/978-3-540-88625-9_14]
+Z. Cliffe Schreuders , Christian Payne , Tanya McGill, Techniques for Automating Policy Specification for Application-oriented Access Controls, Proceedings of the 2011 Sixth International Conference on Availability, Reliability and Security, p.266-271, August 22-26, 2011[doi>10.1109/ARES.2011.47]
+Marc Stiegler , Alan H. Karp , Ka-Ping Yee , Tyler Close , Mark S. Miller, Polaris: virus-safe computing for Windows XP, Communications of the ACM, v.49 n.9, p.83-88, September 2006[doi>10.1145/1151030.1151033]
+Tucker, A. and Comay, D.2004. Solaris zones: Operating system support for server consolidation. InProceedings of the 3rd Virtual Machine Research and Technology Symposium Works-in-Progress.
+Vance, C. and Salamon, W.2001. Implementing SELinux as a Linux security module. NAI Labs rep. #01-043, NSA.
+David A. Wagner, Janus: an Approach for Confinement of Untrusted Applications, University of California at Berkeley, Berkeley, CA, 1999
+Giorgio Zanin , Luigi Vincenzo Mancini, Towards a formal model for security policies specification and validation in the selinux system, Proceedings of the ninth ACM symposium on Access control models and technologies, June 02-04, 2004, Yorktown Heights, New York, USA[doi>10.1145/990036.990059]
+Mary Ellen Zurko , Richard T. Simon, User-centered security, Proceedings of the 1996 workshop on New security paradigms, p.27-33, September 17-20, 1996, Lake Arrowhead, California, USA[doi>10.1145/304851.304859]

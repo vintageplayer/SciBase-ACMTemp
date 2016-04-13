@@ -1,0 +1,66 @@
+Martín Abadi , Mihai Budiu , Úlfar Erlingsson , Jay Ligatti, Control-flow integrity principles, implementations, and applications, ACM Transactions on Information and System Security (TISSEC), v.13 n.1, p.1-40, October 2009[doi>10.1145/1609956.1609960]
+Aleph One. 1996. Smashing the stack for fun and profit.Phrack Mag. 49, 14. http://www.phrack.org/archives/49/p49_0x0e_Smashing&percnt;20The&percnt;20Stack&percnt;20For&percnt;20Fun&percnt;20And&percnt;20Profit_by_Aleph1.txt.
+Anonymous. 2001. Once upon a free()....Phrack Mag. 57, 9. http://www.phrack.org/archives/57/p57_0x09_Once&percnt;20upon&percnt;20a&percnt;20free()_by_&percnt;anonymous&percnt;20author.txt.
+Elena Gabriela Barrantes , David H. Ackley , Stephanie Forrest , Darko Stefanović, Randomized instruction set emulation, ACM Transactions on Information and System Security (TISSEC), v.8 n.1, p.3-40, February 2005[doi>10.1145/1053283.1053286]
+Dionysus Blazakis, Interpreter exploitation, Proceedings of the 4th USENIX conference on Offensive technologies, p.1-9, August 09, 2010, Washington, DC
+blexim. 2002. Basic integer overflows.Phrack Mag. 60, 10. http://www.phrack.org/archives/60/p60_0x0a_Basic&percnt;20Integer&percnt;20Overflows_&percnt;by_blexim.txt.
+Erik Buchanan , Ryan Roemer , Hovav Shacham , Stefan Savage, When good instructions go bad: generalizing return-oriented programming to RISC, Proceedings of the 15th ACM conference on Computer and communications security, October 27-31, 2008, Alexandria, Virginia, USA[doi>10.1145/1455770.1455776]
+Bulba and Kil3r. 2000. Bypassing StackGuard and StackShield.Phrack Mag. 56, 5. http://www.phrack.org/archives/56/p56_0x05_Bypassing&percnt;20StackGuard&percnt;20and&percnt;20StackShield_by_Kil3r&percnt;20&&percnt;&percnt;20Bulba.txt.
+Stephen Checkoway , Ariel J. Feldman , Brian Kantor , J. Alex Halderman , Edward W. Felten , Hovav Shacham, Can DREs provide long-lasting security? the case of return-oriented programming and the AVC advantage, Proceedings of the 2009 conference on Electronic voting technology/workshop on trustworthy elections, p.6-6, August 10-11, 2009, Montreal, Canada
+Stephen Checkoway , Lucas Davi , Alexandra Dmitrienko , Ahmad-Reza Sadeghi , Hovav Shacham , Marcel Winandy, Return-oriented programming without returns, Proceedings of the 17th ACM conference on Computer and communications security, October 04-08, 2010, Chicago, Illinois, USA[doi>10.1145/1866307.1866370]
+Ping Chen , Hai Xiao , Xiaobin Shen , Xinchun Yin , Bing Mao , Li Xie, DROP: Detecting Return-Oriented Programming Malicious Code, Proceedings of the 5th International Conference on Information Systems Security, December 14-18, 2009, Kolkata, India[doi>10.1007/978-3-642-10772-6_13]
+Crispin Cowan , Calton Pu , Dave Maier , Heather Hintony , Jonathan Walpole , Peat Bakke , Steve Beattie , Aaron Grier , Perry Wagle , Qian Zhang, StackGuard: automatic adaptive detection and prevention of buffer-overflow attacks, Proceedings of the 7th conference on USENIX Security Symposium, p.5-5, January 26-29, 1998, San Antonio, Texas
+Dai Zovi, D.2010. Return-oriented exploitation.Black Hat(Presentation slides). https://media.blackhat.com/bh-us-10/presentations/ Zovi/BlackHat-USA-2010-DaiZovi-Return-Oriented-Exploitation-slides.pdf.
+dark spyrit. 1999. Win32 buffer overflows (location, exploitation, and prevention).Phrack Mag. 55, 15. http://www.phrack.org/archives/55/p55_0x0f_Win32&percnt;20Buffer&percnt;20Overflows..._by_dark&percnt;20spyrit.txt.
+Lucas Davi , Ahmad-Reza Sadeghi , Marcel Winandy, Dynamic integrity measurement and attestation: towards defense against return-oriented programming attacks, Proceedings of the 2009 ACM workshop on Scalable trusted computing, November 13-13, 2009, Chicago, Illinois, USA[doi>10.1145/1655108.1655117]
+Lucas Davi , Ahmad-Reza Sadeghi , Marcel Winandy, ROPdefender: a detection tool to defend against return-oriented programming attacks, Proceedings of the 6th ACM Symposium on Information, Computer and Communications Security, March 22-24, 2011, Hong Kong, China[doi>10.1145/1966913.1966920]
+Thomas Dullien , Tim Kornau , Ralf-Philipp Weinmann, A framework for automated architecture-independent gadget search, Proceedings of the 4th USENIX conference on Offensive technologies, p.1, August 09, 2010, Washington, DC
+Durden, T.2002. Bypassing PaX ASLR protection.Phrack Mag. 59, 9. http://www.phrack.org/archives/59/p59_0x09_Bypassing&percnt;20PaX&percnt;20ASLR&percnt;20pro&percnt;tection_by_Tyler&percnt;20Durden.txt.
+Úlfar Erlingsson, Low-level software security: attacks and defenses, Foundations of security analysis and design IV, Springer-Verlag, Berlin, Heidelberg, 2007
+Úlfar Erlingsson , Martín Abadi , Michael Vrable , Mihai Budiu , George C. Necula, XFI: software guards for system address spaces, Proceedings of the 7th symposium on Operating systems design and implementation, November 06-08, 2006, Seattle, Washington
+Etoh, H. and Yoda, K.2001. ProPolice: Improved stack-smashing attack detection.IPSJ SIGNotes Comp. Sec. 14, 25. http://www.trl.ibm.com/projects/security/ssp.
+Aurélien Francillon , Claude Castelluccia, Code injection attacks on harvard-architecture devices, Proceedings of the 15th ACM conference on Computer and communications security, October 27-31, 2008, Alexandria, Virginia, USA[doi>10.1145/1455770.1455775]
+Aurélien Francillon , Daniele Perito , Claude Castelluccia, Defending embedded systems against control flow attacks, Proceedings of the first ACM workshop on Secure execution of untrusted code, November 09-09, 2009, Chicago, Illinois, USA[doi>10.1145/1655077.1655083]
+Mike Frantzen , Mike Shuey, StackGhost: Hardware facilitated stack protection, Proceedings of the 10th conference on USENIX Security Symposium, p.5-5, August 13-17, 2001, Washington, D.C.
+Garg, M.2006a. About ELF auxiliary vectors. http://manugarg.googlepages.com/aboutelfauxiliaryvectors.
+Garg, M.2006b. Sysenter-based system call mechanism in Linux 2.6. http://manugarg.googlepages.com/systemcallinlinux2_6.html.
+gera and riq. 2001. Advances in format string exploiting.Phrack Mag. 59, 7. http://www.phrack.org/archives/59/p59_0x07_Advances&percnt;20in&percnt;20format&percnt;20string&percnt;20exploitation_by_riq&percnt;20&&percnt;&percnt;20gera.txt.
+Heelan, S.2010. Validity, satisfiability and code semantics. http://seanhn.wordpress.com/2010/10/02/validity-satisfiability- and-instruction-semantics/.
+Horovitz, O.2002. Big loop integer protection.Phrack Mag. 60, 9. http://www.phrack.org/archives/60/p60_0x09_Big&percnt;20Loop&percnt;20Integer&percnt;20Protection_by_Oded&percnt;20Horovitz.txt.
+Ralf Hund , Thorsten Holz , Felix C. Freiling, Return-oriented rootkits: bypassing kernel code integrity protection mechanisms, Proceedings of the 18th conference on USENIX security symposium, p.383-398, August 10-14, 2009, Montreal, Canada
+Intel Corporation. 2011.Intel 64 and IA-32 Architectures Software Developer’s Manual, Vols. 1--3B. Intel Corporation. http://www.intel.com/products/processor/manuals/.
+Iozzo, V. and Miller, C.2009. Fun and games with Mac OS X and iPhone payloads.Black Hat Europe(Presentation slides). http://www.blackhat.com/presentations/bh-europe-09/Miller_Iozzo/BlackHat-Europe-2009-Miller-Iozzo-OSX-IPhone-Payloads-whitepaper.pdf.
+Iozzo, V., Kornau, T., and Weinmann, R.-P.2010. Everybody be cool this is a roppery!Black Hat. http://www.zynamics.com/downloads/bh10_paper.pdf.
+Ivaldi, M.2007. Re: Older SPARC return-into-libc exploits. Penetration testing, SECLISTS. ORA.
+Kaempf, M.2001. Vudo malloc tricks.Phrack Mag. 57, 8. http://www.phrack.org/archives/57/p57_0x08_Vudo&percnt;20malloc&percnt;20tricks_by_MaXX.txt.
+klog. 1999. The frame pointer overwrite.Phrack Mag. 55, 8. http://www.phrack.org/archives/55/p55_0x08_Frame&percnt;20Pointer&percnt;20Overwriting_by_klog.txt.
+Kornau, T.2010. Return-oriented programming for the ARM architecture. M.S. thesis, Ruhr-Universität Bochum. http://zynamics.com/downloads/kornau-tim--diplomarbeit--rop.pdf.
+Krahmer, S.2005. x86-64 buffer overflow exploits and the borrowed code chunks exploitation technique. http://www.suse.de/~krahmer/no-nx.pdf.
+Le, L.2010. Payload already inside: Data re-use for ROP exploits.Black Hat. https://media.blackhat.com/bh-us-10/whitepapers/Le/BlackHat-USA-2010-Le-Paper-Payload-already-inside-data-reuse-for-ROP-exploits-wp.pdf.
+Jinku Li , Zhi Wang , Xuxian Jiang , Michael Grace , Sina Bahram, Defeating return-oriented rootkits with "Return-Less" kernels, Proceedings of the 5th European conference on Computer systems, April 13-16, 2010, Paris, France[doi>10.1145/1755913.1755934]
+Lidner, F.2009. Developments in Cisco IOS forensics. CONFidence 2.0. (Presentation slides). http://www.recurity-labs.com/content/pub/FX_Router_Exploitation.pdf.
+McDonald, J.1999. Defeating Solaris/SPARC non-executable stack protection. Bugtraq.
+Miller, C. and Iozzo, V.2009. Fun and games with Mac OS X and iPhone payloads. Presented at the BlackHat Europe 2009 Conference. https://www.blackhat.com/presentations/bh-europe-09/Miller_Iozzo/ BlackHat-Europe-2009-Miller-Iozzo-OSX-IPhone-Payloads-whitepaper.pdf.
+Naraine, R.2010. Pwn2Own 2010: iPhone hacked, SMS database hijacked. http://blogs.zdnet.com/security/?p=5836.
+Nergal. 2001. The advanced return-into-lib(c) exploits: PaX case study.Phrack Mag. 58, 4. http://www.phrack.org/archives/58/p58_0x04_Advanced&percnt;20return-into-lib(c)&percnt;20exploits&percnt;20(PaX&percnt;20case&percnt;20study)_by_nergal.txt.
+Newsham, T.1997. Re: Smashing the stack: Prevention? Bugtraq. http://seclists.org/bugtraq/1997/Apr/129.
+Newsham, T.2000. Non-exec stack. Bugtraq. http://seclists.org/bugtraq/2000/May/90.
+Kaan Onarlioglu , Leyla Bilge , Andrea Lanzi , Davide Balzarotti , Engin Kirda, G-Free: defeating return-oriented programming through gadget-less binaries, Proceedings of the 26th Annual Computer Security Applications Conference, December 06-10, 2010, Austin, Texas[doi>10.1145/1920261.1920269]
+Richard P. Paul, SPARC Architecture, Assembly Language Programming, and C, Prentice Hall PTR, Upper Saddle River, NJ, 1999
+PaX Team. 2003a. PaX address space layout randomization. http://pax.grsecurity.net/docs/aslr.txt.
+PaX Team. 2003b. PaX non-executable pages design & implementation. http://pax.grsecurity.net/docs/noexec.txt.
+PaX Team. 2003c. SEGMEXEC: Segmentation based non-executable pages. http://pax.grsecurity.net/docs/segmexec.txt.
+Richarte, G.2000. Re: Future of buffer overflows? Bugtraq. http://seclists.org/bugtraq/2000/Nov/32 and http://seclists.org/bugtraq/2000/Nov/26.
+Richarte, G.2001. Insecure programming by example: Esoteric #2. http://community.corest.com/~gera/InsecureProgramming/e2.html.
+Roemer, R.2009. Finding the bad in good code: Automated return-oriented programming exploit discovery. M.S. thesis, UC San Diego. https://cseweb.ucsd.edu/~rroemer/doc/thesis.pdf.
+Santa Cruz Operation1996.System V Application Binary Interface: Intel386 Architecture Processor Supplement4th Ed., The Santa Cruz Operation.
+Edward J. Schwartz , Thanassis Avgerinos , David Brumley, Q: exploit hardening made easy, Proceedings of the 20th USENIX conference on Security, p.25-25, August 08-12, 2011, San Francisco, CA
+Scut/team teso. 2001. Exploiting format string vulnerabilities. http://www.team-teso.net.
+Hovav Shacham, The geometry of innocent flesh on the bone: return-into-libc without function calls (on the x86), Proceedings of the 14th ACM conference on Computer and communications security, November 02-October 31, 2007, Alexandria, Virginia, USA[doi>10.1145/1315245.1315313]
+Hovav Shacham , Matthew Page , Ben Pfaff , Eu-Jin Goh , Nagendra Modadugu , Dan Boneh, On the effectiveness of address-space randomization, Proceedings of the 11th ACM conference on Computer and communications security, October 25-29, 2004, Washington DC, USA[doi>10.1145/1030083.1030124]
+Solar Designer. 1997. Getting around non-executable stack (and fix). Bugtraq moving hot.
+Solar Designer. 1998. StackPatch. http://www.openwall.com/linux.
+Solar Designer. 2000. JPEG COM marker processing vulnerability in Netscape browsers. http://www.openwall.com/advisories/OW-002-netscape-jpeg/.
+SPARC Int. Inc.1996.System V Application Binary Interface, SPARCProcessor Supplement. SPARC Inc.
+Weaver, D. and Germond, T., Eds. 1994.The SPARC Architecture ManualVersion 9. SPARC Int. Inc., Englewood Cliffs, NJ.
+Zalewski, M.2001. Remote vulnerability in SSH daemon CRC32 compression attack detector. http://www.bindview.com/Support/RAZOR/Advisories/2001/adv_ssh1crc.cfm.

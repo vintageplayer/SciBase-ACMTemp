@@ -1,0 +1,18 @@
+Language run-time systems are increasingly being embedded in
+systems to support run-time extensibility via mobile code. Such
+systems raise a number of concerns when the code running in such
+systems is potentially buggy or untrusted. Although sophisticated
+access controls have been designed for mobile code and are shipping
+as part of commercial systems such as Java, there is no support for
+terminating mobile code short of terminating the entire language
+run-time. This article presents a concept called "soft termination"
+that can be applied to virtually any mobile code system. Soft
+termination allows mobile code threads to be safely terminated
+while preserving the stability of the language run-time. In
+addition, function bodies can be permanently disabled, thwarting
+attacks predicated on system threads eventually calling untrusted
+functions. Soft termination guarantees termination by breaking any
+potential infinite loops in mobile code. We present a formal design
+for soft termination and an implementation of it for Java, built
+using Java bytecode rewriting, which demonstrates reasonable
+performance (3 to 25% slowdowns onbenchmarks).

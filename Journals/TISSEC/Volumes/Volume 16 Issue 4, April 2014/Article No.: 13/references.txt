@@ -1,0 +1,48 @@
+Advanced Network Architecture Group. 2013. Spoofer project. http://spoofer.csail.mit.edu/summary.php.
+Alexa Web Information Company. 2013. Top sites. http://www.alexa.com/topsites.
+Spiros Antonatos , Periklis Akritidis , Vinh The Lam , Kostas G. Anagnostakis, Puppetnets: Misusing Web Browsers as a Distributed Attack Infrastructure, ACM Transactions on Information and System Security (TISSEC), v.12 n.2, p.1-38, December 2008[doi>10.1145/1455518.1455524]
+F. Baker , P. Savola, Ingress Filtering for Multihomed Networks, RFC Editor, 2004
+Barth, A. 2011.The Web Origin Concept. RFC 6454 (Proposed Standard).
+Adam Barth , Collin Jackson , John C. Mitchell, Robust defenses for cross-site request forgery, Proceedings of the 15th ACM conference on Computer and communications security, October 27-31, 2008, Alexandria, Virginia, USA[doi>10.1145/1455770.1455782]
+S. M. Bellovin, Security problems in the TCP/IP protocol suite, ACM SIGCOMM Computer Communication Review, v.19 n.2, p.32-48, April 1, 1989[doi>10.1145/378444.378449]
+Steven M. Bellovin, A Look Back at "Security Problems in the TCP/IP Protocol Suite", Proceedings of the 20th Annual Computer Security Applications Conference, p.229-249, December 06-10, 2004[doi>10.1109/CSAC.2004.3]
+Bernstein, D. J. 1996. SYN cookies. http://cr.yp.to/syncookies.html.
+Robert Beverly , Arthur Berger , Young Hyun , k claffy, Understanding the efficacy of deployed internet source address validation filtering, Proceedings of the 9th ACM SIGCOMM conference on Internet measurement conference, November 04-06, 2009, Chicago, Illinois, USA[doi>10.1145/1644893.1644936]
+Browserscope. 2012. Browser comparison. http://www.browserscope.org.
+Eddy, W. 2007. TCP syn flooding attacks and common mitigations. RFC 4987 (Informational).
+Toby Ehrenkranz , Jun Li, On the state of IP spoofing defense, ACM Transactions on Internet Technology (TOIT), v.9 n.2, p.1-29, May 2009[doi>10.1145/1516539.1516541]
+P. Ferguson , D. Senie, Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing, RFC Editor, 2000
+R. Fielding , J. Gettys , J. Mogul , H. Frystyk , L. Masinter , P. Leach , T. Berners-Lee, Hypertext Transfer Protocol -- HTTP/1.1, RFC Editor, 1999
+Yossi Gilad , Amir Herzberg, Off-path attacking the web, Proceedings of the 6th USENIX conference on Offensive Technologies, August 06-07, 2012, Bellevue, WA
+Gilad, Y. and Herzberg, A. 2013a. Puppet code (java script). http://u.cs.biu.ac.il/_herzbea/security/code/puppet-example.js.
+Yossi Gilad , Amir Herzberg, When tolerance causes weakness: the case of injection-friendly browsers, Proceedings of the 22nd international conference on World Wide Web, May 13-17, 2013, Rio de Janeiro, Brazil
+Gilad, Y., Herzberg, A., and Shulman, H. 2014. Off-path hacking: The illusion of challenge-response authentication.IEEE Secur. Privacy Mag. PP, 99.
+Gont, F. and Bellovin, S. 2012. Defending against sequence number attacks. RFC 6528 (Proposed Standard).
+Amir Herzberg , Ahmad Jbara, Security and identification indicators for browsers against spoofing and phishing attacks, ACM Transactions on Internet Technology (TOIT), v.8 n.4, p.1-36, September 2008[doi>10.1145/1391949.1391950]
+Herzberg, A. and Shulman, H. 2012. Security of patched dns. InESORICS, S. Foresti, M. Yung, and F. Martinelli Eds., Lecture Notes in Computer Science, vol. 7459, Springer, 271--288.
+Trevor Jim , Nikhil Swamy , Michael Hicks, Defeating script injection attacks with browser-enforced embedded policies, Proceedings of the 16th international conference on World Wide Web, May 08-12, 2007, Banff, Alberta, Canada[doi>10.1145/1242572.1242654]
+Laurent Joncheray, A Simple active attack against TCP, Proceedings of the 5th conference on USENIX UNIX Security Symposium, p.2-2, June 05-07, 1995, Salt Lake City, Utah
+Kaminsky, D. 2011. Black ops of tcp/ip. InBlack Hat Conference.
+T. Killalea, Recommended Internet Service Provider Security Services and Procedures, RFC Editor, 2000
+Klein, A. 2004. Divide and conquer. HTTP response splitting, web cache poisoning attacks and related topics. Sanctum white paper.
+Klein, A. 2005. DOM based cross site scripting or xss of the third kind. Tech. rep., Web Application Security Consortium: Articles.
+Klein, A. 2011. Web cache poisoning attacks. InEncyclopedia of Cryptography and Security2nd Ed. Springer, 1373--1373.
+KLM. 2007. Remote blind tcp/ip spoofing.Phrack Mag.
+Larsen, M. and Gont, F. 2011. Recommendations for transport-protocol port randomization. RFC 6056 (Best Current Practice). http://tools.ietf.org/html/rfc6056.
+Jonathan Lemon, Resisting SYN flood DoS attacks with a SYN cache, Proceedings of the BSD Conference 2002 on BSD Conference, p.10-10, February 11-14, 2002, San Francisco, California
+Marlinspike, M. 2009. New tricks for defeating ssl in practice. https://www.blackhat.com/presentations/bh-dc-09/Marlinspike/BlackHat-DC-09-Marlinspike-Defeating-SSL.pdf.
+Morris, R. T. 1985. A weakness in the 4.2bsd unix tcp/ip software. Tech. rep., AT&T; Bell Laboratories.
+The Open Web Application Security Project. 2009. Cache poisoning. https://www.owasp.org/index.php/CachePoisoning.
+The Open Web Application Security Project. 2010. Cross-site request forgery. https://www.owasp.org/index.php/Cross-Site.
+Petefish, P., Sheridan, E., and Wichers, D. 2011. Cross-site request forgery (csrf) prevention cheat sheet. https://www.owasp.org/index.php/Cross-Site.
+Postel, J. 1981. Transmission control protocol. RFC 793 (Internet Standard). Updated by RFCs 1122, 3168, 6093, 6528. http://www.ietf.org/rfc/rfc793.txt.
+Zhiyun Qian , Z. Morley Mao, Off-path TCP Sequence Number Inference Attack - How Firewall Middleboxes Reduce Security, Proceedings of the 2012 IEEE Symposium on Security and Privacy, p.347-361, May 20-25, 2012[doi>10.1109/SP.2012.29]
+Zhiyun Qian , Z. Morley Mao , Yinglian Xie, Collaborative TCP sequence number inference attack: how to crack sequence number under a second, Proceedings of the 2012 ACM conference on Computer and communications security, October 16-18, 2012, Raleigh, North Carolina, USA[doi>10.1145/2382196.2382258]
+Ruderman, J. 2001. Same origin policy for javascript. https://developer.mozilla.org/En/Same.
+Sanfilippo, S. 1998. A new tcp scan method. http://seclists.org/bugtraq/1998/Dec/79.
+Tsutomu Shimomura , John Markoff, Takedown: The Pursuit and Capture of Kevin Mitnick, America's Most Wanted Computer Outlaws - by the Man Who Did It, Hyperion Press, 1995
+Sid Stamm , Brandon Sterne , Gervase Markham, Reining in the web with content security policy, Proceedings of the 19th international conference on World wide web, April 26-30, 2010, Raleigh, North Carolina, USA[doi>10.1145/1772690.1772784]
+Touch, J. 2007. Defending tcp against spoofing attacks. RFC 4953. http://tools.ietf.org/html/rfc4953.
+Watson, P. 2004. Slipping in the window: TCP reset attacks. http://bandwidthco.com/whitepapers/netforensics/tcpip/TCP&percnt;20Reset&percnt;20Attacks.pdf.
+Zalewski, M. 2001. Strange attractors and tcp/ip sequence number analysis. http://lcamtuf.coredump.cx/newtcp/.
+Michal Zalewski, The Tangled Web: A Guide to Securing Modern Web Applications, No Starch Press, San Francisco, CA, 2011

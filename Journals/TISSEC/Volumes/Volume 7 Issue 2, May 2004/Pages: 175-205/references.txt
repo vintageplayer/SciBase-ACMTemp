@@ -1,0 +1,26 @@
+Anderson, J. P. 1972. Computer Security Technology Planning Study. Tech. Rep. ESD-TR-73-51, Air Force Electronic Systems Division.
+Ken Ashcraft , Dawson Engler, Using Programmer-Written Compiler Extensions to Catch Security Holes, Proceedings of the 2002 IEEE Symposium on Security and Privacy, p.143, May 12-15, 2002
+Ball, T., Cook, B., Levin, V., and Rajamani, S. K. 2003. SLAM and static driver verifier: Technology transfer of formal methods inside Microsoft. In Integrated Formal Methods, Lecture Notes in Computer Science, vol. 2999. 1--20. Also appears at MSR-TR-2004-8.
+Manuvir Das , Sorin Lerner , Mark Seigle, ESP: path-sensitive program verification in polynomial time, Proceedings of the ACM SIGPLAN 2002 Conference on Programming language design and implementation, June 17-19, 2002, Berlin, Germany[doi>10.1145/512529.512538]
+Bishop, M. and Dilger, M. 1996. Checking for race conditions in file accesses. Computing Systems, 9, 2, 131--152.
+Hao Chen , David Wagner, MOPS: an infrastructure for examining security properties of software, Proceedings of the 9th ACM conference on Computer and communications security, November 18-22, 2002, Washington, DC, USA[doi>10.1145/586110.586142]
+Chen, H., Dean, D., and Wagner, D. 2004. Model checking one million lines of C code. In Proceedings of Network and Distributed System Security Symposium (NDSS 2004).
+Sagar Chaki , Edmund Clarke , Alex Groce , Somesh Jha , Helmut Veith, Modular verification of software components in C, Proceedings of the 25th International Conference on Software Engineering, May 03-10, 2003, Portland, Oregon
+Edwards, A., Jaeger, T., and Zhang, X. 2001. Runtime verification of Authorization Hook Placement for the Linux Security Modules Framework. Tech. Rep. RC22254, IBM Research.
+Dawson Engler , Benjamin Chelf , Andy Chou , Seth Hallem, Checking system rules using system-specific, programmer-written compiler extensions, Proceedings of the 4th conference on Symposium on Operating System Design & Implementation, p.1-1, October 22-25, 2000, San Diego, California
+Seth Hallem , Benjamin Chelf , Yichen Xie , Dawson Engler, A system and language for building system-specific, static analyses, Proceedings of the ACM SIGPLAN 2002 Conference on Programming language design and implementation, June 17-19, 2002, Berlin, Germany[doi>10.1145/512529.512539]
+Jeffrey S. Foster , Manuel Fähndrich , Alexander Aiken, A theory of type qualifiers, Proceedings of the ACM SIGPLAN 1999 conference on Programming language design and implementation, p.192-203, May 01-04, 1999, Atlanta, Georgia, USA[doi>10.1145/301618.301665]
+Vinod Ganapathy , Somesh Jha , David Chandler , David Melski , David Vitek, Buffer overrun detection using linear programming and static analysis, Proceedings of the 10th ACM conference on Computer and communications security, October 27-30, 2003, Washington D.C., USA[doi>10.1145/948109.948155]
+Peter Gutmann, The design of a cryptographic security architecture, Proceedings of the 8th conference on USENIX Security Symposium, p.13-13, August 23-26, 1999, Washington, D.C.
+Itsec. 1998. Common Criteria for Information Security Technology Evaluation. ITSEC. Available at www.commoncriteria.org.
+Jaeger, T., Zhang, X., and Edwards, A. 2002. Maintaining the correct of the Linux Security Modules framework. In Proceedings of the 2002 Ottawa Linux Symposium. 223--241.
+Eric Larson , Todd Austin, High coverage detection of input-related security facults, Proceedings of the 12th conference on USENIX Security Symposium, p.9-9, August 04-08, 2003, Washington, DC
+Koutsofios, E. and North, S. Drawing graphs with Dot. Available at http://www.research. att.com/sw/tools/graphviz/.
+Larry Koved , Marco Pistoia , Aaron Kershenbaum, Access rights analysis for Java, Proceedings of the 17th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, November 04-08, 2002, Seattle, Washington, USA[doi>10.1145/582419.582452]
+David Larochelle , David Evans, Statically detecting likely buffer overflow vulnerabilities, Proceedings of the 10th conference on USENIX Security Symposium, p.14-14, August 13-17, 2001, Washington, D.C.
+Ncsc. 1985. Trusted Computer Security Evaluation Criteria. National Computer Security Center. DoD 5200.28-STD, also known as the Orange Book.
+Umesh Shankar , Kunal Talwar , Jeffrey S. Foster , David Wagner, Detecting format string vulnerabilities with type qualifiers, Proceedings of the 10th conference on USENIX Security Symposium, p.16-16, August 13-17, 2001, Washington, D.C.
+J. Viega , J. T. Bloch , Y. Kohno , G. McGraw, ITS4: A static vulnerability scanner for C and C++ code, Proceedings of the 16th Annual Computer Security Applications Conference, p.257, December 11-15, 2000
+Wagner, D., Foster, J. S., Brewer, E. A., and Aiken, A. 2000. A first step towards automated detection of buffer overrun vulnerabilities. In Proceedings of Network and Distributed System Security Symposium (NDSS 2000).
+Xiaolan Zhang , Antony Edwards , Trent Jaeger, Using CQUAL for Static Analysis of Authorization Hook Placement, Proceedings of the 11th USENIX Security Symposium, p.33-48, August 05-09, 2002
+Zhang, X., Marceau, G., Jaeger, T., and Koved, L. Translation of C programs for static analysis by the JaBA framework. Internal draft document to become an IBM technical report.

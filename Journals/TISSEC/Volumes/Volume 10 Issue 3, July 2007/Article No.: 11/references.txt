@@ -1,0 +1,58 @@
+Carlisle Adams , Steve Lloyd, Understanding Public-Key Infrastructure: Concepts, Standards, and Deployment Considerations, Macmillan Technical Publishing, 1999
+William Aiello , John Ioannidis , Patrick McDaniel, Origin authentication in interdomain routing, Proceedings of the 10th ACM conference on Computer and communications security, October 27-30, 2003, Washington D.C., USA[doi>10.1145/948109.948133]
+Barbir, A., Murphy, S., and Yang, Y. 2004. Generic threats to routing protocols. Internet Draft.
+S. M. Bellovin, Security problems in the TCP/IP protocol suite, ACM SIGCOMM Computer Communication Review, v.19 n.2, p.32-48, April 1, 1989[doi>10.1145/378444.378449]
+Steven M. Bellovin, A Look Back at "Security Problems in the TCP/IP Protocol Suite", Proceedings of the 20th Annual Computer Security Applications Conference, p.229-249, December 06-10, 2004[doi>10.1109/CSAC.2004.3]
+Bellovin, S. and Gansner, E. 2003. Using link cuts to attack internet routing. Unpublished manuscript.
+Bellovin, S., Ioannidis, J., and Bush, R. 2005. Position paper: Operational requirements for secured BGP. In DHS Secure Routing Workshop.
+Boneh, D., Boyen, X., and Shacham, H. 2004. Short group signatures. In Proceedings of Crypto 2004. Vol. 3152. 41--55.
+Michael Burrows , Martin Abadi , Roger Needham, A logic of authentication, ACM Transactions on Computer Systems (TOCS), v.8 n.1, p.18-36, Feb. 1990[doi>10.1145/77648.77649]
+Dempster, A. 1967. Upper and lower probabilities induced by a multivalued mapping. The Annals of Statistics 28, 325--339.
+DHS. 2005. DHS secure routing workshop. Department of Homeland Security, Washington, D.C.
+Gaarder, K. and Snekkenes, E. 1991. Applying a formal analysis technique to the CCIT X.509 strong two-way authentication protocol. Journal of Cryptology 3, 81--98.
+Gao, L. 2000. Inferring autonomous system relationships in the Internet. In IEEE Global Internet.
+Gligor, V., Kailar, R., Stubblebine, S., and Gong, L. 1991. Logics for cryptographic protocols---virtues and limitations. In Proceedings of the Computer Security Foundations Workshop IV. Los Alamitos, CA. 219--226.
+Goodell, G., Aiello, W., Griffin, T., Ioannidis, J., McDaniel, P., and Rubin, A. 2003. Working around BGP: An incremental approach to improving security and accuracy of interdomain routing. In Proceedings of the 2003 ISOC Symposium on Network and Distributed Systems Security (NDSS'03). San Diego, CA. 75--85.
+Richard Guida , Robert Stahl , Thomas Bunt , Gary Secrest , Joseph Moorcones, Deploying and Using Public Key Technology: Lessons Learned in Real Life, IEEE Security and Privacy, v.2 n.4, p.67-71, July 2004[doi>10.1109/MSP.2004.41]
+Hedrick, C. 1988. Routing information protocol. IETF RFC 1058.
+A. Heffernan, Protection of BGP Sessions via the TCP MD5 Signature Option, RFC Editor, 1998
+R. Housley , W. Ford , W. Polk , D. Solo, Internet X.509 Public Key Infrastructure Certificate and CRL Profile, RFC Editor, 1999
+Yih-Chun Hu , Adrian Perrig , Marvin Sirbu, SPV: secure path vector routing for securing BGP, Proceedings of the 2004 conference on Applications, technologies, architectures, and protocols for computer communications, August 30-September 03, 2004, Portland, Oregon, USA[doi>10.1145/1015467.1015488]
+IRR. 2005. Internet routing registry. http://www.irr.net.
+Just, M., Kranakis, E., and Wan, T. 2003. Resisting malicious packet dropping in wireless ad hoc networks. In Proceedings of the 2nd Annual Conference on Adhoc Networks and Wireless (ADHOCNOW'03).
+Kaufman, C. 2005. The internet key exchange (IKEv2) protocol. IETF RFC 4306.
+Kent, S. 2003. Securing the border gateway protocol: A status update. In Seventh IFIP TC-6 TC-11 Conference on Communications and Multimedia Security.
+Kent, S. 2005. IP encapsulating security payload (ESP). IETF RFC 4303.
+Stephen Kent, An infrastructure supporting secure internet routing, Proceedings of the Third European conference on Public Key Infrastructure: theory and Practice, June 19-20, 2006, Turin, Italy[doi>10.1007/11774716_10]
+S. Kent , R. Atkinson, Security Architecture for the Internet Protocol, RFC Editor, 1998
+S. Kent , R. Atkinson, IP Encapsulating Security Payload (ESP), RFC Editor, 1998
+Kent, S., Lynn, C., Mikkelson, J., and Seo, K. 2000. Secure border gateway protocol (S-BGP) real world performance and deployment issues. In Proceedings of the 2000 ISOC Symposium on Network and Distributed Systems Security (NDSS'00).
+S. Kent , C. Lynn , K. Seo, Secure Border Gateway Protocol (S-BGP), IEEE Journal on Selected Areas in Communications, v.18 n.4, p.582-592, September 2006[doi>10.1109/49.839934]
+Neal Koblitz , Alfred J. Menezes, Another Look at "Provable Security", Journal of Cryptology, v.20 n.1, p.3-37, January 2007[doi>10.1007/s00145-005-0432-z]
+Kruegel, C., Mutz, D., Robertson, W., and Valeur, F. 2003. Topology-based detection of anomalous BGP messages. In Proceedings of the 6th Symposium on Recent Advances in Intrusion Detection (RAID'03).
+Brijesh Kumar , Jon Crowcroft, Integrating security in inter-domain routing protocols, ACM SIGCOMM Computer Communication Review, v.23 n.5, p.36-51, Oct. 1993[doi>10.1145/165611.165615]
+Lynn, C., Kent, S., and Seo, K. 2003. X.509 Extensions for IP Addresses and AS Identifiers. draft-ietf-pkix-x509-ipaddr-as-extn-02.txt.
+Chengyu Ma , Nan Hu , Yingjiu Li, On the release of CRLs in public key infrastructure, Proceedings of the 15th conference on USENIX Security Symposium, July 31-August 04, 2006, Vancouver, B.C., Canada
+Ueli M. Maurer, Modelling a Public-Key Infrastructure, Proceedings of the 4th European Symposium on Research in Computer Security: Computer Security, p.325-350, September 25-27, 1996
+Murphy S. 2002a. BGP Security Vulnerabilities Analysis. draft-murphy-bgp-vuln-00.txt.
+Murphy S. 2002b. BGP Security Protections. draft-murphy-bgp-protect-00.txt.
+Nicol, D., Smith, S., and Zhao, M. 2004. Evaluation of efficient security for BGP route announcements using parallel simulation. Simulation Pratice and Theory Journal, Special Issue on Modeling, 187--216.
+Perlman, R. 1988. Network layer protocols with byzantine robustness. Tech. Rep. MIT/LCS/TR-429.
+M. K. Reiter , S. G. Stubblebine, Toward acceptable metrics of authentication, Proceedings of the 1997 IEEE Symposium on Security and Privacy, p.10, May 04-07, 1997
+Y. Rekhter , T. Li, A Border Gateway Protocol 4 (BGP-4), RFC Editor, 1995
+Retana, A. and White, R. 2002. BGP Custom decision process. draft-retana-bgp-custom-decision-00.txt.
+RouteViews. 2005. Route views project. http://www.routeviews.org.
+Seo, K., Lynn, C., and Kent, S. 2001. Public-key infrastructure for the secure border gateway protocol (S-BGP). In IEEE DARPA Information Survivability Conference and Exposition II.
+Shafer, G. 1976. A Mathematical Theory of Evidence. Princeton University Press, Princeton, NJ.
+Lakshminarayanan Subramanian , Volker Roth , Ion Stoica , Scott Shenker , Randy H. Katz, Listen and whisper: security mechanisms for BGP, Proceedings of the 1st conference on Symposium on Networked Systems Design and Implementation, p.10-10, March 29-31, 2004, San Francisco, California
+C. Villamizar , C. Alaettinoglu , D. Meyer , S. Murphy, Routing Policy System Security, RFC Editor, 1999
+Tao Wan, Securing routing protocols through information corroboration, Carleton University, Ottawa, Ont., Canada, 2006
+Wan, T., Kranakis, E., and van Oorschot, P. 2004. S-RIP: A secure distance vector routing protocol. In Proceedings of the Applied Cryptography and Network Security (ACNS'04). Vol. 3089. 103--119.
+Wan, T., Kranakis, E., and van Oorschot, P. 2005. Pretty secure BGP (psBGP). In Proceedings of the 2005 ISOC Symposium on Network and Distributed Systems Security (NDSS'05). San Diego, CA.
+Wan, T., van Oorschot, P., and Kranakis, E. 2007. A selective introduction to border gateway protocol (BGP) security issues. In Proceedings of the NATO Advanced Studies Institute on Network Security and Intrusion Detection. Nork, Yerevan, Armenia. IOS Press (to appear, 2007).
+White, R. 2003. Securing BGP through secure origin BGP. The Internet Protocol Journal 6, 3, 15--22.
+Russ White , Danny McPherson , Srihari Sangli, Practical BGP, Addison Wesley Longman Publishing Co., Inc., Redwood City, CA, 2004
+Meiyuan Zhao , Sean W. Smith , David M. Nicol, Aggregated path authentication for efficient BGP security, Proceedings of the 12th ACM conference on Computer and communications security, November 07-11, 2005, Alexandria, VA, USA[doi>10.1145/1102120.1102139]
+Zhao, M., Smith, S., and Nicol, D. 2005b. Evaluating the performance impact of PKI on BGP security. In Proceedings of 4th Annual PKI Research Workshop (PKI'05). Gaithersburg, MD.
+Philip R. Zimmermann, The official PGP user's guide, MIT Press, Cambridge, MA, 1995
+J. Zsako, PGP Authentication for RIPE Database Updates, RFC Editor, 1999

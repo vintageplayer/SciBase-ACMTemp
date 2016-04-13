@@ -1,0 +1,35 @@
+Martín Abadi , Roger Needham, Prudent Engineering Practice for Cryptographic Protocols, IEEE Transactions on Software Engineering, v.22 n.1, p.6-15, January 1996[doi>10.1109/32.481513]
+C. Adams , S. Farrell, Internet X.509 Public Key Infrastructure Certificate Management Protocols, RFC Editor, 1999
+Ross J. Anderson , Roger M. Needham, Robustness Principles for Public Key Protocols, Proceedings of the 15th Annual International Cryptology Conference on Advances in Cryptology, p.236-247, August 27-31, 1995
+ANSI. 2000. ANSI X9.63, Public Key Cryptography for the Financial Services Industry: Key Agreement and Key Transport Using Elliptic Curve Cryptography. ANSI. Working draft. June 15, 2001.
+BAEK,J.AND KIM, K. 2000. Remarks on the unknown key-share attacks. IEICE Trans. Fund. E83-A, 12 (Dec.), 2766-2769.
+BELLARE,M.AND ROGAWAY, P. 1995a. Optimal asymmetric encryption-How to encrypt with RSA. In Advances in Cryptology-EUROCRYPT '94 Proceedings, A. D. Santis, Ed., vol. 950, Lecture Notes in Computer Science, Springer-Verlag, New York, 92-111.
+Mihir Bellare , Phillip Rogaway, Provably secure session key distribution: the three party case, Proceedings of the twenty-seventh annual ACM symposium on Theory of computing, p.57-66, May 29-June 01, 1995, Las Vegas, Nevada, USA[doi>10.1145/225058.225084]
+Mihir Bellare , Phillip Rogaway, The exact security of digital signatures-how to sign with RSA and Rabin, Proceedings of the 15th annual international conference on Theory and application of cryptographic techniques, May 12-16, 1996, Saragossa, Spain
+Mihir Bellare , Alexandra Boldyreva , Silvio Micali, Public-key encryption in a multi-user setting: security proofs and improvements, Proceedings of the 19th international conference on Theory and application of cryptographic techniques, May 14-18, 2000, Bruges, Belgium
+BLAKE-WILSON,S.AND MENEZES, A. 1999. Unknown key-share attacks on the Station-to-Station (STS) protocol. In Public Key Cryptography (PKC '99) Proceedings, H. Imai and Y. Zheng, Eds., vol. 1560, Lecture Notes in Computer Science, Springer-Verlag, New York, 154-170.
+Simon Blake-Wilson , Don Johnson , Alfred Menezes, Key Agreement Protocols and Their Security Analysis, Proceedings of the 6th IMA International Conference on Cryptography and Coding, p.30-45, December 17-19, 1997
+BONEH, D. 1999. Twenty years of attacks on the RSA cryptosystem. Not. Am. Math. Soc. (AMS) 46, 2, 203-213.
+CORELLA, F. 2000. Structured certificates and their applications to distributed systems security. Presented at RSA Conference 2000 (San Jose, Calif., Jan. 16-20).
+DIFFIE,W.AND HELLMAN, M. 1976a. Multiuser cryptographic techniques. In Proceedings of AFIPS National Computer Conference, 109-112.
+DIFFIE,W.AND HELLMAN, M. 1976b. New directions in cryptography. IEEE Trans. Info. Theor. 22,6 (Nov.), 644-654.
+Whitfield Diffie , Paul C. Van Oorschot , Michael J. Wiener, Authentication and authenticated key exchanges, Designs, Codes and Cryptography, v.2 n.2, p.107-125, June 1992[doi>10.1007/BF00124891]
+EL GAMAL, T. 1985. A public-key cryptosystem and a signature scheme based on discrete logarithms. IEEE Trans. Info. Theor. 31, 469-472.
+C. Ellison , B. Frantz , B. Lampson , R. Rivest , B. Thomas , T. Ylonen, SPKI Certificate Theory, RFC Editor, 1999
+GOSS, K. 1990. Cryptographic method and apparatus for public key exchange with authentication. U.S. Patent No. 4,956,865.
+Shouichi Hirose , Susumu Yoshida, An Authenticated Diffie-Hellman Key Agreement Protocol Secure Against Active Attacks, Proceedings of the First International Workshop on Practice and Theory in Public Key Cryptography: Public Key Cryptography, p.135-148, February 05-06, 1998
+IEEE. 2000. IEEE Std 1363-2000: Standard Specifications for Public Key Cryptography. IEEE.
+IEEE P1363 Working Group. 2001. IEEE P1363a D10 (Draft Version 10):Standard Specifications for Public Key Cryptography: Additional Techniques. IEEE P1363 Working Group. Working draft. Available from http://grouper.ieee.org/groups/1363/.
+David P. Jablon, Strong password-only authenticated key exchange, ACM SIGCOMM Computer Communication Review, v.26 n.5, p.5-26, Oct. 1996[doi>10.1145/242896.242897]
+KALISKI,JR., B. S. 1998. Compatible cofactor multiplication for Diffie-Hellman primitives. Electron. Lett. 34, 25 (Dec. 10), 2396-2397.
+LAW, L., MENEZES, A., QU, M., SOLINAS,J.,AND VANSTONE, S. 1998. An efficient protocol for authenticated key agreement. Tech. Rep. CORR 98-05, Department of C&O, University of Waterloo. Also available from http://grouper.ieee.org/groups/1363/.
+Chae Hoon Lim , Pil Joong Lee, A Key Recovery Attack on Discrete Log-based Schemes Using a Prime Order Subgroupp, Proceedings of the 17th Annual International Cryptology Conference on Advances in Cryptology, p.249-263, August 17-21, 1997
+MATSUMOTO, T., TAKASHIMA,Y.,AND IMAI, H. 1986. On seeking smart public-key distribution systems. Trans. IECE Japan E69, 99-106.
+MENEZES, A., QU, M., AND VANSTONE, S. 1995a. Key agreement and the need for authentication. Presented at Public Key Solutions '95 (Toronto, Nov.).
+MENEZES, A., QU, M., AND VANSTONE, S. 1995b. Some new key agreement protocols providing mutual implicit authentication. In Proceedings of the Second Workshop on Selected Areas in Cryptography (SAC '95, Ottawa, May 18-19), 22-32.
+Alfred J. Menezes , Scott A. Vanstone , Paul C. Van Oorschot, Handbook of Applied Cryptography, CRC Press, Inc., Boca Raton, FL, 1996
+MENEZES,A.J.,QU, M., AND VANSTONE, S. A. 1995c. Some new key agreement protocols providing implicit authentication. Manuscript.
+M. Myers , R. Ankney , A. Malpani , S. Galperin , C. Adams, X.509 Internet Public Key Infrastructure Online Certificate Status Protocol - OCSP, RFC Editor, 1999
+SHOUP, V. 1999. On formal models for secure key exchange. Tech. Rep. RZ 3120, April, IBM Research Report. Revised version available from http://www.shoup.net/papers/.
+Paul C. Van Oorschot , Michael J. Wiener, On diffie-hellman key agreement with short exponents, Proceedings of the 15th annual international conference on Theory and application of cryptographic techniques, May 12-16, 1996, Saragossa, Spain
+VANSTONE, S., MENEZES,A.J.,AND QU, M. 1998. Key agreement and transport protocol with implicit signatures. U.S. Patent No. 5,761,305.

@@ -1,0 +1,38 @@
+Boneh, D., Durfee, G., and Franklin, M. 2001. Lower bounds for multicast message authentication. In Proceedings of the International Conference on the Theory and Application of Cryptographic Techniques (EUROCRYPT'01). Springer, Berlin, 437--452.
+Dan Boneh , Matthew Franklin, Identity-Based Encryption from the Weil Pairing, SIAM Journal on Computing, v.32 n.3, p.586-615, 2003[doi>10.1137/S0097539701398521]
+Boneh, D., Lynn, B., and Shacham, H. 2001. Short signatures from the Weil pairing. In Proceedings of the 7th International Conference on the Theory and Application of Cryptology and Information Security(ASIACRYPT'01). Springer, Berlin, 514--532.
+Canetti, R., Garay, J., Itkis, G., Micciancio, D., Naor, M., and Pinkas, B. 1999. Multicast security: A taxonomy and some efficient constructions. In Proceedings of the 27th IEEE International Conference on Computer Communications (INFOCOM'99). IEEE, Los Alamitos, CA, 708--716.
+Thomas T. Cormen , Charles E. Leiserson , Ronald L. Rivest, Introduction to algorithms, MIT Press, Cambridge, MA, 1990
+Ronald Cramer , Victor Shoup, Signature schemes based on the strong RSA assumption, ACM Transactions on Information and System Security (TISSEC), v.3 n.3, p.161-185, Aug. 2000[doi>10.1145/357830.357847]
+Yvo Desmedt , Yair Frankel , Moti Yung, Multi-receiver/multi-sender network security: efficient authenticated multicast/feedback, Proceedings of the eleventh annual joint conference of the IEEE computer and communications societies on One world through communications (Vol. 3), p.2045-2054, May 1992, Florence, Italy
+Marc Fischlin, The Cramer-Shoup Strong-RSASignature Scheme Revisited, Proceedings of the 6th International Workshop on Theory and Practice in Public Key Cryptography: Public Key Cryptography, p.116-129, January 06-08, 2003
+Rosario Gennaro , Pankaj Rohatgi, How to Sign Digital Streams, Proceedings of the 17th Annual International Cryptology Conference on Advances in Cryptology, p.180-197, August 17-21, 1997
+Ian Goldberg, Improving the Robustness of Private Information Retrieval, Proceedings of the 2007 IEEE Symposium on Security and Privacy, p.131-148, May 20-23, 2007[doi>10.1109/SP.2007.23]
+Oded Goldreich, Foundations of Cryptography: Volume 2, Basic Applications, Cambridge University Press, New York, NY, 2004
+Oded Goldreich , Ronitt Rubinfeld , Madhu Sudan, Learning Polynomials with Queries: The Highly Noisy Case, SIAM Journal on Discrete Mathematics, v.13 n.4, p.535-570, Oct. 2000 to Nov. 2000[doi>10.1137/S0895480198344540]
+Shafi Goldwasser , Silvio Micali , Ronald L. Rivest, A digital signature scheme secure against adaptive chosen-message attacks, SIAM Journal on Computing, v.17 n.2, p.281-308, April 1988[doi>10.1137/0217017]
+Golle, P. and Modadugu, N. 2001. Authenticating streamed data in the presence of random packet loss. In Proceedings of the Network and Distributed System Security Symposium. Internet Society, Reston, VA, 13--22.
+Gunter, C., Khanna, S., Tan, K., and Venkatesh, S. 2004. DoS protection for reliably authenticated broadcast. In Proceedings of the Network and Distributed System Security Symposium. Internet Society, Reston, VA, 17--36.
+Venkatesan Guruswami , Madhu Sudan, List decoding of error-correcting codes, Massachusetts Institute of Technology, 2001
+V. Guruswami , M. Sudan, Improved decoding of Reed-Solomon and algebraic-geometry codes, IEEE Transactions on Information Theory, v.45 n.6, p.1757-1767, September 1999[doi>10.1109/18.782097]
+Karlof, C., Sastry, N., Li, Y., Perrig, A., and Tygar, J. 2004. Distillation codes & applications to DoS resistant multicast authentication. In Proceedings of the Network and Distributed System Security Symposium. Internet Society, Reston, VA, 37--56.
+Hugo Krawczyk, Distributed fingerprints and secure information dispersal, Proceedings of the twelfth annual ACM symposium on Principles of distributed computing, p.207-218, August 15-18, 1993, Ithaca, New York, USA[doi>10.1145/164051.164075]
+Krohn, M., Freedman, M., and Mazieres, D. 2004. On-the-fly verification of rateless erasure codes for efficient content distribution. In Proceedings of the Symposium on Security & Privacy. IEEE, Los Alamitos, CA, 226--240.
+M. G. Luby , M. Mitzenmacher , M. A. Shokrollahi , D. A. Spielman, Efficient erasure correcting codes, IEEE Transactions on Information Theory, v.47 n.2, p.569-584, February 2001[doi>10.1109/18.910575]
+Lysyanskaya, A., Tamassia, R., and Triandopoulos, N. 2004. Multicast authentication in fully adversarial networks. In Proceedings of the Symposium on Security & Privacy. IEEE, Los Alamitos, CA, 241--255.
+McEliece, R. J. 2003. The Guruswami-Sudan decoding algorithm for Reed-Solomon codes. Tech. rep. JPL Interplanetary Network Progress Report, IPN PR 42--153.
+Silvio Micali , Chris Peikert , Madhu Sudan , David A. Wilson, Optimal error correction against computationally bounded noise, Proceedings of the Second international conference on Theory of Cryptography, February 10-12, 2005, Cambridge, MA[doi>10.1007/978-3-540-30576-7_1]
+Sara Miner , Jessica Staddon, Graph-Based Authentication of Digital Streams, Proceedings of the 2001 IEEE Symposium on Security and Privacy, p.232, May 14-16, 2001
+Pannetrat, A. and Molva, R. 2003. Efficient multicast packet authentication. In Proceedings of the Network and Distributed System Security Symposium. Internet Society, Reston, VA.
+Jung Min Park , Edwin K. P. Chong , Howard Jay Siegel, Efficient multicast stream authentication using erasure codes, ACM Transactions on Information and System Security (TISSEC), v.6 n.2, p.258-285, May 2003[doi>10.1145/762476.762480]
+Adrian Perrig, The BiBa one-time signature and broadcast authentication protocol, Proceedings of the 8th ACM conference on Computer and Communications Security, November 05-08, 2001, Philadelphia, PA, USA[doi>10.1145/501983.501988]
+Perrig, A., Canetti, R., Song, D., and Tygar, J. 2001. Efficient and secure source authentication for multicast. In Proceedings of the Network and Distributed System Security Symposium. Internet Society, Reston, VA, 35--46.
+Adrian Perrig , J. D. Tygar , Dawn Song , Ran Canetti, Efficient Authentication and Signing of Multicast Streams over Lossy Channels, Proceedings of the 2000 IEEE Symposium on Security and Privacy, p.56, May 14-17, 2000
+Michael O. Rabin, Efficient dispersal of information for security, load balancing, and fault tolerance, Journal of the ACM (JACM), v.36 n.2, p.335-348, April 1989[doi>10.1145/62044.62050]
+Reed, I. S. and Solomon, G. 1960. Polynomial codes over certain finite fields. SIAM J. Appl. Math. 8, 2, 300--304.
+Pankaj Rohatgi, A compact and fast hybrid signature scheme for multicast packet authentication, Proceedings of the 6th ACM conference on Computer and communications security, p.93-100, November 01-04, 1999, Kent Ridge Digital Labs, Singapore[doi>10.1145/319709.319722]
+Gustavus J Simmons, Authentication theory/coding theory, Proceedings of CRYPTO 84 on Advances in cryptology, p.411-431, August 1985, Santa Barbara, California, USA
+Dawn Song , J. D. Tygar , David Zuckerman, Expander Graphs for Digital Stream Authentication and Robust Overlay Networks, Proceedings of the 2002 IEEE Symposium on Security and Privacy, p.258, May 12-15, 2002
+Welch, L. and Berlekamp, E. 1986. Error correction of algebraic block codes. U.S. Patent Number 4,633,470, issued December 1986.
+Chung Kei Wong , Simon S. Lam, Digital signatures for flows and multicasts, IEEE/ACM Transactions on Networking (TON), v.7 n.4, p.502-513, Aug. 1999[doi>10.1109/90.793005]
+Shouhuai Xu , Ravi Sandhu, Authenticated multicast immune to denial-of-service attack, Proceedings of the 2002 ACM symposium on Applied computing, March 11-14, 2002, Madrid, Spain[doi>10.1145/508791.508834]

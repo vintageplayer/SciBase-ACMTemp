@@ -1,0 +1,62 @@
+Advanced Network Architecture Group. 2012. ANA spoofer project. http://spoofer.csail.mit.edu/summary.php.
+Spiros Antonatos , Periklis Akritidis , Vinh The Lam , Kostas G. Anagnostakis, Puppetnets: Misusing Web Browsers as a Distributed Attack Infrastructure, ACM Transactions on Information and System Security (TISSEC), v.12 n.2, p.1-38, December 2008[doi>10.1145/1455518.1455524]
+Arends, R., Austein, R., Larson, M., Massey, D., and Rose, S. 2005. DNS security introduction and requirements. RFC 4033 (Proposed Standard). (Updated by RFC 6014).
+Audet, F. and Jennings, C. 2007. Network address translation (NAT) behavioral requirements for unicast UDP. RFC 4787 (Best Current Practice).
+F. Baker , P. Savola, Ingress Filtering for Multihomed Networks, RFC Editor, 2004
+Steven M. Bellovin, A technique for counting natted hosts, Proceedings of the 2nd ACM SIGCOMM Workshop on Internet measurment, November 06-08, 2002, Marseille, France[doi>10.1145/637201.637243]
+Robert Beverly , Arthur Berger , Young Hyun , k claffy, Understanding the efficacy of deployed internet source address validation filtering, Proceedings of the 9th ACM SIGCOMM conference on Internet measurement conference, November 04-06, 2009, Chicago, Illinois, USA[doi>10.1145/1644893.1644936]
+CAIDA. 2012. Anonymized internet traces 2012 dataset. http://www.caida.org/data/passive/passive_2012_dataset.xml.
+CERT. 1997. Teardrop DoS attack. http://www.cert.org/advisories/CA-1997-28.html.
+Cisco Systems. 2006. Configuring dynamic ARP inspection. http://www.cisco.com/en/US/docs/switches/lan/catalyst4500/12.1/19ew/configuration/guide/dynarp.html.
+Cisco Systems. 2007. Pre-Fragmentation for IPsec VPNs. http://www.ciscosystems.cd/en/US/docs/ios/sec_secure_connectivity/configuration/guide/sec_pre_frag_vpns.pdf.
+Conta, A., Deering, S., and Gupta, M. 2006. Internet control message protocol (ICMPv6) for the internet protocol version 6 (IPv6) specification. RFC 4443 (Draft Standard). (Updated by RFC 4884).
+Evan Cooke , Farnam Jahanian , Danny McPherson, The Zombie roundup: understanding, detecting, and disrupting botnets, Proceedings of the Steps to Reducing Unwanted Traffic on the Internet on Steps to Reducing Unwanted Traffic on the Internet Workshop, p.6-6, July 07, 2005, Cambridge, MA
+S. Deering , R. Hinden, Internet Protocol, Version 6 (IPv6) Specification, RFC Editor, 1998
+Toby Ehrenkranz , Jun Li, On the state of IP spoofing defense, ACM Transactions on Internet Technology (TOIT), v.9 n.2, p.1-29, May 2009[doi>10.1145/1516539.1516541]
+D. Farinacci , T. Li , S. Hanks , D. Meyer , P. Traina, Generic Routing Encapsulation (GRE), RFC Editor, 2000
+P. Ferguson , D. Senie, Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing, RFC Editor, 2000
+Gibson, S. 2005. ARP poisoning report. http://www.grc.com/nat/arp.htm.
+Yossi Gilad , Amir Herzberg, Fragmentation considered vulnerable: blindly intercepting and discarding fragments, Proceedings of the 5th USENIX conference on Offensive technologies, p.2-2, August 08, 2011, San Francisco, CA
+Gilad, Y. and Herzberg, A. 2012a. Fragmentation considered vulnerable - Tech. rep. http://u.cs.biu.ac.il/~herzbea/security/12-03&percnt;20fragmentation.pdf.
+Yossi Gilad , Amir Herzberg, Off-path attacking the web, Proceedings of the 6th USENIX conference on Offensive Technologies, August 06-07, 2012, Bellevue, WA
+Yossi Gilad , Amir Herzberg, Spying in the dark: TCP and tor traffic analysis, Proceedings of the 12th international conference on Privacy Enhancing Technologies, July 11-13, 2012, Vigo, Spain[doi>10.1007/978-3-642-31680-7_6]
+Gont, F. 2011. Security assessment of the internet protocol version 4. RFC 6274 (Informational).
+Gont, F. 2012. Security implications of predictable fragment identification values. Internet-draft of the IETF IPv6 maintenance working group (6man). (Expires September 30, 2012).
+Samuel Greengard, The war against botnets, Communications of the ACM, v.55 n.2, February 2012[doi>10.1145/2076450.2076456]
+Heffner, J., Mathis, M., and Chandler, B. 2007. IPv4 reassembly errors at high data rates. RFC 4963 (Informational).
+Herzberg, A. and Shulman, H. 2012a. Fragmentation considered poisonous. CoRR abs/1205.4011.
+Herzberg, A. and Shulman, H. 2012b. Security of patched DNS. InProceedings of the ESORICS. S. Foresti, M. Yung, and F. Martinelli, Eds., Lecture Notes in Computer Science Series, vol. 7459, Springer, 271--288.
+Hollis, K. 1997. The Rose attack explained. http://digital.net/~gandalf/Rose_Frag_Attack_Explained.htm.
+Huston, G. 2004. Anatomy: A look inside network address translators.Internet Prot. J. 7, 3. http://www.cisco.com/web/about/ac123/ac147/archived_issues/ipj_7-3/anatomy.html.
+Wolfgang John , Sven Tafvelin, Analysis of internet backbone traffic and header anomalies observed, Proceedings of the 7th ACM SIGCOMM conference on Internet measurement, October 24-26, 2007, San Diego, California, USA[doi>10.1145/1298306.1298321]
+Kaufman, C., Hoffman, P., Nir, Y., and Eronen, P. 2010. Internet key exchange protocol version 2 (IKEv2). RFC 5996 (Proposed Standard). (Updated by RFC 5998).
+Charlie Kaufman , Radia Perlman , Bill Sommerfeld, DoS protection for UDP-based protocols, Proceedings of the 10th ACM conference on Computer and communications security, October 27-30, 2003, Washington D.C., USA[doi>10.1145/948109.948113]
+Kenney, M. 1996. Ping o’ Death. http://www.insecure.org/sploits/ping-o-death.html.
+Kent, C. A. and Mogul, J. C. 1987. Fragmentation considered harmful. res. rep. 87/3, Western Research Lab.
+Kent, S. and Seo, K. 2005. Security architecture for the internet protocol. RFC 4301 (Proposed Standard).
+T. Killalea, Recommended Internet Service Provider Security Services and Procedures, RFC Editor, 2000
+Klein, A. 2007. OpenBSD DNS cache poisoning and multiple O/S predictable IP ID vulnerability. http://www.trusteer.com/docs/dnsopenbsd.html.
+Aleksandar Kuzmanovic , Edward W. Knightly, Low-rate TCP-targeted denial of service attacks: the shrew vs. the mice and elephants, Proceedings of the 2003 conference on Applications, technologies, architectures, and protocols for computer communications, August 25-29, 2003, Karlsruhe, Germany[doi>10.1145/863955.863966]
+K. Lahey, TCP Problems with Path MTU Discovery, RFC Editor, 2000
+Zhichun Li , Anup Goyal , Yan Chen , Vern Paxson, Automating analysis of large-scale botnet probing events, Proceedings of the 4th International Symposium on Information, Computer, and Communications Security, March 10-12, 2009, Sydney, Australia[doi>10.1145/1533057.1533063]
+Luby, M. and Rackoff, C. 1988. How to construct pseudorandom permutations from pseudorandom functions.SIAM J. Comput. 17, 2, 373--386.
+Gordon Fyodor Lyon, Nmap Network Scanning: The Official Nmap Project Guide to Network Discovery and Security Scanning, Insecure, 2009
+Gregor Maier , Fabian Schneider , Anja Feldmann, NAT usage in residential broadband networks, Proceedings of the 12th international conference on Passive and active measurement, p.32-41, March 20-22, 2011, Atlanta, GA
+McCann, J., Deering, S., and Mogul, J. 1996. Path MTU Discovery for IP version 6. RFC 1981 (Draft Standard).
+Mogul, J. and Deering, S. 1990. Path MTU discovery. RFC 1191 (Draft Standard).
+Vern Paxson, An analysis of using reflectors for distributed denial-of-service attacks, ACM SIGCOMM Computer Communication Review, v.31 n.3, July 2001[doi>10.1145/505659.505664]
+Postel, J. 1980. User datagram protocol. RFC 768 (Standard).
+Postel, J. 1981a. Internet control message protocol. RFC 792 (Standard). (Updated by RFCs 950, 4884).
+Postel, J. 1981b. Internet protocol. RFC 791 (Standard). (Updated by RFC 1349).
+Zhiyun Qian , Z. Morley Mao, Off-path TCP Sequence Number Inference Attack - How Firewall Middleboxes Reduce Security, Proceedings of the 2012 IEEE Symposium on Security and Privacy, p.347-361, May 20-25, 2012[doi>10.1109/SP.2012.29]
+Zhiyun Qian , Z. Morley Mao , Yinglian Xie, Collaborative TCP sequence number inference attack: how to crack sequence number under a second, Proceedings of the 2012 ACM conference on Computer and communications security, October 16-18, 2012, Raleigh, North Carolina, USA[doi>10.1145/2382196.2382258]
+Ruderman, J. 2001. Same origin policy for JavaScript. https://developer.mozilla.org/En/Same_origin_policy_for_JavaScript.
+Sanfilippo, S. 1998. About the IP header ID. http://www.kyuzz.org/antirez/papers/ipid.html.
+Savola, P. 2006. MTU and fragmentation issues with in-the-network tunneling. RFC 4459 (Informational).
+Colleen Shannon , David Moore , K. C. Claffy, Beyond folklore: observations on fragmented traffic, IEEE/ACM Transactions on Networking (TON), v.10 n.6, p.709-720, December 2002[doi>10.1109/TNET.2002.805028]
+Rob Sherwood , Bobby Bhattacharjee , Ryan Braud, Misbehaving TCP receivers can cause internet-wide congestion collapse, Proceedings of the 12th ACM conference on Computer and communications security, November 07-11, 2005, Alexandria, VA, USA[doi>10.1145/1102120.1102170]
+P. Srisuresh , K. Egevang, Traditional IP Network Address Translator (Traditional NAT), RFC Editor, 2001
+The Open Web Application Security Project (OWASP). 2010. OWASP Top 10 for 2010. http://owasptop10.googlecode.com/files/OWASP&percnt;20Top&percnt;2010&percnt;20-&percnt;202010.pdf.
+Zalewski, M. 2001. Strange attractors and TCP/IP sequence number analysis. http://lcamtuf.coredump.cx/newtcp/.
+Zalewski, M. 2003. A new TCP/IP blind data injection technique? BugTraq mailing list post. http://lcamtuf.coredump.cx/ipfrag.txt.
+Michal Zalewski, Silence on the Wire: A Field Guide to Passive Reconnaissance and Indirect Attacks, No Starch Press, San Francisco, CA, 2005

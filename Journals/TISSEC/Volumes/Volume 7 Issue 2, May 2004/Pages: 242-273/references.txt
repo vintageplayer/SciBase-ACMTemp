@@ -1,0 +1,45 @@
+William Aiello , Steven M. Bellovin , Matt Blaze , John Ioannidis , Omer Reingold , Ran Canetti , Angelos D. Keromytis, Efficient, DoS-resistant, secure key exchange for internet protocols, Proceedings of the 9th ACM conference on Computer and communications security, November 18-22, 2002, Washington, DC, USA[doi>10.1145/586110.586118]
+A. Arsenault , S. Farrell, Securely Available Credentials - Requirements, RFC Editor, 2001
+Tuomas Aura , Pekka Nikander, Stateless connections, Proceedings of the First International Conference on Information and Communication Security, p.87-97, November 11-14, 1997
+Aura, T., Nikander, P., and Leiwo, J. 2000. DOS-resistant authentication with client puzzles. In Proceedings of the Eighth International Workshop on Security Protocols.
+Aziz, A. 1996. SKIP extension for perfect forward secrecy (PFS). Internet Draft, Internet Engineering Task Force (Aug.).
+Aziz, A. and Patterson, M. 1995. Simple key management for internet protocols (SKIP). In Proceedings of the 1995 INET Conference.
+Mihir Bellare , Phillip Rogaway, Entity authentication and key distribution, Proceedings of the 13th annual international cryptology conference on Advances in cryptology, p.232-249, January 1994, Santa Barbara, California, USA
+Canetti, R. and Krawczyk, H. 2001. Analysis of key-exchange protocols and their use for building secure channels. In Proceedings of the Eurocrypt Conference.
+Ran Canetti , Hugo Krawczyk, Security Analysis of IKE's Signature-Based Key-Exchange Protocol, Proceedings of the 22nd Annual International Cryptology Conference on Advances in Cryptology, p.143-161, August 18-22, 2002
+Ran Canetti , Hugo Krawczyk, Universally Composable Notions of Key Exchange and Secure Channels, Proceedings of the International Conference on the Theory and Applications of Cryptographic Techniques: Advances in Cryptology, p.337-351, May 02, 2002
+CERT. 1996. Advisory CA-96.21: TCP SYN Flooding. Available at ftp://info.cert.org/pub/cert_advisories/CA-96.21.tcp_syn_flooding.
+T. Dierks , C. Allen, The TLS Protocol Version 1.0, RFC Editor, 1999
+Whitfield Diffie , Paul C. Van Oorschot , Michael J. Wiener, Authentication and authenticated key exchanges, Designs, Codes and Cryptography, v.2 n.2, p.107-125, June 1992[doi>10.1007/BF00124891]
+Ferguson, N. and Schneier, B. 1999. A Cryptographic Evaluation of IPSec. Available at http://www.counterpane.com/ipsec.html.
+Li Gong, Efficient network authentication protocols: lower bounds and optimal implementations, Distributed Computing, v.9 n.3, p.131-145, December 1995[doi>10.1007/s004460050015]
+Christoph G. Günther, An identity-based key-exchange protocol, Proceedings of the workshop on the theory and application of cryptographic techniques on Advances in cryptology, p.29-37, November 1990, Houthalen, Belgium
+D. Gustafson , M. Just , M. Nystrom, Securely Available Credentials (SACRED) - Credential Server Framework, RFC Editor, 2004
+D. Harkins , D. Carrel, The Internet Key Exchange (IKE), RFC Editor, 1998
+Harkins, D., Kaufman, C., Kent, S., Kivinen, T., and Perlman, R. 2002. Proposal for the IKEv2 protocol. Internet Draft, Internet Engineering Task Force (April). Work in progress.
+Heberlein, L. and Bishop, M. 1996. Attack class: Address spoofing. In Proceedings of the 19th National Information Systems Security Conference. 371--377.
+Shouichi Hirose , Kanta Matsuura, Enhancing the Resistence of a Provably Secure Key Agreement Protocol to a Denial-of-Service Attack, Proceedings of the Second International Conference on Information and Communication Security, p.169-182, November 09-11, 1999
+Hoffman, P. 2002. Features of proposed successors to IKE. Internet Draft, Internet Engineering Task Force (April). Work in progress.
+IEEE. 1993. Entity Authentication Mechanisms---Part 3: Entity Authentication Using Asymmetric Techniques. Tech. Rep. ISO/IEC IS 9798-3, ISO/IEC.
+Markus Jakobsson , Ari Juels, Proofs of Work and Bread Pudding Protocols, Proceedings of the IFIP TC6/TC11 Joint Working Conference on Secure Information Networks: Communications and Multimedia Security, p.258-272, September 20-21, 1999
+P. Janson , G. Tsudik , M. Yung, Scalability and Flexibility in Authentication Services: The KryptoKnight Approach, Proceedings of the INFOCOM '97. Sixteenth Annual Joint Conference of the IEEE Computer and Communications Societies. Driving the Information Revolution, p.725, April 09-11, 1997
+Juels, A. and Brainard, J. 1999. Client puzzles: A cryptographic countermeasure against connection depletion attacks. In Proceedings of the Network and Distributed Systems Security Symposium (NDSS &99). 151--165.
+P. Karn , W. Simpson, Photuris: Session-Key Management Protocol, RFC Editor, 1999
+Kaufman, C. et al. 2001. Code-preserving Simplifications and Improvements to IKE. Internet Draft, Internet Engineering Task Force (July). Work in progress.
+Kaufman, C. and Perlman, R. 2000. Analysis of IKE. In IEEE Trans. Netw. Comput. (Nov.).
+H. Krawczyk, SKEME: a versatile secure key exchange mechanism for Internet, Proceedings of the 1996 Symposium on Network and Distributed System Security (SNDSS '96), p.114, February 22-23, 1996
+Krawczyk, H. 2002. Invited Talk. SIGMA: the SIGn-and-MAc approach to authenticated Diffie--Hellman and its use in the IKE protocols. In Proceedings of the Crypto Conference.
+H. Krawczyk , M. Bellare , R. Canetti, HMAC: Keyed-Hashing for Message Authentication, RFC Editor, 1997
+Jussipekka Leiwo , Tuomas Aura , Pekka Nikander, Towards Network Denial of Service Resistant Protocols, Proceedings of the IFIP TC11 Fifteenth Annual Working Conference on Information Security for Global Information Infrastructures, p.301-310, August 22-24, 2000
+Matsuura, K. and Imai, H. 1999. Resolution of ISAKMP/Oakley key-agreement protocol resistant against denial-of-service attack. In Proceedings of Internet Workshop (IWS &99). 17--24.
+Matsuura, K. and Imai, H. 2000. Modified aggressive mode of Internet key exchange resistant against denial-of-service attacks. IEICE Trans. Inf. Syst. E83-D, 5 (May), 972--979.
+D. Maughan , M. Schertler , M. Schneider , J. Turner, Internet Security Association and Key Management Protocol (ISAKMP), RFC Editor, 1998
+Meadows, C. 1999a. Analysis of the Internet key exchange protocol using the NRL protocol analyzer. In Proceedings of the IEEE Symposium on Security and Privacy. 216--231.
+Catherine Meadows, A Formal Framework and Evaluation Method for Network Denial of Service, Proceedings of the 12th IEEE workshop on Computer Security Foundations, p.4, June 28-30, 1999
+Catherine Meadows, Open Issues in Formal Methods for Cryptographic Protocol Analysis, Proceedings of the International Workshop on Information Assurance in Computer Networks: Methods, Models, and Architectures for Network Security, p.21, May 21-23, 2001
+Miller, S. P., Neuman, B. C., Schiller, J. I., and Saltzer, J. H. 1987. Kerberos Authentication and Authorization System. Tech. Rep., MIT (Dec.).
+Moskowitz, R. 2001. The Host Identity Payload. Internet Draft, Internet Engineering Task Force (July). Work in progress.
+Rolf Oppliger, Protecting Key Exchange and Management Protocols Against Resource Clogging Attacks, Proceedings of the IFIP TC6/TC11 Joint Working Conference on Secure Information Networks: Communications and Multimedia Security, p.163-175, September 20-21, 1999
+Christoph L. Schuba , Ivan V. Krsul , Markus G. Kuhn , Eugene H. spafford , Aurobindo Sundaram , Diego Zamboni, Analysis of a Denial of Service Attack on TCP, Proceedings of the 1997 IEEE Symposium on Security and Privacy, p.208, May 04-07, 1997
+Sheffer, Y., Krawczyk, H., and Aboba, B. 2001. PIC, a pre-IKE credential provisioning protocol. Internet Draft, Internet Engineering Task Force (Nov.). Work in progress.
+Simpson, W. A. 1999. IKE/ISAKMP Considered Harmful. USENIX; login: (Dec.).
