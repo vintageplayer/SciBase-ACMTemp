@@ -1,0 +1,46 @@
+Advanced RISC Machines Ltd. An Introduction to Thumb. Advanced RISC Machines Ltd.
+http://www.arccores.com. ARCtangent-A5 microprocessor Technical Manual.
+Barbacci, M. R. 1981. Instruction set processor specifications (ISPS): The notation and its applications. IEEE Trans. Comput. 30, 1, 24--40.
+Briggs, P., Cooper, K., and Torczon, L. 1994. Improvements to graph coloring register allocation. In Proceedings of the SIGPLAN Conference on Programming Language Design and Implementation.
+Paul C. Clements, A Survey of Architecture Description Languages, Proceedings of the 8th International Workshop on Software Specification and Design, p.16, March 22-23, 1996
+http://www.coware.com. COWare LISATek.
+Freericks, M. 1993. The nML machine description formalism. Tech. Rep. TR SM-IMP/DIST/08, TU Berlin, Computer Science Department.
+George Hadjiyiannis , Pietro Russo , Srinivas Devadas, A methodology for accurate performance evaluation in architecture exploration, Proceedings of the 36th annual ACM/IEEE Design Automation Conference, p.927-932, June 21-25, 1999, New Orleans, Louisiana, USA[doi>10.1145/309847.310100]
+George Hadjiyiannis , Silvina Hanono , Srinivas Devadas, ISDL: an instruction set description language for retargetability, Proceedings of the 34th annual Design Automation Conference, p.299-302, June 09-13, 1997, Anaheim, California, USA[doi>10.1145/266021.266108]
+Halambi, A., Shrivastava, A. Dutt, N., and Nicolau, A. 2001. A customizable compiler framework for embedded systems. In Proceedings of the Software and Compilers for Embedded Systems (SCOPES) Conference.
+A. Halambi , A. Shrivastava , P. Biswas , N. Dutt , A. Nicolau, An Efficient Compiler Technique for Code Size Reduction Using Reduced Bit-Width ISAs, Proceedings of the conference on Design, automation and test in Europe, p.402, March 04-08, 2002
+Ashok Halambi , Peter Grun , Vijay Ganesh , Asheesh Khare , Nikil Dutt , Alex Nicolau, EXPRESSION: a language for architecture exploration through compiler/simulator retargetability, Proceedings of the conference on Design, automation and test in Europe, p.100-es, January 1999, Munich, Germany[doi>10.1145/307418.307549]
+John L. Hennessy , David A. Patterson, Computer Architecture: A Quantitative Approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2003
+Kissell, K. 1997. MIPS16: High-density MIPS for the Embedded Market. Silicon Graphics MIPS Group.
+Leupers, R. and Marwedel, P. 1998. Retargetable code generation based on structural processor descriptions. Des. Autom. Embedded Syst. 3, 1, 75--108.
+LSI LOGIC. TinyRISC LR4102 Microprocessor Technical Manual. LSI LOGIC.
+MDES User Manual. 1997. http://www.trimaran.org. The MDES User Manual.
+Mishra, P., Astrom, J., Dutt, N., and Nicolau, A. 2001. Functional abstraction of programmable embedded systems. Tech. Rep. UCI-ICS 01-04, University of California, Irvine, Jan.
+P. Mishra , N. Dutt , A. Nicolau , H. Tomiyama, Automatic Verification of In-Order Execution In Microprocessors with Fragmented Pipelines and Multicycle Functional Units, Proceedings of the conference on Design, automation and test in Europe, p.36, March 04-08, 2002
+Prabhat Mishra , Arun Kejariwal , Nikil Dutt, Rapid Exploration of Pipelined Processors through Automatic Generation of Synthesizable RTL Models, Proceedings of the 14th IEEE International Workshop on Rapid System Prototyping (RSP'03), p.226, June 09-11, 2003
+Mishra, P., Dutt, N., and Tomiyama, H. 2003b. Towards automatic validation of dynamic behavior in pipelined processor specifications. Des. Autom. Embedded Syst. 8, 2--3 (June-Sept.), 249--265.
+Prabhat Mishra , Nikil Dutt, Modeling and validation of pipeline specifications, ACM Transactions on Embedded Computing Systems (TECS), v.3 n.1, p.114-139, February 2004[doi>10.1145/972627.972633]
+Prabhat Mishra , Nikil Dutt, Graph-Based Functional Test Program Generation for Pipelined Processors, Proceedings of the conference on Design, automation and test in Europe, p.10182, February 16-20, 2004
+Mishra, P. and Dutt, N. 2005a. Architecture description languages for programmable embedded systems. IEE Proceedings Comput. Digital Techniques 152, 3 (May), 285--297.
+Prabhat Mishra , Nikil D. Dutt, Functional Verification of Programmable Embedded Architectures: A Top-Down Approach, Springer-Verlag New York, Inc., Secaucus, NJ, 2005
+Steven S. Muchnick, Advanced compiler design and implementation, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1998
+Sanghyun Park , Eugene Earlie , Aviral Shrivastava , Alex Nicolau , Nikil Dutt , Yunheung Paek, Automatic generation of operation tables for fast exploration of bypasses in embedded processors, Proceedings of the conference on Design, automation and test in Europe: Proceedings, March 06-10, 2006, Munich, Germany
+Pasricha, S., Biswas, P., Mishra, P., Shrivastava, A., Mandal, A., Dutt, N., and Nicolau, A. 2003. A framework for GUI-Driven design space exploration of a MIPS4K-like processor. Tech. Rep. CECS 03-17, University of California, Irvine.
+Stefan Pees , Andreas Hoffmann , Heinrich Meyr, Retargetable compiled simulation of embedded processors using a machine description language, ACM Transactions on Design Automation of Electronic Systems (TODAES), v.5 n.4, p.815-834, Oct. 2000[doi>10.1145/362652.362662]
+Qin, W. and Malik, S. 2002. Architecture description languages for retargetable compilation. In the Compiler Design Handbook: Optimizations & Machine Code Generation. CRC Press, Boca Raton, Fla.
+Mehrdad Reshadi , Nikhil Bansal , Prabhat Mishra , Nikil Dutt, An efficient retargetable framework for instruction-set simulation, Proceedings of the 1st IEEE/ACM/IFIP international conference on Hardware/software codesign and system synthesis, October 01-03, 2003, Newport Beach, CA, USA[doi>10.1145/944645.944649]
+Mehrdad Reshadi , Prabhat Mishra , Nikil Dutt, Instruction set compiled simulation: a technique for fast and flexible instruction set simulation, Proceedings of the 40th annual Design Automation Conference, June 02-06, 2003, Anaheim, CA, USA[doi>10.1145/775832.776026]
+Mehrdad Reshadi , Nikil Dutt , Prabhat Mishra, A retargetable framework for instruction-set architecture simulation, ACM Transactions on Embedded Computing Systems (TECS), v.5 n.2, p.431-452, May 2006[doi>10.1145/1151074.1151083]
+Oliver Schliebusch , Andreas Hoffmann , Achim Nohl , Gunnar Braun , Heinrich Meyr, Architecture Implementation Using the Machine Description Language LISA, Proceedings of the 2002 Asia and South Pacific Design Automation Conference, p.239, January 07-11, 2002
+Aviral Shrivastava , Nikil Dutt, Energy efficient code generation exploiting reduced bit-width instruction set architectures (rISA), Proceedings of the 2004 Asia and South Pacific Design Automation Conference, January 27-30, 2004, Yokohama, Japan
+Aviral Shrivastava , Eugene Earlie , Nikil Dutt , Alex Nicolau, Operation Tables for Scheduling in the Presence of Incomplete Bypassing, Proceedings of the international conference on Hardware/Software Codesign and System Synthesis: 2004, p.194-199, September 08-10, 2004[doi>10.1109/CODES+ISSS.2004.43]
+Aviral Shrivastava , Nikil Dutt , Alex Nicolau , Eugene Earlie, PBExplore: A Framework for Compiler-in-the-Loop Exploration of Partial Bypassing in Embedded Processors, Proceedings of the conference on Design, Automation and Test in Europe, p.1264-1269, March 07-11, 2005[doi>10.1109/DATE.2005.236]
+Aviral Shrivastava , Partha Biswas , Ashok Halambi , Nikil Dutt , Alex Nicolau, Compilation framework for code size reduction using reduced bit-width ISAs (rISAs), ACM Transactions on Design Automation of Electronic Systems (TODAES), v.11 n.1, p.123-146, January 2006[doi>10.1145/1124713.1124722]
+Chuck Siska, A processor desription language supporting retargetable multi-pipeline DSP program development tools, Proceedings of the 11th international symposium on System synthesis, p.31-36, December 02-04, 1998, Hsinchu, Taiwan, China
+http://www.sparc.org. The SPARC Architecture Manual.
+ST100 DSP-MCU Architecture. http://www.st.com. The ST100 DSP-MCU Architecture.
+http://www.retarget.com. Target Compiler Technologies.
+Tensilica Inc. http://www.tensilica.com. Tensilica Inc.
+Tomiyama, H., Halambi, A., Grun, P., Dutt, N., and Nicolau, A. 1999. Architecture description languages for systems-on-chip design. In Proceedings of the Asia Pacific Conference on Chip Design Language, 109--116.
+http://www.ics.uci.edu/˜express. Exploration framework using EXPRESSION ADL.
+Zivojnovic, V., Pees, S., and Meyr, H. 1996. LISA---Machine description language and generic machine model for HW/SW co-design. In Proceedings of the IEEE Workshop on VLSI Signal Processing, 127--136.

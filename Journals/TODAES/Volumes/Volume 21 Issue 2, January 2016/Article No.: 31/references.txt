@@ -1,0 +1,27 @@
+Toru Akishita and Tsuyoshi Takagi. 2003. Zero-Value point attacks on elliptic curve cryptosystem. In Information Security, Colin Boyd and Wenbo Mao (Eds.). Lecture Notes in Computer Science, Vol. 2851. Springer Berlin Heidelberg, 218--233.
+Diego F. Aranha, Pierre-Alain Fouque, Benoît Gérard, Jean-Gabriel Kammerer, Mehdi Tibouchi, and Jean-Christophe Zapalowicz. 2014. GLV/GLS decomposition, power analysis, and attacks on ECDSA signatures with single-bit nonce bias. In Proceedings of Advances in Cryptology ASIACRYPT. 262--281.
+L Babai, On Lova´sz' lattice reduction and the nearest lattice point problem, Combinatorica, v.6 n.1, p.1-13, 1986[doi>10.1007/BF02579403]
+J. Balasch, B. Gierlichs, K. Jaurvinen, and I. Verbauwhede. 2014. Hardware/software co-design flavors of elliptic curve scalar multiplication. In Proceedings of IEEE International Symposium on Electromagnetic Compatibility (EMC). 758--763.
+Lejla Batina, Lukasz Chmielewski, Louiza Papachristodoulou, Peter Schwabe, and Michael Tunstall. 2014. Online Template Attacks. In Proceedings of 15th International Conference on Cryptology, Progress in Cryptology (INDOCRYPT). 21--36.
+Aurélie Bauer , Eliane Jaulmes , Emmanuel Prouff , Jean-René Reinhard , Justine Wild, Horizontal collision correlation attack on elliptic curves, Cryptography and Communications, v.7 n.1, p.91-119, March     2015[doi>10.1007/s12095-014-0111-8]
+Daniel Bleichenbacher. 2001. On the Generation of DSS One-Time Keys. Preprint. (2001).
+Eric Brier , Marc Joye, Weierstraß Elliptic Curves and Side-Channel Attacks, Proceedings of the 5th International Workshop on Practice and Theory in Public Key Cryptosystems: Public Key Cryptography, p.335-345, February 12-14, 2002
+Billy Bob Brumley , Nicola Tuveri, Remote timing attacks are still practical, Proceedings of the 16th European conference on Research in computer security, September 12-14, 2011, Leuven, Belgium
+Jean-Sébastien Coron, Resistance against Differential Power Analysis for Elliptic Curve Cryptosystems, Proceedings of the First International Workshop on Cryptographic Hardware and Embedded Systems, p.292-302, August 12-13, 1999
+Jean-Luc Danger, Sylvain Guilley, Philippe Hoogvorst, Cédric Murdica, and David Naccache. 2013. A synthesis of side-channel attacks on elliptic curve cryptography in smart-cards. J. Cryptographic Engin. 3, 4, 241--265.
+Junfeng Fan , Ingrid Verbauwhede, An updated survey on secure ECC implementations: attacks, countermeasures and cost, Cryptography and Security: from theory to applications, Springer-Verlag, Berlin, Heidelberg, 2012
+Benoît Feix, Myl&egarve;ne Roussellet, and Alexandre Venelli. 2014. Side-Channel Analysis on Blinded Regular Scalar Multiplications. Cryptology ePrint Archive, Report 2014/191. http://eprint.iacr.org/.
+Pierre-Alain Fouque , Denis Réal , Frédéric Valette , Mhamed Drissi, The Carry Leakage on the Randomized Exponent Countermeasure, Proceeding sof the 10th international workshop on Cryptographic Hardware and Embedded Systems, August 10-13, 2008, Washington, DC, USA[doi>10.1007/978-3-540-85053-3_13]
+Pierre-Alain Fouque and Frédéric Valette. 2003. The doubling attack—Why upwards is better than downwards. In Proceedings of CHES. 269--280.
+Louis Goubin, A Refined Power-Analysis Attack on Elliptic Curve Cryptosystems, Proceedings of the 6th International Workshop on Theory and Practice in Public Key Cryptography: Public Key Cryptography, p.199-210, January 06-08, 2003
+Darrel Hankerson , Alfred J. Menezes , Scott Vanstone, Guide to Elliptic Curve Cryptography, Springer-Verlag New York, Inc., Secaucus, NJ, 2003
+Marc Joye , Christophe Tymen, Protections against Differential Analysis for Elliptic Curve Cryptography, Proceedings of the Third International Workshop on Cryptographic Hardware and Embedded Systems, p.377-390, May 14-16, 2001
+A. K. Lenstra, L. Lovsz, and H. W. Lenstra, Jr. 1982. Factoring polynomials with rational coefficients. Math. Ann. 261, 515--534.
+Hideyo Mamiya, Atsuko Miyaji, and Hiroaki Morimoto. 2004. Efficient countermeasures against RPA, DPA, and SPA. In Proceedings of 6th International Workshop Cryptographic Hardware and Embedded Systems (CHES). 343--356.
+Stefan Mangard , Elisabeth Oswald , Thomas Popp, Power Analysis Attacks: Revealing the Secrets of Smart Cards (Advances in Information Security), Springer-Verlag New York, Inc., Secaucus, NJ, 2007
+Gayoso Martinez, Hernandez Encinas, and Sanchez Avila. 2010. A Survey of the elliptic curve integrated encryption scheme. J. Comput. Sci. Engin 2, 2, 7--13
+Marcel Medwed and Elisabeth Oswald. 2008. Template Attacks on ECDSA. In Proceedings of WISA 14--27.
+Elke De Mulder, Michael Hutter, Mark E. Marson, and Peter Pearson. 2013. Using Bleichenbacher's Solution to the Hidden Number Problem to Attack Nonce Leaks in 384-Bit ECDSA. Cryptology ePrint Archive, Report 2013/346. http://eprint.iacr.org/.
+Nguyen , Shparlinski, The Insecurity of the Digital Signature Algorithm with Partially Known Nonces, Journal of Cryptology, v.15 n.3, p.151-176, June      2002[doi>10.1007/s00145-002-0021-3]
+NIST. 2013. Digital Signature Standard (DSS). FIPS PUB 186. http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.186-4.pdf.
+Chester Rebeiro, Debdeep Mukhopadhyay, and Sarani Bhattacharya. 2015. Timing Channels in Cryptography. Springer-Verlag New York, Inc.

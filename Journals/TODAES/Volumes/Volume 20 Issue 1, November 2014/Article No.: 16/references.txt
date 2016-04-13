@@ -1,0 +1,31 @@
+P. Alfke. 1998. Xilinx FPGAs: A technical overview for the first-time user. http://www.xilinx.com/support/documentation/application_notes/xapp097.pdf.
+Armin Alaghi , Mahnaz Sadoughi Yarandi , Zainalabedin Navabi, An Optimum ORA BIST for Multiple Fault FPGA Look-Up Table Testing, Proceedings of the 15th Asian Test Symposium, p.293-298, November 20-23, 2006[doi>10.1109/ATS.2006.25]
+Atmel. 2007. F280E 2007 rad hard reprogrammable FPGA. https://nepp.nasa.gov/mafa/talks/MAFA07_06_Renaud.pdf.
+C. Bolchini , L. Fossati , D. Merodio Codinachs , A. Miele , C. Sandionigi, A Reliable Reconfiguration Controller for Fault-Tolerant Embedded Systems on Multi-FPGA Platforms, Proceedings of the 2010 IEEE 25th International Symposium on Defect and Fault Tolerance in VLSI Systems, p.191-199, October 06-08, 2010[doi>10.1109/DFT.2010.30]
+Cristiana Bolchini , Antonio Miele, Design Space Exploration for the Design of Reliable SRAM-Based FPGA Systems, Proceedings of the 2008 IEEE International Symposium on Defect and Fault Tolerance of VLSI Systems, p.332-340, October 01-03, 2008[doi>10.1109/DFT.2008.8]
+Cristiana Bolchini , Antonio Miele , Chiara Sandionigi, A Novel Design Methodology for Implementing Reliability-Aware Systems on SRAM-Based FPGAs, IEEE Transactions on Computers, v.60 n.12, p.1744-1758, December 2011[doi>10.1109/TC.2010.281]
+Cristiana Bolchini , Antonio Miele , Chiara Sandionigi, Automated Resource-Aware Floorplanning of Reconfigurable Areas in Partially-Reconfigurable FPGA Systems, Proceedings of the 2011 21st International Conference on Field Programmable Logic and Applications, p.532-538, September 05-07, 2011[doi>10.1109/FPL.2011.104]
+C. Bolchini , C. Sandionigi , L. Fossati , D. M. Codinachs, A reliable fault classifier for dependable systems on SRAM-based FPGAs, Proceedings of the 2011 IEEE 17th International On-Line Testing Symposium, p.92-97, July 13-15, 2011[doi>10.1109/IOLTS.2011.5993817]
+C. Bolchini , C. Sandionigi, Fault Classification for SRAM-Based FPGAs in the Space Environment for Fault Mitigation, IEEE Embedded Systems Letters, v.2 n.4, p.107-110, December 2010[doi>10.1109/LES.2010.2073441]
+Cristiana Bolchini , Chiara Sandionigi, A Reliability-Aware Partitioner for Multi-FPGA Platforms, Proceedings of the 2011 IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems, p.34-40, October 03-05, 2011[doi>10.1109/DFT.2011.20]
+C. Carmichael, M. Caffrey, and A. Salazari. 2000. Correcting single-event upsets through virtex partial configuration. http://atlas-proj-tgc.web.cern.ch/atlas-proj-tgc/docs/SEUs_xapp216.pdf.
+C. Carmichael and C. W. Tsen. 2009. Correcting single-event upsets in virtex-4 FPGA configuration memory. http://www.xilinx.com/support/documentation/application_notes/xapp1088.pdf.
+John Emmert , Charles Stroud , Brandon Skaggs , Miron Abramovici, Dynamic Fault Tolerance in FPGAs via Partial Reconfiguration, Proceedings of the 2000 IEEE Symposium on Field-Programmable Custom Computing Machines, p.165, April 17-19, 2000
+European Cooperation for Space Standardization. 2008. Methods for the calculation of radiation received and its effects, and a policy for design margin. http://www.ecss.nl/forums/ecss/dispatch.cgi/home/showFile/100697/d20080414114318/No/ECSS-E-10-12A&percnt;20v0.20Standard.pdf.
+L. Fossati and J. Ilstad. 2011. The future of embedded systems at esa: Towards adaptability and reconfigurability. In Proceedings of the NASA/ESA Conference on Adaptive Hardware and Systems (AHS'11). 113--120.
+Scott Hauck , Andre DeHon, Reconfigurable Computing: The Theory and Practice of FPGA-Based Computation, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2007
+Lattice Semiconductor. 2010. FPGA devices. http://www.latticesemi.com/products/fpga/index.cfm.
+T. May and M. Woods. 1979. Alpha-particle-induced soft errors in dynamic memories. IEEE Trans. Electron Devices 26, 1, 2--9.
+Subhasish Mitra , W. -J. Huang , N. R. Saxena , S. -Y. Yu , E. J. McCluskey, Reconfigurable Architecture for Autonomous Self-Repair, IEEE Design & Test, v.21 n.3, p.228-240, May 2004[doi>10.1109/MDT.2004.18]
+David P. Montminy , Rusty O. Baldwin , Paul D. Williams , Barry E. Mullins, Using Relocatable Bitstreams for Fault Tolerance, Proceedings of the Second NASA/ESA Conference on Adaptive Hardware and Systems, p.701-708, August 05-08, 2007[doi>10.1109/AHS.2007.108]
+K. S. Morgan. 2006. SEU-induced persistent error propagation in FPGAs. http://scholarsarchive.byu.edu/cgi/viewcontent.cgi&quest;article=1520&context;=etd.
+D. Petrick, W. Powell, J. W. Howard, Jr., and K. A. Label. 2004. Virtex-II pro SEE test methods and results. In Proceedings of the Military and Aerospace Applications of Programmable Devices and Technologies Conference.
+C. Poivey, M. Berg, S. Stansberry, M. Friendlich, H. Kim, D. Petrick, and K. A. Label. 2007. Heavy ion SEE test of virtex4 FPGA xc4vfx60 from xilinx. http://www.klabs.org/DEI/Processor/PowerPC/xilinx/T021607_XC4VFX60.pdf.
+Michel Renovell, A Structural Test Methodology for SRAM-Based FPGAs, Proceedings of the 15th symposium on Integrated circuits and systems design, p.385, September 09-14, 2002
+P. K. Samudrala, J. Ramos, and S. Katkoori. 2004. Selective triple modular redundancy (STMR) based single-event upset (SEU) tolerant synthesis for FPGAs. IEEE Trans. Nuclear Sci. 51, 5, 2957--2969.
+G. L. Smith and L. De La Torre. 2006. Techniques to enable FPGA based reconfigurable fault tolerant space computing. In Proceedings of the IEEE Aerospace Conference. 1--11.
+Suresh Srinivasan , Ramakrishnan Krishnan , Prasanth Mangalagiri , Yuan Xie , Vijaykrishnan Narayanan , Mary Jane Irwin , Karthik Sarpatwari, Toward Increasing FPGA Lifetime, IEEE Transactions on Dependable and Secure Computing, v.5 n.2, p.115-127, April 2008[doi>10.1109/TDSC.2007.70235]
+Suresh Srinivasan , Prasanth Mangalagiri , Yuan Xie , N. Vijaykrishnan , Karthik Sarpatwari, FLAW: FPGA lifetime awareness, Proceedings of the 43rd annual Design Automation Conference, July 24-28, 2006, San Francisco, CA, USA[doi>10.1145/1146909.1147070]
+Synplicity. 2014. HAPS-34. http://www.synopsys.com/home.aspx.
+Xilinx. 2006. TMRTool. http://www.xilinx.com/esp/milaero/collateral/tmrtoolsellsheetwr.pdf.
+J. F. Ziegler, Terrestrial cosmic rays, IBM Journal of Research and Development, v.40 n.1, p.19-39, Jan. 1996[doi>10.1147/rd.401.0019]

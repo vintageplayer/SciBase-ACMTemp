@@ -1,0 +1,26 @@
+Michael J. Alexander , James P. Cohoon , Joseph L. Ganley , Gabriel Robins, An architecture-independent approach to FPGA routing based on multi-weighted graphs, Proceedings of the conference on European design automation, p.259-264, September 19-23, 1994, Grenoble, France
+Altera, Inc. Available at http://www.altera.com
+Vaughn Betz , Jonathan Rose, VPR: A new packing, placement and routing tool for FPGA research, Proceedings of the 7th International Workshop on Field-Programmable Logic and Applications, p.213-222, September 01-03, 1997
+Betz, V. and Rose, J. 1997b. Cluster-based logic blocks for FPGAs: Area-efficiency vs. input sharing and size. In Proceedings of the IEEE Custom Integrated Circuits Conference, 551--554.
+Vaughn Betz , Jonathan Rose , Alexander Marquardt, Architecture and CAD for Deep-Submicron FPGAs, Kluwer Academic Publishers, Norwell, MA, 1999
+Elaheh Bozorgzadeh , Seda Ogrenci-Memik , Majid Sarrafzadeh, RPack: routability-driven packing for cluster-based FPGAs, Proceedings of the 2001 Asia and South Pacific Design Automation Conference, p.629-634, January 2001, Yokohama, Japan[doi>10.1145/370155.370567]
+Brown, S., Rose, J., and Vranesic, Z. G. 1993. A stochastic model to predict the routability of field programmable gate arrays. IEEE Trans. Comput. Aided Des. (Dec.), 1827--1838.
+Pak K. Chan , Martine D. F. Schlag , Jason Y. Zien, On routability prediction for field-programmable gate arrays, Proceedings of the 30th international Design Automation Conference, p.326-330, June 14-18, 1993, Dallas, Texas, USA[doi>10.1145/157485.164915]
+Cong, J. and Ding, Y. 1994. FlowMap: An optimal technology mapping algorithm for delay optimization in lookup-table based FPGA designs. IEEE Trans. Comput. Aided Des. 13 (Jan.), 1--12.
+André DeHon, Balancing interconnect and computation in a reconfigurable computing array (or, why you don't really want 100% LUT utilization), Proceedings of the 1999 ACM/SIGDA seventh international symposium on Field programmable gate arrays, p.69-78, February 21-23, 1999, Monterey, California, USA[doi>10.1145/296399.296431]
+Devadas, S. 1989. Optimal layout via Boolean satisfiability. In Proceedings of the International Conference on Computer Aided Design, 294--297.
+Donath, W. E. 1979. Placement and average interconnect requirements of computer logic. IEEE Trans. Circ. Syst. CAS-26, 272--277.
+El Gamal, A. A. 1981. Two-dimensional stochastic model for interconnections in master-slice integrated circuits. IEEE Trans. Circ. Syst. CAS-28, 127--138.
+Hagen L., Kahng, A. B., and Kurdhi, F. J. 1994. On the intrinsic rent parameter and spectra-based partitioning methodologies. IEEE Trans. Comput. Aided Des. 13, 1 (Jan.), 27--36.
+Kirkpatrick, S., Gelatt, C. D., and Vecchi, M. P. 1983. Optimization by simulated annealing. Science, 220, 671--680.
+Landman, B. S. and Russo, R. L. 1974. On a pin versus block relationship for partitions of logic graphs. IEEE Trans. Comput. C-20, 1469--1479.
+Van Marck, H., Stroobandt, D., and Van Campenhout, J. 1995. Towards an extension of Rent's rule for describing local variations in interconnect complexity. In Proceedings of the Fourth International Symposium for Young Computer Scientists, 136--141.
+Alexander Marquardt , Vaughn Betz , Jonathan Rose, Speed and area tradeoffs in cluster-based FPGA architectures, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, v.8 n.1, p.84-93, Feb. 2000[doi>10.1109/92.820764]
+G. Parthasarathy , M. Marek-Sadowska , Arindam Mukherjee , Amit Singh, Interconnect complexity-aware FPGA placement using Rent's rule, Proceedings of the 2001 international workshop on System-level interconnect prediction, p.115-121, March 31-April 01, 2001, Sonoma, California, USA[doi>10.1145/368640.368806]
+Lou Scheffer , Eric Nequist, Why interconnect prediction doesn't work, Proceedings of the 2000 international workshop on System-level interconnect prediction, p.139-144, April 08-09, 2000, San Diego, California, USA[doi>10.1145/333032.333044]
+Amit Singh , Ganapathy Parthasarathy , Malgorzata Marek-Sadowska, Interconnect resource-aware placement for hierarchical FPGAs, Proceedings of the 2001 IEEE/ACM international conference on Computer-aided design, November 04-08, 2001, San Jose, California
+D. Stroobandt , P. Verplaetse , J. van Campenhout, Generating synthetic benchmark circuits for evaluating CAD tools, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.19 n.9, p.1011-1022, November 2006[doi>10.1109/43.863641]
+R. Glenn Wood , Rob A. Rutenbar, FPGA routing and routability estimation via Boolean satisfiability, Proceedings of the 1997 ACM fifth international symposium on Field-programmable gate arrays, p.119-125, February 09-11, 1997, Monterey, California, USA[doi>10.1145/258305.258322]
+Yu-Liang Wu , S. Tsukiyama , M. Marek-Sadowska, Graph based analysis of 2-D FPGA routing, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.15 n.1, p.33-44, November 2006[doi>10.1109/43.486270]
+Payman Zarkesh-Ha , Jeffrey A. Davis , James D. Meindl, Prediction of net-length distribution for global interconnects in a heterogeneous system-on-a-chip, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, v.8 n.6, p.649-659, Dec. 2000[doi>10.1109/92.902259]
+Xilinx Inc. 2000. Available at http://www.xilinx.com

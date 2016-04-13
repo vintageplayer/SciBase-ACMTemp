@@ -1,0 +1,44 @@
+Ismet Bayraktaroglu , Alex Orailoglu, Test volume and application time reduction through scan chain concealment, Proceedings of the 38th annual Design Automation Conference, p.151-155, June 2001, Las Vegas, Nevada, USA[doi>10.1145/378239.378388]
+Martin Bene_ , Steven M. Nowick , Andrew Wolfe, A Fast Asynchronous Huffman Decoder for Compressed-Code Embedded Processors, Proceedings of the 4th International Symposium on Advanced Research in Asynchronous Circuits and Systems, p.0043, March 30-April 02, 1998
+Y. Bonhomme , P. Girard , L. Guiller , C. Landrault , S. Pravossoudovitch, A Gated Clock Scheme for Low Power Scan Testing of Logic ICs or Embedded Cores, Proceedings of the 10th Asian Test Symposium, p.253, November 19-21, 2001
+Anshuman Chandra , Krishnendu Chakrabarty, Test Data Compression for System-on-a-Chip Using Golomb Codes, Proceedings of the 18th IEEE VLSI Test Symposium, p.113, April 30-May 04, 2000
+Anshuman Chandra , Krishnendu Chakrabarty, Frequency-Directed Run-Length (FDR) Codes with Application to System-on-a-Chip Test Data Compression, Proceedings of the 19th IEEE VLSI Test Symposium, p.42, March 29-April 03, 2001
+A. Chandra , K. Chakrabarty, Low-power scan testing and test data compression for system-on-a-chip, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.21 n.5, p.597-604, November 2006[doi>10.1109/43.998630]
+Anshuman Chandra , Krishnendu Chakrabarty, Reduction of SOC test data volume, scan power and testing time using alternating run-length codes, Proceedings of the 39th annual Design Automation Conference, June 10-14, 2002, New Orleans, Louisiana, USA[doi>10.1145/513918.514090]
+Chia-Hsing, L. and Chein-Wei, J. 1998. Low power parallel Huffman decoding. Electron. Lett. 34, 3, 240--241.
+Thomas H. Cormen , Clifford Stein , Ronald L. Rivest , Charles E. Leiserson, Introduction to Algorithms, McGraw-Hill Higher Education, 2001
+Thomas M. Cover , Joy A. Thomas, Elements of information theory, Wiley-Interscience, New York, NY, 1991
+Debaleena Das , Nur A. Touba, REDUCING TEST DATA VOLUME USING EXTERNAL/LBIST HYBRID TEST PATTERNS, Proceedings of the 2000 IEEE International Test Conference, p.115, October 03-05, 2000
+V. Dabholkar , S. Chakravarty , I. Pomeranz , S. Reddy, Techniques for minimizing power dissipation in scan and combinational circuits during test application, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.17 n.12, p.1325-1333, November 2006[doi>10.1109/43.736572]
+Girard, P., Landrault, C., Pravossoudovtch, S., and Severac, D. 1998. Reducing power consumption during test application by test vector ordering. In Proceedings of the International Symposium on Circuits and Systems (ISCAS'98). vol. 2. 296--299.
+Golomb, S. 1966. Run-length encoding. IEEE Trans. Inform. Theory IT-12, 399--401.
+P. Gonciari , B. Al-Hashimi , N. Nicolici, Improving Compression Ratio, Area Overhead, and Test Application Time for System-on-a-Chip Test Data Compression/Decompression, Proceedings of the conference on Design, automation and test in Europe, p.604, March 04-08, 2002
+Ilker Hamzaoglu , Janak H. Patel, Reducing Test Application Time for Built-in-Self-Test Test Pattern Generators, Proceedings of the 18th IEEE VLSI Test Symposium, p.369, April 30-May 04, 2000
+Sybille Hellebrand , Janusz Rajski , Steffen Tarnick , Srikanth Venkataraman , Bernard Courtois, Built-In Test for Circuits with Scan Based on Reseeding of Multiple-Polynomial Linear Feedback Shift Registers, IEEE Transactions on Computers, v.44 n.2, p.223-233, February 1995[doi>10.1109/12.364534]
+Frank F. Hsu , Kenneth M. Butler , Janak H. Patel, A case study on the implementation of the Illinois Scan Architecture, Proceedings of the IEEE International Test Conference 2001, p.538-547, October 30-November 01, 2001
+Huffman, D. 1952. A method for the construction of minimum redundancy codes. In Proc. IRE. 40, 9, 1098--1101.
+V. Iyengar , K. Chakrabarty , B. T. Murray, 19.1 Built-In Self Testing of Sequential Circuits Using Precomputed Test Sets, Proceedings of the 16th IEEE VLSI Test Symposium, p.418, April 26-30, 1998
+Abhijit Jas , Jayabrata Ghosh-Dastidar , Nur A. Touba, Scan Vector Compression/Decompression Using Statistical Coding, Proceedings of the 1999 17TH IEEE VLSI Test Symposium, p.114, April 26-30, 1999
+Ajay Khoche , Erik Volkerink , Jochen Rivoir , Subhasish Mitra, Test Vector Compression Using EDA-ATE Synergies, Proceedings of the 20th IEEE VLSI Test Symposium, p.97, April 28-May 02, 2002
+Michael J. Knieser , Francis G. Wolff , Chris A. Papachristou , Daniel J. Weyer , David R. McIntyre, A Technique for High Ratio LZW Compression, Proceedings of the conference on Design, Automation and Test in Europe, p.10116, March 03-07, 2003
+Koenmann, B. 2000. "SMARTBIST," Presentation by IBM in ITC.
+C. C. Krishna , Abhijit Jas , Nur A. Touba, Test vector encoding using partial LFSR reseeding, Proceedings of the IEEE International Test Conference 2001, p.885-893, October 30-November 01, 2001
+McAuley, A. and Francis, P. 1993. Fast routing table lookup using CAMs. In Proceedings of the INFOCOM'93.
+Mentor Graphics Corporation2002. User manuals for fastScan. Mentor Graphics Corporation.
+Nicola Nicolici , Bashir M. Al-Hashimi, Scan latch partitioning into multiple scan chains for power minimization in full scan sequential circuits, Proceedings of the conference on Design, automation and test in Europe, p.715-722, March 27-30, 2000, Paris, France[doi>10.1145/343647.343901]
+PMC-Sierra 2002. www.PMC-Sierra.com.
+Jan M. Rabaey, Digital integrated circuits: a design perspective, Prentice-Hall, Inc., Upper Saddle River, NJ, 1996
+Januz Rajki , Jerzy Tyzer , Mark Kassab , Nilanjan Mukherjee , Rob Thompson , Kun-Han Tsai , Andre Hertwig , Nagesh Tamarapalli , Grzegorz Mrugalski , Geir Eide , Jun Qian, Embedded Deterministic Test for Low-Cost Manufacturing Test, Proceedings of the 2002 IEEE International Test Conference, p.301, October 07-10, 2002
+Sudhakar M. Reddy , Kohei Miyase , Seiji Kajihara , Irith Pomeranz, On Test Data Volume Reduction for Multiple Scan Chain Designs, Proceedings of the 20th IEEE VLSI Test Symposium, p.103, April 28-May 02, 2002
+Rosinger, P., Gonciari, P., Al-Hashimi, B., and Nicolici, N. 2001. Simultaneous reduction in volume of test data power dissipation for systems-on-a-chip. Electron. Lett., 37, 24, 1434--1436.
+Rosinger, P., Gonciari, P., Al-Hashimi, B., and Nicolici, N. 2002. Analysing trade-offs in scan power and test data compression for system-on-a-chip. IEE Proc. Comput. Dig. Techniq. 149, 4 (July), 188--196.
+Rudberg, M. and Wanhammar, L. 1997. High speed pipelined parallel Huffman decoding. In Proceedings of the International Symposium on Circuits and Systems (ISCAS'97), vol. 3. 2080--2083.
+Ranganathan Sankaralingam , Rama Rao Oruganti , Nur A. Touba, Static Compaction Techniques to Control Scan Vector Power Dissipation, Proceedings of the 18th IEEE VLSI Test Symposium, p.35, April 30-May 04, 2000
+Synopsys, Inc. 2002. User Manuals for SYNOPSYS Toolset, Version.05. Synopsys, Inc.
+M. H. Tehranipour , N. Ahmed , M. Nourani, Testing SoC Interconnects for Signal Integrity Using Boundary Scan, Proceedings of the 21st IEEE VLSI Test Symposium, p.158, April 27-May 01, 2003
+Tehranipour, M. H. and Nourani, M. 2002. Compression techniques for scan. Tech. rep. UTD-10-05-2002, Dept. of EE, University of Texas at Dallas, Richardson, TX.
+Sying-Jyan Wang , Sheng-Nan Chiou, Generating efficient tests for continuous scan, Proceedings of the 38th annual Design Automation Conference, p.162-165, June 2001, Las Vegas, Nevada, USA[doi>10.1145/378239.378393]
+Seongmoon Wang , Sandeep K. Gupta, ATPG for heat dissipation minimization during scan testing, Proceedings of the 34th annual Design Automation Conference, p.614-619, June 09-13, 1997, Anaheim, California, USA[doi>10.1145/266021.266298]
+Francis G. Wolff , Chris Papachristou, Multiscan-Based Test Compression and Hardware Decompression Using LZ77, Proceedings of the 2002 IEEE International Test Conference, p.331, October 07-10, 2002
+Wurtenberger, A., Tautermann, C., and Hellebrand, S. 2003. A hybrid coding strategy for optimized test data compression. In Proceedings of the International Test Conference (ITC'03). 451--459.
+Yervant Zorian , Erik Jan Marinissen , Sujit Dey, Testing Embedded-Core-Based System Chips, Computer, v.32 n.6, p.52-60, June 1999[doi>10.1109/2.769444]

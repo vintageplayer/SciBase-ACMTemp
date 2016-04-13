@@ -1,0 +1,67 @@
+Incremental physical CAD is encountered frequently in the so-called
+engineering change order (ECO) process in which design changes are
+made typically late in the design process in order to correct
+logical and/or technological problems in the circuit. Incremental
+routing is a significant part of an incremental physical design
+methodology. Typically after an ECO process, a small portion of the
+circuit netlist is changed, and in order to capitalize on the
+enormous resources and time already spent on routing the circuit it
+is desirable to reroute only the ECO-affected portion of the
+circuit, while minimizing any routing changes in the much larger
+unaffected part. Incremental rerouting also needs to be fast and to
+effectively use available routing resources. In this article, we
+develop a complete incremental routing methodology for FPGAs using
+a novel approach called bump and refit (B&R). The basic B&R
+idea (which was originally proposed in Dutt et al. [1999] in the
+much simpler context of extending some nets by a segment for the
+purpose of fault tolerance) in our algorithms is to rearrange some
+portions of some existing nets on other tracks within their current
+channels in order to find valid routings for the new/modified nets
+without requiring any extra routing resources and with little
+effect on the electrical properties of existing nets. Here we
+significantly extend the B&R concept to global and detailed
+incremental routing for FPGAs with complex switchboxes (SBox's)
+such as those in Lucent's ORCA and Xilinx's Virtex series. We
+introduce new concepts such as a B&R cost in global routing and
+the optimal subnet set to relocate for each bumped net (determined
+using an efficient dynamic programming formulation). We developed
+optimal and near-optimal algorithms (called Subsec_B&R and
+Subnet_B&R, respectively) to find incremental routing solutions
+using the B&R paradigm in complex FPGAs (e.g.,
+Lucent&apos;s ORCA FPGA) with
+<i>i</i>-to-<i>j</i> SBox's, as well as an
+optimal version Fullnet_B&R for the VPR architecture from the
+University of Toronto using the simpler
+<i>i</i>-to-<i>i</i> SBox&apos;s. We
+compared our algorithms (simply called B&R when no distinction
+needs to be made between our versions) to two recent incremental
+routing techniques, Standard (Std) and Rip-up&Reroute
+(R&R), and to Lucent's A_PAR routing tool and the University of
+Toronto's VPR router used in complete rerouting modes. Experimental
+results for the ORCA show that B&R is 10 to 20 times faster
+than complete rerouting using A_PAR, and that B&R is also
+nearly 27&percnt; faster and yields new nets with nearly
+10&percnt; smaller lengths compared to previous incremental
+routers. Furthermore, B&R routers do not change either the
+lengths or topologies of existing nets, a significant advantage in
+ECO applications, in contrast to R&R which increases the length
+of ripped-up nets by an average of 8.75 to 13.6&percnt;.
+Experimental results for the VPR architecture are dominated by the
+significantly larger (in many cases, orders of magnitude more)
+number of nets left unrouted by Std and R&R compared to
+B&R, which highlights the much greater efficacy of
+B&R-based incremental routing. However, B&R is
+significantly slower than the other two incremental routers,
+although on an absolute scale it is quite fast for two of four
+cases we simulated; in one case, it is about 25 times faster than
+VPR used in the full rerouting mode. The relative slowness of
+B&R for the VPR architecture arises from the fact that we used
+<i>i</i>-to-<i>i</i> SBox&apos;s which
+forces each net to be routed on the same track, thus causing
+significantly more bumpings and searches for rearranged solutions
+compared to <i>i</i>-to-<i>j</i>
+SBox&apos;s where a net can be routed on different
+interconnected tracks to minimize the amount of bumpings (as we did
+for the ORCA). Since modern FPGAs generally have the latter type of
+SBox&apos;s, B&R would be fast as well as very effective on
+them.

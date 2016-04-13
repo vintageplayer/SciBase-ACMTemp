@@ -1,0 +1,35 @@
+G. Angelov and M. Hristov. 2004. SPICE modeling of mosfets in deep submicron. In Proceedings of the 27<sup>th</sup> IEEE International Spring Seminar on Electronics Technology: Meeting the Challenges of Electronics Technology Progress. Vol. 2, 257--262.
+F. Arnaud, F. Boeuf, F. Salvetti, D. Enoble, F. Acquant, C. Regnier, et al. 2003. A functional 0.69 μm2 embedded 6t-sram bit cell for 65 nm cmos platform. In Proceedings of the IEEE Symposium on VLSI Technology Digest of Technical Papers. 65--66.
+K. Cao. 2012. http://ptm.asu.edu/latest.html.
+L. Chang, D. M. Fried, J. Hergenrother, J. W. Sleight, R. H. Dennard, R. K. Montoye, et al. 2005. Stable sram cell design for the 32 nm node and beyond. In Proceedings of the IEEE Symposium on VLSI Technology Digest of Technical Papers. 128--129.
+Y. Cheng, K. Imai, M. Jeng, Z. Liu, K. Chen, and C. Hu. 1997. Modelling temperature effects of quarter micrometre mosfets in bsim3v3 for circuit simulation. Semiconductor Sci. Technol. 12, 11.
+Wei Dong , Peng Li , Garng M. Huang, SRAM dynamic stability: theory, variability and analysis, Proceedings of the 2008 IEEE/ACM International Conference on Computer-Aided Design, November 10-13, 2008, San Jose, California
+Don Edenfeld , Andrew B. Kahng , Mike Rodgers , Yervant Zorian, 2003 Technology Roadmap for Semiconductors, Computer, v.37 n.1, p.47-56, January 2004[doi>10.1109/MC.2004.1260725]
+Rajesh Garg , Nikhil Jayakumar , Sunil P. Khatri , Gwan Choi, A design approach for radiation-hard digital electronics, Proceedings of the 43rd annual Design Automation Conference, July 24-28, 2006, San Francisco, CA, USA[doi>10.1145/1146909.1147105]
+R. Garg, P. Li, and S. P. Khatri. 2008. Modeling dynamic stability of srams in the presence of single event upsets (seus). In Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS'08). 1788--1791.
+B. S. Haran, A. Kumar, L. Adam, J. Chang, V. Basker, S. Kanakasabapathy, et al. 2008. 22 nm technology compatible fully functional 0.1 μm 2 6t-sram cell. In Proceedings of the IEEE International Electronic Devices Meeting (IEDM'08). 1--4.
+Y. Ho. 2008. Dynamic stability margin analysis on sram. http://repository.tamu.edu/bitstream/handle/1969.1/ETD-TAMU-2722/HO-THESIS.pdf&quest;sequence=1.
+C. Hu. 2010. Modern Semiconductor Devices for Integrated Circuits. Vol. 1. Prentice Hall, Upper Saddle River, NJ.
+G. M. Huang, W. Dong, Y. Ho, and P. Li. 2007. Tracing sram separatrix for dynamic noise margin analysis under device mismatch. In Proceedings of the IEEE International Behavioral Modeling and Simulation Workshop (BMAS'07). 6--10.
+Shah M. Jahinuzzaman , Mohammad Sharifkhani , Manoj Sachdev, An analytical model for soft error critical charge of nanometric SRAMs, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, v.17 n.9, p.1187-1195, September 2009[doi>10.1109/TVLSI.2008.2003511]
+H. K. Khalil. 2002. Nonlinear Systems. Vol, 3, Prentice Hall, Upper Saddle River, NJ.
+F. J. List. 1986. The static noise margin of sram cells. In Proceedings of the 12<sup>th</sup> IEEE European Solid-State Circuits Conference (ESSCIRC'86). 16--18.
+W. Liu and C. Hu. 1998. BSIM3v3 mosfet model. Int. J. High Speed Electron. Syst. 9, 3, 671--701.
+W. Liu and C. Hu. 2011. BSIM4 and MOSFET Modeling for IC Simulation. World Scientific, Singapore.
+J. Lohstroh, E. Seevinck, and J. D. Groot. 1983. Worst-case static noise margin criteria for logic circuits and their mathematical equivalence. IEEE J. Solid-State Circ. 18, 6, 803--807.
+L. W. Massengill, M. L. Alles, and S. E. Kerns. 1993. SEU error rates in advanced digital cmos. In Proceedings of the 2<sup>nd</sup> IEEE European Conference on Radiation and its Effects on Components and Systems (RADECS'93). 546--553.
+T. C. May and M. H. Woods. 1979. Alpha-particle-induced soft errors in dynamic memories. IEEE Trans. Electron. Devices, 26, 1, 2--9.
+T. H. Morshed, D. D. Lu, W. M. Yang, M. V. Dunga, X. Xi, et al. 2010. BSIM4v4.7 mosfet model. http://www-device.eecs.berkeley.edu/bsim/Files/BSIM4/BSIM470/BSIM470_Manual.pdf.
+S. Nassif. 2006. C-&infty; shichman hodges model. http://ece.tamu.edu/∼huang/files/materials606/sani.pdf.
+J. C. Pickel and J. T. Blandford. 1981. CMOS ram cosmic-ray-induced-error-rate analysis. IEEE Trans. Nuclear Sci. 28, 6, 3962--3967.
+A. Ramesh, S.-Y. Park, and P. R. Berger. 2011. 90nm 32 × 32 bit tunneling sram memory array with 0.5ns write access time, 1ns read access time and 0.5v operation. IEEE Trans. Circ. Syst. 58, 10, 2432--2445.
+E. Seevinck. 1980. Deriving stability criteria for nonlinear circuits with application to worst-case noise margin of i2l. IEEE Electron. Lett. 16, 23, 867--869.
+E. Seevinck, F. J. List, and J. Lohstroh. 1987. Static-noise margin analysis of mos sram cells. IEEE J. Solid-State Circ. 22, 5, 748--754.
+H. Shichman and D. A. Hodges. 1968. Modeling and simulation of insulated-gate field-effect transistor switching circuits. IEEE J. Solid-State Circ. 3, 3, 285--289.
+Yang Song , Hao Yu , Sai Manoj Pudukotai Dinakarrao , Guoyong Shi, SRAM dynamic stability verification by reachability analysis with consideration of threshold voltage variation, Proceedings of the 2013 ACM international symposium on International symposium on physical design, March 24-27, 2013, Stateline, Nevada, USA[doi>10.1145/2451916.2451927]
+S. O. Toh, Z. Guo, and B. Nikolic. 2010. Dynamic sram stability characterization in 45nm cmos. In Proceedings of the IEEE Symposium on VLSI Circuits (VLSIC'10). 35--36.
+K. Utsumi, E. M. Morifuji, K. S. Aota, T. Yoshida, K. Honda, et al. 2005. A 65nm low power cmos platform with 0.495μm2 sram for digital processing and mobile applications. In Proceedings of the IEEE Symposium on VLSI Technology Digest of Technical Papers. 216--217.
+Y. Wang, U. Bhattacharya, F. Hamzaoglu, P. Y. Ng, L. Wei, et al. 2009. A 4.0 ghz 291mb voltage-scalable sram design in 32nm high-κ metal-gate cmos with integrated power management. In Proceedings of the IEEE International Solid-State Circuits Conference-Digest of Technical Papers (ISSCC'09). 456--457.
+Jiajing Wang , Satyanand Nalam , Benton H. Calhoun, Analyzing static and dynamic write margin for nanometer SRAMs, Proceedings of the 2008 international symposium on Low Power Electronics & Design, August 11-13, 2008, Bangalore, India[doi>10.1145/1393921.1393954]
+Bin Zhang , Ari Arapostathis , Sani Nassif , Michael Orshansky, Analytical modeling of SRAM dynamic stability, Proceedings of the 2006 IEEE/ACM international conference on Computer-aided design, November 05-09, 2006, San Jose, California[doi>10.1145/1233501.1233564]
+Yong Zhang , Peng Li , Garng M. Huang, Separatrices in high-dimensional state space: system-theoretical tangent computation and application to SRAM dynamic stability analysis, Proceedings of the 47th Design Automation Conference, June 13-18, 2010, Anaheim, California[doi>10.1145/1837274.1837414]

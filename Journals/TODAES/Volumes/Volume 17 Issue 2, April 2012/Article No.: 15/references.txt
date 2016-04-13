@@ -1,0 +1,32 @@
+4DSP, LLC. 2007. 4DSP floating point fast Fourier transform V2.6. 4DSP, LLC.
+J. Astola , D. Akopian, Architecture-oriented regular algorithms for discrete sine and cosine transforms, IEEE Transactions on Signal Processing, v.47 n.4, p.1109-1124, April 1999[doi>10.1109/78.752608]
+Bluestein, L. I.1970. A linear filtering approach to computation of discrete Fourier transform.IEEE Trans. Audio Electroacoust. 18, 4, 451--455.
+Cohen, D.1976. Simplified control of FFT hardware.IEEE Trans. Acoust. Speech, Signal Process. 24, 6, 577--579.
+Cooley, J. W. and Tukey, J. W.1965. An algorithm for the machine calculation of complex Fourier series.Math. Computat. 19, 90, 297--301.
+Ainhoa Cortés , Igone Vélez , Juan F. Sevillano, Radix rkFFTs: matricial representation and SDC/SDF pipeline implementation, IEEE Transactions on Signal Processing, v.57 n.7, p.2824-2839, July 2009[doi>10.1109/TSP.2009.2016276]
+Dave, N., Pellauer, M., Gerding, S., and Arvind. 2006. 802.11a transmitter: A case study in microarchitectural exploration. InProceedings of the ACM/IEEE International Conference on Formal Methods and Models for Codesign. 59--68.
+Dershowitz, N. and Plaisted, D. A.2001. Rewriting. InHandbook of Automated Reasoning, Vol. 1, A. Robinson and A. Voronkov Eds., Elsevier, 535--610.
+Franz Franchetti , Yevgen Voronenko , Markus Püschel, FFT program generation for shared memory: SMP and multicore, Proceedings of the 2006 ACM/IEEE conference on Supercomputing, November 11-17, 2006, Tampa, Florida[doi>10.1145/1188455.1188575]
+Franz Franchetti , Yevgen Voronenko , Markus Püschel, A rewriting system for the vectorization of signal transforms, Proceedings of the 7th international conference on High performance computing for computational science, June 10-13, 2006, Rio de Janeiro, Brazil
+Gorman, S. F. and Wills, J. M.1995. Partial column FFT pipelines.IEEE Trans. Circuits Syst. II: Analog Digital Signal Process. 42, 6, 414--423.
+Shousheng He , Mats Torkelson, A New Approach to Pipeline FFT Processor, Proceedings of the 10th International Parallel Processing Symposium, p.766-770, April 15-19, 1996
+Järvinen, T. S., Salmela, P., Sorokin, H., and Takala, J. H.2004. Stride permutation networks for array processors. InProceedings of the IEEE International Conference on Application-Specific Systems, Architectures, and Processors. 51--71.
+J. R. Johnson , R. W. Johnson , D. Rodriquez , R. Tolimieri, A methodology for designing, modifying, and implementing Fourier transform algorithms on various architectures, Circuits, Systems, and Signal Processing, v.9 n.4, p.449-500, 1990[doi>10.1007/BF01189337]
+Kee, H., Petersen, N., Kornerup, J., and Bhattacharyya, S. S.2008. Systematic generation of FPGA-based FFT implementations. InProceedings of the International Conference on Acoustics, Speech, and Signal Processing. 1413--1416.
+Kumhom, P., Johnson, J., and Nagvajara, P.2000. Design, optimization, and implementation of a universal FFT processor. InProceedings of the 13th IEEE ASIC/SOC Conference. 182--186.
+Milder, P. A.2010. A mathematical approach for compiling and optimizing hardware implementations of DSP transforms. Ph.D. dissertation, Electrical and Computer Engineering, Carnegie Mellon University.
+Peter A. Milder , Mohammad Ahmad , James C. Hoe , Markus Püschel, Fast and accurate resource estimation of automatically generated custom DFT IP cores, Proceedings of the 2006 ACM/SIGDA 14th international symposium on Field programmable gate arrays, February 22-24, 2006, Monterey, California, USA[doi>10.1145/1117201.1117232]
+Peter A. Milder , Franz Franchetti , James C. Hoe , Markus Püschel, Formal datapath representation and manipulation for implementing DSP transforms, Proceedings of the 45th annual Design Automation Conference, June 08-13, 2008, Anaheim, California[doi>10.1145/1391469.1391572]
+Peter A. Milder , James C. Hoe , Markus Püschel, Automatic generation of streaming datapaths for arbitrary fixed permutations, Proceedings of the Conference on Design, Automation and Test in Europe, April 20-24, 2009, Nice, France
+Muralimanohar, N., Balasubramonian, R., and Jouppi, N. P.2009. CACTI 6.0: A tool to model large caches. Tech. rep. HPL-2009-85, Hewlett-Packard Laboratories.
+Jari A. Nikara , Jarmo H. Takala , Jaakko T. Astola, Discrete cosine and sine transforms: regular algorithms and pipeline architectures, Signal Processing, v.86 n.2, p.230-249, February 2006[doi>10.1016/j.sigpro.2005.05.014]
+Marshall C. Pease, An Adaptation of the Fast Fourier Transform for Parallel Processing, Journal of the ACM (JACM), v.15 n.2, p.252-264, April 1968[doi>10.1145/321450.321457]
+Püschel, M., Moura, J. M. F., Johnson, J., Padua, D., Veloso, M., Singer, B. W., Xiong, J., Franchetti, F., Gačić, A., Voronenko, Y., Chen, K., Johnson, R. W., and Rizzolo, N.2005. SPIRAL: Code generation for DSP transforms.Proc. IEEE 93, 2, 232--275.
+Markus Püschel , Peter A. Milder , James C. Hoe, Permuting streaming data using RAMs, Journal of the ACM (JACM), v.56 n.2, p.1-34, April 2009[doi>10.1145/1502793.1502799]
+Sukhsawas, S. and Benkrid, K.2004. A high-level implementation of a high performance pipeline FFT on Virtex-E FPGAs. InProceedings of the IEEE Symposium on VLSI. 229--232.
+J. Takala , D. Akopian , J. Astola , J. Saarinen, Constant geometry algorithm for discrete cosine transform, IEEE Transactions on Signal Processing, v.48 n.6, p.1840-1843, June 2000[doi>10.1109/78.845951]
+Charles Van Loan, Computational frameworks for the fast Fourier transform, Society for Industrial and Applied Mathematics, Philadelphia, PA, 1992
+Yevgen Voronenko , Markus Püschel, Algebraic signal processing theory: Cooley-Tukey type algorithms for real DFTs, IEEE Transactions on Signal Processing, v.57 n.1, p.205-222, January 2009[doi>10.1109/TSP.2008.2006152]
+Xilinx, Inc.2010. Xilinx LogiCore IP fast Fourier transform v7.1. Xilinx, Inc.
+Jianxin Xiong , Jeremy Johnson , Robert Johnson , David Padua, SPL: a language and compiler for DSP algorithms, Proceedings of the ACM SIGPLAN 2001 conference on Programming language design and implementation, p.298-308, June 2001, Snowbird, Utah, USA[doi>10.1145/378795.378860]
+E. L. Zapata , F. Argüello, A VLSI Constant Geometry Architecture for the Fast Hartley and Fourier Transforms, IEEE Transactions on Parallel and Distributed Systems, v.3 n.1, p.58-70, January 1992[doi>10.1109/71.113082]

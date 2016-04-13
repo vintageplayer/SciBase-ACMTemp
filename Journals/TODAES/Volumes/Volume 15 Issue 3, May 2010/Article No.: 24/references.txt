@@ -1,0 +1,32 @@
+ARM10. ARM10 processor. http://www.arm.com/products/CPUs/families/ARM10EFamily.html.
+ARM7. ARM7 processor. http://www.arm.com/products/CPUs/ARM7TDMI.html.
+Ayala, J. L. and Veidenbaum, A. 2002. Reducing register file energy consumption using compiler support. In Proceedings of the Workshop on Application-Specific Processors.
+José L. Ayala , Alexander Veidenbaum , Marisa López-Vallejo, Power-aware compilation for register file energy reduction, International Journal of Parallel Programming, v.31 n.6, p.451-467, December 2003[doi>10.1023/B:IJPP.0000004510.66751.2e]
+Luca Benini , Mahmut Kandemir , J. Ramanujam, Compilers and operating systems for low power, Kluwer Academic Publishers, Norwell, MA, 2003
+Shekhar Borkar, Getting Gigascale Chips: Challenges and Opportunities in Continuing Moore's Law, Queue, v.1 n.7, 10-01-2003[doi>10.1145/957717.957757]
+David Chinnery , Kurt Keutzer, Closing the POWER Gap between ASIC & Custom: Tools and Techniques for Low Power Design, Springer-Verlag New York, Inc., Secaucus, NJ, 2005
+Sung Woo Chung , Kevin Skadron, A novel software solution for localized thermal problems, Proceedings of the 4th international conference on Parallel and Distributed Processing and Applications, December 04-06, 2006, Sorrento, Italy[doi>10.1007/11946441_11]
+DIOPSIS. DIOPSIS 740. http://www.atmel.com/dyn/resources/.
+Krisztián Flautner , Nam Sung Kim , Steve Martin , David Blaauw , Trevor Mudge, Drowsy caches: simple techniques for reducing leakage power, Proceedings of the 29th annual international symposium on Computer architecture, May 25-29, 2002, Anchorage, Alaska
+Gomez, M. and Santonja., V. 2002. Characterizing temporal locality in I/O workload. In Proceedings of the International Symposium on Performance Evaluation Computer and Telecommunication Systems. 76--82.
+Xuan Guan , Yunsi Fei, Reducing power consumption of embedded processors through register file partitioning and compiler support, Proceedings of the 2008 International Conference on Application-Specific Systems, Architectures and Processors, p.269-274, July 02-04, 2008[doi>10.1109/ASAP.2008.4580190]
+Hu, Z. and Martonosi, M. 2000. Reducing register file power consumption by exploiting value lifetime characteristics. In Proceedings of the Workshop on Complexity-Effective Design.
+Manoj Kumar Jain , M. Balakrishnan , Anshul Kumar, An efficient technique for exploring register file size in ASIP synthesis, Proceedings of the 2002 international conference on Compilers, architecture, and synthesis for embedded systems, October 08-11, 2002, Grenoble, France[doi>10.1145/581630.581671]
+Andy Lambrechts , Praveen Raghavan , Anthony Leroy , Guillermo Talavera , Tom Vander Aa , Murali Jayapala , Francky Catthoor , Diederik Verkest , Geert Deconinck , Henk Corporaal , Frédéric Robert , Jordi Carrabina, Power Breakdown Analysis for a Heterogeneous NoC Platform Running a Video Application, Proceedings of the 2005 IEEE International Conference on Application-Specific Systems, Architecture Processors, p.179-184, July 23-25, 2005
+Tay-Jyi Lin , Shin-Kai Chen , Yu-Ting Kuo , Chih-Wei Liu , Pi-Chen Hsiao, Design and Implementation of a High-Performance and Complexity-Effective VLIW DSP for Multimedia Applications, Journal of Signal Processing Systems, v.51 n.3, p.209-223, June      2008[doi>10.1007/s11265-007-0061-x]
+MiBench. MiBench applications. http://www.eecs.umich.edu/mibench/.
+Jinpyo Park , Je-Hyung Lee , Soo-Mook Moon, Register Allocation for Banked Register File, ACM SIGPLAN Notices, v.36 n.8, p.39-47, Aug. 2001[doi>10.1145/384196.384205]
+Sanghyun Park , A. Shrivastava , N. Dutt , A. Nicolau , Yunheung Paek , E. Earlie, Register File Power Reduction Using Bypass Sensitive Compiler, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.27 n.6, p.1155-1159, June 2008[doi>10.1109/TCAD.2008.923254]
+Johan Pouwelse , Koen Langendoen , Henk Sips, Dynamic voltage scaling on a low-power microprocessor, Proceedings of the 7th annual international conference on Mobile computing and networking, p.251-259, July 2001, Rome, Italy[doi>10.1145/381677.381701]
+Rabaey, J. and Pedram, M., Eds. 1996. Low Power Design Methodologies. Kluwer Academic Publishers, Norwell, MA.
+Rajiv A. Ravindran , Robert M. Senger , Eric D. Marsman , Ganesh S. Dasika , Matthew R. Guthaus , Scott A. Mahlke , Richard B. Brown, Partitioning Variables across Register Windows to Reduce Spill Code in a Low-Power Processor, IEEE Transactions on Computers, v.54 n.8, p.998-1012, August 2005[doi>10.1109/TC.2005.132]
+Sadiq M. Sait , Habib Youssef, VISI Physical Design Automation: Theory and Practice, McGraw-Hill, Inc., New York, NY, 1994
+Thomas Schuster , Bruno Bougard , Praveen Raghavan , Robert Priewasser , David Novo , Liesbet Van der Perre , Francky Catthoor, Design of a low power pre-synchronization ASIP for multimode SDR terminals, Proceedings of the 7th international conference on Embedded computer systems: architectures, modeling, and simulation, July 16-19, 2007, Samos, Greece
+Searles, M., Whalley, D., and Tyson, G. 2006. Exploitation of a large data register file. In Proceedings of the International Conference on Languages, Compilers, and Tools for Embedded Systems. 252--261.
+Aviral Shrivastava , Eugene Earlie , Nikil Dutt , Alex Nicolau, Operation tables for scheduling in the presence of incomplete bypassing, Proceedings of the 2nd IEEE/ACM/IFIP international conference on Hardware/software codesign and system synthesis, September 08-10, 2004, Stockholm, Sweden[doi>10.1145/1016720.1016768]
+Simplescalar. Simplescalar. http://www.simplescalar.com/.
+SPEC2000. SPEC2000 appplications. http://www.spec.org.
+Haihua Su , Frank Liu , Anirudh Devgan , Emrah Acar , Sani Nassif, Full chip leakage estimation considering power supply and temperature variations, Proceedings of the 2003 international symposium on Low power electronics and design, August 25-27, 2003, Seoul, Korea[doi>10.1145/871506.871529]
+J. H. Tseng , K. Asanovic, Energy-Efficient Register Access, Proceedings of the 13th symposium on Integrated circuits and systems design, p.377, September 18-24, 2000
+Vieri, C. 1995. Pendulum: A reversible computer architecture. M.S. thesis, MIT Artificial Intelligence Laboratory.
+Zhao, X. M. and Ye, Y. Z. 2002. Structure configuration of low power register file using energy model. In Proceedings of the Asia Pacific Conference on ASIC. 41--44.

@@ -1,0 +1,38 @@
+BENINI, L., FAVALLI, M., AND DE MICHELI, G. 1995. Generalized matching, a new approach to concurrent logic optimization and library binding. In Logic synthesis.
+Karl S. Brace , Richard L. Rudell , Randal E. Bryant, Efficient implementation of a BDD package, Proceedings of the 27th ACM/IEEE Design Automation Conference, p.40-45, June 24-27, 1990, Orlando, Florida, USA[doi>10.1145/123186.123222]
+Robert King Brayton , Alberto L. Sangiovanni-Vincentelli , Curtis T. McMullen , Gary D. Hachtel, Logic Minimization Algorithms for VLSI Synthesis, Kluwer Academic Publishers, Norwell, MA, 1984
+BROWN, F. 1990. Boolean reasoning. Kluwer Academic Publishers, Hingham, MA.
+Randal E. Bryant, Graph-Based Algorithms for Boolean Function Manipulation, IEEE Transactions on Computers, v.35 n.8, p.677-691, August 1986[doi>10.1109/TC.1986.1676819]
+Jerry R. Burch , David E. Long, Efficient Boolean function matching, Proceedings of the 1992 IEEE/ACM international conference on Computer-aided design, p.408-411, November 1992, Santa Clara, California, USA
+CHEN, K.-C. 1993. Boolean matching based on Boolean unification. In Computer-aided design, 346-351.
+CHENG, D. I. AND MAREK-SADOWSKA, M. 1993. Verifying equivalence of functions with unknown input correspondence. In Design Automation, 81-85.
+E. M. Clarke , K. L. McMillan , X Zhao , M. Fujita , J. Yang, Spectral transforms for large boolean functions with applications to technology mapping, Proceedings of the 30th international Design Automation Conference, p.54-60, June 14-18, 1993, Dallas, Texas, USA[doi>10.1145/157485.164569]
+Jason Cong , Yuzheng Ding, An optimal technology mapping algorithm for delay optimization in lookup-table based FPGA designs, Proceedings of the 1992 IEEE/ACM international conference on Computer-aided design, p.48-53, November 1992, Santa Clara, California, USA
+Jason Cong , Yuzheng Ding, Combinational logic synthesis for LUT based field programmable gate arrays, ACM Transactions on Design Automation of Electronic Systems (TODAES), v.1 n.2, p.145-204, April 1996[doi>10.1145/233539.233540]
+DARRINGER, J., JOYNER, W., BERMAN, L., AND TREVILLYAN, L. 1981. LSS: Logic synthesis through local transformations". IBM J. Res. Dev. 25, 4 (July), 272-280.
+Giovanni De Micheli, Synthesis and Optimization of Digital Circuits, McGraw-Hill Higher Education, 1994
+DETJENS, E. AND GANNOT, G., ET AL. 1987. Technology mapping in MIS. In Computer-Aided Design, 116-119.
+EDWARDS, C. 1975. Applications of Rademacher-Walsh transform to Boolean function classification and threshold logic synthesis. IEEE Trans. Comput. (Jan.), 48-62.
+Silvia Ercolani , Giovanni De Micheli, Technology mapping for electrically programmable gate arrays, Proceedings of the 28th ACM/IEEE Design Automation Conference, p.234-239, June 17-22, 1991, San Francisco, California, USA[doi>10.1145/127601.127671]
+FORTAS, A., BOUZOUZOU, H., CRASTES, M., ROANE, R., AND SAUCIER, G. 1995. Mapping techniques for Quicklogic FPGA. In SASIMI.
+Michael R. Garey , David S. Johnson, Computers and Intractability: A Guide to the Theory of NP-Completeness, W. H. Freeman & Co., New York, NY, 1979
+GREEN, J., HAMDY, E., AND BEAL, S. 1993. Antifuse field programmable gate arrays. Proc. IEEE 81, 7 (July), 1041-1056.
+David Gregory , Karen Bartlett , Aart de Geus , Gary Hachtel, SOCRATES: a system for automatically synthesizing and optimizing combinational logic, Proceedings of the 23rd ACM/IEEE Design Automation Conference, p.79-85, July 1986, Las Vegas, Nevada, USA
+Stanley L. Hurst , Jon C. Muzio , D. Michael Miller, Spectral Techniques in Digital Logic, Academic Press, Inc., Orlando, FL, 1985
+Kevin Karplus, Amap: A technology mapper for selector-based field-programmable gate arrays, Proceedings of the 28th ACM/IEEE Design Automation Conference, p.244-247, June 17-22, 1991, San Francisco, California, USA[doi>10.1145/127601.127673]
+K. Keutzer, DAGON: technology binding and local optimization by DAG matching, Proceedings of the 24th ACM/IEEE Design Automation Conference, p.341-347, June 28-July 01, 1987, Miami Beach, Florida, USA[doi>10.1145/37888.37940]
+Janett Mohnke , Sharad Malik, Permutation and phase independent Boolean comparison, Integration, the VLSI Journal, v.16 n.2, p.109-129, Dec. 1993[doi>10.1016/0167-9260(93)90041-A]
+MORRISON, C. R., JACOBY, R. M., AND HACHTEL, G.D. 1989. Techmap: technology mapping with delay and area optimization. In Logic and Architecture Synthesis for Silicon Compilers. North-Holland Publishing Co., Amsterdam, The Netherlands, 53-64.
+R. Murgai , R. K. Brayton , A. L. Sangiovanni-Vincentelli, An improved synthesis algorithm for multiplexor-based PGA's, Proceedings of the 29th ACM/IEEE Design Automation Conference, p.380-386, June 08-12, 1992, Anaheim, California, USA
+Hamid Savoj , Mário J. Silva , Robert K. Brayton , Alberto Sangiovanni-Vincentelli, Boolean matching in logic synthesis, Proceedings of the conference on European design automation, p.168-174, November 1992, Congress Centrum Hamburg, Hamburg, Germany
+U. Schlichtmann , F. Brglez , M. Hermann, Characterization of Boolean functions for rapid matching in FPGA technology mapping, Proceedings of the 29th ACM/IEEE Design Automation Conference, p.374-379, June 08-12, 1992, Anaheim, California, USA
+SCHLICHTMANN, U., BRGLEZ, F., AND SCHNEIDER, P. 1993. Efficient Boolean matching based on unique variable ordering. In Logic Synthesis.
+SOMENZI, F. AND BRAYTON, R.K. 1989. Minimization of Boolean relations. In Circuits and systems, 738-743.
+TRIMBERGER, S. 1993. A reprogrammable gate array and application. Proc. IEEE 81, 7 (July), 1030-1041.
+Chien-Chung Tsai , Malgorzata Marek-Sadowska, Boolean matching using generalized Reed-Muller forms, Proceedings of the 31st annual Design Automation Conference, p.339-344, June 06-10, 1994, San Diego, California, USA[doi>10.1145/196244.196404]
+Kuo-Hua Wang , Ting-Ting Hwang, Boolean matching for incompletely specified functions, Proceedings of the 32nd annual ACM/IEEE Design Automation Conference, p.48-53, June 12-16, 1995, San Francisco, California, USA[doi>10.1145/217474.217505]
+Kuo-Hua Wang , TingTing Hwang , Cheng Chen, Exploiting communication complexity for Boolean matching, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.15 n.10, p.1249-1256, November 2006[doi>10.1109/43.541444]
+Y. Watanabe , L. M. Guerra , R. K. Brayton, Permissible functions for multioutput components in combinational logic optimization, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.15 n.7, p.732-744, November 2006[doi>10.1109/43.503942]
+WONG, S., So, H., Ov, J., AND COSTELLO, J. 1989. A 5000-gate CMOS EPLD with multiple logic and interconnect array. In Custom Integrated Circuit, 581-584.
+Jerry C Yang , Giovanni DeMicheli, Spectral Techniques for Technology Mapping, Stanford University, Stanford, CA, 1994
+Cheng-Hsing Yang , Chia-Chun Tsai , Jan-Ming Ho , Sao-Jie Chen, Hmap: a fast mapper for EPGAs using extended GBDD hash tables, ACM Transactions on Design Automation of Electronic Systems (TODAES), v.2 n.2, p.135-150, April 1997[doi>10.1145/253052.253098]

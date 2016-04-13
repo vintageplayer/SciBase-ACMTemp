@@ -1,0 +1,31 @@
+S.-Y. Abe, M. Yanagisawa, and N. Togawa. 2012. An energy-efficient high-level synthesis algorithm for huddle-based distributed-register architecture. In Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS). 576--579.
+Annie Avakian , Iyad Ouaiss, Optimizing Register Binding in FPGAs Using Simulated Annealing, Proceedings of the 2005 International Conference on Reconfigurable Computing and FPGAs (ReConFig'05) on Reconfigurable Computing and FPGAs, p.16, September 28-30, 2005[doi>10.1109/RECONFIG.2005.27]
+M. Celik, L. Pileggi, and A. Odabasioglu. 2002. IC Interconnect Analysis. Kluwer Academic Publishers, 25-38.
+Jason Cong , Yiping Fan , Junjuan Xu, Simultaneous resource binding and interconnection optimization based on a distributed register-file microarchitecture, ACM Transactions on Design Automation of Electronic Systems (TODAES), v.14 n.3, p.1-31, May 2009[doi>10.1145/1529255.1529257]
+Jason Cong , Yiping Fan , Guoling Han , Xun Yang , Zhiru Zhang, Architectural Synthesis Integrated with Global Placement for Multi-Cycle Communication, Proceedings of the 2003 IEEE/ACM international conference on Computer-aided design, p.536, November 09-13, 2003[doi>10.1109/ICCAD.2003.35]
+Philippe Coussy , Adam Morawiec, High-Level Synthesis: from Algorithm to Digital Circuit, Springer Publishing Company, Incorporated, 2008
+A. E. Dunlop , B. W. Kernighan, A Procedure for Placement of Standard-Cell VLSI Circuits, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.4 n.1, p.92-98, November 2006[doi>10.1109/TCAD.1985.1270101]
+C. M. Fiduccia , R. M. Mattheyses, A linear-time heuristic for improving network partitions, Proceedings of the 19th Design Automation Conference, p.175-181, January 1982
+Michael R. Garey , David S. Johnson, Computers and Intractability: A Guide to the Theory of NP-Completeness, W. H. Freeman & Co., New York, NY, 1979
+GAUT. 2006. GAUT -- High-level synthesis tool. http://hls-labsticc.univ-ubs.fr.
+Zhenyu Gu , Jia Wang , R. P. Dick , Hai Zhou, Unified Incremental Physical-Level and High-Level Synthesis, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.26 n.9, p.1576-1588, September 2007[doi>10.1109/TCAD.2007.895780]
+Chao Huang , S. Ravi , A. Raghunathan , N. K. Jha, Generation of distributed logic-memory architectures through high-level synthesis, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.24 n.11, p.1694-1711, November 2006[doi>10.1109/TCAD.2005.852276]
+Steve C-Y. Huang , Wayne H. Wolf, Performance-driven synthesis in controller-datapath systems, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, v.2 n.1, p.68-80, March 1994[doi>10.1109/92.273151]
+J. Jeon, Y. Ahn, and K. Choi. 2001. CDFG toolkit user's guide. Tech. rep. SNU-EE-TR-2002-8. Department of Electrical Engineering, SeoulNational University. http://dal.snu.ac.kr/index.php/Software/CDFG.
+Daehong Kim , Jinyong Jung , Sunghyun Lee , Jinhwan Jeon , Kiyoung Choi, Behavior-to-placed RTL synthesis with performance-driven placement, Proceedings of the 2001 IEEE/ACM international conference on Computer-aided design, November 04-08, 2001, San Jose, California
+Taemin Kim , Xun Liu, A global interconnect reduction technique during high level synthesis, Proceedings of the 2010 Asia and South Pacific Design Automation Conference, January 18-21, 2010, Taipei, Taiwan
+P. Kollig and B. M. Al-Hashimi. 1997. Simultaneous scheduling, allocation and binding in high level synthesis. Electron. Lett. 33, 18, 1516--1518.
+Vyas Krishnan , Srinivas Katkoori, Clock Period Minimization with Iterative Binding Based on Stochastic Wirelength Estimation during High-Level Synthesis, Proceedings of the 21st International Conference on VLSI Design, p.641-646, January 04-08, 2008[doi>10.1109/VLSI.2008.85]
+Seokhyun Lee , Kiyoung Choi, High-level synthesis with distributed controller for fast timing closure, Proceedings of the International Conference on Computer-Aided Design, November 07-10, 2011, San Jose, California
+Jianbo Li , Mingxia Chen , Jianping Li , Weidong Li, Minimum clique partition problem with constrained weight for interval graphs, Proceedings of the 12th annual international conference on Computing and Combinatorics, August 15-18, 2006, Taipei, Taiwan[doi>10.1007/11809678_48]
+S. Mitra , L. J. Avra , E. J. McCluskey, An output encoding problem and a solution technique, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.18 n.6, p.761-768, November 2006[doi>10.1109/43.766726]
+A. Ohchi, N. Togawa, M. Yanagisawa, and T. Ohtsuki. 2010. Performance-driven high-level synthesis with floorplan for GDR architectures and its evaluation. In Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS). 921--924.
+Chris Papachristou , Yusuf Alzazeri, A method of distributed controller design for RTL circuits, Proceedings of the conference on Design, automation and test in Europe, p.48-es, January 1999, Munich, Germany[doi>10.1145/307418.307495]
+S. Park, K. Kim, H. Chang, J. Jeon, and K. Choi. 1999. Backward-annotation of post-layout delay information into high-level synthesis process for performance optimization. In Proceedings of the 6th International Conference on VLSI and CAD (ICVC). 25--28.
+Andrew Seawright , Wolfgang Meyer, Partitioning and optimizing controllers synthesized from hierarchical high-level descriptions, Proceedings of the 35th annual Design Automation Conference, p.770-775, June 15-19, 1998, San Francisco, California, USA[doi>10.1145/277044.277239]
+SUIF. 1994. The SUIF 1.x Compiler System. http://suif.stanford.edu/suif/suif1/index.html.
+Synopsys. 2010a. Synopsys Design Compiler. http://www.synopsys.com.
+Synopsys. 2010b. Synopsys IC Compiler. http://www.synopsys.com.
+TSMC. 2009. TSMC Standard Cell Libraries. http://www.synopsys.com/dw/tsmc.php.
+G. K. Wallace, The JPEG still picture compression standard, IEEE Transactions on Consumer Electronics, v.38 n.1, p.xviii-xxxiv, February 1992[doi>10.1109/30.125072]
+V. Zivojnovic, J. Martinez, C. Schlger, and H. Meyr. 1994. DSPstone: A DSP-oriented benchmarking methodology. In Proceedings of the International Conference on Signal Processing Applications and Technology (ICSPAT). 715--720.

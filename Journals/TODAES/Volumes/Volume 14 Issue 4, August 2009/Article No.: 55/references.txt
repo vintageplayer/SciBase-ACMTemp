@@ -1,0 +1,35 @@
+Arif Ishaq Abou-Seido , Brian Nowak, Fitted Elmore Delay: A Simple and Accurate Interconnect Delay Model, Proceedings of the 2002 IEEE International Conference on Computer Design: VLSI in Computers and Processors (ICCD'02), p.422, September 16-18, 2002
+Bakoglu, H. 1990. Circuits, Interconnections, and Packaging for VLSI. Addison-Wesley.
+Boese, K. D., Kahng, A. B., McCoy, B. A., and Robins, G. 1993. Fidelity and near-optimality of Elmore-based routing constructions. In ICCAD Digest of Technical Papers, 81--84.
+Shekhar Borkar, Low power design challenges for the decade (invited talk), Proceedings of the 2001 Asia and South Pacific Design Automation Conference, p.293-296, January 2001, Yokohama, Japan[doi>10.1145/370155.370356]
+Israel Cederbaum , Israel Koren , Shmuel Wimer, Balanced block spacing for VLSI layout, Discrete Applied Mathematics, v.40 n.3, p.303-318, Dec. 14, 1992[doi>10.1016/0166-218X(92)90003-S]
+Kamal Chaudhary , Akira Onozawa , Ernest S. Kuh, A spacing algorithm for performance enhancement and cross-talk reduction, Proceedings of the 1993 IEEE/ACM international conference on Computer-aided design, p.697-702, November 07-11, 1993, Santa Clara, California, USA
+Chiluvuri, V. K. R. and Koren, I. 1995. Layout-synthesis techniques for yield enhancement. IEEE Trans. Semiconductor Manufactur. 8, 2, 178--187.
+Pinhong Chen , Desmond A. Kirkpatrick , Kurt Keutzer, Miller factor for gate-level coupling delay calculation, Proceedings of the 2000 IEEE/ACM international conference on Computer-aided design, November 05-09, 2000, San Jose, California
+Shen Lin , John P. Lillis, Interconnect Analysis and Synthesis, John Wiley & Sons, Inc., New York, NY, 1999
+J. Cong , L. He , Cheng-Kok Koh , Zhigang Pan, Interconnect sizing and spacing with consideration of coupling capacitance, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.20 n.9, p.1164-1169, November 2006[doi>10.1109/43.945311]
+Thomas T. Cormen , Charles E. Leiserson , Ronald L. Rivest, Introduction to algorithms, MIT Press, Cambridge, MA, 1990
+Srinivas Devadas , Sharad Malik, A survey of optimization techniques targeting low power VLSI circuits, Proceedings of the 32nd annual ACM/IEEE Design Automation Conference, p.242-247, June 12-16, 1995, San Francisco, California, USA[doi>10.1145/217474.217536]
+Tong Gao , C. L. Liu, Minimum crosstalk channel routing, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.15 n.5, p.465-474, November 2006[doi>10.1109/43.506134]
+Genossar, D. and Shamir, N. 2003. Intel® Pentium® M processor power estimation, budgeting, optimization, and validation. Intel Technol. J. 7, 43--50.
+Narender Hanchate , Nagarajan Ranganathan, A Linear Time Algorithm for Wire Sizing with Simultaneous Optimization of Interconnect Delay and Crosstalk Noise, Proceedings of the 19th International Conference on VLSI Design held jointly with 5th International Conference on Embedded Systems Design, p.283-290, January 03-07, 2006[doi>10.1109/VLSID.2006.11]
+He, J-A and Kobayashi, H. 1998. Simultaneous wire sizing and wire spacing in post-layout performance optimization. In Proceedings of the ASP-DAC Design Automation Conference, 373--378.
+Ho, R., Mai, K., and Horowitz, M. 2001. The future of wires. Proc. IEEE 89, 4, 490--501.
+Hu, T. C. 1969. Integer Programming and Network Flows. Addison Wesley.
+ITRS. 2005. ITTS report. http://www.itrs.net/reports.html
+Jhang, K., Ha, S., and John, C. 1994. A segment rearrangement approach to channel routing under the cross-talk constraints. In Proceedings of the Asia-Pacific Conference on Circuits and Systems, 536--541.
+Andrew B. Kahng , Kei Masuko , Sudhakar Muddu, Analytical delay models for VLSI interconnects under ramp input, Proceedings of the 1996 IEEE/ACM international conference on Computer-aided design, p.30-36, November 10-14, 1996, San Jose, California, USA
+Chen Li , Min Xie , Cheng-Kok Koh , J. Cong , P. H. Madden, Routability-Driven Placement and White Space Allocation, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.26 n.5, p.858-871, May 2007[doi>10.1109/TCAD.2006.884575]
+Luenberger, D. G. 1984. Linear and Nonlinear Programming. Addison Wesley, Chapter 6.5.
+Enrico Macii , Massimo Poncino , Sabino Salerno, Combining wire swapping and spacing for low-power deep-submicron buses, Proceedings of the 13th ACM Great Lakes symposium on VLSI, April 28-29, 2003, Washington, D. C., USA[doi>10.1145/764808.764859]
+Nir Magen , Avinoam Kolodny , Uri Weiser , Nachum Shamir, Interconnect-power dissipation in a microprocessor, Proceedings of the 2004 international workshop on System level interconnect prediction, February 14-15, 2004, Paris, France[doi>10.1145/966747.966750]
+Miyoshi, T., Wakabayashi, S., Koide, T., and Yoshida, N., 1995. An MCM routing algorithm considering crosstalk. In Proceedings of the International Symposium on Circuits and Systems, 211--214.
+Mui, M. L., Benerjee, K., and Mehortra, A. 2004. A global interconnect optimization scheme for nanometer scale VLSI with implications for latency, bandwidth, and power dissipation. IEEE Trans. Electon. Devices 51, 2, 195--203.
+A. Onozawa , K. Chaudhary , E. S. Kuh, Performance driven spacing algorithms using attractive and repulsive constraints for submicron LSI's, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.14 n.6, p.707-719, November 2006[doi>10.1109/43.387731]
+P. Saxena , C. L. Liu, A postprocessing algorithm for crosstalk-driven wire perturbation, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.19 n.6, p.691-702, November 2006[doi>10.1109/43.848090]
+Seshu, S. and Reed, M. B. 1961. Linear Graphs and Electrical Networks. Addison-Wesley, Reading, MA.
+Dennis Sylvester , Kurt Keutzer, Getting to the bottom of deep submicron, Proceedings of the 1998 IEEE/ACM international conference on Computer-aided design, p.203-211, November 08-12, 1998, San Jose, California, USA[doi>10.1145/288548.288614]
+D. Wang , E. S. Kuh, A performance-driven MCM router with special consideration of crosstalk reduction, Proceedings of the conference on Design, automation and test in Europe, p.466-470, February 23-26, 1998, Le Palais des Congrés de Paris, France
+Wimer, S., Koren, I., and Cederbaum, I. 1988. Floorplans, planar graphs, and layout. IEEE Trans. Circ. Syst. 35, 3, 267--278.
+Wimer, S., Michaely, S., Moiseev, K., and Kolodny, A. 2006. Optimal bus sizing in migration of processor design. IEEE Trans. Circ. Syst. I 53, 5, 1089--1100.
+Xtreme. A Wire Spacing Tool for Manufacturing Yield Enhancement. Sagantec.

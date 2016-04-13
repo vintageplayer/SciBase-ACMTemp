@@ -1,0 +1,35 @@
+AMD 2008.ATI Stream Technology. AMD.
+J. Babb , R. Tessier , M. Dahl , S. Z. Hanono , D. M. Hoki , A. Agarwal, Logic emulation with virtual wires, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.16 n.6, p.609-626, November 2006[doi>10.1109/43.640619]
+Baker, W., Mahmood, A., and Carlson, B.1996. Parallel event-driven logic simulation algorithms: tutorial and comparative evaluation.IEEE J. Circ. Devices Syst. 143,4, 177--185.
+Barzilai, Z., Carter, J., Rosen, B., and Rutledge, J.1987. HSS--A high-speed simulator.IEEE Trans. Comput.-Aid. Des. 6,4, 601--617.
+Bauer, H. and Sporrer, C.1993. Reducing rollback overhead in time-warp based distributed simulation with optimized incremental state saving. InProceedings of the Annual Simulation Symposium. 12--20.
+Orna Berry , Greg Lomow, Speeding up distributed simulation using the time warp mechanism, Proceedings of the 2nd workshop on Making distributed systems work, p.1-14, September 08-10, 1986, Amsterdam, Netherlands[doi>10.1145/503956.503964]
+R. E. Bryant , D. Beatty , K. Brace , K. Cho , T. Sheffler, COSMOS: a compiled simulator for MOS circuits, Proceedings of the 24th ACM/IEEE Design Automation Conference, p.9-16, June 28-July 01, 1987, Miami Beach, Florida, USA[doi>10.1145/37888.37890]
+K. M. Chandy , J. Misra, Asynchronous distributed simulation via a sequence of parallel computations, Communications of the ACM, v.24 n.4, p.198-206, April 1981[doi>10.1145/358598.358613]
+Debapriya Chatterjee , Andrew DeOrio , Valeria Bertacco, Event-driven gate-level simulation with GP-GPUs, Proceedings of the 46th Annual Design Automation Conference, July 26-31, 2009, San Francisco, California[doi>10.1145/1629911.1630056]
+Debapriya Chatterjee , Andrew DeOrio , Valeria Bertacco, GCS: high-performance gate-level simulation with GP-GPUs, Proceedings of the Conference on Design, Automation and Test in Europe, April 20-24, 2009, Nice, France
+Yangdong (Steve) Deng , Bo David Wang , Shuai Mu, Taming irregular EDA applications on GPUs, Proceedings of the 2009 International Conference on Computer-Aided Design, November 02-05, 2009, San Jose, California[doi>10.1145/1687399.1687501]
+Monty M. Denneau, The Yorktown Simulation Engine, Proceedings of the 19th Design Automation Conference, p.55-59, January 1982
+Don Edenfeld , Andrew B. Kahng , Mike Rodgers , Yervant Zorian, 2003 Technology Roadmap for Semiconductors, Computer, v.37 n.1, p.47-56, January 2004[doi>10.1109/MC.2004.1260725]
+Edward H. Frank, Exploiting parallelism in a switch-level simulation machine, Proceedings of the 23rd ACM/IEEE Design Automation Conference, p.20-26, July 1986, Las Vegas, Nevada, USA
+Richard M. Fujimoto, Parallel discrete event simulation, Communications of the ACM, v.33 n.10, p.30-53, Oct. 1990[doi>10.1145/84537.84545]
+Kanupriya Gulati , Sunil P. Khatri, Towards acceleration of fault simulation using graphics processing units, Proceedings of the 45th annual Design Automation Conference, June 08-13, 2008, Anaheim, California[doi>10.1145/1391469.1391679]
+Kanupriya Gulati , Sunil P. Khatri, Accelerating statistical static timing analysis using graphics processing units, Proceedings of the 2009 Asia and South Pacific Design Automation Conference, January 19-22, 2009, Yokohama, Japan
+Kanupriya Gulati , John F. Croix , Sunil P. Khatr , Rahm Shastry, Fast circuit simulation on graphics processing units, Proceedings of the 2009 Asia and South Pacific Design Automation Conference, January 19-22, 2009, Yokohama, Japan
+Sankaran Karthik , Jacob A. Abraham, Distributed VLSI Simulation on a Network of Workstations, Proceedings of the 1991 IEEE International Conference on Computer Design on VLSI in Computer & Processors, p.508-511, October 11-14, 1992
+Khronos Group. 2011. Khronos group. http://www.khronos.org/.
+Hong K. Kim , Soon Myoung Chung, Parallel Logic Simulation Using Time Warp on Shared-Memory Multiprocessors, Proceedings of the 8th International Symposium on Parallel Processing, p.942-948, April 01, 1994
+Young-Il Kim , Wooseung Yang , Young-Su Kwon , Chong-Min Kyung, Communication-efficient hardware acceleration for fast functional simulation, Proceedings of the 41st annual Design Automation Conference, June 07-11, 2004, San Diego, CA, USA[doi>10.1145/996566.996654]
+Lewis, D.1991. A hierarchical compiled code event-driven logic simulator.IEEE Trans. Comput.-Aid. Des. 10,6, 726--737.
+Yifang Liu , Jiang Hu, GPU-based parallelization for fast circuit optimization, Proceedings of the 46th Annual Design Automation Conference, July 26-31, 2009, San Francisco, California[doi>10.1145/1629911.1630153]
+Naraig Manjikian , Wayne M. Loucks, High performance parallel logic simulations on a network of workstations, Proceedings of the seventh workshop on Parallel and distributed simulation, p.76-84, May 16-19, 1993, San Diego, California, USA[doi>10.1145/158459.158469]
+Matsumoto, Y. and Taki, K.1992. Parallel logic simulation on a distributed memory machine. InProceedings of the European Design Automation Conference. 76--80.
+Meister, G.1993. A survey on parallel logic simulation. Tech. rep., Department of Computer Science, University of Saarland.
+Jayadev Misra, Distributed discrete-event simulation, ACM Computing Surveys (CSUR), v.18 n.1, p.39-65, March 1986[doi>10.1145/6462.6485]
+NVIDIA. 2007.CUDA Compute Unified Device Architecture. NVIDIA.
+OpenCores. 2011. http://www.opencores.org/.
+OpenSPARC. 2011. Sun Microsystems OpenSPARC. http://opensparc.net/.
+Perinkulam, A. and Kundu, S.2007. Logic simulation using graphics processors. InProceedings of the International Test Synthesis Workshop.
+Jin Shi , Yici Cai , Wenting Hou , Liwei Ma , Sheldon X.-D. Tan , Pei-Hsin Ho , Xiaoyi Wang, GPU friendly fast Poisson solver for structured power grid network analysis, Proceedings of the 46th Annual Design Automation Conference, July 26-31, 2009, San Francisco, California[doi>10.1145/1629911.1629961]
+Smith, S., Underwood, W., and Mercer, M. R.1987. An analysis of several approaches to circuit partitioning for parallel logic simulation. InProceedings of the International Conference on Computer Design. 664--667.
+Larry Soulé , Tom Blank, Parallel logic simulation on general purpose machines, Proceedings of the 25th ACM/IEEE Design Automation Conference, p.166-171, June 12-15, 1988, Atlantic City, New Jersey, USA

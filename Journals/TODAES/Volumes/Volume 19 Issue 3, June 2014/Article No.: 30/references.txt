@@ -1,0 +1,36 @@
+Aseem Agarwal , David Blaauw , Vladimir Zolotov, Statistical Clock Skew Analysis Considering Intra-Die Process Variations, Proceedings of the 2003 IEEE/ACM international conference on Computer-aided design, p.914, November 09-13, 2003[doi>10.1109/ICCAD.2003.128]
+S. Bhunia, and S. Mukhopadhyay. 2011. Low-Power Variation-Tolerant Design in Nanometer Silicon. Springer.
+M. Celik, L. Pileggi, and A. Odabasioglu. 2002. IC Interconnect Analysis. Springer.
+P. Chakrabarti, V. Bhatt, D. Hill, and A. Cao. 2012. Clock mesh framework. In Proceedings of the IEEE International Symposium on Quality Electronic Design. 381--386.
+Hongliang Chang , S. S. Sapatnekar, Statistical timing analysis under spatial correlations, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.24 n.9, p.1467-1482, November 2006[doi>10.1109/TCAD.2005.850834]
+T.-H. Chao, Y.-C. Hsu, J.-M. Ho, K. D. Boese, and A. B. Kahng. 1992. Zero-skew clock routing with minimum wirelength. IEEE Trans. Circ. Syst. 39, 11, 799--814.
+H. Chen , C. Yeh , G. Wilke , S. Reddy , H. Nguyen , W. Walker , R. Murgai, A sliding window scheme for accurate clock mesh analysis, Proceedings of the 2005 IEEE/ACM International conference on Computer-aided design, p.939-946, November 06-10, 2005, San Jose, CA
+Minsik Cho , David Z. Pan , Ruchir Puri, Novel binary linear programming for high performance clock mesh synthesis, Proceedings of the International Conference on Computer-Aided Design, November 07-11, 2010, San Jose, California
+Jason Cong , Andrew B. Kahng , Cheng-Kok Koh , C.-W. Albert Tsao, Bounded-skew clock and Steiner routing, ACM Transactions on Design Automation of Electronic Systems (TODAES), v.3 n.3, p.341-388, July 1998[doi>10.1145/293625.293628]
+Timothy A. Davis, A column pre-ordering strategy for the unsymmetric-pattern multifrontal method, ACM Transactions on Mathematical Software (TOMS), v.30 n.2, p.165-195, June 2004[doi>10.1145/992200.992205]
+Masato Edahiro, A clustering-based optimization algorithm in zero-skew routings, Proceedings of the 30th international Design Automation Conference, p.612-616, June 14-18, 1993, Dallas, Texas, USA[doi>10.1145/157485.165066]
+Matthew R. Guthaus , Xuchu Hu , Gustavo Wilke , Guilherme Flach , Ricardo Reis, High-performance clock mesh optimization, ACM Transactions on Design Automation of Electronic Systems (TODAES), v.17 n.3, p.1-17, June 2012[doi>10.1145/2209291.2209306]
+ISCAS. 1989. Placement of ISCAS89 benchmark circuits. http://www.ece.wisc.edu/vlsi/tools/iscasplacement/index.html.
+ISPD. 2010. ISPD 2010 clock network synthesis contest. http://archive.sigda.org/ispd/contests/10/ispd10cns. html.
+Michael A. B. Jackson , Arvind Srinivasan , E. S. Kuh, Clock routing for high-performance ICs, Proceedings of the 27th ACM/IEEE Design Automation Conference, p.573-579, June 24-27, 1990, Orlando, Florida, USA[doi>10.1145/123186.123406]
+Andrew B. Kahng , C.-W. Albert Tsao, Practical Bounded-Skew Clock Routing, Journal of VLSI Signal Processing Systems, v.16 n.2/3, p.199-215, June/July 1997[doi>10.1023/A:1007995125716]
+B. W. Kernighan and S. Lin. 1970. An efficient heuristic procedure for partitioning graphs. Bell Syst. Tech. J. 49, 1, 291--307.
+W.-C. D. Lam , J. Jain , C.-K. Koh , V. Balakrishnan , Y. Chen, Statistical based link insertion for robust clock network design, Proceedings of the 2005 IEEE/ACM International conference on Computer-aided design, p.588-591, November 06-10, 2005, San Jose, CA
+Ying Liu , Sani R. Nassif , Lawrence T. Pileggi , Andrzej J. Strojwas, Impact of interconnect variations on the clock skew of a gigahertz microprocessor, Proceedings of the 37th Annual Design Automation Conference, p.168-171, June 05-09, 2000, Los Angeles, California, USA[doi>10.1145/337292.337365]
+Jianchao Lu , Xiaomi Mao , Baris Taskin, Integrated Clock Mesh Synthesis With Incremental Register Placement, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.31 n.2, p.217-227, February 2012[doi>10.1109/TCAD.2011.2173491]
+Impact Analysis of Process Variability on Clock Skew, Proceedings of the 3rd International Symposium on Quality Electronic Design, p.129, March 18-21, 2002
+V. Mehrotra and D. Boning. 2001. Technology scaling impact of variation on clock skew and interconnect delay. In Proceedings of the IEEE International Interconnect Technology Conference. 122--124.
+U. Padmanabhan , J. M. Wang , J. Hu, Robust Clock Tree Routing in the Presence of Process Variations, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.27 n.8, p.1385-1397, August 2008[doi>10.1109/TCAD.2008.925776]
+PTM. 2011. Predictive technology model. http://ptm.asu.edu/.
+A. Rajaram , Jiang Hu , R. Mahapatra, Reducing clock skew variability via crosslinks, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.25 n.6, p.1176-1182, June 2006[doi>10.1109/TCAD.2005.855928]
+Anand Rajaram , David Z. Pan, Meshworks: a comprehensive framework for optimized clock mesh network synthesis, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.29 n.12, p.1945-1958, December 2010[doi>10.1109/TCAD.2010.2061130]
+R. J. Restle, T. G. Mcnamara, D. A. Webber, P. J. Camporese, K. F. Eng, et al. 2001. A clock distribution network for microprocessors. IEEE J. Solid-State Circ. 36, 5, 792--799.
+R. A. Rohrer. 1988. Circuit partitioning simplified. IEEE Trans. Circ. Syst. 35, 1, 2--5.
+Chung-wen Albert Tsao , Cheng-kok Koh, UST/DME: a clock tree router for general skew constraints, ACM Transactions on Design Automation of Electronic Systems (TODAES), v.7 n.3, p.359-379, July 2002[doi>10.1145/567270.567271]
+R. -S. Tsay, An exact zero-skew clock routing algorithm, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.12 n.2, p.242-249, November 2006[doi>10.1109/43.205004]
+Ganesh Venkataraman , Zhuo Feng , Jiang Hu , Peng Li, Combinatorial algorithms for fast clock mesh optimization, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, v.18 n.1, p.131-141, January 2010[doi>10.1109/TVLSI.2008.2007737]
+Vineet Wason , Rajeev Murgai , WilliamW. Walker, An Efficient Uncertainty- and Skew-aware Methodology for Clock Tree Synthesis and Analysis, Proceedings of the 20th International Conference on VLSI Design held jointly with 6th International Conference: Embedded Systems, p.271-277, January 06-10, 2007[doi>10.1109/VLSID.2007.33]
+Joe Gufeng Xi , Wayne Wei-Ming Dai, Useful-Skew Clock Routing with Gate Sizing for Low Power Design, Journal of VLSI Signal Processing Systems, v.16 n.2/3, p.163-179, June/July 1997[doi>10.1023/A:1007939023899]
+Joon-Sung Yang , Anand Rajaram , Ninghy Shi , Jian Chen , David Z. Pan, Sensitivity Based Link Insertion for Variation Tolerant Clock Network Synthesis, Proceedings of the 8th International Symposium on Quality Electronic Design, p.398-403, March 26-28, 2007[doi>10.1109/ISQED.2007.142]
+S. Zanella, A. Nardi, A. Neviani, M. Quarantelli, S. Saxena, and C. Guardiani. 2000. Analysis of the impact of process variations on clock skew. IEEE Trans. Semiconductor Manufact. 13, 4, 401--407.
+Yu Zhong , M. D. F. Wong, Fast Placement Optimization of Power Supply Pads, Proceedings of the 2007 Asia and South Pacific Design Automation Conference, p.763-767, January 23-26, 2007[doi>10.1109/ASPDAC.2007.358081]

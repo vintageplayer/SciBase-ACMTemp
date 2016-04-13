@@ -1,0 +1,33 @@
+Nadav Amit , Muli Ben-Yehuda , Dan Tsafrir , Assaf Schuster, vIOMMU: efficient IOMMU emulation, Proceedings of the 2011 USENIX conference on USENIX annual technical conference, p.6-6, June 15-17, 2011, Portland, OR
+Nadav Amit , Muli Ben-Yehuda , Ben-Ami Yassour, IOMMU: strategies for mitigating the IOTLB bottleneck, Proceedings of the 2010 international conference on Computer Architecture, June 19-23, 2010, Saint-Malo, France[doi>10.1007/978-3-642-24322-6_22]
+Roberto Ammendola, Andrea Biagioni, Ottorino Frezza, Francesca Lo Cicero, Alessandro Lonardo, Pier Stanislao Paolucci, Davide Rossetti, Francesco Simula, Laura Tosoratto, and Piero Vicini. 2013. Virtual-to-physical address translation for an FPGA-based interconnect with host and GPU remote DMA capabilities. In Proceedings of the International Conference on Field-Programmable Technology (FPT'13). 58--65.
+ARM Architecture. 2014. Cortex-A9 technical reference manual. http://infocenter.arm.com/help/topic/com.arm.doc.ddi0388i/DDI0388I_cortexa9_r4p1_trm.pdf.
+Emery D. Berger , Kathryn S. McKinley , Robert D. Blumofe , Paul R. Wilson, Hoard: a scalable memory allocator for multithreaded applications, Proceedings of the ninth international conference on Architectural support for programming languages and operating systems, p.117-128, November 2000, Cambridge, Massachusetts, USA[doi>10.1145/378993.379232]
+CMA. 2012. A deep dive into CMA. http://lwn.net/Articles/486301/.
+Jonathan Corbet. 2010. Memory compaction (2010). http://lwn.net/Articles/368869/.
+Google. 2014a. ActivityManager. http://developer.android.com/reference/android/app/ActivityManager.html.
+Google. 2014b. Android.os.Binder. http://developer.android.com/reference/android/os/Binder.html.
+Google. 2014c. Camera HAL overview. https://source.android.com/devices/camera/camera.html.
+Google. 2014d. Graphics. https://source.android.com/devices/graphics.html.
+Google. 2014e. Monkeyrunner. http://developer.android.com/tools/help/monkeyrunner concepts.html.
+Jean-Pierre Henot, M. Ropert, Julien Le Tanou, Jean K, and Thomas Guionnet. 2013. High efficiency video coding (HEVC): Replacing or complementing existing compression standards. In Proceedings of the IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB'13).
+Hiroshi Inoue , Hideaki Komatsu , Toshio Nakatani, A study of memory management for web-based applications on multicore processors, Proceedings of the 30th ACM SIGPLAN Conference on Programming Language Design and Implementation, June 15-21, 2009, Dublin, Ireland[doi>10.1145/1542476.1542520]
+IOzone. 2006. IOzone filesystem benchmark. http://www.iozone.org/.
+Jinkyu Jeong , Hwanju Kim , Jeaho Hwang , Joonwon Lee , Seungryoul Maeng, DaaC: device-reserved memory as an eviction-based file cache, Proceedings of the 2012 international conference on Compilers, architectures and synthesis for embedded systems, October 07-12, 2012, Tampere, Finland[doi>10.1145/2380403.2380439]
+Jinkyu Jeong , Hwanju Kim , Jeaho Hwang , Joonwon Lee , Seungryoul Maeng, Rigorous rental memory management for embedded systems, ACM Transactions on Embedded Computing Systems (TECS), v.12 n.1s, March 2013[doi>10.1145/2435227.2435239]
+Mark S. Johnstone , Paul R. Wilson, The memory fragmentation problem: solved?, Proceedings of the 1st international symposium on Memory management, p.26-36, October 17-19, 1998, Vancouver, British Columbia, Canada[doi>10.1145/286860.286864]
+Igor Kalkov , Dominik Franke , John F. Schommer , Stefan Kowalewski, A real-time extension to the Android platform, Proceedings of the 10th International Workshop on Java Technologies for Real-time and Embedded Systems, October 24-26, 2012, Copenhagen, Denmark[doi>10.1145/2388936.2388955]
+Myung-Jin Lee, Joo-Yong Oh, and Soon-Ju Kang. 2011. Design of multimedia stream channel arbiter in home network gateway. IEEE Trans. Consumer Electron. 57, 4, 1661--1669.
+Linaro. 2013. ION interface and memory allocator. https://wiki.linaro.org/BenjaminGaignard/ion.
+Robert Love. 2004. I/O scheduler. http://www.linuxjournal.com/article/6931.
+Robert Love, Linux Kernel Development, Addison-Wesley Professional, 2010
+Lwnnet. 2012. The Android ION memory allocator. http://lwn.net/Articles/480055/.
+M. Masmano , I. Ripoll , A. Crespo , J. Real, TLSF: A New Dynamic Memory Allocator for Real-Time Systems, Proceedings of the 16th Euromicro Conference on Real-Time Systems, p.79-86, June 30-July 02, 2004[doi>10.1109/ECRTS.2004.35]
+Rivalino Matias, Tais Ferreira, and Autran Macedo. 2011. An experimental study on user-level memory allocators in middleware applications. In Proceedings of the IEEE International Conference on Systems, Man, and Cybernetics (SMC'11). 2431--2436.
+M. Ramakrishna, Jisung Kim, Woohyong Lee, and Youngki Chung. 2008. Smart dynamic memory allocator for embedded systems. In Proceedings of the 23<sup>rd</sup> International Symposium on Computer and Information Sciences (ISCIS'08). 1--6.
+SPEC CPU2006. 2014. SPEC's benchmarks and published results. http://www.spec.org/benchmarks/html.
+Sysbench. 2014. SysBench: A system performance benchmark. https://launchpad.net/sysbench.
+Sumesh Udayakumaran , Angel Dominguez , Rajeev Barua, Dynamic allocation for scratch-pad memory using compile-time decisions, ACM Transactions on Embedded Computing Systems (TECS), v.5 n.2, p.472-511, May 2006[doi>10.1145/1151074.1151085]
+Guibin Wang , Wei Song, Communication-Aware Task Partition and Voltage Scaling for Energy Minimization on Heterogeneous Parallel Systems, Proceedings of the 2011 12th International Conference on Parallel and Distributed Computing, Applications and Technologies, p.327-333, October 20-22, 2011[doi>10.1109/PDCAT.2011.28]
+WU Fengguang , XI Hongsheng , XU Chenfeng, On the design of a new Linux readahead framework, ACM SIGOPS Operating Systems Review, v.42 n.5, p.75-84, July 2008[doi>10.1145/1400097.1400106]
+Chia-Hao Yu, Chung-Kai Liu, Chih-Heng Kang, Tsun-Hsien Wang, Chih-Chien Shen, and Shau-Yin Tseng. 2007. An efficient DMA controller for multimedia application in MPU based SOC. In Proceedings of the International Conference on Multimedia and Expo (ICME'07). 80--83.

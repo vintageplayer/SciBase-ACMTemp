@@ -1,0 +1,33 @@
+Seyed-Abdollah Aftabjahani , Linda Milor, Timing analysis with compact variation-aware standard cell models, Integration, the VLSI Journal, v.42 n.3, p.312-320, June, 2009[doi>10.1016/j.vlsi.2008.11.008]
+Aseem Agarwal , David Blaauw , Vladimir Zolotov, Statistical Timing Analysis for Intra-Die Process Variations with Spatial Correlations, Proceedings of the 2003 IEEE/ACM international conference on Computer-aided design, p.900, November 09-13, 2003[doi>10.1109/ICCAD.2003.130]
+Aseem Agarwal , Florentin Dartu , David Blaauw, Statistical gate delay model considering multiple input switching, Proceedings of the 41st annual Design Automation Conference, June 07-11, 2004, San Diego, CA, USA[doi>10.1145/996566.996746]
+R. Aitken. 2008. Defect or variation? Characterizing standard cell behavior at 90 nm and below. IEEE Trans. Semicond. Manuf. 21, 1, 46--54.
+Chirayu Amin , Chandramouli Kashyap , Noel Menezes , Kip Killpack , Eli Chiprout, A multi-port current source model for multiple-input switching effects in CMOS library cells, Proceedings of the 43rd annual Design Automation Conference, July 24-28, 2006, San Francisco, CA, USA[doi>10.1145/1146909.1146974]
+D. Blaauw , K. Chopra , A. Srivastava , L. Scheffer, Statistical Timing Analysis: From Basic Principles to State of the Art, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.27 n.4, p.589-607, April 2008[doi>10.1109/TCAD.2007.907047]
+Y. Cao, T. Sato, X. Huang, C. Hu, and D. Sylvester. 2000. New approaches to noise-aware static timing analysis. In Proceedings of TAU.
+A. Chatzigeorgiou , S. Nikolaidis , I. Tsoukalas, A modeling technique for CMOS gates, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.18 n.5, p.557-575, November 2006[doi>10.1109/43.759070]
+Seung Hoon Choi , Kunhyuk Kang , Florentin Dartu , Kaushik Roy, Timed input pattern generation for an accurate delay calculation under multiple input switching, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.29 n.3, p.497-501, March 2010[doi>10.1109/TCAD.2009.2035482]
+Cristiano Forzan , Davide Pandini, Statistical static timing analysis: A survey, Integration, the VLSI Journal, v.42 n.3, p.409-435, June, 2009[doi>10.1016/j.vlsi.2008.10.002]
+Takayuki Fukuoka , Akira Tsuchiya , Hidetoshi Onodera, Statistical gate delay model for multiple input switching, Proceedings of the 2008 Asia and South Pacific Design Automation Conference, January 21-24, 2008, Seoul, Korea
+R. Garg, N. Jayakumar, and S. P. Khatri. 2007. On the improvement of statistical timing analysis. In Proceedings of ICCD. 37--42.
+N. Hedenstierna , K. O. Jeppson, CMOS Circuit Speed and Buffer Optimization, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.6 n.2, p.270-281, November 2006[doi>10.1109/TCAD.1987.1270271]
+ISCAS circuits. http://dropzone.tamu.edu/∼xiang/iscas.html.
+ITRS: International technology roadmap for semiconductors. http://public.itrs.net.
+Y. Jun, K. Jun, and S. Park. 1989. An accurate and efficient delay time modeling for MOS logic circuits using polynomial approximation. IEEE J. Technol. Computer Aided Des. 8, 9, 1027--1032.
+G. Jung, S. Hong, D. Lee, J. Park, S. Yi, Y. Kwon, U. Cho, and S. B. Park. 2008. Skew variation compensation technique for a clock mesh network. In Proceedings of APCCAS. 894--897.
+A. Kabbani, D. Al-Khalili, and A. J. Al-Khalili. 2004. Delay macro modeling of CMOS gates using modified logical effort technique. In Proceedings of ICSE. 56--60.
+A. I. Kayssi, K. A. Sakallah, and T. N. Mudge. 1993. The impact of signal transition time on path delay computation. IEEE Trans. Circuits Syst. II, Analog Digit. Signal Process. 40, 302--309.
+NANGATE standard cell library. http://www.nangate.com/.
+PRIMETIME Fundamentals. https://solvnet.synopsys.com/dow_retrieve/latest/ptug/ptug.html.
+PTM. Predictive technology model. http://ptm.asu.edu/.
+T. Sakurai and A. R. Newton. 1990. Alpha-power law MOSFET model and its applications to CMOS inverter delay and other formulas. IEEE J. Solid-State Circuits 25, 2, 584--594.
+S. Gummalla, A. R. Subramaniam, Y. Cao, and C. Chakrabarti. 2012. An analytical approach to efficient circuit variability analysis in scaled CMOS design. In Proceedings of ISQED. 641--647.
+J. Shin, J. Kim, N. Jang, E. Park, and Y. Choi. 2009. A gate delay model considering temporal proximity of multiple input switching. In Proceedings of ISOCC. 577--580.
+Silvaco cell characterization concepts. http://www.silvaco.com/content/kbase/cell_char_intro_090508.pdf.
+D. Sinha , Hai Zhou, A unified framework for statistical timing analysis with coupling and multiple input switching, Proceedings of the 2005 IEEE/ACM International conference on Computer-aided design, p.837-843, November 06-10, 2005, San Jose, CA
+Jayashree Sridharan , Tom Chen, Gate Delay Modeling with Multiple Input Switching for Static (Statistical) Timing Analysis, Proceedings of the 19th International Conference on VLSI Design held jointly with 5th International Conference on Embedded Systems Design, p.323-328, January 03-07, 2006[doi>10.1109/VLSID.2006.92]
+Savithri Sundareswaran , Jacob A. Abraham , Alexandre Ardelea , Rajendran Panda, Characterization of Standard Cells for Intra-Cell Mismatch Variations, Proceedings of the 9th international symposium on Quality Electronic Design, p.213-219, March 17-19, 2008
+Rajeshwary Tayade , Sani Nassif , Jacob Abraham, Analytical model for the impact of multiple input switching noise on timing, Proceedings of the 2008 Asia and South Pacific Design Automation Conference, January 21-24, 2008, Seoul, Korea
+G. Venkataraman , N. Jayakumar , J. Hu , P. Li , Sunil Khatri , Anand Rajaram , P. McGuinness , C. Alpert, Practical techniques to reduce skew and its variations in buffered clock networks, Proceedings of the 2005 IEEE/ACM International conference on Computer-aided design, p.592-596, November 06-10, 2005, San Jose, CA
+A. Wortmann, S. Simon, W. Bergholz, M. Muller, and D. Mader. 2003. Static timing analysis with rigorous exploitation of setup time margins. In Proceedings of Midwest Symposium on Circuits and Systems, 3. 1396--1399.
+S. Yanamanamanda, J. Li, and J. Wang. 2005. Uncertainty modeling of gate delay considering multiple input switching. In Proceedings of ISCAS Circuits and Systems, 3. 2457--2460.

@@ -1,0 +1,2 @@
+In this paper, we consider the delay minimization problem of an 
+interconnect wire by simultaneously considering buffer insertion, buffer sizing and wire sizing. We consider three cases, namely using no buffer (i.e., wire sizing alone), using a given number of buffers, and using the optimal number of buffers. We provide elegant closed form optimal solutions for all three problems. These closed form solutions are useful in early stages of the VLSI design flow such as logic synthesis and floorplanning.

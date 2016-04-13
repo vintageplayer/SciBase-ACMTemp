@@ -1,0 +1,33 @@
+Levent Aksov , Eduardo Costa , Paulo Flores , Jose Monteir, Optimization of area in digital FIR filters using gate-level metrics, Proceedings of the 44th annual Design Automation Conference, June 04-08, 2007, San Diego, California[doi>10.1145/1278480.1278588]
+L. Aksoy , E. da Costa , P. Flores , J. Monteiro, Exact and Approximate Algorithms for the Optimization of Area and Delay in Multiple Constant Multiplications, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.27 n.6, p.1013-1026, June 2008[doi>10.1109/TCAD.2008.923242]
+Levent Aksoy , Ece Olcay Güneş , Paulo Flores, Search algorithms for the multiple constant multiplications problem: Exact and approximate, Microprocessors & Microsystems, v.34 n.5, p.151-162, August, 2010[doi>10.1016/j.micpro.2009.10.001]
+Fadi A. Aloul , Arathi Ramani , Igor L. Markov , Karem A. Sakallah, Generic ILP versus specialized 0-1 ILP: an update, Proceedings of the 2002 IEEE/ACM international conference on Computer-aided design, p.450-457, November 10-14, 2002, San Jose, California[doi>10.1145/774572.774638]
+Arash Arfaee , Ali Irturk , Nikolay Laptev , Farzan Fallah , Ryan Kastner, Xquasher: a tool for efficient computation of multiple linear expressions, Proceedings of the 46th Annual Design Automation Conference, July 26-31, 2009, San Francisco, California[doi>10.1145/1629911.1629980]
+Avizienis, A.1961. Signed-digit number representation for fast parallel arithmetic.IRE Trans. Electronic Comput. EC-10, 389--400.
+Barth, P.1995. A Davis-Putnam based enumeration algorithm for linear pseudo-Boolean optimization. Tech. rep., Max-Planck-Institut fur Informatik.
+Nicolas Boullis , Arnaud Tisserand, Some Optimizations of Hardware Multiplication by Constant Matrices, IEEE Transactions on Computers, v.54 n.10, p.1271-1282, October 2005[doi>10.1109/TC.2005.168]
+Cappello, P. and Steiglitz, K.1984. Some complexity issues in digital signal processing.IEEE Trans. Acoustics, Speech, Signal Process. 32, 5, 1037--1041.
+Olivier Coudert, On solving covering problems, Proceedings of the 33rd annual Design Automation Conference, p.197-202, June 03-07, 1996, Las Vegas, Nevada, USA[doi>10.1145/240518.240555]
+Dempster, A. and Macleod, M.1995. Use of minimum-adder multiplier blocks in FIR digital filters.IEEE Trans. Circuits Syst. II 42, 9, 569--577.
+A.G. Dempster , N.P. Murphy, Efficient interpolators and filter banks using multiplier blocks, IEEE Transactions on Signal Processing, v.48 n.1, p.257-261, January 2000[doi>10.1109/78.815498]
+Dempster, A., Gustafsson, O., and Coleman, J.2003. Towards an algorithm for matrix multiplier blocks. InProceedings of IEEE European Conference on Circuit Theory and Design. IEEE, Los Alamitos, CA, 1--4.
+Een, N. and Sorensson, N.2006. Translating pseudo-Boolean constraints into SAT.J. Satisfiability, Boolean Model. Comput. 2, 1--26.
+Ercegovac, M. and Lang, T.2003.Digital Arithmetic. Morgan Kaufmann.
+Faust, M. and Chang, C.-H.2010. Minimal logic depth adder tree optimization for multiple constant multiplication. InProceedings of IEEE International Symposium on Circuits and Systems. IEEE, Los Alamitos, CA, 457--460.
+Garner, H.1965. Number systems and arithmetic.Advances Comput. 6, 131--194.
+Gustafsson, O.2007. Lower bounds for constant multiplication problems.IEEE Trans. Circuits Syst. II: Analog Digital Signal Process. 54, 11, 974--978.
+Gustafsson, O., Dempster, A., and Wanhammar, L.2002. Extended results for minimum-adder constant integer multipliers. InProceedings of IEEE International Symposium on Circuits and Systems. 73--76.
+Gustafsson, O., Ohlsson, H., and Wanhammar, L.2004. Low-complexity constant coefficient matrix multiplication using a minimum spanning tree. InProceedings of Nordic Signal Processing Symposium. 141--144.
+Hartley, R.1996. Subexpression sharing in filters using canonic signed digit multipliers.IEEE Trans. Circuits Syst. II 43, 10, 677--688.
+Anup Hosangadi , Farzan Fallah , Ryan Kastner, Reducing hardware complexity of linear DSP systems by iteratively eliminating two-term common subexpressions, Proceedings of the 2005 Asia and South Pacific Design Automation Conference, January 18-21, 2005, Shanghai, China[doi>10.1145/1120725.1120953]
+Hou, H.1987. A fast recursive algorithm for computing the discrete cosine transform.IEEE Trans. Acoustics, Speech, Signal Process. 35, 10, 1444--1461.
+Larrabee, T.1992. Test pattern generation using Boolean satisfiability.IEEE Trans. Computer-Aid. Des. Integrat. Circuits 11, 1, 4--15.
+Lefevre, V.2001. Multiplication by an integer constant. Tech. rep., Institut National de Recherche en Informatique et en Automatique.
+K. Muhammad , K. Roy, A graph theoretic approach for synthesizing very low-complexity high-speed digital filters, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.21 n.2, p.204-216, November 2006[doi>10.1109/43.980259]
+Huy T. Nguyen , Abhijit Chatterjee, Number-splitting with shift-and-add decomposition for power and hardware optimization in linear DSP synthesis, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, v.8 n.4, p.419-424, Aug. 2000[doi>10.1109/92.863621]
+In-Cheol Park , Hyeong-Ju Kang, Digital filter synthesis based on minimal signed digit representation, Proceedings of the 38th annual Design Automation Conference, p.468-473, June 2001, Las Vegas, Nevada, USA[doi>10.1145/378239.378564]
+M. Potkonjak , M. B. Srivastava , A. P. Chandrakasan, Multiple constant multiplications: efficient and versatile framework and algorithms for exploring common subexpression elimination, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.15 n.2, p.151-165, November 2006[doi>10.1109/43.486662]
+Jason Thong , Nicola Nicolici, Time-efficient single constant multiplication based on overlapping digit patterns, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, v.17 n.9, p.1353-1357, September 2009[doi>10.1109/TVLSI.2008.2003004]
+Yevgen Voronenko , Markus Püschel, Multiplierless multiple constant multiplication, ACM Transactions on Algorithms (TALG), v.3 n.2, p.11-es, May 2007[doi>10.1145/1240233.1240234]
+Wang, Y. and Roy, K.2005. CSDC: A new complexity reduction technique for multiplier-less implementation of digital FIR filters.IEEE Trans. Circuits Syst. 52, 9, 1845--1853.
+Arda Yurdakul , Günhan Dündar, Multiplierless Realization of Linear DSP Transforms by Using Common Two-Term Expressions, Journal of VLSI Signal Processing Systems, v.22 n.3, p.163-172, Sept. 1999[doi>10.1023/A:1008125221674]

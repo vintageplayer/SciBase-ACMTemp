@@ -1,0 +1,18 @@
+Bell, J. L., Whittlemore, J. P., and Sakallah, K. A. 1998. False path analysis in sequential circuits. In Proceedings of 8th International Workshop on Power and Timing Modeling, Optimization and Simulation. 245--254.
+Benkoski, J., Meersch, E. V., Claesen, L. J. M., and DeMan, H. 1990. Timing verification using statically sensitizable paths. IEEE Trans. Comput. Aid. Design 9, 1073--1084.
+Chen, H. C. and Du, D. H. C. 1993. Path sensitization in critical path problem. IEEE Trans. Comput. Aid. Design Integr. Circuits Syst. 2 (Feb.), 196--207.
+Clarke, E. M., Grumberg, J. O., and Peled, D. A. 2001. Model Checking. The MIT Press.
+S. Devadas , K. Keutzer , S. Malik , A. Wang, Certified timing verification and the transition delay of a logic circuit, Proceedings of the 29th ACM/IEEE Design Automation Conference, p.549-555, June 08-12, 1992, Anaheim, California, USA
+Fu, Z., Mahajan, Y., and Malik, S. zchaff solver. http://www.princeton.edu/~zchaff/zchaff.html.
+E. Goldberg , Y. Novikov, BerkMin: A Fast and Robust Sat-Solver, Proceedings of the conference on Design, automation and test in Europe, p.142, March 04-08, 2002
+Luís Guerra e Silva , João Marques-Silva , L. Miguel Silveira , Karem A. Sakallah, Satisfiability models and algorithms for circuit delay computation, ACM Transactions on Design Automation of Electronic Systems (TODAES), v.7 n.1, p.137-158, January 2002[doi>10.1145/504914.504920]
+Jin, H., Awedh, M., and Somenzi, F. 2004. Circus: A satisfiability solver geared towards bounded model checking. In Proceedings of the 16th Conference on Computer Aided Design.
+Keutzer, K., Malik, S., and Saldanha, A. 1991. Is redundancy necessary to reduce delay? IEEE Trans. Comput. Aid. Design 10, 427--435.
+William K. C. Lam , Robert K. Brayton , Alberto L. Sangiovanni-Vincentelli, Circuit delay models and their exact computation using Timed Boolean Functions, Proceedings of the 30th international Design Automation Conference, p.128-134, June 14-18, 1993, Dallas, Texas, USA[doi>10.1145/157485.164625]
+William K. C. Lam , Robert K. Brayton , Alberto L. Sangiovanni-Vincentelli, Exact minimum cycle times for finite state machines, Proceedings of the 31st annual Design Automation Conference, p.100-105, June 06-10, 1994, San Diego, California, USA[doi>10.1145/196244.196294]
+Larrabee, T. 1992. Test pattern generation using boolean satisfiability. IEEE Trans. Comput. Aid. Design Integr. Circuits Syst. 11, 2 (Jan.), 4--15.
+Patrick Charles Mcgeer , Robert K. Brayton, On the interaction of functional and timing behaviour of combinational logic circuits, University of California, Berkeley, 1989
+P. C. McGeer , R. K. Brayton, Efficient algorithms for computing the longest viable path in a combinational network, Proceedings of the 26th ACM/IEEE Design Automation Conference, p.561-567, June 25-28, 1989, Las Vegas, Nevada, USA[doi>10.1145/74382.74476]
+McGeer, P. C., Saldanha, A., Brayton, R. K., and Sangiovanni-Vincentelli, A. L. 1993. Logic Synthesis and Optimization. (Chapter Delay Models and Exact Timing Analysis, 167--189) Kluwer Academic Publishers.
+A. Mondal , P. P. Chakrabarti, Reasoning about timing behavior of digital circuits using symbolic event propagation and temporal logic, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.25 n.9, p.1793-1814, September 2006[doi>10.1109/TCAD.2005.859508]
+Hakan Yalcin , John P. Hayes, Event propagation conditions in circuit delay computation, ACM Transactions on Design Automation of Electronic Systems (TODAES), v.2 n.3, p.249-280, July 1997[doi>10.1145/264995.264998]

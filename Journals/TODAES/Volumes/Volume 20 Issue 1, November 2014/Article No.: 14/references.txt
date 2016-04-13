@@ -1,0 +1,43 @@
+L. Aksoy , E. da Costa , P. Flores , J. Monteiro, Exact and Approximate Algorithms for the Optimization of Area and Delay in Multiple Constant Multiplications, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.27 n.6, p.1013-1026, June 2008[doi>10.1109/TCAD.2008.923242]
+L. Aksoy, E. Costa, P. Flores, and J. Monteiro. 2012. Multiplierless design of linear dsp transforms. In VLSI-SoC: Advanced Research for Systems on Chip, S. Mir, C.-Y. Tsui, R. Reis, and O. Choy, Eds., Springer, 73--93.
+L. Aksoy, E. Costa, P. Flores, and J. Monteiro. 2013a. Exploration of tradeoffs in the design of integer cosine transforms for image compression. In Proceedings of the IEEE European Conference on Circuit Theory and Design (ECCTD'13). 1--4.
+L. Aksoy, P. Flores, and J. Monteiro. 2013b. Towards the least complex time-multiplexed constant multiplication. In Proceedings of the IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC'13). 328--331.
+Levent Aksoy , Paulo Flores , José Monteiro, Optimization of design complexity in time-multiplexed constant multiplications, Proceedings of the conference on Design, Automation & Test in Europe, March 24-28, 2014, Dresden, Germany
+Levent Aksoy , Ece Olcay Güneş , Paulo Flores, Search algorithms for the multiple constant multiplications problem: Exact and approximate, Microprocessors & Microsystems, v.34 n.5, p.151-162, August, 2010[doi>10.1016/j.micpro.2009.10.001]
+Nilanjan Banerjee , Georgios Karakonstantis , Kaushik Roy, Process variation tolerant low power DCT architecture, Proceedings of the conference on Design, automation and test in Europe, April 16-20, 2007, Nice, France
+P. Barth. 1995. A davis-putnam based enumeration algorithm for linear pseudo-boolean optimization. https://www.princeton.edu/~chaff/papers/barth95davisputnam.pdf.
+R Bernstein, Multiplication by Integer constants, Software—Practice & Experience, v.16 n.7, p.641-652, July. 1986[doi>10.1002/spe.4380160704]
+P. Bougas, P. Kalivas, A. Tsirikos, and K. Pekmestzi. 2005. Pipelined array-based FIR filter folding. IEEE Trans. Circ. Syst. 52, 1, 108--118.
+Nicolas Boullis , Arnaud Tisserand, Some Optimizations of Hardware Multiplication by Constant Matrices, IEEE Transactions on Computers, v.54 n.10, p.1271-1282, October 2005[doi>10.1109/TC.2005.168]
+W.-K. Cham. 1989. Development of integer cosine transforms by the principle of dyadic symmetry. IEE Proc. I Comm. Speech Vis. 136, 4, 276--282.
+Jiajia Chen , Chip-Hong Chang, High-level synthesis algorithm for the design of reconfigurable constant multiplier, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.28 n.12, p.1844-1856, December 2009[doi>10.1109/TCAD.2009.2030446]
+W. Chen, C. Smith, and S. Fralick. 1977. A fast computational algorithm for the discrete cosine transform. IEEE Trans. Comm. 25, 9, 1004--1009.
+K.-M. Cheung, F. Pollara, and M. Shahshahani. 1991. Integer cosine transform for image compression. http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19940025116.pdf.
+S. Demirsoy, R. Beck, A. Dempster, and I. Kale. 2003. Reconfigurable implementation of recursive DCT kernels for reduced quantization noise. In Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS'03). 289--292.
+S. Demirsoy, A. Dempster, and I. Kale. 2004. Efficient implementation of digital filters using novel reconfigurable multiplier blocks. In Proceedings of the Asilomar Conference on Signals, Systems and Computers (ACSSC'04). 461--464.
+S. Demirsoy, I. Kale, and A. Dempster. 2007. Reconfigurable multiplier constant blocks: Structures, algorithm and applications.Circ. Syst. Signal Process. 26, 6, 793--827.
+A. Dempster and M. Macleod. 1995. Use of minimum-adder multiplier blocks in FIR digital filters. IEEE Trans. Circ. Syst. II 42, 9, 569--577.
+A. Dempster and M. Macleod. 2004. Digital filter design using subexpression elimination and all signed-digit representations. In Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS'04). 169--172.
+Jie Dong , King N. Ngan, 16×16 integer cosine transform for HD video coding, Proceedings of the 7th Pacific Rim conference on Advances in Multimedia Information Processing, p.114-121, November 02-04, 2006, Hangzhou, China[doi>10.1007/11922162_14]
+M. Ercegovac and T. Lang. 2003. Digital Arithmetic. Morgan Kaufmann, San Fransisco.
+O. Gustafsson, A. Dempster, and L. Wanhammar. 2002. Extended results for minimum-adder constant integer multipliers. In Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS'02). 73--76.
+R. Hartley. 1996. Subexpression sharing in filters using canonic signed digit multipliers. IEEE Trans. Circ. Syst. II 43, 10, 677--688.
+Yuen-Hong Alvin Ho , Chi-Un Lei , Hing-Kit Kwan , Ngai Wong, Global optimization of common subexpressions for multiplierless synthesis of multiple constant multiplications, Proceedings of the 2008 Asia and South Pacific Design Automation Conference, January 21-24, 2008, Seoul, Korea
+H. Hou. 1987. A fast recursive algorithm for computing the discrete cosine transform. IEEE Trans. Acoust. Speech Signal Process. 35, 10, 1455--1461.
+K. Johansson, O. Gustafsson, L. Debrunner, and L. Wanhammar. 2011. Minimum adder depth multiple constant multiplication algorithm for low power fir filters. In Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS'11). 1439--1442.
+K. Johansson, O. Gustafsson, and L. Wanhammar. 2005. A detailed complexity model for multiple constant multiplication and an algorithm to minimize the complexity. In Proceedings of the IEEE European Conference on Circuit Theory and Design (ECCTD'05). 465--468.
+H.-J. Kang and I.-C. Park. 2001. FIR filter synthesis algorithms for minimizing the delay and the number of adders. IEEE Trans. Circ. Syst. II: Analog Digital Signal Process. 48, 8, 770--777.
+Vinay Karkala , Joseph Wanstrath , Travis Lacour , Sunil P. Khatri, Efficient arithmetic sum-of-product (SOP) based multiple constant multiplication (MCM) for FFT, Proceedings of the International Conference on Computer-Aided Design, November 07-11, 2010, San Jose, California
+M. Kumm, P. Zipf, M. Faust, and C.-H. Chang. 2012. Pipelined adder graph optimization for high speed multiple constant multiplication. In Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS'12). 49--52.
+Huy T. Nguyen , Abhijit Chatterjee, Number-splitting with shift-and-add decomposition for power and hardware optimization in linear DSP synthesis, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, v.8 n.4, p.419-424, Aug. 2000[doi>10.1109/92.863621]
+Keshab K. Parhi, High-level algorithm and architecture transformations for DSP synthesis, Journal of VLSI Signal Processing Systems, v.9 n.1-2, p.121-143, Jan. 1995[doi>10.1007/BF02406474]
+K. Parhi. 1999. VLSI Digital Signal Processing Systems: Design and Implementation. John Wiley and Sons.
+In-Cheol Park , Hyeong-Ju Kang, Digital filter synthesis based on minimal signed digit representation, Proceedings of the 38th annual Design Automation Conference, p.468-473, June 2001, Las Vegas, Nevada, USA[doi>10.1145/378239.378564]
+F. Qureshi and O. Gustafsson. 2009. Low-complexity reconfigurable complex constant multiplication for FFTs. In Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS'09). 24--27.
+N. Sidahao, G. Constantinides, and P. Cheung. 2004. Multiple restricted multiplication. In Proceedings of the International Conference on Field-Programmable Logic and Applications (FPL'04). 374--383.
+N. Sidahao, G. Constantinides, and P. Cheung. 2005. A heuristic approach for multiple restricted multiplication. In Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS'05). 692--695.
+Jason Thong , Nicola Nicolici, A novel optimal single constant multiplication algorithm, Proceedings of the 47th Design Automation Conference, June 13-18, 2010, Anaheim, California[doi>10.1145/1837274.1837424]
+P. . Tummeltshammer , J. C. Hoe , M. . Puschel, Time-Multiplexed Multiple-Constant Multiplication, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.26 n.9, p.1551-1563, September 2007[doi>10.1109/TCAD.2007.893549]
+R. H. Turner , R. F. Woods, Highly efficient, limited range multipliers for LUT-based FPGA architectures, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, v.12 n.10, p.1113-1117, October 2004[doi>10.1109/TVLSI.2004.833399]
+Yevgen Voronenko , Markus Püschel, Multiplierless multiple constant multiplication, ACM Transactions on Algorithms (TALG), v.3 n.2, p.11-es, May 2007[doi>10.1145/1240233.1240234]
+L. Wanhammar. 1999. DSP Integrated Circuits. Academic Press.
