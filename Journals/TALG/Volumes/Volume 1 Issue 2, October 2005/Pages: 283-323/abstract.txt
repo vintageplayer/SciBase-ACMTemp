@@ -1,0 +1,59 @@
+We study the <i>s-sources almost shortest paths</i>
+(abbreviated <i>s-ASP</i>) problem. Given an unweighted
+graph <i>G</i> &equals; (<i>V,E</i>),
+and a subset <i>S</i> &sube; <i>V</i>
+of <i>s</i> nodes, the goal is to compute almost
+shortest paths between all the pairs of nodes <i>S</i>
+&times; <i>V</i>. We devise an algorithm with
+running time
+<i>O</i>(&mid;<i>E</i>&mid;<i>n</i><sup>&rho;</sup>
+&plus; <i>s</i> &middot;
+<i>n</i><sup>1 &plus; &zeta;)</sup>
+for this problem that computes the paths
+<i>P</i><sub><i>u,w</i></sub>
+for all pairs (<i>u,w</i>) &isin;
+<i>S</i> &times; <i>V</i> such that the
+length of
+<i>P</i><sub><i>u,w</i></sub>
+is at most (1 &plus; &epsi;)
+<i>d</i><sub><i>G</i></sub>(<i>u,w</i>)
+&plus; &beta;(&zeta;,&rho;,&epsi;), and
+&beta;(&zeta;,&rho;,&epsi;) is constant when
+&zeta;, &rho;, and &epsi; are arbitrarily small
+constants.We also devise a distributed protocol for the
+<i>s</i>-ASP problem that computes the paths
+<i>P</i><inf><i>u,w</i></inf>
+as above, and has time and communication complexities of
+<i>O</i>(<i>s</i> &middot;
+<i>Diam(G)</i> &plus;
+<i>n</i><sup>1 &plus;
+&zeta;/2</sup>) (respectively,
+<i>O</i>(<i>s</i> &middot;
+<i>Diam(G)</i> log<sup>3</sup>
+<i>n</i> &plus; <i>n</i><sup>1
+&plus; &zeta;/2</sup> log <i>n</i>)) and
+<i>O</i>(&mid;<i>E</i>&mid;
+<i>n</i><sup>&rho;</sup> &plus;
+<i>s</i> &middot; <i>n</i><sup>1
+&plus; &zeta;)</sup> (respectively,
+<i>O</i>(&mid;<i>E</i>&mid;
+<i>n</i><sup>&rho;</sup> &plus;
+<i>s</i> &middot; <i>n</i><sup>1
+&plus; &zeta;</sup> &plus;
+<i>n</i><sup>1 &plus; &rho; &plus;
+&zeta;(&rho; &minus; &zeta;/2)/2)) in the
+synchronous (respectively asynchronous) setting.Our sequential algorithm, as well as the distributed protocol,
+is based on a novel algorithm for constructing (1 &plus;
+&epsi;, &beta;(&zeta;,&rho;, &epsi;))-spanners
+of size <i>O</i>(<i>n</i><sup>1
+&plus; &zeta;</sup>), developed in this article. This
+algorithm has running time of
+<i>O</i>(&mid;<i>E</i>&mid;
+<i>n</i><sup>&rho;</sup>), which is
+significantly faster than the previously known algorithm given in
+Elkin and Peleg [2001], whose running time is
+<i>&Otilde;</i>(<i>n</i><sup>2
+&plus; &rho;</sup>). We also develop the first
+distributed protocol for constructing (1 &plus;
+&epsi;,&beta;)-spanners. The communication complexity of
+this protocol is near optimal.

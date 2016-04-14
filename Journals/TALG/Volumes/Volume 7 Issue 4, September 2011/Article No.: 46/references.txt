@@ -1,0 +1,39 @@
+Mohan Ahuja , Yahui Zhu, An Efficient Distributed Algorithm for Finding Articulation Points, Bridges, and Biconnected Components in Asynchronous Networks, Proceedings of the Ninth Conference on Foundations of Software Technology and Theoretical Computer Science, p.99-108, December 19-21, 1989
+Stephen Alstrup , Cyril Gavoille , Haim Kaplan , Theis Rauhe, Nearest common ancestors: a survey and a new distributed algorithm, Proceedings of the fourteenth annual ACM symposium on Parallel algorithms and architectures, August 10-13, 2002, Winnipeg, Manitoba, Canada[doi>10.1145/564870.564914]
+B. Awerbuch , D. Peleg, Network synchronization with polylogarithmic overhead, Proceedings of the 31st Annual Symposium on Foundations of Computer Science, p.514-522 vol.2, October 22-24, 1990[doi>10.1109/FSCS.1990.89572]
+Benjamini, I., and Lovász, L. 2003. Harmonic and analytic functions on graphs. J. Geom. 76, 1, 3--15. (Preliminary version appeared in Proceedings of the 43rd FOCS. 701--710, 2002).
+John Adrian Bondy, Graph Theory With Applications, Elsevier Science Ltd, 1976
+E. J. H. Chang, Echo Algorithms: Depth Parallel Operations on General Graphs, IEEE Transactions on Software Engineering, v.8 n.4, p.391-401, July 1982[doi>10.1109/TSE.1982.235573]
+Thomas T. Cormen , Charles E. Leiserson , Ronald L. Rivest, Introduction to algorithms, MIT Press, Cambridge, MA, 1990
+Diestel, R. 2006. Graph Theory, 3rd Ed. Springer-Verlag, Berlin.
+Dinitz, Y., Karzanov, A. V., and Lomonosov, M. V. 1976. On the structure of the system of minimum edge cuts in a graph. In Studies in Discrete Optimization, Nauka, 290--306.
+Michael Elkin, A faster distributed protocol for constructing a minimum spanning tree, Journal of Computer and System Sciences, v.72 n.8, p.1282-1308, December, 2006[doi>10.1016/j.jcss.2006.07.002]
+Donald Fussell , Vijaya Ramachandran , Ramakrishna Thurimella, Finding triconnected components by local replacement, SIAM Journal on Computing, v.22 n.3, p.587-616, June 1993[doi>10.1137/0222040]
+Zvi Galil , Giuseppe F. Italiano, Reducing edge connectivity to vertex connectivity, ACM SIGACT News, v.22 n.1, p.57-61, Winter 1991[doi>10.1145/122413.122416]
+Juan A. Garay , Shay Kutten , David Peleg, A SubLinear Time Distributed Algorithm for Minimum-Weight Spanning Trees, SIAM Journal on Computing, v.27 n.1, p.302-316, Feb. 1998[doi>10.1137/S0097539794261118]
+Shay Halperin , Uri Zwick, An optimal randomised logarithmic time connectivity algorithm for the EREW PRAM, Journal of Computer and System Sciences, v.53 n.3, p.395-416, Dec. 1996[doi>10.1006/jcss.1996.0078]
+Shay Halperin , Uri Zwick, Optimal randomized EREW PRAM algorithms for finding spanning forests, Journal of Algorithms, v.39 n.1, p.1-46, April 2001[doi>10.1006/jagm.2000.1146]
+Yijie Han , Xiaojun Shen, Parallel Integer Sorting Is More Efficient Than Parallel Comparison Sorting on Exclusive Write PRAMs, SIAM Journal on Computing, v.31 n.6, p.1852-1878, 2002[doi>10.1137/S0097539799352449]
+Walter Hohberg, How to find biconnected components in distributed networks, Journal of Parallel and Distributed Computing, v.9 n.4, p.374-386, Aug. 1990[doi>10.1016/0743-7315(90)90122-6]
+Hopcroft, J. and Tarjan, R. 1973. Dividing a graph into triconnected components. SIAM J. Comp. 2, 3, 135--158.
+Huang, S. T. 1989. A new distributed algorithm for the biconnectivity problem. In Proceedings of the International Conference on Parallel Processing. 106--113.
+Joseph JáJá, An introduction to parallel algorithms, Addison Wesley Longman Publishing Co., Inc., Redwood City, CA, 1992
+Jennings, E. and Motyckova, L. 1996. Distributed computation and incremental maintainance of 3-edge-connected components. In Proceedings of the 3rd SIROCCO. 224--240.
+Arkady Kanevsky , Vijaya Ramachandran, Improved algorithms for graph four-connectivity, Journal of Computer and System Sciences, v.42 n.3, p.288-306, June 1991[doi>10.1016/0022-0000(91)90004-O]
+Telikepalli Kavitha , Christian Liebchen , Kurt Mehlhorn , Dimitrios Michail , Romeo Rizzi , Torsten Ueckerdt , Katharina A. Zweig, Survey: Cycle bases in graphs characterization, algorithms, complexity, and applications, Computer Science Review, v.3 n.4, p.199-243, November, 2009[doi>10.1016/j.cosrev.2009.08.001]
+Kruskal, C. P., Rudolph, L., and Snir, M. 1990. Efficient parallel algorithms for graph problems. Algorithmica 5, 1, 43--64.
+Shay Kutten , David Peleg, Fast distributed construction of smallk-dominating sets and applications, Journal of Algorithms, v.28 n.1, p.40-66, July 1, 1998[doi>10.1006/jagm.1998.0929]
+Lotker, Z., Patt-Shamir, B., and Peleg, D. 2006. Distributed MST for constant diameter graphs. Distribu. Comput. 18, 6, 453--460.
+Yael Maon , Baruch Schieber , Uzi Vishkin, Parallel ear decomposition search (EDS) andst-numbering in graphs, Theoretical Computer Science, v.47 n.3, p.277-298, Nov., 1986
+Miller, G. L., and Ramachandran, V. 1992. A new graph triconnectivity algorithm and its parallelization. Combinatorica 12, 53--76.
+Rajeev Motwani , Prabhakar Raghavan, Randomized algorithms, Cambridge University Press, New York, NY, 1995
+David Peleg, Time-optimal leader election in general networks, Journal of Parallel and Distributed Computing, v.8 n.1, p.96-99, Jan. 1990[doi>10.1016/0743-7315(90)90074-Y]
+David Peleg, Distributed computing: a locality-sensitive approach, Society for Industrial and Applied Mathematics, Philadelphia, PA, 2000
+Pritchard, D. 2005. Robust network computation. M.S. dissertation, MIT.
+David Pritchard , Santosh Vempala, Symmetric network computation, Proceedings of the eighteenth annual ACM symposium on Parallelism in algorithms and architectures, July 30-August 02, 2006, Cambridge, Massachusetts, USA[doi>10.1145/1148109.1148155]
+Tarjan, R. 1972. Depth first search and linear graph algorithms. SIAM J. Comput. 1, 2, 146--160.
+Tarjan, R. E. 1974. A note on finding the bridges of a graph. Inform. Process. Lett. 2, 160--161.
+Tarjan, R. E. and Vishkin, U. 1985. An efficient parallel biconnectivity algorithm. SIAM J. Comput. 14, 4, 862--874.
+Ramakrishna Thurimella, Sub-linear distributed algorithms for sparse certificates and biconnected components, Journal of Algorithms, v.23 n.1, p.160-179, April 1997[doi>10.1006/jagm.1996.0832]
+Yung H. Tsin, A Simple 3-Edge-Connected Component Algorithm, Theory of Computing Systems, v.40 n.2, p.125-142, February 2007[doi>10.1007/s00224-005-1269-4]
+Tsin, Y. H. 2006. An efficient distributed algorithm for 3-edge-connectivity. Int. J. Found. Comput. Sci. 17, 3, 677--702.

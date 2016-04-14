@@ -1,0 +1,30 @@
+David Alberts , Giuseppe Cattaneo , Giuseppe F. Italiano, An empirical study of dynamic graph algorithms, Journal of Experimental Algorithmics (JEA), 2, p.5-es, 1997[doi>10.1145/264216.264223]
+Giuseppe Amato , Giuseppe Cattaneo , Giuseppe F. Italiano, Experimental analysis of dynamic minimum spanning tree algorithms, Proceedings of the eighth annual ACM-SIAM symposium on Discrete algorithms, p.314-323, January 05-07, 1997, New Orleans, Louisiana, USA
+Buriol, L., Resende, M., and Thorup, M. 2003. Speeding up dynamic shortest path algorithms. Tech. Rep. TD--5RJ8B, AT&T; Labs--Research.
+Giuseppe Cattaneo , Pompeo Faruolo , Umberto Ferraro Petrillo , Giuseppe F. Italiano, Maintaining Dynamic Minimum Spanning Trees: An Experimental Study, Revised Papers from the 4th International Workshop on Algorithm Engineering and Experiments, p.111-125, January 04-05, 2002
+Boris V. Cherkassky , Andrew V. Goldberg , Tomasz Radzik, Shortest paths algorithms: theory and experimental evaluation, Mathematical Programming: Series A and B, v.73 n.2, p.129-174, May 31, 1996[doi>10.1007/BF02592101]
+Demetrescu, C., Frigioni, D., Marchetti-Spaccamela, A., and Nanni, U. 2000. Maintaining shortest paths in digraphs with arbitrary arc weights: An experimental study. In Proceedings of the 4th Workshop on Algorithm Engineering (WAE'00) (Saarbrücken, Germany, Sept. 5--8).
+Camil Demetrescu , Giuseppe F. Italiano, A new approach to dynamic all pairs shortest paths, Proceedings of the thirty-fifth annual ACM symposium on Theory of computing, June 09-11, 2003, San Diego, CA, USA[doi>10.1145/780542.780567]
+Camil Demetrescu , Giuseppe F. Italiano, A new approach to dynamic all pairs shortest paths, Journal of the ACM (JACM), v.51 n.6, p.968-992, November 2004[doi>10.1145/1039488.1039492]
+Camil Demetrescu , Giuseppe F. Italiano, Fully dynamic all pairs shortest paths with real edge weights, Journal of Computer and System Sciences, v.72 n.5, p.813-837, August 2006[doi>10.1016/j.jcss.2005.05.005]
+Dijkstra, E. 1959. A note on two problems in connexion with graphs. Numer. Math. 1, 269--271.
+Yossi Shiloach , Shimon Even, An On-Line Edge-Deletion Problem, Journal of the ACM (JACM), v.28 n.1, p.1-4, Jan. 1981[doi>10.1145/322234.322235]
+Fortz, B., and Thorup, M. 2000. Internet traffic engineering by optimizing OSPF weights. In Proceedings of the 19th IEEE INFOCOM---The Conference on Computer Communications. IEEE Computer Society Press, Los Alamitos, CA, 519--528.
+Michael L. Fredman , Robert Endre Tarjan, Fibonacci heaps and their uses in improved network optimization algorithms, Journal of the ACM (JACM), v.34 n.3, p.596-615, July 1987[doi>10.1145/28869.28874]
+Daniele Frigioni , Mario Ioffreda , Umberto Nanni , Giulio Pasqualone, Experimental analysis of dynamic algorithms for the single source shortest paths problem, Journal of Experimental Algorithmics (JEA), 3, p.5-es, 1998[doi>10.1145/297096.297147]
+Frigioni, D., Miller, T., Nanni, U., Pasqualone, G., Shaefer, G., and Zaroliagis, C. 1998b. An experimental study of dynamic algorithms for directed graphs. In Proceedings of the European Symposium on Algorithms (ESA'98). Lecture Notes in Computer Science, vol. 1461. Springer-Verlag, New York, 320--331.
+Goldberg, A. 2001. Shortest path algorithms: Engineering aspects. In Proceedings of the 12th International Symposium on Algorithms and Computation (ISAAC'01). Lecture Notes in Computer Science, vol. 2223. Springer-Verlag, New York,
+Donald E. Knuth , Daniel H. Greene, Mathematics for the Analysis of Algorithms, Birkhauser Boston, 1999
+Iyer, R., Karger, D. R., Rahul, H. S., and Thorup, M. 2000. An experimental study of poly-logarithmic fully-dynamic connectivity algorithms. In Proceedings of the 2nd International Workshop on Algorithm Engineering and Experiments (ALENEX'00), B. Moret and A. Goldberg, Eds.
+David R. Karger , Daphne Koller , Steven J. Phillips, Finding the hidden path: time bounds for all-pairs shortest paths, SIAM Journal on Computing, v.22 n.6, p.1199-1217, Dec. 1993[doi>10.1137/0222071]
+Valerie King, Fully Dynamic Algorithms for Maintaining All-Pairs Shortest Paths and Transitive Closure in Digraphs, Proceedings of the 40th Annual Symposium on Foundations of Computer Science, p.81, October 17-18, 1999
+King, V., and Thorup, M. 2001. A space saving trick for directed dynamic transitive closure and shortest path algorithms. In Proceedings of the 7th Annual International Computing and Combinatorics Conference (COCOON). Lecture Notes in Computer Science, vol. 2108. Springer-Verlag, New York, 268--277.
+Loubal, P. 1967. A network evaluation procedure. Highway Res. Rec. 205, 96--109.
+Murchland, J. 1967. The effect of increasing or decreasing the length of a single arc on all shortest distances in a graph. Tech. Rep., LBS-TNT-26, London Business School, Transport Network Theory Unit, London, UK.
+Paolo Narváez , Kai-Yeung Siu , Hong-Yi Tzeng, New dynamic algorithms for shortest path tree computation, IEEE/ACM Transactions on Networking (TON), v.8 n.6, p.734-746, Dec. 2000[doi>10.1109/90.893870]
+Paolo Narváez , Kai-Yeung Siu , Hong-Yi Tzeng, New dynamic SPT algorithm based on a ball-and-string model, IEEE/ACM Transactions on Networking (TON), v.9 n.6, p.706-718, December 2001[doi>10.1109/90.974525]
+G. Ramalingam , J. van Leeuwen , J. Hartmanis , G. Goos, Bounded Incremental Computation, Springer-Verlag New York, Inc., Secaucus, NJ, 1996
+G. Ramalingam , Thomas Reps, An incremental algorithm for a generalization of the shortest-path problem, Journal of Algorithms, v.21 n.2, p.267-305, Sept. 1996[doi>10.1006/jagm.1996.0046]
+Seward, J., and Nethercote, N. 2003. Valgrind, an open-source memory debugger for x86-gnu/linux. URL: http://developer.kde.org/~sewardj/.
+Thorup, M. 2004. Fully-dynamic all-pairs shortest paths: Faster and allowing negative cycles. In SWAT, T. Hagerup and J. Katajainen, Eds. Lecture Notes in Computer Science, vol. 3111. Springer-Verlag, New York, 384--396.
+F. Benjamin Zhan , Charles E. Noon, Shortest Path Algorithms: An Evaluation Using Real Road Networks, Transportation Science, v.32 n.1, p.65-73, January 1998[doi>10.1287/trsc.32.1.65]

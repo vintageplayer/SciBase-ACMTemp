@@ -1,0 +1,28 @@
+Given an undirected graphG= (V,E) with
+nonnegative costs on its edges, a root noderV, a
+set of demandsDVwith demandvDwishing to routew(v)units of flow (weight) tor,
+and a positive numberk, theCapacitated Minimum Steiner
+Tree(CMStT) problem asks for a minimum Steiner tree, rooted atr, spanning the vertices inD*
+&lcub;r&rcub;, in which the sum of the vertex
+weights in every subtree connected toris at mostk.
+WhenD&equals;V, this problem is known as theCapacitated Minimum Spanning Tree(CMST) problem. Both CMsT
+and CMST problems are NP-hard. In this article, we present
+approximation algorithms for these problems and several of their
+variants in network design. Our main results are the following:---We present a (³ ÁST+
+2)-approximation algorithm for the CMStT problem, where ³ is
+theinverse Steiner ratio, and ÁSTis the best achievable approximation ratio for the Steiner tree
+problem. Our ratio improves the current best ratio of
+2ÁST+ 2 for this problem.---In particular, we obtain (³ + 2)-approximation ratio for
+the CMST problem, which is an improvement over the current best
+ratio of 4 for this problem. For points in Euclidean and
+rectilinear planes, our result translates into ratios of 3.1548 and
+3.5, respectively.---For instances in the plane, under theLpnorm, with the vertices inDhaving uniform weights, we present a nontrivial
+(7/5ÁST+ 3/2)-approximation algorithm for
+the CMStT problem. This translates into a ratio of 2.9 for the CMST
+problem with uniform vertex weights in theLpmetric plane. Our ratio of 2.9 solves
+the long-standing open problem of obtaining any ratio better than 3
+for this case.---For the CMST problem, we show how to obtain a 2-approximation
+for graphs in metric spaces with unit vertex weights andk=
+3,4.---For thebudgetedCMST problem, in which the weights of
+the subtrees connected torcould be up to ±kinstead ofk(± e 1), we obtain a ratio of ³
+&plus; 2/±.

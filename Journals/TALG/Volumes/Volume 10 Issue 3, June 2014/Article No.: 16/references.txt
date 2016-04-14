@@ -1,0 +1,62 @@
+Diego Arroyuelo, An Improved Succinct Representation for Dynamic k-ary Trees, Proceedings of the 19th annual symposium on Combinatorial Pattern Matching, June 18-20, 2008, Pisa, Italy[doi>10.1007/978-3-540-69068-9_26]
+D. Arroyuelo, R. Cánovas, G. Navarro, and K. Sadakane. 2010. Succinct trees in practice. In Proceedings of the 11th Workshop on Algorithm Engineering and Experiments (ALENEX). 84--97.
+Jérémy Barbay , Johannes Fischer , Gonzalo Navarro, LRM-trees: compressed indices, adaptive sorting, and compressed permutations, Proceedings of the 22nd annual conference on Combinatorial pattern matching, June 27-29, 2011, Palermo, Italy
+Jérémy Barbay , Meng He , J. Ian Munro , Srinivasa Rao Satti, Succinct indexes for strings, binary relations and multilabeled trees, ACM Transactions on Algorithms (TALG), v.7 n.4, p.1-27, September 2011[doi>10.1145/2000807.2000820]
+Michael A. Bender , Martin Farach-Colton, The LCA Problem Revisited, Proceedings of the 4th Latin American Symposium on Theoretical Informatics, p.88-94, April 10-14, 2000
+Michael A. Bender , Martín Farach-Colton, The level ancestor problem simplified, Theoretical Computer Science, v.321 n.1, p.5-12, June 16, 2004[doi>10.1016/j.tcs.2003.05.002]
+David Benoit , Erik D. Demaine , J. Ian Munro , Rajeev Raman , Venkatesh Raman , S. Srinivasa Rao, Representing Trees of Higher Degree, Algorithmica, v.43 n.4, p.275-292, December 2005[doi>10.1007/s00453-004-1146-6]
+M. Burrows and D. Wheeler. 1994. A Block Sorting Data Compression Algorithm. Technical Report. Digital Systems Research Center.
+Rodrigo Cánovas , Gonzalo Navarro, Practical compressed suffix trees, Proceedings of the 9th international conference on Experimental Algorithms, May 20-22, 2010, Naples, Italy[doi>10.1007/978-3-642-13193-6_9]
+Ho-Leung Chan , Wing-Kai Hon , Tak-Wah Lam , Kunihiko Sadakane, Compressed indexes for dynamic text collections, ACM Transactions on Algorithms (TALG), v.3 n.2, p.21-es, May 2007[doi>10.1145/1240233.1240244]
+Yi-Ting Chiang , Ching-Chi Lin , Hsueh-I Lu, Orderly Spanning Trees with Applications, SIAM Journal on Computing, v.34 n.4, p.924-945, 2005[doi>10.1137/S0097539702411381]
+P. Davoodi, R. Raman, and S. S. Rao. 2012. Succinct representations of binary trees for range minimum queries. In Proceedings of the 18th Annual International Conference on Computing and Combinatorics (COCOON). LNCS 7434. 396--407.
+Pooya Davoodi , Satti Srinivasa Rao, Succinct dynamic cardinal trees with constant time operations for small alphabet, Proceedings of the 8th annual conference on Theory and applications of models of computation, May 23-25, 2011, Tokyo, Japan
+O'Neil Delpratt , Naila Rahman , Rajeev Raman, Engineering the LOUDS succinct tree representation, Proceedings of the 5th international conference on Experimental Algorithms, May 24-27, 2006, Menorca, Spain[doi>10.1007/11764298_12]
+Arash Farzan , J. Ian Munro, A Uniform Approach Towards Succinct Representation of Trees, Proceedings of the 11th Scandinavian workshop on Algorithm Theory, July 02-04, 2008, Gothenburg, Sweden[doi>10.1007/978-3-540-69903-3_17]
+Arash Farzan , J. Ian Munro, Succinct representation of dynamic trees, Theoretical Computer Science, v.412 n.24, p.2668-2678, May, 2011[doi>10.1016/j.tcs.2010.10.030]
+Arash Farzan , Rajeev Raman , S. Srinivasa Rao, Universal Succinct Representations of Trees?, Proceedings of the 36th International Colloquium on Automata, Languages and Programming: Part I, July 05-12, 2009, Rhodes, Greece[doi>10.1007/978-3-642-02927-1_38]
+Paolo Ferragina , Fabrizio Luccio , Giovanni Manzini , S. Muthukrishnan, Compressing and indexing labeled trees, with applications, Journal of the ACM (JACM), v.57 n.1, p.1-33, November 2009[doi>10.1145/1613676.1613680]
+Paolo Ferragina , Giovanni Manzini , Veli Mäkinen , Gonzalo Navarro, Compressed representations of sequences and full-text indexes, ACM Transactions on Algorithms (TALG), v.3 n.2, p.20-es, May 2007[doi>10.1145/1240233.1240243]
+Johannes Fischer, Optimal succinctness for range minimum queries, Proceedings of the 9th Latin American conference on Theoretical Informatics, p.158-169, April 19-23, 2010, Oaxaca, Mexico[doi>10.1007/978-3-642-12200-2_16]
+Johannes Fischer , Volker Heun, A new succinct representation of RMQ-information and improvements in the enhanced suffix array, Proceedings of the First international conference on Combinatorics, Algorithms, Probabilistic and Experimental Methodologies, p.459-470, April 07-09, 2007, Hangzhou, China
+R. Fleischer. 1996. A simple balanced search tree with O(1) worst-case update time. International Journal of Foundations of Computer Science 7, 2, 137--149.
+M. Fredman , M. Saks, The cell probe complexity of dynamic data structures, Proceedings of the twenty-first annual ACM symposium on Theory of computing, p.345-354, May 14-17, 1989, Seattle, Washington, USA[doi>10.1145/73007.73040]
+Michael L. Fredman , Dan E. Willard, Surpassing the information theoretic bound with fusion trees, Journal of Computer and System Sciences, v.47 n.3, p.424-436, Dec. 1993[doi>10.1016/0022-0000(93)90040-4]
+Richard F. Geary , Naila Rahman , Rajeev Raman , Venkatesh Raman, A simple optimal representation for balanced parentheses, Theoretical Computer Science, v.368 n.3, p.231-246, December, 2006[doi>10.1016/j.tcs.2006.09.014]
+Richard F. Geary , Rajeev Raman , Venkatesh Raman, Succinct ordinal trees with level-ancestor queries, ACM Transactions on Algorithms (TALG), v.2 n.4, p.510-534, October 2006[doi>10.1145/1198513.1198516]
+Alexander Golynski , Roberto Grossi , Ankur Gupta , Rajeev Raman , Satti Srinivasa Rao, On the size of succinct indices, Proceedings of the 15th annual European conference on Algorithms, October 08-10, 2007, Eilat, Israel
+Rodrigo González , Gonzalo Navarro, Rank/select on dynamic compressed sequences and applications, Theoretical Computer Science, v.410 n.43, p.4414-4422, October, 2009[doi>10.1016/j.tcs.2009.07.022]
+Roberto Grossi , Ankur Gupta , Jeffrey Scott Vitter, High-order entropy-compressed text indexes, Proceedings of the fourteenth annual ACM-SIAM symposium on Discrete algorithms, January 12-14, 2003, Baltimore, Maryland
+Meng He , J. Ian Munro, Succinct representations of dynamic strings, Proceedings of the 17th international conference on String processing and information retrieval, October 11-13, 2010, Los Cabos, Mexico
+Meng He , J. Ian Munro , S. Srinivasa Rao, Succinct ordinal trees based on tree covering, Proceedings of the 34th international conference on Automata, Languages and Programming, July 09-13, 2007, Wrocław, Poland
+Wing-Kai Hon , Kunihiko Sadakane , Wing-Kin Sung, Breaking a Time-and-Space Barrier in Constructing Full-Text Indices, SIAM Journal on Computing, v.38 n.6, p.2162-2178, February 2009[doi>10.1137/070685373]
+G. Jacobson, Space-efficient static trees and graphs, Proceedings of the 30th Annual Symposium on Foundations of Computer Science, p.549-554, October 30-November 01, 1989[doi>10.1109/SFCS.1989.63533]
+Jesper Jansson , Kunihiko Sadakane , Wing-Kin Sung, Ultra-succinct representation of ordered trees with applications, Journal of Computer and System Sciences, v.78 n.2, p.619-631, March, 2012[doi>10.1016/j.jcss.2011.09.002]
+Stelios Joannou , Rajeev Raman, Dynamizing succinct tree representations, Proceedings of the 11th international conference on Experimental Algorithms, June 07-09, 2012, Bordeaux, France[doi>10.1007/978-3-642-30850-5_20]
+Hsueh-I Lu , Chia-Chi Yeh, Balanced parentheses strike back, ACM Transactions on Algorithms (TALG), v.4 n.3, p.1-13, June 2008[doi>10.1145/1367064.1367068]
+Veli Mäkinen , Gonzalo Navarro, Rank and select revisited and extended, Theoretical Computer Science, v.387 n.3, p.332-347, November, 2007[doi>10.1016/j.tcs.2007.07.013]
+Veli Mäkinen , Gonzalo Navarro, Dynamic entropy-compressed sequences and full-text indexes, ACM Transactions on Algorithms (TALG), v.4 n.3, p.1-38, June 2008[doi>10.1145/1367064.1367072]
+Giovanni Manzini, An analysis of the Burrows—Wheeler transform, Journal of the ACM (JACM), v.48 n.3, p.407-430, May 2001[doi>10.1145/382780.382782]
+J Ian Munro, An implicit data structure supporting insertion, deletion, and search in O(log:OS2:OEn) time, Journal of Computer and System Sciences, v.33 n.1, p.66-74, Aug. 1986[doi>10.1016/0022-0000(86)90043-7]
+J. Ian Munro, Tables, Proceedings of the 16th Conference on Foundations of Software Technology and Theoretical Computer Science, p.37-42, December 18-20, 1996
+J. Ian Munro , Venkatesh Raman, Succinct Representation of Balanced Parentheses and Static Trees, SIAM Journal on Computing, v.31 n.3, p.762-776, 2001[doi>10.1137/S0097539799364092]
+J. Ian Munro, Space efficient suffix trees, Journal of Algorithms, v.39 n.2, p.205-222, May 2001[doi>10.1006/jagm.2000.1151]
+J. Ian Munro , Venkatesh Raman , Adam J. Storm, Representing dynamic binary trees succinctly, Proceedings of the twelfth annual ACM-SIAM symposium on Discrete algorithms, p.529-536, January 07-09, 2001, Washington, D.C., USA
+J. I. Munro and S. S. Rao. 2004. Succinct representations of functions. In Proceedings of the 31th International Colloquium on Automata, Languages and Programming (ICALP). LNCS 3142. 1006--1015.
+Gonzalo Navarro, Wavelet trees for all, Proceedings of the 23rd Annual conference on Combinatorial Pattern Matching, July 03-05, 2012, Helsinki, Finland[doi>10.1007/978-3-642-31265-6_2]
+G. Navarro and Y. Nekrich. 2012. Optimal dynamic sequence representations. CoRR abs/1206.6982v1.
+Daisuke Okanohara , Kunihiko Sadakane, A Linear-Time Burrows-Wheeler Transform Using Induced Sorting, Proceedings of the 16th International Symposium on String Processing and Information Retrieval, August 25-27, 2009, Saariselkä, Finland[doi>10.1007/978-3-642-03784-9_9]
+Rasmus Pagh, Low Redundancy in Static Dictionaries with Constant Query Time, SIAM Journal on Computing, v.31 n.2, p.353-363, 2001[doi>10.1137/S0097539700369909]
+Mihai Patrascu, Lower bounds for 2-dimensional range counting, Proceedings of the thirty-ninth annual ACM symposium on Theory of computing, June 11-13, 2007, San Diego, California, USA[doi>10.1145/1250790.1250797]
+Mihai Patrascu , Erik D. Demaine, Logarithmic Lower Bounds in the Cell-Probe Model, SIAM Journal on Computing, v.35 n.4, p.932-963, 2006[doi>10.1137/S0097539705447256]
+Mihai Pătraşcu , Mikkel Thorup, Time-space trade-offs for predecessor search, Proceedings of the thirty-eighth annual ACM symposium on Theory of computing, May 21-23, 2006, Seattle, WA, USA[doi>10.1145/1132516.1132551]
+Mihai Pătraşcu , Emanuele Viola, Cell-probe lower bounds for succinct partial sums, Proceedings of the twenty-first annual ACM-SIAM symposium on Discrete Algorithms, p.117-122, January 17-19, 2010, Austin, Texas
+Mihai Patrascu, Succincter, Proceedings of the 2008 49th Annual IEEE Symposium on Foundations of Computer Science, p.305-313, October 25-28, 2008[doi>10.1109/FOCS.2008.83]
+Rajeev Raman , Venkatesh Raman , S. Srinivasa Rao, Succinct Dynamic Data Structures, Proceedings of the 7th International Workshop on Algorithms and Data Structures, p.426-437, August 08-10, 2001
+Rajeev Raman , Venkatesh Raman , Srinivasa Rao Satti, Succinct indexable dictionaries with applications to encodingk-ary trees, prefix sums and multisets, ACM Transactions on Algorithms (TALG), v.3 n.4, p.43-es, November 2007[doi>10.1145/1290672.1290680]
+Rajeev Raman , Satti Srinivasa Rao, Succinct dynamic dictionaries and trees, Proceedings of the 30th international conference on Automata, languages and programming, June 30-July 04, 2003, Eindhoven, The Netherlands
+Kunihiko Sadakane, Succinct representations oflcpinformation and improvements in the compressed suffix arrays, Proceedings of the thirteenth annual ACM-SIAM symposium on Discrete algorithms, p.225-232, January 06-08, 2002, San Francisco, California
+Kunihiko Sadakane, Compressed Suffix Trees with Full Functionality, Theory of Computing Systems, v.41 n.4, p.589-607, December 2007[doi>10.1007/s00224-006-1198-x]
+Kunihiko Sadakane, Succinct data structures for flexible text retrieval systems, Journal of Discrete Algorithms, v.5 n.1, p.12-22, March, 2007[doi>10.1016/j.jda.2006.03.011]
+Kunihiko Sadakane , Gonzalo Navarro, Fully-functional succinct trees, Proceedings of the twenty-first annual ACM-SIAM symposium on Discrete Algorithms, p.134-149, January 17-19, 2010, Austin, Texas
+Jean Vuillemin, A unifying look at data structures, Communications of the ACM, v.23 n.4, p.229-239, April 1980[doi>10.1145/358841.358852]

@@ -1,0 +1,1 @@
+This article presents a real-time randomized streaming string-matching algorithm that usesO(logm) space. The algorithm only makes one-sided small probability false-positive errors, possibly reporting phantom occurrences of the pattern, but never missing an actual occurrence.

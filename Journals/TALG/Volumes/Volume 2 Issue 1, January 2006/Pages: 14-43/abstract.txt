@@ -1,0 +1,1 @@
+A shredder in an undirected graph is a set of vertices whose removal results in at least three components. A 3-shredder is a shredder of size three. We present an algorithm that, given a 3-connected graph, finds its 3-shredders in time proportional to the number of vertices and edges, when implemented on a RAM (random access machine).

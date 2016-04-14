@@ -1,0 +1,35 @@
+Deepak Ajwani , Tobias Friedrich, Average-case analysis of online topological ordering, Proceedings of the 18th international conference on Algorithms and computation, December 17-19, 2007, Sendai, Japan
+Deepak Ajwani , Tobias Friedrich , Ulrich Meyer, AnO(n2.75)algorithm for online topological ordering, Proceedings of the 10th Scandinavian conference on Algorithm Theory, July 06-08, 2006, Riga, Latvia[doi>10.1007/11785293_8]
+Deepak Ajwani , Tobias Friedrich , Ulrich Meyer, AnO(n2.75) algorithm for incremental topological ordering, ACM Transactions on Algorithms (TALG), v.4 n.4, p.1-14, August 2008[doi>10.1145/1383369.1383370]
+Bowen Alpern , Roger Hoover , Barry K. Rosen , Peter F. Sweeney , F. Kenneth Zadeck, Incremental evaluation of computational circuits, Proceedings of the first annual ACM-SIAM symposium on Discrete algorithms, p.32-42, January 22-24, 1990, San Francisco, California, USA
+Michael A. Bender , Richard Cole , Erik D. Demaine , Martin Farach-Colton , Jack Zito, Two Simplified Algorithms for Maintaining Order in a List, Proceedings of the 10th Annual European Symposium on Algorithms, p.152-164, September 17-21, 2002
+Michael A. Bender , Jeremy T. Fineman , Seth Gilbert, A new approach to incremental topological ordering, Proceedings of the twentieth Annual ACM-SIAM Symposium on Discrete Algorithms, p.1108-1115, January 04-06, 2009, New York, New York
+Boris V. Cherkassky , Andrew V. Goldberg , Craig Silverstein, Buckets, heaps, lists, and monotone priority queues, Proceedings of the eighth annual ACM-SIAM symposium on Discrete algorithms, p.83-92, January 05-07, 1997, New Orleans, Louisiana, USA
+Eric V. Denardo , Bennett L. Fox, Shortest-Route Methods: 1. Reaching, Pruning, and Buckets, Operations Research, v.27 n.1, p.161-186, February 1979[doi>10.1287/opre.27.1.161]
+P. Dietz , D. Sleator, Two algorithms for maintaining order in a list, Proceedings of the nineteenth annual ACM symposium on Theory of computing, p.365-372, January 1987, New York, New York, USA[doi>10.1145/28395.28434]
+Bernhard Haeupler , Telikepalli Kavitha , Rogers Mathew , Siddhartha Sen , Robert E. Tarjan, Faster Algorithms for Incremental Topological Ordering, Proceedings of the 35th international colloquium on Automata, Languages and Programming, Part I, July 07-11, 2008, Reykjavik, Iceland[doi>10.1007/978-3-540-70575-8_35]
+Bernhard Haeupler , Telikepalli Kavitha , Rogers Mathew , Siddhartha Sen , Robert E. Tarjan, Incremental Cycle Detection, Topological Ordering, and Strong Component Maintenance, ACM Transactions on Algorithms (TALG), v.8 n.1, p.1-33, January 2012[doi>10.1145/2071379.2071382]
+Frank Harary, Robert Z. Norman, and Dorwin Cartwright. 1965. Structural Models: An Introduction to the Theory of Directed Graphs. John Wiley & Sons.
+A. B. Kahn, Topological sorting of large networks, Communications of the ACM, v.5 n.11, p.558-562, Nov. 1962[doi>10.1145/368996.369025]
+Irit Katriel. 2004. On Algorithms for Online Topological Ordering and Sorting. Technical Report MPI-I-2004-003. Max-Planck-Institut für Informatik, Saarbrücken, Germany.
+Irit Katriel , Hans L. Bodlaender, Online topological ordering, Proceedings of the sixteenth annual ACM-SIAM symposium on Discrete algorithms, January 23-25, 2005, Vancouver, British Columbia
+Irit Katriel , Hans L. Bodlaender, Online topological ordering, ACM Transactions on Algorithms (TALG), v.2 n.3, p.364-379, July 2006[doi>10.1145/1159892.1159896]
+Donald E. Knuth. 1973. The Art of Computer Programming, Volume 1: Fundamental Algorithms (2nd ed.). Addison Wesley, Reading, MA.
+Donald E. Knuth, The art of computer programming,  volume 3: (2nd ed.) sorting and searching, Addison Wesley Longman Publishing Co., Inc., Redwood City, CA, 1998
+Donald E. Knuth and Jayme L. Szwarcfiter. 1974. A structured program to generate all topological sorting arrangements. Information Processing Letters 2, 6 (1974), 153--157.
+Hsiao-Fei Liu , Kun-Mao Chao, A tight analysis of the Katriel–Bodlaender algorithm for online topological ordering, Theoretical Computer Science, v.389 n.1-2, p.182-189, December, 2007[doi>10.1016/j.tcs.2007.08.009]
+Alberto Marchetti-Spaccamela , Umberto Nanni , Hans Rohnert, Maintaining a topological order under edge insertions, Information Processing Letters, v.59 n.1, p.53-58, July 8, 1996[doi>10.1016/0020-0190(96)00075-0]
+David J. Pearce, Paul H. J. Kelly, and Chris Hankin. 2003. Online cycle detection and difference propagation for pointer analysis. In Proceedings of the 3rd International Workshop on Source Code Analysis and Manipulation. 3--12.
+David J. Pearce. 2005. Some Directed Graph Problems and Their Application to Pointer Analysis. Ph.D. Dissertation. University of London.
+David J. Pearce and Paul H. J. Kelly. 2003. Online Algorithms for Topological Order and Strongly Connected Components. Technical Report. Imperial College, London.
+David J. Pearce and Paul H. J. Kelly. 2004. A dynamic algorithm for topologically sorting directed acyclic graphs. In Proceedings of the 3rd International Workshop on Efficient Experimental Algorithms (Lecture Notes in Computer Science), Vol. 3059. Springer, 383--398.
+David J. Pearce , Paul H. J. Kelly, A dynamic topological sort algorithm for directed acyclic graphs, Journal of Experimental Algorithmics (JEA), 11, 2006[doi>10.1145/1187436.1210590]
+David J. Pearce , Paul H. J. Kelly, A batch algorithm for maintaining a topological order, Proceedings of the Thirty-Third Australasian Conferenc on Computer Science, p.79-88, January 01-01, 2010, Brisbane, Australia
+Liam Roditty , Uri Zwick, Improved Dynamic Reachability Algorithms for Directed Graphs, SIAM Journal on Computing, v.37 n.5, p.1455-1471, January 2008[doi>10.1137/060650271]
+Edward Szpilrajn. 1930. Sur l’Extension de l’Ordre Partiel. Fundamenta Mathematicae 16 (1930), 386--389.
+Robert E. Tarjan. 1972. Depth-first search and linear graph algorithms. SIAM Journal on Computing 1, 2 (1972), 146--160.
+Robert E. Tarjan. 1974. Finding dominators in directed graphs. SIAM Journal on Computing 3, 1 (1974), 62--89.
+Robert Endre Tarjan, Efficiency of a Good But Not Linear Set Union Algorithm, Journal of the ACM (JACM), v.22 n.2, p.215-225, April 1975[doi>10.1145/321879.321884]
+Robert Endre Tarjan, Data structures and network algorithms, Society for Industrial and Applied Mathematics, Philadelphia, PA, 1983
+Robert E. Tarjan , Jan van Leeuwen, Worst-case Analysis of Set Union Algorithms, Journal of the ACM (JACM), v.31 n.2, p.245-281, April 1984[doi>10.1145/62.2160]
+J. W. J. Williams. 1964. Algorithm 232: Heapsort. Communications of the ACM 7, 6 (1964), 347--348.

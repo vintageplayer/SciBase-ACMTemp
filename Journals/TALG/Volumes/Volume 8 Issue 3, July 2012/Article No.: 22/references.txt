@@ -1,0 +1,34 @@
+Abello, J., Buchsbaum, A. L., and Westbrook, J. 2002. A functional approach to external graph algorithms. Algorithmica 32, 3, 437--458.
+Pankaj K. Agarwal , Lars Arge , Ke Yi, I/O-efficient batched union-find and its applications to terrain analysis, Proceedings of the twenty-second annual symposium on Computational geometry, June 05-07, 2006, Sedona, Arizona, USA[doi>10.1145/1137856.1137884]
+Alok Aggarwal , Jeffrey,S. Vitter, The input/output complexity of sorting and related problems, Communications of the ACM, v.31 n.9, p.1116-1127, Sept. 1988[doi>10.1145/48529.48535]
+Ravindra K. Ahuja , Kurt Mehlhorn , James Orlin , Robert E. Tarjan, Faster algorithms for the shortest path problem, Journal of the ACM (JACM), v.37 n.2, p.213-223, April 1990[doi>10.1145/77600.77615]
+Deepak Ajwani , Roman Dementiev , Ulrich Meyer, A computational study of external-memory BFS algorithms, Proceedings of the seventeenth annual ACM-SIAM symposium on Discrete algorithm, p.601-610, January 22-26, 2006, Miami, Florida[doi>10.1145/1109557.1109623]
+Ajwani, D., Meyer, U., and Osipov, V. 2007. Improved external memory BFS implementation. In Proceedings of the 9th Workshop on Algorithm Engineering and Experiments. 3--12.
+Luca Allulli , Peter Lichodzijewski , Norbert Zeh, A faster cache-oblivious shortest-path algorithm for undirected graphs with bounded edge lengths, Proceedings of the eighteenth annual ACM-SIAM symposium on Discrete algorithms, p.910-919, January 07-09, 2007, New Orleans, Louisiana
+Arge, L. 2003. The buffer tree: A technique for designing batched external data structures. Algorithmica 37, 1, 1--24.
+Lars Arge , Gerth Stølting Brodal , Laura Toma, On external-memory MST, SSSP and multi-way planar graph separation, Journal of Algorithms, v.53 n.2, p.186-206, November 2004[doi>10.1016/j.jalgor.2004.04.001]
+Arge, L., Meyer, U., and Toma, L. 2004b. External memory algorithms for diameter and all-pairs shortest-paths on sparse graphs. In Proceedings of the 31st International Colloquium on Automata, Languages, and Programming. Lecture Notes in Computer Science, vol. 3124, Springer, 146--157.
+Lars Arge , Laura Toma , Norbert Zeh, I/O-efficient topological sorting of planar DAGs, Proceedings of the fifteenth annual ACM symposium on Parallel algorithms and architectures, June 07-09, 2003, San Diego, California, USA[doi>10.1145/777412.777427]
+Bellman, R. 1958. On a routing problem. Quart. Appl. Math. 16, 1, 87--90.
+Brodal, G. S., Fagerberg, R., Meyer, U., and Zeh, N. 2004. Cache-oblivious data structures and algorithms for undirected breadth-first search and shortest paths. In Proceedings of the 9th Scandinavian Workshop on Algorithm Theory. Lecture Notes in Computer Science, vol. 3111, Springer, 480--492.
+Adam L. Buchsbaum , Michael Goldwasser , Suresh Venkatasubramanian , Jeffery R. Westbrook, On external memory graph traversal, Proceedings of the eleventh annual ACM-SIAM symposium on Discrete algorithms, p.859-860, January 09-11, 2000, San Francisco, California, USA
+Yi-Jen Chiang , Michael T. Goodrich , Edward F. Grove , Roberto Tamassia , Darren Erik Vengroff , Jeffrey Scott Vitter, External-memory graph algorithms, Proceedings of the sixth annual ACM-SIAM symposium on Discrete algorithms, p.139-149, January 22-24, 1995, San Francisco, California, USA
+Rezaul Alam Chowdhury , Vijaya Ramachandran, Algorithms and data structures for cache-efficient computation: theory and experimental evaluation, University of Texas at Austin, Austin, TX, 2007
+Rezaul Alam Chowdhury , Vijaya Ramachandran, Cache-oblivious shortest paths in graphs using buffer heap, Proceedings of the sixteenth annual ACM symposium on Parallelism in algorithms and architectures, June 27-30, 2004, Barcelona, Spain[doi>10.1145/1007912.1007949]
+Rezaul Alam Chowdhury , Vijaya Ramachandran, External-memory exact and approximate all-pairs shortest-paths in undirected graphs, Proceedings of the sixteenth annual ACM-SIAM symposium on Discrete algorithms, January 23-25, 2005, Vancouver, British Columbia
+Dijkstra, E. W. 1959. A note on two problems in connexion with graphs. Numer. Math. 1, 269--271.
+Ford, Jr., L. R. and Fulkerson, D. R. 1962. Flows in Networks. Princeton University Press.
+Michael L. Fredman , Robert Endre Tarjan, Fibonacci heaps and their uses in improved network optimization algorithms, Journal of the ACM (JACM), v.34 n.3, p.596-615, July 1987[doi>10.1145/28869.28874]
+Herman Haverkort , Laura Toma, I/O-Efficient algorithms on near-planar graphs, Proceedings of the 7th Latin American conference on Theoretical Informatics, March 20-24, 2006, Valdivia, Chile[doi>10.1007/11682462_54]
+Vijay Kumar , Eric J. Schwabe, Improved Algorithms and Data Structures for Solving Graph Problems in External Memory, Proceedings of the 8th IEEE Symposium on Parallel and Distributed Processing (SPDP '96), p.169, October 23-26, 1996
+Anil Maheshwari , Norbert Zeh,I/O-efficient algorithms for graphs of bounded treewidth, Proceedings of the twelfth annual ACM-SIAM symposium on Discrete algorithms, p.89-90, January 07-09, 2001, Washington, D.C., USA
+Kurt Mehlhorn , Ulrich Meyer, External-Memory Breadth-First Search with Sublinear I/O, Proceedings of the 10th Annual European Symposium on Algorithms, p.723-735, September 17-21, 2002
+Meyer, U. and Osipov, V. 2009. Design and implementation of a practical I/O-efficient shortest paths algorithm. In Proceedings of the Workshop on Algorithm Engineering and Experiments. 85--96.
+Ulrich Meyer , Peter Sanders , Jop Sibeyn, Algorithms for memory hierarchies: advanced lectures, Springer-Verlag, Berlin, Heidelberg, 2003
+Ulrich Meyer , Norbert Zeh, I/O-efficient undirected shortest paths with unbounded edge lengths, Proceedings of the 14th conference on Annual European Symposium, p.540-551, September 11-13, 2006, Zurich, Switzerland[doi>10.1007/11841036_49]
+Kameshwar Munagala , Abhiram Ranade, I/O-complexity of graph algorithms, Proceedings of the tenth annual ACM-SIAM symposium on Discrete algorithms, p.687-694, January 17-19, 1999, Baltimore, Maryland, USA
+Seth Pettie , Vijaya Ramachandran, Computing shortest paths with comparisons and additions, Proceedings of the thirteenth annual ACM-SIAM symposium on Discrete algorithms, p.267-276, January 06-08, 2002, San Francisco, California
+Mikkel Thorup, Undirected single-source shortest paths with positive integer weights in linear time, Journal of the ACM (JACM), v.46 n.3, p.362-394, May 1999[doi>10.1145/316542.316548]
+Mikkel Thorup, Floats, integers, and single source shortest paths, Journal of Algorithms, v.35 n.2, p.189-201, May 2000[doi>10.1006/jagm.2000.1080]
+Van Emde Boas, P., Kaas, R., and Zijlstra, E. 1977. Design and implementation of an efficient priority queue. Math. Syst. Theory 10, 99--127.
+Jeffrey Scott Vitter, Algorithms and Data Structures for External Memory, Now Publishers Inc., Hanover, MA, 2008

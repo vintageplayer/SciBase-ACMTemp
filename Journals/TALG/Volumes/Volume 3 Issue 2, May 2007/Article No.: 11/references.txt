@@ -1,0 +1,25 @@
+Avizienis, A. 1961. Signed-Digit number representation for fast parallel arithmetic. IRE Trans. Electron. Comput. EC-10, 389--400.
+R Bernstein, Multiplication by Integer constants, Software—Practice & Experience, v.16 n.7, p.641-652, July. 1986[doi>10.1002/spe.4380160704]
+Bull, D. R., and Horrocks, D. H. 1991. Primitive operator digital filters. IEE Proc. G 138, 3, 401--412.
+Cappello, P. R., and Steiglitz, K. 1984. Some complexity issues in digital signal processing. IEEE Trans. Acoustics, Speech Signal Proc. ASSP-32, 5, 1037--1041.
+Chen, Y.-J., Oraintara, S., Tran, T. D., Amaratunga, K., and Nguyen, T. Q. 2002. Multiplierless approximation of transforms with adder constraint. IEEE Signal Proc. Lett. 9, 11, 344--347.
+H. Choo , K. Muhammad , K. Roy, Complexity reduction of digital filters using shift inclusive differential coefficients, IEEE Transactions on Signal Processing, v.52 n.6, p.1760-1772, June 2004[doi>10.1109/TSP.2004.827177]
+Coleman, J. O. 2001. Cascaded coefficient number systems lead to FIR filters of striking computational efficiency. In Proceedings of the International IEEE Conference in Electronics, Circuits, and Systems.
+Dempster, A. G., Demirsoy, S. S., and Kale, I. 2002. Designing multiplier blocks with low logic depth. In Proceedings of the IEEE International Symposium on Circuits and Systems, vol. 5. 773--776.
+Dempster, A. G., and Macleod, M. D. 1994. Constant integer multiplication using minimum adders. IEE Proc. Circ. Devices Syst. 141, 5, 407--413.
+Dempster, A. G., and Macleod, M. D. 1995. Use of minimum-adder multiplier blocks in FIR digital filters. IEEE Trans. Circ. Syst. 42, 9, 569--577.
+Dempster, A. G., and Macleod, M. D. 2004. Using all signed-digit representations to design single integer multipliers using subexpression elimination. In Proceedings of the IEEE International Symposium on Circuits and Systems.
+Peter J. Downey , Ravi Sethi , Robert Endre Tarjan, Variations on the Common Subexpression Problem, Journal of the ACM (JACM), v.27 n.4, p.758-771, Oct. 1980[doi>10.1145/322217.322228]
+Michael R. Garey , David S. Johnson, Computers and Intractability: A Guide to the Theory of NP-Completeness, W. H. Freeman & Co., New York, NY, 1979
+Gustafsson, O., Dempster, A. G., and Wanhammar, L. 2002. Extended results for minimum-adder constant integer multipliers. In Proceedings of the IEEE International Symposium on Circuits and Systems.
+Hartley, R. I. 1996. Subexpression sharing in filters using canonic signed digit multipliers. IEEE Trans. Circ. Syst. 43, 10, 677--688.
+Kang, H.-J., Kim, H., and Park, I.-C. 2001. FIR filter synthesis algorithms for minimizing the delay and the number of adders. IEEE Trans. Circ. Syst. 48, 8, 770--777.
+Donald E. Knuth, The art of computer programming, volume 2 (3rd ed.): seminumerical algorithms, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1997
+Lefèvre, V. 2001. Multiplication by an integer constant. Tech. Rep., INRIA.
+Lefèvre, V. 2003. Multiplication by an integer constant: Lower bounds on the code length. In Proc. 5th Conference on Real Numbers and Computers.
+Jie Liang , T.D. Tran, Fast multiplierless approximations of the DCT with the lifting scheme, IEEE Transactions on Signal Processing, v.49 n.12, p.3032-3044, December 2001[doi>10.1109/78.969511]
+R. Pasko , P. Schaumont , V. Derudder , S. Vernalde , D. Durackova, A new algorithm for elimination of common subexpressions, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.18 n.1, p.58-68, November 2006[doi>10.1109/43.739059]
+M. Puschel , A. C. Zelinski , J. C. Hoe, Custom-optimized multiplierless implementations of DSP algorithms, Proceedings of the 2004 IEEE/ACM International conference on Computer-aided design, p.175-182, November 07-11, 2004[doi>10.1109/ICCAD.2004.1382567]
+Spiral. 2007. http://www.spiral.net.
+Peter Tummeltshammer , James C. Hoe , Markus Püschel, Multiple constant multiplication by time-multiplexed mapping of addition chains, Proceedings of the 41st annual Design Automation Conference, June 07-11, 2004, San Diego, CA, USA[doi>10.1145/996566.996787]
+Huapeng Wu , M. Anwar Hasan, Closed-Form Expression for the Average Weight of Signed-Digit Representations, IEEE Transactions on Computers, v.48 n.8, p.848-851, August 1999[doi>10.1109/12.795126]

@@ -1,0 +1,32 @@
+Richard Beigel, Finding maximum independent sets in sparse and general graphs, Proceedings of the tenth annual ACM-SIAM symposium on Discrete algorithms, p.856-857, January 17-19, 1999, Baltimore, Maryland, USA
+Andreas Bjorklund , Thore Husfeldt, Inclusion--Exclusion Algorithms for Counting Set Partitions, Proceedings of the 47th Annual IEEE Symposium on Foundations of Computer Science, p.575-582, October 21-24, 2006[doi>10.1109/FOCS.2006.41]
+Andreas Björklund , Thore Husfeldt, Exact Algorithms for Exact Satisfiability and Number of Perfect Matchings, Algorithmica, v.52 n.2, p.226-249, August 2008[doi>10.1007/s00453-007-9149-8]
+Björklund, A., Husfeldt, T., and, Koivisto M. 2008. Set partitioning via inclusionnexclusion. SIAM J. Comput. to appear.
+Brègman, L. M. 1973. Certain properties of nonnegative matrices and their permanents. Doklady Akademii Nauk BSSR. 211, 27--30.
+Byskov, J. M., and Eppstein, D. 2004. An algorithm for enumerating maximal bipartite subgraphs. manuscript.
+Evgeny Dantsin , Andreas Goerdt , Edward A. Hirsch , Ravi Kannan , Jon Kleinberg , Christos Papadimitriou , Prabhakar Raghavan , Uwe Schöning, A deterministic (2 - 2/(k+ 1))nalgorithm fork-SAT based on local search, Theoretical Computer Science, v.289 n.1, p.69-83, 23 October 2002[doi>10.1016/S0304-3975(01)00174-8]
+Egorychev, G. P. 1981. Proof of the van der Waerden conjecture for permanents. Sibirsk. Mat. Zh. 22, 65--71, 225.
+Eppstein, D. 2003. Small maximal independent sets and faster exact graph coloring. J. Graph Algor. Appl. 7, 2, 131--140.
+David Eppstein, Quasiconvex analysis of backtracking algorithms, Proceedings of the fifteenth annual ACM-SIAM symposium on Discrete algorithms, January 11-14, 2004, New Orleans, Louisiana
+Fedor V. Fomin , Fabrizio Grandoni , Dieter Kratsch, Measure and conquer: domination – a case study, Proceedings of the 32nd international conference on Automata, Languages and Programming, July 11-15, 2005, Lisbon, Portugal[doi>10.1007/11523468_16]
+Fomin, F. V., Grandoni, F., and Kratsch, D. 2005b. Some new techniques in design and analysis of exact (exponential) algorithms. Bull. Eur. Assoc. Theor. Comput. Sci. 87, 47--77.
+Fedor V. Fomin , Fabrizio Grandoni , Dieter Kratsch, Measure and conquer: a simple O(20.288n) independent set algorithm, Proceedings of the seventeenth annual ACM-SIAM symposium on Discrete algorithm, p.18-25, January 22-26, 2006, Miami, Florida[doi>10.1145/1109557.1109560]
+Fedor V. Fomin , Fabrizio Grandoni , Artem V. Pyatkin , Alexey A. Stepanov, Bounding the number of minimal dominating sets: a measure and conquer approach, Proceedings of the 16th international conference on Algorithms and Computation, December 19-21, 2005, Sanya, Hainan, China[doi>10.1007/11602613_58]
+Fomin, F. V., Kratsch, D., and Todinca, I. 2004. Exact algorithms for treewidth and minimum fill-in. In Proceedings of the 31st International Colloquium on Automata, Languages and Programming (ICALP). Lecture Notes in Computer Science, vol. 3142. Springer, Berlin, 568--580.
+Fedor V. Fomin , Dieter Kratsch , Gerhard J. Woeginger, Exact (exponential) algorithms for the dominating set problem, Proceedings of the 30th international conference on Graph-Theoretic Concepts in Computer Science, June 21-23, 2004, Bad Honnef, Germany[doi>10.1007/978-3-540-30559-0_21]
+Grandoni, F. 2006. A note on the complexity of minimum dominating set. J. Discrete Algor. 4, 2, 209--214.
+Grandoni, F. 2004. Exact algorithms for hard graph problems. Ph.D. thesis, Università di Roma “Tor Vergata”, Rome, Italy.
+Haynes, T. W., and Hedetniemi, S. T., Eds. 1998. Domination in Graphs. Marcel Dekker, New York.
+Held, M., and Karp, R. M. 1962. A dynamic programming approach to sequencing problems. J. SIAM, 10, 196--210.
+Kazuo Iwama , Suguru Tamaki, Improved upper bounds for 3-SAT, Proceedings of the fifteenth annual ACM-SIAM symposium on Discrete algorithms, January 11-14, 2004, New Orleans, Louisiana
+Mikko Koivisto, An O*(2^n ) Algorithm for Graph Coloring and Other Partitioning Problems via Inclusion--Exclusion, Proceedings of the 47th Annual IEEE Symposium on Foundations of Computer Science, p.583-590, October 21-24, 2006[doi>10.1109/FOCS.2006.11]
+Lawler, E. L. 1976. A note on the complexity of the chromatic number problem. Inf. Proc. Lett. 5, 3, 66--67.
+Moon, J. W., and Moser, L. 1965. On cliques in graphs. Israel J. Math. 3, 23--28.
+Randerath, B., and Schiermeyer, I. 2004. Exact algorithms for minimum dominating set. Tech. Rep. zaik-469, Zentrum für Angewandte Informatik Köln, Germany.
+Tobias Riege , Jörg Rothe, An exact 2.9416nalgorithm for the three domatic number problem, Proceedings of the 30th international conference on Mathematical Foundations of Computer Science, August 29-September 02, 2005, Gdansk, Poland[doi>10.1007/11549345_63]
+Tobias Riege , Jörg Rothe , Holger Spakowski , Masaki Yamamoto, An improved exact algorithm for the domatic number problem, Information Processing Letters, v.101 n.3, p.101-106, February, 2007[doi>10.1016/j.ipl.2006.08.010]
+van Rooij, J. M. M., and Bodlaender, H. L. 2008. Design by measure and conquer: A faster exact algorithm for dominating set. In Proceedings of the 25th Annual Symposium on Theoretical Aspects of Computer Science (STACS), Dagstuhl Seminar Proceedings, Internationales Begegnungs- und Forschungszentrum fuer Informatik (IBFI), Schloss Dagstuhl, Germany, 657--668.
+Tarjan, R. E., and Trojanowski, A. E. 1997. Finding a maximum independent set. SIAM J. Comput. 6, 3, 537--546.
+van der Waerden, B. 1926. Problem 45. Jahresber. Deutsch. Math.-Verein., 35, 117.
+Ryan Williams, A new algorithm for optimal 2-constraint satisfaction and its implications, Theoretical Computer Science, v.348 n.2, p.357-365, 8 December 2005[doi>10.1016/j.tcs.2005.09.023]
+Gerhard J. Woeginger, Exact algorithms for NP-hard problems: a survey, Combinatorial optimization - Eureka, you shrink!, Springer-Verlag New York, Inc., New York, NY, 2003

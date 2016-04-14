@@ -1,0 +1,38 @@
+F. N. Afrati, E. Bampis, C. Chekuri, D. R. Karger, C. Kenyon, S. Khanna, I. Milis, M. Queyranne, M. Skutella, C. Stein, and M. Sviridenko. 1999. Approximation schemes for minimizing average weighted completion time with release dates. In Proceedings of the 40th Annual Symposium on Foundations of Computer Science (FOCS’99). IEEE, 32--44.
+S. Albers, S. K. Baruah, R. H. Möhring, and K. Pruhs (Eds.). 2010. Open Problems—Scheduling. Number 10071 in Dagstuhl Seminar Proceedings. Schloss Dagstuhl--Leibniz-Zentrum für Informatik, Germany. Retrieved from http://drops.dagstuhl.de/opus/volltexte/2010/2536.
+P. C. Bagga and K. R. Kalra. 1980. A node elimination procedure for Townsend’s algorithm for solving the single machine quadratic penalty function scheduling problem. Manage. Sci. 26 (1980), 633--636.
+J. K. Baker. 1974. Introduction to Sequencing and Scheduling. John Wiley & Sons.
+N. Bansal, H.-L. Chan, R. Khandekar, K. Pruhs, C. Stein, and B. Schieber. 2007. Non-preemptive min-sum scheduling with resource augmentation. In Proceedings of the 48th Annual Symposium on Foundations of Computer Science (FOCS’07). IEEE, 614--624.
+N. Bansal and K. Pruhs. 2010a. The geometry of scheduling. In Proceedings of the 51st Annual Symposium on Foundations of Computer Science (FOCS’10). IEEE, 407--414.
+N. Bansal and K. R. Pruhs. 2010b. Server scheduling to balance priorities, fairness, and average quality of service. SIAM J. Comput. 39 (2010), 3311--3335.
+C. Barnhart, D. Bertsimas, C. Caramanis, and D. Fearing. 2012. Equitable and efficient coordination in traffic flow management. Transport. Sci. 46 (2012), 262--280.
+L. Becchettia, S. Leonardia, A. Marchetti-Spaccamela, and K. Pruhs. 2006. Online weighted flow time and deadline scheduling. J. Discrete Algorithms 4 (2006), 339--352.
+R. A. Carrasco, G. Iyengar, and C. Stein. 2013. Single machine scheduling with job-dependent convex cost and arbitrary precedence constraints. Oper. Res. Lett. 41 (2013), 436--441.
+C. Chekuri and S. Khanna. 2002. Approximation schemes for preemptive weighted flow time. In Proceedings of the 34th Annual Symposium on Theory of Computing (STOC’02). ACM, 297--305.
+M. Cheung and D. B. Shmoys. 2011. A primal-dual approximation algorithm for min-sum single-machine scheduling problems. In Proceedings of the 14th International Workshop on Approximation Algorithms for Combinatorial Optimization Problems (APPROX’11). Lecture Notes in Computer Science, Vol. 6845. Springer, 135--146.
+F. Della Croce, W. Szwarc, R. Tadei, P. Baracco, and R. di Tullio. 1995. Minimizing the weighted sum of quadratic completion times on a single machine. Nav. Res. Logist. 42 (1995), 1263--1270.
+L. Epstein, A. Levin, A. Marchetti-Spaccamela, N. Megow, J. Mestre, M. Skutella, and L. Stougie. 2012. Universal sequencing on an unreliable machine. SIAM J. Comput. 41 (2012), 565--586.
+R. L. Graham, E. L. Lawler, J. K. Lenstra, and A. H. G. Rinnooy Kan. 1979. Optimization and approximation in deterministic sequencing and scheduling: A survey. Ann. Discrete Math. 5 (1979), 287--326.
+S. K. Gupta and T. Sen. 1984. On the single machine scheduling problem with quadratic penalty function of completion times: An improved branching procedure. Manage. Sci. 30 (1984), 644--647.
+W. Höhn and T. Jacobs. 2012a. An experimental and analytical study of order constraints for single machine scheduling with quadratic cost. In Proceedings of the 14th Workshop on Algorithm Engineering and Experiments (ALENEX’12). SIAM, 103--117.
+W. Höhn and T. Jacobs. 2012b. On the performance of Smith’s rule in single-machine scheduling with nonlinear cost. In Proceedings of the 10th Latin American Theoretical Informatics Symposium (LATIN’12). Lecture Notes in Computer Science, Vol. 7256. Springer, 482--493.
+S. Im, B. Moseley, and K. Pruhs. 2012. Online scheduling with general cost function. In Proceedings of the 23rd Annual Symposium on Discrete Algorithms (SODA’12). SIAM, 1254--1265.
+T. Jacobs. 2012. Analytical aspects of tie breaking. Theor. Comput. Sci. 465 (2012), 1--9.
+B. Kalyanasundaram and K. Pruhs. 2000. Speed is as powerful as clairvoyance. J. ACM 47 (2000), 617--643.
+H. Kellerer, T. Tautenhahn, and G. Woeginger. 1999. Approximability and nonapproximability results for minimizing total flow time on a single machine. SIAM J. Comput. 28 (1999), 1155--1166.
+J. Labetoulle, E. L. Lawler, J. K. Lenstra, and A. H. G. Rinnooy Kan. 1984. Preemptive scheduling of uniform machines subject to release dates. In Progress in Combinatorial Optimization. Academic Press, Toronto, 245--261.
+E. L. Lawler. 1977. A “Pseudopolynomial” algorithm for sequencing jobs to minimize total tardiness. Ann. Discrete Math. 1 (1977), 331--342.
+J. K. Lenstra, A. H. G. Rinnooy Kan, and P. Brucker. 1977. Complexity of machine scheduling problems. Ann. Discrete Math. 1 (1977), 343--362.
+N. Megow and J. Verschae. 2013. Dual techniques for scheduling on a machine with varying speed. In Proceedings of the 40th International Colloquium on Automata, Languages and Programming (ICALP’13). Lecture Notes in Computer Science, Vol. 7965. Springer, 745--756.
+J. Mestre and J. Verschae. 2014. A 4-approximation for scheduling on a single machine with general cost function. CoRR abs/1403.0298.
+S. A. Mondal and A. K. Sen. 2000. An improved precedence rule for single machine sequencing problems with quadratic penalty. Eur. J. Oper. Res. 125 (2000), 425--428.
+B. Moseley, K. Pruhs, and C. Stein. 2013. The complexity of scheduling for p-norms of flow and stretch. In Proceedings of the 16th Conference on Integer Programming and Combinatorial Optimization (IPCO’13). Lecture Notes in Computer Science, Vol. 7801. Springer, 278--289.
+C. N. Potts and V. A. Strusevich. 2009. Fifty years of scheduling: A survey of milestones. J. Oper. Res. Soc. 60 (2009), 41--68.
+Michael H. Rothkopf. 1966. Scheduling independent tasks on parallel processors. Manage. Sci. 12 (1966), 437--447.
+M. H. Rothkopf and S. A. Smith. 1984. There are no undiscovered priority index sequencing rules for minimizing total delay costs. Oper. Res. 32 (1984), 451--456.
+A. Schild and I. J. Fredman. 1962. Scheduling tasks with deadlines and non-linear loss functions. Manage. Sci. 9 (1962), 73--81.
+T. Sen, P. Dileepan, and B. Ruparel. 1990. Minimizing a generalized quadratic penalty function of job completion times: An improved branch-and-bound approach. Eng. Cost. Prod. Econ. 18 (1990), 197--202.
+W. E. Smith. 1956. Various optimizers for single-stage production. Nav. Res. Logist. Q. 3 (1956), 59--66.
+S. Stiller and A. Wiese. 2010. Increasing speed scheduling and flow scheduling. In Proceedings of the 21st International Symposium on Algorithms and Computation (ISAAC’10). Lecture Notes in Computer Science, Vol. 6507. Springer, 279--290.
+W. Townsend. 1978. The single machine problem with quadratic penalty function of completion times: A branch-and-bound solution. Manage. Sci. 24 (1978), 530--534.
+J. Yuan. 1992. The NP-hardness of the single machine common due date weighted tardiness problem. System Sci. Math. Sci. 5 (1992), 328--333.

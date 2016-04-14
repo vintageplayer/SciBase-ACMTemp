@@ -1,0 +1,48 @@
+A. V. Aho, M. R. Garey, and J. D. Ullman. 1972. The transitive reduction of a directed graph. SIAM Journal on Computing 1, 2, 131--137.
+A. V. Aho, R. Sethi, and J. D. Ullman. 1986. Compilers: Principles, Techniques, and Tools. Addison-Wesley, Reading, MA.
+J. Bang-Jensen and G. Gutin. 2001. Digraphs: Theory, Algorithms and Applications. Springer, New York, NY.
+A. L. Buchsbaum, H. Kaplan, L. Georgiadis, A. Rogers, R. E. Tarjan, and J. R. Westbrook. 2008. Linear-time algorithms for dominators and other path-evaluation problems. SIAM Journal on Computing 38, 4, 1533--1573.
+T. H. Cormen, C. E. Leiserson, R. L. Rivest, and C. Stein. 2001. Introduction to Algorithms (2nd ed.). McGraw-Hill, New York, NY.
+E. W. Dijkstra. 1976. A Discipline of Programming. Prentice Hall, Upper Saddle River, NJ.
+E. A. Dinits, A. V. Karzanov, and M. V. Lomonosov. 1976. On the structure of a family of minimal weighted cuts in a graph. In Studies in Discrete Optimization, A. A. Fridman (Ed.). Nauka Publishers, Moscow, Russia, 290--306.
+A. L. Dulmage and N. S. Mendelsohn. 1959. A structure theory of bipartite graphs of finite exterior dimension. Transactions of the Royal Society of Canada 53, 1--13.
+J. Edmonds. 1969. Submodular functions, matroids, and certain polyhedra. In Proceedings of the Calgary International Conference on Combinatorial Structures and Their Applications. 69--87.
+J. Edmonds. 1972. Edge-disjoint branchings. In Combinatorial Algorithms, R. Rustin (Ed.). Algorithmics Press, New York, NY, 91--96.
+T. Fleiner and A. Frank. 2009. A Quick Proof for the Cactus Representation of Mincuts. Technical Report. Eötvös University, Budapest, Hungary.
+L. Fleischer. 1999. Building chain and cactus representations of all minimum cuts from Hao-Orlin in the same asymptotic run time. Journal of Algorithms 33, 1, 51--72.
+W. Fraczak, L. Georgiadis, A. Miller, and R. E. Tarjan. 2013. Finding dominators via disjoint set union. Journal of Discrete Algorithms, 2--20.
+W. Fraczak and A. Miller. 2012. Disjoint set forest digraph representation for an efficient dominator tree construction. In Combinatorial Algorithms. Lecture Notes in Computer Science, Vol. 7643. Springer, 46--59.
+A. Frank. 1992. Augmenting graphs to meet edge-connectivity requirements. SIAM Journal on Discrete Mathematics 5, 25--53.
+H. N. Gabow. 1991. Applications of a poset representation to edge connectivity and graph rigidity. In Proceedings of the 32nd Annual IEEE Symposium on Foundations of Computer Science. IEEE, Los Alamitos, CA, 812--821.
+H. N. Gabow. 1993. A framework for cost-scaling algorithms for submodular flow problems. In Proceedings of the 34th Annual IEEE Symposium on Foundations of Computer Science. IEEE, Los Alamitos CA, 449--458.
+H. N. Gabow. 1995a. Centroids, representations and submodular flows. Journal of Algorithms 18, 586--628.
+H. N. Gabow. 1995b. A matroid approach to finding edge connectivity and packing arborescences. Journal of Computer and System Sciences 50, 2, 259--273.
+H. N. Gabow. 2000. Path-based depth-first search for strong and biconnected components. Information Processing Letters 74, 107--114.
+H. N. Gabow. 2010. A Poset Approach to Dominator Computation. Manuscript posted at https://www.cs.colorado.edu/∼hal.
+H. N. Gabow and R. E. Tarjan. 1985. A linear-time algorithm for a special case of disjoint set union. Journal of Computer and System Sciences 30, 2, 209--221.
+H. N. Gabow and H. H. Westermann. 1992. Forests, frames and games: Algorithms for matroid sums and applications. Algorithmica 7, 465--497.
+L. Georgiadis, R. E. Tarjan, and R. F. Werneck. 2006. Finding dominators in practice. Journal of Graph Algorithms and Applications 10, 1, 69--91.
+A. V. Goldberg and R. E. Tarjan. 1988. A new approach to the maximum-flow problem. Journal of the ACM 35, 4, 921--940.
+D. Gusfield and R. W. Irving. 1989. The Stable Marriage Problem: Structure and Algorithms. MIT Press, Cambridge, MA.
+J. Hao and J. B. Orlin. 1994. A faster algorithm for finding the minimum cut in a directed graph. Journal of Algorithms 17, 3, 424--446.
+H. Imai. 1983. Network-flow algorithms for lower-truncated transversal polymatroids. Journal of the Operations Research Society of Japan 26, 3, 186--210.
+A. V. Karzanov and E. A. Timofeev. 1986. Efficient algorithm for finding all minimal edge cuts of a nonoriented graph. Kibernetika 2, 8--12. Translated in Cybernetics, 156--162.
+T. Lengauer and R. E. Tarjan. 1979. A fast algorithm for finding dominators in a flowgraph. ACM Transactions on Programming Languages and Systems 1, 1, 121--141.
+L. Lovász and Y. Yemini. 1982. On generic rigidity in the plane. SIAM Journal on Algebraic and Discrete Methods 3, 91--98.
+H. Nagamochi, Y. Nakao, and T. Ibaraki. 2000. A fast algorithm for cactus representations of minimum cuts. Japan Journal of Industrial and Applied Mathematics 17, 2, 245--264.
+M. Nakamura. 1986. On the representation of the rigid sub-systems of a plane link system. Journal of the Operations Research Society of Japan 29, 4, 305--318.
+M. Nakamura and M. Iri. 1979. Fine structures of matroid intersections and their applications. In Proceedings of the International Symposium on Circuits and Systems. 996--999.
+D. Naor, D. Gusfield, and C. Martel. 1997. A fast algorithm for optimally increasing the edge-connectivity. SIAM Journal on Computing 26, 4, 1139--1165.
+J.-C. Picard and M. Queyranne. 1980. On the structure of all minimum cuts in a network and applications. Mathematical Programming Study 13, 8--16.
+G. Ramalingam. 2002. On loops, dominators and dominator frontiers. ACM Transactions on Programming Languages and Systems 24, 5, 455--490.
+G. Ramalingam and T. Reps. 1994. An incremental algorithm for maintaining the dominator tree of a reducible flowgraph. In Proceedings of the 21st ACM SIGPLAN--SIGACT Symposium on Principles of Programming Languages. 287--296.
+A. Recski. 1989. Matroid Theory and Its Applications in Electric Network Theory and in Statics. Springer--Verlag, New York, NY.
+J. Roskind and R. E. Tarjan. 1985. A note on finding minimum-cost edge-disjoint spanning trees. Mathematics of Operations Research 10, 4, 701--708.
+A. Schrijver. 2003. Combinatorial Optimization: Polyhedra and Efficiency. Springer, New York, NY.
+R. E. Tarjan. 1972. Depth-first search and linear graph algorithms. SIAM Journal on Computing 1, 2, 146--160.
+R. E. Tarjan. 1974. Finding dominators in directed graphs. SIAM Journal on Computing 3, 1, 62--89.
+R. E. Tarjan. 1976. Edge-disjoint spanning trees and depth-first search. Acta Informatica 6, 2, 171--185.
+R. E. Tarjan. 1979. Applications of path compression on balanced trees. Journal of the ACM 26, 4, 690--715.
+R. E. Tarjan. 1983. Data Structures and Network Algorithms. SIAM, Philadelphia, PA.
+T.-S. Tay. 1984. Rigidity of multi-graphs. I. Linking rigid bodies in n-space. Journal of Combinatorial Theory, Series B 36, 95--112.
+N. White and W. Whiteley. 1987. The algebraic geometry of motions of bar-and-body frameworks. SIAM Journal on Algebraic and Discrete Methods 8, 1, 1--32.

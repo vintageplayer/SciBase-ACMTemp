@@ -1,0 +1,41 @@
+T. Asano, T. Asano, L. Guibas, J. Hershberger, and H. Imai. 1986. Visibility of disjoint polygons. Algorithmica 1, 1 (1986), 49--63.
+R. Bar-Yehuda and B. Chazelle. 1994. Triangulating disjoint Jordan chains. Int. J. Comput. Geom. Appl. 4, 4 (1994), 475--481.
+E. Chang, S. Choi, D. Kwon, H. Park, and C. Yap. 2005. Shortest path amidst disc obstacles is computable. In Proceedings of the 21st Annual ACM Symposium on Computational Geometry (SoCG’05). 116--125.
+B. Chazelle. 1991. Triangulating a simple polygon in linear time. Discr. Comput. Geom. 6 (1991), 485--524.
+D. Z. Chen, J. Hershberger, and H. Wang. 2013. Computing shortest paths amid convex pseudodisks. SIAM J. Comput. 42, 3 (2013), 1158--1184.
+D. Z. Chen, R. Inkulu, and H. Wang. 2014. Two-point L1shortest path queries in the plane. In Proceedings of the 30th Annual Symposium on Computational Geometry (SoCG’14). 406--415.
+D. Z. Chen and H. Wang. 2011a. Computing shortest paths amid pseudodisks. In Proceedings of the 22nd Annual ACM-SIAM Symposium on Discrete Algorithms (SODA’11). 309--326.
+D. Z. Chen and H. Wang. 2011b. A nearly optimal algorithm for finding L1shortest paths among polygonal obstacles in the plane. In Proceedings of the 19th European Symposium on Algorithms (ESA’11). 481--492.
+D. Z. Chen and H. Wang. 2012. Computing the visibility polygon of an island in a polygonal domain. In Proceedings of the 39th International Colloquium on Automata, Languages and Programming (ICALP’12). 218--229.
+D. Z. Chen and H. Wang. 2013a. Computing shortest paths among curved obstacles in the plane. In Proceedings of the 29th ACM Symposium on Computational Geometry (SoCG’13). 369--378.
+D. Z. Chen and H. Wang. 2013b. L1shortest path queries among polygonal obstacles in the plane. In Proceedings of 30th Symposium on Theoretical Aspects of Computer Science (STACS’13). 293--304.
+D. Z. Chen and H. Wang. 2013c. Visibility and ray shooting queries in polygonal domains. In Proceedings of the 13rd International Symposium on Algorithms and Data Structures (WADS’13). 369--378.
+L. P. Chew. 1985. Planning the shortest path for a disc in O(n2log n) time. In Proceedings of the 1st Annual ACM Symposium on Computational Geometry (SoCG’85). 214--220.
+D. Dobkin and D. Souvaine. 1990. Computational geometry in a curved world. Algorithmica 5 (1990), 421--457.
+D. Dobkin, D. Souvaine, and C. Van Wyk. 1988. Decomposition and intersection of simple splinegons. Algorithmica 3 (1988), 473--485.
+H. Edelsbrunner and L. Guibas. 1989. Topologically sweeping an arrangement. J. Comput. Syst. Sci. 38, 1 (1989), 165--194.
+H. Edelsbrunner, L. Guibas, and J. Stolfi. 1986. Optimal point location in a monotone subdivision. SIAM J. Comput. 15, 2 (1986), 317--340.
+S. Fortune. 1987. A sweepline algorithm for Voronoi diagrams. Algorithmica 2 (1987), 153--174.
+S. K. Ghosh and D. M. Mount. 1991. An output-sensitive algorithm for computing visibility graphs. SIAM J. Comput. 20, 5 (1991), 888--910.
+L. J. Guibas, J. Hershberger, D. Leven, M. Sharir, and R. E. Tarjan. 1987. Linear-time algorithms for visibility and shortest path problems inside triangulated simple polygons. Algorithmica 2, 1--4 (1987), 209--233.
+J. Hershberger and L. Guibas. 1988. An O(n2) shortest path algorithm for a non-rotating convex body. J. Algorithms 9, 1 (1988), 18--46.
+J. Hershberger and S. Suri. 1999. An optimal algorithm for Euclidean shortest paths in the plane. SIAM J. Comput. 28, 6 (1999), 2215--2256.
+J. Hershberger, S. Suri, and H. Yıldız. 2013. A near-optimal algorithm for shortest paths among curved obstacles in the plane. In Proceedings of the 29th Annual Symposium on Computational Geometry (SoCG’13). 359--368.
+K. Hoffmann, K. Mehlhorn, P. Rosenstiehl, and R. E. Tarjan. 1986. Sorting Jordan sequences in linear time using level-linked search trees. Inf. Control 68 (1986), 170--184.
+R. Inkulu and S. Kapoor. 2009. Planar rectilinear shortest path computation using corridors. Comput. Geom.: Theory Appl. 42, 9 (2009), 873--884.
+R. Inkulu, S. Kapoor, and S. N. Maheshwari. 2010. A near optimal algorithm for finding Euclidean shortest path in polygonal domain. In arXiv:1011.6481v1.
+S. Kapoor and S. N. Maheshwari. 1988. Efficient algorithms for Euclidean shortest path and visibility problems with polygonal obstacles. In Proceedings of the 4th Annual ACM Symposium on Computational Geometry (SoCG’88). 172--182.
+S. Kapoor, S. N. Maheshwari, and J. S. B. Mitchell. 1997. An efficient algorithm for Euclidean shortest paths among polygonal obstacles in the plane. Discrete Comput. Geom. 18, 4 (1997), 377--383.
+K. Kedem, R. Livne, J. Pach, and M. Sharir. 1986. On the union of Jordan regions and collision-free translational motion amidst polygonal obstacles. Discrete Comput. Geom. 1, 1 (1986), 59--71.
+D.-S. Kim, K. Yu, Y. Cho, D. Kim, and C. Yap. 2004. Shortest paths for disc obstacles. In Proceedings of the International Conference on Computational Science and Its Applications. 62--70.
+D. Kirkpatrick. 1983. Optimal search in planar subdivisions. SIAM J. Comput. 12, 1 (1983), 28--35.
+D. Kirkpatrick and J. Snoeyink. 1995. Tentative prune-and-search for computing fixed-points with applications to geometric computation. Fund. Inf. 22, 4 (1995), 353--370.
+M. McAllister, D. Kirkpatrick, and J. Snoeyink. 1996. A compact piecewise-linear Voronoi diagram for convex sites in the plane. Discrete Comput. Geom. 15, 1 (1996), 73--105.
+E. Melissaratos and D. Souvaine. 1992. Shortest paths help solve geometric optimization problems in planar regions. SIAM J. Comput. 21, 4 (1992), 601--638.
+J. S. B. Mitchell. 1996. Shortest paths among obstacles in the plane. Int. J. Comput. Geom. Appl. 6, 3 (1996), 309--332.
+M. H. Overmars and E. Welzl. 1988. New methods for computing visibility graphs. In Proceedings of the 4th Annual Symposium on Computational Geometry (SoCG). 164--171.
+M. Pocchiola and G. Vegter. 1995. Computing the visibility graph via pseudo-triangulations. In Proceedings of the 11th Annual ACM Symposium on Computational Geometry (SoCG’95). 248--257.
+M. Pocchiola and G. Vegter. 1996. Topologically sweeping visibility complexes via pseudotriangulations. Discrete Comput. Geom. 16, 4 (1996), 419--453.
+H. Rohnert. 1986. Shortest paths in the plane with convex polygonal obstacles. Inform. Process. Lett. 23, 2 (1986), 71--76.
+J. A. Storer and J. H. Reif. 1994. Shortest paths in the plane with polygonal obstacles. J. ACM 41, 5 (1994), 982--1012.
+E. Welzl. 1985. Constructing the visibility graph for n line segments in O(n2) time. Inform. Process. Lett. 20 (1985), 167--171.

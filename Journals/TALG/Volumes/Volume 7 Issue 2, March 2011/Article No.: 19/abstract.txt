@@ -1,0 +1,1 @@
+LetGbe a directed planar graph of complexityn, each arc having a nonnegative length. Letsandtbe two distinct faces ofGlets1,…,skbe vertices incident withslett1,…,tkbe vertices incident witht. We give an algorithm to computekpairwise vertex-disjoint paths connecting the pairs (si,ti) inG, with minimal total length, inO(knlogn) time.
