@@ -1,0 +1,44 @@
+Aguilera, M. and Toueg, S.1999. A simple bivalency proof that t-resilient consensus requires t + 1 rounds.Inform. Proc. Lett. 71, 155--178.
+Dana Angluin, Local and global properties in networks of processors (Extended Abstract), Proceedings of the twelfth annual ACM symposium on Theory of computing, p.82-93, April 28-30, 1980, Los Angeles, California, USA[doi>10.1145/800141.804655]
+James Aspnes , Gauri Shah , Jatin Shah, Wait-free consensus with infinite arrivals, Proceedings of the thiry-fourth annual ACM symposium on Theory of computing, May 19-21, 2002, Montreal, Quebec, Canada[doi>10.1145/509907.509983]
+James Aspnes , Faith Ellen Fich , Eric Ruppert, Relationships between broadcast and shared memory in reliable anonymous distributed systems, Distributed Computing, v.18 n.3, p.209-219, February 2006[doi>10.1007/s00446-005-0145-4]
+Hagit Attiya , Alla Gorbach , Shlomo Moran, Computing in totally anonymous asynchronous shared memory systems, Information and Computation, v.173 n.2, p.162-183, March 15, 2002[doi>10.1006/inco.2001.3119]
+Hagit Attiya , Marc Snir , Manfred K. Warmuth, Computing on an anonymous ring, Journal of the ACM (JACM), v.35 n.4, p.845-875, Oct. 1988[doi>10.1145/48014.48247]
+Hagit Attiya , Jennifer Welch, Distributed Computing: Fundamentals, Simulations and Advanced Topics, John Wiley & Sons, 2004
+Elizabeth Borowsky , Eli Gafni, Generalized FLP impossibility result fort-resilient asynchronous computations, Proceedings of the twenty-fifth annual ACM symposium on Theory of computing, p.91-100, May 16-18, 1993, San Diego, California, USA[doi>10.1145/167088.167119]
+Harry Buhrman , Alessandro Panconesi , Riccardo Silvestri , Paul Vitanyi, On the importance of having an identity or, is consensus really universal?, Distributed Computing, v.18 n.3, p.167-176, February 2006[doi>10.1007/s00446-005-0121-z]
+Tushar Deepak Chandra , Sam Toueg, Unreliable failure detectors for reliable distributed systems, Journal of the ACM (JACM), v.43 n.2, p.225-267, March 1996[doi>10.1145/226643.226647]
+Tushar Deepak Chandra , Vassos Hadzilacos , Sam Toueg, The weakest failure detector for solving consensus, Journal of the ACM (JACM), v.43 n.4, p.685-722, July 1996[doi>10.1145/234533.234549]
+Soma Chaudhuri, Morechoicesallow morefaults: set consensus problems in totally asynchronous systems, Information and Computation, v.105 n.1, p.132-158, July 1993[doi>10.1006/inco.1993.1043]
+Soma Chaudhuri , Maurice Erlihy , Nancy A. Lynch , Mark R. Tuttle, Tight bounds fork-set agreement, Journal of the ACM (JACM), v.47 n.5, p.912-943, Sept. 2000[doi>10.1145/355483.355489]
+Tom Chothia , Konstantinos Chatzikokolakis, A survey of anonymous peer-to-peer file-sharing, Proceedings of the 2005 international conference on Embedded and Ubiquitous Computing, December 06-09, 2005, Nagasaki, Japan[doi>10.1007/11596042_77]
+Carole Delporte-Gallet , Hugues Fauconnier , Rachid Guerraoui, A Realistic Look At Failure Detectors, Proceedings of the 2002 International Conference on Dependable Systems and Networks, p.345-353, June 23-26, 2002
+C. Delporte-Gallet , H. Fauconnier , J. -M. Helary , M. Raynal, Early stopping in Global Data Computation, IEEE Transactions on Parallel and Distributed Systems, v.14 n.9, p.909-921, September 2003[doi>10.1109/TPDS.2003.1233713]
+Danny Dolev , Ruediger Reischuk , H. Raymond Strong, Early stopping in Byzantine agreement, Journal of the ACM (JACM), v.37 n.4, p.720-741, Oct. 1990[doi>10.1145/96559.96565]
+Arjan Durresi , Vamsi Paruchuri , Mimoza Durresi , Leonard Barolli, A hierarchical anonymous communication protocol for sensor networks, Proceedings of the 2005 international conference on Embedded and Ubiquitous Computing, December 06-09, 2005, Nagasaki, Japan[doi>10.1007/11596356_111]
+Cynthia Dwork , Yoram Moses, Knowledge and common knowledge in a byzantine environment: crash failures, Information and Computation, v.88 n.2, p.156-186, Oct. 1990[doi>10.1016/0890-5401(90)90014-9]
+Elrad, T. and Francez, N.1982. Decomposition of distributed programs into communication-closed layers.Sci. Comput. Program. 2, 3, 155--173.
+Fischer, M. and Lynch, N.1982. A lower bound on the time to assure interactive consistency.Inform. Proc. Lett. 14, 4, 183--186.
+Michael J. Fischer , Nancy A. Lynch , Michael S. Paterson, Impossibility of distributed consensus with one faulty process, Journal of the ACM (JACM), v.32 n.2, p.374-382, April 1985[doi>10.1145/3149.214121]
+Eli Gafni, Round-by-round fault detectors (extended abstract): unifying synchrony and asynchrony, Proceedings of the seventeenth annual ACM symposium on Principles of distributed computing, p.143-152, June 28-July 02, 1998, Puerto Vallarta, Mexico[doi>10.1145/277697.277724]
+Rachid Guerraoui , Michel Raynal, The Alpha of Indulgent Consensus, The Computer Journal, v.50 n.1, p.53-67, January 2007[doi>10.1093/comjnl/bxl046]
+Guerraoui, R. and Ruppert, E.2007. Anonymous and fault-tolerant shared memory computing.Distrib. Comput. 20, 3, 165--177.
+Joseph Y. Halpern , Yoram Moses, Knowledge and common knowledge in a distributed environment, Journal of the ACM (JACM), v.37 n.3, p.549-587, July 1990[doi>10.1145/79147.79161]
+Maurice Herlihy, Wait-free synchronization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.1, p.124-149, Jan. 1991[doi>10.1145/114005.102808]
+J.-M. Hélary , M. Hurfin , A. Mostefaoui , M. Raynal , F. Tronel, Computing Global Functions in Asynchronous Distributed Systems with Perfect Failure Detectors, IEEE Transactions on Parallel and Distributed Systems, v.11 n.9, p.897-909, September 2000[doi>10.1109/71.879773]
+Maurice Herlihy , Victor Luchangco , Mark Moir, Obstruction-Free Synchronization: Double-Ended Queues as an Example, Proceedings of the 23rd International Conference on Distributed Computing Systems, p.522, May 19-22, 2003
+Maurice Herlihy , Nir Shavit, The topological structure of asynchronous computability, Journal of the ACM (JACM), v.46 n.6, p.858-923, Nov. 1999[doi>10.1145/331524.331529]
+Idit Keidar , Sergio Rajsbaum, A simple proof of the uniform consensus synchronous lower bound, Information Processing Letters, v.85 n.1, p.47-52, 16 January 2003[doi>10.1016/S0020-0190(02)00333-2]
+T. V. Lakshman , V. K. Wei, Distributed Computing on Regular Networks with Anonymous Nodes, IEEE Transactions on Computers, v.43 n.2, p.211-218, February 1994[doi>10.1109/12.262125]
+Loui, M. and Abu-Amara, H.1987. Memory requirements for agreement among unreliable asynchronous processes.Adv. Comput. Res. 4, 163--183.
+Nancy A. Lynch, Distributed Algorithms, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1996
+Yoram Moses , Michel Raynal, Revisiting simultaneous consensus with crash failures, Journal of Parallel and Distributed Computing, v.69 n.4, p.400-409, April, 2009[doi>10.1016/j.jpdc.2009.01.001]
+Moses, Y. and Tuttle, M.1988. Programming simultaneous actions using common knowledge.Algorithmica 3, 121--169.
+Mostefaoui, A. and Raynal, M.2001. Leader-based consensus.Parall. Process. Lett. 11, 1, 95--107.
+Achour Mostefaoui , Sergio Rajsbaum , Michel Raynal , Corentin Travers, The Combined Power of Conditions and Information on Failures to Solve Asynchronous Set Agreement, SIAM Journal on Computing, v.38 n.4, p.1574-1601, July 2008[doi>10.1137/050645580]
+Mostefaoui, A., Rajsbaum, S., Raynal, M., and Travers, C.2008b. On the computability power and the robustness of set agreement-oriented failure detector classes.Distrib. Comput. 21, 3, 201--222.
+Alessandro Panconesi , Marina Papatriantafilou , Philippas Tsigas , Paul Vitányi, Randomized naming using wait-free shared variables, Distributed Computing, v.11 n.3, p.113-124, August 1998[doi>10.1007/s004460050045]
+Michel Raynal, Consensus in Synchronous Systems: A Concise Guided Tour, Proceedings of the 2002 Pacific Rim International Symposium on Dependable Computing, p.221, December 16-18, 2002
+Michael Saks , Fotios Zaharoglou, Wait-Freek-Set Agreement is Impossible: The Topology of Public Knowledge, SIAM Journal on Computing, v.29 n.5, p.1449-1483, March 2000[doi>10.1137/S0097539796307698]
+Masafumi Yamashita , Tsunehiko Kameda, Computing on Anonymous Networks: Part I-Characterizing the Solvable Cases, IEEE Transactions on Parallel and Distributed Systems, v.7 n.1, p.69-89, January 1996[doi>10.1109/71.481599]
+Masafumi Yamashita , Tsunehiko Kameda, Computing on Anonymous Networks: Part II-Decision and Membership Problems, IEEE Transactions on Parallel and Distributed Systems, v.7 n.1, p.90-96, January 1996[doi>10.1109/71.481600]

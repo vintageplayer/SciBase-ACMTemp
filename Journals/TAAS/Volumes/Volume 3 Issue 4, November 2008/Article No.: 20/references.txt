@@ -1,0 +1,30 @@
+Alpern, B. and Schneider, F. B. 1985. Defining liveness. Inf. Process. Lett. 21, 4, 181--185.
+Hagit Attiya , Amotz Bar-Noy , Danny Dolev, Sharing memory robustly in message-passing systems, Journal of the ACM (JACM), v.42 n.1, p.124-142, Jan. 1995[doi>10.1145/200836.200869]
+Michael Ben-Or, Another advantage of free choice (Extended Abstract): Completely asynchronous agreement protocols, Proceedings of the second annual ACM symposium on Principles of distributed computing, p.27-30, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806707]
+Tushar Deepak Chandra , Vassos Hadzilacos , Sam Toueg, The weakest failure detector for solving consensus, Journal of the ACM (JACM), v.43 n.4, p.685-722, July 1996[doi>10.1145/234533.234549]
+Tushar Deepak Chandra , Sam Toueg, Unreliable failure detectors for reliable distributed systems, Journal of the ACM (JACM), v.43 n.2, p.225-267, March 1996[doi>10.1145/226643.226647]
+Soma Chaudhuri, Morechoicesallow morefaults: set consensus problems in totally asynchronous systems, Information and Computation, v.105 n.1, p.132-158, July 1993[doi>10.1006/inco.1993.1043]
+Partha Dutta , Rachid Guerraoui, The inherent price of indulgence, Proceedings of the twenty-first annual symposium on Principles of distributed computing, July 21-24, 2002, Monterey, California[doi>10.1145/571825.571838]
+Cynthia Dwork , Nancy Lynch , Larry Stockmeyer, Consensus in the presence of partial synchrony, Journal of the ACM (JACM), v.35 n.2, p.288-323, April 1988[doi>10.1145/42282.42283]
+Christof Fetzer , Ulrich Schmid , Martin Susskraut, On the Possibility of Consensus in Asynchronous Systems with Finite Average Response Times, Proceedings of the 25th IEEE International Conference on Distributed Computing Systems, p.271-280, June 06-10, 2005[doi>10.1109/ICDCS.2005.57]
+Michael J. Fischer , Nancy A. Lynch , Michael S. Paterson, Impossibility of distributed consensus with one faulty process, Journal of the ACM (JACM), v.32 n.2, p.374-382, April 1985[doi>10.1145/3149.214121]
+Rachid Guerraoui, Indulgent algorithms (preliminary version), Proceedings of the nineteenth annual ACM symposium on Principles of distributed computing, p.289-297, July 16-19, 2000, Portland, Oregon, USA[doi>10.1145/343477.343630]
+Rachid Guerraoui, On the hardness of failure-sensitive agreement problems, Information Processing Letters, v.79 n.2, p.99-104, June 30, 2001[doi>10.1016/S0020-0190(00)00171-X]
+Rachid Guerraoui, Non-blocking atomic commit in asynchronous distributed systems with failure detectors, Distributed Computing, v.15 n.1, p.17-25, January 2002[doi>10.1007/s446-002-8027-4]
+Rachid Guerraoui , Michel Raynal, The Information Structure of Indulgent Consensus, IEEE Transactions on Computers, v.53 n.4, p.453-466, April 2004[doi>10.1109/TC.2004.1268403]
+Vassos Hadzilacos , Sam Toueg, Fault-tolerant broadcasts and related problems, Distributed systems (2nd Ed.), ACM Press/Addison-Wesley Publishing Co., New York, NY, 1993
+Maurice Herlihy, Wait-free synchronization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.1, p.124-149, Jan. 1991[doi>10.1145/114005.102808]
+Idit Keidar , Alexander Shraer, Timeliness, failure-detectors, and consensus performance, Proceedings of the twenty-fifth annual ACM symposium on Principles of distributed computing, July 23-26, 2006, Denver, Colorado, USA[doi>10.1145/1146381.1146408]
+L. Lamport, Proving the Correctness of Multiprocess Programs, IEEE Transactions on Software Engineering, v.3 n.2, p.125-143, March 1977[doi>10.1109/TSE.1977.229904]
+L. Lamport, How to Make a Multiprocessor Computer That Correctly Executes Multiprocess Programs, IEEE Transactions on Computers, v.28 n.9, p.690-691, September 1979[doi>10.1109/TC.1979.1675439]
+Leslie Lamport, The part-time parliament, ACM Transactions on Computer Systems (TOCS), v.16 n.2, p.133-169, May 1998[doi>10.1145/279227.279229]
+Leslie Lamport , Robert Shostak , Marshall Pease, The Byzantine Generals Problem, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.3, p.382-401, July 1982[doi>10.1145/357172.357176]
+Nancy A. Lynch, Distributed Algorithms, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1996
+Achour Mostefaoui , Michel Raynal , Corentin Travers, Crash-Resilient Time-Free Eventual Leadership, Proceedings of the 23rd IEEE International Symposium on Reliable Distributed Systems, p.208-217, October 18-20, 2004
+Livia Sampaio , Francisco Brasileiro, Adaptive Indulgent Consensus, Proceedings of the 2005 International Conference on Dependable Systems and Networks, p.422-431, June 28-July 01, 2005[doi>10.1109/DSN.2005.16]
+Dale Skeen, Nonblocking commit protocols, Proceedings of the 1981 ACM SIGMOD international conference on Management of data, April 29-May 01, 1981, Ann Arbor, Michigan[doi>10.1145/582318.582339]
+Gadi Taubenfeld, Computing in the Presence of Timing Failures, Proceedings of the 26th IEEE International Conference on Distributed Computing Systems, p.16, July 04-07, 2006[doi>10.1109/ICDCS.2006.21]
+Pedro Vicente , Luís Rodrigues, An Indulgent Uniform Total Order Algorithm with Optimistic Delivery, Proceedings of the 21st IEEE Symposium on Reliable Distributed Systems, p.92, October 13-16, 2002
+Hagen Völzer, A constructive proof for FLP, Information Processing Letters, v.92 n.2, p.83-87, 31 October 2004[doi>10.1016/j.ipl.2004.06.008]
+Josef Widder , Gérard Le Lann , Ulrich Schmid, Failure detection with booting in partially synchronous systems, Proceedings of the 5th European conference on Dependable Computing, April 20-22, 2005, Budapest, Hungary[doi>10.1007/11408901_3]
+Piotr Zielinski, Optimistically Terminating Consensus: All Asynchronous Consensus Protocols in One Framework, Proceedings of the Proceedings of The Fifth International Symposium on Parallel and Distributed Computing, p.24-33, July 06-09, 2006[doi>10.1109/ISPDC.2006.37]
