@@ -1,0 +1,46 @@
+Dennis Abts, Natalie D. Enright Jerger, John Kim, Dan Gibson, and Mikko H. Lipasti. 2009. Achieving predictable performance through better memory controller placement in many-core CMPs. In Proceedings of the International Symposium on Computer Architecture (ISCA'09).
+Amd Inc. 2014. APP SDK -- A complete development platform. http://developer.amd.com/tools-and-sdks/opencl-zone/amd-accelerated-parallel-processing-app-sdk/(Last accessed 2/2015).
+Rajive Bagrodia, Richard Meyer, Mineo Takai, Yu-An Chan, Xiang Zeng, Jay Marting, and Ha Yoon Song. 1998. Parsec: A parallel simulation environment for complex systems. Comput. 31, 10, 77--85.
+Ali Bakhoda, John Kim, and Tom Aamodt. 2010. Throughput-effective on-chip networks for manycore accelerators. In Proceedings of the IEEE/ACM International Symposium on Microarchitecture (MICRO'10).
+Ali Bakhoda, George L. Yuan, Wilson W. L. Fung, Henry Wong, and Tor M. Aamodt. 2009. Analyzing CUDA workloads using a detailed GPU simulator. In Proceeding of the IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS'09).
+Aaron Becker, Isaac Dooley, and Laxmikant Kale. 2009. Flexible hardware mapping for finite element simulations on hybrid CPU/GPU clusters. In Proceedings of the Symposium on Application Accelerators in HPC (SAAHPC'09).
+Himanshu Bhatnagar. 1999. Advanced ASIC Chip Synthesis: Using Synopsys' Design Compiler and PrimeTime. Kluwer Academic.
+Nathan Binkert, Bradford Beckmann, Steven K. Reinhardt, Gabriel Black, Ali Saidi, et al. 2011. The gem5 simulator. ACM SIGARCH Comput. Archit. News 39, 2.
+Rajesh Bordawekar, Uday Bondhugula, and Ravi Rao. 2010. Can CPUs match GPUs on performance with productivity&quest; Experiences with optimizing a flop intensive application on CPUs and GPU. Res. rep. RC25033, IBM T. J. Watson Research Center.
+Pierre Boudier. 2011. Memory system on fusion APUS - The benefits of zero copy. AMD Fusion Developer Summit.
+Nathan Brookwood. 2010. AMD fusion family of APUS: Enabling a superior, immersive PC experience. Insight 64, 1--8.
+Michael Brown, Axel Kohlmeyer, Steven Plimpton, and Arnold Tharrington. 2012. Implementing molecular dynamics on hybrid high performance computers particle-particle particle-mesh. Comput. Phys. Comm. 183, 3, 449--459.
+Ian Buck, Tim Foley, Daniel Horn, Jeremy Sugerman, Kayvon Fatahalian, Mike Houston, and Pat Hanrahan. 2004. Brook for GPUs: Stream computing on graphics hardware. In Proceedings of the International Conference on Computer Graphics and Interactive Techniques (SIGGRAPH'04). ACM Press, New York, 777--786.
+Wei Cao, Chuan-Fu Xu, Zheng-Hua Wang, Lu Yao, and Hua-Yong Liu. 2014. CPU/GPU computing for a multi-block structured grid based high-order flow solver on a large heterogeneous system. Cluster Comput. 17, 2, 255--270.
+Martijn Coenen, Srinivasan Murali, Andrei Ruadulescu, Kees Goossens, and Giovanni De Micheli. 2006. A buffer-sizing algorithm for networks on chip using TDMA and credit-based end-to-end flow control. In Proceedings of the 4thInternational Conference on Hardware/Software Codesign and System Synthesis (CODES/ISSS'06). 130--135.
+Bill Dally. 2011. Project Denver processor to usher in new era of computing. http://blogs.nvidia.com/2011/01/project-denver-processor-to-usher-in-new-era-of-computing/(Last accessed 3/2012).
+William Dally and Brian Towles. 2004. Principles and Practices of Interconnection Networks. Morgan Kaufmann, San Fransisco.
+Isaac Gelado, John E. Stone, Javier Cabezas, Sanjay Patel, Nacho Navarro, and Wen-Mei W. Hwu. 2010. An asymmetric distributed shared memory model for heterogeneous parallel systems. In Proceedings of the International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS'10).
+Nilanjan Goswami, Zhongqi Li, Ajit Verma, Ramkumar Shankar, and Tao Li. 2012. Integrating anophotonics in GPU microarchitecture. In Proceedings of the 21stInternational Conference on Parallel Architectures and Compilation Techniques (PACT'12).
+Nilanjan Goswami, Zhongqi Li, Ramkumar Shankar, and Tao Li. 2014. Exploring silicon nanophotonics in throughput architecture. IEEE Des. Test. 31, 5, 18--27.
+Donald Gross, John F. Shortle, James M. Thompson, and Carl M. Harris. 2008. Fundamentals of Queueing Theory. 4thEd. Wiley-Interscience, New York.
+John Henning. 2006. SPEC CPU2006 benchmark descriptions. ACM SIGARCH Comput. Archit. News 34, 4, 1--17.
+Jingcao Hu and Radu Marculescu. 2004. Application-specific buffer space allocation for networks-on-chip router design. In Proceedings of the International Conference on Computer-Aided Design (ICCAD'04).
+Andrew Kahng, Bin Li, Li-Shiuan Peh, and Kambiz Samadi. 2009. ORION 2.0: A fast and accurate NoC power and area model for early-stage design space exploration. In Proceeding of the Design, Automation and Test in Europe Conference (DATE'09).
+David Kanter. 2010. Intel's Sandy Bridge microarchitecture. http://www.realworldtech.com/sandy-bridge/1/(Last accessed 3/2012).
+Khronos Opencl Working Group. 2011. The OpenCL specification, version 1.2. https://www.khronos.org/news/press/khronos-releases-opencl-1.2-specification.
+Avinash Karanth Kodi, Ashwini Sarathy, and Ahmed Louri. 2008. iDEAL: Inter-router dual-function energy and area-efficient links for network-on-chip (NoC) architectures. In Proceedings of the International Symposium on Computer Architecture (ISCA'08).
+Jaekyu Lee, Si Li, Hyesoon Kim, and Sudhakar Yalamanchili. 2012. Design space exploration of on-chip ring interconnection for a CPU-GPU architecture. Tech. rep. GIT-CERCS-12-05, Georgia Institute of Technology.
+Paul Lee, Jiayuan Meng, Zhenyu Qi, Mircea Stan, and Kevin Skadron. 2009. Design space exploration for integrated CPU-GPU chips. In Proceedings of the NVIDIA GPU Technology Conference (GTC'09).
+George Michelogiannakis, Dionisios Pnevmatikatos, and Manolis Katevenis. 2007. Approaching ideal NoC latency with pre-configured routes. In Proceedings of the 1stInternational Symposium on Networks-on-Chip (NOCS'07). IEEE Computer Society, 153--162.
+Asit Mishra, Narayanan Vijaykrishnan, and Chita R. Das. 2011a. A case for heterogeneous on-chip interconnects for CMPs. In Proceeding of the International Symposium on Computer Architecture (ISCA'11).
+Asit Mishra, Aditya Yanamandra, Reetuparna Das, Soumya Eachempati, Ravi Iyer, Narayanan Vijaykrishnan, and Chita Das. 2011b. RAFT: A router architecture with frequency tuning for on-chip networks. J. Parallel Distrib. Comput. 71, 5, 625--640.
+Naveen Muralimanohar and Rajeev Balasubramonian. 2009. Cacti 6.0: A tool to model large caches. Tech. rep., HP Laboratories.
+Nvidia Corp. 2008. NVIDIA CUDA compute unified device architecture. Programming guide 2.0.
+Jason Power, Arkaprava Basu, Junli Gu, Sooraj Puthoor, Bradford Beckmann, Mark Hill, Steven Reinhardt, and David Wood. 2013. Heterogeneous system coherence for integrated CPU-GPU systems. In Proceedings of the IEEE/ACM International Symposium on Microarchitecture (MICRO'13).
+Scott Rixner, William J. Dally, Ujval J. Kapasi, Peter Mattson, and John D. Owens. 2000. Memory access scheduling. In Proceedings of the Annual International Symposium on Computer Architecture (ISCA'00). 128--138.
+Smith Ryan. 2011. AMD Radeon HD 7970 review: 28nm and graphics core next, together as one. http://www.anandtech.com/show/5261/amd-radeon-hd-7970-review (Last accessed 10/2012).
+Bratin Saha, Xiaocheng Zhou, Hu Chen, Ying Gao, Shoumeng Yan, Mohan Rajagopalan, Jesse Fang, Peinan Zhang, Ronny Ronen, and Avi Mendelson. 2009. Programming model for a heterogeneous x86 platform. ACM SIGPLAN Not. 44, 6, 431--440.
+Semiconductor Industry Association. 2005. International technology roadmap for semiconductors (ITRS). http://www.itrs.net/Common/2005ITRS/Home2005.htm (Last accessed 3/2010).
+Gary Silcott and Irmina Blaszczyk. 2013. AMD unveils innovative new APUs and SoCs that give consumers a more exciting and immersive experience. http://ir.amd.com/phoenix.zhtml&quest;c&equals;74093&p;&equals;&equals;irol-newsArticle&ID;&equals;&equals;1772053 (Last accessed 1/2014).
+Daniel J. Sorin, Mark D. Hill, and David A. Wood. 2011. A Primer on Memory Consistency and Cache Coherence. Synthesis Lectures on Computer Architecture. Morgan and Claypool.
+Kyle Spafford, Jeremy Meredith, Seyong Lee, Dong Li, Philip Roth, and Jeffrey Vetter. 2012. The tradeoffs of fused memory hierarchies in heterogeneous computing architectures. In Proceedings of the 9thConference on Computing Frontiers (CF'12). 103--112.
+Richard Vuduc, Aparna Chandramowlishwaran, Jee Choi, Murat Guney, and Aashay Shringarpure. 2010. On the limits of GPU acceleration. In Proceedings of the USENIX Conference on Hot Topics in Parallelism (HotPar'10).
+William Winkle. 2012. AMD fusion: How it started, where it's going, and what it means. http://www. tomshardware.com/reviews/fusion-hsa-opencl-history,3262-4.html (Last accessed 1/2014).
+Yi Yang, Ping Xiang, Mike Mantor, and Huiyang Zhou. 2012. CPU-assisted GPGPU on fused CPU-GPU architectures. In Proceeding of the Symposium on High Performance Computer Architecture (HPCA'12).
+Marcelo Yuffe, Ernest Knoll, Moty Mehalel, Joseph Shor, and Tsvika Kurts. 2011. A fully integrated multi-CPU, GPU and memory controller 32nm processor. In Proceeding of the International Solid-State Circuits Conference (ISSCC'11).

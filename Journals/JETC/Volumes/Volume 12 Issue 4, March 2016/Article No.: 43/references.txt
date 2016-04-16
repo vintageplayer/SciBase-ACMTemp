@@ -1,0 +1,37 @@
+H. Ananthan and K. Roy. 2006. A fully physical model for leakage distribution under process variations in nanoscale double-gate CMOS. In Proceedings of the Design Automation Conference. 413--419.
+D. Bhattacharya and N. K. Jha. 2014. FinFETs: From devices to architectures. Advances in Electronics (Sep. 2014).
+A. N. Bhoj and N. K. Jha. 2013. Design of logic gates and flip-flops in high-performance FinFET technology. IEEE Transactions on VLSI Systems 21, 11 (Nov. 2013), 1975--1988.
+A. N. Bhoj and N. K. Jha. 2014. Parasitics-aware design of symmetric and asymmetric gate-workfunction FinFET SRAMs. IEEE Transactions on VLSI Systems 22, 3 (Nov. 2014), 548--561.
+S. Chaudhuri and N. K. Jha. 2014a. 3D vs. 2D device simulation of FinFET logic gates under PVT variations. ACM Journal of Emerging Technologies in Computing Systems 10, 3 (Apr. 2014).
+S. Chaudhuri and N. K. Jha. 2014b. FinFET logic circuit optimization with different FinFET styles: Lower power possible at higher supply voltage. In Proceedings of the International Conference on VLSI Design. 476--482.
+S. Chaudhuri, P. Mishra, and N. K. Jha. 2012. Accurate leakage estimation for FinFET standard cells using the response surface methodology. In Proceedings of the International Conference on VLSI Design. 238--244.
+M. H. Chiang, K. Kim, C. Tretz, and C. T. Chuang. 2005. Novel high-density low-power logic circuit techniques using DG devices. IEEE Electronic Device Letter 52, 10 (Oct. 2005), 2339--2342.
+J. H. Choi, J. Murthy, and K. Roy. 2007. The effect of process variation on device temperatures in FinFET circuits. In Proceedings of the International Conference on Computer-Aided Design. 747--751.
+Y. Choi, D. Ha, T. King, and J. Bokor. 2003. Investigation of gate-induced drain leakage (GIDL) current in thin body devices: Single-gate ultra-thin body, symmetrical double-gate, and asymmetrical double-gate MOSFETs. Japan Journal of Applied Physics 42, 4B (Apr. 2003), 2073--2076.
+B. D. Gaynor and S. Hassoun. 2014. Fin shape impact on FinFET leakage with application to multithreshold and ultralow-leakage FinFET design. IEEE Transactions on Electronic Devices 61, 8 (Aug. 2014), 2738--2744.
+T. Ghani, K. Mistry, P. Packan, M. Armstrong, S. Thompson, S. Tyagi, and M. Bohr. 2001. Asymmetric source/drain extension transistor structure for high performance sub-50 nm gate length CMOS devices. VLSI Technology (Jun. 2001), 17--18.
+A. Goel, S. Gupta, and K. Roy. 2011. Asymmetric drain spacer extension (ADSE) FinFETs for low-power and robust SRAMs. IEEE Transactions on Electronic Devices 58, 2 (Feb. 2011), 296--308.
+A. Goud, R. Venkatesan, A. Raghunathan, and K. Roy. 2015. Asymmetric underlapped FinFET based robust SRAM design at 7nm node. In Proceedings of the Design, Automation Test in Europe Conference. 659--664.
+J. Gu, J. Keane, S. Sapatnekar, and C. H. Kim. 2008. Statistical leakage estimation of double gate FinFET devices considering the width quantization property. IEEE Transactions on VLSI Systems 16 (Feb. 2008), 206--209.
+M. Guillorn et al. 2008. FinFET performance advantage at 22nm: An AC perspective. In Proceedings of the Symposium on VLSI Technology. 12--13.
+T. Horiuchi, T. Homma, Y. Murao, and K. Okumura. 1994. An asymmetric sidewall process for high performance LDD MOSFET’s. IEEE Transactions on Electronic Devices 41, 2 (Feb. 1994), 186--190.
+J. Kedzierski et al. 2001. High-performance symmetric-gate and CMOS compatible Vt asymmetric-gate FinFET devices. In Proceedings of the International Electronic Device Meeting 19.5.1--19.5.4.
+A. Kumar, B. A. Minch, and S. Tiwari. 2004. Low voltage and performance tunable CMOS circuit design using independently driven double gate MOSFETs. In Proceedings of the International SOI Conference. 119--121.
+C.-Y. Lee and N. K. Jha. 2014. FinCANON: A PVT-aware integrated delay and power modeling framework for FinFET-based caches and on-chip networks. IEEE Transactions on VLSI Systems 22, 5 (May 2014), 1150--1163.
+P. Mishra, A. N. Bhoj, and N. K. Jha. 2010. Die-level leakage power analysis of FinFET circuits considering process variations. In Proceedings of the IEEE International Symposium on Quality Electronic Design. 347--355.
+P. Mishra, A. Muttreja, and N. K. Jha. 2009. Low-power FinFET circuit synthesis using multiple supply and threshold voltages. ACM Journal of Emerging Technologies in Computing Systems 5, 2 (Jul. 2009), 1--23.
+F. Moradi, S. Gupta, G. Panagopoulos, D. Wisland, H. Mahmoodi, and K. Roy. 2011. Asymmetrically doped FinFETs for low-power robust SRAMs. IEEE Transactions on Electronic Devices 58, 12 (Dec. 2011), 4241--4249.
+A. Muttreja, N. Agarwal, and N. K. Jha. 2007. CMOS logic design with independent-gate FinFETs. In Proceedings of the IEEE International Conference on Computer Design. 560--567.
+E. J. Nowak, I. Aller, T. Ludwig, K. Kim, R. V. Joshi, C. T. Chuang, K. Bernstein, and R. Puri. 2004. Turning silicon on its edge. IEEE Circuits and Devices Magazine 20, 1 (Jan. 2004), 20--31.
+J. Ouyang and Y. Xie. 2008. Power optimization for FinFET based circuits using genetic algorithms. In Proceedings of the IEEE International SOC Conference. 211--214.
+A. Singhee and R. A. Rutenbar. 2007. From finance to flip flops: A study of fast quasi-Monte Carlo methods from computational finance applied to statistical circuit analysis. In Proceedings of the International Symposium on Quality of Electronic Design. 685--692.
+B. Swahn and S. Hassoun. 2006. Gate sizing: FinFETs vs. 32nm bulk MOSFETs. In Proceedings of the Design Automation Conference. 528--531.
+Synopsys. 2011. Sentaurus TCAD Manual. Retrieved from http://www.synopsys.com.
+A. Tang, Y. Yang, C.-Y. Lee, and N. K. Jha. 2015. McPAT-PVT: Delay and power modeling framework for FinFET processor architectures under PVT variations. IEEE Transactions on VLSI Systems 23, 9 (Sep. 2015), 1616--1627.
+S. A. Tawfik and V. Kursun. 2007. High speed FinFET domino logic circuits using independent gate-biased double-gate keepers providing dynamically adjusted immunity to noise. In Proceedings of the International Conference on Microelectronics. 175--178.
+X. Wang, B. Cheng, A. R. Brown, C. Millar, and A. Asenov. 2014. Accurate simulations of the interplay between process and statistical variability for nanoscale FinFET-based SRAM cell stability. In Proceedings of the 44th European Solid-State Device Research Conference. 349--352.
+X. Wang, B. Cheng, A. R. Brown, C. Millar, J. B. Kuang, S. Nassif, and A. Asenov. 2013. Interplay between process-induced and statistical variability in 14-nm CMOS technology double-gate SOI FinFETs. IEEE Transactions on Electronic Devices 60, 8 (Aug. 2013), 2485--2492.
+D. Woo et al. 2002. Electrical characteristics of FinFET with vertically nonuniform source/drain doping profile. IEEE Transactions on Nanotechnology 1, 4 (Dec. 2002), 233--237.
+C. Wu et al. 2010. High performance 22/20nm FinFET CMOS devices with advanced high-k/metal gate scheme. In Proceedings of the IEEE International Electron Devices Meeting. 27.1.1--27.1.4.
+S. Xiong and J. Bokor. 2003. Sensitivity of double-gate and FinFET devices to process variations. IEEE Transactions on Electronic Devices 50 (Nov. 2003), 2255--2261.
+T. Yamashita et al. 2011. Sub-25nm FinFET with advanced fin formation and short channel effect engineering. In Proceedings of the IEEE Symposium on VLSI Technology. 14--15.

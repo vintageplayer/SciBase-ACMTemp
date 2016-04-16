@@ -1,0 +1,34 @@
+A. Barenco, H. H. Bennett, R. Cleve, D. P. DiVinchenzo, N. Margolus, P. Shor, T. Sleator, J. A. Smolin, and H. Weinfurter. 1995. Elementary gates for quantum computation. Phys. Rev. A: Atom. Molecular Optic. Phys. 52, 5 (1995), 3457--3467.
+C. H. Bennett, Logical reversibility of computation, IBM Journal of Research and Development, v.17 n.6, p.525-532, November 1973[doi>10.1147/rd.176.0525]
+A. Bèrut, A. Arakelyan, A. Petrosyan, S. Ciliberto, R. Dillenschneider, and E. Lutz. 2012. Experimental verification of Landauer's principle linking information and thermodynamics. Nature 483, 3 (2012), 187--189.
+Kamalika Datta , Gaurav Rathi , Indranil Sengupta , Hafizur Rahaman, Synthesis of Reversible Circuits Using Heuristic Search Method, Proceedings of the 2012 25th International Conference on VLSI Design, p.328-333, January 07-11, 2012[doi>10.1109/VLSID.2012.92]
+K. Datta, I. Sengupta, and H. Rahaman. 2013. Particle swarm optimization based reversible circuit synthesis using mixed control Toffoli gates. J. Low Power Electron. 9, 3 (2013), 363--372.
+Rolf Drechsler , Alexander Finder , Robert Wille, Improving ESOP-based synthesis of reversible logic using evolutionary algorithms, Proceedings of the 2011 international conference on Applications of evolutionary computation, April 27-29, 2011, Torino, Italy
+K. Fazel, M. A. Thornton, and J. E. Rice. 2007. ESOP-based Toffoli gate cascade generation. In Proceedings of the IEEE Pacific Rim Conference on Communications, Computers and Signal Processing. 206--209.
+R. Feynman. 1985. Quantum mechanical computers. Optic News 11 (1985), 11--20.
+E. Fredkin and T. Toffoli. 1982. Conservative logic. Int. J. Theor. Phys. 21 (1982), 219--253.
+Daniel Große , Robert Wille , Gerhard W. Dueck , Rolf Drechsler, Exact multiple-control toffoli network synthesis with SAT techniques, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.28 n.5, p.703-715, May 2009[doi>10.1109/TCAD.2009.2017215]
+P. Gupta , A. Agrawal , N. K. Jha, An Algorithm for Synthesis of Reversible Logic Circuits, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.25 n.11, p.2317-2330, November 2006[doi>10.1109/TCAD.2006.871622]
+W. N.N. Hung , Xiaoyu Song , Guowu Yang , Jin Yang , M. Perkowski, Optimal synthesis of multiple output Boolean functions using a set of quantum gates by symbolic reachability analysis, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.25 n.9, p.1652-1663, September 2006[doi>10.1109/TCAD.2005.858352]
+R. Landauer, Irreversibility and heat generation in the computing process, IBM Journal of Research and Development, v.5 n.3, p.183-191, July 1961[doi>10.1147/rd.53.0183]
+D. Maslov and G. W. Dueck. 2006. Level compaction in quantum circuits. In Proceedings of the IEEE Congress on Evolutionary Computation. 2405--2409.
+D. Michael Miller , Dmitri Maslov , Gerhard W. Dueck, A transformation based algorithm for reversible logic synthesis, Proceedings of the 40th annual Design Automation Conference, June 02-06, 2003, Anaheim, CA, USA[doi>10.1145/775832.775915]
+D. Michael Miller , Zahra Sasanian, Recent Developments on Mapping Reversible Circuits to Quantum Gate Libraries, Proceedings of the 2012 International Symposium on Electronic System Design, p.17-22, December 19-22, 2012[doi>10.1109/ISED.2012.81]
+D. Michael Miller , Robert Wille , Rolf Drechsler, Reducing Reversible Circuit Cost by Adding Lines, Proceedings of the 2010 40th IEEE International Symposium on Multiple-Valued Logic, p.217-222, May 26-28, 2010[doi>10.1109/ISMVL.2010.48]
+A. Mishchenko and M. Perkowski. 2001. Fast heuristic minimization of exclusive-sums-of-products. In Proceedings of the 6th Reed-Muller Workshop. 242--250.
+G. E. Moore. 1965. Cramming more components onto integrated circuits. J. Electron. 38, 8 (1965), 183--191.
+N. Nayeem and J. E. Rice. 2011. A shared-cube approach to ESOP-based synthesis of reversible logic. Facta Universitatis of NiÊ, Elec. Energ. 24, 3 (2011), 385--402.
+Quantum computation and quantum information, Cambridge University Press, New York, NY, 2000
+Jan Rabaey, Low Power Design Essentials, Springer Publishing Company, Incorporated, 2009
+J. E. Rice, K. B. Fazel, M. A. Thornton, and K. B. Kent. 2009. Toffoli gate cascade generation using ESOP minimization and QMDD-based swapping. In Proceedings of the 14th Reed-Muller Workshop. 63--72.
+J. E. Rice and N. Nayeem. 2011. Ordering techniques for ESOP-based Toffoli cascade generation. In Proceedings of the IEEE Pacific Rim Conference on Communications, Computers and Signal Processing (PACRIM). 274--279.
+J. E. Rice and V. Suen. 2010. Using autocorrelation coefficient-based cost functions in ESOP-based Toffoli gate cascade generation. In Proceedings of the 23rd Canadian Conference on Electrical and Computer Engineering (CCECE). 1--6.
+K. Roy and S. C. Prasad. 2000. Low-Power CMOS VLSI Design. Wiley Interscience.
+Y. Sanaee and G. W. Dueck. 2009. Generating Toffoli networks from ESOP expressions. In Proceedings of the IEEE Pacific Rim Conference on Communications, Computers and Signal Processing (PACRIM). 715--719.
+Yasaman Sanaee , Gerhard W. Dueck, ESOP-Based Toffoli Network Generation with Transformations, Proceedings of the 2010 40th IEEE International Symposium on Multiple-Valued Logic, p.276-281, May 26-28, 2010[doi>10.1109/ISMVL.2010.58]
+Mathias Soeken , Stefan Frehse , Robert Wille , Rolf Drechsler, RevKit: an open source toolkit for the design of reversible circuits, Proceedings of the Third international conference on Reversible Computation, p.64-76, July 04-05, 2011, Gent, Belgium[doi>10.1007/978-3-642-29517-1_6]
+Michael Kirkedal Thomsen , Robert Glück, Optimized reversible binary-coded decimal adders, Journal of Systems Architecture: the EUROMICRO Journal, v.54 n.7, p.697-706, July, 2008[doi>10.1016/j.sysarc.2007.12.006]
+Tommaso Toffoli, Reversible Computing, Proceedings of the 7th Colloquium on Automata, Languages and Programming, p.632-644, July 14-18, 1980
+Robert Wille , Rolf Drechsler, BDD-based synthesis of reversible logic for large functions, Proceedings of the 46th Annual Design Automation Conference, July 26-31, 2009, San Francisco, California[doi>10.1145/1629911.1629984]
+Robert Wille , Daniel Groβe , Lisa Teuber , Gerhard W. Dueck , Rolf Drechsler, RevLib: An Online Resource for Reversible Functions and Reversible Circuits, Proceedings of the 38th International Symposium on Multiple Valued Logic, p.220-225, May 22-24, 2008[doi>10.1109/ISMVL.2008.43]
+Robert Wille , Mathias Soeken , Nils Przigoda , Rolf Drechsler, Exact Synthesis of Toffoli Gate Circuits with Negative Control Lines, Proceedings of the 2012 IEEE 42nd International Symposium on Multiple-Valued Logic, p.69-74, May 14-16, 2012[doi>10.1109/ISMVL.2012.71]

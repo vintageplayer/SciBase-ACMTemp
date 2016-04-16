@@ -1,0 +1,42 @@
+Alioto, M., Palumbo, G., and Pennisi, M. 2008. Understanding the effect of intradie random process variations in nanometer domino logic. In Proceedings of the Workshop on Power and Timing Modeling, Optimization and Simulation (PATMOS'08). 136--145.
+Armstrong, D. B. 1961. A general method of applying error correction to synchronous digital systems. Bell Syst. Techn. J. 40, 2, 577--593.
+A Avižienis , H. Kopetz , J. C. Laparie, The evolution of fault-tolerant computing, Springer-Verlag New York, Inc., New York, NY, 1987
+Blish, R., Dellin, T., Huber, S., Johnson, M., Maiz, J., et al. 2003. Critical reliability challenges for the international technology roadmap for semiconductors (ITRS). Tech. rep. 03024377A-TR, International SEMATECH Technology Transfer.
+Bolchini, C. and Sciuto, D. 1995. An output/state encoding for self-checking finite state machine. In Proceedings of the IEEE International Symposium on Circuits and Systems. 2136--2139.
+B. Bose , T. R. N. Rao, Theory of Unidirectional Error Correcting/Detecting Codes, IEEE Transactions on Computers, v.31 n.6, p.521-530, June 1982[doi>10.1109/TC.1982.1676034]
+T. J. Brosnan , N. R. Strader, II, Modular Error Detection for Bit-Serial Multiplication, IEEE Transactions on Computers, v.37 n.9, p.1043-1052, September 1988[doi>10.1109/12.2255]
+Michael D. Ciletti, Advanced Digital Design with the VERILOG HDL, Prentice Hall PTR, Upper Saddle River, NJ, 2002
+Cummings, C. E. 2002. The fundamentals of efficient synthesizable finite state machine design using nc-verilog and buildgates. In Proceedings of the International Cadence Usergroup Conference.
+Kaushik De , Chitra Natarajan , Devi Nair , Prithviraj Banerjee, RSYN: a system for automated synthesis of reliable multilevel circuits, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, v.2 n.2, p.186-195, June 1994[doi>10.1109/92.285745]
+Depledge, P. G. 1981. Fault-Tolerant computer systems. IEEE Proc. A128, 4, 257--272.
+S. A. Elkind , D. P. Siewiorek, Reliability and Performance of Error-Correcting Memory and Register Arrays, IEEE Transactions on Computers, v.29 n.10, p.920-927, October 1980[doi>10.1109/TC.1980.1675475]
+Dan Ernst , Shidhartha Das , Seokwoo Lee , David Blaauw , Todd Austin , Trevor Mudge , Nam Sung Kim , Krisztian Flautner, Razor: Circuit-Level Correction of Timing Errors for Low-Power Operation, IEEE Micro, v.24 n.6, p.10-20, November 2004[doi>10.1109/MM.2004.85]
+Dan Ernst , Nam Sung Kim , Shidhartha Das , Sanjay Pant , Rajeev Rao , Toan Pham , Conrad Ziesler , David Blaauw , Todd Austin , Krisztian Flautner , Trevor Mudge, Razor: A Low-Power Pipeline Based on Circuit-Level Timing Speculation, Proceedings of the 36th annual IEEE/ACM International Symposium on Microarchitecture, p.7, December 03-05, 2003
+Stephen B. Furber , Paul Day, Four-phase micropipeline latch control circuits, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, v.4 n.2, p.247-253, June 1996[doi>10.1109/92.502196]
+Garg, R., Mathews, P., and Zacher, D. 2009. Synthesis of fault tolerant circuits for fsms and rams. In Proceedings of the MAPLD International Conference.
+Göessel, M., Ocheretny, V., Sogomonyan, E., and Marienfeld, D. 2008. New Methods of Concurrent Checking. Springer.
+Golson, S. 1994. State machine design techniqes for Verilog and vhdl. In Proceedings of the Synopsys User Group Conference.
+Hauck, S. 1995. Asynchronous design methodologies: An overview. Proc. IEEE 83, 1, 69--93.
+N. K. Jha , S. -J. Wang, Design and synthesis of self-checking VLSI circuits, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.12 n.6, p.878-887, November 2006[doi>10.1109/43.229762]
+Wei Ling , Yvon Savaria, Analysis of Wave-Pipelined Domino Logic Circuit and Clocking Styles Subject to Parametric Variations, Proceedings of the 6th International Symposium on Quality of Electronic Design, p.688-693, March 21-23, 2005[doi>10.1109/ISQED.2005.21]
+Liu, B. 2010. Error-Detecting/Correcting-Code based robust nanoelectronic circuits. In Proceedings of the NASA/ESA Conference on Adaptive Hardware and Systems.
+D. W. Lloyd , J. D. Garside, A Practical Comparison of Asynchronous Design Styles, Proceedings of the 7th International Symposium on Asynchronous Circuits and Systems, p.36, March 11-14, 2001
+G. Mago, Monotone Functions in Sequential Circuits, IEEE Transactions on Computers, v.22 n.10, p.928-933, October 1973[doi>10.1109/T-C.1973.223620]
+Mitra, S., Zhang, M., Seifert, N., Mak, T. M., and Kim, K. S. 2006. Soft error resilient system design through error correction. In Proceedings of the IFIP VLSI-SoC Conference.
+Todd K. Moon, Error Correction Coding: Mathematical Methods and Algorithms, Wiley-Interscience, 2005
+Muller, D. E. and Bartky, W. S. 1959. A theory of asynchronous circuits. In Proceedings of the International Symposium on the Theory of Switching. 204--243.
+Nangate. 2008. Nangate open cell library. http://openeda.si2.org/projects/nangatelib/
+Pagiamtzis, K., Azizi, N., and Najm, F. N. 2006. A soft-error-tolerant content-addressable memory (CAM) using an error-correcting-match scheme. In Proceedings of the Custom Integrated Circuits Conference. 301--304.
+Schlegel, C. B. and Herro, M. A. 1990. A burst-error-correcting Viterbi algorithm. IEEE Trans. Comm. 38, 3, 285--291.
+Singh, M. and Nowick, S. M. 2007. MOUSETRAP: Ultra-High-Speed transition signaling asynchronous pipelines. In Proceedings of the International Conference on Computer Design.
+J. E. Smith , G. Metze, Strongly Fault Secure Logic Networks, IEEE Transactions on Computers, v.27 n.6, p.491-499, June 1978[doi>10.1109/TC.1978.1675139]
+Sonomonyan, E. S. 1974. Design of built-in self-checking monitoring circuits for combinational devices. Autom. Remote Control 35, 2, 280--289.
+Jens Spars , Steve Furber, Principles of Asynchronous Circuit Design: A Systems Perspective, Springer Publishing Company, Incorporated, 2010
+Sun, F., Devarajan, S., Rose, K., and Zhang, T. 2006. Multilevel flash memory on-chip error correction based on trellis coded modulation. In Proceedings of the IEEE International Symposium on Circuits and Systems.
+I. E. Sutherland, Micropipelines, Communications of the ACM, v.32 n.6, p.720-738, June 1989[doi>10.1145/63526.63532]
+Tyler Thorp , Gin Yee , Carl Sechen, Domino logic synthesis using complex static gates, Proceedings of the 1998 IEEE/ACM international conference on Computer-aided design, p.242-247, November 08-12, 1998, San Jose, California, USA[doi>10.1145/288548.288620]
+Verhoeff, T. 1988. Delay-Insensitive codes: An overview. Distrib. Comput. 3, 1--8.
+Neil Weste , David Harris, CMOS VLSI Design: A Circuits and Systems Perspective, Addison-Wesley Publishing Company, 2010
+Ming Zhang , Subhasish Mitra , T. M. Mak , Norbert Seifert , Nicholas J. Wang , Quan Shi , Kee Sup Kim , Naresh R. Shanbhag , Sanjay J. Patel, Sequential element design with built-in soft error resilience, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, v.14 n.12, p.1368-1378, December 2006[doi>10.1109/TVLSI.2006.887832]
+Min Zhao , Sachin S. Sapatnekar, Technology mapping algorithms for domino logic, ACM Transactions on Design Automation of Electronic Systems (TODAES), v.7 n.2, p.306-335, April 2002[doi>10.1145/544536.544541]
+Zheng, J., Katanyoutanant, S., and Le, M. 2005. Safe and efficient one-hot state machine. In Proceedings of the MAPLD International Conference.
