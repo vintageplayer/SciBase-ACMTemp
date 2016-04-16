@@ -1,0 +1,31 @@
+M. Arnold, S. Fink, D. Grove, M. Hind, and P. F. Sweeney. 2000. Adaptive optimization in the JalapeNO JVM. In Proceedings of the 15th ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications.
+M. Arnold and D. Grove. 2005. Collecting and exploiting high-accuracy call graph profiles in virtual machines. In Proceedings of the International Symposium on Code Generation and Optimization.
+M. Arnold and B. G. Ryder. 2001. A framework for reducing the cost of instrumented code. In Proceedings of ACM SIGPLAN Conference on Programming Language Design and Implementation. Snowbird, Utah.
+T. Ball and J. R. Larus. 1993. Branch prediction for free. In Proceedings of the ACM SIGPLAN 1993 Conference on Programming Language Design and Implementation (PLDI'93).
+T. Ball and J. R. Larus. 1996. Efficient path profiling. In Proceedings of the 29th Annual ACM/IEEE International Symposium on Microarchitecture.
+P. Berube, A. Preuss, and J. N. Amaral. 2011. Combined profiling: Practical collection of feedback information for code optimization. In Proceedings of the 2nd ACM/SPEC International Conference on Performance Engineering.
+M. D. Bond and K. S. McKinley. 2005. Continuous path and edge profiling. In Proceedings of the 29th Annual ACM/IEEE International Symposium on Microarchitecture.
+D. Buytaert, A. Georges, M. Hind, M. Arnold, L. Eeckhout, and K. De Bosschere. 2007. Using HPM-sampling to drive dynamic compilation. In Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA'07).
+P. P. Chang, S. A. Mahlke, W. Y. Chen, and W. Hwu. 1992. Profile-guided automatic inline expansion for C programs. Software Practice & Experience 22, 5 (1992), 349--369.
+D. Chen, N. Vachharajani, R. Hundt, S. Liao, V. Ramasamy, P. Yuan, W. Chen, and W. Zheng. 2010. Taming hardware event samples for FDO compilation. In Proceedings of the 8th Annual IEEE/ACM International Symposium on Code Generation and Optimization. New York, NY.
+L. Eeckhout. 2010. Computer architecture performance evaluation methods. Synthesis Lectures on Computer Architecture (2010).
+L. Eeckhout, H. Vandierendonck, and K. De Bosschere. 2003. Quantifying the impact of input data sets on program behavior and its applications. Journal of Instruction-Level Parallelism 5 (2003), 1--33.
+J. A. Fisher and S. M. Freudenberger. 1992. Predicting conditional branch directions from previous runs of a program. In Proceedings of the 5th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS'92).
+A. H. Hashemi, D. R. Kaeli, and B. Calder. 1997. Procedure mapping using static call graph estimation. In Workshop on Interaction between Compiler and Computer Architecture.
+M. Hirzel and T. M. Chilimbi. 2001. Bursty tracing: A framework for low-overhead temporal profiling. In Proceedings of ACM Workshop on Feedback-Directed and Dynamic Optimization.
+Y. Jiang, E. Z. Zhang, K. Tian, F. Mao, M. Gethers, and X. Shen. 2010. Exploiting statistical correlations for proactive prediction of program behaviors. In International Symposium on Code Generation and Optimization (CGO'10).
+H. Kim, M. Aater Suleman, O. Mutlu, and Y. N. Patt. 2006. 2D-profiling: Detecting input-dependent branches with a single input data set. In Proceedings of the International Symposium on Code Generation and Optimization.
+D. Knuth and F. Stevenson. 1973. BIT Numerical Mathematics 13, 3 (1973), 313--322.
+G. Langdale and T. Gross. 2003. Evaluating the relationship between the usefulness and accuracy of profiles. In Proceedings of the Workshop on Duplicating, Deconstructing, and Debunking.
+B. Lee, K. Resnick, M. D. Bond, and K. S. Mckinley. 2007. Correcting the dynamic call graph using control flow constraints. In International Conference on Compiler Construction.
+H. Mousa and C. Krintz. 2005. HPS: Hybrid profiling support. In Proceedings of the 14th International Conference on Parallel Architectures and Compilation Techniques.
+T. Mytkowicz, A. Diwan, M. Hauswirth, and P. F. Sweeney. 2010. Evaluating the accuracy of Java profilers. In Proceedings of the 2010 ACM SIGPLAN Conference on Programming Language Design and Implementation. New York, NY.
+M. Paleczny, C. Vick, and C. Click. 2001. The Java hotspotTM server compiler. In Proceedings of the 2001 Symposium on JavaTM Virtual Machine Research and Technology Symposium - Volume 1.
+K. Pettis and R. C. Hansen. 1990. Profile guided code positioning. In Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation.
+X. Shen, J. Shaw, B. Meeker, and C. Ding. 2007. Locality approximation using time. In Proceedings of the 34th Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages.
+K. Tian, Y. Jiang, E. Zhang, and X. Shen. 2010. An input-centric paradigm for program dynamic optimizations. In the Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA'10).
+K. Tian, E. Zhang, and X. Shen. 2011. A step towards transparent integration of input-consciousness into dynamic program optimizations. In the Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA).
+K. Vaswani, A. V. Nori, and T. M. Chilimbi. 2007. Preferential path profiling: Compactly numbering interesting paths. In Proceedings of the 34th Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages.
+B. Wu, M. Zhou, X. Shen, Y. Gao, R. Silvera, and G. Yiu. 2013. Simple profile rectifications go a long way. In Proceedings of the European Conference on Object-Oriented Programming. 654--678.
+Y. Wu. 2002. Efficient discovery of regular stride patterns in irregular programs. In Proceedings of ACM SIGPLAN Conference on Programming Language Design and Implementation.
+Y. Wu and J. R. Larus. 1994. Static branch frequency and program profile analysis. In Proceedings of the 27th Annual International Symposium on Microarchitecture (MICRO'94).

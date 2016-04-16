@@ -1,0 +1,40 @@
+H. Abelson , R. K. Dybvig , C. T. Haynes , G. J. Rozas , N. I. Adams Iv , D. P. Friedman , E. Kohlbecker , G. L. Steele, Jr. , D. H. Bartley , R. Halstead , D. Oxley , G. J. Sussman , G. Brooks , C. Hanson , K. M. Pitman , M. Wand, Revised Report on the Algorithmic Language Scheme, Higher-Order and Symbolic Computation, v.11 n.1, p.7-105, August 1998[doi>10.1023/A:1010051815785]
+Umut A. Acar , Guy E. Blelloch , Robert D. Blumofe, The data locality of work stealing, Proceedings of the twelfth annual ACM symposium on Parallel algorithms and architectures, p.1-12, July 09-13, 2000, Bar Harbor, Maine, USA[doi>10.1145/341800.341801]
+Volker Barthelmann, Inter-task register-allocation for static operating systems, Proceedings of the joint conference on Languages, compilers and tools for embedded systems: software and compilers for embedded systems, June 19-21, 2002, Berlin, Germany[doi>10.1145/513829.513855]
+Robert D. Blumofe , Charles E. Leiserson, Scheduling multithreaded computations by work stealing, Journal of the ACM (JACM), v.46 n.5, p.720-748, Sept. 1999[doi>10.1145/324133.324234]
+Carl Bruggeman , Oscar Waddell , R. Kent Dybvig, Representing control in the presence of one-shot continuations, Proceedings of the ACM SIGPLAN 1996 conference on Programming language design and implementation, p.99-107, May 21-24, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/231379.231395]
+CLBG. 2011. The computer language benchmarks game. http://shootout.alioth.debian.org/.
+Melvin E. Conway, Design of a separable transition-diagram compiler, Communications of the ACM, v.6 n.7, p.396-408, July 1963[doi>10.1145/366663.366704]
+Daniel, C. H. 1995. Introduction to the programming language occam. http://www.eg.bucknell.edu/~cs366/occam.pdf.
+James Dinan , D. Brian Larkins , P. Sadayappan , Sriram Krishnamoorthy , Jarek Nieplocha, Scalable work stealing, Proceedings of the Conference on High Performance Computing Networking, Storage and Analysis, November 14-20, 2009, Portland, Oregon[doi>10.1145/1654059.1654113]
+Ralf S. Engelschall, Portable multithreading: the signal stack trick for user-space thread creation, Proceedings of the annual conference on USENIX Annual Technical Conference, p.20-20, June 18-23, 2000, San Diego, California
+Fober, D., Letz, S., and Orlarey, Y. 2002. Lock-Free techniques for concurrent access to shared objects. Actes des Journes d'Informatique Musicale, Marseille, 143--150.
+Matteo Frigo , Charles E. Leiserson , Keith H. Randall, The implementation of the Cilk-5 multithreaded language, ACM SIGPLAN Notices, v.33 n.5, p.212-223, May 1998[doi>10.1145/277652.277725]
+Felix Garcia , Javier Fernandez, POSIX thread libraries, Linux Journal, v.2000 n.70es, Feb. 2000
+Google. 2012. TCMalloc: Thread-Caching malloc. http://goog-perftools.sourceforge.net/doc/tcmalloc.html.
+Dirk Grunwald , Richard Neves, Whole-program optimization for time and space efficient threads, ACM SIGPLAN Notices, v.31 n.9, p.50-59, Sept. 1996[doi>10.1145/248209.237149]
+Andreas Gustafsson, Threads without the Pain, Queue, v.3 n.9, November 2005[doi>10.1145/1105664.1105678]
+Hedqvist, P. 1998. A parallel and multithreaded ERLANG implementation. Masters dissertation, Uppsala University, Uppsala, Sweden.
+Maurice Herlihy , Victor Luchangco , Mark Moir, Obstruction-Free Synchronization: Double-Ended Queues as an Example, Proceedings of the 23rd International Conference on Distributed Computing Systems, p.522, May 19-22, 2003
+Pekka Jääskeläinen , Pertti Kellomäki , Jarmo Takala , Heikki Kultala , Mikael Lepistö, Reducing Context Switch Overhead with Compiler-Assisted Threading, Proceedings of the 2008 IEEE/IFIP International Conference on Embedded and Ubiquitous Computing, p.461-466, December 17-20, 2008[doi>10.1109/EUC.2008.181]
+Kiyokuni Kawachiya , Akira Koseki , Tamiya Onodera, Lock reservation: Java locks can mostly do without atomic operations, Proceedings of the 17th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, November 04-08, 2002, Seattle, Washington, USA[doi>10.1145/582419.582433]
+Sanjeev Kumar , Carl Bruggeman , R. Kent Dybvig, Threads Yield Continuations, Lisp and Symbolic Computation, v.10 n.3, p.223-236, May 1998[doi>10.1023/A:1007782300874]
+Ladan-Mozes, E. and Shavit, N. 2004. An optimistic approach to lock-free fifo queues. Distrib. Comput. 117--131.
+Hugh C. Lauer , Roger M. Needham, On the duality of operating system structures, ACM SIGOPS Operating Systems Review, v.13 n.2, p.3-19, April 1979[doi>10.1145/850657.850658]
+Peng Li , Simon Marlow , Simon Peyton Jones , Andrew Tolmach, Lightweight concurrency primitives for GHC, Proceedings of the ACM SIGPLAN workshop on Haskell workshop, September 30-30, 2007, Freiburg, Germany[doi>10.1145/1291201.1291217]
+Maged M. Michael , Michael L. Scott, Simple, fast, and practical non-blocking and blocking concurrent queue algorithms, Proceedings of the fifteenth annual ACM symposium on Principles of distributed computing, p.267-275, May 23-26, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/248052.248106]
+Matz, M., Hubicka, J., Jaeger, A., and Mitchell, M. 2012. System V application binary interface, AMD64 architecture processor supplement. http://www.x86-64.org/documentation/abi.pdf.
+Andre C. Nacul , Tony Givargis, Lightweight Multitasking Support for Embedded Systems using the Phantom Serializing Compiler, Proceedings of the conference on Design, Automation and Test in Europe, p.742-747, March 07-11, 2005[doi>10.1109/DATE.2005.197]
+P. R. Nuth , W. J. Dally, The Named-State Register File: Implementation and Performance, Proceedings of the 1st IEEE Symposium on High-Performance Computer Architecture, p.4, January 22-25, 1995
+Onodera, T., Kawachiya, K., and Koseki, A. 2004. Lock reservation for java reconsidered. In Proceedings of the European Conference on Object Oriented Programming (ECOOP'04). 1--22.
+Ousterhout, J. 1996. Why threads are a bad idea(for most purposes). In Usenix Annual Technical Conference.
+Pall, M. 2011. The luajit project. http://luajit.org.
+Kenneth Russell , David Detlefs, Eliminating synchronization-related atomic operations with biased locking and bulk rebiasing, ACM SIGPLAN Notices, v.41 n.10, October 2006[doi>10.1145/1167515.1167496]
+Schemenauer, N., Peters, T., and Hetland, M. 2001. Pep 255:Simple generators. http://www.python.org/dev/peps/pep-0255/.
+Sussman, G. J. and Steele, G. L. Jr. 1975. Scheme: An interpreter for extended lambda calculus. http://18.7.29.232/bitstream/handle/1721.1/5794/AIM-349.pdf&quest;sequence=2.
+Philippas Tsigas , Yi Zhang, A simple, fast and scalable non-blocking concurrent FIFO queue for shared memory multiprocessor systems, Proceedings of the thirteenth annual ACM symposium on Parallel algorithms and architectures, p.134-143, July 2001, Crete Island, Greece[doi>10.1145/378580.378611]
+Nalini Vasudevan , Kedar S. Namjoshi , Stephen A. Edwards, Simple and fast biased locks, Proceedings of the 19th international conference on Parallel architectures and compilation techniques, September 11-15, 2010, Vienna, Austria[doi>10.1145/1854273.1854287]
+Rob von Behren , Jeremy Condit , Eric Brewer, Why events are a bad idea (for high-concurrency servers), Proceedings of the 9th conference on Hot Topics in Operating Systems, p.4-4, May 18-21, 2003, Lihue, Hawaii
+Rob von Behren , Jeremy Condit , Feng Zhou , George C. Necula , Eric Brewer, Capriccio: scalable threads for internet services, ACM SIGOPS Operating Systems Review, v.37 n.5, December 2003[doi>10.1145/1165389.945471]
+Carl A. Waldspurger , William E. Weihl, Register relocation: flexible contexts for multithreading, Proceedings of the 20th annual international symposium on computer architecture, p.120-130, May 16-19, 1993, San Diego, California, USA[doi>10.1145/165123.165148]
+Xiangrong Zhou , Peter Petrov, Rapid and low-cost context-switch through embedded processor customization for real-time and control applications, Proceedings of the 43rd annual Design Automation Conference, July 24-28, 2006, San Francisco, CA, USA[doi>10.1145/1146909.1147001]

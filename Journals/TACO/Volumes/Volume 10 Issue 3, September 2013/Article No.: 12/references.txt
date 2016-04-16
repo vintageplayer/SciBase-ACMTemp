@@ -1,0 +1,29 @@
+Ahmet Akkaş, Dual-mode floating-point adder architectures, Journal of Systems Architecture: the EUROMICRO Journal, v.54 n.12, p.1129-1142, December, 2008[doi>10.1016/j.sysarc.2008.05.004]
+Ahmet Akkas , Michael J. Schulte, Dual-mode floating-point multiplier architectures with parallel operations, Journal of Systems Architecture: the EUROMICRO Journal, v.52 n.10, p.549-562, October 2006[doi>10.1016/j.sysarc.2005.03.002]
+David H. Bailey, High-Precision Floating-Point Arithmetic in Scientific Computation, Computing in Science and Engineering, v.7 n.3, p.54-61, May 2005[doi>10.1109/MCSE.2005.52]
+Richard Brent , Paul Zimmermann, Modern Computer Arithmetic, Cambridge University Press, New York, NY, 2010
+Andre R. Brodtkorb , Christopher Dyken , Trond R. Hagen , Jon M. Hjelmervik , Olaf O. Storaasli, State-of-the-art in heterogeneous computing, Scientific Programming, v.18 n.1, p.1-33, January 2010
+Thomas H. Cormen , Charles E. Leiserson , Ronald L. Rivest , Clifford Stein, Introduction to algorithms, MIT Press, Cambridge, MA, 2001
+Jeremie Detrey , Florent de Dinechin , Xavier Pujol, Return of the hardware floating-point elementary function, Proceedings of the 18th IEEE Symposium on Computer Arithmetic, p.161-168, June 25-27, 2007[doi>10.1109/ARITH.2007.29]
+Yong Dou , S. Vassiliadis , G. K. Kuzmanov , G. N. Gaydadjiev, 64-bit floating-point FPGA matrix multiplication, Proceedings of the 2005 ACM/SIGDA 13th international symposium on Field-programmable gate arrays, February 20-22, 2005, Monterey, California, USA[doi>10.1145/1046192.1046204]
+Yong Dou , Yuanwu Lei , Guiming Wu , Song Guo , Jie Zhou , Li Shen, FPGA accelerating double/quad-double high precision floating-point applications for ExaScale computing, Proceedings of the 24th ACM International Conference on Supercomputing, June 02-04, 2010, Tsukuba, Ibaraki, Japan[doi>10.1145/1810085.1810129]
+Milos D. Ercegovac, Radix-16 Evaluation of Certain Elementary Functions, IEEE Transactions on Computers, v.22 n.6, p.561-566, June 1973[doi>10.1109/TC.1973.5009107]
+Joseph A. Fisher, Very Long Instruction Word architectures and the ELI-512, Proceedings of the 10th annual international symposium on Computer architecture, p.140-150, June 13-17, 1983, Stockholm, Sweden[doi>10.1145/800046.801649]
+Laurent Fousse , Guillaume Hanrot , Vincent Lefèvre , Patrick Pélissier , Paul Zimmermann, MPFR: A multiple-precision binary floating-point library with correct rounding, ACM Transactions on Mathematical Software (TOMS), v.33 n.2, p.13-es, June 2007[doi>10.1145/1236463.1236468]
+Mustafa Gök , Metin Mete Özbilen, Multi-functional floating-point MAF designs with dot product support, Microelectronics Journal, v.39 n.1, p.30-43, January, 2008[doi>10.1016/j.mejo.2007.11.001]
+Libo Huang , Sheng Ma , Li Shen , Zhiying Wang , Nong Xiao, Low-Cost Binary128 Floating-Point FMA Unit Design with SIMD Support, IEEE Transactions on Computers, v.61 n.5, p.745-751, May 2012[doi>10.1109/TC.2011.77]
+Ieee. 2008. Standard for binary floating point arithmetic ANSI/IEEE standard 754-2008. http://grouper.ieee.org/groups/754/.
+Intel. 2012. Intel compilers and libraries. http://software.intel.com/enus/articles/intel-compilers/.
+Dimitris Kaseridis , Jeffrey Stuecheli , Lizy Kurian John, Minimalist open-page: a DRAM page-mode scheduling policy for the many-core era, Proceedings of the 44th Annual IEEE/ACM International Symposium on Microarchitecture, December 03-07, 2011, Porto Alegre, Brazil[doi>10.1145/2155620.2155624]
+Vincent Lefèvre , Jean-Michel Muller , Arnaud Tisserand, Toward Correctly Rounded Transcendentals, IEEE Transactions on Computers, v.47 n.11, p.1235-1243, November 1998[doi>10.1109/12.736435]
+Vincent Lefèvre , Jean-Michel Muller, Worst Cases for Correct Rounding of the Elementary Functions in Double Precision, Proceedings of the 15th IEEE Symposium on Computer Arithmetic, p.111, June 11-13, 2001
+Yuanwu Lei , Yong Dou , Li Shen , Jie Zhou , Song Guo, Special-purposed VLIW architecture for IEEE-754 quadruple precision elementary functions on FPGA, Proceedings of the 2011 IEEE 29th International Conference on Computer Design, p.219-225, October 09-12, 2011[doi>10.1109/ICCD.2011.6081400]
+Jean-Michel Muller, Elementary Functions: Algorithms and Implementation, Birkhauser, 2005
+Oberman, S. F. and Flynn, M. J. 1995. Implementing division and other floating-point operations: A system perspective. In Proceedings of the Conference on Scientific Computing and Validated Numerics (SCAN'95). 18--24.
+George Paul , M. Wayne Wilson, Should the Elementary Function Library Be Incorporated Into Computer Instruction Sets?, ACM Transactions on Mathematical Software (TOMS), v.2 n.2, p.132-142, June 1976[doi>10.1145/355681.355684]
+Raney, R. K., Runge, H., Bamler, R., and Wong, F. H. 1994. Precision sar processing using chirp scaling. IEEE Trans. Geosci. Remote Sensing 32, 4, 786--799.
+Eric M. Schwarz , Ronald M. Smith , Christopher A. Krygowski, The S/390 G5 Floating Point Unit Supporting Hex and Binary Architectures, Proceedings of the 14th IEEE Symposium on Computer Arithmetic, p.258, April 14-16, 1999
+Vallado, D. A., Crawford, P., Hujsak, R., and Kelso, T. S. 2006. Revisiting space track report &num;3. In Proceedings of the AIAAAstro Dynamics Specialists Conference and Exhibit.
+Wilkes, M. V. 1951. The best way to design an automatic computing machine. In Report of Manchester University Computer Inaugural Conference.
+Wrathall, C. and Chen, T. C. 1978. Convergence guarantee and improvements for a hardware exponential and logarithm evaluation scheme. In Proceedings of the 4<sup>th</sup> Symposium on Computer Arithmetic (ARITH'78). 175--182.
+Jie Zhou , Yong Dou , Yuanwu Lei , Jinbo Xu , Yazhuo Dong, Double Precision Hybrid-Mode Floating-Point FPGA CORDIC Co-processor, Proceedings of the 2008 10th IEEE International Conference on High Performance Computing and Communications, p.182-189, September 25-27, 2008[doi>10.1109/HPCC.2008.14]

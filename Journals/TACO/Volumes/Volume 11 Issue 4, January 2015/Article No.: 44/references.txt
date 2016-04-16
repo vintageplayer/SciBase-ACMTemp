@@ -1,0 +1,32 @@
+Timo Aila , Samuli Laine, Understanding the efficiency of ray traversal on GPUs, Proceedings of the Conference on High Performance Graphics 2009, August 01-03, 2009, New Orleans, Louisiana[doi>10.1145/1572769.1572792]
+Ping An , Alin Jula , Silvius Rus , Steven Saunders , Tim Smith , Gabriel Tanase , Nathan Thomas , Nancy Amato , Lawrence Rauchwerger, STAPL: an adaptive, generic parallel C++ library, Proceedings of the 14th international conference on Languages and compilers for parallel computing, p.193-208, August 01-03, 2001, Cumberland Falls, KY, USA
+Krste Asanovic, Ras Bodik, Bryan Christopher Catanzaro, Joseph James Gebis, Parry Husbands, Kurt Keutzer, David A. Patterson, William Lester Plishker, John Shalf, Samuel Webb Williams, and Katherine A. Yelick. 2006. The Landscape of Parallel Computing Research: A View from Berkeley. Technical Report UCB/EECS-2006-183. EECS Department, University of California, Berkeley. http://www.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-183.html.
+Michael Bauer , Henry Cook , Brucek Khailany, CudaDMA: optimizing GPU memory bandwidth via warp specialization, Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis, November 12-18, 2011, Seattle, Washington[doi>10.1145/2063384.2063400]
+Boost. 2014. Boost C&plus;&plus; Libraries. Retrieved from http://www.boost.org/.
+Martin Burtscher and Keshav Pingali. 2011. An efficient CUDA implementation of the tree-based barnes hut n-body algorithm. In GPU Computing Gems Emerald Edition. Morgan Kaufmann, 75--92.
+Shuai Che , Jeremy W. Sheaffer , Kevin Skadron, Dymaxion: optimizing memory access patterns for heterogeneous systems, Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis, November 12-18, 2011, Seattle, Washington[doi>10.1145/2063384.2063401]
+CUB. 2014. CUB GPU Computing Primitives Library, NVIDIA Research. Retrieved from http://nvlabs.github.io/cub/.
+CUBLAS. 2014. CUBLAS Library Documentation. Retrieved from http://docs.nvidia.com/cuda/cublas/.
+CUDA. 2014. NVIDIA CUDA SDK. (2014). http://www.nvidia.com/cuda.
+CUFFT. 2014. CUFFT Library Documentation. Retrieved from http://docs.nvidia.com/cuda/cufft/.
+Jianbin Fang, Henk Sips, Pekka Jaaskelainen, and Ana L. Varbanescu. 2014. Grover: Looking for performance improvement by disabling local memory usage in OpenCL kernels. In Proceedings of the 43rd International Conference on Parallel Processing (ICPP’14). IEEE.
+Michael Garland, Sparse matrix computations on manycore GPU's, Proceedings of the 45th annual Design Automation Conference, June 08-13, 2008, Anaheim, California[doi>10.1145/1391469.1391473]
+Kate Gregory and Ade Miller. 2012. C&plus;&plus; AMP: Accelerated Massive Parallelism with Microsoft® Visual C&plus;&plus;®. Microsoft Press.
+Kshitij Gupta, Jeff A. Stuart, and John D. Owens. 2012. A study of persistent threads style GPU programming for GPGPU workloads. In Innovative Parallel Computing.
+Tianyi David Han , Tarek S. Abdelrahman, hiCUDA: High-Level GPGPU Programming, IEEE Transactions on Parallel and Distributed Systems, v.22 n.1, p.78-90, January 2011[doi>10.1109/TPDS.2010.62]
+Mark Harris, John Owens, Shubho Sengupta, Yao Zhang, and Andrew Davidson. 2007. CUDPP: CUDA Data Parallel Primitives Library. Retrieved from http://gpgpu.org/developer/cudpp.
+Jared Hoberock and Nathan Bell. 2010. Thrust: A Parallel Template Library. Retrieved from http://thrust.github.io/.
+Sungpack Hong , Sang Kyun Kim , Tayo Oguntebi , Kunle Olukotun, Accelerating CUDA graph algorithms at maximum warp, Proceedings of the 16th ACM symposium on Principles and practice of parallel programming, February 12-16, 2011, San Antonio, TX, USA[doi>10.1145/1941553.1941590]
+Hugues Hoppe, Optimization of mesh locality for transparent vertex caching, Proceedings of the 26th annual conference on Computer graphics and interactive techniques, p.269-276, July 1999[doi>10.1145/311535.311565]
+Seyong Lee , Rudolf Eigenmann, OpenMPC: Extended OpenMP Programming and Tuning for GPUs, Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis, p.1-11, November 13-19, 2010[doi>10.1109/SC.2010.36]
+Aaron E. Lefohn , Shubhabrata Sengupta , Joe Kniss , Robert Strzodka , John D. Owens, Glift: Generic, efficient, random-access GPU data structures, ACM Transactions on Graphics (TOG), v.25 n.1, p.60-99, January 2006[doi>10.1145/1122501.1122505]
+MAPS. 2014. MAPS Code Repository. Retrieved from https://github.com/erdooom/MAPS.
+David R. Musser , Gilmer J. Derge , Atul Saini, STL tutorial and reference guide, second edition: C++ programming with the standard template library, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 2001
+NPP. 2014. NVIDIA Performance Primitives (NPP) Library. Retrieved from http://developer.nvidia.com/npp/.
+Lars Nyland, Mark Harris, and Jan Prins. 2007. Fast n-body simulation with CUDA. In GPU Gems 3, Hubert Nguyen (Ed.). Addison-Wesley Professional.
+OpenACC. 2012. OpenACC—Directives for Accelerators. Retrieved from http://www.openacc-standard.org.
+Xavier Provot. 1995. Deformation constraints in a mass-spring model to describe rigid cloth behavior. In Graphics Interface. 147--154.
+Greg Ruetsch and Paulius Micikevicius. 2009. Optimizing Matrix Transpose in CUDA. Retrieved from https://users.csc.calpoly.edu/clupo/teaching/419/winter14/MatrixTranspose.pdf.
+Pedro V. Sander , Diego Nehab , Joshua Barczak, Fast triangle reordering for vertex locality and reduced overdraw, ACM SIGGRAPH 2007 papers, August 05-09, 2007, San Diego, California[doi>10.1145/1275808.1276489]
+Bjarne Stroustrup, The  C++ Programming Language, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 2000
+Eddy Z. Zhang , Yunlian Jiang , Ziyu Guo , Xipeng Shen, Streamlining GPU applications on the fly: thread divergence elimination through runtime thread-data remapping, Proceedings of the 24th ACM International Conference on Supercomputing, June 02-04, 2010, Tsukuba, Ibaraki, Japan[doi>10.1145/1810085.1810104]

@@ -1,0 +1,29 @@
+Pedro V. Artigas , Manish Gupta , Samuel P. Midkiff , José E. Moreira, Automatic loop transformations and parallelization for Java, Proceedings of the 14th international conference on Supercomputing, p.1-10, May 08-11, 2000, Santa Fe, New Mexico, USA[doi>10.1145/335231.335232]
+Bailey, D., Barton, J., Lasinski, T., and Simon, H. 1991. The NAS parallel benchmarks. RNR-91-002, NASA Ames Research Center.
+BEA. 2005. BEA JRockit whitepaper (http://www.bea.com/content/news_events/white_papers/bea_jrockit_wp.pdf).
+Rastislav Bodík , Rajiv Gupta , Vivek Sarkar, ABCD: eliminating array bounds checks on demand, Proceedings of the ACM SIGPLAN 2000 conference on Programming language design and implementation, p.321-333, June 18-21, 2000, Vancouver, British Columbia, Canada[doi>10.1145/349299.349342]
+Boisvert, R. F., Dongarra, J. J., Pozo, R., Remington, K. A., and Stewart, G. W. 1998. Optimizing array reference checking in Java programs. Concurrency: Practice and Experience 10, 11-13, 1117--1129.
+Jeffrey S. Chase , Henry M. Levy , Michael J. Feeley , Edward D. Lazowska, Sharing and protection in a single-address-space operating system, ACM Transactions on Computer Systems (TOCS), v.12 n.4, p.271-307, Nov. 1994[doi>10.1145/195792.195795]
+RAD: A Compile-Time Solution to Buffer Overflow Attacks, Proceedings of the The 21st International Conference on Distributed Computing Systems, p.409, April 16-19, 2001
+Crispin Cowan , Calton Pu , Dave Maier , Heather Hintony , Jonathan Walpole , Peat Bakke , Steve Beattie , Aaron Grier , Perry Wagle , Qian Zhang, StackGuard: automatic adaptive detection and prevention of buffer-overflow attacks, Proceedings of the 7th conference on USENIX Security Symposium, p.5-5, January 26-29, 1998, San Antonio, Texas
+Christopher Dahn , Spiros Mancoridis, Using Program Transformation to Secure C Programs Against Buffer Overflows, Proceedings of the 10th Working Conference on Reverse Engineering, p.323, November 13-17, 2003
+Frumkin, M., Schultz, M., Jin, H., and Yan, J. 2002. Implementation of the NAS parallel benchmarks in Java. NAS-02-009, NASA Ames Research Center.
+Rajiv Gupta, Optimizing array bound checks using flow analysis, ACM Letters on Programming Languages and Systems (LOPLAS), v.2 n.1-4, p.135-150, March–Dec. 1993[doi>10.1145/176454.176507]
+Intel. 2006. Intel Itanium Architecture Software Developer's Manual (http://download.intel.com/design/itanium/manuals/24531705.pdf).
+Ayal Itzkovitz , Assaf Schuster, MultiView and Millipage — fine-grain sharing in page-based DSMs, Proceedings of the third symposium on Operating systems design and implementation, p.215-228, February 1999, New Orleans, Louisiana, USA
+Java hotspot vm options (http://java.sun.com/docs/hotspot/vmoptions.html).
+Priyadarshan Kolte , Michael Wolfe, Elimination of redundant array subscript range checks, Proceedings of the ACM SIGPLAN 1995 conference on Programming language design and implementation, p.270-278, June 18-21, 1995, La Jolla, California, USA[doi>10.1145/207110.207160]
+Lap-chung Lam, Checking Array Bound Violation Using Segmentation Hardware, Proceedings of the 2005 International Conference on Dependable Systems and Networks, p.388-397, June 28-July 01, 2005[doi>10.1109/DSN.2005.25]
+Victoria Markstein , John Cocke , Peter Markstein, Optimization of range checking, Proceedings of the 1982 SIGPLAN symposium on Compiler construction, p.114-119, June 23-25, 1982, Boston, Massachusetts, USA[doi>10.1145/800230.806986]
+McGary, G. Bounds-checking C compiler (http://www.gnu.org/software/gcc/projects/bp/main.html).
+S. P. Midkiff , J. E. Moreira , M. Snir, Optimizing array reference checking in Java programs, IBM Systems Journal, v.37 n.3, p.409-453, 1998[doi>10.1147/sj.373.0409]
+J. E. Moreira , S. P. Midkiff , M. Gupta , P. V. Artigas , M. Snir , R. D. Lawrence, Java programming for high-performance numerical computing, IBM Systems Journal, v.39 n.1, p.21-56, January 2000[doi>10.1147/sj.391.0021]
+David Mosberger , Stephane Eranian, IA-64 Linux Kernel: Design and Implementation, Prentice Hall PTR, Upper Saddle River, NJ, 2001
+Perens, B. Electric Fence (http://sunsite.unc.edu/pub/linux/devel/lang/c/electricfence-2.0.5.tar.gz).
+Radu Rugina , Martin Rinard, Symbolic bounds analysis of pointers, array indices, and accessed memory regions, Proceedings of the ACM SIGPLAN 2000 conference on Programming language design and implementation, p.182-195, June 18-21, 2000, Vancouver, British Columbia, Canada[doi>10.1145/349299.349325]
+SUN. 2002. The Java HotSpot virtual machine (http://java.sun.com/products/hotspot/docs/whitepaper/java_hotspot_v1.4.1/jhs_141_wp_d2a.pdf).
+M. Talluri , M. D. Hill , Y. A. Khalidi, A new page table for 64-bit address spaces, Proceedings of the fifteenth ACM symposium on Operating systems principles, p.184-200, December 03-06, 1995, Copper Mountain, Colorado, USA[doi>10.1145/224056.224071]
+Winwood, S., Shuf, Y., and Franke, H. 2002. Multiple page size support in the linux kernel.
+Hongwei Xi , Frank Pfenning, Eliminating array bound checking through dependent types, Proceedings of the ACM SIGPLAN 1998 conference on Programming language design and implementation, p.249-257, June 17-19, 1998, Montreal, Quebec, Canada[doi>10.1145/277650.277732]
+Hongwei Xi , Songtao Xia, Towards array bound check elimination in JavaTMvirtual machine language, Proceedings of the 1999 conference of the Centre for Advanced Studies on Collaborative research, p.14, November 08-11, 1999, Mississauga, Ontario, Canada
+M. Young , A. Tevanian , R. Rashid , D. Golub , J. Eppinger, The duality of memory and communication in the implementation of a multiprocessor operating system, Proceedings of the eleventh ACM Symposium on Operating systems principles, p.63-76, November 08-11, 1987, Austin, Texas, USA[doi>10.1145/41457.37507]

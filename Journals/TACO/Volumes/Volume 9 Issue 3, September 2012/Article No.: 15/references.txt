@@ -1,0 +1,69 @@
+AMD. 2006. BIOS and Kernel Developer's Guide for AMD Athlon 64 and AMD Opteron Processors 26094 Rev 3.30 Ed. AMD.
+AMD. 2007. AMD Opteron Processor Data Sheet 3.23 Ed. AMD.
+AMD. 2008. Software Optimization Guide for AMD Family 10h Processors 3.06 08 Ed. AMD.
+Bellosa, F., Weissel, A., Waitz, M., and Kellner, S. 2003. Event-driven energy accounting for dynamic thermal management. In Proceedings of the Workshop on Compilers and Operating Systems for Low Power.
+Ramon Bertran , Marc Gonzalez , Xavier Martorell , Nacho Navarro , Eduard Ayguade, Decomposable and responsive power models for multicore processors using performance counters, Proceedings of the 24th ACM International Conference on Supercomputing, June 02-04, 2010, Tsukuba, Ibaraki, Japan[doi>10.1145/1810085.1810108]
+Abhishek Bhattacharjee , Margaret Martonosi, Thread criticality predictors for dynamic performance, power, and resource management in chip multiprocessors, Proceedings of the 36th annual international symposium on Computer architecture, June 20-24, 2009, Austin, TX, USA[doi>10.1145/1555754.1555792]
+Christian Bienia , Kai Li, Benchmarking modern multiprocessors, Princeton University, Princeton, NJ, 2011
+Bircher, W. and John, L. 2007. Complete system power estimation: A trickle-down approach based on performance events. In Proceedings of the IEEE International Symposium on Performance Analysis of Systems andSoftware. 158--168.
+William Lloyd Bircher , Lizy K. John, Complete System Power Estimation Using Processor Performance Events, IEEE Transactions on Computers, v.61 n.4, p.563-577, April 2012[doi>10.1109/TC.2011.47]
+Bircher, W., Law, J., Valluri, W., and John, L. 2004. Effective use of performance monitoring counters for run-time prediction of power. Tech. Rep. TR-041104-01, University of Texas at Austin.
+Bowman, A. and Azzalini, A. 1997. Applied Smoothing Techniques for Data Analysis: The Kernel Approach with S-Plus Illustrations. Oxford University Press.
+George Edward Pelham Box , Gwilym M. Jenkins, Time Series Analysis: Forecasting and Control, Prentice Hall PTR, Upper Saddle River, NJ, 1994
+Brochard, L., Panda, R., and Vemuganti, S. 2010. Optimizing performance and energy of HPC applications on POWER7. Comput. Sci. Resear. Dev. 25, 135--140.
+Cisco Systems. 2010. Using SPEC CPU2006 benchmark results to compare the compute performance of servers. white paper.
+Gilberto Contreras , Margaret Martonosi, Power prediction for intel XScale® processors using performance monitoring unit events, Proceedings of the 2005 international symposium on Low power electronics and design, August 08-10, 2005, San Diego, CA, USA[doi>10.1145/1077603.1077657]
+Ayse Kivilcim Coskun , Tajana Simunic Rosing , Kenny C. Gross, Proactive temperature balancing for low cost thermal management in MPSoCs, Proceedings of the 2008 IEEE/ACM International Conference on Computer-Aided Design, November 10-13, 2008, San Jose, California
+Davis, J., Rivoire, S., Goldszmidt, M., and Ardestani, E. 2011. Accounting for variability in large-scale cluster power models. In Proceedings of the 2nd Exascle Evaluation and Research Techniques Workshop.
+Economou, D., Rivoire, S., Kozyrakis, C., and Ranganathan, P. 2006. Full-system power analysis and modeling for server environments. In Proceedings of the Workshop on Modeling Benchmarking and Simulation.
+Electronic Educational Devices, Inc. 2006. WattsUp Power Meter.
+Fan, J. and Gijbels, I. 1996. Local Polynomial Modeling and Its Applications. Chapman & Hall, London, UK.
+Fan, J. and Yao, Q. 2005. Nonlinear Time Series. Springer.
+Xiaobo Fan , Wolf-Dietrich Weber , Luiz Andre Barroso, Power provisioning for a warehouse-sized computer, Proceedings of the 34th annual international symposium on Computer architecture, June 09-13, 2007, San Diego, California, USA[doi>10.1145/1250662.1250665]
+Friedman, J. 1991. Multivariate adaptive regression splines. Ann. Statist. 19, 1--142.
+Sudhanva Gurumurthi , Anand Sivasubramaniam , Vivek K. Natarajan, Disk Drive Roadmap from the Thermal Perspective: A Case for Dynamic Thermal Management, Proceedings of the 32nd annual international symposium on Computer Architecture, p.38-49, June 04-08, 2005[doi>10.1109/ISCA.2005.24]
+Hamill, D., Deane, J., and Aston, P. 1997. Some applications of chaos in power converters. In IEEE Colloquium on Update on New Power Electronic Techniques (Digest No: 1997/091).
+Taliver Heath , Ana Paula Centeno , Pradeep George , Luiz Ramos , Yogesh Jaluria , Ricardo Bianchini, Mercury and freon: temperature emulation and management for server systems, Proceedings of the 12th international conference on Architectural support for programming languages and operating systems, October 21-25, 2006, San Jose, California, USA[doi>10.1145/1168857.1168872]
+Taliver Heath , Bruno Diniz , Enrique V. Carrera , Wagner Meira, Jr. , Ricardo Bianchini, Energy conservation in heterogeneous server clusters, Proceedings of the tenth ACM SIGPLAN symposium on Principles and practice of parallel programming, June 15-17, 2005, Chicago, IL, USA[doi>10.1145/1065944.1065969]
+John L. Henning, SPEC CPU2006 benchmark descriptions, ACM SIGARCH Computer Architecture News, v.34 n.4, p.1-17, September 2006[doi>10.1145/1186736.1186737]
+Chung-Hsing Hsu , Stephen W. Poole, Power signature analysis of the SPECpower_ssj2008 benchmark, Proceedings of the IEEE International Symposium on Performance Analysis of Systems and Software, p.227-236, April 10-12, 2011[doi>10.1109/ISPASS.2011.5762739]
+Hypertransport Technology Consortium. 2007. HyperTransport I/O Link Specification. Specification 3.00c, HyperTransport Technology Consortium.
+Intel. 2009. Intel R64 and IA-32 Architectures Optimization Reference Manual. Intel Corporation.
+Isci, C. and Martonosi, M. 11-15 Feb. 2006. Phase characterization for power: Evaluating control-flow-based and event-counter-based techniques.In Proceedings of the 12th International Symposium on High-Performance Computer Architecture. 121--132.
+Isci, C. and Martonosi, M. 2003a. Identifying program power phase behavior using power vectors. In Proceedings of the IEEE International Workshop on Workload Characterization. 108--118.
+Canturk Isci , Margaret Martonosi, Runtime Power Monitoring in High-End Processors: Methodology and Empirical Data, Proceedings of the 36th annual IEEE/ACM International Symposium on Microarchitecture, p.93, December 03-05, 2003
+Itoh, K. 1995. A Method for Predicting Chaotic Time-seriesWith Outliers. Electronics and Communications in Japan, Part 3: Fundamental Electronic Science 78, 5, 1529--1536.
+Jekabsons, G. 2010. ARESLab: Adaptive regression splines toolbox for Matlab. http://www.cs.rtu. lv/jekabsons/regression.html.
+I. Kadayif , T. Chinoda , M. Kandemir , N. Vijaykirsnan , M. J. Irwin , A. Sivasubramaniam, vEC: virtual energy counters, Proceedings of the 2001 ACM SIGPLAN-SIGSOFT workshop on Program analysis for software tools and engineering, p.28-31, June 2001, Snowbird, Utah, USA[doi>10.1145/379605.379639]
+Aman Kansal , Feng Zhao , Jie Liu , Nupur Kothari , Arka A. Bhattacharya, Virtual machine power metering and provisioning, Proceedings of the 1st ACM symposium on Cloud computing, June 10-11, 2010, Indianapolis, Indiana, USA[doi>10.1145/1807128.1807136]
+A. Kumar , Li Shang , Li-Shiuan Peh , N. K. Jha, System-Level Dynamic Thermal Management for High-Performance Microprocessors, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.27 n.1, p.96-108, January 2008[doi>10.1109/TCAD.2007.907062]
+Kyeong-Jae Lee , Kevin Skadron, Using Performance Counters for Runtime Temperature Sensing in High-Performance Processors, Proceedings of the 19th IEEE International Parallel and Distributed Processing Symposium (IPDPS'05) - Workshop 11, p.232.1, April 04-08, 2005[doi>10.1109/IPDPS.2005.448]
+Adam Lewis , Soumik Ghosh , N.-F. Tzeng, Run-time energy consumption estimation based on workload in server systems, Proceedings of the 2008 conference on Power aware computing and systems, p.4-4, December 07, 2008, San Diego, California
+Adam Lewis , Jim Simon , Nian-Feng Tzeng, Chaotic attractor prediction for server run-time energy consumption, Proceedings of the 2010 international conference on Power aware computing and systems, p.1-16, October 03, 2010, Vancouver, BC, Canada
+Song Liu , Seda Ogrenci Memik , Yu Zhang , Gokhan Memik, A power and temperature aware DRAM architecture, Proceedings of the 45th annual Design Automation Conference, June 08-13, 2008, Anaheim, California[doi>10.1145/1391469.1391691]
+Song Liu , Seda Ogrenci Memik , Yu Zhang , Gokhan Memik, A power and temperature aware DRAM architecture, Proceedings of the 45th annual Design Automation Conference, June 08-13, 2008, Anaheim, California[doi>10.1145/1391469.1391691]
+Liu, Z. 2010. Chaotic time series analysis. Math. Problems Engin.
+London, K., Moore, S., Mucci, P., Seymour, K., and Luczak, R. 2001. The PAPI cross-platform interface to hardware performance counters. In Department of Defense Users' Group Conference Proceedings.
+John C. McCullough , Yuvraj Agarwal , Jaideep Chandrashekar , Sathyanarayan Kuppuswamy , Alex C. Snoeren , Rajesh K. Gupta, Evaluating the effectiveness of model-based power characterization, Proceedings of the 2011 USENIX conference on USENIX annual technical conference, p.12-12, June 15-17, 2011, Portland, OR
+Francisco Javier Mesa-Martinez , Joseph Nayfach-Battilana , Jose Renau, Power model validation through thermal measurements, Proceedings of the 34th annual international symposium on Computer architecture, June 09-13, 2007, San Diego, California, USA[doi>10.1145/1250662.1250700]
+Francisco Javier Mesa-Martinez , Ehsan K. Ardestani , Jose Renau, Characterizing processor thermal behavior, ACM SIGARCH Computer Architecture News, v.38 n.1, March 2010[doi>10.1145/1735970.1736043]
+Micron, Inc. 2007. Calculating Memory System Power for DDR3. Tech. Note TN41 01DDR3 Rev.B, Micron, Inc.
+NIST. 2010. NIST/SEMATECH e-Handbook of Statistical Methods.
+Aashish Phansalkar , Ajay Joshi , Lizy K. John, Analysis of redundancy and application balance in the SPEC CPU2006 benchmark suite, ACM SIGARCH Computer Architecture News, v.35 n.2, May 2007[doi>10.1145/1273440.1250713]
+Powell, M., Biswas, A., Emer, J., Mukherjee, S., Sheikh, B., and Yardi, S. 2009. CAMP: A technique to estimate per-structure power at run-time using a few simple parameters. In Proceedings of the IEEE 15th International Symposium on High Performance Computer Architecture. 289--300.
+Joshua Reich , Michel Goraczko , Aman Kansal , Jitendra Padhye, Sleepless in seattle no longer, Proceedings of the 2010 USENIX conference on USENIX annual technical conference, p.17-17, June 23-25, 2010, Boston, MA
+Suzanne Marion Rivoire, Models and metrics for energy-efficient computer systems, Stanford University, Stanford, CA, 2008
+Suzanne Rivoire , Parthasarathy Ranganathan , Christos Kozyrakis, A comparison of high-level full-system power models, Proceedings of the 2008 conference on Power aware computing and systems, p.3-3, December 07, 2008, San Diego, California
+Server System Infrastructure Consortium. 2004. EPS12v Power Supply Design Guide, V2.92. Spec. 2.92, Server System Infrastructure Consortium.
+Karan Singh , Major Bhadauria , Sally A. McKee, Real time power estimation and thread scheduling via performance counters, ACM SIGARCH Computer Architecture News, v.37 n.2, May 2009[doi>10.1145/1577129.1577137]
+Kevin Skadron , Mircea R. Stan , Karthik Sankaranarayanan , Wei Huang , Sivakumar Velusamy , David Tarjan, Temperature-aware microarchitecture: Modeling and implementation, ACM Transactions on Architecture and Code Optimization (TACO), v.1 n.1, p.94-125, March 2004[doi>10.1145/980152.980157]
+Julien Clinton Sprott, Chaos and Time-Series Analysis, Oxford University Press, 2003
+Li-yun Su, Prediction of multivariate chaotic time series with local polynomial fitting, Computers & Mathematics with Applications, v.59 n.2, p.737-744, January, 2010[doi>10.1016/j.camwa.2009.10.019]
+Sun Microsystems. 2008. Solaris System Administration Guide: Advanced Administration.
+Ton, M., Fortenbery, B., and Tschudi, W. 2008. DC power for improved data center efficiency. Tech. rep., Lawrence Berkeley National Laboratory.
+Tong, H. 1993. Non-Linear Time Series: A Dynamical System Approach. Oxford University Press, New York, NY.
+Tse, C. and Di Bernardo, M. 2002. Complex Behavior In Switching Power Converters. Proc. IEEE 90, 5, 768--781.
+Dimitris Tsirogiannis , Stavros Harizopoulos , Mehul A. Shah, Analyzing the energy efficiency of a database server, Proceedings of the 2010 ACM SIGMOD International Conference on Management of data, June 06-10, 2010, Indianapolis, Indiana, USA[doi>10.1145/1807167.1807194]
+Turlach, B. 1993. Bandwidth selection in kernel density estimation: A review. CORE and Institut de Statistique. 23--493.
+Varsamopoulos, G., Abbasi, Z., and Gupta, S. 2010. Trends and effects of energy proportionality on server provisioning in data centers. In Proceedings of the International Conference on High Performance Computing. 1--11.
+Ware, M., Rajamani, K., Floyd, M., Brock, B., Rubio, J., Rawson, F., and Carter, J. 2010. Architecting for power management: The IBM POWER7 approach. In Proceedings of the IEEE 16th International Symposium on High Performance Computer Architecture. 1--11.

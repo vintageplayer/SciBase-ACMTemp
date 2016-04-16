@@ -1,0 +1,38 @@
+Advanced Micro Devices. http://www.amd.com.
+Albonesi, D. H. 2000. Selective cache ways: On-demand cache resource allocation. Journal of Instruction Level Parallelism.
+Amrutur, B. and Horowitz, M. 1998. A replica technique for word line and sense control in low-power SRAM's. IEEE Journal of Solid-State Circuits 33, 8, 1208--1218.
+Brannon Batson , T. N. Vijaykumar, Reactive-Associative Caches, Proceedings of the 2001 International Conference on Parallel Architectures and Compilation Techniques, p.49-60, September 08-12, 2001
+Burger, D. and Austin, T. M. 1997. The SimpleScalar tool set, version 2.0. University of Wisconsin-Madison Computer Sciences Dept., Technical Report &num;1342.
+Cadence. http://www.cadence.com.
+B. Calder , D. Grunwald , J. Emer, Predictive sequential associative cache, Proceedings of the 2nd IEEE Symposium on High-Performance Computer Architecture, p.244, February 03-07, 1996
+Michel Cekleov , Michel Dubois, Virtual-Address Caches Part 1: Problems and Solutions in Uniprocessors, IEEE Micro, v.17 n.5, p.64-71, September 1997[doi>10.1109/40.621215]
+John H. Edmondson , Paul I. Rubinfeld , Peter J. Bannon , Bradley J. Benschneider , Debra Bernstein , Ruben W. Castelino , Elizabeth M. Cooper , Daniel E. Dever , Dale R. Donchin , Timothy C. Fischer , Anil K. Jain , Shekhar Mehta , Jeanne E. Meyer , Ronald P. Preston , Vidya Rajagopalan , Chandrasekhara Somanathan , Scott A. Taylor , Gilbert M. Wolrich, Internal organization of the Alpha 21164, a 300-MHz 64-bit quad-issue CMOS RISC microprocessor, Digital Technical Journal, v.7 n.1, p.119-135, Jan. 1995
+Aristides Efthymiou , Jim D. Garside, An adaptive serial-parallel CAM architecture for low-power cache blocks, Proceedings of the 2002 international symposium on Low power electronics and design, August 12-14, 2002, Monterey, California, USA[doi>10.1145/566408.566445]
+Steve B. Furber , Aristides Efthymiou , Jim D. Garside , David W. Lloyd , Mike J. G. Lewis , Steve Temple, Power Management in the Amulet Microprocessors, IEEE Design & Test, v.18 n.2, p.42-52, March 2001[doi>10.1109/54.914617]
+J. D. Garside , S. Temple , R. Mehra, The AMULET2e Cache System, Proceedings of the 2nd International Symposium on Advanced Research in Asynchronous Circuits and Systems, p.208, March 18-21, 1996
+Atsushi Hasegawa , Ikuya Kawasaki , Kouji Yamada , Shinichi Yoshioka , Shumpei Kawasaki , Prasenjit Biswas, SH3: High Code Density, Low Power, IEEE Micro, v.15 n.6, p.11-19, December 1995[doi>10.1109/40.476254]
+John L. Hennessy , David A. Patterson, Computer architecture: a quantitative approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 02
+Michael Huang , Jose Renau , Seung-Moon Yoo , Josep Torrellas, L1 data cache decomposition for energy efficiency, Proceedings of the 2001 international symposium on Low power electronics and design, p.10-15, August 2001, Huntington Beach, California, USA[doi>10.1145/383082.383086]
+IBM. http://www.ibm.com.
+http://www.specbench.org/osg/cpu2000/.
+Koji Inoue , Tohru Ishihara , Kazuaki Murakami, Way-predicting set-associative cache for high performance and low energy consumption, Proceedings of the 1999 international symposium on Low power electronics and design, p.273-275, August 16-17, 1999, San Diego, California, USA[doi>10.1145/313817.313948]
+Toni Juan , Tomás Lang , Juan J. Navarro, The difference-bit cache, Proceedings of the 23rd annual international symposium on Computer architecture, p.114-120, May 22-24, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/232973.232986]
+Chunho Lee , Miodrag Potkonjak , William H. Mangione-Smith, MediaBench: a tool for evaluating and synthesizing multimedia and communicatons systems, Proceedings of the 30th annual ACM/IEEE international symposium on Microarchitecture, p.330-335, December 01-03, 1997, Research Triangle Park, North Carolina, USA
+Lishing Liu, Cache designs with partial address matching, Proceedings of the 27th annual international symposium on Microarchitecture, p.128-136, November 30-December 02, 1994, San Jose, California, USA[doi>10.1145/192724.192742]
+Afzal Malik , Bill Moyer , Dan Cermak, A low power unified cache architecture providing power and performance flexibility (poster session), Proceedings of the 2000 international symposium on Low power electronics and design, p.241-243, July 25-27, 2000, Rapallo, Italy[doi>10.1145/344166.344610]
+MIPS Technologies, Inc. http://www.mips.com.
+Montanaro, J., Witek, R. T., Anne, K., Black, A. J., Cooper, E. M., Dobberpuhl, D. W., Donahue, P. M., Eno, J., Farell, A., Hoeppner, G. W., Kruckemyer, D., Lee, T. H., Lin, P., Madden, L., Murray, D., Pearce, M., Santhanam, S., Snyder, K. J., Stephany, R., and Thierauf, S. C. 1996. A 160 MHz 32 b 0.5 W CMOS RISC microprocessor. In IEEE International Solid-State Circuits Conference.
+The Mosis Service. http://www.mosis.org.
+Peter Petrov , Alex Orailoglu, Data cache energy minimizations through programmable tag size matching to the applications, Proceedings of the 14th international symposium on Systems synthesis, September 30-October 03, 2001, Montréal, P.Q., Canada[doi>10.1145/500001.500028]
+Michael D. Powell , Amit Agarwal , T. N. Vijaykumar , Babak Falsafi , Kaushik Roy, Reducing set-associative cache energy via way-prediction and selective direct-mapping, Proceedings of the 34th annual ACM/IEEE international symposium on Microarchitecture, December 01-05, 2001, Austin, Texas
+Ramesh Panwar , David Rennels, Reducing the frequency of tag compares for low power I-cache design, Proceedings of the 1995 international symposium on Low power design, p.57-62, April 23-26, 1995, Dana Point, California, USA[doi>10.1145/224081.224092]
+Reinmann, G. and Jouppi, N. P. 1999. CACTI2.0: An Integrated Cache Timing and Power Model. COMPAQ Western Research Lab.
+Santhanam, S., et al. 1998. A low-cost, 300-MHz, RISC CPU with attached media processor. IEEE Journal of Solid-State Circuits 33, 11.
+Segars, S. 2000. Low power design techniques for microprocessors. In International Solid-State Circuits Conference Tutorial.
+George Taylor , Peter Davies , Michael Farmwald, The TLB slice—a low-cost high-speed address translation mechanism, Proceedings of the 17th annual international symposium on Computer Architecture, p.355-363, May 28-31, 1990, Seattle, Washington, USA[doi>10.1145/325164.325161]
+Emmett Witchel , Sam Larsen , C. Scott Ananian , Krste Asanović, Direct addressed caches for reduced power consumption, Proceedings of the 34th annual ACM/IEEE international symposium on Microarchitecture, December 01-05, 2001, Austin, Texas
+Jun Yang , Rajiv Gupta, Energy efficient frequent value data cache design, Proceedings of the 35th annual ACM/IEEE international symposium on Microarchitecture, November 18-22, 2002, Istanbul, Turkey
+Chuanjun Zhang , Frank Vahid , Jun Yang , Walid Najjar, A way-halting cache for low-energy high-performance systems, Proceedings of the 2004 international symposium on Low power electronics and design, August 09-11, 2004, Newport Beach, California, USA[doi>10.1145/1013235.1013272]
+Chuanjun Zhang , Frank Vahid , Walid Najjar, A highly configurable cache architecture for embedded systems, Proceedings of the 30th annual international symposium on Computer architecture, June 09-11, 2003, San Diego, California[doi>10.1145/859618.859635]
+Chuanjun Zhang , Frank Vahid , Walid Najjar, A highly configurable cache for low energy embedded systems, ACM Transactions on Embedded Computing Systems (TECS), v.4 n.2, p.363-387, May 2005[doi>10.1145/1067915.1067921]
+Zhang, M. and Asanovic, K. 2000. Highly-associative caches for low-power processors. In Kool Chips Workshop, in conjunction with International Symposium on Microarchitecture.

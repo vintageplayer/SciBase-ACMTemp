@@ -1,0 +1,42 @@
+Mehdi-Laurent Akkar , Christophe Giraud, An Implementation of DES and AES, Secure against Some Attacks, Proceedings of the Third International Workshop on Cryptographic Hardware and Embedded Systems, p.309-318, May 14-16, 2001
+Alfke, P. 1996. Efficient shift registers, LFSR counters, and long pseudo random sequence generators. http://www.xilinx.com/support/documentation/application_notes/xapp052.pdf.
+ARM. Downloaded on October 21st, 2011. SecurCore processors. http://www.arm.com/products/processors/securcore/index.php.
+Luca Benini , Alberto Macii , Enrico Macii , Elvira Omerbegovic , Fabrizio Pro , Massimo Poncino, Energy-aware design techniques for differential power analysis protection, Proceedings of the 40th annual Design Automation Conference, June 02-06, 2003, Anaheim, CA, USA[doi>10.1145/775832.775845]
+Johannes Blömer , Jorge Guajardo , Volker Krummel, Provably secure masking of AES, Proceedings of the 11th international conference on Selected Areas in Cryptography, August 09-10, 2004, Waterloo, Canada[doi>10.1007/978-3-540-30564-4_5]
+Brier, E., Clavier, C., and Olivier, F. 2004. Correlation power analysis with a leakage model. In Proceedings of Cryptographic Hardware and Embedded Systems (CHES). 16--29.
+Jean-Sébastien Coron , Louis Goubin, On Boolean and Arithmetic Masking against Differential Power Analysis, Proceedings of the Second International Workshop on Cryptographic Hardware and Embedded Systems, p.231-237, August 17-18, 2000
+Cui, W., Chen, H., and Han, Y. 2002. VLSI implementation of universal random number generator. In Proceedings of Asia-Pacific Conference on Circuits and Systems (APCCAS). 465--470.
+Danger, J.-L., Guilley, S., and Hoogvorst, P. 2007. Fast true random generator in FPGAs. In Proceedings of Circuits and Systems (NEWCAS). 506--509.
+Karine Gandolfi , Christophe Mourtel , Francis Olivier, Electromagnetic Analysis: Concrete Results, Proceedings of the Third International Workshop on Cryptographic Hardware and Embedded Systems, p.251-261, May 14-16, 2001
+Gemalto. 2008. Gemalto.NET user guide. http://www.swisstech.it/store/pdf/Gemalto.NET_User_Guide.pdf.
+George, M. and Alfke, P. 2007. Linear feedback shift registers in virtex devices. http://www.xilinx.com/support/documentation/application_notes/xapp210.pdf.
+Kamal, A. A. and Youssef, A. M. 2009. An area-optimized implementation for AES with hybrid countermeasures against power analysis. In Proceedings of the International Symposium on Signals, Circuits and Systems (ISSCS). 1--4.
+John Kelsey , Bruce Schneier , David Wagner , Chris Hall, Cryptanalytic Attacks on Pseudorandom Number Generators, Proceedings of the 5th International Workshop on Fast Software Encryption, p.168-188, March 23-25, 1998
+Klein, C., Cret, O., and Suciu, A. 2008. Design and implementation of a high quality TRNG in FPGA. In Proceedings of Intelligent Computer Communication and Processing (ICCP). 311--314.
+Paul C. Kocher, Timing Attacks on Implementations of Diffie-Hellman, RSA, DSS, and Other Systems, Proceedings of the 16th Annual International Cryptology Conference on Advances in Cryptology, p.104-113, August 18-22, 1996
+Paul C. Kocher , Joshua Jaffe , Benjamin Jun, Differential Power Analysis, Proceedings of the 19th Annual International Cryptology Conference on Advances in Cryptology, p.388-397, August 15-19, 1999
+Kwok, S. H. M. and Lam, E. Y. 2007. FPGA-based high-speed true random number generator for cryptographic applications. In Proceedings of TENCON. 1--4.
+Ruby B. Lee , Zhijie Shi , Xiao Yang, Cryptography Efficient Permutation Instructions for Fast Software, IEEE Micro, v.21 n.6, p.56-69, November 2001[doi>10.1109/40.977759]
+Lee, R. B., Yang, X., and Shi, Z. J. 2005. Single-cycle bit permutations with MOMR execution. J. Comput. Sci. Technol. 20, 5, 577--585.
+Madlener, F., Stoettinger, M., and Huss, S. A. 2009. Novel hardening techniques against differential power analysis for multiplication in GF(2<sup>n</sup>). In Proceedings of the International Conference on Field-Programmable Technology --ICFPT 2009. 328--334.
+Stefan Mangard , Elisabeth Oswald , Thomas Popp, Power Analysis Attacks: Revealing the Secrets of Smart Cards (Advances in Information Security), Springer-Verlag New York, Inc., Secaucus, NJ, 2007
+David May , Henk L. Muller , Nigel P. Smart, Non-deterministic Processors, Proceedings of the 6th Australasian Conference on Information Security and Privacy, p.115-129, July 11-13, 2001
+MicroChip. Downloaded on October 21st, 2011. MicroChip Keeloq. http://www.microchip.com/stellent/idcplg?IdcService=SS_GET_PAGE&nodeId;=2075&param;=en001022&num;&param;=en001022&num;&num;P156_7747.
+Elisabeth Oswald , Stefan Mangard , Norbert Pramstaller , Vincent Rijmen, A side-channel analysis resistant description of the AES s-box, Proceedings of the 12th international conference on Fast Software Encryption, February 21-23, 2005, Paris, France[doi>10.1007/11502760_28]
+Christof Paar , Thomas Eisenbarth , Markus Kasper , Timo Kasper , Amir Moradi, KeeLoq and Side-Channel Analysis-Evolution of an Attack, Proceedings of the 2009 Workshop on Fault Diagnosis and Tolerance in Cryptography, p.65-69, September 06-06, 2009[doi>10.1109/FDTC.2009.44]
+Rani, R. 2011. Design and performance evaluation of multistage interconnection networks. Ph.D. thesis, Punjabi University, India.
+SASEBO 2009. Side-channel Attack Standard Evaluation Board SASEBO-GII Specification. http://staff.aist.go.jp/akashi.satoh/SASEBO/pdf/SASEBO-GII_Spec_Ver1.01_English.pdf.
+Schellekens, D., Preneel, B., and Verbauwhede, I. 2006. FPGA vendor agnostic true random number generator. In Proceedings of Field Programmable Logic and Applications (FPL). 1--6.
+Adi Shamir, Protecting Smart Cards from Passive Power Analysis with Detached Power Supplies, Proceedings of the Second International Workshop on Cryptographic Hardware and Embedded Systems, p.71-77, August 17-18, 2000
+Shamir, A. and Tromer, E. 2004. Acoustic cryptanalysis: On nosy people and noisy machines. http://www.cs.tau.ac.il/~tromer/acoustic/.
+Shi, Z., Yang, X., and Lee, R. B. 2003. Arbitrary bit permutations in one or two cycles. In Proceedings of Application-Specific Systems, Architectures and Processors (ASAP). 237--247.
+SimpleScalar Tools. Downloaded on October 21st, 2011. Simplescalar simulator software. http://www. simplescalar.com/.
+STMicroelectronics. 2004. Smartcard 32-bit MCU datasheet. http://pdf1.alldatasheet.com/datasheet-pdf/view/107490/STMICROELECTRONICS/ST22N256.html.
+Stefan Tillich , Christoph Herbst , Stefan Mangard, Protecting AES Software Implementations on 32-Bit Processors Against Power Analysis, Proceedings of the 5th international conference on Applied Cryptography and Network Security, June 05-08, 2007, Zhuhai, China[doi>10.1007/978-3-540-72738-5_10]
+Tiri, K., Akmal, M., and Verbauwhede, I. 2002. A dynamic and differential CMOS logic with signal independent power consumption to withstand differential power analysis on smart cards. In Proceedings of the European Solid-State Circuits Conference (ESSCIRC). 403--406.
+Kris Tiri , Ingrid Verbauwhede, A Logic Level Design Methodology for a Secure DPA Resistant ASIC or FPGA Implementation, Proceedings of the conference on Design, automation and test in Europe, p.10246, February 16-20, 2004
+Tokunaga, C., Blaauw, D., and Mudge, T. 2008. True random number generator with a metastability-based quality control. IEEE J. Solid-State Circuits 43, 1, 78--85.
+Toprak, Z. and Leblebici, Y. 2005. Low-power current mode logic for improved DPA-resistance in embedded systems. In Proceedings of IEEE International Symposium on Circuits and Systems (ISCAS). 1059--1062.
+Abraham Waksman, A Permutation Network, Journal of the ACM (JACM), v.15 n.1, p.159-163, Jan. 1968[doi>10.1145/321439.321449]
+Zafar, Y., Park, J., and Har, D. 2010. Random clocking induced DPA attack immunity in FPGAs. In Proceedings of the International Conference on Industrial Technology (ICIT). 1068--1070.
+Zhun, H. and Hongyi, C. 2001. A truly random number generator based on thermal noise. In Proceedings of the International Conference on ASIC (ICASIC). 862--864.

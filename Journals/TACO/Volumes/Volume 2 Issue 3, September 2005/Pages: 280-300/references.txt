@@ -1,0 +1,27 @@
+Boggs, D., Baktha, A., Hawkins, J. M., Marr, D. T., Miller, J. A., Roussel, P., Singhal, R., Toll, B., and Venkatraman, K. S. 2004. The Microarchitecture of the Intel Pentium 4 processor on 90nm technology. Intel Technology Journal 8, 1 (Feb.).
+Burger, D., Austin, T. M., and Bennett, S. 1996. Evaluating Future Microprocessors: The Simplescalar Tool Set. Tech. Rep. CS-TR-1996-1308, University of Wisconsin-Madison.
+Brad Calder , Dirk Grunwald, Next cache line and set prediction, Proceedings of the 22nd annual international symposium on Computer architecture, p.287-296, June 22-24, 1995, S. Margherita Ligure, Italy[doi>10.1145/223982.224439]
+Thomas T. Cormen , Charles E. Leiserson , Ronald L. Rivest, Introduction to algorithms, MIT Press, Cambridge, MA, 1990
+Hinton, G., Sager, D., Upton, M., Boggs, D., Carmean, D., Kyker, A., and Roussel, P. 2001. The Microarchitecture of the Pentium 4 processor. Intel Technology Journal 5, 1 (Feb.), 13.
+Ipek, E., McKee, S. A., Schulz, M., and Ben-David, S. 2005. Perceptron Based Branch Prediction: Performance of Some Design Options. Tech. Rep. CSL-TR-2005-1043, Cornell Computer Systems Lab. April.
+Daniel A. Jiménez, Fast Path-Based Neural Branch Prediction, Proceedings of the 36th annual IEEE/ACM International Symposium on Microarchitecture, p.243, December 03-05, 2003
+Jiménez, D. 2004. Idealized piecewise linear branch prediction. In The First Championship Branch Prediction Workshop, 2004.
+Daniel A. Jiménez , Calvin Lin, Dynamic Branch Prediction with Perceptrons, Proceedings of the 7th International Symposium on High-Performance Computer Architecture, p.197, January 20-24, 2001
+Daniel A. Jiménez , Calvin Lin, Neural methods for dynamic branch prediction, ACM Transactions on Computer Systems (TOCS), v.20 n.4, p.369-397, November 2002[doi>10.1145/571637.571639]
+Daniel A. Jiménez , Stephen W. Keckler , Calvin Lin, The impact of delay on the design of branch predictors, Proceedings of the 33rd annual ACM/IEEE international symposium on Microarchitecture, p.67-76, December 2000, Monterey, California, USA[doi>10.1145/360128.360137]
+Loh, G. H. 2004. The Frankenpredictor: Stitiching together nasty bits of other predictors. In The First Championship Branch Prediction Workshop, 2004.
+G. H. Loh, Simulation Differences Between Academia and Industry: A Branch Prediction Case Study, Proceedings of the IEEE International Symposium on Performance Analysis of Systems and Software, 2005, p.21-31, March 20-22, 2005[doi>10.1109/ISPASS.2005.1430556]
+McFarling, S. 1993. Combining Branch Predictors. Tech. Rep. TN-36, Digital Western Research Laboratory. June.
+Dharmesh Parikh , Kevin Skadron , Yan Zhang , Mircea Stan, Power-Aware Branch Prediction: Characterization and Design, IEEE Transactions on Computers, v.53 n.2, p.168-186, February 2004[doi>10.1109/TC.2004.1261827]
+Seznec, A. 2003. Redundant history skewed perceptron predictors: Pushing limits on global history branch predictors. Tech. Rep. 1554, IRISA. Sept.
+Seznec, A. 2004a. Revisiting the Perceptron Predictor. Tech. Rep. 1620, IRISA. May.
+Seznec, A. 2004b. The O-GEHL Branch Predictor. In The First Championship Branch Prediction Workshop, 2004.
+André Seznec , Antony Fraboulet, Effective ahead pipelining of instruction block address generation, Proceedings of the 30th annual international symposium on Computer architecture, June 09-11, 2003, San Diego, California[doi>10.1145/859618.859646]
+André Seznec , Stéphan Jourdan , Pascal Sainrat , Pierre Michaud, Multiple-block ahead branch predictors, Proceedings of the seventh international conference on Architectural support for programming languages and operating systems, p.116-127, October 01-04, 1996, Cambridge, Massachusetts, USA[doi>10.1145/237090.237169]
+André Seznec , Stephen Felix , Venkata Krishnan , Yiannakis Sazeides, Design tradeoffs for the Alpha EV8 conditional branch predictor, Proceedings of the 29th annual international symposium on Computer architecture, May 25-29, 2002, Anchorage, Alaska
+Timothy Sherwood , Erez Perelman , Greg Hamerly , Brad Calder, Automatically characterizing large scale program behavior, Proceedings of the 10th international conference on Architectural support for programming languages and operating systems, October 05-09, 2002, San Jose, California[doi>10.1145/605397.605403]
+Kevin Skadron , Pritpal S. Ahuja , Margaret Martonosi , Douglas W. Clark, Improving prediction for procedure returns with return-address-stack repair mechanisms, Proceedings of the 31st annual ACM/IEEE international symposium on Microarchitecture, p.259-271, November 1998, Dallas, Texas, USA
+Eric Sprangle , Robert S. Chappell , Mitch Alsup , Yale N. Patt, The agree predictor: a mechanism for reducing negative branch history interference, Proceedings of the 24th annual international symposium on Computer architecture, p.284-291, June 01-04, 1997, Denver, Colorado, USA[doi>10.1145/264107.264210]
+Jared Stark , Marius Evers , Yale N. Patt, Variable length path branch prediction, Proceedings of the eighth international conference on Architectural support for programming languages and operating systems, p.170-179, October 02-07, 1998, San Jose, California, USA[doi>10.1145/291069.291042]
+Tarjan, D., Skadron, K., and Stan, M. R. 2004. An ahead pipelined alloyed perceptron with single cycle access time. In The 5th Workshop on Complexity-Effective Design, 2004.
+Vintan, L. and Iridon, M. 1999. Towards a High Performance Neural Branch Predictor. In Proceedings of the 9th International Joint Conference on Neural Networks. 868--873.

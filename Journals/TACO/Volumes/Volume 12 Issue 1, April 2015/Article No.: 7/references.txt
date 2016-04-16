@@ -1,0 +1,17 @@
+Sarita Adve. 2010. Data races are evil with no exceptions: Technical perspective. Commun. ACM 53, 11 (Nov. 2010), 84--84.
+Sarita V. Adve and Mark D. Hill. 1990. Weak ordering—a new definition. In Proceedings of the International Symposium on Computer Architecture. ACM, New York, NY, 2--14.
+Hans-J. Boehm. 2013. N3710: Specifying the absence of out of thin air results (LWG2265).
+Hans-J. Boehm and S. V Adve. 2008. Foundations of the C&plus;&plus; concurrency memory model. In Proceedings of the International Symposium on Programming Language Design and Implementation.
+Hans-J. Boehm and Brian Demsky. 2014. Outlawing ghosts: Avoiding out-of-thin-air results. In Proceedings of the Workshop on Memory Systems Performance and Correctness (MSPC’14). ACM, New York, NY, Article 7, 6 pages.
+Benedict R. Gaster, Derek Hower, and Lee Howes. 2015. HRF-Relaxed: Adapting HRF to the complexities of industrial heterogeneous memory models (Supplemental material). (Jan. 2015). Retrieved from http://benedictgaster.org/&quest;page&lowbar;id&equals;278.
+Kourosh Gharachorloo, Daniel Lenoski, James Laudon, Phillip Gibbons, Anoop Gupta, and John Hennessy. 1990. Memory consistency and event ordering in scalable shared-memory multiprocessors. In Proceedings of the 17th Annual International Symposium on Computer Architecture (ISCA’90). ACM, New York, NY, 15--26. DOI:http://dx.doi.org/10.1145/325164.325102
+Blake A. Hechtman, Shuai Che, Derek R. Hower, Yingying Tian, Bradford M. Beckmann, Mark D. Hill, Steven K. Reinhardt, and David A. Wood. 2014. QuickRelease: A throughput-oriented approach to release consistency on GPUs. In HPCA. 189--200.
+Derek R. Hower, Blake A. Hechtman, Bradford M. Beckmann, Benedict R. Gaster, Mark D. Hill, Steven K. Reinhardt, and David A. Wood. 2014. Heterogeneous-race-free memory models. In Proceedings of the 19th International Conference on Architectural Support for Programming Languages and Operating Systems (APLOS’14). ACM, New York, NY, 427--40.
+HSA Foundation. 2012. Heterogeneous System Architecture: A Technical Review.
+ISO. International Organization for Standardization. 2011. ISO/IEC 14882:2011 information technology—programming languages—C&plus;&plus;.
+Leslie Lamport. 1979. A new approach to proving the correctness of multiprocess programs. ACM Trans. Program. Lang. Syst. 1, 1 (Jan. 1979), 84--97.
+Brandon Lucia, Luis Ceze, Karin Strauss, Shaz Qadeer, and Hans-J. Boehm. 2010. Conflict exceptions: Simplifying concurrent language semantics with precise hardware exceptions for data-races. In Proceedings of the 37th Annual International Symposium on Computer Architecture (ISCA’10). ACM, New York, NY, 210--221. DOI:http://dx.doi.org/10.1145/1815961.1815987
+Daniel Marino, Abhayendra Singh, Todd Millstein, Madanlal Musuvathi, and Satish Narayanasamy. 2010. DRFX: A simple and efficient memory model for concurrent programming languages. In Proceedings of the 2010 ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI’10). ACM, New York, NY, 351--362. DOI:http://dx.doi.org/10.1145/1806596.1806636
+NVIDIA Corporation. 2013. CUDA 5.5 C Programming Guide.
+Oracle. 2014. The Java Langauge Specification.
+Herb Sutter. 2012. Atomic weapons: The C&plus;&plus; memory model and modern hardware. In C&plus;&plus; and Beyond.

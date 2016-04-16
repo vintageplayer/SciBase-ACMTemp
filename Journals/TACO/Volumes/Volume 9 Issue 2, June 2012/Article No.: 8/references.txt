@@ -1,0 +1,44 @@
+Corinne Ancourt , Fabien Coelho , Francois Irigoin , Ronan Keryell, A linear algebra framework for static High Performance Fortran code distribution, Scientific Programming, v.6 n.1, p.3-27, Spring 1997
+Baldoni-Silva, M. W., Beck, M., Cochet, C., and Vergne, M. 2006. Volume computation for polytopes and partition functions for classical root systems. Discr. Comput. Geom. 35, 4, 551--595.
+Barvinok, A. and Woods, K. 2003. Short rational generating functions for lattice point problems. J. Amer. Math. Soci. 16, 657--979.
+Barvinok, A. I. 1994a. Computing the Ehrhart polynomial of a convex lattice polytope. Discrete Comput. Geom. 12, 35--48.
+Alexander I. Barvinok, A polynomial time algorithm for counting integral points in polyhedra when the dimension is fixed, Mathematics of Operations Research, v.19 n.4, p.769-779, Nov. 1994[doi>10.1287/moor.19.4.769]
+Bernard Boigelot , Louis Latour, Counting the solutions of Presburger equations without enumerating them, Theoretical Computer Science, v.313 n.1, p.17-29, 16 February 2004[doi>10.1016/j.tcs.2003.10.002]
+Pierre Boulet , Xavier Redon, Communication Pre-evaluation in HPF, Proceedings of the 4th International Euro-Par Conference on Parallel Processing, p.263-272, September 01-04, 1998
+Philippe Clauss , Vincent Loechner, Parametric Analysis of Polyhedral Iteration Spaces, Journal of VLSI Signal Processing Systems, v.19 n.2, p.179-194, July 1998[doi>10.1023/A:1008069920230]
+Béatrice Creusillet , Francois Irigoin, Interprocedural array region analyses, International Journal of Parallel Programming, v.24 n.6, p.513-546, Dec. 1996
+Paolo D'Alberto , Alexandru Nicolau , Alexander Veidenbaum , Rajesh Gupta, Static analysis of parameterized loop nests for energy efficient use of data caches, Compilers and operating systems for low power, Kluwer Academic Publishers, Norwell, MA, 2003
+Dantzig, G. B. and Eaves, B. C. 1973. Fourier-Motzkin elimination and its dual. J. Comb. Theory, Ser. A 14, 3, 288--297.
+De Loera, J. A., Hemmecke, R., Tauzer, J., and Yoshida, R. 2004. Effective lattice point counting in rational convex polytopes. J. Symbol. Comput. 38, 4, 1273--1302.
+Ehrhart, E. 1977. Polynômes Arithmétiques et Méthode des Polyèdres en Combinatoire. International Series of Numerical Mathematics 35.
+Feautrier, P. 1988. Parametric integer programming. Recherche Operationnelle/Operations Research 22, 3, 243--268.
+Feautrier, P., Collard, J., and Bastoul, C. 2002. Solving systems of affine (in)equalities. Tech. rep., PRiSM, Versailles University.
+Somnath Ghosh , Margaret Martonosi , Sharad Malik, Cache miss equations: a compiler framework for analyzing and tuning memory behavior, ACM Transactions on Programming Languages and Systems (TOPLAS), v.21 n.4, p.703-746, July 1999[doi>10.1145/325478.325479]
+Gautam Gupta , Sanjay Rajopadhye, The Z-polyhedral model, Proceedings of the 12th ACM SIGPLAN symposium on Principles and practice of parallel programming, March 14-17, 2007, San Jose, California, USA[doi>10.1145/1229428.1229478]
+Felix Heine , Adrian Slowik, Volume Driven Data Distribution for NUMA-Machines, Proceedings from the 6th International Euro-Par Conference on Parallel Processing, p.415-424, August 29-September 01, 2000
+Kelly, W., Maslov, V., Pugh, W., Rosser, E., Shpeisman, T., and Wonnacott, D. 1996. The Omega Library. Tech. rep., Institute for Advanced Computer Studies, University of Maryland, College Park.
+Köppe, M., Verdoolaege, S., and Woods, K. 2008. An implementation of the Barvinok-Woods integer projection algorithm. In Proceedings of the International Conference on Information Theory and Statistical Learning. 53--59.
+Kreisel, G. and Krevine, J. L. 1967. Elements of Mathematical Logic. North-Holland Publishing.
+Aless Lasaruk , Thomas Sturm, Weak quantifier elimination for the full linear theory of the integers: A uniform generalization of Presburger arithmetic, Applicable Algebra in Engineering, Communication and Computing, v.18 n.6, p.545-574, November 2007[doi>10.1007/s00200-007-0053-x]
+Loechner, V. 1999. Polylib: A library for manipulating parameterized polyhedra. Tech. rep., LSIIT - ICPS UMR7005 Univ. Louis Pasteur-CNRS.
+Vincent Loechner , Doran K. Wilde, Parameterized polyhedra and their vertices, International Journal of Parallel Programming, v.25 n.6, p.525-549, Dec. 1997[doi>10.1023/A:1025117523902]
+Vincent Loechner , Benoît Meister , Philippe Clauss, Precise Data Locality Optimization of Nested Loops, The Journal of Supercomputing, v.21 n.1, p.37-76, January 2002[doi>10.1023/A:1013535431127]
+Meister, B. 2004. Projecting periodic polyhedra for loop nest analysis. In Proceedings of the 11th Workshop on Compilers for Parallel Computers (CPC '04). 13--24.
+Nookala, S. P. K. and Risset, T. 2000. A library for Z-polyhedral operations. Tech. rep. 1330, Irisa.
+Parker, E. and Chatterjee, S. 2004. An automata-theoretic algorithm for counting solutions to Presburger formulas. In Proceedings of the 13th International Conference on Compiler Construction. Lecture Notes in Computer Science Series, vol. 2985, 104--119.
+William Pugh, The Omega test: a fast and practical integer programming algorithm for dependence analysis, Proceedings of the 1991 ACM/IEEE conference on Supercomputing, p.4-13, November 18-22, 1991, Albuquerque, New Mexico, USA[doi>10.1145/125826.125848]
+William Pugh, Counting solutions to Presburger formulas: how and why, Proceedings of the ACM SIGPLAN 1994 conference on Programming language design and implementation, p.121-134, June 20-24, 1994, Orlando, Florida, USA[doi>10.1145/178243.178254]
+William Pugh , David Wonnacott, Experiences with Constraint-based Array Dependence Analysis, Proceedings of the Second International Workshop on Principles and Practice of Constraint Programming, p.312-325, May 02-04, 1994
+Quinton, P., Rajopadhye, S., and Risset, T. 1997. On manipulating Z-polyhedra using a canonical representation. Parallel Process. Lett. 7, 2, 181--194.
+J. Ramanujam , Jinpyo Hong , Mahmut Kandemir , A. Narayan, Reducing memory requirements of nested loops for embedded systems, Proceedings of the 38th annual Design Automation Conference, p.359-364, June 2001, Las Vegas, Nevada, USA[doi>10.1145/378239.378523]
+Alexander Schrijver, Theory of linear and integer programming, John Wiley & Sons, Inc., New York, NY, 1986
+Rachid Seghir , Vincent Loechner, Memory optimization by counting points in integer transformations of parametric polytopes, Proceedings of the 2006 international conference on Compilers, architecture and synthesis for embedded systems, October 22-25, 2006, Seoul, Korea[doi>10.1145/1176760.1176771]
+Jürgen Teich , Lothar Thiele, Partitioning of processor arrays: a piecewise regular approach, Integration, the VLSI Journal, v.14 n.3, p.297-332, Feb. 1993[doi>10.1016/0167-9260(93)90013-3]
+Alexandru Turjan , Bart Kienhuis , Ed Deprettere, Solving Out-of-Order Communication in Kahn Process Networks, Journal of VLSI Signal Processing Systems, v.40 n.1, p.7-18, May       2005[doi>10.1007/s11265-005-4935-5]
+Verdoolaege, S. 2006. Barvinok: user guide. http://www.kotnet.org/~skimo/barvinok/.
+Verdoolaege, S. and Woods, K. 2005. Counting with rational generating functions. http://arxiv.org/abs/math/0504059.
+Sven Verdoolaege , Kristof Beyls , Maurice Bruynooghe , Francky Catthoor, Experiences with enumeration of integer projections of parametric polytopes, Proceedings of the 14th international conference on Compiler Construction, April 04-08, 2005, Edinburgh, UK[doi>10.1007/978-3-540-31985-6_7]
+Sven Verdoolaege , Rachid Seghir , Kristof Beyls , Vincent Loechner , Maurice Bruynooghe, Analytical computation of Ehrhart polynomials: enabling more compiler analyses and optimizations, Proceedings of the 2004 international conference on Compilers, architecture, and synthesis for embedded systems, September 22-25, 2004, Washington DC, USA[doi>10.1145/1023833.1023868]
+Sven Verdoolaege , Rachid Seghir , Kristof Beyls , Vincent Loechner , Maurice Bruynooghe, Counting Integer Points in Parametric Polytopes Using Barvinok's Rational Functions, Algorithmica, v.48 n.1, p.37-66, March 2007[doi>10.1007/s00453-006-1231-0]
+Ying Zhao , Sharad Malik, Exact memory size estimation for array computations, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, v.8 n.5, p.517-521, Oct., 2000[doi>10.1109/92.894155]
+Hongwei Zhu , Ilie I. Luican , Florin Balasa, Memory Size Computation for Real-Time Multimedia Applications Based on Polyhedral Decomposition*An abbreviated version of this paper was presented at ASP-DAC 2006 [18]. This material is based upon work supported by the National Science Foundation under Grant Nr. 0133318., IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, v.E89-A n.12, p.3378-3386, December 2006[doi>10.1093/ietfec/e89-a.12.3378]

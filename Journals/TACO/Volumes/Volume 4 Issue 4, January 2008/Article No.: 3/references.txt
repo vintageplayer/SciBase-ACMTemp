@@ -1,0 +1,29 @@
+Arm7tdmi data sheet. 1995. In ARM Ltd.
+Rajeev Balasubramonian , Sandhya Dwarkadas , David H. Albonesi, Reducing the complexity of the register file in dynamic superscalar processors, Proceedings of the 34th annual ACM/IEEE international symposium on Microarchitecture, December 01-05, 2001, Austin, Texas
+David Callahan , Steve Carr , Ken Kennedy, Improving register allocation for subscripted variables, Proceedings of the ACM SIGPLAN 1990 conference on Programming language design and implementation, p.53-65, June 1990, White Plains, New York, USA[doi>10.1145/93542.93553]
+Frederick Chow , John Hennessy, Register allocation by priority-based coloring, Proceedings of the 1984 SIGPLAN symposium on Compiler construction, p.222-232, June 17-22, 1984, Montreal, Canada[doi>10.1145/502874.502896]
+José-Lorenzo Cruz , Antonio González , Mateo Valero , Nigel P. Topham, Multiple-banked register file architectures, Proceedings of the 27th annual international symposium on Computer architecture, p.316-325, June 2000, Vancouver, British Columbia, Canada[doi>10.1145/339647.339708]
+Keith I. Farkas , Paul Chow , Norman P. Jouppi , Zvonko Vranesic, The multicluster architecture: reducing cycle time through partitioning, Proceedings of the 30th annual ACM/IEEE international symposium on Microarchitecture, p.149-159, December 01-03, 1997, Research Triangle Park, North Carolina, USA
+Farkas, K. I., Jouppi, N. P., and Chow, P. 1998. Register file design considerations in dynamically scheduled processors. In Proc. of the Fourth IEEE International Symposium on High Performance Computer Architecture.
+A. González , J. González , M. Valero, Virtual-Physical Registers, Proceedings of the 4th International Symposium on High-Performance Computer Architecture, p.175, January 31-February 04, 1998
+Hu, Z. and Martonosi, M. 2000. Reducing register file power consumption by exploiting value lifetime characteristics. In Workshop on Complexity-Effective Design.
+Jerry Huck , Dale Morris , Jonathan Ross , Allan Knies , Hans Mulder , Rumi Zahir, Introducing the IA-64 Architecture, IEEE Micro, v.20 n.5, p.12-23, September 2000[doi>10.1109/40.877947]
+Kannan, N., Chidambaram, P., Subramanian, S., and Parthasarathi, R. 2002. Compiler assisted data forwarding in vliw/epic architectures. In Proc. of the HiPC.
+Hansoo Kim , Krishna Palem, Region-based register allocation for epic architectures, New York University, New York, NY, 2000
+Chunho Lee , Miodrag Potkonjak , William H. Mangione-Smith, MediaBench: a tool for evaluating and synthesizing multimedia and communicatons systems, Proceedings of the 30th annual ACM/IEEE international symposium on Microarchitecture, p.330-335, December 01-03, 1997, Research Triangle Park, North Carolina, USA
+Luis A. Lozano , Guang R. Gao, Exploiting short-lived variables in superscalar processors, Proceedings of the 28th annual international symposium on Microarchitecture, p.292-302, November 29-December 01, 1995, Ann Arbor, Michigan, USA
+Mahlke, S. A., Chen, W. Y., Chang, P. P., and Hwu, W. W. 1992. Scalar program performance on multi-instruction-issue processors with a limited number of registers. In Proc. of the 25th Hawaii International Conference on System Sciences.
+Teresa Monreal , Victor Vinals , Jose Gonzalez , Antonio Gonzalez , Mateo Valero, Late Allocation and Early Release of Physical Registers, IEEE Transactions on Computers, v.53 n.10, p.1244-1259, October 2004[doi>10.1109/TC.2004.79]
+Steven S. Muchnick, Advanced compiler design and implementation, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1998
+David W. Oehmke , Nathan L. Binkert , Trevor Mudge , Steven K. Reinhardt, How to Fake 1000 Registers, Proceedings of the 38th annual IEEE/ACM International Symposium on Microarchitecture, p.7-18, November 12-16, 2005, Barcelona, Spain[doi>10.1109/MICRO.2005.21]
+David A. Patterson , John Hennessy, Computer Organization and Design, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2004
+Matthew Postiff , David Greene , Steven Raasch , Trevor Mudge, Integrating superscalar processor components to implement register caching, Proceedings of the 15th international conference on Supercomputing, p.348-357, June 2001, Sorrento, Italy[doi>10.1145/377792.377859]
+Kevin W. Rudd, Efficient Exception Handling Techniques for High-Performance Processor Architectures, Stanford University, Stanford, CA, 1997
+M. Sami , D. Sciuto , C. Silvano , V. Zaccaria , R. Zafalon, Exploiting data forwarding to reduce the power budget of VLIW embedded processors, Proceedings of the conference on Design, automation and test in Europe, p.252-257, March 2001, Munich, Germany
+Schlansker, M. S. and Rau, B. R. February 2000. Epic: an architecture for instruction-level parallel processors. In HPL Technical Report.
+James E. Smith , Andrew R. Pleszkun, Implementing Precise Interrupts in Pipelined Processors, IEEE Transactions on Computers, v.37 n.5, p.562-573, May 1988[doi>10.1109/12.4607]
+Spec homepage. 2006. In http://www.spec.org.
+Trimaran homepage. 2006. In http://www.trimaran.org.
+Jessica H. Tseng , Krste Asanović, Banked multiported register files for high-frequency superscalar microprocessors, Proceedings of the 30th annual international symposium on Computer architecture, June 09-11, 2003, San Diego, California[doi>10.1145/859618.859627]
+Robert Yung , Neil C. Wilhelm, Caching processor general registers, Proceedings of the 1995 International Conference on Computer Design: VLSI in Computers and Processors, p.307-312, October 02-04, 1995
+Victor V. Zyuban , Peter M. Kogge, Inherently Lower-Power High-Performance Superscalar Architectures, IEEE Transactions on Computers, v.50 n.3, p.268-285, March 2001[doi>10.1109/12.910816]

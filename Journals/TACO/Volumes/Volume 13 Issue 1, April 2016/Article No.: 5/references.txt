@@ -1,0 +1,57 @@
+W. Abu-Sufah and A. Abdel Karim. 2013. Auto-tuning of sparse matrix-vector multiplication on graphics processors. In Supercomputing. Lecture Notes in Computer Science, Vol. 7905. Springer, Berlin, 151--164.
+ACML. 2013. AMD Core Math Library User Guide 6.0.6. Retrieved from http://amd-dev.wpengine.netdna-cdn.com/wordpress/media/2013/12/acml.pdf.
+B. Aktemur, Y. Kameyama, O. Kiselyov, and C. Shan. 2013. Shonan challenge for generative programming. In Partial Evaluation and Program Manipulation (PEPM’13). 147--154.
+W. Armstrong and A. P. Rendell. 2008. Reinforcement learning for automated performance tuning. In Cluster Computing. 411--420.
+W. Armstrong and A. Rendell. 2010. Runtime sparse matrix format selection. Procedia Comput. Sci. 1, 1 (2010), 135--144.
+M. Belgin, G. Back, and C. J. Ribbens. 2011. A library for pattern-based sparse matrix vector multiply. Int. J. Parallel Program. 39, 1 (2011), 62--87.
+N. Bell and M. Garland. 2009. Implementing sparse matrix-vector multiplication on throughput-oriented processors. In High Performance Computing Networking, Storage and Analysis (SC’09). 18:1--18:11.
+A. Buluç, J. Fineman, M. Frigo, J. Gilbert, and C. Leiserson. 2009. Parallel sparse matrix-vector and matrix-transpose-vector multiplication using compressed sparse blocks. In 21st Annual Symp. on Parallelism in Algorithms and Architectures (SPAA’09). 233--244.
+A. Buluç, S. Williams, L. Oliker, and J. Demmel. 2011. Reduced-bandwidth multithreaded algorithms for sparse matrix-vector multiplication. In IPDPS’11. 721--733.
+J. Byun, R. Lin, K. Yelick, and J. Demmel. 2012. Autotuning Sparse Matrix-Vector Multiplication for Multicore. Technical Report UCB/EECS-2012-215. EECS Department, U. of California, Berkeley.
+J. Carette and O. Kiselyov. 2011. Multi-stage programming with functors and monads: Eliminating abstraction overhead from generic code. Sci. Comput. Program. 76, 5 (May 2011), 349--375.
+J. Choi, A. Singh, and R. Vuduc. 2010. Model-driven autotuning of sparse matrix-vector multiply on GPUs. In Principles and Practice of Parallel Programming (PPoPP’10). 115--126.
+C. Consel, J. Lawall, and A. Le Meur. 2004. A tour of tempo: A program specializer for the C language. Sci. Comput. Program. 52, 1--3 (2004), 341--370.
+T. Davis and Y. Hu. 2011. The university of Florida sparse matrix collection. ACM Trans. Math. Softw. 38, 1, Article 1 (Dec. 2011), 25 pages.
+E. D’Azevedo, M. Fahey, and R. Mills. 2005. Vectorized sparse matrix multiply for compressed row storage format. In ICCS’05. 99--106.
+Y. Ding, J. Ansel, K. Veeramachaneni, X. Shen, U. O’Reilly, and S. Amarasinghe. 2015. Autotuning algorithmic choice for input sensitivity. In Prog. Language Design and Implementation (PLDI’15). 379--390.
+A. El Zein and A. Rendell. 2012. Generating optimal CUDA sparse matrixvector product implementations for evolving GPU hardware. Concurr. Comput. Pract. Exper. 24, 1 (2012), 3--13.
+M. Frigo. 1999. A fast fourier transform compiler. In Programming Language Design and Implementation (PLDI’99). 169--180.
+Y. Fukui, H. Yoshida, and S. Higono. 1989. Supercomputing of circuits simulation. In Supercomputing (SC’89). 81--85.
+P. Giorgi and B. Vialla. 2014. Generating optimized sparse matrix vector product over finite fields. In Mathematical Software (ICMS’14). 685--690.
+G. Goumas, K. Kourtis, N. Anastopoulos, V. Karakasis, and N. Koziris. 2008. Understanding the performance of sparse matrix-vector multiplication. In Parallel, Distributed and Network-Based Processing (PDP’08). 283--292.
+D. Grewe and A. Lokhmotov. 2011. Automatically generating and tuning GPU code for sparse matrix-vector multiplication from a high-level representation. In General Purpose Processing on Graphics Processing Units (GPGPU-4). 12:1--12:8.
+Roger G. Grimes, David R. Kincaid, and David M. Young. 1978. ITPACK 2.0 User’s Guide. Report CNA-150. Center for Numerical Analysis, University of Texas at Austin, Austin, TX.
+W. Gropp, D. Kaushik, D. Keyes, and B. Smith. 1999. Toward realistic performance bounds for implicit CFD codes. In Parallel CFD’99.
+P. Guo, L. Wang, and P. Chen. 2014. A performance modeling and optimization analysis tool for sparse matrix-vector multiplication on GPUs. IEEE TPDS 25, 5 (May 2014), 1112--1123.
+F. Gustavson, W. Liniger, and R. Willoughby. 1970. Symbolic generation of an optimal Crout algorithm for sparse systems of linear equations. J. ACM 17, 1 (Jan. 1970), 87--109.
+E. Im, K. Yelick, and R. Vuduc. 2004. Sparsity: Optimization framework for sparse matrix kernels. Int. J. High Perform. Comput. Appl. 18, 1 (Feb. 2004), 135--158.
+A. Jain. 2008. pOSKI: An Extensible Autotuning Framework to Perform Optimized SpMVs on Multicore Architectures. Master’s thesis. University of California, Berkeley.
+S. Kamin, L. Clausen, and A. Jarvis. 2003. Jumbo: Run-time code generation for java and its applications. In Code Generation and Optimization (CGO’03). 48--56.
+S. Kamin, M. Garzarán, B. Aktemur, D. Xu, B. Yılmaz, and Z. Chen. 2014. Optimization by runtime specialization for sparse matrix-vector multiplication. In Generative Programming: Concepts and Experiences (GPCE’14). 93--102.
+K. Kourtis, G. Goumas, and N. Koziris. 2010. Exploiting compression opportunities to improve SpMxV performance on shared memory systems. ACM Trans. Archit. Code Optim. 7, 3 (Dec. 2010), 16:1--16:31.
+K. Kourtis, V. Karakasis, G. Goumas, and N. Koziris. 2011. CSX: An extended compression format for SpMV on shared memory systems. SIGPLAN Not. 46, 8 (Feb. 2011), 247--256.
+C. Lattner and V. Adve. 2004. LLVM: A compilation framework for lifelong program analysis & transformation. In Code Generation and Optimization (CGO’’04). 75--86.
+P. Lee and M. Leone. 1996. Optimizing ML with run-time code generation. In Programming Language Design and Implementation (PLDI’96). 137--148.
+J. Li, G. Tan, M. Chen, and N. Sun. 2013. SMAT: An input adaptive auto-tuner for sparse matrix-vector multiplication. SIGPLAN Not. 48, 6 (June 2013), 117--126.
+X. Liu, M. Smelyanskiy, E. Chow, and P. Dubey. 2013. Efficient sparse matrix-vector multiplication on x86-based many-core processors. In Supercomputing (ICS’13). 273--282.
+LLVM. 2013. LLVM Web Site. Retrieved from http://llvm.cs.uiuc.edu.
+N. Mateev, K. Pingali, P. Stodghill, and V. Kotlyar. 2000. Next-generation generic programming and its application to sparse matrix computations. In Supercomputing (ICS’00). 88--99.
+Matrix Market. 1997. Matrix Market Web Site. Retrieved from http://math.nist.gov/MatrixMarket.
+J. Mellor-Crummey and J. Garvin. 2004. Optimizing sparse matrix-vector product computations using unroll and jam. Int. J. High Perform. Comput. Appl. 18, 2 (May 2004), 225--236.
+MKL. 2013. Intel®Math Kernel Library. Retrieved from http://software.intel.com/en-us/articles/intel-mkl.
+S. Muralidharan, M. Shantharam, M. Hall, M. Garland, and B. Catanzaro. 2014. Nitro: A framework for adaptive code variant tuning. In Parallel and Distributed Processing Symp. (IPDPS’14). 501--512.
+B. Neelima, G. Ram, M. Reddy, and Prakash S. Raghavendra. 2014. Predicting an optimal sparse matrix format for SpMV computation on GPU. In Parallel & Distributed Processing Symp. Workshops (IPDPSW’’14). 1427--1436.
+OpenMP 2009. OpenMP API for parallel programming, version 3.0. Retrieved from http://openmp.org/wp.
+F. Pedregosa, G. Varoquaux, A. Gramfort, V. Michel, B. Thirion, O. Grisel, M. Blondel, P. Prettenhofer, R. Weiss, V. Dubourg, J. Vanderplas, A. Passos, D. Cournapeau, M. Brucher, M. Perrot, and E. Duchesnay. 2011. Scikit-learn: Machine learning in python. J. Mach. Learn. Res. 12 (2011), 2825--2830.
+M. Püschel, J. Moura, J. Johnson, D. Padua, M. Veloso, B. Singer, J. Xiong, F. Franchetti, A. Gacic, Y. Voronenko, K. Chen, R. Johnson, and N. Rizzolo. 2005. SPIRAL: Code generation for DSP transforms. Proc. IEEE 93, 2 (2005), 232--275.
+T. Rompf and M. Odersky. 2010. Lightweight modular staging: A pragmatic approach to runtime code generation and compiled DSLs. In Generative Prog. and Component Engineering (GPCE’10). 127--136.
+T. Rompf, A. Sujeeth, N. Amin, K. Brown, V. Jovanovic, H. Lee, M. Jonnalagedda, K. Olukotun, and M. Odersky. 2013. Optimizing data structures in high-level programs. In Principles of Programming Languages (POPL’13). 497--510.
+Y. Saad. 2003. Iterative Methods for Sparse Linear Systems. SIAM, Philadelphia, PA.
+B. Su and K. Keutzer. 2012. clSpMV: A cross-platform OpenCL SpMV framework on GPUs. In Supercomputing (ICS’12). 353--364.
+X. Sun, Y. Zhang, T. Wang, X. Zhang, L. Yuan, and L. Rao. 2011. Optimizing SpMV for diagonal sparse matrices on GPU. In Parallel Processing (ICPP’11). 492--501.
+A. Venkat, M. Hall, and M. Strout. 2015. Loop and data transformations for sparse matrix code. In Programming Language Design and Implementation (PLDI’15). 521--532.
+R. Vuduc, J. Demmel, and J. Bilmes. 2004. Statistical models for empirical search-based performance tuning. Int. J. High Perform. Comput. Appl. 18, 1 (Feb. 2004), 65--94.
+R. Vuduc, J. Demmel, and K. Yelick. 2005. OSKI: A library of automatically tuned sparse matrix kernels. J. Phys. Conf. Series 16, 1 (2005), 521.
+C. Whaley, A. Petitet, and J. Dongarra. 2001. Automated empirical optimizations of software and the ATLAS project. Parallel Comput. 27, 12 (2001), 3--35.
+J. Willcock and A. Lumsdaine. 2006. Accelerating sparse matrix computations via data compression. In Supercomputing (ICS’06). 307--316.
+S. Williams, L. Oliker, R. Vuduc, J. Shalf, K. Yelick, and J. Demmel. 2009. Optimization of sparse matrixvector multiplication on emerging multicore platforms. Parallel Comput. 35, 3 (2009), 178--194.

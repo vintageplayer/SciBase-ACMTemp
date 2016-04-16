@@ -1,0 +1,19 @@
+Barany, G. 2011. Register reuse scheduling. In Proceedings of the 9<sup>th</sup> Workshop on Optimizations for DSP and Embedded Systems (ODES'11).
+Gergö Barany , Andreas Krall, Optimal and heuristic global code motion for minimal spilling, Proceedings of the 22nd international conference on Compiler Construction, March 16-24, 2013, Rome, Italy[doi>10.1007/978-3-642-37051-9_2]
+David A. Berson , Rajiv Gupta , Mary Lou Soffa, URSA: A Unified ReSource Allocator for Registers and Functional Units in VLIW Architectures, Proceedings of the IFIP WG10.3. Working Conference on Architectures and Compilation Techniques for Fine and Medium Grain Parallelism, p.243-254, January 20-22, 1993
+Linda Torczon , Keith Cooper, Engineering A Compiler, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2007
+Faraboschi, P., Fisher, J., and Young, C. 2001. Instruction scheduling for instruction level parallel processors. Proc. IEEE 89, 11, 1638--1659.
+Fog, A. 2012. The micro-architecture of INTEL, AMD and VIA cpus. An optimization guide for assembly programmers and compiler makers. http://www.agner.org/optimize/microarchitecture.pdf.
+J. R. Goodman , W.-C. Hsu, Code scheduling and register allocation in large basic blocks, Proceedings of the 2nd international conference on Supercomputing, p.442-452, June 1988, St. Malo, France[doi>10.1145/55364.55407]
+R. Govindarajan , Hongbo Yang , José Nelson Amaral , Chihong Zhang , Guang R. Gao, Minimum Register Instruction Sequencing to Reduce Register Spills in Out-of-Order Issue Superscalar Architectures, IEEE Transactions on Computers, v.52 n.1, p.4-20, January 2003[doi>10.1109/TC.2003.1159750]
+W. Havanki , S. Banerjia , T. Conte, Treegion Scheduling for Wide Issue Processors, Proceedings of the 4th International Symposium on High-Performance Computer Architecture, p.266, January 31-February 04, 1998
+Christoph W. Kessler1, Scheduling expression DAGs for minimal register need, Computer Languages, v.24 n.1, p.33-53, April, 1998[doi>10.1016/S0096-0551(98)00002-2]
+M. Langevin , E. Cerny, A recursive technique for computing lower-bound performance of schedules, ACM Transactions on Design Automation of Electronic Systems (TODAES), v.1 n.4, p.443-455, Oct. 1996[doi>10.1145/238997.239002]
+Abid Muslim Malik, Constraint programming techniques for optimal instruction scheduling, University of Waterloo, Waterloo, Ont., Canada, 2008
+M. Rim , R. Jain, Lower-bound performance estimation for the high-level synthesis scheduling problem, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.13 n.4, p.451-458, November 2006[doi>10.1109/43.275355]
+Ghassan Shobaki , Kent Wilken, Optimal Superblock Scheduling Using Enumeration, Proceedings of the 37th annual IEEE/ACM International Symposium on Microarchitecture, p.283-293, December 04-08, 2004, Portland, Oregon[doi>10.1109/MICRO.2004.27]
+Ghassan Omar Shobaki , Kent Wilken, Optimal global instruction scheduling using enumeration, University of California at Davis, Davis, CA, 2006
+Ghassan Shobaki , Kent Wilken , Mark Heffernan, Optimal trace scheduling using enumeration, ACM Transactions on Architecture and Code Optimization (TACO), v.5 n.4, p.1-32, March 2009[doi>10.1145/1498690.1498694]
+Sid-Ahmed-Ali Touati, Register saturation in instruction level parallelism, International Journal of Parallel Programming, v.33 n.4, p.393-449, August 2005[doi>10.1007/s10766-005-6466-x]
+Reinhold P. Weicker , John L. Henning, Subroutine profiling results for the CPU2006 benchmarks, ACM SIGARCH Computer Architecture News, v.35 n.1, March 2007[doi>10.1145/1241601.1241621]
+Sebastian Winkel, Optimal versus Heuristic Global Code Scheduling, Proceedings of the 40th Annual IEEE/ACM International Symposium on Microarchitecture, p.43-55, December 01-05, 2007[doi>10.1109/MICRO.2007.10]

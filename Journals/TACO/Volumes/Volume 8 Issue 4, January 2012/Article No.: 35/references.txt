@@ -1,0 +1,44 @@
+Aciicmez, O. and Koh, C. 2006. Trace-driven cache attacks on aes. Cryptology ePrint Archive rep. 2006/138.
+ARM. 2010--2011. Cortex-r5 and cortex-r5f: A technical reference manual, revision r1p1. http://infocenter.arm.com/help/topic/com.arm.doc.ddi0460c/DDI0460C_cortexr5_trm.pdf (accessed 7/11).
+Michael Backes , Markus Dürmuth , Sebastian Gerling , Manfred Pinkal , Caroline Sporleder, Acoustic side-channel attacks on printers, Proceedings of the 19th USENIX conference on Security, August 11-13, 2010, Washington, DC
+David Gullasch , Endre Bangerter , Stephan Krenn, Cache Games -- Bringing Access-Based Cache Attacks on AES to Practice, Proceedings of the 2011 IEEE Symposium on Security and Privacy, p.490-505, May 22-25, 2011[doi>10.1109/SP.2011.22]
+Bernstein, D. 2005. Cache-timing attacks on AES. http://cr.yp.to/antiforgery/cachetiming-20050414.pdf.
+Biham, E. and Shamir, A. 1991. Packaging of multi-core microprocessors: Tradeoffs and potential solutions. J. Cryptology 4, 1, 3--72.
+Blowfish. 2009. The blowfish encryption algorithm. http://www.schneier.com/blowfish.html.
+Joseph Bonneau , Ilya Mironov, Cache-collision timing attacks against AES, Proceedings of the 8th international conference on Cryptographic Hardware and Embedded Systems, October 10-13, 2006, Yokohama, Japan[doi>10.1007/11894063_16]
+Brickell, E., Graunke, G., Neve, M., and Seifert, J. 2006. Software mitigation to hedge aes against cache-based software side channel vulnerabilities. IACR ePrint Archive, rep. 2006/052.
+Canteaut, A., Lauradoux, C., and Seznec, A. 2006. Understanding cache attacks. INRIA Tech. rep. ftp://ftp.inria.fr/INRIA/publication/publi-pdf/RR/RR-5881.pdf.
+Joan Daemen , Vincent Rijmen, The  Design of Rijndael, Springer-Verlag New York, Inc., Secaucus, NJ, 2002
+Louis Goubin , Jacques Patarin, DES and Differential Power Analysis (The "Duplication" Method), Proceedings of the First International Workshop on Cryptographic Hardware and Embedded Systems, p.158-172, August 12-13, 1999
+Gueron, S. 2008. Advanced encryption standard (AES) instruction set. White paper, Intel.
+Aamer Jaleel , Kevin B. Theobald , Simon C. Steely, Jr. , Joel Emer, High performance cache replacement using re-reference interval prediction (RRIP), Proceedings of the 37th annual international symposium on Computer architecture, June 19-23, 2010, Saint-Malo, France[doi>10.1145/1815961.1815971]
+John Kelsey , Bruce Schneier , David Wagner , Chris Hall, Side Channel Cryptanalysis of Product Ciphers, Proceedings of the 5th European Symposium on Research in Computer Security, p.97-110, September 16-18, 1998
+Keramidas, G., Antonopoulos, A., Serpanos, D., and Kaxiras, S. 2008. Non-deterministic caches: A simple and effective defense against side channel attacks. Design Automation Embedd. Syst.
+Kong, J., Aclicmez, O., Seifert, J., and Zhou, H. 2009. Hardware-software integrated approaches to defend against software cache-based side channel attacks. In Proceedings of the International Symposium on High Performance Computer Architecture (HPCA).
+Boris Köpf , David Basin, An information-theoretic model for adaptive side-channel attacks, Proceedings of the 14th ACM conference on Computer and communications security, November 02-October 31, 2007, Alexandria, Virginia, USA[doi>10.1145/1315245.1315282]
+Ruby B. Lee , Yu-Yuan Chen, Processor accelerator for AES, Proceedings of the 2010 IEEE 8th Symposium on Application Specific Processors (SASP), p.16-21, June 13-14, 2010[doi>10.1109/SASP.2010.5521153]
+Chi-Keung Luk , Robert Cohn , Robert Muth , Harish Patil , Artur Klauser , Geoff Lowney , Steven Wallace , Vijay Janapa Reddi , Kim Hazelwood, Pin: building customized program analysis tools with dynamic instrumentation, Proceedings of the 2005 ACM SIGPLAN conference on Programming language design and implementation, June 12-15, 2005, Chicago, IL, USA[doi>10.1145/1065010.1065034]
+Luo, K. and Franklin, M. 2001. Balancing throughput and fairness in smt processors. In Proceedings of the International Symposium on Performance Analysis of Systems and Software.
+Mitsuru Matsui, Linear cryptanalysis method for DES cipher, Workshop on the theory and application of cryptographic techniques on Advances in cryptology, p.386-397, January 1994, Lofthus, Norway
+David May , Henk L. Muller , Nigel P. Smart, Random Register Renaming to Foil DPA, Proceedings of the Third International Workshop on Cryptographic Hardware and Embedded Systems, p.28-38, May 14-16, 2001
+Mibench. 2009. The MiBench benchmark suite. http://www.eecs.umich.edu/mibench/.
+Micali, S. and Reyzin, L. 2004. Physically observable cryptography. In Proceedings of the Theory of Cryptography Conference.
+NEHALEM. 2009. First the tick, now the tock: Intel microarchitecture (nehalem). http://www.intel.com/technology/architecture-silicon/next-gen/319724.pdf.
+Osvik, D., Shamir, A., and Tromer, E. 2005. Cache attacks and countermeasures: the case of aes. Cryptology ePrint Archive, rep. 2005/271.
+Page, D. 2005. Partitioned cache architecture as a side-channel defense mechanism. Cryptology ePrint Archive.
+Percival, C. 2005. Cache missing for fun and profit. http://www.daemonology.net/papers/htt.pdf.
+Pinpoints. 2009. Pinpoints home page. http://www.cs.virginia.edu/wiki/pin/index.php/PinPoints.
+Moinuddin K. Qureshi , Yale N. Patt, Utility-Based Cache Partitioning: A Low-Overhead, High-Performance, Runtime Mechanism to Partition Shared Caches, Proceedings of the 39th Annual IEEE/ACM International Symposium on Microarchitecture, p.423-432, December 09-13, 2006[doi>10.1109/MICRO.2006.49]
+Random. 2009. Random.org. http://www.random.org/.
+Side. 2009. Side channel attacks database. http://www.sidechannelattacks.com.
+Cloyce D. Spradling, SPEC CPU2006 benchmark tools, ACM SIGARCH Computer Architecture News, v.35 n.1, March 2007[doi>10.1145/1241601.1241625]
+F.-X. Standaert , E. Peeters , C. Archambeau , J. -J. Quisquater, Towards security limits in side-channel attacks, Proceedings of the 8th international conference on Cryptographic Hardware and Embedded Systems, October 10-13, 2006, Yokohama, Japan[doi>10.1007/11894063_3]
+Suh, E., Rudolph, L., and Devadas, S. 2001. Dynamic cache partitioning for simultaneous multithreading systems. In Proceedings of the International Conference on Parallel and Distributed Computing and Systems (PDCS'01).
+Eran Tromer , Dag Arne Osvik , Adi Shamir, Efficient Cache Attacks on AES, and Countermeasures, Journal of Cryptology, v.23 n.2, p.37-71, January 2010[doi>10.1007/s00145-009-9049-y]
+Tsunoo, Y., Saito, T., Suzaki, T., Shigeri, M., and Miyauchi, H. 2003. Crypronalysis of des implemented on computers with cache. In Proceedings of the Cryptographic Hardware and Embedded Systems (CHES) Workshop. 62--76.
+Tsunoo, Y., Tsujihara, E., Minematsu, K., and Miyauchi, H. 2002. Crypronalysis of block ciphers implemented on computers with cache. In Proceedings of the ICITA Conference.
+Zhenghong Wang , Ruby B. Lee, New cache designs for thwarting software cache-based side channel attacks, Proceedings of the 34th annual international symposium on Computer architecture, June 09-13, 2007, San Diego, California, USA[doi>10.1145/1250662.1250723]
+Zhenghong Wang , Ruby B. Lee, A novel cache architecture with enhanced performance and security, Proceedings of the 41st annual IEEE/ACM International Symposium on Microarchitecture, p.83-93, November 08-12, 2008[doi>10.1109/MICRO.2008.4771781]
+Yuejian Xie , Gabriel H. Loh, PIPP: promotion/insertion pseudo-partitioning of multi-core shared caches, Proceedings of the 36th annual international symposium on Computer architecture, June 20-24, 2009, Austin, TX, USA[doi>10.1145/1555754.1555778]
+Zhao, X. and Wang, T. 2010. Improved cache trace attack on AES and CLEFIA by considering cache miss and s-box misalignment. Cryptology ePrint Archive, rep. 2010/056.
+Shuchang Zhou, An efficient simulation algorithm for cache of random replacement policy, Proceedings of the 2010 IFIP international conference on Network and parallel computing, September 13-15, 2010, Zhengzhou, China

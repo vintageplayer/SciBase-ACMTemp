@@ -1,0 +1,36 @@
+Aigner, G., Diwan, A., Heine, D. L., Lam, M. S., Moore, D. L., Murphy, B. R., and Sapuntzakis, C. 2010. An overview of the SUIF2 compiler infrastructure. Tech. rep., Computer Systems Laboratory, Stanford University.
+Altera. 2010a. Automated generation of hardware accelerators with direct memory access from ANSI/ISO standard C functions. http://www.altera.com/literature/wp/wp-aghrdwr.pdf.
+Altera. 2010b. Nios II C2H user guide. http://www.altera.com/literature/ug/ug_nios2_c2h_compiler.pdf.
+Kiran Bondalapati , Pedro C. Diniz , Phillip Duncan , John Granacki , Mary W. Hall , Rajeev Jain , Heidi Ziegler, DEFACTO: A Design Environment for Adaptive Computing Technology, Proceedings of the 11 IPPS/SPDP'99 Workshops Held in Conjunction with the 13th International Parallel Processing Symposium and 10th Symposium on Parallel and Distributed Processing, p.570-578, April 12-16, 1999
+Mihai Budiu , Girish Venkataramani , Tiberiu Chelcea , Seth Copen Goldstein, Spatial computation, ACM SIGARCH Computer Architecture News, v.32 n.5, December 2004[doi>10.1145/1037947.1024396]
+Buyukkurt, B., Guo, Z., and Najjar, W. 2005. Compiler optimization for configurable accelerators. In Proceedings of the Conference on Optimizations for DSP and Embedded Systems (ODES) In conjunction with International Symposium on Code Generation and Optimization (CGO'05).
+Buyukkurt, B., Guo, Z., and Najjar, W. 2006. Impact of loop unrolling on throughput, area and clock frequency in ROCCC: C to VHDL compiler for FPGAs. In Proceedings of the Workshop On Applied Reconfigurable Computing (ARC'06).
+Timothy J. Callahan , John R. Hauser , John Wawrzynek, The Garp Architecture and C Compiler, Computer, v.33 n.4, p.62-69, April 2000[doi>10.1109/2.839323]
+Celoxica Inc. 2010. Handel-C language. http://www.celoxica.com.
+Dellson, A., Sandberg, G., and Mohl, S. 2006. Turning fpgas into supercomputers—Debunking the myths about fpga-based software acceleration. Tech. rep.
+Pedro Diniz , Joonseok Park, Automatic Synthesis of Data Storage and Control Structures for FPGA-Based Computing Engines, Proceedings of the 2000 IEEE Symposium on Field-Programmable Custom Computing Machines, p.91, April 17-19, 2000
+Pedro C. Diniz , Joonseok Park, Data reorganization engines for the next generation of system-on-a-chip FPGAs, Proceedings of the 2002 ACM/SIGDA tenth international symposium on Field-programmable gate arrays, February 24-26, 2002, Monterey, California, USA[doi>10.1145/503048.503082]
+Dydel, S. and Bala, P. 2004. Large scale protein sequence alignment using fpga reprogrammable logic devices. In Field Programmable Logic and Application. Springer, 23--32.
+Kevin Fan , Manjunath Kudlur , Hyunchul Park , Scott Mahlke, Increasing hardware efficiency with multifunction loop accelerators, Proceedings of the 4th international conference on Hardware/software codesign and system synthesis, October 22-25, 2006, Seoul, Korea[doi>10.1145/1176254.1176322]
+Jan Frigo , Maya Gokhale , Dominique Lavenier, Evaluation of the streams-C C-to-FPGA compiler: an applications perspective, Proceedings of the 2001 ACM/SIGDA ninth international symposium on Field programmable gate arrays, p.134-140, February 2001, Monterey, California, USA[doi>10.1145/360276.360326]
+Maya B. Gokhale , Janice M. Stone , Jeff Arnold , Mirek Kalinowski, Stream-Oriented FPGA Computing in the Streams-C High Level Language, Proceedings of the 2000 IEEE Symposium on Field-Programmable Custom Computing Machines, p.49, April 17-19, 2000
+Zhi Guo , Betul Buyukkurt , Walid Najjar, Input data reuse in compiling window operations onto reconfigurable hardware, Proceedings of the 2004 ACM SIGPLAN/SIGBED conference on Languages, compilers, and tools for embedded systems, June 11-13, 2004, Washington, DC, USA[doi>10.1145/997163.997199]
+Zhi Guo , Betul Buyukkurt , Walid Najjar , Kees Vissers, Optimized Generation of Data-Path from C Codes for FPGAs, Proceedings of the conference on Design, Automation and Test in Europe, p.112-117, March 07-11, 2005[doi>10.1109/DATE.2005.234]
+Sumit Gupta , Nikil Dutt , Rajesh Gupta , Alex Nicolau, SPARK: A High-Lev l Synthesis Framework For Applying Parallelizing Compiler Transformations, Proceedings of the 16th International Conference on VLSI Design, p.461, January 04-08, 2003
+M. R. Guthaus , J. S. Ringenberg , D. Ernst , T. M. Austin , T. Mudge , R. B. Brown, MiBench: A free, commercially representative embedded benchmark suite, Proceedings of the Workload Characterization, 2001. WWC-4. 2001 IEEE International Workshop, p.3-14, December 02-02, 2001[doi>10.1109/WWC.2001.15]
+Amir Hormati , Manjunath Kudlur , Scott Mahlke , David Bacon , Rodric Rabbah, Optimus: efficient realization of streaming applications on FPGAs, Proceedings of the 2008 international conference on Compilers, architectures and synthesis for embedded systems, October 19-24, 2008, Atlanta, GA, USA[doi>10.1145/1450095.1450105]
+ImpulseC. 2010. ImpulseC homepage. http://www.impulsec.com.
+Jacobi, R., Ayala-Rincon, M., Carvalho, L., Llanos, C., and Hartenstein, R. 2005. Reconfigurable systems for sequence alignment and for general dynamic programming. Genet Mol. Res. 4, 3, 543--552.
+Vinod Kathail , Shail Aditya , Robert Schreiber , B. Ramakrishna Rau , Darren C. Cronquist , Mukund Sivaraman, PICO: Automatically Designing Custom Computers, Computer, v.35 n.9, p.39-47, September 2002[doi>10.1109/MC.2002.1033026]
+Mentor Graphics. 2010. Catapult C synthesis. http://www.mentor.com/products/c-based.design/catapult.c.synthesis/index.cfm.
+Walid A. Najjar , Wim Böhm , Bruce A. Draper , Jeff Hammes , Robert Rinker , J. Ross Beveridge , Monica Chawathe , Charles Ross, High-Level Language Abstraction for Reconfigurable Computing, Computer, v.36 n.8, p.63-69, August 2003[doi>10.1109/MC.2003.1220583]
+Kiran Puttegowda , William Worek , Nicholas Pappas , Anusha Dandapani , Peter Athanas , Allan Dickerman, A Run-Time Reconfigurable System for Gene-Sequence Searching, Proceedings of the 16th International Conference on VLSI Design, p.561, January 04-08, 2003
+SGI Inc. SGI RASC RC100 Blade. http://www.sgi.com/products/rasc/datasheets.html.
+H. Singpiel , H. Simmler , A. Kugel , R. Manner , A. C. C. Vieira , F. Galvez-Durand , J. M. S. de Alcantara , V. C. Alves, Implementation of Cryptographic Applications on the Reconfigurable FPGA Coprocessor microEnable, Proceedings of the 13th symposium on Integrated circuits and systems design, p.359, September 18-24, 2000
+Smith, M. D. and Holloway, G. 2010a. An introduction to Machine SUIF and its portable libraries for analysis and optimization. Tech. rep., Division of Engineering and Applied Sciences, Harvard University.
+Smith, M. D. and Holloway, G. 2010b. Machine-SUIF SUIFvm Library. Tech. rep., Division of Engineering and Applied Sciences, Harvard University.
+Synfora, I. 2010a. Synfora homepage. http://www.synfora.com.
+Synfora, I. 2010b. PICO technology white paper (v.10). http://www.synfora.com/about/files/PICO_technology_whitepaper_v1.0.pdf.
+SystemC. 2010. SystemC consortium. http://www.systemc.org.
+William Thies , Michal Karczmarek , Saman P. Amarasinghe, StreamIt: A Language for Streaming Applications, Proceedings of the 11th International Conference on Compiler Construction, p.179-196, April 08-12, 2002
+Trimaran. 2010. An infrastructure for research in ILP. http://www.trimaran.org.

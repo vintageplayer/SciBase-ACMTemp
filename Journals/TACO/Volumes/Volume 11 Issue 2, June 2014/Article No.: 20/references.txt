@@ -1,0 +1,43 @@
+Alfred V. Aho , Monica S. Lam , Ravi Sethi , Jeffrey D. Ullman, Compilers: Principles, Techniques, and Tools (2nd Edition), Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 2006
+Cagdas Akturan , Margarida F. Jacome, CALiBeR: a software pipelining algorithm for clustered embedded VLIW processors, Proceedings of the 2001 IEEE/ACM international conference on Computer-aided design, November 04-08, 2001, San Jose, California
+Alex Aleta , Josep M. Codina , Antonio Gonzalez , David Kaeli, Heterogeneous Clustered VLIW Microarchitectures, Proceedings of the International Symposium on Code Generation and Optimization, p.354-366, March 11-14, 2007[doi>10.1109/CGO.2007.15]
+Analog Devices. 2010. Getting started with Blackfin processors. (2010).
+James Balfour , William Dally , David Black-Schaffer , Vishal Parikh , JongSoo Park, An Energy-Efficient Processor Architecture for Embedded Systems, IEEE Computer Architecture Letters, v.7 n.1, p.29-32, January 2008[doi>10.1109/L-CA.2008.1]
+Luiz André Barroso , Urs Hölzle, The Case for Energy-Proportional Computing, Computer, v.40 n.12, p.33-37, December 2007[doi>10.1109/MC.2007.443]
+Qiong Cai, J. M. Codina, J. Gonzalez, and A. Gonzalez. 2008. A software-hardware hybrid steering mechanism for clustered microarchitectures. In 1--12. DOI:http://dx.doi.org/10.1109/IPDPS.2008.4536229
+Kirk W. Cameron, The Challenges of Energy-Proportional Computing, Computer, v.43 n.5, p.82-83, May 2010[doi>10.1109/MC.2010.145]
+G. J. Chaitin, Register allocation & spilling via graph coloring, Proceedings of the 1982 SIGPLAN symposium on Compiler construction, p.98-105, June 23-25, 1982, Boston, Massachusetts, USA[doi>10.1145/800230.806984]
+Daniel M. Lavery , Pohua P. Chang , Scott A. Mahlke , William Y. Chen , Wen-mei W. Hwu, The Importance of Prepass Code Scheduling for Superscalar and Superpipelined Processors, IEEE Transactions on Computers, v.44 n.3, p.353-370, March 1995[doi>10.1109/12.372029]
+Josep M. Codina , Jesus Sanchez , Antonio Gonzalez, Virtual Cluster Scheduling Through the Scheduling Graph, Proceedings of the International Symposium on Code Generation and Optimization, p.89-101, March 11-14, 2007[doi>10.1109/CGO.2007.39]
+Thomas H. Cormen , Charles E. Leiserson , Ronald L. Rivest , Clifford Stein, Introduction to Algorithms, Third Edition, The MIT Press, 2009
+Intel Corporation. 2000. The Intel Xscale microarchitecture.
+William J. Dally , James Balfour , David Black-Shaffer , James Chen , R. Curtis Harting , Vishal Parikh , Jongsoo Park , David Sheffield, Efficient Embedded Computing, Computer, v.41 n.7, p.27-32, July 2008[doi>10.1109/MC.2008.224]
+DCCS. 2013. Complementary material for DCCS algorithm. Available at http://163.25.101.87/wiki/doku.php&quest;id&equals;research:pgvliw:dccs.
+Advanced Micro Devices. 2001. Mobile AMD Athlon 4 processor model 6 CPGA data sheet.
+M. Fleischmann. 2001. Longrun power management: dynamic power management for Crusoe processors. AMD Technical Report 24319.
+Freescale Semiconductor. 2008. Tuning C code for StarCore-based digital signal processors. (2008).
+Michael R. Garey , David S. Johnson, Computers and Intractability: A Guide to the Theory of NP-Completeness, W. H. Freeman & Co., New York, NY, 1979
+Jonathan L. Gross , Jay Yellen, Graph Theory and Its Applications, Second Edition (Discrete Mathematics and Its Applications), Chapman & Hall/CRC, 2005
+M. R. Guthaus , J. S. Ringenberg , D. Ernst , T. M. Austin , T. Mudge , R. B. Brown, MiBench: A free, commercially representative embedded benchmark suite, Proceedings of the Workload Characterization, 2001. WWC-4. 2001 IEEE International Workshop, p.3-14, December 02-02, 2001[doi>10.1109/WWC.2001.15]
+Industry Technology Roadmap for Semiconductors. 2010. ITRS Report. Available at http://www.itrs.net/.
+H. S. Kim , N. Vijaykrishnan , M. Kandemir , M. J. Irwin, Adapting instruction level parallelism for optimizing leakage in VLIW architectures, Proceedings of the 2003 ACM SIGPLAN conference on Language, compiler, and tool for embedded systems, June 11-13, 2003, San Diego, California, USA[doi>10.1145/780732.780770]
+Chris Lattner , Vikram Adve, LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation, Proceedings of the international symposium on Code generation and optimization: feedback-directed and runtime optimization, p.75, March 20-24, 2004, Palo Alto, California
+Yung-Chia Lin , Chia Han Lu , Chung-Ju Wu , Chung-Lin Tang , Yi-Ping You , Ya-Chaio Moo , Jenq-Kuen Lee, Effective Code Generation for Distributed and Ping-Pong Register Files: A Case Study on PAC VLIW DSP Cores, Journal of Signal Processing Systems, v.51 n.3, p.269-288, June      2008[doi>10.1007/s11265-007-0059-4]
+Steven S. Muchnick, Advanced compiler design and implementation, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1998
+Philips. 2011. Philips nexperiałhighly integrated programmable system-on-chip. Available at http://www. semiconductors.philips.com/products/nexperia.
+Yi Qian , Steve Carr , Philip Sweany, Loop fusion for clustered VLIW architectures, Proceedings of the joint conference on Languages, compilers and tools for embedded systems: software and compilers for embedded systems, June 19-21, 2002, Berlin, Germany[doi>10.1145/513829.513850]
+Yi Qian , Steve Carr , Philip H. Sweany, Optimizing Loop Performance for Clustered VLIW Architectures, Proceedings of the 2002 International Conference on Parallel Architectures and Compilation Techniques, p.271-280, September 22-25, 2002
+S. Rixner, W. J. Dally, B. Khailany, P. Mattson, U. J. Kapasi, and J. D. Owens. 2000. Register organization for media processing. In Proceedings of the 6th International Symposium on High-Performance Computer Architecture (HPCA-6). 375--386. DOI:http://dx.doi.org/10.1109/HPCA.2000.824366
+Soumyaroop Roy , Nagarajan Ranganathan , Srinivas Katkoori, A framework for power-gating functional units in embedded microprocessors, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, v.17 n.11, p.1640-1649, November 2009[doi>10.1109/TVLSI.2008.2005774]
+Youngsoo Shin , Jun Seomun , Kyu-Myung Choi , Takayasu Sakurai, Power gating: Circuits, design methodologies, and best practice for standard-cell VLSI designs, ACM Transactions on Design Automation of Electronic Systems (TODAES), v.15 n.4, p.1-37, September 2010[doi>10.1145/1835420.1835421]
+A. S. Terechko , H. Corporaal, Inter-cluster communication in VLIW architectures, ACM Transactions on Architecture and Code Optimization (TACO), v.4 n.2, p.11-es, June 2007[doi>10.1145/1250727.1250731]
+Texas Instruments. 2005. TMS320C6455 Fixed-point Digital Signal Processor. Available at http://www.ti. com/product/tms320c6455.
+Texas Instruments. 2011. OMAP 5 Mobile Applications Platform. Available at http://www.ti.com/pdfs/wtbu/ SWCT010.pdf.
+Shyamkumar Thoziyoor, Naveen Muralimanohar, Jung Ho Ahn, and Norman P. Jouppi. 2008. CACTI 5.1. HP Laboratories Technical Report HPL-2008-20.
+Trimaran. 2007. Trimaran 4.0 Manual. Available at http://www.trimaran.org/documentation.shtml.
+Meng Wang , Yi Wang , Duo Liu , Zhiwei Qin , Zili Shao, Compiler-assisted leakage-aware loop scheduling for embedded VLIW DSP processors, Journal of Systems and Software, v.83 n.5, p.772-785, May, 2010[doi>10.1016/j.jss.2009.11.727]
+Hyo-Sig Won , Kyo-Sun Kim , Kwang-Ok Jeong , Ki-Tae Park , Kyu-Myung Choi , Jeong-Taek Kong, An MTCMOS design methodology and its application to mobile computing, Proceedings of the 2003 international symposium on Low power electronics and design, August 25-27, 2003, Seoul, Korea[doi>10.1145/871506.871536]
+Yi-Ping You , Chung-Wen Huang , Jenq Kuen Lee, Compilation for compact power-gating controls, ACM Transactions on Design Automation of Electronic Systems (TODAES), v.12 n.4, p.51-es, September 2007[doi>10.1145/1278349.1278364]
+Yi-Ping You , Chingren Lee , Jenq Kuen Lee, Compilers for leakage power reduction, ACM Transactions on Design Automation of Electronic Systems (TODAES), v.11 n.1, p.147-164, January 2006[doi>10.1145/1124713.1124723]
+Javier Zalamea , Josep Llosa , Eduard Ayguadé , Mateo Valero, Modulo scheduling with integrated register spilling for clustered VLIW architectures, Proceedings of the 34th annual ACM/IEEE international symposium on Microarchitecture, December 01-05, 2001, Austin, Texas
+Vojin Zivojnovic, J. Martinez Velarde, Christian Schlager, and Heinrich Meyr. 1994. DSPstone: A DSP-oriented benchmarking methodology. In Proceedings of International Conference on Signal Processing Applications and Technology, Vol. 94, 715--720.

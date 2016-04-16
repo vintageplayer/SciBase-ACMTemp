@@ -1,0 +1,25 @@
+David A. Bader , Virat Agarwal, FFTC: fastest Fourier transform for the IBM cell broadband engine, Proceedings of the 14th international conference on High performance computing, December 18-21, 2007, Goa, India
+Bailey, D. H. 1987. A high-performance fast Fourier transform algorithm for the Cray-2. J. Supercomput. 1, 43--60.
+Bailey, D. H. 1988. A high-performance FFT algorithm for vector supercomputers. Int. J. Supercomput. Appl. 2, 1, 82--87.
+D. H. Bailey, FFTs in external or hierarchical memory, The Journal of Supercomputing, v.4 n.1, p.23-35, Mar. 1990[doi>10.1007/BF00162341]
+Brigham, E. O. 1974. The Fast Fourier Transform. Prentice-Hall, Inc., Englewood Cliffs, NJ.
+David A. Carlson, Using local memory to boost the performance of FFT algorithms on the CRAY-2 supercomputer, The Journal of Supercomputing, v.4 n.4, p.345-356, 1990[doi>10.1007/BF00129835]
+Srinivas Chellappa , Franz Franchetti , Markus Püeschel, Computer generation of fast fourier transforms for the cell broadband engine, Proceedings of the 23rd international conference on Supercomputing, June 08-12, 2009, Yorktown Heights, NY, USA[doi>10.1145/1542275.1542285]
+Chow, A. C., Fossum, G. C., and Brokenshire, D. A. 2005. A programming example: Large FFT on the Cell Broadband Engine. In Proceedings of the Global Signal Processing Expo.
+Cochran, W. T., Cooley, J. W., et al. 1967. What is the fast Fourier transform&quest; IEEE Trans. Audio Electroacoustics Au-15, 2, 45--55.
+Cooley, J. and Tukey, J. 1965. An algorithm for the machine calculation of complex Fourier series. Math. Comput. 19, 90, 297--301.
+Michael J. Flynn, Some computer organizations and their effectiveness, IEEE Transactions on Computers, v.21 n.9, p.948-960, September 1972[doi>10.1109/TC.1972.5009071]
+Franz Franchetti , Yevgen Voronenko , Markus Püschel, FFT program generation for shared memory: SMP and multicore, Proceedings of the 2006 ACM/IEEE conference on Supercomputing, November 11-17, 2006, Tampa, Florida[doi>10.1145/1188455.1188575]
+Donald Fraser, Array Permutation by Index-Digit Permutation, Journal of the ACM (JACM), v.23 n.2, p.298-309, April 1976[doi>10.1145/321941.321949]
+Frigo, M. and Johnson, S. 2005. The design and implementation of FFTW3. Proc. IEEE 93, 2, 216--231.
+W. M. Gentleman , G. Sande, Fast Fourier Transforms: for fun and profit, Proceedings of the November 7-10, 1966, fall joint computer conference, November 07-10, 1966, San Francisco, California[doi>10.1145/1464291.1464352]
+Naga K. Govindaraju , Brandon Lloyd , Yuri Dotsenko , Burton Smith , John Manferdelli, High performance discrete Fourier transforms on graphics processors, Proceedings of the 2008 ACM/IEEE conference on Supercomputing, November 15-21, 2008, Austin, Texas
+Liang Gu , Xiaoming Li , Jakob Siegel, An empirically tuned 2D and 3D FFT library on CUDA GPU, Proceedings of the 24th ACM International Conference on Supercomputing, June 02-04, 2010, Tsukuba, Ibaraki, Japan[doi>10.1145/1810085.1810127]
+Liang Gu , Jakob Siegel , Xiaoming Li, Using GPUs to compute large out-of-card FFTs, Proceedings of the international conference on Supercomputing, May 31-June 04, 2011, Tucson, Arizona, USA[doi>10.1145/1995896.1995937]
+IBM Systems and Technology Group. 2009. Cell Broadband Engine Programming Handbook Including the PowerXCell 8i Processor. IBM, Hopewell Junction, NY.
+Michael Kistler , Michael Perrone , Fabrizio Petrini, Cell Multiprocessor Communication Network: Built for Speed, IEEE Micro, v.26 n.3, p.10-23, May 2006[doi>10.1109/MM.2006.49]
+Korn, D. G. and Lambiotte, J. J. 1979. Computing the fast Fourier transform on a vector computer. Math. Comput. 33, 147, 977--992.
+Marshall C. Pease, An Adaptation of the Fast Fourier Transform for Parallel Processing, Journal of the ACM (JACM), v.15 n.2, p.252-264, April 1968[doi>10.1145/321450.321457]
+Singleton, R. C. 1967. A method for computing the fast Fourier transform with auxiliary memory and limited high-speed storage. IEEE Trans. Audio Electroacoust. 15, 2, 91--97.
+Charles Van Loan, Computational frameworks for the fast Fourier transform, Society for Industrial and Applied Mathematics, Philadelphia, PA, 1992
+Wang, H. H. 1980. On vectorizing the fast Fourier transform. BIT Numer. Math. 10, 233--243.

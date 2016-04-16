@@ -1,0 +1,22 @@
+Keith Adams and Ole Agesen. 2006. A comparison of software and hardware techniques for x86 virtualization. ACM SIGPLAN Notices 41, 11, 2--13.
+ARM. 2015. ARM®Architecture Reference Manual, ARMv8, for ARMv8-A Architecture Profile. http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.ddi0487a.i/index.html.
+Vasanth Bala, Evelyn Duesterwald, and Sanjeev Banerjia. 2000. Dynamo: A transparent dynamic optimization system. In ACM SIGPLAN Notices, Vol. 35. ACM, New York, NY, 1--12.
+Fabrice Bellard. 2005. QEMU, a fast and portable dynamic translator. In USENIX Annual Technical Conference, FREENIX Track. 41--46.
+Christian Bienia. 2011. Benchmarking Modern Multiprocessors. Ph.D. Dissertation. Princeton University, Princeton, NJ.
+Darrell Boggs, Gary Brown, Nathan Tuck, and K. S. Venkatraman. 2015. Denver: Nvidia's first 64-bit ARM processor. IEEE Micro 2 (2015), 46--55.
+Derek Lane Bruening. 2004. Efficient, Transparent, and Comprehensive Runtime Code Manipulation. Ph.D. Dissertation. Massachusetts Institute of Technology, Cambridge, MA.
+Thurston H. Y. Dang, Petros Maniatis, and David Wagner. 2015. The performance cost of shadow stacks and stack canaries. In ACM Symposium on Information, Computer and Communications Security (ASIACCS'15), Vol. 15.
+James C. Dehnert, Brian K. Grant, John P. Banning, Richard Johnson, Thomas Kistler, Alexander Klaiber, and Jim Mattson. 2003. The transmeta code morphing™software: Using speculation, recovery, and adaptive retranslation to address real-life challenges. In Proceedings of the International Symposium on Code Generation and Optimization: Feedback-Directed and Runtime Optimization. IEEE Computer Society, 15--24.
+Kim Hazelwood and Artur Klauser. 2006. A dynamic binary instrumentation engine for the ARM architecture. In Proceedings of the 2006 International Conference on Compilers, Architecture and Synthesis for Embedded Systems. ACM, New York, NY, 261--270.
+John L. Henning. 2006. SPEC CPU2006 benchmark descriptions. ACM SIGARCH Computer Architecture News 34, 4, 1--17.
+Ding-Yong Hong, Chun-Chen Hsu, Pen-Chung Yew, Jan-Jan Wu, Wei-Chung Hsu, Pangfeng Liu, Chien-Min Wang, and Yeh-Ching Chung. 2012. HQEMU: A multi-threaded and retargetable dynamic binary translator on multicores. In Proceedings of the 10th International Symposium on Code Generation and Optimization. ACM, New York, NY, 104--113.
+Ho-Seop Kim and James E. Smith. 2003. Hardware support for control transfers in code caches. In Proceedings of the 36th Annual IEEE/ACM International Symposium on Microarchitecture. IEEE Computer Society, 253.
+Chi-Keung Luk, Robert Cohn, Robert Muth, Harish Patil, Artur Klauser, Geoff Lowney, Steven Wallace, Vijay Janapa Reddi, and Kim Hazelwood. 2005. Pin: Building customized program analysis tools with dynamic instrumentation. In ACM SIGPLAN Notices, Vol. 40. ACM, New York, NY, 190--200.
+Tipp Moseley, Daniel A. Connors, Dirk Grunwald, and Ramesh Peri. 2007. Identifying potential parallelism via loop-centric profiling. In Proceedings of the 4th International Conference on Computing Frontiers. ACM, New York, NY, 143--152.
+Nicholas Nethercote and Julian Seward. 2007. Valgrind: A framework for heavyweight dynamic binary instrumentation. In ACM SIGPLAN Notices, Vol. 42. ACM, New York, NY, 89--100.
+Mathias Payer and Thomas R. Gross. 2010. Generating low-overhead dynamic binary translators. In Proceedings of the 3rd Annual Haifa Experimental Systems Conference. ACM, New York, NY, 22.
+Yukinori Sato, Yasushi Inoguchi, and Tadao Nakamura. 2011. On-the-fly detection of precise loop nests across procedures on a dynamic binary translation system. In Proceedings of the 8th ACM International Conference on Computing Frontiers. ACM, New York, NY, 25.
+Julian Seward and Nicholas Nethercote. 2005. Using Valgrind to detect undefined value errors with bit-precision. In USENIX Annual Technical Conference, General Track. 17--30.
+Swaroop Sridhar, Jonathan S. Shapiro, and Prashanth P. Bungale. 2007. HDTrans: A low-overhead dynamic translator. ACM SIGARCH Computer Architecture News 35, 1, 135--140.
+Jon Watson. 2008. Virtualbox: Bits and bytes masquerading as machines. Linux Journal 2008, 166, 1.
+Qin Zhao, David Koh, Syed Raza, Derek Bruening, Weng-Fai Wong, and Saman Amarasinghe. 2011. Dynamic cache contention detection in multi-threaded applications. In ACM SIGPLAN Notices, Vol. 46. ACM, New York, NY, 27--38.

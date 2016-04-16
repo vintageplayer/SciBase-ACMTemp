@@ -1,0 +1,22 @@
+Ahmed S. Al-Zawawi , Vimal K. Reddy , Eric Rotenberg , Haitham H. Akkary, Transparent control independence (TCI), Proceedings of the 34th annual international symposium on Computer architecture, June 09-13, 2007, San Diego, California, USA[doi>10.1145/1250662.1250717]
+Gene M. Amdahl, Validity of the single processor approach to achieving large scale computing capabilities, Proceedings of the April 18-20, 1967, spring joint computer conference, April 18-20, 1967, Atlantic City, New Jersey[doi>10.1145/1465482.1465560]
+Todd Austin , Eric Larson , Dan Ernst, SimpleScalar: An Infrastructure for Computer System Modeling, Computer, v.35 n.2, p.59-67, February 2002[doi>10.1109/2.982917]
+Chen-Yong Cher , T. N. Vijaykumar, Skipper: a microarchitecture for exploiting control-flow independence, Proceedings of the 34th annual ACM/IEEE international symposium on Microarchitecture, December 01-05, 2001, Austin, Texas
+George Z. Chrysos , Joel S. Emer, Memory dependence prediction using store sets, Proceedings of the 25th annual international symposium on Computer architecture, p.142-153, June 27-July 02, 1998, Barcelona, Spain[doi>10.1145/279358.279378]
+Jamison D. Collins , Dean M. Tullsen , Hong Wang, Control Flow Optimization Via Dynamic Reconvergence Prediction, Proceedings of the 37th annual IEEE/ACM International Symposium on Microarchitecture, p.129-140, December 04-08, 2004, Portland, Oregon[doi>10.1109/MICRO.2004.13]
+Amit Gandhi , Haitham Akkary , Srikanth T. Srinivasan, Reducing Branch Misprediction Penalty via Selective Branch Recovery, Proceedings of the 10th International Symposium on High Performance Computer Architecture, p.254, February 14-18, 2004[doi>10.1109/HPCA.2004.10004]
+Hamerly, G., Perelman, E., Lau, J., and Calder, B. 2005. Simpoint 3.0: Faster and more flexible program phase analysis. J. Instruct. Level Paral. 7.
+Hesson, J. H., LeBlanc, J., and Ciavaglia, S. J. 1997. Apparatus to dynamically control the out-of-order execution of load/store instructions in a processor capable of dispatching, issuing and executing multiple instructions in a single processor cycle. US Patent 5,615,350.
+Mark D. Hill , Michael R. Marty, Amdahl's Law in the Multicore Era, Computer, v.41 n.7, p.33-38, July 2008[doi>10.1109/MC.2008.209]
+Andrew D. Hilton , Amir Roth, Ginger: control independence using tag rewriting, Proceedings of the 34th annual international symposium on Computer architecture, June 09-13, 2007, San Diego, California, USA[doi>10.1145/1250662.1250716]
+Erik Jacobsen , Eric Rotenberg , J. E. Smith, Assigning confidence to conditional branch predictions, Proceedings of the 29th annual ACM/IEEE international symposium on Microarchitecture, p.142-152, December 02-04, 1996, Paris, France
+Lee, C. J., Kim, H., Mutlu, O., and Patt, Y. N. 2008. Performance-aware speculation control using wrong path usefulness prediction. In Proceedings of HPCA. 39--49.
+Andreas Moshovos , Gurindar S. Sohi, Streamlining inter-operation memory communication via data dependence prediction, Proceedings of the 30th annual ACM/IEEE international symposium on Microarchitecture, p.235-245, December 01-03, 1997, Research Triangle Park, North Carolina, USA
+Eric Rotenberg , Quinn Jacobson , Yiannakis Sazeides , Jim Smith, Trace processors, Proceedings of the 30th annual ACM/IEEE international symposium on Microarchitecture, p.138-148, December 01-03, 1997, Research Triangle Park, North Carolina, USA
+E. Rotenberg , Q. Jacobson , J. Smith, A Study of Control Independence in Superscalar Processors, Proceedings of the 5th International Symposium on High Performance Computer Architecture, p.115, January 09-12, 1999
+Seznec, A. 2011. A 64 kbytes ISL-TAGE branch predictor. In Proceedings of JWAC-2: Championship Branch Prediction.
+Andre Seznec, Storage free confidence estimation for the TAGE branch predictor, Proceedings of the 2011 IEEE 17th International Symposium on High Performance Computer Architecture, p.443-454, February 12-16, 2011
+Seznec, A. and Michaud, P. 2006. A case for (partially) tagged geometric history length branch prediction. J. Instruct. Level Paral.
+Smith, J. E. and Sohi, G. S. 1995. The microarchitecture of superscalar processors. Proc. IEEE. 82, 1609--1624.
+Avinash Sodani , Gurindar S. Sohi, Dynamic instruction reuse, Proceedings of the 24th annual international symposium on Computer architecture, p.194-205, June 01-04, 1997, Denver, Colorado, USA[doi>10.1145/264107.264200]
+SPEC. 2006. SPEC CPU2006. http://www.spec.org/cpu2006/.

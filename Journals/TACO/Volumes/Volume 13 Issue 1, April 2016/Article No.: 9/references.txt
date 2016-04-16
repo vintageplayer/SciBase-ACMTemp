@@ -1,0 +1,28 @@
+C. Scott Ananian, Krste Asanovic, Bradley C. Kuszmaul, Charles E. Leiserson, and Sean Lie. 2005. Unbounded transactional memory. In HPCA 11. 316--327.
+Mohammad Ansari, Mikel Lujan, Chritos Kotselidis, Kim Jarvis, Chris Kirkham, and Ian Watson. 2009. Steal-on-abort: Dynamic transaction reordering to reduce conflicts in transactional memory. In HiPEAC. 4--18.
+Adria Armejach, Anurag Negi, Adrian Cristal, Osman Unsal, Per Stenstrom, and Tim Harris. 2013. HARP: Adaptive abort recurrence prediction for hardware transactional memory. In HiPC’13. 196--205.
+Geoffrey Blake, Ronald G. Dreslinski, and Trevor Mudge. 2009. Proactive transaction scheduling for contention management. In Micro 42. 156--167.
+Jayaram Bobba, Kevin E. Moore, Haris Volos, Luke Yen, Mark D. Hill, Michael M. Swift, and David A. Wood. 2007. Performance pathologies in hardware transactional memory. In ISCA 34. 81--91.
+David Brooks, Vivek Tiwari, and Margaret Martonosi. 2000. Wattch: A framework for architectural-level power analysis and optimizations. In ISCA 27. 83--94.
+Hassan Chafi, Jared Casper, Brian D. Carlstrom, Austen McDonald, Chi Cao Minh, Woongki Baek, Christos Kozyrakis, and Knule Olukotun. 2007. A scalable, non-blocking approach to transactional memory. In HPCA 13. 97--108.
+Luis Ceze, James Tuck, Josep Torrellas, and Calin Cascaval. 2006. Bulk disambiguation of speculative threads in multiprocessors. In ISCA 33. 227--238
+Cesare Ferri, Samantha Wood, Tali Moreshet, R. Iris Bahar, and Maurice Herlihy. 2010. Embedded-TM: Energy and complexity-effective hardware transactional memory for embedded multicore systems. In Journal of Parallel and Distributed Computing (JPDC) 70, 10 (Oct. 2010), 1042--1052.
+Epifanio Gaona, J. Rubén Titos-Gil, Juan Fernández, and Manuel E. Acacio. 2014. Selective dynamic serialization for reducing energy consumption in hardware transactional memory systems. In the Journal of Supercomputing 68, 2 (May 2014), 914--934.
+Lance Hammond, Vicky Wong, Mike Chen, Brian D. Carlstrom, John D. Davis, Ben Hertzberg, Manohar K. Prabhu, Honggo Wijaya, Christos Kozyrakis, and Knule Olukotun. 2004. Transactional memory coherence and consistency. In ISCA 31. 102--113.
+Maurice Herlihy and J. Eliot B. Moss. 1993. Transactional memory: Architectural support for lock-free data structures. In ISCA 20. 289--300.
+H. T. Kung and John T. Robinson. 1981. On optimistic methods for concurrency control. ACM TODS, 6, 2 (Jun. 1981), 213--226.
+Yujie Liu and Michael Spear. 2011. Toxic transactions. In TRANSACT’11.
+Marc Lupon, Grigorios Magklis, and Antonio Gonzalez. 2010. A dynamically adaptable hardware transactional memory. In MICRO-43. 27--38.
+Chi Cao Minh, Jae Woong Chung, Christos Kozyrakis, and Kunle Olukotun. 2008. STAMP: Stanford transactional applications for multi-processing. In IISWC’08.
+Kevin E. Moore, Jayaram Bobba, Michelle J. Moravan, Mark D. Hill, and David A. Wood. 2006. LogTM: Log-based transactional memory. In HPCA 12. 254--265.
+James Poe, Chang-Burm Cho, and Tao Li. 2008. Using analytical model to efficiently explore hardware transactional memory and multi-core co-design. In SBAC-PAD.
+Xuehai Qian, Wonsun Ahn, and Josep Torrellas. 2010. ScalableBulk: Scalable cache coherence for atomic blocks in a lazy environment. In MICRO-43. 447--458.
+Ravi Rajwar, Maurice Herlihy, and Konrad Lai. 2005. Virtualizing transactional memory. In ISCA 32. 494--505.
+Jose Renau, Basilio Fraguela, and Wei Liu. 2005. SESC simulator. Retrieved from http://sourceforge.net/projects/sesc/.
+Sutirtha Sanyal, Sourav Roy, Adrian Cristal, Osman S. Unsal, and Mateo Valero. 2009. Clock gate on abort: Towards energy-efficient hardware transactional memory. In IPDPS’09. 1--8.
+Arrvindh Shriraman, Sandhya Dwarkadas, and Michael L. Scott. 2008. Flexible decoupled transactional memory support. In ISCA 35. 139--150.
+Ruben Titos-Gil, Anurag Negi, Manuel E. Acacio, Jose M. Garcia, and Per Stenstrom. 2011. ZEBRA: A data-centric, hybrid-policy hardware transactional memory design. In ICS’11. 53--62.
+Sasa Tomic, Cristian Perfumo, Chinmay Kulkarni, Adria Armejach, Adrian Cristal, Osman Unsal, Tim Harris, and Mateo Valero. 2009. EazyHTM: Eager-lazy hardware transactional memory. In MICRO-42. 145--155.
+Steven Cameron Woo, Moriyoshi Ohara, Evan Torrie, Jaswinder Pal Singh, and Anoop Gupta. 1995. The SPLASH-2 Programs: Characterization and methodological considerations. In ISCA 22. 24--36.
+Luke Yen, Jayaram Bobba, Michael R. Marty, Kevin E. Moore, Haris Volos, Mark D. Hill, Michael M. Swift, and David A. Wood. 2007. LogTM-SE: Decoupling hardware transactional memory from caches. In HPCA’13. 261--272.
+Richard M. Yoo and Hsien-Hsin S. Lee. 2008. Adaptive transaction scheduling for transactional memory systems. In SPAA’08. 169--178.

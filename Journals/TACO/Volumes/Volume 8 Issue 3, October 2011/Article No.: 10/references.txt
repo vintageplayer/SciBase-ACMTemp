@@ -1,0 +1,39 @@
+A. Agarwal , J. Hennessy , M. Horowitz, An analytical cache model, ACM Transactions on Computer Systems (TOCS), v.7 n.2, p.184-215, May 1989[doi>10.1145/63404.63407]
+Jean-Loup Baer , Tien-Fu Chen, An effective on-chip preloading scheme to reduce data access penalty, Proceedings of the 1991 ACM/IEEE conference on Supercomputing, p.176-186, November 18-22, 1991, Albuquerque, New Mexico, USA[doi>10.1145/125826.125932]
+Samson Belayneh , David R. Kaeli, A discussion on non-blocking/lockup-free caches, ACM SIGARCH Computer Architecture News, v.24 n.3, p.18-25, June 1 1996[doi>10.1145/381718.381727]
+Boggs, D., Baktha, A., Hawkins, J., Marr, D. T., Miller, J. A., Roussel, P., Singhal, R., Toll, B., and Venkatraman, K. 2004. The microarchitecture of the Intel Pentium 4 processor on 90mm technology. Intel Technol. J. 8, 1.
+Doug Burger , Todd M. Austin, The SimpleScalar tool set, version 2.0, ACM SIGARCH Computer Architecture News, v.25 n.3, p.13-25, June 1997[doi>10.1145/268806.268810]
+Martin Christopher Carlisle, Olden: parallelizing programs with dynamic data structures on distributed-memory machines, Princeton University, Princeton, NJ, 1996
+Xi E. Chen , Tor M. Aamodt, Hybrid analytical modeling of pending cache hits, data prefetching, and MSHRs, Proceedings of the 41st annual IEEE/ACM International Symposium on Microarchitecture, p.59-70, November 08-12, 2008[doi>10.1109/MICRO.2008.4771779]
+Chen, X. E. and Aamodt, T. M. 2008b. An improved analytical superscalar microprocessor memory model. In Proceedings of the 4th Workshop on Modeling, Benchmarking and Simulation 7--16.
+C. K. Chow, On optimization of storage hierarchies, IBM Journal of Research and Development, v.18 n.3, p.194-203, May 1974[doi>10.1147/rd.183.0194]
+Adrián Cristal , Oliverio J. Santana , Mateo Valero , José F. Martínez, Toward kilo-instruction processors, ACM Transactions on Architecture and Code Optimization (TACO), v.1 n.4, p.389-417, December 2004[doi>10.1145/1044823.1044825]
+Eeckhout, L. 2008. Personal communication.
+Joel Emer , Pritpal Ahuja , Eric Borch , Artur Klauser , Chi-Keung Luk , Srilatha Manne , Shubhendu S. Mukherjee , Harish Patil , Steven Wallace , Nathan Binkert , Roger Espasa , Toni Juan, Asim: A Performance Model Framework, Computer, v.35 n.2, p.68-76, February 2002[doi>10.1109/2.982918]
+Eyerman, S. 2008. Analytical performance analysis and modeling of superscalar and multithreaded processors. Ph.D. thesis, Ghent.
+Stijn Eyerman , Lieven Eeckhout , Tejas Karkhanis , James E. Smith, A performance counter architecture for computing accurate CPI components, Proceedings of the 12th international conference on Architectural support for programming languages and operating systems, October 21-25, 2006, San Jose, California, USA[doi>10.1145/1168857.1168880]
+K. I. Farkas , N. P. Jouppi , P. Chow, How Useful Are Non-Blocking Loads, Stream Buffers and Speculative Execution in Multiple Issue Processors?, Proceedings of the 1st IEEE Symposium on High-Performance Computer Architecture, p.78, January 22-25, 1995
+Gindele, J. D. 1977. Buffer block prefetching method. IBM Techn. Disclo. Bull. 20, 2, 696--697.
+Hinton, G., Sager, D., Upton, M., Boggs, D., Carmean, D., Kyker, A., and Roussel, P. 2001. The microarchitecture of the Pentium 4 processor. Intel Techn. J. 5, 1.
+Bruce L. Jacob , Peter M. Chen , Seth R. Silverman , Trevor N. Mudge, An Analytical Model for Designing Memory Hierarchies, IEEE Transactions on Computers, v.45 n.10, p.1180-1194, October 1996[doi>10.1109/12.543711]
+Norman P. Jouppi, Improving direct-mapped cache performance by the addition of a small fully-associative cache and prefetch buffers, Proceedings of the 17th annual international symposium on Computer Architecture, p.364-373, May 28-31, 1990, Seattle, Washington, USA[doi>10.1145/325164.325162]
+Tejas Karkhanis , James E. Smith, Automated design of application-specific superscalar processors, University of Wisconsin at Madison, Madison, WI, 2006
+Tejas S. Karkhanis , James E. Smith, A First-Order Superscalar Processor Model, Proceedings of the 31st annual international symposium on Computer architecture, p.338, June 19-23, 2004, München, Germany
+Tejas S. Karkhanis , James E. Smith, Automated design of application specific superscalar processors: an analytical approach, Proceedings of the 34th annual international symposium on Computer architecture, June 09-13, 2007, San Diego, California, USA[doi>10.1145/1250662.1250712]
+Karkhanis, T. S. 2008. Personal Communication.
+David Kroft, Lockup-free instruction fetch/prefetch cache organization, Proceedings of the 8th annual symposium on Computer Architecture, p.81-87, May 12-14, 1981, Minneapolis, Minnesota, USA
+J. E. MacDonald , K. L. Sigworth, Storage hierarchy optimization procedure, IBM Journal of Research and Development, v.19 n.2, p.133-140, March 1975[doi>10.1147/rd.192.0133]
+Pierre Michaud , Andre Seznec , Stephan Jourdan, Exploring Instruction-Fetch Bandwidth Requirement in Wide-Issue Superscalar Processors, Proceedings of the 1999 International Conference on Parallel Architectures and Compilation Techniques, p.2, October 12-16, 1999
+Pierre Michaud , André Seznec , Stéphan Jourdan, An exploration of instruction fetch requirement in out-of-order superscalar processors, International Journal of Parallel Programming, v.29 n.1, p.35-58, 2001[doi>10.1023/A:1026431920605]
+Micron Technology, Inc. 2Gb DDR2 SDRAM Component : MT47H128MI6HG-25. http://download.micron. com/pdf/datasheets/dram/ddr2/2gbddr2.pdf.
+Derek B. Noonburg , John P. Shen, Theoretical modeling of superscalar processor performance, Proceedings of the 27th annual international symposium on Microarchitecture, p.52-62, November 30-December 02, 1994, San Jose, California, USA[doi>10.1145/192724.192730]
+Derek B. Noonburg , John Paul Shen, A Framework for Statistical Modeling of Superscalar Processor Performance, Proceedings of the 3rd IEEE Symposium on High-Performance Computer Architecture, p.298, February 01-05, 1997
+David James Ofelt , John L. Hennessy, Efficient performance prediction for modern microprocessors, Stanford University, Stanford, CA, 1999
+Timothy Sherwood , Erez Perelman , Greg Hamerly , Brad Calder, Automatically characterizing large scale program behavior, Proceedings of the 10th international conference on Architectural support for programming languages and operating systems, October 05-09, 2002, San Jose, California[doi>10.1145/605397.605403]
+Alan Jay Smith, Cache Memories, ACM Computing Surveys (CSUR), v.14 n.3, p.473-530, Sept. 1982[doi>10.1145/356887.356892]
+Standard Performance Evaluation Corporation. SPEC CPU2000 benchmarks. http://www.spec.org.
+James Tuck , Luis Ceze , Josep Torrellas, Scalable Cache Miss Handling for High Memory-Level Parallelism, Proceedings of the 39th Annual IEEE/ACM International Symposium on Microarchitecture, p.409-422, December 09-13, 2006[doi>10.1109/MICRO.2006.44]
+Manish Vachharajani , Neil Vachharajani , David A. Penry , Jason A. Blome , David I. August, Microarchitectural exploration with Liberty, Proceedings of the 35th annual ACM/IEEE international symposium on Microarchitecture, November 18-22, 2002, Istanbul, Turkey
+Roland E. Wunderlich , Thomas F. Wenisch , Babak Falsafi , James C. Hoe, SMARTS: accelerating microarchitecture simulation via rigorous statistical sampling, Proceedings of the 30th annual international symposium on Computer architecture, June 09-11, 2003, San Diego, California[doi>10.1145/859618.859629]
+Joshua J. Yi , Lieven Eeckhout , David J. Lilja , Brad Calder , Lizy K. John , James E. Smith, The Future of Simulation: A Field of Dreams, Computer, v.39 n.11, p.22-29, November 2006[doi>10.1109/MC.2006.404]
+Craig B. Zilles, Benchmark health considered harmful, ACM SIGARCH Computer Architecture News, v.29 n.3, p.4-5, June 2001[doi>10.1145/503205.503206]

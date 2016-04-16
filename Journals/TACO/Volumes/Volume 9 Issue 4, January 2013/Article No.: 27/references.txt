@@ -1,0 +1,27 @@
+Hagit Attiya , Rachid Guerraoui , Danny Hendler , Petr Kuznetsov , Maged M. Michael , Martin Vechev, Laws of order: expensive synchronization in concurrent algorithms cannot be eliminated, ACM SIGPLAN Notices, v.46 n.1, January 2011[doi>10.1145/1925844.1926442]
+David F. Bacon , Ravi Konuru , Chet Murthy , Mauricio Serrano, Thin locks: featherweight synchronization for Java, ACM SIGPLAN Notices, v.33 n.5, p.258-268, May 1998[doi>10.1145/277652.277734]
+Burrows, M. 2004. How to implement unnecessary mutexes. In Computer Systems, A. Herbert, K. S. Jones, D. Gries, and F. Schneider, Eds. Texts and Monographs in Computer Science. Springer, New York, 51--57.
+Dice, Moir, and Scherer. 2003. Quickly reacquirable locks. Tech. rep., Sun Microsystems.
+Dice, D., Huang, H., and Yang, M. 2001. Asymmetric Dekker synchronization. Tech. rep., Sun Microsystems.
+Dijkstra, E. 1968. Programming Languages. Academic Press, London, Chapter Cooperating sequential processes.
+Franke, H., Russell, R., and Kirwood, M. 2002. Fuss, futexes and furwocks: Fast userlevel locking in Linux. In Ottawa Linux Symposium Proceedings. 479--495.
+H. Franke , J. Xenidis , C. Basso , B. M. Bass , S. S. Woodward , J. D. Brown , C. L. Johnson, Introduction to the wire-speed processor and architecture, IBM Journal of Research and Development, v.54 n.1, p.27-37, January 2010[doi>10.1147/JRD.2009.2036980]
+Matteo Frigo , Charles E. Leiserson , Keith H. Randall, The implementation of the Cilk-5 multithreaded language, Proceedings of the ACM SIGPLAN 1998 conference on Programming language design and implementation, p.212-223, June 17-19, 1998, Montreal, Quebec, Canada[doi>10.1145/277650.277725]
+Kourosh Gharachorloo, Memory Consistency Models for Shared-Memory Multiprocessors, Stanford University, Stanford, CA, 1995
+Golander, A., Greco, N., Xenidis, J., Hyland, M., Purcell, B., and Bernstein, D. 2010. IBM's PowerEN developer cloud: Fertile ground for academic research. In Proceeding of the IEEE 26th Convention of Electrical and Electronics Engineers in Israel (IEEEI). 000803 --000807.
+Tim Harris , Martin Abadi , Rebecca Isaacs , Ross McIlroy, AC: composable asynchronous IO for native languages, Proceedings of the 2011 ACM international conference on Object oriented programming systems languages and applications, October 22-27, 2011, Portland, Oregon, USA[doi>10.1145/2048066.2048134]
+Danny Hendler , Itai Incze , Nir Shavit , Moran Tzafrir, Flat combining and the synchronization-parallelism tradeoff, Proceedings of the 22nd ACM symposium on Parallelism in algorithms and architectures, June 13-15, 2010, Thira, Santorini, Greece[doi>10.1145/1810479.1810540]
+Intel. 2006. Supra-Linear packet processing performance with multi-core processors. http://download.intel.com/technology/advanced-comm/31156601.pdf
+Kiyokuni Kawachiya , Akira Koseki , Tamiya Onodera, Lock reservation: Java locks can mostly do without atomic operations, ACM SIGPLAN Notices, v.37 n.11, November 2002[doi>10.1145/583854.582433]
+Clyde P. Kruskal , Larry Rudolph , Marc Snir, Efficient synchronization of multiprocessors with shared memory, ACM Transactions on Programming Languages and Systems (TOPLAS), v.10 n.4, p.579-601, Oct. 1988[doi>10.1145/48022.48024]
+Jean-Pierre Lozi , Florian David , Gaël Thomas , Julia Lawall , Gilles Muller, Remote core locking: migrating critical-section execution to improve the performance of multithreaded applications, Proceedings of the 2012 USENIX conference on Annual Technical Conference, p.6-6, June 13-15, 2012, Boston, MA
+McKenney, P. E. 2005. Memory ordering in modern microprocessors. Linux J. 30, 52--57.
+John M. Mellor-Crummey , Michael L. Scott, Algorithms for scalable synchronization on shared-memory multiprocessors, ACM Transactions on Computer Systems (TOCS), v.9 n.1, p.21-65, Feb. 1991[doi>10.1145/103727.103729]
+B. Mukherjee , L. T. Heberlein , K. N. Levitt, Network intrusion detection, IEEE Network: The Magazine of Global Internetworking, v.8 n.3, p.26-41, May 1994[doi>10.1109/65.283931]
+Onodera, T., Kawachiya, K., and Koseki, A. 2004. Lock reservation for Java reconsidered. In Proceedings of the European Conference on Object-Oriented Programming. Springer, 559--583.
+OPRA. 2011. Options price reporting authority website. http://www.opradata.com/specs/participant-interfacespecification.pdf
+Kenneth Russell , David Detlefs, Eliminating synchronization-related atomic operations with biased locking and bulk rebiasing, ACM SIGPLAN Notices, v.41 n.10, October 2006[doi>10.1145/1167515.1167496]
+Ori Shalev , Nir Shavit, Predictive log-synchronization, Proceedings of the 1st ACM SIGOPS/EuroSys European Conference on Computer Systems 2006, April 18-21, 2006, Leuven, Belgium[doi>10.1145/1217935.1217965]
+Nalini Vasudevan , Kedar S. Namjoshi , Stephen A. Edwards, Simple and fast biased locks, Proceedings of the 19th international conference on Parallel architectures and compilation techniques, September 11-15, 2010, Vienna, Austria[doi>10.1145/1854273.1854287]
+Weaver, D. L. and Germond, T. 1992. The SPARC architecture manual. http://www.sparc.com/standards/SPARCV9.pdf
+Benjamin Wun , Patrick Crowley , Arun Raghunth, Parallelization of Snort on a multi-core platform, Proceedings of the 5th ACM/IEEE Symposium on Architectures for Networking and Communications Systems, October 19-20, 2009, Princeton, New Jersey[doi>10.1145/1882486.1882528]

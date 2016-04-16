@@ -1,0 +1,59 @@
+Alfred V. Aho , Monica S. Lam , Ravi Sethi , Jeffrey D. Ullman, Compilers: Principles, Techniques, and Tools (2nd Edition), Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 2006
+Altman, E. R., Ebcioğlu, K., Gschwin, M., and Sathaye, S. 2001. Advances and future challenges in binary translation and optimization. Proc. IEEE 89, 11, 1710--1722.
+Erik R. Altman , David Kaeli , Yaron Sheffer, Guest Editors' Introduction: Welcome to the Opportunities of Binary Translation, Computer, v.33 n.3, p.40-45, March 2000[doi>10.1109/2.825694]
+Kristy Andrews , Duane Sand, Migrating a CISC computer family onto RISC via object code translation, Proceedings of the fifth international conference on Architectural support for programming languages and operating systems, p.213-222, October 12-15, 1992, Boston, Massachusetts, USA[doi>10.1145/143365.143520]
+Todd Austin , Eric Larson , Dan Ernst, SimpleScalar: An Infrastructure for Computer System Modeling, Computer, v.35 n.2, p.59-67, February 2002[doi>10.1109/2.982917]
+John Aycock, A brief history of just-in-time, ACM Computing Surveys (CSUR), v.35 n.2, p.97-113, June 2003[doi>10.1145/857076.857077]
+J. D. Bagley, Special Feature: Microprogrammable Virtual Machines, Computer, v.9 n.2, p.38-42, February 1976[doi>10.1109/C-M.1976.218504]
+Bala, V., Duesterwald, E., and Banerjia, S. 1999. Transparent dynamic optimization: The design and implementation of dynamo. Tech. rep. HPL-1999-78, HP Laboratories.
+Vasanth Bala , Evelyn Duesterwald , Sanjeev Banerjia, Dynamo: a transparent dynamic optimization system, Proceedings of the ACM SIGPLAN 2000 conference on Programming language design and implementation, p.1-12, June 18-21, 2000, Vancouver, British Columbia, Canada[doi>10.1145/349299.349303]
+Bedichek, R. 1990. Some efficient architecture simulation techniques. In Proceedings of the Winter USENIX Conference. 53--63.
+Bergh, A. B., Keilman, K., Magenheimer, D. J., and Miller, J. A. 1987. HP 3000 emulation on HP precision architecture computers. Hewlett-Packard J. 87--89.
+Sanjay Bhansali , Wen-Ke Chen , Stuart de Jong , Andrew Edwards , Ron Murray , Milenko Drinić , Darek Mihočka , Joe Chau, Framework for instruction-level tracing and analysis of program executions, Proceedings of the 2nd international conference on Virtual execution environments, June 14-16, 2006, Ottawa, Ontario, Canada[doi>10.1145/1134760.1220164]
+Anton Chernoff , Mark Herdeg , Ray Hookway , Chris Reeve , Norman Rubin , Tony Tye , S. Bharadwaj Yadavalli , John Yates, FX!32: A Profile-Directed Binary Translator, IEEE Micro, v.18 n.2, p.56-64, March 1998[doi>10.1109/40.671403]
+Cristina Cifuentes , Mike Van Emmerik, UQBT: Adaptable Binary Translation at Low Cost, Computer, v.33 n.3, p.60-66, March 2000[doi>10.1109/2.825697]
+Cristina Cifuentes , Vishv M. Malhotra, Binary Translation: Static, Dynamic, Retargetable?, Proceedings of the 1996 International Conference on Software Maintenance, p.340-349, November 04-08, 1996
+Bob Cmelik , David Keppel, Shade: a fast instruction-set simulator for execution profiling, Proceedings of the 1994 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.128-137, May 16-20, 1994, Nashville, Tennessee, USA[doi>10.1145/183018.183032]
+B. H. Cogswell , Z. Segall, Timing insensitive binary-to-binary migration across multiprocessor architectures, Proceedings of the 3rd Workshop on Parallel and Distributed Real-Time Systems, p.193, April 25-25, 1995
+Timothy Cramer , Richard Friedman , Terrence Miller , David Seberger , Robert Wilson , Mario Wolczko, Compiling Java Just in Time, IEEE Micro, v.17 n.3, p.36-43, May 1997[doi>10.1109/40.591653]
+R. J. Creasy, The origin of the VM/370 time-sharing system, IBM Journal of Research and Development, v.25 n.5, p.483-490, September 1981[doi>10.1147/rd.255.0483]
+James C. Dehnert , Brian K. Grant , John P. Banning , Richard Johnson , Thomas Kistler , Alexander Klaiber , Jim Mattson, The Transmeta Code Morphing™ Software: using speculation, recovery, and adaptive retranslation to address real-life challenges, Proceedings of the international symposium on Code generation and optimization: feedback-directed and runtime optimization, March 23-26, 2003, San Francisco, California
+Giuseppe Desoli , Nikolay Mateev , Evelyn Duesterwald , Paolo Faraboschi , Joseph A. Fisher, DELI: a new run-time control point, Proceedings of the 35th annual ACM/IEEE international symposium on Microarchitecture, November 18-22, 2002, Istanbul, Turkey
+Digital. 1995. Freeport express. http://www.novalink.com/freeport-express/.
+Kemal Ebcioglu , Erik Altman , Michael Gschwind , Sumedh Sathaye, Dynamic Binary Translation and Optimization, IEEE Transactions on Computers, v.50 n.6, p.529-548, June 2001[doi>10.1109/12.931892]
+Kemal Ebcioğlu , Erik R. Altman, DAISY: dynamic compilation for 100% architectural compatibility, Proceedings of the 24th annual international symposium on Computer architecture, p.26-37, June 01-04, 1997, Denver, Colorado, USA[doi>10.1145/264107.264126]
+Emmerik, M. J. V. 2007. Static single assignment for decompilation. Ph.D. thesis, The University of Queensland.
+GCC. The GNU compiler collection. http://gcc.gnu.org/.
+GNU. GNU binary utilities (GNU binutils). http://www.gnu.org/software/binutils/.
+Michael Gschwind , Erik R. Altman , Sumedh Sathaye , Paul Ledak , David Appenzeller, Dynamic and Transparent Binary Translation, Computer, v.33 n.3, p.54-59, March 2000[doi>10.1109/2.825696]
+Stephen Hines , Prasad Kulkarni , David Whalley , Jack Davidson, Using de-optimization to re-optimize code, Proceedings of the 5th ACM international conference on Embedded software, September 18-22, 2005, Jersey City, NJ, USA[doi>10.1145/1086228.1086251]
+Hines, S. R. 2004. Using de-optimization to re-optimize code. M.S. thesis, The Florida State University.
+Barron C. Housel , Maurice H. Halstead, A methodology for machine language decompilation, Proceedings of the 1974 annual conference, p.254-260, January 1974[doi>10.1145/800182.810410]
+Intel Corporation. Intel C++ compiler for linux, i486 platform. http://software.intel.com/en-us/articles/intel-c-compiler-professional-edition-for-linux-documentation/
+Joy Kamunyori, Handling self-modifying code using software dynamic translation, Proceedings of the 2007 conference on Diversity in computing, October 14-17, 2007, Orlando, Florida[doi>10.1145/1347787.1347807]
+Ho-Seop Kim , James E. Smith, Dynamic binary translation for accumulator-oriented architectures, Proceedings of the international symposium on Code generation and optimization: feedback-directed and runtime optimization, March 23-26, 2003, San Francisco, California
+Thomas Kotzmann , Christian Wimmer , Hanspeter Mössenböck , Thomas Rodriguez , Kenneth Russell , David Cox, Design of the Java HotSpot™ client compiler for Java 6, ACM Transactions on Architecture and Code Optimization (TACO), v.5 n.1, p.1-32, May 2008[doi>10.1145/1369396.1370017]
+James R. Larus , Eric Schnarr, EEL: machine-independent executable editing, Proceedings of the ACM SIGPLAN 1995 conference on Programming language design and implementation, p.291-300, June 18-21, 1995, La Jolla, California, USA[doi>10.1145/207110.207163]
+Chunho Lee , Miodrag Potkonjak , William H. Mangione-Smith, MediaBench: a tool for evaluating and synthesizing multimedia and communicatons systems, Proceedings of the 30th annual ACM/IEEE international symposium on Microarchitecture, p.330-335, December 01-03, 1997, Research Triangle Park, North Carolina, USA
+Jianhui Li , Qi Zhang , Shu Xu , Bo Huang, Optimizing Dynamic Binary Translation for SIMD Instructions, Proceedings of the International Symposium on Code Generation and Optimization, p.269-280, March 26-29, 2006[doi>10.1109/CGO.2006.27]
+Lin, T.-Y., Chang, R.-G., and Hwang, Y.-S. 2008. DisIRer. In Proceedings of 14th Workshop on Compiler Techniques for High-Performance Computing.
+Chi-Keung Luk , Robert Cohn , Robert Muth , Harish Patil , Artur Klauser , Geoff Lowney , Steven Wallace , Vijay Janapa Reddi , Kim Hazelwood, Pin: building customized program analysis tools with dynamic instrumentation, Proceedings of the 2005 ACM SIGPLAN conference on Programming language design and implementation, June 12-15, 2005, Chicago, IL, USA[doi>10.1145/1065010.1065034]
+C. May, Mimic: a fast system/370 simulator, Papers of the Symposium on Interpreters and interpretive techniques, p.1-13, June 24-26, 1987, St. Paul, Minnesota, USA[doi>10.1145/29650.29651]
+Microsoft. Phoenix. http://research.microsoft.com/Phoenix/.
+Red Hat Inc. Cygwin. http://www.cygwin.com/.
+Richard L. Sites , Anton Chernoff , Matthew B. Kirk , Maurice P. Marks , Scott G. Robinson, Binary translation, Communications of the ACM, v.36 n.2, p.69-81, Feb. 1993[doi>10.1145/151220.151227]
+Jim Smith , Ravi Nair, Virtual Machines: Versatile Platforms for Systems and Processes (The Morgan Kaufmann Series in Computer Architecture and Design), Morgan Kaufmann Publishers Inc., San Francisco, CA, 2005
+Amitabh Srivastava , Alan Eustace, ATOM: a system for building customized program analysis tools, Proceedings of the ACM SIGPLAN 1994 conference on Programming language design and implementation, p.196-205, June 20-24, 1994, Orlando, Florida, USA[doi>10.1145/178243.178260]
+Srivastava, A. and Wall, D. W. 1992. A practical system for intermodule code optimization at link-time. Tech. rep. WRL-92-6, Digital Western Research Laboratory. December.
+Stallman, R. and the GCC Developer Community. GNU compiler collection internals. http://gcc.gnu.org/onlinedocs/gccint/.
+Toshio Suganuma , Toshiaki Yasue , Motohiro Kawahito , Hideaki Komatsu , Toshio Nakatani, Design and evaluation of dynamic optimizations for a Java just-in-time compiler, ACM Transactions on Programming Languages and Systems (TOPLAS), v.27 n.4, p.732-785, July 2005[doi>10.1145/1075382.1075386]
+Thompson, T. 1996. An Alpha in PC clothing. In Byte. 195--196.
+TIS. 1995. Tool interface standard (TIS) executable and linking format (ELF) specification, version 1.2. http://refspecs.freestandards.org/elf/elf.pdf
+Tröger, J. 2005. Specification-driven dynamic binary translation. Ph.D. thesis, Queensland University of Technology.
+David Ung , Cristina Cifuentes, Machine-adaptable dynamic binary translation, Proceedings of the ACM SIGPLAN workshop on Dynamic and adaptive compilation and optimization, p.41-51, January 2000[doi>10.1145/351397.351414]
+Stephen J. Vaughan-Nichols, New Approach to Virtualization Is a Lightweight, Computer, v.39 n.11, p.12-14, November 2006[doi>10.1109/MC.2006.393]
+Emmett Witchel , Mendel Rosenblum, Embra: fast and flexible machine simulation, Proceedings of the 1996 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.68-79, May 23-26, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/233013.233025]
+Byung-Sun Yang , Soo-Mook Moon , Seongbae Park , Junpyo Lee , SeungIl Lee , Jinpyo Park , Yoo C. Chung , Suhyun Kim , Kemal Ebcioglu , Erik Altman, LaTTe: A Java VM Just-in-Time Compiler with Fast and Efficient Register Allocation, Proceedings of the 1999 International Conference on Parallel Architectures and Compilation Techniques, p.128, October 12-16, 1999
+Kun Zhang , Tao Zhang , Santosh Pande, Binary translation to improve energy efficiency through post-pass register re-allocation, Proceedings of the 4th ACM international conference on Embedded software, September 27-29, 2004, Pisa, Italy[doi>10.1145/1017753.1017769]
+Cindy Zheng , Carol Thompson, PA-RISC to IA-64: Transparent Execution, No Recompilation, Computer, v.33 n.3, p.47-52, March 2000[doi>10.1109/2.825695]
+Zivojnović, V., Velarde, J. M., Schläger, C., and Meyr, H. 1994. DSPstone: A DSP-oriented benchmarking methodology. In Proceedings of the International Conference on Signal Processing Applications and Technology.

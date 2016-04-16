@@ -1,0 +1,43 @@
+ACE. 2012. CoSy Compiler Development System. Retrieved from http://www.ace.nl/compiler/cosy.html.
+Aeroflex. 2003. TSIM2 ERC32/LEON Simulator. Retrieved from http://www.gaisler.com/index.php/products/simulators/tsim.
+Aeroflex. 2005. LEON3 Processor. Retrieved from http://www.gaisler.com/index.php/products/processors/leon3.
+F. Agakov, E. Bonilla, J. Cavazos, B. Franke, G. Fursin, M. F. P. O'Boyle, J. Thomson, M. Toussaint, and C. K. I. Williams. 2006. Using machine learning to focus iterative optimization. In Proc. of the Int. Symp. on Code Generation and Optimization (CGO’06). 295--305.
+L. Almagor, K. D. Cooper, A. Grosul, T. J. Harvey, S. W. Reeves, D. Subramanian, L. Torczon, and T. Waterman. 2004. Finding effective compilation sequences. In Proc. of the ACM Conf. on Languages, Compilers, and Tools for Embedded Systems (LCTES’04), Vol. 39. 231--239.
+A. H. Ashouri, G. Mariani, G. Palermo, and C. Silvano. 2014. A Bayesian network approach for compiler auto-tuning for embedded processors. In IEEE 12th Symp. on Embedded Systems for Real-time Multimedia (ESTIMedia’14). 90--97.
+J. M. P. Cardoso, P. C. Diniz, J. G. F. Coutinho, and Z. M. Petrov (Eds.). 2013. Compilation and Synthesis for Embedded Reconfigurable Systems: An Aspect-Oriented Approach. Springer.
+J. M. P. Cardoso, T. Carvalho, J. G. F. Coutinho, W. Luk, R. Nobre, P. Diniz, and Z. M. Petrov. 2012. LARA: An aspect-oriented programming language for embedded systems. In Proc. of the 11th ACM Int. Conf. on Aspect-Oriented Software Development (AOSD’12). 179--190.
+J. Cavazos and M. F. P. O’Boyle. 2006. Method-specific dynamic compilation using logistic regression. In Proc. of the ACM Int. Conf. on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA’06). 229--240.
+Y. Chen, S. Fang, Y. Huang, L. Eeckhout, G. Fursin, O. Temam, and C. Wu. 2012. Deconstructing iterative optimization. ACM Trans. Archit. Code Optim. 9, 3 (2012), 21:1--21:30.
+A. R. Cilibrasi and A. P. Vitanyi. 2005. Clustering by compression. In Proc. of the IEEE Trans. Information Theory (AOSD’12), Vol. 51. 1523--1545.
+A. R. Cilibrasi, A. L. Cruz, S. de Rooij, and M. Keijzer. 2008. CompLearn Toolkit. Retrieved from http://www.complearn.org/.
+K. D. Cooper, P. J. Schielke, and D. Subramanian. 1999. Optimizing for reduced code space using genetic algorithms. In Proc. of the ACM Workshop on Languages, Compilers, and Tools for Embedded Systems (LCTES’99). 1--9.
+K. D. Cooper, A. Grosul, T. J. Harvey, S. Reeves, D. Subramanian, L. Torczon, and T. Waterman. 2006. Exploring the structure of the space of compilation sequences using randomized search algorithms. J. Supercomput. 36, 2 (2006), 135--151.
+J. Felsenstein. 2003. Inferring Phylogenies. Sinauer Associates.
+G. Fursin, Y. Kashnikov, A. Memon, Z. Chamski, O. Temam, M. Namolaru, E. Yom-Tov, B. Mendelson, A. Zaks, E. Courtois, F. Bodin, P. Barnard, E. Ashton, E. Bonilla, J. Thomson, C. Williams, and M. O’Boyle. 2011. Milepost GCC: Machine learning enabled self-tuning compiler. Int. J. Parallel Program. 39, 3 (2011), 296--327.
+D. E. Goldberg. 1989. Genetic Algorithms in Search, Optimization and Machine Learning. Addison-Wesley Longman.
+M. R. Guthaus, J. S. Ringenberg, D. Ernst, T. M. Austin, T. Mudge, and R. B. Brown. 2001. MiBench: A free, commercially representative embedded benchmark suite. In Proc. of the IEEE Int. Workshop of the Workload Characterization (WWC’01). 3--14.
+M. Haneda, P. M. W. Knijnenburg, and H. A. G. Wijshoff. 2005. Optimizing general purpose compiler optimization. In Proc. of the 2nd Conf. on Computing Frontiers (CF’05). 180--188.
+K. Hoste and L. Eeckhout. 2008. Cole: Compiler optimization level exploration. In Proc. of the 6th Int. Symp. on Code Generation and Optimization (CGO’08). 165--174.
+Q. Huang, R. Lian, A. Canis, J. Choi, R. Xi, S. Brown, and J. Anderson. 2013. The effect of compiler optimizations on high-level synthesis for FPGAs. In Proc. of the IEEE Int. Symp. on Field-Programmable Custom Computing Machines (FCCM’13). 89--96.
+M. R. Jantz and P. A. Kulkarni. 2013. Exploiting phase inter-dependencies for faster iterative compiler optimization phase order searches. In Proc. of the Conf. on Compilers, Archit. and Synthesis for Embedded Systems (CASES’13). 7:1--7:10.
+P. A. Kulkarni, M. R. Jantz, and D. B. Whalley. 2010. Improving both the performance benefits and speed of optimization phase sequence searches. In Proc. of the ACM Conf. on Lang., Comp., and Tools for Emb. Syst. (LCTES’10). 95--104.
+P. A. Kulkarni, D. B. Whalley, and G. S. Tyson. 2007. Evaluating heuristic optimization phase order search algorithms. In Proc. of the IEEE Int. Symp. on Code Generation and Optimization (CGO’07). 157--169.
+S. Kulkarni and J. Cavazos. 2012. Mitigating the compiler optimization phase-ordering problem using machine learning. In Proc. of the ACM Conf. on Object Oriented Programming Systems Lang. and Applications (OOPSLA’12). 147--162.
+P. A. Kulkarni, D. B. Whalley, G. S. Tyson, and J. W. Davidson. 2009. Practical exhaustive optimization phase order exploration and evaluation. ACM Trans. Architect. Code Optim. 6, 1 (April 2009), 1:1--1:36.
+C. Lattner and V. Adve. 2004. LLVM: A compilation framework for lifelong program analysis & transformation. In Proc. of the Int. Symp. on Code Generation and Optimization (CGO’’04). 75.
+C. G. Lee. 2002. UTDSP benchmark suite. (2002). http://www.eecg.toronto.edu/∼corinna/DSP/infrastructure/UTDSP.tar.gz.
+M. Li and P. M. B. Vitanyi. 1997. An Introduction to Kolmogorov Complexity and Its Applications (2nd ed.). Springer-Verlag.
+L. G. A. Martins, R. Nobre, A. C. B. Delbem, E. Marques, and J. M. P. Cardoso. 2014a. A clustering-based approach for exploring sequences of compiler optimizations. In Proc. of the IEEE Congress on Evolutionary Computation (CEC’14). 1--8.
+L. G. A. Martins, R. Nobre, A. C. B. Delbem, E. Marques, and J. M. P. Cardoso. 2014b. Exploration of compiler optimization sequences using clustering-based selection. In Proc. of the ACM Conf. on Languages, Compilers, and Tools for Embedded Systems (LCTES’14). 63--72.
+M. Newman. 2010. Networks: An Introduction. Oxford University Press.
+Z. Pan and R. Eigenmann. 2008. PEAK: A fast and effective performance tuning system via compiler optimization orchestration. ACM Trans. Program. Lang. Syst. 30, 3 (2008), 1--17.
+S. Purini and L. Jain. 2013. Finding good optimization sequences covering program space. ACM Trans. Architect. Code Optim. 9, 4 (January 2013), 56:1--56:23.
+C. K. Roy, J. R. Cordy, and R. Koschke. 2009. Comparison and evaluation of code clone detection techniques and tools: A qualitative approach. Sci. Comput. Program. 74, 7 (May 2009), 470--495.
+A. Sanches and J. M. P. Cardoso. 2010. On identifying patterns in code repositories to assist the generation of hardware templates. In Proc. of the 20th Int. Conf. on Field Programmable Logic and Applications (FPL’10). 267--270.
+A. Sanches, J. M. P. Cardoso, and A. C. B. Delbem. 2011. Identifying merge-beneficial software kernels for hardware implementation. In Proc. of the Int. conf. on Reconfigurable Computing and FPGAs (ReConFig’11). 74--79.
+R. Sanchez, J. Amaral, D. Szafron, M. Pirvu, and M. Stoodley. 2011. Using machines to learn method-specific compilation strategies. In Proc. of the Int. Symp. on Code Generation and Optimization (CGO’11). 257--266.
+Texas Instruments. 2003a. TMS320C64x DSP Library: Programmer’s Reference. (2003).
+Texas Instruments. 2003b. TMS320C64x Image/Video Processing Library. (2003).
+M. P. J. van der Loo. 2014. The stringdist package for approximate string matching. The R Journal 6 (2014), 111--122.
+T. Wheeler and J. Kececioglu. 2007. Multiple alignment by aligning alignments. In Proc. of the 15th ISCB Conf. on Intelligent Systems for Molecular Biology, Bioinformatics, Vol. 23. i559--i568.
+E. Zitzler, M. Laumanns, and L. Thiele. 2001. SPEA2: Improving the Strength Pareto Evolutionary Algorithm. Computer Engineering and Networks Lab Technical Report TR-200. Swiss Federal Institute of Technology, Cambridge, MA.
