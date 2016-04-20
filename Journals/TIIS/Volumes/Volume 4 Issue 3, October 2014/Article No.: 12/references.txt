@@ -1,0 +1,67 @@
+N. Alon and J. H. Spencer. 2004. The Probabilistic Method. John Wiley & Sons.
+B. D. Argall, S. Chernova, M. Veloso, and B. Browning. 2009. A survey of robot learning from demonstration. Robotics and Autonomous Systems 57, 5, 469--483.
+P. Auer. 2003. Using confidence bounds for exploitation-exploration trade-offs. Journal of Machine Learning Research 3, 397--422.
+K. S. Azoury and M. K. Warmuth. 2001. Relative loss bounds for on-line density estimation with the exponential family of distributions. Journal of Machine Learning Research 43, 3, 211--246.
+K. Azuma. 1967. Weighted sums of certain dependent random variables. Tohoku Mathematical Journal 19, 3, 357--367.
+L. Bottou. 1999. On-line learning and stochastic approximations. In On-Line Learning in Neural Networks. Cambridge University Press, New York, NY, 9--42.
+L. Bottou and O. Bousquet. 2007. The tradeoffs of large scale learning. In Advances in Neural Information Processing Systems (NIPS). MIT Press, 161--168.
+L. Bottou and Y. LeCun. 2004. Large scale online learning. In Advances in Neural Information Processing Systems (NIPS), Vol. 16. MIT Press.
+R. I. Brafman and M. Tennenholtz. 2003. R-max—a general polynomial time algorithm for near-optimal reinforcement learning. Journal of Machine Learning Research 3, 213--231.
+N. Cesa-Bianchi, A. Conconi, and C. Gentile. 2005. A second-order perceptron algorithm. SIAM Journal on Computing 34, 3, 640--668.
+N. Cesa-Bianchi, C. Gentile, and F. Orabona. 2009. Robust bounds for classification via selective sampling. In Proceedings of the International Conference on Machine Learning (ICML’09). ACM, New York, NY, 121--128.
+N. Cesa-Bianchi, C. Gentile, and L. Zaniboni. 2006. Incremental algorithms for hierarchical classification. Journal of Machine Learning Research 7, 31--54.
+N. Cesa-Bianchi and G. Lugosi. 2006. Prediction, Learning, and Games. Cambridge University Press, Cambridge, UK.
+C. C. Chang and C. J. Lin. 2011. LIBSVM: A library for support vector machines. ACM Transactions on Intelligent Systems and Technology 2, 3, 27:1--27:27. Software available at http://www.csie.ntu.edu.tw/∼cjlin/libsvm.
+A. Chaudhary, J. L. Raheja, K. Das, and S. Raheja. 2011. Intelligent approaches to interact with machines using hand gesture recognition in natural way: A survey. International Journal of Computer Science and Engineering Survey 2, 1, 122--133.
+D. Ciresan, U. Meier, L. M. Gambardella, and J. Schmidhuber. 2011a. Convolutional neural network committees for handwritten character classification. In Proceedings of the 2011 International Conference on Document Analysis and Recognition (ICDAR’11). 1250--1254.
+D. Ciresan, U. Meier, J. Masci, L. M. Gambardella, and J. Schmidhuber. 2011b. Flexible, high performance convolutional neural networks for image classification. In Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI’11). 1237--1242.
+C. Cortes and V. Vapnik. 1995. Support-vector networks. Machine Learning 20, 3, 273--297.
+K. Crammer, O. Dekel, J. Keshet, S. Shalev-Shwartz, and Y. Singer. 2006. Online passive-aggressive algorithms. Journal of Machine Learning Research 7, 551--585.
+K. Crammer, M. Dredze, and A. Kulesza. 2009a. Multi-class confidence weighted algorithms. In Proceedings of the Conference on Empirical Methods in Natural Language Processing. 496--504.
+K. Crammer, M. Dredze, and F. Pereira. 2012. Confidence-weighted linear classification for text categorization. Journal of Machine Learning Research 13, 1, 1891--1926.
+K. Crammer, M. D. Fern, and O. Pereira. 2008. Exact convex confidence-weighted learning. In Advances in Neural Information Processing Systems (NIPS). 345--352.
+K. Crammer and C. Gentile. 2011. Multiclass classification with bandit feedback using adaptive regularization. In Proceedings of the International Conference on Machine Learning (ICML’11). 273--280.
+K. Crammer, A. Kulesza, and M. Dredze. 2009b. Adaptive regularization of weight vectors. In Advances in Neural Information Processing Systems (NIPS), Vol. 22, 414--422.
+K. Crammer, A. Kulesza, and M. Dredze. 2013. Adaptive regularization of weight vectors. Machine Learning 91, 2, 155--187.
+C. Cruz, L. E. Sucar, and E. F. Morales. 2008. Real-time face recognition for human-robot interaction. In Proceedings of the IEEE International Conference on Automatic Face Gesture Recognition. 1--6.
+M. Dredze, K. Crammer, and F. Pereira. 2008. Confidence-weighted linear classification. In Proceedings of the International Conference on Machine Learning (ICML’08). ACM, New York, NY, 264--271.
+K. Fukushima. 1980. Neocognitron: A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position. Biological Cybernetics 36, 4, 193--202.
+M. A. Goodrich and A. C. Schultz. 2007. Human-robot interaction: A survey. Foundations and Trends in Human-Computer Interaction 1, 3, 203--275.
+C. Harshith, K. R. Shastry, M. Ravindran, M. V. V. N. S. Srikanth, and N. Lakshmikhanth. 2010. Survey on various gesture recognition techniques for interfacing machines based on ambient intelligence. International Journal of Computer Science and Engineering Survey 1, 2, 31--42.
+K. Judah, S. Roy, A. Fern, and T. G. Dietterich. 2010. Reinforcement learning via practice and critique advice. In Proceedings of the 24th AAAI Conference on Artificial Intelligence. 481--486.
+S. M. Kakade, S. Shalev-Shwartz, and A. Tewari. 2008. Efficient bandit algorithms for online multiclass prediction. In Proceedings of the 25th International Conference on Machine Learning (ICML’08). 440--447.
+P. Kankuekul, A. Kawewong, S. Tangruamsub, and O. Hasegawa. 2012. Online incremental attribute-based zero-shot learning. In Proceedings of the IEEE International Conference on Computer Vision and Pattern Recognition (CVPR’12). 3657--3664.
+A. Kawewong, S. Tangruamsub, P. Kankuekul, and O. Hasegawa. 2011. Fast online incremental transfer learning for unseen object classification using self-organizing incremental neural networks. In Proceedings of the International Joint Conference on Neural Networks (IJCNN’11). 749--756.
+W. B. Knox, A. Setapen, and P. Stone. 2011. Reinforcement learning with human feedback in mountain car. In Proceedings of the AAAI 2011 Spring Symposium: Help Me Help You: Bridging the Gaps in Human-Agent Collaboration. 36--41.
+W. B. Knox and P. Stone. 2009. Interactively shaping agents via human reinforcement: The TAMER framework. In Proceedings of the 5th International Conference on Knowledge Capture (K-CAP’09). 9--16.
+W. B. Knox and P. Stone. 2010a. Combining manual feedback with subsequent MDP reward signals for reinforcement learning. In Proceedings of the 9th International Conference on Autonomous Agents and Multiagent Systems (AAMAS’10). 5--12.
+W. B. Knox and P. Stone. 2010b. Training a Tetris agent via interactive shaping: A demonstration of the TAMER framework. In Proceedings of the 9th International Conference on Autonomous Agents and Multiagent Systems (AAMAS’10). 1767--1768.
+W. B. Knox and P. Stone. 2011. Augmenting reinforcement learning with human feedback. In Proceedings of the 2011 ICML Workshop on New Developments in Imitation Learning.
+W. B. Knox and P. Stone. 2012. Reinforcement learning from simultaneous human and MDP reward. In Proceedings of the 11th International Conference on Autonomous Agents and Multiagent Systems (AAMAS’12). 475--482.
+J. Kober, J. A. Bagnell, and J. Peters. 2013. Reinforcement learning in robotics: A survey. International Journal of Robotics Research 32, 11, 1238--1274.
+S. Kullback. 1959. Statistics and Information Theory. John Wiley & Sons, New York, NY.
+Y. LeCun, L. Bottou, Y. Bengio, and P. Haffner. 1998. Gradient-based learning applied to document recognition. Proceedings of the IEEE 86, 11, 2278--2324.
+N. Littlestone. 1987. Learning quickly when irrelevant attributes abound: A new linear-threshold algorithm. Machine Learning 2, 4, 285--318.
+S. Mitra and T. Acharya. 2007. Gesture recognition: A survey. IEEE Transactions on Systems, Man, and Cybernetics—Part C 43, 3, 311--324.
+B. Moller, S. Posch, A. Haasch, J. Fritsch, and G. Sagerer. 2005. Interactive object learning for robot companions using mosaic images. In Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS’05). 2650--2655.
+J. Nagi, F. Ducatelle, G. A. Di Caro, D. Ciresan, U. Meier, A. Giusti, F. Nagi, J. Schmidhuber, and L. M. Gambardella. 2011. Max-pooling convolutional neural networks for vision-based hand gesture recognition. In Proceedings of the 2011 IEEE International Conference on Signal and Image Processing Applications (ICSIPA’11). 342--347.
+J. Nagi, H. Ngo, A. Giusti, L. M. Gambardella, J. Schmidhuber, and G. A. Di Caro. 2012. Incremental learning using partial feedback for gesture-based human-swarm interaction. In Proceedings of the 21st IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN’12). 898--905.
+H. Ngo, M. Luciw, A. Förster, and J. Schmidhuber. 2012. Learning skills from play: Artificial curiosity on a Katana robot arm. In Proceedings of the International Joint Conference of Neural Networks (IJCNN’12). DOI: http://dx.doi.org/10.1109/IJCNN.2012.6252824
+H. Ngo, M. Luciw, A. Förster, and J. Schmidhuber. 2013a. Confidence-based progress-driven self-generated goals for skill acquisition in developmental robots. Frontiers in Psychology 4, 833.
+H. Ngo, M. Luciw, N. A. Vien, and J. Scmidhuber. 2013b. Upper confidence weighted learning for efficient exploration in multiclass prediction with binary feedback. In Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI’13). 2488--2494.
+F. Orabona and N. Cesa-Bianchi. 2011. Better algorithms for selective sampling. In Proceedings of the International Conference on Machine Learning (ICML’11). 433--440.
+B. Raducanu and J. Vitria. 2007. Online learning for human-robot interaction. In Proceedings of the IEEE International Conference Computer Vision and Pattern Recognition (CVPR’07). 1--7.
+M. A. Ranzato, F. Huang, Y. Boureau, and Y. LeCun. 2007. Unsupervised learning of invariant feature hierarchies with applications to object recognition. In Proceedings of the IEEE International Conference on Computer Vision and Pattern Recognition (CVPR’07). IEEE, Los Alamitos, CA, 1--8.
+M. Riesenhuber and T. Poggio. 1999. Hierarchical models of object recognition in cortex. Nature Neuroscience 2, 11, 1019--1025.
+R. Rifkin and A. Klautau. 2004. In defense of one-vs-all classification. Journal of Machine Learning Research 5, 101--141.
+F. Rosenblatt. 1958. The Perceptron: A probabilistic model for information storage and organization in the brain. Psychological Review 65, 386--408.
+D. Scherer, A. Muller, and S. Behnke. 2010. Evaluation of pooling operations in convolutional architectures for object recognition. In Proceedings of the International Conference on Artificial Neural Networks (ICANN’10). 92--101.
+J. Schmidhuber. 2010. Formal theory of creativity, fun, and intrinsic motivation (1990-2010). IEEE Transactions on Autonomous Mental Development 2, 3, 230--247. DOI: http://dx.doi.org/10.1109/TAMD. 2010.2056368
+J. J. Steil and H. Wersing. 2006. Recent trends in online learning for cognitive robotics. In Proceedings of the 14th European Symposium on Artificial Neural Networks (ESANN’06). 77--87.
+I. Steinwart. 2002. On the influence of the kernel on the consistency of support vector machines. Journal of Machine Learning Research 2, 67--93.
+C. Szepesvári. 2010. Algorithms for reinforcement learning. Synthesis Lectures on Artificial Intelligence and Machine Learning 4, 1, 1--103.
+N. A. Vien and W. Ertel. 2012. Reinforcement learning combined with human feedback in continuous state and action spaces. In Proceedings of the 2012 IEEE International Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob’12). IEEE, Los Alamitos, CA, 1--6.
+N. A. Vien, W. Ertel, and T. C. Chung. 2012. Learning via human feedback in continuous state and action spaces. Applied Intelligence 39, 2, 267--278.
+V. Vovk. 2001. Competitive on-line statistics. International Statistical Review 69, 2, 213--248.
+J. P. Wachs, M. Kölsch, H. Stern, and Y. Edan. 2011. Vision-based hand-gesture applications. Communications of the ACM 54, 2, 60--71.
+J. Wang, P. Zhao, and S. C. Hoi. 2012. Exact soft confidence-weighted learning. In Proceedings of the International Conference on Machine Learning (ICML’12). ACM, New York, NY, 121--128.
