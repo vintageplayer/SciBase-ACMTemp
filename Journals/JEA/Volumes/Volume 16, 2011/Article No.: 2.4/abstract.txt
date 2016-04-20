@@ -1,0 +1,1 @@
+psortis the fastest sorting software according to the PennySort benchmark, sorting 181GB of data in 2008 and 224GB in 2009 for $0.01 of computer time. This article details its internals, and the careful fitting of its architecture to the structure of modern PC-class platforms, allowing it to outperform state-of-the-art sorting software such asSTXXL sort.

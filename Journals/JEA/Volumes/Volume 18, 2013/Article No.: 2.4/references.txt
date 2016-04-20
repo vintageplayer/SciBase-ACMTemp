@@ -1,0 +1,44 @@
+Alfred V. Aho , Margaret J. Corasick, Efficient string matching: an aid to bibliographic search, Communications of the ACM, v.18 n.6, p.333-340, June 1975[doi>10.1145/360825.360855]
+Cyril Allauzen , Maxime Crochemore , Mathieu Raffinot, Factor Oracle: A New Structure for Pattern Matching, Proceedings of the 26th Conference on Current Trends in Theory and Practice of Informatics on Theory and Practice of Informatics, p.295-310, November 27-December 04, 1999
+Allauzen, C. and Raffinot, M. 1999. Factor oracle of a set of words. Tech. rep. 99--11, Institut Gaspard-Monge, Université de Marne-la-Vallée.
+Amir, A. 1992. Multidimensional pattern matching: A survey. Tech. rep. GIT-CC-92/29.
+Amihood Amir , Oren Kapah , Dekel Tsur, Faster two-dimensional pattern matching with rotations, Theoretical Computer Science, v.368 n.3, p.196-204, December, 2006[doi>10.1016/j.tcs.2006.09.012]
+Amihood Amir , Gad M. Landau , Uzi Vishkin, Efficient pattern matching with scaling, Journal of Algorithms, v.13 n.1, p.2-32, March 1992[doi>10.1016/0196-6774(92)90003-U]
+Alberto Apostolico , Zvi Galil, Pattern matching algorithms, Oxford University Press, Oxford, 1997
+Ricardo A. Baeza-Yates , Luis O. Fuentes, A framework to animate string algorithms, Information Processing Letters, v.59 n.5, p.241-244, Sept. 9, 1996[doi>10.1016/0020-0190(96)00117-2]
+Ricardo Baeza-Yates , Gaston H. Gonnet, A new approach to text searching, Communications of the ACM, v.35 n.10, p.74-82, Oct. 1992[doi>10.1145/135239.135243]
+Ricardo A. Baeza-Yates , Chris H. Perleberg, Fast and Practical Approximate String Matching, Proceedings of the Third Annual Symposium on Combinatorial Pattern Matching, p.185-192, April 29-May 01, 1992
+Ricardo Baeza-Yates , Mireille Régnier, Fast two-dimensional pattern matching, Information Processing Letters, v.45 n.1, p.51-57, Jan. 25, 1993[doi>10.1016/0020-0190(93)90250-D]
+Baker, T. 1978. A technique for extending rapid exact-match string matching to arrays of more than one dimension. SIAM J. Comput. 7, 4, 533--541.
+Bird, R. 1977. Two dimensional pattern matching. Inf. Process. Lett. 6, 5, 168--170.
+Robert S. Boyer , J. Strother Moore, A fast string searching algorithm, Communications of the ACM, v.20 n.10, p.762-772, Oct. 1977[doi>10.1145/359842.359859]
+Xunxun Chen , Binxing Fang , Lei Li , Yu Jiang, WM+: an optimal multi-pattern string matching algorithm based on the WM algorithm, Proceedings of the 6th international conference on Advanced Parallel Processing Technologies, October 27-28, 2005, Hong Kong, China[doi>10.1007/11573937_55]
+Beate Commentz-Walter, A String Matching Algorithm Fast on the Average, Proceedings of the 6th Colloquium, on Automata, Languages and Programming, p.118-132, July 16-20, 1979
+Maxime Crochemore , Wojciech Rytter, Text algorithms, Oxford University Press, Inc., New York, NY, 1994
+Crochemore, M. and Rytter, W. 2002. Jewels of Stringology, 1st Ed. World Scientific.
+Dong-hong, Y., Ke, X., and Yong, C. 2006. An improved Wu-Manber multiple patterns matching algorithm. In Proceedings of the 25th IEEE International Performance, Computing and Communications Conference. 675--680.
+Shiri Dori , Gad M. Landau, Construction of Aho Corasick automaton in linear time for integer alphabets, Information Processing Letters, v.98 n.2, p.66-72, 30 April 2006[doi>10.1016/j.ipl.2005.11.019]
+Drepper, U. 2007. What every programmer should know about memory. www.akkadia.org/drepper/cpumemory.pdf.
+Kimmo Fredriksson , Gonzalo Navarro , Esko Ukkonen, Optimal Exact and Fast Approximate Two Dimensional Pattern Matching Allowing Rotations, Proceedings of the 13th Annual Symposium on Combinatorial Pattern Matching, p.235-248, July 03-05, 2002
+Horspool, R. 1980. Practical fast searching in strings. Software: Practice and Experience 10, 6, 501--506.
+Richard M. Karp , Michael O. Rabin, Efficient randomized pattern-matching algorithms, IBM Journal of Research and Development, v.31 n.2, p.249-260, March 1987[doi>10.1147/rd.312.0249]
+Knuth, D., Morris, J., and Pratt, V. 1977. Fast pattern matching in strings. SIAM J. Comput. 6, 2, 323--350.
+Kouzinopoulos, C. and Margaritis, K. 2009. Parallel implementation of exact two dimensional pattern matching algorithms using MPI and OpenMP. In Proceedings of the 9th Hellenic European Research on Computer Mathematics and Its Applications Conference.
+Kouzinopoulos, C. and Margaritis, K. 2010. Experimental results on algorithms for multiple keyword matching. In Proceedings of the IADIS International Conference on Informatics. 129--133.
+Kouzinopoulos, C. and Margaritis, K. 2011. Experimental Results on multiple pattern matching algorithms for biological sequences. In Proceedings of the International Conference on Bioinformatics—Models, Methods and Algorithms. 274--277.
+Ping Liu , Yan-bing Liu , Jian-long Tan, A partition-based efficient algorithm for large scale multiple-strings matching, Proceedings of the 12th international conference on String Processing and Information Retrieval, November 02-04, 2005, Buenos Aires, Argentina[doi>10.1007/11575832_44]
+Robert Muth , Udi Manber, Approximate Multiple Strings Search, Proceedings of the 7th Annual Symposium on Combinatorial Pattern Matching, p.75-86, June 10-12, 1996
+Gonzalo Navarro , Kimmo Fredriksson, Average complexity of exact and approximate multiple string matching, Theoretical Computer Science, v.321 n.2-3, p.283-290, 16 August 2004[doi>10.1016/j.tcs.2004.03.058]
+Gonzalo Navarro , Mathieu Raffinot, Flexible pattern matching in strings: practical on-line search algorithms for texts and biological sequences, Cambridge University Press, New York, NY, 2002
+Nicholas Nethercote , Julian Seward, Valgrind: a framework for heavyweight dynamic binary instrumentation, Proceedings of the 2007 ACM SIGPLAN conference on Programming language design and implementation, June 10-13, 2007, San Diego, California, USA[doi>10.1145/1250734.1250746]
+Polcar, T. and Melichar, B. 2004. A two-dimensional online tessellation automata approach to two-dimensional pattern matching. In Proceedings of the Eindhoven FASTAR Days. www.fastar.org/publications/EFD2004Proceedings.pdf.
+Leena Salmela , Jorma Tarhio , Jari Kytöjoki, Multipattern string matching withq-grams, Journal of Experimental Algorithmics (JEA), 11, 2006[doi>10.1145/1187436.1187438]
+Tzu-Fang Sheu , Nen-Fu Huang , Hsiao-Ping Lee, Hierarchical multi-pattern matching algorithm for network content inspection, Information Sciences: an International Journal, v.178 n.14, p.2880-2898, July, 2008[doi>10.1016/j.ins.2008.03.006]
+Streamline. 2012. Streamline. http://netstreamline.org/.
+Tao Tao , Amar Mukherjee, Compressed pattern matching for text and images, University of Central Florida, Orlando, FL, 2005
+Jorma Tarhio, A sublinear algorithm for two-dimensional string matching, Pattern Recognition Letters, v.17 n.8, p.833-838, July 1, 1996[doi>10.1016/0167-8655(96)00055-4]
+Allen B. Tucker, Computer Science Handbook, Second Edition, Chapman & Hall/CRC, 2004
+Watson, B. 1995. Taxonomies and toolkits of regular language algorithms. Ph.D. thesis, Eindhoven University of Technology.
+Wu, S. and Manber, U. 1994. A fast algorithm for multi-pattern searching. Tech. Rep. TR-94-17.
+Zdarek, J. 2010. Two-dimensional pattern matching using automata approach. Ph.D. thesis, Czech Technical University.
+Rui Feng Zhu , Tadao Takaoka, A technique for two-dimensional pattern matching, Communications of the ACM, v.32 n.9, p.1110-1120, Sept. 1989[doi>10.1145/66451.66459]

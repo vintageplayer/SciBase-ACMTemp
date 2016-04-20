@@ -1,0 +1,26 @@
+We consider the one-sided crossing minimization problem (CP):
+given a bipartite graphGand a permutationx0of the vertices on a layer, find a perumuationx1of the vertices on the other layer which
+minimizes the number of edge crossings in any straightline drawing
+ofGwhere vertices are placed on two parallel lines and
+sorted according tox0andx1.
+Solving CP represents a fundamental step in the construction of
+aesthetically pleasing layouts of heirarchies and directed graphs,
+but unfortunately this problem has been proved to be
+NP-complete.In this paper we address the strong relation between CP and the
+problem of computing minimum feedback arc sets in directed graphs
+and we devise a enw approximation algorithm for CP, called PM, that
+exploits this dependency. We experimantally and visually compare
+the performance of PM with the performance of well-known algorithms
+and of recent attractive strategies. Experiments are carried out on
+different families of randomly generated graphs, on pathological
+instances, and on real test sets. Performance indicators include
+both number of edge crossings and running time, as well as
+structural measures of the problem instances. We found CP to be a
+very interesting and rich problem from a combinatorial point of
+view. Our results clearly separate the behavior of the algorithms,
+proving the effectiveness of PM on most test sets and showing
+tradeoffs between quality of the solutions and running time.
+However, if the visual complexity of the drawings is considered, we
+found no clear winner. This confirms the importance of optimizing
+also other aesthetic criteria such as symmetry, edge length, and
+angular resolution.

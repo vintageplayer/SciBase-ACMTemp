@@ -1,0 +1,25 @@
+R. H. Bisseling. 2004. Parallel Scientific Computation: A Structured Approach Using BSP and MPI. Oxford University Press, Oxford, UK.
+R. H. Bisseling, B. O. Fagginger Auer, A. N. Yzelman, T. van Leeuwen, and Ü. V. Çatalyürek. 2012. Two-dimensional approaches to sparse matrix partitioning. In Combinatorial Scientific Computing, U. Naumann and O. Schenk (Eds.). CRC Press, Taylor & Francis Group, Boca Raton, FL, 321--349. DOI: http://dx.doi.org/10.1201/b11644-13
+Ü. V. Çatalyürek and C. Aykanat. 1999. Hypergraph-partitioning-based decomposition for parallel sparse-matrix vector multiplication. IEEE Trans. Parallel Distrib. Comput. 10, 7 (1999), 673--693. DOI:http://dx.doi.org/10.1109/71.780863
+Ü. V. Çatalyürek and C. Aykanat. 1999. PaToH: A Multilevel Hypergraph Partitioning Tool, version 3.0. Bilkent University, Department of Computer Engineering, Ankara, Turkey. Available at http://bmi.osu.edu/∼umit/software.htm.
+Ü. V. Çatalyürek, M. Deveci, K. Kaya, and B. Uçar. 2012. Multithreaded clustering for multi-level hypergraph partitioning. In Proc. IPDPS 2012. IEEE, Los Alamitos, CA, 848--859. DOI: http://dx.doi.org/10.1109/IPDPS.2012.81
+T. A. Davis and Y. Hu. 2011. The University of Florida sparse matrix collection. ACM Trans. Math. Software 38, 1, Article 1, 25 pages. DOI: http://dx.doi.org/10.1145/2049662.2049663
+K. D. Devine, E. G. Boman, R. T. Heaphy, R. H. Bisseling, and U. V. Catalyurek. 2006. Parallel hypergraph partitioning for scientific computing. In Proc. IPDPS 2006. IEEE, Los Alamitos, CA. DOI: http://dx.doi.org/10.1109/IPDPS.2006.1639359
+B. Dezsö, A. Jüttner, and P. Kovács. 2011. LEMON—An open source C&plus;&plus; graph template library. Electron. Notes Theor. Comput. Sci. 264, 5 (2011), 23--45. DOI: http://dx.doi.org/10.1016/j.entcs.2011.06.003
+D. E. Drake and S. Hougardy. 2003a. Improved linear time approximation algorithms for weighted matchings. In Proc. Approx/Random. LNCS, Vol. 2764. Springer, Berlin, 14--23. DOI: http://dx.doi.org/10.1007/978-3-540-45198-3_2
+D. E. Drake and S. Hougardy. 2003b. Linear time local improvements for weighted matchings in graphs. In Proc. Workshop Exp. Alg. 2003. LNCS, Vol. 2647. Springer, Berlin, 107--119. DOI: http://dx.doi.org/10.1007/3-540-44867-5_9
+D. E. Drake and S. Hougardy. 2003c. A simple approximation algorithm for the weighted matching problem. Inform. Process. Lett. 85, 4 (2003), 211--213. DOI: http://dx.doi.org/10.1016/S0020-0190(02)00393-9
+R. Duan, S. Pettie, and H.-H. Su. 2011. Scaling algorithms for approximate and exact maximum weight matching. CoRR abs/1112.0790 (2011).
+I. S. Duff and J. K. Reid. 1996. Exploiting zeros on the diagonal in the direct solution of indefinite sparse symmetric linear systems. ACM Trans. Math. Software 22, 2 (1996), 227--257. DOI: http://dx.doi.org/10.1145/229473.229480
+J. Edmonds. 1965a. Maximum matching and a polyhedron with 0,1-vertices. J. Res. Nat. Bur. Standards 69B, 1/2 (1965), 125--130. DOI: http://dx.doi.org/10.6028/jres.069B.013
+J. Edmonds. 1965b. Paths, trees, and flowers. Canad. J. Math. 17 (1965), 449--467. DOI: http://dx.doi.org/10.4153/CJM-1965-045-4
+C. M. Fiduccia and R. M. Mattheyses. 1982. A linear-time heuristic for improving network partitions. In Proc. 19th IEEE DAC. IEEE, Los Alamitos, CA, 175--181. DOI: http://dx.doi.org/10.1109/DAC.1982.1585498
+H. N. Gabow and R. E. Tarjan. 1991. Faster scaling algorithms for general graph matching problems. J. ACM 38, 4 (1991), 815--853. DOI: http://dx.doi.org/10.1145/115234.115366
+A. H. Gebremedhin, F. Manne, and A. Pothen. 2005. What color is your jacobian&quest; Graph coloring for computing derivatives. SIAM Rev. 47, 4 (2005), 629--705. DOI: http://dx.doi.org/10.1137/S0036144504444711
+M. Holtgrewe, P. Sanders, and C. Schulz. 2010. Engineering a scalable high quality graph partitioner. In Proc. IPDPS 2010. IEEE, Los Alamitos, CA, 1168--1179. DOI: http://dx.doi.org/10.1109/IPDPS.2010.5470485
+B. W. Kernighan and S. Lin. 1970. An efficient heuristic procedure for partitioning graphs. Bell Syst. Techn. J. 49, 2 (1970), 291--307.
+J. Maue and P. Sanders. 2007. Engineering algorithms for approximate weighted matching. In Proc. Workshop Exp. Alg. 2007. LNCS, Vol. 4525. Springer, Berlin, 242--255. DOI: http://dx.doi.org/10.1007/978-3-540-72845-0_19
+D. M. Pelt and R. H. Bisseling. 2014. A medium-grain method for fast 2D bipartitioning of sparse matrices. In Proc. IPDPS 2014. IEEE, Los Alamitos, CA, 529--539. DOI: http://dx.doi.org/10.1109/IPDPS.2014.62
+S. Pettie and P. Sanders. 2004. A simpler linear time 2/3-&epsi; approximation for maximum weight matching. Inform. Process. Lett. 91, 6 (2004), 271--276. DOI: http://dx.doi.org/10.1016/j.ipl.2004.05.007
+R. Preis. 1999. Linear time 1/2-approximation algorithm for maximum weighted matching in general graphs. In Proc. STACS 1999. LNCS, Vol. 1563. Springer, Berlin, 259--269. DOI: http://dx.doi.org/10.1007/3-540-49116-3_24
+B. Vastenhouw and R. H. Bisseling. 2005. A two-dimensional data distribution method for parallel sparse matrix-vector multiplication. SIAM Rev. 47, 1 (2005), 67--95. DOI: http://dx.doi.org/10.1137/S0036144502409019

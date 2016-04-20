@@ -1,0 +1,40 @@
+Mohamed I. Abouelhoda, Stefan Kurtz, and Enno Ohlebusch. 2004. Replacing suffix trees with enhanced suffix arrays. J. Discrete Algor. 2, 1, 53--83.
+Timo Beller, Simon Gog, Enno Ohlebusch, and Thomas Schnattinger. 2011. Computing the longest common prefix array based on the Burrows-Wheeler Transform. In Proceedings of the 16th International Symposium on String Processing and Information Retrieval (SPIRE'09). Lecture Notes in Computer Science, vol. 7024, Springer, 197--208.
+Nieves R. Brisaboa, Susana Ladra, and Gonzalo Navarro. 2009. Directly addressable variable-length codes, string processing and information retrieval. In Proceedings of the 16th International Symposium (SPIRE'09). Lecture Notes in Computer Science, vol. 5721, Springer, 122--130.
+Rodrigo Cánovas and Gonzalo Navarro. 2010. Practical compressed suffix trees. In Proceedings of the 9th International Symposium on Experimental Algorithms (SEA'10). Lecture Notes in Computer Science, vol. 6049, Springer, 94--105.
+David R. Clark. 1996. Compact pat trees. Ph.D. dissertation. University of Waterloo.
+Jasbir Dhaliwal, Simon J. Puglisi, and Andrew Turpin. 2012. Practical efficient string mining. IEEE Trans. Knowl. Data Eng. 24, 4, 735--744.
+Paolo Ferragina and Giovanni Manzini. 2000. Opportunistic data Structures with applications. In Proceedings of the 41st Annual Symposium on Foundations of Computer Science. 390--398.
+Johannes Fischer. 2010a. Optimal Succinctness for range minimum queries. In Proceedings of the 4th Latin American Symposium on Theoretical Informatics (LATIN'00). Lecture Notes in Computer Science, vol. 6034, Springer, 158--169.
+Johannes Fischer. 2010b. Wee LCP. Inform. Process. Lett. 110, 8--9, 317--320.
+Johannes Fischer, Veli Mäkinen, and Gonzalo Navarro. 2009. Faster entropy-bounded compressed suffix trees. Theor. Comput. Sci. 410, 51, 5354--5364.
+Simon Gog. 2011. Compressed suffix trees: Design, construction, and applications. Ph.D. dissertation. Ulm University.
+Simon Gog and Johannes Fischer. 2010. Advantages of shared data structures for sequences of balanced parentheses. In Proceedings of the Data Compression Conference (DCC'10). IEEE, 406--415.
+Simon Gog and Enno Ohlebusch. 2011. Fast and lightweight LCP-array construction algorithms. In Proceedings of the Workshop on Algorithm Engineering and Experiments (ALENEX'11). SIAM, 25--34.
+Roberto Grossi, Ankur Gupta, and Jeffrey Scott Vitter. 2003. High-order entropy-compressed text indexes. In Proceedings of the 14th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA'03). 841--850.
+Dan Gusfield. 1997. Algorithms on Strings, Trees, and Sequences. Cambridge University Press.
+Wing-Kai Hon and Kunihiko Sadakane. 2002. Space-economical algorithms for finding maximal unique matches. In Proceedings of the 13th Annual Symposium on Combinatorial Pattern Matching (CPM'02). Lecture Notes in Computer Science, vol. 2373, Springer, 144--152.
+David A. Huffman. 1952. A Method for the construction of minimum-redundancy codes. Proc. Inst. Radio Eng. 40, 9, 1098--1101.
+Guy Jacobson. 1989. Space-efficient static trees and graphs. In Proceedings of the 30th Annual Symposium on Foundations of Computer Science. IEEE, 549--554.
+Juha Kärkkäinen, Giovanni Manzini, and Simon J. Puglisi. 2009. Permuted Longest-common-prefix array. In Proceedings of the 20th Annual Symposium on Combinatorial Pattern Matching (CPM'09). Lecture Notes in Computer Science, vol. 5577, Springer, 181--192.
+Juha Kärkkäinen and Peter Sanders. 2003. Simple Linear work suffix array construction. In Proceedings of the 30th International Colloquium on Automata, Languages and Programming (ICALP'03). Lecture Notes in Computer Science, vol. 2719, Springer, 943--955.
+Toru Kasai, Gunho Lee, Hiroki Arimura, Setsuo Arikawa, and Kunsoo Park. 2001. Linear-time longest-common-prefix computation in suffix arrays and its applications. In Proceedings of the 12th Annual Symposium on Combinatorial Pattern Matching (CPM'01). Lecture Notes in Computer Science, vol. 2089, Springer, 181--192.
+Pang Ko and Srinivas Aluru. 2003. Space efficient linear time construction of suffix arrays. In Proceedings of the 14th Annual Symposium on Combinatorial Pattern Matching (CPM'03). Lecture Notes in Computer Science, vol. 2676, Springer, 200--210.
+Markus Kowarschik and Christian Weiss. 2002. An overview of cache optimization techniques and cache-aware numerical algorithms. In Algorithms for Memory Hierarchies, Lecture Notes in Computer Science, vol. 2625, Springer, 213--232.
+Stefan Kurtz. 1999. Reducing the space requirement of suffix trees. Softw., Pract. Exper. 29, 13 (1999), 1149--1171.
+Veli Mäkinen. 2003. Compact suffix array—a space-efficient full-text index. Foundamenta Informaticae 56, 1--2, 191--210.
+Giovanni Manzini. 2004. Two space saving tricks for linear time LCP array computation. In Proceedings of the 9th Scandinavian Workshop on Algorithm Theory (SWAT'04). Lecture Notes in Computer Science, vol. 3111, Springer, 372--383.
+Giovanni Manzini and Paolo Ferragina. 2004. Engineering a lightweight suffix array construction algorithm. Algorithmica 40, 1, 33--50.
+Gonzalo Navarro and Veli Mäkinen. 2007. Compressed full-text indexes. ACM Comput. Surv. 39, 1.
+Ge Nong, Sen Zhang, and Wai Hong Chan. 2009. Linear suffix array construction by almost pure induced-sorting. In Proceedings of the Data Compression Conference (DCC'09). IEEE, 193--202.
+Enno Ohlebusch, Johannes Fischer, and Simon Gog. 2010. CST&plus;&plus;. In Proceedings of the 17th International Symposium on String Processing and Information Retrieval (SPIRE'10). Lecture Notes in Computer Science, vol. 6393, Springer, 322--333.
+Enno Ohlebusch and Simon Gog. 2009. A Compressed enhanced suffix array supporting fast string matching. In Proceedings of the 16th International Symposium on String Processing and Information Retrieval (SPIRE'09). Lecture Notes in Computer Science, vol. 5721, Springer, 51--62.
+Daisuke Okanohara and Kunihiko Sadakane. 2009. A linear-time Burrows-Wheeler transform using induced sorting. In Proceedings of the 16th International Symposium on String Processing and Information Retrieval (SPIRE'09). Lecture Notes in Computer Science, vol. 5721, Springer, 90--101.
+Simon J. Puglisi, William F. Smyth, and Andrew Turpin. 2007. A taxonomy of suffix array construction algorithms. ACM Comput. Surv. 39, 2.
+Simon J. Puglisi and Andrew Turpin. 2008. Space-time tradeoffs for longest-common-prefix array computation. In Proceedings of the 19th International Symposium on Algorithms and Computation (ISAAC'09). Lecture Notes in Computer Science, vol. 5369, Springer, 124--135.
+Luís M. S. Russo, Gonzalo Navarro, and Arlindo L. Oliveira. 2008. Fully-compressed suffix trees. In Proceedings of the 12th Latin American Symposium on Theoretical Informatics (LATIN'08). Lecture Notes in Computer Science, vol. 4957, Springer, 362--373.
+Kunihiko Sadakane. 2002. Succinct representations of LCP information and improvements in the compressed suffix arrays. In Proceedings of the 2002 Annual ACM-SIAM Symposium on Discrete Algorithms (SODA'02). SIAM, 225--232.
+Kunihiko Sadakane. 2007. Compressed suffix trees with full functionality. Theory Comput. Syst. 41, 4, 589--607.
+Kunihiko Sadakane and Gonzalo Navarro. 2010. Fully-functional succinct trees. In Proceedings of the Annual ACM-SIAM Symposium on Discrete Algorithms (SODA'10). SIAM, 134--149.
+Jouni Sirén. 2010. Sampled longest common prefix array. In Proceedings of the 21st Annual Symposium on Combinatorial Pattern Matching (CPM'10). Lecture Notes in Computer Science, vol. 6129, Springer, 227--237.
+Niko Välimäki, Veli Mäkinen, Wolfgang Gerlach, and Kashyap Dixit. 2009. Engineering a compressed suffix tree implementation. ACM J. Exp. Algor. 14, 2.

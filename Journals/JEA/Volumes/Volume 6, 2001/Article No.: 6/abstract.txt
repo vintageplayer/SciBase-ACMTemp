@@ -1,0 +1,11 @@
+LetSbe a set ofnpoints in
+ℜd. We present an algorithm that uses the
+well-separated pair decomposition and computes the minimum spanning
+tree ofSunder anyLpor polyhedral
+metric. A theoretical analysis shows that it has an expected
+running time ofO(nlogn) for uniform point
+distributions; this is verified experimentally. Extensive
+experimental results show that this approach is practical. Under a
+variety of input distributions, the resulting implementation is
+robust and performs well for points in higher dimensional
+space.

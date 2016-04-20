@@ -1,0 +1,42 @@
+Sarita V. Adve , Kourosh Gharachorloo, Shared Memory Consistency Models: A Tutorial, Computer, v.29 n.12, p.66-76, December 1996[doi>10.1109/2.546611]
+Barnes, G. 1993. Method for implementing lock-free shared data structures. In Proceedings of the 5th Annual ACM Symposium on Parallel Algorithms and Architectures. ACM Press, 261--270.
+Bloom, B. 1988. Constructing two-writer atomic registers. IEEE Transactions on Computers 37, 12 (Dec.), 1506--1514.
+Burns, J. E. and Peterson, G. L. 1987. Constructing multi-reader atomic values from non-atomic values. In Proceedings of the 6th Annual ACM Symposium on Principles of Distributed Computing. ACM Press, 222--231.
+Chen, J. and Burns, A. 1997. A fully asynchronous reader/writer mechanism for multiprocessor real-time systems. Tech. Rep. YCS-288, Department of Computer Science, University of York. May.
+CORPORATE SPARC International, I. 1994. The SPARC Architecture Manual: Version 9. Prentice-Hall, Inc.
+Cortesi, D. 2004. Topics in IRIXA Programming. Silicon Graphics, Inc. (doc &num;:007-2478-009).
+David E. Culler , Anoop Gupta , Jaswinder Pal Singh, Parallel Computer Architecture: A Hardware/Software Approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1997
+Dubois, M., Scheurich, C., and Briggs, F. 1986. Memory access buffering in multiprocessors. In Proceedings of the 13th Annual International Symposium on Computer Architecture (ISCA'86). 434--442.
+Goodman, J. R. 1989. Cache consistency and sequential consistency. Tech. Rep. 61, IEEE Scalable Coherent Interface (SCI) Working Group.
+S. Haldar , K. Vidyasankar, Constructing 1-writer multireader multivalued atomic variables from regular variables, Journal of the ACM (JACM), v.42 n.1, p.186-203, Jan. 1995[doi>10.1145/200836.200871]
+S. Haldar , K. Vidyasankar, Simple extensions of 1-writer atomic variable constructions to multiwriter ones, Acta Informatica, v.33 n.2, p.177-202, 1996[doi>10.1007/s002360050040]
+Sibsankar Haldar , Paul Vitányi, Bounded concurrent timestamp systems using vector clocks, Journal of the ACM (JACM), v.49 n.1, p.101-126, January 2002[doi>10.1145/505241.505246]
+Herlihy, M. 1991. Wait-free synchronization. ACM Transaction on Programming and Systems 11, 1 (Jan), 124--149.
+Herlihy, M. 1993. A methodology for implementing highly concurrent data objects. ACM Transactions on Programming Languages and Systems 15, 5 (Nov), 745--770.
+Herlihy, M. P. and Wing, J. M. 1990. Linearizability: A correctness condition for concurrent objects. ACM Transactions on Programming Languages and Systems 12, 3 (July), 463--492.
+Israeli, A. and Li, M. 1993. Bounded time-stamps. Distributed Computing 6, 4, 205--209.
+Israeli, A. and Shaham, A. 1992. Optimal multi-writer multi-reader atomic register. In Proceedings of the 11th Annual Symposium on Principles of Distributed Computing. ACM Press, 71--82.
+Kirousis, L. M., Kranakis, E., and Vitányi, P. M. B. 1987. Atomic multireader register. In Distributed Algorithms, 2nd International Workshop. LNCS, vol. 312. Springer, 1988, 278--296.
+Kopetz, H. and Reisinge, J. 1993. The non-blocking write protocol NBW: A solution to a real-time synchronisation problem. In Proceedings of the Real-Time Systems Symposium. IEEE Computer Society Press, 131--137.
+Lamport, L. 1977. Concurrent reading and writing. Communications of the ACM 20, 11 (Nov), 806--811.
+Lamport, L. 1979. How to make a multiprocessor computer that correctly executes multiprocess programs. IEEE Trans. Computers 28, 9, 690--691.
+Lamport, L. 1986. On interprocess communication. Distributed Computing 1, 2, 77--101.
+Larsson, A., Gidenstam, A., Ha, P. H., Papatriantafilou, M., and Tsigas, P. 2004. Multi-word atomic read/write registers on multiprocessor systems. In Proceedings of the 12th Annual European Symposium on Algorithms (ESA'04) LNCS 3221. Springer-Verlag, 736--748.
+Ming Li , John Tromp , Paul M. B. Vitányi, How to share concurrent wait-free variables, Journal of the ACM (JACM), v.43 n.4, p.723-746, July 1996[doi>10.1145/234533.234556]
+Li, M. and Vitányi, P. M. B. 1992. Optimality of wait-free atomic multiwriter variables. Information Processing Letters 43, 2 (Aug), 107--112.
+Newman-Wolfe, R. 1987. A protocol for wait-free, atomic, multi-reader shared variables. In Proceedings of the 6th Annual ACM Symposium on Principles of Distributed Computing. ACM Press, 232--248.
+Peterson, G. L. 1983. Concurrent reading while writing. ACM Transactions on Programming Languages and Systems 5, 1 (Jan), 46--55.
+Peterson, G. L. and Burns, J. E. 1987. Concurrent reading while writing II: The multi-writer case. In Proceedings of the 28th Annual Symposium on Foundations of Computer Science. IEEE, 383--392.
+Rajkumar, R. 1990. Real-time synchronization protocols for shared memory multiprocessors. In Proceedings of the 10th International Conference on Distributed Computing Systems (ICDCS '90). IEEE Computer Society Press, 116--123.
+Sha, L., Rajkumar, R., and Lojoczky, J. 1990. Priority inheritence protocols: An approach to real-time syncronization. IEEE Transactions on Computers 39, 9 (Sept), 1175--1185.
+Abraham Silberschatz , Peter Baer Galvin , Greg Gagne, Operating System Concepts, John Wiley & Sons, Inc., New York, NY, 2001
+Silicon Graphics, I. 1993. IRIX 6.5: Man Pages. SGI Techpubs Library.
+Simpson, H. R. 1990. Four-slot fully asynchronous communication mechanism. IEE Proc., Computers and Digital Techniques 137, 1 (Jan.), 17--30.
+Singh, A. K., Anderson, J. H., and Gouda, M. G. 1994. The elusive atomic register. J. ACM 41, 2 (Mar.), 311--339.
+Sundell, H. 2004. Efficient and practical non-blocking data structures. Ph.D. thesis, Chalmers University of Technology.
+Sundell, H. and Tsigas, P. 2002. NOBLE: A non-blocking inter-process communication library. In Proceedings of the 6th Workshop on Languages, Compilers and Run-time Systems for Scalable Computers. LNCS. Springer Verlag.
+Andrew S. Tanenbaum, Modern Operating Systems, Prentice Hall PTR, Upper Saddle River, NJ, 2001
+Philippas Tsigas , Yi Zhang, Evaluating the performance of non-blocking synchronization on shared-memory multiprocessors, Proceedings of the 2001 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.320-321, June 2001, Cambridge, Massachusetts, USA[doi>10.1145/378420.378810]
+Philippas Tsigas , Yi Zhang, Integrating non-blocking synchronisation in parallel applications: performance advantages and methodologies, Proceedings of the 3rd international workshop on Software and performance, July 24-26, 2002, Rome, Italy[doi>10.1145/584369.584378]
+Vitányi, P. M. B. and Awerbuch, B. 1986. Atomic shared register access by asynchronous hardware. In 27th Annual Symposium on Foundations of Computer Science. IEEE, 233--243.
+Weaver, D. L. and Germond, T., Eds. 2000. The SPARC Architecture Manual. Prentice Hall. Version 9.

@@ -1,0 +1,25 @@
+R. J. Anderson , G. L. Miller, A simple randomized parallel algorithm for list-ranking, Information Processing Letters, v.33 n.5, p.269-273, January 1990[doi>10.1016/0020-0190(90)90196-5]
+R Cole , U Vishkin, Deterministic coin tossing and accelerating cascades: micro and macro techniques for designing parallel algorithms, Proceedings of the eighteenth annual ACM symposium on Theory of computing, p.206-219, May 28-30, 1986, Berkeley, California, USA[doi>10.1145/12130.12151]
+Richard Cole , Uzi Vishkin, Faster optimal parallel prefix sums and list ranking, Information and Computation, v.81 n.3, p.334-352, June 1989[doi>10.1016/0890-5401(89)90036-9]
+David E. Culler , Anoop Gupta , Jaswinder Pal Singh, Parallel Computer Architecture: A Hardware/Software Approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1997
+William J. Dally , Steve Lacy, VLSI Architecture: Past, Present, and Future, Proceedings of the 20th Anniversary Conference on Advanced Research in VLSI, p.232, March 21-24, 1999
+S. Dascal. Experiments with List Ranking Algorithms for Explicit Instruction Parallelism. M.Sc. Thesis. Department of Computer Science, Tel Aviv University, August 1998.
+S. Dascal. Explicit Multi-Threading (XMT) bridging models - specifications and assumptions, UMIACS-TH 2000-74, 1998. See also a document entitled "Specifications and Assumptions" under http://www.umiacs.umd.edu/~vishkin/XMT/.
+S. Dascal and U. Vishkin. Experiments with list ranking for Explicit Multi-Threaded (XMT) instruction parallelism (extended summary), UMIACS-TR- 99-33, June 1999.
+David A. Patterson , John L. Hennessy, Computer organization & design: the hardware/software interface, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1993
+John L. Hennessy , David A. Patterson, Computer architecture (2nd ed.): a quantitative approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1996
+Tsan-sheng Hsu , Vijaya Ramachandran, Efficient massively parallel implementation of some combinatorial algorithms, Theoretical Computer Science, v.162 n.2, p.297-322, Aug. 20, 1996[doi>10.1016/0304-3975(96)00034-5]
+Donald E. Knuth, The art of computer programming, volume 2 (3rd ed.): seminumerical algorithms, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1997
+Miller G.L. and Heir J.H. Parallel tree contraction and its applications. InProc. Symposium on Foundations of Computer Science, 1985, 478-489.
+D. Naishlos, J. Nuzman, C-W. Tseng, and U. Vishkin. Evaluating multithreading in the prototype XMT environment. InProc. 4th Workshop on Multi-Threaded Execution, Architecture and Compilation (MTEA C2000), December 2000 (held in conjunction with the 33rd Int. Symp. on Microarchitecture MICRO-33).
+A. Ranade, A Simple Optimal List Ranking Algorithm, Proceedings of the Fifth International Conference on High Performance Computing, p.60, December 17-20, 1998
+Margaret Reid-Miller, List ranking and list scan on the Cray C-90, Proceedings of the sixth annual ACM symposium on Parallel algorithms and architectures, p.104-113, June 27-29, 1994, Cape May, New Jersey, USA[doi>10.1145/181014.181049]
+Jop F. Sibeyn, Better trade-offs for parallel list ranking, Proceedings of the ninth annual ACM symposium on Parallel algorithms and architectures, p.221-230, June 23-25, 1997, Newport, Rhode Island, USA[doi>10.1145/258492.258514]
+Sibeyn J.F. From Parallel to external list ranking.TR-MPI-I-97-1-021, Max-Planck-Institut Fur Informatik, Saarbrucken, Germany, 1997.
+Jop F. Sibeyn , Frank Guillaume , Tillmann Seidel, Practical parallel list ranking, Journal of Parallel and Distributed Computing, v.56 n.2, p.156-180, Feb. 1999[doi>10.1006/jpdc.1998.1508]
+Jop F. Sibeyn, Ultimate Parallel List Ranking?, Proceedings of the 6th International Conference on High Performance Computing, p.197-201, December 17-20, 1999
+Traff J.L. List ranking on the PRAM.The PAD Library Documentation, Max-Planck-Institut fur Informatik, Saarbrucken, 1996.
+Uzi Vishkin, Randomized speed-ups in parallel computation, Proceedings of the sixteenth annual ACM symposium on Theory of computing, p.230-239, December 1984[doi>10.1145/800057.808686]
+Uzi Vishkin, From algorithm parallelism to instruction-level parallelism: an encode-decode chain using prefix-sum, Proceedings of the ninth annual ACM symposium on Parallel algorithms and architectures, p.260-271, June 23-25, 1997, Newport, Rhode Island, USA[doi>10.1145/258492.258518]
+Uzi Vishkin , Shlomit Dascal , Efraim Berkovich , Joseph Nuzman, Explicit multi-threading (XMT) bridging models for instruction parallelism (extended abstract), Proceedings of the tenth annual ACM symposium on Parallel algorithms and architectures, p.140-151, June 28-July 02, 1998, Puerto Vallarta, Mexico[doi>10.1145/277651.277680]
+Uzi Vishkin, A no-busy-wait balanced tree parallel algorithmic paradigm, Proceedings of the twelfth annual ACM symposium on Parallel algorithms and architectures, p.147-155, July 09-13, 2000, Bar Harbor, Maine, USA[doi>10.1145/341800.341818]

@@ -1,0 +1,42 @@
+Alfred V. Aho , Margaret J. Corasick, Efficient string matching: an aid to bibliographic search, Communications of the ACM, v.18 n.6, p.333-340, June 1975[doi>10.1145/360825.360855]
+Allauzen, C. and Raffinot, M. 1999. Factor oracle of a set of words. Tech. rep. 99--11, Institut Gaspard-Monge, Université de Marne-la-Vallée.
+Ricardo Baeza-Yates , Gaston H. Gonnet, A new approach to text searching, Communications of the ACM, v.35 n.10, p.74-82, Oct. 1992[doi>10.1145/135239.135243]
+Robert S. Boyer , J. Strother Moore, A fast string searching algorithm, Communications of the ACM, v.20 n.10, p.762-772, Oct. 1977[doi>10.1145/359842.359859]
+Burrows, M. and Wheeler, D. 1994. A block sorting lossless data compression algorithm. Tech. rep. 124, Digital Equipment Corporation.
+Maxime Crochemore, String-matching on ordered alphabets, Theoretical Computer Science, v.92 n.1, p.33-47, Jan. 6, 1992[doi>10.1016/0304-3975(92)90134-2]
+Crochemore, M., Czumaj, A., Gasieniec, L., Jarominek, S., Lecroq, T., Plandowski, W., and Rytter, W. 1994. Speeding up two string matching algorithms. Algorithmica 12, 4/5, 247--267.
+Maxime Crochemore , Dominique Perrin, Two-way string-matching, Journal of the ACM (JACM), v.38 n.3, p.650-674, July 1991[doi>10.1145/116825.116845]
+Maxime Crochemore , Wojciech Rytter, Text algorithms, Oxford University Press, Inc., New York, NY, 1994
+Crochemore, M. and Rytter, W. 1995. Squares, cubes and time-space efficient string-searching. Algorithmica 13, 5, 405--425.
+Crochemore, M. and Rytter, W. 2002. Jewels of Stringology. World Scientific.
+P. Ferragina , G. Manzini, Opportunistic data structures with applications, Proceedings of the 41st Annual Symposium on Foundations of Computer Science, p.390, November 12-14, 2000
+Paolo Ferragina , Giovanni Manzini, Indexing compressed text, Journal of the ACM (JACM), v.52 n.4, p.552-581, July 2005[doi>10.1145/1082036.1082039]
+Paolo Ferragina , Giovanni Manzini , Veli Mäkinen , Gonzalo Navarro, Compressed representations of sequences and full-text indexes, ACM Transactions on Algorithms (TALG), v.3 n.2, p.20-es, May 2007[doi>10.1145/1240233.1240243]
+Fredriksson, K. 2007. Succinct pattern matching automata. Tech, rep. A-2007-1, Department of Computer Science, University of Joensuu.
+Kimmo Fredriksson , Fedor Nikitin, Simple compression code supporting random access and fast string matching, Proceedings of the 6th international conference on Experimental algorithms, June 06-08, 2007, Rome, Italy
+Galil, Z. and Seiferas, J. 1981. Linear-time string matching using only a fixed number of local storage locations. Theor. Comput. Sci. 13, 3, 331--336.
+Alexander Golynski , J. Ian Munro , S. Srinivasa Rao, Rank/select operations on large alphabets: a tool for text indexing, Proceedings of the seventeenth annual ACM-SIAM symposium on Discrete algorithm, p.368-373, January 22-26, 2006, Miami, Florida[doi>10.1145/1109557.1109599]
+González, R., Grabowski, S., M&akinenuml;, V., and Navarro, G. 2005. Practical implementation of rank and select queries. In Poster Proceedings Volume of 4th Workshop on Efficient and Experimental Algorithms (WEA'05). CTI Press and Ellinika Grammata, Greece, 27--38.
+Roberto Grossi , Ankur Gupta , Jeffrey Scott Vitter, High-order entropy-compressed text indexes, Proceedings of the fourteenth annual ACM-SIAM symposium on Discrete algorithms, January 12-14, 2003, Baltimore, Maryland
+Roberto Grossi , Ankur Gupta , Jeffrey Scott Vitter, When indexing equals compression: experiments with compressing suffix arrays and applications, Proceedings of the fifteenth annual ACM-SIAM symposium on Discrete algorithms, January 11-14, 2004, New Orleans, Louisiana
+Horspool, R. N. 1980. Practical fast searching in strings. Softw. Pract. Exp. 10, 6, 501--506.
+Huffman, D. A. 1951. A method for the construction of minimum redundancy codes. Proceedings of the I.R.E. 40, 1098--1101.
+Heikki Hyyrö , Kimmo Fredriksson , Gonzalo Navarro, Increased bit-parallelism for approximate and multiple string matching, Journal of Experimental Algorithmics (JEA), 10, 2005[doi>10.1145/1064546.1180617]
+Guy Joseph Jacobson, Succinct static data structures, Carnegie Mellon University, Pittsburgh, PA, 1988
+Richard M. Karp , Michael O. Rabin, Efficient randomized pattern-matching algorithms, IBM Journal of Research and Development, v.31 n.2, p.249-260, March 1987[doi>10.1147/rd.312.0249]
+Dong Kyue Kim , Joong Chae Na , Ji Eun Kim , Kunsoo Park, Efficient implementation of rank and select functions for succinct representation, Proceedings of the 4th international conference on Experimental and Efficient Algorithms, May 10-13, 2005, Santorini Island, Greece[doi>10.1007/11427186_28]
+Knuth, D. E., Morris, Jr, J. H., and Pratt, V. R. 1977. Fast pattern matching in strings. SIAM J. Comput. 6, 1, 323--350.
+Udi Manber , Gene Myers, Suffix arrays: a new method for on-line string searches, SIAM Journal on Computing, v.22 n.5, p.935-948, Oct. 1993[doi>10.1137/0222058]
+Robert Muth , Udi Manber, Approximate Multiple Strings Search, Proceedings of the 7th Annual Symposium on Combinatorial Pattern Matching, p.75-86, June 10-12, 1996
+Gonzalo Navarro , Kimmo Fredriksson, Average complexity of exact and approximate multiple string matching, Theoretical Computer Science, v.321 n.2-3, p.283-290, 16 August 2004[doi>10.1016/j.tcs.2004.03.058]
+Gonzalo Navarro , Veli Mäkinen, Compressed full-text indexes, ACM Computing Surveys (CSUR), v.39 n.1, p.2-es, 2007[doi>10.1145/1216370.1216372]
+Gonzalo Navarro , Mathieu Raffinot, Fast and flexible string matching by combining bit-parallelism and suffix automata, Journal of Experimental Algorithmics (JEA), 5, p.4-es, 2000[doi>10.1145/351827.384246]
+Gonzalo Navarro , Mathieu Raffinot, Flexible pattern matching in strings: practical on-line search algorithms for texts and biological sequences, Cambridge University Press, New York, NY, 2002
+Okanohara, D. and Sadakane, K. 2007. Practical entropy-compressed rank/select dictionary. In Proceedings of ALENEX'07. ACM Press, New York.
+Pagh, R. 1999. Low redundancy in static dictionaries with O(1) worst case lookup time. In Proceedings of ICALP'99. Springer-Verlag, Berlin, Germany, 595--604.
+Leena Salmela , Jorma Tarhio , Jari Kytöjoki, Multipattern string matching withq-grams, Journal of Experimental Algorithmics (JEA), 11, 2006[doi>10.1145/1187436.1187438]
+Daniel M. Sunday, A very fast substring search algorithm, Communications of the ACM, v.33 n.8, p.132-142, Aug. 1990[doi>10.1145/79173.79184]
+Peter Weiner, Linear pattern matching algorithms, Proceedings of the 14th Annual Symposium on Switching and Automata Theory (swat 1973), p.1-11, October 15-17, 1973[doi>10.1109/SWAT.1973.13]
+Ian H. Witten , Timothy C. Bell , Alistair Moffat, Managing Gigabytes: Compressing and Indexing Documents and Images, John Wiley & Sons, Inc., New York, NY, 1994
+Sun Wu , Udi Manber, Fast text searching: allowing errors, Communications of the ACM, v.35 n.10, p.83-91, Oct. 1992[doi>10.1145/135239.135244]
+Yao, A. C. 1979. The complexity of pattern matching for a random string. SIAM J. Comput. 8, 3, 368--387.

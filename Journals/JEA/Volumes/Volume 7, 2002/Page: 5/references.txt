@@ -1,0 +1,31 @@
+BOJESEN, J., KATAJAINEN, J., AND SPORK, M. 1999. Performance engineering case study: Heap construction. In WAE, Lecture Notes in Computer Science (1999), pp. 301-315.
+CANTONE, D. AND CINCOTTI, G. 2000. QuickHeapsort, an efficient mix of classical sorting algorithms. In CIAC, Volume 1767 of Lecture Notes in Computer Science (2000), pp. 150-162.
+Ernst E. Doberkat, An average case analysis of Floyd's algorithm to construct heaps, Information and Control, v.61 n.2, p.114-131, May 1984[doi>10.1016/S0019-9958(84)80053-4]
+DUTTON, R.D. 1992. The weak-heap data structure. Technical report, University of Central Florida, Orlando, FL 32816.
+DUTTON, R.D. 1993. Weak-heap sort. BIT 33, 372-381.
+EDELKAMP, S. AND STIEGELER, P. 2000. Pushing the limits in sequential sorting. In WAE, Lecture Notes in Computer Science (2000). Springer.
+EDELKAMP, S. AND WEGENER, I. 2000. On the performance of WEAK-HEAPSORT. In STACS, Lecture Notes in Computer Science (2000), pp. 254-266.
+Michael L. Fredman , Robert Endre Tarjan, Fibonacci heaps and their uses in improved network optimization algorithms, Journal of the ACM (JACM), v.34 n.3, p.596-615, July 1987[doi>10.1145/28869.28874]
+Viliam Geffert , Jyrki Katajainen , Tomi Pasanen, Asymptotically efficient in-place merging, Theoretical Computer Science, v.237 n.1-2, p.159-181, April 28, 2000[doi>10.1016/S0304-3975(98)00162-5]
+Gregory L. Heileman, Data Structures, Algorithms and Object Oriented Programming, McGraw-Hill Higher Education, 1996
+Thomas N. Hibbard, An empirical study of minimal storage sorting, Communications of the ACM, v.6 n.5, p.206-213, May 1963[doi>10.1145/366552.366557]
+HOARE, C. A. R. 1962. Quicksort. Computer Journal 5, 1, 10-15.
+HUANG, B.-C. AND LANGSTON, M. 1992. Fast stable merging and sorting in constant extra space. Computat. Journal 35, 643-650.
+Bing-Chao Huang , Michael A. Langston, Practical in-place merging, Communications of the ACM, v.31 n.3, p.348-352, March 1988[doi>10.1145/42392.42403]
+Janet Incerpi , Robert Sedgewick, Improved upper bounds on Shellsort, Journal of Computer and System Sciences, v.31 n.2, p.210-224, Sept. 1985[doi>10.1016/0022-0000(85)90042-X]
+JIANG, T., LI, M., AND VITÁNYI, P. 1999. Average complexity of shellsort. In ICALP, Volume 1644 of Lecture Notes in Computer Science (1999), pp. 453-462.
+KATAJAINEN, J. 1998. The ultimate heapsort. In Proceedings of the Computing: the 4th Australasian Theory Symposium, Australian Computer Science Communications 20(3) (1998), pp. 87-95.
+Jyrki Katajainen , Tomi A. Pasanen, In-place sorting with fewer moves, Information Processing Letters, v.70 n.1, p.31-37, April 01, 1999[doi>10.1016/S0020-0190(99)00038-1]
+Jyrki Katajainen , Tomi Pasanen , Jukka Teuhola, Practical in-place mergesort, Nordic Journal of Computing, v.3 n.1, p.27-40, Spring 1996
+Donald E. Knuth, The art of computer programming,  volume 3: (2nd ed.) sorting and searching, Addison Wesley Longman Publishing Co., Inc., Redwood City, CA, 1998
+C. J. McDiarmid , B. A. Reed, Building heaps fast, Journal of Algorithms, v.10 n.3, p.352-365, September 1989[doi>10.1016/0196-6774(89)90033-3]
+NILSSON, S. 1996. Radix Sorting & Searching. Ph.D. thesis, Lund University.
+PAPERNOV, A. AND STASEVICH, G. 1965. The worst case in shellsort and related algorithms. Problems Inform. Transmission 1, 3, 63-75.
+Vaughan Ronald Pratt, Shellsort and sorting networks, Stanford University, Stanford, CA, 1972
+Klaus Reinhardt, Sorting In-Place with a Worst Case Complexity of n log n-1.3n + O(logn) Comparisons and epsilon n log n + O(1) Transports, Proceedings of the Third International Symposium on Algorithms and Computation, p.489-498, December 16-18, 1992
+Robert Sedgewick, A new upper bound for Shellsort, Journal of Algorithms, v.7 n.2, p.159-173, June 1986[doi>10.1016/0196-6774(86)90001-5]
+D. L. Shell, A high-speed sorting procedure, Communications of the ACM, v.2 n.7, p.30-32, July 1959[doi>10.1145/368370.368387]
+STEINHAUS, H. 1958. One hundred problems in elemantary mathematics (Problems 52,85). Pergamon Press, London.
+M. H. van Emden, Increasing the efficiency of quicksort, Communications of the ACM, v.13 n.9, p.563-567, Sept. 1970[doi>10.1145/362736.362753]
+Ingo Wegener, The worst case complexity of McDiarmid and Reed's variant of BOTTOM-UP HEAPSORT is less thannlogn+ 1.1n, Information and Computation, v.97 n.1, p.86-96, March 1992[doi>10.1016/0890-5401(92)90005-Z]
+Ingo Wegener, BOTTOM-UP-HEAPSORT, a new variant of HEAPSORT beating, on an average, QUICKSORT (ifnis not very small), Theoretical Computer Science, v.118 n.1, p.81-98, Sept. 13, 1993[doi>10.1016/0304-3975(93)90364-Y]

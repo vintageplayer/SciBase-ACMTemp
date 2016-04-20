@@ -1,0 +1,29 @@
+Aggarwal, A., Alpern, B., Chandra, A., and Snir, M. 1987. A model for hierarchical memory. In Proceedings of the 19th ACM Symposium on Theory of Computing (STOC'87). ACM, New York, 305--314.
+Aggarwal, A., Chandra, A., and Snir, M. 1987. Hierarchical memory with block transfer. In Proceedings of the 28th IEEE Annual Symposium on Foundations of Computer Science (FOCS'87). IEEE, Los Alamitos, CA, 204--216.
+Anastassia Ailamaki , David J. DeWitt , Mark D. Hill , David A. Wood, DBMSs on a Modern Processor: Where Does Time Go?, Proceedings of the 25th International Conference on Very Large Data Bases, p.266-277, September 07-10, 1999
+Alpern, B., Carter, L., Feig, E., and Selker, T. 1994. The uniform memory hierarchy model of computation. Algorithmica 12, 2/3, 72--109.
+Andrea C. Arpaci-Dusseau , Remzi H. Arpaci-Dusseau , David E. Culler , Joseph M. Hellerstein , David A. Patterson, High-performance sorting on networks of workstations, Proceedings of the 1997 ACM SIGMOD international conference on Management of data, p.243-254, May 11-15, 1997, Tucson, Arizona, USA[doi>10.1145/253260.253322]
+Paolo Bertasi , Marco Bressan , Enoch Peserico, psort, Yet Another Fast Stable Sorting Software, Proceedings of the 8th International Symposium on Experimental Algorithms, p.76-88, June 04-06, 2009, Dortmund, Germany[doi>10.1007/978-3-642-02011-7_9]
+Gianfranco Bilardi , Kattamuri Ekanadham , Pratap Pattnaik, Optimal organizations for pipelined hierarchical memories, Proceedings of the fourteenth annual ACM symposium on Parallel algorithms and architectures, August 10-13, 2002, Winnipeg, Manitoba, Canada[doi>10.1145/564870.564886]
+Bitton, D., Brown, M., Catell, R., Ceri, S., Chou, T., DeWitt, D., Gawlick, D., Garcia-Molina, H., Good, B., et al. 1985. A measure of transaction processing power. Datamation 31, 7, 112--118.
+Roman Dementiev , Peter Sanders, Asynchronous parallel disk sorting, Proceedings of the fifteenth annual ACM symposium on Parallel algorithms and architectures, June 07-09, 2003, San Diego, California, USA[doi>10.1145/777412.777435]
+DeWitt, D. J., Naughton, J. F., and Schneider, D. A. 1991. Parallel sorting on a shared-nothing architecture using probabilistic splitting. In Proceedings of the 1st International Conference on Parallel and Distributed Information Systems (PDIS'91). IEEE, Los Alamitos, CA, 280--291.
+GNUSort. GNU Coreutils, sort. http://www.gnu.org/software/coreutils/.
+Gray, J. 2007. A measure of transaction processing 20 years later. CoRR abs/cs/0701162.
+Gray, J., Coates, J., and Nyberg, C. 1998. Performance/price sort. CoRR cs.DB/9809004.
+John L. Hennessy , David A. Patterson, Computer architecture (2nd ed.): a quantitative approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1996
+Donald E. Knuth, The art of computer programming,  volume 3: (2nd ed.) sorting and searching, Addison Wesley Longman Publishing Co., Inc., Redwood City, CA, 1998
+Bradley C. Kuszmaul, Brief announcement: TeraByte TokuSampleSort sorts 1TB in 197s, Proceedings of the twenty-first annual symposium on Parallelism in algorithms and architectures, August 11-13, 2009, Calgary, AB, Canada[doi>10.1145/1583991.1584026]
+Mehlhorn, K. and Sanders, P. 2003. Scanning multiple sequences via cache memory. Algorithmica 35, 1, 75--93.
+Mark H. Nodine , Jeffrey Scott Vitter, Greed sort: optimal deterministic sorting on parallel disks, Journal of the ACM (JACM), v.42 n.4, p.919-933, July 1995[doi>10.1145/210332.210343]
+Nsort. Ordinal Technology. Nsort User Guide. http://www.ordinal.com/NsortUserGuide.pdf.
+Chris Nyberg , Tom Barclay , Zarka Cvetanovic , Jim Gray , Dave Lomet, AlphaSort: a cache-sensitive parallel external sort, The VLDB Journal — The International Journal on Very Large Data Bases, v.4 n.4, October 1995
+Nyberg, C., Koester, C., and Gray, J. 1997. Nsort: a parallel sorting program for NUMA and SMP machines. Ordinal Technologies white paper, 1997. http://www.ordinal.com/white/whitepaper.htm.
+OzSort. http://www.ozsort.com/.
+QSort. GNU C library, Array Sort Function. http://www.gnu.org/s/libc/manual/html_node/Array-Sort-Function.html.
+Naila Rahman , Richard Cole , Rajeev Raman, Optimised Predecessor Data Structures for Internal Memory, Proceedings of the 5th International Workshop on Algorithm Engineering, p.67-78, August 28-31, 2001
+Postman's Sort. http://www.rrsd.com/software_development/postmans_sort/.
+Sort Benchmark. Home page. http://sortbenchmark.org/.
+STLSort. GNU C++ library, ěrb+std+ namespace. http://gcc.gnu.org/onlinedocs/libstdc++/libstdc++-html-USERS-4.1/namespacestd.html.
+Valiant, L. G. 1990. A bridging model for parallel computation. Commun. ACM 33, 103--111.
+Yang, L., Huang, H., Wan, Z., and Song, T. 2003. SheenkSort: 2003 Performance/Price Sort and PennySort. http://sortbenchmark.org/SheenkSort.pdf.

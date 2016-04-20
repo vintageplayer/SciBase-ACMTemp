@@ -1,0 +1,39 @@
+Anurag Acharya , Huican Zhu , Kai Shen, Adaptive Algorithms for Cache-Efficient Trie Search, Selected papers from the International Workshop on Algorithm Engineering and Experimentation, p.296-311, January 15-16, 1999
+Andersson, A. and Nilsson, S. 1993. Improved behavior of tries by adaptive branching. Inf. Process. Lett. 46, 6, 295--300.
+Nikolas Askitis, Fast and compact hash tables for integer keys, Proceedings of the Thirty-Second Australasian Conference on Computer Science, January 01-01, 2009, Wellington, New Zealand
+Bayer, R. and McCreight, E. M. 1972. Organization and maintenance of large ordered indices. Acta. Inf. 1, 173--189.
+M. A. Bender , E. D. Demaine , M. Farach-Colton, Cache-oblivious B-trees, Proceedings of the 41st Annual Symposium on Foundations of Computer Science, p.399, November 12-14, 2000
+Brent, R. P. 2004. Note on marsaglia's xorshift random number generators. J. Stat. Software 11, 5, 1--4.
+Gerth Stølting Brodal , Rolf Fagerberg , Riko Jacob, Cache oblivious search trees via binary trees of small height, Proceedings of the thirteenth annual ACM-SIAM symposium on Discrete algorithms, p.39-48, January 06-08, 2002, San Francisco, California
+Thomas H. Cormen , Charles E. Leiserson , Ronald L. Rivest , Clifford Stein, Introduction to algorithms, MIT Press, Cambridge, MA, 2001
+Crosbie, R. and Gregg, D. 2009. Searching the parameter space for burst tries.
+Demaine, E. 2003. Fixed universe successor problem. Advanced Data Structures, MIT Course 6.897.
+Dementiev, R., Kettner, L., Mehnert, J., and Sanders, P. 2004. Engineering a sorted list data structure for 32 bit keys. In Proceedings of the 6th SIAM Workshop on Algorithm Engineering and Experiments. SIAM, Philadelphia, 142--151.
+Martin Dietzfelbinger , Martin Hühne , Christoph Weidling, A dictionary implementation based on dynamic perfect hashing, Journal of Experimental Algorithmics (JEA), 12, 2008[doi>10.1145/1227161.1370602]
+Dietzfelbinger, M., Karlin, A., Mehlhorn, K., Meyer auf der Heide, F., Rohnert, H., and Tarjan, R. E. 1994. Dynamic perfect hashing: Upper and lower bounds. SIAM J. Comput. 23, 4, 738--761.
+Leonor Frias , Jordi Petit , Salvador Roura, Lists revisited: Cache-conscious STL lists, Journal of Experimental Algorithmics (JEA), 14, 2009[doi>10.1145/1498698.1564505]
+Steffen Heinz , Justin Zobel , Hugh E. Williams, Burst tries: a fast, efficient data structure for string keys, ACM Transactions on Information Systems (TOIS), v.20 n.2, p.192-223, April 2002[doi>10.1145/506309.506312]
+IEEE. 2008. Standard for floating-point arithmetic. IEEE Std 754-2008, 1--58.
+Intel. 2007. Intel 64 and IA-32 Architectures Optimization Reference Manual.
+Svante Janson , Wojciech Szpankowski, Partial fillup and search time in LC tries, ACM Transactions on Algorithms (TALG), v.3 n.4, p.44-es, November 2007[doi>10.1145/1290672.1290681]
+Kasheff, Z. 2004. M.eng., Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology.
+Charles Knessl , Wojciech Szpankowski, Heights in Generalized Tries and PATRICIA Tries, Proceedings of the 4th Latin American Symposium on Theoretical Informatics, p.298-307, April 10-14, 2000
+Knessl, C. and Szpankowski, W. 2000b. A note on the asymptotic behavior of the heights in b-tries for b large. Electr. J. Comb. 7.
+Donald E. Knuth, The art of computer programming,  volume 3: (2nd ed.) sorting and searching, Addison Wesley Longman Publishing Co., Inc., Redwood City, CA, 1998
+Maureen Korda , Rajeev Raman, An Experimental Evaluation of Hybrid Data Structures for Searching, Proceedings of the 3rd International Workshop on Algorithm Engineering, p.213-227, July 19-21, 1999
+Manegold, S. and Boncz, P. 2004. Cache-memory and tlb calibration tool. http://homepages.cwi.nl/~manegold/Calibrator/calibrator.shtml
+Mehlhorn, K. and Näher, S. 1990. Bounded ordered dictionaries in o(loglogn) time and o(n) space. Inf. Process. Lett. 35, 4, 183--189.
+Nicholas Nash , David Gregg, Comparing integer data structures for 32 and 64 bit keys, Proceedings of the 7th international conference on Experimental algorithms, p.28-42, May 30-June 01, 2008, Provincetown, MA, USA
+Nilsson, S. 1996. Radix sorting and searching. Ph.D. thesis, Lund University.
+Nilsson, S. and Tikkanen, M. 2002. An experimental study of compression methods for dynamic tries. Algorithmica 33, 1, 19--33.
+Jun Rao , Kenneth A. Ross, Making B+- trees cache conscious in main memory, ACM SIGMOD Record, v.29 n.2, p.475-486, June 2000[doi>10.1145/335191.335449]
+Sinha, R. 2004. Using compact tries for cache-efficient sorting of integers. In Proceedings of the 3rd International Workshop on Efficient and Experimental Algorithms (WEA'04). Springer, Berlin, 513--528.
+Ranjan Sinha , Justin Zobel , David Ring, Cache-efficient string sorting using copying, Journal of Experimental Algorithmics (JEA), 11, 2006[doi>10.1145/1187436.1187439]
+Ranjan Sinha , Anthony Wirth, Engineering burstsort: towards fast in-place string sorting, Proceedings of the 7th international conference on Experimental algorithms, p.14-27, May 30-June 01, 2008, Provincetown, MA, USA
+Ranjan Sinha , Justin Zobel, Cache-conscious sorting of large sets of strings with dynamic tries, Journal of Experimental Algorithmics (JEA), 9, 2004[doi>10.1145/1005813.1041517]
+Ranjan Sinha , Justin Zobel, Using random sampling to build approximate tries for efficient string sorting, Journal of Experimental Algorithmics (JEA), 10, 2005[doi>10.1145/1064546.1180622]
+Sleator, D. D. and Tarjan, R. E. 1985. Self-adjusting binary search trees. J. ACM 32, 3, 652--686.
+Bjarne Stroustrup, The  C++ Programming Language, Third Edition, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1997
+Sussenguth, E. H. 1963. Use of tree structures for processing files. Commun. ACM 6, 5, 272--279.
+van Emde Boas, P. 1977. Preserving order in a forest in less than logarithmic time and linear space. Inf. Process. Lett. 6, 3, 80--82.
+Willard, D. E. 1984. New trie data structures which support very fast search operations. J. Comput. Syst. Sci. 28, 3, 379--394.

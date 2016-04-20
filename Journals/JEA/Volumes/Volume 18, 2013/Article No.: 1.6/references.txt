@@ -1,0 +1,26 @@
+Aslam, J. A. and Dhagat, A. 1991. Searching in the presence of linearly bounded errors. In Proceedings of the 23rd Annual ACM Symposium on Theory of Computing (STOC'91). ACM, New York, 486--493.
+Assaf, S. and Upfal, E. 1991. Fault tolerant sorting networks. SIAM J. Discret. Math. 4, 4, 472--480.
+Aumann, Y. and Bender, M. A. 1996. Fault tolerant data structures. In Proceedings of the 37th Annual Symposium on Foundations of Computer Science (FOCS'96). IEEE Computer Society, Los Alamitos, CA, USA, 580--.
+Borgstrom, R. S. and Kosaraju, S. R. 1993. Comparison-based search in the presence of errors. In Proceedings of the 25th Annual ACM Symposium on Theory of Computing (STOC'93). ACM, New York, 130--136.
+Boyer, R. S. and Moore, J. S. 1982. MJRTY—a fast majority vote algorithm. http://www.cs.utexas.edu/ftp/techreports/tr81-32.pdf.
+Brodal, G. S., Fagerberg, R., Finocchi, I., Grandoni, F., Italiano, G. F., Jørgensen, A. G., Moruz, G., and Mølhave, T. 2007. Optimal resilient dynamic dictionaries. In Proceedings of the 15th Annual European Symposium on Algorithms (ESA'07). Springer-Verlag, Berlin, 347--358.
+Chlebus, B. S., Gambin, A., and Indyk, P. 1996. Shared-memory simulations on a faulty-memory DMM. In Proceedings of the 23rd International Colloquium on Automata, Languages and Programming (ICALP'96). Springer-Verlag, Berlin, 586--597.
+Feige, U., Raghavan, P., Peleg, D., and Upfal, E. 1994. Computing with noisy information. SIAM J. Comput. 23, 5, 1001--1018.
+Ferraro-Petrillo, U., Finocchi, I., and Italiano, G. F. 2006. The price of resiliency: A case study on sorting with memory faults. In Proceedings of the 14th Annual European Symposium on Algorithms (ESA'06). Springer, Berlin, 768--779.
+Ferraro-Petrillo, U., Finocchi, I., and Italiano, G. F. 2009. The price of resiliency: A case study on sorting with memory faults. Algorithmica 53, 4, 597--620.
+Ferraro-Petrillo, U., Finocchi, I., and Italiano, G. F. 2010a. Experimental study of resilient algorithms and data structures. In Proceedings of the 9th International Symposium on Experimental Algorithms (SEA'10). Springer, Berlin, 1--12.
+Ferraro-Petrillo, U., Grandoni, F., and Italiano, G. F. 2010b. Data structures resilient to memory faults: An experimental study of dictionaries. In Proceedings of the 9th International Symposium on Experimental Algorithms (SEA'10). Springer, Berlin, 398--410.
+Finocchi, I., Grandoni, F., and Italiano, G. F. 2005. Designing reliable algorithms in unreliable memories. In Proceedings of the 13th Annual European Symposium on Algorithms (ESA'05). Springer-Verlag, Berlin, 1--8.
+Finocchi, I., Grandoni, F., and Italiano, G. F. 2007. Resilient search trees. In Proceedings of the 18th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA'07). SIAM, Philadelphia, 547--553.
+Finocchi, I., Grandoni, F., and Italiano, G. F. 2009. Optimal resilient sorting and searching in the presence of memory faults. Theor. Comput. Sci. 410, 44, 4457--4470.
+Finocchi, I. and Italiano, G. F. 2008. Sorting and searching in faulty memories. Algorithmica 52, 3, 309--332.
+Hamdioui, S., Al-Ars, Z., Van De Goor, A. J., and Rodgers, M. 2003. Dynamic faults in random-access-memories: Concept, fault models and tests. J. Electron. Test. 19, 2, 195--205.
+Henzinger, M. 2004. The past, present and future of web search engines (invited talk). In Proceedings of the 31st International Colloquium on Automata, Languages and Programming (ICALP'04). Springer.
+Henzinger, M. 2007. Combinatorial algorithms for web search engines: Three success stories. In Proceedings of the 18th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA'07). SIAM, Philadelphia, 1022--1026.
+Leighton, T. and Ma, Y. 1999. Tight bounds on the size of fault-tolerant merging and sorting networks with destructive faults. SIAM J. Comput. 29, 1, 258--273.
+May, T. and Woods, M. 1979. Alpha-particle-induced soft errors in dynamic memories. IEEE Trans. Electron Devices 26, 1, 2--9.
+Pelc, A. 2002. Searching games with errors—fifty years of coping with liars. Theor. Comput. Sci. 270, 1-2, 71--109.
+Rivest, R. L., Meyer, A. R., and Kleitman, D. J. 1978. Coping with errors in binary search procedures (preliminary report). In Proceedings of the 10th Annual ACM Symposium on Theory of Computing (STOC'78). ACM, New York, 227--232.
+Schroeder, B., Pinheiro, E., and Weber, W.-D. 2009. Dram errors in the wild: A large-scale field study. In Proceedings of the 11th International Joint Conference on Measurement and Modeling of Computer Systems (SIGMETRICS'09). ACM, New York, 193--204.
+Tezzaron Semiconductor. 2004. Soft Errors in electronic memory—A white paper. Tech. rep. http://www. tezzaron.com/about/papers/soft_errors_1_1_secure.pdf.
+Yao, A. and Yao, F. 1985. On fault-tolerant networks for sorting. SIAM J. Comput. 14, 1, 120--128.

@@ -1,0 +1,40 @@
+Anurag Acharya, Huican Zhu, and Kai Shen. 1999. Adaptive algorithms for cache-efficient trie search. In Algorithm Engineering and Experimentation. Lecture Notes in Computer Science, Vol. 1619. Springer, 296--311.
+AOL. 2006. AOL Search Data. Retrieved September 9, 2014, from http://www.gregsadetsky.com/aol-data/.
+Diego Arroyuelo, Rodrigo Cánovas, Gonzalo Navarro, and Kunihiko Sadakane. 2010. Succinct trees in practice. In Proceedings of the 12th Workshop on Algorithm Engineering and Experiments (ALENEX). 84--97.
+Djamal Belazzougui, Paolo Boldi, Rasmus Pagh, and Sebastiano Vigna. 2009. Monotone minimal perfect hashing: Searching a sorted table withO(1) accesses. In Proceedings of the 20th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA’09). 785--794.
+Djamal Belazzougui, Paolo Boldi, Rasmus Pagh, and Sebastiano Vigna. 2011. Theory and practice of monotone minimal perfect hashing. ACM Journal on Experimental Algorithmics 16, Article No. 3.2. DOI: http://dx.doi.org/10.1145/1963190.2025378
+Michael A. Bender, Martin Farach-Colton, and Bradley C. Kuszmaul. 2006. Cache-oblivious string B-trees. In Proceedings of the 25th ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems. ACM, New York, NY, 233--242.
+David Benoit, Erik D. Demaine, J. Ian Munro, Rajeev Raman, Venkatesh Raman, and S. Srinivasa Rao. 2005. Representing trees of higher degree. Algorithmica 43, 4, 275--292.
+Daniel K. Blandford and Guy E. Blelloch. 2008. Compact dictionaries for variable-length keys and data with applications. ACM Transactions on Algorithms 4, 2, Article No. 17.
+Paolo Boldi, Bruno Codenotti, Massimo Santini, and Sebastiano Vigna. 2004. UbiCrawler: A scalable fully distributed Web crawler. Software: Practice and Experience 34, 8, 711--726.
+Nieves R. Brisaboa, Rodrigo Cánovas, Francisco Claude, Miguel A. Martínez-Prieto, and Gonzalo Navarro. 2011. Compressed string dictionaries. In Proceedings of the 10th International Conference on Experimental Algorithms (SEA’11). 136--147.
+Gerth Stølting Brodal and Rolf Fagerberg. 2006. Cache-oblivious string dictionaries. In Proceedings of the 17th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA’06). ACM, New York, NY, 581--590.
+Sheng-Yuan Chiu, Wing-Kai Hon, Rahul Shah, and Jeffrey Scott Vitter. 2010. I/O-efficient compressed text indexes: From theory to practice. In Proceedings of the 2010 Data Compression Conference (DCC’10). IEEE, Los Alamitos, CA, 426--434.
+David Richard Clark. 1998. Compact Pat Trees. Ph.D. Dissertation. University of Waterloo, Waterloo, Ontario, Canada.
+Francisco Claude and Gonzalo Navarro. 2010. Fast and compact Web graph representations. ACM Transactions on the Web 4, 4, Article No. 16.
+Pooya Davoodi, Rajeev Raman, and S. Srinivasa Rao. 2012. Succinct representations of binary trees for range minimum queries. In Proceedings of the 18th Annual International Conference on Computing and Combinatories (COCOON). 396--407.
+Peter Elias. 1974. Efficient storage and retrieval by content and address of static files. Journal of the ACM 21, 2, 246--260.
+Peter Elias. 1975. Universal codeword sets and representations of the integers. IEEE Transactions on Information Theory 21, 2, 194--203.
+Robert M. Fano. 1971. On the number of bits required to implement an associative memory. Memorandum 61. Computer Structures Group, Project MAC. MIT, Cambridge, MA.
+Paolo Ferragina and Roberto Grossi. 1999. The string B-tree: A new data structure for string search in external memory and its applications. Journal of the ACM 46, 2, 236--280.
+Paolo Ferragina, Roberto Grossi, Ankur Gupta, Rahul Shah, and Jeffrey Scott Vitter. 2008. On searching compressed string collections cache-obliviously. In Proceedings of the 27th ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems (PODS’08). 181--190.
+Paolo Ferragina, Fabrizio Luccio, Giovanni Manzini, and S. Muthukrishnan. 2009. Compressing and indexing labeled trees, with applications. Journal of the ACM 57, 1, Article No. 4.
+Roberto Grossi and Jeffrey Scott Vitter. 2005. Compressed suffix arrays and suffix trees with applications to text indexing and string matching. SIAM Journal on Computing 35, 2, 378--407.
+Bo-June (Paul) Hsu and Giuseppe Ottaviano. 2013. Space-efficient data structures for top-k completion. In Proceedings of the 22th International Conference on World Wide Web (WWW’13). 583--594.
+Guy Jacobson. 1989. Space-efficient static trees and graphs. In Proceedings of the 30th Annual Symposium on Foundations of Computer Science (SFCS’89). 549--554.
+Jesper Jansson, Kunihiko Sadakane, and Wing-Kin Sung. 2012. Ultra-succinct representation of ordered trees with applications. Journal of Computer and System Sciences 78, 2, 619--631.
+Donald E. Knuth. 1998. The Art of Computer Programming, Volume 3: Sorting and Searching (2nd ed.). Addison-Wesley, Reading, MA.
+Donald E. Knuth. 2009. The Art of Computer Programming, Volume 4, Fascicle 1: Bitwise Tricks and Techniques; Binary Decision Diagrams (12th ed.). Addison-Wesley Professional.
+N. Jesper Larsson and Alistair Moffat. 1999. Offline dictionary-based compression. In Proceedings of the Data Compression Conference. 296--305.
+LAW. 2011. Laboratory for Web Algorithmics—Datasets. Retrieved September 9, 2014, from law.dsi.unimi.it/datasets.php.
+LIBCDS. 2011. LIBCDS—Compact Data Structures Library. Retrieved September 9, 2014, from https://github.com/fclaude/libcds.
+J. Ian Munro and Venkatesh Raman. 2001. Succinct representation of balanced parentheses and static trees. SIAM Journal on Computing 31, 3, 762--776. DOI: http://dx.doi.org/10.1137/S0097539799364092
+Daisuke Okanohara and Kunihiko Sadakane. 2007. Practical entropy-compressed rank/select dictionary. In Proceedings of the 9th Workshop on Algorithm Engineering and Experiments (ALENEX).
+Kunihiko Sadakane and Gonzalo Navarro. 2010. Fully-functional succinct trees. In Proceedings of the 21st Annual ACM-SIAM Symposium on Discrete Algorithms (SODA’10). 134--149.
+SDSL. 2010. SDSL 0.9—Succinct Data Structure Library. Retrieved September 9, 2014, from http://www.uni-ulm.de/in/theo/research/sdsl.html.
+Daniel Dominic Sleator and Robert Endre Tarjan. 1981. A data structure for dynamic trees. In Proceedings of the 13th Annual ACM Symposium on Theory of Computing (STOC’81). 114--122.
+SUCCINCT. 2012. Succinct Library. Retrieved September 9, 2014, from http://github.com/ot/succinct.
+SUX4J. 2011. Sux 0.7 and Sux4J 2.0.1—Implementing Succinct Data Structures. Retrieved September 9, 2014, from http://sux.di.unimi.it/.
+TX. 2010. Tx 0.18—Succinct Trie Data Structure. Retrieved September 9, 2014, from http://code.google.com/p/tx-trie/.
+Sebastiano Vigna. 2008. Broadword implementation of rank/select queries. In Proceedings of the 7th International Conference on Experimental Algorithms (WEA’08). 154--168.
+Hugh E. Williams and Justin Zobel. 1999. Compressing integers for fast file access. Computer Journal 42, 3, 193--201.

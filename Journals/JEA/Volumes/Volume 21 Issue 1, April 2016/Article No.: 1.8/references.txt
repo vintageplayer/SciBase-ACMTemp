@@ -1,0 +1,55 @@
+A. Abeliuk, R. Cánovas, and G. Navarro. 2013. Practical compressed suffix trees. Algorithms 6, 2 (2013), 319--351.
+Andrés Abeliuk , Gonzalo Navarro, Compressed suffix trees for repetitive texts, Proceedings of the 19th international conference on String Processing and Information Retrieval, p.30-41, October 21-25, 2012, Cartagena de Indias, Colombia[doi>10.1007/978-3-642-34109-0_5]
+Mohamed Ibrahim Abouelhoda , Stefan Kurtz , Enno Ohlebusch, Replacing suffix trees with enhanced suffix arrays, Journal of Discrete Algorithms, v.2 n.1, p.53-86, March 2004[doi>10.1016/S1570-8667(03)00065-0]
+A. Apostolico. 1985. The Myriad Virtues of Subword Trees. Springer-Verlag, 85--96.
+Diego Arroyuelo , Rodrigo Cánovas , Gonzalo Navarro , Kunihiko Sadakane, Succinct trees in practice, Proceedings of the Meeting on Algorithm Engineering & Expermiments, p.84-97, January 16-16, 2010, Austin, Texas
+Philip Bille , Gad M. Landau , Rajeev Raman , Kunihiko Sadakane , Srinivasa Rao Satti , Oren Weimann, Random access to grammar-compressed strings, Proceedings of the twenty-second annual ACM-SIAM symposium on Discrete Algorithms, p.373-389, January 23-25, 2011, San Francisco, California
+Nieves R. Brisaboa , Susana Ladra , Gonzalo Navarro, DACs: Bringing direct access to variable-length codes, Information Processing and Management: an International Journal, v.49 n.1, p.392-404, January, 2013[doi>10.1016/j.ipm.2012.08.003]
+Rodrigo Cánovas , Gonzalo Navarro, Practical compressed suffix trees, Proceedings of the 9th international conference on Experimental Algorithms, May 20-22, 2010, Naples, Italy[doi>10.1007/978-3-642-13193-6_9]
+Francisco Claude , Gonzalo Navarro, Self-Indexed Grammar-Based Compression, Fundamenta Informaticae, v.111 n.3, p.313-337, August 2011
+Francisco Claude , Gonzalo Navarro, Improved grammar-based compressed indexes, Proceedings of the 19th international conference on String Processing and Information Retrieval, p.180-192, October 21-25, 2012, Cartagena de Indias, Colombia[doi>10.1007/978-3-642-34109-0_19]
+H. Comon, M. Dauchet, R. Gilleron, C. Löding, F. Jacquemard, D. Lugiez, S. Tison, and M. Tommasi. 2007. Tree Automata Techniques and Applications. INRIA.
+A. Crauser and P. Ferragina. 2002. A theoretical and experimental study on the construction of suffix arrays in external memory. Algorithmica 32, 1 (2002), 1--35.
+Roman Dementiev , Juha Kärkkäinen , Jens Mehnert , Peter Sanders, Better external memory suffix array construction, Journal of Experimental Algorithmics (JEA), 12, 2008[doi>10.1145/1227161.1402296]
+Huy Hoang Do , Jesper Jansson , Kunihiko Sadakane , Wing-Kin Sung, Fast relative lempel-ziv self-index for similar sequences, Proceedings of the 6th international Frontiers in Algorithmics, and Proceedings of the 8th international conference on Algorithmic Aspects in Information and Management, p.291-302, May 14-16, 2012, Beijing, China[doi>10.1007/978-3-642-29700-7_27]
+Paolo Ferragina , Travis Gagie , Giovanni Manzini, Lightweight Data Indexing and Compression in External Memory, Algorithmica, v.63 n.3, p.707-730, July 2012[doi>10.1007/s00453-011-9535-0]
+Paolo Ferragina , Roberto Grossi, The string B-tree: a new data structure for string search in external memory and its applications, Journal of the ACM (JACM), v.46 n.2, p.236-280, March 1999[doi>10.1145/301970.301973]
+Paolo Ferragina , Giovanni Manzini , Veli Mäkinen , Gonzalo Navarro, Compressed representations of sequences and full-text indexes, ACM Transactions on Algorithms (TALG), v.3 n.2, p.20-es, May 2007[doi>10.1145/1240233.1240243]
+Johannes Fischer, Wee LCP, Information Processing Letters, v.110 n.8-9, p.317-320, April, 2010[doi>10.1016/j.ipl.2010.02.010]
+Johannes Fischer , Veli Mäkinen , Gonzalo Navarro, Faster entropy-bounded compressed suffix trees, Theoretical Computer Science, v.410 n.51, p.5354-5364, November, 2009[doi>10.1016/j.tcs.2009.09.012]
+Travis Gagie , Paweł Gawrychowski , Juha Kärkkäinen , Yakov Nekrich, A faster grammar-based self-index, Proceedings of the 6th international conference on Language and Automata Theory and Applications, March 05-09, 2012, A Coruña, Spain[doi>10.1007/978-3-642-28332-1_21]
+S. Gog. 2015. Succinct Data Structures Library (SDSL). (2015). https://github.com/simongog/sdsl-lite.
+S. Gog, A. Moffat, J. S. Culpepper, A. Turpin, and A. Wirth. 2014. Large-scale pattern search using reduced-space on-disk suffix arrays. IEEE Transactions on Knowledge and Data Engineering 26, 8 (2014), 1918--1931.
+Dan Gusfield, Algorithms on strings, trees, and sequences: computer science and computational biology, Cambridge University Press, New York, NY, 1997
+G. Jacobson, Space-efficient static trees and graphs, Proceedings of the 30th Annual Symposium on Foundations of Computer Science, p.549-554, October 30-November 01, 1989[doi>10.1109/SFCS.1989.63533]
+L. B. Jorde and S. P. Wooding. 2004. Genetic variation, classification and ‘race’. Nature Genetics 36, 11s (2004), S28--S33.
+J. Kärkkäinen and D. Kempa. 2014a. Engineering a lightweight external memory suffix array construction algorithm. In Proceedings of the 2nd International Conference on Algorithms for Big Data (ICABD). CEUR, 53--60.
+Juha Kärkkäinen , Dominik Kempa, LCP Array Construction in External Memory, Proceedings of the 13th International Symposium on Experimental Algorithms, June 29-July 01, 2014[doi>10.1007/978-3-319-07959-2_35]
+J. Kärkkäinen and S. Rao. 2003. Algorithms for Memory Hierarchies. Springer, Chapter 7: Full-text indexes in external memory, 149--170.
+Sebastian Kreft , Gonzalo Navarro, On compressing and indexing repetitive sequences, Theoretical Computer Science, 483, p.115-133, April, 2013[doi>10.1016/j.tcs.2012.02.006]
+Stefan Kurtz, Reducing the space requirement of suffix trees, Software—Practice & Experience, v.29 n.13, p.1149-1171, Nov. 1999[doi>10.1002/(SICI)1097-024X(199911)29:13<1149::AID-SPE274>3.0.CO;2-O]
+Shanika Kuruppu , Simon J. Puglisi , Justin Zobel, Optimized relative Lempel-Ziv compression of genomes, Proceedings of the Thirty-Fourth Australasian Computer Science Conference, p.91-98, January 17-20, 2011, Perth, Australia
+J. Larsson and A. Moffat. 2000. Off-line dictionary-based compression. Proceedings of the IEEE 88, 11 (2000), 1722--1732.
+Markus Lohrey , Sebastian Maneth , Roy Mennicke, Tree Structure Compression with RePair, Proceedings of the 2011 Data Compression Conference, p.353-362, March 29-31, 2011[doi>10.1109/DCC.2011.42]
+V. Mäkinen, G. Navarro, J. Sirén, and N. Välimäki. 2010. Storage and retrieval of highly repetitive sequence collections. Journal of Computational Biology 17, 3 (2010), 281--308.
+Udi Manber , Gene Myers, Suffix arrays: a new method for on-line string searches, SIAM Journal on Computing, v.22 n.5, p.935-948, Oct. 1993[doi>10.1137/0222058]
+S. Maneth and G. Busatto. 2004. Tree transducers and tree compressions. In Proceedings of the 7th International Conference on Foundations of Software Science and Computation Structures (FoSSaCS), Lecture Notes in Computer Science, Vol. 2987. Springer, 363--377.
+Giovanni Manzini, An analysis of the Burrows—Wheeler transform, Journal of the ACM (JACM), v.48 n.3, p.407-430, May 2001[doi>10.1145/382780.382782]
+Edward M. McCreight, A Space-Economical Suffix Tree Construction Algorithm, Journal of the ACM (JACM), v.23 n.2, p.262-272, April 1976[doi>10.1145/321941.321946]
+J. Ian Munro , Rajeev Raman , Venkatesh Raman , Satti Srinivasa Rao, Succinct representations of permutations, Proceedings of the 30th international conference on Automata, languages and programming, June 30-July 04, 2003, Eindhoven, The Netherlands
+J. C. Na, H. Park, M. Crochemore, J. Holub, C. S. Iliopoulos, L. Mouchard, and K. Park. 2013. Suffix tree of alignment: An efficient index for similar data. In Proceedings of the International Workshop on Combinatorial Algorithms (IWOCA). Springer, 337--348.
+G. Navarro. 2012. Indexing highly repetitive collections. In Proceedings of the 23rd International Workshop on Combinatorial Algorithms (IWOCA), Lecture Notes in Computer Science, Vol. 7643. Springer, 274--279.
+Gonzalo Navarro , Veli Mäkinen, Compressed full-text indexes, ACM Computing Surveys (CSUR), v.39 n.1, p.2-es, 2007[doi>10.1145/1216370.1216372]
+Gonzalo Navarro , Alberto Ordóñez, Faster Compressed Suffix Trees for Repetitive Text Collections, Proceedings of the 13th International Symposium on Experimental Algorithms, June 29-July 01, 2014[doi>10.1007/978-3-319-07959-2_36]
+Gonzalo Navarro , Alberto Ordóñez, Grammar Compressed Sequences with Rank/Select Support, Proceedings of the 21st International Symposium on String Processing and Information Retrieval, October 20-22, 2014, Ouro Preto, Brazil[doi>10.1007/978-3-319-11918-2_4]
+Gonzalo Navarro , Simon J. Puglisi , Daniel Valenzuela, Practical compressed document retrieval, Proceedings of the 10th international conference on Experimental algorithms, May 05-07, 2011, Crete, Greece
+Gonzalo Navarro , Kunihiko Sadakane, Fully Functional Static and Dynamic Succinct Trees, ACM Transactions on Algorithms (TALG), v.10 n.3, p.1-39, June 2014[doi>10.1145/2601073]
+E. Ohlebusch. 2013. Bioinformatics Algorithms: Sequence Analysis, Genome Rearrangements, and Phylogenetic Reconstruction. Oldenbusch Verlag.
+Enno Ohlebusch , Johannes Fischer , Simon Gog, CST++, Proceedings of the 17th international conference on String processing and information retrieval, October 11-13, 2010, Los Cabos, Mexico
+Luís M. S. Russo , Gonzalo Navarro , Arlindo L. Oliveira, Fully compressed suffix trees, ACM Transactions on Algorithms (TALG), v.7 n.4, p.1-34, September 2011[doi>10.1145/2000807.2000821]
+Kunihiko Sadakane, Compressed Suffix Trees with Full Functionality, Theory of Computing Systems, v.41 n.4, p.589-607, December 2007[doi>10.1007/s00224-006-1198-x]
+H. Sakamoto. 2005. A fully linear-time approximation algorithm for grammar-based compression. Journal of Discrete Algorithms 3 (2005), 416--430.
+Y. Tabei, Y. Takabatake, and H. Sakamoto. 2013. A succinct grammar compression. In Proceedings of the 24th Annual Symposium on Combinatorial Pattern Matching (CPM), Lecture Notes in Computer Science, Vol. 7922. Springer, 235--246.
+S. A. Tishkoff and K. K. Kidd. 2004. Implications of biogeography of human populations for ‘race’ and medicine. Nature Genetics 36, 11s (2004), S21--S27.
+E. Ukkonen. 1995. Constructing suffix trees on-line in linear time. Algorithmica 14, 3 (1995), 249--260.
+Peter Weiner, Linear pattern matching algorithms, Proceedings of the 14th Annual Symposium on Switching and Automata Theory (swat 1973), p.1-11, October 15-17, 1973[doi>10.1109/SWAT.1973.13]

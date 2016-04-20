@@ -1,0 +1,33 @@
+Aho, A., Hopcroft, J. E., and Ullman, J. D. 1974. The Design and Analysis of Computer Algorithms. Addison-Wesley, Reading, MA.
+Arne Andersson , Stefan Nilsson, Implementing radixsort, Journal of Experimental Algorithmics (JEA), 3, p.7-es, 1998[doi>10.1145/297096.297136]
+Lars Arge , Paolo Ferragina , Roberto Grossi , Jeffrey Scott Vitter, On sorting strings in external memory (extended abstract), Proceedings of the twenty-ninth annual ACM symposium on Theory of computing, p.540-548, May 04-06, 1997, El Paso, Texas, USA[doi>10.1145/258533.258647]
+Nikolas Askitis , Ranjan Sinha, HAT-trie: a cache-conscious trie-based data structure for strings, Proceedings of the thirtieth Australasian conference on Computer science, p.97-105, January 30-February 02, 2007, Ballarat, Victoria, Australia
+Nikolas Askitis , Justin Zobel, Cache-Conscious collision resolution in string hash tables, Proceedings of the 12th international conference on String Processing and Information Retrieval, November 02-04, 2005, Buenos Aires, Argentina[doi>10.1007/11575832_11]
+Michael A. Bender , Martin Farach-Colton , Bradley C. Kuszmaul, Cache-oblivious string B-trees, Proceedings of the twenty-fifth ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems, June 26-28, 2006, Chicago, IL, USA[doi>10.1145/1142351.1142385]
+Benson, D. A., Karsch-Mizrachi, I., Lipman, D. J., Ostell, J., and Wheeler, D. L. 2003. Genbank. Nucleic Acids Res. 31, 1, 23--27.
+Jon L. Bentley , Robert Sedgewick, Fast algorithms for sorting and searching strings, Proceedings of the eighth annual ACM-SIAM symposium on Discrete algorithms, p.360-369, January 05-07, 1997, New Orleans, Louisiana, USA
+Bentley, J. L. and McIlroy, M. D. 1993. Engineering a sort function. Softw. Pract. Exp. 23, 11, 1249--1265.
+Gerth Stølting Brodal , Rolf Fagerberg , Riko Jacob, Cache oblivious search trees via binary trees of small height, Proceedings of the thirteenth annual ACM-SIAM symposium on Discrete algorithms, p.39-48, January 06-08, 2002, San Francisco, California
+Gerth Stølting Brodal , Rolf Fagerberg , Kristoffer Vinther, Engineering a cache-oblivious sorting algorithm, Journal of Experimental Algorithmics (JEA), 12, 2008[doi>10.1145/1227161.1227164]
+Demaine, E. D. 2002. Cache-oblivious algorithms and data structures. In Lecture Notes from the EEF Summer School on Massive Data Sets. Springer, Berlin.
+Matteo Frigo , Charles E. Leiserson , Harald Prokop , Sridhar Ramachandran, Cache-Oblivious Algorithms, Proceedings of the 40th Annual Symposium on Foundations of Computer Science, p.285, October 17-18, 1999
+Goetz Graefe, Implementing sorting in database systems, ACM Computing Surveys (CSUR), v.38 n.3, p.10-es, 2006[doi>10.1145/1132960.1132964]
+Donna Harman, Overview of the second text retrieval conference (TREC-2), Information Processing and Management: an International Journal, v.31 n.3, p.271-289, May-June 1995[doi>10.1016/0306-4573(94)00047-7]
+Bingsheng He , Qiong Luo, Cache-oblivious databases: Limitations and opportunities, ACM Transactions on Database Systems (TODS), v.33 n.2, p.1-42, June 2008[doi>10.1145/1366102.1366105]
+Steffen Heinz , Justin Zobel , Hugh E. Williams, Burst tries: a fast, efficient data structure for string keys, ACM Transactions on Information Systems (TOIS), v.20 n.2, p.192-223, April 2002[doi>10.1145/506309.506312]
+Juha Kärkkäinen , Tommi Rantala, Engineering Radix Sort for Strings, Proceedings of the 15th International Symposium on String Processing and Information Retrieval, p.3-14, November 10-12, 2008, Melbourne, Australia[doi>10.1007/978-3-540-89097-3_3]
+Knuth, D. E. 1998. The Art of Computer Programming: Sorting and Searching 2nd Ed. vol. 3. Addison-Wesley, Reading, MA.
+Levitin, A. 2007. Introduction to the Design and Analysis of Algorithms 2nd Ed. Pearson, Upper Saddle River, NJ.
+McIlroy, P. M., Bostic, K., and McIlroy, M. D. 1993. Engineering radix sort. Comput. Syst. 6, 1, 5--27.
+Alistair Moffat , Gary Eddy , Ola Petersson, Splaysort: fast, versatile, practical, Software—Practice & Experience, v.26 n.7, p.781-797, July 1996[doi>10.1002/(SICI)1097-024X(199607)26:7<781::AID-SPE35>3.3.CO;2-2]
+Nicholas Nash , David Gregg, Comparing integer data structures for 32 and 64 bit keys, Proceedings of the 7th international conference on Experimental algorithms, p.28-42, May 30-June 01, 2008, Provincetown, MA, USA
+Waihong Ng , Katsuhiko Kakehi, Cache Efficient Radix Sort for String Sorting, IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, v.E90-A n.2, p.457-466, February 2007[doi>10.1093/ietfec/e90-a.2.457]
+Nilsson, S. and Tikkanen, M. 1998. Implementing a dynamic compressed trie. In Proceedings of the Workshop on Algorithm Engineering. SIAM, Philadelphia, 25--36.
+Ostlin, A. and Pagh, R. 2003. Cache-oblivious algorithms. http://www.itu.dk/_annao/ADT03/lecture10.pdf.
+Robert Sedgewick, Algorithms in C, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 2002
+Seward, J. 2001. Valgrind—memory and cache profiler. http://developer.kde.org/_sewardj/docs-1.9.5/cgtechdocs.html.
+Sinha, R. and Askitis, N. 2010. Copy-based approach: A deeper understanding.
+Ranjan Sinha , Justin Zobel , David Ring, Cache-efficient string sorting using copying, Journal of Experimental Algorithmics (JEA), 11, 2006[doi>10.1145/1187436.1187439]
+Ranjan Sinha , Justin Zobel, Cache-conscious sorting of large sets of strings with dynamic tries, Journal of Experimental Algorithmics (JEA), 9, 2004[doi>10.1145/1005813.1041517]
+Ranjan Sinha , Justin Zobel, Using random sampling to build approximate tries for efficient string sorting, Journal of Experimental Algorithmics (JEA), 10, 2005[doi>10.1145/1064546.1180622]
+Jingren Zhou , Kenneth A. Ross, Implementing database operations using SIMD instructions, Proceedings of the 2002 ACM SIGMOD international conference on Management of data, June 03-06, 2002, Madison, Wisconsin[doi>10.1145/564691.564709]

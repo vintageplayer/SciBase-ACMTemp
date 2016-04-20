@@ -1,0 +1,38 @@
+Abadie, J. and Carpentier, J. 1969. Generalization of the Wolfe reduced gradient method to the case of nonlinear constraints. In Optimization. Academic Press, New York, 37--47.
+Kumar Abhishek , Sven Leyffer , Jeff Linderoth, FilMINT: An Outer Approximation-Based Solver for Convex Mixed-Integer Nonlinear Programs, INFORMS Journal on Computing, v.22 n.4, p.555-567, Fall 2010[doi>10.1287/ijoc.1090.0373]
+Tobias Achterberg , Thorsten Koch , Alexander Martin, Branching rules revisited, Operations Research Letters, v.33 n.1, p.42-54, January, 2005[doi>10.1016/j.orl.2004.04.002]
+Applegate, D., Bixby, R., Chvátal, V., and Cook, W. 1998. On the solution of traveling salesman problems. In Proceedings of the International Congress of Mathematicians, vol. III (Berlin, 1998). Doc. Math., 645--656.
+David L. Applegate , Robert E. Bixby , Vasek Chvatal , William J. Cook, The Traveling Salesman Problem: A Computational Study (Princeton Series in Applied Mathematics), Princeton University Press, Princeton, NJ, 2007
+Beale, E. and Tomlin, J. 1970. Special facilities in a general mathematical programming system for nonconvex problems using ordered sets of variables. In Proceedings of the 5th International Conference on Operational Research. 447--454.
+Beale, E. M. L. and Forrest, J. J. H. 1976. Global optimization using special ordered sets. Math. Program. 10, 52--69.
+Benichou, M., Gauthier, J.-M., Girodet, P., Hentges, G., Ribière, G., and Vincent, O. 1971. Experiments in mixed-integer linear programming. Math. Program. 1, 1, 76--94.
+Pierre Bonami , Lorenz T. Biegler , Andrew R. Conn , GéRard CornuéJols , Ignacio E. Grossmann , Carl D. Laird , Jon Lee , Andrea Lodi , FrançOis Margot , Nicolas Sawaya , Andreas WäChter, An algorithmic framework for convex mixed integer nonlinear programs, Discrete Optimization, v.5 n.2, p.186-204, May, 2008[doi>10.1016/j.disopt.2006.10.011]
+Bonami, P., Forrest, J., Lee, J., and Wächter, A. 2007. Rapid development of an MINLP solver with COIN-OR. Optima 75, 1--5.
+Bonami, P., Forrest, J. J. H., Laird, C., Lee, J., Margot, F., and Wächter, A. 2006. Bonmin: Basic Open-source Nonlinear Mixed INteger programming. http://www.coin-or.org/Bonmin.
+Brian Borchers , John E. Mitchell, An improved branch and bound algorithm for mixed integer nonlinear programs, Computers and Operations Research, v.21 n.4, p.359-367, April 1994[doi>10.1016/0305-0548(94)90024-8]
+Michael R. Bussieck , Arne Stolbjerg Drud , Alexander Meeraus, MINLPLib--A Collection of Test Models for Mixed-Integer Nonlinear Programming, INFORMS Journal on Computing, v.15 n.1, p.114-119, January 2003[doi>10.1287/ijoc.15.1.114.15159]
+Dakin, R. 1965. A tree search algorithm for mixed integer programming problems. Comput. J. 8, 250--255.
+Dolan, E. and Moré, J. 2002. Benchmarking optimization software with performance profiles. Math. Program. 91, 201--213.
+M A Duran , I E Grossmann, An outer-approximation algorithm for a class of mixed-integer nonlinear programs, Mathematical Programming: Series A and B, v.36 n.3, p.307-339, Dec. 1986[doi>10.1007/BF02592064]
+M A Duran , I E Grossmann, An outer-approximation algorithm for a class of mixed-integer nonlinear programs, Mathematical Programming: Series A and B, v.36 n.3, p.307-339, Dec. 1986[doi>10.1007/BF02592064]
+R. Fletcher, Practical methods of optimization; (2nd ed.), Wiley-Interscience, New York, NY, 1987
+Fletcher, R. 2000. Stable reduced hessian updates for indefinite quadratic programming. Math. Program. 87, 2, 251--264.
+Fletcher, R. and Leyffer, S. 1998. User manual for filterSQP. Numerical analysis rep. NA-181, University of Dundee.
+Forrest, J. 2005. Cbc: COIN-OR Branch-and-cut. https://projects.coin-or.org/Cbc.
+Gabriele, G. and Ragsdell, K. 1976. OPT, A Nonlinear Programming Code in FORTRAN IV. The Modern Design Series, vol. I. Purdue Research Foundation.
+Gauthier, J. M. and Ribire, G. 1977. Experiments in mixed-integer linear programming using pseudo-costs. Math. Program. 12, 26--47.
+Glankwamdee, W. and Linderoth, J. 2006. Lookahead branching for mixed integer programming. Tech. rep. 06T-004, Industrial and Systems Engineering, Lehigh University.
+Omprakash Kalyanprasad Gupta, Branch and bound experiments in nonlinear integer programming, Purdue University, West Lafayette, IN, 1980
+Gupta, O. and Ravindran, A. 1985. Branch and bound experiments in convex nonlinear integer programming. Management Sci. 31, 12, 1533--1546.
+Land, A. and Doig, A. 1960. An automatic method for solving discrete programming problems. Econometrica 28, 497--520.
+Lawler, E. and Wood, D. 1966. Branch-and-bound methods: a survey. Oper. Res. 14, 699--719.
+Sven Leyffer, Integrating SQP and Branch-and-Bound for Mixed Integer Nonlinear Programming, Computational Optimization and Applications, v.18 n.3, p.295-309, March 2001[doi>10.1023/A:1011241421041]
+Leyffer, S. 2003. MacMINLP: Test problems for mixed integer nonlinear programming. http://www.mcs.anl.gov/leyffer/macminlp.
+Linderoth, J. and Kilincç, M. 2010. Personnal communication.
+J. T. Linderoth , M. W.  P. Savelsbergh, A Computational Study of Search Strategies for Mixed Integer Programming, INFORMS Journal on Computing, v.11 n.2, p.173-187, February 1999[doi>10.1287/ijoc.11.2.173]
+Little, J., Murty, K., Sweeney, D., and Karat, C. 1963. An algorithm for the traveling salesman problem. Oper. Res. 11, 972--989.
+R. Lougee-Heimer, The Common Optimization INterface for Operations Research: Promoting open-source software in the operations research community, IBM Journal of Research and Development, v.47 n.1, p.57-66, January 2003[doi>10.1147/rd.471.0057]
+Mahajan, A., Leyffer, S., and Kirches, C. 2012. Solving mixed-integer nonlinear programs by qp-diving. Tech. rep. ANL/MCS-P2071-0312, Mathematics and Computer Science Division, Argonne National Laboratory. http://wiki.mcs.anl.gov/leyffer/images/b/b7/QP-diving.pdf.
+Quesada, I. and Grossmann, I. 1992. An LP/NLP based branch and bound algorithm for convex MINLP optimization problems. Comput. Chem. Engng. 16, 937--947.
+Sawaya, N., Laird, C. D., Biegler, L. T., Bonami, P., Conn, A. R., Cornuéjols, G., Grossmann, I. E., Lee, J., Lodi, A., Margot, F., and Wächter, A. 2006. CMU-IBM open source MINLP project test set. http://egon.cheme.cmu.edu/ibm/page.htm.
+Wolfe, P. 1967. Methods for linear constraints. In Nonlinear Programming, North-Holland, Amsterdam, 99--131.

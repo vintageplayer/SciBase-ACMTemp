@@ -1,0 +1,53 @@
+A. Abeliuk, R. Cánovas, and G. Navarro. 2013. Practical compressed suffix trees. Algorithms 6, 2, 319--351.
+M. Abouelhoda, S. Kurtz, and E. Ohlebusch. 2004. Replacing suffix trees with enhanced suffix arrays. J. Discrete Algor. 2, 1, 53--86.
+A. Apostolico. 1985. The myriad virtues of subword trees. In Combinatorial Algorithms on Words, NATO ISI Series, Springer-Verlag, 85--96.
+R. Baeza-Yates and G. Gonnet. 1996. Fast text searching for regular expressions or automaton searching on tries. J. ACM 43, 6, 915--936.
+D. Belazzougui and G. Navarro. 2011. Alphabet-independent compressed text indexing. In Procedings of the 19th Annual European Symposium on Algorithms (ESA). 748--759.
+D. Clark. 1996. Compact pat trees. Ph.D. thesis, University of Waterloo, Canada.
+D. Clark and I. Munro. 1996. Efficient suffix trees on secondary storage. In Proceedings of the 7th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA). 383--391.
+F. Claude, A. Fariña, M. Martínez-Prieto, and G. Navarro. 2010. Compressed q-gram indexing for highly repetitive biological sequences. In Proceedings of the 10th IEEE Conference on Bioinformatics and Bioengineering (BIBE). 86--91.
+F. Claude, A. Fariña, M. Martínez-Prieto, and G. Navarro. 2011. Indexes for highly repetitive document collections. In Proceedings of the 20th ACM International Conference on Information and Knowledge Management (CIKM). 463--468.
+F. Claude and G. Navarro. 2010a. Extended compact web graph representations. In Algorithms and Applications (Ukkonen Festschrift), T. Elomaa, H. Mannila, and P. Orponen, Eds., Lecture Notes in Computer Science, vol. 6060. Springer, 77--91.
+F. Claude and G. Navarro. 2010b. Fast and compact web graph representations. ACM Trans. Web 4, 4.
+F. Claude, G. Navarro, H. Peltola, L. Salmela, and J. Tarhio. 2012. String matching with alphabet sampling. J. Discrete Algor. 11, 37--50.
+M. Crochemore and W. Rytter. 2002. Jewels of Stringology. World Scientific.
+P. Elias. 1974. Efficient storage and retrieval by content and address of static files. J. ACM 21, 246--260.
+R. Fano. 1971. On the number of bits required to implement an associative memory. Memo 61, Computer Structures Group, Project MAC, Massachusetts.
+P. Ferragina, R. González, G. Navarro, and R. Venturini. 2009. Compressed text indexes: From theory to practice. ACM J. Exp. Algorithmics 13.
+P. Ferragina and G. Manzini. 2000. Opportunistic data structures with applications. In Proceedings of the 41st IEEE Symposium on Foundations of Computer Science (FOCS). 390--398.
+P. Ferragina and G. Manzini. 2005. Indexing compressed texts. J. ACM 52, 4, 552--581.
+P. Ferragina, G. Manzini, V. Mäkinen, and G. Navarro. 2007. Compressed representations of sequences and full-text indexes. ACM Trans. Algor. 3, 2.
+J. Fischer. 2010. Wee LCP. Inform. Proc. Lett. 110, 317--320.
+J. Fischer, V. Mäkinen, and G. Navarro. 2009. Faster entropy-bounded compressed suffix trees. Theoret. Comput. Sci. 410, 51, 5354--5364.
+T. Gagie, J. Kärkkäinen, G. Navarro, and S. Puglisi. 2013. Colored range queries and document retrieval. Theoret. Comput. Sci. 483, 36--50.
+G. Gonnet, R. Baeza-Yates, and T. Snider. 1992. New indices for text: Pat trees and Pat arrays. In Information Retrieval: Data Structures and Algorithms, Prentice-Hall, Chapter 3: 66--82.
+R. González and G. Navarro. 2007. Compressed text indexes with fast locate. In Proceedings of the 18thAnnual Symposium on Combinatorial Pattern Matching (CPM). 216--227.
+R. Grossi, A. Gupta, and J. Vitter. 2003. High-order entropy-compressed text indexes. In Proceedings of the 14th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA). 841--850.
+R. Grossi and J. Vitter. 2000. Compressed suffix arrays and suffix trees with applications to text indexing and string matching. In Proceedings of the 32nd ACM Symposium on Theory of Computing (STOC). 397--406.
+R. Grossi and J. Vitter. 2005. Compressed suffix arrays and suffix trees with applications to text indexing and string matching. SIAM J. Comput. 35, 2, 378--407.
+D. Gusfield. 1997. Algorithms on Strings, Trees and Sequences: Computer Science and Computational Biology. Cambridge University Press.
+J. Kärkkäinen. 1995. Suffix cactus: A cross between suffix tree and suffix array. In Proceedings of the 6thAnnual Symposium on Combinatorial Pattern Matching (CPM). 191--204.
+J. Kärkkäinen and S. J. Puglisi. 2011. Fixed block compression boosting in FM-indexes. In Proceedings of the 18th International Symposium on String Processing and Information Retrieval (SPIRE). 174--184.
+J. Kärkkäinen and E. Ukkonen. 1996a. Lempel-Ziv parsing and sublinear-size index structures for string matching. In Proceedings of the 3rd South American Workshop on String Processing (WSP). 141--155.
+J. Kärkkäinen and E. Ukkonen. 1996b. Sparse suffix trees. In Proceedings of the 2nd Annual International Conference on Computing and Combinatorics (COCOON). 219--230.
+S. Kurtz. 1998. Reducing the space requirements of suffix trees. Report 98-03, Technische Kakultät, Univ. Bielefeld, Germany.
+J. Larsson and A. Moffat. 2000. Off-line dictionary-based compression. Proc. IEEE 88, 11, 1722--1732.
+V. Mäkinen. 2000. Compact suffix array. InProceedings of the 11th Annual Symposium on Combinatorial Pattern Matching (CPM). 305--319.
+V. Mäkinen. 2003. Compact suffix array—A space-efficient full-text index. Fundamenta Informaticae 56, 1--2, 191--210.
+V. Mäkinen and G. Navarro. 2005. Succinct suffix arrays based on run-length encoding. Nordic J. Comput. 12, 1, 40--66.
+V. Mäkinen, G. Navarro, J. Sirén, and N. Välimäki. 2010. Storage and retrieval of highly repetitive sequence collections. J. Computat. Biol. 17, 3, 281--308.
+U. Manber and G. Myers. 1993. Suffix arrays: A new method for on-line string searches. SIAM J. Comput. 22, 5, 935--948.
+G. Manzini. 2001. An analysis of the Burrows-Wheeler transform. J. ACM 48, 3, 407--430.
+E. McCreight. 1976. A space-economical suffix tree construction algorithm. J. ACM 23, 2, 262--272.
+I. Munro. 1996. Tables. In Proceedings of the 16th Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS). 37--42.
+G. Navarro and V. Mäkinen. 2007. Compressed full-text indexes. ACM Comput. Surv. 39, 1.
+G. Navarro, S. Puglisi, and D. Valenzuela. 2011. Practical compressed document retrieval. In Proceedings of the 10th International Symposium on Experimental Algorithms (SEA). 193--205.
+D. Okanohara and K. Sadakane. 2007. Practical entropy-compressed rank/select dictionary. In Proceedings of the 9th Workshop on Algorithm Engineering and Experiments (ALENEX). 60--70.
+R. Raman, V. Raman, and S. S. Rao. 2007. Succinct indexable dictionaries with applications to encoding k-ary trees, prefix sums and multisets. ACM Trans. Algor. 3, 4.
+S. Rao. 2002. Time-space trade-offs for compressed suffix arrays. Inform. Proc. Lett. 82, 6, 307--311.
+L. Russo, G. Navarro, and A. Oliveira. 2011. Fully-compressed suffix trees. ACM Trans. Algor. 7, 4.
+K. Sadakane. 2000. Compressed text databases with efficient query algorithms based on the compressed suffix array. In Proceedings of the 11th International Symposium on Algorithms and Computation (ISAAC). 410--421.
+K. Sadakane. 2003. New text indexing functionalities of the compressed suffix arrays. J. Algor. 48, 2, 294--313.
+K. Sadakane. 2007. Compressed suffix trees with full functionality. Theory Comput. Syst. 41, 4, 589--607.
+E. Ukkonen. 1993. Approximate string matching over suffix trees. In Proceedings of the 4th Annual Symposium on Combinatorial Pattern Matching (CPM). 228--242.
+P. Weiner. 1973. Linear pattern matching algorithm. In Proceedings of the 14th IEEE Symposium on Switching and Automata Theory. 1--11.

@@ -1,0 +1,35 @@
+Karl Abrahamson, Generalized string matching, SIAM Journal on Computing, v.16 n.6, p.1039-1051, December 1, 1987[doi>10.1137/0216067]
+Ricardo A. Baeza-Yates, Text-Retrieval: Theory and Practice, Proceedings of the IFIP 12th World Computer Congress on Algorithms, Software, Architecture - Information Processing '92, Volume 1, p.465-476, September 07-11, 1992
+Ricardo Baeza-Yates , Gaston H. Gonnet, A new approach to text searching, Communications of the ACM, v.35 n.10, p.74-82, Oct. 1992[doi>10.1145/135239.135243]
+Ricardo A. Baeza-Yates , Gaston H. Gonnet, Fast string matching with mismatches, Information and Computation, v.108 n.2, p.187-199, Feb. 1, 1994[doi>10.1006/inco.1994.1007]
+BAEZA-YATES, R. AND NAVARRO, G. 1999. Faster approximate string matching.Algorithmica 23, 2, 127-158.
+Ricardo A. Baeza-Yates , Chris H. Perleberg, Fast and Practical Approximate String Matching, Proceedings of the Third Annual Symposium on Combinatorial Pattern Matching, p.185-192, April 29-May 01, 1992
+BLUMER, A., EHRENFEUCHT, A., AND HAUSSLER, D. 1989. Average sizes of suffix trees and dawgs.Discrete Applied Mathematics 24, 1, 37-45.
+Robert S. Boyer , J. Strother Moore, A fast string searching algorithm, Communications of the ACM, v.20 n.10, p.762-772, Oct. 1977[doi>10.1145/359842.359859]
+Maxime Crochemore, Transducers and repetitions, Theoretical Computer Science, v.45 n.1, p.63-86, Sept. 1986
+CROCHEMORE, M., CZUMAJ, A., GASIENIEC, L., JAROMINEK, S., LECROQ, T., PLANDOWSKI, W., AND RYTTER, W. 1993. Fast practical multi-pattern matching. Rapport 93-3, Institut Gaspard Monge, Universiteacute; de Marne la Valleacute;e.
+Maxime Crochemore , Wojciech Rytter, Text algorithms, Oxford University Press, Inc., New York, NY, 1994
+CZUMAJ, A., CROCHEMORE, M., GASIENIEC, L., JAROMINEK, S., LECROQ, T., PLANDOWSKI, W., AND RYTTER, W. 1994. Speeding up two string-matching algorithms.Algorithmica 12, 247-267.
+Nadia El-Mabrouk , Maxime Crochemore, Boyer-Moore Strategy to Efficient Approximate String Matching, Proceedings of the 7th Annual Symposium on Combinatorial Pattern Matching, p.24-38, June 10-12, 1996
+FISCHER, M. J. AND PATERSON, M. 1974. String matching and other products. In R. M. KARP Ed.,Proceedings SIAM-AMS Complexity of Computation(Providence, RI, 1974), pp. 113-125.
+HORSPOOL, R.N. 1980. Practical fast searching in strings.Software Practice and Experience 10, 501-506.
+Petteri Jokinen , Jorma Tarhio , Esko Ukkonen, A comparison of approximate string matching algorithms, Software—Practice & Experience, v.26 n.12, p.1439-1458, Dec. 1996[doi>10.1002/(SICI)1097-024X(199612)26:12<1439::AID-SPE71>3.0.CO;2-1]
+KNUTH, D. E., MORRIS, J. H., AND PRATT, V.R. 1977. Fast pattern matching in strings.SIAM Journal on Computing 6, 1, 323-350.
+LECROQ, T. 1992.Recherches de mot.Ph.D. thesis, Universiteacute; d'Orleacute;ans, France.
+Gene Myers, A fast bit-vector algorithm for approximate string matching based on dynamic programming, Journal of the ACM (JACM), v.46 n.3, p.395-415, May 1999[doi>10.1145/316542.316550]
+NAVARRO, G. 1997. A partial deterministic automaton for approximate string matching. InProc. of WSP'97(1997), pp. 112-124. Carleton University Press.
+NAVARRO, G. 1998.Approximate Text Searching. Ph.D. thesis, Department of Computer Science, University of Chile. Tech. Report TR/DCC-98-14. ftp://ftp.dcc.uchile.cl/- pub/users/gnavarro/thesis98.ps.gz.
+Gonzalo Navarro, A guided tour to approximate string matching, ACM Computing Surveys (CSUR), v.33 n.1, p.31-88, March 2001[doi>10.1145/375360.375365]
+NAVARRO, G. 2000b. Nrgrep: a fast and flexible pattern matching tool. Technical Report TR/DCC-2000-3 (Aug.), Dept. of Computer Science, Univ. of Chile. ftp://ftp.dcc.uchile.cl/pub/users/gnavarro/nrgrep.ps.gz.
+Gonzalo Navarro , Ricardo Baeza-Yates, Very fast and simple approximate string matching, Information Processing Letters, v.72 n.1-2, p.65-70, Oct. 29, 1999[doi>10.1016/S0020-0190(99)00121-0]
+Gonzalo Navarro , Mathieu Raffinot, A Bit-Parallel Approach to Suffix Automata: Fast Extended String Matching, Proceedings of the 9th Annual Symposium on Combinatorial Pattern Matching, p.14-33, July 20-22, 1998
+NAVARRO, G. AND RAFFINOT, M. 1999. Fast regular expression search. In J. VITTER AND C. ZAROLIAGIS Eds.,Proceedings of the 3rd Workshop on Algorithm Engineering, Number 1668 in Lecture Notes in Computer Science (1999), pp. 199-213. Springer-Verlag, Berlin.
+Gonzalo Navarro , Mathieu Raffinot, Fast and simple character classes and bounded gaps pattern matching, with application to protein searching, Proceedings of the fifth annual international conference on Computational biology, p.231-240, April 22-25, 2001, Montreal, Quebec, Canada[doi>10.1145/369133.369220]
+PINTER, R.Y. 1985. Efficient string matching with don't care pattern. In A. APOSTOLICO AND Z. GALIL Eds.,Combinatorial Algorithms on Words, pp. 11-29. Springer-Verlag, Berlin.
+RAFFINOT, M. 1997a. Asymptotic estimation of the average number of terminal states in dawgs. InProc. WSP'97(1997), pp. 140-148. Carleton University Press.
+RAFFINOT, M. 1997b. On the multi backward dawg matching algorithm (MultiBDM). InProc. WSP'97(1997), pp. 149-165. Carleton University Press.
+Daniel M. Sunday, A very fast substring search algorithm, Communications of the ACM, v.33 n.8, p.132-142, Aug. 1990[doi>10.1145/79173.79184]
+Jorma Tarhio , Esko Ukkonen, Approximate Boyer-Moore string matching, SIAM Journal on Computing, v.22 n.2, p.243-260, April 1993[doi>10.1137/0222018]
+Sun Wu , Udi Manber, Fast text searching: allowing errors, Communications of the ACM, v.35 n.10, p.83-91, Oct. 1992[doi>10.1145/135239.135244]
+WU, S., MANBER, U., AND MYERS, E. 1996. A sub-quadratic algorithm for approximate limited expression matching.Algorithmica 15, 1, 50-67.
+YAO, A. 1979. The complexity of pattern matching for a random string.SIAM J. on Computing 8, 368-387.

@@ -1,0 +1,24 @@
+We report on the performance evaluation of greedy parsing with a
+single step lookahead (which we call flexible Parsing orFPas an alternative to the commonly used greedy parsing (with
+no-lookaheads) scheme. Greedy parsing is the basis of most popular
+compression programs includingUNIX compressandgzip, however it usually results in far from optimal
+parsing/compression with regard to the dictionary construction
+scheme in use. Flexible parsing, however, is optimal [MS99], i.e.
+partitions any given input to the smallest number of phrases
+possible, for dictionary construction schemes which satisfy the
+prefix property throughout their execution.We focus on the application ofFPin the context of the
+LZW variant of the Lempel-Ziv'78 dictionary construction method
+[Wel84, ZL78], which is of considerable practical interest. We
+implement two compression algorithms which use (1)FPwith
+LZW dictionary (LZW-FP), and (2)FPwith an
+alternative flexible dictionary (FPA as introduced in [Hor95]). Our
+implementations are based on novel on-line data structures enabling
+us to use linear time and space. We test our implementations on a
+collection of input sequences which includes textual files, DNA
+sequences, medical images, and pseudorandom binary files, and
+compare our results with two of the most popular compression
+programsUNIX compressandgzip. Our results
+demonstrate that flexible parsing is especially useful for
+non-textual data, on which it improves over the compression rates
+ofcompressandgzipby up to 20% and 35%,
+respectively.

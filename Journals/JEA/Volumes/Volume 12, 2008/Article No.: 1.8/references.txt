@@ -1,0 +1,39 @@
+Ramesh C. Agarwal, A super scalar sort algorithm for RISC processors, ACM SIGMOD Record, v.25 n.2, p.240-246, June 1996[doi>10.1145/235968.233336]
+Alok Aggarwal , Jeffrey,S. Vitter, The input/output complexity of sorting and related problems, Communications of the ACM, v.31 n.9, p.1116-1127, Sept. 1988[doi>10.1145/48529.48535]
+Austin, T., Ernst, D., Larson, E., Weaver, C., Raj Desikan, R. N., Huh, J., Yoder, B., Burger, D., and Keckler, S. 2001. SimpleScalar Tutorial (for release 4.0).
+Jon L. Bentley , M. Douglas McIlroy, Engineering a sort function, Software—Practice & Experience, v.23 n.11, p.1249-1265, Nov. 1993[doi>10.1002/spe.4380231105]
+Biggar, P. and Gregg, D. 2005. Sorting in the presence of branch prediction and caches. Tech. Rep. TCD-CS-05-57 (Aug.) University of Dublin, Trinity College.
+Gerth Stølting Brodal , Gabriel Moruz, Tradeoffs between branch mispredictions and comparisons for sorting algorithms, Proceedings of the 9th international conference on Algorithms and Data Structures, August 15-17, 2005, Waterloo, Canada[doi>10.1007/11534273_34]
+Brodal, G. S., Fagerberg, R., and Moruz, G. 2005. On the adaptiveness of quicksort. In Proceedings of the 7th Workshop on Algorithm Engineering and Experiments. 130--140.
+Gerth Stølting Brodal , Rolf Fagerberg , Kristoffer Vinther, Engineering a cache-oblivious sorting algorithm, Journal of Experimental Algorithmics (JEA), 12, 2008[doi>10.1145/1227161.1227164]
+A. E. Eichenberger , J. K. O'Brien , K. M. O'Brien , P. Wu , T. Chen , P. H. Oden , D. A. Prener , J. C. Shepherd , B. So , Z. Sura , A. Wang , T. Zhang , P. Zhao , M. K. Gschwind , R. Archambault , Y. Gao , R. Koo, Using advanced compiler technology to exploit the performance of the Cell Broadband EngineTMarchitecture, IBM Systems Journal, v.45 n.1, p.59-84, January 2006[doi>10.1147/sj.451.0059]
+Floyd, R. W. 1964. Treesort 3: Algorithm 245. Communi. ACM 7, 12, 701.
+Edward H. Friend, Sorting on Electronic Computer Systems, Journal of the ACM (JACM), v.3 n.3, p.134-168, July 1956[doi>10.1145/320831.320833]
+Matteo Frigo , Charles E. Leiserson , Harald Prokop , Sridhar Ramachandran, Cache-Oblivious Algorithms, Proceedings of the 40th Annual Symposium on Foundations of Computer Science, p.285, October 17-18, 1999
+Gonnet, G. H. and Baeza-Yates, R. 1991. Pascal and C, 2nd ed. Addison-Wesley Longman Publ., Reading, MA.
+Haahr, M. 2006. Random.org: True random number service. Web resource, available at http://www.random.org.
+David A. Patterson , John L. Hennessy, Computer architecture: a quantitative approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1990
+Hinton, G., Sager, D., Upton, M., Carmean, D., Kyker, A., and Roussel, P. 2001. The microarchitecture of the pentium 4 processor. Intel Technol. J. Q1.
+Hoare, C. A. R. 1962. Quicksort. Comput. J. 5, 1, 10--15.
+Intel. 2001. Desktop performance and optimization for intel pentium 4 processor. Tech. Rept.
+Intel. 2004. Ia-32 intel architecture optimization — reference manual. Tech. Rept.
+Kanela Kaligosi , Peter Sanders, How branch mispredictions affect quicksort, Proceedings of the 14th conference on Annual European Symposium, p.780-791, September 11-13, 2006, Zurich, Switzerland[doi>10.1007/11841036_69]
+Jyrki Katajainen , Tomi Pasanen , Jukka Teuhola, Practical in-place mergesort, Nordic Journal of Computing, v.3 n.1, p.27-40, Spring 1996
+Donald E. Knuth, The art of computer programming, volume 1 (3rd ed.): fundamental algorithms, Addison Wesley Longman Publishing Co., Inc., Redwood City, CA, 1997
+Donald E. Knuth, The art of computer programming,  volume 3: (2nd ed.) sorting and searching, Addison Wesley Longman Publishing Co., Inc., Redwood City, CA, 1998
+Anthony George Lamarca , Richard E. Ladner, Caches and algorithms, University of Washington, 1996
+Anthony LaMarca , Richard Ladner, The influence of caches on the performance of heaps, Journal of Experimental Algorithmics (JEA), 1, p.4-es, 1996[doi>10.1145/235141.235145]
+Anthony LaMarca , Richard E. Ladner, The influence of caches on the performance of sorting, Proceedings of the eighth annual ACM-SIAM symposium on Discrete algorithms, p.370-379, January 05-07, 1997, New Orleans, Louisiana, USA
+Xiaoming Li , Maria Jesus Garzaran , David Padua, Optimizing Sorting with Genetic Algorithms, Proceedings of the international symposium on Code generation and optimization, p.99-110, March 20-23, 2005[doi>10.1109/CGO.2005.24]
+Mucci, P. J. 2004. PapiEx Man Page.
+Mudge, T., Chen, I.-C., and Coffey, J. 1996. Limits to branch prediction. Tech. Rept. CSE-TR-282-96. 2.
+Chris Nyberg , Tom Barclay , Zarka Cvetanovic , Jim Gray , Dave Lomet, AlphaSort: a RISC machine sort, Proceedings of the 1994 ACM SIGMOD international conference on Management of data, p.233-242, May 24-27, 1994, Minneapolis, Minnesota, USA[doi>10.1145/191839.191884]
+Naila Rahman , Rajeev Raman, Adapting Radix Sort to the Memory Hierarchy, Journal of Experimental Algorithmics (JEA), 6, p.7-es, 2001[doi>10.1145/945394.945401]
+Sanders, P. and Winkel, S. 2004. Super scalar sample sort. In Algorithms ESA 2004: 12th Annual European Symposium, S. Albers and T. Radzik, Eds. Lecture Notes in Computer Science, vol. 3221. Springer, Berlin. 784--796.
+Robert Sedgewick, Implementing Quicksort programs, Communications of the ACM, v.21 n.10, p.847-857, Oct. 1978[doi>10.1145/359619.359631]
+Robert Sedgewick, Algorithms in C, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 2002
+D. L. Shell, A high-speed sorting procedure, Communications of the ACM, v.2 n.7, p.30-32, July 1959[doi>10.1145/368370.368387]
+Augustus K. Uht , Vijay Sindagi , Sajee Somanathan, Branch Effect Reduction Techniques, Computer, v.30 n.5, p.71-81, May 1997[doi>10.1109/2.589913]
+Rajiv Wickremesinghe , Lars Arge , Jeffrey S. Chase , Jeffrey Scott Vitter, Efficient sorting using registers and caches, Journal of Experimental Algorithmics (JEA), 7, p.9, 2002[doi>10.1145/944618.944627]
+Williams, J. W. J. 1964. Heapsort: Algorithm 232. Commun. ACM 7, 6, 347--348.
+Li Xiao , Xiaodong Zhang , Stefan A. Kubricht, Improving memory performance of sorting algorithms, Journal of Experimental Algorithmics (JEA), 5, p.3-es, 2000[doi>10.1145/351827.384245]

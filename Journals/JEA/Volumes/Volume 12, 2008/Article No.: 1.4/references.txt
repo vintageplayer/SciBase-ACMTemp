@@ -1,0 +1,59 @@
+A. Andersson, Sublogarithmic searching without multiplications, Proceedings of the 36th Annual Symposium on Foundations of Computer Science, p.655, October 23-25, 1995
+A. Andersson, Faster deterministic sorting and searching in linear space, Proceedings of the 37th Annual Symposium on Foundations of Computer Science, p.135, October 14-16, 1996
+Paul Beame , Faith E. Fich, Optimal bounds for the predecessor problem, Proceedings of the thirty-first annual ACM symposium on Theory of computing, p.295-304, May 01-04, 1999, Atlanta, Georgia, USA[doi>10.1145/301250.301323]
+Blum, A., Jiang, T., Li, M., Tromp, J., and Yannakakis, M. 1994. Linear approximation of shortest superstrings. Journal of the ACM 41, 4 (July), 630--647.
+Broder, A. Z. and Mitzenmacher, M. 2001a. Using multiple hash functions to improve IP lookups. In INFOCOM. 1454--1463.
+Broder, A. Z. and Mitzenmacher, M. 2001b. Using multiple hash functions to improve IP lookups. In IEEE Computer and Communications Societies (INFOCOM). Vol. 3. 1454--1463.
+Buchsbaum, A. L., Fowler, G. S., Krishnamurthy, B., Vo, K.-P., and Wang, J. 2003. Fast prefix matching of bounded strings. In Proceedings of Alenex 2003.
+Cheung, G. and McCanne, S. 1999. Optimal routing table design for IP address lookups under memory constraints. In INFOCOM (3). 1437--1444.
+Pierluigi Crescenzi , Leandro Dardini , Roberto Grossi, IP Address Lookup Made Fast and Simple, Proceedings of the 7th Annual European Symposium on Algorithms, p.65-76, July 16-18, 1999
+Mikael Degermark , Andrej Brodnik , Svante Carlsson , Stephen Pink, Small forwarding tables for fast routing lookups, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.3-14, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263133]
+Sarang Dharmapurikar , Praveen Krishnamurthy , David E. Taylor, Longest prefix matching using bloom filters, Proceedings of the 2003 conference on Applications, technologies, architectures, and protocols for computer communications, August 25-29, 2003, Karlsruhe, Germany[doi>10.1145/863955.863979]
+Will Eatherton , George Varghese , Zubin Dittia, Tree bitmap: hardware/software IP lookups with incremental updates, ACM SIGCOMM Computer Communication Review, v.34 n.2, April 2004[doi>10.1145/997150.997160]
+Ehrlich, G. 1981. Searching and sorting real numbers. Journal of Algorithms 2, 1 (Mar.), 1--12.
+David Eppstein , S. Muthukrishnan, Internet packet filter management and rectangle geometry, Proceedings of the twelfth annual ACM-SIAM symposium on Discrete algorithms, p.827-835, January 07-09, 2001, Washington, D.C., USA
+Funda Ergün , Süleyman Cenk Sahinalp , Jonathan Sharp , Rakesh K. Sinha, Biased Skip Lists for Highly Skewed Access Patterns, Revised Papers from the Third International Workshop on Algorithm Engineering and Experimentation, p.216-230, January 05-06, 2001
+Feldmann, A. and Muthukrishnan, S. 2000. Tradeoffs for packet classification. In Proceedings of INFOCOM, Vol. 3. IEEE, Los Alamitos. 1193--1202.
+Geraci, F., Pellegrini, M., Pisati, P., and Rizzo, L. 2005. Packet classification via improved space decomposition techniques. In Proceedings of INFOCOM 2005. 24th Annual Joint Conference of the IEEE Computer and Communications Societies (March 13--17). Vol. 1. 304--312.
+Gupta, P., Prabhakar, B., and Boyd, S. P. 2000. Near optimal routing lookups with bounded worst case performance. In INFOCOM (3). 1184--1192.
+Jahangir Hasan , T. N. Vijaykumar, Dynamic pipelining: making IP-lookup truly scalable, ACM SIGCOMM Computer Communication Review, v.35 n.4, October 2005[doi>10.1145/1090191.1080116]
+Ioannis Ioannidis , Ananth Grama , Mikhail Atallah, Adaptive data structures for IP lookups, Journal of Experimental Algorithmics (JEA), 10, 2005[doi>10.1145/1064546.1064548]
+Johnson, D. B. 1982. A priority queue in which initialization and queue operations take O(log(log(D)) time. Mathematical Systems Theory 15, 295--309.
+Haim Kaplan , Eyal Molad , Robert E. Tarjan, Dynamic rectangular intersection with priorities, Proceedings of the thirty-fifth annual ACM symposium on Theory of computing, June 09-11, 2003, San Diego, CA, USA[doi>10.1145/780542.780635]
+Knuth, D. E. 1973. The Art of Computer Programming, Vol. 3—Sorting and Searching. Addison-Wesley, Reading MA.
+Butler Lampson , Venkatachary Srinivasan , George Varghese, IP lookups using multiway and multicolumn search, IEEE/ACM Transactions on Networking (TON), v.7 n.3, p.324-334, June 1999[doi>10.1109/90.779199]
+Liu, Y.-C. and Lea, C.-T. 2001. Fast IP table lookup and memory reduction. In IEEE Workshop on High Performance Switching and Routing. Dallas, TX. 228--232.
+H. Lu , S. Sahni, Dynamic IP router-tables using highest-priority matching, Proceedings of the Ninth International Symposium on Computers and Communications 2004 Volume 2 (ISCC"04), p.858-863, June 28-July 01, 2004
+Haibin Lu , Sartaj Sahni, O(\log n) Dynamic Router-Tables for Prefixes and Ranges, IEEE Transactions on Computers, v.53 n.10, p.1217-1230, October 2004[doi>10.1109/TC.2004.81]
+Haibin Lu , Sartaj Sahni, A B-Tree Dynamic Router-Table Design, IEEE Transactions on Computers, v.54 n.7, p.813-824, July 2005[doi>10.1109/TC.2005.104]
+Haibin Lu , Kun Suk Kim , Sartaj Sahni, Prefix and Interval-Partitioned Dynamic IP Router-Tables, IEEE Transactions on Computers, v.54 n.5, p.545-557, May 2005[doi>10.1109/TC.2005.83]
+McKeown, N. 1999. Hot interconnects tutorial slides. Stanford University, available at http://klamath.stanford.edu/talks/.
+Morrison, D. R. 1968. PATRICIA—practical algorithm to retrieve information coded in alphanumeric. Journal of ACM 15, 4 (Oct.), 514--534.
+Mulmuley, K. 1993. Computational Geometry, an Introduction through Randomized Algorithms. Prentice Hall, Englewood Cliffs, NJ.
+S. Nilsson , G. Karlsson, IP-address lookup using LC-tries, IEEE Journal on Selected Areas in Communications, v.17 n.6, p.1083-1092, September 2006[doi>10.1109/49.772439]
+Mihai Pătraşcu , Mikkel Thorup, Time-space trade-offs for predecessor search, Proceedings of the thirty-eighth annual ACM symposium on Theory of computing, May 21-23, 2006, Seattle, WA, USA[doi>10.1145/1132516.1132551]
+Pellegrini, M. and Vecchiocattivi, G. 2001. Empirical study of search trees for ip addressing look up. Tech. Rep. TR IMC B4-01-13, Istituto di Matematica Computazionale del CNR, Area della Ricerca, Pisa, Italy. November. Available at www.iit.cnr.it/staff/marco.pellegrini.
+Pellegrini, M., Fusco, G., and Vecchiocattivi, G. 2002. Adaptive stratified search trees for ip table lookup. Tech. Rep. TR IIT 22/2002, Istituto di Informatica e Telematica del CNR (IIT-CNR), Pisa, Italy (Nov.)
+Pugh, W. 1990. Skip lists: A probabilistic alternative to balanced trees. Communications of the ACM 33, 6 (June), 668--676.
+Raman, R. 1995. Improved data structures for predecessor queries in integer sets.
+S. Sahni , K. Kim, Efficient Construction of Fixed-Stride Multibit Tries for IP Lookup, Proceedings of the 8th IEEE Workshop on Future Trends of Distributed Computing Systems, p.178, October 31-November 02, 2001
+Sartaj Sahni , Kun Suk Kim, Efficient Construction of Variable-Stride Multibit Tries for IP Lookup, Proceedings of the 2002 Symposium on Applications and the Internet, p.220-229, January 28-February 01, 2002
+Sartaj Sahni , Kun Suk Kim, Efficient construction of multibit tries for IP lookup, IEEE/ACM Transactions on Networking (TON), v.11 n.4, p.650-662, August 2003[doi>10.1109/TNET.2003.815288]
+Sahni, S. and Kim, K. S. 2004. Efficient dynamic lookup for bursty access patterns. International Journal on Foundations of Computer Science 15, 4, 567--591.
+Sharp, J., Ergun, F., Mittra, S., Sahinalp, C., and Sinha, R. 2001. A dynamic lookup scheme for bursty access patterns. In Proceedings of the Twentieth Annual Joint Conference of the IEEE Computer and Communications Societies (INFOCOM-01). IEEE Computer Society, Los Alamitos, CA. 1444--1453.
+Sklower, K. 1991. A tree-based packet routing table for berkeley unix. In USENIX Winter 1991. 93--104.
+V. Srinivasan , G. Varghese, Fast address lookups using controlled prefix expansion, ACM Transactions on Computer Systems (TOCS), v.17 n.1, p.1-40, Feb. 1999[doi>10.1145/296502.296503]
+Sun, X., Sahni, S. K., and Zhao, Y. Q. 2004. Fast update algorithm for IP forwarding table using independent sets. In High Speed Networks and Multimedia Communications (HSNMC 2004), Z. Mammeri and P. Lorenz, Eds. Lecture Notes in Computer Science, Toulouse, France. vol. 3079. Springer, New York. 324--335.
+Sundström, M. and Larzon, L.-Å. 2005. High-performance longest prefix matching supporting high-speed incremental updates and guaranteed compression. In IEEE Computer and Communications Societies (INFOCOM). Vol. 3. 1641--1652.
+Tamminen, M. 1983. Analysis of N-trees. Information Processing Letters 16, 3 (Apr.), 131--137.
+D. E. Taylor , J. S. Turner , J. W. Lockwood , T. S. Sproull , D. B. Parlour, Scalable IP lookup for Internet routers, IEEE Journal on Selected Areas in Communications, v.21 n.4, p.522-534, September 2006[doi>10.1109/JSAC.2003.810507]
+Mikkel Thorup, Space efficient dynamic stabbing with fast queries, Proceedings of the thirty-fifth annual ACM symposium on Theory of computing, June 09-11, 2003, San Diego, CA, USA[doi>10.1145/780542.780636]
+van Emde Boas, P. 1977. Preserving order in a forest in less than logarithmic time. Information Processing Letters 6, 80--82.
+van Emde Boas, P., Kaas, R., and Zijlstra, E. 1977. Design and implementation of an efficient priority queue. Mathematical Systems Theory 10, 99--127.
+Marcel Waldvogel , George Varghese , Jon Turner , Bernhard Plattner, Scalable high speed IP routing lookups, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.25-36, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263136]
+Priyank Warkhede , Subhash Suri , George Varghese, Multiway range trees: scalable IP lookup with fast updates, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.44 n.3, p.289-303, 20 February 2004[doi>10.1016/j.comnet.2003.09.004]
+Willard, D. E. 1983. Log-logarithmic worst-case range queries are possible in space Θ(N). Information Processing Letters 17, 2 (24 Aug.), 81--84.
+Willard, D. E. 1984. New trie data structures which support very fast search operations. Journal of Computer and System Sciences 28, 3 (June), 379--394.
+Willard, D. E. 1985. Searching unindexed and nonuniformly generated files in loglogN time. SIAM Journal on Computing 14, 4 (Nov.), 1013--1029.
+Dan E. Willard, Examining Computational Geometry, Van Emde Boas Trees, and Hashing from the Perspective of the Fusion Tree, SIAM Journal on Computing, v.29 n.3, p.1030-1049, Dec. 1999 to Jan. 2000[doi>10.1137/S0097539797322425]
+Lih-Chyau Wuu , Shou-Yu Pin, A Fast IP Lookup Scheme for Longest-Matching Prefix, Proceedings of the 2001 International Conference on Computer Networks and Mobile Computing (ICCNMC'01), p.407, October 16-19, 2001

@@ -1,0 +1,17 @@
+R. C. Agarwal , F. G. Gustavson , M. Zubair, Improving performance of linear algebra algorithms for dense matrices, using algorithmic prefetch, IBM Journal of Research and Development, v.38 n.3, p.265-275, May 1994[doi>10.1147/rd.383.0265]
+CALLAHAN, D., KENNEDY, K., AND PORTERFIELD, A. 1991a. The cache performance and optimizations of blocked algorithms. InProceedings of ASPLOS'91(1991), pp. 63-74.
+David Callahan , Ken Kennedy , Allan Porterfield, Software prefetching, Proceedings of the fourth international conference on Architectural support for programming languages and operating systems, p.40-52, April 08-11, 1991, Santa Clara, California, USA[doi>10.1145/106972.106979]
+Digital Equipment Corp. 1998.21164 Alpha Microprocessor Data Sheet.Digital Equipment Corp.
+EIRON, N., RODEH, M., AND STEINWARTS, I. 1998. Matrix multiplication: A case study of algorithm engineering. InProceedings of WAE'98(August 1998), pp. 40-52. Max-Plank-Institut für Informatik.
+K. I. Farkas , N. P. Jouppi, Complexity/performance tradeoffs with non-blocking loads, Proceedings of the 21st annual international symposium on Computer architecture, p.211-222, April 18-21, 1994, Chicago, Illinois, USA[doi>10.1145/191995.192029]
+GUSTAVSON, F.G. 1998. Personal Communication.
+John L. Hennessy , David A. Patterson, Computer architecture (2nd ed.): a quantitative approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1996
+IBM Corp. 1997.IBM Engineering and Scientific Subroutine Library for AIX, Version 3 - Guide and Reference. IBM Corp.
+IBM Microelectronics and Motorola Inc. 1994.PowerPC 604 RISC Microprocessor User's Manual.IBM Microelectronics and Motorola Inc.
+M. Lam, Software pipelining: an effective scheduling technique for VLIW machines, Proceedings of the ACM SIGPLAN 1988 conference on Programming Language design and Implementation, p.318-328, June 20-24, 1988, Atlanta, Georgia, USA[doi>10.1145/53990.54022]
+Jin-Ho Lee , Min-Young Lee , Seong-Uk Choi , Myong-Soon Park, Reducing cache conflicts in data cache prefetching, ACM SIGARCH Computer Architecture News, v.22 n.4, p.71-77, Sept. 1994[doi>10.1145/190787.190808]
+Todd Carl Mowry, Tolerating latency through software-controlled data prefetching, Stanford University, Stanford, CA, 1995
+Todd C. Mowry , Monica S. Lam , Anoop Gupta, Design and evaluation of a compiler algorithm for prefetching, Proceedings of the fifth international conference on Architectural support for programming languages and operating systems, p.62-73, October 12-15, 1992, Boston, Massachusetts, USA[doi>10.1145/143365.143488]
+Juan J. Navarro , Elena García-Diego , José R. Herrero, Data prefetching and multilevel blocking for linear algebra operations, Proceedings of the 10th international conference on Supercomputing, p.109-116, May 25-28, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/237578.237592]
+STEWART, K.E. 1994. Using the xl compiler options to improve application performance. InPowerPC and POWER2, Technical Aspects of the New IBM RISC System/6000. IBM Corp.
+O. Temam , E. D. Granston , W. Jalby, To copy or not to copy: a compile-time technique for assessing when data copying should be used to eliminate cache conflicts, Proceedings of the 1993 ACM/IEEE conference on Supercomputing, p.410-419, November 15-19, 1993, Portland, Oregon, USA[doi>10.1145/169627.169762]

@@ -1,0 +1,37 @@
+{1} F. Alizadeh and D. Goldfarb. Second-order cone programming. Mathematical Programming, Series B 95/1: 3-51, 2003.
+N. Alon , S. Dar , M. Parnas , D. Ron, Testing of clustering, Proceedings of the 41st Annual Symposium on Foundations of Computer Science, p.240, November 12-14, 2000
+{3} Y. Bulatov, S. Jambawalikar, P. Kumar and S. Sethia. Hand recognition using geometric classifiers. Manuscript, 2002.
+Asa Ben-Hur , David Horn , Hava T. Siegelmann , Vladimir Vapnik, Support vector clustering, The Journal of Machine Learning Research, 2, 3/1/2002
+Mihai Bādoiu , Sariel Har-Peled , Piotr Indyk, Approximate clustering via core-sets, Proceedings of the thiry-fourth annual ACM symposium on Theory of computing, May 19-21, 2002, Montreal, Quebec, Canada[doi>10.1145/509907.509947]
+Mihai Bâdoiu , Kenneth L. Clarkson, Smaller core-sets for balls, Proceedings of the fourteenth annual ACM-SIAM symposium on Discrete algorithms, January 12-14, 2003, Baltimore, Maryland
+Mihai Bădoiu , Kenneth L. Clarkson, Optimal core-sets for balls, Computational Geometry: Theory and Applications, v.40 n.1, p.14-22, May, 2008[doi>10.1016/j.comgeo.2007.04.002]
+Christopher J. C. Burges, A Tutorial on Support Vector Machines for Pattern Recognition, Data Mining and Knowledge Discovery, v.2 n.2, p.121-167, June 1998[doi>10.1023/A:1009715923555]
+Timothy M. Chan, Approximating the diameter, width, smallest enclosing cylinder, and minimum-width annulus, Proceedings of the sixteenth annual symposium on Computational geometry, p.300-309, June 12-14, 2000, Clear Water Bay, Kowloon, Hong Kong[doi>10.1145/336154.336216]
+Olivier Chapelle , Vladimir Vapnik , Olivier Bousquet , Sayan Mukherjee, Choosing Multiple Parameters for Support Vector Machines, Machine Learning, v.46 n.1-3, p.131-159, 2002[doi>10.1023/A:1012450327387]
+Ömer E&gtilde;ecio&gtilde;lu , Bahman Kalantari, Approximating the diameter of a set of points in the Euclidean space, Information Processing Letters, v.32 n.4, p.205-211, Sept 1, 1989[doi>10.1016/0020-0190(89)90045-8]
+Matteo Frigo , Charles E. Leiserson , Harald Prokop , Sridhar Ramachandran, Cache-Oblivious Algorithms, Proceedings of the 40th Annual Symposium on Foundations of Computer Science, p.285, October 17-18, 1999
+{13} D. J. Elzinga and D. W. Hearn. The minimum covering sphere problem. Management Science, 19(1):96-104, 1972.
+{14} K. Fischer. Smallest enclosing ball of balls. Diploma thesis, Institute of Theoretical Computer Science, ETH Zurich, 2001.
+Kaspar Fischer , Bernd Gartner, The smallest enclosing ball of balls: combinatorial structure and algorithms, Proceedings of the nineteenth annual symposium on Computational geometry, June 08-10, 2003, San Diego, California, USA[doi>10.1145/777792.777836]
+{16} K. Fischer, B. Gärtner and M. Kutz Fast smallest-enclosing-ball computation in high dimensions In Proceedings of the 11th Annual European Symposium on Algorithms (ESA), pages 630-641, LNCS 2832, Springer-Verlag, 2003.
+Bernd Gärtner, Fast and Robust Smallest Enclosing Balls, Proceedings of the 7th Annual European Symposium on Algorithms, p.325-338, July 16-18, 1999
+Bernd Gärtner , Sven Schönherr, An efficient, exact, and generic quadratic programming solver for geometric optimization, Proceedings of the sixteenth annual symposium on Computational geometry, p.110-118, June 12-14, 2000, Clear Water Bay, Kowloon, Hong Kong[doi>10.1145/336154.336191]
+Ashish Goel , Piotr Indyk , Kasturi Varadarajan, Reductions among high dimensional proximity problems, Proceedings of the twelfth annual ACM-SIAM symposium on Discrete algorithms, p.769-778, January 07-09, 2001, Washington, D.C., USA
+Philip M. Hubbard, Approximating polyhedra with spheres for time-critical collision detection, ACM Transactions on Graphics (TOG), v.15 n.3, p.179-210, July 1996[doi>10.1145/231731.231732]
+{21} W. Johnson and J. Lindenstrauss Extensions of Lipschitz maps into a Hilbert space. Contemp. Math. 26, pages 189-206, 1984.
+{22} M. S. Lobo, L. Vandenberghe, S. Boyd and H. Lebret. Applications of second-order cone programming. Linear Algebra and Its Applications, 248:193-228, 1998.
+Jiří Matoušek , Micha Sharir , Emo Welzl, A subexponential bound for linear programming, Proceedings of the eighth annual symposium on Computational geometry, p.1-8, June 10-12, 1992, Berlin, Germany[doi>10.1145/142675.142678]
+{24} Y. E. Nesterov and A. S. Nemirovskii. Interior Point Polynomial Methods in Convex Programming. SIAM Publications, Philadelphia, 1994.
+Yu E. Nesterov , M. J. Todd, Self-scaled barriers and interior-point methods for convex programming, Mathematics of Operations Research, v.22 n.1, p.1-42, Feb. 1997[doi>10.1287/moor.22.1.1]
+Yu. E. Nesterov , M. J. Todd, Primal-Dual Interior-Point Methods for Self-Scaled Cones, SIAM Journal on Optimization, v.8 n.2, p.324-364, 1998[doi>10.1137/S1052623495290209]
+M. Pellegrini, Randomizing combinatorial algorithms for linear programming when the dimension is moderately high, Proceedings of the twelfth annual ACM-SIAM symposium on Discrete algorithms, p.101-108, January 07-09, 2001, Washington, D.C., USA
+James Renegar, A mathematical view of interior-point methods in convex optimization, Society for Industrial and Applied Mathematics, Philadelphia, PA, 2001
+{29} S. Har-Peled. Manuscript, 2002. Personal communication.
+{30} P. Kumar, J. S. B. Mitchell and A. Yildirim. Computing Core-Sets and Approximate Smallest Enclosing HyperSpheres in High Dimensions. In Proc. Fifth Workshop on Algorithm Engineering and Experiments, Richard E. Ladner, ed., pages 45-55, SIAM, 2003.
+{31} J. F. Sturm. Using SeDuMi 1.02, a MATLAB toolbox for optimization over symmetric cones. Optimization Methods and Software, 11/12:625-653, 1999.
+{32} K. C. Toh, M. J. Todd and R. H. Tütüncü. SDPT3 -- a Matlab software package for semidefinite programming. Optimization Methods and Software, 11:545-581, 1999. http://www.math.nus. edu.sg/~mattohkc/sdpt3.html.
+{33} R. H. Tütüncü, K. C. Toh and M. J. Todd. Solving semidefinite-quadratic-linear programs using SDPT3. Mathematical Programming, Series B, 95/2:189-217, 2003.
+{34} E. Welzl. Smallest enclosing disks (balls and ellipsoids). In Maurer, H., ed.: New Results and New Trends in Computer Science, pages 359-370, LNCS 555, Springer-Verlag, 1991.
+{35} S. Xu, R. Freund and J. Sun. Solution methodologies for the smallest enclosing circle problem. Technical report, Singapore-MIT Alliance, National University of Singapore, Singapore, 2001.
+E. Alper Yildirim , Stephen J. Wright, Warm-Start Strategies in Interior-Point Methods  for Linear  Programming, SIAM Journal on Optimization, v.12 n.3, p.782-810, 2002[doi>10.1137/S1052623400369235]
+{37} G. Zhou, J. Sun and K.-C. Toh. Efficient algorithms for the smallest enclosing ball problem in high dimensional space. Technical report, 2002. To appear, Proceedings of Fields Institute of Mathematics.

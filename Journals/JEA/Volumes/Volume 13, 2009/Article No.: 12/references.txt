@@ -1,0 +1,63 @@
+Ming Yang Kao, Encyclopedia of Algorithms, Springer-Verlag, Berlin, Heidelberg, 2008
+Arne Andersson , Stefan Nilsson, Efficient implementation of suffix trees, Software—Practice & Experience, v.25 n.2, p.129-141, Feb. 1995[doi>10.1002/spe.4380250203]
+Diego Arroyuelo , Gonzalo Navarro, Space-efficient construction of LZ-index, Proceedings of the 16th international conference on Algorithms and Computation, December 19-21, 2005, Sanya, Hainan, China[doi>10.1007/11602613_113]
+Arroyuelo, D., and Navarro, G. 2008. Practical approaches to reduce the space requirement of Lempel-Ziv-based compressed text indices. Tech. Rep. TR/DCC-2008-9, Dept. of Computer Science, Univ. of Chile. July.
+Diego Arroyuelo , Gonzalo Navarro , Kunihiko Sadakane, Reducing the space requirement of LZ-Index, Proceedings of the 17th Annual conference on Combinatorial Pattern Matching, July 05-07, 2006, Barcelona, Spain[doi>10.1007/11780441_29]
+Nieves R. Brisaboa , Antonio Fariña , Susana Ladra , Gonzalo Navarro, Reorganizing compressed text, Proceedings of the 31st annual international ACM SIGIR conference on Research and development in information retrieval, July 20-24, 2008, Singapore, Singapore[doi>10.1145/1390334.1390360]
+Brisaboa, N., Fariña, A., Navarro, G., Places, A., and Rodríguez, E. 2008. Self-indexing natural language. In Proceedings 15th International Symposium on String Processing and Information Retrieval (SPIRE). Lecture Notes in Computer Science. Springer.
+Burrows, M. and Wheeler, D. 1994. A block sorting lossless data compression algorithm. Tech. Rep. 124, Digital Equipment Corporation.
+Claude, F. 2008. Compressed data structures for Web graphs. M.S. thesis, Dept. of Computer Science, Univ. of Chile. Also as Tech. Report TR/DCC-2008-12.
+Claude, F. and Navarro, G. 2008. Practical rank/select queries over arbitrary sequences. In Proceedings 15th International Symposium on String Processing and Information Retrieval (SPIRE). Lecture Notes in Computer Science. Springer.
+Richard Cole , Tsvi Kopelowitz , Moshe Lewenstein, Suffix trays and suffix trists: structures for faster text indexing, Proceedings of the 33rd international conference on Automata, Languages and Programming, July 10-14, 2006, Venice, Italy[doi>10.1007/11786986_32]
+Antonio Fariña , Gonzalo Navarro , José R. Paramá, Word-Based Statistical Compressors as Natural Language Compression Boosters, Proceedings of the Data Compression Conference, p.162-171, March 25-27, 2008[doi>10.1109/DCC.2008.14]
+Paolo Ferragina , Raffaele Giancarlo , Giovanni Manzini , Marinella Sciortino, Boosting textual compression in optimal linear time, Journal of the ACM (JACM), v.52 n.4, p.688-713, July 2005[doi>10.1145/1082036.1082043]
+Paolo Ferragina , Fabrizio Luccio , Giovanni Manzini , S. Muthukrishnan, Structuring labeled trees for optimal succinctness, and beyond, Proceedings of the 46th Annual IEEE Symposium on Foundations of Computer Science, p.184-196, October 23-25, 2005[doi>10.1109/SFCS.2005.69]
+P. Ferragina , F. Luccio , G. Manzini , S. Muthukrishnan, Compressing and searching XML data via two zips, Proceedings of the 15th international conference on World Wide Web, May 23-26, 2006, Edinburgh, Scotland[doi>10.1145/1135777.1135891]
+Paolo Ferragina , Giovanni Manzini, An experimental study of an opportunistic index, Proceedings of the twelfth annual ACM-SIAM symposium on Discrete algorithms, p.269-278, January 07-09, 2001, Washington, D.C., USA
+Paolo Ferragina , Giovanni Manzini, Indexing compressed text, Journal of the ACM (JACM), v.52 n.4, p.552-581, July 2005[doi>10.1145/1082036.1082039]
+Paolo Ferragina , Giovanni Manzini , Veli Mäkinen , Gonzalo Navarro, Compressed representations of sequences and full-text indexes, ACM Transactions on Algorithms (TALG), v.3 n.2, p.20-es, May 2007[doi>10.1145/1240233.1240243]
+Paolo Ferragina , Rossano Venturini, Compressed permuterm index, Proceedings of the 30th annual international ACM SIGIR conference on Research and development in information retrieval, July 23-27, 2007, Amsterdam, The Netherlands[doi>10.1145/1277741.1277833]
+Paolo Ferragina , Rossano Venturini, Note: A simple storage scheme for strings achieving entropy bounds, Theoretical Computer Science, v.372 n.1, p.115-121, March, 2007[doi>10.1016/j.tcs.2006.12.012]
+Luca Foschini , Roberto Grossi , Ankur Gupta , Jeffrey Scott Vitter, When indexing equals compression: Experiments with compressing suffix arrays and applications, ACM Transactions on Algorithms (TALG), v.2 n.4, p.611-639, October 2006[doi>10.1145/1198513.1198521]
+Giegerich, R., Kurtz, S., and Stoye, J. 2003. Efficient implementation of lazy suffix trees. Software Practice and Experience 33, 11, 1035--1049.
+González, R., Grabowski, S., Mäkinen, V., and Navarro, G. 2005. Practical implementation of rank and select queries. In Poster Proceedings Volume of 4th Workshop on Efficient and Experimental Algorithms (WEA). 27--38.
+Rodrigo González , Gonzalo Navarro, Statistical encoding of succinct data structures, Proceedings of the 17th Annual conference on Combinatorial Pattern Matching, July 05-07, 2006, Barcelona, Spain[doi>10.1007/11780441_27]
+Rodrigo González , Gonzalo Navarro, Compressed Text Indexes with Fast Locate, Proceedings of the 18th annual symposium on Combinatorial Pattern Matching, July 09-11, 2007, London, Canada[doi>10.1007/978-3-540-73437-6_23]
+Roberto Grossi , Ankur Gupta , Jeffrey Scott Vitter, High-order entropy-compressed text indexes, Proceedings of the fourteenth annual ACM-SIAM symposium on Discrete algorithms, January 12-14, 2003, Baltimore, Maryland
+Roberto Grossi , Jeffrey Scott Vitter, Compressed Suffix Arrays and Suffix Trees with Applications to Text Indexing and String Matching, SIAM Journal on Computing, v.35 n.2, p.378-407, 2005[doi>10.1137/S0097539702402354]
+Dan Gusfield, Algorithms on strings, trees, and sequences: computer science and computational biology, Cambridge University Press, New York, NY, 1997
+Wing-Kai Hon , Kunihiko Sadakane , Wing-Kin Sung, Breaking a Time-and-Space Barrier in Constructing Full-Text Indices, Proceedings of the 44th Annual IEEE Symposium on Foundations of Computer Science, p.251, October 11-14, 2003
+Jokinen, P. and Ukkonen, E. 1991. Two algorithms for approximate string matching in static texts. In Proceedings 2nd Annual Symposium on Mathematical Foundations of Computer Science (MFCS). Vol. 16. 240--248.
+Kärkkäinen, J. 1995. Suffix cactus: a cross between suffix tree and suffix array. In Proceedings 6th Annual Symposium on Combinatorial Pattern Matching (CPM). Lecture Notes in Computer Science, vol. 937. Springer, 191--204.
+Kärkkäinen, J. and Ukkonen, E. 1996a. Lempel-Ziv parsing and sublinear-size index structures for string matching. In Proceedings 3rd South American Workshop on String Processing (WSP). Carleton University Press, 141--155.
+Juha Kärkkäinen , Esko Ukkonen, Sparse Suffix Trees, Proceedings of the Second Annual International Conference on Computing and Combinatorics, p.219-230, June 17-19, 1996
+Tak Wah Lam , Kunihiko Sadakane , Wing-Kin Sung , Siu-Ming Yiu, A Space and Time Efficient Algorithm for Constructing Compressed Suffix Arrays, Proceedings of the 8th Annual International Conference on Computing and Combinatorics, p.401-410, August 15-17, 2002
+N. Jesper Larsson , Kunihiko Sadakane, Faster suffix sorting, Theoretical Computer Science, v.387 n.3, p.258-272, November, 2007[doi>10.1016/j.tcs.2007.07.017]
+Lehtinen, O., Sutinen, E., and Tarhio, J. 1996. Experiments on block indexing. In Proceedings 3rd South American Workshop on String Processing (WSP). Carleton University Press, 183--193.
+Lemström, K. and Perttu, S. 2000. SEMEX -- an efficient music retrieval prototype. In Proceedings 1st International Symposium on Music Information Retrieval (ISMIR).
+Veli Mäkinen , Gonzalo Navarro, Succinct suffix arrays based on run-length encoding, Nordic Journal of Computing, v.12 n.1, p.40-66, March 2005
+Veli Mäkinen , Gonzalo Navarro, Dynamic entropy-compressed sequences and full-text indexes, ACM Transactions on Algorithms (TALG), v.4 n.3, p.1-38, June 2008[doi>10.1145/1367064.1367072]
+Veli Mäkinen , Gonzalo Navarro, On Self-Indexing Images - Image Compression with Added Value, Proceedings of the Data Compression Conference, p.422-431, March 25-27, 2008[doi>10.1109/DCC.2008.47]
+Udi Manber , Gene Myers, Suffix arrays: a new method for on-line string searches, SIAM Journal on Computing, v.22 n.5, p.935-948, Oct. 1993[doi>10.1137/0222058]
+Udi Manber , Sun Wu, GLIMPSE: a tool to search through entire file systems, Proceedings of the USENIX Winter 1994 Technical Conference on USENIX Winter 1994 Technical Conference, p.4-4, January 17-21, 1994, San Francisco, California
+Giovanni Manzini, An analysis of the Burrows—Wheeler transform, Journal of the ACM (JACM), v.48 n.3, p.407-430, May 2001[doi>10.1145/382780.382782]
+Giovanni Manzini , Paolo Ferragina, Engineering a Lightweight Suffix Array Construction Algorithm, Algorithmica, v.40 n.1, p.33-50, June 2004[doi>10.1007/s00453-004-1094-1]
+J. Ian Munro, Tables, Proceedings of the 16th Conference on Foundations of Software Technology and Theoretical Computer Science, p.37-42, December 18-20, 1996
+J. Ian Munro , Rajeev Raman , Venkatesh Raman , Satti Srinivasa Rao, Succinct representations of permutations, Proceedings of the 30th international conference on Automata, languages and programming, June 30-July 04, 2003, Eindhoven, The Netherlands
+J. I. Munro , V. Raman, Succinct representation of balanced parentheses, static trees and planar graphs, Proceedings of the 38th Annual Symposium on Foundations of Computer Science, p.118, October 19-22, 1997
+Gonzalo Navarro, Indexing text using the Ziv-Lempel trie, Journal of Discrete Algorithms, v.2 n.1, p.87-114, March 2004[doi>10.1016/S1570-8667(03)00066-2]
+Navarro, G. and Baeza-Yates, R. 1998. A practical q-gram index for text retrieval allowing errors. CLEI Electronic Journal 1, 2. http://www.clei.cl.
+Navarro, G., Baeza-Yates, R., Sutinen, E., and Tarhio, J. 2001. Indexing methods for approximate string matching. IEEE Data Engineering Bulletin 24, 4, 19--27.
+Gonzalo Navarro , Veli Mäkinen, Compressed full-text indexes, ACM Computing Surveys (CSUR), v.39 n.1, p.2-es, 2007[doi>10.1145/1216370.1216372]
+Gonzalo Navarro , Edleno Silva De Moura , Marden Neubert , Nivio Ziviani , Ricardo Baeza-Yates, Adding Compression to Block Addressing Inverted Indexes, Information Retrieval, v.3 n.1, p.49-77, July 2000[doi>10.1023/A:1009934302807]
+Gonzalo Navarro , Jorma Tarhio, LZgrep: a Boyer–Moore string matching tool for Ziv–Lempel compressed text: Research Articles, Software—Practice & Experience, v.35 n.12, p.1107-1130, October 2005[doi>10.1002/spe.v35:12]
+Simon J. Puglisi , W. F. Smyth , Andrew H. Turpin, A taxonomy of suffix array construction algorithms, ACM Computing Surveys (CSUR), v.39 n.2, p.4-es, 2007[doi>10.1145/1242471.1242472]
+Simon J. Puglisi , W. F. Smyth , Andrew Turpin, Inverted files versus suffix arrays for locating patterns in primary memory, Proceedings of the 13th international conference on String Processing and Information Retrieval, October 11-13, 2006, Glasgow, UK[doi>10.1007/11880561_11]
+Kunihiko Sadakane, Succinct representations oflcpinformation and improvements in the compressed suffix arrays, Proceedings of the thirteenth annual ACM-SIAM symposium on Discrete algorithms, p.225-232, January 06-08, 2002, San Francisco, California
+Kunihiko Sadakane, New text indexing functionalities of the compressed suffix arrays, Journal of Algorithms, v.48 n.2, p.294-313, September 2003[doi>10.1016/S0196-6774(03)00087-7]
+Erkki Sutinen , Jorma Tarhio, Filtration with q-Samples in Approximate String Matching, Proceedings of the 7th Annual Symposium on Combinatorial Pattern Matching, p.50-63, June 10-12, 1996
+Ullman, J. 1977. A binary n-gram technique for automatic correction of substitution, deletion, insertion and reversal errors in words. The Computer Journal 10, 141--147.
+H. E. Williams , Justin Zobel, Indexing and Retrieval for Genomic Databases, IEEE Transactions on Knowledge and Data Engineering, v.14 n.1, p.63-78, January 2002[doi>10.1109/69.979973]
+Ian H. Witten , Alistair Moffat , Timothy C. Bell, Managing gigabytes (2nd ed.): compressing and indexing documents and images, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1999
+Ziv, J. and Lempel, A. 1978. Compression of individual sequences via variable-rate coding. IEEE Transactions on Information Theory 24, 5, 530--536.
+Justin Zobel , Alistair Moffat, Inverted files for text search engines, ACM Computing Surveys (CSUR), v.38 n.2, p.6-es, 2006[doi>10.1145/1132956.1132959]
