@@ -1,0 +1,48 @@
+Charu C. Aggarwal, A framework for diagnosing changes in evolving data streams, Proceedings of the 2003 ACM SIGMOD international conference on Management of data, June 09-12, 2003, San Diego, California[doi>10.1145/872757.872826]
+Charu C. Aggarwal , Jiawei Han , Jianyong Wang , Philip S. Yu, A framework for clustering evolving data streams, Proceedings of the 29th international conference on Very large data bases, p.81-92, September 09-12, 2003, Berlin, Germany
+C. Aggarwal and P. S. Yu. 2007. A survey of synopsis construction in data streams. In Data Streams: Models and Algorithms, C. Aggarwal, Ed. Springer Science and Business Media, New York, 169--202.
+A. Asuncion and D. J. Newman. 2007. UCI machine learning repository. University of California, School of Information and Computer Science, Irvine, CA. Available at http://www.ics.uci.edu/∼ mlearn/MLRepository.html.
+Brian Babcock , Shivnath Babu , Mayur Datar , Rajeev Motwani , Jennifer Widom, Models and issues in data stream systems, Proceedings of the twenty-first ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems, June 03-05, 2002, Madison, Wisconsin[doi>10.1145/543613.543615]
+Arnold P. Boedihardjo , Chang-Tien Lu , Feng Chen, A framework for estimating complex probability density structures in data streams, Proceedings of the 17th ACM conference on Information and knowledge management, October 26-30, 2008, Napa Valley, California, USA[doi>10.1145/1458082.1458164]
+A. Bowman. 1984. An alternative method for cross-validation for the smoothing of density estimates. Biometrika 71, 353--360.
+C. Chatfield and A. J. Collins. 1990. Introduction to Multivariate Analysis. Chapman & Hall.
+P. Domingos and G. Hulten. 2012. A general framework for mining massive data streams. Journal of Computational and Graphical Statistics 12, 945--949.
+Minos Garofalakis , Johannes Gehrke , Rajeev Rastogi, Querying and mining data streams: you only get one look a tutorial, Proceedings of the 2002 ACM SIGMOD international conference on Management of data, June 03-06, 2002, Madison, Wisconsin[doi>10.1145/564691.564794]
+Phillip B. Gibbons , Yossi Matias , Viswanath Poosala, Fast incremental maintenance of approximate histograms, ACM Transactions on Database Systems (TODS), v.27 n.3, p.261-298, September 2002[doi>10.1145/581751.581753]
+Anna C. Gilbert , Yannis Kotidis , S. Muthukrishnan , Martin J. Strauss, How to summarize the universe: dynamic maintenance of quantiles, Proceedings of the 28th international conference on Very Large Data Bases, p.454-465, August 20-23, 2002, Hong Kong, China
+A. Gray and A. Moore. 2003. Rapid evaluation of multiple density models. In Proceedings of the 9th International Workshop on Artificial Intelligence and Statistics.
+Sudipto Guha , Nick Koudas , Kyuseok Shim, Approximation and streaming algorithms for histogram construction problems, ACM Transactions on Database Systems (TODS), v.31 n.1, p.396-438, March 2006[doi>10.1145/1132863.1132873]
+P. Hall, S. N. Lahiri, and Y. K. Truong. 1995. On bandwidth choice for density estimation with dependent data. Annals of Statistics 23, 2241--2263.
+P. Hall and J. S. Marron. 1987. Estimation of integrated squared density derivatives. Statistics and Probability Letters 6, 109--115.
+P. Hall, S. J. Sheather, M. C. Jones, and J. S. Marron. 1991. On optimal data-based bandwidth selection in kernel density estimation. Biometrika 78, 263--269.
+W. Hardle, M. Muller, S. Sperlich, and A. Werwatz. 2004. Nonparametric and Semiparametric Models. Springer-Verlag, Germany.
+T. Hastie, R. Tibshirani, and J. Friedman. 2001. The Elements of Statistical Learning. Springer-Verlag.
+N.-B. Heidenreich, A. Schindler, and S. Sperlich. 2010. Bandwidth selection methods for kernel density estimation: A review of performance. In Social Science Research Network, Social Science Electronic Publishing. 1--28.
+C. Heinz and B. Seeger. 2006. Towards kernel density estimation over streaming data. In Proceedings of the 13th International Conference on Management of Data. 91--102.
+Christoph Heinz , Bernhard Seeger, Cluster Kernels: Resource-Aware Kernel Density Estimators over Streaming Data, IEEE Transactions on Knowledge and Data Engineering, v.20 n.7, p.880-893, July 2008[doi>10.1109/TKDE.2008.21]
+N. L. Hjort and M. C. Jones. 1996. Locally parametric nonparametric density estimation. Annals of Statistics 24, 1619--1647.
+Yannis Ioannidis, The history of histograms (abridged), Proceedings of the 29th international conference on Very large data bases, p.19-30, September 09-12, 2003, Berlin, Germany
+M. C. Jones, J. S. Marron, and S. J. Sheather. 1996. A brief survey of bandwidth selection for density estimation. Journal of the American Statistical Association 91, 401--407.
+E. Keogh, X. Xi, L. Wei, and C. A. Ratanamahatana. 2008. The UCR time series classification/clustering. Available at http://www.cs.ucr.edu/∼eamonn/time_series_data.
+Edwin M. Knorr , Raymond T. Ng, Algorithms for Mining Distance-Based Outliers in Large Datasets, Proceedings of the 24rd International Conference on Very Large Data Bases, p.392-403, August 24-27, 1998
+E. Lehmann. 1998. Theory of Point Estimation. Springer, New York.
+C. R. Loader. 1996. Local likelihood density estimation. The Annals of Statistics 24, 1602--1618.
+C. R. Loader. 1999. Bandwidth selection: Classical or plug-in&quest; Annals of Statistics 27, 415--438.
+I. Mitliagkas, C. Caramanis, and P. Jain. 2013. Streaming, Memory-limited PCA. University of Texas at Austin.
+Streaming-Data Algorithms for High-Quality Clustering, Proceedings of the 18th International Conference on Data Engineering, p.685, February 26-March 01, 2002
+Atsuyuki Okabe , Toshiaki Satoh , Kokichi Sugihara, A kernel density estimation method for networks, its computational method and a GIS-based tool, International Journal of Geographical Information Science, v.23 n.1, p.7-32, January 2009[doi>10.1080/13658810802475491]
+E. Parzen. 1962. On estimation of a probability density function and mode. Annals of Mathematical Statistics 33, 1065--1076.
+M. Rudemo. 1982. Emperical choise of histograms and kernel density estimation. Scandanavian Journal of Statistics 9, 65--78.
+S. Sain. 1994. Adaptive kernel density estimation. In Statistics. Rice University, Houston.
+D. W. Scott. 1992. Multivariate Density Estimation. Wiley & Sons, New York.
+S. J. Sheather and M. C. Jones. 1991. A reliable data-based bandwidth selection method for kernel density estimation. Journal of the Royal Statistical Society 53, 683--690.
+B. W. Silverman. 1986. Density Estimation for Statistics and Data Analysis. Chapman and Hall, London.
+C. J. Stone. 1984. An asymptotically optimal window selection rule for kernel density estimates. Annals of Statistics 12, 1285--1297.
+S. Subramaniam , T. Palpanas , D. Papadopoulos , V. Kalogeraki , D. Gunopulos, Online outlier detection in sensor data using non-parametric models, Proceedings of the 32nd international conference on Very large data bases, September 12-15, 2006, Seoul, Korea
+B. A. Turlach. 1993. Bandwidth selection in kernel density estimation: A review. C.O.R.E. and Institut de Statistique, Universite Catholique de Louvain, Louvain-la-Neuve, Belgium.
+P. Van Kerm. 2003. Adaptive kernel density estimation. Stata Journal 3, 148--156.
+E. J. Wegman and D. J. Marchette. 2003. On some techniques for streaming data: A case study of internet packet headers. Journal of Computational and Graphical Statistics 12, 1--22.
+Z. Xie and J. Yan. 2008. A kernel density estimation of traffic accidents in a network space. Computers, Environment, and Urban Systems 35, 396--406.
+Tian Zhang , Raghu Ramakrishnan , Miron Livny, BIRCH: an efficient data clustering method for very large databases, Proceedings of the 1996 ACM SIGMOD international conference on Management of data, p.103-114, June 04-06, 1996, Montreal, Quebec, Canada[doi>10.1145/233269.233324]
+Tian Zhang , Raghu Ramakrishnan , Miron Livny, Fast density estimation using CF-kernel for very large databases, Proceedings of the fifth ACM SIGKDD international conference on Knowledge discovery and data mining, p.312-316, August 15-18, 1999, San Diego, California, USA[doi>10.1145/312129.312266]
+Aoying Zhou , Zhiyuan Cai , Li Wei , Weining Qian, M-Kernel Merging: Towards Density Estimation over Data Streams, Proceedings of the Eighth International Conference on Database Systems for Advanced Applications, p.285, March 26-28, 2003
