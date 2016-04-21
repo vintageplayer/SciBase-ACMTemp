@@ -1,0 +1,55 @@
+David Andre , Stuart J. Russell, State Abstraction for Programmable Reinforcement Learning Agents, University of California at Berkeley, Berkeley, CA, 2001
+Mehran Asadi and Manfred Huber. 2004. State space reduction for hierarchical reinforcement learning. In Proceedings of the FLAIRS Conference. 509--514.
+Peter Auer , Nicolò Cesa-Bianchi , Paul Fischer, Finite-time Analysis of the Multiarmed Bandit Problem, Machine Learning, v.47 n.2-3, p.235-256, May-June 2002[doi>10.1023/A:1013689704352]
+Aijun Bai , Feng Wu , Xiaoping Chen, Online planning for large MDPs with MAXQ decomposition, Proceedings of the 11th International Conference on Autonomous Agents and Multiagent Systems, June 04-08, 2012, Valencia, Spain
+Aijun Bai, Feng Wu, and Xiaoping Chen. 2013a. Bayesian mixture modelling and inference based Thompson sampling in Monte-Carlo tree search. In Advances in Neural Information Processing Systems 26. 1646--1654.
+Aijun Bai, Feng Wu, and Xiaoping Chen. 2013b. Towards a principled solution to simulated robot soccer. In RoboCup 2012: Robot Soccer World Cup XVI. Lecture Notes in Computer Science, Vol. 7500. Springer, 141--153.
+Bram Bakker and Jürgen Schmidhuber. 2004. Hierarchical reinforcement learning based on subgoal discovery and subpolicy specialization. In Proceedings of the 8th Conference on Intelligent Autonomous Systems. 438--445.
+Bram Bakker, Zoran Zivkovic, and Ben Krose. 2005. Hierarchical dynamic programming for robot path planning. In Proceedings of the 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS’05). IEEE, Los Alamitos, CA, 2756--2761.
+Jennifer Barry. 2009. Fast Approximate Hierarchical Solution of MDPs. Ph.D. Dissertation. Massachusetts Institute of Technology, Cambridge, MA.
+Jennifer L. Barry , Leslie Pack Kaelbling , Tomás Lozano-Pérez, DetH: approximate hierarchical solution of large Markov decision processes, Proceedings of the Twenty-Second international joint conference on Artificial Intelligence, p.1928-1935, July 16-22, 2011, Barcelona, Catalonia, Spain[doi>10.5591/978-1-57735-516-8/IJCAI11-323]
+Andrew G. Barto , Steven J. Bradtke , Satinder P. Singh, Learning to act using real-time dynamic programming, Artificial Intelligence, v.72 n.1-2, p.81-138, January, 1995[doi>10.1016/0004-3702(94)00011-O]
+Andrew G. Barto , Sridhar Mahadevan, Recent Advances in Hierarchical Reinforcement Learning, Discrete Event Dynamic Systems, v.13 n.4, p.341-379, October 2003[doi>10.1023/A:1025696116075]
+Richard Bellman. 1957. Dynamic Programming. Princeton University Press, Princeton, NJ.
+Dimitri P. Bertsekas, Dynamic Programming and Optimal Control, Athena Scientific, 1995
+Blai Bonet and Hector Geffner. 2003. Labeled RTDP: Improving the convergence of real-time dynamic programming. In Proceedings of the 13th International Conference on Automated Planning and Scheduling.
+Blai Bonet and Hector Geffner. 2012. Action selection for MDPs: Anytime AO&ast; vs. UCT. In Proceedings of the AAAI Conference on Artificial Intelligence. 1749--1755.
+Cameron B. Browne, Edward Powley, Daniel Whitehouse, Simon M. Lucas, Peter I. Cowling, Philipp Rohlfshagen, Stephen Tavener, Diego Perez, Spyridon Samothrakis, and Simon Colton. 2012. A survey of Monte Carlo tree search methods. IEEE Transactions on Computational Intelligence and AI in Games 4, 1, 1--43.
+Frank Dellaert, Dieter Fox, Wolfram Burgard, and Sebastian Thrun. 2001. Monte Carlo localization for mobile robots. In Proceedings of the IEEE International Conference on Robotics and Automation, Vol. 2. IEEE, Los Alamitos, CA, 1322--1328.
+Thomas G. Dietterich. 1999a. Hierarchical reinforcement learning with the MAXQ value function decomposition. Journal of Machine Learning Research 13, 1, 63.
+Thomas G. Dietterich. 1999b. State abstraction in MAXQ hierarchical reinforcement learning. arXiv preprint cs/9905015.
+Carlos Diuk , Alexander L. Strehl , Michael L. Littman, A hierarchical approach to efficient reinforcement learning in deterministic domains, Proceedings of the fifth international joint conference on Autonomous agents and multiagent systems, May 08-12, 2006, Hakodate, Japan[doi>10.1145/1160633.1160686]
+Zohar Feldman and Carmel Domshlak. 2012. Simple regret optimization in online planning for Markov decision processes. arXiv preprint 1206.3382.
+Zhengzhu Feng , Eric A. Hansen, Symbolic heuristic search for factored Markov decision processes, Eighteenth national conference on Artificial intelligence, p.455-460, July 28-August 01, 2002, Edmonton, Alberta, Canada
+Thomas Gabel , Martin Riedmiller, On progress in RoboCup: the simulation league showcase, RoboCup 2010: robot soccer world cup XIV, Springer-Verlag, Berlin, Heidelberg, 2011
+Sylvain Gelly , David Silver, Monte-Carlo tree search and rapid action value estimation in computer Go, Artificial Intelligence, v.175 n.11, p.1856-1875, July, 2011[doi>10.1016/j.artint.2011.03.007]
+Eric A. Hansen , Shlomo Zilberstein, LAO: a heuristic search algorithm that finds solutions with loops, Artificial Intelligence, v.129 n.1-2, p.35-62, June 2001[doi>10.1016/S0004-3702(01)00106-0]
+Milos Hauskrecht , Nicolas Meuleau , Leslie Pack Kaelbling , Thomas Dean , Craig Boutilier, Hierarchical solution of Markov decision processes using macro-actions, Proceedings of the Fourteenth conference on Uncertainty in artificial intelligence, p.220-229, July 24-26, 1998, Madison, Wisconsin
+Bernhard Hengst, Discovering Hierarchy in Reinforcement Learning with HEXQ, Proceedings of the Nineteenth International Conference on Machine Learning, p.243-250, July 08-12, 2002
+Bernhard Hengst. 2004. Model approximation for HEXQ hierarchical reinforcement learning. In Machine Learning: ECML 2004. Lecture Notes in Computer Science, Vol. 3201. Springer, 144--155.
+Bernhard Hengst, Safe state abstraction and reusable continuing subtasks in hierarchical reinforcement learning, Proceedings of the 20th Australian joint conference on Advances in artificial intelligence, December 02-06, 2007, Gold Coast, Australia
+Nicholas K. Jong , Peter Stone, Hierarchical model-based reinforcement learning:R-max+ MAXQ, Proceedings of the 25th international conference on Machine learning, p.432-439, July 05-09, 2008, Helsinki, Finland[doi>10.1145/1390156.1390211]
+Anders Jonsson , Andrew Barto, Causal Graph Based Decomposition of Factored MDPs, The Journal of Machine Learning Research, 7, p.2259-2301, 12/1/2006
+Leslie Pack Kaelbling , Michael L. Littman , Anthony R. Cassandra, Planning and acting in partially observable stochastic domains, Artificial Intelligence, v.101 n.1-2, p.99-134, May, 1998[doi>10.1016/S0004-3702(98)00023-X]
+Shivaram Kalyanakrishnan , Yaxin Liu , Peter Stone, Half Field Offense in RoboCup Soccer: A Multiagent Reinforcement Learning Case Study, RoboCup 2006: Robot Soccer World Cup X, Springer-Verlag, Berlin, Heidelberg, 2006[doi>10.1007/978-3-540-74024-7_7]
+Michael Kearns , Yishay Mansour , Andrew Y. Ng, A sparse sampling algorithm for near-optimal planning in large Markov decision processes, Proceedings of the 16th international joint conference on Artificial intelligence, p.1324-1331, July 31-August 06, 1999, Stockholm, Sweden
+Thomas Keller and Malte Helmert. 2013. Trial-based heuristic tree search for finite horizon MDPs. In Proceedings of the 23rd International Conference on Automated Planning and Scheduling (ICAPS’13). 135--143.
+Levente Kocsis , Csaba Szepesvári, Bandit based monte-carlo planning, Proceedings of the 17th European conference on Machine Learning, September 18-22, 2006, Berlin, Germany[doi>10.1007/11871842_29]
+Lihong Li, Thomas J. Walsh, and Michael L. Littman. 2006. Towards a unified theory of state abstraction for MDPs. In Proceedings of the 9th International Symposium on Artificial Intelligence and Mathematics (ISAIM’06).
+Michael L. Littman , Thomas L. Dean , Leslie Pack Kaelbling, On the complexity of solving Markov decision problems, Proceedings of the Eleventh conference on Uncertainty in artificial intelligence, p.394-402, August 18-20, 1995, Montréal, Qué, Canada
+Victoria Manfredi and Sridhar Mahadevan. 2005. Hierarchical reinforcement learning using graphical models. In Proceedings of the ICML 2005 Workshop on Rich Representations for Reinforcement Learning. 39--44.
+H. Brendan McMahan , Maxim Likhachev , Geoffrey J. Gordon, Bounded real-time dynamic programming: RTDP with monotone upper bounds and performance guarantees, Proceedings of the 22nd international conference on Machine learning, p.569-576, August 07-11, 2005, Bonn, Germany[doi>10.1145/1102351.1102423]
+Neville Mehta , Soumya Ray , Prasad Tadepalli , Thomas Dietterich, Automatic discovery and transfer of MAXQ hierarchies, Proceedings of the 25th international conference on Machine learning, p.648-655, July 05-09, 2008, Helsinki, Finland[doi>10.1145/1390156.1390238]
+Neville Mehta, Soumya Ray, Prasad Tadepalli, and Thomas Dietterich. 2011. Automatic discovery and transfer of task hierarchies in reinforcement learning. AI Magazine 32, 1, 35.
+Daniele Nardi , Luca Iocchi, Artificial intelligence in robocup, Reasoning, Action and Interaction in AI Theories and Systems: essays dedicated to Luigia Carlucci Aiello, Springer-Verlag, Berlin, Heidelberg, 2006
+N. J. Nilsson, Principles of artificial intelligence, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1980
+Martin L. Puterman, Markov Decision Processes: Discrete Stochastic Dynamic Programming, John Wiley & Sons, Inc., New York, NY, 1994
+Martin Riedmiller , Thomas Gabel , Roland Hafner , Sascha Lange, Reinforcement learning for robot soccer, Autonomous Robots, v.27 n.1, p.55-73, July      2009[doi>10.1007/s10514-009-9120-4]
+Scott Sanner , Robby Goetschalckx , Kurt Driessens , Guy Shani, Bayesian real-time dynamic programming, Proceedings of the 21st international jont conference on Artifical intelligence, p.1784-1789, July 11-17, 2009, Pasadena, California, USA
+Özgür Şimşek , Alicia P. Wolfe , Andrew G. Barto, Identifying useful subgoals in reinforcement learning by local graph partitioning, Proceedings of the 22nd international conference on Machine learning, p.816-823, August 07-11, 2005, Bonn, Germany[doi>10.1145/1102351.1102454]
+Martin Stolle. 2004. Automated Discovery of Options in Reinforcement Learning. Ph.D. Dissertation. McGill University.
+Peter Stone, Layered Learning in Multiagent Systems: A Winning Approach to Robotic Soccer, MIT Press, Cambridge, MA, 2000
+Peter Stone, Richard S. Sutton, and Gregory Kuhlmann. 2005. Reinforcement learning for RoboCup soccer keepaway. Adaptive Behavior 13, 3, 165--188.
+Richard S. Sutton , Andrew G. Barto, Introduction to Reinforcement Learning, MIT Press, Cambridge, MA, 1998
+Richard S. Sutton , Doina Precup , Satinder Singh, Between MDPs and semi-MDPs: a framework for temporal abstraction in reinforcement learning, Artificial Intelligence, v.112 n.1-2, p.181-211, Aug. 1999[doi>10.1016/S0004-3702(99)00052-1]
+Matthew E. Taylor , Peter Stone, Transfer Learning for Reinforcement Learning Domains: A Survey, The Journal of Machine Learning Research, 10, p.1633-1685, 12/1/2009

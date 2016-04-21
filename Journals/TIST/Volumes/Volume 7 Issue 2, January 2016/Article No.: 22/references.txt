@@ -1,0 +1,45 @@
+Michel Besserve, Nikos K. Logothetis, and Bernhard Schölkopf. 2013. Statistical analysis of coupled time series with kernel cross-spectral density operators. In Advances in Neural Information Processing Systems 26, C. J. C. Burges, L. Bottou, M. Welling, Z. Ghahramani, and K. Q. Weinberger (Eds.). Curran Associates, Inc., 2535--2543.
+George E. P. Box, Gwilym M. Jenkins, and Gregory C. Reinsel. 2008. Time Series Analysis. John Wiley & Sons, Inc. DOI:http://dx.doi.org/10.1002/9781118619193.ch1
+Leo Breiman and Jerome H. Friedman. 1985. Estimating optimal transformations for multiple regression and correlation. Journal of the American Statistical Association 80, 391 (1985), 580--598.
+Taeryon Choi , Mark J. Schervish, On posterior consistency in nonparametric regression problems, Journal of Multivariate Analysis, v.98 n.10, p.1969-1987, November, 2007[doi>10.1016/j.jmva.2007.01.004]
+K. Chwialkowski and A. Gretton. 2014. A kernel independence test for random processes. In ICML. http://arxiv.org/abs/1402.4501.
+N. Cressie and C. K. Wikle. 2011. Statistics for Spatio-Temporal Data. Vol. 465. Wiley.
+G. Doran, K. Muandet, K. Zhang, and B. Scholkopf. 2014. A permutation-based kernel conditional independence test. In Proceedings of the 30th Conference on Uncertainty in Artificial Intelligence. 132--41.
+David Duvenaud, James Robert Lloyd, Roger Grosse, Joshua B. Tenenbaum, and Zoubin Ghahramani. 2013. Structure discovery in nonparametric regression through compositional kernel search. arXiv preprint arXiv:1302.4922 (2013).
+Ragnar Frisch and Frederick V. Waugh. 1933. Partial time regressions as compared with individual trends. Econometrica: Journal of the Econometric Society (1933), 387--401.
+Kenji Fukumizu, Arthur Gretton, Xiaohai Sun, and Bernhard Schölkopf. 2007. Kernel measures of conditional dependence. In NIPS, Vol. 20. 489--496.
+Tilmann Gneiting, M. Genton, and Peter Guttorp. 2007. Geostatistical space-time models, stationarity, separability and full symmetry. Statistical Methods for Spatio-Temporal Systems (2007), 151--175.
+Arthur Gretton , Karsten M. Borgwardt , Malte J. Rasch , Bernhard Schölkopf , Alexander Smola, A kernel two-sample test, The Journal of Machine Learning Research, 13, p.723-773, 3/1/2012
+Arthur Gretton , Olivier Bousquet , Alex Smola , Bernhard Schölkopf, Measuring statistical dependence with hilbert-schmidt norms, Proceedings of the 16th international conference on Algorithmic Learning Theory, October 08-11, 2005, Singapore[doi>10.1007/11564089_7]
+A. Gretton, K. Fukumizu, C. H. Teo, L. Song, B. Schoelkopf, and A. Smola. 2008. A kernel statistical test of independence. (2008). http://books.nips.cc/papers/files/nips20/NIPS2007_0730.pdf.
+David Harrison Jr. and Daniel L Rubinfeld. 1978. Hedonic housing prices and the demand for clean air. Journal of Environmental Economics and Management 5, 1 (1978), 81--102.
+Patrik O. Hoyer, Dominik Janzing, Joris M. Mooij, Jonas Peters, and Bernhard Schölkopf. 2008. Nonlinear causal discovery with additive noise models. Advances in Neural Information Processing Systems (NIPS), Vol. 21. 689--696.
+Alfredo Kalaitzis, Antti Honkela, Pei Gao, and Neil D. Lawrence. 2013. gptk: Gaussian Processes Tool-Kit. http://CRAN.R-project.org/package&equals;gptk R package version 1.07.
+Markus Kalisch, Martin Mächler, Diego Colombo, Marloes H. Maathuis, and Peter Bühlmann. 2012. Causal inference using graphical models with the r package pcalg. Journal of Statistical Software 47, 11 (2012), 1--26. http://www.jstatsoft.org/v47/i11/
+Alexandros Karatzoglou, Alex Smola, Kurt Hornik, and Achim Zeileis. 2004. Kernlab -- An S4 package for kernel methods in R. Journal of Statistical Software 11, 9 (2004), 1--20.
+Samory Kpotufe, Eleni Sgouritsa, Dominik Janzing, and Bernhard Scholkopf. 2014. Consistency of causal inference under the additive noise model. In Proceedings of the 31st International Conference on Machine Learning (ICML'14). Beijing, China.
+Alessio Moneta, Nadine Chlaß, Doris Entner, and Patrik O. Hoyer. 2011. Causal search in structural vector autoregressive models. Journal of Machine Learning Research-Proceedings Track 12 (2011), 95--114.
+Patrick A. P. Moran. 1950. Notes on continuous stochastic phenomena. Biometrika (1950), 17--23.
+R. Kelley Pace and Otis W. Gilley. 1997. Using the spatial configuration of the data to improve estimation. The Journal of Real Estate Finance and Economics 14, 3 (1997), 333--340.
+Judea Pearl, Causality: Models, Reasoning and Inference, Cambridge University Press, New York, NY, 2009
+K. Pearson. 1983. Handbook of Applied Mathematics. Van Nostrand Reinhold Company, New York.
+Jonas Peters, Joris Mooij, Dominik Janzing, and Bernhard Schölkopf. 2013. Causal discovery with continuous additive noise models. ArXiv preprint ArXiv:1309.6779v4 (2013).
+J. D. Ramsey. 2014. A scalable conditional independence test for nonlinear, non-gaussian data. ArXiv e-prints (Jan. 2014).
+Carl Edward Rasmussen , Hannes Nickisch, Gaussian Processes for Machine Learning (GPML) Toolbox, The Journal of Machine Learning Research, 11, p.3011-3015, 3/1/2010
+Carl Edward Rasmussen and Christopher K. I. Williams. 2006. Gaussian Processes for Machine Learning. The MIT Press, Cambridge, Massachusetts.
+Sashank Reddi and Barnabás Póczos. 2013. Scale invariant conditional dependence measures. In Proceedings of the 30th International Conference on Machine Learning (ICML’13). Atlanta, GA, USA, 1355--1363.
+K. Salkauskas. 1982. Some relationships between surface splines and kriging. In Multivariate Approximation Theory II, W. Schempp and K. Zeller (Eds.). Birkhauser, Basel, 313--325.
+Alex Smola , Arthur Gretton , Le Song , Bernhard Schölkopf, A Hilbert Space Embedding for Distributions, Proceedings of the 18th international conference on Algorithmic Learning Theory, October 01-04, 2007, Sendai, Japan[doi>10.1007/978-3-540-75225-7_5]
+P. Spirtes, C. Glymour, and R. Scheines. 2001. Causation, Prediction, and Search. Vol. 81. MIT Press.
+Bharath K. Sriperumbudur , Arthur Gretton , Kenji Fukumizu , Bernhard Schölkopf , Gert R.G. Lanckriet, Hilbert Space Embeddings and Metrics on Probability Measures, The Journal of Machine Learning Research, 11, p.1517-1561, 3/1/2010
+Liangjun Su and Halbert White. 2007. A consistent characteristic function-based test for conditional independence. Journal of Econometrics 141, 2 (2007), 807--834.
+Gábor J. Székely, Maria L. Rizzo, et al. 2009. Brownian distance covariance. The Annals of Applied Statistics 3, 4 (2009), 1236--1265.
+Jörg Tiedemann. 2009. News from OPUS - A collection of multilingual parallel corpora with tools and interfaces. In Recent Advances in Natural Language Processing, N. Nicolov, K. Bontcheva, G. Angelova, and R. Mitkov (Eds.). Vol. V. John Benjamins, Amsterdam/Philadelphia, Borovets, Bulgaria, 237--248.
+Robert E. Tillman, Arthur Gretton, and Peter Spirtes. 2009. Nonlinear directed acyclic structure learning with weakly additive noise models. In NIPS. 1847--1855.
+Aad van der Vaart , Harry van Zanten, Information Rates of Nonparametric Gaussian Process Methods, The Journal of Machine Learning Research, 12, p.2095-2119, 2/1/2011
+Jarno Vanhatalo , Jaakko Riihimäki , Jouni Hartikainen , Pasi Jylänki , Ville Tolvanen , Aki Vehtari, GPstuff: Bayesian modeling with Gaussian processes, The Journal of Machine Learning Research, v.14 n.1, p.1175-1179, January 2013
+G. Wahba. 1990. Spline Models for Observational Data. CBMS-NSF Regional Conference Series in Applied Mathematics, Vol. 59. SIAM, Philadelphia.
+C. K. I. Williams, Prediction with Gaussian processes: from linear regression to linear prediction and beyond, Learning in graphical models, MIT Press, Cambridge, MA, 1999
+A. G. Wilson and R. P. Adams. 2013. Gaussian process kernels for pattern discovery and extrapolation. In Proceedings of the 30th International Conference on Machine Learning.
+K. Zhang, J. Peters, D. Janzing, B., and B. Schölkopf. 2011. Kernel-based conditional independence test and application in causal discovery. In Proceedings of the 27th Conference on Uncertainty in Artificial Intelligence. 804--813.
+Xinhua Zhang, Le Song, Arthur Gretton, and Alex J. Smola. 2008. Kernel measures of independence for non-iid data. In NIPS, Vol. 22.

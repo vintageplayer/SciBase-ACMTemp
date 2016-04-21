@@ -1,0 +1,41 @@
+S. Arya, D. M. Mount, N. S. Netanyahu, R. Silverman, and A. Y. Wu. 1998. An optimal algorithm for approximate nearest neighbor searching fixed dimensions. Journal of the ACM 45, 6, 891--923.
+R. Baeza-Yates and B. Ribeiro-Neto. 1999. Modern Information Retrieval. Addison-Wesley.
+J. S. Beis and D. G. Lowe. 1997. Shape indexing using approximate nearest-neighbour search in high-dimensional spaces. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 1000--1006.
+J. Deng, W. Dong, R. Socher, L. J. Li, K. Li, and L. Fei-Fei. 2009. Imagenet: A large-scale hierarchical image database. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 248--255.
+D. Guo, H. Xiong, V. Atluri, and N. Adam. 2009. Object discovery in high-resolution remote sensing images: A semantic perspective. Knowledge and Information Systems 19, 2, 211--233.
+Y. Huang, S. Shekhar, and H. Xiong. 2004. Discovering co-location patterns from spatial datasets: A general approach. IEEE Transactions on Knowledge and Data Engineering 16, 12, 1472--1485.
+H. Jegou and O. Chum. 2012. Negative evidences and co-occurrences in image retrieval: The benefit of PCA and whitening. In Proceedings of the IEEE European Conference on Computer Vision. 774--787.
+H. Jegou, M. Douze, and C. Schmid. 2008. Hamming embedding and weak geometric consistency for large scale image search. In Computer Vision—ECCV 2008. Lecture Notes in Computer Science, 5302. Springer, 304--317.
+H. Jegou, M. Douze, and C. Schmid. 2009. On the burstiness of visual elements. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 1169--1176.
+H. Jegou, M. Douze, and C. Schmid. 2011a. Exploiting Descriptor Distances for Precise Image Search. Research Report RR-7656. Inria.
+H. Jegou, M. Douze, and C. Schmid. 2011b. Product quantization for nearest neighbor search. IEEE Transactions on Pattern Analysis and Machine Intelligence 33, 1, 117--128.
+H. Jegou, C. Schmid, H. Harzallah, and J. Verbeek. 2010. Accurate image search using the contextual dissimilarity measure. IEEE Transactions on Pattern Analysis and Machine Intelligence 32, 1, 2--11.
+Y. Li, B. Geng, Z. Zha, Y. Li, D. Tao, and C. Xu. 2011. Query expansion by spatial co-occurrence for image retrieval. In Proceedings of the ACM International Conference on Multimedia. 1177--1180.
+T. Liu, A. W. Moore, A. Gray, and K. Yang. 2004. An investigation of practical approximate nearest neighbor algorithms. Advances in Neural Information Processing Systems 17, 825--832.
+D. G. Lowe. 2004. Distinctive image features from scale-invariant keypoints. International Journal of Computer Vision 60, 2, 91--110.
+K. Mikolajczyk and C. Schmid. 2004. Scale and affine invariant interest point detectors. International Journal of Computer Vision 60, 1, 63--86.
+M. Muja and D. G. Lowe. 2009. Fast approximate nearest neighbors with automatic algorithm configuration. In Proceedings of the International Conference on Computer Vision Theory and Applications. 331--340.
+D. Nister and H. Stewenius. 2006. Scalable recognition with a vocabulary tree. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2. 2161--2168.
+J. Philbin, O. Chum, M. Isard, J. Sivic, and A. Zisserman. 2007. Object retrieval with large vocabularies and fast spatial matching. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 1--8.
+J. Philbin, O. Chum, M. Isard, J. Sivic, and A. Zisserman. 2008. Lost in quantization: Improving particular object retrieval in large scale image databases. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 1--8.
+D. Qin, S. Gammeter, L. Bossard, T. Quack, and L. Van Gool. 2011. Hello neighbor: Accurate object retrieval with K-reciprocal nearest neighbors. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 777--784.
+X. Shen, Z. Lin, J. Brandt, S. Avidan, and Y. Wu. 2012. Object retrieval and localization with spatially-constrained similarity measure and k-NN re-ranking. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 3013--3020.
+M. Shi, X. Sun, D. Tao, and C. Xu. 2012. Exploiting visual word co-occurrence for image retrieval. In Proceedings of the ACM International Conference on Multimedia. 69--78.
+M. Shi, R. Xu, D. Tao, and C. Xu. 2013. W-tree indexing for fast visual word generation. IEEE Transactions on Image Processing 22, 3, 1209--1222.
+C. Silpa-Anan and R. Hartley. 2008. Optimised KD-trees for fast image descriptor matching. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 1--8.
+J. Sivic and A. Zisserman. 2003. Video Google: A text retrieval approach to object matching in videos. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 1470--1477.
+W. Tang, R. Cai, Z. Li, and L. Zhang. 2011. Contextual synonym dictionary for visual object retrieval. In Proceedings of the ACM International Conference on Multimedia. 503--512.
+D. Tao, X. Li, and S. J. Maybank. 2007. Negative samples analysis in relevance feedback. IEEE Transactions on Knowledge and Data Engineering 19, 4, 568--580.
+D. Tao, X. Li, X. Wu, and S. J Maybank. 2009. Geometric mean for subspace selection. IEEE Transactions on Pattern Analysis and Machine Intelligence 31, 2, 260--274.
+D. Tao, X. Tang, X. Li, and Y. Rui. 2006a. Direct kernel biased discriminant analysis: A new content-based image retrieval relevance feedback algorithm. IEEE Transactions on Multimedia 8, 4, 716--727.
+D. Tao, X. Tang, X. Li, and X. Wu. 2006b. Asymmetric bagging and random subspace for support vector machines-based relevance feedback in image retrieval. IEEE Transactions on Pattern Analysis and Machine Intelligence 28, 7, 1088--1099.
+J. K. Uhlmann. 1991. Satisfying general proximity/similarity queries with metric trees. Information Processing Letters 40, 4, 175--179.
+J. Wang and X. Hua. 2011a. Interactive image search by color map. ACM Transactions on Intelligent Systems and Technology 3, 1, 12.
+M. Wang and X. Hua. 2011b. Active learning in multimedia annotation and retrieval: A survey. ACM Transactions on Intelligent Systems and Technology 2, 2, 10.
+X. Wang, M. Yang, T. Cour, S. Zhu, K. Yu, and T. X. Han. 2011. Contextual weighting for vocabulary tree based image retrieval. In Proceedings of the International Conference on Computer Vision. 209--216.
+R. Xu, M. Shi, B. Geng, and C. Xu. 2011. Fast visual word quantization via spatial neighborhood boosting. In Proceedings of the International Conference on Multimedia and Expo. 1--6.
+L. Yang, B. Geng, A. Hanjalic, and X. S. Hua. 2010. Contextual image retrieval model. In Proceedings of the ACM International Conference on Image and Video Retrieval. 406--413.
+S. Zhang, Q. Huang, G. Hua, S. Jiang, W. Gao, and Q. Tian. 2010. Building contextual visual vocabulary for large-scale image applications. In Proceedings of the ACM International Conference on Multimedia. 501--510.
+S. Zhang, Q. Tian, G. Hua, Q. Huang, and W. Gao. 2012. Generating descriptor visual words and visual phrases for large-scale image applications. IEEE Transactions on Image Processing 20, 9, 2664--2677.
+S. Zhang, Q. Tian, G. Hua, Q. Huang, and S. Li. 2009. Descriptive visual words and visual phrases for image applications. In Proceedings of the ACM International Conference on Multimedia. 75--84.
+Y. Zhang, Z. Jia, and T. Chen. 2011. Image retrieval with geometry-preserving visual phrases. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 809--816.
