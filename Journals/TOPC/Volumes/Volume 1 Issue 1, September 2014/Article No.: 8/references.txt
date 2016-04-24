@@ -1,0 +1,51 @@
+Mohamed Ibrahim Abouelhoda , Stefan Kurtz , Enno Ohlebusch, Replacing suffix trees with enhanced suffix arrays, Journal of Discrete Algorithms, v.2 n.1, p.53-86, March 2004[doi>10.1016/S1570-8667(03)00065-0]
+A. Apostolico, C. Iliopoulos, G. M. Landau, B. Schieber, and U. Vishkin. 1988. Parallel construction of a suffix tree with applications.Algorithmica 3, 1--4, 347--365.
+M. Barsky , U. Stege , A. Thomo, A survey of practical algorithms for suffix tree construction in external memory, Software—Practice & Experience, v.40 n.11, p.965-988, October 2010[doi>10.1002/spe.v40:11]
+Omer Berkman , Baruch Schieber , Uzi Vishkin, Optimal doubly logarithmic parallel algorithms based on finding all nearest smaller values, Journal of Algorithms, v.14 n.3, p.344-370, May 1993[doi>10.1006/jagm.1993.1018]
+G. E. Blelloch and J. Shun. 2011. A simple parallel cartesian tree algorithm and its application to suffix tree construction. InProceedings of the Workshop on Algorithm Engineering and Experiments. 48--58.
+M. Burrows and D. J. Wheeler. 1994.A Block-Sorting Lossless Data Compression Algorithm. Tech. rep. HP Labs.
+Matteo Comin , Montse Farreras, Efficient parallel construction of suffix trees for genomes larger than main memory, Proceedings of the 20th European MPI Users' Group Meeting, September 15-18, 2013, Madrid, Spain[doi>10.1145/2488551.2488579]
+A. Delcher, A. Phillippy, J. Carlton, and S. Salzberg. 2002. Fast Algorithms for large-scale genome alignment and comparision.Nucl. Acids Res. 30, 11, 2478--2483.
+Martin Farach , S. Muthukrishnan, Optimal Logarithmic Time Randomized Suffix Tree Construction, Proceedings of the 23rd International Colloquium on Automata, Languages and Programming, p.550-561, July 08-12, 1996
+Johannes Fischer , Volker Heun, Theoretical and practical improvements on the RMQ-Problem, with applications to LCA and LCE, Proceedings of the 17th Annual conference on Combinatorial Pattern Matching, July 05-07, 2006, Barcelona, Spain[doi>10.1007/11780441_5]
+Harold N. Gabow , Jon Louis Bentley , Robert E. Tarjan, Scaling and related techniques for geometry problems, Proceedings of the sixteenth annual ACM symposium on Theory of computing, p.135-143, December 1984[doi>10.1145/800057.808675]
+Amol Ghoting , Konstantin Makarychev, Indexing genomic sequences on the IBM Blue Gene, Proceedings of the Conference on High Performance Computing Networking, Storage and Analysis, November 14-20, 2009, Portland, Oregon[doi>10.1145/1654059.1654122]
+R. Giegerich, S. Kurtz, and J. Stoye. 2003. Efficient implementation of lazy suffix trees.Software: Pract. Exper. 33, 11, 1035--1049.
+Simon Gog , Enno Ohlebusch, Compressed suffix trees: Efficient computation and storage of LCP-values, Journal of Experimental Algorithmics (JEA), 18, December 2013[doi>10.1145/2444016.2461327]
+Dan Gusfield, Algorithms on strings, trees, and sequences: computer science and computational biology, Cambridge University Press, New York, NY, 1997
+Torben Hagerup , C. Rüb, Optimal merging and sorting on the EREW PRAM, Information Processing Letters, v.33 n.4, p.181-185, December 1989[doi>10.1016/0020-0190(89)90138-5]
+Ramesh Hariharan, Optimal parallel suffix tree construction, Proceedings of the twenty-sixth annual ACM symposium on Theory of computing, p.290-299, May 23-25, 1994, Montreal, Quebec, Canada[doi>10.1145/195058.195162]
+C. Iliopoulos and W. Rytter. 2004. On parallel transformations of suffix arrays into suffix trees. InProceedings of the 15th Australasian Workshop on Combinatorial Algorithms (AWOCA).
+Joseph JáJá, An introduction to parallel algorithms, Addison Wesley Longman Publishing Co., Inc., Redwood City, CA, 1992
+Juha Kärkkäinen , Giovanni Manzini , Simon J. Puglisi, Permuted Longest-Common-Prefix Array, Proceedings of the 20th Annual Symposium on Combinatorial Pattern Matching, p.181-192, June 22-24, 2009, Lille, France[doi>10.1007/978-3-642-02441-2_17]
+Juha Kärkkäinen , Peter Sanders , Stefan Burkhardt, Linear work suffix array construction, Journal of the ACM (JACM), v.53 n.6, p.918-936, November 2006[doi>10.1145/1217856.1217858]
+Toru Kasai , Gunho Lee , Hiroki Arimura , Setsuo Arikawa , Kunsoo Park, Linear-Time Longest-Common-Prefix Computation in Suffix Arrays and Its Applications, Proceedings of the 12th Annual Symposium on Combinatorial Pattern Matching, p.181-192, July 01-04, 2001
+Fabian Kulla , Peter Sanders, Scalable parallel suffix array construction, Parallel Computing, v.33 n.9, p.605-612, September, 2007[doi>10.1016/j.parco.2007.06.004]
+Stefan Kurtz, Reducing the space requirement of suffix trees, Software—Practice & Experience, v.29 n.13, p.1149-1171, Nov. 1999[doi>10.1002/(SICI)1097-024X(199911)29:13<1149::AID-SPE274>3.0.CO;2-O]
+S. Kurtz and C. Schleiermacher. 1999. REPuter: Fast computation of maximal repeats in complete genomes.Bioinformatics, 15, 5, 426--427.
+Charles E. Leiserson, The Cilk++ concurrency platform, The Journal of Supercomputing, v.51 n.3, p.244-257, March     2010[doi>10.1007/s11227-010-0405-3]
+Udi Manber , Gene Myers, Suffix arrays: a new method for on-line string searches, SIAM Journal on Computing, v.22 n.5, p.935-948, Oct. 1993[doi>10.1137/0222058]
+Essam Mansour , Amin Allam , Spiros Skiadopoulos , Panos Kalnis, ERA: efficient serial and parallel suffix tree construction for very long strings, Proceedings of the VLDB Endowment, v.5 n.1, p.49-60, September 2011[doi>10.14778/2047485.2047490]
+Edward M. McCreight, A Space-Economical Suffix Tree Construction Algorithm, Journal of the ACM (JACM), v.23 n.2, p.262-272, April 1976[doi>10.1145/321941.321946]
+Colin Meek , Jignesh M. Patel , Shruti Kasetty, OASIS: an online and accurate technique for local-alignment searches on biological sequences, Proceedings of the 29th international conference on Very large data bases, p.910-921, September 09-12, 2003, Berlin, Germany
+Y. Mori. 2010a. libdivsufsort: A lightweight suffix-sorting library. http://code.google.com/p/libdivsufsort.
+Y. Mori. 2010b. SAIS: An implementation of the induced sorting algorithm. http://sites.google.com/site/yuta256/sais.
+Donald R. Morrison, PATRICIA—Practical Algorithm To Retrieve Information Coded in Alphanumeric, Journal of the ACM (JACM), v.15 n.4, p.514-534, Oct. 1968[doi>10.1145/321479.321481]
+Gonzalo Navarro , Veli Mäkinen, Compressed full-text indexes, ACM Computing Surveys (CSUR), v.39 n.1, p.2-es, 2007[doi>10.1145/1216370.1216372]
+Benjarath Phoophakdee , Mohammed J. Zaki, Genome-scale disk-based suffix tree indexing, Proceedings of the 2007 ACM SIGMOD international conference on Management of data, June 11-14, 2007, Beijing, China[doi>10.1145/1247480.1247572]
+B. Phoophakdee and M. Zaki. 2008. Trellis+: An effective approach for indexing genome-scale sequences using suffix trees. InProceedings of the Pacific Symposium on Biocomputing. 90--101.
+C. K. Poon and H. Yuan. 2013. A faster CREW PRAM algorithm for computing Cartesian trees. InProceeding of the International Conference on Algorithms and Complexity. 336--344.
+Simon J. Puglisi , W. F. Smyth , Andrew H. Turpin, A taxonomy of suffix array construction algorithms, ACM Computing Surveys (CSUR), v.39 n.2, p.4-es, 2007[doi>10.1145/1242471.1242472]
+S. Rajasekaran , J. H. Reif, Optimal and sublogarithmic time randomized parallel sorting algorithms, SIAM Journal on Computing, v.18 n.3, p.594-607, June 1989[doi>10.1137/0218041]
+M. Reid-Miller, G. L. Miller, and F. Modugno. 1993. List ranking and parallel tree contraction. InSynthesis of Parallel Algorithms, Chapter 3, 115--194.
+Kunihiko Sadakane, Compressed Suffix Trees with Full Functionality, Theory of Computing Systems, v.41 n.4, p.589-607, December 2007[doi>10.1007/s00224-006-1198-x]
+Sühleyman Cenk Sahinalp , Uzi Vishkin, Symmetry breaking for suffix tree construction, Proceedings of the twenty-sixth annual ACM symposium on Theory of computing, p.300-309, May 23-25, 1994, Montreal, Quebec, Canada[doi>10.1145/195058.195164]
+Julian Shun , Guy E. Blelloch, Phase-concurrent hash tables for determinism, Proceedings of the 26th ACM symposium on Parallelism in algorithms and architectures, June 23-25, 2014, Prague, Czech Republic[doi>10.1145/2612669.2612687]
+Julian Shun , Guy E. Blelloch , Jeremy T. Fineman , Phillip B. Gibbons , Aapo Kyrola , Harsha Vardhan Simhadri , Kanat Tangwongsan, Brief announcement: the problem based benchmark suite, Proceedings of the twenty-fourth annual ACM symposium on Parallelism in algorithms and architectures, June 25-27, 2012, Pittsburgh, Pennsylvania, USA[doi>10.1145/2312005.2312018]
+Julian Shun , Fuyao Zhao, Practical Parallel Lempel-Ziv Factorization, Proceedings of the 2013 Data Compression Conference, p.123-132, March 20-22, 2013[doi>10.1109/DCC.2013.20]
+D. Tsadok and S. Yona. 2003. ANSI C Implementation of a Suffix Tree. http://mila.cs.technion.ac.il/~yona/suffix_tree/.
+Dimitris Tsirogiannis , Nick Koudas, Suffix tree construction algorithms on modern hardware, Proceedings of the 13th International Conference on Extending Database Technology, March 22-26, 2010, Lausanne, Switzerland[doi>10.1145/1739041.1739075]
+E. Ukkonen. 1995. On-line Construction of Suffix Trees.Algorithmica 14, 3, 249--260.
+Jean Vuillemin, A unifying look at data structures, Communications of the ACM, v.23 n.4, p.229-239, April 1980[doi>10.1145/358841.358852]
+Peter Weiner, Linear pattern matching algorithms, Proceedings of the 14th Annual Symposium on Switching and Automata Theory (swat 1973), p.1-11, October 15-17, 1973[doi>10.1109/SWAT.1973.13]
+J. Ziv , A. Lempel, A universal algorithm for sequential data compression, IEEE Transactions on Information Theory, v.23 n.3, p.337-343, May 1977[doi>10.1109/TIT.1977.1055714]

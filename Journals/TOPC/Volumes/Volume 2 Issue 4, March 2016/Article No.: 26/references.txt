@@ -1,0 +1,32 @@
+L Allison , T I Dix, A bit-string longest-common-subsequence algorithm, Information Processing Letters, v.23 n.6, p.305-310, Dec. 3, 1986
+Srinivas Aluru , Natsuhiko Futamura , Kishan Mehrotra, Parallel biological sequence comparison using prefix computations, Journal of Parallel and Distributed Computing, v.63 n.3, p.264-272, March 2003[doi>10.1016/S0743-7315(03)00010-8]
+Alberto Apostolico , Mikhail J. Atallah , Lawrence L. Larmore , Scott McFaddin, Efficient parallel algorithms for string editing and related problems, SIAM Journal on Computing, v.19 n.5, p.968-988, Oct. 1990[doi>10.1137/0219066]
+Richard Bellman, Dynamic Programming, Princeton University Press, Princeton, NJ, 2010
+Maxime Crochemore , Costas S. Iliopoulos , Yoan J. Pinzon , James F. Reid, A fast and practical bit-vector algorithm for the longest common subsequence problem, Information Processing Letters, v.80 n.6, p.279-285, December 2001[doi>10.1016/S0020-0190(01)00182-X]
+Sebastian Deorowicz, Bit-Parallel Algorithm for the Constrained Longest Common Subsequence Problem, Fundamenta Informaticae, v.99 n.4, p.409-433, December 2010
+M. Develin, F. Santos, and B. Sturmfels. 2005. On the rank of a tropical matrix. Combinatorial Computat. Geom. 52 (2005), 213--242.
+Michael Farrar, Striped Smith--Waterman speeds database searches six times over other SIMD implementations, Bioinformatics, v.23 n.2, p.156-161, January 2007[doi>10.1093/bioinformatics/btl582]
+G. Fettweis and H. Meyr. 1989. Parallel Viterbi algorithm implementation: Breaking the ACS-bottleneck. IEEE Trans. Commun. 37, 8 (1989), 785--790.
+Z. Galil , K. Park, Parallel Algorithms for Dynamic Programming Recurrences with More Than O(1) Dependency, Journal of Parallel and Distributed Computing, v.21 n.2, p.213-222, May 1994[doi>10.1006/jpdc.1994.1053]
+W. Daniel Hillis , Guy L. Steele, Jr., Data parallel algorithms, Communications of the ACM, v.29 n.12, p.1170-1183, Dec. 1986[doi>10.1145/7902.7903]
+D. S. Hirschberg, A linear space algorithm for computing maximal common subsequences, Communications of the ACM, v.18 n.6, p.341-343, June 1975[doi>10.1145/360825.360861]
+H. Hyyro. 2004. Bit-parallel LCS-length computation revisited. In Proceedings of the 15th Australasian Workshop on Combinatorial Algorithms. 16--27.
+Intel C/C++ Compiler. 2013. Intel C/C++ Compiler. Retrieved from http://software.intel.com/en-us/c-compilers.
+Intel MPI Library. 2013. Intel MPI Library. Retrieved from http://software.intel.com/en-us/intel-mpi-library/.
+Richard E. Ladner , Michael J. Fischer, Parallel Prefix Computation, Journal of the ACM (JACM), v.27 n.4, p.831-838, Oct. 1980[doi>10.1145/322217.322232]
+I. T. S. Li, W. Shum, and K. Truong. 2007. 160-fold acceleration of the Smith-Waterman algorithm using a field programmable gate array (FPGA). BMC Bioinform. 8, 1 (2007), 1--7.
+Lukasz Ligowski , Witold Rudnicki, An efficient implementation of Smith Waterman algorithm on GPU using CUDA, for massively parallel scanning of sequence databases, Proceedings of the 2009 IEEE International Symposium on Parallel&Distributed; Processing, p.1-8, May 23-29, 2009[doi>10.1109/IPDPS.2009.5160931]
+Saeed Maleki , Madanlal Musuvathi , Todd Mytkowicz, Parallelizing dynamic programming through rank convergence, ACM SIGPLAN Notices, v.49 n.8, August 2014[doi>10.1145/2692916.2555264]
+W. S. Martins, J. B. Del Cuvillo, F. J. Useche, K. B. Theobald, and G. R. Gao. 2001. A multithreaded parallel implementation of a dynamic programming algorithm for sequence comparison. In Proceedings of the Pacific Symposium on Biocomputing. 311--322.
+Yoichi Muraoka, Parallelism exposure and exploitation in programs, University of Illinois at Urbana-Champaign, Champaign, IL, 1971
+MVAPICH: MPI over InfiniBand. 2013. MVAPICH: MPI over InfiniBand. Retrieved from http://mvapich.cse.ohio-state.edu/.
+National Center for Biotechnology Information. 2013. National Center for Biotechnology Information. Retrieved from http://www.ncbi.nlm.nih.gov/.
+S. B. Needleman and C. D. Wunsch. 1970. A general method applicable to the search for similarities in the amino acid sequence of two proteins. J. Molec. Biol. 48 (1970), 443--453. Issue 3.
+W. Wesley Peterson and E. J. Weldon. 1972. Error-Correcting Codes. MIT Press: Cambridge, MA.
+M. Püschel, J. M. F. Moura, J. Johnson, D. Padua, M. Veloso, B. Singer, J. Xiong, F. Franchetti, A. Gacic, Y. Voronenko, K. Chen, R. W. Johnson, and N. Rizzolo. 2005. SPIRAL: Code generation for DSP transforms. Proceedings of the IEEE, Special Issue on “Program Generation, Optimization, and Adaptation” 93 (2005), 232--275.
+T. F. Smith and M. S. Waterman. 1981. Identification of common molecular subsequences. J. Molec. Biol. 147, 1 (1981), 195--197.
+Alex Stivala , Peter J. Stuckey , Maria Garcia de la Banda , Manuel Hermenegildo , Anthony Wirth, Lock-free parallel dynamic programming, Journal of Parallel and Distributed Computing, v.70 n.8, p.839-848, August, 2010[doi>10.1016/j.jpdc.2010.01.004]
+Texas Advanced Computing Center. Stampede: Dell PowerEdge C8220 Cluster with Intel Xeon Phi Coprocessors. Texas Advanced Computing Center. Retrieved from http://www.tacc.utexas.edu/resources/hpc.
+Top500 Supercompute Sites. 2013. Top500 Supercompute Sites. Retrieved from http://www.top500.org.
+L. G. Valiant, S. Skyum, S. Berkowitz, and C. Rackoff. 1983. Fast parallel computation of polynomials using few processors. SIAM J. Comput. 12, 4 (1983), 641--644.
+A. Viterbi, Error bounds for convolutional codes and an asymptotically optimum decoding algorithm, IEEE Transactions on Information Theory, v.13 n.2, p.260-269, April 1967[doi>10.1109/TIT.1967.1054010]
