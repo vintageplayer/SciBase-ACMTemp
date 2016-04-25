@@ -1,0 +1,37 @@
+Bellare, M., Garay, J., and Rabin, T. 1998. Fast batch verification for modular exponentiation and digital signatures. In Proceedings of the Eurocrypt Conference, vol. 1403, 191--204.
+Mihir Bellare , Adriana Palacio, GQ and Schnorr Identification Schemes: Proofs of Security against Impersonation under Active and Concurrent Attacks, Proceedings of the 22nd Annual International Cryptology Conference on Advances in Cryptology, p.162-177, August 18-22, 2002
+Mihir Bellare , Phillip Rogaway, Random oracles are practical: a paradigm for designing efficient protocols, Proceedings of the 1st ACM conference on Computer and communications security, p.62-73, November 03-05, 1993, Fairfax, Virginia, USA[doi>10.1145/168588.168596]
+Dan Boneh , Craig Gentry , Ben Lynn , Hovav Shacham, Aggregate and verifiably encrypted signatures from bilinear maps, Proceedings of the 22nd international conference on Theory and applications of cryptographic techniques, May 04-08, 2003, Warsaw, Poland
+Boyd, C. and Pavlovski, C. 2000. Attacking and repairing batch verification schemes. In Asiacrypt. 58--71.
+Camenisch, J. 1998. Group signature schemes and paymen systems based on the discrete logarithm problem, vol. 2, ETH-Series in Information Security and Cryptography. Hartung-Gorre Verlag, Konstanz, Germany.
+Jan Camenisch , Markus Stadler, Efficient Group Signature Schemes for Large Groups (Extended Abstract), Proceedings of the 17th Annual International Cryptology Conference on Advances in Cryptology, p.410-424, August 17-21, 1997
+Chor, B., Gilboa, N., and Naor, M. 1997. Private information retrieval by keywords. Tech. Rep. TR CS0917, Technion, University.
+Benny Chor , Eyal Kushilevitz , Oded Goldreich , Madhu Sudan, Private information retrieval, Journal of the ACM (JACM), v.45 n.6, p.965-981, Nov. 1998[doi>10.1145/293347.293350]
+Premkumar T. Devanbu , Michael Gertz , Charles U. Martel , Stuart G. Stubblebine, Authentic Third-party Data Publication, Proceedings of the IFIP TC11/ WG11.3 Fourteenth Annual Working Conference on Database Security: Data and Application Security, Development and Directions, p.101-112, August 21-23, 2000
+Amos Fiat , Adi Shamir, How to prove yourself: practical solutions to identification and signature problems, Proceedings on Advances in cryptology---CRYPTO '86, p.186-194, January 1987, Santa Barbara, California, USA
+Amos Fiat, Batch RSA, Proceedings of the 9th Annual International Cryptology Conference on Advances in Cryptology, p.175-185, August 20-24, 1989
+Fiat, A. 1997. Batch RSA. J. Cryptology 10, 2, 75--88.
+Yael Gertner , Yuval Ishai , Eyal Kushilevitz , Tal Malkin, Protecting data privacy in private information retrieval schemes, Proceedings of the thirtieth annual ACM symposium on Theory of computing, p.151-160, May 24-26, 1998, Dallas, Texas, USA[doi>10.1145/276698.276723]
+Goh, E.-J. 2003. Secure indexes for efficient searching on encrypted compressed data. Cryptology ePrint Archive, Rep. 2003/216 http://eprint.iacr.org/2003/216/
+Louis C. Guillou , Jean-Jacques Quisquater, A "Paradoxical" Indentity-Based Signature Scheme Resulting from Zero-Knowledge, Proceedings of the 8th Annual International Cryptology Conference on Advances in Cryptology, p.216-231, August 21-25, 1988
+Hakan Hacigümüş , Bala Iyer , Chen Li , Sharad Mehrotra, Executing SQL over encrypted data in the database-service-provider model, Proceedings of the 2002 ACM SIGMOD international conference on Management of data, June 03-06, 2002, Madison, Wisconsin[doi>10.1145/564691.564717]
+Hacigümüş, H., Iyer, B., and Mehrotra, S. 2002a. Encrypted database integrity in database service provider model. In Proceedings of the International Workshop on Certification and Security in E-Services (CSES IFIP WCC).
+Providing Database as a Service, Proceedings of the 18th International Conference on Data Engineering, p.29, February 26-March 01, 2002
+Harn, L. 1995. DSA-Type secure interactive batch verification protocols. Electron. Lett. 31, 4 (Feb.), 257--258.
+Harn, L. 1998a. Batch verifying multiple DSA-Type digital signatures. Electron. Lett. 34, 9 (Apr.), 870--871.
+Harn, L. 1998b. Batch verifying RSA signatures. Electron. Lett. 34, 12 (Apr.), 1219--1220.
+Joux, A. and Nguyen, K. 2001. Separating decision Diffie-Hellman from Diffie-Hellman in cryptographic groups. In Cryptology ePrint Archive. Number Rep. 2001/003.
+Law, P. 1996. The health insurance portability and accountability act of 1996 (HIPAA). http://www.cms.hhs.gov/hipaa/
+Alfred J. Menezes , Scott A. Vanstone , Paul C. Van Oorschot, Handbook of Applied Cryptography, CRC Press, Inc., Boca Raton, FL, 1996
+Merkle, R. 1980. Protocols for public key cryptosystems. In Proceedings of the IEEE Symposium on Research in Security and Privacy.
+Miracl, Library. 2006 http://indigo.ie/~mscott
+Mykletun, E., Narasimha, M., and Tsudik, G. 2004a. Authentication and integrity in outsourced databases. In Proceedings of the Symposium on Network and Distributed Systems Security (NDSS).
+Mykletun E., Narasimha M., and Tsudik G. 2004b. Signature 'Bouquets': Immutability of Aggregated Signatures, In Proceedings of the European Symposium on Research in Computer Security (ESORICS).
+Naccache, D., M'Raïhi, D., Raphaeli, D., and Vaudenay, S. 1994. Can DSA be improved: Complexity trade-offs with the digital signature standard. In Advances in Cryptology---EUROCRYPT, Lecture Notes in Computer Science, Springer-Verlag, Berlin Germany, 85--94.
+Maithili Narasimha , Gene Tsudik, DSAC: integrity for outsourced databases with signature aggregation and chaining, Proceedings of the 14th ACM international conference on Information and knowledge management, October 31-November 05, 2005, Bremen, Germany[doi>10.1145/1099554.1099604]
+OpenSSL Project. 2006. http://www.openssl.org
+HweeHwa Pang , Kian-Lee Tan, Authenticating Query Results in Edge Computing, Proceedings of the 20th International Conference on Data Engineering, p.560, March 30-April 02, 2004
+R. L. Rivest , A. Shamir , L. Adleman, A method for obtaining digital signatures and public-key cryptosystems, Communications of the ACM, v.21 n.2, p.120-126, Feb. 1978[doi>10.1145/359340.359342]
+Dawn Xiaodong Song , David Wagner , Adrian Perrig, Practical Techniques for Searches on Encrypted Data, Proceedings of the 2000 IEEE Symposium on Security and Privacy, p.44, May 14-17, 2000
+United States Code. 2002. Sarbanes-Oxley act of 2002, HR 3763, PL 107-204, 116 Stat 745. Codified in sections 11, 15, 18, 28, and 29 USC.
+Chi-Sung Laih , Sung-Ming Yen, Improved Digital Signature Suitable for Batch Verification, IEEE Transactions on Computers, v.44 n.7, p.957-959, July 1995[doi>10.1109/12.392857]

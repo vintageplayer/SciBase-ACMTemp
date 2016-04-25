@@ -1,0 +1,24 @@
+Bayer, R. and McCreight, E. 1972. Organization and maintenance of large ordered indices. Acta Informatica, 173--189.
+Bayer, R. and Schkolnick, M. 1977. Concurrency of operations on B-trees. Acta Informatica 9, 1--21.
+Best, S. 2002. Journaling file systems. Linux Mag.
+Douglas Comer, Ubiquitous B-Tree, ACM Computing Surveys (CSUR), v.11 n.2, p.121-137, June 1979[doi>10.1145/356770.356776]
+Goetz Graefe, Write-optimized B-trees, Proceedings of the Thirtieth international conference on Very large data bases, p.672-683, August 31-September 03, 2004, Toronto, Canada
+Jim Gray , Andreas Reuter, Transaction Processing: Concepts and Techniques, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1992
+Guibas, L. and Sedgewick, R. 1978. A dichromatic framework for balanced trees. In Proceedings of the 19th Annual Symposium on Foundations of Computer Science.
+Henson, V., Ahrens, M., and Bonwick, J. 2003. Automatic performance tuning in the Zettabyte file system. In USENIX Conference on File and Storage Technologies (work in progress report).
+Dave Hitz , James Lau , Michael Malcolm, File system design for an NFS file server appliance, Proceedings of the USENIX Winter 1994 Technical Conference on USENIX Winter 1994 Technical Conference, p.19-19, January 17-21, 1994, San Francisco, California
+Vladimir Lanin , Dennis Shasha, A symmetric concurrent B-tree algorithm, Proceedings of 1986 ACM Fall joint computer conference, p.380-389, November 1986, Dallas, Texas, USA
+Philip L. Lehman , s. Bing Yao, Efficient locking for concurrent operations on B-trees, ACM Transactions on Database Systems (TODS), v.6 n.4, p.650-670, Dec. 1981[doi>10.1145/319628.319663]
+David Lomet, The evolution of effective B-tree: page organization and techniques: a personal account, ACM SIGMOD Record, v.30 n.3, September 2001[doi>10.1145/603867.603878]
+David Lomet , Betty Salzberg, Access method concurrency with recovery, Proceedings of the 1992 ACM SIGMOD international conference on Management of data, p.351-360, June 02-05, 1992, San Diego, California, USA[doi>10.1145/130283.130336]
+Marshall K. McKusick , William N. Joy , Samuel J. Leffler , Robert S. Fabry, A fast file system for UNIX, ACM Transactions on Computer Systems (TOCS), v.2 n.3, p.181-197, Aug. 1984[doi>10.1145/989.990]
+Nimrod Megiddo , Dharmendra S. Modha, ARC: A Self-Tuning, Low Overhead Replacement Cache, Proceedings of the 2nd USENIX Conference on File and Storage Technologies, March 31-31, 2003, San Francisco, CA
+J. Menon , D. A. Pease , R. Rees , L. Duyanovich , B. Hillsberg, IBM Storage Tank-- A heterogeneous scalable SAN file system, IBM Systems Journal, v.42 n.2, p.250-267, April 2003[doi>10.1147/sj.422.0250]
+C. Mohan , Frank Levine, ARIES/IM: an efficient and high concurrency index management method using write-ahead logging, Proceedings of the 1992 ACM SIGMOD international conference on Management of data, p.371-380, June 02-05, 1992, San Diego, California, USA[doi>10.1145/130283.130338]
+Yehudit Mond , Yoav Raz, Concurrency control in B+-trees databases using preparatory operations, Proceedings of the 11th international conference on Very Large Data Bases, p.331-334, August 21-23, 1985, Stockholm, Sweden
+Reiser, H. 2004. ReiserFS. http://www.namesys.com/.
+Rodeh, O. 2006. B-trees, shadowing, and range-operations. Tech. Rep. H-248. November.
+Rosenberg, J., Henskens, F., Brown, A., Morrison, R., and Munro, D. 1990. Stability in a persistent store based on a large virtual memory. Secur. Persist. 229--245.
+Craig A. N. Soules , Garth R. Goodson , John D. Strunk , Gregory R. Ganger, Metadata Efficiency in Versioning File Systems, Proceedings of the 2nd USENIX Conference on File and Storage Technologies, March 31-31, 2003, San Francisco, CA
+V. Srinivasan , Michael J. Carey, Performance of B+tree concurrency control algorithms, The VLDB Journal — The International Journal on Very Large Data Bases, v.2 n.4, p.361-406, October 1993[doi>10.1007/BF01263046]
+Adam Sweeney , Doug Doucette , Wei Hu , Curtis Anderson , Mike Nishimoto , Geoff Peck, Scalability in the XFS file system, Proceedings of the 1996 annual conference on USENIX Annual Technical Conference, p.1-1, January 22-26, 1996, San Diego, CA

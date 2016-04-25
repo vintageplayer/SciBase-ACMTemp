@@ -1,0 +1,41 @@
+Albert D. Alexandrov , Maximilian Ibel , Klaus E. Schauser , Chris J. Scheiman, Extending the operating system at the user level: the Ufo global file system, Proceedings of the annual conference on USENIX Annual Technical Conference, p.6-6, January 06-10, 1997, Anaheim, California
+Berliner, B. and Polk, J. 2001. Concurrent Versions System (CVS). www.cvshome.org.
+B. Callaghan , B. Pawlowski , P. Staubach, NFS Version 3 Protocol Specification, RFC Editor, 1995
+Peter M. Chen , Wee Teck Ng , Subhachandra Chandra , Christopher Aycock , Gurushankar Rajamani , David Lowell, The Rio file cache: surviving operating system crashes, Proceedings of the seventh international conference on Architectural support for programming languages and operating systems, p.74-83, October 01-04, 1996, Cambridge, Massachusetts, USA[doi>10.1145/237090.237154]
+CollabNet, Inc. 2004. Subversion. http://subversion.tigris.org.
+Jeff Dike, A user-mode port of the linux kernel, Proceedings of the 4th annual Linux Showcase & Conference, p.7-7, October 10-14, 2000, Atlanta, Georgia
+Daniel Ellard , Margo Seltzer, New NFS Tracing Tools and Techniques for System Analysis, Proceedings of the 17th USENIX conference on System administration, October 26-31, 2003, San Diego, CA
+Narain H. Gehani , H. V. Jagadish , William D. Roome, OdeFS: A File System Interface to an Object-Oriented Database, Proceedings of the 20th International Conference on Very Large Data Bases, p.249-260, September 12-15, 1994
+Sanjay Ghemawat , Howard Gobioff , Shun-Tak Leung, The Google file system, Proceedings of the nineteenth ACM symposium on Operating systems principles, October 19-22, 2003, Bolton Landing, NY, USA[doi>10.1145/945445.945450]
+Douglas P. Ghormley , David Petrou , Steven H. Rodrigues , Thomas E. Anderson, SLIC: an extensibility system for commodity operating systems, Proceedings of the annual conference on USENIX Annual Technical Conference, p.4-4, June 15-19, 1998, New Orleans, Louisiana
+Giarrusso, P. 2005. Fwd: Re: {patch 1/4} UML Support - Ptrace: adds the host SYSEMU support, for UML and general usage. www.uwsg.iu.edu/hypermail/linux/kernel/0507.3/1992.html.
+Ian Goldberg , David Wagner , Randi Thomas , Eric A. Brewer, A secure environment for untrusted helper applications confining the Wily Hacker, Proceedings of the 6th conference on USENIX Security Symposium, Focusing on Applications of Cryptography, p.1-1, July 22-25, 1996, San Jose, California
+Haardt, M. and Coleman, M. 1999. ptrace(2). Linux Programmer's Manual, Section 2.
+R. Hagmann, Reimplementing the Cedar file system using logging and group commit, Proceedings of the eleventh ACM Symposium on Operating systems principles, p.155-162, November 08-11, 1987, Austin, Texas, USA[doi>10.1145/41457.37518]
+IEEE/ANSI. 1996. Information Technology--Portable Operating System Interface (POSIX)--Part 1: System Application: Program Interface (API) {C Language}. Tech. rep. STD-1003.1, ISO/IEC.
+Michael B. Jones, Interposition agents: transparently interposing user code at the system interface, Proceedings of the fourteenth ACM symposium on Operating systems principles, p.80-93, December 05-08, 1993, Asheville, North Carolina, USA[doi>10.1145/168619.168626]
+Katcher, J. 1997. PostMark: A new filesystem benchmark. Tech. rep. TR3022, Network Appliance. www.netapp.com/tech_library/3022.html.
+D. G. Korn , E. Krell, A new dimension for the UNIX file system, Software—Practice & Experience, v.20 n.S1, p.19-34, June 1990[doi>10.1002/spe.4380201304]
+Lewis, P., Bernstein, A., and Kifer, M. 2002. Databases and Transaction Processing: An Application-Oriented Approach. Chapter 8: Database Design II: Relational Normalization Theory. Addison Wesley, 211--260.
+David E. Lowell , Peter M. Chen, Free transactions with Rio Vista, Proceedings of the sixteenth ACM symposium on Operating systems principles, p.92-101, October 05-08, 1997, Saint Malo, France[doi>10.1145/268998.266665]
+David Mazières, A Toolkit for User-Level File Systems, Proceedings of the General Track: 2002 USENIX Annual Technical Conference, p.261-274, June 25-30, 2001
+Marshall Kirk McKusick , Gregory R. Ganger, Soft updates: a technique for eliminating most synchronous writes in the fast filesystem, Proceedings of the annual conference on USENIX Annual Technical Conference, p.24-24, June 06-11, 1999, Monterey, California
+Marshall K. McKusick , William N. Joy , Samuel J. Leffler , Robert S. Fabry, A fast file system for UNIX, ACM Transactions on Computer Systems (TOCS), v.2 n.3, p.181-197, Aug. 1984[doi>10.1145/989.990]
+Microsoft Corporation. 2004. Microsoft MSDN WinFS Documentation. http://msdn.microsoft.com/data/winfs/.
+Murphy, N., Tonkelowitz, M., and Vernal, M. 2002. The design and implementation of the database file system. www.eecs.harvard.edu/~vernal/learn/cs261r/index.shtml.
+MySQL AB. 2005. MySQL: The world's most popular open source database. www.mysql.org.
+Olson, M. A. 1993. The design and implementation of the inversion file system. In Proceedings of the Winter 1993 USENIX Technical Conference. San Diego, CA. USENIX, 205--217.
+Oracle Corporation. 2000. Oracle Internet File System Archive Documentation. http://otn.oracle.com/documentation/ifs_arch.html.
+Amit Purohit , Charles P. Wright , Joseph Spadavecchia , Erez Zadok, Cosy: develop in user-land, run in kernel-mode, Proceedings of the 9th conference on Hot Topics in Operating Systems, p.19-19, May 18-21, 2003, Lihue, Hawaii
+Mendel Rosenblum , John K. Ousterhout, The design and implementation of a log-structured file system, Proceedings of the thirteenth ACM symposium on Operating systems principles, p.1-15, October 13-16, 1991, Pacific Grove, California, USA[doi>10.1145/121132.121137]
+Douglas S. Santry , Michael J. Feeley , Norman C. Hutchinson , Alistair C. Veitch , Ross W. Carton , Jacob Ofir, Deciding when to forget in the Elephant file system, Proceedings of the seventeenth ACM symposium on Operating systems principles, p.110-123, December 12-15, 1999, Charleston, South Carolina, USA[doi>10.1145/319151.319159]
+M. Satyanarayanan , Henry H. Mashburn , Puneet Kumar , David C. Steere , James J. Kistler, Lightweight recoverable virtual memory, ACM Transactions on Computer Systems (TOCS), v.12 n.1, p.33-57, Feb. 1994[doi>10.1145/174613.174615]
+Frank Schmuck , Jim Wylie, Experience with transactions in QuickSilver, Proceedings of the thirteenth ACM symposium on Operating systems principles, p.239-253, October 13-16, 1991, Pacific Grove, California, USA[doi>10.1145/121132.121171]
+Margo Seltzer , Michael Stonebraker, Transaction support in read optimized and write optimized file systems, Proceedings of the sixteenth international conference on Very large databases, p.174-185, September 1990, Brisbane, Australia
+Seltzer, M. and Yigit, O. 1991. A new hashing package for UNIX. In Proceedings of the Winter USENIX Technical Conference. Dallas, TX. USENIX Association, 173--184.
+Margo I. Seltzer , Gregory R. Ganger , M. Kirk McKusick , Keith A. Smith , Craig A. N. Soules , Christopher A. Stein, Journaling versus soft updates: asynchronous meta-data protection in file systems, Proceedings of the annual conference on USENIX Annual Technical Conference, p.6-6, June 18-23, 2000, San Diego, California
+Sendmail Consortium. 2004. Sendmail home page. www.sendmail.org.
+Sendmail, Inc. 2004. Sendmail Advanced Message Server. www.sendmail.com/products/mailcenter/sams/.
+Sleepycat Software, Inc. 2004. Berkeley DB Reference Guide, 4.3.27 Ed. http://www.oracle.com/technology/documentation/berkeley-db/db/api_c/frame.html.
+Szeredi, M. 2005. Filesystem in userspace. http://fuse.sourceforge.net.
+Cryptographic File Systems Performance: What You Don't Know Can Hurt You, Proceedings of the Second IEEE International Security in Storage Workshop, p.47, October 31-31, 2003

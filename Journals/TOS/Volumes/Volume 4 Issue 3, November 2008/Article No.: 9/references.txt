@@ -1,0 +1,44 @@
+Ashish Aggarwal , Pankaj Jalote, Monitoring the Security Health of Software Systems, Proceedings of the 17th International Symposium on Software Reliability Engineering, p.146-158, November 07-10, 2006[doi>10.1109/ISSRE.2006.32]
+Ken Ashcraft , Dawson Engler, Using Programmer-Written Compiler Extensions to Catch Security Holes, Proceedings of the 2002 IEEE Symposium on Security and Privacy, p.143, May 12-15, 2002
+Bishop, M. 1995. Race conditions, files, and security flaws; or the tortoise and the hare Redux. Tech. Rep. CSE-95-8, University of California at Davis. September.
+Bishop, M. and Dilger, M. 1996. Checking for race conditions in file accesses. Comput. Syst. 9, 2 (Spring), 131--152.
+Nikita Borisov , Rob Johnson , Naveen Sastry , David Wagner, Fixing races for fun and profit: how to abuse atime, Proceedings of the 14th conference on USENIX Security Symposium, p.20-20, July 31-August 05, 2005, Baltimore, MD
+Boulet, D. 2002. UNIX domain sockets. http://everything2.com/index.pl?node_id=955968. (Accessed Sept. 2007).
+CERT Coordination Center. 1993. CERT advisory CA-1993-17 xterm logging vulnerability. URL http://www.cert.org/advisories/CA-1993-17.html. (Accessed Jun. 2007).
+Hao Chen , David Wagner, MOPS: an infrastructure for examining security properties of software, Proceedings of the 9th ACM conference on Computer and communications security, November 18-22, 2002, Washington, DC, USA[doi>10.1145/586110.586142]
+Hao Chen , David Wagner , Drew Dean, Setuid Demystified, Proceedings of the 11th USENIX Security Symposium, p.171-190, August 05-09, 2002
+Brian Chess, Improving Computer Security Using Extended Static Checking, Proceedings of the 2002 IEEE Symposium on Security and Privacy, p.160, May 12-15, 2002
+Crispin Cowan , Steve Beattie , Chris Wright , Greg Kroah-Hartman, RaceGuard: kernel protection from temporary file race vulnerabilities, Proceedings of the 10th conference on USENIX Security Symposium, p.13-13, August 13-17, 2001, Washington, D.C.
+Drew Dean , Alan J. Hu, Fixing races for fun and profit: how to use access(2), Proceedings of the 13th conference on USENIX Security Symposium, p.14-14, August 09-13, 2004, San Diego, CA
+Dawson Engler , Ken Ashcraft, RacerX: effective, static detection of race conditions and deadlocks, Proceedings of the nineteenth ACM symposium on Operating systems principles, October 19-22, 2003, Bolton Landing, NY, USA[doi>10.1145/945445.945468]
+Dawson Engler , David Yu Chen , Seth Hallem , Andy Chou , Benjamin Chelf, Bugs as deviant behavior: a general approach to inferring errors in systems code, Proceedings of the eighteenth ACM symposium on Operating systems principles, October 21-24, 2001, Banff, Alberta, Canada[doi>10.1145/502034.502041]
+Dawson Engler , Benjamin Chelf , Andy Chou , Seth Hallem, Checking system rules using system-specific, programmer-written compiler extensions, Proceedings of the 4th conference on Symposium on Operating System Design & Implementation, p.1-1, October 22-25, 2000, San Diego, California
+Goyal, B., Sitaraman, S., and Venkatesan, S. 2003. A unified approach to detect binding based race condition attacks. 3rd International Workshop on Cryptology and Network Security (CANS).
+Hu, A. J. 2005. On-Line publication list. http://www.cs.ubc.ca/spider/ajh/pub-list.html. (Accessed Jan. 2008).
+Josey, A. 2006. The open group new API set proposals. http://www.opengroup.org/austin/plato/uploads/40/9756/NAPI_overview.txt. (Accessed Dec. 2007).
+Ashlesha Joshi , Samuel T. King , George W. Dunlap , Peter M. Chen, Detecting past and present intrusions through vulnerability-specific predicates, Proceedings of the twentieth ACM symposium on Operating systems principles, October 23-26, 2005, Brighton, United Kingdom[doi>10.1145/1095810.1095820]
+Calvin Ko , Timothy Redmond, Noninterference and Intrusion Detection, Proceedings of the 2002 IEEE Symposium on Security and Privacy, p.177, May 12-15, 2002
+Lhee, K.-S. and Chapin, S. J. 2005. Detection of file-based race conditions. Int. J. Inf. Secur. 4, 1-2 (Feb.).
+Man access(2). 2001. The FreeBSD system calls manual. http://www.freebsd.org/cgi/man.cgi?query=access. (Accessed Jan. 2008).
+Man openat(2). 2006. Linux programmer's manual. http://www.kernel.org/doc/man-pages/online/pages/man2/openat.2.html. (Accessed Jan. 2008).
+Mazières , M. Kaashoek, Secure Applications Need Flexible Operating Systems, Proceedings of the 6th Workshop on Hot Topics in Operating Systems (HotOS-VI), p.56, May 05-06, 1997
+McPhee, W. S. 1974. Operating system integrity in OS/VS2. IBM Syst. J. 13, 3, 230--252. http://www.research.ibm.com/journal/sj/133/ibmsj1303D.pdf.
+NVD. 2008. National vulnerability database. http://nvd.nist.gov/. (Accessed Jan. 2008).
+Jongwoon Park , Gunhee Lee , Sangha Lee , Dong-kyoo Kim, RPS: an extension of reference monitor to prevent race-attacks, Proceedings of the 5th Pacific Rim conference on Advances in Multimedia Information Processing, November 30-December 03, 2004, Tokyo, Japan[doi>10.1007/978-3-540-30541-5_68]
+Pu, C. and Wei, J. 2006. A methodical defense against TOCTTOU attacks: The EDGI approach. In Proceedings of the 1st IEEE International Symposium on Secure Software Engineering (ISSSE).
+Frank Schmuck , Jim Wylie, Experience with transactions in QuickSilver, Proceedings of the thirteenth ACM symposium on Operating systems principles, p.239-253, October 13-16, 1991, Pacific Grove, California, USA[doi>10.1145/121132.121171]
+Benjamin Schwarz , Hao Chen , David Wagner , Jeremy Lin , Wei Tu , Geoff Morrison , Jacob West, Model Checking An Entire Linux Distribution for Security Violations, Proceedings of the 21st Annual Computer Security Applications Conference, p.13-22, December 05-09, 2005[doi>10.1109/CSAC.2005.39]
+Sirainen, T. 2002--2004. fdpass.c—File descriptor passing between processes via UNIX sockets. http://code.softwarefreedom.org/projects/backports/browser/external/standalone/dovecot/current/src/lib/fdpass.c. (Accessed Dec. 2007).
+W. Richard Stevens , Bill Fenner , Andrew M. Rudoff, UNIX Network Programming, Vol. 1, Pearson Education, 2003
+W. Stevens , M. Thomas , E. Nordmark , T. Jinmei, Advanced Sockets Application Program Interface (API) for IPv6, RFC Editor, 2003
+Tsafrir, D., Da Silva, D., and Wagner, D. 2008a. The murky issue of changing process identity: Revising “setuid demystified”. USENIX ;login 33, 3 (Jun.), 55--66.
+Tsafrir, D., Hertz, T., Wagner, D., and Da-Silva, D. 2008b. Portably preventing file race attacks with user-mode path resolution. Tech. Rep. RC24572, IBM T. J. Watson Research Center, Yorktown Heights, New York.
+Eugene Tsyrklevich , Bennet Yee, Dynamic detection and prevention of race conditions in file accesses, Proceedings of the 12th conference on USENIX Security Symposium, p.17-17, August 04-08, 2003, Washington, DC
+Prem Uppuluri , Uday Joshi , Arnab Ray, Preventing race condition attacks on file-systems, Proceedings of the 2005 ACM symposium on Applied computing, March 13-17, 2005, Santa Fe, New Mexico[doi>10.1145/1066677.1066758]
+US-CERT. 2005. United States computer emergency readiness team: Vulnerability notes database. http://www.kb.cert.org/vuls. (Accessed Jan. 2008).
+J. Viega , J. T. Bloch , Y. Kohno , G. McGraw, ITS4: A static vulnerability scanner for C and C++ code, Proceedings of the 16th Annual Computer Security Applications Conference, p.257, December 11-15, 2000
+Jinpeng Wei , Calton Pu, Multiprocessors May Reduce System Dependability under File-Based Race Condition Attacks, Proceedings of the 37th Annual IEEE/IFIP International Conference on Dependable Systems and Networks, p.358-367, June 25-28, 2007[doi>10.1109/DSN.2007.67]
+Jinpeng Wei , Calton Pu, TOCTTOU vulnerabilities in UNIX-style file systems: an anatomical study, Proceedings of the 4th conference on USENIX Conference on File and Storage Technologies, p.12-12, December 13-16, 2005, San Francisco, CA
+Charles P. Wright , Richard Spillane , Gopalan Sivathanu , Erez Zadok, Extending ACID semantics to the file system, ACM Transactions on Storage (TOS), v.3 n.2, p.4-es, June 2007[doi>10.1145/1242520.1242521]
+Andrew C. Yao, Theory and application of trapdoor functions, Proceedings of the 23rd Annual Symposium on Foundations of Computer Science, p.80-91, November 03-05, 1982[doi>10.1109/SFCS.1982.95]
+Zeilenga, K., Chu, H., and Masarati, P. 2000--2007. libraries/libutil/getpeereuid.c. OpenLDAP source code. http://www.openldap.org/devel/cvsweb.cgi. (Accessed Dec. 2007).

@@ -1,0 +1,50 @@
+Ahmed Amer , Darrell D.  E. Long , Ethan L. Miller , Jehan-Francois Paris , S. J.  Thomas Schwarz, Design issues for a shingled write disk system, Proceedings of the 2010 IEEE 26th Symposium on Mass Storage Systems and Technologies (MSST), p.1-12, May 03-07, 2010[doi>10.1109/MSST.2010.5496991]
+Jens Axboe. 2015. Flexible I/O Tester. git://git.kernel.dk/fio.git.
+Lakshmi N. Bairavasundaram , Andrea C. Arpaci-Dusseau , Remzi H. Arpaci-Dusseau , Garth R. Goodson , Bianca Schroeder, An analysis of data corruption in the storage stack, ACM Transactions on Storage (TOS), v.4 n.3, p.1-28, November 2008[doi>10.1145/1416944.1416947]
+Luc Bouganim, Bjorn Jnsson, and Philippe Bonnet. 2009. uFLIP: Understanding flash IO patterns. In Proceedings of the International Conference on Innovative Data Systems Research (CIDR). Asilomar, California.
+Yuval Cassuto , Marco A.  A. Sanvido , Cyril Guyot , David R. Hall , Zvonimir Z. Bandic, Indirection systems for shingled-recording disk drives, Proceedings of the 2010 IEEE 26th Symposium on Mass Storage Systems and Technologies (MSST), p.1-14, May 03-07, 2010[doi>10.1109/MSST.2010.5496971]
+Feng Chen , David A. Koufaty , Xiaodong Zhang, Understanding intrinsic characteristics and system implications of flash memory based solid state drives, Proceedings of the eleventh international joint conference on Measurement and modeling of computer systems, June 15-19, 2009, Seattle, WA, USA[doi>10.1145/1555349.1555371]
+Jonathan Darrel Coker and David Robison Hall. 2013. Indirection memory architecture with reduced memory requirements for shingled magnetic recording devices. (Nov. 5, 2013). US Patent 8,578,122.
+Linux Device-Mapper. 2001. Device-Mapper Resource Page. https://sourceware.org/dm/.
+Elizabeth A. Dobisz, Z. Z. Bandic, Tsai-Wei Wu, and T. Albrecht. 2008. Patterned media: Nanofabrication challenges of future disk drives. Proc. IEEE 96, 11 (Nov. 2008), 1836--1846. DOI:http://dx.doi.org/10.1109/JPROC.2008.2007600
+DRAMeXchange. 2014. NAND Flash Spot Price. (Sept. 2014). http://dramexchange.com.
+Robert M. Fallone and William B. Boyle. 2013. Data storage device employing a run-length mapping table and a single address mapping table. (May 14, 2013). US Patent 8,443,167.
+Tim Feldman. 2014a. Host-aware SMR. OpenZFS Developer Summit. Available from https://www.youtube.com/watch?v=b1yqjV8qemU.
+Tim Feldman. 2014b. Personal communication. (Aug. 2014).
+Tim Feldman and Garth Gibson. 2013. Shingled magnetic recording: Areal density increase requires new data management. USENIX 38, 3 (2013).
+Timothy Richard Feldman. 2011. Dynamic storage regions. (Feb. 14, 2011). US Patent Appl. 13/026,535.
+Garth Gibson and Greg Ganger. 2011. Principles of Operation for Shingled Disk Devices. Technical Report CMU-PDL-11-107. CMU Parallel Data Laboratory. http://repository.cmu.edu/pdl/7.
+Garth Gibson and Milo Polte. 2009. Directions for Shingled-Write and Two-Dimensional Magnetic Recording System Architectures: Synergies with Solid-State Disks. Technical Report CMU-PDL-09-104. CMU Parallel Data Laboratory. http://repository.cmu.edu/pdl/7.
+Jongmin Gim , Youjip Won, Extract and infer quickly: Obtaining sector geometry of modern hard disk drives, ACM Transactions on Storage (TOS), v.6 n.2, p.1-26, July 2010[doi>10.1145/1807060.1807063]
+David Hall, John H. Marcos, and Jonathan D. Coker. 2012. Data handling algorithms for autonomous shingled magnetic recording hdds. IEEE Trans Magn 48, 5, 1777--1781.
+David Robison Hall. 2014. Shingle-written magnetic recording (SMR) device with hybrid E-region. (April 1, 2014). US Patent 8,687,303.
+Weiping He , David H. C. Du, Novel address mappings for shingled write disks, Proceedings of the 6th USENIX conference on Hot Topics in Storage and File Systems, p.5-5, June 17-18, 2014, Philadelphia, PA
+HGST. 2014. HGST Unveils Intelligent, Dynamic Storage Solutions to Transform the Data Center. (Sept. 2014). Available from http://www.hgst.com/press-room/.
+INCITS T10 Technical Committee. 2014. Information technology—Zoned Block Commands (ZBC). Draft Standard T10/BSR INCITS 536. American National Standards Institute, Inc. Available from http://www.t10.org/drafts.htm.
+Chao Jin, Wei-Ya Xi, Zhi-Yong Ching, Feng Huo, and Chun-Teck Lim. 2014. HiSMRfs: A high performance file system for shingled storage array. In Proceedings of the 2014 IEEE 30th Symposium on Mass Storage Systems and Technologies (MSST). 1--6. DOI:http://dx.doi.org/10.1109/MSST.2014.6855539
+Jesung Kim , Jong Min Kim , S. H. Noh , Sang Lyul Min , Yookun Cho, A space-efficient flash translation layer for CompactFlash systems, IEEE Transactions on Consumer Electronics, v.48 n.2, p.366-375, May 2002[doi>10.1109/TCE.2002.1010143]
+Elie Krevat , Joseph Tucek , Gregory R. Ganger, Disks are like snowflakes: no two are alike, Proceedings of the 13th USENIX conference on Hot topics in operating systems, May 09-11, 2011, Napa, California
+Andrew Krioukov , Lakshmi N. Bairavasundaram , Garth R. Goodson , Kiran Srinivasan , Randy Thelen , Andrea C. Arpaci-Dusseau , Remzi H. Arpaci-Dussea, Parity lost and parity regained, Proceedings of the 6th USENIX Conference on File and Storage Technologies, p.1-15, February 26-29, 2008, San Jose, California
+Mark H. Kryder, Edward C. Gage, Terry W. McDaniel, William A. Challener, Robert E. Rottmayer, Ganping Ju, Yiao-Tee Hsia, and M. Fatih Erden. 2008. Heat assisted magnetic recording. Proc. IEEE 96, 11 (Nov. 2008), 1810--1835. DOI:http://dx.doi.org/10.1109/JPROC.2008.2004315
+Quoc M. Le , Kumar SathyanarayanaRaju , Ahmed Amer , JoAnne Holliday, Workload Impact on Shingled Write Disks: All-Writes Can Be Alright, Proceedings of the 2011 IEEE 19th Annual International Symposium on Modelling, Analysis, and Simulation of Computer and Telecommunication Systems, p.444-446, July 25-27, 2011[doi>10.1109/MASCOTS.2011.58]
+Damien Le Moal, Zvonimir Bandic, and Cyril Guyot. 2012. Shingled file system host-side management of Shingled magnetic recording disks. In Proceedings of the 2012 IEEE International Conference on Consumer Electronics (ICCE). 425--426. DOI:http://dx.doi.org/10.1109/ICCE.2012.6161799
+Libata FAQ. 2011. https://ata.wiki.kernel.org/index.php/Libata_FAQ.
+Chung-I Lin , Dongchul Park , Weiping He , David H. C. Du, H-SWD: Incorporating Hot Data Identification into Shingled Write Disks, Proceedings of the 2012 IEEE 20th International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems, p.321-330, August 07-09, 2012[doi>10.1109/MASCOTS.2012.44]
+Chanik Park , Wonmoon Cheon , Jeonguk Kang , Kangho Roh , Wonhee Cho , Jin-Soo Kim, A reconfigurable FTL (flash translation layer) architecture for NAND flash-based applications, ACM Transactions on Embedded Computing Systems (TECS), v.7 n.4, p.1-23, July 2008[doi>10.1145/1376804.1376806]
+S. N. Piramanayagam. 2007. Perpendicular recording media for hard disk drives. J. Appl. Phys. 102, 1 (July 2007), 011301. DOI:http://dx.doi.org/10.1063/1.2750414
+Rekha Pitchumani , Andy Hospodor , Ahmed Amer , Yangwook Kang , Ethan L. Miller , Darrell D. E. Long, Emulating a Shingled Write Disk, Proceedings of the 2012 IEEE 20th International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems, p.339-346, August 07-09, 2012[doi>10.1109/MASCOTS.2012.46]
+Sundar Poudyal. 2013. Partial write system. (March 13, 2013). US Patent Appl. 13/799,827.
+Drew Riley. 2013. Samsung’s SSD Global Summit: Samsung: Flexing Its Dominance In The NAND Market. (Aug. 2013). http://www.tomshardware.com/reviews/samsung-global-ssd-summit-2013,3570.html.
+Mendel Rosenblum , John K. Ousterhout, The design and implementation of a log-structured file system, Proceedings of the thirteenth ACM symposium on Operating systems principles, p.1-15, October 13-16, 1991, Pacific Grove, California, USA[doi>10.1145/121132.121137]
+SATA-IO. 2011. Serial ATA Revision 3.1 Specification. Technical Report. SATA-IO.
+Steven W. Schlosser , Jiri Schindler , Stratos Papadomanolakis , Minglong Shao , Anastassia Ailamaki , Christos Faloutsos , Gregory R. Ganger, On multidimensional data and modern disks, Proceedings of the 4th conference on USENIX Conference on File and Storage Technologies, p.17-17, December 13-16, 2005, San Francisco, CA
+Seagate 2013a. Seagate Desktop HDD: ST5000DM000, ST4000DM001. Product Manual 100743772. Seagate Technology LLC.
+Seagate 2013b. Seagate Technology PLC Fiscal Fourth Quarter and Year End 2013 Financial Results Supplemental Commentary. (July 2013). Available from http://www.seagate.com/investors.
+Seagate 2013c. Terascale HDD. Data sheet DS1793.1-1306US. Seagate Technology PLC.
+Seagate 2014. Seagate Ships Worlds First 8TB Hard Drives. (Aug. 2014). Available from http://www.seagate.com/about/newsroom/.
+N. Talagala , R. Arpaci-Dusseau , D. Patterson, Micro-Benchmark Based Extraction of Local and Global Disk, University of California at Berkeley, Berkeley, CA, 2000
+Sophia Tan, Weiya Xi, Zhi Yong Ching, Chao Jin, and Chun Teck Lim. 2013. Simulation for a Shingled magnetic recording disk. IEEE Trans. Magn. 49, 6 (June 2013), 2677--2681. DOI:http://dx.doi.org/10.1109/TMAG.2013.2245872
+D. A. Thompson , J. S. Best, The future of magnetic data storage technology, IBM Journal of Research and Development, v.44 n.3, p.311-322, May 2000[doi>10.1147/rd.443.0311]
+Sumei Wang, Yao Wang, and Randall H. Victora. 2013. Shingled magnetic recording on bit patterned media at 10 Tb/in<sup>2</sup>. IEEE Trans. Magn. 49, 7 (July 2013), 3644--3647. DOI:http://dx.doi.org/10.1109/TMAG.2012.2237545
+R. Wood, Mason Williams, A Kavcic, and Jim Miles. 2009. The feasibility of magnetic recording at 10 terabits per square inch on conventional media. IEEE Trans. Magn. 45, 2 (Feb. 2009), 917--923. DOI:http://dx.doi.org/10.1109/TMAG.2008.2010676
+Bruce L. Worthington , Gregory R. Ganger , Yale N. Patt , John Wilkes, On-line extraction of SCSI disk drive parameters, Proceedings of the 1995 ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems, p.146-156, May 15-19, 1995, Ottawa, Ontario, Canada[doi>10.1145/223587.223604]

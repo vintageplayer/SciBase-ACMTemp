@@ -1,0 +1,55 @@
+Abbott, R. K. and Garcia-Monlina, H. 1990. Scheduling I/O requests with deadlines: A performance evaluation. In Proceedings of the 11th Real-Time Systems Symposium (RTSS). 113--124.
+Bruno, J., Brustoloni, J., Gabber, E., Ozden, B., and Silberschatz, A. 1999. Disk scheduling with quality of service guarantees. In Proceedings of the IEEE International Conference on Microelectronics and Computer Science (ICMCS). IEEE, Los Alamitos, CA.
+M. J. Carey , R. Jauhari , M. Livny, Priority in DBMS resource scheduling, Proceedings of the 15th international conference on Very large data bases, p.397-410, July 1989, Amsterdam, The Netherlands
+Chen, S., Stankovic, J. A., Kurose, J. F., and Towsley, D. 1991. Performance evaluation of two new disk scheduling algorithms for real-time systems. J. Real-Time Syst. 3, 307--336
+Wiebren de Jonge , M. Frans Kaashoek , Wilson C. Hsieh, The logical disk: a new approach to improving file systems, Proceedings of the fourteenth ACM symposium on Operating systems principles, p.15-28, December 05-08, 1993, Asheville, North Carolina, USA[doi>10.1145/168619.168621]
+Dees, B. 2005. Native command queuing—Advanced performance in desktop storage. IEEE Potentials 24, 4, 4--7.
+Timothy E. Denehy , Andrea C. Arpaci-Dusseau , Remzi H. Arpaci-Dusseau, Bridging the Information Gap in Storage Protocol Stacks, Proceedings of the General Track of the annual conference on USENIX Annual Technical Conference, p.177-190, June 10-15, 2002
+Ganger, G. R. 2001. Blurring the line between (OSes) and storage devices. Tech. rep. CMU-CS-01-166, Carnegie Mellon University, Pittsburgh, PA.
+Binny S. Gill , Luis Angel D. Bathen, AMP: adaptive multi-stream prefetching in a shared cache, Proceedings of the 5th USENIX conference on File and Storage Technologies, p.26-26, February 13-16, 2007, San Jose, CA
+Grimsrud, K. 2007. Sata-io: Features moves sata into smaller form factors. Intel Developer Forum (IDF), Intel Corporation.
+Gulati, A., Merchant, A., Uysal, M., and Varman, P. J. 2007. Efficient and adaptive proportional share I/O scheduling. Tech. rep. HPL-2007-186, HP Laboratories, Palo Alto, CA.
+Selim Gurun , Chandra Krintz, AutoDVS: an automatic, general-purpose, dynamic clock scheduling system for hand-held devices, Proceedings of the 5th ACM international conference on Embedded software, September 18-22, 2005, Jersey City, NJ, USA[doi>10.1145/1086228.1086270]
+Christoffer Hall , Philippe Bonnet, Getting priorities straight: improving Linux support for database I/O, Proceedings of the 31st international conference on Very large data bases, August 30-September 02, 2005, Trondheim, Norway
+Huang, L. and Chiueh, T. 2000. Implementation of a rotation latency sensitive disk scheduler. Tech. rep. ECSL-TR81, SUNY, Stony Brook.
+Huffman, A. 2003. Comparing serial ATA native command queuing (NCQ) and ATA tagged command queuing (TCQ). White paper, Intel Corporation.
+Huffman, A. 2007. Serial ATA advanced host controller interface (AHCI). Specification 1.2, Intel Corporation.
+Intel and Seagate. 2003. Serial ATA native command queuing: An exciting new performance feature for serial ATA. Joint White paper, Intel Corporation and Seagate Technology.
+Sitaram Iyer , Peter Druschel, Anticipatory scheduling: a disk scheduling framework to overcome deceptive idleness in synchronous I/O, Proceedings of the eighteenth ACM symposium on Operating systems principles, October 21-24, 2001, Banff, Alberta, Canada[doi>10.1145/502034.502046]
+Jacobson, D. M. and Wilkes, J. 1991. Disk scheduling algorithms based on rotational position. Tech. rep. HPL-CSP-91-7rev1, HP Laboratories.
+Stephen T. Jones , Andrea C. Arpaci-Dusseau , Remzi H. Arpaci-Dusseau, Antfarm: tracking processes in a virtual machine environment, Proceedings of the annual conference on USENIX '06 Annual Technical Conference, p.1-1, May 30-June 03, 2006, Boston, MA
+Tim Kaldewey , Theodore M. Wong , Richard Golding , Anna Povzner , Scott Brandt , Carlos Maltzahn, Virtualizing Disk Performance, Proceedings of the 2008 IEEE Real-Time and Embedded Technology and Applications Symposium, p.319-330, April 22-24, 2008[doi>10.1109/RTAS.2008.31]
+Katcher, J. 1997. Postmark: A new file system benchmark. Tech. rep. TR3022, Network Appliance, Inc.
+Kimberly Keeton , David A. Patterson , Joseph M. Hellerstein, A case for intelligent disks (IDISKs), ACM SIGMOD Record, v.27 n.3, p.42-52, Sept. 1, 1998[doi>10.1145/290593.290602]
+Li, C., Shen, K., and Papathanasiou, A. E. 2004. Competitive prefetching for concurrent sequential I/O. In Proceedings of the 1st Workshop on Operating Systems and Architectural Support for the on Demand IT Infrastructure (OASIS '04).
+Mingju Li , Elizabeth Varki , Swapnil Bhatia , Arif Merchant, TaP: table-based prefetching for storage caches, Proceedings of the 6th USENIX Conference on File and Storage Technologies, p.1-16, February 26-29, 2008, San Jose, California
+Christopher R. Lumb , Jiri Schindler , Gregory R. Ganger , David F. Nagle , Erik Riedel, Towards higher disk head utilization: extracting free bandwidth from busy disk drives, Proceedings of the 4th conference on Symposium on Operating System Design & Implementation, p.7-7, October 22-25, 2000, San Diego, California
+David T. McWherter , Bianca Schroeder , Anastassia Ailamaki , Mor Harchol-Balter, Priority Mechanisms for OLTP and Transactional Web Applications, Proceedings of the 20th International Conference on Data Engineering, p.535, March 30-April 02, 2004
+M. Mesnier , G. R. Ganger , E. Riedel, Object-based storage, IEEE Communications Magazine, v.41 n.8, p.84-90, August 2003[doi>10.1109/MCOM.2003.1222722]
+Microsoft. 2006. I/O prioritization in Windows Vista. White paper. http://www.microsoft.com/whdc/driver/priorityio.mspx.
+Diego Ongaro , Alan L. Cox , Scott Rixner, Scheduling I/O in virtual machine monitors, Proceedings of the fourth ACM SIGPLAN/SIGOPS international conference on Virtual execution environments, March 05-07, 2008, Seattle, WA, USA[doi>10.1145/1346256.1346258]
+Panasas. Object storage architecture. White paper. http://www.panasas.com/library.html, Panasas.
+Lars Reuther , Martin Pohlack, Rotational-Position-Aware Real-Time Disk Scheduling Using a Dynamic Active Subset (DAS), Proceedings of the 24th IEEE International Real-Time Systems Symposium, p.374, December 03-05, 2003
+Erik Riedel , Christos Faloutsos , Gregory R. Ganger , David F. Nagle, Data mining on an OLTP system (nearly) for free, Proceedings of the 2000 ACM SIGMOD international conference on Management of data, p.13-21, May 15-18, 2000, Dallas, Texas, USA[doi>10.1145/342009.335375]
+Erik Riedel , Garth A. Gibson , Christos Faloutsos, Active Storage for Large-Scale Data Mining and Multimedia, Proceedings of the 24rd International Conference on Very Large Data Bases, p.62-73, August 24-27, 1998
+Chris Ruemmler , John Wilkes, An introduction to disk drive modeling, Computer, v.27 n.3, p.17-28, March 1994[doi>10.1109/2.268881]
+SATAIO. 2005. Serial ATA international organization: Serial ATA rev. 2.5 specification. www.sata-io.org.
+SATAIO. 2007. Serial ATA international organization: Serial ATA rev. 2.6 specification. www.sata-io.org.
+Seelam, S., Romero, R., Teller, P., and Buros, W. 2005. Enhancements to Linux I/O scheduling. In Proceedings of the Linux Symposium.
+Seltzer, M., Chen, P., and Ousterhout, J. 1990. Disk scheduling revisited. In Proceedings of the USENIX Winter Technical Conference.
+Prashant J. Shenoy , Harrick M. Vin, Cello: a disk scheduling framework for next generation operating systems, Proceedings of the 1998 ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems, p.44-55, June 22-26, 1998, Madison, Wisconsin, USA[doi>10.1145/277851.277871]
+D. I. Shin , Y. J. Yu , H. Y. Yeom, Shedding Light in the Black-Box: Structural Modeling of Modern Disk Drives, Proceedings of the 2007 15th International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems, p.410-417, October 24-26, 2007[doi>10.1109/MASCOTS.2007.60]
+Gopalan Sivathanu , Swaminathan Sundararaman , Erez Zadok, Type-safe disks, Proceedings of the 7th USENIX Symposium on Operating Systems Design and Implementation, p.2-2, November 06-08, 2006, Seattle, WA
+Muthian Sivathanu , Vijayan Prabhakaran , Florentina I. Popovici , Timothy E. Denehy , Andrea C. Arpaci-Dusseau , Remzi H. Arpaci-Dusseau, Semantically-Smart Disk Systems, Proceedings of the 2nd USENIX Conference on File and Storage Technologies, March 31-31, 2003, San Francisco, CA
+T10:SAM4. 2007. SCSI architecture model - 4 (SAM-4). Specification rev.13b. www.t10.org.
+T10:SBC3. 2007. SCSI block commands - 3 (SBC-3). Specification rev.12. www.t10.org.
+T10:SPC4. 2007. SCSI primary commands - 4 (SPC-4). Specification rev. 11. www.t10.org.
+N. Talagala , R. Arpaci-Dusseau , D. Patterson, Micro-Benchmark Based Extraction of Local and Global Disk, University of California at Berkeley, Berkeley, CA, 2000
+Avishay Traeger , Erez Zadok , Nikolai Joukov , Charles P. Wright, A nine year study of file system and storage benchmarking, ACM Transactions on Storage (TOS), v.4 n.2, p.1-56, May 2008[doi>10.1145/1367829.1367831]
+C. A. Waldspurger , E. Weihl. W., Stride Scheduling: Deterministic Proportional- Share Resource Management, Massachusetts Institute of Technology, Cambridge, MA, 1995
+Randolph Y. Wang , Thomas E. Anderson , David A. Patterson, Virtual log based file systems for a programmable disk, Proceedings of the third symposium on Operating systems design and implementation, p.29-43, February 1999, New Orleans, Louisiana, USA
+Wang, Y. 2006. NCQ for power efficiency. White paper, ULINK Technology.
+Youjip Won , Hyungkyu Chang , Jaemin Ryu , Yongdai Kim , Junseok Shim, Intelligent storage: Cross-layer optimization for soft real-time workload, ACM Transactions on Storage (TOS), v.2 n.3, p.255-282, August 2006[doi>10.1145/1168910.1168912]
+Bruce L. Worthington , Gregory R. Ganger , Yale N. Patt, Scheduling algorithms for modern disk drives, Proceedings of the 1994 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.241-251, May 16-20, 1994, Nashville, Tennessee, USA[doi>10.1145/183018.183045]
+Bruce L. Worthington , Gregory R. Ganger , Yale N. Patt , John Wilkes, On-line extraction of SCSI disk drive parameters, Proceedings of the 1995 ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems, p.146-156, May 15-19, 1995, Ottawa, Ontario, Canada[doi>10.1145/223587.223604]
+Charles P. Wright , Nikolai Joukov , Devaki Kulkarni , Yevgeniy Miretskiy , Erez Zadok, Auto-pilot: a platform for system software benchmarking, Proceedings of the annual conference on USENIX Annual Technical Conference, p.53-53, April 10-15, 2005, Anaheim, CA

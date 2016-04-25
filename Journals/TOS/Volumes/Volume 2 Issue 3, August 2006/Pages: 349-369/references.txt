@@ -1,0 +1,33 @@
+Bagrodia, R., Chien, A., Hsu, Y., and Reed, D. 1994. Input/output: Instrumentation, characterization, modeling and management policy. In Proceedings of the Scalable I/O Initiative. Caltech Concurrent Supercomputing Facilities.
+Baru, S. 1997. Storage Resource Broker (SRB) Reference Manual. Enabling Technologies, San Diego Supercomputer Center. La Jolla, CA.
+Michael D. Beynon , Tahsin Kurc , Alan Sussman , Joel Saltz, Design of a Framework for Data-Intensive Wide-Area Applications, Proceedings of the 9th Heterogeneous Computing Workshop, p.116, May 01-01, 2000
+Choudhary, A., Bordawekar, R., Harry, M., Krishnaiyer, R., Ponnusamy, R., Singh, T., and Thakur, R. 1994. Passion: Parallel and scalable software for input-output. Tech. Rep. SCCS-636, NPAC.
+Corbett, P., Feitelson, D., Fineberg, S., Hsu, Y., Nitzberg, B., Prost, J., Snir, M., Traversat, B., and Wong, P. 1995. Overview of the MPI-IO parallel I/O interface. In Proceedings of the Workshop on I/O in Parallel and Distributed Systems (IPPS '95). Santa Barbara, CA.
+P. F. Corbett , D. G. Feltelson , J.-P. Prost , G. S. Almasi , S. J. Baylor , A. S. Bolmarcich , Y. Hsu , J. Satran , M. Snir , R. Colao , B. D. Herr , J. Kavaky , T. R. Morgan , A. Ziotek, Parallel file systems for the IBM SP computers, IBM Systems Journal, v.34 n.2, p.222-248, 1995[doi>10.1147/sj.342.0222]
+R. A. Coyne , H. Hulen , R. Watson, The high performance storage system, Proceedings of the 1993 ACM/IEEE conference on Supercomputing, p.83-92, November 15-19, 1993, Portland, Oregon, USA[doi>10.1145/169627.169662]
+Phyllis E. Crandall , Ruth A. Aydt , Andrew A. Chien , Daniel A. Reed, Input/output characteristics of scalable parallel applications, Proceedings of the 1995 ACM/IEEE conference on Supercomputing, p.59-es, December 04-08, 1995, San Diego, California, USA[doi>10.1145/224170.224396]
+R. Cypher , A. Ho , S. Konstantinidou , P. Messina, Architectural requirements of parallel scientific applications with explicit communication, Proceedings of the 20th annual international symposium on computer architecture, p.2-13, May 16-19, 1993, San Diego, California, USA[doi>10.1145/165123.165124]
+DIMACS. 2000. Url: ftp://dimacs.rutgers.edu/pub/netflow/.
+Ellis, C. S. and Kotz, D. 1989. Prefetching in file systems for mimd multiprocessors. In Proceedings of the International Conference on Parallel Processing. 306--314.
+Forum, M. P. I. 1997. Mpi-2: Extension to the message passing interface. Ph.D. thesis, University of Tennessee.
+Harold Neil Gabow, Implementation of algorithms for maximum matching on nonbipartite graphs., Stanford University, Stanford, CA, 1974
+Michael R. Garey , David S. Johnson, Computers and Intractability: A Guide to the Theory of NP-Completeness, W. H. Freeman & Co., New York, NY, 1979
+John F. Karpovich , Andrew S. Grimshaw , James C. French, Extensible file system (ELFS): an object-oriented approach to high performance file I/O, Proceedings of the ninth annual conference on Object-oriented programming systems, language, and applications, p.191-204, October 23-28, 1994, Portland, Oregon, USA[doi>10.1145/191080.191112]
+David Kotz, Microprocessor file system interfaces, Proceedings of the second international conference on Parallel and distributed information systems, p.194-201, January 1993, San Diego, California, USA
+Kotz, D. 1994. Disk-Directed I/O for mimd multiprocessors. In Proceedings of the Symposium on Operating Systems Design and Implementation. 61--74.
+Thomas M. Kroeger , Darrell D. E. Long, Predicting file system actions from prior events, Proceedings of the 1996 annual conference on USENIX Annual Technical Conference, p.26-26, January 22-26, 1996, San Diego, CA
+Tara Maja Madhyastha , Daniel A. Reed, Automatic classification of input/output access patterns, University of Illinois at Urbana-Champaign, Champaign, IL, 1997
+Malagoli, A. 1998. Astro3d - 2.0. the asci flash center. Chicago, IL.
+Memik, G., Kandemir, M. T., and Choudhary, A. 2000. April: A run-time library for tape resident data. In Proceedings of the 8th NASA Goddard Conference on Mass Storage Systems and Technologies. Baltimore, MD.
+Gokhan Memik , Mahmut Kandemir , Alok Choudhary, Exploiting Inter-File Access Patterns Using Multi-Collective I/O, Proceedings of the 1st USENIX Conference on File and Storage Technologies, January 28-30, 2002, Monterey, CA
+J. Nieplocha , I. Foster, Disk Resident Arrays: An Array-Oriented I/O Library for Out-Of-Core Computations, Proceedings of the 6th Symposium on the Frontiers of Massively Parallel Computation, p.196, March 27-31, 1996
+Nils Nieuwejaar , David Kotz , Apratim Purakayastha , Carla Schlatter Ellis , Michael L. Best, File-Access Characteristics of Parallel Scientific Workloads, IEEE Transactions on Parallel and Distributed Systems, v.7 n.10, p.1075-1089, October 1996[doi>10.1109/71.539739]
+Nitzberg, B. 1992. Performance of the ipsc/860 concurrent file system. Tech. rep. RND-92-020, NAS Systems Division, NASA Ames.
+William J. Nitzberg, Collective parallel I/O, University of Oregon, Eugene, OR, 1996
+Rosario, J., Bordawekar, R., and Choudhary, A. 1993. Improved parallel I/O via a two-phase run-time access strategy. In Proceedings of the IPPS Workshop on Input/Output in Parallel Computer Systems.
+K. E. Seamons , Y. Chen , P. Jones , J. Jozwiak , M. Winslett, Server-directed collective I/O in Panda, Proceedings of the 1995 ACM/IEEE conference on Supercomputing, p.57-es, December 04-08, 1995, San Diego, California, USA[doi>10.1145/224170.224371]
+Seamons, K. E. and Winslett, M. 2000. Efficient sub-image extraction using panda. http://drl.cs.uiuc.edu/panda/demo/.
+X. Shen , W. Liao , A. Choudhary , G. Memik , M. Kandemir , S. More , G. Thiruvathukal , A. Singh, A novel application development environment for large-scale scientific computations, Proceedings of the 14th international conference on Supercomputing, p.274-283, May 08-11, 2000, Santa Fe, New Mexico, USA[doi>10.1145/335231.335258]
+Smith, P. H. and van Rosendale, J. 1998. Data and visualization corridors. Tech. Rep. CACR-164, CACR, Caltech.
+Thakur, R., Lusk, E., and Gropp, W. 1998. Users guide for romio: A high-performance, portable MPI-IO implementation. Tech. Memo. ANL/MCS-TM-234, Mathematics and Computer Science Division, Argonne National Laboratory.
+Sivan Toledo , Fred G. Gustavson, The design and implementation of SOLAR, a portable library for scalable out-of-core linear algebra computations, Proceedings of the fourth  workshop on I/O in parallel and distributed systems: part of the federated computing research conference, p.28-40, May 27-27, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/236017.236029]

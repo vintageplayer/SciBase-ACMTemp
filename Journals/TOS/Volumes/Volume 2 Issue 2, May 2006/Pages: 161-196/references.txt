@@ -1,0 +1,67 @@
+Darrell C. Anderson , Jeffery S. Chase , Amin M. Vahdat, Interposed request routing for scalable network storage, Proceedings of the 4th conference on Symposium on Operating System Design & Implementation, p.18-18, October 22-25, 2000, San Diego, California
+Appavoo, J., Auslander, M., DaSilva, D., Edelsohn, D., Krieger, O., Ostrowski, M., Rosenburg, B., Wisniewski, R., and Xenidis, J. 2002. K42 overview. www.research.ibm.com/K42/
+Akshat Aranya , Charles P. Wright , Erez Zadok, Tracefs: A File System to Trace Them All, Proceedings of the 3rd USENIX Conference on File and Storage Technologies, March 31-31, 2004, San Francisco, CA
+Andrea C. Arpaci-Dusseau , Remzi H. Arpaci-Dusseau, Information and control in gray-box systems, Proceedings of the eighteenth ACM symposium on Operating systems principles, October 21-24, 2001, Banff, Alberta, Canada[doi>10.1145/502034.502040]
+Ayers, L. 1997. E2compr: Transparent file compression for Linux. Linux Gazette 18. www.linuxgazette.com/issue18/e2compr.html
+Balzer, R. and Goldman, N. 1999. Mediating connectors. In Proceedings of the 19th IEEE International Conference on Distributed Computing Systems Workshop (Austin, TX). 72--77.
+Matt Blaze, A cryptographic file system for UNIX, Proceedings of the 1st ACM conference on Computer and communications security, p.9-16, November 03-05, 1993, Fairfax, Virginia, USA[doi>10.1145/168588.168590]
+Nathan C. Burnett , John Bent , Andrea C. Arpaci-Dusseau , Remzi H. Arpaci-Dusseau, Exploiting Gray-Box Knowledge of Buffer-Cache Management, Proceedings of the General Track of the annual conference on USENIX Annual Technical Conference, p.29-44, June 10-15, 2002
+Cluster File Systems, Inc. 2002. Lustre: A scalable, high-performance file system. www.lustre.org/docs/whitepaper.pdf
+Mark D. Corner , Brian D. Noble, Zero-interaction authentication, Proceedings of the 8th annual international conference on Mobile computing and networking, September 23-28, 2002, Atlanta, Georgia, USA[doi>10.1145/570645.570647]
+Frank Dabek , M. Frans Kaashoek , David Karger , Robert Morris , Ion Stoica, Wide-area cooperative storage with CFS, Proceedings of the eighteenth ACM symposium on Operating systems principles, October 21-24, 2001, Banff, Alberta, Canada[doi>10.1145/502034.502054]
+D. R. Engler , M. F. Kaashoek , J. O'Toole, Jr., Exokernel: an operating system architecture for application-level resource management, Proceedings of the fifteenth ACM symposium on Operating systems principles, p.251-266, December 03-06, 1995, Copper Mountain, Colorado, USA[doi>10.1145/224056.224076]
+Douglas P. Ghormley , David Petrou , Steven H. Rodrigues , Thomas E. Anderson, SLIC: an extensibility system for commodity operating systems, Proceedings of the annual conference on USENIX Annual Technical Conference, p.4-4, June 15-19, 1998, New Orleans, Louisiana
+Goh, E.-J., Shacham, H., Modadugu, N., and Boneh, D. 2003. Sirius: Securing remote untrusted storage. In Proceedings of the 10th Network and Distributed System Security (NDSS) Symposium. (San Diego, CA). 131--145.
+Guy, R. G., Heidemann, J. S., Mak, W., Page Jr., T. W., Popek, G. J., and Rothmeier, D. 1990. Implementation of the Ficus replicated file system. In Proceedings of the Summer USENIX Technical Conference. (Anaheim, CA). 63--71.
+Halcrow, M. A. 2004. Demands, solutions, and improvements for Linux filesystem security. In Proceedings of the 2004 Linux Symposium (Ottawa, Canada). 269--286.
+Harder, B. 2001. Microsoft Windows XP system restore. http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnwxp/html/windowsxpsystemrestore.asp
+Heidemann, J. S. and Popek, G. J. 1991. A layered approach to file system development. Tech. Rep. CSD-910007, UCLA.
+John S. Heidemann , Gerald J. Popek, File-system development with stackable layers, ACM Transactions on Computer Systems (TOCS), v.12 n.1, p.58-89, Feb. 1994[doi>10.1145/174613.174616]
+J. Heidemann , G. Popek, Performance of cache coherence in stackable filing, Proceedings of the fifteenth ACM symposium on Operating systems principles, p.127-141, December 03-06, 1995, Copper Mountain, Colorado, USA[doi>10.1145/224056.224067]
+Steven A. Hofmeyr , Stephanie Forrest , Anil Somayaji, Intrusion detection using sequences of system calls, Journal of Computer Security, v.6 n.3, p.151-180, August 1998
+Indra Networks. 2004. StorCompress. www.indranetworks.com/StorCompress.pdf
+Michael B. Jones, Interposition agents: transparently interposing user code at the system interface, Proceedings of the fourteenth ACM symposium on Operating systems principles, p.80-93, December 05-08, 1993, Asheville, North Carolina, USA[doi>10.1145/168619.168626]
+N. Joukov , A. Rai , E. Zadok, Increasing distributed storage survivability with a stackable RAID-like file system, Proceedings of the Fifth IEEE International Symposium on Cluster Computing and the Grid, p.82-89, May 09-12, 2005
+Kashyap, A., Dave, J., Zubair, M., Wright, C. P., and Zadok, E. 2004. Using the Berkeley database in the Linux kernel. www.fsl.cs.sunysb.edu/project-kbdb.html
+Swapnil Patil , Anand Kashyap , Gopalan Sivathanu , Erez Zadok, FS: An In-Kernel Integrity Checker and Intrusion Detection File System, Proceedings of the 18th USENIX conference on System administration, November 14-19, 2004, Atlanta, GA
+Katcher, J. 1997. PostMark: A new filesystem benchmark. Tech. Rep. TR3022, Network Appliance. www.netapp.com/tech_library/3022.html
+Angelos D. Keromytis , Janak Parekh , Philip N. Gross , Gail Kaiser , Vishal Misra , Jason Nieh , Dan Rubenstein , Sal Stolfo, A holistic approach to service survivability, Proceedings of the 2003 ACM workshop on Survivable and self-regenerative systems: in association with 10th ACM Conference on Computer and Communications Security, p.11-22, October 31-31, 2003, Fairfax, VA[doi>10.1145/1036921.1036923]
+Yousef A. Khalidi , Michael N. Nelson, Extensible file systems in spring, Proceedings of the fourteenth ACM symposium on Operating systems principles, p.1-14, December 05-08, 1993, Asheville, North Carolina, USA[doi>10.1145/168619.168620]
+Kleiman, S. R. 1986. Vnodes: An architecture for multiple file system types in Sun UNIX. In Proceedings of the Summer USENIX Technical Conference. (Atlanta, GA). 238--247.
+Klotzbücher, M. 2004. Development of a Linux overlay filesystem for software updates in embedded systems. M.S. thesis, Universität Konstanz, Konstanz, Germany.
+MacDonald, J., Reiser, H., and Zarochentcev, A. 2002. Reiser4 transaction design document. www.namesys.com/txn-doc.html
+David Mazières, A Toolkit for User-Level File Systems, Proceedings of the General Track: 2002 USENIX Annual Technical Conference, p.261-274, June 25-30, 2001
+Microsoft Corporation. 2004a. File system filter manager: Filter driver development guide. www.microsoft.com/whdc/driver/filterdrv/default.mspx
+Microsoft Corporation. 2004b. Installable file system development kit. www.microsoft.com/whdc/devtools/ifskit/default.mspx
+Microsoft Corporation. 2004c. Microsoft MSDN WinFS documentation. http://msdn.microsoft.com/data/winfs/
+Yevgeniy Miretskiy , Abhijith Das , Charles P. Wright , Erez Zadok, Avfs: an on-access anti-virus file system, Proceedings of the 13th conference on USENIX Security Symposium, p.6-6, August 09-13, 2004, San Diego, CA
+Kiran-Kumar Muniswamy-Reddy , Charles P. Wright , Andrew Himmer , Erez Zadok, A Versatile and User-Oriented Versioning File System, Proceedings of the 3rd USENIX Conference on File and Storage Technologies, March 31-31, 2004, San Francisco, CA
+Rajeev Nagar, Windows NT file system internals: a developer's guide, O'Reilly & Associates, Inc., Sebastopol, CA, 1997
+Network Associates Technology, Inc. 2004. McAfee. www.mcafee.com
+Nugent, J., Arpaci-Dusseau, A., and Arpaci-Dusseau, R. 2003. Controlling your PLACE in the file system with gray-box techniques. In Proceedings of the Annual USENIX Technical Conference (San Antonio, TX). 311--323.
+Walter Oney, Programming the Microsoft Windows Driver Model, Second Edition, Microsoft Press, Redmond, WA, 2002
+Jan-Simon Pendry , Marshall Kirk McKusick, Union mounts in 4.4BSD-lite, Proceedings of the USENIX 1995 Technical Conference Proceedings, p.3-3, January 16-20, 1995, New Orleans, Louisiana
+Daniel Phillips, A directory index for Ext2, Proceedings of the 5th annual Linux Showcase & Conference, p.20-20, November 05-10, 2001, Oakland, California
+Rosenthal, D. S. H. 1990. Evolving the Vnode interface. In Proceedings of the Summer USENIX Technical Conference. (Anaheim, CA). 107--118.
+Rosenthal, D. S. H. 1992. Requirements for a “stacking” vnode/VFS interface. Tech. Rep. SD-01-02-N014, UNIX International.
+Schaefer, M. 2000. The migration filesystem. www.cril.ch/schaefer/anciens_projets/mfs.html
+Seltzer, M. and Yigit, O. 1991. A new hashing package for UNIX. In Proceedings of the Winter USENIX Technical Conference (Dallas, TX). 173--184.
+Shanahan, D. P. 2000. CryptosFS: Fast cryptographic secure nfs. M.S. thesis, University of Dublin, Dublin, Ireland.
+S. Shepler , B. Callaghan , D. Robinson , R. Thurlow , C. Beame , M. Eisler , D. Noveck, NFS version 4 Protocol, RFC Editor, 2000
+Muthian Sivathanu , Vijayan Prabhakaran , Florentina I. Popovici , Timothy E. Denehy , Andrea C. Arpaci-Dusseau , Remzi H. Arpaci-Dusseau, Semantically-Smart Disk Systems, Proceedings of the 2nd USENIX Conference on File and Storage Technologies, March 31-31, 2003, San Francisco, CA
+Skinner, G. C. and Wong, T. K. 1993. “Stacking” vnodes: A progress report. In Proceedings of the Summer USENIX Technical Conference (Cincinnati, OH). 161--174.
+SMCC. 1992. Lofs---Loopback Virtual File System. Sun Microsystems, Inc. SunOS 5.5.1 Reference Manual, Section 7.
+David A. Solomon , Mark Russinovich, Inside Microsoft Windows 2000, Microsoft Press, Redmond, WA, 2000
+Sophos. 2004. Sophos Plc. www.sophos.com
+SunSoft. 1994. Cache file system (CacheFS). Tech. rep., Sun Microsystems, Inc. (Feb.)
+Symantec. 2004. Norton antivirus. www.symantec.com
+Szeredi, M. 2005. Filesystem in userspace. fuse.sourceforge.net
+Tzachar, N. 2003. SRFS kernel module. Tech. Rep., Ben Gurion University (Sept.) www.cs.bgu.ac.il/~srfs/publications/implementation_report.pdf
+Charles P. Wright , Jay Dave , Puja Gupta , Harikesavan Krishnan , David P. Quigley , Erez Zadok , Mohammad Nayyer Zubair, Versatility and Unix semantics in namespace unification, ACM Transactions on Storage (TOS), v.2 n.1, p.74-105, February 2006[doi>10.1145/1138041.1138045]
+Wright, C. P., Martino, M., and Zadok, E. 2003. NCryptfs: A secure and convenient cryptographic file system. In Proceedings of the Annual USENIX Technical Conference. (San Antonio, TX). 197--210.
+Erez Zadok , Jason Nieh, Fist: a system for stackable file-system code generation, Columbia University, New York, NY, 2001
+Erez Zadok , Johan M. Andersen , Ion Badulescu , Jason Nieh, Fast Indexing: Support for Size-Changing Algorithms in Stackable File Systems, Proceedings of the General Track: 2002 USENIX Annual Technical Conference, p.289-304, June 25-30, 2001
+Zadok, E. and Bădulescu, I. 1999. A stackable file system interface for Linux. In Proceedings of the LinuxExpo Conference. (Raleigh, NC). 141--151.
+Erez Zadok , Ion Badulescu , Alex Shender, Extending file systems using stackable templates, Proceedings of the annual conference on USENIX Annual Technical Conference, p.5-5, June 06-11, 1999, Monterey, California
+Erez Zadok , Jason Nieh, FiST: a language for stackable file systems, Proceedings of the annual conference on USENIX Annual Technical Conference, p.5-5, June 18-23, 2000, San Diego, California
+Zadok, E., Osborn, J., Shater, A., Wright, C. P., Muniswamy-Reddy, K., and Nieh, J. 2004. Reducing storage management costs via informed user-based policies. In Proceedings of the 12th NASA Goddard, 21st IEEE Conference on Mass Storage Systems and Technologies (MSST) (College Park, MD). 193--197.

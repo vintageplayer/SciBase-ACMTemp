@@ -1,0 +1,42 @@
+Lakshmi N. Bairavasundaram , Garth R. Goodson , Shankar Pasupathy , Jiri Schindler, An analysis of latent sector errors in disk drives, ACM SIGMETRICS Performance Evaluation Review, v.35 n.1, June 2007[doi>10.1145/1269899.1254917]
+Brunelle, A. D.2009.blktrace User Guide. http://pdfedit.petricek.net/bt/.
+Dees, B.2005. Native command queuing - advanced performance in desktop storage.Potentials, IEE 24, 4, 4--7.
+Dell. 2004.Controllers: Dell Openmanage Storage Management User’s Guide. http://support.dell.com/support/edocs/software/svradmin/1.9/en/stormgmt/cntrls.html.
+Dimitrijevic, Z., Rangaswami, R., Watson, D., and Acharya, A.2001. Diskbench: User-level disk feature extraction tool. Tech. rep. University of California Santa Barbara.
+Xiaoning Ding , Song Jiang , Feng Chen , Kei Davis , Xiaodong Zhang, DiskSeen: exploiting disk layout and access history to enhance I/O prefetch, 2007 USENIX Annual Technical Conference on Proceedings of the USENIX Annual Technical Conference, p.1-14, June 17-22, 2007, Santa Clara, CA
+Ganger, G. R.2001. Blurring the line between OSES and storage devices. Tech. rep. CMU-CS-01-166, Carnegie Mellon University, Pittsburgh, PA.
+Binny S. Gill , Dharmendra S. Modha, WOW: wise ordering for writes - combining spatial and temporal locality in non-volatile caches, Proceedings of the 4th conference on USENIX Conference on File and Storage Technologies, p.10-10, December 13-16, 2005, San Francisco, CA
+Guest, J. E., King, R. W., and Kiscaden, R. C.1974. Locial sector interleave.IBM Tech. Disclosure Bull. 17, 05, 1460--1463.
+HP. 2002.Hp a5856a Raid 4si pci 4-Channel Ultra2 scsi Controller -- Installation and Administration Guide. http://docs.hp.com/en/J6173-90007/go01.html.
+Huang, L. and Chiueh, T. C.2000. Implementation of a rotation-latency-sensitive disk scheduler. Tech. rep.
+IBM. 2004. Raid hard drive write-cache defaults to write-through mode -- Servers. http://www-947.ibm.com/support/entry/portal/docdisplay?lndocid=MIGR-44238.
+Sitaram Iyer , Peter Druschel, Anticipatory scheduling: a disk scheduling framework to overcome deceptive idleness in synchronous I/O, Proceedings of the eighteenth ACM symposium on Operating systems principles, October 21-24, 2001, Banff, Alberta, Canada[doi>10.1145/502034.502046]
+Jacobson, D. and Wilkes, J.1991. Disk scheduling algorithms based on rotational position. Tech. rep. HPL-CSP-91-7rev1, HP Laboratories.
+Song Jiang , Xiaoning Ding , Feng Chen , Enhua Tan , Xiaodong Zhang, DULO: an effective buffer cache management scheme to exploit both temporal and spatial locality, Proceedings of the 4th conference on USENIX Conference on File and Storage Technologies, p.8-8, December 13-16, 2005, San Francisco, CA
+Katcher, J.1991. Postmark: A new file system benchmark. Tech. rep. HPL-CSP-91-7rev1, HP Laboratories.
+Young-Jin Kim , Sung-Jin Lee , Kangwon Zhang , Jihong Kim, I/O Performance Optimization Techniques for Hybrid Hard Disk-Based Mobile Consumer Devices, IEEE Transactions on Consumer Electronics, v.53 n.4, p.1469-1476, November 2007[doi>10.1109/TCE.2007.4429239]
+Chuanpeng Li , Kai Shen , Athanasios E. Papathanasiou, Competitive prefetching for concurrent sequential I/O, Proceedings of the 2nd ACM SIGOPS/EuroSys European Conference on Computer Systems 2007, March 21-23, 2007, Lisbon, Portugal[doi>10.1145/1272996.1273017]
+Christopher R. Lumb , Jiri Schindler , Gregory R. Ganger, Freeblock Scheduling Outside of Disk Firmware, Proceedings of the Conference on File and Storage Technologies, p.275-288, January 28-30, 2002
+McDougall, R.2004. A new methodology for characterizing file system performance using a hybrid of analytic models and a synthetic benchmark. InWork in Progress Session in 3rd USENIX Conference on File and Storage Technologies. USENIX Association, Berkeley, CA.
+Marshall Kirk McKusick , Gregory R. Ganger, Soft updates: a technique for eliminating most synchronous writes in the fast filesystem, Proceedings of the annual conference on USENIX Annual Technical Conference, p.24-24, June 06-11, 1999, Monterey, California
+Marshall K. McKusick , William N. Joy , Samuel J. Leffler , Robert S. Fabry, A fast file system for UNIX, ACM Transactions on Computer Systems (TOCS), v.2 n.3, p.181-197, Aug. 1984[doi>10.1145/989.990]
+Piggin, N.2003. Anticipatory I/O scheduler. Linux Kernel version 2.6.24 documentation.
+Vijayan Prabhakaran , Andrea C. Arpaci-Dusseau , Remzi H. Arpaci-Dusseau, Analysis and evolution of journaling file systems, Proceedings of the annual conference on USENIX Annual Technical Conference, p.8-8, April 10-15, 2005, Anaheim, CA
+Lars Reuther , Martin Pohlack, Rotational-Position-Aware Real-Time Disk Scheduling Using a Dynamic Active Subset (DAS), Proceedings of the 24th IEEE International Real-Time Systems Symposium, p.374, December 03-05, 2003
+Alma Riska , James Larkby-Lahet , Erik Riedel, Evaluating block-level optimization through the IO path, 2007 USENIX Annual Technical Conference on Proceedings of the USENIX Annual Technical Conference, p.1-14, June 17-22, 2007, Santa Clara, CA
+Mendel Rosenblum , John K. Ousterhout, The design and implementation of a log-structured file system, ACM Transactions on Computer Systems (TOCS), v.10 n.1, p.26-52, Feb. 1992[doi>10.1145/146941.146943]
+Ruemmler, C. and Wilkes, J.1992. Unix disk access patterns. HPL-92-152.
+Chris Ruemmler , John Wilkes, An introduction to disk drive modeling, Computer, v.27 n.3, p.17-28, March 1994[doi>10.1109/2.268881]
+Jiri Schindler , Gregory R. Ganger, Automated disk drive characterization (poster session), Proceedings of the 2000 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.112-113, June 18-21, 2000, Santa Clara, California, USA[doi>10.1145/339331.339397]
+Jiri Schindler , John Linwood Griffin , Christopher R. Lumb , Gregory R. Ganger, Track-aligned extents: matching access patterns to disk drive characteristics, Proceedings of the 1st USENIX conference on File and storage technologies, p.19-19, January 28-30, 2002, Monterey, CA
+Seltzer, M., Chen, P., and Ousterhout, J.1993. Disk scheduling revisited. InProceedings of the Winter USENIX Conference. USENIX Association, Berkeley, CA, 405--420.
+Margo I. Seltzer , Gregory R. Ganger , M. Kirk McKusick , Keith A. Smith , Craig A. N. Soules , Christopher A. Stein, Journaling versus soft updates: asynchronous meta-data protection in file systems, Proceedings of the annual conference on USENIX Annual Technical Conference, p.6-6, June 18-23, 2000, San Diego, California
+Tom Shanley , Don Anderson, PCI system architecture (4th ed.), Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1999
+D. I. Shin , Y. J. Yu , H. Y. Yeom, Shedding Light in the Black-Box: Structural Modeling of Modern Disk Drives, Proceedings of the 2007 15th International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems, p.410-417, October 24-26, 2007[doi>10.1109/MASCOTS.2007.60]
+Muthian Sivathanu , Vijayan Prabhakaran , Florentina I. Popovici , Timothy E. Denehy , Andrea C. Arpaci-Dusseau , Remzi H. Arpaci-Dusseau, Semantically-Smart Disk Systems, Proceedings of the 2nd USENIX Conference on File and Storage Technologies, March 31-31, 2003, San Francisco, CA
+Lakshmi N. Bairavasundaram , Garth R. Goodson , Shankar Pasupathy , Jiri Schindler, An analysis of latent sector errors in disk drives, ACM SIGMETRICS Performance Evaluation Review, v.35 n.1, June 2007[doi>10.1145/1269899.1254917]
+T13. 2004. At attachment with packet interface -- 7 vols: 1. Working Draft American National Standard Revision 4b.
+Weber, R. O.2004. SCSI architecture model-3 (sam-3).
+Youjip Won , Hyungkyu Chang , Jaemin Ryu , Yongdai Kim , Junseok Shim, Intelligent storage: Cross-layer optimization for soft real-time workload, ACM Transactions on Storage (TOS), v.2 n.3, p.255-282, August 2006[doi>10.1145/1168910.1168912]
+Bruce L. Worthington , Gregory R. Ganger , Yale N. Patt, Scheduling algorithms for modern disk drives, Proceedings of the 1994 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.241-251, May 16-20, 1994, Nashville, Tennessee, USA[doi>10.1145/183018.183045]
+Bruce L. Worthington , Gregory R. Ganger , Yale N. Patt , John Wilkes, On-line extraction of SCSI disk drive parameters, Proceedings of the 1995 ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems, p.146-156, May 15-19, 1995, Ottawa, Ontario, Canada[doi>10.1145/223587.223604]

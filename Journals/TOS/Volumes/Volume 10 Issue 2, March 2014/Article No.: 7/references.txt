@@ -1,0 +1,34 @@
+Ascher, H. 1983. Statistical methods in reliability: Discussion.Technometrics 25, 4.
+Ascher, H. 1999. A set of numbers is not a dataset.IEEE Trans. Reliab 48, 2.
+Ascher, H. 2010. Personal communication.
+Lakshmi N. Bairavasundaram , Garth R. Goodson , Shankar Pasupathy , Jiri Schindler, An analysis of latent sector errors in disk drives, ACM SIGMETRICS Performance Evaluation Review, v.35 n.1, June 2007[doi>10.1145/1269899.1254917]
+Lakshmi N. Bairavasundaram , Garth R. Goodson , Bianca Schroeder , Andrea C. Arpaci-Dusseau , Remzi H. Arpaci-Dussea, An analysis of data corruption in the storage stack, Proceedings of the 6th USENIX Conference on File and Storage Technologies, p.1-16, February 26-29, 2008, San Jose, California
+Bartlett J., Bartlett, W., Carr, R., Garcia, D., Gray, J., Horst, R., Jardine, R., Lenoski, D., and McGuire, D. 1990. Fault tolerance in tandem computers. NetApp Tech. rep. 90.5.
+Bazovsky, I. 1961.Reliability Theory and Practice. Prentice Hall.
+M. Blaum , J. Brady , J. Bruck , J. Menon, EVENODD: an optimal scheme for tolerating double disk failures in RAID architectures, Proceedings of the 21st annual international symposium on Computer architecture, p.245-254, April 18-21, 1994, Chicago, Illinois, USA[doi>10.1145/191995.192033]
+Peter Corbett , Bob English , Atul Goel , Tomislav Grcanac , Steven Kleiman , James Leong , Sunitha Sankar, Row-diagonal parity for double disk failure correction, Proceedings of the 3rd USENIX conference on File and storage technologies, p.1-1, March 31-April 02, 2004, San Francisco, CA
+Ajay Dholakia , Evangelos Eleftheriou , Xiao--Yu Hu , Ilias Iliadis , Jai Menon , KK Rao, Analysis of a new intra-disk redundancy scheme for high-reliability RAID storage systems in the presence of unrecoverable errors, ACM SIGMETRICS Performance Evaluation Review, v.34 n.1, June 2006[doi>10.1145/1140103.1140326]
+Elerath, J. 2009a. A simple equation for estimating reliability of an N+1 redundant array of independent disks. InProceedings of the 39th International Conference on Dependable Systems and Networks.
+Jon Elerath, Hard Disk Drives: The Good, the Bad and the Ugly!, Queue, v.5 n.6, September/October 2007[doi>10.1145/1317394.1317403]
+Jon Elerath , Michael Pecht, A Highly Accurate Method for Assessing Reliability of Redundant Arrays of Inexpensive Disks (RAID), IEEE Transactions on Computers, v.58 n.3, p.289-299, March 2009[doi>10.1109/TC.2008.163]
+EMC. 2007. EMC CLARiion RAID 6 Technology: A detailed review. http://www.emc.com/collateral/hardware/white-papers/h2891-clariion-raid-6.pdf. (Last accessed July 2012.)
+Yan Gao , Dirk Meister , Andre Brinkmann, Reliability Analysis of Declustered-Parity RAID 6 with Disk Scrubbing and Considering Irrecoverable Read Errors, Proceedings of the 2010 IEEE Fifth International Conference on Networking, Architecture, and Storage, p.126-134, July 15-17, 2010[doi>10.1109/NAS.2010.11]
+Garth A. Gibson , David A. Patterson, Designing disk arrays for high data reliability, Journal of Parallel and Distributed Computing, v.17 n.1-2, p.4-27, Jan./Feb. 1993[doi>10.1006/jpdc.1993.1002]
+Kevin M. Greenan , James S. Plank , Jay J. Wylie, Mean time to meaningless: MTTDL, Markov models, and storage system reliability, Proceedings of the 2nd USENIX conference on Hot topics in storage and file systems, p.5-5, June 22-25, 2010, Boston, MA
+Kececioglu, D. 1993.Reliability & Life Testing Handbook, Volumes 1 & 2. Prentice Hall.
+Manish Malhotra , Kishor S. Trivedi, Reliability analysis of redundant arrays of inexpensive disks, Journal of Parallel and Distributed Computing, v.17 n.1-2, p.146-151, Jan./Feb. 1993[doi>10.1006/jpdc.1993.1013]
+Nelson, W. 1982.Applied Life Data Analysis. Addison-Wesley.
+Nelson, W. 1990.Accelerated Testing. Wiley & Sons.
+Wayne B. Nelson, Recurrent Events Data Analysis for Product Repairs, Disease Recurrences, and Other Applications, Society for Industrial and Applied Mathematics, Philadelphia, PA, 2002
+NetApp. 2013. NetApp data ONTAP 8 operating system.http://www.netapp.com/us/products/platform-os/data-ontap-8/index.aspx.
+Oracle. 2010. A better RAID strategy for high capacity drives in mainframe storage. http://www.oracle.com/technetwork/articles/systems-hardware-architecture/raid-strategy-hi-capacity -drives-170907.pdf.
+Jehan-François Pâris , Ahmed Amer , Darrell D.  E. Long , Thomas J.  E. Schwarz, Evaluating the Impact of Irrecoverable Read Errors on Disk Array Reliability, Proceedings of the 2009 15th IEEE Pacific Rim International Symposium on Dependable Computing, p.379-384, November 16-18, 2009[doi>10.1109/PRDC.2009.66]
+David A. Patterson , Garth Gibson , Randy H. Katz, A case for redundant arrays of inexpensive disks (RAID), Proceedings of the 1988 ACM SIGMOD international conference on Management of data, p.109-116, June 01-03, 1988, Chicago, Illinois, USA[doi>10.1145/50202.50214]
+Eduardo Pinheiro , Wolf-Dietrich Weber , Luiz André Barroso, Failure trends in a large disk drive population, Proceedings of the 5th USENIX conference on File and Storage Technologies, p.2-2, February 13-16, 2007, San Jose, CA
+KK Rao , James Lee Hafner , Richard A. Golding, Reliability for Networked Storage Nodes, Proceedings of the International Conference on Dependable Systems and Networks, p.237-248, June 25-28, 2006[doi>10.1109/DSN.2006.61]
+Bianca Schroeder , Garth A. Gibson, Disk failures in the real world: what does an MTTF of 1,000,000 hours mean to you?, Proceedings of the 5th USENIX conference on File and Storage Technologies, p.1-es, February 13-16, 2007, San Jose, CA
+Serve The Home. 2011. The RAID reliability anthology -- The primer. http://www.servethehome.com/raid-reliability-failureanthology-part-primer.
+Shah, S. and Elerath, J. 2005. Reliability analysis of disk drive failure mechanisms. InProceedings of the IEEE Reliability and Maintainability Symposium.
+Thompson, W. 1981. On the foundations of reliability.Technometrics 23, 1.
+Alexander Thomasian , Mario Blaum, Higher reliability redundant disk arrays: Organization, operation, and coding, ACM Transactions on Storage (TOS), v.5 n.3, p.1-59, November 2009[doi>10.1145/1629075.1629076]
+Tobias, P. and Trindade, D. 2011.Applied Reliability3rd Ed. CRC Press.

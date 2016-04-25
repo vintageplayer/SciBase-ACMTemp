@@ -1,0 +1,56 @@
+Dave Anderson , Jim Dykes , Erik Riedel, More than an interface: scsi vs. ata, Proceedings of the 2nd USENIX conference on File and storage technologies, p.18-18, March 31-April 02, 2003, San Francisco, CA
+Anonymous. 2006. How long does it take fsck to run?! http://www.jaguarpc.com/forums/vps-dedicated/14217-how-long-does-take-fsck-run.html.
+Anonymous. 2009. e2fsck is taking forever. http://gparted-forum.surf4.info/viewtopic.php?id=13613.
+Lakshmi N. Bairavasundaram , Garth R. Goodson , Shankar Pasupathy , Jiri Schindler, An analysis of latent sector errors in disk drives, Proceedings of the 2007 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 12-16, 2007, San Diego, California, USA[doi>10.1145/1254882.1254917]
+Lakshmi N. Bairavasundaram , Garth R. Goodson , Bianca Schroeder , Andrea C. Arpaci-Dusseau , Remzi H. Arpaci-Dussea, An analysis of data corruption in the storage stack, Proceedings of the 6th USENIX Conference on File and Storage Technologies, p.1-16, February 26-29, 2008, San Jose, California
+Wendy Bartlett , Lisa Spainhower, Commercial Fault Tolerance: A Tale of Two Systems, IEEE Transactions on Dependable and Secure Computing, v.1 n.1, p.87-96, January 2004[doi>10.1109/TDSC.2004.4]
+Robert Baumann, Soft Errors in Advanced Computer Systems, IEEE Design & Test, v.22 n.3, p.258-266, May 2005[doi>10.1109/MDT.2005.69]
+Best, S. 2000. JFS overview. www.ibm.com/developerworks/library/l-jfs.html.
+Bonwick, J. and Moore, B. 2008. ZFS: The last word in file systems. http://www.snia.org/sites/default/files2/sdc_archives/2008_presentations/monday/JeffBonwick-BillMoore_ZFS.pdf.
+Daniel Bovet , Marco Cesati, Understanding The Linux Kernel, Oreilly & Associates Inc, 2005
+João Carlos Menezes Carreira , Rodrigo Rodrigues , George Candea , Rupak Majumdar, Scalable testing of file system checkers, Proceedings of the 7th ACM european conference on Computer Systems, April 10-13, 2012, Bern, Switzerland[doi>10.1145/2168836.2168861]
+Vijay Chidambaram , Tushar Sharma , Andrea C. Arpaci-Dusseau , Remzi H. Arpaci-Dusseau, Consistency without ordering, Proceedings of the 10th USENIX conference on File and Storage Technologies, p.9-9, February 14-17, 2012, San Jose, CA
+Engler, D. and Musuvathi, M. 2004. Static analysis versus software model checking for bug finding. InProceedings of the 5th International Conference on Verification, Model Checking and Abstract Interpretation (VMCAI’04).
+Dawson Engler , David Yu Chen , Seth Hallem , Andy Chou , Benjamin Chelf, Bugs as deviant behavior: a general approach to inferring errors in systems code, Proceedings of the eighteenth ACM symposium on Operating systems principles, October 21-24, 2001, Banff, Alberta, Canada[doi>10.1145/502034.502041]
+Daniel Fryer , Kuei Sun , Rahat Mahmood , TingHao Cheng , Shaun Benjamin , Ashvin Goel , Angela Demke Brown, Recon: verifying file system consistency at runtime, Proceedings of the 10th USENIX conference on File and Storage Technologies, p.7-7, February 14-17, 2012, San Jose, CA
+Funk, R. 2007. fsck / xfs. http://lwn.net/Articles/226851/.
+Gregory R. Ganger , Yale N. Patt, Metadata update performance in file systems, Proceedings of the 1st USENIX conference on Operating Systems Design and Implementation, p.5-es, November 14-17, 1994, Monterey, California
+Haryadi S. Gunawi , Abhishek Rajimwale , Andrea C. Arpaci-Dusseau , Remzi H. Arpaci-Dusseau, SQCK: a declarative file system checker, Proceedings of the 8th USENIX conference on Operating systems design and implementation, p.131-146, December 08-10, 2008, San Diego, California
+R. Hagmann, Reimplementing the Cedar file system using logging and group commit, Proceedings of the eleventh ACM Symposium on Operating systems principles, p.155-162, November 08-11, 1987, Austin, Texas, USA[doi>10.1145/41457.37518]
+Val Henson , Amit Gud , Arjan van de Ven , Zach Brown, Chunkfs: using divide-and-conquer to improve file system reliability and repair, Proceedings of the Second conference on Hot topics in system dependability, p.7-7, November 08, 2006, Seattle, WA
+Dave Hitz , James Lau , Michael Malcolm, File system design for an NFS file server appliance, Proceedings of the USENIX Winter 1994 Technical Conference on USENIX Winter 1994 Technical Conference, p.19-19, January 17-21, 1994, San Francisco, California
+Kimberly Keeton , John Wilkes, Automating data dependability, Proceedings of the 10th workshop on ACM SIGOPS European workshop, July 01-01, 2002, Saint-Emilion, France[doi>10.1145/1133373.1133391]
+Ma, A., Dragga, C., Arpaci-Dusseau, A. C., and Arpaci-Dusseau, R. H. 2013. ffsck: The fast file system checker. InProceedings of the 11th Conference on File and Storage Technologies (FAST’13).
+Mathur, A., Cao, M., Bhattacharya, S., Dilger, A., Tomas, A., and Vivier, L. 2007. The new ext4 filesystem: Current status and future plans. InProceedings of the Ottowa Linux Symposium.
+May, T. C. and Woods, M. H. 1979. Alpha-particle-induced soft errors in dynamic memories.IEEE Trans. Electron Dev. 26, 1.
+Marshall Kirk McKusick, Running "Fsck" in the background, Proceedings of the BSD Conference 2002 on BSD Conference, p.7-7, February 11-14, 2002, San Francisco, California
+McKusick, M. K. 2013. Improving the performance of fsck in freebsd.;login:38, 2.
+Marshall Kirk McKusick , George V. Neville-Neil, The Design and Implementation of the FreeBSD Operating System, Pearson Education, 2004
+Marshall K. McKusick , William N. Joy , Samuel J. Leffler , Robert S. Fabry, A fast file system for UNIX, ACM Transactions on Computer Systems (TOCS), v.2 n.3, p.181-197, Aug. 1984[doi>10.1145/989.990]
+McKusick, M. K., Joy, W. N., Leffler, S. J., and Fabry, R. S. 1986. Fsck - The UNIX file system check program. Unix System Manager’s Manual - 4.3 BSD Virtual VAX-11 Version.
+NetApp. 2011. Overview of wafl_check. http://uadmin.nl/init/?p=900.
+David A. Patterson , Garth Gibson , Randy H. Katz, A case for redundant arrays of inexpensive disks (RAID), Proceedings of the 1988 ACM SIGMOD international conference on Management of data, p.109-116, June 01-03, 1988, Chicago, Illinois, USA[doi>10.1145/50202.50214]
+J. Kent Peacock , Ashvin Kamaraju , Sanjay Agrawal, Fast consistency checking for the Solaris file system, Proceedings of the annual conference on USENIX Annual Technical Conference, p.7-7, June 15-19, 1998, New Orleans, Louisiana
+Juan Piernas , Toni Cortes , Jose M. Garcia, The Design of New Journaling File Systems: The DualFS Case, IEEE Transactions on Computers, v.56 n.2, p.267-281, February 2007[doi>10.1109/TC.2007.36]
+Rai, A. 2008. Make ext3 fsck way faster {2.6.23.13}. http://lwn.net/Articles/264970/.
+Reiser, H. 2004. ReiserFS. www.namesys.com.
+Rodeh, O., Bacik, J., and Mason, C. 2012. Btrfs: The Linux b-tree filesystem. Tech. rep. RJ10501 (ALM1207-044), IBM Research.
+Mendel Rosenblum , John K. Ousterhout, The design and implementation of a log-structured file system, ACM Transactions on Computer Systems (TOCS), v.10 n.1, p.26-52, Feb. 1992[doi>10.1145/146941.146943]
+Sato, T. 2007. ext4 online defragmentation. http://ols.fedoraproject.org/OLS/Reprints-2007/sato-Reprint.pdf.
+Bianca Schroeder , Eduardo Pinheiro , Wolf-Dietrich Weber, DRAM errors in the wild: a large-scale field study, Proceedings of the eleventh international joint conference on Measurement and modeling of computer systems, June 15-19, 2009, Seattle, WA, USA[doi>10.1145/1555349.1555372]
+Thomas J.  E. Schwarz , Qin Xin , Ethan L. Miller , Darrell D.  E. Long , Andy Hospodor , Spencer Ng, Disk Scrubbing in Large Archival Storage Systems, Proceedings of the The IEEE Computer Society's 12th Annual International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunications Systems, p.409-418, October 04-08, 2004
+Sinofsky, S. 2012. Building the next generation file system for Windows: ReFS. http://blogs.msdn.com/b/b8/archive/2012/01/16/building-the-next-generation-file-system-for-windows-refs.aspx.
+Keith A. Smith , Margo Seltzer, A comparison of FFS disk allocation policies, Proceedings of the 1996 annual conference on USENIX Annual Technical Conference, p.2-2, January 22-26, 1996, San Diego, CA
+Smith, K. A. and Seltzer, M. I. 1997. File system aging. InProceedings of the Sigmetrics Conference.
+Christopher A. Stein , John H. Howard , Margo I. Seltzer, Unifying File System Protection, Proceedings of the General Track: 2002 USENIX Annual Technical Conference, p.79-90, June 25-30, 2001
+Sun Microsystems. 2006. ZFS: The last word in file systems. www.sun.com/2004-0914/feature/.
+Sundaram, R. 2006. The private lives of disk drives. http://partners.netapp.com/go/techontap/matl/sample/0206tot“.resiliency.html.
+Svanberg, V. 2009. Fsck takes too long on multiply-claimed blocks. http://old.nabble.com/Fsck-takes-too-long-on-multiply-claimed-blocks-td21972943.html.
+Adam Sweeney , Doug Doucette , Wei Hu , Curtis Anderson , Mike Nishimoto , Geoff Peck, Scalability in the XFS file system, Proceedings of the 1996 annual conference on USENIX Annual Technical Conference, p.1-1, January 22-26, 1996, San Diego, CA
+Michael M. Swift , Brian N. Bershad , Henry M. Levy, Improving the reliability of commodity operating systems, Proceedings of the nineteenth ACM symposium on Operating systems principles, October 19-22, 2003, Bolton Landing, NY, USA[doi>10.1145/945445.945466]
+The Data Clinic. 2004. Hard disk failure. http://www.dataclinic.co.uk/hard-disk-failures.htm.
+Tweedie, S. C. 1998. Journaling the Linux ext2fs file system. InProceedings of the 4th Annual Linux Expo.
+Junfeng Yang , Paul Twohey , Dawson Engler , Madanlal Musuvathi, Using model checking to find serious file system errors, Proceedings of the 6th conference on Symposium on Opearting Systems Design & Implementation, p.19-19, December 06-08, 2004, San Francisco, CA
+Junfeng Yang , Can Sar , Dawson Engler, EXPLODE: a lightweight, general system for finding serious storage system errors, Proceedings of the 7th USENIX Symposium on Operating Systems Design and Implementation, p.10-10, November 06-08, 2006, Seattle, WA
+Yupu Zhang , Abhishek Rajimwale , Andrea C. Arpaci-Dusseau , Remzi H. Arpaci-Dusseau, End-to-end data integrity for file systems: a ZFS case study, Proceedings of the 8th USENIX conference on File and storage technologies, p.3-3, February 23-26, 2010, San Jose, California
+Ziegler, J. F. and Lanford, W. A. 1979. Effect of cosmic rays on computer memories.Science 206, 4420, 776--788.

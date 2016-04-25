@@ -1,0 +1,38 @@
+Abd-El-Malek, M., Ii, W. V. C., Cranor, C., Ganger, G. R., Hendricks, J., Klosterman, A. J., Mesnier, M., Prasad, M., Salmon, B., Sambasivan, R. R., Sinnamohideen, S., Strunk, J. D., Thereska, E., Wachs, M., and Wylie, J. J. 2005. Ursa Minor: Versatile cluster-based storage. InProceedings of the FAST Conference.
+Amazon S3. 2012. http://aws.amazon.com/s3/.
+Luiz André Barroso , Urs Hölzle, The Case for Energy-Proportional Computing, Computer, v.40 n.12, p.33-37, December 2007[doi>10.1109/MC.2007.443]
+Chang, F., Dean, J., Ghemawat, S., Hsieh, W. C., Wallach, D. A., Burrows, M., Chandra, T., Fikes, A., and Gruber, R. E. 2006. Bigtable: A distributed storage system for structured data. InProceedings of the OSDI Conference.
+Jeffrey S. Chase , Darrell C. Anderson , Prachi N. Thakar , Amin M. Vahdat , Ronald P. Doyle, Managing energy and server resources in hosting centers, Proceedings of the eighteenth ACM symposium on Operating systems principles, October 21-24, 2001, Banff, Alberta, Canada[doi>10.1145/502034.502045]
+Carlo Curino , Evan Jones , Yang Zhang , Sam Madden, Schism: a workload-driven approach to database replication and partitioning, Proceedings of the VLDB Endowment, v.3 n.1-2, September 2010
+Curino, C., Jones, E., Popa, R. A., Malviya, N., Wu, E., Madden, S., Balakrishnan, H., and Zeldovich, N. 2011. Relational Cloud: A database service for the Cloud. InProceedings of the CIDR Conference.
+Sudipto Das , Shoji Nishimura , Divyakant Agrawal , Amr El Abbadi, Albatross: lightweight elasticity in shared storage databases for the cloud using live data migration, Proceedings of the VLDB Endowment, v.4 n.8, p.494-505, May 2011
+Jeffrey Dean , Sanjay Ghemawat, MapReduce: simplified data processing on large clusters, Proceedings of the 6th conference on Symposium on Opearting Systems Design & Implementation, p.10-10, December 06-08, 2004, San Francisco, CA
+Elmore, A., Das, S., Agrawal, D., and Abbadi, A. E. 2010. Who’s driving this Cloud? Towards efficient migration for elastic and autonomic multitenant databases. Tech. rep., University of California, Santa Barbara.
+Aaron J. Elmore , Sudipto Das , Divyakant Agrawal , Amr El Abbadi, Zephyr: live migration in shared nothing databases for elastic cloud platforms, Proceedings of the 2011 ACM SIGMOD International Conference on Management of data, June 12-16, 2011, Athens, Greece[doi>10.1145/1989323.1989356]
+Eric Anderson , Susan Spence , Ram Swaminathan , Mahesh Kallahalla , Qian Wang, Quickly finding near-optimal storage designs, ACM Transactions on Computer Systems (TOCS), v.23 n.4, p.337-374, November 2005[doi>10.1145/1113574.1113575]
+Ganesh, L., Weatherspoon, H., Balakrishnan, M., and Birman, K. 2007. Optimizing power consumption in large scale storage systems. InProceedings of the HOTOS Conference.
+Sanjay Ghemawat , Howard Gobioff , Shun-Tak Leung, The Google file system, ACM SIGOPS Operating Systems Review, v.37 n.5, December 2003[doi>10.1145/1165389.945450]
+Albert Greenberg , James R. Hamilton , Navendu Jain , Srikanth Kandula , Changhoon Kim , Parantap Lahiri , David A. Maltz , Parveen Patel , Sudipta Sengupta, VL2: a scalable and flexible data center network, Proceedings of the ACM SIGCOMM 2009 conference on Data communication, August 16-21, 2009, Barcelona, Spain[doi>10.1145/1592568.1592576]
+Ajay Gulati , Chethan Kumar , Irfan Ahmad , Karan Kumar, BASIL: automated IO load balancing across storage devices, Proceedings of the 8th USENIX conference on File and storage technologies, p.13-13, February 23-26, 2010, San Jose, California
+Frederick S. Hillier , Gerald J. Lieberman, Introduction to operations research, 4th ed., Holden-Day, Inc., San Francisco, CA, 1986
+Daniel Kunkle , Jiri Schindler, A load balancing framework for clustered storage systems, Proceedings of the 15th international conference on High performance computing, December 17-20, 2008, Bangalore, India
+Willis Lang , Jignesh M. Patel , Jeffrey F. Naughton, On energy management, load balancing and replication, ACM SIGMOD Record, v.38 n.4, December 2009[doi>10.1145/1815948.1815956]
+Lim, H. C., Babu, S., and Chase, J. S. 2010. Automated control for elastic storage. InProceedings of the ICAC Conference.
+Litwin, W. 1980. Linear hashing: A new tool for file and table addressing. InProceedings of the VLDB Conference.
+Dushyanth Narayanan , Austin Donnelly , Antony Rowstron, Write off-loading: Practical power management for enterprise storage, ACM Transactions on Storage (TOS), v.4 n.3, p.1-23, November 2008[doi>10.1145/1416944.1416949]
+Dushyanth Narayanan , Austin Donnelly , Eno Thereska , Sameh Elnikety , Antony Rowstron, Everest: scaling down peak loads through I/O off-loading, Proceedings of the 8th USENIX conference on Operating systems design and implementation, p.15-28, December 08-10, 2008, San Diego, California
+Sankar, S., Gurumurthi, S., and Stan, M. R. 2008. Sensitivity-based power management of enterprise storage systems. InProceedings of the MASCOTS Conference.
+Savinov, S. and Daudjee, K. 2010. Dynamic database replica provisioning through virtualization. InProceedings of the CloudDB Conference.
+Tam, H. V., Chen, C., and Ooi, B. C. 2010. Towards elastic transactional cloud storage with range query support. InProceedings of the VLDB Conference.
+Thereska, E., Donnelly, A., and Narayanan, C. 2009. Sierra: A power-proportional, distributed storage system. Tech. rep. MSR-TR-2009-153.
+Dimitris Tsirogiannis , Stavros Harizopoulos , Mehul A. Shah, Analyzing the energy efficiency of a database server, Proceedings of the 2010 ACM SIGMOD International Conference on Management of data, June 06-10, 2010, Indianapolis, Indiana, USA[doi>10.1145/1807167.1807194]
+Arun Venkataramani , Ravi Kokku , Mike Dahlin, TCP Nice: a mechanism for background transfers, Proceedings of the 5th symposium on Operating systems design and implementationCopyright restrictions prevent ACM from being able to make the PDFs for this conference available for downloading, December 09-11, 2002, Boston, Massachusetts[doi>10.1145/1060289.1060320]
+Verma, A., Ahuja, P., and Neogi, A. 2008. pMapper: Power and migration cost aware application placement in virtualized systems. InProceedings of the Middleware Conference.
+Akshat Verma , Ricardo Koller , Luis Useche , Raju Rangaswami, SRCMap: energy proportional storage using dynamic consolidation, Proceedings of the 8th USENIX conference on File and storage technologies, p.20-20, February 23-26, 2010, San Jose, California
+Wang, Z., Zhu, X., Singhal, S., and Packard, H. 2005. Utilization and SLO-based control for dynamic sizing of resource partitions. InProceedings of the DSOM Conference.
+Weil, S. A., Brand, S. A., Miller, E. L., Long, D. D. E., and Maltzahn, C. 2006. Ceph: A scalable, high-performance distributed file system. InProceedings of the OSDI Conference.
+Windows Azure. 2012. http://www.microsoft.com/windowsazure/.
+Xu, Z., Tu, Y.-C., and Wang, X. 2010. Exploring power-performance tradeoffs in database systems. InProceedings of the ICDE Conference.
+Yin, Q., Schüpbach, A., Cappos, J., Baumann, A., and Roscoe, T. 2009. Rhizoma: A runtime for self-deploying, self-managing overlays. InProceedings of the Middleware Conference.
+You, G., Hwang, S., Jain, N., and Zeng, H.-J. 2011. Scalable load balancing in cluster storage systems. InProceedings of the Middleware Conference.
+Lingfang Zeng , Dan Feng , Fang Wang , Ke Zhou, A Strategy of Load Balancing in Object Storage System, Proceedings of the The Fifth International Conference on Computer and Information Technology, p.310-314, September 21-23, 2005[doi>10.1109/CIT.2005.53]

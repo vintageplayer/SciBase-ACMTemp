@@ -1,0 +1,57 @@
+Adaptec, Inc.2009. MaxIQ SSD cache performance. White paper. www.adaptec.com/en-US/products/CloudComputing/-MaxIQ/SSD-Cache-Performance/index.htm.
+Nitin Agrawal , Vijayan Prabhakaran , Ted Wobber , John D. Davis , Mark Manasse , Rina Panigrahy, Design tradeoffs for SSD performance, USENIX 2008 Annual Technical Conference on Annual Technical Conference, p.57-70, June 22-27, 2008, Boston, Massachusetts
+Aleph One Ltd, Embedded Debian. 2002. Yaffs: A NAND-Flash Filesystem.
+Andrew W. Appel , Kai Li, Virtual memory primitives for user programs, ACM SIGPLAN Notices, v.26 n.4, p.96-107, Apr. 1991[doi>10.1145/106973.106984]
+Ayers, L.1997. E2compr: Transparent file compression for Linux. http://e2compr.sourceforge.net/.
+Deepak R. Bobbarjung , Suresh Jagannathan , Cezary Dubnicki, Improving duplicate elimination in storage systems, ACM Transactions on Storage (TOS), v.2 n.4, p.424-448, November 2006[doi>10.1145/1210596.1210599]
+Michael Burrows , Charles Jerian , Butler Lampson , Timothy Mann, On-line data compression in a log-structured file system, Proceedings of the fifth international conference on Architectural support for programming languages and operating systems, p.2-9, October 12-15, 1992, Boston, Massachusetts, USA[doi>10.1145/143365.143376]
+Vincent Cate , Thomas Gross, Combining the concepts of compression and caching for a two-level filesystem, Proceedings of the fourth international conference on Architectural support for programming languages and operating systems, p.200-211, April 08-11, 1991, Santa Clara, California, USA[doi>10.1145/106972.106993]
+Coffing, C. and Brown, J. H.1997. A survey of modern file compression techniques. http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.50.9847.
+Gordon V. Cormack, Data compression on a database system, Communications of the ACM, v.28 n.12, p.1336-1342, Dec. 1985[doi>10.1145/214956.214963]
+Deutsch, L. P. and Gailly, J.-L.1996. ZLIB Compressed Data Format Specification version 3.3. Internet RFC 1950.
+Cagdas Dirik , Bruce Jacob, The performance of PC solid-state disks (SSDs) as a function of bandwidth, concurrency, device architecture, and system organization, Proceedings of the 36th annual international symposium on Computer architecture, June 20-24, 2009, Austin, TX, USA[doi>10.1145/1555754.1555790]
+Fred Douglis, On the role of compression in distributed systems, Proceedings of the 5th workshop on ACM SIGOPS European workshop: Models and paradigms for distributed systems structuring, September 21-23, 1992, Mont Saint-Michel, France[doi>10.1145/506378.506397]
+Douglis, F.1993. The compression cache: Using on-line compression to extend physical memory. InProceedings of the Winter USENIX Conference. 519--529.
+Engel, J. and Mertens, R.2006. LogFS - finally a scalable flash file system. http://lazybastard.org/ joern/logfs1.pdf.
+Fusion-io. 2007. Fusion-IO’s solid state storage: A new standard for enterprise-class reliability. http://www.fusionio.com.
+Gupta, N.2010. Compcache: Compressed in-memory swap device for Linux. http://code.google.com/p/compcache.
+Katcher, J.1997. PostMark: A new file system benchmark. http:// www.netapp.com/ tech_library/3022.html.
+Taeho Kgil , Trevor Mudge, FlashCache: a NAND flash memory file cache for low power web servers, Proceedings of the 2006 international conference on Compilers, architecture and synthesis for embedded systems, October 22-25, 2006, Seoul, Korea[doi>10.1145/1176760.1176774]
+Hyojun Kim , Seongjun Ahn, BPLRU: a buffer management scheme for improving random writes in flash storage, Proceedings of the 6th USENIX Conference on File and Storage Technologies, p.1-14, February 26-29, 2008, San Jose, California
+Sang-Won Lee , Bongki Moon , Chanik Park , Jae-Myung Kim , Sang-Woo Kim, A case for flash memory ssd in enterprise database applications, Proceedings of the 2008 ACM SIGMOD international conference on Management of data, June 09-12, 2008, Vancouver, Canada[doi>10.1145/1376616.1376723]
+Debra A. Lelewer , Daniel S. Hirschberg, Data compression, ACM Computing Surveys (CSUR), v.19 n.3, p.261-296, Sept. 1987[doi>10.1145/45072.45074]
+Adam Leventhal, Flash storage memory, Communications of the ACM, v.51 n.7, July 2008[doi>10.1145/1364782.1364796]
+Lougher, P. and Lougher, R.2008. SquashFS. http://squashfs.sourceforge.net.
+Thanos Makatos , Yannis Klonatos , Manolis Marazakis , Michail D. Flouris , Angelos Bilas, Using transparent compression to improve SSD-based I/O caches, Proceedings of the 5th European conference on Computer systems, April 13-16, 2010, Paris, France[doi>10.1145/1755913.1755915]
+Thanos Makatos , Yannis Klonatos , Manolis Marazakis , Michail D. Flouris , Angelos Bilas, ZBD: Using Transparent Compression at the Block Level to Increase Storage Space Efficiency, Proceedings of the 2010 International Workshop on Storage Network Architecture and Parallel I/Os, p.61-70, May 03-03, 2010[doi>10.1109/SNAPI.2010.15]
+Udi Manber, Finding similar files in a large file system, Proceedings of the USENIX Winter 1994 Technical Conference on USENIX Winter 1994 Technical Conference, p.2-2, January 17-21, 1994, San Francisco, California
+David Meisner , Brian T. Gold , Thomas F. Wenisch, PowerNap: eliminating server idle power, Proceedings of the 14th international conference on Architectural support for programming languages and operating systems, March 07-11, 2009, Washington, DC, USA[doi>10.1145/1508244.1508269]
+Microsoft Corporation. 2008. Understanding NTFS Compression. http://blogs.msdn.com/ntdebugging/archive/2008/05/20/-understanding-ntfs-compression.aspx.
+Microsoft Corporation. 2009. Best practices for NTFS compression in Windows. support.microsoft.com/default.aspx?scid=kb;en-us;Q251186.
+Microsoft Corporation. 2010. Explore the features: Windows ReadyBoost. www.microsoft.com/windows/windows-vista/features/readyboost.aspx.
+Dushyanth Narayanan , Eno Thereska , Austin Donnelly , Sameh Elnikety , Antony Rowstron, Migrating server storage to SSDs: analysis of tradeoffs, Proceedings of the 4th ACM European conference on Computer systems, April 01-03, 2009, Nuremberg, Germany[doi>10.1145/1519065.1519081]
+Wee Keong Ng , Chinya V. Ravishankar, Block-Oriented Compression Techniques for Large Statistical Databases, IEEE Transactions on Knowledge and Data Engineering, v.9 n.2, p.314-328, March 1997[doi>10.1109/69.591455]
+North American Systems International, Inc.FalconStor HotZone - Maximize the performance of your SAN. http://www.nasi.com/hotZone.php.
+Oberhumer, M. F. X. J.2008. LZO--A real-time data compression library. http://www.oberhumer.com/opensource/lzo/.
+Oracle Corporation and Sun Microsystems, Inc.2009. Oracle Solaris ZFS. http://www.oracle.com/us/products/servers-storage/storage/storage-software/031857.htm.
+Meikel Poess , Dmitry Potapov, Data compression in Oracle, Proceedings of the 29th international conference on Very large data bases, p.937-947, September 09-12, 2003, Berlin, Germany
+Abhishek Rajimwale , Vijayan Prabhakaran , John D. Davis, Block management in solid-state devices, Proceedings of the 2009 conference on USENIX Annual technical conference, p.21-21, June 14-19, 2009, San Diego, California
+Luigi Rizzo, A very fast algorithm for RAM compression, ACM SIGOPS Operating Systems Review, v.31 n.2, p.36-45, April 1997[doi>10.1145/250007.250012]
+Mendel Rosenblum , John K. Ousterhout, The design and implementation of a log-structured file system, ACM Transactions on Computer Systems (TOCS), v.10 n.1, p.26-52, Feb. 1992[doi>10.1145/146941.146943]
+Russel, P.2002. The compressed loopback device. http://www.knoppix.net/wiki/Cloop.
+Savage, S.2006. CBD compressed block device, new embedded block device. http://lwn.net/Articles/168725.
+M. E. Gonzalez Smith , J. A. Storer, Parallel algorithms for data compression, Journal of the ACM (JACM), v.32 n.2, p.344-373, April 1985[doi>10.1145/3149.3152]
+SPEC. 2008a. SPECsfs2008: SPEC’s benchmark designed to evaluate the speed and request-handling capabilities of file servers utilizing the NFSv3 and CIFS protocols. http://www.spec.org/sfs2008/.
+SPEC. 2008b. SPECsfs2008_cifs published results, as of Nov-10-2009. http://www.spec.org/sfs2008/results/-sfs2008.html.
+SPEC. 2009. SPECmail2009 published results, as of Nov-06-2009. http://www.spec.org/mail2009/results/-specmail_ent2009.html.
+Svoboda, M.2010. FuseCompress, a mountable Linux file system which transparently compress its content. http://miio.net/wordpress/projects/fusecompress/.
+Thomas, C. and Wong, M.2007. Database Test 2 (DBT-2), an OLTP transactional performance test. http://osdldbt.sourceforge.net/.
+TPC. 1997. Overview of the TPC benchmark C: The order-entry benchmark. http://www.tpc.org/tpcc/default.asp.
+TPC. 2009a. Top ten non-clustered TPC-H published results by performance. http://tpc.org/tpch/results/tpch_perf_results.asp?resulttype=noncluster.
+TPC. 2009b. TPC-H: An ad-hoc, decision support benchmark. www.tpc.org/tpch.
+T. A. Welch, A Technique for High-Performance Data Compression, Computer, v.17 n.6, p.8-19, June 1984[doi>10.1109/MC.1984.1659158]
+Paul R. Wilson , Scott F. Kaplan , Yannis Smaragdakis, The case for compressed caching in virtual memory systems, Proceedings of the annual conference on USENIX Annual Technical Conference, p.8-8, June 06-11, 1999, Monterey, California
+Woodhouse, D.2001. JFFS: The Journalling Flash File System. http://www.csie.nctu.edu.tw/~ijsung/documents/jffs2.pdf.
+Lei Yang , Robert P. Dick , Haris Lekatsas , Srimat Chakradhar, CRAMES: compressed RAM for embedded systems, Proceedings of the 3rd IEEE/ACM/IFIP international conference on Hardware/software codesign and system synthesis, September 19-21, 2005, Jersey City, NJ, USA[doi>10.1145/1084834.1084861]
+Benjamin Zhu , Kai Li , Hugo Patterson, Avoiding the disk bottleneck in the data domain deduplication file system, Proceedings of the 6th USENIX Conference on File and Storage Technologies, p.1-14, February 26-29, 2008, San Jose, California
+J. Ziv , A. Lempel, A universal algorithm for sequential data compression, IEEE Transactions on Information Theory, v.23 n.3, p.337-343, May 1977[doi>10.1109/TIT.1977.1055714]

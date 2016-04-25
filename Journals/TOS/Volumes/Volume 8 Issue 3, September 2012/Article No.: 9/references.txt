@@ -1,0 +1,44 @@
+Abd-El-Malek, M., Wachs, M., Cipar, J., Sanghi, K., Ganger, G. R., Gibson, G. A., and Reiter, M. K. 2009. File system virtual appliances: Portable file system implementations. Tech. rep., Parallel Data Lab, Carnegie Mellon University.
+Paul Barham , Boris Dragovic , Keir Fraser , Steven Hand , Tim Harris , Alex Ho , Rolf Neugebauer , Ian Pratt , Andrew Warfield, Xen and the art of virtualization, Proceedings of the nineteenth ACM symposium on Operating systems principles, October 19-22, 2003, Bolton Landing, NY, USA[doi>10.1145/945445.945462]
+Bershad, B. N. and Pinkerton, C. B. 1988. Watchdogs: Extending the UNIX File System. In Proceedings of the USENIX Annual Technical Conference. 267--275.
+T. L. Borden , J. P. Hennessy , J. W. Rymarczyk, Multiple operating systems on one processor complex, IBM Systems Journal, v.28 n.1, p.104-123, 1989[doi>10.1147/sj.281.0104]
+Anton Burtsev , Kiran Srinivasan , Prashanth Radhakrishnan , Lakshmi N. Bairavasundaram , Kaladhar Voruganti , Garth R. Goodson, Fido: fast inter-virtual-machine communication for enterprise appliances, Proceedings of the 2009 conference on USENIX Annual technical conference, p.25-25, June 14-19, 2009, San Diego, California
+Callaghan, B. and Lyon, T. 1989. The automounter. In Proceedings of the USENIX Annual Technical Conference. 43--51.
+Philip H. Carns , Walter B. Ligon, III , Robert B. Ross , Rajeev Thakur, PVFS: a parallel file system for linux clusters, Proceedings of the 4th annual Linux Showcase & Conference, p.28-28, October 10-14, 2000, Atlanta, Georgia
+Christopher Clark , Keir Fraser , Steven Hand , Jacob Gorm Hansen , Eric Jul , Christian Limpach , Ian Pratt , Andrew Warfield, Live migration of virtual machines, Proceedings of the 2nd conference on Symposium on Networked Systems Design & Implementation, p.273-286, May 02-04, 2005
+Software product lines: practices and patterns, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 2001
+M. R. Ebling , L. B. Mummert , D. C. Steere, Overcoming the Network Bottleneck in Mobile Computing, Proceedings of the 1994 First Workshop on Mobile Computing Systems and Applications, p.34-36, December 08-09, 1994[doi>10.1109/WMCSA.1994.30]
+Heiko Eißfeldt, POSIX: a developer's view of standards, Proceedings of the annual conference on USENIX Annual Technical Conference, p.24-24, January 06-10, 1997, Anaheim, California
+Michael Eisler , Peter Corbett , Michael Kazar , Daniel S. Nydick , Christopher Wagner, Data ONTAP GX: a scalable storage cluster, Proceedings of the 5th USENIX conference on File and Storage Technologies, p.23-23, February 13-16, 2007, San Jose, CA
+Fraser, K., Hand, S., Neugebauer, R., Pratt, I., Warfield, A., and Williams On, M. 2004. Reconstructing I/O. Tech. rep., Computer Laboratory, University of Cambridge.
+FUSE. FUSE: Filesystem In userspace. http://fuse.sourceforge.net.
+Gingell, R. A., Moran, J. P., and Shannon, W. A. 1987. Virtual memory architecture in SunOS. In Proceedings of the USENIX Annual Technical Conference. 81--94.
+Diwaker Gupta , Ludmila Cherkasova , Rob Gardner , Amin Vahdat, Enforcing performance isolation across virtual machines in Xen, Proceedings of the ACM/IFIP/USENIX 2006 International Conference on Middleware, November 01-01, 2006, Melbourne, Australia
+Antti Kantee, Rump file systems: kernel code reborn, Proceedings of the 2009 conference on USENIX Annual technical conference, p.15-15, June 14-19, 2009, San Diego, California
+Katcher, J. 1997. PostMark: A new file system benchmark. Tech. rep., Network Appliance, Inc.
+Kleiman, S. R. 1986. Vnodes: An architecture for multiple file system types in Sun Unix. In Proceedings of the USENIX Annual Technical Conference. 238--247.
+Joshua LeVasseur , Volkmar Uhlig , Jan Stoess , Stefan Götz, Unmodified device driver reuse and improved system dependability via virtual machines, Proceedings of the 6th conference on Symposium on Opearting Systems Design & Implementation, p.2-2, December 06-08, 2004, San Francisco, CA
+David Mazières, A Toolkit for User-Level File Systems, Proceedings of the General Track: 2002 USENIX Annual Technical Conference, p.261-274, June 25-30, 2001
+Dutch T. Meyer , Gitika Aggarwal , Brendan Cully , Geoffrey Lefebvre , Michael J. Feeley , Norman C. Hutchinson , Andrew Warfield, Parallax: virtual disks for virtual machines, Proceedings of the 3rd ACM SIGOPS/EuroSys European Conference on Computer Systems 2008, April 01-04, 2008, Glasgow, Scotland UK[doi>10.1145/1352592.1352598]
+Yoann Padioleau , Julia Lawall , René Rydhof Hansen , Gilles Muller, Documenting and automating collateral evolutions in linux device drivers, Proceedings of the 3rd ACM SIGOPS/EuroSys European Conference on Computer Systems 2008, April 01-04, 2008, Glasgow, Scotland UK[doi>10.1145/1352592.1352618]
+R. H. Patterson , G. A. Gibson , E. Ginting , D. Stodolsky , J. Zelenka, Informed prefetching and caching, Proceedings of the fifteenth ACM symposium on Operating systems principles, p.79-95, December 03-06, 1995, Copper Mountain, Colorado, USA[doi>10.1145/224056.224064]
+Ben Pfaff , Mendel Rosenblum, Improving virtual hardware interfaces, Stanford University, Stanford, CA, 2008
+Ben Pfaff , Tal Garfinkel , Mendel Rosenblum, Virtualization aware file systems: getting beyond the limitations of virtual disks, Proceedings of the 3rd conference on Networked Systems Design & Implementation, p.26-26, May 08-10, 2006, San Jose, CA
+Redhat. 2004. Bug 111656: In 2.4.20.-20.7 memory module, rebalance laundry zone() does not respect gfp mask GFP - NOFS. https://bugzilla.redhat.com/show_bug.cgi&quest;id=111656.
+Mendel Rosenblum, The Reincarnation of Virtual Machines, Queue, v.2 n.5, July/August 2004[doi>10.1145/1016998.1017000]
+Mendel Rosenblum , John K. Ousterhout, The design and implementation of a log-structured file system, ACM Transactions on Computer Systems (TOCS), v.10 n.1, p.26-52, Feb. 1992[doi>10.1145/146941.146943]
+Constantine Sapuntzakis , Monica S. Lam, Virtual appliances in the collective: a road to hassle-free computing, Proceedings of the 9th conference on Hot Topics in Operating Systems, p.10-10, May 18-21, 2003, Lihue, Hawaii
+Frank Schmuck , Roger Haskin, GPFS: A Shared-Disk File System for Large Computing Clusters, Proceedings of the 1st USENIX Conference on File and Storage Technologies, January 28-30, 2002, Monterey, CA
+Chuck Silvers, UBC: an efficient unified I/O and memory caching subsystem for NetBSD, Proceedings of the annual conference on USENIX Annual Technical Conference, p.54-54, June 18-23, 2000, San Diego, California
+James E. Smith , Ravi Nair, The Architecture of Virtual Machines, Computer, v.38 n.5, p.32-38, May 2005[doi>10.1109/MC.2005.173]
+Chandramohan A. Thekkath , John Wilkes , Edward D. Lazowska, Techniques for file system simulation, Software—Practice & Experience, v.24 n.11, p.981-999, Nov. 1994[doi>10.1002/spe.4380241102]
+Carl A. Waldspurger, Memory resource management in VMware ESX server, Proceedings of the 5th symposium on Operating systems design and implementationCopyright restrictions prevent ACM from being able to make the PDFs for this conference available for downloading, December 09-11, 2002, Boston, Massachusetts[doi>10.1145/1060289.1060307]
+Andrew Warfield , Steven Hand , Keir Fraser , Tim Deegan, Facilitating the development of soft devices, Proceedings of the annual conference on USENIX Annual Technical Conference, p.22-22, April 10-15, 2005, Anaheim, CA
+Watson, A., Benn, P., and Yoder, A. G. 2001. Multiprotocol data access: NFS, CIFS, and HTTP. Tech. rep., Network Appliance, Inc.
+Webber, N. 1993. Operating system support for portable filesystem extensions. In Proceedings of the USENIX Annual Technical Conference. 219--228.
+Carsten Weinhold , Hermann Härtig, VPFS: building a virtual private file system with a small trusted computing base, Proceedings of the 3rd ACM SIGOPS/EuroSys European Conference on Computer Systems 2008, April 01-04, 2008, Glasgow, Scotland UK[doi>10.1145/1352592.1352602]
+Brent Welch , Marc Unangst , Zainul Abbasi , Garth Gibson , Brian Mueller , Jason Small , Jim Zelenka , Bin Zhou, Scalable performance of the Panasas parallel file system, Proceedings of the 6th USENIX Conference on File and Storage Technologies, p.1-17, February 26-29, 2008, San Jose, California
+Williamson, M. 2009. XenFS. http://wiki.xensource.com/xenwiki/XenFS.
+Junfeng Yang , Can Sar , Paul Twohey , Cristian Cadar , Dawson Engler, Automatically Generating Malicious Disks using Symbolic Execution, Proceedings of the 2006 IEEE Symposium on Security and Privacy, p.243-257, May 21-24, 2006[doi>10.1109/SP.2006.7]
+Erez Zadok , Jason Nieh, FiST: a language for stackable file systems, Proceedings of the annual conference on USENIX Annual Technical Conference, p.5-5, June 18-23, 2000, San Diego, California
+Zhao, X., Prakash, A., Noble, B., and Borders, K. 2006. Improving distributed file system performance in virtual machine environments. Tech. rep., University of Michigan.

@@ -1,0 +1,62 @@
+Nitin Agrawal , Vijayan Prabhakaran , Ted Wobber , John D. Davis , Mark Manasse , Rina Panigrahy, Design tradeoffs for SSD performance, USENIX 2008 Annual Technical Conference on Annual Technical Conference, p.57-70, June 22-27, 2008, Boston, Massachusetts
+Mahesh Balakrishnan , Asim Kadav , Vijayan Prabhakaran , Dahlia Malkhi, Differential RAID: Rethinking RAID for SSD reliability, ACM Transactions on Storage (TOS), v.6 n.2, p.1-22, July 2010[doi>10.1145/1807060.1807061]
+Sorav Bansal , Dharmendra S. Modha, CAR: Clock with Adaptive Replacement, Proceedings of the 3rd USENIX Conference on File and Storage Technologies, March 31-31, 2004, San Francisco, CA
+Bez, R., Camerlenghi, E., Modelli, A., and Visconti, A. 2003. Introduction to flash memory. Proc. IEEE 91, 489--502.
+Yuan-Hao Chang , Jian-Hong Lin , Jen-Wei Hsieh , Tei-Wei Kuo, A strategy to emulate NOR flash with NAND flash, ACM Transactions on Storage (TOS), v.6 n.2, p.1-23, July 2010[doi>10.1145/1807060.1807062]
+Yuan-Hao Chang , Jen-Wei Hsieh , Tei-Wei Kuo, Endurance enhancement of flash-memory storage systems: an efficient static wear leveling design, Proceedings of the 44th annual Design Automation Conference, June 04-08, 2007, San Diego, California[doi>10.1145/1278480.1278533]
+Feng Chen , Rubao Lee , Xiaodong Zhang, Essential roles of exploiting internal parallelism of flash memory based solid state drives in high-speed data processing, Proceedings of the 2011 IEEE 17th International Symposium on High Performance Computer Architecture, p.266-277, February 12-16, 2011
+Eetimes. 2010. http://www.eetimes.com/electronics-news/4207194/Toshiba_rolls_24_nm_NAND_flash.
+Engadet. http://www.engadget.com/2010/04/19/.
+Binny S. Gill , Dharmendra S. Modha, WOW: wise ordering for writes - combining spatial and temporal locality in non-volatile caches, Proceedings of the 4th conference on USENIX Conference on File and Storage Technologies, p.10-10, December 13-16, 2005, San Francisco, CA
+Aayush Gupta , Youngjae Kim , Bhuvan Urgaonkar, DFTL: a flash translation layer employing demand-based selective caching of page-level address mappings, Proceedings of the 14th international conference on Architectural support for programming languages and operating systems, March 07-11, 2009, Washington, DC, USA[doi>10.1145/1508244.1508271]
+Aayush Gupta , Raghav Pisolkar , Bhuvan Urgaonkar , Anand Sivasubramaniam, Leveraging value locality in optimizing NAND flash-based SSDs, Proceedings of the 9th USENIX conference on File and stroage technologies, p.7-7, February 15-17, 2011, San Jose, California
+Hat, R. 2010. The journalling flash file system, version 2. http://sourceware.org/jffs2/.
+Hewlett-Packard Laboratories. cello99 traces. http://tesla.hpl.hp.com/opensource/.
+Jian Hu , Hong Jiang , Lei Tian , Lei Xu, PUD-LRU: An Erase-Efficient Write Buffer Management Algorithm for Flash Memory SSD, Proceedings of the 2010 IEEE International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems, p.69-78, August 17-19, 2010[doi>10.1109/MASCOTS.2010.16]
+Hutsell, W., Bowen, J., and Ekker, N. 2008. Flash solid-state disk reliability. Tech. rep.
+Intel. 2009. Intel X25-M SATA Solid State Drive. http://download.intel.com/design/flash/nand/mainstream/322296.pdf.
+Intel. 2010. http://www.intel.com/pressroom/archive/releases/20100201comp.htm.
+Song Jiang , Xiaoning Ding , Feng Chen , Enhua Tan , Xiaodong Zhang, DULO: an effective buffer cache management scheme to exploit both temporal and spatial locality, Proceedings of the 4th conference on USENIX Conference on File and Storage Technologies, p.8-8, December 13-16, 2005, San Francisco, CA
+Song Jiang , Xiaodong Zhang, LIRS: an efficient low inter-reference recency set replacement policy to improve buffer cache performance, Proceedings of the 2002 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 15-19, 2002, Marina Del Rey, California[doi>10.1145/511334.511340]
+Heeseung Jo , Jeong-Uk Kang , Seon-Yeong Park , Jin-Soo Kim , Joonwon Lee, FAB: flash-aware buffer management policy for portable media players, IEEE Transactions on Consumer Electronics, v.52 n.2, p.485-493, September 2006[doi>10.1109/TCE.2006.1649669]
+Theodore Johnson , Dennis Shasha, 2Q: A Low Overhead High Performance Buffer Management Replacement Algorithm, Proceedings of the 20th International Conference on Very Large Data Bases, p.439-450, September 12-15, 1994
+William K. Josephson , Lars A. Bongo , Kai Li , David Flynn, DFS: A file system for virtualized flash storage, ACM Transactions on Storage (TOS), v.6 n.3, p.1-25, September 2010[doi>10.1145/1837915.1837922]
+Jaemin Jung , Youjip Won , Eunki Kim , Hyungjong Shin , Byeonggil Jeon, FRASH: Exploiting storage class memory in hybrid file system for hierarchical storage, ACM Transactions on Storage (TOS), v.6 n.1, p.1-25, March 2010[doi>10.1145/1714454.1714457]
+Jeong-Uk Kang , Heeseung Jo , Jin-Soo Kim , Joonwon Lee, A superblock-based flash translation layer for NAND flash memory, Proceedings of the 6th ACM & IEEE International conference on Embedded software, October 22-25, 2006, Seoul, Korea[doi>10.1145/1176887.1176911]
+Sooyong Kang , Sungmin Park , Hoyoung Jung , Hyoki Shim , Jaehyuk Cha, Performance Trade-Offs in Using NVRAM Write Buffer for Flash Memory-Based Storage Devices, IEEE Transactions on Computers, v.58 n.6, p.744-758, June 2009[doi>10.1109/TC.2008.224]
+Ramakrishna Karedla , J. Spencer Love , Bradley G. Wherry, Caching strategies to improve disk system performance, Computer, v.27 n.3, p.38-46, March 1994[doi>10.1109/2.268884]
+Hyojun Kim , Seongjun Ahn, BPLRU: a buffer management scheme for improving random writes in flash storage, Proceedings of the 6th USENIX Conference on File and Storage Technologies, p.1-14, February 26-29, 2008, San Jose, California
+Jong Min Kim , Jongmoo Choi , Jesung Kim , Sam H. Noh , Sang Lyul Min , Yookun Cho , Chong Sang Kim, A low-overhead high-performance unified buffer management scheme that exploits sequential and looping references, Proceedings of the 4th conference on Symposium on Operating System Design & Implementation, p.9-9, October 22-25, 2000, San Diego, California
+Jesung Kim , Jong Min Kim , S. H. Noh , Sang Lyul Min , Yookun Cho, A space-efficient flash translation layer for CompactFlash systems, IEEE Transactions on Consumer Electronics, v.48 n.2, p.366-375, May 2002[doi>10.1109/TCE.2002.1010143]
+D. Lee , J. Choi , J. H. Kim , S. H. Noh , S. L. Min , Y. Cho , C. S. Kim, LRFU: A Spectrum of Policies that Subsumes the Least Recently Used and Least Frequently Used Policies, IEEE Transactions on Computers, v.50 n.12, p.1352-1361, December 2001[doi>10.1109/TC.2001.970573]
+Sungjin Lee , Keonsoo Ha , Kangwon Zhang , Jihong Kim , Junghwan Kim, FlexFS: a flexible flash file system for MLC NAND flash memory, Proceedings of the 2009 conference on USENIX Annual technical conference, p.9-9, June 14-19, 2009, San Diego, California
+Sungjin Lee , Dongkun Shin , Young-Jin Kim , Jihong Kim, LAST: locality-aware sector translation for NAND flash memory-based storage systems, ACM SIGOPS Operating Systems Review, v.42 n.6, October 2008[doi>10.1145/1453775.1453783]
+Lee, S.-W., Park, D.-J., Chung, T.-S., Lee, D.-H., Park, S.-W., and Song, H.-J. 2005. FAST: An FTL scheme with fully associative sector translations. In Proceedings of the UKC Conference. UKC.
+Yong-Goo Lee , Dawoon Jung , Dongwon Kang , Jin-Soo Kim, μ-FTL:: a memory-efficient flash translation layer supporting multiple mapping granularities, Proceedings of the 8th ACM international conference on Embedded software, October 19-24, 2008, Atlanta, GA, USA[doi>10.1145/1450058.1450063]
+Manning, C. 2010. Yet another flash file system. http://www.yaffs.net/.
+Mason, L. 2009. Rethinking SSDs. http://www.denali.com/wordpress/index.php/dmr/2009/07/23/rethinking-ssds.
+Nimrod Megiddo , Dharmendra S. Modha, ARC: A Self-Tuning, Low Overhead Replacement Cache, Proceedings of the 2nd USENIX Conference on File and Storage Technologies, March 31-31, 2003, San Francisco, CA
+Nimrod Megiddo , Dharmendra S. Modha, Outperforming LRU with an Adaptive Replacement Cache Algorithm, Computer, v.37 n.4, p.58-65, April 2004[doi>10.1109/MC.2004.1297303]
+Newegg. 2009a. Intel X25-M Mainstream SSDSA2MH160G2C1 2.5-inch160GB SATA II MLC Internal Solid state disk (SSD). http://www.newegg.com/Product/Product.aspx?Item=N82E16820167017.
+Newegg. 2009b. Western Digital VelociRaptor WD3000HLFS 300GB 10000 RPM 16MB cache SATA 3.0Gb/s 3.5-inch internal hard drive---OEM. http://www.newegg.com/Product/Product.aspx?Item= N82E16822136322.
+Victor F. Nicola , Asit Dan , Daniel M. Dias, Analysis of the generalized clock buffer replacement scheme for database transaction processing, Proceedings of the 1992 ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems, p.35-46, June 01-05, 1992, Newport, Rhode Island, USA[doi>10.1145/133057.133084]
+Elizabeth J. O'Neil , Patrick E. O'Neil , Gerhard Weikum, The LRU-K page replacement algorithm for database disk buffering, Proceedings of the 1993 ACM SIGMOD international conference on Management of data, p.297-306, May 25-28, 1993, Washington, D.C., USA[doi>10.1145/170035.170081]
+ONFI. 2010. http://onfi.org/.
+Seon-yeong Park , Dawoon Jung , Jeong-uk Kang , Jin-soo Kim , Joonwon Lee, CFLRU: a replacement algorithm for flash memory, Proceedings of the 2006 international conference on Compilers, architecture and synthesis for embedded systems, October 22-25, 2006, Seoul, Korea[doi>10.1145/1176760.1176789]
+Qing Yang , Jin Ren, I-CASH: Intelligently Coupled Array of SSD and HDD, Proceedings of the 2011 IEEE 17th International Symposium on High Performance Computer Architecture, p.278-289, February 12-16, 2011
+Mendel Rosenblum , John K. Ousterhout, The design and implementation of a log-structured file system, ACM Transactions on Computer Systems (TOCS), v.10 n.1, p.26-52, Feb. 1992[doi>10.1145/146941.146943]
+Samsung. 2010. http://www.samsung.com/global/business/semiconductor/products/fusionmemory/Products-OneNAND.html.
+Hyotaek Shim , Bon-Keun Seo , Jin-Soo Kim , Seungryoul Maeng, An adaptive partitioning scheme for DRAM-based cache in Solid State Drives, Proceedings of the 2010 IEEE 26th Symposium on Mass Storage Systems and Technologies (MSST), p.1-12, May 03-07, 2010[doi>10.1109/MSST.2010.5496995]
+Shimpi, A. L. 2009. Intel x25-m g2: Dissected and performance preview. http://www.anandtech.com/storage/showdoc.aspx?i=3607.
+SiliconSystems. 2005. Increasing flash solid state disk reliability. Tech. rep.
+SimpleScalar LLC. 2009. The simplescalar tool set. http://www.simplescalar.com/.
+Gokul Soundararajan , Vijayan Prabhakaran , Mahesh Balakrishnan , Ted Wobber, Extending SSD lifetimes with disk-based write caches, Proceedings of the 8th USENIX conference on File and storage technologies, p.8-8, February 23-26, 2010, San Jose, California
+Storage Performance Council. 2010. SPC trace file format specification. http://traces.cs.umass.edu/index. php/Storage/Storage.
+Sun, G., Joo, Y., Chen, Y., Niu, D., Xie, Y., Chen, Y., and Li, H. 2010. A hybrid solid-state storage architecture for the performance, energy consumption, and lifetime improvement. In Proceedings of the 16th IEEE International Symposium on High-Performance Computer Architecture (HPCA-16). IEEE, 141--153.
+Toshiba. 2010. http://www.toshiba.com/taec/news/press-releases/2006/memy-06-337.jsp.
+UMASS. 2007. Umass trace repository. http://traces.cs.umass.edu/index.php/Storage/Storage.
+Yang Wang , Jiwu Shu , Guangyan Zhang , Wei Xue , Weimin Zheng, SOPA: Selecting the optimal caching policy adaptively, ACM Transactions on Storage (TOS), v.6 n.2, p.1-18, July 2010[doi>10.1145/1807060.1807064]
+Western Digital. December 2008. WD VelociRaptor SATA hard drives. http://www.wdc.com/en/library/sata/2879-701282.pdf.
+Chin-Hsien Wu , Tei-Wei Kuo, An adaptive two-level management for the flash translation layer in embedded systems, Proceedings of the 2006 IEEE/ACM international conference on Computer-aided design, November 05-09, 2006, San Jose, California[doi>10.1145/1233501.1233624]
+Yuanyuan Zhou , Zhifeng Chen , Kai Li, Second-Level Buffer Cache Management, IEEE Transactions on Parallel and Distributed Systems, v.15 n.6, p.505-519, June 2004[doi>10.1109/TPDS.2004.13]
+Yuanyuan Zhou , James Philbin , Kai Li, The Multi-Queue Replacement Algorithm for Second Level Buffer Caches, Proceedings of the General Track: 2002 USENIX Annual Technical Conference, p.91-104, June 25-30, 2001

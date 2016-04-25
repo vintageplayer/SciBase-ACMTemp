@@ -1,0 +1,36 @@
+A. Al Ghouwayel, Y. Louet, A. Nafkha, and J. Palicot. 2007. On the FPGA implementation of the Fourier transform over finite fieldsGF(2<sup>m</sup>). In Proceedings of the International Symposium on Communications and Information Technologies (ISCIT’07). 146--151.
+S. Bellini, M. Ferrari, and A. Tomasoni. 2011. On the structure of cyclotomic Fourier transforms and their applications to Reed-Solomon codes. IEEE Transactions on Communications 59, 8, 2110--2118.
+Raghav Bhaskar , Pradeep K. Dubey , Vijay Kumar , Atri Rudra, Efficient galois field arithmetic on SIMD architectures, Proceedings of the fifteenth annual ACM symposium on Parallel algorithms and architectures, June 07-09, 2003, San Diego, California, USA[doi>10.1145/777412.777458]
+R. Blahut. 1984. Theory and Practice of Error Control Codes. Addison-Wesley.
+Mario Blaum , Jim Brady , Jehoshua Bruck , Jai Menon, EVENODD: An Efficient Scheme for Tolerating Double Disk Failures in RAID Architectures, IEEE Transactions on Computers, v.44 n.2, p.192-202, February 1995[doi>10.1109/12.364531]
+J. Blomer, M. Kalfanej, R. Karp, M. Karpinski, M. Luby, and D. Zuckerman. 1995. An XOR-Based Erasure-Resilient Coding Scheme. Tech. Rep., International Computer Science Institute, Berkeley, California.
+Ning Chen , Zhiyuan Yan, Cyclotomic FFTs with reduced additive complexities based on a novel common subexpression elimination algorithm, IEEE Transactions on Signal Processing, v.57 n.3, p.1010-1020, March 2009[doi>10.1109/TSP.2008.2009891]
+N. Chen and Z. Yan. 2009b. Reduced-complexity Reed-Solomon decoders based on cyclotomic FFTs. IEEE Signal Processing Letters 16, 4, 279--282.
+E. Chu and A. George. 2000. Inside the FFT Black Box: Serial and Parallel Fast Fourier Transform Algorithms. CRC Press.
+Peter Corbett , Bob English , Atul Goel , Tomislav Grcanac , Steven Kleiman , James Leong , Sunitha Sankar, Row-diagonal parity for double disk failure correction, Proceedings of the 3rd USENIX conference on File and storage technologies, p.1-1, March 31-April 02, 2004, San Francisco, CA
+E. Costa, S. V. Fedorenko, and P. V. Trifonov. 2004. On computing the syndrome polynomial in Reed-Solomon decoder. European Transactions on Telecommunications 15, 4, 337--342.
+F. Didier. 2009. Efficient erasure decoding of reed-solomon codes. arXiv:1301.5536v1.
+S. V. Fedorenko, A method for computation of the discrete Fourier transform over a finite field, Problems of Information Transmission, v.42 n.2, p.139-151, April     2006[doi>10.1134/S0032946006020074]
+S. Fedorenko. 2011a. The discrete Fourier transform over a finite field with reduced multiplicative complexity. In Proceedings of IEEE International Symposium on Information Theory. 1200--1204.
+S. V. Fedorenko. 2011b. A novel method for computation of the discrete Fourier transform over characteristic two finite field of even extension degree. IEEE Transactions on Information Theory. Available at http://arxiv.org/abs/1112.1639.
+Ping-Hsun Hsieh , Ing-Yi Chen , Yu-Ting Lin , Sy-Yen Kuo, An XOR Based Reed-Solomon Algorithm for Advanced RAID Systems, Proceedings of the Defect and Fault Tolerance in VLSI Systems, 19th IEEE International Symposium, p.165-172, October 10-13, 2004
+C. Huang, M. Chen, and J. Li. 2007. Pyramid codes: Flexible schemes to trade space for access efficiency in reliable data storage systems. In Proceedings of 6th IEEE International Symposium on Network Computing and Applications. 79--86.
+D. E. Knuth. 1973. The Art of Computer Programming. Vol. 2. Addison-Wesley.
+R. Lidl and H. Niederreiter. 1996. Finite Fields. Cambridge University Press.
+T.-C. Lin, T. Truong, and P. Chen. 2007. A fast algorithm for the syndrome calculation in algebraic decoding of Reed-Solomon codes. IEEE Transactions on Communications 55, 12, 2240--2244.
+F. J. MacWilliams and N. J. A. Sloane. 1977. The Theory of Error-Correcting Codes. North-Holland Publishing Company.
+Todd K. Moon, Error Correction Coding: Mathematical Methods and Algorithms, Wiley-Interscience, 2005
+James S. Plank, A tutorial on Reed-Solomon coding for fault-tolerance in RAID-like systems, Software—Practice & Experience, v.27 n.9, p.995-1012, Sept. 1997[doi>10.1002/(SICI)1097-024X(199709)27:9<995::AID-SPE111>3.3.CO;2-Y]
+J. S. Plank. 2005a. Enumeration of Optimal and Good Cauchy Matrices for Reed-Solomon Coding. Tech. Rep. CS-05-570, University of Tennessee.
+J. S. Plank. 2005b. Optimizing Cauchy Reed-Solomon Codes for Fault-Tolerant Storage Applications. Tech. Rep. CS-05-569, University of Tennessee.
+J. S. Plank and K. M. Greenan. 2014. Jerasure: A Library in C Facilitating Erasure Coding for Storage Applications -- version 2.0. Tech. Rep. UT-EECS-14-721, University of Tennessee.
+James S. Plank , Kevin M. Greenan , Ethan L. Miller, Screaming fast Galois field arithmetic using intel SIMD instructions, Proceedings of the 11th USENIX conference on File and Storage Technologies, February 12-15, 2013, San Jose, CA
+Alexandre Sora , Jérôme Lacan, FNT-based Reed-Solomon erasure codes, Proceedings of the 7th IEEE conference on Consumer communications and networking conference, p.466-470, January 09-12, 2010, Las Vegas, Nevada, USA
+I. Tamo, Z. Wang, and J. Bruck. 2011. MDS array codes with optimal rebuilding. In Proceedings of IEEE International Symposium on Information Theory. 1240--1244.
+P. Trifonov. 2007. Matrix-vector multiplication via erasure decoding. In Proceedings of the 11th International Symposium on Problems of Redundancy in Information and Control Systems.
+P. Trifonov. 2012. On the additive complexity of the cyclotomic FFT algorithm. In Proceedings of IEEE Information Theory Workshop.
+P. V. Trifonov , S. V. Fedorenko, A Method for Fast Computation of the Fourier Transform over a Finite Field, Problems of Information Transmission, v.39 n.3, p.231-238, July-September 2003[doi>10.1023/A:1026171930630]
+Xuebin Wu , M. Wagh , Ning Chen , Ying Wang , Zhiyuan Yan, Composite Cyclotomic Fourier Transforms With Reduced Complexities, IEEE Transactions on Signal Processing, v.59 n.5, p.2136-2145, May 2011[doi>10.1109/TSP.2011.2106778]
+Xuebin Wu , Ying Wang , Zhiyuan Yan, On Algorithms and Complexities of Cyclotomic Fast Fourier Transforms Over Arbitrary Finite Fields, IEEE Transactions on Signal Processing, v.60 n.3, p.1149-1158, March 2012[doi>10.1109/TSP.2011.2178844]
+X. Wu and Z. Yan. 2011. Computational complexity of cyclotomic fast Fourier transforms over characteristic-2 fields. In Proceedings of the IEEE Workshop on Signal Processing Systems (SiPS’11). 1--6.
+Lihao Xu , J. Bruck, X-code: MDS array codes with optimal encoding, IEEE Transactions on Information Theory, v.45 n.1, p.272-276, January 1999[doi>10.1109/18.746809]

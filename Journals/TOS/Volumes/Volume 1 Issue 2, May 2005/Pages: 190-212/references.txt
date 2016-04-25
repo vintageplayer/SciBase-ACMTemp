@@ -1,0 +1,55 @@
+Azagury, A., Factor, M. E., and Satran, J. 2002. Point-in-time copy: Yesterday, today and tomorrow. In Proceedings of the Tenth Goddard Conference on Mass Storage Systems and Technologies. 259--270.
+Batten, C., Barr, K., Saraf, A., and Trepetin, S. 2002. pStore: A secure peer-to-peer backup system. Technical memo MIT-LCS-TM-632. Massachusetts Institute of Technology Laboratory for Computer Science, Cambridge, MA.
+Dan Boneh , Richard J. Lipton, A revocable backup system, Proceedings of the 6th conference on USENIX Security Symposium, Focusing on Applications of Cryptography, p.9-9, July 22-25, 1996, San Jose, California
+Ray Bryant , Ruth Forester , John Hawkes, Filesystem Performance and Scalability in Linux 2.4.17, Proceedings of the FREENIX Track: 2002 USENIX Annual Technical Conference, p.259-274, June 10-15, 2002
+Card, R., Ts'o, T. Y., and Tweedie, S. 1994. Design and implementation of the second extended file system. In Proceedings of the 1994 Amsterdam Linux Conference.
+Cederqvist et al., P. 2003. Version Management with CVS. Network Theory Limited. Web site: http://www.network-theory.co.uk/cvs/manual/.
+Chervenak, A., Vellanki, V., and Kurmas, Z. 1998. Protecting file systems: A survey of backup techniques. In Proceedings of the Joint NASA and IEEE Mass Storage Conference.
+Chutani, S., Anderson, O. T., Kazar, M. L., Leverett, B. W., Mason, W. A., and Sidebotham, R. N. 1992. The Episode file system. In Proceedings of the USENIX Winter 1992 Technical Conference (San Fransisco, CA). 43--60.
+Brian Cornell , Peter A. Dinda , Fabián E. Bustamante, Wayback: a user-level versioning file system for linux, Proceedings of the annual conference on USENIX Annual Technical Conference, p.27-27, June 27-July 02, 2004, Boston, MA
+Digital Equipment Corporation. 1985. Vax/VMS System Software Handbook.
+EMC Corporation 1998. EMC TimeFinder Product Description Guide. EMC Corporation, Hopkinton, MA. Web site: http://www.emc.com.
+David K. Gifford , Roger M. Needham , Michael D. Schroeder, The Cedar file system, Communications of the ACM, v.31 n.3, p.288-298, March 1988[doi>10.1145/42392.42398]
+Russell J. Green , Alasdair C. Baird , J. Christopher Davies, Designing a fast, on-line backup system for a log-structured file system, Digital Technical Journal, v.8 n.2, p.32-45, 1996
+Grune, D., Berliner, B., and Polk, J. 2003. Concurrent versioning system (CVS). Web site: http://www.cvshome.org/.
+Peter Gutmann, Secure deletion of data from magnetic and solid-state memory, Proceedings of the 6th conference on USENIX Security Symposium, Focusing on Applications of Cryptography, p.8-8, July 22-25, 1996, San Jose, California
+Hagerty, J. 2004. Sarbanes-Oxley compliance spending will exceed &dollar;5b in 2004. AMR Research Outlook. Web site: http://www.amrresearch.com.
+R. Hagmann, Reimplementing the Cedar file system using logging and group commit, Proceedings of the eleventh ACM Symposium on Operating systems principles, p.155-162, November 08-11, 1987, Austin, Texas, USA[doi>10.1145/41457.37518]
+Hitachi, Ltd. 2001. Hitachi ShadowImage. Hitachi, Ltd., Tokyo, Japan. Web site: http://www.hitachi.com.
+Hitz, D., Lau, J., and Malcom, M. 1994. File system design for an NFS file server appliance. In Proceedings of the USENIX San Francisco 1994 Winter Conference.
+John H. Howard , Michael L. Kazar , Sherri G. Menees , David A. Nichols , M. Satyanarayanan , Robert N. Sidebotham , Michael J. West, Scale and performance in a distributed file system, ACM Transactions on Computer Systems (TOCS), v.6 n.1, p.51-81, Feb. 1988[doi>10.1145/35037.35059]
+Norman C. Hutchinson , Stephen Manley , Mike Federwisch , Guy Harris , Dave Hitz , Steven Kleiman , Sean O'Malley, Logical vs. physical file system backup, Proceedings of the third symposium on Operating systems design and implementation, p.239-249, February 1999, New Orleans, Louisiana, USA
+James E. Johnson , William A. Laing, Overview of the Spiralog file system, Digital Technical Journal, v.8 n.2, p.5-14, 1996
+Killbridge, P. 2003. The cost of HIPAA compliance. New England J. Med. 348, 15, 1423--1424.
+Kleiman, S. R. 1986. Vnodes: An architecture for multiple file system in SUN UNIX. In Proceedings of the 1986 USENIX Summer Technical Conference. 238--247.
+Josh MacDonald , Paul N. Hilfinger , Luigi Semenzato, PRCS: The Project Revision Control System, Proceedings of the SCM-8 Symposium on System Configuration Management, p.33-45, July 20-21, 1998
+Kirby McCoy, VMS file system internals, Digital Press, Newton, MA, 1990
+McKusick, M. K. 2002. Running “fsck” in the background. In Proceedings of the BSDCon 2002 Conference. 55--64.
+Marshall Kirk McKusick , Keith Bostic , Michael J. Karels , John S. Quarterman, The design and implementation of the 4.4BSD operating system, Addison Wesley Longman Publishing Co., Inc., Redwood City, CA, 1996
+Marshall Kirk McKusick , Gregory R. Ganger, Soft updates: a technique for eliminating most synchronous writes in the fast filesystem, Proceedings of the annual conference on USENIX Annual Technical Conference, p.24-24, June 06-11, 1999, Monterey, California
+Marshall K. McKusick , William N. Joy , Samuel J. Leffler , Robert S. Fabry, A fast file system for UNIX, ACM Transactions on Computer Systems (TOCS), v.2 n.3, p.181-197, Aug. 1984[doi>10.1145/989.990]
+James H. Morris , Mahadev Satyanarayanan , Michael H. Conner , John H. Howard , David S. Rosenthal , F. Donelson Smith, Andrew: a distributed personal computing environment, Communications of the ACM, v.29 n.3, p.184-201, March 1986[doi>10.1145/5666.5671]
+Moses, L. 1982. An introductory guide to TOPS-20. Tech. rep. TM-82-22, USC/Information Sciences Institute, Marina del Ray, CA. Web site: http://www.isi.edu.
+Kiran-Kumar Muniswamy-Reddy , Charles P. Wright , Andrew Himmer , Erez Zadok, A Versatile and User-Oriented Versioning File System, Proceedings of the 3rd USENIX Conference on File and Storage Technologies, March 31-31, 2004, San Francisco, CA
+Steven Osman , Dinesh Subhraveti , Gong Su , Jason Nieh, The design and implementation of Zap: a system for migrating computing environments, Proceedings of the 5th symposium on Operating systems design and implementationCopyright restrictions prevent ACM from being able to make the PDFs for this conference available for downloading, December 09-11, 2002, Boston, Massachusetts[doi>10.1145/1060289.1060323]
+R. Hugo Patterson , Stephen Manley , Mike Federwisch , Dave Hitz , Steven Kleiman , Shane Owara, SnapMirror: File-System-Based Asynchronous Mirroring for Disaster Recovery, Proceedings of the Conference on File and Storage Technologies, p.117-129, January 28-30, 2002
+Peterson, Z. N. J., Burns, R., and Stubblefield, A. 2004. Limiting liability in a federally compliant file system. In Proceedings of the PORTIA Workshop on Sensitive Data in Medical, Financial, and Content Distribution Systems.
+David L. Presotto, Plan 9, Proceedings of the Workshop on Micro-kernels and Other Kernel Architectures, p.31-38, April 27-28, 1992
+Sean Quinlan, A cached WORM file system, Software—Practice & Experience, v.21 n.12, p.1289-1299, Dec. 1991[doi>10.1002/spe.4380211203]
+Sean Quinlan , Sean Dorward, Venti: A New Approach to Archival Storage, Proceedings of the Conference on File and Storage Technologies, p.89-101, January 28-30, 2002
+Rochkind, M. J. 1975. The source code control system. IEEE Trans. Softw. Eng. 1, 4 (Dec.), 364--370.
+Drew Roselli, Characteristics of File System Workloads, University of California at Berkeley, Berkeley, CA, 1998
+Mendel Rosenblum , John K. Ousterhout, The design and implementation of a log-structured file system, ACM Transactions on Computer Systems (TOCS), v.10 n.1, p.26-52, Feb. 1992[doi>10.1145/146941.146943]
+Sandberg, R., Goldberg, D., Kleiman, S., Walsh, D., and Lyon, B. 1985. Design and implementation of the Sun network file system. In Proceedings of the Summer USENIX Conference Proceedings. 119--130.
+Douglas S. Santry , Michael J. Feeley , Norman C. Hutchinson , Alistair C. Veitch , Ross W. Carton , Jacob Ofir, Deciding when to forget in the Elephant file system, Proceedings of the seventeenth ACM symposium on Operating systems principles, p.110-123, December 12-15, 1999, Charleston, South Carolina, USA[doi>10.1145/319151.319159]
+Michael D. Schroeder , David K. Gifford , Roger M. Needham, A caching file system for a programmer's workstation, Proceedings of the tenth ACM symposium on Operating systems principles, p.25-34, December 1985, Orcas Island, Washington, USA[doi>10.1145/323647.323632]
+Seltzer, M., Bostic, K., McKusick, M. K., and Staelin, C. 1993. An implementation of a log-structured file system for UNIX. In Proceedings of the Winter 1993 USENIX Conference (San Diego, CA, Jan. 25--29).
+Jonathan S. Shapiro , John Vanderburgh, CPCMS: A Configuration Management System Based on Cryptographic Names, Proceedings of the FREENIX Track: 2002 USENIX Annual Technical Conference, p.207-220, June 10-15, 2002
+Keith A. Smith , Margo I. Seltzer, File system aging—increasing the relevance of file system benchmarks, Proceedings of the 1997 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.203-213, June 15-18, 1997, Seattle, Washington, USA[doi>10.1145/258612.258689]
+Craig A. N. Soules , Garth R. Goodson , John D. Strunk , Gregory R. Ganger, Metadata Efficiency in Versioning File Systems, Proceedings of the 2nd USENIX Conference on File and Storage Technologies, March 31-31, 2003, San Francisco, CA
+John D. Strunk , Garth R. Goodson , Michael L. Scheinholtz , Craig A. N. Soules , Gregory R. Ganger, Self-securing storage: protecting data in compromised system, Proceedings of the 4th conference on Symposium on Operating System Design & Implementation, p.12-12, October 22-25, 2000, San Diego, California
+Sun Microsystems. 1989. NFS: Network file system protocol specification. Network Working Group, Request for Comments (RFC 1094), Version 2. Go to http://www.fags.org/rfcs/rfc/094.html.
+Andrew S. Tanenbaum, Operating systems: design and implementation, Prentice-Hall, Inc., Upper Saddle River, NJ, 1987
+Walter F. Tichy, RCS—a system for version control, Software—Practice & Experience, v.15 n.7, p.637-654, July 1985[doi>10.1002/spe.4380150703]
+Theodore Y. Ts'o , Stephen Tweedie, Planned Extensions to the Linux Ext2/Ext3 Filesystem, Proceedings of the FREENIX Track: 2002 USENIX Annual Technical Conference, p.235-243, June 10-15, 2002
+Zadok, E. and Bădulescu, I. 1999. A stackable file system interface for Linux. In LinuxExpo Conference Proceedings. 141--151.

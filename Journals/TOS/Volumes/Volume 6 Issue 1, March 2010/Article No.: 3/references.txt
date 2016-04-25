@@ -1,0 +1,33 @@
+Bityuckiy, A. B. 2005. FFS3 design issues. http://www.linux.mtd.infradead.org/doc/JFFS3design.pdf.
+Deshpande, M. and Bunt, R. 1988. Dynamic file management techniques. In Proceedings of the 7th Annual International Phoenix Conference on Computers and Communications.
+In Hwan Doh , Jongmoo Choi , Donghee Lee , Sam H. Noh, Exploiting non-volatile RAM to enhance flash file system performance, Proceedings of the 7th ACM & IEEE international conference on Embedded software, September 30-October 03, 2007, Salzburg, Austria[doi>10.1145/1289927.1289955]
+Freescale. Freescale semiconductor. http://www.freescale.com.
+Freitas, R., Wilcke, W., and Kurdi, B. 2008. Storage class memory, technology and use. Tutorial of the 6th USENIX Conference on File and Storage Technologies. http://www.iozone.org. IOZONE.
+Intel Corp. Understanding the Flash translation layer (FTL) specification. http://www.intel.com/design/flcomp/applnots/29781602.pdf.
+Jeon, B. 2008. Boosting up the mount latency of NAND Flash file system using byte addressable NVRAM. M.S. thesis, Hanyang University, Seoul.
+Jung, J., Choi, J., Won, Y., and Kang, S. 2009. Shadow block: Imposing block device abstraction on storage class memory. In Proceedings of the 4th International Workshop on Support for Portable Storage (IWSSPS'09). 67--72.
+Kang, Y., Joo, H., Park, J., Kang, S., Kim, J.-H., Oh, S., Kim, H., Kang, J., Jung, J., Choi, D., Lee, E., Lee, S., Jeong, H., and Kim, K. 2006. World smallest 0.34/spl mu/m cob cell 1t1c 64mb FRAM with new sensing architecture and highly reliable mocvd pzt intgration technology. In Symposium on VLSI Technology. Digest of Technical Papers. 124--125.
+Taeho Kgil , David Roberts , Trevor Mudge, Improving NAND Flash Based Disk Caches, Proceedings of the 35th Annual International Symposium on Computer Architecture, p.327-338, June 21-25, 2008[doi>10.1109/ISCA.2008.32]
+Eun-ki Kim , Hyungjong Shin , Byung-gil Jeon , Seokhee Han , Jaemin Jung , Youjip Won, FRASH: hierarchical file system for FRAM and flash, Proceedings of the 2007 international conference on Computational science and its applications, August 26-29, 2007, Kuala Lumpur, Malaysia
+Hyojun Kim , Seongjun Ahn, BPLRU: a buffer management scheme for improving random writes in flash storage, Proceedings of the 6th USENIX Conference on File and Storage Technologies, p.1-14, February 26-29, 2008, San Jose, California
+Hyojun Kim , Youjip Won , Sooyong Kang, Embedded NAND flash file system for mobile multimedia devices, IEEE Transactions on Consumer Electronics, v.55 n.2, p.545-552, May 2009[doi>10.1109/TCE.2009.5174420]
+Lau, S. and Lui, J. 1997. Designing a hierarchical multimedia storage server. Computer J. 40, 9, 529--540.
+Manning, C. 2001. YAFFS (Yet Another Flash File System). http://www.alephl.co.uk/armlinux/projects/yaffs/index.html.
+Marshall K. McKusick , William N. Joy , Samuel J. Leffler , Robert S. Fabry, A fast file system for UNIX, ACM Transactions on Computer Systems (TOCS), v.2 n.3, p.181-197, Aug. 1984[doi>10.1145/989.990]
+Larry McVoy , Carl Staelin, lmbench: portable tools for performance analysis, Proceedings of the 1996 annual conference on USENIX Annual Technical Conference, p.23-23, January 22-26, 1996, San Diego, CA
+Meritech. Meritech smdk2440 board. http://www.meritech.co.kr/eng/.
+Ethan L. Miller , Scott A. Brandt , Darrell D. E. Long, HeRMES: High-Performance Reliable MRAM-Enabled Storage, Proceedings of the Eighth Workshop on Hot Topics in Operating Systems, p.95, May 20-22, 2001
+NEDO. Nedo japan. http://www.nedo.go.jp/english/.
+Nikkei. Nikkei electronics. http://www.nikkeibp.com/.
+Song-Hwa Park , Tae-Hoon Lee , Ki-Dong Chung, A flash file system to support fast mounting for NAND flash memory based embedded systems, Proceedings of the 6th international conference on Embedded Computer Systems: architectures, Modeling, and Simulation, July 17-20, 2006, Samos, Greece[doi>10.1007/11796435_42]
+Youngwoo Park , Seung-Ho Lim , Chul Lee , Kyu Ho Park, PFFS: a scalable flash memory file system for the hybrid architecture of phase-change RAM and NAND flash, Proceedings of the 2008 ACM symposium on Applied computing, March 16-20, 2008, Fortaleza, Ceara, Brazil[doi>10.1145/1363686.1364038]
+S. Raoux , G. W. Burr , M. J. Breitwisch , C. T. Rettner , Y.-C. Chen , R. M. Shelby , M. Salinga , D. Krebs , S.-H. Chen , H.-L. Lung , C. H. Lam, Phase-change random access memory: a scalable technology, IBM Journal of Research and Development, v.52 n.4, p.465-479, July 2008[doi>10.1147/rd.524.0465]
+Mendel Rosenblum , John K. Ousterhout, The design and implementation of a log-structured file system, ACM Transactions on Computer Systems (TOCS), v.10 n.1, p.26-52, Feb. 1992[doi>10.1145/146941.146943]
+Schlack, M. 2004. The future of storage: IBM's view. searchstorage.com: Storage Technology News. http://searchstorage.com.
+Shin, H. 2008. Merging memory address space and block device using byte-addressable NV-RAM. M.S. thesis, Hanyang University, Seoul, Korea.
+An-I Andy Wang , Geoff Kuenning , Peter Reiher , Gerald Popek, TheConquestfile system: Better performance through a disk/persistent-RAM hybrid design, ACM Transactions on Storage (TOS), v.2 n.3, p.309-348, August 2006[doi>10.1145/1168910.1168914]
+John Wilkes , Richard Golding , Carl Staelin , Tim Sullivan, The HP AutoRAID hierarchical storage system, ACM Transactions on Computer Systems (TOCS), v.14 n.1, p.108-136, Feb. 1996[doi>10.1145/225535.225539]
+Chin-Hsien Wu , Tei-Wei Kuo , Li-Pin Chang, The Design of efficient initialization and crash recovery for log-based file systems over flash memory, ACM Transactions on Storage (TOS), v.2 n.4, p.449-467, November 2006[doi>10.1145/1210596.1210600]
+Yegulalp, S. 2007. ECC memory: A must for servers, not for desktop PCS. http://searchwincomputing.techtarget.com.
+Yegulalp, S. 2007. Ecc memory: A must for servers, not for desktop PCS. http://searchwincomputing.techtarget.com.
+Keun Soo Yim , Jihong Kim , Kern Koh, A fast start-up technique for flash memory based computing systems, Proceedings of the 2005 ACM symposium on Applied computing, March 13-17, 2005, Santa Fe, New Mexico[doi>10.1145/1066677.1066871]

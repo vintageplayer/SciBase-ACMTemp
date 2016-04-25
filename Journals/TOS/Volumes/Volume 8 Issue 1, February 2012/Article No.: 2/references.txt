@@ -1,0 +1,37 @@
+Aranha, D. F. 2010. RELIC is an Efficient Library for Cryptography, version 0.2.3. http://code.google.com/p/relic-toolkit/.
+Diego F. Aranha , Julio López , Darrel Hankerson, Efficient software implementation of binary field arithmetic using vector instruction sets, Proceedings of the First international conference on Progress in cryptology: cryptology and information security in Latin America, August 08-11, 2010, Puebla, Mexico
+Roberto Avanzi , Nicolas Thériault, Effects of Optimizations for Software Implementations of Small Binary Field Arithmetic, Proceedings of the 1st international workshop on Arithmetic of Finite Fields, June 21-22, 2007, Madrid, Spain[doi>10.1007/978-3-540-73074-3_7]
+Daniel V. Bailey , Christof Paar, Optimal Extension Fields for Fast Arithmetic in Public-Key Algorithms, Proceedings of the 18th Annual International Cryptology Conference on Advances in Cryptology, p.472-485, August 23-27, 1998
+Beachy, J. A. and Blair, W. D. 2006. Abstract Algebra. Waveland Press, Inc.
+Michael Ben-Or, Probabilistic algorithms in finite fields, Proceedings of the 22nd Annual Symposium on Foundations of Computer Science, p.394-398, October 28-30, 1981[doi>10.1109/SFCS.1981.37]
+Kevin D. Bowers , Ari Juels , Alina Oprea, HAIL: a high-availability and integrity layer for cloud storage, Proceedings of the 16th ACM conference on Computer and communications security, November 09-13, 2009, Chicago, Illinois, USA[doi>10.1145/1653662.1653686]
+Erik De Win , Antoon Bosselaers , Servaas Vandenberghe , Peter De Gersem , Joos Vandewalle, A Fast Software Implementation for Arithmetic Operations in GF(2n), Proceedings of the International Conference on the Theory and Applications of Cryptology and Information Security: Advances in Cryptology, p.65-76, November 03-07, 1996
+Diffie, W. and Hellman, M. E. 1976. New directions in cryptography. IEEE Trans. Inf. Theory 22, 6, 644--654.
+ElGamal, T. 1985. A public key cryptosystem and a signature scheme based on discrete logarithms. IEEE Trans. Inf. Theory 31, 4, 469--472.
+Shuhong Gao , Daniel Panario, Tests and constructions of irreducible polynomials over finite fields, Selected papers of a conference on Foundations of computational mathematics, p.346-361, September 1997, Rio de Janeiro, Brazil
+gentoo wiki. 2010. http://en.gentoo-wiki.com/wiki/CFLAGS.
+Greenan, K. M., Miller, E. L., and Schwarz, T. J. E. 2007. Analysis and construction of galois fields for efficient storage reliability. Tech. rep. UCSC-SSRC-07-09.
+Greenan, K. M., Miller, E. L., and Schwarz, T. J. E. 2008. Optimizing galois field arithmetic for diverse processor architectures and applications. In Proceedings of the International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS'08).
+Guajardo, J., Kumar, S. S., Paar, C., and Pelzl, J. 2006. Efficient software-implementation of finite fields with applications to cryptography. Acta Applicandae Mathematicae 93, 3--32.
+Darrel Hankerson , Julio López Hernandez , Alfred Menezes, Software Implementation of Elliptic Curve Cryptography over Binary Fields, Proceedings of the Second International Workshop on Cryptographic Hardware and Embedded Systems, p.1-24, August 17-18, 2000
+Greg Harper , Alfred Menezes , Scott Vanstone, Public-key cryptosystems with very small key lengths, Proceedings of the 11th annual international conference on Theory and application of cryptographic techniques, May 24-28, 1992, Balatonfüred, Hungary
+Huang, C. and Xu, L. 2003. Fast software implementation of finite field operations. Tech. rep. Washington University.
+Intel. 2007. Intel SSE4 Programming Reference. http://software.intel.com/file/18187/.
+Intel. 2011. Intel advanced encryption standard (AES) instructions set. http://software.intel.com/file/24917.
+Kravitz, D. W. 1993. Digital signature algorithm. U.S. Patent 5,231,668.
+Rudolf Lide , Harald Niederreiter, Finite fields, Cambridge University Press, New York, NY, 1996
+Julio López , Ricardo Dahab, High-Speed Software Multiplication in F2m, Proceedings of the First International Conference on Progress in Cryptology, p.203-212, December 10-13, 2000
+MacWilliams, F. J. and Sloane, N. J. A. 1977. The Theory of Error Correcting Codes. North-Holland, Amsterdam.
+Alfred J. Menezes , Scott A. Vanstone , Paul C. Van Oorschot, Handbook of Applied Cryptography, CRC Press, Inc., Boca Raton, FL, 1996
+Victor S. Miller, Use of Elliptic Curves in Cryptography, Advances in Cryptology, p.417-426, August 18-22, 1985
+National Institute for Standards and Technology (NIST). 2009. FIPS 186-3: Digital Signature Standard (DSS). http://www.itl.nist.gov/fipspubs/by-num.htm.
+David A. Patterson , Garth Gibson , Randy H. Katz, A case for redundant arrays of inexpensive disks (RAID), Proceedings of the 1988 ACM SIGMOD international conference on Management of data, p.109-116, June 01-03, 1988, Chicago, Illinois, USA[doi>10.1145/50202.50214]
+James S. Plank, A tutorial on Reed-Solomon coding for fault-tolerance in RAID-like systems, Software—Practice & Experience, v.27 n.9, p.995-1012, Sept. 1997[doi>10.1002/(SICI)1097-024X(199709)27:9<995::AID-SPE111>3.3.CO;2-Y]
+Plank, J. S. 2007. Fast galois field arithmetic library in C/C++. http://www.cs.utk.edu/~plank/plank/papers/CS-07-593/.
+James S. Plank , Jianqiang Luo , Catherine D. Schuman , Lihao Xu , Zooko Wilcox-O'Hearn, A performance evaluation and examination of open-source erasure coding libraries for storage, Proccedings of the 7th conference on File and storage technologies, p.253-265, February 24-27, 2009, San Francisco, California
+Plank, J. S., Simmerman, S., and Schuman, C. D. 2008. Jerasure: A library in C/C++ facilitating erasure coding for storage applications. Tech. rep. CS-08-627, University of Tennessee.
+Reed, I. S. and Solomon, G. 1960. Polynomial codes over certain finite fields. J. Soc. Indust. Appl. Math. 8, 10, 300--304.
+Richard Schroeppel , Hilarie Orman , Sean W. O'Malley , Oliver Spatscheck, Fast Key Exchange with Elliptic Curve Systems, Proceedings of the 15th Annual International Cryptology Conference on Advances in Cryptology, p.43-56, August 27-31, 1995
+Seroussi, G. 1998. Table of low-weight binary irreducible polynomials. http://www.hpl.hp.com/techreports/98/HPL-98-135.pdf.
+Victor Shoup, A new polynomial factorization algorithm and its implementation, Journal of Symbolic Computation, v.20 n.4, p.363-397, October 1995[doi>10.1006/jsco.1995.1055]
+Brigitte Vallée, The Complete Analysis of the Binary Euclidean Algorithm, Proceedings of the Third International Symposium on Algorithmic Number Theory, p.77-94, June 21-25, 1998

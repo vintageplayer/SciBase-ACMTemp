@@ -1,0 +1,30 @@
+Bonwick, J. and Moore, B. ZFS, The last word in file systems. http://hub.opensolaris.org/bin/download/Community+Group+zfs/docs/zfslast.pdf.
+B. Callaghan , B. Pawlowski , P. Staubach, NFS Version 3 Protocol Specification, RFC Editor, 1995
+Fay Chang , Jeffrey Dean , Sanjay Ghemawat , Wilson C. Hsieh , Deborah A. Wallach , Mike Burrows , Tushar Chandra , Andrew Fikes , Robert E. Gruber, Bigtable: a distributed storage system for structured data, Proceedings of the 7th USENIX Symposium on Operating Systems Design and Implementation, p.15-15, November 06-08, 2006, Seattle, WA
+Douglas Comer, Ubiquitous B-Tree, ACM Computing Surveys (CSUR), v.11 n.2, p.121-137, June 1979[doi>10.1145/356770.356776]
+Dean, J. and Ghemawat, S. LevelDB. http://code.google.com/p/leveldb.
+John K. Edwards , Daniel Ellard , Craig Everhart , Robert Fair , Eric Hamilton , Andy Kahn , Arkady Kanevsky , James Lentini , Ashish Prakash , Keith A. Smith , Edward Zayas, FlexVol: flexible, efficient file volume virtualization in WAFL, USENIX 2008 Annual Technical Conference on Annual Technical Conference, p.129-142, June 22-27, 2008, Boston, Massachusetts
+Gailly, J. L. and Adler, M. ZLIB. en.wikipedia.org/wiki/Zlib.
+Heizer, I., Leach, P., and Perry, D. 1996. Common Internet File System Protocol (CIFS/1.0). Draft draft-heizer-cifs-v1-spec-00.txt, IETF.
+Hellwig, C. 2009. XFS: The big storage file system for Linux. InUsenix Login Magazine.
+Henson, V., Ahrens, M., and Bonwick, J. 2003. Automatic performance tuning in the Zettabyte File System. InFile and Storage Technologies (FAST), Work in Progress Report. USENIX Association, Berkeley.
+Dave Hitz , James Lau , Michael Malcolm, File system design for an NFS file server appliance, Proceedings of the USENIX Winter 1994 Technical Conference on USENIX Winter 1994 Technical Conference, p.19-19, January 17-21, 1994, San Francisco, California
+Konishi, R., Sato, K., and Amagai, Y. NILFS. www.nilfs.org.
+Peter Macko , Margo Seltzer , Keith A. Smith, Tracking back references in a write-anywhere file system, Proceedings of the 8th USENIX conference on File and storage technologies, p.2-2, February 23-26, 2010, San Jose, California
+Mason, C. 2007. BTRFS. http://en.wikipedia.org/wiki/Btrfs.
+Mason, C. 2008. Seekwatcher. http://oss.oracle.com/~mason/seekwatcher.
+Mathur, A., Cao, M., Bhattacharya, S., Dilger, A., Tomas, A., and Vivier, L. 2007. The new Ext4 Filesystem: Current status and future plans. InProceedings of Linux Symposium.
+Patrick O'Neil , Edward Cheng , Dieter Gawlick , Elizabeth O'Neil, The log-structured merge-tree (LSM-tree), Acta Informatica, v.33 n.4, p.351-385, 1996[doi>10.1007/s002360050048]
+David A. Patterson , Garth Gibson , Randy H. Katz, A case for redundant arrays of inexpensive disks (RAID), ACM SIGMOD Record, v.17 n.3, p.109-116, June 1988[doi>10.1145/971701.50214]
+Reed, I. S. and Solomon, G. 1960. Polynomial codes over certain finite fields.J. Society Indus. Appl. Math. 8, 300--304.
+Reiser, H. 2001. ReiserFS. http://http://en.wikipedia.org/wiki/ReiserFS.
+Ren, K. and Gibson, G. 2012. TABLEFS: Embedding a NOSQL database inside the local file system. Tech. rep. CMU-PDL-12-103.
+Rodeh, O. 2006a. B-trees, shadowing, and clones. Tech. rep. H-248, IBM.
+Rodeh, O. 2006b. B-trees, shadowing, and range-operations. Tech. rep. H-248, IBM.
+Ohad Rodeh, B-trees, shadowing, and clones, ACM Transactions on Storage (TOS), v.3 n.4, p.1-27, February 2008[doi>10.1145/1326542.1326544]
+Rodeh, O. 2010. Deferred reference counters for Copy-On-Write B-trees. Tech. rep. rj10464, IBM.
+Mendel Rosenblum , John K. Ousterhout, The design and implementation of a log-structured file system, ACM Transactions on Computer Systems (TOCS), v.10 n.1, p.26-52, Feb. 1992[doi>10.1145/146941.146943]
+Russell Sears , Raghu Ramakrishnan, bLSM: a general purpose log structured merge tree, Proceedings of the 2012 ACM SIGMOD International Conference on Management of Data, May 20-24, 2012, Scottsdale, Arizona, USA[doi>10.1145/2213836.2213862]
+S. Shepler , B. Callaghan , D. Robinson , R. Thurlow , C. Beame , M. Eisler , D. Noveck, NFS version 4 Protocol, RFC Editor, 2000
+Shetty, P., Spillane, R., Malpani, R., Andrews, B., Seyster, J., and Zadok, E. 2013. Building workload-independent storage with VT-trees. InProceedings of the 11th USENIX Conference on File and Storage Technologies (FAST).
+Adam Sweeney , Doug Doucette , Wei Hu , Curtis Anderson , Mike Nishimoto , Geoff Peck, Scalability in the XFS file system, Proceedings of the 1996 annual conference on USENIX Annual Technical Conference, p.1-1, January 22-26, 1996, San Diego, CA
