@@ -1,0 +1,112 @@
+3GPP. 1999. Specification of the 3GPP Confidentiality and Integrity Algorithms Document 2: KASUMI Specification. ETSI/SAGE Specification Version: 1.0.
+Anderson, R., Biham, E., and Knudsen, L. 1998. Serpent: A Proposal for the Advanced Encryption Standard. http://www.cl.cam.ac.uk/ftp/users/rja14/serpent.pdf.
+Aoki, K., Ichikawa, T., Kanda, M., Matsui, M., Moriai, S., Nakajima, J., and Tokita, T. 2001b. Camellia: A 128-Bit Block cipher suitable for multiple platforms. In Proceedings of the Selected Areas in Cryptography (SAC'00), D. Stinson and S. Tavares, Eds. Number 2012 in LNCS. Springer-Verlag, 39--56.
+Aoki, K., Ichikawa, T., Kanda, M., Matsui, M., Moriai, S., Nakajima, J., and Tokita, T. 2001a. Specification of Camellia---A 128-Bit Block Cipher. Specification Version 2.0, Nippon Telegraph and Telephone Corporation and Mitsubishi Electric Corporation.
+Steve Babbage , Laurent Frisch, On MISTY1 Higher Order Differential Cryptanalysis, Proceedings of the Third International Conference on Information Security and Cryptology, p.22-36, December 08-09, 2000
+Elad Barkan , Eli Biham, In How Many Ways Can You Write Rijndael?, Proceedings of the 8th International Conference on the Theory and Application of Cryptology and Information Security: Advances in Cryptology, p.160-175, December 01-05, 2002
+Eli Biham , Alex Biryukov , Adi Shamir, Cryptanalysis of Skipjack reduced to 31 rounds using impossible differentials, Proceedings of the 17th international conference on Theory and application of cryptographic techniques, May 02-06, 1999, Prague, Czech Republic
+Biham, E. and Furman, V. 2000. Improved impossible differentials on twofish. In Progress in Cryptology---INDOCRYPT 2000: First International Conference in Cryptology in India. LNCS, vol. 1977. Springer-Verlag, 80--92.
+Biryukov, A. 1999. Methods of cryptanalysis. Ph.D. thesis, Technion.
+Biryukov, A. and Kushilevitz, E. 1998. Improved Cryptanalysis of RC5. In Advances in Cryptology---EUROCRYPT '98, International Conference on the Theory and Application of Cryptographic Techniques. LNCS, vol. 1403. Springer-Verlag, 85--99.
+Alex Biryukov , David Wagner, Advanced slide attacks, Proceedings of the 19th international conference on Theory and application of cryptographic techniques, May 14-18, 2000, Bruges, Belgium
+Borst, J., Preneel, B., and Vandewalle, J. 1999. Linear cryptanalysis of RC5 and RC6. In Fast Software Encryption, 6th International Workshop, FSE '99, L. Knudsen, Ed. LNCS, vol. 1636. Springer-Verlag, 16--30.
+Burwick, C., Coppersmith, D., D'Avignon, E., Gennaro, R., Halevi, S., Jutla, C., Jr., S. M. M., O'Connor, L., Peyravian, M., Safford, D., and Zunic, N. 1999. MARS---a candidate cipher for AES. http://researchweb.watson.ibm.com/security/mars.pdf.
+Carman, D., Kruus, P., and Matt, B. 2000. Constraints and approaches for distributed sensor network security. Tech. Rep. &num;00-010, NAI Labs.
+Jung Hee Cheon , MunJu Kim , Kwangjo Kim , Jung-Yeun Lee , SungWoo Kang, Improved Impossible Differential Cryptanalysis of Rijndael and Crypton, Proceedings of the 4th International Conference Seoul on Information Security and Cryptology, p.39-49, December 06-07, 2001
+Chien, P. and Wen, V. 1998. CS199---StrongARM Energy Measurement Report. Online slides: http://www.cs.berkeley.edu/~vwen/strongarm/slides/cs199.ppt.
+Coppersmith, D. 2002. Re: Impact of Courtois and Pieprzyk results. Forum message at http://aes.nist.gov/aes/.
+Nicolas Courtois , Louis Goubin , Willi Meier , Jean-Daniel Tacier, Solving Underdefined Systems of Multivariate Quadratic Equations, Proceedings of the 5th International Workshop on Practice and Theory in Public Key Cryptosystems: Public Key Cryptography, p.211-227, February 12-14, 2002
+Courtois, N., Johnson, R., Junod, P., Pornin, T., and Scott, M. 2003. Did Filiol Break AES? Cryptology ePrint Archive: Report 2003/022.
+Nicolas T. Courtois , Jacques Patarin, About the XL algorithm over GF(2), Proceedings of the 2003 RSA conference on The cryptographers' track, April 13-17, 2003, San Francisco, CA, USA
+Nicolas Courtois , Josef Pieprzyk, Cryptanalysis of Block Ciphers with Overdefined Systems of Equations, Proceedings of the 8th International Conference on the Theory and Application of Cryptology and Information Security: Advances in Cryptology, p.267-287, December 01-05, 2002
+Nicolas Courtois , Josef Pieprzyk, Cryptanalysis of Block Ciphers with Overdefined Systems of Equations, Proceedings of the 8th International Conference on the Theory and Application of Cryptology and Information Security: Advances in Cryptology, p.267-287, December 01-05, 2002
+CRYPTREC. 2001. Analysis of RC6. {Text are in chinese font} (trans.: Evaluation report of cryptographic algorithms and related technologies) no. 1086.
+CRYPTREC. 2003. {Text are in chinese font} (trans.: Specification of e-government-recommended ciphers). http://www.ipa.go.jp/security/enc/CRYPTREC/fy15/cryptrec20030425_spec01%.html.
+Joan Daemen , Lars R. Knudsen , Vincent Rijmen, The Block Cipher Square, Proceedings of the 4th International Workshop on Fast Software Encryption, p.149-165, January 20-22, 1997
+Daemen, J. and Rijmen, V. 1999. AES Proposal: Rijndael.
+Dunkelman, O. 2002. Comparing MISTY1 and KASUMI. NESSIE Public Report NES/DOC/TEC/WP5/029/a, Computer Science Department, Technion. Dec.
+Ferguson, N., Kelsey, J., Lucks, S., Schneier, B., Stay, M., Wagner, D., and Whiting, D. 2001a. Improved Cryptanalysis of Rijndael. In Fast Software Encryption, 7th International Workshop, FSE 2000, B. Schneier, Ed. LNCS, vol. 1978. Springer-Verlag, 213--230.
+Ferguson, N., Schroeppel, R., and Whiting, D. 2001b. A Simple Algebraic Representation of Rijndael. In Selected Areas in Cryptography, 8th Annual International Workshop, SAC 2001. LNCS, vol. 2259. Springer-Verlag, 103--111.
+Filiol, E. 2003. Plaintext-Dependant Repetition Codes Cryptanalysis of Block Ciphers---The AES Case. Cryptology ePrint Archive: Report 2003/003.
+Fuller, J. and Millan, W. 2002. On Linear Redundancy in the AES S-Box. Cryptology ePrint Archive: Report 2002/111.
+Gilbert, H., Handschuh, H., Joux, A., and Vaudenay, S. 2000. A statistical attack on RC6. In Fast Software Encryption, 7th International Workshop, FSE 2000. LNCS, vol. 1978. Springer-Verlag, 64--74.
+Gilbert, H. and Minier, M. 2000. A collision attack on 7 rounds of Rijndael. In Proceedings of the 3rd AES Conference (AES3).
+Hachez, G., Koeune, F., and Quisquater, J.-J. 1999. cAESar results: Implementation of four AES candidates on two smart cards. In 2nd AES Candidate Conference (AES2).
+Handschuh, H. and Heys, H. 1998. A timing attack on RC5. In Selected Areas in Cryptography '98, SAC'98, S. Tavares and H. Meijer, Eds. LNCS, vol. 1556. Springer-Verlag, 306--318.
+Handschuh, H. and Naccache, D. 2000. SHACAL. In Proceedings of the First Open NESSIE Workshop.
+Yasuo Hatano , Hiroki Sekine , Toshinobu Kaneko, Higher Order Differential Attack of Camellia (II), Revised Papers from the 9th Annual International Workshop on Selected Areas in Cryptography, p.129-146, August 15-16, 2002
+Yeping He , Sihan Qing, Square Attack on Reduced Camellia Cipher, Proceedings of the Third International Conference on Information and Communications Security, p.238-245, November 13-16, 2001
+Jason Hill , Robert Szewczyk , Alec Woo , Seth Hollar , David Culler , Kristofer Pister, System architecture directions for networked sensors, ACM SIGOPS Operating Systems Review, v.34 n.5, p.93-104, Dec. 2000[doi>10.1145/384264.379006]
+IEEE. 2003. IEEE Standard for Information technology---Telecommunications and information exchange between systems---Local and metropolitan area networks---Specific requirements Part 15.4: Wireless Medium Access Control (MAC) and Physical Layer (PHY) Specifications for Low Rate Wireless Personal Area Networks (LR-WPANs).
+Intel Corporation 1997. Intel Architecture Software Developer's Manual Volume 2: Instruction Set Reference. Intel Corporation.
+Kaliski, B. and Yin, Y. 1998. On the Security of the RC5 Encryption Algorithm. Tech. Rep. TR-602, RSA Laboratories. Sept.
+Kang, J.-S., Shin, S.-U., Hong, D., and Yi, O. 2001a. Provable security of KASUMI and 3GPP encryption mode f8. In Advances in Cryptology---ASIACRYPT 2001: 7th International Conference on the Theory and Application of Cryptology and Information Security, C. Boyd, Ed. LNCS, vol. 2248. Springer-Verlag, 255--271.
+Ju-Sung Kang , Okyeon Yi , Dowon Hong , Hyunsook Cho, Pseudorandomness of MISTY-Type Transformations and the Block Cipher KASUMI, Proceedings of the 6th Australasian Conference on Information Security and Privacy, p.60-73, July 11-13, 2001
+Chris Karlof , Naveen Sastry , David Wagner, TinySec: a link layer security architecture for wireless sensor networks, Proceedings of the 2nd international conference on Embedded networked sensor systems, November 03-05, 2004, Baltimore, MD, USA[doi>10.1145/1031495.1031515]
+Karlof, C. and Wagner, D. 2003. Secure routing in wireless sensor networks: Attacks and countermeasures. Elsevier's Ad Hoc Networks Journal, Special Issue on Sensor Network Applications and Protocols 1, 2--3, 293--315.
+Keating, G. 1999. Performance Analysis of AES candidates on the 6805 CPU core. In 2nd AES Candidate Conference (AES2).
+Kelsey, J. 2000. Key Separation in Twofish. Tech. Rep. &num;7, Counterpane Internet Security, Inc. Apr.
+John Kelsey , Bruce Schneier , David Wagner , Chris Hall, Side Channel Cryptanalysis of Product Ciphers, Proceedings of the 5th European Symposium on Research in Computer Security, p.97-110, September 16-18, 1998
+Kilian, J. and Rogaway, P. 1996. How to protect DES against exhaustive key search. In Advances in Cryptology---CRYPTO '96: 16th Annual International Cryptology Conference. Number 1109 in LNCS. Springer-Verlag.
+Kling, R. 2003. Intel mote: An Enhanced Sensor Network Node. In International Workshop on Advanced Sensors, Structural Health Monitoring and Smart Structures.
+Knudsen, L. and Meier, W. 2000. Correlations in RC6 with a reduced number of rounds. In Fast Software Encryption, 7th International Workshop, FSE 2000. LNCS, vol. 1978. Springer-Verlag, 94--108.
+Lars R. Knudsen , David Wagner, Integral Cryptanalysis, Revised Papers from the 9th International Workshop on Fast Software Encryption, p.112-127, February 04-06, 2002
+Kühn, U. 2001. Cryptanalysis of reduced-round MISTY. In Advances in Cryptology---EUROCRYPT 2001. LNCS, vol. 2045. Springer-Verlag, 325--339.
+Ulrich Kühn, Improved Cryptanalysis of MISTY1, Revised Papers from the 9th International Workshop on Fast Software Encryption, p.61-75, February 04-06, 2002
+Seonhee Lee , Seokhie Hong , Sangjin Lee , Jongin Lim , Seonhee Yoon, Truncated Differential Cryptanalysis of Camellia, Proceedings of the 4th International Conference Seoul on Information Security and Cryptology, p.32-38, December 06-07, 2001
+Lenstra, A. K. and Verheul, E. R. 2001. Selecting cryptographic key sizes. Journal of Cryptology 14, 4, 255--293.
+Li, T., Wu, H., Wang, X., and Bao, F. 2005. SenSec Design. Tech. Rep. TR-I2R-v1.1, InfoComm Security Department, Institute for Infocomm Research. Feb.
+Donggang Liu , Peng Ning , Rongfang Li, Establishing pairwise keys in distributed sensor networks, ACM Transactions on Information and System Security (TISSEC), v.8 n.1, p.41-77, February 2005[doi>10.1145/1053283.1053287]
+Stefan Lucks, The Saturation Attack - A Bait for Twofish, Revised Papers from the  8th International Workshop on Fast Software Encryption, p.1-15, April 02-04, 2001
+Mitsuru Matsui, Linear cryptanalysis method for DES cipher, Workshop on the theory and application of cryptographic techniques on Advances in cryptology, p.386-397, January 1994, Lofthus, Norway
+Mitsuru Matsui, New Block Encryption Algorithm MISTY, Proceedings of the 4th International Workshop on Fast Software Encryption, p.54-68, January 20-22, 1997
+Matsui, M. and Tokita, T. 2000. MISTY, KASUMI and Camellia Cipher Algorithm. Mitsubishi Electric ADVANCE (Cryptography Edition) 100, 2--8.
+Mirza, F. and Murphy, S. 1999. An observation on the key schedule of twofish. In Proceedings of the 2nd AES Conference (AES2).
+Mitsubishi Electric Corp. 2001. http://info.isl.ntt.co.jp/crypt/camellia/dl/camellia.c.
+Atsuko Miyaji , Masao Nonaka , Yoshinori Takii, Known Plaintext Correlation Attack against RC5, Proceedings of the The Cryptographer's Track at the RSA Conference on Topics in Cryptology, p.131-148, February 18-22, 2002
+Moh, T. 2002. On the Courtois-Pieprzyk's Attack on Rijndael. Web page: http://www.usdsi.com/aes.html.
+Murphy, S. 2000. The key Separation of twofish. In Proceedings of the 3rd AES Conference (AES3).
+Murphy, S. and Robshaw, M. 2002a. Comments on the Security of the AES and the XSL Technique. http://www.isg.rhul.ac.uk/~mrobshaw/rijndael/xslnote.pdf.
+Sean Murphy , Matthew J. B. Robshaw, Essential Algebraic Structure within the AES, Proceedings of the 22nd Annual International Cryptology Conference on Advances in Cryptology, p.1-16, August 18-22, 2002
+S. Murphy , M. J.  B. Robshaw, Key-Dependent S-Boxes and Differential Cryptanalysis, Designs, Codes and Cryptography, v.27 n.3, p.229-255, December 2002[doi>10.1023/A:1019991004496]
+Nechvatal, J., Barker, E., Bassham, L., Burr, W., Dworkin, M., Foti, J., and Roback, E. 2000. Report on the Development of the Advanced Encryption Standard (AES). Tech. rep., NIST.
+NESSIE Consortium 2003. Portfolio of recommended cryptographic primitives. NESSIE Consortium.
+NIST 1998. Skipjack and KEA Algorithm Specifications Version 2.0. NIST.
+Nyberg, K. 1995. Linear approximations of block ciphers. In Advances in Cryptology---EUROCRYPT '94, Workshop on the Theory and Application of Cryptographic Techniques. LNCS, vol. 950. Springer-Verlag, 439--444.
+H. Ohta , M. Matsui, A Description of the MISTY1 Encryption Algorithm, RFC Editor, 2000
+Adrian Perrig , Robert Szewczyk , Victor Wen , David Culler , J. D. Tygar, SPINS: security protocols for sensor networks, Proceedings of the 7th annual international conference on Mobile computing and networking, p.189-199, July 2001, Rome, Italy[doi>10.1145/381677.381696]
+Joseph Polastre , Jason Hill , David Culler, Versatile low power media access for wireless sensor networks, Proceedings of the 2nd international conference on Embedded networked sensor systems, November 03-05, 2004, Baltimore, MD, USA[doi>10.1145/1031495.1031508]
+Preneel, B. 1998. Cryptographic primitives for information authentication---state of the art. In State of the Art in Appplied Cryptography, B. Preneel and V. Rijmen, Eds. LNCS, vol. 1528. Springer-Verlag, 50--105.
+Preneel, B., Biryukov, A., Oswald, E., Rompay, B. V., Granboulan, L., Dottax, E., Murphy, S., Dent, A., White, J., Dichtl, M., Pyka, S., Schafheutle, M., Serf, P., Biham, E., Barkan, E., Dunkelman, O., Quisquater, J.-J., Ciet, M., Sica, F., Knudsen, L., Parker, M., and Raddum, H. 2003. NESSIE Security Report. Deliverable D20, NESSIE Consortium. Feb.
+Ben Reichardt , David Wagner, Markov Truncated Differential Cryptanalysis of Skipjack, Revised Papers from the 9th Annual International Workshop on Selected Areas in Cryptography, p.110-128, August 15-16, 2002
+Rivest, R. 1995. The RC5 Encryption Algorithm. In Proceedings of the 1994 Leuven Workshop on Fast Software Encryption. Springer-Verlag, 86--96.
+Rivest, R., Robshaw, M., Sidney, R., and Yin, Y. 1998. The RC6#8482; Block Cipher. Specification version 1.1.
+Sano, F., Koike, M., Kawamura, S., and Shiba, M. 2001. Performance evaluation of aes finalists on the high-end smart card. In Proceedings of the 3rd AES Conference (AES3).
+Bruce Schneier, Description of a New Variable-Length Key, 64-bit Block Cipher (Blowfish), Fast Software Encryption, Cambridge Security Workshop, p.191-204, December 09-11, 1993
+Bruce Schneier, Applied cryptography (2nd ed.): protocols, algorithms, and source code in C, John Wiley & Sons, Inc., New York, NY, 1995
+Schneier, B. 2002a. AES News. Crypto-gram newsletter, Counterpane Internet Security, Inc. Sept.
+Schneier, B. 2002b. More on AES Cryptanalysis. Crypto-gram newsletter, Counterpane Internet Security, Inc. Oct.
+Schneier, B., Kelsey, J., Whiting, D., Wagner, D., Hall, C., and Ferguson, N. 1998. Twofish: A 128-Bit Block Cipher. http://www.schneier.com/paper-twofish-paper.pdf.
+Schneier, B., Kelsey, J., Whiting, D., Wagner, D., Hall, C., and Ferguson, N. 1999a. On the twofish key schedule. In Selected Areas in Cryptography '98, SAC'98, S. Tavares and H. Meijer, Eds. LNCS, vol. 1556. Springer-Verlag, 27--42.
+Bruce Schneier , John Kelsey , Doug Whiting , David Wagner , Chris Hall , Niels Ferguson, The Twofish encryption algorithm: a 128-bit block cipher, John Wiley & Sons, Inc., New York, NY, 1999
+Schneier, B. and Whiting, D. 2001. A performance comparison of the five AES finalists. In Proceedings of the 3rd AES Conference (AES3).
+Takeshi Shimoyama , Masahiko Takenaka , Takeshi Koshiba, Multiple Linear Cryptanalysis of a Reduced Round RC6, Revised Papers from the 9th International Workshop on Fast Software Encryption, p.76-88, February 04-06, 2002
+Shimoyama, T., Takeuchi, K., and Hayakawa, J. 2000. Correlation Attack to the Block Cipher RC5 and the Simplified Variants of RC6. In Proceedings of the 3rd AES Conference (AES3).
+Sasha Slijepcevic , Miodrag Potkonjak , Vlasios Tsiatsis , Scott Zimbeck , Mani B. Srivastava, On Communication Security in Wireless Ad-Hoc Sensor Networks, Proceedings of the 11th IEEE International Workshops on Enabling Technologies: nfrastructure for Collaborative Enterprises, p.139-144, June 10-12, 2002
+Sugita, M., Kobara, K., and Imai, H. 2001. Security of reduced version of the block cipher camellia against truncated and impossible differential cryptanalysis. In Advances in Cryptology---ASIACRYPT 2001: 7th International Conference on the Theory and Application of Cryptology and Information Security, C. Boyd, Ed. LNCS, vol. 2248. Springer-Verlag, 193--207.
+Szewczyk, R., Polastre, J., Mainwaring, A., and Culler, D. 2004. Lessons from a sensor network expedition. In Proceedings of the 1st European Workshop Wireless Sensor Networks (EWSN 04). LNCS, vol. 2920. Springer-Verlag, 307--322.
+Takenaka, M., Shimoyama, T., and Koshiba, T. 2002. Theoretical Analysis of “Correlations in RC6”. Cryptology ePrint Archive: Report 2002/176.
+Masahiko Takenaka , Takeshi Shimoyama , Takeshi Koshiba, Theoretical analysis of χ2attack on RC6, Proceedings of the 8th Australasian conference on Information security and privacy, July 09-11, 2003, Wollongong, Australia
+Hidema Tanaka , Chikashi Ishii , Toshinobu Kaneko, On the Strength of KASUMI without FL Functions against Higher Order Differential Attack, Proceedings of the Third International Conference on Information Security and Cryptology, p.14-21, December 08-09, 2000
+Texas Instruments, Inc. 2001. MSP430x13x, MSP430x14x Mixed Signal Microcontroller. Datasheet.
+Tri Van Le. 2003. Novel Cyclic and Algebraic Properties of AES. Cryptology ePrint Archive: Report 2003/108.
+Tijs van Dam , Koen Langendoen, An adaptive energy-efficient MAC protocol for wireless sensor networks, Proceedings of the 1st international conference on Embedded networked sensor systems, November 05-07, 2003, Los Angeles, California, USA[doi>10.1145/958491.958512]
+van Hoesel, L., Dulman, S., Havinga, P., and Kip, H. 2003. Design of a low-power testbed for wireless sensor networks and verification. Tech. Rep. TR-CTIT-03-45, Centre for Telematics and Information Technology, University of Twente, The Netherlands. Sept.
+Whiting, D. 1998. http://www.schneier.com/code/twofish-optimized-c.zip.
+Worley, J., Worley, B., Christian, T., and Worley, C. 2001. AES Finalists on PA-RISC and IA-64: Implementations & performance. In Proceedings of the 3rd AES Conference (AES3).
+Xue, Q. and Ganz, A. 2003. Runtime security composition for sensor networks (SecureSense). In IEEE Vehicular Technology Conference (VTC Fall 2003).
+Ye, W., Heidemann, J., and Estrin, D. 2002. An energy-efficient MAC protocol for wireless sensor networks. In Proceedings of the IEEE Infocom. USC/Information Sciences Institute, IEEE, New York, NY, USA, 1567--1576.
+Yongjin Yeom , Sangwoo Park , Iljun Kim, On the Security of CAMELLIA against the Square Attack, Revised Papers from the 9th International Workshop on Fast Software Encryption, p.89-99, February 04-06, 2002
+Youssef, A. and Tavares, S. 2002. On Some Algebraic Structures in the AES Round Function. Cryptology ePrint Archive: Report 2002/144.
+Pei Zhang , Christopher M. Sadler , Stephen A. Lyon , Margaret Martonosi, Hardware design experiences in ZebraNet, Proceedings of the 2nd international conference on Embedded networked sensor systems, November 03-05, 2004, Baltimore, MD, USA[doi>10.1145/1031495.1031522]
+Sencun Zhu , Sanjeev Setia , Sushil Jajodia, LEAP: efficient security mechanisms for large-scale distributed sensor networks, Proceedings of the 10th ACM conference on Computer and communications security, October 27-30, 2003, Washington D.C., USA[doi>10.1145/948109.948120]
