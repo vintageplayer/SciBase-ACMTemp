@@ -1,0 +1,88 @@
+Thomas Ball , James R. Larus, Optimally profiling and tracing programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.4, p.1319-1360, July 1994[doi>10.1145/183432.183527]
+Adam Barth , Collin Jackson , John C. Mitchell, Robust defenses for cross-site request forgery, Proceedings of the 15th ACM conference on Computer and communications security, October 27-31, 2008, Alexandria, Virginia, USA[doi>10.1145/1455770.1455782]
+Adam Barth , Collin Jackson , John C. Mitchell, Securing frame communication in browsers, Proceedings of the 17th conference on Security symposium, p.17-30, July 28-August 01, 2008, San Jose, CA
+Ira D. Baxter , Andrew Yahin , Leonardo Moura , Marcelo Sant'Anna , Lorraine Bier, Clone Detection Using Abstract Syntax Trees, Proceedings of the International Conference on Software Maintenance, p.368, March 16-19, 1998
+Andrew Bortz , Dan Boneh, Exposing private information by timing web applications, Proceedings of the 16th international conference on World Wide Web, May 08-12, 2007, Banff, Alberta, Canada[doi>10.1145/1242572.1242656]
+Davide Canali , Marco Cova , Giovanni Vigna , Christopher Kruegel, Prophiler: a fast filter for the large-scale detection of malicious web pages, Proceedings of the 20th international conference on World wide web, March 28-April 01, 2011, Hyderabad, India[doi>10.1145/1963405.1963436]
+Stefano Ceri , Piero Fraternali , Aldo Bongio , Marco Brambilla , Sara Comai , Maristella Matera, Designing Data-Intensive Web Applications, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2002
+Cert. 2000. CERT advisory ca-2000-02 malicious html tags embedded in client web requests. http://www.cert.org/advisories/CA-2000-02.html.
+Jose Meseguer , Ralf Sasse , Helen J. Wang , Yi-Min Wang, A Systematic Approach to Uncover Security Flaws in GUI Logic, Proceedings of the 2007 IEEE Symposium on Security and Privacy, p.71-85, May 20-23, 2007[doi>10.1109/SP.2007.6]
+Marco Cova , Christopher Kruegel , Giovanni Vigna, Detection and analysis of drive-by-download attacks and malicious JavaScript code, Proceedings of the 19th international conference on World wide web, April 26-30, 2010, Raleigh, North Carolina, USA[doi>10.1145/1772690.1772720]
+Charlie Curtsinger , Benjamin Livshits , Benjamin Zorn , Christian Seifert, ZOZZLE: fast and precise in-browser JavaScript malware detection, Proceedings of the 20th USENIX conference on Security, p.3-3, August 08-12, 2011, San Francisco, CA
+Rachna Dhamija , J. D. Tygar , Marti Hearst, Why phishing works, Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, April 22-27, 2006, Montréal, Québec, Canada[doi>10.1145/1124772.1124861]
+Dom2Events. 2012. Document object model (dom) level 2 events. http://www.w3.org/TR/DOM-Level-2-Events/events.html.
+Manuel Egele , Peter Wurzinger , Christopher Kruegel , Engin Kirda, Defending Browsers against Drive-by Downloads: Mitigating Heap-Spraying Code Injection Attacks, Proceedings of the 6th International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment, July 09-10, 2009, Como, Italy[doi>10.1007/978-3-642-02918-9_6]
+Evalmdc. 2011. Eval-mdc. https://developer.mozilla.org/en/JavaScript/Reference/Global Objects/eval.
+Laura Falk , Atul Prakash , Kevin Borders, Analyzing websites for user-visible security design flaws, Proceedings of the 4th symposium on Usable privacy and security, July 23-25, 2008, Pittsburgh, Pennsylvania[doi>10.1145/1408664.1408680]
+Finifter, M., Weinberger, J., and Barth, A. 2010. Preventing capability leaks in secure javascript subsets. In Proceedings of the Network and Distributed System Security Symposium (NDSS).
+David Flanagan, JavaScript: The Definitive Guide, O'Reilly Media, Inc., 2006
+Dinei Florencio , Cormac Herley, A large-scale study of web password habits, Proceedings of the 16th international conference on World Wide Web, May 08-12, 2007, Banff, Alberta, Canada[doi>10.1145/1242572.1242661]
+Seth Fogie , Jeremiah Grossman , Robert Hansen , Anton Rager , Petko D. Petkov, XSS Attacks: Cross Site Scripting Exploits and Defense, Syngress Publishing, 2007
+Salvatore Guarnieri , Benjamin Livshits, GATEKEEPER: mostly static enforcement of security and reliability policies for javascript code, Proceedings of the 18th conference on USENIX security symposium, p.151-168, August 10-14, 2009, Montreal, Canada
+Heilmann, C. 2011. Unobtrusive javascript. http://www.onlinetools.org/articles/unobtrusivejavascript/.
+Pieter Hooimeijer , Benjamin Livshits , David Molnar , Prateek Saxena , Margus Veanes, Fast and precise sanitizer analysis with BEK, Proceedings of the 20th USENIX conference on Security, p.1-1, August 08-12, 2011, San Francisco, CA
+Html5Comm. 2012. HTML5: Communication. http://www.w3.org/TR/html5/comms.html.
+Html5Sandbox. 2012. HTML5 <sup>iframe</sup> sandbox. http://www.w3schools.com/html5/att iframe sandbox.asp.
+Htmltimers. 2012. HTML timers. http://www.w3.org/TR/html5/timers.html.
+Yao-Wen Huang , Fang Yu , Christian Hang , Chung-Hung Tsai , Der-Tsai Lee , Sy-Yen Kuo, Securing web application code by static analysis and runtime protection, Proceedings of the 13th international conference on World Wide Web, May 17-20, 2004, New York, NY, USA[doi>10.1145/988672.988679]
+Collin Jackson , Andrew Bortz , Dan Boneh , John C. Mitchell, Protecting browser state from web privacy attacks, Proceedings of the 15th international conference on World Wide Web, May 23-26, 2006, Edinburgh, Scotland[doi>10.1145/1135777.1135884]
+Collin Jackson , Helen J. Wang, Subspace: secure cross-domain communication for web mashups, Proceedings of the 16th international conference on World Wide Web, May 08-12, 2007, Banff, Alberta, Canada[doi>10.1145/1242572.1242655]
+Markus Jakobsson , Steven Myers, Phishing and Countermeasures: Understanding the Increasing Problem of Electronic Identity Theft, Wiley-Interscience, 2006
+Trevor Jim , Nikhil Swamy , Michael Hicks, Defeating script injection attacks with browser-enforced embedded policies, Proceedings of the 16th international conference on World Wide Web, May 08-12, 2007, Banff, Alberta, Canada[doi>10.1145/1242572.1242654]
+Jsapi. 2011. JSAPI reference-MDC. https://developer.mozilla.org/en/JSAPI Reference.
+Json. 2011. JSON in javascript. http://www.json.org/js.html.
+Jsprincipals. 2011. JSprincipals-MDC. http://developer.mozilla.org/en/JSPrincipals.
+Stefan Kals , Engin Kirda , Christopher Kruegel , Nenad Jovanovic, SecuBat: a web vulnerability scanner, Proceedings of the 15th international conference on World Wide Web, May 23-26, 2006, Edinburgh, Scotland[doi>10.1145/1135777.1135817]
+Gerti Kappel, Web Engineering, John Wiley & Sons, 2006
+Emre Kiciman , Benjamin Livshits, AjaxScope: A Platform for Remotely Monitoring the Client-Side Behavior of Web 2.0 Applications, ACM Transactions on the Web (TWEB), v.4 n.4, p.1-52, September 2010[doi>10.1145/1841909.1841910]
+Kirda, E., Jovanovic, N., Kruegel, C., and Vigna G. 2009. Client-side cross-site scripting protection. Comput. Secur. 28, 7, 592--604.
+Saranga Komanduri , Richard Shay , Patrick Gage Kelley , Michelle L. Mazurek , Lujo Bauer , Nicolas Christin , Lorrie Faith Cranor , Serge Egelman, Of passwords and people: measuring the effect of password-composition policies, Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, May 07-12, 2011, Vancouver, BC, Canada[doi>10.1145/1978942.1979321]
+Balachander Krishnamurthy , Craig E. Wills, Cat and mouse: content delivery tradeoffs in web access, Proceedings of the 15th international conference on World Wide Web, May 23-26, 2006, Edinburgh, Scotland[doi>10.1145/1135777.1135829]
+V. T. Lam , S. Antonatos , P. Akritidis , K. G. Anagnostakis, Puppetnets: misusing web browsers as a distributed attack infrastructure, Proceedings of the 13th ACM conference on Computer and communications security, October 30-November 03, 2006, Alexandria, Virginia, USA[doi>10.1145/1180405.1180434]
+Benjamin Livshits , Weidong Cui, Spectator: detection and containment of JavaScript worms, USENIX 2008 Annual Technical Conference on Annual Technical Conference, p.335-348, June 22-27, 2008, Boston, Massachusetts
+Mendes, E. and Mosley, N. 2005. Web Engineering. Springer.
+Leo A. Meyerovich , Benjamin Livshits, ConScript: Specifying and Enforcing Fine-Grained Security Policies for JavaScript in the Browser, Proceedings of the 2010 IEEE Symposium on Security and Privacy, p.481-496, May 16-19, 2010[doi>10.1109/SP.2010.36]
+Moshchuk, A., Bragin, T., Gribble, S. D., and Levy, H. M. 2006. A crawler-based study of spyware in the web. In Proceedings of the Network and Distributed System Security Symposium (NDSS).
+Msdn. 2011. MSDN: InnerHTML property. http://msdn.microsoft.com/en-us/library/ms533897(VS.85).aspx.
+Murugesan, S. and Deshpande, Y. 2001. Web Engineering: Managing Diversity and Complexity of Web Application Development. Springer.
+Mxr. 2012. Mozilla cross-reference: Firefox 2 source code. http://mxr.mozilla.org/firefox2/.
+Nick Nikiforakis , Luca Invernizzi , Alexandros Kapravelos , Steven Van Acker , Wouter Joosen , Christopher Kruegel , Frank Piessens , Giovanni Vigna, You are what you include: large-scale evaluation of remote javascript inclusions, Proceedings of the 2012 ACM conference on Computer and communications security, October 16-18, 2012, Raleigh, North Carolina, USA[doi>10.1145/2382196.2382274]
+Terri Oda , Glenn Wurster , P. C. van Oorschot , Anil Somayaji, SOMA: mutual approval for included content in web pages, Proceedings of the 15th ACM conference on Computer and communications security, October 27-31, 2008, Alexandria, Virginia, USA[doi>10.1145/1455770.1455783]
+Thomas A. Powell , David L. Jones , Dominique C. Cutts, Web site engineering: beyond Web page design, Prentice-Hall, Inc., Upper Saddle River, NJ, 1998
+Niels Provos , Panayiotis Mavrommatis , Moheeb Abu Rajab , Fabian Monrose, All your iFRAMEs point to Us, Proceedings of the 17th conference on Security symposium, p.1-15, July 28-August 01, 2008, San Jose, CA
+Paruj Ratanaworabhan , Benjamin Livshits , Benjamin G. Zorn, JSMeter: comparing the behavior of JavaScript benchmarks with real web applications, Proceedings of the 2010 USENIX conference on Web application development, p.3-3, June 23-24, 2010, Boston, MA
+Charles Reis , John Dunagan , Helen J. Wang , Opher Dubrovsky , Saher Esmeir, BrowserShield: vulnerability-driven filtering of dynamic HTML, Proceedings of the 7th symposium on Operating systems design and implementation, November 06-08, 2006, Seattle, Washington
+D. C. Reis , P. B. Golgher , A. S. Silva , A. F. Laender, Automatic web news extraction using tree edit distance, Proceedings of the 13th international conference on World Wide Web, May 17-20, 2004, New York, NY, USA[doi>10.1145/988672.988740]
+Gregor Richards , Andreas Gal , Brendan Eich , Jan Vitek, Automated construction of JavaScript benchmarks, Proceedings of the 2011 ACM international conference on Object oriented programming systems languages and applications, October 22-27, 2011, Portland, Oregon, USA[doi>10.1145/2048066.2048119]
+Gregor Richards , Christian Hammer , Brian Burg , Jan Vitek, The eval that men do: A large-scale study of the use of eval in javascript applications, Proceedings of the 25th European conference on Object-oriented programming, July 25-29, 2011, Lancaster, UK
+Gregor Richards , Sylvain Lebresne , Brian Burg , Jan Vitek, An analysis of the dynamic behavior of JavaScript programs, Proceedings of the 2010 ACM SIGPLAN conference on Programming language design and implementation, June 05-10, 2010, Toronto, Ontario, Canada[doi>10.1145/1806596.1806598]
+Gustavo Rossi , Oscar Pastor , Daniel Schwabe , Luis Olsina, Web Engineering: Modelling and Implementing Web Applications (Human-Computer Interaction Series), 2007
+Sans. 2007. SANS top-20 2007 security risks (2007 annual update). http://www.sans.org/top20/2007/.
+Siliconforks. 2012. Parsing javascript with spidermonkey. http://siliconforks.com/doc/parsing-javascript-with-spidermonkey/.
+Kapil Singh , Alexander Moshchuk , Helen J. Wang , Wenke Lee, On the Incoherencies in Web Browser Access Control Policies, Proceedings of the 2010 IEEE Symposium on Security and Privacy, p.463-478, May 16-19, 2010[doi>10.1109/SP.2010.35]
+Spidermonkey. 2012. Spidermonkey (javascript-c) engine. http://www.mozilla.org/js/spidermonkey/.
+Brett Stone-Gross , Marco Cova , Lorenzo Cavallaro , Bob Gilbert , Martin Szydlowski , Richard Kemmerer , Christopher Kruegel , Giovanni Vigna, Your botnet is my botnet: analysis of a botnet takeover, Proceedings of the 16th ACM conference on Computer and communications security, November 09-13, 2009, Chicago, Illinois, USA[doi>10.1145/1653662.1653738]
+Woojong Suh, Web Engineering: Principles And Techniques, IGI Global, Hershey, PA, 2005
+Symantec. 2008. Symantec internet security threat report volume XIII: April, 2008. http://www.symantec.com/business/theme.jsp&qust;themeid=threatreport.
+Vogt, P., Nentwich, F., Jovanovic, N., Kirda, E., Kruegel, C., and Vigna, G. 2007. Cross site scripting prevention with dynamic data tainting and static analysis. In Proceedings of the Network and Distributed System Security Symposium (NDSS).
+W3cdom. 2011. W3C document object model. http://www.w3.org/DOM.
+Helen J. Wang , Xiaofeng Fan , Jon Howell , Collin Jackson, Protection and communication abstractions for web browsers in MashupOS, Proceedings of twenty-first ACM SIGOPS symposium on Operating systems principles, October 14-17, 2007, Stevenson, Washington, USA[doi>10.1145/1294261.1294263]
+Helen J. Wang , Chris Grier , Alexander Moshchuk , Samuel T. King , Piali Choudhury , Herman Venter, The multi-principal OS construction of the gazelle web browser, Proceedings of the 18th conference on USENIX security symposium, p.417-432, August 10-14, 2009, Montreal, Canada
+Wang, Y.-M., Beck, D., Jiang, X., Roussev, R., Verbowski, C., Chen, S., and King, S. T. 2006. Automated web patrol with strider honeymonkeys: Finding web sites that exploit browser vulnerabilities. In Proceedings of the Network and Distributed System Security Symposium (NDSS).
+Gary Wassermann , Zhendong Su, Static detection of cross-site scripting vulnerabilities, Proceedings of the 30th international conference on Software engineering, May 10-18, 2008, Leipzig, Germany[doi>10.1145/1368088.1368112]
+C. A. Welty, Augmenting abstract syntax trees for program understanding, Proceedings of the 12th international conference on Automated software engineering (formerly: KBSE), p.126, November 02-05, 1997
+Wikijs. 2011. Javascript. http://en.wikipedia.org/wiki/JavaScript.
+Wikisop. 2011. Same origin policy. http://en.wikipedia.org/wiki/Same origin policy.
+Wikixss. 2011. Cross-site scripting. http://en.wikipedia.org/wiki/Cross-site scripting.
+Willison, S. 2005. 24 ways: Don't be eval(). http://24ways.org/2005/dont-be-eval.
+Wot. 2012. Safe browsing tool—WOT (web of trust). http://www.mywot.com/.
+Xhr. 2011. XMLHttpRequest. http://www.w3.org/TR/XMLHttpRequest/.
+Wuu Yang, Identifying syntactic differences between two programs, Software—Practice & Experience, v.21 n.7, p.739-755, June 1991[doi>10.1002/spe.4380210706]
+Dachuan Yu , Ajay Chander , Nayeem Islam , Igor Serikov, JavaScript instrumentation for browser security, Proceedings of the 34th annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages, January 17-19, 2007, Nice, France[doi>10.1145/1190216.1190252]
+Chuan Yue, Preventing the revealing of online passwords to inappropriate websites with logininspector, Proceedings of the 26th international conference on Large Installation System Administration: strategies, tools, and techniques, p.67-82, December 09-14, 2012, San Diego, CA
+Chuan Yue , Haining Wang, Characterizing insecure javascript practices on the web, Proceedings of the 18th international conference on World wide web, April 20-24, 2009, Madrid, Spain[doi>10.1145/1526709.1526838]
+Chuan Yue , Haining Wang, BogusBiter: A transparent protection against phishing attacks, ACM Transactions on Internet Technology (TOIT), v.10 n.2, p.1-31, May 2010[doi>10.1145/1754393.1754395]
+Chuan Yue , Mengjun Xie , Haining Wang, An automatic HTTP cookie management system, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.54 n.13, p.2182-2198, September, 2010[doi>10.1016/j.comnet.2010.03.006]
+Zalewski, M. 2012. Browser security handbook. http://code.google.com/p/browsersec/wiki/Main.
+Yanhong Zhai , Bing Liu, Web data extraction based on partial tree alignment, Proceedings of the 14th international conference on World Wide Web, May 10-14, 2005, Chiba, Japan[doi>10.1145/1060745.1060761]
+Rui Zhao , Chuan Yue, All your browser-saved passwords could belong to us: a security analysis and a cloud-based new design, Proceedings of the third ACM conference on Data and application security and privacy, February 18-20, 2013, San Antonio, Texas, USA[doi>10.1145/2435349.2435397]
