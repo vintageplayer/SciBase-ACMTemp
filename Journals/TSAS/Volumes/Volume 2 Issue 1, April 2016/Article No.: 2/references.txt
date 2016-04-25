@@ -1,0 +1,42 @@
+M. A. Abam, S. Daneshpajouh, L. Deleuran, S. Ehsani, and M. Ghodsi. 2014. Computing homotopic line simplification. Computational Geometry: Theory and Applications 47, 7, 728--739.
+E. M. Arkin, L. P. Chew, D. P. Huttenlocher, K. Kedem, and J. S. B. Mitchell. 1991. An efficiently computable metric for comparing polygonal shapes. IEEE Transactions on Pattern Analysis and Machine Intelligence 13, 3, 209--216.
+T. Barkowsky, L. J. Latecki, and K.-F. Richter. 2000. Schematizing maps: Simplification of geographic shape by discrete curve evolution. In Spatial Cognition II. Lecture Notes in Computer Science, Vol. 1849. Springer, 41--53.
+M. de Berg, M. van Kreveld, and S. Schirra. 1998. Topologically correct subdivision simplification using the bandwidth criterion. Cartography and Geographic Information Science 25, 4, 243--257.
+P. Bose, S. Cabello, O. Cheong, J. Gudmundsson, M. van Kreveld, and B. Speckmann. 2006. Area-preserving approximations of polygonal paths. Journal of Discrete Algorithms 4, 4, 554--566.
+K. Buchin, W. Meulemans, and B. Speckmann. 2011a. Area-preserving C-oriented schematization. In Abstracts of the 27th European Workshop on Computational Geometry. 163--166.
+K. Buchin, W. Meulemans, and B. Speckmann. 2011b. A new method for subdivision simplification with applications to urban-area generalization. In Proceedings of the 19th ACM SIGSPATIAL International Symposium on Advances in Geographic Information Systems. 261--270.
+M. E. Buchin. 2007. On the Computability of the Fréchet Distance Between Triangulated Surfaces. Ph.D. Dissertation. Freie Universität Berlin.
+S. Cabello, M. de Berg, and M. van Kreveld. 2005. Schematization of networks. Computational Geometry: Theory and Applications 30, 3, 223--238.
+T. Christ, D. Pálvölgyi, and M. Stojaković. 2010. Consistent digital line segments. In Proceedings of the 26th Symposium on Computational Geometry. 11--18.
+S. Cicerone and M. Cermignani. 2012. Fast and simple approach for polygon schematization. In Computational Science and Its Applications—ICCSA 2012. Lecture Notes in Computer Science, Vol. 7333. Springer, 267--279.
+S. Daneshpajouh, M. Ghodsi, and A. Zarei. 2012. Computing polygonal path simplification under area measures. Graphical Models 74, 5, 283--289.
+D. Delling, A. Gemsa, M. Nöllenburg, and T. Pajor. 2010. Path schematization for route sketches. In Algorithm Theory—SWAT 2010. Lecture Notes in Computer Science, Vol. 6139. Springer, 285--296.
+T. C. van Dijk, A. van Goethem, J.-H. Haunert, W. Meulemans, and B. Speckmann. 2013. Accentuating focus map via partial schematization. In Proceedings of the 21st ACM SIGSPATIAL International Symposium on Advances in Geographic Information Systems. 438--441.
+T. C. van Dijk, A. van Goethem, J.-H. Haunert, W. Meulemans, and B. Speckmann. 2014. Map schematization with circular arcs. In Geographic Information Science. Lecture Notes in Computer Science, Vol. 8728. Springer, 1--17.
+D. H. Douglas and T. K. Peucker. 1973. Algorithms for the reduction of the number of points required to represent a digitized line or its caricature. Cartographica 10, 2, 112--122.
+R. Estkowski and J. S. B. Mitchell. 2001. Simplifying a polygonal subdivision while keeping it simple. In Proceedings of the 17th Symposium on Computational Geometry. 40--49.
+M. Fink, H. Haverkort, M. Nöllenburg, M. J. Roberts, J. Schuhmann, and A. Wolff. 2013. Drawing metro maps using Bézier curves. In Graph Drawing. Lecture Notes in Computer Science, Vol. 7704. Springer, 463--474.
+A. Gemsa, M. Nöllenburg, T. Pajor, and I. Rutter. 2011. On d-regular schematization of embedded paths. In SOFSEM 2011: Theory and Practice of Computer Science. Lecture Notes in Computer Science, Vol. 6543. Springer, 260--271.
+A. van Goethem, W. Meulemans, A. Reimer, H. Haverkort, and B. Speckmann. 2013. Topologically safe curved schematization. Cartographic Journal 50, 3, 276--285.
+A. van Goethem, W. Meulemans, B. Speckmann, and J. Wood. 2014. Exploring curved schematization. In Proceedings of the 7th IEEE Pacific Visualization Symposium. 1--8.
+L. J. Guibas, J. E. Hershberger, J. S. B. Mitchell, and J. S. Snoeyink. 1993. Approximating polygons and subdivisions with minimum-link paths. International Journal of Computational Geometry and Applications 3, 383--415.
+J.-H. Haunert. 2012. A symmetry detector for map generalization and urban-space analysis. ISPRS Journal of Photogrammetry and Remote Sensing 74, 66--77.
+H. Imai and M. Iri. 1988. Polygonal approximations of a curve—formulations and algorithms. Computational Morphology 6, 71--86.
+B. van de Kraats, M. van Kreveld, and M. Overmars. 1995. Printed circuit board simplification: Simplifying subdivisions in practice. In Proceedings of the 11th Symposium on Computational Geometry. 430--431.
+A. Marzal and V. Palazón. 2005. Dynamic time warping of cyclic strings for shape matching. In Pattern Recognition and Image Analysis. Lecture Notes in Computer Science, Vol. 3687. Springer, 644--652.
+D. Merrick and J. Gudmundsson. 2006. Path simplification for metro map layout. In Graph Drawing. Lecture Notes in Computer Science, Vol. 4372. Springer, 258--269.
+W. Meulemans. 2014. Similarity Measures and Algorithms for Cartographic Schematization. Ph.D. Dissertation. Technische Universiteit Eindhoven.
+W. Meulemans, A. van Renssen, and B. Speckmann. 2010. Area-preserving subdivision schematization. In Geographic Information Science. Lecture Notes in Computer Science, Vol. 6292. Springer, 160--74.
+M. E. Munich and P. Perona. 1999. Continuous dynamic time warping for translation-invariant curve alignment with applications to signature verification. In Proceedings of the 7th IEEE International Conference on Computer Vision. 108--115.
+N. Mustafa, E. Koutsofios, S. Krishnan, and S. Venkatasubramanian. 2001. Hardware-assisted view-dependent map simplification. In Proceedings of the 17th Symposium on Computational Geometry. 50--59.
+G. Neyer. 1999. Line simplification with restricted orientations. In Algorithms and Data Structures. Lecture Notes in Computer Science, Vol. 1663. Springer, 13--24.
+M. Nöllenburg and A. Wolff. 2011. Drawing and labeling high-quality metro maps by mixed-integer programming. IEEE Transactions on Visualization and Computer Graphics 17, 5, 626--641.
+P. M. van der Poorten and C. B. Jones. 2002. Characterisation and generalisation of cartographic lines using Delaunay triangulation. International Journal of Geographical Information Science 16, 8, 773--794.
+N. Regnauld, A. Edwardes, and M. Barrault. 1999. Strategies in building generalisation: Modelling the sequence, constraining the choice. In Proceedings of the ICA’99 Workshop on Progress in Automated Map Generalization.
+A. Reimer. 2010. Understanding chorematic diagrams: Towards a taxonomy. Cartographic Journal 47, 4, 330--350.
+A. Reimer and W. Meulemans. 2011. Parallelity in chorematic territorial outlines. In Proceedings of the 14th ICA Workshop on Generalisation and Multiple Representation.
+M. J. Roberts. 2012. Underground Maps Unravelled—Explorations in Information Design. Self-Published.
+J. Swan, S. Anand, M. Ware, and M. Jackson. 2007. Automated schematization for Web service applications. In Web and Wireless Geographical Information Systems. Lecture Notes in Computer Science, Vol. 4857. Springer, 216--226.
+D. Tutić and M. Lapaine. 2009. Area preserving cartographic line generalization. Cartography and Geoinformation 8, 11, 84--100.
+B. Tversky. 1993. Cognitive maps, cognitive collages, and spatial mental models. In Spatial Information Theory: A Theoretical Basis for GIS. Lecture Notes in Computer Science, Vol. 716. Springer, 14--24.
+M. Visvalingam and J. D. Whyatt. 1993. Line generalisation by repeated elimination of points. Cartographic Journal 30, 1, 46--51.
