@@ -1,0 +1,37 @@
+P.-A. Absil , R. Mahony , R. Sepulchre, Optimization Algorithms on Matrix Manifolds, Princeton University Press, Princeton, NJ, 2007
+L. C. Baird. 1995. Residual algorithms: Reinforcement learning with function approximation. In Proceedings of the 12th International Conference on Machine Learning. 30--37.
+J. S. Baras and V. S. Borkar. 2000. A learning algorithm for Markov decision processes with adaptive state aggregation. In Proceedings of the 39th IEEE Conference on Decision and Control, Vol. 4. 3351--3356.
+A. G. Barto. 1998. Reinforcement Learning: An Introduction. MIT Press.
+A. G. Barto, R. S. Sutton, and C. W. Anderson. 1983. Neuronlike adaptive elements that can solve difficult learning control problems. IEEE Transactions on Systems, Man and Cybernetics, 5 (1983), 834--846.
+D. P. Bertsekas. 2011. Dynamic Programming and Optimal Control. Vol. 2, 4th ed. Athena Scientific, Belmont, MA.
+S. Bhatnagar, V. S. Borkar, and K. J. Prabuchandran. 2013a. Feature search in the Grassmanian in online reinforcement learning. IEEE Journal of Selected Topics in Signal Processing 7, 5 (2013a), 746--758.
+S. Bhatnagar, V. S. Borkar, and L. A. Prashanth. 2012. Adaptive feature pursuit: Online adaptation of features in reinforcement learning. Reinforcement Learning and Approximate Dynamic Programming for Feedback Control. IEEE Press Computational Intelligence Science, IEEE Press and Wiley, 517--534.
+S. Bhatnagar, H. L. Prasad, and L. A. Prashanth. 2013b. Stochastic Recursive Algorithms for Optimization: Simultaneous Perturbation Methods. Springer.
+Shalabh Bhatnagar , Richard S. Sutton , Mohammad Ghavamzadeh , Mark Lee, Natural actor-critic algorithms, Automatica (Journal of IFAC), v.45 n.11, p.2471-2482, November, 2009[doi>10.1016/j.automatica.2009.07.008]
+Vivek S. Borkar, Stochastic approximation with two time scales, Systems & Control Letters, v.29 n.5, p.291-294, Feb. 1997[doi>10.1016/S0167-6911(97)90015-3]
+V. S. Borkar. 2008. Stochastic Approximation: A Dynamical Systems Viewpoint. Cambridge University Press.
+Dotan Di Castro , Shie Mannor, Adaptive bases for reinforcement learning, Proceedings of the 2010 European conference on Machine learning and knowledge discovery in databases: Part I, September 20-24, 2010, Barcelona, Spain
+Alan Edelman , Tomás A. Arias , Steven T. Smith, The Geometry of Algorithms with Orthogonality Constraints, SIAM Journal on Matrix Analysis and Applications, v.20 n.2, p.303-353, April 1999[doi>10.1137/S0895479895290954]
+Jihun Hamm , Daniel D. Lee, Grassmann discriminant analysis: a unifying view on subspace-based learning, Proceedings of the 25th international conference on Machine learning, p.376-383, July 05-09, 2008, Helsinki, Finland[doi>10.1145/1390156.1390204]
+Philipp W. Keller , Shie Mannor , Doina Precup, Automatic basis function construction for approximate dynamic programming and reinforcement learning, Proceedings of the 23rd international conference on Machine learning, p.449-456, June 25-29, 2006, Pittsburgh, Pennsylvania, USA[doi>10.1145/1143844.1143901]
+Vijay R. Konda , John N. Tsitsiklis, On Actor-Critic Algorithms, SIAM Journal on Control and Optimization, v.42 n.4, p.1143-1166, 2003[doi>10.1137/S0363012901385691]
+V. R. Konda and J. N. Tsitsiklis. 2004. Convergence rate of linear two-time-scale stochastic approximation. Annals of Applied Probability 14, 2 (2004), 796--819.
+H. J. Kushner and D. S. Clark. 1978. Stochastic Approximation Methods for Constrained and Unconstrained Systems. Vol. 6. Springer-Verlag, New York.
+Michail G. Lagoudakis , Ronald Parr, Least-squares policy iteration, The Journal of Machine Learning Research, 4, p.1107-1149, 12/1/2003
+S. Mahadevan and B. Liu. 2010. Basis construction from power series expansions of value functions. In Advances in Neural Information Processing Systems. 1540--1548.
+Sridhar Mahadevan , Mauro Maggioni, Proto-value Functions: A Laplacian Framework for Learning Representation and Control in Markov Decision Processes, The Journal of Machine Learning Research, 8, p.2169-2231, 12/1/2007
+P. Marbach and J. N Tsitsiklis. 2001. Simulation-based optimization of Markov reward processes. IEEE Transactions on Automatic Control, 46, 2 (2001), 191--209.
+I. Menache, S. Mannor, and N. Shimkin. 2005. Basis function adaptation in temporal difference reinforcement learning. Annals of Operations Research 134, 1 (2005), 215--238.
+Gilles Meyer , Silvère Bonnabel , Rodolphe Sepulchre, Regression on Fixed-Rank Positive Semidefinite Matrices: A Riemannian Approach, The Journal of Machine Learning Research, 12, p.593-625, 2/1/2011
+Ronald Parr , Christopher Painter-Wakefield , Lihong Li , Michael Littman, Analyzing feature generation for value-function approximation, Proceedings of the 24th international conference on Machine learning, p.737-744, June 20-24, 2007, Corvalis, Oregon, USA[doi>10.1145/1273496.1273589]
+K. J. Prabuchandran, S. Bhatnagar, and V. S. Borkar. 2014. An actor critic algorithm based on Grassmanian search. In Proceedings of the 53rd IEEE Conference on Decision and Control. 3597--3602.
+K. Rohanimanesh, N. Roy, and R. Tedrake. 2009. Towards feature selection in actor-critic algorithms. In Workshop on Abstraction in Reinforcement Learning. 42--48.
+S. T. Smith. 1993. Geometric Optimization Methods for Adaptive Filtering. Harvard University, Cambridge, MA.
+J. C. Spall. 1992. Multivariate stochastic approximation using a simultaneous perturbation gradient approximation. IEEE Transactions on Automatic Control, 37, 3 (1992), 332--341.
+Y. Sun, M. Ring, J. Schmidhuber, and F. J. Gomez. 2011. Incremental basis construction from temporal difference error. In Proceedings of the 28th International Conference on Machine Learning. 481--488.
+R. S. Sutton, D. McAllester, S. Singh, and Y. Mansour. 2000. Policy gradient methods for reinforcement learning with function approximation. In Advances in Neural Information Processing Systems, Vol. 12. 1057--1063.
+P. S. Thomas, W. C. Dabney, S. Giguere, and S. Mahadevan. 2013. Projected natural actor-critic. In Advances in Neural Information Processing Systems. 2337--2345.
+J. N. Tsitsiklis and B. Van Roy. 1997. An analysis of temporal-difference learning with function approximation. IEEE Transactions on Automatic Control, 42, 5 (1997), 674--690.
+John N. Tsitsiklis , Benjamin Van Roy, Brief paper: Average cost temporal-difference learning, Automatica (Journal of IFAC), v.35 n.11, p.1799-1808, November, 1999[doi>10.1016/S0005-1098(99)00099-0]
+Lior Wolf , Amnon Shashua, Learning over sets using kernel principal angles, The Journal of Machine Learning Research, 4, p.913-931, 12/1/2003
+H. Yu and D. P. Bertsekas. 2009. Basis function adaptation methods for cost approximation in MDP. In Adaptive Dynamic Programming and Reinforcement Learning. IEEE, 74--81.

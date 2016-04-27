@@ -1,0 +1,22 @@
+Brent, R. P. 2004a. Note on Marsaglia's xorshift random number generators. J. Stat. Soft. 11, 5, 1--4. See http://www.jstatsoft.org/v11/i05/brent.pdf.
+Brent, R. P. 2004b. Some uniform and normal random number generators. http://web.comlab.ox.ac.uk/oucl/work/richard.brent/random.html.
+M. Fushimi , S. Tezuka, Thek-distribution of generalized feedback shift register pseudorandom numbers, Communications of the ACM, v.26 n.7, p.516-523, July 1983[doi>10.1145/358150.358159]
+Donald E. Knuth, The art of computer programming, volume 2 (3rd ed.): seminumerical algorithms, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1997
+Pierre L'Ecuyer, Maximally equidistributed combined Tausworthe generators, Mathematics of Computation, v.65 n.213, p.203-213, Jan. 1996[doi>10.1090/S0025-5718-96-00696-5]
+L'Ecuyer, P. 2004. Random number generation. In Handbook of Computational Statistics, J. E. Gentle, W. Haerdle, and Y. Mori, Eds. Springer-Verlag, Berlin, 35--70. Chapter II.2.
+Pierre L'Ecuyer , Jacinthe Granger-Piché, Combined generators with components from different families, Mathematics and Computers in Simulation, v.62 n.3-6, p.395-404, 3 March 2003[doi>10.1016/S0378-4754(02)00234-3]
+Pierre L'Ecuyer , Richard Simard, Beware of linear congruential generators with multipliers of the forma= ±2q±2r, ACM Transactions on Mathematical Software (TOMS), v.25 n.3, p.367-374, Sept. 1999[doi>10.1145/326147.326156]
+Pierre L'Ecuyer , Richard Simard, On the performance of birthday spacings tests with certain families of random number generators, Mathematics and Computers in Simulation, v.55 n.1-3, p.131-137, Feb. 15, 2001[doi>10.1016/S0378-4754(00)00253-6]
+L'Ecuyer, P. and Simard, R. 2001b. TestU01: A software library in ANSI C for empirical testing of random number generators. Software User's Guide. Available at: http://www.iro.umontreal.ca/~lecuyer.
+Rudolf Lidl , Harald Niederreiter, Introduction to finite fields and their applications, Cambridge University Press, New York, NY, 1986
+Marsaglia, G. 1985. A current view of random number generators. In Computer Science and Statistics, Sixteenth Symposium on the Interface. Elsevier Science Publishers, North-Holland, Amsterdam, 3--10.
+Marsaglia, G. 2003. Xorshift RNGs. J. Stat. Soft. 8, 14, 1--6. See http://www.jstatsoft.org/v08/i14/xorshift.pdf.
+Jiří Matoušek, On theL2-discrepancy for anchored boxes, Journal of Complexity, v.14 n.4, p.527-556, Dec. 1998[doi>10.1006/jcom.1998.0489]
+Makoto Matsumoto , Yoshiharu Kurita, Twisted GFSR generators, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.2 n.3, p.179-194, July 1992[doi>10.1145/146382.146383]
+Makoto Matsumoto , Yoshiharu Kurita, Twisted GFSR generators II, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.4 n.3, p.254-266, July 1994[doi>10.1145/189443.189445]
+Makoto Matsumoto , Takuji Nishimura, Mersenne twister: a 623-dimensionally equidistributed uniform pseudo-random number generator, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.8 n.1, p.3-30, Jan. 1998[doi>10.1145/272991.272995]
+Harald Niederreiter, Random number generation and quasi-Monte Carlo methods, Society for Industrial and Applied Mathematics, Philadelphia, PA, 1992
+H. Niederreiter, Regular Article: The Multiple-Recursive Matrix Method for Pseudorandom Number Generation, Finite Fields and Their Applications, v.1 n.1, p.3-30, January, 1995[doi>10.1006/ffta.1995.1002]
+Art B. Owen, Monte Carlo Variance of Scrambled Net Quadrature, SIAM Journal on Numerical Analysis, v.34 n.5, p.1884-1910, Oct. 1997[doi>10.1137/S0036142994277468]
+Panneton, F. 2004. Construction d'ensembles de points basée sur des récurrences linéaires dans un corps fini de caractéristique 2 pour la simulation Monte Carlo et l'intégration quasi-Monte Carlo. Ph.D. thesis, Département d'informatique et de recherche opérationnelle, Université de Montréal, Canada.
+Panneton, F. and L'Ecuyer, P. 2004. Improved long-period generators based on linear recurrences modulo 2. Manuscript.

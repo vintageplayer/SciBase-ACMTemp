@@ -1,0 +1,24 @@
+Coron, J. S. and Naccache, D. 1998. An accurate evaluation of Maurer's universal test. In Proceedings of Selected Areas in Cryptography 98. Lecture Notes in Computer Science, vol. 1556. Springer-Verlag, New York, 57--71.
+Joan Daemen , Vincent Rijmen, The  Design of Rijndael, Springer-Verlag New York, Inc., Secaucus, NJ, 2002
+Donald E. Knuth, The art of computer programming, volume 2 (3rd ed.): seminumerical algorithms, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1997
+L'Ecuyer, P. and Hellekalek, P. 1998. Random number generators: Selection criteria and testing. In Random and Quasi-Random Point Sets, P. Hellekalek and G. Larcher, Eds. Lecture Notes in Statistics, vol. 138. Springer-Verlag, New York, 223--266.
+Pierre L'Ecuyer , Richard Simard, Beware of linear congruential generators with multipliers of the forma= ±2q±2r, ACM Transactions on Mathematical Software (TOMS), v.25 n.3, p.367-374, Sept. 1999[doi>10.1145/326147.326156]
+L'Ecuyer, P. and Simard, R. 2002. TestU01: A Software Library in ANSI C for Empirical Testing of Random Number Generators. Départment d'Informatique et de Recherche Opérationelle, Université de Montréal. Software user's guide.
+Pierre L'Ecuyer , Richard Simard , E. Jack Chen , W. David Kelton, An Object-Oriented Random-Number Package with Many Long Streams and Substreams, Operations Research, v.50 n.6, p.1073-1075, November 2002[doi>10.1287/opre.50.6.1073.358]
+Pierre L'Ecuyer , Richard Simard , Stefan Wegenkittl, Sparse Serial Tests of Uniformity for Random Number Generators, SIAM Journal on Scientific Computing, v.24 n.2, p.652-668, 2002[doi>10.1137/S1064827598349033]
+Hannes Leeb , Stefan Wegenkittl, Inversive and linear congruential pseudorandom number generators in empirical tests, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.7 n.2, p.272-286, April 1997[doi>10.1145/249204.249208]
+Marsaglia, G. 1996. DIEHARD. http://stat.fsu.edu/˜geo/diehard.html.
+Makoto Matsumoto , Yoshiharu Kurita, Twisted GFSR generators II, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.4 n.3, p.254-266, July 1994[doi>10.1145/189443.189445]
+Makoto Matsumoto , Takuji Nishimura, Mersenne twister: a 623-dimensionally equidistributed uniform pseudo-random number generator, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.8 n.1, p.3-30, Jan. 1998[doi>10.1145/272991.272995]
+Ueli M. Maurer, A universal statistical test for random bit generators, Journal of Cryptology, v.5 n.2, p.89-105, 1992
+Alfred J. Menezes , Scott A. Vanstone , Paul C. Van Oorschot, Handbook of Applied Cryptography, CRC Press, Inc., Boca Raton, FL, 1996
+NIST 2001b. A Statistical Test Suite for the Validation of Random Number Generators and Pseudo Random Number Generators for Cryptographic Applications. NIST, National Institute of Standards and Technology. Available from http://csrc.nist.gov/rng.
+Pincus, S. and Singer, B. H. 1998a. Randomness and degrees of irregularity. Proc. Natl. Acad. Sci. USA 93, 2083--2088.
+Pincus, S. and Singer, B. H. 1998b. A recipe for randomness. Proc. Natl. Acad. Sci. USA 95, 10367--10372.
+Shannon, C. E. 1949. Communication theory of secrecy systems. Bell Syst. Tech. J. 28, 657--715.
+Spencer, M. E. and Travares, S. E. 1984. A layered broadcast cryptographic system. In Proceedings of CRYPTO83, D. Chaum, Ed. Plenum Press, New York, 157--170.
+Stefan Wegenkittl, Monkeys, gambling, and return times: assessing pseudorandomness, Proceedings of the 31st conference on Winter simulation: Simulation---a bridge to the future, p.625-631, December 05-08, 1999, Phoenix, Arizona, USA[doi>10.1145/324138.324447]
+S. Wegenkittl, Entropy estimators and serial tests for ergodic chains, IEEE Transactions on Information Theory, v.47 n.6, p.2480-2489, September 2001[doi>10.1109/18.945259]
+Stefan Wegenkittl, Gambling tests for pseudorandom number generators, Mathematics and Computers in Simulation, v.55 n.1-3, p.281-288, Feb. 15, 2001[doi>10.1016/S0378-4754(00)00271-8]
+Wegenkittl, S. 2002. A generalized φ-divergence for asymptotically multivariate normal models. J. Multiva. Anal. 83, 288--302.
+Stefan Wegenkittl , Makoto Matsumoto, Getting rid of correlations among pseudorandom numbers: discarding versus tempering, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.9 n.3, p.282-294, July 1999[doi>10.1145/347823.347835]

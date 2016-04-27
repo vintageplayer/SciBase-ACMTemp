@@ -1,0 +1,38 @@
+AFFLERBACH, L. AND GRUBER, G. 1994. Assessment of random number generators in high accuracy. In New Directions in Simulation for Manufacturing and Communications, S. orito, H. Sakasegawa, M. Fushimi, and K. Nakano, Eds., OR Society of Japan, 128-133.
+Stuart L. Anderson, Random number generations generators on Vector supercomputers and other advanced architectures, SIAM Review, v.32 n.2, p.221-251, June 1990[doi>10.1137/1032044]
+Raymond Couture , Pierre L'Ecuyer, Orbits and lattices for linear random number generators with composite moduli, Mathematics of Computation, v.65 n.213, p.189-201, Jan. 1996[doi>10.1090/S0025-5718-96-00673-4]
+Raymond Couture , Pierre L'Ecuyer, Distribution properties of multiply-with-carry random number generators, Mathematics of Computation, v.66 n.218, p.591-607, April 1997[doi>10.1090/S0025-5718-97-00827-2]
+R. R. Coveyou , R. D. Macpherson, Fourier Analysis of Uniform Random Number Generators, Journal of the ACM (JACM), v.14 n.1, p.100-119, Jan. 1967[doi>10.1145/321371.321379]
+DE MATTEIS, A. AND PAGNUTTI, S. 1992. Critical distances in pseudorandom sequences generated with composite moduli. Int. J. Comput. Math. 43, 189-196.
+A. De Matteis , S. Pagnutti, Controlling correlations in parallel Monte Carlo, Parallel Computing, v.21 n.1, p.73-84, Jan. 1995[doi>10.1016/0167-8191(94)00073-J]
+DIETER, U. 1975. How to calculate shortest vectors in a lattice. Math. Comput. 29, 827-833.
+DUDEWICZ, E. AND RALLEY, T. 1981. The Handbook of Random Number Generation and Testing With TESTRAND Computer Code. American Series in Mathematical and ManagemeAt Sciences, Vol. 4, American Sciences Press, Columbus, OH.
+EICHENAUER-HERRMANN, g. 1992. Inversive congruential pseudorandom numbers: A Autorial. Int. Stat. Rev. 60, 167-176.
+ENTACHER, K. 1997a. A collection of selected pseudorandom number generators with linear structures. Tech. Rep. 97-1, ACPC, Austrian Center for Parallel Computation, Univ. of Vienna. Available at http://random, mat. sbg. ac. at/.
+ENTACHER, K. 1997b. The PLAB picturebook: Part III, bad subsequences of LCGs--The results. Report 06, PLAB, University of Salzburg. Available at http://random.mat. sbg. ac. at/team}.
+FISHMAN, G. 1990. Multiplicative congruential random number generators with modulus 2~. An exhaustive analysis for ;3 = 32 and a partial analysis for ;3 = 48. Math. Comput. 54, 331-344.
+FISHMAN, G. 1996. Monte Carlo: Concepts, Algorithms, and Applications. Springer Series in Operation Research, Springer-Verlag, New York.
+George A Fishman , Louis R Moore, III, An exhaustive analysis of multiplicative congruential random number generators with modulus 231-1, SIAM Journal on Scientific and Statistical Computing, v.7 n.1, p.24-45, Jan. 1986[doi>10.1137/0907002]
+Peter Hellekalek, Inversive pseudorandom number generators: concepts, results and links, Proceedings of the 27th conference on Winter simulation, p.255-262, December 03-06, 1995, Arlington, Virginia, USA[doi>10.1145/224401.224612]
+HELLEKALEK, P., ENTACHER, K., LEEB, H., LENDL, O., AND WEGENKITTL, S. 1995. The Plab www-server: http ://random. mat. sbg. ac. at. Also available via ftp.
+HOAGLIN, D. 1976. Theoretical Properties of Congruential Random-Number Generators: An Empirical View. Memorandum NS-340. Harvard University, Department of Statistics.
+JENNERGREN, L. 1983. Another method for random number generation on microcomputers. Simulation 41, 79.
+KARIAN, Z. AND GOYAL, R. 1994. Random number generation and testing. Tech. Rep. 1, Maple Technical Newsletter, Birkh~user-Verlag, Switzerland.
+Donald E. Knuth, The art of computer programming, volume 2 (3rd ed.): seminumerical algorithms, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1997
+P. L'Ecuyer, Efficient and portable combined random number generators, Communications of the ACM, v.31 n.6, p.742-751, June 1988[doi>10.1145/62959.62969]
+L'ECUYER, P.1994. Uniform random number generation. Ann. Oper. Res. 53, 77-120.
+L'ECUYER, P. 1996. Combined multiple recursive random number generators. Oper. Res. 44, 816-822.
+L'ECUYER, P. 1997. Bad lattice structures for vectors of non-successive values produced by some linear recurrences. INFORMS J. Comput. 9, 57-60.
+Pierre L'Ecuyer, Tables of linear congruential generators of different sizes and good lattice structure, Mathematics of Computation, v.68 n.225, p.249-260, Jan. 1999[doi>10.1090/S0025-5718-99-00996-5]
+L'ECUYER, P. AND COUTURE, R. 1997. An implementation of the lattice and spectral tests for multiple recursive linear random number generators. INFORMS J. Comput. 9, 2, 206-217.
+Pierre L'Ecuyer , François Blouin , Raymond Couture, A search for good multiple recursive random number generators, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.3 n.2, p.87-98, April 1993[doi>10.1145/169702.169698]
+Hannes Leeb , Stefan Wegenkittl, Inversive and linear congruential pseudorandom number generators in empirical tests, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.7 n.2, p.272-286, April 1997[doi>10.1145/249204.249208]
+LEWIS, P., GOODMAN, A., AND MILLER, g. 1969. A pseudo-random number generator for the System/360. IBM Syst. J. 8, 136-146.
+MACLAREN, N. 1989. The generation of multiple independent sequences of pseudorandom numbers. Appl. Statist. 38, 351-359.
+NIEDERREITER, H. 1995. New developments in uniform pseudorandom number and vector generation. In Monte Carlo and Quasi-Monte Carlo Methods in Scientific Computing, Lecture Notes in Statistics, Vol. 106, H. Niederreiter and P. Jau-Shyong Shiue. Eds., Springer-Verlag.
+S. K. Park , K. W. Miller, Random number generators: good ones are hard to find, Communications of the ACM, v.31 n.10, p.1192-1201, Oct. 1988[doi>10.1145/63039.63042]
+W. H. Payne , J. R. Rabung , T. P. Bogyo, Coding the Lehmer pseudo-random number generator, Communications of the ACM, v.12 n.2, p.85-86, Feb. 1969[doi>10.1145/362848.362860]
+B. D. Ripley, Thoughts on pseudorandom number generators, Journal of Computational and Applied Mathematics, v.31 n.1, p.153-163, July 1990[doi>10.1016/0377-0427(90)90346-2]
+Shu Tezuka , Pierre L'Ecuyer , Raymond Couture, On the lattice structure of the add-with-carry and subtract-with-borrow random number generators, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.3 n.4, p.315-331, Oct. 1993[doi>10.1145/159737.159749]
+THE NUMERICAL ALGORITHMS GROUP LIMITED 1991. The NAG Fortran Library Manual, Mark 15 (1st ed.). The Numerical Algorithms Group Limited.
+VATTULAINEN, I., KANKAALA, K., SAARINEN, J., AND ALA-NISSILA, T. 1995. A comparative study of some pseudorandom number generators. Comp. Phys. Comm. 86, 209-226.

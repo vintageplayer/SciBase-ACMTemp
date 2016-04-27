@@ -1,0 +1,59 @@
+Network configuration in a box: towards end-to-end verification of network reachability and security, Proceedings of the 2009 17th IEEE International Conference on Network Protocols. ICNP 2009, p.123, October 13-16, 2009[doi>10.1109/ICNP.2009.5339690]
+George Apostolopoulos , Constantinos Hassapis, V-eM: A Cluster of Virtual Machines for Robust, Detailed, and High-Performance Network Emulation, Proceedings of the 14th IEEE International Symposium on Modeling, Analysis, and Simulation, p.117-126, September 11-14, 2006[doi>10.1109/MASCOTS.2006.51]
+Rassul Ayani. 1988. A parallel simulation scheme based on distances between objects. Royal Institute of Technology, Department of Telecommunication Systems-Computer Systems (1988).
+Craig Bergstrom , Srinidhi Varadarajan , Godmar Back, The Distributed Open Network Emulator: Using Relativistic Time for Distributed Scalable Simulation, Proceedings of the 20th Workshop on Principles of Advanced and Distributed Simulation, p.19-28, May 24-26, 2006[doi>10.1109/PADS.2006.34]
+Pratik K. Biswas, Constantin Serban, Alex Poylisher, John Lee, Siun-Chuon Mau, Ritu Chadha, Cho-Yu J. Chiang, Robert Orlando, and Kimberly Jakubowski. 2009. An integrated testbed for virtual ad hoc networks. In Proceedings of the International Conference on Testbeds and Research Infrastructures for the Development of Networks and Communities. IEEE Computer Society, Los Alamitos, CA, 1--10.
+K. M. Chandy , J. Misra, Distributed Simulation: A Case Study in Design and Verification of Distributed Programs, IEEE Transactions on Software Engineering, v.5 n.5, p.440-452, September 1979[doi>10.1109/TSE.1979.230182]
+Phillip M. Dickens , Philip Heidelberger , David M. Nicol, A distributed memory LAPSE: parallel simulation of message-passing programs, Proceedings of the eighth workshop on Parallel and distributed simulation, p.32-38, July 06-08, 1994, Edinburgh, Scotland, United Kingdom[doi>10.1145/182478.182488]
+Miguel A. Erazo, Yue Li, and Jason Liu. 2009. SVEET! a scalable virtualized evaluation environment for TCP. In Proceedings of 5th International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities and Workshops (TridentCom). IEEE, 1--10.
+Google. 2011. Inter-Datacenter WAN with centralized TE using SDN and OpenFlow. (2011). Retrieved from https://www.opennetworking.org/images/stories/downloads/misc/googlesdn.pdf.
+Andreas Grau , Steffen Maier , Klaus Herrmann , Kurt Rothermel, Time Jails: A Hybrid Approach to Scalable Network Emulation, Proceedings of the 22nd Workshop on Principles of Advanced and Distributed Simulation, p.7-14, June 03-06, 2008[doi>10.1109/PADS.2008.19]
+Diwaker Gupta , Kashi V. Vishwanath , Amin Vahdat, DieCast: testing distributed systems with an accurate scale model, Proceedings of the 5th USENIX Symposium on Networked Systems Design and Implementation, p.407-422, April 16-18, 2008, San Francisco, California
+Diwaker Gupta , Kenneth Yocum , Marvin McNett , Alex C. Snoeren , Amin Vahdat , Geoffrey M. Voelker, To infinity and beyond: time warped network emulation, Proceedings of the twentieth ACM symposium on Operating systems principles, October 23-26, 2005, Brighton, United Kingdom[doi>10.1145/1095810.1118605]
+Nikhil Handigol , Brandon Heller , Vimalkumar Jeyakumar , Bob Lantz , Nick McKeown, Reproducible network experiments using container-based emulation, Proceedings of the 8th international conference on Emerging networking experiments and technologies, December 10-13, 2012, Nice, France[doi>10.1145/2413176.2413206]
+Brandon Heller. 2013. Reproducuble Network Research with High-Fidelity Emulation. Ph.D. Dissertation. Stanford University.
+Dong Jin , David M. Nicol, Fast simulation of background traffic through fair queueing networks, Proceedings of the Winter Simulation Conference, December 05-08, 2010, Baltimore, Maryland
+Dong Jin , David M. Nicol, Parallel simulation of software defined networks, Proceedings of the 1st ACM SIGSIM Conference on Principles of Advanced Discrete Simulation, May 19-22, 2013, Montr©al, Québec, Canada[doi>10.1145/2486092.2486104]
+Dong Jin , Yuhao Zheng , Huaiyu Zhu , David M. Nicol , Lenhard Winterrowd, Virtual Time Integration of Emulation and Parallel Simulation, Proceedings of the 2012 ACM/IEEE/SCS 26th Workshop on Principles of Advanced and Distributed Simulation, p.201-210, July 15-19, 2012[doi>10.1109/PADS.2012.49]
+Peyman Kazemian , Michael Chang , Hongyi Zeng , George Varghese , Nick McKeown , Scott Whyte, Real time network policy checking using header space analysis, Proceedings of the 10th USENIX conference on Networked Systems Design and Implementation, April 02-05, 2013, Lombard, IL
+Peyman Kazemian , George Varghese , Nick McKeown, Header space analysis: static checking for networks, Proceedings of the 9th USENIX conference on Networked Systems Design and Implementation, April 25-27, 2012, San Jose, CA
+Ahmed Khurshid , Xuan Zou , Wenxuan Zhou , Matthew Caesar , P. Brighten Godfrey, VeriFlow: verifying network-wide invariants in real time, Proceedings of the 10th USENIX conference on Networked Systems Design and Implementation, April 02-05, 2013, Lombard, IL
+Jereme Lamps , David M. Nicol , Matthew Caesar, TimeKeeper: a lightweight virtual time system for linux, Proceedings of the 2nd ACM SIGSIM Conference on Principles of Advanced Discrete Simulation, May 18-21, 2014, Denver, Colorado, USA[doi>10.1145/2601381.2601395]
+Bob Lantz , Brandon Heller , Nick McKeown, A network in a laptop: rapid prototyping for software-defined networks, Proceedings of the 9th ACM SIGCOMM Workshop on Hot Topics in Networks, p.1-6, October 20-21, 2010, Monterey, California[doi>10.1145/1868447.1868466]
+Jason Liu , Raju Rangaswami , Ming Zhao, Model-driven network emulation with virtual time machine, Proceedings of the Winter Simulation Conference, December 05-08, 2010, Baltimore, Maryland
+B. D. Lubachevsky, Efficient distributed event-driven simulations of multiple-loop networks, Communications of the ACM, v.32 n.1, p.111-123, Jan. 1989[doi>10.1145/63238.63247]
+LXC. 2013. Linux Containers. Retrieved from https://linuxcontainers.org.
+Haohui Mai , Ahmed Khurshid , Rachit Agarwal , Matthew Caesar , P. Brighten Godfrey , Samuel Talmadge King, Debugging the data plane with anteater, Proceedings of the ACM SIGCOMM 2011 conference, August 15-19, 2011, Toronto, Ontario, Canada[doi>10.1145/2018436.2018470]
+Steffen Maier, Andreas Grau, Harald Weinschrott, and Kurt Rothermel. 2007. Scalable network emulation: A comparison of virtual routing and virtual machines. In Proceedings of the 12th IEEE Symposium on Computers and Communications (ISCC’07). 395--402. DOI:http://dx.doi.org/10.1109/ISCC.2007.4381529
+Nick McKeown , Tom Anderson , Hari Balakrishnan , Guru Parulkar , Larry Peterson , Jennifer Rexford , Scott Shenker , Jonathan Turner, OpenFlow: enabling innovation in campus networks, ACM SIGCOMM Computer Communication Review, v.38 n.2, April 2008[doi>10.1145/1355734.1355746]
+David M. Nicol , Guanhua Yan, High-Performance Simulation of Low-Resolution Network Flows, Simulation, v.82 n.1, p.21-42, January   2006[doi>10.1177/0037549706066093]
+David M. Nicol, The cost of conservative synchronization in parallel discrete event simulations, Journal of the ACM (JACM), v.40 n.2, p.304-333, April 1993[doi>10.1145/151261.151266]
+David M. Nicol , Dong Jin , Yuhao Zheng, S3F: the Scalable Simulation Framework revisited, Proceedings of the Winter Simulation Conference, December 11-14, 2011, Phoenix, Arizona
+David M. Nicol , Jason Liu, Composite Synchronization in Parallel Discrete-Event Simulation, IEEE Transactions on Parallel and Distributed Systems, v.13 n.5, p.433-446, May 2002[doi>10.1109/TPDS.2002.1003854]
+ns-3. 2011. The ns-3 Project. Retrieved from http://www.nsnam.org.
+ns-3. 2013. Link Modeling Using ns 3. Retrieved from https://github.com/mininet/mininet/wiki/Link-modeling-using-ns-3.
+ns-3 OpenFlow Model. 2011. ns-3 OpenFlow Switch Support. Retrieved from http://www.nsnam.org/docs/release/3.13/models/html/openflow-switch.html.
+OFTest. 2011. OFTest, a Python Based OpenFlow Switch Test Framework. Retrieved from http://www.openflow.org/wk/index.php/OFTestTutorial.
+Open vSwitch. 2011. An Open Virtual Switch. Retrieved from http://openvswitch.org/.
+OpenFlow. 2011. OpenFlow Switch Specification Version 1.1.0. Retrieved from http://www.openflow.org/documents/openflow-spec-v1.1.0.pdf.
+OpenVZ. 2006. OpenVZ Linux Containers. Retrieved from http://wiki.openvz.org.
+POX. 2011. Python OpenFlow Controller. Retrieved from http://www.noxrepo.org/pox/about-pox/.
+QEMU. 2009. QEMU, Open Source Processor Emulator. Retrieved from http://wiki.qemu.org/.
+Rob Sherwood. 2011. OFlops. Retrieved from http://www.openflow.org/wk/index.php/Oflops.
+Rob Simmonds , Cameron Kiddle , Brian Unger, Addressing blocking and scalability in critical channel traversing, Proceedings of the sixteenth workshop on Parallel and distributed simulation, May 12-15, 2002, Washington, D.C.
+SSF. 1999. SSF: Scalable Simulation Framework. Retrieved from http://www.ssfnet.org/.
+Stanford University. 2009. OpenFlow Switching Reference System. Retrieved from http://www.openflow.org/wp/downloads/.
+Stanford University. 2012. Mininet: An Instant Virtual Network on Your Laptop (or Other PC). Retrieved from http://mininet.org/.
+UML. 2006. The User-Mode Linux Kernel. Retrieved from http://user-mode-linux.sourceforge.net.
+University of Illinois at Urbana-Champaign. 2013. Ocean Cluster for Experimental Architectures in Networks (OCEAN). Retrieved from http://ocean.cs.illinois.edu/.
+University of Oregon. 2005. Route Views Project. Retrieved from http://www.routeviews.org/.
+University of Washington. 2002. Rocketfuel: An ISP Topology Mapping Engine. Retrieved from http://www.cs.washington.edu/research/rocketfuel/.
+Virtuozzo. 2012. Parallel Virtuozzo Containers. Retrieved from http://www.parallels.com/products/pvc46.
+VMware. 1998. VMware virtualization software. (1998). Retrieved from http://www.vmware.com
+Andrew Whitaker , Marianne Shaw , Steven D. Gribble, Scale and performance in the Denali isolation kernel, Proceedings of the 5th symposium on Operating systems design and implementationCopyright restrictions prevent ACM from being able to make the PDFs for this conference available for downloading, December 09-11, 2002, Boston, Massachusetts[doi>10.1145/1060289.1060308]
+Brian White , Jay Lepreau , Leigh Stoller , Robert Ricci , Shashi Guruprasad , Mac Newbold , Mike Hibler , Chad Barb , Abhijeet Joglekar, An integrated experimental environment for distributed systems and networks, ACM SIGOPS Operating Systems Review, v.36 n.SI, Winter 2002[doi>10.1145/844128.844152]
+Xen. 2013. The Xen Project. Retrieved from http://www.xenproject.org.
+Z. Xiao , B. Unger , R. Simmonds , J. Cleary, Scheduling critical channels in conservative parallel discrete event simulation, Proceedings of the thirteenth workshop on Parallel and distributed simulation, p.20-28, May 01-04, 1999, Atlanta, Georgia, USA
+Srikanth B. Yoginath , Kalyan S. Perumalla , Brian J. Henz, Taming Wild Horses: The Need for Virtual Time-Based Scheduling of VMs in Network Simulations, Proceedings of the 2012 IEEE 20th International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems, p.68-77, August 07-09, 2012[doi>10.1109/MASCOTS.2012.18]
+Yuhao Zheng , Dong Jin , David M. Nicol, Impacts of application lookahead on distributed network emulation, Proceedings of the 2013 Winter Simulation Conference: Simulation: Making Decisions in a Complex World, December 08-11, 2013, Washington, D.C.
+Yuhao Zheng, David M. Nicol, Dong Jin, and Naoki Tanaka. 2011. A virtual time system for virtualization-based network emulation and simulation. Journal of Simulation 6, 3, 205--213.

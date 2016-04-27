@@ -1,0 +1,17 @@
+Biham, E. and Shamir, A. 1991. Differential cryptanalysis of DES-like cryptosystems. J. Cryptol. 4, 1, 3--72.
+GNU. 2004. GNU scientific library version 1.6. http://www.gnu.org/software/gsl/.
+James, F. 1994. Ranlux: A fortran implementation of the high-quality pseudorandom number generator of Lüscher. Comput. Phys. Commun. 79, 1 (Feb.), 111--114.
+Donald E. Knuth, The art of computer programming, volume 2 (3rd ed.): seminumerical algorithms, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1997
+L'Ecuyer, P. 1996. Combined multiple recursive random number generators. Oper. Res. 44, 5, 816--822.
+Pierre L'Ecuyer, Testing random number generators, Proceedings of the 24th conference on Winter simulation, p.305-313, December 13-16, 1992, Arlington, Virginia, USA[doi>10.1145/167293.167354]
+Pierre L'Ecuyer , François Blouin , Raymond Couture, A search for good multiple recursive random number generators, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.3 n.2, p.87-98, April 1993[doi>10.1145/169702.169698]
+Pierre L'Ecuyer , Richard Simard , E. Jack Chen , W. David Kelton, An Object-Oriented Random-Number Package with Many Long Streams and Substreams, Operations Research, v.50 n.6, p.1073-1075, November 2002[doi>10.1287/opre.50.6.1073.358]
+Pierre L'Ecuyer , Terry H. Andres, A random number generator based on the combination of four LCGs, Mathematics and Computers in Simulation, v.44 n.1, p.99-107, May 1997[doi>10.1016/S0378-4754(97)00052-9]
+Lüscher, M. 1994. A portable high-quality random number generator for lattice field theory simulations. Comput. Phys. Commun. 79, 1 (Feb.), 100--110.
+Mascagni, M. and Srinivasan, A. 2004. Parameterizing parallel multiplicative lagged-Fibonacci generators. Parallel Comput. 30, 7 (Jul.), 899--916.
+Michael Mascagni , Ashok Srinivasan, Algorithm 806: SPRNG: a scalable library for pseudorandom number generation, ACM Transactions on Mathematical Software (TOMS), v.26 n.3, p.436-461, Sept. 2000[doi>10.1145/358407.358427]
+Mitsuru Matsui, Linear cryptanalysis method for DES cipher, Workshop on the theory and application of cryptographic techniques on Advances in cryptology, p.386-397, January 1994, Lofthus, Norway
+Makoto Matsumoto , Takuji Nishimura, Mersenne twister: a 623-dimensionally equidistributed uniform pseudo-random number generator, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.8 n.1, p.3-30, Jan. 1998[doi>10.1145/272991.272995]
+Makoto Matsumoto , Takuji Nishimura, Sum-discrepancy test on pseudorandom number generators, Mathematics and Computers in Simulation, v.62 n.3-6, p.431-442, 3 March 2003[doi>10.1016/S0378-4754(02)00227-6]
+Matsumoto, M. and Nishimura, T. 2000. The dynamic creation of pseudorandom number generators. In Monte Carlo and Quasi-Monte Carlo Methods. Springer, 56--69.
+Shu Tezuka , Pierre L'Ecuyer , Raymond Couture, On the lattice structure of the add-with-carry and subtract-with-borrow random number generators, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.3 n.4, p.315-331, Oct. 1993[doi>10.1145/159737.159749]

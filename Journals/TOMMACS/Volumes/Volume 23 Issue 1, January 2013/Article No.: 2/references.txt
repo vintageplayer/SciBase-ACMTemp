@@ -1,0 +1,35 @@
+Bailey, T., Nieto, J., Guivant, J., Stevens, M., and Nebot, E. 2006. Consistency of the EKF-SLAM algorithm. InProceedings of the IEEE International Conference on Intelligent Robots and Systems. IEEE, 3562--3568.
+Burgard, W., Fox, D., and Thrun, S. 2005.Probabilistic Robotics. MA:MIT Press, Cambridge.
+Cappé, O. 2009. Online sequential Monte Carlo EM algorithm. InProceedings of the IEEE Workshop on Statistical Signal Processing (SSP). IEEE, 37--40.
+Cappé, O. 2011. Online EM algorithm for hidden Markov models.J. Comput. Graph. Statist. 20,3, 728--749.
+Cappé, O. and Moulines, E. 2009. Online expectation maximization algorithm for latent data models.J. Roy. Statist. Soc. B 71,3, 593--613.
+Olivier Cappé , Eric Moulines , Tobias Ryden, Inference in Hidden Markov Models (Springer Series in Statistics), Springer-Verlag New York, Inc., Secaucus, NJ, 2005
+Davidson, J. 1994.Stochastic Limit Theory: An Introduction for Econometricians. Oxford University Press, Oxford.
+Del Moral, P. 2004.Feynman-Kac Formulae. Genealogical and Interacting Particle Systems with Applications. Springer, New York.
+Del Moral, P. and Guionnet, A. 1998. Large deviations for interacting particle systems: applications to non-linear filtering.Stoch. Proc. App. 78, 69--95.
+Del Moral, P., Ledoux, M., and Miclo, L. 2003. On contraction properties of Markov kernels.Probab. Theory Related Fields 126,3, 395--420.
+Del Moral, P., Doucet, A., and Singh, S. 2010a. A backward particle interpretation of Feynman-Kac formulae.ESAIM M2AN 44,5, 947--975.
+Del Moral, P., Doucet, A., and Singh, S. 2010b. Forward smoothing using sequential Monte Carlo. Tech. rep., arXiv:1012.5390v1.
+Delyon, B., Lavielle, M., and Moulines, E. 1999. Convergence of a stochastic approximation version of the EM algorithm.Ann. Stat. 27,1, 94--128.
+Dempster, A. P., Laird, N. M., and Rubin, D. B. 1977. Maximum likelihood from incomplete data via the EM algorithm.J. Roy. Statist. Soc. B 39,1, 1--38 (with discussion).
+Douc, R., Fort, G., Moulines, E., and Priouret, P. 2009. Forgetting the initial distribution for hidden Markov models.Stoch. Proc. Their Appl. 119, 4, 1235--1256.
+Douc, R., Garivier, A., Moulines, E., and Olsson, J. 2011. Sequential Monte Carlo smoothing for general state space hidden Markov models.Ann. Appl. Probab. 21,6, 2109--2145.
+Doucet, A., De Freitas, N., and Gordon, N. 2001.Sequential Monte Carlo Methods in Practice. Springer, New York.
+Doucet, A., Poyiadjis, G., and Singh, S. 2010. Particle approximations of the score and observed information matrix in state-space models with application to parameter estimation.Biometrika 98, 1, 65--80.
+Dubarry, C. and Le Corff, S. 2011. Non-asymptotic deviation inequalities for smoothed additive functionals in non-linear state-space models. Tech. rep., arXiv:1012.4183v1.
+Fort, G. and Moulines, E. 2003. Convergence of the Monte Carlo Expectation Maximization for curved exponential families.Ann. Statist. 31,4, 1220--1259.
+Le Corff, S. and Fort, G. 2011a. Convergence of a particle-based approximation of the Block Online Expectation Maximization algorithm. Tech. rep., arXiv.
+Le Corff, S. and Fort, G. 2011b. Online expectation maximization based algorithms for inference in Hidden Markov Models. Tech. rep., arXiv:1108.3968v1.
+Le Corff, S. and Fort, G. 2011c. Supplement paper to “Online Expectation Maximization based algorithms for inference in Hidden Markov Models”. Tech. rep., arXiv:1108.4130v1.
+Le Corff, S., Fort, G., and Moulines, E. 2011. Online EM algorithm to solve the SLAM problem. InProceedings of the IEEE Workshop on Statistical Signal Processing (SSP). IEEE, Nice.
+Le Gland, F. and Mevel, L. 1997. Recursive estimation in HMMs. InProceedings of the IEEE Conference on Decision Control. IEEE, 3468--3473.
+Jun S. Liu, Monte Carlo Strategies in Scientific Computing, Springer Publishing Company, Incorporated, 2008
+Martinez-Cantin, R. 2008. Active map learning for robots: Insights into statistical consistency. Ph.D. dissertation, University of Zaragoza.
+McLachlan, G. J. and Krishnan, T. 1997.The EM Algorithm and Extensions. Wiley, New York.
+S. K. Ng , G. J. McLachlan, On the choice of the number of blocks with the incremental EM algorithm for the fitting of normal mixtures, Statistics and Computing, v.13 n.1, p.45-55, February 2003[doi>10.1023/A:1021987710829]
+Meyn, S. P. and Tweedie, R. L. 1993.Markov Chains and Stochastic Stability. Springer, London.
+Michael Montemerlo , Sebastian Thrun , Daphne Roller , Ben Wegbreit, FastSLAM 2.0: an improved particle filtering algorithm for simultaneous localization and mapping that provably converges, Proceedings of the 18th international joint conference on Artificial intelligence, p.1151-1156, August 09-15, 2003, Acapulco, Mexico
+Polyak, B. T. 1990. A new method of stochastic approximation type.Autom. Remote Control 51, 98--107.
+Vladislav B. Tadić, Analyticity, convergence, and convergence rate of recursive maximum-likelihood estimation in hidden Markov models, IEEE Transactions on Information Theory, v.56 n.12, p.6406-6432, December 2010[doi>10.1109/TIT.2010.2081110]
+Titterington, D. M. 1984. Recursive parameter estimation using incomplete data.J. Roy. Statist. Soc. B 46,2, 257--267.
+Wu, C. F. J. 1983. On the convergence properties of the EM algorithm.Ann. Statist. 11, 95--103.

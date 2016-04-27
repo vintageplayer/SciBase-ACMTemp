@@ -1,0 +1,35 @@
+S. Asmussen and P. W. Glynn. 2007. Stochastic Simulation. Springer-Verlag, New York, NY.
+M. O. Ball. 1986. Computational complexity of network reliability analysis: An overview. IEEE Transactions on Reliability 35, 3, 230--239. DOI: http://dx.doi.org/10.1109/TR.1986.4335422
+Zdravko I. Botev , Pierre L'Ecuyer , Gerardo Rubino , Richard Simard , Bruno Tuffin, Static Network Reliability Estimation via Generalized Splitting, INFORMS Journal on Computing, v.25 n.1, p.56-71, Winter 2013[doi>10.1287/ijoc.1110.0493]
+H. Cancela and M. El Khadiri. 1995. A recursive variance-reduction algorithm for estimating communication-network reliability. IEEE Transactions on Reliability 44, 4, 595--602.
+H. Cancela and M. El Khadiri. 1996. An improvement to the total hazard method for system reliability simulation. Probability in the Engineering and Informational Sciences 10, 2, 187--196.
+H. Cancela and M. El Khadiri. 1998. Series-parallel reductions in Monte Carlo network reliability evaluation. IEEE Transactions on Reliability 47, 2, 159--164.
+H. Cancela and M. El Khadiri. 2003. The recursive variance-reduction simulation algorithm for network reliability evaluation. IEEE Transactions on Reliability 52, 2, 207--212.
+H. Cancela, M. El Khadiri, and G. Rubino. 2009. Rare events analysis by Monte Carlo techniques in static models. In Rare Event Simulation Using Monte Carlo Methods, G. Rubino and B. Tuffin (Eds.). John Wiley & Sons, 145--170.
+H. Cancela, M. El Khadiri, and G. Rubino. 2012. A new simulation method based on the RVR principle for the rare event network reliability problem. Annals of Operations Research 196, 1, 111--136.
+H. Cancela, P. L’Ecuyer, M. Lee, G. Rubino, and B. Tuffin. 2009. Analysis and improvements of path-based methods for Monte Carlo reliability evaluation of static models. In Simulation Methods for Reliability and Availability of Complex Systems, J. Faulin, A. A. Juan, S. Martorell, and E. Ramirez-Marquez (Eds.). Springer Verlag, 65--84.
+Jack Edmonds , Richard M. Karp, Theoretical Improvements in Algorithmic Efficiency for Network Flow Problems, Journal of the ACM (JACM), v.19 n.2, p.248-264, April 1972[doi>10.1145/321694.321699]
+T. Elperin, I. Gertsbakh, and M. Lomonosov. 1991. Estimation of network reliability using graph evolution models. IEEE Transactions on Reliability 40, 5, 572--581.
+G. S. Fishman. 1986a. A comparison of four Monte Carlo methods for estimating the probability of s-t connectedness. IEEE Transactions on Reliability 35, 2, 145--155.
+George S Fishman, A Monte Carlo sampling plan for estimating network reliability, Operations Research, v.34 n.4, p.581-594, July-Aug. 1986[doi>10.1287/opre.34.4.581]
+L. R. Ford and D. R. Fulkerson. 1962. Flows in Networks. Princeton University Press, Princeton, NJ.
+I. B. Gertsbakh and Y. Shpungin. 2010. Models of Network Reliability. CRC Press, Boca Raton, FL.
+P. W. Glynn, G. Rubino, and B. Tuffin. 2009. Robustness properties and confidence interval reliability issues. In Rare Event Simulation Using Monte Carlo Methods, G. Rubino and B. Tuffin (Eds.). John Wiley & Sons, 63--84.
+Philip Heidelberger , Perwez Shahabuddin , Victor F. Nicola, Bounded relative error in estimating transient measures of highly dependable non-Markovian systems, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.4 n.2, p.137-164, April 1994[doi>10.1145/175007.175008]
+K. P. Hui, N. Bean, M. Kraetzl, and D. P. Kroese. 2005. The cross-entropy method for network reliability estimation. Annals of Operations Research 134, 101--118.
+C. H. Jun and S. M. Ross. 1992. System reliability by simulation: Random hazards versus importance sampling. Probability in the Engineering and Informational Sciences 6, 1, 119--126.
+R. M. Karp and M. Luby. 1985. Monte-Carlo algorithms for the planar multiterminal network reliability problem. Journal of Complexity 1, 1, 45--64.
+H. Kumamoto, K. Tanaka, K. Inoue, and E. J. Henley. 1980. Dagger-sampling Monte Carlo for system unavailability evaluation. IEEE Transactions on Reliability R-29, 2, 122--125.
+Pierre L'ecuyer , Jose H. Blanchet , Bruno Tuffin , Peter W. Glynn, Asymptotic robustness of estimators in rare-event simulation, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.20 n.1, p.1-41, January 2010[doi>10.1145/1667072.1667078]
+P. L’Ecuyer, G. Rubino, S. Saggadi, and B. Tuffin. 2011. Approximate zero-variance importance sampling for static network reliability estimation. IEEE Transactions on Reliability 8, 4, 590--604.
+Pierre L'Ecuyer , Bruno Tuffin, Approximate zero-variance simulation, Proceedings of the 40th Conference on Winter Simulation, December 07-10, 2008, Miami, Florida
+M. Lomonosov. 1994. On Monte Carlo estimates in network reliability. Probability in the Engineering and Informational Sciences 8, 245--264.
+Michael Lomonosov , Yoseph Shpungin, Combinatorics of reliability Monte Carlo, Random Structures & Algorithms, v.14 n.4, p.329-343, July 1999[doi>10.1002/(SICI)1098-2418(199907)14:4<329::AID-RSA3>3.0.CO;2-X]
+L. Murray, H. Cancela, and G. Rubino. 2013. A splitting algorithm for network reliability. IIE Transactions 45, 2, 177--189.
+M. K. Nakayama. 1996. General conditions for bounded relative error in simulations of highly reliable Markovian systems. Advances in Applied Probability 28, 687--727.
+S. M. Ross. 1994. A new simulation estimator of system reliability. Journal of Applied Mathematics and Stochastic Analysis 7, 3, 331--336.
+G. Rubino. 1998. Network reliability evaluation. In State-of-the Art in Performance Modeling and Simulation, K. Bagchi and J. Walrand (Eds.). Gordon and Breach Books, New York, NY.
+Gerardo Rubino , Bruno Tuffin, Rare Event Simulation using Monte Carlo Methods, Wiley Publishing, 2009
+A. Satyarayana and M. K. Chang. 1983. Network reliability and the factoring theorem. Networks 13, 107--120.
+Robert Sedgewick , Michael Schidlowsky, Algorithms in Java, Part 5: Graph Algorithms, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 2003
+J. Villén-Altamirano. 2007. Rare event RESTART simulation of two-stage networks. European Journal of Operations Research 179, 1, 148--159.

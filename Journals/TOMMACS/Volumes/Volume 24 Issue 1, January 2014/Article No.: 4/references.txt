@@ -1,0 +1,57 @@
+M. Ajelli, B. Gonçalves, D. Balcan, V. Colizza, H. Hu, J. Ramasco, S. Merler, and A. Vespignani. 2010. Comparing large-scale computational approaches to epidemic modeling: Agent-based versus structured metapopulation models. BMC Infectious Diseases 10, 190 (2010).
+R. M. Anderson and R. M. May. 1991. Infectious Diseases of Humans. Oxford University Press, Oxford.
+N. Bailey. 1975. The Mathematical Theory of Infectious Diseases and Its Applications. Hafner Press, New York.
+Alain Barrat , Marc Barthlemy , Alessandro Vespignani, Dynamical Processes on Complex Networks, Cambridge University Press, New York, NY, 2008
+C. L. Barrett, K. Bisset, J. Chen, S. Eubank, B. Lewis, V. S. A. Kumar, M. V. Marathe, and H. S. Mortveit. 2009. Interactions among human behavior, social networks, and societal infrastructures: A case study in computational epidemiology. In Fundamental Problems in Computing: Essays in Honor of Professor Daniel J. Rosenkrantz, Chapter 18, S. S. Ravi and Sandeep K. Shukla (Eds.). Springer, Netherlands, 477--507.
+Christopher L. Barrett , Keith R. Bisset , Stephen G. Eubank , Xizhou Feng , Madhav V. Marathe, EpiSimdemics: an efficient algorithm for simulating the spread of infectious disease over large realistic social networks, Proceedings of the 2008 ACM/IEEE conference on Supercomputing, November 15-21, 2008, Austin, Texas
+Keith Bisset , Jiangzhuo Chen , Chris J. Kuhlman , V. S. Anil Kumar , Madhav V. Marathe, Interaction-based HPC modeling of social, biological, and economic contagions over large networks, Proceedings of the Winter Simulation Conference, December 11-14, 2011, Phoenix, Arizona
+Keith R. Bisset , Jiangzhuo Chen , Xizhou Feng , V.S. Anil Kumar , Madhav V. Marathe, EpiFast: a fast algorithm for large scale realistic epidemic simulations on distributed memory systems, Proceedings of the 23rd international conference on Supercomputing, June 08-12, 2009, Yorktown Heights, NY, USA[doi>10.1145/1542275.1542336]
+Keith R. Bisset , Xizhou Feng , Madhav Marathe , Shrirang Yardi, Modeling interaction between individuals, social networks and public policy to support public health epidemiology, Winter Simulation Conference, December 13-16, 2009, Austin, Texas
+CDC. 2010. Updated CDC Estimates of 2009 H1N1 Influenza Cases, Hospitalizations and Deaths in the United States, April 2009--April 10, 2010. Retrieved September 29, 2011 from http://www.cdc.gov/h1n1flu/estimates_2009_h1n1.htm.
+D. L. Chao, M. E. Halloran, V. Obenchain, and I. M. Longini Jr. 2010. FluTE, a publicly available stochastic influenza epidemic simulation model. PLoS Computational Biology 6, 1 (2010).
+V. Colizza, A. Barrat, M. Barthelemy, A. Valleron, and A. Vespignani. 2007. Modeling the worldwide spread of pandemic influenza: Baseline case and containment interventions. PLoS Medicine 4 (2007), 95.
+V. Colizza, A. Barrat, M. Barthelemy, and A. Vespignani. 2005. Prediction and predictability of global epidemics: the role of the airline transportation network. Arxiv preprint q-bio.OT/0507029 (2005).
+Suruchi Deodhar , Keith Bisset , Jiangzhuo Chen , Yifei Ma , Madhav Marathe, Enhancing user-productivity and capability through integration of distinct software in epidemiological systems, Proceedings of the 2nd ACM SIGHIT International Health Informatics Symposium, January 28-30, 2012, Miami, Florida, USA[doi>10.1145/2110363.2110385]
+R. Dobbs, S. Smit, J. Remes, J. Manyika, C. Roxburgh, and A. Restrepo. 2011. Urban world: Mapping the economic power of cities, McKinsey Global Institute. Retrieved from http://www.mckinsey.com/insights/mgi/research/urbanization/urban_world.
+Stefan B. Edlund , Matthew A. Davis , James H. Kaufman, The spatiotemporal epidemiological modeler, Proceedings of the 1st ACM International Health Informatics Symposium, November 11-12, 2010, Arlington, Virginia, USA[doi>10.1145/1882992.1883115]
+Stephen Eubank, Scalable, efficient epidemiological simulation, Proceedings of the 2002 ACM symposium on Applied computing, March 11-14, 2002, Madrid, Spain[doi>10.1145/508791.508819]
+N. M. Ferguson, D. A. T. Cummings, S. Cauchemez, C. Fraser, S. Riley, A. Meeyai1, S. Iamsirithaworn, and D. S. Burke. 2005. Strategies for containing an emerging influenza pandemic in Southeast Asia. Nature 437 (2005), 209--214.
+N. M. Ferguson, D. A. T. Cummings, C. Fraser, J. C. Cajka, P. C. Cooley, and D. S. Burke. 2006. Strategies for mitigating an influenza pandemic. Nature 442 (2006), 448--452.
+N. M. Ferguson, M. J. Keeling, W. J. Edmunds, R. Gani, B. T. Grenfell, R. M. Anderson, and S. Leach. 2003. Planning for smallpox outbreaks. Nature 425 (2003), 681--685.
+H. V. Fineberg and M. E. Wilson. 2009. Epidemic science in real time. Science 324 (May 2009), 987.
+C. Fraser, C. A. Donnelly, S. Cauchemez, and W. P. Hanage et al. 2009. Pandemic potential of a strain of influenza A (H1N1): Early findings. Science 324, 5934 (2009), 1557--1561.
+T. C. Germann, K. Kadau, I. M. Longini, and C. A. Macken. 2006. Mitigation strategies for pandemic influenza in the United States. Proceedings of the National Academy of Sciences 103, 15 (2006), 5935--5940.
+E. Goldstein, K. Paur, C. Fraser, E. Kenah, J. Wallinga, and M. Lipsitch. 2009. Reproductive numbers, epidemic spread and control in a community of households. Mathematical Biosciences 221, 1 (2009), 11--25.
+E. Halloran, N. M. Ferguson, S. Eubank, Jr. I. M. Longini, D. A. T. Cummings, B. Lewis, S. Xu, C. Fraser, A. Vullikanti, T. C. Germann, D. Wagener, R. Beckman, K. Kadau, C. Barrett, C. A. Macken, D. S. Burke, and P. Cooley. 2008. Modeling targeted layered containment of an influenza pandemic in the United States. Proceedings of the National Academy of Sciences 105 (2008), 4639--4644.
+G. Heber and J. Gray. 2007a. Supporting finite element analysis with a relational database backend, part I: There is life beyond files. CoRR abs/cs/0701159 (2007).
+G. Heber and J. Gray. 2007b. Supporting finite element analysis with a relational database backend, part II: Database design and access. CoRR abs/cs/0701160 (2007).
+J. A. P. Heesterbeek. 2002. A brief history of R0 and a recipe for its calculation. Acta Biotheoretica 50, 3 (2002), 189--204.
+J. M. Heffernan, R. J. Smith, and L. M. Wahl. 2005. Perspectives on the basic reproductive ratio. Journal of the Royal Society Interface 2, 4 (2005), 281--293.
+Herbert W. Hethcote, The Mathematics of Infectious Diseases, SIAM Review, v.42 n.4, p.599-653, Dec. 2000[doi>10.1137/S0036144500371907]
+L. Hufnagel, D. Brockmann, and T. Geisel. 2004. Forecast and control of epidemics in a globalized world. Proceedings of the National Academy of Sciences 101 (2004), 15124--15129.
+M. J. Keeling and K. T. D. Eames. 2005. Networks and epidemic models. J. R. Soc. Interface 2 (2005), 295.
+M. Van Kerkhove and N. Ferguson. 2012. Epidemic and intervention modelling—a scientific rationale for policy decisions&quest; Lessons from the 2009 influenza pandemic. Bull World Health Organ. (2012), 306--10.
+W. O. Kermack and A. G. McKendrick. 1927. A contribution to the mathematical theory of epidemics. Proceedings of the Royal Society of London. Series A 115, 772 (1927), 700--721.
+S. Liao, Y. Ma, J. Chen, and A. Marathe. 2012. Paid sick-leave: Is it a good way to control epidemics&quest; In the 2nd International Conference on Complex Sciences: Theory and Applications (COMPLEX).
+M. Lipsitch, L. Finelli, R. T. Heffernan, G. M. Leung, and S. C. Redd. 2011. Improving the evidence base for decision making during a pandemic: The example of 2009 Influenza A H1N1. Biosecur Bioterror. 9, 2 (2011), 89--115.
+Yifei Ma , Keith Bisset , Jiangzhuo Chen , Suruchi Deodhar , Madhav Marathe, Efficient implementation of complex interventions in large scale epidemic simulations, Proceedings of the Winter Simulation Conference, December 11-14, 2011, Phoenix, Arizona
+A. Marathe, B. Lewis, C. Barrett, J. Chen, M. Marathe, S. Eubank, and Y. Ma. 2011. Comparing effectiveness of top-down and bottom-up strategies in containing influenza. PLoS ONE 6, 9 (Sept. 2011), e25149.
+S. Merler and M. Ajelli. 2010. The role of population heterogeneity and human mobility in the spread of pandemic influenza. Processings of Royal Society 277, 1681 (2010), 557--565.
+L. A. Meyers. 2007. Contact network epidemiology: Bond percolation applied to infectious disease prediction and control. Bulletin of The American Mathematical Society 44 (2007), 63--86.
+L. A. Meyers and N. Dimitrov. 2010. Mathematical approaches to infectious disease prediction and control. INFORMS, Tutorials in OPerations Research (2010).
+L. A. Meyers, M. E. J. Newman, and B. Pourbohloul. 2006. Predicting epidemics on directed contact networks. Journal of Theoretical Biology 240, 3 (2006), 400--418.
+Martin Mundhenk , Judy Goldsmith , Christopher Lusena , Eric Allender, Complexity of finite-horizon Markov decision process problems, Journal of the ACM (JACM), v.47 n.4, p.681-720, July 2000[doi>10.1145/347476.347480]
+M. Newman, I. Jensen, and R. M. Ziff. 2002. Percolation and epidemics in a two-dimensional small world. Physical Review E 65 (2002), 021904.
+Jon Parker , Joshua M. Epstein, A Distributed Platform for Global-Scale Agent-Based Models of Disease Transmission, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.22 n.1, p.1-25, December 2011[doi>10.1145/2043635.2043637]
+R. Pastor-Satorras and A. Vespignani. 2002. Epidemics and immunization in scale-free networks. In Handbook of Graphs and Networks, S. Bornholdt and H. G. Schuster (Eds.). Wiley-VCH, Berlin.
+Kalyan S Perumalla , Sudip K Seal, Discrete event modeling and massively parallel execution of epidemic outbreak phenomena, Simulation, v.88 n.7, p.768-783, July      2012[doi>10.1177/0037549711413001]
+L. A. Rvachev and I. M. Longini. 1985. A mathematical model for the global spread of influenza. Mathematical Biosciences 17 (1985), 3--22.
+GrayWulf: Scalable Clustered Architecture for Data Intensive Computing, Proceedings of the 42nd Hawaii International Conference on System Sciences, p.1-10, January 05-08, 2009[doi>10.1109/HICSS.2009.234]
+G. Ch. Sirakoulis, I. Karafyllidis, and A. Thanailakis. 2000. A cellular automaton model for the effects of population movement and vaccination on epidemic propagation. Ecological Modelling 133, 3 (2000), 209--223.
+B. Sowell, A. Demers, J. Gehrke, N. Gupta, H. Li, and W. White. 2009. From Declarative Languages to Declarative Processing in Computer Games. In CIDR.
+E. Vynnycky and R. G. White. 2010. An Introduction to Infectious Disease Modelling. Oxford University Press.
+Guozhang Wang , Marcos Vaz Salles , Benjamin Sowell , Xun Wang , Tuan Cao , Alan Demers , Johannes Gehrke , Walker White, Behavioral simulations in MapReduce, Proceedings of the VLDB Endowment, v.3 n.1-2, September 2010
+S. H. White, A. M. del Rey, and G. R. Sánchez. 2007a. Modeling epidemics using cellular automata. Appl. Math. Comput. 186, 1 (2007), 193--202.
+Walker White , Alan Demers , Christoph Koch , Johannes Gehrke , Rajmohan Rajagopalan, Scaling games to epic proportions, Proceedings of the 2007 ACM SIGMOD international conference on Management of data, June 11-14, 2007, Beijing, China[doi>10.1145/1247480.1247486]
+WHO. 2004. WHO consultation on priority public health interventions before and during an influenza pandemic. Available at http://www.who.int/csr/disease/avian_influenza/consultation/en/.
+J. T. Wu and B. J. Cowling. 2011. The use of mathematical models to inform influenza pandemic preparedness and response. Experimental Biology and Medicine 236, 8 (2011), 955--961.

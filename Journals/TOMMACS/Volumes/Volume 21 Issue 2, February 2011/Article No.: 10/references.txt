@@ -1,0 +1,82 @@
+Ahrens, J. H. and Dieter, U. 1974. Computer methods for sampling from gamma, beta, Poisson and binomial distributions. Comput. 12, 223--246.
+J. H. Ahrens , U. Dieter, Generating gamma variates by a modified rejection technique, Communications of the ACM, v.25 n.1, p.47-54, Jan. 1982[doi>10.1145/358315.358390]
+J. H. Ahrens , K. D. Kohrt , U. Dieter, Algorithm 599: sampling from Gamma and Poisson distributions, ACM Transactions on Mathematical Software (TOMS), v.9 n.2, p.255-257, June 1983[doi>10.1145/357456.357464]
+Søren Asmussen , Peter W. Glynn , Hermann Thorisson, Stationarity detection in the initial transient problem, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.2 n.2, p.130-157, April 1992[doi>10.1145/137926.137932]
+Barbu, Gh. 1987. A new fast method for computer generation of gamma and beta random variables by transformations of uniform variables. Statist. 18, 453--464.
+Barlow, M., Pitman, J., and Yor, M. 1989. Une extension multidimensionnelle de la loi de l'arc sinus. In Seminaire de Probabilites, XXIII. vol. 1372, Springer, Lecture Notes in Mathematics, 294--314.
+Bertoin, J., Fujita, T., Roynette, B., and Yor, M. 2006. On a particular class of self-decomposable random variables: The durations of Bessel excursions straddling independent exponential times. Probab. Math. Statist. 26, 315--366.
+Beskos, A. and Roberts, G. O. 2005. One-Shot CFTP: Application to a class of truncated Gaussian densities. Method. Comput. Appl. Probab. 7, 407--437.
+Best, D. J. 1978a. A simple algorithm for the computer generation of random samples from a Student's t or symmetric beta distribution. In Proceedings in Computational Statistics (COMPSTAT '78). L. C. A. Corsten and J. Hermans, Eds., Physica Verlag, Wien, Austria, 341--347.
+Best, D. J. 1978b. Letter to the editor. Appl. Statist. 27, 181.
+Best, D. J. 1983. A note on gamma variate generators with shape parameter less than unity. Comput. 30, 185--188.
+Bondesson, L. 1992. Generalized Gamma Convolutions and Related Classes of Distributions and Densities, Springer, Berlin.
+Campolieti, G. and Makarov, R. 2007. Pricing path-dependent options on state dependent volatility models with a Bessel bridge. Int. J. Theor. Appl. Finance 10, 1--38.
+Chambers, J. M., Mallows, C. L., and Stuck, B. W. 1976. A method for simulating stable random variables. J. Amer. Statist. Assoc. 71, 340--344.
+Chaumont, L. and Yor, M. 2003. Exercises in Probability. A Guided Tour from Measure Theory to Random Processes, via Conditioning. Cambridge University Press, Cambridge, UK.
+Cheng, R. C. H. 1977. The generation of gamma variables with non-integral shape parameter. Appl. Statist. 26, 71--75.
+R. C. H. Cheng, Generating beta variates with nonintegral shape parameters, Communications of the ACM, v.21 n.4, p.317-322, April 1978[doi>10.1145/359460.359482]
+Cheng, R. C. H. and Feast, G. M. 1978. Some simple gamma variate generators. Appl. Statist. 28, 290--295.
+R. C. H. Cheng , G. M. Feast, Gamma variate generators with increased shape parameter range, Communications of the ACM, v.23 n.7, p.389-395, July 1980[doi>10.1145/358886.358893]
+Cifarelli, D. M. and Regazzini, E. 1979. Considerazioni generali sull'impostazione bayesiana di problemi non parametrici. Le medie associative nel contesto del processo aleatorio di Dirichlet I, II. Riv. Mat. Sci. Econom. Social 2, 39--52.
+Cifarelli, D. M. and Regazzini, E. 1990. Distribution functions of means of a Dirichlet process. Ann. Statist. 18, 429--442. (Correction in Ann. Statist. (1994) 22, 1633--1634.)
+Cifarelli, D. M. and Melilli, E. 2000. Some new results for Dirichlet priors. Ann. Statist. 28, 1390--1413.
+Devroye, L. 1981. The series method in random variate generation and its application to the Kolmogorov-Smirnov distribution. Amer. J. Math. Manag. Sci. 1, 359--379.
+Devroye, L. 1986. Non-Uniform Random Variate Generation. Springer, Berlin.
+Luc Devroye, Generating sums in constant average time, Proceedings of the 20th conference on Winter simulation, p.425-431, December 12-14, 1988, San Diego, California, USA[doi>10.1145/318123.318228]
+Luc Devroye, Coupled samples in simulation, Operations Research, v.38 n.1, p.115-126, Jan–Feb. 1990[doi>10.1287/opre.38.1.115]
+Devroye, L., Fill, J., and Neininger, R. 2000. Perfect simulation from the quicksort limit distribution. Electron. Comm. Probab. 5, 95--99.
+Devroye, L. 2001. Simulating perpetuities. Methodol. Comput. Appl. Probab. 3, 97--115.
+Devroye, L. and Neininger, R. 2002. Density approximation and exact simulation of random variables that are solutions of fixed-point equations. Adv. Appl. Probab. 34, 441--468.
+Luc Devroye, Random variate generation for exponentially and polynomially tilted stable distributions, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.19 n.4, p.1-20, October 2009[doi>10.1145/1596519.1596523]
+Diaconis, P. and Kemperman, J. 1996. Some new tools for Dirichlet priors. In Bayesian Statistics 5, J. M. Bernardo, J. O. Berger, A. P., Dawid, and A. F. M. Smith, Eds., Oxford University Press, Oxford, UK, 97--106.
+Persi Diaconis , David Freedman, Iterated Random Functions, SIAM Review, v.41 n.1, p.45-76, March 1999[doi>10.1137/S0036144598338446]
+Doeblin, W. 1937. Exposé de la théorie des chaines simples constantes de Markov à un nombre fini d'états. Revue Math. l'Union Interbalkanique 2, 77--105.
+Ferguson, T. S. 1973. A Bayesian analysis of some nonparametric problems. Ann. Statist. 1, 209--230.
+James Allen Fill, An interruptible algorithm for perfect sampling via Markov chains, Proceedings of the twenty-ninth annual ACM symposium on Theory of computing, p.688-695, May 04-06, 1997, El Paso, Texas, USA[doi>10.1145/258533.258664]
+Fill, J. A. 1998. An interruptible algorithm for perfect sampling via Markov chains. Ann. Appl. Probab. 81, 131--162.
+James Allen Fill , Motoya Machida , Duncan J. Murdoch , Jeffrey S. Rosenthal, Extension of Fill's perfect rejection sampling algorithm to general chains, Random Structures & Algorithms, v.17 n.3-4, p.290-316, Oct. 2000[doi>10.1002/1098-2418(200010/12)17:3/4<290::AID-RSA6>3.0.CO;2-Q]
+Fill, J. A. and Huber, M. 2004. Personal communication.
+Fismen, M. 1998. Exact simulation using Markov chains. Tech. rep. 6/98, Department for Mathematical Sciences, The Norwegian University of Technology and Science.
+Foss, S. G. and Tweedie, R. L. 1998. Perfect simulation and backward coupling. Stochast. Models 14, 187--203.
+Goldwater, S., Griffiths, T. L., and Johnson, M. 2006. Interpolating between types and tokens by estimating power-law generators. In Advances in Neural Information Processing Systems 18.
+Green, P. J. and Murdoch, D. J. 1999. Exact sampling for Bayesian inference: Towards general purpose algorithms (with discussion). In Bayesian Statistics 6, J. Bernardo, J. Berger, A. Dawid, and A. Smith, Eds., The Clarendon Press, Oxford University Press, 301--321.
+Guglielmi, A., Holmes, C. C., and Walker, S. G. 2002. Perfect simulation involving functionals of a Dirichlet process. J. Comput. Graph. Statist. 11, 306--310.
+Haas, B., Miermont, G., Pitman, J., and Winkel, M. 2008. Continuum tree asymptotics of discrete fragmentations and applications to phylogenetic models. Ann. Probab. 36, 1790--1837.
+Ishwaran, I. and James, L. F. 2001. Gibbs sampling methods for stick-breaking priors. J. Amer. Statist. Assoc. 96, 161--173.
+Ito, K. and McKean, H. P. 1974. Diffusion Processes and Their Sample Paths. Springer, Berlin.
+James, L. F. 2007. Lamperti type laws: Positive Linnik, Bessel bridge occupation and Mittag-Leffler functions. arXiv:0708, 0618v1.
+James, L. F., Lijoi, A., and Prünster, I. 2008a. Distributions of linear functionals of two parameter Poisson-Dirichlet random measures. Ann. Apl. Probab. 18, 521--551.
+James, L. F. 2005. Functionals of Dirichlet processes, the Cifarelli-Regazzini identity and beta-gamma processes. Ann. Statist. 33, 647--660.
+James, L. F. 2008. Dirichlet mean identities and laws of a class of subordinators. Tech. rep., Hong Kong University of Science and Technology.
+James, L. F., Roynette, B., and Yor, M. 2008b. Generalized gamma convolutions, Dirichlet means, Thorin measures, with explicit examples. Probab. Surv. 5, 346--415.
+Kanter, M. 1975. Stable densities under change of scale and total variation inequalities. Ann. Probab. 3, 697--707.
+Kendall, W. 1998. Perfect simulation for the area-interaction point process. In Probability Towards 2000, L. Accardi and C. C. Heyde, Eds., Springer, Berlin, 218--234.
+Kendall, W. and Thönnes, E. 2004. Random Walk CFTP. Tech. rep., Department of Statistics, University of Warwick.
+Lamperti, J. 1958. An occupation time theorem for a class of stochastic processes. Trans. Amer. Math. Soc. 88, 380--387.
+Do Le Minh, Generating gamma variates, ACM Transactions on Mathematical Software (TOMS), v.14 n.3, p.261-266, Sept. 1988[doi>10.1145/44128.214382]
+Lindvall, T. 1992. Lectures on the Coupling Method. John Wiley, New York.
+Makarov R. N. and Glew, D. 2009. Exact simulation of Bessel diffusions. arXiv, 0910.4177.
+Marsaglia, G. 1977. The squeeze method for generating gamma variates. Comput. Math. Appl. 3, 321--325.
+George Marsaglia , Wai Wan Tsang, The Monty Python method for generating random variables, ACM Transactions on Mathematical Software (TOMS), v.24 n.3, p.341-350, Sept. 1998[doi>10.1145/292395.292453]
+Murdoch, D. J. and Green, P. J. 1998. Exact sampling from a continuous state space. Scandin. J. Statist. 25, 483--502.
+Murdoch, D. J. 2000. Exact sampling for Bayesian inference: Unbounded state spaces. In Proceedings of the Workshop on MCMC Methods. 111--121.
+Perman, M., Pitman, J., and Yor, M. 1992. Size-Biased sampling of Poisson point processes and excursions. Probab. Theory Related Fields 92, 21--39.
+Pitman, J. and Yor, M. 1992. Arcsine laws and interval partitions derived from a stable subordinator. Proc. London Math. Soc. 65, 326--356.
+Pitman, J. 1996. Some developments of the Blackwell-MacQueen urn scheme. In Statistics, Probability and Game Theory 30. IMS Lecture Notes Monograph Series. IMS, Hayward, CA, 245--267.
+Pitman, J. and Yor, M. 1997a. The two-parameter Poisson-Dirichlet distribution derived from a stable subordinator. Ann. Probab. 25, 855--900.
+Pitman, J. and Yor, M. 1997b. On the relative lengths of excursions derived from a stable subordinator. In Séminaire de Probabilités I. J. Azema, M. Emery, and M. Yor, Eds., Lecture Notes in Mathematics, vol. 1655, Springer, Berlin. 287--305.
+Pitman, J. 1999. Brownian motion, bridge, excursion, and meander characterized by sampling at independent uniform times. Tech. rep. no. 545, Department of Statistics, University of California at Berkeley.
+Pitman, J. 2003. Poisson Kingman partitions. In Science and Statistics: A Festschrift for Terry Speed, D. R. Goldstein, Ed. Lecture Notes Monograph Series Vol. 30, Institute of Mathematical Statistics, Hayward, CA, 1--34.
+Pitman, J. 2006. Combinatorial stochastic processes. In Lectures from the 32nd Summer School on Probability Theory. Lecture Notes in Mathematics, vol. 1875, Springer, Berlin.
+James Gary Propp , David Bruce Wilson, Exact sampling with coupled Markov chains and applications to statistical mechanics, Random Structures & Algorithms, v.9 n.1-2, p.223-252, Aug./Sept. 1996[doi>10.1002/(SICI)1098-2418(199608/09)9:1/2<223::AID-RSA14>3.0.CO;2-O]
+James Gary Propp , David Bruce Wilson, How to get a perfectly random sample from a generic Markov chain and generate a random spanning tree of a directed graph, Journal of Algorithms, v.27 n.2, p.170-217, May 1, 1998[doi>10.1006/jagm.1997.0917]
+Roberts, G. O. and Rosenthal, J. S. 2002. One-Shot coupling for certain stochastic recursive sequences. Stochast. Process. Appl. 99, 195--208.
+Schmeiser, B. W. and Babu, A. J. G. 1980. Beta variate generation via exponential majorizing functions. Oper. Res. 28, 917--926.
+Yee Whye Teh, A hierarchical Bayesian language model based on Pitman-Yor processes, Proceedings of the 21st International Conference on Computational Linguistics and the 44th annual meeting of the Association for Computational Linguistics, p.985-992, July 17-18, 2006, Sydney, Australia[doi>10.3115/1220175.1220299]
+Thorisson, H. 1986. On maximal and distributional coupling. Ann. Probab. 14, 873--876.
+von Neumann, J. 1951. Monte Carlo method. Nat. Bureau Standards Series 12, 36--38.
+von Neumann, J. 1963. Various techniques used in connection with random digits. Collect. Works 5, 768--770.
+Watanabe, S. 1995. Generalized arc-sine laws for one-dimensional diffusion processes and random walks. In Proceedings of the Symposium on Pure Mathematics Random Number Generation 57. Stochastic Analysis (Ithaca, NY, 1993), American Mathematical Society, Providence, RI, 157--172.
+David Bruce Wilson, How to couple from the past using a read-once source of randomness, Random Structures & Algorithms, v.16 n.1, p.85-113, Jan.1.2000[doi>10.1002/(SICI)1098-2418(200001)16:1<85::AID-RSA6>3.0.CO;2-H]
+Wilson, D. B. 2000b. Layered multishift coupling for use in perfect sampling algorithms. In Monte Carlo Methods 26, N. Madras, Ed., 143--179.
+Yano, K. and Yano, Y. 2008. Remarks on the density of the law of the occupation time for Bessel bridges and stable excursions. Statist. Probab. Lett. 78, 2175--2180.

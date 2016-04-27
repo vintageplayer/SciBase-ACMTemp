@@ -1,0 +1,43 @@
+AHMED, H., RONNGREN, R., AND AYANI, R. 1994. Impact of event scheduling in time warp parallel simulations. In Proceedings of the 27th Annual Hawaii International Conference on System Sciences, Vol II, 455-463.
+AYANI, R. 1990. LR-algorithm: Concurrent operations on priority queues. In Proceedings of the Second IEEE Symposium on Parallel and Distributed Systems, 22-25.
+BAYER, R. AND SCHKOLNIK, M. 1977. Concurrency of operations on B-trees. Acta Inf. 9, 1-22.
+Jon Bentley, Programming pearls: thanks, heaps, Communications of the ACM, v.28 n.3, p.245-250, March 1985[doi>10.1145/3166.315010]
+BISWAS, B. AND BROWNE, g.C. 1987. Simultaneous update of priority structures. In Proceedings of the 1987 International Conference on Parallel Processing, 17-21.
+R. Brown, Calendar queues: a fast 0(1) priority queue implementation for the simulation event set problem, Communications of the ACM, v.31 n.10, p.1220-1227, Oct. 1988[doi>10.1145/63039.63045]
+John H. Blackstone, Jr. , Gary L. Hogg , Don T. Phillips, A two-list synchronization procedure for discrete event simulation, Communications of the ACM, v.24 n.12, p.825-829, Dec. 1981[doi>10.1145/358800.358805]
+Christopher D. Carothers , Richard Fujimoto , Yi-Bing Lin , Paul England, Distributed Simulation of Large-Scale PCS Networks, Proceedings of the Second International Workshop on Modeling, Analysis, and Simulation On Computer and Telecommunication Systems, p.2-6, January 31-February 02, 1994
+Kehsiung Chung , Janche Sang , Vernon Rego, A performance comparison of event calendar algorithms: an empirical approach, Software—Practice & Experience, v.23 n.10, p.1107-1138, Oct. 1993[doi>10.1002/spe.4380231005]
+COMFORT, J.C. 1984. The simulation of a master-slave event set processor. Simulation 42, 3 (March), 117-124.
+CORPORATE Tech Correspondence, Technical correspondence, Communications of the ACM, v.32 n.10, p.1241-1258, Oct. 1989[doi>10.1145/67933.315999]
+Samir Das , Richard Fujimoto , Kiran Panesar , Don Allison , Maria Hybinette, GTW: a time warp system for shared memory multiprocessors, Proceedings of the 26th conference on Winter simulation, p.1332-1339, December 11-14, 1994, Orlando, Florida, United States
+ELLIS, C. S. 1980. Concurrent search and insertion in AVL trees. IEEE Trans. Comput. C-29, 9 (Sept.), 811-817.
+Richard M. Fujimoto, Parallel discrete event simulation, Communications of the ACM, v.33 n.10, p.30-53, Oct. 1990[doi>10.1145/84537.84545]
+Geoffrey Gordon, The development of the General Purpose Simulation System (GPSS), The first ACM SIGPLAN  conference on History of programming languages, p.183-198, June 01-03, 1978, Los Angeles, CA[doi>10.1145/960118.808382]
+James O. Henriksen, An improved events list algorithm, Proceedings of the 9th conference on Winter simulation, p.546-557, December 05-07, 1977, Gaitersburg, MD
+David R. Jefferson, Virtual time, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.3, p.404-425, July 1985[doi>10.1145/3916.3988]
+Douglas W. Jones, An empirical comparison of priority-queue and event-set implementations, Communications of the ACM, v.29 n.4, p.300-311, April 1986[doi>10.1145/5684.5686]
+Douglas W. Jones, Concurrent operations on priority queues, Communications of the ACM, v.32 n.1, p.132-137, Jan. 1989[doi>10.1145/63238.63249]
+Douglas W. Jones , James O. Henriksen , Robert M. O'Keefe , C. Dennis Pegden , Robert G. Sargent , Brian W. Unger, Implementations of time (panel), Proceedings of the 18th conference on Winter simulation, p.409-416, December 08-10, 1986, Washington, D.C., United States[doi>10.1145/318242.318467]
+G. Kesidis , J. Walrand, Quick simulation of ATM buffers with on-off multiclass Markov fluid sources, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.3 n.3, p.269-276, July 1993[doi>10.1145/174153.174162]
+Jeffrey H. Kingston, Analysis of tree algorithms for the simulation event list, Acta Informatica, v.22 n.1, p.15-33, April 1985[doi>10.1007/BF00290143]
+Jeffrey H Kingston, Analysis of Henriksen's algorithm for the simulation event set, SIAM Journal on Computing, v.15 n.3, p.887-902, August 1986[doi>10.1137/0215062]
+Douglas W. Jones, Concurrent operations on priority queues, Communications of the ACM, v.32 n.1, p.132-137, Jan. 1989[doi>10.1145/63238.63249]
+William M. McCormack , Robert G. Sargent, Analysis of future event set algorithms for discrete event simulation, Communications of the ACM, v.24 n.12, p.801-812, Dec. 1981[doi>10.1145/358800.358803]
+Horst Mehl , Stefan Hammes, Shared variables in distributed simulation, Proceedings of the seventh workshop on Parallel and distributed simulation, p.68-75, May 16-19, 1993, San Diego, California, United States[doi>10.1145/158459.158468]
+Jayadev Misra, Distributed discrete-event simulation, ACM Computing Surveys (CSUR), v.18 n.1, p.39-65, March 1986[doi>10.1145/6462.6485]
+OBAL, W. D. AND SANDERS, W. H.1994. Importance sampling simulation in UltraSAN. Simulation 62, 2 (Feb.), 98-111.
+S. K. Park , K. W. Miller, Random number generators: good ones are hard to find, Communications of the ACM, v.31 n.10, p.1192-1201, Oct. 1988[doi>10.1145/63039.63042]
+William Pugh, Skip lists: a probabilistic alternative to balanced trees, Communications of the ACM, v.33 n.6, p.668-676, June 1990[doi>10.1145/78973.78977]
+V. N. Rao , V. Kumar, Concurrent Access of Priority Queues, IEEE Transactions on Computers, v.37 n.12, p.1657-1665, December 1988[doi>10.1109/12.9744]
+RIBOE, J. 1991. The camel distribution. Tech. Rep. TRITA-TCS-9104, Dept. of Teleinformatics, The Royal Institute of Technology, Stockholm.
+Robert Rönngren , Rassul Ayani , Richard M. Fujimoto , Samir R. Das, Efficient implementation of event sets in Time Warp, Proceedings of the seventh workshop on Parallel and distributed simulation, p.101-108, May 16-19, 1993, San Diego, California, United States[doi>10.1145/158459.158472]
+RONNGREN, R., RIBOE, J., AND AYANI, R. 1993a. Lazy queue: New approach to implementing the pending event set. Int. J. Comput. Simul. 3, 303-332.
+CORPORATE Sequent Computer Systems, Inc., Guide to parallel programming (3rd ed.): on sequent computer systems, Prentice-Hall, Inc., Upper Saddle River, NJ, 1992
+Daniel Dominic Sleator , Robert Endre Tarjan, Self-adjusting binary search trees, Journal of the ACM (JACM), v.32 n.3, p.652-686, July 1985[doi>10.1145/3828.3835]
+Daniel Dominic Sleator , Robert Endre Tarjan, Self adjusting heaps, SIAM Journal on Computing, v.15 n.1, p.52-69, Feb. 1986[doi>10.1137/0215004]
+STEINMAN, J.S. 1992. SPEEDES: A unified approach to parallel simulation. In Proceedings of the Sixth Workshop on Parallel and Distributed Simulation, Vol. 24, No. 3, 75-84.
+Jeff S. Steinman, Discrete-event simulation and the event horizon, Proceedings of the eighth workshop on Parallel and distributed simulation, p.39-49, July 06-08, 1994, Edinburgh, Scotland, United Kingdom[doi>10.1145/182478.182490]
+TARJAN, R.E. 1985. Amortized computational complexity. SIAM J. Algebraic Discrete Meth. 6, 2 (April), 306-318.
+UNGER, B. W., GOETZ, D. J., AND MARYKA, S.W. 1994. Simulation of SS7 common channel signaling. IEEE Commun. Mag. 32, 3 (March), 52-62.
+VAUCHER, J. G. 1977. On the distribution of event times for the notices in a simulation event list. INFOR 15, 2 (June), 171-182.
+Jean G. Vaucher , Pierre Duval, A comparison of simulation event list algorithms, Communications of the ACM, v.18 n.4, p.223-230, April 1975[doi>10.1145/360715.360758]

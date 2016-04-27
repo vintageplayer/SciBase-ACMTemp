@@ -1,0 +1,29 @@
+Anant Agarwal , Minor Huffman, Blocking: exploiting spatial locality for trace compaction, Proceedings of the 1990 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.48-57, April 1990, Univ. of Colorado, Boulder, Colorado, USA[doi>10.1145/98457.98503]
+Babaoglu, O. 1981. Efficient generation of memory reference strings based on the LRU stack model of program behaviour. In Proceedings of PERFORMANCE '81, 373--383.
+Babaoglu, O. and Ferrari, D. 1983. Two-level replacement decisions in paging stores. IEEE Trans. Comput. C-32, 12 (Dec.), 1151--1159.
+Belady, L. A. 1966. A study of replacement algorithms for virtual storage. IBM Syst. J. 5:78--101.
+Coffman, E. G. and Randell, B. 1970. Performance predictions for extended paged memories. Acta Inf. 1, 1--13.
+Thomas H. Cormen , Clifford Stein , Ronald L. Rivest , Charles E. Leiserson, Introduction to Algorithms, McGraw-Hill Higher Education, 2001
+Denning, P. J. 1976. The working set model for program behavior. Commun. ACM 19, 5, 285--294.
+Douglis, F. 1993. The compression cache: Using on-line compression to extend physical memory. In Proceedings of 1993 Winter USENIX Conference (San Diego), 519--529.
+Fernandez, E. B., Lang, T., and Wood, C. 1978. Effect of replacement algorithms on a paged buffer database system. IBM Syst. J. 22, 2, 185--196.
+Gideon Glass , Pei Cao, Adaptive page replacement based on memory reference behavior, Proceedings of the 1997 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.115-126, June 15-18, 1997, Seattle, Washington, USA[doi>10.1145/258612.258681]
+Johnson, E. E. and Ha, J. 1994. Pdats: Lossless address trace compression for reducing file size and access time. In Proceedings of the IEEE International Conference on Computers and Communications, 213--219.
+Kaplan, S. F. WWW trace reduction Web-page. Available at: <http://www.cs.amherst.edu/∼sfkaplan/research/trace-reduction>.
+Scott Frederick Kaplan , Paul R. Wilson , Donald S. Fussell, Compressed caching and modern virtual memory simulation, The University of Texas at Austin, 1999
+Scott F. Kaplan , Yannis Smaragdakis , Paul R. Wilson, Trace reduction for virtual memory simulations, Proceedings of the 1999 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.47-58, May 01-04, 1999, Atlanta, Georgia, USA[doi>10.1145/301453.301479]
+Dennis C. Lee , Patrick J. Crowley , Jean-Loup Baer , Thomas E. Anderson , Brian N. Bershad, Execution characteristics of desktop applications on Windows NT, Proceedings of the 25th annual international symposium on Computer architecture, p.27-38, June 27-July 02, 1998, Barcelona, Spain[doi>10.1145/279358.279366]
+Mattson, R. L., Gecsei, J., Slutz, D. R., and Traiger, I. L. 1970. Evaluation techniques for storage hierarchies. IBM Syst. J. 9, 78--117.
+Vidyadhar Phalke, Modeling and managing program references in a memory hierarchy, Rutgers University, New Brunswick, NJ, 1996
+Barton G. Prieve , R. S. Fabry, MIN—an optimal variable-space page replacement algorithm, Communications of the ACM, v.19 n.5, p.295-297, May 1976[doi>10.1145/360051.360231]
+Thomas Roberts Puzak, Analysis of cache replacement-algorithms, University of Massachusetts Amherst, 1985
+John T. Robinson , Murthy V. Devarakonda, Data cache management using frequency-based replacement, Proceedings of the 1990 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.134-142, April 1990, Univ. of Colorado, Boulder, Colorado, USA[doi>10.1145/98457.98523]
+A. D. Samples, Mache: no-loss trace compaction, Proceedings of the 1989 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.89-97, May 23-26, 1989, Oakland, California, USA[doi>10.1145/75108.75382]
+Yannis Smaragdakis, Trace Reduction for LRU-Based Simulations, University of Texas at Austin, Austin, TX, 1998
+Yannis Smaragdakis , Scott Kaplan , Paul Wilson, EELRU: simple and effective adaptive page replacement, Proceedings of the 1999 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.122-133, May 01-04, 1999, Atlanta, Georgia, USA[doi>10.1145/301453.301486]
+Yannis Smaragdakis , Scott Kaplan , Paul Wilson, EELRU: simple and effective adaptive page replacement, Proceedings of the 1999 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.122-133, May 01-04, 1999, Atlanta, Georgia, USA[doi>10.1145/301453.301486]
+Smith, A. J. 1977. Two methods for the efficient analysis of address trace data. IEEE Trans. Softw. Eng. SE-3, 1 (Jan.).
+Rollins Turner , Henry Levy, Segmented FIFO page replacement, Proceedings of the 1981 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.48-51, September 14-16, 1981, Las Vegas, Nevada, USA[doi>10.1145/800189.805473]
+Richard A. Uhlig , Trevor N. Mudge, Trace-driven memory simulation: a survey, ACM Computing Surveys (CSUR), v.29 n.2, p.128-170, June 1997[doi>10.1145/254180.254184]
+Wilson, P. R. 1991. Operating system support for small objects. In Proceedings of the International Workshop on Object Orientation in Operating Systems, IEEE Press, Palo Alto, CA, 80--86.
+Paul R. Wilson , Scott F. Kaplan , Yannis Smaragdakis, The case for compressed caching in virtual memory systems, Proceedings of the annual conference on USENIX Annual Technical Conference, p.8-8, June 06-11, 1999, Monterey, California

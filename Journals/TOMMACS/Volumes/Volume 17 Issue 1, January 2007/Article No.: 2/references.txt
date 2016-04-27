@@ -1,0 +1,36 @@
+A. Agarwal , R. L. Sites , M. Horowitz, ATUM: a new technique for capturing address traces using microcode, Proceedings of the 13th annual international symposium on Computer architecture, p.119-127, June 02-05, 1986, Tokyo, Japan
+ARM. 2004. CoreSight On-chip Debug and Trace Technology. <http://www.arm.com/products/solutions/CoreSight.html> (July 2004).
+Jeffrey C. Becker , Arvin Park, An analysis of the information content of address and data reference streams, Proceedings of the 1993 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.262-263, May 10-14, 1993, Santa Clara, California, USA[doi>10.1145/166955.167028]
+Doug Burger , Todd M. Austin, The SimpleScalar tool set, version 2.0, ACM SIGARCH Computer Architecture News, v.25 n.3, p.13-25, June 1997[doi>10.1145/268806.268810]
+Burrows, M. and Wheeler, D. J. 1994. A Block-sorting lossless data compression algorithm. Report 124, Digital SRC.
+Martin Burtscher, VPC3: a fast and effective trace-compression algorithm, Proceedings of the joint international conference on Measurement and modeling of computer systems, June 10-14, 2004, New York, NY, USA[doi>10.1145/1005686.1005708]
+Martin Burtscher , Ilya Ganusov , Sandra J. Jackson , Jian Ke , Paruj Ratanaworabhan , Nana B. Sam, The VPC Trace-Compression Algorithms, IEEE Transactions on Computers, v.54 n.11, p.1329-1344, November 2005[doi>10.1109/TC.2005.186]
+Martin Burtscher , Metha Jeeradit, Compressing Extended Program Traces Using Value Predictors, Proceedings of the 12th International Conference on Parallel Architectures and Compilation Techniques, p.159, September 27-October 01, 2003
+Martin Burtscher , Nana B. Sam, Automatic Generation of High-Performance Trace Compressors, Proceedings of the international symposium on Code generation and optimization, p.229-240, March 20-23, 2005[doi>10.1109/CGO.2005.6]
+Cantin, J. F. and Hill, M. D. 2003. Cache Performance for SPEC CPU2000 Benchmarks. <http://www.cs.wisc.edu/multifacet/misc/spec2000cache-data/> (April 2004).
+Luiz DeRose , K. Ekanadham , Jeffrey K. Hollingsworth , Simone Sbaraglia, SIGMA: a simulator infrastructure to guide memory analysis, Proceedings of the 2002 ACM/IEEE conference on Supercomputing, p.1-13, November 16, 2002, Baltimore, Maryland
+Edler, J. and Hill, M. D. 1998. Dinero IV Trace-Driven Uniprocessor Cache Simulator. <http://www.cs.wisc.edu/~markhill/DineroIV/> (August 2003).
+S. J. Eggers , David R. Keppel , Eric J. Koldinger , Henry M. Levy, Techniques for efficient inline tracing on a shared-memory multiprocessor, Proceedings of the 1990 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.37-47, April 1990, Univ. of Colorado, Boulder, Colorado, USA[doi>10.1145/98457.98501]
+E. N. Elnozahy, Address trace compression through loop detection and reduction, ACM SIGMETRICS Performance Evaluation Review, v.27 n.1, p.214-215, June 1999[doi>10.1145/301464.301577]
+Fisher, J. A., Faraboschi, P., and Young, C. 2005. Embedded Computing: A VLIW Approach in Architecture, Compilers, and Tools. Morgan Kaufmann, San Francisco, CA.
+Abdelwahab Hamou-Lhadj , Timothy C. Lethbridge, Compression Techniques to Simplify the Analysis of Large Execution Traces, Proceedings of the 10th International Workshop on Program Comprehension, p.159, June 27-29, 2002
+Eric E. Johnson , Jiheng Ha , M. Baqar Zaidi, Lossless Trace Compression, IEEE Transactions on Computers, v.50 n.2, p.158-173, February 2001[doi>10.1109/12.908991]
+Computer Staff, Efficient program tracing, Computer, v.26 n.5, p.52-61, May 1993[doi>10.1109/2.211900]
+James R. Larus, Whole program paths, Proceedings of the ACM SIGPLAN 1999 conference on Programming language design and implementation, p.259-269, May 01-04, 1999, Atlanta, Georgia, USA[doi>10.1145/301618.301678]
+Yue Luo , Lizy Kurian John, Locality-Based Online Trace Compression, IEEE Transactions on Computers, v.53 n.6, p.723-731, June 2004[doi>10.1109/TC.2004.12]
+McCullough, D. I. and Traylor, L. A. 2003. Trace reporting method and system. United States Patent 6,615,371.
+Milenkovic, A., and Milenkovic, M. 2003a. Exploiting streams in instruction and data address trace compression. In Proceedings of IEEE 6th Annual Workshop on Workload Characterization (Austin, TX, October 27, 2003). IEEE Computer Society Press, Los Alamitos, CA, 99--107.
+Aleksandar Milenkovic , Milena Milenkovic, Stream-Based Trace Compression, IEEE Computer Architecture Letters, v.2 n.1, p.4-4, January 2003[doi>10.1109/L-CA.2003.7]
+Milenkovic, A., Milenkovic, M., and Kulick, J. 2003. N-tuple compression: A novel method for compression of branch instruction traces. In Proceedings of the 16th International Conference on Parallel and Distributed Computing Systems (PDCS-2003) (Reno, NV, Aug. 13--15). 49--55.
+Craig G. Nevill-Manning , Ian H. Witten, Linear-Time, Incremental Hierarchy Inference for Compression, Proceedings of the  Conference on Data Compression, p.3, March 25-27, 1997
+Andrew R. Pleszkun, Techniques for compressing program address traces, Proceedings of the 27th annual international symposium on Microarchitecture, p.32-39, November 30-December 02, 1994, San Jose, California, USA[doi>10.1145/192724.192728]
+A. D. Samples, Mache: no-loss trace compaction, Proceedings of the 1989 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.89-97, May 23-26, 1989, Oakland, California, USA[doi>10.1145/75108.75382]
+Kevin Skadron , Margaret Martonosi , David I. August , Mark D. Hill , David J. Lilja , Vijay S. Pai, Challenges in Computer Architecture Evaluation, Computer, v.36 n.8, p.30-36, August 2003[doi>10.1109/MC.2003.1220579]
+Smith, M. D. 1991. Tracing with Pixie. Tech. Rep. CSL-TR-91-497. Computer Systems Laboratory, Stanford University, Stanford, CA.
+SPEC. 2000. SPEC 2000 CPU Benchmark Suite. <http://www.spec.org> (February 2004).
+Niki C. Thornock , J. Kelly Flanagan, A national trace collection and distribution resource, ACM SIGARCH Computer Architecture News, v.29 n.3, p.6-10, June 2001[doi>10.1145/503205.503207]
+Richard Uhlig , David Nagle , Trevor Mudge , Stuart Sechrest , Joel Emer, Instruction fetching: coping with code bloat, Proceedings of the 22nd annual international symposium on Computer architecture, p.345-356, June 22-24, 1995, S. Margherita Ligure, Italy[doi>10.1145/223982.224445]
+Richard A. Uhlig , Trevor N. Mudge, Trace-driven memory simulation: a survey, ACM Computing Surveys (CSUR), v.29 n.2, p.128-170, June 1997[doi>10.1145/254180.254184]
+Youtao Zhang , Rajiv Gupta, Timestamped whole program path representation and its applications, Proceedings of the ACM SIGPLAN 2001 conference on Programming language design and implementation, p.180-190, June 2001, Snowbird, Utah, USA[doi>10.1145/378795.378835]
+Zhou, M. and Smith, A. J. 2000. Tracing Windows95. Microproc. Microsyst. 24, 333--347.
+Ziv, J., and Lempel, A. 1977. A universal algorithm for sequential data compression. IEEE Trans. Inform. Theory 23, 3 (May), 337--343.

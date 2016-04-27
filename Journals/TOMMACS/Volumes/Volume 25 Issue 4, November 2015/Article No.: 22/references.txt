@@ -1,0 +1,57 @@
+S. Andradóttir, J. M. Calvin, and P. W. Glynn. 1995. Accelerated regeneration for markov chain simulations. Probab. Eng. Inf. Sci. 9, 4, 497--523.
+S. Asmussen. 2003. Applied Probability and Queues (2nd ed.). Applications of Mathematics: Stochastic Modelling and Applied Probability, Vol. 51. Springer-Verlag, New York.
+S. Asmussen and S. G. Foss. 1993. Renovation, regeneration, and coupling in multiple-server queues in continuous time. Front. Pure Appl. Probab. 1, 1--6.
+K. B. Athreya and P. Ney. 1978. A New Approach to the Limit Theory of Recurrent Markov Chains. Trans. Amer. Math. Soc. 245, 493--501.
+D. Bertsimas, I. C. Paschalidis, and J. N. Tsitsiklis. 1994. Optimization of multiclass queueing networks: Polyhedral and nonlinear characterizations of achievable performance. Ann. Appl. Probab. 4, 1, 43--75.
+A. A. Borovkov. 1984. Asymptotic Methods in Queuing Theory. John Wiley & Sons, Ltd., Chichester.
+M. Bramson. 1998. State space collapse with application to heavy traffic limits for multiclass queueing networks. Queueing Syst. 30, 1--2, 89--140.
+J. M. Calvin. 1994. Return-state independent quantities in regenerative simulation. Oper. Res. 42, 3, 531--542.
+J. M. Calvin, P. W. Glynn, and M. K. Nakayama. 2006. The semi-regenerativmethod of dimulation output analysis. ACM Trans. Model. Comput. Simul. 16, 3, 280--315.
+H. Chen. 1995. Fluid approximations and stability of multiclass queueing networks: work-conserving disciplines. Ann. Appl. Probab. 5, 3, 637--665.
+H. Chen and D. D. Yao. 1993. Dynamic scheduling of a multiclass fluid network. Oper. Res. 41, 6, 1104--1115.
+M. A. Crane and D. L. Iglehart. 1975. Simulating stable stochastic systems: III. Regenerative processes and discrete-event simulations. Oper. Res. 23, 1, 33--45.
+J. G. Dai. 1995. On positive Harris recurrence of multiclass queueing networks: a unified approach via fluid limit models. Ann. Appl. Probab. 5, 1, 49--77.
+J. G. Dai and S. P. Meyn. 1995. Stability and convergence of moments for multiclass queueing networks via fluid limit models. Automatic Control, IEEE Transactions on 40, 11, 1889--1904.
+S. G. Foss and V. V. Kalashnikov. 1991. Regeneration and renovation in queues. Queueing Syst. 8, 3, 211--223.
+P. W. Glynn. 1989. A GSMP formalism for discrete event systems. Proc. IEEE 77, 1, 14--23.
+P. W. Glynn. 1994. Some topics in regenerative steady-state simulation. Acta Applicandae Mathematicae 34, 1, 225--236.
+P. W. Glynn. 2006. Chapter 16 Simulation Algorithms for Regenerative Processes. In Simulation, S. G. Henderson and B. L. Nelson (Eds.). Handbooks in Operations Research and Management Science, Vol. 13. Elsevier, 477--500.
+P. W. Glynn and P. Heidelberger. 1991. Analysis of parallel replicated simulations under a completion time constraint. ACM Trans. Model. Comput. Simul. 1, 1, 3--23.
+P. W. Glynn and D. L. Iglehart. 1981. Simulation Output Analysis for General State Space Markov Chains. Ph.D. dissertation, Stanford University, Department of Operational Research, Stanford, CA.
+P. W. Glynn and D. L. Iglehart. 1984. Confidence intervals using the regenerative method for simulation output analysis. Technical Report in Defense Technical Information Center (DTIC), ADA150147, 248--249.
+P. W. Glynn and D. L. Iglehart. 1986. Recursive moment formulas for regenerative simulation. In J. Jassen (Ed.). Semi-Markov Models, 99--110.
+P. W. Glynn and D. L. Iglehart. 1987. A joint central limit theorem for the sample mean and regenerative variance estimator. Ann. Oper. Res. 8, 41--55.
+P. W. Glynn and D. L. Iglehart. 1995. A Martingale approach to regenerative simulation. Probab. Eng. Inf. Sci. 9, 01, 123--131.
+K. M. Gregory and U. N. Bhat. 1997. Estimation for renewal processes with unobservable gamma or Erlang interarrival times. J. Stat. Plann. Inference 61, 2, 355--372.
+M. Greiner, M. Jobmann, and L. Lipsky. 1999. The importance of power-tail distributions for modeling queueing systems. Oper. Res. 47, 2, 313--326.
+J. M. Harrison. 1988. Brownian models of queueing networks with heterogeneous customer populations. In Stochastic Differential Systems, Stochastic Control Theory and Applications (Minneapolis, Minn., 1986). IMA Vol. Math. Appl., Vol. 10. Springer, New York, 147--186.
+P. Heidelberger and D. L. Iglehart. 1979. Comparing stochastic systems using regenerative simulation with common random numbers. Advances in Applied Probability 804--819.
+S. G. Henderson and P. W. Glynn. 1999. Can the regenerative method be applied to discrete-event simulation&quest; In Winter Simulation Conference Proceedings, 1999, Vol. 1. 367--373.
+S. G. Henderson and P. W. Glynn. 2001. Regenerative steady-state simulation of discrete-event systems. ACM Trans. Model. Comput. Simul. 11, 4, 313--345.
+D. L. Iglehart. 1975. Simulating stable stochastic systems, V: Comparison of ratio estimators. Nav. Res. Logist. Q. 22, 3, 553--565.
+D. L. Iglehart and P. A. W. Lewis. 1979. Regenerative simulation with internal controls. J. ACM (JACM) 26, 2, 271--282.
+D. L. Iglehart and G. S. Shedler. 1978a. Regenerative simulation of response times in networks of queues. J. ACM (JACM) 25, 3, 449--460.
+D. L. Iglehart and G. S. Shedler. 1978b. Simulation of response times in finite-capacity open networks of queues. Oper. Res. 26, 5, 896--914.
+D. L. Iglehart and G. S. Shedler. 1979. Regenerative simulation of response times in networks of queues with multiple job types. Acta Informatica 12, 2, 159--175. Issue 2.
+D. L. Iglehart and G. S. Shedler. 1980. Regenerative simulation of response times in networks of queues. Lecture Notes in Control and Information Sciences, Vol. 26. Springer-Verlag, Berlin.
+D. L. Iglehart and G. S. Shedler. 1981. Regenerative simulation of response times in networks of queues: statistical efficiency. Acta Informatica 15, 4, 347--363.
+D. L. Iglehart and G. S. Shedler. 1983. Statistical efficiency of regenerative simulation methods for networks of queues. Adv. in Appl. Probab. 15, 1, 183--197.
+D. L. Iglehart and M. L. Stone. 1983. Regenerative simulation for estimating extreme values. Operations Research 31, 6, 1145--1166.
+P. R. Kumar and T. I. Seidman. 1990. Dynamic instabilities and stabilization methods in distributed real-time scheduling of manufacturing systems. IEEE Trans. Automat. Control 35, 3, 289--298.
+J. Li. 1997. An approximation method for the analysis of GI/G/1 queues. Oper. Res. 45, 1, 140--144.
+S. H. Lu and P. R. Kumar. 1991. Distributed scheduling based on due dates and buffer priorities. Automatic Control, IEEE Transactions on 36, 12, 1406--1416.
+K. S. Meier-Hellstern, P. E. Wirth, Y. Yan, and D. A. Hoeflin. 1991. Traffic models for ISDN data users: office automation application. In Proc. ITC, Vol. 13, 167--172.
+S. Meyn. 1997. Stability and optimization of queueing networks and their fluid models. Lect. Appl. Math. Am. Math. Soc. 33, 175--200.
+S. P. Meyn and R. L. Tweedie. 2009. Markov Chains and Stochastic Stability (2nd ed.). Cambridge University Press, New York.
+S. B. Moka and S. Juneja. 2013. Regenerative simulation for multiclass open queueing networks. In Winter Simulation Conference (WSC’13). IEEE, 643--654.
+S. B. Moka and S. Juneja. 2014. Regenerative simulation for queueing networks with exponential or heavier tail arrival distributions: supplementary material available in the ACM Digital Library. ACM Trans. Model. Comput. Simul.
+E. Morozov. 2004. Weak regeneration in modeling of queueing processes. Queueing Syst. 46, 3--4, 295--315.
+E. Nummelin. 1978. A splitting technique for Harris recurrent Markov chains. Z. Wahrsch. Verw. Gebiete 43, 4, 309--318.
+E. Nummelin. 1981. Regeneration in tandem queues. Adv. Appl. Probab. 13, 1, 221--230.
+J. R. Perkins and P. R. Kumar. 1989. Stable, distributed, real-time scheduling of flexible manufacturing/assembly/disassembly systems. IEEE Trans. Automatic Control, IEEE Transactions on 34, 2, 139--148.
+K. Sigman. 1988. Regeneration in tandem queues with multiserver stations. J. Appl. Probab. 25, 2, 391--403.
+W. L. Smith. 1955. Regenerative stochastic processes. Proc. Roy. Soc. London. Ser. A. 232, 6--31.
+H. Thorisson. 1983. The coupling of regenerative processes. Adv. Appl. Probab. 15, 3, 531--561.
+H. Thorisson. 2000. Coupling, Stationarity, and Regeneration. Springer-Verlag, New York.
+L. M. Wein. 1988. Scheduling semiconductor wafer fabrication. IEEE Trans. Semicond. Manuf. 1, 3, 115--130.
+R. J. Williams. 1998. Diffusion approximations for open multiclass queueing networks: sufficient conditions involving state space collapse. Queueing Systems 30, 1--2, 27--88.

@@ -1,0 +1,44 @@
+ARVIND, D.K. AND SMART, C.R. 1992. Hierarchical parallel discrete event simulation in Composite Elsa. In Proceedings of the Sixth Workshop on Parallel and Distributed Simulation (Jan.), 147-155.
+BALL, D. AND HOYT, S. 1990. The adaptive Time-Warp concurrency control algorithm. In Proceedings of the SCS Multiconference on Distributed Simulation (Jan.), 174-177.
+Steven Bellenot, Performance of a riskfree Time Warp operating system, Proceedings of the seventh workshop on Parallel and distributed simulation, p.155-158, May 16-19, 1993, San Diego, California, United States[doi>10.1145/158459.158479]
+Samir R. Das, Adaptive protocols for parallel discrete event simulation, Proceedings of the 28th conference on Winter simulation, p.186-193, December 08-11, 1996, Coronado, California, United States[doi>10.1145/256562.256602]
+Samir R. Das , Richard M. Fujimoto, An adaptive memory management protocol for Time Warp parallel simulation, Proceedings of the 1994 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.201-210, May 16-20, 1994, Nashville, Tennessee, United States[doi>10.1145/183018.183041]
+Phillip Mathew Dickens, Analysis of the aggressive global windowing algorithm, University of Virginia, Charlottesville, VA, 1993
+DICKENS, P. M. AND REYNOLDS, P. F., JR. 1990. SRADS with local rollback. In Proceedings of the 1990 SCS Multiconference on Distributed Simulation (Jan.), 161-164.
+Derek L. Eager , Edward D. Lazowska , John Zahorjan, Adaptive load sharing in homogeneous distributed systems, IEEE Transactions on Software Engineering, v.12 n.5, p.662-675, May 1986
+Alois Ferscha , Satish K. Tripathi, Parallel and distributed simulation of discrete event systems, University of Maryland at College Park, College Park, MD, 1994
+Richard M. Fujimoto, Parallel discrete event simulation, Communications of the ACM, v.33 n.10, p.30-53, Oct. 1990[doi>10.1145/84537.84545]
+FUJIMOTO, R.M. 1993. Parallel discrete-event simulation: Will the field survive? ORSA J. Comput. 5, 3 (Summer), 213-230.
+Richard M. Fujimoto , Maria Hybinette, Computing global virtual time in shared-memory multiprocessors, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.7 n.4, p.425-446, Oct. 1997[doi>10.1145/268403.268404]
+R. L. Gimarco, Distributed simulation using hierarchical rollback, Proceedings of the 21st conference on Winter simulation, p.621-629, December 04-06, 1989, Washington, D.C., United States[doi>10.1145/76738.76818]
+HAMNES, D. O. AND TRIPATHI, A. 1994. Evaluation of a local adaptive protocol for distributed discrete event simulation. In Proceedings of the 1994 International Conference on Parallel Processing (August), Vol. III, 127-134.
+David R. Jefferson, Virtual time, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.3, p.404-425, July 1985[doi>10.1145/3916.3988]
+Jia-Jen Lin, Efficient parallel simulation for designing multiprocessor systems, University of Michigan, Ann Arbor, MI, 1992
+LIN, Y-B. 1992. Memory management algorithms for optimistic parallel simulation. In Proceedings of the Sixth Workshop on Parallel and Distributed Simulation (Jan.), 43-52.
+LIPTON, R. J. AND MIZELL, D.W. 1990. Time Warp vs. Chandy-Misra: A worst-case comparison. In Proceedings of the 1990 SCS Multiconference on Distributed Simulation (Jan.), 137-143.
+B. Lubachevsky , A. Shwartz , A. Weiss, Rollback sometimes works...if filtered, Proceedings of the 21st conference on Winter simulation, p.630-639, December 04-06, 1989, Washington, D.C., United States[doi>10.1145/76738.76819]
+Boris Lubachevsky , Adam Schwartz , Alan Weiss, An analysis of rollback-based simulation, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.1 n.2, p.154-193, April 1991[doi>10.1145/116890.116912]
+MADISETTI, V.K. 1993. Randomized algorithms for self-synchronization. Private communication.
+Vijay K. Madisetti , David A. Hardaker , Richard M. Fujimoto, The MIMDIX environment for parallel simulation, Journal of Parallel and Distributed Computing, v.18 n.4, p.473-483, Aug. 1993[doi>10.1006/jpdc.1993.1078]
+Vijay Madisetti , Jean Walrand , David Messerschmitt, Wolf: a rollback algorithm for optimistic distributed simulation systems, Proceedings of the 20th conference on Winter simulation, p.296-305, December 12-14, 1988, San Diego, California, United States[doi>10.1145/318123.318205]
+Jeff McAffer, A unified distributed simulation system, Proceedings of the 22nd conference on Winter simulation, p.415-422, December 09-12, 1990, New Orleans, Louisiana, United States
+MEHL, H. 1991. Speed-up of conservative distributed discrete event simulation methods by speculative computing. In Proceedings of the Fifth Workshop on Parallel and Distributed Simulation (Jan.), 163-166.
+David Nicol , Philip Heidelberger, On extending parallelism to serial simulators, Proceedings of the ninth workshop on Parallel and distributed simulation, p.60-67, June 13-16, 1995, Lake Placid, New York, United States[doi>10.1145/214282.214304]
+David M. Nicol , Paul F. Reynolds, Jr., Optimal Dynamic Remapping of Data Parallel Computations, IEEE Transactions on Computers, v.39 n.2, p.206-219, February 1990[doi>10.1109/12.45206]
+ORSA 1993. ORSA J. Comput. 5, 3 (Summer), 213-248.
+Carmen M. Pancerella , Paul F. Reynolds, Jr., Disseminating critical target-specific synchronization information in parallel discrete event simulations, Proceedings of the seventh workshop on Parallel and distributed simulation, p.52-59, May 16-19, 1993, San Diego, California, United States[doi>10.1145/158459.158466]
+Atul Prakash , Rajalakshmi Subramanian, Filter: an algorithm for reducing cascaded rollbacks in optimistic distributed simulations, Proceedings of the 24th annual symposium on Simulation, p.123-132, April 1991, New Orleans, Louisiana, United States
+Hassan Rajaei , Rassul Ayani , Lars-Erik Thorelli, The local Time Warp approach to parallel simulation, Proceedings of the seventh workshop on Parallel and distributed simulation, p.119-126, May 16-19, 1993, San Diego, California, United States[doi>10.1145/158459.158474]
+P. L. Reiher , F. Wieland , D. Jefferson, Limitation of optimism in the time warp operating system, Proceedings of the 21st conference on Winter simulation, p.765-770, December 04-06, 1989, Washington, D.C., United States[doi>10.1145/76738.76834]
+Paul F. Reynolds, Jr., A spectrum of options for parallel simulation, Proceedings of the 20th conference on Winter simulation, p.325-332, December 12-14, 1988, San Diego, California, United States[doi>10.1145/318123.318209]
+REYNOLDS, P. F., JR. 1993. The Silver Bullet. ORSA J. Comput. 5, 3 (Summer), 239-241.
+Paul F. Reynolds, Jr. , Carmen M. Pancerella , Sudhir Srinivasan, Design and performance analysis of hardware support for parallel simulations, Journal of Parallel and Distributed Computing, v.18 n.4, p.435-453, Aug. 1993[doi>10.1006/jpdc.1993.1076]
+Paul F. Reynolds, Jr. , Craig Williams , Raymond R. Wagner, Jr., Isotach Networks, IEEE Transactions on Parallel and Distributed Systems, v.8 n.4, p.337-348, April 1997[doi>10.1109/71.588601]
+SOKOL, L. M., BRISCOE, D. P., AND WIELAND, A.P. 1988. MTW: A strategy for scheduling discrete events for concurrent execution. In Proceedings of the SCS Multiconference on Distributed Simulation (July), 34-42.
+Sudhir Srinivasan, NPSI adaptive synchronization algorithms for parallel discrete event simulation, University of Virginia, Charlottesville, VA, 1996
+Sudhir Srinivasan , Paul F. Reynolds, Jr., Non-interfering GVT computation via asynchronous global reductions, Proceedings of the 25th conference on Winter simulation, p.740-749, December 12-15, 1993, Los Angeles, California, United States[doi>10.1145/256563.256834]
+Sudhir Srinivasan , Paul F. Reynolds, Jr., Adaptive algorithms vs. Time Warp: an analytical comparison, Proceedings of the 27th conference on Winter simulation, p.666-673, December 03-06, 1995, Arlington, Virginia, United States[doi>10.1145/224401.224706]
+Sudhir Srinivasan , Paul F. Reynolds, Jr., NPSI adaptive synchronization algorithms for PDES, Proceedings of the 27th conference on Winter simulation, p.658-665, December 03-06, 1995, Arlington, Virginia, United States[doi>10.1145/224401.224705]
+Jeff S. Steinman, Interactive SPEEDES, Proceedings of the 24th annual symposium on Simulation, p.149-158, April 1991, New Orleans, Louisiana, United States
+Jeff S. Steinman, Breathing Time Warp, Proceedings of the seventh workshop on Parallel and distributed simulation, p.109-118, May 16-19, 1993, San Diego, California, United States[doi>10.1145/158459.158473]
+TURNER, S.J. AND XU, M.Q. 1992. Performance evaluation of the Bounded Time Warp algorithm. In Proceedings of the Sixth Workshop on Parallel and Distributed Simulation (Jan.), 117-126.

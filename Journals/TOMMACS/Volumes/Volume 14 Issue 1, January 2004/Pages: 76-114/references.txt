@@ -1,0 +1,43 @@
+Alexopoulos, C. and Goldsman, D. 2003. Replicated batch means variance estimators in the presence of an initial transient. Tech. rep. School of Industrial and Systems Engineering, Georgia Institute of Technology, Atlanta, GA.
+Alexopoulos, C. and Seila, A. F. 1998. Output data analysis. In Handbook of Simulation, J. Banks, Ed. John Wiley & Sons, New York, NY, 225--272.
+Andradóttir, S. and Argon, N. 2003. Replicated batch means for steady-state simulations. Tech. rep., School of Industrial and Systems Engineering, Georgia Institute of Technology, Atlanta, GA.
+Billingsley, P. 1968. Convergence of Probability Measures. John Wiley & Sons, New York, NY.
+Carlstein, E. 1986. The use of subseries for estimating the variance of a general statistic from a stationary sequence. Ann. Stat. 14, 1171--1179.
+Chien, C.-H. 1989. Small sample theory for steady state confidence intervals. Tech. rep., Department of Operations Research, Stanford University, Stanford, CA.
+Chiahon Chien , David Goldsman , Benjamin Melamed, Large-sample results for batch means, Management Science, v.43 n.9, p.1288-1295, Sept. 1997[doi>10.1287/mnsc.43.9.1288]
+Evans, M., Hastings, N., and Peacock, B. 2000. Statistical Distributions, 3rd ed. John Wiley & Sons, New York, NY.
+George S. Fishman, LABATCH.2: software for statistical analysis of simulation sample path data, Proceedings of the 30th conference on Winter simulation, p.131-140, December 13-16, 1998, Washington, D.C., USA
+George S. Fishman, Discrete-event simulation, Springer-Verlag, London, UK, 2001
+Fishman, G. S. and Yarberry, L. S. 1997. An implementation of the batch means method. INFORMS J. Comput. 9, 296--310.
+Gafarian, A. V., Ancker, Jr., C. J., and Morisaku, F. 1978. Evaluation of commonly used rules for detecting "steady-state" in computer simulation. Naval Res. Logist. Quart. 25, 511--529.
+Mark A. Gallagher , Kenneth W. Bauer, Jr. , Peter S. Maybeck, Initial data truncation for univariate output of discrete-event simulations using the Kalman filter, Management Science, v.42 n.4, p.559-575, April 1996[doi>10.1287/mnsc.42.4.559]
+Glynn, P. W. and Heidelberger, P. 1991. Analysis of initial transient deletion for replicated steady-state simulations. Operat. Res. Lett. 10, 437--443.
+P. W. Glynn , D. L. Iglehart, Simulation output analysis using standardized time series, Mathematics of Operations Research, v.15 n.1, p.1-16, Feb. 1990[doi>10.1287/moor.15.1.1]
+Glynn, P. W. and Whitt, W. 1991. Estimating the asymptotic variance with batch means. Operat. Res. Lett. 10, 431--435.
+Goldsman, D. and Meketon, M. S. 1986. A comparison of several variance estimators. Tech. rep., School of Industrial and Systems Engineering, Georgia Institute of Technology, Atlanta, GA.
+Goldsman, D., Schruben, L. W., and Swain, J. J. 1994. Tests for transient means in simulated time series. Naval Res. Logist. 41, 171--187.
+John E Freund , Ronald E Walpole, Mathematical statistics (4th ed.), Prentice-Hall, Inc., Upper Saddle River, NJ, 1986
+Kang, K. and Goldsman, D. 1990. The correlation between mean and variance estimators in computer simulation. IIE Trans. 22, 15--23.
+Kelton, W. D. 1989. Random initialization methods in simulation. IIE Trans. 21, 355--367.
+Kelton, W. D. and Law, A. M. 1983. A new approach for dealing with the startup problem in discrete event simulation. Naval Res. Logist. 30, 641--658.
+Kelton, W. D. and Law, A. M. 1984. An analytical evaluation of alternative strategies in steady-state simulation. Operat. Res. 32, 169--184.
+Krishman, M. 1968. Series representation of the doubly non-central t distribution. J. Amer. Statist. Assoc. 63, 323, 1004--1012.
+Averill M. Law , David M. Kelton, Simulation Modeling and Analysis, McGraw-Hill Higher Education, 1999
+Marc S. Meketon , Bruce Schmeiser, Overlapping batch means: something for nothing?, Proceedings of the 16th conference on Winter simulation, p.226-230, December 28-30, 1984, Dallas, TX
+NIST. 2002. Dataplot. National Institute of Standards and Technology, Gaithersburg, MD. Available from www.nist.gov (http://www.itl.nist.gov/div898/software/dataplot/; accessed March 27, 2003).
+Patel, J. K. and Read, C. B. 1996. Handbook of the Normal Distribution, 2nd ed. Marcel Dekker, New York, NY.
+Robert G. Sargent , Keebom Kang , David Goldsman, An investigation of finite-sample behavior of confidence interval estimators, Operations Research, v.40 n.5, p.898-913, Sept.–Oct. 1992[doi>10.1287/opre.40.5.898]
+Bruce Schmeiser , Yingchieh Yeh, Output analysis: on choosing a single criterion for confidence-interval procedures, Proceedings of the 34th conference on Winter simulation: exploring new frontiers, December 08-11, 2002, San Diego, California
+Schruben, L. W., Singh, H., and Tierney, L. 1983. Optimal tests for initialization bias in simulation output. Operat. Res. 31, 1167--1178.
+Searle, S. R. 1971. Linear Models. John Wiley & Sons, New York, NY.
+Wheyming Tina Song , Bruce W. Schmeiser, Optimal mean-squared-error batch sizes, Management Science, v.41 n.1, p.110-123, Jan. 1995[doi>10.1287/mnsc.41.1.110]
+Natalie M. Steiger , James R. Wilson, Convergence Properties of the Batch Means Method for Simulation Output Analysis, INFORMS Journal on Computing, v.13 n.4, p.277-293, September 2001[doi>10.1287/ijoc.13.4.277.9737]
+Natalie M. Steiger , James R. Wilson, An Improved Batch Means Procedure for Simulation Output Analysis, Management Science, v.48 n.12, p.1569-1586, December 2002[doi>10.1287/mnsc.48.12.1569.438]
+Titus, B. D. 1985. Modified confidence intervals for the mean of an autoregressive process. Tech. rep. 34. Department of Operations Research, Stanford University, Stanford, CA.
+Vassilacopoulos, C. 1989. Testing for initialization bias in simulation output. Simulation 52, 151--153.
+von Neumann, J. 1941. Distribution of the ratio of the mean square successive difference and the variance. Ann. Math. Statist. 12, 367--395.
+Welch, P. D. 1983. The statistical analysis of simulation results. In The Computer Performance Modeling Handbook, S. Lavenberg, Ed. Academic Press, New York, NY, 268--328.
+Ward Whitt, The efficiency of one long run versus independent replication in steady-state simulation, Management Science, v.37 n.6, p.645-666, June 1991[doi>10.1287/mnsc.37.6.645]
+Wilson, J. R. and Pritsker, A. A. B. 1978a. A survey of research on the simulation startup problem. Simulation 31, 2, 55--58.
+Wilson, J. R. and Pritsker, A. A. B. 1978b. Evaluation of startup policies in simulation experiments. Simulation 31, 3, 79--89.
+Yingchieh Yeh , Bruce W. Schmeiser, On the MSE robustness of batching estimators, Proceedings of the 33nd conference on Winter simulation, December 09-12, 2001, Arlington, Virginia

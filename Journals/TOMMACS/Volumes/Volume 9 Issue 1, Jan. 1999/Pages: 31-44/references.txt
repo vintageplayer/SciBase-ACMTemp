@@ -1,0 +1,33 @@
+Stuart L. Anderson, Random number generations generators on Vector supercomputers and other advanced architectures, SIAM Review, v.32 n.2, p.221-251, June 1990[doi>10.1137/1032044]
+CEPERLEY, D., MASCAGNI, M., AND SRINIVASAN, A. 1997. SPRNG: Scalable parallel random number generators. University of Illinois at Urbana-Champaign, Champaign, IL. http:// www.ncsa.uiuc.edu/Apps/SPRNG/
+R. R. Coveyou , R. D. Macpherson, Fourier Analysis of Uniform Random Number Generators, Journal of the ACM (JACM), v.14 n.1, p.100-119, Jan. 1967[doi>10.1145/321371.321379]
+A. De Matteis , J. Eichenauer-Herrmann , H. Grothe, Computation of critical distances within multiplicative congruential pseudorandom number sequences, Journal of Computational and Applied Mathematics, v.39 n.1, p.49-55, Feb. 28, 1992[doi>10.1016/0377-0427(92)90221-I]
+A. De Matteis , S. Pagnutti, Parallelization of random number generators and long-range correlations, Numerische Mathematik, v.53 n.5, p.595-608, August 1988[doi>10.1007/BF01397554]
+DEMATTEIS, A. AND PAGNUTTI, S. 1990. A class of parallel random number generators. Parallel Comput. 13, 193-198.
+DEMATTEIS, A. AND PAGNUTTI, S. 1992. Critical distances in pseudorandom sequences generated with composite moduli. Int. J. Comput. Math. 43, 189-196.
+A. De Matteis , S. Pagnutti, Controlling correlations in parallel Monte Carlo, Parallel Computing, v.21 n.1, p.73-84, Jan. 1995[doi>10.1016/0167-8191(94)00073-J]
+DIETER, U. 1975. How to calculate shortest vectors in a lattice. Math. Comput. 29, 131, 827-833.
+M. J. Durst, Using linear congruential generators for parallel random number generation, Proceedings of the 21st conference on Winter simulation, p.462-466, December 04-06, 1989, Washington, D.C., USA[doi>10.1145/76738.76798]
+J. Eichenauer-Herrmann , Holger Grothe, A remark on long-range correlations in multiplicative congruential pseudo random number generators, Numerische Mathematik, v.56 n.6, p.609-611, Dec. 1989[doi>10.1007/BF01396346]
+EICHENAUER-HERRMANN, J., HERRMANN, E., AND WEGENKITTL, S. 1998. A survey of quadratic and inversive congruential pseudorandom numbers. In Lecture Notes in Statistics. Springer-Verlag, New York, NY, 66-97.
+Karl Entacher, Bad subsequences of well-known linear congruential pseudorandom number generators, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.8 n.1, p.61-70, Jan. 1998[doi>10.1145/272991.273009]
+ENTACHER, K. 1998. A collection of selected pseudorandom number generators with linear structures -- updated version. Tech. Rep. Dept. of Mathematics, University of Salzburg, Austria. http://random.mat.sbg, ac. at/
+K. Entacher , A. Uhl , S. Wegenkittl, Linear and inversive pseudorandom numbers for parallel and distributed simulation, Proceedings of the twelfth workshop on Parallel and distributed simulation, p.90-97, May 26-29, 1998, Banff, Alberta, Canada[doi>10.1145/278008.278020]
+FISHMAN, G. 1996. Monte Carlo: Concepts, algorithms, and applications. In Operations Research. Springer Series on Operations Research, vol. 1. Springer-Verlag, New York, NY.
+Peter Hellekalek, Inversive pseudorandom number generators: concepts, results and links, Proceedings of the 27th conference on Winter simulation, p.255-262, December 03-06, 1995, Arlington, Virginia, USA[doi>10.1145/224401.224612]
+HELLEKALEK, P. 1998a. On correlation analysis of pseudorandom numbers. In Lecture Notes in Statistics. Springer-Verlag, New York, NY, 251-265.
+HELLEKALEK, P. 1998b. On the assessment of random and quasi-random point sets. In Random and Quasi-Random Point Sets. P. Hellekalek and G. Larcher, Eds. Lecture Notes in Statistics. Springer-Verlag, New York, NY.
+HELLEKALEK, P., ENTACHER, K., LEEB, H., LENDL, O., AND WEGENKITTL, S. 1995. The pLab www-server. Available at: http://random.mat.sbg.ac.at+. Also accessible via ftp. University of Salzburg, Austria.
+Donald Ervin Knuth, The  Art of Computer Programming, 2nd Ed. (Addison-Wesley Series in Computer Science and Information, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1978
+Averill M. Law , W. David Kelton, Simulation Modeling and Analysis, McGraw-Hill Higher Education, 1997
+L'ECUYER, P. 1997. Bad lattice structures for vectors of non-successive values produced by some linear recurrences. INFORMS J. Comput. 9, 57-60.
+L'ECUYER, P. 1998. Random number generation. In Handbook of Simulation, J. Banks, Ed. John Wiley & Sons, Inc., New York, NY.
+Pierre L'Ecuyer, Tables of linear congruential generators of different sizes and good lattice structure, Mathematics of Computation, v.68 n.225, p.249-260, Jan. 1999[doi>10.1090/S0025-5718-99-00996-5]
+Pierre L'Ecuyer , Terry H. Andres, A random number generator based on the combination of four LCGs, Mathematics and Computers in Simulation, v.44 n.1, p.99-107, May 1997[doi>10.1016/S0378-4754(97)00052-9]
+L'ECUYER, P. AND COUTURE, R. 1997. An implementation of the lattice and spectral tests for multiple recursive linear random number generators. INFORMS J. Comput. 9, 2, 206-217.
+Michael Mascagni, Parallel linear congruential generators with prime moduli, Parallel Computing, v.24 n.5-6, p.923-936, June 1998[doi>10.1016/S0167-8191(98)00010-6]
+MASUDA, N. AND ZIMMERMANN, F. 1996. PRNGlib: A parallel random number generator library. Tech. Rep. http://www.cscs.ch/Official/Publications.html.
+Harald Niederreiter, Random number generation and quasi-Monte Carlo methods, Society for Industrial and Applied Mathematics, Philadelphia, PA, 1992
+NIEDERREITER, H. 1995. New developments in uniform pseudorandom number and vector generation. In Monte Carlo and Quasi Monte Carlo Methods in Scientific Computing, H. Niederreiter and P. J.-S. Shiue, Eds. Springer-Verlag, New York, NY.
+Ora E. Percus , Malvin H. Kalos, Random number generators for MIMD parallel processors, Journal of Parallel and Distributed Computing, v.6 n.3, p.477-497, June 1989[doi>10.1016/0743-7315(89)90002-6]
+RIPLEY, B. 1983. The lattice structure of pseudo-random number generators. Phil. Trans. Roy. Soc. London Ser. A 389, 197-204.

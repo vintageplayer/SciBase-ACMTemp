@@ -1,0 +1,34 @@
+BRILLHART, J., LEHMER, D. H., SELFRIDGE, J. L., TUCKERMAN, B., AND WAGSTAFF, S. S., JR. 1988. Factorizations of bn _ 1. 2nd ed., Vol. 22, Contemporary Mathematics. AMS, Providence, R.I.
+The hierarchy of correlations in random binary sequences. J. Stat. Phys. 63, 883-896.
+COUTURE, R., L'ECUYER, P., AND TEZUKA, S. 1993. On the distribution of k-dimensional vectors for simple and combined Tausworthe sequences. Math. Comput. 60, 749-761.
+FERRENBERG, A. M., LANDAU, D. P., AND WONG, Y.J. 1992. Monte Carlo simulations: hidden errors from "good" random number generators. Phys. Rev. Lett. 69, 3382-3384.
+FREDRICSSON, S.A. 1975. Pseudo-randomness properties of binary shift register sequences. IEEE Trans. Inf. Theor. 21, 115-120.
+M. Fushimi, Random number generation with the recursionXt=Xt-3p⊕Xt-3q, Journal of Computational and Applied Mathematics, v.31 n.1, p.105-118, July 1990[doi>10.1016/0377-0427(90)90341-V]
+M. Fushimi , S. Tezuka, Thek-distribution of generalized feedback shift register pseudorandom numbers, Communications of the ACM, v.26 n.7, p.516-523, July 1983[doi>10.1145/358150.358159]
+P. Hellekalek, Good random number generators are (not so) easy to find, Selected papers from the 2nd IMACS symposium on Mathematical modelling---2nd MATHMOD, p.485-505, June 1998, Vienna, Austria
+HELLEKALEK, P., AUER, T., ENTACHER, K., LEEB, H., LENDL, O., AND WEGENKITTL, S. The PLAB www-server, http://random.mat.sbg.ac.at. Also accessible via ftp.
+HERINGA, J. R., BLOTE, H. W. J., AND COMPAGNER, A. 1992. New primitive trinomials of Mersenne-exponent degrees for random-number generation. Int. J. Modern Phys. C3, 561-564.
+KNUTH, D. E. 1981. Seminumerical Algorithms. 2nd ed., Vol. 2, The Art of Computer Programming. Addison Wesley, Reading, MA.
+KNUTH, D.E. 1996. Private communication. Keio Univ., Nov. 1996; Jan. 7th 1997.
+Donald E. Knuth, The art of computer programming, volume 2 (3rd ed.): seminumerical algorithms, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1997
+L'ECUYER, P. 1994. Uniform random number generation. Ann. Oper. Res. 53, 77-120.
+Pierre L'Ecuyer, Maximally equidistributed combined Tausworthe generators, Mathematics of Computation, v.65 n.213, p.203-213, Jan. 1996[doi>10.1090/S0025-5718-96-00696-5]
+LENSTRA, A.K. 1985. Factoring multivariate polynomials over finite fields. J. Comput. Syst. Sci. 30, 235-248.
+LENSTRA, A. K., LENSTRA, H. W., JR., AND Lovhsz, L. 1982. Factoring polynomials with rational coefficients. Math. Ann. 261, 515-534.
+T. G. Lewis , W. H. Payne, Generalized Feedback Shift Register Pseudorandom Number Algorithm, Journal of the ACM (JACM), v.20 n.3, p.456-468, July 1973[doi>10.1145/321765.321777]
+LINDHOLM, J.H. 1968. An analysis of the pseudo-randomness properties of subsequences of long m-sequences. IEEE Trans. Inf. Theor. 14, 569-576.
+MARSAGLIA, a. 1985. A current view of random numbers. In Computer Science and Statistics, Proceedings of the Sixteenth Symposium on The Interface, North-Holland, Amsterdam, 3-10.
+MARSAGLIA, G. AND ZAMAN, A. 1991. A new class of random number generators. Ann. Appl. Probab. 1, 462-480.
+Makoto Matsumoto , Yoshiharu Kurita, Twisted GFSR generators, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.2 n.3, p.179-194, July 1992[doi>10.1145/146382.146383]
+Makoto Matsumoto , Yoshiharu Kurita, Twisted GFSR generators II, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.4 n.3, p.254-266, July 1994[doi>10.1145/189443.189445]
+Makoto Matsumoto , Yoshiharu Kurita, Strong deviations from randomness inm-sequences based on trinomials, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.6 n.2, p.99-106, April 1996[doi>10.1145/232807.232815]
+NIEDERREITER, H. 1993. Factorization of polynomials and some linear-algebra problems over finite fields. Linear Algebra Appl. 192, 301-328.
+H. Niederreiter, Regular Article: The Multiple-Recursive Matrix Method for Pseudorandom Number Generation, Finite Fields and Their Applications, v.1 n.1, p.3-30, January, 1995[doi>10.1006/ffta.1995.1002]
+Rainer A. Rueppel, Analysis and design of stream ciphers, Springer-Verlag New York, Inc., New York, NY, 1986
+Shu Tezuka, Lattice structure of pseudorandom sequences from shift-register generators, Proceedings of the 22nd conference on Winter simulation, p.266-269, December 09-12, 1990, New Orleans, Louisiana, USA
+Shu Tezuka, Thek-dimensional distribution of combined GFSR sequences, Mathematics of Computation, v.62 n.206, p.809-817, April 1994[doi>10.2307/2153541]
+TEZUKA, S. 1994b. A unified view of long-period random number generators. J. Oper. Res. Soc. Japan 37, 211-227.
+TEZUKA, S. 1995. Uniform Random Numbers: Theory and Practice. Kluwer.
+Shu Tezuka , Pierre L'Ecuyer, Efficient and portable combined Tausworthe random number generators, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.1 n.2, p.99-112, April 1991[doi>10.1145/116890.116892]
+Shu Tezuka , Pierre L'Ecuyer , Raymond Couture, On the lattice structure of the add-with-carry and subtract-with-borrow random number generators, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.3 n.4, p.315-331, Oct. 1993[doi>10.1145/159737.159749]
+J. P. R. Tootill , W. D. Robinson , D. J. Eagle, An Asymptotically Random Tausworthe Sequence, Journal of the ACM (JACM), v.20 n.3, p.469-481, July 1973[doi>10.1145/321765.321778]

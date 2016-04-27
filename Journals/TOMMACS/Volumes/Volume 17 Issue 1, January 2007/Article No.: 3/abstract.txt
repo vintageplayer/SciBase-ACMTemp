@@ -1,0 +1,1 @@
+Conversion of unsigned 32-bit random integers to double precision floating point is discussed. It is shown that the standard practice can be unnecessarily slow and inflexible. It is argued that simulation experiments could benefit from making better use of the available precision.

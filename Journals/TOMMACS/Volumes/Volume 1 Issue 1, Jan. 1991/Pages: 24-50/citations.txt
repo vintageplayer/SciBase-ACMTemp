@@ -1,0 +1,36 @@
+David Nicol, Analysis of composite synchronization, Proceedings of the sixteenth workshop on Parallel and distributed simulation, May 12-15, 2002, Washington, D.C.
+Thom McLean , Richard Fujimoto, Repeatability in real-time distributed simulation executions, Proceedings of the fourteenth workshop on Parallel and distributed simulation, p.23-32, May 28-31, 2000, Bologna, Italy
+David M. Nicol , Michael M. Johnson , Ann S. Yoshimura , Michael E. Goldsby, Performance modeling of the IDES framework, ACM SIGSIM Simulation Digest, v.27 n.1, p.38-45, July 1997
+Richard M. Fujimoto , Jya-Jang Tsai , Ganesh C. Gopalakrishnan, Design and Evaluation of the Rollback Chip: Special Purpose Hardware for Time Warp, IEEE Transactions on Computers, v.41 n.1, p.68-82, January 1992
+Albert G. Greenberg , S. Shenker , Alexander L. Stolyar, Asynchronous updates in large parallel systems, ACM SIGMETRICS Performance Evaluation Review, v.24 n.1, p.91-103, May 1996
+R. Rönngren , H. Rajaei , A. Popescu , M. Liljenstam , Y. Ismailov , R. Ayani, Parallel simulation of a high speed LAN, ACM SIGSIM Simulation Digest, v.24 n.1, p.132-138, July 1994
+Rassul Ayani , Hassan Rajaei, Parallel simulation using conservative time windows, Proceedings of the 24th conference on Winter simulation, p.709-717, December 13-16, 1992, Arlington, Virginia, United States
+David M. Nicol , Subhas Roy, Parallel simulation of timed Petri-nets, Proceedings of the 23rd conference on Winter simulation, p.574-583, December 08-11, 1991, Phoenix, Arizona, United States
+D. Nicol, Conservative Parallel Simulation of Priority Class Queuing Networks, IEEE Transactions on Parallel and Distributed Systems, v.3 n.3, p.294-303, May 1992
+Seng Chuan Tay , Yong Meng Teo , Rassul Ayani, Performance analysis of time warp simulation with cascading rollbacks, ACM SIGSIM Simulation Digest, v.28 n.1, p.30-37, July 1998
+Phillip M. Dickens , David M. Nicol , Paul F. Reynolds, Jr. , J. M. Duva, Analysis of bounded time warp and comparison with YAWNS, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.6 n.4, p.297-320, Oct. 1996
+R. Ayani , B. Berkman, Parallel Discrete Event Simulation on SIMD Computers, Journal of Parallel and Distributed Computing, v.18 n.4, p.501-508, Aug. 1993
+Mary L. Bailey , Shane Walker, Towards “on the fly” performance models for conservative asynchronous protocols, Proceedings of the 26th conference on Winter simulation, p.1431-1434, December 11-14, 1994, Orlando, Florida, United States
+Jinsheng Xu , Moon Jung Chung, Predicting the performance of synchronous discrete event simulation systems, Proceedings of the 2001 IEEE/ACM international conference on Computer-aided design, November 04-08, 2001, San Jose, California
+Christopher D. Carothers , Richard M. Fujimoto , Yi-Bing Lin, A case study in simulating PCS networks using Time Warp, ACM SIGSIM Simulation Digest, v.25 n.1, p.87-94, July 1995
+Jeff S. Steinman, Discrete-event simulation and the event horizon, ACM SIGSIM Simulation Digest, v.24 n.1, p.39-49, July 1994
+Mary L. Bailey , Michael A. Pagels , Kachung Kevin Wong, How using busses in multicomputer programs affects conservative parallel simulation, ACM SIGSIM Simulation Digest, v.23 n.1, p.93-100, July 1993
+Bernard P. Zeigler , James J. Nutaro , Chungman Seo, What's the best possible speedup achievable in distributed simulation: Amdahl's law reconstructed, Proceedings of the Symposium on Theory of Modeling & Simulation: DEVS Integrative M&S; Symposium, p.189-196, April 12-15, 2015, Alexandria, Virginia
+G. Korniss , M. A. Novotny , A. K. Kolakowska , H. Guclu, Statistical properties of the simulated time horizon in conservative parallel discrete-event simulations, Proceedings of the 2002 ACM symposium on Applied computing, March 11-14, 2002, Madrid, Spain
+Ulana Legedza , William E. Weihl, Reducing synchronization overhead in parallel simulation, ACM SIGSIM Simulation Digest, v.26 n.1, p.86-95, July 1996
+Sudhir Srinivasan , Paul F. Reynolds, Jr., NPSI adaptive synchronization algorithms for PDES, Proceedings of the 27th conference on Winter simulation, p.658-665, December 03-06, 1995, Arlington, Virginia, USA
+Ian F. Akyildiz , Liang Chen , Samir R. Das , Richard M. Fujimoto , Richard F. Serfozo, Performance analysis of “Time Warp” with limited memory, ACM SIGMETRICS Performance Evaluation Review, v.20 n.1, p.213-224, June 1992
+Christopher D. Carothers , David Bauer , Shawn Pearce, ROSS: a high-performance, low memory, modular time warp system, Proceedings of the fourteenth workshop on Parallel and distributed simulation, p.53-60, May 28-31, 2000, Bologna, Italy
+A. Gupta , I. F. Akyildiz , R. M. Fujimoto, Performance Analysis of Time Warp with Multiple Homogeneous Processors, IEEE Transactions on Software Engineering, v.17 n.10, p.1013-1027, October 1991
+Richard Fujimoto , David Nicol, State of the art in parallel simulation, Proceedings of the 24th conference on Winter simulation, p.246-254, December 13-16, 1992, Arlington, Virginia, United States
+Mary L. Bailey , Michael A. Pagels, Empirical measurements of overheads in conservative asynchronous simulations, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.4 n.4, p.350-367, Oct. 1994
+I.F. Akyildiz , L. Chen , S.R. Das , R.M. Fujimoto , R.F. Serfozo, The Effect of Memory Capacity on Time Warp Performance, Journal of Parallel and Distributed Computing, v.18 n.4, p.411-422, Aug. 1993
+David M. Nicol, The cost of conservative synchronization in parallel discrete event simulations, Journal of the ACM (JACM), v.40 n.2, p.304-333, April 1993
+Yuhao Zhu , Bo Wang , Yangdong Deng, Massively Parallel Logic Simulation with GPUs, ACM Transactions on Design Automation of Electronic Systems (TODAES), v.16 n.3, p.1-20, June 2011
+Robert E. Felderman , Leonard Kleinrock, Bounds and approximations for self-initiating distributed simulation without lookahead, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.1 n.4, p.386-406, Oct. 1991
+Jinsheng Xu , Moon Jung Chung, Predicting the Performance of Synchronous Discrete Event Simulation, IEEE Transactions on Parallel and Distributed Systems, v.15 n.12, p.1130-1137, December 2004
+Francesco Quaglia , Vittorio Cortellessa , Bruno Ciciani, Trade-Off between Sequential and Time Warp-Based Parallel Simulation, IEEE Transactions on Parallel and Distributed Systems, v.10 n.8, p.781-794, August 1999
+Hassan Rajaei , Rassul Ayani , Lars-Erik Thorelli, The local Time Warp approach to parallel simulation, ACM SIGSIM Simulation Digest, v.23 n.1, p.119-126, July 1993
+Steven K. Reinhardt , Mark D. Hill , James R. Larus , Alvin R. Lebeck , James C. Lewis , David A. Wood, The Wisconsin Wind Tunnel: virtual prototyping of parallel computers, ACM SIGMETRICS Performance Evaluation Review, v.21 n.1, p.48-60, June 1993
+Y.B. Lin, Special Issue on Parallel Discrete Event Simulation, Journal of Parallel and Distributed Computing, v.18 n.4, p.391-394, Aug. 1993
+Christopher D. Carothers , Richard M. Fujimoto, Efficient Execution of Time Warp Programs on Heterogeneous, NOW Platforms, IEEE Transactions on Parallel and Distributed Systems, v.11 n.3, p.299-317, March 2000

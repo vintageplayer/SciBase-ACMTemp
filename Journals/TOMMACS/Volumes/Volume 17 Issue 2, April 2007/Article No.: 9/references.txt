@@ -1,0 +1,60 @@
+Andradóttir, S., Heyman, D. P., and Ott, T. J. 1995. On the choice of alternative measures in importance sampling with Markov chains. Oper. Res. 43, 3, 509--519.
+Asmussen, S. 2002. Large deviations in rare events simulation: Examples, counterexamples, and alternatives. In Monte Carlo and Quasi-Monte Carlo Methods 2000, K.-T. Fang, F. J. Hickernell, and H. Niederreiter, Eds. Springer-Verlag, Berlin, 1--9.
+Booth, T. E. 1982. Automatic importance estimation in forward Monte Carlo calculations. Trans. Amer. Nuc. Soc. 41, 308--309.
+Booth, T. E. 1985. Monte Carlo variance comparison for expected-value versus sampled splitting. Nuc. Sci. Eng. 89, 305--309.
+Booth, T. E. and Hendricks, J. S. 1984. Importance estimation in forward Monte Carlo estimation. Nucl. Tech./Fusion 5, 90--100.
+Booth, T. E. and Pederson, S. P. 1992. Unbiased combinations of nonanalog Monte Carlo techniques and fair games. Nucl. Sci. Eng. 110, 254--261.
+James Bucklew, Introduction to Rare Event Simulation, Springer Publishing Company, Incorporated, 2010
+Cancela, H., Rubino, G., and Tuffin, B. 2002. MTTF estimation by Monte Carlo methods using Markov models. Monte Carlo Meth. Appl. 8, 4, 312--341.
+Hector Cancela , Gerardo Rubino , Bruno Tuffin, New measures of robustness in rare event simulation, Proceedings of the 37th conference on Winter simulation, December 04-07, 2005, Orlando, Florida
+Cérou, F. and Guyader, A. 2005. Adaptive multilevel splitting for rare event analysis. Tech. Rep. 5710, INRIA. Oct.
+Frédéric Cérou , François LeGland , Pierre Del Moral , Pascal Lezaud, Limit theorems for the multilevel splitting algorithm in the simulation of rare events, Proceedings of the 37th conference on Winter simulation, December 04-07, 2005, Orlando, Florida
+Cheng-Shang Chang , Philip Heidelberger , Sandeep Juneja , Perwez Shahabuddin, Effective bandwidth and fast simulation of ATM intree networks, Performance Evaluation, v.20 n.1-3, p.45-65, May 1994[doi>10.1016/0166-5316(94)90005-1]
+Del Moral, P. 2004. Feynman-Kac Formulae. Genealogical and Interacting Particle Systems with Applications. Probability and its Applications. Springer, New York.
+Ermakov, S. M. and Melas, V. B. 1995. Design and Analysis of Simulation Experiments. Kluwer Academic, Dordrecht, The Netherlands.
+Fox, B. L. 1999. Strategies for Quasi-Monte Carlo. Kluwer Academic, Boston, MA.
+Garvels, M. J. J. 2000. The splitting method in rare event simulation. Ph.D. thesis, Faculty of mathematical Science, University of Twente, The Netherlands.
+Marnix J. J. Garvels , Dirk P. Kroese, A comparison of RESTART implementations, Proceedings of the 30th conference on Winter simulation, p.601-608, December 13-16, 1998, Washington, D.C., USA
+Garvels, M. J. J., Kroese, D. P., and Van Ommeren, J.-K. C. W. 2002. On the importance function in splitting simulation. Euro. Trans. Telecomm. 13, 4, 363--371.
+Glasserman, P., Heidelberger, P., Shahabuddin, P., and Zajic, T. 1998. A large deviations perspective on the efficiency of multilevel splitting. IEEE Trans. Auto. Cont. AC-43, 12, 1666--1679.
+Paul Glasserman , Philip Heidelberger , Perwez Shahabuddin , Tim Zajic, Multilevel Splitting for Estimating Rare Event Probabilities, Operations Research, v.47 n.4, p.585-600, April 1999[doi>10.1287/opre.47.4.585]
+Glynn, P. W. 1994. Efficiency improvement techniques. Annals Oper. Res. 53, 175--197.
+P W. Glynn , D. L. Iglehart, Importance sampling for stochastic simulations, Management Science, v.35 n.11, p.1367-1392, Nov. 1989[doi>10.1287/mnsc.35.11.1367]
+Ambuj Goyal , Perwez Shahabuddin , Philip Heidelberger , Victor F. Nicola , Peter W. Glynn, A Unified Framework for Simulating Markovian Models of Highly Dependable Systems, IEEE Transactions on Computers, v.41 n.1, p.36-51, January 1992[doi>10.1109/12.123381]
+Hammersley, J. M. and Handscomb, D. C. 1964. Monte Carlo Methods. Methuen, London.
+Harris, T. 1963. The Theory of Branching Processes. Springer-Verlag, New York.
+Philip Heidelberger, Fast simulation of rare events in queueing and reliability models, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.5 n.1, p.43-85, Jan. 1995[doi>10.1145/203091.203094]
+Philip Heidelberger , Perwez Shahabuddin , Victor F. Nicola, Bounded relative error in estimating transient measures of highly dependable non-Markovian systems, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.4 n.2, p.137-164, April 1994[doi>10.1145/175007.175008]
+Hickernell, F. J. 2002. Obtaining o(n<sup>−2&plus;&epsi;</sup>) convergence for lattice quadrature rules. In Monte Carlo and Quasi-Monte Carlo Methods 2000, K.-T. Fang, F. J. Hickernell, and H. Niederreiter, Eds. Springer-Verlag, Berlin, 274--289.
+Sandeep Juneja , Perwez Shahabuddin, Fast Simulation of Markov Chains with Small Transition Probabilities, Management Science, v.47 n.4, p.547-562, April 2001[doi>10.1287/mnsc.47.4.547.9827]
+Kahn, H. and Harris, T. E. 1951. Estimation of particle transmission by random sampling. National Bureau of Standards Applied Mathematical Series 12, 27--30.
+Keilson, J. 1979. Markov Chain Models---Rarity and Exponentiality. Springer-Verlag, New York.
+Lécot, C. and Tuffin, B. 2004. Quasi-Monte Carlo methods for estimating transient measures of discrete time Markov chains. In Monte Carlo and Quasi-Monte Carlo Methods 2002, H. Niederreiter, Ed. Springer-Verlag, Berlin, 329--343.
+L'Ecuyer, P., Lécot, C., and Tuffin, B. 2005. A randomized quasi-Monte Carlo simulation method for Markov chains. INRIA Res. Rep. 5545 (April), Operations Research, to appear.
+L'Ecuyer, P., Lécot, C., and Tuffin, B. 2006. Randomized quasi-Monte Carlo simulation of Markov chains with an ordered state space. In Monte Carlo and Quasi-Monte Carlo Methods 2004, H. Niederreiter and D. Talay, Eds. 331--342.
+Pierre L'Ecuyer , Christiane Lemieux, Variance Reduction via Lattice Rules, Management Science, v.46 n.9, p.1214-1235, September 2000[doi>10.1287/mnsc.46.9.1214.12231]
+L'Ecuyer, P. and Lemieux, C. 2002. Recent advances in randomized quasi-Monte Carlo methods. In Modeling Uncertainty: An Examination of Stochastic Theory, Methods, and Applications, M. Dror, P. L'Ecuyer, and F. Szidarovszky, Eds. Kluwer Academic, Boston, 419--474.
+Pierre L'Ecuyer , Bruno Tuffin, Splitting with weight windows to control the likelihood ratio in importance sampling, Proceedings of the 1st international conference on Performance evaluation methodolgies and tools, October 11-13, 2006, Pisa, Italy[doi>10.1145/1190095.1190121]
+Viatcheslav B. Melas, On the efficiency of the splitting and roulette approach for sensitivity analysis, Proceedings of the 29th conference on Winter simulation, p.269-274, December 07-10, 1997, Atlanta, Georgia, USA[doi>10.1145/268437.268490]
+Nakayama, M. K. 1996. General conditions for bounded relative error in simulations of highly reliable Markovian systems. Advances in Applied Probability 28, 687--727.
+Marvin K. Nakayama , Perwez Shahabuddin, Likelihood Ratio Derivative Estimation for Finite-Time Performance Measures in Generalized Semi-Markov Processes, Management Science, v.44 n.10, p.1426-1441, October 1998[doi>10.1287/mnsc.44.10.1426]
+Nicola, V. F., Shahabuddin, P., and Heidelberger, P. 1993. Techniques for fast simulation of highly dependable systems. In Proceedings of the 2nd International Workshop on Performability Modelling of Computer and Communication Systems.
+Harald Niederreiter, Random number generation and quasi-Monte Carlo methods, Society for Industrial and Applied Mathematics, Philadelphia, PA, 1992
+Art B. Owen, Latin supercube sampling for very high-dimensional simulations, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.8 n.1, p.71-102, Jan. 1998[doi>10.1145/272991.273010]
+Art B. Owen, Variance with alternative scramblings of digital nets, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.13 n.4, p.363-378, October 2003[doi>10.1145/945511.945518]
+Papadopoulos, C. 1998. A new technique for MTTF estimation in highly reliable Markovian systems. Monte Carlo Methods and Applications 4, 2, 95--112.
+Parekh, S. and Walrand, J. 1989. A quick simulation method for excessive backlogs in networks of queues. IEEE Trans. Auto. Cont. AC-34, 54--56.
+Perwez Shahabuddin, Fast transient simulation of Markovian models of highly dependable systems, Performance Evaluation, v.20 n.1-3, p.267-286, May 1994[doi>10.1016/0166-5316(94)90017-5]
+Perwez Shahabuddin, Importance sampling for the simulation of highly reliable Markovian systems, Management Science, v.40 n.3, p.333-352, March 1994[doi>10.1287/mnsc.40.3.333]
+Perwez Shahabuddin, Rare event simulation in stochastic models, Proceedings of the 27th conference on Winter simulation, p.178-185, December 03-06, 1995, Arlington, Virginia, USA[doi>10.1145/224401.224460]
+Perwez Shahabuddin , Victor F. Nicola , Philip Heidelberger , Ambuj Goyal , Peter W. Glynn, Variance reduction in mean time to failure simulations, Proceedings of the 20th conference on Winter simulation, p.491-499, December 12-14, 1988, San Diego, California, USA[doi>10.1145/318123.318239]
+Taylor, H. M. and Karlin, S. 1998. An Introduction to Stochastic Modeling, third ed. Academic Press, San Diego.
+Tuffin, B. 1999. Bounded normal approximation in simulations of highly reliable Markovian systems. J. Appl. Probab. 36, 4, 974--986.
+Bruno Tuffin, On Numerical Problems in Simulations of Highly Reliable Markovian Systems, Proceedings of the The Quantitative Evaluation of Systems, First International Conference, p.156-164, September 27-30, 2004[doi>10.1109/QEST.2004.25]
+Vasicek, O. 1977. An equilibrium characterization of the term structure. J. Financ. Econ. 5, 177--188.
+Villén-Altamirano, J. 2006. Rare event RESTART simulation of two-stage networks. Europ. J. Oper. Res. to appear.
+Villén-Altamirano, M., Martinez-Marrón, A., Gamo, J., and Fernández-Cuesta, F. 1994. Enhancement of the accelerated simulation method restart by considering multiple thresholds. In Proceedings of the 14th International Teletraffic Congress. Elsevier Science, 797--810.
+Manuel Villén-Altamirano , José Villén-Altamirano, Restart: a straightforward method for fast simulation of rare events, Proceedings of the 26th conference on Winter simulation, p.282-289, December 11-14, 1994, Orlando, Florida, USA
+Villén-Altamirano, M. and Villén-Altamirano, J. 2002. Analysis of RESTART simulation: Theoretical basis and sensitivity study. Europ Trans. Telecomm. 13, 4, 373--386.
+Manuel Villén-Altamirano , José Villén-Altamirano, On the efficiency of RESTART for multidimensional state systems, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.16 n.3, p.251-279, July 2006[doi>10.1145/1147224.1147227]
+Wilson, J. R. 1983. Antithetic sampling with multivariate inputs. Amer. J. Math. Manage. Sci. 3, 121--144.

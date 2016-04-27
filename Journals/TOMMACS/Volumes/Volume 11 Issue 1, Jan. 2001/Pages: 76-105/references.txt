@@ -1,0 +1,38 @@
+BECK, B., DABROWSKI, A. R., AND MCDONALD, D. R. 1999. A unified approach to fast teller queues and ATM. J. Appl. Prob. 31, 758-787.
+BERAN, J., SHERMAN, R., TAQQU, M. S., AND WILLINGER, W. 1995. Long-range dependence in variable-bit-rate video traffic. IEEE Trans. Commun. 43, 1566-1579.
+BONNEAU, M. -C. 1996. Accelerated simulation of a leaky bucket controller. Master's Thesis. University of Ottawa, Ottawa, Canada.
+Paul Bratley , Bennett L. Fox , Linus E. Schrage, A guide to simulation (2nd ed.), Springer-Verlag New York, Inc., New York, NY, 1987
+CHAMPOUX, Y. 1998. Estimation du taux de perte de r~seaux ATM via la simulation et le changement de mesure. Master's Thesis. Department d'IRO, Univ. de Montreal, Monreal, Canada.
+CHANG, C. -S. 1995. Sample path large deviations and intree networks. Que. Syst. 20, 7-36.
+Cheng-Shang Chang , Philip Heidelberger , Sandeep Juneja , Perwez Shahabuddin, Effective bandwidth and fast simulation of ATM intree networks, Performance Evaluation, v.20 n.1-3, p.45-65, May 1994[doi>10.1016/0166-5316(94)90005-1]
+Cheng-Shang Chang , Philip Heidelberger , Perwez Shahabuddin, Fast simulation of packet loss rates in a shared buffer communications switch, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.5 n.4, p.306-325, Oct. 1995[doi>10.1145/226275.226277]
+COURCOUBETIS, C. AND WEBER, R. 1996. Buffer overflow asymptotics for a buffer handling many traffic sources. J. Appl. Prob. 33, 3, 886-903.
+DABROWSKI, A. R., LAMOTHE, G., AND MCDONALD, D. R. 1999. Accelerated simulation of ATM switching fabrics. In Proceedings of the Fields Institute Workshop on Monte Carlo Methods. AMS Press, Inc., New York, NY, 193-206.
+DE VECIANA, G., COURCOUBETIS, C., AND WALRAND, J. 1994. Decoupling bandwidths for networks: A decomposition approach to resource management. In Proceedings of the IEEE Conference on Computer Communication (INFOCOM, Toronto, Ont.). IEEE Computer Society Press, Los Alamitos, CA, 466-473.
+Matthias Falkner , Michael Devetsikiotis , Ioannis Lambadaris, Fast simulation of networks of queues with effective and decoupling bandwidths, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.9 n.1, p.45-58, Jan. 1999[doi>10.1145/301677.301684]
+FISHMAN, G. S. 1996. Monte Carlo: Concepts, Algorithms, and Applications. Springer-Verlag, New York, NY.
+Natalie Giroux , Sudhakar Ganti, Quality of Service in ATM Networks: State-of-the-Art Traffic Management, Prentice-Hall, Inc., Upper Saddle River, NJ, 1998
+Paul Glasserman , Philip Heidelberger , Perwez Shahabuddin , Tim Zajic, Multilevel Splitting for Estimating Rare Event Probabilities, Operations Research, v.47 n.4, p.585-600, April 1999[doi>10.1287/opre.47.4.585]
+GLYNN, P. W. 1994. Efficiency improvement techniques. Ann. Oper. Res. 53, 175-197.
+P W. Glynn , D. L. Iglehart, Importance sampling for stochastic simulations, Management Science, v.35 n.11, p.1367-1392, Nov. 1989[doi>10.1287/mnsc.35.11.1367]
+HEEGAARD, P. E. 1998. Efficient simulation of network performance by importance sampling. Ph.D. Dissertation. Norwegian University of Science and Technology.
+Philip Heidelberger, Fast simulation of rare events in queueing and reliability models, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.5 n.1, p.43-85, Jan. 1995[doi>10.1145/203091.203094]
+Daniel P. Heyman , T. V. Lakshman, What are the implications of long-range dependence for VBR-video traffic engineering?, IEEE/ACM Transactions on Networking (TON), v.4 n.3, p.301-317, June 1996[doi>10.1109/90.502230]
+M. M. Krunz , A. M. Makowski, Modeling video traffic using M/G/∞ input processes: a compromise between Markovian and LRD models, IEEE Journal on Selected Areas in Communications, v.16 n.5, p.733-748, September 2006[doi>10.1109/49.700909]
+Averill M. Law , W. David Kelton, Simulation Modeling and Analysis, McGraw-Hill Higher Education, 1997
+Pierre L'Ecuyer, Two approaches for estimating the gradient in functional form, Proceedings of the 25th conference on Winter simulation, p.338-346, December 12-15, 1993, Los Angeles, California, USA[doi>10.1145/256563.256663]
+Pierre L'Ecuyer, Efficiency improvement and variance reduction, Proceedings of the 26th conference on Winter simulation, p.122-132, December 11-14, 1994, Orlando, Florida, USA
+Pierre L'Ecuyer , Yanick Champoux, Importance sampling for large ATM-type queueing networks, Proceedings of the 28th conference on Winter simulation, p.309-316, December 08-11, 1996, Coronado, California, USA[doi>10.1145/256562.256637]
+Yu-Chi (Larry) Ho, Functional Estimation  with Respect to a Threshold Parametervia Dynamic Split-and-Merge, Discrete Event Dynamic Systems, v.7 n.1, p.69-92, January 1997[doi>10.1023/A:1017130425417]
+Will E. Leland , Murad S. Taqqu , Walter Willinger , Daniel V. Wilson, On the self-similar nature of Ethernet traffic (extended version), IEEE/ACM Transactions on Networking (TON), v.2 n.1, p.1-15, Feb. 1994[doi>10.1109/90.282603]
+Timothy D. Neame , Moshe Zukerman , Ronald G. Addie, Application of the M/Pareto Process to Modeling Broadband Traffic Streams, Proceedings of the 7th IEEE International Conference on Networks, p.53, September 28-October 01, 1999
+NICOLA, V. F., SHAHABUDDIN, P., HEIDELBERGER, P., AND GLYNN, P. W. 1993. Fast simulation of steady-state availability in non-Markovian highly dependable systems. In Proceedings of the 23rd IEEE International Symposium on Fault-Tolerant Computing (Toulouse, France, June). IEEE Computer Society Press, Los Alamitos, CA, 38-47.
+PAREKH, S. AND WALRAND, J. 1989. A quick simulation method for excessive backlogs in networks of queues. IEEE Trans. Automat. Contr. AC-34, 1, 54-66.
+RUBINSTEIN, R. Y. AND SHAPIRO, A. 1993. Discrete Event Systems: Sensitivity Analysis and Stochastic Optimization by the Score Function Method. John Wiley and Sons, Inc., New York, NY.
+SADOWSKY, J. S. 1991. Large deviations and efficient simulation of excessive backlogs in a GI/G/m queue. IEEE Trans. Automat. Contr. 36, 1383-1394.
+SADOWSKY, J. S. 1993. On the optimality and stability of exponential twisting in Monte Carlo estimation. IEEE Trans. Inf. Theor. 39, 1 (Jan.), 119-128.
+SADOWSKY, J. S. 1996. On Monte Carlo estimation of large deviation probabilities. Ann. Appl. Probab. 6, 2, 399-402.
+Perwez Shahabuddin, Importance sampling for the simulation of highly reliable Markovian systems, Management Science, v.40 n.3, p.333-352, March 1994[doi>10.1287/mnsc.40.3.333]
+SHWARTZ, A. AND WEISS, A. 1995. Large Deviations for Performance Analysis. Chapman and Hall, Ltd., London, UK.
+Rayadurgam Srikant , Ward Whitt, Variance Reduction in Simulations of Loss Models, Operations Research, v.47 n.4, p.509-523, April 1999[doi>10.1287/opre.47.4.509]
+Walter Willinger , Murad S. Taqqu , Robert Sherman , Daniel V. Wilson, Self-similarity through high-variability: statistical analysis of ethernet LAN traffic at the source level, ACM SIGCOMM Computer Communication Review, v.25 n.4, p.100-113, Oct. 1995[doi>10.1145/217391.217418]

@@ -1,0 +1,30 @@
+BALL, D. AND HOYT, S. 1990. The adaptive time-warp concurrency control algorithm. In Proceedings of the SCS MultiConference on Distributed Simulation (San Diego, CA, Jan 17-19), 174-177.
+CHANDY, K.M. AND MISRA, J. 1979. Distributed simulation: A case study in design and verification of distributed programs. IEEE Trans. Softw. Eng. 5, 5 (Sept.), 440-452.
+Samir R. Das , Richard M. Fujimoto, An adaptive memory management protocol for Time Warp parallel simulation, Proceedings of the 1994 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.201-210, May 16-20, 1994, Nashville, Tennessee, USA[doi>10.1145/183018.183041]
+DICKENS, P. M. AND REYNOLDS, P. F., JR. 1990. SRADS with local rollback. In Proceedings of the SCS Multiconference on Distributed Simulation (San Diego, CA, Jan. 17-19), Vol. 22, 161-164.
+Alois Ferscha, Probabilistic adaptive direct optimism control in Time Warp, Proceedings of the ninth workshop on Parallel and distributed simulation, p.120-129, June 13-16, 1995, Lake Placid, New York, USA[doi>10.1145/214282.214320]
+FERSCHA, A. AND CHIOLA, G. 1994. Self adaptive logical processes: The probabilistic distributed simulation protocol. In Proceedings of the 27th Annual Simulation Symposium (La Jolla, CA, Apr. 11-15), IEEE Computer Society Press, Los Alamitos, CA, 78-88.
+A. Ferscha , J. Luthi, Estimating rollback overhead for optimism control in Time Warp, Proceedings of the 28th Annual Simulation Symposium, p.2, April 25-28, 1995
+Richard M. Fujimoto, Parallel discrete event simulation, Communications of the ACM, v.33 n.10, p.30-53, Oct. 1990[doi>10.1145/84537.84545]
+R. L. Gimarco, Distributed simulation using hierarchical rollback, Proceedings of the 21st conference on Winter simulation, p.621-629, December 04-06, 1989, Washington, D.C., USA[doi>10.1145/76738.76818]
+Donald O. Hamnes , Anand Tripathi, Investigations in adaptive distributed simulation, Proceedings of the eighth workshop on Parallel and distributed simulation, p.20-23, July 06-08, 1994, Edinburgh, Scotland, United Kingdom[doi>10.1145/182478.182481]
+Raj Jain , Imrich Chlamtac, The P2algorithm for dynamic calculation of quantiles and histograms without storing observations, Communications of the ACM, v.28 n.10, p.1076-1085, Oct. 1985[doi>10.1145/4372.4378]
+D. Jefferson , B. Beckman , F. Wieland , L. Blume , M. Diloreto, Time warp operating system, ACM SIGOPS Operating Systems Review, v.21 n.5, p.77-93, Nov. 1987[doi>10.1145/37499.37508]
+David R. Jefferson, Virtual time, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.3, p.404-425, July 1985[doi>10.1145/3916.3988]
+Felipe Knop , Vernon J. Rego, Software architectures for fault-tolerant replications and multithreaded decompositions: experiments with practical parallel simulation, Purdue University, West Lafayette, IN, 1996
+Averill M. Law , W. David Kelton, Simulation Modeling and Analysis, McGraw-Hill Higher Education, 1997
+B. Lubachevsky , A. Shwartz , A. Weiss, Rollback sometimes works...if filtered, Proceedings of the 21st conference on Winter simulation, p.630-639, December 04-06, 1989, Washington, D.C., USA[doi>10.1145/76738.76819]
+Vijay Madisetti , Jean Walrand , David Messerschmitt, Wolf: a rollback algorithm for optimistic distributed simulation systems, Proceedings of the 20th conference on Winter simulation, p.296-305, December 12-14, 1988, San Diego, California, USA[doi>10.1145/318123.318205]
+MADISETTI, V. K., HARDAKER, D. A., AND FUJIMOTO, R. 1992. The MIMDIX operating system for parallel simulation. In Proceedings of the Sixth Workshop on Parallel and Distributed Simulation (Newport Beach, CA, Jan. 20-22), Vol. 24, 65-74.
+Edward Mascarenhas , Vernon Rego, A system for multithreaded parallel simulation and computation with migrant threads and objects, Purdue University, West Lafayette, IN, 1996
+MASCARENHAS, E. AND REGO, V. 1996. Ariadne: Architecture of a portable threads system supporting thread migration. Softw. Pract. Exper. 26, 3 (March), 327-356.
+PRAKASH, A. AND SUBRAMANIAN, R. 1991. An efficient optimistic distributed simulation scheme based on conditional knowledge. In Proceedings of the 24th Annual Simulation Symposium (New Orleans, LA., Apr.), 85-94.
+P. L. Reiher , F. Wieland , D. Jefferson, Limitation of optimism in the time warp operating system, Proceedings of the 21st conference on Winter simulation, p.765-770, December 04-06, 1989, Washington, D.C., USA[doi>10.1145/76738.76834]
+L. E. Scales, Introduction to non-linear optimization, Springer-Verlag New York, Inc., New York, NY, 1985
+Herb Schwetman, CSIM: a C-based process-oriented simulation language, Proceedings of the 18th conference on Winter simulation, p.387-396, December 08-10, 1986, Washington, D.C., USA[doi>10.1145/318242.318464]
+SOKOL, L. M., BRISCOE, D. P., AND WIELAND, A.P. 1988. MTW: A strategy for scheduling discrete simulation events for concurrent execution. In Proceedings of the SCS Multiconference on Distributed Simulation, Vol. 19 (July), 34-42.
+Sudhir Srinivasan , Paul F. Reynolds, Jr., NPSI adaptive synchronization algorithms for PDES, Proceedings of the 27th conference on Winter simulation, p.658-665, December 03-06, 1995, Arlington, Virginia, USA[doi>10.1145/224401.224705]
+STEINMAN, J.S. 1992. SPEEDES: A unified approach to parallel simulation. In Proceedings of the Sixth Workshop on Parallel and Distributed Simulation (San Diego, CA, Jan. 17-19), 75-84.
+Jeff S. Steinman, Breathing Time Warp, Proceedings of the seventh workshop on Parallel and distributed simulation, p.109-118, May 16-19, 1993, San Diego, California, USA[doi>10.1145/158459.158473]
+V. S. Sunderam, PVM: a framework for parallel distributed computing, Concurrency: Practice and Experience, v.2 n.4, p.315-339, Dec. 1990[doi>10.1002/cpe.4330020404]
+TURNER, S.J. AND XU, M.Q. 1992. Performance evaluation of the bounded time warp algorithm. In Proceedings of the Sixth Workshop on Parallel and Distributed Simulation (Newport Beach, CA, Jan. 20-22), Vol. 24, 117-126.
