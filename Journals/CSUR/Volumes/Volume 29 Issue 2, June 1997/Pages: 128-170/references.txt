@@ -1,0 +1,118 @@
+A. Agarwal, Analysis of cache performance for operating systems and multiprogramming, Stanford University, Stanford, CA, 1987
+Anant Agarwal , Minor Huffman, Blocking: exploiting spatial locality for trace compaction, Proceedings of the 1990 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.48-57, April 1990, Univ. of Colorado, Boulder, Colorado, USA[doi>10.1145/98457.98503]
+Anant Agarwal , John Hennessy , Mark Horowitz, Cache performance of operating system and multiprogramming workloads, ACM Transactions on Computer Systems (TOCS), v.6 n.4, p.393-431, Nov. 1988[doi>10.1145/48012.48037]
+A. Agarwal , J. Hennessy , M. Horowitz, An analytical cache model, ACM Transactions on Computer Systems (TOCS), v.7 n.2, p.184-215, May 1989[doi>10.1145/63404.63407]
+A. Agarwal , R. L. Sites , M. Horowitz, ATUM: a new technique for capturing address traces using microcode, Proceedings of the 13th annual international symposium on Computer architecture, p.119-127, June 02-05, 1986, Tokyo, Japan
+Cedell A. Alexander , William M. Keshlear , Faye Briggs, Translation buffer performance in a UNIX enviroment, ACM SIGARCH Computer Architecture News, v.13 n.5, p.2-14, Dec 1 1985[doi>10.1145/381757.381758]
+Cedell Alexander , William Keshlear , Furrokh Cooper , Faye Briggs, Cache memory performance in a unix enviroment, ACM SIGARCH Computer Architecture News, v.14 n.3, p.41-61, June 1 1986[doi>10.1145/381711.381717]
+AMD 1991. Am29050 Microprocessor User's Manual. Advanced Micro Devices, Inc., Sunnyvale, CA.
+AMD 1993. Am486 DX/DX2 Microprocessor Hardware Reference Manual. Advanced Micro Devices, Inc., Sunnyvale, CA.
+BAKER, M. 1995. Cluster computing review. Northeast Parallel Architectures Center (NPAC) Techn. Rep. SCCS-748, Nov.
+Jeffrey C. Becker , Arvin Park, An analysis of the information content of address and data reference streams, Proceedings of the 1993 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.262-263, May 10-14, 1993, Santa Clara, California, USA[doi>10.1145/166955.167028]
+Robert Caldwell Bedichek, The Meerkat multicomputer: tradeoffs in multicomputer architecture, University of Washington, Seattle, WA, 1995
+Robert C. Bedichek, Talisman: fast and accurate multicomputer simulation, Proceedings of the 1995 ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems, p.14-24, May 15-19, 1995, Ottawa, Ontario, Canada[doi>10.1145/223587.223589]
+BIOMATION 1991. Biomation CLAS 4000 application note 4032. Biomation, Cupertino, CA.
+BORG, A., KESSLER, R., LAZANA, G., AND WALL, D. 1989. Long address traces from RISC machines: Generation and analysis. DEC Western Research Lab Tech. Rep. 89/14.
+Anita Borg , R. E. Kessler , David W. Wall, Generation and analysis of very long address traces, Proceedings of the 17th annual international symposium on Computer Architecture, p.270-279, May 28-31, 1990, Seattle, Washington, USA[doi>10.1145/325164.325153]
+CHEN, B. 1993. Software methods for system address tracing. In Proceedings of the Fourth Workshop on Workstation Operating Systems (Napa, CA).
+CHEN, B. 1994. Memory behavior of an Xll window system. In Proceedings of the USE- NIX Winter 1994 Technical Conference.
+J. Bradley Chen , Brian N. Bershad, The impact of operating system structure on memory system performance, Proceedings of the fourteenth ACM symposium on Operating systems principles, p.120-133, December 05-08, 1993, Asheville, North Carolina, USA[doi>10.1145/168619.168629]
+D. W. Clark , P. J. Bannon , J. B. Keller, Measuring VAX 8800 performance with a histogram hardware monitor, Proceedings of the 15th Annual International Symposium on Computer architecture, p.176-185, May 30-June 02, 1988, Honolulu, Hawaii, USA
+CMELIK, R. AND KEPPEL, D. 1993. Shade: A fast instruction-set simulator for execution profiling. University of Washington Tech. Rep. UWCSE 93-06-06.
+Bob Cmelik , David Keppel, Shade: a fast instruction-set simulator for execution profiling, Proceedings of the 1994 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.128-137, May 16-20, 1994, Nashville, Tennessee, USA[doi>10.1145/183018.183032]
+R. C. Covington , S. Madala , V. Mehta , J. R. Jump , J. B. Sinclair, The rice parallel processing testbed, Proceedings of the 1988 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.4-11, May 24-27, 1988, Santa Fe, New Mexico, USA[doi>10.1145/55595.55596]
+Z. Cvetanovic , D. Bhandarkar, Characterization of alpha AXP performance using TP and SPEC workloads, Proceedings of the 21st annual international symposium on Computer architecture, p.60-70, April 18-21, 1994, Chicago, Illinois, USA[doi>10.1145/191995.192017]
+Peter Davies , Philippe Lacroute , John Heinlein , Mark Horowitz, Mable: A Technique for Efficient Machine Simulation, Stanford University, Stanford, CA, 1994
+DAVIS, H., GOLDSCHMIDT, S., AND HENNESSY, J. 1991. Multiprocessor simulation and tracing using Tango. In Proceedings of the 1991 International Conference on Parallel Processing, 99-107.
+DIGITAL 1986. VAX Architecture Handbook. Digital Equipment Corporation, Bedford, MA.
+DIGITAL 1992. Alpha Architecture Handbook. Digital Equipment Corporation, Bedford, MA.
+S. J. Eggers , David R. Keppel , Eric J. Koldinger , Henry M. Levy, Techniques for efficient inline tracing on a shared-memory multiprocessor, Proceedings of the 1990 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.37-47, April 1990, Univ. of Colorado, Boulder, Colorado, USA[doi>10.1145/98457.98501]
+Joel S. Emer , Douglas W. Clark, A Characterization of Processor Performance in the vax-11/780, Proceedings of the 11th annual international symposium on Computer architecture, p.301-310, January 1984[doi>10.1145/800015.808199]
+Alan Eustace , Amitabh Srivastava, ATOM: a flexible interface for building high performance program analysis tools, Proceedings of the USENIX 1995 Technical Conference Proceedings, p.25-25, January 16-20, 1995, New Orleans, Louisiana
+FLANAGAN, J. K., NELSON, B. E., ARCHIBALD, J. K., AND GRIMSRUD, K. 1992. BACH: BYU address collection hardware, the collection of complete traces. In Proceedings of the Sixth International Conference on Modelling Techniques and Tools for Computer Performance Evaluation, 128-137.
+FLANAGAN, g. K. 1994. Personal communication.
+FUENTES, C. 1993. Hardware support for operating systems. University of Michigan Unpublished report.
+Jeffrey D. Gee , Mark D. Hill , Dionisios N. Pnevmatikatos , Alan Jay Smith, Cache Performance of the SPEC92 Benchmark Suite, IEEE Micro, v.13 n.4, p.17-27, July 1993[doi>10.1109/40.229711]
+Stephen R. Goldschmidt , John L. Hennessy, The accuracy of trace-driven simulations of multiprocessors, Stanford University, Stanford, CA, 1992
+Stephen R. Goldschmidt , John L. Hennessy, The accuracy of trace-driven simulations of multiprocessors, Proceedings of the 1993 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.146-157, May 10-14, 1993, Santa Clara, California, USA[doi>10.1145/166955.167001]
+GRIMSRUD, K. 1993. Address translation of BACH i486 traces. Brigham Young University Tech. Rep.
+D. W. Hammerstrom , E. S. Davidson, Information content of CPU memory referencing behavior, Proceedings of the 4th annual symposium on Computer architecture, p.184-192, March 23-25, 1977[doi>10.1145/800255.810669]
+HAPPEL, L. P. AND JAYASUMANA, A. P. 1992. Performance of a RISC machine with twolevel caches. IEEE Proceedings-E 139, 3, 221- 229.
+John L. Hennessy , David A. Patterson, Computer architecture (2nd ed.): a quantitative approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1996
+HEWLETT-PACKARD 1990. PA-RISC 1.1 Architecture and Instruction Set Reference Manual. Hewlett-Packard, Inc.
+HEWLETT-PACKARD 1991. Test and Measurement Catalog. Marketing Communications, Santa Clara, CA.
+Mark Donald Hill , Alan Jay Smith, Aspects of cache memory and instruction buffer performance, University of California, Berkeley, 1987
+M. D. Hill , A. J. Smith, Evaluating Associativity in CPU Caches, IEEE Transactions on Computers, v.38 n.12, p.1612-1630, December 1989[doi>10.1109/12.40842]
+HODGES, J. L. AND LEHMANN, E.L. 1964. Basic Concepts of Probability and Statistics. Holden-Day, Inc., San Francisco, CA.
+HOLLIDAY, M. AND ELLIS, C. 1990. Accuracy of memory reference traces of parallel computations in trace-driven simulation. Department of Computer Science, Duke University, Durham, NC. Tech. Rep. CS-1990-8.
+HOLLIDAY, M. 1991. Techniques for cache and memory simulation using address reference traces. Int. J. Comput. Simul. 1, 129-151.
+IBM 1990. IBM RISC System~6000 Technology. IBM, Austin, TX.
+Corporate Intel Corp., i860 microprocessor family programmer's reference manual, Intel Corporation, Santa Clara, CA, 1992
+Norman P. Jouppi, Improving direct-mapped cache performance by the addition of a small fully-associative cache and prefetch buffers, Proceedings of the 17th annual international symposium on Computer Architecture, p.364-373, May 28-31, 1990, Seattle, Washington, USA[doi>10.1145/325164.325162]
+Gerry Kane , Joe Heinrich, MIPS RISC architectures, Prentice-Hall, Inc., Upper Saddle River, NJ, 1992
+KAELI, D. 1991. Issues in trace-driven simulation. In Proceedings of the 22nd Annual Pittsburgh Modeling and Simulation Conference, Vol. 22, Part 5, May, 2533-2540.
+Richard Eugene Kessler, Analysis of multi-megabyte secondary CPU cache memories, University of Wisconsin at Madison, Madison, WI, 1992
+Frank Lacy, An Address Trace Generator for Trace-Driven Simulation of Shared, University of California at Berkeley, Berkeley, CA, 1988
+S. Laha , J. H. Patel , R. K. Iyer, Accurate Low-Cost Methods for Performance Evaluation of Cache Memory Systems, IEEE Transactions on Computers, v.37 n.11, p.1325-1336, November 1988[doi>10.1109/12.8699]
+J. R. Larus, Abstract execution: a technique for efficiently tracing programs, Software—Practice & Experience, v.20 n.12, p.1241-1258, Dec. 1990[doi>10.1002/spe.4380201205]
+LARUS, J. 1991. SPIM $20: A MIPS R2000 simulator. University of Wisconsin-Madison Tech. Rep., Revision 9.
+Computer Staff, Efficient program tracing, Computer, v.26 n.5, p.52-61, May 1993[doi>10.1109/2.211900]
+LEBECK, A. AND WOOD, D. 1994. Fast-Cache: A new abstraction for memory-system simulation. University of Wisconsin-Madison Tech. Rep. 1211.
+Alvin R. Lebeck , David A. Wood, Active memory: a new abstraction for memory-system simulation, Proceedings of the 1995 ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems, p.220-230, May 15-19, 1995, Ottawa, Ontario, Canada[doi>10.1145/223587.223611]
+LEE, C.-C. 1997. A case study of a hardwaremanaged TLB in a multi-tasking environment. University of Michigan Tech. Rep.
+MACWEEK STAFF 1994. Apple holds up 603 for cache. MacWeek 8, 21 (May 24), 1, 100.
+Peter S. Magnusson, A Design for Efficient Simulation of a Multiprocessor, Proceedings of the International Workshop on Modeling, Analysis, and Simulation On Computer and Telecommunication Systems, p.69-78, January 17-20, 1993
+Margaret Rose Martonosi, Analyzing and tuning memory performance in sequential and parallel programs, Stanford University, Stanford, CA, 1994
+Margaret Martonosi , Anoop Gupta , Thomas Anderson, MemSpy: analyzing memory system bottlenecks in programs, Proceedings of the 1992 ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems, p.1-12, June 01-05, 1992, Newport, Rhode Island, USA[doi>10.1145/133057.133079]
+Margaret Martonosi , Anoop Gupta , Thomas Anderson, Effectiveness of trace sampling for performance debugging tools, Proceedings of the 1993 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.248-259, May 10-14, 1993, Santa Clara, California, USA[doi>10.1145/166955.167023]
+MATTSON, R. L., GECSEI, J., SLUTZ, D. R., AND TRAIGER, I.L. 1970. Evaluation techniques for storage hierarchies. IBM Syst. J. 9, 2, 78-117.
+C. May, Mimic: a fast system/370 simulator, Papers of the Symposium on Interpreters and interpretive techniques, p.1-13, June 24-26, 1987, St. Paul, Minnesota, USA[doi>10.1145/29650.29651]
+Ann Marie Grizzaffi Maynard , Colette M. Donnelly , Bret R. Olszewski, Contrasting characteristics and cache performance of technical and multi-user commercial workloads, Proceedings of the sixth international conference on Architectural support for programming languages and operating systems, p.145-156, October 05-07, 1994, San Jose, California, USA[doi>10.1145/195473.195524]
+MIPS. 1988. RISCompiler Languages Programmer's Guide. MIPS.
+Jeffrey C. Mogul , Anita Borg, The effect of context switches on cache performance, Proceedings of the fourth international conference on Architectural support for programming languages and operating systems, p.75-84, April 08-11, 1991, Santa Clara, California, USA[doi>10.1145/106972.106982]
+Motorola, MC88100 Microprocessors User's Manual, Prentice Hall PTR, Upper Saddle River, NJ, 1989
+MOTOROLA 1993. Power PC 601 RISC Microprocessor User's Manual. Motorola, Inc.
+NAGLE, D., UHLIG, R., AND MUDGE, T. 1992. Monster: A tool for analyzing the interaction between operating systems and computer architectures. University of Michigan Tech. Rep. CSE-TR- 147-92.
+David Nagle , Richard Uhlig , Tim Stanley , Stuart Sechrest , Trevor Mudge , Richard Brown, Design tradeoffs for software-managed TLBs, Proceedings of the 20th annual international symposium on computer architecture, p.27-38, May 16-19, 1993, San Diego, California, USA[doi>10.1145/165123.165127]
+D. Nagle , R. Uhlig , T. Mudge , S. Sechrest, Optimal allocation of on-chip memory for multiple-API operating systems, Proceedings of the 21st annual international symposium on Computer architecture, p.358-369, April 18-21, 1994, Chicago, Illinois, USA[doi>10.1145/191995.192070]
+PIERCE, J. AND MUDGE, T. 1994a. IDtrace--A tracing tool for i486 simulation. University of Michigan Tech. Rep. CSE-TR-203-94.
+Jim Pierce , Trevor N. Mudge, IDtrace - A Tracing Tool for i486 Simulation, Proceedings of the Second International Workshop on Modeling, Analysis, and Simulation On Computer and Telecommunication Systems, p.419-420, January 31-February 02, 1994
+PIERCE, J., SMITH, M. D., AND MUDGE, T. 1995. Instrumentation tools. In Fast Simulation of Computer Architectures, (T. M. Conte and C. E. Gimarc, Eds.), Kluwer Academic Publishers, Boston, MA (to appear).
+PLESZKUN, A. 1994. Techniques for compressing program address traces. Tech. Rep., Department of Electrical and Computer Engineering, University of Colorado-Boulder.
+PRIEVE, B. G. 1974. A Page Partition Replacement Algorithm. University of California at Berkeley.
+Thomas Roberts Puzak, Analysis of cache replacement-algorithms, University of Massachusetts Amherst, 1985
+Steven K. Reinhardt , Mark D. Hill , James R. Larus , Alvin R. Lebeck , James C. Lewis , David A. Wood, The Wisconsin Wind Tunnel: virtual prototyping of parallel computers, Proceedings of the 1993 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.48-60, May 10-14, 1993, Santa Clara, California, USA[doi>10.1145/166955.166979]
+Steven K. Reinhardt , Robert W. Pfile , David A. Wood, Decoupled hardware support for distributed shared memory, Proceedings of the 23rd annual international symposium on Computer architecture, p.34-43, May 22-24, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/232973.232979]
+Theodore H. Romer , Dennis Lee , Geoffrey M. Voelker , Alec Wolman , Wayne A. Wong , Jean-Loup Baer , Brian N. Bershad , Henry M. Levy, The structure and performance of interpreters, Proceedings of the seventh international conference on Architectural support for programming languages and operating systems, p.150-159, October 01-04, 1996, Cambridge, Massachusetts, USA[doi>10.1145/237090.237175]
+Mendel Rosenblum , Stephen A. Herrod , Emmett Witchel , Anoop Gupta, Complete Computer System Simulation: The SimOS Approach, IEEE Parallel & Distributed Technology: Systems & Technology, v.3 n.4, p.34-43, December 1995[doi>10.1109/88.473612]
+A. D. Samples, Mache: no-loss trace compaction, Proceedings of the 1989 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.89-97, May 23-26, 1989, Oakland, California, USA[doi>10.1145/75108.75382]
+R. L. Sites , A. Agarwal, Multiprocessor cache analysis using ATUM, Proceedings of the 15th Annual International Symposium on Computer architecture, p.186-195, May 30-June 02, 1988, Honolulu, Hawaii, USA
+SITES, R., CHERNOFF, A., KIRK, M., MARKS, M., AND ROBINSON, S. 1992. Binary translation. Digital Tech. J. 4, 4, 137-152.
+SMITH, A. J. 1977. Two methods for the efficient analysis of memory address trace data. IEEE Trans. Softw. Eng. SE-3, 1, 94-101.
+Alan Jay Smith, Cache Memories, ACM Computing Surveys (CSUR), v.14 n.3, p.473-530, Sept. 1982[doi>10.1145/356887.356892]
+Alan Jay Smith, Bibliography and reading on CPU cache memories and related topics, ACM SIGARCH Computer Architecture News, v.14 n.1, p.22-42, Jan 1 1986[doi>10.1145/381730.381737]
+SMITH, M. D. 1991. Tracing with pixie. Tech. Rep., Stanford University, Stanford, CA.
+Amitabh Srivastava , Alan Eustace, ATOM: a system for building customized program analysis tools, Proceedings of the ACM SIGPLAN 1994 conference on Programming language design and implementation, p.196-205, June 20-24, 1994, Orlando, Florida, USA[doi>10.1145/178243.178260]
+Chriss Stephens , Bryce Cogswell , John Heinlein , Gregory Palmer , John P. Shen, Instruction level profiling and evaluation of the IBM/6000, Proceedings of the 18th annual international symposium on Computer architecture, p.180-189, May 27-30, 1991, Toronto, Ontario, Canada[doi>10.1145/115952.115971]
+Harold S. Stone, High-performance computer architecture (2nd ed.), Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1990
+C. B. Stunkel , W. K. Fuchs, TRAPEDS: producing traces for multicomputers via execution driven simulation, Proceedings of the 1989 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.70-78, May 23-26, 1989, Oakland, California, USA[doi>10.1145/75108.75380]
+STUNKEL, C., JANSSENS, B., AND FUCHS, W. K. 1991. Collecting address traces from parallel computers. In Proceedings of the 24th Annual Hawaii International Conference on System Sciences (Hawaii), 373-383.
+Rabin Andrew Sugumar, Multi-configuration simulation algorithms for the evaluation of computer architecture designs, University of Michigan, Ann Arbor, MI, 1993
+Madhusudhan Talluri , Mark D. Hill, Surpassing the TLB performance of superpages with less operating system support, Proceedings of the sixth international conference on Architectural support for programming languages and operating systems, p.171-182, October 05-07, 1994, San Jose, California, USA[doi>10.1145/195473.195531]
+TEKTRONIX. 1994. Test and Measurement Product Catalog. Wilsonville, OR.
+Chandramohan A. Thekkath , Henry M. Levy, Hardware and software support for efficient exception handling, Proceedings of the sixth international conference on Architectural support for programming languages and operating systems, p.110-119, October 05-07, 1994, San Jose, California, USA[doi>10.1145/195473.195515]
+James G. Thompson , Alan Jay Smith, Efficient (stack) algorithms for analysis of write-back and sector memories, ACM Transactions on Computer Systems (TOCS), v.7 n.1, p.78-117, Feb. 1989[doi>10.1145/58564.59296]
+Josep Torrellas , Anoop Gupta , John Hennessy, Characterizing the caching and synchronization performance of a multiprocessor operating system, Proceedings of the fifth international conference on Architectural support for programming languages and operating systems, p.162-174, October 12-15, 1992, Boston, Massachusetts, USA[doi>10.1145/143365.143506]
+Richard Uhlig , David Nagle , Trevor Mudge , Stuart Sechrest, Trap-driven simulation with Tapeworm II, Proceedings of the sixth international conference on Architectural support for programming languages and operating systems, p.132-144, October 05-07, 1994, San Jose, California, USA[doi>10.1145/195473.195521]
+Richard Uhlig , David Nagle , Trevor Mudge , Stuart Sechrest , Joel Emer, Instruction fetching: coping with code bloat, Proceedings of the 22nd annual international symposium on Computer architecture, p.345-356, June 22-24, 1995, S. Margherita Ligure, Italy[doi>10.1145/223982.224445]
+Michael Douglas Upton , Richard B. Brown , Trevor N. Mudge, Architectural trade-offs in a latency-tolerant gallium arsenide microprocessor, University of Michigan, Ann Arbor, MI, 1997
+Jack E. Veenstra , Robert J. Fowler, MINT: A Front End for Efficient Simulation of Shared-Memory Multiprocessors, Proceedings of the Second International Workshop on Modeling, Analysis, and Simulation On Computer and Telecommunication Systems, p.201-207, January 31-February 02, 1994
+WALL, D. 1989. Link-time code modification. DEC Western Research Lab Tech. Rep. 89/17.
+WALL, D. 1992. Systems for late code modification. DEC Western Research Lab. Tech. Rep. 92/3.
+Wen-Hann Wang , Jean-Loup Baer, Efficient trace-driven simulation method for cache performance analysis, Proceedings of the 1990 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.27-36, April 1990, Univ. of Colorado, Boulder, Colorado, USA[doi>10.1145/98457.98497]
+Cheryl A. Wiecek, A case study of VAX-11 instruction set usage for compiler execution, Proceedings of the first international symposium on Architectural support for programming languages and operating systems, p.177-184, March 01-03, 1982, Palo Alto, California, USA[doi>10.1145/800050.801841]
+M. V. Wilkes, The Growth of Interest in Microprogramming: A Literature Survey, ACM Computing Surveys (CSUR), v.1 n.3, p.139-145, Sept. 1969[doi>10.1145/356551.356553]
+Donald Charles Winsor , Trevor N. Mudge, Bus and cache memory organizations for multiprocessors, University of Michigan, Ann Arbor, MI, 1989
+Emmett Witchel , Mendel Rosenblum, Embra: fast and flexible machine simulation, Proceedings of the 1996 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.68-79, May 23-26, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/233013.233025]
+David A. Wood , Mark D. Hill , R. E. Kessler, A model for estimating trace-sample miss ratios, Proceedings of the 1991 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.79-89, May 21-24, 1991, San Diego, California, USA[doi>10.1145/107971.107981]
+ZIv, J. AND LEMPEL, A. 1976. A universal algorithm for sequential data compression. IEEE Trans. Inf. Theory 23, 75-81.

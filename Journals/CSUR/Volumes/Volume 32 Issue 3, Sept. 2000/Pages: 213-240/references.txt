@@ -1,0 +1,85 @@
+ARMSTRONG, E. 1998. HotSpot: A new breed of virtual machine. Java World, Mar.
+Ken Arnold , James Gosling, The Java programming language (2nd ed.), ACM Press/Addison-Wesley Publishing Co., New York, NY, 1998
+Alfred V. Aho , Ravi Sethi , Jeffrey D. Ullman, Compilers: principles, techniques, and tools, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+Ana Azevedo , Alex Nicolau , Joe Hummel, Java annotation-aware just-in-time (AJIT) complilation system, Proceedings of the ACM 1999 conference on Java Grande, p.142-151, June 12-14, 1999, San Francisco, California, USA[doi>10.1145/304065.304115]
+Ali-Reza Adl-Tabatabai , Michał Cierniak , Guei-Yuan Lueh , Vishesh M. Parikh , James M. Stichnoth, Fast, effective code generation in a just-in-time Java compiler, Proceedings of the ACM SIGPLAN 1998 conference on Programming language design and implementation, p.280-290, June 17-19, 1998, Montreal, Quebec, Canada[doi>10.1145/277650.277740]
+Aart J. C. Bik , Milind Girkar , Paul M. Grey , Xinmin Tian, Automatically exploiting implicit parallelism, Dr. Dobb's Journal, v.26 n.3, p.28-34, July 2001
+BIK, A. AND GANNON, D. 1998. Javab-A prototype bytecode parallelization tool, ACM Workshop on Java for High-Performance Network Computing.
+David F. Bacon , Ravi Konuru , Chet Murthy , Mauricio Serrano, Thin locks: featherweight synchronization for Java, Proceedings of the ACM SIGPLAN 1998 conference on Programming language design and implementation, p.258-268, June 17-19, 1998, Montreal, Quebec, Canada[doi>10.1145/277650.277734]
+Michael G. Burke , Jong-Deok Choi , Stephen Fink , David Grove , Michael Hind , Vivek Sarkar , Mauricio J. Serrano , V. C. Sreedhar , Harini Srinivasan , John Whaley, The Jalapeño dynamic optimizing compiler for Java, Proceedings of the ACM 1999 conference on Java Grande, p.129-141, June 12-14, 1999, San Francisco, California, USA[doi>10.1145/304065.304113]
+ByteMark, http://www.byte.com.
+CIERNIAK, M. AND LI, W. 1997a. Optimizing Java bytecodes. In Concurrency: Practice and Experience, vol. 9, no. 6, 427-444.
+CIERNIAK, M. AND LI, W. 1997b. Just-in-time optimizations for high-performance Java programs. In Concurrency: Practice and Experience, vol. 9, no. 11, 1063-1073.
+Pohua P. Chang , Scott A. Mahlke , William Y. Chen , Nancy J. Warter , Wen-mei W. Hwu, IMPACT: an architectural framework for multiple-instruction-issue processors, Proceedings of the 18th annual international symposium on Computer architecture, p.266-275, May 27-30, 1991, Toronto, Ontario, Canada[doi>10.1145/115952.115979]
+CaffeineMark, http://www.pendragon-software.com/ pendragon/cm3/info.html.
+CUP Parser Generator for Java, http://www.cs. princeton.edu/ appel/modern/java/CUP.
+Jeffrey Dean , David Grove , Craig Chambers, Optimization of Object-Oriented Programs Using Static Class Hierarchy Analysis, Proceedings of the 9th European Conference on Object-Oriented Programming, p.77-101, August 07-11, 1995
+Jeffrey Dean , Greg DeFouw , David Grove , Vassily Litvinov , Craig Chambers, Vortex: an optimizing compiler for object-oriented languages, Proceedings of the 11th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, p.83-100, October 06-10, 1996, San Jose, California, USA[doi>10.1145/236337.236344]
+DashO Pro, http://www.preemptive.com/DashO/.
+Dhrystone Benchmark, http://www.netlib.org/ benchmark/dhry-c.
+Dhrystone Benchmark in Java, http://www.ccreators.co.jp/okayan/DhrystoneApplet/.
+EBCIOGLU, K., ALTMAN, E., AND HOKENEK, E. 1997. A Java ILP machine based on fast dynamic compilation. In International Workshop on Security and Efficiency Aspects of Java, Eilat, Israel, Jan. 9-10.
+EspressoGrinder, http://wwwipd.ira.uka.de/~espresso/.
+FAJITA FAJITA Compiler Project, http://www.ri. silicomp.fr/adv-dvt/java/fajita/index-b.htm.
+James Gosling , Bill Joy , Guy L. Steele, The  Java Language Specification, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1996
+Cheng-Hsueh A. Hsieh , John C. Gyllenhaal , Wen-mei W. Hwu, Java bytecode to native code translation: the caffeine prototype and preliminary results, Proceedings of the 29th annual ACM/IEEE international symposium on Microarchitecture, p.90-99, December 02-04, 1996, Paris, France
+Cheng-Hsueh A. Hsieh , Marie T. Conte , Teresa L. Johnson , John C. Gyllenhaal , Wen-mei W. Hwu, Optimizing NET Compilers for Improved Java Performance, Computer, v.30 n.6, p.67-75, June 1997[doi>10.1109/2.587551]
+ICHISUGI, Y. AND ROUDIER, Y. 1997. Integrating data-parallel and reactive constructs into Java. In Proceedings of France-Japan Workshop on Object-Based Parallel and Distributed Computation (OBPDC '97), France.
+IVANNIKOV, V., GAISSARAYAN, S., DOMRACHEV, M., ETCH, V., AND SHTALTOVNAYA, N. 1997. DPJ: Java Class Library for Development of Data- Parallel Programs. Institute for Systems Programming, Russian Academy of Sciences, http://www.ispras.ru/~dpj/.
+Kazuaki Ishizaki , Motohiro Kawahito , Toshiaki Yasue , Mikio Takeuchi , Takeshi Ogasawara , Toshio Suganuma , Tamiya Onodera , Hideaki Komatsu , Toshio Nakatani, Design, implementation, and evaluation of optimizations in a just-in-time compiler, Proceedings of the ACM 1999 conference on Java Grande, p.119-128, June 12-14, 1999, San Francisco, California, USA[doi>10.1145/304065.304111]
+Jas: Bytecode Assembler, http://www.meurrens. org/ip-Links/Java/codeEngineering/blackDown/ jas.html.
+Java Benchmarks-VolanoMark, http://www.volano. com/mark.html.
+Java Compiler Technology, http://www.gr.opengroup. org/compiler/index.htm.
+Java Grande Forum Benchmark: Links to Other Java Benchmarks, http://www.epcc.ed.ac.uk/ research/javagrande/links.html.
+Java Grande Forum Benchmark Suite, http://www.
+epcc.ed.ac.uk/research/javagrande/benchmarking. html.
+Java Grande Forum Report: Making Java Work for High-End Computing, JavaGrande Forum Panel, SC98, Nov. 1998, http://www.javagrande. org/reports.htm.
+Java Microbenchmarks, http://www.cs.cmu.edu/jch/ java/benchmarks.html.
+Jax: Scanner Generator, http://www.meurrens. org/ip-Links/Java/codeEngineering/blackDown/ jax.html.
+Jell: Parser Generator, http://www.meurrens.org/ ip-Links/Java/codeEngineering/blackDown/jell. html.
+JHLUnzip-A Zippy Utility, http://www.easynet. it/jhl/apps/zip/unzip.html.
+JHLZip-Another Zippy Utility, http://www. easynet. it/jhl/apps/zip/zip.html.
+JLex: A Lexical Analyzer Generator for Java, http://www.cs.princeton.edu/appel/modern/java/ JLex.
+Just-In-Time Compilation and the Microsoft VM for Java, http://premium.microsoft.com/msdn/ library/sdkdoc/java/htm/Jit Structure.htm.
+JavaSpMT: A Speculative Thread Pipelining Parallelization Model for Java Programs, Proceedings of the 14th International Symposium on Parallel and Distributed Processing, p.559, May 01-05, 2000
+KRALL, A. AND GRAFL, R. 1997. CACAO-A 64 bit Java VM just-in-time compiler. In Principles & Practice of Parallel Programming (PPoPP) '97 Java Workshop.
+KRALL, A. AND PROBST, M. 1998. Monitors and exceptions: How to implement Java efficiently. In ACM Workshop on Java for High-Performance Network Computing.
+Brad Calder , Chandra Krintz , Urs Hölzle, Reducing transfer delay using Java class file splitting and prefetching, Proceedings of the 14th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, p.276-291, November 01-05, 1999, Denver, Colorado, USA[doi>10.1145/320384.320412]
+Measuring computer performance: a practitioner's guide, Cambridge University Press, New York, NY, 2000
+LAUNAY, P. AND PAZAT, J. L. 1997. A Framework for Parallel Programming in Java. IRISA, France, Tech. Rep. 1154, Dec.
+Tim Lindholm , Frank Yellin, Java Virtual Machine Specification, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1999
+Linpack Benchmark-Java Version, http://www. netlib.org/benchmark/linpackjava/.
+Harlan McGhan , Mike O'Connor, PicoJava: A Direct Execution Engine For Java Bytecode, Computer, v.31 n.10, p.22-30, October 1998[doi>10.1109/2.722273]
+Jon Meyer , Troy Downing, Java virtual machine, O'Reilly & Associates, Inc., Sebastopol, CA, 1997
+Gilles Muller , Bárbara Moura , Fabrice Bellard , Charles Consel, Harissa: a flexible and efficient java environment mixing bytecode and compiled code, Proceedings of the 3rd conference on USENIX Conference on Object-Oriented Technologies (COOTS), p.1-1, June 16-20, 1997, Portland, Oregon
+MATSUOKA, S., OGAWA, H., SHIMURA, K., KIMURA, Y., HOTTA, K., AND TAKAGI, H. 1998. OpenJIT-A reflective Java JIT compiler. In Proceedings of OOPSLA '98 Workshop on Reflective Programming in C++ and Java, 16-20.
+J. E. Moreira , S. P. Midkiff , M. Gupta , P. V. Artigas , M. Snir , R. D. Lawrence, Java programming for high-performance numerical computing, IBM Systems Journal, v.39 n.1, p.21-56, January 2000[doi>10.1147/sj.391.0021]
+Microsoft SDK Tools, http://premium.microsoft.com/ msdn/library/sdkdoc/java/htm.
+J. Michael O'Connor , Marc Tremblay, picoJava-I: The Java Virtual Machine in Hardware, IEEE Micro, v.17 n.2, p.45-53, March 1997[doi>10.1109/40.592314]
+POSTEL, J. B. 1981. Transmission Control Protocol. RFC 791, Sept.
+Todd A. Proebsting, Simple and efficient BURS table generation, Proceedings of the ACM SIGPLAN 1992 conference on Programming language design and implementation, p.331-340, June 15-19, 1992, San Francisco, California, USA[doi>10.1145/143095.143145]
+Todd A. Proebsting , Gregg Townsend , Patrick Bridges , John H. Hartman , Tim Newsham , Scott A. Watterson, Toba: java for applications a way ahead of time (WAT) compiler, Proceedings of the 3rd conference on USENIX Conference on Object-Oriented Technologies (COOTS), p.3-3, June 16-20, 1997, Portland, Oregon
+Patriot Scientific Corporation. Java on Patriot's PSC1000 Microprocessor, http://www.ptsc.com/ PSC1000/java psc1000.html.
+PC Magazine Test Center: JMark 1.01, http:// www8. zdnet.com/pcmag/pclabs/bench/benchjm.htm.
+Remote Method Invocation Specification, http://java. sun.com/products/jdk/1.1/docs/guide/rmi-/spec/ rmiTOC.doc.html.
+SESHADRI, V. 1997. IBM high performance compiler for Java. AIXpert Magazine, Sept., http://www. developer.ibm.com/library/aixpert.
+Abraham Silberschatz , James L. Peterson , Peter B. Galvin, Operating system concepts (3rd ed.), Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1991
+T. Suganuma , T. Ogasawara , M. Takeuchi , T. Yasue , M. Kawahito , K. Ishizaki , H. Komatsu , T. Nakatani, Overview of the IBM Java just-in-time compiler, IBM Systems Journal, v.39 n.1, p.175-193, January 2000[doi>10.1147/sj.391.0175]
+SPEC JVM98 Benchmarks, http://www.spec.org/ org/jvm98/.
+Sun Microsystems-The Source for Java Technology, http://java.sun.com.
+Sun Microsystems. MicroJava-701 Processor, http:// www.sun.com/microelectronics/microJava-701.
+Symantec-Just-In-Time Compiler Performance Analysis, http://www.symantec.com/jit/jit pa. html.
+SYSmark J, http://www.bapco.com/SYSmarkJ.html.
+TURLEY, J. 1997. MicroJava Pushes Bytecode Performance-Sun's MicroJava 701 Based on New Generation of PicoJava Core. Microprocessor Rep., vol. 11, no. 15, Nov. 17.
+Frank Tip , Peter F. Sweeney, Class hierarchy specialization, Proceedings of the 12th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, p.271-285, October 05-09, 1997, Atlanta, Georgia, USA[doi>10.1145/263698.263748]
+Frank Tip , Chris Laffra , Peter F. Sweeney , David Streeter, Practical experience with an application extractor for Java, Proceedings of the 14th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, p.292-305, November 01-05, 1999, Denver, Colorado, USA[doi>10.1145/320384.320414]
+The Java Hotspot Performance Engine Architecture, http://java.sun.com/products/hotspot/- whitepaper.html.
+TurboJ Benchmark's Results, http://www.camb. opengroup.org/openitsol/turboj/technical/ benchmarks.htm.
+TurboJ Java to Native Compiler, http://www. ri.silicomp.fr/adv-dvt/java/turbo/index-b.htm.
+UCSD Benchmarks for Java, http://www-cse.ucsd. edu/users/wgg/JavaProf/javaprof.html.
+UW Cecil/Vortex Project, http://www.cs.washington. edu/research/projects/cecil.
+Narayanan Vijaykrishnan , N. Ranganathan , Ravi Gadekarla, Object-Oriented Architectural Support for a Java Processor, Proceedings of the 12th European Conference on Object-Oriented Programming, p.330-354, July 20-24, 1998
+Paul R. Wilson, Uniprocessor Garbage Collection Techniques, Proceedings of the International Workshop on Memory Management, p.1-42, September 17-19, 1992
+Welcome to Harissa, http://www.irisa.fr/compose/ harissa/.
+Welcome to JMark 2.0, http://www.zdnet.com/ zdbop/jmark/jmark.html.
+Wilkinson, T., Kaffe v0.10.0-A Free Virtual Machine to Run Java Code, Mar. 1997. Available at http://www.kaffe.org/.

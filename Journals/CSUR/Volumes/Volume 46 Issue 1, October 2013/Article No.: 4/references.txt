@@ -1,0 +1,89 @@
+Bertrand Anckaert , Matias Madou , Koen De Bosschere, A model for self-modifying code, Proceedings of the 8th international conference on Information hiding, July 10-12, 2006, Alexandria, VA, USA
+David Aucsmith, Tamper Resistant Software: An Implementation, Proceedings of the First International Workshop on Information Hiding, p.317-333, May 30-June 01, 1996
+Domagoj Babić , Lorenzo Martignoni , Stephen McCamant , Dawn Song, Statically-directed dynamic automated test generation, Proceedings of the 2011 International Symposium on Software Testing and Analysis, July 17-21, 2011, Toronto, Ontario, Canada[doi>10.1145/2001420.2001423]
+Balakrishnan, G. and Reps, T. 2004. Analyzing memory accesses in ×86 executables. In Proceedings of the Conference on Compiler Construction (CC'04). 5--23.
+Paul Barham , Boris Dragovic , Keir Fraser , Steven Hand , Tim Harris , Alex Ho , Rolf Neugebauer , Ian Pratt , Andrew Warfield, Xen and the art of virtualization, Proceedings of the nineteenth ACM symposium on Operating systems principles, October 19-22, 2003, Bolton Landing, NY, USA[doi>10.1145/945445.945462]
+Bayer, U., Moser, A., Kruegel, C., and Kirda, E. 2006. Dynamic analysis of malicious code. J. Comput. Virology 2, 1, 66--77.
+Fabrice Bellard, QEMU, a fast and portable dynamic translator, Proceedings of the annual conference on USENIX Annual Technical Conference, p.41-41, April 10-15, 2005, Anaheim, CA
+Andrew R. Bernat , Barton P. Miller, Anywhere, any-time binary instrumentation, Proceedings of the 10th ACM SIGPLAN-SIGSOFT workshop on Program analysis for software tools, September 05-05, 2011, Szeged, Hungary[doi>10.1145/2024569.2024572]
+Andrew R. Bernat , Kevin Roundy , Barton P. Miller, Efficient, sensitivity resistant binary instrumentation, Proceedings of the 2011 International Symposium on Software Testing and Analysis, July 17-21, 2011, Toronto, Ontario, Canada[doi>10.1145/2001420.2001432]
+BitDefender. 2007. BitDefender anti-virus technology. White Paper. http://www.bitdefender.com/news/&quest;f_year=2007.
+Bohne, L. and Holz, T. 2008. Pandora's bochs: Automated malware unpacking. M.S. thesis, University of Mannheim. http://archive.hack.lu/2009/PandorasBochs.pdf.
+Derek L. Bruening , Saman Amarasinghe, Efficient, transparent, and comprehensive runtime code manipulation, Massachusetts Institute of Technology, Cambridge, MA, 2004
+Danilo Bruschi , Lorenzo Martignoni , Mattia Monga, Code Normalization for Self-Mutating Malware, IEEE Security and Privacy, v.5 n.2, p.46-54, March 2007[doi>10.1109/MSP.2007.31]
+Bustamante, P. 2008a. Malware prevalence. Panda Research web article. http://research.pandasecurity.com/malware-prevalence-august-2008/.
+Bustamante, P. 2008b. Packer (r)evolution. Panda Research web article. http://research.pandasecurity.com/packer-revolution/.
+Charney, M. 2010. Xed2 user guide. http://www.cs.virginia.edu/kim/publicity/pin/docs/36111/Xed/html/main.html.
+Jim Chow , Tal Garfinkel , Peter M. Chen, Decoupling dynamic program analysis from execution in virtual environments, USENIX 2008 Annual Technical Conference on Annual Technical Conference, p.1-14, June 22-27, 2008, Boston, Massachusetts
+Christodorescu, M., Kinder, J., Jha, S., Katzenbeisser, S., and Veith, H. 2005. Malware normalization. Tech. rep. 1539, Computer Sciences Department, University of Wisconsin.
+Cristina Cifuentes , Antoine Fraboulet, Intraprocedural Static Slicing of Binary Executables, Proceedings of the International Conference on Software Maintenance, p.188, October 01-03, 1997
+Cristina Cifuentes , Mike Van Emmerik, Recovery of Jump Table Case Statements from Binary Code, Proceedings of the 7th International Workshop on Program Comprehension, p.192, May 05-07, 1999
+Christian Collberg , Clark Thomborson , Douglas Low, Manufacturing cheap, resilient, and stealthy opaque constructs, Proceedings of the 25th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.184-196, January 19-21, 1998, San Diego, California, USA[doi>10.1145/268946.268962]
+Kevin Coogan , Saumya Debray , Tasneem Kaochar , Gregg Townsend, Automatic Static Unpacking of Malware Binaries, Proceedings of the 2009 16th Working Conference on Reverse Engineering, p.167-176, October 13-16, 2009[doi>10.1109/WCRE.2009.24]
+Danehkar, A. 2005. Inject your code into a portable executable file. http://www.codeproject.com/KB/system/inject2exe.aspx.
+Dark Paranoid. 1998. Engine of eternal encryption. Moon bug 7. http://www.eset.com/us/threat-center/encyclopedia/threats/darkparanoid/.
+Saumya Debray , William Evans, Profile-guided code compression, Proceedings of the ACM SIGPLAN 2002 Conference on Programming language design and implementation, June 17-19, 2002, Berlin, Germany[doi>10.1145/512529.512542]
+Saumya Debray , Jay Patel, Reverse Engineering Self-Modifying Code: Unpacker Extraction, Proceedings of the 2010 17th Working Conference on Reverse Engineering, p.131-140, October 13-16, 2010[doi>10.1109/WCRE.2010.22]
+Artem Dinaburg , Paul Royal , Monirul Sharif , Wenke Lee, Ether: malware analysis via hardware virtualization extensions, Proceedings of the 15th ACM conference on Computer and communications security, October 27-31, 2008, Alexandria, Virginia, USA[doi>10.1145/1455770.1455779]
+Falliere, N. 2007. Windows anti-debug reference. Infocus web article. http://www.securityfocus.com/infocus/1893.
+Ferrie, P. 2008a. Anti-unpacker tricks. In Proceedings of the International CARO Workshop.
+Ferrie, P. 2008b. Anti-unpacker tricks - part one. Virus Bulletin. www.virusbtn.com/pdf/magazine/2008/200812.pdf.
+Fog, A. 2011. Calling conventions for different c&plus;&plus; compilers and operating systems. http://www.agner.org/optimize/.
+Jonathon T. Giffin , Mihai Christodorescu , Louis Kruger, Strengthening Software Self-Checksumming via Self-Modifying Code, Proceedings of the 21st Annual Computer Security Applications Conference, p.23-32, December 05-09, 2005[doi>10.1109/CSAC.2005.53]
+Gnu Project - Free Software Foundation. 2011. Objdump, gnu manuals online. Version 2.22 http://sourceware.org/binutils/docs/binutils/.
+Graf, T. 2005. Generic unpacking - How to handle modified or unknown pe compression engines&quest; In Proceedings of the Virus Bulletin Conference.
+Guilfanov, I. 2005. Using the universal pe unpacker plug-in included in ida pro 4.9 to unpack compressed executables. http://www.hex-rays.com/idapro/unpack_pe/unpacking.pdf.
+Guilfanov, I. 2011. The ida pro disassembler and debugger. DataRescue, version 6.2. http://www.hex-rays.com/idapro/.
+Fanglu Guo , Peter Ferrie , Tzi-Cker Chiueh, A Study of the Packer Problem and Its Solutions, Proceedings of the 11th international symposium on Recent Advances in Intrusion Detection, September 15-17, 2008, Cambridge, MA, USA[doi>10.1007/978-3-540-87403-4_6]
+Laune C. Harris , Barton P. Miller, Practical analysis of stripped binary code, ACM SIGARCH Computer Architecture News, v.33 n.5, December 2005[doi>10.1145/1127577.1127590]
+Hex-Rays Decompiler. 2011. Version 1.6. http://hex-rays.com.
+Hollingsworth, J. K., Miller, B. P., and Cargille, J. 1994. Dynamic program instrumentation for scalable performance tools. In Proceedings of the Scalable High Performance Computing Conference.
+Galen Hunt , Doug Brubacher, Detours: binary interception of Win32 functions, Proceedings of the 3rd conference on USENIX Windows NT Symposium, p.14-14, July 12-15, 1999, Seattle, Washington
+Emily R. Jacobson , Nathan Rosenblum , Barton P. Miller, Labeling library functions in stripped binaries, Proceedings of the 10th ACM SIGPLAN-SIGSOFT workshop on Program analysis for software tools, September 05-05, 2011, Szeged, Hungary[doi>10.1145/2024569.2024571]
+Min Gyung Kang , Pongsin Poosankam , Heng Yin, Renovo: a hidden code extractor for packed executables, Proceedings of the 2007 ACM workshop on Recurring malcode, November 02-02, 2007, Alexandria, Virginia, USA[doi>10.1145/1314389.1314399]
+Christopher Kruegel , William Robertson , Fredrik Valeur , Giovanni Vigna, Static disassembly of obfuscated binaries, Proceedings of the 13th conference on USENIX Security Symposium, p.18-18, August 09-13, 2004, San Diego, CA
+Arun Lakhotia , Eric Uday Kumar , Michael Venable, A Method for Detecting Obfuscated Calls in Malicious Binaries, IEEE Transactions on Software Engineering, v.31 n.11, p.955-968, November 2005[doi>10.1109/TSE.2005.120]
+Junghee Lim , Thomas Reps, A system for generating static analyzers for machine instructions, Proceedings of the Joint European Conferences on Theory and Practice of Software 17th international conference on Compiler construction, March 29-April 06, 2008, Budapest, Hungary
+Tim Lindholm , Frank Yellin, Java Virtual Machine Specification, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1999
+Cullen Linn , Saumya Debray, Obfuscation of executable code to improve resistance to static disassembly, Proceedings of the 10th ACM conference on Computer and communications security, October 27-30, 2003, Washington D.C., USA[doi>10.1145/948109.948149]
+Chi-Keung Luk , Robert Cohn , Robert Muth , Harish Patil , Artur Klauser , Geoff Lowney , Steven Wallace , Vijay Janapa Reddi , Kim Hazelwood, Pin: building customized program analysis tools with dynamic instrumentation, Proceedings of the 2005 ACM SIGPLAN conference on Programming language design and implementation, June 12-15, 2005, Chicago, IL, USA[doi>10.1145/1065010.1065034]
+Matias Madou , Bertrand Anckaert , Bjorn De Sutter , Koen De Bosschere, Hybrid static-dynamic attacks against software protection mechanisms, Proceedings of the 5th ACM workshop on Digital rights management, November 07-07, 2005, Alexandria, VA, USA[doi>10.1145/1102546.1102560]
+Maebe, J. and De Bosschere, K. 2003. Instrumenting self-modifying code. In Proceedings of the Workshop on Automated and Algorithmic Debugging.
+Maebe, J., Ronsse, M., and De Bosschere, K. 2002. DIOTA: Dynamic instrumentation, optimization and transformation of applications. In Proceedings of the Workshop on Binary Translation held in conjunction with the Conference on Parallel Architectures and Compilation Techniques (PACT'02).
+Martignoni, L., Christodorescu, M., and Jha, S. 2007. Omniunpack: Fast, generic, and safe unpacking of malware. In Proceedings of the Annual Computer Security Applications Conference (ACSAC'07).
+Barton P. Miller , Louis Fredriksen , Bryan So, An empirical study of the reliability of UNIX utilities, Communications of the ACM, v.33 n.12, p.32-44, Dec. 1990[doi>10.1145/96267.96279]
+Andreas Moser , Christopher Kruegel , Engin Kirda, Exploring Multiple Execution Paths for Malware Analysis, Proceedings of the 2007 IEEE Symposium on Security and Privacy, p.231-245, May 20-23, 2007[doi>10.1109/SP.2007.17]
+Robert Muth , Saumya Debray, On the complexity of flow-sensitive dataflow analyses, Proceedings of the 27th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.67-80, January 19-21, 2000, Boston, MA, USA[doi>10.1145/325694.325704]
+Susanta Nanda , Wei Li , Lap-Chung Lam , Tzi-cker Chiueh, BIRD: Binary Interpretation using Runtime Disassembly, Proceedings of the International Symposium on Code Generation and Optimization, p.358-370, March 26-29, 2006[doi>10.1109/CGO.2006.6]
+Paradyn Tools Project. 2011. ParseAPI programmer's guide. Version 7.0.1. http://www.paradyn.org/html/manuals.html.
+Payne, B. D. 2011. LibVMI, version 0.6. http://vmitools.sandia.gov/.
+Payne, B. D., Carbone, M., and Lee, W. 2007. Secure and flexible monitoring of virtual machines. In Proceedings of the Annual Computer Security Applications Conference (ACSAC'07).
+Perriot, F. and Ferrie, P. 2004. Principles and practise of x-raying. In Proceedings of the Virus Bulletin Conference.
+Igor V. Popov , Saumya K. Debray , Gregory R. Andrews, Binary obfuscation using signals, Proceedings of 16th USENIX Security Symposium on USENIX Security Symposium, p.1-16, August 06-10, 2007, Boston, MA
+Porras, P., Saidi, H., and Yegneswaran, V. 2009. A foray into conficker's logic and rendezvous points. Tech. rep., SRI International. https://www.usenix.org/legacy/event/leet09/tech/full_papers/porras/porras.pdf.
+Prakash, C. 2007. Design of ×86 emulator for generic unpacking. In Proceedings of the Association of Anti-Virus Asia Researchers International Conference.
+Quinlan, D. 2000. Rose: Compiler support for object-oriented frameworks. In Proceedings of the Conference on Parallel Compilers (CPC'00).
+Quist, D. and Smith, V. 2007. Covert debugging: Circumventing software armoring techniques. Blackhat USA. http://www.blackhat.com/presentations/bh-usa-07/Quist_and_Valsmith/Whitepaper/bh-usa-07-quist_and_valsmith-WP.pdf.
+Nathan E. Rosenblum , Gregory Cooksey , Barton P. Miller, Virtual machine-provided context sensitive page mappings, Proceedings of the fourth ACM SIGPLAN/SIGOPS international conference on Virtual execution environments, March 05-07, 2008, Seattle, WA, USA[doi>10.1145/1346256.1346268]
+Nathan E. Rosenblum , Barton P. Miller , Xiaojin Zhu, Extracting compiler provenance from program binaries, Proceedings of the 9th ACM SIGPLAN-SIGSOFT workshop on Program analysis for software tools and engineering, June 05-06, 2010, Toronto, Ontario, Canada[doi>10.1145/1806672.1806678]
+Nathan Rosenblum , Xiaojin Zhu , Barton Miller , Karen Hunt, Learning to analyze binary computer code, Proceedings of the 23rd national conference on Artificial intelligence, p.798-804, July 13-17, 2008, Chicago, Illinois
+Kevin A. Roundy , Barton P. Miller, Hybrid analysis and control of malicious code, University of Wisconsin at Madison, Madison, WI, 2012
+Kevin A. Roundy , Barton P. Miller, Hybrid analysis and control of malware, Proceedings of the 13th international conference on Recent advances in intrusion detection, September 15-17, 2010, Ottawa, Ontario, Canada
+Paul Royal , Mitch Halpin , David Dagon , Robert Edmonds , Wenke Lee, PolyUnpack: Automating the Hidden-Code Extraction of Unpack-Executing Malware, Proceedings of the 22nd Annual Computer Security Applications Conference, p.289-300, December 11-15, 2006[doi>10.1109/ACSAC.2006.38]
+Russinovich, M. and Cogswell, B. 1997. Windows NT system call hooking. Dr. Dobb's J. 22, 1.
+B. Schwarz , S. Debray , G. Andrews, Disassembly of Executable Code Revisited, Proceedings of the Ninth Working Conference on Reverse Engineering (WCRE'02), p.45, October 29-November 01, 2002
+Sharif, M., Lanzi, A., Giffin, J., and Lee, W. 2008. Impeding malware analysis using conditional code obfuscation. In Proceedings of the Network and Distributed System Security Symposium (NDSS'08).
+Monirul Sharif , Andrea Lanzi , Jonathon Giffin , Wenke Lee, Automatic Reverse Engineering of Malware Emulators, Proceedings of the 2009 30th IEEE Symposium on Security and Privacy, p.94-109, May 17-20, 2009[doi>10.1109/SP.2009.27]
+Richard L. Sites , Anton Chernoff , Matthew B. Kirk , Maurice P. Marks , Scott G. Robinson, Binary translation, Communications of the ACM, v.36 n.2, p.69-81, Feb. 1993[doi>10.1145/151220.151227]
+Stepan, A. E. 2005. Defeating polymorphism: Beyond emulation. In Proceedings of the Virus Bulletin Conference.
+Stewart, J. 2007. Unpacking with ollybone. Online tutorial. http://www.joestewart.org/ollybone/tutorial.html.
+Szappanos, G. 2007. Exepacker blacklisting. Virus Bulletin.
+H. Theiling, Extracting safe and precise control flow from binaries, Proceedings of the Seventh International Conference on Real-Time Systems and Applications, p.23, December 12-14, 2000
+Trilling, S. 2008. Project green bay-calling a blitz on packers. CIO digest: Strategies and analysis from symantec. http://eval.symantec.com/mktginfo/enterprise/articles/biodigest_october08_magazine.pdf.
+Mike Van Emmerik , Trent Waddington, Using a Decompiler for Real-World Source Recovery, Proceedings of the 11th Working Conference on Reverse Engineering, p.27-36, November 08-12, 2004
+Vigna, G. 2007. Static disassembly and code analysis. In Malware Detection. Advances in Information Security. Vol. 27, Springer, 19--41.
+Carsten Willems , Thorsten Holz , Felix Freiling, Toward Automated Dynamic Malware Analysis Using CWSandbox, IEEE Security and Privacy, v.5 n.2, p.32-39, March 2007[doi>10.1109/MSP.2007.45]
+Glenn Wurster , P. C.  van Oorschot , Anil Somayaji, A Generic Attack on Checksumming-Based Software Tamper Resistance, Proceedings of the 2005 IEEE Symposium on Security and Privacy, p.127-138, May 08-11, 2005[doi>10.1109/SP.2005.2]
+Yason, M. V. 2007. The art of unpacking. Blackhat USA. http://www.blackhat.com/presentations/bh-usa-07/Yason/Presentation/bh-usa-07-yason.pdf.
+Yegneswaran, V., Saidi, H., and Porras, P. 2008. Eureka: A framework for enabling static analysis on malware. Tech. rep. SRI-CSL-08-01, SRI International.
+Yuschuk, O. 2000. OllyDbg. Version 1.10. http://www.ollydbg.de.

@@ -1,0 +1,94 @@
+Nitin Agrawal , Vijayan Prabhakaran , Ted Wobber , John D. Davis , Mark Manasse , Rina Panigrahy, Design tradeoffs for SSD performance, USENIX 2008 Annual Technical Conference on Annual Technical Conference, p.57-70, June 22-27, 2008, Boston, Massachusetts
+Sedat Akyürek , Kenneth Salem, Adaptive block rearrangement, ACM Transactions on Computer Systems (TOCS), v.13 n.2, p.89-121, May 1995[doi>10.1145/201045.201046]
+AMD. 2009. AMD NAND flash memory. Am30LV0064D datasheet.
+Dave Anderson , Jim Dykes , Erik Riedel, More than an interface: scsi vs. ata, Proceedings of the 2nd USENIX conference on File and storage technologies, p.18-18, March 31-April 02, 2003, San Francisco, CA
+Andrea C. Arpaci-Dusseau , Remzi H. Arpaci-Dusseau , Lakshmi N. Bairavasundaram , Timothy E. Denehy , Florentina I. Popovici , Vijayan Prabhakaran , Muthian Sivathanu, Semantically-smart disk systems: past, present, and future, ACM SIGMETRICS Performance Evaluation Review, v.33 n.4, March 2006[doi>10.1145/1138085.1138093]
+Andrew Birrell , Michael Isard , Chuck Thacker , Ted Wobber, A design for high-performance flash disks, ACM SIGOPS Operating Systems Review, v.41 n.2, p.88-93, April 2007[doi>10.1145/1243418.1243429]
+T. Bisson , S. A. Brandt, Reducing Hybrid Disk Write Latency with Flash-Backed I/O Requests, Proceedings of the 2007 15th International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems, p.402-409, October 24-26, 2007[doi>10.1109/MASCOTS.2007.57]
+Bisson, T., Brandt, S. A., and Long, D. D. E. 2007. A hybrid disk-aware spin-down algorithm with I/O subsystem support. In Proceedings of the IEEE International Conference on Performance, Computing, and Communications (IPCCC 07). 236--245.
+Enrique V. Carrera , Eduardo Pinheiro , Ricardo Bianchini, Conserving disk energy in network servers, Proceedings of the 17th annual international conference on Supercomputing, June 23-26, 2003, San Francisco, CA, USA[doi>10.1145/782814.782829]
+Enrique V. Carrera , Ricardo Bianchini, Improving Disk Throughput in Data-Intensive Servers, Proceedings of the 10th International Symposium on High Performance Computer Architecture, p.130, February 14-18, 2004[doi>10.1109/HPCA.2004.10023]
+Li-Pin Chang , Tei-Wei Kuo, Efficient management for large-scale flash-memory storage systems with resource conservation, ACM Transactions on Storage (TOS), v.1 n.4, p.381-418, November 2005[doi>10.1145/1111609.1111610]
+John A. Chandy, Dual actuator logging disk architecture and modeling, Journal of Systems Architecture: the EUROMICRO Journal, v.53 n.12, p.913-926, December, 2007[doi>10.1016/j.sysarc.2007.03.001]
+Li-Pin Chang , Tei-Wei Kuo , Shi-Wu Lo, Real-time garbage collection for flash-memory storage systems of real-time embedded systems, ACM Transactions on Embedded Computing Systems (TECS), v.3 n.4, p.837-863, November 2004[doi>10.1145/1027794.1027801]
+Dennis Colarelli , Dirk Grunwald, Massive arrays of idle disks for storage archives, Proceedings of the 2002 ACM/IEEE conference on Supercomputing, p.1-11, November 16, 2002, Baltimore, Maryland
+Igor Crk , Chris Gniady, Context-aware mechanisms for reducing interactive delays of energy management in disks, USENIX 2008 Annual Technical Conference on Annual Technical Conference, p.71-84, June 22-27, 2008, Boston, Massachusetts
+Yuhui Deng, RISC: A resilient interconnection network for scalable cluster storage systems, Journal of Systems Architecture: the EUROMICRO Journal, v.54 n.1-2, p.70-80, January, 2008[doi>10.1016/j.sysarc.2007.04.002]
+Yuhui Deng , Frank Wang , Na Helian , Sining Wu , Chenhan Liao, Dynamic and scalable storage management architecture for Grid Oriented Storage devices, Parallel Computing, v.34 n.1, p.17-31, January, 2008[doi>10.1016/j.parco.2007.10.003]
+Yuhui Deng , Frank Wang , Na Helian, EED: Energy Efficient Disk drive architecture, Information Sciences: an International Journal, v.178 n.22, p.4403-4417, November, 2008[doi>10.1016/j.ins.2008.07.022]
+Yuhui Deng, Exploiting the performance gains of modern disk drives by enhancing data locality, Information Sciences: an International Journal, v.179 n.14, p.2494-2511, June, 2009[doi>10.1016/j.ins.2009.02.002]
+Yuhui Deng , Brandon Pung, Conserving disk energy in virtual machine based environments by amplifying bursts, Computing, v.91 n.1, p.3-21, January 2011[doi>10.1007/s00607-010-0083-2]
+Douglis, F., Krishnan, P., and Marsh, B. 1994. Thwarting the energy-hungry disk. In Proceedings of the Winter USENIX Conference. 292--306.
+EMC. 2009. EMC in major storage performance breakthrough; first with enterprise-ready solid state flash drive technology. http://www.emc.com/about/news/press/us/2008/011408-1.htm
+Flash SSD Charts. 2009. http://www.tomshardware.tw/charts/flash-ssd-charts-2008/benchmarks,28.html.
+FUJITSU. 2009. FUJITSU NAND flash memory. MBM30LV0128 datasheet.
+Ganger, G. 2001. Blurring the line between oses and storage devices. Tech. rep., Carnegie Mellon University.
+Geist, R. and Daniel, S. 1987. A continuum of disk scheduling algorithms.ACM Trans. Comput. Syst. 5, 1, 77--92.
+Chris Gniady , Ali R. Butt , Y. Charlie Hu , Yung-Hsiang Lu, Program Counter-Based Prediction Techniques for Dynamic Power Management, IEEE Transactions on Computers, v.55 n.6, p.641-658, June 2006[doi>10.1109/TC.2006.87]
+Greenawalt, P. M. 1994. Modeling power management for hard disks. In Proceedings of the Conference on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems. 62--66.
+Sudhanva Gurumurthi , Anand Sivasubramaniam , Mahmut Kandemir , Hubertus Franke, Reducing Disk Power Consumption in Servers with DRPM, Computer, v.36 n.12, p.59-66, December 2003[doi>10.1109/MC.2003.1250884]
+Sudhanva Gurumurthi , Anand Sivasubramaniam , Vivek K. Natarajan, Disk Drive Roadmap from the Thermal Perspective: A Case for Dynamic Thermal Management, Proceedings of the 32nd annual international symposium on Computer Architecture, p.38-49, June 04-08, 2005[doi>10.1109/ISCA.2005.24]
+Sudhanva Gurumurthi , Anand Sivasubramaniam, Thermal issues in disk drive design: Challenges and possible solutions, ACM Transactions on Storage (TOS), v.2 n.1, p.41-73, February 2006[doi>10.1145/1138041.1138044]
+Sudhanva Gurumurthi, Should disks be speed demons or brainiacs?, ACM SIGOPS Operating Systems Review, v.41 n.1, January 2007[doi>10.1145/1228291.1228300]
+Hard Disk Drive with Multiple Spindles. 2011. http://www.freepatentsonline.com/20060044663.html
+T. Heath , E. Pinheiro , J. Hom , U. Kremer , R. Bianchini, Code transformations for energy-efficient device management, IEEE Transactions on Computers, v.53 n.8, p.974-987, August 2004[doi>10.1109/TC.2004.38]
+David P. Helmbold , Darrell D. E. Long , Tracey L. Sconyers , Bruce Sherrod, Adaptive disk spin—down for mobile computers, Mobile Networks and Applications, v.5 n.4, p.285-297, Dec. 2000[doi>10.1023/A:1019129116852]
+Herbst, G. 1997. IBM's drive temperature indicator processor (drive-TIP) helps ensure high drive reliability. IBM Whitepaper.
+Hitachi. 2009. Hitachi global storage technologies--HDD technology overview charts. http://www.hitachigst.com/hdd/technolo/overview/storagetechchart.html
+Hofri, M. 1980. disk scheduling: FCFS vs. SSTF revisited. Comm. ACM 23, 11, 645--653.
+W. Hsu , A. J. Smith, The performance impact of I/O optimizations and disk improvements, IBM Journal of Research and Development, v.48 n.2, p.255-289, March 2004[doi>10.1147/rd.482.0255]
+Jen-Wei Hsieh , Tei-Wei Kuo , Li-Pin Chang, Efficient identification of hot data for flash memory storage systems, ACM Transactions on Storage (TOS), v.2 n.1, p.22-40, February 2006[doi>10.1145/1138041.1138043]
+Intel. 2009. Intel NAND flash memory. JS29F16G08FANB1 datasheet.
+ITRS07. 2007. International technology roadmap for semiconductors. 2007 Edition.
+Hard Disk Controller: The Disk Drive's Brain and Body, Proceedings of the International Conference on Computer Design: VLSI in Computers & Processors, p.262, September 23-26, 2001
+Weihang Jiang , Chongfeng Hu , Yuanyuan Zhou , Arkady Kanevsky, Are disks the dominant contributor for storage failures?: a comprehensive study of storage subsystem failure characteristics, Proceedings of the 6th USENIX Conference on File and Storage Technologies, p.1-15, February 26-29, 2008, San Jose, California
+Karedla, R., Love, J. S., and Wherry, V. K. 1994. Caching strategies to improve disk system performance. Computer 27, 3, 38--46.
+Jeong-Uk Kang , Jin-Soo Kim , Chanik Park , Hyoungjun Park , Joonwon Lee, A multi-channel architecture for high-performance NAND flash-based storage system, Journal of Systems Architecture: the EUROMICRO Journal, v.53 n.9, p.644-658, September, 2007[doi>10.1016/j.sysarc.2007.01.010]
+Hyojun Kim , Seongjun Ahn, BPLRU: a buffer management scheme for improving random writes in flash storage, Proceedings of the 6th USENIX Conference on File and Storage Technologies, p.1-14, February 26-29, 2008, San Jose, California
+Kim, Y., Gurumurthi, S., and Sivasubramaniam, A. 2006. Understanding the performance-temperature interactions in disk I/O of server workloads. In Proceedings of the 12th International Symposium on High-Performance Computer Architecture. 176--186.
+George Lawton, Improved Flash Memory Grows in Popularity, Computer, v.39 n.1, p.16-18, January 2006[doi>10.1109/MC.2006.22]
+Jung-Hoon Lee , Gi-Ho Park , Shin-Dug Kim, A new NAND-type flash memory package with smart buffer system for spatial and temporal localities, Journal of Systems Architecture: the EUROMICRO Journal, v.51 n.2, p.111-123, February 2005[doi>10.1016/j.sysarc.2004.10.002]
+Li, K., Kumpf, R., Horton, P., and Anderson, T. E. 1994. Quantitative analysis of disk drive energy management in portable computers. In Proceedings of the USENIX Winter Conference. 279--291.
+Yung-Hsiang Lu , Giovanni de Micheli, Adaptive Hard Disk Power Management on Personal Computers, Proceedings of the Ninth Great Lakes Symposium on VLSI, p.50, March 04-06, 1999
+Christopher R. Lumb , Jiri Schindler , Gregory R. Ganger , David F. Nagle , Erik Riedel, Towards higher disk head utilization: extracting free bandwidth from busy disk drives, Proceedings of the 4th conference on Symposium on Operating System Design & Implementation, p.7-7, October 22-25, 2000, San Diego, California
+M. Mesnier , G. R. Ganger , E. Riedel, Object-based storage, IEEE Communications Magazine, v.41 n.8, p.84-90, August 2003[doi>10.1109/MCOM.2003.1222722]
+Rodney Van Meter, Observing the effects of multi-zone disks, Proceedings of the annual conference on USENIX Annual Technical Conference, p.2-2, January 06-10, 1997, Anaheim, California
+Nezu, T. 2009. HDD surface recording density to exceed 1Tb/inch2 in 2011. http://techon.nikkeibp.co.jp/english/NEWS_EN/20090604/171260/
+Spencer W. Ng, Advances in Disk Technology: Performance Issues, Computer, v.31 n.5, p.75-81, May 1998[doi>10.1109/2.675641]
+Athanasios E. Papathanasiou , Michael L. Scott, Energy efficient prefetching and caching, Proceedings of the annual conference on USENIX Annual Technical Conference, p.22-22, June 27-July 02, 2004, Boston, MA
+Perpendicular recording. 2009. http://en.wikipedia.org/wiki/Perpendicular_recording.
+Polte, M., Simsa, J., and Gibson, G. 2008. Comparing performance of solid state devices and mechanical disks. In Proceedings of the 3rd Petascale Data Storage Workshop held in conjunction with Supercomputing'08.
+Erik Riedel , Christos Faloutsos , Garth A. Gibson , David Nagle, Active Disks for Large-Scale Data Processing, Computer, v.34 n.6, p.68-74, June 2001[doi>10.1109/2.928624]
+Alma Riska , Erik Riedel , Sami Iren, Adaptive Disk Scheduling for Overload Management, Proceedings of the The Quantitative Evaluation of Systems, First International Conference, p.176-185, September 27-30, 2004[doi>10.1109/QEST.2004.4]
+Ruemmler, C. and Wilkes, J. 1994. An introduction to disk drive modeling. Comput. 27, 3, 17--28.
+Samsung. 2006. Samsung to unveil first commercial, hybrid hard drive prototype for windows vista at Winhec. http://www.samsung.com.
+Samsung. 2009a. Samsung NAND flash memory. K9F6408U0A-TCB0 datasheet.
+Samsung. 2009b. Samsung NAND flash memory. K9NBG08U5A datasheet.
+Samsung. 2009c. Samsung unveils 32GB flash hard drive. http://news.zdnet.co.uk/hardware/
+Samsung. 2009d. Samsung introduces working prototype of PRAM. http://www.eetimes.com/news/semi/showArticle.jhtml?articleID=192700709
+Bianca Schroeder , Garth A. Gibson, Disk failures in the real world: what does an MTTF of 1,000,000 hours mean to you?, Proceedings of the 5th USENIX conference on File and Storage Technologies, p.1-es, February 13-16, 2007, San Jose, CA
+Jiri Schindler , Steven W. Schlosser , Minglong Shao , Anastassia Ailamaki , Gregory R. Ganger, Atropos: A Disk Array Volume Manager for Orchestrated Use of Disks, Proceedings of the 3rd USENIX Conference on File and Storage Technologies, March 31-31, 2004, San Francisco, CA
+Jiri Schindler , John Linwood Griffin , Christopher R. Lumb , Gregory R. Ganger, Track-Aligned Extents: Matching Access Patterns to Disk Drive Characteristics, Proceedings of the Conference on File and Storage Technologies, p.259-274, January 28-30, 2002
+Steven W. Schlosser , John Linwood Griffin , David F. Nagle , Gregory R. Ganger, Designing computer systems with MEMS-based storage, Proceedings of the ninth international conference on Architectural support for programming languages and operating systems, p.1-12, November 2000, Cambridge, Massachusetts, USA[doi>10.1145/378993.378996]
+Seagate. 2009. Product manual: Cheetah X15 36LP disk drive. 2001. http://www.seagate.com/.
+Seek Distance. 2009. Seek distance dependent variable max VCM seek current to control thermal rise in VCM's. http://www.patentstorm.us/patents/6724564-description.html.
+Smith, A. J. 1978. On the effectiveness of buffered and multiple arm disks. In Proceedings of the 5th Annual Symposium on Computer Architecture. 242--248.
+S. W. Son , M. Kandemir , A. Choudhary, Software-Directed Disk Power Management for Scientific Applications, Proceedings of the 19th IEEE International Parallel and Distributed Processing Symposium (IPDPS'05) - Papers, p.4.2, April 04-08, 2005[doi>10.1109/IPDPS.2005.404]
+SPEC-Power and Performance. 2009. http://www.spec.org/power_ssj2008/
+Sri-Jayantha, M. 1995. Trends in mobile storage design. In Proceedings of the International Symposium on Low Power Electronics. 54--57.
+Staelin, C. and Garcia-Molina, H. 1990. Clustering active disk data to improve disk performance. Tech. rep. CS-TR-283-90. Department of Computer Science, Princeton University.
+Strom, B. D., Lee, S., Tyndall, G. W., and Khurshudov, A. 2007. Hard disk drive reliability modeling and failure prediction. IEEE Trans. Magnetics. 43, 9, 3676--3685.
+Subramanian, C. K., Andre, T. W., Nahas, J. J., Garni, B. J., Lin, H. S., Omair, A., and Martino, J. W. L. 2004. Design aspects of a 4 Mbit 0.18μ m 1T1MTJ toggle MRAM memory. In Proceedings of the IEEE International Conference on Integrated Circuit Design and Technology. 177--181.
+Sullivan, R. F. 2000. Alternating cold and hot aisles provides more reliable cooling for server farms. Tech. rep., Uptime Institute.
+Texas Memory Systems. 2009. RamSan-20. http://www.ramsan.com/products/ramsan-20.htm
+D. A. Thompson , J. S. Best, The future of magnetic data storage technology, IBM Journal of Research and Development, v.44 n.3, p.311-322, May 2000[doi>10.1147/rd.443.0311]
+Trainor, M. 2007. Overcoming disk drive access bottlenecks with intel robson technology. http://www.intel.com/technology/magazine/computing/robson-1206.htm.
+Ultrastar 15K147. 2009. Ultrastar 15K147 hard disk drives specifications. http://www.hitachigst.com/hdd/support/15k147/15k147.htm
+What Are Memristors&quest; 2009. http://www.memristor.org/reference/13/what-are-memristors.
+Worthington, B. L., Ganger, G. R., and Patt, Y. N. 1994. Scheduling algorithms for modern disk drives. In Proceedings of the ACM SIGMETRICS Conference on Measurement and Modeling of Computer Systems. 241--251.
+Yang, J. and Sun, F. 1999. A comprehensive review of hard-disk drive reliability. In Proceedings of the Annual Reliability and Maintainability Symposium. 403--409.
+YAFFS. 2009. Yet another flash file system. http://www.yaffs.net/.
+ZEUS. 2009. ZEUSIOPS 2GB fiber channel 3.5-inch solid state drive product manual.
+http://www.stec=inc.com/downloads/zeus_mach_manuals/ZeuslOPS_3_5 _fibre_Channel_Product_Manual.pdf
+Zheng, J., Guo, G., and Wang, Y. 2005. Identification and decentralized control of a dual-actuator hard disk drive system.IEEE Trans. Magnetics. 41, 9, 2515--2521.
+Qingbo Zhu , Zhifeng Chen , Lin Tan , Yuanyuan Zhou , Kimberly Keeton , John Wilkes, Hibernator: helping disk arrays sleep through the winter, Proceedings of the twentieth ACM symposium on Operating systems principles, October 23-26, 2005, Brighton, United Kingdom[doi>10.1145/1095810.1095828]

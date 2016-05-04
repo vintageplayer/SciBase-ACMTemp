@@ -1,0 +1,184 @@
+ADDISON, C. A. 1979. Implementing a stiff method based upon the second derivative formulas. Tech. Rep. 130, Dept. of Computer Science, Univ. of Toronto, Ont., Canada.
+AIKEN, R. C. 1982. Stiff review 1974-1982: 1. Applications. In Proceedings of the International Conference on Sti# Computation (Park City, Utah, Apr.). To be published in Stiff Computation, R. C. Aiken, Ed. Oxford Univ. Press, London and New York, 1985.
+ALBRECHT, P. 1978. On the order of composite multistep methods for ordinary differential equations. Numer. Math. 29, 381-396.
+ALEXANDER, R. 1977. Diagonally implicit Runge-Kutta methods for stiff O.D.E.'s. SINUM 14, 1006-1021.
+ANDRUS, J. F. 1979. Numerical solution of solution of ordinary differential equations separated into subsystems. SIAM J. Numer. Anal. 16, 605-611.
+BADER, G., AND DEUFLHARD, P. 1983. A semi-implicit mid-point rule for stiff differential systems of ordinary differential equations. Numer. Math. 41,373-398.
+David Barton, On Taylor Series and Stiff Equations, ACM Transactions on Mathematical Software (TOMS), v.6 n.3, p.280-294, Sept. 1980[doi>10.1145/355900.355902]
+BARTON, D., WILLERS, I. M., AND ZAHAR, R. V. M. 1971. Taylor series methods for ordinary differential equations--An evaluation. In Mathematical Software, J. R. Rice, Ed. Academic Press, New York, pp. 369-390.
+BEDET, R. A., ENRIGHT, W. H., AND HULL, T. E. 1975. STIFF DETEST: A program for comparing numerical methods for stiff ordinary differential equations. Tech. Rep. 81, Dept. of Computer Science, Univ. of Toronto, Ont., Canada.
+BETTIS, D. G. 1978. Efficient embedded Runge-Kutta methods. In Numerical Treatment of Differential Equations, Lecture Notes in Mathematics, vol. 631. Springer-Verlag, Berlin and New York, pp. 9-18.
+BiCKART, T. A. 1977. An efficient solution process for implicit Runge-Kutta methods. SINUM 14, 1022-1027.
+BICKART, T. A., AND PICEL, Z. 1973. High order stiffly stable composite multistep methods for numerical integration of stiff differential equations. BIT 13, 272-286.
+Ake Bjorck, A block QR algorithm for partitioning stiff differential systems., BIT, v.23 n.3, p.329-345, 1983[doi>10.1007/BF01934462]
+BJUREL, G., DAHLQUIST, G. G., LINDBERG, B., LINDE, S., AND ODEN, L. 1970. Survey of stiff ordinary differential equations. Rep. NA 70.11, Dept. of Information Processing, Royal institute of Technology, Stockholm, Sweden.
+BRAYTON, R. K., GUSTAVSON, F. G., AND HATCHEL, G. D. 1972. A new efficient algorithm for solving differential-algebraic systems using implicit backward differentiation formulas. Proc. IEEE 60, 98-108.
+Peter N Brown , Alan C Hindmarsh, Matrix-free methods for stiff systems of ODE's, SIAM Journal on Numerical Analysis, v.23 n.3, p.610-638, June 1986[doi>10.1137/0723039]
+BULIRSCH, g., AND STOER, J. 1966. Numerical treatment of ordinary differential equations by extrapolation methods. Numer. Math. 8, 1-13.
+BURRAGE, K. 1978. A special family of Runge-Kutta methods for solving stiff differential equations. BIT 28, 22-41.
+BURRAGE, K., BUTCHER, J. C., AND CHIPMAN, r. 1980. An implementation of singly-implicit Runge-Kutta methods. BIT 20, 326-340.
+BUTCHER, J. C. 1964a. Implicit Runge-Kutta processes. Math. Comput. 18, 50-64.
+BUTCHER, J. C. 1964b. integration processes based on Radau quadrature formulas. Math. Comput. 18, 233-243.
+BUTCHER, J. C. 1976. On the implementation of implicit Runge-Kutta methods. BIT 16, 237-240.
+J. C. Butcher, A Transformed implicit Runge-Kutta Method, Journal of the ACM (JACM), v.26 n.4, p.731-738, Oct. 1979[doi>10.1145/322154.322163]
+G. D. Byrne , A. C. Hindmarsh, A Polyalgorithm for the Numerical Solution of Ordinary Differential Equations, ACM Transactions on Mathematical Software (TOMS), v.1 n.1, p.71-96, March 1975[doi>10.1145/355626.355636]
+BYRNE, G. D., HINDMARSH, A. C., JACKSON, K. R., AND BROWN, H. G. 1977. A comparison of two ODE codes: GEAR and EPISODE. Comput. Chem. Eng. 1, 133-147.
+CARVER, M. B. 1976. The choice of algorithms in automated method of lines solution of partial differential equations. In Numerical Method for Differential Systems, L. Lapidus and W. E. Schiesser, Eds. Academic Press, Orlando, Fla., pp. 243-265.
+CARVER, M. B. 1977. Efficient handling of discontinuities and time delays in ordinary differential equation systems. In Proceedings o{ the International Con{erence SIMULATION 77 (Montreaux, Switzerland), pp. 153-158.
+CARVER, M. B. 1978. Efficient implementation over discontinuities in ordinary differential equation simulations. Math. Comput. Simulat. 20, 190-196.
+CARVER, M. B., AND BAUDOUIN, A. P. 1976. Solution of reactor kinetics problems using sparse matrix techniques in an ODE integrator for stiff equations. Atomic Energy of Canada Limited, Rep. AECL-5177, Jan. 1976.
+CARVER, M. B., AND MACEWEN, S. R. 1981. On the use of sparse matrix approximation to the Jacobian in integrating large sets of ordinary differential equations. SIAM J. Sci. Star. Comput. 2, 51-64.
+J. R. Cash, A Class of Implicit Runge-Kutta Methods for the Numerical Integration of Stiff Ordinary Differential Equations, Journal of the ACM (JACM), v.22 n.4, p.504-511, Oct. 1975[doi>10.1145/321906.321915]
+CASH, J. R. 1982a. A survey of Runge-Kutta methods for the numerical integration of stiff differential systems. In Proceedings o{ the International Con{erence on Stiff Computation (Park City, Utah, Apr.). To be published in Stiff Computation, R. C. Aiken, Ed. Oxford Univ. Press, New York and London, 1985.
+CASH, J. R. 1982b. Mono-implicit Runge-Kutta formulae for the numerical solution of stiff differential systems. IMA J. Numer. Anal. 2, 289-301.
+CHAN, T. F., AND JACKSON, g. R. 1983. Nonlinearly preconditioned Krylov subspace methods for discrete Newton algorithms. SlAM J. Sci. Star. Comput. 5, 533-542.
+CHAN, T. F., AND JACKSON, K. g. 1984. The use of iterative linear-equation solvers in codes for large systems of stiff IVPs for ODEs. Tech. Rep. TR 170/84, Dept. of Computer Science, Univ. of Toronto, Ont., Canada.
+CHANG, J. S., HINDMARSH, A. C., AND MADSEN, N. K. 1974. Simulation of chemical kinetics transport in the stratosphere. In Stiff Differential Systems, R. Willoughby, Ed. Plenum, New York, pp. 51-65.
+CHIPMAN, F. H. 1971. A-stable Runge-Kutta processes. BIT 11,384-388.
+Thomas F. Coleman , Burton S. Garbow , Jorge J. More, Software for estimating sparse Jacobian matrices, ACM Transactions on Mathematical Software (TOMS), v.10 n.3, p.329-345, Sept. 1984[doi>10.1145/1271.1610]
+COOPER, J. F., AND SAYFY, A. 1979. Semi-explicit, A-stable Runge-Kutta methods. Math. Comput. 33, 541-556.
+George Corliss , Y. F. Chang, Solving Ordinary Differential Equations Using Taylor Series, ACM Transactions on Mathematical Software (TOMS), v.8 n.2, p.114-144, June 1982[doi>10.1145/355993.355995]
+CURTIS, A. R. 1980. The FACSIMILE numerical integrator for stiff ordinary differential problems. In Computational Techniques for Ordinary Differential Equations, I. Gladwell and D. K. Sayers, Eds. Academic Press, Orlando, Fla.
+CURTIS, A. R., POWELL, M. J. D., AND REID, J. X. 1974. On the estimation of sparse Jacobian matrices. J. IMA 13, 117-119.
+CURTIS, C. E., AND HIRSCHFELDER, J. O. 1952. Integration of stiff equations. Proc. Nat. Acad. Sci. U.S. 38, 235-243.
+DAHLQUIST, G. G. 1963. A special stability property for linear multistep methods. BIT 3, 27-43.
+DAHLQUIST, G. G. 1981. On the control of the global error in stiff initial value problems. In Numerical Analysis, Dundee 1981, Springer Lecture Notes in Mathematics, vol. 912, Springer- Verlag, Berlin and New York, pp. 38-49.
+Germund Dahlquist , Ake Bjorck, Numerical Methods, Dover Publications, Incorporated, 2003
+DAY, J. D., AND MURTHY, I). N. 1982. Two classes of internally S-stable generalized Runge-Kutta processes which remain consistent with an inaccurate Jacobian. Math. Comput. 39, 491-509.
+DEUFLHARD, P. 1983. Order and stepsize control in extrapolation methods. Numer. Math. 41,399- 422.
+DEUFLHARD, P., BAUER, G., AND NOWAK, U. 1980. LARKIN--A software package for the numerical integration of LARge systems arising in chemical reaction KINetics. SFB 123, Tech. Rep. 100, University of Heidelberg, Heidelberg, West Germany.
+DEW, P. M., ANo WEST, M. R. 1979. Estimating and controlling the global error in Gear's method. BIT 19, 135-137.
+DONELSON, J., IiI, AND HANSEN, E. 1971. Cyclic composite multistep predictor-corrector methods. SINUM 8, 137-147.
+EHLE, B. L. 1968. High order A-stable methods for the numerical solution of systems of differential equations. BIT 8, 276-278.
+EHLE, B. L. 1972. A comparison of numerical methods for solving certain stiff ordinary differential equations. Rep. 70, Dept. of Mathematics, Univ. of Victoria, B.C., Canada.
+ELLISON, D. 1980. Efficient automatic integration of ordinary differential equations with discontinuities. Math. Comput. Simulat. 23, 12-20.
+ENRIGHT, W. H. 1972. Studies in the numerical solution of stiff ordinary differential equations. Tech. Rep. 46, Dept. of Computer Science, University of Toronto, Ont., Canada.
+ENRIGHT, W. H. 1974. Optimal second derivative methods for stiff systems. In Stiff Differential Systems, R. Willoughby, Ed. Plenum, New York, pp. 95-109.
+W. H. Enright, Improving the Efficiency of Matrix Operations in the Numerical Solution of Stiff Ordinary Differential Equations, ACM Transactions on Mathematical Software (TOMS), v.4 n.2, p.127-136, June 1978[doi>10.1145/355780.355784]
+ENRIGHT, W. H. 1982. Pitfalls in the comparison of numerical methods for stiff ordinary differential equations. In Proceedings of the International Conference on Stiff Computation (Park City, Utah, Apr.). To be published in Stiff Computation, R. C. Aiken, Ed. Oxford Univ. Press, New York and London, 1985.
+ENRIGHT, W. H., AND HULL, T. E. 1976a. Test results on initial value methods for non-stiff ordinary differential equations. SINUM 13, 944-961.
+ENRIGHT, W. H., AND HULL, T. E. 1976b. Comparing numerical methods for the solution of stiff systems of ODEs arising in chemistry. In Numerical Methods for Differential Systems, L. Lapidus and W. E. Schiesser, Eds. Academic Press, Orlando, Fla., pp. 45-66.
+W. H. Enright , M. S. Kamel, Automatic Partitioning of Stiff Systems and Exploiting the Resulting Structure, ACM Transactions on Mathematical Software (TOMS), v.5 n.4, p.374-385, Dec. 1979[doi>10.1145/355853.355855]
+ENRIGHT, W. H., HULL, T. E., AND LINDBERG, B. 1975. Comparing numerical methods for stiff systems of ODEs. BIT 15, 10-48.
+FEHLBERG, E. 1969. Klassische Runge-Kutta-Formeln f/infter und siebenter Ordnung mit Schrittweiten-Kontrolle. Computing 4, 93-106.
+George E. Forsythe , Michael A. Malcolm , Cleve B. Moler, Computer Methods for Mathematical Computations, Prentice Hall Professional Technical Reference, 1977
+Fox, P. A. 1971. Integration of first order systems of differential equations. In Mathematical Software, J. Rice, Ed. Academic Press, Orlando, Fla., chap. 9, pp. 477-507.
+GArFNEY, P. W. 1982. A survey of FORTRAN subroutines suitable for solving stiff oscillatory differential equations. Tech. Memo. ORNL/CSD/TM-134, Oak Ridge National Laboratory, Oak Ridge, Tenn.
+Patrick W. Gaffney, A Performance Evaluation of Some FORTRAN Subroutines for the Solution of Stiff Oscillatory Ordinary Differential Equations, ACM Transactions on Mathematical Software (TOMS), v.10 n.1, p.58-72, March 1984[doi>10.1145/356068.356073]
+GALLIVAN, K. A. 1983. An algorithm for the detection and integration of highly oscillatory ordinary differential equations using a generalized unified modified divided difference representation. Tech. Rep. UIUCDCS-R-83-1121, Dept. of Computer Science, Univ. of Illinois, Urbana-Champaign, June.
+C. W. Gear, The automatic integration of ordinary differential equations, Communications of the ACM, v.14 n.3, p.176-179, March 1971[doi>10.1145/362566.362571]
+C. W. Gear, Algorithm 407: DIFSUB for solution of ordinary differential equations [D2], Communications of the ACM, v.14 n.3, p.185-190, March 1971[doi>10.1145/362566.362573]
+C. William Gear, Numerical Initial Value Problems in Ordinary Differential Equations, Prentice Hall PTR, Upper Saddle River, NJ, 1971
+GEAR, C. W. 1971d. Simultaneous numerical solution of differential/algebraic equations. IEEE Trans. Circuit Theory CT- 18, 89-95.
+GEAR, C. W. 1974. Multirate methods for ordinary differential equations. Tech. Rep. UIUCDCS- 74-880, Dept. of Computer Science, Univ. of Illinois, Urbana-Champaign, Sept.
+GEAR, C. W. 1980. Automatic multirate methods for ordinary differential equations. Tech. Rep. UIUCDCS-R-80-1000, Dept. of Computer Science, Univ. of Illinois, Urbana-Champaign, Jan.
+GEAR, C. W. 1981. Numerical solution of ordinary differential equations: Is there anything left to do? SIAM Rev. 23, 10-24.
+GEAR, C. W. 1982. Stiff software: What do we have and what do we need? In Proceedings of the International Conference on Stiff Computation (Park City, Utah, Apr.). To be published in Stiff Computation, R. C. Aiken, Ed. Oxford Univ. Press, London and New York, 1985.
+GEAR, C. W., AND GALLIVAN, K. A. 1982. Automatic methods for highly oscillatory ordinary differential equations. In Proceedings of the Biennial Dundee Conference on Numerical Analysis, Dundee, Lecture Notes in Mathematics, vol. 912. Springer-Verlag, Berlin, and New York, pp. 115-124.
+C. W. Gear , O. Osterby, Solving Ordinary Differential Equations with Discontinuities, ACM Transactions on Mathematical Software (TOMS), v.10 n.1, p.23-44, March 1984[doi>10.1145/356068.356071]
+GEAR, C. W., AND PETZOLD, L. R. 1984. ODE methods for the solution of differential/algebraic systems. SIAM J. Numer. Anal. 21,716-728.
+GEAR, C. W., AND SAAD, Y. 1983. Iterative solution of linear equations in ODE codes. SIAM J. Sci. Stat. Comput. 4, 583-601.
+GEAR, C. W., AND TU, K. W. 1974. The effect of variable mesh size on the stability of multistep methods. SINUM 11, 1025-1043.
+Ian Gladwell, Initial Value Routines in the NAG Library, ACM Transactions on Mathematical Software (TOMS), v.5 n.4, p.386-400, Dec. 1979[doi>10.1145/355853.355856]
+GLADWELL, I., CRAIGIE, J. A. I., AND CROWTHER, C. R. 1979. Testing initial-value problem subroutines as black boxes. Numerical Analysis Rep. 34, Dept. of Mathematics, Univ. of Manchester, U.K.
+GOURLAY, A. R., AND WATSON, D. D. 1974. An implementation of Gear's algorithm for CSMP III. In Stiff Differential Systems, R. Willoughby, Ed. Plenum, New York, pp. 123-134.
+GRAGG, W. B. 1965. On extrapolation algorithms for ordinary initial value problems. SINUM 2, 384-4O3.
+GUPTA, G. K. 1976. Some new high-order multistep formulae for solving stiff equations. Math. Comput. 30, 417-432.
+G. K. Gupta, A Note About Overhead Costs in ODE Solvers, ACM Transactions on Mathematical Software (TOMS), v.6 n.3, p.319-326, Sept. 1980[doi>10.1145/355900.355904]
+GUPTA, G. K. 1982. Description and evaluation of a stiff ODE code DSTIFF. Paper presented at the International Conference on Stiff Computation (Park City, Utah). To appear in SIAM J. Sci. Stat. Comput.
+GUPTA, G. K., AND WALLACE, C. S. 1975. Some new multistep methods for solving ordinary differential equations. Math. Comput. 29, 489-500.
+HAIRER, E., BADER, G., AND LUBiCH, C. 1982. On the stability of semi-implicit methods for ordinary differential equations. BIT 22, 211-232.
+HALL, G., ENRIGHT, W. H., HULL, T. E., AND SEDGWICK, A. E. 1973. DETEST: A program for comparing numerical methods for ordinary differential equations. Tech. Rep. 60, Dept. of Computer Science, Univ. of Toronto, Ont., Canada.
+HENRiCI, P. 1962. Discrete Variable Methods for Ordinary Differential Equations. Wiley, New York.
+HINDMARSH, A. C. 1974. GEAR: Ordinary differential equation system solver. Rep. UICD-30001, Rev. 3, Univ. of California, Lawrence Livermore Laboratories, Lawrence, Calif.
+HINDMARSH, A. C. 1976. Preliminary documentation of GEARBI: Solution of ODE systems with block-iterative treatment of the Jacobian. Rep. UICD-30149, Lawrence Livermore National Laboratories, Lawrence, Calif., Dec.
+HINDMARSH, A. C. 1980. LSODE and LSODI, two new initial value ordinary differential equation solvers. ACM SIGNUM Newsl. 15, 10-11.
+HINDMARSH, A. C. 1981. ODE solvers for use with the method of lines. In Advances in Computer Methods for Partial Differential Equations--IV, R. Vichnevetsky and R. S. Stepleman, Eds. IMACS, New Brunswick, N.J., pp. 312-316.
+HINDMARSH, A. C. 1983. ODEPACK, A systematized collection of ODE solvers. In Scientific Computing, R. S. Stepleman et al., Eds., North-Holland Publ., Amsterdam, pp. 55-64.
+HULL, T. E., AND ENRIGHT, W. H. 1974. A structure for programs that solve ordinary differential equations. Tech. Rep. 66, Dept. of Computer Science, Univ. of Toronto, Ont., Canada.
+HULL, T. E., ENRIGHT, W. H., FELLEN, B. M., AND SEDGWICK, A. E. 1972. Comparing numerical methods for ordinary differential equations. SINUM 9, 603-637.
+HULL, T. E., ENRIGHT, W. H., AND JACKSON, K. R. 1976. User's guide for DVERK--A subroutine for solving non-stiff ODE's. Tech. Rep. 100, Dept. of Computer Science, Univ. of Toronto, Ont., Canada.
+HUSSELS, H. G. 1973. Schrittenweitensteurung bei der Integration gew/~hnlicher Differentialgleichungen mit Extrapolationsverfahren. Master's thesis, Univ. of Cologne, Cologne, West Germany.
+K. R. Jackson , R. Sacks-Davis, An Alternative Implementation of Variable Step-Size Multistep Formulas for Stiff ODEs, ACM Transactions on Mathematical Software (TOMS), v.6 n.3, p.295-318, Sept. 1980[doi>10.1145/355900.355903]
+JACKSON, L. W., ANO SEDGWlCK, A. E. 1977. Vandermonde matrices, coordinate transformations and Adams' methods. Tech. Rep. TR77-5, Dept. of Computing Science, Univ. of Alberta, Alberta, Canada.
+KAPS, P., AND RENTROP, P. 1979. Generalized Runge-Kutta methods of order four with stepsize control for stiff ordinary differential equations. Numer. Math. 33, 55-68
+KAPS, P., AND WANNER, G. 1981. A study of Rosenbrock type methods of high order. Numer. Math. 38, 279-298.
+KLOPFENSTEIN, R. W. 1971. Numerical differentiation formulas for stiff systems of ordinary differential equations. RCA Rev. 32, 447-462.
+KONG, A. K. 1977. A search for better linear multistep methods for stiff problems. Tech. Rep. UIUCDCS-R-77-899, Dept. of Computer Science, Univ. of Illinois, Urbana-Champaign, Dec.
+KRO(;H, F. T. 1969. A variable step, variable order multistep method for the numerical solution of ODE's. In Information Processing 68, A. J. H. Morrel, Ed. North-Holland Publ., Amsterdam, pp. 194-199.
+Fred T. Krogh, On Testing a Subroutine for the Numerical Integration of Ordinary Differential Equations, Journal of the ACM (JACM), v.20 n.4, p.545-562, Oct. 1973[doi>10.1145/321784.321786]
+Fred T. Krogh , Kris Stewart, Asymptotic (h\rightarrow\infty) Absolute Stability for BDFs Applied to Stiff Differential Equations, ACM Transactions on Mathematical Software (TOMS), v.10 n.1, p.45-57, March 1984[doi>10.1145/356068.356072]
+LAMBERT, J. D. 1973. Computational Methods in Ordinary Differential Equations. Wiley, New York.
+LAMBERT, J. D. 1980. Stiffness. In Computational Techniques for Ordinary Differential Equations, I. Gladwell and D. K. Sayers, Eds. Academic Press, Orlando, Fla.
+LAMBERT, J. D., AND SIGURDSSON, S. T. 1972. Multistep methods with variable matrix coefficients. SINUM 9, 715-733.
+LINDBERG, B. 1971. On smoothing and extrapolation for the trapezoidal rule. BIT 11, 29-52.
+LINDBERG, B. 1972. Error estimate and stepsize strategy for the implicit midpoint rule with smoothing and extrapolation. Rep. NA 72.59, Dept. of Information Processing, Royal Institute of Technology, Stockholm, Sweden.
+LINDBERO, B. 1973. IMPEX2, a procedure for solution of systems of stiff differential equations. Rep. NA 73.03, Dept. of Information Processing, Royal Institute of Technology, Stockholm, Sweden.
+LINIGER, W. 1976. High Order A-stable averaging algorithms for stiff differential equations. In Numerical Methods {or Differential Systems, L. Lapidus and W. E. Schiesser, eds. Academic Press, Orlando, Fla., pp. 1-23.
+LImGER, W., A~D OOEH, F. 1972. A-stable accurate averaging of multistep methods for stiff differential equations. IBM J. Res. Develop. 16, 335-348.
+MIHELCIC, M. 1977. Fast A-stabile Donelson-Hansensche zyklische Verfahren zur numerischen Integration von 'stiff' Differentialgleichungssystemen. Angew. In{orm. 7, 299-305.
+NOROSIECK, A. 1962. On numerical integration of ordinary differential equations. Math. Comput. 16, 22-49.
+NORSF. TT, S. P. 1974. Semi-explicit Runge-Kutta methods. Mathematics and Computation, Rep. No. 6/74, Mathematics Dept., Univ. of Trondheim, Trondheim, Norway.
+ORAII~OGLU, A. 1979. A multirate ordinary differential equation integrator. Tech. Rep. UIUCDCS- Ro79-959, Dept. of Computer Science, Univ. of Illinois, Urbana-Champaign, Mar.
+PETZOLO, L. R. 1978. An efficient numerical method for highly oscillatory ordinary differential equations. SINUM 18, 455-479.
+PETZOLD, L. R. 1982. Differential/algebraic equations are not ODEs. SIAM J. Sci. Stat. Comput. 3, 367-384.
+PETZOLD, L. R. 1983a. Automatic selection of methods for solving stiff and non-stiff systems of ordinary differential equations. SIAM J. Sci. Stat. Comput. 4, 136-148.
+PETZOLD, L. R. 1983b. A description of DASSL, a differential-algebraic system solver. In Scientific Computing, R. S. Stepleman et al., Eds. North-Holland Publ., Amsterdam, pp. 65-68.
+PIOTROWSKI, P. 1969. Stability, consistence and convergence of variable, K-step methods for numerical integration of systems of ordinary differential, in Lecture Notes in Mathematics, vol. 109. Springer-Verlag, Berlin and New York, pp. 221-227.
+ROSENBROCK, H. H. 1963. Some implicit processes for the numerical solution of differential equations. Comput. J. 5, 329-330.
+ROSSER, J. B. 1967. A Runge-Kutta for all seasons. SIAM Rev. 9, 417-452.
+R. Sacks-Davis, Fixed Leading Coefficient Implementation of SD-Formulas for Stiff ODEs, ACM Transactions on Mathematical Software (TOMS), v.6 n.4, p.540-562, Dec. 1980[doi>10.1145/355921.355926]
+SACKS-DAVIS, R., A~O SHAMPI~E, L. F. 1981. A type-insensitive ODE code based on second derivative formulas. Comput. Math. Appl. 7, 487-495.
+SCHEIO, R. E., JR. 1983. The accurate numerical solution of highly oscillatory ordinary differential equations. Math. Comput. 41,487-509.
+SEAGER, M. K., AND BALSOON, S. 1982. LSODIS, a sparse implicit ODE solver. In Proceedings o{ the lOth IMACS World Congress (Montreal, Aug.). IMACS, New Brunswick, N. J.
+SEOGWlCK, A. E. 1973. An effective variable order variable stepsize Adams method. Tech. Rep. 53, Dept. of Computer Science, Univ. of Toronto, Ont., Canada.
+L. F. Shampine, Stiffness and Nonstiff Differential Equation Solvers, II: Detecting Stiffness with Runge-Kutta Methods, ACM Transactions on Mathematical Software (TOMS), v.3 n.1, p.44-53, March 1977[doi>10.1145/355719.355722]
+SHAMPINE, L. F. 1979. Evaluation of implicit formulas for the solution of ODEs. BIT 19, 495-502.
+SHAMPINE, L. F. 1980a. Lipschitz constants and robust ODE codes. In Computational Methods in Nonlinear Mechanics, J. T. Oden, Ed. North-Holland Publ., Amsterdam.
+SHAMPINE, L. F. 1980b. Implementation of implicit formulas for the solution of ODEs. SIAM J. Sci. Stat. Comput. 1,119-130.
+Lawrence F. Shampine, Evaluation of a Test Set for Stiff ODE Solvers, ACM Transactions on Mathematical Software (TOMS), v.7 n.4, p.409-420, Dec. 1981[doi>10.1145/355972.355973]
+SHAMPiNE, L. F. 1981b. Type-insensitive ODE codes based on implicit A-stable methods. Math. Comput. 36, 499-510.
+SHAMPINE, L. F. 1982a. Type-insensitive codes based on A (a)-stable formulas. Math. Comput. 39, 109-123.
+SHAMPINE, L. F. 1982b. Type-insensitive codes based on extrapolation methods. Tech. Rep. SAND82-1195, Sandia National Laboratories, Albuequerque, N. M., June.
+L. F. Shampine, Implementation of Rosenbrock Methods, ACM Transactions on Mathematical Software (TOMS), v.8 n.2, p.93-113, June 1982[doi>10.1145/355993.355994]
+SHAMPINE, L. F. 1982d. What is stiffness? Tech. Rep. SAND82-0782, Sandia Laboratories, Albuquerque, N. M., May.
+SHAMPINE, L. F. 1982e. Global error estimation for stiff ODEs. Tech. Rep. SAND82-2517, Sandia Laboratories, Albuquerque, N. M., Dec.
+SHAMPINE, L. F. 1983. Measuring stiffness. Tech. Rep. SAND83-1119, Sandia Laboratories, Albuquerque, N. M., June.
+SHAMPINE, L. F,, ANn GEAR, C. W. 1979, A user's view of solving stiff ordinary differential equations. SIAM ReD. 21, 1-17.
+SHAMPiNE, L. F., AND GORDON, M. K. 1975. Computer Solution of Ordinary Differential Equations. Freeman, San Francisco, Calif.
+SHAMPINE, L. F,, AND WATTS, H, A. 1969. Block implicit one-step methods. Math. Comput. 23, 731-740.
+L. F. Shampine , H. A. Watts, Global Error Estimates for Ordinary Differential Equations, ACM Transactions on Mathematical Software (TOMS), v.2 n.2, p.172-186, June 1976[doi>10.1145/355681.355687]
+SHAMPINE, L. F., AND WATTS, H. A. 1977. The art of writing a Runge-Kutta code, Part I. In Mathematical Software III, J. R. Rice, Ed. Academic Press, Orlando, Fla., pp. 257-276.
+SHAMPINE, L. F., AND WATTS, H. A. 1979. The art of writing a Runge-Kutta code, Part II. Appl. Math. Comput. 5, 93-121.
+S~AMPINE, L. F., AND WATTS, H. A. 1980. DEPAC: Design of a user oriented package of ODE solvers. Tech. Rep. SAND79-2374, Sandia Laboratories, Albuquerque, N. M.
+SHAMPiNE, L. F., AND WATTS, H. A. 1984. Software for ordinary differential equations. In Sources and Development of Mathematical Software, L. R. Cowell, Ed. Prentice-Hall, Englewood Cliffs, N. J., pp. 112-133.
+SHAMPINE, L. F., WATTS, H. A., AND DAVENPORT, S. M. 1975. Solving non-stiff ordinary differential equations--The state of the art. SIAM Rev. 18, 376-411.
+SHAMPINE, L. F., GORDON, M. K., AND WISNiEWSKI, J. A. 1980. Variable order Runge-Kutta Codes. In Computational Techniques for Ordinary Differential Equations, I. Gladwell and D. K. Sayers, Eds. Academic Press, Orlando, Fla., pp. 83-102.
+SHERMAN, A. H., AND HINDMARSH, A. C. 1980. GEARS: A package for the solution of sparse stiff ordinary differential equations. In Electrical Power Problems: The Mathematical Challenge, A. M. Erisman, K. W. Neves, and M. H. Dwarakanath, Eds. SIAM, Philadelphia, Pa., pp. 190-200.
+Richard F. Sincovec , Niel K. Madsen, Software for Nonlinear Partial Differential Equations, ACM Transactions on Mathematical Software (TOMS), v.1 n.3, p.232-260, Sept. 1975[doi>10.1145/355644.355649]
+SINGHAL, A. 1980. Implicit Runge-Kutta formulae for the numerical integration of ODE's. Ph.D. dissertation, Dept. of Mathematics, Univ. of London, London, England.
+Robert D. Skeel , Antony K. Kong, Blended Linear Multistep Methods, ACM Transactions on Mathematical Software (TOMS), v.3 n.4, p.326-345, Dec. 1977[doi>10.1145/355759.355762]
+S~EL}SOE, S., AND CHRISTIANSEN, B. 1981. Backward differentiation formulas with extended regions of absolute stability. BIT 21,221-231.
+Harry M. Sloate , Theodore A. Bickart,A-Stable Composite Multistep Methods, Journal of the ACM (JACM), v.20 n.1, p.7-26, Jan. 1973[doi>10.1145/321738.321740]
+STE{HAUG, T., AND WOLFBRANDT, A. 1979. An attempt to avoid exact Jacobian and non-linear equations in the numerical solution of stiff differential equations. Math. Comput. 33, 521-534.
+STETTER, H. g. 1974. Economical global error estimation. In Stiff Differential Systems, R. A. Willoughby, Ed. Plenum, New York, pp. 245-258.
+STETTER, H. J. 1978. Global error estimation in ODE-solvers. In Proceedings of the Biennial Dundee Conference, Lecture Notes in Mathematics, vol. 630. Springer-Verlag, Berlin and New York, pp. 179-189.
+Hans J. Stetter, Global Error Estimation in Adams PC-Codes, ACM Transactions on Mathematical Software (TOMS), v.5 n.4, p.415-430, Dec. 1979[doi>10.1145/355853.355858]
+STETTER, H. J. 1979b. Interpolation and error estimation in Adams PC-codes. SINUM 16, 311- 322.
+Joel M. Tendler , Theodore A. Bickart , Zdenek Picel, A stiffly stable integration process using cyclic composite methods, ACM Transactions on Mathematical Software (TOMS), v.4 n.4, p.339-368, December 1978[doi>10.1145/356502.356495]
+THOMSON, S., AND TUTTLE, P. G. 1982. The solution of several representative stiff problems in an industrial environment: The evolution of an ODE solver. In Proceedings of the International Conference on Stiff Computation (Park City, Utah, Apr.). To be published in Stiff Cornputation, R. C. Aiken, Ed. Oxford Univ. Press, London and New York, 1985.
+TISCHER, P. E., AND GUPTA, G. K. 1983. Some new cyclic linear multistep formulas for stiff systems. Tech. Rep. 40, Dept. of Computer Science, Monash Univ., Clayton, Victoria 3168, Australia.
+TlSCHER, P. E., AND SACKS-DAVIS, R. 1983. A new class of cyclic multistep formulae for stiff systems. SIAM J. Sci. Star. Comput. 4, 733-747.
+VAN BOKHOVEN, W. M. G. 1980. Efficient high order implicit one-step methods for integration of stiff differential systems. BIT 20, 34-43.
+VARAH, J. M. 1978. Stiffly stable linear multistep methods of extended order. SINUM 16, 1234- 1246.
+VERNER, J. H. 1978. Explicit Runge-Kutta methods with estimates of the local truncation error. SiNUM 15, 772-790.
+VERNER, J. H. 1979. Families of embedded Runge-Kutta methods. SINUM 5, 857-875.
+WALLACE, C. S., AND GUPTA, G. K. 1973. General linear multistep methods to solve ordinary differential equations. Aust. Cornput. J. 5, 62-69.
+WANNER, G., HAIRER, E., AND N~RSETT, S. P. 1978. Order stars and stability theorems. BIT 18, 475-489.
+David S. Watkins , Ralph W. HansonSmith, The Numerical Solution of Separably Stiff Systems by Precise Partitioning, ACM Transactions on Mathematical Software (TOMS), v.9 n.3, p.293-301, Sept. 1983[doi>10.1145/356044.356046]
+WATTS, H. A. 1983. Starting step size for an ODE solver. J. Comput. Appl. Math. 9, 177-191.
+WATTS, H. A., AND SHAMPINE, L. F. 1971. A-Stable block-implicit methods. BIT 12, 252-266.
+WELLS, D. R. 1982. Multirate linear multistep methods for the solution of systems of ordinary differential equations. Tech. Rep. UIUCDCS-R-82-1093, Dept. of Computer Science, Univ. of Illinois, Urbana-Champaign, July.
+WILLIAMS, J., AND DEHoo0, F. 1974. A class of A-stable advanced multistep methods. Math. Comput. 28, 163-178.
+WOLFBRANDT, A. 1977. A study of Rosenbrock processes with respect to order conditions and stiff stability. Ph.D. dissertation, Chalmers Univ. of Technology, G~teborg, Sweden.
+ZADUNAISKY, P. E. 1976. On the estimation of errors propagated in the numerical integration of ordinary differential equations. Numer. Math. 27, 21-39.

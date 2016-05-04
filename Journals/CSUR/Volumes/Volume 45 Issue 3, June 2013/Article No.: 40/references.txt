@@ -1,0 +1,99 @@
+Keith Adams , Ole Agesen, A comparison of software and hardware techniques for x86 virtualization, Proceedings of the 12th international conference on Architectural support for programming languages and operating systems, October 21-25, 2006, San Jose, California, USA[doi>10.1145/1168857.1168860]
+Arcangeli, A., Eidus, I., and Wright, C. 2009. Increasing memory density by using ksm. In Proceedings of the Linux Symposium (OLS'09). 19--28.
+Ahmed M. Azab , Peng Ning , Zhi Wang , Xuxian Jiang , Xiaolan Zhang , Nathan C. Skalsky, HyperSentry: enabling stealthy in-context measurement of hypervisor integrity, Proceedings of the 17th ACM conference on Computer and communications security, October 04-08, 2010, Chicago, Illinois, USA[doi>10.1145/1866307.1866313]
+Ahmed M. Azab , Peng Ning , Xiaolan Zhang, SICE: a hardware-level strongly isolated computing environment for x86 multi-core platforms, Proceedings of the 18th ACM conference on Computer and communications security, October 17-21, 2011, Chicago, Illinois, USA[doi>10.1145/2046707.2046752]
+Fabrice Bellard, QEMU, a fast and portable dynamic translator, Proceedings of the annual conference on USENIX Annual Technical Conference, p.41-41, April 10-15, 2005, Anaheim, CA
+Bellard, F. 2008. QEMU. http://wiki.gemu.org/indx.html.
+Bencsáth, B., Pék, G., Buttyán, L., and Félegyházi, M. 2011. Duqu: A stuxnet-like malware found in the wild. Tech. rep., BME CrySyS Lab.
+Bert. 2010. Which ESX version am I running on &quest; http://virtwo.blogspot.hu/2010/04/which-esx-version-am-i-running-on.html.
+Sven Bugiel , Stefan Nürnberger , Thomas Pöppelmann , Ahmad-Reza Sadeghi , Thomas Schneider, AmazonIA: when elasticity snaps back, Proceedings of the 18th ACM conference on Computer and communications security, October 17-21, 2011, Chicago, Illinois, USA[doi>10.1145/2046707.2046753]
+Butler, J. M. and Vandenbrink, R. 2009. IT audit for the virtual environment. SANS Whitepaper. http://www.sans.org/.
+Chen, X., Andersen, J., Mao, Z. M., Bailey, M., and Nazario, J. 2008. Towards an understanding of anti-virtualization and anti-debugging behavior in modern malware. In Proceedings of the 38th Annual IEEE International Conference on Dependable Systems and Networks (DSN'08). 177--186.
+Cisco and VMware. 2009. DMZ virtualization using VMware vSphere 4 and the Cisco Nexus 1000V virtual switch. http://www.VMWare.com/resources/tech resource/10035.
+Citrix. 2007. XenServer. http://www.citrix.com/English/ps2/products/product.asp&quest;contentID\=683148.
+Dagon, D., Qin, X., Gu, G., Lee, W., Grizzard, J., Levine, J., and Owen, H. 2004. Honeystat: Local worm detection using honeypots. In Proceedings of the 7th International Symposium on Recent Advances in Intrusion Detection (RAID). 39--58.
+Artem Dinaburg , Paul Royal , Monirul Sharif , Wenke Lee, Ether: malware analysis via hardware virtualization extensions, Proceedings of the 15th ACM conference on Computer and communications security, October 27-31, 2008, Alexandria, Virginia, USA[doi>10.1145/1455770.1455779]
+Danny Dolev , Andrew C. Yao, On the security of public key protocols, Stanford University, Stanford, CA, 1981
+George W. Dunlap , Samuel T. King , Sukru Cinar , Murtaza A. Basrai , Peter M. Chen, ReVirt: enabling intrusion analysis through virtual-machine logging and replay, ACM SIGOPS Operating Systems Review, v.36 n.SI, Winter 2002[doi>10.1145/844128.844148]
+Dwivedi, H. 2003. Storage security. http://www.blockhat.com/presentations/bh-usa-03/bh-us-03-Dwivedi.pdf.
+Dwivedi, H. 2004. Insecure IP storage networks. http://blackhat.com/presentations/bh-usa-04/bh-us-04-Dwivedi.pdf.
+Dwivedi, H. 2005. iSCSI Security - Insecure SCSI. http://www.blackhat.com/presentations/bh-usa-05/bh-us-05-Dwivedi-update.pdf.
+D. R. Engler , M. F. Kaashoek , J. O'Toole, Jr., Exokernel: an operating system architecture for application-level resource management, ACM SIGOPS Operating Systems Review, v.29 n.5, p.251-266, Dec. 3, 1995[doi>10.1145/224057.224076]
+Ferrie, P. 2006. Attacks on virtual machine emulators. Symantec Whitepaper. http://www.symantec.com/avcenter/refrence/virtual_Machine_Threats.pdf.
+Ferrie, P. 2007. Attacks on more virtual machines emulators. In Proceedings of the 16th USENIX Security Symposium.
+Jason Franklin , Mark Luk , Jonathan M. McCune , Arvind Seshadri , Adrian Perrig , Leendert van Doorn, Remote detection of virtual machine monitors with fuzzy benchmarking, ACM SIGOPS Operating Systems Review, v.42 n.3, April 2008[doi>10.1145/1368506.1368518]
+FreeBSD. 2000. FreeBSD Handbook - Jails. http://www.freebsd.org/doc/handbook/jails.html.
+Tal Garfinkel , Keith Adams , Andrew Warfield , Jason Franklin, Compatibility is not transparency: VMM detection myths and realities, Proceedings of the 11th USENIX workshop on Hot topics in operating systems, p.1-6, May 07-09, 2007, San Diego, CA
+Diwaker Gupta , Sangmin Lee , Michael Vrable , Stefan Savage , Alex C. Snoeren , George Varghese , Geoffrey M. Voelker , Amin Vahdat, Difference engine: harnessing memory redundancy in virtual machines, Communications of the ACM, v.53 n.10, October 2010[doi>10.1145/1831407.1831429]
+Holz, T. and Raynal, F. 2005. Detecting honeypots and other suspicious environments. In Proceedings of the 6th IEEE Information Assurance Workshop.
+iSecLab. 2007. Analysing unknown binaries. http://anubis.iseclab.org/.
+Kato, K. 2003. VMware backdoor commands. http://chitchat.at.infoseek.co.jp/vmware/backdoor.html.
+Eric Keller , Jakub Szefer , Jennifer Rexford , Ruby B. Lee, NoHype: virtualized cloud infrastructure without the virtualization, Proceedings of the 37th annual international symposium on Computer architecture, June 19-23, 2010, Saint-Malo, France[doi>10.1145/1815961.1816010]
+Samuel T. King , Peter M. Chen , Yi-Min Wang , Chad Verbowski , Helen J. Wang , Jacob R. Lorch, SubVirt: Implementing malware with virtual machines, Proceedings of the 2006 IEEE Symposium on Security and Privacy, p.314-327, May 21-24, 2006[doi>10.1109/SP.2006.38]
+Klein, A. 2010. Detecting virtualization over the Web with IE9 (platform preview) and semi-permanent computer finger printing and user tracking in IE9 (platform preview). http://www.trusteer.com/sites/default/files/VM_Detection_and_Temporary_User_Tracking_in_IE9_Platform_Preview.pdf.
+Klein, T. 2008. ScoopyDoo - VMware Fingerprint Suite. http://www.trapkit.de/research/vmm/scoopydoo/index.html.
+Kortchinsky, K. 2009. Cloudburst: A VMware guest to host escape story. http://blackhat.com.
+KVM. 2007. Kernel-based Virtual Machine. http://www.linux-kvm.org/page/Main_Page.
+Ruby B. Lee , Peter C.  S. Kwan , John P. McGregor , Jeffrey Dwoskin , Zhenghong Wang, Architecture for Protecting Critical Secrets in Microprocessors, Proceedings of the 32nd annual international symposium on Computer Architecture, p.2-13, June 04-08, 2005[doi>10.1109/ISCA.2005.14]
+I. M. Leslie , D. McAuley , R. Black , T. Roscoe , P. Barham , D. Evers , R. Fairbairns , E. Hyden, The design and implementation of an operating system to support distributed multimedia applications, IEEE Journal on Selected Areas in Communications, v.14 n.7, p.1280-1297, September 2006[doi>10.1109/49.536480]
+Chunxiao Li , Anand Raghunathan , Niraj K. Jha, Secure Virtual Machine Execution under an Untrusted Management OS, Proceedings of the 2010 IEEE 3rd International Conference on Cloud Computing, p.172-179, July 05-10, 2010[doi>10.1109/CLOUD.2010.29]
+David Lie , Chandramohan Thekkath , Mark Mitchell , Patrick Lincoln , Dan Boneh , John Mitchell , Mark Horowitz, Architectural support for copy and tamper resistant software, ACM SIGPLAN Notices, v.35 n.11, p.168-177, Nov. 2000[doi>10.1145/356989.357005]
+McAfee. 2011. McAfee DeepSAFE. http://www.mcafee.com/us/solutions/mcafee-deepsafe.aspx.
+Jonathan M. McCune , Yanlin Li , Ning Qu , Zongwei Zhou , Anupam Datta , Virgil Gligor , Adrian Perrig, TrustVisor: Efficient TCB Reduction and Attestation, Proceedings of the 2010 IEEE Symposium on Security and Privacy, p.143-158, May 16-19, 2010[doi>10.1109/SP.2010.17]
+Microsoft. 2006. Virtual PC. http://www.microsoft.com/windows/virtual-pc/default.aspx.
+Microsoft. 2008. Hyper-V. http://technet.microsoft.com/en-us/windowsserver/dd448604.
+Microsoft. 2012. Virtual PC - Configure BIOS for hardware assisted virtualization (HAV) PCs. https://www.microsoft.com/windows/virtual-pc/support/configure-bios.aspx.
+Oberheide, J., Cooke, E., and Jahanian, F. 2008. Empirical exploitation of live virtual machine migration. http://www.eecs.mich.edu/fjgroup/pubs/blackhat08-migration.pdf.
+Offensive Computing. 2003. http://www.offensivecomputing.net/.
+Omella, A. A. 2006. Methods for virtual machine detection. http://www.s21sec.com/descargas/vmware-eng.pdf.
+OpenVZ. 2005. Open VirtualiZation. http://wiki.openvz.org/Main_Page.
+Oracle. 2004. Oracle Solaris Containers. http://www.oracle.com/technetwork/server-storage/solaris/containers-169727.html.
+Oracle. 2007. VirtualBox. http://www.virtualbox.org/.
+Ormandy, T. and Tinnes, J. 2009. Invalid PF exception code in VMware can result in guest privilege escalation. http://seclists.org/fulldisclosure/2009/Oct/330.
+PCI Security Standards Council. 2011. Information Supplement: PCI DSS virtualization guidelines. http://www.pcisecurity standards.org/.
+Gábor Pék , Boldizsár Bencsáth , Levente Buttyán, nEther: in-guest detection of out-of-the-guest malware analyzers, Proceedings of the Fourth European Workshop on System Security, p.1-6, April 10-10, 2011, Salzburg, Austria[doi>10.1145/1972551.1972554]
+Tao Peng , Christopher Leckie , Kotagiri Ramamohanarao, Survey of network-based defense mechanisms countering the DoS and DDoS problems, ACM Computing Surveys (CSUR), v.39 n.1, p.3-es, 2007[doi>10.1145/1216370.1216373]
+Quist, D. and Smith, V. 2006. Further down the VM spiral - detection of full and partial emulation for IA-32 virtual machines. In Proceedings of the Defcon 14.
+Quist, D. and Smith, V. 2008. Detecting the presence of virtual machines using the local data table. http://www.offensivecomputing.net/files/active/0/vm.pdf.
+Thomas Raffetseder , Christopher Kruegel , Engin Kirda, Detecting system emulators, Proceedings of the 10th international conference on Information Security, October 09-12, 2007, Valparaíso, Chile
+Thomas Ristenpart , Eran Tromer , Hovav Shacham , Stefan Savage, Hey, you, get off of my cloud: exploring information leakage in third-party compute clouds, Proceedings of the 16th ACM conference on Computer and communications security, November 09-13, 2009, Chicago, Illinois, USA[doi>10.1145/1653662.1653687]
+Rutkowska, J. 2004. Red Pill… or how to detect VMM using (almost) one CPU instruction. http://www.securiteam.com/securityreviews/6Z00H20BQS.html.
+Rutkowska, J. 2006. Subverting Vista Kernel for fun and profit. http://blackhat.com/presentations/bh-usa-06/BH-US-06-Rutkowska.pdf.
+Sailer, R., Valdez, E., Jaeger, T., Perez, R., Doorn, L. V., Griffin, J. L., Berger, S., Sailer, R., Valdez, E., Jaeger, T., Perez, R., Doorn, L., Linwood, J., and Berger, G. S. 2005. Shype: Secure hypervisor approach to trusted virtualized systems. In IBM Res. Rep. RC23511.
+Karen A. Scarfone , Murugiah P. Souppaya , Paul Hoffman, SP 800-125. Guide to Security for Full Virtualization Technologies, National Institute of Standards & Technology, Gaithersburg, MD, 2011
+Scope, A. 2008. Virtualization: State of the art. http://scope-alliance.org/technical-documents.
+Arvind Seshadri , Mark Luk , Ning Qu , Adrian Perrig, SecVisor: a tiny hypervisor to provide lifetime kernel code integrity for commodity OSes, Proceedings of twenty-first ACM SIGOPS symposium on Operating systems principles, October 14-17, 2007, Stevenson, Washington, USA[doi>10.1145/1294261.1294294]
+Shelton, T. 2005. VMware natd heap overflow. http://lists.grok.og/uk/pipermail/full-disclosure/2005-December/040442.html.
+Stelios Sidiroglou , John Ioannidis , Angelos D. Keromytis , Salvatore J. Stolfo, An email worm vaccine architecture, Proceedings of the First international conference on Information Security Practice and Experience, April 11-14, 2005, Singapore[doi>10.1007/978-3-540-31979-5_9]
+James E. Smith , Ravi Nair, The Architecture of Virtual Machines, Computer, v.38 n.5, p.32-38, May 2005[doi>10.1109/MC.2005.173]
+Dawn Song , David Brumley , Heng Yin , Juan Caballero , Ivan Jager , Min Gyung Kang , Zhenkai Liang , James Newsome , Pongsin Poosankam , Prateek Saxena, BitBlaze: A New Approach to Computer Security via Binary Analysis, Proceedings of the 4th International Conference on Information Systems Security, December 16-20, 2008, Hyderabad, India[doi>10.1007/978-3-540-89862-7_1]
+Deepa Srinivasan , Zhi Wang , Xuxian Jiang , Dongyan Xu, Process out-grafting: an efficient "out-of-VM" approach for fine-grained process execution monitoring, Proceedings of the 18th ACM conference on Computer and communications security, October 17-21, 2011, Chicago, Illinois, USA[doi>10.1145/2046707.2046751]
+Udo Steinberg , Bernhard Kauer, NOVA: a microhypervisor-based secure virtualization architecture, Proceedings of the 5th European conference on Computer systems, April 13-16, 2010, Paris, France[doi>10.1145/1755913.1755935]
+G. Edward Suh , Charles W. O'Donnell , Ishan Sachdev , Srinivas Devadas, Design and Implementation of the AEGIS Single-Chip Secure Processor Using Physical Random Functions, Proceedings of the 32nd annual international symposium on Computer Architecture, p.25-36, June 04-08, 2005[doi>10.1109/ISCA.2005.22]
+Kuniyasu Suzaki , Kengo Iijima , Toshiki Yagi , Cyrille Artho, Memory deduplication as a threat to the guest OS, Proceedings of the Fourth European Workshop on System Security, p.1-6, April 10-10, 2011, Salzburg, Austria[doi>10.1145/1972551.1972552]
+Jakub Szefer , Eric Keller , Ruby B. Lee , Jennifer Rexford, Eliminating the hypervisor attack surface for a more secure cloud, Proceedings of the 18th ACM conference on Computer and communications security, October 17-21, 2011, Chicago, Illinois, USA[doi>10.1145/2046707.2046754]
+Chris Takemura , Luke S. Crawford, The Book of Xen: A Practical Guide for the System Administrator, No Starch Press, San Francisco, CA, 2009
+VirtualizationReview. 2009. KVM: Bare-metal hypervisor&quest; http://virtualizationreview.com/Blogs/Mental-Ward/2009/02/KVM-BareMetal-Hypervisor.aspx.
+VMware. 1999. Workstation. http://www.vmware.com/products/workstation/.
+VMware. 2006. VMware ESX Server 3 802.1Q VLAN Solutions. http://www.VMWare.com/resources/techresources/412.
+VMware. 2007. ESXi. http://www.vmware.com/products/vsphere-hypervisor/overview.html.
+VMware. 2008a. SAN system design and deployment guide. http://www.VMWare.com/resources/techresources/772.
+VMware. 2008b. Virtual networking concepts. http://www.VMWare.com/resources/techresources/997.
+VMware. 2009a. ESX monitor modes. http://communities.vmware.com/docs/DOC-9882/.
+VMware. 2009b. Network segmentation in virtualized environments. http://www.VMWare.com/resources/techresources/1052.
+VMware. 2009c. VMware ESX and VMware ESXi. http://www.vmware.com/files/pdf/VMware-ESX-and-vmware-ESXi-DS-EN.pdf.
+VMware. 2009d. What is new in VMware vSphere#8482;4: Storage. http://www.VMWare.com/files/pdf/storage-with-VMWare-vSphere.pdf.
+VMware. 2010. VMWare vStorage virtual machine file system - technical overview and best practices. http://www.VMWare.com/resources/techresources/10110.
+VMware. 2011a. Performance best practices for VMware vSphere 5.0. http://www.vmware.com/pdf/Perf_Best_Practices_vSphere5.0.pdf.
+VMware. 2011b. VMWare vSphere 4.1 security hardening guide. http://www.VMWare.com/resources/techresources/10198.
+VMware. 2012. Configuring disks to use VMware Paravirtual SCSI (PVSCSI) adapters. http://kb.vmware.com/selfservice/microsites/search.do&quest;language=en_US&cmd;=displayKC&externalId;=1010398.
+Carl A. Waldspurger, Memory resource management in VMware ESX server, Proceedings of the 5th symposium on Operating systems design and implementationCopyright restrictions prevent ACM from being able to make the PDFs for this conference available for downloading, December 09-11, 2002, Boston, Massachusetts[doi>10.1145/1060289.1060307]
+Zhi Wang , Xuxian Jiang, HyperSafe: A Lightweight Approach to Provide Lifetime Hypervisor Control-Flow Integrity, Proceedings of the 2010 IEEE Symposium on Security and Privacy, p.380-395, May 16-19, 2010[doi>10.1109/SP.2010.30]
+Wireshark. 2006. http://wiki.wireshark.org/Gratuitous_ARP.
+Wojtczuk, R. 2008a. Adventures with a certain Xen vulnerability (in the PVFB backend). http://hax.tor.hu/read/xen/xenfb-adventures-10.pdf.
+Wojtczuk, R. 2008b. Xen Owning Trilogy. http://virtualization.com/tag/backhat/.
+Wojtczuk, R. and Rutkowska, J. 2009. Attacking Intel Trusted Execution Technology. http://invisiblethingslab.com.
+Wojtczuk, R. and Rutkowska, J. 2011. Following the white rabbit: Software attacks against Intel® VT-d technology. http://invisiblethingslab.com/.
+Wojtczuk, R., Rutkowska, J., and Tereshkin, A. 2009. Another way to circumvent Intel Trusted Execution Technology. http://invisiblethingslab.com/.
+David K. Y. Yau , John C. S. Lui , Feng Liang , Yeung Yam, Defending against distributed denial-of-service attacks with max-min fair server-centric router throttles, IEEE/ACM Transactions on Networking (TON), v.13 n.1, p.29-42, February 2005[doi>10.1109/TNET.2004.842221]
+Zovi, D. A. D. 2006. Hardware virtualization rootkits. http://www.blackhat.com/presentations/bh-usa-06/BH-US-06-Zovi.pdf.

@@ -1,0 +1,35 @@
+Jacob Itzhack Aizikowitz, Designing distributed services using refinement mappings, Cornell University, Ithaca, NY, 1990
+BERNSTEIN, A. J. 1985. A loosely coupled system for reliably storing data. IEEE Trans. Softw. Eng. SE-11, 5 (May), 446-454.
+Kenneth P. Birman, Replication and fault-tolerance in the ISIS system, Proceedings of the tenth ACM symposium on Operating systems principles, p.79-86, December 1985, Orcas Island, Washington, United States[doi>10.1145/323647.323636]
+Kenneth P. Birman , Thomas A. Joseph, Reliable communication in the presence of failures, ACM Transactions on Computer Systems (TOCS), v.5 n.1, p.47-76, Feb. 1987[doi>10.1145/7351.7478]
+CRISTIAN, F., AGHILI, H., STRONG, H. R., AND DOLEV, D. 1985. Atomic broadcast: From simple message diffusion to Byzantine agreement. In Proceedings of the 15th International Conference on Fault-tolerant Computing (Ann Arbor, Mich., June 1985), IEEE Computer Society.
+Edsger W. Dijkstra, Self-stabilizing systems in spite of distributed control, Communications of the ACM, v.17 n.11, p.643-644, Nov. 1974[doi>10.1145/361179.361202]
+Michael J. Fischer , Nancy A. Lynch , Michael S. Paterson, Impossibility of distributed consensus with one faulty process, Journal of the ACM (JACM), v.32 n.2, p.374-382, April 1985[doi>10.1145/3149.214121]
+Hector Garcia Molina , Frank Pittelli , Susan Davidson, Applications of Byzantine agreement in database systems, ACM Transactions on Database Systems (TODS), v.11 n.1, p.27-47, March 1986[doi>10.1145/5236.5243]
+Ajei Gopal , Ray Strong , Sam Toueg , Flaviu Cristian, Early-delivery atomic broadcast, Proceedings of the ninth annual ACM symposium on Principles of distributed computing, p.297-309, August 22-24, 1990, Quebec City, Quebec, Canada[doi>10.1145/93385.93430]
+Jim Gray, Notes on Data Base Operating Systems, Operating Systems, An Advanced Course, p.393-481, January 1978
+Joseph Y. Halpern , Barbara Simons , Ray Strong , Danny Dolev, Fault-tolerant clock synchronization, Proceedings of the third annual ACM symposium on Principles of distributed computing, p.89-102, August 27-29, 1984, Vancouver, British Columbia, Canada[doi>10.1145/800222.806739]
+N. Hutchinson , L. Peterson, Design of thex-kernel, Symposium proceedings on Communications architectures and protocols, p.65-75, August 16-18, 1988, Stanford, California, United States[doi>10.1145/52324.52332]
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+LAMPORT, L. 1979b. The implementation of reliable distributed multiprocess systems. Comput. Networks 2, 95-114.
+Leslie Lamport, Using Time Instead of Timeout for Fault-Tolerant Distributed Systems., ACM Transactions on Programming Languages and Systems (TOPLAS), v.6 n.2, p.254-280, April 1984[doi>10.1145/2993.2994]
+LAMPORT, L. 1989. The part-time parliament. Tech. Rep. 49. Digital Equipment Corporation Systems Research Center, Palo Alto, Calif.
+Leslie Lamport , P. M. Melliar-Smith, Byzantine clock synchronization, Proceedings of the third annual ACM symposium on Principles of distributed computing, p.68-74, August 27-29, 1984, Vancouver, British Columbia, Canada[doi>10.1145/800222.806737]
+Leslie Lamport , Robert Shostak , Marshall Pease, The Byzantine Generals Problem, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.3, p.382-401, July 1982[doi>10.1145/357172.357176]
+Barbara Liskov , Rivka Ladin, Highly available distributed services and fault-tolerant distributed garbage collection, Proceedings of the fifth annual ACM symposium on Principles of distributed computing, p.29-39, August 11-13, 1986, Calgary, Alberta, Canada[doi>10.1145/10590.10593]
+Luigi V. Mancini , Giuseppe Pappalardo, Towards a theory of replicated processing, Proceedings of a Symposium on Formal Techniques in Real-Time and Fault-Tolerant Systems, p.175-192, September 1988, Warwick, United Kingdom
+MARZULLO, K. 1989. Implementing fault-tolerant sensors. Tech. Rep. TR 89-997. Computer Science Dept., Cornell Univ., Ithaca, New York.
+MARZULLO, K., AND SCHMUCK, F. 1988. Supplying high availability with a standard network file system. In Proceedings of the 8th International Conference on Distributed Computing Systems (San Jose, CA, June), IEEE Computer Society, pp. 447-455.
+Larry L. Peterson , Nick C. Buchholz , Richard D. Schlichting, Preserving and using context information in interprocess communication, ACM Transactions on Computer Systems (TOCS), v.7 n.3, p.217-246, Aug. 1989[doi>10.1145/65000.65001]
+Frank M. Pittelli , Hector Garcia-Molina, Reliable scheduling in a TMR database system, ACM Transactions on Computer Systems (TOCS), v.7 n.1, p.25-60, Feb. 1989[doi>10.1145/58564.59294]
+Richard D. Schlichting , Fred B. Schneider, Fail-stop processors: an approach to designing fault-tolerant computing systems, ACM Transactions on Computer Systems (TOCS), v.1 n.3, p.222-238, August 1983[doi>10.1145/357369.357371]
+SCHNEIDER, F. B. 1980. Ensuring consistency on a distributed database system by use of distributed semaphores. In Proceedings of International Symposium on Distributed Data Bases (Paris, France, Mar.), INRIA, pp. 183-189.
+Fred B. Schneider, Synchronization in Distributed Programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.2, p.125-148, April 1982[doi>10.1145/357162.357163]
+Fred B. Schneider, Byzantine generals in action: implementing fail-stop processors, ACM Transactions on Computer Systems (TOCS), v.2 n.2, p.145-154, May 1984[doi>10.1145/190.357399]
+M. W. Alford , J. P. Ansart , G. Hommel , L. Lamport , B. Liskov , G. P. Mullery , F. B. Schneider, Distributed systems: methods and tools for specification. An advanced course, Springer-Verlag New York, Inc., New York, NY, 1985
+SCHNEIDER, F. B. 1986. A paradigm for reliable clock synchronization. In Proceedings of the Advanced Seminar on Real-Time Local Area Networks (Bandol, France, Apr.), INRIA, pp. 85-104.
+Fred B. Schneider , David Gries , Richard D. Schlichting, Fault-tolerant broadcasts, Science of Computer Programming, v.4 n.1, p.1-15, April 1984[doi>10.1016/0167-6423(84)90009-1]
+SIEWIOREK, D. P., AND SWARZ, R. S. 1982. The Theory and Practice of Reliable System Design. Digital Press, Bedford, Mass.
+SKEEN, D. 1982. Crash recovery in a distributed database system. Ph.D. dissertation, Univ. of California at Berkeley, May.
+STRONG, H. R., AND DOLEV, D. 1983. Byzantine agreement. Intellectual Leverage for the Information Society, Digest of Papers. (Compcon 83, IEEE Computer Society, Mar.), IEEE Computer Society, pp. 77-82.
+WENSLEY, J., WENSKY, J. H., LAMPORT, L., GOLDBERG, J., GREEN, M. W., LEVITT, K. N., MELLIAR-SMITH, P. M., SHOSTAK, R. E., and WEINSTOCK, C. B. 1978. SIFT: Design and analysis of a fault-tolerant computer for aircraft control. Proc. IEEE 66, 10 (Oct.), 1240-1255.

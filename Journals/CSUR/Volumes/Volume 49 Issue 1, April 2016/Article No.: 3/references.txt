@@ -1,0 +1,185 @@
+Martín Abadi and Luca Cardelli. 1996. A Theory of Objects. Springer, Berlin.
+Lucia Acciai and Michele Boreale. 2008. Responsiveness in process calculi. Theor. Comput. Sci. 409, 1 (2008), 59--93.
+Lucia Acciai and Michele Boreale. 2010. Spatial and behavioral types in the pi-calculus. Inform. Comput. 208, 10 (2010), 1118--1153.
+Lucia Acciai, Michele Boreale, and Gianluigi Zavattaro. 2010. On the relationship between spatial logics and behavioral simulations. In FOSSACS (LNCS), Vol. 6014. Springer, Berlin, 146--160.
+Pedro Baltazar, Luís Caires, Vasco Thudichum Vasconcelos, and Hugo Torres Vieira. 2012a. A type system for flexible role assignment in multiparty communicating systems. In TGC (LNCS), Vol. 8191. Springer, Berlin, 82--96.
+Pedro Baltazar, Dimitris Mostrous, and Vasco Thudichum Vasconcelos. 2012b. Linearly refined session types. In LINEARITY (EPTCS), Vol. 101. Open Publishing Association, Sydney, 38--49.
+Franco Barbanera and Ugo de’Liguoro. 2010. Two notions of sub-behaviour for session-based client/server systems. In PPDP. ACM, New York, NY, 155--164.
+Franco Barbanera, Mariangiola Dezani-Ciancaglini, and Ugo de’Liguoro. 1995. Intersection and union types: Syntax and semantics. Inform. Comput. 119, 2 (1995), 202--230.
+Henk Barendregt, Mario Coppo, and Mariangiola Dezani-Ciancaglini. 1983. A filter lambda model and the completeness of type assignment. J. Symb. Log. 48, 4 (1983), 931--940.
+Henk Barendregt, Wil Dekkers, and Richard Statman. 2013. Lambda Calculus With Types. Cambridge University Press, Cambridge.
+Massimo Bartoletti, Pierpaolo Degano, Gian Luigi Ferrari, and Roberto Zunino. 2008. Semantics-based design for secure web services. IEEE Trans. Software Eng. 34, 1 (2008), 33--49.
+Massimo Bartoletti, Julien Lange, Alceste Scalas, and Roberto Zunino. 2015. Choreographies in the wild. Sci. Comput. Program. 109 (2015), 36--60.
+Massimo Bartoletti, Alceste Scalas, Emilio Tuosto, and Roberto Zunino. 2013. Honesty by typing. In FMOODS/FORTE (LNCS), Vol. 7892. Springer, Berlin, 305--320.
+Massimo Bartoletti, Emilio Tuosto, and Roberto Zunino. 2012a. Contract-oriented computing in CO2. Sci. Ann. Comp. Sci. 22, 1 (2012), 5--60.
+Massimo Bartoletti, Emilio Tuosto, and Roberto Zunino. 2012b. On the realizability of contracts in dishonest systems. In COORDINATION (LNCS), Vol. 7274. Springer, Berlin, 245--260.
+Martin Berger, Kohei Honda, and Nobuko Yoshida. 2005. Genericity and the pi-calculus. Acta Inf. 42, 2--3 (2005), 83--141.
+Giovanni Bernardi. 2013. Behavioural Equivalences for Web Services. Ph.D. Dissertation. Trinity College Dublin.
+Giovanni Bernardi and Matthew Hennessy. 2012. Modelling session types using contracts. In SAC. ACM, New York, NY, 1941--1946.
+Giovanni Bernardi and Matthew Hennessy. 2013. Compliance and testing preorders differ. In SEFM Workshops (LNCS), Vol. 8368. Springer, Berlin, 69--81.
+Giovanni Bernardi and Matthew Hennessy. 2014. Using higher-order contracts to model session types (extended abstract). In CONCUR (LNCS), Vol. 8704. Springer, Berlin, 387--401.
+Lorenzo Bettini, Sara Capecchi, Mariangiola Dezani-Ciancaglini, Elena Giachino, and Betti Venneri. 2008. Session and union types for object oriented programming. In Concurrency, Graphs and Models (LNCS), Vol. 5065. Springer, Berlin, 659--680.
+Laura Bocchi, Kohei Honda, Emilio Tuosto, and Nobuko Yoshida. 2010. A theory of design-by-contract for distributed multiparty interactions. In CONCUR (LNCS), Vol. 6269. Springer, Berlin, 162--176.
+Laura Bocchi, Julien Lange, and Emilio Tuosto. 2012. Three algorithms and a methodology for amending contracts for choreographies. Sci. Ann. Comp. Sci. 22, 1 (2012), 61--104.
+Eduardo Bonelli, Adriana B. Compagnoni, and Elsa L. Gunter. 2005. Typechecking safe process synchronization. In FGUC (ENTCS), Vol. 138. Elsevier, Amsterdam, 3--22.
+Michele Boreale, Roberto Bruni, Luís Caires, Rocco De Nicola, Ivan Lanese, Michele Loreti, Francisco Martins, Ugo Montanari, António Ravara, Davide Sangiorgi, Vasco Thudichum Vasconcelos, and Gianluigi Zavattaro. 2006. SCC: A service centered calculus. In WS-FM (LNCS), Vol. 4184. Springer, Berlin, 38--57.
+Michele Boreale, Roberto Bruni, Rocco De Nicola, and Michele Loreti. 2008. Sessions and pipelines for structured service programming. In FMOODS (LNCS), Vol. 5051. Springer, Berlin, 19--38.
+Gérard Boudol. 1997. Typing the use of resources in a concurrent calculus. In ASIAN (LNCS), Vol. 1345. Springer, Berlin, 239--253.
+Mario Bravetti and Gianluigi Zavattaro. 2007. Towards a unifying theory for choreography conformance and contract compliance. In Software Composition (LNCS), Vol. 4829. Springer, Berlin, 34--50.
+Mario Bravetti and Gianluigi Zavattaro. 2008a. Contract compliance and choreography conformance in the presence of message queues. In WS-FM (LNCS), Vol. 5387. Springer, Berlin, 37--54.
+Mario Bravetti and Gianluigi Zavattaro. 2008b. A foundational theory of contracts for multi-party service composition. Fundam. Inform. 89, 4 (2008), 451--478.
+Mario Bravetti and Gianluigi Zavattaro. 2009a. Contract-based discovery and composition of web services. In SFM (LNCS), Vol. 5569. Springer, Berlin, 261--295.
+Mario Bravetti and Gianluigi Zavattaro. 2009b. A theory of contracts for strong service compliance. Math. Struct. Comput. Sci. 19, 3 (2009), 601--638.
+Ed Brinksma, Giuseppe Scollo, and Chris Steenbergen. 1995. Lotos specifications, their implementations and their tests. In Conformance Testing Methodologies and Architectures for OSI Protocols. IEEE Computer Society, Washington, DC, 468--479.
+Antonio Brogi, Carlos Canal, and Ernesto Pimentel. 2004. Behavioural types and component adaptation. In AMAST (LNCS), Vol. 3116. Springer, Berlin, 42--56.
+Roberto Bruni and Leonardo Gaetano Mezzina. 2008. Types and deadlock freedom in a calculus of services, sessions and pipelines. In AMAST (LNCS), Vol. 5140. Springer, Berlin, 100--115.
+Tevfik Bultan and Xiang Fu. 2007. Specification of realizable service conversations using collaboration diagrams. In SOCA. IEEE Computer Society, Washington, DC, 122--132.
+Nadia Busi, Roberto Gorrieri, Claudio Guidi, Roberto Lucchi, and Gianluigi Zavattaro. 2005. Choreography and orchestration: A synergic approach for system design. In ICSOC (LNCS), Vol. 3826. Springer, Berlin, 228--240.
+Luís Caires. 2008. Spatial-behavioral types for concurrency and resource control in distributed systems. Theor. Comput. Sci. 402, 2--3 (2008), 120--141.
+Luís Caires, Jorge A. Pérez, Frank Pfenning, and Bernardo Toninho. 2013. Behavioral polymorphism and parametricity in session-based communication. In ESOP (LNCS), Vol. 7792. Springer, Berlin, 330--349.
+Luís Caires and Frank Pfenning. 2010. Session types as intuitionistic linear propositions. In CONCUR (LNCS), Vol. 6269. Springer, Berlin, 222--236.
+Luís Caires, Frank Pfenning, and Bernardo Toninho. 2015. Linear logic propositions as session types. (unpublished).
+Luís Caires and João Costa Seco. 2013. The type discipline of behavioral separation. In POPL. ACM, New York, NY, 275--286.
+Luís Caires and Hugo Torres Vieira. 2010. Conversation types. Theor. Comput. Sci. 411, 51--52 (2010), 4399--4440.
+Sara Capecchi, Elena Giachino, and Nobuko Yoshida. 2010. Global escape in multiparty sessions. In FSTTCS (LIPIcs), Vol. 8. Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, 338--351.
+Marco Carbone. 2009. Session-based choreography with exceptions. In PLACES (ENTCS). Elsevier, Amsterdam, 35--55.
+Marco Carbone, Kohei Honda, and Nobuko Yoshida. 2008. Structured interactional exceptions in session types. In CONCUR (LNCS), Vol. 5201. Springer, Berlin, 402--417.
+Marco Carbone and Fabrizio Montesi. 2013. Deadlock-freedom-by-design: Multiparty asynchronous global programming. In POPL. ACM, New York, NY, 263--274.
+Samuele Carpineti, Giuseppe Castagna, Cosimo Laneve, and Luca Padovani. 2006. A formal account of contracts for web services. In WS-FM (LNCS), Vol. 4184. Springer, Berlin, 148--162.
+Cyril Carrez, Alessandro Fantechi, and Elie Najm. 2003. Behavioural contracts for a sound assembly of components. In FORTE (LNCS), Vol. 2767. Springer, Berlin, 111--126.
+Giuseppe Castagna, Mariangiola Dezani-Ciancaglini, Elena Giachino, and Luca Padovani. 2009a. Foundations of session types. In PPDP. ACM, Berlin, 219--230.
+Giuseppe Castagna, Mariangiola Dezani-Ciancaglini, and Luca Padovani. 2012. On global types and multi-party sessions. Logical Methods Comput. Sci. 8, 1, Article 24, 45 pages.
+Giuseppe Castagna, Nils Gesbert, and Luca Padovani. 2009b. A theory of contracts for Web services. ACM Trans. Program. Lang. Syst. 31, 5, Article 19, 61 pages.
+Giuseppe Castagna and Luca Padovani. 2009. Contracts for mobile processes. In CONCUR (LNCS), Vol. 5710. Springer, Berlin, 211--228.
+Samir Chouali and Ahmed Hammad. 2011. Formal verification of components assembly based on SysML and interface automata. ISSE 7, 4 (2011), 265--274.
+Samir Chouali, Sebti Mouelhi, and Hassan Mountassir. 2010. Adapting component behaviours using interface automata. In EUROMICRO-SEAA. IEEE Computer Society, Washington, DC, 119--122.
+Rance Cleaveland and Matthew Hennessy. 1993. Testing equivalence as a bisimulation equivalence. Formal Asp. Comput. 5, 1 (1993), 1--20.
+Jean-Louis Colaço, Marc Pantel, Fabien Dagnat, and Patrick Sallé. 1999. Static safety analysis for non-uniform service availability in actors. In FMOODS (IFIP Conference Proceedings), Vol. 139. Kluwer, Amsterdam, 371--386.
+Jean-Louis Colaço, Mark Pantel, and Patrick Sallé. 1997. A set-constraint-based analysis of actors. In FMOODS. Chapman & Hall, London, 1--16.
+Mario Coppo, Mariangiola Dezani-Ciancaglini, Luca Padovani, and Nobuko Yoshida. 2013. Inference of global progress properties for dynamically interleaved multiparty sessions. In COORDINATION (LNCS), Vol. 7890. Springer, Berlin, 45--59.
+Mario Coppo, Mariangiola Dezani-Ciancaglini, Nobuko Yoshida, and Luca Padovani. 2016. Global progress for dynamically interleaved multiparty sessions. Math. Struct. Comput. Sci. 26 (2016), 238--302.
+Mario Coppo and Alberto Ferrari. 1993. Type inference, abstract interpretation and strictness analysis. Theor. Comput. Sci. 121, 1&2 (1993), 113--143.
+Luís Cruz-Filipe, Ivan Lanese, Francisco Martins, António Ravara, and Vasco Thudichum Vasconcelos. 2008. Behavioural theory at work: Program transformations in a service-centred calculus. In FMOODS (LNCS), Vol. 5051. Springer, Berlin, 59--77.
+Luís Cruz-Filipe, Ivan Lanese, Francisco Martins, António Ravara, and Vasco Thudichum Vasconcelos. 2014. The stream-based service-centered calculus: A foundation for service-oriented programming. Formal Aspects Comput. 26, 5 (2014), 865--918.
+Ornela Dardha, Elena Giachino, and Davide Sangiorgi. 2012. Session types revisited. In PPDP. ACM, New York, NY, 139--150.
+Luca de Alfaro and Thomas A. Henzinger. 2001. Interface automata. In ESEC-FSE. ACM, New York, NY, 109--120.
+Rocco De Nicola and Matthew Hennessy. 1984. Testing equivalences for processes. Theor. Comput. Sci. 34 (1984), 83--133.
+Robert DeLine and Manuel Fähndrich. 2004. Typestates for objects. In ECOOP (LNCS), Vol. 3086. Springer, Berlin, 465--490.
+Romain Demangeon, Daniel Hirschkoff, and Davide Sangiorgi. 2010. Termination in impure concurrent languages. In CONCUR (LNCS), Vol. 6269. Springer, Berlin, 328--342.
+Romain Demangeon and Kohei Honda. 2011. Full abstraction in a subtyped pi-calculus with linear types. In CONCUR (LNCS), Vol. 6901. Springer, Berlin, 280--296.
+Pierre-Malo Deniélou and Nobuko Yoshida. 2011. Dynamic multirole session types. In POPL. ACM, 435--446.
+Pierre-Malo Deniélou and Nobuko Yoshida. 2013. Multiparty compatibility in communicating automata: Characterisation and synthesis of global session types. In ICALP (2) (LNCS), Vol. 7966. Springer, Berlin, 174--186.
+Henry DeYoung, Luís Caires, Frank Pfenning, and Bernardo Toninho. 2012. Cut reduction in linear logic as asynchronous session-typed communication. In CSL (LIPIcs), Vol. 16. Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, 228--242.
+Mariangiola Dezani-Ciancaglini, Ugo de’Liguoro, and Nobuko Yoshida. 2007. On progress for structured communications. In TGC (LNCS), Vol. 4912. Springer, Berlin, 257--275.
+Mariangiola Dezani-Ciancaglini, Elena Giachino, Sophia Drossopoulou, and Nobuko Yoshida. 2006. Bounded session types for object oriented languages. In FMCO (LNCS), Vol. 4709. Springer, Berlin, 207--245.
+Mariangiola Dezani-Ciancaglini, Furio Honsell, and Yoko Motohama. 2005. Compositional characterisations of lambda-terms using intersection types. Theor. Comput. Sci. 340, 3 (2005), 459--495.
+Mariangiola Dezani-Ciancaglini, Nobuko Yoshida, Alexander Ahern, and Sophia Drossopoulou. 2005. L-doos: A distributed object-oriented language with session types. In TGC (LNCS), Vol. 3705. Springer, Berlin, 299--318.
+Joshua Dunfield. 2012. Elaborating intersection and union types. In ICFP. ACM, New York, NY, 17--28.
+Joshua Dunfield and Frank Pfenning. 2003. Type assignment for intersections and unions in call-by-value languages. In FoSSaCS (LNCS), Vol. 2620. Springer, Berlin, 250--266.
+Cédric Fournet, C. A. R. Hoare, Sriram K. Rajamani, and Jakob Rehof. 2004. Stuck-free conformance. In CAV (LNCS), Vol. 3114. Springer, Berlin, 242--254.
+Tim Freeman and Frank Pfenning. 1991. Refinement types for ML. In PLDI. ACM, New York, NY, 268--277.
+Maxime Gamboni. 2010. Statically Proving Behavioural Properties in the π-Calculus via Dependency Analysis. Ph.D. Dissertation. Instituto Superior Técnico, Technical University of Lisbon.
+Maxime Gamboni and António Ravara. 2010. Responsive choice in mobile processes. In TGC (LNCS), Vol. 6084. Springer, Berlin, 135--152.
+Simon J. Gay. 2008. Bounded polymorphism in session types. Math. Struct. Comput. Sci. 18, 5 (2008), 895--930.
+Simon J. Gay, Nils Gesbert, and António Ravara. 2014. Session types as generic process types. In EXPRESS/SOS (EPTCS), Vol. 160. 94--110.
+Simon J. Gay and Malcolm Hole. 1999. Types and subtypes for client-server interactions. In ESOP (LNCS), Vol. 1576. Springer, Berlin, 74--90.
+Simon J. Gay and Malcolm Hole. 2005. Subtyping for session types in the pi calculus. Acta Inf. 42, 2--3 (2005), 191--225.
+Simon J. Gay and Vasco Thudichum Vasconcelos. 2010. Linear type theory for asynchronous session types. J. Funct. Program. 20, 1 (2010), 19--50.
+Simon J. Gay, Vasco Thudichum Vasconcelos, António Ravara, Nils Gesbert, and Alexandre Z. Caldeira. 2010. Modular session types for distributed object-oriented programming. In POPL. ACM, New York, NY, 299--312.
+Jean-Yves Girard. 1987. Linear logic. Theor. Comput. Sci. 50 (1987), 1--102.
+Jean-Yves Girard and Yves Lafont. 1987. Linear logic and lazy computation. In TAPSOFT(2) (LNCS), Vol. 250. Springer, Berlin, 52--66.
+Marco Giunti. 2011. A type checking algorithm for qualified session types. In WWV (EPTCS), Vol. 61. Open Publishing Association, 96--114.
+Marco Giunti and Vasco Thudichum Vasconcelos. 2016. Linearity, session types and the Pi calculus. Math. Struct. Comput. Sci. 26 (2016), 206--237.
+Andrew D. Gordon and Alan Jeffrey. 2003. Typing Correspondence Assertions for Communication Protocols. Theor. Comput Sci. 300, 1--3 (2003), 379--409.
+Matthew Goto, Radha Jagadeesan, Alan Jeffrey, Corin Pitcher, and James Riely. 2016. An extensible approach to session polymorphism. Mathematical Structures in Computer Science 26, 465--509.
+Mohamed G. Gouda, Eric G. Manning, and Yao-Tin Yu. 1984. On the progress of communications between two finite state machines. Inform. Control 63, 3 (1984), 200--216.
+Christian Haack and Alan Jeffrey. 2005. Timed spi-calculus with types for secrecy and authenticity. In CONCUR (LNCS), Vol. 3653. Springer, Berlin, 202--216.
+Carl Hewitt, Peter Bishop, and Richard Steiger. 1973. A universal modular actor formalism for artificial intelligence. In IJCAI. William Kaufmann, 235--245.
+C. A. R. Hoare. 1985. Communicating Sequential Processes. Prentice-Hall, Upper Saddle River, NJ.
+Kohei Honda. 1993. Types for dyadic interaction. In CONCUR (LNCS), Vol. 715. Springer, Berlin, 509--523.
+Kohei Honda, Eduardo R. B. Marques, Francisco Martins, Nicholas Ng, Vasco Thudichum Vasconcelos, and Nobuko Yoshida. 2012. Verification of MPI programs using session types. In EuroMPI (LNCS), Vol. 7490. Springer, Berlin, 291--293.
+Kohei Honda, Vasco Thudichum Vasconcelos, and Makoto Kubo. 1998. Language primitives and type discipline for structured communication-based programming. In ESOP (LNCS), Vol. 1381. Springer, Berlin, 122--138.
+Kohei Honda, Nobuko Yoshida, and Marco Carbone. 2008. Multiparty asynchronous session types. In POPL. ACM, New York, NY, 273--284.
+Hans Hüttel. 2011. Typed ψ-calculi. In CONCUR (LNCS), Vol. 6901. Springer, Berlin, 265--279.
+Hans Hüttel. 2013. Types for resources in ψ-calculi. In TGC (LNCS), Vol. 8358. Springer, Berlin, 83--102.
+Hans Hüttel, Naoki Kobayashi, and Takashi Suto. 2009. Undecidable equivalences for basic parallel processes. Inform. Comput. 207, 7 (2009), 812--829.
+Atsushi Igarashi and Naoki Kobayashi. 2000. Type reconstruction for linear pi-calculus with I/O subtyping. Inform. Comput. 161, 1 (2000), 1--44.
+Atsushi Igarashi and Naoki Kobayashi. 2004. A generic type system for the pi-calculus. Theor. Comput. Sci. 311, 1--3 (2004), 121--163.
+Atsushi Igarashi and Hideshi Nagira. 2007. Union types for object-oriented programming. J. Object Technol. 6, 2 (2007), 47--68.
+Keigo Imai, Shoji Yuen, and Kiyoshi Agusa. 2010. Session type inference in Haskell. In PLACES (EPTCS), Vol. 69. Open Publishing Association, 74--91.
+Nickolas Kavantzas, David Burdett, Gregory Ritzinger, Tony Fletcher, Yves Lafon, and Charlton Barreto. 2005. Web Services Choreography Description Language Version 1.0. Technical Report. W3C. Retrieved from http://www.w3.org/TR/ws-cdl-10/.
+Naoki Kobayashi. 1998. A partially deadlock-free typed process calculus. ACM Trans. Program. Lang. Syst. 20, 2 (1998), 436--482.
+Naoki Kobayashi. 2000. Type systems for concurrent processes: From deadlock-freedom to livelock-freedom, time-boundedness. In IFIP TCS (LNCS), Vol. 1872. Springer, Berlin, 365--389.
+Naoki Kobayashi. 2002. A type system for lock-free processes. Inform. Comput. 177, 2 (2002), 122--159.
+Naoki Kobayashi. 2003. Type systems for concurrent programs. In Formal Methods at the Crossroads. From Panacea to Foundational Support. LNCS, Vol. 2757. Springer, Berlin, 439--453. Extended version available at http://www-kb.is.s.u-tokyo.ac.jp/∼koba/papers/tutorial-type-extended.pdf.
+Naoki Kobayashi. 2005. Type-based information flow analysis for the pi-calculus. Acta Inf. 42, 4--5 (2005), 291--347.
+Naoki Kobayashi and C.-H. Luke Ong. 2009. A type system equivalent to the modal mu-calculus model checking of higher-order recursion schemes. In LICS. IEEE Computer Society, Washington, DC, 179--188.
+Naoki Kobayashi, Benjamin C. Pierce, and David N. Turner. 1996. Linearity and the pi-calculus. In POPL. ACM, New York, NY, 358--371.
+Naoki Kobayashi, Benjamin C. Pierce, and David N. Turner. 1999. Linearity and the pi-calculus. ACM Trans. Program. Lang. Syst. 21, 5 (1999), 914--947.
+Naoki Kobayashi, Shin Saito, and Eijiro Sumii. 2000. An implicitly-typed deadlock-free process calculus. In CONCUR (LNCS), Vol. 1877. Springer, Berlin, 489--503.
+Naoki Kobayashi and Davide Sangiorgi. 2010. A hybrid type system for lock-freedom of mobile processes. ACM Trans. Program. Lang. Syst. 32, 5, Article 16 (2010), 49 pages.
+Dimitrios Kouzapas, Raymond Hu, Nobuko Yoshida, and Kohei Honda. 2016. On asynchronous eventful session semantics. Math. Struct. Comput. Sci. 26 (2016), 303--364.
+Ivan Lanese, Claudio Guidi, Fabrizio Montesi, and Gianluigi Zavattaro. 2008. Bridging the gap between interaction- and process-oriented choreographies. In SEFM. IEEE Computer Society, Washington, DC, 323--332.
+Ivan Lanese, Francisco Martins, Vasco Thudichum Vasconcelos, and António Ravara. 2007. Disciplining orchestration and conversation in service-oriented computing. In SEFM. IEEE Computer Society, Washington, DC, 305--314.
+Ivan Lanese, Fabrizio Montesi, and Gianluigi Zavattaro. 2013. Amending choreographies. In WWV (EPTCS), Vol. 123. Open Publishing Association, 34--48.
+Cosimo Laneve and Luca Padovani. 2007. The must preorder revisited. In CONCUR (LNCS), Vol. 4703. Springer, Berlin, 212--225.
+Cosimo Laneve and Luca Padovani. 2013. An algebraic theory for web service contracts. In IFM (LNCS), Vol. 7940. Springer, Berlin, 301--315.
+Julien Lange and Emilio Tuosto. 2012. Synthesising choreographies from local session types. In CONCUR (LNCS), Vol. 7454. Springer, 225--239.
+Edward A. Lee and Yuhong Xiong. 2004. A behavioral type system and its application in Ptolemy II. Formal Asp. Comput. 16, 3 (2004), 210--237.
+Barbara Liskov and Jeannette M. Wing. 1994. A behavioral notion of subtyping. ACM Trans. Program. Lang. Syst. 16, 6 (1994), 1811--1841.
+Hugo A. López, Eduardo R. B. Marques, Francisco Martins, Nicholas Ng, César Santos, Vasco Thudichum Vasconcelos, and Nobuko Yoshida. 2015. Protocol-based verification of message-passing parallel programs. In OOPSLA. ACM, New York, NY, 280--298.
+Leonardo Gaetano Mezzina. 2008. How to infer finite session types in a calculus of services and sessions. In COORDINATION (LNCS), Vol. 5052. Springer, Berlin, 216--231.
+Robin Milner. 1992. Funtions as processes. Math. Struct. Comput. Sci. 2, 2 (1992), 119--141.
+Robin Milner. 1993. The polyadic π-calculus: A tutorial. In Logic and Algebra of Specification. NATO ASI Series, Vol. 94. Springer, Berlin, 203--246.
+Robin Milner, Joachim Parrow, and David Walker. 1992. A calculus of mobile processes, I. Inform. Comput. 100, 1 (1992), 1--40.
+Fabrizio Montesi and Nobuko Yoshida. 2013. Compositional choreographies. In CONCUR (LNCS), Vol. 8052. Springer, Berlin, 425--439.
+Dimitris Mostrous and Nobuko Yoshida. 2009. Session-based communication optimisation for higher-order mobile processes. In TLCA (LNCS), Vol. 5608. Springer, Berlin, 203--218.
+Dimitris Mostrous, Nobuko Yoshida, and Kohei Honda. 2009. Global principal typing in partially commutative asynchronous sessions. In ESOP (LNCS), Vol. 5502. Springer, Berlin, 316--332.
+Mayur Naik and Jens Palsberg. 2005. A type system equivalent to a model checker. In ESOP (LNCS), Vol. 3444. Springer, Berlin, 374--388.
+Elie Najm and Abdelkrim Nimour. 1997. A calculus of object bindings. In FMOODS. Chapman & Hall, London.
+Elie Najm, Abdelkrim Nimour, and Jean-Bernard Stefani. 1999a. Guaranteeing liveness in an object calculus through behavioural typing. In FORTE (IFIP Conference Proceedings), Vol. 156. Kluwer, Amsterdam, 203--221.
+Elie Najm, Abdelkrim Nimour, and Jean-Bernard Stefani. 1999b. Infinite types for distributed object interfaces. In FMOODS (IFIP Conference Proceedings), Vol. 139. Kluwer, Amsterdam, 353--369.
+Nicholas Ng and Nobuko Yoshida. 2014. Pabble: Parameterised scribble for parallel programming. In PDP. IEEE Computer Society, 707--714.
+Flemming Nielson and Hanne Riis Nielson. 1993. From CML to process algebras. In CONCUR (LNCS), Vol. 715. Springer, Berlin, 493--508.
+Flemming Nielson and Hanne Riis Nielson. 1996. From CML to its process algebra. Theor. Comput. Sci. 155, 1 (1996), 179--219.
+Flemming Nielson, Hanne Riis Nielson, and Chris Hankin. 1999. Principles of Program Analysis. Springer, Berlin.
+Oscar Nierstrasz. 1995. Regular types for active objects. In Object-Oriented Software Composition. Prentice Hall International, Upper Saddle River, NJ, 99--121.
+Luca Padovani. 2010a. Contract-based discovery of web services modulo simple orchestrators. Theor. Comput. Sci. 411, 37 (2010), 3328--3347.
+Luca Padovani. 2010b. Session types &equals; intersection types + union types. In ITRS (EPTCS), Vol. 45. Open Publishing Association, 71--89.
+Luca Padovani. 2011. Fair subtyping for multi-party session types. In COORDINATION (LNCS), Vol. 6721. Springer, Berlin, 127--141.
+Luca Padovani. 2013a. Fair subtyping for open session types. In ICALP (2) (LNCS), Vol. 7966. Springer, Berlin, 373--384.
+Luca Padovani. 2013b. From lock freedom to progress using session types. In PLACES (EPTCS), Vol. 137. Open Publishing Association, 3--19.
+Luca Padovani. 2014. Deadlock and lock freedom in the linear π-calculus. In CSL-LICS. ACM, New York, NY, 72:1--72:10.
+Frank Pfenning, Luís Caires, and Bernardo Toninho. 2011. Proof-carrying code in a session-typed process calculus. In CPP (LNCS), Vol. 7086. Springer, Berlin, 21--36.
+Benjamin C. Pierce. 1991. Programming with Intersection Types, Union Types, and Polymorphism. Technical Report CMU-CS-91-106. CMU.
+Benjamin C. Pierce and Davide Sangiorgi. 1996. Typing and subtyping for mobile processes. Mathematical Struc. Comput. Sci. 6, 5 (1996), 409--453.
+Garrel Pottinger. 1980. A type assignment for the strongly normalizable lambda-terms. In To H. B. Curry: Essays on Combinatory Logic, Lambda Calculus and Formalism. Academic Press, New York, NY, 561--577.
+Franz Puntigam. 2001a. State inference for dynamically changing interfaces. Comput. Lang. 27, 4 (2001), 163--202.
+Franz Puntigam. 2001b. Strong types for coordinating active objects. Concurr. Comput.: Practice Exp. 13, 4 (2001), 293--326.
+Franz Puntigam and Christof Peter. 2001. Types for active objects with static deadlock prevention. Fundam. Inform. 48, 4 (2001), 315--341.
+António Ravara, Pedro Resende, and Vasco Thudichum Vasconcelos. 2012. An algebra of behavioural types. Inform. Comput. 212 (2012), 64--91.
+António Ravara and Vasco Thudichum Vasconcelos. 2000. Typing non-uniform concurrent objects. In CONCUR (LNCS), Vol. 1877. Springer, Berlin, 474--488.
+Jakob Rehof. 2013. Towards combinatory logic synthesis. In BEAT, Online Proceedings. 47--58.
+Arend Rensink and Walter Vogler. 2007. Fair testing. Inform. Comput. 205, 2 (2007), 125--198.
+John C. Reynolds. 1997. Design of the programming language Forsythe. In Algol-like Languages. Birkhäuser, Basel, 173--233.
+Davide Sangiorgi. 1996. Pi-calculus, internal mobility, and agent-passing calculi. Theor. Comput. Sci. 167, 1&2 (1996), 235--274.
+Davide Sangiorgi. 1998. An interpretation of typed objects into typed pi-calculus. Inform. Comput. 143, 1 (1998), 34--73.
+Davide Sangiorgi. 1999. The name discipline of uniform receptiveness. Theor. Comput. Sci. 221, 1--2 (1999), 457--493.
+Davide Sangiorgi. 2006. Termination of processes. Math. Struct. Comput. Sci. 16, 1 (2006), 1--39.
+Robert E. Strom and Shaula Yemini. 1986. Typestate: A programming language concept for enhancing software reliability. IEEE Trans. Software Eng. 12, 1 (1986), 157--171.
+Joshua Sunshine, Karl Naden, Sven Stork, Jonathan Aldrich, and Éric Tanter. 2011. First-class state change in Plaid. In OOPSLA. ACM, New York, NY, 713--732.
+Alvaro Tasistro, Ernesto Copello, and Nora Szasz. 2012. Principal type scheme for session types. Int. J. Logic Comput. 3, 1 (2012), 34--43.
+Bernardo Toninho, Luís Caires, and Frank Pfenning. 2011. Dependent session types via intuitionistic linear type theory. In PPDP. ACM, New York, NY, 161--172.
+Bernardo Toninho, Luís Caires, and Frank Pfenning. 2012. Functions as session-typed processes. In FoSSaCS (LNCS), Vol. 7213. Springer, Berlin, 346--360.
+Bernardo Toninho, Luís Caires, and Frank Pfenning. 2013. Higher-order processes, functions, and sessions: A monadic integration. In ESOP (LNCS), Vol. 7792. Springer, Berlin, 350--369.
+Antonio Vallecillo, Vasco Thudichum Vasconcelos, and António Ravara. 2006. Typing the behavior of software components using session types. Fundam. Inform. 73, 4 (2006), 583--598.
+Vasco Thudichum Vasconcelos. 1994. Typed concurrent objects. In ECOOP (LNCS), Vol. 821. Springer, Berlin, 100--117.
+Vasco Thudichum Vasconcelos. 2012. Fundamentals of session types. Inform. Comput. 217 (2012), 52--70.
+Vasco Thudichum Vasconcelos, Simon Gay, and António Ravara. 2006. Typechecking a multithreaded functional language with session types. Theor. Comput. Sci. 368, 1--2 (2006), 64--87.
+Hugo Torres Vieira, Luís Caires, and João Costa Seco. 2008. The conversation calculus: A model of service-oriented computation. In ESOP (LNCS), Vol. 4960. Springer, Berlin, 269--283.
+Hugo Torres Vieira and Vasco Thudichum Vasconcelos. 2013. Typing progress in communication-centred systems. In COORDINATION (LNCS), Vol. 7890. Springer, Berlin, 236--250.
+Jules Villard. 2011. Heaps and Hops. Ph.D. Dissertation. ENS Cachan.
+Philip Wadler. 2012. Propositions as sessions. In ICFP. ACM, New York, NY, 273--286.
+Nobuko Yoshida, Martin Berger, and Kohei Honda. 2004. Strong normalisation in the pi-calculus. Inform. Comput. 191, 2 (2004), 145--202.
+Nobuko Yoshida, Pierre-Malo Deniélou, Andi Bejleri, and Raymond Hu. 2010. Parameterised multiparty session types. In FOSSACS (LNCS), Vol. 6014. Springer, Berlin, 128--145.
+Nobuko Yoshida and Vasco Thudichum Vasconcelos. 2007. Language primitives and type discipline for structured communication-based programming revisited: Two systems for higher-order session communication. In SecReT (ENTCS), Vol. 171(4). Elsevier, Amsterdam, 73--93.

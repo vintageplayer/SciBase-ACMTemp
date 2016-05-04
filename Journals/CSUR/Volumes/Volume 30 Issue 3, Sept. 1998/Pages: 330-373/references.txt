@@ -1,0 +1,215 @@
+ABDULLAHI, S. E. 1992. Managing computer memory: Dynamic allocation and deallocation strategies. In Proceedings of the 2nd Conference on Information Technology and its Applications (Leicester UK, Dec. 19-20), 25-40.
+1994. Recycling garbage. In Proceedings of the 3rd Conference on Information Technology and its Applications (Leicester, UK, April 2-3), 192-197.
+1995. Empirical studies of distributed garbage collection. Ph.D. thesis, Dec. 1995. Univ. of London.
+ABDULLAHI, S. E. AND EDEMENANG, E. J. A. 1993. A comparative study of dynamic memory management techniques. Advances in Model. Anal. 15, 2, 17-31.
+ABDULLAHI, S. E. AND RINGWOOD, G. A. 1996. Empirical studies of distributed garbage collection parts I, II, and III. TR, Dept. of Computer Science, QMW College, Univ. of London.
+Saleh E. Abdullahi , Eliot E. Miranda , Graem A. Ringwood, Collection Schemes for Distributed Garbage, Proceedings of the International Workshop on Memory Management, p.43-81, September 17-19, 1992
+Gul Agha, Actors: a model of concurrent computation in distributed systems, MIT Press, Cambridge, MA, 1986
+ALMES, G., BORNING, A., AND MESSINGER, E. 1983. Implementing a Smalltalk-80 system on the Intel 432: A feasibility study. In Smalltalk-80: Bits of History, Words of Advice, Addison-Wesley, 175-187.
+Laurent Amsaleg , Michael J. Franklin , Olivier Gruber, Efficient Incremental Garbage Collection for Client-Server Object Database Systems, Proceedings of the 21th International Conference on Very Large Data Bases, p.42-53, September 11-15, 1995
+Gregory R. Andrews, Concurrent programming: principles and practice, Benjamin-Cummings Publishing Co., Inc., Redwood City, CA, 1991
+K. Appleby , M. Carllson , S. Haridi , D. Sawhlin, Garbarge collection for Prolog based on WAM, Communications of the ACM, v.31 n.6, p.719-741, June 1988[doi>10.1145/62959.62968]
+ARNBORG, S. 1974. Optimal memory managemeAt in a system with garbage collection. BIT 14, 375-381.
+Arvind , Robert A. Iannucci, Two fundamental issues in multiprocessing, 4th International DFVLR Seminar on Foundations of Engineering Sciences on Parallel Computing in Science and Engineering, p.61-88, April 1988, Bonn, Germany
+ATKINSON, M. P., BAILEY, P. J., CHISHOLM, K. J., COCKSHOTT, P. W., AND MORRISON, R. 1983. An approach to persistent programming. Computer J. 26, 4, 360-365.
+L Augusteijn, Garbage collection in a distributed environment, Volume II: Parallel Languages on PARLE: Parallel Architectures and Languages Europe, p.75-93, March 1987, Eindhoven, The Netherlands
+Özalp Babaoğlu , Keith Marzullo, Consistent global states of distributed systems: fundamental concepts and mechanisms, Distributed systems (2nd Ed.), ACM Press/Addison-Wesley Publishing Co., New York, NY, 1993
+BADEN, S.B. 1983. Low-overhead storage reclamation in the Smalltalk-80 virtual machine. In Smalltalk-80: Bits of History, Words of Advice, Addison-Wesley, 331-342.
+H. D. Baecker, Garbage collection for virtual memory computer systems, Communications of the ACM, v.15 n.11, p.981-986, Nov. 1972[doi>10.1145/355606.361886]
+Henry G. Baker, Jr., List processing in real time on a serial computer, Communications of the ACM, v.21 n.4, p.280-294, April 1978[doi>10.1145/359460.359470]
+Henry G. Baker, The treadmill: real-time garbage collection without motion sickness, ACM SIGPLAN Notices, v.27 n.3, p.66-70, March 1992[doi>10.1145/130854.130862]
+Henri E. Bal, Programming distributed systems, Silicon Press, Summit, NJ, 1990
+BALLARD, S. AND SHIRRON, S. 1983. The design and implementation of VAX/Smalltalk-80. In Smalltalk-80: Bits of History, Words of Advice, Addison-Wesley, 127-150.
+David R. Barach , David H. Taenzer , Robert E. Wells, A technique for finding storage allocation errors in C-language programs, ACM SIGPLAN Notices, v.17 n.5, p.16-24, May 1982[doi>10.1145/947923.947925]
+Barbara Liskov , Rivka Ladin, Highly available distributed services and fault-tolerant distributed garbage collection, Proceedings of the fifth annual ACM symposium on Principles of distributed computing, p.29-39, August 11-13, 1986, Calgary, Alberta, Canada[doi>10.1145/10590.10593]
+BARTLETT, g.F. 1990. A generational, compacting garbage collector for C + +. Position paper, ECOOP/OOPSLA '90 Workshop on Garbage Collection.
+Raymond L. Bates , David Dyer , Johannes A. G. M. Koomen, Implementation of Interlisp on the VAX, Proceedings of the 1982 ACM symposium on LISP and functional programming, p.81-87, August 15-18, 1982, Pittsburgh, Pennsylvania, USA[doi>10.1145/800068.802138]
+Proceedings of the International Workshop on Memory Management, September 1992
+Yves Bekkers , Olivier Ridoux , Lucien Ungaro, Dynamic Memory Management for Sequential Logic Programming Languages, Proceedings of the International Workshop on Memory Management, p.82-102, September 17-19, 1992
+Mordechai Ben-Ari, Algorithms for on-the-fly garbage collection, ACM Transactions on Programming Languages and Systems (TOPLAS), v.6 n.3, p.333-344, July 1984[doi>10.1145/579.587]
+John K. Bennett, The design and implementation of distributed Smalltalk, ACM SIGPLAN Notices, v.22 n.12, p.318-330, Dec. 1987[doi>10.1145/38807.38836]
+BENGTSSON, M. AND MAGNUSSON, B. 1990. Realtime compacting garbage collection. Position paper. In Proceedings of the ECOOP / OOPSLA '90 Workshop on Garbage Collection.
+D I Bevan, Distributed garbage collection using reference counting, Volume II: Parallel Languages on PARLE: Parallel Architectures and Languages Europe, p.176-187, March 1987, Eindhoven, The Netherlands
+Andrew Black , Norman Hutchinson , Eric Jul , Henry Levy , Larry Carter, Distrbution and Abstract Types in Emerald, IEEE Transactions on Software Engineering, v.13 n.1, p.65-76, January 1987[doi>10.1109/TSE.1987.232836]
+BIRRELL, A., EVERS, D., NELSON, G., OWICKI, S., AND WOBBER, E. 1993. Distributed garbage collection for network objects. TR 116, Digital Equipment Corp. Research Center.
+BISHOP, B. 1977. Computer systems with very large address space and garbage collection, Ph.D. thesis, MIT, Cambridge, MA.
+Daniel G. Bobrow, Managing Reentrant Structures Using Reference Counts, ACM Transactions on Programming Languages and Systems (TOPLAS), v.2 n.3, p.269-273, July 1980[doi>10.1145/357103.357104]
+Hans-Juergen Boehm , Mark Weiser, Garbage collection in an uncooperative environment, Software—Practice & Experience, v.18 n.9, p.807-820, September 1988[doi>10.1002/spe.4380180902]
+Rodney A. Brooks , Richard P. Gabriel , Guy L. Steele, Jr., S-1 Common Lisp implementation, Proceedings of the 1982 ACM symposium on LISP and functional programming, p.108-113, August 15-18, 1982, Pittsburgh, Pennsylvania, USA[doi>10.1145/800068.802141]
+D. R. Brownbridge, Cyclic reference counting for combinator machines, Proc. of a conference on Functional programming languages and computer architecture, p.273-288, January 1985, Nancy, France
+CARLSSON, S., MATTSSON, C., AND BENGTSSON, M. 1990. A fast expected-time compacting garbage collection algorithm. Position paper. In Proceedings of the ECOOP / OOPSLA '90 Workshop on Garbage Collection.
+C. Chambers , D. Ungar , E. Lee, An efficient implementation of SELF a dynamically-typed object-oriented language based on prototypes, ACM SIGPLAN Notices, v.24 n.10, p.49-70, Oct. 1989[doi>10.1145/74878.74884]
+Fred B. Chambers , David A. Duce , Gillian P. Jones, Distributed Computing, Academic Press, Inc., Orlando, FL, 1984
+C. J. Cheney, A nonrecursive list compacting algorithm, Communications of the ACM, v.13 n.11, p.677-678, Nov 1970[doi>10.1145/362790.362798]
+CHIKAYAMA, T. AND KIMURA, Y. 1987. Multiple reference management. In Flat GHC, ICLP, MIT Press, 276-293.
+Douglas W. Clark , C. Cordell Green, An empirical study of list structure in Lisp, Communications of the ACM, v.20 n.2, p.78-87, Feb. 1977[doi>10.1145/359423.359427]
+CLARK, D. W. AND GREEN, C.C. 1977. A note on shared list structure in Lisp. Inf. Process. Lett. 7, 6, 312-314.
+Jacques Cohen, Garbage Collection of Linked Data Structures, ACM Computing Surveys (CSUR), v.13 n.3, p.341-367, Sept. 1981[doi>10.1145/356850.356854]
+Jacques Cohen , Alexandru Nicolau, Comparison of Compacting Algorithms for Garbage Collection, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.4, p.532-553, Oct. 1983[doi>10.1145/69575.357226]
+COHEN, J. AND TRILLING, L. 1967. Remarks on garbage collection using a two level storage. BIT 7, 1, 22-30.
+George E. Collins, A method for overlapping and erasure of lists, Communications of the ACM, v.3 n.12, p.655-657, Dec. 1960[doi>10.1145/367487.367501]
+George F. Coulouris , Jean Dollimore, Distributed systems: concepts and design, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1988
+Robert Courts, Improving locality of reference in a garbage-collecting memory management system, Communications of the ACM, v.31 n.9, p.1128-1138, Sept. 1988[doi>10.1145/48529.48536]
+Joel M. Crichlow, An introduction to distributed and parallel computing, Prentice-Hall, Inc., Upper Saddle River, NJ, 1988
+D. Julia. M. Davies, Memory occupancy patterns in garbage collection systems, Communications of the ACM, v.27 n.8, p.819-825, Aug 1984[doi>10.1145/358198.358226]
+Jeffrey L. Dawson, Improved effectiveness from a real time LISP garbage collector, Proceedings of the 1982 ACM symposium on LISP and functional programming, p.159-167, August 15-18, 1982, Pittsburgh, Pennsylvania, USA[doi>10.1145/800068.802146]
+Frank Dehne , Rafael D. Lins, Distributed cyclic reference counting, Proceedings of the first Canada-France conference on Parallel and distributed computing, p.95-100, June 1994, Montreal, Canada
+Carl Dellar, Removing backing store administration from the CAP operating system, ACM SIGOPS Operating Systems Review, v.14 n.4, p.41-49, October 1980[doi>10.1145/850708.850712]
+DELOBEL, C., LECLUSE, C., AND RICHARD, P. 1995. Databases: from Relational to Object-Oriented Systems. ITP.
+DENNING, P.J. 1968. Thrashing: its causes and prevention. In Proceedings of the AFIPS National Computer Conference, 915-922.
+Margaret H. Derbyshire, Mark scan garbage collection on a distributed architecture, Lisp and Symbolic Computation, v.3 n.2, p.135-170, Apr. 1990[doi>10.1007/BF01806256]
+DETLEFS, D.L. 1990a. Concurrent garbage collection for C+ +. Tech. Rep. CMU-CS-90-119, School of Computer Science, Carnegie Mellon Univ., Pittsburgh, PA.
+1990b. Concurrent, atomic garbage collection. Position paper. ECOOP/OOPSLA '90 Workshop on Garbage Collection.
+1991. Concurrent, atomic garbage collection. Ph.D. thesis, Tech. Rep. CMU-CS-90- 177, Dept. of Computer Science, Carnegie Mellon Univ., Pittsburgh, PA.
+Alan Demers , Mark Weiser , Barry Hayes , Hans Boehm , Daniel Bobrow , Scott Shenker, Combining generational and conservative garbage collection: framework and implementations, Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.261-269, December 1989, San Francisco, California, USA[doi>10.1145/96709.96735]
+DETREVILLE, g. 1990. Experience with garbage collection for Modula-2+ in the Topaz environment. In Proceedings of the ECOOP/ OOPSLA '90 Workshop on Garbage Collection, position paper.
+DEUTSCH, L.P. 1983. The Dorado Smalltalk-80 implementation: Hardware architecture's impact on software architecture. In Smalltalk- 80: Bits of History, Words of Advice, Addison- Wesley, Reading, MA, 113-125.
+L. Peter Deutsch , Daniel G. Bobrow, An efficient, incremental, automatic garbage collector, Communications of the ACM, v.19 n.9, p.522-526, Sept. 1976[doi>10.1145/360336.360345]
+DICKMAN, P. 1991. Distributed object management in a non-small graph of autonomous networks with few failures. Ph.D. thesis, University of Cambridge.
+DIJKSTRA, E. W. AND SCHOLTEN, C. S. 1989. Termination detection for diffusing computations. Inf. Process. Lett., 11.
+Edsger W. Dijkstra , Leslie Lamport , A. J. Martin , C. S. Scholten , E. F. M. Steffens, On-the-fly garbage collection: an exercise in cooperation, Communications of the ACM, v.21 n.11, p.966-975, Nov. 1978[doi>10.1145/359642.359655]
+Danny Dolev , Cynthia Dwork , Larry Stockmeyer, On the minimal synchronism needed for distributed consensus, Journal of the ACM (JACM), v.34 n.1, p.77-97, Jan. 1987[doi>10.1145/7531.7533]
+EDELSON, D. AND POHL, I. 1990. The case for garbage collector in C++. In Proceedings of the ECOOP/ OOPSLA '90 Workshop on Garbage Collection, position paper.
+EL-HABBASH, A., HORN, C., AND HARRIS, M. 1990. Garbage collection in an object oriented, distributed, persistent environment. In Proceedings of the ECOOP/OOPSLA '90 Workshop on Garbage Collection, position paper.
+FALCONE, J. R. AND STINGER, J. R. 1983. The Smalltalk-80 implementation at Hewlett- Packard. In Smalltalk-80: Bits of History, Words of Advice, Addison-Wesley, Reading, MA, 79-112.
+Robert R. Fenichel , Jerome C. Yochelson, A LISP garbage-collector for virtual-memory computer systems, Communications of the ACM, v.12 n.11, p.611-612, Nov. 1969[doi>10.1145/363269.363280]
+FERREIRA, P. 1990. Storage reclamation. In Proceedings of the ECOOP/OOPSLA '90 Workshop on Garbage Collection, position paper.
+FERREIRA, P. AND SHAPIRO, M. 1994. Garbage collection and DSM consistency. In Proceedings of the First Symposium on Operating Systems Design and Implementation, 229-241.
+Michael J. Fischer , Nancy A. Lynch , Michael S. Paterson, Impossibility of distributed consensus with one faulty process, Journal of the ACM (JACM), v.32 n.2, p.374-382, April 1985[doi>10.1145/3149.214121]
+FISHER, D. A. 1974. Bounded workspace garbage collection in an address-order preserving list processing environment. Inf. Process. Lett. 3, 1, 29-32.
+John K. Foderaro , Richard J. Fateman, Characterization of VAX Macsyma, Proceedings of the fourth ACM symposium on Symbolic and algebraic computation, p.14-19, August 05-07, 1981, Snowbird, Utah, USA[doi>10.1145/800206.806364]
+Robert Joseph Fowler, The complexity of using forwarding addresses for decentralized object finding, Proceedings of the fifth annual ACM symposium on Principles of distributed computing, p.108-120, August 11-13, 1986, Calgary, Alberta, Canada[doi>10.1145/10590.10600]
+FRIEDMAN, D. P. AND WISE, D.S. 1976. Garbage collecting a heap which includes a scatter table. Inf. Process. Lett. 5, 6, 161-164.
+FRIEDMAN, D. P. AND WISE, D. S. 1977. The one-bit reference count. BIT 17, 351-359.
+FRIEDMAN, D. P. AND WISE, D. S. 1979. Reference counting can manage the circular environments of mutual recursion. Inf. Process. Lett. 8, 1, 41-45.
+Matthew Fuchs, Garbage Collection on an Open Network, Proceedings of the International Workshop on Memory Management, p.251-265, September 27-29, 1995
+Richard P. Gabriel , Larry M. Masinter, Performance of Lisp systems, Proceedings of the 1982 ACM symposium on LISP and functional programming, p.123-142, August 15-18, 1982, Pittsburgh, Pennsylvania, USA[doi>10.1145/800068.802143]
+N. H. Garnett , R. M. Needham, An asynchronous garbage collector for the Cambridge File Server, ACM SIGOPS Operating Systems Review, v.14 n.4, p.36-40, October 1980[doi>10.1145/850708.850711]
+H. Gelernter , J. R. Hansen , C. L. Gerberich, A Fortran-Compiled List-Processing Language, Journal of the ACM (JACM), v.7 n.2, p.87-101, April 1960[doi>10.1145/321021.321022]
+H. W. Glaser , P. Thompson, Lazy garbage collection, Software—Practice & Experience, v.17 n.1, p.1-4, Jan. 1987[doi>10.1002/spe.4380170102]
+Adele Goldberg , David Robson, Smalltalk-80: the language and its implementation, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1983
+B. Goldberg, Generational reference counting: a reduced-communication distributed storage reclamation scheme, ACM SIGPLAN Notices, v.24 n.7, p.313-321, July 1989[doi>10.1145/74818.74846]
+Wilfred J. Hansen, Compact list representation: definition, garbage collection, and system implementation, Communications of the ACM, v.12 n.9, p.499-507, Sept. 1969[doi>10.1145/363219.363225]
+HAYES, B. 1990a. Open systems require conservative garbage collectors. In Proceedings of the ECOOP/OOPSLA '90 Workshop on Garbage Collection, position paper.
+Barry Hayes, Using key object opportunism to collect old objects, ACM SIGPLAN Notices, v.26 n.11, p.33-46, Nov. 1991[doi>10.1145/118014.117957]
+Tim Hickey , Jacques Cohen, Performance analysis of on-the-fly garbage collection, Communications of the ACM, v.27 n.11, p.1143-1154, Nov. 1984[doi>10.1145/1968.358298]
+HOARE, C. A. R. 1974. Optimization of store size for garbage collection. Inf. Process. Lett. 2, 6, 165-166.
+Paul Raymond Hudak, Object and task reclamation in distributed applicative processing systems, The University of Utah, 1982
+Paul Hudak, A semantic model of reference counting and its abstraction (detailed summary), Proceedings of the 1986 ACM conference on LISP and functional programming, p.351-363, August 1986, Cambridge, Massachusetts, USA[doi>10.1145/319838.319876]
+Paul Hudak , Robert M. Keller, Garbage collection and task deletion in distributed applicative processing systems, Proceedings of the 1982 ACM symposium on LISP and functional programming, p.168-178, August 15-18, 1982, Pittsburgh, Pennsylvania, USA[doi>10.1145/800068.802147]
+HUDSON, R. AND DIWAN, A. 1990. Adaptive garbage collection for Modula-3 and Smalltalk. In Proceedings of the ECOOP / OOPSLA '90 Workshop on Garbage Collection, position paper.
+HUGHES, g. 1984. Reference counting with circular structures in virtual memory, applicative systems. Tech. Rep., Programming Research Group, Oxford University.
+John Hughes, A distributed garbage collection algorithm, Proc. of a conference on Functional programming languages and computer architecture, p.256-272, January 1985, Nancy, France
+Inmos Corp, Occam Programming Manual, Prentice Hall Trade, 1984
+Douglas Johnson, The case for a read barrier, ACM SIGPLAN Notices, v.26 n.4, p.279-287, Apr. 1991[doi>10.1145/106973.107000]
+JONES, R. E. 1996. http://www.ukc.ac.uk/computer_science/Html/Jones/gc.html.
+JONES, R. E. AND LINS, R. D. 1992. Cyclic weighted reference counting without delay. Tech. Rep. TR 28-92, UKC Computing Lab, University of Kent at Canterbury.
+Richard E. Jones , Rafael D. Lins, Cyclic Weighted Reference Counting without Delay, Proceedings of the 5th International PARLE Conference on Parallel Architectures and Languages Europe, p.712-715, June 14-17, 1993
+Richard Jones , Rafael Lins, Garbage collection: algorithms for automatic dynamic memory management, John Wiley & Sons, Inc., New York, NY, 1996
+JONKERS, H. B. M. 1979. A fast garbage compaction algorithm. Inf. Process. Lett. 9, 1, 26- 30.
+Eric Jul , Henry Levy , Norman Hutchinson , Andrew Black, Fine-grained mobility in the Emerald system, ACM Transactions on Computer Systems (TOCS), v.6 n.1, p.109-133, Feb. 1988[doi>10.1145/35037.42182]
+Niels Christian Juul , Eric Jul, Garbage collection in object oriented systems (workshop session), Proceedings of the European conference on Object-oriented programming addendum : systems, languages, and applications: systems, languages, and applications, p.35-41, October 1990, Ottawa, Canada[doi>10.1145/319016.319042]
+Niels Christian Juul , Eric Jul, Comprehensive and Robust Garbage Collection in a Distributed System, Proceedings of the International Workshop on Memory Management, p.103-115, September 17-19, 1992
+Dennis Kafura , Doug Washabaugh , Jeff Nelson, Garbage collection of actors, Proceedings of the European conference on object-oriented programming on Object-oriented programming systems, languages, and applications, p.126-134, September 1990, Ottawa, Canada[doi>10.1145/97945.97961]
+R. Y. Kain, Block structures, indirect addressing, and garbage collection, Communications of the ACM, v.12 n.7, p.395-398, July 1969[doi>10.1145/363156.363175]
+Kenneth C. Knowlton, A fast storage allocator, Communications of the ACM, v.8 n.10, p.623-624, Oct. 1965[doi>10.1145/365628.365655]
+Donald E. Knuth, The art of computer programming, volume 1 (3rd ed.): fundamental algorithms, Addison Wesley Longman Publishing Co., Inc., Redwood City, CA, 1997
+KOLODNER, E. 1991. Atomic incremental garbage collection and recovery for large stable heap, implementing persistent object bases: Principles and practice. In Proceedings of the Fourth International Workshop on Persistent Object Systems, Morgan-Kaufmann, San Mateo, CA.
+Elliot Kolodner , Barbara Liskov , William Weihl, Atomic garbage collection: managing a stable heap, Proceedings of the 1989 ACM SIGMOD international conference on Management of data, p.15-25, June 1989, Portland, Oregon, USA[doi>10.1145/67544.66928]
+Glenn Krasner, Smalltalk-80:  bits of history, words of advice, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1983
+LADIN, R. AND LISKOV, B. 1992. Garbage collection of a distributed heap. In Proceedings of the International Conference on Distributed Computing Systems, 708-715.
+Charles Lamb , Gordon Landis , Jack Orenstein , Dan Weinreb, The ObjectStore database system, Communications of the ACM, v.34 n.10, p.50-63, Oct. 1991[doi>10.1145/125223.125244]
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+B. Lang , F. Dupont, Incremental incrementally compacting garbage collection, Papers of the Symposium on Interpreters and interpretive techniques, p.253-263, June 24-26, 1987, St. Paul, Minnesota, USA[doi>10.1145/29650.29677]
+Bernard Lang , Christian Queinnec , José Piquer, Garbage collecting the world, Proceedings of the 19th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.39-50, January 19-22, 1992, Albuquerque, New Mexico, USA[doi>10.1145/143165.143176]
+Claus-Werner Lermen , Dieter Maurer, A protocol for distributed reference counting, Proceedings of the 1986 ACM conference on LISP and functional programming, p.343-350, August 1986, Cambridge, Massachusetts, USA[doi>10.1145/319838.319875]
+LI, K. 1988. Real-time concurrent collection in user mode. In Proceedings of the ECOOP/ OOPSLA '90 Workshop on Garbage Collection.
+A. W. Appel , J. R. Ellis , K. Li, Real-time concurrent collection on stock multiprocessors, Proceedings of the ACM SIGPLAN 1988 conference on Programming Language design and Implementation, p.11-20, June 20-24, 1988, Atlanta, Georgia, USA[doi>10.1145/53990.53992]
+Henry Lieberman , Carl Hewitt, A real-time garbage collector based on the lifetimes of objects, Communications of the ACM, v.26 n.6, p.419-429, June 1983[doi>10.1145/358141.358147]
+Gary Lindstrom, Copying list structures using bounded workspace, Communications of the ACM, v.17 n.4, p.198-202, April 1974[doi>10.1145/360924.360936]
+Rafael D. Lins, Cyclic reference counting with lazy mark-scan, Information Processing Letters, v.44 n.4, p.215-220, Dec. 10, 1992[doi>10.1016/0020-0190(92)90088-D]
+1992b. Generational cyclic reference counting. Tech. Rep. TR 22-92 UKC Computing Lab, University of Kent at Canterbury.
+LINS, R. D. AND VASQUES, M.A. 1991. A comparative study of algorithms for cyclic reference counting. TR 92 UKC Computing Lab, University of Kent at Canterbury, August.
+LINS, R. D. AND JONES, R. E. 1991. Cyclic weighted reference counting. TR 95, UKC Computing Lab. Tech. Rep., University of Kent at Canterbury, December.
+Barbara Liskov , Rivka Ladin, Highly available distributed services and fault-tolerant distributed garbage collection, Proceedings of the fifth annual ACM symposium on Principles of distributed computing, p.29-39, August 11-13, 1986, Calgary, Alberta, Canada[doi>10.1145/10590.10593]
+Johannes J. Martin, An efficient garbage compaction algorithm, Communications of the ACM, v.25 n.8, p.571-580, Aug 1982[doi>10.1145/358589.358625]
+A. D. Martínez , R. Wachenchauzer , R. D. Lins, Cyclic reference counting with local mark-scan, Information Processing Letters, v.34 n.1, p.31-35, February 1990[doi>10.1016/0020-0190(90)90226-N]
+A. D. Martínez , R. Wachenchauzer , R. D. Lins, Cyclic reference counting with local mark-scan, Information Processing Letters, v.34 n.1, p.31-35, February 1990[doi>10.1016/0020-0190(90)90226-N]
+John McCarthy, Recursive functions of symbolic expressions and their computation by machine, Part I, Communications of the ACM, v.3 n.4, p.184-195, April 1960[doi>10.1145/367177.367199]
+1981. History of Lisp. In History of Programming Languages, R. L. Wexelblat, Ed., Academic Press, 173-183.
+MCCULLOUGH, P. L. 1983. Implementing the Smalltalk-80 system: The Tektronix experience. In Smalltalk-80: Bits of History, Words of Advice, Addison-Wesley, Reading, MA, 59- 78.
+MEYERS, R. AND CASSERES, D. 1983. An MC68000-based Smalltalk-80 system. In Smalltalk-80: Bits of History, Words of Advice, Addison-Wesley, Reading, MA, 175-187.
+Eliot Miranda, BrouHaHa- A portable Smalltalk interpreter, ACM SIGPLAN Notices, v.22 n.12, p.354-365, Dec. 1987[doi>10.1145/38807.38839]
+MOHAMMED-ALI, K. n. 1984a,b,c. Object-oriented storage management and garbage collection in distributed processing systems. Academic Dissertation, Royal Institute of Technology, Dept. of Computer Systems, Stockholm, Sweden.
+David A. Moon, Garbage collection in a large LISP system, Proceedings of the 1984 ACM Symposium on LISP and functional programming, p.235-246, August 06-08, 1984, Austin, Texas, USA[doi>10.1145/800055.802040]
+F. Lockwood Morris, A time- and space-efficient garbage compaction algorithm, Communications of the ACM, v.21 n.8, p.662-665, Aug. 1978[doi>10.1145/359576.359583]
+1979. On a comparison of garbage collection techniques. Commun. ACM 22, 10, 571.
+Moss, J. E.B. 1990. Garbage collecting persistent object stores. In Proceedings of the ECOOP/OOPSLA '90 Workshop on Garbage Collection, position paper.
+A. Newell , F. M. Tonge, An introduction to information processing language V, Communications of the ACM, v.3 n.4, p.205-211, April 1960[doi>10.1145/367177.367205]
+NEWMAN, I. A. AND WOODWARD, M. C. 1982. Alternative approaches to multiprocessor garbage collection. In Proceedings of the 1982 International Conference on Parallel Processing (Ohio State University, Columbus, OH, August), 205-210.
+NEWMAN, I. A., STALLARD, R. P., AND WOODWARD, M.C. 1982. Performance of parallel garbage collection algorithms. Comput. Stud. 166 (Sept.).
+K. Nilsen, Garbage collection of strings and linked data structures in real time, Software—Practice & Experience, v.18 n.7, p.613-640, July 1988[doi>10.1002/spe.4380180704]
+NILSEN, K. AND SCHMIDT, W.J. 1990. Hardware support for garbage collection of linked objects and arrays in real time. In Proceedings of the ECOOP/OOPSLA '90 Workshop on Garbage Collection, position paper.
+NORI, A. K. 1979. A storage reclamation scheme for applicative multiprocessor systerns. Masters Thesis, Department of Computer Science, University of Utah.
+S. C. North , J. H. Reppy, Concurrent garbage collection on stock hardware, Proc. of a conference on Functional programming languages and computer architecture, p.113-133, October 1987, Portland, Oregon, USA
+Toshihiro Ozawa , Akira Hosoi , Akira Hattori, Generation type garbage collection for parallel logic languages, Proceedings of the 1990 North American conference on Logic programming, p.291-305, January 1990, Austin, Texas, USA
+PARC-PLACE 1991. Objectworks / Smalltalk Release 4 User's Guide. Memory Management, 229-237.
+Larry L. Peterson , Bruce S. Davie, Computer networks: a systems approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1996
+PEYTON-JONES, S.L. 1987. The Implementation of Functional Programming Languages. Prentice-Hall, Englewood Cliffs, NJ.
+José M. Piquer, Indirect reference counting: a distributed garbage collection algorithm, Proceedings on Parallel architectures and languages Europe : volume I: parallel architectures and algorithms: volume I: parallel architectures and algorithms, p.150-165, June 1991, Eindhoven, The Netherlands
+José M. Piquer, Indirect Mark and Sweep: A Distributed GC, Proceedings of the International Workshop on Memory Management, p.267-282, September 27-29, 1995
+PLAINFOSSE, D. 1994. Distributed garbage collection and reference management in the Soul object support system. Ph.D. Thesis, Universit6 Paris.
+David Plainfossé , Marc Shapiro, Experience with a Fault-Tolerant Garbage Collector in a Distributed Lisp System, Proceedings of the International Workshop on Memory Management, p.116-133, September 17-19, 1992
+David Plainfossé , Marc Shapiro, A Survey of Distributed Garbage Collection Techniques, Proceedings of the International Workshop on Memory Management, p.211-249, September 27-29, 1995
+Christian Queinnec , Barbara Beaudoing , Jean-Pierre Queille, Mark DURING Sweep rather than Mark THEN Sweep, Proceedings of the Parallel Architectures and Languages Europe, Volume I: Parallel Architectures, p.224-237, June 12-16, 1989
+RANA, S.P. 1983. A distributed solution to the distributed termination problem. Inf. Process. Lett. 17, 43-46.
+Mendel Rosenblum , John K. Ousterhout, The design and implementation of a log-structured file system, ACM Transactions on Computer Systems (TOCS), v.10 n.1, p.26-52, Feb. 1992[doi>10.1145/146941.146943]
+Martin Rudalics, Distributed copying garbage collection, Proceedings of the 1986 ACM conference on LISP and functional programming, p.364-372, August 1986, Cambridge, Massachusetts, USA[doi>10.1145/319838.319877]
+1990. Correctness of distributed garbage collection algorithms. TR 90-40.0, Johannes Kepler Universitfit, Linz.
+M. Schelvis, Incremental distribution of timestamp packets: a new approach to distributed garbage collection, ACM SIGPLAN Notices, v.24 n.10, p.37-48, Oct. 1989[doi>10.1145/74878.74883]
+M. Schelvis , E. Bledoeg, The implementation of distributed smalltalk,  on ECOOP '88 (European Conference on Object-Oriented Programming), p.212-232, August 1988, Oslo, Norway
+H. Schorr , W. M. Waite, An efficient machine-independent procedure for garbage collection in various list structures, Communications of the ACM, v.10 n.8, p.501-506, Aug. 1967[doi>10.1145/363534.363554]
+Marc Shapiro , Peter Dickman , David Plainfossé, Robust, distributed references and acyclic garbage collection, Proceedings of the eleventh annual ACM symposium on Principles of distributed computing, p.135-146, August 10-12, 1992, Vancouver, British Columbia, Canada[doi>10.1145/135419.135448]
+SHAPIRO, M., DICKMAN, P., AND PLAINFOSSE, D. 1992b. SSP chains: Robust, distributed references and acyclic garbage collection. Tech. Rep. TR INRIA.
+SHAPIRO, M., PLAINFOSSE, D., AND GRUBER, O. 1990. A garbage detection protocol for a realistic distributed object-support system. Tech. Rep. TR INRIA 1320.
+SHAPIRO, M., PLAINFOSSE, D., FERREIRA, P., AND AMSALEG, L. 1994. Some key issues in the design of distributed garbage collection and references. Tech. Rep. TR INRIA.
+Ravi Sharma , Mary Lou Soffa, Parallel generational garbage collection, ACM SIGPLAN Notices, v.26 n.11, p.16-32, Nov. 1991[doi>10.1145/118014.117956]
+Robert Allen Shaw, Empirical analysis of a LISP system, Stanford University, Stanford, CA, 1988
+Thomas A. Standish, Data Structure Techniques, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1980
+Guy L. Steele, Jr., Multiprocessing compactifying garbage collection, Communications of the ACM, v.18 n.9, p.495-508, Sept. 1975[doi>10.1145/361002.361005]
+P. A. Steenkiste, Lisp on a reduced-instruction-set processor: characterization and optimization, Stanford University, Stanford, CA, 1987
+SUN 1997. {http://java.sun.com/products/jdk/ 1.1/docs/guide/rmi/index.html.
+A. S. Tanenbaum, Computer networks, Prentice-Hall, Inc., Upper Saddle River, NJ, 1988
+Gerard Tel , Friedemann Mattern, The derivation of distributed termination detection algorithms from garbage collection schemes, ACM Transactions on Programming Languages and Systems (TOPLAS), v.15 n.1, p.1-35, Jan. 1993[doi>10.1145/151646.151647]
+TERESHIMA, M. AND GOTO, E. 1978. Genetic order and compactifying garbage collector. Inf. Process. Lett. 7, 1, 27-32.
+Evan Tick, Memory performance of prolog architectures, Kluwer Academic Publishers, Norwell, MA, 1988
+TUCK, B. 1990. OSI and Library Services. Library and Information Briefings, University of Westminster.
+David Ungar, Generation Scavenging: A non-disruptive high performance storage reclamation algorithm, Proceedings of the first ACM SIGSOFT/SIGPLAN software engineering symposium on Practical software development environments, p.157-167, April 1984[doi>10.1145/800020.808261]
+David Michael Ungar, The design and evaluation of a high performance Smalltalk system, MIT Press, Cambridge, MA, 1987
+David Ungar , Frank Jackson, Tenuring policies for generation-based storage reclamation, ACM SIGPLAN Notices, v.23 n.11, p.1-17, Nov. 1988[doi>10.1145/62084.62085]
+David Ungar , Frank Jackson, An adaptive tenuring policy for generation scavengers, ACM Transactions on Programming Languages and Systems (TOPLAS), v.14 n.1, p.1-27, Jan. 1992[doi>10.1145/111186.116734]
+UNGAR, D. M. AND PATTERSON, D. A. 1983. Berkeley Smalltalk: Who knows where the time goes? In Smalltalk-80: Bits of History, Words of Advice, Addison-Wesley, Reading, MA, 189-206.
+S. C. Vestal, Garbage collection: an exercise in distributed, fault-tolerant programming, University of Washington, Seattle, WA, 1987
+Philip L. Wadler, Analysis of an algorithm for real time garbage collection, Communications of the ACM, v.19 n.9, p.491-500, Sept. 1976[doi>10.1145/360336.360338]
+WATSON, I. 1986. An analysis of garbage collection for distributed systems. TR Department of Computer Science, University of Manchester.
+P Watson , I Watson, An efficient garbage collection scheme for parallel computer architectures, Volume II: Parallel Languages on PARLE: Parallel Architectures and Languages Europe, p.432-443, March 1987, Eindhoven, The Netherlands
+WEGBREIT, B. 1972. A generalized compacting garbage collector. Comput. J. 15, 3, 204-208.
+J. Weizenbaum, Knotted list structures, Communications of the ACM, v.5 n.3, p.161-165, March 1962[doi>10.1145/366862.366897]
+J. Weizenbaum, Symmetric list processor, Communications of the ACM, v.6 n.9, p.524-536, Sept. 1963[doi>10.1145/367593.367617]
+K. S. Weng, AN ABSTRACT IMPLEMENTATION FOR A GENERALIZED DATA FLOW LANGUAGE, Massachusetts Institute of Technology, Cambridge, MA, 1980
+Jon L. White, Address/memory management for a gigantic LISP environment or, GC considered harmful, Proceedings of the 1980 ACM conference on LISP and functional programming, p.119-127, August 25-27, 1980, Stanford University, California, USA[doi>10.1145/800087.802797]
+WILSON, P.R. 1990. Some issues and strategies in heap management and memory hierarchies. In Proceedings of the ECOOP / OOPSLA '90 Workshop on Garbage Collection, position paper.
+Paul R. Wilson, Uniprocessor Garbage Collection Techniques, Proceedings of the International Workshop on Memory Management, p.1-42, September 17-19, 1992
+P. R. Wilson , T. G. Moher, Design of the opportunistic garbage collector, ACM SIGPLAN Notices, v.24 n.10, p.23-35, Oct. 1989[doi>10.1145/74878.74882]
+Paul R. Wilson , Mark S. Johnstone , Michael Neely , David Boles, Dynamic Storage Allocation: A Survey and Critical Review, Proceedings of the International Workshop on Memory Management, p.1-116, September 27-29, 1995
+WILSON, P. R., LAM, M. S., AND MOHER, T. G. 1990. Caching considerations for generational garbage collection: A case for large and set-associative caches. TR UIC-EECS-90-5, December.
+Paul R. Wilson , Michael S. Lam , Thomas G. Moher, Effective “static-graph” reorganization to improve locality in garbage-collected systems, Proceedings of the ACM SIGPLAN 1991 conference on Programming language design and implementation, p.177-191, June 24-28, 1991, Toronto, Ontario, Canada[doi>10.1145/113445.113461]
+WOLCZKO, M. AND WILLIAMS, I. 1990. Garbage collection in high-performance system. In Proceedings of the ECOOP/OOPSLA '90 Workshop on Garbage Collection, position paper.
+WOODWARD, M. C. 1981. Multiprocessor garbage collection--a new solution. Comput. Stud. 115.
+ZAVE, D. A. 1975. A fast compacting garbage collector. Inf. Process. Lett. 3, 167-169.
+Benjamin Goth Zorn, Comparative performance evaluation of garbage collection algorithms, University of California, Berkeley, 1989
+1990. Designing systems for evaluation: A case study of garbage collection. In Proceedings of the ECOOP / OOPSLA '90 Workshop on Garbage Collection, position paper.
+1992a. The measured cost of conservative garbage collection. TR CU-CS-573-92. Department of Computer Science, University of Colorado, Boulder, April.
+1992b. Evaluating models of memory allocation. TR CU-CS-603-92, Department of Computer Science, University of Colorado, Boulder, July.
+Benjamin Zorn , Dirk Grunwald, Empirical measurements of six allocation-intensive C programs, ACM SIGPLAN Notices, v.27 n.12, p.71-80, Dec. 1992[doi>10.1145/142181.142200]
+ZORN, B. AND HILFINGER, P. 1988. A memory allocation profiler for C and Lisp programs. In Proceedings of Summer 1988 USENIX Conference (San Francisco, June).

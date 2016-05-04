@@ -1,0 +1,26 @@
+View-oriented group communication is an important and widely used
+building block for many distributed applications. Much current
+research has been dedicated to specifying the semantics and
+services of view-oriented group communication systems (GCSs).
+However, the guarantees of different GCSs are formulated using
+varying terminologies and modeling techniques, and the
+specifications vary in their rigor. This makes it difficult to
+analyze and compare the different systems. This survey provides a
+comprehensive set of clear and rigorous specifications, which may
+be combined to represent the guarantees of most existing GCSs. In
+the light of these specifications, over 30 published GCS
+specifications are surveyed. Thus, the specifications serve as a
+unifying framework for the classification, analysis, and comparison
+of group communication systems. The survey also discusses over a
+dozen different applications of group communication systems,
+shedding light on the usefulness of the presented specifications.
+This survey is aimed at both system builders and theoretical
+researchers. The specification framework presented in this article
+will help builders of group communication systems understand and
+specify their service semantics; the extensive survey will allow
+them to compare their service to others. Application builders will
+find a guide here to the services provided by a large variety of
+GCSs, which could help them choose the GCS appropriate for their
+needs. The formal framework may provide a basis for interesting
+theoretical work, for example, analyzing relative strengths of
+different properties and the costs of implementing them.

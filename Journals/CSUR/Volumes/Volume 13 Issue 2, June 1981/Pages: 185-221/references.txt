@@ -1,0 +1,79 @@
+Alfred V. Aho , John E. Hopcroft, The Design and Analysis of Computer Algorithms, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1974
+Peter A. Alsberg , John D. Day, A principle for resilient sharing of distributed resources, Proceedings of the 2nd international conference on Software engineering, p.562-570, October 13-15, 1976, San Francisco, California, USA
+ALSBERG, P. A., BELFORD, G.C., DAY, J. D., AND GRAPLA, E. "Multi-copy resiliency techniques," Center for Advanced Computation, AC Document No. 202, Univ. Illinois at Urbana-Champaign, May 1976.
+BADAL, D. Z., AND POPEK, G.J. "A proposal for distributed concurrency control for partially redundant distributed data base system," in Proc. 3rd Berkeley Workshop D~str~buted Data Management and Computer Networks, 1978, pp. 273-288
+BADAL, D. Z. "Correctness of concurrency control and imphcations in distributed databases," in Proc COMPSAC 79 Conf., Chicago, Ill., Nov. 1979.
+BADAL, D.Z. "On the degree of concurrency provided by concurrency control mechanisms for distributed databases," in Proc. Int Syrup. D~stributed Databases, Versailles, France, March 1980.
+R. Bayer , H. Heller , A. Reiser, Parallelism and recovery in database systems, ACM Transactions on Database Systems (TODS), v.5 n.2, p.139-156, June 1980[doi>10.1145/320141.320146]
+BI~LFORD, G. C., SCHWARTZ, P. S., AND SLUIZER, S. "The effect of back-up strategy on database availability," CAC Document No. 181, CCTCWAD Document No. 5515, Center for Advanced Computation, Univ. Illmom at Urbana- Champaign, Urbana, Feb. 1976.
+BERNSTEIN, P. A., GOODMAN, N., ROTH- NIE, J B., AND PAPADIMITRIOU, C. A. "The concurrency control mechanism of SDD-I: A system for distributed databases (the fully redundant case)," IEEE Trans. Softw. Eng. SE-4, 3 (May 1978), 154-168.
+BERNSTEIN, P. A., AND GOODMAN, N. "Approaches to concurrency control in dmtributed databases," in Proc. 1979 Natl. Computer Conf., AFIPS Press, Arlington, Va., June 1979.
+BERNSTEIN, P. A., SHIPMAN, D. W., AND WONG, W.S. "Formal Aspects of Senalizability in Database Concurrency Control," IEEE Trans. Softw Eng. SE-5, 3 (May 1979), 203-215.
+BERNSTEIN, P. A., AND GOODMAN, N. "Timestamp based algorithms for concurrency control in distributed database systems," Proc 6th Int. Conf. Very Large Data Bases, Oct. 1980.
+BERNSTEIN, P. A., GOODMAN, N., AND LAI, M.Y. "Two Part Proof Schema for Database Concurrency Control," in Proc 5th Berkeley Workshop D~str~buted Data Management and Computer Networks, Feb. 1980.
+Philip A. Bernstein , David W. Shipman, The correctness of concurrency control mechanisms in a system for distributed databases (SDD-1), ACM Transactions on Database Systems (TODS), v.5 n.1, p.52-68, March 1980[doi>10.1145/320128.320133]
+Philip A. Bernstein , David W. Shipman , James B. Rothnie, Jr., Concurrency control in a system for distributed databases (SDD-1), ACM Transactions on Database Systems (TODS), v.5 n.1, p.18-51, March 1980[doi>10.1145/320128.320131]
+Philip A. Bernstein , Nathan Goodman , Eugene Wong , Christopher L. Reeve , James B. Rothnie, Jr., Query processing in a system for distributed databases (SDD-1), ACM Transactions on Database Systems (TODS), v.6 n.4, p.602-625, Dec. 1981[doi>10.1145/319628.319650]
+BREITWIESER, H., AND KERSTEN, U. "Transaction and catalog management of the distributed file management system DISCO," in Proc. Very Large Data Bases, Rio de Janerio, 1979
+Per Brinch Hansen, Operating system principles, Prentice-Hall, Inc., Upper Saddle River, NJ, 1973
+CASANOVA, M. A. "The concurrency control problem for database systems," Ph.D. dissertation, Harvard Univ., Tech. Rep. TR-17-79, Center for Research in Computing Technology, 1979.
+CHAMBERLIN, D. D., BOYCE, R. F., AND TRAIGER, I.L. "A deadlock-free scheme for resource allocation in a database envLronment," Info. Proc. 74, North-Holland, Amsterdam, 1974.
+CHENG, W. K., AND BELFORD, G. C. "Update SynchronLzation in Distributed Databases," in Proc. 6th Int. Conf. Very Large Data Bases, Oct. 1980.
+DEPPE, M. E., AND FRY, J. P. "Distributed databases' A summary of research," in Computer networks, vol. 1, no. 2, North-Holland, Amsterdam, Sept. 1976.
+DIJKSTRA, E.W. "Hmrarchical ordering of sequential processes," Acta Inf. 1, 2 (1971), 115-138.
+ELLIS, C.A. "A robust algorithm for updating duphcate databases," in Proc 2nd Berkeley Workshop D~stnbuted Databases and Computer Networks, May 1977.
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+GARCIA-MOLINA, H "Performance comparisons of two update algorithms for distributed databases," in Proc. 3rd Berkeley Workshop D~stnbuted Databases and Computer Networks, Aug. 1978.
+Hector Garcia-Molina, Performance of update algorithms for replicated data in a distributed database., Stanford University, Stanford, CA, 1979
+GARCIA-MOLINA, I-I. "A concurrency control mechanism for distributed data bases winch use centralized locking controllers," in Proc. 4th Berkeley Workshop D~str~buted Databases and Computer Networks, Aug. 1979.
+GARCIA-MOLINA, H. "CentralLzed control update algorithms for fully redundant distributed databases," in Proe. 1st Int. Conf. D~stributed Computing Systems (IEEE), New York, Oct. 1979, pp. 699- 705.
+GARDARIN, G., AND LEBAUX, P. "Scheduling algorithms for avoiding inconsistency in large databases," in Proc. 1977 Int. Conf. Very Large Data Bases (IEEE), New York, pp. 501-516.
+GELEMBE, E., AND SEVCIK, K. "Analysis of update synchronization for multiple copy databases," in Proc. 3rd Berkeley Workshop Distributed Databases and Computer Networks, Aug. 1978.
+David K. Gifford, Weighted voting for replicated data, Proceedings of the seventh ACM symposium on Operating systems principles, p.150-162, December 10-12, 1979, Pacific Grove, California, USA[doi>10.1145/800215.806583]
+GRAY, J. N., LORIE, R. A., PUTZULO, G. R., AND TRAIGER, I.L. "Granularity of locks and degrees of consistency in a shared database," IBM Res. Rep. RJ1654, Sept. 1975.
+Jim Gray, Notes on Data Base Operating Systems, Operating Systems, An Advanced Course, p.393-481, January 1978
+Micael Hammer , David Shipman, Reliability mechanisms for SDD-1: a system for distributed databases, ACM Transactions on Database Systems (TODS), v.5 n.4, p.431-466, Dec. 1980[doi>10.1145/320610.320621]
+HEWlTT, C.E. "Protection and synchronization in actor systems," Working Paper No. 83, M.I.T. Artificial Intelligence Lab., Cambridge, Mass., Nov. 1974.
+C. A. R. Hoare, Monitors: an operating system structuring concept, Communications of the ACM, v.17 n.10, p.549-557, Oct. 1974[doi>10.1145/355620.361161]
+Richard C. Holt, Some Deadlock Properties of Computer Systems, ACM Computing Surveys (CSUR), v.4 n.3, p.179-196, Sept. 1972[doi>10.1145/356603.356607]
+KANEKO, A., NISHIHARA, Y., TSURUOKA, K., AND HATTORI, M. "Logical clock synchronization method for duplicated database control," in Proe. 1st Int. Conf. D~stributed Computing Systems (IEEE), New York, Oct. 1979, pp. 601-611.
+Seiichi Kawazu , Susumu Minami , Kenji Itoh , Katsuni Teranaka, Two-phase deadlock detection algorithm in distributed databases, Proceedings of the fifth international conference on Very Large Data Bases, p.360-367, October 03-05, 1979, Rio de Janeiro, Brazil
+KING, P. F., AND COLLMEYER, A J. "Database sharing--an efficient method for supporting concurrent processes," in Proc. 1974 Nat. Computer Conf., vol. 42, AFIPS Press, Arlington, Va., 1974.
+H. T. Kung , C. H. Papadimitriou, An optimality theory of concurrency control for databases, Proceedings of the 1979 ACM SIGMOD international conference on Management of data, May 30-June 01, 1979, Boston, Massachusetts[doi>10.1145/582095.582114]
+H. T. Kung , John T. Robinson, On optimistic methods for concurrency control, ACM Transactions on Database Systems (TODS), v.6 n.2, p.213-226, June 1981[doi>10.1145/319566.319567]
+LAMPSON, B., AND STURGIS, H. "Crash recovery in a chstrlbuted data storage system," Tech. Rep., Computer Science Lab., Xerox Palo Alto Research Center, Palo Alto, Calif., 1976.
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+LELANN, G. "Algorithms for distributed data-sharing sytems which use tickets," m Proc. 3rd Berkeley Workshop Distributed Databases and Computer Networks, Aug. 1978.
+LIN, W. K. "Concurrency control in multiple copy distributed data base system," in Proc 4th Berkeley Workshop Distributed Data Management and Computer Networks, Aug. 1979.
+MENASCE, D. A., AND MUNTZ, R. R. "Locking and deadlock detection in dmtributed databases," IEEE Trans. Softw. Eng. SE-5, 3 (May 1979), 195-202.
+Daniel A. Menasce , Gerald J. Popek , Richard R. Muntz, A locking protocol for resource coordination in distributed databases, ACM Transactions on Database Systems (TODS), v.5 n.2, p.103-138, June 1980[doi>10.1145/320141.320143]
+MINOURA, T. "Maximally concurrent transaction processing," in Proc. 3rd Berkeley Workshop D~stnbuted Databases and Computer Networks, Aug. 1978.
+MINOURA, T. "A new concurrency control algorithm for distributed data base systems," in Proc. 4th Berkeley Workshop D~stributed Data Management and Computer Networks, Aug. 1979.
+MONTGOMERY, W. A. "Robust concurrency control for a distributed information system," Ph.D. dissertation, Lab. for Computer Science, M.I.T., Cambridge, Mass, Dec. 1978.
+PAPADIMITRIOU, C. H., BERNSTEIN, P A, AND ROTHNIE, J. B. "Some computational problems related to database concurrency control," in Proc. Conf. Theoret. wal Computer Scwnce, Waterloo, Ont., Canada, Aug. 1977.
+Christos H. Papadimitriou, The serializability of concurrent database updates, Journal of the ACM (JACM), v.26 n.4, p.631-653, Oct. 1979[doi>10.1145/322154.322158]
+RAHIMI, S K., AND FRANTS, W.R. "A posted update approach to concurrency control in distributed database systems," in Proc. 1st Int. Conf. D~str~buted Computing Systems (IEEE), New York, Oct. 1979, pp. 632-641.
+RAMIREZ, R. J, AND SANTORO, N. "Distributed control of updates in multiple-copy data bases: A time optimal algorithm," in Proc. 4th Berkeley Workshop Dtstributed Data Management and Computer Networks, Aug. 1979.
+REED, D.P. "Naming and synchronization m a decentralized computer system~ Ph.D. dissertation, Dept. of Electrical Engineering, M.I.T., Cambridge, Mass., Sept., 1978.
+REIS, D. "The effect of concurrency control on database management system performance," Ph.D. dissertation, Computer Science Dept., Univ. California, Berkeley, April 1979.
+REIS, D. "The effects of concurrency control on the performance of a distributed database management system," in Proc. 4th Berkeley Workshop Dtstrtbuted Data Management and Computer Networks, Aug. 1979.
+ROSEN, E.C. "The updating protocol of the ARPANET's new routing algorithm: A case study in maintaining identical copies of a changing distributed data base," in Proc. 4th Berkeley Workshop Dtstnb. uted Data Management and Computer Networks, Aug. 1979.
+Daniel J. Rosenkrantz , Richard E. Stearns , Philip M. Lewis, II, System level concurrency control for distributed database systems, ACM Transactions on Database Systems (TODS), v.3 n.2, p.178-198, June 1978[doi>10.1145/320251.320260]
+ROTHNIE, J. B., AND GOODMAN, N. "A survey of research and development in distributed databases systems," in Proc 3rd Int. Conf. Very Large Data Bases (IEEE), Tokyo, Japan, Oct. 1977.
+Gunter Schlageter, Process synchronization in database systems, ACM Transactions on Database Systems (TODS), v.3 n.3, p.248-271, Sept. 1978[doi>10.1145/320263.320279]
+SEQUIN, J., SARGEANT, G., AND WILNES, P. "A majority consensus algorithm for the consmtency of duplicated and distributed information," in Proc. 1st Int. Conf. Distributed Computing Systems (IEEE), New York, Oct. 1979, pp. 617-624.
+SHAPIRO, R. M., AND MILLSTEIN, R. E. "Rehability and fault recovery in distributed processing," in Oceans '77 Conf Record, vol II, Los Angeles, 1977.
+SHAPIRO, R. M., AND MILLSTEIN, R. E. "NSW reliability plan," Massachusetts Tech. Rep. 7701-1411, Computer Associates, Wakefield, Mass., June 1977.
+Abraham Silberschatz , Zvi Kedem, Consistency in Hierarchical Database Systems, Journal of the ACM (JACM), v.27 n.1, p.72-80, Jan. 1980[doi>10.1145/322169.322176]
+STEARNS, R. E., LEWIS, P. M. II, AND ROSENKRANTZ, D.J. "Concurrency controis for database systems," in Proc. 17th Syrup. Foundatmns Computer Science (IEEE), 1976, pp. 19-32.
+Richard E. Stearns , Daniel J. Rosenkrantz, Distributed database concurrency controls using before-values, Proceedings of the 1981 ACM SIGMOD international conference on Management of data, April 29-May 01, 1981, Ann Arbor, Michigan[doi>10.1145/582318.582330]
+STONEBRAKER, M., AND NEUHOLD, E. "A distributed database version of INGRES," in Proc. 2nd Berkeley Workshop D~stributed Data Management and Computer Networks, May 1977.
+STONEBRAKER, M. "Concurrency control and consistency of multiple copies of data in distributed INGRES, IEEE Trans. Softw. Eng. SE-5, 3 (May 1979), 188-194.
+THOMAS, R.H. "A solution to the concurrency control problem for multiple copy databases," in Proc. 1978 COMP- CON Conf. (IEEE), New York.
+Joost Verhofstad, Recovery and crash resistance in a filing system, Proceedings of the 1977 ACM SIGMOD international conference on Management of data, August 03-05, 1977, Toronto, Ontario, Canada[doi>10.1145/509404.509430]
+Cert~fwrs: BADA79, BAYE80, CASA79, KUNGS1, PAPA79, THOM79
+Concurrency control theory: BERN79b, BERNS0C, CASA79, ESWA76, KUNG79, MINO78, PAPA77, PAPA79, SCHL78, SILB80, STEA76
+Performance: BADA80, GARC78, GARC79a, GARC79b, GELE78, REIS79a, RExs79b, ROTH77
+Reliability General: ALSB76a, ALSB76b, BELF76, BERN79a, HAMMS0, LAMP76 Two-phase commW. HAMMS0, LAMP76
+Timestamp-ordered scheduling (T/O) eneral: BADA78, BERN78a, BERN80a, BERN80b, BERN80d, LELA78, LIN79, RAMI79 Thomas' Wr~te Rule: THOM79 Multivers~on t~mestamp ordering: MONT78, REED78 T~mestamp and clock management: LAMP78, THOM79
+Two-phase locking (2PL) General. BERN79b, BREI79, ESWA76, GARD77, GRAY75, GRAY78, PAPA79, SCHL78, SILBS0, STEA81 D~str~buted 2PL: MENA80, MINO79, ROSE78, STON79 Primary copy 2PL: STOS77, STO~79 Centralized 2PL: ALSB76a, ALSB76b, GARc79b, GARC79C Voting 2PL: GIFF79, SEQU79, THOM79 Deadlock detection/prevention: GRAY78, KING74, KAWA79, ROSE78, STON79

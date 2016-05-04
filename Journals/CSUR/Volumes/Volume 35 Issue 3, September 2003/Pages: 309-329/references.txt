@@ -1,0 +1,42 @@
+Ballardie, A. 1996. Scalable Multicast Key Distribution. RFC 1949.
+T. Ballardie , J. Crowcroft, Multicast-specific security threats and counter-measures, Proceedings of the 1995 Symposium on Network and Distributed System Security (SNDSS'95), p.2, February 16-17, 1995
+Klaus Becker , Uta Wille, Communication complexity of group key distribution, Proceedings of the 5th ACM conference on Computer and communications security, p.1-6, November 02-05, 1998, San Francisco, California, USA[doi>10.1145/288090.288094]
+Colin Boyd, On Key Agreement and Conference Key Agreement, Proceedings of the Second Australasian Conference on Information Security and Privacy, p.294-302, July 07-09, 1997
+Bob Briscoe, MARKS: Zero Side Effect Multicast Key Management Using Arbitrarily Revealed Key Sequences, Proceedings of the First International COST264 Workshop on Networked Group Communication, p.301-320, November 17-20, 1999
+Burmester, M. and Desmedt, Y. 1994. A secure and efficient conference key distribution system (extended abstract). In Advances in Cryptology---EUROCRYPT 94, A. D. Santis, Ed., Lecture Notes in Computer Science, vol. 950. Springer-Verlag, New York, pp. 275--286.
+Canetti, R., Garay, J., Itkis, G., Micciancio, D., Naor, M., and Pinkas, B. 1999a. Multicast Security: A Taxonomy and Some Efficient Constructions. In Proceedings of the IEEE INFOCOM. Vol. 2. (New Yok, N.Y., Mar.). 708--716.
+Ran Canetti , Tal Malkin , Kobbi Nissim, Efficient communication-storage tradeoffs for multicast encryption, Proceedings of the 17th international conference on Theory and application of cryptographic techniques, May 02-06, 1999, Prague, Czech Republic
+Chang, I., Engel, R., Kandlur, D., Pendarakis, D., and Saha, D. 1999. Key management for secure internet multicast using boolean function minimization techniques. In IEEE INFOCOM. Vol. 2. (New York, March 1999), 689--698.
+DeCleene, B., Dondeti, L., Griffin, S., Hardjono, T., Kiwior, D., Kurose, J., Towsley, D., Vasudevan, S., and Zhang, C. 2001. Secure group communications for wireless networks. In Proceedings of the MILCOM. (June).
+Deering, S. 1989. Host Extensions for IP Multicasting. RFC 1112.
+Diffie, W. and Hellman, M. E. 1976. New directions in cryptography. IEEE Trans. Inf. Theory IT-22, 6 (Nov.), 644--654.
+Dondeti, L., Mukherjee, S., and Samal, A. 1999a. A distributed group key management scheme for secure many-to-many communication. Tech. Rep. PINTL-TR-207-99, Department of Computer Science, University of Maryland.
+L. R. Dondeti , S. Mukherjee , A. Samal, Scalable secure one-to-many group communication using dual encryption, Computer Communications, v.23 n.17, p.1681-1701, November, 2000[doi>10.1016/S0140-3664(00)00255-3]
+W. Fenner, Internet Group Management Protocol, Version 2, RFC Editor, 1997
+Oded Goldreich , Shafi Goldwasser , Silvio Micali, How to construct random functions, Journal of the ACM (JACM), v.33 n.4, p.792-807, Oct. 1986[doi>10.1145/6490.6503]
+Hardjono, T. and Tsudik, G. 2000. IP multicast security: Issues and directions. Ann. Telecom. 324--340.
+H. Harney , C. Muckenhirn, Group Key Management Protocol (GKMP) Specification, RFC Editor, 1997
+H. Harney , C. Muckenhirn, Group Key Management Protocol (GKMP) Architecture, RFC Editor, 1997
+Yongdae Kim , Adrian Perrig , Gene Tsudik, Simple and fault-tolerant key agreement for dynamic collaborative groups, Proceedings of the 7th ACM conference on Computer and communications security, p.235-244, November 01-04, 2000, Athens, Greece[doi>10.1145/352600.352638]
+Li, M., Poovendran, R., and Berenstein, C. 2001. Optimization of key storage for secure. In Proceedings of the 35th Annual Conference on Information Sciences and Systems (CISS). (John Hopkins, Mar.).
+Patrick McDaniel , Atul Prakash , Peter Honeyman, Antigone: a flexible framework for secure group communication, Proceedings of the 8th conference on USENIX Security Symposium, p.9-9, August 23-26, 1999, Washington, D.C.
+McGrew, D. A. and Sherman, A. T. 1998. Key establishment in large dynamic groups using one-way function trees. Tech. Rep. No. 0755 (May), TIS Labs at Network Associates, Inc., Glenwood, Md.
+D. Meyer, Administratively Scoped IP Multicast, RFC Editor, 1998
+Mills, D. L. 1992. Network Time Protocol (Version 3) Specification, Implementation and Analysis. RFC 1305.
+Suvo Mittra, Iolus: a framework for scalable secure multicasting, Proceedings of the ACM SIGCOMM '97 conference on Applications, technologies, architectures, and protocols for computer communication, p.277-288, September 14-18, 1997, Cannes, France[doi>10.1145/263105.263179]
+Refik Molva , Alain Pannetrat, Scalable multicast security in dynamic groups, Proceedings of the 6th ACM conference on Computer and communications security, p.101-112, November 01-04, 1999, Kent Ridge Digital Labs, Singapore[doi>10.1145/319709.319723]
+M. J. Moyer , J. R. Rao , P. Rohatgi, A survey of security issues in multicast communications, IEEE Network: The Magazine of Global Internetworking, v.13 n.6, p.12-23, November 1999[doi>10.1109/65.806981]
+Perrig, A. 1999. Efficient collaborative key management protocols for secure autonomous group communication. In Proceedings of the International Workshop on Cryptographic Techniques and E-Commerce (CrypTEC'99). (Hong Kong, China, July). M. Blum and C H Lee, Eds. City University of Hong Kong Press, Hong Kong, China, pp. 192--202.
+Adrian Perrig , Dawn Song , J. D. Tygar, ELK, a New Protocol for Efficient Large-Group Key Distribution, Proceedings of the 2001 IEEE Symposium on Security and Privacy, p.247, May 14-16, 2001
+Sandro Rafaeli , David Hutchison, Hydra: A Decentralised Group Key Management, Proceedings of the 11th IEEE International Workshops on Enabling Technologies: nfrastructure for Collaborative Enterprises, p.62-67, June 10-12, 2002
+Sandro Rafaeli , Laurent Mathy , David Hutchison, EHBT: An Efficient Protocol for Group Key Management, Proceedings of the Third International COST264 Workshop on Networked Group Communication, p.159-171, November 07-09, 2001
+Rivest, R. 1992. The MD5 Message-Digest Algorithm. RFC 1321.
+Rodeh, O., Birman, K., and Dolev, D. 2000. Optimized group rekey for group communication systems. In Network and Distributed System Security. (San Diego, Calif., Feb.).
+Bruce Schneier, Applied cryptography (2nd ed.): protocols, algorithms, and source code in C, John Wiley & Sons, Inc., New York, NY, 1995
+Sanjeev Setia , Samir Koussih , Sushil Jajodia , Eric Harder, Kronos: A Scalable Group Re-Keying Approach for Secure Multicast, Proceedings of the 2000 IEEE Symposium on Security and Privacy, p.215, May 14-17, 2000
+Michael Steiner , Gene Tsudik , Michael Waidner, Diffie-Hellman key distribution extended to group communication, Proceedings of the 3rd ACM conference on Computer and communications security, p.31-37, March 14-15, 1996, New Delhi, India[doi>10.1145/238168.238182]
+M. Waldvogel , G. Caronni , Dan Sun , N. Weiler , B. Plattner, The VersaKey framework: versatile group key management, IEEE Journal on Selected Areas in Communications, v.17 n.9, p.1614-1631, September 2006[doi>10.1109/49.790485]
+D. Wallner , E. Harder , R. Agee, Key Management for Multicast: Issues and Architectures, RFC Editor, 1999
+Ingo Wegener, The complexity of Boolean functions, John Wiley & Sons, Inc., New York, NY, 1987
+Nathalie Weiler, SEMSOMM--A Scalable Multiple Encryption Scheme for One-To-Many Multicast, Proceedings of the 10th IEEE International Workshops on Enabling Technologies: Infrastructure for Collaborative Enterprises, p.231-236, June 20-22, 2001
+Chung Kei Wong , Mohamed Gouda , Simon S. Lam, Secure group communications using key graphs, IEEE/ACM Transactions on Networking (TON), v.8 n.1, p.16-30, Feb. 2000[doi>10.1109/90.836475]

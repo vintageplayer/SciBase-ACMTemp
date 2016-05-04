@@ -1,0 +1,68 @@
+Ahmed, M., Kaykobad, M., and Chowdhury, R. A. 2003. A new string matching algorithm. Int. J. Comput. Math. 80, 7, 825--834.
+Aho, A. V., Hopcroft, J. E., and Ullman, J. D. 1974. The Design and Analysis of Computer Algorithms. Addison-Wesley.
+Cyril Allauzen , Maxime Crochemore , Mathieu Raffinot, Factor Oracle: A New Structure for Pattern Matching, Proceedings of the 26th Conference on Current Trends in Theory and Practice of Informatics on Theory and Practice of Informatics, p.295-310, November 27-December 04, 1999
+Cyril Allauzen , Mathieu Raffinot, Simple optimal string matching algorithm, Journal of Algorithms, v.36 n.1, p.102-116, July 2000[doi>10.1006/jagm.2000.1087]
+Apostolico, A. and Giancarlo, R. 1986. The Boyer-Moore-Galil string searching strategies revisited. SIAM J. Comput. 15, 1, 98--105.
+Arndt, J. 2009. Matters Computational. http://www.jjj.de/fxt/
+Baeza-Yates, R. and Gonnet, G. H. 1992. A new approach to text searching. Comm. ACM 35, 10, 74--8.
+Berry, T. and Ravindran, S. 1999. A fast string matching algorithm and experimental results. In Proceedings of the Prague Stringology Club Workshop '99. J. Holub and M. Šimánek, Eds., 16--28, Collaborative Report DC--99--05.
+Blumer, A., Blumer, J., Ehrenfeucht, A., Haussler, D., Chen, M. T., and Seiferas, J. 1985. The smallest automaton recognizing the subwords of a text. Theor. Comput. Sci. 40, 1, 31--55.
+Blumer, A., Blumer, J., Ehrenfeucht, A., Haussler, D., and McConnel, R. 1983. Linear size finite automata for the set of all subwords of a word: An outline of results. Bull. Eur. Assoc. Theor. Comput. Sci. 21, 12--20.
+Boyer, R. S. and Moore, J. S. 1977. A fast string searching algorithm. Comm. ACM 20, 10, 762--772.
+Dany Breslauer, Saving comparisons in the Crochemore-Perrin string-matching algorithm, Theoretical Computer Science, v.158 n.1-2, p.177-192, May 20, 1996[doi>10.1016/0304-3975(95)00068-2]
+Domenico Cantone , Simone Faro, Fast-search: a new efficient variant of the Boyer-Moore string matching algorithm, Proceedings of the 2nd international conference on Experimental and efficient algorithms, p.47-58, May 26-28, 2003, Ascona, Switzerland
+Cantone, D. and Faro, S. 2003b. Forward-Fast-Search: Another fast variant of the boyer-moore string matching algorithm. In Proceedings of the Prague Stringology Conference‘03, M. Šimánek, Ed., 10--24.
+Cantone, D. and Faro, S. 2004. Searching for a substring with constant extra-space complexity. In Proceedings of the 3rd International Conference on Fun with Algorithms P. Ferragina and R. Grossi, Eds., 118--131.
+Cantone, D. and Faro, S. 2005. Fast-Search algorithms: New efficient variants of the Boyer-Moore pattern-matching algorithm. J. Autom. Lang. Comb. 10, 5/6, 589--608.
+Domenico Cantone , Simone Faro , Emanuele Giaquinta, Bit-(parallelism)2: getting to the next level of parallelism, Proceedings of the 5th international conference on Fun with algorithms, p.166-177, June 02-04, 2010, Iscia, Italy
+Domenico Cantone , Simone Faro , Emanuele Giaquinta, A compact representation of nondeterministic (suffix) automata for the bit-parallel approach, Proceedings of the 21st annual conference on Combinatorial pattern matching, p.288-298, June 21-23, 2010, New York, NY
+Christian Charras , Thierry Lecroq, Handbook of Exact String Matching Algorithms, King's College Publications, 2004
+Colussi, L. 1994. Fastest pattern matching in strings. J. Algor. 16, 2, 163--189.
+Crochemore, M. 1985. Optimal factor transducers. In Proceedings of the NATO Advanced Research Workshop on Combinatorial Algorithms on Words. A. Apostolico and Z. Galil, Eds., NATO Advanced Science Institutes, Series F, vol. 12, Springer, 31--44.
+Crochemore, M. 1986. Transducers and repetitions. Theor. Comput. Sci. 45, 1, 63--86.
+Crochemore, M., Czumaj, A., Gąsieniec, L., Jarominek, S., Lecroq, T., Plandowski, W., and Rytter, W. 1994. Speeding up two string matching algorithms. Algorithmica 12, 4/5, 247--267.
+Crochemore, M. and Lecroq, T. 2008. A fast implementation of the Boyer-Moore string matching algorithm. http://www-igm.univ-mlv.fr/~lecroq/articles/cl2008.pdf
+Crochemore, M. and Perrin, D. 1991. Two-Way string-matching. J. Assoc. Comput. Mach. 38, 3, 651--675.
+Crochemore, M. and Rytter, W. 1994. Text Algorithms. Oxford University Press.
+Sergio Deusdado , Paulo Carvalho, GRASPm: an efficient algorithm for exact pattern-matching in genomic sequences, International Journal of Bioinformatics Research and Applications, v.5 n.4, p.385-401, July 2009[doi>10.1504/IJBRA.2009.027510]
+Dömölki, B. 1968. A universal compiler system based on production rules. BIT Numer. Math. 8, 262--275.
+Durian, B., Holub, J., Peltola, H., and Tarhio, J. 2009. Tuning BNDM with q-grams. In Proceedings of the Workshop on Algorithm Engineering and Experiments (ALENEX '09). I. Finocchi and J. Hershberger, Eds., SIAM, New York, 29--37.
+Hongbo Fan , Nianmin Yao , Haifeng Ma, Fast Variants of the Backward-Oracle-Marching Algorithm, Proceedings of the 2009 Fourth International Conference on Internet Computing for Science and Engineering, p.56-59, December 21-22, 2009[doi>10.1109/ICICSE.2009.53]
+Faro, S. and Lecroq, T. 2008. Efficient variants of the Backward-Oracle-Matching algorithm. In Proceedings of the Prague Stringology Conference '08. J. Holub and J. Žďárek, Eds., 146--160.
+Faro, S. and Lecroq, T. 2010. The exact string matching problem: A comprehensive experimental evaluation. arXiv:1012.2547.
+Frantisek Franek , Christopher G. Jennings , W. F. Smyth, A simple fast hybrid pattern-matching algorithm, Journal of Discrete Algorithms, v.5 n.4, p.682-695, December, 2007[doi>10.1016/j.jda.2006.11.004]
+Kimmo Fredriksson , Szymon Grabowski, Practical and optimal string matching, Proceedings of the 12th international conference on String Processing and Information Retrieval, November 02-04, 2005, Buenos Aires, Argentina[doi>10.1007/11575832_42]
+Galil, Z. 1981. String matching in real time. J. ACM 28, 1, 134--149.
+Galil, Z. and Seiferas, J. 1983. Time-Space optimal string matching. J. Comput. Syst. Sci. 26, 3, 280--294.
+Gasieniec, L. and Kolpakov, R. 2004. Real-Time string matching in sublinear space. In Proceedings of the 15<sup>th</sup> Annual Symposium on Combinatorial Pattern Matching (CPM). S. C. Sahinalp, S. Muthukrishnan, and U. Dogrus&ozuml;, Eds., Lecture Notes in Computer Science, vol. 3109, Springer, 117--129.
+Hancart, C. 1993. On Simon's string searching algorithm. Inf. Process. Lett. 47, 2, 95--99.
+Longtao He , Binxing Fang , Jie Sui, The wide window string matching algorithm, Theoretical Computer Science, v.332 n.1-3, p.391-404, 28 February 2005[doi>10.1016/j.tcs.2004.12.002]
+Holub, J. and Durian, B. 2005. Talk: Fast variants of bit parallel approach to suffix automata. In Proceedings of the 2nd Haifa Annual International Stringology Research Workshop of the Israeli Science Foundation. http://www.cri.haifa.ac.il/events/2005/string/presentations/Holub.pdf
+Horspool, R. N. 1980. Practical fast searching in strings. Softw. Pract. Exp. 10, 6, 501--506.
+Hudaib, A., Al-Khalid, R., Suleiman, D., Itriq, M., and Al-Anani, A. 2008. A fast pattern matching algorithm with two sliding windows (TSW). J. Comput. Sci. 4, 5, 393--401.
+Hume, A. and Sunday, D. M. 1991. Fast string searching. Softw. Pract. Exp. 21, 11, 1221--1248.
+Kalsi, P., Peltola, H., and Tarhio, J. 2008. Comparison of exact string matching algorithms for biological sequences. In Proceedings of the 2<sup>nd</sup> International Conference on Bioinformatics Research and Development (BIRD'08). M. Elloumi, J. Küng, M. Linial, R. F. Murphy, K. Schneider, and C. Toma, Eds., 417--426.
+Karp, R. M. and Rabin, M. O. 1987. Efficient randomized pattern-matching algorithms. IBM J. Res.Dev. 31, 2, 249--260.
+Knuth, D. E., Morris, Jr, J. H., and Pratt, V. R. 1977. Fast pattern matching in strings. SIAM J. Comput. 6, 1, 323--350.
+M. Oğuzhan Külekci, A Method to Overcome Computer Word Size Limitation in Bit-Parallel Pattern Matching, Proceedings of the 19th International Symposium on Algorithms and Computation, December 15-17, 2008, Gold Coast, Australia[doi>10.1007/978-3-540-92182-0_45]
+Külekci, M. O. 2009. Filter based fast matching of long patterns by using SIMD instructions. In Proceedings of the Prague Stringology Conference‘09, J. Holub and J. Žďárek, Eds., 118--128.
+Thierry Lecroq, Fast exact string matching algorithms, Information Processing Letters, v.102 n.6, p.229-235, May, 2007[doi>10.1016/j.ipl.2007.01.002]
+Chuanhan Liu , Yongcheng Wang , Derong Liu , Danglin Li, Two Improved Single Pattern Matching Algorithms, Proceedings of the 16th International Conference on Artificial Reality and Telexistence--Workshops, p.419-422, November 29-December 01, 2006[doi>10.1109/ICAT.2006.134]
+Mancheron, A. and Moan, C. 2005. Combinatorial characterization of the language recognized by factor and suffix oracles. Int. J. Found. Comput. Sci. 16, 6, 1179--1191.
+Morris, Jr, J. H. and Pratt, V. R. 1970. A linear pattern-matching algorithm. Report 40, University of California, Berkeley.
+Gonzalo Navarro, NR-grep: a fast and flexible pattern-matching tool, Software—Practice & Experience, v.31 n.13, p.1265-1312, November 10, 2001[doi>10.1002/spe.411]
+Gonzalo Navarro , Mathieu Raffinot, A Bit-Parallel Approach to Suffix Automata: Fast Extended String Matching, Proceedings of the 9th Annual Symposium on Combinatorial Pattern Matching, p.14-33, July 20-22, 1998
+Gonzalo Navarro , Mathieu Raffinot, Fast and flexible string matching by combining bit-parallelism and suffix automata, Journal of Experimental Algorithmics (JEA), 5, p.4-es, 2000[doi>10.1145/351827.384246]
+Markus E. Nebel, Fast string matching by using probabilities: on an optimal mismatch variant of Horspool's algorithm, Theoretical Computer Science, v.359 n.1, p.329-343, 14 August 2006[doi>10.1016/j.tcs.2006.05.028]
+Peltola, H. and Tarhio, J. 2003. Alternative algorithms for bit-parallel string matching. In Proceedings of the 10th International Symposium on String Processing and Information Retrieval (SPIRE'03), M. A. Nascimento, E. S. de Moura, and A. L. Oliveira, Eds., Lecture Notes in Computer Science, vol. 2857, Springer, 80--94.
+Raita, T. 1992. Tuning the Boyer-Moore-Horspool string searching algorithm. Softw. Pract. Exp. 22, 10, 879--884.
+Sheik, S., Aggarwal, S., Poddar, A., Balakrishnan, N., and Sekar, K. 2004. A fast pattern matching algorithm. J. Chem. Inf. Comput. 44, 1251--1256.
+Simon, I. 1993. String matching algorithms and automata. In Proceedings of the 1st South American Workshop on String Processing. R. Baeza-Yates and N. Ziviani, Eds., 151--157.
+Sunday, D. M. 1990. A very fast substring search algorithm. Comm. ACM 33, 8, 132--142.
+Sustik, M. and Moore, J. 2007. String searching over small alphabets. Tech. rep. TR-07-62. Department of Computer Sciences, University of Texas at Austin.
+Thathoo, R., Virmani, A., Lakshmi, S. S., Balakrishnan, N., and Sekar, K. 2006. TVSBS: A fast exact pattern matching algorithm for biological sequences. J. Indian Acad. Sci., Current Sci. 91, 1, 47--53.
+Wu, S. and Manber, U. 1992. Fast text searching allowing errors. Comm. ACM 35, 10, 83--91.
+Wu, S. and Manber, U. 1994. A fast algorithm for multi-pattern searching. Tech. rep. TR-94-17, Department of Computer Science, University of Arizona, Tucson, AZ.
+Yao, A. C. 1979. The complexity of pattern matching for a random string. SIAM J. Comput. 8, 3, 368--387.
+Guomin Zhang , En Zhu , Ling Mao , Ming Yin, A Bit-Parallel Exact String Matching Algorithm for Small Alphabet, Proceedings of the 3d International Workshop on Frontiers in Algorithmics, June 20-23, 2009, Hefei, China[doi>10.1007/978-3-642-02270-8_34]
+Zhu, R. F. and Takaoka, T. 1987. On improving the average case of the Boyer-Moore string matching algorithm. J. Inf. Process. 10, 3, 173--177.

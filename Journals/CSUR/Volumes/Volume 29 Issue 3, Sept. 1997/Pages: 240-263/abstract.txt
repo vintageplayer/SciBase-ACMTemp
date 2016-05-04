@@ -1,0 +1,1 @@
+How can we integrate interaction into a purely declarative language? This tutorial describes a solution to this problem based on a monad. The solution has been implemented in the functional language Haskell and the declarative language Escher. Comparisons are given with other approaches to interaction based on synchronous streams, continuations, linear logic, and side effects.

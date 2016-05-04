@@ -1,0 +1,53 @@
+AWERBUCH, B., AND MICALI, S. 1986. Dynamic deadlock resolution protocols, in Proceedings of the Foundations of Computer Science (Toronto, Canada). IEEE, New York, pp. 196-207.
+Philip A. Bernstein , Vassco Hadzilacos , Nathan Goodman, Concurrency control and recovery in database systems, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1987
+BRACHA, G., AND TOUEG, S. 1983. A distributed algorithm for generalized deadlock detection. Tech. Rep. TR 83-558, Cornell Univ., Ithaca, N.Y.
+Gabriel Bracha , Sam Toueg, A distributed algorithm for generalized deadlock detection, Proceedings of the third annual ACM symposium on Principles of distributed computing, p.285-301, August 27-29, 1984, Vancouver, British Columbia, Canada[doi>10.1145/800222.806756]
+K. Mani Chandy , Leslie Lamport, Distributed snapshots: determining global states of distributed systems, ACM Transactions on Computer Systems (TOCS), v.3 n.1, p.63-75, Feb. 1985[doi>10.1145/214451.214456]
+K. M. Chandy , J. Misra, A distributed algorithm for detecting resource deadlocks in distributed systems, Proceedings of the first ACM SIGACT-SIGOPS symposium on Principles of distributed computing, p.157-164, August 18-20, 1982, Ottawa, Canada[doi>10.1145/800220.806693]
+Mani Chandy , Jayadev Misra, An example of stepwise refinement of distributed programs: quiescence detection, ACM Transactions on Programming Languages and Systems (TOPLAS), v.8 n.3, p.326-343, July 1986[doi>10.1145/5956.5958]
+K. Mani Chandy , Jayadev Misra , Laura M. Haas, Distributed deadlock detection, ACM Transactions on Computer Systems (TOCS), v.1 n.2, p.144-156, May 1983[doi>10.1145/357360.357365]
+CHANG, E. 1982. Echo algorithms: Depth parallel operations on general graphs. IEEE Trans. Softw. Eng. SE-8, 4 (July), 391-401.
+DIJKSTRA, E. W., AND SCHOLTEN, C. S. 1980. Termination detection for diffusing computations. In{. Process. Lett. 11, I (Aug.).
+DIJKSTRA, E. W., FEIJEN, W., AND VAN GASTEREN, A. J. M. 1983. Derivation of a termination detection algorithm for distributed computations. Inf. Process. Lett. 16, 5 (June), 217-219.
+Ahmed Khalifa Elmagarmid, Deadlock detection and resolution in distributed processing systems (ddbms, synchronization), 1985
+Ahmed K. Elmagarmid, A survey of distributed deadlock detection algorithms, ACM SIGMOD Record, v.15 n.3, p.37-45, Sept. 1986[doi>10.1145/15833.15837]
+GAFNI, E. 1986. Perspectives on distributed network protocols: A case for building blocks. In IEEE Military Communications Conference (Monterey, Calif.). IEEE, New York, pp. 1.1.1-1.1.5.
+David K. Gifford, Weighted voting for replicated data, Proceedings of the seventh ACM symposium on Operating systems principles, p.150-162, December 10-12, 1979, Pacific Grove, California, United States[doi>10.1145/800215.806583]
+GLIGOR, V., AND SHATTUCK, S. 1980. On deadlock detection in distributed databases. IEEE Trans. Softw. Eng. SE-6, 5 (Sept.).
+GRAY, J. N., HOMAN, P., KORTH, H. F., AND OBER- MARCK, R. L. 1981. A straw man analysis of the probability of waiting and deadlock in a database system. Tech. Rep. RJ 3066, IBM Research Laboratory, San Jose, Calif.
+Laura Myers Haas, Two approaches to deadlock in distributed systems, 1981
+HAAS, L. M., AND MOHAN, C. 1983. A distributed deadlock detection algorithm for a resource-based system. Res. Rep. RJ 3765, IBM Research Laboratory, San Jose, Calif.
+Jean-Michael Helary , Claude Jard , Noël Plouzeau , Michel Raynal, Detection of stable properties in distributed applications, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.125-136, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41851]
+HERMANN, T., AND CHANDY, K. M. 1983. A distributed procedure to detect AND/OR deadlock. Tech. Rep. TR LCS-8301, Dept. of Computer Sciences, Univ. of Texas, Austin, Tex.
+HO, G. S., AND RAMAMOORTHY, C. V. 1982. Protocols for deadlock detection in distributed database systems. IEEE Trans. So{tw. Eng. SE- 8, 6 (Nov.), 554-557.
+Richard C. Holt, Some Deadlock Properties of Computer Systems, ACM Computing Surveys (CSUR), v.4 n.3, p.179-196, Sept. 1972[doi>10.1145/356603.356607]
+JAGANNATHAN, J. R., AND VASUDEVAN, R. 1982. A distributed deadlock detection and resolution scheme; performance study. In Proceedings of the Third International Conference on Distributed Computing Systems (Miami, Fla.). IEEE, New York, pp. 496-501.
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+MENASCE, D., AND MUNTZ, R. 1979. Locking and deadlock detection in distributed databases. IEEE Trans. So{tw. Eng. SE-5, 3 (May).
+Jayadev Misra, Detecting termination of distributed computations using markers, Proceedings of the second annual ACM symposium on Principles of distributed computing, p.290-294, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806729]
+Jayadev Misra , K. M. Chandy, A Distributed Graph Algorithm: Knot Detection, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.4, p.678-686, Oct. 1982[doi>10.1145/69622.357190]
+Jayadev Misra , K. M. Chandy, Termination Detection of Diffusing Computations in Communicating Sequential Processes, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.1, p.37-43, Jan. 1982[doi>10.1145/357153.357156]
+Don P. Mitchell , Michael J. Merritt, A distributed algorithm for deadlock detection and resolution, Proceedings of the third annual ACM symposium on Principles of distributed computing, p.282-284, August 27-29, 1984, Vancouver, British Columbia, Canada[doi>10.1145/800222.806755]
+N Natarajan, A distributed scheme for detecting communication deadlocks, IEEE Transactions on Software Engineering, v.12 n.4, p.531-537, April 1986
+OBERMARCK, R. 1980. Deadlock detection for all resource classes. Res. Rep. RJ2955, IBM Research Laboratory, San Jose, Calif.
+Ron Obermarck, Distributed deadlock detection algorithm, ACM Transactions on Database Systems (TODS), v.7 n.2, p.187-208, June 1982[doi>10.1145/319702.319717]
+Christos Papadimitriou, The theory of database concurrency control, Computer Science Press, Inc., New York, NY, 1986
+Thomas Raeuchle , Sam Toueg, Exposure to Deadlock for Communicating Processes is Hard to Detect, Cornell University, Ithaca, NY, 1983
+SINHA, M. K., AND NATARAJAN, N. 1984. A distributed deadlock detection algorithm based on timestamps. In Proceedings of the 4th International Con{erence on Distributed Computing Systerns. IEEE, New York, pp. 546-556.
+Dieter Zöbel, The Deadlock problem: a classifying bibliography, ACM SIGOPS Operating Systems Review, v.17 n.4, p.6-15, October 1983[doi>10.1145/850752.850753]
+BADAL, D. Z., AND GEHL, M. T. 1983. On deadlock detection in distributed computing systems. In IEEE INFOCOM. IEEE, New York.
+Gabriel Bracha, Randomized agreement protocols and distributed deadlock detection algorithms (byzantine generals, consensus), 1985
+Shimon Cohen , Daniel Lehmann, Dynamic systems and their distributed termination, Proceedings of the first ACM SIGACT-SIGOPS symposium on Principles of distributed computing, p.29-33, August 18-20, 1982, Ottawa, Canada[doi>10.1145/800220.806678]
+DIJKSTRA, E. W. 1982. Distributed termination detection revisited. EWD 828, Plataanstraat 5, 5671 A1 Nuenen, The Netherlands.
+Nissim Francez, Distributed Termination, ACM Transactions on Programming Languages and Systems (TOPLAS), v.2 n.1, p.42-55, Jan. 1980[doi>10.1145/357084.357087]
+FRANCEZ, N., AND RODEH, M. 1982. Achieving distributed termination without freezing. IEEE Trans. Softw. Eng. SE-8, 3 (May), 287-292.
+N. Frances , Michael Rodeh , Michel Sintzoff, Distributed Termination with Interval Assertions, Proceedings of the International Colloquium on Formalization of Programming Concepts, p.280-291, April 19-25, 1981
+B. Goldman, DEADLOCK DETECTION IN COMPUTER NETWORKS, Massachusetts Institute of Technology, Cambridge, MA, 1977
+Mohamed G. Gouda, Distributed State Exploration for Protocol Validation, University of Texas at Austin, Austin, TX, 1981
+ISLOOR, S. S., AND MARSLAND, T. A. 1980. The deadlock problem: An overview. Computer (Sept.), 58-70.
+JAGANNATHAN, J. R., AND VASUDEVAN, R. 1982. Detection and resolution of deadlocks in distributed systems. Tech. Rep. 82-108-27, Univ. of Calgary, Calgary, Alta., Canada.
+Henry F. Korth , Ravi Krishnamurthy , Anil Nigam , John T. Robinson, A framework for understanding distributed (deadlock detection) algorithms, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia[doi>10.1145/588058.588082]
+MARSLAND, T. A., AND ISLOOR, S. S. 1980. Detection of deadlocks in distributed database systems. INFOR 18, i (Feb.), 1-20.
+Wang-Chuan Tsai, Distributed deadlock detection in distributed database systems, 1982
+TSAI, W., AND BELFORD, G. 1982. Detecting deadlock in distributed systems. In IEEE INFOCOM. IEEE, New York, pp. 89-95.
+WUU, G. T., AND BERNSTEIN, A. J. 1985. False deadlock detection in distributed systems. IEEE Trans. Softw. Eng. SE-11, 8 (Aug.), 820-821.

@@ -1,0 +1,148 @@
+J. L. Pruitt , W. W. Case, Architecture of a real time operating system, ACM SIGOPS Operating Systems Review, v.9 n.5, p.51-59, November 1975
+John H. Howard, Jr., Mixed solutions for the deadlock problem, Communications of the ACM, v.16 n.7, p.427-430, July 1973
+Gertrude Neuman Levine, Defining deadlock with fungible resources, ACM SIGOPS Operating Systems Review, v.37 n.3, p.5-11, July 2003
+Zvi M. Kedem , Abraham Silberschatz, Locking Protocols: From Exclusive to Shared Locks, Journal of the ACM (JACM), v.30 n.4, p.787-804, Oct. 1983
+Richard C. Holt, Models and algorithms for deadlock in computer systems, ACM SIGOPS Operating Systems Review, v.5 n.1, p.4-8, March 1971
+Clarence A. Ellis, On the probability of deadlock in computer systems, ACM SIGOPS Operating Systems Review, v.7 n.4, p.88-95, October 1973
+Zvi M. Kedem , C. Mohan , Abraham Silberschatz, An Efficient Deadlock Removal Scheme for Non-Two-Phase Locking Protocols, Proceedings of the 8th International Conference on Very Large Data Bases, p.91-97, September 08-10, 1982
+Raymond Devillers, Deadlock avoidance, non-linearity and games, Proceedings of the Fourth international conference on Verification and Evaluation of Computer and Communication Systems, p.1-8, July 01-02, 2010, Paris, France
+V. Geetha , N. Sreenath, Preventing deadlocks and starvation in distributed object oriented systems, Computers and Electrical Engineering, v.39 n.2, p.582-595, February, 2013
+T. F. Leibfried, A deadlock detection and recovery algorithm using the formalism of a directed graph matrix, ACM SIGOPS Operating Systems Review, v.23 n.2, p.45-55, April 1989
+Murali Krishnamurthi , Amar Basavatia , Sanjeev Thallikar, Deadlock detection and resolution in simulation models, Proceedings of the 26th conference on Winter simulation, p.708-715, December 11-14, 1994, Orlando, Florida, United States
+Gertrude Neuman Levine, The classification of deadlock prevention and avoidance is erroneous, ACM SIGOPS Operating Systems Review, v.39 n.2, p.47-50, April 2005
+Stephen W. Sherman , John H. Howard, Jr. , James C. Browne, A study of response times under various deadlock algorithms and job schedulers, Proceedings of the 1974 annual ACM conference, January 01-01, 1974
+Eric Cheung , Xi Chen , Harry Hsieh , Abhijit Davare , Alberto Sangiovanni-Vincentelli , Yosinori Watanabe, Runtime deadlock analysis for system level design, Design Automation for Embedded Systems, v.13 n.4, p.287-310, December 2009
+Hugo Leroux , Annya Réquilé-Romanczuk , Christine Mingins, JACOT: a tool to dynamically visualise the execution of concurrent Java programs, Proceedings of the 2nd international conference on Principles and practice of programming in Java, June 16-18, 2003, Kilkenny City, Ireland
+Ruth Fleisch , Robert Schoech , Thorsten Prante , Robert Pflegerl, Consistent use of emulation across different stages of plant development: the case of deadlock avoidance for cyclic cut-to-size processes, Proceedings of the 2013 Winter Simulation Conference: Simulation: Making Decisions in a Complex World, December 08-11, 2013, Washington, D.C.
+Charles E. Leiserson, A simple deterministic algorithm for guaranteeing the forward progress of transactions, Information Systems, v.57 n.C, p.69-74, April 2016
+S. S. Lam , Y. C. L. Lien, Congestion Control of Packet Communication Networks by Input Buffer Limits A Simulation Study, IEEE Transactions on Computers, v.30 n.10, p.733-742, October 1981
+Vijay Ahuja, Determining deadlock exposure for a class of store and forward communication networks, IBM Journal of Research and Development, v.24 n.1, p.49-55, January 1980
+Juan-Pablo López-Grao , José-Manuel Colom, Resource allocation systems: some complexity results on the S74PR class, Proceedings of the 26th IFIP WG 6.1 international conference on Formal Techniques for Networked and Distributed Systems, September 26-29, 2006, Paris, France
+Phillip Sheu, Fault tolerance in deductive knowledge bases, Proceedings of the 1988 ACM sixteenth annual conference on Computer science, p.462-466, February 1988, Atlanta, Georgia, United States
+J. Robert Jump , P. S. Thiagarajan, On the Interconnection of Asynchronous Control Structures, Journal of the ACM (JACM), v.22 n.4, p.596-612, Oct. 1975
+Donald Fussell , Zvi M. Kedem , Abraham Silberschatz, Deadlock removal using partial rollback in database systems, Proceedings of the 1981 ACM SIGMOD international conference on Management of data, April 29-May 01, 1981, Ann Arbor, Michigan
+Tiko Kameda, Testing Deadlock-Freedom of Computer Systems, Journal of the ACM (JACM), v.27 n.2, p.270-280, April 1980
+Toshihide Ibaraki , Hussein M. Abdel-Wahab , Tiko Kameda, Design of Minimum-Cost Deadlock-Free Systems, Journal of the ACM (JACM), v.30 n.4, p.736-751, Oct. 1983
+Paul F. King , Arthur J. Collmeyer, Database sharing: an efficient mechanism for supporting concurrent processes, Proceedings of the June 4-8, 1973, national computer conference and exposition, June 04-08, 1973, New York, New York
+Zakaria Suliman Zubi , Diaddeen S. Sidoon, System proposal for preventing, detecting and avoiding deadlocks in modern operating system, Proceedings of the 10th WSEAS international conference on evolutionary computing, p.29-35, March 23-25, 2009, Prague, Czech Republic
+Jaehwan Lee , Vincent John Mooney, III, A novel deadlock avoidance algorithm and its hardware implementation, Proceedings of the 2nd IEEE/ACM/IFIP international conference on Hardware/software codesign and system synthesis, September 08-10, 2004, Stockholm, Sweden
+T. Ibaraki , T. Kameda, Deadlock-Free Systems for a Bounded Number of Processes, IEEE Transactions on Computers, v.31 n.3, p.188-193, March 1982
+H. T. Kung , C. H. Papadimitriou, An optimality theory of concurrency control for databases, Proceedings of the 1979 ACM SIGMOD international conference on Management of data, May 30-June 01, 1979, Boston, Massachusetts
+Jaehwan John Lee , Vincent John Mooney, III, Ano(min(m,n)) parallel deadlock detection algorithm, ACM Transactions on Design Automation of Electronic Systems (TODAES), v.10 n.3, p.573-586, July 2005
+Dennis J. Frailey, A practical approach to managing resources and avoiding deadlocks, Communications of the ACM, v.16 n.5, p.323-329, May 1973
+Abraham Silberschatz , Zvi Kedem, Consistency in Hierarchical Database Systems, Journal of the ACM (JACM), v.27 n.1, p.72-80, Jan. 1980
+J. E. Shemer , A. J. Collmeyer, Database sharing: A study of interference, roadblock and deadlock, Proceedings of 1972 ACM-SIGFIDET workshop on Data description, access and control, p.147-163, January 1972
+Catriel Beeri , Ron Obermarck, A resource class independent deadlock detection algorithm, Proceedings of the seventh international conference on Very Large Data Bases, p.166-178, September 09-11, 1981, Cannes, France
+Gérard Boudol, A Deadlock-Free Semantics for Shared Memory Concurrency, Proceedings of the 6th International Colloquium on Theoretical Aspects of Computing, August 16-20, 2009, Kuala Lumpur, Malaysia
+Srikanth B. Yoginath , Kalyan S. Perumalla, Efficient Parallel Discrete Event Simulation on Cloud/Virtual Machine Platforms, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.26 n.1, July 2015
+Juan-Pablo López-Grao , José-Manue Colom, A petri net perspective on the resource allocation problem in software engineering, Transactions on Petri Nets and Other Models of Concurrency V, Springer-Verlag, Berlin, Heidelberg, 2012
+Robert C. Chen, Deadlock prevention in message switched networks, Proceedings of the 1974 annual conference, p.306-310, January 1974
+K. M. Mossaad , C. L. Wu, Parallel resource allocation algorithms on macro-pipelined architectures, Proceedings of the 19th annual conference on Computer Science, p.299-310, April 1991, San Antonio, Texas, United States
+Charles M. Shub, A unified treatment of deadlock, Journal of Computing Sciences in Colleges, v.19 n.1, p.194-204, October 2003
+Gregory R. Andrews , Gary M. Levin, On-the-fly deadlock prevention, Proceedings of the first ACM SIGACT-SIGOPS symposium on Principles of distributed computing, p.165-172, August 18-20, 1982, Ottawa, Canada
+Scott D. Carson , Paul F. Reynolds, Jr., The geometry of semaphore programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.9 n.1, p.25-53, Jan. 1987
+Edmund Clarke, Jr., Synthesis of Resource Invariants for Concurrent Programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.2 n.3, p.338-358, July 1980
+Gertrude Neuman Levine, Defining deadlock, ACM SIGOPS Operating Systems Review, v.37 n.1, p.54-64, January 2003
+R. Munz , G. Krenz, Concurrency in database systems: a simulation study, Proceedings of the 1977 ACM SIGMOD international conference on Management of data, August 03-05, 1977, Toronto, Ontario, Canada
+Richard C. Holt, Some deadlock properties of computer systems, Proceedings of the third ACM symposium on Operating systems principles, p.64-71, October 18-20, 1971, Palo Alto, California, United States
+J. Kent Peacock, Deadlock avoidance in loosely-coupled multiprocessors with finite buffer pools, ACM SIGOPS Operating Systems Review, v.23 n.2, p.20-24, April 1989
+Richard C. Holt, Some deadlock properties of computer systems, ACM SIGOPS Operating Systems Review, v.6 n.1/2, June 1972
+Donald S. Fussell , Zvi M. Kedem , Abraham Silberschatz, A theory of correct locking protocols for database systems, Proceedings of the seventh international conference on Very Large Data Bases, p.112-124, September 09-11, 1981, Cannes, France
+Siak Chuan Tan , Jinglan Zhang, Dynamic lock synchronisation for collaborative 3D applications, Proceedings of the 7th International Conference on Advances in Mobile Computing and Multimedia, December 14-16, 2009, Kuala Lumpur, Malaysia
+Prodromos Gerakios , Nikolaos Papaspyrou , Kostis Sagonas, A type and effect system for deadlock avoidance in low-level languages, Proceedings of the 7th ACM SIGPLAN workshop on Types in language design and implementation, January 25-25, 2011, Austin, Texas, USA
+Jonathan Vincent , Graham King , Peter Lay , John Kinghorn, Principles of Built-In-Test for Run-Time-Testability in Component-Based Software Systems, Software Quality Control, v.10 n.2, p.115-133, September 2002
+Zvi Kedem , Abraham Silberschatz, A characterization of database graphs admitting a simple locking protocol, Acta Informatica, v.16 n.1, p.1-13, August 1981
+Benjamin Morandi , Sebastian S. Bauer , Bertrand Meyer, SCOOP – a contract-based concurrent object-oriented programming model, Advanced Lectures on Software Engineering: LASER Summer School 2007/2008, Springer-Verlag, Berlin, Heidelberg, 2010
+Nick K. C. Cheung , Jiannong Cao , Alvin T. S. Chan, Analysis and Evaluation of a Distributed Monitor Construct in Java, Proceedings of the 15th International Parallel & Distributed Processing Symposium, p.108, April 23-27, 2001
+Toshimi Minoura, Deadlock avoidance revisited, Journal of the ACM (JACM), v.29 n.4, p.1023-1048, Oct. 1982
+Daniel R. Ries , Michael R. Stonebraker, Locking granularity revisited, ACM Transactions on Database Systems (TODS), v.4 n.2, p.210-227, June 1979
+Richard C. Holt, Some Deadlock Properties of Computer Systems, ACM Computing Surveys (CSUR), v.4 n.3, p.179-196, Sept. 1972
+Kelwyn A. D'Souza , Suresh K. Khator, Petri Net based simulation of controls for a computer-integrated assembly cell, Proceedings of the 24th conference on Winter simulation, p.955-962, December 13-16, 1992, Arlington, Virginia, United States
+Ahmed Nazeem , Spyros Reveliotis, Maximally permissive deadlock avoidance for resource allocation systems with R/W-locks, Discrete Event Dynamic Systems, v.25 n.1-2, p.31-63, June 2015
+M. H. Samadzadeh , B. S. Koshy, A display and analysis tool for process-resource graphs, ACM SIGOPS Operating Systems Review, v.30 n.1, p.39-62, Jan. 1996
+B. M. Mainul Hossain , Mark Grechanik , Ugo Buy , Haisheng Wang, REDACT: preventing database deadlocks from application-based transactions, Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering, August 18-26, 2013, Saint Petersburg, Russia
+Matthew J. Weinstein , Thomas W. Page, Jr. , Brian K. Livezey , Gerald J. Popek, Transactions and synchronization in a distributed operating system, ACM SIGOPS Operating Systems Review, v.19 n.5, p.115-126, Dec. 1-4, 1985
+John M. Chambers, A user-controlled synchronization method, ACM SIGOPS Operating Systems Review, v.7 n.2, p.16-25, April 1973
+J. Ezpeleta , F. García-Vallés , José Manuel Colom, A Class of Well Structured Petri Nets for Flexible Manufacturing Systems, Proceedings of the 19th International Conference on Application and Theory of Petri Nets, p.64-83, June 22-26, 1998
+J. Hofmann , H. Schmutz, Performance analysis of suspend locks in operating systems, IBM Journal of Research and Development, v.26 n.2, p.242-259, March 1982
+Richard D. Fennell , Victor R. Lesser, Parallelism in artificial intelligence problem solving: a case study of hearsay II, IEEE Transactions on Computers, v.26 n.2, p.98-111, February 1977
+Dan S. Dhaliwal , Benn R. Konsynski, Data integrity considerations in computer based accounting systems, Proceedings of the 1977 annual conference, p.6-10, January 1977
+Johan Grande , Gérard Boudol , Manuel Serrano, Jthread, a deadlock-free mutex library, Proceedings of the 17th International Symposium on Principles and Practice of Declarative Programming, p.149-160, July 14-16, 2015, Siena, Italy
+Jan Fiedor , Bohuslav K$#345;ena , Zdeněk Letko , Tom$#225;$#353; Vojnar, A uniform classification of common concurrency errors, Proceedings of the 13th international conference on Computer Aided Systems Theory, February 06-11, 2011, Las Palmas de Gran Canaria, Spain
+W. W. Chu , G. Ohlmacher, Avoiding deadlock in distributed data bases, Proceedings of the 1974 annual conference, p.156-160, January 1974
+Daniel R. Ries , Michael Stonebraker, Effects of locking granularity in a database management system, ACM Transactions on Database Systems (TODS), v.2 n.3, p.233-246, Sept. 1977
+Kevin T. Ryan, Software engineering and simulation, Proceedings of the 11th conference on Winter simulation, p.477-482, December 03-05, 1979, San Diego, CA, United States
+Bruce K. Haddon, Nested monitor calls, ACM SIGOPS Operating Systems Review, v.11 n.4, p.18-23, October 1977
+N. F. Schneidewind, Distributed System Software Design Paradigm with Application to Computer Networks, IEEE Transactions on Software Engineering, v.15 n.4, p.402-412, April 1989
+Xi Chen , Abhijit Davare , Harry Hsieh , Alberto Sangiovanni-Vincentelli , Yosinori Watanabe, Simulation based deadlock analysis for system level designs, Proceedings of the 42nd annual Design Automation Conference, June 13-17, 2005, Anaheim, California, USA
+Lucia C. Sekino, Multiple concurrent updates, Proceedings of the 1st International Conference on Very Large Data Bases, September 22-24, 1975, Framingham, Massachusetts
+Manfred Ruschitzka , R. S. Fabry, A unifying approach to scheduling, Communications of the ACM, v.20 n.7, p.469-477, July 1977
+Andrej Brodnik , Johan Karlsson, Multiprocess Time Queue, Proceedings of the 12th International Symposium on Algorithms and Computation, p.599-609, December 19-21, 2001
+Elaine Strong Acree , Milton L. Smith, Simulation of a flexible manufacturing system-applications of computer operating system techniques, Proceedings of the 18th annual symposium on Simulation, p.205-216, March 1985, Tampa, Florida, United States
+Eric Cheung , Xi Chen , Harry Hsieh , Abhijit Davare , Alberto Sangiovanni-Vincentelli , Yosinori Watanabe, Runtime deadlock analysis for system level design, Design Automation for Embedded Systems, v.13 n.4, p.287-310, December 2009
+Antoine Spicher , Olivier Michel , Jean-Louis Giavitto, Spatial computing inMGS, Proceedings of the 11th international conference on Unconventional Computation and Natural Computation, September 03-07, 2012, Orléans, France
+Scott West , Sebastian Nanz , Bertrand Meyer, A modular scheme for deadlock prevention in an object-oriented programming model, Proceedings of the 12th international conference on Formal engineering methods and software engineering, November 17-19, 2010, Shanghai, China
+Waleed A. Muhanna, Composite Programs: Hierarchical Construction, Circularity, and Deadlocks, IEEE Transactions on Software Engineering, v.17 n.4, p.320-333, April 1991
+Marc Abrams, An Example of Deriving Performance Properties from a Visual Representation of Program Execution, IEEE Transactions on Parallel and Distributed Systems, v.8 n.6, p.658-666, June 1997
+G. G. Stetsyura, Fast decentralized algorithms for resolving conflicts and deadlocks in resource allocation in data processing and control systems, Automation and Remote Control, v.71 n.4, p.708-717, April 2010
+F. Corman , A. D'ariano , D. Pacciarelli , M. Pranzo, Dispatching and coordination in multi-area railway traffic management, Computers and Operations Research, 44, p.146-160, April, 2014
+Stephanie Sánchez , Amilkar Herrera , R. Carlos A. Rovetto, Análisis y modelamiento del Canal de Panamá a través de las redes de petri, Proceedings of the 7th Euro American Conference on Telematics and Information Systems, p.1-6, April 02-04, 2014, Valparaiso, Chile
+J. M. Stone, Debugging concurrent processes: a case study, ACM SIGPLAN Notices, v.23 n.7, p.145-153, July 1988
+Barbara H. Liskov, The design of the Venus operating system, Communications of the ACM, v.15 n.3, p.144-149, March 1972
+Mark Stefik , Gregg Foster , Daniel G. Bobrow , Kenneth Kahn , Stan Lanning , Lucy Suchman, Beyond the chalkboard: computer support for collaboration and problem solving in meetings, Communications of the ACM, v.30 n.1, p.32-47, Jan. 1987
+Daniel J. Rosenkrantz , Richard E. Stearns , Philip M. Lewis, II, System level concurrency control for distributed database systems, ACM Transactions on Database Systems (TODS), v.3 n.2, p.178-198, June 1978
+David Gries , Dorothy Marsh, The 1988–89 Taulbee survey report, Communications of the ACM, v.33 n.9, p.160-169, Sept. 1990
+Jean-Louis Giavitto , Olivier Michel , Julien Cohen , Antoine Spicher, Computations in space and space in computations, Proceedings of the 2004 international conference on Unconventional Programming Paradigms, September 15-17, 2004, Le Mont Saint Michel, France
+Ding Liu , ZhiWu Li , MengChu Zhou, Liveness of an extended S3PR, Automatica (Journal of IFAC), v.46 n.6, p.1008-1018, June, 2010
+Hiroaki Inoue , Junji Sakai , Masato Edahiro, Processor virtualization for secure mobile terminals, ACM Transactions on Design Automation of Electronic Systems (TODAES), v.13 n.3, p.1-23, July 2008
+Jeffrey T. L. Soh , Wen-Jing Hsu , Shell-Ying Huang , Adrian C. Y. Ong, Decentralized routing algorithms for automated guided vehicles, ACM SIGICE Bulletin, v.22 n.2, p.12-18, Oct. 1996
+Dieter Zöbel, The Deadlock problem: a classifying bibliography, ACM SIGOPS Operating Systems Review, v.17 n.4, p.6-15, October 1983
+A.D. Kshemkalyani , M. Singhal, On Characterization and Correctness of Distributed Deadlock Detection, Journal of Parallel and Distributed Computing, v.22 n.1, p.44-59, July 1994
+Jeffrey T. L. Soh , Wen-Jing Hsu , Shell-Ying Huang , Adrian C. Y. Ong, Decentralized routing algorithms for automated guided vehicles, Proceedings of the 1996 ACM symposium on Applied Computing, p.473-479, February 17-19, 1996, Philadelphia, Pennsylvania, United States
+Mukesh Singhal, A Heuristically-Aided Algorithm for Mutual Exclusion in Distributed Systems, IEEE Transactions on Computers, v.38 n.5, p.651-662, May 1989
+Mark Grechanik , B. M. Mainul Hossain , Ugo Buy , Haisheng Wang, Preventing database deadlocks in applications, Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering, August 18-26, 2013, Saint Petersburg, Russia
+Ahmed K. Elmagarmid, A survey of distributed deadlock detection algorithms, ACM SIGMOD Record, v.15 n.3, p.37-45, Sept. 1986
+Clarence A. Ellis, Consistency and correctness of duplicate database systems, ACM SIGOPS Operating Systems Review, v.11 n.5, p.67-84, November 1977
+José Antonio Pérez , Rafael Corchuelo , David Ruiz , Miguel Toro, An Order-Based, Distributed Algorithm for Implementing Multiparty Interactions, Proceedings of the 5th International Conference on Coordination Models and Languages, p.250-257, April 08-11, 2002
+Benjamin Morandi , Sebastian Nanz , Bertrand Meyer, A formal reference for SCOOP, Empirical Software Engineering and Verification: international summmer schools, Springer-Verlag, Berlin, Heidelberg, 2012
+Yufeng Chen , Zhiwu Li , Kamel Barkaoui, Maximally permissive liveness-enforcing supervisor with lowest implementation cost for flexible manufacturing systems, Information Sciences: an International Journal, 256, p.74-90, January, 2014
+Marc Abrams, Geometric Performance Analysis of Periodic Behavior, Journal of Parallel and Distributed Computing, v.33 n.2, p.131-144, March 15, 1996
+Hao Yue , Keyi Xing , Hesuan Hu , Weimin Wu , Hongye Su, Robust supervision using shared-buffers in automated manufacturing systems with unreliable resources, Computers and Industrial Engineering, v.83 n.C, p.139-150, May 2015
+W. Hseush , G. E. Kaiser, Modeling concurrency in parallel debugging, ACM SIGPLAN Notices, v.25 n.3, p.11-20, Mar. 1990
+Richard N. Taylor, Complexity of analyzing the synchronization structure of concurrent programs, Acta Informatica, v.19 n.1, p.57-84, April 1983
+Jon A. Solworth, Integrated Network Barriers, IEEE Transactions on Parallel and Distributed Systems, v.13 n.4, p.337-348, April 2002
+Junghee Lee , Chrysostomos Nicopoulos , Hyung Gyu LEE , Jongman Kim, TornadoNoC: A lightweight and scalable on-chip network architecture for the many-core era, ACM Transactions on Architecture and Code Optimization (TACO), v.10 n.4, p.1-30, December 2013
+Walter H. Kohler, A Survey of Techniques for Synchronization and Recovery in Decentralized Computer Systems, ACM Computing Surveys (CSUR), v.13 n.2, p.149-183, June 1981
+J. Brzezinski , J.M. Helary , M. Raynal , M. Singhal, Deadlock Models and a General Algorithm for Distributed Deadlock Detection, Journal of Parallel and Distributed Computing, v.31 n.2, p.112-125, Dec. 1995
+Paul C. Attie , Hana Chockler, Efficiently verifiable conditions for deadlock-freedom of large concurrent programs, Proceedings of the 6th international conference on Verification, Model Checking, and Abstract Interpretation, January 17-19, 2005, Paris, France
+Edwin Brady , Kevin Hammond, Correct-by-Construction Concurrency: Using Dependent Types to Verify Implementations of Effectful Resource Usage Protocols, Fundamenta Informaticae, v.102 n.2, p.145-176, April 2010
+Rakesh Agrawal , David J. Dewitt, Integrated concurrency control and recovery mechanisms: design and performance evaluation, ACM Transactions on Database Systems (TODS), v.10 n.4, p.529-564, Dec. 1985
+Eric Goubault , Martin Raußen, Dihomotopy as a Tool in State Space Analysis, Proceedings of the 5th Latin American Symposium on Theoretical Informatics, p.16-37, April 03-06, 2002
+Jan-Philipp Steghöfer , Pratik Mandrekar , Florian Nafz , Hella Seebach , Wolfgang Reif, On deadlocks and fairness in self-organizing resource-flow systems, Proceedings of the 23rd international conference on Architecture of Computing Systems, February 22-25, 2010, Hannover, Germany
+Axel van Lamsweerde , Emmanuel Letier, Handling Obstacles in Goal-Oriented Requirements Engineering, IEEE Transactions on Software Engineering, v.26 n.10, p.978-1005, October 2000
+Michiel Ronsse , Koen De Bosschere, Non-Intrusive Detection of Synchronization Errors Using Execution Replay, Automated Software Engineering, v.9 n.1, p.95-121, January 2002
+J. K. Deutsch , M. R. Gary, Physical volume library deadlock avoidance in a striped media environment, Proceedings of the 14th IEEE Symposium on Mass Storage Systems, p.54, September 11-14, 1995
+Nadav Sofy , David Sarne, Effective deadlock resolution with self-interested partially-rational agents, Annals of Mathematics and Artificial Intelligence, v.72 n.3-4, p.225-266, November 2014
+Zvi M. Kedem , Abraham Silberschatz, Non-two-phase locking protocols with shared and exclusive locks, Proceedings of the sixth international conference on Very Large Data Bases, p.309-317, October 01-03, 1980, Montreal, Quebec, Canada
+Hendrik Post , Wolfgang Küchlin, Integrated static analysis for Linux device driver verification, Proceedings of the 6th international conference on Integrated formal methods, p.518-537, July 02-05, 2007, Oxford, UK
+Abdulrahman Al-Ahmari, Optimal robotic cell scheduling with controllers using mathematically based timed Petri nets, Information Sciences: an International Journal, v.329 n.C, p.638-648, February 2016
+Eric Goubault, Geometry and concurrency: a user's guide, Mathematical Structures in Computer Science, v.10 n.4, p.411-425, August 2000
+Janice M. Stone , Harold S. Stone , Philip Heidelberger , John Turek, Multiple Reservations and the Oklahoma Update, IEEE Parallel & Distributed Technology: Systems & Technology, v.1 n.4, p.58-71, November 1993
+Min Li , Shuming Gao , J. Y. H. Fuh , Y. F. Zhang, Replicated concurrency control for collaborative feature modelling: A fine granular approach, Computers in Industry, v.59 n.9, p.873-881, December, 2008
+Peter J. Denning, Third Generation Computer Systems, ACM Computing Surveys (CSUR), v.3 n.4, p.175-216, Dec. 1971
+M. Sfinghal, Deadlock Detection in Distributed Systems, Computer, v.22 n.11, p.37-48, November 1989
+Dale H. Grit , Dennis D. Georg, A top-down, laboratory based operating system course, ACM SIGCSE Bulletin, v.9 n.1, p.73-76, Feb 1977
+Hans Vandierendonck , Kallia Chronaki , Dimitrios S. Nikolopoulos, Deterministic scale-free pipeline parallelism with hyperqueues, Proceedings of SC13: International Conference for High Performance Computing, Networking, Storage and Analysis, November 17-21, 2013, Denver, Colorado
+Rafael Corchuelo , José A. Pérez , Antonio Ruiz-Cortés, Aspect-oriented interaction in multi-organisational web-based systems, Computer Networks: The International Journal of Computer and Telecommunications Networking, v.41 n.4, p.385-406, 15 March 2003
+Tiago Cogumbreiro , Raymond Hu , Francisco Martins , Nobuko Yoshida, Dynamic deadlock verification for general barrier synchronisation, Proceedings of the 20th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, February 07-11, 2015, San Francisco, CA, USA
+R. Corchuelo , J. A. Pérez , A. Ruiz, Multi-Party Coordination in the Context of MOWS, Programming and Computing Software, v.28 n.5, p.280-289, September-October 2002
+Justine Sherry , Peter Xiang Gao , Soumya Basu , Aurojit Panda , Arvind Krishnamurthy , Christian Maciocco , Maziar Manesh , João Martins , Sylvia Ratnasamy , Luigi Rizzo , Scott Shenker, Rollback-Recovery for Middleboxes, ACM SIGCOMM Computer Communication Review, v.45 n.5, October 2015
+Antonio Monzón , José L. Fernández , Juan A. de la Puente, Application of Deadlock Risk Evaluation of Architectural Models, Software—Practice & Experience, v.42 n.9, p.1137-1163, September 2012
+Raif O. Onvural, Survey of closed queueing networks with blocking, ACM Computing Surveys (CSUR), v.22 n.2, p.83-121, June 1990
+L. E. Holloway , B. H. Krogh , A. Giua, A Survey of Petri Net Methods for Controlled Discrete EventSystems, Discrete Event Dynamic Systems, v.7 n.2, p.151-190, April 1997
+Marcel Baunach, Dynamic hinting: Collaborative real-time resource management for reactive embedded systems, Journal of Systems Architecture: the EUROMICRO Journal, v.57 n.9, p.799-814, October, 2011
+Fernando C. Colon , Robert M. Glorioso , Walter H. Kohler , Dominic W. Li, Coupling small computers for performance enhancement, Proceedings of the June 7-10, 1976, national computer conference and exposition, June 07-10, 1976, New York, New York
+Gary D. Knott, A proposal for certain process management and intercommunication primitives, ACM SIGOPS Operating Systems Review, v.8 n.4, p.7-44, October 1974
+Peter Hibbard, Multiprocessor software design, Proceedings of the ACM 1980 annual conference, p.527-536, January 1980
+N. Viswanadham , Y. Narahari , T. L. Johnson, Stochastic modelling of flexible manufacturing systems, Mathematical and Computer Modelling: An International Journal, v.16 n.3, p.15-34, March, 1992
+Michel E. Adiba , Jean-Claude Chupin , Robert Demolombe , Georges Gardarin , Jean Le Bihan, Issues in distributed data base management systems: a technical overview, Proceedings of the fourth international conference on Very Large Data Bases, p.89-110, September 13-15, 1978, West Berlin, Germany

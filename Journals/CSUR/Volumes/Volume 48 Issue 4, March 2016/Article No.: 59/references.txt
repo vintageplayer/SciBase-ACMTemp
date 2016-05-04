@@ -1,0 +1,115 @@
+Akram Ben Ahmed and Abderazek Ben Abdallah. 2014. Graceful deadlock-free fault-tolerant routing algorithm for 3D network-on-chip architectures. J. Parallel Distrib. Comput. 74, 4 (2014), 2229--2240.
+Konstantinos Aisopos, Andrew DeOrio, Li-Shiuan Peh, and Valeria Bertacco. 2011. Ariadne: Agnostic reconfiguration in a disconnected network environment. In PACT’11. IEEE, 298--309.
+Sara Akbari, Ali Shafiee, Mahmoud Fathy, and Reza Berangi. 2012. AFRA: A low cost high performance reliable routing for 3D mesh NoCs. In DATE’12. IEEE, 332--337.
+Muhammad Ali, Michael Welzl, and Sven Hessler. 2007. A fault tolerant mechanism for handling permanent and transient failures in a network on chip. In ITNG’07. IEEE, 1027--1032.
+Joel Baker. 2011. De Bruijn graphs and their applications to fault tolerant networks. Oregon State University.
+Marco Balboni, José Flich, and Davide Bertozzi. 2015. Synergistic use of multiple on-chip networks for ultra-low latency and scalable distributed routing reconfiguration. In DATE’15. EDA Consortium, 806--811.
+Shane Bell, Bruce Edwards, John Amann, Rich Conlin, Kevin Joyce, Vince Leung, John MacKay et al. 2008. Tile64-processor: A 64-core soc with mesh interconnect. In ISSCC’08. IEEE, 88--598.
+Christian Bienia and Kai Li. 2011. Benchmarking Modern Processors. Ph.D. dissertation. Princeton University.
+Rimpy Bishnoi, Vijay Laxmi, Manoj Singh Gaur, and José Flich. 2015. D 2-LBDR: Distance-driven routing to handle permanent failures in 2D mesh NOCs. In DATE’15. EDA Consortium, 800--805.
+Fabien Chaix, Dimiter Avresky, Nacer-Eddine Zergainoh, and Michael Nicolaidis. 2010. Fault-tolerant deadlock-free adaptive routing for any set of link and node failures in multi-cores systems. In NCA’10. IEEE, 52--59.
+Yung-Chang Chang, Ching-Te Chiu, Shih-Yin Lin, and Chung-Kai Liu. 2011. On the design and analysis of fault tolerant NoC architecture using spare routers. In ASP-DAC’11. IEEE, 431--436.
+Changlin Chen, Ye Lu, and Sorin D. Cotofana. 2012. A novel flit serialization strategy to utilize partially faulty links in networks-on-chip. In NOCS’12. IEEE, 124--131.
+Yiou Chen, Jianhao Hu, and Xiang Ling. 2009. De Bruijn graph based 3D network on chip architecture design. In International Conference on Communications, Circuits and Systems (ICCCAS’09). IEEE, 986--990.
+Yiou Chen, Jianhao Hu, and Xiang Ling. 2006. A recursively construction scheme for super fault-tolerant Hamiltonian graphs. Appl. Math. Comput. 177, 2 (2006), 465--481.
+George Chrysos. 2014. Intel® xeon phi coprocessor—The architecture. Intel Whitepaper (2014).
+Jacques Henri Collet, Ahmed Louri, Vivek Tulsidas Bhat, and Pavan Poluri. 2011. ROBUST: A new self-healing fault-tolerant NoC router. In NoCArc’11. ACM, 11--16.
+International Roadmap Commitee. 2014. International technology roadmap for semiconductors. (2014). www.itrs.net.
+Cristian Constantinescu. 2003. Trends and challenges in VLSI circuit reliability. MICRO’03 4 (2003), 14--19.
+Kypros Constantinides, Stephen Plaza, Jason Blome, Bin Zhang, Valeria Bertacco, Scott Mahlke, Todd Austin, and Michael Orshansky. 2006. Bulletproof: A defect-tolerant CMP switch architecture. In HPCA’06. IEEE, 5--16.
+William J. Dally and Hiromichi Aoki. 1993. Deadlock-free adaptive routing in multicomputer networks using virtual channels. TPDS’93 4, 4 (1993), 466--475.
+William James Dally and Brian Patrick Towles. 2004. Principles and Practices of Interconnection Networks. Elsevier.
+Giovanni De Micheli and Luca Benini. 2006. Networks on Chips: Technology and Tools. Academic Press.
+Andrew DeOrio, David Fick, Valeria Bertacco, Dennis Sylvester, David Blaauw, Jin Hu, and Gregory Chen. 2012. A reliable routing architecture and algorithm for NoCs. IEEE Trans. Comput.-Aided Design Integr. Circ. Syst. 31, 5 (2012), 726--739.
+Giorgos Dimitrakopoulos and Emmanouil Kalligeros. 2012. Low-cost fault-tolerant switch allocator for network-on-chip routers. In INA-OCMC’12. ACM, 25--28.
+Michael Dimopoulos, Yi Gang, Lorena Anghel, Mounir Benabdenbi, Nacer-Eddine Zergainoh, and Michael Nicolaidis. 2014. Fault-tolerant adaptive routing under an unconstrained set of node and link failures for many-core systems-on-chip. Microprocess. Microsyst. 38, 6 (August 2014), 620--635.
+Dominic DiTomaso, Avinash Kodi, and Ahmed Louri. 2014. QORE: A fault tolerant network-on-chip architecture with power-efficient quad-function channel (QFC) buffers. HPCA’14 (2014).
+Ding-Zhu Du, D. Frank Hsu, Frank K. Hwang, and X. M. Zhang. 1991. The Hamiltonian property of generalized de Bruijn digraphs. J. Combin. Theory, Ser. B 52, 1 (1991), 1--8.
+Xinming Duan, Yulu Yang, Mei Yang, Lei Li, and Yingtao Jiang. 2007. Topology and binary routing schemes of a PRDT-based NoC. In ITNG’07. IEEE, 920--924.
+José Duato. 1993. A new theory of deadlock-free adaptive routing in wormhole networks. IEEE Trans. Parallel Distrib. Syst. 4, 12 (1993), 1320--1331.
+José Duato. 1995. A necessary and sufficient condition for deadlock-free adaptive routing in wormhole networks. IEEE Trans. Parallel Distrib. Syst. 6, 10 (1995), 1055--1067.
+Benoît Dupont de Dinechin, Pierre Guironnet de Massas, Guillaume Lager, Clément Léger, Benjamin Orgogozo, Jérôme Reybert, and Thierry Strudel. 2013. A distributed run-time environment for the Kalray MPPA®-256 integrated manycore processor. Proc. Comput. Sci. 18 (2013), 1654--1663.
+Mojtaba Ebrahimi, Masoud Daneshtalab, and Juha Plosila. 2013a. High performance fault-tolerant routing algorithm for NoC-based many-core systems. In PDP’13. IEEE, 462--469.
+Mojtaba Ebrahimi, Masoud Daneshtalab, Juha Plosila, and Hannu Tenhunen. 2013b. Minimal-path fault-tolerant approach using connection-retaining structure in networks-on-chip. In NOCS’13. IEEE, 1--8.
+Qin Fan, Yulu Yang, Akira Funahashi, and Hideharu Amano. 1999. A torus assignment for an interconnection network recursive diagonal torus. In I-SPAN’99. IEEE, 74--79.
+David Fick, Andrew DeOrio, Gregory Chen, Valeria Bertacco, Dennis Sylvester, and David Blaauw. 2009a. A highly resilient routing algorithm for fault-tolerant NoCs. In DATE’09. European Design and Automation Association, 21--26.
+David Fick, Andrew DeOrio, Jin Hu, Valeria Bertacco, David Blaauw, and Dennis Sylvester. 2009b. Vicis: A reliable network for unreliable silicon. In DAC’09. ACM, 812--817.
+Jose Flich and Davide Bertozzi. 2010. Designing Network on-Chip Architectures in the Nanoscale Era. CRC Press.
+Jose Flich and Jose Duato. 2008. Logic-based distributed routing for NoCs. Comput. Architect. Lett. 7, 1 (2008), 13--16.
+Binzhang Fu, Yinhe Han, Huawei Li, and Xiaowei Li. 2014. Zonedefense: A fault-tolerant routing for 2-D meshes without virtual channels. IEEE Trans. Very Large Scale Integr. Syst. 22, 1 (2014), 113--126.
+Yusuke Fukushima, Masaru Fukushi, and Susumu Horiguchi. 2009. Fault-tolerant routing algorithm for network on chip without virtual channels. In DFT’09. IEEE, 313--321.
+Elango Ganesan and Dhiraj K. Pradhan. 2003. Wormhole routing in de Bruijn networks and hyper-de Bruijn networks. In ISCAS’03, Vol. 3. IEEE, III--870.
+Amlan Ganguly, Paul Wettin, Kevin Chang, and Partha Pande. 2011. Complex network inspired fault-tolerant NoC architectures with wireless links. In NOCS’11. ACM, 169--176.
+Alberto Ghiribaldi, Daniele Ludovici, Francisco Triviño, Alessandro Strano, José Flich, José LUIS Sánchez, Francisco Alfaro, Michele Favalli, and Davide Bertozzi. 2013. A complete self-testing and self-configuring NoC infrastructure for cost-effective MPSoCs. TECS’13 12, 4 (2013), 106.
+Paul Gillard and Cheng Li. 2011. Network-on-chip (NoC) topologies and performance: A review. (2011), 1--6.
+Christopher J. Glass and Lionel M. Ni. 1992. The turn model for adaptive routing. In ACM SIGARCH Comput. Architect. News 20 (1992), 278--287.
+Daniel Greenfield, Arnab Banerjee, Jeong-Gun Lee, and Simon Moore. 2007. Implications of rent’s rule for NoC design and its fault-tolerance. In NOCS’07. IEEE, 283--294.
+Michael Gschwind, H. Peter Hofstee, Brian Flachs, Martin Hopkins, Yukio Watanabe, and Takeshi Yamazaki. 2006. Synergistic processing in cell’s multicore architecture. IEEE Micro 26, 2 (2006), 10--24.
+Parisa Khadem Hamedani, Natalie Enright Jerger, and Shaahin Hessabi. 2014. QuT: A low-power optical network-on-chip. In NOCS’14. IEEE, 80--87.
+Mohammad Hosseinabady, Mohammad Reza Kakoee, Jimson Mathew, and Dhiraj K. Pradhan. 2007. Reliable network-on-chip based on generalized de Bruijn graph. In HLVDT’07. IEEE, 3--10.
+Mohammad Hosseinabady, Mohammad Reza Kakoee, Jimson Mathew, and Dhiraj K. Pradhan. 2008. De Bruijn graph as a low latency scalable architecture for energy efficient massive NoCs. In DATE’08. ACM, 1370--1373.
+Mohammad Hosseinabady, Mohammad Reza Kakoee, Jimson Mathew, and Dhiraj K. Pradhan. 2011. Low latency and energy efficient scalable architecture for massive NoCs using generalized de Bruijn graph. IEEE Trans. Very Large Scale Integr. Syst. 19, 8 (2011), 1469--1480.
+Mohammad Reza Kakoee, Valeria Bertacco, and Luca Benini. 2011. A distributed and topology-agnostic approach for on-line NoC testing. In NOCS’11. ACM, 113--120.
+John Keane, Shrinivas Venkatraman, Paulo Butzen, and Chris H. Kim. 2011. An array-based test circuit for fully automated gate dielectric breakdown characterization. IEEE Trans. Very Large Scale Integr. Syst. 19, 5 (2011), 787--795.
+Soroush Khaleghi and Wenjing Rao. 2013. Spare sharing network enhancement for scalable systems. In DFT’13. IEEE, 249--254.
+Jongman Kim, Dongkook Park, Theo Theocharides, Narayanan Vijaykrishnan, and Chita R. Das. 2005. A low latency router supporting adaptivity for on-chip interconnects. In DAC’05. ACM, 559--564.
+Jongman Kim, Chrysostomos Nicopoulos, Dongkook Park, Vijaykrishnan Narayanan, Mazin S. Yousif, and Chita R. Das. 2006. A gracefully degrading and energy-efficient modular router architecture for on-chip networks. In ACM SIGARCH Comput. Architect. News, 34 (2006), 4--15.
+John Kim, James Balfour, and William Dally. 2007. Flattened butterfly topology for on-chip networks. In MICRO’07. IEEE Computer Society, 172--182.
+Young Bok Kim and Yong-Bin Kim. 2007. Fault tolerant source routing for network-on-chip. In DFT’07. IEEE, 12--20.
+Michihiro Koibuchi, Hiroki Matsutani, Hideharu Amano, and Timothy Mark Pinkston. 2008. A lightweight fault-tolerant mechanism for network-on-chip. In NOCS’08. IEEE Computer Society, 13--22.
+Nasser Kurd, Mashrur Chowdhury, Edward Burton, Thomas P. Thomas, Christopher Mozak, Brent Boswell, Manoj Lal, Anant Deval, James Douglas, Mahmoud Elassal, Ankireddy Nalamalpu, Timothy M. Wilson, Matthew Merten, Srinivas Chennupaty, Wilfred Gomes, and Ravindra Kumar. 2014. 5.9 Haswell: A family of IA 22nm processors. In ISSCC’14. IEEE, 112--113.
+Doowon Lee, Ritesh Parikh, and Valeria Bertacco. 2014. Brisk and limited-impact NoC routing reconfiguration. In DATE’14. IEEE, 1--6.
+Teijo Lehtonen, Pasi Liljeberg, and Juha Plosila. 2007. Online reconfigurable self-timed links for fault tolerant NoC. VLSI design 2007 (2007).
+Louis H. Liang. 1996. Methods and apparatus for test and burn-in of integrated circuit devices. (July 2 1996). US Patent 5,532,612.
+Cheng Liu, Lei Zhang, Yinhe Han, and Xiaowei Li. 2011. A resilient on-chip router design through data path salvaging. In ASP-DAC’11. IEEE, 437--442.
+Igor Loi, Subhasish Mitra, Thomas H. Lee, Shinobu Fujita, and Luca Benini. 2008. A low-overhead fault tolerance scheme for TSV-based 3D network on chip links. In ICCAD’08. IEEE, 598--602.
+Igor Loi, Federico Angiolini, Shinobu Fujita, Subhasish Mitra, and Luca Benini. 2011. Characterization and implementation of fault-tolerant vertical links for 3-D networks-on-chip. IEEE Trans. Comput.-Aided Design Integr. Circ. Syst. 30, 1 (2011), 124--134.
+Sumit D. Mediratta and Jeffrey Draper. 2007. Characterization of a fault-tolerant NoC router. In ISCAS’07. IEEE, 381--384.
+Andres Mejia, Jose Flich, Jose Duato, Sven-Arne Reinemo, and Tor Skeie. 2006. Segment-based routing: An efficient fault-tolerant routing algorithm for meshes and tori. In IPDPS’06. IEEE, 10 pp.
+Andres Mejia, Maurizio Palesi, José Flich, Shashi Kumar, Pedro López, Rickard Holsmark, and José Duato. 2009. Region-based routing: A mechanism to support efficient routing algorithms in NoCs. IEEE Trans. Very Large Scale Integr. Syst. 17, 3 (2009), 356--369.
+Randy Morris, Avinash Karanth Kodi, and Ahmed Louri. 2012. Dynamic reconfiguration of 3D photonic networks-on-chip for maximizing performance and improving fault tolerance. In MICRO’12. IEEE Computer Society, 282--293.
+Mohammad Hossein Neishaburi and Zeljko Zilic. 2009. Reliability aware NoC router architecture using input channel buffer sharing. In GLSVLSI’09. ACM, 511--516.
+Mohammad Hossein Neishaburi and Zeljko Zilic. 2011. ERAVC: Enhanced reliability aware NoC router. In SQED’11. IEEE, 1--6.
+Mohammad Hossein Neishaburi and Zeljko Zilic. 2013. NISHA: A fault-tolerant NoC router enabling deadlock-free interconnection of subnets in hierarchical architectures. J. Syst. Architect. 59, 7 (2013), 551--569.
+A. Nojeh, P. Pande, A. Ganguly, S. Sheikhaei, B. Belzer, and A. Ivanov. 2008. Reliability of wireless on-chip interconnects based on carbon nanotube antennas. In IMS3TW’08. IEEE, 1--6.
+John D. Owens, William J. Dally, Ron Ho, D. N. Jay Jayasimha, Stephen W. Keckler, and Li-Shiuan Peh. 2007. Research challenges for on-chip interconnection networks. MICRO’07 (2007), 96--108.
+Yan Pan, Prabhat Kumar, John Kim, Gokhan Memik, Yu Zhang, and Alok Choudhary. 2009. Firefly: Illuminating future network-on-chip with nanophotonics. In ACM SIGARCH Comput. Architect. News 37 (2009), 429--440.
+Ritesh Parikh and Valeria Bertacco. 2011. Formally enhanced runtime verification to ensure NoC functional correctness. In MICRO’11. ACM, 410--419.
+Ritesh Parikh and Valeria Bertacco. 2013. Udirec: Unified diagnosis and reconfiguration for frugal bypass of NoC faults. In Micro’13. ACM, 148--159.
+Hyunmin Park and Dharma P. Agrawal. 1995. A novel deadlock-free routing technique for a class of de Bruijn graph based networks. In IPDPS’95. IEEE, 524--531.
+Seungjin Park, Jong-Hoon Youn, and Bella Bose. 2000. Fault-tolerant wormhole routing algorithms in meshes in the presence of concave faults. In IPDPS’00. IEEE, 633--638.
+Sudeep Pasricha and Yong Zou. 2011. A low overhead fault tolerant routing scheme for 3D Networks-on-Chip. In ISQED’11. IEEE, 1--8.
+Pavan Poluri and Ahmed Louri. 2013. Tackling permanent faults in the network-on-chip router pipeline. In SBAC-PAD’13. IEEE, 49--56.
+Antonio Pullini, Federico Angiolini, Srinivasan Murali, David Atienza, Giovanni De Micheli, and Luca Benini. 2007. Bringing NoCs to 65 nm. IEEE Micro 27, 5 (2007), 75--85.
+Martin Radetzki, Chaochao Feng, Xueqian Zhao, and Axel Jantsch. 2013. Methods for fault tolerance in networks-on-chip. CSUR 46, 1 (2013), 8.
+Amir-Mohammad Rahmani, Pasi Liljeberg, Khalid Latif, Juha Plosila, Kameswar Rao Vaddina, and Hannu Tenhunen. 2011. Congestion aware, fault tolerant, and thermally efficient inter-layer communication scheme for hybrid NoC-bus 3D architectures. In NOCS’11. IEEE, 65--72.
+Fatemeh Refan, Homa Alemzadeh, Saeed Safari, Paolo Prinetto, and Zainalabedin Navabi. 2008. Reliability in application specific mesh-based NoC architectures. In IOLTS’08. IEEE, 207--212.
+Pengju Ren, Qingxin Meng, Xiaowei Ren, and Nanning Zheng. 2014. Fault-tolerant routing for on-chip network without using virtual channels. In DAC’14. ACM, 1--6.
+Yu Ren, Leibo Liu, Shouyi Yin, Jie Han, Qinghua Wu, and Shaojun Wei. 2013. A fault tolerant NoC architecture using quad-spare mesh topology and dynamic reconfiguration. J. Syst. Architect. 59, 7 (2013), 482--491.
+Samuel Rodrigo, Jose Flich, Antoni Roca, Simone Medardoni, Davide Bertozzi, J. Camacho, Federico Silla, and Jose Duato. 2010. Addressing manufacturing challenges with cost-efficient fault tolerant routing. In NOCS’10. IEEE, 25--32.
+Maheswara R. Samatham and Dhiraj K. Pradhan. 1989. The de bruijn multiprocessor network: A versatile parallel processing and sorting network for VLSI. IEEE Trans. Comput. 38, 4 (1989), 567--581.
+Timo Schonwald, Jochen Zimmermann, Oliver Bringmann, and Wolfgang Rosenstiel. 2007. Fully adaptive fault-tolerant routing algorithm for network-on-chip architectures. In DSD’07. IEEE, 527--534.
+Alessandro Strano, C. Gómez, Daniele Ludovici, Michele Favalli, María Engracia Gómez, and Davide Bertozzi. 2011. Exploiting network-on-chip structural redundancy for a cooperative and scalable built-in self-test architecture. In DATE’11. IEEE, 1--6.
+Alessandro Strano, Davide Bertozzi, Francisco Trivino, José L. Sánchez, Francisco J. Alfaro, and José Flich. 2012. Osr-lite: Fast and deadlock-free NoC reconfiguration framework. In SAMOS’12. IEEE, 86--95.
+Pao-Hwa Sui and Sheng-De Wang. 1997. An improved algorithm for fault-tolerant wormhole routing in meshes. IEEE Trans. Comput. 46, 9 (1997), 1040--1042.
+Xianfang Tan, Lei Zhang, Shankar Neelkrishnan, Mei Yang, Yingtao Jiang, and Yulu Yang. 2008. Scalable and fault-tolerant network-on-chip design using the quartered recursive diagonal torus topology. In GLSVLSI’08. ACM, 309--314.
+Mojtaba Valinataj, Siamak Mohammadi, Juha Plosila, and Pasi Liljeberg. 2010. A fault-tolerant and congestion-aware routing algorithm for networks-on-chip. In DDECS’10. IEEE, 139--144.
+Arseniy Vitkovskiy, Vassos Soteriou, and Chrysostomos Nicopoulos. 2010. A fine-grained link-level fault-tolerant mechanism for networks-on-chip. In ICCD’10. IEEE, 447--454.
+Arseniy Vitkovskiy, Vassos Soteriou, and Chrysostomos Nicopoulos. 2013. Dynamic fault-tolerant routing algorithm for networks-on-chip based on localised detouring paths. IET Comput. Dig. Tech. 7, 2 (2013).
+Eduardo Wachter, Augusto Erichsen, Alexandre Amory, and Fernando Moraes. 2013. Topology-agnostic fault-tolerant NoC routing method. In DATE’13. EDA Consortium, 1595--1600.
+Dajin Wang. 2003. A rectilinear-monotone polygonal fault block model for fault-tolerant minimal routing in mesh. IEEE Trans. Comput. 52, 3 (2003), 310--320.
+Jie Wu. 2002. A deterministic fault-tolerant and deadlock-free routing protocol in 2-D meshes based on odd-even turn model. In Proceedings of the 16th International Conference on Supercomputing. ACM, 67--76.
+Jie Wu. 2003. A fault-tolerant and deadlock-free routing protocol in 2D meshes based on odd-even turn model. IEEE Trans. Comput. 52, 9 (2003), 1154--1169.
+Jie Wu and Dajin Wang. 2005. Fault-tolerant and deadlock-free routing in 2-D meshes using rectilinear-monotone polygonal fault blocks. Int. J. Parall., Emerg Distrib Syst 20, 2 (2005), 99--111.
+Duan Xinming and Sun Xuemei. 2010. Fault-tolerant routing in a PRDT (2, 1)-based NoC. In ICCET’10, Vol. 2. IEEE, V2-506--V2-510.
+Guoqiang Yang, Mei Yang, Yulu Yang, and Yingtao Jiang. 2007. On the physical layout of PRDT-Based NoCs. ITNG’07 (2007), 729--733.
+Mei Yang, Tao Li, Yingtao Jiang, and Yulu Yang. 2005. Fault-tolerant routing schemes in RDT (2, 2, 1)/α-based interconnection network for networks-on-chip design. In ISPAN’05. IEEE, 6 pp.
+Yulu Yang, Akira Funahashi, Akiya Jouraku, Hiroaki Nishi, Hideharu Amano, and Toshinori Sueyoshi. 2001. Recursive diagonal torus: An interconnection network for massively parallel computers. IEEE Trans. Parallel Distrib. Syst. 12, 7 (2001), 701--715.
+Qiaoyan Yu, José Cano, José Flich, and Paul Ampadu. 2012. Transient and permanent error control for high-end multiprocessor systems-on-chip. In NOCS’12. IEEE, 169--176.
+Qiaoyan Yu and Paul Ampadu. 2011. A dual-layer method for transient and permanent error co-management in NoC links. TCAS II: Express Briefs 58, 1 (2011), 36--40.
+Yang Yu, Mei Yang, Yulu Yang, and Yingtao Jiang. 2005. A rdt-based interconnection network for scalable network-on-chip designs. In ITCC’05 IEEE, Vol. 2, 723--728.
+Yang Yulu and Hideharu Amano. 1996. Message transfer algorithms on the recursive diagonal torus. IEICE TRANSACTIONS on Information and Systems 79, 2 (1996), 107--116.
+Lei Zhang, Yinhe Han, Qiang Xu, and Xiaowei Li. 2008a. Defect tolerance in homogeneous manycore processors using core-level redundancy with unified topology. In DATE’08. ACM, 891--896.
+Meilin Zhang, Qiaoyan Yu, and Paul Ampadu. 2012. Fine-grained splitting methods to address permanent errors in network-on-chip links. In ISCAS’12. IEEE, 2717--2720.
+Zhen Zhang, Alain Greiner, and Sami Taktak. 2008b. A reconfigurable routing algorithm for a fault-tolerant 2D-mesh network-on-chip. In DAC’08. IEEE, 441--446.
+Haibo Zhu, Partha Pratim Pande, and Cristian Grecu. 2007. Performance evaluation of adaptive routing algorithms for achieving fault tolerance in NoC fabrics. In ASAP’07. IEEE, 42--47.

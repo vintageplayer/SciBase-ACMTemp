@@ -1,0 +1,67 @@
+ADIBA, M., CHUPIN, J. C., DEMOLOMBE, R., BIHAN, J. L., AND GAROAR{N, G. 1978. Issues in distributed database management systems: A technical overview. In Proceedings of the 4th International Con{erence on Very Large Data Bases (West Berlin, Sept. 13-15). IEEE, New York, pp. 89-110.
+APERS, P., HEVNER, A., AND YAO, S. B. 1983. Optimization algorithm for distributed queries. IEEE Trans Softw Eng. SE-9, 1 (Jan.), 57-68.
+E. Babb, Implementing a relational database by means of specialzed hardware, ACM Transactions on Database Systems (TODS), v.4 n.1, p.1-29, March 1979[doi>10.1145/320064.320065]
+BALDISSERA, C., BRACEHI, G., AND CERI, S. 1979. A query processing strategy for distributed databases. EURO IFIP 79, P. A. Samet, Ed. Elsevier, New York, pp. 667-677.
+Catriel Beeri , Ronald Fagin , David Maier , Alberto Mendelzon , Jeffrey Ullman , Mihalis Yannakakis, Properties of acyclic database schemes, Proceedings of the thirteenth annual ACM symposium on Theory of computing, p.355-362, May 11-13, 1981, Milwaukee, Wisconsin, United States[doi>10.1145/800076.802489]
+Catriel Beeri , Ronald Fagin , David Maier , Mihalis Yannakakis, On the Desirability of Acyclic Database Schemes, Journal of the ACM (JACM), v.30 n.3, p.479-513, July 1983[doi>10.1145/2402.322389]
+Philip A. Bernstein , Dah-Ming W. Chiu, Using Semi-Joins to Solve Relational Queries, Journal of the ACM (JACM), v.28 n.1, p.25-40, Jan. 1981[doi>10.1145/322234.322238]
+BERNSTEIN, P., AND GOODMAN, N. 1979. Full reducers for relational queries using multiattribute semijoms. Tech. Rep., Center for Research in Computing Technology, Harvard Univ., Cambridge, Mass., July.
+BERNSTEIN, P., AND GOODMAN, N. 1981. The power of natural semijoins. SIAM J. Comput. 10, 4, 751- 771.
+Philip A. Bernstein , Nathan Goodman , Eugene Wong , Christopher L. Reeve , James B. Rothnie, Jr., Query processing in a system for distributed databases (SDD-1), ACM Transactions on Database Systems (TODS), v.6 n.4, p.602-625, Dec. 1981[doi>10.1145/319628.319650]
+BLACK, P., AND LUK, W. 1982. A new heuristic for generating semljoin programs for distributed query processing. In Proceedings of the IEEE 6th International Computer Software and Apphcation Conference (Chicago, Ill., Nov. 8-12). IEEE, New York, pp. 581-588.
+Stefano Ceri , Giuseppe Pelagatti, Distributed databases principles and systems, McGraw-Hill, Inc., New York, NY, 1984
+CHAND~, K. 1977. Models of distributed systems. In Proceedings of the 3rd International Conference on Very Large Data Bases (Tokyo, Oct. 6-8). IEEE, New York, pp. 105-120.
+Jo-Mei Chang, A Heuristic Approach to Distributed Query Processing, Proceedings of the 8th International Conference on Very Large Data Bases, p.54-61, September 08-10, 1982
+CHANG, J. 1982b. Query processing in a fragmented database environment. Tech. Rep., Bell Laboratories.
+CHEN, A. L. P., AND LI, V. O. K. 1983. Properties of optimal semi-join programs for distributed query processing. In Proceedings of the IEEE 7th Internatmnal Computer Software and Application Conference (Chicago, Ill., Nov. 7-11). IEEE, New York, pp. 476-483.
+CHEUNG, T. 1981. Two methods of resolution for general equi-join queries in distributed relational database. Tech. Rep., Dept. of Computer Science, Univ. of Ottawa, Ottawa, Ont., Canada.
+Cmu, D. 1980. Optimal query interpretation for distributed databases. Ph.D. dissertation, Division of Applied Sciences, Harvard Univ., Cambridge, Mass.
+D. M. Chiu , Y. C. Ho, A methodology for interpreting tree queries into optimal semi-join expressions, Proceedings of the 1980 ACM SIGMOD international conference on Management of data, May 14-16, 1980, Santa Monica, California[doi>10.1145/582250.582277]
+E. F. Codd, A relational model of data for large shared data banks, Communications of the ACM, v.13 n.6, p.377-387, June 1970[doi>10.1145/362384.362685]
+COBB, E. F. 1972. Further normalization of the database relational model. In Database Systems Prentice-Hall, Englewood Cliffs, N.J., pp. 33-64.
+C. J. Date, An introduction to database systems: vol. I (4th ed.), Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+EPSTEIN, R., AND STONEBRAKER, M. 1980. Analysis of distributed database processing strategies. In Proceedings of the 6th Internatwnal Conference on Very Large Data Bases (Montreal, Oct. 1-3). IEEE, New York, pp. 92-101.
+Robert Epstein , Michael Stonebraker , Eugene Wong, Distributed query processing in a relational data base system, Proceedings of the 1978 ACM SIGMOD international conference on management of data, May 31-June 02, 1978, Austin, Texas[doi>10.1145/509252.509292]
+FAGgN, R., MENDELZON, A., AND ULLMAN, J. 1980. A simplified universal relation assumption and its properties. Tech. Rep., iBM.
+N. Goodman , O. Shmueli, The tree property is fundamental for query processing, Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database systems, March 29-31, 1982, Los Angeles, California[doi>10.1145/588111.588119]
+N. Goodman , O. Shmueli, Transforming cyclic schemas into trees, Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database systems, March 29-31, 1982, Los Angeles, California[doi>10.1145/588111.588120]
+Nathan Goodman , Oded Shmueli, Syntactic Characterization of Tree Database Schemas, Journal of the ACM (JACM), v.30 n.4, p.767-786, Oct. 1983[doi>10.1145/2157.322405]
+GOODMAN, N., et al 1979. Query processing in a system for distributed databases. Tech. Rep., Computer Corporation of America, Cambridge, Mass.
+Mohamed G. Gouda , Umeshwar Dayal, Optimal semijoin schedules for query processing in local distributed database systems, Proceedings of the 1981 ACM SIGMOD international conference on Management of data, April 29-May 01, 1981, Ann Arbor, Michigan[doi>10.1145/582318.582344]
+GRAHAM, M. H. 1979. On the universal relation. Tech. Rep., Dept. of Computer Science, Umv. of Toronto, Toronto, Ont., Canada, Sept.
+GRIFFITHS SELINGER, P., et al. 1979. Access path selection in a relational data base management system. Tech. Rep., iBM Research Laboratory, San Jose, Calf., Jan
+Alan Raymond Hevner, The optimization of query processing on distributed database systems, 1979
+HEVNE~t, A. R, AND YAO, S. B. 1979. Query processing in distributed database system. IEEE Trans. Softw. Eng SE-5, 3 (May), 177-187.
+Matthias Jarke , Jürgen Koch, Range nesting: a fast method to evaluate quantified queries, Proceedings of the 1983 ACM SIGMOD international conference on Management of data, May 23-26, 1983, San Jose, California[doi>10.1145/582192.582225]
+Matthias Jarke , Joachim W. Schmidt, Query processing strategies in the PASCAL/R relational database management system, Proceedings of the 1982 ACM SIGMOD international conference on Management of data, June 02-04, 1982, Orlando, Florida[doi>10.1145/582353.582402]
+KAMBAYASHI, Y. 1981. Compressed semijoins and their apphcatwns to distributed query processing. IECE Japan, AL81-54.
+Yahiko Kambayashi , Masatoshi Yoshikawa, Query processing utilizing dependencies and horizontal decomposition, Proceedings of the 1983 ACM SIGMOD international conference on Management of data, May 23-26, 1983, San Jose, California[doi>10.1145/582192.582205]
+Yahiko Kambayashi , Masatoshi Yoshikawa , Shuzo Yajima, Query processing for distributed databases using generalized semi-joins, Proceedings of the 1982 ACM SIGMOD international conference on Management of data, June 02-04, 1982, Orlando, Florida[doi>10.1145/582353.582381]
+KERSCHBERG, L., TING, P. D., AND YAO, S. B. 1980. Optimal distributed query processing. Bell Laboratories, Holmdel, N. J.
+Won Kim, On optimizing an SQL-like nested query, ACM Transactions on Database Systems (TODS), v.7 n.3, p.443-469, Sept. 1982[doi>10.1145/319732.319745]
+KIN(;, J. J. 1982. QUIST: A system for semantic query optimization in relational databases. In Proceedmgs of the 7th International Conference on Very Large Data Bases (Cannes, Sept. 9-11). IEEE, New York, pp. 510-517.
+Ravi Krishnamurthy , Stephen P. Morgan, Distributed Query Optimization: An Engineering Approach, Proceedings of the First International Conference on Data Engineering, p.220-227, April 24-27, 1984
+H. T. Kung , Philip L. Lehman, Systolic (VLSI) arrays for relational database operations, Proceedings of the 1980 ACM SIGMOD international conference on Management of data, May 14-16, 1980, Santa Monica, California[doi>10.1145/582250.582267]
+LUK, W. S., ANt) BLACK, P. A. 1981. On cost estimarion in processing a query in a distributed database system. In Proceedings of the IEEE 5th Internatwnal Computer Software and Apphcation Conference (Chicago, I11., Nov. 18-20). IEEE, New York, pp. 24-32.
+LUK, W. S., AND LUK, L. 1980. Optimal query processing strategies in a distributed database system. Tech. Rep., Dept. of Computer Scxence, Simon Fraser Univ., Burnaby, B.C., Canada.
+REINER, D. 1982 (Guest Ed.). IEEE Database Engineering Special Issue on Query Processing, Sept.
+ROTHNIE, J. B., AND GOODMAN, N. 1977a. A survey of research and development in distributed database management. In Proceedings of the 3rd Internatwnal Conference on Very Large Data Bases (Tokyo, Oct. 6-8). IEEE, New York, pp. 48-62.
+ROTHNIE, J. B., AND GOODMAN, N. 1977b. An overview of the preliminary design of SDD-1- A system for distributed databases. In Proceedings of the Berkeley Workshop on Distributed Data Management and Computer Networks (Berkeley, Calif.).
+J. B. Rothnie, Jr. , P. A. Bernstein , S. Fox , N. Goodman , M. Hammer , T. A. Landers , C. Reeve , D. W. Shipman , E. Wong, Introduction to a system for distributed databases (SDD-1), ACM Transactions on Database Systems (TODS), v.5 n.1, p.1-17, March 1980[doi>10.1145/320128.320129]
+Giovanni Maria Sacco, Distributed Query Evaluation in Local Area Networks, Proceedings of the First International Conference on Data Engineering, p.510-516, April 24-27, 1984
+STONEBRAKER, M., et al. 1982. Performance analysis of distributed data base systems. IEEE Database Eng. 5, 4 (Dec.), 58-65.
+Jeffrey D. Ullman, Principles of Database Systems, W. H. Freeman & Co., New York, NY, 1983
+Benjamin W. Wah , Yao-Nan Lien, The File-Assignment and Query-Processing Problems in Local Multiaccess Networks, Proceedings of the First International Conference on Data Engineering, p.228-235, April 24-27, 1984
+WILLIAMS, R., DANIELS, D., HAAS, L., LAPIS, O., LINDSAY, B., NG, P., OBERMARCK, R., SELINGER, P., WALKER, A., WILMS, P., AND YOST, R. 1981. R*: An overview of the architecture. Tech. Rep., IBM Research Laboratories, San Jose, Calif.
+WON(;, E. 1977. Retrieving dispersed data from SDD-i: A system for distributed databases. In Proceedings of the 2nd Berkeley Workshop on Dtstributed Data Management and Computer Networks (Berkeley, Calif.), pp. 217-235.
+WONO, E. 1981. Dynamic re-materialization: Processmg distributed queries using redundant data. In Proceedings of the Berkeley workshop on Distributed Data Management and Computer Networks (Berkeley, Calif.).
+E. Wong , R. H. Katz, Distributing a database for parallelism, Proceedings of the 1983 ACM SIGMOD international conference on Management of data, May 23-26, 1983, San Jose, California[doi>10.1145/582192.582201]
+Eugene Wong , Karel Youssefi, Decomposition—a strategy for query processing, ACM Transactions on Database Systems (TODS), v.1 n.3, p.223-241, Sept. 1976[doi>10.1145/320473.320479]
+S. B. Yao, Approximating block accesses in database organizations, Communications of the ACM, v.20 n.4, p.260-261, April 1977[doi>10.1145/359461.359475]
+Yu, C. T, AND OZSOYOGLU, M. Z. 1979. An algorithm for tree-query membership of a distributed query. In Proceedings of the IEEE 3rd International Computer Software and Apphcat~on Conference (Chicago, I11., Nov.). IEEE, New York, pp. 306-312.
+Clement T. Yu , Z. Meral Ozsoyoglu , K. Lam, Optimization of distributed tree queries, Journal of Computer and System Sciences, v.29 n.3, p.409-445, Dec. 1984[doi>10.1016/0022-0000(84)90007-2]
+Yu, C. T., LAM, K., CHANG, C., ANt) CHANG, S. 1982a Promising approach to distributed query processing. In Proceedings of the Berkeley Workshop on Distributed Data Management and Compurer Networks (Berkeley, Calif.), pp. 363-390.
+Yu, C. T., CHANG, C., AND CHANG, Y. 1982b. Two surprising results in processing simple queries in distributed databases. In Proceedings of the IEEE 6th International Computer Software and Apphcation Conference (Chicago, I11., Nov. 8-12). IEEE, New York, pp. 377-384.
+Yu, C., CHANG, C., TEMPLETON, M., BRILL, D., AND LUND, E. 1983. On the design of a distributed query processing algorithm. In Proceedings of the A CM-SIGMOD International Conference on Management of Data (San Jose, Calif., May 23- 26). ACM, New York, pp. 30-39.
+Yu, C., GuH, K., CHANG, C., CHEN, C., TEMPLETON, M., AND BRiLL, D. 1984a. Placement dependency and aggregate processing in fragmented distributed database environment. In Proceedings of the IEEE 8th International Computer Software and Apphcation Conference (Chicago, I11.). IEEE, New York.
+Yu, C., GUH, K., CXANG, C., CHEW, C., TEMPLETON, M., AND BRILL, D. 1984b. An algorithm to process queries in a fast distributed network, in Proceedings of the IEEE Real Time Systems Syrnposium (Austin, Tex.). IEEE, New York, pp. 115- 122.

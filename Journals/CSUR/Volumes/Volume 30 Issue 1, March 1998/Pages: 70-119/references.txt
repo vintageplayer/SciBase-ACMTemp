@@ -1,0 +1,115 @@
+D. Agrawal , A. El Abbadi , A. E. Lang, The Performance of Protocols Based on Locks with Ordered Sharing, IEEE Transactions on Knowledge and Data Engineering, v.6 n.5, p.805-818, October 1994[doi>10.1109/69.317708]
+Rakesh Agrawal , Michael J. Carey , Miron Livny, Concurrency control performance modeling: alternatives and implications, ACM Transactions on Database Systems (TODS), v.12 n.4, p.609-654, Dec. 1987[doi>10.1145/32204.32220]
+Rakesh Agrawal , Michael J. Carey , Lawrence McVoy, The Performance of Alternative Strategies for Dealing with Deadlocks in Database Management Systems, IEEE Transactions on Software Engineering, v.13 n.12, p.1348-1363, December 1987[doi>10.1109/TSE.1987.233145]
+Paul Ammann , Sushil Jajodia , Indrakshi Ray, Applying formal methods to semantic-based decomposition of transactions, ACM Transactions on Database Systems (TODS), v.22 n.2, p.215-254, June 1997[doi>10.1145/249978.249981]
+B. R. Badrinath , Krithi Ramamritham, Semantics-based concurrency control: beyond commutativity, ACM Transactions on Database Systems (TODS), v.17 n.1, p.163-199, March 1992[doi>10.1145/128765.128771]
+Naser S. Barghouti , Gail E. Kaiser, Concurrency control in advanced database applications, ACM Computing Surveys (CSUR), v.23 n.3, p.269-317, Sept. 1991[doi>10.1145/116873.116875]
+Rudolf Bayer, Consistency of transactions and random batch, ACM Transactions on Database Systems (TODS), v.11 n.4, p.397-404, Dec. 1986[doi>10.1145/7239.214287]
+Philip A. Bernstein , Nathan Goodman, Concurrency Control in Distributed Database Systems, ACM Computing Surveys (CSUR), v.13 n.2, p.185-221, June 1981[doi>10.1145/356842.356846]
+Philip A. Bernstein , Vassco Hadzilacos , Nathan Goodman, Concurrency control and recovery in database systems, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1987
+Azer Bestavros , Spyridon Braoudakis, Value-cognizant Speculative Concurrency Control, Proceedings of the 21th International Conference on Very Large Data Bases, p.122-133, September 11-15, 1995
+Paul M. Bober , Michael J. Carey, On Mixing Queries and Transactions via Multiversion Locking, Proceedings of the Eighth International Conference on Data Engineering, p.535-545, February 03-07, 1992
+C. Boksenbaum , M. Cart , J. Ferrié , J.-F. Pons, Concurrent Certifications by Intervals of Timestamps in Distributed Database Systems, IEEE Transactions on Software Engineering, v.13 n.4, p.409-419, April 1987[doi>10.1109/TSE.1987.233178]
+Yuri Breitbart , Hector Garcia-Molina , Avi Silberschatz, Overview of multidatabase transaction management, The VLDB Journal — The International Journal on Very Large Data Bases, v.1 n.2, p.181-240, October 1992[doi>10.1007/BF01231700]
+Albert Burger , Peter Thanisch, Branching Transactions: A Transaction Model for Parallel Database Systems, Proceedings of the 12th British National Conference on Databases: Directions in Databases, p.121-136, July 06-08, 1994
+Michael J. Carey , Miron Livny, Conflict detection tradeoffs for replicated data, ACM Transactions on Database Systems (TODS), v.16 n.4, p.703-746, Dec. 1991[doi>10.1145/115302.115289]
+M. J. Carey , R. Jauhari , M. Livny, On Transaction Boundaries in Active Databases: A Performance Perspective, IEEE Transactions on Knowledge and Data Engineering, v.3 n.3, p.320-336, September 1991[doi>10.1109/69.91062]
+Michael J. Carey , Michael J. Franklin , Miron Livny , Eugene J. Shekita, Data caching tradeoffs in client-server DBMS architectures, Proceedings of the 1991 ACM SIGMOD international conference on Management of data, p.357-366, May 29-31, 1991, Denver, Colorado, USA[doi>10.1145/115790.115854]
+W. Cellary , E. Gelenbe , T. Morzy, Concurrency control in distributed database systems, Elsevier Science Inc., New York, NY, 1988
+Stefano Ceri , Giuseppe Pelagatti, Distributed databases principles and systems, McGraw-Hill, Inc., New York, NY, 1984
+A. Chesnais , E. Gelenbe , I. Mitrani, On the modeling of parallel access to shared data, Communications of the ACM, v.26 n.3, p.196-202, March 1983[doi>10.1145/358061.358073]
+C. J. Date, An introduction to database systems: vol. I (4th ed.), Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+Ahmed K. Elmagarmid, Database transaction models for advanced applications, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1992
+Abdel Aziz Farrag , M. Tamer Özsu, Using semantic knowledge of transactions to increase concurrency, ACM Transactions on Database Systems (TODS), v.14 n.4, p.503-525, Dec. 1989[doi>10.1145/76902.76905]
+Peter Franaszek , John T. Robinson, Limitations of concurrency in transaction processing, ACM Transactions on Database Systems (TODS), v.10 n.1, p.1-28, March 1985[doi>10.1145/3148.3160]
+P. A. Franaszek , J. R. Haritsa , J. T. Robinson , A. Thomasian, Distributed Concurrency Control Based on Limited Wait-Depth, IEEE Transactions on Parallel and Distributed Systems, v.4 n.11, p.1246-1264, November 1993[doi>10.1109/71.250103]
+Peter A. Franaszek , John T. Robinson , Alexander Thomasian, Access Invariance and Its Use in High Contention Environments, Proceedings of the Sixth International Conference on Data Engineering, p.47-55, February 05-09, 1990
+FRANASZEK, P. A., ROBINSON, J. T., AND THOMASIAN, A. 1991a. Adaptive concurrency control scheme for transaction processing. IBM Tech. Disclosure Bull. 33, 9 (Feb.), 29-30.
+FRANASZEK, P. A., ROBINSON, J. T., AND THOMASIAN, A. 1991b. Integrated concurrency control/ CPU scheduling. IBM Tech. Disclosure Bull. 33, 9 (Feb.), 37-40.
+Peter A. Franaszek , John T. Robinson , Alexander Thomasian, Concurrency control for high contention environments, ACM Transactions on Database Systems (TODS), v.17 n.2, p.304-345, June 1992[doi>10.1145/128903.128906]
+GALLER, B.I. AND BOS, L. 1983. A model of transaction blocking in databases. Perform. Eval. 3, 95-122.
+Hector Garcia-Molina, Using semantic knowledge for transaction processing in a distributed database, ACM Transactions on Database Systems (TODS), v.8 n.2, p.186-213, June 1983[doi>10.1145/319983.319985]
+Hector Garcia-Molina , Kenneth Salem, Sagas, Proceedings of the 1987 ACM SIGMOD international conference on Management of data, p.249-259, May 27-29, 1987, San Francisco, California, USA[doi>10.1145/38713.38742]
+Jim Gray, Benchmark Handbook: For Database and Transaction Processing Systems, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1992
+Jim Gray , Andreas Reuter, Transaction Processing: Concepts and Techniques, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1992
+Theo Härder, Observations on optimistic concurrency control schemes, Information Systems, v.9 n.2, p.111-120, 1984[doi>10.1016/0306-4379(84)90020-6]
+Theo Härder , Kurt Rothermel, Concurrency control issues in nested transactions, The VLDB Journal — The International Journal on Very Large Data Bases, v.2 n.1, p.39-74, January 1993[doi>10.1007/BF01231798]
+Meichun Hsu , Bin Zhang, Performance evaluation of cautious waiting, ACM Transactions on Database Systems (TODS), v.17 n.3, p.477-512, Sept. 1992[doi>10.1145/132271.132275]
+Bin Zhang , Meichun Hsu, Modeling performance impact of hot spots, Performance of concurrency control mechanisms in centralized database systems, Prentice-Hall, Inc., Upper Saddle River, NJ, 1995
+Jiandong Huang , John A. Stankovic , Krithi Ramamritham , Donald F. Towsley, Experimental Evaluation of Real-Time Optimistic Concurrency Control Schemes, Proceedings of the 17th International Conference on Very Large Data Bases, p.35-46, September 03-06, 1991
+Keki B. Irani , Hing-Lung Lin, Queueing network models for concurrent transaction processing in a database system, Proceedings of the 1979 ACM SIGMOD international conference on Management of data, May 30-June 01, 1979, Boston, Massachusetts[doi>10.1145/582095.582116]
+H. V. Jagadish , Oded Shmueli, Proclamation-Based Model for Cooperating Transactions, Proceedings of the 18th International Conference on Very Large Data Bases, p.265-276, August 23-27, 1992
+B. -C. Jenq , B. C. Twichell , T. W. Keller, Locking Performance in a Shared Nothing Parallel Database Machine, IEEE Transactions on Knowledge and Data Engineering, v.1 n.4, p.530-543, December 1989[doi>10.1109/69.43427]
+Theodore Johnson , Dennis Sasha, The performance of current B-tree algorithms, ACM Transactions on Database Systems (TODS), v.18 n.1, p.51-101, March 1993[doi>10.1145/151284.151286]
+Setrag Khoshafian , Marek Buckiewicz, Introduction to groupware, workflow, and workgroup computing, John Wiley & Sons, Inc., New York, NY, 1995
+Leonard Kleinrock, Theory, Volume 1, Queueing Systems, Wiley-Interscience, 1975
+Henry F. Korth , Greg Speegle, Formal aspects of concurrency control in long-duration transaction systems using the NT/PV model, ACM Transactions on Database Systems (TODS), v.19 n.3, p.492-535, Sept. 1994[doi>10.1145/185827.185854]
+Narayanan Krishnakumar , Arthur J. Bernstein, Bounded ignorance: a technique for increasing concurrency in a replicated system, ACM Transactions on Database Systems (TODS), v.19 n.4, p.586-625, Dec. 1994[doi>10.1145/195664.195670]
+Vijay Kumar, Performance of concurrency control mechanisms in centralized database systems, Prentice-Hall, Inc., Upper Saddle River, NJ, 1995
+H. T. Kung , John T. Robinson, On optimistic methods for concurrency control, ACM Transactions on Database Systems (TODS), v.6 n.2, p.213-226, June 1981[doi>10.1145/319566.319567]
+Annie W. Shum , Andrew M. Langer, The distribution of granule accesses made by database transactions, Communications of the ACM, v.25 n.11, p.831-832, Nov 1982[doi>10.1145/358690.358714]
+Edward D. Lazowska , John Zahorjan , G. Scott Graham , Kenneth C. Sevcik, Quantitative system performance: computer system analysis using queueing network models, Prentice-Hall, Inc., Upper Saddle River, NJ, 1984
+K. Li , J. F. Naughton, Multiprocessor main memory transaction processing, Proceedings of the first international symposium on Databases in parallel and distributed systems, p.177-187, December 05-07, 1988, Austin, Texas, USA
+LYNCH, N., MERRITT, M., WEIHL, W., AND FEKETE, A. 1994. Atomic Transactions. Morgan- Kaufmann, San Mateo, CA.
+William A. Massey, A probabilistic analysis of a database system, Proceedings of the 1986 ACM SIGMETRICS joint international conference on Computer performance modelling, measurement and evaluation, p.141-146, May 1986, Raleigh, North Carolina, USA[doi>10.1145/317499.317547]
+Sharad Mehrotra , Henry F. Korth , Avi Silberschatz, Concurrency control in hierarchical multidatabase systems, The VLDB Journal — The International Journal on Very Large Data Bases, v.6 n.2, p.152-172, May 1997[doi>10.1007/s007780050038]
+MENASCE, D.A. AND NAKANISHI, T. 1982. Optimistic versus pessimistic concurrency control mechanisms in database management systerns. Inf. Syst. 7, 1, 13-27.
+Axel Mönkeberg , Gerhard Weikum, Performance Evaluation of an Adaptive and Robust Load Control Method for the Avoidance of Data-Contention Thrashing, Proceedings of the 18th International Conference on Very Large Data Bases, p.432-443, August 23-27, 1992
+MOHAN, C. 1992. Less optimism about optimistic concurrency control. In Proceedings of the Second International Workshop on Research Issues on Data Engineering (Tempe, AZ, Feb.), 199-204.
+C. Mohan , Frank Levine, ARIES/IM: an efficient and high concurrency index management method using write-ahead logging, Proceedings of the 1992 ACM SIGMOD international conference on Management of data, p.371-380, June 02-05, 1992, San Diego, California, USA[doi>10.1145/130283.130338]
+C. Mohan , Don Haderle , Bruce Lindsay , Hamid Pirahesh , Peter Schwarz, ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging, ACM Transactions on Database Systems (TODS), v.17 n.1, p.94-162, March 1992[doi>10.1145/128765.128770]
+C. Mohan , Hamid Pirahesh , Raymond Lorie, Efficient and flexible methods for transient versioning of records to avoid locking by read-only transactions, Proceedings of the 1992 ACM SIGMOD international conference on Management of data, p.124-133, June 02-05, 1992, San Diego, California, USA[doi>10.1145/130283.130306]
+W. A. Montgomery, ROBUST CONCURRENCY CONTROL FOR A DISTRIBUTED INFORMATION SYSTEM, Massachusetts Institute of Technology, Cambridge, MA, 1979
+MORRIS, R. J. T. AND TONG, W.S. 1985. Performance analysis of locking and optimistic concurrency control algorithms. Perform. Eval. 5, 2, 105-118.
+J. E.B. Moss, Nested transactions:  an approach to reliable distributed computing, Massachusetts Institute of Technology, Cambridge, MA, 1985
+Patrick E. O'Neil, The Escrow transactional method, ACM Transactions on Database Systems (TODS), v.11 n.4, p.405-430, Dec. 1986[doi>10.1145/7239.7265]
+Patrick E. O'Neil , Krithi Ramamritham , Calton Pu, A two-phase approach to predictably scheduling real-time transactions, Performance of concurrency control mechanisms in centralized database systems, Prentice-Hall, Inc., Upper Saddle River, NJ, 1995
+Ozsu, M.T. 1994. Transaction models and transaction management in object-oriented database management systems. In Advances in Object-Oriented Database Systems. A. Dogac, M.T. Ozsu, A. Biliris, and T. Sellis, Eds. Springer-Verlag, New York, 147-184.
+Peter Peinl , Andreas Reuter , Harald Sammer, High contention in a stock trading database: a case study, Proceedings of the 1988 ACM SIGMOD international conference on Management of data, p.260-268, June 01-03, 1988, Chicago, Illinois, USA[doi>10.1145/50202.50234]
+D. Potier , Ph. Leblanc, Analysis of locking policies in database management systems, Communications of the ACM, v.23 n.10, p.584-593, Oct. 1980[doi>10.1145/359015.359021]
+Calton Pu , Avraham Leff, Replica control in distributed systems: as asynchronous approach, Proceedings of the 1991 ACM SIGMOD international conference on Management of data, p.377-386, May 29-31, 1991, Denver, Colorado, USA[doi>10.1145/115790.115856]
+Erhard Rahm, Empirical performance evaluation of concurrency and coherency control protocols for database sharing systems, ACM Transactions on Database Systems (TODS), v.18 n.2, p.333-377, June 1993[doi>10.1145/151634.151639]
+Krithi Ramamritham, Real-time databases, Distributed and Parallel Databases, v.1 n.2, p.199-226, April 1993[doi>10.1007/BF01264051]
+Krithi Ramamritham , Panos K. Chrysanthis, Executive Briefing: Advances in Concurrency Control and Transaction Processing, IEEE Computer Society Press, Los Alamitos, CA, 1996
+REUTER, A. 1985. The transaction pipeline processor. In International Workshop on High Performance Transaction Systems (Pacific Grove, CA, Sept.).
+John Timothy Robinson, Design of concurrency controls for transaction processing systems, Carnegie Mellon University, Pittsburgh, PA, 1982
+ROBINSON, g.T. 1982b. Experiments with transaction processing on a multiprocessor. IBM Res. Rep. RC 9725, Yorktown Heights, NY, Dec.
+ROBINSON, g.T. 1984. Separating policy from correctness in concurrency control design. Softw. Pract. Exper. 14, 9 (Sept.), 827-844.
+Daniel J. Rosenkrantz , Richard E. Stearns , Philip M. Lewis, II, System level concurrency control for distributed database systems, ACM Transactions on Database Systems (TODS), v.3 n.2, p.178-198, June 1978[doi>10.1145/320251.320260]
+In Kyung Ryu , Alexander Thomasian, Performance analysis of centralized databases with optimistic concurrency control, Performance Evaluation, v.7 n.3, p.195-211, August 1, 1987[doi>10.1016/0166-5316(87)90040-X]
+RYU, I. K. AND THOMASIAN, A. 1988. Performance analysis of centralized databases with static locking. Unpublished rep., IBM T.J. Watson Research Center, Hawthorne, NY.
+In Kyung Ryu , Alexander Thomasian, Analysis of database performance with dynamic locking, Journal of the ACM (JACM), v.37 n.3, p.491-523, July 1990[doi>10.1145/79147.79152]
+In Kyung Ryu , Alexander Thomasian, Performance Analysis of Dynamic Locking with the No-Waiting Policy, IEEE Transactions on Software Engineering, v.16 n.7, p.684-698, July 1990[doi>10.1109/32.56095]
+Kenneth Salem , Héctor García-Molina , Jeannie Shands, Altruistic locking, ACM Transactions on Database Systems (TODS), v.19 n.1, p.117-165, March 1994[doi>10.1145/174638.174639]
+George Samaras , Kathryn Britton , Andrew Citron , C. Mohan, Two-phase commit optimizations in a commercial distributed environment, Distributed and Parallel Databases, v.3 n.4, p.325-360, Oct. 1995[doi>10.1007/BF01299677]
+Dennis Shasha , Francois Llirbat , Eric Simon , Patrick Valduriez, Transaction chopping: algorithms and performance studies, ACM Transactions on Database Systems (TODS), v.20 n.3, p.325-363, Sept. 1995[doi>10.1145/211414.211427]
+Mukesh Singhal, Performance analysis of the basic timestamp ordering algorithm via Markov modeling, Performance Evaluation, v.12 n.1, p.17-41, Jan. 1991[doi>10.1016/0166-5316(91)90013-S]
+Vigyan Singhal , Alan Jay Smith, Analysis of locking behavior in three real database systems, The VLDB Journal — The International Journal on Very Large Data Bases, v.6 n.1, p.40-52, February 1997[doi>10.1007/s007780050032]
+Andrea H. Skarra , Stanley B. Zdonik, Concurrency control and object-oriented databases, Object-oriented concepts, databases, and applications, ACM, New York, NY, 1989[doi>10.1145/63320.66511]
+V. Srinivasan , Michael J. Carey, Performance of B+tree concurrency control algorithms, The VLDB Journal — The International Journal on Very Large Data Bases, v.2 n.4, p.361-406, October 1993[doi>10.1007/BF01263046]
+Y. C. Tay, Locking performance in centralized databases, Academic Press Professional, Inc., San Diego, CA, 1988
+TAY, Y.C. 1990. Issues in modelinglocking performance. In Stochastic Analysis of Computer and Communication Systems, H. Takagi, Ed., North-Holland, New York, 631-658.
+Y. C. Tay , Nathan Goodman , R. Suri, Locking performance in centralized databases, ACM Transactions on Database Systems (TODS), v.10 n.4, p.415-462, Dec. 1985[doi>10.1145/4879.4880]
+Y. C. Tay , Rajan Suri , Nathan Goodman, A mean value performance model for locking in databases: the no-waiting case, Journal of the ACM (JACM), v.32 n.3, p.618-651, July 1985[doi>10.1145/3828.3831]
+THOMASIAN, A. 1982. An iterative solution to the queueing network model of a DBMS with dynamic locking. In Proceedings of the Thirteenth Computer Measurement Group Conference (San Diego, Dec.), 252-261.
+Alexander Thomasian, Performance Evaluation of Centralized Databases with Static Locking, IEEE Transactions on Software Engineering, v.11 n.4, p.346-355, April 1985[doi>10.1109/TSE.1985.232224]
+Alexander Thomasian, Distributed Optimistic Concurrency Control Methods for High-Performance Transaction Processing, IEEE Transactions on Knowledge and Data Engineering, v.10 n.1, p.173-189, January 1998[doi>10.1109/69.667102]
+Alexander Thomasian, Performance analysis of locking policies with limited wait depth, Proceedings of the 1992 ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems, p.115-127, June 01-05, 1992, Newport, Rhode Island, USA[doi>10.1145/133057.133095]
+Alexander Thomasian, Two-phase locking performance and its thrashing behavior, ACM Transactions on Database Systems (TODS), v.18 n.4, p.579-625, Dec. 1993[doi>10.1145/169725.169720]
+Alexander Thomasian, A fractional data allocation method for distributed databases, Proceedings of the third international conference on on Parallel and distributed information systems, p.168-175, October 1994, Autin, Texas, USA
+THOMASIAN, n. 1995a. Performance analysis of locking policies with limited wait depth. Perform. Eval. (submitted). Also IBM Res. Rep. RC 19977, Hawthorne, NY, March.
+Alexander Thomasian, Checkpointing for Optimistic Concurrency Control Methods, IEEE Transactions on Knowledge and Data Engineering, v.7 n.2, p.332-339, April 1995[doi>10.1109/69.382303]
+Alexander Thomasian, Database Concurrency Control: Methods, Performance, and Analysis, Kluwer Academic Publishers, Norwell, MA, 1996
+Alexander Thomasian, A more realistic locking model and its analysis, Information Systems, v.21 n.5, p.409-430, July 1996[doi>10.1016/0306-4379(96)84499-1]
+Alexander Thomasian, A Performance Comparison of Locking Methods with Limited Wait Depth, IEEE Transactions on Knowledge and Data Engineering, v.9 n.3, p.421-434, May 1997[doi>10.1109/69.599931]
+Alexander Thomasian, Distributed Optimistic Concurrency Control Methods for High-Performance Transaction Processing, IEEE Transactions on Knowledge and Data Engineering, v.10 n.1, p.173-189, January 1998[doi>10.1109/69.667102]
+A. Thomasian , V. F. Nicola, Performance Evaluation of a Threshold Policy for Scheduling Readers and Writers, IEEE Transactions on Computers, v.42 n.1, p.83-98, January 1993[doi>10.1109/12.192216]
+THOMASIAN, A. AND RAHM, E. 1990. A new distributed optimistic concurrency control method and a comparison of its performance with two-phase locking. In Proceedings of 1990 International Conference on Distributed Computing Systems (Paris, May), 294-301.
+Alexander Thomasian , In Kyung Ryu, A decomposition solution to the queueing network model of the centralized DBMS with static locking, Proceedings of the 1983 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.82-92, August 29-31, 1983, Minneapolis, Minnesota, USA[doi>10.1145/800040.801397]
+THOMASIAN, A. AND RYU, I. K. 1986. Performance comparison of concurrency control methods for shared centralized databases. Unpublished rep., IBM T. J. Watson Research Center, Hawthorne, NY.
+Alexander Thomasian , In Kyung Ryu, A Recursive Solution Method to Analyze the Performance of Static Locking Systems, IEEE Transactions on Software Engineering, v.15 n.10, p.1147-1156, October 1989[doi>10.1109/TSE.1989.559761]
+Alexander Thomasian , In Kyung Ryu, Performance Analysis of Two-Phase Locking, IEEE Transactions on Software Engineering, v.17 n.5, p.386-402, May 1991[doi>10.1109/32.90443]
+W. E. Weihl, Commutativity-Based Concurrency Control for Abstract Data Types, IEEE Transactions on Computers, v.37 n.12, p.1488-1505, December 1988[doi>10.1109/12.9728]
+Gerhard Weikum, Principles and realization strategies of multilevel transaction management, ACM Transactions on Database Systems (TODS), v.16 n.1, p.132-180, March 1991[doi>10.1145/103140.103145]
+Gerhard Weikum , Christof Hasse , Axel Mönkeberg , Peter Zabback, The COMFORT automatic tuning project, Information Systems, v.19 n.5, p.381-432, July 1994[doi>10.1016/0306-4379(94)90004-3]
+Philip S. Yu , Daniel M. Dias , Stephen S. Lavenberg, On the analytical modeling of database concurrency control, Journal of the ACM (JACM), v.40 n.4, p.831-872, Sept. 1993[doi>10.1145/153724.153733]

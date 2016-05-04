@@ -1,0 +1,1 @@
+The state machine approach is a general method for implementing fault-tolerant services in distributed systems. This paper reviews the approach and describes protocols for two different failure models—Byzantine and fail stop. Systems reconfiguration techniques for removing faulty components and integrating repaired components are also discussed.

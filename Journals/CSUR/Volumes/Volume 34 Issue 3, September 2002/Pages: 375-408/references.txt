@@ -1,0 +1,63 @@
+Lorenzo Alvisi, Understanding the message logging paradigm for masking process crashes, Cornell University, Ithaca, NY, 1996
+Lorenzo Alvisi , Keith Marzullo, Message Logging: Pessimistic, Optimistic, Causal, and Optimal, IEEE Transactions on Software Engineering, v.24 n.2, p.149-159, February 1998[doi>10.1109/32.666828]
+Lorenzo Alvisi , Sriram Rao , Syed Amir Husain , Asanka de Mel , Elmootazbellah Elnozahy, An Analysis of Communication-Induced Checkpointing, Proceedings of the Twenty-Ninth Annual International Symposium on Fault-Tolerant Computing, p.242, June 15-18, 1999
+Appel, A. W. 1989. A runtime system. Technical Report CS-TR220-89, Department of Computer Science, Princeton University.
+Özalp Babaoglu , William Joy, Converting a swap-based system to do paging in an architecture lacking page-referenced bits, Proceedings of the eighth ACM symposium on Operating systems principles, p.78-86, December 14-16, 1981, Pacific Grove, California, USA[doi>10.1145/800216.806595]
+R. Baldoni , F. Quaglia , B. Ciciani, A VP-Accordant Checkpointing Protocol Preventing Useless Checkpoints, Proceedings of the The 17th IEEE Symposium on Reliable Distributed Systems, p.61, October 20-23, 1998
+Michel Banâtre , Gilles Muller , Jean-Pierre Banâtre, Ensuring Data Security and Integrity with a Fast Stable Storage, Proceedings of the Fourth International Conference on Data Engineering, p.285-293, February 01-05, 1988
+Joel F. Bartlett, A NonStop kernel, Proceedings of the eighth ACM symposium on Operating systems principles, p.22-29, December 14-16, 1981, Pacific Grove, California, USA[doi>10.1145/800216.806587]
+Adam Beguelin , Erik Seligman , Peter Stephan, Application level fault tolerance in heterogeneous networks of workstations, Journal of Parallel and Distributed Computing, v.43 n.2, p.147-155, June 15, 1997[doi>10.1006/jpdc.1997.1338]
+Bhargava, B. and Lian, S. R. 1988. Independent checkpointing and concurrent rollback for recovery---An optimistic approach. In Proceedings, Seventh Symposium on Reliable Distributed Systems, 3--12.
+Bharat K. Bhargava , Shy-Renn Lian , Pei-Jyun Leu, Experimental Evaluation of Concurrency Checkpointing and Rollback-Recovery Algorithms, Proceedings of the Sixth International Conference on Data Engineering, p.182-189, February 05-09, 1990
+Anita Borg , Wolfgang Blau , Wolfgang Graetsch , Ferdinand Herrmann , Wolfgang Oberle, Fault tolerance under UNIX, ACM Transactions on Computer Systems (TOCS), v.7 n.1, p.1-24, Feb. 1989[doi>10.1145/58564.58565]
+T. C. Bressoud , F. B. Schneider, Hypervisor-based fault tolerance, Proceedings of the fifteenth ACM symposium on Operating systems principles, p.1-11, December 03-06, 1995, Copper Mountain, Colorado, USA[doi>10.1145/224056.224058]
+Briatico, D., Ciuffoletti, A., and Simoncini, L. 1984. A distributed domino-effect free recovery algorithm. In IEEE International Symposium on Reliability, Distributed Software, and Databases, 207--215.
+Chandy, M. and Ramamoorthy, C. V. 1972. Rollback and recovery strategies for computer programs. IEEE Trans. Comput. 21, 6, 546--556.
+K. Mani Chandy , Leslie Lamport, Distributed snapshots: determining global states of distributed systems, ACM Transactions on Computer Systems (TOCS), v.3 n.1, p.63-75, Feb. 1985[doi>10.1145/214451.214456]
+Cristian, F. and Jahanian, F. 1991. A timestamp-based checkpointing protocol for long-lived distributed computations. In Proceedings, Tenth Symposium on Reliable Distributed Systems, 12--20.
+Elmootazbellah Nabil Elnozahy , Willy Zwaenepoel, Manetho: fault tolerance in distributed systems using rollback-recovery and process replication, Rice University, Houston, TX, 1994
+E. N. Elnozahy, How Safe is Probabilistic Checkpointing?, Proceedings of the The Twenty-Eighth Annual International Symposium on Fault-Tolerant Computing, p.358, June 23-25, 1998
+Elnozahy, E. N. and Zwaenepoel, W. 1994. On the use and implementing of message logging. In Digest of Papers, FTCS-24, The Twenty Fourth International Symposium on Fault-Tolerant Computing, 298--307.
+Elnozahy, E. N., Johnson, D. B., and Zwaenepoel, W. 1992. The performance of consistent checkpointing. In Proceedings, Eleventh Symposium on Reliable Distributed Systems, 39--47.
+Stuart I. Feldman , Channing B. Brown, IGOR: a system for program debugging via reversible execution, ACM SIGPLAN Notices, v.24 n.1, p.112-123, Jan. 1989[doi>10.1145/69215.69226]
+Goldberg, A., Gopal, A., Li, K., Strom, R., and Bacon, D. 1990. Transparent recovery of Mach applications. In Usenix Mach Workshop Proceedings, 169--184.
+Jean-Michel Hélary , Achour Mostéfaoui , Michel Raynal, Virtual Precedence in Asynchronous Systems: Cencept and Applications, Proceedings of the 11th International Workshop on Distributed Algorithms, p.170-184, September 24-26, 1997
+Jean-Michel Helary , Achour Mostefaoui , Michel Raynal, Preventing Useless Checkpoints in Distributed Computations, Proceedings of the 16th Symposium on Reliable Distributed Systems, p.183, October 22-24, 1997
+Huang, Y. and Kintala, C. 1993. Software implemented fault tolerance: Technologies and experience. In Digest of Papers, FTCS-23, the Twenty Third Annual International Symposium on Fault-Tolerant Computing, 2--9.
+Yennun Huang , Yi-Min Wang, Why Optimistic Message Logging Has Not Been Used in Telecommunications Systems, Proceedings of the Twenty-Fifth International Symposium on Fault-Tolerant Computing, p.459, June 27-30, 1995
+David Bruce Johnson , Willy Zwaenepoel, Distributed system fault tolerance using message logging and checkpointing, Rice University, Houston, TX, 1990
+Johnson, D. B. and Zwaenepoel, W. 1987. Sender-based message logging. In Digest of Papers, FTCS-17, The Seventeenth Annual International Symposium on Fault-Tolerant Computing, 14--19.
+David B. Johnson , Willy Zwaenepoel, Recovery in distributed systems using optimistic message logging and check-pointing, Journal of Algorithms, v.11 n.3, p.462-491, Sep. 1990[doi>10.1016/0196-6774(90)90022-7]
+Juang, T. T.-Y. and Venkatesan, S. 1991. Crash recovery with little overhead. In Proceedings, The 11th International Conference on Distributed Computing Systems, 454--461.
+Richard Koo , Sam Toueg, Checkpointing and Rollback-Recovery for Distributed Systems, IEEE Transactions on Software Engineering, v.13 n.1, p.23-31, January 1987[doi>10.1109/TSE.1987.232562]
+Ten H. Lai , Tao H. Yang, On distributed snapshots, Information Processing Letters, v.25 n.3, p.153-158, May 29, 1987[doi>10.1016/0020-0190(87)90125-6]
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+Lampson, B. W. and Sturgis, H. E. 1979. Crash recovery in a distributed data storage system. Technical Report, Xerox Palo Alto Research Center.
+Li, C. C. and Fuchs, W. K. 1990. CATCH: Compiler-assisted techniques for checkpointing. In Digest of Papers, FTCS-20, The Twentieth Annual International Symposium on Fault-Tolerant Computing, 74--81.
+J. M. Mellor-Crummey , T. J. LeBlanc, A software instruction counter, Proceedings of the third international conference on Architectural support for programming languages and operating systems, p.78-86, April 03-06, 1989, Boston, Massachusetts, USA[doi>10.1145/70082.68189]
+Christine Morin , Isabelle Puaut, A Survey of Recoverable Distributed Shared Virtual Memory Systems, IEEE Transactions on Parallel and Distributed Systems, v.8 n.9, p.959-969, September 1997[doi>10.1109/71.615441]
+Gilles Muller , Mireille Hue , Nadine Peyrouze, Performance of Consistent Checkpointing in a Modular Operating System: Results of the FTM Experiment, Proceedings of the First European Dependable Computing Conference on Dependable Computing, p.491-508, October 04-06, 1994
+Hyo-chang Nam , Jong Kim , SungJe Hong , Sunggu Lee, Probabilistic Checkpointing, Proceedings of the 27th International Symposium on Fault-Tolerant Computing (FTCS '97), p.48, June 25-27, 1997
+Robert H. B. Netzer , Jian Xu, Necessary and Sufficient Conditions for Consistent Global Snapshots, IEEE Transactions on Parallel and Distributed Systems, v.6 n.2, p.165-169, February 1995[doi>10.1109/71.342127]
+Randy F. Pausch , Al Spector, Adding input and output to the transactional model, Carnegie Mellon University, Pittsburgh, PA, 1988
+James Steven Plank, Efficient checkpointing on MIMD architectures, Princeton University, Princeton, NJ, 1993
+Plank, J. S. and Li, K. 1994. Faster checkpointing with N + 1 parity. In Digest of Papers, FTCS-24, The Twenty Fourth Annual International Symposium on Fault-Tolerant Computing, 288--297.
+Plank, J. S., Xu, J., and Netzer, R. H. 1995a. Compressed differences: An algorithm for fast incremental checkpointing. Technical Report CS-95-302, University of Tennessee at Knoxville.
+James S. Plank , Micah Beck , Gerry Kingsley , Kai Li, Libckpt: transparent checkpointing under Unix, Proceedings of the USENIX 1995 Technical Conference Proceedings, p.18-18, January 16-20, 1995, New Orleans, Louisiana
+Ravi Prakash , Mukesh Singhal, Low-Cost Checkpointing and Failure Recovery in Mobile Computing Systems, IEEE Transactions on Parallel and Distributed Systems, v.7 n.10, p.1035-1048, October 1996[doi>10.1109/71.539735]
+Randell, B. 1975. System structure for software fault tolerance. IEEE Trans. Softw. Engin. 1, 2, 220--232.
+S. Rao , L. Alvisi , H. M. Vin, The Cost of Recovery in Message Logging Protocols, Proceedings of the The 17th IEEE Symposium on Reliable Distributed Systems, p.10, October 20-23, 1998
+Ruffin, M. 1992. KITLOG: A generic logging service. In Proceedings, Eleventh Symposium on Reliable Distributed Systems, 139--148.
+Russell, D. L. 1980. State restoration in systems of communicating processes. IEEE Trans. Softw. Engin. 6, 2, 183--194.
+Richard D. Schlichting , Fred B. Schneider, Fail-stop processors: an approach to designing fault-tolerant computing systems, ACM Transactions on Computer Systems (TOCS), v.1 n.3, p.222-238, August 1983[doi>10.1145/357369.357371]
+Silva, L. M. 1997. Checkpointing Mechanisms for Scientific Parallel Applications. Ph.D. Thesis, University of Coimbra, Department of Computer Science.
+A. P. Sistla , J. L. Welch, Efficient distributed recovery using message logging, Proceedings of the eighth annual ACM Symposium on Principles of distributed computing, p.223-238, June 1989, Edmonton, Alberta, Canada[doi>10.1145/72981.72997]
+J. Hamilton Slye , E. N. Elnozahy, Support for Software Interrupts in Log-Based Rollback-Recovery, IEEE Transactions on Computers, v.47 n.10, p.1113-1123, October 1998[doi>10.1109/12.729794]
+S. W. Smith , D. B. Johnson, Minimizing timestamp size for completely asynchronous optimistic recovery with minimal rollback, Proceedings of the 15th Symposium on Reliable Distributed Systems, p.66, October 23-25, 1996
+Rob Strom , Shaula Yemini, Optimistic recovery in distributed systems, ACM Transactions on Computer Systems (TOCS), v.3 n.3, p.204-226, Aug. 1985[doi>10.1145/3959.3962]
+Tamir, Y. and Sequin, C. H. 1984. Error recovery in multicomputers using global checkpoints. In Proceedings of the International Conference on Parallel Processing, 32--41.
+Z. Tong , R. Y. Kain , W. T. Tsai, Rollback Recovery in Distributed Systems Using Loosely Synchronized Clocks, IEEE Transactions on Parallel and Distributed Systems, v.3 n.2, p.246-251, March 1992[doi>10.1109/71.127264]
+Yi-Min Wang, Space reclamation for uncoordinated checkpointing in message-passing systems, University of Illinois at Urbana-Champaign, Champaign, IL, 1993
+Yi-Min Wang, Consistent Global Checkpoints that Contain a Given Set of Local Checkpoints, IEEE Transactions on Computers, v.46 n.4, p.456-468, April 1997[doi>10.1109/12.588059]
+Wang, Y.-M., Chung, P. Y., and Fuchs, W. K. 1995a. Tight upper bound on useful distributed system checkpoints. Technical Report, University of Illinois.
+Yi-Min Wang , Pi-Yu Chung , In-Jen Lin , W. Kent Fuchs, Checkpoint Space Reclamation for Uncoordinated Checkpointing in Message-Passing Systems., IEEE Transactions on Parallel and Distributed Systems, v.6 n.5, p.546-554, May 1995[doi>10.1109/71.382324]

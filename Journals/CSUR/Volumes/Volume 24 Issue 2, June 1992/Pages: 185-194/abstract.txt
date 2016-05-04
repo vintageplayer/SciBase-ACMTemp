@@ -1,0 +1,8 @@
+This tutorial discusses Householder reduction ofnlinear equations to a triangular
+form which can be solved by back substitution. The main strength of the
+method is its unconditional numerical stability. We explain how
+Householder reduction can be derived from elementary-matrix algebra. The
+method is illustrated by a numerical example and a Pascal procedure. We
+assume that the reader has a general knowledge of vector and matrix
+algebra but is less familiar with linear transformation of a vector
+space.—Author's Abstract

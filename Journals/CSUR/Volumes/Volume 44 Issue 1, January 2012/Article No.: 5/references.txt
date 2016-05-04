@@ -1,0 +1,52 @@
+Vivek Alwayn, Advanced MPLS Design and Implementation, Pearson Education, 2001
+Anagran. 2005. Eliminating network congestion anywhere with fast flow technology from Anagran. http://www.anagran.com.
+S. Blake , D. Black , M. Carlson , E. Davies , Z. Wang , W. Weiss, An Architecture for Differentiated Service, RFC Editor, 1998
+Burton H. Bloom, Space/time trade-offs in hash coding with allowable errors, Communications of the ACM, v.13 n.7, p.422-426, July 1970[doi>10.1145/362686.362692]
+Braden, R., Clark, D., and Shenker, S.1994. Integrated services in the internet architecture: An overview. IETF RFC 1633.
+R. Braden , L. Zhang, Resource ReSerVation Protocol (RSVP) -- Version 1 Message Processing Rules, RFC Editor, 1997
+R. Braden , L. Zhang , S. Berson , S. Herzog , S. Jamin, Resource ReSerVation Protocol (RSVP) -- Version 1 Functional Specification, RFC Editor, 1997
+Chapman, A. and Kung, H. T.1997. Automatic quality of service in IP networks. InProceedings of the Canadian Conference on Broadband Research (CCBR).184--189.
+A. Demers , S. Keshav , S. Shenker, Analysis and simulation of a fair queueing algorithm, Symposium proceedings on Communications architectures & protocols, p.1-12, September 25-27, 1989, Austin, Texas, USA[doi>10.1145/75246.75248]
+Domzal, J. and Jajszczyk, A.2008a. New congestion control mechanisms for flow-aware networks. InProceedings of the IEEE International Conference on Communications (ICC). 12--16.
+Domzal, J. and Jajszczyk, A.2008b. The flushing mechanism for MBAC in flow-aware networks. InProceedings of the Next Generation Internet Networks (NGI). 77--83.
+Jerzy Domzal , Andrzej Jajszczyk, Approximate flow-aware networking, Proceedings of the 2009 IEEE international conference on Communications, p.1201-1206, June 14-18, 2009, Dresden, Germany
+Jerzy Domzal , Robert Wojcik , Andrzej Jajszczyk, QoS-Aware Net Neutrality, Proceedings of the 2009 First International Conference on Evolving Internet, p.147-152, August 23-29, 2009[doi>10.1109/INTERNET.2009.30]
+Pawan Goyal , Harrick M. Vin , Haichen Cheng, Start-time fair queueing: a scheduling algorithm for integrated services packet switching networks, IEEE/ACM Transactions on Networking (TON), v.5 n.5, p.690-704, Oct. 1997[doi>10.1109/90.649569]
+J. Gozdecki , A. Jajszczyk , R. Stankiewicz, Quality of service terminology in IP networks, IEEE Communications Magazine, v.41 n.3, p.153-159, March 2003[doi>10.1109/MCOM.2003.1186560]
+Guerin, R., Blake, S., and Herzog, S.1997. Aggregating RSVP-based QoS requests. IETF Internet draft.
+Fred Halsall, Computer Networking and the Internet (5th Edition), Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 2005
+J. Heinanen , F. Baker , W. Weiss , J. Wroclawski, Assured Forwarding PHB Group, RFC Editor, 1999
+S. Herzog, RSVP Extensions for Policy Control, RFC Editor, 2000
+ITU-T. 2008. Requirements for the support of flow-state-aware transport technology in an NGN. ITU-T Recommendation Y.2121
+ITU-T. 2009. Flow aggregate information exchange functions in NGN. ITU-T Recommendation Y.2122.
+V. Jacobson , K. Nichols , K. Poduri, An Expedited Forwarding PHB, RFC Editor, 1999
+Jajszczyk, A. and Wojcik, R.2007. Emergency calls in flow-aware networks.IEEE Comm. Lett.11, 9, 753--755.
+Jinoo Joung, Feasibility of Supporting Real-Time Traffic in DiffServ Architecture, Proceedings of the 5th international conference on Wired/Wireless Internet Communications, May 23-25, 2007[doi>10.1007/978-3-540-72697-5_16]
+Joung, J., Song, J., and Lee, S. S.2008. Flow-based QoS management architectures for the next generation network.ETRI J. 30, 2, 238--248.
+Kompella, K. and Lang, J.2004. Procedures for modifying the resource reSerVation protocol (RSVP). IETF RFC 3936.
+Kortebi, A., Oueslati, S., and Roberts, J.2004a. MBAC algorithms for streaming flows in Cross-protect. InProceedings of the Next Generation Internet Networks EuroNGI Workshop (EuroNGI).
+Kortebi, A., Oueslati, S., and Roberts, J. W.2004b. Cross-protect: implicit service differentiation and admission control. InProceedings of the Workshop on HPSR High Performance Switching and Routing (HPSR). 56--60.
+Kortebi, A., Muscariello, L., Oueslati, S., and Roberts, J.2004. On the scalability of fair queueing. InProceedings of the ACM Workshop on Hot Topics in Networks-III (HotNets).
+Kortebi, A., Oueslati, S., and Roberts, J.2005. Implicit service differentiation using deficit round robin. InProceedings of International Teletraffic Congress (ITC).
+A. Kortebi , L. Muscariello , S. Oueslati , J. Roberts, Evaluating the number of active flows in a scheduler realizing fair statistical bandwidth sharing, Proceedings of the 2005 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, June 06-10, 2005, Banff, Alberta, Canada[doi>10.1145/1064212.1064237]
+Kuroda, R., Katsuki, M., Otaka, A., and Miki, N.2003. Providing flow-based quality-of-service control in a large-scale network. InProceedings the of 9th Asia-Pacific Conference on Communications (APCC). Vol. 2. 740--744.
+Li, J.-S. and Mao, C.-S.2004. Providing flow-based proportional differentiated services in class-based DiffServ routers.IEE Proc.-Comm. 151, 82, 82--88.
+A. Mankin , F. Baker , B. Braden , S. Bradner , M. O`Dell , A. Romanow , A. Weinrib , L. Zhang, Resource ReSerVation Protocol (RSVP) -- Version 1 Applicability Statement Some Guidelines on Deployment, RFC Editor, 1997
+B. Nandy , Nabil Seddigh , A. S. J. Chapman , J. Hadi Salim, A Connectionless Approach to Providing QoS in IP Networks, Proceedings of the IFIP TC-6 Eigth International Conference on High Performance Networking, p.363-379, September 21-25, 1998
+K. Nichols , S. Blake , F. Baker , D. Black, Definition of the Differentiated Services Field (DS Field) in the IPv4 and IPv6 Headers, RFC Editor, 1998
+Oueslati, S. and Roberts, J.2005. A new direction for quality of service: Flow-aware networking. InProceedings of the Next Generation Internet Networks (NGI).
+Polk, J. and Dhesikan, S.2006. A resource reservation protocol (RSVP) extension for the reduction of bandwidth of a reservation flow. IETF RFC 4495.
+Konstantinos Psounis , Rong Pan , Balaji Prabhakar, Approximate Fair Dropping for Variable-Length Packets, IEEE Micro, v.21 n.1, p.48-56, January 2001[doi>10.1109/40.903061]
+IT Professional staff, Internet Founder Ponders the Web's Future, IT Professional, v.2 n.5, p.16-20, September 2000[doi>10.1109/MITP.2000.877492]
+Roberts, L.2007. Micro-flow management. Caspian Networks, INC, US patent application no. 2007/0115825 A1.
+Roberts, J. and Oueslati, S.2000. Quality of service by flow aware networking.Philo. Trans. Royal Soc. London 358, 2197--2207.
+Roberts, L. and Henderson, A.2007. System, method, and computer program product for IP flow routing. Anagran, INC., U.S. patent application no. 2007/0171825 A1.
+M. Shreedhar , George Varghese, Efficient fair queueing using deficit round-robin, IEEE/ACM Transactions on Networking (TON), v.4 n.3, p.375-385, June 1996[doi>10.1109/90.502236]
+Song, J., Lee, S., and Kim, Y. S.2006. DiffProbe: One way delay measurement for asynchronous network and control mechanism in BcN architecture. InProceedings of the 8th International Conference on Advanced Communication Technology (ICACT). 677--682.
+Ion Stoica , Hui Zhang, Stateless core: a scalable approach for quality of service in the internet, Carnegie Mellon University, Pittsburgh, PA, 2000
+Ion Stoica , Scott Shenker , Hui Zhang,Core-stateless fair queueing: achieving approximately fair bandwidth allocations in high speed networks, ACM SIGCOMM Computer Communication Review, v.28 n.4, p.118-130, Oct. 1998[doi>10.1145/285243.285273]
+Ion Stoica , Hui Zhang, Providing guaranteed services without per flow management, Proceedings of the conference on Applications, technologies, architectures, and protocols for computer communication, p.81-94, August 30-September 03, 1999, Cambridge, Massachusetts, USA[doi>10.1145/316188.316208]
+TIA. 2006.QoS signaling for IP QoS support.Telecommunications Industry Association, Recommendation TIA-1039.
+J. Wroclawski, The Use of RSVP with IETF Integrated Services, RFC Editor, 1997
+XiPeng Xiao, Technical, Commercial and Regulatory Challenges of QoS: An Internet Service Model Perspective, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2008
+L. Zhang, Virtual clock: a new traffic control algorithm for packet switching networks, Proceedings of the ACM symposium on Communications architectures & protocols, p.19-29, September 26-28, 1990, Philadelphia, Pennsylvania, USA[doi>10.1145/99508.99525]

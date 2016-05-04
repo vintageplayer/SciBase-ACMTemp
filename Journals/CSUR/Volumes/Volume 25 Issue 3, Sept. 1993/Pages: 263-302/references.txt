@@ -1,0 +1,154 @@
+Thomas L. Adam , K. M. Chandy , J. R. Dickson, A comparison of list schedules for parallel processing systems, Communications of the ACM, v.17 n.12, p.685-690, Dec 1974[doi>10.1145/361604.361619]
+R. Agrawal , H. V. Jagadish, Partitioning Techniques for Large-Grained Parallelism, IEEE Transactions on Computers, v.37 n.12, p.1627-1634, December 1988[doi>10.1109/12.9739]
+Mayez A. Al-Mouhamed, Lower Bound on the Number of Processors and Time for Scheduling Precedence Graphs with Communication Costs, IEEE Transactions on Software Engineering, v.16 n.12, p.1390-1401, December 1990[doi>10.1109/32.62447]
+ANTONELLI, S., BAIARDI, F.,PELAGATTI, S., AND VANNESCHI, M. 1991. Modeling concurrent programs for statm mapping. In Proceedings of PARALLEL COMPUTING '91 (London, UK) Elsevier, New York.
+François Baccelli , Zhen Liu, On the execution of parallel programs on multiprocessor systems—a queuing theory approach, Journal of the ACM (JACM), v.37 n.2, p.373-414, April 1990[doi>10.1145/77600.77622]
+Henri E. Bal , Jennifer G. Steiner , Andrew S. Tanenbaum, Programming languages for distributed computing systems, ACM Computing Surveys (CSUR), v.21 n.3, p.261-322, Sep. 1989[doi>10.1145/72551.72552]
+BAXTER, J., AND PATEL, J. 1989. The LAST algorithm: A heuristic based static task allocation algorithm. In Proceedzngs of the International Conference on Parallel Processing Vol 2. IEEE Computer Society, Washington, D.C., 217 222.
+BENKNER, S., CHAPMAN, B. M., ANt) ZIMA, H. P. 1992. Vienna Fortran-90 In Proceedings of the Scalable High-Performance Computzng Confererzce, (Williamsburg, Va., Apr. 26 29). IEEE Computer Society Press, Los A}amitos, Calif., 51-59
+M. J. Berger , S. H. Bokhari, A partitioning strategy for nonuniform problems on multiprocessors, IEEE Transactions on Computers, v.36 n.5, p.570-580, May 1987[doi>10.1109/TC.1987.1676942]
+Francine Berman , Lawrence Snyder, On mapping parallel algorithms into parallel architectures, Journal of Parallel and Distributed Computing, v.4 n.5, p.439-458, October 1, 1987[doi>10.1016/0743-7315(87)90018-9]
+BERMAN, F., ann STRAMM, B 1989 Prep-p Evolution and overview Tech. Rep CS89-158, Univ. of California, San Diego, Calif
+J Blazewicz , M Drabowski , J Weglarz, Scheduling multiprocessor tasks to minimize schedule length, IEEE Transactions on Computers, v.35 n.5, p.389-393, May 1986[doi>10.1109/TC.1986.1676781]
+BLAZEWICZ, J., DROR, M., AND WEGLARZ, J 1991. Mathematical programming formulations for machine scheduling: A survey. Ear J. Oper. Res. 51, 3, 283-300
+BOKHARI, S. 1990a A Network flow model for load balancing in circuit-switched multmomputers. Tech. Rep. 90-38, ICASE, NASA, Langley Research Center, Va.
+BOKHARI, S 1990b Communication overhead on the Intel iPSC-860 hypercube Tech Rep. 10, ICASE, NASA, Langley Research Center, Va
+S. H. Bokhari, Partitioning Problems in Parallel, Pipeline, and Distributed Computing, IEEE Transactions on Computers, v.37 n.1, p.48-57, January 1988[doi>10.1109/12.75137]
+BOKHARI, S. 1981a. On the mapping problem. IEEE Trans Comput C-30, 3, 207 214
+BOKHARI, S. 1981b A shortest tree algorithm for optimal assignments across space and time in a distributed computer system. IEEE Trans. Softw. Eng SE-7, 6, 583-589.
+BOMANS, L., AND ROOSE, D. 1989. Benchmarking the lPSC/2 hypercube multlprocessor. Concur. Prac. Exp. 1, 1, 13-18.
+Richard P. Brent, The Parallel Evaluation of General Arithmetic Expressions, Journal of the ACM (JACM), v.21 n.2, p.201-206, April 1974[doi>10.1145/321812.321815]
+J. Bruno , E. G. Coffman, Jr. , R. Sethi, Scheduling independent tasks to reduce mean finishing time, Communications of the ACM, v.17 n.7, p.382-387, July 1974[doi>10.1145/361011.361064]
+David Callahan , Ken Kennedy, Analysis of interprocedural side effects in a parallel programming environment, Journal of Parallel and Distributed Computing, v.5 n.5, p.517-550, October 1988[doi>10.1016/0743-7315(88)90011-1]
+Nicholas Carriero , David Gelernter, How to write parallel programs: a first course, MIT Press, Cambridge, MA, 1990
+T. L. Casavant , J. G. Kuhl, A taxonomy of scheduling in general-purpose distributed computing systems, IEEE Transactions on Software Engineering, v.14 n.2, p.141-154, February 1988[doi>10.1109/32.4634]
+Guan-Ing Chen , Ten-Hwang Lai, Scheduling Independent Jobs on Hypercubes, Proceedings of the 5th Annual Symposium on Theoretical Aspects of Computer Science, p.273-280, February 11-13, 1988
+M.-S. Chen , K. G. Shin, Processor allocation in anN-cube multiprocessor using gray codes, IEEE Transactions on Computers, v.36 n.12, p.1396-1407, Dec. 1987[doi>10.1109/TC.1987.5009493]
+N. F. Chen , C. L. Liu, On a Class of Scheduling Algorithms for Multiprocessors Computing Systems, Proceedings of the Sagamore Computer Conference on Parallel Processing, p.1-16, August 20-23, 1974
+CHITTOR, S., AND ENBODY, R. 1992. Minimising contention: A new mapping objective for second generation multicomputers. Tech. Rep., Michigan State Univ., East Lansing, Mich. Submitted to IEEE Trans. Parall. Distr~b. Syst.
+CHo, Y., AND SA~NI, S. 1980 Bounds for list schedules on uniform processors. SIAM J. Comput. 9, 1, 91-103.
+CHR~TIENNE, P. 1989. A polynomial algorithm to optimally schedule tasks on a virtual distributed system under tree-like precedence constraints. Ear. J. Oper. Res. 43, 3, 225-230
+CHRETIENNE, P., AND PICOULEAU, C. 1992. The basic scheduling problem with interprocessor communication delays. In Proceedings of the Summer School on Scheduhng Theory and Its Applicatmn. INRIA, Sophia Antipolis, France.
+W. W. Chu , M.-T. Lan, Task allocation and precedence relations for distributed real-time systems, IEEE Transactions on Computers, v.36 n.6, p.667-679, June 1987[doi>10.1109/TC.1987.1676960]
+CHU, W., LAN, M.-T., AND HELLERSTEIN, J. 1984. Estimation of intermodule communication (IMC) and its applications in distributed processing systems. IEEE Trans. Comput. C-33, 8, 691 699.
+CHU, W., HOLLOWAY, L., LAN, M.-T., AND EFE, K. 1980. Task allocation in distributed data processing. Computer 13, 11.
+COFFMAN, E., JR., El). 1976. Computer and Job Shop Scheduhng Theory. John Wiley, New York.
+COFFMAN, E , J~., ^ND GRAHAM, R. 1972. Optimal scheduling for two processor systems Acta Informatica 1, 3, 200-213.
+Edward G. Coffman, Jr. , Leopold Flatto , George S. Lueker, Expected Makespans for Largest-First Multiprocessor Scheduling, Proceedings of the Tenth International Symposium on Computer Performance Modelling, Measurement and Evaluation, p.491-506, December 19-21, 1984
+COF~'MAN, g., Jm, GAREY, M, AND JOHNSTON, D. 1984b. Approxmmtion algorithms for binpacking an updated survey. In Algorithm Des~gn for Computer System Deszgn. Springer- Verlag, Berlin.
+COEFMAN, E., JR., GAREY, M., AND JOHNSTON, D. 1978. An application of bin-packing to multiprocessor scheduling. SIAM J. Cornput. 7, 1, i 17.
+Richard Cole , Uzi Vishkin, Approximate parallel scheduling. Part I: the basic technique with applications to optimal parallel list ranking in logarithmic time, SIAM Journal on Computing, v.17 n.1, p.128-142, Feb. 1988[doi>10.1137/0217009]
+CONWAY, R., MAXWELL, W., AND MILLER, L. 1967. Theory of Scheduling. Addison-Wesley, Reading, Mass.
+Z. Cvetanovic, The effects of problem partitioning, allocation, and granularity on the performance of multiple-processor systems, IEEE Transactions on Computers, v.36 n.4, p.421-432, April 1987[doi>10.1109/TC.1987.1676924]
+CYTRON, R. 1986. Doacross: Beyond vectorisation for multiprocessors (extended abstract). In Proceedmgs of the Internatmnal Conference on Parallel Processing. IEEE Computer Society, Washington, D.C, 836 844.
+William Dally, Network and processor architecture for message-driven computers, VLSI and parallel computation, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1990
+William J. Dally, Performance Analysis of k-ary n-cube Interconnection Networks, IEEE Transactions on Computers, v.39 n.6, p.775-785, June 1990[doi>10.1109/12.53599]
+W. J. Dally , C. L. Seitz, Deadlock-free message routing in multiprocessor interconnection networks, IEEE Transactions on Computers, v.36 n.5, p.547-553, May 1987[doi>10.1109/TC.1987.1676939]
+Henry G. Dietz , Abderrazek Zaafrani , Matthew T. O'Keefe, Static scheduling for barrier MIMD architectures, The Journal of Supercomputing, v.5 n.4, p.263-289, Feb. 1992[doi>10.1007/BF00127949]
+Danny Dolev , Eli Upfal , Manfred K. Warmuth, The parallel complexity of scheduling with precedence constraints, Journal of Parallel and Distributed Computing, v.3 n.4, p.553-576, December 1, 1986[doi>10.1016/0743-7315(86)90014-6]
+J. Du , J. Y.-T. Leung, Complexity of scheduling parallel task systems, SIAM Journal on Discrete Mathematics, v.2 n.4, p.473-487, Nov. 1989[doi>10.1137/0402042]
+DUATO, J. 1992. Impact of locality on the performance of some adaptive routing algorithms for the hypercube. In Parallel Computing: From Theo~:v to Sound Practwe. IOS Press, Amsterdam.
+EFE, K. 1982. Heuristic models of task assignment scheduling in distributed systems. IEEE Comput. 15, 6 (June), 50 56.
+Hesham El-Rewini , T. G. Lewis, Scheduling parallel program tasks onto arbitrary target machines, Journal of Parallel and Distributed Computing, v.9 n.2, p.138-153, June 1990[doi>10.1016/0743-7315(90)90042-N]
+Michael R. Fellows , Michael A. Langston, Processor Utilization in a Linearly Connected Parallel Processing System, IEEE Transactions on Computers, v.37 n.5, p.594-603, May 1988[doi>10.1109/12.4610]
+FERNfi. NDEZ, E., AND BUSSELL, B. 1973. Bounds on the number of processors and time for multiprocessor optimal schedules. IEEE Trans. Comput. C-22, 8, 745-751.
+D. Fernandez-Baca, Allocating Modules to Processors in a Distributed System, IEEE Transactions on Software Engineering, v.15 n.11, p.1427-1436, November 1989[doi>10.1109/32.41334]
+Jeanne Ferrante , Karl J. Ottenstein , Joe D. Warren, The program dependence graph and its use in optimization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.9 n.3, p.319-349, July 1987[doi>10.1145/24039.24041]
+Fox, G 1989. Parallel computing comes of age. Concur Pract. Exp. 1, 1, 63 103.
+FOX, G., HIRANANDANI, S., KENNEDY, K., KOELBEL, C., KIIF, MER, U., TSENG, C.-W., AND WLJ, M.-Y. 1992. Fortran D Language Spemfieation. Tech. Rep., Center for Research on Parallel Computations, Rice Univ., Houston, Tex.
+G. C. Fox, Solving problems on concurrent processors, Prentice-Hall, Inc., Upper Saddle River, NJ, 1987
+Harold N. Gabow, Scheduling Uet systems on two uniform processors and length two pipelines, SIAM Journal on Computing, v.17 n.4, p.810-829, August 1988[doi>10.1137/0217051]
+GAREY, M., AND JOHNSON, R. 1982 Approximation algorithms for bin packing problems--A survey In Analysts and Design of Combinatorial Optunzsatlon Springer-Verlag, Vienna, Austria, 147 172.
+GAREY, M., AND JOHNSON, D. 1979 Computers and Intractabd~ty. W H. Freeman and Co., San Francisco
+GAREV, M., AND JOHNSON, D 1975. Complexity results for multiprocessor scheduling with resource constraints. SIAM J. Comput. 4, 4, 396-411
+OARI*}Y, M, GRAHAM, R, AND JOHNSTON, D. 1977. Performance guarantees fbr scheduling algorithms. Oper Res. 26, 1.
+GAUDU}T, J., PL J., AND CAMPBELL, M 1988 Program graph allocation in distributed multicomputers. Parall. Camput., 7, 227-247.
+Mario J. Gonzalez, Jr., Deterministic Processor Scheduling, ACM Computing Surveys (CSUR), v.9 n.3, p.173-204, Sept. 1977[doi>10.1145/356698.356700]
+GRAHAM, R 1969. Bounds on multlprocesslng timing anomalies. SIAM d App/. Math. 17, 2, 16 429.
+GRAHAM, R. 1966 Bounds fbr certain nmltiproessing timing anomalies. Bell Sys! Tech J 45, 11, 1563 1581
+GRAHAM, R., LAWLER, E., LENSTRA, J., AND RINNOOY KAN, A. 1979. Optimmation and approximation m deterministic sequencing' and schedulmR, a survey. Ann. Dlser. Math. 5, 287 236.
+Dan Gusfield, Parametric Combinatorial Computing and a Problem of Program Module Distribution, Journal of the ACM (JACM), v.30 n.3, p.551-563, July 1983[doi>10.1145/2402.322391]
+GYLYS, V., AND EDWARDS, J. 1976. Optimal partitioning of workload for distributed systems. In Proceedings of Compcon Fall 76 IEEE Computer Society, Washington, D C
+Benjamin J. Hellstrom , Laveen N. Kanal, Asymmetric mean-field neural networks for multiprocessor scheduling, University of Maryland at College Park, College Park, MD, 1990
+David Helmbold , Ernst Mayr, Two processor scheduling is inNC, SIAM Journal on Computing, v.16 n.4, p.747-759, Aug. 1987[doi>10.1137/0216050]
+Dorit s. Hochbaum , David B. Shmoys, A polynomial approximation scheme for scheduling on uniform processors: Using the dual approximation approach, SIAM Journal on Computing, v.17 n.3, p.539-551, June 1988[doi>10.1137/0217033]
+Dorit S. Hochbaum , David B. Shmoys, Using dual approximation algorithms for scheduling problems theoretical and practical results, Journal of the ACM (JACM), v.34 n.1, p.144-162, Jan. 1987[doi>10.1145/7531.7535]
+Catherine E. Houstis, Module Allocation of Real-Time Applications to Distributed Systems, IEEE Transactions on Software Engineering, v.16 n.7, p.699-709, July 1990[doi>10.1109/32.56096]
+Catherine E. Houstis , Mokhtar Aboelaze, A comparative performance analysis of mapping applications to parallel multiprocessor systems: a case study, Journal of Parallel and Distributed Computing, v.13 n.1, p.17-29, Sept. 1991[doi>10.1016/0743-7315(91)90106-J]
+Hu, T. 1961. Parallel sequencing and assembly line problems. Oper. Res. 9, 841-848.
+Jing-Jang Hwang , Yuan-Chieh Chow , Frank D. Anger , Chung-Yee Lee, Scheduling precedence graphs in systems with interprocessor communication times, SIAM Journal on Computing, v.18 n.2, p.244-257, April 1989[doi>10.1137/0218016]
+IEEE 1991. SCI, scalable coherent interconnect Tech. Rep. P1596/D1.98, IEEE Standards Department, IEEE, New York
+B Indurkhya , H S Stone , L Xi-cheng, Optimal partitioning of randomly generated distributed programs, IEEE Transactions on Software Engineering, v.12 n.3, p.483-495, March 1986
+Lennart Johnson, Communication in network architectures, VLSI and parallel computation, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1990
+H. Jung , L. Kirousis , P. Spirakis, Lower bounds and efficient algorithms for multiprocessor scheduling of dags with communication delays, Proceedings of the first annual ACM symposium on Parallel algorithms and architectures, p.254-264, June 18-21, 1989, Santa Fe, New Mexico, United States[doi>10.1145/72935.72962]
+KAFURA, D., AND SHEN, V. 1977. Task scheduling on a mult~processor system with independent meniories. SIAM J Compat 6, 1, 167 187
+Alex Kapelinkov , Richard R. Muntz , Miloš D. Ercegovac, A modeling methodology for the analysis of concurrent systems and computations, Journal of Parallel and Distributed Computing, v.6 n.3, p.568-597, June 1989[doi>10.1016/0743-7315(89)90007-5]
+KAUFMANN, M. 1974. An almost-optimal algorithm for the assembly line scheduhng problem. IEEE Trans Comput C-23, 11, 1169 1174
+KIM, S, .aND BROWNE, d. 1988 A general approach to mapping of parallel coniputatmns upon multiprocessor architectures. In the Internatmnal Conference on Parallel Proc'esszng 3. Penn State University Press, University Park. Penn, 1- 8.
+KR~,MER, O., AND MiJHLENBEIN, H. 1989. Mapping strategies in message-based multiprocessor systems. Parall. Comput. 9, 2, 213-225.
+Sanjay M. Krishamurthy, A brief survey of papers on scheduling for pipelined processors, ACM SIGPLAN Notices, v.25 n.7, p.97-106, July 1990[doi>10.1145/382076.382650]
+Boontee Kruatrachue , Ted Lewis, Grain Size Determination for Parallel Processing, IEEE Software, v.5 n.1, p.23-32, January 1988[doi>10.1109/52.1991]
+LAM, S., AND SETm, R. 1977. Worst case analysis of two scheduling algorithms. SIAM J Comput. 6, 3,518 536.
+LAWLER, E. 1982. Preemptive scheduling of precedence constrained jobs on parallel machines. In Deterministic and Stochastic Scheduhng. D. Reidel Publishing Co, Dordrecht, Germany.
+LEE, C.-Y., HWANG, J.-J., CHOW, Y.-C., AND ANGER, F. 1988. Multiprocessor scheduling with interprocessor communication delays. Oper Res. Lett. 7, 3, 141-145.
+S.-Y. Lee , J. K. Aggarwal, A mapping strategy for parallel processing, IEEE Transactions on Computers, v.36 n.4, p.433-442, April 1987[doi>10.1109/TC.1987.1676925]
+F. Thomson Leighton, Introduction to parallel algorithms and architectures: array, trees, hypercubes, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1991
+Lo, V. 1992. Temporal communication graphs: Lamport's process-time graphs augmented for the purpose of mapping and scheduling. Tech. Rep. CIS-TR-92-05, Univ. of Oregon, Eugene, O reg. To appear in J. Parall. Dzstrib. Comput.
+V. M. Lo, Heuristic Algorithms for Task Assignment in Distributed Systems, IEEE Transactions on Computers, v.37 n.11, p.1384-1397, November 1988[doi>10.1109/12.8704]
+MA, P.-Y., LEE, E., AND TSUCHIYA, M. 1982. A task allocation model for distributed computing systems. IEEE Trans. Compat. C-31, 1, 246-252.
+V. W. Mak , S. F. Lundstrom, Predicting Performance of Parallel Computations, IEEE Transactions on Parallel and Distributed Systems, v.1 n.3, p.257-270, July 1990[doi>10.1109/71.80155]
+Charles U. Martel, A parallel algorithm for preemptive scheduling of uniform machines, Journal of Parallel and Distributed Computing, v.5 n.6, p.700-715, Dec. 1988[doi>10.1016/0743-7315(88)90037-8]
+MARTIN, D., AND ESTRIN, G. 1967a. Experiments on models of computation and systems. IEEE Trans. Elect. Comput. EC-16, 1, 59 69.
+MARTIN, D., AND ESTRIN, G. 1967b. Models of computational systems--cyclic to acyclic graph transformations. IEEE Trans. Electr. Comput. EC-16, 1.
+Charles E. McDowell , William F. Appelbe, Processor scheduling for linearly connected parallel processors, IEEE Transactions on Computers, v.35 n.7, p.632-638, July 1986[doi>10.1109/TC.1986.1676804]
+Carolyn McCreary , Helen Gill, Automatic determination of grain size for efficient parallel processing, Communications of the ACM, v.32 n.9, p.1073-1078, Sept. 1989[doi>10.1145/66451.66454]
+MCNAUGHTON, R. 1959. Scheduling with deadlines and loss functions. Manage. Sci. 6, 1, 1-12.
+MUNTZ,. R., AND COFFMAN, E., JR., 1969 Optimal preemptive scheduling on two-processor systems. IEEE Trans. Comput. C-18, 11, 1014 1020.
+David M. Nicol, Optimal Partitioning of Random Programs Across Two Processors, IEEE Transactions on Software Engineering, v.15 n.2, p.134-141, February 1989[doi>10.1109/32.21740]
+David M. Nicol , Joel H. Saltz, An Analysis of Scatter Decomposition, IEEE Transactions on Computers, v.39 n.11, p.1337-1345, November 1990[doi>10.1109/12.61043]
+NICOL, D., SIMHA, R., CHOUDHURY, A., AND NARAHARI, B. 1992. Optimal processor assignment for pipeline computations. Tech. Rep. 91-79, ICASE, NASA, Langley Research Center, Va.
+NORMAN, M., BOERES, C., AND THANISCH, P. 1990. Minimising message path lengths in multicomputers. Tech. Rep. EPCC-TR-90-17, Edinburgh Parallel Computing Centre, Univ. of Edmburgh, Scotland. Submitted to J. Parall. Dlstrtb. Comput.
+NORMAN, M., PELAGA'IWI, S., AND THANISCH, P. 1991. On the complexity of scheduling with communication delay and contention. Tech. Note EPCC-TN-91-15, Edinburgh Parallel Computing Centre, Univ. of Edinburgh, Scotland.
+David A. Padua , Michael J. Wolfe, Advanced compiler optimizations for supercomputers, Communications of the ACM, v.29 n.12, p.1184-1201, Dec. 1986[doi>10.1145/7902.7904]
+Christos H. Papadimitriou , Jeffrey D. Ullman, A communication-time tradeoff, SIAM Journal on Computing, v.16 n.4, p.639-646, Aug. 1987[doi>10.1137/0216044]
+Christos H. Papadimitriou , Mihalis Yannakakis, Towards an architecture-independent analysis of parallel algorithms, SIAM Journal on Computing, v.19 n.2, p.322-328, April 1990[doi>10.1137/0219021]
+J.-K. Peir , R. Cytron, Minimum Distance: A Method for Partitioning Recurrences for Multiprocessors, IEEE Transactions on Computers, v.38 n.8, p.1203-1211, August 1989[doi>10.1109/12.30873]
+PICOULEAU, C. 1992. New complexity results on the UET-UCT scheduling problem. In Proceedings of the Summer School on Scheduling Theory and its Apphcatzons (Chateau de Bonas, France). INRIA, Sophia Antipolis, France.
+Shlomit S. Pinter , Yaron Wolfstahl, On mapping processes to processors in distributed systems, International Journal of Parallel Programming, v.16 n.1, p.1-15, Feb. 1987[doi>10.1007/BF01408172]
+PIPPENGER, N. 1979. On simultaneous resource bounds (preliminary version). In Proceedings of the 20th IEEE FOCS. IEEE, New York, 307 311.
+Constantine D. Polychronopoulos, Parallel Programming and Compilers, Kluwer Academic Publishers, Norwell, MA, 1988
+Dick Pountain, Configuring parallel programs, BYTE, v.14 n.13, p.349-352, December 1989
+D J Pritchard , C R Askew , D B Carpenter , I Glendinning , A J G Hey , D A Nicole, Practical parallelism using transputer arrays, Volume I: Parallel architectures on PARLE: Parallel Architectures and Languages Europe, p.278-294, March 1987, Eindhoven, The Netherlands
+K. Ramamritham , J. A. Stankovic , P. F. Shiah, Efficient Scheduling Algorithms for Real-Time Multiprocessor Systems, IEEE Transactions on Parallel and Distributed Systems, v.1 n.2, p.184-194, April 1990[doi>10.1109/71.80146]
+RAO, G., STONE, H., AND HU, T. 1979. Assignment of tasks in a dmtrlbuted processor system with hmited memory. IEEE Trans. Comput. C-28, 4, 291 298
+V. J. Rayward-Smith, The complexity of preemptive scheduling given interprocessor communication delays, Information Processing Letters, v.25 n.2, p.123-125, 6 May 1987[doi>10.1016/0020-0190(87)90231-6]
+V. J. Rayward-Smith, UET scheduling with unit interprocessor communication delays, Discrete Applied Mathematics, v.18 n.1, p.55-71, Nov. 1987[doi>10.1016/0166-218X(87)90042-4]
+REED, D., AND FUJIMOTO, R. 1987. Multicomputer network operating systems. In Multlcomputer Networks: Message-Based Parallel Processing MIT Press, Cambridge Mass, 177-238
+Sartaj K. Sahni, Algorithms for Scheduling Independent Tasks, Journal of the ACM (JACM), v.23 n.1, p.116-127, Jan. 1976[doi>10.1145/321921.321934]
+Vivek Sarkar, Partitioning and Scheduling Parallel Programs for Multiprocessors, MIT Press, Cambridge, MA, 1989
+Steven L. Scott , James R. Goodman , Mary K. Vernon, Performance of the SCI ring, Proceedings of the 19th annual international symposium on Computer architecture, p.403-414, May 19-21, 1992, Queensland, Australia[doi>10.1145/139669.140404]
+Charles L. Seitz, Concurrent architectures, VLSI and parallel computation, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1990
+SETm, R 1976 Algorithms for mimmal length schedules In Computer and Job Shop Scheduling Theory John Wiley, New York.
+StlEN, C.-C., AND TSAI, W.-H. 1985 A graph matching approach to optimal task assignment in distributed computing systems using a minimax criterion. IEEE Trans Comput. C-34, 3, 197-203.
+Behrooz Shirazi , Mingfang Wang , Girish Pathak, Analysis and evaluation of heuristic methods for static task scheduling, Journal of Parallel and Distributed Computing, v.10 n.3, p.222-2232, Nov. 1990[doi>10.1016/0743-7315(90)90014-G]
+J. B. Sinclair, Efficient computation of optimal assignments for distributed tasks, Journal of Parallel and Distributed Computing, v.4 n.4, p.342-362, August 1, 1987[doi>10.1016/0743-7315(87)90024-4]
+STONE, $. 1978. Critical load factors in dmtributed systems. IEEE Trans. Softw. Eng SE-4 , 254-258.
+STONE, H. 1977a. Multiprocessor scheduling with the aid of network flow algorithms. IEEE Trans. Softw. Eng. SE-3, 85-93.
+STONE, H 1977b. Program assignment in three processor systems and tricutset partitioning of graphs. Tech Rep. ECE-CS-77-7, Univ. Massachusetts, Amherst, Mass.
+Quentin F. Stout , Bruce Wagar, Intensive hypercube communication. Prearranged communication in link-bound machines, Journal of Parallel and Distributed Computing, v.10 n.2, p.167-181, Oct. 1990[doi>10.1016/0743-7315(90)90026-L]
+A. S. Tanenbaum, Computer networks, Prentice-Hall, Inc., Upper Saddle River, NJ, 1988
+THURIMELLA, R., AND YESHA, Y. 1992. A schedul mg principle fbr precedence graphs with communication delay In Proceedings of the International Conference on Parallel Processing CRC Press, III-229 III-236.
+D Towsley, Allocating programs containing branches and loops within a multiple processor system, IEEE Transactions on Software Engineering, v.12 n.10, p.1018-1024, Oct. 1986
+Nandan Udiavar , G. S. Stiles, A simple but flexible model for determining optimal task allocation and configuration on a network of transputers, Proceedings of the first conference of the North American Transputer Users Group on Transputer research and applications 1, p.24-32, January 1990, Salt Lake City, Utah, United States
+ULLMAN, J. 1975. NP-complete scheduling problems J. Comput. Svst. Scl. 10, 3, 384 393
+Eli Upfal, Efficient Schemes for Parallel Communication, Journal of the ACM (JACM), v.31 n.3, p.507-517, July 1984[doi>10.1145/828.1892]
+VALIANT, L. 1982. A scheme for fast parallel communication SIAM J Cornput 11, 2,350 361
+L. G. Valiant , G. J. Brebner, Universal schemes for parallel communication, Proceedings of the thirteenth annual ACM symposium on Theory of computing, p.263-277, May 11-13, 1981, Milwaukee, Wisconsin, United States[doi>10.1145/800076.802479]
+VELTMAN, B., LAGI~}WE(~, B., AND LENSTRA, J. 1990 Multiprocessor scheduhng with communication delays. Parall. Comput. 16, 2 3, 173 182
+A. Wagner , S. Chanson , N. Goldstein , J. Jiang , H. Larsen, TIPS: transputer-based interactive parallelizing system, Proceedings of the world transputer user group (WOTUG) conference on Transputing '91, p.212-229, May 1991, Sunnyvale, California, United States
+Qingzhou Wang , Kam Hoi Cheng, A heuristic of scheduling parallel tasks and its analysis, SIAM Journal on Computing, v.21 n.2, p.281-294, April 1992[doi>10.1137/0221021]
+WmMAMS, E. 1983. Assigning processes to processors in distributed systems. In Proceedings of the IEEE Con/krence on Parallel Processing. IEEE, New York, 404-406
+Wu, M.-Y., AND GAJSKL D 1988. A programming aid for hypercube architectures. J Supercomput. 2, 349-372.
+YANC'~, T., AND C-E RASOULI,% A 1902a DSC Scheduling parallel tasks on an unbounded number of processors. Tech. Rep., Dept. of Computer Science, Rutgers Umv.
+YANG, T., ANO GERASOUHS, A. 1992b. A parallel programming tool for scheduling on distributed memory multiprocessors In Proceedtngs of the Scalable Htgh Performance Computing Conference. IEEE Computer Society Press, Los Alamitos, Calif, 350 357.
+Hans Zima , Barbara Chapman, Supercompilers for parallel and vector computers, ACM Press, New York, NY, 1990

@@ -1,0 +1,79 @@
+Aitken, A. 1926. On Bernoulli's numerical solution of algebraic equations. Proc. Royal Soc. Edinburgh 46, 289--305.
+Zachary Battles , Lloyd N. Trefethen, An Extension of MATLAB to Continuous Functions and Operators, SIAM Journal on Scientific Computing, v.25 n.5, p.1743-1770, 2004[doi>10.1137/S1064827503430126]
+Bauer, F. L., Rutishauser, H., and Stiefel, E. 1963. New aspects in numerical quadrature. In Experimental Arithmetic, High Speed Computing and Mathematics, N. C. Metropolis, A. H. Taub, J. Todd, and C. B. Tompkins, Eds. American Mathematical Society, Providence, RI, 199--217.
+Berntsen, J. and Espelid, T. O. 1984. On the use of Gauss quadrature in adaptive automatic integration schemes. BIT Numer. Math. 24, 239--242.
+Jarle Berntsen , Terje O. Espelid, Error estimation in automatic quadrature routines, ACM Transactions on Mathematical Software (TOMS), v.17 n.2, p.233-252, June 1991[doi>10.1145/108556.108575]
+Björck, Å. and Pereyra, V. 1970. Solution of Vandermonde systems of equations. Math. Comput. 24, 112, 893--903.
+J. Casaletto , M. Pickett , J. Rice, A comparison of some numerical integration programs, ACM SIGNUM Newsletter, v.4 n.3, p.30-40, October 1969[doi>10.1145/1198442.1198448]
+Clenshaw, C. W. and Curtis, A. R. 1960. A method for numerical integration on an automatic computer. Numerische Mathematik 2, 197--205.
+Davis, P. J. and Rabinowitz, P. 1967. Numerical Integration. Blaisdell Publishing Company, Waltham, MA.
+de Boor, C. 1971. CADRE: An algorithm for numerical quadrature. In Mathematical Software, J. R. Rice, Ed. Academic Press, New York, NY, 201--209.
+Elise de Doncker, An adaptive extrapolation algorithm for automatic integration, ACM SIGNUM Newsletter, v.13 n.2, p.12-18, June 1978[doi>10.1145/1053402.1053403]
+Eaton, J. W. 2002. GNU Octave Manual. Network Theory Limited, U.K.
+Espelid, T. O. 1992. DQUAINT: An algorithm for adaptive quadrature over a collection of finite intervals. In Numerical Integration, T. O. Espelid and A. Genz, Eds. Kluwer Academic Publishers, Netherlands, 341--342.
+Espelid, T. O. 2002. Doubly adaptive quadrature routines based on Newton-Cotes rules. Tech. rep. 229, Department of Informatics, University of Bergen, Norway.
+Espelid, T. O. 2003. Doubly adaptive quadrature routines based on Newton-Cotes rules. BIT Numer. Math. 43, 319--337.
+Espelid, T. O. 2004a. Extended doubly adaptive quadrature routines. Tech. rep. 266, Department of Informatics, University of Bergen, Norway.
+Espelid, T. O. 2004b. A test of QUADPACK and four doubly adaptive quadrature routines. Tech. rep. 281, Department of Informatics, University of Bergen, Norway.
+Terje O. Espelid, Algorithm 868: Globally doubly adaptive quadrature—reliable Matlab codes, ACM Transactions on Mathematical Software (TOMS), v.33 n.3, p.21-es, August 2007[doi>10.1145/1268769.1268775]
+T. O. Espelid , T. Sørevik, A discussion of a new error estimate for adaptive quadrature, BIT, v.29 n.2, p.283-294, 1989[doi>10.1007/BF01952683]
+Paola Favati , Grazia Lotti , Francesco Romani, Interpolatory integration formulas for optimal composition, ACM Transactions on Mathematical Software (TOMS), v.17 n.2, p.207-217, June 1991[doi>10.1145/108556.108571]
+Paola Favati , Grazia Lotti , Francesco Romani, Local error estimates in quadrature, BIT, v.31 n.1, p.102-111, 1991[doi>10.1007/BF01952787]
+George E. Forsythe , Michael A. Malcolm , Cleve B. Moler, Computer Methods for Mathematical Computations, Prentice Hall Professional Technical Reference, 1977
+Brian Gough, GNU Scientific Library Reference Manual - Third Edition, Network Theory Ltd., 2009
+L. J. Gallaher, Algorithm 303: An adaptive quadrature procedure with random panel sizes, Communications of the ACM, v.10 n.6, p.373-374, June 1967[doi>10.1145/363332.363408]
+Gander, W. 2006. Generating numerical algorithms using a computer algebra system. BIT Numer. Math. 46, 491--504.
+Gander, W. and Gautschi, W. 2001. Adaptive quadrature—revisited. BIT 40, 1, 84--101.
+Garribba, S., Quartapelle, L., and Reina, G. 1978. SNIFF: Efficient self-tuning algorithm for numerical integration. Computing 20, 363--375.
+Gautschi, W. 1975. Norm estimates for inverses of Vandermonde matrices. Numerische Mathematik 23, 337--347.
+Walter Gautschi, Numerical analysis: an introduction, Birkhauser Boston Inc., Cambridge, MA, 1997
+Gautschi, W. 2004. Orthogonal Polynomials: Computation and Approximation. Oxford University Press, Oxford.
+Gonnet, P. 2009. Adaptive quadrature re-revisited. Ph.D. dissertation, ETH Zürich.
+Gonnet, P. 2010a. Efficient construction, update and downdate of the coefficients of interpolants based on polynomials satisfying a three-term recurrence relation. arXiv:1003.4628.
+Pedro Gonnet, Increasing the Reliability of Adaptive Quadrature Using Explicit Interpolants, ACM Transactions on Mathematical Software (TOMS), v.37 n.3, p.1-32, September 2010[doi>10.1145/1824801.1824804]
+Hasegawa, T., Hibino, S., Hosoda, Y., and Ninomiya, I. 2007. An extended doubly-adaptive quadrature method based on the combination of the Ninomiya and the FLR schemes. Numer. Algorithms 45, 1--4, 101--112.
+Peter Henrici, Essentials of Numerical Analysis with Pocket Calculator Demonstrations, John Wiley & Sons, Inc., New York, NY, 1982
+Henriksson, S. 1961. Contribution no. 2: Simpson numerical integration with variable length of step. BIT Numer. Math. 1, 290.
+Higham, N. J. 1988. Fast solution of Vandermonde-like systems involving orthogonal polynomials. IMA J. Numer. Anal. 8, 473--486.
+Nicholas J. Higham, Stability analysis of algorithms for solving confluent Vandermonde-like systems, SIAM Journal on Matrix Analysis and Applications, v.11 n.1, p.23-41, January 1990[doi>10.1137/0611002]
+K. E. Hillstrom, Comparison of several adaptive Newton-Cotes quadrature routines in evaluating definite integrals with peaked integrands, Communications of the ACM, v.13 n.6, p.362-365, June 1970[doi>10.1145/362384.362499]
+Kahaner, D. K. 1971. 5.15 Comparison of numerical quadrature formulas. In Mathematical Software, J. R. Rice, Ed. Academic Press, New York, NY, 229--259.
+Kahaner, D. K. 1972. Numberical quadrature by the &epsiv;-algorithm. Math. Comput. 26, 119, 689--693.
+Krommer, A. R. and Überhuber, C. W. 1998. Computational Integration. SIAM, Philadelphia, PA.
+Kronrod, A. S. 1965. Nodes and Weights of Quadrature Formulas—Authorized Translation from the Russian. Consultants Bureau, New York, NY.
+Guy F. Kuncir, Algorithm 103: Simpson's rule integrator, Communications of the ACM, v.5 n.6, p.347, June 1962[doi>10.1145/367766.368179]
+Laurie, D. P. 1983. Sharper error estimates in adaptive quadrature. BIT Numer. Math. 23, 258--261.
+Laurie, D. P. 1985. Practical error estimation in numerical integration. J. Comput. Appl. Math. 12--13, 425--431.
+Laurie, D. P. 1992. Stratified sequences of nested quadrature formulas. Quaestiones Mathematicae 15, 364--384.
+Lyness, J. N. 1965. Symmetric integration rules for hypercubes III: Construction of integration rules using null rules. Math. Comput. 19, 625--637.
+J. N. Lyness, Notes on the Adaptive Simpson Quadrature Routine, Journal of the ACM (JACM), v.16 n.3, p.483-495, July 1969[doi>10.1145/321526.321537]
+J. N. Lyness, Algorithm 379: Squank (Simpson Quadrature used adaptivity—noise killed) [D1], Communications of the ACM, v.13 n.4, p.260-262, April 1970[doi>10.1145/362258.362289]
+J. N. Lyness , J. J. Kaganove, Comments on the Nature of Automatic Quadrature Routines, ACM Transactions on Mathematical Software (TOMS), v.2 n.1, p.65-81, March 1976[doi>10.1145/355666.355671]
+Lyness, J. N. and Kaganove, J. J. 1977. A technique for comparing automatic quadrature routines. Comput. J. 20, 2, 170--177.
+Michael A. Malcolm , R. Bruce Simpson, Local Versus Global Strategies for Adaptive Quadrature, ACM Transactions on Mathematical Software (TOMS), v.1 n.2, p.129-146, June 1975[doi>10.1145/355637.355640]
+William Marshall McKeeman, Algorithm 145: Adaptive numerical integration by Simpson's rule, Communications of the ACM, v.5 n.12, p.604, Dec. 1962[doi>10.1145/355580.369102]
+William Marshall McKeeman, Algorithm 198: adaptive integration and multiple integration, Communications of the ACM, v.6 n.8, p.443-444, Aug. 1963[doi>10.1145/366707.367550]
+W. M. McKeeman , Larry Tesler, Algorithm 182: nonrecursive adaptive integration, Communications of the ACM, v.6 n.6, p.315, June 1963[doi>10.1145/366604.366640]
+Morrin, H. 1955. Integration subroutine -- fixed point. Tech. rep. 701 Note &num;28, U.S. Naval Ordnance Test Station, China Lake, CA.
+Ninomiya, I. 1980. Improvements of adaptive Newton-Cotes quadrature methods. J. Info. Process. 3, 3, 162--170.
+O'Hara, H. and Smith, F. J. 1968. Error estimation in Clenshaw-Curtis quadrature formula. Comput. J. 11, 2, 213--219.
+O'Hara, H. and Smith, F. J. 1969. The evaluation of definite integrals by interval subdivision. Comput. J. 12, 2, 179--182.
+Oliver, J. 1971. A practical strategy for the Clenshaw-Curtis quadrature method. J. Inst. Math. Appl. 8, 53--56.
+Oliver, J. 1972. A doubly-adaptive Clenshaw-Curtis quadrature method. Comput. J. 15, 2, 141--147.
+Pachón, R., Platte, R., and Trefethen, L. N. 2009. Piecewise smooth chebfuns. IMA J. Numer. Anal., in Press.
+T. N. L. Patterson, Algorithm 468: algorithm for automatic numerical integration over a finite interval [D1], Communications of the ACM, v.16 n.11, p.694-699, Nov. 1973[doi>10.1145/355611.362543]
+Piessens, R. 1973. An algorithm for automatic integration. Angewandte Informatik 9, 399--401.
+Piessens, R., de Doncker-Kapenga, E., Überhuber, C. W., and Kahaner, D. K. 1983. QUADPACK A Subroutine Package for Automatic Integration. Springer-Verlag, Berlin.
+Ralston, A. and Rabinowitz, P. 1978. A First Course in Numerical Analysis. McGraw-Hill Inc., New York, NY.
+Robinson, I. 1979. A comparison of numerical integration programs. J. Comput. Appl. Math. 5, 3, 207--223.
+Romberg, W. 1955. Vereinfachte numerische Integration. Det Kongelige Norske Videnskabers Selskab Forhandlinger 28, 7, 30--36.
+Rowland, J. H. and Varol, Y. L. 1972. Exit criteria for Simpson's compound rule. Math. Comput. 26, 119, 699--703.
+Rutishauser, H. 1976. Vorlesungen über numerische Mathematik, Band 1. Birkhäuser Verlag, Basel and Stuttgart.
+Schwarz, H. R. 1997. Numerische Mathematik 4th Ed. B. G. Teubner, Stuttgart. With a contribution by Jörg Waldvogel.
+L. F. Shampine, Vectorized adaptive quadrature in MATLAB, Journal of Computational and Applied Mathematics, v.211 n.2, p.131-140, January 2008[doi>10.1016/j.cam.2006.11.021]
+Robert D. Skeel , Jerry B. Keiper, Elementary Numerical Computing with Mathematica, McGraw-Hill, Inc., New York, NY, 1992
+Stiefel, E. 1961. Einführung in die numerische Mathematik. B. G. Teubner Verlagsgesellschaft, Stuttgart.
+The Mathworks 2005. MATLAB 7.0 Release Notes. The Mathworks, Natick, MA.
+Venter, A. and Laurie, D. P. 2002. A doubly adaptive integration algorithm using stratified rules. BIT Numer. Math. 42, 1, 183--193.
+Villars, D. S. 1956. Use of the IBM 701 computer for quantum mechanical calculations II. overlap integral. Tech. rep. 5257, U.S. Naval Ordnance Test Station, China Lake, CA.
+Wynn, P. 1956. On a device for computing thee<sub>m</sub>(s<sub>n</sub>)transformation. Math. Tables Other Aids Comput. 10, 54, 91--96.

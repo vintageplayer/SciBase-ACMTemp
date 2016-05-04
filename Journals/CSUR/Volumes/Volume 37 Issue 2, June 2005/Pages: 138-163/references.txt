@@ -1,0 +1,38 @@
+Aleph One. 2002. YAFFS: Yet another flash filing system. Cambridge, UK. Available at http://www.aleph1.co.uk/yaffs/index.html.
+Assar, M., Nemazie, S., and Estakhri, P. 1995a. Flash memory mass storage architecture. US patent 5,388,083. Filed March 26, 1993; Issued February 7, 1995; Assigned to Cirrus Logic.
+Assar, M., Nemazie, S., and Estakhri, P. 1995b. Flash memory mass storage architecture incorporation wear leveling technique. US patent 5,479,638. Filed March 26, 1993; Issued December 26, 1995; Assigned to Cirrus Logic.
+Assar, M., Nemazie, S., and Estakhri, P. 1996. Flash memory mass storage architecture incorporation wear leveling technique without using CAM cells. US patent 5,485,595. Filed October 4, 1993; Issued January 16, 1996; Assigned to Cirrus Logic.
+Axis Communications. 2004. JFFS home page. Lund, Sweden. Available at http://developer.axis.com/software/jffs/.
+Ban, A. 1995. Flash file system. US patent 5,404,485. Filed March 8, 1993; Issued April 4, 1995; Assigned to M-Systems.
+Ban, A. 1999. Flash file system optimized for page-mode flash technologies. US patent 5,937,425. Filed October 16, 1997; Issued August 10, 1999; Assigned to M-Systems.
+Ban, A. 2004. Wear leveling of static areas in flash memory. US patent 6,732,221. Filed June 1, 2001; Issued May 4, 2004; Assigned to M-Systems.
+Barrett, P. L., Quinn, S. D., and Lipe, R. A. 1995. System for updating data stored on a flash-erasable, programmable, read-only memory (FEPROM) based upon predetermined bit value of indicating pointers. US patent 5,392,427. Filed May 18, 1993; Issued February 21, 1995; Assigned to Microsoft.
+Li-Pin Chang , Tei-Wei Kuo , Shi-Wu Lo, Real-time garbage collection for flash-memory storage systems of real-time embedded systems, ACM Transactions on Embedded Computing Systems (TECS), v.3 n.4, p.837-863, November 2004[doi>10.1145/1027794.1027801]
+M.-L. Chiang , R.-C. Chang, Cleaning policies in mobile computers using flash memory, Journal of Systems and Software, v.48 n.3, p.213-231, Nov. 1, 1999[doi>10.1016/S0164-1212(99)00059-X]
+Mei-Ling Chiang , Paul C. H. Lee , Ruei-Chuan Chang, Using data clustering to improve cleaning performance for plash memory, Software—Practice & Experience, v.29 n.3, p.267-290, March 1999[doi>10.1002/(SICI)1097-024X(199903)29:3<267::AID-SPE233>3.0.CO;2-T]
+Daberko, N. 1998. Operating system including improved file management for use in devices utilizing flash memory as main memory. US patent 5,787,445. Filed March 7, 1996; Issued July 28, 1998; Assigned to Norris Communications.
+Dan, R. and Williams, J. 1997. A TrueFFS and FLite technical overview of M-Systems' flash file systems. Tech. rep. 80-SR-002-00-6L Rev. 1.30, M-Systems.
+Douglis, F., Caceres, R., Kaashoek, M. F., Li, K., Marsh, B., and Tauber, J. A. 1994. Storage alternatives for mobile computers. In Proceedings of the 1st USENIX Symposium on Operating Systems Design and Implementation (OSDI). Monterey, CA. 25--37.
+Han, S.-W. 2000. Flash memory wear leveling system and method. US patent 6,016,275. Filed November 4, 1998; Issued January 18, 2000; Assigned to LG Semiconductors.
+Intel Corporation. 1998a. Flash file system selection guide. Application Note 686, Intel Corporation.
+Intel Corporation. 1998b. Understanding the flash translation layer (FTL) specification. Application Note 648, Intel Corporation.
+Jou, E. and Jeppesen III, J. H. 1996. Flash memory wear leveling system providing immediate direct access to microprocessor. US patent 5,568,423. Filed April 14, 1995; Issued October 22, 1996; Assigned to Unisys.
+Atsuo Kawaguchi , Shingo Nishioka , Hiroshi Motoda, A flash-memory based file system, Proceedings of the USENIX 1995 Technical Conference Proceedings, p.13-13, January 16-20, 1995, New Orleans, Louisiana
+Kim, H.-J. and Lee, S.-G. 2002. An effective flash memory manager for reliable flash memory space management. IEICE Trans. Inform. Syst. E85-D, 6, 950--964.
+Krueger, W. J. and Rajagopalan, S. 1999a. Method and system for file system management using a flash-erasable, programmable, read-only memory. US patent 5,634,050. Filed June 7, 1995; Issued May 27, 1999; Assigned to Microsoft.
+Krueger, W. J. and Rajagopalan, S. 1999b. Method and system for file system management using a flash-erasable, programmable, read-only memory. US patent 5,898,868. Filed 7 June 1995; Issued April 27, 1999; Assigned to Microsoft.
+Krueger, W. J. and Rajagopalan, S. 2001. Method and system for file system management using a flash-erasable, programmable, read-only memory. US patent 6,256,642. Filed 29 January, 1992; Issued July 3, 2001; Assigned to Microsoft.
+Lofgren, K. M., Norman, R. D., Thelin, Gregory, B., and Gupta, A. 2003. Wear leveling techniques for flash EEPROM systems. US patent 6,594,183. Filed June 30, 1998; Issued July, 15, 2003; Assigned to Sandisk and Western Digital.
+Lofgren, K. M. J., Norman, R. D., Thelin, G. B., and Gupta, A. 2000. Wear leveling techniques for flash EEPROM systems. US patent 6,081,447. Filed March 25, 1999; Issued June 27, 2000; Assigned to Western Digital and Sandisk.
+Marshall, J. M. and Manning, C. D. H. 1998. Flash file management system. US patent 5,832,493. Filed April 24, 1997; Issued November 3, 1998; Assigned to Trimble Navigation.
+Parker, K. W. 2003. Portable electronic device having a log-structured file system in flash memory. US patent 6,535,949. Filed April 19, 1999; Issued March 18, 2003; Assigned to Research In Motion.
+Mendel Rosenblum , John K. Ousterhout, The design and implementation of a log-structured file system, ACM Transactions on Computer Systems (TOCS), v.10 n.1, p.26-52, Feb. 1992[doi>10.1145/146941.146943]
+Seltzer, M. I., Bostic, K., McKusick, M. K., and Staelin, C. 1993. An implementation of a log-structured file system for UNIX. In USENIX Winter Conference Proceedings. San Diego, CA. 307--326.
+Smith, K. B. and Garvin, P. K. 1999. Method and apparatus for allocating storage in flash memory. US patent 5,860,082. Filed March 28, 1996; Issued January 12, 1999; Assigned to Datalight.
+Torelli, P. 1995. The Microsoft flash file system. Dr. Dobb's Journal 20, 62--72.
+Wells, S., Hasbun, R. N., and Robinson, K. 1998. Sector-based storage device emulator having variable-sized sector. US patent 5,822,781. Filed October 30, 1992; Issued October 13, 1998; Assigned to Intel.
+Wells, S. E. 1994. Method for wear leveling in a flash EEPROM memory. US patent 5,341,339. Filed November 1, 1993; Issued August 23, 1994; Assigned to Intel.
+Woodhouse, D. 2001. JFFS: The journaling flash file system. Ottawa Linux Symposium (July). Available at http://sources.redhat.com/jffs2/jffs2.pdf.
+Wu, C.-H., Chang, L.-P., and Kuo, T.-W. 2003a. An efficient B-tree layer for flash-memory storage systems. In Proceedings of the 9th International Conference on Real-Time and Embedded Computing Systems and Applications (RTCSA). Tainan City,Taiwan. Lecture Notes in Computer Science, vol. 2968. Springer, 409-- 430.
+Chin-Hsien Wu , Li-Pin Chang , Tei-Wei Kuo, An efficient R-tree implementation over flash-memory storage systems, Proceedings of the 11th ACM international symposium on Advances in geographic information systems, p.17-24, November 07-08, 2003, New Orleans, Louisiana, USA[doi>10.1145/956676.956679]
+Michael Wu , Willy Zwaenepoel, eNVy: a non-volatile, main memory storage system, Proceedings of the sixth international conference on Architectural support for programming languages and operating systems, p.86-97, October 05-07, 1994, San Jose, California, USA[doi>10.1145/195473.195506]

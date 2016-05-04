@@ -1,0 +1,238 @@
+ABRAMSKY, S., AND BORNAT, R. 1983. Pascal-m: A language for loosely coupled distributed systems. In Distributed Computing Systems, Y. Paker and J.-P. Verjus, Eds. Academic Press, London, pp. 163-189.
+ACKERMAN, W. B. 1982. Data flow languages. Computer 15, 2 (Feb.), 15-25.
+ADAMO, j.-M. 1982. Pascal+CSP, merging Pascal and CSP in a parallel processing oriented language. In Proceedings of the 3rd International Conference on Distributed Computing Systems (Miami/Ft. Lauderdale, Fla., Oct. 18-22). IEEE, New York, pp. 542-547.
+Gul Agha, An overview of actor languages, ACM SIGPLAN Notices, v.21 n.10, p.58-67, Oct. 1986[doi>10.1145/323648.323743]
+Sudhir Ahuja , Nicholas Carriero , David Gelernter, Linda and friends, Computer, v.19 n.8, p.26-34, Aug. 1986[doi>10.1109/MC.1986.1663305]
+Sudhir Ahuja , Nicholas J. Carriero , David H. Gelernter , Venkatesh Krishnaswamy, Matching Language and Hardware for Parallel Computation in the Linda Machine, IEEE Transactions on Computers, v.37 n.8, p.921-929, August 1988[doi>10.1109/12.2244]
+Mehmet Aksit , Anand Tripathi, Data abstraction mechanisms in SINA/ST, ACM SIGPLAN Notices, v.23 n.11, p.267-275, Nov. 1988[doi>10.1145/62084.62107]
+ALMES, G. T. 1986. The impact of language and system on remote procedure call design, in Proceedings of the 6th International Conference on Distributed Computing Systems (Cambridge, Mass., May 19-23). IEEE, New York, pp. 414-421.
+ALMES, G. T., BLACK, A. P., LAZOWSKA, E. D., AND NOE, J. D. 1985. The Eden system: A technical review. IEEE Trans. Softw. Eng. SE-11, i (Jan.), 43-59.
+Allen L. Ambler , Donald I. Good , James C. Browne , Wilhelm F. Burger , Richard M. Cohen , Charles G. Hoch , Robert E. Wells, Gypsy: A language for specification and implementation of verifiable programs, Proceedings of an ACM conference on Language design for reliable software, p.1-10, March 28-30, 1977, Raleigh, North Carolina[doi>10.1145/800022.808306]
+Pierre America, Pool-T: a parallel object-oriented language, Object-oriented concurrent programming, MIT Press, Cambridge, MA, 1987
+Gregory R. Andrews, Synchronizing Resources, ACM Transactions on Programming Languages and Systems (TOPLAS), v.3 n.4, p.405-430, Oct. 1981[doi>10.1145/357146.357149]
+ANDREWS, G. R., 1982. The distributed programming language SR--Mechanisms, design and implementation. Softw. Prac. Exper. 12, 8 (Aug.), 719-753.
+ANDREWS, G. R., AND OLSSON, R. A. 1986. The evolution of the SR programming language. Distrib. Comput. 1, 3 (July), 133-149.
+Gregory R. Andrews , Fred B. Schneider, Concepts and Notations for Concurrent Programming, ACM Computing Surveys (CSUR), v.15 n.1, p.3-43, March 1983[doi>10.1145/356901.356903]
+Gregory R. Andrews , Michael Coffin , Irving Elshoff , Kelvin Nilson , Gregg Townsend , Ronald A. Olsson , Titus Purdin, An overview of the SR language and implementation, ACM Transactions on Programming Languages and Systems (TOPLAS), v.10 n.1, p.51-86, Jan. 1988[doi>10.1145/42192.42324]
+William C. Athas , Charles L. Seitz, Multicomputers: Message-Passing Concurrent Computers, Computer, v.21 n.8, p.9-24, August 1988[doi>10.1109/2.73]
+BAALBERGEN, E. H. 1988. Design and implementation of parallel make. Comput. Syst. 1, 2 (Spring), 135-158.
+John Backus, Can programming be liberated from the von Neumann style?: a functional style and its algebra of programs, Communications of the ACM, v.21 n.8, p.613-641, Aug. 1978[doi>10.1145/359576.359579]
+BAGRODIA, R., AND CHANDY, K. M. 1985. A microkernel for distributed applications. In Proceedings of the 5th International Conference on Distributed Computing Systems (Denver, Colo., May 13-17). IEEE, New York, pp. 140-149.
+F. Baiardi , L. Ricci , M. Vanneschi, Static checking of interprocess communication in ECSP, Proceedings of the 1984 SIGPLAN symposium on Compiler construction, p.290-299, June 17-22, 1984, Montreal, Canada[doi>10.1145/502874.502903]
+BAL, H. E. 1989. The shared data-object model as a paradigm for programming distributed systems. Ph.D. dissertation, Dept. of Mathematics and Computer Science, Vrije Universiteit, Amsterdam, the Netherlands.
+BAL, H. E., AND TANENBAUM, A. S. 1988. Distributed programming with shared data. In Proceedings of the IEEE CS I988 International Conference on Computer Languages (Miami, Fla., Oct. 9-13). IEEE, New York, pp. 82-91.
+BAL, H. $., VAN RENESSE, R., AND TANENBAUM, A. S. 1987. Implementing distributed algorithms using remote procedure calls. In Proceedings of the AFIPS National Computer Conference (Chicago, ill., June 15-18). AFIPS Press, Reston, Va., pp. 499-506.
+J. E. Ball , G. J. Williams , J. R. Low, Preliminary ZENO language description, ACM SIGPLAN Notices, v.14 n.9, September 1979[doi>10.1145/988113.988116]
+John K. Bennett, The design and implementation of distributed Smalltalk, ACM SIGPLAN Notices, v.22 n.12, p.318-330, Dec. 1987[doi>10.1145/38807.38836]
+Arthur Bernstein, Output Guards and Nondeterminism in “Communicating Sequential Processes”, ACM Transactions on Programming Languages and Systems (TOPLAS), v.2 n.2, p.234-238, April 1980[doi>10.1145/357094.357101]
+Kenneth P. Birman , Thomas A. Joseph, Reliable communication in the presence of failures, ACM Transactions on Computer Systems (TOCS), v.5 n.1, p.47-76, Feb. 1987[doi>10.1145/7351.7478]
+Andrew D. Birrell , Bruce Jay Nelson, Implementing remote procedure calls, ACM Transactions on Computer Systems (TOCS), v.2 n.1, p.39-59, February 1984[doi>10.1145/2080.357392]
+Andrew Black , Norman Hutchinson , Eric Jul , Henry Levy, Object structure in the Emerald system, Conference proceedings on Object-oriented programming systems, languages and applications, p.78-86, September 29-October 02, 1986, Portland, Oregon, United States[doi>10.1145/28697.28706]
+BLACK, A. P., HUTCHINSON, N. C., McCORD, B. C., AND RAJ, R. K. 1984. EPL Programmer's Guide. Univ. of Washington, Seattle, June.
+Andrew Black , Norman Hutchinson , Eric Jul , Henry Levy , Larry Carter, Distributed and abstract types in Emerald, IEEE Transactions on Software Engineering, v.13 n.1, p.65-76, Jan. 1987[doi>10.1109/TSE.1987.232836]
+BLOCH, J. J. 1988. The Camelot library. In Guide to the Camelot Distributed Transaction Facility: Release 1, A. Z. Spector and K. R. Swedlow, Eds. Carnegie-Mellon University, Pittsburgh, Pc., pp. 29-62.
+Anita Borg , Jim Baumbach , Sam Glazer, A message system supporting fault tolerance, Proceedings of the ninth ACM symposium on Operating systems principles, p.90-99, October 10-13, 1983, Bretton Woods, New Hampshire, United States[doi>10.1145/800217.806617]
+Per Brinch Hansen, Operating System Principles, Prentice Hall PTR, Upper Saddle River, NJ, 1973
+BRINCH HANSEN, P. 1975. The programming language concurrent pascal. IEEE Trans. Softw. Eng. SE-1, 2 (June), 199-207.
+Per Brinch Hansen, Distributed processes: a concurrent programming concept, Communications of the ACM, v.21 n.11, p.934-941, Nov. 1978[doi>10.1145/359642.359651]
+P. B. Hansen, Joyce—a programming language for distributed systems, Software—Practice & Experience, v.17 n.1, p.29-50, Jan. 1987[doi>10.1002/spe.4380170105]
+A. Burns, Programming in Occam 2, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1987
+A. Burns , G. Davies, Pascal-FC: a language for teaching concurrent programming, ACM SIGPLAN Notices, v.23 n.1, p.58-66, Jan., 1988[doi>10.1145/44304.44309]
+Alan Burns , Andrew M. Lister , Andrew J. Wellings, A review of Ada tasking, Springer-Verlag New York, Inc., New York, NY, 1987
+F. Warren Burton, Annotations to Control Parallelism and Reduction Order in the Distributed Evaluation of Functional Programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.6 n.2, p.159-174, April 1984[doi>10.1145/2993.357241]
+CARPENTER, B. E., AND CAILLIAU, R. 1984. Experience with remote procedure calls in a realtime control system. Softw. Pract. Exper. 14, 9 (Sept.), 901-907.
+Nicholas John Carriero, Jr., Implementation of tuple space machines, 1987
+Nicholas Carriero , David Gelernter, The S/Net's Linda kernel, ACM Transactions on Computer Systems (TOCS), v.4 n.2, p.110-129, May 1986[doi>10.1145/214419.214420]
+Nicholas Carriero , David Gelernter , Jerrold Leichter, Distributed data structures in Linda, Proceedings of the 13th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.236-242, January 01, 1986, St. Petersburg Beach, Florida[doi>10.1145/512644.512666]
+K. L. Clark, PARLOG and its Applications, IEEE Transactions on Software Engineering, v.14 n.12, p.1792-1804, December 1988[doi>10.1109/32.9064]
+Keith L. Clark , Steve Gregory, A relational language for parallel programming, Proceedings of the 1981 conference on Functional programming languages and computer architecture, p.171-178, October 18-22, 1981, Portsmouth, New Hampshire, United States[doi>10.1145/800223.806776]
+CLARK, K. L., AND GREGORY, S. 1985. Notes on the implementation of PARLOG. J. Logic Program. 2, 1 (Apr.), 17-42.
+Keith Clark , Steve Gregory, PARLOG: parallel programming in logic, ACM Transactions on Programming Languages and Systems (TOPLAS), v.8 n.1, p.1-49, Jan. 1986[doi>10.1145/5001.5390]
+CLARK, K. L., MCCABE, F. G., AND GREGORY, S. 1982. IC-PROLOG language features. In Logic Programming, S.-A. Tarnlund, Ed. Academic Press, London, pp. 253-266.
+CMELIK, R. F., 1986. Concurrent Make: The Design and Implementation of a Distributed Program in Concurrent C. AT&T Bell Laboratories, Murray Hill, N.J.
+Robert F. Cmelik , Narain H. Gehani , William D. Roome, Experience with Multiple Processor Versions of Concurrent C, IEEE Transactions on Software Engineering, v.15 n.3, p.335-344, March 1989[doi>10.1109/32.21761]
+CMELiK, R. F., GEHANI, N. H., AND ROOME, W. D. 1987. Fault Tolerant Concurrent C: A Tool for Writing Fault Tolerant Distributed Programs. AT&T Bell Laboratories, Murray Hill, N.J.
+Michael Codish , Ehud Shapiro, Compiling OR-parallelism into AND-parallelism, Proceedings on Third international conference on logic programming, p.283-297, September 1986, London, United Kingdom
+COOK, R. P. 1980. *MOD--A language for distributed programming. IEEE Trans. Softw. Eng. SE- 6, 6 (Nov.), 563-571.
+Eric C. Cooper, Replicated distributed programs, Proceedings of the tenth ACM symposium on Operating systems principles, p.63-78, December 1985, Orcas Island, Washington, United States[doi>10.1145/323647.323635]
+R. C. B Cooper , K. G. Hamilton, Preserving Abstraction in Concurrent Programming, IEEE Transactions on Software Engineering, v.14 n.2, p.258-263, February 1988[doi>10.1109/32.4643]
+Cox, I. J., AND GEHANI, N. H. 1986. Concurrent programming and robotics. AT&T Bell Laboratories, Murray Hill, N.J.
+CROOKES, D., AND ELDER, J. W. G. 1984. An experiment in language design for distributed systems. Softw. Pract. Exper. 14, 10 (Oct.), 957-971.
+DANNENBERG, R. B. 1981. AMPL: Design, implementation and evaluation of a multiprocessing language. Carnegie-Mellon University. Pittsburgh, Pc.
+DAVIS, A. L., AND ROBISON, S. V. 1985. The architecture of the FAIM-1 symbolic multiprocessing system. In 9th International Joint Conference on Artificial Intelligence (Los Angeles, Calif., Aug. 13-18). pp. 32-38.
+M. S. Day, REPLICATION AND RECONFIGURATION IN A DISTRIBUTED MAIL REPOSITORY, Massachusetts Institute of Technology, Cambridge, MA, 1987
+DEPARTMENT OF DEFENSE, U.S. 1983. Reference manual for the Ada programming language. ANSI/MIL-STD-1815A, DoD,Washington, D.C., Jan.
+David L. Detlefs , Maurice P. Herlihy , Jeannette M. Wing, Inheritance of Synchronization and Recovery Properties in Avalon/C++, Computer, v.21 n.12, p.57-69, December 1988[doi>10.1109/2.16189]
+Edsger W. Dijkstra, Guarded commands, nondeterminacy and formal derivation of programs, Communications of the ACM, v.18 n.8, p.453-457, Aug. 1975[doi>10.1145/360933.360975]
+EICHHOLZ, S. 1987. Parallel programming with ParMod. In Proceedings of the 1987 International Conference on Parallel Processing (St. Charles, Ill., Aug. 17-21). Penn State University, pp. 377-380.
+ELRAD, T., AND MAYMIR-DUCHARME, F. 1986. Distributed languages design: Constructs for controlling preferences, in Proceedings of the 1986 International Conference on Parallel Processing (St. Charles, Ill., Aug. 19-22). Penn State University, pp. 176-183.
+ERICSON, L. W. 1982. DPL-82: A language for distributed processing. In Proceedings of the 3rd International Conference on Distributed Computing Systems (Miami/Ft. Lauderdale, Fla., Oct.). pp. 526-531.
+Jerome A. Feldman, High level programming for distributed computing, Communications of the ACM, v.22 n.6, p.353-368, June 1979[doi>10.1145/359114.359127]
+Raphael Finkel , Udi Manber, DIB—a distributed implementation of backtracking, ACM Transactions on Programming Languages and Systems (TOPLAS), v.9 n.2, p.235-256, April 1987[doi>10.1145/22719.24067]
+A J Fisher, A multi-processor implementation of occam, Software—Practice & Experience, v.16 n.10, p.875-892, October 1986[doi>10.1002/spe.4380161002]
+FORMAN, I. R. 1986. On the design of large distributed systems. In Proceedings of the IEEE CS 1986 International Conference on Computer Languages (Miami, Fla., Oct. 27-30). IEEE, New York, pp. 84-95.
+FOSTER, I. 1988. Parallel implementation of PAR- LOG. In Proceedings of the International Conference on Parallel Processing ( Vol. II) (St. Charles, Ill., Aug. 15-19). Penn State University, pp. 9-16.
+Ian Foster , Steve Gregory , Graem Ringwood , Ken Satoh, A sequential implementation of Parlog, Proceedings on Third international conference on logic programming, p.149-156, September 1986, London, United Kingdom
+Richard P. Gabriel , John McCarthy, Queue-based multi-processing LISP, Proceedings of the 1984 ACM Symposium on LISP and functional programming, p.25-44, August 06-08, 1984, Austin, Texas, United States[doi>10.1145/800055.802019]
+Richard P. Gabriel , John McCarthy, Qlisp, Parallel computation and computers for artificial intelligence, Kluwer Academic Publishers, Norwell, MA, 1988
+N. D. Gammage , R. F. Kamel , L. M. Casey, Remote rendezvous, Software—Practice & Experience, v.17 n.10, p.741-755, October 1, 1987[doi>10.1002/spe.4380171007]
+Narain Gehani, ADA: Concurrent Programming, Prentice-Hall, Inc., Upper Saddle River, NJ, 1984
+GEHANI, N. H. 1984b. Broadcasting sequential processes (BSP). IEEE Trans. Softw. Eng. SE-IO, 4 (July), 343-351.
+GEHANI, N. H. 1987. Message Passing: Synchronous versus Asynchronous. AT&T Bell Laboratories, Murray Hill, N.J.
+GEHANi, N. H., AND CARGILL, T. A. 1984. Concurrent programming in the Ada language: The polling bias. Softw. Pract. Exper. 14, 5 (May), 413-427.
+N H Gehani , W D Roome, Concurrent C, Software—Practice & Experience, v.16 n.9, p.821-844, Sept. 1986
+Gr. HANI, N. H., AND ROOME, W. D. 1986b. Concurrent C++ : Concurrent Programming with Class(es). AT&T Bell Laboratories, Murray Hill, N.J.
+N. H. Gehani , William D. Roome, Rendezvous Facilities: Concurrent C and the Ada Language, IEEE Transactions on Software Engineering, v.14 n.11, p.1546-1553, November 1988[doi>10.1109/32.9043]
+Narain Gehani , William D. Roome, The concurrent C programming language, Silicon Press, Summit, NJ, 1989
+GELERNTER, D. 1984. A note on systems programming in Concurrent Prolog. In Proceedings of the International Symposium on Logic Programming (Atlantic City, N.J., Feb. 6-9). IEEE, New York, pp. 76-82.
+David Gelernter, Generative communication in Linda, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.1, p.80-112, Jan. 1985[doi>10.1145/2363.2433]
+GELERNTER, D., AND CARRiERO, N. 1986. Linda on hypercube multicomputers. In Proceedings of the 1985 SIAM Conference (Knoxville, Tenn.). Society for Industrial and Applied Mathematics, Philadelphia, Pa., pp. 45-55.
+Nicholas Carriero , David Gelernter, Applications experience with Linda, ACM SIGPLAN Notices, v.23 n.9, p.173-187, Sept. 1988[doi>10.1145/62116.62132]
+D. Gelernter , S. Jagannathan , T. London, Environments as first class objects, Proceedings of the 14th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.98-110, January 21-23, 1987, Munich, West Germany[doi>10.1145/41625.41634]
+D. Gelernter , S. Jagannathan , T. London, Parallelism, persistence and meta-cleanliness in the symmetric Lisp interpreter, Papers of the Symposium on Interpreters and interpretive techniques, p.274-282, June 24-26, 1987, St. Paul, Minnesota, United States[doi>10.1145/29650.29679]
+Charles M. Geschke , James H. Morris, Jr. , Edwin H. Satterthwaite, Early experience with Mesa, Communications of the ACM, v.20 n.8, p.540-553, Aug. 1977[doi>10.1145/359763.359771]
+Adele Goldberg , David Robson, Smalltalk-80:  the language and its implementation, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1983
+Benjamin Goldberg , Paul Hudak, Alfalfa: distributed graph reduction on a hypercube multiprocessor, Proc. of a workshop on Graph reduction, p.94-113, September 1987, Santa Fe, New Mexico, United States
+Peter C. J. Graham, Using BINS for inter-process communication, ACM SIGPLAN Notices, v.20 n.2, February 1985[doi>10.1145/988304.988309]
+Steve Gregory, Parallel logic programming in PARLOG: the language and its implementation, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1987
+Irene Greif , Robert Seliger , William E. Weihl, Atomic data abstractions in a distributed collaborative editing system, Proceedings of the 13th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.160-172, January 01, 1986, St. Petersburg Beach, Florida[doi>10.1145/512644.512659]
+Andrew S. Grimshaw , Jane W. S. Liu, Mentat: An object-oriented macro data flow system, ACM SIGPLAN Notices, v.22 n.12, p.35-47, Dec. 1987[doi>10.1145/38807.38811]
+Robert H. Halstead, Jr., MULTILISP: a language for concurrent symbolic computation, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.4, p.501-538, Oct. 1985[doi>10.1145/4472.4478]
+HAMILTON, K. G. 1984. A remote procedure call system. Tech. Rep. 70, Ph.D. dissertation, Computer Laboratory, Univ. of Cambridge, Cambridge, U.K., Dec.
+Maurice P. Herlihy , Barbara Liskov, A Value Transmission Method for Abstract Data Types, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.4, p.527-551, Oct. 1982[doi>10.1145/69622.357182]
+HEWITT, C. 1977. Viewing control structures as patterns of passing messages. Artif. Inte!l. 8, 3 (June), 323-364.
+C. A. R. Hoare, Communicating sequential processes, Communications of the ACM, v.21 n.8, p.666-677, Aug. 1978[doi>10.1145/359576.359585]
+Charles Antony Richard Hoare, The emperor's old clothes, Communications of the ACM, v.24 n.2, p.75-83, Feb. 1981[doi>10.1145/358549.358561]
+C. A. R. Hoare, Communicating sequential processes, Prentice-Hall, Inc., Upper Saddle River, NJ, 1985
+R. C. Holt, A short introduction to Concurrent Euclid, ACM SIGPLAN Notices, v.17 n.5, p.60-79, May 1982[doi>10.1145/947923.947931]
+HOURI, A., AND SHAPIRO, E. 1986. A sequential abstract machine for Flat Concurrent Prolog. Rep. CS86-20, Dept. of Computer Science, The Weizmann Institute of Science, Rehovot, Israel, July.
+Paul Hudak, Para-functional programming, Computer, v.19 n.8, p.60-69, Aug. 1986[doi>10.1109/MC.1986.1663309]
+Paul Hudak, Exploring Parafunctional Programming: Separating the What from the How, IEEE Software, v.5 n.1, p.54-61, January 1988[doi>10.1109/52.1994]
+Paul Hudak , Lauren Smith, Para-functional programming: a paradigm for programming multiprocessor systems, Proceedings of the 13th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.243-254, January 01, 1986, St. Petersburg Beach, Florida[doi>10.1145/512644.512667]
+M Elizabeth , C Hull , G Donnan, Contextually communicating sequential processes: a software engineering environment, Software—Practice & Experience, v.16 n.9, p.845-864, Sept. 1986
+J. G. Hunt, Messages in typed languages, ACM SIGPLAN Notices, v.14 n.1, p.27-45, January 1979[doi>10.1145/954051.954053]
+Jin H. Hur , Kilnam Chon, Overview of a parallel object-oriented language CLIX, European conference on object-oriented programming on ECOOP '87, p.265-273, October 1987, Paris, France
+N. C. Hutchinson, EMERALD: An object-based language for distributed programming, University of Washington, Seattle, WA, 1987
+Inmos Corp, Occam Programming Manual, Prentice Hall Trade, 1984
+Yutaka Ishikawa , Mario Tokoro, Orient84/K: an object-oriented concurrent programming language for knowledge representation, Object-oriented concurrent programming, MIT Press, Cambridge, MA, 1987
+JAZAYERI, M., GHEZZI, C., HOFFMAN, D., MIDDLE- TON, D., AND SMOTHERMAN, M. 1980. CSP/80: A language for communicating sequential processes. In Proceedings of IEEE COMPCON Fall 1980 (New York, Sept.). IEEE, New York, pp. 736-740.
+Anita K. Jones , Peter Schwarz, Experience Using Multiprocessor Systems—A Status Report, ACM Computing Surveys (CSUR), v.12 n.2, p.121-165, June 1980[doi>10.1145/356810.356813]
+Thomas A. Joseph , Kenneth P. Birman, Low cost management of replicated data in fault-tolerant distributed systems, ACM Transactions on Computer Systems (TOCS), v.4 n.1, p.54-70, Feb. 1986[doi>10.1145/6306.6309]
+JOUVELOT, P., AND GIFFORD, D. K. 1988. The FX- 87 interpreter. In Proceedings of the IEEE CS 1988 International Conference on Computer Languages (Miami, Fla., Oct. 9-13). IEEE, New York, pp. 65-72.
+E. B. Jul, Object mobility in a distributed object-oriented system, University of Washington, Seattle, WA, 1990
+Eric Jul , Henry Levy , Norman Hutchinson , Andrew Black, Fine-grained mobility in the Emerald system, ACM Transactions on Computer Systems (TOCS), v.6 n.1, p.109-133, Feb. 1988[doi>10.1145/35037.42182]
+KAASHOEK, M. F., AND BAL, H. E. 1988. An evaluation of the distributed data structure paradigm in Linda. IR- 173, Dept. of Mathematics and Computer Science, Vrije Universiteit, Amsterdam, Dec.
+Kenneth Kahn , Eric Dean Tribble , Mark S. Miller , Daniel G. Bobrow, Objects in concurrent logic programming languages, Conference proceedings on Object-oriented programming systems, languages and applications, p.242-257, September 29-October 02, 1986, Portland, Oregon, United States[doi>10.1145/28697.28721]
+VAN KATWIJK, J. VAN 1987. The Ada compiler. Ph.D. dissertation, Dept. of Mathematics and Computer Science, Delft Univ. of Technology, Delft, The Netherlands, Sept.
+B. W. Kernighan , D. M. Ritchie, The C programming language, Prentice-Hall, Inc., Upper Saddle River, NJ, 1978
+Jon Kerridge , Dan Simpson, Communication parallel processes, Software—Practice & Experience, v.16 n.1, p.63-86, Jan. 1986[doi>10.1002/spe.4380160106]
+Richard B. Kieburtz , Abraham Silberschatz, Comments on “Communicating Sequential Processes”, ACM Transactions on Programming Languages and Systems (TOPLAS), v.1 n.2, p.218-225, Oct. 1979[doi>10.1145/357073.357077]
+KOCH, A., ANO MAIB^UM, T. S. E. 1982. A message oriented language for system applications. In Proceedings of the 3rd International Conference on Distributed Computing Systems (Fort Lauderdale, Fla., Oct. 18-22). IEEE, New York, pp. 824-832.
+Jeff Kramer , Jeff Magee, Dynamic configuration for distributed systems, IEEE Transactions on Software Engineering, v.11 n.4, p.424-436, April 1985[doi>10.1109/TSE.1985.232231]
+Boontee Kruatrachue , Ted Lewis, Grain Size Determination for Parallel Processing, IEEE Software, v.5 n.1, p.23-32, January 1988[doi>10.1109/52.1991]
+KUNG, H. T. 1982. Why systolic architectures? Computer 15, 1 (Jan.), 37-46.
+Butler W. Lampson, Atomic Transactions, Distributed Systems - Architecture and Implementation, An Advanced Course, p.246-265, January 1981
+LEBLANC, R. J., AND MACCABE, A. B. 1982. The design of a programming language based on connectivity networks. In Proceedings of the 3rd international Conference on Distributed Computing Systems (Fort Lauderdale, Fla., Oct. 18-22). IEEE, New York, pp. 532-541.
+LEBLANC, R. J., ^NO WILKES, T. 1985. Systems programming with objects and actions. In Proceedings of the 5th International Conference on Distributed Computing Systems (Denver, Colo., May 13-17). IEEE, New York, pp. 132-139.
+Thomas J. LeBlanc , Robert P. Cook, An analysis of language models for high-performance communication in local-area networks, Proceedings of the 1983 ACM SIGPLAN symposium on Programming language issues in software systems, p.65-72, June 27-29, 1983, San Francisco, California, United States[doi>10.1145/800226.806852]
+LESSER, V., SERRAIN, D., AND BONAR, J. 1979. PCL--A process oriented job control language. In Proceedings of the 1st International Conference on Distributed Computing Systems (Huntsville, Ala., Oct. 1-5). IEEE, New York, pp. 315-329.
+Chang Li, Concurrent programming language—LISPTALK, ACM SIGPLAN Notices, v.23 n.4, p.71-80, April, 1988[doi>10.1145/44326.44334]
+LI, C.-M., ^NO LIU, M. T. 1981. Dislang: A distributed programming language/system. In Proceedings of the 2nd International Conference on Distributed Computing Systems (Paris, France, Apr. 8-10). IEEE, New York, pp. 162-172.
+Kai Li , Paul Hudak, Memory coherence in shared virtual memory systems, Proceedings of the fifth annual ACM symposium on Principles of distributed computing, p.229-239, August 11-13, 1986, Calgary, Alberta, Canada[doi>10.1145/10590.10610]
+Henry Lieberman, Concurrent object-oriented programming in Act 1, Object-oriented concurrent programming, MIT Press, Cambridge, MA, 1987
+Barbara Liskov, Primitives for distributed computing, Proceedings of the seventh ACM symposium on Operating systems principles, p.33-42, December 10-12, 1979, Pacific Grove, California, United States[doi>10.1145/800215.806567]
+LISKOV, B. 1982. On linguistic support for distributed programs. IEEE Trans. Softw. Eng. SE-8, 3 (May), 203-210.
+LISKOV, B. 1984. Overview of the Argus language and system. Programming Methodology Group Memo 40, MIT Laboratory for Computer Science, Cambridge, Mass., Feb.
+Barbara Liskov, Distributed programming in Argus, Communications of the ACM, v.31 n.3, p.300-312, March 1988[doi>10.1145/42392.42399]
+Barbara Liskov , Robert Scheifler, Guardians and Actions: Linguistic Support for Robust, Distributed Programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.3, p.381-404, July 1983[doi>10.1145/2166.357215]
+B. Liskov , D. Curtis , P. Johnson , R. Scheifer, Implementation of Argus, Proceedings of the eleventh ACM Symposium on Operating systems principles, p.111-122, November 08-11, 1987, Austin, Texas, United States[doi>10.1145/41457.37514]
+Barbara Liskov , Alan Snyder , Russell Atkinson , Craig Schaffert, Abstraction mechanisms in CLU, Communications of the ACM, v.20 n.8, p.564-576, Aug. 1977[doi>10.1145/359763.359789]
+Steven E. Lucco, Parallel programming in a virtual object space, ACM SIGPLAN Notices, v.22 n.12, p.26-34, Dec. 1987[doi>10.1145/38807.38810]
+Shang Lujun , Sun Zhongxiu, An object-oriented programming language for developing distributed software, ACM SIGPLAN Notices, v.22 n.8, p.51-56, August 1, 1987[doi>10.1145/35596.35602]
+T A Marsland , M Olafsson , J Schaeffer, Multiprocessor tree-search experiments, Advances in computer chess, Pergamon Press, Inc., Elmsford, NY, 1986
+Satoshi Matsuoka , Satoru Kawai, Using tuple space communication in distributed object-oriented languages, ACM SIGPLAN Notices, v.23 n.11, p.276-284, Nov. 1988[doi>10.1145/62084.62108]
+David May, OCCAM, ACM SIGPLAN Notices, v.18 n.4, p.69-79, April 1983[doi>10.1145/948176.948183]
+MAY, D., ^NO SHEPHERD, R. 1984. The transputer implementation of Occam. In Proceedings of the International Conference on Fifth Generation Computer Systems 1984 (Tokyo, Japan, Nov. 6-9), pp. 533-541.
+MEHROTRA, P., AND ROSENDALE, J. VAN. 1985. The Blaze language: A parallel language for scientific programming. Parallel Comput. 5, 3 (Nov.), 339-361.
+MIEROWSKY, C., TAYLOR, S., SHAPIRO, E., LEVY, J., ^NO SAFRA, M. 1985. The design and implementation of Flat Concurrent Prolog. Rep. CS85- 09, Dept. of Computer Science, The Weizmann Institute of Science, Rehovot, Israel, July.
+Jaroslaw Milewski, Loslan implementation of the AMPL message-passing system, ACM SIGPLAN Notices, v.19 n.9, p.21-29, September 1984[doi>10.1145/948596.948600]
+E. B. Moss, NESTED TRANSACTIONS: AN APPROACH TO RELIABLE DISTRIBUTED COMPUTING, Massachusetts Institute of Technology, Cambridge, MA, 1981
+David A Mundie , David A Fisher, Parallel processing in Ada, Computer, v.19 n.8, p.20-25, Aug. 1986[doi>10.1109/MC.1986.1663304]
+Ware Myers, Ada: first users—pleased; prospective users—still hesitant, Computer, v.20 n.3, p.68-73, March 1987[doi>10.1109/MC.1987.1663509]
+J. Nehmer , D. Haban , F. Mattern , D. Wybranietz , H. D. Rombach, Key concepts of the INCAS multicomputer project, IEEE Transactions on Software Engineering, v.13 n.8, p.913-923, Aug. 1987[doi>10.1109/TSE.1987.233510]
+NELSON, B. J. 1981. Remote procedure call. Rep. CMU-CS-81-119, Dept. of Computer Science, Carnegie-Mellon Univ., Pittsburgh, Pa., May.
+NG, K.-W., AND LI, W. 1984. GDPL--A generalized distributed programming language. In Proceedings of the 4th International Conference on Distributed Computing Systems (San Francisco, Calif., May 14-18). IEEE, New York, pp. 69-78.
+O. M. Nierstrasz, Active objects in hybrid, ACM SIGPLAN Notices, v.22 n.12, p.243-253, Dec. 1987[doi>10.1145/38807.38829]
+OGmARA, T., KAJmARA, Y., NACANO, S., AND ARI- SAWA, M. 1986. Concurrency introduction to an object-oriented language system ondine, in 3rd National Conference Record A-5-1. Japan Society for Software Science and Technology, Japan.
+OHKI, M., TAKEUCHI, A., AND FURUKAWA, $. 1987. An object-oriented programming language based on the parallel logic programming language KL1. In Proceedings of the 4th International Conference on Logic Programming (Melbourne, Australia (May 25-29). MIT Press, Cambridge, Mass., pp. 894-909.
+Seymour Papert, Mindstorms: Children, computers, and powerful ideas, Basic Books, Inc., New York, NY, 1980
+L M. Patnaik , B R. Badrinath, Implementation of CSP-S for description of distributed algorithms, Computer Languages, v.9 n.3-4, p.193-202, Dec. 1984[doi>10.1016/0096-0551(84)90005-5]
+Luis Moniz Pereira , Luis Monteiro , Jose Cunha , Joaquim N Aparicio, Delta Prolog: a distributed backtracking extension with events, Proceedings on Third international conference on logic programming, p.69-83, September 1986, London, United Kingdom
+Michael L. Powell , David L. Presotto, Publishing: a reliable broadcast communication mechanism, Proceedings of the ninth ACM symposium on Operating systems principles, p.100-109, October 10-13, 1983, Bretton Woods, New Hampshire, United States[doi>10.1145/800217.806618]
+Sanjay Ranka , Youngju Won , Sartaj Sahni, Programming a Hypercube Multicomputer, IEEE Software, v.5 n.5, p.69-77, September 1988[doi>10.1109/52.7944]
+J. H. Reppy, Synchronous operations as first-class values, Proceedings of the ACM SIGPLAN 1988 conference on Programming Language design and Implementation, p.250-259, June 20-24, 1988, Atlanta, Georgia, United States[doi>10.1145/53990.54015]
+T. J. Reynolds , A. J. Beaumont , A. S. K. Cheng , S. A. Delgado-Rannauro , L. A. Spacek, BRAVE—a parallel logic language for artificial intelligence, Future Generation Computer Systems, v.4 n.1, p.69-75, August 1988[doi>10.1016/0167-739X(88)90020-9]
+G. A. Ringwood, Parlog86 and the dining logicians, Communications of the ACM, v.31 n.1, p.10-25, Jan. 1988[doi>10.1145/35043.35044]
+A Rizk , F Halsall, Design and implementation of a C-based language for distributed real-time systems, ACM SIGPLAN Notices, v.22 n.6, p.83-100, June 1987[doi>10.1145/24900.24909]
+J. A. Robinson, A Machine-Oriented Logic Based on the Resolution Principle, Journal of the ACM (JACM), v.12 n.1, p.23-41, Jan. 1965[doi>10.1145/321250.321253]
+ROMAN, G.-C., CUNNINGHAM, H. C., AND EHLERS, M. E. 1988. A shared dataspace language supporting large-scale concurrency. In Proceedings of the 8th International Conference on Distributed Computing Systems (San Jose, Calif., June 13-17). iEEE, New York, pp. 265-272.
+ROMAN, G.-C., EHLERS, M. E., CUNNINGHAM, H. C., AND LYKINS, R. H. 1987. Toward comprehensive specification of distributed systems. In Proceedings of the 7th International Conference on Distributed Computing Systems (Berlin, Sept. 21-25). IEEE, New York, pp. 282-289.
+ROOMS, W. D. 1986. Discrete event simulation in Concurrent C. AT&T Bell Laboratories, Murray Hill, N.J.
+ROPER, T. J., AND BARTER, J. 1981. A communicating sequential process language and implementation. Softw. Pract. Exper. 11, 11 (Nov.), 1215-1234.
+Richard M. Russell, The CRAY-1 computer system, Communications of the ACM, v.21 n.1, p.63-72, Jan. 1978[doi>10.1145/359327.359336]
+SAFRA, S., AND SHAPIRO, E. 1986. Meta interpreters for real. In Proceedings of IFIP Congress '86 (Dublin, Ireland, Sept.). IFIP, pp. 271-278.
+SATO, M. 1987. Quty: A concurrent language based on logic and function. In Proceedings of the 4th International Conference on Logic Programming (Melbourne, Australia, May 25-29). MIT Press, Cambridge, Mass., pp. 1034-1056.
+Michael Lee Scott, Design and implementation of a distributed systems language (crystal, charlotte, lynx, soda), 1985
+SCOTT, M. L. 1986. The interface between distributed operating system and high-level programming language. In Proceedings of the 1,986 International Conference on Parallel Processing (St. Charles, Ill., Aug. 19-22). Penn State University, pp. 242-249.
+Michael L. Scott, Language support for loosely coupled distributed programs, IEEE Transactions on Software Engineering, v.13 n.1, p.88-103, Jan. 1987[doi>10.1109/TSE.1987.232838]
+ScoTT, M. L., AND COX, A. L. 1987. An empirical study of message-passing overhead, in Proceedings of the 7th International Conference on Distributed Computing Systems (Berlin, Sept. 21-25). IEEE, New York, pp. 536-543.
+Charles L. Seitz, The cosmic cube, Communications of the ACM, v.28 n.1, p.22-33, Jan. 1985[doi>10.1145/2465.2467]
+SHAPIRO, E. 1983. A subset of Concurrent Prolog and its interpreter. ICOT TR-003, Institute for New Generation Computer Technology, Tokyo, Japan, Feb.
+SHAPIRO, E. 1984. Systolic programming: A paradigm of parallel processing. In Proceedings of International Conference on Fifth Generation Computer Systems 1984 (Tokyo, Japan, Nov. 6-9). pp. 458-471.
+Ehud Shapiro, Concurrent Prolog: A progress report, Computer, v.19 n.8, p.44-58, Aug. 1986[doi>10.1109/MC.1986.1663307]
+E. Shapiro, Concurrent prolog: collected papers, MIT Press, Cambridge, MA, 1987
+SHAPmO, E., AND MIr. ROWSI(~, C. 1984. Fair, biased, and self-balancing merge operators: Their specifications and implementation in Concurrent Prolog. J. New Generation Comput. 2, 3, 221-240.
+E Shapiro , S Safra, Multiway merge with constant delay in concurrent Prolog, New Generation Computing, v.4 n.2, p.211-216, 1986[doi>10.1007/BF03037442]
+SHAPIRO, E., AND TAKEUCHI, A. 1983. Object-oriented programming in Concurrent Prolog. J. New Generation Comput. 1, 1, 25-48.
+SILBERSCHATZ, A. 1984. Cell: A distributed computing modularization concept. IEEE Trans. Softw. Eng. SE-iO, 2 (Mar.), 178-185.
+SILVERMAN, W., HIRSCH, M., HOURI, A., AND SHAP- IRO, E. 1986. The Logix system user manual. Rep. CS86-21, Dept. of Computer Science, The Weizmann Institute of Science, Rehovot, Israel.
+Morris Sloman , Jeff Kramer, Distributed systems and computer networks, Prentice Hall International (UK) Ltd., Hertfordshire, UK, 1987
+SMITH-THOMAS, B. 1986. Managing I/O in concurrent programming: The Concurrent C window manager. AT&T Bell Laboratories, Murray Hill, N.J.
+SPECTOR, A. Z., BLOCH, J. J., DANIELS, D. S., DRAVES, R. P., DUCHAMP, D., EPPINGER, J. L., MENEES, S. G., AND THOMPSON, D. S. 1986. The Camelot project. Rep. CMU-CS-86- 166, Dept. of Computer Science, Carnegie-Mellon Univ., Pittsburgh, Pa., Nov.
+STAUNSTRUP, J. 1982. Message passing communication versus procedure call communication. Softw. Pract. Exper. 12, 3, (March) 223-234.
+Rob Strom, A comparison of the object-oriented and process paradigms, ACM SIGPLAN Notices, v.21 n.10, p.88-97, Oct. 1986[doi>10.1145/323648.323747]
+Robert E. Strom , Shaula Yemini, NIL: An integrated language and system for distributed programming, Proceedings of the 1983 ACM SIGPLAN symposium on Programming language issues in software systems, p.73-82, June 27-29, 1983, San Francisco, California, United States[doi>10.1145/800226.806853]
+Robert E. Strom , Shaula Yemini, The NIL Distributed Systems Programming Language: A Status Report, Seminar on Concurrency, Carnegie-Mellon University, p.512-522, July 09-11, 1984
+STROM, R. E., AND YEMINI, S. 1985a. Synthesizing distributed and parallel programs through optimistic transformations. In Proceedings of the 1985 International Conference on Parallel Processing (St. Charles, Ill. Aug. 20-23). Penn State University, pp. 632-641.
+Rob Strom , Shaula Yemini, Optimistic recovery in distributed systems, ACM Transactions on Computer Systems (TOCS), v.3 n.3, p.204-226, Aug. 1985[doi>10.1145/3959.3962]
+R E Strom , S Yemini, Typestate: A programming language concept for enhancing software reliability, IEEE Transactions on Software Engineering, v.12 n.1, p.157-171, Jan. 1986
+Rob Strom , Shaula Yemini , Peter Wegner, Viewing Ada from a process model perspective, Proceedings of the 1985 annual ACM SIGAda international conference on Ada, p.241-254, May 14-16, 1985, Paris, France[doi>10.1145/324426.324397]
+Bjarne Stroustrup, The C++ programming language, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1986
+SUGIMOTO, $., AGUSA, K., TABATA, K., AND OHNO, Y. 1983. A multi-processor system for Concurrent Lisp. In Proceedings of the 1983 International Conference On Parallel Processing (Bellaire, Mich.). pp. 135-143.
+Daniel C. Swinehart , Polle T. Zellweger , Robert B. Hagmann, The structure of Cedar, Proceedings of the ACM SIGPLAN 85 symposium on Language issues in programming environments, p.230-244, June 25-28, 1985, Seattle, Washington, United States[doi>10.1145/800225.806844]
+TAKEUCHI, A., AND FURUKAWA, K. 1985. Bounded buffer communication in Concurrent Prolog. J. New Generation Comput. 3, 2, 145-155.
+Akikazu Takeuchi , Koichi Furukawa, Parallel logic programming languages, Proceedings on Third international conference on logic programming, p.242-254, September 1986, London, United Kingdom
+Andrew S. Tanenbaum, Operating systems: design and implementation, Prentice-Hall, Inc., Upper Saddle River, NJ, 1987
+Andrew S. Tanenbaum , Robbert Van Renesse, Distributed operating systems, ACM Computing Surveys (CSUR), v.17 n.4, p.419-470, Dec. 1985[doi>10.1145/6041.6074]
+TANENBAUM, A. $., AND VAN RENESSE, R. 1988. A critique of the remote procedure call paradigm. In Proceedings of the E UTECO 88 Conference (Vienna, Austria, Apr. 20-22). North-Holland, Amsterdam, pp. 775-783.
+Andrew S. Tanenbaum , Hans van Staveren , E. G. Keizer , Johan W. Stevenson, A practical tool kit for making portable compilers, Communications of the ACM, v.26 n.9, p.654-660, Sept. 1983[doi>10.1145/358172.358182]
+Stephen Taylor , Evyatar Av-Ron , Ehud Shapiro, A layered method for process and code mapping, New Generation Computing, v.5 n.2, p.185-205, Oct. 1987[doi>10.1007/BF03037398]
+Stephen Taylor , Shmuel Safra , Ehud Shapiro, A parallel implementation of flat concurrent prolog, International Journal of Parallel Programming, v.15 n.3, p.245-275, June 1986[doi>10.1007/BF01414556]
+Philip C. Treleaven , David R. Brownbridge , Richard P. Hopkins, Data-Driven and Demand-Driven Computer Architecture, ACM Computing Surveys (CSUR), v.14 n.1, p.93-143, March 1982[doi>10.1145/356869.356873]
+TSUJINO, Y., ANDO, M., ARAKI, Z., AND TOKURA, N. 1984. Concurrent C: A programming language for distributed systems. Softw. Pract. Exper. 14, 11 (Nov.), 1061-1078.
+UEDA, K. 1985. Guarded Horn clauses. ICOT TR- 103, Institute for New Generation Computer Technology, Tokyo, Japan, June.
+VISHNUBHOTIA, P. 1988. Synchronization and scheduling in ALPS objects. In Proceedings of the 8th International Conference on Distributed Computing Systems (San Jose, Calif., June 13-19). IEEE, New York, pp. 256-264.
+William Weihl , Barbara Liskov, Implementation of resilient, atomic data types, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.2, p.244-269, April 1985[doi>10.1145/3318.3319]
+VAN WIJNGAARDEN, A., MAILLOUX, B. J., PECK, J. E. L., NOSTER, C. H. A., SINTZOFF, M., LINDSEY, C. H., MEERTENS, L. G. L. T., AND FISKER, R. G. 1975. Revised report on the algorithmic language Algol 68. Acta Inf. 5, 1-236.
+WILKES, C. W., AND LEBLANC, R. J. 1986. Rationale for the design of Aeolus: A systems programming language for an action/object system. In Proceedings of the IEEE CS 1986 International Conference on Computer Languages (Miami, Fla., Oct.). IEEE, New York, pp. 107-122.
+WILKES, C. T., AND LEBLANC, R. J. 1988. Distributed locking: A mechanism for constructing highly available objects. In Proceedings of the 7th Symposium on Reliable Distributed Systems (Columbus, Ohio, Oct. 10-12). IEEE, New York.
+WIRTH, N. 1971. The programming language Pascal. Acta inf. 1, 35-63.
+A. S. Xu, A FAULT-TOLERANT NETWORK KERNEL FOR LINDA, Massachusetts Institute of Technology, Cambridge, MA, 1988
+Rong Yang, P-PROLOG: A Parallel Logic Programming Language, World Scientific Publishing Co., Inc., River Edge, NJ, 1987
+Rong Yang , Hideo Aiso, P-Prolog: a parallel logic programming language based on exclusive relation, Proceedings on Third international conference on logic programming, p.255-269, September 1986, London, United Kingdom
+YEMINI, S. 1982. On the suitability of Ada multitasking for expressing parallel algorithms. In Proceedings of the AdaTec Conference on Ada (Arlington, Va., Oct. 6-8). ACM, New York, pp. 91-97.
+Yasuhiko Yokote , Mario Tokoro, The design and implementation of Concurrent Smalltalk, Conference proceedings on Object-oriented programming systems, languages and applications, p.331-340, September 29-October 02, 1986, Portland, Oregon, United States[doi>10.1145/28697.28730]
+Yasuhiko Yokote , Mario Tokoro, Concurrent programming in concurrent Smalltalk, Object-oriented concurrent programming, MIT Press, Cambridge, MA, 1987
+Yasuhiko Yokote , Mario Tokoro, Experience and evolution of concurrent Smalltalk, ACM SIGPLAN Notices, v.22 n.12, p.406-415, Dec. 1987[doi>10.1145/38807.38844]
+Akinori Yonezawa , Jean-Pierre Briot , Etsuya Shibayama, Object-oriented concurrent programming ABCL/1, Conference proceedings on Object-oriented programming systems, languages and applications, p.258-268, September 29-October 02, 1986, Portland, Oregon, United States[doi>10.1145/28697.28722]
+S. Zhongxiu , L. Xining, CSM: a distributed programming language, IEEE Transactions on Software Engineering, v.13 n.4, p.497-500, April 1987[doi>10.1109/TSE.1987.233187]

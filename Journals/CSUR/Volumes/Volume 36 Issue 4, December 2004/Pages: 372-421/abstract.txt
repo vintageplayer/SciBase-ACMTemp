@@ -1,0 +1,1 @@
+Total order broadcast and multicast (also called atomic broadcast/multicast) present an important problem in distributed systems, especially with respect to fault-tolerance. In short, the primitive ensures that messages sent to a set of processes are, in turn, delivered by all those processes in the same total order.

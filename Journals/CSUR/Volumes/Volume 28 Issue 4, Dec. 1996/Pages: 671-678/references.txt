@@ -1,0 +1,56 @@
+Michael J. Flynn, Computer Architecture: Pipelined and Parallel Processor Design, Jones and Bartlett Publishers, Inc., 1995
+John L. Hennessy , David A. Patterson, Computer architecture (2nd ed.): a quantitative approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1996
+NSF 1996. NSF Workshop on Critical Issues in Computer Architecture Research, Sponsored by the Microelectronic Systems Architecture Program of the Division of Microelectronic Information Processing Systems at NSF (May 21). http://www.cise.nsf.gov/mips/MSAWorkshop96/ index2.html
+AGERWALA, T., AND COCKE, J. 1987. High performance reduced instruction set processors. IBM Tech. Rep. (March).
+AMDAHL, G. M., BLAAUW, G. A., AND BROOKS, F. P., JR. 1964. Architecture of the IBM System 360. IBM J. Res. Dev. 8, 2 (April), 87-101.
+ATANASOFF, J.V. 1940. Computing machine for the solution of large systems of linear equations. Internal Rep., Iowa State University, Ames.
+Dileep Bhandarkar , Douglas W. Clark, Performance from architecture: comparing a RISC and a CISC with similar hardware organization, Proceedings of the fourth international conference on Architectural support for programming languages and operating systems, p.310-319, April 08-11, 1991, Santa Clara, California, USA[doi>10.1145/106972.107003]
+BELL, G., CADY, R., MCFARLAND, H., DELAGI, B., O'LAUGHLIN, J., NOONAN, R., AND WULF, W. 1970. A new architecture for mini-computers: The DEC PDP-11. In Proceedings of AFIPS SJCC, 657-675.
+Werner Buchholz, Planning a computer system: Project Stretch, McGraw-Hill, Inc., Hightstown, NJ, 1962
+BURKS, A. W., GOLDSTINE, H. H., AND VON NEU- MANN, J. 1946. Preliminary discussion of the logical design of an electronic computing instrument. Rep. to the US Army Ordnance Department, p. 1; also appears in Papers of John von Neumann, W. Aspray and A. Burks, Eds., MIT Press, Cambridge, MA, and Tomash Publishers, Los Angeles, 1987, 97-146.
+David R. Ditzel , David A. Patterson, Retrospective on high-level language computer architecture, Proceedings of the 7th annual symposium on Computer Architecture, p.97-104, May 06-08, 1980, La Baule, USA[doi>10.1145/800053.801914]
+Herman H. Goldstine, The computer from Pascal to von Neumann, Princeton University Press, Princeton, NJ, 1980
+HAUCK, E. A., AND DENT, B.A. 1968. Burroughs B6500-B7500 stack mechanism. In Proceedings of AFIPS SJCC, 245-251.
+HENNESSY, J. 1984. VLSI processor architecture. IEEE Trans. Comput. C-33, 11 (Dec.), 1221-1246.
+MENABREA, L.F. 1842. Sketch of The Analytical Engine Invented by Charles Babbage. Bibiotheque Universelle de Geneve (Oct.).
+David A. Patterson, Reduced instruction set computers, Communications of the ACM, v.28 n.1, p.8-21, Jan. 1985[doi>10.1145/2465.214917]
+THORNTON, J. E. 1964. Parallel operation in Control Data 6600. In Proceedings of the AFIPS Fall Joint Computer Conference 26, part 2, 33-40.
+Walid Rachid Touma, The dynamics of the computer industry: modeling the supply of workstations and their components, Kluwer Academic Publishers, Norwell, MA, 1993
+Michael Upton , Thomas Huff , Trevor Mudge , Richard Brown, Resource allocation in a high clock rate microprocessor, Proceedings of the sixth international conference on Architectural support for programming languages and operating systems, p.98-109, October 05-07, 1994, San Jose, California, USA[doi>10.1145/195473.195510]
+Maurice Wilkes, Memoirs of a computer pioneer, Massachusetts Institute of Technology, Cambridge, MA, 1985
+Maurice V. Wilkes, Computing perspectives, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1995
+DAVIDSON, E. S., THOMAS, A. T., SHAR, L. E., AND PATEL, J. H. 1975. Effective control for pipelined processors. In COMPCON, (San Francisco, March), IEEE 181-184.
+John R. Ellis, Bulldog: a compiler for VLSI architectures, MIT Press, Cambridge, MA, 1986
+Joseph A. Fisher, Very Long Instruction Word architectures and the ELI-512, Proceedings of the 10th annual international symposium on Computer architecture, p.140-150, June 13-17, 1983, Stockholm, Sweden[doi>10.1145/800046.801649]
+GOLDEN, M., AND MUDGE, T. 1996. A comparison of two common pipeline structures. In Institution of Electrical Engineers Proceedings - E, Computers and Digital Techniques.
+W. Hwu , Y. N. Patt, HPSm, a high performance restricted data flow architecture having minimal functionality, Proceedings of the 13th annual international symposium on Computer architecture, p.297-306, June 02-05, 1986, Tokyo, Japan
+JOHNSON, M. 1990. Superscalar Microprocessor Design, Prentice-Hall, Englewood Cliffs, NJ.
+N. P. Jouppi , D. W. Wall, Available instruction-level parallelism for superscalar and superpipelined machines, Proceedings of the third international conference on Architectural support for programming languages and operating systems, p.272-282, April 03-06, 1989, Boston, Massachusetts, USA[doi>10.1145/70082.68207]
+Peter M. Kogge, The  Architecture of Symbolic Computers, McGraw-Hill, Inc., New York, NY, 1990
+James E. Smith, A study of branch prediction strategies, Proceedings of the 8th annual symposium on Computer Architecture, p.135-148, May 12-14, 1981, Minneapolis, Minnesota, USA
+Michael D. Smith , Mark Horowitz , Monica S. Lam, Efficient superscalar performance through boosting, Proceedings of the fifth international conference on Architectural support for programming languages and operating systems, p.248-259, October 12-15, 1992, Boston, Massachusetts, USA[doi>10.1145/143365.143534]
+TJADEN, G. S., AND FLYNN, M. J. 1970. Detection and parallel execution of independent instructions. IEEE Trans. Comput. C-19, 10 (Oct.), 889-895.
+TOMASULO, R. M. 1967. An efficient algorithm for exploiting multiple arithmetic units. IBM J. Res. Dev. 11, 1 (Jan.), 25-33.
+Thomas E. Anderson , David E. Culler , David A. Patterson , and the NOW team, A Case for NOW (Networks of Workstations), IEEE Micro, v.15 n.1, p.54-64, February 1995[doi>10.1109/40.342018]
+James Archibald , Jean-Loup Baer, Cache coherence protocols: evaluation using a multiprocessor simulation model, ACM Transactions on Computer Systems (TOCS), v.4 n.4, p.273-298, Nov. 1986[doi>10.1145/6513.6514]
+BOUKNIGHT, W. J., DENEBERG, S. A., MCINTYRE, D. E., RANDALL, J. M., SAMEH, A. H., AND SLOT- NICK, D. L. 1972. The Illiac IV system. Proc. IEEE 60, 4, 369-379. Also appears in Computer Structures: Principles and Examples, D. P. Siewiorek, C. G. Bell, and A. Newell, Eds., McGraw-Hill, New York (1982), 306-316.
+HAYES, J. P., AND MUDGE, T. N. 1989. Hypercube supercomputers. Proc. IEEE 77, 12 (Dec.), 1829-1841.
+HOLLAND, J.H. 1959. A universal computer capable of executing an arbitrary number of subprograms simultaneously. In Proceedings of the East Joint Computer Conference 16, 108-113.
+Daniel Lenoski , James Laudon , Kourosh Gharachorloo , Anoop Gupta , John Hennessy, The directory-based cache coherence protocol for the DASH multiprocessor, Proceedings of the 17th annual international symposium on Computer Architecture, p.148-159, May 28-31, 1990, Seattle, Washington, USA[doi>10.1145/325164.325132]
+LOVETT, T., AND THAKKAR, S. 1988. The Symmetry multiprocessor system. In Proceedings of the 1988 International Conference of Parallel Processing (University Park, PA.), 303-310.
+Jacob T. Schwartz, Ultracomputers, ACM Transactions on Programming Languages and Systems (TOPLAS), v.2 n.4, p.484-521, Oct. 1980[doi>10.1145/357114.357116]
+Charles L. Seitz, The cosmic cube, Communications of the ACM, v.28 n.1, p.22-33, Jan. 1985[doi>10.1145/2465.2467]
+SLOTNICK, D. L., BORCK, W. C., AND MCREYNOLDS, R.C. 1962. The Solomon computer. In Proceedings of the Fall Joint Computer Conference (Philadelphia, Dec.), 97-107.
+SWAN, R. J., FULLER, S. H., AND SIEWIOREK, D. P. 1977. Cm*--A modular, multi-microprocessor. In Proceedings AFIPS National Computer Conference 46, 637-644.
+David A. Wood , Mark D. Hill, Cost-Effective Parallel Computing, Computer, v.28 n.2, p.69-72, February 1995[doi>10.1109/2.348002]
+BUCHER, I. V., AND HAYES, A.H. 1980. I/O performance measurement on Cray-1 and CDC 7000 computers. In Proceedings of the Computer Performance Evaluation Users Group, 16th Meeting, NBS 500-65, 245-254.
+Peter M. Chen , Edward K. Lee , Garth A. Gibson , Randy H. Katz , David A. Patterson, RAID: high-performance, reliable secondary storage, ACM Computing Surveys (CSUR), v.26 n.2, p.145-185, June 1994[doi>10.1145/176979.176981]
+Albert S. Hoagland , James E. Monson, Digital magnetic recording (2nd ed.), Wiley-Interscience, New York, NY, 1991
+HOSPODOR, A. D., AND HOAGLAND, A. S. 1993. The changing nature of disk controllers. Proc. IEEE 81, 4 (April), 586-594.
+Bruce L. Jacob , Peter M. Chen , Seth R. Silverman , Trevor N. Mudge, An Analytical Model for Designing Memory Hierarchies, IEEE Transactions on Computers, v.45 n.10, p.1180-1194, October 1996[doi>10.1109/12.543711]
+KILBURN, T., EDWARDS, D. B. G., LANIGAN, M. J., AND SUMNER, F.H. 1962. One-level storage system. IRE Trans. Electr. Comput. EC-11 (April), 223-235. Also appears in Computer Structures: Principles and Examples (1982), D. P. Siewiorek, C. G. Bell, and A. Newell, Eds., McGraw-Hill, New York, 135-148.
+Kunle Olukotun , Trevor Mudge , Richard Brown, Performance optimization of pipelined primary cache, Proceedings of the 19th annual international symposium on Computer architecture, p.181-190, May 19-21, 1992, Queensland, Australia[doi>10.1145/139669.139726]
+David A. Patterson , Garth Gibson , Randy H. Katz, A case for redundant arrays of inexpensive disks (RAID), Proceedings of the 1988 ACM SIGMOD international conference on Management of data, p.109-116, June 01-03, 1988, Chicago, Illinois, USA[doi>10.1145/50202.50214]
+Steven A. Przybylski, Cache and memory hierarchy design: a performance-directed approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1990
+Alan Jay Smith, Cache Memories, ACM Computing Surveys (CSUR), v.14 n.3, p.473-530, Sept. 1982[doi>10.1145/356887.356892]
+Alan J. Smith, Disk cache—miss ratio analysis and design considerations, ACM Transactions on Computer Systems (TOCS), v.3 n.3, p.161-203, Aug. 1985[doi>10.1145/3959.3961]

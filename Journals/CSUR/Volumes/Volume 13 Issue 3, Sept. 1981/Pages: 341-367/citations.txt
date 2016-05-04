@@ -1,0 +1,63 @@
+Norbert Podhorszki, Analysis of the multi-phase copying garbage collection algorithm, International Journal of Computational Science and Engineering, v.4 n.3, p.204-212, July 2009
+Jürgen Heymann, A comprehensive analytical model for garbage collection algorithms, ACM SIGPLAN Notices, v.26 n.8, p.50-59, Aug. 1991
+Andrew W. Appel, Book review:Garbage Collection: Algorithms for Automatic Dynamic Memory Managementby Richard Jones and Rafael Lins, John Wiley & Sons, 1996., Journal of Functional Programming, v.7 n.2, p.227-229, March 1997
+Mordechai Ben-Ari, Algorithms for on-the-fly garbage collection, ACM Transactions on Programming Languages and Systems (TOPLAS), v.6 n.3, p.333-344, July 1984
+Tim Hickey , Jacques Cohen, Performance analysis of on-the-fly garbage collection, Communications of the ACM, v.27 n.11, p.1143-1154, Nov. 1984
+M Furnari, Pascal implementation of a LISP interpreter, ACM SIGPLAN Notices, v.22 n.5, p.42-46, May 1987
+H. Garcia-Molina , R. J. Lipton , J. Valdes, A Massive Memory Machine, IEEE Transactions on Computers, v.33 n.5, p.391-399, May 1984
+Joel F. Bartlett, Compacting garbage collection with ambiguous roots, ACM SIGPLAN Lisp Pointers, v.1 n.6, p.3-12, April-May-June 1988
+Robert Courts, Improving locality of reference in a garbage-collecting memory management system, Communications of the ACM, v.31 n.9, p.1128-1138, Sept. 1988
+Isabelle Puaut, A distributed garbage collector for active objects, ACM SIGPLAN Notices, v.29 n.10, p.113-128, Oct. 1994
+Jacques Cohen , Alexandru Nicolau, Comparison of Compacting Algorithms for Garbage Collection, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.4, p.532-553, Oct. 1983
+Niels Christian Juul , Eric Jul, Garbage collection in object oriented systems (workshop session), Proceedings of the European conference on Object-oriented programming addendum : systems, languages, and applications: systems, languages, and applications, p.35-41, October 1990, Ottawa, Canada
+Claus-Werner Lermen , Dieter Maurer, A protocol for distributed reference counting, Proceedings of the 1986 ACM conference on LISP and functional programming, p.343-350, August 1986, Cambridge, Massachusetts, United States
+O. Ridoux, Deterministic and stochastic modeling of parallel garbage collection: towards real-time criteria, Proceedings of the 14th annual international symposium on Computer architecture, p.128-136, June 02-05, 1987, Pittsburgh, Pennsylvania, United States
+Jawahar Chirimar , Carl A. Gunter , Jon G. Riecke, Proving memory management invariants for a language based on linear logic, ACM SIGPLAN Lisp Pointers, v.V n.1, p.139-150, Jan. 1992
+Andrew W. Appel, Real-time concurrent collection on stock multiprocessors, ACM SIGPLAN Notices, v.39 n.4, April 2004
+K. F. Wong , G. G. Coghill , J. M. Hannah, ICMS: an intelligent cell memory system for real-time engineering applications, Proceedings of the 1986 ACM SIGSMALL/PC symposium on Small systems, p.168-172, December 1986, San Francisco, California, USA
+D. Duval , R. Echahed , F. Prost, Adjunction for garbage collection with application to graph rewriting, Proceedings of the 18th international conference on Term rewriting and applications, p.122-136, June 26-28, 2007, Paris, France
+Ashwin Ram , Janak H. Patel, Parallel garbage collection without synchronization overhead, ACM SIGARCH Computer Architecture News, v.13 n.3, p.84-90, June 1985
+N. Bagherzadeh , S. -l. Heng , C. -l. Wu, A Parallel Asynchronous Garbage Collection Algorithm for Distributed Systems, IEEE Transactions on Knowledge and Data Engineering, v.3 n.1, p.100-107, March 1991
+Ravi Sharma , Mary Lou Soffa, Parallel generational garbage collection, ACM SIGPLAN Notices, v.26 n.11, p.16-32, Nov. 1991
+B. Goldberg, Generational reference counting: a reduced-communication distributed storage reclamation scheme, ACM SIGPLAN Notices, v.24 n.7, p.313-321, July 1989
+Pascal André , Jean-Claude Royer, Optimizing method search with lookup caches and incremental coloring, ACM SIGPLAN Notices, v.27 n.10, p.110-126, Oct. 1992
+Timothy J. McEntee, Overview of garbage collection in symbolic computing, ACM SIGPLAN Lisp Pointers, v.1 n.3, p.8-16, August-September 1987
+Katsuro Inoue , Hiroyuki Seki , Hikaru Yagi, Analysis of functional programs to detect run-time garbage cells, ACM Transactions on Programming Languages and Systems (TOPLAS), v.10 n.4, p.555-578, Oct. 1988
+Hirotoshi Maegawa, Memory organization and management for linked data structures, Proceedings of the 19th annual conference on Computer Science, p.105-112, April 1991, San Antonio, Texas, United States
+Elliot Kolodner , Barbara Liskov , William Weihl, Atomic garbage collection: managing a stable heap, ACM SIGMOD Record, v.18 n.2, p.15-25, June 1989
+Patrick M. Sansom , Simon L. Peyton Jones, Generational garbage collection for Haskell, Proceedings of the conference on Functional programming languages and computer architecture, p.106-116, June 09-11, 1993, Copenhagen, Denmark
+Jeffrey L. Dawson, Improved effectiveness from a real time LISP garbage collector, Proceedings of the 1982 ACM symposium on LISP and functional programming, p.159-167, August 15-18, 1982, Pittsburgh, Pennsylvania, United States
+David J. Roth , David S. Wise, One-bit counts between unique and sticky, ACM SIGPLAN Notices, v.34 n.3, p.49-56, March 1999
+David Cann , John Feo, SISAL versus FORTRAN: a comparison using the Livermore loops, Proceedings of the 1990 conference on Supercomputing, p.626-636, October 1990, New York, New York, United States
+Sheetal V. Kakkad , Mark S. Johnstone , Paul R. Wilson, Portable run-time type description for conventional compilers, ACM SIGPLAN Notices, v.34 n.3, p.146-153, March 1999
+David S. Wise , Joshua Walgenbach, Static and dynamic partitioning of pointers as links and threads, ACM SIGPLAN Notices, v.31 n.6, p.42-49, June 15, 1996
+A. Gupta , W. K. Fuchs, Garbage Collection in a Distributed Object-Oriented System, IEEE Transactions on Knowledge and Data Engineering, v.5 n.2, p.257-265, April 1993
+Benjamin Goldberg, Tag-free garbage collection for strongly typed programming languages, ACM SIGPLAN Notices, v.26 n.6, p.165-176, June 1991
+David Ungar, Generation Scavenging: A non-disruptive high performance storage reclamation algorithm, ACM SIGPLAN Notices, v.19 n.5, p.157-167, May 1984
+Chris Hankin , Hanne Riis Nielson , Jens Palsberg, Strategic directions in research on programming languages, ACM Computing Surveys (CSUR), v.28 n.4, p.644-652, Dec. 1996
+David S. Wise , Brian Heck , Caleb Hess , Willie Hunt , Eric Ost, Research Demonstration of a Hardware Reference-Counting Heap, Lisp and Symbolic Computation, v.10 n.2, p.159-181, July 1997
+P. Weemeeuw , B. Demoen, A Fine-Grained Parallel Memory Compaction Algorithm, Journal of Parallel and Distributed Computing, v.20 n.2, p.176-186, Feb. 1994
+Chris Clifton , Hector Garcia-Molina, Indexing in a Hypertext Database, Proceedings of the 16th International Conference on Very Large Data Bases, p.36-49, August 13-16, 1990
+Richard P. Gabriel , Larry M. Masinter, Performance of Lisp systems, Proceedings of the 1982 ACM symposium on LISP and functional programming, p.123-142, August 15-18, 1982, Pittsburgh, Pennsylvania, USA
+Pascal Fradet, Collecting more garbage, ACM SIGPLAN Lisp Pointers, v.VII n.3, p.24-33, July-Sept. 1994
+Hiroyuki Ochi , Koichi Yasuoka , Shuzo Yajima, Breadth-first manipulation of very large binary-decision diagrams, Proceedings of the 1993 IEEE/ACM international conference on Computer-aided design, p.48-55, November 07-11, 1993, Santa Clara, California, United States
+Dietmar Kreye, A Compilation Scheme for a Hierarchy of Array Types, Selected Papers from the 13th International Workshop on Implementation of Functional Languages, p.18-54, September 24-26, 2001
+Margaret H. Butler, Storage reclamation in object oriented database systems, ACM SIGMOD Record, v.16 n.3, p.410-425, Dec. 1987
+Yérom-David Bromberg , Laurent Réveillère , Julia L. Lawall , Gilles Muller, Automatic generation of network protocol gateways, Proceedings of the 10th ACM/IFIP/USENIX International Conference on Middleware, November 30-December 04, 2009, Urbanna, Illinois
+Qinan Zhou , Paul Tarau, Garbage Collection Algorithms for Java-Based Prolog Engines, Proceedings of the 5th International Symposium on Practical Aspects of Declarative Languages, p.304-319, January 13-14, 2003
+Yérom-David Bromberg , Laurent Réveillère , Julia L. Lawall , Gilles Muller, Automatic generation of network protocol gateways, Proceedings of the ACM/IFIP/USENIX 10th international conference on Middleware, November 30-December 04, 2009, Urbana, IL, USA
+Lars T. Hansen , William D. Clinger, An experimental study of renewal-older-first garbage collection, ACM SIGPLAN Notices, v.37 n.9, p.247-258, September 2002
+Wan Fokkink , Jasper Kamperman , Pum Walters, Within ARM's reach: compilation of left-linear rewrite systems via minimal rewrite systems, ACM Transactions on Programming Languages and Systems (TOPLAS), v.20 n.3, p.679-706, May 1998
+Jonathan E. Cook , Alexander L. Wolf , Benjamin G. Zorn, A Highly Effective Partition Selection Policy for Object Database Garbage Collection, IEEE Transactions on Knowledge and Data Engineering, v.10 n.1, p.153-172, January 1998
+Matthew A. Hammer , Umut A. Acar, Memory management for self-adjusting computation, Proceedings of the 7th international symposium on Memory management, June 07-08, 2008, Tucson, AZ, USA
+B. Lang , F. Dupont, Incremental incrementally compacting garbage collection, ACM SIGPLAN Notices, v.22 n.7, p.253-263, July 1987
+David F. Bacon , Perry Cheng , David Grove, Garbage collection for embedded systems, Proceedings of the 4th ACM international conference on Embedded software, September 27-29, 2004, Pisa, Italy
+Ian Foster , Stephen Taylor, A compiler approach to scalable concurrent-program design, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.3, p.577-604, May 1994
+Sven-Bodo Scholz, Single Assignment C: efficient support for high-level array operations in a functional setting, Journal of Functional Programming, v.13 n.6, p.1005-1059, November 2003
+B Wah , G J Li, Survey on special purpose computer architectures for AI, ACM SIGART Bulletin
+G. H. Sockut , T. A. Beavin , C.-C. Chang, A method for on-line reorganization of a database, IBM Systems Journal, v.36 n.3, p.411-436, 1997
+Guy L. Steele, Jr. , Richard P. Gabriel, The evolution of Lisp, ACM SIGPLAN Notices, v.28 n.3, p.231-270, March 1993
+Guy L. Steele , Richard P. Gabriel, The evolution of Lisp, History of programming languages---II, ACM Press, New York, NY, 1996
+Saleh E. Abdullahi , Graem A. Ringwood, Garbage collecting the Internet: a survey of distributed garbage collection, ACM Computing Surveys (CSUR), v.30 n.3, p.330-373, Sept. 1998
+Gary H. Sockut , Balakrishna R. Iyer, Online reorganization of databases, ACM Computing Surveys (CSUR), v.41 n.3, p.1-136, July 2009
+Keith Cooper , Linda Torczon, Engineering a Compiler: International Student Edition, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2003

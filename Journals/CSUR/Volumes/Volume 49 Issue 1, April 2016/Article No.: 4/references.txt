@@ -1,0 +1,203 @@
+Ittai Anati, Shay Gueron, Simon Johnson, and Vincent Scarlata. 2013. Innovative technology for cpu based attestation and sealing. In Proceedings of the 2nd International Workshop on Hardware and Architectural Support for Security and Privacy.
+B. Anckaert, B. De Sutter, and K. De Bosschere. 2004. Software piracy prevention through diversity. In Proceedings of the 4th ACM Workshop on Digital Rights Management. ACM, New York, NY, 63--71.
+B. Anckaert, M. Jakubowski, and R. Venkatesan. 2006. Proteus: Virtualization for diversified tamper-resistance. In Proceedings of the ACM Workshop on Digital Rights Management. ACM, New York, NY, 47--58.
+Bertrand Anckaert, Mariusz H. Jakubowski, Ramarathnam Venkatesan, and Chit Wei Saw. 2009. Runtime protection via dataflow flattening. In Proceedings of the 3rd International Conference on Emerging Security Information, Systems and Technologies (SECURWARE’09). IEEE, 242--248.
+B. Anckaert, M. Madou, B. De Sutter, B. De Bus, K. De Bosschere, and B. Preneel. 2007. Program obfuscation: A quantitative approach. In Proceedings of the 2007 ACM Workshop on Quality of Protection. ACM, New York, NY, 15--20.
+G. Avoine, P. Junod, and P. Oechslin. 2007. Computer System Security: Basic Concepts and Solved Exercises. EPFL Press.
+D. F. Bacon, S. L. Graham, and O. J. Sharp. 1994. Compiler transformations for high-performance computing. ACM Comput. Surv. 26, 4 (1994), 345--420.
+Gogul Balakrishnan and Thomas W. Reps. 2004. Analyzing memory accesses in x86 executables. In Compiler Construction, Evelyn Duesterwald (Ed.). Vol. 2985. Springer, Berlin, 5--23.
+Boaz Barak, Sanjam Garg, Yael Tauman Kalai, Omer Paneth, and Amit Sahai. 2014. Protecting obfuscation against algebraic attacks. In Advances in Cryptology--EUROCRYPT 2014. Springer, Berlin, 221--238.
+B. Barak, O. Goldreich, R. Impagliazzo, S. Rudich, A. Sahai, S. Vadhan, and K. Yang. 2001. On the (im)possibility of obfuscating programs. In Advances in Cryptology--Crypto 2001. Springer, Berlin, 1--18.
+Sébastien Bardin, Philippe Herrmann, and Franck Védrine. 2011. Refinement-based CFG reconstruction from unstructured programs. In Proceedings of the 12th International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI’11). 54--69.
+U. Bayer, C. Kruegel, and E. Kirda. 2006. TTAnalyze: A tool for analyzing malware. In Proceedings of the 15th Annual Conference of the European Institute for Computer Antivirus Research (EICAR’06).
+Daniel Bilar. 2007. Opcodes as predictor for malware. Int. J. Electron. Security Digital Forens. 1, 2 (2007), 156--168.
+Olivier Billet, Henri Gilbert, and Charaf Ech-Chatbi. 2005. Cryptanalysis of a white box AES implementation. In Proceedings of the 11th International Conference on Selected Areas in Cryptography. Springer, Berlin, 227--240.
+Philippe Biondi and Fabrice Desclaux. 2006. Silver needle in the skype. Black Hat Eur. 6 (2006), 25--47.
+Nir Bitansky, Ran Canetti, Henry Cohn, Shafi Goldwasser, Yael Tauman Kalai, Omer Paneth, and Alon Rosen. 2014. The impossibility of obfuscation with auxiliary input or a universal simulator. In Advances in Cryptology--CRYPTO 2014. Springer, Berlin, 71--89.
+Nir Bitansky, Ran Canetti, Shafi Goldwasser, Shai Halevi, Yael Tauman Kalai, and Guy N. Rothblum. 2011. Program obfuscation with leaky hardware. In Advances in Cryptology--Asiacrypt 2011. Vol. 7073. Springer, Berlin, 722--739.
+Martial Bourquin, Andy King, and Edward Robbins. 2013. BinSlayer: Accurate comparison of binary executables. In Proceedings of the 2nd ACM SIGPLAN Program Protection and Reverse Engineering Workshop. ACM, New York, NY.
+Zvika Brakerski and Guy N. Rothblum. 2014. Virtual black-box obfuscation for all circuits via generic graded encoding. In Theory of Cryptography. Springer, Berlin, 1--25.
+Rodrigo Rubira Branco, Gabriel Negreira Barbosa, and Pedro Drimel Neto. 2012. Scientific but not academical overview of malware anti-debugging, anti-disassembly and anti-vm technologies. In Blackhat 2012.
+Murray Brand. 2010. Analysis Avoidance Techniques of Malicious Software. Ph.D. Dissertation. Edith Cowan University.
+Julien Bringer, Herve Chabanne, and Emmanuelle Dottax. 2006. White box cryptography: Another attempt. IACR Cryptology Eprint Archive 2006 (2006).
+Tom Brosch and Maik Morgenstern. 2006. Runtime packers: The hidden problem. Black Hat USA. Retrieved from https://www.blackhat.com/presentations/bh-usa-06/BH-US-06-Morgenstern.pdf.
+David Brumley, Ivan Jager, Thanassis Avgerinos, and Edward J. Schwartz. 2011. BAP: A binary analysis platform. In Proceedings of the 23th International Conference on Computer Aided Verification (CAV’11). 463--469.
+David Brumley, Pongsin Poosankam, Dawn Song, and Jiang Zheng. 2008. Automatic patch-based exploit generation is possible: Techniques and implications. In Proceedings of the 2008 IEEE Symposium on Security and Privacy (SP’08). IEEE, 143--157.
+D. Bruschi, L. Martignoni, and M. Monga. 2006a. Detecting self-mutating malware using control-flow graph matching. Detection of Intrusions and Malware & Vulnerability Assessment (2006), 129--143.
+Danilo Bruschi, Lorenzo Martignoni, and Mattia Monga. 2006b. Using code normalization for fighting self-mutating malware. In Proceedings of the International Symposium on Secure Software Engineering. 37--44.
+Juan Caballero, Noah M. Johnson, Stephen McCamant, and Dawn Song. 2010. Binary code extraction and interface identification for security applications. In Proceedings of Network and Distributed System Security Symposium (NDSS’09).
+Cristian Cadar, Vijay Ganesh, Peter M. Pawlowski, David L. Dill, and Dawson R. Engler. 2006. EXE: Automatically generating inputs of death. In Proceedings of the 13th ACM Conference on Computer and Communications Security. 322--335.
+Joan Calvet, José M. Fernandez, and Jean-Yves Marion. 2012. Aligot: Cryptographic function identification in obfuscated binary programs. In Proceedings of the 19th ACM Conference on Computer and Communications Security. ACM, New York, NY, 169--182.
+R. Canetti and R. Dakdouk. 2008. Obfuscating point functions with multibit output. Advances in Cryptology--Eurocrypt 2008 (2008), 489--508.
+Gerardo Canfora, Aniello Cimitile, and Andrea De Lucia. 1998. Conditioned program slicing. Inform. Software Technol. 40, 11 (1998), 595--607.
+Gerardo Canfora, Aniello Cimitile, Andrea De Lucia, and Giuseppe A. Di Lucca. 1994. Software salvaging based on conditions. In Proceedings of the International Conference on Software Maintenance (ICSM’94). IEEE, 424--433.
+Jan Cappaert, Nessim Kisserli, Dries Schellekens, and Bart Preneel. 2006. Self-encrypting code to protect against analysis and tampering. In Proceedings of the 1st Benelux Workshop on Information and System Security.
+Jan Cappaert and Bart Preneel. 2010. A general model for hiding control flow. In Proceedings of the 10th Annual ACM Workshop on Digital Rights Management. ACM, New York, NY, 35--42.
+Hoi Chang and Mikhail J. Atallah. 2002. Protecting software code by guards. In Revised Papers from the ACM CCS-8 Workshop on Security and Privacy in Digital Rights Management. Springer, Berlin, 160--175.
+Mohamed R. Chouchane and Arun Lakhotia. 2006. Using engine signature to detect metamorphic malware. In Proceedings of the 4th ACM Workshop on Recurring Malcode. ACM, New York, NY, 73--78.
+S. Chow, P. Eisen, H. Johnson, and P. Van Oorschot. 2003a. White-box cryptography and an AES implementation. In Revised Papers from the 9th Annual International Workshop on Selected Areas in Cryptography. Springer, Berlin, 250--270.
+Stanley Chow, Phil Eisen, Harold Johnson, and Paul C. Van Oorschot. 2003b. A white-box DES implementation for DRM applications. In Digital Rights Management. Vol. 2696. Springer, Berlin, 1--15.
+Stanley Chow, Yuan Gu, Harold Johnson, and Vladimir A. Zakharov. 2001. An approach to the obfuscation of control-flow of sequential computer programs. In Information Security. Springer, Berlin, 144--155.
+Mihai Christodorescu, Somesh Jha, Johannes Kinder, Stefan Katzenbeisser, and Helmut Veith. 2007. Software transformations to improve malware detection. J. Comput. Virol. 3, 4 (2007), 253--265.
+M. Christodorescu, S. Jha, S. A. Seshia, D. Song, and R. E. Bryant. 2005. Semantics-aware malware detection. In Proceedings of the 26th IEEE Symposium on Security and Privacy. IEEE, 32--46.
+Cristina Cifuentes and K. John Gough. 1995. Decompilation of binary programs. Software Pract. Exp. 25, 7 (1995), 811--829.
+Aniello Cimitile, Andrea De Lucia, and Malcolm Munro. 1996. A specification driven slicing process for identifying reusable functions. J. Software Maint. Res. Pract. 8, 3 (1996), 145--178.
+F. B. Cohen. 1993. Operating system protection through program evolution. Comput. Security 12, 6 (1993), 565--584.
+Christian Collberg and Jasvir Nagra. 2009. Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection. Addison-Wesley Professional.
+C. Collberg, C. Thomborson, and D. Low. 1997. A Taxonomy of Obfuscating Transformations. Technical Report. Department of Computer Science, The University of Auckland, New Zealand.
+Christian Collberg, Clark Thomborson, and Douglas Low. 1998a. Breaking abstractions and unstructuring data structures. In Proceedings of the 1998 International Conference on Computer Languages. IEEE, 28--38.
+C. Collberg, C. Thomborson, and D. Low. 1998b. Manufacturing cheap, resilient, and stealthy opaque constructs. In Proceedings of the 25th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages. ACM, New York, NY, 184--196.
+Paolo Milani Comparetti, Guido Salvaneschi, Engin Kirda, Clemens Kolbitsch, Christopher Kruegel, and Stefano Zanero. 2010. Identifying dormant functionality in malware programs. In Proceedings of the 30th IEEE Symposium on Security and Privacy. IEEE, 61--76.
+Kevin Coogan, Saumya Debray, Tasneem Kaochar, and Gregg Townsend. 2009. Automatic static unpacking of malware binaries. In Proceedings of the 16th Working Conference on Reverse Engineering (WCRE’09). IEEE, 167--176.
+K. Coogan, G. Lu, and S. Debray. 2011. Deobfuscation of virtualization-obfuscated software: A semantics-based approach. In Proceedings of the 18th ACM Conference on Computer and Communications Security. ACM, New York, NY, 275--284.
+Bart Coppens, Bjorn De Sutter, and Jonas Maebe. 2013. Feedback-driven binary code diversification. ACM Trans. Arch. Code Optimiz. (TACO) 9, 4 (2013).
+Anthony Cozzie, Frank Stratton, Hui Xue, and Samuel T. King. 2008. Digging for data structures. In Proceedings of the Symposium on Operating Systems Design and Implementation (OSDI’08).
+Jedidiah R. Crandall, Gary Wassermann, Daniela A. S. de Oliveira, Zhendong Su, S. Felix Wu, and Frederic T. Chong. 2006. Temporal search: Detecting hidden malware timebombs with virtual machines. ACM SIGPLAN Not. 41, 11 (2006), 25--36.
+Mila Dalla Preda and Roberto Giacobazzi. 2005. Semantic-based code obfuscation by abstract interpretation. In Automata, Languages and Programming. Springer, Berlin, 1325--1336.
+M. Dalla Preda, R. Giacobazzi, S. Debray, K. Coogan, and G. Townsend. 2011. Modelling metamorphism by abstract interpretation. In Proceedings of the 17th Annual Symposium onStatic Analysis. 218--235.
+M. Dalla Preda, M. Madou, K. De Bosschere, and R. Giacobazzi. 2006. Opaque predicates detection by abstract interpretation. Algebr. Methodol. Software Technol. (2006), 81--95.
+Sebastian Danicic, Mohammed Daoudi, Chris Fox, Mark Harman, Robert M. Hierons, John R. Howroyd, Lahcen Ourabya, and Martin Ward. 2005. Consus: A light-weight program conditioner. J. Syst. Software 77, 3 (2005), 241--262.
+Sebastian Danicic, Andrea De Lucia, and Mark Harman. 2004. Building executable union slices using conditioned slicing. In Proceedings of the 12th IEEE International Workshop on Program Comprehension. IEEE, 89--97.
+Manuvir Das, Sorin Lerner, and Mark Seigle. 2002. ESP: Path-sensitive program verification in polynomial time. In Proceedings of the ACM SIGPLAN 2002 Conference on Programming Language Design and Implementation. New York, NY, 57--68.
+Lucas Davi, Alexandra Dmitrienko, Stefan Nürnberger, and Ahmad-Reza Sadeghi. 2012. XIFER: A software diversity tool against code-reuse attacks. In Proceedings of the 4th ACM International Workshop on Wireless of the Students, by the Students, for the Students (S3’12).
+Yoni De Mulder, Brecht Wyseur, and Bart Preneel. 2010. Cryptanalysis of a perturbated white-box AES implementation. In Progress in Cryptology—INDOCRYPT 2010. Springer, Berlin, 292--310.
+B. De Sutter, B. Anckaert, J. Geiregat, D. Chanet, and K. De Bosschere. 2009. Instruction set limitation in support of software diversity. Inform. Security Cryptol. (2009), 152--165.
+Saumya Debray and Jay Patel. 2010. Reverse engineering self-modifying code: Unpacker extraction. In 17th Working Conference on Reverse Engineering (WCRE’10). IEEE, 131--140.
+N. Dedić, M. Jakubowski, and R. Venkatesan. 2007. A graph game model for software tamper protection. In Proceedings of the 9th International Conference on Information Hiding. Springer-Verlag, 80--95.
+J. C. Deprez and A. Lakhotia. 2000. A formalism to automate mapping from program features to code. In Proceedings of the 8th International Workshop on Program Comprehension. IEEE, 69--78.
+Kevin P. Dyer, Scott E. Coull, Thomas Ristenpart, and Thomas Shrimpton. 2013. Protocol misidentification made easy with format-transforming encryption. In Proceedings of the 2013 ACM SIGSAC Conference on Computer & Communications Security. ACM, New York, NY, 61--72.
+Chris Eagle. 2008. The IDA Pro Book: The Unofficial Guide to the World’s Most Popular Disassembler. No Starch Press.
+Manuel Egele, Theodoor Scholte, Engin Kirda, and Christopher Kruegel. 2012. A survey on automated dynamic malware-analysis techniques and tools. ACM Comput. Surv. 44, 2 (2012).
+Eldad Eilam. 2005. Reversing: Secrets of Reverse Engineering. Wiley, New York, NY.
+M. V. Emmerik and Trent Waddington. 2004. Using a decompiler for real-world source recovery. In Proceedings of the 11th Working Conference on Reverse Engineering. IEEE, 27--36.
+Justin Ferguson and Daniel Kaminsky. 2008. Reverse Engineering Code with IDA Pro. Syngress.
+John Field, Ganesan Ramalingam, and Frank Tip. 1995. Parametric program slicing. In Proceedings of the 22nd ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages. ACM, New York, NY, 379--392.
+Halvar Flake. 2004. Structural comparison of executable objects. In Proceedings of the Detection of Intrusions and Malware & Vulnerability Assessment, GI SIG SIDAR Workshop (DIMVA’’04). 161--173.
+Christophe Foket, Bjorn De Sutter, Bart Coppens, and Koen De Bosschere. 2013. A novel obfuscation: Class hierarchy flattening. In Foundations and Practice of Security. Springer, Berlin, 194--210.
+Christophe Foket, Bjorn De Sutter, and Koen De Bosschere. 2014. Pushing java type obfuscation to the limit. IEEE Trans. Dependable Secure Comput. 6 (2014), 553--567.
+Stephanie Forrest, Anil Somayaji, and David H. Ackley. 1997. Building diverse computer systems. In Proceedings of the 6th Workshop on Hot Topics in Operating Systems. IEEE, 67--72.
+Chris Fox, Sebastian Danicic, Mark Harman, and Robert M. Hierons. 2004. ConSIT: A fully automated conditioned program slicer. Software: Pract. Exp. 34, 1 (2004), 15--46.
+Michael Franz. 2010. E. unibus pluram: Massive-scale software diversity as a defense mechanism. In Proceedings of the 2010 Workshop on New Security Paradigms. ACM, New York, NY, 7--16.
+Bin Fu, Sai Aravalli, and John Abraham. 2007. Software protection by hardware and obfuscation. In Proceedings of the 2007 International Conference on Security & Management (SAM’’07). 367--373.
+Debin Gao, Michael K. Reiter, and Dawn Song. 2008. Binhunt: Automatically finding semantic differences in binary programs. In Information and Communications Security. Springer, Berlin, 238--255.
+Sanjam Garg, Craig Gentry, Shai Halevi, Mariana Raykova, Amit Sahai, and Brent Waters. 2013. Candidate indistinguishability obfuscation and functional encryption for all circuits. In Proceedings of the 2013 IEEE 54th Annual Symposium on Foundations of Computer Science (FOCS’13). IEEE, 40--49.
+Sudeep Ghosh, Jason D. Hiser, and Jack W. Davidson. 2010. A secure and robust approach to software tamper resistance. In Information Hiding. Springer, Berlin, 33--47.
+Roberto Giacobazzi. 2008. Hiding information in completeness holes: New perspectives in code obfuscation and watermarking. In Proceedings of the 6th IEEE International Conference on Software Engineering and Formal Methods (SEFM’08). IEEE, 7--18.
+Roberto Giacobazzi and Isabella Mastroeni. 2012. Making abstract interpretation incomplete: Modeling the potency of obfuscation. In Proceedings of the 19th International Symposium Static Analysis (SAS’12). Springer, Berlin, 129--145.
+Patrice Godefroid, Nils Klarlund, and Koushik Sen. 2005. DART: Directed automated random testing. In Proceedings of the 2005 ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI’05). 213--223.
+Patrice Godefroid, Michael Y. Levin, and David A. Molnar. 2008. Automated whitebox fuzz testing. In Proceedings of Network and Distributed System Security Symposium (NDSS’08).
+Shafi Goldwasser and Guy N. Rothblum. 2007. On best-possible obfuscation. In Theory of Cryptography. Vol. 4392. Springer, Berlin, 194--213.
+L. Goubin, J. M. Masereel, and M. Quisquater. 2007. Cryptanalysis of white box DES implementations. In Selected Areas in Cryptography. Vol. 4876. Springer, Berlin, 278--295.
+K. Griffin, S. Schneider, X. Hu, and T. Chiueh. 2009. Automatic generation of string signatures for malware detection. In Recent Advances in Intrusion Detection. Lecture Notes in Computer Science, Vol. 5758. Springer, Berlin, 101--120.
+Felix Gröbert, Carsten Willems, and Thorsten Holz. 2011. Automated identification of cryptographic primitives in binary programs. In Recent Advances in Intrusion Detection. Lecture Notes in Computer Science, Vol. 6961. Springer, Berlin, 41--60.
+Derrick Grover. 1992. Protection of Computer Software: Its Technology and Application. Cambridge University Press, Cambridge.
+Y. Guillot and A. Gazet. 2010. Automatic binary deobfuscation. J. Comput. Virol. 6, 3 (2010), 261--276.
+Wadie Guizani, J.-Y. Marion, and Daniel Reynaud-Plantey. 2009. Server-side dynamic code analysis. In Proceedings of the 2009 4th International Conference on Malicious and Unwanted Software (MALWARE’09). IEEE, 55--62.
+L. C. Harris and B. P. Miller. 2005. Practical analysis of stripped binary code. ACM SIGARCH Comput. Arch. News 33, 5 (2005), 63--68.
+Bill Horne, Lesley Matheson, Casey Sheehan, and Robert E. Tarjan. 2002. Dynamic self-checking techniques for improved tamper resistance. In Revised Papers from the ACM CCS-8 Workshop on Security and Privacy in Digital Rights Management. Springer, Berlin, 141--159.
+S. Horwitz. 1997. Precise flow-insensitive may-alias analysis is np-hard. ACM Trans. Program. Lang. Syst. 19, 1 (1997), 1--6.
+Grégoire Jacob, Paolo Milani Comparetti, Matthias Neugschwandtner, Christopher Kruegel, and Giovanni Vigna. 2012. A static, packer-agnostic filter to detect similar malware samples. In Proceedings of the 9th International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment. Springer-Verlag, 102--122.
+M. Jacob, D. Boneh, and E. Felten. 2003. Attacking an obfuscated cipher by injecting faults. Digital Rights Manag. (2003), 16--31.
+Matthias Jacob, Mariusz H. Jakubowski, and Ramarathnam Venkatesan. 2007. Towards integral binary execution: Implementing oblivious hashing using overlapped instruction encodings. In Proceedings of the 9th Workshop on Multimedia & Security. ACM, New York, NY, 129--140.
+M. Jakubowski, P. Naldurg, V. Patankar, and R. Venkatesan. 2007. Software integrity checking expressions (ICEs) for robust tamper detection. In Information Hiding. Vol. 4567. Springer, Berlin, 96--111.
+Min Gyung Kang, Pongsin Poosankam, and Heng Yin. 2007. Renovo: A hidden code extractor for packed executables. In Proceedings of the 2007 ACM Workshop on Recurring Malcode. ACM, New York, NY, 46--53.
+Yuichiro Kanzaki, Akito Monden, Masahide Nakamura, and Ken-ichi Matsumoto. 2003. Exploiting self-modification mechanism for program protection. In Proceedings of the 27th Annual International Conference on Computer Software and Applications. IEEE, 170--179.
+Abhishek Karnik, Suchandra Goswami, and Ratan Guha. 2007. Detecting obfuscated viruses using cosine similarity analysis. In Proceedings of the 1st Asia International Conference on Modelling & Simulation (AMS’’07). IEEE, 165--170.
+Dhiru Kholia and Przemysław Wegrzyn. 2013. Looking inside the (drop)box. In Proceedings of the 7th Usenix Workshop on Offensive Technologies (Woot’13).
+Johannes Kinder. 2012. Towards static analysis of virtualization-obfuscated binaries. In Proceedings of the 19th Working Conference Reverse Engineering (WCRE 2012). IEEE, 61--70.
+Johannes Kinder, Stefan Katzenbeisser, Christian Schallhart, and Helmut Veith. 2005. Detecting malicious code by model checking. In Detection of Intrusions and Malware, and Vulnerability Assessment. Vol. 3548. Springer, Berlin, 174--187.
+J. Kinder and H. Veith. 2008. Jakstab: A static analysis platform for binaries. In Proceedings of the 20th International Conference on Computer Aided Verification (CAV’08). Springer, Berlin, 423--427.
+J. Kinder, F. Zuleger, and H. Veith. 2009. An abstract interpretation-based framework for control flow reconstruction from binaries. In Proceedings of the 10th International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI’09). Springer, Berlin, 214--228.
+James C. King. 1976. Symbolic execution and program testing. Commun. ACM 19, 7 (1976), 385--394.
+S. T. King and P. M. Chen. 2006. SubVirt: Implementing malware with virtual machines. In Proceedings of the 27th IEEE Symposium on Security and Privacy. IEEE.
+C. Kolbitsch, T. Holz, C. Kruegel, and E. Kirda. 2010. Inspector gadget: Automated extraction of proprietary gadgets from malware binaries. In Proceedings of the 30th IEEE Symposium on Security and Privacy. IEEE, 29--44.
+Clemens Kolbitsch, Engin Kirda, and Christopher Kruegel. 2011. The power of procrastination: Detection and mitigation of execution-stalling malicious code. In Proceedings of the 18th ACM Conference on Computer and Communications Security. ACM, New York, NY, 285--296.
+Christopher Krügel, William K. Robertson, Fredrik Valeur, and Giovanni Vigna. 2004. Static disassembly of obfuscated binaries. In Proceedings of the USENIX Security Symposium. 255--270.
+Arun Lakhotia, Davidson R. Boccardo, Anshuman Singh, and Aleardo Manacero Jr. 2010. Context-sensitive analysis without calling-context. Higher-Order Symbol. Comput. 23, 3 (2010), 275--313.
+Filippo Lanubile and Giuseppe Visaggio. 1997. Extracting reusable functions by flow graph based program slicing. IEEE Trans. Software Eng. 23, 4 (1997), 246--259.
+Tımea László and Ákos Kiss. 2009. Obfuscating C++ programs via control flow flattening. Annales Universitatis Scientarum Budapestinensis De Rolando Eötvös Nominatae, Sectio Computatorica 30 (2009), 3--19.
+Felix Leder, Peter Martini, and Andre Wichmann. 2009. Finding and extracting crypto routines from malware. In IEEE 28th International Performance Computing and Communications Conference (IPCCC’09). IEEE, Washington, DC, 394--401.
+J. Li, M. Xu, N. Zheng, and J. Xu. 2009. Malware obfuscation detection via maximal patterns. In Proceedings of the 3rd International Symposium on Intelligent Information Technology Application (LITA’09), Vol. 2. IEEE, 324--328.
+Z. Lin, X. Zhang, and D. Xu. 2010. Automatic reverse engineering of data structures from binary execution. In Proceedings of the 17th Network and Distributed System Security Symposium.
+Hamilton E. Link and William D. Neumann. 2005. Clarifying obfuscation: Improving the security of white-box des. In Proceedings of the International Conference on Information Technology: Coding and Computing (ITCC’05), Vol. 1. IEEE, 679--684.
+Hamilton E. Link, Richard Crabtree Schroeppel, William Douglas Neumann, Philip LaRoche Campbell, Cheryl Lynn Beaver, Lyndon George Pierson, and William Erik Anderson. 2004. Securing Mobile Code. Technical Report. Sandia National Laboratories.
+C. Linn and S. Debray. 2003. Obfuscation of executable code to improve resistance to static disassembly. In Proceedings of the 10th ACM Conference on Computer and Communications Security. ACM, New York, NY, 290--299.
+Benno Lomb and Tim Guneysu. 2011. Decrypting HDCP-protected video streams using reconfigurable hardware. In Proceedings of the International Conference on Reconfigurable Computing and FPGAs (ReConFig’11). IEEE, 249--254.
+B. Lynn, M. Prabhakaran, and A. Sahai. 2004. Positive results and techniques for obfuscation. In Advances in Cryptology--Eurocrypt 2004. Springer, Berlin, 20--39.
+Matias Madou, Bertrand Anckaert, Bruno De Bus, Koen De Bosschere, Jan Cappaert, and Bart Preneel. 2006. On the effectiveness of source code transformations for binary obfuscation. In Proceedings of the International Conference on Software Engineering Research and Practice (SERP’06). 527--533.
+Matias Madou, Bertrand Anckaert, Bjorn De Sutter, and Koen De Bosschere. 2005. Hybrid static-dynamic attacks against software protection mechanisms. In Proceedings of the 5th ACM Workshop on Digital Rights Management. ACM, New York, NY, 75--82.
+Matias Madou, Bertrand Anckaert, Patrick Moseley, Saumya Debray, Bjorn De Sutter, and Koen De Bosschere. 2006a. Software protection through dynamic code mutation. In Information Security Applications. Springer, Berlin, 194--206.
+M. Madou, L. Van Put, and K. De Bosschere. 2006b. LOCO: An interactive code (de) obfuscation tool. In Proceedings of the 2006 ACM SIGPLAN Symposium on Partial Evaluation and Semantics-Based Program Manipulation. ACM, New York, NY, 140--144.
+M. Madou, L. Van Put, and K. De Bosschere. 2006c. Understanding obfuscated code. In Proceedings of the 14th IEEE International Conference on Program Comprehension (ICPC’06). IEEE, 268--274.
+A. Majumdar, A. Monsifrot, and C. Thomborson. 2006. On evaluating obfuscatory strength of alias-based transforms using static analysis. In Proceedings of the International Conference on Advanced Computing and Communications (ADCOM’06). IEEE, 605--610.
+Anirban Majumdar and Clark Thomborson. 2006. Manufacturing opaque predicates in distributed systems for code obfuscation. In Proceedings of the 29th Australasian Computer Science Conference-Volume 48. Australian Computer Society, 187--196.
+Joshua Mason, Sam Small, Fabian Monrose, and Greg MacManus. 2009. English shellcode. In Proceedings of the 16th ACM Conference on Computer and Communications Security. ACM, New York, NY, 524--533.
+Aleksandr Matrosov, Eugene Rodionov, David Harley, and Juraj Malcho. 2010. Stuxnet under the microscope. ESET LLC (September 2010) (2010).
+Nikos Mavrogiannopoulos, Nessim Kisserli, and Bart Preneel. 2011. A taxonomy of self-modifying code for obfuscation. Comput. Security 30, 8 (2011), 679--691.
+Wil Michiels, Paul Gorissen, and Henk D. L. Hollmann. 2009. Cryptanalysis of a generic class of white-box implementations. In Selected Areas in Cryptography. Vol. 5381. Springer, Berlin, 414--428.
+Craig Miles, Arun Lakhotia, and Andrew Walenstein. 2012. In situ reuse of logically extracted functional components. J. Comput. Virol. 8, 3 (2012), 73--84.
+Akito Monden, Antoine Monsifrot, and Clark Thomborson. 2004. A framework for obfuscated interpretation. In Proceedings of the 2nd Workshop on Australasian Information Security, Data Mining and Web Intelligence, and Software Internationalisation-Volume 32. Australian Computer Society, 7--16.
+Andreas Moser, Christopher Kruegel, and Engin Kirda. 2007a. Exploring multiple execution paths for malware analysis. In Proceedings of the 28th IEEE Symposium on Security and Privacy. IEEE, 231--245.
+A. Moser, C. Kruegel, and E. Kirda. 2007b. Limits of static analysis for malware detection. In Proceedings of the 23rd Annual Computer Security Applications Conference (ACSAC’07). IEEE, 421--430.
+M. Myska. 2009. The true story of DRM. Masaryk Ujl & Tech. 3 (2009), 267--278.
+C. Nachenberg. 1997. Computer virus-coevolution. Commun. ACM 50, 1 (1997), 46--51.
+Vijayanand Nagarajan, Rajiv Gupta, Xiangyu Zhang, Matias Madou, and Bjorn De Sutter. 2007. Matching control flow of program versions. In Proceedings of the IEEE International Conference on Software Maintenance (ICSM’07). IEEE, 84--93.
+J. Newsome, B. Karp, and D. Song. 2005. Polygraph: Automatically generating signatures for polymorphic worms. In Proceedings of the 26th IEEE Symposium on Security and Privacy. IEEE, 226--241.
+Flemming Nielson, Hanne R. Nielson, and Chris Hankin. 1999. Principles of Program Analysis. Springer, Berlin.
+Jim Q Ning, Andre Engberts, and Wojtek Kozaczynski. 1993. Recovering reusable components from legacy systems by program segmentation. In Proceedings of the Working Conference on Reverse Engineering. IEEE, 64--72.
+Jens Palsberg, Sowmya Krishnaswamy, Minseok Kwon, Di Ma, Qiuyun Shao, and Yi Zhang. 2000. Experience with software watermarking. In Proceedings of the 16th Annual Conference on Computer Security Applications (ACSAC’00). IEEE, 308--316.
+Ugo Piazzalunga, Paolo Salvaneschi, Francesco Balducci, Pablo Jacomuzzi, and Cristiano Moroncelli. 2007. Security strength measurement for dongle-protected software. IEEE Security Privacy 5, 6 (2007), 32--40.
+Igor V. Popov, Saumya K. Debray, and Gregory R. Andrews. 2007. Binary obfuscation using signals. In Proceedings of the Usenix Security Symposium. 275--290.
+Daniel A. Quist and Lorie M. Liebrock. 2009. Visualizing compiled executables for malware analysis. In Proceedings of the 6th International Workshop on Visualization for Cyber Security, 2009 (VizSec’09). IEEE, 27--32.
+Jason Raber and Eric Laspe. 2007. Deobfuscator: An automated approach to the identification and removal of code obfuscation. In Proceedings of the 14th Working Conference on Reverse Engineering (WCRE’07). IEEE, 275--276.
+G. Ramalingam. 1994. The undecidability of aliasing. ACM Trans. Program. Lang. Syst. 16, 5 (1994), 1467--1471.
+J. Riordan and B. Schneier. 1998. Environmental key generation towards clueless agents. Mobile Agents and Security (1998), 15--24.
+R. Rolles. 2009. Unpacking virtualization obfuscators. In Proceedings of the 3rd Usenix Workshop on Offensive Technologies (Woot’09).
+Kevin A. Roundy and Barton P. Miller. 2013. Binary-code obfuscations in prevalent packer tools. ACM Comput. Surv. 46, 1 (2013).
+P. Royal, M. Halpin, D. Dagon, R. Edmonds, and W. Lee. 2006. Polyunpack: Automating the hidden-code extraction of unpack-executing malware. In Proceedings of the 22nd Annual Computer Security Applications Conference (ACSAC’06). IEEE, 289--300.
+S. Rugaber, K. Stirewalt, and L. M. Wills. 1995. The interleaving problem in program understanding. In Proceedings of the 2nd Working Conference on Reverse Engineering. IEEE, 166--175.
+Yusuke Sakabe, Masakazu Soshi, and Atsuko Miyaji. 2005. Java obfuscation approaches to construct tamper-resistant object-oriented programs. IPSJ Digital Courier 1 (2005), 349--361.
+Amitabh Saxena, Brecht Wyseur, and Bart Preneel. 2009. Towards security notions for white-box cryptography. In Information Security. Springer, Berlin, 49--58.
+S. Schrittwieser and S. Katzenbeisser. 2011. Code obfuscation against static and dynamic reverse engineering. In Proceedings of the 13th International Conference on Information Hiding (IH’11). Springer, Berlin, 270--284.
+Sebastian Schrittwieser, Stefan Katzenbeisser, Peter Kieseberg, Markus Huber, Manuel Leithner, Martin Mulazzani, and Edgar Weippl. 2013. Covert computation: Hiding code in code for obfuscation purposes. In Proceedings of the 8th ACM SIGSAC Symposium on Information, Computer and Communications Security. ACM, 529--534.
+Edward J. Schwartz, Thanassis Avgerinos, and David Brumley. 2010. All you ever wanted to know about dynamic taint analysis and forward symbolic execution (but might have been afraid to ask). In Proceedings of the 31st IEEE Symposium on Security and Privacy, S&P; 2010. 317--331.
+Edward J. Schwartz, J. Lee, Maverick Woo, and David Brumley. 2013. Native x86 decompilation using semantics-preserving structural analysis and iterative control-flow structuring. In Proceedings of the Usenix Security Symposium.
+Benjamin Schwarz, Saumya Debray, and Gregory Andrews. 2002. Disassembly of executable code revisited. In Proceedings of the 9th Working Conference on Reverse Engineering. IEEE, 45--54.
+Koushik Sen, Darko Marinov, and Gul Agha. 2005. CUTE: A concolic unit testing engine for C. In Proceedings of the 10th European Software Engineering Conference held jointly with 13th ACM SIGSOFT International Symposium on Foundations of Software Engineering. 263--272.
+Hovav Shacham. 2007. The geometry of innocent flesh on the bone: Return-into-libc without function calls (on the x86). In Proceedings of the 14th ACM Conference on Computer and Communications Security. ACM, New York NY, 552--561.
+Adi Shamir and Nicko Van Someren. 1999. Playing’hide and seek’ with stored keys. In Financial Cryptography. Vol. 1648. Springer, Berlin, 118--124.
+M. Sharif, A. Lanzi, J. Giffin, and W. Lee. 2009. Automatic reverse engineering of malware emulators. In Proceedings of the 30th IEEE Symposium on Security and Privacy. IEEE, 94--109.
+M. Sharif, V. Yegneswaran, H. Saidi, P. Porras, and W. Lee. 2008. Eureka: A framework for enabling static malware analysis. Computer Security-Esorics 2008 (2008), 481--500.
+Monirul I. Sharif, Andrea Lanzi, Jonathon T. Giffin, and Wenke Lee. 2008. Impeding malware analysis using conditional code obfuscation. In Proceedings of the Network and Distributed System Security Symposium (NDSS’08).
+A. Slowinska, T. Stancescu, and H. Bos. 2011. Howard: A dynamic excavator for reverse engineering data structures. In Proceedings of the Network and Distributed System Security Symposium (NDSS’11).
+Harry M. Sneed. 2000. Encapsulation of legacy software: A technique for reusing legacy software components. Ann. Software Eng. 9, 1--2 (2000), 293--313.
+Dawn Song, David Brumley, Heng Yin, Juan Caballero, Ivan Jager, Min Gyung Kang, Zhenkai Liang, James Newsome, Pongsin Poosankam, and Prateek Saxena. 2008. BitBlaze: A new approach to computer security via binary analysis. In Proceedings of the 4th International Conference on Information Systems Security. Keynote Invited Paper.
+Yingbo Song, Michael E. Locasto, Angelos Stavrou, Angelos D. Keromytis, and Salvatore J. Stolfo. 2010. On the infeasibility of modeling polymorphic shellcode. Mach. Learn. 81, 2 (2010), 179--205.
+Mikhail Sosonkin, Gleb Naumovich, and Nasir Memon. 2003. Obfuscation of design intent in object-oriented applications. In Proceedings of the 3rd ACM Workshop on Digital Rights Management. ACM, New York, NY, 142--153.
+Joe Stewart. 2006. Ollybone: Semi-automatic unpacking on IA-32. In Proceedings of the 14th Def Con Hacking Conference.
+Y. Tang and S. Chen. 2007. An automated signature-based approach against polymorphic internet worms. IEEE Trans. Parallel Distrib. Syst. 18, 7 (2007).
+A. Thakur, J. Lim, A. Lal, A. Burton, E. Driscoll, M. Elder, T. Andersen, and T. Reps. 2010. Directed proof generation for machine code. In Proceedings of the 22th International Conference on Computer Aided Verification (CAV’10). Springer, Berlin, 288--305.
+S. R. Tilley, S. Paul, and D. B. Smith. 1996. Towards a framework for program understanding. In Proceedings of the 4th Workshop on Program Comprehension. IEEE, 19--28.
+S. Treadwell and M. Zhou. 2009. A heuristic approach for detection of obfuscated malware. In Proceedings of the IEEE International Conference on Intelligence and Security Informatics (ISI’09). IEEE, 291--299.
+H. Y. Tsai, Y. L. Huang, and D. Wagner. 2009. A graph approach to quantitative analysis of control-flow obfuscating transformations. IEEE Trans. Inform. Forens. Security 4, 2 (2009), 257--267.
+S. K. Udupa, S. K. Debray, and M. Madou. 2005. Deobfuscation: Reverse engineering obfuscated code. In Proceedings of the 12th Working Conference on Reverse Engineering. IEEE.
+Zeljko Vrba, Pål Halvorsen, and Carsten Griwodz. 2010. Program obfuscation by strong cryptography. In Proceedings of the International Conference on Availability, Reliability, and Security (ARES’10). IEEE, 242--247.
+A. Walenstein, R. Mathur, M. R. Chouchane, and A. Lakhotia. 2006. Normalizing metamorphic malware using term rewriting. In Proceedings of the 6th IEEE International Workshop on Source Code Analysis and Manipulation (SCAM’06). IEEE, 75--84.
+C. Wang, J. Davidson, J. Hill, and J. Knight. 2001. Protection of software-based survivability mechanisms. In Proceedings of the 2001 International Conference on Dependable Systems and Networks (Formerly: FTCS). IEEE, 193--202.
+C. Wang, J. Hill, J. Knight, and J. Davidson. 2000. Software Tamper Resistance: Obstructing Static Analysis of Programs. Technical Report. CS-2000-12, University of Virginia.
+M. Webster and G. Malcolm. 2009. Detection of metamorphic and virtualization-based malware using algebraic specification. J. Comput. Virol. 5, 3 (2009), 221--245.
+H. Wee. 2005. On obfuscating point functions. In Proceedings of the 37th Annual ACM Symposium on Theory of Computing. ACM, New York, NY, 523--532.
+N. Wilde and M. C. Scully. 2006. Software reconnaissance: Mapping program features to code. J. Software Maint.: Res. Pract. 7, 1 (2006), 49--62.
+Carsten Willems and Felix C. Freiling. 2012. Reverse code engineering-state of the art and countermeasures. Inform. Technol. 54, 2 (2012), 53--63.
+M. J. Wolfe, C. Shanklin, and L. Ortega. 1995. High Performance Compilers for Parallel Computing. Addison-Wesley Longman, Reading, MA.
+Z. Wu, S. Gianvecchio, M. Xie, and H. Wang. 2010. Mimimorphism: A new approach to binary code obfuscation. In Proceedings of the 17th ACM Conference on Computer and Communications Security. ACM, New York, NY, 536--546.
+Brecht Wyseur. 2009. White-Box Cryptography. Ph.D. Dissertation. KU Leuven.
+B. Wyseur, W. Michiels, P. Gorissen, and B. Preneel. 2007. Cryptanalysis of white-box DES implementations with arbitrary external encodings. In Proceedings of the 14th International Conference on Selected Areas in Cryptography. Springer, Berlin, 264--277.
+Brecht Wyseur and Bart Preneel. 2005. Condensed white-box implementations. In Proceedings of the 26th Symposium on Information Theory in the Benelux. 296--301.
+Khaled Yakdan, Sebastian Eschweiler, Elmar Gerhards-Padilla, and Matthew Smith. 2015. No more gotos: Decompilation using pattern-independent control-flow structuring and semantics-preserving transformations. In Proceedings of the 22nd Network and Distributed Systems Security Symposium (NDSS).
+Heng Yin and Dawn Song. 2010. TEMU: Binary Code Analysis Via Whole-System Layered Annotative Execution. Technical Report UCB/EECS-2010-3. EECS Department, University of California, Berkeley.
+Junyuan Zeng, Yangchun Fu, Kenneth A. Miller, Zhiqiang Lin, Xiangyu Zhang, and Dongyan Xu. 2013. Obfuscation resilient binary code reuse through trace-oriented programming. In Proceedings of the 20th ACM Conference on Computer and Communications Security. ACM, New York, NY.
+Xiangyu Zhang and Rajiv Gupta. 2005. Matching execution histories of program versions. In ACM SIGSOFT Software Engineering Notes, Vol. 30. ACM, New York, NY 197--206.
+Z. Zhao, G. J. Ahn, and H. Hu. 2011. Automatic extraction of secrets from malware. In Proceedings of the 18th Working Conference on Reverse Engineering (WCRE’11). IEEE, 159--168.
+Yongxin Zhou, Alec Main, Yuan X. Gu, and Harold Johnson. 2007. Information hiding in software with mixed boolean-arithmetic transforms. In Information Security Applications. Springer, Berlin, 61--75.
+X. Zhuang, T. Zhang, H. H. S. Lee, and S. Pande. 2004. Hardware assisted control flow obfuscation for embedded processors. In Proceedings of the 2004 International Conference on Compilers, Architecture, and Synthesis for Embedded Systems. 292--302.

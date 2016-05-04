@@ -1,0 +1,128 @@
+Keith Adams , Ole Agesen, A comparison of software and hardware techniques for x86 virtualization, Proceedings of the 12th international conference on Architectural support for programming languages and operating systems, October 21-25, 2006, San Jose, California, USA[doi>10.1145/1168857.1168860]
+Advanced Micro Devices. 2008. AMD-V<sup>TM</sup> nested paging. http://developer.amd.com/assets/NPT-WP-1 1-final-TM.pdf.
+Advanced Micro Devices. 2010. AMD virtualization (AMD-V)<sup>TM</sup> technology. http://sites.amd.com/us/business/itsolutions/virtualization/Pages/amd-v.aspx.
+Athreya, M. B. 2010. Subverting Linux On-the-Fly Using Hardware Virtualization Technology. http://smartech.gatech.edu/handle/1853/34844.
+Adrian Baldwin , Chris Dalton , Simon Shiu , Krzysztof Kostienko , Qasim Rajpoot, Providing secure services for a virtual infrastructure, ACM SIGOPS Operating Systems Review, v.43 n.1, January 2009[doi>10.1145/1496909.1496919]
+Paul Barham , Boris Dragovic , Keir Fraser , Steven Hand , Tim Harris , Alex Ho , Rolf Neugebauer , Ian Pratt , Andrew Warfield, Xen and the art of virtualization, Proceedings of the nineteenth ACM symposium on Operating systems principles, October 19-22, 2003, Bolton Landing, NY, USA[doi>10.1145/945445.945462]
+Luiz André Barroso , Urs Hölzle, The Case for Energy-Proportional Computing, Computer, v.40 n.12, p.33-37, December 2007[doi>10.1109/MC.2007.443]
+Stefan Berger , Ramón Cáceres , Kenneth A. Goldman , Ronald Perez , Reiner Sailer , Leendert van Doorn, vTPM: virtualizing the trusted platform module, Proceedings of the 15th conference on USENIX Security Symposium, July 31-August 04, 2006, Vancouver, B.C., Canada
+Sergey Bratus , Peter C. Johnson , Ashwin Ramaswamy , Sean W. Smith , Michael E. Locasto, The cake is a lie: privilege rings as a policy resource, Proceedings of the 1st ACM workshop on Virtual machine security, November 09-09, 2009, Chicago, Illinois, USA[doi>10.1145/1655148.1655154]
+Sergey Bratus , Michael E. Locasto , Ashwin Ramaswamy , Sean W. Smith, Traps, events, emulation, and enforcement: managing the yin and yang of virtualization-based security, Proceedings of the 1st ACM workshop on Virtual machine security, October 27-27, 2008, Alexandria, Virginia, USA[doi>10.1145/1456482.1456491]
+Edouard Bugnion , Scott Devine , Kinshuk Govil , Mendel Rosenblum, Disco: running commodity operating systems on scalable multiprocessors, ACM Transactions on Computer Systems (TOCS), v.15 n.4, p.412-447, Nov. 1997[doi>10.1145/265924.265930]
+Capelis, D. J. 2007. Virtualization: Enough holes to work vegas. In Proceedings of Defcon 15.
+Martim Carbone , Diego Zamboni , Wenke Lee, Taming Virtualization, IEEE Security and Privacy, v.6 n.1, p.65-67, January 2008[doi>10.1109/MSP.2008.24]
+Luigi Catuogno , Alexandra Dmitrienko , Konrad Eriksson , Dirk Kuhlmann , Gianluca Ramunno , Ahmad-Reza Sadeghi , Steffen Schulz , Matthias Schunter , Marcel Winandy , Jing Zhan, Trusted virtual domains – design, implementation and lessons learned, Proceedings of the First international conference on Trusted Systems, December 17-19, 2009, Beijing, China[doi>10.1007/978-3-642-14597-1_10]
+David Champagne , Ruby B. Lee, Scalable security architecture for trusted software, Princeton University, Princeton, NJ, 2010
+Chen, X., Garfinkel, T., Lewis, E. C., Subrahmanyam, P., Waldspurger, C. A., Boneh, D., et al. 2008. Overshadow. In Proceedings of the 13th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS). ACM Press, 2.
+N. M. Mosharaf Kabir Chowdhury , Raouf Boutaba, Network virtualization: state of the art and research challenges, IEEE Communications Magazine, v.47 n.7, p.20-26, July 2009[doi>10.1109/MCOM.2009.5183468]
+Mihai Christodorescu , Reiner Sailer , Douglas Lee Schales , Daniele Sgandurra , Diego Zamboni, Cloud security is not (just) virtualization security: a short paper, Proceedings of the 2009 ACM workshop on Cloud computing security, November 13-13, 2009, Chicago, Illinois, USA[doi>10.1145/1655008.1655022]
+Gregory Collier , Derek Plassman , Mahmoud Pegah, Virtualization's next frontier: security, Proceedings of the 35th annual ACM SIGUCCS fall conference, p.34-36, October 07-10, 2007, Orlando, Florida, USA[doi>10.1145/1294046.1294055]
+CommonCriteria. 2008. Certification report for processor resource/system manager (PR/SM) for the IBM system z10 EC GA1. Tech. rep. BSI-DSZ-CC-0460-2008. Informationstechnik, 1--38. http://www.commoncriteriaportal.org/files/epfiles/0460a.pdf.
+Criscione, C. 2010. Virtually pwned - Pentesting virtualization. In Proceedings of Blackhat USA. http://media.blackhat.com/bh-us-10/presentations/Criscione/BlackHat-USA-2010-Criscione-Virtually-Pwned-slides.pdf.
+Dai Zovi, D. A. 2006. Hardware virtualization rootkits. http://www.orkspace.net/secdocs/Conferences/BlackHat/USA/2006/Hardware Virtualization Based Rootkits.pdf.
+Chris I. Dalton , David Plaquin , Wolfgang Weidner , Dirk Kuhlmann , Boris Balacheff , Richard Brown, Trusted virtual platforms: a key enabler for converged client devices, ACM SIGOPS Operating Systems Review, v.43 n.1, January 2009[doi>10.1145/1496909.1496918]
+Prashant Dewan , David Durham , Hormuzd Khosravi , Men Long , Gayathri Nagabhushan, A hypervisor-based system for protecting software runtime memory and persistent storage, Proceedings of the 2008 Spring simulation multiconference, April 14-17, 2008, Ottawa, Canada
+Artem Dinaburg , Paul Royal , Monirul Sharif , Wenke Lee, Ether: malware analysis via hardware virtualization extensions, Proceedings of the 15th ACM conference on Computer and communications security, October 27-31, 2008, Alexandria, Virginia, USA[doi>10.1145/1455770.1455779]
+Resource Usage of Windows Computer Laboratories, Proceedings of the 2005 International Conference on Parallel Processing Workshops, p.469-476, June 14-17, 2005[doi>10.1109/ICPPW.2005.77]
+Micah Dowty , Jeremy Sugerman, GPU virtualization on VMware's hosted I/O architecture, ACM SIGOPS Operating Systems Review, v.43 n.3, July 2009[doi>10.1145/1618525.1618534]
+Duflot, L. 2008. CPU bugs, cpu backdoors and consequences on security. J. Comput. Virol. 5, 2, 91--104.
+Ferrie, P. 2007a. Attacks on more virtual machine emulators. http://pferrie.tripod.com/papers/attacks2.pdf.
+Ferrie, P. 2007b. Attacks on virtual machine emulators. http://www.symantec.com/avcenter/reference/Virtual_Machine_Threats.pdf.
+Ferrie, P., Hapi, H., and Joy, J. O. Y. 2006. Virus analysis tumours and polips. Virus Bull., 4--8.
+Richard Ford , William H. Allen, How Not to Be Seen II: The Defenders Fight Back, IEEE Security and Privacy, v.5 n.6, p.65-68, November 2007[doi>10.1109/MSP.2007.166]
+Franklin, J, Seshadri, A, Qu, N, Chaki, S., and Datta, A. 2008a. Attacking, repairing, and verifying SecVisor: A retrospective on the security of a hypervisor. Cylab Tech. rep. CMU-CyLab-08-008.
+Jason Franklin , Mark Luk , Jonathan M. McCune , Arvind Seshadri , Adrian Perrig , Leendert van Doorn, Remote detection of virtual machine monitors with fuzzy benchmarking, ACM SIGOPS Operating Systems Review, v.42 n.3, April 2008[doi>10.1145/1368506.1368518]
+Fuchi, K., Tanaka, H., Manago, Y., and Yuba, T. 1969. A program simulator by partial interpretation. In Proceedings of the 2ndSymposium on Operating Systems Principles (SOSP'69). ACM Press, 97.
+Tal Garfinkel , Mendel Rosenblum, When virtual is harder than real: security challenges in virtual machine based computing environments, Proceedings of the 10th conference on Hot Topics in Operating Systems, p.20-20, June 12-15, 2005, Santa Fe, NM
+Tal Garfinkel , Keith Adams , Andrew Warfield , Jason Franklin, Compatibility is not transparency: VMM detection myths and realities, Proceedings of the 11th USENIX workshop on Hot topics in operating systems, p.1-6, May 07-09, 2007, San Diego, CA
+Garfinkel, T. and Rosenblum, M. 2003. A virtual machine introspection based architecture for intrusion detection. In Proceedings of the Network and Distributed Systems Security Symposium. Vol. 1. 253--285.
+Carlo Gebhardt , Chris I. Dalton , Richard Brown, Hypervisors: Preventing hypervisor-based rootkits with trusted execution technology, Network Security, v.2008 n.11, p.7-12, November, 2008[doi>10.1016/S1353-4858(08)70128-4]
+Gebhardt, C, and Tomlinson, A. 2008. Security consideration for virtualization. Tech. rep. RHUL--MA--2008--16. In Proceedings of the 3rd Asia Pacific Trusted Infrastructure Technologies Conference. 19--29.
+Goldberg, R. P. 1973. Architecture of virtual machines. In Proceedings of the Workshop on Virtual Computer Systems. ACM Press, 74--112.
+Goldberg, R. P. 1974. Survey of virtual machine research. IEEE Comput. 7, 3, 34--45.
+John Linwood Griffin , Trent Jaeger , Ronald Perez , Reiner Sailer , Leendert van Doorn , Ramón Cáceres, Trusted virtual domains: toward secure distributed services, Proceedings of the First conference on Hot topics in system dependability, p.4-4, June 30, 2005, Yokohama, Japan
+Gueron, S. and Seifert, J. P. 2009. On the impossibility of detecting virtual machine monitors. Emerg. Challen. Secur. Privacy Trust 297. Springer, 143--151.
+Vivek Haldar , Deepak Chandra , Michael Franz, Semantic remote attestation: a virtual machine directed approach to trusted computing, Proceedings of the 3rd conference on Virtual Machine Research And Technology Symposium, p.3-3, May 06-07, 2004, San Jose, California
+Intel. 2003. Intel® Trusted Execution Technology Architectural Overview. http://www.intel.com/technology/security/downloads/arch-overview.pdf
+Intel. 2009. Intel® trusted execution technology (Intel® TXT) software development guide. architecture.
+Cynthia E. Irvine , Karl Levitt, Trusted hardware: can it be trustworthy?, Proceedings of the 44th annual Design Automation Conference, June 04-08, 2007, San Diego, California[doi>10.1145/1278480.1278482]
+Ivanov, I. and Gueorguiev, V. 2008. Operating systems virtualisation and security-modern aspects and an open trusted computing project. In Proceedings of the International Scientific Conference Computer Science. 335--339.
+Trent Jaeger , Reiner Sailer , Yogesh Sreenivasan, Managing the risk of covert information flows in virtual machine systems, Proceedings of the 12th ACM symposium on Access control models and technologies, June 20-22, 2007, Sophia Antipolis, France[doi>10.1145/1266840.1266853]
+Bernhard Jansen , Harigovind V. Ramasamy , Matthias Schunter , Axel Tanner, Architecting Dependable and Secure Systems Using Virtualization, Architecting Dependable Systems V, Springer-Verlag, Berlin, Heidelberg, 2008[doi>10.1007/978-3-540-85571-2_6]
+Hai Jin , Guofu Xiang , Feng Zhao , Deqing Zou , Min Li , Lei Shi, VMFence: a customized intrusion prevention system in distributed virtual computing environment, Proceedings of the 3rd International Conference on Ubiquitous Information Management and Communication, January 15-16, 2009, Suwon, Korea[doi>10.1145/1516241.1516310]
+Stephen T. Jones , Andrea C. Arpaci-Dusseau , Remzi H. Arpaci-Dusseau, VMM-based hidden process detection and identification using Lycosid, Proceedings of the fourth ACM SIGPLAN/SIGOPS international conference on Virtual execution environments, March 05-07, 2008, Seattle, WA, USA[doi>10.1145/1346256.1346269]
+Paul A. Karger , David R. Safford, I/O for Virtual Machine Monitors: Security and Performance Issues, IEEE Security and Privacy, v.6 n.5, p.16-23, September 2008[doi>10.1109/MSP.2008.119]
+Samuel T. King , Peter M. Chen , Yi-Min Wang , Chad Verbowski , Helen J. Wang , Jacob R. Lorch, SubVirt: Implementing malware with virtual machines, Proceedings of the 2006 IEEE Symposium on Security and Privacy, p.314-327, May 21-24, 2006[doi>10.1109/SP.2006.38]
+Kist, A. A. 2009. Staged request routing for reduced carbon footprints of large scale server systems. In Proceedings of the Australasian Telecommunication Networks and Applications Conference (ATNAC). IEEE, 1--5.
+Kortchinsky, K. 2009. Cloudburst—A VMware guest to host escape story. http://www.blackhat.com/presentations/bh-usa-09/KORTCHINSKY/BHUSA09-Kortchinsky-Cloudburst-SLIDES.pdf.
+Kenichi Kourai , Shigeru Chiba, HyperSpector: virtual distributed monitoring environments for secure intrusion detection, Proceedings of the 1st ACM/USENIX international conference on Virtual execution environments, June 11-12, 2005, Chicago, IL, USA[doi>10.1145/1064979.1065006]
+Oren Laadan , Jason Nieh, Operating system virtualization: practice and experience, Proceedings of the 3rd Annual Haifa Experimental Systems Conference, May 24-26, 2010, Haifa, Israel[doi>10.1145/1815695.1815717]
+Landwehr, C. E., Bull, A. R., McDermott, J. P., and Choi, W. S. 1994. A taxonomy of computer program security flaws, ACM Comput. Surv. 26, 3, 211--254.
+Marcos Laureano , Carlos Maziero , Edgard Jamhour, Intrusion Detection in Virtual Machine Environments, Proceedings of the 30th EUROMICRO Conference, p.520-525, August 31-September 03, 2004[doi>10.1109/EUROMICRO.2004.48]
+Ulf Lindqvist , Erland Jonsson, How to Systematically Classify Computer Security Intrusions, Proceedings of the 1997 IEEE Symposium on Security and Privacy, p.154, May 04-07, 1997
+Liston, T. and Skoudis, E. 2006. On the cutting edge: Thwarting virtual machine detection. In Proceedings of the SANSFIRE Conference. 1--27.
+Litty, L. 2005. Hypervisor-Based intrusion detection. Master's thesis, Department of Computer Science, University of Toronto, Canada.
+Lionel Litty , David Lie, Manitou: a layer-below approach to fighting malware, Proceedings of the 1st workshop on Architectural and system support for improving software dependability, p.6-11, October 21-21, 2006, San Jose, California[doi>10.1145/1181309.1181311]
+Madnick, S. E. and Donovan, J. J. 1973. Application and analysis of the virtual machine approach to information system security and isolation. In Proceedings of the Workshop on Virtual Computer Systems. Vol. 4102, ACM Press, 210--224.
+Matthews, J. N., Herne, J. J., Deshane, T. M., Jablonski, P. A., Cherian, L. R., and Mccabe, M. T. 2005. Data protection and rapid recovery from attack with a virtual private file server and virtual machine appliances. In Proceedings of the IASTED International Conference on Communication, Network and Information Security. 170--181.
+Microsoft. 2010. Microsoft security development lifecycle (SDL) threat modeling tool. http://www. microsoft.com/security/sdl/adopt/threatmodeling.aspx.
+Karissa Miller , Mahmoud Pegah, Virtualization: virtually at the desktop, Proceedings of the 35th annual ACM SIGUCCS fall conference, p.255-260, October 07-10, 2007, Orlando, Florida, USA[doi>10.1145/1294046.1294107]
+MSDN. 2010. Windows virtual pc interfaces. http://msdn.microsoft.com/enus/library/dd796756(VS.85).aspx.
+Kara Nance , Matt Bishop , Brian Hay, Virtual Machine Introspection: Observation or Interference?, IEEE Security and Privacy, v.6 n.5, p.32-37, September 2008[doi>10.1109/MSP.2008.134]
+Newsham, G. R. and Tiller, D. K. 1994. The energy consumption of desktop computers: Measurement and savings potential. IEEE Trans. Ind. Appl. 30, 4, 1065--1072.
+Tsutomu Nomoto , Yoshihiro Oyama , Hideki Eiraku , Takahiro Shinagawa , Kazuhiko Kato, Using a Hypervisor to Migrate Running Operating Systems to Secure Virtual Machines, Proceedings of the 2010 IEEE 34th Annual Computer Software and Applications Conference, p.37-46, July 19-23, 2010[doi>10.1109/COMPSAC.2010.11]
+Omella, A. A. 2006. Methods for virtual machine detection. Grupo S21sec Gestión SA. http://www.s21sec.com/descargas/vmware-eng.pdf.
+Rolf Oppliger , Ruedi Rytz, Does Trusted Computing Remedy Computer Security Problems?, IEEE Security and Privacy, v.3 n.2, p.16-19, March 2005[doi>10.1109/MSP.2005.40]
+Ormandy, T. 2007. An empirical study into the security exposure to hosts of hostile virtualized environments. In Proceedings of the CanSecWest Applied Security Conference. 1--10.
+OWASP. 2010. (Open Web Application Security Project) OWASP threat risk modeling. http://www.owasp.org/index.php/Threat_Risk_Modeling.
+Payne, B. D., Carbone, M. D. P. D. A., and Lee, W. 2007. Secure and flexible monitoring of virtual machines. In Proceedings of the 23<sup>rd</sup> Annual Computer Security Applications Conference (ACSAC'07). IEEE, 385--397.
+Ronald Perez , Leendert van Doorn , Reiner Sailer, Virtualization and Hardware-Based Security, IEEE Security and Privacy, v.6 n.5, p.24-31, September 2008[doi>10.1109/MSP.2008.135]
+Zachary Peterson , Randal Burns, Ext3cow: a time-shifting file system for regulatory compliance, ACM Transactions on Storage (TOS), v.1 n.2, p.190-212, May 2005[doi>10.1145/1063786.1063789]
+Tal Garfinkel , Ben Pfaff , Jim Chow , Mendel Rosenblum , Dan Boneh, Terra: a virtual machine-based platform for trusted computing, Proceedings of the nineteenth ACM symposium on Operating systems principles, October 19-22, 2003, Bolton Landing, NY, USA[doi>10.1145/945445.945464]
+Popek, G. J. and Goldberg, R. P. 1974. Formal requirements for virtualizable third generation architectures. Comm. ACM 17, 7, 412--421.
+Michael Price, The Paradox of Security in Virtual Environments, Computer, v.41 n.11, p.22-28, November 2008[doi>10.1109/MC.2008.472]
+Thomas Raffetseder , Christopher Kruegel , Engin Kirda, Detecting system emulators, Proceedings of the 10th international conference on Information Security, October 09-12, 2007, Valparaíso, Chile
+Ramos, J. 2009. Security challenges with virtualization. Ph.D. thesis, Libson University Faculty of Computing, 121.
+Rashid, A., Mens, T., Buckley, J., and Zenger, M. 2003. Towards a taxonomy of software evolution. In Proceedings of the International Workshop on Unanticipated Software Evolution. 1--18.
+Reuben, J. 2007. A survey on virtual machine security. http://www.tml.tkk.fi/Publications/C/25/papers/Reuben_final.pdf.
+Thomas Ristenpart , Eran Tromer , Hovav Shacham , Stefan Savage, Hey, you, get off of my cloud: exploring information leakage in third-party compute clouds, Proceedings of the 16th ACM conference on Computer and communications security, November 09-13, 2009, Chicago, Illinois, USA[doi>10.1145/1653662.1653687]
+Rose, R. 2004. Survey of system virtualization techniques. http://www.robertwrose.com/vita/rose-virtualization.pdf.
+Mendel Rosenblum , Tal Garfinkel, Virtual Machine Monitors: Current Technology and Future Trends, Computer, v.38 n.5, p.39-47, May 2005[doi>10.1109/MC.2005.176]
+Rosin, R. F. 1969. Contemporary concepts of microprogramming and emulation. ACM Comput. Surv. 1, 4, 197--212.
+Rutkowska, J. and Tereshkin, A. 2008. Bluepilling the xen hypervisor. http://invisiblethingslab.com/bh08/part3.pdf.
+Rutkowska, J. 2006. Subverting vista kernel for fun and profit. http://www.blackhat.com/presentations/bh-usa-06/BH-US-06-Rutkowska.pdf.
+Reiner Sailer , Xiaolan Zhang , Trent Jaeger , Leendert van Doorn, Design and implementation of a TCG-based integrity measurement architecture, Proceedings of the 13th conference on USENIX Security Symposium, p.16-16, August 09-13, 2004, San Diego, CA
+Reiner Sailer , Trent Jaeger , Enriquillo Valdez , Ramon Caceres , Ronald Perez , Stefan Berger , John Linwood Griffin , Leendert van Doorn, Building a MAC-Based Security Architecture for the Xen Open-Source Hypervisor, Proceedings of the 21st Annual Computer Security Applications Conference, p.276-285, December 05-09, 2005[doi>10.1109/CSAC.2005.13]
+Stephen L. Scott , Geoffroy Vallée , Thomas Naughton , Anand Tikotekar , Christian Engelmann , Hong Ong, System-level virtualization research at Oak Ridge National Laboratory, Future Generation Computer Systems, v.26 n.3, p.304-307, March, 2010[doi>10.1016/j.future.2009.07.001]
+Security, N. 2010. Virtualisation worries. Netw. Secur. 5, 20.
+Arvind Seshadri , Mark Luk , Ning Qu , Adrian Perrig, SecVisor: a tiny hypervisor to provide lifetime kernel code integrity for commodity OSes, Proceedings of twenty-first ACM SIGOPS symposium on Operating systems principles, October 14-17, 2007, Stevenson, Washington, USA[doi>10.1145/1294261.1294294]
+Monirul I. Sharif , Wenke Lee , Weidong Cui , Andrea Lanzi, Secure in-VM monitoring using hardware virtualization, Proceedings of the 16th ACM conference on Computer and communications security, November 09-13, 2009, Chicago, Illinois, USA[doi>10.1145/1653662.1653720]
+Frank Siebenlist, Challenges and opportunities for virtualized security in the clouds, Proceedings of the 14th ACM symposium on Access control models and technologies, June 03-05, 2009, Stresa, Italy[doi>10.1145/1542207.1542209]
+Kevin Skapinetz, Virtualisation: Virtualisation as a blackhat tool, Network Security, v.2007 n.10, p.4-7, October, 2007[doi>10.1016/S1353-4858(07)70092-2]
+James E. Smith , Ravi Nair, The Architecture of Virtual Machines, Computer, v.38 n.5, p.32-38, May 2005[doi>10.1109/MC.2005.173]
+Vijayaraghavan Soundararajan , Jennifer M. Anderson, The impact of management operations on the virtualized datacenter, Proceedings of the 37th annual international symposium on Computer architecture, June 19-23, 2010, Saint-Malo, France[doi>10.1145/1815961.1816003]
+Sourceforge. 2010. Integrity measurement architecture (IMA) - SourceForge.net. http://sourceforge.net/projects/linux-ima/.
+Geoffrey Strongin, Trusted computing using AMD "Pacifica" and "Presidio" secure virtual machine technology, Information Security Tech. Report, v.10 n.2, p.120-132, January, 2005[doi>10.1016/j.istr.2005.05.006]
+S. Subashini , V. Kavitha, Review: A survey on security issues in service delivery models of cloud computing, Journal of Network and Computer Applications, v.34 n.1, p.1-11, January, 2011[doi>10.1016/j.jnca.2010.07.006]
+Jeremy Sugerman , Ganesh Venkitachalam , Beng-Hong Lim, Virtualizing I/O Devices on VMware Workstation's Hosted Virtual Machine Monitor, Proceedings of the General Track: 2002 USENIX Annual Technical Conference, p.1-14, June 25-30, 2001
+TCG. 2010. Trusted computing group. http://www.trustedcomputinggroup.org/.
+Tomlinson, C. 2009. Trusted virtual disk images. In Proceedings of the 1st International Conference Future of Trust in Computing. 197.
+Trusted Computing Group. 2007. TPM Main Part 1 Design Principles Version 1.2 (Level 2 Revision 103). ReVision, 182.
+Rich Uhlig , Gil Neiger , Dion Rodgers , Amy L. Santoni , Fernando C. M. Martins , Andrew V. Anderson , Steven M. Bennett , Alain Kagi , Felix H. Leung , Larry Smith, Intel Virtualization Technology, Computer, v.38 n.5, p.48-56, May 2005[doi>10.1109/MC.2005.163]
+Vaarala, S. 2006. Security considerations of commodity x86 virtualization. Helsinki University of Technology-Telecommunications.
+André van Cleeff , Wolter Pieters , Roel J. Wieringa, Security Implications of Virtualization: A Literature Study, Proceedings of the 2009 International Conference on Computational Science and Engineering, p.353-358, August 29-31, 2009[doi>10.1109/CSE.2009.267]
+Vasan, A., Sivasubramaniam, A., Shimpi, V., Sivabalan, T., and Subbiah, R. 2010. Worth their watts&quest; An empirical study of datacenter servers. In Proceedings of the 16th International Symposium on High-Performance Computer Architecture. IEEE, 1--10.
+Amit Vasudevan , Jonathan M. McCune , Ning Qu , Leendert Van Doorn , Adrian Perrig, Requirements for an integrity-protected hypervisor on the x86 hardware virtualized architecture, Proceedings of the 3rd international conference on Trust and trustworthy computing, June 21-23, 2010, Berlin, Germany
+VMware. 2010. VIX API. http://www.vmware.com/support/developer/vix-api/.
+Shu-xia Wang , Yin-chuan Wang , Wei-zhen Tian, Research on Trusted Computing Implementations in Windows, Proceedings of the 2010 International Conference of Information Science and Management Engineering, p.446-449, August 07-08, 2010[doi>10.1109/ISME.2010.176]
+Zhenghong Wang , Ruby B. Lee, Covert and Side Channels Due to Processor Architecture, Proceedings of the 22nd Annual Computer Security Applications Conference, p.473-482, December 11-15, 2006[doi>10.1109/ACSAC.2006.20]
+Zhenghong Wang , Ruby B. Lee, New cache designs for thwarting software cache-based side channel attacks, ACM SIGARCH Computer Architecture News, v.35 n.2, May 2007[doi>10.1145/1273440.1250723]
+Andrew Whitaker , Richard S. Cox , Marianne Shaw , Steven D. Gribble, Rethinking the Design of Virtual Machine Monitors, Computer, v.38 n.5, p.57-62, May 2005[doi>10.1109/MC.2005.169]
+Wimmer, M. 2008. Virtual security. In 1st Conference on Computer Security Incident Handling. Vol. 20.
+Wlodarz, J. J. 2007. Virtualization: A double-edged sword. http://arxiv.org/abs/0705.2786.
+Wojtczuk, R. and Rutkowska, J. 2009. Attacking intel trusted execution technology. http://www. invisiblethingslab.com/resources/bh09dc/Attacking Intel TXT-paper.pdf.
+Wu, X. and Ma, W. 2010. Hypervisor based detection and prevention for packed malware. http://www. ece.tamu.edu/~tristanw/files/Wu_Xiaojian_Ma_Weiqin_Report.pdf.
+Chaoting Xuan , John Copeland , Raheem Beyah, Toward Revealing Kernel Malware Behavior in Virtual Execution Environments, Proceedings of the 12th International Symposium on Recent Advances in Intrusion Detection, September 23-25, 2009, Saint-Malo, France[doi>10.1007/978-3-642-04342-0_16]
+Yamahata, I. 2008. Paravirt_ops on IA64. Kernel.org. http://www.kernel.org/doc/Documentation/ia64/paravirt_ops.txt.
+Lei Yu , Chuliang Weng , Minglu Li , Yuan Luo, Security Challenges on the Clone, Snapshot, Migration and Rollback of Xen Based Computing Environments, Proceedings of the The Fifth Annual ChinaGrid Conference, p.223-227, July 16-18, 2010[doi>10.1109/ChinaGrid.2010.47]
+Yunis, M. and Hughes, J. 2008. Real security in virtual systems: A proposed model for a comprehensive approach to securing virtualized environments. Issues Inf. Syst. IX, 2, 385--395.

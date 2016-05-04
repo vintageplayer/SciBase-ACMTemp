@@ -1,0 +1,120 @@
+ADAMS, C. J., ADAMS, G. C., WATERS, A. G., LESLIE, I., AND KIRK, P. 1982. Protocol architecture of the UNIVERSE project. In Proceedings of the 6th International Conference on Computer Communication (London, Sept. 7-10). International Conference for Computer Communication, pp. 379- 383.
+ALMES, G. T., BLACK, A. P., LAZOWSKA, E. D., AND NOE, J. D. 1985. The Eden system: A technical review. IEEE Trans. Softw. Eng. SE-11 (Jan.), 43-59.
+P. A. Lee , T. Anderson , J. C. Laprie , A. Avizienis , H. Kopetz, Fault Tolerance: Principles and Practice, Springer-Verlag New York, Inc., Secaucus, NJ, 1990
+AVIZIENIS, A., AND CHEN, L. 1977. On the implementation of N-version programming for software fault-tolerance during execution. In Proceedings of the International Computer Software and Applications Conference. IEEE, New York, pp. 149-155.
+AVIZIENIS, A., AND KELLY, J. 1984. Fault tolerance by design diversity. Computer 17 (Aug.), 66-80.
+BAL, H. E., VAN RENESSE, R., AND TANENBAUM, A. S. 1985. A distributed, parallel, fault tolerant computing system. Rep. IR-106, Dept. of Mathematics and Computer Science, Vrije Univ., The Netherlands, Oct.
+BALL, J. E., FELDMAN, J., LOW, R., RASHID, R., AND ROVNER, P. 1976. RIG, Rochester's intelligent gateway: System overview. IEEE Trans. Softw. Eng. SE-2 (Dec.), 321-329.
+Amnon Barak , Amnon Shiloh, A distributed load-balancing policy for a multicomputer, Software—Practice & Experience, v.15 n.9, p.901-913, Sept. 1985[doi>10.1002/spe.4380150905]
+BIRMAN, K. P., AND ROWE, L. A. 1982. A local network based on the UNIX operating system. IEEE Trans. Softw. Eng. SE-8 (Mar.), 137-146.
+Andrew D. Birrell, Secure communication using remote procedure calls, ACM Transactions on Computer Systems (TOCS), v.3 n.1, p.1-14, Feb. 1985[doi>10.1145/214451.214452]
+BIRRELL, A. D., AND NEEDHAM, R. M. 1980. A universal file server. IEEE Trans. Softw. Eng. SE-6, (Sept.), 450-453.
+Andrew D. Birrell , Bruce Jay Nelson, Implementing remote procedure calls, ACM Transactions on Computer Systems (TOCS), v.2 n.1, p.39-59, February 1984[doi>10.1145/2080.357392]
+Andrew D. Birrell , Roy Levin , Michael D. Schroeder , Roger M. Needham, Grapevine: an exercise in distributed computing, Communications of the ACM, v.25 n.4, p.260-274, April 1982[doi>10.1145/358468.358487]
+Michael D. Schroeder , Andrew D. Birrell , Roger M. Needham, Experience with Grapevine:  the growth of a distributed system, ACM Transactions on Computer Systems (TOCS), v.2 n.1, p.3-23, February 1984[doi>10.1145/2080.2081]
+Andrew P. Black, An asymmetric stream communication system, Proceedings of the ninth ACM symposium on Operating systems principles, p.4-10, October 10-13, 1983, Bretton Woods, New Hampshire, United States[doi>10.1145/800217.806610]
+Andrew P. Black, Supporting distributed applications: experience with Eden, Proceedings of the tenth ACM symposium on Operating systems principles, p.181-193, December 1985, Orcas Island, Washington, United States[doi>10.1145/323647.323646]
+BOGGS, D. R., SCHOCH, J. F., TAFT, E. A., Afro METCALFE, R. M. 1980. Pup: An internetwork architecture. IEEE Trans. Cornmun. COM-28 (Apr.), 612-624.
+Anita Borg , Jim Baumbach , Sam Glazer, A message system supporting fault tolerance, Proceedings of the ninth ACM symposium on Operating systems principles, p.90-99, October 10-13, 1983, Bretton Woods, New Hampshire, United States[doi>10.1145/800217.806617]
+M. R. Brown , K. N. Kolling , E. A. Taft, The Alpine file system, ACM Transactions on Computer Systems (TOCS), v.3 n.4, p.261-293, Nov. 1985[doi>10.1145/6110.6111]
+BROWNBRIDGE, D. R., MARSHALL, L. F., AND RANDELL, B. 1982. The Newcastle connection-Or UNIXES of the world unite! Softw. Pract. Exper. 12 (Dec.), 1147-1162.
+BRYANT, R. M., AND FINKEL, R. A. 1981. A stable distributed scheduling algorithm. In Proceedinks of the 2nd International Conference on Distributed Computer Systems (Apr.). IEEE, New York, pp. 314-323.
+K. Mani Chandy , Jayadev Misra , Laura M. Haas, Distributed deadlock detection, ACM Transactions on Computer Systems (TOCS), v.1 n.2, p.144-156, May 1983[doi>10.1145/357360.357365]
+David R. Cheriton, The  Thoth System, Elsevier Science Inc., New York, NY, 1982
+David R. Cheriton, An experiment using registers for fast message-based interprocess communication, ACM SIGOPS Operating Systems Review, v.18 n.4, p.12-20, October 1984[doi>10.1145/850766.850768]
+CHERITON, D. R. 1984b. The V kernel: A software base for distributed systems. IEEE Softw. 1 (Apr.), 19-42.
+CHERITON, D. R., AND MANN, T. P. 1984. Uniform access to distributed name interpretation in the V system. In Proceedings of the 4th International Conference on Distributed Computing Systems. IEEE, New York, pp. 290-297.
+David R. Cheriton , Willy Zwaenepoel, The distributed V kernel and its performance for diskless workstations, Proceedings of the ninth ACM symposium on Operating systems principles, p.129-140, October 10-13, 1983, Bretton Woods, New Hampshire, United States[doi>10.1145/800217.806621]
+David R. Cheriton , Willy Zwaenpoel>, One-to-many interprocess communication in the V-system, Proceedings of the ACM SIGCOMM symposium on Communications architectures and protocols: tutorials & symposium, p.64, June 06-08, 1984, Montréal, Quebec, Canada, United States[doi>10.1145/800056.802061]
+David R. Cheriton , Michael A. Malcolm , Lawrence S. Melen , Gary R. Sager, Thoth, a portable real-time operating system, Communications of the ACM, v.22 n.2, p.105-115, Feb. 1979[doi>10.1145/359060.359074]
+Gregory L. Chesson, The network Unix system, Proceedings of the fifth ACM symposium on Operating systems principles, p.60-66, November 19-21, 1975, Austin, Texas, United States[doi>10.1145/800213.806522]
+CHOW, T. C. K., AND ABRAHAM, J. A. 1982. Load balancing in distributed systems. IEEE Trans. So{tw. Eng. SE-8 (July), 401-412.
+CHOW, Y. C., AND KOHLER, W. H. 1979. Models for dynamic load balancing in heterogeneous multipie processor systems. IEEE Trans. Comput. C-28 (May), 354-361.
+CHU, W. W., HOLLOWAY, L. J., M~N-TSUNG, L., AND ErE, K. 1980. Task allocation in distributed data processing. Computer 13 (Nov.), 57-69.
+CURTIS, R. S., AND WITTIE, L. D. 1984. Global naming in distributed systems. IEEE So{tw. 1, 76-80.
+Yogen Kantilal Dalal, Broadcast protocols in packet switched computer networks., 1977
+DELLAR, C. 1982. A file server for a network of low-cost personal microcomputers. Softw. Pract. Exper. 12 (Nov.), 1051-1068.
+Jack B. Dennis , Earl C. Van Horn, Programming semantics for multiprogrammed computations, Communications of the ACM, v.9 n.3, p.143-155, March 1966[doi>10.1145/365230.365252]
+DEWITT, D. J., FINKEL, R. A., AND SOLOMON, M. 1984. The CRYSTAL multicomputer: Design and implementation experience. Tech. Rep. TR- 553, Computer Science Dept., Univ. of Wisconsin, Madison, Wis.
+Jeremy Dion, The Cambridge File Server, ACM SIGOPS Operating Systems Review, v.14 n.4, p.26-35, October 1980[doi>10.1145/850708.850710]
+EFE, K. 1982. Heuristic models of task assignment scheduling in distributed systems. Computer 15 (June), 50-56.
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+FARBER, D. J., AND LARSON, K. C. 1972. The system architecture of the distributed computer system-The communications system. In Proceedings of the Symposium on Computer Networks (Brooklyn, Apr.). Polytechnic Inst. of Brooklyn, Brooklyn, N.Y.
+FINKEL, R. A., SOLOMON, M. H., AND TISCHLER, R. 1979. The Roscoe resource manager. COMP- CON 79 Digest of Papers (Feb.). IEEE, New York, pp. 88-91.
+Robert Fitzgerald , Richard F. Rashid, The integration of virtual memory management and interprocess communication in accent (abstract only), Proceedings of the tenth ACM symposium on Operating systems principles, p.13-14, December 1985, Orcas Island, Washington, United States[doi>10.1145/323647.323630]
+M. Fridrich , W. Older, The Felix File Server, Proceedings of the eighth ACM symposium on Operating systems principles, p.37-44, December 14-16, 1981, Pacific Grove, California, United States[doi>10.1145/800216.806589]
+FRIDRICH, M., AND OLDER, W. 1984. HELIX: The architecture of a distributed file system, in Proceedings of the 4th International Conference on Distributed Computing Systems. IEEE, New York, pp. 422-431.
+GAGLIANELLO, R. D., AND KATSEFF, H. P. 1985. Meglos: An operating system for a multiprocessor environment. In Proceedings of the 5th International Conference on Distributed Computing Systems (May). IEEE, New York, pp. 35-42.
+GUGOR, V. D., AND SHATTUCK, S. H. 1980. Deadlock detection in distributed systems. IEEE Trans. Softw. Eng. SE-6 (Sept.), 435-440.
+GYLYS, V. B., AND EDWARDS, J. A. 1976. Optimal partitioning of workload for distributed systems. In Proceedings of COMPCON (Sept.). IEEE, New York, pp. 353-357.
+HWANG, K., CROFT, W. J., GOBLE, G. H. WAH, B. W., BRIGGS, F. A., SIMMONS, W. R., AND COATES, C. L. 1982. A UNIX-based local computer network. Computer 15 (Apr.), 55-66.
+ISLOOR, s. S., AND MARSLAND, T. A. 1978. An elfective on-line deadlock detection technique for distributed database management systems. In Proceedings of the International Computer and Software Application Conference. IEEE, New York, pp. 283-288.
+P. Janson , L. Svobodova , E. Maehle, Filing and printing services on a local-area network, Proceedings of the eighth symposium on Data communications, p.211-220, October 03-06, 1983, North Falmouth, Massachusetts, United States[doi>10.1145/800034.800922]
+David R. Jefferson, Virtual time, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.3, p.404-425, July 1985[doi>10.1145/3916.3988]
+JENSEN, E. D. 1978. The Honeywell experimental distributed processor~An overview of its objective, philosophy and architectural facilities. Compurer 11 (Jan), 28-38.
+JESSOP, W. H., JACOBSON, D. M., NOE, J. D., BAER, J.-L., AND PU, C. 1982. The Eden transactionbased file system. In Proceedings of the 2nd Symposium on Reliability in Distributed Software and Database Systems (July). IEEE, New York, pp. 163-169.
+KRUEGER, P., ANO FINKEL, R. A. 1983. An adaptive load balancing algorithm for a multicomputer. Unpublished manuscript, Computer Science Dept., Univ. of Wisconsin.
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+Leslie Lamport, Using Time Instead of Timeout for Fault-Tolerant Distributed Systems., ACM Transactions on Programming Languages and Systems (TOPLAS), v.6 n.2, p.254-280, April 1984[doi>10.1145/2993.2994]
+Butler W. Lampson, Atomic Transactions, Distributed Systems - Architecture and Implementation, An Advanced Course, p.246-265, January 1981
+Edward D. Lazowska , Henry M. Levy , Guy T. Almes , Michael J. Fischer , Robert J. Fowler , Stephen C. Vestal, The architecture of the Eden system, Proceedings of the eighth ACM symposium on Operating systems principles, p.148-159, December 14-16, 1981, Pacific Grove, California, United States[doi>10.1145/800216.806603]
+Henry M. Levy, Capability-Based Computer Systems, Butterworth-Heinemann, Newton, MA, 1984
+LISKOV, B. 1982. On linguistic support for distributed programs. IEEE Trans. So{tw. Eng. SE-8 (May), 203-210.
+LISKOV, B. 1984. Overview of the Argus language and system. Programming Methodology Group Memo 40. Laboratory for Computer Science, Massachusetts Institute of Technology, Cambridge, Mass., Feb.
+Barbara Liskov , Robert Scheifler, Guardians and Actions: Linguistic Support for Robust, Distributed Programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.3, p.381-404, July 1983[doi>10.1145/2166.357215]
+LO, V. M. 1984. Heuristic algorithms for task assignment in distributed systems. In Proceedings of the 4th International Conference on Distributed Computing Systems. iEEE, New York, pp. 30-39.
+G. W.R. Luderer , H. Che , J. P. Haggerty , P. A. Kirslis , W. T. Marshall, A distributed UNIX system based on a virtual circuit switch, Proceedings of the eighth ACM symposium on Operating systems principles, p.160-168, December 14-16, 1981, Pacific Grove, California, United States[doi>10.1145/800216.806604]
+MAMRAK, S. A., MAURATH, P., GOMEZ, J., JANARDAN, S., ANO NICHOLAS, C. 1982. Guest layering distributed processing support on local operating systems. In Proceedings of the 3rd International Conference on Distributed Computing Systems. IEEE, New York, pp. 854-859.
+Keith Marzullo , Susan Owicki, Maintaining the time in a distributed system, ACM SIGOPS Operating Systems Review, v.19 n.3, p.44-54, July 1985[doi>10.1145/850776.850780]
+MENASCE, D., AND MUNTZ, R. 1979. Locking and deadlock detection in distributed databases. IEEE Trans. Softw. Eng. SE-5 (May), 195-202.
+Robert E. Millstein, The National Software Works: A distributed processing system, Proceedings of the 1977 annual conference, p.44-52, January 1977[doi>10.1145/800179.810177]
+James G. Mitchell , Jeremy Dion, A comparison of two network-based file servers, Communications of the ACM, v.25 n.4, p.233-245, April 1982[doi>10.1145/358468.358475]
+MOHAN, C. K., ANO WITTIE, L. D. 1985. Local reconfiguration of management trees in large networks. In Proceedings of the 5th International Conference on Distributed Computing Systems (May). IEEE, New York, pp. 386-393.
+MULLENDER, S. J., AND TANENBAUM, A. S. 1984. Protection and resource control in distributed operating systems. Comput. Networks 8 (Nov.), 421-432.
+Sape J. Mullender , Andrew S. Tanenbaum, A distributed file service based on optimistic concurrency control, Proceedings of the tenth ACM symposium on Operating systems principles, p.51-62, December 1985, Orcas Island, Washington, United States[doi>10.1145/323647.323634]
+MULLENDER, S. J., AND TANENBAUM, A. S. 1986. The design of a capability-based distributed operating system. Computer J. (in press).
+NEEDHAM, R. M., AND HERBERT, A. J. 1982. The Cambridge Distributed Computing System. Addison-Wesley, Reading, Mass.
+NELSON, B. J. 1981. Remote procedure call. Tech. Rep. CSL-81-9, Xerox Palo Alto Research Center, Palo Alto, Calif.
+Ron Obermarck, Distributed deadlock detection algorithm, ACM Transactions on Database Systems (TODS), v.7 n.2, p.187-208, June 1982[doi>10.1145/319702.319717]
+Brian M. Oki , Barbara H. Liskov , Robert W. Scheifler, Reliable object storage to support atomic actions, Proceedings of the tenth ACM symposium on Operating systems principles, p.147-159, December 1985, Orcas Island, Washington, United States[doi>10.1145/323647.323642]
+OUSTERHOUT, J. K. 1982. Scheduling techniques for concurrent systems. In Proceedings of the 3rd International Conference on Distributed Computing Systems. IEEE, New York, pp. 22-30.
+Ariel Pashtan, Object oriented operating systems: An emerging design methodology, Proceedings of the ACM '82 conference, p.126-131, January 1982[doi>10.1145/800174.809777]
+G. Popek , B. Walker , J. Chow , D. Edwards , C. Kline , G. Rudisin , G. Thiel, LOCUS a network transparent, high reliability distributed system, Proceedings of the eighth ACM symposium on Operating systems principles, p.169-177, December 14-16, 1981, Pacific Grove, California, United States[doi>10.1145/800216.806605]
+Michael L. Powell , Barton P. Miller, Process migration in DEMOS/MP, Proceedings of the ninth ACM symposium on Operating systems principles, p.110-119, October 10-13, 1983, Bretton Woods, New Hampshire, United States[doi>10.1145/800217.806619]
+Michael L. Powell , David L. Presotto, Publishing: a reliable broadcast communication mechanism, Proceedings of the ninth ACM symposium on Operating systems principles, p.100-109, October 10-13, 1983, Bretton Woods, New Hampshire, United States[doi>10.1145/800217.806618]
+PU, C., ANO NOE, J. D. 1985. Nested transactions for general objects. Rep. TR-85-12-03, Computer Science Dept., Univ. of Washington, Seattle, Wash.
+Calton Pu , Jerre D. Noe , Andrew Proudfoot, Regeneration of Replicated Objects: A Technique and Its Eden Implementation, Proceedings of the Second International Conference on Data Engineering, p.175-187, February 05-07, 1986
+Richard F. Rashid , George G. Robertson, Accent: A communication oriented network operating system kernel, Proceedings of the eighth ACM symposium on Operating systems principles, p.64-75, December 14-16, 1981, Pacific Grove, California, United States[doi>10.1145/800216.806593]
+David P. Reed, Implementing atomic actions on decentralized data, ACM Transactions on Computer Systems (TOCS), v.1 n.1, p.3-23, Feb. 1983[doi>10.1145/357353.357355]
+REED, D. P., AND SVOBODOVA, L. 1981. SWALLOW: A distributed data storage system for a local network. In Local Networks for Computer Communications, A. West and P. Janson, Eds. North-Holland Publ., Amsterdam, pp. 355- 373.
+John H. Reif , Paul G. Spirakis, Real-Time Synchronization of Interprocess Communications, ACM Transactions on Programming Languages and Systems (TOPLAS), v.6 n.2, p.215-238, April 1984[doi>10.1145/2993.357244]
+Dennis M. Ritchie , Ken Thompson, The UNIX time-sharing system, Communications of the ACM, v.17 n.7, p.365-375, July 1974[doi>10.1145/361011.361061]
+J. H. Saltzer , D. P. Reed , D. D. Clark, End-to-end arguments in system design, ACM Transactions on Computer Systems (TOCS), v.2 n.4, p.277-288, Nov. 1984[doi>10.1145/357401.357402]
+M. Satyanarayanan , John H. Howard , David A. Nichols , Robert N. Sidebotham , Alfred Z. Spector , Michael J. West, The ITC distributed file system: principles and design, Proceedings of the tenth ACM symposium on Operating systems principles, p.35-50, December 1985, Orcas Island, Washington, United States[doi>10.1145/323647.323633]
+Michael D. Schroeder , David K. Gifford , Roger M. Needham, A caching file system for a programmer's workstation, Proceedings of the tenth ACM symposium on Operating systems principles, p.25-34, December 1985, Orcas Island, Washington, United States[doi>10.1145/323647.323632]
+SMITH, R. 1979. The contract net protocol: Highlevel communication and control in a distributed problem solver. In Proceedings o/the 1st International Con/erence on Distributed Computing Systems. IEEE, New York, pp. 185-192.
+SOLOMON, M. H., ANO FINKEL, R. A. 1978. ROSCOE: A multimicrocomputer operating systern. In Proceedings o/the 2nd Rocky Mountain Symposium on Microcomputers (Aug.), pp. 201- 210.
+Marvin H. Solomon , Raphael A. Finkel, The Roscoe distributed operating system, Proceedings of the seventh ACM symposium on Operating systems principles, p.108-114, December 10-12, 1979, Pacific Grove, California, United States[doi>10.1145/800215.806577]
+Alfred Z. Spector, Performing remote operations efficiently on a local computer network, Communications of the ACM, v.25 n.4, p.246-260, April 1982[doi>10.1145/358468.358478]
+STANKOVIC, J. A., AND SIDHU, I. S. 1984. An adaptive bidding algorithm for processes, clusters, and distributed ups. In Proceedings o/the 4th International Conference on Distributed Computing Systems. IEEE, New York, pp. 49-59.
+STONE, H. S. 1977. Multiprocessor scheduling with the aid of network flow algorithms. IEEE Trans. So{tw. Eng. SE-3 (Jan.), 88-93.
+STONE, H. S. 1978. Critical load factors in distributed computer systems. IEEE Trans. Softw. Eng. SE-4 (May), 254-258.
+STONE, H. S., AND BOKHARI, S. H. 1978. Control of distributed processes. Computer 11 (July), 97-106.
+Michael Stonebraker, Operating system support for database management, Communications of the ACM, v.24 n.7, p.412-418, July 1981[doi>10.1145/358699.358703]
+H. Sturgis , J. Mitchell , J. Israel, Issues in the design and use of a distributed file system, ACM SIGOPS Operating Systems Review, v.14 n.3, p.55-69, July 1980[doi>10.1145/850697.850705]
+SVENTEK, J., GREIMAN, W., O'DELL, M., AND JANSEN, A. 1983. Token ring local networks-- A comparison of experimental and theoretical performance. Lawrence Berkeley Lab. Rep. 16254.
+Liba Svobodova, A reliable object-oriented data repository for a distributed computer system, Proceedings of the eighth ACM symposium on Operating systems principles, p.47-58, December 14-16, 1981, Pacific Grove, California, United States[doi>10.1145/800216.806591]
+Liba Svobodova, File servers for network-based distributed systems, ACM Computing Surveys (CSUR), v.16 n.4, p.353-398, Dec. 1984[doi>10.1145/3872.3873]
+Daniel Swinehart , Gene McDaniel , David Boggs, WFS a simple shared file system for a distributed environment, Proceedings of the seventh ACM symposium on Operating systems principles, p.9-17, December 10-12, 1979, Pacific Grove, California, United States[doi>10.1145/800215.806564]
+TANENBAUM, A. S., AND MULLENDER, S. J. 1982. Operating system requirements for distributed data base systems. In Distributed Data Bases, H.-J. Schneider, Ed. North-Holland Publ., Amsterdam, pp. 105-114.
+TANENBAUM, A. S., MULLENDER, S. J., AND VAN RENF. SSE, R. 1986. Using sparse capabilities in a distributed operating system. In Proceedings of the 6th International Conference on Distributed Computer Systems. IEEE, New York, 1986, pp. 558-563.
+VAN TILBORG, A. M., AND WITTIE, L. D. 1981. Wave scheduling: Distributed allocation of task forces in network computers. In Proceedings of the 2nd International Conference on Distributed Computing Systems. IEEE, New York, pp. 337-347.
+Bruce Walker , Gerald Popek , Robert English , Charles Kline , Greg Thiel, The LOCUS distributed operating system, Proceedings of the ninth ACM symposium on Operating systems principles, p.49-70, October 10-13, 1983, Bretton Woods, New Hampshire, United States[doi>10.1145/800217.806615]
+WAMBECQ, A. 1983. NETIX: A network-using operating system, based on UNIX software. In Proceedings of the NFWO-ENRS Contact Group (Leuven, Belgium, Mar.).
+Matthew J. Weinstein , Thomas W. Page, Jr. , Brian K. Livezey , Gerald J. Popek, Transactions and synchronization in a distributed operating system, Proceedings of the tenth ACM symposium on Operating systems principles, p.115-126, December 1985, Orcas Island, Washington, United States[doi>10.1145/323647.323640]
+Maurice V. Wilkes , Roger M. Needham, The Cambridge Model Distributed System, ACM SIGOPS Operating Systems Review, v.14 n.1, p.21-29, January 1980[doi>10.1145/850693.850695]
+WITTIE, L., AND CURTIS, R. 1985. Time management for debugging distributed systems. In Proceedings of the 5th International Conference on Distributed Computing Systems (May). IEEE, New York, pp. 549-551.
+WITTIE, L. D., AND VAN TILBORG, A. M. 1980. MICROS, a distributed operating system for MI- CRONET, a reconfigurable network computer. IEEE Trans. Comput C-29 (Dec.), 1133-1144.
+A. Wupit, Comparison of UNIX network systems, Proceedings of the 1983 ACM SIGSMALL symposium on Personal and small computers, p.99-108, December 07-09, 1983, San Diego, California, United States[doi>10.1145/800219.806656]
+ZIMMERMANN, H. 1980. OSI reference model--The iSO model of architecture for open systems interconnection. IEEE Trans. Commun. COM-28 (Apr.), 425-432.
+ZIMMERMANN, H., BAN~NO, J.-S., C^RISTAN, A., GUiLLEMONT, M., AND MORISSET, G. 1981. Basic concepts for the support of distributed systems: The chorus approach. In Proceedings of the 2nd International Conference on Distributed Computing Systems. IEEE, New York, pp. 6O-66.

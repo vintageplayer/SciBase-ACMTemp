@@ -1,0 +1,116 @@
+Ole Agesen, Concrete type inference: delivering object-oriented applications, Stanford University, Stanford, CA, 1996
+Ole Agesen , Urs Hölzle, Type feedback vs. concrete type inference: a comparison of optimization techniques for object-oriented languages, ACM SIGPLAN Notices, v.30 n.10, p.91-107, Oct. 17, 1995[doi>10.1145/217839.217847]
+Bowen Alpern , C. R. Attanasio , Anthony Cocchi , Derek Lieber , Stephen Smith , Ton Ngo , John J. Barton , Susan Flynn Hummel , Janice C. Sheperd , Mark Mergen, Implementing jalapeño in Java, ACM SIGPLAN Notices, v.34 n.10, p.314-324, Oct. 1999[doi>10.1145/320385.320418]
+Bowen Alpern , Anthony Cocchi , Stephen Fink , David Grove, Efficient implementation of Java interfaces: Invokeinterface considered harmless, ACM SIGPLAN Notices, v.36 n.11, p.108-124, 11/01/2001[doi>10.1145/504311.504291]
+Bowen Alpern , Anthony Cocchi , David Grove, Dynamic type checking in jalapeño, Proceedings of the 2001 Symposium on JavaTMVirtual Machine Research and Technology Symposium, p.4-4, April 23-24, 2001, Monterey, California
+Davide Ancona , Giovanni Lagorio , Elena Zucca, Jam---designing a Java extension with mixins, ACM Transactions on Programming Languages and Systems (TOPLAS), v.25 n.5, p.641-712, September 2003[doi>10.1145/937563.937567]
+André, P. and Royer, J.-C. 1992. Optimizing method search with lookup caches and incremental coloring. ACM SIGPLAN Not. 27, 10, 110--126.
+Arnold, M., Fink, S., Grove, D., Hind, M., and Sweeney, P. 2005. A survey of adaptive optimization in virtual machines. Proc. IEEE 93, 2, 449--466.
+David F. Bacon , Peter F. Sweeney, Fast static analysis of C++ virtual function calls, ACM SIGPLAN Notices, v.31 n.10, p.324-341, Oct. 1996[doi>10.1145/236338.236371]
+Stephen M. Blackburn , Robin Garner , Chris Hoffmann , Asjad M. Khang , Kathryn S. McKinley , Rotem Bentzur , Amer Diwan , Daniel Feinberg , Daniel Frampton , Samuel Z. Guyer , Martin Hirzel , Antony Hosking , Maria Jump , Han Lee , J. Eliot B. Moss , Aashish Phansalkar , Darko Stefanović , Thomas VanDrunen , Daniel von Dincklage , Ben Wiedermann, The DaCapo benchmarks: java benchmarking development and analysis, ACM SIGPLAN Notices, v.41 n.10, October 2006[doi>10.1145/1167515.1167488]
+Boehm, H.-J. 1993. Space-efficient conservative garbage collection. ACM SIGPLAN Not. 28, 6, 197--206.
+Boucher, D. 2000. GOld: A link-time optimizer for Scheme. In Proceedings of the Workshop on Scheme and Functional Programming. (Rice Tech. rep. 00-368, 1--12.)
+John Boyland , Giuseppe Castagna, Type-Safe Compilation of Covariant Specialization: A Practical Case, Proceedings of the 10th European Conference on Object-Oriented Programming, p.3-25, July 08-12, 1996
+Bracha, G. and Cook, W. 1990. Mixin-based inheritance. ACM SIGPLAN Not. 25, 10, 303--311.
+Kevin Burton, Net Common Language Runtimeunleashed, Sams, Indianapolis, IN, 2002
+Calder, B. and Grunwald, D. 1994. Reducing indirect function call overhead in C++ programs. In Proceedings of the 21st ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL'94). ACM, New York, 397--408.
+Cargill, T. A. 1991. Controversy: The case against multiple inheritance in C++. Comput. Syst. 4, 1, 69--82.
+Giuseppe Castagna, Object-oriented programming: a unified foundation, Birkhauser Boston Inc., Cambridge, MA, 1997
+Chambers, C. and Ungar, D. 1989. Customization: Optimizing compiler technology for SELF, a dynamically-typed object-oriented language. ACM SIGPLAN Not. 24, 10, 146--160.
+Chen, W., Turau, V., and Klas, W. 1994. Efficient dynamic look-up strategy for multi-methods. In Proceedings of the European Conference on Object-Oriented Programming. Lecture Notes in Computer Science, vol. 821, Springer, Berlin, 408--431.
+Trishul M. Chilimbi , Bob Davidson , James R. Larus, Cache-conscious structure definition, ACM SIGPLAN Notices, v.34 n.5, p.13-24, May 1999[doi>10.1145/301631.301635]
+Cliff Click , John Rose, Fast subtype checking in the HotSpot JVM, Proceedings of the 2002 joint ACM-ISCOPE conference on Java Grande, p.96-107, November 03-05, 2002, Seattle, Washington, USA[doi>10.1145/583810.583821]
+Cohen, N. H. 1991. Type-extension type tests can be performed in constant time. ACM Trans. Program. Lang. Syst. 13, 4, 626--629.
+Suzanne Collin , Dominique Colnet , Olivier Zendra, Type Inference for Late Binding: The SmallEiffel Compiler, Proceedings of the Joint Modular Languages Conference on Modular Programming Languages, p.67-81, March 19-21, 1997
+Cook, W. R. 1989. A proposal for making Eiffel type-safe. In Proceedings of the European Conference on Object-Oriented Programming. S. Cook, Ed., Cambridge University Press, 57--70.
+Zbigniew J. Czech , George Havas , Bohdan S. Majewski, Perfect hashing, Theoretical Computer Science, v.182 n.1-2, p.1-143, Aug. 1997[doi>10.1016/S0304-3975(96)00146-6]
+Jeffrey Dean , Craig Chambers , David Grove, Selective specialization for object-oriented languages, ACM SIGPLAN Notices, v.30 n.6, p.93-102, June 1995[doi>10.1145/223428.207119]
+Jeffrey Dean , David Grove , Craig Chambers, Optimization of Object-Oriented Programs Using Static Class Hierarchy Analysis, Proceedings of the 9th European Conference on Object-Oriented Programming, p.77-101, August 07-11, 1995
+Dijkstra, E. W. 1960. Recursive programming. Numer. Math. 2, 312--318.
+Dixon, R., McKee, T., Schweitzer, P., and Vaughan, M. 1989. A fast method dispatcher for compiled languages with multiple inheritance. ACM SIGPLAN Not. 24, 10, 211--214.
+Karel Driesen, Efficient Polymorphic Calls, Kluwer Academic Publishers, Norwell, MA, 2001
+Karel Driesen , Urs Hölzle, Minimizing row displacement dispatch tables, ACM SIGPLAN Notices, v.30 n.10, p.141-155, Oct. 17, 1995[doi>10.1145/217839.217851]
+Karel Driesen , Urs Hölzle, The direct cost of virtual function calls in C++, ACM SIGPLAN Notices, v.31 n.10, p.306-323, Oct. 1996[doi>10.1145/236338.236369]
+Karel Driesen , Urs Hölzle , Jan Vitek, Message Dispatch on Pipelined Processors, Proceedings of the 9th European Conference on Object-Oriented Programming, p.253-282, August 07-11, 1995
+Olivier Zendra , Karel Driesen, Stress-testing Control Structures for Dynamic Dispatch in Java, Proceedings of the 2nd Java Virtual Machine Research and Technology Symposium, p.105-118, August 01-02, 2002
+Ducournau, R. 1991. Yet Another Frame-based Object-Oriented Language: YAFOOL Reference Manual. Sema Group, Montrouge, France.
+Ducournau, R. 1997. La compilation de l'envoi de message dans les langages dynamiques. L'Objet 3, 3, 241--276.
+Roland Ducournau, Coloring, a versatile technique for implementing object-oriented languages, Software—Practice & Experience, v.41 n.6, p.627-659, May 2011[doi>10.1002/spe.1022]
+Roland Ducournau, Perfect hashing as an almost perfect subtype test, ACM Transactions on Programming Languages and Systems (TOPLAS), v.30 n.6, p.1-56, October 2008[doi>10.1145/1391956.1391960]
+Ducournau, R., Habib, M., Huchard, M., and Mugnier, M.-L. 1994. Proposal for a monotonic multiple inheritance linearization. ACM SIGPLAN Not. 29, 10, 164--175.
+Roland Ducournau , Floréal Morandat, Perfect class hashing and numbering for object-oriented implementation, Software—Practice & Experience, v.41 n.6, p.661-694, May 2011[doi>10.1002/spe.1024]
+Roland Ducournau , Floréal Morandat , Jean Privat, Empirical assessment of object-oriented implementations with multiple inheritance and static typing, ACM SIGPLAN Notices, v.44 n.10, October 2009[doi>10.1145/1639949.1640093]
+Roland Ducournau , Jean Privat, Metamodeling semantics of multiple inheritance, Science of Computer Programming, v.76 n.7, p.555-586, July, 2011[doi>10.1016/j.scico.2010.10.006]
+Eric Dujardin , Eric Amiel , Eric Simon, Fast algorithms for compressed multimethod dispatch table generation, ACM Transactions on Programming Languages and Systems (TOPLAS), v.20 n.1, p.116-165, Jan. 1998[doi>10.1145/271510.271521]
+Natalie Eckel , Joseph Gil, Empirical Study of Object-Layout Strategies and Optimization Techniques, Proceedings of the 14th European Conference on Object-Oriented Programming, p.394-421, June 12-16, 2000
+Ellis, M. and Stroustrup, B. 1990. The Annotated C++ Reference Manual. Addison-Wesley, Reading, MA.
+Erik Ernst, Safe dynamic multiple inheritance, Nordic Journal of Computing, v.9 n.3, p.191-208, September 2002
+Manuel Fähndrich , K. Rustan M. Leino, Declaring and checking non-null types in an object-oriented language, ACM SIGPLAN Notices, v.38 n.11, November 2003[doi>10.1145/949343.949332]
+Etienne M. Gagnon , Laurie J. Hendren, SableVM: a research framework for the efficient execution of java bytecode, Proceedings of the 2001 Symposium on JavaTMVirtual Machine Research and Technology Symposium, p.3-3, April 23-24, 2001, Monterey, California
+Garey, M. R. and Johnson, D. S. 1979. Computers and Intractability. A Guide to the Theory of NP-Completeness. W. H. Freeman Co., San Francisco, CA.
+Joseph Gil , Alon Itai, The Complexity of Type Analysis of Object Oriented Programs, Proceedings of the 12th European Conference on Object-Oriented Programming, p.601-634, July 20-24, 1998
+Peter F. Sweeney , Joseph (Yossi) Gil, Space and time-efficient memory layout for multiple inheritance, ACM SIGPLAN Notices, v.34 n.10, p.256-275, Oct. 1999[doi>10.1145/320385.320408]
+Joseph (Yossi) Gil , Yoav Zibin, Efficient subtyping tests with PQ-encoding, ACM Transactions on Programming Languages and Systems (TOPLAS), v.27 n.5, p.819-856, September 2005[doi>10.1145/1086642.1086643]
+Joseph (Yossi) Gil , Yoav Zibin, Efficient dynamic dispatching with type slicing, ACM Transactions on Programming Languages and Systems (TOPLAS), v.30 n.1, p.5-es, November 2007[doi>10.1145/1290520.1290525]
+Goldberg, A. and Robson, D. 1983. Smalltalk-80, the Language and its Implementation. Addison-Wesley, Reading, MA.
+James Gosling , Bill Joy , Guy Steele , Gilad Bracha, Java(TM) Language Specification, The (3rd Edition) (Java (Addison-Wesley)), Addison-Wesley Professional, 2005
+David Grove , Craig Chambers, A framework for call graph construction algorithms, ACM Transactions on Programming Languages and Systems (TOPLAS), v.23 n.6, p.685-746, November 2001[doi>10.1145/506315.506316]
+Holst, W., Szafron, D., Leontiev, Y., and Pang, C. 1998. Multi-method dispatch using single-receiver projections. Tech. rep. TR-98-03, University of Alberta, Edmonton.
+Hölzle, U., Chambers, C., and Ungar, D. 1991. Optimizing dynamically-typed object-oriented languages with polymorphic inline caches. In Proceedings of the European Conference on Object-Oriented Programming, P. America Ed. Lecture Notes in Computer Science, vol. 512, Springer, Berlin, 21--38.
+Marianne Huchard , Herve Leblanc, Computing Interfaces in Java, Proceedings of the 15th IEEE international conference on Automated software engineering, p.317, September 11-15, 2000
+Hullot, J.-M. 1985. Ceyx version 15. Tech. rep. 44-46, INRIA.
+Dan Ingalls , Ted Kaehler , John Maloney , Scott Wallace , Alan Kay, Back to the future: the story of Squeak, a practical Smalltalk written in itself, ACM SIGPLAN Notices, v.32 n.10, p.318-326, Oct. 1997[doi>10.1145/263700.263754]
+Jones, R. and Lins, R. 1996. Garbage Collection. Wiley, New York.
+Jul, E. 2008. Precomputing method lookup. In Proceedings of the 22nd European Conference on Object-Oriented Programming (ECOOP'08).
+Andrew Kennedy , Don Syme, Design and implementation of generics for the .NET Common language runtime, ACM SIGPLAN Notices, v.36 n.5, p.1-12, May 2001[doi>10.1145/381694.378797]
+Kiczales, G. and Rodriguez, L. 1990. Efficient method dispatch in PCL. In Proceedings of the ACM Conference on Lisp and Functional Programming. ACM, New York, 99--105.
+Knuth, D. E. 1973. The Art of Computer Programming, Sorting and Searching. Vol. 3. Addison- Wesley, Reading, MA.
+Koenig, A. 1998. Standard -- The C++ language. Tech. rep. ISO/IEC 14882:1998.
+Information Technology Council (NCTIS). http://www.nctis.org/cplusplus.htm.
+Krall, A. and Grafl, R. 1997. CACAO - A 64 bits JavaVM just-in-time compiler. Concurrency. Pract. Exper. 9, 11, 1017--1030.
+Krogdahl, S. 1985. Multiple inheritance in Simula-like languages. BIT 25, 2, 318--326.
+Stanley B. Lippman, Inside the C++ object model, Addison Wesley Longman Publishing Co., Inc., Redwood City, CA, 1996
+Liskov, B., Curtis, D., Day, M., Ghemawat, S., Gruber, R., Johnson, P., and Myers, A. C. 1995. THETA Reference Manual. Tech. rep. MIT, Cambridge, MA.
+Meyer, B. 1992. Eiffel:The Language. Prentice-Hall, Englewood Cliffs, NJ.
+Bertrand Meyer, Object-oriented software construction (2nd ed.), Prentice-Hall, Inc., Upper Saddle River, NJ, 1997
+Jon Meyer , Troy Downing, Java virtual machine, O'Reilly & Associates, Inc., Sebastopol, CA, 1997
+Microsoft. 2001. C&num; language specifications, v0.28. Tech. rep. Microsoft Corp.
+Mugridge, W. B., Hamer, J., and Hosking, J. G. 1991. Multi-methods in a statically-typed programming language. In Proceedings of the European Conference on Object-Oriented Programming. P. America Ed. Lecture Notes in Computer Science, vol. 512. Springer, Berlin, 307--324.
+S. Muthukrishnan , Martin Müller, Time and space efficient method-lookup for object-oriented programs, Proceedings of the seventh annual ACM-SIAM symposium on Discrete algorithms, p.42-51, January 28-30, 1996, Atlanta, Georgia, USA
+Andrew C. Myers, Bidirectional object layout for separate compilation, ACM SIGPLAN Notices, v.30 n.10, p.124-139, Oct. 17, 1995[doi>10.1145/217839.217849]
+Martin Odersky , Lex Spoon , Bill Venners, Programming in Scala: A Comprehensive Step-by-step Guide, Artima Incorporation, 2008
+Martin Odersky , Philip Wadler, Pizza into Java: translating theory into practice, Proceedings of the 24th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.146-159, January 15-17, 1997, Paris, France[doi>10.1145/263699.263715]
+Palacz, K. and Vitek, J. 2003. Java subtype tests in real-time. In Proceedings of the European Conference on Object-Oriented Programming. L. Cardelli Ed., Lecture Notes in Computer Science, vol. 2743. Springer, Berlin, 378--404.
+Jean Privat , Roland Ducournau, Link-time static analysis for efficient separate compilation of object-oriented languages, Proceedings of the 6th ACM SIGPLAN-SIGSOFT workshop on Program analysis for software tools and engineering, September 05-06, 2005, Lisbon, Portugal[doi>10.1145/1108792.1108799]
+Pugh, W. and Weddell, G. 1990. Two-directional record layout for multiple inheritance. ACM SIGPLAN Not. 25, 6, 85--91.
+Pugh, W. and Weddell, G. E. 1993. On object layout for multiple inheritance. Tech. rep., CS-93-22, University of Waterloo.
+Christian Queinnec, Fast and compact dispatching for dynamic object-oriented languages, Information Processing Letters, v.64 n.6, p.315-321, Dec. 29, 1997[doi>10.1016/S0020-0190(97)00192-0]
+Olivier Raynaud , Eric Thierry, A Quasi Optimal Bit-Vector Encoding of Tree Hierarchies. Application to Efficient Type Inclusion Tests, Proceedings of the 15th European Conference on Object-Oriented Programming, p.165-180, June 18-22, 2001
+Sakkinen, M. 1989. Disciplined inheritance. In Proceedings of the European Conference on Object-Oriented Programming. S. Cook Ed. Cambridge University Press, 39--58.
+Sakkinen, M. 1992. A critique of the inheritance principles of C++. Comput. Syst. 5, 1, 69--110.
+Schubert, L., Papalaskaris, M., and Taugher, J. 1983. Determining type, part, color and time relationship. Computer 16, 53--60.
+Shang, D. L. 1996. Are cows animals&quest; http://www.visviva.com/transframe/papers/covar.htm.
+Shivers, O. 1991. Control-flow analysis of higher-order languages. Ph.D. dissertation, Carnegie Mellon University.
+Yannis Smaragdakis , Don Batory, Mixin layers: an object-oriented implementation technique for refinements and collaboration-based designs, ACM Transactions on Software Engineering and Methodology (TOSEM), v.11 n.2, p.215-255, April 2002[doi>10.1145/505145.505148]
+Sprugnoli, R. 1977. Perfect hashing functions: A single probe retrieving method for static sets. Commun. ACM 20, 11, 841--850.
+Steele, G. L. 1990. Common Lisp, the Language. 2nd Ed. Digital Press.
+Stefik, M. and Bobrow, D. 1986. Object-oriented programming: Themes and variations. AI Magazine 6, 4, 40--62.
+Bjarne Stroustrup, The  C++ Programming Language, Third Edition, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1997
+Peter F. Sweeney , Michael Burke, Quantifying and evaluating the space overhead for alternative C++ memory layouts, Software—Practice & Experience, v.33 n.7, p.595-636, June 2003[doi>10.1002/spe.519]
+S. Tucker Taft , Robert A. Duff , Randall L. Brukardt , Erhard Ploedereder , Pascal Leroy, Ada 2005 reference manual: language and standard libraries, Springer-Verlag, Berlin, Heidelberg, 2006
+Tarjan, R. E. and Yao, A.C. C. 1979. Storing a sparse table. Comm. ACM 22, 11, 606--611.
+Frank Tip , Peter F. Sweeney, Class hierarchy specialization, Acta Informatica, v.36 n.12, p.927-982, Jan. 2000[doi>10.1007/PL00013298]
+Torgersen, M. 1998. Virtual types are statically safe. In Proceedings of the 5th Workshop on Foundations of Object-Oriented Languages (FOOL 5).
+Ungar, D. and Smith, R. 1987. SELF: The power of simplicity. ACM SIGPLAN Not. 22,12, 227--242.
+Michael VanHilst , David Notkin, Using role components in implement collaboration-based designs, ACM SIGPLAN Notices, v.31 n.10, p.359-369, Oct. 1996[doi>10.1145/236338.236375]
+Vitek, J. and Horspool, R. N. 1994. Taming message passing: Efficient method look-up for dynamically typed languages. In Proceedings of the European Conference on Object-Oriented Programming. M. Tokoro and R. Pareschi Eds. Lecture Notes in Computer Science, vol. 821. Springer, Berlin, 432--449.
+Jan Vitek , R. Nigel Horspool , Andreas Krall, Efficient type inclusion tests, ACM SIGPLAN Notices, v.32 n.10, p.142-157, Oct. 1997[doi>10.1145/263700.263730]
+Vitter, J. S. and Flajolet, P. 1990. Average-case analysis of algorithms and data structures. In Algorithms and Complexity. Handbook of Theoretical Computer Science. Vol. 1, J. Van Leeuwen Ed. Elsevier, Amsterdam, 431--524.
+Waldo, J. 1991. Controversy: The case for multiple inheritance in C++. Comput. Syst. 4, 2, 157--171.
+Tiejun Wang , Scott F. Smith, Precise Constraint-Based Type Inference for Java, Proceedings of the 15th European Conference on Object-Oriented Programming, p.99-117, June 18-22, 2001
+Weber, F. 1992. Getting class correctness and system correctness equivalent—How to get covariant right. In Proceedings of the Conference on Technology of Object-Oriented Languages and Systems (TOOLS 8). R. Ege et al. Eds. 192--213.
+Wilson, P. R. 1992. Uniprocessor garbage collection techniques. In Proceedings of the International Workshop on Memory Management (IWMM'92). Lecture Notes in Computer Science, vol. 637, Springer, Berlin, 1--42.
+Olivier Zendra , Dominique Colnet , Suzanne Collin, Efficient dynamic dispatch without virtual function tables: the SmallEiffel compiler, ACM SIGPLAN Notices, v.32 n.10, p.125-141, Oct. 1997[doi>10.1145/263700.263728]
+Yoav Zibin , Joseph Yossi Gil, Fast algorithm for creating space efficient dispatching tables with application to multi-dispatching, ACM SIGPLAN Notices, v.37 n.11, November 2002[doi>10.1145/583854.582434]
+Yoav Zibin , Joseph (Yossi) Gil, Incremental algorithms for dispatching in dynamically typed languages, ACM SIGPLAN Notices, v.38 n.1, p.126-138, January 2003[doi>10.1145/640128.604143]
+Zibin, Y. and Gil, J. 2003b. Two-dimensional bi-directional object layout. In Proceedings of the European Conference on Object-Oriented Programming. L. Cardelli Ed. Lecture Notes in Computer Science, vol. 2743, Springer, Berlin, 329--350.

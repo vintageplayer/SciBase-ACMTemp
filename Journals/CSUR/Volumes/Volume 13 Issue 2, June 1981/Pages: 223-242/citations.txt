@@ -1,0 +1,142 @@
+Kjetil Nørvåg, Object and Log Management in Temporal Log-Only Object Database Systems, Proceedings of the 5th East European Conference on Advances in Databases and Information Systems, p.210-224, September 25-28, 2001
+Matthew S. Hecht , John D. Gabbe, Shadowed management of free disk pages with a linked list, ACM Transactions on Database Systems (TODS), v.8 n.4, p.503-514, Dec. 1983
+Kjetil Nørvåg, A comparative study of log-only and in-place update based temporal object database systems, Proceedings of the ninth international conference on Information and knowledge management, p.496-503, November 06-11, 2000, McLean, Virginia, USA
+Francis C. M. Lau , Atul Asthana, Yet another history mechanism for command interpretors, ACM SIGPLAN Notices, v.19 n.3, p.51-56, March 1984
+C. Mohan , Inderpal Narang, An efficient and flexible method for archiving a data base, ACM SIGMOD Record, v.22 n.2, p.139-146, June 1, 1993
+J. Eliot B. Moss, Log-Based Recovery for Nested Transactions, Proceedings of the 13th International Conference on Very Large Data Bases, p.427-432, September 01-04, 1987
+Won-Young Kim , Kyu-Young Whang , Byung Suk Lee , Young-Koo Lee , Ji-Woong Chang, Partial rollback in object-oriented/object-relational database management systems, Proceedings of the eleventh international conference on Information and knowledge management, November 04-09, 2002, McLean, Virginia, USA
+Zhongtang Cai , Vibhore Kumar , Brian F. Cooper , Greg Eisenhauer , Karsten Schwan , Robert E. Strom, Utility-driven proactive management of availability in enterprise-scale information flows, Proceedings of the ACM/IFIP/USENIX 2006 International Conference on Middleware, November 01-01, 2006, Melbourne, Australia
+C. Mohan , Frank Levine, ARIES/IM: an efficient and high concurrency index management method using write-ahead logging, ACM SIGMOD Record, v.21 n.2, p.371-380, June 1, 1992
+Kjetil Nrvåg, The Vagabond Approach to Logging and Recovery in Transaction-Time Temporal Object Database Systems, IEEE Transactions on Knowledge and Data Engineering, v.16 n.4, p.504-518, April 2004
+David B. Lomet, High speed on-line backup when using logical log operations, ACM SIGMOD Record, v.29 n.2, p.34-45, June 2000
+J. Kent , H. Garcia-Molina, Optimizing Shadow Recovery Algorithms, IEEE Transactions on Software Engineering, v.14 n.2, p.155-168, February 1988
+Zhongtang Cai , Vibhore Kumar , Brian F. Cooper , Greg Eisenhauer , Karsten Schwan , Robert E. Strom, Utility-driven proactive management of availability in enterprise-scale information flows, Proceedings of the 7th ACM/IFIP/USENIX international conference on Middleware, November 27-December 01, 2006, Melbourne, Australia
+David Lomet , Mark Tuttle, Logical logging to extend recovery to new domains, ACM SIGMOD Record, v.28 n.2, p.73-84, June 1999
+C. Mohan , B. Lindsay, Efficient commit protocols for the tree of processes model of distributed transactions, ACM SIGOPS Operating Systems Review, v.19 n.2, p.40-52, April 1985
+John S. Keen , William J. Dally, Performance evaluation of ephemeral logging, ACM SIGMOD Record, v.22 n.2, p.187-196, June 1, 1993
+C. Mohan , B. Lindsay, Efficient commit protocols for the tree of processes model of distributed transactions, Proceedings of the second annual ACM symposium on Principles of distributed computing, p.76-88, August 17-19, 1983, Montreal, Quebec, Canada
+Won-Young Kim , Byung Suk Lee , Kyu-Young Whang, Partial rollback in object-oriented/object-relational database management systems with dual buffer, Information and Software Technology, v.48 n.2, p.121-132, February, 2006
+K. Rothermel , C. Mohan, ARIES/NT: a recovery method based on write-ahead logging for nested transactions, Proceedings of the 15th international conference on Very large data bases, p.337-346, July 1989, Amsterdam, The Netherlands
+Anita Borg , Wolfgang Blau , Wolfgang Graetsch , Ferdinand Herrmann , Wolfgang Oberle, Fault tolerance under UNIX, ACM Transactions on Computer Systems (TOCS), v.7 n.1, p.1-24, Feb. 1989
+David B. Lomet , Mark R. Tuttle, Redo Recovery after System Crashes, Proceedings of the 21th International Conference on Very Large Data Bases, p.457-468, September 11-15, 1995
+Jayson Speer , Markus Kirchberg, C-ARIES: a multi-threaded version of the ARIES recovery algorithm, Proceedings of the 18th international conference on Database and Expert Systems Applications, September 03-07, 2007, Regensburg, Germany
+C. Mohan, ARIES/KVL: A Key-Value Locking Method for Concurrency Control of Multiaction Transactions Operating on B-Tree Indexes, Proceedings of the 16th International Conference on Very Large Data Bases, p.392-405, August 13-16, 1990
+Sal Valente , Andrew Grimshaw, Replicated Grid Resources, Proceedings of the 2011 IEEE/ACM 12th International Conference on Grid Computing, p.198-206, September 21-23, 2011
+K.-L. Wu , W. K. Fuchs, Rapid Transaction-Undo Recovery Using Twin-Page Storage Management, IEEE Transactions on Software Engineering, v.19 n.2, p.155-164, February 1993
+David Lomet , Mark Tuttle, A theory of redo recovery, Proceedings of the 2003 ACM SIGMOD international conference on Management of data, June 09-12, 2003, San Diego, California
+Bruce G. Lindsay, Jim Gray at IBM: the transaction processing revolution, ACM SIGMOD Record, v.37 n.2, June 2008
+C. Mohan , Hamid Pirahesh , Raymond Lorie, Efficient and flexible methods for transient versioning of records to avoid locking by read-only transactions, ACM SIGMOD Record, v.21 n.2, p.124-133, June 1, 1992
+Toshimi Minoura , S. Sitharama Iyengar, Data and Time Abstraction Techniques for Analyzing Multilevel Concurrent Systems, IEEE Transactions on Software Engineering, v.15 n.1, p.47-59, January 1989
+Calton Pu, On-the-fly, incremental, consistent reading of entire databases, Proceedings of the 11th international conference on Very Large Data Bases, p.369-375, August 21-23, 1985, Stockholm, Sweden
+Erik T. Mueller , Johanna D. Moore , Gerald J. Popek, A nested transaction mechanism for LOCUS, ACM SIGOPS Operating Systems Review, v.17 n.5, p.71-89, October 1983
+Frank Schmuck , Jim Wylie, Experience with transactions in QuickSilver, ACM SIGOPS Operating Systems Review, v.25 n.5, p.239-253, Oct. 1991
+David J DeWitt , Randy H Katz , Frank Olken , Leonard D Shapiro , Michael R Stonebraker , David Wood, Implementation techniques for main memory database systems, ACM SIGMOD Record, v.14 n.2, June 1984
+David Lomet , Mohamed F. Mokbel, Locking key ranges with unbundled transaction services, Proceedings of the VLDB Endowment, v.2 n.1, August 2009
+B. Liskov , D. Curtis , P. Johnson , R. Scheifer, Implementation of Argus, ACM SIGOPS Operating Systems Review, v.21 n.5, p.111-122, Nov. 1987
+James E. Archer, Jr. , Richard Conway , Fred B. Schneider, User Recovery and Reversal in Interactive Systems, ACM Transactions on Programming Languages and Systems (TOPLAS), v.6 n.1, p.1-19, Jan. 1984
+W. E. Weihl, The impact of recovery on concurrency control, Proceedings of the eighth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.259-269, March 1989, Philadelphia, Pennsylvania, United States
+Bruce G. Lindsay , Laura M. Haas , C. Mohan , Paul F. Wilms , Robert A. Yost, Computation and communication in R*: a distributed database manager, ACM Transactions on Computer Systems (TOCS), v.2 n.1, p.24-38, February 1984
+Rob Strom , Shaula Yemini, Optimistic recovery in distributed systems, ACM Transactions on Computer Systems (TOCS), v.3 n.3, p.204-226, Aug. 1985
+J. P. Armisen , J. Y. Caleca, A commercial back-end data base system, Proceedings of the seventh international conference on Very Large Data Bases, p.56-65, September 09-11, 1981, Cannes, France
+Long Sun , Youyou Lu , Jiwu Shu, DP2: reducing transaction overhead with differential and dual persistency in persistent memory, Proceedings of the 12th ACM International Conference on Computing Frontiers, p.1-8, May 18-21, 2015, Ischia, Italy
+John A. Miller, Simulation of database transaction management protocols: hybrids and variants of time warp, Proceedings of the 24th conference on Winter simulation, p.1232-1241, December 13-16, 1992, Arlington, Virginia, United States
+Pradeep Reddy Varakantham , Santosh Kumar Gangwani , Kamalakar Karlapalem, On handling component and transaction failures in multi agent systems, ACM SIGecom Exchanges, v.3 n.1, p.32-43, Winter, 2002
+Michael J. Carey , David J. DeWitt , Jeffrey F. Naughton, The 007 Benchmark, ACM SIGMOD Record, v.22 n.2, p.12-21, June 1, 1993
+W. E. Weihl, Commutativity-Based Concurrency Control for Abstract Data Types, IEEE Transactions on Computers, v.37 n.12, p.1488-1505, December 1988
+Michel E. Adiba , Bruce G. Lindsay, Database snapshots, Proceedings of the sixth international conference on Very Large Data Bases, p.86-91, October 01-03, 1980, Montreal, Quebec, Canada
+Donald D. Chamberlin , Frank B. Schmuck, Dynamic Data Distribution (D3) in a Shared-Nothing Multiprocessor Data Store, Proceedings of the 18th International Conference on Very Large Data Bases, p.163-174, August 23-27, 1992
+Tobin J. Lehman , Michael J. Carey, A recovery algorithm for a high-performance memory-resident database system, ACM SIGMOD Record, v.16 n.3, p.104-117, Dec. 1987
+Patrick A. V. Hall, Adding database management to Ada, ACM SIGAda Ada Letters, v.II n.4, p.88-91, January/February 1983
+Theo Haerder , Kurt Rothermel, Concepts for transaction recovery in nested transactions, ACM SIGMOD Record, v.16 n.3, p.239-248, Dec. 1987
+Youyou Lu , Jiwu Shu , Long Sun, Blurred Persistence: Efficient Transactions in Persistent Memory, ACM Transactions on Storage (TOS), v.12 n.1, January 2016
+Klaus Elhardt , Rudolf Bayer, A database cache for high performance and fast restart in database systems, ACM Transactions on Database Systems (TODS), v.9 n.4, p.503-525, Dec. 1984
+Alexander Thomasian, Checkpointing for Optimistic Concurrency Control Methods, IEEE Transactions on Knowledge and Data Engineering, v.7 n.2, p.332-339, April 1995
+Alfred Z. Spector, Performing remote operations efficiently on a local computer network, Communications of the ACM, v.25 n.4, p.246-260, April 1982
+Shankar Pal , Sitaram Lanka, Isolation of transaction aborts in object-oriented database systems, Proceedings of the third international conference on Information and knowledge management, p.179-186, November 29-December 02, 1994, Gaithersburg, Maryland, United States
+William Brodie-Tyrrell , Henry Detmold , Katrina Falkner , David S. Munro, Garbage collection for storage-oriented clusters, Proceedings of the 27th Australasian conference on Computer science, p.99-108, January 01, 2004, Dunedin, New Zealand
+Barbara Liskov , Robert Scheifler, Guardians and Actions: Linguistic Support for Robust, Distributed Programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.3, p.381-404, July 1983
+Peter M. Schwarz , Alfred Z. Spector, Synchronizing shared abstract types, ACM Transactions on Computer Systems (TOCS), v.2 n.3, p.223-250, Aug. 1984
+Margaret H. Eich, Main memory database recovery, Proceedings of 1986 ACM Fall joint computer conference, p.1226-1232, November 1986, Dallas, Texas, United States
+William E. Weihl, Linguistic support for atomic data types, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.2, p.178-202, April 1990
+Patrick A. V. Hall, Adding database management to Ada, ACM SIGMOD Record, v.13 n.3, p.13-17, April 1983
+Andreas Reuter, Performance analysis of recovery techniques, ACM Transactions on Database Systems (TODS), v.9 n.4, p.526-559, Dec. 1984
+David B. Lomet, MLR: a recovery method for multi-level systems, ACM SIGMOD Record, v.21 n.2, p.185-194, June 1, 1992
+Gerhard Weikum , Christof Hasse , Peter Broessler , Peter Muth, Multi-level recovery, Proceedings of the ninth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.109-123, April 02-04, 1990, Nashville, Tennessee, United States
+Livio B Soares , Orran Y Krieger , Dilma Da Silva, Meta-data snapshotting: a simple mechanism for file system consistency, Proceedings of the international workshop on Storage network architecture and parallel I/Os, p.41-52, September 28-28, 2003, New Orleans, Louisiana
+Özalp Babaoğlu, Fault-tolerant computing based on Mach, ACM SIGOPS Operating Systems Review, v.24 n.1, p.27-39, Jan. 1990
+Peter Peinl , Andreas Reuter , Harald Sammer, High contention in a stock trading database: a case study, ACM SIGMOD Record, v.17 n.3, p.260-268, June 1988
+Won-Young Kim , Kyu-Young Whang , Young-Koo Lee , Sang-Wook Kim, A recovery method supporting user-interactive undo in database management systems, Information Sciences: an International Journal, v.114 n.1-4, p.237-253, March, 1999
+William Weihl , Barbara Liskov, Specification and implementation of resilient, atomic data types, ACM SIGPLAN Notices, v.18 n.6, p.53-64, June 1983
+E. Levy , A. Silberschatz, Incremental Recovery in Main Memory Database Systems, IEEE Transactions on Knowledge and Data Engineering, v.4 n.6, p.529-540, December 1992
+Michael J. Franklin , Michael J. Zwilling , C. K. Tan , Michael J. Carey , David J. DeWitt, Crash recovery in client-server EXODUS, ACM SIGMOD Record, v.21 n.2, p.165-174, June 1, 1992
+Gerhard Weikum , Hans-Jörg Schek, Architectural Issues of Transaction Management in Multi-Layered Systems, Proceedings of the 10th International Conference on Very Large Data Bases, p.454-465, August 27-31, 1984
+Akhil Kumar , Michael Stonebraker, Performance Evaluation of an Operating System Transaction Manager, Proceedings of the 13th International Conference on Very Large Data Bases, p.473-481, September 01-04, 1987
+William Weihl , Barbara Liskov, Implementation of resilient, atomic data types, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.2, p.244-269, April 1985
+Kyu-Young Whang , Ravi Krishnamurthy, Query optimization in a memory-resident domain relational calculus database system, ACM Transactions on Database Systems (TODS), v.15 n.1, p.67-95, March 1990
+Alexander Borgida, Language features for flexible handling of exceptions in information systems, ACM Transactions on Database Systems (TODS), v.10 n.4, p.565-603, Dec. 1985
+Michael Stonebraker , Randy H. Katz , David A. Patterson , John K. Ousterhout, The Design of XPRS, Proceedings of the 14th International Conference on Very Large Data Bases, p.318-330, August 29-September 01, 1988
+Goetz Graefe , Harumi Kuno, Definition, detection, and recovery of single-page failures, a fourth class of database failures, Proceedings of the VLDB Endowment, v.5 n.7, p.646-655, March 2012
+Boris Kogan , S. Jajodia, Concurrency control in multilevel-secure databases based on replicated architecture, ACM SIGMOD Record, v.19 n.2, p.153-162, Jun. 1990
+T. J. Lehman , B. G. Lindsay, The Starburst long field manager, Proceedings of the 15th international conference on Very large data bases, p.375-383, July 1989, Amsterdam, The Netherlands
+Elliot Kolodner , Barbara Liskov , William Weihl, Atomic garbage collection: managing a stable heap, ACM SIGMOD Record, v.18 n.2, p.15-25, June 1989
+Salvatore T. March , Gary D. Scudder, On the selection of efficient record segmentations and backup strategies for large shared databases, ACM Transactions on Database Systems (TODS), v.9 n.3, p.409-438, Sept. 1984
+SangKeun Lee , Chong-Sun Hwang , WonGye Lee, A uniform approach to global concurrency control and recovery in multidatabase environment, Proceedings of the sixth international conference on Information and knowledge management, p.51-58, November 10-14, 1997, Las Vegas, Nevada, United States
+John S. Keen , William J. Dally, Extended ephemeral logging: log storage management for applications with long lived transactions, ACM Transactions on Database Systems (TODS), v.22 n.1, p.1-42, March 1997
+John A. Miller , Nancy D. Griffeth, Performance modeling of database and simulation protocols: design choices for query driven simulation, Proceedings of the 24th annual symposium on Simulation, p.205-216, April 1991, New Orleans, Louisiana, United States
+Rakesh Agrawal , David J. DeWitt, Recovery architectures for multiprocessor database machines, ACM SIGMOD Record, v.14 n.4, p.131-145, May 1985
+M. R. Brown , K. N. Kolling , E. A. Taft, The Alpine file system, ACM Transactions on Computer Systems (TOCS), v.3 n.4, p.261-293, Nov. 1985
+Christof Hasse , Gerhard Weikum, A Performance Evaluation of Multi-Level Transaction Management, Proceedings of the 17th International Conference on Very Large Data Bases, p.55-66, September 03-06, 1991
+C. Mohan, Commit_LSN: A Novel and Simple Method for Reducing Locking and Latching in Transaction Processing Systems, Proceedings of the 16th International Conference on Very Large Data Bases, p.406-418, August 13-16, 1990
+Heiko Schuldt, Process locking: a protocol based on ordered shared locks for the execution of transactional processes, Proceedings of the twentieth ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems, p.289-300, May 2001, Santa Barbara, California, USA
+Akhil Kumar , Michael Stonebraker, Performance Considerations for an Operating System Transaction Manager, IEEE Transactions on Software Engineering, v.15 n.6, p.705-714, June 1989
+Alfred Z. Spector , Peter M. Schwarz, Transactions: a construct for reliable distributed computing, ACM SIGOPS Operating Systems Review, v.17 n.2, p.18-35, April 1983
+C. Mohan, IBM's relational DBMS products: features and technologies, ACM SIGMOD Record, v.22 n.2, p.445-448, June 1, 1993
+Gustavo Alonso , Stephen Blott , Armin Fessler , Hans-Jörg Schek, Correctness and parallelism in composite systems, Proceedings of the sixteenth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.197-208, May 11-15, 1997, Tucson, Arizona, USA
+A. Biliris, Operation specific locking in B-trees, Proceedings of the sixth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.159-169, March 23-25, 1987, San Diego, California, USA
+Wolfgang Effelsberg , Mary E. S. Loomis, Logical, internal, and physical reference behavior in CODASYL database systems, ACM Transactions on Database Systems (TODS), v.9 n.2, p.187-213, June 1984
+Gerhard Weikum, Pros and cons of operating system transactions for data base systems, Proceedings of 1986 ACM Fall joint computer conference, p.1219-1225, November 1986, Dallas, Texas, USA
+Craig A. N. Soules , Garth R. Goodson , John D. Strunk , Gregory R. Ganger, Metadata efficiency in versioning file systems, Proceedings of the 2nd USENIX conference on File and storage technologies, p.4-4, March 31-April 02, 2003, San Francisco, CA
+Hoang Tam Vo , Sheng Wang , Divyakant Agrawal , Gang Chen , Beng Chin Ooi, LogBase: a scalable log-structured database system in the cloud, Proceedings of the VLDB Endowment, v.5 n.10, p.1004-1015, June 2012
+Daniel A. Menascé , Oscar E. Landes, On the design of a reliable storage component for distributed database management systems, Proceedings of the sixth international conference on Very Large Data Bases, p.365-375, October 01-03, 1980, Montreal, Quebec, Canada
+Won Kim, Highly available systems for database applications, ACM Computing Surveys (CSUR), v.16 n.1, p.71-98, March 1984
+Kyu-Young Whang , Art Ammann , Anthony Bolmarcich , Maria Hanrahan , Guy Hochgesang , Kuan-Tsae Huang , Al Khorasani , Ravi Krishnamurthy , Gary Sockut , Paula Sweeney , Vance Waddle , Moshé Zloof, Office-by-example: an integrated office system and database manager, ACM Transactions on Information Systems (TOIS), v.5 n.4, p.393-427, Oct. 1987
+C. Mohan , B. Lindsay , R. Obermarck, Transaction management in the R* distributed database management system, ACM Transactions on Database Systems (TODS), v.11 n.4, p.378-396, Dec. 1986
+Craig A. N. Soules , Garth R. Goodson , John D. Strunk , Gregory R. Ganger, Metadata Efficiency in Versioning File Systems, Proceedings of the 2nd USENIX Conference on File and Storage Technologies, March 31-31, 2003, San Francisco, CA
+Joshua J. Bloch , Dean S. Daniels , Alfred Z. Spector, A weighted voting algorithm for replicated directories, Journal of the ACM (JACM), v.34 n.4, p.859-909, Oct. 1987
+Rober Haskin , Yoni Malachi , Gregory Chan, Recovery management in QuickSilver, ACM Transactions on Computer Systems (TOCS), v.6 n.1, p.82-108, Feb. 1988
+Michael J. Carey , Waleed A. Muhanna, The performance of multiversion concurrency control algorithms, ACM Transactions on Computer Systems (TOCS), v.4 n.4, p.338-378, Nov. 1986
+Goetz Graefe, A survey of B-tree logging and recovery techniques, ACM Transactions on Database Systems (TODS), v.37 n.1, p.1-35, February 2012
+Jacob R. Lorch , Andrew Baumann , Lisa Glendenning , Dutch T. Meyer , Andrew Warfield, Tardigrade: leveraging lightweight virtual machines to easily and efficiently construct fault-tolerant services, Proceedings of the 12th USENIX Conference on Networked Systems Design and Implementation, p.575-588, May 04-06, 2015, Oakland, CA
+A. El Abbadi , S. Toueg, Maintaining availability in partitioned replicated databases, ACM Transactions on Database Systems (TODS), v.14 n.2, p.264-290, June 1989
+W. Kim , J. F. Garza , N. Ballou , D. Woelk, Architecture of the ORION Next-Generation Database System, IEEE Transactions on Knowledge and Data Engineering, v.2 n.1, p.109-124, March 1990
+Wee Teck Ng , Peter M. Chen, Integrating Reliable Memory in Databases, Proceedings of the 23rd International Conference on Very Large Data Bases, p.76-85, August 25-29, 1997
+Joel Coburn , Trevor Bunker , Meir Schwarz , Rajesh Gupta , Steven Swanson, From ARIES to MARS: transaction support for next-generation, solid-state drives, Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems Principles, November 03-06, 2013, Farminton, Pennsylvania
+Sangkeun Lee , Chong-Sun Hwang , Heonchang Yu, Revisiting Transaction Management in Multidatabase Systems, Distributed and Parallel Databases, v.9 n.1, p.39-65, January 1, 2001
+Butler W. Lampson, Hints for computer system design, ACM SIGOPS Operating Systems Review, v.17 n.5, p.33-48, October 1983
+Butler Lampson, Personal distributed computing: the Alto and Ethernet software, Proceedings of the ACM Conference on The history of personal workstations, p.101-131, January 09-10, 1986, Palo Alto, California, United States
+B. Lampson, Personal distributed computing: the alto and ethernet software, A history of personal workstations, ACM, New York, NY, 1988
+Darrell Woelk , Won Kim , Willis Luther, An object-oriented approach to multimedia databases, ACM SIGMOD Record, v.15 n.2, p.311-325, June 1986
+Randy H. Katz, A database approach for managing VLSI design data, Proceedings of the 19th Design Automation Conference, p.274-282, January 1982
+Theo Haerder , Andreas Reuter, Principles of transaction-oriented database recovery, ACM Computing Surveys (CSUR), v.15 n.4, p.287-317, December 1983
+Wee Teck Ng , Peter M. Chen, Integrating reliable memory in databases, The VLDB Journal — The International Journal on Very Large Data Bases, v.7 n.3, p.194-204, August 1998
+Divyakant Agrawal , Amr El Abbadi , Richard Jeffers , Lijing Lin, Ordered shared locks for real-time databases, The VLDB Journal — The International Journal on Very Large Data Bases, v.4 n.1, p.87-126, January 1995
+Donald D. Chamberlin , A. M. Gilbert , Robert A. Yost, A history of system R and SQL/data system, Proceedings of the seventh international conference on Very Large Data Bases, p.456-464, September 09-11, 1981, Cannes, France
+Eric Koskinen , Junfeng Yang, Reducing crash recoverability to reachability, Proceedings of the 43rd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, January 20-22, 2016, St. Petersburg, FL, USA
+Rakesh Agrawal , David J. Dewitt, Integrated concurrency control and recovery mechanisms: design and performance evaluation, ACM Transactions on Database Systems (TODS), v.10 n.4, p.529-564, Dec. 1985
+Jorge F. Garza , Won Kim, Transaction management in an object-oriented database system, ACM SIGMOD Record, v.17 n.3, p.37-45, June 1988
+M. P. Grineva , M. N. Grinev, Query triggers for XML DBMS: Efficient implementation based on shadow mechanism, Programming and Computing Software, v.33 n.4, p.204-213, July 2007
+C. Mohan, Repeating History Beyond ARIES, Proceedings of the 25th International Conference on Very Large Data Bases, p.1-17, September 07-10, 1999
+Alfred Z. Spector , Dean Daniels , Daniel Duchamp , Jeffrey L. Eppinger , Randy Pausch, Distributed transactions for reliable systems, ACM SIGOPS Operating Systems Review, v.19 n.5, p.127-146, Dec. 1-4, 1985
+Susan B. Davidson , Hector Garcia-Molina , Dale Skeen, Consistency in a partitioned network: a survey, ACM Computing Surveys (CSUR), v.17 n.3, p.341-370, Sept. 1985
+H. -J. Schek , H. -B. Paul , M. H. Scholl , G. Weikum, The DASDBS Project: Objectives, Experiences, and Future Prospects, IEEE Transactions on Knowledge and Data Engineering, v.2 n.1, p.25-43, March 1990
+Nathan Goodman , Dale Skeen , Arvola Chan , Umeshwar Dayal , Stephen Fox , Daniel Ries, A recovery algorithm for a distributed database system, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia
+Gerhard Weikum , Christof Hasse, Multi-level transaction management for complex objects: implementation, performance, parallelism, The VLDB Journal — The International Journal on Very Large Data Bases, v.2 n.4, p.407-454, October 1993
+Philip A. Bernstein , Nathan Goodman, A Sophisticate's Introduction to Distributed Concurrency Control (Invited Paper), Proceedings of the 8th International Conference on Very Large Data Bases, p.62-76, September 08-10, 1982
+Haris Volos , Andres Jaan Tack , Michael M. Swift, Mnemosyne: lightweight persistent memory, ACM SIGARCH Computer Architecture News, v.39 n.1, March 2011
+C. Mohan , Don Haderle , Bruce Lindsay , Hamid Pirahesh , Peter Schwarz, ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging, ACM Transactions on Database Systems (TODS), v.17 n.1, p.94-162, March 1992
+Joy Arulraj , Andrew Pavlo , Subramanya R. Dulloor, Let's Talk About Storage & Recovery Methods for Non-Volatile Memory Database Systems, Proceedings of the 2015 ACM SIGMOD International Conference on Management of Data, May 31-June 04, 2015, Melbourne, Victoria, Australia
+Liba Svobodova, File servers for network-based distributed systems, ACM Computing Surveys (CSUR), v.16 n.4, p.353-398, Dec. 1984
+Gerhard Weikum, Principles and realization strategies of multilevel transaction management, ACM Transactions on Database Systems (TODS), v.16 n.1, p.132-180, March 1991
+Goetz Graefe, Query evaluation techniques for large databases, ACM Computing Surveys (CSUR), v.25 n.2, p.73-169, June 1993
+Gerhard Weikum , Gottfried Vossen, Transactional Information Systems: Theory, Algorithms, and the Practice of Concurrency Control and Recovery, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2001
+Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems Principles, November 2013

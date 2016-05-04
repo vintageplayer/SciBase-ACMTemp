@@ -1,0 +1,80 @@
+A. Aji and W. Feng. 2008. Optimizing performance, cost and sensitivity in pairwise sequence search on a cluster of playstation. In IEEE International Conference on BioInformatics and BioEngineering.
+A. M. Aji, W. Feng, F. Blagojevic, and D. S. Nikolopoulos. 2008. Cell-SWAT: Modeling and scheduling wavefront computations on the cell broadband engine. In Proceedings of the 5th Conference on Computing Frontiers (CF’08). 13--22.
+S. F. Altschul, W. Gish, W. Miller, E. W. Myers, and D. J. Lipman. 1990. Basic local alignment search tool. Journal of Molecular Biology 215, 3, 403--410.
+S. Aluru and N. Jammula. 2014. A review of hardware acceleration for computational genomics. IEEE Design and Test 31, 1, 19--30.
+R. B. Batista, A. Boukerche, and A. C. M. A. Melo. 2008. A parallel strategy for biological sequence alignment in restricted memory space. Journal of Parallel and Distributed Processing 68, 4, 548--561.
+K. Benkrid, Y. Liu, and A. Benkrid. 2009. A highly parameterized and efficient FPGA-based skeleton for pairwise biological sequence alignment. IEEE Transactions on VLSI Systems 17, 4, 561--570.
+S. Borkar and A. A. Chien. 2011. The future of microprocessors. Communications of the ACM 54, 5, 57--67.
+A. Boukerche, R. B. Batista, A. C. M. A. Melo, F. B. Scarel, and L. A. B. C. Souza. 2012. Exact parallel alignment of megabase genomic sequences with tunable work distribution. International Journal of Foundations of Computer Science 23, 2, 407--429.
+A. Boukerche, J. M. Correa, A. C. M. A. Melo, and R. P. Jacobi. 2010. A hardware accelerator for the fast retrieval of DIALIGN biological sequence alignments in linear space. IEEE Transactions on Computers 59, 6, 808--821.
+G. Caffarena, C. Pedrera, C. Carreras, S. Bojanic, and O. Nieto-Taladriz. 2007. FPGA acceleration for DNA sequence alignment. Journal of Systems and Software 16, 2, 245--266.
+C. Chen and B. Schmidt. 2005. An adaptive grid implementation of DNA sequence alignment. Future Generation Computer Systems 21, 7, 988--1003. http://dx.doi.org/10.1016/j.future.2005.03.001
+V. Chvatal and D. Sankoff. 1975. Longest common subsequences of two random sequences. Technicial Report. STAN-CS-75-477, Stanford University, Stanford, CA.
+K. Compton and S. Hauck. 2002. Reconfigurable computing: A survey of systems and software. Computing Surveys 34, 2, 171--210.
+A. Driga, P. Lu, J. Schaeffer, D. Szafron, K. Charter, and I. Parsons. 2006. FastLSA: A fast, linear-space, parallel and sequential algorithm for sequence alignment. Algorithmica 45, 3, 337--375.
+R. Durbin, S. Eddy, A. Krogh, and G. Mitchison 1998. Biological Sequence Analysis. Cambridge University Press, New York, NY.
+S. R. Eddy. 1998. Profile hidden Markov models. Bioinformatics 14, 9, 755--763.
+F. J. Esteban, D. David, P. Hernandez, J. A. Caballero, G. Dorado, and S. Galvez. 2013. Direct approaches to exploit many-core architecture in bioinformatics. Future Generation Computing Systems 29, 15--26.
+ExPASy. 2014a. UniProtKBSwissProt protein knowledgebase guideline. http://web.expasy.org/docs/swiss-prot_guideline.html.
+ExPASy. 2014b. UniProtKBSwissProt protein knowledgebase release 2015_04 statistics. ftp://ftp.uniprot.org/pub/databases/uniprot/previous_major_releases/release-2015_04/knowledgebase/UniProtKB_SwissProt-relstat.html.
+M. Farrar. 2007. Striped Smith-Waterman speeds database searches six times over other SIMD implementations. Bioinformatics 23, 2, 156--161.
+J. W. Fickett. 1984. Fast optimal alignments. Nucleic Acids Research 1, 12, 175--179.
+A. R. Galper and E. C. Brutlag. 1990. Parallel similarity search and alignment with the dynamic programming method. Technical Report. KSL-90-74, Stanford University, Stanford, CA.
+O. Gotoh. 1982. An improved algorithm for matching biological sequences. Journal of Molecular Biology 162, 3, 705--708.
+P. Green. 1993. SWAT Optimization. (1993). Retrieved February 26, 2016 from http://www.phrap.org/phredphrap/swat.html.
+X. Guan and D. L. Uberbacher. 1994. A multiple divide-and-conquer (MDC) algorithm for optimal alignments in linear space. Technical Report. ORNL/TM-12764, Oak Ridge National Laboratory, Oak Ridge, TN.
+D. Gusfield. 1997. Algorithms on Strings, Trees, and Sequences: Computer Science and Computational Biology. Cambridge University Press, New York, NY.
+D. S. Hirschberg. 1975. A linear space algorithm for computing maximal common subsequences. Commununications of the ACM 18, 6, 341--343. DOI:http://dx.doi.org/10.1145/360825.360861
+D. T. Hoang and D. P. Lopresti. 1992. FPL implementation of systolic sequence alignment. In International Workshop on Field-Programmable Logic and Applications, Field-Programmable Gate Arrays: Architectures and Tools for Rapid Prototyping. 183--191.
+M. Hoeppner, M. Latterner, and K. Siyan 2013. The NCBI Handbook. National Center for Biotechnology Information, Bethesda, MD.
+IBM. 2007. Cell broadband engine architecture. (2007). http://www.ibm.com/developerworks/library/pa-cellperf/.
+F. Ino, Y. Kotani, Y. Munekawa, and K. Hagihara. 2009. Harnessing the power of idle GPUs for acceleration of biological sequence alignment. Parallel Processing Letters 19, 4, 513.
+F. Ino, Y. Munekawa, and K. Hagihara. 2012. Sequence homology search using fine grained cycle sharing of idle GPUs. IEEE Transactions on Parallel Distributed Systems 23, 4, 751--759. http://doi.ieeecomputersociety.org/10.1109/TPDS.2011.239
+J. Jeffers and J. Reinders. 2013. Intel Xeon Phi Coprocessor High-Performance Programming. Morgan Kaufmann, Burlington, MA.
+D. Kirk and W. Hwu. 2010. Programming Massively Parallel Processors: A Hands-on Approach. Morgan Kaufmann, Burlington, MA.
+M. Korpar and M. Sikic. 2013. SW#-GPU-enabled exact alignments on genome scale. Bioinformatics 29, 19, 2494--2495.
+H. T. Kung. 1982. Why systolic architectures? IEEE Computer 15, 1, 37--42.
+V. I. Levenshtein. 1966. Binary codes capable of correcting deletions, insertions, and reversals. Soviet Physics Doklady 10, 8, 707--710.
+R. J. Lipton and D. Lopresti. 1985. A systolic array for rapid string comparison. In Chapel Hill Conference on VLSI, Vol. 3994. 363--376.
+Y. Liu, W. Huang, J. Johnson, and S. Vaidya. 2006. GPU accelerated Smith-Waterman. In ICCS 2006 (LNCS), Vol. 3994. Springer, 188--195.
+Y. Liu, D. Maskell, and B. Schmidt. 2009. CUDASW++: Optimizing Smith-Waterman sequence database searches for CUDA-enabled graphics processing units. BMC Research Notes 2, 1, 73.
+Y. Liu and B. Schmidt. 2014a. GSWABE: Faster GPU-accelerated sequence alignment with optimal alignment retrieval for short DNA sequences. Concurrency and Computation: Practice and Experience—early view (2014).
+Y. Liu and B. Schmidt. 2014b. SWAPHI: Smith-Waterman protein database search on Xeon Phi coprocessors. In IEEE ASAP. 184--185.
+Y. Liu, B. Schmidt, and D. Maskell. 2010. CUDASW++2.0: Enhanced Smith-Waterman protein database search on CUDA-enabled GPUs based on SIMT and virtualized SIMD abstractions. BMC Research Notes 3, 1, 93. DOI:http://dx.doi.org/10.1186/1756-0500-3-93
+Y. Liu, T. Tam, F. Lauenroth, and B. Schmidt. 2014. SWAPHI-LS: Smith-Waterman algorithm on Xeon Phi coprocessors for long DNA sequences. In IEEE CLUSTER. 257--265.
+Y. Liu, A. Wirawan, and B. Schmidt. 2013. CUDASW++ 3.0: Accelerating Smith-Waterman protein database search by coupling CPU and GPU SIMD instructions. BMC Bioinformatics 14, 117.
+S. Maleki, M. Musuvathi, and T. Mytcowicz. 2014. Parallelizing dynamic programming through rank convergence. In ACM SIGPLAN PPoPP. ACM, New York, NY, 219--232.
+S. Manavski and G. Valle. 2008. CUDA compatible GPU cards as efficient hardware accelerators for Smith-Waterman sequence alignment. BMC Bioinformatics 9, Suppl 2.
+K. X. Mayer et al. 2014. A chromosome-based draft sequence of the hexaploid bread wheat (triticum aestivum) genome. Science 345, 6194.
+F. Mendonca and A. C. M. A. Melo. 2013. Biological sequence comparison on hybrid platforms with dynamic workload adjustment. In IEEE IPDPSW - HiCOMB. 501--509.
+X. Meng and V. Chaudhary. 2010. A high-performance heterogeneous computing platform for biological sequence analysis. IEEE Transactions on Parallel Distribted Systems 21, 9, 1267--1280.
+D. Morgenstern, K. Frech, A. Dress, and T. Werner. 1998. DIALIGN: Finding local similarities by multiple sequence alignment. Bioinformatics 14, 3, 290--294.
+D. W. Mount. 2004. Bioinformatics: Sequence and Genome Analysis. Cold Spring Harbor Laboratory Press, Cold Spring Harbor, NY.
+A. Munshi, B. Gaster, T. G. Mattson, J. Fung, and D. Ginsburg. 2011. OpenCL Programming Guide. Addison-Wesley Professional, New York, NY.
+E. W. Myers and W. Miller. 1988. Optimal alignments in linear space. Computer Applications in the Biosciences 4, 1, 11--17.
+S. B. Needleman and C. D. Wunsch. 1970. A general method applicable to the search for similarities in the amino acid sequence of two proteins. Journal of Molecular Biology 48, 3, 443--453.
+nuccore. 2014. NCBI Nucleotide Database. (2014). Retrieved February 26, 2016 from http://www.ncbi.nlm. nih.gov/nuccore/.
+NVIDIA. 2015. CUDA C Progamming Guide. https://docs.nvidia.com/cuda/pdf/CUDA_C_Programming_Guide.pdf.
+T. Oliver, B. Schmidt, and D. L. Maskell. 2005. Reconfigurable architectures for bio-sequence database scanning on FPGAs. IEEE Transactions on Circuits and Systems 52, 12, 851--855.
+S. Rajko and S. Aluru. 2004. Space and time optimal parallel sequence alignments. IEEE Transactions on Parallel Distribution Systems 15.
+T. Rognes. 2011. Faster Smith-Waterman database searches with inter-sequence SIMD parallelisation. BMC Bioinformatics 12, 221.
+T. Rognes and E. Seeberg. 2000. Six-fold speed-up of Smith-Waterman sequence database searches using parallel processing on common microprocessors. Bioinformatics 16, 8, 699--706.
+E. Rucci, A. Giusti, M. Naioufi, G. Botella, and C. Garcia. 2014. Smith-Waterman algorithm on heterogeneous systems: A case study. In IEEE CLUSTER. 323--330.
+F. Sanchez, F. Cabarcas, A. Ramirez, and M. Valero. 2011. Scalable multicore architectures for long DNA sequence comparison. Concurrency and Computation: Practice and Experience 23, 17, 2205--2219.
+E. F. de O. Sandes and A. C. M. A. Melo. 2011. Smith-Waterman alignment of huge sequences with GPU in linear space. In IEEE IPDPS. 1199--1211.
+E. F. de O. Sandes, G. Miranda, A. C. M. A. Melo, X. Martorell, and E. Ayguade. 2014. CUDAlign 3.0: Parallel biological sequence comparison in large GPU clusters. In IEEE/ACM CCGrid. 160--169.
+E. F. O. Sandes and A. C. M. A. Melo. 2010. CUDAlign: Using GPU to accelerate the comparison of megabase genomic sequences. In ACM SIGPLAN PPoPP. ACM, New York, NY, 137--146.
+E. F. O. Sandes and A. C. M. A. Melo. 2013. Retrieving Smith-Waterman alignments with optimizations for megabase biological sequences using GPU. IEEE Transactions on Parallel Distribution Systems 24, 5, 1009--1021.
+A. Sarje and S. Aluru. 2009. Parallel genomic alignments on the cell broadband engine. IEEE Transactions on Parallel Distribution Systems 20, 11, 1600--1610.
+S. Sarkar, G. R. Kulkarni, P. P. Pande, and A. Kalyanaraman. 2010a. Network-on-chip hardware accelerators for biological sequence alignment. IEEE Transactions on Computers 59, 1, 29--41.
+S. Sarkar, T. Majumder, A. Kalyanaraman, and P. P. Pande. 2010b. Hardware accelerators for biocomputing: A survey. In IEEE International Symposium on Circuits and Systems (ISCAS’10). IEEE, 3789--3792.
+M. C. Schatz and B. Langmead. 2013. The DNA data deluge. IEEE Spectrum 50, 7, 28--33.
+J. Singh and I. Aruni. 2011. Accelerating Smith-Waterman on heterogeneous CPU-GPU systems. In 5th International Conference on Bioinformatics and Biomedical Engineering (ICBBE’11).
+S. F. Smith and J. F. Frenzel. 2003. Bioinformatics application of a scalable supercomputer-on-chip architecture. In PDPTA. 385--391.
+T. F. Smith and M. S. Waterman. 1981. Journal of Molecular Biology 147, 1, 195--197.
+A. Szalkowski, C. Ledergerber, P. Krahenbuhl, and C. Dessimoz. 2008. Swps3—fast multi-threaded vectorized Smith-Waterman for IBM CellBE. and x86 SSE2. BMC Research Notes 107--110.
+L. Wang, Y. Chan, X. Duan, H. Lan, X. Meng, and W. Liu. 2014. XSW: Accelerating biological database search on Xeon Phi. In IEEE IPDPSW—AsHES. 950--957.
+L. Wienbrandt. 2013. Bioinformatics applications on the FPGA-based high-performance computer RIVYERA. In High-Performance Computing Using FPGAs. Springer, 81--103.
+W. Wolf. 2004. FPGA-Based System Design. Prentice-Hall, Upper Saddle River, NJ.
+A. Wozniak. 1997. Using video-oriented instructions to speed up sequence comparison. Computer Applications in the Biosciences 13, 2, 145--150.
+P. Zhang, G. Tan, and G. R. Gao. 2007. Implementation of the Smith-Waterman algorithm on a reconfigurable supercomputing platform. In ACM HPRCTA. ACM, New York, NY, 39--48.

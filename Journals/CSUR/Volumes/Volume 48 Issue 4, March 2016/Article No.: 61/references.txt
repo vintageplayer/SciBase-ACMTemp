@@ -1,0 +1,57 @@
+Michael Abd-El-Malek, Gregory R. Ganger, Garth R. Goodson, Michael K. Reiter, and Jay J. Wylie. 2005. Fault-scalable Byzantine fault-tolerant services. ACM SIGOPS Operating Systems Review 39, 5 (2005), 59--74.
+Atul Adya, William J. Bolosky, Miguel Castro, Gerald Cermak, Ronnie Chaiken, John R. Douceur, Jon Howell, Jacob R. Lorch, Marvin Theimer, and Roger P. Wattenhofer. 2002. FARSITE: Federated, available, and reliable storage for an incompletely trusted environment. ACM SIGOPS Operating Systems Review 36, SI (2002), 1--14.
+Yair Amir, Brian Coan, Jonathan Kirsch, and John Lane. 2008. Byzantine replication under attack. In Proceedings of the IEEE International Conference on Dependable Systems and Networks with FTCS and DCC. IEEE, 197--206.
+Yair Amir, Jonathan Kirsch, John Lane, and Marco Platania. 2014. Prime 2.0. Retrieved from http://www.dsn. jhu.edu/download.html.
+Johannes Behl, Tobias Distler, and Rüdiger Kapitza. 2014. Scalable BFT for multi-cores: Actor-based decomposition and consensus-oriented parallelization. In Proceedings of the 10th USENIX Conference on Hot Topics in System Dependability. USENIX Association, 9--14.
+Mihir Bellare, Ran Canetti, and Hugo Krawczyk. 1996. Keying hash functions for message authentication. In Advances in Cryptology—CRYPTO’96. Springer, 1--15.
+Alysson Bessani, Miguel Correia, Bruno Quaresma, Fernando André, and Paulo Sousa. 2013. DepSky: Dependable and secure storage in a cloud-of-clouds. ACM Transactions on Storage 9, 4 (2013), 12.
+George Robert Blakley. 1979. Safeguarding cryptographic keys. In Proceedings of the International Workshop on Managing Requirements Knowledge. IEEE Computer Society, 313--317.
+Miguel Castro and Barbara Liskov. 1999. Practical Byzantine fault tolerance. In OSDI, Vol. 99. 173--186.
+Miguel Castro and Barbara Liskov. 2002. Practical Byzantine fault tolerance and proactive recovery. ACM Transactions on Computer Systems 20, 4 (2002), 398--461.
+Allen Clement, Manos Kapritsos, Sangmin Lee, Yang Wang, Lorenzo Alvisi, Mike Dahlin, and Taylor Riche. 2009a. Upright cluster services. In Proceedings of the ACM SIGOPS 22nd Symposium on Operating Systems Principles. ACM, 277--290.
+Allen Clement, Edmund L. Wong, Lorenzo Alvisi, Michael Dahlin, and Mirco Marchetti. 2009b. Making Byzantine fault tolerant systems tolerate Byzantine faults. In Proceedings of the 6th USENIX Symposium on Networked System Design and Implementation (NSDI), Vol. 9. USENIX, 153--168.
+Frederick B. Cohen. 1993. Operating system protection through program evolution. Computers and Security 12, 6 (1993), 565--584.
+James Cowling, Daniel Myers, Barbara Liskov, Rodrigo Rodrigues, and Liuba Shrira. 2006. HQ replication: A hybrid quorum protocol for Byzantine fault tolerance. In Proceedings of the 7th Symposium on Operating Systems Design and Implementation (OSDI). USENIX Association, 177--190.
+Wagner Saback Dantas, Alysson Neves Bessani, Joni da Silva Fraga, and Miguel Correia. 2007. Evaluating Byzantine quorum systems. In Proceedings of the 26th IEEE International Symposium on Reliable Distributed Systems (SRDS’07). IEEE, 253--264.
+Whitfield Diffie and Martin E. Hellman. 1976. New directions in cryptography. IEEE Transactions on Information Theory 22, 6 (1976), 644--654.
+Dan Dobre, Ghassan Karame, Wenting Li, Matthias Majuntke, Neeraj Suri, and Marko Vukolić. 2013. PoWerStore: Proofs of writing for efficient and robust storage. In Proceedings of the 2013 ACM SIGSAC Conference on Computer and Communications Security (CCS). ACM, 285--298.
+Cynthia Dwork, Nancy Lynch, and Larry Stockmeyer. 1988. Consensus in the presence of partial synchrony. Journal of the ACM 35, 2 (1988), 288--323.
+C. Fragouli, J. Le Boudec, and J. Widmer. 2006. Network coding: An instant primer. Computer Communication Review 36, 1 (2006), 63.
+Miguel Garcia, Nuno Neves, and Alysson Bessani. 2013. An intrusion-tolerant firewall design for protecting SIEM systems. In Proceedings of the 2013 43rd Annual IEEE/IFIP Conference on Dependable Systems and Networks Workshop (DSN-W). IEEE, 1--7.
+Cristiano Giuffrida, Anton Kuijsten, and Andrew S. Tanenbaum. 2012. Enhanced operating system security through efficient and fine-grained address space randomization. In Proceedings of the USENIX Security Symposium.
+Garth R. Goodson, Jay J. Wylie, Gregory R. Ganger, and Michael K. Reiter. 2004. Efficient Byzantine-tolerant erasure-coded storage. In Proceedings of the 2004 International Conference on Dependable Systems and Networks. IEEE, 135--144.
+Rachid Guerraoui, Nikola Knežević, Vivien Quéma, and Marko Vukolić. 2010. The next 700 BFT protocols. In Proceedings of the 5th European Conference on Computer Systems (Eurosys). ACM, 363--376.
+James Hendricks, Gregory R. Ganger, and Michael K. Reiter. 2007. Low-overhead Byzantine fault-tolerant storage. In ACM SIGOPS Operating Systems Review, Vol. 41. ACM, 73--86.
+Maurice P. Herlihy and Jeannette M. Wing. 1990. Linearizability: A correctness condition for concurrent objects. ACM Transactions on Programming Languages and Systems 12, 3 (1990), 463--492.
+Andrei Homescu, Steven Neisius, Per Larsen, Stefan Brunthaler, and Michael Franz. 2013. Profile-guided automated software diversity. In Proceedings of the IEEE/ACM International Symposium on Code Generation and Optimization (CGO). IEEE, 1--11.
+Patrick Hunt, Mahadev Konar, Flavio Paiva Junqueira, and Benjamin Reed. 2010. ZooKeeper: Wait-free coordination for internet-scale systems. In Proceedings of the USENIX Annual Technical Conference, Vol. 8. 9.
+Jonathan Kirsch, Stuart Goose, Yair Amir, Dong Wei, and Paul Skare. 2014. Survivable SCADA via intrusion-tolerant replication. IEEE Transactions on Smart Grid 5, 1 (2014), 60--70.
+Ramakrishna Kotla, Lorenzo Alvisi, Mike Dahlin, Allen Clement, and Edmund Wong. 2007. Zyzzyva: Speculative Byzantine fault tolerance. In ACM SIGOPS Operating Systems Review, Vol. 41. ACM, 45--58.
+Leslie Lamport. 1978. Time, clocks, and the ordering of events in a distributed system. Communications of the ACM 21, 7 (1978), 558--565.
+Leslie Lamport. 1986. On interprocess communication. Distributed Computing 1, 2 (1986), 86--101.
+Leslie Lamport. 1998. The part-time parliament. ACM Transactions on Computer Systems 16, 2 (1998), 133--169.
+Leslie Lamport. 2001. Paxos made simple. ACM Sigact News 32, 4 (2001), 18--25.
+Leslie Lamport, Robert Shostak, and Marshall Pease. 1982. The Byzantine generals problem. ACM Transactions on Programming Languages and Systems 4, 3 (1982), 382--401.
+Barbara Liskov and Rodrigo Rodrigues. 2006. Tolerating Byzantine faulty clients in a quorum system. In Proceedings of the 26th IEEE International Conference on Distributed Computing Systems (ICDCS’06). IEEE, 34--34.
+Dahlia Malkhi and Michael Reiter. 1998a. Byzantine quorum systems. Distributed Computing 11, 4 (1998), 203--213.
+Dahlia Malkhi and Michael K. Reiter. 1998b. Secure and scalable replication in Phalanx. In Proceedings of the 17th IEEE Symposium on Reliable Distributed Systems. IEEE, 51--58.
+Dahlia Malkhi and Michael K. Reiter. 1998c. Survivable consensus objects. In Proceedings of the 17th IEEE Symposium on Reliable Distributed Systems. IEEE, 271--279.
+Jean-Philippe Martin and Lorenzo Alvisi. 2006. Fast Byzantine consensus. IEEE Transactions on Dependable and Secure Computing 3, 3 (2006), 202--215.
+Michael G. Merideth and Michael K. Reiter. 2010. Selected results from the latest decade of quorum systems research. In Replication. Springer, 185--206.
+Zarko Milosevic, Martin Biely, and André Schiper. 2013. Bounded delay in Byzantine tolerant state machine replication. In Proceedings of the IEEE 32nd International Symposium on Reliable Distributed Systems (SRDS). IEEE, 61--70.
+Vasilis Pappas, Michalis Polychronakis, and Angelos D. Keromytis. 2012. Smashing the gadgets: Hindering return-oriented programming using in-place code randomization. In Proceedings of the IEEE Symposium on Security and Privacy (SP). IEEE, 601--615.
+Marshall Pease, Robert Shostak, and Leslie Lamport. 1980. Reaching agreement in the presence of faults. Journal of the ACM 27, 2 (1980), 228--234.
+Marco Platania, Daniel Obenshain, Thomas Tantillo, Ricky Sharma, and Yair Amir. 2014. Towards a practical survivable intrusion tolerant replication system. In Proceedings of the IEEE 33rd International Symposium on Reliable Distributed Systems (SRDS). IEEE, 242--252.
+Ronald L. Rivest, Adi Shamir, and Len Adleman. 1978. A method for obtaining digital signatures and public-key cryptosystems. Communications of the ACM 21, 2 (1978), 120--126.
+Rodrigo Rodrigues, Miguel Castro, and Barbara Liskov. 2001. BASE: Using abstraction to improve fault tolerance. ACM SIGOPS Operating Systems Review 35, 5 (2001), 15--28.
+Tom Roeder and Fred B. Schneider. 2010. Proactive obfuscation. ACM Transactions on Computer Systems 28, 2 (2010), 4.
+Douglas C. Schmidt and Tatsuya Suda. 1993. Transport system architecture services for high-performance communications systems. IEEE Journal on Selected Areas in Communications 11, 4 (1993), 489--506.
+Fred B. Schneider. 1990. Implementing fault-tolerant services using the state machine approach: A tutorial. ACM Computing Surveys (CSUR) 22, 4 (1990), 299--319.
+Marco Serafini, Péter Bokor, Dan Dobre, Matthias Majuntke, and Neeraj Suri. 2010. Scrooge: Reducing the costs of fast Byzantine replication in presence of unresponsive replicas. In Proceedings of the 2010 IEEE/IFIP International Conference on Dependable Systems and Networks (DSN). IEEE, 353--362.
+Adi Shamir. 1979. How to share a secret. Communications of the ACM 22, 11 (1979), 612--613.
+Konstantin Shvachko, Hairong Kuang, Sanjay Radia, and Robert Chansler. 2010. The hadoop distributed file system. In Proceedings of the 2010 IEEE 26th Symposium on Mass Storage Systems and Technologies (MSST). IEEE, 1--10.
+João Sousa and Alysson Bessani. 2012. From Byzantine consensus to BFT state machine replication: A latency-optimal transformation. In Proceedings of the 2012 9th European Dependable Computing Conference (EDCC). IEEE, 37--48.
+Paulo Sousa, Alysson Neves Bessani, Miguel Correia, Nuno Ferreira Neves, and Paulo Verissimo. 2010. Highly available intrusion-tolerant services with proactive-reactive recovery. IEEE Transactions on Parallel and Distributed Systems 21, 4 (2010), 452--465.
+Jian Yin, Jean-Philippe Martin, Arun Venkataramani, Lorenzo Alvisi, and Mike Dahlin. 2003. Separating agreement from execution for Byzantine fault tolerant services. In ACM SIGOPS Operating Systems Review, Vol. 37. ACM, 253--267.
+Wenbing Zhao and F. Eugenio Villaseca. 2008. Byzantine fault tolerance for electric power grid monitoring and control. In Proceedings of the International Conference on Embedded Software and Systems (ICESS’08). IEEE, 129--135.
+Lidong Zhou, Fred B. Schneider, and Robbert Van Renesse. 2002. COCA: A secure distributed online certification authority. ACM Transactions on Computer Systems (TOCS) 20, 4 (2002), 329--368.

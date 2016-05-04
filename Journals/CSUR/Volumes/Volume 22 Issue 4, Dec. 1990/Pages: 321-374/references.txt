@@ -1,0 +1,65 @@
+ALMES, G. T., BLACK, A. P., LAZOWSKA, E. D., AND NOE, J. D. 1983. The Eden system: A technical review. IEEE Trans. Softw. Eng. I1, 1 (Jan.), 43-59.
+BARAK, A., AND KORNATZKY, Y. 1987. Design Principles of Operating Systems for Large Scale Multicomputers. IBM Research Division, T. j. Watson Research Center, Yorktown Heights, New York. RC 13220 (#59114).
+Amnon Barak , Ami Litman, MOS:  a multicomputer distributed operating system, Software—Practice & Experience, v.15 n.8, p.725-737, Aug. 1985[doi>10.1002/spe.4380150802]
+BARAK, A., MALKI, D., AND WHEELER, R. 1986. AFS, BFS, CFS .. or Distributed File Systems for UNIX. In European UNIX Users Group Conference Proceedings {Sept. 22-24, Manchester, U.K.). EUUG, pp. 461-472.
+BARAK, A., AND PARADISE, O. G. 1986. MOS: Scaling up UNIX. In Proceedings of USENIX 1986 Summer Conference. USENIX Association, Berkeley, California, pp. 414-418.
+Philip A. Bernstein , Vassco Hadzilacos , Nathan Goodman, Concurrency control and recovery in database systems, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1987
+Andrew D. Birrell , Roy Levin , Michael D. Schroeder , Roger M. Needham, Grapevine: an exercise in distributed computing, Communications of the ACM, v.25 n.4, p.260-274, April 1982[doi>10.1145/358468.358487]
+Andrew D. Birrell , Bruce Jay Nelson, Implementing remote procedure calls, ACM Transactions on Computer Systems (TOCS), v.2 n.1, p.39-59, February 1984[doi>10.1145/2080.357392]
+Andrew P. Black, Supporting distributed applications: experience with Eden, Proceedings of the tenth ACM symposium on Operating systems principles, p.181-193, December 1985, Orcas Island, Washington, United States[doi>10.1145/323647.323646]
+BROWNBRIDGE, D. R., MARSHALL, L. F., AND RAN- DELL, B. 1982. The Newcastle connection or UNIXes of the world unite! Softw. Prac. Exper. 12, 12 (Dec.), 1147-1162.
+David R. Cheriton , Willy Zwaenepoel, The distributed V kernel and its performance for diskless workstations, Proceedings of the ninth ACM symposium on Operating systems principles, p.129-140, October 10-13, 1983, Bretton Woods, New Hampshire, United States[doi>10.1145/800217.806621]
+Susan B. Davidson , Hector Garcia-Molina , Dale Skeen, Consistency in a partitioned network: a survey, ACM Computing Surveys (CSUR), v.17 n.3, p.341-370, Sept. 1985[doi>10.1145/5505.5508]
+Jeremy Dion, The Cambridge File Server, ACM SIGOPS Operating Systems Review, v.14 n.4, p.26-35, October 1980[doi>10.1145/850708.850710]
+John Ousterhout , Fred Douglis, Beating the I/O bottleneck: a case for log-structured file systems, ACM SIGOPS Operating Systems Review, v.23 n.1, p.11-28, Jan. 1989[doi>10.1145/65762.65765]
+ELLIS, C. S., AND FLOYD, R. A. 1983. The ROE file system. In Proceedings of the 3rd Symposium on Reliability in Distributed Software and Database Systems (Clearwater Beach, Florida, October 17-19). IEEE, New York.
+FLOYD, R. 1989. Transparency in distributed file systems. Tech. Rep. 272, Department of Computer Science, University of Rochester.
+Larry Fujitani, Laser optical disk: the coming revolution in on-line storage, Communications of the ACM, v.27 n.6, p.546-554, June 1984[doi>10.1145/358080.358094]
+David K. Gifford, Weighted voting for replicated data, Proceedings of the seventh ACM symposium on Operating systems principles, p.150-162, December 10-12, 1979, Pacific Grove, California, United States[doi>10.1145/800215.806583]
+Mark Hill , Susan Eggers , Jim Larus , George Taylor , Glenn Adams , B. K. Bose , Garth Gibson , Paul Hansen , Jon Keller , Shing Kong , Corinna Lee , Daebum Lee , Joan Pendleton , Scott Ritchie , David Wood , Ben Zorn , Paul Hilfinger , Dave Hodges , Randy Katz , John Ousterhout , Dave Patterson, Design decisions in SPUR, Computer, v.19 n.11, p.8-22, Nov. 1986[doi>10.1109/MC.1986.1663096]
+C. A. R. Hoare, Monitors: an operating system structuring concept, Communications of the ACM, v.17 n.10, p.549-557, Oct. 1974[doi>10.1145/355620.361161]
+John H. Howard , Michael L. Kazar , Sherri G. Menees , David A. Nichols , M. Satyanarayanan , Robert N. Sidebotham , Michael J. West, Scale and performance in a distributed file system, ACM Transactions on Computer Systems (TOCS), v.6 n.1, p.51-81, Feb. 1988[doi>10.1145/35037.35059]
+JESSOP, W. H., JACOBSON, D. M., NOE, J. D., BAER, J. L., AND PU, C. 1982. The Eden transaction based file system. In Proceedings of the 2nd Symposium on Reliability in Distributed Software and Databases Systems (July). IEEE, New York, pp. 163-169.
+E. Jul , H. Levy , N. Hutchinson , A. Black, Fine-grained mobility in the emerald system, Proceedings of the eleventh ACM Symposium on Operating systems principles, p.105-106, November 08-11, 1987, Austin, Texas, United States[doi>10.1145/41457.37511]
+KEPECS, J. 1985. Light weight processes for UNIX implementation and applications. In Proceedings of Usenix 1985 Summer Conference.
+Butler W. Lampson, Atomic Transactions, Distributed Systems - Architecture and Implementation, An Advanced Course, p.246-265, January 1981
+Butler W. Lampson, Hints for computer system design, Proceedings of the ninth ACM symposium on Operating systems principles, p.33-48, October 10-13, 1983, Bretton Woods, New Hampshire, United States[doi>10.1145/800217.806614]
+Edward D. Lazowska , Henry M. Levy , Guy T. Almes , Michael J. Fischer , Robert J. Fowler , Stephen C. Vestal, The architecture of the Eden system, Proceedings of the eighth ACM symposium on Operating systems principles, p.148-159, December 14-16, 1981, Pacific Grove, California, United States[doi>10.1145/800216.806603]
+Edward D. Lazowska , John Zahorjan , David R. Cheriton , Willy Zwaenepoel, File access performance of diskless workstations, ACM Transactions on Computer Systems (TOCS), v.4 n.3, p.238-268, Aug. 1986[doi>10.1145/6420.6423]
+Paul J. Leach , Bernard L. Stumpf , James A. Hamilton , Paul H. Levine, UIDs as internal names in a distributed file system, Proceedings of the first ACM SIGACT-SIGOPS symposium on Principles of distributed computing, p.34-41, August 18-20, 1982, Ottawa, Canada[doi>10.1145/800220.806679]
+Paul J. Leach , Paul H. Levine , James A. Hamilton , Bernard L. Stumpf, The file system of an integrated local network, Proceedings of the 1985 ACM thirteenth annual conference on Computer Science, p.309-324, March 1985, New Orleans, Louisiana, United States[doi>10.1145/320599.320696]
+Henry M. Levy, Capability-Based Computer Systems, Butterworth-Heinemann, Newton, MA, 1984
+Marshall K. McKusick , William N. Joy , Samuel J. Leffler , Robert S. Fabry, A fast file system for UNIX, ACM Transactions on Computer Systems (TOCS), v.2 n.3, p.181-197, Aug. 1984[doi>10.1145/989.990]
+MITCHELL, J. G. 1982. File servers for local area networks. Lecture Notes, Course on Local Area Networks, University of Kent, Canterbury, England, pp. 83-114.
+James H. Morris , Mahadev Satyanarayanan , Michael H. Conner , John H. Howard , David S. Rosenthal , F. Donelson Smith, Andrew: a distributed personal computing environment, Communications of the ACM, v.29 n.3, p.184-201, March 1986[doi>10.1145/5666.5671]
+NEEDHAM, R. M. HERBERT, A. J. 1982. The Cambridge Distributed Computing System, Addison Wesley, Reading, Mass.
+Roger M. Needham , Michael D. Schroeder, Using encryption for authentication in large networks of computers, Communications of the ACM, v.21 n.12, p.993-999, Dec. 1978[doi>10.1145/359657.359659]
+Michael N. Nelson , Brent B. Welch , John K. Ousterhout, Caching in the Sprite network file system, ACM Transactions on Computer Systems (TOCS), v.6 n.1, p.134-154, Feb. 1988[doi>10.1145/35037.42183]
+John K. Ousterhout , Hervé Da Costa , David Harrison , John A. Kunze , Mike Kupfer , James G. Thompson, A trace-driven analysis of the UNIX 4.2 BSD file system, Proceedings of the tenth ACM symposium on Operating systems principles, p.15-24, December 1985, Orcas Island, Washington, United States[doi>10.1145/323647.323631]
+John K. Ousterhout , Andrew R. Cherenson , Frederick Douglis , Michael N. Nelson , Brent B. Welch, The Sprite Network Operating System, Computer, v.21 n.2, p.23-36, February 1988[doi>10.1109/2.16]
+PARIS, J. F., AND TICHY, W. F. 1983. Stork: An experimental migrating file system for computer networks. In Proceedings IEEE INFCOM. IEEE, New York, pp. 168-175.
+Gerald J. Popek , Bruce J. Walker, The LOCUS distributed system architecture, Massachusetts Institute of Technology, Cambridge, MA, 1986
+POSTEL, J. 1980. User datagram protocol. RFC-768. Network information Center, SKI.
+John S. Quarterman , Abraham Silberschatz , James L. Peterson, 4.2BSD and 4.3BSD as examples of the UNIX system, ACM Computing Surveys (CSUR), v.17 n.4, p.379-418, Dec. 1985[doi>10.1145/6041.6043]
+RANDELL, S. 1983. Recursively structured distributed computing systems. In Proceedings of the 3rd Symposium on Reliability in Distributed Software and Database Systems (Clearwater Beach, Fla., Oct. 17-19). IEEE, New York, pp. 3-11.
+Dennis M. Ritchie , Ken Thompson, The UNIX time-sharing system, Communications of the ACM, v.17 n.7, p.365-375, July 1974[doi>10.1145/361011.361061]
+SANDBERG, R., GOLDBERG, D., KLE|MAN, S., WALSH, D., AND LYONS, B. 1985. Design and implementation of the Sun network file system. In Proceedings of Usenix 1985 Summer Conference (Jun.), pp. 119-130.
+M. Satyanarayanan, A study of file sizes and functional lifetimes, Proceedings of the eighth ACM symposium on Operating systems principles, p.96-108, December 14-16, 1981, Pacific Grove, California, United States[doi>10.1145/800216.806597]
+M. Satyanarayanan, Integrating security in a large distributed system, ACM Transactions on Computer Systems (TOCS), v.7 n.3, p.247-280, Aug. 1989[doi>10.1145/65000.65002]
+M. Satyanarayanan , John H. Howard , David A. Nichols , Robert N. Sidebotham , Alfred Z. Spector , Michael J. West, The ITC distributed file system: principles and design, ACM SIGOPS Operating Systems Review, v.19 n.5, p.35-50, Dec. 1-4, 1985[doi>10.1145/323627.323633]
+Michael D. Schroeder , Andrew D. Birrell , Roger M. Needham, Experience with Grapevine:  the growth of a distributed system, ACM Transactions on Computer Systems (TOCS), v.2 n.1, p.3-23, February 1984[doi>10.1145/2080.2081]
+Michael D. Schroeder , David K. Gifford , Roger M. Needham, A caching file system for a programmer's workstation, Proceedings of the tenth ACM symposium on Operating systems principles, p.25-34, December 1985, Orcas Island, Washington, United States[doi>10.1145/323647.323632]
+A B Sheltzer , G J Popek, Internet Locus: extending transparency to an internet environment, IEEE Transactions on Software Engineering, v.12 n.11, p.1067-1075, NOV. 1986
+SMITH, A. J. 1981. Analysis of long term file reference patterns for application to file migration algorithms. IEEE Trans. Softw. Eng. 7, 4 (Jul.).
+Alan Jay Smith, Cache Memories, ACM Computing Surveys (CSUR), v.14 n.3, p.473-530, Sept. 1982[doi>10.1145/356887.356892]
+SUN MICROSYSTEMS, INC. 1988. Network Programming, Sun Microsystems, Part Number: 800- 1779-10, Revision A, of 9 May 1988.
+Liba Svobodova, File servers for network-based distributed systems, ACM Computing Surveys (CSUR), v.16 n.4, p.353-398, Dec. 1984[doi>10.1145/3872.3873]
+Andrew S. Tanenbaum , Robbert Van Renesse, Distributed operating systems, ACM Computing Surveys (CSUR), v.17 n.4, p.419-470, Dec. 1985[doi>10.1145/6041.6074]
+Douglas B. Terry, Caching hints in distributed systems, IEEE Transactions on Software Engineering, v.13 n.1, p.48-54, Jan. 1987[doi>10.1109/TSE.1987.232834]
+TEVANIAN, A., RASHID, R., GOLUB, D., BLACK, D., COOPER, E., AND YOUNG, M. 1987. Mach threads and the UNIX kernel: The battle for control. In Proceedings of USENIX 1987 Summer Conference.USENIX Association, Berkeley, California.
+TICHY, W. F., AND RUAN, Z. 1984. Towards a distributed file system. In Proceedings of Usenix 1984 Summer Conference (Salt Lake City, Utah), pp. 87-97.
+Bruce Walker , Gerald Popek , Robert English , Charles Kline , Greg Thiel, The LOCUS distributed operating system, Proceedings of the ninth ACM symposium on Operating systems principles, p.49-70, October 10-13, 1983, Bretton Woods, New Hampshire, United States[doi>10.1145/800217.806615]
+Matthew J. Weinstein , Thomas W. Page, Jr. , Brian K. Livezey , Gerald J. Popek, Transactions and synchronization in a distributed operating system, Proceedings of the tenth ACM symposium on Operating systems principles, p.115-126, December 1985, Orcas Island, Washington, United States[doi>10.1145/323647.323640]
+Brent B Welch, The Sprite Remote Procedure Call System, University of California at Berkeley, Berkeley, CA, 1986
+WELCH, B., AND OUSTERHOUT, J. K. 1986. Prefix tables: A Simple mechanism for locating files in a distributed system. In Proceedings of the 6th Conference on Distributed Computing Systems (Cambridge, Mass., May), IEEE, New York, pp. 184-189.
+ZIMMERMANN, H. 1980. OSI reference model: The ISO model of architecture for open system interconnection. IEEE Trans. Commun. COM-28 (Apr.), 425-432.

@@ -1,0 +1,55 @@
+Miron Abramovici , Charles E. Stroud , John M. Emmert, Online BIST and BIST-based diagnosis of FPGA logic blocks, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, v.12 n.12, p.1284-1294, December 2004[doi>10.1109/TVLSI.2004.837989]
+Actel. 2005. Radiation-Hardened FPGAs datasheet. http://www.actel.com/documents/RadHard_DS.pdf.
+Adell, P. and Allen, G. 2008. Assessing and mitigating radiation effects in Xilinx FPGAs. JPL Publ. 08-09.
+Altera. 2009. Stratix IV device handbook. http://www.altera.com/literature/hb/stratix-iv/stratix4_handbook.pdf.
+Atmel. 2007. Rad hard reprogrammable FPGA ATF280E. Atmel datasheet 7750.
+J. Babb , M. Frank , V. Lee , E. Waingold , R. Barua , M. Taylor , J. Kim , S. Devabhaktuni , A. Agarwal, The RAW benchmark suite: computation structures for general purpose computing, Proceedings of the 5th IEEE Symposium on FPGA-Based Custom Computing Machines, p.134, April 16-18, 1997
+Baldacci, S., Zolesi, V., Cuzzocrea, F., and Ramacciotti, T. 2003. SEU tolerant controls for a space application based on dynamically reconfigurable FPGA. In Proceedings of the Military and Aerospace Programmable Logic Devices (MAPLD) Workshop.
+Bridgford, B., Carmichael, C., and Tseng, C. W. 2008. Single-event upset mitigation selection guide. Xilinx Application Note 987.
+Carmichael, C., Caffrey, M., and Salazar, A. 2000. Correcting single-event upsets through virtex partial configuration. Xilinx Application Note 216.
+Jason A. Cheatham , John M. Emmert , Stan Baumgart, A survey of fault tolerant methodologies for FPGAs, ACM Transactions on Design Automation of Electronic Systems (TODAES), v.11 n.2, p.501-533, April 2006[doi>10.1145/1142155.1142167]
+Bharat P. Dave , Niraj K. Jha, COFTA: Hardware-Software Co-Synthesis of Heterogeneous Distributed Embedded System Architectures for Low Overhead Fault Tolerance, Proceedings of the 27th International Symposium on Fault-Tolerant Computing (FTCS '97), p.339, June 25-27, 1997
+Kening Zhang, Autonomous FPGA Fault Handling through Competitive Runtime Reconfiguration, Proceedings of the 2005 NASA/DoD Conference on Evolvable Hardware, p.109-116, June 29-July 01, 2005[doi>10.1109/EH.2005.11]
+Dong-Mei, L., Zhi-Hua, W., Li-Ying, H., and Qiu-Jing, G. 2007. Study of total ionizing dose radiation effects on enclosed gate transistors in a commercial CMOS technology. Chinese Phys. 16, 12, 3760--3765.
+Abderrahim Doumar , Hideo Ito, Detecting, diagnosing, and tolerating faults in SRAM-based field programmable gate arrays: a survey, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, v.11 n.3, p.386-405, June 2003[doi>10.1109/TVLSI.2003.801609]
+Shantanu Dutt , Vimalvel Shanmugavel , Steve Trimberger, Efficient incremental rerouting for fault reconfiguration in field programmable gate arrays, Proceedings of the 1999 IEEE/ACM international conference on Computer-aided design, p.173-177, November 07-11, 1999, San Jose, California, USA
+S. Dutt , V. Verma , V. Suthar, Built-in-Self-Test of FPGAs With Provable Diagnosabilities and High Diagnostic Coverage With Application to Online Testing, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, v.27 n.2, p.309-326, February 2008[doi>10.1109/TCAD.2007.906992]
+John M. Emmert , Dinesh K. Bhatia, A Fault Tolerant Technique for FPGAs, Journal of Electronic Testing: Theory and Applications, v.16 n.6, p.591-606, Dec. 2000[doi>10.1023/A:1008365019152]
+John M. Emmert , Charles E. Stroud , Miron Abramovici, Online fault tolerance for FPGA logic blocks, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, v.15 n.2, p.216-226, February 2007[doi>10.1109/TVLSI.2007.891102]
+Miguel Garvie , Adrian Thompson, Scrubbing Away Transients and Jiggling Around the Permanent: Long Survival of FPGA Systems Through Evolutionary Self-Repair, Proceedings of the International On-Line Testing Symposium, 10th IEEE, p.155, July 12-14, 2004[doi>10.1109/IOLTS.2004.41]
+Manuel G. Gericota , Gustavo R. Alves , Miguel L. Silva , José M. Ferreira, Reliability and availability in reconfigurable computing: a basis for a common solution, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, v.16 n.11, p.1545-1558, November 2008[doi>10.1109/TVLSI.2008.2001141]
+Fran Hanchek , Shantanu Dutt, Methodologies for Tolerating Cell and Interconnect Faults in FPGAs, IEEE Transactions on Computers, v.47 n.1, p.15-33, January 1998[doi>10.1109/12.656073]
+Huang, W.-J., Mitra, S., and McCluskey, E. J. 2001. Fast run-time fault location in dependable FPGAs. CRC Tech. rep. 01-5, Center for Reliable Computing, Department of Electrical Engineering and Computer Science, Stanford University. May.
+Michael Hutton , Jonathan Rose , Derek Corneil, Generation of synthetic sequential benchmark circuits, Proceedings of the 1997 ACM fifth international symposium on Field-programmable gate arrays, p.149-155, February 09-11, 1997, Monterey, California, USA[doi>10.1145/258305.258333]
+Daniel S. Katz , Rachel R. Some, NASA Advances Robotic Space Exploration, Computer, v.36 n.1, p.52-61, January 2003[doi>10.1109/MC.2003.1160056]
+Keymeulen, D., Zebulum, R. S., Jin, Y., and Stoica, A. A. S. A. 2000. Fault-Tolerant evolvable hardware using field-programmable transistor arrays. IEEE Trans. Reliabil. 49, 3, 305--316.
+Kizhner, S., Patel, U. D., and Vootukuru, M. 2007. On representative spaceflight instrument and associated instrument sensor web framework. In Proceedings of the IEEE Aerospace Conference. U. D. Patel Ed., 1--10.
+John Lach , William H. Mangione-Smith , Miodrag Potkonjak, Low overhead fault-tolerant FPGA systems, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, v.6 n.2, p.212-221, June 1998[doi>10.1109/92.678870]
+Vijay Lakamraju , Russell Tessier, Tolerating operational faults in cluster-based FPGAs, Proceedings of the 2000 ACM/SIGDA eighth international symposium on Field programmable gate arrays, p.187-194, February 10-11, 2000, Monterey, California, USA[doi>10.1145/329166.329205]
+Jason Lohn , Greg Larchev , Ronald DeMara, Evolutionary Fault Recovery in a Virtex FPGA Using a Representation that Incorporates Routing, Proceedings of the 17th International Symposium on Parallel and Distributed Processing, p.172.1, April 22-26, 2003
+R. E. Lyons , W. Vanderkulk, The use of triple-modular redundancy to improve computer reliability, IBM Journal of Research and Development, v.6 n.2, p.200-209, April 1962[doi>10.1147/rd.62.0200]
+Lysaght, P., Blodget, B., Mason, J., Young, J. A. Y. J., and Bridgford, B. A. B. B. 2006. Enhanced architectures, design methodologies and CAD tools for dynamic reconfiguration of xilinx FPGAs. In Proceedings of the International Conference on Field Programmable Logic and Applications. 1--6.
+Antonio Mesquita, Introduction to Evolvable Hardware: A Practical Guide for Designing Self-Adaptive Systems, Genetic Programming and Evolvable Machines, v.9 n.3, p.275-277, September 2008[doi>10.1007/s10710-008-9058-x]
+Miller, J. F., Thomson, P., and Fogarty, T. 1997. Designing electronic circuits using evolutionary algorithms. Arithmetic circuits: A case study. In Genetic Algorithms and Evolution Strategies in Engineering and Computer Science, D. Quagliarella, J. Periaux, C. Poloni and G. Winter, Eds., Wiley, 105--131.
+Melanie Mitchell, An introduction to genetic algorithms, MIT Press, Cambridge, MA, 1996
+Subhasish Mitra , W. -J. Huang , N. R. Saxena , S. -Y. Yu , E. J. McCluskey, Reconfigurable Architecture for Autonomous Self-Repair, IEEE Design & Test, v.21 n.3, p.228-240, May 2004[doi>10.1109/MDT.2004.18]
+Oreifej, R. S., Sharma, C. A., and DeMara, R. F. 2006. Expediting GA-based evolution using group testing techniques for reconfigurable hardware. In Proceedings of the IEEE International Conference on Reconfigurable Computing and FPGAs. 1--8.
+Cesar Ortega-Sanchez , Daniel Mange , Steve Smith , Andy Tyrrell, Embryonics: A Bio-Inspired Cellular Architecture with Fault-Tolerant Properties, Genetic Programming and Evolvable Machines, v.1 n.3, p.187-215, July 2000[doi>10.1023/A:1010080629099]
+Parris, M. G. 2008. Optimizing dynamic logic realizations for partial reconfiguration of field programmable gate arrays. Masters thesis, School of Electrical Engineering and Computer Science, University of Central Florida.
+Ratter, D. 2004. FPGAs on mars. Xcell J. 50, 8--11.
+Roosta, R. 2004. A comparison of radiation-hard and radiation-tolerant FPGAs for space applications. NASA Electronic Parts and Packaging (NEPP) Program JPL D-31228.
+Robert Ross , Richard Hall, A FPGA Simulation Using Asexual Genetic Algorithms for Integrated Self-Repair, Proceedings of the first NASA/ESA conference on Adaptive Hardware and Systems, p.301-304, June 15-18, 2006[doi>10.1109/AHS.2006.3]
+Hans-Paul Schwefel , Günter Rudolph, Contemporary Evolution Strategies, Proceedings of the Third European Conference on Advances in Artificial Life, p.893-907, June 04-06, 1995
+Shanthi, A. P., Vijayan, B., Rajendran, M., Veluswami, S., and Parthasarathi, R. 2002. GA based on-line testing and recovery for critical digital systems. In Proceedings of the HiPC Workshop on Soft Computing. 81--89.
+Carthik Anand Sharma , Ronald F. Demara, Sustainable fault-handling of reconfigurable logic using throughput-driven assessment, University of Central Florida, Orlando, FL, 2008
+Sharma, C. A., DeMara, R. F., and Sarvi, A. 2007. Self-healing reconfigurable logic using autonomous group testing. ACM Trans. Auton. Adapt. Syst.
+Trimberger, S. 1993. A reprogrammable gate array and applications. Proc. IEEE 81, 7, 1030--1041.
+Vigander, S. 2001. Evolutionary fault repair of electronics in space applications. Masters thesis, Department of Computer and Information Science, Norwegian University of Science and Technology (NTNU), Trondheim, Norway. 50.
+Wells, B. E. and Loo, S. M. 2001. On the use of distributed reconfigurable hardware in launch control avionics. In Proceedings of the 20th Digital Avionics Systems.
+Michael Wirthlin , Eric Johnson , Nathan Rollins , Michael Caffrey , Paul Graham, The Reliability of FPGA Circuit Designs in the Presence of Radiation Induced Configuration Upsets, Proceedings of the 11th Annual IEEE Symposium on Field-Programmable Custom Computing Machines, p.133, April 09-11, 2003
+Xilinx. 2007. Virtex-4 family overview. Xilinx Data Sheet 112.
+Xilinx. 2008. Radiation-Tolerant virtex-4 QPro-V family overview. Xilinx Data Sheet 653.
+Xilinx. 2009. Virtex-4 FPGA configuration user guide. Xilinx User Guide 071.
+Yang, S. 1991. Logic synthesis and optimization benchmarks user guide version 3.0. Tech. rep. Microelectronics Center of North Carolina.
+Yui, C. C., Swift, G. M., and Carmichael, C. 2003. SEU mitigation of xilinx virtex II FPGAs for critical flight applications. In Proceedings of the IEEE Nuclear and Space Radiation Effects Conference.
+Zhang, K., Bedette, G., and Demara, R. F. 2006. Triple modular redundancy with standby (TMRSB) supporting dynamic resource reconfiguration. In Proceedings of the IEEE Systems Readiness Technology Conference. 690--696.

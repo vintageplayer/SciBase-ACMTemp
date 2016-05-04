@@ -1,0 +1,22 @@
+Transmission Control Protocol(TCP) is the most commonly
+used transport protocol on the Internet. All indications assure
+that mobile computers and their wireless communication links will
+be an integral part of the future internetworks. In this paper, we
+present how regular TCP is well tuned to react to packet loss in
+wired networks. We then define mobility and the problems associated
+with it. We discuss why regular TCP is not suitable for mobile
+hosts and their wireless links by providing simulation results that
+demonstrate the effect of the high bit error rates of the wireless
+link on TCP performance. We discuss and illustrate the problems
+caused by the mobility of hosts using a graph tracing packets
+between fixed and mobile hosts. We then present a survey of the
+research done to improve the performance of TCP over mobile
+wireless networks. We classify the proposed solutions into three
+categories: link layer, end-to-end and split. We discuss the
+intuition behind each solution and present example protocols of
+each category. We discuss the protocols functionality, their
+strengths and weaknesses. We also provide a comparison of the
+different approaches in the same category and on the category
+level. We conclude this survey with a recommendation of the
+features that need to be satisfied in a standard mobile TCP
+protocol.

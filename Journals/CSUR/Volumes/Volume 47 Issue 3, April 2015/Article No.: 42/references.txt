@@ -1,0 +1,37 @@
+Peter Alvaro , Tyson Condie , Neil Conway , Joseph M. Hellerstein , Russell Sears, I do declare: consensus in a logic language, ACM SIGOPS Operating Systems Review, v.43 n.4, January 2010[doi>10.1145/1713254.1713261]
+Hagit Attiya , Amotz Bar-Noy , Danny Dolev, Sharing memory robustly in message-passing systems, Journal of the ACM (JACM), v.42 n.1, p.124-142, Jan. 1995[doi>10.1145/200836.200869]
+Romain Boichat , Partha Dutta , Svend Frølund , Rachid Guerraoui, Deconstructing paxos, ACM SIGACT News, v.34 n.1, March 2003[doi>10.1145/637437.637447]
+William J. Bolosky , Dexter Bradshaw , Randolph B. Haagens , Norbert P. Kusters , Peng Li, Paxos replicated state machines as the basis of a high-performance data store, Proceedings of the 8th USENIX conference on Networked systems design and implementation, March 30-April 01, 2011, Boston, MA
+Navin Budhiraja , Keith Marzullo , Fred B. Schneider , Sam Toueg, The primary-backup approach, Distributed systems (2nd Ed.), ACM Press/Addison-Wesley Publishing Co., New York, NY, 1993
+Mike Burrows, The Chubby lock service for loosely-coupled distributed systems, Proceedings of the 7th symposium on Operating systems design and implementation, November 06-08, 2006, Seattle, Washington
+Tushar Deepak Chandra , Sam Toueg, Unreliable failure detectors for asynchronous systems (preliminary version), Proceedings of the tenth annual ACM symposium on Principles of distributed computing, p.325-340, August 19-21, 1991, Montreal, Quebec, Canada[doi>10.1145/112600.112627]
+Roberto De Prisco , Butler Lampson , Nancy Lynch, Revisiting the PAXOS algorithm, Theoretical Computer Science, v.243 n.1-2, p.35-91, July 28, 2000[doi>10.1016/S0304-3975(00)00042-6]
+Michael J. Fischer , Nancy A. Lynch , Michael S. Paterson, Impossibility of distributed consensus with one faulty process, Journal of the ACM (JACM), v.32 n.2, p.374-382, April 1985[doi>10.1145/3149.214121]
+Eli Gafni , Leslie Lamport, Disk Paxos, Distributed Computing, v.16 n.1, p.1-20, February 2003[doi>10.1007/s00446-002-0070-8]
+C. Gray , D. Cheriton, Leases: an efficient fault-tolerant mechanism for distributed file cache consistency, Proceedings of the twelfth ACM symposium on Operating systems principles, p.202-210, November 1989[doi>10.1145/74850.74870]
+Jonathan Kirsch and Yair Amir. 2008a. Paxos for System Builders. Technical Report CNDS-2008-2. Johns Hopkins University, Baltimore, MD.
+Jonathan Kirsch , Yair Amir, Paxos for System Builders: an overview, Proceedings of the 2nd Workshop on Large-Scale Distributed Systems and Middleware, September 15-17, 2008, Yorktown Heights, New York, USA[doi>10.1145/1529974.1529979]
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+Leslie Lamport, The part-time parliament, ACM Transactions on Computer Systems (TOCS), v.16 n.2, p.133-169, May 1998[doi>10.1145/279227.279229]
+Leslie Lamport. 2001. Paxos made simple. ACM SIGACT News 32, 4, 51--58.
+Leslie Lamport. 2005. Generalized Consensus and Paxos. Technical Report MSR-TR-2005-33. Microsoft Research, Mountain View, CA. Available at http://research.microsoft.com/pubs/64631/tr-2005-33.pdf
+Leslie Lamport. 2006. Fast Paxos. Distributed Computing 19, 2, 79--103.
+Leslie Lamport, Dahlia Malkhi, and Lidong Zhou. 2008. Stoppable Paxos. Technical Report. Microsoft Research, Mountain View, CA. Available at http://research.microsoft.com/apps/pubs/default.aspx&quest;id=101826
+Leslie Lamport , Dahlia Malkhi , Lidong Zhou, Vertical paxos and primary-backup replication, Proceedings of the 28th ACM symposium on Principles of distributed computing, August 10-12, 2009, Calgary, AB, Canada[doi>10.1145/1582716.1582783]
+Leslie Lamport , Mike Massa, Cheap Paxos, Proceedings of the 2004 International Conference on Dependable Systems and Networks, p.307, June 28-July 01, 2004
+Butler W. Lampson, How to Build a Highly Available System Using Consensus, Proceedings of the 10th International Workshop on Distributed Algorithms, p.1-17, October 09-11, 1996
+Butler Lampson, The ABCD's of Paxos, Proceedings of the twentieth annual ACM symposium on Principles of distributed computing, p.13, August 2001, Newport, Rhode Island, USA[doi>10.1145/383962.383969]
+Harry C. Li , Allen Clement , Amitanand S. Aiyer , Lorenzo Alvisi, The Paxos Register, Proceedings of the 26th IEEE International Symposium on Reliable Distributed Systems, p.114-126, October 10-12, 2007
+Jacob R. Lorch , Atul Adya , William J. Bolosky , Ronnie Chaiken , John R. Douceur , Jon Howell, The SMART way to migrate replicated stateful services, Proceedings of the 1st ACM SIGOPS/EuroSys European Conference on Computer Systems 2006, April 18-21, 2006, Leuven, Belgium[doi>10.1145/1217935.1217946]
+Yanhua Mao , Flavio P. Junqueira , Keith Marzullo, Mencius: building efficient replicated state machines for WANs, Proceedings of the 8th USENIX conference on Operating systems design and implementation, p.369-384, December 08-10, 2008, San Diego, California
+David Mazières. 2007. Paxos Made Practical. Technical Report. Stanford University, Stanford, CA. Available at http://www.scs.stanford.edu/∼dm/home/papers/paxos.pdf
+Hein Meling , Leander Jehl, Tutorial Summary: Paxos Explained from Scratch, Proceedings of the 17th International Conference on Principles of Distributed Systems, p.1-10, December 16-18, 2013, Nice, France[doi>10.1007/978-3-319-03850-6_1]
+C. Mohan , Don Haderle , Bruce Lindsay , Hamid Pirahesh , Peter Schwarz, ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging, ACM Transactions on Database Systems (TODS), v.17 n.1, p.94-162, March 1992[doi>10.1145/128765.128770]
+Iulian Moraru , David G. Andersen , Michael Kaminsky, There is more consensus in Egalitarian parliaments, Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems Principles, November 03-06, 2013, Farminton, Pennsylvania[doi>10.1145/2517349.2517350]
+Brian M. Oki , Barbara H. Liskov, Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems, Proceedings of the seventh annual ACM Symposium on Principles of distributed computing, p.8-17, August 15-17, 1988, Toronto, Ontario, Canada[doi>10.1145/62546.62549]
+Diego Ongaro , John Ousterhout, In search of an understandable consensus algorithm, Proceedings of the 2014 USENIX conference on USENIX Annual Technical Conference, June 19-20, 2014, Philadelphia, PA
+Richard D. Schlichting , Fred B. Schneider, Fail-stop processors: an approach to designing fault-tolerant computing systems, ACM Transactions on Computer Systems (TOCS), v.1 n.3, p.222-238, August 1983[doi>10.1145/357369.357371]
+Fred B. Schneider, Implementing fault-tolerant services using the state machine approach: a tutorial, ACM Computing Surveys (CSUR), v.22 n.4, p.299-319, Dec. 1990[doi>10.1145/98163.98167]
+Robert H. Thomas, A Majority consensus approach to concurrency control for multiple copy databases, ACM Transactions on Database Systems (TODS), v.4 n.2, p.180-209, June 1979[doi>10.1145/320071.320076]
+Robbert van Renesse, Nicolas Schiper, and Fred B. Schneider. 2014. Vive la différence: Paxos vs. Viewstamped Replication vs. Zab. IEEE Transactions on Dependable and Secure Computing PP, 99, 1.
+Robbert van Renesse, Fred B. Schneider, and Johannes Gehrke. 2011. Nerio: Leader Election and Edict Ordering. Technical Report. Cornell University, Ithaca, NY. Available at http://hdl.handle.net/1813/23631

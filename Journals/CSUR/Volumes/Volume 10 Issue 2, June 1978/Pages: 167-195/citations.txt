@@ -1,0 +1,74 @@
+Thomas Reps , Tim Tietelbaum , Alan Demers, Corrigenda, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.4, p.680, Oct. 1983
+Koji Nezu, System deadlocks resolution, Proceedings of the May 19-22, 1980, national computer conference, May 19-22, 1980, Anaheim, California
+T. S. Liu, The Role of a Maintenance Processor for a General-Purpose Computer System, IEEE Transactions on Computers, v.33 n.6, p.507-517, June 1984
+R. J. Peterson , J. P. Strickland, Log write-ahead protocols and IMS/VS logging, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia
+Daniel A. Menascé , Oscar E. Landes, On the design of a reliable storage component for distributed database management systems, Proceedings of the sixth international conference on Very Large Data Bases, p.365-375, October 01-03, 1980, Montreal, Quebec, Canada
+Joel Arditi, An optimized backout mechanism for sequential updates, Proceedings of the fifth international conference on Very Large Data Bases, p.147-154, October 03-05, 1979, Rio de Janeiro, Brazil
+C. J. Date, Locking and recovery in a shared database system: an application programming tutorial, Proceedings of the fifth international conference on Very Large Data Bases, p.1-15, October 03-05, 1979, Rio de Janeiro, Brazil
+Wilfred J. Hansen, Progressive acyclic digraphs—a tool for database integrity, Communications of the ACM, v.22 n.9, p.513-518, Sept. 1979
+Raj Sekhar Pamula , Pradip K. Srimani, Checkpointing strategies for database systems, Proceedings of the 15th annual conference on Computer Science, p.88-97, February 1987, St. Louis, Missouri, USA
+Matthew S. Hecht , John D. Gabbe, Shadowed management of free disk pages with a linked list, ACM Transactions on Database Systems (TODS), v.8 n.4, p.503-514, Dec. 1983
+Andrea J. Borr, Robustness to Crash in a Distributed Database: A Non Shared-memory Multi-Processor Approach, Proceedings of the 10th International Conference on Very Large Data Bases, p.445-453, August 27-31, 1984
+Bharat Bhargava, Software reliability in real-time systems, Proceedings of the May 4-7, 1981, national computer conference, May 04-07, 1981, Chicago, Illinois
+Andreas Reuter, Minimizing the I/O-operations for undo-logging in database systems, Proceedings of the fifth international conference on Very Large Data Bases, p.164-172, October 03-05, 1979, Rio de Janeiro, Brazil
+Bharat Bhargava , Leszek Lilien, Feature analysis of selected database recovery techniques, Proceedings of the May 4-7, 1981, national computer conference, May 04-07, 1981, Chicago, Illinois
+Fred J. Maryanski, An architecture for fault tolerance in database systems, Proceedings of the ACM 1980 annual conference, p.389-398, January 1980
+J. Eliot B. Moss, Log-Based Recovery for Nested Transactions, Proceedings of the 13th International Conference on Very Large Data Bases, p.427-432, September 01-04, 1987
+John Kaunitz , Louis van Ekert, Audit trail compaction for database recovery, Communications of the ACM, v.27 n.7, p.678-683, July 1984
+D. Z. Badal , G. J. Popek, Cost and performance analysis of semantic integrity validation methods, Proceedings of the 1979 ACM SIGMOD international conference on Management of data, May 30-June 01, 1979, Boston, Massachusetts
+M. Herlihy, Extending Multiversion Time-Stamping Protocols to Exploit Type Information, IEEE Transactions on Computers, v.36 n.4, p.443-448, April 1987
+Anita Borg , Wolfgang Blau , Wolfgang Graetsch , Ferdinand Herrmann , Wolfgang Oberle, Fault tolerance under UNIX, ACM Transactions on Computer Systems (TOCS), v.7 n.1, p.1-24, Feb. 1989
+James E. Archer, Jr. , Richard Conway , Fred B. Schneider, User Recovery and Reversal in Interactive Systems, ACM Transactions on Programming Languages and Systems (TOPLAS), v.6 n.1, p.1-19, Jan. 1984
+Randal C. Burns , Darrell D. E. Long, Efficient distributed backup with delta compression, Proceedings of the fifth workshop on I/O in parallel and distributed systems, p.27-36, November 17-17, 1997, San Jose, California, USA
+Vassos Hadzilacos, An operational model for database system reliability, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia
+Micael Hammer , David Shipman, Reliability mechanisms for SDD-1: a system for distributed databases, ACM Transactions on Database Systems (TODS), v.5 n.4, p.431-466, Dec.  1980
+G. Gardarin , W. W. Chu, A Distributed Control Algorithm for Reliably and Consistently Updating Replicated Databases, IEEE Transactions on Computers, v.29 n.12, p.1060-1068, December 1980
+H. Breitwieser , U. Kersten, Transaction and catalog management of the distributed file management system DISCO, Proceedings of the fifth international conference on Very Large Data Bases, p.340-350, October 03-05, 1979, Rio de Janeiro, Brazil
+George Gardarin , Wesley W. Chu, A reliable distributed control algorithm for updating replicated databases, Proceedings of the sixth symposium on Data communications, p.42-51, November 27-29, 1979, Pacific Grove, California, United States
+Michel E. Adiba , Bruce G. Lindsay, Database snapshots, Proceedings of the sixth international conference on Very Large Data Bases, p.86-91, October 01-03, 1980, Montreal, Quebec, Canada
+Alfonso F. Cardenas , Farid Alavian , Algirdas Avizienis, Performance of recovery architectures in parallel associative database processors, ACM Transactions on Database Systems (TODS), v.8 n.3, p.291-323, Sept. 1983
+Margaret H. Eich, Main memory database recovery, Proceedings of 1986 ACM Fall joint computer conference, p.1226-1232, November 1986, Dallas, Texas, United States
+R B Hagmann, A Crash Recovery Scheme for a Memory-Resident Database System, IEEE Transactions on Computers, v.35 n.9, p.839-843, September 1986
+Philip A. Bernstein , Nathan Goodman, The failure and recovery problem for replicated databases, Proceedings of the second annual ACM symposium on Principles of distributed computing, p.114-122, August 17-19, 1983, Montreal, Quebec, Canada
+Patrick A. V. Hall, Adding database management to Ada, ACM SIGAda Ada Letters, v.II n.4, p.88-91, January/February 1983
+J. L. Kim , T. Park, An Efficient Protocol for Checkpointing Recovery in Distributed Systems, IEEE Transactions on Parallel and Distributed Systems, v.4 n.8, p.955-960, August 1993
+Fred J. Maryanski , Kirk A. Norsworthy, A model of the performance of a rollback algorithm, Proceedings of the 1979 annual conference, p.54-61, January 1979
+Antony L. Hosking , Eric W. Brown , J. Eliot B. Moss, Update Logging for Persistent Programming Languages: A Comparative Performance Evaluation, Proceedings of the 19th International Conference on Very Large Data Bases, p.429-440, August 24-27, 1993
+Michael L. Powell , David L. Presotto, Publishing: a reliable broadcast communication mechanism, ACM SIGOPS Operating Systems Review, v.17 n.5, p.100-109, October 1983
+V. F. Nicola , J. M. van Spanje, Comparative Analysis of Different Models of Checkpointing and Recovery, IEEE Transactions on Software Engineering, v.16 n.8, p.807-821, August 1990
+L. Chiu , M. T. Liu, High level specification of concurrency control in distributed database systems, Proceedings of the 10th international conference on Software engineering, p.309-317, April 11-15, 1988, Singapore
+Peter Dadam , Vincent Y. Lum , U. Prädel , Gunter Schlageter, Selective deferred index maintenance & concurrency control in integrated information systems, Proceedings of the 11th international conference on Very Large Data Bases, p.142-150, August 21-23, 1985, Stockholm, Sweden
+D. Agrawal , A. El Abbadi , A. E. Lang, The Performance of Protocols Based on Locks with Ordered Sharing, IEEE Transactions on Knowledge and Data Engineering, v.6 n.5, p.805-818, October 1994
+J. B. Rothnie, Jr. , P. A. Bernstein , S. Fox , N. Goodman , M. Hammer , T. A. Landers , C. Reeve , D. W. Shipman , E. Wong, Introduction to a system for distributed databases (SDD-1), ACM Transactions on Database Systems (TODS), v.5 n.1, p.1-17, March 1980
+Bernd Walter, Strategies for handling transactions in distributed data base systems during recovery, Proceedings of the sixth international conference on Very Large Data Bases, p.384-389, October 01-03, 1980, Montreal, Quebec, Canada
+Andreas Reuter, Performance analysis of recovery techniques, ACM Transactions on Database Systems (TODS), v.9 n.4, p.526-559, Dec. 1984
+Patrick A. V. Hall, Adding database management to Ada, ACM SIGMOD Record, v.13 n.3, p.13-17, April 1983
+Robert A. Burnett , Paula J. Cowley , James J. Thomas, Management and display of data analysis environments for large data sets, Proceedings of the 2nd international workshop on Proceedings of the Second International Workshop on Statistical Database Management, p.22-31, September 27-29, 1983, Los Altos, California
+Oscar Nierstrasz , Dennis Tsichritzis, An object-oriented environment for OIS applications, Proceedings of the 11th international conference on Very Large Data Bases, p.335-345, August 21-23, 1985, Stockholm, Sweden
+Y. C. Hong , Stanley Y. W. Su, Associative hardware and software techniques for integrity control, ACM Transactions on Database Systems (TODS), v.6 n.3, p.416-440, Sept. 1981
+Fred Maryanski, Data-server design issues, Proceedings of the June 7-10, 1982, national computer conference, June 07-10, 1982, Houston, Texas
+Michael J. Carey , David J. DeWitt , Joel E. Richardson , Eugene J. Shekita, Object and File Management in the EXODUS Extensible Database System, Proceedings of the 12th International Conference on Very Large Data Bases, p.91-100, August 25-28, 1986
+Asser N. Tantawi , Manfred Ruschitzka, Performance analysis of checkpointing strategies, ACM Transactions on Computer Systems (TOCS), v.2 n.2, p.123-144, May 1984
+Maurice Herlihy, Dynamic quorum adjustment for partitioned data, ACM Transactions on Database Systems (TODS), v.12 n.2, p.170-194, June 1987
+Maurice Herlihy, A quorum-consensus replication method for abstract data types, ACM Transactions on Computer Systems (TOCS), v.4 n.1, p.32-53, Feb. 1986
+Salvatore T. March , Gary D. Scudder, On the selection of efficient record segmentations and backup strategies for large shared databases, ACM Transactions on Database Systems (TODS), v.9 n.3, p.409-438, Sept. 1984
+D. Agrawal , A. El Abbadi , R. Jeffers, An approach to eliminate transaction blocking in locking protocols, Proceedings of the eleventh ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.223-235, June 02-05, 1992, San Diego, California, United States
+Vassos Hadzilacos, A theory of reliability in database systems, Journal of the ACM (JACM), v.35 n.1, p.121-145, Jan. 1988
+Pentti A. Honkanen, Concurrency control and integrity preservation for the `RIM' DBMS, ACM SIGMIS Database, v.15 n.3, p.34-39, Spring 1984
+Rex E. Gantenbein, An annotated bibliography of dependable distributed computing, ACM SIGOPS Operating Systems Review, v.26 n.2, p.60-81, April 1992
+Theo Haerder , Andreas Reuter, Principles of transaction-oriented database recovery, ACM Computing Surveys (CSUR), v.15 n.4, p.287-317, December 1983
+T. J. Lehman , B. G. Lindsay, The Starburst long field manager, Proceedings of the 15th international conference on Very large data bases, p.375-383, July 1989, Amsterdam, The Netherlands
+Divyakant Agrawal , Amr El Abbadi , Richard Jeffers , Lijing Lin, Ordered shared locks for real-time databases, The VLDB Journal — The International Journal on Very Large Data Bases, v.4 n.1, p.87-126, January 1995
+Michel E. Adiba, Derived relations: a unified mechanism for views, snapshots, and distributed data, Proceedings of the seventh international conference on Very Large Data Bases, p.293-305, September 09-11, 1981, Cannes, France
+Nathan Goodman , Dale Skeen , Arvola Chan , Umeshwar Dayal , Stephen Fox , Daniel Ries, A recovery algorithm for a distributed database system, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia
+Rakesh Agrawal , David J. Dewitt, Integrated concurrency control and recovery mechanisms: design and performance evaluation, ACM Transactions on Database Systems (TODS), v.10 n.4, p.529-564, Dec. 1985
+Michael J. Carey , David J. DeWitt , Daniel Frank , M. Muralikrishna , Goetz Graefe , Joel E. Richardson , Eugene J. Shekita, The architecture of the EXODUS extensible DBMS, Proceedings on the 1986 international workshop on Object-oriented database systems, p.52-65, September 23-26, 1986, Pacific Grove, California, United States
+Fred J. Maryanski, Backend Database Systems, ACM Computing Surveys (CSUR), v.12 n.1, p.3-25, March 1980
+Jon D. Clark , Frederick G. Davis, Notes on the state of data base audit, ACM SIGMOD Record, v.13 n.1, p.79-91, September 1982
+Windsor W. Hsu , Alan Jay Smith , Honesty C. Young, The automatic improvement of locality in storage systems, ACM Transactions on Computer Systems (TOCS), v.23 n.4, p.424-473, November 2005
+Walter H. Kohler, A Survey of Techniques for Synchronization and Recovery in Decentralized Computer Systems, ACM Computing Surveys (CSUR), v.13 n.2, p.149-183, June 1981
+George B. Leeman, Jr., A formal approach to undo operations in programming languages, ACM Transactions on Programming Languages and Systems (TOPLAS), v.8 n.1, p.50-87, Jan. 1986
+Jun-Lin Lin , Margaret H. Dunham, A Survey of Distributed Database Checkpointing, Distributed and Parallel Databases, v.5 n.3, p.289-319, July 1997
+Christian Colombo , Gordon J. Pace, Recovery within long-running transactions, ACM Computing Surveys (CSUR), v.45 n.3, p.1-35, June 2013
+Won Kim, Relational Database Systemsr, ACM Computing Surveys (CSUR), v.11 n.3, p.187-211, Sept. 1979
+Matthias Jarke , Jurgen Koch, Query Optimization in Database Systems, ACM Computing Surveys (CSUR), v.16 n.2, p.111-152, June 1984

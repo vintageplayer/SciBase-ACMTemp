@@ -1,0 +1,107 @@
+Keith Adams and Ole Agesen. 2006. A comparison of software and hardware techniques for X86 virtualization. ACM Sigplan Notices 41, 11, 2--13.
+Alexandra Aguiar and Fabiano Hessel. 2010. Embedded systems’ virtualization: The next challenge? In Proceedings of the 21st IEEE International Symposium on Rapid System Prototyping (RSP’10). IEEE, Los Alamitos, CA, 1--7.
+Alexandra Aguiar and Fabiano Hessel. 2011. Virtual Hellfire hypervisor: Extending Hellfire framework for embedded virtualization support. In Proceedings of the 12th International Symposium on Quality Electronic Design (ISQED’11). 1--8.
+Alexandra da Costa Pinto de Aguiar. 2014. On the Virtualization of Multiprocessed Embedded Systems. Ph.D. Dissertation. Pontifícia Universidade Católica do Rio Grande do Sul.
+Raja Wasim Ahmad, Abdullah Gani, Siti Hafizah Ab Hamid, Muhammad Shiraz, Abdullah Yousafzai, and Feng Xia. 2015a. A survey on virtual machine migration and server consolidation frameworks for cloud data centers. Journal of Network and Computer Applications 52, 11--25.
+Raja Wasim Ahmad, Abdullah Gani, Siti Hafizah Ab. Hamid, Feng Xia, and Muhammad Shiraz. 2015b. A review on mobile application energy profiling: Taxonomy, state-of-the-art, and open research issues. Journal of Network and Computer Applications 58, 42--59.
+Ejaz Ahmed, Abdullah Gani, Mehdi Sookhak, Siti Hafizah Ab Hamid, and Feng Xia. 2015. Application optimization in mobile cloud computing: Motivation, taxonomies, and open challenges. Journal of Network and Computer Applications 52, 52--68.
+Adnan Akhunzada, Ejaz Ahmed, Abdullah Gani, Muhammad Khan, Muhammad Imran, and Sghaier Guizani. 2015. Securing software defined networks: Taxonomy, requirements, and open issues. IEEE Communications Magazine 53, 4, 36--44.
+Jeremy Andrus, Christoffer Dall, Alexander Van’t Hof, Oren Laadan, and Jason Nieh. 2011. Cells: A virtual mobile smartphone architecture. In Proceedings of the 23rd ACM Symposium on Operating Systems Principles. 173--187.
+ARM. 2015. Fast Models. Available at https://silver.arm.com/browse/FM000.
+ARM Architecture Group. 2009. ARM Security Technology: Building a Secure System Using TrustZone Technology. Technical Report. ARM.
+ARM Architecture Group. 2010a. ARM Generic Interrupt Controller Architecture Specification 2.0. Technical Report. ARM Limited. http://infocenter.arm.com/help/index.jsp?topic&equals;/com.arm.doc.ihi0048b/index.html.
+ARM Architecture Group. 2010b. ARM Generic Timer Specification. Technical Report. ARM Limited. http://infocenter.arm.com/help/index.jsp?topic&equals;/com.arm.doc.ddi0438c/BGBBIJCB.html.
+ARM Architecture Group. 2014a. ARM Architecture Reference Manual (armv7-a and armv7-r ed.). ARM.
+ARM Architecture Group. 2014b. TrustZone. Retrieved March 3, 2016, from http://www.arm.com/products/processors/technologies/trustzone/index.php.
+ARM Limited. 2011. Cortex-A15 Technical Reference Manual. ARM Limited. http://www.arm.com/products/processors/cortex-a/cortex-a15.php.
+François Armand and Michel Gien. 2009. A practical look at micro-kernels and virtual machine monitors. In Proceedings of the 6th IEEE Consumer Communications and Networking Conference (CCNC’09). 1--7.
+Rafael Vidal Aroca and Luiz Marcos Garcia Gonçalves. 2012. Towards green data centers: A comparison of X86 and arm architectures power efficiency. Journal of Parallel and Distributed Computing 72, 12, 1770--1780.
+Antonio Barbalace, Marina Sadini, Saif Ansary, Christopher Jelesnianski, Akshay Ravichandran, Cagil Kendir, Alastair Murray, and Binoy Ravindran. 2015. Popcorn: Bridging the programmability gap in heterogeneous-ISA platforms. In Proceedings of the 10th European Conference on Computer Systems. ACM, New York, NY, 29.
+Ken Barr, Prashanth Bungale, Stephen Deasy, Viktor Gyuris, Perry Hung, Craig Newell, Harvey Tuch, and Bruno Zoppis. 2010. The VMware mobile virtualization platform: Is that a hypervisor in your pocket? ACM SIGOPS Operating Systems Review 44, 4, 124--135.
+Fabrice Bellard. 2005. QEMU, a fast and portable dynamic translator. In Proceedings of the USENIX Annual Technical Conference, FREENIX Track. 41--46.
+Cory Bialowas. 2010. Achieving Business Goals with Wind River’s Multicore Software Solution. Technical Report.
+Nilton Bila, Eric J. Wright, Eyal De Lara, Kaustubh Joshi, H. Andrés Lagar-Cavilla, Eunbyung Park, Ashvin Goel, Matti Hiltunen, and Mahadev Satyanarayanan. 2015. Energy-oriented partial desktop virtual machine migration. ACM Transactions on Computer Systems 33, 1, Article No. 2. DOI:http://dx.doi.org/10.1145/2699683
+K. Bilal, S. U. R. Malik, S. U. Khan, and A. Y. Zomaya. 2014. Trends and challenges in cloud data centers. IEEE Cloud Computing Magazine 1, 1, 10--20.
+Nathan Binkert, Bradford Beckmann, Gabriel Black, Steven K. Reinhardt, Ali Saidi, Arkaprava Basu, Joel Hestness, Derek R. Hower, Tushar Krishna, Somayeh Sardashti, Rathijit Sen, Korey Sewell, Muhammad Shoaib, Nilay Vaish, Mark D. Hill, and David A. Wood. 2011. The gem5 simulator. ACM SIGARCH Computer Architecture News 39, 2, 1--7.
+Bernard Blackham and Gernot Heiser. 2012. Correct, fast, maintainable: Choose any three! In Proceedings of the Asia-Pacific Workshop on Systems. 13.
+Emily Blem, Jaikrishnan Menon, Thiruvengadam Vijayaraghavan, and Karthikeyan Sankaralingam. 2015. ISA wars: Understanding the relevance of ISA being RISC or CISC to performance, power, and energy on modern architectures. ACM Transactions on Computer Systems 33, 1, 3.
+Daniele Bortolotti, Christian Pinto, Andrea Marongiu, Martino Ruggiero, and Luca Benini. 2013. VirtualSoC: A full-system simulation environment for massively parallel heterogeneous system-on-chip. In Proceedings of the IEEE 27th International Symposium on Parallel and Distributed Processing Workshops and PhD Forum. 2182--2187.
+Jörg Brakensiek, Axel Dröge, Martin Botteck, Hermann Härtig, and Adam Lackorzynski. 2008. Virtualization as an enabler for security in mobile devices. In Proceedings of the 1st Workshop on Isolation and Integration in Embedded Systems. 17--22.
+David Brash. 2010. Extensions to the ARMv7-A architecture. In Hot Chips, Vol. 22. ARM.
+Brian Carlson. 2011. Going Beyond a Faster Horse to Transform Mobile Devices. Technical Report. Texas Instruments.
+Wenzhi Chen, Lei Xu, Guoxi Li, and Yang Xiang. 2015. A lightweight virtualization solution for Android devices. IEEE Transactions on Computers 64, 10, 2741--2751. DOI:http://dx.doi.org/10.1109/TC.2015.2389791
+Xiaoyi Chen. 2011. Smartphone virtualization: Status and challenges. In Proceedings of the International Conference on Electronics, Communications, and Control (ICECC’11). IEEE, Los Alamitos, CA, 2834--2839.
+Christoffer Dall, Jeremy Andrus, Alexander Vant Hof, Oren Laadan, and Jason Nieh. 2012. The design, implementation, and evaluation of cells: A virtual smartphone architecture. ACM Transactions on Computer Systems 30, 3, 9.
+Christoffer Dall and Jason Nieh. 2010. KVM for ARM. In Proceedings of the Ottawa Linux Symposium. 45--56.
+Christoffer Dall and Jason Nieh. 2014. KVM/ARM: The design and implementation of the Linux ARM hypervisor. In Proceedings of the 19th International Conference on Architectural Support for Programming Languages and Operating Systems. 333--348.
+Jiun-Hung Ding, Roger Chien, Shih-Hao Hung, Yi-Lan Lin, Che-Yang Kuo, Ching-Hsien Hsu, and Yeh-Ching Chung. 2014. A framework of cloud-based virtual phones for secure intelligent information management. International Journal of Information Management 34, 3, 329--335.
+Jiun-Hung Ding, Chang-Jung Lin, Ping-Hao Chang, Chieh-Hao Tsang, Wei-Chung Hsu, and Yeh-Ching Chung. 2012. ARMvisor: System virtualization for ARM. In Proceedings of the Ottawa Linux Symposium (OLS’12). 93--107.
+Viktor Do. 2011. Security Services on an Optimized Thin Hypervisor for Embedded Systems. Ph.D. Dissertation. Lund University.
+YaoZu Dong, JunJie Mao, HaiBing Guan, Jian Li, and Yu Chen. 2015. A virtualization solution for BYOD with dynamic platform context switching. IEEE Micro 35, 1, 34--43.
+Heradon Douglas. 2010. Thin Hypervisor-Based Security Architectures for Embedded Platforms. Ph.D. Dissertation. Royal Institute of Technology.
+Daniel R. Ferstay. 2006. Fast Secure Virtualization for the Arm Platform. Ph.D. Dissertation. University of British Columbia.
+Justin M. Forbes. 2007. Why virtualization fragmentation sucks. In Proceedings of the Linux Symposium, Vol. 1. 125--130.
+Thomas Gaska, Brian Werner, and David Flagg. 2010. Applying virtualization to avionics systems—the integration challenges. In Proceedings of the IEEE/AIAA 29th Digital Avionics Systems Conference (DASC’10). 5.E.1-1--5.E.1-19.
+Katharina Gilles, Stefan Groesbrink, Daniel Baldin, and Timo Kerstan. 2013. Proteus hypervisor: Full virtualization and paravirtualization for multi-core embedded systems. In Embedded Systems: Design, Analysis and Verification. Springer, 293--305.
+Sylvain Girbal, Miquel Moretó, Arnaud Grasset, Jaume Abella, Eduardo Quinones, Francisco J. Cazorla, and Sami Yehia. 2013. The next convergence: High-performance and mission-critical markets. In Proceedings of the 8th International Conference on High-Performance and Embedded Architectures and Compilers (HiPEAC’13). 1--11.
+John Goodacre. 2011. Hardware accelerated virtualization in the ARM Cortex processors. In Proceedings of XenSummit Asia.
+John Goodacre. 2013. The evolution of the ARM architecture towards big data and the data-centre (abstract only). In Proceedings of the 8th Workshop on Virtualization in High-Performance Cloud Computing (VHPC’13). ACM, New York, NY, Article No. 4. http://doi.acm.org/10.1145/2535800.2535921
+John Goodacre and Andrew N. Sloss. 2005. Parallelism and the ARM instruction set architecture. Computer 38, 7, 42--50.
+Green Hills Software. 2013. Integrity Multivisor: Secure Virtualization for ARM. Technical Report. Green Hills.
+Yan Grunenberger, Ilenia Tinnirello, Pierluigi Gallo, Eduard Goma, and Giuseppe Bianchi. 2012. Wireless card virtualization: From virtual NICs to virtual MAC machines. In Proceedings of the Future Network and Mobile Summit (FutureNetw’12). 1--10.
+Zonghua Gu and Qingling Zhao. 2012. A state-of-the-art survey on real-time issues in embedded systems virtualization. Journal of Software Engineering and Applications 5, 4, 277--290.
+Kevin Gudeth, Matthew Pirretti, Katrin Hoeper, and Ron Buskey. 2011. Delivering secure applications on commercial mobile devices: The case for bare metal hypervisors. In Proceedings of the 1st ACM Workshop on Security and Privacy in Smartphones and Mobile Devices. 33--38.
+Gernot Heiser. 2007. Virtualization for Embedded Systems. Technical Report. Open Kernel Labs.
+Gernot Heiser. 2008. The role of virtualization in embedded systems. In Proceedings of the 1st Workshop on Isolation and Integration in Embedded Systems. 11--16.
+Gernot Heiser. 2009a. Hypervisors for consumer electronics. In Proceedings of the 6th IEEE Consumer Communications and Networking Conference (CCNC’09). 1--5.
+Gernot Heiser. 2009b. The Motorola Evoke QA4-A Case Study in Mobile Virtualization. Technical Report. Open Kernel Labs.
+Gernot Heiser. 2011. Virtualizing embedded systems: Why bother? In Proceedings of the 48th Design Automation Conference. 901--905.
+Gernot Heiser and Ben Leslie. 2010. The OKL4 microvisor: Convergence point of microkernels and hypervisors. In Proceedings of the 1st ACM Asia-Pacific Workshop on Workshop on Systems. ACM, New York, NY, 19--24.
+Joo-Young Hwang, Sang-Bum Suh, Sung-Kwan Heo, Chan-Ju Park, Jae-Min Ryu, Seong-Yeol Park, and Chul-Ryun Kim. 2008. Xen on ARM: System virtualization using Xen hypervisor for ARM-based secure mobile phones. In Proceedings of the 5th IEEE Consumer Communications and Networking Conference. 257--261.
+Hiroaki Inoue, Junji Sakai, and Masato Edahiro. 2008. Processor virtualization for secure mobile terminals. ACM Transactions on Design Automation of Electronic Systems 13, 3, 48.
+Yaser Jararweh, Lo’ai Tawalbeh, Fadi Ababneh, Abdallah Khreishah, and Fahd Dosari. 2014. Scalable cloudlet-based mobile computing model. Procedia Computer Science 34, 434--441.
+M. Tim Jones. 2011. Virtualization for Embedded Systems. White Paper. International Business Machines Corporation, Armonk, NY.
+A. Khan, M. Othman, S. Madani, and S. Khan. 2014. A survey of mobile cloud computing application models. IEEE Communications Surveys and Tutorials 16, 1, 393--413.
+Travis Lanier. 2011. Exploring the Design of the Cortex-a15 Processor. Technical Report. ARM.
+Kihong Lee, Dongwoo Lee, and Young Ik Eom. 2015. Power-efficient and high-performance block I/O framework for mobile virtualization systems. In Proceedings of the 9th International Conference on Ubiquitous Information Management and Communication. ACM, New York, NY, 57.
+Yuan-Cheng Lee and Chih-Wen Hsueh. 2013. An optimized page translation for mobile virtualization. In Proceedings of the 50th Annual Design Automation Conference. ACM, New York, NY, 85.
+Joshua LeVasseur, Volkmar Uhlig, Yaowei Yang, Matthew Chapman, Peter Chubb, Ben Leslie, and Gernot Heiser. 2008. Pre-virtualization: Soft layering for virtual machines. In Proceedings of the 13th Asia-Pacific Computer Systems Architecture Conference (ACSAC’08). 1--9.
+Wenhao Li, Liang Liang, Mingyang Ma, Yubin Xia, and Haibo Chen. 2015. Poster: TVisor—a practical and lightweight mobile red-green dual-OS architecture. In Proceedings of the 13th Annual International Conference on Mobile Systems, Applications, and Services. ACM, New York, NY, 485--485.
+Chengchao Liang and F. Richard Yu. 2015. Wireless network virtualization: A survey, some research issues and challenges. IEEE Communications Surveys and Tutorials 17, 1, 358--380.
+Marius Marcu and Dacian Tudor. 2012. Energy efficiency measurements of mobile virtualization systems. In Security and Privacy in Mobile Information and Communication Systems. Springer, 88--100.
+Roberto Mijat and Andy Nightingale. 2011. Virtualization Is Coming to a Platform Near You. White Paper. ARM.
+Aashish Mittal, Dushyant Bansal, Sorav Bansal, and Varun Sethi. 2013. Efficient virtualization on embedded power architecture® platforms. ACM SIGPLAN Notices 48, 4, 445--458.
+Saad Mustafa, Babar Nazir, Amir Hayat, Atta ur Rehman Khan, and Sajjad A. Madani. 2015. Resource management in cloud computing: Taxonomy, prospects, and challenges. Computers and Electrical Engineering, 186--203.
+Seyed Hossein Nikounia and Siamak Mohammadi. 2015. Gem5v: A modified gem5 for simulating virtualized systems. Journal of Supercomputing 71, 4, 1484--1504.
+Soo-Cheol Oh, KangHo Kim, KwangWon Koh, and Chang-Won Ahn. 2010. ViMo (virtualization for mobile): A virtual machine monitor supporting full virtualization for ARM mobile systems. In Proceedings of the 1st International Conference on Cloud Computing, GRIDs, and Virtualization. 48--53.
+OpenVZ. 2015. OpenVZ Wiki Main Page. Retrieved March 3, 2016, from http://wiki.openvz.org/Main_Page.
+Sixto Ortiz. 2011. Chipmakers ARM for battle in traditional computing market. Computer 44, 4, 14--17.
+Niels Penneman, Danielius Kudinskas, Alasdair Rawsthorne, Bjorn De Sutter, and Koen De Bosschere. 2013. Formal virtualization requirements for the ARM architecture. Journal of Systems Architecture 59, 3, 144--154.
+Gerald J. Popek and Robert P. Goldberg. 1974. Formal requirements for virtualizable third generation architectures. Communications of the ACM 17, 7, 412--421.
+PowerPC. 2009. Hardware and Software Assists in Virtualization. Technical Report. Freescale Semiconductor.
+Nikola Rajovic, Alejandro Rico, Nikola Puzovic, Chris Adeniyi-Jones, and Alex Ramirez. 2014. Tibidabo: Making the case for an ARM-based HPC system. Future Generation Computer Systems 36, 322--334.
+Rahul Ramasubramanian. 2011. Exploring Virtualization Platforms for ARM Based Mobile Android Devices. Master’s Thesis. North Carolina State University.
+Manoj R. Rege, Vlado Handziski, and Adam Wolisz. 2013. Crowdmeter: An emulation platform for performance evaluation of crowd-sensing applications. In Proceedings of the 2013 ACM Conference on Pervasive and Ubiquitous Computing Adjunct Publication. ACM, New York, NY, 1111--1122.
+Daniel Rossier. 2012. EmbeddedXEN: A Revisited Architecture of the XEN Hypervisor to Support ARM-Based Embedded Virtualization. White Paper. Switzerland.
+Rusty Russell. 2008. Virtio: Towards a de-facto standard for virtual I/O devices. ACM SIGOPS Operating Systems Review 42, 5, 95--103.
+Giovanni Russello, Mauro Conti, Bruno Crispo, and Earlence Fernandes. 2012. MOSES: Supporting operation modes on smartphones. In Proceedings of the 17th ACM Symposium on Access Control Models and Technologies. 3--12.
+Mahadev Satyanarayanan. 2015. A brief history of cloud offload: A personal journey from Odyssey through cyber foraging to cloudlets. ACM SIGMOBILE Mobile Computing and Communications Review 18, 4, 19--23.
+Ryan Shea and Jiangchuan Liu. 2012. Network interface virtualization: Challenges and solutions. IEEE Network 26, 5, 28--34.
+J. Shuja, K. Bilal, S. A. Madani, M. Othman, R. Ranjan, P. Balaji, and S. U. Khan. 2014b. Survey of techniques and architectures for designing energy-efficient data centers. IEEE Systems Journal PP, 99, 1--13. DOI:http://dx.doi.org/10.1109/JSYST.2014.2315823
+Junaid Shuja, Kashif Bilal, Sajjad Ahmad Madani, and Samee U. Khan. 2014a. Data center energy efficient resource scheduling. Cluster Computing 17, 4, 1265--1277.
+Alexey Smirnov, Mikhail Zhidko, Yingshiuan Pan, Po-Jui Tsao, Kuang-Chih Liu, and Tzi-Cker Chiueh. 2013. Evaluation of a server-grade software-only ARM hypervisor. In Proceedings of the IEEE 6th International Conference on Cloud Computing. 855--862.
+Brad Smith. 2008. ARM and Intel battle over the mobile chip’s future. Computer 41, 5, 15--18.
+Shivani Sud, Roy Want, Trevor Pering, Kent Lyons, Barbara Rosario, and Michelle X. Gong. 2012. Dynamic migration of computation through virtualization of the mobile platform. Mobile Networks and Applications 17, 2, 206--215.
+Sang-Bum Suh. 2007. Secure architecture and implementation of Xen on ARM for mobile devices. In Proceedings of the4th Xen Summit.
+Akihiro Suzuki and Shuichi Oikawa. 2013. Analysis of the ARM architecture’s ability to support a virtual machine monitor through a simple implementation. International Journal of Networking and Computing 3, 1, 153.
+Ehsan Totoni, Babak Behzad, Swapnil Ghike, and Josep Torrellas. 2012. Comparing the power and performance of Intel’s SCC to state-of-the-art CPUs and GPUs. In Proceedings of the 2012 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS’12). IEEE, Los Alamitos, CA, 78--87.
+Arash Vahidi and Patrik Ekdahl. 2013. VETE: Virtualizing the Trusted Execution Environment. Technical Report. SICS.
+Prashant Varanasi. 2010. Implementing Hardware-Supported Virtualization in OKL4 on ARM. Ph.D. Dissertation. University of New South Wales.
+Prashant Varanasi and Gernot Heiser. 2011. Hardware-supported virtualization on ARM. In Proceedings of the 2nd Asia-Pacific Workshop on Systems. 11.
+vIrtical Project. 2013. Hypervisor for ARM A15 and GPPA. Technical Report.
+Bi Wu. 2013. Virtualization with Limited Hardware Support. Ph.D. Dissertation. Duke University.
+Lei Xia, Sanjay Kumar, Xue Yang, Praveen Gopalakrishnan, York Liu, Sebastian Schoenberg, and Xingang Guo. 2011. Virtual WiFi: Bring virtualization from wired to wireless. ACM SIGPLAN Notices 46, 7, 181--192.
+Seehwan Yoo, Yunxin Liu, Cheol-Ho Hong, Chuck Yoo, and Yongguang Zhang. 2008. MobiVMM: A virtual machine monitor for mobile phones. In Proceedings of the 1st Workshop on Virtualization in Mobile Computing. 1--5.
+Seehwan Yoo, Sung-Bae Yoo, and Chuck Yoo. 2013. Virtualizing ARM VFP (vector floating-point) with Xen-ARM. Journal of Systems Architecture 59, 10, 1266--1276.
+Nairan Zhang, Parameswaran Ramanathan, Kyu-Han Kim, and Sujata Banerjee. 2012. Powervisor: A battery virtualization scheme for smartphones. In Proceedings of the 3rd ACM Workshop on Mobile Cloud Computing and Services. ACM, New York, NY, 37--44.
+Baojing Zuo, Kai Chen, Alei Liang, Haibing Guan, Jun Zhang, Ruhui Ma, and Hongbo Yang. 2010. Performance tuning towards a KVM-based low latency virtualization system. In Proceedings of the 2nd International Conference on Information Engineering and Computer Science (ICIECS’10). IEEE, Los Alamitos, CA, 1--4.

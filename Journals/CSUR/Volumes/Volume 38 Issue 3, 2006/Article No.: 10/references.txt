@@ -1,0 +1,53 @@
+Ramesh C. Agarwal, A super scalar sort algorithm for RISC processors, Proceedings of the 1996 ACM SIGMOD international conference on Management of data, p.240-246, June 04-06, 1996, Montreal, Quebec, Canada[doi>10.1145/233269.233336]
+Alfred V. Aho , John E. Hopcroft , Jeffrey Ullman, Data Structures and Algorithms, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1983
+Arne Andersson , Stefan Nilsson, Implementing radixsort, Journal of Experimental Algorithmics (JEA), 3, p.7-es, 1998[doi>10.1145/297096.297136]
+Gennady Antoshenkov , David B. Lomet , James Murray, Order Preserving Compression, Proceedings of the Twelfth International Conference on Data Engineering, p.655-663, February 26-March 01, 1996
+Andrea C. Arpaci-Dusseau , Remzi H. Arpaci-Dusseau , David E. Culler , Joseph M. Hellerstein , David A. Patterson, High-performance sorting on networks of workstations, Proceedings of the 1997 ACM SIGMOD international conference on Management of data, p.243-254, May 11-15, 1997, Tucson, Arizona, USA[doi>10.1145/253260.253322]
+Jean-Loup Baer , Yi-Bing Lin, Improving Quicksort Performance with a Codeword Data Structure, IEEE Transactions on Software Engineering, v.15 n.5, p.622-631, May 1989[doi>10.1109/32.24711]
+Tom Barclay , Robert Barnes , Jim Gray , Prakash Sundaresan, Loading databases using dataflow parallelism, ACM SIGMOD Record, v.23 n.4, p.72-83, Dec. 1994[doi>10.1145/190627.190647]
+Philip A. Bernstein , Dah-Ming W. Chiu, Using Semi-Joins to Solve Relational Queries, Journal of the ACM (JACM), v.28 n.1, p.25-40, Jan. 1981[doi>10.1145/322234.322238]
+Dina Bitton , David J. DeWitt, Duplicate record elimination in large data files, ACM Transactions on Database Systems (TODS), v.8 n.2, p.255-265, June 1983[doi>10.1145/319983.319987]
+Michael W. Blasgen , Richard G. Casey , Kapali P. Eswaran, An encoding method for multifield sorting and indexing, Communications of the ACM, v.20 n.11, p.874-878, Nov. 1977[doi>10.1145/359863.359892]
+Peter M. Chen , Edward K. Lee , Garth A. Gibson , Randy H. Katz , David A. Patterson, RAID: high-performance, reliable secondary storage, ACM Computing Surveys (CSUR), v.26 n.2, p.145-185, June 1994[doi>10.1145/176979.176981]
+Douglas Comer, Ubiquitous B-Tree, ACM Computing Surveys (CSUR), v.11 n.2, p.121-137, June 1979[doi>10.1145/356770.356776]
+Conner, W. M. 1977. Offset value coding. IBM Technical Disclosure Bulletin 20, 7, 2832--2837.
+Thomas H. Cormen , Clifford Stein , Ronald L. Rivest , Charles E. Leiserson, Introduction to Algorithms, McGraw-Hill Higher Education, 2001
+Vladmir Estivill-Castro , Derick Wood, A survey of adaptive sorting algorithms, ACM Computing Surveys (CSUR), v.24 n.4, p.441-476, Dec. 1992[doi>10.1145/146370.146381]
+Gassner, P., Lohman, G. M., Schiefer, K. B., and Wang, Y. 1993. Query optimization in the IBM DB2 family. IEEE Data Eng. Bulletin 16, 4, 4--18.
+Jonathan Goldstein , Raghu Ramakrishnan , Uri Shaft, Compressing Relations and Indexes, Proceedings of the Fourteenth International Conference on Data Engineering, p.370-379, February 23-27, 1998
+Goetz Graefe, Query evaluation techniques for large databases, ACM Computing Surveys (CSUR), v.25 n.2, p.73-169, June 1993[doi>10.1145/152610.152611]
+Graefe, G. 2003. Sorting and indexing with partitioned B-Trees. In Proceedings of the Conference on Innovative Data Systems Research (CIDR). Asilomar, CA.
+Graefe, G. 2003b. Executing nested queries. In Proceedings of the Datenbanksysteme für Business, Technologie und Web (BTW) Conference. Leipzig, Germany, 58--77.
+Goetz Graefe , Per-Åke Larson, B-Tree Indexes and CPU Caches, Proceedings of the 17th International Conference on Data Engineering, p.349-358, April 02-06, 2001
+Goetz Graefe , Ross Bunker , Shaun Cooper, Hash Joins and Hash Teams in Microsoft SQL Server, Proceedings of the 24rd International Conference on Very Large Data Bases, p.86-97, August 24-27, 1998
+Härder, T. 1977. A Scan-driven sort facility for a relational database system. In Proceedings of the Conference on Very Large Databases (VLDB). 236--244.
+Harizopoulos, S. and Ailamaki, A. 2003. A case for staged database systems. In Proceedings of the Conference on Innovative Data Systems Research (CIDR). Asilomar, CA.
+Hu, T. C. and Tucker, A. C. 1971. Optimal computer search trees and variable-length alphabetic codes. SIAM J. Appl. Math. 21, 4, 514--532.
+Balakrishna R. Iyer , Daniel M. Dias, System Issues in Parallel Sorting for Database Systems, Proceedings of the Sixth International Conference on Data Engineering, p.246-255, February 05-09, 1990
+Tom Keller , Goetz Graefe , David Maier, Efficient assembly for complex objects, Proceedings of the 1991 ACM SIGMOD international conference on Management of data, p.148-157, May 29-31, 1991, Denver, Colorado, USA[doi>10.1145/115790.115809]
+M. Kitsuregawa , M. Nakayama , M. Takagi, The effect of bucket size tuning in the dynamic hybrid GRACE hash join method, Proceedings of the 15th international conference on Very large data bases, p.257-266, July 1989, Amsterdam, The Netherlands
+Donald E. Knuth, The art of computer programming,  volume 3: (2nd ed.) sorting and searching, Addison Wesley Longman Publishing Co., Inc., Redwood City, CA, 1998
+Robert Philip Kooi, The optimization of queries in relational databases, Case Western Reserve University, Cleveland, OH, 1980
+Kwan, S. C. and Baer, J.-L. 1985. The I/O performance of multiway mergesort and tag sort. IEEE Trans. Comput. 34, 4, 383--387.
+Larus, J. R. and Parkes, M. 2001. Using cohort scheduling to enhance server performance. Microsoft Research Tech. Rep. 39.
+Per-Ake Larson, External Sorting: Run Formation Revisited, IEEE Transactions on Knowledge and Data Engineering, v.15 n.4, p.961-972, July 2003[doi>10.1109/TKDE.2003.1209012]
+Per-Åke Larson , Goetz Graefe, Memory management during run generation in external sorting, Proceedings of the 1998 ACM SIGMOD international conference on Management of data, p.472-483, June 01-04, 1998, Seattle, Washington, USA[doi>10.1145/276304.276346]
+Debra A. Lelewer , Daniel S. Hirschberg, Data compression, ACM Computing Surveys (CSUR), v.19 n.3, p.261-296, Sept. 1987[doi>10.1145/45072.45074]
+Gurmeet Singh Manku , Sridhar Rajagopalan , Bruce G. Lindsay, Approximate medians and other quantiles in one pass and with limited memory, Proceedings of the 1998 ACM SIGMOD international conference on Management of data, p.426-435, June 01-04, 1998, Seattle, Washington, USA[doi>10.1145/276304.276342]
+McJones, P. Ed. 1997. The 1995 SQL reunion: People, projects, and politics. SRC Tech. Note 1997-018, Digital Systems Research Center. Palo Alto, CA.
+C. Mohan , Inderpal Narang, Algorithms for creating indexes for very large tables without quiescing updates, Proceedings of the 1992 ACM SIGMOD international conference on Management of data, p.361-370, June 02-05, 1992, San Diego, California, USA[doi>10.1145/130283.130337]
+Chris Nyberg , Tom Barclay , Zarka Cvetanovic , Jim Gray , Dave Lomet, AlphaSort: a cache-sensitive parallel external sort, The VLDB Journal — The International Journal on Very Large Data Bases, v.4 n.4, October 1995
+Sriram Padmanabhan , Timothy Malkemus , Ramesh C. Agarwal , Anant Jhingran, Block Oriented Processing of Relational Database Operations in Modern Computer Architectures, Proceedings of the 17th International Conference on Data Engineering, p.567-574, April 02-06, 2001
+HweeHwa Pang , Michael J. Carey , Miron Livny, Memory-Adaptive External Sorting, Proceedings of the 19th International Conference on Very Large Data Bases, p.618-629, August 24-27, 1993
+Naila Rahman , Rajeev Raman, Analysing cache effects in distribution sorting, Journal of Experimental Algorithmics (JEA), 5, p.14-es, 2000[doi>10.1145/351827.384256]
+Naila Rahman , Rajeev Raman, Adapting Radix Sort to the Memory Hierarchy, Journal of Experimental Algorithmics (JEA), 6, p.7-es, 2001[doi>10.1145/945394.945401]
+B. Salzberg, Merging sorted runs using large main memory, Acta Informatica, v.27 n.3, p.195-215, Dec. 1989[doi>10.1007/BF00572988]
+P. Griffiths Selinger , M. M. Astrahan , D. D. Chamberlin , R. A. Lorie , T. G. Price, Access path selection in a relational database management system, Proceedings of the 1979 ACM SIGMOD international conference on Management of data, May 30-June 01, 1979, Boston, Massachusetts[doi>10.1145/582095.582099]
+Praveen Seshadri , Joseph M. Hellerstein , Hamid Pirahesh , T. Y. Cliff Leung , Raghu Ramakrishnan , Divesh Srivastava , Peter J. Stuckey , S. Sudarshan, Cost-based optimization for magic: algebra and implementation, Proceedings of the 1996 ACM SIGMOD international conference on Management of data, p.435-446, June 04-06, 1996, Montreal, Quebec, Canada[doi>10.1145/233269.233360]
+David E. Simmen , Eugene J. Shekita , Timothy Malkemus, Fundamental Techniques for Order Optimization, Proceedings of the 5th International Conference on Extending Database Technology: Advances in Database Technology, p.625-628, March 25-29, 1996
+Stonebraker, M. and Kumar, A. 1986. Operating system support for data management. IEEE Database Eng. Bulletin 9, 3, 43--50.
+Jeffrey Scott Vitter, Design and analysis of dynamic Huffman codes, Journal of the ACM (JACM), v.34 n.4, p.825-845, Oct. 1987[doi>10.1145/31846.42227]
+Weiye Zhang , Per-Åke Larson, Dynamic Memory Adjustment for External Mergesort, Proceedings of the 23rd International Conference on Very Large Data Bases, p.376-385, August 25-29, 1997
+Weiye Zhang , Per-Åke Larson, Buffering and Read-Ahead Strategies for External Mergesort, Proceedings of the 24rd International Conference on Very Large Data Bases, p.523-533, August 24-27, 1998
+Chun Zhang , Jeffrey Naughton , David DeWitt , Qiong Luo , Guy Lohman, On supporting containment queries in relational database management systems, Proceedings of the 2001 ACM SIGMOD international conference on Management of data, p.425-436, May 21-24, 2001, Santa Barbara, California, USA[doi>10.1145/375663.375722]
+LuoQuan Zheng , Per-Åke Larson, Speeding Up External Mergesort, IEEE Transactions on Knowledge and Data Engineering, v.8 n.2, p.322-332, April 1996[doi>10.1109/69.494169]

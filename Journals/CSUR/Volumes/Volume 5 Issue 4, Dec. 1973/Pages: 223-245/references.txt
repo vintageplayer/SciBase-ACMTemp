@@ -1,0 +1,11 @@
+Per Brinch Hansen, Operating System Principles, Prentice Hall PTR, Upper Saddle River, NJ, 1973
+Per Brinch Hansen, Structured multiprogramming, Communications of the ACM, v.15 n.7, p.574-578, July 1972[doi>10.1145/361454.361473]
+WroTH, N. "The programming language Pascal." Acta In}o, matwa 1, 1 (1971), 35-63. A highly readable defimtlon of a sequential programming language that combines the algorithmic notation of ALGOL 60 with far more general data structures
+DIJKSTRA, E. W. "Cooperating sequential processes" m Programming Languages, F. Genuys. (Ed.) Academic Press, New York, New York, 1968. The classical monograph that introduced concurrent statements, semaphores, and cntmal regmns It also contains Dekker's solutmn to the mutual exclusmn problem.
+A. Nico Habermann, Synchronization of communicating processes, Communications of the ACM, v.15 n.3, p.171-176, March 1972[doi>10.1145/361268.361277]
+HoARE, C. A R. "Towards ~ theory of parallel programming." m Operating Systems Techniques, C A. R Hoare and R. H. Perrott, (Eds), Academic Press, New York, New York, 1973 The original proposal for cond~tmnal critical regmns which includes an axmmatlc defimtmn of &sjomt processes and critical regions.
+BRINCH I-IANSEN, P "A comparison of two synchromzmg concepts." A cta Inlormatica 1, 3 (1972), 190-199. A comparlson of the use of semaphores and con&tmnal cntical regmns to solve a schedulmg problem.
+DIJKSTRA, F~. W. "Informatmn streams sharing fimte buffer." in}ormatwn Processing Letters 1, (1972), 179-180. A solutmn to the "p~pehne" problem by means of condltmnal critical regmns
+Edsger W. Dijkstra, The structure of the “THE”-multiprogramming system, Communications of the ACM, v.11 n.5, p.341-346, May 1968[doi>10.1145/363095.363143]
+DIJKSTRA, E. W. "Hmrarchlcal ordering of sequential processes." A cta Inlormat~ca 1, 2 (1971), 115--138 A more extensive motivation of the basic design decisions made in TH~ multiprogrammmg system (See also 9). Recommends the use of monitors (called "secretaries") for future operating system deslgn.
+HOARE, C. A. R. "A structured paging system." Computer Journal 16, 3 (August 1973), 209- 214. Illustrates the use of the monitor concept presented in (1) for the design of a demand paging system

@@ -1,0 +1,546 @@
+Rajiv Gupta , Chi-Hung Chi, Improving instruction cache behavior by reducing cache pollution, Proceedings of the 1990 conference on Supercomputing, p.82-91, October 1990, New York, New York, United States
+C. Scheurich , M. Dubois, The design of a lockup-free cache for high-performance multiprocessors, Proceedings of the 1988 ACM/IEEE conference on Supercomputing, p.352-359, November 12-17, 1988, Orlando, Florida, United States
+S. McFarling, Program optimization for instruction caches, ACM SIGARCH Computer Architecture News, v.17 n.2, p.183-191, April 1989
+Mark D. Hill , Alan Jay Smith, Experimental evaluation of on-chip microprocessor cache memories, ACM SIGARCH Computer Architecture News, v.12 n.3, p.158-166, June 1984
+Robin W. Edenfield , Michael G. Gallup , William B. Ledbetter, Jr. , Ralph C. McGarity , Eric E. Quintana , Russel A. Reininger, The 68040 Processor. I. Design and Implementation, IEEE Micro, v.10 n.1, p.66-78, January 1990
+Feipei Lai , Chyuan-Yow Wu , Tai-Ming Parng, A memory management unit and cache controller for the MARS system, Proceedings of the 23rd annual workshop and symposium on Microprogramming and microarchitecture, p.200-208, November 27-29, 1990, Orlando, Florida, United States
+Qing Yang , Liping Wu Yang, A novel cache design for vector processing, ACM SIGARCH Computer Architecture News, v.20 n.2, p.362-371, May 1992
+Anant Agarwal , Stephen D. Pudar, Column-associative caches: a technique for reducing the miss rate of direct-mapped caches, ACM SIGARCH Computer Architecture News, v.21 n.2, p.179-190, May 1993
+M. Kobayashi , M. H. MacDougall, The Stack Growth Function: Cache Line Reference Models, IEEE Transactions on Computers, v.38 n.6, p.798-805, June 1989
+Michel Cekleov , Michel Dubois, Virtual-Address Caches Part 1: Problems and Solutions in Uniprocessors, IEEE Micro, v.17 n.5, p.64-71, September 1997
+C. B. Stunkel , W. K. Fuchs, An Analysis of Cache Performance for a Hypercube Multicomputer, IEEE Transactions on Parallel and Distributed Systems, v.3 n.4, p.421-432, July 1992
+S. Laha , J. H. Patel , R. K. Iyer, Accurate Low-Cost Methods for Performance Evaluation of Cache Memory Systems, IEEE Transactions on Computers, v.37 n.11, p.1325-1336, November 1988
+Masaru Takesue, Cache Memories for Data Flow Machines, IEEE Transactions on Computers, v.41 n.6, p.677-687, June 1992
+Ramakrishna Karedla , J. Spencer Love , Bradley G. Wherry, Caching strategies to improve disk system performance, Computer, v.27 n.3, p.38-46, March 1994
+Benjamin Maytal , Dan Biran , Sorin Iacobovici , Jonathan Levy , Donald B. Alpert , Sidi Yom Tov, Design Considerations for a General-Purpose Microprocessor, Computer, v.22 n.1, p.66-76, January 1989
+Mark D. Hill, A Case for Direct-Mapped Caches, Computer, v.21 n.12, p.25-40, December 1988
+Qing Yang, Introducing a New Cache Design into Vector Computers, IEEE Transactions on Computers, v.42 n.12, p.1411-1424, December 1993
+Alan Jay Smith, Cache memory, Encyclopedia of Computer Science, 4th edition, John Wiley and Sons Ltd., Chichester, 2003
+G. P. Bozman, VM/XA  SP2 minidisk cache, IBM Systems Journal, v.28 n.1, p.165-174, 1989
+Tom Adams, A Measurement Study of Memory Transaction Characteristics on a PowerPC Based Macintosh, Proceedings of the 41st IEEE International Computer Conference, p.100, February 25-28, 1996
+Alexander Gendler , Avi Mendelson , Yitzhak Birk, A PAB-based multi-prefetcher mechanism, International Journal of Parallel Programming, v.34 n.2, p.171-188, April 2006
+A Selective Temporal and Aggressive Spatial Cache System Based on Time Interval, Proceedings of the 2000 IEEE International Conference on Computer Design: VLSI in Computers & Processors, p.287, September 17-20, 2000
+Soong Hyun Shin , Cheol Hong Kim , Chu Shik Jhon, An effective instruction cache prefetch policy by exploiting cache history information, Proceedings of the 2005 international conference on Embedded and Ubiquitous Computing, December 06-09, 2005, Nagasaki, Japan
+Makoto Kobayashi, An Empirical Study of Task Switching Locality in MVS, IEEE Transactions on Computers, v.35 n.8, p.720-731, August 1986
+Cosimo Antonio Prete, A process cache memory for tightly coupled multiprocessor systems, Proceedings of the 30th annual Southeast regional conference, April 08-10, 1992, Raleigh, North Carolina
+G. D. McNiven , E. S. Davidson, Analysis of memory referencing behavior for design of local memories, ACM SIGARCH Computer Architecture News, v.16 n.2, p.56-63, May 1988
+Ilkka J. Haikala, Cache hit ratios with geometric task switch intervals, ACM SIGARCH Computer Architecture News, v.12 n.3, p.364-371, June 1984
+Michel Cekleov , Michel Dubois, Virtual-Address Caches, Part 2: Multiprocessor Issues, IEEE Micro, v.17 n.6, p.69-74, November 1997
+A. Agarwal , R. L. Sites , M. Horowitz, ATUM: a new technique for capturing address traces using microcode, ACM SIGARCH Computer Architecture News, v.14 n.2, p.119-127, May 1986
+K. Cheung , G. Sohi , K. Saluja , D. Pradhan, Organization and analysis of a gracefully-degrading interleaved memory system, Proceedings of the 14th annual international symposium on Computer architecture, p.224-231, June 02-05, 1987, Pittsburgh, Pennsylvania, United States
+William L. Lynch , Brian K. Bray , M. J. Flynn, The effect of page allocation on caches, ACM SIGMICRO Newsletter, v.23 n.1-2, p.222-225, Dec. 1992
+Harold S. Stone , Dominique Thibaut, Footprints in the cache, ACM SIGMETRICS Performance Evaluation Review, v.14 n.1, p.4-8, May 1986
+Yuguang Wu , Richard Muntz, Stack Evaluation of Arbitrary Set-Associative Multiprocessor Caches, IEEE Transactions on Parallel and Distributed Systems, v.6 n.9, p.930-942, September 1995
+Patricia J. Teller, Translation-Lookaside Buffer Consistency, Computer, v.23 n.6, p.26-36, June 1990
+C. Scheurich , M. Dubois, Correct memory operation of cache-based multiprocessors, Proceedings of the 14th annual international symposium on Computer architecture, p.234-243, June 02-05, 1987, Pittsburgh, Pennsylvania, USA
+Edward H. Gornish , Alexander Veidenbaum, An Integrated Hardware/Software Data Prefetching Scheme for Shared-Memory Multiprocessors, International Journal of Parallel Programming, v.27 n.1, p.35-70, Feb. 1999
+Afrin Naz , Mehran Rezaei , Krishna Kavi , Philip Sweany, Improving data cache performance with integrated use of split caches, victim cache and stream buffers, ACM SIGARCH Computer Architecture News, v.33 n.3, June 2005
+Lishing Liu, Cache designs with partial address matching, Proceedings of the 27th annual international symposium on Microarchitecture, p.128-136, November 30-December 02, 1994, San Jose, California, United States
+C.-H. Chen , A. K. Somani, A unified architectural tradeoff methodology, ACM SIGARCH Computer Architecture News, v.22 n.2, p.348-357, April 1994
+Daniel Ortega , Eduard Ayguadé , Mateo Valero, Dynamic memory instruction bypassing, Proceedings of the 17th annual international conference on Supercomputing, June 23-26, 2003, San Francisco, CA, USA
+Jürgen Branke , Pablo Funes , Frederik Thiele, Evolutionary design of en-route caching strategies, Applied Soft Computing, v.7 n.3, p.890-898, June, 2007
+Dimitrios Stiliadis , Anujan Varma, Selective Victim Caching: A Method to Improve the Performance of Direct-Mapped Caches, IEEE Transactions on Computers, v.46 n.5, p.603-610, May 1997
+Xiaotong Zhuang , Hsien-Hsin S. Lee, Reducing Cache Pollution via Dynamic Data Prefetch Filtering, IEEE Transactions on Computers, v.56 n.1, p.18-31, January 2007
+Gonzalez Gonzalez , Adrian Cristal , Daniel Ortega , Alexander Veidenbaum , Mateo Valero, A Content Aware Integer Register File Organization, ACM SIGARCH Computer Architecture News, v.32 n.2, p.314, March 2004
+Robert F. Krick , Apostolos Dollas, The Evolution of Instruction Sequencing, Computer, v.24 n.4, p.5-15, April 1991
+Alvin R. Lebeck , David A. Wood, Cache Profiling and the SPEC Benchmarks: A Case Study, Computer, v.27 n.10, p.15-26, October 1994
+Chung-Ho Chen , Arun K. Somani, Architecture Technique Trade-Offs Using Mean Memory Delay Time, IEEE Transactions on Computers, v.45 n.10, p.1089-1100, October 1996
+K. A. Hua , L. A. Liu , J. Peir, Designing High-Performance Processors Using Real Address Prediction, IEEE Transactions on Computers, v.42 n.9, p.1146-1151, September 1993
+P. G. Emma , E. S. Davidson, Characterization of branch and data dependencies on programs for evaluating pipeline performance, IEEE Transactions on Computers, v.36 n.7, p.859-875, July 1987
+Steve Frank , Armond Inselberg, Synapse tightly coupled multiprocessors: a new approach to solve old problems, Proceedings of the July 9-12, 1984, national computer conference and exposition, July 09-12, 1984, Las Vegas, Nevada
+Cosimo Antonio Prete , Marco Graziano , Francesco Lazzarini, The ChARM Tool for Tuning Embedded Systems, IEEE Micro, v.17 n.4, p.67-76, July 1997
+Lishing Liu, Partial address directory for cache access, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, v.2 n.2, p.226-240, June 1994
+Teresa L. Johnson , Wen-mei W. Hwu, Run-time adaptive cache hierarchy management via reference analysis, ACM SIGARCH Computer Architecture News, v.25 n.2, p.315-326, May 1997
+Miquel Pericàs , Adrian Cristal , Ruben González , Daniel A. Jiménez , Mateo Valero, Exploiting execution locality with a decoupled Kilo-instruction processor, Proceedings of the 6th international symposium on high-performance computing and 1st international conference on Advanced low power systems, September 07-09, 2005, Nara, Japan
+M. J. Charney , T. R. Puzak, Profetching and memory system behavior of the SPEC95 benchmark suite, IBM Journal of Research and Development, v.41 n.3, p.265-286, May 1997
+Afrin Naz , Krishna Kavi , Mehran Rezaei , Wentong Li, Making a case for split data caches for embedded applications, ACM SIGARCH Computer Architecture News, v.34 n.1, March 2006
+S.-N. Chen, A new trace-driven shared-memory multiprocessors machine simulator, International Journal of Computers and Applications, v.29 n.3, p.239-244, June 2007
+Huang Zhenchun , Li Sanli, IPULOC - exploring dynamic program locality with the instruction processing unit for filling memory gap, Journal of Computer Science and Technology, v.17 n.2, p.172-180, March 2002
+Tsang-Ling Sheu , Yuan-Bao Shieh , Woei Lin, The selection of optimal cache lines for microprocessor-based controllers, Proceedings of the 23rd annual workshop and symposium on Microprogramming and microarchitecture, p.183-192, November 27-29, 1990, Orlando, Florida, United States
+W. Y. Chen , P. P. Chang , T. M. Conte , W. W. Hwu, The Effect of Code Expanding Optimizations on Instruction Cache Design, IEEE Transactions on Computers, v.42 n.9, p.1045-1057, September 1993
+Hideto Hidaka , Yoshio Matsuda , Mikio Asakura , Kazuyasu Fujishima, The Cache DRAM Architecture: A DRAM with an On-Chip Cache Memory, IEEE Micro, v.10 n.2, p.14-25, March 1990
+Shreekant Thakkar , Paul Gifford , Gary Fielland, The Balance Multiprocessor System, IEEE Micro, v.8 n.1, p.57-69, January 1988
+Elliot Nestle , Armond Inselberg, The SYNAPSE N+1 System: architectural characteristics and performance data of a tightly-coupled multiprocessor system, ACM SIGARCH Computer Architecture News, v.13 n.3, p.233-239, June 1985
+Lixia Liu , Zhiyuan Li , Ahmed H. Sameh, Analyzing memory access intensity in parallel programs on multicore, Proceedings of the 22nd annual international conference on Supercomputing, June 07-12, 2008, Island of Kos, Greece
+Michel, Dubois , Christoph Scheurich , Fayé A. Briggs, Synchronization, Coherence, and Event Ordering in Multiprocessors, Computer, v.21 n.2, p.9-21, February 1988
+Jesung Kim , Sang Lyul Min , Sanghoon Jeon , Byoungchu Ahn , Deog-Kyoon Jeong , Chong Sang Kim, U-cache: a cost-effective solution to synonym problem, Proceedings of the 1st IEEE Symposium on High-Performance Computer Architecture, p.243, January 22-25, 1995
+Humayun Khalid, The unconventional replacement algorithms, ACM SIGARCH Computer Architecture News, v.23 n.5, p.20-26, Dec. 1995
+James Dundas , Trevor Mudge, Improving data cache performance by pre-executing instructions under a cache miss, Proceedings of the 11th international conference on Supercomputing, p.68-75, July 07-11, 1997, Vienna, Austria
+A Study of Channeled DRAM Memory Architectures, Proceedings of the 2000 IEEE International Conference on Computer Design: VLSI in Computers & Processors, p.261, September 17-20, 2000
+Kyu-Yean Lee , Seong-Jin Cho , Seung-Hyun Yoon , Jae-Wook Jeon, Roofline measurement application, Proceedings of the 9th International Conference on Ubiquitous Information Management and Communication, p.1-6, January 08-10, 2015, Bali, Indonesia
+Marius Grannaes , Magnus Jahre , Lasse Natvig, Multi-level hardware prefetching using low complexity delta correlating prediction tables with partial matching, Proceedings of the 5th international conference on High Performance Embedded Architectures and Compilers, January 25-27, 2010, Pisa, Italy
+Yi Xie , Shun-Zheng Yu, Measuring the Normality of Web Proxies' Behavior Based on Locality Principles, Proceedings of the IFIP International Conference on Network and Parallel Computing, October 18-20, 2008, Shanghai, China
+James Dundas , Trevor Mudge, Improving data cache performance by pre-executing instructions under a cache miss, ACM International Conference on Supercomputing 25th Anniversary Volume, June 10-13, 2014, Munich, Germany
+R. L. Sites , A. Agarwal, Multiprocessor cache analysis using ATUM, ACM SIGARCH Computer Architecture News, v.16 n.2, p.186-195, May 1988
+Radi Romansky , Yordan Lazarov, Selective stack prefetch method, Proceedings of the 4th international conference conference on Computer systems and technologies: e-Learning, p.37-41, June 19-20, 2003, Rousse, Bulgaria
+M. Freeman, An architectural perspective on a memory access controller, Proceedings of the 14th annual international symposium on Computer architecture, p.214-223, June 02-05, 1987, Pittsburgh, Pennsylvania, United States
+David Callahan , Allan Porterfield, Data cache performance of supercomputer applications, Proceedings of the 1990 conference on Supercomputing, p.564-572, October 1990, New York, New York, United States
+Brian D. Davison, A Web Caching Primer, IEEE Internet Computing, v.5 n.4, p.38-45, July 2001
+Philip G. Emma , Allan Hartstein , Thomas R. Puzak , Vijayalakshmi Srinivasan, Exploring the limits of prefetching, IBM Journal of Research and Development, v.49 n.1, p.127-144, January 2005
+K. So , V. Zecca, Program locality of vectorized applications running on the IBM 3090 with vector facility, IBM Systems Journal, v.27 n.4, p.436-452, November 1988
+J R Goodman , H C Young, Comments on "A Massive Memory Machine", IEEE Transactions on Computers, v.35 n.10, p.907-910, October 1986
+Jun Kiniwa , Toshio Hamada , Daisuke Mizoguchi, Lookahead Scheduling Requests for Multisize Page Caching, IEEE Transactions on Computers, v.50 n.9, p.972-983, September 2001
+M. Takesue, A unified resource management and execution control mechanism for data flow machines, Proceedings of the 14th annual international symposium on Computer architecture, p.90-97, June 02-05, 1987, Pittsburgh, Pennsylvania, United States
+Uming Ko , Poras T. Balsara , Ashwini K. Nanda, Energy optimization of multi-level processor cache architectures, Proceedings of the 1995 international symposium on Low power design, p.45-49, April 23-26, 1995, Dana Point, California, United States
+Gerald Bozman, The software lookaside buffler reduces search overhead with linked lists, Communications of the ACM, v.27 n.3, p.222-227, March 1984
+Stephen C. Johnson, The i486 CPU: Executing Instructions in one Clock Cycle, IEEE Micro, v.10 n.1, p.27-36, January 1990
+R. M. Fujimoto , J.-J. Tsai , G. Gopalakrishnan, Design and performance of special purpose hardware for time warp, ACM SIGARCH Computer Architecture News, v.16 n.2, p.401-409, May 1988
+Cosimo A. Prete, RST Cache Memory Design for a Highly Coupled Multiprocessor System, IEEE Micro, v.11 n.2, p.16-19, 40-52, March 1991
+David Parello , Olivier Temam , Jean-Marie Verdun, On increasing architecture awareness in program optimizations to bridge the gap between peak and sustained processor performance: matrix-multiply revisited, Proceedings of the 2002 ACM/IEEE conference on Supercomputing, p.1-11, November 16, 2002, Baltimore, Maryland
+Jeffrey D. Gee , Mark D. Hill , Dionisios N. Pnevmatikatos , Alan Jay Smith, Cache Performance of the SPEC92 Benchmark Suite, IEEE Micro, v.13 n.4, p.17-27, July 1993
+Ivan Sklenář, Prefetch unit for vector operations on scalar computers, ACM SIGARCH Computer Architecture News, v.20 n.4, p.31-37, Sept. 1992
+Jordi Cortadella , Teodor Jové, Dynamic RAM for on-chip instruction caches, ACM SIGARCH Computer Architecture News, v.16 n.4, p.45-50, Sept. 1988
+Lodewijk Bonebakker , Andrew Over , Ilya Sharapov, Working set characterization of applications with an efficient LRU algorithm, Proceedings of the Third European conference on Formal Methods and Stochastic Models for Performance Evaluation, June 21-22, 2006, Budapest, Hungary
+R. J. Eickemeyer , S. Vassiliadis, A load-instruction unit for pipelined processors, IBM Journal of Research and Development, v.37 n.4, p.547-564, July 1993
+Yu Sun , Wei Zhang, Efficient code caching to improve performance and energy consumption for java applications, Proceedings of the 2008 international conference on Compilers, architectures and synthesis for embedded systems, October 19-24, 2008, Atlanta, GA, USA
+Teresa L. Johnson , Matthew C. Merten , Wen-Mei W. Hwu, Run-time spatial locality detection and optimization, Proceedings of the 30th annual ACM/IEEE international symposium on Microarchitecture, p.57-64, December 01-03, 1997, Research Triangle Park, North Carolina, USA
+Andrew Wolfe , Rodney Boleyn, Two-ported cache alternatives for superscalar processors, Proceedings of the 26th annual international symposium on Microarchitecture, p.41-48, December 01-03, 1993, Austin, Texas, USA
+Harry Dwyer , John Fernando, Establishing a tight bound on task interference in embedded system instruction caches, Proceedings of the 2001 international conference on Compilers, architecture, and synthesis for embedded systems, November 16-17, 2001, Atlanta, Georgia, USA
+Sung-Jin Cho , Un-Sook Choi , Yoon-Hee Hwang , Han-Doo Kim, Design of new XOR-based hash functions for cache memories, Computers & Mathematics with Applications, v.55 n.9, p.2005-2011, May, 2008
+Yu Sun , Wei Zhang, Improving Java performance and energy dissipation through efficient code caching, Design Automation for Embedded Systems, v.13 n.3, p.179-192, September 2009
+John T. Robinson , Murthy V. Devarakonda, Data cache management using frequency-based replacement, ACM SIGMETRICS Performance Evaluation Review, v.18 n.1, p.134-142, May 1990
+James Archibald , Jean Loup Baer, An economical solution to the cache coherence problem, ACM SIGARCH Computer Architecture News, v.12 n.3, p.355-362, June 1984
+M. Farrens , G. Tyson , A. R. Pleszkun, A study of single-chip processor/cache organizations for large numbers of transistors, ACM SIGARCH Computer Architecture News, v.22 n.2, p.338-347, April 1994
+Giovanni Erbacci , Giuseppe Paruolo , Giancarlo Tagliavini, Influence of the stride on the cache utilization in the IBM 3090 VF, Proceedings of the 3rd international conference on Supercomputing, p.443-451, June 05-09, 1989, Crete, Greece
+David A. Patterson , Phil Garrison , Mark Hill , Dimitris Lioupis , Chris Nyberg , Tim Sippel , Korbin Van Dyke, Architecture of a VLSI instruction cache for a RISC, ACM SIGARCH Computer Architecture News, v.11 n.3, p.108-116, June 1983
+P. A. Sandon , Y.-C. Liao , T. E. Cook , D. M. Schultz , P. Martin-de-Nicolas, NStrace: a bus-driven instruction trace tool for PowerPC microprocessors, IBM Journal of Research and Development, v.41 n.3, p.331-344, May 1997
+Philip A. Bernstein, Sequoia: A Fault-Tolerant Tightly Coupled Multiprocessor for Transaction Processing, Computer, v.21 n.2, p.37-45, February 1988
+K. Grimsrud , J. Archibald , R. Frost , B. Nelson, Locality As a Visualization Tool, IEEE Transactions on Computers, v.45 n.11, p.1319-1326, November 1996
+Norman P. Jouppi, Retrospective: improving direct-mapped cache performance by the addition of a small fully-associative cache and prefetch buffers, 25 years of the international symposia on Computer architecture (selected papers), p.71-73, June 27-July 02, 1998, Barcelona, Spain
+Yannick Deville, A low-cost usage-based replacement algorithm for cache memories, ACM SIGARCH Computer Architecture News, v.18 n.4, p.52-58, Dec. 1990
+Y. Afek , G. Brown , M. Merritt, A lazy cache algorithm, Proceedings of the first annual ACM symposium on Parallel algorithms and architectures, p.209-222, June 18-21, 1989, Santa Fe, New Mexico, United States
+Jun Yan , Wei Zhang, WCET analysis of instruction caches with prefetching, ACM SIGPLAN Notices, v.42 n.7, July 2007
+Dionisios N. Pnevmatikatos , Mark D. Hill, Cache performance of the integer SPEC benchmarks on a RISC, ACM SIGARCH Computer Architecture News, v.18 n.2, p.53-68, Jun. 1990
+S. Bartolini , P. Foglia , C. A. Prete, MEmory performance: DEaling with applications, systems and architecture, ACM SIGARCH Computer Architecture News, v.35 n.4, September 2007
+Ramesh V Peri , John Fernando , Ravi Kolagotla, Addressing mode driven low power data caches for embedded processors, Proceedings of the 3rd workshop on Memory performance issues: in conjunction with the 31st international symposium on computer architecture, p.129-135, June 20-20, 2004, Munich, Germany
+J. E. Smith , W.-C. Hsu, Prefetching in supercomputer instruction caches, Proceedings of the 1992 ACM/IEEE conference on Supercomputing, p.588-597, November 16-20, 1992, Minneapolis, Minnesota, United States
+Takeshi Kitahara , Taizo Satoh, The Gmicro/300 32-Bit Microprocessor, IEEE Micro, v.10 n.3, p.68-75, May 1990
+T. L. Sterling , D. S. Wills , E. Y. Chan, Tokenless static data flow using associative templates, Proceedings of the 1988 ACM/IEEE conference on Supercomputing, p.70-79, November 12-17, 1988, Orlando, Florida, United States
+Donald B. Alpert , Michael J. Flynn, Performance Trade-Offs for Microprocessor Cache Memories, IEEE Micro, v.8 n.4, p.44-54, July 1988
+Keith Boland , Apostolos Dollas, Predicting and Precluding Problems with Memory Latency, IEEE Micro, v.14 n.4, p.59-67, August 1994
+Jean-Loup Baer , Yi-Bing Lin, Improving Quicksort Performance with a Codeword Data Structure, IEEE Transactions on Software Engineering, v.15 n.5, p.622-631, May 1989
+Mohammad Banikazemi , Dan Poff , Bulent Abali, PAM: a novel performance/power aware meta-scheduler for multi-core systems, Proceedings of the 2008 ACM/IEEE conference on Supercomputing, November 15-21, 2008, Austin, Texas
+Milind B. Kamble , Kanad Ghose, Analytical energy dissipation models for low-power caches, Proceedings of the 1997 international symposium on Low power electronics and design, p.143-148, August 18-20, 1997, Monterey, California, USA
+Daniel F. Zucker , Michael J. Flynn , Ruby B. Lee, Improving Performance for Software MPEG Players, Proceedings of the 41st IEEE International Computer Conference, p.327, February 25-28, 1996
+Steven P. VanderWiel , David J. Lilja, When Caches Aren't Enough: Data Prefetching Techniques, Computer, v.30 n.7, p.23-30, July 1997
+Yannick Deville, A process-dependent partitioning strategy for cache memories, ACM SIGARCH Computer Architecture News, v.21 n.1, p.26-33, March 1993
+Resit Sendag , David J. Lilja , Steven R. Kunkel, Exploiting the Prefetching Effect Provided by Executing Mispredicted Load Instructions, Proceedings of the 8th International Euro-Par Conference on Parallel Processing, p.468-480, August 27-30, 2002
+Michael Krietemeyer , Daniel Versick , Djamshid Tavangarian, A mathematical model for the transitional region between cache hierarchy levels, Proceedings of the 4th international conference on Innovative Internet Community Systems, June 21-23, 2004, Guadalajara, Mexico
+Martin E. Hopkins, A perspective on the 801/Reduced Instruction Set Computer, IBM Systems Journal, v.26 n.1, p.107-121, Jan. 1987
+Hans Vandierendonck , Koen De Bosschere, Constructing optimal XOR-functions to minimize cache conflict misses, Proceedings of the 21st international conference on Architecture of computing systems, February 25-28, 2008, Dresden, Germany
+John W. C. Fu , Janak H. Patel , Bob L. Janssens, Stride directed prefetching in scalar processors, ACM SIGMICRO Newsletter, v.23 n.1-2, p.102-110, Dec. 1992
+Andrew Wolfe , Alex Chanin, Executing compressed programs on an embedded RISC architecture, ACM SIGMICRO Newsletter, v.23 n.1-2, p.81-91, Dec. 1992
+Rabin A. Sugumar , Santosh G. Abraham, Set-associative cache simulation using generalized binomial trees, ACM Transactions on Computer Systems (TOCS), v.13 n.1, p.32-56, Feb. 1995
+John F. Cigas, Efficient and realistic simulation of disk cache performance, Proceedings of the 21st annual symposium on Simulation, p.131-141, January 1988, Tampa, Florida, United States
+W. W. Hwu , P. P. Chang, Achieving high instruction cache performance with an optimizing compiler, ACM SIGARCH Computer Architecture News, v.17 n.3, p.242-251, June 1989
+Ismail Kadayif , Mahmut Kandemir , Guilin Chen, Studying interactions between prefetching and cache line turnoff, Proceedings of the 2005 Asia and South Pacific Design Automation Conference, January 18-21, 2005, Shanghai, China
+IEEE Parallel & Distributed Technology: Systems & Technology staff, Optimizing a Superscalar Machine to Run Vector Code, IEEE Parallel & Distributed Technology: Systems & Technology, v.1 n.2, p.73-83, May 1993
+Sathiamoorthy Manoharan , Kim See-Mu, A Hardware Scheme for Data Prefetching, Proceedings of the 8th International Conference on High-Performance Computing and Networking, p.353-362, May 08-10, 2000
+Chandon Chitale , John Sieg, Jr., Caching transitive closures, Proceedings of the 19th annual conference on Computer Science, p.154-160, April 1991, San Antonio, Texas, USA
+Ken Batcher , Robert Walker, Cluster miss prediction for instruction caches in embedded networking applications, Proceedings of the 14th ACM Great Lakes symposium on VLSI, April 26-28, 2004, Boston, MA, USA
+William D. Strecker, Transient behavior of cache memories, ACM Transactions on Computer Systems (TOCS), v.1 n.4, p.281-293, Nov. 1983
+David A. Wood , Mark D. Hill , R. E. Kessler, A model for estimating trace-sample miss ratios, ACM SIGMETRICS Performance Evaluation Review, v.19 n.1, p.79-89, May 1991
+Philip l. Good, Structuring an instruction cache, ACM SIGARCH Computer Architecture News, v.16 n.3, p.40-43, June 1988
+Lee Higbee, Quick and easy cache performance analysis, ACM SIGARCH Computer Architecture News, v.18 n.2, p.33-44, Jun. 1990
+Chan , Wai-wai , Chi , Chi-hung, Prefetching by Self-Contained Variables - a Generalization from Array to Recursive Data Structures, Proceedings of the 2nd AIZU International Symposium on Parallel Algorithms / Architecture Synthesis, p.225, March 17-21, 1997
+Ambuj Shatdal , Chander Kant , Jeffrey F. Naughton, Cache Conscious Algorithms for Relational Query Processing, Proceedings of the 20th International Conference on Very Large Data Bases, p.510-521, September 12-15, 1994
+Kooktae Choi , Shin-gyu Kim , Hyeonsang Eom , Heon Y. Yeom, Improving writeback performance of memory-based storage devices, Proceedings of the 8th International Conference on Ubiquitous Information Management and Communication, p.1-5, January 09-11, 2014, Siem Reap, Cambodia
+Teresa L. Johnson , Daniel A. Connors , Matthew C. Merten , Wen-mei W. Hwu, Run-Time Cache Bypassing, IEEE Transactions on Computers, v.48 n.12, p.1338-1354, December 1999
+J. Bradley Chen , Anita Borg , Norman P. Jouppi, A simulation based study of TLB performance, ACM SIGARCH Computer Architecture News, v.20 n.2, p.114-123, May 1992
+Philip Heidelberger , Harold S. Stone, Parallel trace-driven cache simulation by time partitioning, Proceedings of the 22nd conference on Winter simulation, p.734-737, December 09-12, 1990, New Orleans, Louisiana, United States
+James R. Goodman , Men-chow Chiang, The use of static column ram as a memory hierarchy, ACM SIGARCH Computer Architecture News, v.12 n.3, p.167-173, June 1984
+N. P. Jouppi , J. Bertoni , D. W. Wall, A unified vector/scalar floating-point architecture, ACM SIGARCH Computer Architecture News, v.17 n.2, p.134-143, April 1989
+O. Temam , C. Fricker , W. Jalby, Cache interference phenomena, ACM SIGMETRICS Performance Evaluation Review, v.22 n.1, p.261-271, May 1994
+Chun Xia , Josep Torrellas, Instruction prefetching of systems codes with layout optimized for reduced cache misses, ACM SIGARCH Computer Architecture News, v.24 n.2, p.271-282, May 1996
+James E. Smith , James R. Goodman, A study of instruction cache organizations and replacement policies, ACM SIGARCH Computer Architecture News, v.11 n.3, p.132-137, June 1983
+Sunil Mirapuri , Michael Woodacre , Nader Vasseghi, The Mips R4000 Processor, IEEE Micro, v.12 n.2, p.10-22, March 1992
+L. I. Kontothanassis , R. A. Sugumar , G. J. Faanes , J. E. Smith , M. L. Scott, Cache performance in vector supercomputers, Proceedings of the 1994 ACM/IEEE conference on Supercomputing, November 14-18, 1994, Washington, D.C.
+Charles P. Thacker , Lawrence C. Stewart, Firefly: a multiprocessor workstation, ACM SIGARCH Computer Architecture News, v.15 n.5, p.164-172, Oct. 1987
+W. -m.  W. Hwu , T. M. Conte, Editorial, IEEE Transactions on Computers, v.43 n.9, p.994-1003, September 1994
+Benjamin Charny, Matrix Partitioning on a Virtual Shared Memory Parallel Machine, IEEE Transactions on Parallel and Distributed Systems, v.7 n.4, p.343-355, April 1996
+Jochen Hollmann , Anders Ardö , Per Stenström, Effectiveness of caching in a distributed digital library system, Journal of Systems Architecture: the EUROMICRO Journal, v.53 n.7, p.403-416, July, 2007
+Takehito Sasaki, Memory Hierarchy Design for Jetpipeline: To Execute Scalar and Vector Instructions in Parallel, Proceedings of the 2nd AIZU International Symposium on Parallel Algorithms / Architecture Synthesis, p.66, March 17-21, 1997
+S. Shimizu , N. Oba , T. Nakada , M. Ohara , A. Moriwaki, Design choices for the TOP-1 multiprocessor workstation, IBM Journal of Research and Development, v.35 n.5-6, p.591-602, Sept./Nov. 1991
+Myoung Kwon Tcheun , Hyunsoo Yoon , Seung Ryoul Maeng, An adaptive sequential prefetching scheme in shared-memory multiprocessors, Proceedings of the international Conference on Parallel Processing, p.306-313, August 11-15, 1997
+Y. Tamir , C. H. Sequin, Strategies for Managing the Register File in RISC, IEEE Transactions on Computers, v.32 n.11, p.977-989, November 1983
+Andrea Prati, Exploring multimedia applications locality to improve cache performance, Proceedings of the eighth ACM international conference on Multimedia, p.509-510, October 2000, Marina del Rey, California, USA
+Milene B. Carvalho , Luís F. W. Góes , Carlos A. P. S. Martins, Dynamically reconfigurable cache architecture using adaptive block allocation policy, Proceedings of the 20th international conference on Parallel and distributed processing, p.217-217, April 25-29, 2006, Rhodes Island, Greece
+Cheol Ho Park , JaeWoong Chung , Byeong Hag Seong , YangWoo Roh , Daeyeon Park, Boosting superpage utilization with the shadow memory and the partial-subblock TLB, Proceedings of the 14th international conference on Supercomputing, p.187-195, May 08-11, 2000, Santa Fe, New Mexico, USA
+Keshavan Varadarajan , S. K. Nandy , Vishal Sharda , Amrutur Bharadwaj , Ravi Iyer , Srihari Makineni , Donald Newell, Molecular Caches: A caching structure for dynamic creation of application-specific Heterogeneous cache regions, Proceedings of the 39th Annual IEEE/ACM International Symposium on Microarchitecture, p.433-442, December 09-13, 2006
+William L. Lynch , Gary Lauterbach , Joseph I. Chamdani, Low load latency through sum-addressed memory (SAM), ACM SIGARCH Computer Architecture News, v.26 n.3, p.369-379, June 1998
+Gideon Intrater , Ilan Spillinger, Performance evaluation of a decoded instruction cache for variable instruction-length computers, ACM SIGARCH Computer Architecture News, v.20 n.2, p.106-113, May 1992
+Robert W. Horst , Timothy C. K. Chou, An architecture for high volume transaction processing, ACM SIGARCH Computer Architecture News, v.13 n.3, p.240-245, June 1985
+Dominique Thiebaut , Harold S. Stone, Footprints in the cache, ACM Transactions on Computer Systems (TOCS), v.5 n.4, p.305-329, Nov. 1987
+P. Steenkiste, The impact of code density on instruction cache performance, ACM SIGARCH Computer Architecture News, v.17 n.3, p.252-259, June 1989
+D. A. Wood , R. H. Katz, Supporting reference and dirty bits in SPUR's virtual address cache, ACM SIGARCH Computer Architecture News, v.17 n.3, p.122-130, June 1989
+G. Delp , A. Sethi , D. Farber, An analysis of Memnet—an experiment in high-speed shared-memory local networking, ACM SIGCOMM Computer Communication Review, v.18 n.4, p.165-174, August 1988
+Hector Garcia-Molina , Lawrence R. Rogers, Performance through memory, ACM SIGMETRICS Performance Evaluation Review, v.15 n.1, p.122-131, May 1987
+Thomas M. Conte , Wen-mei W. Hwu, Benchmark Characterization, Computer, v.24 n.1, p.48-56, January 1991
+Philip Machanick, The case for SRAM main memory, ACM SIGARCH Computer Architecture News, v.24 n.5, p.23-30, Dec. 1996
+Yannick Deville , Jean Gobert, A class of replacement policies for medium and high-associativity structures, ACM SIGARCH Computer Architecture News, v.20 n.1, p.55-64, March 1992
+Alan Jay Smith, Workloads (creation and use), Communications of the ACM, v.50 n.11, November 2007
+Srilatha Manne , Dirk Grunwald , Fabio Somenzi, Remembrance of things past: locality and memory in BDDs, Proceedings of the 34th annual Design Automation Conference, p.196-201, June 09-13, 1997, Anaheim, California, USA
+Oussama Gamoudi , Nathalie Drach , Karine Heydemann, Using runtime activity to dynamically filter out inefficient data prefetches, Proceedings of the 17th international conference on Parallel processing, August 29-September 02, 2011, Bordeaux, France
+Chi-Keung Luk , Todd C. Mowry, Cooperative prefetching: compiler and hardware support for effective instruction prefetching in modern processors, Proceedings of the 31st annual ACM/IEEE international symposium on Microarchitecture, p.182-194, November 1998, Dallas, Texas, USA
+James R. Goodman, Coherency for multiprocessor virtual address caches, ACM SIGARCH Computer Architecture News, v.15 n.5, p.72-81, Oct. 1987
+Hans Vandierendonck , Koenraad De Bosschere, A Comparison of Locality-Based and Recency-Based Replacement Policies, Proceedings of the Third International Symposium on High Performance Computing, p.310-318, October 16-18, 2000
+Chengxiang Si , Xiaoxuan Meng , Lu Xu,BW-DCache: an inexpensive, effective and reliable cache solution in a SAN file system, Proceedings of the 23rd international conference on High Performance Computing Systems and Applications, June 14-17, 2009, Kingston, ON, Canada
+A. Hartstein , V. Srinivasan , T. R. Puzak , P. G. Emma, Cache miss behavior: is it √2?, Proceedings of the 3rd conference on Computing frontiers, May 03-05, 2006, Ischia, Italy
+Anita Borg , R. E. Kessler , David W. Wall, Generation and analysis of very long address traces, ACM SIGARCH Computer Architecture News, v.18 n.3a, p.270-279, June 1990
+W.-M. W. Hwu , Y. N. Patt, Checkpoint repair for high-performance out-of-order execution machines, IEEE Transactions on Computers, v.36 n.12, p.1496-1514, Dec. 1987
+Ying-Hong Wang , Chih-Feng Chao , Shih-Wei Lin , Wei-Ting Chen, A distributed data caching framework for mobile ad hoc networks, Proceedings of the 2006 international conference on Wireless communications and mobile computing, July 03-06, 2006, Vancouver, British Columbia, Canada
+Zeshan Chishti , Michael D. Powell , T. N. Vijaykumar, Distance Associativity for High-Performance Energy-Efficient Non-Uniform Cache Architectures, Proceedings of the 36th annual IEEE/ACM International Symposium on Microarchitecture, p.55, December 03-05, 2003
+B. A. Nayfeh , K. Olukotun , J. P. Singh, The impact of shared-cache clustering in small-scale shared-memory multiprocessors, Proceedings of the 2nd IEEE Symposium on High-Performance Computer Architecture, p.74, February 03-07, 1996
+V. Milutinovic , M Bettinger , W. Helbig, Multiplier/Shifter Design Tradeoffs in a 32-bit Microprocessor, IEEE Transactions on Computers, v.38 n.6, p.874-880, June 1989
+J. Torrellas , H. S. Lam , J. L. Hennessy, False Sharing and Spatial Locality in Multiprocessor Caches, IEEE Transactions on Computers, v.43 n.6, p.651-663, June 1994
+Thomas M. Conte , Mary Ann Hirsch , Wen-mei W. Hwu, Combining Trace Sampling with Single Pass Methods for Efficient Cache Simulation, IEEE Transactions on Computers, v.47 n.6, p.714-720, June 1998
+Alvin R. Lebeck, Cache conscious programming in undergraduate computer science, ACM SIGCSE Bulletin, v.31 n.1, p.247-251, March 1999
+Jean-Loup Baer , Tien-Fu Chen, An effective on-chip preloading scheme to reduce data access penalty, Proceedings of the 1991 ACM/IEEE conference on Supercomputing, p.176-186, November 18-22, 1991, Albuquerque, New Mexico, United States
+Jinwoo Suh , Eun-Gyu Kim , Stephen P. Crago , Lakshmi Srinivasan , Matthew C. French, A performance analysis of PIM, stream processing, and tiled processing on memory-intensive signal processing kernels, ACM SIGARCH Computer Architecture News, v.31 n.2, May 2003
+Douglas W. Clark, Cache Performance in the VAX-11/780, ACM Transactions on Computer Systems (TOCS), v.1 n.1, p.24-37, Feb. 1983
+Mark S. Papamarcos , Janak H. Patel, A low-overhead coherence solution for multiprocessors with private cache memories, ACM SIGARCH Computer Architecture News, v.12 n.3, p.348-354, June 1984
+S. Przybylski , M. Horowitz , J. Hennessy, Characteristics of performance-optimal multi-level cache hierarchies, ACM SIGARCH Computer Architecture News, v.17 n.3, p.114-121, June 1989
+M. Annaratone , R. Rühl, Performance measurements on a commercial multiprocessor running parallel code, ACM SIGARCH Computer Architecture News, v.17 n.3, p.307-314, June 1989
+Mark S. Papamarcos , Janak H. Patel, A low-overhead coherence solution for multiprocessors with private cache memories, 25 years of the international symposia on Computer architecture (selected papers), p.284-290, June 27-July 02, 1998, Barcelona, Spain
+Mark D. Hill, Cache considerations for multiprocessor programmers, Communications of the ACM, v.33 n.8, p.97-102, Aug. 1990
+James Archibald , Jean-Loup Baer, Cache coherence protocols: evaluation using a multiprocessor simulation model, ACM Transactions on Computer Systems (TOCS), v.4 n.4, p.273-298, Nov. 1986
+G. D. Intrater , I. Y. Spillinger, Performance Evaluation of a Decoded Instruction Cache for Variable Instruction Length Computers, IEEE Transactions on Computers, v.43 n.10, p.1140-1150, October 1994
+Frank Mueller , David B. Whalley, Avoiding unconditional jumps by code replication, ACM SIGPLAN Notices, v.27 n.7, p.322-330, July 1992
+Stephanie Coleman , Kathryn S. McKinley, Tile size selection using cache organization and data layout, ACM SIGPLAN Notices, v.30 n.6, p.279-290, June 1995
+Javier Lira , Carlos Molina , Antonio González, LRU-PEA: a smart replacement policy for non-uniform cache architectures on chip multiprocessors, Proceedings of the 2009 IEEE international conference on Computer design, October 04-07, 2009, Lake Tahoe, California, USA
+K. S. Grimsrud , J. K. Archibald , B. E. Nelson, Multiple Prefetch Adaptive Disk Caching, IEEE Transactions on Knowledge and Data Engineering, v.5 n.1, p.88-103, February 1993
+Norman P. Jouppi, Improving direct-mapped cache performance by the addition of a small fully-associative cache and prefetch buffers, ACM SIGARCH Computer Architecture News, v.18 n.2SI, p.364-373, June 1990
+A. Mendelson , D. Thiebaut , D. K. Pradhan, Modeling Live and Dead Lines in Cache Memory Systems, IEEE Transactions on Computers, v.42 n.1, p.1-14, January 1993
+Hanoch Levy , Ted G. Messinger , Robert J. T. Morris, The Cache Assignment Problem and Its Application to Database Buffer Management, IEEE Transactions on Software Engineering, v.22 n.11, p.827-838, November 1996
+Thomas M. Kroeger , Darrell D. E. Long , Jeffrey C. Mogul, Exploring the bounds of web latency reduction from caching and prefetching, Proceedings of the USENIX Symposium on Internet Technologies and Systems on USENIX Symposium on Internet Technologies and Systems, p.2-2, December 08-11, 1997, Monterey, California
+Vatsa Santhanam , Edward H. Gornish , Wei-Chung Hsu, Data prefetching on the HP PA-8000, ACM SIGARCH Computer Architecture News, v.25 n.2, p.264-273, May 1997
+K. So , V. Zecca, Cache performance of vector processors, ACM SIGARCH Computer Architecture News, v.16 n.2, p.261-268, May 1988
+Dominique Thiébaut , Harold S. Stone , Joel L. Wolf, Improving Disk Cache Hit-Ratios Through Cache Partitioning, IEEE Transactions on Computers, v.41 n.6, p.665-676, June 1992
+Harold S. Stone , John Turek , Joel L. Wolf, Optimal Partitioning of Cache Memory, IEEE Transactions on Computers, v.41 n.9, p.1054-1068, September 1992
+Milan Milenkovic, Microprocessor Memory Management Units, IEEE Micro, v.10 n.2, p.70-85, March 1990
+Norman P. Jouppi, Improving direct-mapped cache performance by the addition of a small fully-associative cache prefetch buffers, 25 years of the international symposia on Computer architecture (selected papers), p.388-397, June 27-July 02, 1998, Barcelona, Spain
+Asit Dan , Don Towsley, An approximate analysis of the LRU and FIFO buffer replacement schemes, ACM SIGMETRICS Performance Evaluation Review, v.18 n.1, p.143-152, May 1990
+M. B. Kamble , K. Ghose, Energy-Efficiency of VLSI Caches: A Comparative Study, Proceedings of the Tenth International Conference on VLSI Design: VLSI in Multimedia Applications, p.261, January 04-07, 1997
+M. K. Vernon , E. D. Lazowska , J. Zahorjan, An accurate and efficient performance analysis technique for multiprocessor snooping cache-consistency protocols, ACM SIGARCH Computer Architecture News, v.16 n.2, p.308-315, May 1988
+Dennis Lee , Jean-Loup Baer , Brad Calder , Dirk Grunwald, Instruction cache fetch policies for speculative execution, ACM SIGARCH Computer Architecture News, v.23 n.2, p.357-367, May 1995
+George Taylor , Peter Davies , Michael Farmwald, The TLB slice—a low-cost high-speed address translation mechanism, ACM SIGARCH Computer Architecture News, v.18 n.3a, p.355-363, June 1990
+O. Temam , Y. Jegou, Using virtual lines to enhance locality exploitation, Proceedings of the 8th international conference on Supercomputing, p.344-352, July 11-15, 1994, Manchester, England
+Niki C. Thornock , J. Kelly Flanagan, Facilitating level three cache studies using set sampling, Proceedings of the 32nd conference on Winter simulation, December 10-13, 2000, Orlando, Florida
+Mitch Alsup, Motorola's 88000 Family Architecture, IEEE Micro, v.10 n.3, p.48-66, May 1990
+Kanad Ghose , Milind B. Kamble, Reducing power in superscalar processor caches using subbanking, multiple line buffers and bit-line segmentation, Proceedings of the 1999 international symposium on Low power electronics and design, p.70-75, August 16-17, 1999, San Diego, California, USA
+Norman P. Jouppi, Cache write policies and performance, ACM SIGARCH Computer Architecture News, v.21 n.2, p.191-201, May 1993
+Toni Juan , Tomás Lang , Juan J. Navarro, The difference-bit cache, ACM SIGARCH Computer Architecture News, v.24 n.2, p.114-120, May 1996
+Georgi N. Gaydadjiev , Stamatis Vassiliadis, SAD prefetching for MPEG4 using flux caches, Proceedings of the 6th international conference on Embedded Computer Systems: architectures, Modeling, and Simulation, July 17-20, 2006, Samos, Greece
+J. Liedtke, Caches versus object allocation, Proceedings of the 5th International Workshop on Object Orientation in Operating Systems (IWOOOS '96), p.95, October 27-28, 1996
+R. W. Quong, Expected I-cache miss rates via the gap model, ACM SIGARCH Computer Architecture News, v.22 n.2, p.372-383, April 1994
+Jaeheon Jeong , Michel Dubois, Cache Replacement Algorithms with Nonuniform Miss Costs, IEEE Transactions on Computers, v.55 n.4, p.353-365, April 2006
+Mahmood Naderan-Tahan , Hamid Sarbazi-Azad, Adaptive prefetching using global history buffer in multicore processors, The Journal of Supercomputing, v.68 n.3, p.1302-1320, June      2014
+Robert Yung, Design decisions influencing the UltraSPARC's instruction fetch architecture, Proceedings of the 29th annual ACM/IEEE international symposium on Microarchitecture, p.178-190, December 02-04, 1996, Paris, France
+Jamison D. Collins , Dean M. Tullsen, Hardware identification of cache conflict misses, Proceedings of the 32nd annual ACM/IEEE international symposium on Microarchitecture, p.126-135, November 16-18, 1999, Haifa, Israel
+Jinwoo Suh , Ming Zhu , Changping Li , Stephen Crago , Stephen F. Shank , Richard H. Chau , Walter J. Mazur , Rick Pancoast, Implementations of Real-time Data Intensive Applications on PIM-based Multiprocessor Systems, Proceedings of the 15th International Parallel & Distributed Processing Symposium, p.99, April 23-27, 2001
+Reinder J. Bril, An implementation independent approach to cache memories, ACM SIGARCH Computer Architecture News, v.15 n.3, p.17-24, June 1987
+Bekim Cilku , Roland Kammerer , Peter Puschner, Aligning single path loops to reduce the number of capacity cache misses, ACM SIGBED Review, v.12 n.1, p.13-18, February 2015
+A. D. Malony , D. A. Reed , H. A. G. Wijshoff, Performance Measurement Intrusion and Perturbation Analysis, IEEE Transactions on Parallel and Distributed Systems, v.3 n.4, p.433-450, July 1992
+Scott McFarling, Cache replacement with dynamic exclusion, ACM SIGARCH Computer Architecture News, v.20 n.2, p.191-200, May 1992
+A. F. Pour , M. D. Hill, Performance Implications of Tolerating Cache Faults, IEEE Transactions on Computers, v.42 n.3, p.257-267, March 1993
+W. J. Schmidt , R. R. Roediger , C. S. Mestad , B. Mendelson , I. Shavit-Lottem , V. Bortnikov-Sitnitsky, Profile-directed restructuring of operating system code, IBM Systems Journal, v.37 n.2, p.270-297, April 1998
+Resit Sendag , Ying Chen , David J. Lilja, The Impact of Incorrectly Speculated Memory Operations in a Multithreaded Architecture, IEEE Transactions on Parallel and Distributed Systems, v.16 n.3, p.271-285, March 2005
+Chung-Ho Chen , Feng-Fu Lin, An Easy-to-Use Approach for Practical Bus-Based System Design, IEEE Transactions on Computers, v.48 n.8, p.780-793, August 1999
+R. H. Katz , S. J. Eggers , D. A. Wood , C. L. Perkins , R. G. Sheldon, Implementing a cache consistency protocol, ACM SIGARCH Computer Architecture News, v.13 n.3, p.276-283, June 1985
+D. R. Kaeli , L. L. Fong , R. C. Booth , K. C. Imming , J. P. Weigel, Performance analysis on a CC-NUMA prototype, IBM Journal of Research and Development, v.41 n.3, p.205-214, May 1997
+Kifung C. Cheung , Gurindar S. Sohi , Kewal K. Saluja , Dhiraj K. Pradhan, Design and Analysis of a Gracefully Degrading Interleaved Memory System, IEEE Transactions on Computers, v.39 n.1, p.63-71, January 1990
+S. Palacharla , R. E. Kessler, Evaluating stream buffers as a secondary cache replacement, ACM SIGARCH Computer Architecture News, v.22 n.2, p.24-33, April 1994
+Fredrik Dahlgren , Per Stenström, On reconfigurable on-chip data caches, Proceedings of the 24th annual international symposium on Microarchitecture, p.189-198, September 1991, Albuquerque, New Mexico, Puerto Rico
+R. Saavedra-Barrera , D. Culler , T. von Eicken, Analysis of multithreaded architectures for parallel computing, Proceedings of the second annual ACM symposium on Parallel algorithms and architectures, p.169-178, July 02-06, 1990, Island of Crete, Greece
+Wei-Chung Hsu , James E. Smith, A Performance Study of Instruction Cache Prefetching Methods, IEEE Transactions on Computers, v.47 n.5, p.497-508, May 1998
+S. J. Eggers , David R. Keppel , Eric J. Koldinger , Henry M. Levy, Techniques for efficient inline tracing on a shared-memory multiprocessor, ACM SIGMETRICS Performance Evaluation Review, v.18 n.1, p.37-47, May 1990
+Kai Li , Paul Hudak, Memory coherence in shared virtual memory systems, Proceedings of the fifth annual ACM symposium on Principles of distributed computing, p.229-239, August 11-13, 1986, Calgary, Alberta, Canada
+Seetha Lakshmi , Seraphin Calo , Piyush Gupta, Frame caching in menu-driven Videotex systems, Proceedings of 1986 ACM Fall joint computer conference, p.655-664, November 1986, Dallas, Texas, United States
+Milo Tomasevic , Veljko Milutinovic, Hardware Approaches to Cache Coherence in Shared-Memory Multiprocessors Part 2, IEEE Micro, v.14 n.6, p.61-66, December 1994
+Frank Mueller , David B. Whalley, Avoiding conditional branches by code replication, ACM SIGPLAN Notices, v.30 n.6, p.56-66, June 1995
+J.-Fr. Hake , W. Homberg, The impact of memory organization on the performance of matrix multiplication, Proceedings of the 1990 ACM/IEEE conference on Supercomputing, p.34-40, October 1990, New York, New York, USA
+Chit-Te Wang , Nelson Passos, Improving cache hit ratio by extended referencing cache lines, Journal of Computing Sciences in Colleges, v.18 n.4, p.118-123, April 2003
+Martin Kampe , Per Stenstrom , Michel Dubois, Self-correcting LRU replacement policies, Proceedings of the 1st conference on Computing frontiers, April 14-16, 2004, Ischia, Italy
+Benbin Chen , Donghui Guo, Markov parameters tuning prediction to improve cache hit rate, International Journal of Internet Protocol Technology, v.8 n.4, p.190-199, March 2014
+Makoto Kobayashi, A cache multitasking model, ACM SIGMETRICS Performance Evaluation Review, v.20 n.2, p.27-37, Nov. 1992
+Jike Cui , Mansur. H. Samadzadeh, A new hybrid approach to exploit localities: LRFU with adaptive prefetching, ACM SIGMETRICS Performance Evaluation Review, v.31 n.3, p.37-43, December 2003
+Charles P. Thacker , Lawrence C. Stewart , Edwin H. Satterthwaite, Jr., Firefly: A Multiprocessor Workstation, IEEE Transactions on Computers, v.37 n.8, p.909-920, August 1988
+P. Simpson , R. Alonso, Data cashing in IR systems, Proceedings of the 10th annual international ACM SIGIR conference on Research and development in information retrieval, p.296-305, June 03-05, 1987, New Orleans, Louisiana, USA
+Kimming So , Rudolph N. Rechtschaffen, Cache Operations by MRU Change, IEEE Transactions on Computers, v.37 n.6, p.700-709, June 1988
+Mary K. Vernon , Mark A. Holliday, Performance analysis of multiprocessor cache consistency protocols using generalized timed Petri nets, ACM SIGMETRICS Performance Evaluation Review, v.14 n.1, p.9-17, May 1986
+J. van den Berg , D. Toswley, Properties of the Miss Ratio for a 2-Level Storage Model with LRU or FIFO Replacement Strategy and Independent References, IEEE Transactions on Computers, v.42 n.4, p.508-512, April 1993
+W. H. Wang , J.-L. Baer , H. M. Levy, Organization and performance of a two-level virtual-real cache hierarchy, ACM SIGARCH Computer Architecture News, v.17 n.3, p.140-148, June 1989
+A. Aggarwal , B. Alpern , A. Chandra , M. Snir, A model for hierarchical memory, Proceedings of the nineteenth annual ACM conference on Theory of computing, p.305-314, January 1987, New York, New York, United States
+Anant Agarwal , Richard Simoni , John Hennessy , Mark Horowitz, An evaluation of directory schemes for cache coherence, 25 years of the international symposia on Computer architecture (selected papers), p.353-362, June 27-July 02, 1998, Barcelona, Spain
+P. Chow , M. Horowitz, Architectural tradeoffs in the design of MIPS-X, Proceedings of the 14th annual international symposium on Computer architecture, p.300-308, June 02-05, 1987, Pittsburgh, Pennsylvania, United States
+A. Agarwal , R. Simoni , J. Hennessy , M. Horowitz, An evaluation of directory schemes for cache coherence, ACM SIGARCH Computer Architecture News, v.16 n.2, p.280-298, May 1988
+Jim Pierce , Trevor Mudge, Wrong-path instruction prefetching, Proceedings of the 29th annual ACM/IEEE international symposium on Microarchitecture, p.165-175, December 02-04, 1996, Paris, France
+Gurindar S. Sohi , Manoj Franklin, High-bandwidth data memory systems for superscalar processors, ACM SIGARCH Computer Architecture News, v.19 n.2, p.53-62, Apr. 1991
+John W. C. Fu , Janak H. Patel, Data prefetching in multiprocessor vector cache memories, ACM SIGARCH Computer Architecture News, v.19 n.3, p.54-63, May 1991
+D. R. Cheriton , H. A. Goosen , P. D. Boyle, Multi-level shared caching techniques for scalability in VMP-M/C, ACM SIGARCH Computer Architecture News, v.17 n.3, p.16-24, June 1989
+David R. Kaeli , Philip G. Emma, Branch history table prediction of moving target branches due to subroutine returns, ACM SIGARCH Computer Architecture News, v.19 n.3, p.34-42, May 1991
+Alan Jay Smith , Rafael H. Saavedra, Measuring Cache and TLB Performance and Their Effect on Benchmark Runtimes, IEEE Transactions on Computers, v.44 n.10, p.1223-1235, October 1995
+Bekim Cilku , Peter Puschner, Designing a time predictable memory hierarchy for single-path code, ACM SIGBED Review, v.12 n.2, p.16-21, April 2015
+DRAM-Page Based Prediction and Prefetching, Proceedings of the 2000 IEEE International Conference on Computer Design: VLSI in Computers & Processors, p.267, September 17-20, 2000
+D. A. Wood , S. J. Eggers , G. Gibson , M. D. Hill , J. M. Pendleton, An in-cache address translation mechanism, ACM SIGARCH Computer Architecture News, v.14 n.2, p.358-365, June 1986
+Zhigang Hu , Stefanos Kaxiras , Margaret Martonosi, Timekeeping in the memory system: predicting and optimizing memory behavior, ACM SIGARCH Computer Architecture News, v.30 n.2, May 2002
+Marius Grannaes , Magnus Jahre , Lasse Natvig, Exploring the prefetcher/memory controller design space: an opportunistic prefetch scheduling strategy, Proceedings of the 24th international conference on Architecture of computing systems, February 24-25, 2011, Como, Italy
+André Seznec, A case for two-way skewed-associative caches, ACM SIGARCH Computer Architecture News, v.21 n.2, p.169-178, May 1993
+Julio Sahuquillo , Ana Pont, Splitting the Data Cache: A Survey, IEEE Concurrency, v.8 n.3, p.30-35, July 2000
+James Griffioen , Randy Appleton, Reducing file system latency using a predictive approach, Proceedings of the USENIX Summer 1994 Technical Conference on USENIX Summer 1994 Technical Conference, p.13-13, June 06-10, 1994, Boston, Massachusetts
+A. Goto , A. Matsumoto , E. Tick, Design and performance of a coherent cache for parallel logic programming architectures, ACM SIGARCH Computer Architecture News, v.17 n.3, p.25-33, June 1989
+Chi-Hung Chi , Chin-Ming Cheung, Hardware-driven prefetching for pointer data references, Proceedings of the 12th international conference on Supercomputing, p.377-384, July 1998, Melbourne, Australia
+Rafael Alonso , Daniel Barbara , Hector Garcia-Molina, Data caching issues in an information retrieval system, ACM Transactions on Database Systems (TODS), v.15 n.3, p.359-384, Sept. 1990
+Marek Chrobak , John Noga, Competitive algorithms for multilevel caching and relaxed list update, Proceedings of the ninth annual ACM-SIAM symposium on Discrete algorithms, p.87-96, January 25-27, 1998, San Francisco, California, United States
+Jeffrey C. Mogul , Anita Borg, The effect of context switches on cache performance, ACM SIGPLAN Notices, v.26 n.4, p.75-84, Apr. 1991
+Alexander C. Klaiber , Henry M. Levy, An architecture for software-controlled data prefetching, ACM SIGARCH Computer Architecture News, v.19 n.3, p.43-53, May 1991
+Jeffrey B. Rothman , Alan Jay Smith, The pool of subsectors cache design, Proceedings of the 13th international conference on Supercomputing, p.31-42, June 20-25, 1999, Rhodes, Greece
+Sanjeev Kumar , Christopher Wilkerson, Exploiting spatial locality in data caches using spatial footprints, ACM SIGARCH Computer Architecture News, v.26 n.3, p.357-368, June 1998
+Y.-C. Chen , A. V. Veidenbaum, An effective write policy for software coherence schemes, Proceedings of the 1992 ACM/IEEE conference on Supercomputing, p.661-672, November 16-20, 1992, Minneapolis, Minnesota, United States
+Thomas J. Murray , Alice A. McRae , A. Wayne Madison, Perfect page placement, Proceedings of the 35th Annual Southeast Regional Conference, April 02-04, 1997, Murfreesboro, Tennessee
+Srikanth T. Srinivasan , Roy Dz-ching Ju , Alvin R. Lebeck , Chris Wilkerson, Locality vs. criticality, ACM SIGARCH Computer Architecture News, v.29 n.2, p.132-143, May 2001
+T.-F. Chen , J.-L. Baer, A performance study of software and hardware data prefetching schemes, ACM SIGARCH Computer Architecture News, v.22 n.2, p.223-232, April 1994
+Wei Zhang, Enhancing data cache reliability by the addition of a small fully-associative replication cache, Proceedings of the 18th annual international conference on Supercomputing, June 26-July 01, 2004, Malo, France
+Bruce L. Jacob , Peter M. Chen , Seth R. Silverman , Trevor N. Mudge, An Analytical Model for Designing Memory Hierarchies, IEEE Transactions on Computers, v.45 n.10, p.1180-1194, October 1996
+Xiaodong Zhang, Performance Measurement and Modeling to Evaluate Various Effects on a Shared memory Multiprocessor, IEEE Transactions on Software Engineering, v.17 n.1, p.87-93, January 1991
+Alejandro Valero , Julio Sahuquillo , Salvador Petit , Pedro López , José Duato, Combining recency of information with selective random and a victim cache in last-level caches, ACM Transactions on Architecture and Code Optimization (TACO), v.9 n.3, p.1-20, September 2012
+Jun Rao , Kenneth A. Ross, Making B+- trees cache conscious in main memory, ACM SIGMOD Record, v.29 n.2, p.475-486, June 2000
+C. E. Wu , Y. Hsu , Y. -H. Liu, A Quantitative Evaluation of Cache Types for High-Performance Computer Systems, IEEE Transactions on Computers, v.42 n.10, p.1154-1162, October 1993
+Sangyeun Cho, I-cache multi-banking and vertical interleaving, Proceedings of the 17th ACM Great Lakes symposium on VLSI, March 11-13, 2007, Stresa-Lago Maggiore, Italy
+Moinuddin K. Qureshi , David Thompson , Yale N. Patt, The V-Way Cache: Demand Based Associativity via Global Replacement, ACM SIGARCH Computer Architecture News, v.33 n.2, p.544-555, May 2005
+Benjamin Zorn , Dirk Grunwald, Evaluating models of memory allocation, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.4 n.1, p.107-131, Jan. 1994
+Hiroshi Nakamura , Taisuke Boku , Hideo Wada , Hiromitsu Imori , Ikuo Nakata , Yasuhiro Inagami , Kisaburo Nakazawa , Yoshiyuki Yamashita, A scalar architecture for pseudo vector processing based on slide-windowed registers, Proceedings of the 7th international conference on Supercomputing, p.298-307, July 19-23, 1993, Tokyo, Japan
+Lizyamma Kurian , Paul T. Hulina , Lee D. Coraor, Memory latency effects in decoupled architectures with a single data memory module, ACM SIGARCH Computer Architecture News, v.20 n.2, p.236-245, May 1992
+Peter L. Bird , Richard A. Uhlig, UsingLookaheadto reduce memory bank contention for decoupled operand references, Proceedings of the 1991 ACM/IEEE conference on Supercomputing, p.187-196, November 18-22, 1991, Albuquerque, New Mexico, United States
+Robert B. Smith , James K. Archibald , Brent E. Nelson, Evaluating performance of prefetching second level caches, ACM SIGMETRICS Performance Evaluation Review, v.20 n.4, p.31-42, May 1993
+Glenn Reinman , Brad Calder , Todd Austin, Fetch directed instruction prefetching, Proceedings of the 32nd annual ACM/IEEE international symposium on Microarchitecture, p.16-27, November 16-18, 1999, Haifa, Israel
+David B. Whalley, Fast instruction cache performance evaluation using compile-time analysis, ACM SIGMETRICS Performance Evaluation Review, v.20 n.1, p.13-22, June 1992
+K. Nakazawa , H. Nakamura , H. Imori , S. Kawabe, Pseudo vector processor based on register-windowed superscalar pipeline, Proceedings of the 1992 ACM/IEEE conference on Supercomputing, p.642-651, November 16-20, 1992, Minneapolis, Minnesota, United States
+Jaeheon Jeong , Michel Dubois, Optimal replacements in caches with two miss costs, Proceedings of the eleventh annual ACM symposium on Parallel algorithms and architectures, p.155-164, June 27-30, 1999, Saint Malo, France
+Hamid R. Zarandi , Seyed Ghassem Miremadi, Soft error mitigation in cache memories of embedded systems by means of a protected scheme, Proceedings of the Second Latin-American conference on Dependable Computing, October 25-28, 2005, Salvador, Brazil
+Wei Zhang, Replication Cache: A Small Fully Associative Cache to Improve Data Cache Reliability, IEEE Transactions on Computers, v.54 n.12, p.1547-1555, December 2005
+Lizyamma Kurian , Paul T. Hulina , Lee D. Coraor , Dhamir N. Mannai, Classification and performance evaluation of instruction buffering techniques, ACM SIGARCH Computer Architecture News, v.19 n.3, p.150-159, May 1991
+Aleksandar Dragojević , Rachid Guerraoui , Anmol V. Singh , Vasu Singh, Preventing versus curing: avoiding conflicts in transactional memories, Proceedings of the 28th ACM symposium on Principles of distributed computing, August 10-12, 2009, Calgary, AB, Canada
+Jinwoo Suh , Stephen Crago , Changping Li , Robert Parker, A PIM-based Multiprocessor System, Proceedings of the 15th International Parallel & Distributed Processing Symposium, p.4, April 23-27, 2001
+Thomas Alexander , Gershon Kedem, Distributed Prefetch-buffer/Cache Design for High Performance Memory Systems, Proceedings of the 2nd IEEE Symposium on High-Performance Computer Architecture, p.254, February 03-07, 1996
+Daniel Ortega , Mateo Valero , Eduard Ayguadé, A novel renaming mechanism that boosts software prefetching, Proceedings of the 15th international conference on Supercomputing, p.501-510, June 2001, Sorrento, Italy
+An-Chow Lai , Cem Fide , Babak Falsafi, Dead-block prediction & dead-block correlating prefetchers, ACM SIGARCH Computer Architecture News, v.29 n.2, p.144-154, May 2001
+William C. Kreahling , David Whalley , Mark W. Bailey , Xin Yuan , Gang-Ryung Uh , Robert van Engelen, Branch elimination by condition merging, Software—Practice & Experience, v.35 n.1, p.51-74, January 2005
+Jon Inouye , Ravindranath Konuru , Jonathan Walpole , Bart Sears, The effects of virtually addressed caches on virtual memory design and performance, ACM SIGOPS Operating Systems Review, v.26 n.4, p.14-29, Oct. 1992
+L. Kurian , P. T. Hulina , L. D. Coraor, Memory Latency Effects in Decoupled Architectures, IEEE Transactions on Computers, v.43 n.10, p.1129-1139, October 1994
+S. A. Green , D. J. Paddon, Exploiting Coherence for Multiprocessor Ray Tracing, IEEE Computer Graphics and Applications, v.9 n.6, p.12-26, November 1989
+Steven Przybylski, The performance impact of block sizes and fetch strategies, ACM SIGARCH Computer Architecture News, v.18 n.3a, p.160-169, June 1990
+Sunil Kim , Alexander V. Veidenbaum, Stride-directed Prefetching for Secondary Caches, Proceedings of the international Conference on Parallel Processing, p.314, August 11-15, 1997
+Li Zhao , Ravi Iyer , Srihari Makineni , Don Newell , Liqun Cheng, NCID: a non-inclusive cache, inclusive directory architecture for flexible and efficient cache hierarchies, Proceedings of the 7th ACM international conference on Computing frontiers, May 17-19, 2010, Bertinoro, Italy
+Jamison D. Collins , Dean M. Tullsen, Runtime identification of cache conflict misses: The adaptive miss buffer, ACM Transactions on Computer Systems (TOCS), v.19 n.4, p.413-439, November 2001
+R. T. Short , H. M. Levy, A simulation study of two-level caches, ACM SIGARCH Computer Architecture News, v.16 n.2, p.81-88, May 1988
+Brian W. O'Krafka , A. Richard Newton, An empirical evaluation of two memory-efficient directory methods, ACM SIGARCH Computer Architecture News, v.18 n.2SI, p.138-147, June 1990
+A. L. Davis , S. V. Robison, The architecture of the FAIM-1 symbolic multiprocessing system, Proceedings of the 9th international joint conference on Artificial intelligence, p.32-38, August 18-23, 1985, Los Angeles, California
+Ilya Gluhovsky , Brian O'Krafka, Comprehensive multiprocessor cache miss rate generation using multivariate models, ACM Transactions on Computer Systems (TOCS), v.23 n.2, p.111-145, May 2005
+Jesús Sánchez , Antonio González, A locality sensitive multi-module cache with explicit management, Proceedings of the 13th international conference on Supercomputing, p.51-59, June 20-25, 1999, Rhodes, Greece
+D. R. Cheriton , G. A. Slavenburg , P. D. Boyle, Software-controlled caches in the VMP multiprocessor, ACM SIGARCH Computer Architecture News, v.14 n.2, p.366-374, May 1986
+M. K. Farrens , a. R. Pleszkun, Improving performance of small on-chip instruction caches, ACM SIGARCH Computer Architecture News, v.17 n.3, p.234-241, June 1989
+Hamid Reza Zarandi , Hamid Sarbazi-Azad, Hierarchical Binary Set Partitioning in Cache Memories, The Journal of Supercomputing, v.31 n.2, p.185-202, February 05
+José Leandro D. Mendes , Luiza M. N. Coutinho , Carlos A. P. S. Martins, Web memory hierarchy learning and research environment, Proceedings of the 2006 workshop on Computer architecture education: held in conjunction with the 33rd International Symposium on Computer Architecture, June 17, 2006, Boston, Massachusetts
+Jaeheon Jeong , Per Stenström , Michel Dubois, Simple penalty-sensitive replacement policies for caches, Proceedings of the 3rd conference on Computing frontiers, May 03-05, 2006, Ischia, Italy
+Jaeheon Jeong , Michel Dubois, Cost-Sensitive Cache Replacement Algorithms, Proceedings of the 9th International Symposium on High-Performance Computer Architecture, p.327, February 08-12, 2003
+Stephen Roderick Hines , Yuval Peress , Peter Gavin , David Whalley , Gary Tyson, Guaranteeing instruction fetch behavior with a lookahead instruction fetch engine (LIFE), ACM SIGPLAN Notices, v.44 n.7, July 2009
+G. S. Sohi, Cache Memory Organization to Enhance the Yield of High Performance VLSI Processors, IEEE Transactions on Computers, v.38 n.4, p.484-492, April 1989
+P. Bitar , A. M. Despain, Multiprocessor cache synchronization: issues, innovations, evolution, ACM SIGARCH Computer Architecture News, v.14 n.2, p.424-433, June 1986
+Jack W. Davidson , Richard A. Vaughan, The effect of instruction set complexity on program size and memory performance, ACM SIGPLAN Notices, v.22 n.10, p.60-64, Oct. 1987
+Douglas W. Clark , Joel S. Emer, Performance of the VAX-11/780 translation buffer: simulation and measurement, ACM Transactions on Computer Systems (TOCS), v.3 n.1, p.31-62, Feb. 1985
+A. Witkowski , K. Chandrakumar , G. Macchio, Concurrent I/O system for the hypercube multiprocessor, Proceedings of the third conference on Hypercube concurrent computers and applications, p.1398-1407, January 1989, Pasadena, California, United States
+Krishna M. Kavi , A. R. Hurson , Phenil Patadia , Elizabeth Abraham , Ponnarasu Shanmugam, Design of cache memories for multi-threaded dataflow architecture, ACM SIGARCH Computer Architecture News, v.23 n.2, p.253-264, May 1995
+Jared Stark , Paul Racunas , Yale N. Patt, Reducing the performance impact of instruction cache misses by writing instructions into the reservation stations out-of-order, Proceedings of the 30th annual ACM/IEEE international symposium on Microarchitecture, p.34-43, December 01-03, 1997, Research Triangle Park, North Carolina, United States
+Viji Srinivasan , Edward S. Davidson , Gary S. Tyson, A Prefetch Taxonomy, IEEE Transactions on Computers, v.53 n.2, p.126-140, February 2004
+Eric J. Koldinger , Susan J. Eggers , Henry M. Levy, On the validity of trace-driven simulation for multiprocessors, ACM SIGARCH Computer Architecture News, v.19 n.3, p.244-253, May 1991
+Thomas Ball , James R. Larus, Optimally profiling and tracing programs, Proceedings of the 19th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.59-70, January 19-22, 1992, Albuquerque, New Mexico, United States
+M. Dubois , C. Scheurich , F. Briggs, Memory access buffering in multiprocessors, ACM SIGARCH Computer Architecture News, v.14 n.2, p.434-442, June 1986
+Xing Du , Xiaodong Zhang , Zhichun Zhu, Memory Hierarchy Considerations for Cost-Effective Cluster Computing, IEEE Transactions on Computers, v.49 n.9, p.915-933, September 2000
+Xiaotong Zhuang , Santosh Pande, Power-efficient prefetching via bit-differential offset assignment on embedded processors, ACM SIGPLAN Notices, v.39 n.7, July 2004
+James R. Goodman, Using cache memory to reduce processor-memory traffic, 25 years of the international symposia on Computer architecture (selected papers), p.255-262, June 27-July 02, 1998, Barcelona, Spain
+H. Garcia-Molina , R. J. Lipton , J. Valdes, A Massive Memory Machine, IEEE Transactions on Computers, v.33 n.5, p.391-399, May 1984
+J. -Fr. Hake , W. Homberg, The impact of memory organization on the performance of matrix calculations, Parallel Computing, v.17 n.2-3, p.311-327, June, 1991
+Cosimo Antonio Prete , Gianpaolo Prina , Luigi Ricciardi, A Trace-Driven Simulator for Performance Evaluation of Cache-Based Multiprocessor Systems, IEEE Transactions on Parallel and Distributed Systems, v.6 n.9, p.915-929, September 1995
+B. D. Fleisch, Distributed shared memory in a loosely coupled distributed system, ACM SIGCOMM Computer Communication Review, v.17 n.5, p.317-327, Oct./Nov. 1987
+Sailesh Kumar , John Maschmeyer , Patrick Crowley, Exploiting locality to ameliorate packet queue contention and serialization, Proceedings of the 3rd conference on Computing frontiers, May 03-05, 2006, Ischia, Italy
+Antonio González , Mateo Valero , Nigel Topham , Joan M. Parcerisa, Eliminating cache conflict misses through XOR-based placement functions, Proceedings of the 11th international conference on Supercomputing, p.76-83, July 07-11, 1997, Vienna, Austria
+James R. Goodman, Using cache memory to reduce processor-memory traffic, ACM SIGARCH Computer Architecture News, v.11 n.3, p.124-131, June 1983
+Jih-Kwon Peir , Windsor W. Hsu , Honesty Young , Shauchi Ong, Improving cache performance with balanced tag and data paths, ACM SIGPLAN Notices, v.31 n.9, p.268-278, Sept. 1996
+Albert Chang , Mark F. Mergen, 801 storage: architecture and programming, ACM Transactions on Computer Systems (TOCS), v.6 n.1, p.28-50, Feb. 1988
+M. Dubois, Throughput Analysis of Cache-Based Multiprocessors with Multiple Buses, IEEE Transactions on Computers, v.37 n.1, p.58-70, January 1988
+Ayose Falcon , Alex Ramirez , Mateo Valero, Effective Instruction Prefetching via Fetch Prestaging, Proceedings of the 19th IEEE International Parallel and Distributed Processing Symposium (IPDPS'05) - Papers, p.20.2, April 04-08, 2005
+Jonathan E. Cook , Alexander L. Wolf , Benjamin G. Zorn, Partition selection policies in object database garbage collection, ACM SIGMOD Record, v.23 n.2, p.371-382, June 1994
+Chia-Lin Yang , Alvin R. Lebeck, Push vs. pull: data movement for linked data structures, Proceedings of the 14th international conference on Supercomputing, p.176-186, May 08-11, 2000, Santa Fe, New Mexico, USA
+Georgi N. Gaydadjiev , Stamatis Vassiliadis, Flux caches: what are they and are they useful?, Proceedings of the 5th international conference on Embedded Computer Systems: architectures, Modeling, and Simulation, July 18-20, 2005, Samos, Greece
+Robert P. Colwell , Robert P. Nix , John J. O'Donnell , David B. Papworth , Paul K. Rodman, A VLIW architecture for a trace Scheduling Compiler, IEEE Transactions on Computers, v.37 n.8, p.967-979, August 1988
+V. E. Taylor, Sparse matrix computations: implications for cache designs, Proceedings of the 1992 ACM/IEEE conference on Supercomputing, p.598-607, November 16-20, 1992, Minneapolis, Minnesota, USA
+D. Citron , L. Rudolph, Creating a wider bus using caching techniques, Proceedings of the 1st IEEE Symposium on High-Performance Computer Architecture, p.90, January 22-25, 1995
+Zahir Larabi , Yves Mathieu , Stephane Mancini, Efficient Data Access Management for FPGA-Based Image Processing SoCs, Proceedings of the 2009 IEEE/IFIP International Symposium on Rapid System Prototyping, p.159-165, June 23-26, 2009
+Jorge Albericio , Rubén Gran , Pablo Ibáñez , Víctor Viñals , Jose María Llabería, ABS: A low-cost adaptive controller for prefetching in a banked shared last-level cache, ACM Transactions on Architecture and Code Optimization (TACO), v.8 n.4, p.1-20, January 2012
+R. E. Kessler , M. D. Hill , D. A. Wood, A Comparison of Trace-Sampling Techniques for Multi-Megabyte Caches, IEEE Transactions on Computers, v.43 n.6, p.664-675, June 1994
+B. A. Nayfeh , K. Olukotun, Exploring the design space for a shared-cache multiprocessor, ACM SIGARCH Computer Architecture News, v.22 n.2, p.166-175, April 1994
+Minsuk Lee , Sang Lyul Min , Heonshik Shin , Chong Sang Kim , Chang Yun Park, Threaded Prefetching: A New Instruction Memory Hierarchy for Real-TimeSystems, Real-Time Systems, v.13 n.1, p.47-65, July 1997
+M. A. Holliday , C. S. Ellis, Accuracy of Memory Reference Traces of Parallel Computations in Trace-Drive Simulation, IEEE Transactions on Parallel and Distributed Systems, v.3 n.1, p.97-109, January 1992
+Chad L. Mitchell , Michael J. Flynn, The effects of processor architecture on instruction memory traffic, ACM Transactions on Computer Systems (TOCS), v.8 n.3, p.230-250, Aug. 1990
+Pablo Ibáñez , Víctor Viñals , José L. Briz , María J. Garzarán, Characterization and improvement of load/store cache-based prefetching, Proceedings of the 12th international conference on Supercomputing, p.369-376, July 1998, Melbourne, Australia
+Nathalie Drach , Jean-Luc Béchennec , Olivier Temam, Increasing hardware data prefetching performance using the second-level cache, Journal of Systems Architecture: the EUROMICRO Journal, v.48 n.4-5, p.137-149, December 2002
+James E. Bennett , Michael J. Flynn, Prediction caches for superscalar processors, Proceedings of the 30th annual ACM/IEEE international symposium on Microarchitecture, p.81-90, December 01-03, 1997, Research Triangle Park, North Carolina, USA
+Thomas M. Conte , Sanjeev Banerjia , Sergei Y. Larin , Kishore N. Menezes , Sumedh W. Sathaye, Instruction fetch mechanisms for VLIW architectures with compressed encodings, Proceedings of the 29th annual ACM/IEEE international symposium on Microarchitecture, p.201-211, December 02-04, 1996, Paris, France
+Yao Guo , Pritish Narayanan , Mahmoud Abdullah Bennaser , Saurabh Chheda , Csaba Andras Moritz, Energy-efficient hardware data prefetching, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, v.19 n.2, p.250-263, February 2011
+Marco Galluzzi , Ramón Beivide , Valentin Puente , José-Ángel Gregorio , Adrian Cristal , Mateo Valero, Evaluating kilo-instruction multiprocessors, Proceedings of the 3rd workshop on Memory performance issues: in conjunction with the 31st international symposium on computer architecture, p.72-79, June 20-20, 2004, Munich, Germany
+Yi Zhang , Steve Haga , Rajeev Barua, Execution history guided instruction prefetching, Proceedings of the 16th international conference on Supercomputing, June 22-26, 2002, New York, New York, USA
+Ina Podolski , Achim Rettberg, Overview of Multicore Requirements towards Real-Time Communication, Proceedings of the 7th IFIP WG 10.2 International Workshop on Software Technologies for Embedded and Ubiquitous Systems, p.354-364, November 16-18, 2009, Newport Beach, CA
+Yi Zhang , Steve Haga , Rajeev Barua, Execution History Guided Instruction Prefetching, The Journal of Supercomputing, v.27 n.2, p.129-147, February 2004
+Nigel Topham , Antonio González, Randomized Cache Placement for Eliminating Conflicts, IEEE Transactions on Computers, v.48 n.2, p.185-192, February 1999
+Bryan Black , Brian Mueller , Stephanie Postal , Ryan Rakvic , Noppanunt Utamaphethai , John Paul Shen, Load execution latency reduction, Proceedings of the 12th international conference on Supercomputing, p.29-36, July 1998, Melbourne, Australia
+Carlos R. Cunha , Carlos F.  B. Jaccoud, Determining WWW User's Next Access and Its Application to Pre-fetching, Proceedings of the 2nd IEEE Symposium on Computers and Communications (ISCC '97), p.6, July 01-03, 1997
+Brian N. Bershad , Dennis Lee , Theodore H. Romer , J. Bradley Chen, Avoiding conflict misses dynamically in large direct-mapped caches, ACM SIGPLAN Notices, v.29 n.11, p.158-170, Nov. 1994
+A. Agarwal , J. Hennessy , M. Horowitz, An analytical cache model, ACM Transactions on Computer Systems (TOCS), v.7 n.2, p.184-215, May 1989
+Yehuda Afek , Geoffrey Brown , Michael Merritt, Lazy caching, ACM Transactions on Programming Languages and Systems (TOPLAS), v.15 n.1, p.182-205, Jan. 1993
+R. E. Kessler , Mark D. Hill, Page placement algorithms for large real-indexed caches, ACM Transactions on Computer Systems (TOCS), v.10 n.4, p.338-359, Nov. 1992
+R. E. Kessler , R. Jooss , A. Lebeck , M. D. Hill, Inexpensive implementations of set-associativity, ACM SIGARCH Computer Architecture News, v.17 n.3, p.131-139, June 1989
+Jih-Kwon Peir , Yongjoon Lee , Windsor W. Hsu, Capturing dynamic memory reference behavior with adaptive cache topology, ACM SIGPLAN Notices, v.33 n.11, p.240-250, Nov. 1998
+Daniel Gracia Perez , Gilles Mouchard , Olivier Temam, MicroLib: A Case for the Quantitative Comparison of Micro-Architecture Mechanisms, Proceedings of the 37th annual IEEE/ACM International Symposium on Microarchitecture, p.43-54, December 04-08, 2004, Portland, Oregon
+Trishul M. Chilimbi , James R. Larus, Using generational garbage collection to implement cache-conscious data placement, ACM SIGPLAN Notices, v.34 n.3, p.37-48, March 1999
+Jun Yan , Wei Zhang, Analyzing the worst-case execution time for instruction caches with prefetching, ACM Transactions on Embedded Computing Systems (TECS), v.8 n.1, p.1-19, December 2008
+Nigel Topham , Antonio González , José González, The design and performance of a conflict-avoiding cache, Proceedings of the 30th annual ACM/IEEE international symposium on Microarchitecture, p.71-80, December 01-03, 1997, Research Triangle Park, North Carolina, United States
+Mahmut Kandemir , Yuanrui Zhang , Ozcan Ozturk, Adaptive prefetching for shared cache based chip multiprocessors, Proceedings of the Conference on Design, Automation and Test in Europe, April 20-24, 2009, Nice, France
+Jelena Trajkovic , Alexander V. Veidenbaum , Arun Kejariwal, Improving SDRAM access energy efficiency for low-power embedded systems, ACM Transactions on Embedded Computing Systems (TECS), v.7 n.3, p.1-21, April 2008
+Chuanjun Zhang , Bing Xue, Divide-and-conquer: a bubble replacement for low level caches, Proceedings of the 23rd international conference on Supercomputing, June 08-12, 2009, Yorktown Heights, NY, USA
+Hans Vandierendonck , Koen De Bosschere, Highly accurate and efficient evaluation of randomising set index functions, Journal of Systems Architecture: the EUROMICRO Journal, v.48 n.13-15, p.429-452, May 2003
+Architectural and compiler support for effective instruction prefetching: a cooperative approach, ACM Transactions on Computer Systems (TOCS), v.19 n.1, p.71-109, Feb. 2001
+Aamer Jaleel , Eric Borch , Malini Bhandaru , Simon C. Steely Jr. , Joel Emer, Achieving Non-Inclusive Cache Performance with Inclusive Caches: Temporal Locality Aware (TLA) Cache Management Policies, Proceedings of the 2010 43rd Annual IEEE/ACM International Symposium on Microarchitecture, p.151-162, December 04-08, 2010
+Marios Kleanthous , Yiannakis Sazeides , Marios D. Dikaiakos, Extrinsic and intrinsic text cloning, Proceedings of the 2010 international conference on Computer Architecture, June 19-23, 2010, Saint-Malo, France
+Sangyeun Cho , Pen-Chung Yew , Gyungho Lee, Access region locality for high-bandwidth processor memory system design, Proceedings of the 32nd annual ACM/IEEE international symposium on Microarchitecture, p.136-146, November 16-18, 1999, Haifa, Israel
+Ilya Gluhovsky , David Vengerov , Brian O'Krafka, Comprehensive multivariate extrapolation modeling of multiprocessor cache miss rates, ACM Transactions on Computer Systems (TOCS), v.25 n.1, p.2-es, February 2007
+Ziliang Zong , Ribel Fares , Brian Romoser , Joal Wood, FastStor: improving the performance of a large scale hybrid storage system via caching and prefetching, Cluster Computing, v.17 n.2, p.593-604, June      2014
+Anne Rogers , Kai Li, Software support for speculative loads, ACM SIGPLAN Notices, v.27 n.9, p.38-50, Sept. 1992
+S. Vassiliadis , B. Blaner , R. J. Eickemeyer, SCISM: a scalable compound instruction set machine, IBM Journal of Research and Development, v.38 n.1, p.59-78, Jan. 1994
+Hans Vandierendonck , Koen De Bosschere, XOR-Based Hash Functions, IEEE Transactions on Computers, v.54 n.7, p.800-812, July 2005
+Alvin R. Lebeck , Gurindar S. Sohi, Request Combining in Multiprocessors with Arbitrary Interconnection Networks, IEEE Transactions on Parallel and Distributed Systems, v.5 n.11, p.1140-1155, November 1994
+Jean-Loup Baer , Tien-Fu Chen, Effective Hardware-Based Data Prefetching for High-Performance Processors, IEEE Transactions on Computers, v.44 n.5, p.609-623, May 1995
+Kai Li , Karin Petersen, Evaluation of memory system extensions, ACM SIGARCH Computer Architecture News, v.19 n.3, p.84-93, May 1991
+Xiaotong Zhuang , Santosh Pande, Power-efficient prefetching for embedded processors, ACM Transactions on Embedded Computing Systems (TECS), v.6 n.1, February 2007
+Tanausú Ramírez , Alex Pajuelo , Oliverio J. Santana , Mateo Valero, Kilo-instruction processors, runahead and prefetching, Proceedings of the 3rd conference on Computing frontiers, May 03-05, 2006, Ischia, Italy
+Kiyeon Lee , Sangyeun Cho, Accurately modeling superscalar processor performance with reduced trace, Journal of Parallel and Distributed Computing, v.73 n.4, p.509-521, April, 2013
+A. J. Smith, Line (block) size choice for CPU cache memories, IEEE Transactions on Computers, v.36 n.9, p.1063-1076, Sept. 1987
+Men-Chow Chiang , Gurindar S. Sohi, Evaluating Design Choices for Shared Bus Multiprocessors in a Throughput-Oriented Environment, IEEE Transactions on Computers, v.41 n.3, p.297-317, March 1992
+Javier Lira , Timothy M. Jones , Carlos Molina , Antonio González, The migration prefetcher: Anticipating data promotion in dynamic NUCA caches, ACM Transactions on Architecture and Code Optimization (TACO), v.8 n.4, p.1-20, January 2012
+Chang Joo Lee , Onur Mutlu , Veynu Narasiman , Yale N. Patt, Prefetch-Aware DRAM Controllers, Proceedings of the 41st annual IEEE/ACM International Symposium on Microarchitecture, p.200-209, November 08-12, 2008
+Madhusudhan Talluri , Shing Kong , Mark D. Hill , David A. Patterson, Tradeoffs in supporting two page sizes, ACM SIGARCH Computer Architecture News, v.20 n.2, p.415-424, May 1992
+Joel L. Wolf , Harold S. Stone , Dominique Thiébaut, Synthetic Traces for Trace-Driven Simulation of Cache Memories, IEEE Transactions on Computers, v.41 n.4, p.388-410, April 1992
+Koushik Chakraborty , Philip M. Wells , Gurindar S. Sohi, Computation spreading: employing hardware migration to specialize CMP cores on-the-fly, ACM SIGARCH Computer Architecture News, v.34 n.5, December 2006
+Nathalie Drach, Hardware implementation issues of data prefetching, Proceedings of the 9th international conference on Supercomputing, p.245-254, July 03-07, 1995, Barcelona, Spain
+Jonathan Weinberg , Michael O. McCracken , Erich Strohmaier , Allan Snavely, Quantifying Locality In The Memory Access Patterns of HPC Applications, Proceedings of the 2005 ACM/IEEE conference on Supercomputing, p.50, November 12-18, 2005
+R. L. Lee , P. C. Yew , D. H. Lawrie, Multiprocessor cache design considerations, Proceedings of the 14th annual international symposium on Computer architecture, p.253-262, June 02-05, 1987, Pittsburgh, Pennsylvania, United States
+D. J. Lilja, The Impact of Parallel Loop Scheduling Strategies on Prefetching in a Shared Memory Multiprocessor, IEEE Transactions on Parallel and Distributed Systems, v.5 n.6, p.573-584, June 1994
+Taesu Kim , Dali Zhao , Alexander V. Veidenbaum, Multiple stream tracker: a new hardware stride prefetcher, Proceedings of the 11th ACM Conference on Computing Frontiers, May 20-22, 2014, Cagliari, Italy
+C.-H. Chi , H. Dietz, Unified management of registers and cache using liveness and cache bypass, ACM SIGPLAN Notices, v.24 n.7, p.344-353, July 1989
+Raksit Ashok , Saurabh Chheda , Csaba Andras Moritz, Cool-Mem: combining statically speculative memory accessing with selective address translation for energy efficiency, ACM SIGOPS Operating Systems Review, v.36 n.5, December 2002
+Thierry Lafage , André Seznec, Choosing representative slices of program execution for microarchitecture simulations: a preliminary application to the data stream, Workload characterization of emerging computer applications, Kluwer Academic Publishers, Norwell, MA, 2001
+Dominique Thiébaut, On the Fractal Dimension of Computer Programs and its Application to the Prediction of the Cache Miss Ratio, IEEE Transactions on Computers, v.38 n.7, p.1012-1026, July 1989
+J. D. Gee , A. J. Smith, Evaluation of cache consistency algorithm performance, Proceedings of the 4th International Workshop on Modeling, Analysis, and Simulation of Computer and Telecommunications Systems, p.236, February 01-04, 1996
+Roland E. Wunderlich , Thomas F. Wenisch , Babak Falsafi , James C. Hoe, Statistical sampling of microarchitecture simulation, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.16 n.3, p.197-224, July 2006
+Dong Hyuk Woo , Mrinmoy Ghosh , Emre Özer , Stuart Biles , Hsien-Hsin S. Lee, Reducing energy of virtual cache synonym lookup using bloom filters, Proceedings of the 2006 international conference on Compilers, architecture and synthesis for embedded systems, October 22-25, 2006, Seoul, Korea
+Scott Mahlke , Balas Natarajan, Compiler synthesized dynamic branch prediction, Proceedings of the 29th annual ACM/IEEE international symposium on Microarchitecture, p.153-164, December 02-04, 1996, Paris, France
+Reinder J. Bril, On cacheability of lock-variables in tightly coupled multiprocessor systems, ACM SIGARCH Computer Architecture News, v.15 n.3, p.25-32, June 1987
+D. R. Cheriton , A. Gupta , P. D. Boyle , H. A. Goosen, The VMP multiprocessor: initial experience, refinements, and performance evaluation, ACM SIGARCH Computer Architecture News, v.16 n.2, p.410-421, May 1988
+E. Tick, Data buffer performance for sequential Prolog architectures, ACM SIGARCH Computer Architecture News, v.16 n.2, p.434-442, May 1988
+Mikko H. Lipasti , Christopher B. Wilkerson , John Paul Shen, Value locality and load value prediction, ACM SIGPLAN Notices, v.31 n.9, p.138-147, Sept. 1996
+Fredrik Dahlgren , Michel Dubois , Per Stenström, Sequential Hardware Prefetching in Shared-Memory Multiprocessors, IEEE Transactions on Parallel and Distributed Systems, v.6 n.7, p.733-746, July 1995
+Yehuda Afek , David S. Greenberg , Michael Merritt , Gadi Taubenfeld, Computing with faulty shared memory, Proceedings of the eleventh annual ACM symposium on Principles of distributed computing, p.47-58, August 10-12, 1992, Vancouver, British Columbia, Canada
+Razvan Cheveresan , Matt Ramsay , Chris Feucht , Ilya Sharapov, Characteristics of workloads used in high performance and technical computing, Proceedings of the 21st annual international conference on Supercomputing, June 17-21, 2007, Seattle, Washington
+J. Heidemann , G. Popek, Performance of cache coherence in stackable filing, ACM SIGOPS Operating Systems Review, v.29 n.5, p.127-141, Dec. 3, 1995
+Wei-Fen Lin , Steven K. Reinhardt , Doug Burger, Designing a Modern Memory Hierarchy with Hardware Prefetching, IEEE Transactions on Computers, v.50 n.11, p.1202-1218, November 2001
+Rifat Ozcan , I. Sengor Altingovde , B. Barla Cambazoglu , Flavio P. Junqueira , ÖZgüR Ulusoy, A five-level static cache architecture for web search engines, Information Processing and Management: an International Journal, v.48 n.5, p.828-840, September, 2012
+Qi Zhu , Erol Gelenbe , Ying Qiao, Adaptive prefetching algorithm in disk controllers, Performance Evaluation, v.65 n.5, p.382-395, May, 2008
+Michel Dubois , Christoph Scheurich, Memory Access Dependencies in Shared-Memory Multiprocessors, IEEE Transactions on Software Engineering, v.16 n.6, p.660-673, June 1990
+Helen Davis , John Hennessy, Characterizing the synchronization behavior of parallel programs, ACM SIGPLAN Notices, v.23 n.9, p.198-211, Sept. 1988
+Richard M. Fujimoto , Jya-Jang Tsai , Ganesh C. Gopalakrishnan, Design and Evaluation of the Rollback Chip: Special Purpose Hardware for Time Warp, IEEE Transactions on Computers, v.41 n.1, p.68-82, January 1992
+Anant Agarwal , John Hennessy , Mark Horowitz, Cache performance of operating system and multiprogramming workloads, ACM Transactions on Computer Systems (TOCS), v.6 n.4, p.393-431, Nov. 1988
+M. D. Hill , A. J. Smith, Evaluating Associativity in CPU Caches, IEEE Transactions on Computers, v.38 n.12, p.1612-1630, December 1989
+Xiangyao Yu , Syed Kamran Haider , Ling Ren , Christopher Fletcher , Albert Kwon , Marten van Dijk , Srinivas Devadas, PrORAM: dynamic prefetcher for oblivious RAM, Proceedings of the 42nd Annual International Symposium on Computer Architecture, June 13-17, 2015, Portland, Oregon
+Sunil Kim , Alexander V. Veidenbaum, On Interaction between Interconnection Network Design and Latency Hiding Techniques in Multiprocessors, The Journal of Supercomputing, v.16 n.3, p.197-216, July 2000
+Brett D. Higgins , Jason Flinn , T. J. Giuli , Brian Noble , Christopher Peplin , David Watson, Informed mobile prefetching, Proceedings of the 10th international conference on Mobile systems, applications, and services, June 25-29, 2012, Low Wood Bay, Lake District, UK
+Berkant Barla Cambazoglu , Flavio P. Junqueira , Vassilis Plachouras , Scott Banachowski , Baoqiu Cui , Swee Lim , Bill Bridge, A refreshing perspective of search engine caching, Proceedings of the 19th international conference on World wide web, April 26-30, 2010, Raleigh, North Carolina, USA
+Stéphane Mancini , Zahir Larabi , Yves Mathieu , Tomasz Toczek , Lionel Pierrefeu, Exploration of 3D grid caching strategies for ray-shooting, Journal of Real-Time Image Processing, v.7 n.1, p.3-19, March     2012
+Jun Rao , Kenneth A. Ross, Cache Conscious Indexing for Decision-Support in Main Memory, Proceedings of the 25th International Conference on Very Large Data Bases, p.78-89, September 07-10, 1999
+S. Owicki , A. Agarwal, Evaluating the performance of software cache coherence, ACM SIGARCH Computer Architecture News, v.17 n.2, p.230-242, April 1989
+Rui Min , Yiming Hu, Improving Performance of Large Physically Indexed Caches by Decoupling Memory Addresses from Cache Addresses, IEEE Transactions on Computers, v.50 n.11, p.1191-1201, November 2001
+Sven Helmer , Thomas Neumann , Guido Moerkotte, Estimating the output cardinality of partial preaggregation with a measure of clusteredness, Proceedings of the 29th international conference on Very large data bases, p.656-667, September 09-12, 2003, Berlin, Germany
+Gregory G. Finn , Steve Hotz , Rod Van Meter, The impact of a zero-scan Internet checksumming mechanism, ACM SIGCOMM Computer Communication Review, v.26 n.5, p.27-39, Oct. 1996
+Jeffrey D. Gee , Alan Jay Smith, The effectiveness of caches for vector processors, Proceedings of the 8th international conference on Supercomputing, p.333-343, July 11-15, 1994, Manchester, England
+John Tse , Alan Jay Smith, CPU Cache Prefetching: Timing Evaluation of Hardware Implementations, IEEE Transactions on Computers, v.47 n.5, p.509-526, May 1998
+Jonathan E. Cook , Alexander L. Wolf , Benjamin G. Zorn, A Highly Effective Partition Selection Policy for Object Database Garbage Collection, IEEE Transactions on Knowledge and Data Engineering, v.10 n.1, p.153-172, January 1998
+Madhusudhan Talluri , Mark D. Hill, Surpassing the TLB performance of superpages with less operating system support, ACM SIGPLAN Notices, v.29 n.11, p.171-182, Nov. 1994
+S Jin , A Bestavros, GreedyDual* Web caching algorithm: exploiting the two sources of temporal locality in Web request streams, Computer Communications, v.24 n.2, p.174-183, February, 2001
+Xi E. Chen , Tor M. Aamodt, Hybrid analytical modeling of pending cache hits, data prefetching, and MSHRs, Proceedings of the 41st annual IEEE/ACM International Symposium on Microarchitecture, p.59-70, November 08-12, 2008
+Thomas Ball , James R. Larus, Optimally profiling and tracing programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.4, p.1319-1360, July 1994
+Nikolas Gloy , Michael D. Smith, Procedure placement using temporal-ordering information, ACM Transactions on Programming Languages and Systems (TOPLAS), v.21 n.5, p.977-1027, Sept. 1999
+Pei Cao , Edward W. Felten , Kai Li, Implementation and performance of application-controlled file caching, Proceedings of the 1st USENIX conference on Operating Systems Design and Implementation, p.13-es, November 14-17, 1994, Monterey, California
+Nathan T. Slingerland , Alan Jay Smith, Cache performance for multimedia applications, Proceedings of the 15th international conference on Supercomputing, p.204-217, June 2001, Sorrento, Italy
+Philip J. Koopman, Jr. , Peter Lee , Daniel P. Siewiorek, Cache behavior of combinator graph reduction, ACM Transactions on Programming Languages and Systems (TOPLAS), v.14 n.2, p.265-297, April 1992
+P. Pereira , L. Heutte , Y. Lecourtier, Source-to-Source Instrumentation for the Optimization of an Automatic Reading System, The Journal of Supercomputing, v.18 n.1, p.89-104, Jan. 2001
+P. Sweazey , A. J. Smith, A class of compatible cache consistency protocols and their support by the IEEE futurebus, ACM SIGARCH Computer Architecture News, v.14 n.2, p.414-423, May 1986
+James G. Thompson , Alan Jay Smith, Efficient (stack) algorithms for analysis of write-back and sector memories, ACM Transactions on Computer Systems (TOCS), v.7 n.1, p.78-117, Feb. 1989
+Vijay K. Madisetti , David A. Hardaker, Synchronization mechanisms for distributed event-driven computation, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.2 n.1, p.12-50, Jan. 1992
+Robert P. Colwell , Edward F. Gehringer , E. Douglas Jensen, Performance effects of architectural complexity in the Intel 432, ACM Transactions on Computer Systems (TOCS), v.6 n.3, p.296-339, Aug. 1988
+Jack W. Davidson , Anne M. Holler, Subprogram Inlining: A Study of its Effects on Program Execution Time, IEEE Transactions on Software Engineering, v.18 n.2, p.89-102, February 1992
+Zhijun Wang , Anwitaman Datta , Sajal K. Das , Mohan Kumar, CMV: File consistency maintenance through virtual servers in peer-to-peer systems, Journal of Parallel and Distributed Computing, v.69 n.4, p.360-372, April, 2009
+Jan Edler , Allan Gottlieb , Clyde P. Kruskal , Kevin P. McAuliffe , Larry Rudolph , Marc Snir , Patricia J. Teller , James Wilson, Issues related to MIMD shared-memory computers: the NYU ultracomputer approach, ACM SIGARCH Computer Architecture News, v.13 n.3, p.126-135, June 1985
+Xi E. Chen , Tor M. Aamodt, Hybrid analytical modeling of pending cache hits, data prefetching, and MSHRs, ACM Transactions on Architecture and Code Optimization (TACO), v.8 n.3, p.1-28, October 2011
+Javier Lira , Carlos Molina , Ryan N. Rakvic , Antonio González, Replacement techniques for dynamic NUCA cache designs on CMPs, The Journal of Supercomputing, v.64 n.2, p.548-579, May       2013
+Kazuhiko Kato , Takashi Masuda, Persistent Caching: An Implementation Technique for Complex Objects with Object Identity, IEEE Transactions on Software Engineering, v.18 n.7, p.631-645, July 1992
+Afrin Naz , Krishna Kavi , Wentong Li , Philip Sweany, Tiny split data-caches make big performance impact for embedded applications, Journal of Embedded Computing, v.2 n.2, p.207-219, April 2006
+Kathryn S. McKinley , Olivier Temam, Quantifying loop nest locality using SPEC'95 and the perfect benchmarks, ACM Transactions on Computer Systems (TOCS), v.17 n.4, p.288-336, Nov. 1999
+A. Agarwal, Performance Tradeoffs in Multithreaded Processors, IEEE Transactions on Parallel and Distributed Systems, v.3 n.5, p.525-539, September 1992
+Binny S. Gill , Luis Angel D. Bathen, Optimal multistream sequential prefetching in a shared cache, ACM Transactions on Storage (TOS), v.3 n.3, p.10-es, October 2007
+Zhe Zhang , Amit Kulkarni , Xiaosong Ma , Yuanyuan Zhou, Memory resource allocation for file system prefetching: from a supply chain management perspective, Proceedings of the 4th ACM European conference on Computer systems, April 01-03, 2009, Nuremberg, Germany
+Kathryn S. McKinley , Olivier Temam, A quantitative analysis of loop nest locality, ACM SIGPLAN Notices, v.31 n.9, p.94-104, Sept. 1996
+Adrián Cristal , Oliverio J. Santana , Mateo Valero , José F. Martínez, Toward kilo-instruction processors, ACM Transactions on Architecture and Code Optimization (TACO), v.1 n.4, p.389-417, December 2004
+Glenn Reinman , Brad Calder , Todd Austin, Optimizations Enabled by a Decoupled Front-End Architecture, IEEE Transactions on Computers, v.50 n.4, p.338-355, April 2001
+Doug Burger , James R. Goodman , Alain Kägi, Memory bandwidth limitations of future microprocessors, ACM SIGARCH Computer Architecture News, v.24 n.2, p.78-89, May 1996
+T. M. Nguyen , V. P. Srini , A. M. Despain, A two-tier memory architecture for high-performance multiprocessor systems, Proceedings of the 2nd international conference on Supercomputing, p.326-336, June 1988, St. Malo, France
+Marco Galluzzi , Valentín Puente , Adrián Cristal , Ramón Beivide , José-Ángel Gregorio , Mateo Valero, A first glance at Kilo-instruction based multiprocessors, Proceedings of the 1st conference on Computing frontiers, April 14-16, 2004, Ischia, Italy
+Mingju Li , Elizabeth Varki , Swapnil Bhatia , Arif Merchant, TaP: table-based prefetching for storage caches, Proceedings of the 6th USENIX Conference on File and Storage Technologies, p.1-16, February 26-29, 2008, San Jose, California
+Richard Uhlig , David Nagle , Trevor Mudge , Stuart Sechrest, Trap-driven simulation with Tapeworm II, ACM SIGPLAN Notices, v.29 n.11, p.132-144, Nov. 1994
+Yuanyuan Zhou , James Philbin , Kai Li, The Multi-Queue Replacement Algorithm for Second Level Buffer Caches, Proceedings of the General Track: 2002 USENIX Annual Technical Conference, p.91-104, June 25-30, 2001
+W. Hollingsworth , H. Sachs , A. J. Smith, The Clipper processor: instruction set architecture and implementation, Communications of the ACM, v.32 n.2, p.200-219, Feb. 1989
+Dongli Zhang , Moussa Ehsan , Michael Ferdman , Radu Sion, DIMMer: A case for turning off DIMMs in clouds, Proceedings of the ACM Symposium on Cloud Computing, p.1-8, November 03-05, 2014, Seattle, WA, USA
+Yuanyuan Zhou , Zhifeng Chen , Kai Li, Second-Level Buffer Cache Management, IEEE Transactions on Parallel and Distributed Systems, v.15 n.6, p.505-519, June 2004
+Kai Li , Paul Hudak, Memory coherence in shared virtual memory systems, ACM Transactions on Computer Systems (TOCS), v.7 n.4, p.321-359, Nov. 1989
+Zhenlin Wang , Doug Burger , Kathryn S. McKinley , Steven K. Reinhardt , Charles C. Weems, Guided region prefetching: a cooperative hardware/software approach, ACM SIGARCH Computer Architecture News, v.31 n.2, May 2003
+Eric J. Koldinger , Jeffrey S. Chase , Susan J. Eggers, Architecture support for single address space operating systems, ACM SIGPLAN Notices, v.27 n.9, p.175-186, Sept. 1992
+Steven P. Vanderwiel , David J. Lilja, Data prefetch mechanisms, ACM Computing Surveys (CSUR), v.32 n.2, p.174-199, June 2000
+Yehuda Afek , David S. Greenberg , Michael Merritt , Gadi Taubenfeld, Computing with faulty shared objects, Journal of the ACM (JACM), v.42 n.6, p.1231-1274, Nov. 1995
+Luc Bouganim , Daniela Florescu , Patrick Valduriez, Load Balancing for Parallel Query Execution on  NUMA Multiprocessors, Distributed and Parallel Databases, v.7 n.1, p.99-121, January 1999
+Raksit Ashok , Saurabh Chheda , Csaba Andras Moritz, Coupling compiler-enabled and conventional memory accessing for energy efficiency, ACM Transactions on Computer Systems (TOCS), v.22 n.2, p.180-213, May 2004
+Trishul M. Chilimbi , Mark D. Hill , James R. Larus, Cache-conscious structure layout, ACM SIGPLAN Notices, v.34 n.5, p.1-12, May 1999
+D. F. Kotz , C. S. Ellis, Prefetching in File Systems for MIMD Multiprocessors, IEEE Transactions on Parallel and Distributed Systems, v.1 n.2, p.218-230, April 1990
+Yong Woo Lee, A virtual server queueing network method for component based performance modelling of metacomputing, Future Generation Computer Systems, v.20 n.1, p.145-155, January 2004
+Richard Uhlig , David Nagle , Trevor Mudge , Stuart Sechrest, Trap-driven memory simulation with Tapeworm II, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.7 n.1, p.7-41, Jan. 1997
+Mikko H. Lipasti , William J. Schmidt , Steven R. Kunkel , Robert R. Roediger, SPAID: software prefetching in pointer- and call-intensive environments, Proceedings of the 28th annual international symposium on Microarchitecture, p.231-236, November 29-December 01, 1995, Ann Arbor, Michigan, USA
+Johann Blieberger , Thomas Fahringer , Bernhard Scholz, Symbolic Cache Analysis for Real-Time Systems, Real-Time Systems, v.18 n.2/3, p.181-215, May 2000
+J. R. Goodman , W. C. Hsu, On the use of registers vs. cache to minimize memory traffic, ACM SIGARCH Computer Architecture News, v.14 n.2, p.375-383, May 1986
+Sudipto Guha, On the space---time of optimal, approximate and streaming algorithms for synopsis construction problems, The VLDB Journal — The International Journal on Very Large Data Bases, v.17 n.6, p.1509-1535, November  2008
+Robert J. Smith, II, Fundamentals of parallel logic simulation, Proceedings of the 23rd ACM/IEEE Design Automation Conference, p.2-12, July 1986, Las Vegas, Nevada, USA
+Eliezer Levy , Abraham Silberschatz, Distributed file systems: concepts and examples, ACM Computing Surveys (CSUR), v.22 n.4, p.321-374, Dec. 1990
+Trevor Mudge, Strategic directions in computer architecture, ACM Computing Surveys (CSUR), v.28 n.4, p.671-678, Dec. 1996
+Christian Ferdinand , Reinhard Wilhelm, Efficient and Precise Cache Behavior Prediction for Real-TimeSystems, Real-Time Systems, v.17 n.2-3, p.131-181, Nov. 1999
+David J. Lilja, Cache coherence in large-scale shared-memory multiprocessors: issues and comparisons, ACM Computing Surveys (CSUR), v.25 n.3, p.303-338, Sept. 1993
+Richard Uhlig , David Nagle , Trevor Mudge , Stuart Sechrest , Joel Emer, Instruction fetching: coping with code bloat, ACM SIGARCH Computer Architecture News, v.23 n.2, p.345-356, May 1995
+Richard Uhlig , Trevor N. Mudge, Trace-Driven Memory Simulation: A Survey, Performance Evaluation: Origins and Directions, p.97-139, January 01, 2000
+Jih-Kwon Peir , Windsor W. Hsu , Alan Jay Smith, Functional Implementation Techniques for CPU Cache Memories, IEEE Transactions on Computers, v.48 n.2, p.100-110, February 1999
+Robert W. Numrich, Computer performance analysis and the Pi Theorem, Computer Science - Research and Development, v.29 n.1, p.45-71, February  2014
+Alan J. Smith, Disk cache—miss ratio analysis and design considerations, ACM Transactions on Computer Systems (TOCS), v.3 n.3, p.161-203, Aug. 1985
+Richard A. Uhlig , Trevor N. Mudge, Trace-driven memory simulation: a survey, ACM Computing Surveys (CSUR), v.29 n.2, p.128-170, June 1997
+Henry G. Baker, Linear logic and permutation stacks—the Forth shall be first, ACM SIGARCH Computer Architecture News, v.22 n.1, p.34-43, March 1994
+Nikolas Askitis , Justin Zobel, Redesigning the string hash table, burst trie, and BST to exploit cache, Journal of Experimental Algorithmics (JEA), 15, 2010
+Fabrizio Silvestri, Mining Query Logs: Turning Search Usage Data into Knowledge, Foundations and Trends in Information Retrieval, v.4 n.1—2, p.1-174, January 2010
+Vasilis F. Pavlidis , Eby G. Friedman, Three-dimensional Integrated Circuit Design, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2008
+Joseph A. Fisher , Paolo Faraboschi , Cliff Young, Embedded Computing: A VLIW Approach to Architecture, Compilers and Tools, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2005
+David Culler , Jaswinder Pal Singh , Anoop Gupta, Parallel Computer Architecture: A Hardware/Software Approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1998
+John L. Hennessy , David A. Patterson, Computer Architecture, Fifth Edition: A Quantitative Approach, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2011
+Bruce Jacob , Spencer Ng , David Wang, Memory Systems: Cache, DRAM, Disk, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2007
+Ulrich Meyer , Peter Sanders , Jop Sibeyn, Algorithms for memory hierarchies: advanced lectures, Springer-Verlag, Berlin, Heidelberg, 2003

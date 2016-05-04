@@ -1,0 +1,67 @@
+Özalp Babaoglu , William Joy, Converting a swap-based system to do paging in an architecture lacking page-referenced bits, Proceedings of the eighth ACM symposium on Operating systems principles, p.78-86, December 14-16, 1981, Pacific Grove, California, USA[doi>10.1145/800216.806595]
+BACH, M. J., AND BUROFF, S. J. 1984. Multiprocessor UNIX systems. A T&T Bell Lab. Tech J., 1733-1749.
+BECK, R., AND KASTEN, R. 1985. VLSI assist in building a multiprocessor UNIX system. In USENIX Association Conference Proceedings (Portland, Oreg., June 11-14). USENIX Assoc., E1 Cerrito, Calif., pp. 255-275.
+BELL, C. G. 1985. Multis: A new class of multiprocessor computers. Science 228, 462-467.
+BLTJ 1984. The UNIX system. AT&T Bell Lab. Tech. J. 63, 8 (Oct.).
+BOURNE, S. R. 1978. An introduction to the UNIX shell. Bell Syst. Tech. J. 1947-1972.
+BOURNE, S. R. 1983. The UNIX System. Addison- Wesley, Reading, Mass.
+BSTJ 1978. UNIX time-sharing systems. Bell Syst. Tech. J. 57, 6, Pt. 2 (july-Aug.).
+BUTTERFIELD, D., AND POPEK, B. 1984. Network tasking in the LOCUS Distributed UNIX system. In USENIX Association Conference Proceedings (Salt Lake City, Utah, June 12-15). USENIX Assoc., El Cerrito, Calif., pp. 62-71.
+CABRERA, L. F., KARELS, M. J., AND MOSHER, D. 1985. The impact of buffer management on networking software performance in Berkeley UNIX 4.2BSD: A case study. In USENiX Association Conference Proceedings (Portland, Oreg., June 11-14). USENIX Assoc., E1 Cerrito, Calif., pp. 507-518.
+CERF, V. G., AND CAIN, E. 1983. The DoD internet architecture model. Comput. Networks 7, 307- 318.
+CHAMBERS, J. B., AND QUARTERMAN, J. S. 1983. UNIX System V and 4.1C BSD. In USENIX Conference Proceedings (Toronto, Ontario, June). USENIX Assoc., El Cerrito, Calif., pp. 267-291. 4.1C BSD was the test version immediately preceding 4.2BSD, and is much more closely related to 4.2BSD than to 4.1BSD. Papers appear in the distributed documentation for both System V and 4.2BSD detailing their differences from their predecessors.
+Douglas Comer, Operating system design: the XINU approach, Prentice-Hall, Inc., Upper Saddle River, NJ, 1984
+COMPTON, M., ED. 1985. The evolution of UNIX. UNIX Rev. 3, i (Jan.).
+GOBEL, G. H., A~D MARS~t, M. H. 1981. A dual processor VAX 11/780. Tech Rep. TR-EE 81-31, School of Electrical Engineering, Purdue Univ., West Lafayette, Ind., Sept.
+HOLT, R. C. 1983. Current Euclid, the UNIX System, and Tunis. Addison-Wesley, Reading, Mass.
+ISO 1981. ISO open systems interconnection--Basic reference model. ISO/TC 97/SC 16, 719 (Aug.).
+JOY, W. N. 1980. An introduction to the C shell. UNIX Programmer's Manual, 4.2 Berkeley Software Distribution, Virtual VAX-11 Version, vol. 2C, Computer Systems Research Group, Dept. of Electrical Engineering and Computer Science, Univ. of California, Berkeley, Aug.
+JOY, W. N. 1984. The UNiX system in the laboratory. UNIX/WORLD 1, 4, 34-38.
+JOY, W. N., COOPER, E., FABR~, R., LEFFLER, S., McKuslc~, M. K., ANO MOSnER, D. 1983. 4.2BSD System Manual, revised July, 1983. UNIX Programmer's Manual, 4.2 Berkeley Software Distribution, Virtual VAX-11 Version, vol. 2C, Computer Systems Research Group, Dept. of Electrical Engineering and Computer Science, Univ. of California, Berkeley, Aug. A terse but detailed summary of the facilities provided by 4.2BSD, illustrated mostly by the system calls involved.
+JUNG, R. S., 1985. Porting the AT&T demand paged UNIX implementation to microcomputers. In USENiX Association Conference Proceedings (Portland, Oreg., June 11-14). USENIX Assoc., El Cerrito, Calif., pp. 361-370.
+Brian W. Kernighan , Rob Pike, The  UNIX Programming Environment, Prentice Hall Professional Technical Reference, 1984
+B. W. Kernighan , D. M. Ritchie, The C programming language, Prentice-Hall, Inc., Upper Saddle River, NJ, 1978
+KORN, D. 1983. KSH--A shell programming language. In USENIX Association Conference Proceedings (Toronto, Ontario, June). USENIX Assoc., El Cerrito, Calif., pp. 191-202. The Korn shell, which is said to subsume the good points of both the Bourne shell and the C shell.
+Samuel J. Leffler , Robert S. Fabry , William N. Joy, A 4.2bsd Interprocess Communication Primer, University of California at Berkeley, Berkeley, CA, 1983
+Samuel J. Leffler , William N. Joy , Robert S. Fabry, 4.2bsd Networking Implementation Notes (Revised July, 1983), University of California at Berkeley, Berkeley, CA, 1983
+LEFFLER, S. J., KARELS, M., AND McKuSlCK, M. K. 1984. Measuring and improving the performance of 4.2BSD. In USENIX Association Conference Proceedings (Salt Lake City, Utah, June 12-15). USENIX Assoc., El Cerrito, Calif., pp. 237-252.
+MCGILTON, H., AND MORGAN, R. 1983. Introducing the UNIX System. McGraw-Hill, New York.
+MCILROY, M.D., PI~SO~, E. N., AND TAGUE, B. A. 1978. Forward. Bell Syst. Tech. J. 57, 6, 1899- 1904.
+MCKUSICK, M. K. 1985. A Berkeley odyssey. The names and events shaping 10 years of Berkeley UNIX. UNIX Rev. 3, 1, 30.
+Marshall K. McKusick , William N. Joy , Samuel J. Leffler , Robert S. Fabry, A fast file system for UNIX, ACM Transactions on Computer Systems (TOCS), v.2 n.3, p.181-197, Aug. 1984[doi>10.1145/989.990]
+MCKUSICK, M. K., KARELS, M., AND LEFrLER, S. 1985. Performance improvements amt functional enhancements in 4.3BSD. In USENIX Association Conference Proceedings (Portland, Oreg., June 11-14). USENIX Assoc., El Cerrito, Calif., pp. 519-531.
+MILLER, R. 1984. A demand paging virtual memory manager for System V. In USENIX Association Conference Proceedings (Salt Lake City, Utah, June 12-15). USENIX Assoc., E1 Cerrito, Calif., pp. 178-182.
+MIL-STD. (N.d.). Military Standards for DoD Internet Protocols. Naval Publications and Forms Center, Philadelphia, Pa. The ARPA Internet protocols are defined by the set of military standards IP (MIL-STD-1777), TCP (MIL-STD-1778), FTP (MIL-STD- 1780), SMTP (MIL-STD-1781), and TELNET (MIL-STD-1782). See ARPANET Working Group Requests for Comments. SRI International, Menlo Park, Calif.
+MOHR, A, 1985. The genesis story. Tales of how UNiX took shape as a product. UNIX Rev 3, 1,18.
+MORIN, R. 85. The future of the workstation. UNIX Rev. 3, 1, 52.
+Elliott I. Organick, The multics system: an examination of its structure, MIT Press, Cambridge, MA, 1972
+PADLIPSKY, M. A. 1983. A perspective on the ARPANET reference model. In Proceedings of INFOCOM 82 (Apr.). Also appears as Chapter 5 of Padlipsky, M. A. 1985. The Elements of Network Style. Englewood Cliffs, N. J., and in RCF (N.d.). ARPANET Working Group Requests for Comments, RFC871. SRI International, Menlo Park, Calif.
+Michael A. Padlipsky, Elements of Networking Style, Prentice Hall PTR, Upper Saddle River, NJ, 1984
+PEIRCE, N. 1985. Putting UNIX in perspective: An interview with Victor Vyssotsky. The manager of AT&T's Multics project remembers the way it was. UNIX Rev. 3, 1, 58.
+James L. Peterson , Abraham Silberschatz, Operating system concepts (2nd ed.), Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1985
+PIKE, R., AND KERNI(~HAN, B. W. 1984. Program design in the UNIX environment. A T&T Bell Lab. Tech. J. 63, 8, 1595-1605.
+G. Popek , B. Walker , J. Chow , D. Edwards , C. Kline , G. Rudisin , G. Thiel, LOCUS a network transparent, high reliability distributed system, Proceedings of the eighth ACM symposium on Operating systems principles, p.169-177, December 14-16, 1981, Pacific Grove, California, USA[doi>10.1145/800216.806605]
+RFCS (N.d.). ARPANET Working Group Requests for Comments. SRI International, Network Information Center, Menlo Park, Calif. This series of technical notes includes the specifications for the ARPA Internet protocols IP (RFC-791), ICMP (RFC-792), TCP (RFC-793), UDP (RFC-768), FTP (RFC-765), SMTP (RFC-821), and TEL- NET (RFC-854), plus related papers. All the protocols are indexed in Assigned Numbers (RFC- 943) and Official Protocols (RFC-944). See also Military Standards for DoD Internet Protocols. Naval Publ. Forms Ctr., Philadelphia, Pa.
+RITCHIE, D. M. 1978. A retrospective. Bell Syst. Tech. J. 57, 6, Pt. 2, 1947-1969.
+RITCHIE, D. M. 1979a. Protection of data file contents. United States Pat. no. 4,135,240, United States Patent Office, Washington, D.C., Jan. 16, 1979. Assignee: Bell Telephone Laboratories, Incorporated, Murray Hill, N.J. Appl. No.: 377,591. Filed: Jul. 9, 1973.
+RITCHIE, D. M. 1979b. The UNIX I/O system. UNIX Programmer's Manual, 7th ed., vols. I and 2. Holt, New York.
+RITCHIE, D. M. 1984a. The evolution of the UNIX time-sharing system. A T& T Bell Lab. Tech. J. 63, 8, 1577-1593.
+RITCHIE, D. M. 1984b. Reflections on software research. Reflections on the environment that nurtured the development of UNIX. Ritchie's ACM Turing Award lecture. UNIX Rev. 3, 1, 28.
+Dennis M. Ritchie , Ken Thompson, The UNIX time-sharing system, Communications of the ACM, v.17 n.7, p.365-375, July 1974[doi>10.1145/361011.361061]
+RITCHIE, D. M., JOHNSON, S. C. LESK, M. E., AND KERNIGHAN, B. W. 1978. The C programming language. Bell Syst. Tech. J. 57, 6, 1991-2019.
+ROSLER, L. 1984. The evolution of C-Past and future. A T& T Bell Lab. Tech. J. 63, 8, 1685-1699.
+STROUSTRUP, B. 1984. Data abstraction in C. AT&T Bell Lab. Tech. J. 63, 8, 1701-1732.
+A. S. Tanenbaum, Computer networks, Prentice-Hall, Inc., Upper Saddle River, NJ, 1988
+THOMPSON, K. 1978. UNIX implementation. Bell Syst. Tech. J. 57, 6, Pt, 2. 1931-1946.
+TICHY, W. F., AND RUAN, Z. 1984. Towards a distributed file system. In USENIX Association Conference Proceedings (Salt Lake City, Utah, June 12-15). USENIX Assoc., E1 Cerrito, Calif., pp. 87-97.
+TUTHILL. W. 1985a. The evolution of C: Heresy and prophecy. UNIX Res. 3, 1, 80.
+TUTHILL, W. 1985b. The shell game: A comparison of the C and Bourne shells. UNIX/WORLD 2, 2 (Mar.), 103.
+UPM2C 1983. UNIX Programmer's Manual, 4.2 Berkeley Software Distribution, Virtual VAX-11 Version, vol. 2C, Computer Systems Research Group, Department of Electrical Engineering and Computer Science, University of California, Berkeley, Calif. (Aug.).
+UPMV71983. UNIX Programmer's Manual, 7th ed., vols. i and 2. Holt, New York.
+USENIX 1983. USENIX Association Conference Proceedings (Toronto, Ontario, June). USENIX Assoc., E1 Cerrito, Calif.
+USENIX 1984. USENIX Association Conference Proceedings (Salt Lake City, Utah, June 12-15). USENIX Assoc., E1 Cerrito, Calif.
+USENIX 1985. USENIX Association Conference Proceedings. (Portland, Oreg., June 11-14). USENIX Assoc., El Cerrito, Calif.
+UNIEJEWSKI, J. 1985. UNIX System V and BSD4.2 Compatibility Study. Apollo Computer, Chelmsford, Mass.
+WALSH, D., LYON, R., AND SAGER, G. 1985. Overview of the Sun network file system. In USE- NIX Association Conference Proceedings (Dallas, Tex., Jan. 23-25). USENIX Assoc., E1 Cerrito, Calif., pp. 117-124.
+WEINBERGER, P. J. 1984. The Version 8 network file system, in USENIX Association Conference Proceedings (Salt Lake City, Utah, June 12-15). USENIX Assoc., E1 Cerrito, Calif., p.'86.
+WILSON, O. 1985. The business evolution of the UNIX system. The details of how AT&T organizational changes made UNIX commercially available. UNIX Rev. 3, 1, 46.
