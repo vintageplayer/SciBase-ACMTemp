@@ -1,0 +1,24 @@
+Karl Abrahamson, On achieving consensus using a shared memory, Proceedings of the seventh annual ACM Symposium on Principles of distributed computing, p.291-302, August 15-17, 1988, Toronto, Ontario, Canada[doi>10.1145/62546.62594]
+Yehuda Afek , Hagit Attiya , Danny Dolev , Eli Gafni , Michael Merritt , Nir Shavit, Atomic snapshots of shared memory, Journal of the ACM (JACM), v.40 n.4, p.873-890, Sept. 1993[doi>10.1145/153724.153741]
+Yehuda Afek , Danny Dolev , Eli Gafni , Michael Merritt , Nir Shavit, A bounded first-in, first-enabled solution to thel-exclusion problem, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.3, p.939-953, May 1994[doi>10.1145/177492.177731]
+Hagit Attiya , Arie Fouren, Algorithms adapting to point contention, Journal of the ACM (JACM), v.50 n.4, p.444-468, July 2003[doi>10.1145/792538.792541]
+James E. Burns , Nancy A. Lynch, Bounds on shared memory for mutual exclusion, Information and Computation, v.107 n.2, p.171-184, Dec. 1993[doi>10.1006/inco.1993.1065]
+Danny Dolev , Nir Shavit, Bounded Concurrent Time-Stamping, SIAM Journal on Computing, v.26 n.2, p.418-455, April 1997[doi>10.1137/S0097539790192647]
+Cynthia Dwork , Orli Waarts, Simple and efficient bounded concurrent timestamping and the traceable use abstraction, Journal of the ACM (JACM), v.46 n.5, p.633-666, Sept. 1999[doi>10.1145/324133.324161]
+Ellen, F., Fatourou, P., and Ruppert, E. 2008. The space complexity of unbounded timestamps.Distrib. Comput. 21,2, 103--115.
+Faith Fich , Maurice Herlihy , Nir Shavit, On the space complexity of randomized synchronization, Journal of the ACM (JACM), v.45 n.5, p.843-862, Sept. 1998[doi>10.1145/290179.290183]
+Fidge, C. J. 1988. Timestamps in message-passing systems that preserve the partial ordering. InProceedings of the 11th Australian Computer Science Conference (ACSC’88). 56--66.
+Michael J. Fischer , Nancy A. Lynch , James E. Burns , Allan Borodin, Distributed FIFO allocation of identical resources using small shared space, ACM Transactions on Programming Languages and Systems (TOPLAS), v.11 n.1, p.90-114, Jan. 1989[doi>10.1145/59287.59292]
+Rainer Gawlick , Nancy Lynch , Nir Shavit, Concurrent timestamping made simple, Symposium proceedings on Theory of computing and systems, p.171-183, June 1992, Haifa, Israel
+Guerraoui, R. and Ruppert, E. 2007. Anonymous and fault-tolerant shared-memory computing.Distrib. Comput. 20, 3, 165--177.
+Sibsankar Haldar , Paul Vitányi, Bounded concurrent timestamp systems using vector clocks, Journal of the ACM (JACM), v.49 n.1, p.101-126, January 2002[doi>10.1145/505241.505246]
+Amos Israeli , Ming Li, Bounded time-stamps, Distributed Computing, v.6 n.4, p.205-209, July 1993[doi>10.1007/BF02242708]
+Amos Israeli , Meir Pinhasov, A Concurrent Time-Stamp Scheme which is Linear in Time and Space, Proceedings of the 6th International Workshop on Distributed Algorithms, p.95-109, November 02-04, 1992
+Leslie Lamport, A new solution of Dijkstra's concurrent programming problem, Communications of the ACM, v.17 n.8, p.453-455, Aug. 1974[doi>10.1145/361082.361093]
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+Ming Li , John Tromp , Paul M. B. Vitányi, How to share concurrent wait-free variables, Journal of the ACM (JACM), v.43 n.4, p.723-746, July 1996[doi>10.1145/234533.234556]
+Mattern, F. 1989. Virtual time and global states of distributed systems. InProceedings of the Workshop on Parallel and Distributed Algorithms. 215--226.
+Glenn Ricart , Ashok K. Agrawala, An optimal algorithm for mutual exclusion in computer networks, Communications of the ACM, v.24 n.1, p.9-17, Jan. 1981[doi>10.1145/358527.358537]
+Sunil K. Sarin , Nancy A. Lynch, Discarding Obsolete Information in a Replicated Database System, IEEE Transactions on Software Engineering, v.13 n.1, p.39-47, January 1987[doi>10.1109/TSE.1987.232564]
+Paul M.  B. Vitanyi , Baruch Awerbuch, Atomic shared register access by asynchronous hardware, Proceedings of the 27th Annual Symposium on Foundations of Computer Science, p.233-243, October 27-29, 1986[doi>10.1109/SFCS.1986.11]
+Gene T J Wuu , Arthur J Bernstein, Efficient solutions to the replicated log and dictionary problems, ACM SIGOPS Operating Systems Review, v.20 n.1, p.57-66, Jan. 1986[doi>10.1145/12485.12491]

@@ -1,0 +1,22 @@
+KROGH, :FRED T. VODQ/SVDQ/DVDQ--Variable order integrators for the numerical solution of ordinary differential equations. Section 314 subroutine write-up, Jet Propulsion Laboratory, Pasadena, Calif., May 1969.
+KROGH, FRED W. A variable step variable order multistep method for the numerical solution of ordinary differential equations. Information Processing 68, Proc. IFIP Congress 1968, North- Holland, Amsterdam, 1969, pp. 194-199.
+FEHLBERG, ERW~N. New one-step integration methods of high-order accuracy applied to some problems in celestial mechanics. NASA TR R-248, NASA Tech. Rep., Oct. 1966.
+BULIRSCH, ROLAND, AND STOER, JOSEF. Numerical treatment of ordinary differential equations by extrapolation methods. Numer. Math. 8 (1966), 1-13.
+Fred T. Krogh, Predictor-Corrector Methods of High Order With Improved Stability Characteristics, Journal of the ACM (JACM), v.13 n.3, p.374-385, July 1966[doi>10.1145/321341.321347]
+CLARK, NANCY W. A study of some numerical methods for the integration of systems of firstorder ordinary differential equations. Rep. % ANL-7428, Argonne National Laboratory, Argonne, Ill., March 1968.
+J. J. Kohfeld , G. T. Thompson, A Modification of Nordsieck's Method Using an ``Off-Step'' Point, Journal of the ACM (JACM), v.15 n.3, p.390-401, July 1968[doi>10.1145/321466.321471]
+RATLIFF, K. A Comparison of Techniques for the Numerical Integration of Ordinary Differential Equations. Rep. ~274, Dep. of Computer Science, University of Illinois, Urbana, Ill., July 1968.
+GEAR, C.W. The automatic integration of stiff ordinary differential equations, information Processing 68, Proc. IFIP Congress 1968, North-Holland, Amsterdam, 1969, pp. 187-193.
+BROOKS, JOHN D., AND POPE, DAVID A. Asymptotic error estimates and the numerical solution of the equations of orbital motion. SIAM J. Numer. Anal. ~ (1967), 446-456.
+DEVINE, C. J. Accuracy studies of a second-sum Adams-type predictor-corrector numerical integrator. JPL Space Programs Summary No. 37-22, Vol. IV, 1965, pp. 3-10.
+DEVINE, C.J. Numerical integration over a family of ellipses using a second-sum multi-step integrator employing high-order backward differences, jPL Space Programs Summary No. 37-33, Vol. IV, 1965, pp. 11-15.
+GALLAHER, LAWRENCE J., AND PERLIN, IRWIN E. A comparison of several methods of numerical integration of nonlinear differential equations. Rich Electronic Computer Center, Georgia institute of Technology, Atlanta, Georgia (presented at the SIAM National Meeting, March 1966).
+KELLER, H. B. Numerical Methods for Two-Point Boundary Value Problems. Blaisdell, Waltham, Mass., 1968.
+OSBORNE, M.R. On shooting methods for boundary value problems. J. Math. Analysis and Applications 27 (1969), 417-433.
+CaANE, P. C., AND Fox, P. A. A comparative study of computer programs for integrating differential equations. Bell Telephone Laboratories Numerical Mathematics Computer Programs, Library One-Basic Routines for General Use, Vol. 2, Issue 2, 1969.
+HANSON, RICHARD J., AND LAWSON, CHARLI';S L. Extensions and applications of the Householder algorithm for solving linear least squares problems. Math. Comput. 25 (1969), 787-812.
+Phyllis Fox, A comparative study of computer programs for integrating differential equations, Communications of the ACM, v.15 n.11, p.941-948, Nov. 1972[doi>10.1145/355606.361868]
+HULL, W. E., ENRIGHT, W. H., FELLEN, B. M., AND SEDGWICK, A. E. Comparing numerical methods for ordinary differential equations. SIAM J. Numer. Anal. 9 (1972), 603-637. (This paper includes our program {1} in comparisons which are made.)
+Fred T. Krogh, Opinions on matters connected with the evaluation of programs and methods for integrating ordinary differential equations, ACM SIGNUM Newsletter, v.7 n.3, p.27-48, October 1972[doi>10.1145/1052668.1052675]
+KROG~, FRED T. Algorithms for changing the stepsize used by a multistep method. SIAM J. Numer. Anal. 10 (1973) (to appear). (Gives method used by {1} for changing the stepsize.)
+KROGH, FRED T. Changing stepsize in the integration of differential equations using modified divided differences. To appear in the proceedings of the SIAM/AAS conference " Numerical Solution of Ordinary Differential Equations," to be published by Springer-~erlag in their series "Lecture Notes in Mathematics." (Gives some of the details of the order selection and the stepsize selection processes used in {1}.)

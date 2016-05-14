@@ -1,0 +1,32 @@
+B. Barak (Machtey Award Co-winner), How to Go Beyond the Black-Box Simulation Barrier, Proceedings of the 42nd IEEE symposium on Foundations of Computer Science, p.106, October 14-17, 2001
+Barak, B., Lindell, Y., and Rabin, T. 2004. A note on secure protocol initialization and setup in concurrent settings. Cryptology ePrint Archive, Report 2004/006.
+Beaver, D. 1991. Secure multi-party protocols and zero-knowledge proof systems tolerating a faulty minority. J. Crypt. 4, 2, 75--122.
+Michael Ben-Or , Shafi Goldwasser , Avi Wigderson, Completeness theorems for non-cryptographic fault-tolerant distributed computation, Proceedings of the twentieth annual ACM symposium on Theory of computing, p.1-10, May 02-04, 1988, Chicago, Illinois, USA[doi>10.1145/62212.62213]
+Canetti, R. 2000. Security and composition of multiparty cryptographic protocols. J. Crypt. 13, 1, 143--202.
+R. Canetti, Universally Composable Security: A New Paradigm for Cryptographic Protocols, Proceedings of the 42nd IEEE symposium on Foundations of Computer Science, p.136, October 14-17, 2001
+Ran Canetti , Joe Kilian , Erez Petrank , Alon Rosen, Black-box concurrent zero-knowledge requires \tilde {Ω} (logn) rounds, Proceedings of the thirty-third annual ACM symposium on Theory of computing, p.570-579, July 2001, Hersonissos, Greece[doi>10.1145/380752.380852]
+Canetti, R. and Rabin, T. 2003. Universal composition with joint state. In Proceedings of CRYPTO 2003. Lecture Notes in Computer Science, vol. 2729. Springer Verlag, New York, pp. 265--281.
+David Chaum , Claude Crépeau , Ivan Damgard, Multiparty unconditionally secure protocols, Proceedings of the twentieth annual ACM symposium on Theory of computing, p.11-19, May 02-04, 1988, Chicago, Illinois, USA[doi>10.1145/62212.62214]
+Considine, J., Fitzi, M., Franklin, M., Levin, L. A., Maurer, U., and Metcalf, D. 2005. Byzantine agreement given partial broadcast. J. Crypt. 18, 3, 191--217.
+Dodis, Y., and Micali, S. 2000. Parallel reducibility for information-theoretically secure computation. In Proceedings of CRYPTO'00. Lecture Notes in Computer Science, vol. 1880. Springer-Verlag, New York, pp. 74--92.
+Cynthia Dwork , Moni Naor , Amit Sahai, Concurrent zero-knowledge, Proceedings of the thirtieth annual ACM symposium on Theory of computing, p.409-418, May 24-26, 1998, Dallas, Texas, USA[doi>10.1145/276698.276853]
+Dolev, D., and Strong, H. R. 1983. Authenticated algorithms for byzantine agreement. SIAM J. Comput. 12, 4, 656--665.
+Michael J. Fischer , Nancy A. Lynch , Michael Merritt, Easy impossibility proofs for distributed consensus problems, Distributed Computing, v.1 n.1, p.26-39, Jan. 1986[doi>10.1007/BF01843568]
+Matthias Fitzi , Nicolas Gisin , Ueli M. Maurer , Oliver von Rotz, Unconditional Byzantine Agreement and Multi-party Computation Secure against Dishonest Minorities from Scratch, Proceedings of the International Conference on the Theory and Applications of Cryptographic Techniques: Advances in Cryptology, p.482-501, May 02, 2002
+Matthias Fitzi , Daniel Gottesman , Martin Hirt , Thomas Holenstein , Adam Smith, Detectable byzantine agreement secure against faulty majorities, Proceedings of the twenty-first annual symposium on Principles of distributed computing, July 21-24, 2002, Monterey, California[doi>10.1145/571825.571841]
+Mattias Fitzi , Ueli Maurer, From partial consistency to global broadcast, Proceedings of the thirty-second annual ACM symposium on Theory of computing, p.494-503, May 21-23, 2000, Portland, Oregon, USA[doi>10.1145/335305.335363]
+J. A. Garay , P. MacKenzie, Concurrent oblivious transfer, Proceedings of the 41st Annual Symposium on Foundations of Computer Science, p.314, November 12-14, 2000
+Oded Goldreich, Concurrent zero-knowledge with timing, revisited, Proceedings of the thiry-fourth annual ACM symposium on Theory of computing, May 19-21, 2002, Montreal, Quebec, Canada[doi>10.1145/509907.509959]
+Oded Goldreich, Cryptography and cryptographic protocols, Distributed Computing, v.16 n.2-3, p.177-199, September 2003[doi>10.1007/s00446-002-0077-1]
+Oded Goldreich, Foundations of Cryptography: Volume 2, Basic Applications, Cambridge University Press, New York, NY, 2004
+Oded Goldreich , Hugo Krawczyk, On the Composition of Zero-Knowledge Proof Systems, SIAM Journal on Computing, v.25 n.1, p.169-192, Feb. 1996[doi>10.1137/S0097539791220688]
+O. Goldreich , S. Micali , A. Wigderson, How to play ANY mental game, Proceedings of the nineteenth annual ACM symposium on Theory of computing, p.218-229, January 1987, New York, New York, USA[doi>10.1145/28395.28420]
+Goldwasser, S., and Lindell, Y. 2005. Secure computation without agreement. J. Crypt. 18, 3, 247--287.
+Shafi Goldwasser , Silvio Micali , Ronald L. Rivest, A digital signature scheme secure against adaptive chosen-message attacks, SIAM Journal on Computing, v.17 n.2, p.281-308, April 1988[doi>10.1137/0217017]
+Gong, L., Lincoln, P., and Rushby, J. 1995. Byzantine agreement with authentication: Observations and applications in tolerating hybrid and link faults. In Dependable Computing for Critical Applications, pp. 139--157.
+Leslie Lamport , Robert Shostak , Marshall Pease, The Byzantine Generals Problem, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.3, p.382-401, July 1982[doi>10.1145/357172.357176]
+Silvio Micali , Phillip Rogaway, Secure Computation (Abstract), Proceedings of the 11th Annual International Cryptology Conference on Advances in Cryptology, p.392-404, August 11-15, 1991
+M. Pease , R. Shostak , L. Lamport, Reaching Agreement in the Presence of Faults, Journal of the ACM (JACM), v.27 n.2, p.228-234, April 1980[doi>10.1145/322186.322188]
+Pfitzmann, B., and Waidner, M. 1996. Information-theoretic pseudosignatures and Byzantine agreement for t ≥ n/3. Tech. Rep. RZ 2882 (&num;90830). IBM Research.
+Ransom Richardson , Joe Kilian, On the concurrent composition of zero-knowledge proofs, Proceedings of the 17th international conference on Theory and application of cryptographic techniques, May 02-06, 1999, Prague, Czech Republic
+R. L. Rivest , A. Shamir , L. Adleman, A method for obtaining digital signatures and public-key cryptosystems, Communications of the ACM, v.21 n.2, p.120-126, Feb. 1978[doi>10.1145/359340.359342]

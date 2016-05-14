@@ -1,0 +1,1 @@
+An assertion that Dijkstra's algorithm for shortest paths (adapted to allow arcs of negative weight) runs inO(n3) steps is disproved by showing a set of networks which takeO(n2n) steps.

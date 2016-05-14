@@ -1,0 +1,45 @@
+ADEL'SON-VEL'SKI, G. M., DINIC, E. A., AND KARZANOV, A. V. 1975. Flow Algorithms. Nauka, Moscow, CIS (in Russian).
+AHUJA, R. K., AND ORLIN, J.B. 1989. A fast and simple algorithm for the maximum flow problem. Oper. Res. 37, 748-759.
+R. K. Ahuja , J. B. Orlin , R. E. Tarjan, Improved time bounds for the maximum flow problem, SIAM Journal on Computing, v.18 n.5, p.939-954, Oct. 1989[doi>10.1137/0218065]
+N. Alon, Generating pseudo-random permutations and maximum flow algorithms, Information Processing Letters, v.35 n.4, p.201-204, Aug. 1990[doi>10.1016/0020-0190(90)90024-R]
+ANDERSON, R. J., AND SETUBAL, J. C. 1993. Goldberg's algorithm for the maximum flow in perspective: A computational study. In Network Flows and Matching: First DIMACS Implementation Challenge, D. S. Johnson and C. C. McGeoch, eds. American Mathematics Society, Providence, R.I., pp. 1-18.
+András A. Benczúr , David R. Karger, Approximatings-tminimum cuts inÕ(n2) time, Proceedings of the twenty-eighth annual ACM symposium on Theory of computing, p.47-55, May 22-24, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/237814.237827]
+Joseph Cheriyan , Torben Hagerup , Kurt Mehlhorn, An o(n^3)-Time Algorithm Maximun-Flow Algorithm, SIAM Journal on Computing, v.25 n.6, p.1144-1170, Dec. 1996[doi>10.1137/S0097539791278376]
+CHERKASSKY, R.V. 1977. Algorithm for construction of maximal flows in networks with complex-ity of O(V2 X/-E) operations. Math. Meth. Sol. Economic. Prob. 7, 112-125 (in Russian).
+Boris V. Cherkassy , Andrew V. Goldberg, On Implementing Push-Relabel Method for the Maximum Flow Problem, Proceedings of the 4th International IPCO Conference on Integer Programming and Combinatorial Optimization, p.157-171, May 29-31, 1995
+DANTZIG, G.B. 1951. Application of the simplex method to a transportation problem. In Activity Analysis and Production and Allocation. Wiley, New York, pp. 359-373.
+DERIGS, U., AND MEIER, W. 1989. Implementing Goldberg's Max-Flow algorithm--A computational investigation. ZOR-Meth. Mod. Oper. Res. 33, 383-403.
+Robert B. Dial, Algorithm 360: shortest-path forest with topological ordering [H], Communications of the ACM, v.12 n.11, p.632-633, Nov. 1969[doi>10.1145/363269.363610]
+DINIC, E.A. 1970. Algorithm for solution of a problem of maximum flow in networks with power estimation. Soviet Math. Dokl. 11, 1277-1280.
+DINIC, E. A. 1973. Metod porazryadnogo sokrashcheniya nevyazok i transportnye zadachi. In Issledovaniya po Diskretnoi Matematike. Nauka, Moskva, CIS (in Russian; Title translation: Excess Scaling and Transportation Problems), pp. 46-57.
+Jack Edmonds , Richard M. Karp, Theoretical Improvements in Algorithmic Efficiency for Network Flow Problems, Journal of the ACM (JACM), v.19 n.2, p.248-264, April 1972[doi>10.1145/321694.321699]
+EVEN, S., AND TARJAN, R.E. 1975. Network flow and testing graph connectivity. SIAM J. Comput. 4, 507-518.
+FORD, JR., L. R., AND FULKERSON, D.R. 1956. Maximal flow through a network. Canad. J. Math. 8, 399 - 404.
+FORD, JR., L. R., AND FULKERSON, D. R. 1962. Flows in Networks. Princeton Univ. Press, Princeton, N.J.
+Harold N. Gabow, Scaling algorithms for network problems, Journal of Computer and System Sciences, v.31 n.2, p.148-168, Sept. 1985[doi>10.1016/0022-0000(85)90039-X]
+GALIL, Z., AND NAAMAD, A. 1980. An O(EV log2V) algorithm for the maximal flow problem. J. Comput. Syst. Sci. 21, 203-217.
+G. Gallo , M. D. Grigoriadis , R. E. Tarjan, A fast parametric maximum flow algorithm and applications, SIAM Journal on Computing, v.18 n.1, p.30-55, Feb. 1989[doi>10.1137/0218003]
+GOLDBERG, A.V. 1985. A new Max-Flow algorithm. Tech Rep. MIT/LCS/TM-291. Laboratory for Computer Science, MIT, Cambridge, Mass.
+A. V. Goldberg, EFFICIENT GRAPH ALGORITHMS FOR SEQUENTIAL AND PARALLEL COMPUTERS, Massachusetts Institute of Technology, Cambridge, MA, 1987
+A. V. Goldberg , S. Rao, Flows in undirected unit capacity networks, Proceedings of the 38th Annual Symposium on Foundations of Computer Science, p.32, October 19-22, 1997
+Andrew V. Goldberg , Robert E. Tarjan, A new approach to the maximum-flow problem, Journal of the ACM (JACM), v.35 n.4, p.921-940, Oct. 1988[doi>10.1145/48014.61051]
+Andrew V. Goldberg , Robert E. Tarjan, Finding minimum-cost circulations by successive approximation, Mathematics of Operations Research, v.15 n.3, p.430-466, Aug. 1990[doi>10.1287/moor.15.3.430]
+GOMORY, R. E., AND HU, T.C. 1961. Multi-terminal network flows. J. SIAM 9, 551-570.
+Dan Gusfield, Very simple methods for all pairs network flow analysis, SIAM Journal on Computing, v.19 n.1, p.143-155, Feb. 1990[doi>10.1137/0219009]
+David R. Karger, Using random sampling to find maximum flows in uncapacitated undirected graphs, Proceedings of the twenty-ninth annual ACM symposium on Theory of computing, p.240-249, May 04-06, 1997, El Paso, Texas, USA[doi>10.1145/258533.258596]
+KARZANOV, A. V. 1973. O nakhozhdenii maksimal'nogo potoka v setyakh spetsial'nogo vida i nekotorykh prilozheniyakh. In Matematicheskie Voprosy Upravleniya Proizvodstvom, vol. 5. Moscow State University Press, Moscow, CIS (in Russian; title translation: On finding maximum flows in networks with special structure and some applications).
+KARZANOV, A.V. 1974. Determining the maximal flow in a network by the method of preflows. Soviet Math. Dokl. 15, 434-437.
+V. King , S. Rao , R. Tarjan, A faster deterministic maximum flow algorithm, Proceedings of the third annual ACM-SIAM symposium on Discrete algorithms, p.157-164, September 1992, Orlando, Florida, USA
+V. King , S. Rao , R. Tarjan, A faster deterministic maximum flow algorithm, Journal of Algorithms, v.17 n.3, p.447-474, Nov. 1994[doi>10.1006/jagm.1994.1044]
+KNUTH, D.E. 1974. Wheels within wheels. J. Combinat. Theory 16, 42-46.
+MIDDLETON, A. A. 1995. Numerical results for the ground-state interface in random medium. Phys. Rev. E 52, R3337-R3340.
+NGUYEN, Q. C., AND VENKATESWARAN, V. 1993. Implementations of Goldberg-Tarjan maximum flow algorithm. In Network Flows and Matching: First DIMACS Implementation Challenge. D. S. Johnson and C. C. McGeoch, eds. American Mathematical Society, Providence, R.I., pp. 19-42.
+OGmLSKI, A.T. 1986. Integer optimization and zero-temperature fixed point in Ising random-field systems. Phys. Rev. Lett. 57, 1251-1254.
+Steven Phillips , Jeffery Westbrook, Online load balancing and network flow, Proceedings of the twenty-fifth annual ACM symposium on Theory of computing, p.402-411, May 16-18, 1993, San Diego, California, USA[doi>10.1145/167088.167201]
+Sébastien Roy , Ingemar J. Cox, A Maximum-Flow Formulation of the N-Camera Stereo Correspondence Problem, Proceedings of the Sixth International Conference on Computer Vision, p.492, January 04-07, 1998
+Daniel D. Sleator , Robert Endre Tarjan, A data structure for dynamic trees, Journal of Computer and System Sciences, v.26 n.3, p.362-391, June 1983[doi>10.1016/0022-0000(83)90006-5]
+Robert Endre Tarjan, Efficiency of a Good But Not Linear Set Union Algorithm, Journal of the ACM (JACM), v.22 n.2, p.215-225, April 1975[doi>10.1145/321879.321884]
+Robert Endre Tarjan, Data structures and network algorithms, Society for Industrial and Applied Mathematics, Philadelphia, PA, 1983
+Uzi Vishkin, A parallel blocking flow algorithm for acyclic networks, Journal of Algorithms, v.13 n.3, p.489-501, Sept. 1992[doi>10.1016/0196-6774(92)90051-D]
+WALLACHER, C. 1991. A generalization of the minimum-mean cycle selection rule in cycle canceling algorithms. Tech. Rep. Preprints in Optimization, Institute fiir Angewandte Mathemtik, Technische Universitat Braunschweig, Germany.
+WALLACHER, C., AND ZIMMERMAN, U. 1991. A combinatorial interior point method for network flow problems. Tech Rep. Preprints in Optimization, Institute for Angewandte Mathemtik, Technische Universitat Braunschweig, Germany.

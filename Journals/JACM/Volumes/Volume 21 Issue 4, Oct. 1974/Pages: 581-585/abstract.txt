@@ -1,0 +1,1 @@
+An algorithm combining Gaussian elimination with the modified Gram-Schmidt (MGS) procedure is given for solving the linear least squares problem. The method is based on the operational efficiency of Gaussian elimination forLUdecompositions and the numerical stability of MGS for unitary decompositions and is designed for slightly overdetermined linear systems.

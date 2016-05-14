@@ -1,0 +1,85 @@
+Žark Cvetanovic, Performance analysis of the FFT algorithm on a shared-memory parallel architecture, IBM Journal of Research and Development, v.31 n.4, p.435-451, July 1, 1987
+Marshall C. Pease, Organization of Large Scale Fourier Processors, Journal of the ACM (JACM), v.16 n.3, p.474-482, July 1969
+Chuan-Lin Wu , Tse-Yun Feng, The Universality of the Shuffle-Exchange Network, IEEE Transactions on Computers, v.30 n.5, p.324-332, May 1981
+R. O. Berg , L. L. Kinney, Serial Adders with Overflow Correction, IEEE Transactions on Computers, v.20 n.6, p.668-671, June 1971
+Peter A. Milder , Mohammad Ahmad , James C. Hoe , Markus Püschel, Fast and accurate resource estimation of automatically generated custom DFT IP cores, Proceedings of the 2006 ACM/SIGDA 14th international symposium on Field programmable gate arrays, February 22-24, 2006, Monterey, California, USA
+Shi-Kuo Chang, On the parallel computation of local operations, Proceedings of the third annual ACM symposium on Theory of computing, p.101-115, May 03-05, 1971, Shaker Heights, Ohio, United States
+Kuang-Cheng Ting , Chuan-Lin Wu, A versatile VLSI fast Fourier transform processor, Proceedings of the July 9-12, 1984, national computer conference and exposition, July 09-12, 1984, Las Vegas, Nevada
+C. Lu , M. An , Z. Qian , R. Tolimieri, A hybrid parallel M-D FFT algorithm without interprocessor communication, Proceedings of the 1993 IEEE international conference on Acoustics, speech, and signal processing: digital speech processing, April 27-30, 1993, Minneapolis, Minnesota, USA
+F. Argüello , J. D. Bruguera , R. Doallo , E. L. Zapata, Parallel Architecture for Fast Transforms with Trigonometric Kernel, IEEE Transactions on Parallel and Distributed Systems, v.5 n.10, p.1091-1099, October 1994
+H. S. Stone, Parallel Processing with the Perfect Shuffle, IEEE Transactions on Computers, v.20 n.2, p.153-161, February 1971
+Tse-Yun Feng, Data Manipulating Functions in Parallel Processors and Their Implementations, IEEE Transactions on Computers, v.23 n.3, p.309-318, March 1974
+Timothy G. Mattson , Rob Van der Wijngaart , Michael Frumkin, Programming the Intel 80-core network-on-a-chip terascale processor, Proceedings of the 2008 ACM/IEEE conference on Supercomputing, November 15-21, 2008, Austin, Texas
+Marc Davio, Kronecker products and shuffle algebra, IEEE Transactions on Computers, v.30 n.2, p.116-125, February 1981
+H. C. Andrews , J. Kane, Kronecker Matrices, Computer Implementation, and Generalized Spectra, Journal of the ACM (JACM), v.17 n.2, p.260-268, April 1970
+Joyce Kwong , Manish Goel, A high performance split-radix FFT with constant geometry architecture, Proceedings of the Conference on Design, Automation and Test in Europe, March 12-16, 2012, Dresden, Germany
+G. Bongiovanni, A VLSI Network for Variable Size FFT's, IEEE Transactions on Computers, v.32 n.8, p.756-760, August 1983
+S. R. Ahuja , J. R. Jump, A modular memory scheme for array processing, ACM SIGARCH Computer Architecture News, v.5 n.7, p.90-94, March 1977
+Žarka Cvetanovic, Best worst mappings for the omega network, IBM Journal of Research and Development, v.31 n.4, p.452-463, July 1, 1987
+D. A. Carlson , J. M. Conroy, The fast fourier transform and sparse matrix computations: a study of two applications on teh HORIZON supercomputer, Proceedings of the 1988 ACM/IEEE conference on Supercomputing, p.55-58, November 12-17, 1988, Orlando, Florida, United States
+M. J. Corinthios, The Design of a Class of Fast Fourier Transform Computers, IEEE Transactions on Computers, v.20 n.6, p.617-623, June 1971
+J. A. Glassman, A Generalization of the Fast Fourier Transform, IEEE Transactions on Computers, v.19 n.2, p.105-116, February 1970
+F. Argüello , E. L. Zapata, Constant geometry split-radix algorithms, Journal of VLSI Signal Processing Systems, v.10 n.2, p.141-152, July 1995
+Tomas Lang , Harold S. Stone, A Shuffle-Exchange Network with Simplified Control, IEEE Transactions on Computers, v.25 n.1, p.55-65, January 1976
+J. Lobeiras , M. Amor , R. Doallo, Influence of memory access patterns to small-scale FFT performance, The Journal of Supercomputing, v.64 n.1, p.120-131, April     2013
+D. S. , Jr. Parker, Notes on Shuffle/Exchange-Type Switching Networks, IEEE Transactions on Computers, v.29 n.3, p.213-222, March 1980
+C. D. Thompson, Area-time complexity for VLSI, Proceedings of the eleventh annual ACM symposium on Theory of computing, p.81-88, April 30-May 02, 1979, Atlanta, Georgia, United States
+María Teresa Signes Pont , Juan Manuel García Chamizo , Higinio Mora Mora , Gregorio de Miguel Casado, Calculation scheme based on a weighted primitive: application to image processing transforms, EURASIP Journal on Applied Signal Processing, v.2007 n.1, p.130-130, 1 January 2007
+R. C. Covington , S. Madala , V. Mehta , J. R. Jump , J. B. Sinclair, The rice parallel processing testbed, ACM SIGMETRICS Performance Evaluation Review, v.16 n.1, p.4-11, May 1988
+Peter A. Milder , Franz Franchetti , James C. Hoe , Markus Püschel, Formal datapath representation and manipulation for implementing DSP transforms, Proceedings of the 45th annual Design Automation Conference, June 08-13, 2008, Anaheim, California
+G. Miel, Constant Geometry Fast Fourier Transforms on Array Processors, IEEE Transactions on Computers, v.42 n.3, p.371-375, March 1993
+Akira Nukada , Daisuke Takahashi , Reiji Suda , Akira Nishida, High performance FFT on SGI Altix 3700, Proceedings of the Third international conference on High Performance Computing and Communications, September 26-28, 2007, Houston, TX
+Shi-Kuo Chang, The Computation of Window Operations on a Parallel Organized Computer A Case Study, IEEE Transactions on Computers, v.22 n.1, p.34-40, January 1973
+S. E. Orcutt, Implementation of Permutation Functions in Illiac IV-Type Computers, IEEE Transactions on Computers, v.25 n.9, p.929-936, September 1976
+D. K. Pradhan , K. L. Kodandapani, A Uniform Representation of Single-and Multistage Interconnection Networks Used in SIMD Machines, IEEE Transactions on Computers, v.29 n.9, p.777-791, September 1980
+D. J. Shakshober, Parallel algorithms for super performance, Proceedings of the 1989 ACM/IEEE conference on Supercomputing, p.380-388, November 12-17, 1989, Reno, Nevada, United States
+T. Lang, Interconnections Between Processors and Memory Modules Using the Shuffle-Exchange Network, IEEE Transactions on Computers, v.25 n.5, p.496-503, May 1976
+Shing-Tsaan Huang , Satish K. Tripathi, Finite State Model and Compatibility Theory: New Analysis Tools for Permutation Networks, IEEE Transactions on Computers, v.35 n.7, p.591-601, July 1986
+Pere Marti-Puig , Ramon Reig Bolaño, Radix-4 FFT algorithms with ordered input and output data, Proceedings of the 16th international conference on Digital Signal Processing, p.892-897, July 05-07, 2009, Santorini, Greece
+G. Bongiovanni, Two VLSI Structures for the Discrete Fourier Transform, IEEE Transactions on Computers, v.32 n.8, p.750-754, August 1983
+Mehrad Yasrebi , G. J. Lipovski, A state-of-the-art SIMD two-dimensional FFT array processor, ACM SIGARCH Computer Architecture News, v.12 n.3, p.21-27, June 1984
+William H. Kautz, An Augmented Content-Addressed Memory Array for Implementation With Large-Scale Integration, Journal of the ACM (JACM), v.18 n.1, p.19-33, Jan. 1971
+G. Robert Redinbo, Concurrent Error Detection in Fast Unitary Transform Algorithms, Proceedings of the 2001 International Conference on Dependable Systems and Networks (formerly: FTCS), p.37-46, July 01-04, 2001
+Paul N. Swarztrauber, FFT algorithms for vector computers, Parallel Computing, v.1 n.1, p.45-63, August, 1984
+Marcela Zuluaga , Peter Milder , Markus Püschel, Computer generation of streaming sorting networks, Proceedings of the 49th Annual Design Automation Conference, June 03-07, 2012, San Francisco, California
+Juan López , Emilio L. Zapata, Unified Architecture for Divide and Conquer Based Tridiagonal System Solvers, IEEE Transactions on Computers, v.43 n.12, p.1413-1425, December 1994
+Josef G. Krammer, A sorter-based architecture for a parallel implementation of communication intensive algorithms, Journal of VLSI Signal Processing Systems, v.3 n.1-2, p.93-103, June 1991
+M. C. , III Pease, The Indirect Binary n-Cube Microprocessor Array, IEEE Transactions on Computers, v.26 n.5, p.458-473, May 1977
+Ramesh C Agarwal , James W Cooley, Fourier transform and convolution subroutines for the IBM 3090 Vector facility, IBM Journal of Research and Development, v.30 n.2, p.145-162, March 1986
+Dorothy Bollman , Jaime Seguel , John Feo, A functional approach to radix-rFFTS, Progress in computer research, Nova Science Publishers, Inc., Commack, NY, 2001
+Dorothy Bollman , Jaime Seguel , John Feo, A functional approach to radix-rFFTS, Progress in computer research, Nova Science Publishers, Inc., Commack, NY, 2001
+Chris Basoglu , Woobin Lee , Yongmin Kim, An Efficient FFT Algorithm for Superscalar and VLIW Processor Architectures, Real-Time Imaging, v.3 n.6, p.441-453, Dec. 1997
+A. Norton , A. J. Silberger, Parallelization and Performance Analysis of the Cooley-Tukey FFT Algorithm for Shared-Memory Architectures, IEEE Transactions on Computers, v.36 n.5, p.581-591, May 1987
+Daisuke Takahashi, A parallel 1-D FFT algorithm for the Hitachi SR8000, Parallel Computing, v.29 n.6, p.679-690, June 2003
+Ainhoa Cortés , Igone Vélez , Juan F. Sevillano, Radix rkFFTs: matricial representation and SDC/SDF pipeline implementation, IEEE Transactions on Signal Processing, v.57 n.7, p.2824-2839, July 2009
+G. F. Taylor , R. H. Steinvorth , J. F. McDonald, An Architecture for a Video Rate Two-Dimensional Fast Fourier Transform Processor, IEEE Transactions on Computers, v.37 n.9, p.1145-1148, September 1988
+Franco P. Preparata , Jean Vuillemin, The cube-connected cycles: a versatile network for parallel computation, Communications of the ACM, v.24 n.5, p.300-309, May 1981
+M. Sanchez , J. Lopez , O. Plata , E. L. Zapata, An efficient architecture for the in place fast cosine transform, Proceedings of the IEEE International Conference on Application-Specific Systems, Architectures and Processors, p.499, July 14-16, 1997
+Jost Berthold , Mischa Dieterle , Oleg Lobachev , Rita Loogen, Parallel FFT with Eden Skeletons, Proceedings of the 10th International Conference on Parallel Computing Technologies, August 31-September 04, 2009, Novosibirsk, Russia
+M. Hasegawa , Y. Shigei, AT2= O(N log4N), T = O(log N) fast Fourier transform in a light connected 3-dimensional VLSI, ACM SIGARCH Computer Architecture News, v.14 n.2, p.252-260, May 1986
+K. Padmanabhan, Design and Analysis of Even-Sized Binary Shuffle-Exchange Networks for Multiprocessors, IEEE Transactions on Parallel and Distributed Systems, v.2 n.4, p.385-397, October 1991
+D. H. Lawrie, Access and Alignment of Data in an Array Processor, IEEE Transactions on Computers, v.24 n.12, p.1145-1155, December 1975
+Michael J. Flynn, Some computer organizations and their effectiveness, IEEE Transactions on Computers, v.21 n.9, p.948-960, September 1972
+Parimala Thulasiraman , Kevin B. Theobald , Ashfaq A. Khokhar , Guang R. Gao, Multithreaded algorithms for the fast Fourier transform, Proceedings of the twelfth annual ACM symposium on Parallel algorithms and architectures, p.176-185, July 09-13, 2000, Bar Harbor, Maine, USA
+R. W. Johnson , C.-H. Huang , J. R. Johnson, Multilinear algebra and parallel programming, Proceedings of the 1990 conference on Supercomputing, p.20-31, October 1990, New York, New York, United States
+D. J. Kuck , R. A. Stokes, The Burroughs Scientific Processor (BSP), IEEE Transactions on Computers, v.31 n.5, p.363-376, May 1982
+J. P. Fishburn , R. A. Finkel, Quotient Networks, IEEE Transactions on Computers, v.31 n.4, p.288-295, April 1982
+Ben Popoola , Paul Gough, Evaluating the performance of space plasma simulations using FPGA's, Proceedings of the 5th international conference on High performance computing for computational science, June 26-28, 2002, Porto, Portugal
+J. Lenfant, Parallel Permutations of Data: A Benes Network Control Algorithm for Frequently Used Permutations, IEEE Transactions on Computers, v.27 n.7, p.637-647, July 1978
+Manuel Sánchez , Juan López , Oscar Plata , Maria A. Trenas , Emilio L. Zapata, An Efficient Architecture for the In-Place Fast Cosine Transform, Journal of VLSI Signal Processing Systems, v.21 n.2, p.91-102, June 1999
+James R. Geraci , Sharon M. Sacco, A transpose-free in-place SIMD optimized FFT, ACM Transactions on Architecture and Code Optimization (TACO), v.9 n.3, p.1-21, September 2012
+Manuel Sánchez , Juan López , Oscar Plata , Maria A. Trenas , Emilio L. Zapata, An Efficient Architecture for the In-Place Fast Cosine Transform, Journal of VLSI Signal Processing Systems, v.21 n.2, p.91-102, June 1999
+Peter Milder , Franz Franchetti , James C. Hoe , Markus Püschel, Computer Generation of Hardware for Linear Digital Signal Processing Transforms, ACM Transactions on Design Automation of Electronic Systems (TODAES), v.17 n.2, p.1-33, April 2012
+Jacob T. Schwartz, Ultracomputers, ACM Transactions on Programming Languages and Systems (TOPLAS), v.2 n.4, p.484-521, Oct. 1980
+Francescomaria Marino , Earl E. Swartzlander, Jr., Parallel Implementation of Multidimensional Transforms without Interprocessor Communication, IEEE Transactions on Computers, v.48 n.9, p.951-961, September 1999
+Z.C. Guo, Optically Interconnected Processor Arrays with Switching Capability, Journal of Parallel and Distributed Computing, v.23 n.3, p.314-329, Dec. 1994
+Kenneth J. Thurber, Interconnection networks: a survey and assessment, Proceedings of the May 6-10, 1974, national computer conference and exposition, May 06-10, 1974, Chicago, Illinois
+Allan Gottlieb , Boris D. Lubachevsky , Larry Rudolph, Basic Techniques for the Efficient Coordination of Very Large Numbers of Cooperating Sequential Processors, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.2, p.164-189, April 1983
+Moon Jung Chung , Edward J. Toy , Aarti Gupta, A parallel computer based on cube connected cycles for wafer scale integration, Proceedings of 1986 ACM Fall joint computer conference, p.325-335, November 1986, Dallas, Texas, USA
+Kenneth J. Thurber , Leon D. Wald, Associative and Parallel Processors, ACM Computing Surveys (CSUR), v.7 n.4, p.215-255, Dec. 1975
+Ziao-Nan Tan , Kenneth C. Sevcik, Reduced distance routing in single-state shuffle-exchange interconnection networks, ACM SIGMETRICS Performance Evaluation Review, v.15 n.1, p.95-110, May 1987
+Thomas Pöppelmann , Tim Güneysu, Towards efficient arithmetic for lattice-based cryptography on reconfigurable hardware, Proceedings of the 2nd international conference on Cryptology and Information Security in Latin America, October 07-10, 2012, Santiago, Chile
+V. Y. Pan, Concurrent Iterative Algorithm for Toeplitz-like Linear Systems, IEEE Transactions on Parallel and Distributed Systems, v.4 n.5, p.592-600, May 1993
+Azriel Rosenfeld, Picture Processing by Computer, ACM Computing Surveys (CSUR), v.1 n.3, p.147-176, Sept. 1969
+George Broomell , J. Robert Heath, Classification Categories and Historical Development of Circuit Switching Topologies, ACM Computing Surveys (CSUR), v.15 n.2, p.95-133, June 1983
+David J. Kuck, A Survey of Parallel Machine Organization and Programming, ACM Computing Surveys (CSUR), v.9 n.1, p.29-59, March 1977

@@ -1,0 +1,1 @@
+We present a construction of a single-writer, multiple-reader atomic register from single-writer, single-reader atomic registers. The complexity of our construction is asymptotically optimal;O(M2+ MN)shared single-writer, single-reader safe bits are required to construct a single-writer, M-reader, N-bit atomic register.

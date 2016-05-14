@@ -1,0 +1,43 @@
+ADELMAN, L. Time, Space and Randomness. Tech. Memo 131, Laboratory for Computer Science MIT, Cambridge, Mass., 1979.
+ALEXI, W., CHOR, B., GOLDREICH, O., AND SCHNORR, C. P. RSA and Rabin functions: Certain parts are as hard as the whole. SIAM J. Comput., to appear. (An earlier version appeared in Proceedings of the 25th IEEE Symposium on Foundations of Computer Science. IEEE, New York, 1984, pp. 449-457.)
+ANGLUIN, O., AND LICHTENSTEIN, D. Provable security of cryptosystems: A survey. Tech. Rep. 288, Dept. of Computer Science, Yale Univ. New Haven, Conn., 1983.
+BENNETT, C. H., AND GILL, J. Relative to a random oracle, A, P^ ~ NP^ ~ co-NP^ with probability I. SIAM J. Comput. I 0 ( 198 l), 96-113.
+Michael Ben-Or , Benny Chor , Adi Shamir, On the cryptographic security of single RSA bits, Proceedings of the fifteenth annual ACM symposium on Theory of computing, p.421-430, December 1983[doi>10.1145/800061.808773]
+Michael Ben-Or , Oded Goldreich , Silvio Micali , Ronald L. Rivest, A Fair Protocol for Signing Contracts (Extended Abstract), Proceedings of the 12th Colloquium on Automata, Languages and Programming, p.43-52, July 15-19, 1985
+L Blum , M Blum , M Shub, A simple unpredictable pseudo random number generator, SIAM Journal on Computing, v.15 n.2, p.364-383, May 1986[doi>10.1137/0215025]
+Manuel Blum , Silvio Micali, How to generate cryptographically strong sequences of pseudo-random bits, SIAM Journal on Computing, v.13 n.4, p.850-864, Nov. 1984[doi>10.1137/0213053]
+BRASSARD, G. On computationally secure authentication tags requiring short secret shared keys. In Advances in Cryptology: Proceedings of Crypto-82, D. Chaum, R. L. Rivest and A. T. Sherman, Eds. Plenum Press, New York, 1983, pp. 79-86.
+Gregory J. Chaitin, On the Length of Programs for Computing Finite Binary Sequences, Journal of the ACM (JACM), v.13 n.4, p.547-569, Oct. 1966[doi>10.1145/321356.321363]
+DIFFIE, W., AND HELLMAN, M. E. New directions in cryptography. IEEE Trans. Inf. Theory IT-22 (Nov. 1976), 644-654.
+FREIZE, A. M., KANNAN, R., AND LAGARIAS, J.C. Linear congruential generators do not produce random sequences. In Proceedings of the 25th Symposium on Foundations of Computer Science. IEEE, New York, 1984, pp. 480-484'.
+GACS, P. On the symmetry of algorithmic information. Soy. Math. Dokl. 15 (1974), 1477.
+GOLDREICH, O., GOLDWASSER, S., AND MICALI, S. How to construct random functions. Tech. Memo 244, Laboratory for Computer Science, MIT, Cambridge, Mass., Nov. 1983.
+Oded Goldreich , Shafi Goldwasser , Silvio Micali, On the cryptographic applications of random functions, Proceedings of CRYPTO 84 on Advances in cryptology, p.276-288, August 1985, Santa Barbara, California, USA
+Shafrira Goldwasser, Probabilistic encryption: theory and applications (partial information, factoring, pseudo random bit generation), University of California, Berkeley, 1984
+GOLDWASSER, S., MICALI, S., AND RIVEST, R.L. A "paradoxical" signature scheme. In Proceedings of the 25th IEEE Symposium on Foundations of Computer Science. IEEE, New York, 1984, pp. 441-448.
+Shafi Goldwasser , Silvio Micali , Ronald L. Rivest, A digital signature scheme secure against adaptive chosen-message attacks, SIAM Journal on Computing, v.17 n.2, p.281-308, April 1988[doi>10.1137/0217017]
+GOLDWASSER, S., MICALI, S., AND TONG, P. Why and how to establish a private code on a public network. In Proceedings of the 23rd IEEE Symposium on Foundations of Computer Science. IEEE, New York, 1982, pp. 134-144.
+HARTMANIS, J. Generalized Kolmogorov complexity and the structure of feasible computations. In Proceedings of the 24th IEEE Symposium on Foundations of Computer Science. IEEE, New York, 1983, pp. 439-445.
+J Hastad , A Shamir, The cryptographic security of truncated linearly related variables, Proceedings of the seventeenth annual ACM symposium on Theory of computing, p.356-362, May 06-08, 1985, Providence, Rhode Island, USA[doi>10.1145/22145.22184]
+Donald E. Knuth, The art of computer programming, volume 2 (3rd ed.): seminumerical algorithms, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1997
+KOLMOGOROV, A. Three approaches to the concept of "The amount of information," Prob. Inf. Transm. I, l (1965).
+LAGARIAS, J., AND REEDS, J. Extrapolation of nonlinear recurrences. Submitted for publication.
+LEVIN, L.A. On the notion of a random sequence. Soy. Math. Dokl. 14, 5 (1973), 1413.
+LEVlN, L. A. Various measures of complexity for finite objects (axiomatic descriptions). Soy. Math. Dokl. 17, 2 (1976), 522-526.
+Leonid A. Levin, Randomness conservation inequalities; information and independence in mathematical theories, Information and Control, v.61 n.1, p.15-37, April 1984[doi>10.1016/S0019-9958(84)80060-1]
+L A Levin, One-way functions and pseudorandom generators, Proceedings of the seventeenth annual ACM symposium on Theory of computing, p.363-365, May 06-08, 1985, Providence, Rhode Island, USA[doi>10.1145/22145.22185]
+Douglas L. Long , Avi Wigderson, How discreet is the discrete log?, Proceedings of the fifteenth annual ACM symposium on Theory of computing, p.413-420, December 1983[doi>10.1145/800061.808772]
+M Luby , C Rackoff, Pseudo-random permutation generators and cryptographic composition, Proceedings of the eighteenth annual ACM symposium on Theory of computing, p.356-363, May 28-30, 1986, Berkeley, California, USA[doi>10.1145/12130.12167]
+MARTIN-LOF, P. The definition of random sequences. Inf. Control 9 (1966), 602-619.
+PLUMSTEAD, J. Inferring a sequence generated by a linear congruence. In Proceedings of the 23rd IEEE Symposium on Foundations of Computer Science. IEEE, New York, 1982, pp. 153-159.
+M. O. Rabin, DIGITALIZED SIGNATURES AND PUBLIC-KEY FUNCTIONS AS INTRACTABLE AS FACTORIZATION, Massachusetts Institute of Technology, Cambridge, MA, 1979
+R. L. Rivest , A. Shamir , L. Adleman, A method for obtaining digital signatures and public-key cryptosystems, Communications of the ACM, v.21 n.2, p.120-126, Feb. 1978[doi>10.1145/359340.359342]
+SCHNORR, C.P. Zufaelligkeit und Wahrscheinlichkeit. Lecture Notes in Mathematics, vol. 218. Springer-Verlag, New York, 197 i.
+Adi Shamir, On the generation of cryptographically strong pseudorandom sequences, ACM Transactions on Computer Systems (TOCS), v.1 n.1, p.38-44, Feb. 1983[doi>10.1145/357353.357357]
+Michael Sipser, A complexity theoretic approach to randomness, Proceedings of the fifteenth annual ACM symposium on Theory of computing, p.330-335, December 1983[doi>10.1145/800061.808762]
+SOLOMONOFF, R.J. A formal theory of inductive inference. Inf. Control, 7, l (1964), 1-22.
+WILBER, R.E. Randomness and the density of hard problems. In Proceedings of 24th IEEE Symposium on Foundations of Computer Science. IEEE, New York, 1983, pp. 335-342.
+VAZIRANI, U. V., AND VAZIRANI, V.V. RSA bits are .732 + ~ secure, tn Advances in Cryptology: Proceedings ofCrypto-83, D. Chaum, Ed. Plenum Press, New York, 1984, pp. 369-375.
+VAZIRANI, U. V., AND VAZIRANI, V.V. Efficient and secure pseudo-random number generation. In Proceedings of the 25th IEEE Symposium on Foundations of Computer Science. IEEE, New York, 1984, pp. 458-463.
+YAO, A.C. Theory and applications of trapdoor functions. In Proceedings of the 23rd IEEE Symposium on Foundations of Computer Science. IEEE, New York, 1982, pp 80-9 I.
+ZVONKIN, A. K., AND LEVIN, L.A. The complexity of finite objects and the algorithmic concepts of randomness and information. UMN (Russian Math. Surveys), 25, 6 (1970), 83-124.

@@ -1,0 +1,54 @@
+Yehuda Afek, Shay Kutten, and Moti Yung. 1990. Memory-efficient self stabilizing protocols for general networks. In WDAG (Lecture Notes in Computer Science), Jan van Leeuwen and Nicola Santoro (Eds.), Vol. 486. Springer, Berlin, 15--28.
+J. Akiyama, H. Era, and F. Harary. 1983. Regular graphs containing a given graph. Elem. Math. 83 83 (1983), 15--17.
+Noga Alon, Laszlo Babai, and Alon Itai. 1986. A fast and simple randomized parallel algorithm for the maximal independent set problem. J. Algorithm. 7, 4 (1986), 567--583.
+D. Angluin and A. Gardiner. 1981. Finite common coverings of pairs of regular graphs. J. Comb. Theor. Ser. B 30, 2 (1981), 184--187.
+Baruch Awerbuch and Michael Sipser. 1988. Dynamic networks are as fast as static networks. In Proc. Symp. Foundations of Computer Science (FOCS). 206--219.
+Baruch Awerbuch and George Varghese. 1991. Distributed program checking: A paradigm for building self-stabilizing distributed protocols. In Proc. Symp. on Foundations of Computer Science (FOCS). 258--267.
+R. Bar-Yehuda, K. Censor-Hillel, and G. Schwartzman. 2016. A distributed (2 &plus; &epsi;)-approximation for vertex cover inO(log Δ/&epsi;log log Δ) rounds.CoRR abs/1602.03713v2.
+L. Barenboim and M. Elkin. 2013. Distributed Graph Coloring: Fundamentals and Recent Developments. Morgan & Claypool Publishers.
+Yair Bartal, John W. Byers, and Danny Raz. 1997. Global optimization using local information with applications to flow control. In Proc. Symp. on Foundations of Computer Science (FOCS). 303--312.
+B. Bollobas. 1978. Extremal Graph Theory. Academic Press.
+R. Cole and U. Vishkin. 1986. Deterministic coin tossing with applications to optimal parallel list ranking. Inform. Control 70, 1 (1986), 32--53.
+Andrzej Czygrinow, Michał Hańćkowiak, and Wojciech Wawrzyniak. 2008. Fast distributed approximations in planar graphs. In Proc. 22nd Symp. on Distributed Computing (DISC). 78--92.
+Erik D. Demaine, Uriel Feige, Mohammad Taghi Hajiaghayi, and Mohammad R. Salavatipour. 2006. Combination can be hard: Approximability of the unique coverage problem. In Proc. of the 17thACM-SIAM Symposium on Discrete Algorithm (SODA). 162--171.
+Edsger W. Dijkstra. 1974. Self-stabilizing systems in spite of distributed control. Communications of the ACM 17, 11 (1974), 643--644. DOI:http://dx.doi.org/10.1145/361179.361202
+D. Dubhashi, A. Mei, A. Panconesi, J. Radhakrishnan, and A. Srinivasan. 2003. Fast distributed algorithms for (weakly) connected dominating sets and linear-size skeletons. In Proc. of the ACM-SIAM Symposium on Discrete Algorithms (SODA). 717--724.
+Michael Elkin. 2004a. Distributed approximation—A survey. ACM SIGACT News—Distributed Computing Column 35, 4 (2004).
+Michael Elkin. 2004b. An unconditional lower bound on the hardness of approximation of distributed minimum spanning tree problem. In Proc. of the36thACM Symposium on Theory of Computing (STOC). 331--340.
+P. Erdős and H. Sachs. 1963. Reguläre graphen gegebener taillenweite mit minimaler knotenzahl. Wiss. Z. Martin-Luther-U. Halle Math.-Nat. 12 (1963), 251--257.
+Uriel Feige, Magnús M. Halldórsson, Guy Kortsarz, and Aravind Srinivasan. 2003. Approximating the domatic number. SIAM J. Comput. 32, 1 (2003), 172--195.
+F. Fich and E. Ruppert. 2003. Hundreds of impossibility results for distributed computing. Distrib. Comput. 16, 2--3 (2003), 121--163.
+Michael J. Fischer, Nancy A. Lynch, and Michael S. Paterson. 1985. Impossibility of distributed consensus with one faulty process. J. ACM 32, 2 (1985), 374--382.
+L. Fleischer. 2000. Approximating fractional multicommodity flow independent of the number of commodities. SIAM J. Discr. Math. 13, 4 (2000), 505--520.
+P. Fraigniaud, A. Korman, and D. Peleg. 2013. Towards a complexity theory for local distributed computing. J. ACM 60, 5 (2013), 35.
+Seth Copen Goldstein, Jason D. Campbell, and Todd C. Mowry. 2005. Programmable matter. Computer 38, 6 (2005), 99--101. DOI:http://dx.doi.org/10.1109/MC.2005.198
+A. Israeli and A. Itai. 1986. A fast and simple randomized parallel algorithm for maximal matching. Inform. Process. Lett. 22 (1986), 77--80.
+L. Jia, R. Rajaraman, and R. Suel. 2001. An efficient distributed algorithm for constructing small dominating sets. In Proc. of the20thACM Symposium on Principles of Distributed Computing (PODC). 33--42.
+Fabian Kuhn, Thomas Moscibroda, and Roger Wattenhofer. 2004. What cannot be computed locally&excl;. In Proc. of the23rdACM Symposium on the Principles of Distributed Computing (PODC). 300--309.
+Fabian Kuhn, Thomas Moscibroda, and Roger Wattenhofer. 2006. The price of being near-sighted. In Proc. of the17thACM-SIAM Symposium on Discrete Algorithms (SODA).
+F. Kuhn and R. Wattenhofer. 2003. Constant-time distributed dominating set approximation. In Proc. of the22ndAnnual ACM Symp. on Principles of Distributed Computing (PODC). 25--32.
+Leslie Lamport, Robert Shostak, and Marshall Pease. 1982. The byzantine generals problem. ACM Trans. Program. Lang. Syst. 4, 3 (1982), 382--401.
+F. Lazebnik and V. A. Ustimenko. 1995. Explicit construction of graphs with an arbitrary large girth and of large size. Discr. Appl. Math. 60, 1--3 (1995), 275--284.
+Christoph Lenzen, Yvonne Anne Oswald, and Roger Wattenhofer. 2008. What can be approximated locally? In 20th ACM Symposium on Parallelism in Algorithms and Architecture (SPAA), Munich, Germany.
+Christoph Lenzen, Jukka Suomela, and Roger Wattenhofer. 2009. Local algorithms: Self-stabilization on speed. In 11th International Symposium on Stabilization, Safety, and Security of Distributed Systems (SSS). 17--34.
+Christoph Lenzen and Roger Wattenhofer. 2008. Leveraging linial’s locality limit. In Proc. 22nd Symp. on Distributed Computing (DISC). 394--407.
+Nathan Linial. 1992. Locality in distributed graph algorithms. SIAM J. Comput. 21, 1 (1992), 193--201.
+N. Linial and M. Saks. 1993. Low diameter graph decompositions. Combinatorica 13, 4 (1993), 441--454.
+M. Luby. 1986. A simple parallel algorithm for the maximal independent set problem. SIAM J. Comput. 15 (1986), 1036--1053.
+Grzegorz Malewicz, Matthew H. Austern, Aart J. C. Bik, James C. Dehnert, Ilan Horn, Naty Leiser, and Grzegorz Czajkowski. 2010. Pregel: A system for large-scale graph processing. In Proceedings of the International Conference on Management of Data (SIGMOD).
+Moni Naor and Larry Stockmeyer. 1995. What can be computed locally? SIAM J. Comput. 24, 6 (1995), 1259--1277.
+Huy N. Nguyen and Krzysztof Onak. 2008. Constant-time approximation algorithms via local improvements. In Proc. of the49thSymposium on Foundations of Computer Science (FOCS). 327--336.
+C. H. Papadimitriou and M. Yannakakis. 1991. On the value of information in distributed decision making. In Proc. of the10thACM Symposium on Principles of Distributed Computing (PODC). 61--64.
+C. H. Papadimitriou and M. Yannakakis. 1993. Linear programming without the matrix. In Proc. of the25thACM Symposium on Theory of Computing (STOC). 121--129.
+Michal Parnas and Dana Ron. 2007. Approximating the minimum vertex cover in sublinear time and a connection to distributed algorithms. Theor. Comput. Sci. 381, 1-3 (2007), 183--196.
+David Peleg. 2000. Distributed Computing: A Locality-Sensitive Approach. SIAM Monographs on Discrete Mathematics and Applications. SIAM, Philadelpia, PA.
+S. Plotkin, D. Shmoys, and E. Tardos. 1995. Fast approximation algorithms for fractional packing and covering problems. Math. Operat. Res. 20 (1995), 257--301.
+S. Rajagopalan and V. Vazirani. 1998. Primal-dual RNC approximation algorithms for set cover and covering integer programs. SIAM J. Comput. 28 (1998), 525--540.
+Atish Das Sarma, Stephan Holzer, Liah Kor, Amos Korman, Danupon Nanongkai, Gopal Pandurangan, David Peleg, and Roger Wattenhofer. 2012. Distributed verification and hardness of distributed approximation. SIAM J. Computing 41, 5 (2012), 1235--1265.
+Johannes Schneider and Roger Wattenhofer. 2008. A log-star distributed maximal independent set algorithm for growth-bounded graphs. In 27th ACM Symposium on Principles of Distributed Computing (PODC), Toronto, Canada. ACM, New York, NY, 35--44.
+Johannes Schneider and Roger Wattenhofer. 2011. Bounds on contention management algorithms. Theoretical Computer Science 412, 32 (2011), 4151--4160.
+A. Srinivasan. 1995. Improved approximations of packing and covering problems. In Proc. of the 27th ACM Symposium on Theory of Computing (STOC). ACM, New York, NY, 268--276.
+Aaron Sterling. 2009. Memory consistency conditions for self-assembly programming. In 1st Innovations in Computer Science (ICS). Beijing, China, 490--500.
+J. Suomela. 2011. Survey of local algorithms. ACM Computing Surveys 45, 2 (2011), 24:1--24:40.
+Mirjam Wattenhofer and Roger Wattenhofer. 2004. Distributed weighted matching. In Proc. of the18thConference on Distributed Computing (DISC). 335--348.
+N. E. Young. 2001. Sequential and parallel algorithms for mixed packing and covering. In Proc. of the42ndSymposium on Foundations of Computer Science (FOCS). 538--546.

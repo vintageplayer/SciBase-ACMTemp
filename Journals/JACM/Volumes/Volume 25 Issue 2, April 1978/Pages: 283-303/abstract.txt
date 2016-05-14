@@ -1,0 +1,14 @@
+The method of analysis employing decomposition of busy periods
+has, in various forms, been applied to the M/G/1 queueing system
+under a variety of scheduling rules This paper extends the
+technique of decomposition of busy periods in order to deal with
+the M/M/c queueing system. Particular attention is given to a
+special busy period referred to as a "delay cycle." The delay cycle
+commences with a delay period (of general distribution) in which
+jobs arrive but are not serviced, at the conclusion of the delay
+period, processing begins and continues until the system is empty.
+Closed form solutions are obtained for various entities such as
+distribution of busy period length and expected waiting time
+conditioned on the type of busy period in progress at the tmae of
+job arrival. These results are applied and extended to the analysis
+of six examples of multiprocessor systems.

@@ -1,0 +1,55 @@
+Alok Aggarwal, Bowen Alpern, Ashok K. Chandra, and Marc Snir. 1987. A model for hierarchical memory. In Proceedings of the 19th ACM Symposium on Theory of Computing (STOC’87). 305--314.
+Alok Aggarwal, Ashok K. Chandra, and Marc Snir. 1987. Hierarchical memory with block transfer. In Proceedings of the 28th IEEE Symposium on Foundations of Computer Science (FOCS’87). 204--216.
+Alok Aggarwal, Ashok K. Chandra, and Marc Snir. 1990. Communication complexity of PRAMs. Theoretical Computer Science 71, 1, 3--28.
+Alok Aggarwal and Jeffrey S. Vitter. 1988. The input/output complexity of sorting and related problems. Communications of the ACM 31, 9, 1116--1127.
+Grey Ballard, James Demmel, Olga Holtz, Benjamin Lipshitz, and Oded Schwartz. 2012. Brief announcement: Strong scaling of matrix multiplication algorithms and memory-independent communication lower bounds. In Proceedings of the 24th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA’12). 77--79.
+Grey Ballard, James Demmel, Olga Holtz, and Oded Schwartz. 2011. Minimizing communication in numerical linear algebra. SIAM Journal on Matrix Analysis and Applications 32, 3, 866--901.
+Armin Bäumker, Wolfgang Dittrich, and Friedhelm Meyer auf der Heide. 1998. Truly efficient parallel algorithms: 1-optimal multisearch for an extension of the BSP model. Theoretical Computer Science 203, 2, 175--203.
+Michael A. Bender, Roozbeh Ebrahimi, Jeremy T. Fineman, Golnaz Ghasemiesfeh, Rob Johnson, and Samuel McCauley. 2014. Cache-adaptive algorithms. In Proceedings of the 25th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA’14). 958--971.
+Sandeep N. Bhatt, Gianfranco Bilardi, and Geppino Pucci. 2008. Area-time tradeoffs for universal VLSI circuits. Theoretical Computer Science 408, 2--3, 143--150.
+Gianfranco Bilardi and Enoch Peserico. 2001. A characterization of temporal locality and its portability across memory hierarchies. In Proceedings of the 28th International Colloquium on Automata, Languages, and Programming (ICALP’01). 128--139.
+Gianfranco Bilardi and Andrea Pietracaprina. 2011. Theoretical models of computation. In Encyclopedia of Parallel Computing, D. A. Padua (Ed.). Springer, 1150--1158.
+Gianfranco Bilardi, Andrea Pietracaprina, and Geppino Pucci. 1999. A quantitative measure of portability with application to bandwidth-latency models for parallel computing. In Proceedings of the 5th International Euro-Par Conference on Parallel Processing (Euro-Par’99). 543--551.
+Gianfranco Bilardi, Andrea Pietracaprina, and Geppino Pucci. 2007a. Decomposable BSP: A bandwidth-latency model for parallel and hierarchical computation. In Handbook of Parallel Computing: Models, Algorithms and Applications, J. Reif and S. Rajasekaran (Eds.). CRC Press, Boca Raton, FL, 277--315.
+Gianfranco Bilardi, Andrea Pietracaprina, Geppino Pucci, and Francesco Silvestri. 2007b. Network-oblivious algorithms. In Proceedings of the 21st IEEE International Parallel and Distributed Processing Symposium (IPDPS’07). 1--10.
+Gianfranco Bilardi and Franco Preparata. 1995. Horizons of parallel computation. Journal of Parallel and Distributed Computing 27, 2, 172--182.
+Gianfranco Bilardi and Franco Preparata. 1997. Processor-time tradeoffs under bounded-speed message propagation: Part I, upper bounds. Theory of Computing Systems 30, 6, 523--546.
+Gianfranco Bilardi and Franco Preparata. 1999. Processor-time tradeoffs under bounded-speed message propagation: Part II, lower bounds. Theory of Computing Systems 32, 5, 531--559.
+Gianfranco Bilardi and Geppino Pucci. 2011. Universality in VLSI computation. In Encyclopedia of Parallel Computing, D. A. Padua (Ed.). Springer, 2112--2118.
+Guy E. Blelloch, Jeremy T. Fineman, Phillip B. Gibbons, and Harsha Vardhan Simhadri. 2011. Scheduling irregular parallel computations on hierarchical caches. In Proceedings of the 23rd ACM Symposium on Parallelism in Algorithms and Architectures (SPAA’11). 355--366.
+Guy E. Blelloch, Phillip B. Gibbons, and Harsha Vardhan Simhadri. 2010. Low depth cache-oblivious algorithms. In Proceedings of the 22nd ACM Symposium on Parallelism in Algorithms and Architectures (SPAA’10). 189--199.
+Gerth S. Brodal and Rolf Fagerberg. 2003. On the limits of cache-obliviousness. In Proceedings of the 35th ACM Symposium on Theory of Computing (STOC’03). 307--315.
+Rezaul A. Chowdhury and Vijaya Ramachandran. 2008. Cache-efficient dynamic programming algorithms for multicores. In Proceedings of the 20th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA’08). 207--216.
+Rezaul A. Chowdhury, Vijaya Ramachandran, Francesco Silvestri, and Brandon Blakeley. 2013. Oblivious algorithms for multicores and networks of processors. Journal of Parallel and Distributed Computing 73, 7, 911--925.
+Richard Cole and Vijaya Ramachandran. 2010. Resource oblivious sorting on multicores. In Proceedings of the 37th International Colloquium on Automata, Languages, and Programming (ICALP’10). 226--237.
+Richard Cole and Vijaya Ramachandran. 2012a. Efficient resource oblivious algorithms for multicores with false sharing. In Proceedings of the 26th IEEE International Parallel and Distributed Processing Symposium (IPDPS’12). 201--214.
+Richard Cole and Vijaya Ramachandran. 2012b. Revisiting the cache miss analysis of multithreaded algorithms. In Proceedings of the 10th Latin American Theoretical Informatics Symposium (LATIN’12). 172--183.
+David E. Culler, Richard M. Karp, David A. Patterson, Abhijit Sahay, Eunice E. Santos, Klaus E. Schauser, Ramesh Subramonian, and Thorsten von Eicken. 1996. LogP: A practical model of parallel computation. Communications of the ACM 39, 11, 78--85.
+Pilar de la Torre and Clyde P. Kruskal. 1996. Submachine locality in the bulk synchronous setting. In Proceedings of the 2nd International Euro-Par Conference on Parallel Processing (Euro-Par’96). 352--358.
+James Demmel, David Eliahu, Armando Fox, Shoaib Kamil, Ben Lipshitz, Oded Schwartz, and Omer Spillinger. 2013. Communication-optimal parallel recursive rectangular matrix multiplication. In Proceedings of the 27th IEEE International Parallel and Distributed Processing Symposium (IPDPS’13). 261--272.
+Matteo Frigo, Charles E. Leiserson, Harald Prokop, and Sridhar Ramachandran. 2012. Cache-oblivious algorithms. ACM Transactions on Algorithms 8, 1, Article No. 4.
+Matteo Frigo and Volker Strumpen. 2005. Cache oblivious stencil computations. In Proceedings of the 19th International Conference on Supercomputing (ICS’05). 361--366.
+Matteo Frigo and Volker Strumpen. 2009. The cache complexity of multithreaded cache oblivious algorithms. Theory of Computing Systems 45, 2, 203--233.
+Phillip B. Gibbons, Yossi Matias, and Vijaya Ramachandran. 1999. Can a shared-memory model serve as a bridging model for parallel computation? Theory of Computing Systems 32, 3, 327--359.
+Kieran T. Herley. 2011. Network obliviousness. In Encyclopedia of Parallel Computing, D. A. Padua (Ed.). Springer, 1298--1303.
+Dror Irony, Sivan Toledo, and Alexandre Tiskin. 2004. Communication lower bounds for distributed-memory matrix multiplication. Journal of Parallel and Distributed Computing 64, 9, 1017--1026.
+Joseph JáJá. 1992. An Introduction to Parallel Algorithms. Addison Wesley Longman.
+Ben H. H. Juurlink and Harry A. G. Wijshoff. 1998. A quantitative comparison of parallel computation models. ACM Transactions on Computer Systems 16, 3, 271--318.
+Howard J. Karloff, Siddharth Suri, and Sergei Vassilvitskii. 2010. A model of computation for MapReduce. In Proceedings of the 21st Annual ACM-SIAM Symposium on Discrete Algorithms (SODA’10). 938--948.
+Leslie Robert Kerr. 1970. The Effect of Algebraic Structure on the Computational Complexity of Matrix Multiplication. Ph.D. Dissertation. Cornell University.
+Frank T. Leighton. 1985. Tight bounds on the complexity of parallel sorting. IEEE Transactions on Computers 34, 4, 344--354.
+Frank T. Leighton. 1992. Introduction to Parallel Algorithms and Architectures: Arrays, Trees, Hypercubes. Morgan Kaufmann.
+Charles E. Leiserson. 1985. Fat-trees: Universal networks for hardware-efficient supercomputing. IEEE Transactions on Computers 34, 10, 892--901.
+Charles E. Leiserson and Bruce M. Maggs. 1988. Communication-efficient parallel algorithms for distributed random-access machines. Algorithmica 3, 1--4, 53--77.
+Andrea Pietracaprina, Geppino Pucci, Matteo Riondato, Francesco Silvestri, and Eli Upfal. 2012. Space-round tradeoffs for MapReduce computations. In Proceedings of the 26th ACM International Conference on Supercomputing (ICS’12). 235--244.
+Andrea Pietracaprina, Geppino Pucci, and Francesco Silvestri. 2006. Cache-oblivious simulation of parallel programs. In Proceedings of the 8th IEEE IPDPS Workshop on Advances in Parallel and Distributed Computational Models (APDCM’06). 1--8.
+John E. Savage. 1998. Models of Computation: Exploring the Power of Computing. Addison Wesley Longman.
+Michele Scquizzato and Francesco Silvestri. 2014. Communication lower bounds for distributed-memory computations. In Proceedings of the 31st Symposium on Theoretical Aspects of Computer Science (STACS’14). 627--638.
+Francesco Silvestri. 2006. On the limits of cache-oblivious matrix transposition. In Proceedings of the 2nd Symposium on Trustworthy Global Computing (TGC’06). 233--243.
+Francesco Silvestri. 2008. On the limits of cache-oblivious rational permutations. Theoretical Computer Science 402, 2--3, 221--233.
+Harsha Vardhan Simhadri, Guy E. Blelloch, Jeremy T. Fineman, Phillip B. Gibbons, and Aapo Kyrola. 2014. Experimental analysis of space-bounded schedulers. In Proceedings of the 26th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA’14). 30--41.
+Yuan Tang, Rezaul Alam Chowdhury, Bradley C. Kuszmaul, Chi-Keung Luk, and Charles E. Leiserson. 2011. The Pochoir stencil compiler. In Proceedings of the 23rd ACM Symposium on Parallelism in Algorithms and Architectures (SPAA’11). 117--128.
+Yuan Tang, Ronghui You, Haibin Kan, Jesmin Jahan Tithi, Pramod Ganapathi, and Rezaul A. Chowdhury. 2015. Cache-oblivious wavefront: Improving parallelism of recursive dynamic programming algorithms without losing cache-efficiency. In Proceedings of the 20th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP’15). 205--214.
+Alexandre Tiskin. 1998. The bulk-synchronous parallel random access machine. Theoretical Computer Science 196, 1--2, 109--130.
+Leslie G. Valiant. 1990. A bridging model for parallel computation. Communications of the ACM 33, 8, 103--111.
+Leslie G. Valiant. 2011. A bridging model for multi-core computing. Journal of Computer and System Sciences 77, 1, 154--166.

@@ -1,0 +1,48 @@
+APPEL, A.W. 1985. An efficient program for many-body simulations. SIAM J. Sci. Statist. Comput. 6, 85-103.
+BARNES, J., AND HUT, P. 1986. A hierarchical O(n log n) force-calculation algorithm. Nature 324, 446-449.
+BIENTINESI, P., AND PELLEGRINI, M. 1997. Electrostatic fields without singularities: Implementations and experiments. Tech. Rep. IMC B4-97-16. Istituto di matematica computazionale del CNR, Via Santa Maria 46, Pisa, Italy. (Also www.imc.pi.cnr.it/marcop/papiri/paolo-report.ps.)
+BINNS, K. J., AND LAWRENSON, P.M. 1973. Analysis and computation of electric and magnetic field problems. Pergamon Press, Oxford, England.
+CADE, R. 1995. On discontinuous solutions of the integral equations of electrostatics. IMA J. Appl. Math. 55, 205-220.
+Paul B. Callahan , S. Rao Kosaraju, A decomposition of multidimensional point sets with applications tok-nearest-neighbors andn-body potential fields, Journal of the ACM (JACM), v.42 n.1, p.67-90, Jan. 1995[doi>10.1145/200836.200853]
+CHIARI, M. g. K., AND SILVESTER, P. P., EDS. 1980. Finite Elements in Electrical and Magnetic Field Problems. Wiley, New York.
+CONWAY, J.B. 1973. Functions of One Complex Variable. Springer-Verlag, New York.
+CooLs, R. 1997. The approximation of low-dimensional integrals: Available tools and trends. In Numerical Mathematics: Proceedings of the 15th IMACS World Congress on Scientific Computation, Modelling and Applied Mathematics, A. Sydow, ed. (Berlin, Germany, Aug.). Vol. 2. Wissenschaft & Technik Verlag, pp. 469-474. (Also www.cs.kuleuven.ac.be/publicaties/rapporten/tw/TW259.ps.gz.)
+DAVIS, P. J., AND RABINOWITZ, P. 1975. Methods of Numerical Integration. Academic Press, Orlando, Fla.
+DUFFY, M. G. 1982. Quadrature over a pyramid or cube of integrands with a singularity at a vertex. SIAM J. Numer. AnaL 19, 6, 1260-1262.
+ERICHSEN, A., AND SAUTER, S.A. 1996. Efficient automatic quadrature in 3-D Galerkin BEM. Tech. Rep. TR-96-15. Berichtsreihe des Mathematischen Seminars Christain-Albrechts-Universit#it zu Keil Ludewig-Meyn-Str. D-24098, Kiel, Germany.
+ESPELID, T. O., AND GENZ, A., EDS. 1992. Numerical integration: Recent developments, software and applications. NATO ASI Series, vol. 357. Kluwer Academic Publishers, London, England.
+EVGRAFOV, M.A. 1966. Analytical Functions. Dover, New York.
+FINOCCHIARO, D. 1996. Monte Carlo evaluation of electrostatic potential and potential energy. Tech. Rep. TR-IMC B4-96-12. Istituto di Matematica Computazionale del CNR, Via Santa Maria 46, Pisa, Italy.
+Kurt Georg, Approximation of integrals for boundary element methods, SIAM Journal on Scientific and Statistical Computing, v.12 n.2, p.443-453, March 1991[doi>10.1137/0912024]
+A. Greenbaum , L. Greengard , G. B. McFadden, Laplace's equation and the Dirichlet-Neumann map in multiply connected domains, Journal of Computational Physics, v.105 n.2, p.267-278, April 1993[doi>10.1006/jcph.1993.1073]
+GREENGARD, L. F. 1988. The Rapid Evaluation of Potential Fields in Particle Systems. The MIT Press, Cambridge, Mass.
+L. Greengard , V. Rokhlin, A fast algorithm for particle simulations, Journal of Computational Physics, v.73 n.2, p.325-348, December 1, 1987[doi>10.1016/0021-9991(87)90140-9]
+Jean-Luc Guermond, Numerical quadratures for layer potentials over curved domains inR3, SIAM Journal on Numerical Analysis, v.29 n.5, p.1347-1369, Oct. 1992[doi>10.1137/0729078]
+HACKBUSCH, W., LACE, C., AND SAUTER, S.A. 1995. On the efficient realization of sparse matric techniques for integral equations with focus on panel clustering, cubature and software design aspects. Tech. Rep. 95-4. Berichtsreihe des Mathematischen Seminars Christian-Albrechts-Universit,it zu Keil Ludewig-Meyn-Str. D-24098, Kiel, Germany.
+HACKBUSCH, W., AND SAUTER, S.A. 1993. On the efficient use of the Galerkin-method to solve Fredholm integral equations. Appl. Math. 38, 301-322.
+JACKSON, J. 1975. Classical Electrodynamics. Wiley, New York.
+KEAST, P., AND FAIRWEATHER, G., EDS. 1997. Numerical Integration: Recent Developments, Software, and Applications. NATO ASI Series, vol. 203. Kluwer Academic Publishers, London, England.
+LANDAU, L. D., AND LIFSHITZ, E.M. 1980. The Classical Theory of Fields. Pergamon Press, Oxford, England.
+LYNESS, J.N. 1976. An error functional expansion for N-dimensional quadrature with an integrand function singular at a point. Math. Comput. 30, 133, 1-23.
+LYNESS, J.N. 1978. Quadrature over a simplex. II. A representation for the error functional. SIAM J. Numer. AnaL 15, 5, 870-887.
+LYNESS, J. N., AND COOLS, R. 1994. A survey of numerical cubature over triangles. In Proceedings of Symposia in Applied Mathematics, vol. 48. American Mathematical Society, Providence, R. I., pp. 127-150.
+LYNESS, J. N., AND MONEGATO, G. 1980. Quadrature error functional expansions for the simplex when the integrated function has singularities at vertices. Math. Comput. 34, 149, 213-225.
+Anita Mayo, The rapid evaluation of volume integrals of potential theory on general regions, Journal of Computational Physics, v.100 n.2, p.236-245, June 1992[doi>10.1016/0021-9991(92)90231-M]
+A. McKenney , L. Greengard , A. Mayo, A fast Poisson solver for complex geometries, Journal of Computational Physics, v.118 n.2, p.348-355, May 1995[doi>10.1006/jcph.1995.1104]
+Harald Niederreiter, Random number generation and quasi-Monte Carlo methods, Society for Industrial and Applied Mathematics, Philadelphia, PA, 1992
+PAN, V. Y., REIF, J. H., AND TATE, S.R. 1992. The power of combining the techniques of algebraic and numerical computing: Improved approximate multipoint polynomial evaluation and improved multipole algorithms. In Proceedings of the 33rd Annual Symposium on Foundations of Computer Science. IEEE Computer Science Press, Los Alamitos, Calif., pp. 703-713.
+Marco Pellegrini, Electrostatic fields without singularities: theory and algorithms, Proceedings of the seventh annual ACM-SIAM symposium on Discrete algorithms, p.184-191, January 28-30, 1996, Atlanta, Georgia, USA
+PELLEGRINI, M. 1997. Monte Carlo approximation of form factors with error bounded a priori. Disc. Comput. Geom. 17, 319-337.
+ROKHLIN, V. 1983. Rapid solution of integral equations of classical potential theory. J. Comput. Phys. 60, 187-207.
+SANTALO, L. A. 1976. Integral Geometry and Geometric Probability. Addison-Wesley, Reading, Mass.
+SAUTER, S. A., AND KRAPP, A. 1996. On the effect of numerical integration in the Galerkin boundary element method. Numer. Mate, 74, 337-359.
+SAUTER, S. A., AND SCHWAB, C. 1997. Quadrature for hp-Galerkin BEM in 3-D. Numer. Mate. 78, 2, 211-258.
+SCHWAB, C. 1994a. On numerical cubature of nearly singular surface integrals arising in BEM collocation. Computing 52, 139-159.
+SCHWAB, C. 1994b. Variable order composite quadrature of singular and nearly singular integrals. Computing 53, 173-194.
+SCHWAB, C. 1995. Boundary layer resolution in hierarchical plate modelling. Math. Meth. AppL Sci. 18, 345-370.
+SCHWAB, C., AND WEDLAND, W. L. 1992a. Kernel properties and representation of boundary integral operators. Math. Nachr. 156, 187-216.
+SCHWAB, C., AND WEDLAND, W.L. 1992b. On numerical cubature of singular surface integrals on boundary element methods. Num. Math. 62, 343-369.
+STROUD, A.H. 1971. Approximate calculation of multidimensional integrals. Prentice-Hall, Englewood Cliffs, N. J.
+VON PETERSDORFF, T., AND SCHWAB, C. 1996. Fully discrete multiscale Galerkin BEM. Tech. Rep. TR-95-08. Seminar for Applied Mathematics, Dept. Mathematics. ETH, Zurich, Switzerland.
+Feng Zhao, An {\it bf O(N)} Algorithm for Three-Dimensional N-body Simulations, Massachusetts Institute of Technology, Cambridge, MA, 1987
+ZHOU, P.B. 1993. Numerical Analysis of Electromagnetic Fields. Springer-Verlag, New York.

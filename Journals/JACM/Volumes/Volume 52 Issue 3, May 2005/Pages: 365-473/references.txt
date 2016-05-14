@@ -1,0 +1,63 @@
+Ole Agesen , David L. Detlefs , Christine H. Flood , Alexander T. Garthwaite , Paul A. Martin , Nir N. Shavit , Guy L. Steele, Jr., DCAS-based concurrent deques, Proceedings of the twelfth annual ACM symposium on Parallel algorithms and architectures, p.137-146, July 09-13, 2000, Bar Harbor, Maine, USA[doi>10.1145/341800.341817]
+Ahrendt, W., Baar, T., Beckert, B., Bubel, R., Giese, M., Hähnle, R., Menzel, W., Mostowski, W., Roth, A., Schlager, S., and Schmitt, P. H. 2003. The KeY tool. Technical report in computing science no. 2003--5, Department of Computing Science, Chalmers University and Göteborg University, Göteborg, Sweden. February.
+Greg J. Badros , Alan Borning , Peter J. Stuckey, The Cassowary linear arithmetic constraint solving algorithm, ACM Transactions on Computer-Human Interaction (TOCHI), v.8 n.4, p.267-306, December 2001[doi>10.1145/504704.504705]
+Thomas Ball , Rupak Majumdar , Todd Millstein , Sriram K. Rajamani, Automatic predicate abstraction of C programs, Proceedings of the ACM SIGPLAN 2001 conference on Programming language design and implementation, p.203-213, June 2001, Snowbird, Utah, USA[doi>10.1145/378795.378846]
+Barrett, C. W. 2002. Checking validity of quantifier-free formulas in combinations of first-order theories. Ph.D. thesis, Department of Computer Science, Stanford University, Stanford, CA. Available at http://verify.stanford.edu/barrett/thesis.ps.
+Clark W. Barrett , David L. Dill , Jeremy R. Levitt, Validity Checking for Combinations of Theories with Equality, Proceedings of the First International Conference on Formal Methods in Computer-Aided Design, p.187-201, November 06-08, 1996
+Clark W. Barrett , David L. Dill , Jeremy R. Levitt, A decision procedure for bit-vector arithmetic, Proceedings of the 35th annual Design Automation Conference, p.522-527, June 15-19, 1998, San Francisco, California, USA[doi>10.1145/277044.277186]
+Clark W. Barrett , David L. Dill , Aaron Stump, Checking Satisfiability of First-Order Formulas by Incremental Translation to SAT, Proceedings of the 14th International Conference on Computer Aided Verification, p.236-249, July 27-31, 2002
+Clark W. Barrett , David L. Dill , Aaron Stump, A Generalization of Shostak's Method for Combining Decision Procedures, Proceedings of the 4th International Workshop on Frontiers of Combining Systems, p.132-146, April 08-10, 2002
+W. Bibel , E. Eder, Methods and calculi for deduction, Handbook of logic in artificial intelligence and logic programming (vol. 1), Oxford University Press, Inc., New York, NY, 1993
+Chvatal, V. 1983. Linear Programming. W H Freeman & Co.
+Sylvain Conchon , Sava Krstic, Strategies for combining decision procedures, Proceedings of the 9th international conference on Tools and algorithms for the construction and analysis of systems, April 07-11, 2003, Warsaw, Poland
+Crocker, S. 1988. Comparison of Shostak's and Oppen's solvers. Unpublished manuscript.
+Dantzig, G. B. 1963. Linear Programming and Extensions. Princeton University Press, Princeton, NJ.
+de Moura, L., and Ruess, H. 2002. Lemmas on demand for satisfiability solvers. In Proceedings of the Fifth International Symposium on the Theory and Applications of Satisfiability Testing.
+de Moura, L. M., and Ruess, H. 2004. An experimental evaluation of ground decision procedures. In Proceedings of the 16th International Conference on Computer Aided Verification (CAV), R. Alur and D. A. Peled, Eds. Lecture Notes in Computer Science, vol. 3114. Springer, 162--174. See http://www.csl.sri.com/users/demoura/gdp-benchmarks.html for benchmarks and additional results.
+Detlefs, D., and Moir, M. 2000. Mechanical proofs of correctness for dcas-based concurrent deques. Available at http://research.sun.com/jtech/pubs/00-deque1-proof.html.
+Detlefs, D., Nelson, G., and Saxe, J. B. 2003a. Simplify benchmarks. Available at http://www. hpl.hp.com/research/src/esc/simplify_benchmarks.tar.gz. These benchmarks are also available in the appendix to the online version of this article, available via the ACM Digital Library.
+Detlefs, D., Nelson, G., and Saxe, J. B. 2003b. Simplify source code. Available at http://www. research.compaq.com/downloads.html as part of the Java Programming Toolkit Source Release.
+Detlefs, D. L., Leino, K. R. M., Nelson, G., and Saxe, J. B. 1998. Extended static checking. Research Report 159, Compaq Systems Research Center, Palo Alto, USA. December. Available at http://www.hpl.hp.com/techreports/Compaq-DEC/SRC-RR-159.html.
+Peter J. Downey , Ravi Sethi , Robert Endre Tarjan, Variations on the Common Subexpression Problem, Journal of the ACM (JACM), v.27 n.4, p.758-771, Oct. 1980[doi>10.1145/322217.322228]
+Flanagan, C., Joshi, R., Ou, X., and Saxe, J. B. 2003. Theorem proving using lazy proof explication. In Proceedings of the 15th International Conference on Computer Aided Verification. 355--367.
+Cormac Flanagan , K. Rustan M. Leino , Mark Lillibridge , Greg Nelson , James B. Saxe , Raymie Stata, Extended static checking for Java, Proceedings of the ACM SIGPLAN 2002 Conference on Programming language design and implementation, June 17-19, 2002, Berlin, Germany[doi>10.1145/512529.512558]
+Bernard A. Galler , Michael J. Fisher, An improved equivalence algorithm, Communications of the ACM, v.7 n.5, p.301-303, May 1964[doi>10.1145/364099.364331]
+Harald Ganzinger, Shostak Light, Proceedings of the 18th International Conference on Automated Deduction, p.332-346, July 27-30, 2002
+Ganzinger, H., Ruess, H., and Shankar, N. 2004. Modularity and refinement in inference systems. CSL Technical Report CSL-SRI-04-02, SRI. Dec. Available at ftp://ftp.csl.sri.com/pub/users/shankar/modularity.ps.gz.
+Luís Guerra e Silva , L. Miguel Silveira , Joöa Marques-Silva, Algorithms for solving Boolean satisfiability in combinational circuits, Proceedings of the conference on Design, automation and test in Europe, p.107-es, January 1999, Munich, Germany[doi>10.1145/307418.307557]
+Gulwani, S., and Necula, G. C. 2003. A randomized satisfiability procedure for arithmetic and uninterpreted function symbols. In 19th International Conference on Automated Deduction. LNCS, vol. 2741. Springer-Verlag, 167--181.
+Rajeev Joshi , Greg Nelson , Keith Randall, Denali: a goal-directed superoptimizer, Proceedings of the ACM SIGPLAN 2002 Conference on Programming language design and implementation, June 17-19, 2002, Berlin, Germany[doi>10.1145/512529.512566]
+Donald E. Knuth, The art of computer programming, volume 1 (3rd ed.): fundamental algorithms, Addison Wesley Longman Publishing Co., Inc., Redwood City, CA, 1997
+Knuth, D. E., and Schönhage, A. 1978. The expected linearity of a simple equivalence algorithm. Theoretical Computer Science 6, 3 (June), 281--315.
+Dexter Kozen, Complexity of finitely presented algebras, Proceedings of the ninth annual ACM symposium on Theory of computing, p.164-177, May 04-04, 1977, Boulder, Colorado, USA[doi>10.1145/800105.803406]
+Krstić, S., and Conchon, S. 2003. Canonization for disjoint unions of theories. In Proceedings of the 19th International Conference on Automated Deduction (CADE-19), F. Baader, Ed. Lecture Notes in Computer Science, vol. 2741. Springer Verlag.
+B Liskov , E Moss , A Snyder , R Atkinson , J C. Schaffert , T Bloom , R Scheifler, CLU reference manual, Springer-Verlag New York, Inc., New York, NY, 1984
+Donald W Loveland, Automated theorem proving: A logical basis (Fundamental studies in computer science), sole distributor for the U.S.A. and Canada, Elsevier North-Holland, 1978
+Marcus, L. 1981. A comparison of two simplifiers. Microver Note 94, SRI. January.
+Marriott, K., and Stuckey, P. J. 1998. Programming with Constraints: An Introduction. MIT Press, Cambridge, MA.
+McCarthy, J. 1963. Towards a mathematical science of computation. In Information Processing: The 1962 IFIP Congress. 21--28.
+Millstein, T. 1999. Toward more informative ESC/Java warning messages. In Compaq SRC Technical Note 1999-003. Available at http://www.hpl.hp.com/techreports/Compaq-DEC/SRC-TN-1999-003.html.
+Matthew W. Moskewicz , Conor F. Madigan , Ying Zhao , Lintao Zhang , Sharad Malik, Chaff: engineering an efficient SAT solver, Proceedings of the 38th annual Design Automation Conference, p.530-535, June 2001, Las Vegas, Nevada, USA[doi>10.1145/378239.379017]
+George Ciprian Necula , Peter Lee, Compiling with proofs, Carnegie Mellon University, Pittsburgh, PA, 1998
+George C. Necula , Peter Lee, Proof Generation in the Touchstone Theorem Prover, Proceedings of the 17th International Conference on Automated Deduction, p.25-44, June 17-20, 2000
+Charles Gregory Nelson, Techniques for program verification, Stanford University, Stanford, CA, 1980
+Nelson, G. 1981. Techniques for program verification. Technical Report CSL-81-10, Xerox PARC Computer Science Laboratory. June.
+Nelson, G. 1983. Combining satisfiability procedures by equality-sharing. In Automatic Theorem Proving: After 25 Years, W. W. Bledsoe and D. W. Loveland, Eds. American Mathematical Society, 201--211.
+Greg Nelson , Derek C. Oppen, Simplification by Cooperating Decision Procedures, ACM Transactions on Programming Languages and Systems (TOPLAS), v.1 n.2, p.245-257, Oct. 1979[doi>10.1145/357073.357079]
+Greg Nelson , Derek C. Oppen, Fast Decision Procedures Based on Congruence Closure, Journal of the ACM (JACM), v.27 n.2, p.356-364, April 1980[doi>10.1145/322186.322198]
+Sam Owre , John M. Rushby , Natarajan Shankar, PVS: A Prototype Verification System, Proceedings of the 11th International Conference on Automated Deduction: Automated Deduction, p.748-752, June 15-18, 1992
+Rabin, M. O. 1981. Fingerprinting by random polynomials. Technical Report TR-15-81, Center for Research in Computing Technology, Harvard University.
+Harald Rueβ , Natarajan Shankar, Deconstructing Shostak, Proceedings of the 16th Annual IEEE Symposium on Logic in Computer Science, p.19, June 16-19, 2001
+Schmitt, P. H. 2003. Personal communication (email message to Greg Nelson).
+Shankar, N. 2003. Personal communication (email message to James B. Saxe).
+Natarajan Shankar , Harald Rueß, Combining Shostak Theories, Proceedings of the 13th International Conference on Rewriting Techniques and Applications, p.1-18, July 22-24, 2002
+Robert E. Shostak, A Practical Decision Procedure for Arithmetic with Function Symbols, Journal of the ACM (JACM), v.26 n.2, p.351-360, April 1979[doi>10.1145/322123.322137]
+Robert E. Shostak, Deciding Combinations of Theories, Journal of the ACM (JACM), v.31 n.1, p.1-12, Jan. 1984[doi>10.1145/2422.322411]
+João P. Marques-Silva , Karem A. Sakallah, GRASP: A Search Algorithm for Propositional Satisfiability, IEEE Transactions on Computers, v.48 n.5, p.506-521, May 1999[doi>10.1109/12.769433]
+Stallman, R. M., and Sussman, G. J. 1977. Forward reasoning and dependency-directed backtracking in a system for computer-aided circuit analysis. Artificial Intelligence 9, 2 (Oct.), 135--196.
+Stuckey, P. J. 1991. Incremental linear constraint solving and detection of implicit equalities. ORSA Journal on Computing 3, 4, 269--274.
+Aaron Stump , Clark W. Barrett , David L. Dill , Jeremy Levitt, A Decision Procedure for an Extensional Theory of Arrays, Proceedings of the 16th Annual IEEE Symposium on Logic in Computer Science, p.29, June 16-19, 2001
+Robert Endre Tarjan, Efficiency of a Good But Not Linear Set Union Algorithm, Journal of the ACM (JACM), v.22 n.2, p.215-225, April 1975[doi>10.1145/321879.321884]
+Tinelli, C., and Harandi, M. T. 1996. A new correctness proof of the Nelson-Oppen combination procedure. In Frontiers of Combining Systems: Proceedings of the 1st International Workshop, F. Baader and K. U. Schulz, Eds. Kluwer Academic Publishers, Munich, 103--120.
+Andrew Chi-chih Yao, On the average behavior of set merging algorithms (Extended Abstract), Proceedings of the eighth annual ACM symposium on Theory of computing, p.192-195, May 03-05, 1976, Hershey, Pennsylvania, USA[doi>10.1145/800113.803648]
+Hantao Zhang, SATO: An Efficient Propositional Prover, Proceedings of the 14th International Conference on Automated Deduction, p.272-275, July 13-17, 1997

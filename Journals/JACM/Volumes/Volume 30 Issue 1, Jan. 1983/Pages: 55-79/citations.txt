@@ -1,0 +1,76 @@
+Rajeev Rastogi , Henry F. Korth , Abraham Silberschatz, Strict histories in object-based database systems, Proceedings of the twelfth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.288-299, May 25-28, 1993, Washington, D.C., United States
+Gael N. Buckley , Avi Silberschatz, Concurrency control in graph protocols by using edge locks, Proceedings of the 3rd ACM SIGACT-SIGMOD symposium on Principles of database systems, April 02-04, 1984, Waterloo, Ontario, Canada
+Bernd Walter, Nested Transactions with Multiple Commit Points: An Approach to the Structuring of Advanced Database Applications, Proceedings of the 10th International Conference on Very Large Data Bases, p.161-171, August 27-31, 1984
+Henry F. Korth, Edge locks and deadlock avoidance in distributed systems, Proceedings of the first ACM SIGACT-SIGOPS symposium on Principles of distributed computing, p.173-182, August 18-20, 1982, Ottawa, Canada
+H. K. Korth , G. Speegle, Formal model of correctness without serializabilty, ACM SIGMOD Record, v.17 n.3, p.379-386, June 1988
+Gang Luo, V locking protocol for materialized aggregate join views on B-tree indices, Proceedings of the 11th international conference on Web-age information management, July 15-17, 2010, Jiuzhaigou, China
+Tomoaki Kaneda , Youhei Tanaka , Tomoya Enokido , Makoto Takizawa, Transactional agent model for fault-tolerant object systems, Proceedings of the 2005 ACM symposium on Applied computing, March 13-17, 2005, Santa Fe, New Mexico
+Henry F. Korth, Deadlock freedom using edge locks, ACM Transactions on Database Systems (TODS), v.7 n.4, p.632-652, Dec. 1982
+Divyakant Agrawal , Amr El Abbadi, Locks with constrained sharing (extended abstract), Proceedings of the ninth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.85-93, April 02-04, 1990, Nashville, Tennessee, United States
+Goetz Graefe , Mark Lillibridge , Harumi Kuno , Joseph Tucek , Alistair Veitch, Controlled lock violation, Proceedings of the 2013 ACM SIGMOD International Conference on Management of Data, June 22-27, 2013, New York, New York, USA
+Henry F. Korth , Eliezer Levy , Abraham Silberschatz, A Formal Approach to Recovery by Compensating Transactions, Proceedings of the 16th International Conference on Very Large Data Bases, p.95-106, August 13-16, 1990
+Man H. Wong , Divyakant Agrawal, Context-based synchronization: an approach beyond semantics for concurrency control, Proceedings of the twelfth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.276-287, May 25-28, 1993, Washington, D.C., United States
+Dimitar Dimitrov , Veselin Raychev , Martin Vechev , Eric Koskinen, Commutativity race detection, Proceedings of the 35th ACM SIGPLAN Conference on Programming Language Design and Implementation, June 09-11, 2014, Edinburgh, United Kingdom
+Takao Komiya , Tomoya Enokido , Makoto Takizawa, Mobile agent model for transaction processing on distributed objects, Information Sciences—Informatics and Computer Science: An International Journal, v.154 n.1-2, p.23-38, August 2003
+W. E. Weihl, The impact of recovery on concurrency control, Proceedings of the eighth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.259-269, March 1989, Philadelphia, Pennsylvania, United States
+Gregory D. Speegle , Andrew L. Gordon, Quantifying the benefits of semantics, Proceedings of the 1992 ACM annual conference on Communications, p.423-430, March 03-05, 1992, Kansas City, Missouri, United States
+Gang Luo , Jeffrey F. Naughton , Curt J. Ellmann , Michael W. Watzke, Locking Protocols for Materialized Aggregate Join Views, IEEE Transactions on Knowledge and Data Engineering, v.17 n.6, p.796-807, June 2005
+Man Hon Wong, Recovery for transaction failures in object-based databases, Proceedings of the fifteenth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.139-149, June 04-06, 1996, Montreal, Quebec, Canada
+Angelo Brayner, Lock Downgrading: An Approach to Increase Inter-transaction Parallelism in Advanced Database Applications, Proceedings of the 12th International Conference on Database and Expert Systems Applications, p.330-339, September 03-05, 2001, Munich, Germany
+Goetz Graefe , Michael Zwilling, Transaction support for indexed summary views, Proceedings of the 2004 ACM SIGMOD international conference on Management of data, June 13-18, 2004, Paris, France
+Gerhard Weikum, A theoretical foundation of multi-level concurrency control, Proceedings of the fifth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.31-43, March 24-26, 1986, Cambridge, Massachusetts, USA
+Gang Luo , Jeffrey F. Naughton , Curt J. Ellmann , Michael W. Watzke, Locking protocols for materialized aggregate join views, Proceedings of the 29th international conference on Very large data bases, p.596-607, September 09-12, 2003, Berlin, Germany
+M. Roesler , W. A. Burkhard, Semantic lock models in object-oriented distributed systems and deadlock resolution, ACM SIGMOD Record, v.17 n.3, p.361-370, June 1988
+M. H. Eich, Graph Directed Locking, IEEE Transactions on Software Engineering, v.14 n.2, p.133-140, February 1988
+Hans-Jörg Schek , Gerhard Weikum , Haiyan Ye, Towards a unified theory of concurrency control and recovery, Proceedings of the twelfth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.300-311, May 25-28, 1993, Washington, D.C., United States
+Rajeev Rastogi , Sharad Mehrotra , Yuri Breitbart , Henry F. Korth , Avi Silberschatz, On correctness of non-serializable executions, Proceedings of the twelfth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.97-108, May 25-28, 1993, Washington, D.C., United States
+W. E. Weihl, Commutativity-Based Concurrency Control for Abstract Data Types, IEEE Transactions on Computers, v.37 n.12, p.1488-1505, December 1988
+Katsuya Tanaka , Hiroaki Higaki , Makoto Takizawa, Object-Based Checkpoints in Distributed Systems, Proceedings of the 3rd Workshop on Object-Oriented Real-Time Dependable Systems - (WORDS '97), p.9, February 05-07, 1997
+Katsuya Tanaka , Makoto Takizawa, Quorum-Based Locking Protocol in Nested Invocations of Methods, Proceedings of the 12th International Conference on Database and Expert Systems Applications, p.857-866, September 03-05, 2001, Munich, Germany
+D. Agrawal , J. L. Bruno , A. El Abbadi , V. Krishnaswamy, Relative serializability (extended abstract): an approach for relaxing the atomicity of transactions, Proceedings of the thirteenth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.139-149, May 24-27, 1994, Minneapolis, Minnesota, United States
+M. Roesler , W. A. Burkhard, Resolution of Deadlocks in Object-Oriented Distributed Systems, IEEE Transactions on Computers, v.38 n.8, p.1212-1224, August 1989
+Peter M. Schwarz , Alfred Z. Spector, Synchronizing shared abstract types, ACM Transactions on Computer Systems (TOCS), v.2 n.3, p.223-250, Aug. 1984
+M. H. Wong , D. Agrawal, Tolerating bounded inconsistency for increasing concurrency in database systems, Proceedings of the eleventh ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.236-245, June 02-05, 1992, San Diego, California, United States
+B. R. Badrinath , Krithi Ramamritham, Synchronizing Transactions on Objects, IEEE Transactions on Computers, v.37 n.5, p.541-547, May 1988
+Wojciech Cellary , Tadeusz Morzy, Locking with prevention of cyclic and infinite restarting in distributed database systems, Proceedings of the 11th international conference on Very Large Data Bases, p.115-126, August 21-23, 1985, Stockholm, Sweden
+Katsuya Tanaka , Makoto Takizawa, Quorum-Based Protocol for Locking Replicas of Objects, Proceedings of the 2001 International Conference on Computer Networks and Mobile Computing (ICCNMC'01), p.452, October 16-19, 2001
+Goetz Graefe, A survey of B-tree locking techniques, ACM Transactions on Database Systems (TODS), v.35 n.3, p.1-26, July 2010
+William Weihl , Barbara Liskov, Implementation of resilient, atomic data types, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.2, p.244-269, April 1985
+J. E. Allchin , M. S. McKendry, Synchronization and recovery of actions, ACM SIGOPS Operating Systems Review, v.19 n.1, p.32-45, January 1985
+J. E. Allchin , M. S. McKendry, Synchronization and recovery of actions, Proceedings of the second annual ACM symposium on Principles of distributed computing, p.31-44, August 17-19, 1983, Montreal, Quebec, Canada
+Jørgen Løland , Svein-Olaf Hvasshovd, Non-blocking materialized view creation and transformation of schemas, Proceedings of the 10th East European conference on Advances in Databases and Information Systems, September 03-07, 2006, Thessaloniki, Greece
+Maurice Herlihy, Optimistic concurrency control for abstract data types, ACM SIGOPS Operating Systems Review, v.21 n.2, p.33-44, April 1987
+Maurice Herlihy, Optimistic concurrency control for abstract data types, Proceedings of the fifth annual ACM symposium on Principles of distributed computing, p.206-217, August 11-13, 1986, Calgary, Alberta, Canada
+Gerhard Weikum , Christof Hasse , Peter Broessler , Peter Muth, Multi-level recovery, Proceedings of the ninth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.109-123, April 02-04, 1990, Nashville, Tennessee, United States
+Akhil Kumar , Michael Stonebraker, Semantics based transaction management techniques for replicated data, ACM SIGMOD Record, v.17 n.3, p.117-125, June 1988
+D. Agrawal , A. El Abbadi , A. E. Lang, The Performance of Protocols Based on Locks with Ordered Sharing, IEEE Transactions on Knowledge and Data Engineering, v.6 n.5, p.805-818, October 1994
+Eric Koskinen , Matthew Parkinson , Maurice Herlihy, Coarse-grained transactions, ACM SIGPLAN Notices, v.45 n.1, January 2010
+Maurice Herlihy , Eric Koskinen, Transactional boosting: a methodology for highly-concurrent transactional objects, Proceedings of the 13th ACM SIGPLAN Symposium on Principles and practice of parallel programming, February 20-23, 2008, Salt Lake City, UT, USA
+Alfred Z. Spector , Peter M. Schwarz, Transactions: a construct for reliable distributed computing, ACM SIGOPS Operating Systems Review, v.17 n.2, p.18-35, April 1983
+Suh-Yin Lee , Ruey-Long Liou, A Multi-Granularity Locking Model for Concurrency Control in Object-Oriented Database Systems, IEEE Transactions on Knowledge and Data Engineering, v.8 n.1, p.144-156, February 1996
+Jørgen Løland , Svein-Olaf Hvasshovd, Online, non-blocking relational schema changes, Proceedings of the 10th international conference on Advances in Database Technology, March 26-31, 2006, Munich, Germany
+Maurice Herlihy, Comparing how atomicity mechanisms support replication, Proceedings of the fourth annual ACM symposium on Principles of distributed computing, p.102-110, August 1985, Minaki, Ontario, Canada
+Maurice Herlihy, Comparing how atomicity mechanisms support replication, ACM SIGOPS Operating Systems Review, v.20 n.3, p.31-39, July, 1986
+Sven Helmer , Carl-Christian Kanne , Guido Moerkotte, Evaluating lock-based protocols for cooperation on XML documents, ACM SIGMOD Record, v.33 n.1, March 2004
+Man Hon Wong , Divyakant Agrawal , Hang Kwong Mak, Bounded Inconsistency for Type-Specific Concurrency Control, Distributed and Parallel Databases, v.5 n.1, p.31-75, Jan. 1997
+Yuh-Jzer Joung, Asynchronous group mutual exclusion, Distributed Computing, v.13 n.4, p.189-206, November 2000
+B. R. Badrinath , Krithi Ramamritham, Semantics-based concurrency control: beyond commutativity, ACM Transactions on Database Systems (TODS), v.17 n.1, p.163-199, March 1992
+Jonathan Munson , Prasun Dewan, A concurrency control framework for collaborative systems, Proceedings of the 1996 ACM conference on Computer supported cooperative work, p.278-287, November 16-20, 1996, Boston, Massachusetts, United States
+Guy Golan-Gueta , G. Ramalingam , Mooly Sagiv , Eran Yahav, Concurrent libraries with foresight, ACM SIGPLAN Notices, v.48 n.6, June 2013
+Peter Muth, Application Specific Transaction Management in MultidatabaseSystems, Distributed and Parallel Databases, v.5 n.4, p.357-403, Oct. 1997
+Gerhard Weikum , Hans-Jörg Schek, Architectural Issues of Transaction Management in Multi-Layered Systems, Proceedings of the 10th International Conference on Very Large Data Bases, p.454-465, August 27-31, 1984
+Joshua J. Bloch , Dean S. Daniels , Alfred Z. Spector, A weighted voting algorithm for replicated directories, Journal of the ACM (JACM), v.34 n.4, p.859-909, Oct. 1987
+Divyakant Agrawal , Amr El Abbadi , Ambuj K. Singh, Consistency and orderability: semantics-based correctness criteria for databases, ACM Transactions on Database Systems (TODS), v.18 n.3, p.460-486, Sept. 1993
+Peng Liu , Paul Ammann , Sushil Jajodia, Rewriting Histories: Recovering from Malicious Transactions, Distributed and Parallel Databases, v.8 n.1, p.7-40, Jan. 2000
+Maurice Herlihy, Concurrency versus availability: atomicity mechanisms for replicated data, ACM Transactions on Computer Systems (TOCS), v.5 n.3, p.249-274, Aug. 1987
+Henry F. Korth , Greg Speegle, Formal aspects of concurrency control in long-duration transaction systems using the NT/PV model, ACM Transactions on Database Systems (TODS), v.19 n.3, p.492-535, Sept. 1994
+Natalija Krivokapić , Alfons Kemper , Ehud Gudes, Deadlock detection in distributed database systems: a new algorithm and a comparative performance analysis, The VLDB Journal — The International Journal on Very Large Data Bases, v.8 n.2, p.79-100, October 1999
+Henry F. Korth, The Double Life of the Transaction Abstraction: Fundamental Principle and Evolving System Concept, Proceedings of the 21th International Conference on Very Large Data Bases, p.2-6, September 11-15, 1995
+Partha Dasgupta , Zvi M. Kedem, Thefive colorconcurrency control protocol: non-two-phase locking in general databases, ACM Transactions on Database Systems (TODS), v.15 n.2, p.281-307, June 1990
+M. Herlihy, Apologizing versus asking permission: optimistic concurrency control for abstract data types, ACM Transactions on Database Systems (TODS), v.15 n.1, p.96-124, March 1990
+M. Herlihy, Concurrency and availability as dual properties of replicated atomic data, Journal of the ACM (JACM), v.37 n.2, p.257-278, April 1990
+Kuen-Fang Jea , Tsui-Ping Chang , Chia-Wen Cheng, A generic simulation model for evaluating concurrency control protocols in native XML database systems, Computer Standards & Interfaces, v.33 n.3, p.280-291, March, 2011
+Alfred Z. Spector , Dean Daniels , Daniel Duchamp , Jeffrey L. Eppinger , Randy Pausch, Distributed transactions for reliable systems, ACM SIGOPS Operating Systems Review, v.19 n.5, p.127-146, Dec. 1-4, 1985
+C. Mohan , Don Haderle , Bruce Lindsay , Hamid Pirahesh , Peter Schwarz, ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging, ACM Transactions on Database Systems (TODS), v.17 n.1, p.94-162, March 1992
+Gerhard Weikum, Principles and realization strategies of multilevel transaction management, ACM Transactions on Database Systems (TODS), v.16 n.1, p.132-180, March 1991
+Goetz Graefe, Modern B-Tree Techniques, Foundations and Trends in Databases, v.3 n.4, p.203-402, April 2011

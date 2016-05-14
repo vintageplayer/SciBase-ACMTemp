@@ -1,0 +1,1 @@
+To construct a short tour through points in the plane, the points are sequenced as they appear along a spacefilling curve. This heuristic consists essentially of sorting, so it is easily coded and requires onlyO(N) memory andO(NlogN) operations. Its performance is competitive with that of other fast methods.

@@ -1,0 +1,38 @@
+Karl Abrahamson, On achieving consensus using a shared memory, Proceedings of the seventh annual ACM Symposium on Principles of distributed computing, p.291-302, August 15-17, 1988, Toronto, Ontario, Canada[doi>10.1145/62546.62594]
+Alon, N., and Spencer, J. H. 2000. The Probabilistic Method, 2nd ed. Wiley, New York.
+James Aspnes, Time-and space-efficient randomized consensus, Proceedings of the ninth annual ACM symposium on Principles of distributed computing, p.325-331, August 22-24, 1990, Quebec City, Quebec, Canada[doi>10.1145/93385.93433]
+James Aspnes, Lower bounds for distributed coin-flipping and randomized consensus, Journal of the ACM (JACM), v.45 n.3, p.415-450, May 1998[doi>10.1145/278298.278304]
+James Aspnes, Randomized protocols for asynchronous consensus, Distributed Computing, v.16 n.2-3, p.165-175, September 2003[doi>10.1007/s00446-002-0081-5]
+James Aspnes , Hagit Attiya , Keren Censor, Randomized consensus in expected O(n log n) individual work, Proceedings of the twenty-seventh ACM symposium on Principles of distributed computing, August 18-21, 2008, Toronto, Canada[doi>10.1145/1400751.1400794]
+James Aspnes , M. Herlihy, Fast randomized consensus using shared memory, Journal of Algorithms, v.11 n.3, p.441-461, Sep. 1990[doi>10.1016/0196-6774(90)90021-6]
+James Aspnes , Orli Waarts, Randomized Consensus in Expected   O(n log^ 2 n) Operations Per Processor, SIAM Journal on Computing, v.25 n.5, p.1024-1044, Oct. 1996[doi>10.1137/S0097539792240881]
+Hagit Attiya , Keren Censor, Lower bounds for randomized consensus under a weak adversary, Proceedings of the twenty-seventh ACM symposium on Principles of distributed computing, August 18-21, 2008, Toronto, Canada[doi>10.1145/1400751.1400793]
+H. Attiya , D. Dolev , N. Shavit, Bounded polynomial randomized consensus, Proceedings of the eighth annual ACM Symposium on Principles of distributed computing, p.281-293, June 1989, Edmonton, Alberta, Canada[doi>10.1145/72981.73001]
+Hagit Attiya , Jennifer Welch, Distributed Computing: Fundamentals, Simulations and Advanced Topics, John Wiley & Sons, 2004
+Yonatan Aumann, Efficient asynchronous consensus with the weak adversary scheduler, Proceedings of the sixteenth annual ACM symposium on Principles of distributed computing, p.209-218, August 21-24, 1997, Santa Barbara, California, USA[doi>10.1145/259380.259441]
+Yonatan Aumann , Michael A. Bender, Efficient low-contention asynchronous consensus with the value-oblivious adversary scheduler, Distributed Computing, v.17 n.3, p.191-207, March 2005[doi>10.1007/s00446-004-0113-4]
+Yonatan Aumann , Avivit Kapah-Levy, Cooperative sharing and asynchronous consensus using single-reader single-writer registers, Proceedings of the tenth annual ACM-SIAM symposium on Discrete algorithms, p.61-70, January 17-19, 1999, Baltimore, Maryland, USA
+Ziv Bar-Joseph , Michael Ben-Or, A tight lower bound for randomized synchronous consensus, Proceedings of the seventeenth annual ACM symposium on Principles of distributed computing, p.193-199, June 28-July 02, 1998, Puerto Vallarta, Mexico[doi>10.1145/277697.277733]
+Michael Ben-Or , Elan Pavlov , Vinod Vaikuntanathan, Byzantine agreement in the full-information model in O(log n) rounds, Proceedings of the thirty-eighth annual ACM symposium on Theory of computing, May 21-23, 2006, Seattle, WA, USA[doi>10.1145/1132516.1132543]
+Gabriel Bracha , Ophir Rachman, Randomized Consensus in Expected O(n²log n) Operations, Proceedings of the 5th International Workshop on Distributed Algorithms, p.143-150, October 07-09, 1991
+Tushar Deepak Chandra, Polylog randomized wait-free consensus, Proceedings of the fifteenth annual ACM symposium on Principles of distributed computing, p.166-175, May 23-26, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/248052.248083]
+Benny Chor , Amos Israeli , Ming Li, On processor coordination using asynchronous hardware, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.86-97, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41848]
+Dolev, D., and Strong, H. R. 1983. Authenticated algorithms for byzantine agreement. SIAM J. Comput. 12, 4, 656--666.
+Feller, W. 1968. An Introduction to Probability Theory and Its Applications, 3rd ed. Vol. 1. Wiley, New York.
+Fischer, M. J., and Lynch, N. A. 1982. A lower bound for the time to assure interactive consistency. Inf. Process. Lett. 14, 4, 183--186.
+Michael J. Fischer , Nancy A. Lynch , Michael S. Paterson, Impossibility of distributed consensus with one faulty process, Journal of the ACM (JACM), v.32 n.2, p.374-382, April 1985[doi>10.1145/3149.214121]
+Shafi Goldwasser , Elan Pavlov , Vinod Vaikuntanathan, Fault-Tolerant Distributed Computing in Full-Information Networks, Proceedings of the 47th Annual IEEE Symposium on Foundations of Computer Science, p.15-26, October 21-24, 2006[doi>10.1109/FOCS.2006.30]
+Maurice Herlihy, Wait-free synchronization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.1, p.124-149, Jan. 1991[doi>10.1145/114005.102808]
+Bruce Kapron , David Kempe , Valerie King , Jared Saia , Vishal Sanwalani, Fast asynchronous byzantine agreement and leader election with full information, Proceedings of the nineteenth annual ACM-SIAM symposium on Discrete algorithms, p.1038-1047, January 20-22, 2008, San Francisco, California
+Valerie King , Jared Saia , Vishal Sanwalani , Erik Vee, Scalable leader election, Proceedings of the seventeenth annual ACM-SIAM symposium on Discrete algorithm, p.990-999, January 22-26, 2006, Miami, Florida[doi>10.1145/1109557.1109667]
+Valerie King , Jared Saia , Vishal Sanwalani , Erik Vee, Towards Secure and Scalable Computation in Peer-to-Peer Networks, Proceedings of the 47th Annual IEEE Symposium on Foundations of Computer Science, p.87-98, October 21-24, 2006[doi>10.1109/FOCS.2006.77]
+Leslie Lamport, The part-time parliament, ACM Transactions on Computer Systems (TOCS), v.16 n.2, p.133-169, May 1998[doi>10.1145/279227.279229]
+Loui, M. C., and Abu-Amara, H. H. 1987. Memory Requirements for Agreement Among Unreliable Asynchronous Processes. JAI Press, Greenwich, Conn., 163--183.
+Nancy A. Lynch, Distributed Algorithms, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1996
+Yoram Moses , Sergio Rajsbaum, A Layered Analysis of Consensus, SIAM Journal on Computing, v.31 n.4, p.989-1021, 2002[doi>10.1137/S0097539799364006]
+Rajeev Motwani , Prabhakar Raghavan, Randomized algorithms, Cambridge University Press, New York, NY, 1995
+Michel RAYNAL , Matthieu v, A Note on a Simple Equivalence between Round-based Synchronous and Asynchronous Models, Proceedings of the 11th Pacific Rim International Symposium on Dependable Computing, p.387-392, December 12-14, 2005[doi>10.1109/PRDC.2005.10]
+Michael Saks , Nir Shavit , Heather Woll, Optimal time randomized consensus—making resilient algorithms fast in practice, Proceedings of the second annual ACM-SIAM symposium on Discrete algorithms, p.351-362, January 28-30, 1991, San Francisco, California, USA
+Nicola Santoro , Peter Widmayer, Time is Not a Healer, Proceedings of the 6th Annual Symposium on Theoretical Aspects of Computer Science, p.304-313, February 16-18, 1989
+Schechtman, G. 1981. Levy type inequality for a class of finitie metric spaces. In Lecture Notes in Mathematics: Martingle Theory in Harmonic Analysis and Banach Spaces. Vol. 939. Springer-Verlag, Berlin/Heidelberg, Germany 211--215.
+Fred B. Schneider, Implementing fault-tolerant services using the state machine approach: a tutorial, ACM Computing Surveys (CSUR), v.22 n.4, p.299-319, Dec. 1990[doi>10.1145/98163.98167]

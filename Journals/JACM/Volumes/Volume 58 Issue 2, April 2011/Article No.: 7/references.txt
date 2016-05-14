@@ -1,0 +1,28 @@
+Afek, Y., Attiya, H., Dolev, D., Gafni, E., Merritt, M., and Shavit, N. 1993. Atomic snapshots of shared memory. J. ACM 40, 4, 873--890.
+Hagit Attiya , Amotz Bar-Noy , Danny Dolev, Sharing memory robustly in message-passing systems, Journal of the ACM (JACM), v.42 n.1, p.124-142, Jan. 1995[doi>10.1145/200836.200869]
+Birman, K., Malkhi, D., and van Renesse, R. 2010. Virtually synchronous methodology for dynamic service replication. Tech. rep. MSR-TR-2010-151.
+Tushar Deepak Chandra , Vassos Hadzilacos , Sam Toueg , Bernadette Charron-Bost, On the impossibility of group membership, Proceedings of the fifteenth annual ACM symposium on Principles of distributed computing, p.322-330, May 23-26, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/248052.248120]
+Gregory Chockler , Seth Gilbert , Vincent Gramoli , Peter M. Musial , Alex A. Shvartsman, Reconfigurable distributed storage for dynamic networks, Proceedings of the 9th international conference on Principles of Distributed Systems, December 12-14, 2005, Pisa, Italy[doi>10.1007/11795490_27]
+Gregory V. Chockler , Idit Keidar , Roman Vitenberg, Group communication specifications: a comprehensive study, ACM Computing Surveys (CSUR), v.33 n.4, p.427-469, December 2001[doi>10.1145/503112.503113]
+Cormen, T. T., Leiserson, C. E., and Rivest, R. L. 1990. Introduction to Algorithms. MIT Press, Cambridge, MA.
+Davcev, D., and Burkhard, W. 1985. Consistency and recovery control for replicated files. In Proceedings of the 10th ACM SIGOPS Symposium on Operating Systems Principles (SOSP). 87--96.
+Carole Delporte-Gallet , Hugues Fauconnier , Rachid Guerraoui, Tight failure detection bounds on atomic object implementations, Journal of the ACM (JACM), v.57 n.4, p.1-32, April 2010[doi>10.1145/1734213.1734216]
+El Abbadi, A., and Dani, S. 1991. A dynamic accessibility protocol for replicated databases. Data and Knowl. Eng. 6, 319--332.
+Burkhard Englert , Alexander A. Shvartsman, Graceful Quorum Reconfiguration in a Robust Emulation of Shared Memory, Proceedings of the The 20th International Conference on Distributed Computing Systems ( ICDCS 2000), p.454, April 10-13, 2000
+Gilbert, S., Lynch, N., and Shvartsman, A. 2003. Rambo II: Rapidly reconfigurable atomic memory for dynamic networks. In Proceedings of the 17th International Symposium on Distributed Computing (DISC). 259--268.
+Herlihy, M. P., and Wing, J. M. 1990. Linearizability: a correctness condition for concurrent objects. ACM Trans. Program. Lang. Syst. 12, 3, 463--492.
+Lamport, L. 1986. On interprocess communication -- part II: Algorithms. Distrib. Comput. 1, 2, 86--101.
+Leslie Lamport, The part-time parliament, ACM Transactions on Computer Systems (TOCS), v.16 n.2, p.133-169, May 1998[doi>10.1145/279227.279229]
+Leslie Lamport , Dahlia Malkhi , Lidong Zhou, Vertical paxos and primary-backup replication, Proceedings of the 28th ACM symposium on Principles of distributed computing, August 10-12, 2009, Calgary, AB, Canada[doi>10.1145/1582716.1582783]
+Edward K. Lee , Chandramohan A. Thekkath, Petal: distributed virtual disks, Proceedings of the seventh international conference on Architectural support for programming languages and operating systems, p.84-92, October 01-04, 1996, Cambridge, Massachusetts, USA[doi>10.1145/237090.237157]
+N. A. Lynch , A. A. Shvartsman, Robust emulation of shared memory using dynamic quorum-acknowledged broadcasts, Proceedings of the 27th International Symposium on Fault-Tolerant Computing (FTCS '97), p.272, June 25-27, 1997
+Nancy A. Lynch, Distributed Algorithms, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1996
+Nancy A. Lynch , Alexander A. Shvartsman, RAMBO: A Reconfigurable Atomic Memory Service for Dynamic Networks, Proceedings of the 16th International Conference on Distributed Computing, p.173-190, October 28-30, 2002
+MacCormick, J., Murphy, N., Najork, M., Thekkath, C. A., and Zhou, L. 2004. Boxwood: Abstractions as the foundation for storage infrastructure. In Proceedings of the 6th Symposium on Operating Systems Design and Implementation (OSDI 04). 105--120.
+Jean-Philippe Martin , Lorenzo Alvisi, A Framework for Dynamic Byzantine Storage, Proceedings of the 2004 International Conference on Dependable Systems and Networks, p.325, June 28-July 01, 2004
+Paris, J., and Long, D. 1988. Efficient dynamic voting algorithms. In Proceedings of the 13th International Conference on Very Large Data Bases (VLDB). 268--275.
+Rodrigues, R., and Liskov, B. 2003. Rosebud: A scalable byzantine-fault-tolerant storage architecture. Tech. rep. TR/932, MIT LCS.
+Rodrigo Rodrigues , Barbara Liskov, Brief announcement: reconfigurable byzantine-fault-tolerant atomic memory, Proceedings of the twenty-third annual ACM symposium on Principles of distributed computing, July 25-28, 2004, St. John's, Newfoundland, Canada[doi>10.1145/1011767.1011847]
+Schneider, F. B. 1990. Implementing fault-tolerant services using the state machine approach: a tutorial. ACM Comput. Surv. 22, 4, 299--319.
+Robbert van Renesse , Fred B. Schneider, Chain replication for supporting high throughput and availability, Proceedings of the 6th conference on Symposium on Opearting Systems Design & Implementation, p.7-7, December 06-08, 2004, San Francisco, CA
+Danny Dolev , Idit Keidar , Esti Yeger Lotem, Dynamic voting for consistent primary components, Proceedings of the sixteenth annual ACM symposium on Principles of distributed computing, p.63-71, August 21-24, 1997, Santa Barbara, California, USA[doi>10.1145/259380.259424]

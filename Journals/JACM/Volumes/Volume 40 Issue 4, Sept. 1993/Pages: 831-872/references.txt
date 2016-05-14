@@ -1,0 +1,47 @@
+~BARBARA, D., AND GARCIA-MOLINA, H. HOW expensive is data replication? An example. In ~Proceedmgs of the 2nd Intemattonal Conference on Dtstrlbuted Computing ~~'stems (Feb.) IEEE ~Computer Society Press, Los Alamltos, Cahf., 1982, pp. 263 268
+Philip A. Bernstein , Vassco Hadzilacos , Nathan Goodman, Concurrency control and recovery in database systems, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1987
+C. Boksenbaum , M. Cart , J. Ferrié , J.-F. Pons, Concurrent certifications by intervals of timestamps in distributed database systems, IEEE Transactions on Software Engineering, v.13 n.4, p.409-419, April 1987[doi>10.1109/TSE.1987.233178]
+Michael J. Carey , Miron Livny, Distributed Concurrency Control Performance: A Study of Algorithms, Distribution, and Replication, Proceedings of the 14th International Conference on Very Large Data Bases, p.13-25, August 29-September 01, 1988
+W. Cellary , E. Gelenbe , T. Morzy, Concurrency control in distributed database systems, Elsevier Science Inc., New York, NY, 1988
+A. Chesnais , E. Gelenbe , I. Mitrani, On the modeling of parallel access to shared data, Communications of the ACM, v.26 n.3, p.196-202, March 1983[doi>10.1145/358061.358073]
+B. Ciciani , D. M. Dias , B. R. Iyer , P. S. Yu, A hybrid Distributed Centralized System Structure for Transaction Processing, IEEE Transactions on Software Engineering, v.16 n.8, p.791-806, August 1990[doi>10.1109/32.57619]
+Bruno Ciciani , Daniel M. Dias , Philip S. Yu, Analysis of Concurrency-Coherency Control Protocols for Distributed Transaction Processing Systems with Regional Locality, IEEE Transactions on Software Engineering, v.18 n.10, p.899-914, October 1992[doi>10.1109/32.163606]
+B. Ciciani , D. M. Dias , P. S. Yu, Analysis of Replication in Distributed Database Systems, IEEE Transactions on Knowledge and Data Engineering, v.2 n.2, p.247-261, June 1990[doi>10.1109/69.54723]
+D W Cornell , D M Dias , P S Yu, On multisystem coupling through function request shipping, IEEE Transactions on Software Engineering, v.12 n.10, p.1006-1017, Oct. 1986
+Asit Dan , Daniel M. Dias , Philip S. Yu, The effect of skewed data access on buffer hits and data contention in a data sharing environment, Proceedings of the sixteenth international conference on Very large databases, p.418-431, September 1990, Brisbane, Australia
+Asit Dan , Donald F. Towsley , Walter H. Kohler, Modeling the Effects of Data and Resource Contention on the Performance of Optimistic Concurrency Control Protocols, Proceedings of the Fourth International Conference on Data Engineering, p.418-425, February 01-05, 1988
+~DATB, C.J. /In Introducuon to Database S~wtems. Vol. 2. Addison-Wesley, Reading, Mass., ~1983.
+D. M. Dias , B. R. Iyer , P. S. Yu, Tradeoffs Between Coupling Small and Large Processors for Transaction Processing, IEEE Transactions on Computers, v.37 n.3, p.310-320, March 1988[doi>10.1109/12.2168]
+~DIAS, D. M., Yu, P. S, AND BENNE'rT, B.T. On centralized versus geographically distributed ~database systems. In Proceedings of the 7th htternational Conference on Distributed Computing ~&'stems (Berlin, West Germany, Sept.). IEEE Computer Society Press, Los Alamitos, Calif., ~1987, pp. 64 71.
+Peter Franaszek , John T. Robinson, Limitations of concurrency in transaction processing, ACM Transactions on Database Systems (TODS), v.10 n.1, p.1-28, March 1985[doi>10.1145/3148.3160]
+Peter A. Franaszek , John T. Robinson , Alexander Thomasian, Access Invariance and Its Use in High Contention Environments, Proceedings of the Sixth International Conference on Data Engineering, p.47-55, February 05-09, 1990
+Peter A. Franaszek , John T. Robinson , Alexander Thomasian, Wait Depth Limited Concurrency Control, Proceedings of the Seventh International Conference on Data Engineering, p.92-101, April 08-12, 1991
+Hector Garcia-Molina, Performance of update algorithms for replicated data in a distributed database., 1979
+James N. Gray, An approach to decentralized computer systems, IEEE Transactions on Software Engineering, v.12 n.6, p.684-692, June 1986
+~GRAY, J., HOMAN, P., OBERMARCK, R., AND KORTH, H. A straw man analysis of probability ~of waiting and deadlock. IBM Res. Rep. RJ 3066. IBM, Yorktown Heights, N.Y., 1981.
+Carl S. Hartzman, The Delay Due to Dynamic Two-Phase Locking, IEEE Transactions on Software Engineering, v.15 n.1, p.72-82, January 1989[doi>10.1109/32.21728]
+~Hsu, M., AND SHANG, g. Modeling performance impact of hotspots. Tech. Rep. TR-08-88. ~Aiken Computation Laboratory, Harvard University, Cambridge, Mass., Apr. 1988.
+~IYER, B.R. Limits in transaction throughput--Why big is better. IBM Res. Rep. RJ 6584. ~IBM, Yorktown Heights, N.Y., Nov. 1988.
+H. T. Kung , John T. Robinson, On optimistic methods for concurrency control, ACM Transactions on Database Systems (TODS), v.6 n.2, p.213-226, June 1981[doi>10.1145/319566.319567]
+Stephen S. Lavenberg, Computer Performance Modeling Handbook, Academic Press, Inc., Orlando, FL, 1983
+Daniel A. Menascé , Tatuo Nakanishi, Performance evaluation of a two-phase commit based protocol for DDBs, Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database systems, March 29-31, 1982, Los Angeles, California[doi>10.1145/588111.588152]
+~MORRIS, R. J. T., AND WONG, W. S. Performance analysis of locking and optimistic ~concurrency control algorithms. Pelf. Et,al. 5 (1985), 105-t18.
+Daniel J. Rosenkrantz , Richard E. Stearns , Philip M. Lewis, II, System level concurrency control for distributed database systems, ACM Transactions on Database Systems (TODS), v.3 n.2, p.178-198, June 1978[doi>10.1145/320251.320260]
+In Kyung Ryu , Alexander Thomasian, Performance analysis of centralized databases with optimistic concurrency control, Performance Evaluation, v.7 n.3, p.195-211, August 1, 1987[doi>10.1016/0166-5316(87)90040-X]
+~SEVCm, K. C. Comparison of concurrency control methods using analytic models. In ~Information Processing 83, R. E. A. Mason, ed. North-Holland, Amsterdam, The Netherlands, ~1983, pp. 847-858.
+Mukesh Singhal , Yelena Yesha, A polynomial algorithm for computation of the probability of conflicts in a database under arbitrary data access distribution, Information Processing Letters, v.27 n.2, p.69-74, February 29, 1988[doi>10.1016/0020-0190(88)90094-4]
+Yong Chiang Tay, A mean value performance model for locking in databases, 1984
+~TAY, Y.C. Issues in modelling locking performance. In Stochastic Analysis of Computer and ~Communication Systems, H. Takagi, ed. North-Holland, Amsterdam, The Netherlands, 1990, ~pp. 631 655.
+Y. C. Tay , Nathan Goodman , R. Suri, Locking performance in centralized databases, ACM Transactions on Database Systems (TODS), v.10 n.4, p.415-462, Dec. 1985[doi>10.1145/4879.4880]
+Y. C. Tay , Rajan Suri , Nathan Goodman, A mean value performance model for locking in databases: the no-waiting case, Journal of the ACM (JACM), v.32 n.3, p.618-651, July 1985[doi>10.1145/3828.3831]
+C. Thanos , E. Bertino , C. Carlesi, The effects of two-phase locking on the performance of a distributed database management system, Performance Evaluation, v.8 n.2, p.129-157, April 1988[doi>10.1016/0166-5316(88)90018-1]
+~THOMASIAN, A. An iterative solution to the queueing network model of a DBMS with ~dynamic locking. In Proceedmgsof the 13th CMG Conference. Computer Measurement Group, ~Alexandria, Va., 1982, pp. 252 261.
+Alexander Thomasian , In Kyung Ryu, Analysis of some optimistic concurrency control schemes based on certification, ACM SIGMETRICS Performance Evaluation Review, v.13 n.2, p.192-203, Aug. 1985[doi>10.1145/317786.317824]
+Alexander Thomasian , In Kyung Ryu, Performance Analysis of Two-Phase Locking, IEEE Transactions on Software Engineering, v.17 n.5, p.386-402, May 1991[doi>10.1109/32.90443]
+~Yu, P. ~5., AND DIAS, D.M. Fertormance analysib of optimistic concurrency control achcmca ~for systems with large memory. IBM Res. Rep. RC 13976. IBM, Yorktown Heights, N.Y., ~Mar. 1988.
+Philip S. Yu , Daniel M. Dias, Concurrency Control Using Locking with Deferred Blocking, Proceedings of the Sixth International Conference on Data Engineering, p.30-36, February 05-09, 1990
+Philip S. Yu , Daniel M. Dias, Analysis of Hybrid Concurrency Control Schemes for a High Data Contention Environment, IEEE Transactions on Software Engineering, v.18 n.2, p.118-129, February 1992[doi>10.1109/32.121754]
+Philip S. Yu , Douglas W. Cornell , Daniel M. Dias , Balakrishna R. Iyer, Analysis of affinity based routing in multi-system data sharing, Performance Evaluation, v.7 n.2, p.87-109, June 1, 1987[doi>10.1016/0166-5316(87)90025-3]
+Philip S. Yu , Daniel M. Dias , John T. Robinson , Balakrishna R. Iyer , Douglas Cornell, Modelling of centralized concurrency control in a multi-system environment, Proceedings of the 1985 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.183-191, August 1985, Austin, Texas, United States[doi>10.1145/317795.317823]
+~Yu, P. S., alAS, D. M., ROBINSON, J. T., IYER, m. R., AND CORNELL, D.W. On coupling ~multi-systems through data sharing. Proc. IEEE 75, 5 (May 1987l, 573 587
+P. S. Yu , H. -U. Heiss , D. M. Dias, Modeling and Analysis of a Time-Stamp History Based Certification Protocol for Concurrency Control, IEEE Transactions on Knowledge and Data Engineering, v.3 n.4, p.525-537, December 1991[doi>10.1109/69.109112]

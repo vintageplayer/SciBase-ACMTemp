@@ -1,0 +1,75 @@
+R. C. Agarwal , S. M. Balle , F. G. Gustavson , M. Joshi , P. Palkar, A three-dimensional approach to parallel matrix multiplication, IBM Journal of Research and Development, v.39 n.5, p.575-582, Sept. 1995[doi>10.1147/rd.395.0575]
+Alok Aggarwal , Ashok K. Chandra , Marc Snir, Communication complexity of PRAMs, Theoretical Computer Science, v.71 n.1, p.3-28, 13 March 1990[doi>10.1016/0304-3975(90)90188-N]
+Alok Aggarwal , Jeffrey,S. Vitter, The input/output complexity of sorting and related problems, Communications of the ACM, v.31 n.9, p.1116-1127, Sept. 1988[doi>10.1145/48529.48535]
+Nawaaz Ahmed , Keshav Pingali, Automatic Generation of Block-Recursive Codes, Proceedings from the 6th International Euro-Par Conference on Parallel Processing, p.368-378, August 29-September 01, 2000
+Noga Alon , Oded Schwartz , Asaf Shapira, An elementary construction of constant-degree expanders, Combinatorics, Probability and Computing, v.17 n.3, p.319-327, May 2008[doi>10.1017/S0963548307008851]
+E. Anderson , Z. Bai , C. Bischof , J. Demmel , J. Dongarra , J. Du Croz , A. Greenbaum , S. Hammarling , A. McKenney , S. Ostrouchov , D. Sorensen, LAPACK's user's guide, Society for Industrial and Applied Mathematics, Philadelphia, PA, 1992
+Baboulin, M., Demmel, J., Dong, T., Dongarra, J., Horton, M., Jia, Y., Kabir, K., Langou, J., Li, Y., Ltaief, H., Nath, R., Tomov, S., and Volkov, V. 2008--2012. The MAGMA project. University of Tennessee, Department of Electrical Engineering and Computer Science. http://icl.cs.utk.edu/magma/.
+Ballard, G., Demmel, J., and Dumitriu, I. 2011a. Communication-optimal parallel and sequential eigenvalue and singular value algorithms. EECS Tech. rep. EECS-2011-14, University of California, Berkeley.
+Grey Ballard , James Demmel , Andrew Gearhart, Brief announcement: communication bounds for heterogeneous architectures, Proceedings of the 23rd ACM symposium on Parallelism in algorithms and architectures, June 04-06, 2011, San Jose, California, USA[doi>10.1145/1989493.1989531]
+Grey Ballard , James Demmel , Olga Holtz , Benjamin Lipshitz , Oded Schwartz, Brief announcement: strong scaling of matrix multiplication algorithms and memory-independent communication lower bounds, Proceedinbgs of the 24th ACM symposium on Parallelism in algorithms and architectures, June 25-27, 2012, Pittsburgh, Pennsylvania, USA[doi>10.1145/2312005.2312021]
+Grey Ballard , James Demmel , Olga Holtz , Benjamin Lipshitz , Oded Schwartz, Communication-optimal parallel algorithm for strassen's matrix multiplication, Proceedinbgs of the 24th ACM symposium on Parallelism in algorithms and architectures, June 25-27, 2012, Pittsburgh, Pennsylvania, USA[doi>10.1145/2312005.2312044]
+Grey Ballard , James Demmel , Olga Holtz , Benjamin Lipshitz , Oded Schwartz, Graph expansion analysis for communication costs of fast rectangular matrix multiplication, Proceedings of the First Mediterranean conference on Design and Analysis of Algorithms, p.13-36, December 03-05, 2012, Kibbutz Ein Gedi, Israel[doi>10.1007/978-3-642-34862-4_2]
+Grey Ballard , James Demmel , Olga Holtz , Oded Schwartz, Communication-optimal Parallel and Sequential Cholesky Decomposition, SIAM Journal on Scientific Computing, v.32 n.6, p.3495-3523, October 2010[doi>10.1137/090760969]
+Grey Ballard , James Demmel , Olga Holtz , Oded Schwartz, Graph expansion and communication costs of fast matrix multiplication: regular submission, Proceedings of the 23rd ACM symposium on Parallelism in algorithms and architectures, June 04-06, 2011, San Jose, California, USA[doi>10.1145/1989493.1989495]
+Ballard, G., Demmel, J., Holtz, O., and Schwartz, O. 2011d. Minimizing communication in numerical linear algebra. SIAM J. Matrix Anal. Appli. 32, 3, 866--901.
+Ballard, G., Demmel, J., Holtz, O., and Schwartz, O. 2012d. Sequential communication bounds for fast linear algebra. Tech. rep. EECS-2012-36, University of California, Berkeley.
+Michael A. Bender , Gerth Stølting Brodal , Rolf Fagerberg , Riko Jacob , Elias Vicari, Optimal Sparse Matrix Dense Vector Multiplication in the I/O-Model, Theory of Computing Systems, v.47 n.4, p.934-962, November 2010[doi>10.1007/s00224-010-9285-4]
+Gianfranco Bilardi , Andrea Pietracaprina , Paolo D'Alberto, On the Space and Access Complexity of Computation DAGs, Proceedings of the 26th International Workshop on Graph-Theoretic Concepts in Computer Science, p.47-58, June 15-17, 2000
+Bilardi, G. and Preparata, F. 1999. Processor-time tradeoffs under bounded-speed message propagation: Part II, lower bounds. In Theory Comput. Syst. 32, 5, 1432--4350.
+Bini, D. 1980. Relations between exact and approximate bilinear algorithms. applications. Calcolo 17, 87--97. 10.1007/BF02575865.
+Bini, D., Capovani, M., Romani, F., and Lotti, G. 1979.O(n<sup>2.7799</sup>) complexity forn × napproximate matrix multiplication. Inf. Proc. Lett. 8, 5, 234--235.
+Jack J. Dongarra , L. S. Blackford , J. Choi , A. Cleary , E. D'Azeuedo , J. Demmel , I. Dhillon , S. Hammarling , G. Henry , A. Petitet , K. Stanley , D. Walker , R. C. Whaley, ScaLAPACK user's guide, Society for Industrial and Applied Mathematics, Philadelphia, PA, 1997
+Guy E. Blelloch , Rezaul A. Chowdhury , Phillip B. Gibbons , Vijaya Ramachandran , Shimin Chen , Michael Kozuch, Provably good multicore cache performance for divide-and-conquer algorithms, Proceedings of the nineteenth annual ACM-SIAM symposium on Discrete algorithms, p.501-510, January 20-22, 2008, San Francisco, California
+Burago, Y. D. and Zalgaller, V. A. 1988. Geometric Inequalities. Grundlehren der Mathematische Wissenschaften Series, vol. 285, Springer, Berlin.
+Peter Brgisser , Michael Clausen , Mohammad A. Shokrollahi, Algebraic Complexity Theory, Springer Publishing Company, Incorporated, 2010
+Lynn Elliot Cannon, A cellular computer to implement the kalman filter algorithm, Montana State University, Bozeman, MT, 1969
+Rezaul Alam Chowdhury , Vijaya Ramachandran, Cache-oblivious dynamic programming, Proceedings of the seventeenth annual ACM-SIAM symposium on Discrete algorithm, p.591-600, January 22-26, 2006, Miami, Florida[doi>10.1145/1109557.1109622]
+Henry Cohn , Robert Kleinberg , Balazs Szegedy , Christopher Umans, Group-theoretic Algorithms for Matrix Multiplication, Proceedings of the 46th Annual IEEE Symposium on Foundations of Computer Science, p.379-388, October 23-25, 2005[doi>10.1109/SFCS.2005.39]
+Coppersmith, D. and Winograd, S. 1982. On the asymptotic complexity of matrix multiplication. SIAM J. Comput. 11, 3, 472--492.
+D. Coppersmith , S. Winograd, Matrix multiplication via arithmetic progressions, Proceedings of the nineteenth annual ACM symposium on Theory of computing, p.1-6, January 1987, New York, New York, USA[doi>10.1145/28395.28396]
+Don Coppersmith , Shmuel Winograd, Matrix multiplication via arithmetic progressions, Journal of Symbolic Computation, v.9 n.3, p.251-280, March 1990[doi>10.1016/S0747-7171(08)80013-2]
+Laura Grigori , Pierre-Yves David , James W. Demmel , Sylvain Peyronnet, Brief announcement: Lower bounds on communication for sparse Cholesky factorization of a model problem, Proceedings of the 22nd ACM symposium on Parallelism in algorithms and architectures, June 13-15, 2010, Thira, Santorini, Greece[doi>10.1145/1810479.1810496]
+Dekel, E., Nassimi, D., and Sahni, S. 1981. Parallel matrix and graph algorithms. SIAM J. Comput., 657--675.
+James Demmel , Ioana Dumitriu , Olga Holtz, Fast linear algebra is stable, Numerische Mathematik, v.108 n.1, p.59-91, October 2007[doi>10.1007/s00211-007-0114-x]
+James Demmel , Ioana Dumitriu , Olga Holtz , Robert Kleinberg, Fast matrix multiplication is stable, Numerische Mathematik, v.106 n.2, p.199-224, March 2007[doi>10.1007/s00211-007-0061-6]
+James Demmel , Laura Grigori , Mark Hoemmen , Julien Langou, Communication-optimal Parallel and Sequential QR and LU Factorizations, SIAM Journal on Scientific Computing, v.34 n.1, p.206-239, January 2012[doi>10.1137/080731992]
+F. Desprez , F. Suter, Impact of mixed-parallelism on parallel implementations of the Strassen and Winograd matrix multiplication algorithms: Research Articles, Concurrency and Computation: Practice & Experience, v.16 n.8, p.771-797, July 2004[doi>10.1002/cpe.v16:8]
+Craig C. Douglas , Michael Heroux , Gordon Slishman , Roger M. Smith, GEMMW: a portable level 3 BLAS Winograd variant of Strassen's matrix-matrix multiply algorithm, Journal of Computational Physics, v.110 n.1, p.1-10, Jan. 1994[doi>10.1006/jcph.1994.1001]
+Erik Elmroth , Fred G. Gustavson, New Serial and Parallel Recursive QR Factorization Algorithms for SMP Systems, Proceedings of the 4th International Workshop on Applied Parallel Computing, Large Scale Scientific and Industrial Problems, p.120-128, June 14-17, 1998
+Jeremy D. Frens , David S. Wise, QR factorization with Morton-ordered quadtree matrices for memory re-use and parallelism, ACM SIGPLAN Notices, v.38 n.10, October 2003[doi>10.1145/966049.781525]
+Matteo Frigo , Charles E. Leiserson , Harald Prokop , Sridhar Ramachandran, Cache-Oblivious Algorithms, Proceedings of the 40th Annual Symposium on Foundations of Computer Science, p.285, October 17-18, 1999
+Samuel H. Fuller , Lynette I. Millett, The Future of Computing Performance: Game Over or Next Level?, National Academy Press, Washington, DC, 2011
+Graham, S. L., Snir, M., and Patterson, C. A., Eds. 2004. Getting up to Speed: The Future of Supercomputing. Report of National Research Council of the National Academies Sciences, The National Academies Press, Washington, D.C. http://www.nap.edu.
+Laura Grigori , James W. Demmel , Hua Xiang, CALU: A Communication Optimal LU Factorization Algorithm, SIAM Journal on Matrix Analysis and Applications, v.32 n.4, p.1317-1350, November 2011[doi>10.1137/100788926]
+F. G. Gustavson, Recursion leads to automatic variable blocking for dense linear-algebra algorithms, IBM Journal of Research and Development, v.41 n.6, p.737-756, Nov. 1997[doi>10.1147/rd.416.0737]
+Hong Jia-Wei , H. T. Kung, I/O complexity: The red-blue pebble game, Proceedings of the thirteenth annual ACM symposium on Theory of computing, p.326-333, May 11-13, 1981, Milwaukee, Wisconsin, USA[doi>10.1145/800076.802486]
+Hopcroft, J. E and Kerr, L. R. 1971. On minimizing the number of multiplications necessary for matrix multiplication. SIAM J. Appl. Math. 20, 1, 30--36.
+Steven Huss-Lederman , Elaine M. Jacobson , Anna Tsao , Thomas Turnbull , Jeremy R. Johnson, Implementation of Strassen's algorithm for matrix multiplication, Proceedings of the 1996 ACM/IEEE conference on Supercomputing, p.32-es, January 01-01, 1996, Pittsburgh, Pennsylvania, USA[doi>10.1145/369028.369096]
+Dror Irony , Sivan Toledo , Alexander Tiskin, Communication lower bounds for distributed-memory matrix multiplication, Journal of Parallel and Distributed Computing, v.64 n.9, p.1017-1026, September 2004[doi>10.1016/j.jpdc.2004.03.021]
+Koucky, M., Kabanets, V., and Kolokolova, A. 2007. Expanders made elementary. Manuscript. http://www.cs.sfu.ca/~kabanets/papers/expanders.pdf.
+Leiserson, C. E. 2008. Personal communication with G. Ballard, J. Demmel, O. Holtz, and O. Schwartz.
+Lev, G. and Valiant, L. G. 1983. Size bounds for superconcentrators. Theore. Comput. Sci. 22, 3, 233--251.
+Loomis, L. H. and Whitney, H. 1949. An inequality related to the isoperimetric inequality. Bull. AMS 55, 961--962.
+McColl, W. F. and Tiskin, A. 1999. Memory-efficient matrix multiplication in the BSP model. Algorithmica 24, 287--297. 10.1007/PL00008264.
+Joon-Sang Park , Michael Penner , Viktor K. Prasanna, Optimizing Graph Algorithms for Improved Cache Performance, Proceedings of the 16th International Parallel and Distributed Processing Symposium, p.238, April 15-19, 2002
+M. Mihail, Conductance and convergence of Markov chains-a combinatorial treatment of expanders, Proceedings of the 30th Annual Symposium on Foundations of Computer Science, p.526-531, October 30-November 01, 1989[doi>10.1109/SFCS.1989.63529]
+Pan, V. Y. 1980. New fast algorithms for matrix operations. SIAM J. Comput. 9, 2, 321--342.
+Ran Raz, On the Complexity of Matrix Product, SIAM Journal on Computing, v.32 n.5, p.1356-1369, 2003[doi>10.1137/S0097539702402147]
+Reingold, O., Vadhan, S., and Wigderson, A. 2002. Entropy waves, the zig-zag graph product, and new constant-degree expanders. Ann. Math. 155, 1, 157--187.
+Romani, F. 1982. Some properties of disjoint sums of tensors related to matrix multiplication. SIAM J. Comput. 11, 2, 263--267.
+John E. Savage, Space-Time Tradeoffs in Memory Hierarchies, Brown University, Providence, RI, 1994
+John E. Savage, Extending the Hong-Kung Model to Memory Hierarchies, Proceedings of the First Annual International Conference on Computing and Combinatorics, p.270-281, August 24-26, 1995
+Schönhage, A. 1981. Partial and total matrix multiplication. SIAM J. Comput. 10, 3, 434--455.
+Edgar Solomonik , James Demmel, Communication-optimal parallel 2.5D matrix multiplication and LU factorization algorithms, Proceedings of the 17th international conference on Parallel processing, August 29-September 02, 2011, Bordeaux, France
+Stothers, A. J. 2010. On the complexity of matrix multiplication. Ph.D. dissertation, University of Edinburgh.
+Strassen, V. 1969. Gaussian elimination is not optimal. Numer. Math. 13, 354--356.
+Strassen, V. 1987. Relative bilinear complexity and matrix multiplication. Journal fűr die reine und angewandte Mathematik (Crelles Journal) 1987, 375--376, 406--443.
+Tiskin, A. 2002. Bulk-synchronous parallel Gaussian elimination. J. Math. Sciences 108, 977--991. 10.1023/A:1013588221172.
+Alexander Tiskin, Communication-efficient parallel generic pairwise elimination, Future Generation Computer Systems, v.23 n.2, p.179-188, February 2007[doi>10.1016/j.future.2006.04.017]
+Sivan Toledo, Locality of Reference in LU Decomposition with Partial Pivoting, SIAM Journal on Matrix Analysis and Applications, v.18 n.4, p.1065-1081, Oct. 1997[doi>10.1137/S0895479896297744]
+Vasily Volkov , James W. Demmel, Benchmarking GPUs to tune dense linear algebra, Proceedings of the 2008 ACM/IEEE conference on Supercomputing, November 15-21, 2008, Austin, Texas
+Virginia Vassilevska Williams, Multiplying matrices faster than coppersmith-winograd, Proceedings of the 44th symposium on Theory of Computing, May 19-22, 2012, New York, New York, USA[doi>10.1145/2213977.2214056]
+Winograd, S. 1971. On the multiplication of 2 × 2 matrices. Linear Algebra Appl. 4, 4, 381--388.
+David S. Wise, Ahnentafel Indexing into Morton-Ordered Arrays, or Matrix Locality for Free, Proceedings from the 6th International Euro-Par Conference on Parallel Processing, p.774-783, August 29-September 01, 2000
+Yang, C.-Q. and Miller, B. 1988. Critical path analysis for the execution of parallel and distributed programs. In Proceedings of the 8th International Conference on Distributed Computing Systems. 366--373.

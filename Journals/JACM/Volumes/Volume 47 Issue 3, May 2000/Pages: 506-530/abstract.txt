@@ -1,0 +1,8 @@
+We study the learnability of multiplicity automata in Angluin'sexact learning model, and we investigate its applications. Our starting point is a known theorem from automata theory relating the number of states in a minimal multiplicity automaton for a function to the rank of its Hankel matrix. With this theorem in hand, we present a new simple algorithm for learning multiplicity automata with improved time and query complexity, and we prove the learnability of various concept classes. These include (among others): 
+-The class of disjoint DNF, and more generally satisfy-O(1) DNF.
+-The class of polynomials over finite fields.
+-The class of bounded-degree polynomials over infinite fields.
+-The class of XOR of terms.
+-Certain classes of boxes in high 
+   dimensions.
+In addition, we obtain the best query complexity for several classes known to be learnable by other methods such as decision trees and polynomials over GF(2).While multiplicity automata are shown to be useful to prove the learnability of some subclasses of DNF formulae and various other classes, we study the limitations of this method. We prove that this method cannot be used to resolve the learnability of some other open problems such as the learnability of general DNF formulas or evenk-term DNF fork= &ohgr;(logn) or satisfy-sDNF formulas fors= &ohgr;(1). These results are proven by exhibiting functions in the above classes that require multiplicity automata    with super-polynomial number of states.

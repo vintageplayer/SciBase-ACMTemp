@@ -1,0 +1,35 @@
+Li-Xin Wang , Jerry M. Mendel, Three-Dimensional Structured Networks for Matrix Equation Solving, IEEE Transactions on Computers, v.40 n.12, p.1337-1346, December 1991
+D H. Lawrie , A H. Sameh, The computation and communication complexity of a parallel banded system solver, ACM Transactions on Mathematical Software (TOMS), v.10 n.2, p.185-195, June 1984
+J. J. Modi , M. R. Clarke, An alternative givens ordering, Numerische Mathematik, v.43 n.1, p.83-90, February  1984
+Eric Polizzi , Ahmed H. Sameh, A parallel hybrid banded system solver: the SPIKE algorithm, Parallel Computing, v.32 n.2, p.177-194, February 2006
+Karan Mendiratta , Eric Polizzi, A threaded SPIKE algorithm for solving general banded systems, Parallel Computing, v.37 n.12, p.733-741, December, 2011
+A. Pothen , P. Raghavan, Distributed orthogonal factorization, Proceedings of the third conference on Hypercube concurrent computers and applications, p.1610-1620, January 1989, Pasadena, California, USA
+B. Louka, Givens elimination on systolic arrays, Proceedings of the 2nd international conference on Supercomputing, p.638-647, June 1988, St. Malo, France
+Michel Cosnard , El Mostafa Daoudi, Optimal algorithms for parallel Givens factorization on a coarse-grained PRAM, Journal of the ACM (JACM), v.41 n.2, p.399-421, March 1994
+Andrew Kerr , Dan Campbell , Mark Richards, QR decomposition on GPUs, Proceedings of 2nd Workshop on General Purpose Processing on Graphics Processing Units, p.71-78, March 08-08, 2009, Washington, D.C.
+Y. Robert , M. Tchuente, Parallel solution of band triangular linear systems on VLSI arrays with limited fan-out, Journal of Systems and Software, v.6 n.1-2, p.155-163, May, 1986
+R. E. Lord , J. S. Kowalik , S. P. Kumar, Solving Linear Algebraic Equations on an MIMD Computer, Journal of the ACM (JACM), v.30 n.1, p.103-117, Jan. 1983
+M. Cosnard , Y. Robert, Complexity of parallelQRfactorization, Journal of the ACM (JACM), v.33 n.4, p.712-723, Oct. 1986
+Erricos John Kontoghiorghes, Greedy givens algorithms for computing the rank-kupdating of the QR decomposition, Parallel Computing, v.28 n.9, p.1257-1273, September 2002
+Josep-L. Larriba-Pey , Juan J. Navarro , Oriol Roig , Angel Jorba, A generalized vision of some parallel bidiagonal systems solvers, Proceedings of the 8th international conference on Supercomputing, p.404-411, July 11-15, 1994, Manchester, England
+Joan-Josep Climent , Carmen Perea , Leandro Tortosa , Antonio Zamora, A BSP recursive divide and conquer algorithm to solve a tridiagonal linear system, Applied Mathematics and Computation, v.159 n.2, p.459-484, December, 2004
+K.N. Balasubramanya Murthy , K. Bhuvaneswari , C. Siva Ram Murthy, A New Algorithm Based on Givens Rotations for Solving Linear Equations on Fault-Tolerant Mesh-Connected Processors, IEEE Transactions on Parallel and Distributed Systems, v.9 n.8, p.825-832, August 1998
+S. Lennart Johnsson, Solving narrow banded systems on ensemble architectures, ACM Transactions on Mathematical Software (TOMS), v.11 n.3, p.271-288, Sept. 1985
+Henricus Bouwmeester , Mathias Jacquelin , Julien Langou , Yves Robert, Tiled QR factorization algorithms, Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis, November 12-18, 2011, Seattle, Washington
+Marc Hofmann , Erricos John Kontoghiorghes, Pipeline Givens sequences for computing the QR decomposition on a EREW PRAM, Parallel Computing, v.32 n.3, p.222-230, March 2006
+Murat Manguoglu, A domain-decomposing parallel sparse linear system solver, Journal of Computational and Applied Mathematics, v.236 n.3, p.319-325, September, 2011
+Jack Dongarra , Mathieu Faverge , Thomas HéRault , Mathias Jacquelin , Julien Langou , Yves Robert, Hierarchical QR factorization algorithms for multi-core clusters, Parallel Computing, v.39 n.4-5, p.212-232, April, 2013
+Kai Hwang , Yeng-Heng Cheng, Partitioned Matrix Algorithms for VLSI Arithmetic Systems, IEEE Transactions on Computers, v.31 n.12, p.1215-1224, December 1982
+Mauro Leoncini , Giovanni Manzini , Luciano Margara, On the parallel complexity of matrix factorization algorithms, Proceedings of the ninth annual ACM symposium on Parallel algorithms and architectures, p.63-71, June 23-25, 1997, Newport, Rhode Island, United States
+Alexander Tiskin, Communication-efficient parallel generic pairwise elimination, Future Generation Computer Systems, v.23 n.2, p.179-188, February 2007
+M. D. Ercegovac , Tomas Lang, Redundant and On-Line CORDIC: Application to Matrix Triangularization and SVD, IEEE Transactions on Computers, v.39 n.6, p.725-740, June 1990
+Maxim Naumov , Ahmed H. Sameh, A tearing-based hybrid parallel banded linear system solver, Journal of Computational and Applied Mathematics, v.226 n.2, p.306-318, April, 2009
+M. Esmaily-Moghadam , Y. Bazilevs , A. L. Marsden, Impact of data distribution on the parallel performance of iterative linear solvers with emphasis on CFD of incompressible flows, Computational Mechanics, v.55 n.1, p.93-103, January   2015
+Peter Arbenz , Andrew Cleary , Jack Dongarra , Markus Hegland, A comparison of parallel solvers for diagonally dominant and general narrow-banded linear systems, Parallel numerical linear algebra, Nova Science Publishers, Inc., Commack, NY, 2001
+Vijay Balasubramanian , Prithviraj Banerjee, Tradeoffs in the Design of Efficient Algorithm-Based Error Detection Schemes for Hypercube Multiprocessors, IEEE Transactions on Software Engineering, v.16 n.2, p.183-196, February 1990
+Murat Manguoglu , Faisal Saied , Ahmed Sameh , Ananth Grama, Performance models for the Spike banded linear system solver, Scientific Programming, v.19 n.1, p.13-25, January 2011
+Murat Manguoglu , Mehmet Koyutürk , Ahmed H. Sameh , Ananth Grama, Weighted Matrix Ordering and Parallel Banded Preconditioners for Iterative Linear System Solvers, SIAM Journal on Scientific Computing, v.32 n.3, p.1201-1216, April 2010
+R. K. Cavin, III , N. R. Strader, II, Microelectronic architectures and devices for signal and symbol processing, Integration, the VLSI Journal, v.1 n.4, p.283-304, December, 1983
+I.E. Venetis , A. Kouris , A. Sobczyk , E. Gallopoulos , A.H. Sameh, A direct tridiagonal solver based on Givens rotations for GPU architectures, Parallel Computing, v.49 n.C, p.101-116, November 2015
+Murat Manguoglu , Kenji Takizawa , Ahmed H. Sameh , Tayfun E. Tezduyar, A parallel sparse algorithm targeting arterial fluid mechanics computations, Computational Mechanics, v.48 n.3, p.377-384, September 2011
+Jacob T. Schwartz, Ultracomputers, ACM Transactions on Programming Languages and Systems (TOPLAS), v.2 n.4, p.484-521, Oct. 1980

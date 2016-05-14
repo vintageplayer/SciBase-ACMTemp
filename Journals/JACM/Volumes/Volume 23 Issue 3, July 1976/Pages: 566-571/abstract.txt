@@ -1,0 +1,1 @@
+LetM(m, n) be the minimum number or comparators needed in an (m, n)-merging network. It is shown thatM(m, n) ≥n(lg(m+ 1))/2, which implies that Batcher's merging networks are optimal up to a factor of 2 + &egr; for almost all values ofmandn. The limitrm= limn→∞M(m, n)/nis determined to within 1. It is also proved thatM(2,n) = [3n/2].

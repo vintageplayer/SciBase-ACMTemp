@@ -1,0 +1,46 @@
+Gregory R. Andrews , Michael Coffin , Irving Elshoff , Kelvin Nilson , Gregg Townsend , Ronald A. Olsson , Titus Purdin, An overview of the SR language and implementation, ACM Transactions on Programming Languages and Systems (TOPLAS), v.10 n.1, p.51-86, Jan. 1988[doi>10.1145/42192.42324]
+Krzysztof R. Apt , Nissim Francez , Willem P. de Roever, A Proof System for Communicating Sequential Processes, ACM Transactions on Programming Languages and Systems (TOPLAS), v.2 n.3, p.359-385, July 1980[doi>10.1145/357103.357110]
+APT, K. R., FRANCEZ, N., AND KATZ, S. 1988. Appraising fairness in languages for distributed programming. Dist. Comput. 2, 4, 226-241.
+ATTIE, P. C., FORMAN, I. R., AND LEVY, E. 1990. On fairness as an abstraction for the design of distributed systems. In Proceech'ngs of the l Oth International Conference on Distributed Computing Systems (Paris, France). IEEE Computer Society Press, Los Alamitos, Calif., pp. 150-157.
+Paul C. Attie , Nissim Francez , Orna Grumberg, Fairness and hyperfairness in multi-party interactions, Distributed Computing, v.6 n.4, p.245-254, July 1993[doi>10.1007/BF02242712]
+R. J. R. Back , F. Kurki-Suonio, Distributed cooperation with action systems, ACM Transactions on Programming Languages and Systems (TOPLAS), v.10 n.4, p.513-554, Oct. 1988[doi>10.1145/48022.48023]
+R. Bagrodia, Process Synchronization: Design and Performance Evaluation of Distributed Algorithms, IEEE Transactions on Software Engineering, v.15 n.9, p.1053-1065, September 1989[doi>10.1109/32.31364]
+Eike Best , Raymond Devillers , Jon G. Hall, The box calculus: a new causal algebra with multi-label communication, Advances in Petri Nets 1992, The DEMON Project, p.21-69, January 1992
+Tommaso Bolognesi , Ed Brinksma, Introduction to the ISO specification language LOTOS, Computer Networks and ISDN Systems, v.14 n.1, p.25-59, March, 1987[doi>10.1016/0169-7552(87)90085-7]
+BRINKSMA, E. 1988. On the Design of Extended LOTOS~A Specification Language for Open Distributed Systems. Ph.D. dissertation. Univ. Twente, the Netherlands.
+Arthur Charlesworth, The multiway rendezvous, ACM Transactions on Programming Languages and Systems (TOPLAS), v.9 n.3, p.350-366, July 1987[doi>10.1145/24039.24050]
+K. Mani Chandy, Parallel program design: a foundation, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1988
+COFFIN, M., AND OLSSON, R. A. 1989. An SR approach to multiway rendezvous. Comput. Lang. 14, 4, 255-262.
+DE SIMONE, R. 1985. Higher-level synchronizing devices in MEIJE-SCCS. Theoret. Comput. Sci. 37, 245-267.
+M. Evangelist , N. Francez , S. Katz, Multiparty Interactions for Interprocess Communication and Synchronization, IEEE Transactions on Software Engineering, v.15 n.11, p.1417-1426, November 1989[doi>10.1109/32.41333]
+FEITELSON, D. G. 1991. Communicators: Object-Based multiparty interactions for parallel programming. Tech. Rep. 91-12. Department of Computer Science, The Hebrew University of Jerusalem, Jerusalem, Israel.
+FORMA_~, I. R. 1986. On the design of large distributed systems, in Proceedings of the 1st International Conference on Computer Languages (Miami, Fla., Oct.) IEEE Computer Society Press, Washington, D.C., pp. 84-95.
+Nissim Francez, Fairness, Springer-Verlag New York, Inc., New York, NY, 1986
+Nissim Francez, Cooperating proofs for distributed programs with multiparty interactions, Information Processing Letters, v.32 n.5, p.235-242, Sept. 22, 1989[doi>10.1016/0020-0190(89)90049-5]
+FRANCEZ, N., AND FORMAN, I. R. 1990. Interacting Processes: Coordinated distributed programming. Tech. Rep. STP-226-90. Microelectronics and Computer Technology Corp., Austin, Texas.
+Nissim Francez , Ira R. Forman, Interacting processes: a multiparty approach to coordinated distributed programming, ACM Press/Addison-Wesley Publishing Co., New York, NY, 1996
+N Francez , B Hailpern , G Taubenfeld, Script: a communication abstraction mechanism and its verification, Science of Computer Programming, v.6 n.1, p.35-88, Jan. 1986
+GAO, Q., AND BOCHMAr~, G. V. 1989. Distributed implementation of LOTOS multi-rendezvous. In Participants Proceedings of the 9th IFIP WG 6.1 International Symposium on Protocol Specification, Testing, and Verification, E. Brinksma, G. Scollo, and C. A. Vissers, eds. University of Twente, Twente, the Netherlands.
+Michael R. Garey , David S. Johnson, Computers and Intractability: A Guide to the Theory of NP-Completeness, W. H. Freeman & Co., New York, NY, 1979
+David Gelernter, Generative communication in Linda, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.1, p.80-112, Jan. 1985[doi>10.1145/2363.2433]
+Steven M. German, Programming in a General Model of Synchronization, Proceedings of the Third International Conference on Concurrency Theory, p.534-549, August 24-27, 1992
+C. A. R. Hoare, Communicating sequential processes, Communications of the ACM, v.21 n.8, p.666-677, Aug. 1978[doi>10.1145/359576.359585]
+Inmos Corp, Occam Programming Manual, Prentice Hall Trade, 1984
+C. A. R. Hoare, Communicating sequential processes, Prentice-Hall, Inc., Upper Saddle River, NJ, 1985
+JANtCra, R., AND LAUER, P. E. 1992. Specification and analysis of concurrent systems: The COSY approach. In EATCS Monographs on Theoretical Computer Science, W. Brauer, G. Rozenberg, and A. Salomaa, eds. Springer-Verlag, New York.
+JARVINEN, H.-M., AND KURKI-SUONIO, R. 1991. DisCo specification language: Marriage of actions and objects. In Proceedings of the l lth International Conference on Distributed Computing Systems (Arlington, Tex., May). IEEE Computer Society Press, New York, pp. 142-151.
+H.-M. Järvinen , R. Kurki-Suonio , M. Sakkinen , K. Systä, Object-oriented specification of reactive systems, Proceedings of the 12th international conference on Software engineering, p.63-71, March 26-30, 1990, Nice, France
+Yuh-Jzer Joung, On the design and implementation of multiparty interaction, State University of New York at Stony Brook, Stony Brook, NY, 1992
+JOUNG, Y.-J., AND SMOLKA, S. A. 1990a. A completely distributed and message-efficient implementation of synchronous multiprocess communication. In Proceedings of the 19th International Conference on Parallel Processing (Aug.). Penn State Press, University Park, Pa., pp. III:311-318.
+JOUNG, Y.-J., AND SMOLKA, S. A. 1990b. Efficient, dynamically structured multiprocess communication. In Proceedings of the 28th Annual Allerton Conference on Communication, Control, and Computing (Monticello, Ill., Oct. 3-5). Allerton House, Ill.
+Yuh-Jzer Joung , Scott A. Smolka, Coordinating first-order multiparty interactions, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.3, p.954-985, May 1994[doi>10.1145/177492.177739]
+KUMAR, D. 1990. An implementation of N-party synchronization using tokens. In Proceedings of the lOth International Conference on Distributed Computing Systems (Paris, France, May 28-June 1). IEEE Computer Society Press, Los Alamitos, Calif.
+George J. Milne, CIRCAL and the representation of communication, concurrency, and time, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.2, p.270-298, April 1985[doi>10.1145/3318.3322]
+MILNER, R. 1983. Calculi for synchrony and asynchrony. Theoret. Comput. Sci. 25, 267-310.
+R. Milner, Communication and concurrency, Prentice-Hall, Inc., Upper Saddle River, NJ, 1989
+MICALI, S., AND VAZIRANI, V, V. 1980. An O(lvll/2.1e{) algorithm for finding maximum matching in general graphs. In Proceedings of the 21st Annual IEEE Symposium on Foundations of Computer Science (Long Beach, Calif.). IEEE, New York, pp. 17-21.
+M. H. Park , M. Kim, A distributed synchronization scheme for fair multi-process handshakes, Information Processing Letters, v.34 n.3, p.131-138, April 1990[doi>10.1016/0020-0190(90)90091-B]
+S Ramesh, A new and efficient implementation of multiprocess synchronization, Volume II: Parallel Languages on PARLE: Parallel Architectures and Languages Europe, p.387-401, March 1987, Eindhoven, The Netherlands
+S. Ramesh , S. L. Mehndiratta, A New Class of High Level Programs for Distributed Computing Systems, Proceedings of the Fifth Conference on Foundations of Software Technology and Theoretical Computer Science, p.42-72, December 16-18, 1985
+Gruia-Catalin Roman , Mark S. Day, Multifaceted distributed systems specification using processes and event synchronization, Proceedings of the 7th international conference on Software engineering, p.44-55, March 26-29, 1984, Orlando, Florida, United States
+Yih-Kuen Tsay , Rajive L. Bagrodia, Some impossibility results in interprocess synchronization, Distributed Computing, v.6 n.4, p.221-231, July 1993[doi>10.1007/BF02242710]

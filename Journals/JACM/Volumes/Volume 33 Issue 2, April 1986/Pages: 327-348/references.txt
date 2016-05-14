@@ -1,0 +1,21 @@
+Per Brinch Hansen, Concurrent Programming Concepts, ACM Computing Surveys (CSUR), v.5 n.4, p.223-245, Dec. 1973[doi>10.1145/356622.356624]
+James E. Burns, Mutual exclusion with linear waiting using binary shared variables, ACM SIGACT News, v.10 n.2, Summer 1978[doi>10.1145/990524.990527]
+E. W. Dijkstra, Solution of a problem in concurrent programming control, Communications of the ACM, v.8 n.9, p.569, Sept. 1965[doi>10.1145/365559.365617]
+Edsger W. Dijkstra, Self-stabilizing systems in spite of distributed control, Communications of the ACM, v.17 n.11, p.643-644, Nov. 1974[doi>10.1145/361179.361202]
+FISCHER, M. J., LYNCH, N., BURNS, J. E., AND BORODIN, A. Resource allocation with immunity to limited processing failure. In Proceedings of the 20th IEEE Symposium on the Foundations of Computer Science (Oct.). IEEE, New York, 1979, pp. 234-254.
+Howard P. Katseff, A new solution to the critical section problem, Proceedings of the tenth annual ACM symposium on Theory of computing, p.86-88, May 01-03, 1978, San Diego, California, United States[doi>10.1145/800133.804335]
+Donald E. Knuth, Additional comments on a problem in concurrent programming control, Communications of the ACM, v.9 n.5, p.321-322, May 1966[doi>10.1145/355592.365595]
+Leslie Lamport, A new solution of Dijkstra's concurrent programming problem, Communications of the ACM, v.17 n.8, p.453-455, Aug. 1974[doi>10.1145/361082.361093]
+LAMPORT, L. The synchronization of independent processes. Acta Inf. 7, 1 (1976), 15-34.
+LAMPORT, L. Proving the correctness of multiprocess programs. IEEE Trans. Softw. Eng. SE-3, 2 (Mar. 1977), 125-143.
+LAMPORT, L. The implementation of reliable distributed multiprocess systems. Comput. Netw. 2 (1978), 95-114.
+LAMPORT, L. The 'Hoare logic' of concurrent programs. Acta Inf. 14, l (1980), 21-37.
+Leslie Lamport, Reasoning about nonatomic operations, Proceedings of the 10th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.28-37, January 24-26, 1983, Austin, Texas[doi>10.1145/567067.567072]
+Leslie Lamport, Specifying Concurrent Program Modules, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.2, p.190-222, April 1983[doi>10.1145/69624.357207]
+LAMPORT, L. What good is temporal logic? In Information Processing 83: Proceedings of the IFIP 9th World Congress (Paris, Sept. 19-23). R. E. A. Mason, Ed. North Holland, Amsterdam, 1983.
+Leslie Lamport, The mutual exclusion problem: part I—a theory of interprocess communication, Journal of the ACM (JACM), v.33 n.2, p.313-326, April 1986[doi>10.1145/5383.5384]
+Susan Owicki , Leslie Lamport, Proving Liveness Properties of Concurrent Programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.3, p.455-495, July 1982[doi>10.1145/357172.357178]
+Gary L. Peterson, A New Solution to Lamport's Concurrent Programming Problem Using Small Shared Variables, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.1, p.56-65, Jan. 1983[doi>10.1145/357195.357199]
+Gary L. Peterson , Michael J. Fischer, Economical solutions for the critical section problem in a distributed system (Extended Abstract), Proceedings of the ninth annual ACM symposium on Theory of computing, p.91-97, May 04-04, 1977, Boulder, Colorado, United States[doi>10.1145/800105.803398]
+RAa}N, M. The choice coordination problem. Acta Inf. 17, (1982), 121-134.
+RIVEST, R. L., AND PRATT, V. R. The mutual exclusion problem for unreliable processes: Preliminary report. In Proceedings of the IEEE Symposium on the Foundation of Computer Science. IEEE, New York, 1976, pp. 1-8.

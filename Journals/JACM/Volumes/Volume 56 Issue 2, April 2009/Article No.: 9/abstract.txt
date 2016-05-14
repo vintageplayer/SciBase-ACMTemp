@@ -1,0 +1,1 @@
+We give the first correctO(nlogn) algorithm for finding a maximumst-flow in a directed planar graph. After a preprocessing step that consists in finding single-source shortest-path distances in the dual, the algorithm consists of repeatedly saturating the leftmost residuals-to-tpath.

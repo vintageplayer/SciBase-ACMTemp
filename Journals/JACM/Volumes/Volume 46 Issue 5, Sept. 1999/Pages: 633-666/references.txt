@@ -1,0 +1,20 @@
+Hagit Attiya , Ophir Rachman, Atomic Snapshots inO(nlogn) Operations, SIAM Journal on Computing, v.27 n.2, p.319-340, April 1998[doi>10.1137/S0097539795279463]
+Yehuda Afek , Hagit Attiya , Danny Dolev , Eli Gafni , Michael Merritt , Nir Shavit, Atomic snapshots of shared memory, Journal of the ACM (JACM), v.40 n.4, p.873-890, Sept. 1993[doi>10.1145/153724.153741]
+E. W. Dijkstra, Solution of a problem in concurrent programming control, Communications of the ACM, v.8 n.9, p.569, Sept. 1965[doi>10.1145/365559.365617]
+Cynthia Dwork , Maurice Herlihy , Serge Plotkin , Orli Waarts, Time-Lapse Snapshots, SIAM Journal on Computing, v.28 n.5, p.1848-1874, April/May 1999[doi>10.1137/S0097539793243685]
+Cynthia Dwork , Maurice Herlihy, Bounded round number, Proceedings of the twelfth annual ACM symposium on Principles of distributed computing, p.53-64, August 15-18, 1993, Ithaca, New York, United States[doi>10.1145/164051.164058]
+Danny Dolev , Nir Shavit, Bounded Concurrent Time-Stamping, SIAM Journal on Computing, v.26 n.2, p.418-455, April 1997[doi>10.1137/S0097539790192647]
+GAWLICK, R. 1992. Concurrent timestamping made simple. M.Sc. Thesis, MIT, Cambridge, Mass.
+Rainer Gawlick , Nancy Lynch , Nir Shavit, Concurrent timestamping made simple, Symposium proceedings on Theory of computing and systems, p.171-183, June 1992, Haifa, Israel
+HALDAR, S. 1993. Efficient bounded timestamping using traceable use abstraction-Is writer's guessing better than reader's telling? Tech. Rep. RUU-CS-93-28. Dept. Computer Science, Utrecht, (Sept.).
+ISRAELI, A., AND LI, M. 1987. Bounded time stamps. In Proceedings of the 28th IEEE Symposium on Foundations of Computer Science. IEEE Computer Society Press, Los Alamitos, Calif. pp. 371-382.
+Amos Israeli , Meir Pinhasov, A Concurrent Time-Stamp Scheme which is Linear in Time and Space, Proceedings of the 6th International Workshop on Distributed Algorithms, p.95-109, November 02-04, 1992
+Lefteris M. Kirousis , Paul G. Spirakis , Philippas Tsigas, Reading Many Variables in One Atomic Operation: Solutions With Linear or Sublinear Complexity, Proceedings of the 5th International Workshop on Distributed Algorithms, p.229-241, October 07-09, 1991
+Leslie Lamport, Concurrent reading and writing, Communications of the ACM, v.20 n.11, p.806-811, Nov. 1977[doi>10.1145/359863.359878]
+Leslie Lamport, The mutual exclusion problem: part I—a theory of interprocess communication, Journal of the ACM (JACM), v.33 n.2, p.313-326, April 1986[doi>10.1145/5383.5384]
+LAMPORT, L. 1986. On interprocess communication. Part II: Algorithms. Dist. Comput. 1, 86-101.
+Gary L. Peterson, Concurrent Reading While Writing, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.1, p.46-55, Jan. 1983[doi>10.1145/357195.357198]
+Ambuj K. Singh, Towards an understanding of unbounded variables in asynchronous systems, Information Processing Letters, v.42 n.1, p.7-17, April 27, 1992[doi>10.1016/0020-0190(92)90125-F]
+Ambuj K. Singh , James H. Anderson , Mohamed G. Gouda, The elusive atomic register, Journal of the ACM (JACM), v.41 n.2, p.311-339, March 1994[doi>10.1145/174652.174657]
+John Tromp, How to Construct an Atomic Variable (Extended Abstract), Proceedings of the 3rd International Workshop on Distributed Algorithms, p.292-302, September 26-28, 1989
+VITANYI,P.M.B.,AND AWERBUCH, B. 1986. Atomic shared register access by asynchronous hardware. In Proceedings of the 27th IEEE Symposium on Foundations of Computer Science. IEEE Computer Society Press, Los Alamitos, Calif., pp. 233-243.

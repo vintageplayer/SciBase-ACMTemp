@@ -1,0 +1,1 @@
+We prove that any total boolean function of rankrcan be computed by a deterministic communication protocol of complexityO(&sqrt; &cdot; log(r)). Equivalently, any graph whose adjacency matrix has rankrhas chromatic number at most 2O(&sqrt;r&cdot;log(r)). This gives a nearly quadratic improvement in the dependence on the rank over previous results.

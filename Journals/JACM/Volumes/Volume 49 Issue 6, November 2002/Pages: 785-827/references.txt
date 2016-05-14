@@ -1,0 +1,28 @@
+Aho, A., Sethi, R., and Ullman, J. D. 1986. Compilers. Addison-Wesley, Reading Mass.
+D. Callahan , K. Kennedy , J. Subhlok, Analysis of event synchronization in a parallel programming tool, Proceedings of the second ACM SIGPLAN symposium on Principles & practice of parallel programming, p.21-30, March 14-16, 1990, Seattle, Washington, USA[doi>10.1145/99163.99167]
+Caplain, G. 1998. Propriétés de correction séquentielle dans un langage parallèle à mémoire partagée. Ph.D. dissertation. Ecole Nationale des Ponts et Chaussées, Sept. http://cermics.enpc.fr/theses/.
+Caplain, G. 1999. Checking sequential correctness in shared-memory parallel programs. In Proceedings of the 8th International Colloquium on Numerical Analysis and Computer Science with Applications (Plovdiv, Bulgaria, Aug.). Published in: Int. J. Diff. Eq. Appl. 1A, 4, 2000.
+Caplain, G., Lalement, R., and Salset, T. 1993. Semantic analysis of a control-parallel extension of Fortran. Tech. Rep. 93-18. CERMICS.
+Gilbert Caplain , René Lalement , Thierry Salset, Checking the Serial Correctness of Control-Parallel Programs, Proceedings of the 6th International PARLE Conference on Parallel Architectures and Languages Europe, p.741-744, July 04-08, 1994
+CILK Group. 2002. The Cilk Project Web page. http://supertech.lcs.mit.edu/cilk/home/intro.html.
+Jean-François Collard , Denis Barthou , Paul Feautrier, Fuzzy array dataflow analysis, Proceedings of the fifth ACM SIGPLAN symposium on Principles and practice of parallel programming, p.92-101, July 19-21, 1995, Santa Barbara, California, USA[doi>10.1145/209936.209947]
+Ron Cytron , Jeanne Ferrante , Barry K. Rosen , Mark N. Wegman , F. Kenneth Zadeck, Efficiently computing static single assignment form and the control dependence graph, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.4, p.451-490, Oct. 1991[doi>10.1145/115372.115320]
+Matthew Barbour Dwyer , Lori A. Clarke, Data flow analysis for verifying correctness properties of concurrent programs, University of Massachusetts Amherst, 1995
+Feautrier, P. 1991. Dataflow analysis of array and scalar references. Int. J. Paral. Prog. 20, 1 (Feb.), 23--53.
+Phillip B. Gibbons , Ephraim Korach, Testing Shared Memories, SIAM Journal on Computing, v.26 n.4, p.1208-1244, Aug. 1997[doi>10.1137/S0097539794279614]
+Maurice P. Herlihy , Jeannette M. Wing, Linearizability: a correctness condition for concurrent objects, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.3, p.463-492, July 1990[doi>10.1145/78969.78972]
+K. L. Johnson , M. F. Kaashoek , D. A. Wallach, CRL: high-performance all-software distributed shared memory, Proceedings of the fifteenth ACM symposium on Operating systems principles, p.213-226, December 03-06, 1995, Copper Mountain, Colorado, USA[doi>10.1145/224056.224073]
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+Lamport, L. 1979. How to make a multiprocessor computer that correctly executes multiprocess programs. IEEE Trans. Comput. C--28, 690--691.
+Steven S. Muchnick, Advanced compiler design and implementation, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1998
+Steven S. Muchnick , Neil D. Jones, Program Flow Analysis: Theory and Application, Prentice Hall Professional Technical Reference, 1981
+OpenMP. 1997. A proposed industry standard API for shared memory programming. Technical report, October. http://www.openmp.org/.
+Pancake, C. 1992. Parallel Processing Model for High Level Programming Languages. ANSI. March (Proposed Standard).
+Christos H. Papadimitriou, The serializability of concurrent database updates, Journal of the ACM (JACM), v.26 n.4, p.631-653, Oct. 1979[doi>10.1145/322154.322158]
+Raynal, M. 1991. About logical clocks for distributed systems. Publication interne IRISA no607, October.
+Martin C. Rinard , Monica S. Lam, Semantic foundations of Jade, Proceedings of the 19th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.105-118, January 19-22, 1992, Albuquerque, New Mexico, USA[doi>10.1145/143165.143189]
+Salset, T. 1997. Correction séquentielle de programmes parallèles dans le modèle asynchrone et mémoire partagée. Ph.D. dissertation. Ecole Nationale des Ponts et Chaussées, July. http://cermics. enpc.fr/theses/.
+Jaspal Singh Subhlok, Analysis of synchronization in a parallel programming environment, Rice University, Houston, TX, 1992
+Michael Joseph Wolfe , Carter Shanklin , Leda Ortega, High Performance Compilers for Parallel Computing, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1995
+X3H5. 1992. FORTRAN 77 Binding of X3H5 Model for Parallel Programming Constructs. ANSI, New York, Sept. (draft version).
+Hans Zima , Barbara Chapman, Supercompilers for parallel and vector computers, ACM, New York, NY, 1990

@@ -1,0 +1,76 @@
+E. Allender, P. Bürgisser, J. Kjeldgaard-Pedersen, and P. B. Miltersen. 2009. On the complexity of numerical analysis. SIAM J. Comput. 38, 5, 1987--2006. Earlier conference version appeared in Proc., 21st IEEE Conference on Computational Complexity.
+R. Alur, M. Benedikt, K. Etessami, P. Godefroid, T. Reps, and M. Yannakakis. 2005. Analysis of recursive state machines. ACM Trans. Program. Lang. Syst. 27, 4, 786--818.
+R. Alur, C. Courcoubetis, and M. Yannakakis. 1995. Distinguishing tests for nondeterministic and probabilistic machines. In Proceedings of the 20th STOC. 363--372.
+K. B. Athreya and P. E. Ney. 1972. Branching processes. Springer-Verlag.
+C. Baier and M. Kwiatkowska. 1998. Model checking for a probabilistic branching time logic with fairness. Distrib. Comput. 11, 3, 125--155.
+V. Blondel and V. Canterini. 2003. Undecidable problems for probabilistic automata of fixed dimension. Theory Comput. Syst. 36, 231--245.
+T. Brázdil, V. Brozek, and K. Etessami. 2010a. One-counter stochastic games. In Proceedings of the FSTTCS'10. 108--119.
+T. Brázdil, V. Brozek, K. Etessami, and T. Kucera. 2011a. Approximating the termination value of one-counter mdps and stochastic games. In Proceedings of the ICALP'11.
+T. Brázdil, V. Brozek, K. Etessami, T. Kucera, and D. Wojtczak. 2010b. One-counter Markov decision processes. In Proceedings of the ACM-SIAM Symposium on Discrete Algorithms (SODA'10).
+T. Brázdil, V. Brozek, V. Forejt, and A. Kucera. 2006. Reachability in recursive Markov decision processes. In Proceedings of the 17th International CONCUR. 358--374.
+T. Brázdil, V. Brozek, A. Kucera, and J. Obdrzálek. 2011b. Qualitative reachability in stochastic bpa games. Inf. Computat. 209, 8, 1160--1183.
+T. Brázdil, A. Kučcera, and O. Stražzovský 2005. Decidability of temporal properties of probabilistic pushdown automata. In Proceedings of the 22nd Symposium on Theoretical Aspects of Computer Science (STACS).
+J. Canny. 1988. Some algebraic and geometric computations in PSPACE. In Proceedings of the 20th ACM Symposium on Theory of Computing (STOC). 460--467.
+K. Chatterjee, L. de Alfaro, and T. A. Henzinger. 2006. The complexity of quantitative concurrent parity games. In Proceedings of the SODA. 678--687.
+A. Condon. 1992. The complexity of stochastic games. Inf. Comput. 96, 2, 203--224.
+A. Condon and R. Lipton. 1989. The complexity of space bounded interactive proofs. In Proceedings of the 30th IEEE FOCS.
+C. Courcoubetis and M. Yannakakis. 1995. The complexity of probabilistic verification. J. ACM 42, 4, 857--907.
+C. Courcoubetis and M. Yannakakis. 1998. Markov decision processes and regular events. IEEE Trans. Automat. Cont. 43, 10, 1399--1418.
+L. de Alfaro, T. A. Henzinger, and O. Kupferman. 2007. Concurrent reachability games. Theoret. Comput. Sci. 386, 3, 188--217.
+L. de Alfaro, M. Kwiatkowska, G. Norman, D. Parker, and R. Segala. 2000. Symbolic model checking of probabilistic processes using MTBDDs and the Kronecker representation. In Proceedings of the 6th TACAS. 395--410.
+L. de Alfaro and R. Majumdar. 2004. Quantitative solution of omega-regular games. J. Comput. Syst. Sci. 68, 2, 374--397.
+E. Denardo and U. Rothblum. 2005. Totally expanding multiplicative systems. Lin. Alg. Appl. 406, 142--158.
+E. V. Denardo and U. G. Rothblum. 2006. A turnpike theorem for a risk-sensitive markov decision process with stopping. SIAM J. Control Optimiz. 45, 2, 414--431.
+A. Ehrenfeucht and J. Mycielski. 1979. Positional strategies for mean payoff games. Int. J. Game Theory 8, 109--113.
+E. A. Emerson and C. S. Jutla. 1991. Tree automata, mu-calculus, and determinacy. In Proceedings of the 32nd IEEE Symposium on Foundations of Computer Science (FOCS). 368--377.
+J. Esparza, A. Gaiser, and S. Kiefer. 2013. A strongly polynomial algorithm for criticality of branching processes and consistency of stochastic context-free grammars. Inf. Process. Lett. 113, 10--11, 381--385.
+J. Esparza, T. Gawlitza, S. Kiefer, and H. Seidl. 2008. Approximative methods for monotone systems of min-max-polynomial equations. In Proceedings of the ICALP (1). 698--710.
+J. Esparza, S. Kiefer, and M. Luttenberger. 2010. Computing the least fixed point of positive polynomial systems. SIAM J. Comput. 39, 6, 2282--2335.
+J. Esparza, A. Kučcera, and R. Mayr. 2004. Model checking probabilistic pushdown automata. In Proceedings of the 19th IEEE Symposium on Logic in Computer Science (LICS). 12--21.
+K. Etessami, A. Stewart, and M. Yannakakis. 2012a. Polynomial-time algorithms for multi-type branching processes and stochastic context-free grammars. In Proceedings of the 44th ACM STOC. (Full version is available at ArXiv:1201.2374.)
+K. Etessami, A. Stewart, and M. Yannakakis. 2012b. Polynomial time algorithms for branching Markov decision processes and probabilistic min(max) polynomial Bellman equations. In Proceedings of the 39th International Colloquium on Automata, Languages and Programming (ICALP). 314--326. (Full version at ArXiv:1202.4798.)
+K. Etessami, D. Wojtczak, and M. Yannakakis. 2008. Recursive stochastic games with positive rewards. In Proceedings of the 35th ICALP. 71--723.
+K. Etessami, D. Wojtczak, and M. Yannakakis. 2010. Quasi-birth-death processes, tree-like QBDs, probabilistic 1-counter automata, and pushdown systems. Perform. Eval. 67, 9, 837--857. (conference version appeared in QEST'08.)
+K. Etessami and M. Yannakakis. 2005. Recursive Markov decision processes and recursive stochastic games. In Proceedings of the 32nd International Colloquium on Automata, Languages, and Programming (ICALP). 891--903.
+K. Etessami and M. Yannakakis. 2006. Efficient qualitative analysis of classes of recursive Markov decision processes and simple stochastic games. In Proceedings of the 23rd STACS'06. Springer.
+K. Etessami and M. Yannakakis. 2008. Recursive concurrent stochastic games. Logi. Meth. Comput. Sci. 4, 4. (Conference version appeared in ICALP'06.)
+K. Etessami and M. Yannakakis. 2009. Recursive Markov chains, stochastic grammars, and monotone systems of nonlinear equations. J. ACM 56, 1.
+K. Etessami and M. Yannakakis. 2010. On the complexity of Nash equilibria and other fixed points. SIAM J. Comput. 39, 6, 2531--2597. (Conference version appeared in Proceedings of the 48th IEEE Symposium on Foundations of Computer Science (FOCS'07.)
+K. Etessami and M. Yannakakis. 2012. Model checking of recursive probabilistic systems. ACM Trans. Computat. Logic 13.
+C. J. Everett and S. Ulam. 1948. Multiplicative systems, Part I, II, and III. Tech. Rep. 683,690,707, Los Alamos Scientific Laboratory.
+H. Everett. 1957. Recursive games. In Contributions to the Theory of Games, vol. 3. Annals of Mathematics Studies, no. 39. Princeton University Press, 47--78.
+R. Fagin, A. Karlin, J. Kleinberg, P. Raghavan, S. Rajagopalan, R. Rubinfeld, M. Sudan, and A. Tomkins. 2000. Random walks with "back buttons" (extended abstract). In Proceedings of the ACM Symposium on Theory of Computing (STOC). 484--493.
+E. Feinberg and A. Shwartz. Eds. 2002. Handbook of Markov Decision Processes. Kluwer.
+J. Filar and K. Vrieze. 1997. Competitive Markov Decision Processes. Springer.
+M. R. Garey, R. L. Graham, and D. S. Johnson. 1976. Some NP-complete geometric problems. In Proceedings of the 8th ACM Symposium on Theory of Computing (STOC). 10--22.
+M. Grötschel, L. Lovász, and A. Schrijver. 1993. Geometric Algorithms and Combinatorial Optimization 2nd Ed. Springer-Verlag.
+P. Haccou, P. Jagers, and V. A. Vatutin. 2005. Branching Processes: Variation, Growth, and Extinction of Populations. Cambridge University Press.
+T. E. Harris. 1963. The Theory of Branching Processes. Springer-Verlag.
+S. Hart, M. Sharir, and A. Pnueli. 1983. Termination of probabilistic concurrent programs. ACM Trans. Prog. Languages and Systems 5, 3, 356--380.
+J. E. Hopcroft and J. D. Ullman. 1979. Introduction to Automata Theory, Formal Languages and Computation. Addison-Wesley.
+R. J. Horn and C. R. Johnson. 1985. Matrix Analysis. Cambridge University Press.
+P. Jagers. 1975. Branching Processes with Biological Applications. Wiley.
+M. Kimmel and D. E. Axelrod. 2002. Branching Processes in Biology. Springer.
+A. N. Kolmogorov and B. A. Sevastyanov. 1947. The calculation of final probabilities for branching random processes. Dokaldy 56, 783--786. (Russian).
+M. Kwiatkowska. 2003. Model checking for probability and time: from theory to practice. In Proceedings of the 18th IEEE LICS. 351--360
+G. Latouche and V. Ramaswami. 1999. Introduction to Matrix Analytic Methods in Stochastic Modeling. ASA-SIAM Series on Statistics and Applied Probability.
+O. Madani, S. Hanks, and A. Condon. 2003. On the undecidability of probabilistic planning and related stochastic optimization problems. Artif. Intell. 147, 1, 5--34.
+K. Mahler. 1964. An inequality for the discriminant of a polynomial. Mich. Math J. 11, 257--262.
+A. Maitra and W. Sudderth. 1998. Finitely additive stochastic games with Borel measurable payoffs. Internat. J. Game Theory 27, 2, 257--267.
+C. Manning and H. Schütze. 1999. Foundations of Statistical Natural Language Processing. MIT Press.
+D. A. Martin. 1998. Determinacy of Blackwell games. J. Symb. Logic 63, 4, 1565--1581.
+M. F. Neuts. 1981. Matrix-Geometric Solutions in Stochastic Models:an algorithmic approach. Johns Hopkins University Press.
+A. Neyman and S. Sorin. Eds. 2003. Stochastic Games and Applications. NATO ASI Series, Kluwer.
+D. Ornstein. 1969. On the existence of stationary optimal strategies. Proc. Amer. Math. Soc. 20, 563--569.
+A. Paz. 1971. Introduction to Probabilistic Automata. Academic Press.
+S. Pliska. 1976. Optimization of multitype branching processes. Manage. Sci. 23, 2, 117--124.
+M. L. Puterman. 1994. Markov Decision Processes. Wiley.
+J. Renegar. 1992. On the computational complexity and geometry of the first-order theory of the reals, parts I-III. J. Symbol. Computat. 13, 3, 255--352.
+U. Rothblum and P. Whittle. 1982. Growth optimality for branching Markov decision chains. Math. Oper. Res. 7, 4, 582--601.
+Y. Sakakibara, M. Brown, R. Hughey, I. Mian, K. Sjolander, R. Underwood, and D. Haussler. 1994. Stochastic context-free grammars for tRNA modeling. Nucleic Acids Rese. 22, 23, 5112--5120.
+L. Shapley. 1953. Stochastic games. Proc. Nat. Acad. Sci. 39, 1095--1100.
+A. Tarski. 1955. A lattice-theoretical fixpoint theorem and its applications. Pac. J. Math. 5, 285--309.
+M. Vardi. 1985. Automatic verification of probabilistic concurrent finite-state programs. In Proceedings of the 26th IEEE FOCS. 327--338.
+I. Walukiewicz. 1996. Pushdown processes: games and model checking. In Computer-Aided Verification. 62--75.
+D. Wojtczak and K. Etessami. 2007. PReMo: an analyzer for probabilistic recursive models. In Proceedings of the 13th International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS). 66--71. Tool web page: http://groups.inf.ed.ac.uk/premo/.
+U. Zwick and M. Paterson. 1996. The complexity of mean payoff games on graphs. Theoret. Comput. Sci. 158, 1--2, 343--359.

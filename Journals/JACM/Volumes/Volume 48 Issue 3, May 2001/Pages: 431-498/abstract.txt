@@ -1,0 +1,19 @@
+This paper deals with the evaluation of acyclic Boolean
+conjunctive queries in relational databases. By well-known results
+of Yannakakis[1981], this problem is solvable in polynomial time;
+its precise complexity, however, has not been pinpointed so far. We
+show that the problem of evaluating acyclic Boolean conjunctive
+queries is complete for LOGCFL, the class of decision problems that
+are logspace-reducible to a context-free language. Since LOGCFL is
+contained in AC1 and NC2, the evaluation problem of acyclic Boolean
+conjunctive queries is highly parallelizable. We present a parallel
+database algorithm solving this problem with alogarithmic number of
+parallel join operations. The algorithm is generalized to computing
+the output of relevant classes of non-Boolean queries. We also show
+that the acyclic versions of the following well-known database and
+AI problems are all LOGCFL-complete: The Query Output Tuple problem
+for conjunctive queries, Conjunctive Query Containment, Clause
+Subsumption, and Constraint Satisfaction. The LOGCFL-completeness
+result is extended to the class of queries of bounded tree width
+and to other relevant query classes which are more general than the
+acyclic queries.

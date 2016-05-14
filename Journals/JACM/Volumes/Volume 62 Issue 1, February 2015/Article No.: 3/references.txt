@@ -1,0 +1,21 @@
+Yehuda Afek , Hagit Attiya , Danny Dolev , Eli Gafni , Michael Merritt , Nir Shavit, Atomic snapshots of shared memory, Journal of the ACM (JACM), v.40 n.4, p.873-890, Sept. 1993[doi>10.1145/153724.153741]
+Dan Alistarh , James Aspnes , Michael A. Bender , Rati Gelashvili , Seth Gilbert, Dynamic task allocation in asynchronous shared memory, Proceedings of the Twenty-Fifth Annual ACM-SIAM Symposium on Discrete Algorithms, p.416-435, January 05-07, 2014, Portland, Oregon
+James H. Anderson, Composite registers, Distributed Computing, v.6 n.3, p.141-154, April 1993[doi>10.1007/BF02242703]
+James H. Anderson , Mark Moir, Towards a Necessary and Sufficient Condition for Wait-free Synchronization (Extended Abstract), Proceedings of the 7th International Workshop on Distributed Algorithms, p.39-53, September 27-29, 1993
+James H. Anderson , Mark Moir, Universal Constructions for Large Objects, Proceedings of the 9th International Workshop on Distributed Algorithms, p.168-182, September 13-15, 1995
+James Aspnes , Hagit Attiya , Keren Censor-Hillel, Polylogarithmic concurrent data structures from monotone circuits, Journal of the ACM (JACM), v.59 n.1, p.1-24, February 2012[doi>10.1145/2108242.2108244]
+James Aspnes , Hagit Attiya , Keren Censor-Hillel , Danny Hendler, Lower bounds for restricted-use objects: extended abstract, Proceedings of the twenty-fourth annual ACM symposium on Parallelism in algorithms and architectures, June 25-27, 2012, Pittsburgh, Pennsylvania, USA[doi>10.1145/2312005.2312037]
+James Aspnes , Keren Censor, Approximate shared-memory counting despite a strong adversary, Proceedings of the twentieth Annual ACM-SIAM Symposium on Discrete Algorithms, p.441-450, January 04-06, 2009, New York, New York
+J. Aspnes , M. Herlihy, Wait-free data structures in the asynchronous PRAM model, Proceedings of the second annual ACM symposium on Parallel algorithms and architectures, p.340-349, July 02-06, 1990, Island of Crete, Greece[doi>10.1145/97444.97701]
+Hagit Attiya , Arie Fouren, Adaptive and Efficient Algorithms for Lattice Agreement and Renaming, SIAM Journal on Computing, v.31 n.2, p.642-664, 2001[doi>10.1137/S0097539700366000]
+Hagit Attiya , Nancy Lynch , Nir Shavit, Are wait-free algorithms fast?, Journal of the ACM (JACM), v.41 n.4, p.725-763, July 1994[doi>10.1145/179812.179902]
+Hagit Attiya , Ophir Rachman, Atomic Snapshots inO(nlogn) Operations, SIAM Journal on Computing, v.27 n.2, p.319-340, April 1998[doi>10.1137/S0097539795279463]
+Elizabeth Borowsky , Eli Gafni, Immediate atomic snapshots and fast renaming, Proceedings of the twelfth annual ACM symposium on Principles of distributed computing, p.41-51, August 15-18, 1993, Ithaca, New York, USA[doi>10.1145/164051.164056]
+Faith Ellen Fich, How hard is it to take a snapshot?, Proceedings of the 31st international conference on Theory and Practice of Computer Science, January 22-28, 2005, Liptovský Ján, Slovakia[doi>10.1007/978-3-540-30577-4_3]
+Maurice P. Herlihy , Jeannette M. Wing, Linearizability: a correctness condition for concurrent objects, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.3, p.463-492, July 1990[doi>10.1145/78969.78972]
+Michiko Inoue , Wei Chen, Linear-Time Snapshot Using Multi-writer Multi-reader Registers, Proceedings of the 8th International Workshop on Distributed Algorithms, p.130-140, September 29-October 01, 1994
+Prasad Jayanti,f-arrays: implementation and applications, Proceedings of the twenty-first annual symposium on Principles of distributed computing, July 21-24, 2002, Monterey, California[doi>10.1145/571825.571875]
+Prasad Jayanti, An optimal multi-writer snapshot algorithm, Proceedings of the thirty-seventh annual ACM symposium on Theory of computing, May 22-24, 2005, Baltimore, MD, USA[doi>10.1145/1060590.1060697]
+Prasad Jayanti , Srdjan Petrovic, Efficient Wait-Free Implementation of Multiword LL/SC Variables, Proceedings of the 25th IEEE International Conference on Distributed Computing Systems, p.59-68, June 06-10, 2005[doi>10.1109/ICDCS.2005.29]
+Prasad Jayanti , King Tan , Sam Toueg, Time and Space Lower Bounds for Nonblocking Implementations, SIAM Journal on Computing, v.30 n.2, p.438-456, 2000[doi>10.1137/S0097539797317299]
+Y. Riany, N. Shavit, and D. Touitou. 2001. Towards a practical snapshot algorithm. Theoret. Comput. Sci. 269, 1--2, 163--201.

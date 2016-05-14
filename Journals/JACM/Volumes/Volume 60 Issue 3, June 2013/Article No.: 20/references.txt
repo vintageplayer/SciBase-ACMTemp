@@ -1,0 +1,88 @@
+Objective caml. http://caml.inria.fr/ocaml/.
+Aehlig, K. 2007. A finite semantics of simply-typed lambda terms for infinite runs of automata.Log. Meth. Comput. Sci. 3, 3.
+Klaus Aehlig , Jolie G. de Miranda , C.-H. Luke Ong, The monadic second order theory of trees given by arbitrary level-two recursion schemes is decidable, Proceedings of the 7th international conference on Typed Lambda Calculi and Applications, April 21-23, 2005, Nara, Japan[doi>10.1007/11417170_5]
+Andrew W. Appel, Compiling with continuations, Cambridge University Press, New York, NY, 1992
+Adam Bakewell , Dan R. Ghica, On-the-fly techniques for game-based software model checking, Proceedings of the Theory and practice of software, 14th international conference on Tools and algorithms for the construction and analysis of systems, March 29-April 06, 2008, Budapest, Hungary
+Thomas Ball , Sriram K. Rajamani, The SLAMproject: debugging system software via static analysis, Proceedings of the 29th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.1-3, January 16-18, 2002, Portland, Oregon[doi>10.1145/503272.503274]
+Thomas Ball , Rupak Majumdar , Todd Millstein , Sriram K. Rajamani, Automatic predicate abstraction of C programs, Proceedings of the ACM SIGPLAN 2001 conference on Programming language design and implementation, p.203-213, June 2001, Snowbird, Utah, USA[doi>10.1145/378795.378846]
+Barendregt, H., Coppo, M., and Dezani-Ciancaglini, M. 1983. A filter lambda model and the completeness of type assignment.J. Symb. Log. 48, 4, 931--940.
+Beckmann, A. 2001. Exact bounds for lengths of reductions in typed lambda-calculus.J. Symb. Log. 66, 3, 1277--1285.
+Véronique Benzaken , Giuseppe Castagna , Alain Frisch, CDuce: an XML-centric general-purpose language, Proceedings of the eighth ACM SIGPLAN international conference on Functional programming, p.51-63, August 25-29, 2003, Uppsala, Sweden[doi>10.1145/944705.944711]
+Dirk Beyer , Thomas A. Henzinger , Ranjit Jhala , Rupak Majumdar, The software model checker Blast: Applications to software engineering, International Journal on Software Tools for Technology Transfer (STTT), v.9 n.5, p.505-525, October 2007[doi>10.1007/s10009-007-0044-z]
+Matthias Blume , Umut A. Acar , Wonseok Chae, Exception Handlers as Extensible Cases, Proceedings of the 6th Asian Symposium on Programming Languages and Systems, p.273-289, December 09-11, 2008, Bangalore, India[doi>10.1007/978-3-540-89330-1_20]
+Gérard Boudol, On strong normalization and type inference in the intersection type discipline, Theoretical Computer Science, v.398 n.1-3, p.63-81, May, 2008[doi>10.1016/j.tcs.2008.01.045]
+Burn, G. L., Hankin, C., and Abramsky, S. 1986. Strictness analysis for higher-order functions.Sci. Comput. Program. 7, 3, 249--278.
+Cachat, T. and Walukiewicz, I. 2007. The complexity of games on higher order pushdown automata. CoRR abs/0705.0262.
+Edmund Clarke , Orna Grumberg , Somesh Jha , Yuan Lu , Helmut Veith, Counterexample-guided abstraction refinement for symbolic model checking, Journal of the ACM (JACM), v.50 n.5, p.752-794, September 2003[doi>10.1145/876638.876643]
+Edmund M. Clarke, Jr. , Orna Grumberg , Doron A. Peled, Model checking, MIT Press, Cambridge, MA, 2000
+Byron Cook , Alexey Gotsman , Andreas Podelski , Andrey Rybalchenko , Moshe Y. Vardi, Proving that programs eventually do something good, Proceedings of the 34th annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages, January 17-19, 2007, Nice, France[doi>10.1145/1190216.1190257]
+Mario Coppo , Mariangiola Dezani-Ciancaglini , P. Salle, Functional Characterization of Some Semantic Equalities inside Lambda-Calculus, Proceedings of the 6th Colloquium, on Automata, Languages and Programming, p.133-146, July 16-20, 1979
+Coppo, M., Dezani-Ciancaglini, M., and Venneri, B. 1980. Principal type schemes and lambda-calculus semantics. InProceedings of the Essays on Combinatory Logic, Lambda Calculus, and Foundation, Academic Press, 535--560.
+Coppo, M., Dezani-Ciancaglini, M., and Venneri, B. 1981. Functional characters of solvable terms.Math. Logic Quart. 27, 2--6, 45--58.
+Courcelle, B. 1983. Fundamental properties of infinite trees.Theoret. Comput. Sci. 25, 95--169.
+Luis Damas , Robin Milner, Principal type-schemes for functional programs, Proceedings of the 9th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.207-212, January 25-27, 1982, Albuquerque, New Mexico[doi>10.1145/582153.582176]
+Damas, L. M. M. 1984. Type assignment in programming languages. Ph.D. dissertation. University of Edinburgh.
+Damm, W. 1982. The IO- and OI-hierarchies.Theoret. Comput. Sci. 20, 95--207.
+Danvy, O. and Filinski, A. 1992. Representing control: A study of the cps transformation.Math. Struct. Comput. Sci. 2, 4, 361--391.
+Robert DeLine , Manuel Fähndrich, Enforcing high-level protocols in low-level software, Proceedings of the ACM SIGPLAN 2001 conference on Programming language design and implementation, p.59-69, June 2001, Snowbird, Utah, USA[doi>10.1145/378795.378811]
+Isil Dillig , Thomas Dillig , Alex Aiken, Sound, complete and scalable path-sensitive analysis, Proceedings of the 2008 ACM SIGPLAN conference on Programming language design and implementation, June 07-13, 2008, Tucson, AZ, USA[doi>10.1145/1375581.1375615]
+E. A. Emerson , C. S. Jutla, Tree automata, Mu-Calculus and determinacy, Proceedings of the 32nd annual symposium on Foundations of computer science, p.368-377, October 01-04, 1991, San Juan, Puerto Rico[doi>10.1109/SFCS.1991.185392]
+Jeffrey S. Foster , Tachio Terauchi , Alex Aiken, Flow-sensitive type qualifiers, Proceedings of the ACM SIGPLAN 2002 Conference on Programming language design and implementation, June 17-19, 2002, Berlin, Germany[doi>10.1145/512529.512531]
+Tim Freeman , Frank Pfenning, Refinement types for ML, Proceedings of the ACM SIGPLAN 1991 conference on Programming language design and implementation, p.268-277, June 24-28, 1991, Toronto, Ontario, Canada[doi>10.1145/113445.113468]
+Alain Frisch , Haruo Hosoya, Towards practical typechecking for macro tree transducers, Proceedings of the 11th international conference on Database programming languages, September 23-24, 2007, Vienna, Austria
+Susanne Graf , Hassen Saïdi, Construction of Abstract State Graphs with PVS, Proceedings of the 9th International Conference on Computer Aided Verification, p.72-83, June 22-25, 1997
+M. Hague , A. S. Murawski , C.-H. L. Ong , O. Serre, Collapsible Pushdown Automata and Recursion Schemes, Proceedings of the 2008 23rd Annual IEEE Symposium on Logic in Computer Science, p.452-461, June 24-27, 2008[doi>10.1109/LICS.2008.34]
+Henglein, F. and Mairson, H. G. 1994. The complexity of type inference for higher-order typed lambda calculi.J. Funct. Prog. 4, 4, 435--477.
+Fritz Henglein , Christian Mossin, Polymorphic Binding-Time Analysis, Proceedings of the 5th European Symposium on Programming: Programming Languages and Systems, p.287-301, April 11-13, 1994
+Thomas A. Henzinger , Ranjit Jhala , Rupak Majumdar , Grégoire Sutre, Lazy abstraction, Proceedings of the 29th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.58-70, January 16-18, 2002, Portland, Oregon[doi>10.1145/503272.503279]
+Haruo Hosoya , Jérôme Vouillon , Benjamin C. Pierce, Regular expression types for XML, ACM Transactions on Programming Languages and Systems (TOPLAS), v.27 n.1, p.46-90, January 2005[doi>10.1145/1053468.1053470]
+Atsushi Igarashi , Naoki Kobayashi, Resource usage analysis, ACM Transactions on Programming Languages and Systems (TOPLAS), v.27 n.2, p.264-313, March 2005[doi>10.1145/1057387.1057390]
+Futoshi Iwama , Atsushi Igarashi , Naoki Kobayashi, Resource usage analysis for a functional language with exceptions, Proceedings of the 2006 ACM SIGPLAN symposium on Partial evaluation and semantics-based program manipulation, January 09-10, 2006, Charleston, South Carolina[doi>10.1145/1111542.1111550]
+Thomas P. Jensen, Strictness Analysis in Logical Form, Proceedings of the 5th ACM Conference on Functional Programming Languages and Computer Architecture, p.352-366, August 26-30, 1991
+Jensen, T. P. 1992. Abstract interpretation in logical form. Ph.D. dissertation. Imperial College.
+Thomas Johnsson, Lambda lifting: transforming programs to recursive equations, Proc. of a conference on Functional programming languages and computer architecture, p.190-203, January 1985, Nancy, France
+A. J. Kfoury , J. B. Wells, Principality and type inference for intersection types using expansion variables, Theoretical Computer Science, v.311 n.1-3, p.1-70, 23 January 2004[doi>10.1016/j.tcs.2003.10.032]
+A. J. Kfoury , J. Tiuryn , P. Urzyczyn, ML typability is Dexptime-complete, Proceedings of the fifteenth colloquium on CAAP'90, p.206-220, May 1990, Copenhagen, Denmark
+Teodor Knapik , Damian Niwinski , Paweł Urzyczyn, Deciding monadic theories of hyperalgebraic trees, Proceedings of the 5th international conference on Typed lambda calculi and applications, May 02-05, 2001, Kraków, Poland
+Teodor Knapik , Damian Niwinski , Pawel Urzyczyn, Higher-Order Pushdown Trees Are Easy, Proceedings of the 5th International Conference on Foundations of Software Science and Computation Structures, p.205-222, April 08-12, 2002
+Teodor Knapik , Damian Niwiński , Paweł Urzyczyn , Igor Walukiewicz, Unsafe grammars and panic automata, Proceedings of the 32nd international conference on Automata, Languages and Programming, July 11-15, 2005, Lisbon, Portugal[doi>10.1007/11523468_117]
+Knaster, B. 1927. Un théorème sur les fonctions d’ensembles.Ann. Soc. Polon. Math. 6, 133--134.
+Naoki Kobayashi, Model-checking higher-order functions, Proceedings of the 11th ACM SIGPLAN conference on Principles and practice of declarative programming, September 07-09, 2009, Coimbra, Portugal[doi>10.1145/1599410.1599415]
+Naoki Kobayashi, Types and higher-order recursion schemes for verification of higher-order programs, Proceedings of the 36th annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages, January 21-23, 2009, Savannah, GA, USA[doi>10.1145/1480881.1480933]
+Kobayashi, N. 2010. Balancedness of high-level word languages is undecidable. draft.
+Naoki Kobayashi, A practical linear time algorithm for trivial automata model checking of higher-order recursion schemes, Proceedings of the 14th international conference on Foundations of software science and computational structures: part of the joint European conferences on theory and practice of software, March 26-April 03, 2011, Saarbrücken, Germany
+Naoki Kobayashi , C.-H. Luke Ong, A Type System Equivalent to the Modal Mu-Calculus Model Checking of Higher-Order Recursion Schemes, Proceedings of the 2009 24th Annual IEEE Symposium on Logic In Computer Science, p.179-188, August 11-14, 2009[doi>10.1109/LICS.2009.29]
+Kobayashi, N. and Ong, C.-H. L. 2011. Complexity of model checking recursion schemes for fragments of the modal mu-calculus.Logic. Meth. Comput. Sci. 7, 4.
+Naoki Kobayashi , Ryosuke Sato , Hiroshi Unno, Predicate abstraction and CEGAR for higher-order model checking, Proceedings of the 32nd ACM SIGPLAN conference on Programming language design and implementation, June 04-08, 2011, San Jose, California, USA[doi>10.1145/1993498.1993525]
+Naoki Kobayashi , Naoshi Tabuchi , Hiroshi Unno, Higher-order multi-parameter tree transducers and recursion schemes for program verification, Proceedings of the 37th annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages, January 17-23, 2010, Madrid, Spain[doi>10.1145/1706299.1706355]
+Orna Kupferman , Moshe Y. Vardi , Pierre Wolper, An automata-theoretic approach to branching-time model checking, Journal of the ACM (JACM), v.47 n.2, p.312-360, March 2000[doi>10.1145/333979.333987]
+Xavier Leroy , François Pessaux, Type-based analysis of uncaught exceptions, ACM Transactions on Programming Languages and Systems (TOPLAS), v.22 n.2, p.340-377, March 2000[doi>10.1145/349214.349230]
+Ralph Loader, Finitary PCF is not decidable, Theoretical Computer Science, v.266 n.1-2, p.341-364, 09/06/2001[doi>10.1016/S0304-3975(00)00194-8]
+Harry G. Mairson, Deciding ML typability is complete for deterministic exponential time, Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.382-401, December 1989, San Francisco, California, USA[doi>10.1145/96709.96748]
+Harry G. Mairson, A simple proof of a theorem of Statman, Theoretical Computer Science, v.103 n.2, p.387-394, 14 Sept. 1992[doi>10.1016/0304-3975(92)90020-G]
+Kenneth L. McMillan, Lazy abstraction with interpolants, Proceedings of the 18th international conference on Computer Aided Verification, August 17-20, 2006, Seattle, WA[doi>10.1007/11817963_14]
+Albert R. Meyer , Mitchell Wand, Continuation Semantics in Typed Lambda-Calculi (Summary), Proceedings of the Conference on Logic of Programs, p.219-224, June 17-19, 1985
+Matthew Might , Olin Shivers, Exploiting reachability and cardinality in higher-order flow analysis, Journal of Functional Programming, v.18 n.5-6, p.821-864, September 2008[doi>10.1017/S0956796808006941]
+Christian Mossin, Exact flow analysis, Mathematical Structures in Computer Science, v.13 n.1, p.125-156, February 2003[doi>10.1017/S0960129502003857]
+Alan Mycroft, The Theory and Practice of Transforming Call-by-need into Call-by-value, Proceedings of the Fourth 'Colloque International sur la Programmation' on International Symposium on Programming, p.269-281, April 22-24, 1980
+Naik, M. 2003. A type system equivalent to a model checker. Master Thesis, Purdue University.
+Mayur Naik , Jens Palsberg, A type system equivalent to a model checker, Proceedings of the 14th European conference on Programming Languages and Systems, p.374-388, April 04-08, 2005, Edinburgh, UK[doi>10.1007/978-3-540-31987-0_26]
+Flemming Nielson , Hanne R. Nielson , Chris Hankin, Principles of Program Analysis, Springer-Verlag New York, Inc., Secaucus, NJ, 1999
+C.-H. L. Ong, On Model-Checking Trees Generated by Higher-Order Recursion Schemes, Proceedings of the 21st Annual IEEE Symposium on Logic in Computer Science, p.81-90, August 12-15, 2006[doi>10.1109/LICS.2006.38]
+Ong, C.-H. L. and Ramsay, S. J. 2009. Subtyping for model checking recursion schemes. Preprint, July 6, 2009. (A summary appeared in Proceedings of the Oxford University Computing Laboratory Student Conference 2009, CS-RR-09-14).
+C.-H. Luke Ong , Steven James Ramsay, Verifying higher-order functional programs with pattern-matching algebraic data types, Proceedings of the 38th annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages, January 26-28, 2011, Austin, Texas, USA[doi>10.1145/1926385.1926453]
+Jens Palsberg, Type-based analysis and applications, Proceedings of the 2001 ACM SIGPLAN-SIGSOFT workshop on Program analysis for software tools and engineering, p.20-27, June 2001, Snowbird, Utah, USA[doi>10.1145/379605.379635]
+Plotkin, G. D. 1975. Call-by-name, call-by-value and the lambda-calculus.Theoret. Comput. Sci. 1, 2, 125--159.
+Jakob Rehof , Torben Ægidius Mogensen, Tractable constraints in finite semilattices, Science of Computer Programming, v.35 n.2-3, p.191-221, Nov.1.1999[doi>10.1016/S0167-6423(99)00011-8]
+Ronchi Della Rocca, S. and Venneri, B. 1984. Principal type schemes for an extended type theory.Theoret. Comput. Sci. 28, 151--169.
+Schwoon, S. 2002. Model-checking pushdown systems. Ph.D. dissertation, Technische Universität München.
+Wolfgang Thomas, Languages, automata, and logic, Handbook of formal languages, vol. 3: beyond words, Springer-Verlag New York, Inc., New York, NY, 1997
+Yoshihiro Tobita , Takeshi Tsukada , Naoki Kobayashi, Exact flow analysis by higher-order model checking, Proceedings of the 11th international conference on Functional and Logic Programming, p.275-289, May 23-25, 2012, Kobe, Japan[doi>10.1007/978-3-642-29822-6_22]
+Akihiko Tozawa, XML type checking using high-level tree transducer, Proceedings of the 8th international conference on Functional and Logic Programming, April 24-26, 2006, Fuji-Susono, Japan[doi>10.1007/11737414_7]
+Takeshi Tsukada , Naoki Kobayashi, Untyped recursion schemes and infinite intersection types, Proceedings of the 13th international conference on Foundations of Software Science and Computational Structures, March 20-28, 2010, Paphos, Cyprus[doi>10.1007/978-3-642-12032-9_24]
+Turner, R. 1972. An infinite hierarchy of term languages - an approach to mathematical complexity. InProceedings of ICALP. North-Holland, 593--608.
+Steffen van Bakel, Complete restrictions of the intersection type discipline, Theoretical Computer Science, v.102 n.1, p.135-163, 3 Aug. 1992[doi>10.1016/0304-3975(92)90297-S]
+Steffen van Bakel, Intersection type assignment systems, Theoretical Computer Science, v.151 n.2, p.385-435, Nov. 27, 1995[doi>10.1016/0304-3975(95)00073-6]
+Mitchell Wand, An algebraic formulation of the Chomsky hierarchy, Proceedings of the Proceedings of the First International Symposium on Category Theory Applied to Computation and Control, p.209-213, February 25-26, 1974
+Andrew K. Wright , Matthias Felleisen, A syntactic approach to type soundness, Information and Computation, v.115 n.1, p.38-94, Nov. 15, 1994[doi>10.1006/inco.1994.1093]
+Yi, K. 1994. Compile-time detection of uncaught exceptions in Standard ML programs. InProceedings of the 1st International Static Analysis Symposium (SAS’94). Lecture Notes in Computer Science, vol. 864, Springer, 238--254.

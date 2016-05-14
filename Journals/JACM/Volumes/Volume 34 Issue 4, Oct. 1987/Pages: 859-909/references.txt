@@ -1,0 +1,32 @@
+James Edward Allchin, An architecture for reliable decentralized systems, 1983
+J. E. Allchin , M. S. McKendry, Synchronization and recovery of actions, Proceedings of the second annual ACM symposium on Principles of distributed computing, p.31-44, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806708]
+Peter A. Alsberg , John D. Day, A principle for resilient sharing of distributed resources, Proceedings of the 2nd international conference on Software engineering, p.562-570, October 13-15, 1976, San Francisco, California, United States
+Joel F. Bartlett, A NonStop kernel, Proceedings of the eighth ACM symposium on Operating systems principles, p.22-29, December 14-16, 1981, Pacific Grove, California, United States[doi>10.1145/800216.806587]
+Philip A. Bernstein , Nathan Goodman, An algorithm for concurrency control and recovery in replicated distributed databases, ACM Transactions on Database Systems (TODS), v.9 n.4, p.596-615, Dec. 1984[doi>10.1145/1994.2207]
+BmMAN, K. P., SKEEN, D., EL ABBADI, A., DIETRICH, W. C., AND RAEUCHLE, T. Isis: An environment for constructing fault-tolerant distributed systems. Res. Rep. 83-552, Cornell Univ., Ithaca, N.Y., 1983.
+Andrew D. Birrell , Bruce Jay Nelson, Implementing remote procedure calls, ACM Transactions on Computer Systems (TOCS), v.2 n.1, p.39-59, February 1984[doi>10.1145/2080.357392]
+Douglas Comer, Ubiquitous B-Tree, ACM Computing Surveys (CSUR), v.11 n.2, p.121-137, June 1979[doi>10.1145/356770.356776]
+Alfred Z Spector , Dean Daniels, An algorithm for replicated directories, ACM SIGOPS Operating Systems Review, v.20 n.1, p.24-43, Jan. 1986[doi>10.1145/12485.12489]
+Amr El Abbadi , Sam Toueg, Availability in partitioned replicated databases, Proceedings of the fifth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.240-251, March 24-26, 1986, Cambridge, Massachusetts, United States[doi>10.1145/6012.15418]
+Amr El Abbadi , Dale Skeen , Flaviu Cristian, An efficient, fault-tolerant protocol for replicated data management, Proceedings of the fourth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.215-229, March 25-27, 1985, Portland, Oregon, United States[doi>10.1145/325405.325443]
+David K. Gifford, Weighted voting for replicated data, Proceedings of the seventh ACM symposium on Operating systems principles, p.150-162, December 10-12, 1979, Pacific Grove, California, United States[doi>10.1145/800215.806583]
+GIFFORD, D.K. Information storage in a decentralized computer system. Res. Rep. CSL-81-8, Xerox Research Center, Palo Alto, Calif., March 1982.
+GRAY, J.N. A transaction model. Res. Rep. RJ2895, IBM Research Laboratory, San Jose, Calif., Aug. 1980.
+Jim Gray , Paul McJones , Mike Blasgen , Bruce Lindsay , Raymond Lorie , Tom Price , Franco Putzolu , Irving Traiger, The Recovery Manager of the System R Database Manager, ACM Computing Surveys (CSUR), v.13 n.2, p.223-242, June 1981[doi>10.1145/356842.356847]
+HERLIHY, M.P. Availability vs. atomicity: Concurrency control for replicated data. Res. Rep. CMU-CS-85-108, Carnegie-Mellon Univ., Pittsburgh, Pa., Feb. 1985.
+Maurice Herlihy, A quorum-consensus replication method for abstract data types, ACM Transactions on Computer Systems (TOCS), v.4 n.1, p.32-53, Feb. 1986[doi>10.1145/6306.6308]
+IBM CORPORATION. ACP system: Concept and facilities. GH20-1473-I edition, IBM, White Plains, New York, 1975.
+KEMENY, J. G., AND SNELL, J.L. FinRe Markov Chains. Van Nostrand, New York, 1960.
+Henry F. Korth, Locking Primitives in a Database System, Journal of the ACM (JACM), v.30 n.1, p.55-79, Jan. 1983[doi>10.1145/322358.322363]
+LINDSAY, B. G., SELINGER, P. S., GALTIERI, C., GRAY, J. N., LORIE, R. A., PRICE, T. G., PUTZOLU, F., TRAIGER, I. L., AND WADE, B. W. Notes on distributed databases. In Distributed Databases, I. W. Draffan and F. Poole, Eds. Cambridge University Press, Cambridge, England, 1980, pp. 247-284.
+Barbara Liskov , Robert Scheifler, Guardians and Actions: Linguistic Support for Robust, Distributed Programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.3, p.381-404, July 1983[doi>10.1145/2166.357215]
+G. Popek , B. Walker , J. Chow , D. Edwards , C. Kline , G. Rudisin , G. Thiel, LOCUS a network transparent, high reliability distributed system, Proceedings of the eighth ACM symposium on Operating systems principles, p.169-177, December 14-16, 1981, Pacific Grove, California, United States[doi>10.1145/800216.806605]
+ROTHmE, J. B., Ca~OMAN, N., AND BERNSTEIN, P.A. The redundant update methodology of SDD-I: A system for distributed databases (the fully redundant case). Tech. Rep. CCA-77-02, Computer Corporation of America, Cambridge, Mass., 1977.
+Peter Martin Schwarz, Transactions on typed objects, 1984
+Peter M. Schwarz , Alfred Z. Spector, Synchronizing shared abstract types, ACM Transactions on Computer Systems (TOCS), v.2 n.3, p.223-250, Aug. 1984[doi>10.1145/989.1188]
+Alfred Z. Spector , Peter M. Schwarz, Transactions: a construct for reliable distributed computing, ACM SIGOPS Operating Systems Review, v.17 n.2, p.18-35, April 1983[doi>10.1145/1041478.1041481]
+SPECTOR, A. Z., BUTCHER, J., DANIEL.% D. S., DUCHAMP, D. j., EPPINGER, J. L., "FINEMAN, C. E., HEODAYA, A., AND SCHWARZ, P.M. Support for distributed transactions in the TABS prototype. IEEE Trans. Softw. Eng. SE-11, 6 (June 1985), 520-530.
+Alfred Z. Spector , Dean Daniels , Daniel Duchamp , Jeffrey L. Eppinger , Randy Pausch, Distributed transactions for reliable systems, Proceedings of the tenth ACM symposium on Operating systems principles, p.127-146, December 1985, Orcas Island, Washington, United States[doi>10.1145/323647.323641]
+Irving L. Traiger , Jim Gray , Cesare A. Galtieri , Bruce G. Lindsay, Transactions and consistency in distributed database systems, ACM Transactions on Database Systems (TODS), v.7 n.3, p.323-342, Sept. 1982[doi>10.1145/319732.319734]
+William E. Weihl, Data-dependent concurrency control and recovery (Extended Abstract), Proceedings of the second annual ACM symposium on Principles of distributed computing, p.63-75, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806710]
+William Weihl , Barbara Liskov, Specification and implementation of resilient, atomic data types, Proceedings of the 1983 ACM SIGPLAN symposium on Programming language issues in software systems, p.53-64, June 27-29, 1983, San Francisco, California, United States[doi>10.1145/800226.806851]

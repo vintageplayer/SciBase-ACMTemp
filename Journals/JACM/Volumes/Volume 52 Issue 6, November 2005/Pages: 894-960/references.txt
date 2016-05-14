@@ -1,0 +1,93 @@
+Martín Abadi , Anindya Banerjee , Nevin Heintze , Jon G. Riecke, A core calculus of dependency, Proceedings of the 26th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.147-160, January 20-22, 1999, San Antonio, Texas, USA[doi>10.1145/292540.292555]
+Martin Abadi , Luca Cardelli, A  Theory of Objects, Springer-Verlag New York, Inc., Secaucus, NJ, 1996
+Martín Abadi , K. Rustan M. Leino, A Logic of Object-Oriented Programs, Proceedings of the 7th International Joint Conference CAAP/FASE on Theory and Practice of Software Development, p.682-696, April 14-18, 1997
+Aldrich, J., and Chambers, C. 2004. Ownership domains: Separating aliasing policy from mechanism. In Proceedings of the European Conference on Object Oriented Programming (ECOOP). Lecture Notes in Computer Science. Springer-Verlag, New York, 1--25.
+Jonathan Aldrich , Valentin Kostadinov , Craig Chambers, Alias annotations for program understanding, Proceedings of the 17th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, November 04-08, 2002, Seattle, Washington, USA[doi>10.1145/582419.582448]
+Almeida, P. S. 1997. Balloon types: Controlling sharing of state in data types. In Proceedings of the European Conference on Object Oriented Programming (ECOOP). Lecture Notes in Computer Science. Springer-Verlag, New York, 32--59.
+Ken Arnold , James Gosling, The Java programming language (2nd ed.), ACM Press/Addison-Wesley Publishing Co., New York, NY, 1998
+Anindya Banerjee , Nevin Heintze , Jon G. Riecke, Design and Correctness of Program Transformations Based on Control-Flow Analysis, Proceedings of the 4th International Symposium on Theoretical Aspects of Computer Software, p.420-447, October 29-31, 2001
+Anindya Banerjee , David A. Naumann, Representation independence, confinement and access control [extended abstract], Proceedings of the 29th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.166-177, January 16-18, 2002, Portland, Oregon[doi>10.1145/503272.503289]
+Banerjee, A., and Naumann, D. A. 2004a. Ownership confinement ensures representation independence for object-oriented programs. Tech. Rep. CS-2004-14, Stevens Institute of Technology. (Also available as technical report KSU CIS-TR-2004-6, Kansas State University.)
+Banerjee, A., and Naumann, D. A. 2004b. State based encapsulation and generics. Tech. Rep. CS-2004-11, Stevens Institute of Technology.
+Anindya Banerjee , David A. Naumann, State based ownership, reentrance, and encapsulation, Proceedings of the 19th European conference on Object-Oriented Programming, July 25-29, 2005, Glasgow, UK[doi>10.1007/11531142_17]
+Bhowmik, A., and Pugh, W. 1999. A secure implementation of Java inner classes. PLDI poster session, http://www.cs.umd.edu/~pugh/java/SecureInnerClassesHandout.pdf.
+John Boyland, Alias burying: unique variables without destructive reads, Software—Practice & Experience, v.31 n.6, p.533-553, May 2001[doi>10.1002/spe.370]
+Kim B. Bruce, Foundations of object-oriented languages: types and semantics, MIT Press, Cambridge, MA, 2002
+Kim B. Bruce , Luca Cardelli , Benjamin C. Pierce, Comparing object encodings, Information and Computation, v.155 n.1-2, p.108-133, Nov./Dec. 1999[doi>10.1006/inco.1999.2829]
+Cavalcanti, A. L. C., and Naumann, D. A. 1999. A weakest precondition semantics for an object-oriented language of refinement. In FM'99---Formal Methods, Volume II. Lecture Notes in Computer Science, vol. 1709. Springer-Verlag, New York, 1439--1459.
+Ana Cavalcanti , David A. Naumann, Forward Simulation for Data Refinement of Classes, Proceedings of the International Symposium of Formal Methods Europe on Formal Methods - Getting IT Right, p.471-490, July 22-24, 2002
+David Gerard Clarke, Object ownership and containment, University of New South Wales, New South Wales, Australia, 2003
+Dave Clarke , Sophia Drossopoulou, Ownership, encapsulation and the disjointness of type and effect, Proceedings of the 17th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, November 04-08, 2002, Seattle, Washington, USA[doi>10.1145/582419.582447]
+David G. Clarke , James Noble , John Potter, Simple Ownership Types for Object Containment, Proceedings of the 15th European Conference on Object-Oriented Programming, p.53-76, June 18-22, 2001
+Thomas T. Cormen , Charles E. Leiserson , Ronald L. Rivest, Introduction to algorithms, MIT Press, Cambridge, MA, 1990
+Patrick Cousot , Radhia Cousot, Automatic synthesis of optimal invariant assertions: Mathematical foundations, Proceedings of the 1977 symposium on Artificial intelligence and programming languages, p.1-12, August 15-17, 1977[doi>10.1145/800228.806926]
+Ole-Johan Dahl , Kristen Nygaard, SIMULA: an ALGOL-based simulation language, Communications of the ACM, v.9 n.9, p.671-678, Sept. 1966[doi>10.1145/365813.365819]
+Davey, B., and Priestley, H. 1990. Introduction to Lattices and Order. Cambridge University Press.
+de Roever, W.-P., and Engelhardt, K. 1998. Data Refinement: Model-Oriented Proof Methods and Their Comparison. Cambridge University Press, Cambridge, MA.
+Detlefs, D. L., Leino, K. R. M., and Nelson, G. 1998. Wrestling with rep exposure. Res. Rep. 156, DEC Systems Research Center.
+Krishna Kishore Dhara , Gary T. Leavens, Forcing behavioral subtyping through specification inheritance, Proceedings of the 18th international conference on Software engineering, p.258-267, March 25-29, 1996, Berlin, Germany
+Donahue, J. E. 1979. On the semantics of “data type”. SIAM J. Comput. 8, 4, 546--560.
+Erich Gamma , Richard Helm , Ralph Johnson , John Vlissides, Design patterns: elements of reusable object-oriented software, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1995
+S. M. German , E. M. Clarke , J. Y. Halpern, Reasoning about procedures as parameters in the language L4, Information and Computation, v.83 n.3, p.265-358, Dec. 1989[doi>10.1016/0890-5401(89)90040-0]
+Li Gong, Inside Java 2 platform security architecture, API design, and implementation, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1999
+Andrew D. Gordon , Andrew M. Pitts, Higher order operational techniques in semantics, Cambridge University Press, New York, NY, 1999
+Dan Grossman , Greg Morrisett , Steve Zdancewic, Syntactic type abstraction, ACM Transactions on Programming Languages and Systems (TOPLAS), v.22 n.6, p.1037-1080, Nov. 2000[doi>10.1145/371880.371887]
+Christian Grothoff , Jens Palsberg , Jan Vitek, Encapsulating objects with confined types, Proceedings of the 16th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, p.241-255, October 14-18, 2001, Tampa Bay, FL, USA[doi>10.1145/504282.504300]
+Christopher T. Haynes, A theory of data type representation independence., Proc. of the international symposium on Semantics of data types, p.157-175, July 1984, Sophia-Antipolis, France
+Jifeng He , C. A. R. Hoare , Jeff W. Sanders, Data Refinement Refined, Proceedings of the European Symposium on Programming, p.187-196, March 17-19, 1986
+Hoare, C. A. R. 1972. Proofs of correctness of data representations. Acta Inf. 1, 271--281.
+John Hogg, Islands: aliasing protection in object-oriented languages, Conference proceedings on Object-oriented programming systems, languages, and applications, p.271-285, October 06-11, 1991, Phoenix, Arizona, USA[doi>10.1145/117954.117975]
+John Hogg , Doug Lea , Alan Wills , Dennis deChampeaux , Richard Holt, The Geneva convention on the treatment of object aliasing, ACM SIGPLAN OOPS Messenger, v.3 n.2, p.11-16, April 1992[doi>10.1145/130943.130947]
+Marieke Huisman, Verification of Java's AbstractCollection Class: A Case Study, Proceedings of the 6th International Conference on Mathematics of Program Construction, p.175-194, July 08-10, 2002
+Huisman, M., and Jacobs, B. 2000. Java program verification via a Hoare logic with abrupt termination. In Fundamental Approaches to Software Engineering (FASE). Lecture Notes in Computer Science. Springer-Verlag, New York, 284--303.
+Atsushi Igarashi , Benjamin C. Pierce , Philip Wadler, Featherweight Java: a minimal core calculus for Java and GJ, ACM Transactions on Programming Languages and Systems (TOPLAS), v.23 n.3, p.396-450, May 2001[doi>10.1145/503502.503505]
+C B Jones, Systematic software development using VDM, Prentice Hall International (UK) Ltd., Hertfordshire, UK, 1986
+Andrew Kennedy , Don Syme, Design and implementation of generics for the .NET Common language runtime, Proceedings of the ACM SIGPLAN 2001 conference on Programming language design and implementation, p.1-12, June 2001, Snowbird, Utah, USA[doi>10.1145/378795.378797]
+Doug Lea, Concurrent Programming in Java. Second Edition: Design Principles and Patterns, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1999
+Gary T. Leavens , Krishna Kishore Dhara, Concepts of behavioral subtyping and a sketch of their extension to component-based systems, Foundations of component-based systems, Cambridge University Press, New York, NY, 2000
+K. Rustan M. Leino , Greg Nelson, Data abstraction and information hiding, ACM Transactions on Programming Languages and Systems (TOPLAS), v.24 n.5, p.491-553, September 2002[doi>10.1145/570886.570888]
+Paul Blain Levy, Possible World Semantics for General Storage in Call-By-Value, Proceedings of the 16th International Workshop and 11th Annual Conference of the EACSL on Computer Science Logic, p.232-246, September 22-25, 2002
+Barbara Liskov , John Guttag, Abstraction and specification in program development, MIT Press, Cambridge, MA, 1986
+Barbara H. Liskov , Jeannette M. Wing, A behavioral notion of subtyping, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.6, p.1811-1841, Nov. 1994[doi>10.1145/197320.197383]
+Nancy Lynch , Frits Vaandrager, Forward and backward simulations I.: untimed systems, Information and Computation, v.121 n.2, p.214-233, Sept. 1995[doi>10.1006/inco.1995.1134]
+A. R. Meyer , K. Sieber, Towards fully abstract semantics for local variables, Proceedings of the 15th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.191-203, January 10-13, 1988, San Diego, California, USA[doi>10.1145/73560.73577]
+Milner, R. 1971. An algebraic definition of simulation between programs. In Proceedings of the 2nd International Joint Conference on Artificial Intelligence. 481--489.
+Naftaly H. Minsky, Towards Alias-Free Pointers, Proceedings of the 10th European Conference on Object-Oriented Programming, p.189-209, July 08-12, 1996
+John C. Mitchell, Representation independence and data abstraction, Proceedings of the 13th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.263-276, January 01, 1986, St. Petersburg Beach, Florida[doi>10.1145/512644.512669]
+John C. Mitchell, On the equivalence of data representations, Artificial intelligence and mathematical theory of computation: papers in honor of John McCarthy, Academic Press Professional, Inc., San Diego, CA, 1991
+John C. Mitchell, Foundations of programming languages, MIT Press, Cambridge, MA, 1996
+Müller, P. 2002. Modular Specification and Verification of Object-Oriented programs. Lecture Notes in Computer Science, vol. 2262. Springer-Verlag, New York.
+Peter Müller , Arnd Poetzsch-Heffter, Modular specification and verification techniques for object-oriented software components, Foundations of component-based systems, Cambridge University Press, New York, NY, 2000
+Müller, P., and Poetzsch--Heffter, A. 2000b. A type system for controlling representation exposure in Java. In ECOOP Workshop on Formal Techniques for Java Programs. Technical Report 269, Fernuniversit&atuml; Hagen.
+David A. Naumann, Predicate transformer semantics of a higher-order imperative language with record subtyping, Science of Computer Programming, v.41 n.1, p.1-51, September 2001[doi>10.1016/S0167-6423(00)00005-8]
+David A. Naumann, Soundness of data refinement for a higher-order imperative language, Theoretical Computer Science, v.278 n.1-2, p.271-301, May 6, 2002[doi>10.1016/S0304-3975(00)00339-X]
+David A. Naumann, Verifying a secure information flow analyzer, Proceedings of the 18th international conference on Theorem Proving in Higher Order Logics, August 22-25, 2005, Oxford, UK[doi>10.1007/11541868_14]
+P. W. O'Hearn , R. D. Tennent, Parametricity and local variables, Journal of the ACM (JACM), v.42 n.3, p.658-709, May 1995[doi>10.1145/210346.210425]
+Ernst-Rüdiger Olderog, Hoare's Logic for Programs with Procedures - What Has Been Achieved?, Proceedings of the Carnegie Mellon Workshop on Logic of Programs, p.383-395, June 06-08, 1983
+Benjamin C. Pierce, Types and programming languages, MIT Press, Cambridge, MA, 2002
+A. M. Pitts, Reasoning about local variables with operationally-based logical relations, Proceedings of the 11th Annual IEEE Symposium on Logic in Computer Science, p.152, July 27-30, 1996
+Andrew M. Pitts, Parametric polymorphism and operational equivalence, Mathematical Structures in Computer Science, v.10 n.3, p.321-359, June 2000[doi>10.1017/S0960129500003066]
+Pitts, A. M. 2005. Typed operational reasoning. In Advanced Topics in Types and Programming Languages, B. C. Pierce, Ed. The MIT Press, Chapter 7, 245--289.
+Plotkin, G. 1973. Lambda definability and logical relations. Tech. Rep. SAI-RM-4, University of Edinburgh, School of Artificial Intelligence.
+Poetzsch-Heffter, A., and Müller, P. 1999. A programming logic for sequential Java. In Programming Languages and Systems (ESOP), S. D. Swierstra, Ed. Lecture Notes in Computer Science, vol. 1576. Springer-Verlag, New York, 162--176.
+Power, A. J., and Robinson, E. P. 2000. Logical relations and data abstraction. In Proceedings of Computer Science Logic (CSL), P. Clote and H. Schwichtenberg, Eds. Lecture Notes in Computer Science. Springer-Verlag, New York, 497--511.
+Uday S. Reddy, Objects and classes in Algol-like languages, Information and Computation, v.172 n.1, p.63-97, January 10, 2002[doi>10.1006/inco.2001.2927]
+Uday S. Reddy , Hongseok Yang, Correctness of data representations involving heap data structures, Science of Computer Programming, v.50 n.1-3, p.129-160, March 2004[doi>10.1016/j.scico.2004.01.007]
+Reus, B. 2003. Modular semantics and logics of classes. In Proceedings of the 17th International Workshop on Computer Science Logic (CSL). Lecture Notes in Computer Science, vol. 2803. Springer-Verlag, New York, 456--469.
+Bernhard Reus , Thomas Streicher, Semantics and Logic of Object Calculi, Proceedings of the 17th Annual IEEE Symposium on Logic in Computer Science, p.113, July 22-25, 2002
+John C. Reynolds, Definitional interpreters for higher-order programming languages, Proceedings of the ACM annual conference, p.717-740, August 01-01, 1972, Boston, Massachusetts, USA[doi>10.1145/800194.805852]
+John C. Reynolds, Towards a theory of type structure, Programming Symposium, Proceedings Colloque sur la Programmation, p.408-423, April 09-11, 1974
+Reynolds, J. C. 1978. User-defined types and procedural data structures as complementary approaches to data abstraction. In Programming Methodology, D. Gries, Ed. Springer-Verlag, New York, 309--317.
+John C. Reynolds, The  Craft of Programming, Prentice Hall PTR, Upper Saddle River, NJ, 1981
+Reynolds, J. C. 1981b. The essence of Algol. In Algorithmic Languages, J. W. de Bakker and J. C. van Vliet, Eds. North-Holland, Amsterdam, The Netherlands.
+Reynolds, J. C. 1984. Types, abstraction, and parametric polymorphism. In Information Processing '83, R. Mason, Ed. North-Holland, Amsterdam, The Netherlands, 513--523.
+Reynolds, J. C. 2001. Intuitionistic reasoning about shared mutable data structure. In Millenial Perspectives in Computer Science. Palgrave.
+John C. Reynolds, Separation Logic: A Logic for Shared Mutable Data Structures, Proceedings of the 17th Annual IEEE Symposium on Logic in Computer Science, p.55-74, July 22-25, 2002
+Riecke, J. G. 1993. Fully abstract translations between functional languages. Math. Struct. Comput. Sci. 3, 4, 387--415.
+R. Stata, Modularity in the Presence of Subclassing, Massachusetts Institute of Technology, Cambridge, MA, 1997
+Christopher Strachey, Fundamental Concepts in Programming Languages, Higher-Order and Symbolic Computation, v.13 n.1-2, p.11-49, April 2000[doi>10.1023/A:1010000313106]
+Eijiro Sumii , Benjamin C. Pierce, A bisimulation for type abstraction and recursion, Proceedings of the 32nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.63-74, January 12-14, 2005, Long Beach, California, USA[doi>10.1145/1040305.1040311]
+Jan Vitek , Boris Bokowski, Confined types in Java, Software—Practice & Experience, v.31 n.6, p.507-532, May 2001[doi>10.1002/spe.369]
+Dennis Volpano , Cynthia Irvine , Geoffrey Smith, A sound type system for secure flow analysis, Journal of Computer Security, v.4 n.2-3, p.167-187, Jan. 1996
+Dan S. Wallach , Andrew W. Appel , Edward W. Felten, SAFKASI: a security mechanism for language-based systems, ACM Transactions on Software Engineering and Methodology (TOSEM), v.9 n.4, p.341-378, Oct. 2000[doi>10.1145/363516.363520]
+Glynn Winskel, The formal semantics of programming languages: an introduction, MIT Press, Cambridge, MA, 1993

@@ -1,0 +1,1 @@
+Megiddo introduced a technique for using a parallel algorithm for one problem to construct an efficient serial algorithm for a second problem. This paper provides a general method that trims a factor ofO(logn) time (or more) for many applications of this technique.

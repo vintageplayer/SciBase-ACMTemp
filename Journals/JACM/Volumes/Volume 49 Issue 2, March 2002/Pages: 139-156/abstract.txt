@@ -1,0 +1,26 @@
+The Johnson--Lindenstrauss lemma states thatnpoints in a
+high-dimensional Hilbert space can be embedded with small
+distortion of the distances into anO(logn)
+dimensional space by applying a random linear transformation. We
+show that similar (though weaker) properties hold for certain
+random linear transformations over the Hamming cube. We use these
+transformations to solve NP-hard clustering problems in the cube as
+well as in geometric settings.More specifically, we address the
+following clustering problem. Givennpoints in a larger set
+(e.g., ℝd) endowed with a distance function (e.g.,L2distance), we would like to partition the data
+set intokdisjoint clusters, each with a "cluster center,"
+so as to minimize the sum over all data points of the distance
+between the point and the center of the cluster containing the
+point. The problem is provably NP-hard in some high-dimensional
+geometric settings, even fork= 2. We give polynomial-time
+approximation schemes for this problem in several settings,
+including the binary cube {0,1}dwith Hamming distance,
+and ℝdeither withL1distance,
+or withL2distance, or with the square ofL2distance. In all these settings, the best
+previous results were constant factor approximation guarantees.We
+note that our problem is similar in flavor to thek-median
+problem (and the related facility location problem), which has been
+considered in graph-theoretic and fixed dimensional geometric
+settings, where it becomes hard whenkis part of the input.
+In contrast, we study the problem whenkis fixed, but the
+dimension is part of the input.

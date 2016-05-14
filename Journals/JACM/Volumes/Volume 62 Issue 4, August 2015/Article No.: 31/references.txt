@@ -1,0 +1,44 @@
+Martin Aigner , Gnter M. Ziegler, Proofs from THE BOOK, Springer Publishing Company, Incorporated, 2009
+Hagit Attiya , Jennifer Welch, Distributed Computing: Fundamentals, Simulations and Advanced Topics, John Wiley & Sons, 2004
+Michael Ben-Or, Another advantage of free choice (Extended Abstract): Completely asynchronous agreement protocols, Proceedings of the second annual ACM symposium on Principles of distributed computing, p.27-30, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806707]
+Piotr Berman and Juan A. Garay. 1993. Randomized distributed agreement revisited. InProceedings of the 23rd International Symposium on Fault-Tolerant Computing (FTCS’93). IEEE Computer Press, 412--419.
+Gabriel Bracha, An asynchronous [(n - 1)/3]-resilient consensus protocol, Proceedings of the third annual ACM symposium on Principles of distributed computing, p.154-162, August 27-29, 1984, Vancouver, British Columbia, Canada[doi>10.1145/800222.806743]
+Gabriel Bracha, Asynchronous byzantine agreement protocols, Information and Computation, v.75 n.2, p.130-143, November 1, 1987[doi>10.1016/0890-5401(87)90054-X]
+Gabriel Bracha , Sam Toueg, Asynchronous consensus and broadcast protocols, Journal of the ACM (JACM), v.32 n.4, p.824-840, Oct. 1985[doi>10.1145/4221.214134]
+Christian Cachin , Rachid Guerraoui , Lus Rodrigues, Introduction to Reliable and Secure Distributed Programming, Springer Publishing Company, Incorporated, 2011
+Christian Cachin , Klaus Kursawe , Frank Petzold , Victor Shoup, Secure and Efficient Asynchronous Broadcast Protocols, Proceedings of the 21st Annual International Cryptology Conference on Advances in Cryptology, p.524-541, August 19-23, 2001
+Christian Cachin , Klaus Kursawe , Victor Shoup, Random Oracles in Constantinople: Practical Asynchronous Byzantine Agreement Using Cryptography, Journal of Cryptology, v.18 n.3, p.219-246, July      2005[doi>10.1007/s00145-005-0318-0]
+Ran Canetti , Tal Rabin, Fast asynchronous Byzantine agreement with optimal resilience, Proceedings of the twenty-fifth annual ACM symposium on Theory of computing, p.42-51, May 16-18, 1993, San Diego, California, USA[doi>10.1145/167088.167105]
+Tushar Deepak Chandra , Sam Toueg, Unreliable failure detectors for reliable distributed systems, Journal of the ACM (JACM), v.43 n.2, p.225-267, March 1996[doi>10.1145/226643.226647]
+Miguel Correia , Nuno Ferreira Neves , Paulo Veríssimo, From Consensus to Atomic Broadcast: Time-Free Byzantine-Resistant Protocols without Signatures, The Computer Journal, v.49 n.1, p.82-96, January 2006[doi>10.1093/comjnl/bxh145]
+Cynthia Dwork , Nancy Lynch , Larry Stockmeyer, Consensus in the presence of partial synchrony, Journal of the ACM (JACM), v.35 n.2, p.288-323, April 1988[doi>10.1145/42282.42283]
+Michael J. Fischer and Nancy A. Lynch. 1982. A lower bound for the time to ensure interactive consistency.Inform. Process. Lett. 14, 183--186.
+Michael J. Fischer , Nancy A. Lynch , Michael S. Paterson, Impossibility of distributed consensus with one faulty process, Journal of the ACM (JACM), v.32 n.2, p.374-382, April 1985[doi>10.1145/3149.214121]
+Michael J. Fischer , Michael Merritt, Appraising two decades of distributed computing theory research, Distributed Computing, v.16 n.2-3, p.239-247, September 2003[doi>10.1007/s00446-003-0096-6]
+Roy Friedman , Achour Mostefaoui , Sergio Rajsbaum , Michel Raynal, Asynchronous Agreement and Its Relation with Error-Correcting Codes, IEEE Transactions on Computers, v.56 n.7, p.865-875, July 2007[doi>10.1109/TC.2007.1043]
+Roy Friedman, Achour Mostéfaoui, and Michel Raynal. 2005a. ◊P mute-based consensus for asynchronous Byzantine systems.Parall. Process. Lett. 15, 1--2, 162--182.
+Roy Friedman , Achour Mostefaoui , Michel Raynal, Simple and Efficient Oracle-Based Consensus Protocols for Asynchronous Byzantine Systems, IEEE Transactions on Dependable and Secure Computing, v.2 n.1, p.46-56, January 2005[doi>10.1109/TDSC.2005.13]
+Shafi Goldwasser , Elan Pavlov , Vinod Vaikuntanathan, Fault-Tolerant Distributed Computing in Full-Information Networks, Proceedings of the 47th Annual IEEE Symposium on Foundations of Computer Science, p.15-26, October 21-24, 2006[doi>10.1109/FOCS.2006.30]
+Jim Gray , Andreas Reuter, Transaction Processing: Concepts and Techniques, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1992
+Kim Potter Kihlstrom, Louise E. Moser, and P. M. Melliar-Smith. 2003. Byzantine fault detectors for solving consensus.Comput. J. 46, 1, 16--35.
+Valerie King , Jared Saia, Breaking theO(n2) bit barrier: Scalable byzantine agreement with an adaptive adversary, Journal of the ACM (JACM), v.58 n.4, p.1-24, July 2011[doi>10.1145/1989727.1989732]
+Leslie Lamport , Robert Shostak , Marshall Pease, The Byzantine Generals Problem, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.3, p.382-401, July 1982[doi>10.1145/357172.357176]
+Guanfeng Liang , Nitin Vaidya, Error-free multi-valued consensus with byzantine failures, Proceedings of the 30th annual ACM SIGACT-SIGOPS symposium on Principles of distributed computing, June 06-08, 2011, San Jose, California, USA[doi>10.1145/1993806.1993809]
+Nancy A. Lynch, Distributed Algorithms, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1996
+Nancy A. Lynch, Michael Merritt, William E. Weihl, and Alan Fekete. 1993.Atomic Transactions. Morgan-Kaufmann.
+Jean-Philippe Martin , Lorenzo Alvisi, Fast Byzantine Consensus, IEEE Transactions on Dependable and Secure Computing, v.3 n.3, p.202-215, July 2006[doi>10.1109/TDSC.2006.35]
+Zarko Milosevic , Martin Hutle , Andre Schiper, On the Reduction of Atomic Broadcast to Consensus with Byzantine Faults, Proceedings of the 2011 IEEE 30th International Symposium on Reliable Distributed Systems, p.235-244, October 04-07, 2011[doi>10.1109/SRDS.2011.36]
+Achour Mostefaoui , Hamouma Moumen , Michel Raynal, Signature-free asynchronous byzantine consensus with t < n/3 and o(n2) messages, Proceedings of the 2014 ACM symposium on Principles of distributed computing, July 15-18, 2014, Paris, France[doi>10.1145/2611462.2611468]
+Achour Mostefaoui , Sergio Rajsbaum , Michel Raynal, Conditions on input vectors for consensus solvability in asynchronous distributed systems, Journal of the ACM (JACM), v.50 n.6, p.922-954, November 2003[doi>10.1145/950620.950624]
+Achour Mostéfaoui , Michel Raynal, Signature-free broadcast-based intrusion tolerance: never decide a Byzantine value, Proceedings of the 14th international conference on Principles of distributed systems, December 14-17, 2010, Tozeur, Tunisia
+Achour Mostéfaoui and Michel Raynal. 2015. Signature-free asynchronous Byzantine systems: From multivalued to binary consensus witht<n/3,O(n2) messages, and constant time. InProceedings of the 22nd International Colloquium on Structural Information and Communication Complexity (SIROCCO’15). (Lecture Notes in Computer Science). Springer.
+Arpita Patra, Error-free multi-valued broadcast and byzantine agreement with optimal communication complexity, Proceedings of the 15th international conference on Principles of Distributed Systems, p.34-49, December 13-16, 2011, Toulouse, France[doi>10.1007/978-3-642-25873-2_4]
+M. Pease , R. Shostak , L. Lamport, Reaching Agreement in the Presence of Faults, Journal of the ACM (JACM), v.27 n.2, p.228-234, April 1980[doi>10.1145/322186.322188]
+Michael O. Rabin, Randomized byzantine generals, Proceedings of the 24th Annual Symposium on Foundations of Computer Science, p.403-409, November 07-09, 1983[doi>10.1109/SFCS.1983.48]
+Michel Raynal, Communication and Agreement Abstractions for Fault-tolerant Asynchronous Distributed Systems, Morgan and Claypool Publishers, 2010
+Michel Raynal. 2010b.Fault-Tolerant Agreement in Synchronous Message-Passing Systems. Morgan & Claypool Publishers.
+Michel Raynal, Concurrent Programming: Algorithms, Principles, and Foundations, Springer Publishing Company, Incorporated, 2012
+Yee Jiun Song , Robbert Renesse, Bosco: One-Step Byzantine Asynchronous Consensus, Proceedings of the 22nd international symposium on Distributed Computing, September 22-24, 2008, Arcachon, France[doi>10.1007/978-3-540-87779-0_30]
+T. K. Srikanth and Sam Toueg. 1987. Simulating authenticated broadcasts to derive simple fault-tolerant algorithms.Distrib. Comput. 2, 80--94.
+Sam Toueg, Randomized Byzantine Agreements, Proceedings of the third annual ACM symposium on Principles of distributed computing, p.163-178, August 27-29, 1984, Vancouver, British Columbia, Canada[doi>10.1145/800222.806744]
+Russell Turpin and Brian A. Coan. 1984. Extending binary Byzantine agreement to multivalued Byzantine agreement.Inform. Process. Lett. 18, 2, 73--76.

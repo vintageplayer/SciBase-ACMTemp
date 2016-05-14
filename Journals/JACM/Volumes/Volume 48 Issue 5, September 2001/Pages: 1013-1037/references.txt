@@ -1,0 +1,26 @@
+Yehuda Afek , Michael Merritt , Gadi Taubenfeld , Dan Touitou, Disentangling multi-object operations (extended abstract), Proceedings of the sixteenth annual ACM symposium on Principles of distributed computing, p.111-120, August 21-24, 1997, Santa Barbara, California, USA[doi>10.1145/259380.259431]
+Juan Alemany , Edward W. Felten, Performance issues in non-blocking synchronization on shared-memory multiprocessors, Proceedings of the eleventh annual ACM symposium on Principles of distributed computing, p.125-134, August 10-12, 1992, Vancouver, British Columbia, Canada[doi>10.1145/135419.135446]
+James H. Anderson , Mark Moir, Universal Constructions for Large Objects, IEEE Transactions on Parallel and Distributed Systems, v.10 n.12, p.1317-1332, December 1999[doi>10.1109/71.819952]
+R. J. Anderson, Primitives for asynchronous list compression, Mathematical Systems Theory, v.27 n.5, p.453-470, Sept./Oct. 1994[doi>10.1007/BF01184934]
+T. E. Anderson, The Performance of Spin Lock Alternatives for Shared-Memory Multiprocessors, IEEE Transactions on Parallel and Distributed Systems, v.1 n.1, p.6-16, January 1990[doi>10.1109/71.80120]
+Hagit Attiya , Eyal Dagan, Universal operations: unary versus binary, Proceedings of the fifteenth annual ACM symposium on Principles of distributed computing, p.223-232, May 23-26, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/248052.248097]
+Greg Barnes, A method for implementing lock-free shared-data structures, Proceedings of the fifth annual ACM symposium on Parallel algorithms and architectures, p.261-270, June 30-July 02, 1993, Velen, Germany[doi>10.1145/165231.165265]
+Manhoi Choy , Ambuj K. Singh, Localizing Failures in Distributed Synchronization, IEEE Transactions on Parallel and Distributed Systems, v.7 n.7, p.705-716, July 1996[doi>10.1109/71.508250]
+Richard Cole , Uzi Vishkin, Deterministic coin tossing with applications to optimal parallel list ranking, Information and Control, v.70 n.1, p.32-53, July 1986[doi>10.1016/S0019-9958(86)80023-7]
+DAGAN, E. 1996. Universal operations: Unary versus binary. Master's dissertation. Department of Computer Science, The Technion, Haifa, Israel. (Slight revision submitted on August 1997).
+Cynthia Dwork , Maurice Herlihy , Orli Waarts, Contention in shared memory algorithms, Journal of the ACM (JACM), v.44 n.6, p.779-805, Nov. 1997[doi>10.1145/268999.269000]
+Michael Greenwald , David Cheriton, The synergy between non-blocking synchronization and operating system structure, Proceedings of the second USENIX symposium on Operating systems design and implementation, p.123-136, October 29-November 01, 1996, Seattle, Washington, USA[doi>10.1145/238721.238767]
+Maurice Herlihy, Wait-free synchronization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.1, p.124-149, Jan. 1991[doi>10.1145/114005.102808]
+Maurice Herlihy, A methodology for implementing highly concurrent data objects, ACM Transactions on Programming Languages and Systems (TOPLAS), v.15 n.5, p.745-770, Nov. 1993[doi>10.1145/161468.161469]
+Maurice Herlihy , J. Eliot B. Moss, Transactional memory: architectural support for lock-free data structures, Proceedings of the 20th annual international symposium on computer architecture, p.289-300, May 16-19, 1993, San Diego, California, USA[doi>10.1145/165123.165164]
+Maurice P. Herlihy , Jeannette M. Wing, Linearizability: a correctness condition for concurrent objects, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.3, p.463-492, July 1990[doi>10.1145/78969.78972]
+Amos Israeli , Lihu Rappoport, Efficient Wait-Free Implementation of a Concurrent Priority Queue, Proceedings of the 7th International Workshop on Distributed Algorithms, p.1-17, September 27-29, 1993
+Amos Israeli , Lihu Rappoport, Disjoint-access-parallel implementations of strong shared memory primitives, Proceedings of the thirteenth annual ACM symposium on Principles of distributed computing, p.151-160, August 14-17, 1994, Los Angeles, California, USA[doi>10.1145/197917.198079]
+Nathan Linial, Locality in distributed graph algorithms, SIAM Journal on Computing, v.21 n.1, p.193-201, Feb. 1992[doi>10.1137/0221015]
+Nancy A. Lynch, Distributed Algorithms, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1996
+MASSALIN, H., AND PU, C. 1991. A lock-free multiprocessor OS kernel. Tech. Rep. CUCS-005-91, Columbia University, New York.
+Cathy May , Ed Silha , Rick Simpson , Hank Warren , CORPORATE International Business Machines, Inc., The PowerPC architecture: a specification for a new family of RISC processors, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1994
+PFISTER, G., AND NORTON, A. 1985. "Hot spot" contention and combining in multistage interconnection networks. IEEE Trans. Comput. C-34, 10, 943-948.
+SHAVIT, N., AND TOUITOU, D. 1997. Software transactional memory. Distrib. Comp. 10, 2 (Feb.), 99-116.
+Richard L. Sites, Alpha AXP architecture, Communications of the ACM, v.36 n.2, p.33-44, Feb. 1993[doi>10.1145/151220.151226]
+John Turek , Dennis Shasha , Sundeep Prakash, Locking without blocking: making lock based concurrent data structure algorithms nonblocking, Proceedings of the eleventh ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.212-222, June 02-05, 1992, San Diego, California, USA[doi>10.1145/137097.137873]

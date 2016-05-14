@@ -1,0 +1,17 @@
+The information-based study of the optimal solution of large
+linear systems is initiated by studying the case of Krylov
+information. Among the algorithms that use Krylov information are
+minimal residual, conjugate gradient, Chebyshev, and successive
+approximation algorithms. A "sharp" lower bound on the number of
+matrix-vector multiplications required to compute an
+å-approximation is obtained for any orthogonally invariant
+class of matrices. Examples of such classes include many of
+practical interest such as symmetric matrices, symmetric positive
+definite matrices, and matrices with bounded condition number. It
+is shown that the minimal residual algorithm is within at most one
+matrix-vector multiplication of the lower bound. A similar result
+is obtained for the generalized minimal residual algorithm. The
+lower bound is computed for certain classes of orthogonally
+invariant matrices. How the lack of certam properties (symmetry,
+positive definiteness) increases the lower bound is shown. A
+conjecture and a number of open problems are stated.

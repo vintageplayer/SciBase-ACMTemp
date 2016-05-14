@@ -1,0 +1,15 @@
+This paper introduces a general formulation ofatomic snapshot memory, a shared
+memory partitioned into words written
+(updated) by individual processes, or
+instantaneously read (scanned) in its
+entirety. This paper presents three wait-free implementations of atomic
+snapshot memory. The first implementation in this paper uses unbounded
+(integer) fields in these registers, and is particularly easy to
+understand. The second implementation uses bounded registers. Its
+correctness proof follows the ideas of the unbounded implementation.
+Both constructions implement a single-writer snapshot memory, in which
+each word may be updated by only one process, from single-writer,n-reader registers. The third
+algorithm implements a  multi-writer snapshot memory from atomicn-writer,n-reader registers, again echoing key
+ideas from the earlier constructions. All operations require
+&THgr;(n2) reads
+and writes to the component shared registers in the worst case.—Authors' Abstract

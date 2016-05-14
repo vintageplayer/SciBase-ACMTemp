@@ -1,0 +1,76 @@
+S. Abiteboul, R. Hull, and V. Vianu. 1995. Foundations of Databases. Addison-Wesley.
+S. Abiteboul, L. Segoufin, and V. Vianu. 2006. Representing and querying XML with incomplete information. ACM Trans. Database Syst. 31, 1 (2006), 208--254.
+S. Abiteboul and V. Vianu. 1999. Regular path queries with constraints. J. Comput. Syst. Sci. 3, 58 (1999), 428--452.
+A. V. Aho. 1990. Handbook of Theoretical Computer Science. 255--300 pages.
+N. Alechina, S. Demri, and M. de Rijke. 2003. A modal perspective on path constraints. J. Log. Comput. 13, 6 (2003), 939--956.
+N. Alechina and N. Immerman. 2000. Reachability logic: An efficient fragment of transitive closure logic. Logic J. IGPL 8, 3 (2000), 325--337.
+H. Andréka, I. Németi, and I. Sain. 2001. Algebraic logic. In Handbook of Philosophical Logic (2nd ed.). Vol. 2. Springer.
+R. Angles and C. Gutierrez. 2008. Survey of graph database models. Comput. Surv. 40, 1 (2008), 1:1--1:39.
+P. Barceló. 2013. Querying graph databases. In 32th ACM Symposium on Principles of Database Systems (PODS’13).
+P. Barceló, D. Figueira, and L. Libkin. 2012a. Graph logics with rational relations and the generalized intersection problem. In 27th Annual IEEE Symposium on Logic in Computer Science (LICS’12).
+P. Barceló, L. Libkin, A. W. Lin, and P. T. Wood. 2012b. Expressive languages for path queries over graph-structured data. ACM TODS 38, 4 (2012), 31:1--31:46.
+P. Barceló, L. Libkin, A. Poggi, and C. Sirangelo. 2010. XML with incomplete information. J. ACM 58, 1 (2010), 1--62.
+P. Barceló, L. Libkin, and J. L. Reutter. 2014. Querying regular graph patterns. J. ACM 61, 1 (2014), 8:1--8:54.
+P. Barceló, J. Pérez, and J. L. Reutter. 2012c. Relative expressiveness of nested regular expressions. In Proceedings of the 6th Alberto Mendelzon International Workshop on Foundations of Data Management (AMW). 180--195.
+P. Barceló, R. Pichler, and S. Skritek. 2015. Efficient evaluation and approximation of well-designed pattern trees. In ACM Symposium on Principles of Database Systems (PODS’15). 131--144.
+M. Benedikt, W. Fan, and F. Geerts. 2008. XPath satisfiability in the presence of DTDs. J. ACM 55, 2 (2008), 8:1--8:79.
+M. Bojanczyk. 2010. Automata for data words and data trees. In Proceedings of the 21st International Conference on Rewriting Techniques and Applications (RTA).
+M. Bojanczyk, C. David, A. Muscholl, T. Schwentick, and L. Segoufin. 2011. Two-variable logic on words with data. ACM TOCL 12, 4 (2011), 27:1--27:26.
+M. Bojanczyk, A. Muscholl, T. Schwentick, and L. Segoufin. 2009. Two-variable logic on data trees and XML reasoning. J. ACM 56, 3 (2009), 13:1--13:48.
+M. Bojanczyk and P. Parys. 2011. XPath evaluation in linear time. J. ACM 58, 4 (2011), 17:1--17:33.
+P. Bouyer, A. Petit, and D. Thérien. 2001. An algebraic characterization of data and timed languages. In International Conference on Concurrency Theory (CONCUR). 248--261.
+D. Calvanese, G. De Giacomo, M. Lenzerini, and M. Y. Vardi. 2000. Containment of conjunctive regular path queries with inverse. In 7th International Conference on Principles of Knowledge Representation and Reasoning (KR’00). 176--185.
+D. Calvanese, G. De Giacomo, M. Lenzerini, and M. Y. Vardi. 2009. An automata-theoretic approach to regular XPath. In 12th International Symposium on Database Programming Languages (DBLP). 18--35.
+S. Cassidy. 2003. Generalizing XPath for directed graphs. In Extreme Markup Languages.
+R. Cleaveland and B. Steffen. 1993. A linear-time model-checking algorithm for the alternation-free modal mu-calculus. Formal Methods Syst. Design 2, 2 (1993), 121--147.
+M. Consens and A. O. Mendelzon. 1990. GraphLog: A visual formalism for real life recursion. In 9th ACM Symposium on Principles of Database Systems (PODS’90). 404--416.
+I. Cruz, A. O. Mendelzon, and P. Wood. 1987. A graphical query language supporting recursion. In ACM Special Interest Group on Management of Data 1987 Annual Conference (SIGMOD’87). 323--330.
+S. Demri and R. Lazić. 2009. LTL with the freeze quantifier and register automata. ACM TOCL 10, 3 (2009), 16:1--16:30.
+S. Demri, R. Lazić, and D. Nowak. 2007. On the freeze quantifier in constraint LTL: Decidability and complexity. Inf. Comput. 205, 1 (2007), 2--24.
+A. Deutsch and V. Tannen. 2001. Optimization properties for classes of conjunctive regular path queries. In 8th International Workshop on Database Programming Languages (DBPL’01). 21--39.
+Dex. 2013. DEX query language, Sparsity Technologies. Retrieved from http://www.sparsity-technologies.com/dex.php.
+Facebook. 2014. Graph Search. Retrieved from https://www.facebook.com/about/graphsearch.
+W. Fan. 2012. Graph pattern matching revised for social network analysis. In 15th International Conference on Database Theory (ICDT). 8--21.
+D. Figueira. 2009. Satisfiability of downward XPath with data equality tests. In 28th ACM Symposium on Principles of Database Systems (PODS’09). 197--206.
+D. Figueira. 2010. Reasoning on Words and Trees with Data. Ph.D. Dissertation. ÉNS de Cachan.
+G. H. L. Fletcher, M. Gyssens, D. Leinders, J. Van den Bussche, D. Van Gucht, S. Vansummeren, and Y. Wu. 2011. Relative expressive power of navigational querying on graphs. In 14th International Conference on Database Theory (ICDT). 197--207.
+D. Florescu, A. Y. Levy, and D. Suciu. 1998. Query containment for conjunctive queries with regular expressions. In Proceedings of the Seventeenth ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems (PODS). 139--148.
+S. Fortune, J. Hopcroft, and J. Wyllie. 1980. The directed homeomorphism problem. Theor. Comput. Sci. 10 (1980), 111--121.
+G. Gottlob, C. Koch, and R. Pichler. 2005. Efficient algorithms for processing XPath queries. ACM Trans. Database Syst. 30, 2 (2005), 444--491.
+Gremlin 2013. Gremlin Language. Retrieved from https://github.com/tinkerpop/gremlin/wiki.
+C. Gutierrez, C. Hurtado, A. O. Mendelzon, and J. Pérez. 2011. Foundations of semantic web databases. J. Comput. System Sci. 77, 3 (2011), 520--541.
+S. Harris and A. Seaborne. 2013. SPARQL 1.1 Query Language. W3C Recommendation. http://www.w3.org/ TR/sparql11-query/. (March 2013).
+M. Kaminski and N. Francez. 1994. Finite memory automata. Theor. Comput. Sci. 134, 2 (1994), 329--363.
+M. Kaminski and T. Tan. 2006. Regular expressions for languages over infinite alphabets. Fundamenta Informaticae 69, 3 (2006), 301--318.
+M. Kaminski and T. Tan. 2008. Tree automata over infinite alphabets. In Pillars of Computer Science. 386--423.
+M. Kay. 2004. XPath 2.0 Programmer’s Reference. Wrox.
+E. V. Kostylev, J. L. Reutter, M. Romero, and D. Vrgoč. 2015b. SPARQL with property paths. In The Semantic Web - 14th International Semantic Web Conference, Proceedings, Part I (ISWC’15). 3--18.
+E. V. Kostylev, J. L. Reutter, and D. Vrgoč. 2015a. XPath for DL ontologies. In Proceedings of the Twenty-Ninth AAAI Conference on Artificial Intelligence (AAAI). 1525--1531.
+G. M. Kuper, L. Libkin, and J. Paredaens (Eds.). 2000. Constraint Databases. Springer.
+M. Lange. 2006. Model checking propositional dynamic logic with all extras. J. Appl. Logic 4, 1 (2006), 39--49.
+L. Libkin. 2004. Elements of Finite Model Theory. Springer.
+L. Libkin. 2014. Certain answers as objects and knowledge. In Principles of Knowledge Representation and Reasoning (KR’14). 328--337.
+L. Libkin, W. Martens, and D. Vrgoč. 2013a. Querying graph databases with XPath. In Joint 2013 EDBT/ICDT Conferences (ICDT'13).
+L. Libkin, J. L. Reutter, and D. Vrgoč. 2013b. TriAL for RDF: Adapting graph query languages for RDF data. In Proceedings of the 32nd ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems (PODS).
+L. Libkin and D. Vrgoč. 2012a. Regular expressions for data words. In Logic for Programming, Artificial Intelligence, and Reasoning (LPAR). 274--288.
+L. Libkin and D. Vrgoč. 2012b. Regular path queries on graphs with data. In 15th International Conference on Database Theory (ICDT). 74--85.
+K. Losemann and W. Martens. 2012. The complexity of evaluating path expressions in SPARQL. In Proceedings of the 31st ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems (PODS). 101--112.
+M. Marx. 2003. XPath and modal logics of finite DAG’s. In International Conference on Automated Reasoning with Analytic Tableaux and Related Methods (TABLEAUX). 150--164.
+M. Marx. 2005. Conditional XPath. ACM Trans. Database Syst. 30, 4 (2005), 929--959.
+Neo4j 2013. Neo4j, The Graph Database. Retrieved from http://www.neo4j.org/.
+F. Neven, Th. Schwentick, and V. Vianu. 2004. Finite state machines for strings over infinite alphabets. ACM Trans. Comput. Log. 5, 3 (2004), 403--435.
+J. Pérez, M. Arenas, and C. Gutierrez. 2009. Semantics and complexity of SPARQL. ACM Trans. Database Syst. 34, 3 (2009), 16:1--16:45.
+J. Pérez, M. Arenas, and C. Gutierrez. 2010. nSPARQL: A navigational language for RDF. J. Web Semantics 8, 4 (2010), 255--270.
+J. L. Reutter. 2013a. Containment of Nested Regular Expressions. CoRR abs/1304.2637. (2013).
+J. L. Reutter. 2013b. Graph Patterns: Structure, Query Answering and Applications in Schema Mappings and Formal Language Theory. Ph.D. Dissertation. School of Informatics, University of Edinburgh.
+J. L. Reutter, A. Soto, and D. Vrgoč. 2015. Recursion in SPARQL. In The Semantic Web - 14th International Semantic Web Conference, Proceedings, Part I (ISWC’15). 19--35.
+R. Ronen and O. Shmueli. 2009. SoQL: A language for querying and creating data in social networks. In 25th International Conference on Data Engineering (ICDE’09). 1595--1602.
+H. Sakamoto and D. Ikeda. 2000. Intractability of decision problems for finite-memory automata. Theor. Comput. Sci. 231, 2 (2000), 297--308.
+M. San Martín and C. Gutierrez. 2009. Representing, querying and transforming social networks with RDF/SPARQL. In 6th European Semantic Web Conference (ESWC’09). 293--307.
+L. Segoufin. 2006. Automata and logics for words and trees over an infinite alphabet. In Computer Science Logic (CSL). 41--57.
+L. Segoufin. 2007. Static analysis of XML processing with data values. SIGMOD Record 36, 1 (2007), 31--38.
+A. Tarski and S. Givant. 1987. A Formalization of Set Theory Without Variables. AMS.
+B. ten Cate. 2006. The expressivity of XPath with transitive closure. In 25th ACM Symposium on Principles of Database Systems (PODS’06). 328--337.
+B. ten Cate and M. Marx. 2007. Navigational XPath: Calculus and algebra. Sigmod Record 36, 2 (2007), 19--26.
+D. Vrgoč. 2014. Querying Graphs with Data. Ph.D. Dissertation. School of Informatics, University of Edinburgh.
+P. T. Wood. 2012. Query languages for graph databases. Sigmod Record 41, 1 (2012), 50--60.

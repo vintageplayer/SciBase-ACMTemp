@@ -1,0 +1,64 @@
+L. A. Crowl, Concurrent data structures and actor programming under the Matroshka model, ACM SIGPLAN Notices, v.24 n.4, p.79-80, April 1989
+Robert H. B. Netzer , Barton P. Miller, Improving the accuracy of data race detection, ACM SIGPLAN Notices, v.26 n.7, p.133-144, July 1991
+Leslie Lamport, The mutual exclusion problem has been solved, Communications of the ACM, v.34 n.1, p.110-ff., Jan. 1991
+Shai Ben-David, The global time assumption and semantics for concurrent systems, Proceedings of the seventh annual ACM Symposium on Principles of distributed computing, p.223-231, August 15-17, 1988, Toronto, Ontario, Canada
+Manhoi Choy , Ambuj K. Singh, Adaptive solutions to the mutual exclusion problem, Proceedings of the twelfth annual ACM symposium on Principles of distributed computing, p.183-194, August 15-18, 1993, Ithaca, New York, United States
+Takashi Suezawa, Persistent execution state of a Java virtual machine, Proceedings of the ACM 2000 conference on Java Grande, p.160-167, June 03-04, 2000, San Francisco, California, USA
+Cynthia Dwork , Orli Waarts, Simple and efficient bounded concurrent timestamping or bounded concurrent timestamp systems are comprehensible!, Proceedings of the twenty-fourth annual ACM symposium on Theory of computing, p.655-666, May 04-06, 1992, Victoria, British Columbia, Canada
+Vassos Hadzilacos, A note on group mutual exclusion, Proceedings of the twentieth annual ACM symposium on Principles of distributed computing, p.100-106, August 2001, Newport, Rhode Island, USA
+C. S. Hsieh , R. A. Mata, Decentralized mutual exclusion in the presence of link failures, Proceedings of the 17th conference on ACM Annual Computer Science Conference, p.195-203, February 21-23, 1989, Louisville, Kentucky
+David F. Bacon , Ravi Konuru , Chet Murthy , Mauricio Serrano, Thin locks: featherweight synchronization for Java, ACM SIGPLAN Notices, v.33 n.5, p.258-268, May 1998
+Wai-Kau Lo , Vassos Hadzilacos, On the power of shared object types to implement one-resilient Consensus, Distributed Computing, v.13 n.4, p.219-238, November 2000
+C. S. Hsieh , R. A. Mata, Decentralized mutual exclusion in the presence of link failures, Proceedings of the 17th conference on ACM Annual Computer Science Conference, p.195-203, February 21-23, 1989, Louisville, Kentucky
+Wai-Kau Lo , Vassos Hadziolacos, On the power of shared object types to implement one-resilient Consensus, Proceedings of the sixteenth annual ACM symposium on Principles of distributed computing, p.101-110, August 21-24, 1997, Santa Barbara, California, USA
+Peter A. Buhr , David Dice , Wim H. Hesselink, High-performance N-thread software solutions for mutual exclusion, Concurrency and Computation: Practice & Experience, v.27 n.3, p.651-701, March 2015
+G. M. Karam , C. M. Stanczyk , G. W. Bond, Critical Races in Ada Programs, IEEE Transactions on Software Engineering, v.15 n.11, p.1471-1480, November 1989
+Leslie Lamport, Arbitration-free synchronization, Distributed Computing, v.16 n.2-3, p.219-237, September 2003
+Fuyau Lin, A formalism for specifying communicating processes, Proceedings of the 1993 ACM conference on Computer science, p.123-130, February 16-18, 1993, Indianapolis, Indiana, United States
+Frank D. Anger, On Lamport's interprocessor communication model, ACM Transactions on Programming Languages and Systems (TOPLAS), v.11 n.3, p.404-417, July 1989
+Slawomir Pilarski , Tiko Kameda, A novel checkpointing scheme for distributed database systems, Proceedings of the ninth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.368-378, April 02-04, 1990, Nashville, Tennessee, United States
+Edward A. Lycklama , Vassos Hadzilacos, A first-come-first-served mutual-exclusion algorithm with small communication variables, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.4, p.558-576, Oct. 1991
+Leslie Lamport, How to Make a Correct Multiprocess Program Execute Correctly on a Multiprocessor, IEEE Transactions on Computers, v.46 n.7, p.779-782, July 1997
+Ajay D. Kshemkalyani, Temporal Interactions of Intervals in Distributed Systems, Journal of Computer and System Sciences, v.52 n.2, p.287-298, April 1996
+Guangyuan Guo , Ryszard Janicki, Modelling Concurrent Behaviours by Commutativity and Weak Causality Relations, Proceedings of the 9th International Conference on Algebraic Methodology and Software Technology, p.178-191, September 09-13, 2002
+J.E. Burns , N.A. Lynch, Bounds on Shared Memory for Mutual Exclusion, Information and Computation, v.107 n.2, p.171-184, Dec. 1993
+Ryszard Janicki , Xiang Yin , Nadezhda Zubkova, Modeling interval order structures with partially commutative monoids, Proceedings of the 23rd international conference on Concurrency Theory, September 04-07, 2012, Newcastle upon Tyne, UK
+B. Krämer, SEGRAS—a formal and semigraphical language combining Petri nets and abstract data types for the specification of distributed systems, Proceedings of the 9th international conference on Software Engineering, p.116-125, March 1987, Monterey, California, United States
+B. Kao , H. Garcia-Molina , D. Barbará, Aggressive Transmissions of Short Messages Over Redundant Paths, IEEE Transactions on Parallel and Distributed Systems, v.5 n.1, p.102-109, January 1994
+Lisa Higham , Jalal Kawash, Tight Bounds for Critical Sections in Processor Consistent Platforms, IEEE Transactions on Parallel and Distributed Systems, v.17 n.10, p.1072-1083, October 2006
+Rachel Ben-Eliyahu , Menachem Magidor, A Temporal Logic for Proving Properties of Topologically General Executions, Information and Computation, v.124 n.2, p.127-144, Feb. 1, 1996
+Cynthia Dwork , Orli Waarts, Simple and efficient bounded concurrent timestamping and the traceable use abstraction, Journal of the ACM (JACM), v.46 n.5, p.633-666, Sept. 1999
+D. Manivannan , Robert H.  B. Netzer , Mukesh Singhal, Finding Consistent Global Checkpoints in a Distributed Computation, IEEE Transactions on Parallel and Distributed Systems, v.8 n.6, p.623-627, June 1997
+Danny Dolev , Eli Gafni , Nir Shavit, Toward a non-atomic era: l-exclusion as a test case, Proceedings of the twentieth annual ACM symposium on Theory of computing, p.78-92, May 02-04, 1988, Chicago, Illinois, United States
+Michael J. Fischer , Nancy A. Lynch , James E. Burns , Allan Borodin, Distributed FIFO allocation of identical resources using small shared space, ACM Transactions on Programming Languages and Systems (TOPLAS), v.11 n.1, p.90-114, Jan. 1989
+Robert H. B. Netzer , Barton P. Miller, What are race conditions?: Some issues and formalizations, ACM Letters on Programming Languages and Systems (LOPLAS), v.1 n.1, p.74-88, March 1992
+Amos Israeli , Ming Li, Bounded time-stamps, Distributed Computing, v.6 n.4, p.205-209, July 1993
+Sarita V. Adve , Mark D. Hill, Weak ordering—a new definition, ACM SIGARCH Computer Architecture News, v.18 n.3a, p.2-14, June 1990
+Sarita V. Adve , Mark D. Hill, Weak ordering—a new definition, 25 years of the international symposia on Computer architecture (selected papers), p.363-375, June 27-July 02, 1998, Barcelona, Spain
+P. Ladkin, Specification of time dependencies and synthesis of concurrent processes, Proceedings of the 9th international conference on Software Engineering, p.106-115, March 1987, Monterey, California, USA
+Leslie Lamport, The mutual exclusion problem: partII—statement and solutions, Journal of the ACM (JACM), v.33 n.2, p.327-348, April 1986
+Richard Buskens , Ronald Bianchini Jr, Self-Stabilizing Mutual Exclusion in the Presence of Faulty Nodes, Proceedings of the Twenty-Fifth International Symposium on Fault-Tolerant Computing, p.144, June 27-30, 1995
+Arend Rensink, Action Contraction, Proceedings of the 11th International Conference on Concurrency Theory, p.290-304, August 22-25, 2000
+S. Pilarski , T. Kameda, Checkpointing for Distributed Databases: Starting from the Basics, IEEE Transactions on Parallel and Distributed Systems, v.3 n.5, p.602-610, September 1992
+Ryszard Janicki, A generalisation of a relational structures model of concurrency, Proceedings of the First international conference on Theoretical Aspects of Computing, September 20-24, 2004, Guiyang, China
+Laurence Duchien , Gérard Florin , Lionel Seinturier, Partial order relations in distributed object environments, ACM SIGOPS Operating Systems Review, v.34 n.4, p.56-75, October 2000
+H. Attiya , D. Dolev , N. Shavit, Bounded polynomial randomized consensus, Proceedings of the eighth annual ACM Symposium on Principles of distributed computing, p.281-293, June 1989, Edmonton, Alberta, Canada
+Janice Cuny , George Forman , Alfred Hough , Joydip Kundu , Calvin Lin , Lawrence Snyder , David Stemple, The Ariadne debugger: scalable application of event-based abstraction, ACM SIGPLAN Notices, v.28 n.12, p.85-95, Dec. 1993
+Wim H. Hesselink, Mutual exclusion by four shared bits with not more than quadratic complexity, Science of Computer Programming, v.102 n.C, p.57-75, May 2015
+D. Dolev , N. Shavit, Bounded concurrrent time-stamp systems are constructible, Proceedings of the twenty-first annual ACM symposium on Theory of computing, p.454-466, May 14-17, 1989, Seattle, Washington, USA
+Ryszard Janicki , Dai Tri Man Lê , Nadezhda Zubkova, Closure operators for order structures, Proceedings of the 17th international conference on Fundamentals of computation theory, September 02-04, 2009, Wrocław, Poland
+David F. Bacon , Ravi Konuru , Chet Murthy , Mauricio J. Serrano, Thin locks: featherweight Synchronization for Java, ACM SIGPLAN Notices, v.39 n.4, April 2004
+Scott D. Stoller, Detecting global predicates in distributed systems with clocks, Distributed Computing, v.13 n.2, p.85-98, April 2000
+A.D. Kshemkalyani , M. Singhal, On Characterization and Correctness of Distributed Deadlock Detection, Journal of Parallel and Distributed Computing, v.22 n.1, p.44-59, July 1994
+Maurice Herlihy , Nir Shavit , Orli Waarts, Linearizable counting networks, Distributed Computing, v.9 n.4, p.193-203, February 1996
+Ryszard Janicki , Maciej Koutny, On Causality Semantics of Nets with Priorities, Fundamenta Informaticae, v.38 n.3, p.223-255, August 1999
+John M. Mellor-Crummey , Michael L. Scott, Algorithms for scalable synchronization on shared-memory multiprocessors, ACM Transactions on Computer Systems (TOCS), v.9 n.1, p.21-65, Feb. 1991
+Ryszard Janicki , Jetty Kleijn , Maciej Koutny , Łukasz Mikulski, Step traces, Acta Informatica, v.53 n.1, p.35-65, February  2016
+Ajay D. Kshemkalyani, Causality and atomicity in distributed computations, Distributed Computing, v.11 n.4, p.169-189, October 1998
+Michel Dubois , Christoph Scheurich, Memory Access Dependencies in Shared-Memory Multiprocessors, IEEE Transactions on Software Engineering, v.16 n.6, p.660-673, June 1990
+James H. Anderson, Lamport on mutual exclusion: 27 years of planting seeds, Proceedings of the twentieth annual ACM symposium on Principles of distributed computing, p.3-12, August 2001, Newport, Rhode Island, USA
+Mathias Broxvall , Peter Jonsson, Point algebras for temporal reasoning: algorithms and complexity, Artificial Intelligence, v.149 n.2, p.179-220, October 2003
+Gottfried Fuchs , Andreas Steininger, VLSI implementation of a distributed algorithm for fault-tolerant clock generation, Journal of Electrical and Computer Engineering, 2011, p.4-4, January 2011
+Michal Armoni , Mordechai Ben-Ari, The concept of nondeterminism: its development and implications for teaching, ACM SIGCSE Bulletin, v.41 n.2, June 2009
+James H. Anderson , Yong-Jik Kim , Ted Herman, Shared-memory mutual exclusion: major research trends since 1986, Distributed Computing, v.16 n.2-3, p.75-110, September 2003
+Xavier Défago , André Schiper , Péter Urbán, Total order broadcast and multicast algorithms: Taxonomy and survey, ACM Computing Surveys (CSUR), v.36 n.4, p.372-421, December 2004

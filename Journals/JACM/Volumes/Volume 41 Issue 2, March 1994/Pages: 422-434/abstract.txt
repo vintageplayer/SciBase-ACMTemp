@@ -1,0 +1,4 @@
+For any fixed dimensiond, the
+linear programming problem withninequality constraints can be solved on a probabilistic CRCW PRAM withO(n)
+processors almost surely in constant time. The algorithm always finds
+the correct solution. Withnd/log2dprocessors, the probability that the algorithm will not finish withinO(d2log2dtime tends to zero exponentially withn.—Authors' Abstract

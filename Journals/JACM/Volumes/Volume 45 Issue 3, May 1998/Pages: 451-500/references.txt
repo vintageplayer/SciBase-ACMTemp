@@ -1,0 +1,39 @@
+Yehuda Afek , David S. Greenberg , Michael Merritt , Gadi Taubenfeld, Computing with faulty shared memory, Proceedings of the eleventh annual ACM symposium on Principles of distributed computing, p.47-58, August 10-12, 1992, Vancouver, British Columbia, Canada[doi>10.1145/135419.135431]
+Yehuda Afek , David S. Greenberg , Michael Merritt , Gadi Taubenfeld, Computing with faulty shared objects, Journal of the ACM (JACM), v.42 n.6, p.1231-1274, Nov. 1995[doi>10.1145/227683.227688]
+James Aspnes, Time-and space-efficient randomized consensus, Proceedings of the ninth annual ACM symposium on Principles of distributed computing, p.325-331, August 22-24, 1990, Quebec City, Quebec, Canada[doi>10.1145/93385.93433]
+BERMAN, P., GARAY, J., AND PERRY, K. J. 1989. Towards optimal distributed consensus. In Proceedings of the 30th Annual Symposium on Foundations of Computer Science. IEEE, New York, pp. 410-415.
+Bard Bloom, Constructing two-writer atomic registers, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.249-259, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41861]
+James E. Burns , Gary L. Peterson, Constructing multi-reader atomic values from non-atomic values, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.222-231, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41859]
+B. A. Coan, Achieving consensus in fault-tolerant distributed computer systems: protocols, lower bounds, and simulations, Massachusetts Institute of Technology, Cambridge, MA, 1987
+Brian A. Coan , Jennifer L. Welch, Modular construction of a Byzantine agreement protocol with optimal message bit complexity, Information and Computation, v.97 n.1, p.61-85, March 1992[doi>10.1016/0890-5401(92)90004-Y]
+P. J. Courtois , F. Heymans , D. L. Parnas, Concurrent control with “readers” and “writers”, Communications of the ACM, v.14 n.10, p.667-668, Oct. 1971[doi>10.1145/362759.362813]
+Danny Dolev , Cynthia Dwork , Larry Stockmeyer, On the minimal synchronism needed for distributed consensus, Journal of the ACM (JACM), v.34 n.1, p.77-97, Jan. 1987[doi>10.1145/7531.7533]
+Danny Dolev , Ruediger Reischuk , H. Raymond Strong, Early stopping in Byzantine agreement, Journal of the ACM (JACM), v.37 n.4, p.720-741, Oct. 1990[doi>10.1145/96559.96565]
+Michael J. Fischer , Nancy A. Lynch , Michael Merritt, Easy impossibility proofs for distributed consensus problems, Distributed Computing, v.1 n.1, p.26-39, Jan. 1986[doi>10.1007/BF01843568]
+Michael J. Fischer , Nancy A. Lynch , Michael S. Paterson, Impossibility of distributed consensus with one faulty process, Journal of the ACM (JACM), v.32 n.2, p.374-382, April 1985[doi>10.1145/3149.214121]
+HALDAR, S., AND VIDYASANKAR, K. 1991. A simple construction of 1-writer multi-reader multivalued atomic variable from regular variables. Tech Rep. No. 9108. Department of Computer Science, Memorial University of Newfoundland, St. John's, NF, Canada.
+Maurice P. Herlihy, Impossibility and universality results for wait-free synchronization, Proceedings of the seventh annual ACM Symposium on Principles of distributed computing, p.276-290, August 15-17, 1988, Toronto, Ontario, Canada[doi>10.1145/62546.62593]
+Maurice Herlihy, Randomized wait-free concurrent objects (extended abstract), Proceedings of the tenth annual ACM symposium on Principles of distributed computing, p.11-21, August 19-21, 1991, Montreal, Quebec, Canada[doi>10.1145/112600.112602]
+Maurice Herlihy, Wait-free synchronization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.1, p.124-149, Jan. 1991[doi>10.1145/114005.102808]
+Maurice P. Herlihy , Jeannette M. Wing, Linearizability: a correctness condition for concurrent objects, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.3, p.463-492, July 1990[doi>10.1145/78969.78972]
+Prasad Jayanti , D. C Chandra , Sam Toueg, Fault-tolerant Wait-free Shared Objects, Cornell University, Ithaca, NY, 1996
+Prasad Jayanti , Sam Toueg, Some Results on the Impossibility, Universality, and Decidability of Consensus, Proceedings of the 6th International Workshop on Distributed Algorithms, p.69-84, November 02-04, 1992
+Jon Kleinberg , Sendhil Mullainathan, Resource bounds and combinations of consensus objects, Proceedings of the twelfth annual ACM symposium on Principles of distributed computing, p.133-143, August 15-18, 1993, Ithaca, New York, United States[doi>10.1145/164051.164069]
+Leslie Lamport, Concurrent reading and writing, Communications of the ACM, v.20 n.11, p.806-811, Nov. 1977[doi>10.1145/359863.359878]
+LAMPORT, L. 1978. The implementation of reliable distributed multi-process systems. Comput. Netw. 2, 95-114.
+LAMPORT, L. 1986.On interprocess communication, Parts I and II. Distr. Comput. 1, 77-101.
+Leslie Lamport , Robert Shostak , Marshall Pease, The Byzantine Generals Problem, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.3, p.382-401, July 1982[doi>10.1145/357172.357176]
+LouI, M. C., AND ABU-AMARA. 1987. Memory requirements for agreement among unreliable asynchonous processes. Adv. Comput. Res. 4, 163-183.
+LYNCH, N., AND TUTTLE, M. 1988. An introduction to input/output automata. Tech. Rep. MIT/ LCS/TM-373. Laboratory for Computer Science, Massachusetts Institute of Technology, Cambridge, Mass.
+Richard Newman-Wolfe, A protocol for wait-free, atomic, multi-reader shared variables, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.232-248, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41860]
+M. Pease , R. Shostak , L. Lamport, Reaching Agreement in the Presence of Faults, Journal of the ACM (JACM), v.27 n.2, p.228-234, April 1980[doi>10.1145/322186.322188]
+Gary L. Peterson, A New Solution to Lamport's Concurrent Programming Problem Using Small Shared Variables, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.1, p.56-65, Jan. 1983[doi>10.1145/357195.357199]
+PETERSON, G., AND BURNS, J. 1987. Concurrent reading while writing II: The multi-writer case. In Proceedings of the 28th Annual Symposium on Foundations of Computer Science. IEEE, New York.
+S. A. Plotkin, Sticky bits and universality of consensus, Proceedings of the eighth annual ACM Symposium on Principles of distributed computing, p.159-175, June 1989, Edmonton, Alberta, Canada[doi>10.1145/72981.72992]
+SCHAFFER, R. 1988. On the correctness of atomic multi-writer registers. Tech. Rep. TR No.: MIT/LCS/TM-364. Laboratory for Computer Science, Massachusetts Institute of Technology, Cambridge, Mass.
+Fred B. Schneider, Implementing fault-tolerant services using the state machine approach: a tutorial, ACM Computing Surveys (CSUR), v.22 n.4, p.299-319, Dec. 1990[doi>10.1145/98163.98167]
+Ambuj K. Singh , James H. Anderson , Mohamed G. Gouda, The elusive atomic register revisited, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.206-221, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41858]
+SRIKANTH, T. K., AND TOUEG, S. 1987. Simulating authenticated broadcasts to derive simple fault-tolerant algorithms. Dist. Comput. 2, 2, 80-94.
+K. Vidyasankar, Converting Lamport's regular register to atomic register, Information Processing Letters, v.28 n.6, p.287-290, Aug. 29, 1988[doi>10.1016/0020-0190(88)90175-5]
+K. Vidyasankar, An elegant 1-writer multireader multivalued atomic register, Information Processing Letters, v.30 n.5, p.221-223, March 1989[doi>10.1016/0020-0190(89)90198-1]
+VITANYI, P., AND AWERBUCH, B. 1986. Atomic shared register access by asynchonous hardware. In Proceedings of the 27th Annual Symposium on Foundations of Computer Science. IEEE, New York.

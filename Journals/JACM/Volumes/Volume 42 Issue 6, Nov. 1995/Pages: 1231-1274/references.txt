@@ -1,0 +1,44 @@
+Karl Abrahamson, On achieving consensus using a shared memory, Proceedings of the seventh annual ACM Symposium on Principles of distributed computing, p.291-302, August 15-17, 1988, Toronto, Ontario, Canada[doi>10.1145/62546.62594]
+Yehuda Afek , Hagit Attiya , Danny Dolev , Eli Gafni , Michael Merritt , Nir Shavit, Atomic snapshots of shared memory, Journal of the ACM (JACM), v.40 n.4, p.873-890, Sept. 1993[doi>10.1145/153724.153741]
+Yehuda Afek , Danny Dolev , Eli Gafni , Michael Merritt , Nir Shavit, A bounded first-in, first-enabled solution to thel-exclusion problem, ACM Transactions on Programming Languages and Systems (TOPLAS), v.16 n.3, p.939-953, May 1994[doi>10.1145/177492.177731]
+Yehuda Afek , Eli Gafni , John Tromp , Paul M. B. Vitányi, Wait-free Test-and-Set (Extended Abstract), Proceedings of the 6th International Workshop on Distributed Algorithms, p.85-94, November 02-04, 1992
+Yehuda Afek , David S. Greenberg , Michael Merritt , Gadi Taubenfeld, Computing with faulty shared memory, Proceedings of the eleventh annual ACM symposium on Principles of distributed computing, p.47-58, August 10-12, 1992, Vancouver, British Columbia, Canada[doi>10.1145/135419.135431]
+Yehuda Afek , Michael Merritt , Gadi Taubenfeld, Benign Failure Models for Shared Memory (Preliminary Version), Proceedings of the 7th International Workshop on Distributed Algorithms, p.69-83, September 27-29, 1993
+Yehuda Afek , Eytan Weisberger , Hanan Weisman, A completeness theorem for a class of synchronization objects, Proceedings of the twelfth annual ACM symposium on Principles of distributed computing, p.159-170, August 15-18, 1993, Ithaca, New York, USA[doi>10.1145/164051.164071]
+James Aspnes , M. Herlihy, Fast randomized consensus using shared memory, Journal of Algorithms, v.11 n.3, p.441-461, Sep. 1990[doi>10.1016/0196-6774(90)90021-6]
+Gordon Bell, Ultracomputers: a teraflop before its time, Communications of the ACM, v.35 n.8, p.26-47, Aug. 1992[doi>10.1145/135226.135227]
+Bard Bloom, Constructing two-writer atomic registers, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.249-259, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41861]
+James E. Burns , Gary L. Peterson, Constructing multi-reader atomic values from non-atomic values, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.222-231, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41859]
+Nicholas Carriero , David Gelernter, Linda in context, Communications of the ACM, v.32 n.4, p.444-458, April 1989[doi>10.1145/63334.63337]
+Benny Chor , Amos Israeli , Ming Li, On processor coordination using asynchronous hardware, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.86-97, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41848]
+Danny Dolev , Eli Gafni , Nir Shavit, Toward a non-atomic era: l-exclusion as a test case, Proceedings of the twentieth annual ACM symposium on Theory of computing, p.78-92, May 02-04, 1988, Chicago, Illinois, USA[doi>10.1145/62212.62220]
+E. W. Dijkstra, Solution of a problem in concurrent programming control, Communications of the ACM, v.8 n.9, p.569, Sept. 1965[doi>10.1145/365559.365617]
+Edsger W. Dijkstra, Self-stabilizing systems in spite of distributed control, Communications of the ACM, v.17 n.11, p.643-644, Nov. 1974[doi>10.1145/361179.361202]
+Michael J. Fischer, The Consensus Problem in Unreliable Distributed Systems (A Brief Survey), Proceedings of the 1983 International FCT-Conference on Fundamentals of Computation Theory, p.127-140, August 21-27, 1983
+~FISCHER, M., LYNCH, N., BURNS, J., AND BORODIN, A. 1979. Resource allocation with immunity ~to limited process failure. In Proceedings of the 20th IEEE Annual Symposium on Foundation of ~Computer Science. IEEE, New York, pp. 234-254.
+~FISCHER, M., LYNCH, N., BURNS, J., AND BORODIN, A. 1985a. Distributed FIFO allocation of ~identical resources using small shared space. Tech. Rep. MIT/LCS/TM-290. Laboratory for ~Computer Science, Massachusetts Institute Technology, Cambridge, Mass.
+Michael J. Fischer , Nancy A. Lynch , Michael Merritt, Easy impossibility proofs for distributed consensus problems, Distributed Computing, v.1 n.1, p.26-39, Jan. 1986[doi>10.1007/BF01843568]
+Michael J. Fischer , Nancy A. Lynch , Michael S. Paterson, Impossibility of distributed consensus with one faulty process, Journal of the ACM (JACM), v.32 n.2, p.374-382, April 1985[doi>10.1145/3149.214121]
+Michael J. Fischer , Shlomo Moran , Steven Rudich , Gadi Taubenfeld, The Wakeup Problem, SIAM Journal on Computing, v.25 n.6, p.1332-1357, Dec. 1996[doi>10.1137/S0097539793254959]
+Michael J. Fischer , Shlomo Moran , Gadi Taubenfeld, Space-efficient asynchronous consensus without shared memory initialization, Information Processing Letters, v.45 n.2, p.101-105, Feb. 26, 1993[doi>10.1016/0020-0190(93)90223-V]
+Maurice Herlihy, Wait-free synchronization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.1, p.124-149, Jan. 1991[doi>10.1145/114005.102808]
+M. P. Herlihy , J. M. Wing, Axioms for concurrent objects, Proceedings of the 14th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.13-26, January 21-23, 1987, Munich, West Germany[doi>10.1145/41625.41627]
+~JAYANTI, P., CHANDRA, T., AND TOUEG, S. 1992. Fault-tolerant wait-free shared objects. In ~Proceedings of the 33rd 1EEE Annual Symposium on Foundation of Computer Science. IEEE ~Computer Society Press, New York.
+Prasad Jayanti , Sam Toueg, Some Results on the Impossibility, Universality, and Decidability of Consensus, Proceedings of the 6th International Workshop on Distributed Algorithms, p.69-84, November 02-04, 1992
+~LOul, M. C., AND ABu-AMARA, H. H. 1987. Memory requirements for agreement among ~unreliable asynchronous processes. Advances in Computing Research. 4, 163-183.
+Leslie Lamport, A new solution of Dijkstra's concurrent programming problem, Communications of the ACM, v.17 n.8, p.453-455, Aug. 1974[doi>10.1145/361082.361093]
+Kai Li , Paul Hudak, Memory coherence in shared virtual memory systems, ACM Transactions on Computer Systems (TOCS), v.7 n.4, p.321-359, Nov. 1989[doi>10.1145/75104.75105]
+Ming Li , Paul M. B. Vitányi, How to Share Concurrent Asynchronous Wait-Free Varaibles (Preliminary Version), Proceedings of the 16th International Colloquium on Automata, Languages and Programming, p.488-505, July 11-15, 1989
+Nancy A. Lynch , Mark R. Tuttle, Hierarchical correctness proofs for distributed algorithms, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.137-151, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41852]
+~MERRITI', M., AND ORDA, A. Efficient test & set algorithms for faulty shared memory. Unpub- ~lished note.
+Shlomo Moran , Gadi Taubenfeld , Irit Yadin, Concurrent counting, Proceedings of the eleventh annual ACM symposium on Principles of distributed computing, p.59-70, August 10-12, 1992, Vancouver, British Columbia, Canada[doi>10.1145/135419.135434]
+Gary L. Peterson, Concurrent Reading While Writing, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.1, p.46-55, Jan. 1983[doi>10.1145/357195.357198]
+~PETERSON, G. L., AND BURNS, J.n. 1987. Concurrent reading while writing II: The multi-writer ~case. In Proceedings of the 28th IEEE Annual Symposium on Foundation of Computer Science ~(Oct.), IEEE, New York, pp. 383 392.
+A. Silberschatz , J. L. Peterson, Operating systems concepts, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1988
+~PLOTKIN, S.A. 1988. Chapter 4: Sticky Bits and Universality of Consensus. Ph.D. dissertation. ~Massachusetts Institute of Technology, Cambridge, Mass.
+~RABIN, M. O. 1982. N-process mutual exclusion with bounded waiting by 4log n shared ~variables. J. Comput. Syst. Sci. 25, 66-75.
+Michael Saks , Nir Shavit , Heather Woll, Optimal time randomized consensus—making resilient algorithms fast in practice, Proceedings of the second annual ACM-SIAM symposium on Discrete algorithms, p.351-362, January 28-30, 1991, San Francisco, California, USA
+Ambuj K. Singh , James H. Anderson , Mohamed G. Gouda, The elusive atomic register, Journal of the ACM (JACM), v.41 n.2, p.311-339, March 1994[doi>10.1145/174652.174657]
+Alan Jay Smith, Cache Memories, ACM Computing Surveys (CSUR), v.14 n.3, p.473-530, Sept. 1982[doi>10.1145/356887.356892]
+John Tromp, How to Construct an Atomic Variable (Extended Abstract), Proceedings of the 3rd International Workshop on Distributed Algorithms, p.292-302, September 26-28, 1989
+~VITANYI, P. M. B., AND AWERBUCH, B. 1987. Shared register access by asynchronous hardware. ~In Proceedings of the 27th IEEE Annual Symposium on Foundation of Computer Science. IEEE, ~New York, 233-243.

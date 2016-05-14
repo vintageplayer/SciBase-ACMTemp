@@ -1,0 +1,39 @@
+~ATFIYA, H., AND LYNCH, N. A. 1989. Time bounds for real-time process control in the presence ~of timing uncertainty. In Proceedings of the lOth IEEE Real-Time Systems Symposium. IEEE, ~ New York, pp. 268 284. Also Inf. Comput., to appear.
+~ATTIYA, H., AND MAVRONICOLAS, M. 1990. Efficiency of semi-synchronous versus asynchronous ~networks. In Proceedings of the 28th Annual Allerton Conference on Communication, Control and ~Computing. Univ. Illinois, Urbana-Champaign, Ill. pp. 578-587. Also Math. Syst. Theory, to ~appear.
+~BERMAN, P., GARAY, J. A., AND PERRY, K. J. 1989. Towards optimal distributed consensus. In ~Proceedings of the 30th IEEE Symposium on Foundattons of Computer Science. IEEE, New York, ~pp. 410-415.
+Gabriel Bracha , Sam Toueg, Asynchronous consensus and broadcast protocols, Journal of the ACM (JACM), v.32 n.4, p.824-840, Oct. 1985[doi>10.1145/4221.214134]
+Brian A Coan, A communication-efficient canonical form for fault-tolerant distributed protocols, Proceedings of the fifth annual ACM symposium on Principles of distributed computing, p.63-72, August 11-13, 1986, Calgary, Alberta, Canada[doi>10.1145/10590.10596]
+B. A. Coan, Achieving consensus in fault-tolerant distributed computer systems: protocols, lower bounds, and simulations, Massachusetts Institute of Technology, Cambridge, MA, 1987
+Brian A. Coan , Cynthia Dwork, Simultaneity is harder than agreement, Information and Computation, v.91 n.2, p.205-231, April 1991[doi>10.1016/0890-5401(91)90067-C]
+~COAN, B. A., AND THOMAS, G. 1990. Agreeing on a leader in real-time. In Proceedings of the llth ~ 1EEE Real-Time Systems Symposium. IEEE, New York, pp. 166-172.
+~CRISTIAN, F., AGHIL1, H., STRONG, H. a., AND DOLEV, D. 1985. Atomic broadcast: From simple ~ message diffusion to Byzantine agreement. In Proceedbzgs of tile 15th hTternational Conference ~on Fault Tolerant Computing. 1985, pp. 1 7. Also: IBM Res. Rep. RJ5244 (revised Apr. 1989).
+Richard A. DeMillo , Nancy A. Lynch , Michael J. Merritt, Cryptographic protocols, Proceedings of the fourteenth annual ACM symposium on Theory of computing, p.383-400, May 05-07, 1982, San Francisco, California, United States[doi>10.1145/800070.802214]
+Danny Dolev , Cynthia Dwork , Larry Stockmeyer, On the minimal synchronism needed for distributed consensus, Journal of the ACM (JACM), v.34 n.1, p.77-97, Jan. 1987[doi>10.1145/7531.7533]
+~DOLEV, D., FISCHER, M. J., FOWLER, R., LYNCH, N. A., AND STRONG, H. R. 1982. Efficient ~Byzantine agreement without authentication. Inf. Contr. 52, 257-274.
+Danny Dolev , Joseph Y Halpern , Raymond H Strong, On the possibility and impossibility of achieving clock synchronization, Journal of Computer and System Sciences, v.32 n.2, p.230-250, April 1986[doi>10.1016/0022-0000(86)90028-0]
+Danny Dolev , Ruediger Reischuk , H. Raymond Strong, Early stopping in Byzantine agreement, Journal of the ACM (JACM), v.37 n.4, p.720-741, Oct. 1990[doi>10.1145/96559.96565]
+~DOLEV, D., AND STRONG, H. R. 1983. Authenticated algorithms for Byzantine agreement. SIAM ~J. Compttt. 12, 4, 656-666.
+Cynthia Dwork , Nancy Lynch , Larry Stockmeyer, Consensus in the presence of partial synchrony, Journal of the ACM (JACM), v.35 n.2, p.288-323, April 1988[doi>10.1145/42282.42283]
+Cynthia Dwork , Yoram Moses, Knowledge and common knowledge in a byzantine environment: crash failures, Information and Computation, v.88 n.2, p.156-186, Oct. 1990[doi>10.1016/0890-5401(90)90014-9]
+~DWORK, C., AND STOCKMEYER, L. 1991. Bounds on the time to reach agreement as a function of ~message delay. IBM Res. Rep. RJS181. IBM Almaden Research Center, San Jose, Calif.
+~FISCHER, M. J., AND LYNCH, N. A. 1982. A lower bound for the time to assure interactive ~consistency. Inf. Proc. Lett. 14, 4 (June), 183-186.
+Michael J. Fischer , Nancy A. Lynch , Michael S. Paterson, Impossibility of distributed consensus with one faulty process, Journal of the ACM (JACM), v.32 n.2, p.374-382, April 1985[doi>10.1145/3149.214121]
+Vassos Hadzilacos, Issues of fault tolerance in concurrent computations (databases, reliability, transactions, agreement protocols, distributed computing), 1985
+~HALPERN, J. Y., MEGIDDO, N., AND MUNSHI, A. A. 1985. Optimal precision in the presence of ~uncertainty, at. Complexity 1, 170-196.
+A. Herzberg , S. Kutten, Fast isolation of arbitrary forwarding faults, Proceedings of the eighth annual ACM Symposium on Principles of distributed computing, p.339-353, June 1989, Edmonton, Alberta, Canada[doi>10.1145/72981.73006]
+~LAMPORT, L., AND FISCHER, M. J. 1982. Byzantine generals and transaction commit protocols. ~Tech. Rep. Op. 62. SRI International, Menlo Park, Calif.
+Leslie Lamport , P. M. Melliar-Smith, Synchronizing clocks in the presence of faults, Journal of the ACM (JACM), v.32 n.1, p.52-78, Jan. 1985[doi>10.1145/2455.2457]
+Leslie Lamport , Robert Shostak , Marshall Pease, The Byzantine Generals Problem, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.3, p.382-401, July 1982[doi>10.1145/357172.357176]
+~LUNDEL1US, J., AND LYNCH, N. 1984. An upper and lower bound for clock synchronization. Inf. ~Contr. 62, 2/3 (Aug./Sept.), 190-204.
+~MERRrTF, M. 1985. Notes on the Dolev Strong lower bound for Byzantine agreement. Unpub- ~hshed manuscript.
+Michael Merritt , Francesmary Modugno , Marc R. Tuttle, Time-Constrained Automata (Extended Abstract), Proceedings of the 2nd International Conference on Concurrency Theory, p.408-423, August 26-29, 1991
+~MOSES, Y., AND TUTTLE, M. R. 1988. Programming simultaneous actions using common knowl- ~edge. Algodthmlca 3, 121-169.
+~MOSES, Y., AND WAARTS, O. 1988. Coordinated traversal: (f + 1)-round Byzantine agreement m ~ polynomial time. In Proceedings oJ the 29th IEEE Sympostum 0;7 Foundations of Computer ~Science. IEEE, New York, pp. 246-255.
+M. Pease , R. Shostak , L. Lamport, Reaching Agreement in the Presence of Faults, Journal of the ACM (JACM), v.27 n.2, p.228-234, April 1980[doi>10.1145/322186.322188]
+Stephen Ponzio, Consensus in the presence of timing uncertainty: omission and Byzantine failures (extended abstract), Proceedings of the tenth annual ACM symposium on Principles of distributed computing, p.125-138, August 19-21, 1991, Montreal, Quebec, Canada[doi>10.1145/112600.112612]
+S. Ponzio, THE REAL-TIME COST OF TIMING UNCERTAINTY: CONSENSUS AND FAILURE DETECTION, Massachusetts Institute of Technology, Cambridge, MA, 1991
+Stephen Ponzio , H. Raymond Strong, Semisynchrony and Real-Time (Extended Abstract), Proceedings of the 6th International Workshop on Distributed Algorithms, p.120-135, November 02-04, 1992
+Injong Rhee , Jennifer L. Welch, The impact of time on the session problem, Proceedings of the eleventh annual ACM symposium on Principles of distributed computing, p.191-202, August 10-12, 1992, Vancouver, British Columbia, Canada[doi>10.1145/135419.135459]
+T. K. Srikanth , Sam Toueg, Optimal clock synchronization, Journal of the ACM (JACM), v.34 n.3, p.626-645, July 1987[doi>10.1145/28869.28876]
+~STRONG, R., DOLEV, D., AND CRISTbMN, F. 1990. New latency bounds for atomic broadcast. In ~ Proceedings llth IEEE Real-Trine Systems Symposium. IEEE, New York, pp. 156-165.
+Jennifer Lindelius Welch , Nancy Lynch, A new fault-tolerant algorithm for clock synchronization, Information and Computation, v.77 n.1, p.1-36, April 1988[doi>10.1016/0890-5401(88)90043-0]

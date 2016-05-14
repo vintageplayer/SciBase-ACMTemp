@@ -1,0 +1,1 @@
+Reliable concurrent processing of transactions in a database system is examined. Since serializability, the conventional concurrency control correctness criterion, is not adequate in the presence of common failures, another theory of correctness is proposed, involving the concepts ofcommit serializability, recoverability,andresiliency.

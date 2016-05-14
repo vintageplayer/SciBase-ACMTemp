@@ -1,0 +1,35 @@
+AHO, A. V., SAGIV, Y., AND ULLMAN, J. D. Equivalence of relational expressions. SlAM J. Comput. 8, 2 (1979), 218-246.
+ARMSTRONG, W.W. Dependency structures of data base relationships. In Proceedings oflFIP 1974. North-Holland, Amsterdam, 1974, pp. 580-583.
+Paolo Atzeni , Edward P. F. Chan, Efficient query answering in the representative instance approach, Proceedings of the fourth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.181-188, March 25-27, 1985, Portland, Oregon, USA[doi>10.1145/325405.325429]
+BEEm, C., AND VARDI, M. Formal systems for tuple and equality generating dependencies. SIAM J. Comput. 13, 1 (1984), 76-98.
+Catriel Beeri , Ronald Fagin , David Maier , Mihalis Yannakakis, On the Desirability of Acyclic Database Schemes, Journal of the ACM (JACM), v.30 n.3, p.479-513, July 1983[doi>10.1145/2402.322389]
+BEERI, C., MENDELZON, A. O., SAGIV, Y., AND ULLMAN, J.D. Equivalence of relational database schemes. SIAM J. Comput. I0, 2 (1981), 352-370.
+BERNSTEIN, P. A., AND GOODMAN, N. The power of natural semijoins. SIAM J. Comput. i0, 4 (I 98 I), 751-77 I.
+C. Robert Carlson , Robert S. Kaplan, A generalized access path model and its application to a relational data base system, Proceedings of the 1976 ACM SIGMOD international conference on Management of data, June 02-04, 1976, Washington, D.C.
+CHAN, E. P.F. Query answering and schema analysis under the weak instance model, CSRI TR- 164. Toronto, Ont., Canada, 1985.
+E P F Chan , Paolo Atzeni, On the properties and characterization of connection-trap-free schemes, Proceedings of the fifth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.140-147, March 24-26, 1986, Cambridge, Massachusetts, USA[doi>10.1145/6012.15411]
+Edward P. F. Chan , Alberto O. Mendelzon, Independent and separable database schemes, SIAM Journal on Computing, v.16 n.5, p.841-851, Oct. 1987[doi>10.1137/0216055]
+E. F. Codd, A relational model of data for large shared data banks, Communications of the ACM, v.13 n.6, p.377-387, June 1970[doi>10.1145/362384.362685]
+Ronald Fagin, Horn clauses and database dependencies, Journal of the ACM (JACM), v.29 n.4, p.952-985, Oct. 1982[doi>10.1145/322344.322347]
+Ronald Fagin , Alberto O. Mendelzon , Jeffrey D. Ullman, A simplied universal relation assumption and its properties, ACM Transactions on Database Systems (TODS), v.7 n.3, p.343-360, Sept. 1982[doi>10.1145/319732.319735]
+GRAHAM, M. H., AND MENDELZON, A. O. Strong equivalence of relational expressions under dependencies. Inf. Process. Lett. 14, 2 (1982), 57-62.
+Marc H. Graham , Alberto O. Mendelzon , Moshe Y. Vardi, Notions of dependency satisfaction, Journal of the ACM (JACM), v.33 n.1, p.105-129, Jan. 1986[doi>10.1145/4904.4798]
+GRAHAM, M. H., AND YANNAKAKIS, M. Independent database schemas. J. Comput. Syst. Sci. 28, I (1984), 121-141.
+HONEYMAN, P. Extension joins. In Proceedings of the 6th International Conference on Very Large Data Bases (Montreal, Canada, Oct. 1-3). ACM, New York, 1980, pp. 239-244.
+Peter Honeyman, Testing satisfaction of functional dependencies, Journal of the ACM (JACM), v.29 n.3, p.668-677, July 1982[doi>10.1145/322326.322330]
+ITO, M., IWASAKI, M., AND KASAMI, T. Some results on the representative instance in relational databases. SIAM J. Comput. 14, 2 (1985), 334-354.
+Henry F. Korth , Gabriel M. Kuper , Joan Feigenbaum , Allen van Gelder , Jeffrey D. Ullman, SYSTEM/U: a database system based on the universal relation assumption, ACM Transactions on Database Systems (TODS), v.9 n.3, p.331-347, Sept. 1984[doi>10.1145/1270.1209]
+David Maier , Alberto O. Mendelzon , Yehoshua Sagiv, Testing implications of data dependencies, ACM Transactions on Database Systems (TODS), v.4 n.4, p.455-469, Dec. 1979[doi>10.1145/320107.320115]
+MAmR, D., ROZENSHTEIN, D., AND WARREN, D.S. Window functions. In Advances in Computing Research, vol. 3. JAI Press, Greenwich, Conn., 1986, pp. 213-246.
+David Maier , Jeffrey D. Ullman , Moshe Y. Vardi, On the foundations of the universal relation model, ACM Transactions on Database Systems (TODS), v.9 n.2, p.283-308, June 1984[doi>10.1145/329.318580]
+Alberto O. Mendelzon, Database states and their tableaux, ACM Transactions on Database Systems (TODS), v.9 n.2, p.264-282, June 1984[doi>10.1145/329.318579]
+NICHOLAS, J-M., AND GALLAIRE, H. Data bases: Theory vs interpretation. In Logic and Data Bases. Plenum Press, New York, 1978, pp. 33-54.
+OSBORN, S. Towards a universal relation interface. In Proceedings of the 5th International Conference on Very Large Data Bases (Rio de Janeiro, Brazil, Oct. 3-5). ACM, New York, 1979, pp. 52-60.
+Yehoshua Sagiv, Can we use the universal instance assumption without using nulls?, Proceedings of the 1981 ACM SIGMOD international conference on Management of data, April 29-May 01, 1981, Ann Arbor, Michigan[doi>10.1145/582318.582336]
+Yehoshua Sagiv, A characterization of globally consistent databases and their correct access paths, ACM Transactions on Database Systems (TODS), v.8 n.2, p.266-286, June 1983[doi>10.1145/319983.319988]
+SAGIV, Y. Evaluation of queries in independent database schemes. Unpublished manuscript, 1984.
+Yehoshua Sagiv , Mihalis Yannakakis, Equivalences Among Relational Expressions with the Union and Difference Operators, Journal of the ACM (JACM), v.27 n.4, p.633-655, Oct. 1980[doi>10.1145/322217.322221]
+Kathryn L. Schenk , James R. Pinkert, An algorithm for servicing multi-relational queries, Proceedings of the 1977 ACM SIGMOD international conference on Management of data, August 03-05, 1977, Toronto, Ontario, Canada[doi>10.1145/509404.509408]
+Jeffrey D. Ullman, Principles of Database Systems, W. H. Freeman & Co., New York, NY, 1983
+VASSILIOU, Y. A formal treatment of imperfect information in data management. CSRG TR-123. Univ. Toronto, Toronto, Ont., Canada, Nov., 1980.
+Mihalis Yannakakis, Querying weak instances, Proceedings of the 3rd ACM SIGACT-SIGMOD symposium on Principles of database systems, April 02-04, 1984, Waterloo, Ontario, Canada[doi>10.1145/588011.588051]

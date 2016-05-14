@@ -1,0 +1,32 @@
+Yehuda Afek , Hagit Attiya , Danny Dolev , Eli Gafni , Michael Merritt , Nir Shavit, Atomic snapshots of shared memory, Journal of the ACM (JACM), v.40 n.4, p.873-890, Sept. 1993[doi>10.1145/153724.153741]
+Yehuda Afek , Pazi Boxer , Dan Touitou, Bounds on the shared memory requirements for long-lived & adaptive objects (extended abstract), Proceedings of the nineteenth annual ACM symposium on Principles of distributed computing, p.81-89, July 16-19, 2000, Portland, Oregon, USA[doi>10.1145/343477.343523]
+James H. Anderson, Composite registers, Distributed Computing, v.6 n.3, p.141-154, April 1993[doi>10.1007/BF02242703]
+James H. Anderson, Multi-writer composite registers, Distributed Computing, v.7 n.4, p.175-195, May 1994[doi>10.1007/BF02280833]
+James H. Anderson , Jae-Heon Yang, Time/contention trade-offs for multiprocessor synchronization, Information and Computation, v.124 n.1, p.68-84, Jan. 10, 1996[doi>10.1006/inco.1996.0006]
+James Aspnes, Time- and space-efficient randomized consensus, Journal of Algorithms, v.14 n.3, p.414-431, May 1993[doi>10.1006/jagm.1993.1022]
+James Aspnes , M. Herlihy, Fast randomized consensus using shared memory, Journal of Algorithms, v.11 n.3, p.441-461, Sep. 1990[doi>10.1016/0196-6774(90)90021-6]
+J. Aspnes , M. Herlihy, Wait-free data structures in the asynchronous PRAM model, Proceedings of the second annual ACM symposium on Parallel algorithms and architectures, p.340-349, July 02-06, 1990, Island of Crete, Greece[doi>10.1145/97444.97701]
+Hagit Attiya , Faith Ellen , Panagiota Fatourou, The complexity of updating multi-writer snapshot objects, Proceedings of the 8th international conference on Distributed Computing and Networking, December 27-30, 2006, Guwahati, India[doi>10.1007/11947950_35]
+Hagit Attiya , Faith Ellen Fich , Yaniv Kaplan, Lower bounds for adaptive collect and related objects, Proceedings of the twenty-third annual ACM symposium on Principles of distributed computing, July 25-28, 2004, St. John's, Newfoundland, Canada[doi>10.1145/1011767.1011777]
+Hagit Attiya , Arie Fouren, Adaptive and Efficient Algorithms for Lattice Agreement and Renaming, SIAM Journal on Computing, v.31 n.2, p.642-664, 2001[doi>10.1137/S0097539700366000]
+Hagit Attiya , Maurice Herlihy , Ophir Rachman, Atomic snapshots using lattice agreement, Distributed Computing, v.8 n.3, p.121-132, March 1995[doi>10.1007/BF02242714]
+Hagit Attiya , Nancy Lynch , Nir Shavit, Are wait-free algorithms fast?, Journal of the ACM (JACM), v.41 n.4, p.725-763, July 1994[doi>10.1145/179812.179902]
+Hagit Attiya , Ophir Rachman, Atomic Snapshots inO(nlogn) Operations, SIAM Journal on Computing, v.27 n.2, p.319-340, April 1998[doi>10.1137/S0097539795279463]
+Hagit Attiya , Jennifer Welch, Distributed Computing: Fundamentals, Simulations and Advanced Topics, John Wiley & Sons, 2004
+James E. Burns , Nancy A. Lynch, Bounds on shared memory for mutual exclusion, Information and Computation, v.107 n.2, p.171-184, Dec. 1993[doi>10.1006/inco.1993.1065]
+Panagiota Fatourou , Faith Ellen Fich , Eric Ruppert, Time-space tradeoffs for implementations of snapshots, Proceedings of the thirty-eighth annual ACM symposium on Theory of computing, May 21-23, 2006, Seattle, WA, USA[doi>10.1145/1132516.1132542]
+Faith Fich , Maurice Herlihy , Nir Shavit, On the space complexity of randomized synchronization, Journal of the ACM (JACM), v.45 n.5, p.843-862, Sept. 1998[doi>10.1145/290179.290183]
+Faith Fich , Eric Ruppert, Hundreds of impossibility results for distributed computing, Distributed Computing, v.16 n.2-3, p.121-163, September 2003[doi>10.1007/s00446-003-0091-y]
+Rainer Gawlick , Nancy Lynch , Nir Shavit, Concurrent timestamping made simple, Symposium proceedings on Theory of computing and systems, p.171-183, June 1992, Haifa, Israel
+Maurice Herlihy, Randomized wait-free concurrent objects (extended abstract), Proceedings of the tenth annual ACM symposium on Principles of distributed computing, p.11-21, August 19-21, 1991, Montreal, Quebec, Canada[doi>10.1145/112600.112602]
+Maurice Herlihy, Wait-free synchronization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.1, p.124-149, Jan. 1991[doi>10.1145/114005.102808]
+Maurice P. Herlihy , Jeannette M. Wing, Linearizability: a correctness condition for concurrent objects, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.3, p.463-492, July 1990[doi>10.1145/78969.78972]
+Gunnar Hoest , Nir Shavit, Toward a Topological Characterization of Asynchronous Complexity, SIAM Journal on Computing, v.36 n.2, p.457-497, 2006[doi>10.1137/S0097539701397412]
+Michiko Inoue , Wei Chen, Linear-Time Snapshot Using Multi-writer Multi-reader Registers, Proceedings of the 8th International Workshop on Distributed Algorithms, p.130-140, September 29-October 01, 1994
+Israeli, A., Shaham, A., and Shirazi, A. 1995. Linear-time snapshot implementations in unbalanced systems. Math. Syst. Theor. 28, 5 (Sept./Oct.), 469--486.
+Amos Israeli , Asaf Shirazi, The time complexity of updating snapshot memories, Information Processing Letters, v.65 n.1, p.33-40, Jan 1, 1998[doi>10.1016/S0020-0190(97)00189-0]
+Prasad Jayanti, An optimal multi-writer snapshot algorithm, Proceedings of the thirty-seventh annual ACM symposium on Theory of computing, May 22-24, 2005, Baltimore, MD, USA[doi>10.1145/1060590.1060697]
+Prasad Jayanti , King Tan , Sam Toueg, Time and Space Lower Bounds for Nonblocking Implementations, SIAM Journal on Computing, v.30 n.2, p.438-456, 2000[doi>10.1137/S0097539797317299]
+Nancy A. Lynch, Distributed Algorithms, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1996
+Riany, Y., Shavit, N., and Touitou, D. 2001. Towards a practical snapshot algorithm. Theor. Comput. Sci. 269, 1--2 (Oct.), 163--201.
+Eric Ruppert, Determining Consensus Numbers, SIAM Journal on Computing, v.30 n.4, p.1156-1168, 2000[doi>10.1137/S0097539797329439]

@@ -1,0 +1,73 @@
+ANTOY, S. 1991. Non-determinism and lazy evaluation in logic programming. In Proceedings of the International Workshop on Logic Program Synthesis and Transformation (LOPSTR'91) (Manchester, UK, July). T. P. Clement and K.-K. Lau, eds. Springer Workshops in Computing Series, Springer-Verlag, New York, pp. 318-331.
+Sergio Antoy, Definitional Trees, Proceedings of the Third International Conference on Algebraic and Logic Programming, p.143-157, September 02-04, 1992
+Sergio Antoy, Needed Narrowing in Prolog (Extended Abstract), Proceedings of the 8th International Symposium on Programming Languages: Implementations, Logics, and Programs, p.473-474, September 24-27, 1996
+Sergio Antoy, Optimal Non-deterministic Functional Logic Computations, Proceedings of the 6th International Joint Conference on Algebraic and Logic Programming, p.16-30, September 03-05, 1997
+Sergio Antoy , Rachid Echahed , Michael Hanus, A needed narrowing strategy, Proceedings of the 21st ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.268-279, January 16-19, 1994, Portland, Oregon, USA[doi>10.1145/174675.177899]
+ANTOY, S., ECHAHED, R., AND HANUS, M. 1997. Parallel evaluation strategies for functional logic languages. In Proceedings of the 14th International Conference on Logic Programming (ICLP'97). MIT Press, Cambridge, Mass., pp. 138-152.
+H P Barendregt , M C J D Eekelen , J R W Glauert , J R Kennaway , M J Plasmeijer , M R Sleep, Term graph rewriting, Volume II: Parallel Languages on PARLE: Parallel Architectures and Languages Europe, p.141-158, March 1987, Eindhoven, The Netherlands
+J A Bergstra , J W Klop, Conditional rewrite rules: Confluence and termination, Journal of Computer and System Sciences, v.32 n.3, p.323-362, June 1986[doi>10.1016/0022-0000(86)90033-4]
+Gérard Berry , Jean-Jacques Lévy, Minimal and Optimal Computations of Recursive Programs, Journal of the ACM (JACM), v.26 n.1, p.148-175, Jan. 1979[doi>10.1145/322108.322122]
+D Bert , R Echahed, Design and implementation of a generic, logic and functional programming language, Proc. of the European symposium on programming on ESOP 86, p.119-132, March 1986, Saarbru:9Aicken, Germany
+G Boudol, Computational semantics of term rewriting systems, Algebraic methods in semantics, Cambridge University Press, New York, NY, 1986
+Pui Hung Cheong , Laurent Fribourg, Implementation of narrowing: the Prolog-based approach, Logic programming languages: constraints, functions, and objects, MIT Press, Cambridge, MA, 1993
+J. Darlington , Y.-K. Guo, Narrowing and unification in functional programming mechanism for absolute set a bstraction, Proceedings of the 3rd international conference on Rewriting Techniques and Applications, p.92-108, January 1989
+DERSHOWITZ, N. 1989. Completion and its applications. In Resolution of Equations in Algebraic Structures, Vol. 2: Rewriting Techniques. H. Ait-Kaci and M. Nivat, eds. Academic Press, New York, Chap. 2, pp. 31-85.
+Nachum Dershowitz , Jean-Pierre Jouannaud, Rewrite systems, Handbook of theoretical computer science (vol. B): formal models and semantics, MIT Press, Cambridge, MA, 1991
+Rachid Echahed, On completeness of narrowing strategies, Theoretical Computer Science, v.72 n.2-3, p.133-146, May 23, 1990[doi>10.1016/0304-3975(90)90032-D]
+Rachid Echahed, Uniform Narrowing Strategies, Proceedings of the Third International Conference on Algebraic and Logic Programming, p.259-275, September 02-04, 1992
+Rachid Echahed , Jean-Christophe Janodet, Admissible graph rewriting and narrowing, Proceedings of the 1998 joint international conference and symposium on Logic programming, p.325-340, August 1998, Manchester, United Kingdom
+FASSBENDER, H., AND VOGLER, H. 1994. A universal unification algorithm based on unificationdriven leftmost outermost narrowing. Acta Cybern. 11, 3, 139-167.
+FAY, M. J. 1979. First-order unification in an equational theory. In Proceedings of the 4th
+Workshop on Automated Deduction (Austin, Tex.). Academic Press, New York, pp. 161-167.
+FRIBOURG, L. 1985. SLOG: A logic programming language interpreter based on clausal superposition and rewriting. In Proceedings of the IEEE International Symposium on Logic Programming (Boston, Mass.). IEEE, New York, pp. 172-184.
+Elio Giovannetti , Giorgio Levi , Corrado Moiso , Catuscia Palamidessi, Kernel-LEAF: a logic plus functional language, Journal of Computer and System Sciences, v.42 n.2, p.139-185, April 1991[doi>10.1016/0022-0000(91)90009-T]
+GOGUEN, J. A., AND MESEGUER, J. 1986. Eqlog: Equality, types, and generic modules for logic programming. In Logic Programming, Functions, Relations, and Equations, D. DeGroot and G. Lindstrom, eds. Prentice-Hall, Englewood Cliffs, N.J., pp. 295-363.
+J. C. González-Moreno , Maria Teresa Hortalá-González , Francisco Javier López-Fraguas , Mario Rodríguez-Artalejo, A Rewriting Logic for Declarative Programming, Proceedings of the 6th European Symposium on Programming Languages and Systems, p.156-172, April 22-24, 1996
+GUTTAG, J. V., AND HORNING, J.J. 1978. The algebraic specification of abstract data types. Acta Inf.
+HAMADA, M., AND MIDDELDORP, A. 1997. Strong completeness of a lazy conditional narrowing calculus. In Proceedings of the 2nd Fuji International Workshop on Functional and Logic Programming. World Scientific, pp. 14-32.
+Werner Hans , Rita Loogen , Stephan Winkler, On the Interaction of Lazy Evaluation and Backtracking, Proceedings of the 4th International Symposium on Programming Language Implementation and Logic Programming, p.355-369, August 26-28, 1992
+Michael Hanus, Compiling Logic Programs with Equality, Proceedings of the 2nd International Workshop on Programming Language Implementation and Logic Programming, p.387-400, August 20-22, 1990
+Michael Hanus, Improving Control of Logic Programs by Using Functional Logic Languages, Proceedings of the 4th International Symposium on Programming Language Implementation and Logic Programming, p.1-23, August 26-28, 1992
+HANUS, M. 1994. The integration of functions into logic programming: From theory to practice. J. Logic Prog. 19&20, 583-628.
+Michael Hanus, Efficient Translation of Lazy Functional Logic Programs into Prolog, Proceedings of the 5th International Workshop on Logic Programming Synthesis and Transformation, p.252-266, September 20-22, 1995
+Michael Hanus, A unified computation model for functional and logic programming, Proceedings of the 24th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.80-93, January 15-17, 1997, Paris, France[doi>10.1145/263699.263710]
+HANUS, M.ED. 1999. Curry: An integrated functional logic language. Available at http ://wwwi2. informatik, rwth-aachen, de/-hanus/curry.
+Michael Hanus , Salvador Lucas , Aart Middeldorp, Strongly sequential and inductively sequential term rewriting systems, Information Processing Letters, v.67 n.1, p.1-8, July 16, 1998[doi>10.1016/S0020-0190(98)00016-7]
+Michael Hanus , Christian Prehofer, Higher-Order Narrowing with Definitional Trees, Proceedings of the 7th International Conference on Rewriting Techniques and Applications, p.138-152, July 27-30, 1996
+HANUS, M., AND SADRE, R. 1999. An abstract machine for Curry and its concurrent implementation in Java. J. Funct. Logic Prog. 6.
+HEROLD, A. 1986. Narrowing techniques applied to idempotent unification. Tech. Rep. SR-86-16. SEKI.
+Steffen Hölldobler, Foundations of Equational Logic Programming, Springer-Verlag New York, Inc., New York, NY, 1989
+HUET, G., AND HULLOT, J.-M. 1982. Proofs by induction in equational theories with constructors. J. Comput. Syst. Sci. 25, 239-266.
+HUET, G., AND LI~VY, J.-J. 1991. Computations in orthogonal term rewriting systems. In Computational logic: Essays in honour of Alan Robinson, J.-L. Lassez and G. Plotkin, eds. MIT Press, Cambridge, Mass., pp. 395-443.
+Jean-Marie Hullot, Canonical Forms and Unification, Proceedings of the 5th Conference on Automated Deduction, p.318-334, July 08-11, 1980
+Tetsuo Ida , Koichi Nakahara, Leftmost outside-in narrowing calculi, Journal of Functional Programming, v.7 n.2, p.129-161, March 1997[doi>10.1017/S0956796897002645]
+JIMENEZ-MARTIN, J. A., MARINO-CARBALLO, J., AND MORENO-NAVARRO, J. J. 1992. Efficient compilation of lazy narrowing into prolog. In Proceedings of the International Workshop on Logic Program Synthesis and Transformation (LOPSTR'92). Springer Workshops in Computing Series. Springer-Verlag, New York, pp. 253-270.
+R. Kennaway, The specificity rule for lazy pattern-matching in ambiguous term rewrite systems, Proceedings of the third European symposium on programming on ESOP '90, p.256-270, May 1990, Copenhagen, Denmark
+J. R. Kennaway , J. W. Klop , M. R. Sleep , F. J. de Vries, The adequacy of term graph rewriting for simulating term rewriting, Term graph rewriting: theory and practice, John Wiley and Sons Ltd., Chichester, 1993
+J. W. Klop, Term rewriting systems, Handbook of logic in computer science (vol. 2): background: computational structures, Oxford University Press, Inc., New York, NY, 1993
+Jan Willem Klop , Aart Middeldorp, Sequentiality in orthogonal term rewriting systems, Journal of Symbolic Computation, v.12 n.2, p.161-195, Aug. 1991[doi>10.1016/S0747-7171(08)80124-1]
+Rita Loogen , Francisco Javier López-Fraguas , Mario Rodríguez-Artalejo, A Demand Driven Computation Strategy for Lazy Narrowing, Proceedings of the 5th International Symposium on Programming Language Implementation and Logic Programming, p.184-200, August 25-27, 1993
+Luc Maranget, Optimal derivations in weak lambda-calculi and in orthogonal term rewriting systems, Proceedings of the 18th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.255-269, January 21-23, 1991, Orlando, Florida, USA[doi>10.1145/99583.99618]
+MIDDELDORP, A., AND HAMOEN, E. 1994. Completeness results for basic narrowing. Applic. Algebra Eng. Commun. Comput. 5, 213-253.
+Aart Middeldorp , Satoshi Okui, A deterministic lazy narrowing calculus, Journal of Symbolic Computation, v.25 n.6, p.733-757, June 1998[doi>10.1006/jsco.1997.0197]
+Aart Middeldorp , Satoshi Okui , Tetsuo Ida, Lazy narrowing: strong completeness and eager variable elimination, Theoretical Computer Science, v.167 n.1-2, p.95-130, Oct. 30, 1996[doi>10.1016/0304-3975(96)00071-0]
+Juan José Moreno-Navarro , Herbert Kuchen , Rita Loogen , Mario Rodríguez-Artalejo, Lazy Narrowing in a Graph Machine, Proceedings of the Second International Conference on Algebraic and Logic Programming, p.298-317, October 01-03, 1990
+Juan Jose Moreno-Navarro , Mario Rodriguez-Artalejo, Logic programming with functions and predicates: the language Babel, Journal of Logic Programming, v.12 n.3, p.191-223, Feb. 1992[doi>10.1016/0743-1066(92)90024-W]
+Juan José Moreno-Navarro , Herbert Kuchen , Julio Mariño-Carballo , Stephan Winkler , Werner Hans, Efficient Lazy Narrowing using Demandedness Analysis, Proceedings of the 5th International Symposium on Programming Language Implementation and Logic Programming, p.167-183, August 25-27, 1993
+Koichi Nakahara , Aart Middeldorp , Tetsuo Ida, A Complete Narrowing Calculus for Higher-Order Functional Logic Programming, Proceedings of the 7th International Symposium on Programming Languages: Implementations, Logics and Programs, p.97-114, September 20-22, 1995
+Robert Nieuwenhuis, On Narrowing, Refutation Proofs and Constraints, Proceedings of the 6th International Conference on Rewriting Techniques and Applications, p.56-70, April 05-07, 1995
+Werner Nutt , Pierre Réty , Gert Smolka, Basic narrowing revisited, Journal of Symbolic Computation, v.7 n.3-4, p.295-317, March/April 1989[doi>10.1016/S0747-7171(89)80014-8]
+Michael J. O'Donnell, Computing in Systems Described by Equations, Springer-Verlag New York, Inc., Secaucus, NJ, 1977
+Michael J. O'Donnell, Equational logic as a programming language, Massachusetts Institute of Technology, Cambridge, MA, 1985
+Peter Padawitz, Computing in Horn clause theories, Springer-Verlag New York, Inc., New York, NY, 1988
+Rinus Plasmeijer , Marko Van Eekelen, Functional Programming and Parallel Graph Rewriting, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1993
+PLOTKIN, G.D. 1972. Building-in equational theories. Mach. Int. 7, 73-90.
+REDDY, U.S. 1985. Narrowing as the operational semantics of functional languages. In Proceedings of the IEEE International Symposium on Logic Programming (Boston, Mass.). IEEE Computer Society Press, Los Alamitos, Calif., pp. 138-151.
+R. C. Sekar , I. V. Ramakrishnan, Programming in equational logic: beyond strong sequentiality, Information and Computation, v.104 n.1, p.78-109, May 1993[doi>10.1006/inco.1993.1026]
+James R. Slagle, Automated Theorem-Proving for Theories with Simplifiers Commutativity, and Associativity, Journal of the ACM (JACM), v.21 n.4, p.622-642, Oct. 1974[doi>10.1145/321850.321859]
+M. R. Sleep , M. J. Plasmeijer , M. C. J. D. van Eekelen, Term graph rewriting: theory and practice, John Wiley and Sons Ltd., Chichester, 1993
+Jean Jacques Thiel, Stop losing sleep over incomplete data type specifications, Proceedings of the 11th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.76-82, January 15-18, 1984, Salt Lake City, Utah, USA[doi>10.1145/800017.800518]
+ULLAN HERNANDEZ, E. 1995. A lazy narrowing abstract machine. Tech. rep. DIA/95/3. Univ. Complutense, Madrid, Spain.
+Philip Wadler, How to replace failure by a list of successes, Proc. of a conference on Functional programming languages and computer architecture, p.113-128, January 1985, Nancy, France
+WARREN, D. H.D. 1982. Higher-order extensions to prolog: are they needed? Mach. Intell. 10, 441-454.
+Jia-Huai You, Unification modulo an equality theory for equational logic programming, Journal of Computer and System Sciences, v.42 n.1, p.54-75, Feb. 1991[doi>10.1016/0022-0000(91)90039-8]

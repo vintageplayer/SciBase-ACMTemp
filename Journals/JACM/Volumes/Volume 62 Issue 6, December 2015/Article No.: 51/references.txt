@@ -1,0 +1,20 @@
+H. Avron , A. Druinsky , A. Gupta, Revisiting Asynchronous Linear Solvers: Provable Convergence Rate through Randomization, Proceedings of the 2014 IEEE 28th International Parallel and Distributed Processing Symposium, p.198-207, May 19-23, 2014[doi>10.1109/IPDPS.2014.31]
+H. Avron, A. Druinsky, and S. Toledo. 2013. Reliable iterative condition-number estimation. CoRR abs/1301.1107 (2013). http://arxiv.org/abs/1301.1107.
+Gérard M. Baudet, Asynchronous Iterative Methods for Multiprocessors, Journal of the ACM (JACM), v.25 n.2, p.226-244, April 1978[doi>10.1145/322063.322067]
+Dimitri P. Bertsekas , John N. Tsitsiklis, Parallel and distributed computation: numerical methods, Prentice-Hall, Inc., Upper Saddle River, NJ, 1989
+I. Bethune, J. M. Bull, N. J. Dingle, and N. J. Higham. 2012. Performance analysis of asynchronous Jacobi's method implemented in MPI, SHMEM and OpenMP. MIMS EPrint 2012.62, University of Manchester, 20 pages.
+D. Chazan and W. Miranker. 1969. Chaotic relaxation. Linear Algebra Appl. 2, 2 (1969), 199--222. DOI:http://dx.doi.org/10.1016/0024-3795(69)90028-7
+N. M. Freris and A. Zouzias. 2012. Fast distributed smoothing for network clock synchronization. In Proceedings of the IEEE Conference on Decision and Control.
+Andreas Frommer , Daniel B. Szyld, On asynchronous iterations, Journal of Computational and Applied Mathematics, v.123 n.1-2, p.201-216, Nov. 2000[doi>10.1016/S0377-0427(00)00409-X]
+M. Griebel and P. Oswald. 2012. Greedy and randomized versions of the multiplicative Schwarz method. Linear Algebra Appl. 437, 7 (2012), 1596--1610. DOI:http://dx.doi.org/10.1016/j.laa.2012.04.052
+J. Hook and N. J. Dingle. 2013. Performance analysis of asynchronous parallel Jacobi. MIMS EPrint 2013.52, University of Manchester, 27 pages.
+D. Leventhal and A. S. Lewis. 2010. Randomized methods for linear constraints: Convergence rates and conditioning. Math. Oper. Res. 35, 3 (2010), 641--654.
+J. Liu and S. J. Wright. 2014. Asynchronous stochastic coordinate descent: Parallelism and convergence properties. SIAM J. Optim. 25, 1.
+J. Liu, S. J. Wright, C. Re, V. Bittorf, and S. Sridhar. 2014a. An asynchronous parallel stochastic coordinate descent algorithm. In Proceedings of the International Conference in Machine Learning (ICML).
+J. Liu, S. J. Wright, and S. Sridhar. 2014b. An asynchronous parallel randomized Kaczmarz algorithm. arxiv: 1401. 4780.
+F. Niu, B. Recht, C. Re, and S. J. Wright. 2011. Hogwild: A lock-free approach to parallelizing stochastic gradient descent. In Proceedings of the 24th Advances in Neural Information Processing Systems (NIPS). 693--701.
+Yvan Notay, Flexible Conjugate Gradients, SIAM Journal on Scientific Computing, v.22 n.4, p.1444-1460, 2000[doi>10.1137/S1064827599362314]
+Youcef Saad, A flexible inner-outer preconditioned GMRES algorithm, SIAM Journal on Scientific Computing, v.14 n.2, p.461-469, March 1993[doi>10.1137/0914028]
+John K. Salmon , Mark A. Moraes , Ron O. Dror , David E. Shaw, Parallel random numbers: as easy as 1, 2, 3, Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis, November 12-18, 2011, Seattle, Washington[doi>10.1145/2063384.2063405]
+Valeria Simoncini , Daniel B. Szyld, Flexible Inner-Outer Krylov Subspace Methods, SIAM Journal on Numerical Analysis, v.40 n.6, p.2219-2239, 2002[doi>10.1137/S0036142902401074]
+T. Strohmer and R. Vershynin. 2009. A randomized Kaczmarz algorithm with exponential convergence. J. Fourier Anal. Appl. 15, 2 (2009), 262--278. http://dx.doi.org/10.1007/s00041-008-9030-4.

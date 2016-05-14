@@ -1,0 +1,87 @@
+Xian-He Sun, A scalable parallel algorithm for periodic symmetric Toeplitz tridiagonal systems, Progress in computer research, Nova Science Publishers, Inc., Commack, NY, 2001
+Richard Reuter, Solving (cyclic) tridiagonal systems, ACM SIGAPL APL Quote Quad, v.18 n.3, p.6-12, March, 1988
+Jung-Gen Wu , Wen-Ming Yan , Kuo-Liang Chung, A Parallel Solver for Circulant Toeplitz Tridiagonal Systems on Hypercubes, Journal of Scientific Computing, v.12 n.4, p.409-431, Dec. 1997
+Mirko Myllykoski , Tuomo Rossi , Jari Toivanen, Fast poisson solvers for graphics processing units, Proceedings of the 11th international conference on Applied Parallel and Scientific Computing, June 10-13, 2012, Helsinki, Finland
+James McCann, Recalling the single-FFT direct Poisson solve, ACM SIGGRAPH 2008 posters, August 11-15, 2008, Los Angeles, California
+U. Schumann, Comments on "A Fast Computer Method for Matrix Transposing" and Application to the Solution of Poisson's Equation, IEEE Transactions on Computers, v.22 n.5, p.542-543, May 1973
+Billy L. Buzbee, A Fast Poisson Solver Amenable to Parallel Computation, IEEE Transactions on Computers, v.22 n.8, p.793-796, August 1973
+Michael S. Dodd , Antonino Ferrante, A fast pressure-correction method for incompressible two-fluid flows, Journal of Computational Physics, 273, p.416-434, September, 2014
+V. Fuka, PoisFFT - A free parallel fast Poisson solver, Applied Mathematics and Computation, v.267 n.C, p.356-364, September 2015
+Xian-He Sun , Wu Zhang, A Parallel Two-Level Hybrid Method for Diagonal Dominant Tridiagonal Systems, Proceedings of the 16th International Parallel and Distributed Processing Symposium, p.29, April 15-19, 2002
+S. Chandra Sekhara Rao , Sarita, Parallel solution of large symmetric tridiagonal linear systems, Parallel Computing, v.34 n.3, p.177-197, March, 2008
+E. N. Houstis , T. S. Papatheodorou, High-Order Fast Elliptic Equation Solvers, ACM Transactions on Mathematical Software (TOMS), v.5 n.4, p.431-441, Dec. 1979
+Hasan Bulut , Mahmut Ergüt , Vedat Asil , Roza Horvath Bokor, Numerical solution of a viscous incompressible flow problem through an orifice by Adomian decomposition method, Applied Mathematics and Computation, v.153 n.3, p.733-741, June, 2004
+Hsin-Chu Chen, A Block Fourier Decomposition Method, Proceedings of the 6th International Conference on Applied Parallel Computing Advanced Scientific Computing, p.351-358, June 15-18, 2002
+Carl Christian Kjelgaard Mikkelsen , Bo Kågström, Approximate incomplete cyclic reduction for systems which are tridiagonal and strictly diagonally dominant by rows, Proceedings of the 11th international conference on Applied Parallel and Scientific Computing, June 10-13, 2012, Helsinki, Finland
+D. S. Parker , C. S. Raghavendra, The Gamma network: A multiprocessor interconnection network with redundant paths, ACM SIGARCH Computer Architecture News, v.10 n.3, p.73-80, April 1982
+J. Verkaik , H. X. Lin, A class of novel parallel algorithms for the solution of tridiagonal systems, Parallel Computing, v.31 n.6, p.563-587, June 2005
+Carl Christian Kjelgaard Mikkelsen , Bo Kågström, Incomplete cyclic reduction of banded and strictly diagonally dominant linear systems, Proceedings of the 9th international conference on Parallel Processing and Applied Mathematics, September 11-14, 2011, Torun, Poland
+L. E. Garey, An efficient algorithm for a model with a bidiagonal coefficient matrix, Applied Mathematics and Computation, v.122 n.3, p.373-383, August, 2001
+H. X. Lin, Graph transformation and designing parallel sparse matrix algorithms beyond data dependence analysis, Scientific Programming, v.12 n.2, p.91-100, April 2004
+Hsin-Chu Chen , Shinn-Yih Tzeng, A parallel solver using block fourier decompositions, Proceedings of the 2003 international conference on Parallel and distributed processing and applications, July 02-04, 2003, Aizu-Wakamatsu, Japan
+W. M. Gentleman , G. Sande, Fast Fourier Transforms: for fun and profit, Proceedings of the November 7-10, 1966, fall joint computer conference, November 07-10, 1966, San Francisco, California
+Xian-He Sun , Yu Zhuang, A highly accurate fast solver for Helmholtz equations, Proceedings of the 11th international conference on Supercomputing, p.52-59, July 07-11, 1997, Vienna, Austria
+Harold S. Stone, Parallel Tridiagonal Equation Solvers, ACM Transactions on Mathematical Software (TOMS), v.1 n.4, p.289-307, Dec. 1975
+Carl Christian Kjelgaard Mikkelsen , Bo Kågström, Parallel solution of narrow banded diagonally dominant linear systems, Proceedings of the 10th international conference on Applied Parallel and Scientific Computing, June 06-09, 2010, Reykjavík, Iceland
+H. A. Presnell , R. P. Pargas, Communication along shortest paths in a tree machine, Proceedings of the 1981 conference on Functional programming languages and computer architecture, p.107-114, October 18-22, 1981, Portsmouth, New Hampshire, United States
+Maria Ganzha , Krassimir Georgiev , Ivan Lirkov , Marcin Paprzycki, An application of partition method for solving 3D Stokes equation, Computers & Mathematics with Applications, v.70 n.11, p.2762-2772, December 2015
+Jules J. Lambiotte, Jr. , Robert G. Voigt, The Solution of Tridiagonal Linear Systems on the CDC STAR 100 Computer, ACM Transactions on Mathematical Software (TOMS), v.1 n.4, p.308-329, Dec. 1975
+Xian-He Sun , Wu Zhang, A Parallel Two-Level Hybrid Method for Tridiagonal Systems and Its Application to Fast Poisson Solvers, IEEE Transactions on Parallel and Distributed Systems, v.15 n.2, p.97-106, February 2004
+Kamal K. Bharadwaj , Mohan K. Kadalbajoo , R. Sankar, Symmetric marching technique for the poisson equation. I. Dirichlet boundary conditions, Applied Mathematics and Computation, v.15 n.2, p.137-149, Aug. 1984
+Roland A. Sweet , William L. Briggs , Suely Oliveira , Jules L. Porsche , Tom Turnbull, Paper: FFTs and three-dimensional Poisson solvers for hypercubes, Parallel Computing, v.17 n.2-3, p.121-131, June, 1991
+R. Colony , R. R. Reynolds, An application of Hockney's method for solving Poisson's equation, Proceedings of the May 5-7, 1970, spring joint computer conference, May 05-07, 1970, Atlantic City, New Jersey
+K. K. Bharadwaj , M. K. Kadalbajoo , R. Sankar, Symmetric marching technique for the discretized Poisson equation, Applied Mathematics and Computation, v.12 n.2-3, p.187-198, May, 1983
+Li-Wen Chang , John A. Stratton , Hee-Seok Kim , Wen-Mei W. Hwu, A scalable, numerically stable, high-performance tridiagonal solver using GPUs, Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, November 10-16, 2012, Salt Lake City, Utah
+Jef Hendrickx , Marc Van Barel, A Kronecker product variant of the FACR method for solving the generalized Poisson equation, Journal of Computational and Applied Mathematics, v.140 n.1-2, p.369-380, 1 March 2002
+Holger Bischof , Sergei Gorlatch, A cost-optimal parallel implementation of a tridiagonal system solver using skeletons, Future Generation Computer Systems, v.21 n.5, p.737-742, May 2005
+Jack J. Dongarra , Ahmed H. Sameh, On some parallel banded system solvers, Parallel Computing, v.1 n.3-4, p.223-235, December, 1984
+Jack J. Dongarra , Ahmed H. Sameh, On some parallel banded system solvers, Parallel Computing, v.1 n.3, p.223-235, December 1984
+Miodrag Potkonjak , Jan Rabaey, On unlimited parallelism of DSP arithmetic computations, Proceedings of the 1993 IEEE international conference on Acoustics, speech, and signal processing: plenary, special, audio, underwater acoustics, VLSI, neural networks, April 27-30, 1993, Minneapolis, Minnesota, USA
+L. W. Ehrlich, Solving the biharmonic equation in a square: a direct versus a semidirect method, Communications of the ACM, v.16 n.11, p.711-714, Nov. 1973
+Andrew Davidson , John D. Owens, Register packing for cyclic reduction: a case study, Proceedings of the Fourth Workshop on General Purpose Processing on Graphics Processing Units, March 05-05, 2011, Newport Beach, California
+Holger Bischof , Sergei Gorlatch, A cost-optimal parallel implementation of a tridiagonal system solver using skeletons, Future Generation Computer Systems, v.21 n.5, p.737-742, May 2005
+Victor Y. Pan , Isdor Sobze , Antoine Atinkpahoun, Optimum parallel computations with banded matrices, Proceedings of the fifth annual ACM-SIAM symposium on Discrete algorithms, p.649-658, January 23-25, 1994, Arlington, Virginia, United States
+Joan-Josep Climent , Carmen Perea , Leandro Tortosa , Antonio Zamora, A BSP recursive divide and conquer algorithm to solve a tridiagonal linear system, Applied Mathematics and Computation, v.159 n.2, p.459-484, December, 2004
+Ernesto Dufrechu , Pablo Ezzatti , Enrique S. Quintana-Ortí , Alfredo Remón, Accelerating the Lyapack library using GPUs, The Journal of Supercomputing, v.65 n.3, p.1114-1124, September 2013
+Xian-He Sun , Hong Zhang Sun , Lionel M. Ni, Parallel algorithms for solution of tridiagonal systems on multicomputers, Proceedings of the 3rd international conference on Supercomputing, p.303-312, June 05-09, 1989, Crete, Greece
+Ilan Bar-on, A practical parallel algorithm for solving band symmetric positive definite systems of linear equations, ACM Transactions on Mathematical Software (TOMS), v.13 n.4, p.323-332, Dec. 1987
+Mi Lu , Xiangzhen Qiao , Guanrong Chen, A parallel algorithm for evaluating general linear recurrence equations, Circuits, Systems, and Signal Processing, v.15 n.4, p.481-504, July      1996
+François Bouchon , Gunther H. Peichl, The Immersed Interface Technique for Parabolic Problems with Mixed Boundary Conditions, SIAM Journal on Numerical Analysis, v.48 n.6, p.2247-2266, December 2010
+Joan-Josep Climent , Carmen Perea , Leandro Tortosa , Antonio Zamora, An overlapped two-way method for solving tridiagonal linear systems in a BSP computer, Applied Mathematics and Computation, v.161 n.2, p.475-500, February, 2005
+Siddhartha Chatterjee , Guy E. Blelloch , Marco Zagha, Scan primitives for vector computers, Proceedings of the 1990 conference on Supercomputing, p.666-675, October 1990, New York, New York, United States
+Josep-L. Larriba-Pey , Juan J. Navarro , Oriol Roig , Angel Jorba, A generalized vision of some parallel bidiagonal systems solvers, Proceedings of the 8th international conference on Supercomputing, p.404-411, July 11-15, 1994, Manchester, England
+V.Y. Pan , I. Sobze , A. Atinkpahoun, On Parallel Computations with Banded Matrices, Information and Computation, v.120 n.2, p.237-250, Aug. 1, 1995
+Lin-Zhang Lu , Wai-Ki Ching , Michael K. Ng, Exact algorithms for singular tridiagonal systems with applications to Markov chains, Applied Mathematics and Computation, v.159 n.1, p.275-289, November, 2004
+John R. Rice, Algorithmic progress in solving partial differential equations, ACM SIGNUM Newsletter, v.11 n.4, p.6-10, December 1976
+R. W. Hockney, Characterizing Computers and Optimizing the FACR(l) Poisson-Solver on Parallel Unicomputers, IEEE Transactions on Computers, v.32 n.10, p.933-941, October 1983
+Xian-He Sun , Hong Zhang , Lionel M. Ni, Efficient Tridiagonal Solvers on Multicomputers, IEEE Transactions on Computers, v.41 n.3, p.286-296, March 1992
+Andrew V. Terekhov, A highly scalable parallel algorithm for solving Toeplitz tridiagonal systems of linear equations, Journal of Parallel and Distributed Computing, v.87 n.C, p.102-108, January 2016
+Markus Hegland, On the parallel solution of tridiagonal systems by wrap-around partitioning and incomplete LU factorization, Numerische Mathematik, v.59 n.1, p.453-472, December  1991
+C.-W. Ho , R. C. T. Lee, A Parallel Algorithm for Solving Sparse Triangular Systems, IEEE Transactions on Computers, v.39 n.6, p.848-852, June 1990
+Stefan Bondeli, Paper: Divide and conquer: a parallel algorithm for the solution of a tridiagonal linear system of equations, Parallel Computing, v.17 n.4-5, p.419-434, July, 1991
+László Neumann , Ramón Hegedüs, A robust and universal gradient domain imaging solver using gradient variables and locally varying metrics, Proceedings of the Sixth international conference on Computational Aesthetics in Graphics, Visualization and Imaging, June 14-15, 2010, London, United Kingdom
+Christopher R. Anderson , Thomas C. Cecil, A Fourier-Wachspress method for solving Helmholtz's equation in three-dimensional layered domains, Journal of Computational Physics, v.205 n.2, p.706-718, 20 May 2005
+Sudip K. Seal , Kalyan S. Perumalla , Steven P. Hirshman, Research note: Revisiting parallel cyclic reduction and parallel prefix-based algorithms for block tridiagonal systems of equations, Journal of Parallel and Distributed Computing, v.73 n.2, p.273-280, February, 2013
+Yushan Wang , Marc Baboulin , Karl Rupp , Oliver Le Maître , Yann Fraigneau, Solving 3D incompressible Navier-Stokes equations on hybrid CPU/GPU systems, Proceedings of the High Performance Computing Symposium, p.1-8, April 13-16, 2014, Tampa, Florida
+J. Haslinger , T. Kozubek , K. Kunisch , G. Peichl, Shape Optimization and Fictitious Domain Approach for Solving Free Boundary Problems of Bernoulli Type, Computational Optimization and Applications, v.26 n.3, p.231-251, December 2003
+Yao Zhang , Jonathan Cohen , John D. Owens, Fast tridiagonal solvers on the GPU, ACM SIGPLAN Notices, v.45 n.5, May 2010
+Li Yuan , Hong Guo , Zhaohua Yin, On optimal message vector length for block single parallel partition algorithm in a three-dimensional ADI solver, Applied Mathematics and Computation, v.215 n.7, p.2565-2577, December, 2009
+J Gazdag , G Radicati , P Sguazzero , H H Wang, Seismic migration on the IBM 3090 Vector facility, IBM Journal of Research and Development, v.30 n.2, p.172-183, March 1986
+Xinliang Wang , Yangtong Xu , Wei Xue, A hierarchical tridiagonal system solver for heterogenous supercomputers, Proceedings of the 5th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems, p.69-76, November 16-21, 2014, New Orleans, Louisiana
+A. S. Shieh, On the convergence of the conjugate gradient method for singular capacitance matrix equations from the Neumann problem of the Poisson equation, Numerische Mathematik, v.29 n.3, p.307-327, September 1978
+M. Kazhdan, Fast and Exact Poisson Solvers on Symmetric Geometries, Computer Graphics Forum, v.34 n.5, p.153-165, August 2015
+M. Kazhdan, Fast and exact (Poisson) solvers on symmetric geometries, Proceedings of the Eurographics Symposium on Geometry Processing, July 06-08, 2015, Graz, Austria
+Kuo-Liang Chung , Wen-Ming Yan, Parallel B-Spline Surface Fitting on Mesh-Connected Computers, Journal of Parallel and Distributed Computing, v.35 n.2, p.205-210, June 15, 1996
+A. S. Shieh, Fast poisson solvers on general two dimensional regions for the Dirichlet problem, Numerische Mathematik, v.31 n.4, p.405-429, December  1978
+Jef Hendrickx , Raf Vandebril , Marc Van Barel, A fast direct method for solving the two-dimensional Helmholtz equation, with Robbins boundary conditions, Contemporary mathematics: theory and applications, American Mathematical Society, Boston, MA, 2001
+Anita Mayo , Anne Greenbaum, Fourth order accurate evaluation of integrals in potential theory on exterior 3D regions, Journal of Computational Physics, v.220 n.2, p.900-914, January, 2007
+S. Philip , B. Summa , P.-T. Bremer , V. Pascucci, Parallel gradient domain processing of massive images, Proceedings of the 11th Eurographics conference on Parallel Graphics and Visualization, April 10-11, 2011, Llandudno, UK
+Benjamin Long , Erik Reinhard, Real-time fluid simulation using discrete sine/cosine transforms, Proceedings of the 2009 symposium on Interactive 3D graphics and games, February 27-March 01, 2009, Boston, Massachusetts
+Atul K. Chhabra, Real-Time Computation of Optical Flow Along Contours of Significant Intensity Change, Real-Time Imaging, v.3 n.2, p.87-99, April 1997
+Alexey G. Fatyanov , Andrew V. Terekhov, High-performance modeling acoustic and elastic waves using the parallel Dichotomy Algorithm, Journal of Computational Physics, v.230 n.5, p.1992-2003, March, 2011
+Y. Charlie Hu , Guohua Jin , S. Lennart Johnsson , Dimitris Kehagias , Nadia Shalaby, HPFBench: a high performance Fortran benchmark suite, ACM Transactions on Mathematical Software (TOMS), v.26 n.1, p.99-149, March 2000
+B. Gmeiner , T. Gradl , F. Gaspar , U. RüDe, Optimization of the multigrid-convergence rate on semi-structured meshes by local Fourier analysis, Computers & Mathematics with Applications, v.65 n.4, p.694-711, February, 2013
+Okon H. Akpan, On a high-order compact scheme and its utilization in parallel solution of a time-dependent system on a distributed memory processor, Proceedings of the 2007 IFIP international conference on Network and parallel computing, September 18-21, 2007, Dalian, China
+Andrew V. Terekhov, Parallel Dichotomy Algorithm for solving tridiagonal system of linear equations with multiple right-hand sides, Parallel Computing, v.36 n.8, p.423-438, August, 2010
+Mohan K. Kadalbajoo , K. K. Bharadwaj, Fast elliptic solvers—an overview, Applied Mathematics and Computation, v.14 n.4, p.331-355, June, 1984
+Bernard Bialecki , Graeme Fairweather , Andreas Karageorghis, Matrix decomposition algorithms for elliptic boundary value problems: a survey, Numerical Algorithms, v.56 n.2, p.253-295, February  2011

@@ -1,0 +1,35 @@
+Karl Abrahamson, On achieving consensus using a shared memory, Proceedings of the seventh annual ACM Symposium on Principles of distributed computing, p.291-302, August 15-17, 1988, Toronto, Ontario, Canada[doi>10.1145/62546.62594]
+Yehuda Afek , Hagit Attiya , Danny Dolev , Eli Gafni , Michael Merritt , Nir Shavit, Atomic snapshots of shared memory, Journal of the ACM (JACM), v.40 n.4, p.873-890, Sept. 1993[doi>10.1145/153724.153741]
+~AFEK, Y., AWERBUCH, B., AND GAFNI, E. 1987. Applying static network protocols to dynamic ~networks. In Proceedings of the 28th Symposium on Foundations of Computer Science. IEEE, ~New York, pp. 358-369.
+Yehuda Afek , Danny Dolev , Eli Gafni , Michael Merritt , Nir Shavit, A bound first-in, first-enabled solution to the 1-exclusion problem, Proceedings of the 4th international workshop on Distributed algorithms, p.422-432, June 1991, Bari, Italy
+Eli Gafni , Yehuda Afek, End-to-end communication in unreliable networks, Proceedings of the seventh annual ACM Symposium on Principles of distributed computing, p.131-148, August 15-17, 1988, Toronto, Ontario, Canada[doi>10.1145/62546.62570]
+Yehuda Afek , Eli Gafni, Bootstrap network resynchronization (extended abstract), Proceedings of the tenth annual ACM symposium on Principles of distributed computing, p.295-307, August 19-21, 1991, Montreal, Quebec, Canada[doi>10.1145/112600.112625]
+James H. Anderson, Composite registers, Distributed Computing, v.6 n.3, p.141-154, April 1993[doi>10.1007/BF02242703]
+James Aspnes , M. Herlihy, Fast randomized consensus using shared memory, Journal of Algorithms, v.11 n.3, p.441-461, Sep. 1990[doi>10.1016/0196-6774(90)90021-6]
+J. Aspnes , M. Herlihy, Wait-free data structures in the asynchronous PRAM model, Proceedings of the second annual ACM symposium on Parallel algorithms and architectures, p.340-349, July 02-06, 1990, Island of Crete, Greece[doi>10.1145/97444.97701]
+Hagit Attiya , Amotz Bar-Noy , Danny Dolev , David Peleg , Rüdiger Reischuk, Renaming in an asynchronous environment, Journal of the ACM (JACM), v.37 n.3, p.524-548, July 1990[doi>10.1145/79147.79158]
+H. Attiya , D. Dolev , N. Shavit, Bounded polynomial randomized consensus, Proceedings of the eighth annual ACM Symposium on Principles of distributed computing, p.281-293, June 1989, Edmonton, Alberta, Canada[doi>10.1145/72981.73001]
+B. Awerbuch, Optimal distributed algorithms for minimum weight spanning tree, counting, leader election, and related problems, Proceedings of the nineteenth annual ACM conference on Theory of computing, p.230-240, January 1987, New York, New York, United States[doi>10.1145/28395.28421]
+~AWERBUCH, B., MANSOUR, Y., AND SHAVIT, N. 1989. Polynomial end-to-end comnmnication. In ~Proceedings of the 30th Symposium of Computer Science. IEEE, New York, pp. 358-363.
+A. Bas-Noy , D. Dolev, Shared-memory vs. message-passing in an asynchronous distributed environment, Proceedings of the eighth annual ACM Symposium on Principles of distributed computing, p.307-318, June 1989, Edmonton, Alberta, Canada[doi>10.1145/72981.73003]
+Michael Ben-Or, Another advantage of free choice (Extended Abstract): Completely asynchronous agreement protocols, Proceedings of the second annual ACM symposium on Principles of distributed computing, p.27-30, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806707]
+J. E. Burns , G. L. Peterson, The ambiguity of choosing, Proceedings of the eighth annual ACM Symposium on Principles of distributed computing, p.145-157, June 1989, Edmonton, Alberta, Canada[doi>10.1145/72981.72991]
+Benny Chor , Amos Israeli , Ming Li, On processor coordination using asynchronous hardware, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.86-97, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41848]
+Benny Chor , Michael Merritt , David B. Shmoys, Simple constant-time consensus protocols in realistic failure models (extended abstract), Proceedings of the fourth annual ACM symposium on Principles of distributed computing, p.152-162, August 1985, Minaki, Ontario, Canada[doi>10.1145/323596.323610]
+~CHOR, B., AND MoscovIcI, L. 1989. Solvability in asynchronous environments. In Proceedings ~of the 30th Symposium on Foundations of Computer Science. IEEE, New York, pp. 422-427.
+~DIJKSTRA, E. W., AND SCHOLTEN, C.S. 1988. Termination detection for diffusing computations. ~Inf. Proc. Lett., 1, i (Aug)., 1-4.
+Danny Dolev , Eli Gafni , Nir Shavit, Toward a non-atomic era: l-exclusion as a test case, Proceedings of the twentieth annual ACM symposium on Theory of computing, p.78-92, May 02-04, 1988, Chicago, Illinois, United States[doi>10.1145/62212.62220]
+~DOLEV, D., AND SHAVIT, N. 1987. Unpublished manuscript. July. Cited in Awerbuch et al. {1989}.
+D. Dolev , N. Shavit, Bounded concurrrent time-stamp systems are constructible, Proceedings of the twenty-first annual ACM symposium on Theory of computing, p.454-466, May 14-17, 1989, Seattle, Washington, United States[doi>10.1145/73007.73051]
+~DWORK, C., SHMOYS, D., AND STOCKMEYER, L. 1986. Flipping persuasively in constant expected ~time. In Proceedings of the 27th Symposmm on Foundations of Computer Science, IEEE, New ~York, pp. 222-232.
+~FELDMAN, J. A., AND NIGAM, m. 1980. A model and proof technique for message-based ~systems. SIAM J. Computing 9, 4 (Nov). 768-784.
+~FINN, S.G. 1979. Resynch procedures and a fail-safe network protocol. IEEE Trans. Comm. ~COM-27, 840-845.
+Michael J. Fischer , Nancy A. Lynch , Michael S. Paterson, Impossibility of distributed consensus with one faulty process, Journal of the ACM (JACM), v.32 n.2, p.374-382, April 1985[doi>10.1145/3149.214121]
+Maurice P. Herlihy, Impossibility and universality results for wait-free synchronization, Proceedings of the seventh annual ACM Symposium on Principles of distributed computing, p.276-290, August 15-17, 1988, Toronto, Ontario, Canada[doi>10.1145/62546.62593]
+Maurice Herlihy, Wait-free synchronization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.1, p.124-149, Jan. 1991[doi>10.1145/114005.102808]
+Amos Israeli , Ming Li, Bounded time-stamps, Distributed Computing, v.6 n.4, p.205-209, July 1993[doi>10.1007/BF02242708]
+LAMPORT, L. 1986. On interprocess communication: Part I and II. Dist. Comput. 1, 77-101.
+~LI, M., TROMP, J. AND VITANYI, P. 1989. How to share concurrent wait-free variables. Report ~CS-R8916. CWI, Amsterdam, The Netherlands.
+~PETERSON, G. L., AND BURNS. J.E. 1987. Concurrent reading while writing II: The multiwriter ~case. In Proceedings of the 28th Symposmm on Foundations of Computer Science. IEEE, New ~York, pp. 383-392.
+~VISHK~N, U. 1983. A distributed orientation algorithm. IEEE Trans. Inf. Theory (June).
+~VITANYI, P., AND AWERBUCH, B. 1986. Atomic shared register access by asynchronous hard- ~ware. In Proceedings of the 27th Symposium on Foundations of Computer Science. IEEE, New ~York, pp. 233-243.

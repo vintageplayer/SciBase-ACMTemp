@@ -1,0 +1,26 @@
+~AJTAI, M. A lower bound for finding predecessors in Yao's cell probe model. IBM RJ 4867 ~(51297), IBM Almaden Research Center, San Jose, Calif., 1985.
+~AJTAI, M., FREDMAN, M., AND KoMLOs, J. Hash functions for priority queues. In Proceedings' ~of the 24th Annual Symposium on Foundations of Computer Science. IEEE, New York, 1983, ~pp. 299-303.
+Helmut Alt , Kurt Mehlhorn , J Ian Munro, Partial match retrieval in implicit data structures, Information Processing Letters, v.19 n.2, p.61-65, August 1984[doi>10.1016/0020-0190(84)90098-X]
+Francine Berman , Mary Ellen Bock , Eric Dittert , Michael J O'Donnell, Collections of functions for perfect hashing, SIAM Journal on Computing, v.15 n.2, p.604-618, May 1986[doi>10.1137/0215044]
+A Borodin , F E Fich , F Meyer auf der Heide , E Upfal , A Wigderson, A tradeoff between search and update time for the implicit dictionary problem, International Colloquium on Automata, Languages and Programming on Automata, languages and programming, p.50-59, September 1986, Rennes, France
+~CARTER, J. L., AND WEGMAN, M.N. Universal classes of hash functions. J. Comput. Syst. ~Sci. 18, 2 (Apr. 1979), 143 154.
+~CEL~S, P., LARSON, P., AND MUNRO, J.I. Robin Hood hashing, tn Proceedings of tile 26th ~Annual Symposium on Foundations of Computer Science. IEEE, New York, 1985, 281-288.
+~FIAT, A., MUNRO, J. I., NAOR, M., SCHAFFER, m., SCHMIDT, J. P., AND SIEGEL, m. An implicit ~data structure for searching a multikey table in logarithmic time, J. Comput. Syst. Sci. 43, 3 ~(Dec. 1991), 406-424.
+A. Fiat , M. Noar, ImplicitO(1) probe search, Proceedings of the twenty-first annual ACM symposium on Theory of computing, p.336-344, May 14-17, 1989, Seattle, Washington, United States[doi>10.1145/73007.73039]
+Amos Fiat , Moni Naor , Alexandro Schäffer , Jeanette Schmidt , Alan Siegel, Storing and searching a multikey table, Proceedings of the twentieth annual ACM symposium on Theory of computing, p.344-353, May 02-04, 1988, Chicago, Illinois, United States[doi>10.1145/62212.62245]
+~FREDMAN, M. L., AND KOML(SS, J. On the size of separating systems and families of perfect ~hash functions. SIAMJ. Algebraic Discr. Meth. 5, 1 (Mar. 1984), pp. 61-68.
+Michael L. Fredman , János Komlós , Endre Szemerédi, Storing a Sparse Table with0(1) Worst Case Access Time, Journal of the ACM (JACM), v.31 n.3, p.538-544, July 1984[doi>10.1145/828.1884]
+Gaston H. Gonnet, Expected Length of the Longest Probe Sequence in Hash Code Searching, Journal of the ACM (JACM), v.28 n.2, p.289-304, April 1981[doi>10.1145/322248.322254]
+~GONNET, G. H., AND MUNRO, J.I. Efficient ordering of hash tables. SIAM J. Comput. 8, 3 ~(Aug. 1979), 463-478.
+C T M Jacobs , P van Emde Boas, Two results on tables, Information Processing Letters, v.22 n.1, p.43-48, January 2, 1986[doi>10.1016/0020-0190(86)90041-4]
+~MAmSON, H.G. The program complexity of searching a table. In Proceedings of tile 24th ~Symposium on Foundation of Computer Science (Nov.). IEEE, New York, 1983, pp. 40-47.
+Harry George Mairson, The program complexity of searching a table (data structures, applied combinatorics), 1984
+~MEHLHORN, K. On the program size of perfect and universal hash functions. In Proceedings ~of the 23rd Annual Symposium on Foundations of Computer Science. IEEE, New York, 1982, ~pp. 170-175.
+~Mb:HLHORN, K. Data Structures atzd Algorithms 1: Sorting and Searchmg. Springer-Verlag, ~Berlin/Heidelberg, 1984.
+J Ian Munro, An implicit data structure supporting insertion, deletion, and search in O(log:OS2:OEn) time, Journal of Computer and System Sciences, v.33 n.1, p.66-74, Aug. 1986[doi>10.1016/0022-0000(86)90043-7]
+J. I. Munro, Searching a two key table under a single key, Proceedings of the nineteenth annual ACM conference on Theory of computing, p.383-387, January 1987, New York, New York, United States[doi>10.1145/28395.28436]
+Ronald L. Rivest, Optimal Arrangement of Keys in a Hash Table, Journal of the ACM (JACM), v.25 n.2, p.200-209, April 1978[doi>10.1145/322063.322065]
+Jeanette P. Schmidt , Eli Shamir, An Improved Program for Constructing Open Hash Tables, Proceedings of the 7th Colloquium on Automata, Languages and Programming, p.569-581, July 14-18, 1980
+Jeanette P. Schmidt , Alan Siegel, The spatial complexity of obliviousk-probe Hash functions, SIAM Journal on Computing, v.19 n.5, p.775-786, Oct. 1990[doi>10.1137/0219054]
+Robert Endre Tarjan , Andrew Chi-Chih Yao, Storing a sparse table, Communications of the ACM, v.22 n.11, p.606-611, Nov. 1979[doi>10.1145/359168.359175]
+Andrew Chi-Chih Yao, Should Tables Be Sorted?, Journal of the ACM (JACM), v.28 n.3, p.615-628, July 1981[doi>10.1145/322261.322274]

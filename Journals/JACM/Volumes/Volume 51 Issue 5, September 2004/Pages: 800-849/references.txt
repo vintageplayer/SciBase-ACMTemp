@@ -1,0 +1,37 @@
+Sarita V. Adve , Kourosh Gharachorloo, Shared Memory Consistency Models: A Tutorial, Computer, v.29 n.12, p.66-76, December 1996[doi>10.1109/2.546611]
+S. V. Adve , J. K. Aggarwal, A Unified Formalization of Four Shared-Memory Models, IEEE Transactions on Parallel and Distributed Systems, v.4 n.6, p.613-624, June 1993[doi>10.1109/71.242161]
+Mustaque Ahamad , Rida A. Bazzi , Ranjit John , Prince Kohli , Gil Neiger, The power of processor consistency, Proceedings of the fifth annual ACM symposium on Parallel algorithms and architectures, p.251-260, June 30-July 02, 1993, Velen, Germany[doi>10.1145/165231.165264]
+Mustaque Ahamad , James E. Burns , Phillip W. Hutto , Gil Neiger, Causal Memory, Proceedings of the 5th International Workshop on Distributed Algorithms, p.9-30, October 07-09, 1991
+Cristiana Amza , Alan L. Cox , Sandhya Dwarkadas , Pete Keleher , Honghui Lu , Ramakrishnan Rajamony , Weimin Yu , Willy Zwaenepoel, TreadMarks: Shared Memory Computing on Networks of Workstations, Computer, v.29 n.2, p.18-28, February 1996[doi>10.1109/2.485843]
+Jordi Bataller , Josep M. Bernabéu Aubán, Synchronized DSM Models, Proceedings of the Third International Euro-Par Conference on Parallel Processing, p.468-475, August 26-29, 1997
+Jordi Bataller , Josep M. Bernabéu Aubán, Adaptable Distributed Shared Memory: A Formal Definition, Proceedings of the 4th International Euro-Par Conference on Parallel Processing, p.887-891, September 01-04, 1998
+J. K. Bennett , J. B. Carter , W. Zwaenepoel, Munin: distributed shared memory based on type-specific memory coherence, Proceedings of the second ACM SIGPLAN symposium on Principles & practice of parallel programming, p.168-176, March 14-16, 1990, Seattle, Washington, USA[doi>10.1145/99163.99182]
+John B. Carter , John K. Bennett , Willy Zwaenepoel, Techniques for reducing consistency-related communication in distributed shared-memory systems, ACM Transactions on Computer Systems (TOCS), v.13 n.3, p.205-243, Aug. 1995[doi>10.1145/210126.210127]
+Bershad, B. N., and Zekauskas, M. 1991. Midway: Shared memory parallel programming with entry consistency for distributed memory multiprocessors. Tech. Rep. CMU-CS-91-170, Carnegie-Mellon University. Pittsburgh, Penn.
+Bershad, B. N., Zekauskas, M. J., and Sawdon, W. A. 1993. The midway distributed shared memory system. In Proceedings of the IEEE COMPCON Conference. IEEE Computer Society Press, Los Alamitos, Calif., 528--537.
+Robert D. Blumofe , Matteo Frigo , Christopher F. Joerg , Charles E. Leiserson , Keith H. Randall, Dag-Consistent Distributed Shared Memory, Proceedings of the 10th International Parallel Processing Symposium, p.132-141, April 15-19, 1996
+William W. Collier, Reasoning about parallel architectures, Prentice-Hall, Inc., Upper Saddle River, NJ, 1992
+Michel Dubois , Christoph Scheurich, Memory Access Dependencies in Shared-Memory Multiprocessors, IEEE Transactions on Software Engineering, v.16 n.6, p.660-673, June 1990[doi>10.1109/32.55094]
+M. Dubois , C. Scheurich , F. Briggs, Memory access buffering in multiprocessors, Proceedings of the 13th annual international symposium on Computer architecture, p.434-442, June 02-05, 1986, Tokyo, Japan
+Frigo, M. 1997. The weakest reasonable memory model. Ph.D. dissertation, Massachusetts Institute of Technology, Cambridge, Mass.
+Guang R. Gao , Vivek Sarkar, Location Consistency-A New Memory Model and Cache Consistency Protocol, IEEE Transactions on Computers, v.49 n.8, p.798-813, August 2000[doi>10.1109/12.868026]
+Kourosh Gharachorloo , Daniel Lenoski , James Laudon , Phillip Gibbons , Anoop Gupta , John Hennessy, Memory consistency and event ordering in scalable shared-memory multiprocessors, Proceedings of the 17th annual international symposium on Computer Architecture, p.15-26, May 28-31, 1990, Seattle, Washington, USA[doi>10.1145/325164.325102]
+Chris Gniady , Babak Falsafi , T. N. Vijaykumar, Is SC + ILP = RC?, Proceedings of the 26th annual international symposium on Computer architecture, p.162-171, May 01-04, 1999, Atlanta, Georgia, USA[doi>10.1145/300979.300993]
+Goodman, J. R. 1989. Cache consistency and sequential consistency. Tech. Rep. 61. IEEE Scalable Coherent Interface Working Group. Mar.
+James Gosling , Bill Joy , Guy L. Steele, The  Java Language Specification, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1996
+Maurice P. Herlihy , Jeannette M. Wing, Linearizability: a correctness condition for concurrent objects, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.3, p.463-492, July 1990[doi>10.1145/78969.78972]
+Hutto, P. W., and Ahamad, M. 1990. Slow memory: Weakening consistency to enhance concurrency in distributed shared memories. In Proceedings of the 10th International Conference on Distributed Computing Systems. 302--309.
+Iftode, L., Singh, J. P., and Li, K. 1996. Scope consistency: A bridge between release consistency and entry consistency. Tech. Rep., Princeton University, Princeton, N.J.
+Pete Keleher , Alan L. Cox , Willy Zwaenepoel, Lazy release consistency for software distributed shared memory, Proceedings of the 19th annual international symposium on Computer architecture, p.13-21, May 19-21, 1992, Queensland, Australia[doi>10.1145/139669.139676]
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+Lamport, L. 1979. How to make a multiprocessor computer that correctly executes multiprocess programs. IEEE Trans. Comput. C-28, 9 (Sept.), 690--691.
+Lamport, L. 1986. On interprocess communication; Part II: Algorithms. Distrib. Comput. 1, 2 (Apr.), 86--101.
+Daniel Lenoski , James Laudon , Kourosh Gharachorloo , Anoop Gupta , John Hennessy, The directory-based cache coherence protocol for the DASH multiprocessor, Proceedings of the 17th annual international symposium on Computer Architecture, p.148-159, May 28-31, 1990, Seattle, Washington, USA[doi>10.1145/325164.325132]
+Kai Li, Shared virtual memory on loosely coupled multiprocessors, Yale University, New Haven, CT, 1986
+Kai Li , Paul Hudak, Memory coherence in shared virtual memory systems, ACM Transactions on Computer Systems (TOCS), v.7 n.4, p.321-359, Nov. 1989[doi>10.1145/75104.75105]
+Lipton, R. J., and Sandberg, J. S. 1988. Pram: A scalable shared memory. Tech. Rep. CS-TR-180-88, Princeton University. Sept.
+David Mosberger, Memory consistency models, ACM SIGOPS Operating Systems Review, v.27 n.1, p.18-26, Jan. 1993[doi>10.1145/160551.160553]
+Parthasarathy Ranganathan , Vijay S. Pai , Hazim Abdel-Shafi , Sarita V. Adve, The interaction of software prefetching with ILP processors in shared-memory systems, Proceedings of the 24th annual international symposium on Computer architecture, p.144-156, June 01-04, 1997, Denver, Colorado, USA[doi>10.1145/264107.264158]
+Parthasarathy Ranganathan , Vijay S. Pai , Sarita V. Adve, Using speculative retirement and larger instruction windows to narrow the performance gap between memory consistency models, Proceedings of the ninth annual ACM symposium on Parallel algorithms and architectures, p.199-210, June 23-25, 1997, Newport, Rhode Island, USA[doi>10.1145/258492.258512]
+Abhik Roychoudhury , Tulika Mitra, Specifying multithreaded Java semantics for program verification, Proceedings of the 24th International Conference on Software Engineering, May 19-25, 2002, Orlando, Florida[doi>10.1145/581339.581399]
+Andrew S. Tanenbaum, Distributed operating systems, Prentice-Hall, Inc., Upper Saddle River, NJ, 1994

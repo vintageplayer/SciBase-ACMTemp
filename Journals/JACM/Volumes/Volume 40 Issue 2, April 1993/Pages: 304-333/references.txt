@@ -1,0 +1,32 @@
+~AYANI, R. A parallel simulation scheme based on distances between objects. In Distributed ~Szmuk~tton 1989, SCS Simulation Series. Society for Computer Simulation, San Diego, Calif., ~1989, pp. 113-118.
+~BOMANS, L., AND ROOSE, D. Benchmarking the iPSC/2 hypercube multiprocessor. Concur- ~rency: Practice antt Experience 1, 1 (Sept. 1989), 3-18.
+R. Brown, Calendar queues: a fast 0(1) priority queue implementation for the simulation event set problem, Communications of the ACM, v.31 n.10, p.1220-1227, Oct. 1988[doi>10.1145/63039.63045]
+~CHANDY, K., AND SHERMAN, R. The conditional event approach to distributed s~mulatlon. In ~Distributed Simulation 1989, SCS Simulation Series. Society for Computer Simulation, San ~Diego, Calif., 1989, pp. 93-99.
+~CHANDY, K. M. AND MISRA, J. Distributed simulation: A case study in design and verifica- ~tion of distributed programs. IEEE Trans. Sofm,. Eng. 5, 5 (Sept. 1979), 440-452.
+~FUJIMOTO, R. M. Performance measurements of distributed simulation strategies. In Dts- ~tnbuted 8tmulatton 1988, vol. 19, SCS Simulation Series. Society for Computer Simulation, San ~Diego, Calif., 1988, pp. 14 20.
+Richard M. Fujimoto, Parallel discrete event simulation, Communications of the ACM, v.33 n.10, p.30-53, Oct. 1990[doi>10.1145/84537.84545]
+Anurag Gupta , Ian Akyildiz , Richard M. Fujimoto, Performance analysis of Time Warp with homogeneous processors and exponential task times, Proceedings of the 1991 ACM SIGMETRICS conference on Measurement and modeling of computer systems, p.101-110, May 21-24, 1991, San Diego, California, United States[doi>10.1145/107971.107983]
+David R. Jefferson, Virtual time, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.3, p.404-425, July 1985[doi>10.1145/3916.3988]
+Douglas W. Jones, An empirical comparison of priority-queue and event-set implementations, Communications of the ACM, v.29 n.4, p.300-311, April 1986[doi>10.1145/5684.5686]
+Stephen S. Lavenberg , Richard R. Muntz , Behrokh Samadi, Performance Analysis of a Rollback Method for Distributed Simulation, Proceedings of the 9th International Symposium on Computer Performance Modelling, Measurement and Evaluation, p.117-132, May 25-27, 1983
+Y. B. Lin , E. D. Lazowska, Exploiting Lookahead in Parallel Simulation, IEEE Transactions on Parallel and Distributed Systems, v.1 n.4, p.457-469, October 1990[doi>10.1109/71.80174]
+~DN, Y.-B., AND LAZOWSKA, E. Optimality considerations for "Time Warp" parallel simula- ~tion. In Distributed Simulation 1990, SCS Simulation Series. Society for Computer Simulation, ~San Diego, Calif., 1990, pp. 29 34.
+~LIPTON, R., AND MIZELL, D. Time Warp vs. Chandy-Misra: A worst-case comparison. In ~Distributed Simulation 1990, vol. 22, SCS Simulation Series. Society for Computer Simulation, ~San Diego, Calif., 1990, pp. 137-143.
+B. D. Lubachevsky, Efficient distributed event-driven simulations of multiple-loop networks, Communications of the ACM, v.32 n.1, p.111-123, Jan. 1989[doi>10.1145/63238.63247]
+~LUBACHEVSKY, B. Scalabitity of the bounded lag distributed discrete-event simulation. In ~Dtstrlbttted Sbntdation 1989, SCS Simulation Series. Society for Computer Simulation, San ~Diego, Calif., 1989, pp. 100-107.
+B. Lubachevsky , A. Shwartz , A. Weiss, Rollback sometimes works...if filtered, Proceedings of the 21st conference on Winter simulation, p.630-639, December 04-06, 1989, Washington, D.C., United States[doi>10.1145/76738.76819]
+~MADASETFI, V., WALRAND, J., AND MESSERSCHMITF, D. Synchronizaiion in message-passing ~computers: Models, algorithms, and analysis. In Distribztted Simulation 1990, vol. 22, SCS ~Simulation Series. Society for Computer Simulation, San Diego, Calif., 1990, pp. 35-48.
+Jayadev Misra, Distributed discrete-event simulation, ACM Computing Surveys (CSUR), v.18 n.1, p.39-65, March 1986[doi>10.1145/6462.6485]
+Debasis Mitra , Isi Mitrani, Analysis and Optimum Performance of Two Message-Passing Parallel Processors Synchronized by Rollback, Proceedings of the Tenth International Symposium on Computer Performance Modelling, Measurement and Evaluation, p.35-50, December 19-21, 1984
+David M. Nicol, Parallel discrete-event simulation of FCFS stochastic queueing networks, ACM SIGPLAN Notices, v.23 n.9, p.124-137, Sept. 1988[doi>10.1145/62116.62128]
+David M. Nicol, Performance bounds on parallel self-initiating discrete-event simulations, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.1 n.1, p.24-50, Jan. 1991[doi>10.1145/102810.102812]
+D. M. Nicol , C. C. Michael , P. Inouye, Efficient aggregation of multiple PLs in distributed memory parallel simulations, Proceedings of the 21st conference on Winter simulation, p.680-685, December 04-06, 1989, Washington, D.C., United States[doi>10.1145/76738.76825]
+David M. Nicol , Joel H. Saltz, An Analysis of Scatter Decomposition, IEEE Transactions on Computers, v.39 n.11, p.1337-1345, November 1990[doi>10.1109/12.61043]
+~PEACOCK, J. K., MANNING, E., AND WONG, J.W. Synchronization of distributed simulation ~using broadcast algorithms. Comput. Nero'. 4 (1980), 3 10.
+Paul F. Reynolds, Jr., A shared resource algorithm for distributed simulation, Proceedings of the 9th annual symposium on Computer Architecture, p.259-266, April 26-29, 1982, Austin, Texas, United States
+~Ross, H. Stochastic Processes. Wiley, New York, 1983.
+Robert G. Sargent, Event graph modelling for simulation with an application to flexible manufacturing systems, Management Science, v.34 n.10, p.1231-1251, October 1988[doi>10.1287/mnsc.34.10.1231]
+Lee Schruben, Simulation modeling with event graphs, Communications of the ACM, v.26 n.11, p.957-963, Nov. 1983[doi>10.1145/182.358460]
+~SOKOL, L., BRISCOE, D., AND WIELAND, A. MTW: A strategy for scheduling discrete ~simulation events for concurrent execution. In Dtstrtbuted Simtdation 1988. SCS Simulation ~Series. Society for Computer Simulation, San Diego, Calif., 1988, pp. 34-42.
+Kishar Shridharbhai Trivedi, Probability and Statistics with Reliability, Queuing and Computer Science Applications, Prentice Hall PTR, Upper Saddle River, NJ, 1982
+D. B. Wagner , E. D. Lazowska, Parallel simulation of queueing networks: limitations and potentials, Proceedings of the 1989 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, p.146-155, May 23-26, 1989, Oakland, California, United States[doi>10.1145/75108.75388]

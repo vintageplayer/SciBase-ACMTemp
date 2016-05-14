@@ -1,0 +1,22 @@
+J. M. Robson, Bounds for Some Functions Concerning Dynamic Storage Allocation, Journal of the ACM (JACM), v.21 n.3, p.491-499, July 1974
+Dennis W. Ting, Allocation and compaction - a mathematical model for memory management, Proceedings of the 1976 ACM SIGMETRICS conference on Computer performance modeling measurement and evaluation, p.311-317, March 29-31, 1976, Cambridge, Massachusetts, United States
+Eric Beyer , Peter Buneman, A Space Efficient Dynamic Allocation Algorithm for Queuing Messages, ACM Transactions on Programming Languages and Systems (TOPLAS), v.1 n.2, p.287-294, Oct. 1979
+D. Julia. M. Davies, Memory occupancy patterns in garbage collection systems, Communications of the ACM, v.27 n.8, p.819-825, Aug 1984
+Bala Kalyanasundaram , Kirk Pruhs, Dynamic Spectrum Allocation: The Impotency of Duration Notification, Proceedings of the 20th Conference on Foundations of Software Technology and Theoretical Computer Science, p.421-428, December 13-15, 2000
+Hans-J. Boehm, Bounding space usage of conservative garbage collectors, ACM SIGPLAN Notices, v.37 n.1, p.93-100, Jan. 2002
+G. Bozman , W. Buco , T. P. Daly , W. H. Tetzlaff, Analysis of free-storage algorithms: revisited, IBM Systems Journal, v.23 n.1, p.44-64, March 1984
+Michael G. Luby , Joseph (Seffi) Naor , Ariel Orda, Tight bounds for dynamic storage allocation, Proceedings of the fifth annual ACM-SIAM symposium on Discrete algorithms, p.724-732, January 23-25, 1994, Arlington, Virginia, United States
+Stelios Joannou , Rajeev Raman, An empirical evaluation of extendible arrays, Proceedings of the 10th international conference on Experimental algorithms, May 05-07, 2011, Crete, Greece
+Nachshon Cohen , Erez Petrank, Limitations of partial compaction: towards practical bounds, ACM SIGPLAN Notices, v.48 n.6, June 2013
+Chee Meng Tey , Debin Gao, Defending against Heap Overflow by Using Randomization in Nested Virtual Clusters, 15th International Conference on Information and Communications Security, November 20-22, 2013, Beijing, China
+Anna Bendersky , Erez Petrank, Space overhead bounds for dynamic memory management with partial compaction, ACM SIGPLAN Notices, v.46 n.1, January 2011
+Hans-J. Boehm, The space cost of lazy reference counting, ACM SIGPLAN Notices, v.39 n.1, p.210-219, January 2004
+Anna Bendersky , Erez Petrank, Space overhead bounds for dynamic memory management with partial compaction, ACM Transactions on Programming Languages and Systems (TOPLAS), v.34 n.3, p.1-43, October 2012
+Torben Hagerup , Rajeev Raman, An Efficient Quasidictionary, Proceedings of the 8th Scandinavian Workshop on Algorithm Theory, p.1-18, July 03-05, 2002
+Sandeep Sikka , George Varghese, Memory-efficient state lookups with fast updates, ACM SIGCOMM Computer Communication Review, v.30 n.4, p.335-347, October 2000
+Miguel Masmano , Ismael Ripoll , Patricia Balbastre , Alfons Crespo, A constant-time dynamic storage allocator for real-time systems, Real-Time Systems, v.40 n.2, p.149-179, November 2008
+M. Masmano , I. Ripoll , J. Real , A. Crespo , A. J. Wellings, Implementation of a constant-time dynamic storage allocator, Software—Practice & Experience, v.38 n.10, p.995-1026, August 2008
+Erik Österlund , Welf Löwe, Concurrent compaction using a field pinning protocol, Proceedings of the 2015 ACM SIGPLAN International Symposium on Memory Management, June 14-14, 2015, Portland, OR, USA
+Michael A. Bender , Martin Farach-Colton , Sándor P. Fekete , Jeremy T. Fineman , Seth Gilbert, Reallocation Problems in Scheduling, Algorithmica, v.73 n.2, p.389-409, October 2015
+Michael A. Bender , Martin Farach-Colton , Sandor P. Fekete , Jeremy T. Fineman , Seth Gilbert, Cost-oblivious storage reallocation, Proceedings of the 33rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems, June 22-27, 2014, Snowbird, Utah, USA
+R. L. Graham, Bounds on multiprocessing anomalies and related packing algorithms, Proceedings of the May 16-18, 1972, spring joint computer conference, May 16-18, 1972, Atlantic City, New Jersey

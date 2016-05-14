@@ -1,0 +1,37 @@
+D. Achlioptas and F. McSherry. 2001. Fast computation of low rank matrix approximations. In Proceedings of the 33rd Annual ACM Symposium on Theory of Computing. ACM, 611--618.
+N. Alon, M. Krivelevich, and B. Sudakov. 1998. Finding a large hidden clique in a random graph. In Proceedings of the 9th Annual ACM-SIAM Symposium on Discrete Algorithms. Society for Industrial and Applied Mathematics, 594--598.
+J. Aspnes. 1998. Lower bounds for distributed coin-flipping and randomized consensus. Journal of the Association for Computing Machinery 45, 3 (May 1998), 415--450.
+J. Aspnes. 2003. Randomized protocols for asynchronous consensus. Distributed Computing 16 (2003), 165--175.
+J. Aspnes and M. Herlihy. 1990. Fast randomized consensus using shared memory. Journal of Algorithms 11, 3 (1990), 441--461.
+H. Attiya and K. Censor. 2008. Lower bounds for randomized consensus under a weak adversary. In Principles of Distributed Computing (PODC). 315--324.
+H. Attiya and J. Welch. 2004. Distributed Computing: Fundamentals, Simulations and Advanced Topics (2nd ed.). John Wiley Interscience.
+Y. Azar, A. Fiat, A. Karlin, F. McSherry, and J. Saia. 2001. Spectral analysis of data. In Symposium on Theory of Computing (STOC’01). ACM, 619--626.
+M. Ben-Or. 1983. Another advantage of free choice (Extended Abstract): Completely asynchronous agreement protocols. In Proceedings of the 2nd Annual ACM Symposium on Principles of Distributed Computing. ACM, New York, NY, 27--30.
+M. Ben-Or and R. El-Yaniv. 2003. Resilient-optimal interactive consistency in constant time. Distributed Computing 16, 4 (2003), 249--262.
+M. Ben-Or, E. Pavlov, and V. Vaikuntanathan. 2006. Byzantine agreement in the full-information model in O (log n) rounds. In Proceedings of the ACM Symposium on Theory of Computing (STOC’06).
+G. Bracha. 1984. An asynchronous [(n-1)/3]-resilient consensus protocol. In PODC. 154--162.
+G. Bracha. 1987a. Asynchronous byzantine agreement protocols. Journal of Information and Computation 75, 2 (1987), 130--143.
+G. Bracha. 1987b. Asynchronous byzantine agreement protocols. Information and Computation 75, 2 (1987), 130--143.
+C. Cachin, K. Kursawe, and V. Shoup. 2005. Random oracles in constantinople: Practical asynchronous byzantine agreement using cryptography. Journal of Cryptology 18, 3 (2005), 219--246.
+R. Canetti and T. Rabin. 1993. Fast asynchronous Byzantine agreement with optimal resilience. In Proceedings of the 25th Annual ACM Symposium on Theory of Computing (STOC’93).
+S. Chakrabarti, B. E. Dom, S. R. Kumar, P. Raghavan, S. Rajagopalan, A. Tomkins, D. Gibson, and J. Kleinberg. 1999. Mining the Web’s link structure. Computer 32, 8 (1999), 60--67.
+B. Chor and C. Dwork. 1989. Randomization in byzantine agreement. Advances in Computing Research 5 (1989), 443--498.
+P. Feldman and S. Micali. 1985. Byzantine agreement in constant expected time (and trusting no one). In FOCS. 267--276.
+W. Feller. 1968. An Introduction to Probability Theory, Vol. 1 (3rd ed.). Wiley, New York, NY.
+M. J. Fischer, N. A. Lynch, and M. S. Paterson. 1985. Impossibility of distributed consensus with one faulty process. Journal of the ACM 32, 2 (1985), 374--382.
+R. Guha, R. Kumar, P. Raghavan, and A. Tomkins. 2004. Propagation of trust and distrust. In Proceedings of the 13th International Conference on World Wide Web. ACM, 403--412.
+M. Jerrum. 1992. Large cliques elude the Metropolis process. Random Structures & Algorithms 3, 4 (1992), 347--359.
+S. D. Kamvar, M. T. Schlosser, and H. Garcia-Molina. 2003. The eigentrust algorithm for reputation management in p2p networks. In Proceedings of the 12th International Conference on World Wide Web. ACM, 640--651.
+B. M. Kapron, D. Kempe, V. King, J. Saia, and V. Sanwalani. 2010. Fast asynchronous Byzantine agreement and leader election with full information. ACM Trans. Algorithms 6, 4 (2010). http://doi.acm.org/10.1145/1824777.1824788.
+A. Karlin and A. Yao. 1984. Probabilistic lower bounds for byzantine agreement and clock synchronization. (1984). Unpublished manuscript.
+V. King and J. Saia. 2013. Byzantine agreement in polynomial expected time. In Proceedings of the ACM Symposium on Theory of Computing (STOC’13). ACM, 401--410.
+V. King and J. Saia. 2014. Faster agreement via a spectral method for detecting malicious behavior. In Proceedings of the ACM-SIAM Symposium on Discrete Algorithms. Society for Industrial and Applied Mathematics.
+J. M. Kleinberg. 1999. Authoritative sources in a hyperlinked environment. Journal of the ACM 46, 5 (1999), 604--632.
+L. Kučera. 1995. Expected complexity of graph partitioning problems. Discrete Applied Mathematics 57, 2 (1995), 193--212.
+L. Lamport, R. Shostak, and M. Pease. 1982. The byzantine generals problem. ACM Transactions on Programming Languages and Systems 4, 3 (1982), 401.
+A. B. Lewko. 2011. The contest between simplicity and efficiency in asynchronous byzantine agreement. In Proceedings of the 25th International Symposium on Distributed Computing (DISC'11), D. Peleg (Ed.). Lecture Notes in Computer Science. Vol. 6950, Springer, 348--362.
+N. Lynch. 1996. Distributed Algorithms. Morgan Kaufmann.
+G. Neiger and S. Toueg. 1990. Automatically increasing the fault-tolerance of distributed algorithms. Journal of Algorithms 11, 3 (1990), 374--419.
+L. Page, S. Brin, R. Motwani, and T. Winograd. 1998. The PageRank citation ranking: bringing order to the web. Stanford University Technical Report. http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf.
+L. Xiong and L. Liu. 2004. Peertrust: Supporting reputation-based trust for peer-to-peer electronic communities. IEEE Transactions on Knowledge and Data Engineering, 16, 7 (2004), 843--857.
+H. Zhang, A. Goel, R. Govindan, K. Mason, and B. Van Roy. 2004. Making eigenvector-based reputation systems robust to collusion. In Algorithms and Models for the Web-Graph. Springer, 92--104.

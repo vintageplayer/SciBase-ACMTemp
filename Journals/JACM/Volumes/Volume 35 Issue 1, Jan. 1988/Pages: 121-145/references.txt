@@ -1,0 +1,36 @@
+BAYER, R. Database system design for high performance. In Proceedings of the IFIP 9th World Computer Conference (Pads, France, Sept.). North-Holland, Amsterdam, 1983, pp. 146-155.
+Philip A. Bernstein , Nathan Goodman, Multiversion concurrency control—theory and algorithms, ACM Transactions on Database Systems (TODS), v.8 n.4, p.465-483, Dec. 1983[doi>10.1145/319996.319998]
+Philip A. Bernstein , Nathan Goodman, An algorithm for concurrency control and recovery in replicated distributed databases, ACM Transactions on Database Systems (TODS), v.9 n.4, p.596-615, Dec. 1984[doi>10.1145/1994.2207]
+BERNSTE,N, P. A., GOODMAN, N., AND HADZILACOS, V. Recovery algorithms for database systems. In Proceedings of the IFIP 9th World Computer Conference (Pads, France, Sept.). North-Holland, Amsterdam, 1983, pp. 799-807.
+Philip A. Bernstein , Vassco Hadzilacos , Nathan Goodman, Concurrency control and recovery in database systems, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1987
+BERNSTEIN, P. A., SHIPMAN, D. W., AND WONG, W.S. Formal aspects of serializability. IEEE Trans. Sofiw. Eng. SE-5 (May 1979), 203-215.
+Arvola Chan , Stephen Fox , Wen-Te K. Lin , Anil Nori , Daniel R. Ries, The implementation of an integrated concurrency control and recovery scheme, Proceedings of the 1982 ACM SIGMOD international conference on Management of data, June 02-04, 1982, Orlando, Florida[doi>10.1145/582353.582386]
+DUeOURDIEU, D.J. Implementation of distributed transactions. In Proceedings of the 6th Berkeley Workshop on Distributed Data Management and Computer Networks. National Technical Information Service, U.S. Department of Commerce, Springfield, Va., 1982, pp. 81-94.
+Derek L. Eager , Kenneth C. Sevcik, Achieving robustness in distributed database systems, ACM Transactions on Database Systems (TODS), v.8 n.3, p.354-381, Sept. 1983[doi>10.1145/319989.319992]
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+David K. Gifford, Weighted voting for replicated data, Proceedings of the seventh ACM symposium on Operating systems principles, p.150-162, December 10-12, 1979, Pacific Grove, California, United States[doi>10.1145/800215.806583]
+Jim Gray, Notes on Data Base Operating Systems, Operating Systems, An Advanced Course, p.393-481, January 1978
+GRAY, J.N. The transaction concept: Virtues and limitations. In Proceedings of the 7th International Conference on Very Large Data Bases (Cannes, France, Sept. 9-11 ). ACM, New York, 1981, pp. 144-154.
+GREmACH, S.A. Theory of program semantics. Vol. 36, In Lecture Notes in Computer Science. Springer-Vedag, New York, 1975.
+Thanasis Hadzilacos , Christos H. Papadimitriou, Algorithmic aspects of multiversion concurrency control, Proceedings of the fourth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.96-104, March 25-27, 1985, Portland, Oregon, United States[doi>10.1145/325405.325417]
+Vassos Hadzilacos, An algorithm for minimizing roll back cost, Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database systems, March 29-31, 1982, Los Angeles, California[doi>10.1145/588111.588128]
+Vassos Hadzilacos, Issues of fault tolerance in concurrent computations (databases, reliability, transactions, agreement protocols, distributed computing), 1985
+HAERDER, T., AND REUTER, A. Optimization of logging and recovery in a database system. In Database Architecture, G. Bracchi and G. M. Nijssen, Eds. North-Holland, Amsterdam, 1979, pp. 151-168.
+Theo Haerder , Andreas Reuter, Principles of transaction-oriented database recovery, ACM Computing Surveys (CSUR), v.15 n.4, p.287-317, December 1983[doi>10.1145/289.291]
+IBARAKI, T., AND KAMEDA, T. Multi-version vs. single-version serializability. Tech. Rep. LCCR TR 83-1, Simon Fraser Univ., British Columbia, Canada, Dec. 1983.
+LAMPSON, B., AND STURGIS, H. Crash recovery in a distributed data storage system. Memorandum, Xerox Palo Alto Research Center, Palo Alto, Calif., 1976.
+LINDSAY, B. G., SELINGER, P. G., GALTIERI, C. A., GRAY, J. N., LORIE, R. A., PRICE, T. G., PUTZOLU, F., TRAIGER, I. L., AND WADE, B.W. Notes on distributed databases. IBM Res. Rep. RJ2571, IBM, San Jose, Calif., July 1979.
+Barbara Liskov , Robert Scheifler, Guardians and Actions: Linguistic Support for Robust, Distributed Programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.3, p.381-404, July 1983[doi>10.1145/2166.357215]
+Raymond A. Lorie, Physical integrity in a large segmented database, ACM Transactions on Database Systems (TODS), v.2 n.1, p.91-104, March 1977[doi>10.1145/320521.320540]
+Nancy A. Lynch, Concurrency control for resilient nested transactions, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia[doi>10.1145/588058.588080]
+MENASCE, D. A., AND LANDES, O.E. On the design of a reliable storage component for distributed database management systems. In Proceedings of the 6th International Conference on Very Large Data Bases (Montreal, Ont., Canada, Oct. 1-3). ACM, New York, 1980, pp. 365-375.
+Christos H. Papadimitriou, The serializability of concurrent database updates, Journal of the ACM (JACM), v.26 n.4, p.631-653, Oct. 1979[doi>10.1145/322154.322158]
+Christos Papadimitriou, The theory of database concurrency control, Computer Science Press, Inc., New York, NY, 1986
+Christos H. Papadimitriou , Paris C. Kanellakis, On Concurrency Control by Multiple Versions, ACM Transactions on Database Systems (TODS), v.9 n.1, p.89-99, March 1984[doi>10.1145/348.318588]
+PAPADIMITRIOU, C. H., BERNSTEIN, P. A., AND ROTHNIE, J.B. Computational problems related to database concurrency control. In Proceedings of the Conference on Theoretical Computer Science (Waterloo, Ont., Canada). 1977, pp. 275-282.
+Robert L. Rappaport, File structure design to facilitate on-line instantaneous updating, Proceedings of the 1975 ACM SIGMOD international conference on Management of data, May 14-16, 1975, San Jose, California[doi>10.1145/500080.500082]
+SKEEN, i. D. Crash recovery in a distributed database system. Ph.D. dissertation, Dept. of Electrical Engineering and Computer Science, Univ. of California at Berkeley, Berkeley, Calif., 1982.
+STEARNS, R. E., LEWIS, e. M., II, AND ROSENKRANTZ, D.J. Concurrency controls for database systems. In Proceedings of the 17th Symposium on Foundations of Computer Science. IEEE Computer Society, New York, 1976, pp. 19-32.
+Robert H. Thomas, A Majority consensus approach to concurrency control for multiple copy databases, ACM Transactions on Database Systems (TODS), v.4 n.2, p.180-209, June 1979[doi>10.1145/320071.320076]
+Joost S. M. Verhofstad, Recovery Techniques for Database Systems, ACM Computing Surveys (CSUR), v.10 n.2, p.167-195, June 1978[doi>10.1145/356725.356730]
+Mihalis Yannakakis, Serializability by Locking, Journal of the ACM (JACM), v.31 n.2, p.227-244, April 1984[doi>10.1145/62.322425]

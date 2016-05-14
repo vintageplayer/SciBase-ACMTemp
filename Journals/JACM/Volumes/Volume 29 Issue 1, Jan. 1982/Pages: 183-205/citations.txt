@@ -1,0 +1,22 @@
+Isaac Saias, Proving probabilistic correctness statements: the case of Rabin's algorithm for mutual exclusion, Proceedings of the eleventh annual ACM symposium on Principles of distributed computing, p.263-274, August 10-12, 1992, Vancouver, British Columbia, Canada
+Eyal Kushilevitz , Michael O. Rabin, Randomized mutual exclusion algorithms revisited, Proceedings of the eleventh annual ACM symposium on Principles of distributed computing, p.275-283, August 10-12, 1992, Vancouver, British Columbia, Canada
+S. Haldar , D. Subramanian, An efficient solution to the mutual exclusion problem using unfair and weak semaphore, ACM SIGOPS Operating Systems Review, v.22 n.2, p.60-66, April, 1988
+Michael Merritt , Gadi Taubenfeld, Computing with Infinitely Many Processes, Proceedings of the 14th International Conference on Distributed Computing, p.164-178, October 04-06, 2000
+Gary L. Peterson, A New Solution to Lamport's Concurrent Programming Problem Using Small Shared Variables, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.1, p.56-65, Jan. 1983
+Eugene W. Stark, Semaphore primitives and starvation-free mutual exclusion, Journal of the ACM (JACM), v.29 n.4, p.1049-1072, Oct. 1982
+Jeffrey M. Jaffe, Decentralized Simulation of Resource Managers, Journal of the ACM (JACM), v.30 n.2, p.300-322, April 1983
+Eyal Kushilevitz , Yishay Mansour , Michael O. Rabin , David Zuckerman, Lower bounds for randomized mutual exclusion, Proceedings of the twenty-fifth annual ACM symposium on Theory of computing, p.154-163, May 16-18, 1993, San Diego, California, United States
+John D. Valois, Space bounds for transactional synchronization, Proceedings of the fifteenth annual ACM symposium on Principles of distributed computing, p.243, May 23-26, 1996, Philadelphia, Pennsylvania, United States
+Michael J. Fischer , Nancy A. Lynch , James E. Burns , Allan Borodin, Distributed FIFO allocation of identical resources using small shared space, ACM Transactions on Programming Languages and Systems (TOPLAS), v.11 n.1, p.90-114, Jan. 1989
+J.E. Burns , N.A. Lynch, Bounds on Shared Memory for Mutual Exclusion, Information and Computation, v.107 n.2, p.171-184, Dec. 1993
+S. Haldar , D. K. Subramanian, Fairness in processor scheduling in time sharing systems, ACM SIGOPS Operating Systems Review, v.25 n.1, p.4-18, Jan. 1991
+E. Styer , G. L. Peterson, Tight bounds for shared memory symmetric mutual exclusion problems, Proceedings of the eighth annual ACM Symposium on Principles of distributed computing, p.177-191, June 1989, Edmonton, Alberta, Canada
+Masataka Takamura , Yoshihide Igarashi, Simple Mutual Exclusion Algorithms Based on Bounded Tickets on the Asynchronous Shared Memory Model, Proceedings of the 8th Annual International Conference on Computing and Combinatorics, p.259-268, August 15-17, 2002
+Sheng-Hsiung Chen , Ting-Lu Huang, A tight bound on remote reference time complexity of mutual exclusion in the read-modify-write model, Journal of Parallel and Distributed Computing, v.66 n.11, p.1455-1471, November 2006
+John Tromp , Paul Vitányi, Randomized two-process wait-free test-and-set, Distributed Computing, v.15 n.3, p.127-135, July 2002
+Michael Merritt , Gadi Taubenfeld, Computing with infinitely many processes, Information and Computation, 233, p.12-31, December, 2013
+James H. Anderson , Yong-Jik Kim , Ted Herman, Shared-memory mutual exclusion: major research trends since 1986, Distributed Computing, v.16 n.2-3, p.75-110, September 2003
+Faith E. Fich , Eric Ruppert, Lower Bounds in Distributed Computing, Proceedings of the 14th International Conference on Distributed Computing, p.1-28, October 04-06, 2000
+N. Lynch, A hundred impossibility proofs for distributed computing, Proceedings of the eighth annual ACM Symposium on Principles of distributed computing, p.1-28, June 1989, Edmonton, Alberta, Canada
+Nancy A. Lynch, Distributed Algorithms, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1996
+Faith Fich , Eric Ruppert, Hundreds of impossibility results for distributed computing, Distributed Computing, v.16 n.2-3, p.121-163, September 2003

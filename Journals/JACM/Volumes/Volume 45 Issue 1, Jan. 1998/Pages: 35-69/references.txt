@@ -1,0 +1,36 @@
+ADVE, S. V. 1993. Designing memory consistency models for shared memory multiprocessors. Tech. Rep. 1198. University of Wisconsin, Madison, Wisc.
+Sarita V. Adve , Kourosh Gharachorloo, Shared Memory Consistency Models: A Tutorial, Computer, v.29 n.12, p.66-76, December 1996[doi>10.1109/2.546611]
+Sarita V. Adve , Mark D. Hill, Weak ordering—a new definition, Proceedings of the 17th annual international symposium on Computer Architecture, p.2-14, May 28-31, 1990, Seattle, Washington, United States[doi>10.1145/325164.325100]
+Yehuda Afek , Geoffrey Brown , Michael Merritt, Lazy caching, ACM Transactions on Programming Languages and Systems (TOPLAS), v.15 n.1, p.182-205, Jan. 1993[doi>10.1145/151646.151651]
+AHAMAD, M., HUTTO, P. W., AND JOHN, R. 1991. Implementing and programming causal distributed shared memory. In Proceedings of the llth International Conference on Distributed Computing Systems (Arlington, Tex., May). IEEE Computer Science Press, Los Alamitos, Calif., pp. 274-281.
+AMIR, Y., DOLEV, D., KRAMER, S., AND MALKI, D. 1992. Transis: A communication subsystem for high availability. In Proceedings of the 22nd International Symposium on Fault-Tolerant Computing (Boston, Mass., July). IEEE Computer Science Press, Los Alamitos, Calif., pp. 76-84.
+Hagit Attiya , Roy Friedman, A correctness condition for high-performance multiprocessors (extended abstract), Proceedings of the twenty-fourth annual ACM symposium on Theory of computing, p.679-690, May 04-06, 1992, Victoria, British Columbia, Canada[doi>10.1145/129712.129778]
+Hagit Attiya , Jennifer L. Welch, Sequential consistency versus linearizability, ACM Transactions on Computer Systems (TOCS), v.12 n.2, p.91-122, May 1994[doi>10.1145/176575.176576]
+Henri E. Bal , M. Frans Kaashoek, Object distribution in Orca using Compile-Time and Run-Time techniques, Proceedings of the eighth annual conference on Object-oriented programming systems, languages, and applications, p.162-177, September 26-October 01, 1993, Washington, D.C., United States[doi>10.1145/165854.165884]
+Henri E. Bal , M. Frans Kaashoek , Andrew S. Tanenbaum, Orca: A Language for Parallel Programming of Distributed Systems, IEEE Transactions on Software Engineering, v.18 n.3, p.190-205, March 1992[doi>10.1109/32.126768]
+J. K. Bennett , J. B. Carter , W. Zwaenepoel, Munin: distributed shared memory based on type-specific memory coherence, Proceedings of the second ACM SIGPLAN symposium on Principles & practice of parallel programming, p.168-176, March 14-16, 1990, Seattle, Washington, United States[doi>10.1145/99163.99182]
+BERSHAD, B. N., AND ZEKAUSKAS, M.J. 1991. Midway: Shared memory parallel programming with entry consistency for distributed memory multiprocessors. Tech. Rep. CMU-CS-91-170. Carnegie- Mellon University, Pittsburgh, Pa., Sept.
+Kenneth P. Birman , Thomas A. Joseph, Reliable communication in the presence of failures, ACM Transactions on Computer Systems (TOCS), v.5 n.1, p.47-76, Feb. 1987[doi>10.1145/7351.7478]
+Kenneth P. Birman , Robbert Van Renesse, Reliable Distributed Computing with the ISIS Toolkit, IEEE Computer Society Press, Los Alamitos, CA, 1993
+CENSIER, L. M., AND FEAUTRIER, P. 1978. A new solution to cache coherence problems in multicache systems. IEEE Trans. Comput 1112-1118.
+David R. Cheriton , Willy Zwaenepoel, Distributed process groups in the V Kernel, ACM Transactions on Computer Systems (TOCS), v.3 n.2, p.77-107, May 1985[doi>10.1145/214438.214439]
+William W. Collier, Reasoning about parallel architectures, Prentice-Hall, Inc., Upper Saddle River, NJ, 1992
+Michel, Dubois , Christoph Scheurich , Fayé A. Briggs, Synchronization, Coherence, and Event Ordering in Multiprocessors, Computer, v.21 n.2, p.9-21, February 1988[doi>10.1109/2.15]
+Kourosh Gharachorloo , Daniel Lenoski , James Laudon , Phillip Gibbons , Anoop Gupta , John Hennessy, Memory consistency and event ordering in scalable shared-memory multiprocessors, Proceedings of the 17th annual international symposium on Computer Architecture, p.15-26, May 28-31, 1990, Seattle, Washington, United States[doi>10.1145/325164.325102]
+Phillip B. Gibbons , Michael Merritt, Specifying non-blocking shared memories (extended abstract), Proceedings of the fourth annual ACM symposium on Parallel algorithms and architectures, p.306-315, June 29-July 01, 1992, San Diego, California, United States[doi>10.1145/140901.141895]
+Phillip B. Gibbons , Michael Merritt , Kourosh Gharachorloo, Proving sequential consistency of high-performance shared memories (extended abstract), Proceedings of the third annual ACM symposium on Parallel algorithms and architectures, p.292-303, July 21-24, 1991, Hilton Head, South Carolina, United States[doi>10.1145/113379.113406]
+Maurice P. Herlihy , Jeannette M. Wing, Linearizability: a correctness condition for concurrent objects, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.3, p.463-492, July 1990[doi>10.1145/78969.78972]
+KNUTH, D. E. 1973. Fundamental Algorithms, volume 1 of The Art of Computer Programming. Addison-Wesley, Reading, Mass.
+K#SNIG, D. 1926. Sur les correspondances multivoques des ensembles. Fund. Math. 8, 114-134.
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+LAMPORT, L. 1979. How to make a multiprocessor computer that correctly executes multiprocess programs. IEEE Trans. Comput. 28, 9 (Sept.), 690-691.
+LAMPORT, L. 1986. On interprocess communication, parts i and ii. Dist. Comput. 1, 2, 77-101.
+LIPTON, R. J., AND SANDBERG, J.S. 1988. Pram: a scalable shared memory. Tech. Rep. CS-TR-180- 88. Princeton University, Princeton, N.J.
+Nancy A. Lynch, Distributed Algorithms, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1996
+LYNCH, N., AND TUTTLE, M. 1989. An introduction to input/output automata. CWI Quarterly 2, 3 (Sept.), 219-246.
+Gil Neiger , Sam Toueg, Simulating synchronized clocks and common knowledge in distributed systems, Journal of the ACM (JACM), v.40 n.2, p.334-367, April 1993[doi>10.1145/151261.151267]
+Larry L. Peterson , Nick C. Buchholz , Richard D. Schlichting, Preserving and using context information in interprocess communication, ACM Transactions on Computer Systems (TOCS), v.7 n.3, p.217-246, Aug. 1989[doi>10.1145/65000.65001]
+C. Scheurich , M. Dubois, Correct memory operation of cache-based multiprocessors, Proceedings of the 14th annual international symposium on Computer architecture, p.234-243, June 02-05, 1987, Pittsburgh, Pennsylvania, United States[doi>10.1145/30350.30377]
+Andrew S. Tanenbaum , M. Frans Kaashoek , Henri E. Bal, Parallel Programming Using Shared Objects and Broadcasting, Computer, v.25 n.8, p.10-19, August 1992[doi>10.1109/2.153276]
+Andrew S. Tanenbaum , Robbert van Renesse , Hans van Staveren , Gregory J. Sharp , Sape J. Mullender, Experiences with the Amoeba distributed operating system, Communications of the ACM, v.33 n.12, p.46-63, Dec. 1990[doi>10.1145/96267.96281]
+Jennifer Lundelius Welch, Simulating synchronous processors, Information and Computation, v.74 n.2, p.159-171, Aug. 1987[doi>10.1016/0890-5401(87)90029-0]

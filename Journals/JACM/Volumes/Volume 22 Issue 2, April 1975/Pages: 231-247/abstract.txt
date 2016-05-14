@@ -1,0 +1,26 @@
+A generalized multi-entrance and multipriority M/G/1
+time-sharing system is dealt with. The system maintains many
+separate queues, each identified by two integers, the priority
+level and the entry level The arrival process of users is a
+homogenous Poisson process, while service requirements are
+identically distributed and have a finite second moment. Upon
+arrival a user joins one of the levels, through the entry queue of
+this level. In the(n, k)-th queue, wherenis the
+priority level andkis the entry level, a user is eligible
+to a (finite or infinite) quantum of service. If the service
+requirements of the user are satisfied during the quantum, the user
+departs, and otherwise he is trans- ferred to the end of the(n
++ 1, k)-th queue for additional service. When a quantum of
+service is completed, the highest priority nonempty level is chosen
+to be served next; within this level the queues are scanned
+according to the priority of their entry level, and the user at the
+head of the highest priority nonempty queue is chosen to be served.
+In such a priority discipline, preferred users always get an
+improved service, though the service of all users is degraded in
+proportion to their service requirements. Expected flow times and
+expected number of waiting users are derived and then specialized
+to the head-of-the-line M/G/1 priority discipline (in which quanta
+have infinite length and service is uninterrupted) and to the
+FBntime-sharing system. Finally, the generalized
+multientrance and multipriority time-sharing discipline is
+(numerically) compared with several other time-sharing systems.

@@ -1,0 +1,19 @@
+A popular means of increasing the effective rate of main storage
+accesses in a large computer is a multiplicity of memory modules
+accessible in parallel. Although such an organization usually
+achieves a net gain in access rate, it also creates new modes of
+congestion at the storage controller. This paper analyzes the
+variables that describe such a congestion: queue lengths and
+delays. A controller that maintains separate register sets to
+accommodate the request queue of each module is considered. The
+various processors attached to the storage are assumed to generate,
+in each memory cycle, a number of access requests with the same
+given distribution. The addresses specified by these requests
+(reduced to the module index) are further assumed to follow the
+states of a first-order Markov chain. The analysis then becomes one
+of a single-server queuing system with constant service time and
+indexed batch arrival process. Results are derived for several
+descriptors of the congestion and thus of the quality of service
+offered by such an organization. The aim throughout is to embody
+the results in a form readily suitable for numerical
+evaluation.

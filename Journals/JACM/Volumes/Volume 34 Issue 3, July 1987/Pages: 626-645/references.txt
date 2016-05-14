@@ -1,0 +1,14 @@
+Micah Beck , T. K. Srikanth , Sam Toueg, Implementation Issues in Clock Synchronization, Proceedings of the Asilomar Workshop on Fault-Tolerant Distributed Computing, p.97-107, January 1990
+DIFFIE, W., AND HELLMAN, i. New directions in cryptography. IEEE Trans. Inf. Theory IT-22 (1976), 644-654.
+Danny Dolev , Joseph Y Halpern , Raymond H Strong, On the possibility and impossibility of achieving clock synchronization, Journal of Computer and System Sciences, v.32 n.2, p.230-250, April 1986[doi>10.1016/0022-0000(86)90028-0]
+Rogerio Drummond, Impact of communication networks on fault-tolerant distributed computing, Cornell University, Ithaca, NY, 1986
+Michael J. Fischer , Nancy A. Lynch , Michael Merritt, Easy impossibility proofs for distributed consensus problems, Proceedings of the fourth annual ACM symposium on Principles of distributed computing, p.59-70, August 1985, Minaki, Ontario, Canada[doi>10.1145/323596.323602]
+HADZILACOS, V. Byzantine agreement under restricted types of failures (not telling the truth is different from telling lies). Tech. Rep. 19-83, Aiken Computation Laboratory, Harvard Univ., Cambridge, Mass., June I983.
+Joseph Y. Halpern , Barbara Simons , Ray Strong , Danny Dolev, Fault-tolerant clock synchronization, Proceedings of the third annual ACM symposium on Principles of distributed computing, p.89-102, August 27-29, 1984, Vancouver, British Columbia, Canada[doi>10.1145/800222.806739]
+LAMPORT, L., AND FISCHER, M. Byzantine generals and transaction commit protocols. Opus 62, SRI International, Menlo Park, Calif., Apr. 1982.
+Leslie Lamport , P. M. Melliar-Smith, Synchronizing clocks in the presence of faults, Journal of the ACM (JACM), v.32 n.1, p.52-78, Jan. 1985[doi>10.1145/2455.2457]
+Jennifer Lundelius , Nancy Lynch, A new fault-tolerant algorithm for clock synchronization, Proceedings of the third annual ACM symposium on Principles of distributed computing, p.75-88, August 27-29, 1984, Vancouver, British Columbia, Canada[doi>10.1145/800222.806738]
+Stephen R. Mahaney , Fred B. Schneider, Inexact agreement: accuracy, precision, and graceful degradation, Proceedings of the fourth annual ACM symposium on Principles of distributed computing, p.237-249, August 1985, Minaki, Ontario, Canada[doi>10.1145/323596.323618]
+Keith Ansel Marzullo, Maintaining the time in a distributed system: an example of a loosely-coupled distributed service (synchronization, fault-tolerance, debugging), 1984
+K J Perry , S Toueg, Distributed agreement in the presence of processor and communication faults, IEEE Transactions on Software Engineering, v.12 n.3, p.477-482, March 1986
+SRIKANTH, T. K., AND TOUEG, S. Simulating authenticated broadcasts to derive simple faulttolerant algorithms. Tech. Rep. 84-623, Dept. of Computer Science, Cornell Univ., Ithaca, N.Y., July 1984. (Also to appear in Distributed Computing, Springer-Verlag, New York.)

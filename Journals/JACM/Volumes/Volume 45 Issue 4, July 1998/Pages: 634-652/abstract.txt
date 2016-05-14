@@ -1,0 +1,16 @@
+Given a collectionFof subsets ofS=
+{1,…,n},set
+coveris the problem of selecting as few as possible
+subsets fromFsuch that their union coversS,, andmax
+k-coveris the problem of selectingksubsets fromFsuch that their union has maximum cardinality. Both these problems are
+NP-hard.   We prove that (1 -o(1)) lnnis a threshold below  
+
+ which set
+cover cannot be approximated efficiently, unless NP has slightly
+superpolynomial time algorithms. This closes the gap (up to low-order
+terms) between the ratio of approximation achievable by the greedy
+alogorithm (which is (1 -o(1)) ln
+n), and provious results of Lund and Yanakakis, that showed hardness of
+approximation within a ratio oflog2n/2&sime;0.72lnn. For maxk-cover, we show an approximation
+threshold of (1 - 1/e)(up to
+low-order terms), under assumption thatP≠NP.

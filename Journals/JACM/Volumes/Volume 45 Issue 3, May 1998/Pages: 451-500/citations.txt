@@ -1,0 +1,42 @@
+Dan Dobre , Matthias Majuntke , Marco Serafini , Neeraj Suri, Efficient Robust Storage Using Secret Tokens, Proceedings of the 11th International Symposium on Stabilization, Safety, and Security of Distributed Systems, November 03-06, 2009, Lyon, France
+Dan Dobre , Matthias Majuntke , Neeraj Suri, On the Time-Complexity of Robust and Amnesic Storage, Proceedings of the 12th International Conference on Principles of Distributed Systems, December 15-18, 2008, Luxor, Egypt
+Rida A. Bazzi , Yin Ding, Bounded wait-freef-resilient atomic Byzantine data storage systems for an unbounded number of clients, Proceedings of the 20th international conference on Distributed Computing, September 18-20, 2006, Stockholm, Sweden
+Ittai Abraham , Gregory Chockler , Idit Keidar , Dahlia Malkhi, Wait-free regular storage from Byzantine components, Information Processing Letters, v.101 n.2, p.60-65, January, 2007
+Paul Attie, Wait-free Byzantine consensus, Information Processing Letters, v.83 n.4, p.221-227, 31 August 2002
+Gregory Chockler , Dahlia Malkhi , Danny Dolev, A data-centric approach for scalable state machine replication, Future directions in distributed computing: research and position papers, Springer-Verlag, Berlin, Heidelberg, 2003
+Frank Stomp , Gadi Taubenfeld, Constructing a Reliable Test&Set; Bit, IEEE Transactions on Parallel and Distributed Systems, v.10 n.3, p.252-265, March 1999
+Rachid Guerraoui , Michel Raynal, From unreliable objects to reliable objects: the case of atomic registers and consensus, Proceedings of the 9th international conference on Parallel Computing Technologies, September 03-07, 2007, Pereslavl-Zalessky, Russia
+Dahlia Malkhi , Michael Merritt , Michael K. Reiter , Gadi Taubenfeld, Objects Shared by Byzantine Processes, Proceedings of the 14th International Conference on Distributed Computing, p.345-359, October 04-06, 2000
+Dahlia Malkhi , Michael Merritt , Michael K. Reiter , Gadi Taubenfeld, Objects shared by Byzantine processes, Distributed Computing, v.16 n.1, p.37-48, February 2003
+Xingwu Liu , Zhiwei Xu , Juhua Pu, Revisiting the impossibility for boosting service resilience, Proceedings of the 4th international conference on Theory and applications of models of computation, May 22-25, 2007, Shanghai, China
+Christian Cachin , Abhi Shelat , Alexander Shraer, Efficient fork-linearizable access to untrusted shared memory, Proceedings of the twenty-sixth annual ACM symposium on Principles of distributed computing, August 12-15, 2007, Portland, Oregon, USA
+Rachid Guerraoui , Marko Vukolić, How fast can a very robust read be?, Proceedings of the twenty-fifth annual ACM symposium on Principles of distributed computing, July 23-26, 2006, Denver, Colorado, USA
+Hyunyoung Lee , Jennifer L. Welch, Randomized registers and iterative algorithms, Distributed Computing, v.17 n.3, p.209-221, March 2005
+Dan Dobre , Matthias Majuntke , Neeraj Suri, Low-latency access to robust amnesic storage, Proceedings of the 2nd Workshop on Large-Scale Distributed Systems and Middleware, September 15-17, 2008, Yorktown Heights, New York
+Alexander Shraer , Jean-Philippe Martin , Dahlia Malkhi , Idit Keidar, Data-centric reconfiguration with network-attached disks, Proceedings of the 4th International Workshop on Large Scale Distributed Systems and Middleware, July 28-29, 2010, Zürich, Switzerland
+Gregory Chockler , Rachid Guerraoui , Idit Keidar, Amnesic distributed storage, Proceedings of the 21st international conference on Distributed Computing, September 24-26, 2007, Lemesos, Cyprus
+Applications of Probabilistic Quorums to Iterative Algorithms, Proceedings of the The 21st International Conference on Distributed Computing Systems, p.21, April 16-19, 2001
+Thomas Moscibroda , Rotem Oshman, Resilience of mutual exclusion algorithms to transient memory faults, Proceedings of the 30th annual ACM SIGACT-SIGOPS symposium on Principles of distributed computing, June 06-08, 2011, San Jose, California, USA
+Michel Raynal, Wait-free computing: an introductory lecture, Future Generation Computer Systems, v.21 n.5, p.655-663, May 2005
+Michel Raynal, Wait-free computing: an introductory lecture, Future Generation Computer Systems, v.21 n.5, p.655-663, May 2005
+Noga Alon , Michael Merritt , Omer Reingold , Gadi Taubenfeld , Rebecca N. Wright, Tight bounds for shared memory systems accessed by Byzantine processes, Distributed Computing, v.18 n.2, p.99-109, December 2005
+Partha Dutta , Rachid Guerraoui , Ron R. Levy , Marko Vukolić, Fast Access to Distributed Atomic Memory, SIAM Journal on Computing, v.39 n.8, p.3752-3783, August 2010
+Ittai Abraham , Gregory V. Chockler , Idit Keidar , Dahlia Malkhi, Byzantine disk paxos: optimal resilience with byzantine shared memory, Proceedings of the twenty-third annual ACM symposium on Principles of distributed computing, July 25-28, 2004, St. John's, Newfoundland, Canada
+Matthias Majuntke , Dan Dobre , Marco Serafini , Neeraj Suri, Abortable Fork-Linearizable Storage, Proceedings of the 13th International Conference on Principles of Distributed Systems, December 15-18, 2009, Nîmes, France
+Youcef Derbal, A new fault-tolerance framework for grid computing, Multiagent and Grid Systems, v.2 n.2, p.115-133, March 2006
+Rachid Guerraoui , Marko VukoliĆ, Refined quorum systems, Proceedings of the twenty-sixth annual ACM symposium on Principles of distributed computing, August 12-15, 2007, Portland, Oregon, USA
+Matthias Majuntke , Dan Dobre , Christian Cachin , Neeraj Suri, Fork-Consistent constructions from registers, Proceedings of the 15th international conference on Principles of Distributed Systems, p.283-298, December 13-16, 2011, Toulouse, France
+Alysson Bessani , Miguel Correia , Bruno Quaresma , Fernando André , Paulo Sousa, DepSky: dependable and secure storage in a cloud-of-clouds, Proceedings of the sixth conference on Computer systems, April 10-13, 2011, Salzburg, Austria
+Gregory Chockler , Dahlia Malkhi, Light-weight leases for storage-centric coordination, International Journal of Parallel Programming, v.34 n.2, p.143-170, April 2006
+Dan Dobre , Ghassan Karame , Wenting Li , Matthias Majuntke , Neeraj Suri , Marko Vukolić, PoWerStore: proofs of writing for efficient and robust storage, Proceedings of the 2013 ACM SIGSAC conference on Computer & communications security, November 04-08, 2013, Berlin, Germany
+Achour Mostefaoui , Sergio Rajsbaum , Michel Raynal, Conditions on input vectors for consensus solvability in asynchronous distributed systems, Proceedings of the thirty-third annual ACM symposium on Theory of computing, p.153-162, July 2001, Hersonissos, Greece
+Alysson Bessani , Miguel Correia , Bruno Quaresma , Fernando André , Paulo Sousa, DepSky: Dependable and Secure Storage in a Cloud-of-Clouds, ACM Transactions on Storage (TOS), v.9 n.4, p.1-33, November 2013
+Gregory Chockler , Dahlia Malkhi,Active disk paxoswith infinitely many processes, Proceedings of the twenty-first annual symposium on Principles of distributed computing, July 21-24, 2002, Monterey, California
+Eli Gafni , Sergio Rajsbaum, Musical benches, Proceedings of the 19th international conference on Distributed Computing, September 26-29, 2005, Cracow, Poland
+Gregory Chockler , Dahlia Malkhi, Active disk Paxos with infinitely many processes, Distributed Computing, v.18 n.1, p.73-84, July 2005
+Marcos K. Aguilera , Burkhard Englert , Eli Gafni, On using network attached disks as shared memory, Proceedings of the twenty-second annual symposium on Principles of distributed computing, p.315-324, July 13-16, 2003, Boston, Massachusetts
+Achour Mostefaoui , Sergio Rajsbaum , Michel Raynal, Conditions on input vectors for consensus solvability in asynchronous distributed systems, Journal of the ACM (JACM), v.50 n.6, p.922-954, November 2003
+Marcos K. Aguilera, A pleasant stroll through the land of infinitely many creatures, ACM SIGACT News, v.35 n.2, June 2004
+James Aspnes, Randomized protocols for asynchronous consensus, Distributed Computing, v.16 n.2-3, p.165-175, September 2003
+Faith E. Fich , Eric Ruppert, Lower Bounds in Distributed Computing, Proceedings of the 14th International Conference on Distributed Computing, p.1-28, October 04-06, 2000
+Faith Fich , Eric Ruppert, Hundreds of impossibility results for distributed computing, Distributed Computing, v.16 n.2-3, p.121-163, September 2003

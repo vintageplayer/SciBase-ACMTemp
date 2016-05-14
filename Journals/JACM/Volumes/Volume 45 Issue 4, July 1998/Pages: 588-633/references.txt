@@ -1,0 +1,41 @@
+Serge Abiteboul , Richard Hull, Data functions, datalog and negation, Proceedings of the 1988 ACM SIGMOD international conference on Management of data, p.143-153, June 01-03, 1988, Chicago, Illinois, USA[doi>10.1145/50202.50218]
+K. R. Apt , H. A. Blair , A. Walker, Towards a theory of declarative knowledge, Foundations of deductive databases and logic programming, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1988
+Catriel Beeri , Philip A. Bernstein, Computational problems related to the design of normal form relational schemas, ACM Transactions on Database Systems (TODS), v.4 n.1, p.30-59, March 1979[doi>10.1145/320064.320066]
+BRODSKY, A., AND SAGIV, Y. 1989. On termination of Datalog programs. In Proceedings of the International Conference on Deductive and Object-Oriented Databases. Elsevier, Amsterdam, The Netherlands, pp. 47-64.
+CASANOVA, M. A., FAGIN, R., AND PAPADIMITRIOU, C.H. 1984. Inclusion dependencies and their interaction with functional dependencies. J. Comput. Syst. Sci. 28, 29-59.
+CHANDRA, A. K., AND VARDI, M.Y. 1985. The implication problem for functional and inclusion dependencies is undecidable. SIAM J. Comput. 14, 671-677.
+CONVENT, B. 1989. Deciding finiteness, groundedness and domain independence of pure Datalog queries. J. Inf. Proc. Cyber. 25, 401-416.
+COSMADAKIS, S. S., AND KANELLAKIS, P.C. 1986. Functional and inclusion dependencies: A graph theoretic approach. In Advances in Computing Research, vol. 3. P. C. Kanellakis, ed. Plenum Press, New York, pp. 163-184.
+Paul De Bra, Horizontal decompositions based on functional-dependency-set-implications, Proceedings on International conference on database theory, p.157-170, December 1986, Rome, Italy
+DE BRA, P., AND PAREDAENS, J. 1983. Horizontal decompositions for handling exceptions to functional dependencies. In Lecture Notes in Computer Science, vol. 154. Springer-Verlag, New York, pp. 67-82.
+Robert A. Di Paola, The Recursive Unsolvability of the Decision Problem for the Class of Definite Formulas, Journal of the ACM (JACM), v.16 n.2, p.324-327, April 1969[doi>10.1145/321510.321524]
+FISCHER, P. C., Jou, J. n., AND TSOU, D.M. 1983. Succinctness in dependency systems. Theoret. Comput. Sci. 24, 323-329.
+Nathan Goodman , Oded Shmueli, Tree queries: a simple class of relational queries, ACM Transactions on Database Systems (TODS), v.7 n.4, p.653-677, Dec. 1982[doi>10.1145/319758.319775]
+G. Gottlob, Computing covers for embedded functional dependencies, Proceedings of the sixth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.58-69, March 23-25, 1987, San Diego, California, USA[doi>10.1145/28659.28665]
+JOHNSON, D. S., AND KLUG, A. 1984. Testing containment of conjunctive queries under functional and inclusion dependencies. J. Comput. Syst. Sci. 28, 167-189.
+KIFER, M. 1988. On safety, domain independence, and capturability of database queries. In Proceedings of the 3rd International Conference on Data and Knowledge Bases (Jerusalem, Israel, June). Morgan-Kaufmann, San Mateo, Calif., pp. 405-415.
+KIFER, M. 1990. The relationship among finiteness, domain independence and capturability. Unpublished manuscript.
+Micheal Kifer , Eliezer L. Lozinskii, SYGRAF: Implementing Logic Programs in a Database Style, IEEE Transactions on Software Engineering, v.14 n.7, p.922-935, July 1988[doi>10.1109/32.42735]
+Michael Kifer , Raghu Ramakrishnan , Avi Silberschatz, An axiomatic approach to deciding query safety in deductive databases, Proceedings of the seventh ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.52-60, March 1988, Austin, Texas, USA[doi>10.1145/308386.308412]
+Ravi Krishnamurthy , Raghu Ramakrishnan , Oded Shmueli, A framework for testing safety and effective computability, Journal of Computer and System Sciences, v.52 n.1, p.100-124, Feb. 1996[doi>10.1006/jcss.1996.0009]
+Laks V. S. Lakshmanan , Daniel A. Nonen, Superfiniteness of Query Answers in Deductive Databases: An Automata-Theoretic Approach, Proceedings of the 12th Conference on Foundations of Software Technology and Theoretical Computer Science, p.176-190, December 18-20, 1992
+J. W. Lloyd, Foundations of logic programming; (2nd extended ed.), Springer-Verlag New York, Inc., New York, NY, 1987
+John C. Mitchell, The implication problem for functional and inclusion dependencies, Information and Control, v.56 n.3, p.154-173, March 1983[doi>10.1016/S0019-9958(83)80002-3]
+S. Naqvi , S. Tsur, A logical language for data and knowledge bases, Computer Science Press, Inc., New York, NY, 1989
+R. Ramakrishnan , F. Bancilhon , A. Silberschatz, Safety of recursive Horn clauses with infinite relations, Proceedings of the sixth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.328-339, March 23-25, 1987, San Diego, California, USA[doi>10.1145/28659.28694]
+Raghu Ramakrishnan , Divesh Srivastava , S. Sudarshan, CORAL - Control, Relations and Logic, Proceedings of the 18th International Conference on Very Large Data Bases, p.238-250, August 23-27, 1992
+Raghu Ramakrishnan , Divesh Srivastava , S. Sudarshan , Praveen Seshadri, Implementation of the CORAL deductive database system, Proceedings of the 1993 ACM SIGMOD international conference on Management of data, p.167-176, May 25-28, 1993, Washington, D.C., USA[doi>10.1145/170035.170067]
+Y. Sagiv, Optimizing datalog programs, Foundations of deductive databases and logic programming, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1988
+SAGW, Y. 1991a. On testing effective computability of magic programs. In Proceedings of the International Conference on Deductive and Object-Oriented Databases (Dec.). Benjamin Cummings, pp. 244-262.
+SAGIV, Y. 1991b. A termination test for logic programs. In Proceedings of the International Logic Programming Symposium (Cambridge, Mass., Nov.). MIT Press, Cambridge, Mass., pp. 518-532.
+Y. Sagiv , M. Y. Vardi, Safety of datalog queries over infinite  databases, Proceedings of the eighth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.160-171, March 1989, Philadelphia, Pennsylvania, USA[doi>10.1145/73721.73738]
+Konstantinos Sagonas , Terrance Swift , David S. Warren, XSB as an efficient deductive database engine, Proceedings of the 1994 ACM SIGMOD international conference on Management of data, p.442-453, May 24-27, 1994, Minneapolis, Minnesota, USA[doi>10.1145/191839.191927]
+Edward Sciore, Improving database schemes by adding attributes, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia[doi>10.1145/588058.588103]
+SIGACT-SIGMOD Symposium on Principles of Database Systems ACM, New York, pp. 379-383.
+J. C. Shepherdson, Negation in logic programming, Foundations of deductive databases and logic programming, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1988
+O. Shmueli, Decidability and expressiveness aspects of logic queries, Proceedings of the sixth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.237-249, March 23-25, 1987, San Diego, California, USA[doi>10.1145/28659.28685]
+Jeffrey D. Ullman, Principles of Database Systems, W. H. Freeman & Co., New York, NY, 1983
+Jeffrey D. Ullman, Principles of database and knowledge-base systems, Vol. I, Computer Science Press, Inc., New York, NY, 1988
+Jeffrey D. Ullman, Principles of database and knowledge-base systems, Vol. I, Computer Science Press, Inc., New York, NY, 1988
+VARDI, M.Y. 1981. The decision problem for database dependencies. Inf. Proc. Lett. 12 (Oct.). pp. 251-254.
+ZANIOLO, C. 1984. Safety and compilation of non-recursive horn clauses. In First International Workshop on Expert Database Systems (Kiawah Island, S.C., Oct.). Benjamin Cummings, pp. 63-73.

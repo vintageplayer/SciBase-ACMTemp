@@ -1,0 +1,45 @@
+John Allen, Anatomy of LISP, McGraw-Hill, Inc., New York, NY, 1978
+Gerth Stølting Brodal, Worst-case efficient priority queues, Proceedings of the seventh annual ACM-SIAM symposium on Discrete algorithms, p.52-58, January 28-30, 1996, Atlanta, Georgia, USA
+Adam L. Buchsbaum , Rajamani Sundar , Robert E. Tarjan, Data-Structural Bootstrapping, Linear Path Compression, and Catenable Heap-Ordered Double-Ended Queues, SIAM Journal on Computing, v.24 n.6, p.1190-1206, Dec. 1995[doi>10.1137/S0097539792242144]
+Adam L. Buchsbaum , Robert E. Tarjan, Confluently persistent deques via data-structural bootstrapping, Journal of Algorithms, v.18 n.3, p.513-547, May 1995[doi>10.1006/jagm.1995.1020]
+BURTON, F. W. 1982. An efficient functional implementation of FIFO queues. Inf. Proc. Lett. 14,5, 205-206.
+Bernard Chazelle, How to search history, Information and Control, v.64 n.1-3, p.77-99, Jan./Feb./March 1985[doi>10.1016/S0019-9958(85)80045-0]
+CHAZELLE, B., AND GUIBAS, L. J. 1986. Fractional cascading: I. a data structuring technique. Algorithmica 1, 2, 133-162.
+Tyng-Ruey Chuang , Benjamin Goldberg, Real-time deques, multihead Turing machines, and purely functional programming, Proceedings of the conference on Functional programming languages and computer architecture, p.289-298, June 09-11, 1993, Copenhagen, Denmark[doi>10.1145/165180.165225]
+Michael J. Clancy , Donald E. Knuth, A programming and problem-solving seminar, Stanford University, Stanford, CA, 1977
+Richard Cole, Searching and sorting similar lists, Journal of Algorithms, v.7 n.2, p.202-220, June 1986[doi>10.1016/0196-6774(86)90004-0]
+Paul F. Dietz, Fully Persistent Arrays (Extended Array), Proceedings of the Workshop on Algorithms and Data Structures, p.67-74, August 17-19, 1989
+DOBKIN,D.P.,AND MUNRO, J. I. 1985. Efficient uses of the past. J. Algorithms 6, 455-465.
+James R. Driscoll , Neil Sarnak , Daniel D. Sleator , Robert E. Tarjan, Making data structures persistent, Journal of Computer and System Sciences, v.38 n.1, p.86-124, February 1989[doi>10.1016/0022-0000(89)90034-2]
+James R. Driscoll , Daniel D. K. Sleator , Robert E. Tarjan, Fully persistent lists with catenation, Journal of the ACM (JACM), v.41 n.5, p.943-959, Sept. 1994[doi>10.1145/185675.185791]
+Mattias Felleisen, The theory and practice of first-class prompts, Proceedings of the 15th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.180-190, January 10-13, 1988, San Diego, California, USA[doi>10.1145/73560.73576]
+Matthias Felleisen , Mitch Wand , Daniel Friedman , Bruce Duba, Abstract continuations: a mathematical semantics for handling full jumps, Proceedings of the 1988 ACM conference on LISP and functional programming, p.52-62, July 25-27, 1988, Snowbird, Utah, USA[doi>10.1145/62678.62684]
+Patrick C. Fischer , Albert R. Meyer , Arnold L. Rosenberg, Real-Time Simulation of Multihead Tape Units, Journal of the ACM (JACM), v.19 n.4, p.590-607, Oct. 1972[doi>10.1145/321724.321726]
+Greg N. Frederickson, An optimal algorithm for selection in a min-heap, Information and Computation, v.104 n.2, p.197-214, June 1993[doi>10.1006/inco.1993.1030]
+H Gajewska , R E Tarjan, Deques with heap order, Information Processing Letters, v.22 n.4, p.197-200, April 1986[doi>10.1016/0020-0190(86)90028-1]
+David Gries, The  Science of Programming, Springer-Verlag New York, Inc., Secaucus, NJ, 1987
+Robert Todd Hood, The efficient implementation of very-high-level programming language constructs, Cornell University, Ithaca, NY, 1982
+HOOD, R., AND MELVILLE, R. 1981. Real-time queue operations in pure Lisp. Inf. Proc. Lett. 13, 50-54.
+HOOGERWOOD, R. R. 1992. A symmetric set of efficient list operations. J. Funct. Prog. 2,4, 505-513.
+G. F. Johnson , D. Duggan, Stores and partial continuations as first-class objects in a language and its environment, Proceedings of the 15th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.158-168, January 10-13, 1988, San Diego, California, USA[doi>10.1145/73560.73574]
+Haim Kaplan, Purely functional lists, Princeton University, Princeton, NJ, 1997
+Haim Kaplan , Chris Okasaki , Robert Endre Tarjan, Simple Confluently Persistent Catenable Lists (Extended Abstract), Proceedings of the 6th Scandinavian Workshop on Algorithm Theory, p.119-130, July 08-10, 1998
+Haim Kaplan , Robert E. Tarjan, Persistent lists with catenation via recursive slow-down, Proceedings of the twenty-seventh annual ACM symposium on Theory of computing, p.93-102, May 29-June 01, 1995, Las Vegas, Nevada, USA[doi>10.1145/225058.225090]
+Haim Kaplan , Robert E. Tarjan, Purely functional representations of catenable sorted lists, Proceedings of the twenty-eighth annual ACM symposium on Theory of computing, p.202-211, May 22-24, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/237814.237865]
+Donald E. Knuth, The  Art of Computer Programming Volumes 1-3 Boxed Set, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1998
+S. Rao Kosaraju, Real-time simulation of concatenable double-ended queues by double-ended queues (Preliminary Version), Proceedings of the eleventh annual ACM symposium on Theory of computing, p.346-351, April 30-May 02, 1979, Atlanta, Georgia, USA[doi>10.1145/800135.804427]
+S. Rao Kosaraju, An optimal RAM implementation of catenable min double-ended queues, Proceedings of the fifth annual ACM-SIAM symposium on Discrete algorithms, p.195-203, January 23-25, 1994, Arlington, Virginia, USA
+Benton L. Leong , Joel I. Seiferas, New Real-Time Simulations of Multihead Tape Units, Journal of the ACM (JACM), v.28 n.1, p.166-180, Jan. 1981[doi>10.1145/322234.322246]
+C. Okasaki, Amortization, lazy evaluation, and persistence: lists with catenation via lazy linking, Proceedings of the 36th Annual Symposium on Foundations of Computer Science, p.646, October 23-25, 1995
+OKASAKI, C. 1995. Simple and efficient purely functional queues and deques. J. Funct. Prog. 5,4, 583-592.
+Chris Okasaki, Purely functional data structures, Cambridge University Press, New York, NY, 1998
+Chris Okasaki, Catenable double-ended queues, Proceedings of the second ACM SIGPLAN international conference on Functional programming, p.66-74, June 09-11, 1997, Amsterdam, The Netherlands[doi>10.1145/258948.258956]
+OVERMARS, M. H. 1981a. Searching in the past. I. Tech. Rep. RUU-CS-81-7. Dept. Computer Science, Univ. Utrecht, Utrecht, The Netherlands.
+OVERMARS, M. H. 1981b. Searching in the past. II: General transforms. Tech. Rep. RUU-CS-81-9. Dept. Computer Science, Univ. Utrecht, Utrecht, The Netherlands.
+Neil Ivor Sarnak, Persistent data structures, New York University, New York, NY, 1986
+Neil Sarnak , Robert E. Tarjan, Planar point location using persistent search trees, Communications of the ACM, v.29 n.7, p.669-679, July 1986[doi>10.1145/6138.6151]
+Dorai Staram , Matthias Felleisen, Control delimiters and their hierarchies, Lisp and Symbolic Computation, v.3 n.1, p.67-99, Jan. 1990[doi>10.1007/BF01806126]
+Jay M. Spitzen , Karl N. Levitt , Lawrence Robinson, An example of hierarchical design and proof, Communications of the ACM, v.21 n.12, p.1064-1075, Dec. 1978[doi>10.1145/359657.359667]
+STOSS, H.-J. 1970. K-band simulation von k-kopf-turing-maschinen. Computing 6, 3, 309-317.
+TARJAN, R. E. 1985. Amortized computational complexity. SIAM J. Alg. Disc. Meth. 6, 2, 306-318.
+Robert E. Tarjan , Jan van Leeuwen, Worst-case Analysis of Set Union Algorithms, Journal of the ACM (JACM), v.31 n.2, p.245-281, April 1984[doi>10.1145/62.2160]

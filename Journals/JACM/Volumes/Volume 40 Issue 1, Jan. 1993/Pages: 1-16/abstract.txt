@@ -1,0 +1,1 @@
+In this paper, it is shown that there is an algorithm that, given by finite setEof ground equations, produces a reduced canonical rewriting systemRequivalent toEin polynomial time. This algorithm based on congruence closure performs simplification steps guided by a total simplification ordering on ground terms, and it runs in timeO(n3).

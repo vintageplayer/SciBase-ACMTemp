@@ -1,0 +1,6 @@
+The problem of generating random, uniformly distributed, binary
+trees is considered. A closed formula that counts the number of trees
+having a left subtee withk-1nodesk=1,2,...,nis found. By inverting the formula, random trees withnnodes are generated according to the appropriate
+probability distribution, determining the number of nodes in the left
+and right subtrees that can be generated recursively. The procedure is
+shown to run in timeOn, occupying an extra space in the order ofOn.

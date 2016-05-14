@@ -1,0 +1,81 @@
+Vitaly Osipov, Parallel suffix array construction for shared memory architectures, Proceedings of the 19th international conference on String Processing and Information Retrieval, p.379-384, October 21-25, 2012, Cartagena de Indias, Colombia
+Vikas K. Garg, Toward optimal disk layout of genome scale suffix trees, Proceedings of the 8th international conference on Simulated evolution and learning, December 01-04, 2010, Kanpur, India
+Mitsuki Kimura , Atsuhiro Takasu , Jun Adachi,FPI: a novel indexing method using frequent patterns for approximate string searches, Proceedings of the Joint EDBT/ICDT 2013 Workshops, March 18-22, 2013, Genoa, Italy
+G. Franceschini , S. Muthukrishnan, In-place suffix sorting, Proceedings of the 34th international conference on Automata, Languages and Programming, July 09-13, 2007, Wrocław, Poland
+Juha Kärkkäinen , Tommi Rantala, Engineering Radix Sort for Strings, Proceedings of the 15th International Symposium on String Processing and Information Retrieval, p.3-14, November 10-12, 2008, Melbourne, Australia
+Juha Kärkkäinen, Fast BWT in small space by blockwise suffix sorting, Theoretical Computer Science, v.387 n.3, p.249-257, November, 2007
+James A. Edwards , Uzi Vishkin, Parallel algorithms for Burrows-Wheeler compression and decompression, Theoretical Computer Science, 525, p.10-22, March, 2014
+Antti Ukkonen, Mining Local Correlation Patterns in Sets of Sequences, Proceedings of the 12th International Conference on Discovery Science, p.347-361, October 03-05, 2009, Porto, Portugal
+M. T. Juan , J. J. Liu , Y. L. Wang, Errata for “Faster index for property matching”, Information Processing Letters, v.109 n.18, p.1027-1029, August, 2009
+Broňa Brejová , Gad M. Landau , Tomáš Vinař, Fast computation of a string duplication history under no-breakpoint-reuse, Proceedings of the 18th international conference on String processing and information retrieval, p.144-155, October 17-21, 2011, Pisa, Italy
+Jiaying Wang , Xiaochun Yang , Bin Wang , Huaijie Zhu, Memory-Aware BWT by segmenting sequences to support subsequence search, Proceedings of the 14th Asia-Pacific international conference on Web Technologies and Applications, April 11-13, 2012, Kunming, China
+German Tischler, On wavelet tree construction, Proceedings of the 22nd annual conference on Combinatorial pattern matching, June 27-29, 2011, Palermo, Italy
+Rohith K. Menon , Goutham P. Bhat , Michael C. Schatz, Rapid parallel genome indexing with MapReduce, Proceedings of the second international workshop on MapReduce and its applications, June 08-08, 2011, San Jose, California, USA
+Roberto Grossi, A quick tour on suffix arrays and compressed suffix arrays, Theoretical Computer Science, v.412 n.27, p.2964-2973, June, 2011
+Artur Jeż, One-Variable word equations in linear time, Proceedings of the 40th international conference on Automata, Languages, and Programming, July 08-12, 2013, Riga, Latvia
+Roberto Grossi, Text Indexing, Suffix Sorting, and Data Compression: Common Problems and Techniques, Proceedings of the 20th Annual Symposium on Combinatorial Pattern Matching, p.39-40, June 22-24, 2009, Lille, France
+Cristian Grozea , Florin Manea , Mike Müller , Dirk Nowotka, String matching with involutions, Proceedings of the 11th international conference on Unconventional Computation and Natural Computation, September 03-07, 2012, Orléans, France
+Paweł Gawrychowski, Pattern matching in lempel-Ziv compressed strings: fast, simple, and deterministic, Proceedings of the 19th European conference on Algorithms, September 05-09, 2011, Saarbrücken, Germany
+Daisuke Okanohara , Kunihiko Sadakane, A Linear-Time Burrows-Wheeler Transform Using Induced Sorting, Proceedings of the 16th International Symposium on String Processing and Information Retrieval, August 25-27, 2009, Saariselkä, Finland
+Johannes Fischer , Volker Heun , Stefan Kramer, Fast Frequent String Mining Using Suffix Arrays, Proceedings of the Fifth IEEE International Conference on Data Mining, p.609-612, November 27-30, 2005
+Sebastian Deorowicz , Szymon Grabowski, Efficient algorithms for the longest common subsequence in k-length substrings, Information Processing Letters, v.114 n.11, p.634-638, November, 2014
+Ge Nong, Practical linear-timeO(1)-workspace suffix sorting for constant alphabets, ACM Transactions on Information Systems (TOIS), v.31 n.3, p.1-15, July 2013
+James Alexander Edwards , Uzi Vishkin, Brief announcement: truly parallel burrows-wheeler compression and decompression, Proceedings of the 25th ACM symposium on Parallelism in algorithms and architectures, July 23-25, 2013, Montréal, Québec, Canada
+Pierre Peterlongo , Nadia Pisanti , Frederic Boyer , Marie-France Sagot, Lossless filter for finding long multiple approximate repetitions using a new data structure, the bi-factor array, Proceedings of the 12th international conference on String Processing and Information Retrieval, November 02-04, 2005, Buenos Aires, Argentina
+Markus J. Bauer , Anthony J. Cox , Giovanna Rosone, Lightweight BWT construction for very large string collections, Proceedings of the 22nd annual conference on Combinatorial pattern matching, June 27-29, 2011, Palermo, Italy
+Joong Chae Na , Heejin Park , Sunho Lee , Minsung Hong , Thierry Lecroq , Laurent Mouchard , Kunsoo Park, Suffix Array of Alignment: A Practical Index for Similar Data, Proceedings of the 20th International Symposium on String Processing and Information Retrieval, p.243-254, October 07-09, 2013, Jerusalem, Israel
+Richard Cole , Tsvi Kopelowitz , Moshe Lewenstein, Suffix Trays and Suffix Trists: Structures for Faster Text Indexing, Algorithmica, v.72 n.2, p.450-466, June      2015
+Costas S. Iliopoulos , M. Sohel Rahman, Faster index for property matching, Information Processing Letters, v.105 n.6, p.218-223, February 2008
+Benjamin Adrian , Sven Schwarz, Using suffix arrays for efficiently recognition of named entities in large scale, Proceedings of the 15th international conference on Knowledge-based and intelligent information and engineering systems, September 12-14, 2011, Kaiserslautern, Germany
+Fabian Kulla , Peter Sanders, Scalable parallel suffix array construction, Parallel Computing, v.33 n.9, p.605-612, September, 2007
+Johannes Fischer, Inducing the LCP-array, Proceedings of the 12th international conference on Algorithms and data structures, p.374-385, August 15-17, 2011, New York, NY
+Artur Jeż, One-Variable Word Equations in Linear Time, Algorithmica, v.74 n.1, p.1-48, January   2016
+Lars Arge , Johannes Fischer , Peter Sanders , Nodari Sitchinava, On (dynamic) range minimum queries in external memory, Proceedings of the 13th international conference on Algorithms and Data Structures, p.37-48, August 12-14, 2013, London, ON, Canada
+Yuto Nakashima , Tomohiro I , Shunsuke Inenaga , Hideo Bannai , Masayuki Takeda, The position heap of a trie, Proceedings of the 19th international conference on String Processing and Information Retrieval, p.360-371, October 21-25, 2012, Cartagena de Indias, Colombia
+Fabian Kulla , Peter Sanders, Scalable parallel suffix array construction, Proceedings of the 13th European PVM/MPI User's Group conference on Recent advances in parallel virtual machine and message passing interface, September 17-20, 2006, Bonn, Germany
+Marina Barsky , Ulrike Stege , Alex Thomo, Suffix trees for inputs larger than main memory, Information Systems, v.36 n.3, p.644-654, May, 2011
+Keisuke Goto , Hideo Bannai , Shunsuke Inenaga , Masayuki Takeda, Speeding upq-gram mining on grammar-based compressed texts, Proceedings of the 23rd Annual conference on Combinatorial Pattern Matching, July 03-05, 2012, Helsinki, Finland
+Joong Chae Na , Kunsoo Park, Alphabet-independent linear-time construction of compressed suffix arrays using o(nlogn)-bit working space, Theoretical Computer Science, v.385 n.1-3, p.127-136, October, 2007
+Markus J. Bauer , Anthony J. Cox , Giovanna Rosone, Lightweight algorithms for constructing and inverting the BWT of string collections, Theoretical Computer Science, 483, p.134-148, April, 2013
+Niko Välimäki , Simon J. Puglisi, Distributed string mining for high-throughput sequencing data, Proceedings of the 12th international conference on Algorithms in Bioinformatics, p.441-452, September 10-12, 2012, Ljubljana, Slovenia
+Mrinal Deo , Sean Keely, Parallel suffix array and least common prefix for the GPU, ACM SIGPLAN Notices, v.48 n.8, August 2013
+Costas S. Iliopoulos , M. Sohel Rahman, Indexing circular patterns, Proceedings of the 2nd international conference on Algorithms and computation, February 07-08, 2008, Dhaka, Bangladesh
+Juha Kärkkäinen , Dominik Kempa, LCP Array Construction in External Memory, Proceedings of the 13th International Symposium on Experimental Algorithms, June 29-July 01, 2014
+Paweł Gawrychowski, Simple and efficient LZW-compressed multiple pattern matching, Journal of Discrete Algorithms, 25, p.34-41, March, 2014
+Lap-Kei Lee , Moshe Lewenstein , Qin Zhang, Parikh matching in the streaming model, Proceedings of the 19th international conference on String Processing and Information Retrieval, p.336-341, October 21-25, 2012, Cartagena de Indias, Colombia
+M. Salson , T. Lecroq , M. Léonard , L. Mouchard, Dynamic extended suffix arrays, Journal of Discrete Algorithms, v.8 n.2, p.241-257, June, 2010
+Thorsten Ehlers , Florin Manea , Robert Mercaş , Dirk Nowotka, k-Abelian pattern matching, Journal of Discrete Algorithms, v.34 n.C, p.37-48, September 2015
+Artur Jeż, A really simple approximation of smallest grammar, Theoretical Computer Science, v.616 n.C, p.141-150, February 2016
+Philip Bille , Inge Li Gørtz , Benjamin Sach , Hjalte Wedel Vildhøj, Time-Space trade-offs for longest common extensions, Proceedings of the 23rd Annual conference on Combinatorial Pattern Matching, July 03-05, 2012, Helsinki, Finland
+Paolo Ferragina , Johannes Fischer, Suffix arrays on words, Proceedings of the 18th annual conference on Combinatorial Pattern Matching, July 09-11, 2007, London, Canada
+Ge Nong , Sen Zhang, Optimal lightweight construction of suffix arrays for constant alphabets, Proceedings of the 10th international conference on Algorithms and Data Structures, August 15-17, 2007, Halifax, Canada
+N. Jesper Larsson , Kunihiko Sadakane, Faster suffix sorting, Theoretical Computer Science, v.387 n.3, p.258-272, November, 2007
+J. Shane Culpepper , Matthias Petri , Simon J. Puglisi, Revisiting bounded context block-sorting transformations, Software—Practice & Experience, v.42 n.8, p.1037-1054, August 2012
+Simon J. Puglisi , W. F. Smyth , Andrew H. Turpin, A taxonomy of suffix array construction algorithms, ACM Computing Surveys (CSUR), v.39 n.2, p.4-es, 2007
+Lavinia Egidi , Giovanni Manzini, Design and analysis of periodic multiple seeds, Theoretical Computer Science, 522, p.62-76, February, 2014
+Michael P. Ferguson, FEMTO: fast search of large sequence collections, Proceedings of the 23rd Annual conference on Combinatorial Pattern Matching, July 03-05, 2012, Helsinki, Finland
+Juha Kärkkäinen, Fast BWT in small space by blockwise suffix sorting, Theoretical Computer Science, v.387 n.3, p.249-257, November, 2007
+Simon Gog , Gonzalo Navarro, Improved and Extended Locating Functionality on Compressed Suffix Arrays, Proceedings of the 13th International Symposium on Experimental Algorithms, June 29-July 01, 2014
+Philip Bille , Inge Li Gørtz , Benjamin Sach , Hjalte Wedel Vildhøj, Time-space trade-offs for longest common extensions, Journal of Discrete Algorithms, 25, p.42-50, March, 2014
+Dany Breslauer , Giuseppe F. Italiano, On suffix extensions in suffix trees, Proceedings of the 18th international conference on String processing and information retrieval, p.301-312, October 17-21, 2011, Pisa, Italy
+Dong Kyue Kim , Joong Chae Na , Jeong Seop Sim , Kunsoo Park, A simple construction of two-dimensional suffix trees in linear time, Proceedings of the 18th annual conference on Combinatorial Pattern Matching, July 09-11, 2007, London, Canada
+Richard Beal , Donald Adjeroh, p-Suffix sorting as arithmetic coding, Journal of Discrete Algorithms, 16, p.151-169, October, 2012
+Paolo Ferragina , Travis Gagie , Giovanni Manzini, Lightweight data indexing and compression in external memory, Proceedings of the 9th Latin American conference on Theoretical Informatics, p.697-710, April 19-23, 2010, Oaxaca, Mexico
+Roman Dementiev , Juha Kärkkäinen , Jens Mehnert , Peter Sanders, Better external memory suffix array construction, Journal of Experimental Algorithmics (JEA), 12, 2008
+Julian Shun, Fast parallel computation of longest common prefixes, Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, November 16-21, 2014, New Orleans, Louisana
+Julian Shun , Guy E. Blelloch, A simple parallel cartesian tree algorithm and its application to parallel suffix tree construction, ACM Transactions on Parallel Computing, v.1 n.1, September 2014
+Timo Bingmann , Johannes Fischer , Vitaly Osipov, Inducing suffix and LCP arrays in external memory, Proceedings of the Meeting on Algorithm Engineering & Expermiments, p.88-102, January 07-07, 2013, New Orleans, Louisiana
+Gad M. Landau , Dekel Tsur , Oren Weimann, Indexing a dictionary for subset matching queries, Algorithms and Applications: essays Dedicated to Esko Ukkonen on the Occasion of His 60th Birthday, Springer-Verlag, Berlin, Heidelberg, 2010
+Gaël Lejeune , Romain Brixtel , Antoine Doucet , Nadine Lucas, Multilingual event extraction for epidemic detection, Artificial Intelligence in Medicine, v.65 n.2, p.131-143, October 2015
+Abdullah Gharaibeh , Matei Ripeanu, Size Matters: Space/Time Tradeoffs to Improve GPGPU Applications Performance, Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis, p.1-12, November 13-19, 2010
+Simon Gog , Gonzalo Navarro , Matthias Petri, Improved and extended locating functionality on compressed suffix arrays, Journal of Discrete Algorithms, v.32 n.C, p.53-63, May 2015
+Richard Beal , Donald Adjeroh, p-Suffix sorting as arithmetic coding, Proceedings of the 22nd international conference on Combinatorial Algorithms, p.44-56, July 20-22, 2011, Vancouver, BC, Canada
+Dany Breslauer , Giuseppe F. Italiano, On suffix extensions in suffix trees, Theoretical Computer Science, 457, p.27-34, October, 2012
+Matteo Romanello, Creating an annotated corpus for extracting canonical citations from classics-related texts by using active annotation, Proceedings of the 14th international conference on Computational Linguistics and Intelligent Text Processing, March 24-30, 2013, Samos, Greece
+Roman Kolpakov , Gregory Kucherov, Searching for gapped palindromes, Theoretical Computer Science, v.410 n.51, p.5365-5373, November, 2009
+Djamal Belazzougui, Linear time construction of compressed text indices in compact space, Proceedings of the 46th Annual ACM Symposium on Theory of Computing, p.148-193, May 31-June 03, 2014, New York, New York
+Hideo Bannai , Tomohiro I , Shunsuke Inenaga , Yuto Nakashima , Masayuki Takeda , Kazuya Tsuruta, A new characterization of maximal repetitions by Lyndon trees, Proceedings of the Twenty-Sixth Annual ACM-SIAM Symposium on Discrete Algorithms, p.562-571, January 04-06, 2015, San Diego, California
+Wing-Kai Hon , Manish Patil , Rahul Shah , Sharma V. Thankachan, Compressed property suffix trees, Information and Computation, 232, p.10-18, November, 2013
+Paolo Ferragina , Fabrizio Luccio , Giovanni Manzini , S. Muthukrishnan, Compressing and indexing labeled trees, with applications, Journal of the ACM (JACM), v.57 n.1, p.1-33, November 2009
+Dany Breslauer , Giuseppe F. Italiano, Near real-time suffix tree construction via the fringe marked ancestor problem, Journal of Discrete Algorithms, 18, p.32-48, January, 2013
+Gonzalo Navarro, Spaces, Trees, and Colors: The algorithmic landscape of document retrieval on sequences, ACM Computing Surveys (CSUR), v.46 n.4, p.1-47, April 2014

@@ -1,0 +1,12 @@
+An intuitive presentation of the trace method for the abstract
+specification of software contains sample specifications, syntactic
+and semantic definitions of consistency and totalness, methods for
+proving specifications consistent and total, and a comparison of
+the method with the algebraic approach to specification. This
+intuitive presentation is underpinned by a formal syntax,
+semantics, and derivation system for the method. Completeness and
+soundness theorems establish the correctness of the derivation
+system with respect to the semantics, the coextensiveness of the
+syntactic definitions of consistency and totalness with their
+semantic counterparts, and the correctness of the proof methods
+presented. Areas for future research are discussed.

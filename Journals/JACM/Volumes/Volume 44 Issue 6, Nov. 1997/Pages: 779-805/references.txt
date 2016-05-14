@@ -1,0 +1,50 @@
+Karl Abrahamson, On achieving consensus using a shared memory, Proceedings of the seventh annual ACM Symposium on Principles of distributed computing, p.291-302, August 15-17, 1988, Toronto, Ontario, Canada[doi>10.1145/62546.62594]
+Eran Aharonson , Hagit Attiya, Counting networks with arbitrary fan-out, Proceedings of the third annual ACM-SIAM symposium on Discrete algorithms, p.104-113, September 1992, Orlando, Florida, USA
+William Aiello , Ramarathnam Venkatesan , Moti Yung, Coins, weights and contention in balancing networks, Proceedings of the thirteenth annual ACM symposium on Principles of distributed computing, p.193-205, August 14-17, 1994, Los Angeles, California, USA[doi>10.1145/197917.198090]
+AJTAI, M., J. A., DWORK, C., AND WAARTS, O. 1994. A theory of competitive analysis for distributed algorithms. In Proceedings of the 35th IEEE Symposium on Foundations of Computer Science. IEEE, New York, pp. 401-411.
+T. E. Anderson, The Performance of Spin Lock Alternatives for Shared-Memory Multiprocessors, IEEE Transactions on Parallel and Distributed Systems, v.1 n.1, p.6-16, January 1990[doi>10.1109/71.80120]
+James Aspnes, Time-and space-efficient randomized consensus, Proceedings of the ninth annual ACM symposium on Principles of distributed computing, p.325-331, August 22-24, 1990, Quebec City, Quebec, Canada[doi>10.1145/93385.93433]
+James Aspnes , M. Herlihy, Fast randomized consensus using shared memory, Journal of Algorithms, v.11 n.3, p.441-461, Sep. 1990[doi>10.1016/0196-6774(90)90021-6]
+James Aspnes , Maurice Herlihy , Nir Shavit, Counting networks and multi-processor coordination, Proceedings of the twenty-third annual ACM symposium on Theory of computing, p.348-358, May 05-08, 1991, New Orleans, Louisiana, USA[doi>10.1145/103418.103421]
+ASPNES, J., AND WAARTS, O. 1992. Randomized consensus in expected o(n log2n) operations per processor. In Proceedings of the IEEE Symposium on Foundations of Computer Science. IEEE, New York.
+James Aspnes , Orli Waarts, Modular competitiveness for distributed algorithms, Proceedings of the twenty-eighth annual ACM symposium on Theory of computing, p.237-246, May 22-24, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/237814.237869]
+BATCHER, K. 1968. Sorting networks and their applications. In Proceedings of AFIPS Joint Computer Conference AFIPS Press, pp. 338-334.
+A. Ben-Dor , A. Shirazi, Dynamic counting, Proceedings of the 3rd Israel Symposium on the Theory of Computing Systems (ISTCS'95), p.111, January 04-06, 1995
+Michael Ben-Or, Another advantage of free choice (Extended Abstract): Completely asynchronous agreement protocols, Proceedings of the second annual ACM symposium on Principles of distributed computing, p.27-30, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806707]
+Costas Busch , Nikos Hardavellas , Marios Mavronicolas, Contention in counting networks, Proceedings of the thirteenth annual ACM symposium on Principles of distributed computing, p.404, August 14-17, 1994, Los Angeles, California, USA[doi>10.1145/197917.198192]
+BUSCH, C., AND MAVRONICOLAS, M. 1994. A depth-contention optimal counting network. Manuscript.
+Benny Chor , Amos Israeli , Ming Li, On processor coordination using asynchronous hardware, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.86-97, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41848]
+Manhoi Choy , Ambuj K. Singh, Adaptive solutions to the mutual exclusion problem, Distributed Computing, v.8 n.1, p.1-17, August 1994[doi>10.1007/BF02283567]
+Stephen Cook , Cynthia Dwork , Ru&duml;ger Reischuk, Upper and lower time bounds for parallel random access machines without simultaneous writes, SIAM Journal on Computing, v.15 n.1, p.87-97, Feb. 1986[doi>10.1137/0215006]
+Thomas T. Cormen , Charles E. Leiserson , Ronald L. Rivest, Introduction to algorithms, MIT Press, Cambridge, MA, 1990
+David E. Culler , Richard M. Karp , David Patterson , Abhijit Sahay , Eunice E. Santos , Klaus Erik Schauser , Ramesh Subramonian , Thorsten von Eicken, LogP: a practical model of parallel computation, Communications of the ACM, v.39 n.11, p.78-85, Nov. 1996[doi>10.1145/240455.240477]
+DIGITAL EQUIPMENT CORPORATION. 1992. The Alpha Architecture Handbook. Digital Press, Maynard, Mass.
+Danny Dolev , Cynthia Dwork , Larry Stockmeyer, On the minimal synchronism needed for distributed consensus, Journal of the ACM (JACM), v.34 n.1, p.77-97, Jan. 1987[doi>10.1145/7531.7533]
+Martin Dowd , Yehoshua Perl , Larry Rudolph , Michael Saks, The periodic balanced sorting network, Journal of the ACM (JACM), v.36 n.4, p.738-757, Oct. 1989[doi>10.1145/76359.76362]
+Cynthia Dwork , Serge A. Plotkin , Maurice Herlihy , Orli Waarts, Time-lapse snapshots, Symposium proceedings on Theory of computing and systems, p.154-170, June 1992, Haifa, Israel
+Cynthia Dwork , Nancy Lynch , Larry Stockmeyer, Consensus in the presence of partial synchrony, Journal of the ACM (JACM), v.35 n.2, p.288-323, April 1988[doi>10.1145/42282.42283]
+DWORK, C., AND WAARTS, O. 1993. Randomized snapshot in linear time. Unpublished manuscript.
+Carla Schlatter Ellis , Thomas J. Olson, Algorithms for parallel memory allocation, International Journal of Parallel Programming, v.17 n.4, p.303-345, Aug. 1988[doi>10.1007/BF01407909]
+Michael J. Fischer , Nancy A. Lynch , Michael S. Paterson, Impossibility of distributed consensus with one faulty process, Journal of the ACM (JACM), v.32 n.2, p.374-382, April 1985[doi>10.1145/3149.214121]
+Phillip B. Gibbons , Yossi Matias , Vijaya Ramachandran, The Queue-Read Queue-Write PRAM Model: Accounting for Contention in Parallel Algorithms, SIAM Journal on Computing, v.28 n.2, p.733-769, April 1999[doi>10.1137/S009753979427491]
+Phillip B. Gibbons , Yossi Matias, Efficient low-contention parallel algorithms, Journal of Computer and System Sciences, v.53 n.3, p.417-442, Dec. 1996[doi>10.1006/jcss.1996.0079]
+James R. Goodman , Mary K. Vernon , Philip J. Woest, Efficient synchronization primitives for large-scale cache-coherent multiprocessors, Proceedings of the third international conference on Architectural support for programming languages and operating systems, p.64-75, April 03-06, 1989, Boston, Massachusetts, USA[doi>10.1145/70082.68188]
+GOTTLIEB, A., GRISHMAN, R., KRUSKAL, C., MCAULIFFE, K., RUDOLPH, L., AND SNIR, M. 1984. The NYU ultracomputer-designing an MIMD parallel computer. IEEE Trans. Comput. C-32, 2 (Feb.), 175-189.
+Allan Gottlieb , Boris D. Lubachevsky , Larry Rudolph, Basic Techniques for the Efficient Coordination of Very Large Numbers of Cooperating Sequential Processors, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.2, p.164-189, April 1983[doi>10.1145/69624.357206]
+Gary Granunke , Shreekant Thakkar, Synchronization Algorithms for Shared-Memory Multiprocessors, Computer, v.23 n.6, p.60-69, June 1990[doi>10.1109/2.55501]
+Nikos Hardavellas , Damianos Karakos , Marios Mavronicolas, Notes on Sorting and Counting Networks (Extended Abstract), Proceedings of the 7th International Workshop on Distributed Algorithms, p.234-248, September 27-29, 1993
+Maurice Herlihy, Wait-free synchronization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.1, p.124-149, Jan. 1991[doi>10.1145/114005.102808]
+Maurice Herlihy , Beng-Hong Lim , Nir Shavit, Low contention load balancing on large-scale multiprocessors, Proceedings of the fourth annual ACM symposium on Parallel algorithms and architectures, p.219-227, June 29-July 01, 1992, San Diego, California, USA[doi>10.1145/140901.140924]
+Maurice Herlihy , Nir Shavit , Orli Waarts, Low contention linearizable counting, Proceedings of the 32nd annual symposium on Foundations of computer science, p.526-537, October 01-04, 1991, San Juan, Puerto Rico[doi>10.1109/SFCS.1991.185415]
+IBM. System/370 principles of operation. Order Number GA22-7000.
+Michael Klugerman , C. Greg Plaxton, Small-depth counting networks, Proceedings of the twenty-fourth annual ACM symposium on Theory of computing, p.417-428, May 04-06, 1992, Victoria, British Columbia, Canada[doi>10.1145/129712.129752]
+LI, M., TROMP, J., AND VITANYI, P. 1989. How to share concurrent wait-free variables. Tech. Rep. CS-R8916. CWI, Amsterdam.
+LouI, M., AND ABU-AMARA, H. 1987. Advances in Computing Research, Volume 4, Chapter Memory Requirements for Agreement Among Unreliable Asynchronous Processes. JAI Press, pp. 163-183.
+J. M. Mellor-Crummey , M. L. Scott, Algorithms for Scalable Synchronization on Shared-Memory Multiproceessors, University of Rochester, Rochester, NY, 1990
+Robert M. Metcalfe , David R. Boggs, Ethernet: distributed packet switching for local computer networks, Communications of the ACM, v.19 n.7, p.395-404, July 1976[doi>10.1145/360248.360253]
+HIPS COMPUTER COMPANY. The HIPS RISC architecture.
+PFISTER, G., AND NORTON, A. 1985. 'hot spot' contention and combining in multistage interconnection networks. IEEE Transactions on Computers C-34, 11 (Nov.), 933-938.
+RABIN, M. 1983. Randomized byzantine generals. In Proceedings of the 24th IEEE Symposium on Foundations of Computer Science (May). IEEE, New York. pp. 403-409.
+Larry Rudolph , Zary Segall, Dynamic decentralized cache schemes for mimd parallel processors, Proceedings of the 11th annual international symposium on Computer architecture, p.340-347, January 1984[doi>10.1145/800015.808203]
+Ambuj K. Singh , James H. Anderson , Mohamed G. Gouda, The elusive atomic register revisited, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.206-221, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41858]
+Jae-Heon Yang , James H. Anderson, Fast, scalable synchronization with minimal hardware support, Proceedings of the twelfth annual ACM symposium on Principles of distributed computing, p.171-182, August 15-18, 1993, Ithaca, New York, USA[doi>10.1145/164051.164072]

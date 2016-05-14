@@ -1,0 +1,15 @@
+We establish that the algorithmic complexity of the minimum
+spanning tree problem is equal to its decision-tree complexity.
+Specifically, we present a deterministic algorithm to find a
+minimum spanning tree of a graph withnvertices andmedges that runs in timeO(T*(m,n)) whereT*is the minimum number of edge-weight
+comparisons needed to determine the solution. The algorithm is
+quite simple and can be implemented on a pointer machine.Although
+our time bound is optimal, the exact function describing it is not
+known at present. The current best bounds known forT*areT*(m,n) =
+Ω(m) andT*(m,n) =O(m∙ α(m,n)), where α is a
+certain natural inverse of Ackermann's function.Even under the
+assumption thatT*is superlinear, we show that
+if the input graph is selected fromGn,m,
+our algorithm runs in linear time with high probability, regardless
+ofn,m, or the permutation of edge weights. The
+analysis uses a new martingale forGn,msimilar to the edge-exposure martingale forGn,p.

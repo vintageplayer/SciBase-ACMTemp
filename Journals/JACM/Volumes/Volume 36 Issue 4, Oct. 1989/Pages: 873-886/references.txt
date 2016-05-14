@@ -1,0 +1,35 @@
+AHUJA, R. K., GOLDBERG, A. V., ORLIN, J. B. AND TARJAN, R.E. Finding minimum-cost flows by double scaling. Tech. Rep. CS-TR-164-88. Department of Computer Science, Princeton Univ., Princeton, N.J., 1988.
+AHUJA, R. K., MEHLHORN, K., ORLIN, J. B., AND TARJAN, R.E. Faster algorithms for the shortest path problem. Tech. Rep. CS-TR-154-88. Department of Computer Science, Princeton Univ., Princeton, N.J., 1987.
+R. K. Ahuja , J. B. Orlin , R. E. Tarjan, Improved time bounds for the maximum flow problem, SIAM Journal on Computing, v.18 n.5, p.939-954, Oct. 1989[doi>10.1137/0218065]
+R. Barahona , E. Tardos, Note on Weintraub's minimum-cost circulation algorithm, SIAM Journal on Computing, v.18 n.3, p.579-583, June 1989[doi>10.1137/0218039]
+BERTSEKAS, D. P. Distributed Asynchronous Relaxation Methods for Linear Network Flow Problems. Tech. Rep. LIDS-P-1986, Lab. for Decision Systems. M.I.T., Cambridge, Mass., Sept. 1986 (Revised November, 1986).
+BLAND, R. G., AND JENSEN, D.L. On the computational behavior of a polynomial-time network flow algorithm. Tech. Rep. 661. School of Operations Research and Industrial Engineering, Cornell Univ., Ithaca, N.Y. 1985.
+BUSACKER, R. G., AND SAATY, T. L. Finite Graphs and Networks: An Introduction with Applications. McGraw-Hill, New York, 1965.
+DINIC, E.A. Algorithm for solution of a problem of maximum flow in networks with power estimation. Soviet Math. Dokl. 11 ( 1970), 1277-1280.
+Jack Edmonds , Richard M. Karp, Theoretical Improvements in Algorithmic Efficiency for Network Flow Problems, Journal of the ACM (JACM), v.19 n.2, p.248-264, April 1972[doi>10.1145/321694.321699]
+FORD, JR., L. R., AND FULKERSON, D.R. Flows in Networks. Princeton Univ. Press, Princeton, N.J., 1962.
+Michael L. Fredman , Robert Endre Tarjan, Fibonacci heaps and their uses in improved network optimization algorithms, Journal of the ACM (JACM), v.34 n.3, p.596-615, July 1987[doi>10.1145/28869.28874]
+S Fujishige, A capacity-rounding algorithm for the minimum-cost circulation problem: A dual framework of the Tardos algorithm, Mathematical Programming: Series A and B, v.35 n.3, p.298-308, July 1986[doi>10.1007/BF01580882]
+H. N. Gabow , R. E. Tarjan, Faster scaling algorithms for network problems, SIAM Journal on Computing, v.18 n.5, p.1013-1036, Oct. 1989[doi>10.1137/0218069]
+Zvi Galil , Éva Tardos, AnO(n2(m +Nlogn)logn) min-cost flow algorithm, Journal of the ACM (JACM), v.35 n.2, p.374-386, April 1988[doi>10.1145/42282.214090]
+A. V. Goldberg, EFFICIENT GRAPH ALGORITHMS FOR SEQUENTIAL AND PARALLEL COMPUTERS, Massachusetts Institute of Technology, Cambridge, MA, 1987
+Andrew V. Goldberg , Robert E. Tarjan, Finding minimum-cost circulations by successive approximation, Mathematics of Operations Research, v.15 n.3, p.430-466, Aug. 1990[doi>10.1287/moor.15.3.430]
+Andrew V. Goldberg , Robert E. Tarjan, A new approach to the maximum-flow problem, Journal of the ACM (JACM), v.35 n.4, p.921-940, Oct. 1988[doi>10.1145/48014.61051]
+A. Goldberg , R. Tarjan, Solving minimum-cost flow problems by successive approximation, Proceedings of the nineteenth annual ACM symposium on Theory of computing, p.7-18, January 1987, New York, New York, USA[doi>10.1145/28395.28397]
+KARP, R. M. A characterization of the minimum cycle mean in a digraph. Discrete Math. 23 (1978), 309-31 i.
+KARP, R. M., AND ORLIN, J.B. Parametric shortest path algorithms with an application to cyclic staffing. Discrete Appl. Math. 3 (1981), 37-45.
+KLEIN, M. A primal method for minimal cost flows with applications to the assignment and transportation problems. Manage. Sci. 14 (1967), 205-220.
+LAWLER, E~ L. Combinatorial Optimization: Networks and Matroids. Holt, Reinhart, and Winston, New York, N.Y., 1976.
+ORLIN, J. B. Genuinely polynomial simplex and non-simplex algorithms for the minimum cost flow problem. Tech. Rep. No. I615-84. Sloan School of Management, M.I.T., Cambridge, Mass., Dec. ! 984.
+ORLIN, J.B. On the simplex algorithm for networks and generalized networks. Math. Prog. ,Studies 24 (1985), 166-178.
+James Orlin, A faster strongly polynomial minimum cost flow algorithm, Proceedings of the twentieth annual ACM symposium on Theory of computing, p.377-387, May 02-04, 1988, Chicago, Illinois, USA[doi>10.1145/62212.62249]
+ORLIN, J. B., AND AHUJA, R.K. New scaling algorithms for assignment and minimum cycle mean problems. Sloan Working Paper 2019-88. Sloan School of Management, M.I.T., Cambridge, Mass., 1988.
+Christos H. Papadimitriou , Kenneth Steiglitz, Combinatorial optimization: algorithms and complexity, Prentice-Hall, Inc., Upper Saddle River, NJ, 1982
+ROCK, H. Scaling techniques for minimal cost network flows. In Discrete Structures and Algorithms, U. Pape, Ed. Carl Hansen, Miinich, W. Germany, 1980, pp. 181-191.
+SLEATOR, D.D. An O(nm log n) algorithm for maximum network flow. Tech. Rep. STAN-CS- 80-83 I. Computer Science Department, Stanford Univ., Stanford, Calif., 1980.
+Daniel D. Sleator , Robert Endre Tarjan, A data structure for dynamic trees, Journal of Computer and System Sciences, v.26 n.3, p.362-391, June 1983[doi>10.1016/0022-0000(83)90006-5]
+Daniel Dominic Sleator , Robert Endre Tarjan, Self-adjusting binary search trees, Journal of the ACM (JACM), v.32 n.3, p.652-686, July 1985[doi>10.1145/3828.3835]
+Éva Tardos, A strongly polynomial minimum cost circulation algorithm, Combinatorica, v.5 n.3, p.247-255, 1985[doi>10.1007/BF02579369]
+Robert Endre Tarjan, Data structures and network algorithms, Society for Industrial and Applied Mathematics, Philadelphia, PA, 1983
+VAN EMDE BOAS, P., KAAS, R., AND ZXJLSTRA, E. Design and implementation of an efficient priority queue. Math. Syst. Theory 10 (1977), 99-127.
+WEINTRAUB, A. A primal algorithm to solve network flow problems with convex costs. Manage. Sci. 21 (1974), 87-97.

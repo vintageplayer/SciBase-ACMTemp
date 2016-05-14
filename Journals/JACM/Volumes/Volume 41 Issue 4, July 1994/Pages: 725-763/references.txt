@@ -1,0 +1,49 @@
+Yehuda Afek , Hagit Attiya , Danny Dolev , Eli Gafni , Michael Merritt , Nir Shavit, Atomic snapshots of shared memory, Journal of the ACM (JACM), v.40 n.4, p.873-890, Sept. 1993[doi>10.1145/153724.153741]
+James Anderson, Composite registers, Proceedings of the ninth annual ACM symposium on Principles of distributed computing, p.15-29, August 22-24, 1990, Quebec City, Quebec, Canada[doi>10.1145/93385.93396]
+Eshrat Arjomandi , Michael J. Fischer , Nancy A. Lynch, Efficiency of Synchronous Versus Asynchronous Distributed Systems, Journal of the ACM (JACM), v.30 n.3, p.449-456, July 1983[doi>10.1145/2402.322387]
+James Aspnes , M. Herlihy, Fast randomized consensus using shared memory, Journal of Algorithms, v.11 n.3, p.441-461, Sep. 1990[doi>10.1016/0196-6774(90)90021-6]
+Hagit Attiya , Amotz Bar-Noy , Danny Dolev, Sharing memory robustly in message-passing systems, Proceedings of the ninth annual ACM symposium on Principles of distributed computing, p.363-375, August 22-24, 1990, Quebec City, Quebec, Canada[doi>10.1145/93385.93441]
+H. Attiya , D. Dolev , N. Shavit, Bounded polynomial randomized consensus, Proceedings of the eighth annual ACM Symposium on Principles of distributed computing, p.281-293, June 1989, Edmonton, Alberta, Canada[doi>10.1145/72981.73001]
+Hagit Attiya , Nancy A. Lynch, Time bounds for real-time process control in the presence of timing uncertainty, Information and Computation, v.110 n.1, p.183-232, April 1994[doi>10.1006/inco.1994.1030]
+Ofer Biran , Shlomo Moran , Shumuel Zaks, A combinatorial characterization of the distributed 1-solvable tasks, Journal of Algorithms, v.11 n.3, p.420-440, Sep. 1990[doi>10.1016/0196-6774(90)90020-F]
+~COAN, B., AND DWORK, C. 1986. Simultaneity is harder than agreement. In Proceedings of the 5th ~IEEE Symposium on Reliabdity in Distributed Software and Database Systems. IEEE, New York, ~pp. 141-150.
+Stephen Cook , Cynthia Dwork , Ru&duml;ger Reischuk, Upper and lower time bounds for parallel random access machines without simultaneous writes, SIAM Journal on Computing, v.15 n.1, p.87-97, Feb. 1986[doi>10.1137/0215006]
+R. Cole , O. Zajicek, The APRAM: incorporating asynchrony into the PRAM model, Proceedings of the first annual ACM symposium on Parallel algorithms and architectures, p.169-178, June 18-21, 1989, Santa Fe, New Mexico, United States[doi>10.1145/72935.72954]
+R. Cole , O. Zajicek, The expected advantage of asynchrony, Proceedings of the second annual ACM symposium on Parallel algorithms and architectures, p.85-94, July 02-06, 1990, Island of Crete, Greece[doi>10.1145/97444.97673]
+Danny Dolev , Cynthia Dwork , Larry Stockmeyer, On the minimal synchronism needed for distributed consensus, Journal of the ACM (JACM), v.34 n.1, p.77-97, Jan. 1987[doi>10.1145/7531.7533]
+Danny Dolev , Eli Gafni , Nir Shavit, Toward a non-atomic era: l-exclusion as a test case, Proceedings of the twentieth annual ACM symposium on Theory of computing, p.78-92, May 02-04, 1988, Chicago, Illinois, United States[doi>10.1145/62212.62220]
+Danny Dolev , Nancy A. Lynch , Shlomit S. Pinter , Eugene W. Stark , William E. Weihl, Reaching approximate agreement in the presence of faults, Journal of the ACM (JACM), v.33 n.3, p.499-516, July 1986[doi>10.1145/5925.5931]
+~DOLEV, D., REISCHUK, R., AND STRONG, H. R. 1982. Eventual is earlier than immediate. In ~Procee~dings of the 23rd IEEE Symposium on Foundatiolts of Compttter Science. IEEE, New York, ~pp. 196-203.
+Cynthia Dwork , Yoram Moses, Knowledge and common knowledge in a byzantine environment: crash failures, Information and Computation, v.88 n.2, p.156-186, Oct. 1990[doi>10.1016/0890-5401(90)90014-9]
+Cynthia Dwork , Dale Skeen, The inherent cost of nonblocking commitment, Proceedings of the second annual ACM symposium on Principles of distributed computing, p.1-11, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806705]
+~fEKETE, A. 1987a. Asymptotically optimal algorithms for approximate agreement. Dist. Comput. ~4, 1, 9-30.
+A. D. Fekete, Asynchronous approximate agreement, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.64-76, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41846]
+Michael J. Fischer , Nancy A. Lynch , Michael S. Paterson, Impossibility of distributed consensus with one faulty process, Journal of the ACM (JACM), v.32 n.2, p.374-382, April 1985[doi>10.1145/3149.214121]
+P. B. Gibbons, A more practical PRAM model, Proceedings of the first annual ACM symposium on Parallel algorithms and architectures, p.158-168, June 18-21, 1989, Santa Fe, New Mexico, United States[doi>10.1145/72935.72953]
+Maurice Herlihy, Wait-free synchronization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.1, p.124-149, Jan. 1991[doi>10.1145/114005.102808]
+P. C. Kanellakis , A. A. Shvartsman, Efficient parallel algorithms can be made robust, Proceedings of the eighth annual ACM Symposium on Principles of distributed computing, p.211-219, June 1989, Edmonton, Alberta, Canada[doi>10.1145/72981.72996]
+Z. M. Kedem , K. V. Palem , P. G. Spirakis, Efficient robust parallel computations, Proceedings of the twenty-second annual ACM symposium on Theory of computing, p.138-148, May 13-17, 1990, Baltimore, Maryland, United States[doi>10.1145/100216.100231]
+~LAMPORT, L. 1976. The synchronization of independent processes. Acta Inf. 7, 1, 15-34.
+LAMPORT, L. 1977. Proving the correctness of multlprocess programs. IEEE Trans. Softw. Eng. ~SE-3, 2 (Mar.), 125-143.
+~LAMPORT, L. 1986a. On interprocess communication. Part I: Basic formalism. Dzst. Comput. 1, ~2, 77-85.
+~LAMPORT, L. 1986b. On interprocess communication. Part II: Algorithms. Dist. Comput. 1, 2, ~86-101.
+Leslie Lamport , Robert Shostak , Marshall Pease, The Byzantine Generals Problem, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.3, p.382-401, July 1982[doi>10.1145/357172.357176]
+Butler W. Lampson, Hints for computer system design, Proceedings of the ninth ACM symposium on Operating systems principles, p.33-48, October 10-13, 1983, Bretton Woods, New Hampshire, United States[doi>10.1145/800217.806614]
+Ming Li , Paul M. B. Vitányi, How to Share Concurrent Asynchronous Wait-Free Varaibles (Preliminary Version), Proceedings of the 16th International Colloquium on Automata, Languages and Programming, p.488-505, July 11-15, 1989
+~LouI, M., AND ABU-AMARA, H. 1987. Memory requirements for agreement among unreliable ~asynchronous processes. Adt'. Cornput. Res. 4, 163-183.
+~L'~NCH, N., AND F~SCHER, M. 1981. On describing the behavior and implementation of dis- ~tributed systems. Theoret. Comput. Set 13, 1 (Jan.), 17-43.
+~LYNCH, N., AND GOLDMAN, K. 1989. Lecture notes for 6.852 MIT/LCS/RSS-5. Laboratory for ~Computer Science, MIT, Cambridge, Mass.
+Stephen R. Mahaney , Fred B. Schneider, Inexact agreement: accuracy, precision, and graceful degradation, Proceedings of the fourth annual ACM symposium on Principles of distributed computing, p.237-249, August 1985, Minaki, Ontario, Canada[doi>10.1145/323596.323618]
+~MAP, TEL, C., PARK, A., A/X'D SUBRAiVIONIAN, R. 1989. Optimal asynchronous algorithms for shared ~memory parallel computers. Tech. Rep. CSE-89-8. Division of Computer Science, University of ~California at Davis, Davis, Calif., July.
+~MARTEL, C., SUBRAMONIAN, 12., AND PARK, A. 1990. Asynchronous PRAMs are (almost) as good ~as synchronous PRAMs. In Proceedings of tlle 31st IEEE Symposzum on Foundatzons of ~Computer Science. IEEE, New York, pp. 590-599.
+Michael Merritt , Francesmary Modugno , Marc R. Tuttle, Time-Constrained Automata (Extended Abstract), Proceedings of the 2nd International Conference on Concurrency Theory, p.408-423, August 26-29, 1991
+~MOSES, Y., AND TUTrLE, M. 1988. Programming simultaneous actions using common knowledge. ~Algontrnica 3, 121-169.
+N. Nishimura, Asynchronous shared memory parallel computation, Proceedings of the second annual ACM symposium on Parallel algorithms and architectures, p.76-84, July 02-06, 1990, Island of Crete, Greece[doi>10.1145/97444.97672]
+Gary L. Peterson, Concurrent Reading While Writing, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.1, p.46-55, Jan. 1983[doi>10.1145/357195.357198]
+~PETERSON, O., AND BURNS, J. 1987. Concurrent reading while writing II: The multi-writer case. ~In Proceedings of the 28th IEEE Symposium on Foundations of Computer Sczence. IEEE, New ~York, pp. 383-392.
+Gary L. Peterson , Michael J. Fischer, Economical solutions for the critical section problem in a distributed system (Extended Abstract), Proceedings of the ninth annual ACM symposium on Theory of computing, p.91-97, May 04-04, 1977, Boulder, Colorado, United States[doi>10.1145/800105.803398]
+Michael Saks , Nir Shavit , Heather Woll, Optimal time randomized consensus—making resilient algorithms fast in practice, Proceedings of the second annual ACM-SIAM symposium on Discrete algorithms, p.351-362, January 28-30, 1991, San Francisco, California, United States
+~SCHAFFER, R. 1988. On the correctness of atomic multi-writer registers. MIT/LCS/TM-364. ~MIT, Cambridge, Mass.
+~SKEEN, D. 1982. Crash recovery in a distributed database system. Memorandum No. UCB/ERL ~M82/45, Electronics Research Laboratory, Berkeley, Calif., May.
+~VITANYI, P., AND AWERBUCH, B. 1986. Atomic shared register access by asynchronous hardware. ~In Proceedings of ttle 27th IEEE Symposium on Foundations of Computer Science. IEEE, New ~York, pp. 233-243.
+James Christopher Wyllie, The complexity of parallel computations, 1979

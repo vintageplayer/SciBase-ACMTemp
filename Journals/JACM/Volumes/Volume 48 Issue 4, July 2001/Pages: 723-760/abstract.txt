@@ -1,0 +1,1 @@
+Deterministic fully dynamic graph algorithms are presented for connectivity, minimum spanning tree, 2-edge connectivity, and biconnectivity. Assuming that we start with no edges in a graph withnvertices, the amortized operation costs areO(log2n) for connectivity,O(log4n) for minimum spanning forest, 2-edge connectivity, andO(log5n) biconnectivity.

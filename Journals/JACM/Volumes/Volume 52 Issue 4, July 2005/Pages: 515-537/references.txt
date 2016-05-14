@@ -1,0 +1,19 @@
+S. Carlsson, A note on HEAPSORT, The Computer Journal, v.35 n.4, p.410-411, Aug. 1992[doi>10.1093/comjnl/35.4.410]
+Floyd, R. 1964. Treesort 3 (Algorithm 245). Commun. ACM 7, 701.
+Franceschini, G. 2003. An in-place sorting algorithm performing O(n log n) comparisons and O(n) data moves. Tech. rep., Dipartimento di Informatica, Università di Pisa. March. (Available from ftp://ftp.di.unipi.it/pub/techreports/TR-03-06.ps.Z.)
+Geffert, V. 2002. Sorting with O(n log n) comparisons and O(n) transports, in-place, in the worst case, simultaneously. Tech. rep., P. J. Šafárik University. July. (Available from http://ics.upjs.sk/techreports/2002/ultim.ps.)
+Geffert, V., and Kollár, J. 2001. Linear-time in-place selection in &epsi; &dot; n element moves. Tech. rep., P. J. Šafárik University. April. (Available from http://ics.upjs.sk/techreports/2002/select.ps.)
+Alon Itai , Alan G. Konheim , Michael Rodeh, A Sparse Table Implementation of Priority Queues, Proceedings of the 8th Colloquium on Automata, Languages and Programming, p.417-431, July 13-17, 1981
+Jyrki Katajainen , Tomi A. Pasanen, In-place sorting with fewer moves, Information Processing Letters, v.70 n.1, p.31-37, April 01, 1999[doi>10.1016/S0020-0190(99)00038-1]
+Jyrki Katajainen , Tomi Pasanen , Jukka Teuhola, Practical in-place mergesort, Nordic Journal of Computing, v.3 n.1, p.27-40, Spring 1996
+Donald E. Knuth, The art of computer programming,  volume 3: (2nd ed.) sorting and searching, Addison Wesley Longman Publishing Co., Inc., Redwood City, CA, 1998
+Ming Li , Paul Vitányi, An introduction to Kolmogorov complexity and its applications, Springer-Verlag New York, Inc., New York, NY, 1993
+J. Ian Munro , Venkatesh Raman, Sorting with minimum data movement, Journal of Algorithms, v.13 n.3, p.374-393, Sept. 1992[doi>10.1016/0196-6774(92)90045-E]
+Munro, J., and Raman, V. 1996a. Fast stable in-place sorting with O(n) data moves. Algorithmica 16, 151--160.
+J. Ian Munro , Venkatesh Raman, Selection from read-only memory and sorting with minimum data movement, Theoretical Computer Science, v.165 n.2, p.311-323, Oct. 10, 1996[doi>10.1016/0304-3975(95)00225-1]
+Venkatesh Raman, Sorting in-place with minimum data movement, University of Waterloo, Waterloo, Ont., Canada, 1992
+Klaus Reinhardt, Sorting In-Place with a Worst Case Complexity of n log n-1.3n + O(logn) Comparisons and epsilon n log n + O(1) Transports, Proceedings of the Third International Symposium on Algorithms and Computation, p.489-498, December 16-18, 1992
+Russel Schaffer , Robert Sedgewick, The analysis of heapsort, Journal of Algorithms, v.15 n.1, p.76-100, July 1993[doi>10.1006/jagm.1993.1031]
+Ingo Wegener, BOTTOM-UP-HEAPSORT, a new variant of HEAPSORT beating, on an average, QUICKSORT (ifnis not very small), Theoretical Computer Science, v.118 n.1, p.81-98, Sept. 13, 1993[doi>10.1016/0304-3975(93)90364-Y]
+Dan E. Willard, Maintaining dense sequential files in a dynamic environment (Extended Abstract), Proceedings of the fourteenth annual ACM symposium on Theory of computing, p.114-121, May 05-07, 1982, San Francisco, California, USA[doi>10.1145/800070.802183]
+Williams, J. 1964. Heapsort (Algorithm 232). Commun. ACM 7, 347--348.

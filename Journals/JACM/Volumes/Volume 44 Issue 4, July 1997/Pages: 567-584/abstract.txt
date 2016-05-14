@@ -1,0 +1,4 @@
+Given a convex polytopePwithnfaces inR3, pointss,t∈6P, and a parameter0<e≤1, we present an algorithm that constructs a path on6Pfromstotwhose length is at most1+edPs,t, wheredPs,tis the length of the shortest path betweensandton6P. The algorithm runs inOnlog1/e+1/e3time, and is relatively simple. The running time isOn+1/e3if we only want the approximate shortest path
+distance and not the path itself. We also present an extension of the
+algorithm that computes approximate shortest path distances from a given
+source point on6Pto all vertices ofP.

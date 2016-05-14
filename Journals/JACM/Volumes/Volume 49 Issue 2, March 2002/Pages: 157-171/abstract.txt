@@ -1,0 +1,17 @@
+The problem of finding a center string that is "close" to every
+given string arises in computational molecular biology and coding
+theory. This problem has two versions: the Closest String problem
+and the Closest Substring problem. Given a set of stringsS= {s1,s2, ...,sn}, each of lengthm, the Closest String
+problem is to find the smallestdand a string s of lengthmwhich is within Hamming distance d to eachsiεS. This problem comes from
+coding theory when we are looking for a code not too far away from
+a given set of codes. Closest Substring problem, with an additional
+input integerL, asks for the smallest d and a strings, of lengthL, which is within Hamming distance d
+away from a substring, of lengthL, of each si. This problem
+is much more elusive than the Closest String problem. The Closest
+Substring problem is formulated from applications in finding
+conserved regions, identifying genetic drug targets and generating
+genetic probes in molecular biology. Whether there are efficient
+approximation algorithms for both problems are major open questions
+in this area. We present two polynomial-time approximation
+algorithms with approximation ratio 1 + ε for any small
+ε to settle both questions.

@@ -1,0 +1,44 @@
+Mark Goresky , Andrew Klapper, Efficient multiply-with-carry random number generators with maximal period, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.13 n.4, p.310-321, October 2003
+T. G. Lewis , W. H. Payne, Generalized Feedback Shift Register Pseudorandom Number Algorithm, Journal of the ACM (JACM), v.20 n.3, p.456-468, July 1973
+J. B. Kruskal, Extremely portable random number generator, Communications of the ACM, v.12 n.2, p.93-94, Feb. 1969
+George Marsaglia , T. A. Bray, One-line random number generators and their use in combinations, Communications of the ACM, v.11 n.11, p.757-759, Nov. 68
+G. Cenacchi , A. Matteis, Quasi-random sequences by power residues, Numerische Mathematik, v.20 n.1, p.54-63, February  1972
+Hui-Chin Tang, An exhaustive analysis of two-term multiple recursive random number generators with efficient multipliers, Journal of Computational and Applied Mathematics, v.192 n.2, p.411-416, 1 August 2006
+Peter Hellekalek , Harald Niederreiter, The weighted spectral test: diaphony, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.8 n.1, p.43-60, Jan. 1998
+Shu Tezuka, Walsh-spectral test for GFSR pseudorandom numbers, Communications of the ACM, v.30 n.8, p.731-735, Aug. 1987
+James E. Gentle, Simulation and analysis with IMSL routines, Proceedings of the 18th conference on Winter simulation, p.223-226, December 08-10, 1986, Washington, D.C., United States
+Hannes Leeb, Asymptotic properties of the spectral test, diaphony, and related quantities, Mathematics of Computation, v.71 n.237, p.297-309, January 2002
+W. J. Hemmerle, Generating pseudorandom numbers on a two's complement machine such as the IBM 360, Communications of the ACM, v.12 n.7, p.382-383, July 1969
+C. S. Smith, Multiplicative Pseudo-Random Number Generators with Prime Modulus, Journal of the ACM (JACM), v.18 n.4, p.586-593, Oct. 1971
+Jean-Luc Bouchot , Frank Bauer, Discrepancy norm: Approximation and variations, Journal of Computational and Applied Mathematics, 272, p.162-179, December, 2014
+Meir Barel, Fast hardware random number generator for the Tausworthe sequence, Proceedings of the 16th annual symposium on Simulation, p.121-135, March 18-20, 1983, Tampa, Florida, USA
+H. F. Jordan , D. C. M. Wood, On the Distribution of Sums of Successive Bits of Shift-Register Sequences, IEEE Transactions on Computers, v.22 n.4, p.400-408, April 1973
+Karl Entacher, Parallel streams of linear random numbers in the spectral test, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.9 n.1, p.31-44, Jan. 1999
+Munetaka Sakamoto , Susumu Morito, Combination of multiplicative congruential random-number generators with safe prime modulus, Proceedings of the 27th conference on Winter simulation, p.309-315, December 03-06, 1995, Arlington, Virginia, United States
+J. P. R. Tootill , W. D. Robinson , D. J. Eagle, An Asymptotically Random Tausworthe Sequence, Journal of the ACM (JACM), v.20 n.3, p.469-481, July 1973
+Peter Hellekalek, Inversive pseudorandom number generators: concepts, results and links, Proceedings of the 27th conference on Winter simulation, p.255-262, December 03-06, 1995, Arlington, Virginia, USA
+Daniel Guinier, A fast and portable uniform quasi-random generator of very large period based ona generalized multi-moduli congruential method, ACM SIGSIM Simulation Digest, v.19 n.3, p.27-33, Sept. 1988
+Samuel Gorenstein, Testing a random number generator, Communications of the ACM, v.10 n.2, p.111-118, Feb. 1967
+Christiane Lemieux , Pierre L'Ecuyer, Quasi-random numbers and their applications: using lattice rules for variance reduction in simulation, Proceedings of the 32nd conference on Winter simulation, December 10-13, 2000, Orlando, Florida
+P. Hellekalek, Don't trust parallel Monte Carlo!, ACM SIGSIM Simulation Digest, v.28 n.1, p.82-89, July 1998
+Karl Entacher , Andreas Uhl , Stefan Wegenkittl, Parallel Random Number Generation: Long-Range Correlations Among Multiple Processors, Proceedings of the 4th International ACPC Conference Including Special Tracks on Parallel Numerics and Parallel Computing in Image Processing, Video Processing, and Multimedia: Parallel Computation, p.107-116, February 01, 1999
+D. Guinier, A fast uniform astronomical random number generator, ACM SIGSAC Review, v.7 n.1, p.1-12, Spring 1989
+P. L'Ecuyer, Efficient and portable combined random number generators, Communications of the ACM, v.31 n.6, p.742-751, June 1988
+S. K. Park , K. W. Miller, Random number generators: good ones are hard to find, Communications of the ACM, v.31 n.10, p.1192-1201, Oct. 1988
+Karl Entacher, Bad subsequences of well-known linear congruential pseudorandom number generators, ACM Transactions on Modeling and Computer Simulation (TOMACS), v.8 n.1, p.61-70, Jan. 1998
+P. A. W. Lewis , A. S. Goodman , J. M. Miller, A pseudo-random number generator for the System/360, IBM Systems Journal, v.8 n.2, p.136-146, June 1969
+A Sequential Procedure for Determining the Length of a Steady-State Simulation, Operations Research, v.27 n.5, p.1011-1025, October 1979
+Aaldert Compagner, Fast and reliable random-number generation, Proceedings of the 24th conference on Winter simulation, p.438-442, December 13-16, 1992, Arlington, Virginia, United States
+Derick Wood, A few more trouble spots in ALGOL 60, Communications of the ACM, v.12 n.5, p.247-248, May 1969
+P. D. Hortensius , R. D. McLeod , H. C. Card, Parallel Random Number Generation for VLSI Systems Using Cellular Automata, IEEE Transactions on Computers, v.38 n.10, p.1466-1473, October 1989
+John RB Whittlesey, Letters to the editor: on the multidimensional uniformity of pseudorandom generators, Communications of the ACM, v.12 n.5, p.247, May 1969
+J.A. Rod Blais , Zhan Zhang, Exploring pseudo- and chaotic random Monte Carlo simulations, Computers & Geosciences, v.37 n.7, p.928-934, July, 2011
+Pierre L'Ecuyer, Uniform random number generators, Proceedings of the 30th conference on Winter simulation, p.97-104, December 13-16, 1998, Washington, D.C., USA
+Kevin M. Finnigin , Barry E. Mullins , Richard A. Raines , Henry B. Potoczny, Cryptanalysis of an elliptic curve cryptosystem for wireless sensor networks, International Journal of Security and Networks, v.2 n.3/4, p.260-271, April 2007
+George S. Fishman , Louis R. Moore, An exhaustive search for optimal multipliers, Proceedings of the 16th conference on Winter simulation, p.198-200, December 28-30, 1984, Dallas, TX
+John RB Whittlesey, A comparison of the correlational behavior of random number generators for the IBM 360, Communications of the ACM, v.11 n.9, p.641-644, Sept. 1968
+A. Van Gelder, Some New Results in Pseudo-Random Number Generation, Journal of the ACM (JACM), v.14 n.4, p.785-792, Oct. 1967
+Herbert S. Bright , Richard L. Enison, Quasi-Random Number Sequences from a Long-Period TLP Generator with Remarks on Application to Cryptography, ACM Computing Surveys (CSUR), v.11 n.4, p.357-370, Dec. 1979
+Herbert S. Bright , Richard L. Enison, Cryptography using modular software elements, Proceedings of the June 7-10, 1976, national computer conference and exposition, June 07-10, 1976, New York, New York
+Martina F. Schollmeyer , William H. Tranter, Noise generators for the simulation of digital communication systems, Proceedings of the 24th annual symposium on Simulation, p.264-275, April 1991, New Orleans, Louisiana, United States
+K.K. Soundra Pandian , Kailash Chandra Ray, Five decade evolution of feedback shift register: algorithms, architectures and applications, International Journal of Communication Networks and Distributed Systems, v.15 n.2/3, p.279-312, August 2015

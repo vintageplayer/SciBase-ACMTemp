@@ -1,0 +1,23 @@
+James H. Anderson , Mohamed G. Gouda, The Virtue of Patience: Concurrent Programming with and Without Waiting, University of Texas at Austin, Austin, TX, 1990
+James H. Anderson , Ambuj K. Singh , Mohamed G. Gouda, The Elusive Atomic Register, University of Texas at Austin, Austin, TX, 1986
+B. Bloom, Constructing Two-Writer Atomic Registers, IEEE Transactions on Computers, v.37 n.12, p.1506-1514, December 1988[doi>10.1109/12.9729]
+James E. Burns , Gary L. Peterson, Constructing multi-reader atomic values from non-atomic values, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.222-231, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41859]
+K. Mani Chandy, Parallel program design: a foundation, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1988
+P. J. Courtois , F. Heymans , D. L. Parnas, Concurrent control with “readers” and “writers”, Communications of the ACM, v.14 n.10, p.667-668, Oct. 1971[doi>10.1145/362759.362813]
+~HALDAR, S., AND VIDYASANKAR, K. 1991. Counterexamples to a one writer multireader atomic ~variable construction of Burns and Peterson. Tech. Rep. #9106. Dept. Comput. Sci. Memorial ~Univ. Newfoundland, St. John's, Canada, July.
+Maurice P. Herlihy , Jeannette M. Wing, Linearizability: a correctness condition for concurrent objects, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.3, p.463-492, July 1990[doi>10.1145/78969.78972]
+~ISRAELI, A., AND LI, M. 1987. Bounded time-stamps. In Proceedings of the 28th 1EEL Symposntm ~on Foundations of Computer Science. IEEE, New York, pp. 371-382.
+Lefteris M. Kirousis , Evangelos Kranakis , Paul M. B. Vitányi, Atomic Multireader Register, Proceedings of the 2nd International Workshop on Distributed Algorithms, p.278-296, July 08-10, 1987
+LAMPORT, L. 1980. The "Hoare logic" of concurrent programs. Acta Inf., 14, 1, 21-37.
+LAMPORT, L. 1986. On interprocess communication, parts I and II. Dist. Comput. 1, 77-101.
+Ming Li , Paul M. B. Vitányi, How to Share Concurrent Asynchronous Wait-Free Varaibles (Preliminary Version), Proceedings of the 16th International Colloquium on Automata, Languages and Programming, p.488-505, July 11-15, 1989
+J. Misra, Axioms for memory access in asynchronous hardware systems, ACM Transactions on Programming Languages and Systems (TOPLAS), v.8 n.1, p.142-153, Jan. 1986[doi>10.1145/5001.5007]
+Richard Newman-Wolfe, A protocol for wait-free, atomic, multi-reader shared variables, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.232-248, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41860]
+Gary L. Peterson, Concurrent Reading While Writing, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.1, p.46-55, Jan. 1983[doi>10.1145/357195.357198]
+~PETERSON, G., AND BURNS, J. 1987. Concurrent reading while writing II: The multi-writer case. ~In Proceedings of the 28th Annual Syn~poshttn ott Foztndattons of Computer Science. IEEE, New ~York, 383-392.
+~SCHAFFER, R. 1988. On the correctness of atomic multi-writer registers. Tech. Rep. ~ MIT/LCS/TM-364. MIT Laboratory for Computer Science, June.
+Ambuj K. Singh , James H. Anderson , Mohamed G. Gouda, The elusive atomic register revisited, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.206-221, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41858]
+John Tromp, How to Construct an Atomic Variable (Extended Abstract), Proceedings of the 3rd International Workshop on Distributed Algorithms, p.292-302, September 26-28, 1989
+K. Vidyasankar, Converting Lamport's regular register to atomic register, Information Processing Letters, v.28 n.6, p.287-290, Aug. 29, 1988[doi>10.1016/0020-0190(88)90175-5]
+~VIDYASANKAR, K. 1990. Concurrent reading while writing revisted. J. Dist. Comput. 4, 81-85.
+~VITANYI, P., AND AWERBUCH, B. 1986. Atomic shared register access by asynchronous hardware. ~ In Proceedings of the 27th Annual Symposium on Foundations of Comupter Science. IEEE, New ~York, pp. 233-243.

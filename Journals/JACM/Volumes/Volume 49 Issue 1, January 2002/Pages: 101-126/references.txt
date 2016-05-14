@@ -1,0 +1,44 @@
+Uri Abraham, On interprocess communication and the implementation of multi-writer atomic registers, Theoretical Computer Science, v.149 n.2, p.257-298, Oct. 2, 1995[doi>10.1016/0304-3975(95)00013-M]
+Karl Abrahamson, On achieving consensus using a shared memory, Proceedings of the seventh annual ACM Symposium on Principles of distributed computing, p.291-302, August 15-17, 1988, Toronto, Ontario, Canada[doi>10.1145/62546.62594]
+Frank D. Anger, On Lamport's interprocessor communication model, ACM Transactions on Programming Languages and Systems (TOPLAS), v.11 n.3, p.404-417, July 1989[doi>10.1145/65979.65982]
+Jennifer L. Welch , Hagit Attiya, Distributed computing: fundamentals, simulations and advanced topics, McGraw-Hill, Inc., Hightstown, NJ, 1998
+B. Bloom, Constructing Two-Writer Atomic Registers, IEEE Transactions on Computers, v.37 n.12, p.1506-1514, December 1988[doi>10.1109/12.9729]
+James E. Burns , Gary L. Peterson, Constructing multi-reader atomic values from non-atomic values, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.222-231, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41859]
+Benny Chor , Amos Israeli , Ming Li, On processor coordination using asynchronous hardware, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.86-97, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41848]
+E. W. Dijkstra, Solution of a problem in concurrent programming control, Communications of the ACM, v.8 n.9, p.569, Sept. 1965[doi>10.1145/365559.365617]
+Danny Dolev , Nir Shavit, Bounded Concurrent Time-Stamping, SIAM Journal on Computing, v.26 n.2, p.418-455, April 1997[doi>10.1137/S0097539790192647]
+Cynthia Dwork , Serge A. Plotkin , Maurice Herlihy , Orli Waarts, Time-lapse snapshots, Symposium proceedings on Theory of computing and systems, p.154-170, June 1992, Haifa, Israel
+Cynthia Dwork , Orli Waarts, Simple and efficient bounded concurrent timestamping and the traceable use abstraction, Journal of the ACM (JACM), v.46 n.5, p.633-666, Sept. 1999[doi>10.1145/324133.324161]
+FISCHER, M. J., LYNCH, N. A., BURNS, J. E., AND BORODIN, A. 1979. Resource allocation with immunity to limited process failure. In Proceedings of the 20th IEEE Symposium on Foundations of Computer Science. IEEE Computer Society Press, Los Alamitos, Calif. pp. 234-254.
+FISHBURN, P. C. 1985. Interval Orders and Interval Graphs: A Study of Partially Ordered Sets. Wiley, New York.
+Rainer Gawlick , Nancy Lynch , Nir Shavit, Concurrent timestamping made simple, Symposium proceedings on Theory of computing and systems, p.171-183, June 1992, Haifa, Israel
+HALDAR, S. 1993. Efficient Bounded Timestamping Using Traceable Use Abstraction-Is Writer's Guessing Better Than Reader's Telling? Tech. Rep. RUU-CS-93-28, Dept. of Computer Science, Utrecht University, The Netherlands.
+S. Halder , K. Vidyasankar, Counterexamples to a one writer multireader atomic variable construction of Burns and Peterson, ACM SIGOPS Operating Systems Review, v.26 n.1, p.78-87, Jan. 1992[doi>10.1145/130704.130712]
+S. Haldar , K. Vidyasankar, Constructing 1-writer multireader multivalued atomic variables from regular variables, Journal of the ACM (JACM), v.42 n.1, p.186-203, Jan. 1995[doi>10.1145/200836.200871]
+S. Haldar , K. Vidyasankar, Buffer-optimal constructions of 1-writer multireader multivalued atomic shared variables, Journal of Parallel and Distributed Computing, v.31 n.2, p.174-180, Dec. 1995[doi>10.1006/jpdc.1995.1156]
+S. Haldar , K. Vidyasankar, Simple extensions of 1-writer atomic variable constructions to multiwriter ones, Acta Informatica, v.33 n.2, p.177-202, 1996[doi>10.1007/s002360050040]
+Maurice P. Herlihy , Jeannette M. Wing, Linearizability: a correctness condition for concurrent objects, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.3, p.463-492, July 1990[doi>10.1145/78969.78972]
+E. Pelz, Closure properties of deterministic Petri nets, 4th Annual Symposium on Theoretical Aspects of Computer Sciences on STACS 87, p.371-382, February 1987, Passau, Germany
+Amos Israeli , Meir Pinhasov, A Concurrent Time-Stamp Scheme which is Linear in Time and Space, Proceedings of the 6th International Workshop on Distributed Algorithms, p.95-109, November 02-04, 1992
+Amos Israeli , Amnon Shaham, Optimal multi-writer multi-reader atomic register, Proceedings of the eleventh annual ACM symposium on Principles of distributed computing, p.71-82, August 10-12, 1992, Vancouver, British Columbia, Canada[doi>10.1145/135419.135435]
+Lefteris M. Kirousis , Evangelos Kranakis , Paul M. B. Vitányi, Atomic Multireader Register, Proceedings of the 2nd International Workshop on Distributed Algorithms, p.278-296, July 08-10, 1987
+Leslie Lamport, A new solution of Dijkstra's concurrent programming problem, Communications of the ACM, v.17 n.8, p.453-455, Aug. 1974[doi>10.1145/361082.361093]
+Leslie Lamport, Concurrent reading and writing, Communications of the ACM, v.20 n.11, p.806-811, Nov. 1977[doi>10.1145/359863.359878]
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+LAMPORT, L. 1984. On a "Theorem" of Peterson Unpublished (October, 1984). http:// www.research. compaq.com/SRC/personal/lamport/pubs/pubs.html#peterson-theorem.
+LAMPORT, L. 1986. On interprocess communication-Part I: Basic formalism, Part II: Algorithms. Dist. Comput. 1, 2, 77-101.
+Ming Li , Paul M. B. Vitányi, Optimality of wait-free atomic multiwriter variables, Information Processing Letters, v.43 n.2, p.107-112, Aug. 24, 1992[doi>10.1016/0020-0190(92)90020-V]
+Ming Li , John Tromp , Paul M. B. Vitányi, How to share concurrent wait-free variables, Journal of the ACM (JACM), v.43 n.4, p.723-746, July 1996[doi>10.1145/234533.234556]
+MATTERN, F. 1989. Virtual time and global states of distributed systems. In Proceedings of the Workshop on Parallel and Distributed Algorithms. North-Holland / Elsevier, Amsterdam, The Netherlands, pp. 215- 226. (Reprinted in: Z. Yang and T. A. Marsland, Eds., Global States and Time in Distributed Systems. IEEE Computer Society Press, Los Alamitos, Calif., pp. 123-133.)
+MATTERN, F. 1992. On the relativistic structure of logical time in distributed systems. In Datation et Controle des Executions Reparties, Bigre 78 (ISSN 0221-525), pp. 3-20.
+Richard Newman-Wolfe, A protocol for wait-free, atomic, multi-reader shared variables, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.232-248, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41860]
+Gary L. Peterson, Concurrent Reading While Writing, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.1, p.46-55, Jan. 1983[doi>10.1145/357195.357198]
+PETERSON, G. L., AND BURNS, J. E. 1987. Concurrent reading while writing. II: The multiwriter case. In Proceedings of the 28th IEEE Symposium on Foundations of Computer Science. IEEE Computer Society Press, Los Alamitos, Calif., pp. 383-392.
+SCHAFFER, R. 1988. On the correctness of atomic multiwriter registers. Report MIT/LCS/TM-364. Massachusetts Institute of Technology, Cambridge, Mass., pp. 1-58.
+Ambuj K. Singh , James H. Anderson , Mohamed G. Gouda, The elusive atomic register revisited, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.206-221, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41858]
+John Tromp, How to Construct an Atomic Variable (Extended Abstract), Proceedings of the 3rd International Workshop on Distributed Algorithms, p.292-302, September 26-28, 1989
+VIDYASANKAR, K. 1990. Concurrent reading while writing revisited. Dist. Comput. 4, 81-85.
+VIDYASANKAR, K. 1996. Weak atomicity: Ahelpful notion in the construction of atomic shared variables. SADHANA: J. Eng. Sci. IAS 21, 245-259.
+VITANYI, P. M. B., AND AWERBUCH, B. 1986. Atomic shared register access by asynchronous hardware. In Proceedings of the 27th IEEE Symposium on Foundations of Computer Science. IEEE Computer Society Press, Los Alamitos, Calif., pp. 233-243.
+VITANYI, P. M. B., AND AWERBUCH, B. 1987. Errata to "Atomic shared register access by asynchronous hardware". In Proceedings of the 28th IEEE Symposium on Foundations of Computer Science. IEEE Computer Society Press, Los Alamitos, Calif., pp. 487-487.
+YAKOVLEV, A. 1993. Review of "Simple and Efficient Bounded Concurrent Timestamping or Bounded Concurrent Timestamp Systems are Comprehensible!" by C. Dwork and O. Waarts. ACM Comput. Rev. 34, 5, 260-261.

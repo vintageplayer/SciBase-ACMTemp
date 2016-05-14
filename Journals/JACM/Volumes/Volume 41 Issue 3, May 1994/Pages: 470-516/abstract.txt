@@ -1,0 +1,12 @@
+The problem of coloring a graph with the minimum number of colors
+is well known to be NP-hard, even restricted tok-colorable graphs for constantk≥ 3. This paper explores the
+approximation problem of coloringk-colorable graphs with as few
+additional colors as possible in polynomial time, with special focus on
+the case ofk= 3.The previous best upper bound on the number of colors needed for
+coloring 3-colorablen-vertex graphs
+in polynomial time wason/logncolors by Berger and Rompel, improving a bound ofoncolors by Wigderson. This paper presents an algorithm
+to color any 3-colorable graph withon3/8polylogncolors, thus breaking an
+“O((n1/2-&ogr;(1))barrier”. The algorithm given here is based on examining
+second-order neighborhoods of vertices, rather than just immediate
+neighborhoods of vertices as in previous approaches. We extend our
+results to improve   the worst-case bounds for coloringk-colorable graphs for constantk> 3 as well.

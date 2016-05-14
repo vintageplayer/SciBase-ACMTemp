@@ -1,0 +1,43 @@
+M. M. Astrahan , M. W. Blasgen , D. D. Chamberlin , K. P. Eswaran , J. N. Gray , P. P. Griffiths , W. F. King , R. A. Lorie , P. R. McJones , J. W. Mehl , G. R. Putzolu , I. L. Traiger , B. W. Wade , V. Watson, System R: relational approach to database management, ACM Transactions on Database Systems (TODS), v.1 n.2, p.97-137, June 1976[doi>10.1145/320455.320457]
+R. Bayer , H. Heller , A. Reiser, Parallelism and recovery in database systems, ACM Transactions on Database Systems (TODS), v.5 n.2, p.139-156, June 1980[doi>10.1145/320141.320146]
+C. Beeri , P. A. Bernstein , N. Goodman , M. Y. Lai , D. E. Shasha, A concurrency control theory for nested transactions (Preliminary Report), Proceedings of the second annual ACM symposium on Principles of distributed computing, p.45-62, August 17-19, 1983, Montreal, Quebec, Canada[doi>10.1145/800221.806709]
+Catriel Beeri , Hans-Jörg Schek , Gerhard Weikum, Multi-Level Transaction Management, Theoretical Art or Practical Need ?, Proceedings of the International Conference on Extending Database Technology: Advances in Database Technology, p.134-154, March 14-18, 1988
+Philip A. Bernstein , Nathan Goodman, Multiversion concurrency control—theory and algorithms, ACM Transactions on Database Systems (TODS), v.8 n.4, p.465-483, Dec. 1983[doi>10.1145/319996.319998]
+Philip A. Bernstein , Vassco Hadzilacos , Nathan Goodman, Concurrency control and recovery in database systems, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1987
+BERNSTEIN, P. A., SHIPMAN, D. W., AND WONG, W.S. Formal aspects ofsefializability in database concurrency control. IEEE Trans. So~w. Eng. 5, 3 (May 1979), 203-216.
+Arvola Chan , Stephen Fox , Wen-Te K. Lin , Anil Nori , Daniel R. Ries, The implementation of an integrated concurrency control and recovery scheme, Proceedings of the 1982 ACM SIGMOD international conference on Management of data, June 02-04, 1982, Orlando, Florida[doi>10.1145/582353.582386]
+DELEON, M. A theory for recovery in nested transaction systems. M.Sc. thesis (Hebrew). The Hebrew University, Jerusalem, Israel, 1987.
+DUBOURDIEU, D. J. Implementation of distributed transactions. In Proceedings of the 1982 Berkeley Workshop on Distributed Data Management and Computer Networks. 1982, pp. 91-94.
+K. P. Eswaran , J. N. Gray , R. A. Lorie , I. L. Traiger, The notions of consistency and predicate locks in a database system, Communications of the ACM, v.19 n.11, p.624-633, Nov. 1976[doi>10.1145/360363.360369]
+A. Fekete , N. Lynch , M. Merrit , W. Weihl, Nested transactions and read-write locking, Proceedings of the sixth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.97-111, March 23-25, 1987, San Diego, California, United States[doi>10.1145/28659.28669]
+Ray Ford , Jim Calhoun, Concurrency control mechanisms and the serializability of concurrent tree algorithms, Proceedings of the 3rd ACM SIGACT-SIGMOD symposium on Principles of database systems, April 02-04, 1984, Waterloo, Ontario, Canada[doi>10.1145/588011.588020]
+Nathan Goodman , Dennis Shasha, Semantically-based concurrancy control for search structures, Proceedings of the fourth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.8-19, March 25-27, 1985, Portland, Oregon, United States[doi>10.1145/325405.325407]
+GRAY, J. The transaction concept: Virtues and limitations. In Proceedings of the 7th International Conference on Very Large Data Bases (Cannes, France, Sept. 9-11). ACM, New York, 1981, pp. 144-154.
+Thanasis Hadzilacos , Vassos Hadzilacos, Transaction synchronisation in object bases, Proceedings of the seventh ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems, p.193-200, March 1988, Austin, Texas, United States[doi>10.1145/308386.308438]
+C. A. R. Hoare, Communicating sequential processes, Communications of the ACM, v.21 n.8, p.666-677, Aug. 1978[doi>10.1145/359576.359585]
+Won Kim , Raymond A. Lorie , Dan McNabb , Wil Plouffe, A Transaction Mechanism for Engineering Design Databases, Proceedings of the 10th International Conference on Very Large Data Bases, p.355-362, August 27-31, 1984
+KWONG, Y. S., AND WOOD, D. A new method for concurrency in B-trees. IEEE Trans. Sofiw. Eng. SE-8, 3 (May 1982), 211-222.
+Leslie Lamport, Time, clocks, and the ordering of events in a distributed system, Communications of the ACM, v.21 n.7, p.558-565, July 1978[doi>10.1145/359545.359563]
+LAMPORT, L. On interprocess communication, parts i, II. Distrib. Comput. 1 (1986), 77-101.
+Philip L. Lehman , s. Bing Yao, Efficient locking for concurrent operations on B-trees, ACM Transactions on Database Systems (TODS), v.6 n.4, p.650-670, Dec. 1981[doi>10.1145/319628.319663]
+LISKOV, B.L. On linguistic support for distributed programs. IEEE Trans. Sqfiw. Eng. SE-8, 3 (May 1982), 203-210.
+Barbara Liskov , Robert Scheifler, Guardians and Actions: Linguistic Support for Robust, Distributed Programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.3, p.381-404, July 1983[doi>10.1145/2166.357215]
+Nancy A. Lynch, Concurrency control for resilient nested transactions, Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems, March 21-23, 1983, Atlanta, Georgia[doi>10.1145/588058.588080]
+N. A. Lynch , M. Merritt, INTRODUCTION TO THE THEORY OF NESTED TRANSACTIONS, Massachusetts Institute of Technology, Cambridge, MA, 1986
+MINOURA, T. Multi-level concurrency control of a database system. In Proceedings of the 4ttl Symposium on Reliabilit)' in Distributed Software and Database S)'stems (Oct.). IEEE, New York, 1984, pp. 156-168.
+J. E.B. Moss, Nested transactions:  an approach to reliable distributed computing, Massachusetts Institute of Technology, Cambridge, MA, 1985
+J. Eliot B Moss , Nancy D. Griffeth , Marc H. Graham, Abstraction in recovery management, Proceedings of the 1986 ACM SIGMOD international conference on Management of data, p.72-83, May 28-30, 1986, Washington, D.C., United States[doi>10.1145/16894.16862]
+Christos H. Papadimitriou, The serializability of concurrent database updates, Journal of the ACM (JACM), v.26 n.4, p.631-653, Oct. 1979[doi>10.1145/322154.322158]
+Christos Papadimitriou, The theory of database concurrency control, Computer Science Press, Inc., New York, NY, 1986
+Christos H. Papadimitriou , Paris C. Kanellakis, On Concurrency Control by Multiple Versions, ACM Transactions on Database Systems (TODS), v.9 n.1, p.89-99, March 1984[doi>10.1145/348.318588]
+James L. Peterson , Abraham Silberschatz, Operating system concepts (2nd ed.), Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1985
+D. P. Reed, NAMING AND SYNCHRONIZATION IN A DECENTRALIZED COMPUTER SYSTEM, Massachusetts Institute of Technology, Cambridge, MA, 1978
+Peter M. Schwarz , Alfred Z. Spector, Synchronizing shared abstract types, ACM Transactions on Computer Systems (TOCS), v.2 n.3, p.223-250, Aug. 1984[doi>10.1145/989.1188]
+Dennis Shasha , Marc Snir, Efficient and correct execution of parallel programs that share memory, ACM Transactions on Programming Languages and Systems (TOPLAS), v.10 n.2, p.282-312, April 1988[doi>10.1145/42190.42277]
+Abraham Silberschatz, A multi-version concurrency scheme with no rollbacks, Proceedings of the first ACM SIGACT-SIGOPS symposium on Principles of distributed computing, p.216-223, August 18-20, 1982, Ottawa, Canada[doi>10.1145/800220.806700]
+Richard E. Stearns , Daniel J. Rosenkrantz, Distributed database concurrency controls using before-values, Proceedings of the 1981 ACM SIGMOD international conference on Management of data, April 29-May 01, 1981, Ann Arbor, Michigan[doi>10.1145/582318.582330]
+WALTER, B. Multilevel synchronization and nested transactions in advanced information systems. In G!.Conference on Database and Systems fior O,~ce Automation, Engineering and Scientific Applications. Springer-Verlag, New York, 1985, pp. 336-355.
+William Weihl , Barbara Liskov, Implementation of resilient, atomic data types, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.2, p.244-269, April 1985[doi>10.1145/3318.3319]
+Gerhard Weikum, A theoretical foundation of multi-level concurrency control, Proceedings of the fifth ACM SIGACT-SIGMOD symposium on Principles of database systems, p.31-43, March 24-26, 1986, Cambridge, Massachusetts, United States[doi>10.1145/6012.15401]
+WEIKUM, G. Principles and realization strategies of multilevel transaction management. Tech. Rep. DVSI-1987-D1. THD, Darmstadt, West Germany, 1987.
+Gerhard Weikum , Hans-Jörg Schek, Architectural Issues of Transaction Management in Multi-Layered Systems, Proceedings of the 10th International Conference on Very Large Data Bases, p.454-465, August 27-31, 1984

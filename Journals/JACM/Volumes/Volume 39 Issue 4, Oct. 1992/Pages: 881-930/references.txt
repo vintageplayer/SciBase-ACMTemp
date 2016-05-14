@@ -1,0 +1,26 @@
+~ALLCHIN, J. E. An architecture for reliable decentralized systems. Tech. Rep. GIT-ICS- ~83/23. Georgia Institute of Technology, Atlanta, Ca., Sept. 1983.
+James Aspnes , Alan Fekete , Nancy A. Lynch , Michael Merritt , William E. Weihl, A Theory of Timestamp-Based Concurrency Control for Nested Transactions, Proceedings of the 14th International Conference on Very Large Data Bases, p.431-444, August 29-September 01, 1988
+Philip A. Bernstein , Vassco Hadzilacos , Nathan Goodman, Concurrency control and recovery in database systems, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1987
+Alan Fekete , Nancy Lynch , Michael Merritt , William Weihl, Commutativity-based locking for nested transactions, Journal of Computer and System Sciences, v.41 n.1, p.65-156, August 1990[doi>10.1016/0022-0000(90)90034-I]
+Kenneth J. Goldman , Nancy A. Lynch, Quorum consensus in nested transaction systems, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.27-41, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41843]
+J. A. Goree, INTERNAL CONSISTENCY OF A DISTRIBUTED TRANSACTION SYSTEM WITH ORPHAN DETECTION, Massachusetts Institute of Technology, Cambridge, MA, 1983
+~HERLIHY, M., LYNCH, N., MERRITT, M., AND WEIHL, W. On the correctness of orphan ~elimination algorithms. In Proceedings of the 17th International Symposium on Fault-Tolerant ~Computing (Pittsburgh, Pa., July). IEEE, New York, 1987, pp. 8-13. (Extended version ~available as MIT/LCS/TM-329, Laboratory for Computer Science. Massachusetts Institute ~of Technology, Cambridge, Mass., May 1987.)
+David L. Detlefs , Maurice P. Herlihy , Jeannette M. Wing, Inheritance of Synchronization and Recovery Properties in Avalon/C++, Computer, v.21 n.12, p.57-69, December 1988[doi>10.1109/2.16189]
+Barbara Liskov , Robert Scheifler, Guardians and Actions: Linguistic Support for Robust, Distributed Programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.3, p.381-404, July 1983[doi>10.1145/2166.357215]
+~LISKOV, B., SCHEIFLER, R., WALKER, E. F., AND WEIHL, W. Orphan detection. In Proceedings ~ of the 17th International Symposium on Fault-Tolerant Computing (July). IEEE, New York, ~1987, pp. 2-7.
+~LYNCH, N.A. Concurrency control for resilient nested transactions. Adt,. Comput. Res. 3 ~(1986), 335-373.
+Nancy Lynch , Michael Merritt, Introduction to the theory of nested transactions, Theoretical Computer Science, v.62 n.1-2, p.123-185, December 1988[doi>10.1016/0304-3975(86)90014-9]
+Nancy Lynch , Michael Merritt, Introduction to the theory of nested transactions, Proceedings on International conference on database theory, p.278-305, December 1986, Rome, Italy
+~LYNCH, N., MERRITT, M., WEIHL, W., AND FEKETE, A. Atomic Transactions. Morgan- ~Kaufmann, San Mateo, Calif. To appear, Fall 1992.
+Nancy A. Lynch , Mark R. Tuttle, Hierarchical correctness proofs for distributed algorithms, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.137-151, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41852]
+~LYNCH, N., AND TUTrLE, M. An introduction to input/output automata. CWI Quarterly 2, 3 ~(1989), 219-246.
+M. Herlihy , M. S. McKendry, Timestamp-Based Orphan Elimination, IEEE Transactions on Software Engineering, v.15 n.7, p.825-831, July 1989[doi>10.1109/32.29482]
+J. E.B. Moss, Nested transactions:  an approach to reliable distributed computing, Massachusetts Institute of Technology, Cambridge, MA, 1985
+~NELSON, B.J. Remote procedure call. Tech. Rep. CMU-CS-81-119. Dept. Computer Sci- ~ence, Carnegie-Mellon Univ., Pittsburgh, Pa., May 1981.
+~PERL, S. Distributed commit protocols for nested atomic actions. Tech. Rep. ~MIT/LCS/TR-431. Massachusetts Institute of Technology, Cambridge, Mass., Sept. 1987.
+~Pu, C. AND NOE, J.D. Nested transactions for general objects: The Eden implementation. ~Tech. Rep. TR-85-12-03. Dept. of Computer Science, Univ. of Washington, Seattle, Wash., ~December 1985.
+Daniel J. Rosenkrantz , Richard E. Stearns , Philip M. Lewis, II, System level concurrency control for distributed database systems, ACM Transactions on Database Systems (TODS), v.3 n.2, p.178-198, June 1978[doi>10.1145/320251.320260]
+~SPECTOR, m., AND SWEDLOW, K. Guide to the Camelot Distributed Transaction Faczhty.' Release ~1. Carnegie-Mellon Univ., Pittsburgh, Pa., Oct. 1987.
+E. F. Walker, ORPHAN DETECTION IN THE ARGUS SYSTEM, Massachusetts Institute of Technology, Cambridge, MA, 1984
+W. E. Weihl, SPECIFICATION AND IMPLEMENTATION OF ATOMIC DATA TYPES, Massachusetts Institute of Technology, Cambridge, MA, 1984
+W. E. Weihl, Local atomicity properties: modular concurrency control for abstract data types, ACM Transactions on Programming Languages and Systems (TOPLAS), v.11 n.2, p.249-282, April 1989[doi>10.1145/63264.63518]

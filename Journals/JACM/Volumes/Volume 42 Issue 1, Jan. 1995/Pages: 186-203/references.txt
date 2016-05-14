@@ -1,0 +1,15 @@
+James Aspnes , Maurice Herlihy , Nir Shavit, Counting networks and multi-processor coordination, Proceedings of the twenty-third annual ACM symposium on Theory of computing, p.348-358, May 05-08, 1991, New Orleans, Louisiana, United States[doi>10.1145/103418.103421]
+Baruch Awerbuch , Lefteris M. Kirousis , Evangelos Kranakis , Paul M. B. Vitányi, A Proof Technique for Register Automicity, Proceedings of the Eighth Conference on Foundations of Software Technology and Theoretical Computer Science, p.286-303, December 21-23, 1988
+James E. Burns , Gary L. Peterson, Constructing multi-reader atomic values from non-atomic values, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.222-231, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41859]
+~BURNS, J. E., AND PETERSON, G.L. 1988. Sharp bounds for concurrent reading while writing. ~Tech. Rep. GIT-ICS-87/31 (Revised). Georgia Institute of Technology, Atlanta, Ga., June.
+Shlomo Dalev , Amos Israeli , Shlomo Moran, Self-stabilization of dynamic systems assuming only read/write atomicity, Proceedings of the ninth annual ACM symposium on Principles of distributed computing, p.103-117, August 22-24, 1990, Quebec City, Quebec, Canada[doi>10.1145/93385.93407]
+S. Halder , K. Vidyasankar, Counterexamples to a one writer multireader atomic variable construction of Burns and Peterson, ACM SIGOPS Operating Systems Review, v.26 n.1, p.78-87, Jan. 1992[doi>10.1145/130704.130712]
+Maurice Herlihy , Nir Shavit , Orli Waarts, Low contention linearizable counting, Proceedings of the 32nd annual symposium on Foundations of computer science, p.526-537, September 1991, San Juan, Puerto Rico[doi>10.1109/SFCS.1991.185415]
+~LAMPORT, L. 1986. On interprocess communication--Part I: Basic formalism, Part II: Algo- ~rithms. Dist. Comput. 1, 77-101.
+Richard Newman-Wolfe, A protocol for wait-free, atomic, multi-reader shared variables, Proceedings of the sixth annual ACM Symposium on Principles of distributed computing, p.232-248, August 10-12, 1987, Vancouver, British Columbia, Canada[doi>10.1145/41840.41860]
+Gary L. Peterson, Concurrent Reading While Writing, ACM Transactions on Programming Languages and Systems (TOPLAS), v.5 n.1, p.46-55, Jan. 1983[doi>10.1145/357195.357198]
+Ambuj K. Singh , James H. Anderson , Mohamed G. Gouda, The elusive atomic register, Journal of the ACM (JACM), v.41 n.2, p.311-339, March 1994[doi>10.1145/174652.174657]
+K. Vidyasankar, Converting Lamport's regular register to atomic register, Information Processing Letters, v.28 n.6, p.287-290, Aug. 29, 1988[doi>10.1016/0020-0190(88)90175-5]
+K. Vidyasankar, An elegant 1-writer multireader multivalued atomic register, Information Processing Letters, v.30 n.5, p.221-223, March 1989[doi>10.1016/0020-0190(89)90198-1]
+~VIDYASANKAR, K. 1990. Concurrent reading while writing revisited. Dist. Comput. 4, 81 85.
+K. Vidyasankar, A very simple construction of 1-writer multireader multivalued atomic variable, Information Processing Letters, v.37 n.6, p.323-326, March 28, 1991[doi>10.1016/0020-0190(91)90149-C]

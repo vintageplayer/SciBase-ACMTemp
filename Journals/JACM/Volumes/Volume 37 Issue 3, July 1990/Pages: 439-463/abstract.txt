@@ -1,0 +1,13 @@
+Lower bounds on the complexity of orthogonal range searching in the
+static case are established. Specifically, we consider the following
+dominance search problem: Given a collection ofnweighted points ind-space and a query pointq, compute the cumulative weight of
+the points dominated (in all coordinates) byq. It is assumed that the weights are
+chosen in a commutative semigroup and that the query time measures only
+the number of arithmetic operations needed to compute the answer. It is
+proved that ifmunits of storage are
+available, then the query time is at least proportional to (logn/log(2m/n))d–1in both the worst and average cases. This lower bound is provably tight
+form=
+&OHgr;(n(logn)d–1+&egr;)and any fixed &egr;
+> 0. A lower bound of &OHgr;(n/log
+logn)d)
+on the time required for executingninserts and queries is also established.—Author's  Abstract

@@ -1,0 +1,26 @@
+Yehuda Afek , Gideon Stupp , Dan Touitou, Long-Lived Adaptive Collect with Applications, Proceedings of the 40th Annual Symposium on Foundations of Computer Science, p.262, October 17-18, 1999
+Yehuda Afek , Gideon Stupp , Dan Touitou, Long lived adaptive splitter and applications, Distributed Computing, v.15 n.2, p.67-86, April 2002[doi>10.1007/s004460100060]
+Aguilera, M. K., and Frèlund, S. 2003. Strict linearizability and the power of aborting. Tech. Rep. HPL-2003-241, HP Laboratories Palo Alto.
+Aguilera, M. K., Frolund, S., Hadzilacos, V., Horn, S. L., and Toueg, S. 2006. Abortable shared objects. In Proceedings of the 20th International Symposium on Distributed Computing (DISC). Springer-Verlag, Berlin /Heidelberg, Germany, 534--536.
+James Aspnes , M. Herlihy, Fast randomized consensus using shared memory, Journal of Algorithms, v.11 n.3, p.441-461, Sep. 1990[doi>10.1016/0196-6774(90)90021-6]
+Hagit Attiya , Arie Fouren, Algorithms adapting to point contention, Journal of the ACM (JACM), v.50 n.4, p.444-468, July 2003[doi>10.1145/792538.792541]
+Hagit Attiya , Jennifer Welch, Distributed Computing: Fundamentals, Simulations and Advanced Topics, John Wiley & Sons, 2004
+Romain Boichat , Partha Dutta , Svend Frølund , Rachid Guerraoui, Deconstructing paxos, ACM SIGACT News, v.34 n.1, March 2003[doi>10.1145/637437.637447]
+Edsger W. Dijkstra, Cooperating sequential processes, The origin of concurrent programming: from semaphores to remote procedure calls, Springer-Verlag New York, Inc., New York, NY, 2002
+Cynthia Dwork , Maurice Herlihy , Orli Waarts, Contention in shared memory algorithms, Journal of the ACM (JACM), v.44 n.6, p.779-805, Nov. 1997[doi>10.1145/268999.269000]
+Faith Fich , Maurice Herlihy , Nir Shavit, On the space complexity of randomized synchronization, Journal of the ACM (JACM), v.45 n.5, p.843-862, Sept. 1998[doi>10.1145/290179.290183]
+Faith Ellen Fich , Danny Hendler , Nir Shavit, Linear Lower Bounds on Real-World Implementations of Concurrent Objects, Proceedings of the 46th Annual IEEE Symposium on Foundations of Computer Science, p.165-173, October 23-25, 2005[doi>10.1109/SFCS.2005.47]
+Michael J. Fischer , Nancy A. Lynch , Michael S. Paterson, Impossibility of distributed consensus with one faulty process, Journal of the ACM (JACM), v.32 n.2, p.374-382, April 1985[doi>10.1145/3149.214121]
+Eli Gafni , Michael Merritt , Gadi Taubenfeld, The concurrency hierarchy, and algorithms for unbounded concurrency, Proceedings of the twentieth annual ACM symposium on Principles of distributed computing, p.161-169, August 2001, Newport, Rhode Island, USA[doi>10.1145/383962.384008]
+Hendler, D., and Shavit, N. 2008. Solo-valency and the cost of coordination. Distrib. Comput. 21, 1, 43--54.
+Maurice Herlihy, Wait-free synchronization, ACM Transactions on Programming Languages and Systems (TOPLAS), v.13 n.1, p.124-149, Jan. 1991[doi>10.1145/114005.102808]
+Maurice Herlihy , Victor Luchangco , Mark Moir, Obstruction-Free Synchronization: Double-Ended Queues as an Example, Proceedings of the 23rd International Conference on Distributed Computing Systems, p.522, May 19-22, 2003
+Maurice Herlihy , Victor Luchangco , Mark Moir , William N. Scherer, III, Software transactional memory for dynamic-sized data structures, Proceedings of the twenty-second annual symposium on Principles of distributed computing, p.92-101, July 13-16, 2003, Boston, Massachusetts[doi>10.1145/872035.872048]
+Maurice P. Herlihy , Jeannette M. Wing, Linearizability: a correctness condition for concurrent objects, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.3, p.463-492, July 1990[doi>10.1145/78969.78972]
+Prasad Jayanti , King Tan , Sam Toueg, Time and Space Lower Bounds for Nonblocking Implementations, SIAM Journal on Computing, v.30 n.2, p.438-456, 2000[doi>10.1137/S0097539797317299]
+Leslie Lamport, The part-time parliament, ACM Transactions on Computer Systems (TOCS), v.16 n.2, p.133-169, May 1998[doi>10.1145/279227.279229]
+Doug Lea, Concurrent Programming in Java. Second Edition: Design Principles and Patterns, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1999
+Loui, M. C., and Abu-Amara, H. H. 1987. Memory Requirements for Agreement Among Unreliable Asynchronous Processes. JAI Press, Greenwich, 163--183.
+Luchangco, V., Moir, M., and Shavit, N. 2003. On the uncontended complexity of consensus. In Proceedings of the 17th International Symposium on Distributed Computing (DISC). Springer-Verlag, Berlin/Heidelberg, Germany, 45--59.
+Gary L. Peterson , Michael J. Fischer, Economical solutions for the critical section problem in a distributed system (Extended Abstract), Proceedings of the ninth annual ACM symposium on Theory of computing, p.91-97, May 04-04, 1977, Boulder, Colorado, USA[doi>10.1145/800105.803398]
+Jiong Yang , Gil Neiger , Eli Gafni, Structured derivations of consensus algorithms for failure detectors, Proceedings of the seventeenth annual ACM symposium on Principles of distributed computing, p.297-306, June 28-July 02, 1998, Puerto Vallarta, Mexico[doi>10.1145/277697.277755]

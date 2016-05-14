@@ -1,0 +1,13 @@
+In this paper, it is shown that the method of matings due to
+Andrews and Bibel can be extended to (first-order) languages with
+equality. A decidable version ofE-unification calledrigid E-unificationis introduced,
+and it is shown that the method of equational matings remains complete
+when used in conjunction with rigidE-unification. Checking that a family
+of mated sets is an equational mating is equivalent to the following
+restricted kind ofE-unification.ProblemGivenE&ar;=Ei&mid;
+1≤i≤na family ofnfinite sets of equations andS=ui,vi&mid;1≤i≤na set ofnpairs
+of terms, is there a substitutionqsuch that, treating each setqEias a set ofgroundequations (i.e., holding the variables inqEi“rigid”),qui, andqviare provably equal fromqEifori=1,...,n?Equivalently, is there a substitutionqsuch thatquiandqvican be shown congruent fromqEiby the congruence closure method fori=1,...,n?A substitutionqsolving the above problem is called arigidE&ar;-unifier of S, and
+a pairE&ar;,Ssuch thatShas
+some rigidE&ar;-unifier is called anequational
+premating.It is show that deciding whether a pairE&ar;,Sis an equational premating is an NP-complete
+problem.

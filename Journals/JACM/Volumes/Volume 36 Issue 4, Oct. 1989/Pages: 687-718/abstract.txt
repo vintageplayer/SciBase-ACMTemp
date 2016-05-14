@@ -1,0 +1,25 @@
+Many real-world applications involve the management of large
+amounts of time-dependent information. Temporal database systems
+maintain this information in order to support various sorts of inference
+(e.g., answering questions involving propositions that are true over
+some intervals and false over others). For any given proposition, there
+are typically many different occasions on which that proposition becomes
+true and persists for some length of time. In this paper, these
+occasions are referred to as time tokens. Many routine database
+operations must search through the database for time tokens
+satisfying certain temporal constraints. To expedite these operations,
+this paper describes a set of techniques for organizing temporal
+information by exploiting the local and global structure  inherent in a
+wide class of temporal reasoning problems. The global structure of time
+is exemplified in conventions for partitioning time according to the
+calendar and the clock. This global structure is used to partition the
+set of time tokens to facilitate retrieval. The local structure of time
+is exemplified in the causal relationships between events and the
+dependencies between planned activities. This local structure is used as
+part of a strategy for reducing the computation required during
+constraint propagation. The organizational techniques described in this
+paper are quite general, and have been used to support a variety of
+powerful inference mechanisms. Integrating these techniques into an
+existing temporal database system has increased, by an order of
+magnitude or more in most applications, the number of time tokens that
+can be efficiently handled.—Author's Abstract
